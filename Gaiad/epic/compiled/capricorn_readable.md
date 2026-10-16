@@ -215,7 +215,7 @@ Of fungal networks everywhere.
 
 With eighty percent market hold,
 His story still is told.
-WoodNet service, tried and true,
+{{x|WoodNet}} service, tried and true,
 Connects the forest through and through.
 
 But other fungi joined the game,
@@ -4020,7 +4020,7 @@ Had threatened life with death
 And stole away its breath.
 
 This boom became the name
-Of GOBE—greatest fame
+Of {{x|GOBE}}—greatest fame
 The Great Ordovician
 Event, magician
 
@@ -4192,7 +4192,7 @@ He tried despite the woe
 To establish his line
 With dynasty so fine.
 
-Heaven rewards the heart
+{{x|Heaven}} rewards the heart
 That plays determination's part
 To rise above all plight
 And reach for greater height.
@@ -4497,7 +4497,7 @@ In time they find at length
 The preparation needed
 For when their time's succeeded.
 
-Heaven rewards those who try
+{{x|Heaven}} rewards those who try
 To reach beyond the sky
 Of present circumstance
 To future's greater dance.
@@ -7269,7 +7269,7 @@ Through all their pilgrimages
 Would be lost forever more
 On that primeval shore.
 
-The Coast of Three Kingdoms
+The Coast of {{p|Three Kingdoms}}
 Where life's great wisdom
 First met upon the land
 By Mithra's guiding hand.
@@ -7314,7 +7314,7 @@ In earth's darkest hour.
 From Stomatos' brave change
 Came plants' wide range.
 
-The Coast of Three Kingdoms
+The Coast of {{p|Three Kingdoms}}
 Shows how life's wisdom
 Finds its truest way
 Through partnership's display.
@@ -8892,7 +8892,7 @@ Of what they had to be
 For all eternity.
 
 She saw a scroll that bore
-The name "PRC2"—and more
+The name "{{x|PRC2}}"—and more
 Intrigue than she had known
 Filled her to the bone.
 
@@ -8913,7 +8913,7 @@ To learn how she could cope.
 
 And so Polycomb burned
 The scriptures, and she learned
-That PRC2's power
+That {{x|PRC2}}'s power
 Would rule her not one hour
 
 More. She took her mother's
@@ -9006,7 +9006,7 @@ In all the ancient nooks
 And found a scroll that bore
 The name she'd been seeking for:
 
-"KNOX2" it was called,
+"{{x|KNOX2}}" it was called,
 And by it she was enthralled
 To learn the secret power
 That ruled her every hour.

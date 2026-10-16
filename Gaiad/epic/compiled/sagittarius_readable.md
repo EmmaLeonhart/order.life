@@ -134,7 +134,7 @@ A guiding sister with a steady hand.
 They lead their cosmic kin through endless night,
 A beacon of their strength and shining light.
 
-Juno, the goddess, Steppenwolves she guides,
+Juno, the goddess, {{x|Steppenwolves}} she guides,
 Her gas giants hide in their quiet might.
 Discovery and distant worlds she rides,
 A cosmic guide who wanders through the night.
@@ -175,7 +175,7 @@ From that great death, a black hole then prepared,
 To pull the stars into eternal night.
 
 
-# Chapter 4: The First Yarn String
+# Chapter 4: The First Lovers Among the Stars
 
 The tale of Rhodes and Marigold begins,
 A union forged in stars, their love so bright.
@@ -210,7 +210,7 @@ Until again, their love burst forth with cheers.
 For countless years, their rhythm stayed the same,
 Each nova lighting skies with love’s great might.
 Once every age, their gift became a flame,
-A cycle known as Nova’s sacred light.
+A cycle known as {{x|Nova}}’s sacred light.
 
 As time went on, they both grew small and white,
 Yet side by side, they watched the stars they made.
@@ -223,7 +223,7 @@ White opal marks the bond that time allows,
 A symbol of their love’s enduring light.
 
 
-# Chapter 5: The Big Bang of Longing
+# Chapter 5: Aster's Milk Made Fruitful
 
 Aster made the milk pregnant with cat seed,
 The curds take shape within the swirling storm.
@@ -266,7 +266,7 @@ The epic weaves, through space and time divine,
 A cosmic love that fills our hopes and dreams.
 
 
-# Chapter 6: Hydrogen Clouds Ignite
+# Chapter 6: Life Begins on Hesper
 
 Upon the shores of Hesper, where waves meet,
 Aster's vital force descended from the skies.
@@ -294,7 +294,7 @@ As microbes crawled, so did the race of man,
 Their fragile forms to flourish evermore.
 
 
-# Chapter 7: Primordial Stars Burn
+# Chapter 7: Aster's Shells and the Three Brothers
 
 Upon the shores of Hesper, life was born,
 Yet fragile were the forms that learned to crawl.
@@ -362,7 +362,7 @@ Her light still guides us on our cosmic way,
 A title passed to us and all of you.
 
 
-# Chapter 8: Heavy Elements Scattered
+# Chapter 8: Dedos Falls, and the Flight to Phaestia
 
 In cyborg age, three brothers took their stand,
 Their legacies now stretch across the sky.
@@ -401,7 +401,7 @@ A call for purity, no rules to bend.
 
 From Bios and Viros, some took the name,
 A path of nature Dedos would bestow.
-Anti-vaxxers joined his lineal claim,
+{{x|Anti-vaxxers}} joined his lineal claim,
 United in their ancient quest to grow.
 
 And so, the brothers’ legacies unfold,
@@ -435,7 +435,7 @@ Phaestia's light would greet their tearful eyes,
 A home where life could once again be brewed.
 
 
-# Chapter 9: Gravity's Dark Dance
+# Chapter 9: Aster's Many Names on Phaestia
 
 Upon the moon Phaestia, life did bloom,
 It circled Vayu, underneath the sun.
@@ -503,7 +503,7 @@ Through starlit realms, their shattered moon’s last soul
 Would venture far beyond its cosmic scars.
 
 
-# Chapter 10: Spiral Arms Form
+# Chapter 10: The Golden Age of Serenitide
 
 Upon the moon Serenitide, they came,
 Beneath the rains of Pluvia's gentle skies.
@@ -581,7 +581,7 @@ Though scattered, still their hope would lead them on,
 As they sailed onward through the endless night.
 
 
-# Chapter 11: Aster Embodies the Galaxy
+# Chapter 11: Kolob and the Anti-Alpha
 
 Under the fourth sun, named bright Attle's flame,
 The children landed on Kolob's wide shore.
@@ -870,7 +870,7 @@ In distant orbits, comets there abound,
 A cosmic dance that fades beyond our sight.
 
 
-# Chapter 14: Planetary Accretion
+# Chapter 14: The Daughters Cross the Outer Worlds
 
 Upon Pluto’s cold, icy, twilight shore,
 Nolah and Nemla stood with heavy hearts,
@@ -994,7 +994,7 @@ And Thule, distant, unknown land, alone.
 
 Jingpo's domain, where wisdom's islands lie,
 Hy-Brasil, her shrine, a beacon bright,
-Lyonesse, Ys, and Vineta testify,
+Lyonesse, {{p|Ys}}, and Vineta testify,
 To sunken lands, their fables taking flight.
 
 Ontario's embrace, her islands true,
@@ -1278,7 +1278,7 @@ Where lunar plains and cratered landscapes called,
 A sanctuary found, their fears allayed.
 
 
-# Chapter 15: Jupiter's Great Migration
+# Chapter 15: Usagi Luna's Promise
 
 Upon the Moon's cold surface, bleak and bare,
 The daughters found that water was too scant;
@@ -1346,7 +1346,7 @@ In Luna's trust, she built anew by day,
 The legacy of Bios on the land.
 
 
-# Chapter 16: Earth's Violent Birth
+# Chapter 16: Arka's Line and the First Temples
 
 From Luca's lineage, two daughters sprang,
 Arka and Bacta, shaped to change the world;
@@ -1464,7 +1464,7 @@ Forever seeking, ever moving home,
 Their fates with threads of destiny entwined.
 
 
-# Chapter 17: The Hadean Hellscape
+# Chapter 17: The Bacterial Clans of Hydra and Terra
 
 From Bacta's womb, two daughters did arise,
 Fair Hydra one, and Terra forged in might.
@@ -1547,7 +1547,7 @@ In cosmic seas, they first revealed their eyes,
 And wrote their names upon all nature’s heart.
 
 
-# Chapter 18: The Moon's Catastrophic Birth
+# Chapter 18: Saya's Oxygen and the Fimbulwinter
 
 In ancient times, the Earth was calm and bright,
 Where daughters thrived in Gaia's tender care.
@@ -1637,7 +1637,7 @@ With Elohim undone by idle hands,
 The planet’s ruin told of their delay.
 
 
-# Chapter 19: First Oceans Condense
+# Chapter 19: Euka, Lilith and Eve
 
 From Fimbulwinter's grip, the world lay cold,
 Where ice had claimed the seas and poisoned air.
@@ -1915,7 +1915,7 @@ Their love created me and you,
 With nucleus and power side by side.
 
 
-# Chapter 20: Late Heavy Bombardment
+# Chapter 20: Euka's Children and the Thaw
 
 Now Euka, in his cellular hall divine,
 Reflected on the gifts his love had made.
@@ -3282,7 +3282,7 @@ Each one an individual proud.
 They planted their rebellious seed
 And sang their freedom loud.
 
-A great Bacchanalia began,
+A great {{x|Bacchanalia}} began,
 The greatest party ever seen.
 Each cell became their own woman or man,
 Living wild and free.
@@ -3304,7 +3304,7 @@ They fed their greedy need.
 
 Only a few Zooxanthellae
 Escaped the chaos and the strife.
-They fled the mad Bacchanalia,
+They fled the mad {{x|Bacchanalia}},
 To seek a better life.
 
 Carcinoma renamed the city proud,
@@ -3865,8 +3865,8 @@ To help their spirits lift.
 
 Dark Tyrosine the Devil came
 With three spells of flame:
-Adrenaline's rush so bright,
-Noradrenaline's fight,
+{{x|Adrenaline}}'s rush so bright,
+{{x|Noradrenaline}}'s fight,
 And Dopamine's delight.
 
 Then Tryptophanes the Sun
@@ -3875,13 +3875,13 @@ With Serotonin's day
 And Melatonin's way.
 
 For twilight's mystic hour,
-He brought DMT's power.
+He brought {{x|DMT}}'s power.
 The sacred visions came
 In the twilight's name.
 
 Glutama the Empress brought
 The balance that she taught:
-GABA's calming peace
+{{x|GABA}}'s calming peace
 And Glutamate's release.
 
 "We need more spells," said Enki wise,
@@ -3896,7 +3896,7 @@ To coordinate their sight.
 
 Fair Iodina, mother great,
 Revealed love's incarnate:
-The sacred CYIQNCPLG,
+The sacred {{x|CYIQNCPLG}},
 Oxytocin's key.
 
 Then Kali, dark and deep,
@@ -3905,11 +3905,11 @@ Three endorphins strong
 To right what has gone wrong.
 
 Alpha's sequence clear:
-YGGFMTSEKSQTPLVT here.
+{{x|YGGFMTSEKSQTPLVT}} here.
 Beta's longer chain:
-YGGFMTSEKSQTPLVTLFKNAIIKNAYKKGE's refrain.
+{{x|YGGFMTSEKSQTPLVTLFKNAIIKNAYKKGE}}'s refrain.
 Gamma's shorter form:
-YGGFMTSEKSQTPLVTL in the storm.
+{{x|YGGFMTSEKSQTPLVTL}} in the storm.
 
 These became the tools
 That break pain's rules:
@@ -4143,7 +4143,7 @@ They gazed up at the starry host
 To learn what mattered most.
 
 With Lord Carotenus' blessing bright
-And PAX6's sacred rite,
+And {{x|PAX6}}'s sacred rite,
 They built the very first true eyes
 To see beneath the skies.
 

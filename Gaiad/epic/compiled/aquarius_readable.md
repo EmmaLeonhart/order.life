@@ -10,7 +10,7 @@ As pillars in evolution's sacred sight.
 
 Janusicthus begat two sons of fame:
 First Kondricthus, noble, strong, and true,
-And bright {{c|453|Osticthus}}, bearer of the name
+And bright Osticthus, bearer of the name
 Of those who'd find their home in waters blue.
 
 As they lived beneath the ocean's foam
@@ -43,7 +43,7 @@ Of life's experiments in earth and sea
 Will be revealed that you might learn and grow
 In wisdom's ways through all eternity."
 
-Great {{c|452|Chondricthus}} declared with royal pride:
+Great Chondricthus declared with royal pride:
 "As eldest I shall make the choice today—
 The nose I'll take to be my faithful guide
 To rule the boundless sea in every way.
@@ -2327,7 +2327,7 @@ Had given him an edge beyond compare.
 Like Dimetron, his sons would later be
 With great sails spread to glory in the sun,
 The masters of their age who'd hunt and see
-Their dynasty grow tall before the Permian's done.
+Their dynasty grow tall before the {{x|Permian}}'s done.
 
 From Pelyon would rise the house of Theraps—
 More upright, faster, with a keener brain,
@@ -2425,7 +2425,7 @@ Through every form of lizard, snake, and these
 Who hold the oldest lineage of all—
 The tuatara in his island fastness,
 Last of a line that heard the ancient call
-Of Sauros' children in their Carboniferous vastness.
+Of Sauros' children in their {{x|Carboniferous}} vastness.
 
 His children bear the scale of lizard-kind
 From mountain height to tidal rocky shore,
@@ -2501,9 +2501,9 @@ His children filled the rotting wood with more
 New generations than the swamp could hide.
 
 The cockroaches, the most ancient of all
-Who walked the Carboniferous in such sum
+Who walked the {{x|Carboniferous}} in such sum
 That scholars gave the era's ancient call
-"The Age of Cockroaches" in studies come—
+"The {{x|Age of Cockroaches}}" in studies come—
 
 Ten thousand times the number of a man
 In generations counted from the first,
@@ -2796,7 +2796,7 @@ Who kept the ancient body-plan most pure:
 His scales like plates of bony stone hard-cursed
 In fossil record—scales that would endure.
 
-The bichirs of the deepest African streams
+The bichirs of the deepest {{p|African}} streams
 Still carry Bichiros' ancient form today—
 They breathe both air and water, feeding on dreams
 Of prey in mudflat shallows after day.
@@ -2960,7 +2960,7 @@ To stand alone like living stories told
 From when the dinosaurs would walk no more.
 
 Great Cordaios was the first to tower
-Above the Carboniferous forest floor:
+Above the {{x|Carboniferous}} forest floor:
 A tree of forty meters, hour by hour
 He'd grown to match the Lepidos before.
 
@@ -3035,7 +3035,7 @@ Who'd watch the dinosaurs both rise and fall
 And still be standing after all their roar
 
 Had faded into stone—the ginkgo tree
-That Buddhist monks would tend in temple courts,
+That {{x|Buddhist}} monks would tend in temple courts,
 Who'd stand through every age with dignity
 And make of permanence the highest sort
 
@@ -3108,7 +3108,7 @@ The tree of Ammonos remains unknown
 In all its branching—tangled, rich, and vexed.
 
 Yet all of them were taken in the end:
-When the great dying struck the Mesozoic's close,
+When the great dying struck the {{x|Mesozoic}}'s close,
 Not one of Ammonos' line would bend
 Or find a refuge from those final throes.
 
@@ -3147,7 +3147,7 @@ First Belemno, whose internal shell remained
 As solid cylinder of calcite prime—
 A bullet in his flesh that strength maintained.
 
-His children filled the Mesozoic seas
+His children filled the {{x|Mesozoic}} seas
 With numbers past what any eye could count,
 Like bullets scattered on the ocean's leas
 Their rostral shells in limestone strata mount

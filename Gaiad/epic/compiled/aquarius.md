@@ -10,7 +10,7 @@ As pillars in evolution's sacred sight.
 
 {{c|Janusicthus}} begat two sons of fame:
 First {{c|Kondricthus}}, noble, strong, and true,
-And bright {{c|{{c|453|Osticthus}}}}, bearer of the name
+And bright {{c|Osticthus}}, bearer of the name
 Of those who'd find their home in waters blue.
 
 As they lived beneath the ocean's foam
@@ -43,14 +43,14 @@ Of life's experiments in earth and sea
 Will be revealed that you might learn and grow
 In wisdom's ways through all eternity."
 
-Great {{c|{{c|452|Chondricthus}}}} declared with royal pride:
+Great {{c|Chondricthus}} declared with royal pride:
 "As eldest I shall make the choice today—
 The nose I'll take to be my faithful guide
 To rule the boundless sea in every way.
 
 I'll hunt the placoderms with scenting power
 And conquer all their spirit of resistance
-{{c|Throughout}} each day and every passing hour
+Throughout each day and every passing hour
 With skill that knows no limits or distance."
 
 And so he was granted then and there
@@ -76,7 +76,7 @@ With stories that his children yet would tell.
 And so the noble sons of bright sight
 {{c|Osticthus}} learned to rule by vision clear
 While mighty sons of {{c|Kondricthus}}' might
-{{c|Ruled}} by the scents that they could always hear.
+Ruled by the scents that they could always hear.
 
 Great {{c|Chondricthus}} could smell from waters far
 Sweet streams that called like some celestial star
@@ -131,7 +131,7 @@ Down his throat like crown worn from the sky.
 And so his spiracles became the door
 For air, not water's flow, to enter in—
 A change that helped him grow much more
-{{c|Than}} he had ever dreamed that he could win.
+Than he had ever dreamed that he could win.
 
 The noble sons of bright {{c|Osticthus}} sing
 Their hymns of victory and sacred praise
@@ -141,12 +141,12 @@ Their hearts the sight of home through all their days
 In mountains ancient where their song rings clear
 And life is old and deep beyond all measure
 And memories keep their vigil year by year
-{{c|Despite}} all joys and fears that time can treasure.
+Despite all joys and fears that time can treasure.
 
 {{c|Osticthus}} married fair {{c|Eutelea}} bright,
 Beyond compare in beauty and in grace,
 And in their blessed home filled with delight
-{{c|Together}} in their sacred dwelling place
+Together in their sacred dwelling place
 
 They bore two sons both noble, tried, and true:
 {{c|Actinus}} and great {{c|Sacropter}}'s name,
@@ -166,7 +166,7 @@ Of great {{c|Elivagar}}'s blessed, sacred view.
 He swam between the trees with graceful art
 And expertise that came from faithful prayer
 And built with all his loving, patient heart
-{{c|Strong}} bony fins with tender, loving care
+Strong bony fins with tender, loving care
 
 To bear his weight as he would gently push
 Through forest's leafy, green, and sacred bush
@@ -198,7 +198,7 @@ And he took blessed {{c|Andrea}} {{c|Lepis}} home
 As wife, who made their sacred marriage roam
 With joy through realms where angels love to roam.
 
-{{c|Nine}} hundred eggs so bright she laid with care
+Nine hundred eggs so bright she laid with care
 That filled the world with sight beyond compare
 And showed that love can multiply and share
 Its blessings far beyond what mortals dare.
@@ -304,7 +304,7 @@ In ways we never dreamed were possible
 When we thought we were responsible
 
 For everything alone, but heaven's grace
-{{c|Reveals}} to us our true and destined place
+Reveals to us our true and destined place
 In love's eternal plan for you and me
 Through all the days of our eternity.
 
@@ -330,7 +330,7 @@ More than they seem through all eternity.
 
 From {{c|Janus}} to the three great houses blessed,
 We see how prayer and faith when they're expressed
-{{c|Together}} can free the seeking, faithful mind
+Together can free the seeking, faithful mind
 And help the heart true peace and wisdom find
 
 Beyond what we can know through strength alone,
@@ -362,7 +362,7 @@ Through darkness and in glory's golden rays
 Both day and through the blessed, eternal night.
 
 {{c|Dikar}} married {{c|Ferma}} fair and true,
-{{c|Together}} they became a blessed pair
+Together they became a blessed pair
 Who bore two sons of fame before they knew
 Their lives would spread throughout the earth and air.
 
@@ -407,7 +407,7 @@ When our defenses fail through loss or strain
 From what we ought to fear but do not seek.
 
 {{c|Saccharos}}, noble son of great {{c|Ascus}},
-{{c|Abandoned}} what his father's way begun
+Abandoned what his father's way begun
 And chose a path less parasitic, thus
 He found a different way when day was done.
 
@@ -433,7 +433,7 @@ Of bread and beer for all the human race.
 
 He is the greatest among all the yeast,
 His song brews drinks so fine and makes our bread
-{{c|Divine}} with rising power for the feast
+Divine with rising power for the feast
 That fills us when our hungry souls are fed
 
 With blessing from above through his pure love
@@ -463,11 +463,11 @@ And keep their banners of hope unfurled.
 
 But {{c|Leotios}} became the father true
 Of forms that would much rather complex be
-{{c|Than}} simple—filamentous through and through
+Than simple—filamentous through and through
 With great complexity for all to see,
 
 But never letting all their intricate ways
-{{c|Extend}} beyond the microscopic scale,
+Extend beyond the microscopic scale,
 In their detailed story through all their days
 They keep their fascinating, detailed tale.
 
@@ -493,7 +493,7 @@ To health restored and recovery's sweet sight.
 
 And {{c|Capnos}} became father of the race
 Of those who'd rather live as soot mold does
-{{c|Throughout}} each day, and in their dwelling place
+Throughout each day, and in their dwelling place
 They serve the world with quiet, faithful love.
 
 {{c|Baston}} begat two sons of different ways:
@@ -534,7 +534,7 @@ And bless all those who walk within their sight.
 {{c|Ustella}} blesses all our corn each hour
 With protein and with taste beyond compare
 That none should waste—her sweet, abundant power
-{{c|Fills}} harvest time with blessings rich and rare.
+Fills harvest time with blessings rich and rare.
 
 Her daughters are the smuts—though some may think
 They're gross, those who have tasted truly know
@@ -569,7 +569,7 @@ Four sons who'd never let their light grow dim
 Against their father's ways through all their days
 But serve with faithful hearts both true and strong
 And sing his glory in their faithful praise
-{{c|Throughout}} their lives and in their faithful song.
+Throughout their lives and in their faithful song.
 
 {{c|Jello}} formed vessels bright of gel to hold
 The sight of spores, and he returned once more
@@ -577,7 +577,7 @@ To where {{c|Virginia}}'s forests, green and old,
 Burned bright with life from mountain peak to shore.
 
 In rain forests where aria of life
-{{c|Rang}} out so clear for all who had an ear
+Rang out so clear for all who had an ear
 To hear above the noise and bitter strife
 The song of hope that conquers every fear.
 
@@ -627,8 +627,8 @@ What once was meant to be our daily care—
 They steal like thieves and in the darkness hide
 
 The goodness that was meant for those who never
-{{c|Bent}} to evil's poisonous, bitter ways
-{{c|Throughout}} their lives, who would forever
+Bent to evil's poisonous, bitter ways
+Throughout their lives, who would forever
 Live faithfully through all their earthly days.
 
 Eat mushrooms, but beware and never eat
@@ -805,7 +805,7 @@ His words of warning seemed to seal their tomb
 And gave them little choice but heed them all.
 
 {{c|Shesha}} traveled to every distant sea
-{{c|Despite}} the cold night breeze and bitter storm,
+Despite the cold night breeze and bitter storm,
 Across the reefs where coral colonies
 Had flourished long in beauty's living form.
 
@@ -825,7 +825,7 @@ Only the faithful's vision, and their worth,
 Will guide them through the storm with faithful sight
 
 And keep their bodies warm when all the rest
-{{c|Turns}} into dust because they could not see
+Turns into dust because they could not see
 That those who fail the ultimate test
 Are those who trust in their own vanity."
 
@@ -845,7 +845,7 @@ Two demons came with death's cruel tyranny:
 {{c|Kellwasser}}'s breath of poisoned misery
 
 And {{c|Hangenberg}}'s most cruel and evil hand
-{{c|Destroyed}} both ocean's depths and fertile land.
+Destroyed both ocean's depths and fertile land.
 The reefs that filled the world with beauty bright
 Were crushed beneath the weight of endless night.
 
@@ -906,12 +906,12 @@ And he was left to face the world unknown.
 
 While all the sons of mighty {{c|Eurypter}}
 Were exiled from the seas they'd loved so long,
-{{c|Never}} to return, no one to deter
+Never to return, no one to deter
 Their banishment—they'd lost their ancient song
 
 Of joy that they had sung through centuries
 In waters that they'd loved through all their days,
-{{c|Never}} to return to gentle seas
+Never to return to gentle seas
 That they would yearn for all their exiled ways.
 
 The blood of ammonites turned all the seas
@@ -921,7 +921,7 @@ And left the world filled with the faithful dead.
 
 The last graptolite lived a life so lone
 That none would give to any living thing:
-{{c|Completely}} isolated and alone,
+Completely isolated and alone,
 {{c|Remembering}} the glory of his king
 
 And all the beauty that was lost when frost
@@ -939,7 +939,7 @@ Of sorrow, loss, and unrelenting pain
 That fell like bitter acid rain to sour
 The faithful hearts that struggled to remain
 
-{{c|True}} to their hope when evil's poison spread
+True to their hope when evil's poison spread
 Its bitterness throughout the world so wide
 And hope seemed like a flower that was dead
 With none to tend it or stand by its side.
@@ -980,7 +980,7 @@ Of those who came before and paid the cost
 Of freedom when all hope seemed to be lost.
 
 The wisdom of the old must not remain
-{{c|Untold}}, but passed from heart to heart again
+Untold, but passed from heart to heart again
 If we would ever hope to make a start
 At healing the world's broken heart
 
@@ -1219,7 +1219,7 @@ The {{c|Carboniferous}} in reason and rhyme.
 
 {{c|Romulus}} and {{c|Remus}} fought with pride
 About the place where they should build their home
-{{c|Throughout}} the fertile lands both far and wide
+Throughout the fertile lands both far and wide
 Where future generations yet might roam.
 
 {{c|Romulus}} declared with voice so strong:
@@ -1228,7 +1228,7 @@ Of {{c|Mississippi}}'s waters deep and long
 Our mighty nation surely ought to grow."
 
 But {{c|Remus}} chose a different destiny:
-{{c|Small}} {{c|Aventine}} below the river's might,
+Small {{c|Aventine}} below the river's might,
 A valley where his people could be free
 But hidden from the glory of sunlight.
 
@@ -1255,7 +1255,7 @@ And secrets of the earth can still be found
 In aquifers so deep and caverns wide
 Where ancient mysteries keep vigil true
 Through all the years with patience as their guide
-{{c|Despite}} the joys and sorrows they've been through.
+Despite the joys and sorrows they've been through.
 
 But {{c|Romulus}} climbed up into the day
 Upon the land like brothers who had come
@@ -1297,7 +1297,7 @@ Whose hearts desired both {{c|Tails}} and {{c|Collembo}},
 Two children who like bright and shining ones
 Would always their father's loving nature show
 
-{{c|Throughout}} each day in all they chose to do
+Throughout each day in all they chose to do
 With hearts both brave and faithful to the end,
 Their legacy would prove both strong and true
 And on their strength all future hopes depend.
@@ -1417,7 +1417,7 @@ More graceful than a crown of feathers bright
 Upon the wind with beauty beyond compare,
 More elegant and filled with pure delight
 
-{{c|Than}} his father's gliding had ever been,
+Than his father's gliding had ever been,
 With grace that lifted up his noble heart
 And played upon the wind like violin
 That turns all flying into highest art.
@@ -1519,7 +1519,7 @@ Where nothing can their happiness destroy.
 
 But if you are a man you'd better plan
 For love that lasts much longer than a day,
-{{c|Don}}'t follow their example if you can
+Don't follow their example if you can
 But find love that will never fade away.
 
 Great {{c|Draco}} lived his life at different pace
@@ -1583,7 +1583,7 @@ Are members of this warrior crew whose might
 {{c|Rules}} air from dawn to dusk in all their ways.
 
 The {{c|Griffonflies}} grew wide beyond compare—
-{{c|Almost}} a meter's pride of wingspan true
+Almost a meter's pride of wingspan true
 That carried them through battles in the air
 Beneath the endless dome of heavenly blue.
 
@@ -1605,7 +1605,7 @@ The world to peace and harmony and light.
 {{c|Beetles}}, ants, and flies beyond all count
 And millions more that rise with every dawn
 When day begins—they all trace their account
-{{c|Back}} to {{c|Neopter}}'s track from waters drawn
+Back to {{c|Neopter}}'s track from waters drawn
 
 To air and land so green and beautiful
 Where insects could explore from shore to shore
@@ -1625,7 +1625,7 @@ From underground streams where {{c|Remus}} and other
 To great {{c|Insectus}}' mark upon the world
 Above, built by those who chose to love
 The light and air where hope's flag is unfurled
-{{c|Throughout}} eternity by One above,
+Throughout eternity by One above,
 
 The insects show us how we ought to live:
 To make and keep our vow to rise above
@@ -1696,7 +1696,7 @@ The lungfish could survive from year to year
 And stay alive through everything.
 
 By breathing air so free from sky above
-{{c|Throughout}} eternity they would survive
+Throughout eternity they would survive
 Until the rains returned with gentle love
 And waters they had yearned for came alive
 
@@ -1713,7 +1713,7 @@ And find his food in rivers, lakes, and seas.
 All fish have nostrils four by nature's law:
 Two let the water pour inside for breath,
 Two let the water flow without a flaw
-{{c|Back}} out through gills that conquer watery death.
+Back out through gills that conquer watery death.
 
 {{c|Tetram}} was no exception to this rule,
 His nostrils came in four like all before,
@@ -1762,7 +1762,7 @@ Of how from fish the land-dweller arose.
 
 {{c|Tintetra}} bore two sons beyond compare:
 {{c|Platelpis}} and {{c|Tiniraus}}, each following
-{{c|Different}} laws but sharing the same prayer
+Different laws but sharing the same prayer
 For growth through each new dawn that life is bringing.
 
 {{c|Platelpis}} bore two sons of different ways:
@@ -1782,7 +1782,7 @@ And filled his days with beauty and delight.
 
 Through marshes dark and deep where secrets dwell
 He kept his vigil through the passing years,
-{{c|Despite}} all joys and fears he knew full well
+Despite all joys and fears he knew full well
 That exploration conquers all our fears.
 
 {{c|Elpis}} begat a son when wandering done:
@@ -1800,7 +1800,7 @@ A maiden bright who filled his world with light,
 He married her with joy beyond compare
 And made their union shine both day and night.
 
-{{c|Together}} they would raise with tender care
+Together they would raise with tender care
 A son whom they would name {{c|Tictalicus}},
 A name that would be known everywhere
 As greater than a throne most glorious.
@@ -1840,14 +1840,14 @@ So air could flow in cleaner, purer streams
 And he could smell each scent upon the air
 And hear each sound in all his vivid dreams.
 
-{{c|Now}} he could hear with crystal clarity
+Now he could hear with crystal clarity
 Each whisper of the wind through forest green
 And smell with perfect sensory ability
 The sweetest fragrances he'd ever seen.
 
 {{c|Icthyos}} bore a son when youth was past:
 The {{c|Watcher}} who would build no gills at all,
-{{c|Despite}} the water's call that held him fast
+Despite the water's call that held him fast
 He chose to heed the land's eternal call.
 
 For {{c|Watcher}} needed none—when youth was done
@@ -1861,7 +1861,7 @@ In evolution's book and chose the way
 Of those who'd left the sea's ancestral cage.
 
 He lived on land so green and breathed air free
-{{c|Throughout}} his days beneath the open sky,
+Throughout his days beneath the open sky,
 And there he raised his sons in harmony
 With all the earth beneath and heaven high.
 
@@ -1897,7 +1897,7 @@ To build their cities bright from day to day.
 
 He became the great father of all those
 Who'd rather live in air forever free
-{{c|Than}} go back to the sea where their birth arose
+Than go back to the sea where their birth arose
 But now they sang a different melody.
 
 From {{c|Rhipidistius}}' survival through the night
@@ -1905,7 +1905,7 @@ To evolution's arrival at the door
 Of land both green and filled with morning light,
 The vertebrates discovered something more
 
-{{c|Than}} they had ever dreamed was possible
+Than they had ever dreamed was possible
 In their ancestral home beneath the waves:
 The freedom that would make responsible
 Each soul that from the sea's embrace it saves.
@@ -2071,7 +2071,7 @@ To live the ancient stories yet untold.
 Thus gastropods learned every way to breathe:
 Some kept their gills for water's sweet embrace,
 Some found in air the power to achieve
-{{c|New}} heights and claim the atmosphere's great space.
+New heights and claim the atmosphere's great space.
 
 Some turned their shells to windows for the sun
 And learned to eat the light like plants of old,
@@ -2327,7 +2327,7 @@ Had given him an edge beyond compare.
 Like {{c|Dimetron}}, his sons would later be
 With great sails spread to glory in the sun,
 The masters of their age who'd hunt and see
-Their dynasty grow tall before the Permian's done.
+Their dynasty grow tall before the {{x|Permian}}'s done.
 
 From {{c|Pelyon}} would rise the house of {{c|Theraps}}—
 More upright, faster, with a keener brain,
@@ -2425,7 +2425,7 @@ Through every form of lizard, snake, and these
 Who hold the oldest lineage of all—
 The tuatara in his island fastness,
 Last of a line that heard the ancient call
-Of {{c|Sauros}}' children in their Carboniferous vastness.
+Of {{c|Sauros}}' children in their {{x|Carboniferous}} vastness.
 
 His children bear the scale of lizard-kind
 From mountain height to tidal rocky shore,
@@ -2501,9 +2501,9 @@ His children filled the rotting wood with more
 New generations than the swamp could hide.
 
 The cockroaches, the most ancient of all
-Who walked the Carboniferous in such sum
+Who walked the {{x|Carboniferous}} in such sum
 That scholars gave the era's ancient call
-"The Age of Cockroaches" in studies come—
+"The {{x|Age of Cockroaches}}" in studies come—
 
 Ten thousand times the number of a man
 In generations counted from the first,
@@ -2796,7 +2796,7 @@ Who kept the ancient body-plan most pure:
 His scales like plates of bony stone hard-cursed
 In fossil record—scales that would endure.
 
-The bichirs of the deepest African streams
+The bichirs of the deepest {{p|African}} streams
 Still carry {{c|Bichiros}}' ancient form today—
 They breathe both air and water, feeding on dreams
 Of prey in mudflat shallows after day.
@@ -2960,7 +2960,7 @@ To stand alone like living stories told
 From when the dinosaurs would walk no more.
 
 Great {{c|Cordaios}} was the first to tower
-Above the Carboniferous forest floor:
+Above the {{x|Carboniferous}} forest floor:
 A tree of forty meters, hour by hour
 He'd grown to match the {{c|Lepidos}} before.
 
@@ -3035,7 +3035,7 @@ Who'd watch the dinosaurs both rise and fall
 And still be standing after all their roar
 
 Had faded into stone—the ginkgo tree
-That Buddhist monks would tend in temple courts,
+That {{x|Buddhist}} monks would tend in temple courts,
 Who'd stand through every age with dignity
 And make of permanence the highest sort
 
@@ -3108,7 +3108,7 @@ The tree of {{c|Ammonos}} remains unknown
 In all its branching—tangled, rich, and vexed.
 
 Yet all of them were taken in the end:
-When the great dying struck the Mesozoic's close,
+When the great dying struck the {{x|Mesozoic}}'s close,
 Not one of {{c|Ammonos}}' line would bend
 Or find a refuge from those final throes.
 
@@ -3147,7 +3147,7 @@ First {{c|Belemno}}, whose internal shell remained
 As solid cylinder of calcite prime—
 A bullet in his flesh that strength maintained.
 
-His children filled the Mesozoic seas
+His children filled the {{x|Mesozoic}} seas
 With numbers past what any eye could count,
 Like bullets scattered on the ocean's leas
 Their rostral shells in limestone strata mount

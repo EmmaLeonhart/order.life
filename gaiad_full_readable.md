@@ -140,7 +140,7 @@ A guiding sister with a steady hand.
 They lead their cosmic kin through endless night,
 A beacon of their strength and shining light.
 
-Juno, the goddess, Steppenwolves she guides,
+Juno, the goddess, {{x|Steppenwolves}} she guides,
 Her gas giants hide in their quiet might.
 Discovery and distant worlds she rides,
 A cosmic guide who wanders through the night.
@@ -181,7 +181,7 @@ From that great death, a black hole then prepared,
 To pull the stars into eternal night.
 
 
-# Chapter 4: The First Yarn String
+# Chapter 4: The First Lovers Among the Stars
 
 The tale of Rhodes and Marigold begins,
 A union forged in stars, their love so bright.
@@ -216,7 +216,7 @@ Until again, their love burst forth with cheers.
 For countless years, their rhythm stayed the same,
 Each nova lighting skies with love’s great might.
 Once every age, their gift became a flame,
-A cycle known as Nova’s sacred light.
+A cycle known as {{x|Nova}}’s sacred light.
 
 As time went on, they both grew small and white,
 Yet side by side, they watched the stars they made.
@@ -229,7 +229,7 @@ White opal marks the bond that time allows,
 A symbol of their love’s enduring light.
 
 
-# Chapter 5: The Big Bang of Longing
+# Chapter 5: Aster's Milk Made Fruitful
 
 Aster made the milk pregnant with cat seed,
 The curds take shape within the swirling storm.
@@ -272,7 +272,7 @@ The epic weaves, through space and time divine,
 A cosmic love that fills our hopes and dreams.
 
 
-# Chapter 6: Hydrogen Clouds Ignite
+# Chapter 6: Life Begins on Hesper
 
 Upon the shores of Hesper, where waves meet,
 Aster's vital force descended from the skies.
@@ -300,7 +300,7 @@ As microbes crawled, so did the race of man,
 Their fragile forms to flourish evermore.
 
 
-# Chapter 7: Primordial Stars Burn
+# Chapter 7: Aster's Shells and the Three Brothers
 
 Upon the shores of Hesper, life was born,
 Yet fragile were the forms that learned to crawl.
@@ -368,7 +368,7 @@ Her light still guides us on our cosmic way,
 A title passed to us and all of you.
 
 
-# Chapter 8: Heavy Elements Scattered
+# Chapter 8: Dedos Falls, and the Flight to Phaestia
 
 In cyborg age, three brothers took their stand,
 Their legacies now stretch across the sky.
@@ -407,7 +407,7 @@ A call for purity, no rules to bend.
 
 From Bios and Viros, some took the name,
 A path of nature Dedos would bestow.
-Anti-vaxxers joined his lineal claim,
+{{x|Anti-vaxxers}} joined his lineal claim,
 United in their ancient quest to grow.
 
 And so, the brothers’ legacies unfold,
@@ -441,7 +441,7 @@ Phaestia's light would greet their tearful eyes,
 A home where life could once again be brewed.
 
 
-# Chapter 9: Gravity's Dark Dance
+# Chapter 9: Aster's Many Names on Phaestia
 
 Upon the moon Phaestia, life did bloom,
 It circled Vayu, underneath the sun.
@@ -509,7 +509,7 @@ Through starlit realms, their shattered moon’s last soul
 Would venture far beyond its cosmic scars.
 
 
-# Chapter 10: Spiral Arms Form
+# Chapter 10: The Golden Age of Serenitide
 
 Upon the moon Serenitide, they came,
 Beneath the rains of Pluvia's gentle skies.
@@ -587,7 +587,7 @@ Though scattered, still their hope would lead them on,
 As they sailed onward through the endless night.
 
 
-# Chapter 11: Aster Embodies the Galaxy
+# Chapter 11: Kolob and the Anti-Alpha
 
 Under the fourth sun, named bright Attle's flame,
 The children landed on Kolob's wide shore.
@@ -876,7 +876,7 @@ In distant orbits, comets there abound,
 A cosmic dance that fades beyond our sight.
 
 
-# Chapter 14: Planetary Accretion
+# Chapter 14: The Daughters Cross the Outer Worlds
 
 Upon Pluto’s cold, icy, twilight shore,
 Nolah and Nemla stood with heavy hearts,
@@ -1000,7 +1000,7 @@ And Thule, distant, unknown land, alone.
 
 Jingpo's domain, where wisdom's islands lie,
 Hy-Brasil, her shrine, a beacon bright,
-Lyonesse, Ys, and Vineta testify,
+Lyonesse, {{p|Ys}}, and Vineta testify,
 To sunken lands, their fables taking flight.
 
 Ontario's embrace, her islands true,
@@ -1284,7 +1284,7 @@ Where lunar plains and cratered landscapes called,
 A sanctuary found, their fears allayed.
 
 
-# Chapter 15: Jupiter's Great Migration
+# Chapter 15: Usagi Luna's Promise
 
 Upon the Moon's cold surface, bleak and bare,
 The daughters found that water was too scant;
@@ -1352,7 +1352,7 @@ In Luna's trust, she built anew by day,
 The legacy of Bios on the land.
 
 
-# Chapter 16: Earth's Violent Birth
+# Chapter 16: Arka's Line and the First Temples
 
 From Luca's lineage, two daughters sprang,
 Arka and Bacta, shaped to change the world;
@@ -1470,7 +1470,7 @@ Forever seeking, ever moving home,
 Their fates with threads of destiny entwined.
 
 
-# Chapter 17: The Hadean Hellscape
+# Chapter 17: The Bacterial Clans of Hydra and Terra
 
 From Bacta's womb, two daughters did arise,
 Fair Hydra one, and Terra forged in might.
@@ -1553,7 +1553,7 @@ In cosmic seas, they first revealed their eyes,
 And wrote their names upon all nature’s heart.
 
 
-# Chapter 18: The Moon's Catastrophic Birth
+# Chapter 18: Saya's Oxygen and the Fimbulwinter
 
 In ancient times, the Earth was calm and bright,
 Where daughters thrived in Gaia's tender care.
@@ -1643,7 +1643,7 @@ With Elohim undone by idle hands,
 The planet’s ruin told of their delay.
 
 
-# Chapter 19: First Oceans Condense
+# Chapter 19: Euka, Lilith and Eve
 
 From Fimbulwinter's grip, the world lay cold,
 Where ice had claimed the seas and poisoned air.
@@ -1921,7 +1921,7 @@ Their love created me and you,
 With nucleus and power side by side.
 
 
-# Chapter 20: Late Heavy Bombardment
+# Chapter 20: Euka's Children and the Thaw
 
 Now Euka, in his cellular hall divine,
 Reflected on the gifts his love had made.
@@ -3288,7 +3288,7 @@ Each one an individual proud.
 They planted their rebellious seed
 And sang their freedom loud.
 
-A great Bacchanalia began,
+A great {{x|Bacchanalia}} began,
 The greatest party ever seen.
 Each cell became their own woman or man,
 Living wild and free.
@@ -3310,7 +3310,7 @@ They fed their greedy need.
 
 Only a few Zooxanthellae
 Escaped the chaos and the strife.
-They fled the mad Bacchanalia,
+They fled the mad {{x|Bacchanalia}},
 To seek a better life.
 
 Carcinoma renamed the city proud,
@@ -3871,8 +3871,8 @@ To help their spirits lift.
 
 Dark Tyrosine the Devil came
 With three spells of flame:
-Adrenaline's rush so bright,
-Noradrenaline's fight,
+{{x|Adrenaline}}'s rush so bright,
+{{x|Noradrenaline}}'s fight,
 And Dopamine's delight.
 
 Then Tryptophanes the Sun
@@ -3881,13 +3881,13 @@ With Serotonin's day
 And Melatonin's way.
 
 For twilight's mystic hour,
-He brought DMT's power.
+He brought {{x|DMT}}'s power.
 The sacred visions came
 In the twilight's name.
 
 Glutama the Empress brought
 The balance that she taught:
-GABA's calming peace
+{{x|GABA}}'s calming peace
 And Glutamate's release.
 
 "We need more spells," said Enki wise,
@@ -3902,7 +3902,7 @@ To coordinate their sight.
 
 Fair Iodina, mother great,
 Revealed love's incarnate:
-The sacred CYIQNCPLG,
+The sacred {{x|CYIQNCPLG}},
 Oxytocin's key.
 
 Then Kali, dark and deep,
@@ -3911,11 +3911,11 @@ Three endorphins strong
 To right what has gone wrong.
 
 Alpha's sequence clear:
-YGGFMTSEKSQTPLVT here.
+{{x|YGGFMTSEKSQTPLVT}} here.
 Beta's longer chain:
-YGGFMTSEKSQTPLVTLFKNAIIKNAYKKGE's refrain.
+{{x|YGGFMTSEKSQTPLVTLFKNAIIKNAYKKGE}}'s refrain.
 Gamma's shorter form:
-YGGFMTSEKSQTPLVTL in the storm.
+{{x|YGGFMTSEKSQTPLVTL}} in the storm.
 
 These became the tools
 That break pain's rules:
@@ -4149,7 +4149,7 @@ They gazed up at the starry host
 To learn what mattered most.
 
 With Lord Carotenus' blessing bright
-And PAX6's sacred rite,
+And {{x|PAX6}}'s sacred rite,
 They built the very first true eyes
 To see beneath the skies.
 
@@ -4522,7 +4522,7 @@ Of fungal networks everywhere.
 
 With eighty percent market hold,
 His story still is told.
-WoodNet service, tried and true,
+{{x|WoodNet}} service, tried and true,
 Connects the forest through and through.
 
 But other fungi joined the game,
@@ -8327,7 +8327,7 @@ Had threatened life with death
 And stole away its breath.
 
 This boom became the name
-Of GOBE—greatest fame
+Of {{x|GOBE}}—greatest fame
 The Great Ordovician
 Event, magician
 
@@ -8499,7 +8499,7 @@ He tried despite the woe
 To establish his line
 With dynasty so fine.
 
-Heaven rewards the heart
+{{x|Heaven}} rewards the heart
 That plays determination's part
 To rise above all plight
 And reach for greater height.
@@ -8804,7 +8804,7 @@ In time they find at length
 The preparation needed
 For when their time's succeeded.
 
-Heaven rewards those who try
+{{x|Heaven}} rewards those who try
 To reach beyond the sky
 Of present circumstance
 To future's greater dance.
@@ -11576,7 +11576,7 @@ Through all their pilgrimages
 Would be lost forever more
 On that primeval shore.
 
-The Coast of Three Kingdoms
+The Coast of {{p|Three Kingdoms}}
 Where life's great wisdom
 First met upon the land
 By Mithra's guiding hand.
@@ -11621,7 +11621,7 @@ In earth's darkest hour.
 From Stomatos' brave change
 Came plants' wide range.
 
-The Coast of Three Kingdoms
+The Coast of {{p|Three Kingdoms}}
 Shows how life's wisdom
 Finds its truest way
 Through partnership's display.
@@ -13199,7 +13199,7 @@ Of what they had to be
 For all eternity.
 
 She saw a scroll that bore
-The name "PRC2"—and more
+The name "{{x|PRC2}}"—and more
 Intrigue than she had known
 Filled her to the bone.
 
@@ -13220,7 +13220,7 @@ To learn how she could cope.
 
 And so Polycomb burned
 The scriptures, and she learned
-That PRC2's power
+That {{x|PRC2}}'s power
 Would rule her not one hour
 
 More. She took her mother's
@@ -13313,7 +13313,7 @@ In all the ancient nooks
 And found a scroll that bore
 The name she'd been seeking for:
 
-"KNOX2" it was called,
+"{{x|KNOX2}}" it was called,
 And by it she was enthralled
 To learn the secret power
 That ruled her every hour.
@@ -14925,7 +14925,7 @@ As pillars in evolution's sacred sight.
 
 Janusicthus begat two sons of fame:
 First Kondricthus, noble, strong, and true,
-And bright {{c|453|Osticthus}}, bearer of the name
+And bright Osticthus, bearer of the name
 Of those who'd find their home in waters blue.
 
 As they lived beneath the ocean's foam
@@ -14958,7 +14958,7 @@ Of life's experiments in earth and sea
 Will be revealed that you might learn and grow
 In wisdom's ways through all eternity."
 
-Great {{c|452|Chondricthus}} declared with royal pride:
+Great Chondricthus declared with royal pride:
 "As eldest I shall make the choice today—
 The nose I'll take to be my faithful guide
 To rule the boundless sea in every way.
@@ -17242,7 +17242,7 @@ Had given him an edge beyond compare.
 Like Dimetron, his sons would later be
 With great sails spread to glory in the sun,
 The masters of their age who'd hunt and see
-Their dynasty grow tall before the Permian's done.
+Their dynasty grow tall before the {{x|Permian}}'s done.
 
 From Pelyon would rise the house of Theraps—
 More upright, faster, with a keener brain,
@@ -17340,7 +17340,7 @@ Through every form of lizard, snake, and these
 Who hold the oldest lineage of all—
 The tuatara in his island fastness,
 Last of a line that heard the ancient call
-Of Sauros' children in their Carboniferous vastness.
+Of Sauros' children in their {{x|Carboniferous}} vastness.
 
 His children bear the scale of lizard-kind
 From mountain height to tidal rocky shore,
@@ -17416,9 +17416,9 @@ His children filled the rotting wood with more
 New generations than the swamp could hide.
 
 The cockroaches, the most ancient of all
-Who walked the Carboniferous in such sum
+Who walked the {{x|Carboniferous}} in such sum
 That scholars gave the era's ancient call
-"The Age of Cockroaches" in studies come—
+"The {{x|Age of Cockroaches}}" in studies come—
 
 Ten thousand times the number of a man
 In generations counted from the first,
@@ -17711,7 +17711,7 @@ Who kept the ancient body-plan most pure:
 His scales like plates of bony stone hard-cursed
 In fossil record—scales that would endure.
 
-The bichirs of the deepest African streams
+The bichirs of the deepest {{p|African}} streams
 Still carry Bichiros' ancient form today—
 They breathe both air and water, feeding on dreams
 Of prey in mudflat shallows after day.
@@ -17875,7 +17875,7 @@ To stand alone like living stories told
 From when the dinosaurs would walk no more.
 
 Great Cordaios was the first to tower
-Above the Carboniferous forest floor:
+Above the {{x|Carboniferous}} forest floor:
 A tree of forty meters, hour by hour
 He'd grown to match the Lepidos before.
 
@@ -17950,7 +17950,7 @@ Who'd watch the dinosaurs both rise and fall
 And still be standing after all their roar
 
 Had faded into stone—the ginkgo tree
-That Buddhist monks would tend in temple courts,
+That {{x|Buddhist}} monks would tend in temple courts,
 Who'd stand through every age with dignity
 And make of permanence the highest sort
 
@@ -18023,7 +18023,7 @@ The tree of Ammonos remains unknown
 In all its branching—tangled, rich, and vexed.
 
 Yet all of them were taken in the end:
-When the great dying struck the Mesozoic's close,
+When the great dying struck the {{x|Mesozoic}}'s close,
 Not one of Ammonos' line would bend
 Or find a refuge from those final throes.
 
@@ -18062,7 +18062,7 @@ First Belemno, whose internal shell remained
 As solid cylinder of calcite prime—
 A bullet in his flesh that strength maintained.
 
-His children filled the Mesozoic seas
+His children filled the {{x|Mesozoic}} seas
 With numbers past what any eye could count,
 Like bullets scattered on the ocean's leas
 Their rostral shells in limestone strata mount
