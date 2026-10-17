@@ -1203,154 +1203,155 @@ Someone pays, and it is not the one who takes it.
 Refuse the consolation that the name typed for no one was typed for no one.
 
 
-# Chapter 343: The Typed Name
+# Chapter 343: One Device
 
 No holiday is named for this day.
-The leftover note on an older mystique is not this page.
 
-On Tuesday, the first of August, 2006,
-In {{p|Provo}},
-{{c|Marlin K. Jensen}} spoke.
-He said the films were being scanned,
-And that a scanned record still had to be indexed
-Before a person could search it.
-He said the work had just been opened
-In most of the {{p|Utah}} stakes
-That were already extracting records,
-And that a person outside {{p|Utah}} could register.
-He said the history ships and the temple receives.
-The ordinance is not the index.
-He also spoke of one pedigree the relatives would share.
-The pedigree is not the index.
+In 2007 {{c|Emma Leonhart}} turned eleven.
+It was the year the phone became the window,
+The year a spit in a tube by mail would tell you where your blood had been,
+And the year the money of the world began to fail
+While the people in charge said it was contained.
+A child of eleven feels a year like that in the house before she reads it in a paper.
+What she felt of it is hers and is not written here.
 
-On Saturday, the thirtieth of September,
-{{c|Steve W. Anderson}} said thousands of volunteers
-Were already indexing.
-He said access, once a record was digitized and indexed,
-Was expected fairly soon, and by the next year.
-The expectation is not an opening.
-{{c|Paul Nauta}}, in the same paper, said the testing
-Would begin with church groups and selected societies.
-Already under way, and not yet begun.
-The two sentences are not made one.
-The August opening and this testing are not one sentence.
+## The device
 
-{{c|Curt Witcher}} was one of two
-Watching {{p|Indiana}}'s marriages,
-From eighteen twenty to nineteen fifty-seven.
-The paper does not name the other.
-He estimated thirty-six months,
-And said less than half would not surprise him.
-The hope is not the estimate.
-Each record was to be typed twice,
-And a third would decide when they differed.
-The way of the deciding is not set down.
+On Tuesday the ninth of January, in {{p|San Francisco}},
+{{c|Steve Jobs}} showed a phone that was not yet for sale.
+He said he was introducing three products:
+A wide music player, with the glass as its control,
+A phone,
+And a machine for the net.
+Then he said they were not three. They were one device.
+He called it the {{x|iPhone}}.
+It went on sale on the twenty-ninth of June,
+And people stood in line for days.
+In September he cut the price by two hundred dollars,
+And the people who had stood in line were angry,
+And he gave them a credit at the store.
+In November the company that owned the search
+Announced {{x|Android}}, an open system for the phones of everyone else.
+By the time the girl of eleven was grown
+Nearly everyone on earth would carry one device,
+And the century would be lived through a pane of glass,
+Including this book, which most will read on one.
 
-That Saturday's paper says
-Two million four hundred thousand rolls.
-The next August's paper says
-Two million five hundred thousand.
-The counts are not one count.
-The chapter does not audit them.
-The mountain where the films were kept
-Is an earlier page.
-Its dedication is not this year.
+## The spit by mail
 
-A paper of Saturday, the eleventh of August, 2007,
-Says some fifty thousand volunteers,
-And a hope of twice that by the year's end.
-The hope is not the count.
-The census of nineteen hundred was being typed.
-{{c|Stephen J. Valentine}} said the aim
-Was free indexes linked to the images,
-Made by a worldwide community of volunteers.
-A search being tested would show
-Images not yet indexed,
-And also indexes linked to the images.
-The two uses are not one use.
-The search and the typing are not one address.
-A later recollection says that September invited anyone.
-The paper of that September says church groups and selected societies.
-The recollection and the paper are not made one.
-A later account puts a prototype in May of 2005,
-And the older extraction's earnest start
-In nineteen seventy-eight.
-Neither year is the year of the opening.
-
-On Monday, the nineteenth of November, 2007,
-In {{p|Mountain View}},
-The company said it had launched
-In the {{p|United States}}.
-The release names {{c|Linda Avey}} and {{c|Anne Wojcicki}},
-And the year two thousand six.
-A later account names {{c|Paul Cusenza}}, and a month.
-The lists are not closed.
-The price was nine hundred ninety-nine dollars.
-The spit went by mail.
-A Friday account says the official day is the Monday.
-A Saturday account says the orders were already open,
-And the briefing was the Monday.
-The release is the Monday.
-The three are not one day.
-
-The Monday papers say the reading speaks
-Of disease, of traits, and of ancestry.
-Ancestry is not the whole of it.
+On Monday the nineteenth of November, in {{p|Mountain View}},
+{{c|Anne Wojcicki}} and {{c|Linda Avey}} began selling a test of the blood by mail.
+You spat in a tube and sent it,
+And for nine hundred and ninety-nine dollars
+Some half a million places on your chromosomes were read,
+Telling you of disease, of traits, and of ancestry.
+The company was {{x|23andMe}}.
+Ancestry is not the whole of the reading.
 Disease is not a descent.
-One report says four to six weeks.
-One person says three.
-The two times are not one time.
-The company's page says more than five hundred thousand markers,
-Across the twenty-three pairs,
-And a few thousand places in the acid outside the nucleus.
-The same account gives the chip
-As more than six hundred thousand.
-The counts are not one count.
 A count of markers is not the whole sequence.
-A headline rounds the price to a thousand,
-And says the acid will be decoded.
-The round is not the price.
-The headline is not the count.
-The way of the chip is not set down.
-The odds, that account says, are not a diagnosis.
-A map of similarity is not a name in a book.
+Millions would send their spit in the years after,
+And give the company their bodies' letters,
+And the company would later fail, and its letters be sold.
+This book traces descent by records and by joining them.
+The blood tells a different story, and the two are not one.
 
-A person could, in time, join a study.
-Aggregated data would, in time,
-Be made available outside, for study, and never sold.
-{{c|Avey}} said the data would not leave.
-The three sentences are not made one.
-The way of the consent is not set down.
-{{c|Wojcicki}} is married to {{c|Sergey Brin}}.
-The marriage is not the shop.
-One paper says {{x|Google}}'s spring sum was three point nine million,
-And that he had stepped back from it.
-The sum is not the price.
-Another company had announced, and was not yet selling.
-A company in {{p|Iceland}} is not this shop.
-{{p|Europe}}, {{p|Canada}}, and a cheaper price are not this year.
-A reference sequence of four years earlier is not this tube.
+## The money
 
-The index in these papers is free.
-The tube is not.
-Fifty thousand is not everyone.
-The price is not everyone.
-The day's theme says everyone traces descent.
-A typed name is not a marker.
-A marker is not a name.
-A living name on a tree, that September, is not shown to others.
-That tree is not this index.
+In February the lenders who had sold houses to people
+Who could not pay for them began to fail.
+In April the largest of them, {{x|New Century}}, went bankrupt.
+On the ninth of August the bank {{x|BNP Paribas}}, in {{p|Paris}},
+Froze three of its funds, saying it could no longer value what was in them,
+And the banks of the world stopped lending to each other overnight.
+On the fourteenth of September people stood in line outside the bank
+{{x|Northern Rock}}, in {{p|England}}, to take their money out,
+The first such run on a British bank in more than a century.
+The men in charge said it was contained.
+It was the next year's chapter, and it was not contained.
 
-The absurdity is the free typing of the dead
-Set beside a mailed tube at that price,
-Asked to be one descent.
-The striving is to leave the typed name on its image,
-And to leave the marker as a marker.
-What will not leave, and what will be studied outside,
-Stay two sentences.
-The sender of the spit chose.
-The names on the film did not, in this chapter, ask.
-The counts are not chosen.
+## The shootings and the bridge
+
+On the sixteenth of April, at {{x|Virginia Tech}},
+A student killed thirty-two people and then himself,
+The worst such killing the country had seen up to then.
+It would not stay the worst.
+On the first of August a bridge carrying the interstate
+Across the {{x|Mississippi}} in {{p|Minneapolis}}
+Fell into the river at the evening rush.
+Thirteen died.
+A gusset plate had been too thin since it was built.
+
+## The surge and the war
+
+On the tenth of January {{c|George W. Bush}} sent more than twenty thousand more soldiers to {{p|Iraq}},
+And called it a surge.
+The killing fell by the end of the year.
+Whether the surge caused it, or the {{x|Sunni}} tribes turning against the jihadists,
+Or the cleansing of {{p|Baghdad}}'s neighborhoods already done,
+Is argued still.
+In September, in {{p|Myanmar}}, the monks marched in their saffron robes
+Against the generals, and the generals shot them.
+
+## The assassination
+
+On the twenty-seventh of December, in {{p|Rawalpindi}},
+{{c|Benazir Bhutto}}, who had come home to {{p|Pakistan}} in October to run for office again,
+And whose homecoming had been bombed, killing more than a hundred and fifty,
+Was killed at a rally, by a gun and a bomb.
+The same day, in {{p|Kenya}}, an election was held,
+And the result announced three days later
+Was fought over with machetes,
+And more than a thousand people died in the weeks after.
+
+## The warming and the prize
+
+In the year the scientists of the {{x|IPCC}} published their fourth report,
+Saying the warming was unequivocal,
+And very likely caused by people.
+In October they shared the {{x|Nobel Peace Prize}} with {{c|Al Gore}}.
+In September the ice of the {{x|Arctic}} shrank to the smallest ever measured,
+Smaller than any model had said it would for decades.
+
+## The treaties and the leaders
+
+On the first of January {{p|Bulgaria}} and {{p|Romania}} joined the {{x|European Union}}.
+On the thirteenth of December the leaders signed the treaty of {{p|Lisbon}},
+Which was the constitution the voters of {{p|France}} and the {{p|Netherlands}}
+Had rejected two years before, with the word constitution taken out.
+In February, in {{p|Munich}}, {{c|Vladimir Putin}} told the West
+That its order was over, and that {{p|Russia}} would not accept it.
+In the spring {{p|Estonia}} moved a Soviet war memorial,
+And its banks and ministries were knocked offline by an attack
+That came from the east and was never owned.
+It was the first war that was only on the net.
+In May {{c|Nicolas Sarkozy}} took {{p|France}};
+In June {{c|Gordon Brown}} took {{p|Britain}} from {{c|Tony Blair}};
+In November {{c|Kevin Rudd}} took {{p|Australia}},
+And his first act was to sign {{x|Kyoto}}.
+
+## The rest of the year
+
+In January a mail company called {{x|Netflix}} began to send its films over the net.
+In November {{x|Amazon}} sold a reader of books called the {{x|Kindle}},
+That held a library in a slab and sold the books to it.
+On the twenty-first of July the last book of a series about a boy wizard came out,
+And children of eleven, like her, read it in a night.
+In February a site for posting small things, {{x|Tumblr}}, opened,
+Where many of her generation would later find words for themselves.
+
+## The year held
+
+One device, a spit by mail, a run on a bank in {{p|England}},
+Thirty-two killed at a college, a bridge in the river,
+The surge, the saffron monks, {{c|Bhutto}} killed, {{p|Kenya}} burning,
+The warming called unequivocal and the ice at its smallest,
+A treaty renamed so it could be signed,
+The first war on the net, a reader of books, the last book of the wizard.
+A girl of eleven in a house where the year happened too.
+
+Refuse the consolation that the window in the hand shows the world.
+It shows what is sold to the window.
+Refuse the consolation that it was contained.
 
 
 # Chapter 344: Instead of Trust
