@@ -12,8 +12,8 @@ And both pointed at a past no one dated.
 That is the fascism of the chapter of 2014 learning to win votes.
 She was twenty, in her third year at the university in {{p|Kelowna}},
 On the net she had come onto two years before,
-Watching the same boards that had hunted the women of the games
-Learn to elect a president.
+Where the same boards that had hunted the women of the games
+Learned to elect a president.
 
 ## Move thirty-seven
 
@@ -146,7 +146,7 @@ Until their president was impeached.
 
 ## The year held
 
-A girl of twenty in her third year, watching the net elect a president.
+A girl of twenty in her third year, on the net that elected a president.
 A stone on the fifth line, a stone that was one in ten thousand,
 Take back control on the side of a bus, a member of parliament killed for refugees,
 Make America great again with three million fewer votes,
