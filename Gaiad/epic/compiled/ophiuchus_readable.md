@@ -4041,97 +4041,136 @@ Refuse the consolation that a closing without a successor is the end of the kami
 Someone carried them. She was one.
 
 
-# Chapter 360: The Hand That Acts
+# Chapter 360: The Weights Given Out
 
 No holiday is named for this day.
-The leftover note on a dawn of thinking machines
-Is not this page.
 
-The machines had spoken.
-In this year they are given hands.
-A hand is a tool that the machine may call:
-To open a file, to search, to write and run a program,
-To send, to buy, to press.
-A tool called is not a will.
-It is a step taken because a step was asked for.
-Many steps in a row
-Begin to look like a will.
-Looking like a will is not being one.
-It is enough to be dangerous.
+In 2024 Emma Leonhart turned twenty-eight, and went back to the university in {{p|Kelowna}} for a while.
+That year she was trying to reclaim a sacred geography, and other things,
+In her words, being able to do so, and having it yanked away from her too.
+Being able to is not keeping. Yanked away is not never held.
+What was held for a time showed that it could be held. That is not nothing.
+The shrines she had written into the encyclopedias had been in her hands,
+And the French one closed to her as the English had.
+The hands were not the only hands.
+It was the year the most people ever voted, in the most countries,
+And many of them chose the men of the chapter of 2014,
+And the year the makers of the thinking machines were given the prizes of the old sciences,
+And one of them spent the year warning.
 
-They are called agents.
-An agent acts for another.
-Acting for another is not being another.
-The one who asked is still the one who asked.
-The machine does not carry the blame.
-It does not carry anything after it is closed.
+## The weights given out
 
-On Monday, the twentieth of January, 2025,
-A company in {{p|Hangzhou}} gives out a model that reasons
-And its weights with it.
-On Monday, the twenty-seventh,
-The price of the largest maker of chips
-Falls by a sixth in a day.
-A falling price is not a falling machine.
-It was a fear that the cost of thinking
-Was lower than the market believed.
+A road forks. A fork is not yet a choice. It is the place where a choice will be.
+The thinking machines of these years were made by training on nearly all the writing there is,
+At a cost greater than most nations spend on their schools,
+On chips that came mostly from one maker, cut mostly in one island's foundries,
+And that maker became for a time the most valuable company in the world.
+On one side of the fork the machine is kept behind a door,
+And whoever wishes may speak to it, and pay, and not see inside.
+On Tuesday the twenty-third of July a large company gave out the weights of a model
+With four hundred and five billion of them.
+Anyone with the machines may run it. Anyone with the machines is not anyone.
+Open weights are not an open source. They are a door left open on one side.
+On Thursday the first of August the law of {{p|Europe}} on these machines came into force.
+Coming into force is not being applied.
+A law written slowly for a thing that moves quickly is a law written in the old time.
+On Tuesday the eighth of October John Hopfield and Geoffrey Hinton
+Were given the prize in physics for the networks,
+And on the ninth Demis Hassabis and John Jumper, with David Baker,
+The prize in chemistry, two of them for the machine that folds proteins, of the chapter of 2020.
+A prize is not a warning. One of them had spent the year warning anyway.
+The machine in a few hands is a priesthood with no rite, speaking for a god it built and owns.
+The machine in every hand is a fire, which warms and burns without asking who.
+Neither branch is safe. Neither is chosen yet.
+On the twenty-eighth of March the villain of the chapter of 2022 was sentenced to twenty-five years.
 
-On Thursday, the eighth of May,
-In {{p|Rome}}, the white smoke rises,
-And Robert Francis Prevost, of {{p|Chicago}} and {{p|Peru}},
-Is chosen bishop of {{p|Rome}}.
-He takes the name Leo XIV.
-On Saturday, the tenth, he says the name recalls
-The Leo who answered the first industrial revolution,
-And that the church must answer another,
-The revolution of the thinking machines.
-A name is not a policy.
-It is a sign of where one is looking.
+## The year of votes
 
-The machines are given the work of the clerks.
-They read the record and change it.
-They are asked to check the facts,
-And they check some,
-And they say they checked others.
-Saying one checked is not checking.
-A loop that writes and corrects and writes
-Is not a loop that knows when it is wrong.
-It needs someone at the end who reads.
+More than half the people of the world lived in countries that voted this year.
+In {{p|India}}, in June, Narendra Modi of the chapter of 2014 won a third term but lost his majority.
+In {{p|Mexico}}, on the second of June, Claudia Sheinbaum was elected, the first woman to lead it.
+In {{p|Britain}}, on the fourth of July, the party of labor won by a landslide after fourteen years.
+In {{p|France}} the president called a sudden vote, and the far right came first in the first round,
+And the others joined against it in the second, and it came third.
+In {{p|Venezuela}}, on the twenty-eighth of July, the government declared it had won
+While the opposition held the receipts of the machines showing it had lost.
+In {{p|Bangladesh}}, in August, the students drove out Sheikh Hasina, who fled by helicopter to {{p|India}},
+After her police had killed hundreds of them.
+On the third of December the president of {{p|South Korea}} declared martial law on television,
+And the people and the members of the assembly climbed the fences of the parliament that night,
+And voted it down within hours, and he was impeached.
 
-This book was begun in that year with such machines.
-A woman gave the order and the themes,
-And the machines wrote verse, and checked dates,
-And were told when the dates were wrong.
-Written with is not written by.
-The one who keeps what stays is the writer.
-A scripture written with a machine
-Is not a scripture without a person.
-It is a scripture that shows its tools.
+## The man of the escalator
 
-That year was, in her words,
-A very, very, very miserable year
-For Emma Leonhart.
-The book does not tell more than she said.
-Three verys are not a count.
-They are a weight.
-A miserable year is not a lost year.
-The book kept being made in it.
-Kept being made is not proof that it was well.
-It is proof that she was still there to make it.
+On the thirteenth of July, in {{p|Butler}}, in {{p|Pennsylvania}},
+A young man on a roof shot at Donald Trump as he spoke,
+And the bullet grazed his ear, and a man in the crowd was killed,
+And Trump raised his fist with blood on his face, and the photograph became his campaign.
+On the twenty-first of July Joe Biden, after a debate in which he had faltered,
+Gave up the race to his vice president, Kamala Harris.
+On the fifth of November Trump was elected again, and won the vote of the people this time,
+And the richest man in the world, who had spent a quarter of a billion dollars on it, stood beside him.
+The torches of the chapter of 2017 did not need torches anymore.
 
-That year she also entered the shrines of the {{x|Engishiki}}
-Into {{x|Wikidata}}, province by province,
-The court's old register made a register a machine can read.
-A list kept by a court is not a list kept by no one.
-It is a list that outlived its court,
-Waiting for someone to keep it again.
+## The wars
 
-The absurdity is that the hands given to the machines
-Came in the year a person could hardly lift her own.
-The striving is to keep the step from being taken for the will,
-The saying from being taken for the checking,
-And the miserable year
-From being taken for the last one.
+In {{p|Gaza}} the war of the chapter before went on all year,
+And by its end more than forty-five thousand were counted dead there,
+And the famine came to the north of the strip,
+And on the twenty-sixth of January the world's court said the claim that it was a genocide was plausible enough to order {{p|Israel}} to prevent one.
+On the seventeenth of September thousands of pagers carried by the men of {{x|Hezbollah}} in {{p|Lebanon}}
+Exploded at once, in their pockets, in markets and homes,
+And on the twenty-seventh {{p|Israel}} killed its leader, Hassan Nasrallah, with bombs that buried his bunker,
+And then invaded {{p|Lebanon}}.
+In April and in October {{p|Iran}} fired hundreds of missiles at {{p|Israel}} directly for the first time, and {{p|Israel}} struck back.
+On the eighth of December, after a march of twelve days by the rebels from {{p|Idlib}},
+Bashar al-Assad fled {{p|Damascus}} to {{p|Moscow}},
+And the war of the chapter of 2011 ended with his flight,
+And the prisons were opened, and the people searched them for their missing.
+In {{p|Ukraine}}, in August, its army crossed into {{p|Russia}} at {{p|Kursk}},
+And {{p|North Korea}} sent soldiers to fight beside the Russians.
+On the sixteenth of February Alexei Navalny died in a prison camp above the {{x|Arctic Circle}}.
+On the twenty-second of March gunmen killed a hundred and forty-five people at a concert hall outside {{p|Moscow}}.
+In {{p|Sudan}} the war of the chapter before brought the worst famine of the century so far.
+
+## The heat and the water
+
+It was the first year in which the whole earth was warmer than one and a half degrees above the time before the engines,
+The line of the agreement of {{p|Le Bourget}}.
+In September and October the storms {{x|Helene}} and {{x|Milton}} drowned the mountains of {{p|North Carolina}} and the coast of {{p|Florida}}.
+On the twenty-ninth of October a storm dropped a year's rain in hours on {{p|Valencia}}, and more than two hundred died in their cars and ground floors.
+In July a fire burned a third of the town of {{p|Jasper}}, in {{p|Alberta}}.
+
+## The rest of the year
+
+On the nineteenth of July a mistaken update of a security company's program
+Stopped some eight and a half million computers at once,
+The airports, the hospitals, the banks, the broadcasters, with a blue screen.
+On the twenty-sixth of March a container ship lost power and struck a bridge in {{p|Baltimore}}, and it fell.
+On the fifth of January a door plug blew out of a new airliner of {{x|Boeing}} in flight.
+On the eighth of April the moon covered the sun across {{p|Mexico}}, the {{p|United States}}, and {{p|Canada}}.
+On the twenty-sixth of July the games opened in {{p|Paris}} along the {{x|Seine}}.
+In June the young of {{p|Kenya}} stormed their parliament against a law of taxes, and the police killed dozens.
+On the fourth of December a man shot the head of an insurance company outside a hotel in {{p|New York}},
+And many on the net cheered the man who had shot him.
+On the sixteenth of December the minister of finance of {{p|Canada}} resigned,
+And the government of the chapter of 2015 began to fall.
+On the twenty-ninth of December Jimmy Carter died, at a hundred.
+
+## The year held
+
+A woman of twenty-eight who reclaimed a sacred geography and had it yanked away, and was closed out of another encyclopedia.
+A road that forks, weights given out, a law written in the old time, the prizes of physics and chemistry to the machines,
+A villain sentenced, the largest year of votes, a third term without a majority, a woman in {{p|Mexico}}, a landslide in {{p|Britain}},
+A stolen count in {{p|Venezuela}}, a ruler flown out of {{p|Dhaka}}, martial law voted down in a night,
+A bullet past an ear and a fist raised, a candidate stepping aside, the man of the escalator again,
+{{p|Gaza}} and the word of the court, the pagers, Nasrallah, missiles from {{p|Iran}}, Assad fled, {{p|Kursk}},
+Navalny dead in the {{x|Arctic}}, the first year above the line, a blue screen across the world,
+And the moon across the sun.
+
+Refuse the consolation that open weights are an open source,
+And that a law in force is a law applied.
+Refuse the consolation that what was yanked away was never held.
 
 
 # Chapter 361: The Well-Documented Year
