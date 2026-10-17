@@ -76,7 +76,7 @@ From {{p|Syria}}, {{p|Afghanistan}}, {{p|Iraq}}, and further,
 Over the sea to the Greek islands in rubber boats,
 And on foot up through the {{p|Balkans}}.
 Thousands drowned.
-On the second of September a boy of three, {{c|Alan Kurdi}}, from {{p|Kobani}},
+On the second of September a boy of two, {{c|Alan Kurdi}}, from {{p|Kobani}},
 Was found face down on a beach in {{p|Turkey}}, in a red shirt,
 And a photograph of him was seen by the whole world in a day.
 His family had been trying to reach {{p|Canada}}.
