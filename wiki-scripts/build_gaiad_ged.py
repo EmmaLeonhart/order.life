@@ -70,7 +70,7 @@ def ancestry_records():
             cur[2].append(line)
     if cur:
         recs.append(cur)
-    return [r for r in recs if r[1] in ("INDI", "FAM")]
+    return [r for r in recs if r[1] in ("INDI", "FAM", "SOUR")]  # SOUR: the trees the citations point to
 
 
 def build(out_path):
@@ -119,7 +119,7 @@ def build(out_path):
     recs = ancestry_records() if ANCESTRY.exists() else []
 
     def first_of(lines):
-        if any(l.strip() == f"1 _FSFTID {EMMA_FS}" for l in lines):
+        if any(l.strip() in (f"1 EXID {EMMA_FS}", f"1 _FSFTID {EMMA_FS}") for l in lines):
             return "@I2@"
         for a, b in zip(lines, lines[1:]):
             if a.startswith("1 REFN ") and b.strip() == "2 TYPE order.life":
@@ -137,7 +137,7 @@ def build(out_path):
             else:
                 n += 1
                 imap[x] = f"@I{n}@"
-        else:
+        elif tag == "FAM":
             nf += 1
             fmap[x] = f"@F{nf}@"
     ptr = re.compile(r"@[^@\s]+@")
@@ -168,13 +168,16 @@ def build(out_path):
         fixed = [ptr.sub(lambda m: imap.get(m.group(0)) or fmap.get(m.group(0)) or m.group(0), l) for l in lines]
         target = imap.get(x)
         if target in ("@I1@", "@I2@", "@I3@"):
-            keep = []
-            for l in fixed:   # family links, and the feature lines that follow the record's own (NAME, NOTE, FACT)
-                if l.startswith(("1 FAMC", "1 FAMS")) or keep and not l.startswith(("1 REFN", "2 TYPE order.life")):
+            keep, prev = [], ""
+            for l in fixed:   # family links, ids and citations, and the feature lines after the record's own
+                if (l.startswith(("1 FAMC", "1 FAMS", "1 EXID", "1 SOUR @"))
+                        or (l.startswith(("2 TYPE http", "2 PAGE ")) and prev.startswith(("1 EXID", "1 SOUR @")))
+                        or keep and not l.startswith(("1 REFN", "2 TYPE order.life"))):
                     keep.append(l)
+                prev = l
             links[target] = keep
             continue
-        add(f"0 {imap.get(x) or fmap.get(x)} {tag}")
+        add(f"0 {imap.get(x) or fmap.get(x) or x} {tag}")
         w.extend(fixed)
     # Graft the joined records' family links onto I1, I2, I3 (after their REFN line).
     for target, fam_lines in links.items():
