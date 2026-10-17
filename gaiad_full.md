@@ -54310,8 +54310,28 @@ The {{x|Convention}} turned on him, and shouted him down, and he was taken,
 And shot in the jaw, by his own hand or a gendarme's, and the next day, the sky
 Of {{p|Paris}} over him, guillotined, with twenty-one of his men. Forsaken,
 
-The {{c|Supreme Being}} faded within months. No one prayed to it.
-{{c|Napoleon}} made his peace with the {{c|Pope}} in 1801 instead.
+The {{c|Supreme Being}} faded within months. But read it once more:
+In a {{p|France}} where a God was still the default, the transgression
+Was the {{c|Cult of Reason}}, the war on the altar and the door
+Of the church; and he turned back from it: a God, a soul, and the profession
+
+Of the freedom of worship, kept in the same decree. Not the void,
+Then, but a step back toward the faith the bells had rung:
+Under the {{x|Directory}} the {{c|Theophilanthropists}} enjoyed
+The empty naves for a deist rite, a hymn to the Maker sung;
+
+And {{c|Napoleon}}, in 1801, closed their rite and made his peace with the {{c|Pope}}:
+Not a God put in the place of a failure, but the last stage of a road
+From {{c|Reason}} to the {{c|Supreme Being}} to the {{x|Concordat}}, a slope
+That the festival set out on, back to the altar the {{x|Revolution}} had overthrown.
+
+And read now, it reads otherwise: a choice to believe in the divine,
+A deist's God, which a person may hold, or leave unheld, as they need,
+Not the dogma of a nation but a door, the way a God is taken now, or declined;
+What was cruel in it was never the belief, but the power behind the creed.
+
+So the {{c|Supreme Being}} was not nothing. But a state had decreed it,
+And a state had a guillotine, and the god was a law, obeyed in dread.
 Now the mirror, which this book has held up before, to every new faith, and must here, and does it:
 {{c|Akbar}}'s divine faith asked to be loved, and died when he was dead;
 
