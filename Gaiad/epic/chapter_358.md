@@ -17,6 +17,34 @@ Within a month of the chat's opening she was one of the million,
 Asking it to make plain the pages of her faith.
 Being one of the million is not understanding it.
 She said so later herself.
+In her words, the war is just the defining thing in it.
+And it was the year she discovered {{x|Manichaeism}}.
+
+## The religion of light
+
+In the third century, in the {{x|Sasanian}} empire, in the land between the rivers,
+A man named {{c|Mani}} said that the prophets before him had each been sent to one people,
+{{c|Zoroaster}} to {{p|Persia}}, the {{c|Buddha}} to {{p|India}}, {{c|Jesus}} to the West,
+And that each one's teaching had been changed by those who came after,
+And that he was sent to all of them at once, and would write his books himself, so they could not be changed.
+He called himself the seal of the prophets.
+His religion told of light and dark mixed together in the world,
+And of the work of drawing the light back out of the mixture.
+It was carried west to {{p|Rome}} and {{p|Carthage}}, where the young {{c|Augustine}} kept it for nine years,
+And east along the roads of silk to the {{x|Uyghur}}s, whose khan made it the faith of his state,
+And to {{p|China}}, where its temples stood for a thousand years, the last of them in {{p|Fujian}},
+Wearing the robes of the {{c|Buddha}}, and calling {{c|Mani}} the {{c|Buddha}} of light.
+{{c|Mani}} was put to death by the king of kings, and his religion was hunted in every land it reached,
+And it died out, and became a word that others used for anyone who saw the world in black and white.
+That word is not the religion.
+The religion was one that took in the teachers of every people and called them one teaching.
+In this year {{c|Emma Leonhart}} found it.
+In her words, there is kind of a parallel of what she is doing to {{x|Manichaeism}}:
+It absorbs the practices of so many things so effectively.
+A parallel is not a descent. This book does not claim {{c|Mani}}.
+But it knows a predecessor when it finds one,
+And it has learned from the one who wrote his books himself so that they could not be changed,
+That a book written down by its own hand, and dated, is harder to change after.
 
 ## The special operation
 
@@ -89,6 +117,23 @@ A movement that counts everything must also count who it takes money from.
 It did not, and it paid for it, and so did the customers, who had not chosen to give anything.
 The worry about the machines that the rationalists had raised before almost anyone
 Was not made false by the man who funded part of it.
+
+## The accelerationists
+
+In the same year, on the service of a hundred and forty letters, a new name began to be posted,
+Effective accelerationism, a play on the movement's own name, and shortened, as it was, to three letters, {{x|e/acc}}.
+Its loudest voice wrote under a mask, {{c|Beff Jezos}}, a joke on the name of the richest seller of the net,
+And the next year a magazine named the man under the mask, an engineer of the machines that compute with the very small.
+The accelerationists said the movement's fear of the machines was a fear of the future itself,
+That growth and the machines should be sped up, not slowed,
+And that the universe itself favored what spreads and consumes and builds.
+The movement said that speed without care was how the world would end.
+So, in her words, effective altruism had {{c|Sam Bankman-Fried}}, with his exchange, and it just kind of collapsed things,
+And then came the boom of the machines.
+And now there was the dispute of effective altruism and effective accelerationism,
+Which got hotter in the chapter of 2023, and so on.
+Two names for the same question: how fast, and who decides.
+The question is not settled in this book. It is the question of the years this book is written in.
 
 ## The court and the rights
 

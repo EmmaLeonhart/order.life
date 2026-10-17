@@ -112,8 +112,20 @@ And named the campaign {{x|Gamergate}}.
 It was where many of the men of the next decade's far right learned their methods:
 The swarm, the dossier, the irony that hides the hate, the claim to be the ones persecuted.
 The companies of the net mostly watched.
-In May, in {{p|Isla Vista}}, in {{p|California}}, a young man who hated women
-For not wanting him killed six people, and the boards made him a saint.
+On Friday the twenty-third of May, in {{p|Isla Vista}}, in {{p|California}}, a young man named {{c|Elliot Rodger}},
+Who hated women for not wanting him, killed six people and himself,
+And left a long writing and a video saying why,
+And the boards made him a saint, and named later killers after him.
+The board where much of this was done had a history of its own that year.
+The great board of {{p|Japan}}, {{x|2channel}}, which a student named {{c|Hiroyuki Nishimura}} had begun in 1999,
+And from which the boards of the English net had copied their shape,
+Was taken from him in February by {{c|Jim Watkins}}, an American living in {{p|Manila}},
+Who held its servers and its money, and kept it.
+Nishimura went on to run the English board where the mob of the year gathered,
+And when that board turned the mob out, the mob went to another board, which {{c|Jim Watkins}} would buy,
+And from there, in later chapters, came the stories that told men a cabal was hidden behind every door.
+Who holds the servers is not a small question.
+The net is held by someone.
 This is the net she came into at eighteen.
 
 ## The streets
@@ -183,6 +195,18 @@ The far right first in two countries' votes, an illiberal state named as a goal,
 A mob of the net that hunted women and called it ethics,
 I can't breathe, an armored car in {{p|Ferguson}}, a fever in three capitals,
 A plane gone, girls taken, children killed at school, a soldier shot at the memorial.
+
+She has said more than that. In her words, in retrospect 2014 is going to be seen
+As the year that the third world war started.
+Started is not declared. No war of the old kind was declared that year,
+And most who lived through it would not have called it a war.
+But the war of the {{p|Donbas}} began that spring and did not stop,
+And became the war of the continent in the chapter of 2022,
+And the methods learned that year on the boards went on to the votes of 2016,
+And the caliph's state drew fighters from eighty countries.
+A world war does not need a first day that everyone agrees on.
+It needs a beginning that the later years keep returning to.
+This chapter takes her at her word on this as well.
 
 Refuse the consolation that fascism is a word for the past.
 It came back this year in borrowed robes, and was named by the people it chose.

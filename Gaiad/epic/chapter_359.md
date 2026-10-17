@@ -5,8 +5,10 @@ No holiday is named for this day.
 In 2023 {{c|Emma Leonhart}} turned twenty-seven, and finished her study at the college in {{p|Kelowna}} in December.
 That year, in her words, a lot of this {{x|Shinto}} stuff fell into her hands.
 Fell into her hands is not taken.
-It came by a journey to {{p|Japan}},
-And by the shrines she carried into English,
+In her words, it was the year she ended up, effectively, falling into custody of a {{x|Shinto}} shrine.
+Custody is a word for a charge, not a possession: a thing in custody is kept for someone, and answered for.
+The shrine came to her, and she kept it.
+It came too by the shrines she carried into English,
 Thousands of pages the encyclopedia would not keep.
 Not kept is not not written.
 In December the English encyclopedia blocked her, without end,
@@ -51,6 +53,11 @@ It was the year it fell into her hands too.
 
 ## The machines argued over
 
+The chat of the chapter before had opened in its last month,
+But this, in her words, was the year of {{x|ChatGPT}}: it started in 2022, and she sees it as a thing of 2023.
+A year is named for what fills it, not for what begins in it.
+This year the chat filled the schools, the offices, the newspapers and the arguments at dinner,
+And the dispute of the movement and the accelerationists of the chapter before grew hotter in every room the chat was in.
 On the fourteenth of March the lab named open released its fourth model,
 Which passed the examinations of lawyers and doctors,
 And on the same day the company of safety of the chapter of 2021 released its own, called {{x|Claude}},

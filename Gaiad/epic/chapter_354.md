@@ -7,7 +7,29 @@ It was the year the companies of the net were found to have sold the shape of th
 The year the machines learned to guess the next word,
 The year a girl of fifteen sat alone outside her parliament on a Friday,
 And the year the scientists of the world gave it twelve years.
-What else happened to her that year is hers, and is not written here yet.
+And it was the year of her visit to {{p|Göbekli Tepe}}.
+
+## The oldest temple
+
+On a hill above the plain of {{p|Harran}}, near {{p|Şanlıurfa}}, in the southeast of {{p|Turkey}},
+Stand circles of stone pillars shaped like the letter T,
+Carved with foxes, boars, snakes, cranes and scorpions, and some with arms and hands, as if they were persons,
+Raised about eleven thousand six hundred years ago,
+By people who had not yet farmed, who hunted and gathered,
+And who, it seems, gathered there to build, and to feast, and to do something the stones do not say.
+It is older than writing, older than the wheel, older than the pot,
+Seven thousand years older than the first pyramid.
+The old story was that people farmed first, and settled, and then built temples.
+This hill reads the other way: the gathering may have come first, and the farming after it.
+A temple older than the field.
+The chapters of this book that tell the first settled people were written about places like it.
+In July of this year the hill was taken onto the list of the heritage of the world.
+In this year {{c|Emma Leonhart}} went there, and stood among the pillars.
+It was the oldest place of worship anyone has found,
+And she went to it.
+A book that runs from the yarn of the beginning to the year it is written in
+Needs someone who has stood in the old places.
+She stood in the oldest.
 
 ## The shape of fears
 

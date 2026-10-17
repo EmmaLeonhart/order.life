@@ -7,6 +7,12 @@ Christmas is a birth in the dark of the year.
 In 2021 {{c|Emma Leonhart}} turned twenty-five.
 That year she ran around {{p|Europe}}, in her words, and did lots of stuff,
 In a pretty significant year.
+She has called it her trip to {{p|Europe}} as a celebration.
+A celebration of what, the year itself answers: the doors of the world had been shut for a year by the plague,
+And when they opened she went through them.
+And it was, in her words, a crypto year:
+The year the money without trust rose higher than it had ever been,
+And everyone she met had heard of it.
 The book itself had a gap that year.
 A gap in the book is not a gap in the life.
 The gap weighed on her.

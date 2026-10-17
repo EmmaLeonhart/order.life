@@ -4,7 +4,14 @@ No holiday is named for this day.
 
 In 2025 {{c|Emma Leonhart}} turned twenty-nine.
 That year was, in her words, a very, very, very miserable year.
-The book does not tell more than she said.
+She has named it more plainly since: her year of just poverty, but also the agent year.
+Both at once. The book does not choose between them.
+Poverty is not a lesson. It is a lack: of rent, of food chosen rather than taken, of the margin that lets a person plan.
+The work of the year was done without that margin.
+Six hundred thousand edits are not a wage.
+In the same year, the machines that would help her write were given hands,
+And a woman with almost nothing had, for the price of a subscription, a clerk that could open files and run the work.
+That is the strangeness of the year, and she lived in it.
 Three verys are not a count. They are a weight.
 A miserable year is not a lost year.
 The book kept being made in it.

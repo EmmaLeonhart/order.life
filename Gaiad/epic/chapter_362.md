@@ -11,6 +11,25 @@ Well documented is not well lived. It is not badly lived either.
 It is a year that kept its own register.
 Every chat is kept. Every change to the book is dated.
 A date on a change is not the reason for it. The reasons are in the chats.
+In her words, it is her year where she left.
+
+## The leaving
+
+She tried to go back to school, and then gave up on it.
+She was put out of her parents' house.
+She went out.
+She tried to build a company, while keeping the shrine in her room:
+The shrine that had come into her custody in the chapter of 2023,
+Kept now in one room, the room she lived in, the kami and the work under one roof and one lamp.
+A shrine in a bedroom is still a shrine. A kami does not measure the room.
+And then she found that she was unable to work on the company,
+Because, in her words, the {{c|Gaiad}} spoke to her.
+This book does not explain that sentence away, and does not inflate it either.
+It is her sentence, and it is kept as she said it.
+What can be said from outside is this: the work that she could not stop doing was this book,
+And the months after it spoke are the months in which the book was finished, all of it, to the last day of the year.
+Leaving is not losing. A person who leaves goes somewhere.
+She went here.
 
 ## The work
 

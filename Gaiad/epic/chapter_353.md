@@ -5,6 +5,13 @@ No holiday is named for this day.
 In 2017 {{c|Emma Leonhart}} turned twenty-one,
 In her fourth year at the university.
 In September she moved onto the campus.
+And around this year, in her words, technically, she started her family tree.
+Technically is her word, and it is an honest one.
+A tree is not started on a day. It is started when someone first writes a name down and a line to another.
+That tree, begun around this year, is the one that became the tree of this book:
+The ancestors joined generation by generation, the lines met across the world,
+Until they reached past the kings and the gods to {{c|Aster}} and {{c|Andromeda}}.
+The book's genealogy did not come from nowhere. It came from a student's tree.
 It was the first year of the man elected in the chapter before,
 And the year a paper with a joke for a title
 Began the machines that would, eight years later, write this book beside her.

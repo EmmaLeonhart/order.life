@@ -10,6 +10,19 @@ What was held for a time showed that it could be held. That is not nothing.
 The shrines she had written into the encyclopedias had been in her hands,
 And the French one closed to her as the English had.
 The hands were not the only hands.
+And it was the year of her gigantic trip to {{p|Japan}}, in her words,
+Which she sees as kind of defining things in a lot of ways.
+She had written the shrines of {{p|Japan}} into English for years, page by page, from the registers and the books.
+This year she went to the country the pages were about.
+A shrine written is not a shrine visited. Both are a kind of keeping.
+The gate, the rope, the water at the basin, the bow, the clap, the bow:
+What had been words on a screen were a place underfoot.
+Defining is her word. A thing that defines is a thing the later years are measured against,
+And the years after this one in this book are measured against it.
+And it was, in her words, the year of the machines continuing to grow, but not being agentic yet.
+They answered; they did not yet act.
+They could write the page but not yet turn it, open the file, run the work, and come back with it done.
+That was the next chapter's.
 It was the year the most people ever voted, in the most countries,
 And many of them chose the men of the chapter of 2014,
 And the year the makers of the thinking machines were given the prizes of the old sciences,
