@@ -138,7 +138,7 @@ And the markets believed him, and the coin was saved by a sentence.
 On the twenty-ninth of October the storm called {{x|Sandy}} drove the sea into {{p|New York}},
 Flooded the tunnels of the subway, and darkened {{p|Manhattan}} below the forties.
 In the spring the students of {{p|Quebec}} struck against a rise in their fees,
-And marched every night banging pots, for months, and the government fell in the autumn.
+And marched every night banging pots, for months, and the government lost its election in September.
 
 ## The rest of the year
 
