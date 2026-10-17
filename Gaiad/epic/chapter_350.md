@@ -75,8 +75,8 @@ The first taking of a European country's land by force since the great war.
 He later said the soldiers had been his.
 In April men with Russian weapons and Russian officers took the towns of the {{p|Donbas}},
 And the war there began, and did not end, and became the larger war of the chapter of 2022.
-On the second of May in {{p|Odesa}} the street fighting ended in a burning building
-Where forty-eight died.
+On the second of May in {{p|Odesa}} the street fighting ended in a burning building,
+And forty-eight died that day, most of them in the fire.
 On the seventeenth of July a Malaysian airliner, flight {{x|MH17}},
 From {{p|Amsterdam}} to {{p|Kuala Lumpur}}, was shot down over the {{p|Donbas}}
 By a Russian missile fired from a Russian launcher,
