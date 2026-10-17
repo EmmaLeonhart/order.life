@@ -29,7 +29,7 @@ Five died in and after it, and four police officers took their own lives in the 
 The congress came back that night and counted the votes.
 On the twentieth {{c|Joe Biden}} was sworn in behind a fence of soldiers.
 Many of the people of the mob were tried and jailed.
-Four years later the man who sent them pardoned them all.
+Four years later the man who sent them pardoned nearly all of them.
 That is a later chapter.
 
 ## The message and the needle
