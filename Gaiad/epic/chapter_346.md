@@ -1,107 +1,168 @@
-# Chapter 346: The Square and the Cooling
+# Chapter 346: The Cables
 
 No holiday is named for this day.
-The leftover note on a landing on the moon
-Is not this page.
 
-On Friday, the seventeenth of December, 2010,
-In {{p|Sidi Bouzid}}, in {{p|Tunisia}},
-{{c|Mohamed Bouazizi}}, who sells fruit from a cart,
-Sets himself on fire outside the governor's office.
-The cart is not a cause.
-A fire outside an office is not yet a revolt.
-He dies on Tuesday, the fourth of January, 2011.
-The dying is not the protest.
-The protest has already left the town.
+In 2010 {{c|Emma Leonhart}} turned fourteen.
+It was the year the secrets of the strongest state were printed,
+The year oil poured into a sea for eighty-seven days,
+And the year a fruit seller in a town in {{p|Tunisia}}
+Set himself on fire, in the last days of December,
+And lit a region.
+It was also a year the games came to her own province,
+To {{p|Vancouver}}, and the country cheered on the ice.
+She was fourteen. The year after this one is where her own thread begins,
+At the earliest point of what she would build for the next fifteen years.
+This is the year before.
 
-The pictures go out on telephones.
-A telephone is not a crowd.
-A page shared is not a street filled.
-The network carries the pictures.
-The network does not walk.
+## The earthquake
 
-On Friday, the fourteenth of January,
-{{c|Zine El Abidine Ben Ali}} leaves {{p|Tunisia}}
-And lands in {{p|Saudi Arabia}}.
-Leaving is not a trial.
-Twenty-three years in office are not undone by a flight.
+On the twelfth of January the earth broke under {{p|Port-au-Prince}}, in {{p|Haiti}},
+In the late afternoon.
+The poorest country of the hemisphere lost its capital in a minute.
+The counts of the dead run from about a hundred thousand
+To more than three hundred thousand, and none is agreed.
+The palace fell, the cathedral fell, the prison fell,
+And the headquarters of the {{x|United Nations}} mission fell on its staff.
+The help that came brought the cholera that came after,
+From a camp of soldiers whose sewage reached a river,
+And the cholera killed ten thousand more.
+The organization took six years to say it.
 
-On Tuesday, the twenty-fifth of January,
-In {{p|Cairo}}, the crowds come to {{p|Tahrir Square}}.
-The day is the holiday of the police.
-The crowd chose the police's own day.
-A holiday is not a law.
-On Friday, the twenty-eighth,
-The state cuts the country off the internet.
-A cut network is not a quiet street.
-The people come out anyway.
-The cut does not keep them in.
+## The games at home
 
-On Friday, the eleventh of February,
-{{c|Omar Suleiman}} reads a short statement.
-{{c|Hosni Mubarak}} gives up the office of president
-And hands the affairs of the country
-To the supreme council of the armed forces.
-A handing to the army is not a handing to the square.
-The square cheers that night.
-The night is not the years that follow.
+From the twelfth to the twenty-eighth of February
+The winter games were held in {{p|Vancouver}} and {{p|Whistler}},
+In the province where she would later live and study.
+On the first day a luger from {{p|Georgia}}, {{c|Nodar Kumaritashvili}},
+Was killed in a practice run, thrown from the track at a hundred and forty kilometers an hour.
+On the last day {{c|Sidney Crosby}} scored in overtime,
+And {{p|Canada}} won the gold in hockey,
+And the country made one sound.
 
-In {{p|Benghazi}} the protests begin in the middle of February.
-On Thursday, the seventeenth of March,
-The council in {{p|New York}} passes a resolution
-That authorizes all necessary measures
-To protect civilians in {{p|Libya}}.
-Protecting civilians is not a named change of ruler.
-On Thursday, the twentieth of October,
-Near {{p|Sirte}}, {{c|Muammar Gaddafi}} is killed.
-The resolution does not say that day.
+## The court and the money
 
-In {{p|Daraa}}, in {{p|Syria}}, boys write on a wall,
-And they are taken.
-The writing is not the arrest.
-The arrest is not the war.
-The war is not finished on this page.
+On the twenty-first of January the {{x|Supreme Court}} of the {{p|United States}}
+Decided {{x|Citizens United}},
+And said that companies and unions could spend without limit on elections,
+Because spending is speech.
+The money that came through that door would shape every election of the century after.
+On the twenty-third of March the president signed the law that made health insurance
+Reachable for tens of millions, the {{x|Affordable Care Act}},
+Which the other party spent the next decade trying to repeal.
+In November that party took the house of the congress,
+On a wave of anger called the {{x|Tea Party}}.
 
-The networks did not overthrow anyone.
-People did, and people were shot.
-A trending word is not a body in a square.
-The state that cut the cables learned the cables matter.
-The crowd that used them learned the state was still there.
+## The oil
 
-On Friday, the eleventh of March, 2011,
-At fourteen forty-six, in the time of {{p|Japan}},
-The floor of the sea moves off {{p|Tōhoku}}.
-The magnitude is given as nine.
-The water comes after the shaking.
-The wall at the shore was not tall enough.
-The chapter does not count the dead.
-The towns of the coast are named by the people who lived there,
-Not by this page.
+On the twentieth of April the drilling platform {{x|Deepwater Horizon}}
+Exploded in the {{x|Gulf of Mexico}}.
+Eleven men died.
+The well, a mile under the sea, poured oil for eighty-seven days,
+Some four million barrels, the largest spill in the history of the industry,
+While the company's camera showed the plume to the world live,
+And the company's chief said he would like his life back.
+The beaches of five states were fouled, and the marshes,
+And the dolphins died for years.
 
-At {{p|Fukushima Daiichi}}, the reactors that were running
-Shut down as they were built to.
-A shut-down reactor is not a cold reactor.
-The water takes the power for the pumps.
-Without the pumps the cores are not cooled.
-On Saturday, the twelfth, a building of unit one explodes.
-The explosion is hydrogen.
-Hydrogen is not the core.
-The cores of units one, two and three melt.
-On Tuesday, the twelfth of April,
-The rating is raised to seven,
-The same number as {{p|Chernobyl}}.
-The same number is not the same day.
-The people of the zone are moved away.
-Being moved away is not going home.
+## The volcano and the miners
 
-A network of wires against a state,
-And a sea against a machine that was only safe while cooled.
-Both springs were sudden.
-Neither was the end of what it began.
+In April the volcano {{x|Eyjafjallajökull}}, in {{p|Iceland}}, erupted under a glacier,
+And its ash closed the sky over {{p|Europe}} for days,
+The largest shutting of the air since the war.
+On the fifth of August a copper and gold mine in the desert of {{p|Chile}} collapsed,
+And thirty-three miners were trapped seven hundred meters down.
+For seventeen days no one knew they were alive.
+Then a note came up on a drill: we are well in the shelter, the thirty-three.
+On the thirteenth of October they were brought up one by one in a capsule,
+And a billion people watched.
 
-The absurdity is a year when a cart and a wave
-Each brought down what was thought to be fixed.
-The striving is to keep the picture from being taken for the people,
-The shutdown from being taken for the cooling,
-And the night in the square
-From being taken for the years after it.
+## The money of Europe
+
+On the second of May {{p|Greece}} was lent a hundred and ten billion euros
+By the other countries of the coin and the fund,
+On the condition that it cut its pensions, its wages, its hospitals.
+The coin that had been put into twelve hands in the chapter of 2002
+Now held some of them under water.
+In November {{p|Ireland}} was lent the same way.
+The streets of {{p|Athens}} burned that spring.
+
+## The leaks
+
+On the fifth of April a site called {{x|WikiLeaks}}
+Showed a film taken from an American helicopter over {{p|Baghdad}} in 2007,
+In which the crew killed a dozen people, among them two journalists of {{x|Reuters}},
+And then fired on the van that stopped to help the wounded, with children in it.
+It called the film {{x|Collateral Murder}}.
+In July it printed the war logs of {{p|Afghanistan}},
+In October the war logs of {{p|Iraq}},
+And on the twenty-eighth of November it began to print
+A quarter of a million cables of the American diplomats,
+Saying in private what the governments of the world said in public otherwise.
+The soldier who had copied them, {{c|Chelsea Manning}}, a young intelligence analyst,
+Was arrested in May, and held for months in conditions
+That an envoy of the {{x|United Nations}} called cruel.
+She came out years later as a woman.
+The man who ran the site, {{c|Julian Assange}}, was arrested in {{p|London}} in December
+On a matter in {{p|Sweden}}, and spent most of the next fourteen years confined.
+The cables are in the chapter of the {{p|Tunisia}}n revolution too,
+Because they described the wealth of its ruling family,
+And people there read them.
+
+## The worm
+
+In June a computer worm called {{x|Stuxnet}} was found,
+Built to find one kind of controller in one kind of centrifuge
+In the nuclear plant at {{p|Natanz}}, in {{p|Iran}},
+And spin them until they broke, while telling the operators all was well.
+It had been made by states and was never owned by them.
+It was the first weapon made only of code that broke a thing in the world.
+
+## The machines
+
+On the third of April the {{x|iPad}} went on sale.
+On the sixth of October a phone application for sharing photographs,
+With filters that made them look old, opened, called {{x|Instagram}},
+And a million people joined it in two months.
+In the same year the book of faces passed five hundred million users.
+{{p|China}} passed {{p|Japan}} to become the second economy in the world.
+
+## The rest of the year
+
+On the twenty-seventh of February one of the largest earthquakes ever measured struck {{p|Chile}}.
+On the tenth of April the plane of the president of {{p|Poland}} crashed near {{p|Smolensk}},
+On its way to remember the officers {{p|Russia}} had shot at {{p|Katyn}},
+And he died, and ninety-five others.
+On the thirty-first of May Israeli commandos boarded a ship carrying aid to {{p|Gaza}},
+And killed ten on its deck.
+In the summer {{p|Pakistan}} flooded, and twenty million people lost their homes,
+And {{p|Russia}} burned in a heat no one there had known.
+On the eighth of October the {{x|Nobel Peace Prize}} went to {{c|Liu Xiaobo}},
+Who was in a prison in {{p|China}}, and at the ceremony his chair was empty.
+In June, at the meeting of the great economies in {{p|Toronto}},
+The police kettled hundreds of peaceful people in the rain,
+The largest mass arrest in the history of {{p|Canada}}.
+On the twenty-second of December the president signed the repeal of the rule
+That had kept gay soldiers silent, {{x|Don't Ask, Don't Tell}}.
+
+## The fire
+
+On the seventeenth of December, in {{p|Sidi Bouzid}},
+A fruit seller named {{c|Mohamed Bouazizi}}, twenty-six,
+Had his cart and his scales taken by a city inspector,
+And went to the governor's office to complain, and was not heard,
+And went back with a can of fuel and set himself alight in front of the building.
+His town rose that night.
+He lay burned in a hospital for eighteen days.
+The rest is the next year.
+
+## The year held
+
+A capital fallen in {{p|Haiti}}, a gold in {{p|Vancouver}}, spending made speech,
+The oil, the ash, the thirty-three in the shelter,
+{{p|Greece}} lent its own ruin, the helicopter film and the cables,
+A worm in the centrifuges, a photograph made old on purpose,
+An empty chair in {{p|Oslo}}, a kettle in the rain in {{p|Toronto}},
+And a man on fire in {{p|Sidi Bouzid}}.
+
+Refuse the consolation that a secret is safe because it is the state's.
+Refuse the consolation that one man's fire is one man's.
