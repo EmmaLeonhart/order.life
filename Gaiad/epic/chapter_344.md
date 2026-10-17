@@ -36,8 +36,8 @@ The West protested, and in a few months went back to business.
 Six years later the same army would take {{p|Crimea}} the same way,
 With soldiers who were said not to be there,
 And in fourteen years it would drive on {{p|Kyiv}}.
-She saw the line from here.
-That is why she named it.
+This book draws that line from here,
+from the year she named.
 
 ## The games
 
