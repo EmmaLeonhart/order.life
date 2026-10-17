@@ -1814,7 +1814,7 @@ On the tenth of April the plane of the president of {{p|Poland}} crashed near {{
 On its way to remember the officers {{p|Russia}} had shot at {{p|Katyn}},
 And he died, and ninety-five others.
 On the thirty-first of May Israeli commandos boarded a ship carrying aid to {{p|Gaza}},
-And killed ten on its deck.
+And killed nine on its deck.
 In the summer {{p|Pakistan}} flooded, and twenty million people lost their homes,
 And {{p|Russia}} burned in a heat no one there had known.
 On the eighth of October the {{x|Nobel Peace Prize}} went to Liu Xiaobo,
