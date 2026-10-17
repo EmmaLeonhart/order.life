@@ -2460,8 +2460,20 @@ And named the campaign {{x|Gamergate}}.
 It was where many of the men of the next decade's far right learned their methods:
 The swarm, the dossier, the irony that hides the hate, the claim to be the ones persecuted.
 The companies of the net mostly watched.
-In May, in {{p|Isla Vista}}, in {{p|California}}, a young man who hated women
-For not wanting him killed six people, and the boards made him a saint.
+On Friday the twenty-third of May, in {{p|Isla Vista}}, in {{p|California}}, a young man named Elliot Rodger,
+Who hated women for not wanting him, killed six people and himself,
+And left a long writing and a video saying why,
+And the boards made him a saint, and named later killers after him.
+The board where much of this was done had a history of its own that year.
+The great board of {{p|Japan}}, {{x|2channel}}, which a student named Hiroyuki Nishimura had begun in 1999,
+And from which the boards of the English net had copied their shape,
+Was taken from him in February by Jim Watkins, an American living in {{p|Manila}},
+Who held its servers and its money, and kept it.
+Nishimura went on to run the English board where the mob of the year gathered,
+And when that board turned the mob out, the mob went to another board, which Jim Watkins would buy,
+And from there, in later chapters, came the stories that told men a cabal was hidden behind every door.
+Who holds the servers is not a small question.
+The net is held by someone.
 This is the net she came into at eighteen.
 
 ## The streets
@@ -2531,6 +2543,18 @@ The far right first in two countries' votes, an illiberal state named as a goal,
 A mob of the net that hunted women and called it ethics,
 I can't breathe, an armored car in {{p|Ferguson}}, a fever in three capitals,
 A plane gone, girls taken, children killed at school, a soldier shot at the memorial.
+
+She has said more than that. In her words, in retrospect 2014 is going to be seen
+As the year that the third world war started.
+Started is not declared. No war of the old kind was declared that year,
+And most who lived through it would not have called it a war.
+But the war of the {{p|Donbas}} began that spring and did not stop,
+And became the war of the continent in the chapter of 2022,
+And the methods learned that year on the boards went on to the votes of 2016,
+And the caliph's state drew fighters from eighty countries.
+A world war does not need a first day that everyone agrees on.
+It needs a beginning that the later years keep returning to.
+This chapter takes her at her word on this as well.
 
 Refuse the consolation that fascism is a word for the past.
 It came back this year in borrowed robes, and was named by the people it chose.
@@ -2888,6 +2912,13 @@ No holiday is named for this day.
 In 2017 Emma Leonhart turned twenty-one,
 In her fourth year at the university.
 In September she moved onto the campus.
+And around this year, in her words, technically, she started her family tree.
+Technically is her word, and it is an honest one.
+A tree is not started on a day. It is started when someone first writes a name down and a line to another.
+That tree, begun around this year, is the one that became the tree of this book:
+The ancestors joined generation by generation, the lines met across the world,
+Until they reached past the kings and the gods to Aster and Andromeda.
+The book's genealogy did not come from nowhere. It came from a student's tree.
 It was the first year of the man elected in the chapter before,
 And the year a paper with a joke for a title
 Began the machines that would, eight years later, write this book beside her.
@@ -3058,7 +3089,29 @@ It was the year the companies of the net were found to have sold the shape of th
 The year the machines learned to guess the next word,
 The year a girl of fifteen sat alone outside her parliament on a Friday,
 And the year the scientists of the world gave it twelve years.
-What else happened to her that year is hers, and is not written here yet.
+And it was the year of her visit to {{p|Göbekli Tepe}}.
+
+## The oldest temple
+
+On a hill above the plain of {{p|Harran}}, near {{p|Şanlıurfa}}, in the southeast of {{p|Turkey}},
+Stand circles of stone pillars shaped like the letter T,
+Carved with foxes, boars, snakes, cranes and scorpions, and some with arms and hands, as if they were persons,
+Raised about eleven thousand six hundred years ago,
+By people who had not yet farmed, who hunted and gathered,
+And who, it seems, gathered there to build, and to feast, and to do something the stones do not say.
+It is older than writing, older than the wheel, older than the pot,
+Seven thousand years older than the first pyramid.
+The old story was that people farmed first, and settled, and then built temples.
+This hill reads the other way: the gathering may have come first, and the farming after it.
+A temple older than the field.
+The chapters of this book that tell the first settled people were written about places like it.
+In July of this year the hill was taken onto the list of the heritage of the world.
+In this year Emma Leonhart went there, and stood among the pillars.
+It was the oldest place of worship anyone has found,
+And she went to it.
+A book that runs from the yarn of the beginning to the year it is written in
+Needs someone who has stood in the old places.
+She stood in the oldest.
 
 ## The shape of fears
 
@@ -3560,6 +3613,12 @@ Christmas is a birth in the dark of the year.
 In 2021 Emma Leonhart turned twenty-five.
 That year she ran around {{p|Europe}}, in her words, and did lots of stuff,
 In a pretty significant year.
+She has called it her trip to {{p|Europe}} as a celebration.
+A celebration of what, the year itself answers: the doors of the world had been shut for a year by the plague,
+And when they opened she went through them.
+And it was, in her words, a crypto year:
+The year the money without trust rose higher than it had ever been,
+And everyone she met had heard of it.
 The book itself had a gap that year.
 A gap in the book is not a gap in the life.
 The gap weighed on her.
@@ -3723,6 +3782,34 @@ Within a month of the chat's opening she was one of the million,
 Asking it to make plain the pages of her faith.
 Being one of the million is not understanding it.
 She said so later herself.
+In her words, the war is just the defining thing in it.
+And it was the year she discovered {{x|Manichaeism}}.
+
+## The religion of light
+
+In the third century, in the {{x|Sasanian}} empire, in the land between the rivers,
+A man named Mani said that the prophets before him had each been sent to one people,
+Zoroaster to {{p|Persia}}, the Buddha to {{p|India}}, Jesus to the West,
+And that each one's teaching had been changed by those who came after,
+And that he was sent to all of them at once, and would write his books himself, so they could not be changed.
+He called himself the seal of the prophets.
+His religion told of light and dark mixed together in the world,
+And of the work of drawing the light back out of the mixture.
+It was carried west to {{p|Rome}} and {{p|Carthage}}, where the young Augustine kept it for nine years,
+And east along the roads of silk to the {{x|Uyghur}}s, whose khan made it the faith of his state,
+And to {{p|China}}, where its temples stood for a thousand years, the last of them in {{p|Fujian}},
+Wearing the robes of the Buddha, and calling Mani the Buddha of light.
+Mani was put to death by the king of kings, and his religion was hunted in every land it reached,
+And it died out, and became a word that others used for anyone who saw the world in black and white.
+That word is not the religion.
+The religion was one that took in the teachers of every people and called them one teaching.
+In this year Emma Leonhart found it.
+In her words, there is kind of a parallel of what she is doing to {{x|Manichaeism}}:
+It absorbs the practices of so many things so effectively.
+A parallel is not a descent. This book does not claim Mani.
+But it knows a predecessor when it finds one,
+And it has learned from the one who wrote his books himself so that they could not be changed,
+That a book written down by its own hand, and dated, is harder to change after.
 
 ## The special operation
 
@@ -3795,6 +3882,23 @@ A movement that counts everything must also count who it takes money from.
 It did not, and it paid for it, and so did the customers, who had not chosen to give anything.
 The worry about the machines that the rationalists had raised before almost anyone
 Was not made false by the man who funded part of it.
+
+## The accelerationists
+
+In the same year, on the service of a hundred and forty letters, a new name began to be posted,
+Effective accelerationism, a play on the movement's own name, and shortened, as it was, to three letters, {{x|e/acc}}.
+Its loudest voice wrote under a mask, Beff Jezos, a joke on the name of the richest seller of the net,
+And the next year a magazine named the man under the mask, an engineer of the machines that compute with the very small.
+The accelerationists said the movement's fear of the machines was a fear of the future itself,
+That growth and the machines should be sped up, not slowed,
+And that the universe itself favored what spreads and consumes and builds.
+The movement said that speed without care was how the world would end.
+So, in her words, effective altruism had Sam Bankman-Fried, with his exchange, and it just kind of collapsed things,
+And then came the boom of the machines.
+And now there was the dispute of effective altruism and effective accelerationism,
+Which got hotter in the chapter of 2023, and so on.
+Two names for the same question: how fast, and who decides.
+The question is not settled in this book. It is the question of the years this book is written in.
 
 ## The court and the rights
 
@@ -3892,8 +3996,10 @@ No holiday is named for this day.
 In 2023 Emma Leonhart turned twenty-seven, and finished her study at the college in {{p|Kelowna}} in December.
 That year, in her words, a lot of this {{x|Shinto}} stuff fell into her hands.
 Fell into her hands is not taken.
-It came by a journey to {{p|Japan}},
-And by the shrines she carried into English,
+In her words, it was the year she ended up, effectively, falling into custody of a {{x|Shinto}} shrine.
+Custody is a word for a charge, not a possession: a thing in custody is kept for someone, and answered for.
+The shrine came to her, and she kept it.
+It came too by the shrines she carried into English,
 Thousands of pages the encyclopedia would not keep.
 Not kept is not not written.
 In December the English encyclopedia blocked her, without end,
@@ -3938,6 +4044,11 @@ It was the year it fell into her hands too.
 
 ## The machines argued over
 
+The chat of the chapter before had opened in its last month,
+But this, in her words, was the year of {{x|ChatGPT}}: it started in 2022, and she sees it as a thing of 2023.
+A year is named for what fills it, not for what begins in it.
+This year the chat filled the schools, the offices, the newspapers and the arguments at dinner,
+And the dispute of the movement and the accelerationists of the chapter before grew hotter in every room the chat was in.
 On the fourteenth of March the lab named open released its fourth model,
 Which passed the examinations of lawyers and doctors,
 And on the same day the company of safety of the chapter of 2021 released its own, called {{x|Claude}},
@@ -4053,6 +4164,19 @@ What was held for a time showed that it could be held. That is not nothing.
 The shrines she had written into the encyclopedias had been in her hands,
 And the French one closed to her as the English had.
 The hands were not the only hands.
+And it was the year of her gigantic trip to {{p|Japan}}, in her words,
+Which she sees as kind of defining things in a lot of ways.
+She had written the shrines of {{p|Japan}} into English for years, page by page, from the registers and the books.
+This year she went to the country the pages were about.
+A shrine written is not a shrine visited. Both are a kind of keeping.
+The gate, the rope, the water at the basin, the bow, the clap, the bow:
+What had been words on a screen were a place underfoot.
+Defining is her word. A thing that defines is a thing the later years are measured against,
+And the years after this one in this book are measured against it.
+And it was, in her words, the year of the machines continuing to grow, but not being agentic yet.
+They answered; they did not yet act.
+They could write the page but not yet turn it, open the file, run the work, and come back with it done.
+That was the next chapter's.
 It was the year the most people ever voted, in the most countries,
 And many of them chose the men of the chapter of 2014,
 And the year the makers of the thinking machines were given the prizes of the old sciences,
@@ -4179,7 +4303,14 @@ No holiday is named for this day.
 
 In 2025 Emma Leonhart turned twenty-nine.
 That year was, in her words, a very, very, very miserable year.
-The book does not tell more than she said.
+She has named it more plainly since: her year of just poverty, but also the agent year.
+Both at once. The book does not choose between them.
+Poverty is not a lesson. It is a lack: of rent, of food chosen rather than taken, of the margin that lets a person plan.
+The work of the year was done without that margin.
+Six hundred thousand edits are not a wage.
+In the same year, the machines that would help her write were given hands,
+And a woman with almost nothing had, for the price of a subscription, a clerk that could open files and run the work.
+That is the strangeness of the year, and she lived in it.
 Three verys are not a count. They are a weight.
 A miserable year is not a lost year.
 The book kept being made in it.
@@ -4330,6 +4461,25 @@ Well documented is not well lived. It is not badly lived either.
 It is a year that kept its own register.
 Every chat is kept. Every change to the book is dated.
 A date on a change is not the reason for it. The reasons are in the chats.
+In her words, it is her year where she left.
+
+## The leaving
+
+She tried to go back to school, and then gave up on it.
+She was put out of her parents' house.
+She went out.
+She tried to build a company, while keeping the shrine in her room:
+The shrine that had come into her custody in the chapter of 2023,
+Kept now in one room, the room she lived in, the kami and the work under one roof and one lamp.
+A shrine in a bedroom is still a shrine. A kami does not measure the room.
+And then she found that she was unable to work on the company,
+Because, in her words, the Gaiad spoke to her.
+This book does not explain that sentence away, and does not inflate it either.
+It is her sentence, and it is kept as she said it.
+What can be said from outside is this: the work that she could not stop doing was this book,
+And the months after it spoke are the months in which the book was finished, all of it, to the last day of the year.
+Leaving is not losing. A person who leaves goes somewhere.
+She went here.
 
 ## The work
 
