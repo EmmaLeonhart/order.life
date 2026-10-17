@@ -13,6 +13,8 @@ Build /gaiad.ged: one GEDCOM, strictly from the text, then Emma's ancestry. Emma
                                              record resolves as I2, and order.life's Aster (REFN Q1) and Andromeda
                                              (REFN Q3) as I1 and I3, so her line joins through to them (Emma,
                                              2026-10-15: "plus ancestry from me to Andromeda. Oh, and Aster").
+                                             F1 is Aster and Andromeda as husband and wife, with their children
+                                             (Emma, 2026-10-17).
 
     python wiki-scripts/build_gaiad_ged.py [out.ged]
 
@@ -73,6 +75,48 @@ def ancestry_records():
     if cur:
         recs.append(cur)
     return [r for r in recs if r[1] in ("INDI", "FAM", "SOUR")]  # SOUR: the trees the citations point to
+
+
+def aster_andromeda_family(recs, imap):
+    """One family for Aster and Andromeda, as husband and wife, first among the families (so it is F1).
+
+    Emma, 2026-10-17: they "currently are not displayed as being husband and wife in the family F1, and they should
+    be. Instead, both of them are shown as single parents of Benzet." The ancestry file has each of them as a single
+    parent of Benzette and the two as a childless couple; every family whose only parents are Aster and/or Andromeda
+    becomes that one family, with all their children. Returns the new records and {dropped family: kept family}.
+    """
+    src = {v: k for k, v in imap.items() if v in ("@I1@", "@I3@")}
+    if len(src) < 2:
+        return recs, {}
+    pair = {src["@I1@"], src["@I3@"]}
+    hits = []
+    for x, tag, lines in recs:
+        if tag == "FAM":
+            parents = {l[7:].strip() for l in lines if l.startswith(("1 HUSB ", "1 WIFE "))}
+            if parents and parents <= pair:
+                hits.append(x)
+    if not hits:
+        return recs, {}
+    keep = hits[0]
+    body = [f"1 HUSB {src['@I1@']}", f"1 WIFE {src['@I3@']}"]
+    seen = set(body)
+    by_x = {x: lines for x, tag, lines in recs if tag == "FAM"}
+    for x in hits:
+        skip = False
+        for l in by_x[x]:
+            if l.startswith("1 "):   # a level-1 line and the lines under it go together
+                skip = l.startswith(("1 HUSB ", "1 WIFE ")) or (l.startswith("1 CHIL ") and l in seen)
+                seen.add(l)
+            if not skip:
+                body.append(l)
+    out, placed = [], False
+    for r in recs:
+        if r[1] == "FAM" and not placed:
+            out.append((keep, "FAM", body))
+            placed = True
+        if r[1] != "FAM" or r[0] not in hits:
+            out.append(r)
+    return out, {x: keep for x in hits[1:]}
 
 
 def build(out_path):
@@ -163,9 +207,13 @@ def build(out_path):
             else:
                 n += 1
                 imap[x] = f"@I{n}@"
-        elif tag == "FAM":
+    recs, merged_into = aster_andromeda_family(recs, imap)
+    for x, tag, lines in recs:
+        if tag == "FAM":
             nf += 1
             fmap[x] = f"@F{nf}@"
+    for x, into in merged_into.items():
+        fmap[x] = fmap[into]
     ptr = re.compile(r"@[^@\s]+@")
     # The synoptic tree carries links on the FAM records only; give each person their FAMC/FAMS back.
     back = {}
@@ -189,6 +237,8 @@ def build(out_path):
                     if a.startswith("1 REFN ") and b.strip() == "2 TYPE order.life":
                         lines = lines + feats.lines(a[7:].strip())
         fixed = [ptr.sub(lambda m: imap.get(m.group(0)) or fmap.get(m.group(0)) or m.group(0), l) for l in lines]
+        if tag == "INDI":   # a link to a family merged into F1 would otherwise appear twice
+            fixed = [l for i, l in enumerate(fixed) if not l.startswith(("1 FAMC ", "1 FAMS ")) or l not in fixed[:i]]
         target = imap.get(x)
         if target in ("@I1@", "@I2@", "@I3@"):
             keep, prev = [], ""
