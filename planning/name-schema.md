@@ -30,6 +30,20 @@ Why: "trying really hard to basically make almost any sort of ancestral rites po
 ancestor", pre-human organisms included. "It feels superficially extremely individualistic and weird
 ... but in a sense, it's almost the most collectivistic thing you can do."
 
+## Primary names (Emma, 2026-10-17)
+
+"We are introducing a system where people have a so called "primary name" which can be anglicized, sinified, etc."
+Each person has one **primary name per language or script**: the anglicized, sinified, Koreanized (and so on) form
+that is shown first in that language. Older or other forms in that language stay as **aliases**, not dropped. On
+order.life the primary name is the item's label in that language and the older forms are its aliases there; in
+gaiad.ged it is a `TRAN` with `LANG` under the person's primary `NAME`, and the aliases are `NAME` with `TYPE AKA`.
+
+Applied so far to Emma only: "change Emma Leonhart's name to 이명월 in Korean. This is the primary name and the old one
+still stays as an alias". Q2's ko label is 이명월, and in gaiad.ged I2's primary NAME carries `TRAN 이명월` / `LANG ko`
+(`PRIMARY_TRAN` in `wiki-scripts/build_gaiad_ged.py`). No earlier Hangul form of her name was on record anywhere in
+the repo; her earlier name for Korean use was the hanja 李命玥 (of which 이명월 is the Korean reading), so that is
+her ko alias on Q2 and stays her `NAME Emma 李命玥` / `TYPE AKA` in gaiad.ged. Not yet applied to anyone else.
+
 ## Decisions (Claude, 2026-10-15)
 
 1. **The Western-name slot for Chinese, Japanese and Korean people:** a recorded baptismal or Western

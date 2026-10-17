@@ -41,6 +41,10 @@ TITLE = re.compile(r"^#\s+(?:Chapter\s+\d+:\s*)?(.*)")
 NS = uuid.uuid5(uuid.NAMESPACE_URL, "https://order.life/gaiad/individual/")
 FIRST = [("Aster", "Aster"), ("Emma Leonhart", "Emma /Leonhart/ 命玥"), ("Andromeda", "Andromeda")]
 EMMA_NAMES = ["Emma 李命玥"]  # beside her primary name, Emma /Leonhart/ 命玥 (Emma, 2026-10-16)
+# The primary name in other languages and scripts, as TRANs under the primary NAME (planning/name-schema.md, "Primary
+# names"). Emma, 2026-10-17: "change Emma Leonhart's name to 이명월 in Korean. This is the primary name and the old one
+# still stays as an alias". 이명월 is the Korean reading of 李命玥, which stays as her AKA.
+PRIMARY_TRAN = {"Emma Leonhart": [("이명월", "ko")]}
 FIRST_SEX = {"Aster": "M", "Emma Leonhart": "F", "Andromeda": "F"}  # Emma, 2026-10-16: "Aster has sex. M."
 EMMA_FS = "PFR5-LDS"
 ORDERLIFE_FIRST = {"Q1": "@I1@", "Q3": "@I3@"}  # order.life ids of Aster and Andromeda
@@ -386,6 +390,9 @@ def build(out_path):
         add(f"1 NAME {' '.join(ged_name.split())}")   # a tag wrapped across a line break is one name (UID unchanged)
         if ged_name.count("/") == 2 and ged_name.split("/")[1].strip():
             add(f"2 SURN {ged_name.split('/')[1].strip()}")
+        for text, lg in PRIMARY_TRAN.get(name, ()):
+            add(f"2 TRAN {text}")
+            add(f"3 LANG {lg}")
         add(f"1 SEX {FIRST_SEX.get(name) or sex_by_label.get(name, 'U')}")
         add(f"1 REFN {n}")
         add("2 TYPE Gaiad individual number")
@@ -560,6 +567,16 @@ def build(out_path):
                         or keep and not l.startswith(("1 REFN", "2 TYPE order.life", "1 SEX"))):
                     keep.append(l)
                 prev = l
+            primary = {t for name, ged in FIRST if f"@I{FIRST.index((name, ged)) + 1}@" == target
+                       for t, _ in PRIMARY_TRAN.get(name, ())}
+            if primary:   # a label that is already the primary name's TRAN is not repeated as another NAME
+                skip, kept = False, []
+                for l in keep:
+                    if l.startswith("1 "):
+                        skip = l.startswith("1 NAME ") and l[7:].strip() in primary
+                    if not skip:
+                        kept.append(l)
+                keep = kept
             links[target] = keep
             continue
         add(f"0 {imap.get(x) or fmap.get(x) or x} {tag}")
