@@ -14,9 +14,9 @@ A date on a change is not the reason for it. The reasons are in the chats.
 
 ## The work
 
-In the spring she went to a contest of builders, a hackathon, and the room did not forget it.
+In March she went to a contest of builders, a hackathon.
 In May a paper of hers was posted, the {{x|Sutra}} paper,
-On compiling the symbols of thought into the operations of the machines,
+On compiling the vector symbolic architectures into the tensor operations of recurrent networks,
 Her own work, with no school behind it.
 A paper posted is not a paper accepted. It is a paper that exists.
 In June money came for a company of her own,
@@ -152,7 +152,7 @@ Not telling is not forgetting. It is trusting.
 ## The year held
 
 A woman of thirty in a well-documented year:
-A contest won in a room, a paper posted, money for a company, a move to {{p|Vancouver}}, a turn that did not take,
+A hackathon, a paper posted, money for a company, a move to {{p|Vancouver}}, a turn that did not take,
 And in her own word, failing, and still doing the work.
 The farmers of {{p|Bure}}, the princes of {{p|Reuss}}, the Jewish ancestors, the khan's daughter and the kings of {{p|Vaspurakan}},
 {{c|Wu Zetian}} and the {{x|Miwa}} and {{c|Amaterasu}}, joined in the open.
