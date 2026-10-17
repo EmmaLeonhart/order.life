@@ -68,7 +68,7 @@ Some of which has not been lived in since.
 The water used to cool the ruins was stored in tanks for twelve years
 And then released into the sea.
 The shrines of the coast were carried off too, and some were rebuilt on higher ground,
-And some of the wave's high points were found to be where the old shrines stood,
+And a later study found that many of the old shrines of that coast stood just beyond where the wave stopped,
 As if those who placed them had remembered an earlier wave.
 
 ## The killing in Abbottabad
