@@ -86,7 +86,7 @@ The president said the arms sales mattered more.
 
 On the twenty-third of June twelve boys of a football team in {{p|Thailand}} and their coach
 Went into a cave after practice, and the rains came, and flooded it behind them.
-They were found after nine days, on a ledge, by two British divers.
+They were found on the tenth day, on a ledge, by two British divers.
 Over three days in July they were brought out, sedated, by divers through the flooded passages,
 And all thirteen lived.
 A Thai diver, {{c|Saman Kunan}}, died laying the air tanks.
