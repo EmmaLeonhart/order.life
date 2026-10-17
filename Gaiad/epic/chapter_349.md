@@ -41,7 +41,7 @@ And stayed in the transit zone of the airport for weeks,
 And on the first of August was given asylum,
 In the country of the next chapter's war.
 Where he stayed is not what he said he wanted.
-That summer it was printed that the agency had listened to the phone of the chancellor of {{p|Germany}}.
+That autumn it was printed that the agency had listened to the phone of the chancellor of {{p|Germany}}.
 The machine that was built to connect everyone
 Was also the best record ever made of who is connected.
 
