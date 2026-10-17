@@ -1,6 +1,8 @@
 # Chapter 357: The Message and the Gate
 
-No holiday is named for this day.
+This is {{x|Christmas Day}}, and the {{x|Dongzhi Festival}}.
+{{x|Dongzhi}} is the longest night, after which the light returns.
+Christmas is a birth in the dark of the year.
 
 In 2021 {{c|Emma Leonhart}} turned twenty-five.
 That year she ran around {{p|Europe}}, in her words, and did lots of stuff,
