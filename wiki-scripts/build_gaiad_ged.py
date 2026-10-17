@@ -30,8 +30,8 @@ ANCESTRY = ROOT / "Gaiad" / "ancestry" / "emma-ancestry.ged"
 TAG = re.compile(r"\{\{c\|(?:[^}|]*\|)?([^}|]+)\}\}")
 TITLE = re.compile(r"^#\s+(?:Chapter\s+\d+:\s*)?(.*)")
 NS = uuid.uuid5(uuid.NAMESPACE_URL, "https://order.life/gaiad/individual/")
-FIRST = [("Aster", "Aster"), ("Emma Leonhart", "Emma /Leonhart/"), ("Andromeda", "Andromeda")]
-EMMA_NAMES = ["Emma Leonhart 命玥", "Emma 李命玥"]
+FIRST = [("Aster", "Aster"), ("Emma Leonhart", "Emma /Leonhart/ 命玥"), ("Andromeda", "Andromeda")]
+EMMA_NAMES = ["Emma 李命玥"]  # beside her primary name, Emma /Leonhart/ 命玥 (Emma, 2026-10-16)
 FIRST_SEX = {"Aster": "M", "Emma Leonhart": "F", "Andromeda": "F"}  # Emma, 2026-10-16: "Aster has sex. M."
 EMMA_FS = "PFR5-LDS"
 ORDERLIFE_FIRST = {"Q1": "@I1@", "Q3": "@I3@"}  # order.life ids of Aster and Andromeda
@@ -117,6 +117,8 @@ def build(out_path):
         n += 1
         add(f"0 @I{n}@ INDI")
         add(f"1 NAME {' '.join(ged_name.split())}")   # a tag wrapped across a line break is one name (UID unchanged)
+        if ged_name.count("/") == 2 and ged_name.split("/")[1].strip():
+            add(f"2 SURN {ged_name.split('/')[1].strip()}")
         add(f"1 SEX {FIRST_SEX.get(name) or sex_by_label.get(name, 'U')}")
         add(f"1 REFN {n}")
         add("2 TYPE Gaiad individual number")
@@ -200,11 +202,14 @@ def build(out_path):
             continue
         add(f"0 {imap.get(x) or fmap.get(x) or x} {tag}")
         w.extend(fixed)
-    # Graft the joined records' family links onto I1, I2, I3 (after their REFN line).
+    # Graft the joined records' family links, ids and citations onto I1, I2, I3, at the end of each record (so a
+    # NAME keeps its SURN and other parts directly under it).
     for target, fam_lines in links.items():
         if fam_lines:
-            i = w.index(f"0 {target} INDI")
-            w[i + 2:i + 2] = fam_lines
+            i = w.index(f"0 {target} INDI") + 1
+            while i < len(w) and not w[i].startswith("0 "):
+                i += 1
+            w[i:i] = fam_lines
     add("0 TRLR")
     out_path = Path(out_path)
     out_path.parent.mkdir(parents=True, exist_ok=True)
