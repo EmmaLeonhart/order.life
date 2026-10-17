@@ -732,10 +732,14 @@ def _ancestor_lines(month_num, day_num):
 
 
 def _ancestor_when(e):
-    """The source's own date, then the Gaian date with its year (Emma, 2026-10-12: both calendars)."""
-    if e.get("when") and e.get("gaian"):
-        return f"{e['when']}; {e['gaian']}"
-    return e["date"].lstrip("0") or e["date"]
+    """The Gaian year only (Emma, 2026-10-17: the iCal was too large to sync; "Just have the Gaian dates ...
+    Just the Gaian years. No, not the Gregorian years, not the other stuff like that"). The day and month are
+    the event's own day, so only the year is new information."""
+    m = re.search(r"(\d+) GE", e.get("gaian") or "")
+    if m:
+        return f"{m.group(1)} GE"
+    y = re.match(r"-?\d+", e.get("date") or "")
+    return f"{int(y.group(0)) + 10000} GE" if y else ""
 
 def _holiday_summary_with_emoji(h, lang="en"):
     """Return localized holiday summary prefixed with its emoji (if present)."""
