@@ -45,6 +45,18 @@ last, by order.life QID.
 
 ## When
 
+**Applied 2026-10-17** in `wiki-scripts/build_gaiad_ged.py` (`walk_numbering`), which builds `/gaiad.ged` (the
+Gaiad's text block plus her ancestry, not `export_gedcom7.py`). I1-I3 and the text block keep their numbers; the
+walk starts at I1 and runs through every person in number order, the ones it numbers included, so it reaches
+everyone joined to Aster, Emma or Andromeda. Each family's ancestry is climbed once. People it never reaches follow
+in the ancestry file's order (that file carries no QID for most of them). Children are numbered by birth year where
+a BIRT DATE gives one; undated children keep their place in the CHIL list, and the CHIL lines themselves stay in the
+source order. Every ancestry person now has `REFN <n>` with `TYPE Gaiad individual number`, and records are written
+in number order. Result: F1 Aster + Andromeda + Benzette (I4726); F2 her parents' family (I4727 father,
+I4728 mother, I2 Emma, I4729 her brother); F3 her paternal grandparents' family.
+
+The paragraph below was the plan before; the text block is still unresolved, so its tags have no links yet.
+
 Order of first appearance needs every chapter tag resolved to a person, which is the entity-resolution
 work at the end of the parent repo's queue (today only 7 genealogy files carry an id). Numbering before
 that would renumber everyone later and break the stability that is the point, so this is applied

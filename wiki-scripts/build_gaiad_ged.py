@@ -119,6 +119,99 @@ def aster_andromeda_family(recs, imap):
     return out, {x: keep for x in hits[1:]}
 
 
+def birth_year(lines):
+    """The year of a record's first BIRT DATE, BC negative; None if it has none."""
+    for a, b in zip(lines, lines[1:]):
+        if a.startswith("1 BIRT") and b.startswith("2 DATE "):
+            d = b[7:]
+            m = re.match(r"(\d{3,4})-\d\d", d.strip())
+            nums = [m.group(1)] if m else re.findall(r"\d{3,4}", d) or re.findall(r"\d+", d)
+            if nums:
+                y = int(nums[-1] if not m else nums[0])
+                return -y if re.search(r"B\.?C", d) else y
+            return None
+    return None
+
+
+def walk_numbering(recs, imap, n):
+    """Number the ancestry people and the families by the FamilySearch-style walk (planning/gaiad-ged-numbering.md).
+
+    Emma, 2026-10-14: "family search style algorithm altogether"; her 2026-10-15 answers: "the FamilySearch walk
+    replaces the spouse pass" and "each person's line in turn". For each person in individual order, the ones the
+    walk numbers included: their spouse families, then their parents' family, then each generation above it, father's
+    side before mother's. In each family the father, the mother, then the children oldest first get the next I-number
+    if they have none; each family the next F-number. People the walk never reaches follow, in the file's order.
+    imap holds the joined records (I1, I2, I3) and is extended; n is the last number used (the Gaiad's text block).
+    """
+    fams = {x: lines for x, tag, lines in recs if tag == "FAM"}
+    years = {x: birth_year(lines) for x, tag, lines in recs if tag == "INDI"}
+    husb, wife, chil, famc, fams_of = {}, {}, {}, {}, {}
+    for f, lines in fams.items():
+        kids = []
+        for l in lines:
+            p = l[7:].strip()
+            if l.startswith("1 HUSB "):
+                husb.setdefault(f, p)
+                fams_of.setdefault(p, []).append(f)
+            elif l.startswith("1 WIFE "):
+                wife.setdefault(f, p)
+                fams_of.setdefault(p, []).append(f)
+            elif l.startswith("1 CHIL "):
+                kids.append(p)
+                famc.setdefault(p, []).append(f)
+        dated = iter(sorted((k for k in kids if years.get(k) is not None), key=lambda k: years[k]))
+        chil[f] = [next(dated) if years.get(k) is not None else k for k in kids]   # undated ones keep their place
+    by_num = {int(v[2:-1]): k for k, v in imap.items()}
+    fmap, climbed = {}, set()
+
+    def number_person(p):
+        nonlocal n
+        if p not in imap:
+            n += 1
+            imap[p] = f"@I{n}@"
+            by_num[n] = p
+
+    def number_family(f):
+        if f not in fmap:
+            fmap[f] = f"@F{len(fmap) + 1}@"
+            for p in [husb.get(f), wife.get(f)] + chil[f]:
+                if p:
+                    number_person(p)
+
+    def walk(p):
+        for f in fams_of.get(p, ()):
+            number_family(f)
+        frontier = list(famc.get(p, ()))
+        while frontier:   # one generation at a time, father's side first
+            nxt = []
+            for f in frontier:
+                number_family(f)
+                if f in climbed:
+                    continue
+                climbed.add(f)
+                for parent in (husb.get(f), wife.get(f)):
+                    nxt.extend(famc.get(parent, ()) if parent else ())
+            frontier = nxt
+
+    i = 0
+    order = [x for x, tag, _ in recs if tag == "INDI"]
+    rest = iter(order)
+    while True:
+        i += 1
+        if i > n:
+            p = next((x for x in rest if x not in imap), None)   # the next person the walk has not reached
+            if p is None:
+                break
+            number_person(p)
+        p = by_num.get(i)
+        if p:
+            walk(p)
+    for f in fams:   # families with no member reached (none expected: every family has a member)
+        if f not in fmap:
+            fmap[f] = f"@F{len(fmap) + 1}@"
+    return imap, fmap, n
+
+
 def build(out_path):
     w = []
     add = w.append
@@ -198,22 +291,21 @@ def build(out_path):
                     return hit
         return None
 
-    imap, fmap, nf = {}, {}, 0
+    imap = {}
     for x, tag, lines in recs:
         if tag == "INDI":
             hit = first_of(lines)
             if hit and hit not in imap.values():
                 imap[x] = hit
-            else:
-                n += 1
-                imap[x] = f"@I{n}@"
     recs, merged_into = aster_andromeda_family(recs, imap)
-    for x, tag, lines in recs:
-        if tag == "FAM":
-            nf += 1
-            fmap[x] = f"@F{nf}@"
+    imap, fmap, n = walk_numbering(recs, imap, n)
+    nf = len(fmap)
     for x, into in merged_into.items():
         fmap[x] = fmap[into]
+    # Records are written in number order: the numbers are the order (planning/gaiad-ged-numbering.md).
+    num = lambda r: int((imap.get(r[0]) or fmap.get(r[0]) or "@X0@")[2:-1])
+    recs = (sorted((r for r in recs if r[1] == "INDI"), key=num) + sorted((r for r in recs if r[1] == "FAM"), key=num)
+            + [r for r in recs if r[1] not in ("INDI", "FAM")])
     ptr = re.compile(r"@[^@\s]+@")
     # The synoptic tree carries links on the FAM records only; give each person their FAMC/FAMS back.
     back = {}
@@ -232,6 +324,8 @@ def build(out_path):
             lines = lines + [l for l in back.get(x, ()) if l not in have]
             if not any(l.startswith("1 SEX ") for l in lines):
                 lines.append("1 SEX U")   # every person has a SEX; U where no source gives one
+            if imap[x] not in ("@I1@", "@I2@", "@I3@"):   # those three have theirs already
+                lines = lines + [f"1 REFN {imap[x][2:-1]}", "2 TYPE Gaiad individual number"]
             if feats:
                 for a, b in zip(lines, lines[1:]):
                     if a.startswith("1 REFN ") and b.strip() == "2 TYPE order.life":
