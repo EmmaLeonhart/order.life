@@ -32,6 +32,7 @@ TITLE = re.compile(r"^#\s+(?:Chapter\s+\d+:\s*)?(.*)")
 NS = uuid.uuid5(uuid.NAMESPACE_URL, "https://order.life/gaiad/individual/")
 FIRST = [("Aster", "Aster"), ("Emma Leonhart", "Emma /Leonhart/"), ("Andromeda", "Andromeda")]
 EMMA_NAMES = ["Emma Leonhart 命玥", "Emma 李命玥"]
+FIRST_SEX = {"Aster": "M", "Emma Leonhart": "F", "Andromeda": "F"}  # Emma, 2026-10-16: "Aster has sex. M."
 EMMA_FS = "PFR5-LDS"
 ORDERLIFE_FIRST = {"Q1": "@I1@", "Q3": "@I3@"}  # order.life ids of Aster and Andromeda
 
@@ -93,12 +94,30 @@ def build(out_path):
     apps = appearances()
     first_seen = {name: (ch, st) for name, ch, st in apps}
     n = 0
+    # Every Gaiad figure has a SEX (Emma, 2026-10-16: "all of us actually have set sexes"): the three first ones as she
+    # set them, the others as order.life's genealogy has the person of that name (U where it does not say or the name
+    # is not one person there).
+    recs = ancestry_records() if ANCESTRY.exists() else []
+    feats = None
+    if recs:
+        sys.path.insert(0, str(Path(__file__).resolve().parent))
+        from gedcom_features import Features
+        feats = Features()
+    sex_by_label = {}
+    if feats:
+        seen_labels = {}
+        for q, r in feats.persons.items():
+            lb = (r.get("label") or "").strip()
+            if lb:
+                seen_labels.setdefault(lb, set()).add(feats.sex_of.get(q, "U"))
+        sex_by_label = {lb: next(iter(s)) for lb, s in seen_labels.items() if len(s) == 1}
 
     def indi(name, ged_name, where):
         nonlocal n
         n += 1
         add(f"0 @I{n}@ INDI")
-        add(f"1 NAME {ged_name}")
+        add(f"1 NAME {' '.join(ged_name.split())}")   # a tag wrapped across a line break is one name (UID unchanged)
+        add(f"1 SEX {FIRST_SEX.get(name) or sex_by_label.get(name, 'U')}")
         add(f"1 REFN {n}")
         add("2 TYPE Gaiad individual number")
         add(f"1 UID {uuid.uuid5(NS, name)}")
@@ -122,7 +141,6 @@ def build(out_path):
     n_text = n
 
     # Emma's ancestry, renumbered after the text block; her record becomes I2, order.life's Aster and Andromeda I1, I3.
-    recs = ancestry_records() if ANCESTRY.exists() else []
 
     def first_of(lines):
         if any(l.strip() in (f"1 EXID {EMMA_FS}", f"1 _FSFTID {EMMA_FS}") for l in lines):
@@ -157,16 +175,13 @@ def build(out_path):
                     back.setdefault(l[7:].strip(), []).append(f"1 {kind} {x}")
     # The per-person features (gedcom_features.py: readings, neo-kun'yomi, Chinese, temple, Horus and Abrahamic names,
     # lineage names, other calendars, links, cladoplasts) for everyone who carries an order.life id.
-    feats = None
-    if recs:
-        sys.path.insert(0, str(Path(__file__).resolve().parent))
-        from gedcom_features import Features
-        feats = Features()
     links = {}
     for x, tag, lines in recs:
         if tag == "INDI":
             have = {l.strip() for l in lines}
             lines = lines + [l for l in back.get(x, ()) if l not in have]
+            if not any(l.startswith("1 SEX ") for l in lines):
+                lines.append("1 SEX U")   # every person has a SEX; U where no source gives one
             if feats:
                 for a, b in zip(lines, lines[1:]):
                     if a.startswith("1 REFN ") and b.strip() == "2 TYPE order.life":
@@ -178,7 +193,7 @@ def build(out_path):
             for l in fixed:   # family links, ids and citations, and the feature lines after the record's own
                 if (l.startswith(("1 FAMC", "1 FAMS", "1 EXID", "1 SOUR @"))
                         or (l.startswith(("2 TYPE http", "2 PAGE ")) and prev.startswith(("1 EXID", "1 SOUR @")))
-                        or keep and not l.startswith(("1 REFN", "2 TYPE order.life"))):
+                        or keep and not l.startswith(("1 REFN", "2 TYPE order.life", "1 SEX"))):
                     keep.append(l)
                 prev = l
             links[target] = keep
