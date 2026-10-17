@@ -20,7 +20,7 @@ It is a scripture that shows its tools.
 That year she also entered the shrines of the {{x|Engishiki}} into {{x|Wikidata}}, province by province,
 The court's old register made a register a machine can read,
 Some six hundred thousand edits in the year, by her own count,
-The labor she had called an {{x|Amway}}, given again, this time to a register she chose.
+Unpaid labor of the kind she criticizes, given to a register she wanted kept.
 A list kept by a court is not a list kept by no one.
 It is a list that outlived its court, waiting for someone to keep it again.
 In July the simple English encyclopedia let her back in, and she worked there.
@@ -48,7 +48,7 @@ Made, it said, for a fraction of what the companies of {{p|California}} spent.
 On the twenty-seventh the price of the largest maker of chips fell by a sixth in a day.
 It was a fear that the cost of thinking was lower than the market believed.
 On the twenty-first of January the new president stood with the chiefs of the labs and announced five hundred billion dollars for their machines,
-And the lab named open said it would keep its name and become a company like the others.
+And the lab named open made its company one that pays its owners, under the foundation that still bears the name.
 
 ## The second term
 
