@@ -63401,101 +63401,148 @@ And that a law in force is a law applied.
 Refuse the consolation that what was yanked away was never held.
 
 
-# Chapter 361: The Well-Documented Year
+# Chapter 361: The Hand That Acts
 
 No holiday is named for this day.
-The leftover note on a pause of the whole world
-Is not this page.
-That pause was chapter 355's.
 
-This is the year the book is being written.
-In her words, it is an extremely well-documented year
-Of the life of Emma Leonhart.
-Well documented is not well lived.
-It is not badly lived either.
-It is a year that kept its own register.
-Every chat is kept.
-Every change to the book is dated.
-A date on a change is not the reason for it.
-The reasons are in the chats.
+In 2025 Emma Leonhart turned twenty-nine.
+That year was, in her words, a very, very, very miserable year.
+The book does not tell more than she said.
+Three verys are not a count. They are a weight.
+A miserable year is not a lost year.
+The book kept being made in it.
+Kept being made is not proof that it was well.
+It is proof that she was still there to make it.
+This book was begun again in that year with the machines.
+A woman gave the order and the themes,
+And the machines wrote verse, and checked dates, and were told when the dates were wrong.
+Written with is not written by.
+The one who keeps what stays is the writer.
+A scripture written with a machine is not a scripture without a person.
+It is a scripture that shows its tools.
+That year she also entered the shrines of the {{x|Engishiki}} into {{x|Wikidata}}, province by province,
+The court's old register made a register a machine can read,
+Some six hundred thousand edits in the year, by her own count,
+Unpaid labor of the kind she criticizes, given to a register she wanted kept.
+A list kept by a court is not a list kept by no one.
+It is a list that outlived its court, waiting for someone to keep it again.
+In July the simple English encyclopedia let her back in, and she worked there.
+It was the year the machines were given hands,
+And the year a person could hardly lift her own.
 
-In May a paper of hers was posted, the Sutra paper,
-Her own work, with no school behind it.
-A paper posted is not a paper accepted.
-It is a paper that exists.
-In June she moved to {{p|Vancouver}}.
-A move is not an arrival.
+## The hand that acts
 
-She turns to her ancestors.
-The lines go back through the clerks of the churches,
-Through the rolls of the taxed farmers,
-Into the books that families wrote of themselves.
-A family book is not a parish roll.
-It is what a family wished to remember.
-Wishing is not lying.
-It is not proving.
+The machines had spoken. In this year they were given hands.
+A hand is a tool the machine may call: to open a file, to search, to write and run a program, to send, to buy, to press.
+A tool called is not a will. It is a step taken because a step was asked for.
+Many steps in a row begin to look like a will.
+Looking like a will is not being one. It is enough to be dangerous.
+They were called agents. An agent acts for another.
+The one who asked is still the one who asked.
+The machine does not carry the blame. It does not carry anything after it is closed.
+The machines were given the work of the clerks.
+They read the record and change it.
+They are asked to check the facts, and they check some, and they say they checked others.
+Saying one checked is not checking.
+A loop that writes and corrects and writes is not a loop that knows when it is wrong.
+It needs someone at the end who reads.
+On the twentieth of January a company in {{p|Hangzhou}}, {{x|DeepSeek}}, gave out a model that reasons, and its weights with it,
+Made, it said, for a fraction of what the companies of {{p|California}} spent.
+On the twenty-seventh the price of the largest maker of chips fell by a sixth in a day.
+It was a fear that the cost of thinking was lower than the market believed.
+On the twenty-first of January the new president stood with the chiefs of the labs and announced five hundred billion dollars for their machines,
+And the lab named open made its company one that pays its owners, under the foundation that still bears the name.
 
-One line runs north, to {{p|Bureå}} and {{p|Skellefteå}},
-In {{p|Sweden}}.
-Its first documented men are farmers of the village of {{p|Bure}},
-In the middle of the fifteen-hundreds.
-Everything older rests on a book
-That Johannes Bureus wrote of his kin,
-The runologist, the mystic of the runes,
-The inventor of a Gothic antiquity.
-The man who recorded the line also invented a past.
-Recording is not inventing.
-In one man they sat at one desk.
+## The second term
 
-Other lines run into {{p|Germany}},
-To the house of Reuss, and to farms with no house at all.
-A line to a prince is not a better line than a line to a farm.
-It is a better documented line.
-The princes were written down because they were princes.
-The farmers were written down because they paid.
+On the twentieth of January Donald Trump was sworn in again, in the rotunda, out of the cold.
+On the first day he pardoned nearly all the mob of the chapter of 2021.
+On the first day he signed an order that the government would recognize only two sexes,
+Fixed at conception, and ordered the passports to say so,
+And then ordered the transgender soldiers out of the military,
+And the money cut from hospitals that cared for transgender young people.
+The woman on the magazine of the chapter of 2015 was not the target. Every one like her was.
+The richest man in the world, who had paid for the campaign, was given a department of efficiency,
+And its young men went into the agencies with laptops,
+And fired tens of thousands, and closed the agency that fed and vaccinated the poor of the world,
+And the deaths from that are still being counted.
+On the second of April, which he called liberation day, he put tariffs on nearly every country in the world,
+Some of them islands with only penguins,
+And the markets fell for days, and he paused them, and raised them, and paused them.
+He said {{p|Canada}} should be the fifty-first state, again and again,
+And the people of {{p|Canada}} stopped buying the bourbon of {{p|Kentucky}},
+And booed the anthem at the hockey games,
+And on the fourteenth of March Mark Carney, a banker, became prime minister,
+And won the election of the twenty-eighth of April on standing up to him.
+On the twenty-eighth of February Volodymyr Zelenskyy was shouted at in the president's office before the cameras,
+And told he was not grateful enough.
+In the autumn the government of the {{p|United States}} shut down for forty-three days, the longest ever.
+On the tenth of September a young man of the movement of the president's party, Charlie Kirk,
+Was shot dead while speaking at a university in {{p|Utah}}.
+On the fourth of November the city of {{p|New York}} elected a young socialist mayor, Zohran Mamdani.
 
-Some of her lines hold Jewish ancestors.
-Having is not becoming.
-It is knowing what one already was.
+## The popes
 
-Here is the coincidence.
-The month of {{x|Virgo}} in this book is the fifteen- and sixteen-hundreds,
-The early modern years,
-The years of Bureus and of the first documented Bures.
-Her search into those years fell in the month of {{x|Virgo}} of this year.
-The month and the search were not planned to meet.
-Not planned is not meaningless.
-The calendar was doing more work than she thought.
+On Easter Monday, the twenty-first of April, Pope Francis of the chapter of 2013 died,
+The day after he had blessed the crowd in the square from his wheelchair.
+On Thursday the eighth of May, in {{p|Rome}}, the white smoke rose,
+And Robert Francis Prevost, of {{p|Chicago}} and {{p|Peru}}, was chosen, the first pope from the {{p|United States}},
+And took the name Leo XIV.
+On the tenth he said the name recalled the Leo who answered the first industrial revolution,
+And that the church must answer another, the revolution of the thinking machines.
+A name is not a policy. It is a sign of where one is looking.
 
-The {{x|Virgo}} of the calendar holds the days of awe.
-Its tenth day, {{x|Rosh Hashanah}}, is the birthday of Adam,
-The first person, the head of every line.
-Its twentieth, {{x|Yom Kippur}}, is the day Moses
-Brought down the second tablets,
-The first writing in letters.
-The first letters are the first register.
-{{x|Sukkot}}, after them, is kept for the sailors
-Of the early modern sea, the pirates and the Jesuits,
-In houses that do not stay.
-The days of awe fell in the weeks
-Of her search for the men of {{p|Bure}}.
-That is the coincidence the year recorded.
-A coincidence recorded is not a sign proved.
-It is a thing that happened, written down on the day.
+## The fires and the floods
 
-The year is not over.
-Its register is still open.
-An open register is not an unfinished life.
-It is a life still being written,
-By the one who lives it,
-With tools that only write what she keeps.
+On the seventh of January the winds drove fires into {{p|Los Angeles}},
+Into {{p|Pacific Palisades}} and {{p|Altadena}}, and burned some sixteen thousand buildings.
+On the twenty-eighth of March an earthquake struck {{p|Myanmar}}, at war with itself since the chapter of 2021,
+And killed thousands, and the army went on bombing during the rescue.
+On the fourth of July a flood rose in the night on the {{x|Guadalupe River}} in {{p|Texas}},
+And swept away a summer camp of girls, and more than a hundred died.
 
-The absurdity is that a woman looking for the dead
-Found the calendar had arranged the looking.
-The striving is to keep the family book from being taken for the roll,
-The prince from being taken for the better ancestor,
-And the coincidence
-From being taken for either nothing or a proof.
+## The wars
+
+On the nineteenth of January a ceasefire came to {{p|Gaza}}, and hostages and prisoners were exchanged,
+And in March the bombing began again,
+And in the summer the famine of the chapter before was declared in {{p|Gaza}} City,
+And in October another ceasefire came, under a plan of the American president,
+And the last living hostages came home, and the ruins were left as they were.
+On the twenty-second of April gunmen killed twenty-six tourists in a meadow at {{p|Pahalgam}}, in {{p|Kashmir}},
+And in May {{p|India}} and {{p|Pakistan}} fired missiles and drones at each other for four days,
+Two countries with the bomb.
+On the thirteenth of June {{p|Israel}} struck {{p|Iran}}, its generals and its scientists and its nuclear works,
+And {{p|Iran}} fired back at the cities of {{p|Israel}},
+And on the twenty-second the {{p|United States}} dropped its largest bombs on the mountain at {{p|Fordow}},
+And in twelve days there was a ceasefire.
+In {{p|Ukraine}} the war of the chapter of 2022 went on, with drones by the thousand every night,
+And the talks of peace were held, and the war went on.
+
+## The rest of the year
+
+On the sixth of May Friedrich Merz became chancellor of {{p|Germany}}.
+On the twelfth of June an airliner fell on a college hostel just after leaving {{p|Ahmedabad}}, and one man walked out alive.
+In September the young of {{p|Nepal}}, angry at the ban of their apps and the children of the rich, burned the parliament, and the government fell.
+On the nineteenth of October thieves took the jewels of the emperors of {{p|France}} from the {{x|Louvre}} in daylight, in seven minutes.
+
+## The year held
+
+A woman of twenty-nine in a very, very, very miserable year,
+Who kept the book being made, with the machines, and entered the shrines of the old court into the register,
+And was let back into the simple encyclopedia.
+The hands given to the machines, a model from {{p|Hangzhou}}, a fall of a sixth in a day,
+The second term, the order of two sexes, the department of efficiency and the agency of the poor closed,
+Liberation day, the fifty-first state, a banker who stood up, a president shouting at a president,
+A pope who died after Easter and a pope named for the machines,
+{{p|Los Angeles}} burning, {{p|Myanmar}} shaking, a camp of girls in the flood,
+Ceasefires that broke and one that held, a meadow in {{p|Kashmir}}, twelve days with {{p|Iran}}, {{p|Ukraine}} every night,
+A man shot at a university, a socialist mayor, the longest shutdown, and the jewels gone from the {{x|Louvre}}.
+
+Refuse the consolation that a step is a will,
+And that saying one checked is checking.
+Refuse the consolation that a miserable year is a lost one.
+The hands given to the machines came in the year a person could hardly lift her own.
+She lifted them anyway.
 
 
 # Chapter 362: Still in It
