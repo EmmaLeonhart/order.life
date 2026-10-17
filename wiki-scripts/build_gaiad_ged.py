@@ -31,6 +31,7 @@ TAG = re.compile(r"\{\{c\|(?:[^}|]*\|)?([^}|]+)\}\}")
 TITLE = re.compile(r"^#\s+(?:Chapter\s+\d+:\s*)?(.*)")
 NS = uuid.uuid5(uuid.NAMESPACE_URL, "https://order.life/gaiad/individual/")
 FIRST = [("Aster", "Aster"), ("Emma Leonhart", "Emma /Leonhart/"), ("Andromeda", "Andromeda")]
+EMMA_NAMES = ["Emma Leonhart 命玥", "Emma 李命玥"]
 EMMA_FS = "PFR5-LDS"
 ORDERLIFE_FIRST = {"Q1": "@I1@", "Q3": "@I3@"}  # order.life ids of Aster and Andromeda
 
@@ -109,6 +110,11 @@ def build(out_path):
 
     for name, ged in FIRST:
         indi(name, ged, first_seen.get(name))
+        if name == "Emma Leonhart":
+            # Her own names (Emma, 2026-10-16): 閻魔日巫女平連娘武李獅心命玥 comes from her label; these two beside it.
+            for other in EMMA_NAMES:
+                add(f"1 NAME {other}")
+                add("2 TYPE AKA")
     firsts = {f[0] for f in FIRST}
     for name, ch, st in apps:
         if name not in firsts:
