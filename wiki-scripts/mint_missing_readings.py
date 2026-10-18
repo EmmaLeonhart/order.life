@@ -4,7 +4,8 @@ name_readings.tsv does not have, so that one unknown word no longer leaves a who
 Japanese and Korean forms (Emma, 2026-10-17: "you should have them because of the very source").
 
 ja and zh come from the genealogy repo's transliteration engine (genealogy/scripts/translit_no.py), the same rule
-the table's own "by rule" rows were minted with; ko is read from the katakana. The hand table always wins: this file
+the table's own "by rule" rows were minted with; ko from its Latin-to-Korean engine (translit_ko_latin.py), with
+the katakana read into Hangul only where that engine cannot read a word. The hand table always wins: this file
 only adds words it lacks. Run here (needs the genealogy checkout beside order.life); the site build reads the TSV.
 
     python wiki-scripts/mint_missing_readings.py [gaiad.ged]
@@ -21,6 +22,7 @@ OUT = ROOT / "wikibase" / "analysis" / "name_readings_minted.tsv"
 sys.path.insert(0, str(ROOT.parent / "genealogy" / "scripts"))
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from translit_no import translit  # noqa: E402
+from translit_ko_latin import render as ko_from_latin  # noqa: E402
 from gedcom_features import clean_name_token, special_token  # noqa: E402
 
 # Katakana to Hangul, syllable by syllable (two-kana sounds first).
@@ -88,13 +90,13 @@ def main(ged):
     rows = []
     for key, w in sorted(words.items()):
         ja, zh = translit(w)
-        ko = kana_to_hangul(ja) if ja else ""
+        ko = ko_from_latin(w) or (kana_to_hangul(ja) if ja else "")   # Korean from the Latin spelling first
         if ja and zh and ko:
             rows.append((w, ja, zh, ko))
     with open(OUT, "w", encoding="utf-8", newline="\n") as f:
         f.write("token\tja\tzh\tko\tnote\n")
         for w, ja, zh, ko in rows:
-            f.write(f"{w}\t{ja}\t{zh}\t{ko}\tby rule, minted 2026-10-17 for gaiad.ged (translit_no; ko from kana)\n")
+            f.write(f"{w}\t{ja}\t{zh}\t{ko}\tby rule, minted 2026-10-17 for gaiad.ged (translit_no for ja/zh, translit_ko_latin for ko)\n")
     print(f"{len(words)} missing words, {len(rows)} minted -> {OUT}")
 
 
