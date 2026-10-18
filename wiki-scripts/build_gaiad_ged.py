@@ -155,6 +155,44 @@ EXID_LINKS = {"http://www.wikidata.org/entity/": ("Wikidata", "https://www.wikid
               "https://www.geni.com/profile/index/": ("Geni", "https://www.geni.com/profile/index/")}
 
 
+ENGLISH_NAMES = Path(__file__).resolve().parent / "data" / "english_names.tsv"
+CJK = re.compile(r"[぀-ヿ㐀-鿿가-힯]")
+
+
+def english_names():
+    """{("name", original) or ("wikidata", qid): (english, lang)} from make_english_names.py's table."""
+    out = {}
+    if ENGLISH_NAMES.exists():
+        for row in ENGLISH_NAMES.read_text(encoding="utf-8").splitlines():
+            if row.startswith("#") or not row.strip():
+                continue
+            kind, key, en, lang = row.split("\t")[:4]
+            out[(kind, key)] = (en, lang)
+    return out
+
+
+def english_first(lines, table):
+    """gaiad.ged is an English file (Emma, 2026-10-17): the first NAME is the English primary name, and a name in
+    Chinese, Japanese or Korean script goes under it as a TRAN with its LANG ("cjk are all lesser things")."""
+    i = next((k for k, l in enumerate(lines) if l.startswith("1 NAME ")), None)
+    if i is None or not CJK.search(lines[i]):
+        return lines, False
+    orig = lines[i][7:].strip()
+    qid = next((m.group(1) for l in lines for m in [re.search(r"wikidata\.org/(?:wiki|entity)/(Q\d+)", l)] if m), None)
+    hit = (table.get(("wikidata", qid)) if qid else None) or table.get(("name", orig))
+    if not hit:
+        return lines, False
+    en, lang = hit
+    j = i + 1
+    while j < len(lines) and not lines[j].startswith(("0 ", "1 ")):
+        j += 1
+    sub = [l for l in lines[i + 1:j] if not l.startswith(("2 SURN ", "2 GIVN "))]
+    sur = re.search(r"/([^/]*)/", en)
+    new = [f"1 NAME {en}"] + ([f"2 SURN {sur.group(1).strip()}"] if sur and sur.group(1).strip() else [])
+    new += sub + [f"2 TRAN {orig}", f"3 LANG {lang}"]
+    return lines[:i] + new + lines[j:], True
+
+
 def exids(lines):
     """[(type, value)] for a record's EXIDs."""
     return [(b[7:].strip(), a[7:].strip()) for a, b in zip(lines, lines[1:])
@@ -504,7 +542,8 @@ def build(out_path):
                         wanted.setdefault(q, []).append(x)
                     break
         joins = {xs[0]: q for q, xs in wanted.items() if len(xs) == 1}
-    n_cal = n_fs = 0
+    n_cal = n_fs = n_en = 0
+    en_table = english_names()
     links = {}
     for x, tag, lines in recs:
         if tag == "INDI":
@@ -553,6 +592,9 @@ def build(out_path):
                 before = any("familysearch" in l for l in lines if l.startswith("1 NOTE Links: "))
                 lines = with_links(lines)
                 n_fs += not before and any("familysearch" in l for l in lines if l.startswith("1 NOTE Links: "))
+            if imap[x] not in ("@I1@", "@I2@", "@I3@"):   # after the features, which read the original NAME
+                lines, done = english_first(lines, en_table)
+                n_en += done
         fixed = [ptr.sub(lambda m: imap.get(m.group(0)) or fmap.get(m.group(0)) or m.group(0), l) for l in lines]
         if tag == "INDI":   # a link to a family merged into F1 would otherwise appear twice
             fixed = [l for i, l in enumerate(fixed) if not l.startswith(("1 FAMC ", "1 FAMS ")) or l not in fixed[:i]]
@@ -596,7 +638,7 @@ def build(out_path):
     stats = {"text individuals": n_text, "ancestry individuals": n - n_text, "families": nf,
              "text individuals with resolved features": n_resolved_text[0],
              "ancestors newly joined to order.life": len(joins), "calendar notes from the tree's own dates": n_cal,
-             "link notes newly naming FamilySearch": n_fs}
+             "link notes newly naming FamilySearch": n_fs, "CJK first names given an English primary name": n_en}
     if feats:
         stats.update({f"feature: {k}": v for k, v in sorted(feats.counts.items())})
     stats["bytes"] = out_path.stat().st_size
