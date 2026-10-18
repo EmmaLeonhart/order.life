@@ -12,6 +12,7 @@ Run again when the ancestry file gains new CJK names. Needs pypinyin here; the s
 """
 import json
 import re
+import sys
 import urllib.parse
 import urllib.request
 from pathlib import Path
@@ -160,7 +161,28 @@ def japanese(name):
     return (" ".join(words).title() + (" " + suffix if suffix else "")).strip()
 
 
+_ROM = None
+
+
+def other_script(name):
+    """The genealogy reader for a name in Cyrillic, Greek, Georgian, Armenian, Devanagari, Arabic or Hebrew."""
+    global _ROM
+    if _ROM is None:
+        sys.path.insert(0, str(ROOT.parent / "genealogy" / "scripts"))
+        import romanize_scripts as _r
+        _ROM = _r
+    return None if CJK.search(name) else _ROM.reader_for(name) and _ROM
+
+
+def needs_english(name):
+    return bool(CJK.search(name) or other_script(name))
+
+
 def english(name):
+    rom = other_script(name)
+    if rom:   # read into Latin by genealogy/scripts/romanize_scripts.py (Emma: "try wikidata but then build readers")
+        latin, lang = rom.romanize(name)
+        return (latin, lang, "romanized (genealogy romanize_scripts)") if latin else None
     bare = "".join(name.replace("/", " ").split())
     if JA_HINT.search(bare) and not re.search(r"[A-Za-z]", bare):
         return japanese(name), "ja", "romanized (Hepburn, pykakasi)"
@@ -216,19 +238,37 @@ def main():
             continue
         if line.startswith("1 NAME ") and cur["name"] is None:
             cur["name"] = line[7:].strip()
-            if CJK.search(cur["name"]):
-                rows.setdefault(cur["name"], english(cur["name"]))
+            if needs_english(cur["name"]):
+                got = english(cur["name"])
+                if got:
+                    rows.setdefault(cur["name"], got)
         m = re.search(r"wikidata\.org/(?:wiki|entity)/(Q\d+)", line)
-        if m and cur["name"] and CJK.search(cur["name"]):
+        if m and cur["name"] and needs_english(cur["name"]):
             qid_of[m.group(1)] = cur["name"]
     labels = wikidata_labels(qid_of) if qid_of else {}
+    # Their ja/zh/ko from Wikidata too, for the names in other scripts (Emma: "try wikidata" first).
+    other = sorted(q for q, n in qid_of.items() if other_script(n))
+    cjk_rows = []
+    for i in range(0, len(other), 50):
+        url = ("https://www.wikidata.org/w/api.php?action=wbgetentities&props=labels&languages=ja|zh|ko&format=json"
+               "&ids=" + "|".join(other[i:i + 50]))
+        req = urllib.request.Request(url, headers={"User-Agent": "order.life gaiad.ged builder (emma@topazcomputing.com)"})
+        for q, e in json.load(urllib.request.urlopen(req, timeout=60)).get("entities", {}).items():
+            got = {lg: e.get("labels", {}).get(lg, {}).get("value", "") for lg in ("ja", "zh", "ko")}
+            if any(got.values()):
+                cjk_rows.append((q, got["ja"], got["zh"], got["ko"]))
+    with (ROOT / "wikibase" / "analysis" / "wikidata_cjk_labels.tsv").open("w", encoding="utf-8", newline="\n") as f:
+        f.write("qid\tja\tzh\tko\n")
+        for row in cjk_rows:
+            f.write("\t".join(row) + "\n")
+    print(f"{len(other)} people in other scripts with a Wikidata id, {len(cjk_rows)} with ja/zh/ko labels")
     for name, en in wikidata_by_ja_label([n for n, r in rows.items() if r[1] == "ja"]).items():
         rows[name] = (en, "ja", "Wikidata English label (by Japanese label)")
     OUT.parent.mkdir(parents=True, exist_ok=True)
     with OUT.open("w", encoding="utf-8", newline="\n") as f:
         f.write("# key_type\tkey\tenglish\tlang\tsource   (from make_english_names.py)\n")
         for q, lb in sorted(labels.items()):
-            f.write(f"wikidata\t{q}\t{lb}\t{english(qid_of[q])[1]}\tWikidata English label\n")
+            f.write(f"wikidata\t{q}\t{lb}\t{(english(qid_of[q]) or ("", "und", ""))[1]}\tWikidata English label\n")
         for name, (en, lang, src) in sorted(rows.items()):
             f.write(f"name\t{name}\t{en}\t{lang}\t{src}\n")
     print(f"{len(rows)} names, {len(labels)} Wikidata labels -> {OUT}")

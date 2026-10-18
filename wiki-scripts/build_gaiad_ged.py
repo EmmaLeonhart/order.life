@@ -157,6 +157,21 @@ EXID_LINKS = {"http://www.wikidata.org/entity/": ("Wikidata", "https://www.wikid
 
 ENGLISH_NAMES = Path(__file__).resolve().parent / "data" / "english_names.tsv"
 CJK = re.compile(r"[぀-ヿ㐀-鿿가-힯]")
+# Scripts genealogy/scripts/romanize_scripts.py reads into Latin (Cyrillic, Greek, Armenian, Hebrew, Arabic,
+# Devanagari, Georgian): a first NAME in one of them also gets an English primary with the original as TRAN.
+OTHER_SCRIPT = re.compile(r"[Ͱ-ϿЀ-ӿ԰-֏֐-׿؀-ۿऀ-ॿ"
+                          r"Ⴀ-ჿἀ-῿]")
+WIKIDATA_CJK = Path(__file__).resolve().parent.parent / "wikibase" / "analysis" / "wikidata_cjk_labels.tsv"
+_WDCJK = {}
+
+
+def wikidata_cjk():
+    """{qid: {lang: label}}: Wikidata's ja/zh/ko labels for people whose names are in other scripts."""
+    if not _WDCJK and WIKIDATA_CJK.exists():
+        for row in WIKIDATA_CJK.read_text(encoding="utf-8").splitlines()[1:]:
+            q, ja, zh, ko = (row.split("	") + ["", "", ""])[:4]
+            _WDCJK[q] = {k: v for k, v in (("ja", ja), ("zh", zh), ("ko", ko)) if v}
+    return _WDCJK
 
 
 def english_names():
@@ -245,7 +260,7 @@ def english_first(lines, table):
     """gaiad.ged is an English file (Emma, 2026-10-17): the first NAME is the English primary name, and a name in
     Chinese, Japanese or Korean script goes under it as a TRAN with its LANG ("cjk are all lesser things")."""
     i = next((k for k, l in enumerate(lines) if l.startswith("1 NAME ")), None)
-    if i is None or not CJK.search(lines[i]):
+    if i is None or not (CJK.search(lines[i]) or OTHER_SCRIPT.search(lines[i])):
         return lines, False
     orig = lines[i][7:].strip()
     qid = next((m.group(1) for l in lines for m in [re.search(r"wikidata\.org/(?:wiki|entity)/(Q\d+)", l)] if m), None)
@@ -378,6 +393,14 @@ def name_blocks_to_tran(body, emma=False):
             (native if m.group(2) == "name" else reading).setdefault(m.group(1), k)
     drop = set()
     composed = cjk_labels().get(" ".join(text.replace("/", " ").split()))
+    qid = next((m.group(1) for l in body for m in [re.search(r"wikidata\.org/(?:wiki|entity)/(Q\d+)", l)] if m), None)
+    wd = wikidata_cjk().get(qid, {}) if qid else {}
+    for lg in ("zh", "ja", "ko"):   # Wikidata's own label first (Emma: "try wikidata but then build readers")
+        if lg not in native and lg not in have and wd.get(lg):
+            primary += [f"2 TRAN {wd[lg]}", f"3 LANG {lg}"]
+            have.add(lg)
+            if lg in reading:
+                drop.add(reading[lg])
     for lg in ("zh", "ja", "ko"):
         if lg not in native and composed and lg not in have:
             # The genealogy repo's label composer (make_cjk_name_labels.py) beats a generated token reading.
