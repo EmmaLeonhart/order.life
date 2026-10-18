@@ -171,6 +171,76 @@ def english_names():
     return out
 
 
+WIKIDATA_NAMES = Path(__file__).resolve().parent.parent / "wikibase" / "analysis" / "wikidata_primary_names.tsv"
+PLACEHOLDER = re.compile(r"^(nn|n\.n\.|unknown|unnamed|\?+|q\d+)(\s|$)", re.I)
+
+
+def wikidata_names():
+    """{qid: (label, family name)} from make_wikidata_primary_names.py."""
+    out = {}
+    if WIKIDATA_NAMES.exists():
+        for row in WIKIDATA_NAMES.read_text(encoding="utf-8").splitlines()[1:]:
+            q, label, fam = (row.split("\t") + ["", ""])[:3]
+            out[q] = (label, fam)
+    return out
+
+
+def wikidata_first(lines, table):
+    """The primary NAME is the person's Wikidata label (Emma, 2026-10-17: "Wikidata generally gives the better name"),
+    with the surname marked from Wikidata's family name (P734), else from the longest surname the tree's own names
+    mark that the label contains. The tree's former primary stays, as an AKA."""
+    qid = next((m.group(1) for l in lines for m in [re.search(r"wikidata\.org/(?:wiki|entity)/(Q\d+)", l)] if m), None)
+    hit = table.get(qid) if qid else None
+    if not hit or not hit[0] or PLACEHOLDER.match(hit[0]):
+        return lines, False
+    label, fam = hit
+    i = next((k for k, l in enumerate(lines) if l.startswith("1 NAME ")), None)
+    if i is None:
+        return lines, False
+    surnames = [l[7:].strip() for l in lines if l.startswith("2 SURN ")]
+    sur = None
+    for cand in ([fam] if fam else []) + sorted(surnames, key=len, reverse=True):
+        m = re.search(r"(?<!\w)" + re.escape(cand) + r"(?!\w)", label, re.I) if cand else None
+        if m:
+            sur = m
+            break
+    new_text = label if not sur else f"{label[:sur.start()]}/{sur.group(0)}/{label[sur.end():]}"
+    new_text = " ".join(new_text.split())
+    old = lines[i][7:].strip()
+    if " ".join(old.replace("/", " ").split()) == " ".join(new_text.replace("/", " ").split()) and "/" in old:
+        return lines, False   # the tree already has this name, with its surname marked
+    j = i + 1
+    while j < len(lines) and not lines[j].startswith(("0 ", "1 ")):
+        j += 1
+    old_block = [l for l in lines[i:j] if not l.startswith(("2 TRAN ", "3 LANG ", "3 SURN ", "3 GIVN "))]
+    trans = []
+    k = i + 1
+    while k < j:   # the translations stay under the primary
+        if lines[k].startswith("2 TRAN "):
+            trans.append(lines[k])
+            k += 1
+            while k < j and lines[k].startswith("3 "):
+                trans.append(lines[k])
+                k += 1
+            continue
+        k += 1
+    new = [f"1 NAME {new_text}"] + ([f"2 SURN {sur.group(0)}"] if sur else []) + trans
+    aka = ["1 NAME " + old_block[0][7:], "2 TYPE AKA"] + [l for l in old_block[1:] if not l.startswith("2 TYPE")]
+    out = lines[:i] + new + aka + lines[j:]
+    # A later NAME that is now the same as the primary is a repeat, not another name.
+    key = " ".join(new_text.replace("/", " ").split()).casefold()
+    res, k = [], 0
+    while k < len(out):
+        if k > i and out[k].startswith("1 NAME ") and " ".join(out[k][7:].replace("/", " ").split()).casefold() == key:
+            k += 1
+            while k < len(out) and not out[k].startswith(("0 ", "1 ")):
+                k += 1
+            continue
+        res.append(out[k])
+        k += 1
+    return res, True
+
+
 def english_first(lines, table):
     """gaiad.ged is an English file (Emma, 2026-10-17): the first NAME is the English primary name, and a name in
     Chinese, Japanese or Korean script goes under it as a TRAN with its LANG ("cjk are all lesser things")."""
@@ -243,6 +313,9 @@ def name_blocks_to_tran(body, emma=False):
         given = text.split("/")[0].strip()
         if given and "/" in text:
             primary.insert(1, f"2 GIVN {given}")
+    for k in range(len(primary) - 1):   # a Han TRAN written with the Chinese name dot is Chinese, not "undetermined"
+        if primary[k].startswith("2 TRAN ") and primary[k + 1] == "3 LANG und-Hani" and "·" in primary[k]:
+            primary[k + 1] = "3 LANG zh"
     have = {l[7:].strip()[:2] for l in primary if l.startswith("3 LANG ")}
     have_text = {l[7:].strip() for l in primary if l.startswith("2 TRAN ")}
     native, reading = {}, {}
@@ -631,8 +704,9 @@ def build(out_path):
                         wanted.setdefault(q, []).append(x)
                     break
         joins = {xs[0]: q for q, xs in wanted.items() if len(xs) == 1}
-    n_cal = n_fs = n_en = 0
+    n_cal = n_fs = n_en = n_wd = 0
     en_table = english_names()
+    wd_table = wikidata_names()
     links = {}
     for x, tag, lines in recs:
         if tag == "INDI":
@@ -682,6 +756,8 @@ def build(out_path):
                 lines = with_links(lines)
                 n_fs += not before and any("familysearch" in l for l in lines if l.startswith("1 NOTE Links: "))
             if imap[x] not in ("@I1@", "@I2@", "@I3@"):   # after the features, which read the original NAME
+                lines, done = wikidata_first(lines, wd_table)
+                n_wd += done
                 lines, done = english_first(lines, en_table)
                 n_en += done
         fixed = [ptr.sub(lambda m: imap.get(m.group(0)) or fmap.get(m.group(0)) or m.group(0), l) for l in lines]
@@ -740,7 +816,7 @@ def build(out_path):
     stats = {"text individuals": n_text, "ancestry individuals": n - n_text, "families": nf,
              "text individuals with resolved features": n_resolved_text[0],
              "ancestors newly joined to order.life": len(joins), "calendar notes from the tree's own dates": n_cal,
-             "link notes newly naming FamilySearch": n_fs, "CJK first names given an English primary name": n_en}
+             "link notes newly naming FamilySearch": n_fs, "CJK first names given an English primary name": n_en, "primary names from Wikidata": n_wd}
     if feats:
         stats.update({f"feature: {k}": v for k, v in sorted(feats.counts.items())})
     stats["bytes"] = out_path.stat().st_size
