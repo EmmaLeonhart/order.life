@@ -22,6 +22,7 @@ ROOT = Path(__file__).resolve().parent.parent
 GEN = ROOT.parent / "genealogy" / "scripts"
 TAB, NL = chr(9), chr(10)
 OUT = ROOT / "wikibase" / "analysis" / "name_cjk_labels.tsv"
+SKIP_WORDS = ROOT / "wikibase" / "analysis" / "cjk_never_spelled_words.txt"
 sys.path.insert(0, str(GEN))
 
 
@@ -78,6 +79,16 @@ def main(ged):
         w.writeheader()
         w.writerows(rows)
     print(f"{filled} new rows given ko by refresh-rule-transliterations._ko")
+    # The genealogy repo's words that are never spelled out in CJK (connectives, titles, territorial openers, SKIP),
+    # copied for build_gaiad_ged.py, which drops a word-by-word fallback reading of a name holding one.
+    nm = load("namemodel", "namemodel.py")
+    words = (set(ext.SKIP) | set(ext.TITLES) | set(re.findall(r"[a-z]+", cjk._CONNECTIVE))
+             | set(nm.TITLE_WORDS) | set(nm.TITLE_CONNECTIVES) | set(nm.TERRITORIAL_OPENERS))
+    with open(SKIP_WORDS, "w", encoding="utf-8", newline="\n") as f:
+        f.write("# from genealogy: extend-transliterations SKIP and TITLES, cjk_titles._CONNECTIVE, namemodel TITLE_WORDS,\n"
+                "# TITLE_CONNECTIVES and TERRITORIAL_OPENERS (written by make_cjk_name_labels.py)\n")
+        f.writelines(w + "\n" for w in sorted(w.casefold() for w in words))
+    print(f"{len(words)} never-spelled-out words -> {SKIP_WORDS}")
     bgd = load("build_garborg_day", "build-garborg-day.py")
     table = bgd.translit()
     done = 0

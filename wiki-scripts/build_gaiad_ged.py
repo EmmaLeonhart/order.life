@@ -287,6 +287,22 @@ def cjk_labels():
     return _CJK
 
 
+NEVER_SPELLED = Path(__file__).resolve().parent.parent / "wikibase" / "analysis" / "cjk_never_spelled_words.txt"
+_NEVER = set()
+
+
+def spells_out(name):
+    """Whether a name holds a word the genealogy repo never spells out in CJK (make_cjk_name_labels.py's list)."""
+    if not _NEVER and NEVER_SPELLED.exists():
+        _NEVER.update(l.strip() for l in NEVER_SPELLED.read_text(encoding="utf-8").splitlines()
+                      if l.strip() and not l.startswith("#"))
+    for w in re.split(r"[\s/,()]+", name):
+        w = w.strip(".:;\"'")
+        if w and w != "I" and w.casefold() in _NEVER:   # "I" is the numeral one, not Norwegian "i"
+            return True
+    return False
+
+
 NAME_LANG = re.compile(r"^3 PHRASE (zh|ja|ko) (name|reading \()")
 
 
@@ -372,6 +388,11 @@ def name_blocks_to_tran(body, emma=False):
             continue
         k = native.get(lg, reading.get(lg))
         if k is None:
+            continue
+        if lg not in native and spells_out(text):
+            # A word-by-word reading of a name holding a connective, title or territorial word spells that word out
+            # ("av Sudreim, heiress of" -> アヴ・スドレイム・ヘイレッス); by the genealogy repo's rule it is dropped.
+            drop.add(k)
             continue
         t = blocks[k][0][7:].strip()
         if lg not in have and t not in have_text:
