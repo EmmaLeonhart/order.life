@@ -204,6 +204,19 @@ EMMA_NAME_BLOCK = [
     "1 NAME Emma Himiko Helensdotter von Bureus Leonhart no Mikotodama", "2 TYPE OTHER",
     "3 PHRASE ceremonial neo-kun'yomi name", "2 TRAN 閻魔日巫女平連娘武李獅心命玥", "3 LANG ja",
 ]
+CJK_LABELS = Path(__file__).resolve().parent.parent / "wikibase" / "analysis" / "name_cjk_labels.tsv"
+_CJK = {}
+
+
+def cjk_labels():
+    """{primary name: {lang: form}} from make_cjk_name_labels.py (the genealogy repo's label_in)."""
+    if not _CJK and CJK_LABELS.exists():
+        for row in CJK_LABELS.read_text(encoding="utf-8").splitlines()[1:]:
+            name, ja, zh, ko = row.split("	")
+            _CJK[name] = {"ja": ja, "zh": zh, "ko": ko}
+    return _CJK
+
+
 NAME_LANG = re.compile(r"^3 PHRASE (zh|ja|ko) (name|reading \()")
 
 
@@ -240,7 +253,15 @@ def name_blocks_to_tran(body, emma=False):
         if m:
             (native if m.group(2) == "name" else reading).setdefault(m.group(1), k)
     drop = set()
+    composed = cjk_labels().get(" ".join(text.replace("/", " ").split()))
     for lg in ("zh", "ja", "ko"):
+        if lg not in native and composed and lg not in have:
+            # The genealogy repo's label composer (make_cjk_name_labels.py) beats a generated token reading.
+            primary += [f"2 TRAN {composed[lg]}", f"3 LANG {lg}"]
+            have.add(lg)
+            if lg in reading:
+                drop.add(reading[lg])
+            continue
         k = native.get(lg, reading.get(lg))
         if k is None:
             continue
