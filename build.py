@@ -2472,6 +2472,10 @@ def build_site():
     # Write custom 404 page for GitHub Pages
     shutil.copy(TEMPLATES_DIR / "404.html", SITE_TMP_DIR / "404.html")
 
+    # order.life/artifact.pdf (Emma, 2026-10-18): the briefing on Lifeism and its traditions, written for ChatGPT.
+    # Built locally from docs/artifact.md with pandoc + Typst (CI has no CJK fonts), so the PDF itself is committed.
+    shutil.copy(SCRIPT_DIR / "docs" / "artifact.pdf", SITE_TMP_DIR / "artifact.pdf")
+
     # Swap temp build into place
     if SITE_DIR.exists():
         shutil.rmtree(SITE_DIR, ignore_errors=True)
