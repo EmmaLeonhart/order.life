@@ -290,6 +290,41 @@ def cjk_labels():
 NAME_LANG = re.compile(r"^3 PHRASE (zh|ja|ko) (name|reading \()")
 
 
+def mark_tran_surnames(primary):
+    """Mark the surname inside each TRAN of a primary NAME and give it its pieces (Emma, 2026-10-17: "why it is you're
+    not marking the surnames in the other languages"). The surname's own reading, from the same composer, is found at
+    the end of the translation: ニルス・オルソン・オストレ・ボレ with Østre Bore read オストレ・ボレ becomes
+    ニルス・オルソン・/オストレ・ボレ/, with 3 GIVN and 3 SURN."""
+    sur = re.search(r"/([^/]+)/", primary[0][7:])
+    if not sur:
+        return primary
+    reads = cjk_labels().get(" ".join(sur.group(1).split()))
+    if not reads:
+        return primary
+    out, k = [], 0
+    while k < len(primary):
+        l = primary[k]
+        if l.startswith("2 TRAN ") and k + 1 < len(primary) and primary[k + 1].startswith("3 LANG "):
+            text, lang = l[7:].strip(), primary[k + 1][7:].strip()[:2]
+            sub_end = k + 2
+            while sub_end < len(primary) and primary[sub_end].startswith("3 "):
+                sub_end += 1
+            has_pieces = any(x.startswith(("3 SURN ", "3 GIVN ")) for x in primary[k + 2:sub_end])
+            r = reads.get(lang)
+            if r and "/" not in text and not has_pieces and text.endswith(r) and len(text) > len(r):
+                given = text[: -len(r)]
+                sep = given[-1] if given[-1] in "・· " else ""
+                given = given.rstrip("・· ")
+                if given:
+                    out += [f"2 TRAN {given}{sep}/{r}/", primary[k + 1], f"3 GIVN {given}", f"3 SURN {r}"]
+                    out += primary[k + 2:sub_end]
+                    k = sub_end
+                    continue
+        out.append(l)
+        k += 1
+    return out
+
+
 def name_blocks_to_tran(body, emma=False):
     """gaiad.ged is an English file (Emma, 2026-10-17): one English primary NAME, with its given name, and the
     Chinese, Japanese and Korean forms under it as TRAN (one per language, a native name over a generated reading,
@@ -352,6 +387,7 @@ def name_blocks_to_tran(body, emma=False):
         for kk in (reading.get(lg),):   # a generated reading beside a native name is not kept
             if kk is not None and kk != k and lg in have:
                 drop.add(kk)
+    blocks[pi] = mark_tran_surnames(primary)
     return [l for k, b in enumerate(blocks) if k not in drop for l in b]
 
 

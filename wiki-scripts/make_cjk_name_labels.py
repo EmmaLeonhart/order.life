@@ -14,6 +14,7 @@ refresh-rule-transliterations.py `_ko` (ko). Run here, with the genealogy checko
 import argparse
 import csv
 import importlib.util
+import re
 import sys
 from pathlib import Path
 
@@ -31,19 +32,23 @@ def load(name, file):
     return mod
 
 
-def primary_names(ged):
+def primary_names(ged, surnames=None):
+    """Every person's primary name, plain; the /surname/ parts go into `surnames` when given."""
     out, want = [], False
     for line in open(ged, encoding="utf-8-sig"):
         if line.startswith("0 "):
             want = line.rstrip().endswith(" INDI")
         elif want and line.startswith("1 NAME "):
             out.append(" ".join(line[7:].replace("/", " ").split()))
+            if surnames is not None:
+                surnames.update(" ".join(m.split()) for m in re.findall(r"/([^/]+)/", line[7:]) if m.strip())
             want = False
     return out
 
 
 def main(ged):
-    names = sorted(set(n for n in primary_names(ged) if n))
+    surnames = set()
+    names = sorted(set(n for n in primary_names(ged, surnames) if n) | surnames)   # surnames alone too, to mark them
     # Words the genealogy table lacks, added by its own tools: extend-transliterations `_extend` for ja/zh, then
     # refresh-rule-transliterations `_ko` for ko (label_in needs all three). Connectives (cjk_titles) never go in.
     ext = load("extend_transliterations", "extend-transliterations.py")
