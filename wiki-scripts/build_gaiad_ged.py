@@ -193,6 +193,74 @@ def english_first(lines, table):
     return lines[:i] + new + lines[j:], True
 
 
+EMMA_NAME_BLOCK = [
+    # Emma, 2026-10-17: the primary name with its Chinese, Japanese and Korean translations; the Japanese is the
+    # katakana of her Wikidata item (Q140568870). The long name is her ceremonial neo-kun'yomi name, English in the
+    # original ("I consider it to be originally English and the Japanese as a translation"), with the kanji as its TRAN.
+    "1 NAME Emma /Leonhart/ 命玥", "2 GIVN Emma", "2 SURN Leonhart",
+    "2 TRAN 李命玥", "3 LANG zh", "3 SURN 李", "3 GIVN 命玥",
+    "2 TRAN エマ・レオンハート", "3 LANG ja",
+    "2 TRAN 이명월", "3 LANG ko", "3 SURN 이", "3 GIVN 명월",
+    "1 NAME Emma Himiko Helensdotter von Bureus Leonhart no Mikotodama", "2 TYPE OTHER",
+    "3 PHRASE ceremonial neo-kun'yomi name", "2 TRAN 閻魔日巫女平連娘武李獅心命玥", "3 LANG ja",
+]
+NAME_LANG = re.compile(r"^3 PHRASE (zh|ja|ko) (name|reading \()")
+
+
+def name_blocks_to_tran(body, emma=False):
+    """gaiad.ged is an English file (Emma, 2026-10-17): one English primary NAME, with its given name, and the
+    Chinese, Japanese and Korean forms under it as TRAN (one per language, a native name over a generated reading,
+    with its name pieces). Other names (AKA, generated Chinese names, Horus and temple names, neo-kun'yomi) keep their
+    own NAME lines."""
+    blocks = []
+    for l in body:
+        if l.startswith("1 ") or not blocks:
+            blocks.append([l])
+        else:
+            blocks[-1].append(l)
+    if emma:
+        rest = [b for b in blocks if not b[0].startswith("1 NAME ")]
+        return EMMA_NAME_BLOCK + [l for b in rest for l in b]
+    pi = next((k for k, b in enumerate(blocks) if b[0].startswith("1 NAME ")), None)
+    if pi is None:
+        return body
+    primary = blocks[pi]
+    text = primary[0][7:].strip()
+    if not any(l.startswith("2 GIVN ") for l in primary):
+        given = text.split("/")[0].strip()
+        if given and "/" in text:
+            primary.insert(1, f"2 GIVN {given}")
+    have = {l[7:].strip()[:2] for l in primary if l.startswith("3 LANG ")}
+    have_text = {l[7:].strip() for l in primary if l.startswith("2 TRAN ")}
+    native, reading = {}, {}
+    for k, b in enumerate(blocks):
+        if k == pi or not b[0].startswith("1 NAME "):
+            continue
+        m = next((NAME_LANG.match(l) for l in b if NAME_LANG.match(l)), None)
+        if m:
+            (native if m.group(2) == "name" else reading).setdefault(m.group(1), k)
+    drop = set()
+    for lg in ("zh", "ja", "ko"):
+        k = native.get(lg, reading.get(lg))
+        if k is None:
+            continue
+        t = blocks[k][0][7:].strip()
+        if lg not in have and t not in have_text:
+            primary += [f"2 TRAN {t}", f"3 LANG {lg}"]
+            sur = re.search(r"/([^/]*)/", t)
+            if sur and sur.group(1).strip():
+                g = t.split("/")[0].strip()
+                primary += ([f"3 GIVN {g}"] if g else []) + [f"3 SURN {sur.group(1).strip()}"]
+            have.add(lg)
+            drop.add(k)
+        elif t in have_text or k in reading.values():
+            drop.add(k)
+        for kk in (reading.get(lg),):   # a generated reading beside a native name is not kept
+            if kk is not None and kk != k and lg in have:
+                drop.add(kk)
+    return [l for k, b in enumerate(blocks) if k not in drop for l in b]
+
+
 def exids(lines):
     """[(type, value)] for a record's EXIDs."""
     return [(b[7:].strip(), a[7:].strip()) for a, b in zip(lines, lines[1:])
@@ -631,6 +699,19 @@ def build(out_path):
             while i < len(w) and not w[i].startswith("0 "):
                 i += 1
             w[i:i] = fam_lines
+    # One English primary NAME per person, with the zh, ja and ko forms under it as TRAN.
+    out, i = [], 0
+    while i < len(w):
+        out.append(w[i])
+        if w[i].startswith("0 @I") and w[i].endswith(" INDI"):
+            j = i + 1
+            while j < len(w) and not w[j].startswith("0 "):
+                j += 1
+            out.extend(name_blocks_to_tran(w[i + 1:j], emma=w[i] == "0 @I2@ INDI"))
+            i = j
+            continue
+        i += 1
+    w[:] = out
     add("0 TRLR")
     out_path = Path(out_path)
     out_path.parent.mkdir(parents=True, exist_ok=True)
