@@ -165,7 +165,7 @@ _ROM = None
 
 
 def other_script(name):
-    """The genealogy reader for a name in Cyrillic, Greek, Georgian, Armenian, Devanagari, Arabic or Hebrew."""
+    """The genealogy reader for a name in Cyrillic, Greek, Georgian, Armenian, Devanagari, Arabic, Hebrew or Ethiopic."""
     global _ROM
     if _ROM is None:
         sys.path.insert(0, str(ROOT.parent / "genealogy" / "scripts"))
