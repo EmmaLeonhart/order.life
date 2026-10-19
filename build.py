@@ -2390,6 +2390,12 @@ def build_site():
             sec_dir.mkdir(parents=True, exist_ok=True)
             render_page(env, f"sections/{section}.html", sec_dir / "index.html", ctx)
 
+        # ── About page (English only; Emma, 2026-10-18: from her ChatGPT conversation of that day) ──
+        if lang == "en":
+            about_dir = lang_dir / "about"
+            about_dir.mkdir(parents=True, exist_ok=True)
+            render_page(env, "sections/about.html", about_dir / "index.html", ctx)
+
         # ── Developer resources page (English only for now) ──
         if lang == "en":
             dev_dir = lang_dir / "dev"
