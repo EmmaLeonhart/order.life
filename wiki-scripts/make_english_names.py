@@ -22,6 +22,7 @@ from pypinyin import lazy_pinyin
 ROOT = Path(__file__).resolve().parent.parent
 ANCESTRY = ROOT / "Gaiad" / "ancestry" / "emma-ancestry.ged"
 OUT = ROOT / "wiki-scripts" / "data" / "english_names.tsv"
+WIKIDATA_PRIMARY = ROOT / "wikibase" / "analysis" / "wikidata_primary_names.tsv"
 CJK = re.compile(r"[぀-ヿ㐀-鿿가-힯]")
 HAN = re.compile(r"[㐀-鿿]+")
 # Surnames whose surname reading differs from the common one.
@@ -165,7 +166,7 @@ _ROM = None
 
 
 def other_script(name):
-    """The genealogy reader for a name in Cyrillic, Greek, Georgian, Armenian, Devanagari, Arabic, Hebrew or Ethiopic."""
+    """The genealogy reader for a name in a script romanize_scripts.py reads (Cyrillic, Greek, Arabic, Hebrew, ...)."""
     global _ROM
     if _ROM is None:
         sys.path.insert(0, str(ROOT.parent / "genealogy" / "scripts"))
@@ -245,6 +246,15 @@ def main():
         m = re.search(r"wikidata\.org/(?:wiki|entity)/(Q\d+)", line)
         if m and cur["name"] and needs_english(cur["name"]):
             qid_of[m.group(1)] = cur["name"]
+    # A Wikidata label build_gaiad_ged.py makes the primary NAME (wikidata_first) can itself be in another script,
+    # where the item has no English or mul label (Дрогон, Q56367490): it is read the same way.
+    if WIKIDATA_PRIMARY.exists():
+        for row in WIKIDATA_PRIMARY.read_text(encoding="utf-8").splitlines()[1:]:
+            label = (row.split("\t") + [""])[1]
+            if label and other_script(label):
+                got = english(label)
+                if got:
+                    rows.setdefault(label, got)
     labels = wikidata_labels(qid_of) if qid_of else {}
     # Their ja/zh/ko from Wikidata too, for the names in other scripts (Emma: "try wikidata" first).
     other = sorted(q for q, n in qid_of.items() if other_script(n))

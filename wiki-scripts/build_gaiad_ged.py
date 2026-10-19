@@ -158,9 +158,11 @@ EXID_LINKS = {"http://www.wikidata.org/entity/": ("Wikidata", "https://www.wikid
 ENGLISH_NAMES = Path(__file__).resolve().parent / "data" / "english_names.tsv"
 CJK = re.compile(r"[぀-ヿ㐀-鿿가-힯]")
 # Scripts genealogy/scripts/romanize_scripts.py reads into Latin (Cyrillic, Greek, Armenian, Hebrew, Arabic,
-# Devanagari, Georgian, Ethiopic): a first NAME in one of them also gets an English primary with the original as TRAN.
+# Devanagari, Georgian, Ethiopic, Gothic, Kharosthi, Nabataean): a first NAME in one of them also gets an English
+# primary with the original as TRAN.
 OTHER_SCRIPT = re.compile(r"[Ͱ-ϿЀ-ӿ԰-֏֐-׿؀-ۿऀ-ॿ"
-                          r"Ⴀ-ჿἀ-῿ሀ-፿]")
+                          r"Ⴀ-ჿἀ-῿ሀ-፿"
+                          "\U00010330-\U0001034f\U00010a00-\U00010a5f\U00010880-\U000108af]")
 WIKIDATA_CJK = Path(__file__).resolve().parent.parent / "wikibase" / "analysis" / "wikidata_cjk_labels.tsv"
 _WDCJK = {}
 
