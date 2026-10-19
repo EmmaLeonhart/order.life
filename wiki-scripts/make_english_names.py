@@ -226,6 +226,26 @@ def wikidata_by_ja_label(names):
 
 # Names the rules cannot read, set by hand.
 MANUAL = {"ヴィフェ・オフ・ホプニ": ("Wife of Hophni", "ja", "katakana of the English name, set by hand")}
+# Kami of the Kojiki, whose names are read in kun and man'yōgana, not the on'yomi pykakasi gives ("Dai Choku Bi no Kami"
+# for 大直毘神). The Kojiki's own readings, checked against Wikidata where it has the kami (Ōkamuzumi, Tokihakashi,
+# Nakisawame, Kumanokusubi, Chigaeshi, Akiguinoushi); its paired items ("Kamunaobi and Ōnaobi") give one each.
+KOJIKI = "Kojiki reading, set by hand"
+MANUAL.update({
+    "上筒之男神": ("Uwatsutsunoo no Kami", "ja", KOJIKI), "中筒之男神": ("Nakatsutsunoo no Kami", "ja", KOJIKI),
+    "底筒之男神": ("Sokotsutsunoo no Kami", "ja", KOJIKI), "八十禍津日神": ("Yasomagatsuhi no Kami", "ja", KOJIKI),
+    "大禍津日神": ("Ōmagatsuhi no Kami", "ja", KOJIKI), "大直毘神": ("Ōnaobi no Kami", "ja", KOJIKI),
+    "神直毘神": ("Kamunaobi no Kami", "ja", KOJIKI), "和豆良比能宇斯能神": ("Wazurainoushi no Kami", "ja", KOJIKI),
+    "奥津甲斐弁羅神": ("Okitsukaibera no Kami", "ja", KOJIKI), "辺津甲斐弁羅神": ("Hetsukaibera no Kami", "ja", KOJIKI),
+    "奥津那芸佐毘古神": ("Okitsunagisabiko no Kami", "ja", KOJIKI),
+    "辺津那芸佐毘古神": ("Hetsunagisabiko no Kami", "ja", KOJIKI),
+    "奥疎神": ("Okizakaru no Kami", "ja", KOJIKI), "辺疎神": ("Hezakaru no Kami", "ja", KOJIKI),
+    "時量師神": ("Tokihakashi no Kami", "ja", KOJIKI), "衝立船戸神": ("Tsukitatsufunado no Kami", "ja", KOJIKI),
+    "道俣神": ("Chimata no Kami", "ja", KOJIKI), "道之長乳歯神": ("Michinonagachiha no Kami", "ja", KOJIKI),
+    "飽咋之宇斯能神": ("Akiguinoushi no Kami", "ja", KOJIKI), "道返之大神": ("Chigaeshi no Ōkami", "ja", KOJIKI),
+    "意富加牟豆美命": ("Ōkamuzumi no Mikoto", "ja", KOJIKI), "泣沢女神": ("Nakisawame no Kami", "ja", KOJIKI),
+    "活津日子命": ("Ikutsuhiko no Mikoto", "ja", KOJIKI), "火之夜藝速男神": ("Hinoyagihayao no Kami", "ja", KOJIKI),
+    "熊野久須毘命": ("Kumanokusubi no Mikoto", "ja", KOJIKI),
+})
 
 
 def main():
