@@ -320,6 +320,20 @@ def spells_out(name):
     return False
 
 
+UNKNOWN_MARKERS = Path(__file__).resolve().parent.parent / "wikibase" / "analysis" / "unknown_name_markers.txt"
+_UNKNOWN = set()
+
+
+def unnamed(name):
+    """Whether a name holds one of the genealogy repo's unknown-name markers (NN, "No Name", "Без име"): such a person
+    has no Chinese, Japanese or Korean form, not ノ・ナメ (make_cjk_name_labels.py writes the list)."""
+    if not _UNKNOWN and UNKNOWN_MARKERS.exists():
+        _UNKNOWN.update(l.strip() for l in UNKNOWN_MARKERS.read_text(encoding="utf-8").splitlines()
+                        if l.strip() and not l.startswith("#"))
+    text = " " + " ".join(name.replace("/", " ").casefold().split()) + " "
+    return any(f" {m} " in text for m in _UNKNOWN) or any(w.strip(".,") in _UNKNOWN for w in text.split())
+
+
 NAME_LANG = re.compile(r"^3 PHRASE (zh|ja|ko) (name|reading \()")
 
 
@@ -394,9 +408,15 @@ def name_blocks_to_tran(body, emma=False):
         if m:
             (native if m.group(2) == "name" else reading).setdefault(m.group(1), k)
     drop = set()
-    composed = cjk_labels().get(" ".join(text.replace("/", " ").split()))
+    # "No Name", "Ukjent", "N.N." are markers, as NN is: no generated CJK form (ノ・ナメ, ウヒェント, ン・ン), not even
+    # Wikidata's; a CJK name a source itself gives stays.
+    marker = unnamed(text)
+    composed = None if marker else cjk_labels().get(" ".join(text.replace("/", " ").split()))
     qid = next((m.group(1) for l in body for m in [re.search(r"wikidata\.org/(?:wiki|entity)/(Q\d+)", l)] if m), None)
-    wd = wikidata_cjk().get(qid, {}) if qid else {}
+    wd = wikidata_cjk().get(qid, {}) if qid and not marker else {}
+    if marker:
+        drop |= set(reading.values())
+        reading = {}
     for lg in ("zh", "ja", "ko"):   # Wikidata's own label first (Emma: "try wikidata but then build readers")
         if lg not in native and lg not in have and wd.get(lg):
             primary += [f"2 TRAN {wd[lg]}", f"3 LANG {lg}"]

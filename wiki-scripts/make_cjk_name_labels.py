@@ -23,6 +23,7 @@ GEN = ROOT.parent / "genealogy" / "scripts"
 TAB, NL = chr(9), chr(10)
 OUT = ROOT / "wikibase" / "analysis" / "name_cjk_labels.tsv"
 SKIP_WORDS = ROOT / "wikibase" / "analysis" / "cjk_never_spelled_words.txt"
+UNKNOWN_MARKERS = ROOT / "wikibase" / "analysis" / "unknown_name_markers.txt"
 sys.path.insert(0, str(GEN))
 
 
@@ -89,6 +90,14 @@ def main(ged):
                 "# TITLE_CONNECTIVES and TERRITORIAL_OPENERS (written by make_cjk_name_labels.py)\n")
         f.writelines(w + "\n" for w in sorted(w.casefold() for w in words))
     print(f"{len(words)} never-spelled-out words -> {SKIP_WORDS}")
+    # The genealogy repo's unknown-name markers (NN, "No Name", "Без име", ...), for build_gaiad_ged.py: a person whose
+    # primary name is one gets no Chinese, Japanese or Korean form, as NN gets none.
+    import labels
+    markers = sorted(m.casefold() for m in labels.NARROW_MARKERS | labels.WORDS_MEANING_UNKNOWN)
+    with open(UNKNOWN_MARKERS, "w", encoding="utf-8", newline="\n") as f:
+        f.write("# from genealogy: labels.NARROW_MARKERS and WORDS_MEANING_UNKNOWN (written by make_cjk_name_labels.py)\n")
+        f.writelines(m + "\n" for m in markers)
+    print(f"{len(markers)} unknown-name markers -> {UNKNOWN_MARKERS}")
     bgd = load("build_garborg_day", "build-garborg-day.py")
     table = bgd.translit()
     done = 0
