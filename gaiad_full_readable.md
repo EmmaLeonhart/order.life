@@ -54433,25 +54433,39 @@ The ache of things is for everyone. That is the only cure.
 
 On {{x|Christmas Day}} in the year 800, in {{p|Saint Peter's}}, a pope set a crown on a kneeling king,
 Charlemagne, who had not asked for it, and called him Emperor of the Romans,
-And for a thousand years the {{p|West}} had an emperor, a strange, weakening thing
-Of electors and princes and bishops, the {{p|Holy Roman Empire}}, which the poems
+And for a thousand years the {{p|West}} had an emperor, the crown of the Romans carried north, a ring
+Of electors and princes and bishops around one name, the {{p|Holy Roman Empire}}, whose summons
 
-Of Voltaire mocked as neither holy, nor {{x|Roman}}, nor an empire.
+Held a continent in one order under heaven, longer than any crown of the {{p|West}} has held since.
+Voltaire mocked it as neither holy, nor {{x|Roman}}, nor an empire. A joke is not a reading.
+It kept the {{x|Roman}} name alive in the north a thousand years, and every prince
+Who knelt to it knelt to a crown that came from above, at a church's leading.
+
+Then the {{x|Revolution}} shut the churches, and set {{x|Reason}} on the altar of {{p|Notre-Dame}},
+And Robespierre put God back, the {{x|Supreme Being}} of an earlier chapter, against the atheists of his own side,
+Because a republic, he saw, cannot stand on nothing; and the soldier who came after him walked the same
+Road. In 1801 the {{x|Concordat}}: the {{x|Church}} came home to {{p|France}}, with the state for its guide,
+
+Bishops named by the First Consul, priests paid from the treasury, the faith of the land
+Brought back and made the state's. He did not abolish the {{x|Church}}. He took it in.
+First he sacked {{p|Rome}}, as Emma Leonhart says, and then he sacked {{p|Rome}} again, with the crown in his hand.
+He took {{x|Christianity}} and made it his: the most Lifeist thing a man could do, and where this book's own work begins.
+
 On the second of December, 1804, in {{p|Notre-Dame}} in {{p|Paris}},
 Pope Pius VII sat waiting to crown a Corsican, and the fire
 Of the moment: Napoleon took the crown in his own hands. The plurals
 
-Of the old story were ended in one gesture. No one gave it to him.
-He crowned himself, and then he crowned Joséphine, kneeling, and the painter David
+Of the old story were ended in one gesture, the {{x|Church}} in the room to see it, and behind him,
+In the eye of this book, the ghost of Robespierre. He crowned himself, then Joséphine, kneeling; the painter David
 Put it on a canvas ten metres wide, and painted in his mother, who had stayed home, the grim
 Truth adjusted for the record, as records are. Two years later, the cavity
 
 Of the old empire was empty: the {{x|German}} princes, bribed and beaten, left it
 For his {{p|Confederation of the Rhine}}, and on the sixth of August, 1806,
-The last emperor, Francis II, laid the crown of Charlemagne down, and the theft
-Of a thousand years was over. The {{p|Holy Roman Empire}} ended in a few lines. The bricks
+The last emperor, Francis II, laid the crown of Charlemagne down, and what was left
+Of a thousand years went down with it, the crown that was given, not taken. The bricks
 
-Of it had been crumbling for centuries; a soldier pushed it over.
+Of it had held a continent a thousand years; a soldier, not time, pushed it over.
 Now the register, which this book follows like a river.
 The {{x|Revolution}} had taken the books of births and marriages and deaths, the cover
 Of the parish, from the priests in 1792, and given them to the town hall, the giver
@@ -54489,7 +54503,7 @@ The last of it from a rock in the {{p|South Atlantic}}, {{p|Saint Helena}}, the 
 And the wind, dying in 1821. The crown he took: from a pope, from an empire, from the dead.
 He said: I found the crown of {{p|France}} lying on the ground, and I picked it up with my sword.
 What he left on the ground was the old idea that a crown is given. Instead
-The crown is taken, and the register is kept. The Lord
+The crown is taken, and the faith is taken in, and the register is kept. The Lord
 
 Of the old empire is gone. The clerk of the town hall remains,
 Writing the births, the marriages, the deaths, the surnames chosen in a hurry.
