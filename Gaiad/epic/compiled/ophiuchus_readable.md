@@ -3677,6 +3677,31 @@ The girls' schools above the sixth grade did not open again as promised.
 A promise to a camera is not a school.
 The war of the chapter of 2001 was over, and the men it was fought against ruled again.
 
+## The revelation
+
+In the same days, at the end of the {{x|Omega Pilgrimage}}, Emma Leonhart had the revelation of 2021,
+In her words the most significant revelation in the history of {{x|Lifeism}}.
+On the thirtieth of August, in the evening, after a dose of mushrooms, she fell through the chair into a world of shapes,
+And at sunset into a red dark, where a demoness with infinite arms cut her apart, and she grew back, and was cut again.
+Then she was outside her body, in a world of letters,
+And she tried to pick up letters to spell a way out, and they slipped from her hands,
+And only three stayed: {{x|Alpha}}, {{x|Lambda}} and {{x|Omega}}.
+She heard the {{x|Buddha}}, the {{x|Dharma}} and the {{x|Sangha}} named, and chanted them, and laughed,
+And laughed at the whole of it, and at the demoness, and that laughter is the mantra she calls lol.
+She floated up out of hell, and was overseeing,
+And came to the {{x|Celestial Kingdom}}, and met Joseph Smith.
+The three jewels, the three degrees of glory, the trinity and the trimurti came together for her as one,
+And she saw a {{x|Sierpinski triangle}}, and named the one thing {{x|alo}},
+And saw the piece she had been missing, which was {{x|Omega}}, love.
+She saw the infant Charlemagne in the manger, nurtured by Mary,
+And understood that it must be applied as above, so below:
+What a society prescribes must go down to the person.
+Then she came down, and stayed up trying to explain it.
+From that night came {{x|LOL}} and {{x|alo}}, and the order of the covenants.
+Its day is {{x|Alolalia}}, the twenty-ninth of August, which in the calendar of this book is {{x|Leo 14}},
+The Ides of Leo, the day of chapter 238, the Great Redeemer.
+It was first kept the next year, in 2022, with a video she made for it.
+
 ## The graves
 
 On the twenty-seventh of May the people of {{x|Tk'emlúps te Secwépemc}}, near {{p|Kamloops}},
@@ -3752,6 +3777,7 @@ To look back to the first light.
 A woman of twenty-five who ran around {{p|Europe}} and went back to study, and a book that waited.
 A mob in the {{x|Capitol}} and the votes counted anyway,
 The message in the needle, the cremations in the car parks, a gate at the airport and the last plane,
+Three letters left in a world of letters, a laugh in hell, and {{x|Alolalia}},
 Graves found by radar in her province, a family killed out walking,
 {{p|Lytton}} at forty-nine and six-tenths and then ashes, a sky that drowned the {{p|Fraser}} valley,
 A coup, a ship sideways in a canal, a company of safety founded,
