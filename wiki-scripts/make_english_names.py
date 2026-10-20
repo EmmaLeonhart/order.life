@@ -246,6 +246,15 @@ MANUAL.update({
     "活津日子命": ("Ikutsuhiko no Mikoto", "ja", KOJIKI), "火之夜藝速男神": ("Hinoyagihayao no Kami", "ja", KOJIKI),
     "熊野久須毘命": ("Kumanokusubi no Mikoto", "ja", KOJIKI),
 })
+# Chinese names with a character read other than its common reading in that person's name, where pypinyin takes the
+# common one. Each checked against the person (Wikidata where it has them); 氏 and doubtful matches are left alone.
+SPECIAL = "pinyin of the reading special to this name, set by hand"
+MANUAL.update({
+    "適 /李/": ("Kuo /Li/", "zh", SPECIAL),   # Emperor Dezong of Tang, 742-805: 適 is kuò in his name, not shì
+    "伽羅 /獨孤/": ("Qieluo /Dugu/", "zh", SPECIAL),   # Empress Dugu Qieluo (Q1066855)
+    "/磨延啜/": ("/Moyanchuo/", "zh", SPECIAL),   # Bayanchur Khan (Q1799031): 啜 is chuò
+    "長樂 /李/": ("Changle /Li/", "zh", SPECIAL),   # 長樂 is Chánglè, as the place and the princesses' title
+})
 
 
 def main():
