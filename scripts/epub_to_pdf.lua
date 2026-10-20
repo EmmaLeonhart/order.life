@@ -5,7 +5,8 @@
 -- It also lays the book out (Emma, 2026-10-19): "the PDF generation always has page breaks between the chapters",
 -- and "each book, like all the 13 months, should have their own covers ... We'll just have blank cover things for
 -- now", to become something more elaborate later, probably with AI art. So each month (a level-1 heading) starts on
--- a cover page of its own, which for now carries only the book's name, and each chapter (level 2) starts a new page.
+-- a cover page of its own, with its art and its book's name (2026-10-20), and each chapter (level 2) starts a new page,
+-- with its own art under the heading.
 --   pandoc gaiad.epub -f epub --lua-filter scripts/epub_to_pdf.lua --toc --pdf-engine=typst -o gaiad.pdf
 
 local function typst(text)
@@ -65,8 +66,18 @@ function Pandoc(doc)
           out[#out + 1] = typst("#pagebreak(weak: true)")
         end
         after_month = false
+        -- Each chapter's art (Emma, 2026-10-20: "art for every single chapter"; scripts/make_chapter_art.py) goes
+        -- under its heading.
+        local n = tonumber(pandoc.utils.stringify(b.content):match("^Chapter%s+(%d+)"))
+        local art = n and string.format("static/chapters/%03d.jpg", n)
+        if art and file_exists(art) then
+          out[#out + 1] = b
+          out[#out + 1] = typst('#align(center)[#image("/' .. art .. '", height: 38%)]')
+          goto continue
+        end
       end
       out[#out + 1] = b
+      ::continue::
     end
   end
   doc.blocks = out
