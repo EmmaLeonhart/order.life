@@ -225,7 +225,10 @@ def wikidata_by_ja_label(names):
 
 
 # Names the rules cannot read, set by hand.
-MANUAL = {"ヴィフェ・オフ・ホプニ": ("Wife of Hophni", "ja", "katakana of the English name, set by hand")}
+MANUAL = {"ヴィフェ・オフ・ホプニ": ("Wife of Hophni", "ja", "katakana of the English name, set by hand"),
+          # FamilySearch 9FS4-X79: a garbled source name, "YU MAE UI BN" romanizing 유매의 부(인) and ending 의 부인,
+          # "the wife of Yu Mae"; a description, not her name, as with Hophni's wife above.
+          "매 YU MAE UI BN /유/ 의 부인": ("Wife of Yu Mae", "ko", "the source's description of her, set by hand")}
 # Kami of the Kojiki, whose names are read in kun and man'yōgana, not the on'yomi pykakasi gives ("Dai Choku Bi no Kami"
 # for 大直毘神). The Kojiki's own readings, checked against Wikidata where it has the kami (Ōkamuzumi, Tokihakashi,
 # Nakisawame, Kumanokusubi, Chigaeshi, Akiguinoushi); its paired items ("Kamunaobi and Ōnaobi") give one each.
