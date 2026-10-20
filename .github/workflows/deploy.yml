@@ -70,14 +70,15 @@ jobs:
           ls -la site/gaiad.pdf site/gaiad.epub site/gaiad.docx site/gaiad.odt site/gaiad.txt site/gaiad.zip
 
       # One zip under each language directory (Emma, 2026-10-14: those versions "only contain English, Japanese,
-      # Chinese, and then whatever ... other language the directory is in"): its GEDCOM adds that language's real
-      # labels; the books in it are the English text.
+      # Chinese, and then whatever ... other language the directory is in"): its GEDCOM keeps English, Chinese and
+      # Japanese, adds Wikidata's labels in that language, and leaves out Korean (wiki-scripts/language_gedcom.py);
+      # the books in it are the English text, in every format the root zip has.
       - name: Build the language zips
         run: |
           for lang in ja zh es hi ar fr ru uk; do
             d=/tmp/zip-$lang && rm -rf $d && mkdir -p $d
-            cp site/gaiad.ged $d/gedcom.ged   # same file; language versions will differ only by translations
-            cp site/gaiad.pdf site/gaiad.epub $d/
+            python wiki-scripts/language_gedcom.py site/gaiad.ged $lang $d/gedcom.ged
+            cp site/gaiad.pdf site/gaiad.epub site/gaiad.docx site/gaiad.odt site/gaiad.txt $d/
             mkdir -p site/$lang
             (cd $d && zip -q -r -9 "$GITHUB_WORKSPACE/site/$lang/gaiad.zip" .)
           done
