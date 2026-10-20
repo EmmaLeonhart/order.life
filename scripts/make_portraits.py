@@ -37,11 +37,31 @@ PEOPLE = {
     "makeda": ("Makeda", "Queen of Sheba, Ethiopian queen with dark skin, gold crown and jewels, regal robes"),
 }
 
+# Other names for a portrait's person: further character-page slugs, and EXIDs in gaiad.ged (FamilySearch, Wikidata).
+ALSO = {
+    "huangdi": ["yellow_emperor", "Q29201"],
+    "zarathustra": ["zoroaster", "Q35811"],
+    "seth": ["Q107626"],
+    "cain": ["Q205365"],
+    "makeda": ["G8P5-MWN"],
+}
+
+
+def write_index():
+    """static/portraits/index.tsv: each portrait and every slug or id it belongs to, read by build.py,
+    wiki-scripts/entity_index.py and wiki-scripts/gedcom_portraits.py."""
+    rows = ["file\tname\tmatch"]
+    for slug, (name, _) in PEOPLE.items():
+        if (OUT / f"{slug}.jpg").exists():
+            rows.append(f"{slug}.jpg\t{name}\t{','.join([slug] + ALSO.get(slug, []))}")
+    (OUT / "index.tsv").write_text("\n".join(rows) + "\n", encoding="utf-8", newline="\n")
+
 
 def main():
     OUT.mkdir(parents=True, exist_ok=True)
     todo = [s for s in PEOPLE if not (OUT / f"{s}.jpg").exists()]
     if not todo:
+        write_index()
         return
     pipe = StableDiffusionXLPipeline.from_pretrained(MODEL, torch_dtype=torch.float16, variant="fp16",
                                                      use_safetensors=True)
@@ -56,6 +76,7 @@ def main():
                    guidance_scale=7.0, width=896, height=1152, generator=g).images[0]
         img.resize((448, 576)).save(OUT / f"{slug}.jpg", quality=82)
         print(slug, flush=True)
+    write_index()
 
 
 if __name__ == "__main__":

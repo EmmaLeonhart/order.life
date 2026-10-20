@@ -35,6 +35,46 @@ local function cover(heading)
                .. "#text(size: 36pt)[" .. esc(month) .. "]" .. sub .. "]]")
 end
 
+-- Portraits (Emma, 2026-10-20: "PDF, first mention"; scripts/make_portraits.py): {chapter: {{file, name}, ...}},
+-- each person at the first chapter their Gaiad character file (Gaiad/genealogy/<slug>.json) cites or mentions.
+local function portraits_by_chapter()
+  local out, f = {}, io.open("static/portraits/index.tsv", "r")
+  if not f then return out end
+  f:read("l")
+  for row in f:lines() do
+    local file, name, match = row:match("^([^\t]+)\t([^\t]+)\t(.+)$")
+    local first
+    for slug in (match or ""):gmatch("[^,]+") do
+      local g = io.open("Gaiad/genealogy/" .. slug .. ".json", "r")
+      if g then
+        local d = pandoc.json.decode(g:read("a"), false)
+        g:close()
+        for _, c in ipairs(d.citations or {}) do
+          if not first or c.chapter < first then first = c.chapter end
+        end
+        for _, n in ipairs(d.chapters_mentioned_in or {}) do
+          if not first or n < first then first = n end
+        end
+      end
+    end
+    if first then
+      out[first] = out[first] or {}
+      table.insert(out[first], {file, name})
+    end
+  end
+  f:close()
+  return out
+end
+
+local function portrait_row(list)
+  local cells = {}
+  for _, p in ipairs(list) do
+    cells[#cells + 1] = 'stack(dir: ttb, spacing: 0.4em, image("/static/portraits/' .. p[1] .. '", height: 16%), '
+                        .. 'text(size: 9pt)[' .. esc(p[2]) .. '])'
+  end
+  return typst("#align(center)[#stack(dir: ltr, spacing: 1.5em, " .. table.concat(cells, ", ") .. ")]")
+end
+
 -- The EPUB reader wraps each month and chapter in a section Div, and Typst allows no page break or page inside a
 -- container, so the section Divs are unwrapped first and the headings then stand at the top level.
 local function flatten(blocks, out)
@@ -50,6 +90,7 @@ end
 
 function Pandoc(doc)
   local out, skipping, after_month = {}, false, false
+  local portraits = portraits_by_chapter()
   for _, b in ipairs(flatten(doc.blocks, {})) do
     if b.t == "RawBlock" and b.format == "html" and b.text:match("^<nav") then
       skipping = true
@@ -73,6 +114,9 @@ function Pandoc(doc)
         if art and file_exists(art) then
           out[#out + 1] = b
           out[#out + 1] = typst('#align(center)[#image("/' .. art .. '", height: 38%)]')
+          if portraits[n] then
+            out[#out + 1] = portrait_row(portraits[n])
+          end
           goto continue
         end
       end

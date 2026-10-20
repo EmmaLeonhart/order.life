@@ -1594,6 +1594,18 @@ def generate_gedcom(out_path):
         return {"individuals": 0, "families": 0, "deep_time_dates": 0, "bytes": 0}
 
 
+def load_portraits():
+    """{slug or id: file} from static/portraits/index.tsv (scripts/make_portraits.py)."""
+    out = {}
+    index = SCRIPT_DIR / "static" / "portraits" / "index.tsv"
+    if index.exists():
+        for row in index.read_text(encoding="utf-8").splitlines()[1:]:
+            file, _, match = row.split("\t")
+            for m in match.split(","):
+                out[m] = file
+    return out
+
+
 def generate_gedcom7(out_path):
     """Write the genealogy as GEDCOM 7 (wiki-scripts/export_gedcom7.py) to out_path.
 
@@ -2314,6 +2326,7 @@ def build_site():
         if lang == DEFAULT_LANG and genealogy:
             characters_dir = lang_dir / "gaiad" / "characters"
             characters_dir.mkdir(parents=True, exist_ok=True)
+            portraits = load_portraits()
 
             for char_name, char_data in genealogy.items():
                 # Create filename-safe version of character name
@@ -2380,6 +2393,8 @@ def build_site():
                     "father_url": father_url,
                     "mother_url": mother_url,
                     "child_urls": child_urls,
+                    # A portrait from scripts/make_portraits.py (Emma, 2026-10-20), by its index of slugs.
+                    "portrait_url": f"/static/portraits/{portraits[safe_name]}" if safe_name in portraits else None,
                 }
 
                 render_page(env, "gaiad/character.html", char_page_dir / "index.html", char_ctx)

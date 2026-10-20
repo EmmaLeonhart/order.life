@@ -20,6 +20,10 @@
 
   <div class="character-content">
     <div class="character-header">
+      {% if portrait_url %}
+      <img class="character-portrait" src="{{ portrait_url }}" alt="Portrait of {{ character_name }}" width="224" height="288"
+           style="float: right; margin: 0 0 1rem 1.5rem; border-radius: 6px; max-width: 40%; height: auto;">
+      {% endif %}
       <h1>{{ character_name }}</h1>
       <p class="character-meta">
         {% if father %}

@@ -108,6 +108,8 @@
           document.title = (r.l || q) + ' — order.life ' + q;
           var h = '<div class="section-hero"><h1>' + esc(r.l || q) + '</h1><p>order.life ' + q +
                   (r.b || r.d ? ' · ' + esc(r.b || '?') + ' – ' + esc(r.d || '') : '') + '</p></div>';
+          if (r.i) h += '<div class="container"><img src="' + esc(r.i) + '" alt="Portrait of ' + esc(r.l || q) +
+                        '" width="224" height="288" style="display:block;margin:1rem auto;border-radius:6px"></div>';
           h += '<div class="container section-content">';
           if (r.p && r.p.length) h += '<p><strong>Parents:</strong> ' + r.p.map(function (x) { return link(x, r.n); }).join(', ') + '</p>';
           if (r.c && r.c.length) h += '<p><strong>Children:</strong> ' + r.c.map(function (x) { return link(x, r.n); }).join(', ') + '</p>';

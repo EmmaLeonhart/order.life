@@ -49,6 +49,12 @@ def build(out_dir):
             slug = re.sub(r"[^a-zA-Z0-9_-]", "", d["name"].replace(" ", "_")).lower()
             if slug:
                 page.setdefault(d["qid"], slug)
+    portraits = {}   # {slug or id: file}, static/portraits/index.tsv from scripts/make_portraits.py
+    index = ROOT / "static" / "portraits" / "index.tsv"
+    if index.exists():
+        for row in index.read_text(encoding="utf-8").splitlines()[1:]:
+            file, _, match = row.split("\t")
+            portraits.update({m: file for m in match.split(",")})
     buckets = defaultdict(dict)
     for q, r in persons.items():
         if not q[1:].isdigit():
@@ -61,6 +67,8 @@ def build(out_dir):
             rec["g"] = r["geni_id"]
         if q in page:
             rec["s"] = page[q]
+        if page.get(q) in portraits or r.get("wikidata_qid") in portraits:
+            rec["i"] = f"/static/portraits/{portraits.get(page.get(q)) or portraits[r['wikidata_qid']]}"
         buckets[int(q[1:]) // 1000][q] = rec
     # Names of linked people travel with each record's bucket only, so a record shows its relatives' labels.
     for b in buckets.values():
@@ -87,6 +95,9 @@ def entity_page(q, r):
 
     dates = f' · {esc(r["b"] or "?")} – {esc(r["d"])}' if r["b"] or r["d"] else ""
     body = f'<div class="section-hero"><h1>{esc(label)}</h1><p>order.life {q}{dates}</p></div>'
+    if r.get("i"):
+        body += (f'<div class="container"><img src="{r["i"]}" alt="Portrait of {esc(label)}" width="224" '
+                 'height="288" style="display:block;margin:1rem auto;border-radius:6px"></div>')
     body += '<div class="container section-content">'
     if r["p"]:
         body += "<p><strong>Parents:</strong> " + ", ".join(map(link, r["p"])) + "</p>"
