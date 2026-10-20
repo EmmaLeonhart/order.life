@@ -1,13 +1,14 @@
 """
 Write the person index behind https://order.life/wikibase/entity/Q<n>, the URL the GEDCOM's EXIDs name.
 
-The site has no page per person (106,786 of them), so build.py calls this to write small JSON buckets,
-site/wikibase/entity/_index/<n // 1000>.json, and templates/404.html shows the record of any
-/wikibase/entity/Q<n> from its bucket: label, dates, parents and children (each linked the same way),
-the Gaiad character page if there is one, Wikidata and Geni. It is also what a Wikidata property for
+build.py calls this to write small JSON buckets, site/wikibase/entity/_index/<n // 1000>.json, and a
+static page per person, site/wikibase/entity/Q<n>.html, so the URL answers 200 (templates/404.html still
+shows a record from its bucket if the page is missing). Each shows: label, dates, parents and children
+(each linked the same way), the Gaiad character page if there is one, Wikidata and Geni. It is also what a Wikidata property for
 order.life ids would point at (planning/wikidata-property-proposal.md). Stdlib only.
 """
 import csv
+import html
 import json
 import re
 from collections import defaultdict
@@ -69,7 +70,43 @@ def build(out_dir):
     out_dir.mkdir(parents=True, exist_ok=True)
     for k, b in buckets.items():
         (out_dir / f"{k}.json").write_text(json.dumps(b, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
+        # A real page per record, so /wikibase/entity/Q<n> answers 200 (GitHub Pages serves Q<n>.html there);
+        # through 404.html alone the record showed but the status was 404.
+        for q, rec in b.items():
+            (out_dir.parent / f"{q}.html").write_text(entity_page(q, rec), encoding="utf-8")
     return len(persons), len(buckets)
+
+
+def entity_page(q, r):
+    """The same record 404.html renders from the bucket, as static HTML."""
+    esc = html.escape
+    label = r["l"] or q
+
+    def link(x):
+        return f'<a href="/wikibase/entity/{x}">{esc(r["n"].get(x) or x)}</a>'
+
+    dates = f' · {esc(r["b"] or "?")} – {esc(r["d"])}' if r["b"] or r["d"] else ""
+    body = f'<div class="section-hero"><h1>{esc(label)}</h1><p>order.life {q}{dates}</p></div>'
+    body += '<div class="container section-content">'
+    if r["p"]:
+        body += "<p><strong>Parents:</strong> " + ", ".join(map(link, r["p"])) + "</p>"
+    if r["c"]:
+        body += "<p><strong>Children:</strong> " + ", ".join(map(link, r["c"])) + "</p>"
+    out = []
+    if r.get("s"):
+        out.append(f'<a href="/gaiad/characters/{r["s"]}/">In the Gaiad</a>')
+    if r.get("w"):
+        out.append(f'<a href="https://www.wikidata.org/wiki/{r["w"]}">Wikidata {r["w"]}</a>')
+    if r.get("g"):
+        out.append(f'<a href="https://www.geni.com/profile/index/{r["g"]}">Geni</a>')
+    out.append('<a href="/gaiad.ged" download>the whole tree (GEDCOM 7)</a>')
+    body += "<p>" + " · ".join(out) + "</p></div>"
+    return ('<!DOCTYPE html>\n<html lang="en">\n<head>\n<meta charset="UTF-8">\n'
+            '<meta name="viewport" content="width=device-width, initial-scale=1.0">\n'
+            f"<title>{esc(label)} — order.life {q}</title>\n"
+            '<link rel="icon" href="/static/favicon.svg" type="image/svg+xml">\n'
+            '<link rel="stylesheet" href="/static/css/style.css">\n</head>\n'
+            f"<body>\n{body}\n<footer><p>命道教 · Lifeism · Order of Life</p></footer>\n</body>\n</html>\n")
 
 
 if __name__ == "__main__":
