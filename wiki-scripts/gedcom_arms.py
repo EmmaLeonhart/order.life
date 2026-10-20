@@ -70,10 +70,10 @@ def read_gedcom(lines):
 
 def assign(people, real, parents):
     """{xref: (kind, value, from_xref)} by the rule above; a parent still being worked out (a cycle) counts as absent."""
-    done, busy = {}, set()
+    done, busy, known = {}, set(), set(people)
 
     def ups(p):
-        return [] if p in real else [x for x in parents.get(p, (None, None)) if x in people]
+        return [] if p in real else [x for x in parents.get(p, (None, None)) if x in known]
 
     for start in people:
         # Depth-first without recursion: lines run thousands of generations deep.
@@ -106,7 +106,7 @@ def main():
         for r in csv.DictReader(fh, delimiter="\t"):
             files[r["qid"]] = r["file"]
     real = {x: files[q] for x, q in real_q.items() if q in files}
-    result = assign(set(key), real, parents)
+    result = assign(list(key), real, parents)   # file order: in a parentage cycle the order decides, so it must not vary
     pool = (ARMS / "pool.txt").read_text(encoding="utf-8").splitlines()
 
     objs, bearer = {}, {}
