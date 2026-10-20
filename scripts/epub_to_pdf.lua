@@ -12,11 +12,26 @@ local function typst(text)
   return pandoc.RawBlock("typst", text)
 end
 
-local function cover(name)
-  -- The placeholder cover: a page of its own with the book's name in the middle. The art goes here later.
-  local escaped = name:gsub("([\\#%[%]%*_`$<>@])", "\\%1")
-  return typst("#pagebreak(weak: true)\n#page(header: none, footer: none)[#align(center + horizon)[#text(size: 36pt)["
-               .. escaped .. "]]]")
+local function esc(s)
+  return (s:gsub("([\\#%[%]%*_`$<>@\"])", "\\%1"))
+end
+
+local function file_exists(path)
+  local f = io.open(path, "rb")
+  if f then f:close() return true end
+  return false
+end
+
+local function cover(heading)
+  -- The cover of one book: its art (static/covers/<month>.jpg, made with a local free model) above the month's name
+  -- and the book's name ("Leo: The Book of Lehi").
+  local month, book = heading:match("^(.-):%s*(.+)$")
+  month = month or heading
+  local art = "static/covers/" .. month:lower() .. ".jpg"
+  local img = file_exists(art) and ('#image("/' .. art .. '", height: 60%)\n#v(1.5em)\n') or ""
+  local sub = book and ("\n#v(0.5em)\n#text(size: 18pt, style: \"italic\")[" .. esc(book) .. "]") or ""
+  return typst("#pagebreak(weak: true)\n#page(header: none, footer: none)[#align(center + horizon)[\n" .. img
+               .. "#text(size: 36pt)[" .. esc(month) .. "]" .. sub .. "]]")
 end
 
 -- The EPUB reader wraps each month and chapter in a section Div, and Typst allows no page break or page inside a

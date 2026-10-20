@@ -20,6 +20,14 @@ ROOT = Path(__file__).resolve().parent.parent
 EPIC = ROOT / "Gaiad" / "epic"
 MONTHS = ["Sagittarius", "Capricorn", "Aquarius", "Pisces", "Aries", "Taurus", "Gemini",
           "Cancer", "Leo", "Virgo", "Libra", "Scorpius", "Ophiuchus"]
+# Each month is a book, with its book name as the subheading (Emma, 2026-10-20: "The book of Lehi is the book of Leo.
+# All the other ones often have other meanings associated with it, or just make them ... up"). Pisces, the Mesozoic,
+# is her Egypt and Passover; the others are named for what the month holds.
+BOOKS = {"Sagittarius": "The Book of the Yarn", "Capricorn": "The Book of the Ice", "Aquarius": "The Book of the Houses",
+         "Pisces": "The Book of Exodus", "Aries": "The Book of the Survivors", "Taurus": "The Book of Kings",
+         "Gemini": "The Book of the Sages", "Cancer": "The Book of the Caliphs", "Leo": "The Book of Lehi",
+         "Virgo": "The Book of Chronicles", "Libra": "The Book of Registers", "Scorpius": "The Book of Wires",
+         "Ophiuchus": "The Book of Omega"}
 TAG = re.compile(r"\{\{[cpx]\|(?:[^}|]*\|)?([^}|]+)\}\}")
 
 
@@ -49,7 +57,7 @@ def main(out):
              "---", ""]
     n_ch = 0
     for m, name in enumerate(MONTHS):
-        parts.append(f"# {name}\n")
+        parts.append(f"# {name}: {BOOKS[name]}\n")
         for d in range(1, 29):
             n = m * 28 + d
             title, body = chapter(n)
