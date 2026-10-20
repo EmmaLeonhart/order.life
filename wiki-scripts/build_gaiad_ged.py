@@ -409,6 +409,18 @@ def name_blocks_to_tran(body, emma=False):
     for k in range(len(primary) - 1):   # a Han TRAN written with the Chinese name dot is Chinese, not "undetermined"
         if primary[k].startswith("2 TRAN ") and primary[k + 1] == "3 LANG und-Hani" and "·" in primary[k]:
             primary[k + 1] = "3 LANG zh"
+    # A Han form of a name in Latin script is Chinese too: Japanese writes a foreign name in katakana and Korean in
+    # Hangul, so 玛加丽塔 for Margareta, 阿佛列大帝 for Alfred the Great, can only be Chinese. The first one becomes the
+    # zh TRAN where the record has no other Chinese form (one per language): not where the composer or Wikidata gives
+    # one, since an und-Hani form is often a part of the name only (托尔斯特因 for Torstein /Heimnes/).
+    qid0 = next((m.group(1) for l in body for m in [re.search(r"wikidata\.org/(?:wiki|entity)/(Q\d+)", l)] if m), None)
+    other_zh = ((cjk_labels().get(" ".join(text.replace("/", " ").split())) or {}).get("zh")
+                or (wikidata_cjk().get(qid0, {}) if qid0 else {}).get("zh"))
+    if not CJK.search(text) and "3 LANG zh" not in primary and not other_zh:
+        k = next((k for k in range(len(primary) - 1)
+                  if primary[k].startswith("2 TRAN ") and primary[k + 1] == "3 LANG und-Hani"), None)
+        if k is not None:
+            primary[k + 1] = "3 LANG zh"
     have = {l[7:].strip()[:2] for l in primary if l.startswith("3 LANG ")}
     have_text = {l[7:].strip() for l in primary if l.startswith("2 TRAN ")}
     native, reading = {}, {}
