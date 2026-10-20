@@ -367,6 +367,17 @@ def mark_tran_surnames(primary):
                     out += primary[k + 2:sub_end]
                     k = sub_end
                     continue
+            # The surname's reading once inside the translation, a whole word, with a title or place after it
+            # (콘라드 키르부륵 쿤트 for Conrad /Kyrburg/ Count), or the whole translation: marked where it stands.
+            at = text.find(r) if r and "/" not in text and not has_pieces and text.count(r) == 1 else -1
+            if at >= 0 and (at == 0 or text[at - 1] in "・· ") and (at + len(r) == len(text)
+                                                                   or text[at + len(r)] in "・· "):
+                given = text[:at].rstrip("・· ")
+                out += [f"2 TRAN {text[:at]}/{r}/{text[at + len(r):]}", primary[k + 1]]
+                out += ([f"3 GIVN {given}"] if given else []) + [f"3 SURN {r}"]
+                out += primary[k + 2:sub_end]
+                k = sub_end
+                continue
         out.append(l)
         k += 1
     return out
