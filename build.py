@@ -398,7 +398,8 @@ def load_weekday_names():
 
 def load_chapters():
     """Load Gaiad epic chapters from Gaiad/epic/ directory.
-    Returns dict of chapter_num -> (title, text) tuples.
+    Returns dict of chapter_num -> (title, text, tagged) tuples: text with the tags stripped to plain names,
+    tagged with the {{c|}}/{{p|}}/{{x|}} tags kept (for linking names, link_stanza()).
     """
     chapters = {}
     for i in range(1, 365):
@@ -406,15 +407,48 @@ def load_chapters():
         if chapter_file.exists():
             with open(chapter_file, "r", encoding="utf-8") as f:
                 raw = f.read()
-                clean = re.sub(r'\{\{[cpx]\|([^}]*)\}\}', r'\1', raw)
+                # {{c|Name}} and the ID form {{c|453|Name}} (Gaiad/TAGS.md) both show as Name.
+                clean = TAG_RE.sub(r'\1', raw)
                 # Extract title from markdown heading and strip it from text
                 title = None
+                tagged = raw
                 title_match = re.match(r'^#\s+(?:Chapter\s+\d+:\s*)?(.*)', clean)
                 if title_match:
                     title = title_match.group(1).strip()
                     clean = clean[title_match.end():].lstrip('\n')
-                chapters[i] = (title, clean)
+                    tagged_match = re.match(r'^#[^\n]*', raw)
+                    tagged = raw[tagged_match.end():].lstrip('\n')
+                chapters[i] = (title, clean, tagged)
     return chapters
+
+
+TAG_RE = re.compile(r'\{\{[cpx]\|(?:[^}|]*\|)?([^}|]+)\}\}')
+CHAR_TAG_RE = re.compile(r'\{\{([cpx])\|(?:[^}|]*\|)?([^}|]+)\}\}')
+
+
+def character_slug(name):
+    """The /gaiad/characters/<slug>/ directory name for a character, as the character pages are written."""
+    return re.sub(r'[^a-zA-Z0-9_-]', '', name.replace(' ', '_')).lower() or "unknown"
+
+
+def link_stanza(stanza, genealogy):
+    """A tagged stanza as HTML: each {{c|Name}} that has a character page links to it; everything else is
+    plain text (the tags themselves are never changed, Gaiad/TAGS.md). A few tags run across a stanza break
+    ({{p|Mediterranean / Coast}}, ch 146); their halves are dropped from the plain text, as in load_chapters()."""
+    def plain(s):
+        return escape(re.sub(r'\{\{[cpx]\|(?:[^}|\n]*\|)?|\}\}', '', s))
+    out, pos = [], 0
+    for m in CHAR_TAG_RE.finditer(stanza):
+        out.append(plain(stanza[pos:m.start()]))
+        name = m.group(2)
+        if m.group(1) == "c" and name.strip() in genealogy:
+            out.append(Markup('<a class="char-link" href="/gaiad/characters/{}/">{}</a>').format(
+                character_slug(name.strip()), name))
+        else:
+            out.append(escape(name))
+        pos = m.end()
+    out.append(plain(stanza[pos:]))
+    return Markup("").join(out)
 
 
 def load_further_reading():
@@ -2342,7 +2376,9 @@ def build_site():
                 "chapter_title": ch_data[0] if ch_data else None,
                 "chapter_text": ch_data[1] if ch_data else None,
                 # Stanzas, numbered from 1, so a passage can be cited as Gaiad N.S and linked as #sS.
-                "chapter_stanzas": [s.strip("\n") for s in re.split(r"\n\s*\n", ch_data[1].replace("\r", "")) if s.strip()] if ch_data and ch_data[1] else [],
+                # Each tagged name links to its character page (Emma's backlog item, chosen 2026-10-21: "names in
+                # the verse link nowhere"); the tagged text splits into the same stanzas as the plain one.
+                "chapter_stanzas": [link_stanza(s.strip("\n"), genealogy) for s in re.split(r"\n\s*\n", ch_data[2].replace("\r", "")) if s.strip()] if ch_data and ch_data[1] else [],
                 "chapter_month": MONTHS[ch_month - 1] if ch_month <= 14 else None,
                 "chapter_day": ch_day,
                 "prev_chapter": ch_num - 1 if ch_num > 1 else 364,  # the year is a cycle: ch 1 follows ch 364

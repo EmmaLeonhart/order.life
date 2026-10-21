@@ -810,3 +810,6 @@ footer a { color: var(--text-muted); }
 
 .breadcrumb a { color: var(--text-muted); }
 .breadcrumb span { margin: 0 6px; }
+/* Tagged names in the verse link to their character pages: quiet, so the verse still reads as verse. */
+.chapter-stanzas a.char-link { color: inherit; text-decoration: underline dotted; text-decoration-color: var(--text-muted); text-underline-offset: 0.2em; }
+.chapter-stanzas a.char-link:hover { text-decoration-style: solid; }
