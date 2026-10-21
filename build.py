@@ -188,14 +188,33 @@ MONTH_THEMES = {
     ),
 }
 
+# role: Monday-Thursday are the four ordinary ("mundane") days, whose names are restored
+# to the planets where a language only counts them. Friday-Sunday are the three Sabbaths,
+# whose own names are kept; each has its tradition, function, letter and Gaiad figure.
+# element/stem: the PROPOSED Gaian five elements (odd heavenly stems over Tuesday-Saturday,
+# in the generating cycle). A proposal, not settled doctrine (Emma, 2026-10-20).
 WEEKDAYS = [
-    {"num": 1, "id": "monday",    "planet": "Moon",    "symbol": "\u263D"},
-    {"num": 2, "id": "tuesday",   "planet": "Mars",    "symbol": "\u2642"},
-    {"num": 3, "id": "wednesday", "planet": "Mercury", "symbol": "\u263F"},
-    {"num": 4, "id": "thursday",  "planet": "Jupiter", "symbol": "\u2643"},
-    {"num": 5, "id": "friday",    "planet": "Venus",   "symbol": "\u2640"},
-    {"num": 6, "id": "saturday",  "planet": "Saturn",  "symbol": "\u2644"},
-    {"num": 7, "id": "sunday",    "planet": "Sun",     "symbol": "\u2609"},
+    {"num": 1, "id": "monday",    "planet": "Moon",    "symbol": "☽", "role": "mundane"},
+    {"num": 2, "id": "tuesday",   "planet": "Mars",    "symbol": "♂", "role": "mundane",
+     "element": "wood",  "stem": "甲", "stem_reading": "jiǎ, kinoe"},
+    {"num": 3, "id": "wednesday", "planet": "Mercury", "symbol": "☿", "role": "mundane",
+     "element": "fire",  "stem": "丙", "stem_reading": "bǐng, hinoe"},
+    {"num": 4, "id": "thursday",  "planet": "Jupiter", "symbol": "♃", "role": "mundane",
+     "element": "earth", "stem": "戊", "stem_reading": "wù, tsuchinoe"},
+    {"num": 5, "id": "friday",    "planet": "Venus",   "symbol": "♀", "role": "sabbath",
+     "sabbath_ordinal": "first", "tradition": "Islam", "observance": "Jumuʿah",
+     "function": "gathering and unification", "letter": "Alpha", "letter_symbol": "Α",
+     "figure": "Aster",
+     "element": "metal", "stem": "庚", "stem_reading": "gēng, kanoe"},
+    {"num": 6, "id": "saturday",  "planet": "Saturn",  "symbol": "♄", "role": "sabbath",
+     "sabbath_ordinal": "second", "tradition": "Judaism", "observance": "Shabbat",
+     "function": "rest, growth and discipline", "letter": "Lambda", "letter_symbol": "Λ",
+     "figure": "Leona",
+     "element": "water", "stem": "壬", "stem_reading": "rén, mizunoe"},
+    {"num": 7, "id": "sunday",    "planet": "Sun",     "symbol": "☉", "role": "sabbath",
+     "sabbath_ordinal": "third", "tradition": "Christianity", "observance": "the Lord's Day",
+     "function": "aspiration and the future", "letter": "Omega", "letter_symbol": "Ω",
+     "figure": "Andromeda"},
 ]
 
 # Localized Gregorian month names + date formatting (avoid relying on system locales)

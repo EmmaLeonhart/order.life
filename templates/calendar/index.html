@@ -60,7 +60,7 @@
       <a href="{{ base }}/calendar/week/{{ wd.num }}/" class="month-card week-card" style="text-decoration:none; color:inherit;">
         <div class="month-symbol">{{ wd.symbol }}</div>
         <div class="month-name">{{ preferred_weekday_names[wd.num - 1] }}</div>
-        <div class="month-info">{{ wd.planet }}</div>
+        <div class="month-info">{{ wd.planet }}{% if wd.role == "sabbath" %} · {{ wd.letter_symbol }}{% endif %}</div>
       </a>
       {% endfor %}
     </div>
