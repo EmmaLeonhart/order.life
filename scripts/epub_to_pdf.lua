@@ -69,7 +69,7 @@ end
 local function portrait_row(list)
   local cells = {}
   for _, p in ipairs(list) do
-    cells[#cells + 1] = 'stack(dir: ttb, spacing: 0.4em, image("/static/portraits/' .. p[1] .. '", height: 16%), '
+    cells[#cells + 1] = 'stack(dir: ttb, spacing: 0.4em, image("/static/portraits/thumbs/' .. p[1] .. '", height: 16%), '
                         .. 'text(size: 9pt)[' .. esc(p[2]) .. '])'
   end
   return typst("#align(center)[#stack(dir: ltr, spacing: 1.5em, " .. table.concat(cells, ", ") .. ")]")

@@ -72,12 +72,24 @@ def write_index(people):
     (OUT / "index.tsv").write_text("\n".join(rows) + "\n", encoding="utf-8", newline="\n")
 
 
+def make_thumbs():
+    """static/portraits/thumbs/: 160 px copies for the PDF, which ships on the site and in every zip; with the
+    full-size portraits it was 106 MB, and the Pages artifact went past 1 GB."""
+    from PIL import Image
+    (OUT / "thumbs").mkdir(exist_ok=True)
+    for f in OUT.glob("*.jpg"):
+        t = OUT / "thumbs" / f.name
+        if not t.exists():
+            Image.open(f).resize((160, 206)).save(t, quality=75)
+
+
 def main():
     OUT.mkdir(parents=True, exist_ok=True)
     people = everyone()
     todo = [p for p in people if not (OUT / f"{p[0]}.jpg").exists()]
     if not todo:
         write_index(people)
+        make_thumbs()
         return
     pipe = StableDiffusionXLPipeline.from_pretrained(MODEL, torch_dtype=torch.float16, variant="fp16",
                                                      use_safetensors=True)
@@ -90,6 +102,7 @@ def main():
         img.resize((448, 576)).save(OUT / f"{slug}.jpg", quality=82)
         write_index(people)
         print(slug, flush=True)
+    make_thumbs()
 
 
 if __name__ == "__main__":
