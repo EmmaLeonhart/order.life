@@ -514,6 +514,36 @@ def fam_children_in_order(lines):
     return [l for b in blocks for l in (next(kids) if b[0].startswith("1 CHIL ") else b)]
 
 
+def current_identity(lines, persons):
+    """An ancestry record with one order.life id takes that person's current Wikidata id and name from order.life.
+
+    The ancestry file is cut from the synoptic tree, which joined an order.life export of 2026-09-30. Identities
+    repaired in order.life after that (the 2026-10-11 import-collision repair, the four town records of 2026-10-20:
+    Vicchio, Dompierre-sur-Mer, Scheibenberg and Benfeld, which were Simon I of Saarbrucken, Floris II of Holland,
+    Eberhard I of Berg-Altena and Hermes) would otherwise stay wrong in the tree. The wrong id and its name are
+    dropped, not kept as an AKA: they belong to someone (or something) else."""
+    ol = [a[7:].strip() for a, b in zip(lines, lines[1:]) if a.startswith("1 REFN ") and b.strip() == "2 TYPE order.life"]
+    if len(ol) != 1:
+        return lines, False
+    row = persons.get(ol[0]) or {}
+    right = (row.get("wikidata_qid") or "").strip()
+    wd = [a[7:].strip() for a, b in zip(lines, lines[1:])
+          if a.startswith("1 EXID ") and b.strip() == "2 TYPE http://www.wikidata.org/entity/"]
+    if not right or not wd or right in wd or len(wd) != 1:
+        return lines, False
+    wrong = wd[0]
+    out = [l.replace(f"1 EXID {wrong}", f"1 EXID {right}") if l.strip() == f"1 EXID {wrong}" else
+           l.replace(f"wikidata.org/wiki/{wrong}", f"wikidata.org/wiki/{right}") for l in lines]
+    name = (row.get("gedcom") or row.get("label") or "").strip()
+    i = next((k for k, l in enumerate(out) if l.startswith("1 NAME ")), None)
+    if name and i is not None:
+        j = i + 1
+        while j < len(out) and not out[j].startswith(("0 ", "1 ")):
+            j += 1
+        out[i:j] = [f"1 NAME {name}"]
+    return out, True
+
+
 def ancestry_records():
     """The ancestry file's level-0 records, as (xref, tag, [lines]), HEAD/TRLR/SUBM dropped."""
     recs, cur = [], None
@@ -829,7 +859,7 @@ def build(out_path):
                         wanted.setdefault(q, []).append(x)
                     break
         joins = {xs[0]: q for q, xs in wanted.items() if len(xs) == 1}
-    n_cal = n_fs = n_en = n_wd = 0
+    n_cal = n_fs = n_en = n_wd = n_ident = 0
     en_table = english_names()
     wd_table = wikidata_names()
     links = {}
@@ -843,6 +873,9 @@ def build(out_path):
                 lines = lines + [f"1 REFN {imap[x][2:-1]}", "2 TYPE Gaiad individual number"]
             if x in joins:
                 lines = lines + [f"1 REFN {joins[x]}", "2 TYPE order.life"]
+            if feats:
+                lines, done = current_identity(lines, feats.persons)
+                n_ident += done
             if feats:
                 qs = [a[7:].strip() for a, b in zip(lines, lines[1:])
                       if a.startswith("1 REFN ") and b.strip() == "2 TYPE order.life"]
@@ -941,7 +974,8 @@ def build(out_path):
     stats = {"text individuals": n_text, "ancestry individuals": n - n_text, "families": nf,
              "text individuals with resolved features": n_resolved_text[0],
              "ancestors newly joined to order.life": len(joins), "calendar notes from the tree's own dates": n_cal,
-             "link notes newly naming FamilySearch": n_fs, "CJK first names given an English primary name": n_en, "primary names from Wikidata": n_wd}
+             "link notes newly naming FamilySearch": n_fs, "CJK first names given an English primary name": n_en, "primary names from Wikidata": n_wd,
+             "ancestry records given order.life's current Wikidata id and name": n_ident}
     if feats:
         stats.update({f"feature: {k}": v for k, v in sorted(feats.counts.items())})
     stats["bytes"] = out_path.stat().st_size
