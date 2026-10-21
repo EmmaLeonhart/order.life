@@ -269,7 +269,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 13	8	Jupiter		Q154176	file		Around great Jupiter, his moons revolve,
 13	8	Io			unresolved	Q75396 Q90408 Q153846	Io, Europa, Ganymede, they dance.
 13	8	Europa		Q130003	file		Io, Europa, Ganymede, they dance.
-13	8	Ganymede		Q233	consensus	Q233 Q132330 Q154177	Io, Europa, Ganymede, they dance.
+13	8	Ganymede		Q233	file		Io, Europa, Ganymede, they dance.
 13	9	Io			unresolved	Q75396 Q90408 Q153846	But Io's fires within her heart did glow,
 13	10	Saturn		Q74680	file		In Saturn's grasp, her moons of ice reside,
 13	10	Enceladus		Q130415	file		Enceladus and Titan lead the way.
@@ -397,7 +397,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 14	54	Io			unresolved	Q75396 Q90408 Q153846	The people of Io, now reborn,
 14	54	Europa		Q130003	file		In Europa's embrace, they found their home,
 14	55	Europa		Q130003	file		From Europa's depths, their gaze turned high-wide,
-14	55	Ganymede		Q233	consensus	Q233 Q132330 Q154177	On Ganymede, where icy seas abide,
+14	55	Ganymede		Q233	file		On Ganymede, where icy seas abide,
 14	58	Callisto		Q75207	file		Then Callisto, serene, its visage scarred,
 14	60	Mars		Q74614	file		Yet Mars, now brimming, caught their distant sight,
 14	60	Red		Q154171	file		The Red Planet shone beneath the sun’s soft light,
@@ -415,12 +415,12 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 14	71	Niflheim			unresolved		And Niflheim, the land of frost, emerged,
 14	71	Venus		Q134047	file		Where daughters of Venus lived with fervent pace.
 14	72	Wind			unresolved		To Wind, to Ice, to Fire, their kin remained.
-14	72	Ice		Q154523	unique		To Wind, to Ice, to Fire, their kin remained.
+14	72	Ice		Q154523	file		To Wind, to Ice, to Fire, their kin remained.
 14	72	Fire			unresolved		To Wind, to Ice, to Fire, their kin remained.
 14	73	Tribe			unresolved		The Tribe of Wind, they wandered in the air,
 14	73	Wind			unresolved		The Tribe of Wind, they wandered in the air,
 14	73	Tribe			unresolved		The Tribe of Ice, on Niflheim's frozen crust,
-14	73	Ice		Q154523	unique		The Tribe of Ice, on Niflheim's frozen crust,
+14	73	Ice		Q154523	file		The Tribe of Ice, on Niflheim's frozen crust,
 14	73	Niflheim			unresolved		The Tribe of Ice, on Niflheim's frozen crust,
 14	73	Twilight			unresolved		And Twilight Tribe, eternal dusk their lair.
 14	73	Tribe			unresolved		And Twilight Tribe, eternal dusk their lair.
@@ -449,11 +449,11 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 15	2	Moon			unresolved		Then came the Moon Goddess, fair Usagi,
 15	2	Goddess			unresolved		Then came the Moon Goddess, fair Usagi,
 15	2	Usagi		Q154526	file		Then came the Moon Goddess, fair Usagi,
-15	2	Luna		Q54	context	Q54 Q153817	Luna, radiant in her lunar grace.
+15	2	Luna		Q54	file		Luna, radiant in her lunar grace.
 15	3	Terra		Q53	file		"""Go forth and multiply on Terra's land,"
 15	4	Earth		Q153812	file		The daughters, grateful, ventured back to Earth,
-15	4	Luna		Q54	context	Q54 Q153817	With faith that Luna's promise held true worth,
-15	5	Luna		Q54	context	Q54 Q153817	To drink the draught that Luna has prepared;
+15	4	Luna		Q54	file		With faith that Luna's promise held true worth,
+15	5	Luna		Q54	file		To drink the draught that Luna has prepared;
 15	6	Earth		Q153812	file		Upon the Earth, fair Gaia welcomed them,
 15	6	Gaia		Q43	file		Upon the Earth, fair Gaia welcomed them,
 15	6	Daughters		Q154289	file		Daughters of Bios thrived within her hem,
@@ -467,16 +467,16 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 15	9	Earth		Q153812	file		With Mother Earth, their bond forever true.
 15	10	Luca		Q42	file		Named Luca, gazing at the starlit dome;
 15	10	Sol		Q153909	file		As Sol receded, Luna bright withstood,
-15	10	Luna		Q54	context	Q54 Q153817	As Sol receded, Luna bright withstood,
+15	10	Luna		Q54	file		As Sol receded, Luna bright withstood,
 15	11	Usagi		Q154526	file		In twilight's breath, Usagi Luna spoke,
-15	11	Luna		Q54	context	Q54 Q153817	In twilight's breath, Usagi Luna spoke,
+15	11	Luna		Q54	file		In twilight's breath, Usagi Luna spoke,
 15	11	Elixir			unresolved		Elixir of immortals I'll invoke,
 15	12	Omega			unresolved		Omega Point where galaxies shall entwine—
 15	12	Aster		Q1	file		Aster and Andromeda will unite,
 15	12	Andromeda		Q3	file		Aster and Andromeda will unite,
 15	12	Milkdromeda		Q154277	file		To form Milkdromeda, a cosmic sign.
 15	13	Luca		Q42	file		As moonset came, young Luca turned away
-15	13	Luna		Q54	context	Q54 Q153817	In Luna's trust, she built anew by day,
+15	13	Luna		Q54	file		In Luna's trust, she built anew by day,
 15	13	Bios		Q7	file		The legacy of Bios on the land.
 16	1	Luca		Q42	file		From Luca's lineage, two daughters sprang,
 16	1	Arka		Q45	file		Arka and Bacta, shaped to change the world;
@@ -488,13 +488,13 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 16	4	Embarked			unresolved		Embarked upon their journey through the strife;
 16	4	Arka		Q45	file		With Arka's questing soul and Bacta's pace,
 16	4	Bacta		Q46	file		With Arka's questing soul and Bacta's pace,
-16	5	Luna		Q54	consensus	Q54 Q153817	One moonlit eve, as Luna graced the sky,
+16	5	Luna		Q54	file		One moonlit eve, as Luna graced the sky,
 16	5	Luca		Q42	file		Her voice rang clear to Luca, filled with light;
 16	6	Earth		Q153812	file		"""My child, your daughters shall divide the Earth;"
 16	7	Arka		Q45	file		Arka's domain shall spread with wandering feet,
 16	8	Bacta		Q46	file		And Bacta's kin, resilient they'll remain,
 16	8	Adapting			unresolved		Adapting to the ever-changing world;
-16	9	Luna		Q54	consensus	Q54 Q153817	With Luna's words, a promise made to keep,
+16	9	Luna		Q54	file		With Luna's words, a promise made to keep,
 16	9	Luca		Q42	file		Luca, both hopeful and yet filled with care,
 16	10	Earth		Q153812	file		The bond between their people and Earth's will.
 16	11	Isua			unresolved		In Isua, where Greenland's cold winds blow,
@@ -543,19 +543,19 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 16	19	Hela		Q69	file		Then Hela, dwelling in the shadow's veil,
 16	20	Luca		Q42	file		From Luca's line, their destinies unfold,
 16	21	Bios		Q7	file		The legacy of Bios carried on,
-16	22	Luna		Q54	consensus	Q54 Q153817	With Luna's elixir waiting in the skies,
+16	22	Luna		Q54	file		With Luna's elixir waiting in the skies,
 16	23	Earth		Q153812	file		The daughters of the Earth and Moon combined;
 16	23	Moon			unresolved		The daughters of the Earth and Moon combined;
 17	1	Bacta		Q46	file		From Bacta's womb, two daughters did arise,
-17	1	Hydra		Q52	context	Q52 Q131616 Q154111	Fair Hydra one, and Terra forged in might.
+17	1	Hydra		Q52	file		Fair Hydra one, and Terra forged in might.
 17	1	Terra		Q53	file		Fair Hydra one, and Terra forged in might.
-17	2	Hydra		Q52	context	Q52 Q131616 Q154111	Hydra, whose brood outmatched the countless stars,
+17	2	Hydra		Q52	file		Hydra, whose brood outmatched the countless stars,
 17	2	Proteus		Q51	file		Bore Proteus, whose might would soon unfold.
-17	2	Hydra		Q52	context	Q52 Q131616 Q154111	Yet Hydra's second child, untouched by scars,
+17	2	Hydra		Q52	file		Yet Hydra's second child, untouched by scars,
 17	2	Aqua		Q154298	file		Was Aqua then, the queen of tales untold.
 17	3	Proteus		Q51	file		Proteus bore a host of fourfold might:
 17	3	Alif		Q154545	file		Alif and Beth, Camilla, Mixo bold.
-17	3	Beth			unresolved	Q71 Q154544	Alif and Beth, Camilla, Mixo bold.
+17	3	Beth		Q71	context	Q71 Q154544	Alif and Beth, Camilla, Mixo bold.
 17	3	Camilla			unresolved		Alif and Beth, Camilla, Mixo bold.
 17	3	Mixo			unresolved		Alif and Beth, Camilla, Mixo bold.
 17	4	Alif		Q154545	file		Alif begat two daughters in her care:
@@ -580,7 +580,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 17	9	Korba		Q154551	file		Korba then mothered Chlorobia’s seed,
 17	9	Chlorobia			unresolved		Korba then mothered Chlorobia’s seed,
 17	9	Bactero			unresolved		And Bactero, whose brood spread wide on land.
-17	9	Hydra		Q52	context	Q52 Q131616 Q154111	Thus Hydra’s line advanced in timely deed,
+17	9	Hydra		Q52	file		Thus Hydra’s line advanced in timely deed,
 17	10	Terra		Q53	file		Meanwhile, fair Terra, Bacta’s other child,
 17	10	Bacta		Q46	file		Meanwhile, fair Terra, Bacta’s other child,
 17	10	Gram		Q154552	file		Stood quite bright in Gram-positivity
@@ -590,12 +590,12 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 17	11	Actina		Q76	file		Actina, mother of Actino's line,
 17	11	Actino		Q154554	file		Actina, mother of Actino's line,
 17	11	Prasina			unresolved		And Prasina, from whom two seeds were sown—
-17	11	Saya		Q84	context	Q84 Q153826	Saya and Chloroflexa, both divine.
-17	11	Chloroflexa		Q85	context	Q85 Q154302	Saya and Chloroflexa, both divine.
-17	12	Saya		Q84	context	Q84 Q153826	Saya the bacteria shed her coat,
+17	11	Saya		Q84	file		Saya and Chloroflexa, both divine.
+17	11	Chloroflexa		Q85	file		Saya and Chloroflexa, both divine.
+17	12	Saya		Q84	file		Saya the bacteria shed her coat,
 17	12	Gram		Q154552	file		Embracing Gram-negative ways for light.
 17	12	Bestowing			unresolved		Bestowing oxygen with force so bright.
-17	13	Chloroflexa		Q85	context	Q85 Q154302	Then Chloroflexa claimed her tapestry,
+17	13	Chloroflexa		Q85	file		Then Chloroflexa claimed her tapestry,
 17	13	Prasina			unresolved		Both born of wise Prasina's legacy,
 17	13	Earth		Q153812	file		They wove Earth's green with ancient expertise.
 17	14	Fermus		Q154299	file		Fermus, the other child of Terra's sphere,
@@ -603,7 +603,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 17	14	Firmicutie		Q74	file		Had two dear daughters: Firmicutie mild,
 17	14	Firmicutes			unresolved		Whose Firmicutes the soils far and near,
 17	14	Conan			unresolved		And Conan, iron-willed, in deserts wild.
-17	15	Hydra		Q52	context	Q52 Q131616 Q154111	Thus Hydra's line and Terra's line expand,
+17	15	Hydra		Q52	file		Thus Hydra's line and Terra's line expand,
 17	15	Terra		Q53	file		Thus Hydra's line and Terra's line expand,
 17	15	Bacta		Q46	file		Two families wrought from Bacta's old soul.
 18	1	Earth		Q153812	file		In ancient times, the Earth was calm and bright,
@@ -612,19 +612,19 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 18	1	Bacta		Q46	file		Arka and Bacta walked in shared delight,
 18	4	Earth		Q153812	file		These daughters of the Earth upheld their peace,
 18	5	Prasina			unresolved		Prasina, green, took in the rays deprived,
-18	5	Saya		Q84	consensus	Q84 Q153826	From her did Saya, Chloroflexi yield.
+18	5	Saya		Q84	file		From her did Saya, Chloroflexi yield.
 18	5	Chloroflexi		Q154556	file		From her did Saya, Chloroflexi yield.
 18	6	Chloroflexi		Q154556	file		Chloroflexi thrived by methods defined,
-18	6	Saya		Q84	consensus	Q84 Q153826	Yet Saya hungered, greed within her mind,
+18	6	Saya		Q84	file		Yet Saya hungered, greed within her mind,
 18	7	Unchecked			unresolved		Unchecked, her fervor choked the gentle skies,
 18	7	Banded			unresolved		Banded iron testified demise,
 18	8	Elohim		Q153921	file		The Elohim in chorus raised their plea:
 18	8	Reduce			unresolved		"""Reduce these fumes, or life itself will cease!"""
 18	8	Sol		Q153909	file		With Sol and Gaia, Luna's voice did agree,
 18	8	Gaia		Q43	file		With Sol and Gaia, Luna's voice did agree,
-18	8	Luna		Q54	context	Q54 Q153817	With Sol and Gaia, Luna's voice did agree,
-18	8	Saya		Q84	consensus	Q84 Q153826	They begged that Saya's reckless growth should lease.
-18	9	Saya		Q84	consensus	Q84 Q153826	Yet Saya pressed for ever-greater yield,
+18	8	Luna		Q54	file		With Sol and Gaia, Luna's voice did agree,
+18	8	Saya		Q84	file		They begged that Saya's reckless growth should lease.
+18	9	Saya		Q84	file		Yet Saya pressed for ever-greater yield,
 18	9	Earth		Q153812	file		While Earth’s deep scars revealed a mortal cry.
 18	10	Kamo			unresolved		At Kamo Shrines, a solemn pact was cast,
 18	10	Shrines			unresolved		At Kamo Shrines, a solemn pact was cast,
@@ -647,8 +647,8 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 19	2	Gravros		Q154305	file		Then Navros sired bold Gravros, strong and lean,
 19	3	Gravros		Q154305	file		Now Gravros wed fair Heimdalla the true,
 19	3	Heimdalla		Q65	file		Now Gravros wed fair Heimdalla the true,
-19	3	Poxus		Q64	context	Q64 Q154558	With Poxus born to take the viral helm.
-19	4	Poxus		Q64	context	Q64 Q154558	But Poxus was a warrior, fierce and wild,
+19	3	Poxus		Q64	file		With Poxus born to take the viral helm.
+19	4	Poxus		Q64	file		But Poxus was a warrior, fierce and wild,
 19	4	Aster		Q1	file		Yet Aster's plan had need of one more mild,
 19	5	Gravros		Q154305	file		So Gravros took another bride to wife,
 19	5	Mardöll			unresolved		Sweet Mardöll of the archaean strain.
@@ -659,36 +659,36 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 19	8	Proto			unresolved	Q130848 Q154112	Proto-Two then found his destined mate,
 19	8	Nuclella			unresolved		In Nuclella of the membrane wall.
 19	9	Aster		Q1	file		And from their union, blessed by Aster's grace,
-19	9	Euka		Q90	consensus	Q90 Q153809	Came Euka, first of all eukaryotic kind.
-19	10	Euka		Q90	consensus	Q90 Q153809	For Euka bore within his very core,
-19	11	Euka		Q90	consensus	Q90 Q153809	Now Euka wandered through the frozen sea,
+19	9	Euka		Q90	file		Came Euka, first of all eukaryotic kind.
+19	10	Euka		Q90	file		For Euka bore within his very core,
+19	11	Euka		Q90	file		Now Euka wandered through the frozen sea,
 19	12	Eve		Q30880	file		Fair Eve and Lilith, from one mother showed,
-19	12	Lilith		Q134843	context	Q92 Q134843 Q153823	Fair Eve and Lilith, from one mother showed,
-19	14	Lilith		Q134843	context	Q92 Q134843 Q153823	First Lilith came to greet the wandering youth,
-19	16	Euka		Q90	consensus	Q90 Q153809	And Euka, cold from wandering alone,
-19	16	Lilith		Q134843	context	Q92 Q134843 Q153823	Was drawn to Lilith's offer of embrace.
-19	17	Lilith		Q134843	context	Q92 Q134843 Q153823	But Lilith harbored secrets in her heart,
+19	12	Lilith		Q134843	file		Fair Eve and Lilith, from one mother showed,
+19	14	Lilith		Q134843	file		First Lilith came to greet the wandering youth,
+19	16	Euka		Q90	file		And Euka, cold from wandering alone,
+19	16	Lilith		Q134843	file		Was drawn to Lilith's offer of embrace.
+19	17	Lilith		Q134843	file		But Lilith harbored secrets in her heart,
 19	17	Ambitions			unresolved		Ambitions that she kept from Euka's sight.
-19	17	Euka		Q90	consensus	Q90 Q153809	Ambitions that she kept from Euka's sight.
+19	17	Euka		Q90	file		Ambitions that she kept from Euka's sight.
 19	18	Hengweh		Q154559	file		The trickster Hengweh whispered in her ear,
-19	19	Lilith		Q134843	context	Q92 Q134843 Q153823	And Lilith listened to the tempter's voice,
-19	20	Euka		Q90	consensus	Q90 Q153809	But Euka felt his sacred essence flown,
-19	23	Lilith		Q134843	context	Q92 Q134843 Q153823	But Lilith, cast out, burned with bitter rage,
-19	24	Lilith		Q134843	context	Q92 Q134843 Q153823	From Lilith's fury sprang her dreadful line:
+19	19	Lilith		Q134843	file		And Lilith listened to the tempter's voice,
+19	20	Euka		Q90	file		But Euka felt his sacred essence flown,
+19	23	Lilith		Q134843	file		But Lilith, cast out, burned with bitter rage,
+19	24	Lilith		Q134843	file		From Lilith's fury sprang her dreadful line:
 19	24	Rickettsia		Q154560	file		Dark Rickettsia with her spotted fever,
 19	24	Wolbachia		Q154561	file		Cruel Wolbachia with her love malign,
-19	25	Euka		Q90	consensus	Q90 Q153809	Would infiltrate the cells of Euka's line,
+19	25	Euka		Q90	file		Would infiltrate the cells of Euka's line,
 19	26	Eve		Q30880	file		But gentle Eve had watched her sister's fall,
-19	26	Euka		Q90	consensus	Q90 Q153809	When Euka, wounded, heard her tender call,
+19	26	Euka		Q90	file		When Euka, wounded, heard her tender call,
 19	27	Lord		Q153689	file		"""Great Lord,"" she said, ""I am not like my kin,"
-19	29	Euka		Q90	consensus	Q90 Q153809	And Euka, seeing Eve's devoted heart,
+19	29	Euka		Q90	file		And Euka, seeing Eve's devoted heart,
 19	29	Eve		Q30880	file		And Euka, seeing Eve's devoted heart,
 19	30	Mithra		Q153808	file		Great Mithra, god of sacred bonds and trust,
-19	31	Nucleus		Q154306	unique		"Nucleus and mitochondrial."""
+19	31	Nucleus		Q154306	file		"Nucleus and mitochondrial."""
 19	32	Eve		Q30880	file		Eve entered Euka's cellular embrace,
-19	32	Euka		Q90	consensus	Q90 Q153809	Eve entered Euka's cellular embrace,
+19	32	Euka		Q90	file		Eve entered Euka's cellular embrace,
 19	33	Converting		Q154562	file		Converting oxygen to fuel divine.
-19	33	Euka		Q90	consensus	Q90 Q153809	While Euka guarded their posterity,
+19	33	Euka		Q90	file		While Euka guarded their posterity,
 19	34	Reticulus		Q154307	file		Their first-born son was brave Reticulus,
 19	36	Flagella		Q154309	file		Then came their daughter, swift Flagella fair,
 19	38	Golgi		Q154563	file		Next born was Golgi, master of the trade,
@@ -697,21 +697,21 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 19	41	Vaultess		Q154565	file		And mighty Vaultess built her storage deep,
 19	42	Centriole			unresolved		The twins were born, both Centriole named,
 19	43	Ensured			unresolved		Ensured each daughter got her rightful share.
-19	44	Nucleus		Q154306	unique		Last came their son, brave Nucleus the Second,
-19	47	Lilith		Q134843	context	Q92 Q134843 Q153823	But Lilith's curse was not forgotten,
+19	44	Nucleus		Q154306	file		Last came their son, brave Nucleus the Second,
+19	47	Lilith		Q134843	file		But Lilith's curse was not forgotten,
 19	48	Rickettsia		Q154560	file		Rickettsia brought her spotted fever's bane,
 19	48	Wolbachia		Q154561	file		While Wolbachia enslaved her willing hosts.
-19	49	Euka		Q90	consensus	Q90 Q153809	Yet Euka's line grew strong despite the threat,
-19	49	Lilith		Q134843	context	Q92 Q134843 Q153823	What Lilith's spite and rage could beget
+19	49	Euka		Q90	file		Yet Euka's line grew strong despite the threat,
+19	49	Lilith		Q134843	file		What Lilith's spite and rage could beget
 19	50	Eve		Q30880	file		The faithful line of Eve would last.
-19	52	Euka		Q90	consensus	Q90 Q153809	From Euka's triumph, not his scorn.
+19	52	Euka		Q90	file		From Euka's triumph, not his scorn.
 19	53	Omega			unresolved		For when the Omega Point draws near,
 19	53	Aster		Q1	file		And Aster meets Andromeda's embrace,
 19	53	Andromeda		Q3	file		And Aster meets Andromeda's embrace,
-19	53	Euka		Q90	consensus	Q90 Q153809	The line of Euka, ever dear,
-19	55	Euka		Q90	consensus	Q90 Q153809	So honor Euka, first and true,
+19	53	Euka		Q90	file		The line of Euka, ever dear,
+19	55	Euka		Q90	file		So honor Euka, first and true,
 19	55	Eve		Q30880	file		And gentle Eve, his faithful bride.
-20	1	Euka		Q90	context	Q90 Q153809	Now Euka, in his cellular hall divine,
+20	1	Euka		Q90	file		Now Euka, in his cellular hall divine,
 20	1	Reflected			unresolved		Reflected on the gifts his love had made.
 20	2	Reticulus		Q154307	file		"""Behold Reticulus, my firstborn son,"
 20	3	Flagella		Q154309	file		And Flagella, daughter swift and fair,
@@ -719,12 +719,12 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 20	5	Peroxis		Q154564	file		Brave Peroxis breaks the fats with might,
 20	5	Vaultess		Q154565	file		While Vaultess stores our treasures safe and sound.
 20	5	Centrioles			unresolved		The Centrioles dance in perfect sight,
-20	6	Nucleus		Q154306	unique		Young Nucleus, keeper of the scrolls divine.
-20	7	Euka		Q90	context	Q90 Q153809	Thus Euka catalogued his proud creation,
+20	6	Nucleus		Q154306	file		Young Nucleus, keeper of the scrolls divine.
+20	7	Euka		Q90	file		Thus Euka catalogued his proud creation,
 20	8	Seth		Q134747	file		For Seth, his son, bore daughters of his own,
-20	8	Euka		Q90	context	Q90 Q153809	Two mighty lines from Euka's blood were bred.
+20	8	Euka		Q90	file		Two mighty lines from Euka's blood were bred.
 20	9	Seth		Q134747	file		Seth son of Euka wed Azura fair,
-20	9	Euka		Q90	context	Q90 Q153809	Seth son of Euka wed Azura fair,
+20	9	Euka		Q90	file		Seth son of Euka wed Azura fair,
 20	9	Azura		Q134748	file		Seth son of Euka wed Azura fair,
 20	10	Seth		Q134747	file		Through Seth came Resan, master of the scroll,
 20	10	Resan		Q154310	file		Through Seth came Resan, master of the scroll,
@@ -763,8 +763,8 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 20	23	Snowball			unresolved		And Snowball Earth gave way to liquid seas,
 20	23	Earth		Q153812	file		And Snowball Earth gave way to liquid seas,
 20	23	Nectarius		Q95	file		These children of Nectarius found their worth,
-20	24	Euka		Q90	context	Q90 Q153809	For now, let Euka's story rest quite well—
-20	26	Euka		Q90	context	Q90 Q153809	So honor Euka, father of us all,
+20	24	Euka		Q90	file		For now, let Euka's story rest quite well—
+20	26	Euka		Q90	file		So honor Euka, father of us all,
 20	26	Eve		Q30880	file		And Eve, the power-giver, ever true.
 21	1	Nectarius		Q95	file		Great Nectarius felt his destined hour.
 21	2	Ambrosia			unresolved	Q130696 Q153923	Fair Ambrosia, daughter of wise Jingu.
@@ -792,7 +792,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 21	18	Chlora		Q110	file		As Chlora entered Plastidus's embrace.
 21	18	Plastidus		Q104	file		As Chlora entered Plastidus's embrace.
 21	18	Eve		Q30880	file		Like Eve with Euka in the times beyond,
-21	18	Euka		Q90	context	Q90 Q153809	Like Eve with Euka in the times beyond,
+21	18	Euka		Q90	file		Like Eve with Euka in the times beyond,
 21	20	Plastidus		Q104	file		Thus Plastidus and Chlora, wise,
 21	20	Chlora		Q110	file		Thus Plastidus and Chlora, wise,
 21	21	Glauca		Q133257	file		Fair Glauca of the ancient, simple way,
@@ -849,8 +849,8 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 22	20	Haptistus			unresolved		Bold Haroses and wise Haptistus strong.
 22	21	Haroses		Q114	file		From Haroses came three mighty lords:
 22	21	Heterokon		Q124	file		Great Heterokon, master of the brown,
-22	21	Alveolus		Q125	context	Q125 Q154575	Alveolus with his swift-sailing hordes,
-22	21	Rhizar		Q126	context	Q126 Q153887	And Rhizar, bearer of the spiky crown.
+22	21	Alveolus		Q125	file		Alveolus with his swift-sailing hordes,
+22	21	Rhizar		Q126	file		And Rhizar, bearer of the spiky crown.
 22	22	Heterokon		Q124	file		Now Heterokon bore three sons so bold:
 22	22	Ochros		Q138	file		Brave Ochros of the golden algae bright,
 22	22	Oomy		Q136	file		And Oomy with his spines of liquid gold,
@@ -870,7 +870,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 22	28	Diana		Q175	file		"""In shells of glass,"" Diana proudly spoke,"
 22	30	Kelpus		Q155	file		Great Kelpus chose a different path to fame,
 22	31	Kelpus		Q155	file		"""My cities,"" boasted Kelpus with delight,"
-22	33	Alveolus		Q125	context	Q125 Q154575	Young Alveolus, seeking to dispose
+22	33	Alveolus		Q125	file		Young Alveolus, seeking to dispose
 22	33	Ochros		Q138	file		Of Ochros' monopoly on light.
 22	34	Okra		Q152	file		He stole fair Okra, Ochros' daughter true,
 22	34	Ochros		Q138	file		He stole fair Okra, Ochros' daughter true,
@@ -887,15 +887,15 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 22	44	Malarius		Q176	file		"""Why work,"" sneered Malarius with spite,"
 22	46	Solar		Q154576	file		Meanwhile the Solar Coalition formed,
 22	46	Coalition			unresolved		Meanwhile the Solar Coalition formed,
-22	47	Rhizar		Q126	context	Q126 Q153887	Rhizar the spiky, Oomy with his spines,
+22	47	Rhizar		Q126	file		Rhizar the spiky, Oomy with his spines,
 22	47	Oomy		Q136	file		Rhizar the spiky, Oomy with his spines,
 22	47	Haptos			unresolved	Q127 Q154317	And Haptos of the haptophyte clan
 22	50	Haptos			unresolved	Q127 Q154317	Haptos built himself armor bright and strong,
-22	50	Helios		Q140	context	Q140 Q130598 Q154577	While Helios his son consumed with greed.
+22	50	Helios		Q140	file		While Helios his son consumed with greed.
 22	51	Haptos Junior			unresolved		At last young Haptos Junior found success,
 22	51	Ochros		Q138	file		He stole a daughter of great Ochros' line.
-22	52	Rhizar		Q126	context	Q126 Q153887	And Rhizar's children mostly went astray.
-22	53	Rhizar		Q126	context	Q126 Q153887	For Rhizar's children learned to test and probe.
+22	52	Rhizar		Q126	file		And Rhizar's children mostly went astray.
+22	53	Rhizar		Q126	file		For Rhizar's children learned to test and probe.
 22	54	Animus			unresolved		Great Animus and Opima's line
 22	54	Opima			unresolved		Great Animus and Opima's line
 22	55	Ozymandias		Q154186	file		From them came bold Ozymandias,
@@ -919,11 +919,11 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 23	6	Embla		Q154581	file		"""We are alone,"" wept fair Embla,"
 23	7	Fear			unresolved		"""Fear not,"" said brave Lifthasir,"
 23	7	Lifthasir		Q154580	file		"""Fear not,"" said brave Lifthasir,"
-23	9	Florida		Q135	context	Q135 Q154318	Fair Florida with her consort true.
+23	9	Florida		Q135	file		Fair Florida with her consort true.
 23	9	Floridea			unresolved		They built the kingdom Floridea,
-23	13	Rhizar		Q126	consensus	Q126 Q153887	Great Rhizar found his chance to climb,
-23	14	Rhizar		Q126	consensus	Q126 Q153887	Bold Rhizar spoke with vision clear.
-23	15	Rhizar		Q126	consensus	Q126 Q153887	Rhizar bore two sons of might:
+23	13	Rhizar		Q126	file		Great Rhizar found his chance to climb,
+23	14	Rhizar		Q126	file		Bold Rhizar spoke with vision clear.
+23	15	Rhizar		Q126	file		Rhizar bore two sons of might:
 23	15	Nephillus		Q154582	file		Great Nephillus and wise Filoses.
 23	15	Filoses		Q154583	file		Great Nephillus and wise Filoses.
 23	16	Filoses		Q154583	file		Filoses bore two children bright:
@@ -935,7 +935,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 23	20	Thaumatus		Q154191	file		Among Thaumatus' children came
 23	20	Paul		Q154578	file		One Paul, who envied others' power.
 23	22	Paulinellus		Q154585	file		At last his descendant Paulinellus
-23	22	Saya		Q84	consensus	Q84 Q153826	Found a daughter of Saya's line.
+23	22	Saya		Q84	file		Found a daughter of Saya's line.
 23	23	Cyanobacteria		Q154586	file		Cyanobacteria joined a host.
 23	23	Paulinellus		Q154585	file		Would be Paulinellus' boast.
 23	25	Nephillus		Q154582	file		Meanwhile great Nephillus the strong
@@ -956,7 +956,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 23	36	Retar		Q154119	file		Wise Retar the artist's name,
 23	36	Acanthar		Q189	file		And Acanthar who forged so well.
 23	37	Zancleus		Q154588	file		Zancleus joined with Helios' clan,
-23	37	Helios		Q140	context	Q140 Q130598 Q154577	Zancleus joined with Helios' clan,
+23	37	Helios		Q140	file		Zancleus joined with Helios' clan,
 23	38	Retar		Q154119	file		But Retar chose the artist's way,
 23	39	Retar		Q154119	file		From Retar came two sons of note:
 23	39	Foramer		Q193	file		Bold Foramer with chambers grand,
@@ -972,14 +972,14 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 23	46	Spiculus			unresolved		Bold Spiculus with spines so sharp,
 23	46	Oceana			unresolved		And fair Oceana, ocean's light,
 23	49	Hilluhengweh			unresolved		For Hilluhengweh was not done,
-23	51	Rhizar		Q126	consensus	Q126 Q153887	The children of great Rhizar's line
+23	51	Rhizar		Q126	file		The children of great Rhizar's line
 23	53	Hilluhengweh			unresolved		From Hilluhengweh's gamma ray
-24	1	Choanos		Q129	context	Q129 Q153898	In the age when Choanos ruled the sea,
+24	1	Choanos		Q129	file		In the age when Choanos ruled the sea,
 24	1	Earth		Q153812	file		The Earth was wild, uncivilized, and young.
 24	1	Proterozoic			unresolved		The learned call this time Proterozoic,
-24	2	Choanos		Q129	context	Q129 Q153898	But Choanos was a fertile lord,
+24	2	Choanos		Q129	file		But Choanos was a fertile lord,
 24	3	Volvox			unresolved	Q206 Q154120	He gazed upon great Volvox' sphere,
-24	3	Choanos		Q129	context	Q129 Q153898	"Said Choanos, ""while mine grows old?"""
+24	3	Choanos		Q129	file		"Said Choanos, ""while mine grows old?"""
 24	5	Chana		Q154590	file		With fair Chana by his side,
 24	6	Mebarasi		Q154591	file		Mebarasi bore the name
 24	7	Corona		Q154195	file		And Corona, daughter fair,
@@ -1001,7 +1001,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 24	14	Embili		Q154196	file		From Sibhozo and Embili
 24	14	Trios			unresolved		Came Trios and Tetra bold.
 24	14	Tetra		Q154323	file		Came Trios and Tetra bold.
-24	15	Choanos		Q129	context	Q129 Q153898	The sons of Choanos spread their art,
+24	15	Choanos		Q129	file		The sons of Choanos spread their art,
 24	15	Attaching			unresolved		Attaching to the rocks below.
 24	18	Sibhozo		Q164	file		Sibhozo ruled eight cells with pride,
 24	18	Hexadex		Q179	file		While Hexadex commanded sixteen.
@@ -1015,7 +1015,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 24	29	Rally			unresolved		"""Rally up!"" brave Sexagesmus called,"
 24	29	Sexagesmus		Q210	file		"""Rally up!"" brave Sexagesmus called,"
 24	31	Pseudopods			unresolved		Pseudopods reaching out.
-24	36	Choanos		Q129	context	Q129 Q153898	While Choanos' sons remained
+24	36	Choanos		Q129	file		While Choanos' sons remained
 24	39	Sexagesmus		Q210	file		"""This is the birth,"" Sexagesmus said,"
 24	41	Pleodoron		Q222	file		Pleodoron ruled one hundred twenty-eight,
 24	41	Bytos		Q154594	file		While Bytos commanded twice that score.
@@ -1037,11 +1037,11 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 24	53	Volvox-Choan			unresolved		Volvox-Choan cried in pain.
 24	54	Doomed			unresolved		"Doomed to fail indeed?"""
 24	59	Carcinoma		Q243	file		And though Carcinoma's name
-24	61	Choanos		Q129	context	Q129 Q153898	The sons of Choanos taught us well
-24	63	Choanos		Q129	context	Q129 Q153898	So honor brave Choanos,
+24	61	Choanos		Q129	file		The sons of Choanos taught us well
+24	63	Choanos		Q129	file		So honor brave Choanos,
 24	63	Chana		Q154590	file		And Chana by his side.
 24	66	Neoproterozoic			unresolved		From Neoproterozoic seas
-24	68	Choanos		Q129	context	Q129 Q153898	The age of Choanos shows
+24	68	Choanos		Q129	file		The age of Choanos shows
 25	1	Carcinoma		Q243	file		Now Carcinoma was born beneath a cursed star,
 25	1	Cancer		Q154327	file		Under the sign of Cancer's deadly light.
 25	6	Carcinoma		Q243	file		"""I am Carcinoma,"" she declared,"
@@ -1062,20 +1062,20 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 25	24	Carcinoma		Q243	file		Carcinoma renamed the city proud,
 25	24	Volvox-Choan			unresolved		"""No more Volvox-Choan's name!"
 25	24	Gehenna		Q154328	file		I'll call it Gehenna loud,
-25	27	Anima			unresolved	Q93 Q153899	Brave Anima at the helm,
+25	27	Anima		Q93	consensus	Q93 Q153899	Brave Anima at the helm,
 25	27	Metazo		Q153888	file		And Metazo facing wraith.
 25	28	Lord		Q153689	file		They honored still Lord Mithra's way,
 25	28	Mithra		Q153808	file		They honored still Lord Mithra's way,
-25	29	Anima			unresolved	Q93 Q153899	Anima fled her ruined farm,
+25	29	Anima		Q93	consensus	Q93 Q153899	Anima fled her ruined farm,
 25	29	Metazo		Q153888	file		While Metazo left his post.
 25	30	Carcinoma		Q243	file		Carcinoma cried in rage.
-25	31	Anima			unresolved	Q93 Q153899	But Anima and Metazo true
+25	31	Anima		Q93	consensus	Q93 Q153899	But Anima and Metazo true
 25	31	Metazo		Q153888	file		But Anima and Metazo true
 25	32	Mithra		Q153808	file		In Mithra's blessed sight.
 25	33	Animal			unresolved		"""The Animal Kingdom,"" they declared,"
 25	34	Zooxanthellae		Q154330	file		To call the Zooxanthellae home.
 25	36	Carcinoma		Q243	file		Carcinoma's paradise
-25	37	Anima			unresolved	Q93 Q153899	So Anima and Metazo wise
+25	37	Anima		Q93	consensus	Q93 Q153899	So Anima and Metazo wise
 25	37	Metazo		Q153888	file		So Anima and Metazo wise
 25	38	Guardian			unresolved		The Guardian of the Genome came,
 25	38	Genome			unresolved		The Guardian of the Genome came,
@@ -1095,32 +1095,32 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 25	49	Germlines			unresolved		While Germlines carry on.
 25	50	Carcinoma		Q243	file		Yet sometimes Carcinoma's ghost
 25	50	Whispers			unresolved		Whispers to cells grown old:
-25	52	Anima			unresolved	Q93 Q153899	So honor brave Anima,
+25	52	Anima		Q93	consensus	Q93 Q153899	So honor brave Anima,
 25	52	Metazo		Q153888	file		And Metazo the true.
 25	52	Animal			unresolved		Their Animal saga
 25	52	Guides		Q154605	file		Guides me and you.
 25	55	Carcinoma		Q243	file		From Carcinoma's rebel cry
-25	55	Anima			unresolved	Q93 Q153899	To Anima's ordered realm,
+25	55	Anima		Q93	consensus	Q93 Q153899	To Anima's ordered realm,
 25	56	Animal			unresolved		The Animal Kingdom stands today
-26	1	Euka		Q90	consensus	Q90 Q153809	From Euka's line arose kingdoms three,
+26	1	Euka		Q90	file		From Euka's line arose kingdoms three,
 26	2	Plantus		Q153833	file		The Kingdom of proud Plantus rose,
 26	2	Mygus			unresolved	Q120 Q153890	The realm of Mygus, where fungus flows,
 26	2	Metazo		Q153888	file		And Metazo's beasts in ordered rows.
 26	3	Mygaster			unresolved	Q107 Q154606	Mygaster's realm, Kelpus' heights,
 26	3	Kelpus		Q155	file		Mygaster's realm, Kelpus' heights,
-26	3	Rhizar		Q126	consensus	Q126 Q153887	Rhizar's spears, Cilliofer's sights,
+26	3	Rhizar		Q126	file		Rhizar's spears, Cilliofer's sights,
 26	3	Cilliofer			unresolved		Rhizar's spears, Cilliofer's sights,
 26	3	Oomy		Q136	file		And Oomy's spines in endless fights.
 26	4	Myzo		Q161	file		The sons of Myzo swam in blood,
 26	4	Myxo			unresolved	Q73 Q154607	While Myxo's daughters sought their food.
 26	5	Metazo		Q153888	file		From Metazo and fair Anima
-26	5	Anima			unresolved	Q93 Q153899	From Metazo and fair Anima
+26	5	Anima		Q93	context	Q93 Q153899	From Metazo and fair Anima
 26	5	Mygus			unresolved	Q120 Q153890	From Mygus and sweet Funga
 26	5	Funga		Q154609	file		From Mygus and sweet Funga
 26	6	Plantus		Q153833	file		While Plantus and Virita bright
 26	6	Virita		Q154319	file		While Plantus and Virita bright
 26	7	Metazo		Q153888	file		Great Metazo and Anima
-26	7	Anima			unresolved	Q93 Q153899	Great Metazo and Anima
+26	7	Anima		Q93	context	Q93 Q153899	Great Metazo and Anima
 26	7	Animal			unresolved		The Animal Kingdom's first hurrah.
 26	8	Choanocytes		Q154331	file		The Choanocytes, fishermen,
 26	8	Archaeocytes		Q154601	file		The Archaeocytes, women refined,
@@ -1183,8 +1183,8 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 26	64	Animal			unresolved		The Animal Kingdom's start
 27	1	Anu		Q332	file		From Anu's unique lineage came
 27	1	Enki		Q343	file		Bold Enki, seeker of the sea,
-27	1	Homos		Q344	context	Q344 Q154628	And Homos, keeping family.
-27	2	Homos		Q344	context	Q344 Q154628	While Homos chose his father's way,
+27	1	Homos		Q344	file		And Homos, keeping family.
+27	2	Homos		Q344	file		While Homos chose his father's way,
 27	2	Content			unresolved		Content to live as they always stay,
 27	2	Enki		Q343	file		Great Enki felt adventure's call
 27	3	Enki		Q343	file		Declared brave Enki with great pride.
@@ -1385,7 +1385,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 29	46	Mygus			unresolved	Q120 Q153890	Of Symbio-Mygus' sight
 29	46	Charina		Q153924	file		And Charina-Planta's power,
 29	46	Planta			unresolved	Q94 Q153922	And Charina-Planta's power,
-29	48	Saya		Q84	consensus	Q84 Q153826	Like daughters of Saya before,
+29	48	Saya		Q84	file		Like daughters of Saya before,
 29	49	Cryogenian			unresolved		And so began the Cryogenian,
 29	51	Symbio			unresolved		So honor Symbio-Mygus true
 29	51	Mygus			unresolved	Q120 Q153890	So honor Symbio-Mygus true
@@ -1395,13 +1395,13 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 30	1	Cnider		Q153819	file		This is the chronicle of Cnider,
 30	3	Siphonoglyph			unresolved		A Siphonoglyph, perfectly spaced.
 30	4	Cnider		Q153819	file		Great Cnider made a sacred pact
-30	4	Luna		Q54	consensus	Q54 Q153817	With Luna, keeping their contract.
+30	4	Luna		Q54	file		With Luna, keeping their contract.
 30	5	Anthus			unresolved	Q134363 Q154210	Traditional Anthus, shining bright,
 30	5	Anaxydros		Q154645	file		And bold Anaxydros the new,
-30	6	Luna		Q54	consensus	Q54 Q153817	To this day when Luna's face
+30	6	Luna		Q54	file		To this day when Luna's face
 30	6	Cnider		Q153819	file		The sons of Cnider and fair Nettle
 30	6	Nettle		Q154646	file		The sons of Cnider and fair Nettle
-30	7	Luna		Q54	consensus	Q54 Q153817	As Luna's ancient song is sung.
+30	7	Luna		Q54	file		As Luna's ancient song is sung.
 30	8	Anthus			unresolved	Q134363 Q154210	Now Anthus kept the ancient way,
 30	9	Anaxydros		Q154645	file		But bold Anaxydros chose to change,
 30	9	Pompom		Q154352	file		Pompom and Meduson true.
@@ -1438,7 +1438,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 30	36	Cnider		Q153819	file		From Cnider's rocky throne
 30	37	Cnider		Q153819	file		Remember Cnider's art
 30	39	Cnider		Q153819	file		So honor great Cnider,
-30	40	Luna		Q54	consensus	Q54 Q153817	His covenant with Luna's light
+30	40	Luna		Q54	file		His covenant with Luna's light
 30	41	Cnider		Q153819	file		Still follow Cnider's way:
 31	1	Cambrius		Q153836	file		When Cambrius and Spriggina died,
 31	1	Spriggina		Q154650	file		When Cambrius and Spriggina died,
@@ -1511,7 +1511,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 32	19	Monsters			unresolved		Monsters in the deep they are
 32	20	Isaac		Q129309	file		From Isaac came two sons of fame:
 32	20	Nematus		Q154212	file		Nematus was his name,
-32	20	Rhineheart		Q30405	consensus	Q30405 Q154213	And Rhineheart, bold and strong,
+32	20	Rhineheart		Q30405	file		And Rhineheart, bold and strong,
 32	21	Nematus		Q154212	file		Nematus was quick and spry,
 32	21	Nematus		Q154212	file		Nematus II and Gordy's song.
 32	21	Gordy		Q154358	file		Nematus II and Gordy's song.
@@ -1519,7 +1519,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 32	26	Gordy		Q154358	file		But Gordy chose the parasite way
 32	27	Gordian			unresolved		The Gordian worms are his line,
 32	27	Horrific		Q154661	file		Horrific by design.
-32	28	Rhineheart		Q30405	consensus	Q30405 Q154213	From Rhineheart came two more:
+32	28	Rhineheart		Q30405	file		From Rhineheart came two more:
 32	28	Lobopus		Q154128	file		Lobopus to explore
 32	28	Loricus		Q154197	file		And brave Loricus, armored well
 32	29	Loricus		Q154197	file		Loricus built armor thick
@@ -1618,7 +1618,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 34	37	Treptichnal			unresolved		Treptichnal burrows deep
 34	38	Ectus		Q153828	file		A son of Ectus made
 34	39	Ediacaro		Q154675	file		And so Ediacaro fell
-34	39	Saya		Q84	consensus	Q84 Q153826	The mats of Saya old
+34	39	Saya		Q84	file		The mats of Saya old
 34	39	Desulfa		Q154671	file		And Desulfa's hold
 34	40	Cambrian			unresolved		Of pre-Cambrian days.
 34	41	Fortunian		Q154131	file		The Fortunian time had come
@@ -1700,15 +1700,15 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 35	33	Kerygmachelon		Q154690	file		Kerygmachelon the great
 35	33	Pambdelurion		Q154691	file		He bore son Pambdelurion,
 35	34	Pambdelurion		Q154691	file		Pambdelurion bore three
-35	34	Arthur		Q30425	consensus	Q30425 Q153814	Arthur strong and true,
+35	34	Arthur		Q30425	file		Arthur strong and true,
 35	34	Anomalos		Q154370	file		Anomalos who grew
 35	34	Opabinia		Q154368	file		Opabinia the bright,
-35	35	Arthur		Q30425	consensus	Q30425 Q153814	Arthur built armor strong
+35	35	Arthur		Q30425	file		Arthur built armor strong
 35	37	Anomalos		Q154370	file		The sons of Anomalos ruled
 35	38	Ghedos		Q154692	file		From realm of Ghedos dark
 35	40	Anomalos		Q154370	file		O Anomalos from thy crown!
 35	42	Opabinia		Q154368	file		But fair Opabinia's daughters all
-35	43	Arthur		Q30425	consensus	Q30425 Q153814	And Arthur Ironfoot's line
+35	43	Arthur		Q30425	file		And Arthur Ironfoot's line
 35	43	Ironfoot		Q153925	file		And Arthur Ironfoot's line
 35	44	Arthropods			unresolved		The Arthropods they became
 35	45	Lobopus		Q154128	file		From Lobopus came the tide
@@ -1719,12 +1719,12 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 35	48	Cyath		Q154369	file		Remember Cyath's art
 35	49	Annika		Q154219	file		Annika's caring way
 35	50	Ursus		Q154220	file		Ursus' strength endures
-35	51	Arthur		Q30425	consensus	Q30425 Q153814	Arthur's innovation
+35	51	Arthur		Q30425	file		Arthur's innovation
 35	52	Cambrius		Q153836	file		The sons of Cambrius changed
 35	53	Lines			unresolved		Lines of lasting fame:
-36	1	Arthur		Q30425	consensus	Q30425 Q153814	Of Arthur Ironfoot so well.
+36	1	Arthur		Q30425	file		Of Arthur Ironfoot so well.
 36	1	Ironfoot		Q153925	file		Of Arthur Ironfoot so well.
-36	2	Arthur		Q30425	consensus	Q30425 Q153814	Arthur bore two sons of fame:
+36	2	Arthur		Q30425	file		Arthur bore two sons of fame:
 36	2	Arthropus		Q154225	file		Arthropus, double-legged by name,
 36	2	Fuxi		Q6433	file		And Fuxi, wise and strong,
 36	3	Arthropus		Q154225	file		Arthropus the double-legged
@@ -1809,7 +1809,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 36	40	Segmented			unresolved		Segmented bodies bore
 36	42	Yakutian		Q154373	file		The Yakutian time had come
 36	42	Trilobites		Q153902	file		When Trilobites were sum
-36	43	Arthur		Q30425	consensus	Q30425 Q153814	From Arthur's innovation
+36	43	Arthur		Q30425	file		From Arthur's innovation
 36	43	Insects		Q154228	file		Insects, spiders, crabs,
 36	44	Sea			unresolved		The Sea Spiders so strange
 36	44	Spiders		Q154132	file		The Sea Spiders so strange
@@ -1818,27 +1818,27 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 36	47	Trilobites		Q153902	file		Of Trilobites by name.
 36	48	Pantopus		Q154226	file		From Pantopus and Pyka's love
 36	48	Pyka		Q154371	file		From Pantopus and Pyka's love
-36	48	Arthur		Q30425	consensus	Q30425 Q153814	Arthur's legacy spread
+36	48	Arthur		Q30425	file		Arthur's legacy spread
 36	50	Sparked			unresolved		Sparked this radiation
-36	53	Arthur		Q30425	consensus	Q30425 Q153814	Remember Arthur's art
+36	53	Arthur		Q30425	file		Remember Arthur's art
 36	53	Ironfoot		Q153925	file		The Ironfoot legacy
-36	54	Arthur		Q30425	consensus	Q30425 Q153814	The sons of Arthur proved
+36	54	Arthur		Q30425	file		The sons of Arthur proved
 36	56	Yakutian		Q154373	file		The Yakutian age begun
 36	56	Trilobites		Q153902	file		When Trilobites had won
-36	58	Arthur		Q30425	consensus	Q30425 Q153814	Yet Arthur's gift lives on
+36	58	Arthur		Q30425	file		Yet Arthur's gift lives on
 37	1	Cambrius		Q153836	file		Among the sons of Cambrius
 37	1	Chordatus		Q412	file		Chordatus, son of Dutrus true,
 37	1	Dutrus		Q153834	file		Chordatus, son of Dutrus true,
 37	1	Annelidus		Q487	file		And Annelidus, strong through and through.
 37	2	Hydrostatic			unresolved		Hydrostatic pressure high.
 37	7	Annelon		Q154133	file		From Annelon came two sons:
-37	7	Segmentus		Q154377	unique		Segmentus when day begun
+37	7	Segmentus		Q154377	file		Segmentus when day begun
 37	7	Ribbon		Q154378	file		And Ribbon, hunter of the deep
 37	8	Ribbon		Q154378	file		Ribbon built a proboscis long
 37	9	Ribbon		Q154378	file		As Ribbon Worms who slay
 37	9	Worms		Q154130	file		As Ribbon Worms who slay
-37	10	Segmentus		Q154377	unique		Segmentus built his body wise
-37	13	Segmentus		Q154377	unique		Segmentus bore two sons:
+37	10	Segmentus		Q154377	file		Segmentus built his body wise
+37	13	Segmentus		Q154377	file		Segmentus bore two sons:
 37	13	Pleistos			unresolved	Q130294 Q154712	Pleistos when day begun
 37	13	Amphon		Q154713	file		And Amphon of the sea
 37	14	Amphon		Q154713	file		Amphon bore a son and daughter:
@@ -1902,7 +1902,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 37	45	Pompeii			unresolved	Q284 Q154726	Pompeii chose to dwell
 37	46	Acros			unresolved	Q285 Q154727	Acros became the sire
 37	46	Squidworm			unresolved		Squidworm and Swima too
-37	46	Swima		Q154710	unique		Squidworm and Swima too
+37	46	Swima		Q154710	file		Squidworm and Swima too
 37	47	Clitella		Q154724	file		Clitella was small of head
 37	49	Earthworms			unresolved		Earthworms who till and tell
 37	50	Leeches			unresolved		And Leeches who feed
@@ -2049,26 +2049,26 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 40	2	Terra		Q53	file		A millionth reaches Terra's seas
 40	3	Bacta		Q46	file		And so the daughters of Bacta
 40	3	Farm			unresolved		Farm with light most attracta.
-40	3	Saya		Q84	consensus	Q84 Q153826	Of Saya answer light's call.
+40	3	Saya		Q84	file		Of Saya answer light's call.
 40	4	Blue			unresolved		The Blue Green Algae spread
 40	4	Green			unresolved		The Blue Green Algae spread
 40	4	Algae		Q154397	file		The Blue Green Algae spread
 40	5	Viros		Q8	file		The sons of Viros take
-40	5	Saya		Q84	consensus	Q84 Q153826	From daughters of Saya they steal
-40	6	Saya		Q84	consensus	Q84 Q153826	While daughters of Saya became
+40	5	Saya		Q84	file		From daughters of Saya they steal
+40	6	Saya		Q84	file		While daughters of Saya became
 40	7	Connections			unresolved		Connections strange and true.
 40	8	Pelagia		Q148359	file		The daughters of Pelagia,
 40	8	Benevolence			unresolved		Benevolence would show
 40	9	Cyanobacteria		Q154586	file		Of Cyanobacteria.
-40	11	Saya		Q84	consensus	Q84 Q153826	Who came before Saya's line
+40	11	Saya		Q84	file		Who came before Saya's line
 40	12	Roseobella		Q154741	file		Roseobella, daughter great
 40	12	Elah		Q154742	file		Of Elah's loving state
 40	15	Choanoflagellates		Q154745	file		The Choanoflagellates' line—
-40	16	Choanos		Q129	consensus	Q129 Q153898	Alongside sons of Choanos
+40	16	Choanos		Q129	file		Alongside sons of Choanos
 40	16	Algae		Q154397	file		Golden Algae bright and fair
 40	17	Dinoflagellus		Q154117	file		The sons of Dinoflagellus
 40	17	Chrysalgos			unresolved		Of Chrysalgos and Choanos,
-40	17	Choanos		Q129	consensus	Q129 Q153898	Of Chrysalgos and Choanos,
+40	17	Choanos		Q129	file		Of Chrysalgos and Choanos,
 40	21	Dinoflagellus		Q154117	file		The sons of Dinoflagellus
 40	24	Rotifers		Q154214	file		And soon the Rotifers
 40	24	Swooped			unresolved		Swooped in as officers
@@ -2230,13 +2230,13 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 42	15	Leviathan		Q153810	file		Of Leviathan begun
 42	16	Emperor			unresolved		To be Emperor supreme.
 42	18	Coral			unresolved		In great Coral cities
-42	19	Euka		Q90	consensus	Q90 Q153809	The sons of Euka came
+42	19	Euka		Q90	file		The sons of Euka came
 42	20	Ordovices		Q153926	file		Ordovices put to work
 42	20	Cnider		Q153819	file		The sons of Cnider (perk
 42	21	Anthus			unresolved	Q134363 Q154210	And so the sons of Anthus
 42	22	Ordovices		Q153926	file		Ordovices had daughters
 42	22	Coraline			unresolved		Of Coraline build waters
-42	23	Florida		Q135	context	Q135 Q154318	Of Florida, who came
+42	23	Florida		Q135	file		Of Florida, who came
 42	23	Rhodes		Q122	file		From Rhodes of ancient name.
 42	23	Algae		Q154397	file		They built coralline Algae,
 42	24	Corals		Q154649	file		Upon the great Corals.
@@ -2806,7 +2806,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 49	51	Seeds			unresolved		Seeds for another day.
 49	52	Mygus			unresolved	Q120 Q153890	In death, Mygus' sons
 49	52	Hera			unresolved	Q74653 Q130560 Q154251	Hera, daughter true,
-49	52	Freyr			unresolved	Q169 Q154826	And Freyr, strong through and through,
+49	52	Freyr		Q169	consensus	Q169 Q154826	And Freyr, strong through and through,
 49	55	Mithra		Q153808	file		But heard what Mithra said:
 49	56	Postpone			unresolved		Postpone your marriage-bed
 49	60	Dikaryotic			unresolved		Dikaryotic cells
@@ -2924,14 +2924,14 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 50	56	Inflated			unresolved		Inflated with the blood
 50	57	Fat			unresolved		Fat with others' pain
 50	59	Ricinus			unresolved		By Ricinus the blood
-50	60	Lilith		Q134843	consensus	Q92 Q134843 Q153823	When Lilith's blood flows in
+50	60	Lilith		Q134843	file		When Lilith's blood flows in
 50	60	Typhus			unresolved		Typhus brings its blight
 50	61	Spotted			unresolved		And Spotted Fever too
 50	61	Fever			unresolved		And Spotted Fever too
 50	63	Midichlorians			unresolved		The Midichlorians live
 50	63	Ricinus			unresolved		In what Ricinus' give:
-50	63	Lilith		Q134843	consensus	Q92 Q134843 Q153823	Lives Lilith's bacteria—
-50	65	Lilith		Q134843	consensus	Q92 Q134843 Q153823	Of Lilith, and the sum
+50	63	Lilith		Q134843	file		Lives Lilith's bacteria—
+50	65	Lilith		Q134843	file		Of Lilith, and the sum
 50	65	Malarius		Q176	file		Malarius' dark days
 50	66	Lyme			unresolved		And Lyme and all the rest
 50	67	Ricinus			unresolved		Ricinus, father of
@@ -3199,51 +3199,51 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 53	118	Tracheus			unresolved		From Polycomb to Tracheus,
 53	124	Tracheus			unresolved		The plants that Tracheus made
 53	127	Devonian			unresolved		The Devonian age began
-54	1	Devon			unresolved	Q287 Q153813	Devon's city was the greatest sight
+54	1	Devon		Q287	context	Q287 Q153813	Devon's city was the greatest sight
 54	2	Devonian			unresolved		Devonian, enthralled
-54	2	Devon			unresolved	Q287 Q153813	By Devon's mighty rule
-54	3	Devon			unresolved	Q287 Q153813	As Devon sat upon
+54	2	Devon		Q287	context	Q287 Q153813	By Devon's mighty rule
+54	3	Devon		Q287	context	Q287 Q153813	As Devon sat upon
 54	4	Notched			unresolved		Notched and beautiful
-54	6	Saya		Q84	consensus	Q84 Q153826	By Saya's daughters' song.
-54	13	Devon			unresolved	Q287 Q153813	When Devon moved his frame
+54	6	Saya		Q84	file		By Saya's daughters' song.
+54	13	Devon		Q287	context	Q287 Q153813	When Devon moved his frame
 54	19	Pancreas			unresolved		Pancreas and gallbladder
 54	19	Partners		Q154416	file		Partners in the art
 54	22	Life			unresolved		Life's most essential thing:
 54	22	Fats			unresolved		Fats and sugars sweet,
 54	22	Proteins			unresolved		Proteins complete,
 54	23	Phosphorus		Q132052	file		Phosphorus and metals
-54	29	Devon			unresolved	Q287 Q153813	When Devon married fair
+54	29	Devon		Q287	context	Q287 Q153813	When Devon married fair
 54	31	Llŷr		Q136010	file		Llŷr and Stennisio,
 54	31	Stennisio		Q154448	file		Llŷr and Stennisio,
 54	32	Stennisio		Q154448	file		The sons of Stennisio
 54	34	Llŷr		Q136010	file		Llŷr begat Bran so strong
-54	34	Bran		Q30369	context	Q30369 Q154867	Llŷr begat Bran so strong
-54	35	Bran		Q30369	context	Q30369 Q154867	Bran begat Caradoc,
+54	34	Bran		Q30369	file		Llŷr begat Bran so strong
+54	35	Bran		Q30369	file		Bran begat Caradoc,
 54	35	Caradoc		Q30373	file		Bran begat Caradoc,
 54	36	Caradoc		Q30373	file		Caradoc begat three:
-54	36	Cynan		Q30377	context	Q30377 Q153750 Q154869	Cynan of the sea,
+54	36	Cynan		Q30377	file		Cynan of the sea,
 54	36	Acantho		Q30381	file		Acantho, strong and true,
 54	36	Sudopedal		Q30518	file		And Sudopedal too.
 54	37	Acantho		Q30381	file		The daughters of Acantho
-54	38	Cynan		Q30377	context	Q30377 Q153750 Q154869	Cynan begat Cadwr,
-54	38	Cadwr		Q30385	context	Q30385 Q154871	Cynan begat Cadwr,
-54	39	Cadwr		Q30385	context	Q30385 Q154871	Cadwr begat Eudaf,
-54	39	Eudaf			unresolved	Q30389 Q154872	Cadwr begat Eudaf,
-54	40	Eudaf			unresolved	Q30389 Q154872	Eudaf begat Morfawr,
-54	40	Morfawr		Q30393	context	Q30393 Q154873	Eudaf begat Morfawr,
-54	41	Morfawr		Q30393	context	Q30393 Q154873	Morfawr begat two sons:
-54	41	Tudwal		Q30397	context	Q30397 Q135811 Q154874	Tudwal when day begun
-54	41	Rhineheart		Q30405	context	Q30405 Q154213	And Rhineheart the strong
-54	42	Rhineheart		Q30405	context	Q30405 Q154213	Rhineheart lived upon
+54	38	Cynan		Q30377	file		Cynan begat Cadwr,
+54	38	Cadwr		Q30385	file		Cynan begat Cadwr,
+54	39	Cadwr		Q30385	file		Cadwr begat Eudaf,
+54	39	Eudaf		Q30389	context	Q30389 Q154872	Cadwr begat Eudaf,
+54	40	Eudaf		Q30389	context	Q30389 Q154872	Eudaf begat Morfawr,
+54	40	Morfawr		Q30393	file		Eudaf begat Morfawr,
+54	41	Morfawr		Q30393	file		Morfawr begat two sons:
+54	41	Tudwal		Q30397	file		Tudwal when day begun
+54	41	Rhineheart		Q30405	file		And Rhineheart the strong
+54	42	Rhineheart		Q30405	file		Rhineheart lived upon
 54	42	Rhine			unresolved		The Rhine when day begun,
-54	45	Tudwal		Q30397	context	Q30397 Q135811 Q154874	Tudwal begat two more:
+54	45	Tudwal		Q30397	file		Tudwal begat two more:
 54	45	Cynfawr		Q30401	file		Cynfawr to explore
-54	45	Antiarchon		Q30413	context	Q30413 Q154162	And Antiarchon wild
-54	46	Antiarchon		Q30413	context	Q30413 Q154162	Antiarchon rebelled
+54	45	Antiarchon		Q30413	file		And Antiarchon wild
+54	46	Antiarchon		Q30413	file		Antiarchon rebelled
 54	47	Archons			unresolved		He stood against Archons—
 54	47	Anarchist			unresolved		An Anarchist who spawns
 54	47	Revolution			unresolved		Revolution in his heart
-54	51	Antiarchon		Q30413	context	Q30413 Q154162	The sons of Antiarchon
+54	51	Antiarchon		Q30413	file		The sons of Antiarchon
 54	52	Animus			unresolved		Animus day and night
 54	53	Cynfawr		Q30401	file		But Cynfawr chose instead
 54	54	Custennin		Q30409	file		Custennin was his son
@@ -3252,16 +3252,16 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 54	57	Uther		Q30417	file		Uther, tried and true,
 54	57	Petallon		Q30421	file		And Petallon so bright
 54	58	Uther		Q30417	file		Uther begat then
-54	58	Arthur		Q30425	context	Q30425 Q153814	Arthur and Maxil strong
-54	58	Maxil		Q30429	context	Q30429 Q154449	Arthur and Maxil strong
-54	59	Arthur		Q30425	context	Q30425 Q153814	Arthur bore in time
+54	58	Arthur		Q30425	file		Arthur and Maxil strong
+54	58	Maxil		Q30429	file		Arthur and Maxil strong
+54	59	Arthur		Q30425	file		Arthur bore in time
 54	59	Arthur the Younger			unresolved		Arthur the Younger, who'd
 54	60	Ptycho		Q30437	file		And Ptycho, maiden fair
 54	61	Ptycho		Q30437	file		The daughters of fair Ptycho
 54	61	Mary		Q30510	context	Q30510 Q138539 Q149175 Q154257	Mary, whose fate
 54	63	Mary		Q30510	context	Q30510 Q138539 Q149175 Q154257	Mary, Mother of
 54	63	Icthys		Q30514	file		Icthys, blessed with love
-54	65	Arthur		Q30425	context	Q30425 Q153814	The sons of Arthur then
+54	65	Arthur		Q30425	file		The sons of Arthur then
 54	65	The Younger			unresolved		(The Younger) beyond ken
 54	66	Arthrodires			unresolved		Of Arthrodires' line
 54	67	Arthur the Younger			unresolved		Arthur the Younger bore
@@ -3294,33 +3294,33 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 54	80	Jaekelopterii			unresolved		Three Jaekelopterii bright
 54	80	Cameroceras		Q154811	file		As Cameroceras strong,
 54	82	Pachos		Q30481	file		Of Pachos heard the call
-54	84	Maxil		Q30429	context	Q30429 Q154449	But Maxil, Arthur's brother,
-54	84	Arthur		Q30425	context	Q30425 Q153814	But Maxil, Arthur's brother,
-54	84	Qilinyu		Q30498	context	Q30498 Q154880	Qilinyu was his name,
-54	85	Qilinyu		Q30498	context	Q30498 Q154880	Qilinyu begat
-54	85	Entelognathus		Q30502	context	Q30502 Q154881	Entelognathus, begat
-54	86	Entelognathus		Q30502	context	Q30502 Q154881	Entelognathus bore
+54	84	Maxil		Q30429	file		But Maxil, Arthur's brother,
+54	84	Arthur		Q30425	file		But Maxil, Arthur's brother,
+54	84	Qilinyu		Q30498	file		Qilinyu was his name,
+54	85	Qilinyu		Q30498	file		Qilinyu begat
+54	85	Entelognathus		Q30502	file		Entelognathus, begat
+54	86	Entelognathus		Q30502	file		Entelognathus bore
 54	86	Janusicthus		Q30506	file		Janusicthus to explore
 54	87	Janusicthus		Q30506	file		Janusicthus brought
 54	90	Sensing			unresolved		Sensing all around
-54	92	Devon			unresolved	Q287 Q153813	From Devon's city great
+54	92	Devon		Q287	context	Q287 Q153813	From Devon's city great
 54	92	Janusicthus		Q30506	file		To Janusicthus' fate
-54	98	Antiarchon		Q30413	context	Q30413 Q154162	From Antiarchon's revolt
+54	98	Antiarchon		Q30413	file		From Antiarchon's revolt
 54	99	Mary		Q30510	context	Q30510 Q138539 Q149175 Q154257	To Mary's gift of love
 54	101	Devonian			unresolved		The Devonian age
-54	103	Devon			unresolved	Q287 Q153813	From Devon's peaceful ways
+54	103	Devon		Q287	context	Q287 Q153813	From Devon's peaceful ways
 54	103	Brachy		Q30461	file		To Brachy's iron rule
 54	105	Janusicthus		Q30506	file		The fish that Janusicthus made
-54	107	Devon			unresolved	Q287 Q153813	From Devon's spiracle
+54	107	Devon		Q287	context	Q287 Q153813	From Devon's spiracle
 54	107	Dunkella		Q30489	file		To Dunkella's miracle
 54	109	Devonian			unresolved		The Devonian dawn
-54	112	Devon			unresolved	Q287 Q153813	From Devon's city bright
+54	112	Devon		Q287	context	Q287 Q153813	From Devon's city bright
 54	116	Devonian			unresolved		The Devonian age began
-54	118	Devon			unresolved	Q287 Q153813	From Devon's peaceful reign
+54	118	Devon		Q287	context	Q287 Q153813	From Devon's peaceful reign
 54	118	Brachy		Q30461	file		To Brachy's war-torn stain
-55	1	Devon			unresolved	Q287 Q153813	As Devon's sons grew strong and true in might,
+55	1	Devon		Q287	consensus	Q287 Q153813	As Devon's sons grew strong and true in might,
 55	1	Proteus		Q51	file		The spineless sons of bright Proteus fair
-55	2	Devon			unresolved	Q287 Q153813	In Devon's shadow they grew day by day,
+55	2	Devon		Q287	consensus	Q287 Q153813	In Devon's shadow they grew day by day,
 55	3	Spiralius			unresolved	Q414 Q153827	Among great Spiralius' noble line,
 55	3	Neo			unresolved		Neo arose in tenth generation's race
 55	3	Bactridius			unresolved		Of Bactridius blessed and divine,
@@ -3389,8 +3389,8 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 55	51	Proteus		Q51	file		Alas, the great revolt of brave Proteus
 55	52	Protean		Q154897	file		The great Protean rebellion failed to bring
 55	52	Subjection			unresolved		Subjection to great Devon's mighty reign
-55	52	Devon			unresolved	Q287 Q153813	Subjection to great Devon's mighty reign
-55	53	Devon			unresolved	Q287 Q153813	The sons of Devon held their righteous power,
+55	52	Devon		Q287	consensus	Q287 Q153813	Subjection to great Devon's mighty reign
+55	53	Devon		Q287	consensus	Q287 Q153813	The sons of Devon held their righteous power,
 55	54	Proteus		Q51	file		Where sons of brave Proteus at last could find
 55	57	Proteus		Q51	file		There sons of brave Proteus would find at last
 55	58	Neo			unresolved		From Neo's intelligence without the grace
@@ -3416,11 +3416,11 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 56	13	Lycopodium			unresolved		In Lycopodium powder, fire's dawn.
 56	15	Isolagos		Q288	file		## The Children of Isolagos
 56	16	Isolagos		Q288	file		From spore-divided Isolagos came
-56	16	Quill		Q290	context	Q290 Q154901	Bold Quill who sought the underwater fame,
-56	16	Sellagine		Q301	context	Q301 Q154456	And wise Sellagine, master of the sea.
-56	17	Sellagine		Q301	context	Q301 Q154456	Sellagine's children learned to creep and crawl
+56	16	Quill		Q290	file		Bold Quill who sought the underwater fame,
+56	16	Sellagine		Q301	file		And wise Sellagine, master of the sea.
+56	17	Sellagine		Q301	file		Sellagine's children learned to creep and crawl
 56	18	Quillworts			unresolved		The Quillworts from noble Quill descend,
-56	18	Quill		Q290	context	Q290 Q154901	The Quillworts from noble Quill descend,
+56	18	Quill		Q290	file		The Quillworts from noble Quill descend,
 56	21	Megaphyll			unresolved		## The Megaphyll Master
 56	21	Master			unresolved		## The Megaphyll Master
 56	22	Ginkgon		Q154900	file		But Ginkgon chose a different path to tread:
@@ -3433,7 +3433,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 56	27	Pteridos		Q154461	file		## The Line of Pteridos
 56	28	Pteridos		Q154461	file		Pteridos the fern-father had two sons:
 56	28	Horsa			unresolved	Q118588 Q154902	Bold Horsa of the puzzlegrass and spear,
-56	28	Euspor		Q291	context	Q291 Q154903	And wise Euspor, from whom the lineage runs
+56	28	Euspor		Q291	file		And wise Euspor, from whom the lineage runs
 56	29	Horsa			unresolved	Q118588 Q154902	From Horsa came great Equis, he who found
 56	29	Equis			unresolved	Q292 Q154263	From Horsa came great Equis, he who found
 56	29	Puzella			unresolved		Fair Puzella swimming in the stream,
@@ -3446,14 +3446,14 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 56	37	Spring			unresolved		Spring spores, summer grass, in rhythm fine.
 56	39	Fern			unresolved		## The Fern Dynasty
 56	39	Dynasty			unresolved		## The Fern Dynasty
-56	40	Euspor		Q291	context	Q291 Q154903	From wise Euspor came branches of the tree
-56	40	Adderos		Q295	context	Q295 Q154904	That split 'tween Adderos and Fernando,
+56	40	Euspor		Q291	file		From wise Euspor came branches of the tree
+56	40	Adderos		Q295	file		That split 'tween Adderos and Fernando,
 56	40	Fernando		Q296	file		That split 'tween Adderos and Fernando,
-56	41	Adderos		Q295	context	Q295 Q154904	Adderos sired Ophios the strange,
-56	41	Ophios			unresolved	Q334 Q154905	Adderos sired Ophios the strange,
-56	41	Psilos			unresolved	Q335 Q154906	And Psilos, dwelling in the mountain range,
-56	42	Ophios			unresolved	Q334 Q154905	The adder's-tongue from brave Ophios came,
-56	42	Psilos			unresolved	Q335 Q154906	While whisk ferns trace to Psilos as their sire,
+56	41	Adderos		Q295	file		Adderos sired Ophios the strange,
+56	41	Ophios		Q334	context	Q334 Q154905	Adderos sired Ophios the strange,
+56	41	Psilos		Q335	context	Q335 Q154906	And Psilos, dwelling in the mountain range,
+56	42	Ophios		Q334	context	Q334 Q154905	The adder's-tongue from brave Ophios came,
+56	42	Psilos		Q335	context	Q335 Q154906	While whisk ferns trace to Psilos as their sire,
 56	43	Fernando		Q296	file		Fernando spread his fronds in patterns wide
 56	43	Maratton		Q336	file		With Maratton standing close beside his side.
 56	45	Swamp			unresolved		## The Great Swamp Settlement
@@ -3519,40 +3519,40 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 57	62	Elivagar			unresolved		From great Elivagar's sacred, flowing stream
 57	65	Extends			unresolved		Extends to all who seek to truly be
 57	66	Janus			unresolved	Q74897 Q90269 Q132731	From Janus to the three great houses blessed,
-58	1	Dikar			unresolved	Q168 Q154102	Dikar lived as parasite upon the sons
+58	1	Dikar		Q168	context	Q168 Q154102	Dikar lived as parasite upon the sons
 58	1	Plantus		Q153833	file		Of Plantus bright, from lineage of great fame,
-58	1	Freyr			unresolved	Q169 Q154826	From Freyr and Hera's marriage blessed by name.
+58	1	Freyr		Q169	context	Q169 Q154826	From Freyr and Hera's marriage blessed by name.
 58	1	Hera			unresolved	Q74653 Q130560 Q154251	From Freyr and Hera's marriage blessed by name.
-58	3	Dikar			unresolved	Q168 Q154102	Dikar married Ferma fair and true,
+58	3	Dikar		Q168	context	Q168 Q154102	Dikar married Ferma fair and true,
 58	3	Ferma			unresolved		Dikar married Ferma fair and true,
-58	4	Ascus			unresolved	Q182 Q154268	Ascus and Baston were their children's names,
-58	4	Baston		Q183	context	Q183 Q154265	Ascus and Baston were their children's names,
+58	4	Ascus		Q182	context	Q182 Q154268	Ascus and Baston were their children's names,
+58	4	Baston		Q183	file		Ascus and Baston were their children's names,
 58	4	Plantus		Q153833	file		Of Plantus, where they'd strike like burning flames
-58	5	Ascus			unresolved	Q182 Q154268	Ascus became the father of Cup Fungi,
+58	5	Ascus		Q182	context	Q182 Q154268	Ascus became the father of Cup Fungi,
 58	5	Cup			unresolved		Ascus became the father of Cup Fungi,
 58	5	Fungi		Q154238	file		Ascus became the father of Cup Fungi,
-58	6	Baston		Q183	context	Q183 Q154265	Baston became the noble sire of those
-58	7	Ascus			unresolved	Q182 Q154268	Ascus begat two sons of different ways:
-58	7	Taphrin			unresolved	Q196 Q154912	Taphrin at dawn and Saccharos so bright,
-58	7	Saccharos		Q197	context	Q197 Q154266	Taphrin at dawn and Saccharos so bright,
-58	8	Taphrin			unresolved	Q196 Q154912	Taphrin lived small and plain through sun and rain
-58	12	Saccharos		Q197	context	Q197 Q154266	Saccharos, noble son of great Ascus,
-58	12	Ascus			unresolved	Q182 Q154268	Saccharos, noble son of great Ascus,
-58	14	Saccharos		Q197	context	Q197 Q154266	Saccharos bore two sons in days of old:
-58	14	Peziz		Q216	context	Q216 Q154913	Peziz at dawn and Melchizedek, savior
-58	14	Melchizedek			unresolved	Q217 Q154103	Peziz at dawn and Melchizedek, savior
-58	15	Melchizedek			unresolved	Q217 Q154103	Great Melchizedek became a humble cell:
-58	16	Melchizedek			unresolved	Q217 Q154103	Melchizedek became the Eloh high
+58	6	Baston		Q183	file		Baston became the noble sire of those
+58	7	Ascus		Q182	context	Q182 Q154268	Ascus begat two sons of different ways:
+58	7	Taphrin		Q196	context	Q196 Q154912	Taphrin at dawn and Saccharos so bright,
+58	7	Saccharos		Q197	file		Taphrin at dawn and Saccharos so bright,
+58	8	Taphrin		Q196	context	Q196 Q154912	Taphrin lived small and plain through sun and rain
+58	12	Saccharos		Q197	file		Saccharos, noble son of great Ascus,
+58	12	Ascus		Q182	context	Q182 Q154268	Saccharos, noble son of great Ascus,
+58	14	Saccharos		Q197	file		Saccharos bore two sons in days of old:
+58	14	Peziz		Q216	file		Peziz at dawn and Melchizedek, savior
+58	14	Melchizedek		Q217	context	Q217 Q154103	Peziz at dawn and Melchizedek, savior
+58	15	Melchizedek		Q217	context	Q217 Q154103	Great Melchizedek became a humble cell:
+58	16	Melchizedek		Q217	context	Q217 Q154103	Melchizedek became the Eloh high
 58	16	Eloh		Q154240	file		Melchizedek became the Eloh high
-58	19	Peziz		Q216	context	Q216 Q154913	Peziz bore countless sons throughout his days,
+58	19	Peziz		Q216	file		Peziz bore countless sons throughout his days,
 58	19	Lopez		Q224	file		Among them Lopez bright and Orbillus
-58	19	Orbillus		Q225	context	Q225 Q154465	Among them Lopez bright and Orbillus
-58	20	Orbillus		Q225	context	Q225 Q154465	Orbillus hunted sons of Nematon,
+58	19	Orbillus		Q225	file		Among them Lopez bright and Orbillus
+58	20	Orbillus		Q225	file		Orbillus hunted sons of Nematon,
 58	20	Nematon			unresolved		Orbillus hunted sons of Nematon,
 58	21	Lopez		Q224	file		But Lopez bore two sons of different hearts:
-58	21	Ganymede		Q233	context	Q233 Q132330 Q154177	Ganymede at dawn and Leotios
+58	21	Ganymede		Q233	file		Ganymede at dawn and Leotios
 58	21	Leotios		Q234	file		Ganymede at dawn and Leotios
-58	22	Ganymede		Q233	context	Q233 Q132330 Q154177	Ganymede became ancestor blessed
+58	22	Ganymede		Q233	file		Ganymede became ancestor blessed
 58	23	Leotios		Q234	file		But Leotios became the father true
 58	25	Leotios		Q234	file		Leotios begat two sons of might:
 58	25	Pyrenos		Q245	file		Pyrenos true and Lecanius the strong
@@ -3560,11 +3560,11 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 58	26	Lecanius		Q246	file		Lecanius became the noble sire
 58	27	Penicillius		Q307	file		Penicillius, who made the blessed cheese
 58	29	Capnos		Q308	file		And Capnos became father of the race
-58	30	Baston		Q183	context	Q183 Q154265	Baston begat two sons of different ways:
+58	30	Baston		Q183	file		Baston begat two sons of different ways:
 58	30	Ortho		Q218	file		Ortho at dawn and bright Puccini too,
-58	30	Puccini		Q219	context	Q219 Q154463	Ortho at dawn and bright Puccini too,
-58	34	Botry			unresolved	Q229 Q154911	Botry, the son of great Puccini's line,
-58	34	Puccini		Q219	context	Q219 Q154463	Botry, the son of great Puccini's line,
+58	30	Puccini		Q219	file		Ortho at dawn and bright Puccini too,
+58	34	Botry		Q229	context	Q229 Q154911	Botry, the son of great Puccini's line,
+58	34	Puccini		Q219	file		Botry, the son of great Puccini's line,
 58	36	Ortho		Q218	file		Ortho begat two sons of different fame:
 58	36	Ustella		Q227	file		Ustella and Agaricus so bright
 58	36	Agaricus		Q228	file		Ustella and Agaricus so bright
@@ -3584,24 +3584,24 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 58	47	Dagar		Q248	file		Dagar's children in the blessed light
 58	48	Tremello		Q247	file		Tremello spent his youth as simple yeast
 58	50	Dagar		Q248	file		Dagar became the noble sire of forms
-58	50	Dacrum		Q309	context	Q309 Q154467	Whose deep desire was Dacrum and the line
+58	50	Dacrum		Q309	file		Whose deep desire was Dacrum and the line
 58	50	Agaricus		Q228	file		Of great Agaricus through all their storms
 58	51	Tremello		Q247	file		Tremello and Dacrum kept jellyshrooms made
-58	51	Dacrum		Q309	context	Q309 Q154467	Tremello and Dacrum kept jellyshrooms made
+58	51	Dacrum		Q309	file		Tremello and Dacrum kept jellyshrooms made
 58	53	Agaricus		Q228	file		While great Agaricus made the first display
 58	54	Agaricus		Q228	file		The sons of great Agaricus create
-58	58	Dikar			unresolved	Q168 Q154102	From Dikar's parasitic, ancient start
+58	58	Dikar		Q168	context	Q168 Q154102	From Dikar's parasitic, ancient start
 58	59	Arrival			unresolved		Arrival of the truth that never lies.
-58	62	Melchizedek			unresolved	Q217 Q154103	From great Melchizedek's yeast so blessed
+58	62	Melchizedek		Q217	context	Q217 Q154103	From great Melchizedek's yeast so blessed
 58	62	High			unresolved		With blessings flowing from the great High Priest,
 58	62	Priest			unresolved		With blessings flowing from the great High Priest,
 58	65	Display			unresolved		Display of penicillin's sacred might
 58	71	Corrupting			unresolved		Corrupting what is good and pure and right
 58	74	King		Q87699	file		Of hope's eternal, everlasting King.
-58	75	Dikar			unresolved	Q168 Q154102	From Dikar's ancient line to mushrooms blessed
+58	75	Dikar		Q168	context	Q168 Q154102	From Dikar's ancient line to mushrooms blessed
 58	78	Partners		Q154416	file		Partners in the dance of harmony
 59	1	Planta			unresolved	Q94 Q153922	Great Planta, Anima, and those conceived
-59	1	Anima			unresolved	Q93 Q153899	Great Planta, Anima, and those conceived
+59	1	Anima		Q93	consensus	Q93 Q153899	Great Planta, Anima, and those conceived
 59	1	Funga		Q154609	file		By Funga, spreading life through earth and air.
 59	3	Shesha		Q154165	file		But Shesha the Actinite and Matsya wise
 59	3	Actinite			unresolved		But Shesha the Actinite and Matsya wise
@@ -3683,14 +3683,14 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 60	23	Springtails			unresolved		The Springtails who can leap where no one goes
 60	25	Tails		Q30582	file		And Tails had many tails of wondrous grace
 60	28	Tails		Q30582	file		Tails bore two sons with power and with might:
-60	28	Dipluron		Q30586	context	Q30586 Q154920	Dipluron with his keen and piercing sight
+60	28	Dipluron		Q30586	file		Dipluron with his keen and piercing sight
 60	28	Ectognus		Q30590	file		And Ectognus who lived his whole life long
-60	29	Dipluron		Q30586	context	Q30586 Q154920	Dipluron became father of the race
+60	29	Dipluron		Q30586	file		Dipluron became father of the race
 60	30	Bristletails		Q154475	file		The two-pronged Bristletails make all things shine
 60	32	Ectognus		Q30590	file		Ectognus begat two sons of fame:
-60	32	Archegnos		Q30594	context	Q30594 Q154922	Archegnos and Zerygos, each would find
+60	32	Archegnos		Q30594	file		Archegnos and Zerygos, each would find
 60	32	Zerygos		Q30598	file		Archegnos and Zerygos, each would find
-60	33	Archegnos		Q30594	context	Q30594 Q154922	Archegnos became ancestor of those
+60	33	Archegnos		Q30594	file		Archegnos became ancestor of those
 60	33	Jumping			unresolved		The Jumping Bristletails who strike the pose
 60	33	Bristletails		Q154475	file		The Jumping Bristletails who strike the pose
 60	36	Zerygos		Q30598	file		Zerygos begat two more sons of light:
@@ -3698,14 +3698,14 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 60	36	Pterygos		Q30606	file		And Pterygos, whose penetrating sight
 60	37	Pterygos		Q30606	file		Pterygos chose to live beneath the flow
 60	39	Pterygos		Q30606	file		Pterygos begat in days of old
-60	39	Isopter		Q30610	context	Q30610 Q154166	Isopter who had twenty gills so bright
+60	39	Isopter		Q30610	file		Isopter who had twenty gills so bright
 60	40	Barameda			unresolved		But fierce Barameda came with war
-60	40	Isopter		Q30610	context	Q30610 Q154166	To challenge great Isopter's peaceful reign
-60	41	Isopter		Q30610	context	Q30610 Q154166	So brave Isopter climbed toward the height
-60	43	Isopter		Q30610	context	Q30610 Q154166	Isopter begat in his later days
-60	43	Dezotopter		Q30614	context	Q30614 Q154477	Dezotopter who had eighteen gills
-60	45	Dezotopter		Q30614	context	Q30614 Q154477	Dezotopter flew down through the air
-60	48	Dezotopter		Q30614	context	Q30614 Q154477	Dezotopter begat a son so bright:
+60	40	Isopter		Q30610	file		To challenge great Isopter's peaceful reign
+60	41	Isopter		Q30610	file		So brave Isopter climbed toward the height
+60	43	Isopter		Q30610	file		Isopter begat in his later days
+60	43	Dezotopter		Q30614	file		Dezotopter who had eighteen gills
+60	45	Dezotopter		Q30614	file		Dezotopter flew down through the air
+60	48	Dezotopter		Q30614	file		Dezotopter begat a son so bright:
 60	48	Seizapter		Q154923	file		Seizapter with his sixteen gills to bear
 60	49	Seizapter		Q154923	file		Seizapter begat in turn a son:
 60	49	Quatorzapter		Q154924	file		Quatorzapter with fourteen gills so fine
@@ -5103,17 +5103,17 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 136	32	G			initial		Still. G is alive. G built what the Gaiad considers the sculpture
 136	32	G			initial		Still. G is alive. G built what the Gaiad considers the sculpture
 136	32	G			initial		And foundational monument of civilization, and G's direct descendants, the herds
-136	35	Melchizedek			unresolved	Q217 Q154103	Melchizedek. The priest-king of Salem, who greets Abraham later in
+136	35	Melchizedek		Q217	consensus	Q217 Q154103	Melchizedek. The priest-king of Salem, who greets Abraham later in
 136	35	Abraham		Q85228	file		Melchizedek. The priest-king of Salem, who greets Abraham later in
 136	35	Abraham		Q85228	file		Abraham, receives a tithe, and disappears. In the standard reading
-136	36	Melchizedek			unresolved	Q217 Q154103	Melchizedek is the Gaiad's symbolic representative of the Göbekli Tepe
+136	36	Melchizedek		Q217	consensus	Q217 Q154103	Melchizedek is the Gaiad's symbolic representative of the Göbekli Tepe
 136	36	Abraham		Q85228	file		Priesthood. The remnant of the old temple-builders, still alive in Abraham's
 136	36	Abraham		Q85228	file		Day, meeting the wandering Abraham on his journey south from Sanliurfa
 136	36	Abraham		Q85228	file		(Which is, by no coincidence, the city closest to Göbekli Tepe itself). Abraham
-136	37	Melchizedek			unresolved	Q217 Q154103	Melchizedek there. And Melchizedek, in the Gaiad's reading, is the last
-136	37	Melchizedek			unresolved	Q217 Q154103	Melchizedek there. And Melchizedek, in the Gaiad's reading, is the last
+136	37	Melchizedek		Q217	consensus	Q217 Q154103	Melchizedek there. And Melchizedek, in the Gaiad's reading, is the last
+136	37	Melchizedek		Q217	consensus	Q217 Q154103	Melchizedek there. And Melchizedek, in the Gaiad's reading, is the last
 136	37	Abraham		Q85228	file		Buried long before Abraham's day—the site was deliberately entombed, the past
-136	38	Melchizedek			unresolved	Q217 Q154103	"Melchizedek is ""George Gobeklius"" in the Gaiad's nicknaming—the"
+136	38	Melchizedek		Q217	consensus	Q217 Q154103	"Melchizedek is ""George Gobeklius"" in the Gaiad's nicknaming—the"
 136	38	George Gobeklius			unresolved		"Melchizedek is ""George Gobeklius"" in the Gaiad's nicknaming—the"
 136	39	Abraham		Q85228	file		Of stone and animal eleven thousand years ago. Abraham meets him, receives
 136	41	Abraham		Q85228	file		But that is Abraham's chapter, which is later. For now, the G lineage.
@@ -5556,7 +5556,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 143	46	David		Q134507	file		Places, named civilizations. Abraham and Moses and David and
 143	46	Homer		Q131378	file		Homer and Confucius and Buddha. The historical age begins.
 143	46	Confucius		Q30266	file		Homer and Confucius and Buddha. The historical age begins.
-143	46	Buddha		Q153343	unique		Homer and Confucius and Buddha. The historical age begins.
+143	46	Buddha		Q153343	file		Homer and Confucius and Buddha. The historical age begins.
 143	49	Haplogroup E		Q1163	file		Haplogroup E. Africa. The circle closes.
 144	7	Marija Gimbutas			unresolved		The mother Marija Gimbutas found
 145	3	E			initial		Been settled by E-haplogroup peoples for thousands of years.
@@ -5669,59 +5669,59 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 149	44	Marija Gimbutas			unresolved		Scholars like Marija Gimbutas began to reconstruct what had been
 150	1	O			initial		By slow accretion, across thousands of years, of O-
 150	2	Yellow Emperor		Q6420	file		Historical memory points back—was the Yellow Emperor.
-150	3	Huangdi			unresolved		Huangdi.
+150	3	Huangdi		Q6420	override		Huangdi.
 150	3	Yellow Emperor		Q6420	file		The Yellow Emperor. Traditionally dated to approximately twenty-
-150	4	Huangdi			unresolved		The Xia dynasty and founded the civilization. Huangdi's name
+150	4	Huangdi		Q6420	override		The Xia dynasty and founded the civilization. Huangdi's name
 150	4	Yellow Emperor		Q6420	file		"Means ""Yellow Emperor"" because he was associated with the yellow"
-150	5	Huangdi			unresolved		Was built. Huangdi was the first of the great culture-heroes
+150	5	Huangdi		Q6420	override		Was built. Huangdi was the first of the great culture-heroes
 150	6	Leizu		Q6425	file		His wife Leizu, who is credited with discovering sericulture
-150	8	Huangdi			unresolved		Huangdi is the Chinese equivalent of what Prometheus and
+150	8	Huangdi		Q6420	override		Huangdi is the Chinese equivalent of what Prometheus and
 150	8	Prometheus		Q75195	file		Huangdi is the Chinese equivalent of what Prometheus and
 150	8	Hephaestus		Q131450	file		Hephaestus and Hermes are in the Greek tradition—the culture-
 150	8	Hermes		Q90275	file		Hephaestus and Hermes are in the Greek tradition—the culture-
 150	9	Chiyou			unresolved		Into one figure. He fought wars—against Chiyou, a rebellious
 150	10	Chiyou			unresolved		He won. Chiyou was defeated. Huangdi unified the tribes of the
-150	10	Huangdi			unresolved		He won. Chiyou was defeated. Huangdi unified the tribes of the
-150	11	Huangdi			unresolved		At some level, descent from Huangdi. The Han Chinese people,
-150	11	Huangdi			unresolved		(Yanhuang zisun, combining Huangdi and his proto-historical
+150	10	Huangdi		Q6420	override		He won. Chiyou was defeated. Huangdi unified the tribes of the
+150	11	Huangdi		Q6420	override		At some level, descent from Huangdi. The Han Chinese people,
+150	11	Huangdi		Q6420	override		(Yanhuang zisun, combining Huangdi and his proto-historical
 150	11	Yandi		Q6423	file		"Contemporary Yandi, the ""Flame Emperor""). The civilizational self-"
-150	12	Huangdi			unresolved		Concept of China is, in its traditional form, anchored in Huangdi.
-150	13	Huangdi			unresolved		And is this history? Not quite. Huangdi is a mythic figure, not
-150	15	Huangdi			unresolved		Huangdi and his fellow Three Sovereigns (Fuxi, Nüwa,
+150	12	Huangdi		Q6420	override		Concept of China is, in its traditional form, anchored in Huangdi.
+150	13	Huangdi		Q6420	override		And is this history? Not quite. Huangdi is a mythic figure, not
+150	15	Huangdi		Q6420	override		Huangdi and his fellow Three Sovereigns (Fuxi, Nüwa,
 150	15	Fuxi		Q6433	file		Huangdi and his fellow Three Sovereigns (Fuxi, Nüwa,
 150	15	Nüwa		Q6435	file		Huangdi and his fellow Three Sovereigns (Fuxi, Nüwa,
 150	15	Shennong			unresolved		Shennong) and Five Emperors are the Chinese mythic prehistory—
-150	17	Huangdi			unresolved		Even if Huangdi is a legendary figure rather than a historical
-150	19	Huangdi			unresolved		The third millennium BCE. Huangdi is its legendary personification.
-150	21	Huangdi			unresolved		And alongside Huangdi,
+150	17	Huangdi		Q6420	override		Even if Huangdi is a legendary figure rather than a historical
+150	19	Huangdi		Q6420	override		The third millennium BCE. Huangdi is its legendary personification.
+150	21	Huangdi		Q6420	override		And alongside Huangdi,
 150	21	Fuxi		Q6433	file		The Three Sovereigns also deserve mention. Fuxi—who taught
 150	22	Nüwa		Q6435	file		The I Ching). Nüwa—the serpent-bodied goddess who created
 150	22	Shennong			unresolved		Cracked, melting five-colored stones to patch the sky. Shennong—
 150	23	Divine Farmer			unresolved		"""The Divine Farmer,"" who taught humans agriculture by trying every"
-150	23	Huangdi			unresolved		For his own invented cures. These figures are older than Huangdi,
+150	23	Huangdi		Q6420	override		For his own invented cures. These figures are older than Huangdi,
 150	24	Fuxi		Q6433	file		Transition in the Yellow River basin. Fuxi is the transition
 150	24	Nüwa		Q6435	file		Out of pure hunting and gathering. Nüwa is the cosmological
 150	25	Shennong			unresolved		Origin myth. Shennong is the invention of agriculture and
-150	25	Huangdi			unresolved		That leads to Huangdi's unification.
-150	27	Huangdi			unresolved		Maintained an unbroken connection to Huangdi's mythic founding.
-150	29	Huangdi			unresolved		Huangdi has never been deposed as the mythic founder of the
+150	25	Huangdi		Q6420	override		That leads to Huangdi's unification.
+150	27	Huangdi		Q6420	override		Maintained an unbroken connection to Huangdi's mythic founding.
+150	29	Huangdi		Q6420	override		Huangdi has never been deposed as the mythic founder of the
 150	32	Abraham		Q85228	file		Centered on Abraham and Muhammad. But China never broke.
 150	32	Muhammad			unresolved	Q65705 Q66605 Q66641 Q68265 Q68791 Q69541 Q94157 Q94657 Q96393 Q97165 Q97997 Q164694	Centered on Abraham and Muhammad. But China never broke.
-150	33	Huangdi			unresolved		Huangdi has outlasted every other ancient founder-figure in
-150	38	Huangdi			unresolved		Huangdi and the invention of the script.
-150	39	Huangdi			unresolved		Honors him. Huangdi. The Yellow Emperor. The legendary
+150	33	Huangdi		Q6420	override		Huangdi has outlasted every other ancient founder-figure in
+150	38	Huangdi		Q6420	override		Huangdi and the invention of the script.
+150	39	Huangdi		Q6420	override		Honors him. Huangdi. The Yellow Emperor. The legendary
 150	39	Yellow Emperor		Q6420	file		Honors him. Huangdi. The Yellow Emperor. The legendary
 150	40	Adam			unresolved	Q152973	Figure who stands, in the Chinese imagination, where Adam stands
 150	40	Rama		Q28328	file		In the Hebrew imagination and where Rama stands in the Indian
 150	41	Jade Emperor		Q6447	file		Imagination and where the Jade Emperor stands in the Chinese
-150	42	Huangdi			unresolved		Claim that Huangdi is a historical king in the same sense that
+150	42	Huangdi		Q6420	override		Claim that Huangdi is a historical king in the same sense that
 150	43	Sargon			unresolved	Q74623	Sargon is. The archaeological record is clear: there is no hard
-150	43	Huangdi			unresolved		Evidence for a specific ruler named Huangdi who lived around
-150	44	Huangdi			unresolved		The cultural reality that Huangdi represents—the founding of
-150	45	Huangdi			unresolved		Is real. And Huangdi is the legendary face of that reality. He
+150	43	Huangdi		Q6420	override		Evidence for a specific ruler named Huangdi who lived around
+150	44	Huangdi		Q6420	override		The cultural reality that Huangdi represents—the founding of
+150	45	Huangdi		Q6420	override		Is real. And Huangdi is the legendary face of that reality. He
 150	46	Yellow Emperor		Q6420	file		Respects to the Yellow Emperor in the same spirit that it pays
 150	46	Noah		Q70439	override		Its respects to Noah—as the mythic personification of a real
-150	50	Huangdi			unresolved		Huangdi. The Yellow Emperor. China's mythic founder.
+150	50	Huangdi		Q6420	override		Huangdi. The Yellow Emperor. China's mythic founder.
 150	50	Yellow Emperor		Q6420	file		Huangdi. The Yellow Emperor. China's mythic founder.
 151	1	Yellow Emperor		Q6420	file		And while the Yellow Emperor was passing into legend in the
 151	2	Ur-Nammu			unresolved		Prominence under Ur-Nammu, founder of the Third Dynasty of Ur—
@@ -5746,15 +5746,15 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 151	25	God			unresolved		His father's house and go to the land that God would show him.
 151	26	Abraham		Q85228	file		And here the Gaiad takes a specific narrative position. Abraham's
 151	28	Abraham		Q85228	file		On earth. And the Gaiad's reading is that Abraham stopped here.
-151	28	Melchizedek			unresolved	Q217 Q154103	Stopped in Sanliurfa. And that in Sanliurfa, he met Melchizedek—
+151	28	Melchizedek		Q217	consensus	Q217 Q154103	Stopped in Sanliurfa. And that in Sanliurfa, he met Melchizedek—
 151	28	Abraham		Q85228	file		To bless Abraham, receive a tithe, and disappear. The biblical
 151	29	Abraham		Q85228	file		Text places this meeting later in Abraham's journey, after he
 151	29	Lot		Q86393	file		Rescues his nephew Lot from the Mesopotamian kings. The Gaiad
-151	29	Melchizedek			unresolved	Q217 Q154103	"Relocates it—in the Gaiad's reading, Melchizedek is ""{{c|George"
+151	29	Melchizedek		Q217	consensus	Q217 Q154103	"Relocates it—in the Gaiad's reading, Melchizedek is ""{{c|George"
 151	30	Abraham		Q85228	file		Nearby. And Abraham, stopping in Sanliurfa on his southward
 151	32	Abraham		Q85228	file		Abraham the spiritual heir of the Göbekli Tepe tradition. The
 151	33	Noah		Q70439	override		Not merely to Noah but to the hunter-gatherer priests who raised
-151	33	Melchizedek			unresolved	Q217 Q154103	Years ago. Melchizedek is the bridge. The tithe Abraham pays is
+151	33	Melchizedek		Q217	consensus	Q217 Q154103	Years ago. Melchizedek is the bridge. The tithe Abraham pays is
 151	33	Abraham		Q85228	file		Years ago. Melchizedek is the bridge. The tithe Abraham pays is
 151	34	Abraham		Q85228	file		The new. The blessing Abraham receives is the legitimation of his
 151	35	Abraham		Q85228	file		Closest to Göbekli Tepe, and Abraham's journey really does pass
@@ -5767,7 +5767,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 151	38	Sarah		Q86389	file		The Cave of Machpelah in Hebron, where Sarah is already
 151	38	Abraham		Q85228	file		Buried. The details of Abraham's biography will not be rehearsed
 151	38	Abraham		Q85228	file		This chapter establishes is the context: Abraham is a man of the
-151	39	Melchizedek			unresolved	Q217 Q154103	Through his encounter with Melchizedek in Sanliurfa. And he is
+151	39	Melchizedek		Q217	consensus	Q217 Q154103	Through his encounter with Melchizedek in Sanliurfa. And he is
 151	39	Isaac		Q129309	file		The founder of the line that will produce Isaac, Jacob, and—through
 151	39	Jacob		Q85226	file		The founder of the line that will produce Isaac, Jacob, and—through
 151	40	Ishmael		Q129307	file		Ishmael—the Arabian peoples, and—through Isaac and Jacob—the
@@ -5787,7 +5787,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 151	43	Abraham		Q85228	file		Continue the J2-dominant Israelite lineage. Abraham himself is
 151	43	J			initial		The junction-point where the two great Semitic branches of the J
 151	44	Abraham		Q85228	file		Abraham. The patriarch. The refugee from Ur. The meeter of
-151	44	Melchizedek			unresolved	Q217 Q154103	Melchizedek at Sanliurfa. The spiritual heir of the Göbekli Tepe
+151	44	Melchizedek		Q217	consensus	Q217 Q154103	Melchizedek at Sanliurfa. The spiritual heir of the Göbekli Tepe
 151	44	J			initial		The J-haplogroup figure at the junction of J1 and J2. The
 151	44	J1			unresolved		The J-haplogroup figure at the junction of J1 and J2. The
 151	44	J2			unresolved		The J-haplogroup figure at the junction of J1 and J2. The
@@ -6134,7 +6134,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 159	22	Rama		Q28328	file		Whose every action aligns with cosmic order. And as such, Rama
 159	22	Osiris		Q62662	file		Is also, structurally, the Indian cognate of Osiris, of
 159	23	Yudhishthira			unresolved		Yudhishthira, of Arthur, of every righteous sovereign whose
-159	23	Arthur		Q30425	consensus	Q30425 Q153814	Yudhishthira, of Arthur, of every righteous sovereign whose
+159	23	Arthur		Q30425	file		Yudhishthira, of Arthur, of every righteous sovereign whose
 159	24	Rama		Q28328	file		Slow down and narrate Rama's story proper. Rama is born to
 159	24	Rama		Q28328	file		Slow down and narrate Rama's story proper. Rama is born to
 159	24	King Dasharatha			unresolved		King Dasharatha of Ayodhya, one of the great cities of ancient
@@ -6245,7 +6245,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 160	42	Odysseus		Q132129	file		Return. Odysseus's Ithaca faded into the Dark Age. The victors
 160	43	Agamemnon			unresolved	Q134693 Q154856	Four centuries at a vanished world. Agamemnon's Mycenae is, for
 160	51	Pharaoh		Q129357	file		Survive without their bureaucratic substrate. When Pharaoh could
-160	53	Buddha		Q153343	unique		Which will produce Buddha, Confucius, Laozi, Mahavira, the
+160	53	Buddha		Q153343	file		Which will produce Buddha, Confucius, Laozi, Mahavira, the
 160	53	Confucius		Q30266	file		Which will produce Buddha, Confucius, Laozi, Mahavira, the
 160	53	Laozi			unresolved		Which will produce Buddha, Confucius, Laozi, Mahavira, the
 160	53	Mahavira			unresolved		Which will produce Buddha, Confucius, Laozi, Mahavira, the
@@ -6311,7 +6311,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 163	6	Zarathustra			unresolved		This dating. Zarathustra is another node in the widespread
 163	7	Confucius		Q30266	file		Upanishads of India, Confucius and Laozi in China, and
 163	7	Laozi			unresolved		Upanishads of India, Confucius and Laozi in China, and
-163	7	Buddha		Q153343	unique		Buddha and Mahavira in the Gangetic plain. Zarathustra is the
+163	7	Buddha		Q153343	file		Buddha and Mahavira in the Gangetic plain. Zarathustra is the
 163	7	Mahavira			unresolved		Buddha and Mahavira in the Gangetic plain. Zarathustra is the
 163	7	Zarathustra			unresolved		Buddha and Mahavira in the Gangetic plain. Zarathustra is the
 163	11	Ahura Mazda			unresolved		The modern sense. It was dualistic. Ahura Mazda, the Wise Lord,
@@ -6596,7 +6596,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 166	24	Sennacherib		Q74581	file		Mention this disaster, but the fact that Sennacherib did indeed
 166	25	Yahweh		Q153726	file		Reinforcing the belief that Yahweh protected his holy city, that
 166	25	Yahweh		Q153726	file		Even the mighty Assyrian army could not take what Yahweh had
-166	25	Esarhaddon		Q74530	alias	Q74530	Set apart. Esarhaddon (six-eighty-one to six-sixty-nine BCE)
+166	25	Esarhaddon		Q74530	file		Set apart. Esarhaddon (six-eighty-one to six-sixty-nine BCE)
 166	26	Ashurbanipal			unresolved		Rule would be briefly restored after his death. Ashurbanipal
 166	28	Ashurbanipal			unresolved		Even under Ashurbanipal the empire was strained. A civil war
 166	28	Shamash-shum-ukin			unresolved		Against his brother Shamash-shum-ukin (who ruled as Assyrian
@@ -6797,18 +6797,18 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 170	1	Confucius		Q30266	file		Confucius, Laozi, the Judean exile, and Ionian philosophy was
 170	1	Laozi			unresolved		Confucius, Laozi, the Judean exile, and Ionian philosophy was
 170	2	Siddhartha Gautama			unresolved		"Of hundreds of millions. Siddhartha Gautama. The Buddha—""the"
-170	2	Buddha		Q153343	unique		"Of hundreds of millions. Siddhartha Gautama. The Buddha—""the"
+170	2	Buddha		Q153343	file		"Of hundreds of millions. Siddhartha Gautama. The Buddha—""the"
 170	6	Atman			unresolved		Of sacrifice to the realization of the identity between Atman
 170	6	Brahman		Q160508	file		(The individual self) and Brahman (the universal reality). The
 170	8	Atman			unresolved		The identity of Atman and Brahman. The Jain answer—developed by
 170	8	Brahman		Q160508	file		The identity of Atman and Brahman. The Jain answer—developed by
 170	9	Mahavira			unresolved		Mahavira, a near-contemporary of the Buddha—was extreme asceticism,
-170	9	Buddha		Q153343	unique		Mahavira, a near-contemporary of the Buddha—was extreme asceticism,
+170	9	Buddha		Q153343	file		Mahavira, a near-contemporary of the Buddha—was extreme asceticism,
 170	11	Siddhartha Gautama			unresolved		Into this contested field stepped Siddhartha Gautama.
 170	12	Shuddhodana			unresolved		Village in what is now southern Nepal. His father Shuddhodana
 170	13	Maya			unresolved		Lineage. His mother Maya died shortly after his birth, and he
 170	13	Mahapajapati			unresolved		Was raised by her sister Mahapajapati. The stories of his
-170	15	Yashodhara		Q49488	context	Q49488 Q160435	Married at sixteen to Yashodhara. They had a son, Rahula. He
+170	15	Yashodhara		Q49488	file		Married at sixteen to Yashodhara. They had a son, Rahula. He
 170	15	Rahula			unresolved		Married at sixteen to Yashodhara. They had a son, Rahula. He
 170	17	Siddhartha			unresolved		Living in the face of those realities. That night, Siddhartha
 170	19	Alara Kalama			unresolved		Meditation teachers, Alara Kalama and Udaka Ramaputta. He
@@ -6819,25 +6819,25 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 170	25	Siddhartha			unresolved		Had no right to the awakening he sought. Siddhartha touched the
 170	25	Mara			unresolved		In countless Buddhist statues—and Mara was defeated. As dawn
 170	25	Siddhartha			unresolved		Broke, Siddhartha understood. He saw the nature of suffering and
-170	26	Buddha		Q153343	unique		"Buddha, ""the awakened one."" He was thirty-five years old."
-170	27	Buddha		Q153343	unique		Did he realize? At the core of the Buddha's enlightenment was
+170	26	Buddha		Q153343	file		"Buddha, ""the awakened one."" He was thirty-five years old."
+170	27	Buddha		Q153343	file		Did he realize? At the core of the Buddha's enlightenment was
 170	32	Atman			unresolved		The Upanishadic tradition, which identified an eternal Atman
-170	33	Buddha		Q153343	unique		(True self) as the key to liberation, the Buddha taught that there
-170	35	Buddha		Q153343	unique		Radical of the Buddha's insights, and it is the one that most
-170	36	Buddha		Q153343	unique		Real self whose welfare we are pursuing. The Buddha says there
-170	38	Buddha		Q153343	unique		Buddha spent the rest of his life—forty-five
+170	33	Buddha		Q153343	file		(True self) as the key to liberation, the Buddha taught that there
+170	35	Buddha		Q153343	file		Radical of the Buddha's insights, and it is the one that most
+170	36	Buddha		Q153343	file		Real self whose welfare we are pursuing. The Buddha says there
+170	38	Buddha		Q153343	file		Buddha spent the rest of his life—forty-five
 170	39	Brahmins			unresolved		Came to him. Brahmins came to him. Untouchables came to him.
 170	40	Mahapajapati			unresolved		Admission of women, at the urging of his foster mother Mahapajapati
 170	40	Ananda		Q36671	file		And his disciple Ananda, came reluctantly and with special
-170	42	Buddha		Q153343	unique		Buddha's teaching style was pragmatic. He refused to answer
-170	44	Buddha		Q153343	unique		Dead. The Buddha's concern was always immediate: the alleviation
-170	45	Buddha		Q153343	unique		Buddha himself seems to have resisted such elaboration.
+170	42	Buddha		Q153343	file		Buddha's teaching style was pragmatic. He refused to answer
+170	44	Buddha		Q153343	file		Dead. The Buddha's concern was always immediate: the alleviation
+170	45	Buddha		Q153343	file		Buddha himself seems to have resisted such elaboration.
 170	49	Emperor Ashoka			unresolved		Its original region. Under Emperor Ashoka in the third century
 170	49	Ashoka		Q2206	file		Religion of most of the Indian subcontinent. Ashoka sent missions
-170	52	Buddha		Q153343	unique		Absorbed back into Hindu traditions (with the Buddha reimagined
+170	52	Buddha		Q153343	file		Absorbed back into Hindu traditions (with the Buddha reimagined
 170	52	Vishnu			unresolved		As an avatar of Vishnu), partly disrupted by Islamic conquests
-170	54	Buddha		Q153343	unique		Century—Western countries. The Buddha's teaching, which began
-170	56	Buddha		Q153343	unique		The Gaiad honors the Buddha as one of the supreme figures of the
+170	54	Buddha		Q153343	file		Century—Western countries. The Buddha's teaching, which began
+170	56	Buddha		Q153343	file		The Gaiad honors the Buddha as one of the supreme figures of the
 170	58	Nagarjuna			unresolved		In human history—Nagarjuna, Vasubandhu, Asanga, Dogen,
 170	58	Vasubandhu			unresolved		In human history—Nagarjuna, Vasubandhu, Asanga, Dogen,
 170	58	Asanga			unresolved		In human history—Nagarjuna, Vasubandhu, Asanga, Dogen,
@@ -6845,14 +6845,14 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 170	58	Hui-neng			unresolved		Hui-neng, Chandrakirti, Dharmakirti—whose subtle explorations
 170	58	Chandrakirti			unresolved		Hui-neng, Chandrakirti, Dharmakirti—whose subtle explorations
 170	58	Dharmakirti			unresolved		Hui-neng, Chandrakirti, Dharmakirti—whose subtle explorations
-170	59	Buddha		Q153343	unique		Various schools of meditation that trace back to the Buddha's
-170	63	Buddha		Q153343	unique		One more point worth making. The Buddha's
-170	63	Buddha		Q153343	unique		Atheistic, because the Buddha did not affirm a creator god and
-170	65	Buddha		Q153343	unique		Liberation. The Buddha is above them in spiritual attainment
+170	59	Buddha		Q153343	file		Various schools of meditation that trace back to the Buddha's
+170	63	Buddha		Q153343	file		One more point worth making. The Buddha's
+170	63	Buddha		Q153343	file		Atheistic, because the Buddha did not affirm a creator god and
+170	65	Buddha		Q153343	file		Liberation. The Buddha is above them in spiritual attainment
 170	69	Siddhartha Gautama			unresolved		Siddhartha Gautama. The
-170	70	Buddha		Q153343	unique		The Buddha who saw the Four Noble Truths. The teacher of the
-170	72	Buddha		Q153343	unique		Buddha. One of the supreme sons of the Axial Age.
-170	74	Buddha		Q153343	unique		The Buddha. Awakened one.
+170	70	Buddha		Q153343	file		The Buddha who saw the Four Noble Truths. The teacher of the
+170	72	Buddha		Q153343	file		Buddha. One of the supreme sons of the Axial Age.
+170	74	Buddha		Q153343	file		The Buddha. Awakened one.
 171	5	Homer		Q131378	file		Indian civilization as Homer stands at the center of Greek
 171	7	Vyasa			unresolved		"The traditional author is Vyasa—literally ""the"
 171	7	Vyasa			unresolved		Within the narrative, Vyasa is the biological grandfather of the
@@ -6929,7 +6929,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 171	50	Parashurama			unresolved		Parashurama, Rama (of the Ramayana), Krishna (of the Mahabharata
 171	50	Rama		Q28328	file		Parashurama, Rama (of the Ramayana), Krishna (of the Mahabharata
 171	50	Krishna			unresolved	Q1861 Q170261	Parashurama, Rama (of the Ramayana), Krishna (of the Mahabharata
-171	50	Buddha		Q153343	unique		The Buddha (included here as an avatar, a classic Hindu move to
+171	50	Buddha		Q153343	file		The Buddha (included here as an avatar, a classic Hindu move to
 171	51	Kalki			unresolved		Absorb Buddhism into the Vaishnava framework), and Kalki (the
 171	56	Bhishma			unresolved		Dying Bhishma to Yudhishthira about kingship, dharma, and
 171	56	Yudhishthira			unresolved		Dying Bhishma to Yudhishthira about kingship, dharma, and
@@ -7224,7 +7224,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 174	49	Alexander			unresolved	Q77854 Q78024 Q124135 Q134560 Q135053 Q135456 Q135459 Q135480 Q135505 Q135776 Q135942 Q144333 Q165152 Q165154 Q165254 Q165281 Q165343 Q165351 Q165388 Q167841	Reunited Alexander's empire. None lasted indefinitely. But while
 174	50	Alexander			unresolved	Q77854 Q78024 Q124135 Q134560 Q135053 Q135456 Q135459 Q135480 Q135505 Q135776 Q135942 Q144333 Q165152 Q165154 Q165254 Q165281 Q165343 Q165351 Q165388 Q167841	And the legacy. Alexander's conquest was political, yes, but it
 174	53	Alexander			unresolved	Q77854 Q78024 Q124135 Q134560 Q135053 Q135456 Q135459 Q135480 Q135505 Q135776 Q135942 Q144333 Q165152 Q165154 Q165254 Q165281 Q165343 Q165351 Q165388 Q167841	Conquest. Alexander's conquest made possible the cultural koine
-174	55	Buddha		Q153343	unique		Like Greco-Buddhist art, where statues of the Buddha are carved
+174	55	Buddha		Q153343	file		Like Greco-Buddhist art, where statues of the Buddha are carved
 174	55	Alexander			unresolved	Q77854 Q78024 Q124135 Q134560 Q135053 Q135456 Q135459 Q135480 Q135505 Q135776 Q135942 Q144333 Q165152 Q165154 Q165254 Q165281 Q165343 Q165351 Q165388 Q167841	In Greek classical style. Alexander opened pathways that would
 174	58	Alexander			unresolved	Q77854 Q78024 Q124135 Q134560 Q135053 Q135456 Q135459 Q135480 Q135505 Q135776 Q135942 Q144333 Q165152 Q165154 Q165254 Q165281 Q165343 Q165351 Q165388 Q167841	Assess him critically. Alexander killed hundreds of thousands
 174	60	Alexander			unresolved	Q77854 Q78024 Q124135 Q134560 Q135053 Q135456 Q135459 Q135480 Q135505 Q135776 Q135942 Q144333 Q165152 Q165154 Q165254 Q165281 Q165343 Q165351 Q165388 Q167841	On massive violence. The myth of Alexander—the young philosopher-
@@ -7532,7 +7532,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 181	1	Jesus			unresolved	Q138545	While Jesus walked in Galilee,
 181	1	Han Dynasty			unresolved		the Han Dynasty in the East
 181	2	Ming of Han			unresolved		Emperor Ming of Han dreamed a dream
-181	2	Buddha		Q153343	unique		and his advisors said: this is the Buddha,
+181	2	Buddha		Q153343	file		and his advisors said: this is the Buddha,
 181	3	Kasyapa Matanga			unresolved		Kasyapa Matanga and Dharmaratna, of both.
 181	3	Dharmaratna			unresolved		Kasyapa Matanga and Dharmaratna, of both.
 181	7	Daoists			unresolved		Daoists adapted Buddhist concepts.
@@ -7543,17 +7543,17 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 181	14	Koreans			unresolved		Millions of modern Koreans trace
 181	17	Kushan Empire			unresolved		The Kushan Empire under Kanishka
 181	17	Kanishka		Q87097	file		The Kushan Empire under Kanishka
-181	18	Buddha		Q153343	unique		The Gandhara school carved Buddha statues
+181	18	Buddha		Q153343	file		The Gandhara school carved Buddha statues
 181	18	Apollo		Q75282	file		with flowing robes like Apollo's,
-181	19	Buddha		Q153343	unique		This is the origin of all Buddha images.
-181	19	Buddha		Q153343	unique		Before Gandhara, the Buddha was
-181	20	Buddha		Q153343	unique		Buddha with long earlobes, topknot, robe
+181	19	Buddha		Q153343	file		This is the origin of all Buddha images.
+181	19	Buddha		Q153343	file		Before Gandhara, the Buddha was
+181	20	Buddha		Q153343	file		Buddha with long earlobes, topknot, robe
 181	21	Kanishka		Q87097	file		Kanishka convened the Fourth Buddhist Council,
-181	23	Buddha		Q153343	unique		the arhat path to the Buddha's wisdom.
+181	23	Buddha		Q153343	file		the arhat path to the Buddha's wisdom.
 181	29	Yellow Turbans			unresolved		The Yellow Turbans rebelled in anger.
 181	30	Shakyamuni			unresolved		the Shakyamuni had crossed the mountains,
 181	31	Ashoka		Q2206	file		Ashoka's missions south and west;
-181	32	Buddha		Q153343	unique		"The Buddha's ""middle path"" had proved"
+181	32	Buddha		Q153343	file		"The Buddha's ""middle path"" had proved"
 182	2	Elagabalus		Q144407	file		Elagabalus, age fourteen,
 182	3	Elagabal			unresolved		Elagabal, the sun god of his city,
 182	4	Jupiter		Q154176	file		to Roman eyes that wanted Jupiter,
@@ -7581,7 +7581,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 183	1	Elagabalus		Q144407	file		After Elagabalus was killed,
 183	3	Alexander Severus			unresolved		Alexander Severus was killed.
 183	3	Maximinus Thrax			unresolved		Maximinus Thrax was killed.
-183	3	Gordian I		Q76189	alias	Q76189	Gordian I and Gordian II died.
+183	3	Gordian I		Q76189	file		Gordian I and Gordian II died.
 183	3	Gordian II		Q148322	file		Gordian I and Gordian II died.
 183	3	Pupienus		Q151348	file		Pupienus and Balbinus were killed.
 183	3	Balbinus			unresolved		Pupienus and Balbinus were killed.
@@ -7627,7 +7627,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 184	5	Manichaeism			unresolved		the prophet of Manichaeism,
 184	6	Mani			unresolved		Mani saw himself as the seal
 184	6	Zarathustra			unresolved		of all prophets — Zarathustra, Buddha,
-184	6	Buddha		Q153343	unique		of all prophets — Zarathustra, Buddha,
+184	6	Buddha		Q153343	file		of all prophets — Zarathustra, Buddha,
 184	6	Jesus			unresolved	Q138545	Jesus — completing their partial light
 184	7	Augustine			unresolved		west to Rome, where Augustine embraced it
 184	8	Shapur			unresolved	Q2470 Q51688 Q87017 Q87039 Q111805	Shapur tolerated Mani. Bahram
@@ -7956,7 +7956,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 193	6	Taizong			unresolved		The emperor Taizong welcomed him back
 193	7	Yogacara			unresolved		He introduced Yogacara philosophy,
 193	8	Great Tang Records on the Western Regions			unresolved		He wrote the Great Tang Records on the Western Regions,
-193	9	Buddha		Q153343	unique		Bamiyan's giant Buddha statues — he saw them
+193	9	Buddha		Q153343	file		Bamiyan's giant Buddha statues — he saw them
 193	9	Taliban			unresolved		Destroyed by Taliban in 2001, their lintels.
 193	10	Xuanzang			unresolved		But we know what they looked like from Xuanzang.
 193	11	Wu Cheng'en			unresolved		Wu Cheng'en wrote Journey to the West,
@@ -7978,7 +7978,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 193	20	Sixth Patriarch			unresolved		under Huineng the Sixth Patriarch, whose
 193	21	Pure Land			unresolved		Pure Land Buddhism was expanding too,
 193	21	Amitabha			unresolved		the devotional school of Amitabha,
-193	21	Buddha		Q153343	unique		the Buddha of the Western Paradise,
+193	21	Buddha		Q153343	file		the Buddha of the Western Paradise,
 193	22	Persians			unresolved		Persians, Arabs, Sogdians, Japanese, Koreans
 193	22	Arabs			unresolved		Persians, Arabs, Sogdians, Japanese, Koreans
 193	22	Sogdians			unresolved		Persians, Arabs, Sogdians, Japanese, Koreans
@@ -7994,14 +7994,14 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 194	7	Kana			unresolved		Before Kana, Japanese was written
 194	7	Kana			unresolved		Kana simplified, made Japanese poetic.
 194	8	Kūkai			unresolved		Kūkai's teaching: the universe is the body
-194	8	Buddha		Q153343	unique		of the cosmic Buddha Mahāvairocana,
+194	8	Buddha		Q153343	file		of the cosmic Buddha Mahāvairocana,
 194	8	Mahāvairocana			unresolved		of the cosmic Buddha Mahāvairocana,
 194	8	Dainichi Nyorai			unresolved		Dainichi Nyorai, the sun-like Buddha,
-194	8	Buddha		Q153343	unique		Dainichi Nyorai, the sun-like Buddha,
+194	8	Buddha		Q153343	file		Dainichi Nyorai, the sun-like Buddha,
 194	10	Shingon			unresolved		Shingon promises immediate escape from strife.
 194	11	Kūkai			unresolved		Kūkai was also a calligrapher of legend,
 194	13	Maitreya			unresolved		still there, waiting for Maitreya the future Buddha,
-194	13	Buddha		Q153343	unique		still there, waiting for Maitreya the future Buddha,
+194	13	Buddha		Q153343	file		still there, waiting for Maitreya the future Buddha,
 194	14	Saichō			unresolved		Meanwhile, a separate monk Saichō (767-822)
 194	14	Tendai			unresolved		brought Tendai Buddhism from China
 194	15	Tendai			unresolved		Tendai was based on the Lotus Sutra,
@@ -8070,7 +8070,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 196	2	Taizong			unresolved		His son Taizong killed his brothers,
 196	3	Taizong			unresolved		Taizong's reign (626-649) is considered
 196	4	Empress Wu Zetian			unresolved		Empress Wu Zetian rose under the third Tang emperor,
-196	5	Buddha		Q153343	unique		Under her, the massive Buddha statues at Longmen
+196	5	Buddha		Q153343	file		Under her, the massive Buddha statues at Longmen
 196	6	Xuanzong			unresolved		under Xuanzong, whose early reign was glorious
 196	6	An Lushan Rebellion			unresolved		of the An Lushan Rebellion, devastating notoriously.
 196	7	An Lushan			unresolved		An Lushan was a Sogdian general, trusted
@@ -8094,7 +8094,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 196	17	Chan			unresolved		Chan Buddhism was less dependent on scriptures,
 196	18	Pure Land			unresolved		Pure Land Buddhism also survived,
 196	18	Amitabha			unresolved		chanting the name of Amitabha Buddha,
-196	18	Buddha		Q153343	unique		chanting the name of Amitabha Buddha,
+196	18	Buddha		Q153343	file		chanting the name of Amitabha Buddha,
 196	19	Chan			unresolved		These two schools — Chan and Pure Land —
 196	20	Jiedushi			unresolved		Regional warlords, the Jiedushi, became
 196	21	Song Dynasty			unresolved		until the Song Dynasty reunified in 960, man.
@@ -8193,7 +8193,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 199	4	Odin			unresolved		Odin, the Allfather, who hung on Yggdrasil
 199	4	Allfather			unresolved		Odin, the Allfather, who hung on Yggdrasil
 199	4	Thor			unresolved		Thor, the thunder god with Mjölnir the hammer.
-199	4	Freyr			unresolved	Q169 Q154826	Freyr and Freyja, fertility gods of the dunes.
+199	4	Freyr		Q169	consensus	Q169 Q154826	Freyr and Freyja, fertility gods of the dunes.
 199	4	Freyja			unresolved		Freyr and Freyja, fertility gods of the dunes.
 199	5	Loki			unresolved		Loki, the trickster, who birthed monsters
 199	5	Fenrir			unresolved		(Fenrir the wolf, Jörmungandr the world-serpent,
@@ -8601,7 +8601,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 210	1	Yuan Dynasty			unresolved		In China, the Yuan Dynasty was collapsing.
 210	2	Red Turban Rebellion			unresolved		The Red Turban Rebellion erupted in 1351,
 210	2	Maitreya			unresolved		the coming of Maitreya, the future Buddha,
-210	2	Buddha		Q153343	unique		the coming of Maitreya, the future Buddha,
+210	2	Buddha		Q153343	file		the coming of Maitreya, the future Buddha,
 210	3	Zhu Yuanzhang			unresolved		Zhu Yuanzhang, born a peasant, orphaned by plague,
 210	3	Red Turbans			unresolved		joined the Red Turbans and rose through their ranks
 210	4	Chen Youliang		Q41217	file		He defeated the warlord Chen Youliang at the naval
@@ -10261,7 +10261,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 256	14	Turkmen			unresolved		Of the Turkmen tents, broke on the gunpowder.
 256	14	Ismail			unresolved	Q68761 Q129421	They say Ismail never smiled again, that he drank
 256	14	God-King			unresolved		He died at thirty-six. The legend of the God-King sank.
-256	15	Abbas		Q68353	context	Q68353 Q69550 Q95406 Q97664	Outlived the claim. His great-grandson, Abbas, built Isfahan,
+256	15	Abbas		Q68353	file		Outlived the claim. His great-grandson, Abbas, built Isfahan,
 256	15	Red Heads			unresolved		Of the Red Heads tamed into a standing army, the plan
 256	16	Ismail			unresolved	Q68761 Q129421	Ismail's mother was the daughter of Uzun Hasan,
 256	16	Uzun Hasan			unresolved		Ismail's mother was the daughter of Uzun Hasan,
@@ -10383,9 +10383,9 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 262	5	God			unresolved		To carry the new God into his own tongue, said
 262	5	Dainichi			unresolved		His name was Dainichi: the Great Sun, the cosmic Buddha,
 262	5	Great Sun			unresolved		His name was Dainichi: the Great Sun, the cosmic Buddha,
-262	5	Buddha		Q153343	unique		His name was Dainichi: the Great Sun, the cosmic Buddha,
+262	5	Buddha		Q153343	file		His name was Dainichi: the Great Sun, the cosmic Buddha,
 262	5	Kūkai			unresolved		The one Kūkai had brought from China, the head
-262	6	Buddha		Q153343	unique		The land of the Buddha. They gave the strangers rooms.
+262	6	Buddha		Q153343	file		The land of the Buddha. They gave the strangers rooms.
 262	6	Jesuits			unresolved		For a season the Jesuits were Buddhist guests,
 262	6	Great Sun			unresolved		And preached the Great Sun, and the monks nodded. The looms
 262	7	Mary			unresolved	Q30510 Q138539 Q149175 Q154257	Exactly as the goddess at Kozhikode had been taken for Mary.
@@ -10475,7 +10475,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 265	4	Taikō			unresolved		By birth among the lions, made himself regent, Taikō,
 265	4	Taikō kenchi			unresolved		The Taikō kenchi: every field in Japan surveyed, the slow
 265	5	sword hunt			unresolved		And the village, in one register. And the sword hunt, 1588:
-265	5	Buddha		Q153343	unique		For the nails and bolts of a great Buddha. And in 1591, the gate
+265	5	Buddha		Q153343	file		For the nails and bolts of a great Buddha. And in 1591, the gate
 265	6	Monkey			unresolved		And the place in the register. The Monkey who had climbed
 265	7	Christians			unresolved		And the Christians. Xavier's church had grown. Lords of Kyūshū
 265	7	Xavier			unresolved		And the Christians. Xavier's church had grown. Lords of Kyūshū
@@ -11084,7 +11084,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 295	1	Emperor of the Romans			unresolved		Charlemagne, who had not asked for it, and called him Emperor of the Romans,
 295	2	Voltaire			unresolved		Voltaire mocked it as neither holy, nor Roman, nor an empire. A joke is not a reading.
 295	3	Robespierre			unresolved		And Robespierre put God back, the Supreme Being of an earlier chapter, against the atheists of his own side,
-295	4	Emma Leonhart			unresolved		First he sacked Rome, as Emma Leonhart says, and then he sacked Rome again, with the crown in his hand.
+295	4	Emma Leonhart		Q2	override		First he sacked Rome, as Emma Leonhart says, and then he sacked Rome again, with the crown in his hand.
 295	5	Pope			unresolved		Pope Pius VII sat waiting to crown a Corsican, and the fire
 295	5	Pius VII			unresolved		Pope Pius VII sat waiting to crown a Corsican, and the fire
 295	5	Corsican			unresolved		Pope Pius VII sat waiting to crown a Corsican, and the fire
@@ -11606,7 +11606,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 336	6	Bill Richardson			unresolved		On the Saturday Bill Richardson said
 336	6	John Koskinen			unresolved		John Koskinen said the bug had been squashed,
 336	13	John Koskinen			unresolved		John Koskinen said the glitches were a handful.
-337	2	Emma Leonhart			unresolved		The person is Emma Leonhart, who keeps this book.
+337	2	Emma Leonhart		Q2	override		The person is Emma Leonhart, who keeps this book.
 337	10	Larry Sanger			unresolved		Larry Sanger had been writing a digest
 337	10	Jimmy Wales			unresolved		Jimmy Wales answered with an encyclopedia,
 337	10	Wales			unresolved		He has written that the open encyclopedia was Wales's idea,
@@ -11617,7 +11617,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 337	12	Ben Kovitz			unresolved		He ate with Ben Kovitz
 337	12	Ben Kovitz			unresolved		Ben Kovitz told him of Ward Cunningham's pages,
 337	12	Ward Cunningham			unresolved		Ben Kovitz told him of Ward Cunningham's pages,
-337	15	Emma Leonhart			unresolved		Emma Leonhart came to hate this book, in her words,
+337	15	Emma Leonhart		Q2	override		Emma Leonhart came to hate this book, in her words,
 337	19	Ahmad Shah Massoud			unresolved		Ahmad Shah Massoud, who led the last front against them in the north,
 337	21	Job Cohen			unresolved		The mayor, Job Cohen, married four couples, men to men and women to women,
 337	23	George W. Bush			unresolved		On the twentieth of January George W. Bush was sworn in,
@@ -11629,11 +11629,11 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 337	33	Massoud			unresolved		The fighters of the north, Massoud's men without Massoud,
 337	33	Osama bin Laden			unresolved		Osama bin Laden was surrounded, and got away.
 337	33	Hamid Karzai			unresolved		On a government, and Hamid Karzai led it from the twenty-second.
-338	2	Emma Leonhart			unresolved		In 2002 Emma Leonhart turned six,
+338	2	Emma Leonhart		Q2	override		In 2002 Emma Leonhart turned six,
 338	8	George W. Bush			unresolved		On the twenty-ninth of January George W. Bush
 338	10	Daniel Pearl			unresolved		In January Daniel Pearl, a reporter for the Wall Street Journal,
 338	18	Larry Sanger			unresolved		On the first of March Larry Sanger
-339	2	Emma Leonhart			unresolved		In 2003 Emma Leonhart turned seven.
+339	2	Emma Leonhart		Q2	override		In 2003 Emma Leonhart turned seven.
 339	4	Ilan Ramon			unresolved		Seven died, among them Ilan Ramon,
 339	4	Kalpana Chawla			unresolved		And Kalpana Chawla, born in Karnal in India.
 339	6	Colin Powell			unresolved		On the fifth of February Colin Powell
@@ -11648,7 +11648,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 339	23	Hu Jintao			unresolved		In March Hu Jintao became president of China.
 339	23	Charles Taylor			unresolved		In August Charles Taylor left Liberia.
 339	23	Yang Liwei			unresolved		On the fifteenth of October Yang Liwei went into orbit,
-340	2	Emma Leonhart			unresolved		In 2004 Emma Leonhart turned eight.
+340	2	Emma Leonhart		Q2	override		In 2004 Emma Leonhart turned eight.
 340	4	Mark Zuckerberg			unresolved		Mark Zuckerberg, a student, after about a week of coding,
 340	4	Dustin Moskovitz			unresolved		That summer he moved to California with Dustin Moskovitz
 340	4	Peter Thiel			unresolved		And took half a million dollars from Peter Thiel.
@@ -11661,7 +11661,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 340	19	Ronald Reagan			unresolved		On the fifth of June Ronald Reagan died.
 340	19	Theo van Gogh			unresolved		The filmmaker Theo van Gogh was shot and stabbed in the street
 340	19	Yasser Arafat			unresolved		On the eleventh of November Yasser Arafat died, in a hospital near Paris.
-341	2	Emma Leonhart			unresolved		In 2005 Emma Leonhart turned nine.
+341	2	Emma Leonhart		Q2	override		In 2005 Emma Leonhart turned nine.
 341	4	Jawed Karim			unresolved		On the twenty-third of April one of them, Jawed Karim,
 341	6	John Paul II			unresolved		On the second of April John Paul II died in Rome,
 341	6	Joseph Ratzinger			unresolved		On the nineteenth of April the cardinals chose Joseph Ratzinger,
@@ -11674,7 +11674,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 341	20	Angela Merkel			unresolved		On the twenty-second of November Angela Merkel became chancellor of Germany,
 341	20	John Seigenthaler			unresolved		Said falsely that a journalist, John Seigenthaler,
 341	20	Kennedy			unresolved		Had been suspected in the killing of the Kennedys.
-342	2	Emma Leonhart			unresolved		In 2006 Emma Leonhart turned ten.
+342	2	Emma Leonhart		Q2	override		In 2006 Emma Leonhart turned ten.
 342	4	Marlin K. Jensen			unresolved		Marlin K. Jensen, the historian of the Latter-day Saints,
 342	6	Jack Dorsey			unresolved		On the twenty-first of March Jack Dorsey
 342	12	Donald Rumsfeld			unresolved		Donald Rumsfeld, who had run the war, resigned.
@@ -11685,7 +11685,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 342	16	Ellen Johnson Sirleaf			unresolved		On the sixteenth of January Ellen Johnson Sirleaf became president of Liberia,
 342	16	Evo Morales			unresolved		On the twenty-second Evo Morales became president of Bolivia,
 342	18	Al Gore			unresolved		In May a former vice president, Al Gore, put his slides of the warming world into a film,
-343	2	Emma Leonhart			unresolved		In 2007 Emma Leonhart turned eleven.
+343	2	Emma Leonhart		Q2	override		In 2007 Emma Leonhart turned eleven.
 343	4	Steve Jobs			unresolved		Steve Jobs showed a phone that was not yet for sale.
 343	6	Anne Wojcicki			unresolved		Anne Wojcicki and Linda Avey began selling a test of the blood by mail.
 343	6	Linda Avey			unresolved		Anne Wojcicki and Linda Avey began selling a test of the blood by mail.
@@ -11698,28 +11698,28 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 343	18	Tony Blair			unresolved		In June Gordon Brown took Britain from Tony Blair;
 343	18	Kevin Rudd			unresolved		In November Kevin Rudd took Australia,
 343	22	Bhutto			unresolved		The surge, the saffron monks, Bhutto killed, Kenya burning,
-344	2	Emma Leonhart			unresolved		In 2008 Emma Leonhart turned twelve, and her family moved house again.
+344	2	Emma Leonhart		Q2	override		In 2008 Emma Leonhart turned twelve, and her family moved house again.
 344	4	Stalin			unresolved		Took Gori, the birthplace of Stalin,
 344	10	George W. Bush			unresolved		On the third of October George W. Bush signed a law
 344	12	Satoshi Nakamoto			unresolved		The name on the note was Satoshi Nakamoto.
 344	14	Barack Obama			unresolved		On the fourth of November Barack Obama was elected president,
 344	18	Stephen Harper			unresolved		The prime minister of Canada, Stephen Harper, apologized in the parliament
 344	22	Fidel Castro			unresolved		On the nineteenth of February Fidel Castro gave up the presidency of Cuba to his brother.
-345	2	Emma Leonhart			unresolved		In 2009 Emma Leonhart turned thirteen.
+345	2	Emma Leonhart		Q2	override		In 2009 Emma Leonhart turned thirteen.
 345	6	Barack Obama			unresolved		On the twentieth of January Barack Obama was sworn in,
 345	8	Bernard Madoff			unresolved		In December of the year before Bernard Madoff
 345	12	Mahmoud Ahmadinejad			unresolved		And the government announced that Mahmoud Ahmadinejad had won by a landslide
 345	12	Neda Agha-Soltan			unresolved		On the twentieth of June a young woman, Neda Agha-Soltan,
 345	16	Chesley Sullenberger			unresolved		On the fifteenth of January a pilot named Chesley Sullenberger
 345	20	Michael Jackson			unresolved		On the twenty-fifth of June Michael Jackson died, and the net slowed under the grief.
-346	2	Emma Leonhart			unresolved		In 2010 Emma Leonhart turned fourteen.
+346	2	Emma Leonhart		Q2	override		In 2010 Emma Leonhart turned fourteen.
 346	6	Nodar Kumaritashvili			unresolved		On the first day a luger from Georgia, Nodar Kumaritashvili,
 346	6	Sidney Crosby			unresolved		On the last day Sidney Crosby scored in overtime,
 346	16	Chelsea Manning			unresolved		The soldier who had copied them, Chelsea Manning, a young intelligence analyst,
 346	16	Julian Assange			unresolved		The man who ran the site, Julian Assange, was arrested in London in December
 346	22	Liu Xiaobo			unresolved		On the eighth of October the Nobel Peace Prize went to Liu Xiaobo,
 346	24	Mohamed Bouazizi			unresolved		A fruit seller named Mohamed Bouazizi, twenty-six,
-347	2	Emma Leonhart			unresolved		In 2011 Emma Leonhart turned fifteen.
+347	2	Emma Leonhart		Q2	override		In 2011 Emma Leonhart turned fifteen.
 347	4	Mohamed Bouazizi			unresolved		On the fourth of January Mohamed Bouazizi died of his burns.
 347	4	Zine El Abidine Ben Ali			unresolved		And on the fourteenth of January Zine El Abidine Ben Ali,
 347	4	Hosni Mubarak			unresolved		Until on the eleventh of February Hosni Mubarak, thirty years in power, resigned,
@@ -11730,7 +11730,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 347	17	Jack Layton			unresolved		And its leader, Jack Layton, died of cancer in August,
 347	17	Steve Jobs			unresolved		On the fifth of October Steve Jobs died.
 347	17	Kim Jong-il			unresolved		On the seventeenth of December Kim Jong-il died, and his son took the country.
-348	2	Emma Leonhart			unresolved		In 2012 Emma Leonhart turned sixteen.
+348	2	Emma Leonhart		Q2	override		In 2012 Emma Leonhart turned sixteen.
 348	4	Fei-Fei Li			unresolved		The set called ImageNet had been gathered under Fei-Fei Li,
 348	4	Alex Krizhevsky			unresolved		In Toronto, Alex Krizhevsky, Ilya Sutskever, and Geoffrey Hinton
 348	4	Ilya Sutskever			unresolved		In Toronto, Alex Krizhevsky, Ilya Sutskever, and Geoffrey Hinton
@@ -11749,7 +11749,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 348	16	Mario Draghi			unresolved		On the twenty-sixth of July the head of the bank of the euro, Mario Draghi,
 348	20	Putin			unresolved		Putin back, Xi rising, a prayer in a cathedral punished.
 348	20	Xi			unresolved	Q52098 Q53594 Q168114	Putin back, Xi rising, a prayer in a cathedral punished.
-349	2	Emma Leonhart			unresolved		In 2013 Emma Leonhart turned seventeen.
+349	2	Emma Leonhart		Q2	override		In 2013 Emma Leonhart turned seventeen.
 349	4	James Clapper			unresolved		James Clapper, the director of national intelligence, answered: No, sir.
 349	6	Edward Snowden			unresolved		He was Edward Snowden, who had worked for a contractor of the agency in Hawaii,
 349	6	Glenn Greenwald			unresolved		Glenn Greenwald and Laura Poitras were in the room.
@@ -11767,7 +11767,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 349	24	Viktor Yanukovych			unresolved		On the twenty-first of November the president of Ukraine, Viktor Yanukovych,
 349	26	Nelson Mandela			unresolved		On the fifth of December Nelson Mandela died, at ninety-five.
 349	26	Kim Jong-un			unresolved		In December Kim Jong-un had his uncle executed.
-350	2	Emma Leonhart			unresolved		In 2014 Emma Leonhart turned eighteen,
+350	2	Emma Leonhart		Q2	override		In 2014 Emma Leonhart turned eighteen,
 350	4	Abu Bakr al-Baghdadi			unresolved		Abu Bakr al-Baghdadi gave the sermon in a black robe and turban
 350	5	James Foley			unresolved		On the nineteenth of August it published a video of the killing of James Foley, an American reporter,
 350	5	Khaled al-Asaad			unresolved		In the next summer it killed Khaled al-Asaad, who had kept the ruins of Palmyra for decades,
@@ -11784,7 +11784,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 350	13	Michael Brown			unresolved		A policeman shot an unarmed young man of eighteen, Michael Brown,
 350	19	Nathan Cirillo			unresolved		Nathan Cirillo, standing guard at the war memorial,
 350	21	Robin Williams			unresolved		On the eleventh of August the actor Robin Williams died.
-351	2	Emma Leonhart			unresolved		In 2015 Emma Leonhart turned nineteen,
+351	2	Emma Leonhart		Q2	override		In 2015 Emma Leonhart turned nineteen,
 351	4	William MacAskill			unresolved		In this year a young philosopher at Oxford, William MacAskill,
 351	4	Peter Singer			unresolved		Out of the work of Peter Singer, and of Toby Ord, and of the givers who pledged a tenth,
 351	4	Toby Ord			unresolved		Out of the work of Peter Singer, and of Toby Ord, and of the givers who pledged a tenth,
@@ -11803,7 +11803,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 351	22	Boris Nemtsov			unresolved		On the twenty-seventh of February Boris Nemtsov, who opposed Putin,
 351	22	Putin			unresolved		On the twenty-seventh of February Boris Nemtsov, who opposed Putin,
 351	22	Aung San Suu Kyi			unresolved		On the eighth of November Myanmar voted, and the party of Aung San Suu Kyi won.
-352	2	Emma Leonhart			unresolved		In 2016 Emma Leonhart turned twenty.
+352	2	Emma Leonhart		Q2	override		In 2016 Emma Leonhart turned twenty.
 352	2	Trump			unresolved		She has said this is the year of the election of Trump.
 352	4	DeepMind			unresolved		In March, in Seoul, the program AlphaGo, from DeepMind,
 352	4	Lee Sedol			unresolved		Played Lee Sedol, one of the strongest players of go alive,
@@ -11818,7 +11818,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 352	20	David Bowie			unresolved		On the tenth of January David Bowie died, two days after his last record,
 352	20	Prince		Q171559	file		And on the twenty-first of April Prince.
 352	20	Fidel Castro			unresolved		On the twenty-fifth of November Fidel Castro died.
-353	2	Emma Leonhart			unresolved		In 2017 Emma Leonhart turned twenty-one,
+353	2	Emma Leonhart		Q2	override		In 2017 Emma Leonhart turned twenty-one,
 353	2	Aster		Q1	file		Until they reached past the kings and the gods to Aster and Andromeda.
 353	2	Andromeda		Q3	file		Until they reached past the kings and the gods to Aster and Andromeda.
 353	4	Ashish Vaswani			unresolved		Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit,
@@ -11839,8 +11839,8 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 353	22	Robert Mugabe			unresolved		In Zimbabwe, in November, the army put Robert Mugabe under guard,
 353	22	Xi Jinping			unresolved		In October China wrote the thought of Xi Jinping into its party's constitution.
 353	22	Mohammed bin Salman			unresolved		In June the son of the king of Saudi Arabia, Mohammed bin Salman, became the heir,
-354	2	Emma Leonhart			unresolved		In 2018 Emma Leonhart turned twenty-two, in her fifth year at the university.
-354	4	Emma Leonhart			unresolved		In this year Emma Leonhart went there, and stood among the pillars.
+354	2	Emma Leonhart		Q2	override		In 2018 Emma Leonhart turned twenty-two, in her fifth year at the university.
+354	4	Emma Leonhart		Q2	override		In this year Emma Leonhart went there, and stood among the pillars.
 354	6	Mark Zuckerberg			unresolved		In April Mark Zuckerberg sat before the congress for two days,
 354	10	Emma González			unresolved		And one of them, Emma González, stood silent before the crowd for six minutes and twenty seconds,
 354	10	Greta Thunberg			unresolved		On the twentieth of August a girl of fifteen, Greta Thunberg,
@@ -11852,7 +11852,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 354	22	He Jiankui			unresolved		On the twenty-fifth of November a scientist in Shenzhen, He Jiankui,
 354	26	Abiy Ahmed			unresolved		And the prime minister of Ethiopia, Abiy Ahmed, was given the peace prize the next year,
 354	26	Andrés Manuel López Obrador			unresolved		On the first of July Mexico elected Andrés Manuel López Obrador.
-355	2	Emma Leonhart			unresolved		In 2019 Emma Leonhart turned twenty-three, and finished her five years at the university in Kelowna.
+355	2	Emma Leonhart		Q2	override		In 2019 Emma Leonhart turned twenty-three, and finished her five years at the university in Kelowna.
 355	4	Yoshihide Suga			unresolved		On Monday the first of April, in Tokyo, Yoshihide Suga held up a board
 355	4	Akihito		Q38175	file		On the thirtieth of April Akihito stepped down, by a law made for him alone.
 355	4	Naruhito		Q40035	file		On the first of May Naruhito acceded, and the sword and the jewel were carried in boxes
@@ -11865,9 +11865,9 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 355	18	Boris Johnson			unresolved		In July Boris Johnson became prime minister of Britain and won a great majority in December to get the leaving done.
 355	18	Justin Trudeau			unresolved		On the twenty-first of October Justin Trudeau was returned, with fewer seats,
 355	18	Lee Sedol			unresolved		In November Lee Sedol, who had won one game in the chapter of 2016, retired,
-355	20	Li Wenliang		Q55502	unique		On the thirtieth, a doctor, Li Wenliang, warned his classmates in a group chat,
-356	2	Emma Leonhart			unresolved		In 2020 Emma Leonhart turned twenty-four.
-356	4	Li Wenliang		Q55502	unique		In February the doctor who had warned, Li Wenliang, died of it,
+355	20	Li Wenliang		Q55502	file		On the thirtieth, a doctor, Li Wenliang, warned his classmates in a group chat,
+356	2	Emma Leonhart		Q2	override		In 2020 Emma Leonhart turned twenty-four.
+356	4	Li Wenliang		Q55502	file		In February the doctor who had warned, Li Wenliang, died of it,
 356	4	Tedros Adhanom Ghebreyesus			unresolved		On the eleventh of March, in Geneva, Tedros Adhanom Ghebreyesus said it could be called a pandemic.
 356	4	Pope Francis			unresolved		Pope Francis, of the chapter of 2013, prayed alone before the crowd that was not there.
 356	8	Toby Ord			unresolved		A philosopher of the movement of the chapter of 2015, Toby Ord,
@@ -11886,11 +11886,11 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 356	24	Uğur Şahin			unresolved		And of Uğur Şahin and Özlem Türeci, children of migrants to Germany.
 356	24	Özlem Türeci			unresolved		And of Uğur Şahin and Özlem Türeci, children of migrants to Germany.
 356	26	Kobe Bryant			unresolved		On the twenty-sixth of January Kobe Bryant died in a helicopter with his daughter.
-357	2	Emma Leonhart			unresolved		In 2021 Emma Leonhart turned twenty-five.
+357	2	Emma Leonhart		Q2	override		In 2021 Emma Leonhart turned twenty-five.
 357	4	Joe Biden			unresolved		On the twentieth Joe Biden was sworn in behind a fence of soldiers.
 357	6	Katalin Karikó			unresolved		They were made of a message of the cell, built on the work of Katalin Karikó and Drew Weissman,
 357	6	Drew Weissman			unresolved		They were made of a message of the cell, built on the work of Katalin Karikó and Drew Weissman,
-357	10	Emma Leonhart			unresolved		In the same days, at the end of the Omega Pilgrimage, Emma Leonhart had the revelation of 2021,
+357	10	Emma Leonhart		Q2	override		In the same days, at the end of the Omega Pilgrimage, Emma Leonhart had the revelation of 2021,
 357	10	Joseph Smith			unresolved		And came to the Celestial Kingdom, and met Joseph Smith.
 357	10	Charlemagne		Q115039	file		She saw the infant Charlemagne in the manger, nurtured by Mary,
 357	10	Mary			unresolved	Q30510 Q138539 Q149175 Q154257	She saw the infant Charlemagne in the manger, nurtured by Mary,
@@ -11899,17 +11899,17 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 357	20	George Floyd			unresolved		On the twentieth of April the policeman who knelt on George Floyd was convicted of his murder.
 357	20	Alexei Navalny			unresolved		On the seventeenth of January Alexei Navalny flew home to Russia from his healing, and was arrested at the airport,
 357	20	Angela Merkel			unresolved		On the eighth of December Angela Merkel left office after sixteen years.
-358	2	Emma Leonhart			unresolved		In 2022 Emma Leonhart turned twenty-six, in her second year at the college in Kelowna.
+358	2	Emma Leonhart		Q2	override		In 2022 Emma Leonhart turned twenty-six, in her second year at the college in Kelowna.
 358	4	Mani			unresolved		A man named Mani said that the prophets before him had each been sent to one people,
 358	4	Zoroaster		Q29136	file		Zoroaster to Persia, the Buddha to India, Jesus to the West,
-358	4	Buddha		Q153343	unique		Zoroaster to Persia, the Buddha to India, Jesus to the West,
+358	4	Buddha		Q153343	file		Zoroaster to Persia, the Buddha to India, Jesus to the West,
 358	4	Jesus			unresolved	Q138545	Zoroaster to Persia, the Buddha to India, Jesus to the West,
 358	4	Augustine			unresolved		It was carried west to Rome and Carthage, where the young Augustine kept it for nine years,
-358	4	Buddha		Q153343	unique		Wearing the robes of the Buddha, and calling Mani the Buddha of light.
+358	4	Buddha		Q153343	file		Wearing the robes of the Buddha, and calling Mani the Buddha of light.
 358	4	Mani			unresolved		Wearing the robes of the Buddha, and calling Mani the Buddha of light.
-358	4	Buddha		Q153343	unique		Wearing the robes of the Buddha, and calling Mani the Buddha of light.
+358	4	Buddha		Q153343	file		Wearing the robes of the Buddha, and calling Mani the Buddha of light.
 358	4	Mani			unresolved		Mani was put to death by the king of kings, and his religion was hunted in every land it reached,
-358	4	Emma Leonhart			unresolved		In this year Emma Leonhart found it.
+358	4	Emma Leonhart		Q2	override		In this year Emma Leonhart found it.
 358	4	Mani			unresolved		A parallel is not a descent. This book does not claim Mani.
 358	6	Vladimir Putin			unresolved		Vladimir Putin announced what he called a special military operation.
 358	6	Volodymyr Zelenskyy			unresolved		Volodymyr Zelenskyy stayed in the city and filmed himself in the street at night, saying, we are here.
@@ -11922,7 +11922,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 358	22	Lula			unresolved		On the thirtieth of October Lula was elected again in Brazil, and the man of the chapter of 2018 would not concede.
 358	22	Xi Jinping			unresolved		In October Xi Jinping took a third term, and his predecessor was led out of the hall.
 358	26	Abe			unresolved		A convoy on the parliament, an apology in a headdress, Abe shot, a queen buried,
-359	2	Emma Leonhart			unresolved		In 2023 Emma Leonhart turned twenty-seven, and finished her study at the college in Kelowna in December.
+359	2	Emma Leonhart		Q2	override		In 2023 Emma Leonhart turned twenty-seven, and finished her study at the college in Kelowna in December.
 359	4	Sarutahiko			unresolved		The shrine of Sarutahiko at Suzuka.
 359	4	Lawrence Barrish			unresolved		In 1992, in Granite Falls, in Washington, Lawrence Barrish built a shrine in the forest,
 359	4	Ann Evans			unresolved		To the priest Ann Evans, who had trained at Suzuka,
@@ -11931,7 +11931,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 359	12	Yevgeny Prigozhin			unresolved		On the twenty-third of June Yevgeny Prigozhin, whose private army had fought for Russia in Ukraine,
 359	14	Hardeep Singh Nijjar			unresolved		On the eighteenth of June a Sikh leader, Hardeep Singh Nijjar, was shot dead outside his temple in Surrey,
 359	16	Charles III			unresolved		On the sixth of May Charles III was crowned.
-360	2	Emma Leonhart			unresolved		In 2024 Emma Leonhart turned twenty-eight, and went back to the university in Kelowna for a while.
+360	2	Emma Leonhart		Q2	override		In 2024 Emma Leonhart turned twenty-eight, and went back to the university in Kelowna for a while.
 360	4	John Hopfield			unresolved		On Tuesday the eighth of October John Hopfield and Geoffrey Hinton
 360	4	Geoffrey Hinton			unresolved		On Tuesday the eighth of October John Hopfield and Geoffrey Hinton
 360	4	Demis Hassabis			unresolved		And on the ninth Demis Hassabis and John Jumper, with David Baker,
@@ -11950,7 +11950,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 360	16	Nasrallah			unresolved		Gaza and the word of the court, the pagers, Nasrallah, missiles from Iran, Assad fled, Kursk,
 360	16	Assad			unresolved		Gaza and the word of the court, the pagers, Nasrallah, missiles from Iran, Assad fled, Kursk,
 360	16	Navalny			unresolved		Navalny dead in the Arctic, the first year above the line, a blue screen across the world,
-361	2	Emma Leonhart			unresolved		In 2025 Emma Leonhart turned twenty-nine.
+361	2	Emma Leonhart		Q2	override		In 2025 Emma Leonhart turned twenty-nine.
 361	6	Donald Trump			unresolved		On the twentieth of January Donald Trump was sworn in again, in the rotunda, out of the cold.
 361	6	Mark Carney			unresolved		And on the fourteenth of March Mark Carney, a banker, became prime minister,
 361	6	Volodymyr Zelenskyy			unresolved		On the twenty-eighth of February Volodymyr Zelenskyy was shouted at in the president's office before the cameras,
@@ -11961,18 +11961,18 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 361	8	Leo XIV			unresolved		And took the name Leo XIV.
 361	8	Leo		Q132679	file		On the tenth he said the name recalled the Leo who answered the first industrial revolution,
 361	14	Friedrich Merz			unresolved		On the sixth of May Friedrich Merz became chancellor of Germany.
-362	2	Emma Leonhart			unresolved		In 2026 Emma Leonhart turned thirty.
+362	2	Emma Leonhart		Q2	override		In 2026 Emma Leonhart turned thirty.
 362	4	Gaiad			unresolved		Because, in her words, the Gaiad spoke to her.
 362	8	Johannes Bureus			unresolved		Everything older rests on a book that Johannes Bureus wrote of his kin,
 362	8	Reuss			unresolved		Other lines run into Germany, to the house of Reuss, and to farms with no house at all.
-362	8	Yuri Dolgorukiy		Q117161	unique		One line runs to Yuri Dolgorukiy and his wife, Anna, of the Cumans,
+362	8	Yuri Dolgorukiy		Q117161	file		One line runs to Yuri Dolgorukiy and his wife, Anna, of the Cumans,
 362	8	Anna			unresolved	Q43035 Q55471 Q127966 Q166947 Q167562 Q208610	One line runs to Yuri Dolgorukiy and his wife, Anna, of the Cumans,
 362	8	Guarandukht			unresolved		And past her, by a marriage this book has chosen to make, to Guarandukht of Georgia,
 362	8	Gregory-Abuhamza Artsruni			unresolved		And up through the kings of Vaspurakan to Gregory-Abuhamza Artsruni,
-362	8	Wu Zetian		Q19342	unique		And past him to Wu Zetian,
+362	8	Wu Zetian		Q19342	file		And past him to Wu Zetian,
 362	8	Amaterasu		Q6590	file		And to Amaterasu.
 362	10	Bureus			unresolved		The years of Bureus and of the first documented men of Bure.
-362	20	Wu Zetian		Q19342	unique		Wu Zetian and the Miwa and Amaterasu, joined in the open.
+362	20	Wu Zetian		Q19342	file		Wu Zetian and the Miwa and Amaterasu, joined in the open.
 362	20	Amaterasu		Q6590	file		Wu Zetian and the Miwa and Amaterasu, joined in the open.
 363	1	Horus		Q62656	file		In the leap days, on the Birth of Horus.
 363	2	James Bedford			unresolved		In California, James Bedford,
