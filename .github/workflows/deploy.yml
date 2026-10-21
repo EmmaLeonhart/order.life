@@ -81,7 +81,8 @@ jobs:
             d=/tmp/zip-$lang && rm -rf $d && mkdir -p $d
             python wiki-scripts/language_gedcom.py site/gaiad.ged $lang $d/gedcom.ged
             python wiki-scripts/gedcom_arms.py $d/gedcom.ged $d/gedcom.ged $d
-            python wiki-scripts/gedcom_portraits.py $d/gedcom.ged $d/gedcom.ged $d
+            # portraits by URL here: 70 MB of JPEGs in every language zip would overrun the Pages artifact's 1 GB
+            python wiki-scripts/gedcom_portraits.py $d/gedcom.ged $d/gedcom.ged
             cp site/gaiad.pdf site/gaiad.epub site/gaiad.docx site/gaiad.odt site/gaiad.txt $d/
             mkdir -p site/$lang
             (cd $d && zip -q -r -9 "$GITHUB_WORKSPACE/site/$lang/gaiad.zip" .)
