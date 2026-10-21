@@ -555,7 +555,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 17	2	Aqua		Q154298	file		Was Aqua then, the queen of tales untold.
 17	3	Proteus		Q51	file		Proteus bore a host of fourfold might:
 17	3	Alif		Q154545	file		Alif and Beth, Camilla, Mixo bold.
-17	3	Beth		Q71	context	Q71 Q154544	Alif and Beth, Camilla, Mixo bold.
+17	3	Beth		Q71	file		Alif and Beth, Camilla, Mixo bold.
 17	3	Camilla			unresolved		Alif and Beth, Camilla, Mixo bold.
 17	3	Mixo			unresolved		Alif and Beth, Camilla, Mixo bold.
 17	4	Alif		Q154545	file		Alif begat two daughters in her care:
@@ -1062,20 +1062,20 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 25	24	Carcinoma		Q243	file		Carcinoma renamed the city proud,
 25	24	Volvox-Choan			unresolved		"""No more Volvox-Choan's name!"
 25	24	Gehenna		Q154328	file		I'll call it Gehenna loud,
-25	27	Anima		Q93	consensus	Q93 Q153899	Brave Anima at the helm,
+25	27	Anima		Q93	file		Brave Anima at the helm,
 25	27	Metazo		Q153888	file		And Metazo facing wraith.
 25	28	Lord		Q153689	file		They honored still Lord Mithra's way,
 25	28	Mithra		Q153808	file		They honored still Lord Mithra's way,
-25	29	Anima		Q93	consensus	Q93 Q153899	Anima fled her ruined farm,
+25	29	Anima		Q93	file		Anima fled her ruined farm,
 25	29	Metazo		Q153888	file		While Metazo left his post.
 25	30	Carcinoma		Q243	file		Carcinoma cried in rage.
-25	31	Anima		Q93	consensus	Q93 Q153899	But Anima and Metazo true
+25	31	Anima		Q93	file		But Anima and Metazo true
 25	31	Metazo		Q153888	file		But Anima and Metazo true
 25	32	Mithra		Q153808	file		In Mithra's blessed sight.
 25	33	Animal			unresolved		"""The Animal Kingdom,"" they declared,"
 25	34	Zooxanthellae		Q154330	file		To call the Zooxanthellae home.
 25	36	Carcinoma		Q243	file		Carcinoma's paradise
-25	37	Anima		Q93	consensus	Q93 Q153899	So Anima and Metazo wise
+25	37	Anima		Q93	file		So Anima and Metazo wise
 25	37	Metazo		Q153888	file		So Anima and Metazo wise
 25	38	Guardian			unresolved		The Guardian of the Genome came,
 25	38	Genome			unresolved		The Guardian of the Genome came,
@@ -1095,18 +1095,18 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 25	49	Germlines			unresolved		While Germlines carry on.
 25	50	Carcinoma		Q243	file		Yet sometimes Carcinoma's ghost
 25	50	Whispers			unresolved		Whispers to cells grown old:
-25	52	Anima		Q93	consensus	Q93 Q153899	So honor brave Anima,
+25	52	Anima		Q93	file		So honor brave Anima,
 25	52	Metazo		Q153888	file		And Metazo the true.
 25	52	Animal			unresolved		Their Animal saga
 25	52	Guides		Q154605	file		Guides me and you.
 25	55	Carcinoma		Q243	file		From Carcinoma's rebel cry
-25	55	Anima		Q93	consensus	Q93 Q153899	To Anima's ordered realm,
+25	55	Anima		Q93	file		To Anima's ordered realm,
 25	56	Animal			unresolved		The Animal Kingdom stands today
 26	1	Euka		Q90	file		From Euka's line arose kingdoms three,
 26	2	Plantus		Q153833	file		The Kingdom of proud Plantus rose,
 26	2	Mygus			unresolved	Q120 Q153890	The realm of Mygus, where fungus flows,
 26	2	Metazo		Q153888	file		And Metazo's beasts in ordered rows.
-26	3	Mygaster			unresolved	Q107 Q154606	Mygaster's realm, Kelpus' heights,
+26	3	Mygaster		Q107	context	Q107 Q154606	Mygaster's realm, Kelpus' heights,
 26	3	Kelpus		Q155	file		Mygaster's realm, Kelpus' heights,
 26	3	Rhizar		Q126	file		Rhizar's spears, Cilliofer's sights,
 26	3	Cilliofer			unresolved		Rhizar's spears, Cilliofer's sights,
@@ -1114,13 +1114,13 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 26	4	Myzo		Q161	file		The sons of Myzo swam in blood,
 26	4	Myxo			unresolved	Q73 Q154607	While Myxo's daughters sought their food.
 26	5	Metazo		Q153888	file		From Metazo and fair Anima
-26	5	Anima		Q93	context	Q93 Q153899	From Metazo and fair Anima
+26	5	Anima		Q93	file		From Metazo and fair Anima
 26	5	Mygus			unresolved	Q120 Q153890	From Mygus and sweet Funga
 26	5	Funga		Q154609	file		From Mygus and sweet Funga
 26	6	Plantus		Q153833	file		While Plantus and Virita bright
 26	6	Virita		Q154319	file		While Plantus and Virita bright
 26	7	Metazo		Q153888	file		Great Metazo and Anima
-26	7	Anima		Q93	context	Q93 Q153899	Great Metazo and Anima
+26	7	Anima		Q93	file		Great Metazo and Anima
 26	7	Animal			unresolved		The Animal Kingdom's first hurrah.
 26	8	Choanocytes		Q154331	file		The Choanocytes, fishermen,
 26	8	Archaeocytes		Q154601	file		The Archaeocytes, women refined,
@@ -1321,7 +1321,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 29	5	Symbio			unresolved		Said Symbio-Mygus, king serene.
 29	5	Mygus			unresolved	Q120 Q153890	Said Symbio-Mygus, king serene.
 29	7	Charina		Q153924	file		Charina-Planta heard his call
-29	7	Planta			unresolved	Q94 Q153922	Charina-Planta heard his call
+29	7	Planta		Q94	consensus	Q94 Q153922	Charina-Planta heard his call
 29	8	Plant			unresolved		Plant and fungus, side by side,
 29	10	Lichen		Q153914	file		When Lichen Lake was full and high,
 29	10	Lake			unresolved		When Lichen Lake was full and high,
@@ -1384,13 +1384,13 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 29	46	Symbio			unresolved		Of Symbio-Mygus' sight
 29	46	Mygus			unresolved	Q120 Q153890	Of Symbio-Mygus' sight
 29	46	Charina		Q153924	file		And Charina-Planta's power,
-29	46	Planta			unresolved	Q94 Q153922	And Charina-Planta's power,
+29	46	Planta		Q94	consensus	Q94 Q153922	And Charina-Planta's power,
 29	48	Saya		Q84	file		Like daughters of Saya before,
 29	49	Cryogenian			unresolved		And so began the Cryogenian,
 29	51	Symbio			unresolved		So honor Symbio-Mygus true
 29	51	Mygus			unresolved	Q120 Q153890	So honor Symbio-Mygus true
 29	51	Charina		Q153924	file		And Charina-Planta too.
-29	51	Planta			unresolved	Q94 Q153922	And Charina-Planta too.
+29	51	Planta		Q94	consensus	Q94 Q153922	And Charina-Planta too.
 29	54	Web		Q154351	file		The Wood Wide Web beneath our feet
 30	1	Cnider		Q153819	file		This is the chronicle of Cnider,
 30	3	Siphonoglyph			unresolved		A Siphonoglyph, perfectly spaced.
@@ -2806,7 +2806,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 49	51	Seeds			unresolved		Seeds for another day.
 49	52	Mygus			unresolved	Q120 Q153890	In death, Mygus' sons
 49	52	Hera			unresolved	Q74653 Q130560 Q154251	Hera, daughter true,
-49	52	Freyr		Q169	consensus	Q169 Q154826	And Freyr, strong through and through,
+49	52	Freyr		Q169	file		And Freyr, strong through and through,
 49	55	Mithra		Q153808	file		But heard what Mithra said:
 49	56	Postpone			unresolved		Postpone your marriage-bed
 49	60	Dikaryotic			unresolved		Dikaryotic cells
@@ -3199,20 +3199,20 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 53	118	Tracheus			unresolved		From Polycomb to Tracheus,
 53	124	Tracheus			unresolved		The plants that Tracheus made
 53	127	Devonian			unresolved		The Devonian age began
-54	1	Devon		Q287	context	Q287 Q153813	Devon's city was the greatest sight
+54	1	Devon		Q287	file		Devon's city was the greatest sight
 54	2	Devonian			unresolved		Devonian, enthralled
-54	2	Devon		Q287	context	Q287 Q153813	By Devon's mighty rule
-54	3	Devon		Q287	context	Q287 Q153813	As Devon sat upon
+54	2	Devon		Q287	file		By Devon's mighty rule
+54	3	Devon		Q287	file		As Devon sat upon
 54	4	Notched			unresolved		Notched and beautiful
 54	6	Saya		Q84	file		By Saya's daughters' song.
-54	13	Devon		Q287	context	Q287 Q153813	When Devon moved his frame
+54	13	Devon		Q287	file		When Devon moved his frame
 54	19	Pancreas			unresolved		Pancreas and gallbladder
 54	19	Partners		Q154416	file		Partners in the art
 54	22	Life			unresolved		Life's most essential thing:
 54	22	Fats			unresolved		Fats and sugars sweet,
 54	22	Proteins			unresolved		Proteins complete,
 54	23	Phosphorus		Q132052	file		Phosphorus and metals
-54	29	Devon		Q287	context	Q287 Q153813	When Devon married fair
+54	29	Devon		Q287	file		When Devon married fair
 54	31	Llŷr		Q136010	file		Llŷr and Stennisio,
 54	31	Stennisio		Q154448	file		Llŷr and Stennisio,
 54	32	Stennisio		Q154448	file		The sons of Stennisio
@@ -3228,8 +3228,8 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 54	38	Cynan		Q30377	file		Cynan begat Cadwr,
 54	38	Cadwr		Q30385	file		Cynan begat Cadwr,
 54	39	Cadwr		Q30385	file		Cadwr begat Eudaf,
-54	39	Eudaf		Q30389	context	Q30389 Q154872	Cadwr begat Eudaf,
-54	40	Eudaf		Q30389	context	Q30389 Q154872	Eudaf begat Morfawr,
+54	39	Eudaf		Q30389	file		Cadwr begat Eudaf,
+54	40	Eudaf		Q30389	file		Eudaf begat Morfawr,
 54	40	Morfawr		Q30393	file		Eudaf begat Morfawr,
 54	41	Morfawr		Q30393	file		Morfawr begat two sons:
 54	41	Tudwal		Q30397	file		Tudwal when day begun
@@ -3303,24 +3303,24 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 54	86	Janusicthus		Q30506	file		Janusicthus to explore
 54	87	Janusicthus		Q30506	file		Janusicthus brought
 54	90	Sensing			unresolved		Sensing all around
-54	92	Devon		Q287	context	Q287 Q153813	From Devon's city great
+54	92	Devon		Q287	file		From Devon's city great
 54	92	Janusicthus		Q30506	file		To Janusicthus' fate
 54	98	Antiarchon		Q30413	file		From Antiarchon's revolt
 54	99	Mary		Q30510	context	Q30510 Q138539 Q149175 Q154257	To Mary's gift of love
 54	101	Devonian			unresolved		The Devonian age
-54	103	Devon		Q287	context	Q287 Q153813	From Devon's peaceful ways
+54	103	Devon		Q287	file		From Devon's peaceful ways
 54	103	Brachy		Q30461	file		To Brachy's iron rule
 54	105	Janusicthus		Q30506	file		The fish that Janusicthus made
-54	107	Devon		Q287	context	Q287 Q153813	From Devon's spiracle
+54	107	Devon		Q287	file		From Devon's spiracle
 54	107	Dunkella		Q30489	file		To Dunkella's miracle
 54	109	Devonian			unresolved		The Devonian dawn
-54	112	Devon		Q287	context	Q287 Q153813	From Devon's city bright
+54	112	Devon		Q287	file		From Devon's city bright
 54	116	Devonian			unresolved		The Devonian age began
-54	118	Devon		Q287	context	Q287 Q153813	From Devon's peaceful reign
+54	118	Devon		Q287	file		From Devon's peaceful reign
 54	118	Brachy		Q30461	file		To Brachy's war-torn stain
-55	1	Devon		Q287	consensus	Q287 Q153813	As Devon's sons grew strong and true in might,
+55	1	Devon		Q287	file		As Devon's sons grew strong and true in might,
 55	1	Proteus		Q51	file		The spineless sons of bright Proteus fair
-55	2	Devon		Q287	consensus	Q287 Q153813	In Devon's shadow they grew day by day,
+55	2	Devon		Q287	file		In Devon's shadow they grew day by day,
 55	3	Spiralius			unresolved	Q414 Q153827	Among great Spiralius' noble line,
 55	3	Neo			unresolved		Neo arose in tenth generation's race
 55	3	Bactridius			unresolved		Of Bactridius blessed and divine,
@@ -3389,8 +3389,8 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 55	51	Proteus		Q51	file		Alas, the great revolt of brave Proteus
 55	52	Protean		Q154897	file		The great Protean rebellion failed to bring
 55	52	Subjection			unresolved		Subjection to great Devon's mighty reign
-55	52	Devon		Q287	consensus	Q287 Q153813	Subjection to great Devon's mighty reign
-55	53	Devon		Q287	consensus	Q287 Q153813	The sons of Devon held their righteous power,
+55	52	Devon		Q287	file		Subjection to great Devon's mighty reign
+55	53	Devon		Q287	file		The sons of Devon held their righteous power,
 55	54	Proteus		Q51	file		Where sons of brave Proteus at last could find
 55	57	Proteus		Q51	file		There sons of brave Proteus would find at last
 55	58	Neo			unresolved		From Neo's intelligence without the grace
@@ -3450,10 +3450,10 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 56	40	Adderos		Q295	file		That split 'tween Adderos and Fernando,
 56	40	Fernando		Q296	file		That split 'tween Adderos and Fernando,
 56	41	Adderos		Q295	file		Adderos sired Ophios the strange,
-56	41	Ophios		Q334	context	Q334 Q154905	Adderos sired Ophios the strange,
-56	41	Psilos		Q335	context	Q335 Q154906	And Psilos, dwelling in the mountain range,
-56	42	Ophios		Q334	context	Q334 Q154905	The adder's-tongue from brave Ophios came,
-56	42	Psilos		Q335	context	Q335 Q154906	While whisk ferns trace to Psilos as their sire,
+56	41	Ophios		Q334	file		Adderos sired Ophios the strange,
+56	41	Psilos		Q335	file		And Psilos, dwelling in the mountain range,
+56	42	Ophios		Q334	file		The adder's-tongue from brave Ophios came,
+56	42	Psilos		Q335	file		While whisk ferns trace to Psilos as their sire,
 56	43	Fernando		Q296	file		Fernando spread his fronds in patterns wide
 56	43	Maratton		Q336	file		With Maratton standing close beside his side.
 56	45	Swamp			unresolved		## The Great Swamp Settlement
@@ -3472,7 +3472,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 57	2	Kondricthus		Q154909	file		First Kondricthus, noble, strong, and true,
 57	2	Osticthus		Q153906	file		And bright Osticthus, bearer of the name
 57	4	Elohim		Q153921	file		To great Elohim's everlasting sight
-57	5	Christ			unresolved		Then waited for reply beneath the Christ
+57	5	Christ		Q138545	override		Then waited for reply beneath the Christ
 57	6	Elohim		Q153921	file		And great Elohim spoke to faithful men:
 57	9	Chondricthus		Q154164	file		Great Chondricthus declared with royal pride:
 57	12	Osticthus		Q153906	file		But bright Osticthus received instead
@@ -3519,30 +3519,30 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 57	62	Elivagar			unresolved		From great Elivagar's sacred, flowing stream
 57	65	Extends			unresolved		Extends to all who seek to truly be
 57	66	Janus			unresolved	Q74897 Q90269 Q132731	From Janus to the three great houses blessed,
-58	1	Dikar		Q168	context	Q168 Q154102	Dikar lived as parasite upon the sons
+58	1	Dikar		Q168	file		Dikar lived as parasite upon the sons
 58	1	Plantus		Q153833	file		Of Plantus bright, from lineage of great fame,
-58	1	Freyr		Q169	context	Q169 Q154826	From Freyr and Hera's marriage blessed by name.
+58	1	Freyr		Q169	file		From Freyr and Hera's marriage blessed by name.
 58	1	Hera			unresolved	Q74653 Q130560 Q154251	From Freyr and Hera's marriage blessed by name.
-58	3	Dikar		Q168	context	Q168 Q154102	Dikar married Ferma fair and true,
+58	3	Dikar		Q168	file		Dikar married Ferma fair and true,
 58	3	Ferma			unresolved		Dikar married Ferma fair and true,
-58	4	Ascus		Q182	context	Q182 Q154268	Ascus and Baston were their children's names,
+58	4	Ascus		Q182	file		Ascus and Baston were their children's names,
 58	4	Baston		Q183	file		Ascus and Baston were their children's names,
 58	4	Plantus		Q153833	file		Of Plantus, where they'd strike like burning flames
-58	5	Ascus		Q182	context	Q182 Q154268	Ascus became the father of Cup Fungi,
+58	5	Ascus		Q182	file		Ascus became the father of Cup Fungi,
 58	5	Cup			unresolved		Ascus became the father of Cup Fungi,
 58	5	Fungi		Q154238	file		Ascus became the father of Cup Fungi,
 58	6	Baston		Q183	file		Baston became the noble sire of those
-58	7	Ascus		Q182	context	Q182 Q154268	Ascus begat two sons of different ways:
-58	7	Taphrin		Q196	context	Q196 Q154912	Taphrin at dawn and Saccharos so bright,
+58	7	Ascus		Q182	file		Ascus begat two sons of different ways:
+58	7	Taphrin		Q196	file		Taphrin at dawn and Saccharos so bright,
 58	7	Saccharos		Q197	file		Taphrin at dawn and Saccharos so bright,
-58	8	Taphrin		Q196	context	Q196 Q154912	Taphrin lived small and plain through sun and rain
+58	8	Taphrin		Q196	file		Taphrin lived small and plain through sun and rain
 58	12	Saccharos		Q197	file		Saccharos, noble son of great Ascus,
-58	12	Ascus		Q182	context	Q182 Q154268	Saccharos, noble son of great Ascus,
+58	12	Ascus		Q182	file		Saccharos, noble son of great Ascus,
 58	14	Saccharos		Q197	file		Saccharos bore two sons in days of old:
 58	14	Peziz		Q216	file		Peziz at dawn and Melchizedek, savior
-58	14	Melchizedek		Q217	context	Q217 Q154103	Peziz at dawn and Melchizedek, savior
-58	15	Melchizedek		Q217	context	Q217 Q154103	Great Melchizedek became a humble cell:
-58	16	Melchizedek		Q217	context	Q217 Q154103	Melchizedek became the Eloh high
+58	14	Melchizedek		Q217	file		Peziz at dawn and Melchizedek, savior
+58	15	Melchizedek		Q217	file		Great Melchizedek became a humble cell:
+58	16	Melchizedek		Q217	file		Melchizedek became the Eloh high
 58	16	Eloh		Q154240	file		Melchizedek became the Eloh high
 58	19	Peziz		Q216	file		Peziz bore countless sons throughout his days,
 58	19	Lopez		Q224	file		Among them Lopez bright and Orbillus
@@ -3563,7 +3563,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 58	30	Baston		Q183	file		Baston begat two sons of different ways:
 58	30	Ortho		Q218	file		Ortho at dawn and bright Puccini too,
 58	30	Puccini		Q219	file		Ortho at dawn and bright Puccini too,
-58	34	Botry		Q229	context	Q229 Q154911	Botry, the son of great Puccini's line,
+58	34	Botry		Q229	file		Botry, the son of great Puccini's line,
 58	34	Puccini		Q219	file		Botry, the son of great Puccini's line,
 58	36	Ortho		Q218	file		Ortho begat two sons of different fame:
 58	36	Ustella		Q227	file		Ustella and Agaricus so bright
@@ -3590,18 +3590,18 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 58	51	Dacrum		Q309	file		Tremello and Dacrum kept jellyshrooms made
 58	53	Agaricus		Q228	file		While great Agaricus made the first display
 58	54	Agaricus		Q228	file		The sons of great Agaricus create
-58	58	Dikar		Q168	context	Q168 Q154102	From Dikar's parasitic, ancient start
+58	58	Dikar		Q168	file		From Dikar's parasitic, ancient start
 58	59	Arrival			unresolved		Arrival of the truth that never lies.
-58	62	Melchizedek		Q217	context	Q217 Q154103	From great Melchizedek's yeast so blessed
+58	62	Melchizedek		Q217	file		From great Melchizedek's yeast so blessed
 58	62	High			unresolved		With blessings flowing from the great High Priest,
 58	62	Priest			unresolved		With blessings flowing from the great High Priest,
 58	65	Display			unresolved		Display of penicillin's sacred might
 58	71	Corrupting			unresolved		Corrupting what is good and pure and right
 58	74	King		Q87699	file		Of hope's eternal, everlasting King.
-58	75	Dikar		Q168	context	Q168 Q154102	From Dikar's ancient line to mushrooms blessed
+58	75	Dikar		Q168	file		From Dikar's ancient line to mushrooms blessed
 58	78	Partners		Q154416	file		Partners in the dance of harmony
-59	1	Planta			unresolved	Q94 Q153922	Great Planta, Anima, and those conceived
-59	1	Anima		Q93	consensus	Q93 Q153899	Great Planta, Anima, and those conceived
+59	1	Planta		Q94	context	Q94 Q153922	Great Planta, Anima, and those conceived
+59	1	Anima		Q93	file		Great Planta, Anima, and those conceived
 59	1	Funga		Q154609	file		By Funga, spreading life through earth and air.
 59	3	Shesha		Q154165	file		But Shesha the Actinite and Matsya wise
 59	3	Actinite			unresolved		But Shesha the Actinite and Matsya wise
@@ -4802,7 +4802,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 131	54	Noah		Q70439	override		Of the migration, whose grandson Noah will toss
 131	55	Seth		Q134747	file		Seth is the pre-history of the great
 131	56	Seth		Q134747	file		Of leaving. Seth's descendants, Enosh,
-131	56	Enosh			unresolved		Of leaving. Seth's descendants, Enosh,
+131	56	Enosh		Q134510	override		Of leaving. Seth's descendants, Enosh,
 131	56	Kenan		Q134022	context	Q10 Q134022	Kenan, Mahalalel, Jared, the joint
 131	56	Mahalalel		Q132727	file		Kenan, Mahalalel, Jared, the joint
 131	56	Jared		Q131418	context	Q16 Q131418	Kenan, Mahalalel, Jared, the joint
@@ -4838,8 +4838,8 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 131	81	CF		Q1160	file		Of CT and DE and CF and the flow
 132	1	Seth		Q134747	file		Ten generations from Seth, the line had kept
 132	3	Seth		Q134747	file		In the line of Seth through Enosh, the fen
-132	3	Enosh			unresolved		In the line of Seth through Enosh, the fen
-132	3	Enosh			unresolved		And marsh-dwelling Enosh, and Kenan, the ache
+132	3	Enosh		Q134510	override		In the line of Seth through Enosh, the fen
+132	3	Enosh		Q134510	override		And marsh-dwelling Enosh, and Kenan, the ache
 132	3	Kenan		Q134022	context	Q10 Q134022	And marsh-dwelling Enosh, and Kenan, the ache
 132	4	Mahalalel		Q132727	file		And joy of the settling tribes, and Mahalalel,
 132	4	Jared		Q131418	context	Q16 Q131418	And Jared, and Enoch who walked with God
@@ -5103,17 +5103,17 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 136	32	G			initial		Still. G is alive. G built what the Gaiad considers the sculpture
 136	32	G			initial		Still. G is alive. G built what the Gaiad considers the sculpture
 136	32	G			initial		And foundational monument of civilization, and G's direct descendants, the herds
-136	35	Melchizedek		Q217	consensus	Q217 Q154103	Melchizedek. The priest-king of Salem, who greets Abraham later in
+136	35	Melchizedek		Q217	file		Melchizedek. The priest-king of Salem, who greets Abraham later in
 136	35	Abraham		Q85228	file		Melchizedek. The priest-king of Salem, who greets Abraham later in
 136	35	Abraham		Q85228	file		Abraham, receives a tithe, and disappears. In the standard reading
-136	36	Melchizedek		Q217	consensus	Q217 Q154103	Melchizedek is the Gaiad's symbolic representative of the Göbekli Tepe
+136	36	Melchizedek		Q217	file		Melchizedek is the Gaiad's symbolic representative of the Göbekli Tepe
 136	36	Abraham		Q85228	file		Priesthood. The remnant of the old temple-builders, still alive in Abraham's
 136	36	Abraham		Q85228	file		Day, meeting the wandering Abraham on his journey south from Sanliurfa
 136	36	Abraham		Q85228	file		(Which is, by no coincidence, the city closest to Göbekli Tepe itself). Abraham
-136	37	Melchizedek		Q217	consensus	Q217 Q154103	Melchizedek there. And Melchizedek, in the Gaiad's reading, is the last
-136	37	Melchizedek		Q217	consensus	Q217 Q154103	Melchizedek there. And Melchizedek, in the Gaiad's reading, is the last
+136	37	Melchizedek		Q217	file		Melchizedek there. And Melchizedek, in the Gaiad's reading, is the last
+136	37	Melchizedek		Q217	file		Melchizedek there. And Melchizedek, in the Gaiad's reading, is the last
 136	37	Abraham		Q85228	file		Buried long before Abraham's day—the site was deliberately entombed, the past
-136	38	Melchizedek		Q217	consensus	Q217 Q154103	"Melchizedek is ""George Gobeklius"" in the Gaiad's nicknaming—the"
+136	38	Melchizedek		Q217	file		"Melchizedek is ""George Gobeklius"" in the Gaiad's nicknaming—the"
 136	38	George Gobeklius			unresolved		"Melchizedek is ""George Gobeklius"" in the Gaiad's nicknaming—the"
 136	39	Abraham		Q85228	file		Of stone and animal eleven thousand years ago. Abraham meets him, receives
 136	41	Abraham		Q85228	file		But that is Abraham's chapter, which is later. For now, the G lineage.
@@ -5746,15 +5746,15 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 151	25	God			unresolved		His father's house and go to the land that God would show him.
 151	26	Abraham		Q85228	file		And here the Gaiad takes a specific narrative position. Abraham's
 151	28	Abraham		Q85228	file		On earth. And the Gaiad's reading is that Abraham stopped here.
-151	28	Melchizedek		Q217	consensus	Q217 Q154103	Stopped in Sanliurfa. And that in Sanliurfa, he met Melchizedek—
+151	28	Melchizedek		Q217	file		Stopped in Sanliurfa. And that in Sanliurfa, he met Melchizedek—
 151	28	Abraham		Q85228	file		To bless Abraham, receive a tithe, and disappear. The biblical
 151	29	Abraham		Q85228	file		Text places this meeting later in Abraham's journey, after he
 151	29	Lot		Q86393	file		Rescues his nephew Lot from the Mesopotamian kings. The Gaiad
-151	29	Melchizedek		Q217	consensus	Q217 Q154103	"Relocates it—in the Gaiad's reading, Melchizedek is ""{{c|George"
+151	29	Melchizedek		Q217	file		"Relocates it—in the Gaiad's reading, Melchizedek is ""{{c|George"
 151	30	Abraham		Q85228	file		Nearby. And Abraham, stopping in Sanliurfa on his southward
 151	32	Abraham		Q85228	file		Abraham the spiritual heir of the Göbekli Tepe tradition. The
 151	33	Noah		Q70439	override		Not merely to Noah but to the hunter-gatherer priests who raised
-151	33	Melchizedek		Q217	consensus	Q217 Q154103	Years ago. Melchizedek is the bridge. The tithe Abraham pays is
+151	33	Melchizedek		Q217	file		Years ago. Melchizedek is the bridge. The tithe Abraham pays is
 151	33	Abraham		Q85228	file		Years ago. Melchizedek is the bridge. The tithe Abraham pays is
 151	34	Abraham		Q85228	file		The new. The blessing Abraham receives is the legitimation of his
 151	35	Abraham		Q85228	file		Closest to Göbekli Tepe, and Abraham's journey really does pass
@@ -5767,7 +5767,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 151	38	Sarah		Q86389	file		The Cave of Machpelah in Hebron, where Sarah is already
 151	38	Abraham		Q85228	file		Buried. The details of Abraham's biography will not be rehearsed
 151	38	Abraham		Q85228	file		This chapter establishes is the context: Abraham is a man of the
-151	39	Melchizedek		Q217	consensus	Q217 Q154103	Through his encounter with Melchizedek in Sanliurfa. And he is
+151	39	Melchizedek		Q217	file		Through his encounter with Melchizedek in Sanliurfa. And he is
 151	39	Isaac		Q129309	file		The founder of the line that will produce Isaac, Jacob, and—through
 151	39	Jacob		Q85226	file		The founder of the line that will produce Isaac, Jacob, and—through
 151	40	Ishmael		Q129307	file		Ishmael—the Arabian peoples, and—through Isaac and Jacob—the
@@ -5787,7 +5787,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 151	43	Abraham		Q85228	file		Continue the J2-dominant Israelite lineage. Abraham himself is
 151	43	J			initial		The junction-point where the two great Semitic branches of the J
 151	44	Abraham		Q85228	file		Abraham. The patriarch. The refugee from Ur. The meeter of
-151	44	Melchizedek		Q217	consensus	Q217 Q154103	Melchizedek at Sanliurfa. The spiritual heir of the Göbekli Tepe
+151	44	Melchizedek		Q217	file		Melchizedek at Sanliurfa. The spiritual heir of the Göbekli Tepe
 151	44	J			initial		The J-haplogroup figure at the junction of J1 and J2. The
 151	44	J1			unresolved		The J-haplogroup figure at the junction of J1 and J2. The
 151	44	J2			unresolved		The J-haplogroup figure at the junction of J1 and J2. The
@@ -6249,55 +6249,55 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 160	53	Confucius		Q30266	file		Which will produce Buddha, Confucius, Laozi, Mahavira, the
 160	53	Laozi			unresolved		Which will produce Buddha, Confucius, Laozi, Mahavira, the
 160	53	Mahavira			unresolved		Which will produce Buddha, Confucius, Laozi, Mahavira, the
-160	53	Zarathustra			unresolved		Hebrew prophets, Zarathustra, the pre-Socratic Greeks—this
+160	53	Zarathustra		Q29136	override		Hebrew prophets, Zarathustra, the pre-Socratic Greeks—this
 160	58	Ramesses III			unresolved		Earthquake, rebellion, invasion, systems collapse. Ramesses III
 161	4	Shang Di			unresolved		Ancestors, who in turn communicated with the supreme deity Shang Di
 161	4	Lord on High			unresolved		"(the ""Lord on High""). The divination method used pyro-osteomancy:"
-161	9	Di Xin			unresolved		The last Shang king, Di Xin (also known as Zhou Xin, though this
+161	9	Di Xin		Q26155	override		The last Shang king, Di Xin (also known as Zhou Xin, though this
 161	9	Zhou Xin			unresolved		The last Shang king, Di Xin (also known as Zhou Xin, though this
 161	11	Daji		Q26296	file		Favorite concubine Daji would laugh. Daji was said to be a
 161	11	Daji		Q26296	file		Favorite concubine Daji would laugh. Daji was said to be a
-161	12	Di Xin			unresolved		Fox spirit possessing a human body, and her influence on Di Xin
+161	12	Di Xin		Q26155	override		Fox spirit possessing a human body, and her influence on Di Xin
 161	17	Hou Ji		Q6478	file		"Zhou traced their lineage to Hou Ji, the ""Lord of Millet,"" an"
 161	17	Lord of Millet			unresolved		"Zhou traced their lineage to Hou Ji, the ""Lord of Millet,"" an"
-161	17	King Wen			unresolved		"Century was exercised first by King Wen (the ""Accomplished King""),"
+161	17	King Wen		Q6629	override		"Century was exercised first by King Wen (the ""Accomplished King""),"
 161	17	Accomplished King			unresolved		"Century was exercised first by King Wen (the ""Accomplished King""),"
 161	18	King Wu			unresolved		"Openly rebelling; and then by his son King Wu (the ""Martial King""),"
 161	18	Jiang Ziya		Q25412	file		Figure of enduring legendary importance: Jiang Ziya, also known
 161	19	Taigong Wang			unresolved		As Taigong Wang or Jiang Taigong, a fisherman-sage whom King Wen
 161	19	Jiang Taigong			unresolved		As Taigong Wang or Jiang Taigong, a fisherman-sage whom King Wen
-161	19	King Wen			unresolved		As Taigong Wang or Jiang Taigong, a fisherman-sage whom King Wen
+161	19	King Wen		Q6629	override		As Taigong Wang or Jiang Taigong, a fisherman-sage whom King Wen
 161	19	Jiang Ziya		Q25412	file		Of the age. Jiang Ziya's military treatise, the Six Secret Teachings,
-161	20	Di Xin			unresolved		Righteousness that contrasted with Di Xin's cruelty. They waited
+161	20	Di Xin		Q26155	override		Righteousness that contrasted with Di Xin's cruelty. They waited
 161	21	King Wu			unresolved		Calculations, radiocarbon dating, and textual analysis. King Wu led
-161	23	Di Xin			unresolved		The Zhou. Di Xin fled back to his palace, set it on fire with
+161	23	Di Xin		Q26155	override		The Zhou. Di Xin fled back to his palace, set it on fire with
 161	23	King Wu			unresolved		Himself inside, and perished. The Shang Dynasty ended. King Wu
 161	26	King Wu			unresolved		Most clearly by King Wu's brother Duke of Zhou, who served as
-161	26	Duke of Zhou			unresolved		Most clearly by King Wu's brother Duke of Zhou, who served as
+161	26	Duke of Zhou		Q6649	override		Most clearly by King Wu's brother Duke of Zhou, who served as
 161	27	King Wu			unresolved		Regent for King Wu's young son after King Wu's early death—the
 161	27	King Wu			unresolved		Regent for King Wu's young son after King Wu's early death—the
 161	27	Tian			unresolved		"Tian (""Heaven,"" displacing the Shang Shang Di in religious"
 161	27	Heaven		Q154766	file		"Tian (""Heaven,"" displacing the Shang Shang Di in religious"
 161	27	Shang Di			unresolved		"Tian (""Heaven,"" displacing the Shang Shang Di in religious"
 161	28	Heaven		Q154766	file		Oppressive, tyrannical, or negligent, Heaven withdraws its mandate
-161	28	Di Xin			unresolved		Happened to the Shang: Di Xin's corruption had forfeited the
+161	28	Di Xin		Q26155	override		Happened to the Shang: Di Xin's corruption had forfeited the
 161	29	Heaven		Q154766	file		Mandate, and Heaven had granted it to King Wen and King Wu. The
-161	29	King Wen			unresolved		Mandate, and Heaven had granted it to King Wen and King Wu. The
+161	29	King Wen		Q6629	override		Mandate, and Heaven had granted it to King Wen and King Wu. The
 161	29	King Wu			unresolved		Mandate, and Heaven had granted it to King Wen and King Wu. The
 161	34	Wang			unresolved	Q19279 Q87298	"Of Fengjian: the Zhou king (now styled Wang or ""king,"" a title"
 161	45	Ramesses II			unresolved		Dating) occurred during Ramesses II's or Merneptah's reign. These
 161	45	Merneptah		Q85608	file		Dating) occurred during Ramesses II's or Merneptah's reign. These
-161	50	Duke of Zhou			unresolved		Culture. The Duke of Zhou was remembered as a paragon of
+161	50	Duke of Zhou		Q6649	override		Culture. The Duke of Zhou was remembered as a paragon of
 161	50	Confucius		Q30266	file		Statesmanship; Confucius, writing five centuries later, would
-161	50	Duke of Zhou			unresolved		Take the Duke of Zhou as his personal hero, the model of the
-161	55	Di Xin			unresolved		Fall of the Shang, we are at the beginning of all that. Di Xin
+161	50	Duke of Zhou		Q6649	override		Take the Duke of Zhou as his personal hero, the model of the
+161	55	Di Xin		Q26155	override		Fall of the Shang, we are at the beginning of all that. Di Xin
 161	55	King Wu			unresolved		In flames in his palace. King Wu entering Yin. The Duke of Zhou
-161	55	Duke of Zhou			unresolved		In flames in his palace. King Wu entering Yin. The Duke of Zhou
-161	57	Di Xin			unresolved		Di Xin. Daji. King Wen. King Wu. Duke of Zhou. Jiang Ziya. The
+161	55	Duke of Zhou		Q6649	override		In flames in his palace. King Wu entering Yin. The Duke of Zhou
+161	57	Di Xin		Q26155	override		Di Xin. Daji. King Wen. King Wu. Duke of Zhou. Jiang Ziya. The
 161	57	Daji		Q26296	file		Di Xin. Daji. King Wen. King Wu. Duke of Zhou. Jiang Ziya. The
-161	57	King Wen			unresolved		Di Xin. Daji. King Wen. King Wu. Duke of Zhou. Jiang Ziya. The
+161	57	King Wen		Q6629	override		Di Xin. Daji. King Wen. King Wu. Duke of Zhou. Jiang Ziya. The
 161	57	King Wu			unresolved		Di Xin. Daji. King Wen. King Wu. Duke of Zhou. Jiang Ziya. The
-161	57	Duke of Zhou			unresolved		Di Xin. Daji. King Wen. King Wu. Duke of Zhou. Jiang Ziya. The
+161	57	Duke of Zhou		Q6649	override		Di Xin. Daji. King Wen. King Wu. Duke of Zhou. Jiang Ziya. The
 161	57	Jiang Ziya		Q25412	file		Di Xin. Daji. King Wen. King Wu. Duke of Zhou. Jiang Ziya. The
 162	5	E1b1a			unresolved		Branch. They carried primarily the E1b1a (now called E-V38)
 162	5	E-V38			unresolved		Branch. They carried primarily the E1b1a (now called E-V38)
@@ -6305,33 +6305,33 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 162	28	E1b1a-V38			unresolved		South of the equator carry predominantly E1b1a-V38 or related
 162	28	E			initial		E sub-clades on their Y-chromosome. Their maternal lineages
 162	68	E1b1a			unresolved		E1b1a. West Africa. Great Lakes. Congo basin. Kalahari and Cape.
-163	2	Zarathustra			unresolved		Zarathustra.
+163	2	Zarathustra		Q29136	override		Zarathustra.
 163	2	Zoroaster		Q29136	file		Or, in Greek transliteration, Zoroaster. An Indo-European speaker
 163	3	R1a			unresolved		Of the Iranian branch. A man of the R1a haplogroup lineage that
-163	6	Zarathustra			unresolved		This dating. Zarathustra is another node in the widespread
+163	6	Zarathustra		Q29136	override		This dating. Zarathustra is another node in the widespread
 163	7	Confucius		Q30266	file		Upanishads of India, Confucius and Laozi in China, and
 163	7	Laozi			unresolved		Upanishads of India, Confucius and Laozi in China, and
 163	7	Buddha		Q153343	file		Buddha and Mahavira in the Gangetic plain. Zarathustra is the
 163	7	Mahavira			unresolved		Buddha and Mahavira in the Gangetic plain. Zarathustra is the
-163	7	Zarathustra			unresolved		Buddha and Mahavira in the Gangetic plain. Zarathustra is the
+163	7	Zarathustra		Q29136	override		Buddha and Mahavira in the Gangetic plain. Zarathustra is the
 163	11	Ahura Mazda			unresolved		The modern sense. It was dualistic. Ahura Mazda, the Wise Lord,
 163	11	Wise Lord			unresolved		The modern sense. It was dualistic. Ahura Mazda, the Wise Lord,
 163	12	Angra Mainyu			unresolved		But opposed to him was Angra Mainyu (later Ahriman), the
 163	12	Ahriman			unresolved		But opposed to him was Angra Mainyu (later Ahriman), the
 163	13	Ahura Mazda			unresolved		Cosmic principles. The good principle, Ahura Mazda, would
-163	14	Zarathustra			unresolved		Good and great evil, subject to passions and whims. Zarathustra's
+163	14	Zarathustra		Q29136	override		Good and great evil, subject to passions and whims. Zarathustra's
 163	15	Ahura Mazda			unresolved		Ambiguity. Ahura Mazda is unambiguously good. The moral
-163	16	Zarathustra			unresolved		Was Zarathustra's great contribution. It would profoundly
+163	16	Zarathustra		Q29136	override		Was Zarathustra's great contribution. It would profoundly
 163	17	Angra Mainyu			unresolved		Monotheistic, with Angra Mainyu increasingly described as a
-163	18	Zarathustra			unresolved		Zarathustra himself—the reformer, the prophet, the voice speaking
-163	20	Zarathustra			unresolved		What did Zarathustra teach?
-163	21	Zarathustra			unresolved		Vedic Sanskrit. They are attributed directly to Zarathustra.
+163	18	Zarathustra		Q29136	override		Zarathustra himself—the reformer, the prophet, the voice speaking
+163	20	Zarathustra		Q29136	override		What did Zarathustra teach?
+163	21	Zarathustra		Q29136	override		Vedic Sanskrit. They are attributed directly to Zarathustra.
 163	22	Asha			unresolved		Asha (truth, order, righteousness) and Druj (lie, disorder,
 163	22	Druj			unresolved		Asha (truth, order, righteousness) and Druj (lie, disorder,
 163	22	Ahura Mazda			unresolved		Ahura Mazda is the supreme reality, worthy of worship, creator
 163	23	Ahura Mazda			unresolved		Of all good things. That at the end of time, Ahura Mazda will
-163	26	Zarathustra			unresolved		Zarathustra originated them wholly or synthesized them from
-163	27	Zarathustra			unresolved		By a hereditary priestly caste. Zarathustra reduced the emphasis
+163	26	Zarathustra		Q29136	override		Zarathustra originated them wholly or synthesized them from
+163	27	Zarathustra		Q29136	override		By a hereditary priestly caste. Zarathustra reduced the emphasis
 163	28	Ahura Mazda			unresolved		Maintained continuously in fire temples, symbolic of Ahura Mazda's
 163	28	Asha			unresolved		Presence and of the principle of Asha in the world. He emphasized
 163	29	Mithra		Q153808	file		Practice. The old gods of the Indo-Iranian pantheon—Mithra,
@@ -6341,16 +6341,16 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 163	30	Angra Mainyu			unresolved		"On the side of Angra Mainyu. This is why the word ""daeva"" has"
 163	30	deva			unresolved		Opposite valences in Sanskrit and Avestan: Sanskrit deva is
 163	31	daeva			unresolved		A good god, but Avestan daeva is an evil one. Zarathustra
-163	31	Zarathustra			unresolved		A good god, but Avestan daeva is an evil one. Zarathustra
-163	32	Zarathustra			unresolved		Accepted Zarathustra's reform became Zoroastrians. Indo-Aryan
-163	34	Zarathustra			unresolved		Zarathustra was, by his own account and by subsequent tradition,
+163	31	Zarathustra		Q29136	override		A good god, but Avestan daeva is an evil one. Zarathustra
+163	32	Zarathustra		Q29136	override		Accepted Zarathustra's reform became Zoroastrians. Indo-Aryan
+163	34	Zarathustra		Q29136	override		Zarathustra was, by his own account and by subsequent tradition,
 163	35	King Vishtaspa			unresolved		Patron who would hear him. He found one in King Vishtaspa—a
 163	35	Vishtaspa			unresolved	Q2476 Q29360 Q51676 Q51712	Or Turkmenistan. Vishtaspa accepted Zarathustra's message. His
-163	35	Zarathustra			unresolved		Or Turkmenistan. Vishtaspa accepted Zarathustra's message. His
+163	35	Zarathustra		Q29136	override		Or Turkmenistan. Vishtaspa accepted Zarathustra's message. His
 163	36	Vishtaspa			unresolved	Q2476 Q29360 Q51676 Q51712	Court converted. Zoroastrianism spread from Vishtaspa's
-163	37	Darius I			unresolved		The Great}}, Darius I, Xerxes, Artaxerxes—the Achaemenid kings
+163	37	Darius I		Q135294	override		The Great}}, Darius I, Xerxes, Artaxerxes—the Achaemenid kings
 163	37	Xerxes		Q165475	file		The Great}}, Darius I, Xerxes, Artaxerxes—the Achaemenid kings
-163	37	Artaxerxes			unresolved	Q74013 Q74129	The Great}}, Darius I, Xerxes, Artaxerxes—the Achaemenid kings
+163	37	Artaxerxes		Q74129	alias	Q74013 Q74129	The Great}}, Darius I, Xerxes, Artaxerxes—the Achaemenid kings
 163	38	Ahura Mazda			unresolved		Ahura Mazda and pledge to uphold Asha and defeat Druj.
 163	38	Asha			unresolved		Ahura Mazda and pledge to uphold Asha and defeat Druj.
 163	38	Druj			unresolved		Ahura Mazda and pledge to uphold Asha and defeat Druj.
@@ -6362,23 +6362,23 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 163	42	Yahweh		Q153726	file		Deutero-Isaiah—went so far as to call Cyrus Yahweh's
 163	46	Yahweh		Q153726	file		Member of Yahweh's divine council, became reinterpreted along
 163	46	Angra Mainyu			unresolved		Angra Mainyu lines as a cosmic adversary. The concept of a
-163	48	Zarathustra			unresolved		A Zoroastrian-Jewish synthesis. Without Zarathustra, the
+163	48	Zarathustra		Q29136	override		A Zoroastrian-Jewish synthesis. Without Zarathustra, the
 163	49	Alexander			unresolved	Q77854 Q78024 Q124135 Q134560 Q135053 Q135456 Q135459 Q135480 Q135505 Q135776 Q135942 Q144333 Q165152 Q165154 Q165254 Q165281 Q165343 Q165351 Q165388 Q167841	Achaemenid empire fell to Alexander in the fourth century BCE.
-163	53	Zarathustra			unresolved		Not, a theological descendant of Zarathustra. The prophet from
-163	55	Zarathustra			unresolved		Gaiad recognizes in Zarathustra's work a genuine theological
+163	53	Zarathustra		Q29136	override		Not, a theological descendant of Zarathustra. The prophet from
+163	55	Zarathustra		Q29136	override		Gaiad recognizes in Zarathustra's work a genuine theological
 163	58	Herodotus			unresolved		Iran for centuries, until Greek writers—Herodotus, Plutarch,
 163	58	Plutarch			unresolved		Iran for centuries, until Greek writers—Herodotus, Plutarch,
 163	58	Zoroaster		Q29136	file		Later the Hellenistic traditions attributing to Zoroaster
-163	58	Zarathustra			unresolved		Consciousness. In our own time Zarathustra has had a strange
+163	58	Zarathustra		Q29136	override		Consciousness. In our own time Zarathustra has had a strange
 163	59	Nietzsche			unresolved		Second life: as the protagonist of Nietzsche's Thus Spoke Zarathustra,
-163	59	Zarathustra			unresolved		It reflects how Zarathustra's name continues to carry weight as
+163	59	Zarathustra		Q29136	override		It reflects how Zarathustra's name continues to carry weight as
 163	60	Nietzsche			unresolved		A symbol of religious innovation and prophetic voice. Nietzsche
 163	60	Nietzsche			unresolved		Religion. Nietzsche wanted to undo that work and return to a
 163	61	Zarathustran			unresolved		Pre-Zarathustran valuation. Whether one agrees with Nietzsche's
 163	61	Nietzsche			unresolved		Pre-Zarathustran valuation. Whether one agrees with Nietzsche's
-163	61	Zarathustra			unresolved		Project or not, the acknowledgment of Zarathustra's foundational
-163	61	Zarathustra			unresolved		Role is accurate. Zarathustra is where a great deal of the
-163	62	Zarathustra			unresolved		Zarathustra.
+163	61	Zarathustra		Q29136	override		Project or not, the acknowledgment of Zarathustra's foundational
+163	61	Zarathustra		Q29136	override		Role is accurate. Zarathustra is where a great deal of the
+163	62	Zarathustra		Q29136	override		Zarathustra.
 163	62	Zoroaster		Q29136	file		Zoroaster. Ahura Mazda and Angra Mainyu. Asha and Druj. The fire
 163	62	Ahura Mazda			unresolved		Zoroaster. Ahura Mazda and Angra Mainyu. Asha and Druj. The fire
 163	62	Angra Mainyu			unresolved		Zoroaster. Ahura Mazda and Angra Mainyu. Asha and Druj. The fire
@@ -6387,7 +6387,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 163	63	King Vishtaspa			unresolved		And the renewal of the cosmos. The Gathas. King Vishtaspa's
 163	63	Cyrus		Q165474	file		Conversion. The Achaemenid adoption. Cyrus as Yahweh's anointed.
 163	63	Yahweh		Q153726	file		Conversion. The Achaemenid adoption. Cyrus as Yahweh's anointed.
-163	65	Zarathustra			unresolved		Zarathustra. The first
+163	65	Zarathustra		Q29136	override		Zarathustra. The first
 164	2	Joshua			unresolved		Israel as a sequence: Joshua's conquest, the period of the
 164	2	Judges			unresolved		Judges, the kingship of Saul, the kingship of David, the kingship
 164	2	Saul		Q118812	file		Judges, the kingship of Saul, the kingship of David, the kingship
@@ -6572,7 +6572,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 165	64	Thucydides			unresolved		Achieve. Thucydides is the ancestor of hard-nosed political
 165	65	Herodotus			unresolved		Of political power ever written. Between Herodotus's humane
 165	65	Thucydides			unresolved		Inclusiveness and Thucydides's analytical realism, Greek
-165	67	Darius I			unresolved		Persian Wars. In four-ninety BCE, Darius I of Persia sent an
+165	67	Darius I		Q135294	override		Persian Wars. In four-ninety BCE, Darius I of Persia sent an
 165	68	Miltiades			unresolved	Q137632 Q138350	Generalship of Miltiades. Ten years later, Xerxes I led a far
 165	68	Xerxes I		Q74195	file		Generalship of Miltiades. Ten years later, Xerxes I led a far
 165	69	Themistocles			unresolved		The Greek fleet under Themistocles defeated the Persian navy.
@@ -6748,7 +6748,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 168	59	Cambyses		Q135519	override		Achaemenid. Cyrus, Cambyses, Darius, Xerxes, and their
 168	59	Darius		Q165476	file		Achaemenid. Cyrus, Cambyses, Darius, Xerxes, and their
 168	59	Xerxes		Q165475	file		Achaemenid. Cyrus, Cambyses, Darius, Xerxes, and their
-169	1	Zarathustra			unresolved		Centuries that produced Zarathustra's reforms, the Babylonian
+169	1	Zarathustra		Q29136	override		Centuries that produced Zarathustra's reforms, the Babylonian
 169	5	Confucius		Q30266	file		Centuries. Their founders, Confucius and Laozi, stand at the
 169	5	Laozi			unresolved		Centuries. Their founders, Confucius and Laozi, stand at the
 169	6	Confucius		Q30266	file		Confucius. In Chinese,
@@ -6793,10 +6793,10 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 169	65	Laozi			unresolved		Confucius. Laozi.
 169	68	Confucius		Q30266	file		Confucius and Laozi. Paired pillars of the East Asian mind.
 169	68	Laozi			unresolved		Confucius and Laozi. Paired pillars of the East Asian mind.
-170	1	Zarathustra			unresolved		Centuries BCE, the same Axial Age ferment that produced Zarathustra,
+170	1	Zarathustra		Q29136	override		Centuries BCE, the same Axial Age ferment that produced Zarathustra,
 170	1	Confucius		Q30266	file		Confucius, Laozi, the Judean exile, and Ionian philosophy was
 170	1	Laozi			unresolved		Confucius, Laozi, the Judean exile, and Ionian philosophy was
-170	2	Siddhartha Gautama			unresolved		"Of hundreds of millions. Siddhartha Gautama. The Buddha—""the"
+170	2	Siddhartha Gautama		Q153343	override		"Of hundreds of millions. Siddhartha Gautama. The Buddha—""the"
 170	2	Buddha		Q153343	file		"Of hundreds of millions. Siddhartha Gautama. The Buddha—""the"
 170	6	Atman			unresolved		Of sacrifice to the realization of the identity between Atman
 170	6	Brahman		Q160508	file		(The individual self) and Brahman (the universal reality). The
@@ -6804,7 +6804,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 170	8	Brahman		Q160508	file		The identity of Atman and Brahman. The Jain answer—developed by
 170	9	Mahavira			unresolved		Mahavira, a near-contemporary of the Buddha—was extreme asceticism,
 170	9	Buddha		Q153343	file		Mahavira, a near-contemporary of the Buddha—was extreme asceticism,
-170	11	Siddhartha Gautama			unresolved		Into this contested field stepped Siddhartha Gautama.
+170	11	Siddhartha Gautama		Q153343	override		Into this contested field stepped Siddhartha Gautama.
 170	12	Shuddhodana			unresolved		Village in what is now southern Nepal. His father Shuddhodana
 170	13	Maya			unresolved		Lineage. His mother Maya died shortly after his birth, and he
 170	13	Mahapajapati			unresolved		Was raised by her sister Mahapajapati. The stories of his
@@ -6849,7 +6849,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 170	63	Buddha		Q153343	file		One more point worth making. The Buddha's
 170	63	Buddha		Q153343	file		Atheistic, because the Buddha did not affirm a creator god and
 170	65	Buddha		Q153343	file		Liberation. The Buddha is above them in spiritual attainment
-170	69	Siddhartha Gautama			unresolved		Siddhartha Gautama. The
+170	69	Siddhartha Gautama		Q153343	override		Siddhartha Gautama. The
 170	70	Buddha		Q153343	file		The Buddha who saw the Four Noble Truths. The teacher of the
 170	72	Buddha		Q153343	file		Buddha. One of the supreme sons of the Axial Age.
 170	74	Buddha		Q153343	file		The Buddha. Awakened one.
@@ -7187,7 +7187,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 174	29	Darius		Q165476	file		Alexander defeated Darius decisively—despite being outnumbered
 174	29	Darius		Q165476	file		Perhaps three or four to one. The Persian army broke; Darius
 174	30	Alexander			unresolved	Q77854 Q78024 Q124135 Q134560 Q135053 Q135456 Q135459 Q135480 Q135505 Q135776 Q135942 Q144333 Q165152 Q165154 Q165254 Q165281 Q165343 Q165351 Q165388 Q167841	Fled again. Alexander entered Babylon, Susa, and finally Persepolis,
-174	30	Darius I			unresolved		The empire, where Darius I and Xerxes had conducted their most
+174	30	Darius I		Q135294	override		The empire, where Darius I and Xerxes had conducted their most
 174	30	Xerxes		Q165475	file		The empire, where Darius I and Xerxes had conducted their most
 174	32	Alexander			unresolved	Q77854 Q78024 Q124135 Q134560 Q135053 Q135456 Q135459 Q135480 Q135505 Q135776 Q135942 Q144333 Q165152 Q165154 Q165254 Q165281 Q165343 Q165351 Q165388 Q167841	Burned. The ruins that remain today were charred by Alexander's
 174	32	Darius		Q165476	file		Fires. Meanwhile Darius was murdered by one of his own satraps,
@@ -7301,14 +7301,14 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 175	53	Megasthenes			unresolved		The defeat of Seleucus. Megasthenes's description of Pataliputra.
 175	53	Ashoka		Q2206	file		The Kalinga War and its transformative horror. Ashoka's
 175	55	Ashoka		Q2206	file		The unification of India. Ashoka's ethical experiment. The
-176	1	First Emperor			unresolved		Ruthless king who would call himself the First Emperor—completed
-176	3	Qin Shi Huang			unresolved		Qin Shi Huang. The First Emperor. He came to the throne
-176	3	First Emperor			unresolved		Qin Shi Huang. The First Emperor. He came to the throne
-176	5	Qin Shi Huang			unresolved		Unified. And Qin Shi Huang declared himself the First Emperor
-176	5	First Emperor			unresolved		Unified. And Qin Shi Huang declared himself the First Emperor
+176	1	First Emperor		Q33779	override		Ruthless king who would call himself the First Emperor—completed
+176	3	Qin Shi Huang		Q33779	override		Qin Shi Huang. The First Emperor. He came to the throne
+176	3	First Emperor		Q33779	override		Qin Shi Huang. The First Emperor. He came to the throne
+176	5	Qin Shi Huang		Q33779	override		Unified. And Qin Shi Huang declared himself the First Emperor
+176	5	First Emperor		Q33779	override		Unified. And Qin Shi Huang declared himself the First Emperor
 176	11	Han Feizi			unresolved		Clearly by Han Feizi. Legalism held that human nature was
-176	13	Qin Shi Huang			unresolved		Philosophy justified the authoritarian severity of Qin Shi Huang's
-176	18	Qin Shi Huang			unresolved		Qin Shi Huang died in two-ten BCE, aged forty-nine, on a tour
+176	13	Qin Shi Huang		Q33779	override		Philosophy justified the authoritarian severity of Qin Shi Huang's
+176	18	Qin Shi Huang		Q33779	override		Qin Shi Huang died in two-ten BCE, aged forty-nine, on a tour
 176	19	Li Si			unresolved	Q19375 Q32079 Q45641 Q77922	Minister Li Si and the eunuch Zhao Gao, who did not want the
 176	19	Zhao Gao			unresolved		Minister Li Si and the eunuch Zhao Gao, who did not want the
 176	23	Liu Bang			unresolved		By the successor dynasty. The Han. Founded by Liu Bang, a
@@ -7325,9 +7325,9 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 176	34	Sima Qian			unresolved		Sima Qian's own time. His work would be the model for all
 176	35	Cai Lun			unresolved		Subsequent Chinese dynastic histories. Cai Lun, a court eunuch,
 176	41	Wang Mang			unresolved		Interregnum from nine to twenty-three CE—the reign of Wang Mang,
-176	53	Qin Shi Huang			unresolved		Qin. Han. Qin Shi Huang. Liu Bang.
+176	53	Qin Shi Huang		Q33779	override		Qin. Han. Qin Shi Huang. Liu Bang.
 176	53	Liu Bang			unresolved		Qin. Han. Qin Shi Huang. Liu Bang.
-176	53	First Emperor			unresolved		The First Emperor and the rebel-peasant who succeeded him.
+176	53	First Emperor		Q33779	override		The First Emperor and the rebel-peasant who succeeded him.
 176	54	Sima Qian			unresolved		The Terracotta Army. The Silk Road opening. Sima Qian's
 177	1	Alexander			unresolved	Q77854 Q78024 Q124135 Q134560 Q135053 Q135456 Q135459 Q135480 Q135505 Q135776 Q135942 Q144333 Q165152 Q165154 Q165254 Q165281 Q165343 Q165351 Q165388 Q167841	In the western Mediterranean, while Alexander's successors were
 177	2	Romulus		Q30562	file		Romulus—is legendary, but archaeological evidence does show
@@ -7572,7 +7572,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 182	19	Son of Man			unresolved		merging the birth of the Son of Man
 182	19	Sun			unresolved		with the rebirth of the Sun in the East.
 182	20	Sol Invictus			unresolved		This is not accidental. The Sol Invictus
-182	20	Christ			unresolved		cult and the Christ cult were cousins,
+182	20	Christ		Q138545	override		cult and the Christ cult were cousins,
 182	21	Elagabalus		Q144407	file		Elagabalus failed. But the cultural current
 182	23	Akhenaten			unresolved		Egyptian Akhenaten's old Aten
 182	23	Aten			unresolved		Egyptian Akhenaten's old Aten
@@ -7613,7 +7613,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 183	26	Jesus			unresolved	Q138545	Three centuries after Jesus,
 183	27	Paul		Q154578	file		and the writings of Paul disseminated.
 183	29	Constantine			unresolved	Q136498 Q167579	Constantine saw a vision, or claimed to.
-183	29	Christ			unresolved		He won the battle, credited Christ,
+183	29	Christ		Q138545	override		He won the battle, credited Christ,
 184	1	Parthians			unresolved		In Persia, the Parthians fell
 184	1	Ardashir I			unresolved	Q111075 Q166122	to Ardashir I in two-twenty-four,
 184	1	Sasan			unresolved		who claimed descent from Sasan, a priest,
@@ -7626,7 +7626,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 184	5	Shapur			unresolved	Q2470 Q51688 Q87017 Q87039 Q111805	Mani arose in Shapur's court,
 184	5	Manichaeism			unresolved		the prophet of Manichaeism,
 184	6	Mani			unresolved		Mani saw himself as the seal
-184	6	Zarathustra			unresolved		of all prophets — Zarathustra, Buddha,
+184	6	Zarathustra		Q29136	override		of all prophets — Zarathustra, Buddha,
 184	6	Buddha		Q153343	file		of all prophets — Zarathustra, Buddha,
 184	6	Jesus			unresolved	Q138545	Jesus — completing their partial light
 184	7	Augustine			unresolved		west to Rome, where Augustine embraced it
@@ -7678,7 +7678,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 186	4	Frumentius			unresolved		Frumentius had been shipwrecked as a boy,
 186	4	Athanasius			unresolved		bishop by Athanasius, who encrusted
 186	5	Ezana			unresolved		Ezana became Christian, and the kingdom
-186	7	Christ			unresolved		holding that Christ had one nature, divine,
+186	7	Christ		Q138545	override		holding that Christ had one nature, divine,
 186	8	Copts			unresolved		Copts, Syrians, Armenians, Ethiopians' dance.
 186	8	Syrians			unresolved		Copts, Syrians, Armenians, Ethiopians' dance.
 186	8	Armenians			unresolved		Copts, Syrians, Armenians, Ethiopians' dance.
@@ -7698,10 +7698,10 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 186	16	Lalibela			unresolved		Lalibela in the twelfth century
 187	1	Constantine			unresolved	Q136498 Q167579	Constantine fought his rival Maxentius
 187	1	Maxentius		Q136814	file		Constantine fought his rival Maxentius
-187	2	Christ			unresolved		won the battle, credited Christ,
+187	2	Christ		Q138545	override		won the battle, credited Christ,
 187	4	Constantine			unresolved	Q136498 Q167579	Constantine moved the capital east to
 187	5	Council of Nicaea			unresolved		He called the Council of Nicaea in three-twenty-five
-187	5	Christ			unresolved		to settle the question of Christ's nature.
+187	5	Christ		Q138545	override		to settle the question of Christ's nature.
 187	5	Son			unresolved	Q171192 Q171193 Q171198 Q171199 Q171201 Q171217 Q171243 Q195600	Was the Son created or eternal?
 187	5	Father			unresolved	Q502 Q154840	Was he of the same substance as the Father's furniture?
 187	6	Arius			unresolved		Arius said the Son was created,
@@ -7953,7 +7953,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 193	4	Nalanda			unresolved		Nalanda was the greatest Buddhist university
 193	5	Xuanzang			unresolved		Xuanzang mastered Sanskrit, the six Buddhist schools,
 193	5	Nalanda			unresolved		was offered leadership of Nalanda itself,
-193	6	Taizong			unresolved		The emperor Taizong welcomed him back
+193	6	Taizong		Q16460	override		The emperor Taizong welcomed him back
 193	7	Yogacara			unresolved		He introduced Yogacara philosophy,
 193	8	Great Tang Records on the Western Regions			unresolved		He wrote the Great Tang Records on the Western Regions,
 193	9	Buddha		Q153343	file		Bamiyan's giant Buddha statues — he saw them
@@ -8065,17 +8065,17 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 195	19	East Francia			unresolved		West Francia (France), East Francia (Germany),
 195	21	Vikings			unresolved		For the next three centuries, Vikings would raid
 196	1	Tang Dynasty			unresolved		The Tang Dynasty (618-907) was
-196	2	Li Yuan			unresolved	Q21286 Q40516 Q40897 Q40985 Q44476 Q46288 Q46794 Q55402 Q58860 Q58920 Q59087 Q71630 Q74227 Q76655 Q78886	The founder Li Yuan (Gaozu) had been
+196	2	Li Yuan		Q46288	context	Q21286 Q40516 Q40897 Q40985 Q44476 Q46288 Q46794 Q55402 Q58860 Q58920 Q59087 Q71630 Q74227 Q76655 Q78886	The founder Li Yuan (Gaozu) had been
 196	2	Gaozu			unresolved		The founder Li Yuan (Gaozu) had been
-196	2	Taizong			unresolved		His son Taizong killed his brothers,
-196	3	Taizong			unresolved		Taizong's reign (626-649) is considered
+196	2	Taizong		Q16460	override		His son Taizong killed his brothers,
+196	3	Taizong		Q16460	override		Taizong's reign (626-649) is considered
 196	4	Empress Wu Zetian			unresolved		Empress Wu Zetian rose under the third Tang emperor,
 196	5	Buddha		Q153343	file		Under her, the massive Buddha statues at Longmen
-196	6	Xuanzong			unresolved		under Xuanzong, whose early reign was glorious
+196	6	Xuanzong		Q21310	override		under Xuanzong, whose early reign was glorious
 196	6	An Lushan Rebellion			unresolved		of the An Lushan Rebellion, devastating notoriously.
 196	7	An Lushan			unresolved		An Lushan was a Sogdian general, trusted
-196	7	Xuanzong			unresolved		and elevated by Xuanzong, who rebelled
-196	9	Xuanzong			unresolved		Xuanzong's beloved concubine Yang Guifei
+196	7	Xuanzong		Q21310	override		and elevated by Xuanzong, who rebelled
+196	9	Xuanzong		Q21310	override		Xuanzong's beloved concubine Yang Guifei
 196	9	Yang Guifei		Q23507	file		Xuanzong's beloved concubine Yang Guifei
 196	10	Li Bai		Q52136	file		The great poet Li Bai had been at his court.
 196	10	Du Fu			unresolved	Q23732 Q56017 Q77303	The great poet Du Fu had lived through the chaos,
@@ -8193,7 +8193,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 199	4	Odin			unresolved		Odin, the Allfather, who hung on Yggdrasil
 199	4	Allfather			unresolved		Odin, the Allfather, who hung on Yggdrasil
 199	4	Thor			unresolved		Thor, the thunder god with Mjölnir the hammer.
-199	4	Freyr		Q169	consensus	Q169 Q154826	Freyr and Freyja, fertility gods of the dunes.
+199	4	Freyr		Q169	file		Freyr and Freyja, fertility gods of the dunes.
 199	4	Freyja			unresolved		Freyr and Freyja, fertility gods of the dunes.
 199	5	Loki			unresolved		Loki, the trickster, who birthed monsters
 199	5	Fenrir			unresolved		(Fenrir the wolf, Jörmungandr the world-serpent,
@@ -8401,16 +8401,16 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 203	8	Genghis Khan		Q37401	file		Genghis Khan was methodical and brutal in response.
 203	10	Mongols			unresolved		After the Mongols, it was a ruin. The population
 203	11	Genghis Khan		Q37401	file		Genghis Khan died in 1227, probably from
-203	12	Ogedei			unresolved		He left his empire to his sons. Ogedei
+203	12	Ogedei		Q37456	override		He left his empire to his sons. Ogedei
 203	12	Great Khan			unresolved		became Great Khan. Jochi's descendants got
 203	12	Jochi		Q37432	file		became Great Khan. Jochi's descendants got
 203	12	Chagatai			unresolved		the western steppes. Chagatai got Central Asia.
 203	12	Tolui		Q36498	file		Tolui got the Mongol homeland, no dot.
-203	13	Ogedei			unresolved		Under Ogedei, the Mongol expansion continued.
+203	13	Ogedei		Q37456	override		Under Ogedei, the Mongol expansion continued.
 203	13	Kipchak			unresolved		The Kipchak steppe was conquered under Batu Khan
 203	13	Batu Khan		Q38929	file		The Kipchak steppe was conquered under Batu Khan
 203	16	Batu			unresolved		Batu's army continued west, invading Poland
-203	17	Ogedei			unresolved		total Mongol conquest, but Ogedei died in Mongolia,
+203	17	Ogedei		Q37456	override		total Mongol conquest, but Ogedei died in Mongolia,
 203	17	Batu			unresolved		and Batu returned east to attend the succession.
 203	17	Great Khan			unresolved		a Great Khan's death, an accidental concession.
 203	19	Pax Mongolica			unresolved		The Pax Mongolica enabled travel and trade
@@ -8421,28 +8421,28 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 203	23	Yuan Dynasty			unresolved		as the Yuan Dynasty of Kublai Khan, imperial lord.
 203	23	Kublai Khan		Q36062	file		as the Yuan Dynasty of Kublai Khan, imperial lord.
 204	1	Kublai Khan		Q36062	file		Kublai Khan, grandson of Genghis, completed
-204	1	Genghis			unresolved		Kublai Khan, grandson of Genghis, completed
+204	1	Genghis		Q37401	override		Kublai Khan, grandson of Genghis, completed
 204	1	Song Dynasty			unresolved		Song Dynasty, which had held out for decades
 204	2	Battle of Yamen			unresolved		The final battle was at sea — the Battle of Yamen
-204	3	Kublai			unresolved		Kublai established the Yuan Dynasty (1271-1368),
+204	3	Kublai		Q36062	override		Kublai established the Yuan Dynasty (1271-1368),
 204	3	Yuan Dynasty			unresolved		Kublai established the Yuan Dynasty (1271-1368),
 204	4	Mongols			unresolved		social hierarchy: Mongols at the top, then
 204	4	Central Asians			unresolved		Central Asians and other foreigners, then North Chinese holl-
 204	5	Marco Polo			unresolved		Marco Polo served Kublai in his land.
-204	5	Kublai			unresolved		Marco Polo served Kublai in his land.
+204	5	Kublai		Q36062	override		Marco Polo served Kublai in his land.
 204	6	Polo			unresolved		Polo's account of Khanbaliq's splendor,
 204	7	Polo			unresolved		(Whether Polo actually reached China, or whether
-204	8	Kublai			unresolved		Kublai attempted to invade Japan twice,
+204	8	Kublai		Q36062	override		Kublai attempted to invade Japan twice,
 204	8	kamikaze			unresolved		by typhoons, which the Japanese named kamikaze,
 204	11	Yuan Dynasty			unresolved		The Yuan Dynasty declined in the fourteenth century
 204	12	Red Turban Rebellion			unresolved		The Red Turban Rebellion erupted in 1351.
-204	12	Zhu Yuanzhang			unresolved		The peasant leader Zhu Yuanzhang emerged as
+204	12	Zhu Yuanzhang		Q26845	override		The peasant leader Zhu Yuanzhang emerged as
 204	13	Hongwu Emperor		Q26845	file		proclaimed the Hongwu Emperor, founder of the
 204	13	Ming Dynasty			unresolved		Ming Dynasty. The Mongols were expelled back
 204	13	Mongols			unresolved		Ming Dynasty. The Mongols were expelled back
 204	14	Ilkhanate			unresolved		the Ilkhanate ruled Persia and Iraq.
 204	14	Hulagu Khan		Q36518	file		Hulagu Khan, Kublai's brother, had sacked
-204	14	Kublai			unresolved		Hulagu Khan, Kublai's brother, had sacked
+204	14	Kublai		Q36062	override		Hulagu Khan, Kublai's brother, had sacked
 204	17	Hulagu			unresolved		Hulagu continued west toward Egypt. The Mamluks
 204	17	Mamluks			unresolved		Hulagu continued west toward Egypt. The Mamluks
 204	17	Ain Jalut			unresolved		of Egypt defeated him at Ain Jalut in 1260.
@@ -8502,7 +8502,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 205	23	Ottomans			unresolved		Delhi under the Sultans, Istanbul under the future Ottomans —
 205	23	Mongols			unresolved		three-quarters of a millennium of centrality was lost by Mongols.
 206	1	Batu Khan		Q38929	file		Batu Khan, grandson of Genghis, led
-206	1	Genghis			unresolved		Batu Khan, grandson of Genghis, led
+206	1	Genghis		Q37401	override		Batu Khan, grandson of Genghis, led
 206	1	Kipchak			unresolved		The Kipchak steppe was conquered first,
 206	3	Golden Horde			unresolved		travel to the Golden Horde's capital
 206	4	Horde			unresolved		proved useful as tax-collector for the Horde.
@@ -8540,7 +8540,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 207	7	Hōjō			unresolved		When the Hōjō regent refused, the Mongol
 207	8	Mongols			unresolved		The Mongols landed at Hakata Bay on Kyushu.
 207	8	Mongols			unresolved		The Mongols fought in formations with poisoned arrows
-207	11	Kublai			unresolved		In 1281, Kublai sent two fleets: 900 ships
+207	11	Kublai		Q36062	override		In 1281, Kublai sent two fleets: 900 ships
 207	13	kamikaze			unresolved		The Japanese called the typhoon kamikaze,
 207	15	Kamakura Shogunate			unresolved		The Mongol invasions exhausted the Kamakura Shogunate.
 207	16	Go-Daigo		Q13781	file		Emperor Go-Daigo tried to restore direct
@@ -8602,11 +8602,11 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 210	2	Red Turban Rebellion			unresolved		The Red Turban Rebellion erupted in 1351,
 210	2	Maitreya			unresolved		the coming of Maitreya, the future Buddha,
 210	2	Buddha		Q153343	file		the coming of Maitreya, the future Buddha,
-210	3	Zhu Yuanzhang			unresolved		Zhu Yuanzhang, born a peasant, orphaned by plague,
+210	3	Zhu Yuanzhang		Q26845	override		Zhu Yuanzhang, born a peasant, orphaned by plague,
 210	3	Red Turbans			unresolved		joined the Red Turbans and rose through their ranks
 210	4	Chen Youliang		Q41217	file		He defeated the warlord Chen Youliang at the naval
 210	4	Battle of Lake Poyang			unresolved		Battle of Lake Poyang in 1363, fortune seekers.
-210	5	Zhu Yuanzhang			unresolved		Zhu Yuanzhang proclaimed himself the Hongwu Emperor,
+210	5	Zhu Yuanzhang		Q26845	override		Zhu Yuanzhang proclaimed himself the Hongwu Emperor,
 210	5	Hongwu Emperor		Q26845	file		Zhu Yuanzhang proclaimed himself the Hongwu Emperor,
 210	5	Ming Dynasty			unresolved		founder of the Ming Dynasty, native rule's victoria.
 210	6	Liu Bang			unresolved		major one was Liu Bang, Han founder, a thousand years before.)
@@ -8614,16 +8614,16 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 210	9	civil service examination			unresolved		He reinstated the civil service examination with
 210	10	Da Ming Lü			unresolved		He established the penal code Da Ming Lü.
 210	11	Jianwen			unresolved		He died in 1398. His grandson Jianwen became emperor,
-210	11	Zhu Di			unresolved		Zhu Di, the Prince of Yan, in a civil war.
+210	11	Zhu Di		Q26689	override		Zhu Di, the Prince of Yan, in a civil war.
 210	11	Prince of Yan			unresolved		Zhu Di, the Prince of Yan, in a civil war.
 210	11	Jianwen			unresolved		Jianwen disappeared in the palace fire, the buckle
-210	12	Zhu Di			unresolved		of continuity broken. Zhu Di became the Yongle Emperor
+210	12	Zhu Di		Q26689	override		of continuity broken. Zhu Di became the Yongle Emperor
 210	12	Yongle Emperor		Q26689	file		of continuity broken. Zhu Di became the Yongle Emperor
 210	12	Forbidden City			unresolved		rebuilt the Forbidden City, the symbolic emperor.
 210	13	Yongle Encyclopedia			unresolved		He commissioned the Yongle Encyclopedia, the
 210	14	treasure voyages			unresolved		He sent out the great treasure voyages under
 210	14	Zheng He		Q55015	file		Zheng He — chapter 213's story.
-210	15	Yongle			unresolved		After Yongle, the Ming would retreat from maritime
+210	15	Yongle		Q26689	override		After Yongle, the Ming would retreat from maritime
 210	16	Manchus			unresolved		the Manchus would conquer from the north
 210	16	Qing Dynasty			unresolved		and found the Qing Dynasty. That story is later.
 211	1	Timur			unresolved		Timur (1336-1405), also called Tamerlane
@@ -8659,7 +8659,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 211	14	Mughals			unresolved		"(Mughal = ""Mongol"" in Persian. The Mughals claimed"
 211	14	Turks			unresolved		They were Central Asian Turks ruling India as
 211	15	Timur			unresolved		Timur killed perhaps seventeen million people in
-211	15	Genghis			unresolved		his conquests, a death toll rivaling his hero Genghis.
+211	15	Genghis		Q37401	override		his conquests, a death toll rivaling his hero Genghis.
 211	17	Timur			unresolved		The deflationary polytheist sees Timur as
 212	2	Lithuanians			unresolved		The Lithuanians worshipped Perkūnas the thunder god
 212	2	Perkūnas			unresolved		The Lithuanians worshipped Perkūnas the thunder god
@@ -8695,21 +8695,21 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 213	1	Zheng He		Q55015	file		Zheng He (1371-1433) was born Ma He
 213	1	Ma He			unresolved		Zheng He (1371-1433) was born Ma He
 213	1	Hui			unresolved		in Yunnan, a Muslim Hui Chinese boy.
-213	2	Zhu Di			unresolved		He became a eunuch in the household of Prince Zhu Di,
+213	2	Zhu Di		Q26689	override		He became a eunuch in the household of Prince Zhu Di,
 213	2	Yongle Emperor		Q26689	file		the future Yongle Emperor. He served with distinction
-213	2	Zhu Di			unresolved		in Zhu Di's military campaigns, became trusted advisor,
+213	2	Zhu Di		Q26689	override		in Zhu Di's military campaigns, became trusted advisor,
 213	2	Zheng He		Q55015	file		was renamed Zheng He for his exceptional direction.
-213	3	Zhu Di			unresolved		When Zhu Di became emperor in 1402, he commissioned
+213	3	Zhu Di		Q26689	override		When Zhu Di became emperor in 1402, he commissioned
 213	3	Zheng He		Q55015	file		Zheng He to lead the treasure voyages — massive
 213	3	treasure voyages			unresolved		Zheng He to lead the treasure voyages — massive
 213	5	Columbus			unresolved		(For comparison, Columbus's Santa Maria in 1492 was
 213	5	Europeans			unresolved		when the Europeans were still hugging coasts, laboring.)
 213	6	Zheng He		Q55015	file		Over seven voyages (1405-1433), Zheng He sailed to
 213	8	qilin			unresolved		in Beijing as a qilin, a mythical auspicious beast.
-213	8	Yongle			unresolved		Its arrival was taken as heavenly approval of Yongle's
+213	8	Yongle		Q26689	override		Its arrival was taken as heavenly approval of Yongle's
 213	9	Zheng He		Q55015	file		Zheng He fought one minor war — against a pirate
 213	10	Zheng He		Q55015	file		colonize what they found. Zheng He could have conquered
-213	11	Yongle			unresolved		After Yongle died in 1424, the treasure voyages were
+213	11	Yongle		Q26689	override		After Yongle died in 1424, the treasure voyages were
 213	11	Xuande			unresolved		Xuande (1431-1433), they were discontinued.
 213	13	Vasco da Gama		Q83200	file		By the time Vasco da Gama reached Calicut in 1498,
 213	13	Portuguese			unresolved		China's maritime power was long gone. Portuguese with
@@ -8717,7 +8717,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 213	14	Zheng He		Q55015	file		Zheng He himself died on the seventh voyage, probably at
 213	15	Zheng He		Q55015	file		Zheng He has been revived in modern China as a symbol
 213	15	Belt and Road Initiative			unresolved		The Belt and Road Initiative invokes his voyages.
-213	16	Yongle			unresolved		If Yongle's successors had continued, Columbus might be unused.
+213	16	Yongle		Q26689	override		If Yongle's successors had continued, Columbus might be unused.
 213	16	Columbus			unresolved		If Yongle's successors had continued, Columbus might be unused.
 213	17	Zheng He		Q55015	file		maritime history. Zheng He was doing in 1410
 213	17	Columbus			unresolved		what Columbus would attempt in 1492, at vastly larger
@@ -8902,7 +8902,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 220	7	Mamluk Sultanate			unresolved		The Mamluk Sultanate still ruled Egypt and Syria.
 220	8	China		Q154245	file		In China, the Ming Dynasty had settled into
 220	8	Ming Dynasty			unresolved		In China, the Ming Dynasty had settled into
-220	8	Yongle			unresolved		its mature form after the early Yongle expansion.
+220	8	Yongle		Q26689	override		its mature form after the early Yongle expansion.
 220	8	Zheng He		Q55015	file		Zheng He's voyages had ended twenty years before.
 220	10	Delhi Sultanate			unresolved		In India, the Delhi Sultanate was fragmenting
 220	10	Vijayanagara Empire			unresolved		into regional kingdoms. The Vijayanagara Empire
@@ -10080,7 +10080,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 252	52	Indians			unresolved		A history of America in which the Indians
 252	52	Israelites			unresolved		Were fallen Israelites awaiting redemption
 252	52	European			unresolved		By the European Christ--the Lamanite meridians
-252	52	Christ			unresolved		By the European Christ--the Lamanite meridians
+252	52	Christ		Q138545	override		By the European Christ--the Lamanite meridians
 252	52	Lamanite			unresolved		By the European Christ--the Lamanite meridians
 252	53	Indians			unresolved		Of genocide: for if the Indians were merely
 252	53	Hebrew			unresolved		The degenerate remnant of a Hebrew line,
@@ -10095,7 +10095,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 252	62	Mormon			unresolved		The Book of Mormon said:
 252	62	Lamanites			unresolved		The Lamanites would one day be redeemed,
 252	62	Mormons			unresolved		Of their curse reversed--and the Mormons deemed
-252	64	Christ			unresolved		Rejected Christ--the punishment preserved
+252	64	Christ		Q138545	override		Rejected Christ--the punishment preserved
 252	67	Cherokee			unresolved		That in the very hour the Cherokee begin
 252	76	Lehi			unresolved		Here ends the Book of Lehi--not the Lehi
 252	76	Lehi			unresolved		Here ends the Book of Lehi--not the Lehi
@@ -10502,26 +10502,26 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 265	17	Christians			unresolved		And the Christians would go underground, and the hidden faith be fed
 266	1	Nobunaga			unresolved		Nobunaga says: if it will not sing, kill it.
 266	1	Hideyoshi			unresolved		Hideyoshi says: if it will not sing, I will make it sing.
-266	1	Ieyasu			unresolved		Ieyasu says: if it will not sing, I will wait. And the fit
+266	1	Ieyasu		Q15010	override		Ieyasu says: if it will not sing, I will wait. And the fit
 266	2	Nobunaga			unresolved		Of the story is the fit of the century. Nobunaga burned
 266	2	Hideyoshi			unresolved		Hideyoshi unified and measured and fixed. And Tokugawa Ieyasu learned
 266	2	Tokugawa Ieyasu		Q15010	file		Hideyoshi unified and measured and fixed. And Tokugawa Ieyasu learned
 266	3	Monkey			unresolved		Of victory and the price. When the Monkey died, the one
 266	4	Hideyori			unresolved		Five regents were to keep the boy Hideyori on the throne.
-266	4	Ieyasu			unresolved		Ieyasu was the greatest of them, and he waited.
+266	4	Ieyasu		Q15010	override		Ieyasu was the greatest of them, and he waited.
 266	5	Kobayakawa			unresolved		And at noon the lord Kobayakawa, on his hill, who had professed
-266	6	Ieyasu			unresolved		To wait as well, sat still, until, the story goes, Ieyasu's guns fired
+266	6	Ieyasu		Q15010	override		To wait as well, sat still, until, the story goes, Ieyasu's guns fired
 266	6	Ishida Mitsunari		Q18780	file		Fleeing into the hills. Ishida Mitsunari, who wore the crown
-266	7	Ieyasu			unresolved		Named Ieyasu shogun. In two years he had abdicated, threaded
+266	7	Ieyasu		Q15010	override		Named Ieyasu shogun. In two years he had abdicated, threaded
 266	8	Hideyori			unresolved		The castle burned, and Hideyori and his mother died in it,
 266	8	Monkey			unresolved		And the house of the Monkey ended. And then, between
 266	9	Edo			unresolved		Of them, no great war in Japan. The Edo peace.
-266	11	Ieyasu			unresolved		When Ieyasu died in 1616, by his own provision
+266	11	Ieyasu		Q15010	override		When Ieyasu died in 1616, by his own provision
 266	12	Tōshō Daigongen			unresolved		His spirit in a shrine as Tōshō Daigongen,
 266	12	Great Gongen Illuminating the East			unresolved		The Great Gongen Illuminating the East, and his grandson Iemitsu
 266	12	Iemitsu			unresolved		The Great Gongen Illuminating the East, and his grandson Iemitsu
 266	16	William Adams			unresolved		Closed. An Englishman, William Adams, a pilot, the same year, the page
-266	16	Ieyasu			unresolved		Of 1600, washed up in Kyūshū, and Ieyasu kept him, to see
+266	16	Ieyasu		Q15010	override		Of 1600, washed up in Kyūshū, and Ieyasu kept him, to see
 267	1	Englishman			unresolved		The Englishman who washed up in Japan in 1600 came on a Dutch ship,
 267	1	Dutch			unresolved		The Englishman who washed up in Japan in 1600 came on a Dutch ship,
 267	1	Liefde			unresolved		The Liefde, *Love*, one of five that set out and the only
@@ -10657,7 +10657,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 273	4	sakoku			unresolved		Was a wall with four gates. Later they would call it sakoku,
 273	4	Taikō			unresolved		And inside, the watching went into every house. The Taikō
 273	8	fumi-e			unresolved		Were made to step on a bronze image of the crucified, the fumi-e, the simple
-273	8	Christ			unresolved		Test of the foot: tread on the Christ, or the steeple
+273	8	Christ		Q138545	override		Test of the foot: tread on the Christ, or the steeple
 273	9	Mother of God			unresolved		Hold that. Mothers stepped on the Mother of God and went home and wept
 273	9	Buddhists			unresolved		Their names as Buddhists, and their secret kept
 273	12	Libra			unresolved		Statues filled the rivers. That is another chapter, in Libra.
@@ -10878,7 +10878,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 285	2	Linnaeus			unresolved		Of Linnaeus. The son, Emanuel, born in Stockholm in 1688,
 285	2	Emanuel			unresolved		Of Linnaeus. The son, Emanuel, born in Stockholm in 1688,
 285	2	Board of Mines			unresolved		On the Board of Mines, inspecting copper and iron, the weight
-285	5	Christ			unresolved		Christ appearing. And in April 1745, in a London inn,
+285	5	Christ		Q138545	override		Christ appearing. And in April 1745, in a London inn,
 285	7	Genesis			unresolved		*Heavenly Secrets*, eight volumes on Genesis and Exodus; *Heaven and Hell*.
 285	7	Exodus			unresolved		*Heavenly Secrets*, eight volumes on Genesis and Exodus; *Heaven and Hell*.
 285	10	Kant			unresolved		Of that story reached Kant in Königsberg, who looked into it, wrote scores
@@ -11245,7 +11245,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 300	12	Hong			unresolved		In 1864, as Nanjing starved, Hong told his people to eat the manna the Lord
 300	13	Gate			unresolved		Hold this, beside the Gate and the Glory of the last chapter.
 300	13	Glory			unresolved		Hold this, beside the Gate and the Glory of the last chapter.
-300	14	Christ			unresolved		Of a people's hope; and a man who believed he was the brother of Christ,
+300	14	Christ		Q138545	override		Of a people's hope; and a man who believed he was the brother of Christ,
 300	14	Baháʼu'lláh			unresolved		Not the vision. The sword. Baháʼu'lláh was imprisoned and wrote to kings; the priced
 301	2	Matthew Perry			unresolved		Of the locked country ended in an afternoon. Commodore Matthew Perry
 301	2	United States			unresolved		Of the United States would not go to Nagasaki, where foreigners were sent,
