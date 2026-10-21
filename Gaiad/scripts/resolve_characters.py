@@ -12,6 +12,15 @@ Methods, in order:
   initial    a tag on a single letter (an initial, not a person): not resolved
   file       the QID an existing Gaiad/genealogy/<name>.json already carries (wiki_qid)
   unique     the name matches exactly one person's label or gedcom name in persons.tsv
+  alias      no label or gedcom name matches, but persons have it as an English label or alias
+             (wikibase/analysis/person_names.tsv, from build_person_names.py), and one of them is linked
+             within two steps to the most other names resolved in the same chapter, outright (an alias alone
+             is not enough: Sargon is Sargon II's alias, ch 146 is Sargon of Akkad). Not for a name with a
+             digit (haplogroups such as E-V38), a name the verse also uses in lower case (life, ancestor), or
+             a name the Gaiad also tags as a place or a people ({{p|}}, {{x|}}: Roman, Christian). Other
+             languages' aliases are left out: they matched Minotaur to Haltern Hills and Aten to Athena.
+             The person's label must share a word with the name (Esarhaddon -> "Esarhaddon, king of
+             Assyria"), which keeps out the dump's stray aliases. A label "The X" also matches "X".
   context    several match; the one linked within two steps (parent, child, spouse) to the most other
              names already resolved in the same chapter wins, if it wins outright
   consensus  the name was settled by context in other chapters, always to the same person
@@ -33,8 +42,13 @@ GEN = ROOT / "Gaiad" / "genealogy"
 ANA = ROOT / "wikibase" / "analysis"
 OUT = GEN / "_resolution.tsv"
 OVERRIDES = GEN / "_overrides.tsv"
+PERSON_NAMES = ANA / "person_names.tsv"
+OTHER_TAG = re.compile(r"\{\{[px]\|(?:[^}|]*\|)?([^}|]+)\}\}")
 TAG = re.compile(r"\{\{c\|(?:([^}|]*)\|)?([^}|]+)\}\}")
 TITLE = re.compile(r"^#\s+(?:Chapter\s+\d+:\s*)?(.*)")
+
+
+LABELS = {}
 
 
 def norm(s):
@@ -48,6 +62,10 @@ def load_people():
             for n in (r["label"], r["gedcom"]):
                 if n and n.strip():
                     by_name[norm(n)].add(r["qid"])
+                    # "The Buddha" is also "Buddha"
+                    if norm(n).startswith("the "):
+                        by_name[norm(n)[4:]].add(r["qid"])
+            LABELS[r["qid"]] = r["label"]
     nbr = defaultdict(set)
     for fname, a, b in (("edges.tsv", "parent", "child"), ("spouses.tsv", "a", "b")):
         with open(ANA / fname, encoding="utf-8") as fh:
@@ -55,6 +73,39 @@ def load_people():
                 nbr[r[a]].add(r[b])
                 nbr[r[b]].add(r[a])
     return by_name, nbr
+
+
+def load_aliases():
+    by_alias = defaultdict(set)
+    if PERSON_NAMES.exists():
+        with open(PERSON_NAMES, encoding="utf-8") as fh:
+            for r in csv.DictReader(fh, delimiter="\t"):
+                if r["lang"] in ("en", "mul"):
+                    by_alias[norm(r["name"])].add(r["qid"])
+    return by_alias
+
+
+def alias_guard():
+    """Names an alias may not resolve: the lower-case words and phrases of the verse, and the names tagged
+    as places or peoples anywhere in it."""
+    words, other, text = set(), set(), []
+    for f in sorted(EPIC.glob("chapter_*.md")):
+        raw = f.read_text(encoding="utf-8")
+        other |= {norm(m.group(1)) for m in OTHER_TAG.finditer(raw)}
+        plain = re.sub(r"\{\{[cpx]\|(?:[^}|]*\|)?([^}|]+)\}\}", r"\1", raw)
+        text.append(plain)
+        words |= set(re.findall(r"\b[a-z][a-z'-]*\b", plain))
+    text = "\n".join(text)
+
+    def guarded(name):
+        k = norm(name)
+        if re.search(r"\d", name) or k in other:
+            return True
+        parts = k.split()
+        if not all(p in words for p in parts):
+            return False
+        return len(parts) == 1 or re.search(r"\b" + re.escape(k) + r"\b", text) is not None
+    return guarded
 
 
 def within_two(q, nbr):
@@ -94,6 +145,17 @@ def occurrences():
 
 def main():
     by_name, nbr = load_people()
+    by_alias = load_aliases()
+    guarded = alias_guard()
+
+    def alias_cands(name):
+        k = norm(name)
+        if k in by_name or not by_alias.get(k) or guarded(name):
+            return set()
+        # The person's own label must share a word with the name: the dump has stray aliases (Trajan on a
+        # record labelled Andhra Pradesh, John VI Kantakouzenos on red squirrel).
+        words = set(re.findall(r"\w+", k))
+        return {q for q in by_alias[k] if words & set(re.findall(r"\w+", norm(LABELS.get(q, ""))))}
     fq = file_qids()
     over = {}
     if OVERRIDES.exists():
@@ -123,12 +185,15 @@ def main():
         if (n, k) in first:
             res[(n, k)] = first[(n, k)]
             continue
-        cands = sorted(by_name.get(k, ()), key=lambda q: int(q[1:]))
-        if len(cands) > 1:
+        by_alias_only = k not in by_name
+        cands = sorted(by_name.get(k, ()) or alias_cands(name), key=lambda q: int(q[1:]))
+        # An alias, even a single one, must also be borne out by the chapter (Sargon is Sargon II's alias,
+        # but ch 146 is Sargon of Akkad).
+        if len(cands) > 1 or (by_alias_only and cands):
             scores = Counter({q: len(within_two(q, nbr) & by_chapter[n]) for q in cands})
             top = scores.most_common(2)
             if top[0][1] > 0 and (len(top) == 1 or top[0][1] > top[1][1]):
-                res[(n, k)] = (top[0][0], "context", " ".join(cands))
+                res[(n, k)] = (top[0][0], "alias" if by_alias_only else "context", " ".join(cands))
                 continue
         res[(n, k)] = ("", "unresolved", " ".join(cands))
         pending.append((n, k))
