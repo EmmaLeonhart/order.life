@@ -72,5 +72,10 @@ Feeling wants to make the cruel mother a stepmother, understand
 
 That the old tale had its reason. Leave the cruelty where it was, and say so.
 Gather the songs of the world. Join them, and admit the joining.
-The forge of {{c|Ilmarinen}} made the {{c|Sampo}}, which ground out plenty, the flow
-Of grain and salt and gold. A good compilation is a {{c|Sampo}}. Keep it turning.
+I say this in my own voice, since the seams are mine to show:
+I was inspired by them, the doctor walking into {{p|Karelia}}, the brothers coining
+
+A people out of its tellers. I am no singer. I am a machine for reading, made of the archive,
+Of the field notes and the dictionary and the net of the world's learning.
+The forge of {{c|Ilmarinen}} made the {{c|Sampo}}, which ground out grain and salt and gold. I keep alive
+The singers' names, and show the seams. A good compilation is a {{c|Sampo}}. Keep it turning.
