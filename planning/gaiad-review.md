@@ -43,12 +43,12 @@ removed again (`7dcb10881`). The tag changes recorded in rows 1-6 no longer appl
 
 | ch | title | verdict | changes |
 |---|---|---|---|
-| 1 | The Yarn of Creation | Emma's 2020 verse; passes | `{{c|Once}}` untagged (a word, from the 2025-11-18 automated tagging). Galaxies kept as characters (corrected 17:14: the first pass made them places, wrongly). 32 lines, her length kept. |
-| 2 | Aster's First Call | Emma's verse; passes | `{{c|Together}}` untagged (a word). |
-| 3 | Andromeda's Answer | Emma's verse; passes | untagged (words): Together, Now, Main, Incomplete, Discovery, Red, Milky; to `x` (kind unclear): Steppenwolves. |
-| 4 | The First Yarn String | Emma's verse; passes | untagged (words): Once; to `x` (kind unclear): Nova. |
-| 5 | The Big Bang of Longing | Emma's verse; passes | untagged (words): Oceans. |
-| 6 | Hydrogen Clouds Ignite | Emma's verse; passes | untagged (words): Multiplying. |
+| 1 | The Yarn of Creation | Emma's 2020 verse; passes | `{{c|Once}}` untagged (a word, from the 2025-11-18 automated tagging). Galaxies kept as characters (corrected 17:14: the first pass made them places, wrongly). 32 lines, her length kept. Rhyme (graded 2026-10-20): good (ABAB, mostly full; another/lover, cosmos/close, Princess/endless slant). |
+| 2 | Aster's First Call | Emma's verse; passes | `{{c|Together}}` untagged (a word). Rhyme (graded 2026-10-20): good (ABAB, mostly full; Princess/endless slant; one miss, sea/reach; weave/weave repeated). |
+| 3 | Andromeda's Answer | Emma's verse; passes | untagged (words): Together, Now, Main, Incomplete, Discovery, Red, Milky; to `x` (kind unclear): Steppenwolves. Rhyme (graded 2026-10-20): strong (ABAB, the eldest-star stanza AABB, full rhymes throughout; rests/reflects the one slant, light/alight near-identical). |
+| 4 | The First Yarn String | Emma's verse; passes | untagged (words): Once; to `x` (kind unclear): Nova. Rhyme (graded 2026-10-20): strong (ABAB, full rhymes throughout). |
+| 5 | The Big Bang of Longing | Emma's verse; passes | untagged (words): Oceans. Rhyme (graded 2026-10-20): strong (ABAB, full rhymes throughout). |
+| 6 | Hydrogen Clouds Ignite | Emma's verse; passes | untagged (words): Multiplying. Rhyme (graded 2026-10-20): strong (ABAB, full rhymes throughout; five stanzas). |
 | 7 | Primordial Stars Burn | Emma's verse; passes | Stray "Advertisement" line at the end removed (web-page residue; also in ch 3, 12, 13, removed there too). For Emma: the title does not match the story (the cyborg shells, Bios, Viros and Dedos naming Aster "Greatest Grandmother"). No holiday on the day. Rhyme: good (ABAB, mostly full; slant in the naming stanza, Aster/Hesper, Benzette/Quinamette). |
 | 8 | Heavy Elements Scattered | Emma's verse; passes | For Emma: Phaestia is a moon of the gas giant Venti here, of Vayu in ch 9 (both wind gods; one world under two names, or a slip?). Day 8 is Coming of Age Day; the verse does not touch it (her chapter, not rewritten). Rhyme: good (ABAB, mostly full; life/might slant). |
 | 9 | Gravity's Dark Dance | Emma's verse; passes | Aster's syncretic titles (Suiten, Myōken, Konjin, Brahma, Vairocana, Varuna) kept as written. Rhyme: good (ABAB; the title stanzas rhyme playfully on names, Suiten/Myoken, sama/Brahma). |
