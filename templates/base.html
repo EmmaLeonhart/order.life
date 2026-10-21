@@ -18,7 +18,8 @@
   <link rel="icon" href="/static/favicon.svg" type="image/svg+xml">
   <link rel="alternate" type="application/rss+xml" title="Gaiad — Daily Reading" href="https://order.life/feed.xml">
   <link rel="stylesheet" href="/static/css/style.css">
-  <script src="/static/js/gaian-calendar.js" defer></script>
+  {# Not deferred: inline scripts in the body (gaiad index, month pages, year pages) call pacificToday() as they run. #}
+  <script src="/static/js/gaian-calendar.js"></script>
   <script>
     // Redirect language subdomains: ja.order.life/* → order.life/ja/*
     (function() {

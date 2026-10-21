@@ -13,8 +13,9 @@
     <p class="daily-masthead-tagline">{{ t.gaiad_subtitle }}</p>
   </header>
 
+  {# The build's day is only the fallback (no JS): the script below swaps in today's chapter, Pacific time. #}
+  <article class="chapter-content daily-meditation" id="daily-reading" data-chapter="{{ daily_reading_chapter or 0 }}"{% if not daily_reading_chapter %} hidden{% endif %}>
   {% if daily_reading_chapter %}
-  <article class="chapter-content daily-meditation">
     <div class="chapter-header">
       <p class="daily-meditation-label">{{ t.daily_reading }}</p>
       <h1>{{ t.chapter }} {{ daily_reading_chapter }}{% if daily_chapter_title %}: {{ daily_chapter_title }}{% endif %}</h1>
@@ -55,8 +56,8 @@
       </ul>
     </div>
     {% endif %}
-  </article>
   {% endif %}
+  </article>
 
   <nav class="epic-quick-links">
     <a class="epic-quick-link" href="{{ base }}/gaiad/">{{ t.nav.scripture }}</a>
@@ -69,24 +70,89 @@
 
 {% block scripts %}
 <script>
-// Update date-sub to show the user's local date rather than the server's build-time UTC date.
+// Today's reading, chosen in the browser. The page was built on whatever day GitHub ran the build, and
+// GitHub runs the midnight rebuild hours late, so the build's chapter is only the fallback: when the
+// Pacific date (pacificToday in gaian-calendar.js) has moved on, the day's chapter is fetched from its
+// own page, /gaiad/NNN/, and put in its place. A Horus day has no chapter, so the reading is hidden.
 (function () {
-  var TODAY_IS = {{ t.today_is | tojson }};
-  document.addEventListener('DOMContentLoaded', function () {
-    var sub = document.getElementById('date-sub');
-    if (!sub) return;
-    var now = new Date();
-    var dow = now.getDay() === 0 ? 7 : now.getDay(); // ISO Mon=1..Sun=7
-    var weekday = (window.GAIAN_WEEKDAY_NAMES || [])[dow - 1] || '';
-    var localeMap = { en:'en', ja:'ja', zh:'zh-CN', es:'es', hi:'hi-IN', ar:'ar', fr:'fr', ru:'ru', uk:'uk' };
-    var gregDate;
-    try {
-      gregDate = new Intl.DateTimeFormat(localeMap[{{ lang | tojson }}] || {{ lang | tojson }},
-        { year: 'numeric', month: 'long', day: 'numeric' }).format(now);
-    } catch (e) {
-      gregDate = now.toLocaleDateString();
+  var BASE = {{ base | tojson }};
+  var T = {
+    gaiad: {{ t.gaiad | tojson }},
+    kanji: {{ t.religion_kanji | tojson }},
+    chapter: {{ t.chapter | tojson }},
+    daily_reading: {{ t.daily_reading | tojson }},
+    prev: {{ t.prev | tojson }},
+    next: {{ t.next | tojson }},
+    coming_soon: {{ t.gaiad_index.coming_soon | tojson }}
+  };
+  function esc(s) { return String(s).replace(/[&<>"]/g, function (c) {
+    return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]; }); }
+  function pad(n, w) { n = String(n); while (n.length < w) n = '0' + n; return n; }
+  function chapterLink(n, label) { return '<a href="' + BASE + '/gaiad/' + pad(n, 3) + '/">' + esc(label) + '</a>'; }
+
+  // The chapter page's text, in the homepage's plain form: stanzas without their numbers, a blank line between.
+  function chapterText(doc) {
+    var stanzas = doc.querySelectorAll('.chapter-text .stanza');
+    if (!stanzas.length) {
+      var plain = doc.querySelector('.chapter-text');
+      return plain ? plain.textContent : null;
     }
-    sub.textContent = TODAY_IS + ' · ' + weekday + ' · ' + gregDate;
+    var parts = [];
+    for (var i = 0; i < stanzas.length; i++) {
+      var s = stanzas[i].cloneNode(true);
+      var num = s.querySelector('.stanza-num');
+      if (num) num.parentNode.removeChild(num);
+      parts.push(s.textContent);
+    }
+    return parts.join('\n\n');
+  }
+
+  function show(art, ch, doc) {
+    var titleEl = doc.querySelector('.chapter-header .chapter-title');
+    var title = titleEl ? titleEl.textContent.trim() : '';
+    var text = chapterText(doc);
+    var further = doc.querySelector('.further-reading');
+    var month = GAIAN_MONTHS[Math.floor((ch - 1) / 28)];
+    var day = (ch - 1) % 28 + 1;
+    var monthName = (window.GAIAN_MONTH_NAMES || {})[month.id] || month.name_en;
+    var monthHref = BASE + '/calendar/' + month.id + '/';
+    art.innerHTML =
+      '<div class="chapter-header">' +
+        '<p class="daily-meditation-label">' + esc(T.daily_reading) + '</p>' +
+        '<h1>' + esc(T.chapter + ' ' + ch + (title ? ': ' + title : '')) + '</h1>' +
+        '<p class="chapter-meta">' + month.symbol + ' <a href="' + monthHref + '">' + esc(monthName) + '</a> ' +
+          '<a href="' + monthHref + pad(day, 2) + '/">' + day + '</a></p>' +
+      '</div>' +
+      (text ? '<div class="chapter-text"></div>'
+            : '<div class="text-center" style="padding: 40px 20px; color: var(--text-muted);"><p>' + esc(T.coming_soon) + '</p></div>') +
+      '<div class="chapter-nav">' +
+        (ch > 1 ? chapterLink(ch - 1, '← ' + T.prev + ': ' + (ch - 1)) : '<span></span>') +
+        '<a href="' + BASE + '/gaiad/' + pad(ch, 3) + '/" class="chapter-permalink-btn">' + esc(T.chapter + ' ' + ch) + '</a>' +
+        (ch < 364 ? chapterLink(ch + 1, T.next + ': ' + (ch + 1) + ' →') : '<span></span>') +
+      '</div>';
+    if (text) art.querySelector('.chapter-text').textContent = text;
+    if (further) art.appendChild(document.importNode(further, true));
+    art.dataset.chapter = String(ch);
+    art.hidden = false;
+    document.title = T.gaiad + ' ' + ch + (title ? ': ' + title : '') + ' — ' + T.kanji;
+  }
+
+  document.addEventListener('DOMContentLoaded', function () {
+    var art = document.getElementById('daily-reading');
+    if (!art || typeof pacificToday !== 'function') return;
+    var g = gregorianToGaian(pacificToday());
+    var ch = g.month <= 13 ? dayOfYear(g.month, g.day) : 0;
+    if (ch === parseInt(art.dataset.chapter, 10)) return;  // the build's day is still today
+    if (!ch) {                                              // a Horus day: no chapter to read
+      art.hidden = true;
+      art.dataset.chapter = '0';
+      document.title = T.gaiad + ' — ' + T.kanji;
+      return;
+    }
+    fetch(BASE + '/gaiad/' + pad(ch, 3) + '/')
+      .then(function (r) { if (!r.ok) throw new Error(r.status); return r.text(); })
+      .then(function (html) { show(art, ch, new DOMParser().parseFromString(html, 'text/html')); })
+      .catch(function () { /* leave the build's chapter in place */ });
   });
 })();
 </script>

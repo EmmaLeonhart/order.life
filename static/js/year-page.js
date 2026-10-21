@@ -109,7 +109,8 @@ function buildYearCalendar(gaianYear) {
   const basePath = (window.LANG_BASE) || '';
 
   // Today — only highlight when viewing the current Gaian year
-  const todayRaw = new Date();
+  // the site's day is Pacific (pacificToday in gaian-calendar.js), not the visitor's own zone
+  const todayRaw = (typeof pacificToday === 'function') ? pacificToday() : new Date();
   todayRaw.setHours(0, 0, 0, 0);
   const thu = new Date(todayRaw);
   thu.setDate(todayRaw.getDate() + (4 - (todayRaw.getDay() || 7)));

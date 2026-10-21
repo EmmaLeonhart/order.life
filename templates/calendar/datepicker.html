@@ -61,6 +61,7 @@
     </div>
   </div>
 </div>
+{% endblock %}
 
 {% block scripts %}
 <script>
@@ -98,7 +99,7 @@ function gaianToGreg(gy, gm, gd) {
 }
 
 function initPicker() {
-  const today = gregorianToGaian(new Date());
+  const today = gregorianToGaian(pacificToday());
   pickerMonth = today.month;
   pickerYear = today.year;
   pickerSelectedDay = today.day;
@@ -166,7 +167,7 @@ function renderPicker() {
   const grid = document.getElementById('pickerDays');
   grid.innerHTML = '';
 
-  const today = gregorianToGaian(new Date());
+  const today = gregorianToGaian(pacificToday());
 
   renderPickerMonthSelector();
 
@@ -237,5 +238,4 @@ function setPickerYear(y) {
 
 document.addEventListener('DOMContentLoaded', initPicker);
 </script>
-{% endblock %}
 {% endblock %}

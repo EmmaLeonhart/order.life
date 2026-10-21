@@ -356,7 +356,8 @@ function buildFestivalsCalendar(gaianYear) {
   const basePath   = window.LANG_BASE || '';
 
   // Today (for current-year highlighting)
-  const todayRaw = new Date();
+  // the site's day is Pacific (pacificToday in gaian-calendar.js), not the visitor's own zone
+  const todayRaw = (typeof pacificToday === 'function') ? pacificToday() : new Date();
   todayRaw.setHours(0, 0, 0, 0);
   const thu = new Date(todayRaw);
   thu.setDate(todayRaw.getDate() + (4 - (todayRaw.getDay() || 7)));
@@ -512,7 +513,7 @@ function buildMonthFestivalsCalendar(gaianYear, gaianMonth) {
   const easter    = easterDate(isoYear);
   const basePath  = window.LANG_BASE || '';
 
-  const todayRaw = new Date(); todayRaw.setHours(0, 0, 0, 0);
+  const todayRaw = (typeof pacificToday === 'function') ? pacificToday() : new Date(); todayRaw.setHours(0, 0, 0, 0);
   const thu = new Date(todayRaw);
   thu.setDate(todayRaw.getDate() + (4 - (todayRaw.getDay() || 7)));
   const today = (thu.getFullYear() + 10000) === gaianYear ? todayRaw : null;

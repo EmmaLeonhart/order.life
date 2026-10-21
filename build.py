@@ -615,6 +615,16 @@ def iso_week_info(d):
     return iso_cal[0], iso_cal[1], iso_cal[2]
 
 
+SITE_TIME_ZONE = "America/Los_Angeles"
+
+
+def site_today():
+    """The site's day: the date in Pacific time, not the build runner's UTC. Pages built from it are only
+    the no-JS fallback, since GitHub runs the midnight rebuild hours late; the browser works out today
+    itself (pacificToday in static/js/gaian-calendar.js)."""
+    return datetime.datetime.now(ZoneInfo(SITE_TIME_ZONE)).date()
+
+
 def gregorian_to_gaian(d):
     iso_year, week, day_of_week = iso_week_info(d)
     month_index = (week - 1) // 4
@@ -1434,7 +1444,7 @@ def generate_ical_files(site_dir):
     ical_dir = site_dir / "calendar" / "ical"
     ical_dir.mkdir(parents=True, exist_ok=True)
 
-    today      = datetime.date.today()
+    today      = site_today()
     current_ge = today.isocalendar()[0] + 10000
 
     # month_display: num → display name (capitalize id, "scorpius" → "Scorpius")
@@ -1506,7 +1516,7 @@ def generate_rss_feed(site_dir, chapters):
     """
     from xml.sax.saxutils import escape as xml_escape
 
-    today = date.today()
+    today = site_today()
     gaian = gregorian_to_gaian(today)
     gy = gaian["year"]
     today_doy = day_of_year(gaian["month"], gaian["day"])
@@ -1579,7 +1589,7 @@ def generate_rss_feed(site_dir, chapters):
         '    <atom:link href="https://order.life/feed.xml" rel="self" type="application/rss+xml"/>\n'
         '    <description>The daily chapter reading from the Gaiad, the scripture of Lifeism.</description>\n'
         '    <language>en</language>\n'
-        f'    <lastBuildDate>{date.today().strftime("%a, %d %b %Y 00:00:00 +0000")}</lastBuildDate>\n'
+        f'    <lastBuildDate>{site_today().strftime("%a, %d %b %Y 00:00:00 +0000")}</lastBuildDate>\n'
         + "\n".join(items) + "\n"
         '  </channel>\n'
         '</rss>\n'
@@ -1775,9 +1785,9 @@ def build_site():
     wiki_pages = load_wiki_pages()
     genealogy = load_genealogy()
     fudoki_divisions = load_fudoki_data()
-    # The site's day is Pacific time (Vancouver), not the build runner's UTC: with UTC the homepage
-    # showed tomorrow after a Pacific-evening push and yesterday until the morning rebuild.
-    today = datetime.datetime.now(ZoneInfo("America/Vancouver")).date()
+    # The site's day is Pacific time, not the build runner's UTC: with UTC the homepage showed tomorrow
+    # after a Pacific-evening push. The build's day is only the no-JS fallback (see site_today).
+    today = site_today()
     gaian_today = gregorian_to_gaian(today)
     iso_weekday = today.isoweekday()  # Mon=1..Sun=7
     gaian_today_doy = day_of_year(gaian_today["month"], gaian_today["day"])
@@ -2101,7 +2111,7 @@ def build_site():
         # Year pages — canonical URL: /calendar/{gaian_year}/
         # Pre-generate current Gaian year ±10; all other years are served
         # dynamically via the 404.html client-side router.
-        _today      = datetime.date.today()
+        _today      = site_today()
         _iso_year   = _today.isocalendar()[0]  # ISO week-year
         _cur_gaian  = _iso_year + 10000
         YEAR_RANGE  = range(_cur_gaian - 10, _cur_gaian + 11)

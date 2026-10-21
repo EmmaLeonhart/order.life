@@ -129,7 +129,7 @@
     {% endif %}
   </div>
 
-  <div class="days-grid">
+  <div class="days-grid" data-month="{{ month.num }}">
     {% for wd in t.weekdays %}
     <div class="weekday-header">{{ wd }}</div>
     {% endfor %}
@@ -138,6 +138,7 @@
     {% set doy = (month.num - 1) * 28 + d if month.num <= 13 else 364 + d %}
     {% set hol = month_holidays.get(d) %}
     <a href="{{ base }}/calendar/{{ '%02d' % month.num }}/{{ '%02d' % d }}/"
+       data-day="{{ d }}"
        class="day-cell{% if gaian_today.month == month.num and gaian_today.day == d %} today{% endif %}">
       <span class="day-number">{% if hol %}{{ hol.emoji }} {% endif %}{{ d }}</span>
       {% if doy <= 364 %}
@@ -181,4 +182,21 @@
   </div>
   {% endif %}
 </div>
+{% endblock %}
+
+{% block scripts %}
+<script>
+// The build marks the day it ran on; GitHub runs the midnight rebuild hours late, so move the mark to
+// today as the browser sees it, in Pacific time (pacificToday in gaian-calendar.js).
+(function () {
+  var grid = document.querySelector('.days-grid[data-month]');
+  if (!grid) return;
+  var g = gregorianToGaian(pacificToday());
+  var cells = grid.querySelectorAll('.day-cell[data-day]');
+  for (var i = 0; i < cells.length; i++) {
+    var isToday = g.month === parseInt(grid.dataset.month, 10) && g.day === parseInt(cells[i].dataset.day, 10);
+    cells[i].classList.toggle('today', isToday);
+  }
+})();
+</script>
 {% endblock %}

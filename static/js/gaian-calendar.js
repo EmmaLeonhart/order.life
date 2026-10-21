@@ -21,18 +21,41 @@ const GAIAN_MONTHS = [
   { num: 14, id: 'horus',       symbol: '𓅃', name_en: 'Horus' },
 ];
 
+/**
+ * Today in the site's time zone. order.life's day is Pacific time (America/Los_Angeles), whoever is
+ * visiting and whenever GitHub got round to rebuilding the site: the day turns at midnight Pacific.
+ * Returns a local Date at midnight carrying the Pacific year, month and day, so the local-date
+ * arithmetic below (getDay, getISOWeekInfo) works on it unchanged. Without Intl time zones it falls
+ * back to the visitor's own date.
+ */
+const SITE_TIME_ZONE = 'America/Los_Angeles';
+
+function pacificToday(now) {
+  now = now || new Date();
+  try {
+    const parts = new Intl.DateTimeFormat('en-US', {
+      timeZone: SITE_TIME_ZONE, year: 'numeric', month: 'numeric', day: 'numeric',
+    }).formatToParts(now);
+    const get = type => parseInt(parts.find(p => p.type === type).value, 10);
+    return new Date(get('year'), get('month') - 1, get('day'));
+  } catch (e) {
+    return new Date(now.getFullYear(), now.getMonth(), now.getDate());
+  }
+}
+
 function getISODayOfWeek(date) {
   const d = date.getDay();
   return d === 0 ? 7 : d;
 }
 
 function getISOWeekInfo(date) {
-  const d = new Date(date.getTime());
-  d.setHours(0, 0, 0, 0);
-  d.setDate(d.getDate() + 4 - (d.getDay() || 7));
-  const yearStart = new Date(d.getFullYear(), 0, 1);
+  // Count in UTC on the date's own calendar day: in local time a daylight-saving change between
+  // 1 January and the day (southern-hemisphere zones) made the count spill into the next week.
+  const d = new Date(Date.UTC(date.getFullYear(), date.getMonth(), date.getDate()));
+  d.setUTCDate(d.getUTCDate() + 4 - (d.getUTCDay() || 7));
+  const yearStart = new Date(Date.UTC(d.getUTCFullYear(), 0, 1));
   const weekOfYear = Math.ceil((((d - yearStart) / 86400000) + 1) / 7);
-  return { weekYear: d.getFullYear(), weekOfYear };
+  return { weekYear: d.getUTCFullYear(), weekOfYear };
 }
 
 function gregorianToGaian(date) {
@@ -60,7 +83,7 @@ function dayOfYear(monthNum, dayInMonth) {
  * Expects data attributes for localized month names on the element.
  */
 function updateLiveGaianDate() {
-  const now = new Date();
+  const now = pacificToday();
   const today = gregorianToGaian(now);
   const els = document.querySelectorAll('.gaian-date-live');
   els.forEach(el => {
