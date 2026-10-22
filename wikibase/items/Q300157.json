@@ -1,0 +1,68 @@
+{
+  "type": "item",
+  "id": "Q300157",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Frigg"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Norse deity; record created 2026-10-21 for the Gaiad's tags, from Wikidata Q131654"
+    }
+  },
+  "claims": {
+    "P61": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P61",
+          "datavalue": {
+            "value": "Q131654",
+            "type": "string"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P55": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P55",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P42": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P42",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q300087",
+              "numeric-id": 300087
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ]
+  }
+}

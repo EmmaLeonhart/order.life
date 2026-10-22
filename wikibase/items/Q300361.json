@@ -1,0 +1,50 @@
+{
+  "type": "item",
+  "id": "Q300361",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Jean Sibelius"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Finnish composer (1865–1957); record created 2026-10-21 for the Gaiad's tags, from Wikidata Q45682"
+    }
+  },
+  "claims": {
+    "P61": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P61",
+          "datavalue": {
+            "value": "Q45682",
+            "type": "string"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P55": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P55",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ]
+  }
+}

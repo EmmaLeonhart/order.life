@@ -1,0 +1,102 @@
+{
+  "type": "item",
+  "id": "Q300281",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Ivan I of Moscow"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Prince of Moscow and Grand Prince of Vladimir; record created 2026-10-21 for the Gaiad's tags, from Wikidata Q185316"
+    }
+  },
+  "claims": {
+    "P61": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P61",
+          "datavalue": {
+            "value": "Q185316",
+            "type": "string"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P55": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P55",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P48": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P48",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q54378",
+              "numeric-id": 54378
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P20": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P20",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q56023",
+              "numeric-id": 56023
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P20",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q53652",
+              "numeric-id": 53652
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ]
+  }
+}

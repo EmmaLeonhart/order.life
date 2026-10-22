@@ -1,0 +1,50 @@
+{
+  "type": "item",
+  "id": "Q300129",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Larry Sanger"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "American former professor, co-founder of Wikipedia, founder of Citizendium and other projects (born 1968); record created 2026-10-21 for the Gaiad's tags, from Wikidata Q185"
+    }
+  },
+  "claims": {
+    "P61": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P61",
+          "datavalue": {
+            "value": "Q185",
+            "type": "string"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P55": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P55",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ]
+  }
+}

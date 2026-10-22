@@ -1,0 +1,68 @@
+{
+  "type": "item",
+  "id": "Q300282",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Ivan III of Moscow"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Grand Prince of Moscow and all Russia from 1462 to 1505; record created 2026-10-21 for the Gaiad's tags, from Wikidata Q171185"
+    }
+  },
+  "claims": {
+    "P61": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P61",
+          "datavalue": {
+            "value": "Q171185",
+            "type": "string"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P55": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P55",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P42": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P42",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q300283",
+              "numeric-id": 300283
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ]
+  }
+}

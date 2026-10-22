@@ -1,0 +1,86 @@
+{
+  "type": "item",
+  "id": "Q300160",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Senusret I"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "pharaoh of Egypt; record created 2026-10-21 for the Gaiad's tags, from Wikidata Q18763"
+    }
+  },
+  "claims": {
+    "P61": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P61",
+          "datavalue": {
+            "value": "Q18763",
+            "type": "string"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P55": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P55",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P47": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P47",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q300069",
+              "numeric-id": 300069
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P48": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P48",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q86043",
+              "numeric-id": 86043
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ]
+  }
+}

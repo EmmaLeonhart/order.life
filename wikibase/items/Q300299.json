@@ -1,0 +1,50 @@
+{
+  "type": "item",
+  "id": "Q300299",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Túpac Katari"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "indigenous Aymara leader of a major insurrection in colonial-era Upper Peru; record created 2026-10-21 for the Gaiad's tags, from Wikidata Q468810"
+    }
+  },
+  "claims": {
+    "P61": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P61",
+          "datavalue": {
+            "value": "Q468810",
+            "type": "string"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P55": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P55",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ]
+  }
+}

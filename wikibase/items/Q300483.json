@@ -1,0 +1,32 @@
+{
+  "type": "item",
+  "id": "Q300483",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Chelsea Manning"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "American activist and whistleblower (born 1987); record created 2026-10-21 for the Gaiad's tags, from Wikidata Q298423"
+    }
+  },
+  "claims": {
+    "P61": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P61",
+          "datavalue": {
+            "value": "Q298423",
+            "type": "string"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ]
+  }
+}

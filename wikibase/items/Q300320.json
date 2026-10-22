@@ -1,0 +1,50 @@
+{
+  "type": "item",
+  "id": "Q300320",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Kuzma Minin"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "the first democratically elected legitimate acting head of the Russian state, organizer and one of the leaders of the Zemsky militia and national hero (?–1616); record created 2026-10-21 for the Gaiad's tags, from Wikidata Q469785"
+    }
+  },
+  "claims": {
+    "P61": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P61",
+          "datavalue": {
+            "value": "Q469785",
+            "type": "string"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P55": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P55",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ]
+  }
+}

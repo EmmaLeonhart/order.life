@@ -1,0 +1,50 @@
+{
+  "type": "item",
+  "id": "Q300455",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Mikhail Gorbachev"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "leader of the Soviet Union from 1985 to 1991 (1931–2022); record created 2026-10-21 for the Gaiad's tags, from Wikidata Q30487"
+    }
+  },
+  "claims": {
+    "P61": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P61",
+          "datavalue": {
+            "value": "Q30487",
+            "type": "string"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P55": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P55",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ]
+  }
+}

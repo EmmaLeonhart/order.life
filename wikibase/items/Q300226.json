@@ -1,0 +1,50 @@
+{
+  "type": "item",
+  "id": "Q300226",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Manāt"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "pre-Islamic Arabian goddess; record created 2026-10-21 for the Gaiad's tags, from Wikidata Q943459"
+    }
+  },
+  "claims": {
+    "P61": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P61",
+          "datavalue": {
+            "value": "Q943459",
+            "type": "string"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P55": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P55",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ]
+  }
+}

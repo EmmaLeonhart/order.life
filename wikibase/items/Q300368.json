@@ -1,0 +1,50 @@
+{
+  "type": "item",
+  "id": "Q300368",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Napoleon III"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "President of the Second French Republic, Emperor of the Second French Empire and last monarch of France (1808–1873); record created 2026-10-21 for the Gaiad's tags, from Wikidata Q7721"
+    }
+  },
+  "claims": {
+    "P61": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P61",
+          "datavalue": {
+            "value": "Q7721",
+            "type": "string"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P55": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P55",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ]
+  }
+}

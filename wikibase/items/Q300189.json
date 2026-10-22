@@ -1,0 +1,50 @@
+{
+  "type": "item",
+  "id": "Q300189",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Psamtik III"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Egyptian pharaoh from 526 BC to 525 BC; record created 2026-10-21 for the Gaiad's tags, from Wikidata Q316278"
+    }
+  },
+  "claims": {
+    "P61": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P61",
+          "datavalue": {
+            "value": "Q316278",
+            "type": "string"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P55": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P55",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ]
+  }
+}

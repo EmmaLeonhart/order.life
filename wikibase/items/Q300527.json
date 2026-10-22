@@ -1,0 +1,50 @@
+{
+  "type": "item",
+  "id": "Q300527",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Luiz Inácio Lula da Silva"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "president of Brazil from 2003 to 2011 and since 2023; record created 2026-10-21 for the Gaiad's tags, from Wikidata Q37181"
+    }
+  },
+  "claims": {
+    "P61": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P61",
+          "datavalue": {
+            "value": "Q37181",
+            "type": "string"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P55": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P55",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ]
+  }
+}

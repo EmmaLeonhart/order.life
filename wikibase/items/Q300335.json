@@ -1,0 +1,50 @@
+{
+  "type": "item",
+  "id": "Q300335",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Margaret Cavendish, Duchess of Newcastle-upon-Tyne"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "English aristocrat, prolific writer, and scientist; record created 2026-10-21 for the Gaiad's tags, from Wikidata Q242640"
+    }
+  },
+  "claims": {
+    "P61": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P61",
+          "datavalue": {
+            "value": "Q242640",
+            "type": "string"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P55": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P55",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ]
+  }
+}

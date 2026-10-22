@@ -1,0 +1,50 @@
+{
+  "type": "item",
+  "id": "Q300404",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Alexander Kerensky"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Russian politician, prime minister in 1917 (1881–1970); record created 2026-10-21 for the Gaiad's tags, from Wikidata Q48211"
+    }
+  },
+  "claims": {
+    "P61": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P61",
+          "datavalue": {
+            "value": "Q48211",
+            "type": "string"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P55": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P55",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ]
+  }
+}

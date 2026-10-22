@@ -1,0 +1,50 @@
+{
+  "type": "item",
+  "id": "Q300465",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Ahmad Shah Massoud"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Tajik military leader (1953–2001); record created 2026-10-21 for the Gaiad's tags, from Wikidata Q200029"
+    }
+  },
+  "claims": {
+    "P61": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P61",
+          "datavalue": {
+            "value": "Q200029",
+            "type": "string"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P55": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P55",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ]
+  }
+}

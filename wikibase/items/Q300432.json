@@ -1,0 +1,50 @@
+{
+  "type": "item",
+  "id": "Q300432",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Hansa Jivraj Mehta"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "reformist, social activist, freedom-fighter and educator and writer of India; record created 2026-10-21 for the Gaiad's tags, from Wikidata Q5650929"
+    }
+  },
+  "claims": {
+    "P61": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P61",
+          "datavalue": {
+            "value": "Q5650929",
+            "type": "string"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P55": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P55",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ]
+  }
+}

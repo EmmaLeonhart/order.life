@@ -1,0 +1,50 @@
+{
+  "type": "item",
+  "id": "Q300448",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Abraham Lincoln"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "president of the United States from 1861 to 1865 (1809-1865); record created 2026-10-21 for the Gaiad's tags, from Wikidata Q91"
+    }
+  },
+  "claims": {
+    "P61": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P61",
+          "datavalue": {
+            "value": "Q91",
+            "type": "string"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P55": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P55",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ]
+  }
+}

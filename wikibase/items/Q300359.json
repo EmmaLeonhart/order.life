@@ -1,0 +1,50 @@
+{
+  "type": "item",
+  "id": "Q300359",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Pius VII"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "head of the Catholic Church, ruler of the Papal States from 1800 to 1823 (1742–1823); record created 2026-10-21 for the Gaiad's tags, from Wikidata Q124754"
+    }
+  },
+  "claims": {
+    "P61": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P61",
+          "datavalue": {
+            "value": "Q124754",
+            "type": "string"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P55": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P55",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ]
+  }
+}

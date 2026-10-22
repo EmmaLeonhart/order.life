@@ -1,0 +1,50 @@
+{
+  "type": "item",
+  "id": "Q300118",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Nicholas II of Russia"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "14th and last Emperor of Russia (1894–1917); record created 2026-10-21 for the Gaiad's tags, from Wikidata Q40787"
+    }
+  },
+  "claims": {
+    "P61": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P61",
+          "datavalue": {
+            "value": "Q40787",
+            "type": "string"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P55": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P55",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ]
+  }
+}

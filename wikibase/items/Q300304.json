@@ -1,0 +1,50 @@
+{
+  "type": "item",
+  "id": "Q300304",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Black Hawk"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Sauk leader; record created 2026-10-21 for the Gaiad's tags, from Wikidata Q714534"
+    }
+  },
+  "claims": {
+    "P61": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P61",
+          "datavalue": {
+            "value": "Q714534",
+            "type": "string"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P55": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P55",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ]
+  }
+}

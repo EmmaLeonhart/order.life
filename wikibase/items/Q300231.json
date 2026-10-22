@@ -1,0 +1,50 @@
+{
+  "type": "item",
+  "id": "Q300231",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Bai Juyi"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Chinese poet of the Tang Dynasty (772-846); record created 2026-10-21 for the Gaiad's tags, from Wikidata Q313324"
+    }
+  },
+  "claims": {
+    "P61": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P61",
+          "datavalue": {
+            "value": "Q313324",
+            "type": "string"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P55": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P55",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ]
+  }
+}

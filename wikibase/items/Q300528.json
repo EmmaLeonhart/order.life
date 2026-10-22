@@ -1,0 +1,86 @@
+{
+  "type": "item",
+  "id": "Q300528",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Sarutahiko"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "God of Guidance, Crossroads, Boundaries and Light; record created 2026-10-21 for the Gaiad's tags, from Wikidata Q3090037"
+    }
+  },
+  "claims": {
+    "P61": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P61",
+          "datavalue": {
+            "value": "Q3090037",
+            "type": "string"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P55": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P55",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P48": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P48",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q6812",
+              "numeric-id": 6812
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P42": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P42",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q6756",
+              "numeric-id": 6756
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ]
+  }
+}

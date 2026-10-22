@@ -1,0 +1,50 @@
+{
+  "type": "item",
+  "id": "Q300414",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Alonzo Church"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "American mathematician and logician (1903–1995); record created 2026-10-21 for the Gaiad's tags, from Wikidata Q92741"
+    }
+  },
+  "claims": {
+    "P61": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P61",
+          "datavalue": {
+            "value": "Q92741",
+            "type": "string"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P55": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P55",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ]
+  }
+}

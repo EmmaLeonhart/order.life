@@ -1,0 +1,50 @@
+{
+  "type": "item",
+  "id": "Q300436",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Maurice Wilkins"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "New Zealand-born English physicist and biologist; record created 2026-10-21 for the Gaiad's tags, from Wikidata Q184659"
+    }
+  },
+  "claims": {
+    "P61": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P61",
+          "datavalue": {
+            "value": "Q184659",
+            "type": "string"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P55": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P55",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ]
+  }
+}

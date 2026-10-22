@@ -1,0 +1,50 @@
+{
+  "type": "item",
+  "id": "Q300410",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Mehmed VI"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "36th and last Sultan of the Ottoman Empire (1918–1922); record created 2026-10-21 for the Gaiad's tags, from Wikidata Q162543"
+    }
+  },
+  "claims": {
+    "P61": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P61",
+          "datavalue": {
+            "value": "Q162543",
+            "type": "string"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P55": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P55",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ]
+  }
+}

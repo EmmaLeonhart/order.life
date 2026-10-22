@@ -1,0 +1,86 @@
+{
+  "type": "item",
+  "id": "Q300388",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Albert Einstein"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "German-born theoretical physicist (1879–1955); record created 2026-10-21 for the Gaiad's tags, from Wikidata Q937"
+    }
+  },
+  "claims": {
+    "P61": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P61",
+          "datavalue": {
+            "value": "Q937",
+            "type": "string"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P55": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P55",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P20": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P20",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q300391",
+              "numeric-id": 300391
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P42": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P42",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q300389",
+              "numeric-id": 300389
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ]
+  }
+}

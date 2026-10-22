@@ -1,0 +1,50 @@
+{
+  "type": "item",
+  "id": "Q300437",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Rosalind Franklin"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "British chemist, biophysicist, and X-ray crystallographer (1920–1958); record created 2026-10-21 for the Gaiad's tags, from Wikidata Q7474"
+    }
+  },
+  "claims": {
+    "P61": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P61",
+          "datavalue": {
+            "value": "Q7474",
+            "type": "string"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P55": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P55",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ]
+  }
+}

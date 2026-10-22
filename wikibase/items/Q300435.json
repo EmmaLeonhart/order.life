@@ -1,0 +1,50 @@
+{
+  "type": "item",
+  "id": "Q300435",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Francis Crick"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "British molecular biologist, biophysicist, neuroscientist; co-discoverer of the structure of DNA (1916–2004); record created 2026-10-21 for the Gaiad's tags, from Wikidata Q123280"
+    }
+  },
+  "claims": {
+    "P61": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P61",
+          "datavalue": {
+            "value": "Q123280",
+            "type": "string"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P55": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P55",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ]
+  }
+}

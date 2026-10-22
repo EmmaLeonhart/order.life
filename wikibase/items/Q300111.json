@@ -1,0 +1,50 @@
+{
+  "type": "item",
+  "id": "Q300111",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "William Jones"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Anglo-Welsh philologist and scholar of ancient India (1746–1794); record created 2026-10-21 for the Gaiad's tags, from Wikidata Q273969"
+    }
+  },
+  "claims": {
+    "P61": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P61",
+          "datavalue": {
+            "value": "Q273969",
+            "type": "string"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P55": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P55",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ]
+  }
+}

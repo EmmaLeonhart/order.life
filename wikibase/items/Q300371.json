@@ -1,0 +1,50 @@
+{
+  "type": "item",
+  "id": "Q300371",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Hong Xiuquan"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Chinese revolutionary and leader of Taiping Rebellion (1814–1864); record created 2026-10-21 for the Gaiad's tags, from Wikidata Q334732"
+    }
+  },
+  "claims": {
+    "P61": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P61",
+          "datavalue": {
+            "value": "Q334732",
+            "type": "string"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P55": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P55",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ]
+  }
+}

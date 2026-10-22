@@ -1,0 +1,50 @@
+{
+  "type": "item",
+  "id": "Q300318",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Li Zhizao"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Chinese scholar, Catholic convert; record created 2026-10-21 for the Gaiad's tags, from Wikidata Q6783261"
+    }
+  },
+  "claims": {
+    "P61": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P61",
+          "datavalue": {
+            "value": "Q6783261",
+            "type": "string"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P55": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P55",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "type": "item",
+  "id": "Q300352",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "James Cook"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "British explorer, cartographer and naval officer (1728–1779); record created 2026-10-21 for the Gaiad's tags, from Wikidata Q7324"
+    }
+  },
+  "claims": {
+    "P61": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P61",
+          "datavalue": {
+            "value": "Q7324",
+            "type": "string"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P55": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P55",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ]
+  }
+}

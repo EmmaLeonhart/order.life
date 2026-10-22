@@ -1,0 +1,50 @@
+{
+  "type": "item",
+  "id": "Q300181",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Anaximenes of Miletus"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Greek Ionian Pre-Socratic philosopher (c.586–c.526 BC); record created 2026-10-21 for the Gaiad's tags, from Wikidata Q80612"
+    }
+  },
+  "claims": {
+    "P61": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P61",
+          "datavalue": {
+            "value": "Q80612",
+            "type": "string"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P55": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P55",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ]
+  }
+}

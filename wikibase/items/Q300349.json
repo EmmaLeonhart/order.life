@@ -1,0 +1,50 @@
+{
+  "type": "item",
+  "id": "Q300349",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Selma Lagerlöf"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Swedish writer (1858–1940); record created 2026-10-21 for the Gaiad's tags, from Wikidata Q44519"
+    }
+  },
+  "claims": {
+    "P61": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P61",
+          "datavalue": {
+            "value": "Q44519",
+            "type": "string"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P55": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P55",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ]
+  }
+}

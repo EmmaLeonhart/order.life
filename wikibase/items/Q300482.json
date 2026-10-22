@@ -1,0 +1,50 @@
+{
+  "type": "item",
+  "id": "Q300482",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Nicolas Sarkozy"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "23rd president of the French Republic from 2007 to 2012; record created 2026-10-21 for the Gaiad's tags, from Wikidata Q329"
+    }
+  },
+  "claims": {
+    "P61": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P61",
+          "datavalue": {
+            "value": "Q329",
+            "type": "string"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P55": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P55",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ]
+  }
+}

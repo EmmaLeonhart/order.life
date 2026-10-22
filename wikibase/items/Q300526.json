@@ -1,0 +1,50 @@
+{
+  "type": "item",
+  "id": "Q300526",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Elizabeth II"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Queen of the United Kingdom from 1952 to 2022 (1926–2022); record created 2026-10-21 for the Gaiad's tags, from Wikidata Q9682"
+    }
+  },
+  "claims": {
+    "P61": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P61",
+          "datavalue": {
+            "value": "Q9682",
+            "type": "string"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P55": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P55",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ]
+  }
+}

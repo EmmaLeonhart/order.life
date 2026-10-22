@@ -1,0 +1,50 @@
+{
+  "type": "item",
+  "id": "Q300209",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Frederick II of Prussia"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "King of Prussia from 1740 to 1786 (1712-1786); record created 2026-10-21 for the Gaiad's tags, from Wikidata Q33550"
+    }
+  },
+  "claims": {
+    "P61": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P61",
+          "datavalue": {
+            "value": "Q33550",
+            "type": "string"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P55": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P55",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ]
+  }
+}

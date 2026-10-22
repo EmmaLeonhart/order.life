@@ -1,0 +1,50 @@
+{
+  "type": "item",
+  "id": "Q300247",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Muhammad ibn Tughluq"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "18th Sultan of the Delhi Sultanate and 2nd from the Tughluq dynasty; record created 2026-10-21 for the Gaiad's tags, from Wikidata Q381830"
+    }
+  },
+  "claims": {
+    "P61": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P61",
+          "datavalue": {
+            "value": "Q381830",
+            "type": "string"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P55": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P55",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ]
+  }
+}

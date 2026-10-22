@@ -1,0 +1,50 @@
+{
+  "type": "item",
+  "id": "Q300535",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Bashar al-Assad"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Syrian convicted fugitive and former President of Syria from 2000 to 2024; record created 2026-10-21 for the Gaiad's tags, from Wikidata Q44329"
+    }
+  },
+  "claims": {
+    "P61": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P61",
+          "datavalue": {
+            "value": "Q44329",
+            "type": "string"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P55": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P55",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ]
+  }
+}

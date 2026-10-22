@@ -1,0 +1,50 @@
+{
+  "type": "item",
+  "id": "Q300274",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Gregory XI"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "pope of the Catholic Church from 1370 to 1378; record created 2026-10-21 for the Gaiad's tags, from Wikidata Q169594"
+    }
+  },
+  "claims": {
+    "P61": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P61",
+          "datavalue": {
+            "value": "Q169594",
+            "type": "string"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P55": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P55",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ]
+  }
+}

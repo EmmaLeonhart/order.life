@@ -1,0 +1,50 @@
+{
+  "type": "item",
+  "id": "Q300217",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Mesrop Mashtots"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Armenian theologian and linguist (362–440); record created 2026-10-21 for the Gaiad's tags, from Wikidata Q104804"
+    }
+  },
+  "claims": {
+    "P61": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P61",
+          "datavalue": {
+            "value": "Q104804",
+            "type": "string"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P55": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P55",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ]
+  }
+}

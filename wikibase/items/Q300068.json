@@ -1,0 +1,50 @@
+{
+  "type": "item",
+  "id": "Q300068",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Chiyou"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "legendary ancient Chinese tribal leader of the 9 Li tribes (Jiuli) who fought or rebeled against the Yellow Emperor, sometimes credited with the development of metallurgy or metal weaponry; record created 2026-10-21 for the Gaiad's tags, from Wikidata Q1147255"
+    }
+  },
+  "claims": {
+    "P61": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P61",
+          "datavalue": {
+            "value": "Q1147255",
+            "type": "string"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P55": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P55",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ]
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "type": "item",
+  "id": "Q300106",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Shah Jahan"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "the fifth Mughal Emperor from 1628 to 1658; record created 2026-10-21 for the Gaiad's tags, from Wikidata Q83672"
+    }
+  },
+  "claims": {
+    "P61": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P61",
+          "datavalue": {
+            "value": "Q83672",
+            "type": "string"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P55": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P55",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P20": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P20",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q300329",
+              "numeric-id": 300329
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P20",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q300104",
+              "numeric-id": 300104
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P42": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P42",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q300328",
+              "numeric-id": 300328
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ]
+  }
+}

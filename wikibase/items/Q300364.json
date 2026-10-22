@@ -1,0 +1,50 @@
+{
+  "type": "item",
+  "id": "Q300364",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Charles Babbage"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "English mathematician, philosopher, and engineer (1791–1871); record created 2026-10-21 for the Gaiad's tags, from Wikidata Q46633"
+    }
+  },
+  "claims": {
+    "P61": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P61",
+          "datavalue": {
+            "value": "Q46633",
+            "type": "string"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P55": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P55",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ]
+  }
+}

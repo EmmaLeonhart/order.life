@@ -1,0 +1,50 @@
+{
+  "type": "item",
+  "id": "Q300396",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Sophie, Duchess of Hohenberg"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "wife of Archduke Franz Ferdinand of Austria (1868–1914); record created 2026-10-21 for the Gaiad's tags, from Wikidata Q153099"
+    }
+  },
+  "claims": {
+    "P61": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P61",
+          "datavalue": {
+            "value": "Q153099",
+            "type": "string"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P55": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P55",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ]
+  }
+}

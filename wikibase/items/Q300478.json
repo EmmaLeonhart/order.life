@@ -1,0 +1,50 @@
+{
+  "type": "item",
+  "id": "Q300478",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Donald Rumsfeld"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "American politician and diplomat (1932–2021); record created 2026-10-21 for the Gaiad's tags, from Wikidata Q184650"
+    }
+  },
+  "claims": {
+    "P61": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P61",
+          "datavalue": {
+            "value": "Q184650",
+            "type": "string"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P55": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P55",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ]
+  }
+}

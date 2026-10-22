@@ -1,0 +1,50 @@
+{
+  "type": "item",
+  "id": "Q300534",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Kamala Harris"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Vice President of the United States from 2021 to 2025; record created 2026-10-21 for the Gaiad's tags, from Wikidata Q10853588"
+    }
+  },
+  "claims": {
+    "P61": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P61",
+          "datavalue": {
+            "value": "Q10853588",
+            "type": "string"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P55": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P55",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ]
+  }
+}

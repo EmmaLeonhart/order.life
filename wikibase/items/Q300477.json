@@ -1,0 +1,50 @@
+{
+  "type": "item",
+  "id": "Q300477",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Jack Dorsey"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "American computer scientist, entrepreneur and co-founder of Twitter; record created 2026-10-21 for the Gaiad's tags, from Wikidata Q335552"
+    }
+  },
+  "claims": {
+    "P61": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P61",
+          "datavalue": {
+            "value": "Q335552",
+            "type": "string"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P55": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P55",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ]
+  }
+}

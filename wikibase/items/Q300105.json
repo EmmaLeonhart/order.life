@@ -1,0 +1,50 @@
+{
+  "type": "item",
+  "id": "Q300105",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Xu Guangqi"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "late-Ming-dynasty Chinese politician, Scholar, Lay Catholic leader and Servant of God (*1562 – †1633); record created 2026-10-21 for the Gaiad's tags, from Wikidata Q420427"
+    }
+  },
+  "claims": {
+    "P61": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P61",
+          "datavalue": {
+            "value": "Q420427",
+            "type": "string"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P55": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P55",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ]
+  }
+}

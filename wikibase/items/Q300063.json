@@ -1,0 +1,50 @@
+{
+  "type": "item",
+  "id": "Q300063",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Amun"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Egyptian and Berber deity; record created 2026-10-21 for the Gaiad's tags, from Wikidata Q58373"
+    }
+  },
+  "claims": {
+    "P61": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P61",
+          "datavalue": {
+            "value": "Q58373",
+            "type": "string"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P55": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P55",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ]
+  }
+}

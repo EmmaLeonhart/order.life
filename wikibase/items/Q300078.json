@@ -1,0 +1,50 @@
+{
+  "type": "item",
+  "id": "Q300078",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Hasdrubal the Fair"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Carthaginian military leader and politician (c. 270–221 BC); record created 2026-10-21 for the Gaiad's tags, from Wikidata Q311598"
+    }
+  },
+  "claims": {
+    "P61": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P61",
+          "datavalue": {
+            "value": "Q311598",
+            "type": "string"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P55": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P55",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ]
+  }
+}

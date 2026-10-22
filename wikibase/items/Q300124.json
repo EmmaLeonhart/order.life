@@ -1,0 +1,50 @@
+{
+  "type": "item",
+  "id": "Q300124",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Sveinbjörn Beinteinsson"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Icelandic neopaganist leader (1924-1993); record created 2026-10-21 for the Gaiad's tags, from Wikidata Q633941"
+    }
+  },
+  "claims": {
+    "P61": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P61",
+          "datavalue": {
+            "value": "Q633941",
+            "type": "string"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P55": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P55",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ]
+  }
+}

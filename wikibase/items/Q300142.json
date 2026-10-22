@@ -1,0 +1,50 @@
+{
+  "type": "item",
+  "id": "Q300142",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Pope Francis"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "266th pope of the Catholic Church from 2013 to 2025 (1936–2025); record created 2026-10-21 for the Gaiad's tags, from Wikidata Q450675"
+    }
+  },
+  "claims": {
+    "P61": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P61",
+          "datavalue": {
+            "value": "Q450675",
+            "type": "string"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P55": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P55",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "type": "item",
+  "id": "Q300125",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Jimmy Carter"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "president of the United States from 1977 to 1981 (1924–2024); record created 2026-10-21 for the Gaiad's tags, from Wikidata Q23685"
+    }
+  },
+  "claims": {
+    "P61": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P61",
+          "datavalue": {
+            "value": "Q23685",
+            "type": "string"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P55": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P55",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "type": "item",
+  "id": "Q300051",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Cao Cao"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Chinese warlord and statesman (155–220); record created 2026-10-21 for the Gaiad's tags, from Wikidata Q204077"
+    }
+  },
+  "claims": {
+    "P61": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P61",
+          "datavalue": {
+            "value": "Q204077",
+            "type": "string"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P55": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P55",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ]
+  }
+}

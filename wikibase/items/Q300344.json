@@ -1,0 +1,50 @@
+{
+  "type": "item",
+  "id": "Q300344",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "John Wesley"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "British cleric and founder of the Methodist movement (1703-1791); record created 2026-10-21 for the Gaiad's tags, from Wikidata Q213393"
+    }
+  },
+  "claims": {
+    "P61": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P61",
+          "datavalue": {
+            "value": "Q213393",
+            "type": "string"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P55": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P55",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ]
+  }
+}

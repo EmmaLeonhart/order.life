@@ -1,0 +1,68 @@
+{
+  "type": "item",
+  "id": "Q300370",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "ʻAbdu'l-Bahá"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "son of Bahá'u'lláh and leader of the Bahá'í Faith; record created 2026-10-21 for the Gaiad's tags, from Wikidata Q216954"
+    }
+  },
+  "claims": {
+    "P61": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P61",
+          "datavalue": {
+            "value": "Q216954",
+            "type": "string"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P55": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P55",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P47": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P47",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q300040",
+              "numeric-id": 300040
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ]
+  }
+}

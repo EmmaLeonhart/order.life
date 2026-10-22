@@ -1,0 +1,50 @@
+{
+  "type": "item",
+  "id": "Q300427",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "John Bardeen"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "American physicist and engineer (1908–1991); record created 2026-10-21 for the Gaiad's tags, from Wikidata Q949"
+    }
+  },
+  "claims": {
+    "P61": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P61",
+          "datavalue": {
+            "value": "Q949",
+            "type": "string"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P55": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P55",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ]
+  }
+}

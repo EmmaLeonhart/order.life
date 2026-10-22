@@ -1,0 +1,68 @@
+{
+  "type": "item",
+  "id": "Q300324",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Chen Yuanyuan"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "poet, Chinese concubine (1624–1681); record created 2026-10-21 for the Gaiad's tags, from Wikidata Q698781"
+    }
+  },
+  "claims": {
+    "P61": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P61",
+          "datavalue": {
+            "value": "Q698781",
+            "type": "string"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P55": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P55",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P42": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P42",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q300323",
+              "numeric-id": 300323
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ]
+  }
+}

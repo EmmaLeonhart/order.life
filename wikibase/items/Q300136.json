@@ -1,0 +1,50 @@
+{
+  "type": "item",
+  "id": "Q300136",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Fidel Castro"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Cuban politician, author and revolutionary (1926–2016); record created 2026-10-21 for the Gaiad's tags, from Wikidata Q11256"
+    }
+  },
+  "claims": {
+    "P61": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P61",
+          "datavalue": {
+            "value": "Q11256",
+            "type": "string"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P55": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P55",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ]
+  }
+}

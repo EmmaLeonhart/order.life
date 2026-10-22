@@ -1,0 +1,50 @@
+{
+  "type": "item",
+  "id": "Q300397",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Fabian Ware"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "British Army general (1869–1949); record created 2026-10-21 for the Gaiad's tags, from Wikidata Q1390334"
+    }
+  },
+  "claims": {
+    "P61": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P61",
+          "datavalue": {
+            "value": "Q1390334",
+            "type": "string"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P55": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P55",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ]
+  }
+}

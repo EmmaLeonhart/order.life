@@ -1,0 +1,50 @@
+{
+  "type": "item",
+  "id": "Q300470",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Larry Page"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "American computer scientist and Internet entrepreneur (born 1973); record created 2026-10-21 for the Gaiad's tags, from Wikidata Q4934"
+    }
+  },
+  "claims": {
+    "P61": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P61",
+          "datavalue": {
+            "value": "Q4934",
+            "type": "string"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P55": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P55",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ]
+  }
+}

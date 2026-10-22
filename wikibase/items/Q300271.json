@@ -1,0 +1,68 @@
+{
+  "type": "item",
+  "id": "Q300271",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Philip IV of France"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "King of France from 1285 to 1314 (1268–1314); record created 2026-10-21 for the Gaiad's tags, from Wikidata Q130969"
+    }
+  },
+  "claims": {
+    "P61": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P61",
+          "datavalue": {
+            "value": "Q130969",
+            "type": "string"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P55": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P55",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P48": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P48",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q54869",
+              "numeric-id": 54869
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ]
+  }
+}

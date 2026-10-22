@@ -1,0 +1,50 @@
+{
+  "type": "item",
+  "id": "Q300113",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Alan Turing"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "English computer scientist (1912–1954); record created 2026-10-21 for the Gaiad's tags, from Wikidata Q7251"
+    }
+  },
+  "claims": {
+    "P61": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P61",
+          "datavalue": {
+            "value": "Q7251",
+            "type": "string"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P55": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P55",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ]
+  }
+}

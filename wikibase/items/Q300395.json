@@ -1,0 +1,50 @@
+{
+  "type": "item",
+  "id": "Q300395",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Feng Yuxiang"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Chinese general and politician, took part in overthrowing Qing Empire, a warlord during the Republican era (1882-1948); record created 2026-10-21 for the Gaiad's tags, from Wikidata Q365894"
+    }
+  },
+  "claims": {
+    "P61": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P61",
+          "datavalue": {
+            "value": "Q365894",
+            "type": "string"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P55": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P55",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ]
+  }
+}

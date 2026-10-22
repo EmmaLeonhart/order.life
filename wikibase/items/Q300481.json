@@ -1,0 +1,50 @@
+{
+  "type": "item",
+  "id": "Q300481",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Linda Avey"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "American biotech analyst, biologist, and co-founder of 23andMe; record created 2026-10-21 for the Gaiad's tags, from Wikidata Q2069744"
+    }
+  },
+  "claims": {
+    "P61": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P61",
+          "datavalue": {
+            "value": "Q2069744",
+            "type": "string"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P55": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P55",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ]
+  }
+}

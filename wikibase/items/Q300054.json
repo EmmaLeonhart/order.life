@@ -1,0 +1,68 @@
+{
+  "type": "item",
+  "id": "Q300054",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Emperor Wu of Han"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "seventh emperor of the Han dynasty of China (157 BC–87 BC); record created 2026-10-21 for the Gaiad's tags, from Wikidata Q7225"
+    }
+  },
+  "claims": {
+    "P61": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P61",
+          "datavalue": {
+            "value": "Q7225",
+            "type": "string"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P55": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P55",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P48": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P48",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q19341",
+              "numeric-id": 19341
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ]
+  }
+}

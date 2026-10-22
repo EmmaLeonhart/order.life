@@ -1,0 +1,50 @@
+{
+  "type": "item",
+  "id": "Q300469",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Hu Jintao"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "former General Secretary of the Chinese Communist Party; record created 2026-10-21 for the Gaiad's tags, from Wikidata Q15029"
+    }
+  },
+  "claims": {
+    "P61": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P61",
+          "datavalue": {
+            "value": "Q15029",
+            "type": "string"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P55": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P55",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "type": "item",
+  "id": "Q300317",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Olaus Petri"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "clergyman, writer, judge and major contributor to the Protestant Reformation in Sweden; record created 2026-10-21 for the Gaiad's tags, from Wikidata Q381010"
+    }
+  },
+  "claims": {
+    "P61": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P61",
+          "datavalue": {
+            "value": "Q381010",
+            "type": "string"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P55": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P55",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ]
+  }
+}

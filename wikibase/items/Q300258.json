@@ -1,0 +1,50 @@
+{
+  "type": "item",
+  "id": "Q300258",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Timur"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "the founder of the Timurid Empire (1370–1405); record created 2026-10-21 for the Gaiad's tags, from Wikidata Q8462"
+    }
+  },
+  "claims": {
+    "P61": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P61",
+          "datavalue": {
+            "value": "Q8462",
+            "type": "string"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P55": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P55",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ]
+  }
+}

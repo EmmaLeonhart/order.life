@@ -1,0 +1,50 @@
+{
+  "type": "item",
+  "id": "Q300341",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Muhammad ibn Abd al-Wahhab"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Islamic Saudi scholar, jurist and eponym of Wahhabi movement (1703–1792); record created 2026-10-21 for the Gaiad's tags, from Wikidata Q69351"
+    }
+  },
+  "claims": {
+    "P61": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P61",
+          "datavalue": {
+            "value": "Q69351",
+            "type": "string"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P55": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P55",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ]
+  }
+}

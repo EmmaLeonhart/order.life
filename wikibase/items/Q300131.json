@@ -1,0 +1,50 @@
+{
+  "type": "item",
+  "id": "Q300131",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Benedict XVI"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "265 th pope of the Catholic Church (2005–2013); record created 2026-10-21 for the Gaiad's tags, from Wikidata Q2494"
+    }
+  },
+  "claims": {
+    "P61": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P61",
+          "datavalue": {
+            "value": "Q2494",
+            "type": "string"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P55": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P55",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ]
+  }
+}

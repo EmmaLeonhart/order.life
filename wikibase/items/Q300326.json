@@ -1,0 +1,50 @@
+{
+  "type": "item",
+  "id": "Q300326",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Dorgon"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Prince Rui of the First Rank and regent of the Qing Dynasty (1612-1650); record created 2026-10-21 for the Gaiad's tags, from Wikidata Q380573"
+    }
+  },
+  "claims": {
+    "P61": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P61",
+          "datavalue": {
+            "value": "Q380573",
+            "type": "string"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P55": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P55",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ]
+  }
+}

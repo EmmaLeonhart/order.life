@@ -1,0 +1,32 @@
+{
+  "type": "item",
+  "id": "Q300145",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Suiten"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "water deity; record created 2026-10-21 for the Gaiad's tags, from Wikidata Q11548435"
+    }
+  },
+  "claims": {
+    "P61": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P61",
+          "datavalue": {
+            "value": "Q11548435",
+            "type": "string"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ]
+  }
+}

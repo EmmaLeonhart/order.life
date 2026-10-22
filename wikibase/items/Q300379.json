@@ -1,0 +1,50 @@
+{
+  "type": "item",
+  "id": "Q300379",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Helena Blavatsky"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Russian occult writer (1831-1891); record created 2026-10-21 for the Gaiad's tags, from Wikidata Q189454"
+    }
+  },
+  "claims": {
+    "P61": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P61",
+          "datavalue": {
+            "value": "Q189454",
+            "type": "string"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P55": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P55",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ]
+  }
+}

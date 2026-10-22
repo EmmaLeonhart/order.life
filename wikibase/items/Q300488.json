@@ -1,0 +1,50 @@
+{
+  "type": "item",
+  "id": "Q300488",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Muammar Gaddafi"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Military officer and former Brotherly Leader and Guide of the Revolution of Libya (1969-2011); record created 2026-10-21 for the Gaiad's tags, from Wikidata Q19878"
+    }
+  },
+  "claims": {
+    "P61": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P61",
+          "datavalue": {
+            "value": "Q19878",
+            "type": "string"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P55": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P55",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ]
+  }
+}

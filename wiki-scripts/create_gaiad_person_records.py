@@ -59,6 +59,23 @@ PEOPLE = [
     ("Geoffrey Hinton", "Q92894"), ("Xi Jinping", "Q15031"), ("Aung San Suu Kyi", "Q36740"),
     ("Joe Biden", "Q6279"), ("Alexei Navalny", "Q155979"),
 ]
+# The tail (2026-10-21, later the same day): the names tagged once or twice, checked the same way.
+TAIL = Path(__file__).with_suffix(".tsv")
+if TAIL.exists():
+    PEOPLE += [tuple(l.split("\t")) for l in TAIL.read_text(encoding="utf-8").splitlines()
+               if l.strip() and not l.startswith("#")]
+# Created even though some Wikidata name of theirs is on another record: the records it hits are other people
+# (Liu Bang's "Gaozu" is Emperor Gaozu of Tang, "Ji" is a clan name; Emperor Wu's "Liu Che" record died in 597).
+# Already on record, under labels no name check could match; found when the first tail run gave their children
+# a third parent (check_invariants children_over_2_parents). Trajan's Q66784 and John VI's Q50009 carry
+# damaged labels ("Andhra Pradesh", "red squirrel").
+EXISTING = {"Q1425": "Q66784", "Q37084": "Q50009", "Q226488": "Q153355", "Q119973": "Q50754", "Q193290": "Q74735"}
+FORCE = {"Q7210", "Q7225",
+         # the tail: each clash checked by hand; the records hit were other people (Cao Cao's alias Taizu is
+         # Emperor Taizu of Liao, Xuanzang's Chen Yi, Mehmed I's Muhammad I Tapar,
+         # Suleiman's Sulayman Q97799 and Timur's Tiemuer Q39178 carry other Wikidata ids, Ramesses Q85612 is
+         # Ramesses II by his parents Seti and Tuya, Brahma's VIDHATA is in the Q160xxx block)
+         "Q204077", "Q42063", "Q129866", "Q58373", "Q11389", "Q311598", "Q8474", "Q450675", "Q509679", "Q1526", "Q3575327", "Q33550", "Q313324", "Q8462", "Q168769", "Q698781", "Q83155", "Q2821724", "Q3090037"}
 
 
 def norm(s):
@@ -101,6 +118,7 @@ def main():
         for r in csv.DictReader(fh, delimiter="\t"):
             if r["wikidata_qid"]:
                 wd2ol.setdefault(r["wikidata_qid"], r["qid"])
+    wd2ol.update(EXISTING)
     known = defaultdict(set)
     with open(ANA / "person_names.tsv", encoding="utf-8") as fh:
         for r in csv.DictReader(fh, delimiter="\t"):
@@ -115,7 +133,7 @@ def main():
         label = (e.get("labels", {}).get("en") or {}).get("value", name)
         names = {label, name} | {a["value"] for a in e.get("aliases", {}).get("en", [])}
         clash = sorted({q for n in names for q in known.get(norm(n), ())})
-        if clash:
+        if clash and wd not in FORCE:
             skipped.append((name, wd, label, clash))
             continue
         while (ITEMS / f"Q{nid}.json").exists():
@@ -152,10 +170,18 @@ def main():
         if write:
             with open(ITEMS / f"{q}.json", "w", encoding="utf-8", newline="\n") as fh:
                 fh.write(json.dumps(rec, ensure_ascii=False, indent=2) + "\n")
+    with open(OVERRIDES, encoding="utf-8") as fh:
+        have = {norm(r["name"]) for r in csv.DictReader(fh, delimiter="\t")}
     for name, wd in PEOPLE:
+        if norm(name) in have:
+            continue
+        have.add(norm(name))
         if wd in new:
             rows.append(f"{name}\t{new[wd]}\tnew record for the Gaiad's tags, from Wikidata {wd} "
                         f"(wiki-scripts/create_gaiad_person_records.py, 2026-10-21)\n")
+        elif wd in wd2ol:
+            rows.append(f"{name}\t{wd2ol[wd]}\tthe record carrying Wikidata {wd}; another name for them in the "
+                        f"Gaiad (wiki-scripts/create_gaiad_person_records.py, 2026-10-21)\n")
     for s in skipped:
         print(f"NOT CREATED {s[0]} ({s[1]} {s[2]}): Wikidata names already on {', '.join(s[3])}")
     print(f"{len(new)} new records, {len(skipped)} not created, {len(rows)} override rows")

@@ -1,0 +1,50 @@
+{
+  "type": "item",
+  "id": "Q300420",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "John Mauchly"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "American physicist (1907-1980); record created 2026-10-21 for the Gaiad's tags, from Wikidata Q522162"
+    }
+  },
+  "claims": {
+    "P61": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P61",
+          "datavalue": {
+            "value": "Q522162",
+            "type": "string"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P55": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P55",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ]
+  }
+}

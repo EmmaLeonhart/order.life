@@ -20,7 +20,8 @@ Methods, in order:
              a name the Gaiad also tags as a place or a people ({{p|}}, {{x|}}: Roman, Christian). Other
              languages' aliases are left out: they matched Minotaur to Haltern Hills and Aten to Athena.
              The person's label must share a word with the name (Esarhaddon -> "Esarhaddon, king of
-             Assyria"), which keeps out the dump's stray aliases. A label "The X" also matches "X".
+             Assyria"). A record whose label is damaged fails this even when the alias is right (Trajan's record
+             Q66784 is labelled "Andhra Pradesh"); such names go to _overrides.tsv. A label "The X" also matches "X".
   context    several match; the one linked within two steps (parent, child, spouse) to the most other
              names already resolved in the same chapter wins, if it wins outright
   consensus  the name was settled by context in other chapters, always to the same person
@@ -152,8 +153,9 @@ def main():
         k = norm(name)
         if k in by_name or not by_alias.get(k) or guarded(name):
             return set()
-        # The person's own label must share a word with the name: the dump has stray aliases (Trajan on a
-        # record labelled Andhra Pradesh, John VI Kantakouzenos on red squirrel).
+        # The person's own label must share a word with the name. This also turns away right aliases on records
+        # with damaged labels (Trajan's Q66784 "Andhra Pradesh", John VI Kantakouzenos's Q50009 "red squirrel"):
+        # those are resolved in _overrides.tsv.
         words = set(re.findall(r"\w+", k))
         return {q for q in by_alias[k] if words & set(re.findall(r"\w+", norm(LABELS.get(q, ""))))}
     fq = file_qids()

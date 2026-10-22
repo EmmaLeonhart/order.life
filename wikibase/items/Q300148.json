@@ -1,0 +1,50 @@
+{
+  "type": "item",
+  "id": "Q300148",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Enkidu"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "character from the Epic of Gilgamesh; record created 2026-10-21 for the Gaiad's tags, from Wikidata Q463220"
+    }
+  },
+  "claims": {
+    "P61": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P61",
+          "datavalue": {
+            "value": "Q463220",
+            "type": "string"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P55": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P55",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ]
+  }
+}

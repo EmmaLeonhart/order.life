@@ -1,0 +1,50 @@
+{
+  "type": "item",
+  "id": "Q300287",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Moshe ben Maimon"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Medieval Jewish philosopher from Spain (1135–1204); record created 2026-10-21 for the Gaiad's tags, from Wikidata Q127398"
+    }
+  },
+  "claims": {
+    "P61": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P61",
+          "datavalue": {
+            "value": "Q127398",
+            "type": "string"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P55": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P55",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ]
+  }
+}

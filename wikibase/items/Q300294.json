@@ -1,0 +1,50 @@
+{
+  "type": "item",
+  "id": "Q300294",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Francisco Tenamaztle"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "caxcan ruler and military; record created 2026-10-21 for the Gaiad's tags, from Wikidata Q2885169"
+    }
+  },
+  "claims": {
+    "P61": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P61",
+          "datavalue": {
+            "value": "Q2885169",
+            "type": "string"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P55": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P55",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ]
+  }
+}

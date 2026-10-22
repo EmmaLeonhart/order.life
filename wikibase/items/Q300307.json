@@ -1,0 +1,50 @@
+{
+  "type": "item",
+  "id": "Q300307",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Sylvester II"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Pope of the Catholic Church from 999 to 1003; record created 2026-10-21 for the Gaiad's tags, from Wikidata Q172383"
+    }
+  },
+  "claims": {
+    "P61": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P61",
+          "datavalue": {
+            "value": "Q172383",
+            "type": "string"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P55": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P55",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ]
+  }
+}

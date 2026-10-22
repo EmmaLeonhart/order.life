@@ -1,0 +1,50 @@
+{
+  "type": "item",
+  "id": "Q300103",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Gustav I of Sweden"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "King of Sweden from 1523 to 1560; record created 2026-10-21 for the Gaiad's tags, from Wikidata Q52947"
+    }
+  },
+  "claims": {
+    "P61": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P61",
+          "datavalue": {
+            "value": "Q52947",
+            "type": "string"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P55": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P55",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ]
+  }
+}

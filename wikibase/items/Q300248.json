@@ -1,0 +1,50 @@
+{
+  "type": "item",
+  "id": "Q300248",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Saladin"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Sultan of Egypt and founder of the Ayyubid dynasty (1137–1193); record created 2026-10-21 for the Gaiad's tags, from Wikidata Q8581"
+    }
+  },
+  "claims": {
+    "P61": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P61",
+          "datavalue": {
+            "value": "Q8581",
+            "type": "string"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P55": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P55",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ]
+  }
+}

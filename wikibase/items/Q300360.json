@@ -1,0 +1,50 @@
+{
+  "type": "item",
+  "id": "Q300360",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Francis II, Holy Roman Emperor"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "also known as Francis I, Emperor of Austria (1768-1835); record created 2026-10-21 for the Gaiad's tags, from Wikidata Q130834"
+    }
+  },
+  "claims": {
+    "P61": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P61",
+          "datavalue": {
+            "value": "Q130834",
+            "type": "string"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P55": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P55",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ]
+  }
+}

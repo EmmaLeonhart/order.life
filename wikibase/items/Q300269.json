@@ -1,0 +1,50 @@
+{
+  "type": "item",
+  "id": "Q300269",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Joan of Arc"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "French folk heroine (1412–1431), military leader who crowned Charles VII and Roman Catholic saint, canonized 500 years after her death; record created 2026-10-21 for the Gaiad's tags, from Wikidata Q7226"
+    }
+  },
+  "claims": {
+    "P61": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P61",
+          "datavalue": {
+            "value": "Q7226",
+            "type": "string"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P55": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P55",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "type": "item",
+  "id": "Q300508",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Peter Singer"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Australian moral philosopher (born 1946); record created 2026-10-21 for the Gaiad's tags, from Wikidata Q211539"
+    }
+  },
+  "claims": {
+    "P61": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P61",
+          "datavalue": {
+            "value": "Q211539",
+            "type": "string"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P55": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P55",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ]
+  }
+}

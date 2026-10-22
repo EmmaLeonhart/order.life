@@ -1,0 +1,50 @@
+{
+  "type": "item",
+  "id": "Q300117",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Swami Vivekananda"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Indian Hindu monk and philosopher (1863–1902); record created 2026-10-21 for the Gaiad's tags, from Wikidata Q47478"
+    }
+  },
+  "claims": {
+    "P61": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P61",
+          "datavalue": {
+            "value": "Q47478",
+            "type": "string"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P55": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P55",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ]
+  }
+}

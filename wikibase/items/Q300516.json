@@ -1,0 +1,50 @@
+{
+  "type": "item",
+  "id": "Q300516",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Tarana Burke"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "American civil rights activist; record created 2026-10-21 for the Gaiad's tags, from Wikidata Q43177774"
+    }
+  },
+  "claims": {
+    "P61": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P61",
+          "datavalue": {
+            "value": "Q43177774",
+            "type": "string"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P55": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P55",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ]
+  }
+}

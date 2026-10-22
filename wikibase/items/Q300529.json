@@ -1,0 +1,50 @@
+{
+  "type": "item",
+  "id": "Q300529",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Yevgeny Prigozhin"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Russian mercenary leader, oligarch, restaurateur, former owner of Wagner PVC (1961–2023); record created 2026-10-21 for the Gaiad's tags, from Wikidata Q20850503"
+    }
+  },
+  "claims": {
+    "P61": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P61",
+          "datavalue": {
+            "value": "Q20850503",
+            "type": "string"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P55": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P55",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ]
+  }
+}

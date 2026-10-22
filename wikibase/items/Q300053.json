@@ -1,0 +1,50 @@
+{
+  "type": "item",
+  "id": "Q300053",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Emperor Gaozu of Han"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "founding emperor of the Han dynasty (256–195 BC); record created 2026-10-21 for the Gaiad's tags, from Wikidata Q7210"
+    }
+  },
+  "claims": {
+    "P61": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P61",
+          "datavalue": {
+            "value": "Q7210",
+            "type": "string"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P55": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P55",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ]
+  }
+}

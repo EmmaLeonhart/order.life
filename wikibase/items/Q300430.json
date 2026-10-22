@@ -1,0 +1,50 @@
+{
+  "type": "item",
+  "id": "Q300430",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Eleanor Roosevelt"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "American diplomat and activist, First Lady of the United States from 1933 to 1945 (1884–1962); record created 2026-10-21 for the Gaiad's tags, from Wikidata Q83396"
+    }
+  },
+  "claims": {
+    "P61": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P61",
+          "datavalue": {
+            "value": "Q83396",
+            "type": "string"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P55": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P55",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ]
+  }
+}

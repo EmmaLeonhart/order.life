@@ -1,0 +1,68 @@
+{
+  "type": "item",
+  "id": "Q300325",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Shunzhi Emperor"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Qing Dynasty emperor of China (1638–1661); record created 2026-10-21 for the Gaiad's tags, from Wikidata Q310453"
+    }
+  },
+  "claims": {
+    "P61": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P61",
+          "datavalue": {
+            "value": "Q310453",
+            "type": "string"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P55": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P55",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P20": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P20",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q300038",
+              "numeric-id": 300038
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ]
+  }
+}

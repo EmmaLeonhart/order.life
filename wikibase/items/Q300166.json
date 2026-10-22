@@ -1,0 +1,50 @@
+{
+  "type": "item",
+  "id": "Q300166",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Amenhotep I"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "second Pharaoh of the Eighteenth dynasty of Egypt; record created 2026-10-21 for the Gaiad's tags, from Wikidata Q157966"
+    }
+  },
+  "claims": {
+    "P61": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P61",
+          "datavalue": {
+            "value": "Q157966",
+            "type": "string"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P55": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P55",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ]
+  }
+}

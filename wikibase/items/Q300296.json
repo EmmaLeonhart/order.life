@@ -1,0 +1,50 @@
+{
+  "type": "item",
+  "id": "Q300296",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Joseph Brant"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Mohawk leader (1742-1807); record created 2026-10-21 for the Gaiad's tags, from Wikidata Q505146"
+    }
+  },
+  "claims": {
+    "P61": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P61",
+          "datavalue": {
+            "value": "Q505146",
+            "type": "string"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P55": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P55",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ]
+  }
+}
