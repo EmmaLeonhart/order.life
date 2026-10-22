@@ -1,0 +1,50 @@
+{
+  "type": "item",
+  "id": "Q300049",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Joe Biden"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "46th President of the United States (2021–2025); record created 2026-10-21 for the Gaiad's tags, from Wikidata Q6279"
+    }
+  },
+  "claims": {
+    "P61": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P61",
+          "datavalue": {
+            "value": "Q6279",
+            "type": "string"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P55": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P55",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ]
+  }
+}

@@ -1106,7 +1106,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 26	2	Plantus		Q153833	file		The Kingdom of proud Plantus rose,
 26	2	Mygus			unresolved	Q120 Q153890	The realm of Mygus, where fungus flows,
 26	2	Metazo		Q153888	file		And Metazo's beasts in ordered rows.
-26	3	Mygaster		Q107	context	Q107 Q154606	Mygaster's realm, Kelpus' heights,
+26	3	Mygaster		Q107	file		Mygaster's realm, Kelpus' heights,
 26	3	Kelpus		Q155	file		Mygaster's realm, Kelpus' heights,
 26	3	Rhizar		Q126	file		Rhizar's spears, Cilliofer's sights,
 26	3	Cilliofer			unresolved		Rhizar's spears, Cilliofer's sights,
@@ -1321,7 +1321,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 29	5	Symbio			unresolved		Said Symbio-Mygus, king serene.
 29	5	Mygus			unresolved	Q120 Q153890	Said Symbio-Mygus, king serene.
 29	7	Charina		Q153924	file		Charina-Planta heard his call
-29	7	Planta		Q94	consensus	Q94 Q153922	Charina-Planta heard his call
+29	7	Planta		Q94	file		Charina-Planta heard his call
 29	8	Plant			unresolved		Plant and fungus, side by side,
 29	10	Lichen		Q153914	file		When Lichen Lake was full and high,
 29	10	Lake			unresolved		When Lichen Lake was full and high,
@@ -1384,13 +1384,13 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 29	46	Symbio			unresolved		Of Symbio-Mygus' sight
 29	46	Mygus			unresolved	Q120 Q153890	Of Symbio-Mygus' sight
 29	46	Charina		Q153924	file		And Charina-Planta's power,
-29	46	Planta		Q94	consensus	Q94 Q153922	And Charina-Planta's power,
+29	46	Planta		Q94	file		And Charina-Planta's power,
 29	48	Saya		Q84	file		Like daughters of Saya before,
 29	49	Cryogenian			unresolved		And so began the Cryogenian,
 29	51	Symbio			unresolved		So honor Symbio-Mygus true
 29	51	Mygus			unresolved	Q120 Q153890	So honor Symbio-Mygus true
 29	51	Charina		Q153924	file		And Charina-Planta too.
-29	51	Planta		Q94	consensus	Q94 Q153922	And Charina-Planta too.
+29	51	Planta		Q94	file		And Charina-Planta too.
 29	54	Web		Q154351	file		The Wood Wide Web beneath our feet
 30	1	Cnider		Q153819	file		This is the chronicle of Cnider,
 30	3	Siphonoglyph			unresolved		A Siphonoglyph, perfectly spaced.
@@ -3600,7 +3600,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 58	74	King		Q87699	file		Of hope's eternal, everlasting King.
 58	75	Dikar		Q168	file		From Dikar's ancient line to mushrooms blessed
 58	78	Partners		Q154416	file		Partners in the dance of harmony
-59	1	Planta		Q94	context	Q94 Q153922	Great Planta, Anima, and those conceived
+59	1	Planta		Q94	file		Great Planta, Anima, and those conceived
 59	1	Anima		Q93	file		Great Planta, Anima, and those conceived
 59	1	Funga		Q154609	file		By Funga, spreading life through earth and air.
 59	3	Shesha		Q154165	file		But Shesha the Actinite and Matsya wise
@@ -5512,7 +5512,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 143	27	E			initial		Were E. Every dynasty of ancient Egypt, from the First Dynasty
 143	27	E			initial		Carried some sub-clade of E. And the Egyptian civilization
 143	28	E			initial		Is, in the Gaiad's reading, fundamentally an E-civilization. The
-143	28	Akhenaten			unresolved		The civilization that Akhenaten will briefly monotheize and then
+143	28	Akhenaten		Q300003	override		The civilization that Akhenaten will briefly monotheize and then
 143	29	E			initial		Culture. Egypt's E signature is the proof that the loop closed.
 143	30	CT		Q1158	file		The loop closes here. The CT lineage left Africa some sixty or
 143	30	E			initial		Name E, came back. And the E descendants built Egypt, built
@@ -5572,22 +5572,22 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 145	19	Khafre		Q85756	file		Khufu's son Khafre built the second pyramid
 145	19	Khafre		Q85756	file		The two appear nearly equal in height. Khafre also built the
 145	20	Khafre		Q85756	file		Traditionally identified with Khafre himself. The statue is the
-145	21	Menkaure			unresolved		Menkaure, Khafre's son, built the third and smallest of the
+145	21	Menkaure		Q300017	override		Menkaure, Khafre's son, built the third and smallest of the
 145	21	Khafre		Q85756	file		Menkaure, Khafre's son, built the third and smallest of the
 145	21	Khufu		Q85760	file		Giza pyramids. The three pyramids together—Khufu, Khafre,
 145	21	Khafre		Q85756	file		Giza pyramids. The three pyramids together—Khufu, Khafre,
-145	22	Menkaure			unresolved		Menkaure—are one of the most recognizable architectural ensembles
+145	22	Menkaure		Q300017	override		Menkaure—are one of the most recognizable architectural ensembles
 145	24	Horus		Q62656	file		Kingdom}}. The pharaoh is divine. The pharaoh is Horus incarnate.
 145	24	Osiris		Q62662	file		When the pharaoh dies, he becomes Osiris, the god of the underworld
 145	25	Horus		Q62656	file		Horus. The cycle of divine kingship is maintained across the
 145	30	Khufu		Q85760	file		"Identifying their work-crews—""Khufu's Drunkards,"" ""Khufu's Friends,"""
 145	30	Khufu		Q85760	file		"Identifying their work-crews—""Khufu's Drunkards,"" ""Khufu's Friends,"""
-145	34	Menkaure			unresolved		After Menkaure, the royal building
+145	34	Menkaure		Q300017	override		After Menkaure, the royal building
 145	49	Khufu		Q85760	file		Khufu's laborers laid the last capstone and stepped back to
 145	51	E			initial		Of the historical era. The E-haplogroup civilization that built
 145	53	Khufu		Q85760	file		Old Kingdom. The pyramids. Khufu, Khafre, Menkaure.
 145	53	Khafre		Q85756	file		Old Kingdom. The pyramids. Khufu, Khafre, Menkaure.
-145	53	Menkaure			unresolved		Old Kingdom. The pyramids. Khufu, Khafre, Menkaure.
+145	53	Menkaure		Q300017	override		Old Kingdom. The pyramids. Khufu, Khafre, Menkaure.
 146	2	Sargon of Akkad		Q70532	file		First empire in human history. The empire of Sargon of Akkad.
 146	3	Sargon			unresolved	Q74623	Before Sargon, Mesopotamia was a landscape of competing
 146	5	lugal			unresolved		And the political form of the city-state ruled by a lugal (king)
@@ -5612,9 +5612,9 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 146	21	Sargon			unresolved	Q74623	Sargon was succeeded
 146	21	Rimush			unresolved		By his sons Rimush and Manishtushu, both of whom faced rebellions
 146	21	Manishtushu			unresolved		By his sons Rimush and Manishtushu, both of whom faced rebellions
-146	21	Naram-Sin			unresolved		And assassinations, and then by his grandson Naram-Sin, who took
-146	21	Naram-Sin			unresolved		The empire to its apex. Naram-Sin ruled for approximately thirty-six
-146	25	Naram-Sin			unresolved		After Naram-Sin, the
+146	21	Naram-Sin		Q70517	override		And assassinations, and then by his grandson Naram-Sin, who took
+146	21	Naram-Sin		Q70517	override		The empire to its apex. Naram-Sin ruled for approximately thirty-six
+146	25	Naram-Sin		Q70517	override		After Naram-Sin, the
 146	25	Shar-Kali-Sharri			unresolved		Empire declined. His son Shar-Kali-Sharri faced ongoing revolts
 146	29	Abraham		Q85228	file		Period. That dynasty—Ur III—is the one in which Abraham, in
 146	33	Alexander			unresolved	Q77854 Q78024 Q124135 Q134560 Q135053 Q135456 Q135459 Q135480 Q135505 Q135776 Q135942 Q144333 Q165152 Q165154 Q165254 Q165281 Q165343 Q165351 Q165388 Q167841	The Macedonian Empire of Alexander, the Roman Empire, and
@@ -5622,7 +5622,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 146	33	Sargon			unresolved	Q74623	"Is the prototype of the emperor. The word ""Sargon"" is itself,"
 146	34	Caesar			unresolved		"""Caesar"" and the broader Indo-European vocabulary for kingship."
 146	34	Sargon of Akkad		Q70532	file		Every emperor is, in some sense, a descendant of Sargon of Akkad.
-146	39	Naram-Sin			unresolved		Punishment for Naram-Sin's sacrilege—his destruction of the
+146	39	Naram-Sin		Q70517	override		Punishment for Naram-Sin's sacrilege—his destruction of the
 146	39	Enlil			unresolved		Temple of Enlil at Nippur. The gods, enraged, summoned the
 146	41	Xerxes		Q165475	file		It is the same reading the Greeks will apply to Xerxes at
 146	43	Sargon			unresolved	Q74623	And Sargon himself
@@ -5630,7 +5630,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 146	44	Sargon II		Q74623	file		Later kings, including the Neo-Assyrian Sargon II in the eighth
 146	45	Sargon			unresolved	Q74623	Sargon.
 146	46	Sargon			unresolved	Q74623	Akkadian Empire. Sargon. Naram-Sin. Enheduanna.
-146	46	Naram-Sin			unresolved		Akkadian Empire. Sargon. Naram-Sin. Enheduanna.
+146	46	Naram-Sin		Q70517	override		Akkadian Empire. Sargon. Naram-Sin. Enheduanna.
 146	46	Enheduanna			unresolved		Akkadian Empire. Sargon. Naram-Sin. Enheduanna.
 146	49	Sargon			unresolved	Q74623	Empire. Each inheriting the template Sargon had established.
 146	50	Sargon			unresolved	Q74623	Sargon. Akkad. The first empire.
@@ -5690,18 +5690,18 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 150	15	Huangdi		Q6420	override		Huangdi and his fellow Three Sovereigns (Fuxi, Nüwa,
 150	15	Fuxi		Q6433	file		Huangdi and his fellow Three Sovereigns (Fuxi, Nüwa,
 150	15	Nüwa		Q6435	file		Huangdi and his fellow Three Sovereigns (Fuxi, Nüwa,
-150	15	Shennong			unresolved		Shennong) and Five Emperors are the Chinese mythic prehistory—
+150	15	Shennong		Q300024	override		Shennong) and Five Emperors are the Chinese mythic prehistory—
 150	17	Huangdi		Q6420	override		Even if Huangdi is a legendary figure rather than a historical
 150	19	Huangdi		Q6420	override		The third millennium BCE. Huangdi is its legendary personification.
 150	21	Huangdi		Q6420	override		And alongside Huangdi,
 150	21	Fuxi		Q6433	file		The Three Sovereigns also deserve mention. Fuxi—who taught
 150	22	Nüwa		Q6435	file		The I Ching). Nüwa—the serpent-bodied goddess who created
-150	22	Shennong			unresolved		Cracked, melting five-colored stones to patch the sky. Shennong—
+150	22	Shennong		Q300024	override		Cracked, melting five-colored stones to patch the sky. Shennong—
 150	23	Divine Farmer			unresolved		"""The Divine Farmer,"" who taught humans agriculture by trying every"
 150	23	Huangdi		Q6420	override		For his own invented cures. These figures are older than Huangdi,
 150	24	Fuxi		Q6433	file		Transition in the Yellow River basin. Fuxi is the transition
 150	24	Nüwa		Q6435	file		Out of pure hunting and gathering. Nüwa is the cosmological
-150	25	Shennong			unresolved		Origin myth. Shennong is the invention of agriculture and
+150	25	Shennong		Q300024	override		Origin myth. Shennong is the invention of agriculture and
 150	25	Huangdi		Q6420	override		That leads to Huangdi's unification.
 150	27	Huangdi		Q6420	override		Maintained an unbroken connection to Huangdi's mythic founding.
 150	29	Huangdi		Q6420	override		Huangdi has never been deposed as the mythic founder of the
@@ -5724,11 +5724,11 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 150	50	Huangdi		Q6420	override		Huangdi. The Yellow Emperor. China's mythic founder.
 150	50	Yellow Emperor		Q6420	file		Huangdi. The Yellow Emperor. China's mythic founder.
 151	1	Yellow Emperor		Q6420	file		And while the Yellow Emperor was passing into legend in the
-151	2	Ur-Nammu			unresolved		Prominence under Ur-Nammu, founder of the Third Dynasty of Ur—
+151	2	Ur-Nammu		Q300018	override		Prominence under Ur-Nammu, founder of the Third Dynasty of Ur—
 151	2	Abraham		Q85228	file		This empire, in the Gaiad's reading, that Abraham is born.
-151	3	Ur-Nammu			unresolved		Ur-Nammu reigned from approximately twenty-one twelve to twenty
+151	3	Ur-Nammu		Q300018	override		Ur-Nammu reigned from approximately twenty-one twelve to twenty
 151	4	Hammurabi		Q70400	file		Predating Hammurabi's more famous code by three hundred years.
-151	6	Ur-Nammu			unresolved		Ur-Nammu also built the Great Ziggurat of Ur—the massive
+151	6	Ur-Nammu		Q300018	override		Ur-Nammu also built the Great Ziggurat of Ur—the massive
 151	6	Nanna			unresolved		Dedicated to the moon-god Nanna (the patron deity of Ur), the
 151	8	Gilgamesh		Q70631	file		Of Gilgamesh, which had existed in oral and early written forms
 151	10	Abraham		Q85228	file		Biblical account, that Abraham lived his early life. Genesis
@@ -5803,11 +5803,11 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 152	8	Hammurabi		Q70400	file		The end of his reign, Hammurabi ruled the largest Mesopotamian
 152	9	Sargon of Akkad		Q70532	file		Empire since Sargon of Akkad six hundred years earlier. He had
 152	10	Hammurabi		Q70400	file		And Hammurabi's name is
-152	11	Marduk			unresolved		Marduk in Babylon and other public locations across the empire,
+152	11	Marduk		Q300006	override		Marduk in Babylon and other public locations across the empire,
 152	12	Hammurabi		Q70400	file		Obligations. The stele's top shows Hammurabi standing before the
 152	12	Shamash			unresolved		Sun-god Shamash (the god of justice) receiving the law from the
 152	13	Hammurabi		Q70400	file		Gift. Hammurabi claims his code not as his own invention but as
-152	22	Ur-Nammu			unresolved		Codes in human history. Ur-Nammu's code predates it by three
+152	22	Ur-Nammu		Q300018	override		Codes in human history. Ur-Nammu's code predates it by three
 152	22	Hammurabi		Q70400	file		Predates it as well. But Hammurabi's code is the most complete
 152	23	Hammurabi		Q70400	file		Bible (which shows significant parallels to Hammurabi), through
 152	24	Hammurabi		Q70400	file		Descends from the ancient Near East carries Hammurabi's
@@ -5824,7 +5824,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 152	31	J2			unresolved		And J2, each choosing a different path. One walks south into
 152	33	Hammurabi		Q70400	file		And Hammurabi's empire does not last. Within a generation of
 152	34	Samsu-iluna			unresolved		Son Samsu-iluna faced rebellions across the empire. The southern
-152	35	Marduk			unresolved		Carried off the statue of Marduk. The Old Babylonian empire
+152	35	Marduk		Q300006	override		Carried off the statue of Marduk. The Old Babylonian empire
 152	36	Nebuchadnezzar		Q136459	file		Thousand years later, the Neo-Babylonian empire of Nebuchadnezzar
 152	38	Hammurabi		Q70400	file		But Hammurabi's legacy
 152	39	Sargon			unresolved	Q74623	Reign. He had done what Sargon had done at the political level—
@@ -5835,8 +5835,8 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 152	44	J			initial		Hammurabi of Babylon. The J-haplogroup
 152	44	Abraham		Q85228	file		Cousin of Abraham. The emperor of the Old Babylonian dynasty.
 152	47	Hammurabi		Q70400	file		Hammurabi. Babylon. The Code.
-153	3	Mentuhotep II			unresolved		Around twenty-sixty BCE, Mentuhotep II, king of Thebes, defeated
-153	9	Mentuhotep II			unresolved		The Eleventh Dynasty, under Mentuhotep II and his
+153	3	Mentuhotep II		Q300025	override		Around twenty-sixty BCE, Mentuhotep II, king of Thebes, defeated
+153	9	Mentuhotep II		Q300025	override		The Eleventh Dynasty, under Mentuhotep II and his
 153	10	Amenemhat I			unresolved		Sequence: Amenemhat I (founder of the dynasty), Senusret I,
 153	10	Senusret I			unresolved		Sequence: Amenemhat I (founder of the dynasty), Senusret I,
 153	11	Senusret III			unresolved		Senusret III, and Amenemhat III. These kings consolidated royal
@@ -5851,8 +5851,8 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 153	43	Jacob		Q85226	file		Jacob and Joseph narratives, which the Gaiad will unpack in
 153	43	Joseph		Q85855	context	Q85855 Q88040 Q137751 Q141669 Q144305	Jacob and Joseph narratives, which the Gaiad will unpack in
 153	46	Tutankhamun			unresolved		Tutankhamun and Ramesses II. But it was arguably the most
-153	46	Ramesses II			unresolved		Tutankhamun and Ramesses II. But it was arguably the most
-153	49	Mentuhotep II			unresolved		Middle Kingdom. Mentuhotep II. The Twelfth Dynasty. Itjtawy.
+153	46	Ramesses II		Q154186	override		Tutankhamun and Ramesses II. But it was arguably the most
+153	49	Mentuhotep II		Q300025	override		Middle Kingdom. Mentuhotep II. The Twelfth Dynasty. Itjtawy.
 153	49	Osiris		Q62662	file		The Tale of Sinuhe. The democratization of Osiris. The opening
 154	2	Jacob		Q85226	file		Jacob—grandson of Abraham, son of Isaac, father of twelve
 154	2	Abraham		Q85228	file		Jacob—grandson of Abraham, son of Isaac, father of twelve
@@ -5936,10 +5936,10 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 155	23	L			initial		H, L, R2a, and other haplogroups associated with the {{p|Indus
 155	23	R2a			unresolved		H, L, R2a, and other haplogroups associated with the {{p|Indus
 155	24	R1a			unresolved		Valley}} populations) and Aryan ancestry (R1a-M417, with its
-155	27	Dyaus			unresolved		Imagination in its most archaic form: sky-father Dyaus, storm-god
+155	27	Dyaus		Q300026	override		Imagination in its most archaic form: sky-father Dyaus, storm-god
 155	28	Indra			unresolved		Indra, fire-god Agni, soma-intoxication ritual, horse sacrifice,
 155	28	Agni			unresolved	Q49803 Q160575 Q169183 Q169510	Indra, fire-god Agni, soma-intoxication ritual, horse sacrifice,
-155	29	Dyaus			unresolved		Germanic religion, just with different names for the gods. Dyaus
+155	29	Dyaus		Q300026	override		Germanic religion, just with different names for the gods. Dyaus
 155	29	Zeus		Q74656	file		Is the same as Zeus and Jupiter and Tyr (German)—all
 155	29	Jupiter		Q154176	file		Is the same as Zeus and Jupiter and Tyr (German)—all
 155	29	Tyr			unresolved		Is the same as Zeus and Jupiter and Tyr (German)—all
@@ -5976,38 +5976,38 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 156	9	Hatshepsut			unresolved	Q86013 Q195428	Hatshepsut. One of the most remarkable figures in Egyptian
 156	9	Thutmose I		Q85973	file		History. Daughter of Thutmose I, wife and half-sister of
 156	9	Thutmose II		Q195020	file		Thutmose II, stepmother of the young Thutmose III. When
-156	9	Thutmose III			unresolved		Thutmose II, stepmother of the young Thutmose III. When
+156	9	Thutmose III		Q300007	override		Thutmose II, stepmother of the young Thutmose III. When
 156	9	Thutmose II		Q195020	file		Thutmose II died, Hatshepsut initially served as regent for her
 156	9	Hatshepsut			unresolved	Q86013 Q195428	Thutmose II died, Hatshepsut initially served as regent for her
 156	11	Hatshepsut			unresolved	Q86013 Q195428	Incense, exotic animals, and African wealth, was Hatshepsut's
-156	13	Thutmose III			unresolved		Adaptive strategy. And when she died, Thutmose III—now an adult—
-156	13	Thutmose III			unresolved		Took the throne. Years later, Thutmose III or his successors
+156	13	Thutmose III		Q300007	override		Adaptive strategy. And when she died, Thutmose III—now an adult—
+156	13	Thutmose III		Q300007	override		Took the throne. Years later, Thutmose III or his successors
 156	14	Hatshepsut			unresolved	Q86013 Q195428	Attempted to erase Hatshepsut's memory: her images were chiseled
-156	16	Thutmose III			unresolved		Thutmose III himself was the military
-156	17	Thutmose III			unresolved		Supremacy over the Levant for the next century. Thutmose III is
+156	16	Thutmose III		Q300007	override		Thutmose III himself was the military
+156	17	Thutmose III		Q300007	override		Supremacy over the Levant for the next century. Thutmose III is
 156	20	Amun-Ra			unresolved		Amun-Ra at Karnak. The Amun priesthood's power approached
-156	21	Akhenaten			unresolved		That Akhenaten rose to the throne.
-156	22	Akhenaten			unresolved		Akhenaten, born
+156	21	Akhenaten		Q300003	override		That Akhenaten rose to the throne.
+156	22	Akhenaten		Q300003	override		Akhenaten, born
 156	22	Amenhotep IV			unresolved		Amenhotep IV, was the son of Amenhotep III and grandson of
 156	22	Amenhotep III			unresolved		Amenhotep IV, was the son of Amenhotep III and grandson of
 156	22	Thutmose IV			unresolved		Thutmose IV. He reigned from approximately thirteen-fifty-three
 156	23	Aten			unresolved		Disk, Aten—with himself as the sole intermediary between the
 156	24	Aten			unresolved		"Divine and humanity. This is the famous ""Aten heresy"" or"
 156	24	Amarna			unresolved		"""Amarna revolution""—sometimes celebrated in popular history as the"
-156	24	Akhenaten			unresolved		First monotheism. The Gaiad's reading is more skeptical. Akhenaten's
+156	24	Akhenaten		Q300003	override		First monotheism. The Gaiad's reading is more skeptical. Akhenaten's
 156	24	Abrahamic			unresolved		Religious innovation was not quite monotheism in the Abrahamic
-156	26	Akhenaten			unresolved		Akhenaten built a new capital, Akhetaten (modern Amarna),
+156	26	Akhenaten		Q300003	override		Akhenaten built a new capital, Akhetaten (modern Amarna),
 156	26	Amun			unresolved		Of Amun and other traditional gods. He persecuted priests of the
 156	27	Aten			unresolved		Aten—the Great Hymn to the Aten—that celebrate the sun as
-156	28	Akhenaten			unresolved		Monotheism was influenced by or descended from Akhenaten's
-156	29	Akhenaten			unresolved		Akhenaten, despite his reputation in modern pop-religion as a
-156	30	Akhenaten			unresolved		Akhenaten himself. Why? Because Akhenaten's religious revolution
-156	30	Akhenaten			unresolved		Akhenaten himself. Why? Because Akhenaten's religious revolution
+156	28	Akhenaten		Q300003	override		Monotheism was influenced by or descended from Akhenaten's
+156	29	Akhenaten		Q300003	override		Akhenaten, despite his reputation in modern pop-religion as a
+156	30	Akhenaten		Q300003	override		Akhenaten himself. Why? Because Akhenaten's religious revolution
+156	30	Akhenaten		Q300003	override		Akhenaten himself. Why? Because Akhenaten's religious revolution
 156	31	Jacob		Q85226	file		Population. The Israelites in Goshen—descendants of Jacob's
-156	31	Akhenaten			unresolved		Found themselves religiously suppressed under Akhenaten's regime.
-156	32	Akhenaten			unresolved		The irony is striking: Akhenaten, celebrated by modern writers
-156	33	Akhenaten			unresolved		Timing also roughly works: Akhenaten's reign (thirteen-fifty-three
-156	34	Akhenaten			unresolved		After Akhenaten's death, the Amarna revolution collapsed quickly.
+156	31	Akhenaten		Q300003	override		Found themselves religiously suppressed under Akhenaten's regime.
+156	32	Akhenaten		Q300003	override		The irony is striking: Akhenaten, celebrated by modern writers
+156	33	Akhenaten		Q300003	override		Timing also roughly works: Akhenaten's reign (thirteen-fifty-three
+156	34	Akhenaten		Q300003	override		After Akhenaten's death, the Amarna revolution collapsed quickly.
 156	34	Tutankhamun			unresolved		His son-in-law (or possibly son) Tutankhamun (originally
 156	34	Tutankhaten			unresolved		Tutankhaten) changed his name to honor Amun, moved the court
 156	34	Amun			unresolved		Tutankhaten) changed his name to honor Amun, moved the court
@@ -6017,25 +6017,25 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 156	37	Tutankhamun			unresolved		Not particularly consequential. After Tutankhamun, the {{p|Eighteenth
 156	37	Ramesses I			unresolved		The Nineteenth Dynasty, founded by the general Ramesses I and
 156	37	Seti I			unresolved		Including the great Seti I and the even greater Ramesses II.
-156	37	Ramesses II			unresolved		Including the great Seti I and the even greater Ramesses II.
-156	38	Ramesses II			unresolved		"Ramesses II—""Ramesses the Great""—reigned for sixty-six years"
+156	37	Ramesses II		Q154186	override		Including the great Seti I and the even greater Ramesses II.
+156	38	Ramesses II		Q154186	override		"Ramesses II—""Ramesses the Great""—reigned for sixty-six years"
 156	38	Ramesses the Great			unresolved		"Ramesses II—""Ramesses the Great""—reigned for sixty-six years"
 156	39	Hattusili III		Q2489	file		Peace treaty in human history with the Hittite king Hattusili III.
 156	40	Amun			unresolved		In the temple of Amun. A copy is now in the United Nations
-156	41	Ramesses II			unresolved		Ramesses II built on a scale that rivaled Khufu of the {{p|Old
+156	41	Ramesses II		Q154186	override		Ramesses II built on a scale that rivaled Khufu of the {{p|Old
 156	41	Khufu		Q85760	file		Ramesses II built on a scale that rivaled Khufu of the {{p|Old
-156	42	Ramesses II			unresolved		Karnak and Luxor. Ramesses II was the last great builder-pharaoh
-156	43	Ramesses II			unresolved		Ramesses II's death, Egypt would face, during the reign of his
+156	42	Ramesses II		Q154186	override		Karnak and Luxor. Ramesses II was the last great builder-pharaoh
+156	43	Ramesses II		Q154186	override		Ramesses II's death, Egypt would face, during the reign of his
 156	43	Merneptah		Q85608	file		Son Merneptah and grandsons, the first major waves of the {{p|Sea
 156	44	Ramesses		Q85612	file		Ramesses's grandeur possible was straining toward its final
 156	46	Hatshepsut			unresolved	Q86013 Q195428	Is the New Kingdom in its full expansionary glory: Hatshepsut's
-156	46	Thutmose III			unresolved		Diplomatic triumphs, Thutmose III's military conquests, Akhenaten's
-156	46	Akhenaten			unresolved		Diplomatic triumphs, Thutmose III's military conquests, Akhenaten's
-156	46	Ramesses II			unresolved		Religious revolution and persecution of the Israelites, Ramesses II's
+156	46	Thutmose III		Q300007	override		Diplomatic triumphs, Thutmose III's military conquests, Akhenaten's
+156	46	Akhenaten		Q300003	override		Diplomatic triumphs, Thutmose III's military conquests, Akhenaten's
+156	46	Ramesses II		Q154186	override		Religious revolution and persecution of the Israelites, Ramesses II's
 156	49	Hatshepsut			unresolved	Q86013 Q195428	New Kingdom. Hatshepsut. Thutmose III. Akhenaten. Ramesses II.
-156	49	Thutmose III			unresolved		New Kingdom. Hatshepsut. Thutmose III. Akhenaten. Ramesses II.
-156	49	Akhenaten			unresolved		New Kingdom. Hatshepsut. Thutmose III. Akhenaten. Ramesses II.
-156	49	Ramesses II			unresolved		New Kingdom. Hatshepsut. Thutmose III. Akhenaten. Ramesses II.
+156	49	Thutmose III		Q300007	override		New Kingdom. Hatshepsut. Thutmose III. Akhenaten. Ramesses II.
+156	49	Akhenaten		Q300003	override		New Kingdom. Hatshepsut. Thutmose III. Akhenaten. Ramesses II.
+156	49	Ramesses II		Q154186	override		New Kingdom. Hatshepsut. Thutmose III. Akhenaten. Ramesses II.
 157	3	R1b			unresolved		An Indo-European people whose R1b haplogroup
 157	8	Anitta			unresolved		Called itself—was founded around seventeen-fifty BCE by Anitta,
 157	9	Hattusili I			unresolved		Under Hattusili I around sixteen-fifty BCE, with Hattusa as
@@ -6047,17 +6047,17 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 157	13	Muwatalli II		Q2495	file		Rulers: Suppiluliuma I, Mursili II, Muwatalli II, Hattusili III,
 157	13	Hattusili III		Q2489	file		Rulers: Suppiluliuma I, Mursili II, Muwatalli II, Hattusili III,
 157	14	Tudhaliya IV		Q2515	file		Tudhaliya IV. The empire controlled central and eastern Anatolia,
-157	16	Ramesses II			unresolved		And in twelve-seventy-four BCE, Ramesses II of Egypt and
+157	16	Ramesses II		Q154186	override		And in twelve-seventy-four BCE, Ramesses II of Egypt and
 157	17	Muwatalli II		Q2495	file		Muwatalli II of Hatti confronted each other here with the
 157	18	Ramesses		Q85612	file		Hittite ambush that caught Ramesses unprepared—the Egyptian
 157	19	Ramesses		Q85612	file		Ramesses rallied his remaining forces and held the field by
 157	19	Ramesses		Q85612	file		Victory. Both accounts are partially preserved: Ramesses's in
 157	20	Muwatalli			unresolved		Egyptian inscriptions at Karnak and the Ramesseum, Muwatalli's
-157	22	Ramesses II			unresolved		Ramesses II and Hattusili III (who had succeeded Muwatalli II
+157	22	Ramesses II		Q154186	override		Ramesses II and Hattusili III (who had succeeded Muwatalli II
 157	22	Hattusili III		Q2489	file		Ramesses II and Hattusili III (who had succeeded Muwatalli II
 157	22	Muwatalli II		Q2495	file		Ramesses II and Hattusili III (who had succeeded Muwatalli II
 157	23	Hattusili III		Q2489	file		Refugees. It was sealed with a dynastic marriage: Hattusili III's
-157	24	Ramesses II			unresolved		Daughter married Ramesses II and became one of his principal
+157	24	Ramesses II		Q154186	override		Daughter married Ramesses II and became one of his principal
 157	30	Teshub			unresolved		Teshub (borrowed from the Hurrians) was their chief deity. The
 157	32	Hammurabi		Q70400	file		Less brutal than Hammurabi's code. Capital punishment was rare.
 157	35	Hittites			unresolved		"Hebrew Bible mentions ""Hittites"" repeatedly as one of the"
@@ -6101,10 +6101,10 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 159	2	Sita		Q170937	file		Stepmother, wanders in the forest with his wife Sita and his
 159	3	Lakshmana			unresolved		Brother Lakshmana. Sita is abducted by Ravana, the ten-headed
 159	3	Sita		Q170937	file		Brother Lakshmana. Sita is abducted by Ravana, the ten-headed
-159	3	Ravana			unresolved		Brother Lakshmana. Sita is abducted by Ravana, the ten-headed
+159	3	Ravana		Q300002	override		Brother Lakshmana. Sita is abducted by Ravana, the ten-headed
 159	3	Rama		Q28328	file		Demon-king of Lanka. Rama assembles an army—an army of monkeys,
 159	3	Hanuman			unresolved		Led by the monkey-god Hanuman—and marches south. They build a
-159	3	Ravana			unresolved		Bridge across the ocean. They invade Lanka. They defeat Ravana.
+159	3	Ravana		Q300002	override		Bridge across the ocean. They invade Lanka. They defeat Ravana.
 159	4	Sita		Q170937	file		They recover Sita. They return to Ayodhya and Rama is restored
 159	4	Rama		Q28328	file		They recover Sita. They return to Ayodhya and Rama is restored
 159	7	Rama		Q28328	file		Of Rama and Sita and the recovery of a stolen queen from a
@@ -6114,7 +6114,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 159	9	Paris		Q132113	file		Helen, Paris, Troy, the Achaean coalition. In the Indian case:
 159	9	Rama		Q28328	file		Rama, Sita, Ravana, Lanka, the monkey army. The parallels are
 159	9	Sita		Q170937	file		Rama, Sita, Ravana, Lanka, the monkey army. The parallels are
-159	9	Ravana			unresolved		Rama, Sita, Ravana, Lanka, the monkey army. The parallels are
+159	9	Ravana		Q300002	override		Rama, Sita, Ravana, Lanka, the monkey army. The parallels are
 159	10	Sita		Q170937	file		By the abductor?). Sita's trial by fire and Helen's ambiguous
 159	10	Helen			unresolved		By the abductor?). Sita's trial by fire and Helen's ambiguous
 159	12	Rama		Q28328	file		Gaiad goes further. The Gaiad proposes that Rama is not only
@@ -6127,7 +6127,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 159	13	Rama		Q28328	file		Into Ethiopia. Rama's blue skin—the iconic depiction of Rama
 159	14	Rama		Q28328	file		Rama visits Ethiopia on his travels. In some esoteric readings,
 159	14	Rama		Q28328	file		Rama and Ravana are two aspects of a single cosmic principle.
-159	14	Ravana			unresolved		Rama and Ravana are two aspects of a single cosmic principle.
+159	14	Ravana		Q300002	override		Rama and Ravana are two aspects of a single cosmic principle.
 159	17	Moses			unresolved	Q129690 Q146987 Q154246	And Sea Peoples, the Hebrew narrative of Moses leading his
 159	19	Rama		Q28328	file		Rama's dharma—the concept of righteous conduct, duty, the
 159	22	Rama		Q28328	file		Elaborated in its own way. Rama is the Indian embodiment of
@@ -6167,10 +6167,10 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 159	29	Sita		Q170937	file		Sita insists on accompanying him. Lakshmana joins them voluntarily.
 159	29	Lakshmana			unresolved		Sita insists on accompanying him. Lakshmana joins them voluntarily.
 159	29	Rama		Q28328	file		While Rama is distracted by a magical deer, Ravana abducts Sita
-159	29	Ravana			unresolved		While Rama is distracted by a magical deer, Ravana abducts Sita
+159	29	Ravana		Q300002	override		While Rama is distracted by a magical deer, Ravana abducts Sita
 159	29	Sita		Q170937	file		While Rama is distracted by a magical deer, Ravana abducts Sita
-159	30	Ravana			unresolved		And carries her to Lanka. The demon-king Ravana rules from
-159	30	Ravana			unresolved		Though some scholars have proposed other locations. Ravana has ten
+159	30	Ravana		Q300002	override		And carries her to Lanka. The demon-king Ravana rules from
+159	30	Ravana		Q300002	override		Though some scholars have proposed other locations. Ravana has ten
 159	31	Rama		Q28328	file		Capital protected by demon armies. Rama and Lakshmana search for
 159	31	Lakshmana			unresolved		Capital protected by demon armies. Rama and Lakshmana search for
 159	31	Sita		Q170937	file		Sita desperately. They meet Hanuman, the monkey-general, who
@@ -6184,20 +6184,20 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 159	32	Sugriva			unresolved		Vanara army of monkeys led by Sugriva (a monkey king whose
 159	33	Rama		Q28328	file		Throne Rama has helped restore), with Hanuman as his chief
 159	33	Hanuman			unresolved		Throne Rama has helped restore), with Hanuman as his chief
-159	34	Ravana			unresolved		Battles are fought. Ravana's demon generals fall one by one.
+159	34	Ravana		Q300002	override		Battles are fought. Ravana's demon generals fall one by one.
 159	34	Lakshmana			unresolved		Lakshmana kills Indrajit, Ravana's warrior son. Finally Rama
 159	34	Indrajit			unresolved		Lakshmana kills Indrajit, Ravana's warrior son. Finally Rama
-159	34	Ravana			unresolved		Lakshmana kills Indrajit, Ravana's warrior son. Finally Rama
+159	34	Ravana		Q300002	override		Lakshmana kills Indrajit, Ravana's warrior son. Finally Rama
 159	34	Rama		Q28328	file		Lakshmana kills Indrajit, Ravana's warrior son. Finally Rama
-159	35	Ravana			unresolved		Confronts Ravana in single combat. Ravana is terrible; his ten
-159	35	Ravana			unresolved		Confronts Ravana in single combat. Ravana is terrible; his ten
+159	35	Ravana		Q300002	override		Confronts Ravana in single combat. Ravana is terrible; his ten
+159	35	Ravana		Q300002	override		Confronts Ravana in single combat. Ravana is terrible; his ten
 159	35	Rama		Q28328	file		Heads regenerate; his twenty arms wield divine weapons. But Rama
 159	35	Agastya			unresolved		Uses the divine arrow given to him by the sage Agastya—an arrow
-159	35	Ravana			unresolved		Enchanted with Brahma's power—and pierces Ravana's heart. The
+159	35	Ravana		Q300002	override		Enchanted with Brahma's power—and pierces Ravana's heart. The
 159	36	Sita		Q170937	file		Demon-king falls. Lanka is conquered. Sita is recovered. The
 159	37	Rama		Q28328	file		Rama, having recovered Sita, questions her chastity. She has lived
 159	37	Sita		Q170937	file		Rama, having recovered Sita, questions her chastity. She has lived
-159	37	Ravana			unresolved		In Ravana's palace for months. Has she been violated? She insists
+159	37	Ravana		Q300002	override		In Ravana's palace for months. Has she been violated? She insists
 159	38	Rama		Q28328	file		She has not. Rama demands proof. Sita walks into a fire—the
 159	38	Sita		Q170937	file		She has not. Rama demands proof. Sita walks into a fire—the
 159	38	Agni			unresolved	Q49803 Q160575 Q169183 Q169510	Agnipariksha, the trial by fire. The fire-god Agni refuses to
@@ -6213,7 +6213,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 159	41	Rama		Q28328	file		The mother who bore her. Rama continues to rule until his time
 159	42	Rama		Q28328	file		Rama is identified as the seventh avatar of Vishnu, come to
 159	42	Vishnu			unresolved		Rama is identified as the seventh avatar of Vishnu, come to
-159	42	Ravana			unresolved		Earth to destroy Ravana, who cannot be defeated by any god due
+159	42	Ravana		Q300002	override		Earth to destroy Ravana, who cannot be defeated by any god due
 159	45	Rama		Q28328	file		"Name ""Rama"" as their royal title, with the current Thai monarch"
 159	45	Rama X			unresolved		Being Rama X. In Indonesia the Ramayana is performed in the
 159	47	Rama		Q28328	file		Claim becomes interesting—there are traditions that connect Rama
@@ -6221,7 +6221,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 159	48	Ramses			unresolved		Ramses (the name is cognate), and through Ramses with the lineage
 159	48	Ramses			unresolved		Ramses (the name is cognate), and through Ramses with the lineage
 159	48	Rama		Q28328	file		Of divine pharaohs. Some traditions propose that Rama and Ravana
-159	48	Ravana			unresolved		Of divine pharaohs. Some traditions propose that Rama and Ravana
+159	48	Ravana		Q300002	override		Of divine pharaohs. Some traditions propose that Rama and Ravana
 159	48	Horus		Q62656	file		Are structurally related to Horus and Seth, the Egyptian brothers
 159	48	Seth		Q134747	file		Are structurally related to Horus and Seth, the Egyptian brothers
 159	51	Rama		Q28328	file		Does not literally describe a campaign by Rama into Ethiopia
@@ -6229,14 +6229,14 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 159	59	Rama		Q28328	file		Rama. Sita. Hanuman. Ravana.
 159	59	Sita		Q170937	file		Rama. Sita. Hanuman. Ravana.
 159	59	Hanuman			unresolved		Rama. Sita. Hanuman. Ravana.
-159	59	Ravana			unresolved		Rama. Sita. Hanuman. Ravana.
+159	59	Ravana		Q300002	override		Rama. Sita. Hanuman. Ravana.
 159	59	Rama		Q28328	file		Kings who take Rama's name. The Javanese shadow puppets that
 159	60	Rama		Q28328	file		Dance Rama's war. The Cambodian temple walls that carve Ravana's
-159	60	Ravana			unresolved		Dance Rama's war. The Cambodian temple walls that carve Ravana's
+159	60	Ravana		Q300002	override		Dance Rama's war. The Cambodian temple walls that carve Ravana's
 160	13	Ramesses III			unresolved		Medinet Habu and elsewhere. Ramesses III, the last great pharaoh
 160	29	Moses			unresolved	Q129690 Q146987 Q154246	Moses led the Israelites out of Egyptian bondage through a
 160	30	Joshua			unresolved		Under Joshua. The chronology given in the Hebrew Bible, if
-160	31	Ramesses II			unresolved		Dating—specifically during the reign of Ramesses II or his
+160	31	Ramesses II		Q154186	override		Dating—specifically during the reign of Ramesses II or his
 160	31	Merneptah		Q85608	file		Successor Merneptah. The Merneptah Stele, inscribed around
 160	32	Merneptah		Q85608	file		Merneptah has defeated Israel, which implies that Israel existed
 160	33	Moses			unresolved	Q129690 Q146987 Q154246	Has already treated the specific narrative of Moses and the
@@ -6247,8 +6247,8 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 160	51	Pharaoh		Q129357	file		Survive without their bureaucratic substrate. When Pharaoh could
 160	53	Buddha		Q153343	file		Which will produce Buddha, Confucius, Laozi, Mahavira, the
 160	53	Confucius		Q30266	file		Which will produce Buddha, Confucius, Laozi, Mahavira, the
-160	53	Laozi			unresolved		Which will produce Buddha, Confucius, Laozi, Mahavira, the
-160	53	Mahavira			unresolved		Which will produce Buddha, Confucius, Laozi, Mahavira, the
+160	53	Laozi		Q300001	override		Which will produce Buddha, Confucius, Laozi, Mahavira, the
+160	53	Mahavira		Q300027	override		Which will produce Buddha, Confucius, Laozi, Mahavira, the
 160	53	Zarathustra		Q29136	override		Hebrew prophets, Zarathustra, the pre-Socratic Greeks—this
 160	58	Ramesses III			unresolved		Earthquake, rebellion, invasion, systems collapse. Ramesses III
 161	4	Shang Di			unresolved		Ancestors, who in turn communicated with the supreme deity Shang Di
@@ -6285,7 +6285,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 161	29	King Wen		Q6629	override		Mandate, and Heaven had granted it to King Wen and King Wu. The
 161	29	King Wu			unresolved		Mandate, and Heaven had granted it to King Wen and King Wu. The
 161	34	Wang			unresolved	Q19279 Q87298	"Of Fengjian: the Zhou king (now styled Wang or ""king,"" a title"
-161	45	Ramesses II			unresolved		Dating) occurred during Ramesses II's or Merneptah's reign. These
+161	45	Ramesses II		Q154186	override		Dating) occurred during Ramesses II's or Merneptah's reign. These
 161	45	Merneptah		Q85608	file		Dating) occurred during Ramesses II's or Merneptah's reign. These
 161	50	Duke of Zhou		Q6649	override		Culture. The Duke of Zhou was remembered as a paragon of
 161	50	Confucius		Q30266	file		Statesmanship; Confucius, writing five centuries later, would
@@ -6310,9 +6310,9 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 163	3	R1a			unresolved		Of the Iranian branch. A man of the R1a haplogroup lineage that
 163	6	Zarathustra		Q29136	override		This dating. Zarathustra is another node in the widespread
 163	7	Confucius		Q30266	file		Upanishads of India, Confucius and Laozi in China, and
-163	7	Laozi			unresolved		Upanishads of India, Confucius and Laozi in China, and
+163	7	Laozi		Q300001	override		Upanishads of India, Confucius and Laozi in China, and
 163	7	Buddha		Q153343	file		Buddha and Mahavira in the Gangetic plain. Zarathustra is the
-163	7	Mahavira			unresolved		Buddha and Mahavira in the Gangetic plain. Zarathustra is the
+163	7	Mahavira		Q300027	override		Buddha and Mahavira in the Gangetic plain. Zarathustra is the
 163	7	Zarathustra		Q29136	override		Buddha and Mahavira in the Gangetic plain. Zarathustra is the
 163	11	Ahura Mazda			unresolved		The modern sense. It was dualistic. Ahura Mazda, the Wise Lord,
 163	11	Wise Lord			unresolved		The modern sense. It was dualistic. Ahura Mazda, the Wise Lord,
@@ -6350,7 +6350,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 163	36	Vishtaspa			unresolved	Q2476 Q29360 Q51676 Q51712	Court converted. Zoroastrianism spread from Vishtaspa's
 163	37	Darius I		Q135294	override		The Great}}, Darius I, Xerxes, Artaxerxes—the Achaemenid kings
 163	37	Xerxes		Q165475	file		The Great}}, Darius I, Xerxes, Artaxerxes—the Achaemenid kings
-163	37	Artaxerxes		Q74129	alias	Q74013 Q74129	The Great}}, Darius I, Xerxes, Artaxerxes—the Achaemenid kings
+163	37	Artaxerxes		Q74129	file		The Great}}, Darius I, Xerxes, Artaxerxes—the Achaemenid kings
 163	38	Ahura Mazda			unresolved		Ahura Mazda and pledge to uphold Asha and defeat Druj.
 163	38	Asha			unresolved		Ahura Mazda and pledge to uphold Asha and defeat Druj.
 163	38	Druj			unresolved		Ahura Mazda and pledge to uphold Asha and defeat Druj.
@@ -6370,12 +6370,12 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 163	58	Plutarch			unresolved		Iran for centuries, until Greek writers—Herodotus, Plutarch,
 163	58	Zoroaster		Q29136	file		Later the Hellenistic traditions attributing to Zoroaster
 163	58	Zarathustra		Q29136	override		Consciousness. In our own time Zarathustra has had a strange
-163	59	Nietzsche			unresolved		Second life: as the protagonist of Nietzsche's Thus Spoke Zarathustra,
+163	59	Nietzsche		Q300012	override		Second life: as the protagonist of Nietzsche's Thus Spoke Zarathustra,
 163	59	Zarathustra		Q29136	override		It reflects how Zarathustra's name continues to carry weight as
-163	60	Nietzsche			unresolved		A symbol of religious innovation and prophetic voice. Nietzsche
-163	60	Nietzsche			unresolved		Religion. Nietzsche wanted to undo that work and return to a
+163	60	Nietzsche		Q300012	override		A symbol of religious innovation and prophetic voice. Nietzsche
+163	60	Nietzsche		Q300012	override		Religion. Nietzsche wanted to undo that work and return to a
 163	61	Zarathustran			unresolved		Pre-Zarathustran valuation. Whether one agrees with Nietzsche's
-163	61	Nietzsche			unresolved		Pre-Zarathustran valuation. Whether one agrees with Nietzsche's
+163	61	Nietzsche		Q300012	override		Pre-Zarathustran valuation. Whether one agrees with Nietzsche's
 163	61	Zarathustra		Q29136	override		Project or not, the acknowledgment of Zarathustra's foundational
 163	61	Zarathustra		Q29136	override		Role is accurate. Zarathustra is where a great deal of the
 163	62	Zarathustra		Q29136	override		Zarathustra.
@@ -6549,8 +6549,8 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 165	37	Euripides		Q132596	file		Athens produced the playwrights Aeschylus, Sophocles, Euripides,
 165	37	Aristophanes			unresolved		And Aristophanes—whose tragedies and comedies founded the
 165	37	Herodotus			unresolved		Western dramatic tradition. It produced the historians Herodotus
-165	37	Thucydides			unresolved		And Thucydides—who invented history as a literary and analytical
-165	38	Phidias			unresolved		Genre. It produced the sculptor Phidias, whose statues of Athena
+165	37	Thucydides		Q300009	override		And Thucydides—who invented history as a literary and analytical
+165	38	Phidias		Q300013	override		Genre. It produced the sculptor Phidias, whose statues of Athena
 165	38	Athena		Q130678	file		Genre. It produced the sculptor Phidias, whose statues of Athena
 165	38	Zeus		Q74656	file		And Zeus were the most celebrated of antiquity. It produced the
 165	38	Ictinus			unresolved		Architect Ictinus, whose Parthenon atop the Acropolis remains
@@ -6568,10 +6568,10 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 165	58	Heraclitean			unresolved		Change is mere illusion. These two opposed positions—the Heraclitean
 165	58	Parmenidean			unresolved		And the Parmenidean—frame a dialectic that still structures
 165	59	Herodotus of Halicarnassus			unresolved		Herodotus of Halicarnassus traveled across the Mediterranean
-165	62	Thucydides			unresolved		About foreign peoples. Thucydides of Athens, coming a generation
-165	64	Thucydides			unresolved		Achieve. Thucydides is the ancestor of hard-nosed political
+165	62	Thucydides		Q300009	override		About foreign peoples. Thucydides of Athens, coming a generation
+165	64	Thucydides		Q300009	override		Achieve. Thucydides is the ancestor of hard-nosed political
 165	65	Herodotus			unresolved		Of political power ever written. Between Herodotus's humane
-165	65	Thucydides			unresolved		Inclusiveness and Thucydides's analytical realism, Greek
+165	65	Thucydides		Q300009	override		Inclusiveness and Thucydides's analytical realism, Greek
 165	67	Darius I		Q135294	override		Persian Wars. In four-ninety BCE, Darius I of Persia sent an
 165	68	Miltiades			unresolved	Q137632 Q138350	Generalship of Miltiades. Ten years later, Xerxes I led a far
 165	68	Xerxes I		Q74195	file		Generalship of Miltiades. Ten years later, Xerxes I led a far
@@ -6583,8 +6583,8 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 165	76	Parmenides			unresolved		Ionian philosophy—Thales, Anaximander, Heraclitus, Parmenides,
 165	76	Pythagoras			unresolved		Pythagoras. Solonian reforms. Cleisthenic democracy. The
 165	76	Herodotus			unresolved		Persian Wars—Marathon, Thermopylae, Salamis, Plataea. Herodotus
-165	76	Thucydides			unresolved		And Thucydides. The cultural hothouse taking shape.
-166	13	Ashurbanipal			unresolved		Libraries: Ashurbanipal's library at Nineveh, with its tens of
+165	76	Thucydides		Q300009	override		And Thucydides. The cultural hothouse taking shape.
+166	13	Ashurbanipal		Q300014	override		Libraries: Ashurbanipal's library at Nineveh, with its tens of
 166	16	Ashurnasirpal II			unresolved		Neo-Assyrian kings is worth marking. Ashurnasirpal II
 166	17	Shalmaneser III			unresolved		Empire and moved the capital to Nimrud. Shalmaneser III
 166	18	Ahab		Q38146	file		Ahab—this is the first recorded Assyrian contact with
@@ -6597,10 +6597,10 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 166	25	Yahweh		Q153726	file		Reinforcing the belief that Yahweh protected his holy city, that
 166	25	Yahweh		Q153726	file		Even the mighty Assyrian army could not take what Yahweh had
 166	25	Esarhaddon		Q74530	file		Set apart. Esarhaddon (six-eighty-one to six-sixty-nine BCE)
-166	26	Ashurbanipal			unresolved		Rule would be briefly restored after his death. Ashurbanipal
-166	28	Ashurbanipal			unresolved		Even under Ashurbanipal the empire was strained. A civil war
+166	26	Ashurbanipal		Q300014	override		Rule would be briefly restored after his death. Ashurbanipal
+166	28	Ashurbanipal		Q300014	override		Even under Ashurbanipal the empire was strained. A civil war
 166	28	Shamash-shum-ukin			unresolved		Against his brother Shamash-shum-ukin (who ruled as Assyrian
-166	28	Ashurbanipal			unresolved		After Ashurbanipal's death, the empire collapsed with stunning
+166	28	Ashurbanipal		Q300014	override		After Ashurbanipal's death, the empire collapsed with stunning
 166	31	Nabopolassar		Q135953	file		Nabopolassar and then his son Nebuchadnezzar II, had rebelled
 166	31	Nebuchadnezzar II		Q135783	file		Nabopolassar and then his son Nebuchadnezzar II, had rebelled
 166	33	Sinsharishkun			unresolved		Century CE). Sinsharishkun, the Assyrian king, perished in the
@@ -6613,7 +6613,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 166	41	Nebuchadnezzar		Q136459	file		By certain Egyptian and Chinese centers. And Nebuchadnezzar
 166	43	Hipparchus		Q139505	file		(Particularly through Hipparchus and later Ptolemy) and become
 166	43	Ptolemy		Q71864	file		(Particularly through Hipparchus and later Ptolemy) and become
-166	43	Copernicus			unresolved		The foundation of all Western astronomy until Copernicus. The
+166	43	Copernicus		Q300028	override		The foundation of all Western astronomy until Copernicus. The
 166	43	Aries			unresolved		Names of the zodiac signs—Aries, Taurus, Gemini, and so on—
 166	43	Taurus		Q133072	file		Names of the zodiac signs—Aries, Taurus, Gemini, and so on—
 166	43	Gemini		Q239	file		Names of the zodiac signs—Aries, Taurus, Gemini, and so on—
@@ -6633,7 +6633,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 166	57	Ezekiel			unresolved		Ezekiel, Second Isaiah, Jeremiah (who had warned them of the
 166	57	Jeremiah			unresolved		Ezekiel, Second Isaiah, Jeremiah (who had warned them of the
 166	58	Yahweh		Q153726	file		Discipline rather than divine abandonment. Yahweh had not been
-166	58	Marduk			unresolved		Defeated by Marduk, the Babylonian god. Yahweh had allowed the
+166	58	Marduk		Q300006	override		Defeated by Marduk, the Babylonian god. Yahweh had allowed the
 166	58	Yahweh		Q153726	file		Defeated by Marduk, the Babylonian god. Yahweh had allowed the
 166	58	Yahweh		Q153726	file		Exile because Judah had strayed from the covenant, and Yahweh
 166	61	Cyrus the Great		Q74305	file		Cyrus the Great of Persia conquered Babylon in five-thirty-nine
@@ -6643,7 +6643,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 166	65	Nabonidus		Q135956	file		From the unpopular last king Nabonidus. Babylon became a
 166	67	Nebuchadnezzar		Q136459	file		The brief Neo-Babylonian supremacy. Nebuchadnezzar rebuilding
 166	68	Cyrus		Q165474	file		Diasporic Judaism in the furnace. Cyrus of Persia as liberator.
-166	69	Ashurbanipal			unresolved		Astronomer-priests. The library of Ashurbanipal, preserving
+166	69	Ashurbanipal		Q300014	override		Astronomer-priests. The library of Ashurbanipal, preserving
 167	5	Yahweh		Q153726	file		Judaism is specifically this: not merely that Yahweh is the
 167	5	Yahweh		Q153726	file		Greatest god, nor that Yahweh is the only god worth worshipping,
 167	6	Yahweh		Q153726	file		"But that Yahweh is literally the only god—that all other ""gods"""
@@ -6659,13 +6659,13 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 167	13	Yahweh		Q153726	file		To all humanity. And if only Yahweh is real, then the religious
 167	17	Yahweh		Q153726	file		Land was typically to be separated from your god. If Yahweh was
 167	18	Yahweh		Q153726	file		Yahweh had been defeated by Marduk (and therefore abandoned them),
-167	18	Marduk			unresolved		Yahweh had been defeated by Marduk (and therefore abandoned them),
+167	18	Marduk		Q300006	override		Yahweh had been defeated by Marduk (and therefore abandoned them),
 167	18	Yahweh		Q153726	file		Or Yahweh had power extending beyond Judah. They chose the
 167	18	Yahweh		Q153726	file		Second option. They developed the theology that Yahweh was
-167	20	Marduk			unresolved		Babylonians worshipped Marduk, Nabu, Ishtar, and other deities
+167	20	Marduk		Q300006	override		Babylonians worshipped Marduk, Nabu, Ishtar, and other deities
 167	20	Nabu			unresolved		Babylonians worshipped Marduk, Nabu, Ishtar, and other deities
 167	20	Ishtar			unresolved		Babylonians worshipped Marduk, Nabu, Ishtar, and other deities
-167	21	Marduk			unresolved		They could have decided their god was inferior to Marduk and
+167	21	Marduk		Q300006	override		They could have decided their god was inferior to Marduk and
 167	22	Yahweh		Q153726	file		Stone and wood, incapable of the real power that only Yahweh
 167	24	Ahura Mazda			unresolved		Centuries BCE. And the Persian conception of Ahura Mazda as the
 167	33	Yahweh		Q153726	file		Yahweh as universal creator—reinforced the monotheistic framework.
@@ -6738,7 +6738,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 168	39	Alexander			unresolved	Q77854 Q78024 Q124135 Q134560 Q135053 Q135456 Q135459 Q135480 Q135505 Q135776 Q135942 Q144333 Q165152 Q165154 Q165254 Q165281 Q165343 Q165351 Q165388 Q167841	It would prove vulnerable to the decisive blow that Alexander the
 168	51	Ahura Mazda			unresolved		Ahura Mazda and frame their kingship in Zoroastrian terms.
 168	52	Cyrus		Q165474	file		Babylon, Cyrus participated in the Marduk festival and presented
-168	52	Marduk			unresolved		Himself as Marduk's chosen servant. In Egypt, Cambyses and his
+168	52	Marduk		Q300006	override		Himself as Marduk's chosen servant. In Egypt, Cambyses and his
 168	52	Cambyses		Q135519	override		Himself as Marduk's chosen servant. In Egypt, Cambyses and his
 168	52	Cyrus		Q165474	file		Temples. In Jerusalem, Cyrus permitted the rebuilding of the
 168	53	Ahura Mazda			unresolved		Not cynicism; it was genuine imperial theology. Ahura Mazda was
@@ -6750,7 +6750,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 168	59	Xerxes		Q165475	file		Achaemenid. Cyrus, Cambyses, Darius, Xerxes, and their
 169	1	Zarathustra		Q29136	override		Centuries that produced Zarathustra's reforms, the Babylonian
 169	5	Confucius		Q30266	file		Centuries. Their founders, Confucius and Laozi, stand at the
-169	5	Laozi			unresolved		Centuries. Their founders, Confucius and Laozi, stand at the
+169	5	Laozi		Q300001	override		Centuries. Their founders, Confucius and Laozi, stand at the
 169	6	Confucius		Q30266	file		Confucius. In Chinese,
 169	6	Kong Fuzi			unresolved		"Kong Fuzi or Kongzi—""Master Kong."" Born in five-fifty-one BCE"
 169	6	Kongzi			unresolved		"Kong Fuzi or Kongzi—""Master Kong."" Born in five-fifty-one BCE"
@@ -6766,43 +6766,43 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 169	23	Confucius		Q30266	file		"Cultivated himself (and it is usually ""himself,"" though Confucius"
 169	24	Confucius		Q30266	file		An ethical project and an aesthetic one. Confucius emphasized
 169	25	Confucius		Q30266	file		The Book of Changes, the Spring and Autumn Annals—Confucius
-169	31	Laozi			unresolved		Now Laozi. The historical existence of Laozi is disputed. The
-169	31	Laozi			unresolved		Now Laozi. The historical existence of Laozi is disputed. The
+169	31	Laozi		Q300001	override		Now Laozi. The historical existence of Laozi is disputed. The
+169	31	Laozi		Q300001	override		Now Laozi. The historical existence of Laozi is disputed. The
 169	31	Sima Qian			unresolved		Traditional account, in Sima Qian's Records of the Grand Historian
-169	31	Laozi			unresolved		Presumed date), places Laozi as an older contemporary of Confucius,
+169	31	Laozi		Q300001	override		Presumed date), places Laozi as an older contemporary of Confucius,
 169	31	Confucius		Q30266	file		Presumed date), places Laozi as an older contemporary of Confucius,
 169	32	Confucius		Q30266	file		An archivist at the Zhou court whom Confucius once visited for
-169	32	Laozi			unresolved		"Advice. In this telling, Laozi—""the Old Master""—was older, wiser,"
+169	32	Laozi		Q300001	override		"Advice. In this telling, Laozi—""the Old Master""—was older, wiser,"
 169	32	Old Master			unresolved		"Advice. In this telling, Laozi—""the Old Master""—was older, wiser,"
 169	32	Confucius		Q30266	file		And more withdrawn than Confucius. When Confucius sought him out,
 169	32	Confucius		Q30266	file		And more withdrawn than Confucius. When Confucius sought him out,
-169	32	Laozi			unresolved		Laozi rebuked him for his worldly ambition and urged him to let
-169	33	Laozi			unresolved		Go of his attempts to reform society. Laozi eventually left the
+169	32	Laozi		Q300001	override		Laozi rebuked him for his worldly ambition and urged him to let
+169	33	Laozi		Q300001	override		Go of his attempts to reform society. Laozi eventually left the
 169	33	Yinxi			unresolved		Gate-keeper Yinxi recognized him and asked him to write down his
-169	34	Laozi			unresolved		Teachings before leaving. Laozi agreed and composed the five
-169	35	Laozi			unresolved		Historical figure. But the figure of Laozi—whether real or
-169	36	Laozi			unresolved		Laozi as the traditional founder, with appropriate caveats about
+169	34	Laozi		Q300001	override		Teachings before leaving. Laozi agreed and composed the five
+169	35	Laozi		Q300001	override		Historical figure. But the figure of Laozi—whether real or
+169	36	Laozi		Q300001	override		Laozi as the traditional founder, with appropriate caveats about
 169	44	Confucius		Q30266	file		Rulers and careful ritual management. Where Confucius urges the
-169	45	Laozi			unresolved		Example, Laozi urges the ruler to cultivate non-action and let
+169	45	Laozi		Q300001	override		Example, Laozi urges the ruler to cultivate non-action and let
 169	48	Confucianism			unresolved		Both together. Confucianism provides the public ethics of social
 169	56	Confucius		Q30266	file		Gaiad reads Confucius and Laozi together as the twin poles of
-169	56	Laozi			unresolved		Gaiad reads Confucius and Laozi together as the twin poles of
+169	56	Laozi		Q300001	override		Gaiad reads Confucius and Laozi together as the twin poles of
 169	56	Confucius		Q30266	file		The other. Confucius gives us the ethics of social engagement,
-169	57	Laozi			unresolved		Life. Laozi gives us the counterweight: the skepticism toward
+169	57	Laozi		Q300001	override		Life. Laozi gives us the counterweight: the skepticism toward
 169	65	Confucius		Q30266	file		Confucius. Laozi.
-169	65	Laozi			unresolved		Confucius. Laozi.
+169	65	Laozi		Q300001	override		Confucius. Laozi.
 169	68	Confucius		Q30266	file		Confucius and Laozi. Paired pillars of the East Asian mind.
-169	68	Laozi			unresolved		Confucius and Laozi. Paired pillars of the East Asian mind.
+169	68	Laozi		Q300001	override		Confucius and Laozi. Paired pillars of the East Asian mind.
 170	1	Zarathustra		Q29136	override		Centuries BCE, the same Axial Age ferment that produced Zarathustra,
 170	1	Confucius		Q30266	file		Confucius, Laozi, the Judean exile, and Ionian philosophy was
-170	1	Laozi			unresolved		Confucius, Laozi, the Judean exile, and Ionian philosophy was
+170	1	Laozi		Q300001	override		Confucius, Laozi, the Judean exile, and Ionian philosophy was
 170	2	Siddhartha Gautama		Q153343	override		"Of hundreds of millions. Siddhartha Gautama. The Buddha—""the"
 170	2	Buddha		Q153343	file		"Of hundreds of millions. Siddhartha Gautama. The Buddha—""the"
 170	6	Atman			unresolved		Of sacrifice to the realization of the identity between Atman
 170	6	Brahman		Q160508	file		(The individual self) and Brahman (the universal reality). The
 170	8	Atman			unresolved		The identity of Atman and Brahman. The Jain answer—developed by
 170	8	Brahman		Q160508	file		The identity of Atman and Brahman. The Jain answer—developed by
-170	9	Mahavira			unresolved		Mahavira, a near-contemporary of the Buddha—was extreme asceticism,
+170	9	Mahavira		Q300027	override		Mahavira, a near-contemporary of the Buddha—was extreme asceticism,
 170	9	Buddha		Q153343	file		Mahavira, a near-contemporary of the Buddha—was extreme asceticism,
 170	11	Siddhartha Gautama		Q153343	override		Into this contested field stepped Siddhartha Gautama.
 170	12	Shuddhodana			unresolved		Village in what is now southern Nepal. His father Shuddhodana
@@ -6969,7 +6969,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 172	5	Themistocles			unresolved		Athenian Themistocles. Athens also had the distinction of being
 172	13	Pericles		Q137118	file		Of Pericles. Male citizens—perhaps fifty thousand in a city of
 172	15	Pericles		Q137118	file		Of most human political systems, surprisingly stable. Pericles
-172	16	Thucydides			unresolved		Dead, preserved by Thucydides (possibly in reconstructed form),
+172	16	Thucydides		Q300009	override		Dead, preserved by Thucydides (possibly in reconstructed form),
 172	17	Periclean			unresolved		Periclean vision was of a city in which free citizens, governed
 172	23	Aeschylus		Q135200	file		Whose work survives: Aeschylus, Sophocles, and Euripides. Each
 172	23	Sophocles		Q78447	file		Whose work survives: Aeschylus, Sophocles, and Euripides. Each
@@ -7001,15 +7001,15 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 172	37	Socrates		Q78806	file		Seem better. The play is unfair to Socrates but brilliantly
 172	37	Socrates		Q78806	file		Funny, and Socrates, for what it is worth, attended the premiere
 172	38	Aristophanes			unresolved		Real philosopher to Aristophanes's caricature. It is the kind
-172	39	Phidias			unresolved		Sculpture and architecture. Phidias, the supreme sculptor of the
+172	39	Phidias		Q300013	override		Sculpture and architecture. Phidias, the supreme sculptor of the
 172	39	Athena Parthenos			unresolved		Age, executed the Athena Parthenos for the Parthenon—a forty-
 172	40	Nike		Q130722	file		Of Nike in her hand. The statue is lost, but descriptions and
 172	40	Zeus		Q74656	file		Small replicas survive. He also sculpted the Zeus at Olympia,
-172	40	Phidias			unresolved		One of the seven wonders of the ancient world. Phidias's
+172	40	Phidias		Q300013	override		One of the seven wonders of the ancient world. Phidias's
 172	42	Pericles		Q137118	file		BCE under Pericles's sponsorship, designed by Ictinus and Callicrates
 172	42	Ictinus			unresolved		BCE under Pericles's sponsorship, designed by Ictinus and Callicrates
 172	42	Callicrates			unresolved		BCE under Pericles's sponsorship, designed by Ictinus and Callicrates
-172	42	Phidias			unresolved		With sculptural supervision by Phidias, was the supreme
+172	42	Phidias		Q300013	override		With sculptural supervision by Phidias, was the supreme
 172	45	Ictinus			unresolved		Invented by Ictinus on the Acropolis would be replicated in
 172	47	Protagoras of Abdera			unresolved		"Protagoras of Abdera (famous for declaring ""Man is the measure"
 172	47	Gorgias of Leontini			unresolved		"Of all things""—a relativist proposition), Gorgias of Leontini (a"
@@ -7052,7 +7052,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 172	79	Sophocles		Q78447	file		Leadership. Aeschylus, Sophocles, Euripides, Aristophanes—
 172	79	Euripides		Q132596	file		Leadership. Aeschylus, Sophocles, Euripides, Aristophanes—
 172	79	Aristophanes			unresolved		Leadership. Aeschylus, Sophocles, Euripides, Aristophanes—
-172	80	Phidias			unresolved		The great playwrights. Phidias and the Parthenon. The Sophists
+172	80	Phidias		Q300013	override		The great playwrights. Phidias and the Parthenon. The Sophists
 172	80	Socrates		Q78806	file		And Socrates. Plato and the Academy. Aristotle in the wings.
 172	80	Plato		Q132674	file		And Socrates. Plato and the Academy. Aristotle in the wings.
 172	80	Aristotle		Q154147	file		And Socrates. Plato and the Academy. Aristotle in the wings.
@@ -7098,7 +7098,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 173	33	Kantian			unresolved		To Kantian and utilitarian approaches. His Poetics would define
 173	34	Aristotelian			unresolved		Unities—are all Aristotelian. And his Metaphysics would be the
 173	35	al-Farabi			unresolved		Like al-Farabi and Averroes produced extensive commentaries on
-173	35	Averroes			unresolved		Like al-Farabi and Averroes produced extensive commentaries on
+173	35	Averroes		Q300019	override		Like al-Farabi and Averroes produced extensive commentaries on
 173	35	Aristotle		Q154147	file		Aristotle. Medieval Christian theologians like Thomas Aquinas
 173	35	Thomas Aquinas			unresolved		Aristotle. Medieval Christian theologians like Thomas Aquinas
 173	35	Aristotle		Q154147	file		Aristotle with Christian revelation. Dante placed Aristotle at
@@ -7172,9 +7172,9 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 174	20	Alexander			unresolved	Q77854 Q78024 Q124135 Q134560 Q135053 Q135456 Q135459 Q135480 Q135505 Q135776 Q135942 Q144333 Q165152 Q165154 Q165254 Q165281 Q165343 Q165351 Q165388 Q167841	Alexander's hands. Alexander treated them with notable chivalry,
 174	21	Darius		Q165476	file		A detail widely remarked on both in antiquity and since. Darius
 174	21	Alexander			unresolved	Q77854 Q78024 Q124135 Q134560 Q135053 Q135456 Q135459 Q135480 Q135505 Q135776 Q135942 Q144333 Q165152 Q165154 Q165254 Q165281 Q165343 Q165351 Q165388 Q167841	Cession of all territory west of the Euphrates. One of Alexander's
-174	21	Parmenion			unresolved		"Generals, Parmenion, advised him to accept: ""I would, if I were"
+174	21	Parmenion		Q300020	override		"Generals, Parmenion, advised him to accept: ""I would, if I were"
 174	22	Alexander			unresolved	Q77854 Q78024 Q124135 Q134560 Q135053 Q135456 Q135459 Q135480 Q135505 Q135776 Q135942 Q144333 Q165152 Q165154 Q165254 Q165281 Q165343 Q165351 Q165388 Q167841	"Alexander."" ""So would I,"" the young king replied, ""if I were"
-174	22	Parmenion			unresolved		"Parmenion."" The exchange is probably legendary but captures"
+174	22	Parmenion		Q300020	override		"Parmenion."" The exchange is probably legendary but captures"
 174	22	Alexander			unresolved	Q77854 Q78024 Q124135 Q134560 Q135053 Q135456 Q135459 Q135480 Q135505 Q135776 Q135942 Q144333 Q165152 Q165154 Q165254 Q165281 Q165343 Q165351 Q165388 Q167841	Alexander's refusal to settle for less than total victory.
 174	23	Alexander			unresolved	Q77854 Q78024 Q124135 Q134560 Q135053 Q135456 Q135459 Q135480 Q135505 Q135776 Q135942 Q144333 Q165152 Q165154 Q165254 Q165281 Q165343 Q165351 Q165388 Q167841	Fortified island, resisted. Alexander besieged it for seven months.
 174	25	Alexander			unresolved	Q77854 Q78024 Q124135 Q134560 Q135053 Q135456 Q135459 Q135480 Q135505 Q135776 Q135942 Q144333 Q165152 Q165154 Q165254 Q165281 Q165343 Q165351 Q165388 Q167841	Him as a liberator. Alexander was crowned pharaoh. He visited
@@ -7196,9 +7196,9 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 174	32	Bessus			unresolved		Caught Bessus, and had him executed for regicide—positioning
 174	33	Alexander			unresolved	Q77854 Q78024 Q124135 Q134560 Q135053 Q135456 Q135459 Q135480 Q135505 Q135776 Q135942 Q144333 Q165152 Q165154 Q165254 Q165281 Q165343 Q165351 Q165388 Q167841	Destroyed it. This was Alexander's political genius at work. He
 174	35	Alexander			unresolved	Q77854 Q78024 Q124135 Q134560 Q135053 Q135456 Q135459 Q135480 Q135505 Q135776 Q135942 Q144333 Q165152 Q165154 Q165254 Q165281 Q165343 Q165351 Q165388 Q167841	Alleged. Alexander had several senior Macedonian officers
-174	36	Parmenion			unresolved		Executed, including Parmenion's son Philotas and eventually
+174	36	Parmenion		Q300020	override		Executed, including Parmenion's son Philotas and eventually
 174	36	Philotas			unresolved		Executed, including Parmenion's son Philotas and eventually
-174	36	Parmenion			unresolved		Parmenion himself. He had his companion Cleitus, who had saved
+174	36	Parmenion		Q300020	override		Parmenion himself. He had his companion Cleitus, who had saved
 174	36	Cleitus			unresolved	Q134242 Q134729	Parmenion himself. He had his companion Cleitus, who had saved
 174	36	Alexander			unresolved	Q77854 Q78024 Q124135 Q134560 Q135053 Q135456 Q135459 Q135480 Q135505 Q135776 Q135942 Q144333 Q165152 Q165154 Q165254 Q165281 Q165343 Q165351 Q165388 Q167841	These events marked the darkening of Alexander's character in his
 174	37	Roxana		Q135282	file		Asia}}—Bactria, Sogdiana—where he married the princess Roxana.
@@ -7251,18 +7251,18 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 175	10	Seleucus			unresolved	Q73997 Q135496 Q136153 Q165161	From Seleucus (which Seleucus would use effectively in his
 175	10	Seleucus			unresolved	Q73997 Q135496 Q136153 Q165161	From Seleucus (which Seleucus would use effectively in his
 175	11	Seleucus			unresolved	Q73997 Q135496 Q136153 Q165161	Princess as a wife. Seleucus also sent an ambassador, Megasthenes,
-175	11	Megasthenes			unresolved		Princess as a wife. Seleucus also sent an ambassador, Megasthenes,
+175	11	Megasthenes		Q300021	override		Princess as a wife. Seleucus also sent an ambassador, Megasthenes,
 175	11	Chandragupta		Q50973	file		To Chandragupta's court. Megasthenes's account of Maurya India
-175	11	Megasthenes			unresolved		To Chandragupta's court. Megasthenes's account of Maurya India
+175	11	Megasthenes		Q300021	override		To Chandragupta's court. Megasthenes's account of Maurya India
 175	12	Chandragupta		Q50973	file		And elaborate court ceremony. Chandragupta himself, Megasthenes
-175	12	Megasthenes			unresolved		And elaborate court ceremony. Chandragupta himself, Megasthenes
+175	12	Megasthenes		Q300021	override		And elaborate court ceremony. Chandragupta himself, Megasthenes
 175	13	Chandragupta		Q50973	file		The realities of absolute power. Late in life, Chandragupta
-175	16	Bindusara			unresolved		His son Bindusara inherited
+175	16	Bindusara		Q300029	override		His son Bindusara inherited
 175	17	Amitrochates			unresolved		"Mention him as ""Amitrochates"" (a garbled form of Sanskrit"
 175	17	Antiochus I			unresolved		Dried figs from Antiochus I of Syria, and also requesting that
 175	18	Antiochus			unresolved	Q73937 Q132903 Q133433 Q133572 Q134235 Q135024 Q135462 Q136145 Q165293 Q165494	Antiochus send a sophist to teach him philosophy. Antiochus
 175	18	Antiochus			unresolved	Q73937 Q132903 Q133433 Q133572 Q134235 Q135024 Q135462 Q136145 Q165293 Q165494	Antiochus send a sophist to teach him philosophy. Antiochus
-175	19	Bindusara			unresolved		Commodity. Bindusara died around two-seventy-two BCE. And then
+175	19	Bindusara		Q300029	override		Commodity. Bindusara died around two-seventy-two BCE. And then
 175	19	Ashoka		Q2206	file		Came Ashoka.
 175	20	Ashoka the Great			unresolved		Ashoka the Great. One of the most remarkable
 175	22	Ashoka		Q2206	file		Kalinga War was brutal. According to Ashoka's own later
@@ -7294,11 +7294,11 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 175	51	Ashoka		Q2206	file		Ethical concerns were limited or hypocritical. Ashoka is an
 175	51	Ashoka		Q2206	file		Absolute power always retains its coercive dimension, and Ashoka
 175	53	Chandragupta		Q50973	file		Chandragupta, Bindusara, Ashoka. Chanakya and the Arthashastra.
-175	53	Bindusara			unresolved		Chandragupta, Bindusara, Ashoka. Chanakya and the Arthashastra.
+175	53	Bindusara		Q300029	override		Chandragupta, Bindusara, Ashoka. Chanakya and the Arthashastra.
 175	53	Ashoka		Q2206	file		Chandragupta, Bindusara, Ashoka. Chanakya and the Arthashastra.
 175	53	Chanakya			unresolved		Chandragupta, Bindusara, Ashoka. Chanakya and the Arthashastra.
 175	53	Seleucus			unresolved	Q73997 Q135496 Q136153 Q165161	The defeat of Seleucus. Megasthenes's description of Pataliputra.
-175	53	Megasthenes			unresolved		The defeat of Seleucus. Megasthenes's description of Pataliputra.
+175	53	Megasthenes		Q300021	override		The defeat of Seleucus. Megasthenes's description of Pataliputra.
 175	53	Ashoka		Q2206	file		The Kalinga War and its transformative horror. Ashoka's
 175	55	Ashoka		Q2206	file		The unification of India. Ashoka's ethical experiment. The
 176	1	First Emperor		Q33779	override		Ruthless king who would call himself the First Emperor—completed
@@ -7574,7 +7574,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 182	20	Sol Invictus			unresolved		This is not accidental. The Sol Invictus
 182	20	Christ		Q138545	override		cult and the Christ cult were cousins,
 182	21	Elagabalus		Q144407	file		Elagabalus failed. But the cultural current
-182	23	Akhenaten			unresolved		Egyptian Akhenaten's old Aten
+182	23	Akhenaten		Q300003	override		Egyptian Akhenaten's old Aten
 182	23	Aten			unresolved		Egyptian Akhenaten's old Aten
 182	24	Constantine			unresolved	Q136498 Q167579	that would break through under Constantine
 182	25	Elagabalus		Q144407	file		Elagabalus was the weird episode
@@ -7750,15 +7750,15 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 188	5	Dong Zhuo			unresolved		Dong Zhuo was assassinated. The warlords
 188	5	Cao Cao			unresolved		Cao Cao, Liu Bei, Sun Quan emerged
 188	5	Liu Bei			unresolved		Cao Cao, Liu Bei, Sun Quan emerged
-188	5	Sun Quan			unresolved		Cao Cao, Liu Bei, Sun Quan emerged
+188	5	Sun Quan		Q300030	override		Cao Cao, Liu Bei, Sun Quan emerged
 188	6	Cao Cao			unresolved		Cao Cao held the north, controlled the emperor,
 188	6	Liu Bei			unresolved		Liu Bei claimed descent from Han imperial blood,
-188	7	Sun Quan			unresolved		Sun Quan inherited the south from his father and brother,
+188	7	Sun Quan		Q300030	override		Sun Quan inherited the south from his father and brother,
 188	8	Cao Cao			unresolved		In two-twenty, Cao Cao's son Cao Pi
 188	8	Cao Pi			unresolved		In two-twenty, Cao Cao's son Cao Pi
 188	8	Cao Pi			unresolved		The Han was formally dead. Cao Pi
 188	9	Liu Bei			unresolved		Liu Bei declared Shu Han in response.
-188	9	Sun Quan			unresolved		Sun Quan declared Wu a few years later.
+188	9	Sun Quan		Q300030	override		Sun Quan declared Wu a few years later.
 188	13	Kumarajiva			unresolved		Kumarajiva was brought from Kucha as hostage
 188	15	Celestial Masters			unresolved		The Celestial Masters had emerged
 188	15	Ge Hong			unresolved		Ge Hong's alchemy sought immortality.
@@ -7767,38 +7767,38 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 188	17	Romance of the Three Kingdoms			unresolved		The Romance of the Three Kingdoms novel
 188	18	Cao Cao			unresolved		Cao Cao: the cunning, ruthless antihero.
 188	18	Liu Bei			unresolved		Liu Bei: the virtuous, righteous claimant.
-188	18	Zhuge Liang			unresolved		Zhuge Liang: the brilliant strategist advisor.
-188	18	Guan Yu			unresolved		Guan Yu: the loyal sworn brother, servant of heaven's pavement.
+188	18	Zhuge Liang		Q300015	override		Zhuge Liang: the brilliant strategist advisor.
+188	18	Guan Yu		Q29371	override		Guan Yu: the loyal sworn brother, servant of heaven's pavement.
 189	1	Luo Guanzhong			unresolved		The novel by Luo Guanzhong
 189	2	Chen Shou			unresolved		The historical Chen Shou's Records of Three Kingdoms
 189	4	Liu Bei			unresolved		Liu Bei, Guan Yu, and Zhang Fei
-189	4	Guan Yu			unresolved		Liu Bei, Guan Yu, and Zhang Fei
+189	4	Guan Yu		Q29371	override		Liu Bei, Guan Yu, and Zhang Fei
 189	4	Zhang Fei		Q37049	file		Liu Bei, Guan Yu, and Zhang Fei
 189	5	Liu Bei			unresolved		Liu Bei claimed descent from the Han imperial line,
-189	5	Guan Yu			unresolved		Guan Yu was a fugitive for avenging
+189	5	Guan Yu		Q29371	override		Guan Yu was a fugitive for avenging
 189	6	Zhang Fei		Q37049	file		Zhang Fei was a butcher and wine-seller,
 189	6	Yellow Turbans			unresolved		against the Yellow Turbans on their own.
-189	7	Zhuge Liang			unresolved		Zhuge Liang joined Liu Bei later,
+189	7	Zhuge Liang		Q300015	override		Zhuge Liang joined Liu Bei later,
 189	7	Liu Bei			unresolved		Zhuge Liang joined Liu Bei later,
 189	7	Sleeping Dragon			unresolved		the Sleeping Dragon, the brilliant strategist,
 189	8	Liu Bei			unresolved		for Liu Bei's cause. He devised the strategy
 189	9	Battle of Red Cliffs			unresolved		The Battle of Red Cliffs in two-oh-eight
 189	9	Cao Cao			unresolved		was the great set piece. Cao Cao's northern army
-189	10	Zhuge Liang			unresolved		Zhuge Liang borrowed arrows with straw boats
+189	10	Zhuge Liang		Q300015	override		Zhuge Liang borrowed arrows with straw boats
 189	10	Cao Cao			unresolved		in the fog, ten thousand arrows from Cao Cao's
 189	11	Zhuge			unresolved		The Taoist Zhuge summoned the east wind,
 189	11	Cao Cao			unresolved		The fire ships slipped into Cao Cao's fleet
 189	12	Cao Cao			unresolved		Cao Cao's navy burned. His army fled
-189	12	Guan Yu			unresolved		Guan Yu let him escape at the narrow pass,
+189	12	Guan Yu		Q29371	override		Guan Yu let him escape at the narrow pass,
 189	13	Luo Guanzhong			unresolved		(This was not in the histories. Luo Guanzhong
-189	13	Guan Yu			unresolved		to show Guan Yu's righteousness, his sense
-189	14	Guan Yu			unresolved		Guan Yu became the god of war,
+189	13	Guan Yu		Q29371	override		to show Guan Yu's righteousness, his sense
+189	14	Guan Yu		Q29371	override		Guan Yu became the god of war,
 189	14	Guandi			unresolved		as Guandi, in temples of gold and servants.
-189	15	Zhuge Liang			unresolved		Zhuge Liang's Six Campaigns against Wei
+189	15	Zhuge Liang		Q300015	override		Zhuge Liang's Six Campaigns against Wei
 189	16	Jin Dynasty			unresolved		Wei was replaced by the Jin Dynasty in two-sixty-five.
 189	18	Liu Bei			unresolved		Liu Bei as the righteous rightful heir.
 189	18	Cao Cao			unresolved		Cao Cao as the cunning realist.
-189	18	Zhuge Liang			unresolved		Zhuge Liang as wisdom incarnate there.
+189	18	Zhuge Liang		Q300015	override		Zhuge Liang as wisdom incarnate there.
 189	21	Liu Bei			unresolved		Liu Bei's cause is just though it loses.
 189	21	Cao Cao			unresolved		Cao Cao's victory is tainted, a mess.
 190	1	Jimmu		Q6432	file		the legendary first emperor Jimmu
@@ -7962,7 +7962,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 193	11	Wu Cheng'en			unresolved		Wu Cheng'en wrote Journey to the West,
 193	11	Journey to the West			unresolved		Wu Cheng'en wrote Journey to the West,
 193	11	Xuanzang			unresolved		the great fantasy novel based on Xuanzang's trip,
-193	12	Sun Wukong			unresolved		Sun Wukong, the Monkey King, born from stone,
+193	12	Sun Wukong		Q300031	override		Sun Wukong, the Monkey King, born from stone,
 193	12	Monkey King			unresolved		Sun Wukong, the Monkey King, born from stone,
 193	13	Xuanzang			unresolved		He was freed to accompany Xuanzang
 193	13	Tripitaka			unresolved		(called Tripitaka in the novel, the monk)
@@ -7970,9 +7970,9 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 193	14	Zhu Bajie			unresolved		Pigsy (Zhu Bajie), the lazy glutton pig-man,
 193	14	Sha Wujing			unresolved		Sandy (Sha Wujing), the stoic river demon,
 193	17	Son Goku			unresolved		Son Goku of Dragon Ball is a direct
-193	17	Sun Wukong			unresolved		descendant of Sun Wukong in amount.
+193	17	Sun Wukong		Q300031	override		descendant of Sun Wukong in amount.
 193	18	Xuanzang			unresolved		Xuanzang himself is historical.
-193	18	Sun Wukong			unresolved		Sun Wukong is fictional. But both together
+193	18	Sun Wukong		Q300031	override		Sun Wukong is fictional. But both together
 193	20	Chan			unresolved		fully domesticated. Chan (Zen) was emerging
 193	20	Huineng			unresolved		under Huineng the Sixth Patriarch, whose
 193	20	Sixth Patriarch			unresolved		under Huineng the Sixth Patriarch, whose
@@ -7983,26 +7983,26 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 193	22	Arabs			unresolved		Persians, Arabs, Sogdians, Japanese, Koreans
 193	22	Sogdians			unresolved		Persians, Arabs, Sogdians, Japanese, Koreans
 193	22	Koreans			unresolved		Persians, Arabs, Sogdians, Japanese, Koreans
-194	1	Kūkai			unresolved		the monk Kūkai (774-835)
+194	1	Kūkai		Q300008	override		the monk Kūkai (774-835)
 194	1	Shingon			unresolved		brought Shingon Buddhism from Tang China
 194	3	Huiguo			unresolved		He studied under Huiguo, the master
-194	3	Kūkai			unresolved		to Kūkai in just a few months' witnessing.
+194	3	Kūkai		Q300008	override		to Kūkai in just a few months' witnessing.
 194	4	Huiguo			unresolved		Huiguo died shortly after. Kūkai returned
-194	4	Kūkai			unresolved		Huiguo died shortly after. Kūkai returned
+194	4	Kūkai		Q300008	override		Huiguo died shortly after. Kūkai returned
 194	4	Shingon			unresolved		and the complete transmission of Shingon,
 194	6	kana			unresolved		with inventing the kana syllabary,
 194	7	Kana			unresolved		Before Kana, Japanese was written
 194	7	Kana			unresolved		Kana simplified, made Japanese poetic.
-194	8	Kūkai			unresolved		Kūkai's teaching: the universe is the body
+194	8	Kūkai		Q300008	override		Kūkai's teaching: the universe is the body
 194	8	Buddha		Q153343	file		of the cosmic Buddha Mahāvairocana,
 194	8	Mahāvairocana			unresolved		of the cosmic Buddha Mahāvairocana,
 194	8	Dainichi Nyorai			unresolved		Dainichi Nyorai, the sun-like Buddha,
 194	8	Buddha		Q153343	file		Dainichi Nyorai, the sun-like Buddha,
 194	10	Shingon			unresolved		Shingon promises immediate escape from strife.
-194	11	Kūkai			unresolved		Kūkai was also a calligrapher of legend,
+194	11	Kūkai		Q300008	override		Kūkai was also a calligrapher of legend,
 194	13	Maitreya			unresolved		still there, waiting for Maitreya the future Buddha,
 194	13	Buddha		Q153343	file		still there, waiting for Maitreya the future Buddha,
-194	14	Saichō			unresolved		Meanwhile, a separate monk Saichō (767-822)
+194	14	Saichō		Q300032	override		Meanwhile, a separate monk Saichō (767-822)
 194	14	Tendai			unresolved		brought Tendai Buddhism from China
 194	15	Tendai			unresolved		Tendai was based on the Lotus Sutra,
 194	15	Zhiyi			unresolved		on the teaching of Zhiyi of the Tiantai school,
@@ -8012,9 +8012,9 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 194	16	Nichiren		Q11819	file		Nichiren and Lotus Sutra intuitions.
 194	16	Dōgen			unresolved		Dōgen and Sōtō Zen, with its meditations.
 194	17	Tendai			unresolved		All started as Tendai monks who
-194	17	Saichō			unresolved		Saichō had built an institutional pause.
-194	18	Kūkai			unresolved		Kūkai and Saichō were contemporaries.
-194	18	Saichō			unresolved		Kūkai and Saichō were contemporaries.
+194	17	Saichō		Q300032	override		Saichō had built an institutional pause.
+194	18	Kūkai		Q300008	override		Kūkai and Saichō were contemporaries.
+194	18	Saichō		Q300032	override		Kūkai and Saichō were contemporaries.
 194	19	Kanmu			unresolved		in 794 by Emperor Kanmu.
 194	20	Honji suijaku			unresolved		deepened in this era. Honji suijaku, the theory
 194	21	Amaterasu		Q6590	file		Amaterasu became Dainichi Nyorai's manifestation.
@@ -8065,7 +8065,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 195	19	East Francia			unresolved		West Francia (France), East Francia (Germany),
 195	21	Vikings			unresolved		For the next three centuries, Vikings would raid
 196	1	Tang Dynasty			unresolved		The Tang Dynasty (618-907) was
-196	2	Li Yuan		Q46288	context	Q21286 Q40516 Q40897 Q40985 Q44476 Q46288 Q46794 Q55402 Q58860 Q58920 Q59087 Q71630 Q74227 Q76655 Q78886	The founder Li Yuan (Gaozu) had been
+196	2	Li Yuan		Q46288	file		The founder Li Yuan (Gaozu) had been
 196	2	Gaozu			unresolved		The founder Li Yuan (Gaozu) had been
 196	2	Taizong		Q16460	override		His son Taizong killed his brothers,
 196	3	Taizong		Q16460	override		Taizong's reign (626-649) is considered
@@ -8122,11 +8122,11 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 197	9	Al-Biruni			unresolved		Al-Biruni measured the Earth's circumference
 197	10	Al-Ghazali			unresolved		Al-Ghazali wrote the Incoherence of the Philosophers,
 197	10	Ibn Rushd			unresolved		Ibn Rushd (Averroes) wrote the Incoherence
-197	10	Averroes			unresolved		Ibn Rushd (Averroes) wrote the Incoherence
+197	10	Averroes		Q300019	override		Ibn Rushd (Averroes) wrote the Incoherence
 197	11	Ibn Rushd			unresolved		Ibn Rushd's commentaries on Aristotle
 197	11	Aristotle		Q154147	file		Ibn Rushd's commentaries on Aristotle
 197	11	Thomas Aquinas			unresolved		scholasticism. Thomas Aquinas read him.
-197	11	Averroes			unresolved		Without Averroes, no Summa Theologica, see.
+197	11	Averroes		Q300019	override		Without Averroes, no Summa Theologica, see.
 197	12	Ibn Khaldun			unresolved		Ibn Khaldun in the fourteenth century wrote
 197	13	Al-Farabi			unresolved		"Al-Farabi was called ""the Second Teacher"""
 197	13	Second Teacher			unresolved		"Al-Farabi was called ""the Second Teacher"""
@@ -8747,8 +8747,8 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 215	5	Bayezid			unresolved		Bayezid was defeated and captured, his empire disarmed.
 215	6	Ottomans			unresolved		The Ottomans nearly collapsed. Civil war between his sons
 215	6	Mehmed I			unresolved		Mehmed I (r. 1413-1421) and expanded again under
-215	6	Murad II			unresolved		Murad II (r. 1421-1451), reformed, rearmed.
-215	7	Murad II			unresolved		Murad II defeated the Christian crusading armies at
+215	6	Murad II		Q300033	override		Murad II (r. 1421-1451), reformed, rearmed.
+215	7	Murad II		Q300033	override		Murad II defeated the Christian crusading armies at
 215	7	Varna			unresolved		Varna in 1444 and Kosovo again in 1448.
 215	7	Kosovo			unresolved		Varna in 1444 and Kosovo again in 1448.
 215	8	Janissary			unresolved		The Janissary corps was the elite of the Ottoman
@@ -8758,7 +8758,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 215	11	Basilica			unresolved		"and developed massive bombards. The huge ""Basilica"""
 215	12	Mehmed II			unresolved		"Mehmed II, ""The Conqueror,"" came to the throne in 1451"
 215	12	Conqueror			unresolved		"Mehmed II, ""The Conqueror,"" came to the throne in 1451"
-215	14	Constantine XI			unresolved		The last Byzantine emperor, Constantine XI, fenced.
+215	14	Constantine XI		Q300016	override		The last Byzantine emperor, Constantine XI, fenced.
 215	16	Ottomans			unresolved		geopolitical position of the Ottomans:
 215	17	Osman		Q68359	file		The rise had taken 150 years from Osman's small frontier
 215	17	Mehmed			unresolved		was about to become the New Rome of Sultan Mehmed, pretty.
@@ -8769,7 +8769,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 216	2	Henry V		Q112652	file		At the Battle of Agincourt in 1415, Henry V
 216	2	French			unresolved		of England had crushed a much larger French army
 216	2	English			unresolved		with the longbow. The English controlled northern France
-216	2	Charles VII			unresolved		including Paris. The dauphin Charles VII had no army.
+216	2	Charles VII		Q300034	override		including Paris. The dauphin Charles VII had no army.
 216	3	English			unresolved		Orléans was besieged by the English in 1428-1429.
 216	4	Jeanne d'Arc			unresolved		in Lorraine, aged seventeen, named Jeanne d'Arc.
 216	4	Saint Michael			unresolved		Saint Michael, Saint Catherine, Saint Margaret, a shark
@@ -8781,7 +8781,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 216	6	God			unresolved		something private that only God would know.
 216	8	English			unresolved		The English retreated. She then led the army to take
 216	8	Charles			unresolved	Q116245 Q206090 Q206893	Reims, escorting Charles there through English-held territory.
-216	8	Charles VII			unresolved		On July 17, 1429, Charles VII was crowned at Reims,
+216	8	Charles VII		Q300034	override		On July 17, 1429, Charles VII was crowned at Reims,
 216	8	Jeanne			unresolved		with Jeanne standing beside him at the ceremony.
 216	9	French			unresolved		the French gradually pushed the English back.
 216	9	English			unresolved		the French gradually pushed the English back.
@@ -8789,7 +8789,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 216	10	English			unresolved		of the English). She was sold to the English for 10,000
 216	10	English			unresolved		of the English). She was sold to the English for 10,000
 216	12	English			unresolved		in the Seine. An English soldier who watched her die
-216	13	Charles VII			unresolved		Twenty-five years later, Charles VII ordered a retrial
+216	13	Charles VII		Q300034	override		Twenty-five years later, Charles VII ordered a retrial
 216	13	Maid of Orléans			unresolved		"the patron saint of France, the ""Maid of Orléans,"" grater."
 216	17	French			unresolved		Years' War ended with French victory at Castillon.
 216	17	Castillon			unresolved		Years' War ended with French victory at Castillon.
@@ -8842,9 +8842,9 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 218	8	Cadaver Synod			unresolved		The Cadaver Synod of 897 had presaged this.
 218	8	Pope			unresolved		Pope Stephen VI had the corpse of his predecessor
 218	8	Stephen VI			unresolved		Pope Stephen VI had the corpse of his predecessor
-218	8	Formosus			unresolved		Formosus exhumed nine months after burial, dressed
+218	8	Formosus		Q300035	override		Formosus exhumed nine months after burial, dressed
 218	8	Stephen		Q116805	file		in papal vestments, and put on trial. Stephen asked questions
-218	9	Formosus			unresolved		answer on its behalf. Formosus was found guilty of various
+218	9	Formosus		Q300035	override		answer on its behalf. Formosus was found guilty of various
 218	10	Stephen VI			unresolved		body was thrown in the Tiber. Stephen VI was himself
 218	11	Avignon Papacy			unresolved		The second nadir was the Avignon Papacy (1309-1377),
 218	12	Philip IV			unresolved		Philip IV of France had arranged the move after
@@ -8875,16 +8875,16 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 219	10	Manuel		Q166606	file		divided the church. Manuel returned home empty-handed.
 219	11	John VIII			unresolved		His son John VIII (r. 1425-1448) tried a desperate
 219	11	Council of Ferrara-Florence			unresolved		religious strategy — the Council of Ferrara-Florence
-219	13	Murad II			unresolved		Varna}} in 1444, which was destroyed by Murad II, gone.
+219	13	Murad II		Q300033	override		Varna}} in 1444, which was destroyed by Murad II, gone.
 219	14	Constantine XI Palaiologos			unresolved		John VIII's brother Constantine XI Palaiologos
 219	15	Pope			unresolved		He made diplomatic efforts — appealing to the Pope,
 219	15	Holy Roman Emperor			unresolved		to Venice, to Genoa, to the Holy Roman Emperor.
 219	16	Theodosius II		Q60680	file		of Constantinople, Theodosius II's walls built a
-219	17	Constantine XI			unresolved		Constantine XI kept Hagia Sophia ringing with its
+219	17	Constantine XI		Q300016	override		Constantine XI kept Hagia Sophia ringing with its
 219	17	Hagia Sophia			unresolved		Constantine XI kept Hagia Sophia ringing with its
 219	19	Marble Emperor			unresolved		"Greek folk memory he is the ""Marble Emperor,"" waiting."
 219	20	Constantine I			unresolved		(For 1123 years, from Constantine I to Constantine XI,
-219	20	Constantine XI			unresolved		(For 1123 years, from Constantine I to Constantine XI,
+219	20	Constantine XI		Q300016	override		(For 1123 years, from Constantine I to Constantine XI,
 219	20	Augustus		Q72529	file		stretched back to Augustus. Now it ended. Chapter 221
 220	3	Nicholas of Cusa			unresolved		Nicholas of Cusa had written that the Earth
 220	3	God			unresolved		"space might be infinite, that God was ""the coincidence"
@@ -8948,7 +8948,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 221	17	Xerxes		Q165475	file		Since Xerxes crossed the Hellespont. He gazed
 221	18	Theodosius			unresolved	Q59355 Q114993 Q166760	Upon the walls that Theodosius had built
 221	18	Urban			unresolved		The cannon. Urban's bombard, bronze and gilt,
-221	20	Constantine XI			unresolved		And Constantine XI, the last of Rome,
+221	20	Constantine XI		Q300016	override		And Constantine XI, the last of Rome,
 221	20	Rome			unresolved		And Constantine XI, the last of Rome,
 221	21	Avars			unresolved		The wall that had turned back the Avars,
 221	21	Persians			unresolved		The Persians, the Arabs, the perpetual
@@ -8987,7 +8987,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 221	44	England			unresolved		And England's peace—all shattered in the same
 221	47	Caesar			unresolved		The year the last Caesar died in the breach,
 221	48	Italian			unresolved		To the Italian cities' welcoming home.
-221	49	Constantine XI			unresolved		And honor Constantine XI, who could have fled
+221	49	Constantine XI		Q300016	override		And honor Constantine XI, who could have fled
 221	49	Rome			unresolved		And die as Rome had lived—in the slaughter
 221	51	Rome			unresolved		The last of Rome, who fell and was not found,
 222	1	Mongol			unresolved		Two hundred and forty years the Mongol yoke
@@ -9090,7 +9090,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 224	11	Arabic			unresolved		Through Arabic to Latin, where Maimonides
 224	11	Latin			unresolved		Through Arabic to Latin, where Maimonides
 224	11	Maimonides			unresolved		Through Arabic to Latin, where Maimonides
-224	11	Averroes			unresolved		And Averroes probed the complex
+224	11	Averroes		Q300019	override		And Averroes probed the complex
 224	14	Moorish			unresolved		Remained: the last Moorish kingdom, the mouth
 224	16	Ferdinand			unresolved		And now Ferdinand and Isabella came—
 224	16	Isabella			unresolved		And now Ferdinand and Isabella came—
@@ -9455,7 +9455,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 239	33	Mexica			unresolved		And forty percent of the Mexica fell
 239	34	Cortés			unresolved		Controlled by brigantines that Cortés made
 239	35	Cuauhtémoc			unresolved		And Cuauhtémoc, the last tlatoani,
-239	38	Mormon			unresolved		A scribe—call him Mormon, call him
+239	38	Mormon		Q300036	override		A scribe—call him Mormon, call him
 240	2	Inca			unresolved		And the empire of the Inca stretched
 240	3	Sapa Inca			unresolved		Of a single voice: the Sapa Inca,
 240	3	Inti		Q5879	file		Son of Inti, lord of every land
@@ -9805,7 +9805,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 247	50	Deganawidah			unresolved		But the Great League that Deganawidah chose
 247	52	Haudenosaunee			unresolved		Honor the Haudenosaunee--who built
 247	52	Europe		Q133463	file		Had entered Europe's lexicon, who spilt
-248	2	Tupac Amaru			unresolved		Two hundred years had passed since Tupac Amaru,
+248	2	Tupac Amaru		Q6008	override		Two hundred years had passed since Tupac Amaru,
 248	2	Inca			unresolved		The last Inca, strangled in his room
 248	3	Spanish			unresolved		And Spanish order sealed the serpent's mouth
 248	3	Tawantinsuyu			unresolved		Of Tawantinsuyu--and the south
@@ -9819,7 +9819,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 248	9	Inca			unresolved		He traced his lineage to the final Inca--
 248	11	Spanish			unresolved		To buy the Spanish merchant's goods, the brute
 248	16	Antonio de Arriaga			unresolved		He seized the corregidor Antonio de Arriaga,
-248	17	Tupac Amaru			unresolved		Rang with the name he claimed: Tupac Amaru--
+248	17	Tupac Amaru		Q6008	override		Rang with the name he claimed: Tupac Amaru--
 248	17	Spanish			unresolved		Returned to burn the Spanish empire through,
 248	19	Quechua			unresolved		Quechua, Aymara, mestizo, the poor
 248	19	Aymara			unresolved		Quechua, Aymara, mestizo, the poor
@@ -9827,10 +9827,10 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 248	22	Spanish			unresolved		The rebel army met the Spanish force
 248	23	Spanish			unresolved		And the Spanish soldiers burned inside the nave--
 248	23	Quechua			unresolved		A sign, the Quechua said, that even the grave
-248	27	Tupac Amaru			unresolved		And the alliance that Tupac Amaru built
+248	27	Tupac Amaru		Q6008	override		And the alliance that Tupac Amaru built
 248	28	Spanish			unresolved		Against the Spanish king, but revolution
 248	29	Quechua			unresolved		Over the Quechua future's open page--
-248	31	Tupac Amaru			unresolved		Tupac Amaru was taken in the field--
+248	31	Tupac Amaru		Q6008	override		Tupac Amaru was taken in the field--
 248	32	Micaela Bastidas			unresolved		Of Micaela Bastidas first--his wife, the stay
 248	34	Inca			unresolved		The Inca's body from the Inca's name--
 248	34	Inca			unresolved		The Inca's body from the Inca's name--
@@ -9840,16 +9840,16 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 248	40	Aymara			unresolved		The Aymara highlands, and the prophecy
 248	41	Tupac Katari			unresolved		Wore a new name: Tupac Katari--
 248	41	Julian Apaza			unresolved		Julian Apaza, who took his title from
-248	41	Tupac Amaru			unresolved		Two thunderbolts: Tupac Amaru's rally
+248	41	Tupac Amaru		Q6008	override		Two thunderbolts: Tupac Amaru's rally
 248	41	Tomas Katari			unresolved		And Tomas Katari's martyrdom--
 248	42	Spanish			unresolved		And starved the Spanish city till the thousand
 248	43	Aymara			unresolved		Who had starved the Aymara for centuries.
 248	43	Katari			unresolved		Katari too was taken, Katari too
 248	43	Katari			unresolved		Katari too was taken, Katari too
-248	45	Tupac Amaru			unresolved		Of Tupac Amaru would echo through the age
+248	45	Tupac Amaru		Q6008	override		Of Tupac Amaru would echo through the age
 248	45	Bolivar			unresolved		Of liberation--Bolivar claimed the flame,
 248	45	Andean			unresolved		And every rebel on the Andean stage
-248	47	Tupac Amaru			unresolved		Honor Tupac Amaru--whose blood
+248	47	Tupac Amaru		Q6008	override		Honor Tupac Amaru--whose blood
 248	47	Inca			unresolved		Directions of the Inca world, the flood
 248	49	Spanish			unresolved		And the sun that the Spanish killed still rises.
 249	3	Miami			unresolved		Of winter streams--the Miami and the Shawnee,
@@ -9869,7 +9869,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 249	11	Republic			unresolved		With the weight of a Republic's manifest
 249	11	God			unresolved		And God-anointed greed.
 249	13	Mihsihkinaahkwa			unresolved		Mihsihkinaahkwa--Little Turtle--
-249	13	Little Turtle			unresolved		Mihsihkinaahkwa--Little Turtle--
+249	13	Little Turtle		Q300004	override		Mihsihkinaahkwa--Little Turtle--
 249	13	Miami			unresolved		War chief of the Miami, whose tactical
 249	17	Weyapiersenwah			unresolved		Beside him Weyapiersenwah--
 249	17	Blue Jacket			unresolved		Blue Jacket of the Shawnee--brought the fire
@@ -9878,11 +9878,11 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 249	19	Indigenous			unresolved		The Indigenous wall between the American flood
 249	19	American			unresolved		The Indigenous wall between the American flood
 249	20	Harmar			unresolved		In seventeen-ninety, Harmar marched through mud
-249	21	Little Turtle			unresolved		And Little Turtle struck. The primal song
+249	21	Little Turtle		Q300004	override		And Little Turtle struck. The primal song
 249	23	Harmar			unresolved		Harmar's army shattered--two engagements'
 249	25	Republic			unresolved		The Republic burned
 249	25	St. Clair			unresolved		With shame. And sent a larger force--St. Clair,
-249	29	Little Turtle			unresolved		At dawn Little Turtle struck with everything.
+249	29	Little Turtle		Q300004	override		At dawn Little Turtle struck with everything.
 249	32	American			unresolved		Six hundred American dead, the avenue
 249	33	St. Clair			unresolved		And the pursuing warriors. St. Clair escaped
 249	33	American			unresolved		The worst defeat the American army gaped
@@ -9891,14 +9891,14 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 249	35	Republic			unresolved		The Republic reeled. But the Republic had
 249	37	Anthony Wayne			unresolved		"Anthony Wayne--""Mad Anthony""--was sent"
 249	37	Mad Anthony			unresolved		"Anthony Wayne--""Mad Anthony""--was sent"
-249	37	Little Turtle			unresolved		What Little Turtle had built. He spent
-249	40	Little Turtle			unresolved		Little Turtle read the wind. He saw
+249	37	Little Turtle		Q300004	override		What Little Turtle had built. He spent
+249	40	Little Turtle		Q300004	override		Little Turtle read the wind. He saw
 249	42	Blue Jacket			unresolved		But Blue Jacket and the younger warriors chose
-249	42	Little Turtle			unresolved		To fight--and Little Turtle, loyal
+249	42	Little Turtle		Q300004	override		To fight--and Little Turtle, loyal
 249	45	Wayne			unresolved		The battle came--and Wayne struck at the height
 249	46	American			unresolved		Of the confusion. The American bayonet
 249	46	British			unresolved		Drove through the timber's maze, and the British fort
-249	51	Little Turtle			unresolved		Honor Little Turtle--Mihsihkinaahkwa--
+249	51	Little Turtle		Q300004	override		Honor Little Turtle--Mihsihkinaahkwa--
 249	51	Mihsihkinaahkwa			unresolved		Honor Little Turtle--Mihsihkinaahkwa--
 249	52	Republic			unresolved		Republic its worst defeat and proved
 249	54	British			unresolved		And the British treachery were the flame
@@ -10028,7 +10028,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 252	9	Nephi			unresolved		Nephi sailed from Jerusalem. The story
 252	10	European			unresolved		Fantasy of every European who could not
 252	12	Israelite			unresolved		Of any Israelite genealogy.
-252	13	Joseph Smith			unresolved		Joseph Smith published his book in March
+252	13	Joseph Smith		Q300037	override		Joseph Smith published his book in March
 252	14	Moroni			unresolved		And bluster of an angel named Moroni
 252	15	God			unresolved		The voice of God--and in this way
 252	17	American			unresolved		In that same year--eighteen-thirty--the American
@@ -10067,7 +10067,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 252	39	European			unresolved		Only for the European's liberty--
 252	39	Cherokee			unresolved		The Cherokee learned what the Haudenosaunee knew,
 252	39	Haudenosaunee			unresolved		The Cherokee learned what the Haudenosaunee knew,
-252	39	Little Turtle			unresolved		What Little Turtle knew, what the entirety
+252	39	Little Turtle		Q300004	override		What Little Turtle knew, what the entirety
 252	41	Choctaw			unresolved		The Choctaw went first--the winter of eighteen-thirty-one,
 252	42	Choctaw			unresolved		A Choctaw chief looked back at what he'd fled
 252	44	Creek			unresolved		The Creek followed. The Chickasaw were sold
@@ -10075,7 +10075,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 252	44	Cherokee			unresolved		The Cherokee--in eighteen-thirty-eight, the cold
 252	46	Cherokee			unresolved		Of the Cherokee Phoenix, the chromosomes
 252	47	Cherokee			unresolved		Before the last Cherokee was out of sight.
-252	51	Joseph Smith			unresolved		Joseph Smith's new scripture, the epitome
+252	51	Joseph Smith		Q300037	override		Joseph Smith's new scripture, the epitome
 252	52	America			unresolved		A history of America in which the Indians
 252	52	Indians			unresolved		A history of America in which the Indians
 252	52	Israelites			unresolved		Were fallen Israelites awaiting redemption
@@ -10092,7 +10092,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 252	59	God			unresolved		Of a European God whose unsurpassed
 252	60	Americans			unresolved		The Americans--the real Americans, the first--
 252	60	Americans			unresolved		The Americans--the real Americans, the first--
-252	62	Mormon			unresolved		The Book of Mormon said:
+252	62	Mormon		Q300036	override		The Book of Mormon said:
 252	62	Lamanites			unresolved		The Lamanites would one day be redeemed,
 252	62	Mormons			unresolved		Of their curse reversed--and the Mormons deemed
 252	64	Christ		Q138545	override		Rejected Christ--the punishment preserved
@@ -10102,13 +10102,13 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 252	76	Smith			unresolved		Of Smith's invention, not the stilt
 252	77	Lehi			unresolved		But the true Lehi: the record of the peoples
 252	78	European			unresolved		For the European pen--but a plenty
-252	80	Mormon			unresolved		The Book of Mormon is the colonizer's ring
+252	80	Mormon		Q300036	override		The Book of Mormon is the colonizer's ring
 252	82	Tecumseh			unresolved		Remember Tecumseh and Tupac Amaru,
-252	82	Tupac Amaru			unresolved		Remember Tecumseh and Tupac Amaru,
+252	82	Tupac Amaru		Q6008	override		Remember Tecumseh and Tupac Amaru,
 252	82	Sequoyah			unresolved		Remember Sequoyah and the flame
 252	83	Guarani			unresolved		Remember the Guarani violins.
 252	83	Haudenosaunee			unresolved		Remember the Haudenosaunee Law.
-252	83	Little Turtle			unresolved		Remember Little Turtle's discipline.
+252	83	Little Turtle		Q300004	override		Remember Little Turtle's discipline.
 252	83	Osceola			unresolved		Remember Osceola and the raw
 252	84	Seminole			unresolved		And unconquered Seminole in the swamp.
 252	84	Choctaw			unresolved		Remember the Choctaw chief who called it the stomp
@@ -10139,7 +10139,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 253	13	Leo III		Q55156	file		And Leo III, on Christmas Day, observant
 253	14	Charlemagne		Q115039	file		Over Charlemagne at prayer in Saint Peter's
 253	14	Romans		Q154777	file		Emperor of the Romans. Nearly every reader
-253	15	Formosus			unresolved		Formosus, dug up, propped up in the chair,
+253	15	Formosus		Q300035	override		Formosus, dug up, propped up in the chair,
 253	16	Theophylact			unresolved		And then the house of Theophylact held sway.
 253	17	Marozia		Q124161	file		Marozia, his daughter. Lover of a pope,
 253	17	Sergius		Q77779	file		Sergius, and mother of a pope, John,
@@ -10194,13 +10194,13 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 254	20	Lapulapu			unresolved		Kept him. Lapulapu kept the island. And the fleet,
 254	20	Victoria			unresolved		What was left of it, two ships, then one, the Victoria,
 254	20	Elcano			unresolved		Under Elcano, found the cloves at Tidore, a sweet
-255	3	Nanak			unresolved		Of the ledger ended for him there. His name was Nanak.
+255	3	Nanak		Q300010	override		Of the ledger ended for him there. His name was Nanak.
 255	3	Khatri			unresolved		A Khatri boy, the son of Kalu, an accountant. Back
 255	3	Kalu			unresolved		A Khatri boy, the son of Kalu, an accountant. Back
 255	4	janamsakhis			unresolved		And around 1499, so the janamsakhis said,
 255	6	Hindu			unresolved		*There is no Hindu. There is no Muslim.*
 255	6	Muslim			unresolved		*There is no Hindu. There is no Muslim.*
-255	6	Nanak			unresolved		Said Nanak. God's. And when the call to prayer came round
+255	6	Nanak		Q300010	override		Said Nanak. God's. And when the call to prayer came round
 255	6	God			unresolved		Said Nanak. God's. And when the call to prayer came round
 255	7	qazi			unresolved		He went with the governor and the qazi to the mosque,
 255	9	udasis			unresolved		Then the journeys. Four of them, the udasis, east and south
@@ -10219,7 +10219,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 255	13	Japji			unresolved		The Japji, still sung. That is the scripture, where we are
 255	14	Babur			unresolved		Not guessing. Then Babur came down from Kabul like the flood,
 255	14	Mughals			unresolved		The first of the Mughals, and sacked Eminabad, and the hymns
-255	14	Nanak			unresolved		Of Nanak are the witness: the city in its blood,
+255	14	Nanak		Q300010	override		Of Nanak are the witness: the city in its blood,
 255	15	God			unresolved		God, he sang, had sent the Mughal as death's own herald. He had seen it.
 255	15	Mughal			unresolved		God, he sang, had sent the Mughal as death's own herald. He had seen it.
 255	15	God			unresolved		And a reproach to God: did you not feel pain? He would mean it.
@@ -10342,14 +10342,14 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 259	16	Mormons			unresolved		Hold that. The same book. And the Mormons, in the flood
 259	17	Qarin			unresolved		Of a family reaching back to Qarin and the kings it is said
 260	2	Ptolemy		Q71864	file		Ptolemy had written it down in Alexandria:
-260	4	Nicolaus Copernicus			unresolved		Nicolaus Copernicus, born in Toruń, a scholar, a medical
+260	4	Nicolaus Copernicus		Q300028	unique		Nicolaus Copernicus, born in Toruń, a scholar, a medical
 260	5	Teutonic Knights			unresolved		At Olsztyn against the Teutonic Knights,
 260	8	Rheticus			unresolved		Rheticus, a Lutheran professor from Wittenberg,
 260	9	Osiander			unresolved		Of cold water came from a friend: Osiander, who saw it through the press
 260	11	Aristarchus			unresolved		Aristarchus of Samos had said it, long ago, and the why
 260	12	al-Tusi			unresolved		At Maragha, in Iran, by al-Tusi and his school,
 260	12	Ibn al-Shatir			unresolved		Three centuries before, and in Damascus by Ibn al-Shatir,
-260	12	Copernicus			unresolved		Whose moon moved as Copernicus's moved. The rule
+260	12	Copernicus		Q300028	override		Whose moon moved as Copernicus's moved. The rule
 260	13	Kepler			unresolved		Would wait for Kepler's ellipses and Galileo's view
 260	13	Galileo			unresolved		Would wait for Kepler's ellipses and Galileo's view
 261	1	Christian			unresolved		In November 1520, in Stockholm, the Danish king Christian
@@ -10384,7 +10384,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 262	5	Dainichi			unresolved		His name was Dainichi: the Great Sun, the cosmic Buddha,
 262	5	Great Sun			unresolved		His name was Dainichi: the Great Sun, the cosmic Buddha,
 262	5	Buddha		Q153343	file		His name was Dainichi: the Great Sun, the cosmic Buddha,
-262	5	Kūkai			unresolved		The one Kūkai had brought from China, the head
+262	5	Kūkai		Q300008	override		The one Kūkai had brought from China, the head
 262	6	Buddha		Q153343	file		The land of the Buddha. They gave the strangers rooms.
 262	6	Jesuits			unresolved		For a season the Jesuits were Buddhist guests,
 262	6	Great Sun			unresolved		And preached the Great Sun, and the monks nodded. The looms
@@ -10404,7 +10404,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 262	19	Great Sun			unresolved		And let the Great Sun rise on all of them.
 263	1	Akbar			unresolved		The emperor could not read. Akbar, grandson of Babur,
 263	1	Babur			unresolved		The emperor could not read. Akbar, grandson of Babur,
-263	1	Nanak			unresolved		Who had sacked the cities Nanak wept for, came to the throne
+263	1	Nanak		Q300010	override		Who had sacked the cities Nanak wept for, came to the throne
 263	2	Sufis			unresolved		At night, the histories, the poets, the Sufis, the Mahabharata,
 263	2	Mahabharata			unresolved		At night, the histories, the poets, the Sufis, the Mahabharata,
 263	2	Rajput			unresolved		And remembered everything. He married a Rajput princess
@@ -10432,7 +10432,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 263	12	Aurangzeb			unresolved		And his great-grandson Aurangzeb would end the synthesis alive
 263	14	Akbar			unresolved		As a question to ourselves. Akbar's faith had a court and no people.
 263	15	Akbar			unresolved		Without the founder in the room. Akbar's faith was deep
-263	16	Nanak			unresolved		Nanak said there is no Hindu and no Muslim, and left a kitchen
+263	16	Nanak		Q300010	override		Nanak said there is no Hindu and no Muslim, and left a kitchen
 263	16	Hindu			unresolved		Nanak said there is no Hindu and no Muslim, and left a kitchen
 263	16	Muslim			unresolved		Nanak said there is no Hindu and no Muslim, and left a kitchen
 263	16	Akbar			unresolved		Akbar said there is only light and peace, and left a city, and the itch in
@@ -10576,7 +10576,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 269	7	Milky Way			unresolved		The Milky Way was not a mist: it was stars, in dunes
 269	8	Medici			unresolved		For the Medici, and got a post in Florence for the look.
 269	8	Venus		Q134047	file		And later the phases of Venus, like the Moon's, the tunes
-269	9	Copernicus			unresolved		Of a planet going round the Sun, as Copernicus had said.
+269	9	Copernicus		Q300028	override		Of a planet going round the Sun, as Copernicus had said.
 269	11	Pope			unresolved		And the Pope thought the fool was the Pope. The fog
 269	11	Pope			unresolved		And the Pope thought the fool was the Pope. The fog
 269	13	Luther			unresolved		*Here I stand* for Luther. He was sent home to stay. Let it
@@ -10696,7 +10696,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 275	11	Manchus			unresolved		The Manchus became more Confucian than the Ming. The honor
 275	11	Ming			unresolved	Q6560 Q52666	The Manchus became more Confucian than the Ming. The honor
 275	11	Heaven		Q154766	file		Of the classics, the examinations, the rites to Heaven, the king
-275	12	Kangxi			unresolved		And the great Kangxi, who ruled sixty-one years,
+275	12	Kangxi		Q300038	override		And the great Kangxi, who ruled sixty-one years,
 275	13	Ming			unresolved	Q6560 Q52666	And the Ming loyalists held out in the south, one by one
 275	13	Koxinga			unresolved		Falling, and one of them, Koxinga, a pirate's son, conjured
 275	14	Dutch			unresolved		An army and a fleet, and in 1662 took Taiwan from the Dutch,
@@ -10733,7 +10733,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 276	10	Sikhs			unresolved		Of the Sikhs became an order of soldiers after that:
 276	10	Gobind			unresolved		His son Gobind made the Khalsa. Nanak's clearing of the ground
 276	10	Khalsa			unresolved		His son Gobind made the Khalsa. Nanak's clearing of the ground
-276	10	Nanak			unresolved		His son Gobind made the Khalsa. Nanak's clearing of the ground
+276	10	Nanak		Q300010	override		His son Gobind made the Khalsa. Nanak's clearing of the ground
 276	10	Quran			unresolved		Of humility, sewed prayer caps and copied the Quran to be found
 276	11	Marathas			unresolved		Of his life in the Deccan, at war with the Marathas of Shivaji,
 276	11	Shivaji			unresolved		Of his life in the Deccan, at war with the Marathas of Shivaji,
@@ -10804,7 +10804,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 280	10	Leibniz			unresolved		And Leibniz looked at the broken and unbroken lines, the grams
 280	11	Fuxi		Q6433	file		Of China, ascribed to Fuxi, the sage of the beginning, a border
 280	14	Virgo			unresolved		Virgo ends here: the early modern world, its saints and its massacres,
-280	15	Voltaire			unresolved		Grave of the man who joined the world. And Voltaire would make fun
+280	15	Voltaire		Q300039	override		Grave of the man who joined the world. And Voltaire would make fun
 280	16	Libra			unresolved		Tomorrow begins Libra: the Rites, the reckoning, the clothing
 281	2	Ricci			unresolved		Ricci had made his wager: these were civil rites, the starkest
 281	3	Jesuits			unresolved		His order, the Jesuits, kept the wager for a hundred years.
@@ -10812,7 +10812,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 281	3	Franciscans			unresolved		Other orders came to China, the Dominicans, the Franciscans,
 281	4	Ricci			unresolved		The words Ricci used for God, *Tian*, Heaven, and *Shangdi*,
 281	5	Jesuits			unresolved		The Jesuits asked the emperor himself. And in 1700 the great Kangxi,
-281	5	Kangxi			unresolved		The Jesuits asked the emperor himself. And in 1700 the great Kangxi,
+281	5	Kangxi		Q300038	override		The Jesuits asked the emperor himself. And in 1700 the great Kangxi,
 281	5	Jesuits			unresolved		Who had made the Jesuits his astronomers, signed a statement, clean
 281	5	Confucius		Q30266	file		And clear: the rites to Confucius are to honour a teacher; the ancestry
 281	7	Clement XI			unresolved		In 1704, Clement XI decreed: no *Tian*, no *Shangdi*, only *Tianzhu*,
@@ -10903,7 +10903,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 286	2	Diderot			unresolved		Of changing, Diderot wrote, the common way of thinking. Seasoned
 286	3	Diderot			unresolved		For a letter on the blind that doubted God), Diderot knew the risk.
 286	4	Francis Bacon			unresolved		Branches drawn from Francis Bacon: Memory, which grows history;
-286	5	Voltaire			unresolved		Of a hundred and fifty writers: Voltaire, Rousseau on music, the herds
+286	5	Voltaire		Q300039	override		Of a hundred and fifty writers: Voltaire, Rousseau on music, the herds
 286	5	Rousseau			unresolved		Of a hundred and fifty writers: Voltaire, Rousseau on music, the herds
 286	6	de Jaucourt			unresolved		Of the lesser and the forgotten, and one man, the Chevalier de Jaucourt,
 286	9	Pope			unresolved		The privilege revoked, the Pope condemning it, the draft
@@ -10925,7 +10925,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 287	5	Goethe			unresolved		Of the Romantic age rose on those pages. Goethe's young Werther,
 287	5	Werther			unresolved		Of the Romantic age rose on those pages. Goethe's young Werther,
 287	5	Ossian			unresolved		Before he kills himself, reads Ossian aloud to the woman he loves.
-287	5	Napoleon			unresolved		Napoleon carried Ossian on campaign, and had his palace hung with the further
+287	5	Napoleon		Q300005	override		Napoleon carried Ossian on campaign, and had his palace hung with the further
 287	5	Ossian			unresolved		Napoleon carried Ossian on campaign, and had his palace hung with the further
 287	6	Bernadotte			unresolved		He stood godfather to the son of his marshal Bernadotte,
 287	6	Oscar			unresolved		He named the boy Oscar, for the son of Ossian. And Bernadotte became
@@ -10999,7 +10999,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 289	14	Priestley			unresolved		Grandson would tell the story of descent; Priestley, who found the air we breathe.
 290	1	Diderot			unresolved		While Diderot in Paris was finishing his dictionary of everything,
 290	1	Qianlong			unresolved		Qianlong, grandson of Kangxi, the fourth of the Manchu line, the king
-290	1	Kangxi			unresolved		Qianlong, grandson of Kangxi, the fourth of the Manchu line, the king
+290	1	Kangxi		Q300038	override		Qianlong, grandson of Kangxi, the fourth of the Manchu line, the king
 290	2	Siku Quanshu			unresolved		Copied, judged, and kept: the Siku Quanshu, the *Complete Library
 290	6	Manchus			unresolved		Kind and the keeping kind sorted: any line against the Manchus, the fact
 290	9	Diderot			unresolved		Diderot's publisher cut his book in secret, for fear of the king.
@@ -11017,7 +11017,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 291	7	Dyēus		Q148248	file		*Dyēus ph₂tēr*, who became Zeus and Jupiter and the lightning
 291	7	Zeus		Q74656	file		*Dyēus ph₂tēr*, who became Zeus and Jupiter and the lightning
 291	7	Jupiter		Q154176	file		*Dyēus ph₂tēr*, who became Zeus and Jupiter and the lightning
-291	7	Dyaus			unresolved		Of the Vedic Dyaus; and the thunder-god who strikes the serpent, rather
+291	7	Dyaus		Q300026	override		Of the Vedic Dyaus; and the thunder-god who strikes the serpent, rather
 291	8	Perkwunos			unresolved		The oak, *Perkwunos*, who became Perkūnas of the Lithuanian pagans
 291	8	Perkūnas			unresolved		The oak, *Perkwunos*, who became Perkūnas of the Lithuanian pagans
 291	8	Perun			unresolved		And Perun of the Slavs, and, by another root, the cousin of Thor.
@@ -11041,8 +11041,8 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 292	2	Fabre d'Églantine			unresolved		Of the stars in his hands, and a poet, Fabre d'Églantine, the hem
 292	8	Fabre			unresolved		Of ten numbers sit in museums. And the poet who named the months, Fabre,
 292	9	Robespierre			unresolved		The ninth of *Thermidor*, when Robespierre fell; the eighteenth of *Brumaire*,
-292	9	Napoleon			unresolved		When Napoleon took the Republic. And Napoleon ended it, the hem
-292	9	Napoleon			unresolved		When Napoleon took the Republic. And Napoleon ended it, the hem
+292	9	Napoleon		Q300005	override		When Napoleon took the Republic. And Napoleon ended it, the hem
+292	9	Napoleon		Q300005	override		When Napoleon took the Republic. And Napoleon ended it, the hem
 292	10	Paris Commune			unresolved		Lived twelve years, and in the Paris Commune for a few weeks in 1871,
 293	1	Rousseau			unresolved		Rousseau had written, in *The Social Contract*, in 1762,
 293	3	Cult of Reason			unresolved		Taken from the streets. The radicals made a Cult of Reason:
@@ -11057,7 +11057,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 293	12	Supreme Being			unresolved		The Supreme Being faded within months. But read it once more:
 293	12	Cult of Reason			unresolved		Was the Cult of Reason, the war on the altar and the door
 293	13	Theophilanthropists			unresolved		Under the Directory the Theophilanthropists enjoyed
-293	14	Napoleon			unresolved		And Napoleon, in 1801, closed their rite and made his peace with the Pope:
+293	14	Napoleon		Q300005	override		And Napoleon, in 1801, closed their rite and made his peace with the Pope:
 293	14	Pope			unresolved		And Napoleon, in 1801, closed their rite and made his peace with the Pope:
 293	14	Reason			unresolved		From Reason to the Supreme Being to the Concordat, a slope
 293	14	Supreme Being			unresolved		From Reason to the Supreme Being to the Concordat, a slope
@@ -11082,19 +11082,19 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 294	14	Norinaga			unresolved		Was always mixing. That is the true ancient way. Norinaga's grave
 295	1	Charlemagne		Q115039	file		Charlemagne, who had not asked for it, and called him Emperor of the Romans,
 295	1	Emperor of the Romans			unresolved		Charlemagne, who had not asked for it, and called him Emperor of the Romans,
-295	2	Voltaire			unresolved		Voltaire mocked it as neither holy, nor Roman, nor an empire. A joke is not a reading.
+295	2	Voltaire		Q300039	override		Voltaire mocked it as neither holy, nor Roman, nor an empire. A joke is not a reading.
 295	3	Robespierre			unresolved		And Robespierre put God back, the Supreme Being of an earlier chapter, against the atheists of his own side,
 295	4	Emma Leonhart		Q2	override		First he sacked Rome, as Emma Leonhart says, and then he sacked Rome again, with the crown in his hand.
 295	5	Pope			unresolved		Pope Pius VII sat waiting to crown a Corsican, and the fire
 295	5	Pius VII			unresolved		Pope Pius VII sat waiting to crown a Corsican, and the fire
 295	5	Corsican			unresolved		Pope Pius VII sat waiting to crown a Corsican, and the fire
-295	5	Napoleon			unresolved		Of the moment: Napoleon took the crown in his own hands. The plurals
+295	5	Napoleon		Q300005	override		Of the moment: Napoleon took the crown in his own hands. The plurals
 295	6	Robespierre			unresolved		In the eye of this book, the ghost of Robespierre. He crowned himself, then Joséphine, kneeling; the painter David
 295	6	Joséphine			unresolved		In the eye of this book, the ghost of Robespierre. He crowned himself, then Joséphine, kneeling; the painter David
 295	6	David		Q134507	file		In the eye of this book, the ghost of Robespierre. He crowned himself, then Joséphine, kneeling; the painter David
 295	7	Francis II			unresolved		The last emperor, Francis II, laid the crown of Charlemagne down, and what was left
 295	7	Charlemagne		Q115039	file		The last emperor, Francis II, laid the crown of Charlemagne down, and what was left
-295	9	Napoleon			unresolved		Of the record now the state. Napoleon made it a code. The *Civil Code* of 1804,
+295	9	Napoleon		Q300005	override		Of the record now the state. Napoleon made it a code. The *Civil Code* of 1804,
 295	9	Frenchman			unresolved		One law for every Frenchman, written plain, the family, the property, the will,
 295	10	Jan Pieterszoon			unresolved		A man was *Jan Pieterszoon*, Peter's son, and his son *Pieter Janszoon*, the line
 295	10	Peter			unresolved	Q55511 Q59513 Q154150 Q166797	A man was *Jan Pieterszoon*, Peter's son, and his son *Pieter Janszoon*, the line
@@ -11103,14 +11103,14 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 295	11	Naaktgeboren			unresolved		In a year, some of them, the story goes, chose jokes: *Naaktgeboren*, born naked;
 295	11	Zondervan			unresolved		*Zondervan*, without a *van*; and the French stayed long enough, and the joke went on
 295	11	Jews			unresolved		For two hundred years on the children. In France in 1808 the Jews, who had made
-295	12	Napoleon			unresolved		And Napoleon called a Grand Sanhedrin of rabbis, the first in eighteen centuries,
+295	12	Napoleon		Q300005	override		And Napoleon called a Grand Sanhedrin of rabbis, the first in eighteen centuries,
 295	12	Grand Sanhedrin			unresolved		And Napoleon called a Grand Sanhedrin of rabbis, the first in eighteen centuries,
 295	12	Jews			unresolved		And the Jews of the conquered lands were made citizens; the ghetto walls, the few
 295	13	Ossian			unresolved		Colonies in 1802; who carried Ossian in his pocket; whose godson, of course,
 296	1	Jacob		Q85226	file		Two brothers in Kassel, Jacob and Wilhelm Grimm, poor after their father died,
 296	1	Wilhelm Grimm			unresolved		Two brothers in Kassel, Jacob and Wilhelm Grimm, poor after their father died,
 296	1	Ossian			unresolved		After Ossian, that the true voice of a people was in the country, the pride
-296	2	Napoleon			unresolved		Would exist, they hoped, as a people with a memory. In 1812, the year Napoleon marched east,
+296	2	Napoleon		Q300005	override		Would exist, they hoped, as a people with a memory. In 1812, the year Napoleon marched east,
 296	4	Perrault			unresolved		Of reading had included the French tales of Perrault: the Hassenpflug sisters,
 296	4	Hassenpflug			unresolved		Of reading had included the French tales of Perrault: the Hassenpflug sisters,
 296	4	Huguenot			unresolved		Of a family of French Huguenot refugees; the Wild daughters, one of whom, Dortchen,
@@ -11142,7 +11142,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 296	16	Sampo			unresolved		The forge of Ilmarinen made the Sampo, which ground out grain and salt and gold. I keep alive
 296	16	Sampo			unresolved		The singers' names, and show the seams. A good compilation is a Sampo. Keep it turning.
 297	1	Esmet-Akhom			unresolved		A priest named Esmet-Akhom cut a figure of a god into the temple wall,
-297	3	Napoleon			unresolved		Then Napoleon's army, in 1799, at Rashid, which the French called Rosetta, the anguish
+297	3	Napoleon		Q300005	override		Then Napoleon's army, in 1799, at Rashid, which the French called Rosetta, the anguish
 297	4	Demotic			unresolved		Hieroglyphs at the top; the later Egyptian cursive, Demotic, in the middle;
 297	4	Ptolemies			unresolved		Of the Ptolemies' praise. And the Greek could be read. The riddle
 297	6	Thomas Young			unresolved		Is not a mind. An English physician, Thomas Young, who also proved light was a wave,
@@ -11206,7 +11206,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 299	7	Qarin			unresolved		Of Nur, in Mazandaran, the old Tabaristan of Qarin's line,
 299	7	Mírzá Husayn-Alí			unresolved		Mírzá Husayn-Alí, was thrown in 1852 into the Black Pit of Tehran, the dungeon, the plan
 299	9	Ridván			unresolved		Of twelve days, the Ridván, he declared himself: Baháʼu'lláh, the Glory of God,
-299	9	Baháʼu'lláh			unresolved		Of twelve days, the Ridván, he declared himself: Baháʼu'lláh, the Glory of God,
+299	9	Baháʼu'lláh		Q300040	override		Of twelve days, the Ridván, he declared himself: Baháʼu'lláh, the Glory of God,
 299	9	Glory of God			unresolved		Of twelve days, the Ridván, he declared himself: Baháʼu'lláh, the Glory of God,
 299	9	Báb			unresolved		The one the Báb had foretold. Then Istanbul, then Edirne,
 299	11	Pope			unresolved		Of peace among the nations. He wrote to the kings of the earth, to the Pope,
@@ -11214,7 +11214,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 299	11	Queen Victoria			unresolved		To Napoleon III, to Queen Victoria, to the Shah: make peace.
 299	11	Shah			unresolved		To Napoleon III, to Queen Victoria, to the Shah: make peace.
 299	11	Akbar			unresolved		Did not die with him. Hold this against Akbar's faith, which had the lease
-299	12	Baháʼu'lláh			unresolved		Of only one man's life. Baháʼu'lláh left a book of laws,
+299	12	Baháʼu'lláh		Q300040	override		Of only one man's life. Baháʼu'lláh left a book of laws,
 299	12	ʻAbdu'l-Bahá			unresolved		A covenant naming his son, ʻAbdu'l-Bahá, as the interpreter, and a plan
 299	12	Universal House of Justice			unresolved		For an elected council, the Universal House of Justice, on Mount Carmel now, the cause
 299	13	Horus		Q62656	file		Remakes time. The Gaian calendar has its days of Horus too, the heart
@@ -11246,7 +11246,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 300	13	Gate			unresolved		Hold this, beside the Gate and the Glory of the last chapter.
 300	13	Glory			unresolved		Hold this, beside the Gate and the Glory of the last chapter.
 300	14	Christ		Q138545	override		Of a people's hope; and a man who believed he was the brother of Christ,
-300	14	Baháʼu'lláh			unresolved		Not the vision. The sword. Baháʼu'lláh was imprisoned and wrote to kings; the priced
+300	14	Baháʼu'lláh		Q300040	override		Not the vision. The sword. Baháʼu'lláh was imprisoned and wrote to kings; the priced
 301	2	Matthew Perry			unresolved		Of the locked country ended in an afternoon. Commodore Matthew Perry
 301	2	United States			unresolved		Of the United States would not go to Nagasaki, where foreigners were sent,
 301	3	Qing		Q52166	file		Who had watched the Qing lose their wars with the British, knew
@@ -11299,11 +11299,11 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 305	7	Judge			unresolved		Was corresponding secretary. Judge, who had kept the first minutes, was counsel. The work
 305	7	Felt			unresolved		Of vice-president went to Felt and to Seth Pancoast, a doctor. Count
 305	7	Seth Pancoast			unresolved		Of vice-president went to Felt and to Seth Pancoast, a doctor. Count
-306	1	Friedrich Nietzsche			unresolved		Friedrich Nietzsche wrote a polemic.
+306	1	Friedrich Nietzsche		Q300012	unique		Friedrich Nietzsche wrote a polemic.
 306	2	Constantin Georg Naumann			unresolved		To Constantin Georg Naumann, who had printed, the year before,
 306	3	Heinrich Köselitz			unresolved		He read the proofs in Venice, with Heinrich Köselitz.
 306	4	Paul Rée			unresolved		Paul Rée had derived the moral sensations from usefulness,
-306	4	Nietzsche			unresolved		Nietzsche wanted a different history, and he wanted it to cut.
+306	4	Nietzsche		Q300012	override		Nietzsche wanted a different history, and he wanted it to cut.
 306	5	Jews			unresolved		And he names the Jews as the people who began it.
 306	11	Jews			unresolved		And he gives the making of that resentment to the Jews.
 307	1	Herman Hollerith			unresolved		Herman Hollerith was born in Buffalo
@@ -11506,10 +11506,10 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 322	9	Dimitri Malashenkov			unresolved		In 2002 Dimitri Malashenkov said the heat
 323	1	Saint Peter		Q153792	file		In the basilica of Saint Peter, in Vatican City,
 323	1	John XXIII			unresolved		John XXIII opened a council.
-323	3	Paul VI			unresolved		Paul VI was elected on the twenty-first of June.
-323	8	Paul VI			unresolved		The Consilium prepared it, by mandate of Paul VI.
+323	3	Paul VI		Q300041	override		Paul VI was elected on the twenty-first of June.
+323	8	Paul VI		Q300041	override		The Consilium prepared it, by mandate of Paul VI.
 323	8	Giacomo Lercaro			unresolved		Giacomo Lercaro presented it.
-323	8	Paul VI			unresolved		Paul VI confirmed it in an audience
+323	8	Paul VI		Q300041	override		Paul VI confirmed it in an audience
 323	8	Arcadio Maria Larraona			unresolved		Given to Arcadio Maria Larraona,
 325	3	Mao Zedong			unresolved		Mao Zedong received the Red Guards.
 325	3	Red Guards			unresolved		Mao Zedong received the Red Guards.
@@ -11554,10 +11554,10 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 327	11	Þór			unresolved		Of Þór that Jörmundur Ingi Hansen had made.
 327	11	Jörmundur Ingi Hansen			unresolved		Of Þór that Jörmundur Ingi Hansen had made.
 328	1	Hua Guofeng			unresolved		Hua Guofeng presided.
-328	1	Deng Xiaoping			unresolved		Deng Xiaoping was a vice-chairman.
+328	1	Deng Xiaoping		Q300042	override		Deng Xiaoping was a vice-chairman.
 328	2	Lin Biao			unresolved		Lin Biao and the gang of four
-328	2	Deng Xiaoping			unresolved		A later telling calls Deng Xiaoping the leader from this session.
-328	3	Deng Xiaoping			unresolved		Deng Xiaoping was received in Washington,
+328	2	Deng Xiaoping		Q300042	override		A later telling calls Deng Xiaoping the leader from this session.
+328	3	Deng Xiaoping		Q300042	override		Deng Xiaoping was received in Washington,
 328	3	Jimmy Carter			unresolved		Jimmy Carter welcomed him.
 328	4	Mohammad Reza Pahlavi			unresolved		Mohammad Reza Pahlavi left Tehran.
 328	4	Shapour Bakhtiar			unresolved		Shapour Bakhtiar remained the prime minister.
@@ -11620,17 +11620,17 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 337	15	Emma Leonhart		Q2	override		Emma Leonhart came to hate this book, in her words,
 337	19	Ahmad Shah Massoud			unresolved		Ahmad Shah Massoud, who led the last front against them in the north,
 337	21	Job Cohen			unresolved		The mayor, Job Cohen, married four couples, men to men and women to women,
-337	23	George W. Bush			unresolved		On the twentieth of January George W. Bush was sworn in,
+337	23	George W. Bush		Q300011	override		On the twentieth of January George W. Bush was sworn in,
 337	23	Dennis Tito			unresolved		On the twenty-eighth of April Dennis Tito
-337	27	George W. Bush			unresolved		George W. Bush was with children
-337	28	Osama bin Laden			unresolved		Osama bin Laden was named.
+337	27	George W. Bush		Q300011	override		George W. Bush was with children
+337	28	Osama bin Laden		Q300043	override		Osama bin Laden was named.
 337	31	Robert Stevens			unresolved		Robert Stevens, a photo editor in Boca Raton, died first, on the fifth of October.
 337	33	Massoud			unresolved		The fighters of the north, Massoud's men without Massoud,
 337	33	Massoud			unresolved		The fighters of the north, Massoud's men without Massoud,
-337	33	Osama bin Laden			unresolved		Osama bin Laden was surrounded, and got away.
+337	33	Osama bin Laden		Q300043	override		Osama bin Laden was surrounded, and got away.
 337	33	Hamid Karzai			unresolved		On a government, and Hamid Karzai led it from the twenty-second.
 338	2	Emma Leonhart		Q2	override		In 2002 Emma Leonhart turned six,
-338	8	George W. Bush			unresolved		On the twenty-ninth of January George W. Bush
+338	8	George W. Bush		Q300011	override		On the twenty-ninth of January George W. Bush
 338	10	Daniel Pearl			unresolved		In January Daniel Pearl, a reporter for the Wall Street Journal,
 338	18	Larry Sanger			unresolved		On the first of March Larry Sanger
 339	2	Emma Leonhart		Q2	override		In 2003 Emma Leonhart turned seven.
@@ -11638,10 +11638,10 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 339	4	Kalpana Chawla			unresolved		And Kalpana Chawla, born in Karnal in India.
 339	6	Colin Powell			unresolved		On the fifth of February Colin Powell
 339	6	Powell			unresolved		Powell later called the speech a blot on his record.
-339	10	Saddam Hussein			unresolved		A statue of Saddam Hussein was pulled down,
+339	10	Saddam Hussein		Q300044	override		A statue of Saddam Hussein was pulled down,
 339	13	Paul Bremer			unresolved		In May the American administrator, Paul Bremer,
 339	13	Sérgio Vieira de Mello			unresolved		And killed Sérgio Vieira de Mello, its envoy, and twenty-one others.
-339	13	Saddam Hussein			unresolved		On the thirteenth of December Saddam Hussein was found
+339	13	Saddam Hussein		Q300044	override		On the thirteenth of December Saddam Hussein was found
 339	15	Carlo Urbani			unresolved		Carlo Urbani, the doctor in Hanoi who first warned the world of it,
 339	17	Francis Collins			unresolved		Francis Collins said it was not completely complete,
 339	17	Robert Waterston			unresolved		Robert Waterston said: we have before us the instruction set
@@ -11657,7 +11657,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 340	7	Page			unresolved		Page said they had dreamed of making searchable
 340	15	Viktor Yushchenko			unresolved		Viktor Yushchenko, was poisoned with dioxin, and lived, scarred.
 340	17	Gavin Newsom			unresolved		In February the mayor of San Francisco, Gavin Newsom,
-340	17	George W. Bush			unresolved		And the same day George W. Bush was elected to a second term,
+340	17	George W. Bush		Q300011	override		And the same day George W. Bush was elected to a second term,
 340	19	Ronald Reagan			unresolved		On the fifth of June Ronald Reagan died.
 340	19	Theo van Gogh			unresolved		The filmmaker Theo van Gogh was shot and stabbed in the street
 340	19	Yasser Arafat			unresolved		On the eleventh of November Yasser Arafat died, in a hospital near Paris.
@@ -11678,7 +11678,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 342	4	Marlin K. Jensen			unresolved		Marlin K. Jensen, the historian of the Latter-day Saints,
 342	6	Jack Dorsey			unresolved		On the twenty-first of March Jack Dorsey
 342	12	Donald Rumsfeld			unresolved		Donald Rumsfeld, who had run the war, resigned.
-342	12	Saddam Hussein			unresolved		On the thirtieth of December Saddam Hussein was hanged,
+342	12	Saddam Hussein		Q300044	override		On the thirtieth of December Saddam Hussein was hanged,
 342	14	Anna Politkovskaya			unresolved		On the seventh of October, in Moscow, Anna Politkovskaya,
 342	14	Alexander Litvinenko			unresolved		Alexander Litvinenko, who had fled the Russian service,
 342	16	Stephen Harper			unresolved		On the sixth of February Stephen Harper became prime minister of Canada,
@@ -11689,10 +11689,10 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 343	4	Steve Jobs			unresolved		Steve Jobs showed a phone that was not yet for sale.
 343	6	Anne Wojcicki			unresolved		Anne Wojcicki and Linda Avey began selling a test of the blood by mail.
 343	6	Linda Avey			unresolved		Anne Wojcicki and Linda Avey began selling a test of the blood by mail.
-343	12	George W. Bush			unresolved		On the tenth of January George W. Bush sent more than twenty thousand more soldiers to Iraq,
+343	12	George W. Bush		Q300011	override		On the tenth of January George W. Bush sent more than twenty thousand more soldiers to Iraq,
 343	14	Benazir Bhutto			unresolved		Benazir Bhutto, who had come home to Pakistan in October to run for office again,
 343	16	Al Gore			unresolved		In October they shared the Nobel Peace Prize with Al Gore.
-343	18	Vladimir Putin			unresolved		In February, in Munich, Vladimir Putin told the West
+343	18	Vladimir Putin		Q300022	override		In February, in Munich, Vladimir Putin told the West
 343	18	Nicolas Sarkozy			unresolved		In May Nicolas Sarkozy took France;
 343	18	Gordon Brown			unresolved		In June Gordon Brown took Britain from Tony Blair;
 343	18	Tony Blair			unresolved		In June Gordon Brown took Britain from Tony Blair;
@@ -11700,13 +11700,13 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 343	22	Bhutto			unresolved		The surge, the saffron monks, Bhutto killed, Kenya burning,
 344	2	Emma Leonhart		Q2	override		In 2008 Emma Leonhart turned twelve, and her family moved house again.
 344	4	Stalin			unresolved		Took Gori, the birthplace of Stalin,
-344	10	George W. Bush			unresolved		On the third of October George W. Bush signed a law
+344	10	George W. Bush		Q300011	override		On the third of October George W. Bush signed a law
 344	12	Satoshi Nakamoto			unresolved		The name on the note was Satoshi Nakamoto.
-344	14	Barack Obama			unresolved		On the fourth of November Barack Obama was elected president,
+344	14	Barack Obama		Q300045	override		On the fourth of November Barack Obama was elected president,
 344	18	Stephen Harper			unresolved		The prime minister of Canada, Stephen Harper, apologized in the parliament
 344	22	Fidel Castro			unresolved		On the nineteenth of February Fidel Castro gave up the presidency of Cuba to his brother.
 345	2	Emma Leonhart		Q2	override		In 2009 Emma Leonhart turned thirteen.
-345	6	Barack Obama			unresolved		On the twentieth of January Barack Obama was sworn in,
+345	6	Barack Obama		Q300045	override		On the twentieth of January Barack Obama was sworn in,
 345	8	Bernard Madoff			unresolved		In December of the year before Bernard Madoff
 345	12	Mahmoud Ahmadinejad			unresolved		And the government announced that Mahmoud Ahmadinejad had won by a landslide
 345	12	Neda Agha-Soltan			unresolved		On the twentieth of June a young woman, Neda Agha-Soltan,
@@ -11724,7 +11724,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 347	4	Zine El Abidine Ben Ali			unresolved		And on the fourteenth of January Zine El Abidine Ben Ali,
 347	4	Hosni Mubarak			unresolved		Until on the eleventh of February Hosni Mubarak, thirty years in power, resigned,
 347	5	Muammar Gaddafi			unresolved		In Libya, in February, the east rose against Muammar Gaddafi,
-347	11	Osama bin Laden			unresolved		And killed Osama bin Laden,
+347	11	Osama bin Laden		Q300043	override		And killed Osama bin Laden,
 347	17	Gabby Giffords			unresolved		On the eighth of January, in Tucson, a congresswoman, Gabby Giffords,
 347	17	Stephen Harper			unresolved		On the second of May Canada voted, and Stephen Harper won a majority,
 347	17	Jack Layton			unresolved		And its leader, Jack Layton, died of cancer in August,
@@ -11734,20 +11734,20 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 348	4	Fei-Fei Li			unresolved		The set called ImageNet had been gathered under Fei-Fei Li,
 348	4	Alex Krizhevsky			unresolved		In Toronto, Alex Krizhevsky, Ilya Sutskever, and Geoffrey Hinton
 348	4	Ilya Sutskever			unresolved		In Toronto, Alex Krizhevsky, Ilya Sutskever, and Geoffrey Hinton
-348	4	Geoffrey Hinton			unresolved		In Toronto, Alex Krizhevsky, Ilya Sutskever, and Geoffrey Hinton
+348	4	Geoffrey Hinton		Q300046	override		In Toronto, Alex Krizhevsky, Ilya Sutskever, and Geoffrey Hinton
 348	6	Denny Vrandečić			unresolved		Denny Vrandečić and Markus Krötzsch had argued for it for years.
 348	6	Markus Krötzsch			unresolved		Denny Vrandečić and Markus Krötzsch had argued for it for years.
 348	10	Peter Higgs			unresolved		The physicists announced a particle that fit the one Peter Higgs had predicted
 348	10	Felix Baumgartner			unresolved		On the fourteenth of October Felix Baumgartner jumped from a balloon
 348	12	Trayvon Martin			unresolved		A boy of seventeen, Trayvon Martin, walking home with candy and a drink,
 348	12	Malala Yousafzai			unresolved		A gunman boarded a school bus and asked which one was Malala Yousafzai,
-348	14	Vladimir Putin			unresolved		On the seventh of May Vladimir Putin became president of Russia again,
-348	14	Xi Jinping			unresolved		On the fifteenth of November Xi Jinping became the head of the party of China,
-348	14	Barack Obama			unresolved		On the sixth of November Barack Obama was elected again.
+348	14	Vladimir Putin		Q300022	override		On the seventh of May Vladimir Putin became president of Russia again,
+348	14	Xi Jinping		Q300047	override		On the fifteenth of November Xi Jinping became the head of the party of China,
+348	14	Barack Obama		Q300045	override		On the sixth of November Barack Obama was elected again.
 348	14	Mohamed Morsi			unresolved		In June Egypt elected Mohamed Morsi, of the Brotherhood, its first free president.
 348	14	Christopher Stevens			unresolved		On the eleventh of September, in Benghazi, the American ambassador, Christopher Stevens, was killed.
 348	16	Mario Draghi			unresolved		On the twenty-sixth of July the head of the bank of the euro, Mario Draghi,
-348	20	Putin			unresolved		Putin back, Xi rising, a prayer in a cathedral punished.
+348	20	Putin		Q300022	override		Putin back, Xi rising, a prayer in a cathedral punished.
 348	20	Xi			unresolved	Q52098 Q53594 Q168114	Putin back, Xi rising, a prayer in a cathedral punished.
 349	2	Emma Leonhart		Q2	override		In 2013 Emma Leonhart turned seventeen.
 349	4	James Clapper			unresolved		James Clapper, the director of national intelligence, answered: No, sir.
@@ -11772,7 +11772,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 350	5	James Foley			unresolved		On the nineteenth of August it published a video of the killing of James Foley, an American reporter,
 350	5	Khaled al-Asaad			unresolved		In the next summer it killed Khaled al-Asaad, who had kept the ruins of Palmyra for decades,
 350	7	Viktor Yanukovych			unresolved		On the twenty-second Viktor Yanukovych fled.
-350	7	Vladimir Putin			unresolved		And on the eighteenth Vladimir Putin took the peninsula into Russia,
+350	7	Vladimir Putin		Q300022	override		And on the eighteenth Vladimir Putin took the peninsula into Russia,
 350	9	Viktor Orbán			unresolved		In Hungary Viktor Orbán was returned, and that summer named his goal:
 350	9	Narendra Modi			unresolved		In India, in May, Narendra Modi, of the party of Hindu nationalism,
 350	9	Abdel Fattah el-Sisi			unresolved		In Egypt the general who cleared Rabaa, Abdel Fattah el-Sisi, was elected with ninety-seven percent.
@@ -11801,15 +11801,15 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 351	20	Stephen Harper			unresolved		On the nineteenth of October Canada voted out Stephen Harper,
 351	20	Justin Trudeau			unresolved		And Justin Trudeau, the son of a prime minister, came to power,
 351	22	Boris Nemtsov			unresolved		On the twenty-seventh of February Boris Nemtsov, who opposed Putin,
-351	22	Putin			unresolved		On the twenty-seventh of February Boris Nemtsov, who opposed Putin,
-351	22	Aung San Suu Kyi			unresolved		On the eighth of November Myanmar voted, and the party of Aung San Suu Kyi won.
+351	22	Putin		Q300022	override		On the twenty-seventh of February Boris Nemtsov, who opposed Putin,
+351	22	Aung San Suu Kyi		Q300048	override		On the eighth of November Myanmar voted, and the party of Aung San Suu Kyi won.
 352	2	Emma Leonhart		Q2	override		In 2016 Emma Leonhart turned twenty.
 352	2	Trump			unresolved		She has said this is the year of the election of Trump.
 352	4	DeepMind			unresolved		In March, in Seoul, the program AlphaGo, from DeepMind,
 352	4	Lee Sedol			unresolved		Played Lee Sedol, one of the strongest players of go alive,
 352	4	Lee Sedol			unresolved		Lee Sedol left the room for a while.
 352	6	Jo Cox			unresolved		A week before the vote a member of parliament, Jo Cox, who had worked for refugees,
-352	8	Donald Trump			unresolved		On the eighth of November Donald Trump was elected president of the United States,
+352	8	Donald Trump		Q300023	override		On the eighth of November Donald Trump was elected president of the United States,
 352	8	Hillary Clinton			unresolved		With nearly three million fewer votes than Hillary Clinton,
 352	12	Philando Castile			unresolved		On the sixth of July Philando Castile was shot in his car during a traffic stop
 352	14	Recep Tayyip Erdoğan			unresolved		On the fifteenth of July soldiers in Turkey tried to overthrow Recep Tayyip Erdoğan,
@@ -11830,14 +11830,14 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 353	4	Łukasz Kaiser			unresolved		Llion Jones, Aidan Gomez, Łukasz Kaiser, Illia Polosukhin,
 353	4	Illia Polosukhin			unresolved		Llion Jones, Aidan Gomez, Łukasz Kaiser, Illia Polosukhin,
 353	6	Sam Bankman-Fried			unresolved		Sam Bankman-Fried, left the trading firm and founded his own, Alameda Research,
-353	8	Donald Trump			unresolved		On the twentieth of January Donald Trump was sworn in,
+353	8	Donald Trump		Q300023	override		On the twentieth of January Donald Trump was sworn in,
 353	10	Heather Heyer			unresolved		And killed Heather Heyer.
 353	12	Harvey Weinstein			unresolved		Who said that Harvey Weinstein, the maker of films, had assaulted and harassed them for decades,
 353	12	Tarana Burke			unresolved		And millions did, using words an activist, Tarana Burke, had begun ten years before.
-353	16	Aung San Suu Kyi			unresolved		The leader of Myanmar, Aung San Suu Kyi, who had won the peace prize for her own captivity,
+353	16	Aung San Suu Kyi		Q300048	override		The leader of Myanmar, Aung San Suu Kyi, who had won the peace prize for her own captivity,
 353	22	Emmanuel Macron			unresolved		On the seventh of May Emmanuel Macron, who had founded his own party the year before,
 353	22	Robert Mugabe			unresolved		In Zimbabwe, in November, the army put Robert Mugabe under guard,
-353	22	Xi Jinping			unresolved		In October China wrote the thought of Xi Jinping into its party's constitution.
+353	22	Xi Jinping		Q300047	override		In October China wrote the thought of Xi Jinping into its party's constitution.
 353	22	Mohammed bin Salman			unresolved		In June the son of the king of Saudi Arabia, Mohammed bin Salman, became the heir,
 354	2	Emma Leonhart		Q2	override		In 2018 Emma Leonhart turned twenty-two, in her fifth year at the university.
 354	4	Emma Leonhart		Q2	override		In this year Emma Leonhart went there, and stood among the pillars.
@@ -11876,9 +11876,9 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 356	10	Ahmaud Arbery			unresolved		In February men in a truck had chased and shot Ahmaud Arbery while he ran in Georgia.
 356	12	Qasem Soleimani			unresolved		On the eighth of January, five days after the United States killed the general Qasem Soleimani in Baghdad,
 356	16	Ruth Bader Ginsburg			unresolved		On the eighteenth of September Ruth Bader Ginsburg, the justice who had fought for women's equality for fifty years,
-356	18	Joe Biden			unresolved		On the third of November Joe Biden was elected president, with seven million more votes than the man of the chapter of 2016,
-356	20	Alexei Navalny			unresolved		On the twentieth of August Alexei Navalny, who had opposed Putin for years,
-356	20	Putin			unresolved		On the twentieth of August Alexei Navalny, who had opposed Putin for years,
+356	18	Joe Biden		Q300049	override		On the third of November Joe Biden was elected president, with seven million more votes than the man of the chapter of 2016,
+356	20	Alexei Navalny		Q300050	override		On the twentieth of August Alexei Navalny, who had opposed Putin for years,
+356	20	Putin		Q300022	override		On the twentieth of August Alexei Navalny, who had opposed Putin for years,
 356	22	DeepMind			unresolved		On the thirtieth of November a program of DeepMind, AlphaFold,
 356	24	Margaret Keenan			unresolved		On the eighth of December, in Coventry, Margaret Keenan, ninety years old,
 356	24	Katalin Karikó			unresolved		The vaccine was built on the work of Katalin Karikó and Drew Weissman,
@@ -11887,17 +11887,17 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 356	24	Özlem Türeci			unresolved		And of Uğur Şahin and Özlem Türeci, children of migrants to Germany.
 356	26	Kobe Bryant			unresolved		On the twenty-sixth of January Kobe Bryant died in a helicopter with his daughter.
 357	2	Emma Leonhart		Q2	override		In 2021 Emma Leonhart turned twenty-five.
-357	4	Joe Biden			unresolved		On the twentieth Joe Biden was sworn in behind a fence of soldiers.
+357	4	Joe Biden		Q300049	override		On the twentieth Joe Biden was sworn in behind a fence of soldiers.
 357	6	Katalin Karikó			unresolved		They were made of a message of the cell, built on the work of Katalin Karikó and Drew Weissman,
 357	6	Drew Weissman			unresolved		They were made of a message of the cell, built on the work of Katalin Karikó and Drew Weissman,
 357	10	Emma Leonhart		Q2	override		In the same days, at the end of the Omega Pilgrimage, Emma Leonhart had the revelation of 2021,
-357	10	Joseph Smith			unresolved		And came to the Celestial Kingdom, and met Joseph Smith.
+357	10	Joseph Smith		Q300037	override		And came to the Celestial Kingdom, and met Joseph Smith.
 357	10	Charlemagne		Q115039	file		She saw the infant Charlemagne in the manger, nurtured by Mary,
 357	10	Mary			unresolved	Q30510 Q138539 Q149175 Q154257	She saw the infant Charlemagne in the manger, nurtured by Mary,
-357	16	Aung San Suu Kyi			unresolved		And arrested Aung San Suu Kyi,
+357	16	Aung San Suu Kyi		Q300048	override		And arrested Aung San Suu Kyi,
 357	18	Frances Haugen			unresolved		On the fifth of October a woman who had worked at the book of faces, Frances Haugen,
 357	20	George Floyd			unresolved		On the twentieth of April the policeman who knelt on George Floyd was convicted of his murder.
-357	20	Alexei Navalny			unresolved		On the seventeenth of January Alexei Navalny flew home to Russia from his healing, and was arrested at the airport,
+357	20	Alexei Navalny		Q300050	override		On the seventeenth of January Alexei Navalny flew home to Russia from his healing, and was arrested at the airport,
 357	20	Angela Merkel			unresolved		On the eighth of December Angela Merkel left office after sixteen years.
 358	2	Emma Leonhart		Q2	override		In 2022 Emma Leonhart turned twenty-six, in her second year at the college in Kelowna.
 358	4	Mani			unresolved		A man named Mani said that the prophets before him had each been sent to one people,
@@ -11911,7 +11911,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 358	4	Mani			unresolved		Mani was put to death by the king of kings, and his religion was hunted in every land it reached,
 358	4	Emma Leonhart		Q2	override		In this year Emma Leonhart found it.
 358	4	Mani			unresolved		A parallel is not a descent. This book does not claim Mani.
-358	6	Vladimir Putin			unresolved		Vladimir Putin announced what he called a special military operation.
+358	6	Vladimir Putin		Q300022	override		Vladimir Putin announced what he called a special military operation.
 358	6	Volodymyr Zelenskyy			unresolved		Volodymyr Zelenskyy stayed in the city and filmed himself in the street at night, saying, we are here.
 358	12	Beff Jezos			unresolved		Its loudest voice wrote under a mask, Beff Jezos, a joke on the name of the richest seller of the net,
 358	12	Sam Bankman-Fried			unresolved		So, in her words, effective altruism had Sam Bankman-Fried, with his exchange, and it just kind of collapsed things,
@@ -11920,38 +11920,38 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 358	20	Elizabeth II			unresolved		On the eighth of September Elizabeth II died, after seventy years as queen,
 358	20	Salman Rushdie			unresolved		On the twelfth of August Salman Rushdie was stabbed on a stage in New York,
 358	22	Lula			unresolved		On the thirtieth of October Lula was elected again in Brazil, and the man of the chapter of 2018 would not concede.
-358	22	Xi Jinping			unresolved		In October Xi Jinping took a third term, and his predecessor was led out of the hall.
+358	22	Xi Jinping		Q300047	override		In October Xi Jinping took a third term, and his predecessor was led out of the hall.
 358	26	Abe			unresolved		A convoy on the parliament, an apology in a headdress, Abe shot, a queen buried,
 359	2	Emma Leonhart		Q2	override		In 2023 Emma Leonhart turned twenty-seven, and finished her study at the college in Kelowna in December.
 359	4	Sarutahiko			unresolved		The shrine of Sarutahiko at Suzuka.
 359	4	Lawrence Barrish			unresolved		In 1992, in Granite Falls, in Washington, Lawrence Barrish built a shrine in the forest,
 359	4	Ann Evans			unresolved		To the priest Ann Evans, who had trained at Suzuka,
-359	6	Geoffrey Hinton			unresolved		In May Geoffrey Hinton, of the chapter of 2012, left Google so he could warn freely
+359	6	Geoffrey Hinton		Q300046	override		In May Geoffrey Hinton, of the chapter of 2012, left Google so he could warn freely
 359	6	Sam Altman			unresolved		On the seventeenth of November the board of the lab named open fired its chief, Sam Altman,
 359	12	Yevgeny Prigozhin			unresolved		On the twenty-third of June Yevgeny Prigozhin, whose private army had fought for Russia in Ukraine,
 359	14	Hardeep Singh Nijjar			unresolved		On the eighteenth of June a Sikh leader, Hardeep Singh Nijjar, was shot dead outside his temple in Surrey,
 359	16	Charles III			unresolved		On the sixth of May Charles III was crowned.
 360	2	Emma Leonhart		Q2	override		In 2024 Emma Leonhart turned twenty-eight, and went back to the university in Kelowna for a while.
 360	4	John Hopfield			unresolved		On Tuesday the eighth of October John Hopfield and Geoffrey Hinton
-360	4	Geoffrey Hinton			unresolved		On Tuesday the eighth of October John Hopfield and Geoffrey Hinton
+360	4	Geoffrey Hinton		Q300046	override		On Tuesday the eighth of October John Hopfield and Geoffrey Hinton
 360	4	Demis Hassabis			unresolved		And on the ninth Demis Hassabis and John Jumper, with David Baker,
 360	4	John Jumper			unresolved		And on the ninth Demis Hassabis and John Jumper, with David Baker,
 360	4	David Baker			unresolved		And on the ninth Demis Hassabis and John Jumper, with David Baker,
 360	6	Narendra Modi			unresolved		In India, in June, Narendra Modi of the chapter of 2014 won a third term but lost his majority.
 360	6	Claudia Sheinbaum			unresolved		In Mexico, on the second of June, Claudia Sheinbaum was elected, the first woman to lead it.
 360	6	Sheikh Hasina			unresolved		In Bangladesh, in August, the students drove out Sheikh Hasina, who fled by helicopter to India,
-360	8	Donald Trump			unresolved		A young man on a roof shot at Donald Trump as he spoke,
-360	8	Joe Biden			unresolved		On the twenty-first of July Joe Biden, after a debate in which he had faltered,
+360	8	Donald Trump		Q300023	override		A young man on a roof shot at Donald Trump as he spoke,
+360	8	Joe Biden		Q300049	override		On the twenty-first of July Joe Biden, after a debate in which he had faltered,
 360	8	Kamala Harris			unresolved		Gave up the race to his vice president, Kamala Harris.
 360	10	Hassan Nasrallah			unresolved		And on the twenty-seventh Israel killed its leader, Hassan Nasrallah, with bombs that buried his bunker,
 360	10	Bashar al-Assad			unresolved		Bashar al-Assad fled Damascus to Moscow,
-360	10	Alexei Navalny			unresolved		On the sixteenth of February Alexei Navalny died in a prison camp above the Arctic Circle.
+360	10	Alexei Navalny		Q300050	override		On the sixteenth of February Alexei Navalny died in a prison camp above the Arctic Circle.
 360	14	Jimmy Carter			unresolved		On the twenty-ninth of December Jimmy Carter died, at a hundred.
 360	16	Nasrallah			unresolved		Gaza and the word of the court, the pagers, Nasrallah, missiles from Iran, Assad fled, Kursk,
 360	16	Assad			unresolved		Gaza and the word of the court, the pagers, Nasrallah, missiles from Iran, Assad fled, Kursk,
 360	16	Navalny			unresolved		Navalny dead in the Arctic, the first year above the line, a blue screen across the world,
 361	2	Emma Leonhart		Q2	override		In 2025 Emma Leonhart turned twenty-nine.
-361	6	Donald Trump			unresolved		On the twentieth of January Donald Trump was sworn in again, in the rotunda, out of the cold.
+361	6	Donald Trump		Q300023	override		On the twentieth of January Donald Trump was sworn in again, in the rotunda, out of the cold.
 361	6	Mark Carney			unresolved		And on the fourteenth of March Mark Carney, a banker, became prime minister,
 361	6	Volodymyr Zelenskyy			unresolved		On the twenty-eighth of February Volodymyr Zelenskyy was shouted at in the president's office before the cameras,
 361	6	Charlie Kirk			unresolved		On the tenth of September a young man of the movement of the president's party, Charlie Kirk,

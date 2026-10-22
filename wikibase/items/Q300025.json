@@ -1,0 +1,68 @@
+{
+  "type": "item",
+  "id": "Q300025",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Mentuhotep II"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Egyptian pharaoh of the 11th Dynasty; record created 2026-10-21 for the Gaiad's tags, from Wikidata Q296439"
+    }
+  },
+  "claims": {
+    "P61": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P61",
+          "datavalue": {
+            "value": "Q296439",
+            "type": "string"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P55": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P55",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P20": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P20",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q85985",
+              "numeric-id": 85985
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ]
+  }
+}

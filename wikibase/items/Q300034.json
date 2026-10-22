@@ -1,0 +1,50 @@
+{
+  "type": "item",
+  "id": "Q300034",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Charles VII of France"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "monarch of the House of Valois who ruled as King of France (1403-1461); record created 2026-10-21 for the Gaiad's tags, from Wikidata Q133372"
+    }
+  },
+  "claims": {
+    "P61": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P61",
+          "datavalue": {
+            "value": "Q133372",
+            "type": "string"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P55": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P55",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ]
+  }
+}

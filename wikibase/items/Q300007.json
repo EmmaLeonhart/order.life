@@ -1,0 +1,50 @@
+{
+  "type": "item",
+  "id": "Q300007",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Thutmose III"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "sixth Egyptian Pharaoh of the Eighteenth Dynasty; record created 2026-10-21 for the Gaiad's tags, from Wikidata Q157899"
+    }
+  },
+  "claims": {
+    "P61": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P61",
+          "datavalue": {
+            "value": "Q157899",
+            "type": "string"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P55": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P55",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ]
+  }
+}

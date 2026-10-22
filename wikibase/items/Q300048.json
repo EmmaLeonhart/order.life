@@ -1,0 +1,50 @@
+{
+  "type": "item",
+  "id": "Q300048",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Aung San Suu Kyi"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "former State Counsellor of Myanmar and Leader of the National League for Democracy; record created 2026-10-21 for the Gaiad's tags, from Wikidata Q36740"
+    }
+  },
+  "claims": {
+    "P61": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P61",
+          "datavalue": {
+            "value": "Q36740",
+            "type": "string"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P55": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P55",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ]
+  }
+}

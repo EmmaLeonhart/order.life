@@ -1,0 +1,50 @@
+{
+  "type": "item",
+  "id": "Q300002",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Rāvaṇa"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "King of Lankā in the Hindu epic Ramayana; record created 2026-10-21 for the Gaiad's tags, from Wikidata Q235102"
+    }
+  },
+  "claims": {
+    "P61": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P61",
+          "datavalue": {
+            "value": "Q235102",
+            "type": "string"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P55": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P55",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ]
+  }
+}

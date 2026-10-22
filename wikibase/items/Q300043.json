@@ -1,0 +1,50 @@
+{
+  "type": "item",
+  "id": "Q300043",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Osama bin Laden"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "founder of al-Qaeda (1957–2011); record created 2026-10-21 for the Gaiad's tags, from Wikidata Q1317"
+    }
+  },
+  "claims": {
+    "P61": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P61",
+          "datavalue": {
+            "value": "Q1317",
+            "type": "string"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P55": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P55",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ]
+  }
+}

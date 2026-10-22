@@ -1,0 +1,50 @@
+{
+  "type": "item",
+  "id": "Q300005",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Napoleon"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "French military leader, French Emperor 1804–1814 and again in 1815 (1769–1821); record created 2026-10-21 for the Gaiad's tags, from Wikidata Q517"
+    }
+  },
+  "claims": {
+    "P61": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P61",
+          "datavalue": {
+            "value": "Q517",
+            "type": "string"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P55": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P55",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ]
+  }
+}
