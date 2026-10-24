@@ -40,10 +40,10 @@ of orthodox Christian theology:
 one {{c|God}}, three persons, {{c|Father}}, {{c|Son}}, {{c|Spirit}},
 consubstantial, coeternal trinity.
 
-{{c|Constantine}} was baptized on his deathbed.
-Whether sincere or political, who can say?
-His mother {{c|Helena}} went to {{p|Jerusalem}},
-found (she said) the {{x|True Cross}} where it lay.
+{{c|Constantine}} was baptized on his deathbed,
+a {{x|Christian}} at the last, and passed away.
+His mother {{c|Helena}} went to {{p|Jerusalem}}
+and found the {{x|True Cross}} where it lay.
 
 After {{c|Constantine}}, his sons divided
 the empire, fought civil wars, returned
@@ -141,9 +141,14 @@ that {{c|Theodoric}} had kept in peace.
 and when the war was won, the ruin did not cease:
 
 in five-sixty-eight the {{c|Lombards}} came.
-That is why there is no emperor of the {{p|West}} after him.
+That is why the {{p|West}} had no emperor after him.
 {{c|Justinian}} ended the line, and took the {{p|West}} himself,
 and held it from the {{p|East}}, its edges growing dim.
+
+The throne of the {{p|West}} stood empty from {{c|Theodoric}}
+to {{c|Charlemagne}}, near three hundred years: an interregnum, not an end.
+Through all of them {{p|Constantinople}} held the {{p|West}},
+and kept the empty chair, as a house keeps one for a friend.
 
 And {{p|Rome}} never fell. The empire did not end.
 It was ruled from {{p|Constantinople}}, the {{p|New Rome}}, as before,

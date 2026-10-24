@@ -1,9 +1,9 @@
 # Chapter 195: Charlemagne and Byzantium
 
-In the West, after {{p|Rome}} had fallen,
-the {{c|Franks}} rose to fill the void.
+In the {{p|West}}, in {{c|Theodoric}}'s time and after,
+while {{p|Constantinople}} held the empty throne, the {{c|Franks}} grew.
 {{c|Clovis I}} in the late fifth century
-had converted to orthodox {{x|Christianity}}, enjoyed.
+took the {{x|Nicene}} faith, as the {{c|Goths}} kept the {{x|Arian}}, as true.
 
 His descendants, the {{c|Merovingians}}, ruled
 for three centuries, but became weak,
@@ -41,9 +41,9 @@ Monasteries copied classical manuscripts
 that would have otherwise been lost in crime.
 
 On Christmas Day 800, {{c|Pope}} {{c|Leo III}}
-crowned {{c|Charlemagne}} {{c|Imperator Romanorum}},
-Emperor of the {{c|Romans}}, in {{p|St. Peter's}},
-reviving the {{p|Western Empire}}, its forum.
+crowned {{c|Charlemagne}} {{c|Imperator Romanorum}}.
+The throne of the {{p|West}}, empty since {{c|Theodoric}},
+had an emperor again, in {{p|St. Peter's}} forum.
 
 This offended {{p|Constantinople}}, where the
 Byzantine Empress {{c|Irene}} held the throne.
@@ -51,9 +51,9 @@ She claimed to be the only legitimate Roman emperor.
 Her title was challenged by the {{c|Frank}} unknown.
 
 The {{c|Byzantines}} never accepted the Frankish claim.
-"{{p|Holy Roman Empire}}" as the {{c|Franks}} called it,
-was considered in {{p|Byzantium}} a joke,
-the barbarians pretending to be the successor of unit.
+Since {{c|Theodoric}}, {{p|Constantinople}} had held the {{p|West}}
+as the one {{p|Roman}} Empire across the empty throne,
+and would not give a {{c|Frank}} the crown it possessed.
 
 {{p|Byzantium}} itself was in a period of flux.
 {{c|Iconoclasm}} had erupted in the 720s,
