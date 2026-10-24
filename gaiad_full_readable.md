@@ -40167,10 +40167,10 @@ of orthodox Christian theology:
 one God, three persons, Father, Son, Spirit,
 consubstantial, coeternal trinity.
 
-Constantine was baptized on his deathbed.
-Whether sincere or political, who can say?
-His mother Helena went to {{p|Jerusalem}},
-found (she said) the {{x|True Cross}} where it lay.
+Constantine was baptized on his deathbed,
+a {{x|Christian}} at the last, and passed away.
+His mother Helena went to {{p|Jerusalem}}
+and found the {{x|True Cross}} where it lay.
 
 After Constantine, his sons divided
 the empire, fought civil wars, returned
@@ -40268,9 +40268,14 @@ that Theodoric had kept in peace.
 and when the war was won, the ruin did not cease:
 
 in five-sixty-eight the Lombards came.
-That is why there is no emperor of the {{p|West}} after him.
+That is why the {{p|West}} had no emperor after him.
 Justinian ended the line, and took the {{p|West}} himself,
 and held it from the {{p|East}}, its edges growing dim.
+
+The throne of the {{p|West}} stood empty from Theodoric
+to Charlemagne, near three hundred years: an interregnum, not an end.
+Through all of them {{p|Constantinople}} held the {{p|West}},
+and kept the empty chair, as a house keeps one for a friend.
 
 And {{p|Rome}} never fell. The empire did not end.
 It was ruled from {{p|Constantinople}}, the {{p|New Rome}}, as before,
@@ -41132,10 +41137,10 @@ But for the medieval period, they were one vocation.
 
 # Chapter 195: Charlemagne and Byzantium
 
-In the West, after {{p|Rome}} had fallen,
-the Franks rose to fill the void.
+In the {{p|West}}, in Theodoric's time and after,
+while {{p|Constantinople}} held the empty throne, the Franks grew.
 Clovis I in the late fifth century
-had converted to orthodox {{x|Christianity}}, enjoyed.
+took the {{x|Nicene}} faith, as the Goths kept the {{x|Arian}}, as true.
 
 His descendants, the Merovingians, ruled
 for three centuries, but became weak,
@@ -41173,9 +41178,9 @@ Monasteries copied classical manuscripts
 that would have otherwise been lost in crime.
 
 On Christmas Day 800, Pope Leo III
-crowned Charlemagne Imperator Romanorum,
-Emperor of the Romans, in {{p|St. Peter's}},
-reviving the {{p|Western Empire}}, its forum.
+crowned Charlemagne Imperator Romanorum.
+The throne of the {{p|West}}, empty since Theodoric,
+had an emperor again, in {{p|St. Peter's}} forum.
 
 This offended {{p|Constantinople}}, where the
 Byzantine Empress Irene held the throne.
@@ -41183,9 +41188,9 @@ She claimed to be the only legitimate Roman emperor.
 Her title was challenged by the Frank unknown.
 
 The Byzantines never accepted the Frankish claim.
-"{{p|Holy Roman Empire}}" as the Franks called it,
-was considered in {{p|Byzantium}} a joke,
-the barbarians pretending to be the successor of unit.
+Since Theodoric, {{p|Constantinople}} had held the {{p|West}}
+as the one {{p|Roman}} Empire across the empty throne,
+and would not give a Frank the crown it possessed.
 
 {{p|Byzantium}} itself was in a period of flux.
 Iconoclasm had erupted in the 720s,
