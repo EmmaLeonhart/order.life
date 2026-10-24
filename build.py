@@ -748,9 +748,12 @@ def _ical_fold(line):
         return line + "\r\n"
     chunks, pos, first = [], 0, True
     while pos < len(encoded):
-        limit = 75 if first else 74
-        chunks.append(encoded[pos:pos + limit].decode("utf-8", errors="replace"))
-        pos += limit
+        end = min(pos + (75 if first else 74), len(encoded))
+        # Never split inside a multi-byte character (emoji, accents): back up to a lead byte
+        while end < len(encoded) and (encoded[end] & 0xC0) == 0x80:
+            end -= 1
+        chunks.append(encoded[pos:end].decode("utf-8"))
+        pos = end
         first = False
     return "\r\n ".join(chunks) + "\r\n"
 
@@ -788,9 +791,9 @@ def _ancestor_lines(month_num, day_num):
     """iCal lines for a day: the /ancestors/<day>/ link, then one line per birth and per death."""
     doy = _ancestor_doy(month_num, day_num)
     day = _ANCESTOR_DAYS.get(str(doy), {})
-    lines = [f"ancestors: https://order.life/ancestors/{doy}/"]
-    lines += [f"Born: {e['name']} ({_ancestor_when(e)})" for e in day.get("births", [])]
-    lines += [f"Died: {e['name']} ({_ancestor_when(e)})" for e in day.get("deaths", [])]
+    lines = [f"\U0001F333 ancestors: https://order.life/ancestors/{doy}/"]
+    lines += [f"\U0001F331 Born: {e['name']} ({_ancestor_when(e)})" for e in day.get("births", [])]
+    lines += [f"\U0001F940 Died: {e['name']} ({_ancestor_when(e)})" for e in day.get("deaths", [])]
     return lines
 
 
@@ -1189,15 +1192,20 @@ def gaian_day_description(gaian_year, month_num, day_num):
 
     iso_year = gaian_year - 10000
 
-    # Sentence 1: Day identification
+    # Line 1: the day, with the Gaian and Gregorian dates side by side
+    greg = f"{gd.day} {gd:%B %Y}"
     if month_num <= 13:
         chapter = (month_num - 1) * 28 + day_num
-        intro = (f"{month_disp} {day_num}, {gaian_year} GE is the "
-                 f"{_ordinal(chapter)} day of {gaian_year} GE, a {weekday_name}.")
+        intro = (f"\U0001F4C5 {weekday_name}, {month_disp} {day_num}, {gaian_year} GE "
+                 f"({_ordinal(chapter)} day) · {greg}")
     else:
         chapter = None
-        intro = (f"Horus {day_num}, {gaian_year} GE is an intercalary {weekday_name} "
-                 f"of {gaian_year} GE.")
+        intro = (f"\U0001F4C5 {weekday_name}, Horus {day_num}, {gaian_year} GE "
+                 f"(intercalary) · {greg}")
+    # Fridays to Sundays are the three Sabbaths; Friday's begins with the 5pm candle lighting
+    sabbath = {"Friday": "\U0001F56F️ Sabbath: candles at 5pm Pacific; \U0001F54C Jummah at 1pm",
+               "Saturday": "\U0001F54A️ Sabbath",
+               "Sunday": "\U0001F54A️ Sabbath"}.get(weekday_name, "")
 
     # Collect notable events/seasons on this day
     notable = []
@@ -1254,21 +1262,12 @@ def gaian_day_description(gaian_year, month_num, day_num):
     except Exception:
         pass
 
-    # Sentence 2: Auspicious combination
-    if notable:
-        if len(notable) == 1:
-            auspicious = f"It marks {notable[0]}."
-        elif len(notable) == 2:
-            auspicious = f"It is an auspicious combination of {notable[0]} and {notable[1]}."
-        else:
-            listed = ", ".join(notable[:-1]) + ", and " + notable[-1]
-            auspicious = f"It is an auspicious combination of {listed}."
-    else:
-        auspicious = ""
+    # Line 2: what the day marks
+    auspicious = ("✨ " + " · ".join(notable)) if notable else ""
 
-    # Gaiad reading link — plain URL at the end
+    # Gaiad reading link: a short labelled line at the end
     if chapter and chapter <= 364:
-        reading = f"reading: https://order.life/gaiad/{chapter:03d}/"
+        reading = f"\U0001F4D6 reading: https://order.life/gaiad/{chapter:03d}/"
     else:
         reading = ""
 
@@ -1279,8 +1278,25 @@ def gaian_day_description(gaian_year, month_num, day_num):
     summary = _CHAPTER_SUMMARIES.get(chapter, "") if chapter else ""
     if summary:
         custom = _strip_chapter_sentences(custom)
-        summary = f"Gaiad chapter {chapter}: {summary}"
-    return " ".join(p for p in [intro, auspicious, custom, summary, reading] if p)
+        title = _chapter_title(chapter)
+        summary = f"\U0001F4DC Gaiad {chapter}{', ' + title if title else ''}: {summary}"
+    return "\n".join(p for p in [intro, sabbath, auspicious, custom, summary, reading] if p)
+
+
+_CHAPTER_TITLE_CACHE = {}
+
+
+def _chapter_title(chapter):
+    """A chapter's title from its heading ("# Chapter 299: The Gate and the Glory"), or "" if it has none."""
+    if chapter not in _CHAPTER_TITLE_CACHE:
+        title = ""
+        path = EPIC_DIR / f"chapter_{chapter:03d}.md"
+        if path.exists():
+            first = path.read_text(encoding="utf-8").split("\n", 1)[0]
+            m = re.match(r'^#\s+(?:Chapter\s+\d+:\s*)?(.*)', TAG_RE.sub(r'\1', first))
+            title = m.group(1).strip() if m else ""
+        _CHAPTER_TITLE_CACHE[chapter] = title
+    return _CHAPTER_TITLE_CACHE[chapter]
 
 
 _CHAPTER_SENTENCE_RE = re.compile(
@@ -1405,6 +1421,9 @@ def _ical_year_daily(gy, month_display, lang="en"):
                      if lang == "ja" else m["id"].capitalize())
             day_fmt = f"{dn}日" if lang == "ja" else f"{dn},"
             summary = f"{m['symbol']} {mname} {day_fmt} {gy} GE"
+            title = _chapter_title((mn - 1) * 28 + dn) if mn <= 13 else ""
+            if title:
+                summary += f" · \U0001F4D6 {title}"
             desc    = "\n".join([gaian_day_description(gy, mn, dn)] + _ancestor_lines(mn, dn))
             uid     = f"gaian-{gy}-{mn:02d}-{dn:02d}-daily@order.life"
             events.append((gd, _vevent(gd, summary, desc, uid)))
@@ -1473,6 +1492,60 @@ def _ical_year_seasons(gy, lang="en"):
     return events
 
 
+# The daily prayers, timed on Pacific time (the site's own clock, site_today()) and repeated by RRULE so they
+# cost a few lines rather than one event a day. Emma, 2026-10-23: "noon prayers for every place", "5pm candle
+# lighting", "Jummah whenever on Friday it is appropriate", "Noon and 5pm prayers all time". Jummah is held in
+# the noon (Dhuhr) hour; 1pm is the usual congregation time.
+_ICAL_TZ_PACIFIC = (
+    "BEGIN:VTIMEZONE\r\nTZID:America/Los_Angeles\r\n"
+    "BEGIN:DAYLIGHT\r\nTZOFFSETFROM:-0800\r\nTZOFFSETTO:-0700\r\nTZNAME:PDT\r\n"
+    "DTSTART:19700308T020000\r\nRRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU\r\nEND:DAYLIGHT\r\n"
+    "BEGIN:STANDARD\r\nTZOFFSETFROM:-0700\r\nTZOFFSETTO:-0800\r\nTZNAME:PST\r\n"
+    "DTSTART:19701101T020000\r\nRRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU\r\nEND:STANDARD\r\n"
+    "END:VTIMEZONE\r\n"
+)
+
+# (uid key, hour, minutes long, BYDAY or None for daily, summary en, summary ja, description en)
+_ICAL_PRAYERS = [
+    ("noon", 12, 15, None, "\U0001F55B Noon prayer", "\U0001F55B \u6b63\u5348\u306e\u7948\u308a",
+     "\U0001F55B The noon prayer, every day at 12:00 Pacific.\n\U0001F4D6 the readings: https://order.life/gaiad/"),
+    ("five", 17, 15, None, "\U0001F554 5pm prayer", "\U0001F554 \u5348\u5f8c5\u6642\u306e\u7948\u308a",
+     "\U0001F554 The evening prayer, every day at 17:00 Pacific.\n\U0001F4C5 calendar: https://order.life/calendar/"),
+    ("candles", 17, 15, "FR", "\U0001F56F\uFE0F Sabbath candle lighting",
+     "\U0001F56F\uFE0F \u5b89\u606f\u65e5\u306e\u30ad\u30e3\u30f3\u30c9\u30eb\u70b9\u706f",
+     "\U0001F56F\uFE0F Light the candles at 5pm Pacific: the three Sabbaths, Friday to Sunday, begin.\n"
+     "\U0001F4C5 the week: https://order.life/calendar/week/"),
+    ("jummah", 13, 60, "FR", "\U0001F54C Jummah", "\U0001F54C \u30b8\u30e5\u30e0\u30a2\uff08\u91d1\u66dc\u793c\u62dd\uff09",
+     "\U0001F54C Friday congregational prayer, in the noon hour.\n\U0001F4C5 the week: https://order.life/calendar/week/"),
+]
+
+
+def _ical_prayers(first_day, lang="en"):
+    """The timed prayer events as recurring VEVENT strings, starting on first_day (a date)."""
+    out = []
+    for key, hour, minutes, byday, summ_en, summ_ja, desc in _ICAL_PRAYERS:
+        start = first_day
+        if byday == "FR":
+            start += datetime.timedelta(days=(4 - first_day.weekday()) % 7)
+        begin = datetime.datetime.combine(start, datetime.time(hour))
+        end = begin + datetime.timedelta(minutes=minutes)
+        rrule = "RRULE:FREQ=WEEKLY;BYDAY=FR" if byday else "RRULE:FREQ=DAILY"
+        desc_esc = desc.replace("\\", "\\\\").replace(",", "\\,").replace("\n", "\\n")
+        lines = [
+            "BEGIN:VEVENT",
+            f"DTSTART;TZID=America/Los_Angeles:{begin:%Y%m%dT%H%M%S}",
+            f"DTEND;TZID=America/Los_Angeles:{end:%Y%m%dT%H%M%S}",
+            rrule,
+            f"SUMMARY:{summ_ja if lang == 'ja' else summ_en}",
+            f"DESCRIPTION:{desc_esc}",
+            "DTSTAMP:20261023T000000Z",
+            f"UID:prayer-{key}@order.life",
+            "END:VEVENT",
+        ]
+        out.append("".join(_ical_fold(l) for l in lines))
+    return out
+
+
 def generate_ical_files(site_dir):
     """Generate Gaian Calendar .ics files into site/calendar/ical/."""
     ical_dir = site_dir / "calendar" / "ical"
@@ -1491,6 +1564,7 @@ def generate_ical_files(site_dir):
             "caldesc":  "Gaian perpetual calendar: daily events, holidays, Lent and Eastertide",
             "daily":    True,
             "seasons":  True,
+            "prayers":  True,
             "lang":     "en",
         },
         "current_ja.ics": {
@@ -1499,6 +1573,7 @@ def generate_ical_files(site_dir):
             "caldesc":  "ガイア暦：日々の出来事、祭日、四旬節と復活節",
             "daily":    True,
             "seasons":  True,
+            "prayers":  True,
             "lang":     "ja",
         },
         "gaian-holidays-extended.ics": {
@@ -1534,7 +1609,12 @@ def generate_ical_files(site_dir):
             "CALSCALE:GREGORIAN\r\n"
             "METHOD:PUBLISH\r\n"
         )
-        content = header + "".join(ev for _, ev in events) + "END:VCALENDAR\r\n"
+        if cfg.get("prayers"):
+            first_gy = next(gy for gy in cfg["years"] if gy - 10000 >= 1)
+            prayers = _ICAL_TZ_PACIFIC + "".join(_ical_prayers(_gaian_day_to_greg(first_gy, 1, 1), lang))
+        else:
+            prayers = ""
+        content = header + prayers + "".join(ev for _, ev in events) + "END:VCALENDAR\r\n"
         (ical_dir / filename).write_bytes(content.encode("utf-8"))
         print(f"  iCal {filename}: {len(events)} events")
 
