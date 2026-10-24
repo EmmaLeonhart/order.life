@@ -4240,8 +4240,8 @@ homoousios with the {{c|Father}}, the same grade.
 
 {{c|Constantine}} pushed for consensus. The creed
 was written. {{x|Homoousios}} won the day.
-{{x|Arianism}} was condemned, though it would
-persist among the {{c|Goths}} for centuries to stay.
+{{x|Arianism}} was voted down, not disproved; it would
+live on among the {{c|Goths}} as their faith, and stay.
 
 The {{x|Nicene Creed}} became the foundation
 of orthodox Christian theology:
@@ -4271,7 +4271,7 @@ The {{x|Olympic Games}} were ended, purely.
 The {{c|Visigoths}} sacked {{p|Rome}} in four-ten
 under {{c|Alaric}}. The unthinkable happened.
 The city that had not fallen in eight centuries
-was looted by barbarians now unchained.
+was looted by a Gothic army unrestrained.
 
 {{c|Augustine}} wrote {{c|The City of God}}
 in response — {{p|Rome}} had fallen because
@@ -4279,49 +4279,109 @@ it trusted in earthly power, not heavenly.
 The true City endured beyond human laws.
 
 The {{c|Vandals}} sacked {{p|Rome}} again in four-fifty-five.
-The {{p|Western Empire}} was fragmenting fast.
-{{p|Britain}} was abandoned. {{p|Gaul}} filled with {{c|Franks}}.
-{{p|Spain}} filled with {{c|Visigoths}} from {{p|Rome}}'s past.
+Generals made and unmade the emperors of the {{p|West}}.
+{{p|Britain}} was let go. {{p|Gaul}} filled up with {{c|Franks}},
+{{p|Spain}} with {{c|Visigoths}}, who settled there to rest.
 
-{{c|Romulus Augustulus}}, a child emperor
-with a diminutive name ironic in sum,
-was deposed by the Gothic general
-{{c|Odoacer}} in four-seventy-six. {{p|Rome}} was done.
+{{c|Orestes}} crowned his son, a boy, in four-seventy-five:
+{{c|Romulus Augustulus}}, the little emperor.
+{{c|Odoacer}} killed {{c|Orestes}}, put the boy away,
+and took {{p|Italy}} for himself the year after.
 
-Or rather, the {{p|Western Roman Empire}} was done.
-The {{p|Eastern Empire}} at {{p|Constantinople}}
-continued for a thousand years more
-as {{p|Byzantium}}, Greek-speaking, ecclesiastical.
+He sent the purple to {{p|Constantinople}}
+and called himself a king, by no one's leave.
+{{c|Odoacer}} was a usurper. That is all he was:
+a soldier with a crown he did not receive.
 
-{{c|Justinian}} would briefly reconquer
-parts of the West in the sixth century,
-taking {{p|Italy}} back from the {{c|Goths}}, {{p|North Africa}}
-from the {{c|Vandals}}, with {{c|Belisarius}}' bravery.
+{{p|Rome}} did not fall in four-seventy-six.
+The empire stood. Its emperor in the {{p|East}},
+{{c|Zeno}}, held the {{p|West}} by right, and he
+sent a {{p|Roman}} west to end the usurper's feast.
 
-He codified Roman law as the {{x|Corpus Juris Civilis}},
+That {{p|Roman}} was {{c|Theodoric}}, a {{c|Goth}},
+raised in {{p|Constantinople}} from a hostage boy,
+made consul, made patrician, made {{c|Zeno}}'s son-at-arms,
+and sent to {{p|Italy}} in four-eighty-eight in his employ.
+
+He beat {{c|Odoacer}} at the {{p|Isonzo}} and {{p|Verona}},
+held him in {{p|Ravenna}} three years long,
+and in four-ninety-three, at a feast, he killed him
+with his own hand, and so undid the usurper's wrong.
+
+{{c|Flavius Theodoricus}} ruled the {{p|West}}
+from four-ninety-three to five-twenty-six.
+{{c|Anastasius}} sent him back the palace regalia
+{{c|Odoacer}} had sent away in four-seventy-six.
+
+He was the emperor. Not a king who borrowed {{p|Rome}},
+not a {{c|Goth}} in a toga: the emperor of the {{p|West}},
+the last one. The {{x|Senate}} sat, the consuls served,
+the law was {{p|Roman}} law, and {{p|Italy}} had thirty years of rest.
+
+He ruled {{p|Spain}} for his grandson, held the {{c|Franks}} at bay,
+married his kin to the kings of all the {{p|West}},
+built in {{p|Ravenna}} the palace and its church,
+and lies there in the tomb a single stone has dressed.
+
+The {{c|Germans}} kept him as {{c|Dietrich von Bern}},
+{{c|Dietrich}} of {{p|Verona}}, sung for a thousand years.
+The {{p|Romans}} called him {{c|Flavius Theodoricus}}.
+He is one man: the last emperor of the {{p|West}}, without peers.
+
+He was an {{x|Arian}}, as the {{c|Goths}} had been
+since {{c|Ulfilas}} first gave them scripture in their tongue.
+{{x|Arianism}} is a true {{x|Christianity}}, as true as {{x|Nicaea}}'s.
+Holding it, he did not break from {{p|Rome}}, nor do it wrong.
+
+He left the {{x|Catholics}} their churches and their bishops.
+When mobs in {{p|Rome}} and {{p|Ravenna}} burned the {{c|Jews}}' synagogues down,
+he made the cities pay to raise them up again.
+That was the justice of the emperor's crown.
+
+{{c|Justinian}} would not suffer a {{c|Goth}} to rule the {{p|West}}.
+His war on {{p|Italy}} in five-thirty-five
+was racism: to him the {{c|Goths}} were barbarians and heretics,
+and he would not let a {{c|Gothic}} emperor's line survive.
+
+Twenty years his armies burned the peninsula
+that {{c|Theodoric}} had kept in peace.
+{{p|Rome}} was besieged and emptied, sacked and sacked again,
+and when the war was won, the ruin did not cease:
+
+in five-sixty-eight the {{c|Lombards}} came.
+That is why there is no emperor of the {{p|West}} after him.
+{{c|Justinian}} ended the line, and took the {{p|West}} himself,
+and held it from the {{p|East}}, its edges growing dim.
+
+And {{p|Rome}} never fell. The empire did not end.
+It was ruled from {{p|Constantinople}}, the {{p|New Rome}}, as before,
+the {{p|West}} and {{p|Rome}} itself its own, and it went on
+as the {{p|Roman}} Empire for a thousand years more.
+
+{{c|Justinian}} codified {{p|Roman}} law as the {{x|Corpus Juris Civilis}},
 built the {{c|Hagia Sophia}} in {{p|Constantinople}},
 closed the {{x|Academy of Athens}} which had run
 for nine hundred years as philosophy's steeple.
 
-The Platonic philosophers fled to {{p|Persia}}
+The Platonic philosophers fled to {{p|Persia}},
 to {{c|Khosrow I}}, who welcomed them kindly,
-though they eventually returned homeward
-under guarantee of tolerance, blindly.
+though they returned at last to {{p|Roman}} ground
+when he wrote their freedom into the peace, binding.
 
-{{c|Justinian}}'s reconquest exhausted the East.
+{{c|Justinian}}'s wars exhausted the empire.
 The plague of {{c|Justinian}} killed millions.
-The Sassanid wars drained what remained.
-The {{c|Arabs}} would strike these weakened civilians.
+The {{c|Sassanid}} wars drained what remained.
+The {{c|Arabs}} would strike its weakened provinces and civilians.
 
 But that is the next arc. For now, mark
-the transition: the classical world ended.
-The {{p|Western Roman Empire}} fell.
-{{x|Christianity}} became what {{p|Rome}} defended.
+the turn: the classical world ended,
+the {{p|West}} lost its last emperor to {{c|Justinian}},
+and {{x|Christianity}} became what {{p|Rome}} defended.
 
 The old gods were gone from public life.
 The temples were churches or ruins now.
-A new Christian civilization was forming
-on the old Roman frame, altered somehow.
+A new {{x|Christian}} civilization was forming
+on the old {{p|Roman}} frame, altered somehow.
 
 
 # Chapter 188: The Fall of Han
