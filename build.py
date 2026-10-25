@@ -1555,11 +1555,17 @@ _ICAL_TZ_PACIFIC = (
 )
 
 # (uid key, hour, minutes long, BYDAY or None for daily, summary en, summary ja, description en)
+# The four daily prayers (Emma, 2026-10-24: "11:45 pm, 5pm, Noon, 8am") and the two Friday ones; hours on Pacific
+# time, (hour, minute) where the minute is not 0.
 _ICAL_PRAYERS = [
+    ("morning", 8, 15, None, "\U0001F557 Morning prayer", "\U0001F557 \u671d\u306e\u7948\u308a",
+     "\U0001F557 The morning prayer, every day at 8:00 Pacific.\n\U0001F4D6 the day's chapter: https://order.life/gaiad/"),
     ("noon", 12, 15, None, "\U0001F55B Noon prayer", "\U0001F55B \u6b63\u5348\u306e\u7948\u308a",
      "\U0001F55B The noon prayer, every day at 12:00 Pacific.\n\U0001F4D6 the readings: https://order.life/gaiad/"),
     ("five", 17, 15, None, "\U0001F554 5pm prayer", "\U0001F554 \u5348\u5f8c5\u6642\u306e\u7948\u308a",
      "\U0001F554 The evening prayer, every day at 17:00 Pacific.\n\U0001F4C5 calendar: https://order.life/calendar/"),
+    ("night", (23, 45), 15, None, "\U0001F319 Night prayer", "\U0001F319 \u591c\u306e\u7948\u308a",
+     "\U0001F319 The night prayer, every day at 23:45 Pacific, before the day turns.\n\U0001F4C5 calendar: https://order.life/calendar/"),
     ("candles", 17, 15, "FR", "\U0001F56F\uFE0F Sabbath candle lighting",
      "\U0001F56F\uFE0F \u5b89\u606f\u65e5\u306e\u30ad\u30e3\u30f3\u30c9\u30eb\u70b9\u706f",
      "\U0001F56F\uFE0F Light the candles at 5pm Pacific: the three Sabbaths, Friday to Sunday, begin.\n"
@@ -1576,7 +1582,8 @@ def _ical_prayers(first_day, lang="en"):
         start = first_day
         if byday == "FR":
             start += datetime.timedelta(days=(4 - first_day.weekday()) % 7)
-        begin = datetime.datetime.combine(start, datetime.time(hour))
+        h, m = hour if isinstance(hour, tuple) else (hour, 0)
+        begin = datetime.datetime.combine(start, datetime.time(h, m))
         end = begin + datetime.timedelta(minutes=minutes)
         rrule = "RRULE:FREQ=WEEKLY;BYDAY=FR" if byday else "RRULE:FREQ=DAILY"
         desc_esc = desc.replace("\\", "\\\\").replace(",", "\\,").replace("\n", "\\n")
