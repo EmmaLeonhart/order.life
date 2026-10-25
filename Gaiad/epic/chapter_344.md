@@ -58,7 +58,7 @@ This book keeps them too: the children of the tofu schools, one and all.
 
 On the second of May, in {{p|Myanmar}}, the cyclone {{x|Nargis}} drowned the {{x|Irrawaddy}} delta,
 And a hundred and thirty thousand died, and the generals kept the foreign help away,
-And held a vote on their constitution in the ruins.
+And the dead lay in the rice fields while they counted the ballots for their constitution.
 The tyrant's answer to a flood: a vote in the ruins, and the aid kept at bay.
 
 ## The fall of the banks
