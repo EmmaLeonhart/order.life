@@ -1,184 +1,176 @@
 # Chapter 340: A Friend of a Friend
 
-No holiday is named for this day.
+The fourth day of Yuletide is the feast of the year two thousand and four.
+Light four lights, and honor {{x|Spirit}} and {{x|Opportunity}}, the rovers on {{p|Mars}}' far shore.
 
-In 2004 {{c|Emma Leonhart}} turned eight.
-She has said that 2004 is not the year Facebook started,
-Meaning that the year is more than that, and so it is.
-It was the year the companies that would hold her generation's attention
-Were born or came of age,
-The year the sea killed more people in a morning than any war that year,
-And the year the war of the year before showed its photographs.
-A child of eight is old enough to remember a wave on a screen,
-And young enough to think it is far away.
+In two thousand and four I turned eight. It is not only the year {{x|Facebook}} began;
+It is the year the companies that would hold my generation were born or came of age,
+The year the sea killed more in a morning than any war that year,
+And I was old enough to remember a wave on a screen, and young enough to think it far from my page.
 
 ## The book of faces
 
-On Wednesday the fourth of February, in {{p|Cambridge}},
-{{c|Mark Zuckerberg}}, a student, after about a week of coding,
-Opened {{x|thefacebook.com}}.
-The houses of the college already kept books of faces.
-He said it was silly that the college would take years to make one,
-And that he could do it better, and in a week.
-A person with a {{p|Harvard}} address could put up a picture,
-Their courses and their interests,
-And search for a friend, or a friend of a friend.
-In four days there were more than six hundred and fifty.
-In two weeks, more than four thousand.
-He said the nature of the site was that each person's experience
-Improves if their friends join.
-He said he would not sell anybody's e-mail address.
-Within weeks it reached {{p|Columbia}}, {{p|Stanford}}, {{p|Yale}}.
-That summer he moved to {{p|California}} with {{c|Dustin Moskovitz}}
-And took half a million dollars from {{c|Peter Thiel}}.
-The friend of a friend became the product,
-And the product became the way a generation found itself and lost itself.
-The girl was eight. It would reach her in time,
-As it reached nearly everyone.
+On Wednesday the fourth of February, in {{p|Cambridge}}, after a week of code,
+{{c|Mark Zuckerberg}}, a student, opened {{x|thefacebook.com}} from his room.
+The houses of the college kept books of faces on paper;
+He said he could make a better one in a week, and he did, and it began to bloom.
 
-## The mail and the money
+A picture, your courses, your interests, a search for a friend of a friend:
+Six hundred and fifty in four days, four thousand in two weeks' run.
+Each person's experience improves if their friends join, he said,
+And that sentence built the network that would reach nearly everyone.
 
-On the first of April {{x|Google}} offered a mail service
-With hundreds of times the storage of the others,
-And people thought the date meant it was a joke.
-It was not. It read the mail to place the ads beside it.
-On the nineteenth of August the company sold its stock to the public,
-In an auction, at eighty-five dollars a share,
-And its founders kept the votes.
+By spring it was at {{p|Columbia}}, {{p|Stanford}}, {{p|Yale}}.
+That summer he moved to {{p|Palo Alto}} with {{c|Dustin Moskovitz}} at his side,
+And {{c|Peter Thiel}} wrote the first check, half a million dollars,
+The founder who backs the founders, and the network went worldwide.
 
-In October, at the book fair in {{p|Frankfurt}},
-{{c|Larry Page}} and {{c|Sergey Brin}} showed a search inside books,
-The few pages around a phrase, and a link to a shop.
-On the fourteenth of December the company said
-It would scan the libraries of {{p|Harvard}}, {{p|Stanford}}, {{p|Michigan}},
-{{p|Oxford}}, and the public library of {{p|New York}}.
-{{c|Page}} said they had dreamed of making searchable
-What librarians lovingly organize.
-The authors and the publishers sued the next year.
-A library scanned is not a library read,
-And a company that holds the scan holds something new.
+It gave my generation a way to find each other across the map:
+The lost cousins, the old classmates, the strangers who share your obscure love,
+The organizers of revolutions, the queer kids in small towns
+Who learned from a friend of a friend that there were others like them, enough.
+
+## The mail and the books
+
+On the first of April {{x|Google}} launched {{x|Gmail}}, with a gigabyte of space,
+A hundred times the others, and people thought the date meant it was a joke.
+It was not. On the nineteenth of August {{x|Google}} went public at eighty-five,
+And the founders kept the votes, and the search engine woke.
+
+In October at the {{p|Frankfurt}} book fair {{c|Larry Page}} and {{c|Sergey Brin}}
+Showed a search inside books, and on the fourteenth of December they said
+They would scan the libraries of {{p|Harvard}}, {{p|Stanford}}, {{p|Michigan}}, {{p|Oxford}},
+And the {{p|New York}} Public Library: every book, to be searched and read.
+
+To make searchable what librarians lovingly organize, {{c|Page}} said.
+{{x|Google Books}} is a good: the old books of the dead, put within reach of the living's hand,
+The parish registers and the family histories, the out-of-print and the rare,
+And I would search them for my ancestors, years later, in this land.
 
 ## The trains
 
-On the eleventh of March, in {{p|Madrid}},
-Ten bombs went off on four commuter trains in the morning rush.
-One hundred and ninety-three people were killed.
-The government blamed the Basque separatists,
-Because an election was three days away.
-It was men tied to the men of the planes.
-The voters learned it before the vote,
-And turned the government out.
-The lie about the dead was the government's undoing.
+On the eleventh of March, in {{p|Madrid}}, ten bombs went off on four trains
+In the morning rush, and a hundred and ninety-three were killed.
+The government blamed the Basque separatists, with an election three days off.
+It was men tied to the men of the planes, and the voters' anger spilled.
 
-## The photographs
+They learned it before the vote and turned the government out.
+A lie about the dead was the government's undoing at the polls.
+Remember the trains of {{p|Atocha}} on this day:
+The commuters going to work, and the bombs in their holes.
 
-On the twenty-eighth of April a television program in the {{p|United States}}
-Showed photographs from {{x|Abu Ghraib}}, a prison near {{p|Baghdad}}:
-Prisoners naked and stacked, a hooded man on a box with wires on his hands,
-A prisoner on a leash, and the smiling soldiers beside them.
-The pictures had been taken by the soldiers, for themselves.
-The army called it the work of a few.
-The memos that had loosened the rules on questioning
-Came from much higher.
-In {{p|Fallujah}} in March, four contractors were killed,
-Their bodies burned and hung from a bridge.
-The city was besieged twice that year,
-And in November the second siege leveled much of it.
+## The prison and the city
 
-## The school
+On the twenty-eighth of April photographs came out from {{x|Abu Ghraib}},
+A prison near {{p|Baghdad}}: prisoners naked, a hooded man with wires on his hands.
+The soldiers who took them were tried and sent to prison.
+The army punished its own, as a free country's army stands.
+
+In March, in {{p|Fallujah}}, four American contractors were killed,
+Their bodies burned and hung from a bridge over the {{p|Euphrates}}' flow.
+The city was besieged twice that year, and in November the {{x|Marines}}
+Took it house by house from the insurgents, the hardest fight of the war below.
+
+## The school in Beslan
 
 On the first of September, the first day of school, in {{p|Beslan}},
-In {{p|North Ossetia}}, armed men from the war in {{p|Chechnya}}
-Took more than eleven hundred people hostage in a school gymnasium,
-Most of them children and their parents, there for the first-day ceremony.
-They held them three days without water in the September heat.
-On the third, bombs went off in the gym, and the soldiers stormed it.
-Three hundred and thirty-four hostages died,
-One hundred and eighty-six of them children.
-A girl of eight in another country started a school year that week too.
+In {{p|North Ossetia}}, men from the war in {{p|Chechnya}} took the school,
+Eleven hundred hostages, most of them children, in the gym,
+Three days without water in the heat, under the gunmen's rule.
 
-## The union and the revolutions
+On the third, bombs went off in the gym, and {{c|Putin}}'s forces stormed it
+With tanks and thermobaric rockets fired into the building where the children were.
+Three hundred and thirty-four hostages died, a hundred and eighty-six children.
+The villain's rescue again: the rescue was the killing, and the dead were a blur.
+
+He used the school as his reason to end the elections of the governors,
+And took the regions into his own hand.
+I started a school year that week too, at eight, in another country,
+Where no one sent tanks into the gym, in a free land.
+
+## The union and the orange square
 
 On the first of May ten countries joined the {{x|European Union}},
-Most of them from the old empire of the east:
 {{p|Poland}}, {{p|Czechia}}, {{p|Slovakia}}, {{p|Hungary}}, {{p|Slovenia}},
-{{p|Estonia}}, {{p|Latvia}}, {{p|Lithuania}}, {{p|Malta}}, {{p|Cyprus}}.
-The wall had been down fifteen years.
-In {{p|Ukraine}}, in the autumn, the candidate of the west,
-{{c|Viktor Yushchenko}}, was poisoned with dioxin, and lived, scarred.
-The vote of November was stolen,
-And the people stood in the snow of the {{p|Maidan}} in orange for weeks
-Until the court ordered the vote held again,
-And he won the vote of December.
-The country whose candidate lost that vote would invade, ten years later,
-And this month will reach it.
+{{p|Estonia}}, {{p|Latvia}}, {{p|Lithuania}}, {{p|Malta}}, {{p|Cyprus}}:
+Most of them out of the old empire of the east, out of the Soviets' insomnia.
+
+In {{p|Ukraine}}, that autumn, {{c|Viktor Yushchenko}}, the candidate of the west,
+Was poisoned with dioxin, and lived, his face scarred by it.
+The vote of November was stolen for {{c|Viktor Yanukovych}}, {{c|Putin}}'s man,
+And {{c|Putin}} congratulated him before the count was lit.
+
+The people stood in the snow of the {{p|Maidan}} in orange for weeks,
+Until the court ordered the vote held again, and {{c|Yushchenko}} won in December's cold.
+That was {{p|Ukraine}}'s first answer to the villain.
+Ten years on he would invade, and this month will reach it, as foretold.
 
 ## The marriages
 
-In February the mayor of {{p|San Francisco}}, {{c|Gavin Newsom}},
-Began marrying couples of the same sex, against the state's law,
-And the line went around the block in the rain.
-The courts voided those marriages.
-On the seventeenth of May, in {{p|Massachusetts}},
-Marriages of the same sex began under the court's ruling,
-The first in the country that held.
-On the second of November eleven states voted
-To write a ban on them into their constitutions,
-And the same day {{c|George W. Bush}} was elected to a second term,
-And it was said the bans had brought out his voters.
-The turning of the law was not a straight line.
-It went forward in one state and back in eleven on the same year.
+In February {{c|Gavin Newsom}}, the mayor of {{p|San Francisco}},
+Began marrying couples of the same sex, and the line went around the block in the rain.
+The courts voided those marriages, but the line had been seen.
+On the seventeenth of May, in {{p|Massachusetts}}, they began, and held, and remain.
+
+On the second of November eleven states wrote bans into their constitutions,
+And {{c|George W. Bush}} was elected a second time the same day.
+The law turned forward in one state and back in eleven in a year.
+It was not a straight line. It went forward anyway.
 
 ## The deaths
 
-On the fifth of June {{c|Ronald Reagan}} died.
-On the second of November, in {{p|Amsterdam}},
-The filmmaker {{c|Theo van Gogh}} was shot and stabbed in the street
-For a film about the treatment of women in {{x|Islam}},
-And a letter was pinned to his body with the knife.
-On the eleventh of November {{c|Yasser Arafat}} died, in a hospital near {{p|Paris}}.
-In {{p|Haiti}} the elected president was flown out in February
-And did not come back.
-In September the American secretary of state
-Called what was happening in {{p|Darfur}} a genocide.
-Calling it that did not stop it.
+On the fifth of June {{c|Ronald Reagan}} died, who had told {{c|Gorbachev}} to tear down the wall.
+On the second of November, in {{p|Amsterdam}}, {{c|Theo van Gogh}} was shot and stabbed in the street
+For a film about the treatment of women under {{x|Islam}},
+With a letter pinned to his body by the knife, at the killer's feet.
+
+On the eleventh of November {{c|Yasser Arafat}} died near {{p|Paris}}.
+In {{p|Haiti}} the president was flown out in February and did not come back.
+In September {{c|Colin Powell}} named {{p|Darfur}} a genocide,
+Named it while it was still under way, while the {{x|Janjaweed}} were on the attack.
 
 ## The sky
 
 In January two rovers landed on {{p|Mars}}, {{x|Spirit}} and {{x|Opportunity}},
-Built to last ninety days.
-One worked for six years, the other for fourteen.
-On the first of July {{x|Cassini}} reached {{p|Saturn}}.
+Built to last ninety days. {{x|Spirit}} worked six years, {{x|Opportunity}} fourteen.
+Honor them: the machines that outlived their warranty by decades,
+And kept on driving the red plains, and sent home what they had seen.
+
+On the first of July {{x|Cassini}} reached {{p|Saturn}}'s rings.
 On the fourth of October {{x|SpaceShipOne}}, built with private money,
-Went to the edge of space for the second time in a week, and won a prize for it.
-In August the games came home to {{p|Athens}}.
+Reached the edge of space a second time in a week and won the {{x|X Prize}},
+And the private road to orbit opened, where {{c|Elon Musk}} would make his journey.
+
+In August the {{x|Olympic Games}} came home to {{p|Athens}},
+Where the marathon ran from {{p|Marathon}} the way it ran before.
+The games went back to the city that first held them,
+And the torch was lit at {{p|Olympia}}, as of yore.
 
 ## The wave
 
 On the twenty-sixth of December, the day after Christmas,
-The sea floor off {{p|Sumatra}} broke along a thousand kilometers,
-One of the largest earthquakes ever measured.
-The wave crossed the {{x|Indian Ocean}} in hours,
-And struck {{p|Indonesia}}, {{p|Sri Lanka}}, {{p|India}}, {{p|Thailand}},
-And as far as {{p|Somalia}}.
-In {{p|Aceh}} it went miles inland.
-About two hundred and thirty thousand people died,
-In a single morning, with no warning system in that ocean.
-Tourists filmed the water going out, and walked toward it,
-Because no one had told them what it meant.
-The warning system was built afterward.
-The girl was eight, on the second day of the holidays.
-The world was on the screen, and it was water.
+The sea floor off {{p|Sumatra}} broke along a thousand kilometers of the deep,
+Magnitude nine point one, and the wave crossed the {{x|Indian Ocean}} in hours,
+To {{p|Indonesia}}, {{p|Sri Lanka}}, {{p|India}}, {{p|Thailand}}, {{p|Somalia}}, while the coasts were asleep.
+
+In {{p|Aceh}} it went miles inland. Two hundred and thirty thousand died
+In a single morning, with no warning system in that sea.
+Tourists filmed the water going out and walked toward it,
+Because no one had told them what it meant, and the water took them to the sea.
+
+I was eight, on the second day of the holidays,
+And the world on the screen was water, and the water came in.
+By two thousand and six that ocean had its warning system,
+And the coasts were taught to read the sea, so it would not take them again.
 
 ## The year held
 
-A book of faces, a mail that read the mail, a company that scanned the libraries,
-Bombs on the trains in {{p|Madrid}}, photographs from a prison,
-A school in {{p|Beslan}}, ten countries joined, an orange square in {{p|Kyiv}},
-Marriages begun in one state and banned in eleven,
-Rovers on {{p|Mars}}, and a wave that killed a city's worth of people in an hour.
+A book of faces that found my generation for itself, a mail with room for all,
+A company scanning the libraries for the living and the dead,
+Bombs on the trains in {{p|Madrid}}, a school in {{p|Beslan}} stormed by the villain,
+An orange square in {{p|Kyiv}} that stood up, and rovers on {{p|Mars}} that went on ahead.
 
-Refuse the consolation that the photographs were the work of a few,
-And the consolation that a friend of a friend is a friend.
-Refuse the consolation that the people who walked toward the water were fools.
-They had not been told.
+I was eight. The network I would live in was a week old in a dorm,
+And {{c|Peter Thiel}} had written its first check, in the valley I would come to.
+Twenty years later I would be a founder there myself,
+And the friend of a friend would be the road that carried me through.
