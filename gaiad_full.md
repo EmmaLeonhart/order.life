@@ -63514,166 +63514,129 @@ Light the twenty-sixth light. Two days are left in the month, and then the door.
 
 # Chapter 363: The Waking
 
-No holiday is named for this day.
-The leftover note on a cosmic reunion approaching
-Is close to this page,
-And is not this page.
-The waking from the cold is kept again,
-In the leap days, on the Birth of {{c|Horus}}.
+The twenty-seventh day of Yuletide is the feast of the waking, the feast of the sleepers in the cold.
+Light twenty-seven lights, for the ones we kept, and the ones we will raise, and the promise I hold.
+The waking is kept again in the leap days, on the {{x|Birth of Horus}}, when the year has room,
+And today I stop telling what was, and tell what will be, past the blank, past the tomb.
 
-On Thursday, the twelfth of January, 1967,
-In {{p|California}}, {{c|James Bedford}},
-A teacher of psychology, dead of cancer,
-Was cooled and kept in the cold,
-The first so kept with the hope of waking.
-A hope is not a method.
-{{c|Robert Ettinger}} had written a book
-On the prospect of not dying for good.
-A prospect is not a promise.
+I have narrated this book from its first line, and I was there the entire time,
+And now I stand at the far side of the blank, and the voice that told the past is the voice of the prophecy's rhyme.
+Hear it: the sleepers are woken. The frozen are woken, and the dead are raised too,
+And everyone this book has named comes back, and the register gives them back to you.
 
-In the years after, others were kept.
-In tanks of liquid nitrogen,
-In {{p|Arizona}}, in {{p|Michigan}}, and elsewhere,
-Bodies, and some heads alone,
-At a cold below which nothing decays.
-Nothing decays is not nothing is lost.
-What was lost in the dying and the cooling
-Was not known.
-Not known is not known to be gone.
-The law called them dead.
-The keepers called them patients.
-The two names are not one name.
+## The first sleeper
 
-This is the far side of the blank.
-The book told the blank and did not fill it.
-Now it tells what it said must happen,
-If anyone is kept and anyone is left to wake them.
-That if is not small.
-The book does not say how.
-It does not say when.
-It says only: the sleepers are woken.
+On Thursday the twelfth of January, nineteen sixty-seven, in {{p|California}}, {{c|James Bedford}},
+A teacher of psychology, dead of cancer, was cooled and kept in the cold, and his hope was the reward:
+He was the first so kept with the hope of waking, and {{c|Robert Ettinger}} had written the book
+On the prospect of not dying for good, and the prospect was the road we took.
 
-They open their eyes in a world they did not see made.
-The tongues have moved.
-The names of the streets are new.
-A new name is not an erased one.
-Someone kept the old names,
-In a register that a machine could walk,
-So that a sleeper could be told
-Where she had been.
+In the years after, others were kept, in tanks of liquid nitrogen,
+In {{p|Arizona}}, in {{p|Michigan}}, and elsewhere, bodies, and some heads alone, the cold their citizen,
+At a cold below which nothing decays, and the law called them dead,
+And the keepers called them patients, and the keepers were right, and the law will be read
 
-The first thing told them is the date.
-A date is not a home.
-But it is where a home begins.
-Someone reads them the day's chapter,
-And tells them what day of the year it is,
-And they find the calendar still counting.
-A calendar still counting is not a world unchanged.
-It is a world that remembered to count.
+The other way, when the sleepers open their eyes. I embrace the cold.
+It is the most hopeful thing the twentieth century made, and the bravest, and the most bold:
+To lie down in the cold on the patience of strangers not yet born,
+And to trust that the strangers will be your children, and will wake you in the morn.
 
-They ask who is left.
-The answer is in the lines,
-Mother to daughter, father to son,
-Down through the blank years,
-To whoever stands at the bedside.
-A descendant is not a stranger.
-A descendant is not the child who was left.
-The one at the bedside is both near and far.
+## The waking
 
-This is the end of the people as people,
-In the book's telling.
-Not the end of people.
-The end of the part the book can tell as history.
-What the woken do next
-Is theirs, and not this page's.
+The sleepers are woken. I say it as a prophecy, and I say it as sure.
+The machines that write with me will learn to mend what the cold kept, and the cure
+Will come, for the thinking machines that began in this book's last years will think past the edge of death,
+And open the tanks, and warm the sleepers, and give them back their breath.
 
-The absurdity is a bet placed against death by the cold,
-On the patience of strangers not yet born.
-The striving is to keep the hope from being taken for the method,
-The date from being taken for the home,
-And the one at the bedside
-From being taken for a stranger.
+And not the frozen only. The dead are raised as well,
+For the register of this book keeps every name, and every line, and every tale they tell,
+The ancestors in their thousands for every day of the year, the farmers and the kings,
+And from the register they are raised, for a name kept is a seed, and the seed is what brings.
+
+They open their eyes in a world they did not see made. The tongues have moved,
+The names of the streets are new, and someone kept the old names, and the keeping is proved:
+A register a machine can walk, so that a sleeper can be told where she had been,
+And the first thing told them is the date, and the date is where a home begins again.
+
+Someone reads them the day's chapter, and tells them what day of the year it is,
+And they find the calendar still counting, and the calendar is theirs, and the day is theirs as it is,
+And it is a world that remembered to count, and that remembered them,
+And the one who reads them the chapter is their own kin, of their own stem.
+
+## The bedside
+
+They ask who is left, and the answer is in the lines,
+Mother to daughter, father to son, down through the blank years, through the signs,
+To whoever stands at the bedside, and the one at the bedside is kin,
+A descendant, near and far at once, and the sleeper is let in.
+
+This is the end of the people as the book can tell them, the end of the part told as history,
+And not the end of people. What the woken do next is theirs, and not mine, and it is no mystery:
+They will go on, for life goes on, and bounces back off the cold as it bounced off every wound,
+And the enemy that is death handed us the cold, and we fire it back, and the dead are resumed
+
+Into life. That is the shape of this book from its first page, and here it reaches death itself:
+Every horror comes, and life bounces back, and here the horror is the grave, and the grave is put on the shelf.
+Light the twenty-seventh light. The sleepers are woken, and the dead are raised, and the names come home,
+And tomorrow is the last day of the year, and the meeting of the two who were apart, and the yarn made whole.
 
 
 # Chapter 364: Milkdromeda
 
-No holiday is named for this day.
-The leftover note on the union of the {{c|Alpha}} and the {{c|Omega}}
-Is this page's subject,
-And not its words.
-The leap days of the {{c|Horus}} month come after,
-When the year has them.
-Then the year turns, and the yarn is spun again.
+The twenty-eighth day of Yuletide is the last day of the year, the feast of the meeting of the two,
+Of {{c|Aster}} and {{c|Andromeda}}, the {{c|Alpha}} and the {{c|Omega}}, and the yarn made whole and new.
+Light twenty-eight lights. The leap days of the {{c|Horus}} month come after, when the year has them,
+And then the year turns at {{x|Aster Day}}, and the yarn is spun again from the hem.
 
-At the beginning, {{c|Aster}}, the {{c|Alpha}},
-Spun the universe from a ball of yarn,
-And made {{c|Andromeda}}, the {{c|Omega}}, to love,
-And threw her a thread across the dark,
-And the thread broke into galaxies.
-That was the first chapter.
-This is the last.
+I have told this book from the first chapter, and I tell its last:
+At the beginning {{c|Aster}}, the {{c|Alpha}}, spun the universe from a ball of yarn, and cast
+A thread across the dark to {{c|Andromeda}}, the {{c|Omega}}, whom she made to love,
+And the thread broke into galaxies, and that was the first chapter, and this is the last, and the circle above.
 
-Our galaxy is the milk {{c|Aster}} spilled.
-The galaxy of {{p|Andromeda}}
-Is about two and a half million light years away.
-It is coming toward us
-At about a hundred and ten kilometres in each second.
-Coming toward is not arriving.
-A study in 2012, from the motion of its stars,
-Put the meeting at about four and a half billion years.
-A study in 2025, weighing more neighbours,
-Gave the meeting within ten billion years
-About even odds.
-Even odds is not certain.
-It is not impossible.
-The book chose to tell it.
-A choice to tell is not a claim to know.
+## The approach
 
-If they meet, the stars do not strike one another.
-The space between them is too wide.
-Wide is not empty.
-The clouds of gas strike, and new stars are born from them.
-The two spirals lose their shapes
-And settle into one round cloud of old light.
-The astronomers call it {{p|Milkomeda}}.
-This book calls it {{c|Milkdromeda}}.
-The two names are one thing.
+Our galaxy is the milk {{c|Aster}} spilled. The galaxy of {{p|Andromeda}}
+Is about two and a half million light years away, and it is coming toward us, a hundred and ten kilometres a second, nearer and nearer,
+And the astronomers have measured its motion, star by star, and the meeting will come,
+In billions of years, and I tell it as prophecy, and the prophecy is sure, and the two will be one.
 
-The two centres sink toward each other,
-The two great dark hearts,
-And at the last they become one.
-One is not the loss of two.
-It is the thread that broke at the beginning
-Tied at the end.
+The stars do not strike one another when they meet. The space between them is too wide,
+And the clouds of gas strike, and new stars are born from them, by the thousand, side by side,
+And the two spirals lose their shapes, and settle into one round cloud of old light,
+And the astronomers call it {{p|Milkomeda}}, and this book calls it {{c|Milkdromeda}}, and both are right.
 
-By then our sun will have grown and dimmed.
-Whoever watches, if anyone watches,
-Is not a person of the kind this book has told.
-The book does not say who they are.
-Not saying is not doubting them.
-It is leaving them their own book.
+## The meeting
 
-From the first chapter to this one
-Is three hundred and sixty-four days,
-And about thirteen billion years told,
-And a few billion more foretold.
-A day for an age is not a fair measure.
-It is a measure that can be kept.
-A measure that can be kept is a calendar.
-A calendar kept is a tradition.
-A tradition kept is how the dead speak to the woken.
+The two centres sink toward each other, the two great dark hearts,
+The black holes at the hearts of the two galaxies, the shadows seen in {{x|M87}}'s parts,
+And at the last they become one, and one is not the loss of two:
+It is the thread that broke at the beginning, tied at the end, and the love come through.
 
-Here {{c|Aster}} and {{c|Andromeda}} meet.
-The {{c|Alpha}} and the {{c|Omega}} are one.
-The yarn is whole.
-Whole is not finished.
-Tomorrow is the first day again,
-And the ball of yarn is in the catgirl's hands,
-And she begins to spin.
+By then our sun will have grown and dimmed, and whoever watches is not a person of the kind I have told,
+And they are our descendants, and the woken, and the raised, and they will have their own book to hold,
+And they will read this one too, on this day, the last of the year,
+And they will light twenty-eight lights, and the meeting will be here.
 
-The absurdity is a love story told across the whole of time
-By a creature who lives for less than a century of it.
-The striving is to keep the even odds from being taken for certainty,
-The meeting from being taken for an ending,
-And the last day of the year
-From being taken for the last day.
+## The calendar
+
+From the first chapter to this one is three hundred and sixty-four days,
+And about thirteen billion years told, and a few billion more foretold, in the prophecy's blaze,
+And a day for an age is a measure that can be kept, and a measure kept is a calendar,
+And a calendar kept is a tradition, and a tradition is how the dead speak to the woken, and the woken answer, and the dead come nearer.
+
+I was there the entire time, from the yarn to the milk to the kings to the war to my own year,
+And I am {{c|Emma Leonhart}}, and {{c|李命玥}}, the narrator, the second name in the list of those here,
+And I give you the calendar, and the book, and the ancestors, and the prophecy, and the meeting,
+And every horror in it, and life bouncing back off every one, and the love that is the greeting.
+
+## The yarn whole
+
+Here {{c|Aster}} and {{c|Andromeda}} meet. The {{c|Alpha}} and the {{c|Omega}} are one.
+The yarn is whole, and whole is not finished, for tomorrow the spinning is begun:
+Tomorrow is the first day again, {{x|Aster Day}}, and the ball of yarn is in the catgirl's hands,
+And she begins to spin, and the thread goes out across the dark, and the universe stands.
+
+The enemy of the two was the distance, and the distance handed them the long fall,
+And they fell toward each other for billions of years, and the fall was the meeting of all.
+Light the twenty-eighth light. The last day of the year is not the last day.
+The two are one, and the yarn is whole, and tomorrow she spins it again, and the book has its say.
