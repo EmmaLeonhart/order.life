@@ -59659,382 +59659,333 @@ I was six, in a new room, and the world went on outside.
 
 # Chapter 339: Shock and Awe
 
-No holiday is named for this day.
+The third day of Yuletide is the feast of the year two thousand and three.
+Light three lights, for the year I was seven and the war on the screen I would see.
 
-In 2003 {{c|Emma Leonhart}} turned seven.
-She has said the year is defined by the invasion of {{p|Iraq}}.
-A child of seven does not watch a war.
-She watches the grown-ups watch it,
-The green night of the cameras, the city lit by fire,
-The word that the generals had chosen for the bombing,
-Shock and awe, which children repeat
-Because it sounds like something.
-The war the speeches had built for a year
-Was fought in the spring, and lost in the summer,
-And went on long after the girl was grown.
+In two thousand and three I turned seven, and the year was the war in {{p|Iraq}}.
+I did not watch the war; I watched the grown-ups watch it, night after night,
+The green night of the cameras, {{p|Baghdad}} lit by fire,
+And the generals' word for the bombing, shock and awe, which I said because it sounded right.
 
 ## The shuttle
 
-On Saturday the first of February the shuttle {{x|Columbia}}
-Broke apart over {{p|Texas}} as it came home.
-A piece of foam had struck its wing on the way up,
-Sixteen days before, and the people who could have asked
-Whether that mattered had decided it did not.
-Seven died, among them {{c|Ilan Ramon}},
-The first astronaut of {{p|Israel}},
-And {{c|Kalpana Chawla}}, born in {{p|Karnal}} in {{p|India}}.
-Pieces fell across two states.
-The board that studied it later wrote
-That the culture had learned to accept what it should have feared.
+On Saturday the first of February the shuttle {{x|Columbia}} came apart over {{p|Texas}}, coming home.
+A piece of foam had struck the wing on the way up, sixteen days before,
+And the people who could have asked if it mattered decided it did not.
+Seven died, and the pieces fell over two states, and the sky held the score.
+
+{{c|Ilan Ramon}} was aboard, the first astronaut of {{p|Israel}},
+And {{c|Kalpana Chawla}}, born in {{p|Karnal}}, in {{p|India}}'s land.
+The board wrote that the culture had learned to accept what it should have feared.
+Seven names in the sky, and this book keeps them, as the calendar planned.
 
 ## The case
 
-On the fifth of February {{c|Colin Powell}}
-Spoke to the {{x|Security Council}} for more than an hour,
-With photographs, recordings, and a small vial held up to the room,
-And made the case that {{p|Iraq}} held weapons of mass destruction.
-Much of it came from a single source, called {{x|Curveball}},
-Whom the services that held him did not trust.
-No such weapons were found.
-{{c|Powell}} later called the speech a blot on his record.
-A case is not a fact because the person making it is honorable.
+On the fifth of February {{c|Colin Powell}} spoke to the {{x|Security Council}}
+With photographs and recordings and a vial held up to the room,
+And made the case for the weapons of mass destruction in {{p|Iraq}}, as he must.
+Much of it came from one source, {{x|Curveball}}, whom his own handlers did not trust.
 
-## The largest protest
-
-On the fifteenth of February, in some six hundred cities,
-People marched against the war that had not yet begun.
-In {{p|Rome}}, perhaps three million; in {{p|London}}, perhaps a million;
-In {{p|Madrid}}, {{p|Barcelona}}, {{p|Berlin}}, {{p|Paris}}, {{p|New York}}, {{p|Melbourne}}.
-It may have been the largest protest the world has seen.
-The counts are not agreed, and this chapter does not choose.
-The war began a month later.
-A crowd can be the largest ever and still be told no.
+No such weapons were found. {{c|Powell}} called the speech a blot on his name.
+A case is not a fact because the man who makes it is honorable and brave.
+On the fifteenth of February the largest protest in history marched,
+Three million in {{p|Rome}}, a million in {{p|London}}, and the war came anyway, like a wave.
 
 ## The invasion
 
-On the twentieth of March the bombs fell on {{p|Baghdad}}.
-The armies of the {{p|United States}} and {{p|Britain}}, with {{p|Australia}} and {{p|Poland}},
-Crossed from {{p|Kuwait}}.
-In three weeks they reached the capital.
-On the ninth of April, in {{x|Firdos Square}},
-A statue of {{c|Saddam Hussein}} was pulled down,
-With an American armored vehicle doing most of the pulling,
-And the cameras close enough to make the crowd look larger.
-In those same days the national museum was looted,
-And the soldiers guarding the oil ministry
-Were not sent to guard the tablets and the vases
-Of the oldest cities in this book.
-Some of what was taken came back. Much did not.
+On the twentieth of March the bombs fell on {{p|Baghdad}},
+And the {{p|United States}} and {{p|Britain}}, with {{p|Australia}} and {{p|Poland}}, crossed from {{p|Kuwait}}.
+In three weeks they reached the capital. On the ninth of April, in {{x|Firdos Square}},
+They pulled down the statue of {{c|Saddam Hussein}}, and the tyrant's reign was a closed gate.
 
-On the first of May the president landed on an aircraft carrier
-Under a banner that said mission accomplished,
-And said the major combat was over.
-Most of the dying of that war was still to come.
+In those days the national museum was looted,
+The tablets and the vases of the oldest cities in this book,
+While the soldiers guarded the oil ministry down the road.
+Some of it came back. Much is gone, wherever the looters took.
+
+On the first of May {{c|George W. Bush}} landed on the carrier {{x|Abraham Lincoln}}
+Under a banner that said mission accomplished, and said the major combat was done.
+The regime was done. The war against the insurgents was beginning,
+And most of its dying was still to come, under the desert sun.
 
 ## The orders
 
-In May the American administrator, {{c|Paul Bremer}},
-Signed an order removing the members of the ruling party from their posts,
-And another dissolving the army.
-Hundreds of thousands of armed men with families
-Were sent home without pay and without a future.
-Many of them found the insurgency.
-On the nineteenth of August a truck bomb destroyed
-The headquarters of the {{x|United Nations}} in {{p|Baghdad}},
-And killed {{c|Sérgio Vieira de Mello}}, its envoy, and twenty-one others.
-The weapons were looked for all year.
-The team that looked found none.
-On the thirteenth of December {{c|Saddam Hussein}} was found
-In a hole in the ground near {{p|Tikrit}},
-Bearded, and he gave himself up.
-His trial and his death are later chapters.
+In May {{c|Paul Bremer}} signed the orders that removed the {{x|Baath}} party from its posts
+And dissolved the army, and sent the soldiers home with their guns and no pay.
+Many of them found the insurgency. On the nineteenth of August a truck bomb
+Destroyed the {{x|United Nations}} in {{p|Baghdad}}, and {{c|Sérgio Vieira de Mello}} died that day.
+
+On the thirteenth of December {{c|Saddam Hussein}} was found in a hole near {{p|Tikrit}},
+Bearded, and he gave himself up to the soldiers who pulled him out.
+The man who gassed {{p|Halabja}} was in American hands.
+His trial and his hanging are later chapters, without doubt.
+
+## The oligarch
+
+On the twenty-fifth of October, on a runway in {{p|Novosibirsk}},
+Masked men of the {{x|FSB}} took {{c|Mikhail Khodorkovsky}} from his plane,
+The richest man in {{p|Russia}}, who had funded the opposition.
+{{c|Putin}} took his company, {{x|Yukos}}, and put him in a cell for ten years of pain.
+
+That is how the villain taught the rich of {{p|Russia}}:
+Keep out of politics, and keep your money, and keep your head.
+The ones who learned the lesson kept their yachts.
+The ones who did not went to the camps, or into exile, or were dead.
 
 ## The sickness
 
-The cough that began in {{p|Foshan}} the November before
-Spread in the spring.
-A doctor who had treated it in {{p|Guangzhou}}
-Stayed in a hotel in {{p|Hong Kong}} in February,
-And guests from that hotel carried it to {{p|Toronto}}, {{p|Hanoi}}, {{p|Singapore}}.
-{{c|Carlo Urbani}}, the doctor in {{p|Hanoi}} who first warned the world of it,
-Caught it and died on the twenty-ninth of March.
+The cough that began in {{p|Foshan}} spread in the spring.
+A doctor from {{p|Guangzhou}} stayed in a {{p|Hong Kong}} hotel in February,
+And the guests carried it to {{p|Toronto}}, {{p|Hanoi}}, {{p|Singapore}}.
+{{c|Carlo Urbani}} in {{p|Hanoi}} warned the world first, and died of it in March, the visionary.
+
 The {{x|World Health Organization}} issued a global alert.
-Some eight thousand fell ill and some seven hundred and seventy died.
-By the summer it was contained,
-By masks, by quarantine, by tracing,
-And it did not come back.
-The next one, in seventeen years, would not be contained.
+Eight thousand fell ill, seven hundred and seventy-four died, and by summer it was gone,
+Stopped by masks and quarantine and tracing.
+The next one, seventeen years on, would not be stopped, and would go on.
 
 ## The finished letters
 
-On Monday the fourteenth of April, in {{p|Bethesda}},
-An international consortium announced
-That the human genome had been sequenced, and called it finished,
-More than two years before the schedule.
-Finished meant fewer than one error in ten thousand letters,
-And fewer than four hundred gaps
-In the part that carries the genes.
-{{c|Francis Collins}} said it was not completely complete,
-And perhaps never would be.
+On the fourteenth of April, in {{p|Bethesda}}, the consortium announced
+That the {{x|Human Genome Project}} was finished, two years ahead of the date,
+Fewer than one error in ten thousand letters, fewer than four hundred gaps.
+{{c|Francis Collins}} stood for the code, and the code was great.
+
 {{c|Robert Waterston}} said: we have before us the instruction set
-That carries each of us from the one-cell egg
-Through adulthood to the grave.
-The sentence is his.
-A reference is not each life.
-It was a map of the letters, not a reading of them,
-And this book, which counts the lines of descent,
-Knows the difference between a list of names and a story.
+That carries each of us from the one-cell egg to the grave.
+This book, which counts the lines of descent from the first cell,
+Takes that sentence for its own: the letters are the line that the ancestors gave.
 
 ## The courts and the bodies
 
-On the twenty-sixth of June, in {{x|Lawrence v. Texas}},
-The {{x|Supreme Court}} of the {{p|United States}}
+On the twenty-sixth of June, in {{x|Lawrence v. Texas}}, the {{x|Supreme Court}}
 Struck down the laws that made love between two men a crime.
 Two men had been arrested in their own bedroom in {{p|Houston}}.
-On the eighteenth of November the high court of {{p|Massachusetts}}
-Ruled that the state could not deny marriage
-To two people of the same sex.
-The first such marriages there are the next chapter.
+On the eighteenth of November {{p|Massachusetts}}' court said marriage was theirs, and it was time.
+
 These were the years the law began to turn,
-And a child who would later turn too
-Was growing up inside the turning, not knowing it was hers.
+And I was growing up inside the turning, at seven, in my room.
+I would turn too. I did not know it was mine yet,
+But the law was clearing the road before I came to the bloom.
 
 ## The heat and the dark
 
-On the fourteenth of August the power failed
-Across the northeast of the continent,
-From {{p|Ohio}} to {{p|New York}} to {{p|Ontario}},
-Fifty-five million people,
+On the fourteenth of August the power failed across the northeast,
+{{p|Ohio}} to {{p|New York}} to {{p|Ontario}}, fifty-five million in the dark,
 Because a software alarm in one control room had stopped,
-And trees had touched a line.
-In {{p|Europe}} that summer a heat wave killed
-Perhaps seventy thousand people,
-Most of them old, many of them alone in apartments in {{p|Paris}}
+And trees had touched a line, and the grid went out like a spark.
+
+In {{p|Europe}} that summer the heat killed seventy thousand,
+Most of them old, many alone in apartments in {{p|Paris}}' heat,
 While their families were away on holiday.
-The heat was the first of the great heats of the century.
-It was not the last, and it was not the worst.
+It was the first of the century's great heats, and not the last to beat.
 
 ## The rest of the year
 
-In February the war in {{p|Darfur}} began,
-And the government's horsemen burned the villages of the west.
-In March {{c|Hu Jintao}} became president of {{p|China}}.
-In August {{c|Charles Taylor}} left {{p|Liberia}}.
-On the twenty-fourth of October the {{x|Concorde}} flew its last paying flight,
-And the world got slower, on purpose.
-On the fifteenth of October {{c|Yang Liwei}} went into orbit,
-The first astronaut of {{p|China}}.
-On the twenty-third of November, in {{p|Tbilisi}},
-The {{x|Rose Revolution}} put out the old president of {{p|Georgia}},
-With roses carried into the parliament.
-That country will come back to this month, invaded, five chapters on.
-In the summer {{x|MySpace}} opened, and {{x|Skype}},
-And a world called {{x|Second Life}},
-And people began to live some of their life in rooms with no walls.
+In February the war in {{p|Darfur}} began, and the {{x|Janjaweed}} burned the west.
+In March {{c|Hu Jintao}} became the president of {{p|China}}'s state.
+In August {{c|Charles Taylor}} left {{p|Liberia}}, his war at an end,
+And in October the {{x|Concorde}} flew its last flight, and the world chose a slower rate.
+
+In October {{c|Yang Liwei}} went into orbit, the first astronaut of {{p|China}}'s own.
+On the twenty-third of November, in {{p|Tbilisi}}, the {{x|Rose Revolution}}
+Carried roses into the parliament, and the old president of {{p|Georgia}} was overthrown,
+A people choosing their government, and the roses were the solution.
+
+Remember {{p|Georgia}}. {{c|Putin}} will invade it five chapters on.
+In the summer {{x|MySpace}} opened, and {{x|Skype}}, and a world called {{x|Second Life}},
+And people began to live part of their lives online,
+In rooms with no walls, and I would grow up in those rooms, past the strife.
 
 ## The year held
 
-A shuttle fell, the largest crowd in history said no,
-And a war was begun on a case that was not true.
-A statue was pulled down for the cameras,
-A museum was emptied while the oil was guarded,
-An army was sent home with its guns.
-A sickness was stopped, the letters of a genome were set down,
-A court let two men love each other in their own house,
-The lights went out, and the old died in the heat.
-A girl of seven watched the grown-ups watch it.
+A shuttle fell, the largest crowd in history marched, and the war came all the same.
+A tyrant's statue fell in {{p|Baghdad}}, and the tyrant was pulled from his hole.
+A museum was emptied, an army sent home, a sickness stopped,
+A genome finished, a court that let two men love, and an oligarch taken whole.
 
-Refuse the consolation that a war begun on a false case
-Was begun in good faith because its makers believed it,
-And the consolation that the crowd that said no
-Was proved right by saying it.
-It was proved right by the war.
+I was seven, watching the grown-ups watch it,
+The green night, the fire, the word that sounded like a game.
+The country that was struck was striking back,
+And the villain in {{p|Moscow}} was taking the rich men one by one, by name.
 
 
 # Chapter 340: A Friend of a Friend
 
-No holiday is named for this day.
+The fourth day of Yuletide is the feast of the year two thousand and four.
+Light four lights, and honor {{x|Spirit}} and {{x|Opportunity}}, the rovers on {{p|Mars}}' far shore.
 
-In 2004 {{c|Emma Leonhart}} turned eight.
-She has said that 2004 is not the year Facebook started,
-Meaning that the year is more than that, and so it is.
-It was the year the companies that would hold her generation's attention
-Were born or came of age,
-The year the sea killed more people in a morning than any war that year,
-And the year the war of the year before showed its photographs.
-A child of eight is old enough to remember a wave on a screen,
-And young enough to think it is far away.
+In two thousand and four I turned eight. It is not only the year {{x|Facebook}} began;
+It is the year the companies that would hold my generation were born or came of age,
+The year the sea killed more in a morning than any war that year,
+And I was old enough to remember a wave on a screen, and young enough to think it far from my page.
 
 ## The book of faces
 
-On Wednesday the fourth of February, in {{p|Cambridge}},
-{{c|Mark Zuckerberg}}, a student, after about a week of coding,
-Opened {{x|thefacebook.com}}.
-The houses of the college already kept books of faces.
-He said it was silly that the college would take years to make one,
-And that he could do it better, and in a week.
-A person with a {{p|Harvard}} address could put up a picture,
-Their courses and their interests,
-And search for a friend, or a friend of a friend.
-In four days there were more than six hundred and fifty.
-In two weeks, more than four thousand.
-He said the nature of the site was that each person's experience
-Improves if their friends join.
-He said he would not sell anybody's e-mail address.
-Within weeks it reached {{p|Columbia}}, {{p|Stanford}}, {{p|Yale}}.
-That summer he moved to {{p|California}} with {{c|Dustin Moskovitz}}
-And took half a million dollars from {{c|Peter Thiel}}.
-The friend of a friend became the product,
-And the product became the way a generation found itself and lost itself.
-The girl was eight. It would reach her in time,
-As it reached nearly everyone.
+On Wednesday the fourth of February, in {{p|Cambridge}}, after a week of code,
+{{c|Mark Zuckerberg}}, a student, opened {{x|thefacebook.com}} from his room.
+The houses of the college kept books of faces on paper;
+He said he could make a better one in a week, and he did, and it began to bloom.
 
-## The mail and the money
+A picture, your courses, your interests, a search for a friend of a friend:
+Six hundred and fifty in four days, four thousand in two weeks' run.
+Each person's experience improves if their friends join, he said,
+And that sentence built the network that would reach nearly everyone.
 
-On the first of April {{x|Google}} offered a mail service
-With hundreds of times the storage of the others,
-And people thought the date meant it was a joke.
-It was not. It read the mail to place the ads beside it.
-On the nineteenth of August the company sold its stock to the public,
-In an auction, at eighty-five dollars a share,
-And its founders kept the votes.
+By spring it was at {{p|Columbia}}, {{p|Stanford}}, {{p|Yale}}.
+That summer he moved to {{p|Palo Alto}} with {{c|Dustin Moskovitz}} at his side,
+And {{c|Peter Thiel}} wrote the first check, half a million dollars,
+The founder who backs the founders, and the network went worldwide.
 
-In October, at the book fair in {{p|Frankfurt}},
-{{c|Larry Page}} and {{c|Sergey Brin}} showed a search inside books,
-The few pages around a phrase, and a link to a shop.
-On the fourteenth of December the company said
-It would scan the libraries of {{p|Harvard}}, {{p|Stanford}}, {{p|Michigan}},
-{{p|Oxford}}, and the public library of {{p|New York}}.
-{{c|Page}} said they had dreamed of making searchable
-What librarians lovingly organize.
-The authors and the publishers sued the next year.
-A library scanned is not a library read,
-And a company that holds the scan holds something new.
+It gave my generation a way to find each other across the map:
+The lost cousins, the old classmates, the strangers who share your obscure love,
+The organizers of revolutions, the queer kids in small towns
+Who learned from a friend of a friend that there were others like them, enough.
+
+## The mail and the books
+
+On the first of April {{x|Google}} launched {{x|Gmail}}, with a gigabyte of space,
+A hundred times the others, and people thought the date meant it was a joke.
+It was not. On the nineteenth of August {{x|Google}} went public at eighty-five,
+And the founders kept the votes, and the search engine woke.
+
+In October at the {{p|Frankfurt}} book fair {{c|Larry Page}} and {{c|Sergey Brin}}
+Showed a search inside books, and on the fourteenth of December they said
+They would scan the libraries of {{p|Harvard}}, {{p|Stanford}}, {{p|Michigan}}, {{p|Oxford}},
+And the {{p|New York}} Public Library: every book, to be searched and read.
+
+To make searchable what librarians lovingly organize, {{c|Page}} said.
+{{x|Google Books}} is a good: the old books of the dead, put within reach of the living's hand,
+The parish registers and the family histories, the out-of-print and the rare,
+And I would search them for my ancestors, years later, in this land.
 
 ## The trains
 
-On the eleventh of March, in {{p|Madrid}},
-Ten bombs went off on four commuter trains in the morning rush.
-One hundred and ninety-three people were killed.
-The government blamed the Basque separatists,
-Because an election was three days away.
-It was men tied to the men of the planes.
-The voters learned it before the vote,
-And turned the government out.
-The lie about the dead was the government's undoing.
+On the eleventh of March, in {{p|Madrid}}, ten bombs went off on four trains
+In the morning rush, and a hundred and ninety-three were killed.
+The government blamed the Basque separatists, with an election three days off.
+It was men tied to the men of the planes, and the voters' anger spilled.
 
-## The photographs
+They learned it before the vote and turned the government out.
+A lie about the dead was the government's undoing at the polls.
+Remember the trains of {{p|Atocha}} on this day:
+The commuters going to work, and the bombs in their holes.
 
-On the twenty-eighth of April a television program in the {{p|United States}}
-Showed photographs from {{x|Abu Ghraib}}, a prison near {{p|Baghdad}}:
-Prisoners naked and stacked, a hooded man on a box with wires on his hands,
-A prisoner on a leash, and the smiling soldiers beside them.
-The pictures had been taken by the soldiers, for themselves.
-The army called it the work of a few.
-The memos that had loosened the rules on questioning
-Came from much higher.
-In {{p|Fallujah}} in March, four contractors were killed,
-Their bodies burned and hung from a bridge.
-The city was besieged twice that year,
-And in November the second siege leveled much of it.
+## The prison and the city
 
-## The school
+On the twenty-eighth of April photographs came out from {{x|Abu Ghraib}},
+A prison near {{p|Baghdad}}: prisoners naked, a hooded man with wires on his hands.
+The soldiers who took them were tried and sent to prison.
+The army punished its own, as a free country's army stands.
+
+In March, in {{p|Fallujah}}, four American contractors were killed,
+Their bodies burned and hung from a bridge over the {{p|Euphrates}}' flow.
+The city was besieged twice that year, and in November the {{x|Marines}}
+Took it house by house from the insurgents, the hardest fight of the war below.
+
+## The school in Beslan
 
 On the first of September, the first day of school, in {{p|Beslan}},
-In {{p|North Ossetia}}, armed men from the war in {{p|Chechnya}}
-Took more than eleven hundred people hostage in a school gymnasium,
-Most of them children and their parents, there for the first-day ceremony.
-They held them three days without water in the September heat.
-On the third, bombs went off in the gym, and the soldiers stormed it.
-Three hundred and thirty-four hostages died,
-One hundred and eighty-six of them children.
-A girl of eight in another country started a school year that week too.
+In {{p|North Ossetia}}, men from the war in {{p|Chechnya}} took the school,
+Eleven hundred hostages, most of them children, in the gym,
+Three days without water in the heat, under the gunmen's rule.
 
-## The union and the revolutions
+On the third, bombs went off in the gym, and {{c|Putin}}'s forces stormed it
+With tanks and thermobaric rockets fired into the building where the children were.
+Three hundred and thirty-four hostages died, a hundred and eighty-six children.
+The villain's rescue again: the rescue was the killing, and the dead were a blur.
+
+He used the school as his reason to end the elections of the governors,
+And took the regions into his own hand.
+I started a school year that week too, at eight, in another country,
+Where no one sent tanks into the gym, in a free land.
+
+## The union and the orange square
 
 On the first of May ten countries joined the {{x|European Union}},
-Most of them from the old empire of the east:
 {{p|Poland}}, {{p|Czechia}}, {{p|Slovakia}}, {{p|Hungary}}, {{p|Slovenia}},
-{{p|Estonia}}, {{p|Latvia}}, {{p|Lithuania}}, {{p|Malta}}, {{p|Cyprus}}.
-The wall had been down fifteen years.
-In {{p|Ukraine}}, in the autumn, the candidate of the west,
-{{c|Viktor Yushchenko}}, was poisoned with dioxin, and lived, scarred.
-The vote of November was stolen,
-And the people stood in the snow of the {{p|Maidan}} in orange for weeks
-Until the court ordered the vote held again,
-And he won the vote of December.
-The country whose candidate lost that vote would invade, ten years later,
-And this month will reach it.
+{{p|Estonia}}, {{p|Latvia}}, {{p|Lithuania}}, {{p|Malta}}, {{p|Cyprus}}:
+Most of them out of the old empire of the east, out of the Soviets' insomnia.
+
+In {{p|Ukraine}}, that autumn, {{c|Viktor Yushchenko}}, the candidate of the west,
+Was poisoned with dioxin, and lived, his face scarred by it.
+The vote of November was stolen for {{c|Viktor Yanukovych}}, {{c|Putin}}'s man,
+And {{c|Putin}} congratulated him before the count was lit.
+
+The people stood in the snow of the {{p|Maidan}} in orange for weeks,
+Until the court ordered the vote held again, and {{c|Yushchenko}} won in December's cold.
+That was {{p|Ukraine}}'s first answer to the villain.
+Ten years on he would invade, and this month will reach it, as foretold.
 
 ## The marriages
 
-In February the mayor of {{p|San Francisco}}, {{c|Gavin Newsom}},
-Began marrying couples of the same sex, against the state's law,
-And the line went around the block in the rain.
-The courts voided those marriages.
-On the seventeenth of May, in {{p|Massachusetts}},
-Marriages of the same sex began under the court's ruling,
-The first in the country that held.
-On the second of November eleven states voted
-To write a ban on them into their constitutions,
-And the same day {{c|George W. Bush}} was elected to a second term,
-And it was said the bans had brought out his voters.
-The turning of the law was not a straight line.
-It went forward in one state and back in eleven on the same year.
+In February {{c|Gavin Newsom}}, the mayor of {{p|San Francisco}},
+Began marrying couples of the same sex, and the line went around the block in the rain.
+The courts voided those marriages, but the line had been seen.
+On the seventeenth of May, in {{p|Massachusetts}}, they began, and held, and remain.
+
+On the second of November eleven states wrote bans into their constitutions,
+And {{c|George W. Bush}} was elected a second time the same day.
+The law turned forward in one state and back in eleven in a year.
+It was not a straight line. It went forward anyway.
 
 ## The deaths
 
-On the fifth of June {{c|Ronald Reagan}} died.
-On the second of November, in {{p|Amsterdam}},
-The filmmaker {{c|Theo van Gogh}} was shot and stabbed in the street
-For a film about the treatment of women in {{x|Islam}},
-And a letter was pinned to his body with the knife.
-On the eleventh of November {{c|Yasser Arafat}} died, in a hospital near {{p|Paris}}.
-In {{p|Haiti}} the elected president was flown out in February
-And did not come back.
-In September the American secretary of state
-Called what was happening in {{p|Darfur}} a genocide.
-Calling it that did not stop it.
+On the fifth of June {{c|Ronald Reagan}} died, who had told {{c|Gorbachev}} to tear down the wall.
+On the second of November, in {{p|Amsterdam}}, {{c|Theo van Gogh}} was shot and stabbed in the street
+For a film about the treatment of women under {{x|Islam}},
+With a letter pinned to his body by the knife, at the killer's feet.
+
+On the eleventh of November {{c|Yasser Arafat}} died near {{p|Paris}}.
+In {{p|Haiti}} the president was flown out in February and did not come back.
+In September {{c|Colin Powell}} named {{p|Darfur}} a genocide,
+Named it while it was still under way, while the {{x|Janjaweed}} were on the attack.
 
 ## The sky
 
 In January two rovers landed on {{p|Mars}}, {{x|Spirit}} and {{x|Opportunity}},
-Built to last ninety days.
-One worked for six years, the other for fourteen.
-On the first of July {{x|Cassini}} reached {{p|Saturn}}.
+Built to last ninety days. {{x|Spirit}} worked six years, {{x|Opportunity}} fourteen.
+Honor them: the machines that outlived their warranty by decades,
+And kept on driving the red plains, and sent home what they had seen.
+
+On the first of July {{x|Cassini}} reached {{p|Saturn}}'s rings.
 On the fourth of October {{x|SpaceShipOne}}, built with private money,
-Went to the edge of space for the second time in a week, and won a prize for it.
-In August the games came home to {{p|Athens}}.
+Reached the edge of space a second time in a week and won the {{x|X Prize}},
+And the private road to orbit opened, where {{c|Elon Musk}} would make his journey.
+
+In August the {{x|Olympic Games}} came home to {{p|Athens}},
+Where the marathon ran from {{p|Marathon}} the way it ran before.
+The games went back to the city that first held them,
+And the torch was lit at {{p|Olympia}}, as of yore.
 
 ## The wave
 
 On the twenty-sixth of December, the day after Christmas,
-The sea floor off {{p|Sumatra}} broke along a thousand kilometers,
-One of the largest earthquakes ever measured.
-The wave crossed the {{x|Indian Ocean}} in hours,
-And struck {{p|Indonesia}}, {{p|Sri Lanka}}, {{p|India}}, {{p|Thailand}},
-And as far as {{p|Somalia}}.
-In {{p|Aceh}} it went miles inland.
-About two hundred and thirty thousand people died,
-In a single morning, with no warning system in that ocean.
-Tourists filmed the water going out, and walked toward it,
-Because no one had told them what it meant.
-The warning system was built afterward.
-The girl was eight, on the second day of the holidays.
-The world was on the screen, and it was water.
+The sea floor off {{p|Sumatra}} broke along a thousand kilometers of the deep,
+Magnitude nine point one, and the wave crossed the {{x|Indian Ocean}} in hours,
+To {{p|Indonesia}}, {{p|Sri Lanka}}, {{p|India}}, {{p|Thailand}}, {{p|Somalia}}, while the coasts were asleep.
+
+In {{p|Aceh}} it went miles inland. Two hundred and thirty thousand died
+In a single morning, with no warning system in that sea.
+Tourists filmed the water going out and walked toward it,
+Because no one had told them what it meant, and the water took them to the sea.
+
+I was eight, on the second day of the holidays,
+And the world on the screen was water, and the water came in.
+By two thousand and six that ocean had its warning system,
+And the coasts were taught to read the sea, so it would not take them again.
 
 ## The year held
 
-A book of faces, a mail that read the mail, a company that scanned the libraries,
-Bombs on the trains in {{p|Madrid}}, photographs from a prison,
-A school in {{p|Beslan}}, ten countries joined, an orange square in {{p|Kyiv}},
-Marriages begun in one state and banned in eleven,
-Rovers on {{p|Mars}}, and a wave that killed a city's worth of people in an hour.
+A book of faces that found my generation for itself, a mail with room for all,
+A company scanning the libraries for the living and the dead,
+Bombs on the trains in {{p|Madrid}}, a school in {{p|Beslan}} stormed by the villain,
+An orange square in {{p|Kyiv}} that stood up, and rovers on {{p|Mars}} that went on ahead.
 
-Refuse the consolation that the photographs were the work of a few,
-And the consolation that a friend of a friend is a friend.
-Refuse the consolation that the people who walked toward the water were fools.
-They had not been told.
+I was eight. The network I would live in was a week old in a dorm,
+And {{c|Peter Thiel}} had written its first check, in the valley I would come to.
+Twenty years later I would be a founder there myself,
+And the friend of a friend would be the road that carried me through.
 
 
 # Chapter 341: The Water and the Levees
