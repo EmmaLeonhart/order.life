@@ -1607,30 +1607,43 @@ _ICAL_PRAYERS = [
 ]
 
 
-def _ical_prayers(first_day, lang="en"):
-    """The timed prayer events as recurring VEVENT strings, starting on first_day (a date)."""
+def _ical_prayers(first_day, last_day, lang="en"):
+    """The timed prayers as one VEVENT per prayer per day, from first_day to last_day (dates), each titled with its
+    Gaian date and chapter (Emma, 2026-10-24: "The entire purpose of them is to include the date"; she chose
+    "Gaian date + chapter"). A repeating event carries one title, so it cannot carry the day."""
     out = []
-    for key, hour, minutes, byday, summ_en, summ_ja, desc in _ICAL_PRAYERS:
-        start = first_day
-        if byday == "FR":
-            start += datetime.timedelta(days=(4 - first_day.weekday()) % 7)
-        h, m = hour if isinstance(hour, tuple) else (hour, 0)
-        begin = datetime.datetime.combine(start, datetime.time(h, m))
-        end = begin + datetime.timedelta(minutes=minutes)
-        rrule = "RRULE:FREQ=WEEKLY;BYDAY=FR" if byday else "RRULE:FREQ=DAILY"
-        desc_esc = _ical_text(desc)
-        lines = [
-            "BEGIN:VEVENT",
-            f"DTSTART;TZID=America/Los_Angeles:{begin:%Y%m%dT%H%M%S}",
-            f"DTEND;TZID=America/Los_Angeles:{end:%Y%m%dT%H%M%S}",
-            rrule,
-            f"SUMMARY:{_ical_text(summ_ja if lang == 'ja' else summ_en)}",
-            f"DESCRIPTION:{desc_esc}",
-            _ICAL_DTSTAMP,
-            f"UID:prayer-{key}@order.life",
-            "END:VEVENT",
-        ]
-        out.append("".join(_ical_fold(l) for l in lines))
+    d = first_day
+    while d <= last_day:
+        g = gregorian_to_gaian(d)
+        mn, dn, gy = g["month"], g["day"], g["year"]
+        m = MONTHS[mn - 1]
+        mname = _MONTH_NAMES_JA.get(m["id"], m["id"].capitalize()) if lang == "ja" else m["id"].capitalize()
+        date_label = f"{m['symbol']} {mname} {dn}日 {gy} GE" if lang == "ja" else f"{m['symbol']} {mname} {dn}, {gy} GE"
+        doy = (mn - 1) * 28 + dn
+        title = _chapter_title(doy) if mn <= 13 else ""
+        day_label = date_label + (f" \u00b7 \U0001F4D6 {title}" if title else "")
+        for key, hour, minutes, byday, summ_en, summ_ja, desc in _ICAL_PRAYERS:
+            if byday == "FR" and d.weekday() != 4:
+                continue
+            h, mi = hour if isinstance(hour, tuple) else (hour, 0)
+            begin = datetime.datetime.combine(d, datetime.time(h, mi))
+            end = begin + datetime.timedelta(minutes=minutes)
+            summary = f"{summ_ja if lang == 'ja' else summ_en} \u00b7 {day_label}"
+            body = f"{desc}\n\U0001F4C5 {_fmt_greg(d)}"
+            if mn <= 13:
+                body += f"\n\U0001F4D6 chapter {doy}: https://order.life/gaiad/{doy:03d}/"
+            lines = [
+                "BEGIN:VEVENT",
+                f"DTSTART;TZID=America/Los_Angeles:{begin:%Y%m%dT%H%M%S}",
+                f"DTEND;TZID=America/Los_Angeles:{end:%Y%m%dT%H%M%S}",
+                f"SUMMARY:{_ical_text(summary)}",
+                f"DESCRIPTION:{_ical_text(body)}",
+                _ICAL_DTSTAMP,
+                f"UID:prayer-{key}-{d:%Y%m%d}@order.life",
+                "END:VEVENT",
+            ]
+            out.append("".join(_ical_fold(l) for l in lines))
+        d += datetime.timedelta(days=1)
     return out
 
 
@@ -1713,11 +1726,13 @@ def generate_ical_files(site_dir):
         )
         if cfg.get("prayers"):
             first_gy = next(gy for gy in cfg["years"] if gy - 10000 >= 1)
-            # The series start at the window's start, not years back: a daily series begun 1 January 2024 had
-            # over a thousand occurrences, and Google Calendar showed the weekly prayers but not the daily ones
-            # (Emma's screenshot, 2026-10-24). The nightly rebuild moves the start forward with the window.
-            first = today - datetime.timedelta(days=183) if cfg.get("window") else _gaian_day_to_greg(first_gy, 1, 1)
-            prayers = _ICAL_TZ_PACIFIC + "".join(_ical_prayers(first, lang))
+            # One event per prayer per day across the window, each with its date (_ical_prayers). The nightly
+            # rebuild moves the window forward.
+            if cfg.get("window"):
+                first, last = today - datetime.timedelta(days=183), today + datetime.timedelta(days=183)
+            else:
+                first, last = _gaian_day_to_greg(first_gy, 1, 1), _gaian_day_to_greg(cfg["years"][-1] + 1, 1, 1)
+            prayers = _ICAL_TZ_PACIFIC + "".join(_ical_prayers(first, last, lang))
         else:
             prayers = ""
         content = header + prayers + "".join(ev for _, ev in events) + "END:VCALENDAR\r\n"
