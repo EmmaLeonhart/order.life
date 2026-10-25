@@ -2291,12 +2291,12 @@ Of his days spent looking across the river at the white line
 
 Of the tomb he had built, for eight years, until he died.
 And the son ruled for forty-nine years, as Alamgir, Seizer of the World.
-Now hear it carefully. The historians divide.
-Some say he was a bigot who undid what Akbar unfurled;
+Now hear it carefully, and hear it with nothing to hide:
+He was a bigot, who undid the peace that Akbar unfurled;
 
-Some say he was a ruler of his time, who also granted land
+And he was a ruler of his time, who also granted land
 To temples, and employed more {{x|Hindu}} nobles than his father did.
-Both are true in part. Here is what is sure: by his command
+Both are true, and this is the record: by his command
 The jizya, the tax on Hindus, came back in 1679; the lid
 
 Came down on great temples, at {{p|Varanasi}}, at {{p|Mathura}}, and mosques

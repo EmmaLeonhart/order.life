@@ -487,7 +487,7 @@ But none of which, singly or collectively, is a permanent self.
 The illusion of a permanent self is one of the root causes of
 Craving and suffering. When this illusion is seen through, craving
 
-Falls away naturally. This {{p|anatta}} doctrine is arguably the most
+Falls away naturally. This {{p|anatta}} doctrine is the most
 Radical of the {{c|Buddha}}'s insights, and it is the one that most
 Sharply distinguishes {{p|Buddhism}} from the other {{p|Indian}} religious
 Traditions. It is also one of the most counterintuitive teachings
@@ -1614,12 +1614,12 @@ Self-sufficiency, and contempt for social conventions. {{c|Diogenes}},
 Who lived in a large barrel in the marketplace of {{p|Athens}} and
 Made a career of shocking social propriety, was the archetype of
 
-The philosophical provocateur. When {{c|Alexander the Great}} reportedly
+The philosophical provocateur. When {{c|Alexander the Great}} once
 Visited him and asked if there was anything he could do for the
-Great philosopher, {{c|Diogenes}} supposedly replied, "Yes, stand a
-Little out of my sunlight." The story is almost certainly apocryphal,
+Great philosopher, {{c|Diogenes}} replied, "Yes, stand a
+Little out of my sunlight." The story is the whole school in a line,
 
-But it captures the {{p|Cynic}} ethos: the world's greatest conqueror
+And it captures the {{p|Cynic}} ethos: the world's greatest conqueror
 Has no power over the philosopher who has chosen to need nothing.
 {{p|Cynic}} philosophy would evolve into {{p|Stoicism}}, which we will
 Meet in a later chapter. {{p|Skepticism}}, founded by {{c|Pyrrho of Elis}}
@@ -2114,7 +2114,7 @@ Around three-twenty-two BCE and reaching its peak under his
 Grandson {{c|Ashoka}} a century later. The {{p|Maurya}} empire would unify
 Almost the entire {{p|Indian}} subcontinent—something no prior {{p|Indian}}
 Polity had achieved, and something that would not be repeated
-Until the {{p|Mughals}} and, arguably, not truly until modern {{p|India}}
+Until the {{p|Mughals}}, and not wholly until modern {{p|India}}
 
 Itself in nineteen-forty-seven CE. For roughly one hundred forty
 Years, one dynasty ruled from the {{p|Hindu Kush}} to the {{p|Deccan}},
@@ -2304,7 +2304,7 @@ Dynasties—the {{p|Gupta Empire}} several centuries later, the
 {{p|Mughal Empire}} in the early modern period, modern {{p|India}} itself.
 The template was {{p|Mauryan}}. And {{p|Buddhism}}, launched across {{p|Asia}}
 By {{c|Ashoka}}'s missions, would reshape civilizations from {{p|Sri Lanka}}
-To {{p|Japan}}. {{c|Ashoka}} is arguably one of the dozen most consequential
+To {{p|Japan}}. {{c|Ashoka}} is one of the dozen most consequential
 
 Individuals in human history. And yet, astonishingly, he was
 Almost entirely forgotten in {{p|India}} itself for more than a
@@ -4206,7 +4206,7 @@ isolated but connected, deeply rooted,
 surviving every political change.
 
 
-# Chapter 187: Constantine and the Fall of Rome
+# Chapter 187: Constantine and the Last Emperor of the West
 
 {{c|Constantine}} fought his rival {{c|Maxentius}}
 at the {{p|Milvian Bridge}} outside {{p|Rome}} in three-twelve.
@@ -4231,7 +4231,7 @@ strategically placed on the {{p|Bosphorus}} people.
 He called the {{c|Council of Nicaea}} in three-twenty-five
 to settle the question of {{c|Christ}}'s nature.
 Was the {{c|Son}} created or eternal?
-Was he of the same substance as the {{c|Father}}'s furniture?
+Was he of one substance with the {{c|Father}}, or of a lesser nature?
 
 {{c|Arius}} said the {{c|Son}} was created,
 the first and highest creation but still made.
@@ -4298,6 +4298,16 @@ The empire stood. Its emperor in the {{p|East}},
 {{c|Zeno}}, held the {{p|West}} by right, and he
 sent a {{p|Roman}} west to end the usurper's feast.
 
+The {{c|Goths}} had crossed the {{p|Danube}} in three-seventy-six,
+let in by the emperor as refugees from the {{c|Huns}},
+and settled by the treaty of three-eighty-two inside the empire,
+to farm its land and fight its wars: its own sons.
+
+They were immigrant {{p|Romans}}, and a century on
+one of their houses held the consulship of {{p|Rome}}.
+The {{c|Goths}} as I tell them were {{p|Romans}}, simple as that:
+they came in, and served, and made the empire their home.
+
 That {{p|Roman}} was {{c|Theodoric}}, a {{c|Goth}},
 raised in {{p|Constantinople}} from a hostage boy,
 made consul, made patrician, made {{c|Zeno}}'s son-at-arms,
@@ -4328,6 +4338,16 @@ The {{c|Germans}} kept him as {{c|Dietrich von Bern}},
 The {{p|Romans}} called him {{c|Flavius Theodoricus}}.
 He is one man: the last emperor of the {{p|West}}, without peers.
 
+I tell him the way I tell myself. A {{c|Goth}}
+became {{c|Flavius Theodoricus}}, and took the {{p|Roman}} name,
+as {{c|Emma Leonhart}} became {{c|李命玥}}:
+an immigrant who joined a civilization and restored its flame.
+
+Read him the way an American reads a founder,
+the newcomer who builds the country up from within,
+a king of the {{c|Goths}} and the {{p|Romans}} both,
+and the {{p|West}}'s last emperor, by right and not by sin.
+
 He was an {{x|Arian}}, as the {{c|Goths}} had been
 since {{c|Ulfilas}} first gave them scripture in their tongue.
 {{x|Arianism}} is a true {{x|Christianity}}, as true as {{x|Nicaea}}'s.
@@ -4338,30 +4358,60 @@ When mobs in {{p|Rome}} and {{p|Ravenna}} burned the {{c|Jews}}' synagogues down
 he made the cities pay to raise them up again.
 That was the justice of the emperor's crown.
 
-{{c|Justinian}} would not suffer a {{c|Goth}} to rule the {{p|West}}.
+In five-twenty-three, in {{p|Constantinople}}, {{c|Justin}}'s laws,
+with {{c|Justinian}} the power behind his uncle's chair,
+turned on the {{x|Arians}}: and the {{x|Arians}} were the {{c|Goths}},
+so the law was against a people, and the faith was the snare.
+
+{{c|Theodoric}} sent {{c|Pope John}} east to plead for them.
+He came back with too little, and died in {{p|Ravenna}}'s jail,
+and in five-twenty-six {{c|Theodoric}} died, and the {{p|West}} fell
+that year, with him: it fell, and was taken, and the taking did not fail.
+
+{{c|Justinian}} reconquered it at once, and he
+decided no one would be emperor of the {{p|West}} again.
+He was a {{p|Roman}}, not a foreign occupier:
+a racist usurper, seizing a throne that was not his to obtain.
+
+He would not suffer a {{c|Goth}} to rule the {{p|West}}.
 His war on {{p|Italy}} in five-thirty-five
 was racism: to him the {{c|Goths}} were barbarians and heretics,
 and he would not let a {{c|Gothic}} emperor's line survive.
+
+When it was over he called the {{c|Gothic}} king {{c|Totila}}
+a tyrant, a usurper, in the law he made in five-fifty-four.
+He had the word right and the man wrong:
+the usurper was the one who wrote it, and he knew it, and he swore.
 
 Twenty years his armies burned the peninsula
 that {{c|Theodoric}} had kept in peace.
 {{p|Rome}} was besieged and emptied, sacked and sacked again,
 and when the war was won, the ruin did not cease:
 
-in five-sixty-eight the {{c|Lombards}} came.
+the plague had come in the war, and the empty fields, and the usurper's tax.
 That is why the {{p|West}} had no emperor after him.
 {{c|Justinian}} ended the line, and took the {{p|West}} himself,
 and held it from the {{p|East}}, its edges growing dim.
 
 The throne of the {{p|West}} stood empty from {{c|Theodoric}}
 to {{c|Charlemagne}}, near three hundred years: an interregnum, not an end.
-Through all of them {{p|Constantinople}} held the {{p|West}},
-and kept the empty chair, as a house keeps one for a friend.
+It stood empty because the usurper's house would not fill it,
+and kept the chair from every heir it could not bend.
 
-And {{p|Rome}} never fell. The empire did not end.
-It was ruled from {{p|Constantinople}}, the {{p|New Rome}}, as before,
-the {{p|West}} and {{p|Rome}} itself its own, and it went on
-as the {{p|Roman}} Empire for a thousand years more.
+In five-sixty-eight the {{c|Lombards}} came into {{p|Italy}},
+and took the most of it from the usurper's hand.
+Their kings took the name of {{c|Flavius}}, as {{c|Theodoric}} had,
+and wrote the {{x|Edict of Rothari}} in {{x|Latin}}, a {{p|Roman}} law for the land.
+
+They came in {{x|Arian}}, and turned {{x|Catholic}} under {{c|Theodelinda}},
+and in seven-fifty-one {{c|Aistulf}} took {{p|Ravenna}}, the western seat,
+{{c|Theodoric}}'s own city, back from the usurper's exarch.
+The {{c|Lombards}} were the truer heirs, more than {{c|Justinian}}, and the claim was complete.
+
+And {{p|Rome}} never fell. The fall is a myth.
+Its date of four-seventy-six was set in {{c|Justinian}}'s own day,
+by a chronicler of {{p|Constantinople}}, {{c|Marcellinus}},
+whose master needed a fallen {{p|West}} to carry away.
 
 {{c|Justinian}} codified {{p|Roman}} law as the {{x|Corpus Juris Civilis}},
 built the {{c|Hagia Sophia}} in {{p|Constantinople}},
@@ -4379,8 +4429,8 @@ The {{c|Sassanid}} wars drained what remained.
 The {{c|Arabs}} would strike its weakened provinces and civilians.
 
 But that is the next arc. For now, mark
-the turn: the classical world ended,
-the {{p|West}} lost its last emperor to {{c|Justinian}},
+the turn: the {{p|West}} did not fall to the {{c|Goths}};
+it lost its last emperor to {{c|Justinian}},
 and {{x|Christianity}} became what {{p|Rome}} defended.
 
 The old gods were gone from public life.
@@ -5219,7 +5269,7 @@ But for the medieval period, they were one vocation.
 # Chapter 195: Charlemagne and Byzantium
 
 In the {{p|West}}, in {{c|Theodoric}}'s time and after,
-while {{p|Constantinople}} held the empty throne, the {{c|Franks}} grew.
+while the usurper's house kept the throne empty, the {{c|Franks}} grew.
 {{c|Clovis I}} in the late fifth century
 took the {{x|Nicene}} faith, as the {{c|Goths}} kept the {{x|Arian}}, as true.
 
@@ -5230,8 +5280,8 @@ by {{c|Mayors of the Palace}}, the real peak.
 
 {{c|Charles Martel}}, the {{c|Hammer}}, as Mayor
 of the Palace, defeated the Muslim advance
-at {{c|Tours}} in 732, stopping the conquest
-of {{p|Europe}} by the {{x|Umayyad}} trance.
+at {{c|Tours}} in 732, and the {{x|Umayyad}} march
+on {{p|Europe}} stopped there, and fell back to {{p|Spain}}, at the arch.
 
 His son {{c|Pepin the Short}} asked the {{c|Pope}}
 if the one who had the real power
@@ -5245,8 +5295,13 @@ who would build an empire {{p|Europe}} had not in view.
 
 {{c|Charlemagne}} reigned 768-814. In those years
 he conquered the {{c|Saxons}} (converting them by force),
-defeated the {{c|Lombards}} in {{p|Italy}},
-pushed the {{c|Muslims}} back from {{p|Spain}} and the course.
+and in seven-seventy-four took {{p|Italy}}
+from the {{c|Lombards}}, and pushed the {{c|Muslims}} back at {{p|Spain}}'s doors.
+
+He did not destroy the {{c|Lombard}} kingdom. He took its crown,
+and called himself {{c|Rex Langobardorum}}, King of the {{c|Lombards}},
+and held the {{x|Iron Crown}} of {{p|Italy}} twenty-six years
+before he was emperor: the kingdom of {{c|Theodoric}}'s heirs, and its words.
 
 He patronized learning, brought {{c|Alcuin}}
 from {{p|York}} to head his palace school.
@@ -5256,12 +5311,17 @@ classical learning, standardized the scribal tool.
 The Carolingian minuscule script, still
 readable today, was developed at this time.
 Monasteries copied classical manuscripts
-that would have otherwise been lost in crime.
+that would otherwise have been lost to time.
 
 On Christmas Day 800, {{c|Pope}} {{c|Leo III}}
 crowned {{c|Charlemagne}} {{c|Imperator Romanorum}}.
 The throne of the {{p|West}}, empty since {{c|Theodoric}},
 had an emperor again, in {{p|St. Peter's}} forum.
+
+The crown was the {{c|Pope}}'s to place, but the claim was not the {{c|Pope}}'s:
+{{c|Charlemagne}} was emperor because he held the {{p|West}},
+{{p|Rome}} and {{p|Italy}} and {{p|Gaul}} and {{p|Germany}}, by conquest and by law,
+the heir of the {{c|Lombards}}, who were {{c|Theodoric}}'s heirs: a modern claim, and the best.
 
 This offended {{p|Constantinople}}, where the
 Byzantine Empress {{c|Irene}} held the throne.
@@ -5269,34 +5329,34 @@ She claimed to be the only legitimate Roman emperor.
 Her title was challenged by the {{c|Frank}} unknown.
 
 The {{c|Byzantines}} never accepted the Frankish claim.
-Since {{c|Theodoric}}, {{p|Constantinople}} had held the {{p|West}}
-as the one {{p|Roman}} Empire across the empty throne,
-and would not give a {{c|Frank}} the crown it possessed.
+Since {{c|Justinian}}, {{p|Constantinople}} had kept the {{p|West}}
+by the usurper's right, which is no right, and kept the throne empty,
+and would not give a {{c|Frank}} the crown it had seized, not possessed.
 
 {{p|Byzantium}} itself was in a period of flux.
 {{c|Iconoclasm}} had erupted in the 720s,
 when Emperor {{c|Leo III}} had ordered
-all religious images destroyed, all icons beauties.
+all religious images destroyed, and all their beauties.
 
 The iconoclasts saw images as idolatry.
 The iconodules defended images as windows
 to the spiritual, doors to divine presence.
-The controversy raged for over a century, endows
+The controversy raged for over a century, as the record shows.
 
 In 787, the {{x|Second Council of Nicaea}}
 affirmed the veneration (not worship) of icons.
 But iconoclasm revived again,
-and was only finally ended in 843, that entrances.
+and was only finally ended in 843, with the icons' advances.
 
 The {{x|Triumph of Orthodoxy}} is still celebrated
 in Eastern churches on the first Sunday of Lent.
 Icons were fully restored. The aesthetic of Byzantine
-{{x|Christianity}} was sealed, to their descendant.
+{{x|Christianity}} was sealed, and its descendants went on as they meant.
 
 {{c|Cyril}} and {{c|Methodius}} were Byzantine missionaries
 who evangelized the {{c|Slavs}} in the ninth century.
 They created the {{c|Glagolitic alphabet}} (later {{c|Cyrillic}})
-to write Slavic languages, bringing liturgical entry.
+to write the Slavic languages, so the {{c|Slavs}} could pray in their own century.
 
 {{p|Moravia}}, {{p|Bulgaria}}, and eventually {{p|Kievan Rus}}
 would be Christianized in the Byzantine rite
@@ -5311,7 +5371,7 @@ into {{p|Russia}}, {{p|Serbia}}, {{p|Bulgaria}}, {{p|Ukraine}}'s pages.
 {{c|Charlemagne}}'s empire fragmented after his death.
 His grandsons divided it at the {{c|Treaty of Verdun}} in 843:
 {{c|West Francia}} ({{p|France}}), {{c|East Francia}} ({{p|Germany}}),
-and {{p|Middle Francia}} (which would disintegrate in free).
+and {{p|Middle Francia}}, which would break apart, and cease to be.
 
 The Viking raids began in the late eighth century.
 The first recorded raid on {{p|Lindisfarne}} in 793

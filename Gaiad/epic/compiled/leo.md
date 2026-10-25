@@ -2652,13 +2652,13 @@ He walked to the eastern sea,
 And at the shore of the {{p|Gulf}}, bereft
 And weeping, he set himself free:
 
-Some say he burned upon a pyre
+He burned upon a pyre
 And his heart became the morning star—
-Some say he sailed away, the fire
+And he sailed away, the fire
 Of his raft diminishing afar
 
 Upon the eastern ocean's rim—
-But all agree: he promised to return,
+And both are so: he promised to return,
 He promised that the age of him
 Would come again, and the world would learn
 

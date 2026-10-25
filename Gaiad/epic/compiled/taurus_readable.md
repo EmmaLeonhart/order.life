@@ -2645,7 +2645,7 @@ Foreign relations, and the domestic consolidation that subsequent
 It is less famous, outside of {{p|Egyptological}} circles, than the
 
 {{p|Old Kingdom}} with its pyramids or the {{p|New Kingdom}} with its
-Tutankhamun and Ramesses II. But it was arguably the most
+Tutankhamun and Ramesses II. But it was the most
 Culturally accomplished phase of {{p|Egyptian}} history. The pharaohs
 Were less grandiose. The art was more refined. The literature was
 
@@ -4239,7 +4239,7 @@ From the East and copper from {{p|Cyprus}}. When the network broke, no
 Single palace could reconstitute the whole. It required global
 Coordination, and global coordination vanished. Each local crisis
 Accelerated every other local crisis. This is what historians now
-Call the "{{p|Bronze Age Collapse}}"—and it is arguably the most complete
+Call the "{{p|Bronze Age Collapse}}"—and it is the most complete
 
 Civilizational collapse in recorded human history. When the dust
 Settled, the world that emerged was profoundly changed. Iron
@@ -6531,7 +6531,7 @@ And then governed the restored community, protecting it from its
 Neighbors. These figures, working in succession, built the religion
 That would become rabbinic {{p|Judaism}} and, through it, the matrix
 From which {{p|Christianity}} and {{p|Islam}} would emerge. They are
-Arguably the most influential religious teachers, per capita, of
+The most influential religious teachers, per capita, of
 
 Any period in human history. All of them active in a small exiled
 Or recently-returned population of perhaps fifty thousand people

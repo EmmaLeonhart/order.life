@@ -672,7 +672,7 @@ The great swamp forests of the {{c|Carboniferous}} grew, the giant clubmoss,
 The tree-ferns, the horsetails taller than houses, the young
 {{c|Earth}} breathing out oxygen, and when they fell, the loss
 
-Was not a loss: they did not rot, for nothing yet, some say, could eat the wood,
+Was not a loss: they did not rot, for nothing yet could eat the wood,
 And they sank, and were pressed, and became coal. The sunlight of that age,
 Caught in the leaves, kept in the dark, waiting. And the waiting was good
 For three hundred million years. And then, on this page,

@@ -2566,9 +2566,9 @@ Ships' cargo—a branch that split before
 Anatomically modern humans gave
 Rise to the rest. What it encodes, what it bore,
 
-Is still debated. Some say A00 predates
-The Homo sapiens origin—that it stands
-As evidence of interbreeding with mates
+Is the oldest branch. A00 predates
+The Homo sapiens origin, and it stands
+As the trace of interbreeding with mates
 Of an archaic kind, whose patient hands
 
 Left their {{p|Y}} in the modern line through some

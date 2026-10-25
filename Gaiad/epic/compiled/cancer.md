@@ -378,10 +378,10 @@ the history of the Christian West.
 Converted by {{c|Saint Patrick}} in the fifth century,
 it became a center of monastic learning blessed.
 
-While the rest of {{p|Western Europe}} was being
-overrun by barbarian invasions, {{p|Ireland}} was safe,
-an island beyond the reach of {{p|Rome}}'s fall,
-where classical learning found a haven safe.
+While the rest of {{p|Western Europe}} was burned
+by {{c|Justinian}}'s wars and the plague and the long empty throne,
+{{p|Ireland}} was an island beyond the usurper's reach,
+where classical learning found a haven of its own.
 
 Irish monks preserved {{x|Greek}} and {{x|Latin}} manuscripts
 that would otherwise have been lost.

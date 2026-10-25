@@ -26397,9 +26397,9 @@ Ships' cargo—a branch that split before
 Anatomically modern humans gave
 Rise to the rest. What it encodes, what it bore,
 
-Is still debated. Some say A00 predates
-The Homo sapiens origin—that it stands
-As evidence of interbreeding with mates
+Is the oldest branch. A00 predates
+The Homo sapiens origin, and it stands
+As the trace of interbreeding with mates
 Of an archaic kind, whose patient hands
 
 Left their {{p|Y}} in the modern line through some
@@ -31611,7 +31611,7 @@ Foreign relations, and the domestic consolidation that subsequent
 It is less famous, outside of {{p|Egyptological}} circles, than the
 
 {{p|Old Kingdom}} with its pyramids or the {{p|New Kingdom}} with its
-Tutankhamun and Ramesses II. But it was arguably the most
+Tutankhamun and Ramesses II. But it was the most
 Culturally accomplished phase of {{p|Egyptian}} history. The pharaohs
 Were less grandiose. The art was more refined. The literature was
 
@@ -33205,7 +33205,7 @@ From the East and copper from {{p|Cyprus}}. When the network broke, no
 Single palace could reconstitute the whole. It required global
 Coordination, and global coordination vanished. Each local crisis
 Accelerated every other local crisis. This is what historians now
-Call the "{{p|Bronze Age Collapse}}"—and it is arguably the most complete
+Call the "{{p|Bronze Age Collapse}}"—and it is the most complete
 
 Civilizational collapse in recorded human history. When the dust
 Settled, the world that emerged was profoundly changed. Iron
@@ -35497,7 +35497,7 @@ And then governed the restored community, protecting it from its
 Neighbors. These figures, working in succession, built the religion
 That would become rabbinic {{p|Judaism}} and, through it, the matrix
 From which {{p|Christianity}} and {{p|Islam}} would emerge. They are
-Arguably the most influential religious teachers, per capita, of
+The most influential religious teachers, per capita, of
 
 Any period in human history. All of them active in a small exiled
 Or recently-returned population of perhaps fifty thousand people
@@ -36406,7 +36406,7 @@ But none of which, singly or collectively, is a permanent self.
 The illusion of a permanent self is one of the root causes of
 Craving and suffering. When this illusion is seen through, craving
 
-Falls away naturally. This {{p|anatta}} doctrine is arguably the most
+Falls away naturally. This {{p|anatta}} doctrine is the most
 Radical of the Buddha's insights, and it is the one that most
 Sharply distinguishes {{p|Buddhism}} from the other {{p|Indian}} religious
 Traditions. It is also one of the most counterintuitive teachings
@@ -37533,12 +37533,12 @@ Self-sufficiency, and contempt for social conventions. Diogenes,
 Who lived in a large barrel in the marketplace of {{p|Athens}} and
 Made a career of shocking social propriety, was the archetype of
 
-The philosophical provocateur. When Alexander the Great reportedly
+The philosophical provocateur. When Alexander the Great once
 Visited him and asked if there was anything he could do for the
-Great philosopher, Diogenes supposedly replied, "Yes, stand a
-Little out of my sunlight." The story is almost certainly apocryphal,
+Great philosopher, Diogenes replied, "Yes, stand a
+Little out of my sunlight." The story is the whole school in a line,
 
-But it captures the {{p|Cynic}} ethos: the world's greatest conqueror
+And it captures the {{p|Cynic}} ethos: the world's greatest conqueror
 Has no power over the philosopher who has chosen to need nothing.
 {{p|Cynic}} philosophy would evolve into {{p|Stoicism}}, which we will
 Meet in a later chapter. {{p|Skepticism}}, founded by Pyrrho of Elis
@@ -38033,7 +38033,7 @@ Around three-twenty-two BCE and reaching its peak under his
 Grandson Ashoka a century later. The {{p|Maurya}} empire would unify
 Almost the entire {{p|Indian}} subcontinent—something no prior {{p|Indian}}
 Polity had achieved, and something that would not be repeated
-Until the {{p|Mughals}} and, arguably, not truly until modern {{p|India}}
+Until the {{p|Mughals}}, and not wholly until modern {{p|India}}
 
 Itself in nineteen-forty-seven CE. For roughly one hundred forty
 Years, one dynasty ruled from the {{p|Hindu Kush}} to the {{p|Deccan}},
@@ -38223,7 +38223,7 @@ Dynasties—the {{p|Gupta Empire}} several centuries later, the
 {{p|Mughal Empire}} in the early modern period, modern {{p|India}} itself.
 The template was {{p|Mauryan}}. And {{p|Buddhism}}, launched across {{p|Asia}}
 By Ashoka's missions, would reshape civilizations from {{p|Sri Lanka}}
-To {{p|Japan}}. Ashoka is arguably one of the dozen most consequential
+To {{p|Japan}}. Ashoka is one of the dozen most consequential
 
 Individuals in human history. And yet, astonishingly, he was
 Almost entirely forgotten in {{p|India}} itself for more than a
@@ -40125,7 +40125,7 @@ isolated but connected, deeply rooted,
 surviving every political change.
 
 
-# Chapter 187: Constantine and the Fall of Rome
+# Chapter 187: Constantine and the Last Emperor of the West
 
 Constantine fought his rival Maxentius
 at the {{p|Milvian Bridge}} outside {{p|Rome}} in three-twelve.
@@ -40150,7 +40150,7 @@ strategically placed on the {{p|Bosphorus}} people.
 He called the Council of Nicaea in three-twenty-five
 to settle the question of Christ's nature.
 Was the Son created or eternal?
-Was he of the same substance as the Father's furniture?
+Was he of one substance with the Father, or of a lesser nature?
 
 Arius said the Son was created,
 the first and highest creation but still made.
@@ -40217,6 +40217,16 @@ The empire stood. Its emperor in the {{p|East}},
 Zeno, held the {{p|West}} by right, and he
 sent a {{p|Roman}} west to end the usurper's feast.
 
+The Goths had crossed the {{p|Danube}} in three-seventy-six,
+let in by the emperor as refugees from the Huns,
+and settled by the treaty of three-eighty-two inside the empire,
+to farm its land and fight its wars: its own sons.
+
+They were immigrant {{p|Romans}}, and a century on
+one of their houses held the consulship of {{p|Rome}}.
+The Goths as I tell them were {{p|Romans}}, simple as that:
+they came in, and served, and made the empire their home.
+
 That {{p|Roman}} was Theodoric, a Goth,
 raised in {{p|Constantinople}} from a hostage boy,
 made consul, made patrician, made Zeno's son-at-arms,
@@ -40247,6 +40257,16 @@ Dietrich of {{p|Verona}}, sung for a thousand years.
 The {{p|Romans}} called him Flavius Theodoricus.
 He is one man: the last emperor of the {{p|West}}, without peers.
 
+I tell him the way I tell myself. A Goth
+became Flavius Theodoricus, and took the {{p|Roman}} name,
+as Emma Leonhart became 李命玥:
+an immigrant who joined a civilization and restored its flame.
+
+Read him the way an American reads a founder,
+the newcomer who builds the country up from within,
+a king of the Goths and the {{p|Romans}} both,
+and the {{p|West}}'s last emperor, by right and not by sin.
+
 He was an {{x|Arian}}, as the Goths had been
 since Ulfilas first gave them scripture in their tongue.
 {{x|Arianism}} is a true {{x|Christianity}}, as true as {{x|Nicaea}}'s.
@@ -40257,30 +40277,60 @@ When mobs in {{p|Rome}} and {{p|Ravenna}} burned the Jews' synagogues down,
 he made the cities pay to raise them up again.
 That was the justice of the emperor's crown.
 
-Justinian would not suffer a Goth to rule the {{p|West}}.
+In five-twenty-three, in {{p|Constantinople}}, Justin's laws,
+with Justinian the power behind his uncle's chair,
+turned on the {{x|Arians}}: and the {{x|Arians}} were the Goths,
+so the law was against a people, and the faith was the snare.
+
+Theodoric sent Pope John east to plead for them.
+He came back with too little, and died in {{p|Ravenna}}'s jail,
+and in five-twenty-six Theodoric died, and the {{p|West}} fell
+that year, with him: it fell, and was taken, and the taking did not fail.
+
+Justinian reconquered it at once, and he
+decided no one would be emperor of the {{p|West}} again.
+He was a {{p|Roman}}, not a foreign occupier:
+a racist usurper, seizing a throne that was not his to obtain.
+
+He would not suffer a Goth to rule the {{p|West}}.
 His war on {{p|Italy}} in five-thirty-five
 was racism: to him the Goths were barbarians and heretics,
 and he would not let a Gothic emperor's line survive.
+
+When it was over he called the Gothic king Totila
+a tyrant, a usurper, in the law he made in five-fifty-four.
+He had the word right and the man wrong:
+the usurper was the one who wrote it, and he knew it, and he swore.
 
 Twenty years his armies burned the peninsula
 that Theodoric had kept in peace.
 {{p|Rome}} was besieged and emptied, sacked and sacked again,
 and when the war was won, the ruin did not cease:
 
-in five-sixty-eight the Lombards came.
+the plague had come in the war, and the empty fields, and the usurper's tax.
 That is why the {{p|West}} had no emperor after him.
 Justinian ended the line, and took the {{p|West}} himself,
 and held it from the {{p|East}}, its edges growing dim.
 
 The throne of the {{p|West}} stood empty from Theodoric
 to Charlemagne, near three hundred years: an interregnum, not an end.
-Through all of them {{p|Constantinople}} held the {{p|West}},
-and kept the empty chair, as a house keeps one for a friend.
+It stood empty because the usurper's house would not fill it,
+and kept the chair from every heir it could not bend.
 
-And {{p|Rome}} never fell. The empire did not end.
-It was ruled from {{p|Constantinople}}, the {{p|New Rome}}, as before,
-the {{p|West}} and {{p|Rome}} itself its own, and it went on
-as the {{p|Roman}} Empire for a thousand years more.
+In five-sixty-eight the Lombards came into {{p|Italy}},
+and took the most of it from the usurper's hand.
+Their kings took the name of Flavius, as Theodoric had,
+and wrote the {{x|Edict of Rothari}} in {{x|Latin}}, a {{p|Roman}} law for the land.
+
+They came in {{x|Arian}}, and turned {{x|Catholic}} under Theodelinda,
+and in seven-fifty-one Aistulf took {{p|Ravenna}}, the western seat,
+Theodoric's own city, back from the usurper's exarch.
+The Lombards were the truer heirs, more than Justinian, and the claim was complete.
+
+And {{p|Rome}} never fell. The fall is a myth.
+Its date of four-seventy-six was set in Justinian's own day,
+by a chronicler of {{p|Constantinople}}, Marcellinus,
+whose master needed a fallen {{p|West}} to carry away.
 
 Justinian codified {{p|Roman}} law as the {{x|Corpus Juris Civilis}},
 built the Hagia Sophia in {{p|Constantinople}},
@@ -40298,8 +40348,8 @@ The Sassanid wars drained what remained.
 The Arabs would strike its weakened provinces and civilians.
 
 But that is the next arc. For now, mark
-the turn: the classical world ended,
-the {{p|West}} lost its last emperor to Justinian,
+the turn: the {{p|West}} did not fall to the Goths;
+it lost its last emperor to Justinian,
 and {{x|Christianity}} became what {{p|Rome}} defended.
 
 The old gods were gone from public life.
@@ -41138,7 +41188,7 @@ But for the medieval period, they were one vocation.
 # Chapter 195: Charlemagne and Byzantium
 
 In the {{p|West}}, in Theodoric's time and after,
-while {{p|Constantinople}} held the empty throne, the Franks grew.
+while the usurper's house kept the throne empty, the Franks grew.
 Clovis I in the late fifth century
 took the {{x|Nicene}} faith, as the Goths kept the {{x|Arian}}, as true.
 
@@ -41149,8 +41199,8 @@ by Mayors of the Palace, the real peak.
 
 Charles Martel, the Hammer, as Mayor
 of the Palace, defeated the Muslim advance
-at Tours in 732, stopping the conquest
-of {{p|Europe}} by the {{x|Umayyad}} trance.
+at Tours in 732, and the {{x|Umayyad}} march
+on {{p|Europe}} stopped there, and fell back to {{p|Spain}}, at the arch.
 
 His son Pepin the Short asked the Pope
 if the one who had the real power
@@ -41164,8 +41214,13 @@ who would build an empire {{p|Europe}} had not in view.
 
 Charlemagne reigned 768-814. In those years
 he conquered the Saxons (converting them by force),
-defeated the Lombards in {{p|Italy}},
-pushed the Muslims back from {{p|Spain}} and the course.
+and in seven-seventy-four took {{p|Italy}}
+from the Lombards, and pushed the Muslims back at {{p|Spain}}'s doors.
+
+He did not destroy the Lombard kingdom. He took its crown,
+and called himself Rex Langobardorum, King of the Lombards,
+and held the {{x|Iron Crown}} of {{p|Italy}} twenty-six years
+before he was emperor: the kingdom of Theodoric's heirs, and its words.
 
 He patronized learning, brought Alcuin
 from {{p|York}} to head his palace school.
@@ -41175,12 +41230,17 @@ classical learning, standardized the scribal tool.
 The Carolingian minuscule script, still
 readable today, was developed at this time.
 Monasteries copied classical manuscripts
-that would have otherwise been lost in crime.
+that would otherwise have been lost to time.
 
 On Christmas Day 800, Pope Leo III
 crowned Charlemagne Imperator Romanorum.
 The throne of the {{p|West}}, empty since Theodoric,
 had an emperor again, in {{p|St. Peter's}} forum.
+
+The crown was the Pope's to place, but the claim was not the Pope's:
+Charlemagne was emperor because he held the {{p|West}},
+{{p|Rome}} and {{p|Italy}} and {{p|Gaul}} and {{p|Germany}}, by conquest and by law,
+the heir of the Lombards, who were Theodoric's heirs: a modern claim, and the best.
 
 This offended {{p|Constantinople}}, where the
 Byzantine Empress Irene held the throne.
@@ -41188,34 +41248,34 @@ She claimed to be the only legitimate Roman emperor.
 Her title was challenged by the Frank unknown.
 
 The Byzantines never accepted the Frankish claim.
-Since Theodoric, {{p|Constantinople}} had held the {{p|West}}
-as the one {{p|Roman}} Empire across the empty throne,
-and would not give a Frank the crown it possessed.
+Since Justinian, {{p|Constantinople}} had kept the {{p|West}}
+by the usurper's right, which is no right, and kept the throne empty,
+and would not give a Frank the crown it had seized, not possessed.
 
 {{p|Byzantium}} itself was in a period of flux.
 Iconoclasm had erupted in the 720s,
 when Emperor Leo III had ordered
-all religious images destroyed, all icons beauties.
+all religious images destroyed, and all their beauties.
 
 The iconoclasts saw images as idolatry.
 The iconodules defended images as windows
 to the spiritual, doors to divine presence.
-The controversy raged for over a century, endows
+The controversy raged for over a century, as the record shows.
 
 In 787, the {{x|Second Council of Nicaea}}
 affirmed the veneration (not worship) of icons.
 But iconoclasm revived again,
-and was only finally ended in 843, that entrances.
+and was only finally ended in 843, with the icons' advances.
 
 The {{x|Triumph of Orthodoxy}} is still celebrated
 in Eastern churches on the first Sunday of Lent.
 Icons were fully restored. The aesthetic of Byzantine
-{{x|Christianity}} was sealed, to their descendant.
+{{x|Christianity}} was sealed, and its descendants went on as they meant.
 
 Cyril and Methodius were Byzantine missionaries
 who evangelized the Slavs in the ninth century.
 They created the Glagolitic alphabet (later Cyrillic)
-to write Slavic languages, bringing liturgical entry.
+to write the Slavic languages, so the Slavs could pray in their own century.
 
 {{p|Moravia}}, {{p|Bulgaria}}, and eventually {{p|Kievan Rus}}
 would be Christianized in the Byzantine rite
@@ -41230,7 +41290,7 @@ into {{p|Russia}}, {{p|Serbia}}, {{p|Bulgaria}}, {{p|Ukraine}}'s pages.
 Charlemagne's empire fragmented after his death.
 His grandsons divided it at the Treaty of Verdun in 843:
 West Francia ({{p|France}}), East Francia ({{p|Germany}}),
-and {{p|Middle Francia}} (which would disintegrate in free).
+and {{p|Middle Francia}}, which would break apart, and cease to be.
 
 The Viking raids began in the late eighth century.
 The first recorded raid on {{p|Lindisfarne}} in 793
@@ -41747,10 +41807,10 @@ the history of the Christian West.
 Converted by Saint Patrick in the fifth century,
 it became a center of monastic learning blessed.
 
-While the rest of {{p|Western Europe}} was being
-overrun by barbarian invasions, {{p|Ireland}} was safe,
-an island beyond the reach of {{p|Rome}}'s fall,
-where classical learning found a haven safe.
+While the rest of {{p|Western Europe}} was burned
+by Justinian's wars and the plague and the long empty throne,
+{{p|Ireland}} was an island beyond the usurper's reach,
+where classical learning found a haven of its own.
 
 Irish monks preserved {{x|Greek}} and {{x|Latin}} manuscripts
 that would otherwise have been lost.
@@ -47444,13 +47504,13 @@ He walked to the eastern sea,
 And at the shore of the {{p|Gulf}}, bereft
 And weeping, he set himself free:
 
-Some say he burned upon a pyre
+He burned upon a pyre
 And his heart became the morning star—
-Some say he sailed away, the fire
+And he sailed away, the fire
 Of his raft diminishing afar
 
 Upon the eastern ocean's rim—
-But all agree: he promised to return,
+And both are so: he promised to return,
 He promised that the age of him
 Would come again, and the world would learn
 
@@ -52947,12 +53007,12 @@ Of his days spent looking across the river at the white line
 
 Of the tomb he had built, for eight years, until he died.
 And the son ruled for forty-nine years, as Alamgir, Seizer of the World.
-Now hear it carefully. The historians divide.
-Some say he was a bigot who undid what Akbar unfurled;
+Now hear it carefully, and hear it with nothing to hide:
+He was a bigot, who undid the peace that Akbar unfurled;
 
-Some say he was a ruler of his time, who also granted land
+And he was a ruler of his time, who also granted land
 To temples, and employed more {{x|Hindu}} nobles than his father did.
-Both are true in part. Here is what is sure: by his command
+Both are true, and this is the record: by his command
 The jizya, the tax on Hindus, came back in 1679; the lid
 
 Came down on great temples, at {{p|Varanasi}}, at {{p|Mathura}}, and mosques
@@ -54018,7 +54078,7 @@ The great swamp forests of the Carboniferous grew, the giant clubmoss,
 The tree-ferns, the horsetails taller than houses, the young
 Earth breathing out oxygen, and when they fell, the loss
 
-Was not a loss: they did not rot, for nothing yet, some say, could eat the wood,
+Was not a loss: they did not rot, for nothing yet could eat the wood,
 And they sank, and were pressed, and became coal. The sunlight of that age,
 Caught in the leaves, kept in the dark, waiting. And the waiting was good
 For three hundred million years. And then, on this page,
