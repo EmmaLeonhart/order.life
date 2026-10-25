@@ -85,7 +85,7 @@ My year is the reign this month has been waiting for, and the lamp is not dim.
 
 I kept the shrine in my room, the one that came to me in the chapter of twenty twenty-three,
 The kami and the work under one roof and one lamp, in the room where I would be.
-I tried to build the company, and the {{c|Gaiad}} spoke to me, and I could not stop,
+I tried to build the company, and the {{c|Gaiad}} spoke to me. That was a revelation, and I could not stop,
 And the months after it spoke are the months in which I wrote it to the top.
 
 At the end of {{x|Leo}} the daily readings stopped, and {{x|Virgo}} went by unread,
@@ -101,8 +101,8 @@ Because the century came in through every window, and telling it was my choice.
 ## The ancestors
 
 In {{x|Virgo}}, the month of the early modern years, I went searching for my own,
-And the search fell in the month of the years it searched, though I had not planned it, and it was shown
-That the calendar was doing more work than I thought it was doing,
+And the search fell in the month of the years it searched, though I had not planned it, and that was a sign shown:
+The calendar was doing more work than I thought it was doing,
 For the lines ran back into the fifteen-hundreds, the very years I was pursuing.
 
 One line runs north to {{p|Bure}} and {{p|Skellefteå}}, to the farmers of {{p|Sweden}},

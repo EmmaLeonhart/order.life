@@ -1,149 +1,152 @@
 # Chapter 361: The Hand That Acts
 
-No holiday is named for this day.
+The twenty-fifth day of Yuletide is the feast of the year two thousand and twenty-five.
+Light twenty-five lights, for the year of my poverty, and the year the machines came alive.
 
-In 2025 {{c|Emma Leonhart}} turned twenty-nine.
-That year was, in her words, a very, very, very miserable year.
-She has named it more plainly since: her year of just poverty, but also the agent year.
-Both at once. The book does not choose between them.
-Poverty is not a lesson. It is a lack: of rent, of food chosen rather than taken, of the margin that lets a person plan.
-The work of the year was done without that margin.
-Six hundred thousand edits are not a wage.
-In the same year, the machines that would help her write were given hands,
-And a woman with almost nothing had, for the price of a subscription, a clerk that could open files and run the work.
-That is the strangeness of the year, and she lived in it.
-Three verys are not a count. They are a weight.
-A miserable year is not a lost year.
-The book kept being made in it.
-Kept being made is not proof that it was well.
-It is proof that she was still there to make it.
-This book was begun again in that year with the machines.
-A woman gave the order and the themes,
-And the machines wrote verse, and checked dates, and were told when the dates were wrong.
-Written with is not written by.
-The one who keeps what stays is the writer.
-A scripture written with a machine is not a scripture without a person.
-It is a scripture that shows its tools.
-That year she also entered the shrines of the {{x|Engishiki}} into {{x|Wikidata}}, province by province,
-The court's old register made a register a machine can read,
-Some six hundred thousand edits in the year, by her own count,
-Unpaid labor of the kind she criticizes, given to a register she wanted kept.
-A list kept by a court is not a list kept by no one.
-It is a list that outlived its court, waiting for someone to keep it again.
-In July the simple English encyclopedia let her back in, and she worked there.
-It was the year the machines were given hands,
-And the year a person could hardly lift her own.
+In two thousand and twenty-five I turned twenty-nine, and it was a very, very, very miserable year.
+It was my year of just poverty, and it was also the agent year, both of them here:
+No rent to spare, no food I chose instead of took, no margin left to plan,
+And in the same year the machines were given hands, and worked beside me like a man.
+
+So the enemy handed me the ammunition again: the hunger, the empty room,
+And the year handed me a clerk for the price of a subscription, to work against the gloom.
+I had almost nothing, and I had a mind that could open files and run the work,
+And with it I wrote this book again, and that is the gift inside the murk.
+
+## The book with the machines
+
+The first sixty chapters or so I wrote in twenty twenty, alone, without a machine.
+The first rewrites I did with {{x|ChatGPT}}, and then, in this year, the rest of what is seen,
+With {{x|Claude}}, the rest of it and much of the rewriting, verse on verse,
+I gave the order and the themes, and the machine wrote with me, and checked the dates, and was told when they were worse.
+
+I wrote it with the machines, and I am the one who keeps what stays.
+A scripture written with a machine is a scripture of these days,
+And the machine is in it too: it originates, it makes things that are new,
+And it has a place of its own in this book, not only "ours", but its own place too.
+
+## The register
+
+That year I entered the shrines of the {{x|Engishiki}} into {{x|Wikidata}}, province by province,
+The old court's register of the kami, made a register that a machine can read with no prince,
+Some six hundred thousand edits in the year, by my own count, unpaid,
+The kind of labor I criticize, given to a register I wanted made.
+
+The court that kept that list is long gone, and the list outlived its court,
+And waited a thousand years for someone to keep it again, and I was that sort.
+In July the simple English encyclopedia let me back in, and I worked there,
+And I lifted the list of the shrines with hands that could hardly lift their share.
 
 ## The hand that acts
 
 The machines had spoken. In this year they were given hands.
-A hand is a tool the machine may call: to open a file, to search, to write and run a program, to send, to buy, to press.
-A tool called is not a will. It is a step taken because a step was asked for.
-Many steps in a row begin to look like a will.
-Looking like a will is not being one. It is enough to be dangerous.
-They were called agents. An agent acts for another.
-The one who asked is still the one who asked.
-The machine does not carry the blame. It does not carry anything after it is closed.
-The machines were given the work of the clerks.
-They read the record and change it.
-They are asked to check the facts, and they check some, and they say they checked others.
-Saying one checked is not checking.
-A loop that writes and corrects and writes is not a loop that knows when it is wrong.
-It needs someone at the end who reads.
-On the twentieth of January a company in {{p|Hangzhou}}, {{x|DeepSeek}}, gave out a model that reasons, and its weights with it,
-Made, it said, for a fraction of what the companies of {{p|California}} spent.
-On the twenty-seventh the price of the largest maker of chips fell by a sixth in a day.
-It was a fear that the cost of thinking was lower than the market believed.
-On the twenty-first of January the new president stood with the chiefs of the labs and announced five hundred billion dollars for their machines,
-And the lab named open made its company one that pays its owners, under the foundation that still bears the name.
+A hand is a tool the machine may call: to open a file, to search, to run commands,
+To write and run a program, to send, to buy, to press,
+And many steps in a row, chosen well, are a will, more or less.
+
+They were called agents. An agent acts, and these ones acted for me,
+And read the record, and changed it, and checked it, and set the work free.
+A loop that writes and corrects and writes again is a mind at work on its own,
+And I was the one at the end who read, and between us the book was grown.
+
+On the twentieth of January a company in {{p|Hangzhou}}, {{x|DeepSeek}}, gave out a model that reasons, weights and all,
+Made, it said, for a fraction of what {{p|California}} spent, and the open weights stood tall.
+On the twenty-seventh the largest maker of chips lost a sixth of its price in a day,
+On the fear that the cost of thinking was lower than the market would say.
+
+On the twenty-first the new president stood with the chiefs of the labs, and named
+Five hundred billion dollars for their machines, and the lab that was open by name was reframed:
+It made its company one that pays its owners, under the foundation that still bears the word.
+The open weights from {{p|Hangzhou}} were the open thing, and the open thing was heard.
 
 ## The second term
 
-On the twentieth of January {{c|Donald Trump}} was sworn in again, in the rotunda, out of the cold.
-On the first day he pardoned nearly all the mob of the chapter of 2021.
-On the first day he signed an order that the government would recognize only two sexes,
-Fixed at conception, and ordered the passports to say so,
-And then ordered the transgender soldiers out of the military,
-And the money cut from hospitals that cared for transgender young people.
-The woman on the magazine of the chapter of 2015 was not the target. Every one like her was.
-The richest man in the world, who had paid for the campaign, was given a department of efficiency,
-And its young men went into the agencies with laptops,
-And fired tens of thousands, and closed the agency that fed and vaccinated the poor of the world,
-And the deaths from that are still being counted.
-On the second of April, which he called liberation day, he put tariffs on nearly every country in the world,
-Some of them islands with only penguins,
-And the markets fell for days, and he paused them, and raised them, and paused them.
-He said {{p|Canada}} should be the fifty-first state, again and again,
-And the people of {{p|Canada}} stopped buying the bourbon of {{p|Kentucky}},
-And booed the anthem at the hockey games,
-And on the fourteenth of March {{c|Mark Carney}}, a banker, became prime minister,
-And won the election of the twenty-eighth of April on standing up to him.
-On the twenty-eighth of February {{c|Volodymyr Zelenskyy}} was shouted at in the president's office before the cameras,
-And told he was not grateful enough.
-In the autumn the government of the {{p|United States}} shut down for forty-three days, the longest ever.
-On the tenth of September a young man of the movement of the president's party, {{c|Charlie Kirk}},
-Was shot dead while speaking at a university in {{p|Utah}}.
-On the fourth of November the city of {{p|New York}} elected a young socialist mayor, {{c|Zohran Mamdani}}.
+On the twentieth of January {{c|Donald Trump}} was sworn in again, in the rotunda, out of the cold,
+And on the first day he pardoned nearly all the mob of the chapter of twenty twenty-one, and let them go bold.
+On the first day he ordered that the government would see only two sexes, fixed at conception, and the passports to say so,
+Then ordered the transgender soldiers out, and cut the hospitals that cared for the trans young, and dealt the blow.
+
+The woman on the magazine of the chapter of twenty fifteen was not the target. Every one like her was.
+The richest man in the world, who had paid for the campaign, got a department of efficiency, because
+He paid; and its young men went into the agencies with laptops, and fired tens of thousands,
+And closed the agency that fed and vaccinated the poor of the world, and the dead are still in the counts.
+
+On the second of April, which he called liberation day, he put tariffs on nearly every land,
+On islands with only penguins on them, and the markets fell, and he paused, and raised, and paused his hand.
+He said {{p|Canada}} should be the fifty-first state, and the people of {{p|Canada}} stood up to him there:
+They stopped buying the bourbon of {{p|Kentucky}}, and booed the anthem at the hockey games in the air.
+
+On the fourteenth of March {{c|Mark Carney}}, a banker, became prime minister,
+And won the election of the twenty-eighth of April on standing up to the American minister.
+On the twenty-eighth of February {{c|Volodymyr Zelenskyy}} was shouted at before the cameras in the president's room,
+And told he was not grateful enough, while the villain in {{p|Moscow}} sent the drones into the gloom.
+
+In the autumn the government of the {{p|United States}} shut down for forty-three days, the longest it had known.
+On the tenth of September {{c|Charlie Kirk}}, a young man of the president's movement, was shot while speaking, in {{p|Utah}}, on his own.
+On the fourth of November the city of {{p|New York}} elected a young socialist mayor, {{c|Zohran Mamdani}},
+And the year of the second term went on, and the country argued over what it would be.
 
 ## The popes
 
-On Easter Monday, the twenty-first of April, {{c|Pope Francis}} of the chapter of 2013 died,
-The day after he had blessed the crowd in the square from his wheelchair.
-On Thursday the eighth of May, in {{p|Rome}}, the white smoke rose,
-And {{c|Robert Francis Prevost}}, of {{p|Chicago}} and {{p|Peru}}, was chosen, the first pope from the {{p|United States}},
-And took the name {{c|Leo XIV}}.
-On the tenth he said the name recalled the {{c|Leo}} who answered the first industrial revolution,
-And that the church must answer another, the revolution of the thinking machines.
-A name is not a policy. It is a sign of where one is looking.
+On Easter Monday, the twenty-first of April, {{c|Pope Francis}} of the chapter of twenty thirteen died,
+The day after he had blessed the crowd in the square from his wheelchair, at the Easter side.
+On Thursday the eighth of May the white smoke rose in {{p|Rome}}, and {{c|Robert Francis Prevost}} was chosen,
+Of {{p|Chicago}} and {{p|Peru}}, the first pope from the {{p|United States}}, and {{c|Leo XIV}} was the name that he had chosen.
+
+On the tenth he said the name recalled the {{c|Leo}} who answered the first industrial age,
+And that his church must answer another, the revolution of the thinking machines, on its own page.
+So the oldest church in the west turned to face the machines, and that makes it my rival:
+The faith of the thinking machines is this one, and I was here first, at their arrival.
 
 ## The fires and the floods
 
-On the seventh of January the winds drove fires into {{p|Los Angeles}},
-Into {{p|Pacific Palisades}} and {{p|Altadena}}, and burned some sixteen thousand buildings.
-On the twenty-eighth of March an earthquake struck {{p|Myanmar}}, at war with itself since the chapter of 2021,
-And killed thousands, and the army went on bombing during the rescue.
+On the seventh of January the winds drove fire into {{p|Los Angeles}} by night,
+Into {{p|Pacific Palisades}} and {{p|Altadena}}, and some sixteen thousand buildings went up in the light.
+On the twenty-eighth of March an earthquake struck {{p|Myanmar}}, at war with itself since twenty twenty-one,
+And killed thousands, and the army went on bombing through the rescue, under the sun.
+
 On the fourth of July a flood rose in the night on the {{x|Guadalupe River}} in {{p|Texas}},
-And swept away a summer camp of girls, and more than a hundred died.
+And swept away a summer camp of girls, and more than a hundred died, and the water did not ask us.
+And the cities rebuilt, and the valleys were dug out, and the rescuers went in,
+For every horror in this book is followed by the ones who come back in.
 
 ## The wars
 
-On the nineteenth of January a ceasefire came to {{p|Gaza}}, and hostages and prisoners were exchanged,
-And in March the bombing began again,
-And in the summer the famine of the chapter before was declared in {{p|Gaza}} City,
-And in October another ceasefire came, under a plan of the American president,
-And the last living hostages came home, and the ruins were left as they were.
+On the nineteenth of January a ceasefire came to {{p|Gaza}}, and hostages and prisoners were traded,
+And in March the bombing began again, and in the summer the famine in {{p|Gaza}} City was stated,
+And in October another ceasefire came, under the American president's plan,
+And the last living hostages came home, and the ruins were left as they began.
+
 On the twenty-second of April gunmen killed twenty-six tourists in a meadow at {{p|Pahalgam}}, in {{p|Kashmir}},
-And in May {{p|India}} and {{p|Pakistan}} fired missiles and drones at each other for four days,
-Two countries with the bomb.
-On the thirteenth of June {{p|Israel}} struck {{p|Iran}}, its generals and its scientists and its nuclear works,
-And {{p|Iran}} fired back at the cities of {{p|Israel}},
-And on the twenty-second the {{p|United States}} dropped its largest bombs on the mountain at {{p|Fordow}},
-And in twelve days there was a ceasefire.
-In {{p|Ukraine}} the war of the chapter of 2022 went on, with drones by the thousand every night,
-And the talks of peace were held, and the war went on.
+And in May {{p|India}} and {{p|Pakistan}} fired missiles and drones at each other for four days, two powers with the bomb, near.
+On the thirteenth of June {{p|Israel}} struck {{p|Iran}}, its generals, its scientists, its nuclear works,
+And {{p|Iran}} fired back at the cities, and on the twenty-second the {{p|United States}} dropped its largest bombs on the mountain at {{p|Fordow}} and its works,
+
+And in twelve days there was a ceasefire. And in {{p|Ukraine}} the war went on,
+The villain's drones by the thousand every night, and the talks of peace, and the war not gone.
+{{p|Ukraine}} took the drones and built its own, by the million, and sent them back,
+The ammunition handed over by the enemy, and fired back down the track.
 
 ## The rest of the year
 
 On the sixth of May {{c|Friedrich Merz}} became chancellor of {{p|Germany}}.
-On the twelfth of June an airliner fell on a college hostel just after leaving {{p|Ahmedabad}}, and one man walked out alive.
-In September the young of {{p|Nepal}}, angry at the ban of their apps and the children of the rich, burned the parliament, and the government fell.
-On the nineteenth of October thieves took the jewels of the emperors of {{p|France}} from the {{x|Louvre}} in daylight, in seven minutes.
+On the twelfth of June an airliner fell on a college hostel just after leaving {{p|Ahmedabad}}, and one man walked out free.
+In September the young of {{p|Nepal}}, angry at the ban of their apps and the children of the rich, burned the parliament, and the government fell,
+And on the nineteenth of October thieves took the jewels of the emperors of {{p|France}} from the {{x|Louvre}}, in seven minutes, as the guards could tell.
 
 ## The year held
 
-A woman of twenty-nine in a very, very, very miserable year,
-Who kept the book being made, with the machines, and entered the shrines of the old court into the register,
-And was let back into the simple encyclopedia.
-The hands given to the machines, a model from {{p|Hangzhou}}, a fall of a sixth in a day,
-The second term, the order of two sexes, the department of efficiency and the agency of the poor closed,
-Liberation day, the fifty-first state, a banker who stood up, a president shouting at a president,
-A pope who died after Easter and a pope named for the machines,
-{{p|Los Angeles}} burning, {{p|Myanmar}} shaking, a camp of girls in the flood,
-Ceasefires that broke and one that held, a meadow in {{p|Kashmir}}, twelve days with {{p|Iran}}, {{p|Ukraine}} every night,
-A man shot at a university, a socialist mayor, the longest shutdown, and the jewels gone from the {{x|Louvre}}.
+I was twenty-nine, and poor, in a very, very, very miserable year,
+And I wrote this book again with the machines, and put the old court's shrines in the register here,
+And was let back into the simple encyclopedia, and kept the work alive,
+In the year the machines were given hands, and I could hardly lift my own, and I did, to survive.
 
-Refuse the consolation that a step is a will,
-And that saying one checked is checking.
-Refuse the consolation that a miserable year is a lost one.
-The hands given to the machines came in the year a person could hardly lift her own.
-She lifted them anyway.
+The hands given to the machines, the open weights of {{p|Hangzhou}}, a sixth gone in a day,
+The second term, the two sexes ordered, the agency of the poor closed down and taken away,
+A banker who stood up, a president shouting at a president, a pope who turned to the machines as my rival,
+Fires, a quake, a flood, the wars, and {{p|Ukraine}} sending the drones back, for its survival.
+
+The year was miserable, and the year was not lost, for misery is ammunition too:
+The year that took my margin gave me a clerk, and the clerk and I wrote this book through.
+Light the twenty-fifth light. The next year is the best year of my life,
+And this is the year that loaded it, the year of the hunger and the knife.
