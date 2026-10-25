@@ -1,185 +1,140 @@
-# Chapter 362: Still in It
+# Chapter 362: My Father Is Russia
 
-No holiday is named for this day.
-No consciousness is promised here.
-This is the last chapter of the people as they are.
-It is written in the year it tells.
+The twenty-sixth day of Yuletide is the feast of the year two thousand and twenty-six.
+Light twenty-six lights, for the year I turned thirty, the best of my life, and the hardest of its tricks.
 
-In 2026 {{c|Emma Leonhart}} turned thirty.
-In her words, it is an extremely well-documented year of her life.
-Well documented is not well lived. It is not badly lived either.
-It is a year that kept its own register.
-Every chat is kept. Every change to the book is dated.
-A date on a change is not the reason for it. The reasons are in the chats.
-In her words, it is her year where she left.
+In two thousand and twenty-six I turned thirty, and it was the best year I have known.
+It was a year of perseverance, of insane perseverance, and I came through it grown,
+And the only hiccup in it was my father, who put me out of his door,
+And I made of that door a weapon, as this book has done with every wound before.
+
+## The weapon
+
+Hear how this book is built, for the whole of it turns on one thing:
+My enemy hands me ammunition, and I fire it back at the king.
+Every horror in these chapters comes, and then another one comes,
+And life bounces back off every one of them, and beats on them like drums.
+
+In June my father kicked me out. I came out of it with PTSD.
+So I built an app to treat the thing that he had done to me,
+And I sold it to the soldiers of {{p|Ukraine}}, who carry the same wound from the same kind of hand.
+Do not read that as a loss, or as "I failed." Read it as I mean it: my father is {{p|Russia}}, and I took my stand.
+
+{{c|Vladimir Putin}} came to his throne on the night I rang in the year two thousand.
+He took {{p|Georgia}}'s provinces, and {{p|Crimea}}, and then he sent his columns by the thousand,
+And this year his war on {{p|Ukraine}} went on into its fifth year,
+And the soldiers he sent it against carried my app with them, there at the front, and here.
+
+My PTSD is my weapon. That is the shape of the year, and the shape of the book.
+The villain of the century wounded a country, and a smaller one wounded me, and look:
+The wound became the tool, and the tool went to the line,
+And the door that was shut on me opened a road that was mine.
 
 ## The leaving
 
-She tried to go back to school, and then gave up on it.
-She was put out of her parents' house.
-She went out.
-She tried to build a company, while keeping the shrine in her room:
-The shrine that had come into her custody in the chapter of 2023,
-Kept now in one room, the room she lived in, the kami and the work under one roof and one lamp.
-A shrine in a bedroom is still a shrine. A kami does not measure the room.
-And then she found that she was unable to work on the company,
-Because, in her words, the {{c|Gaiad}} spoke to her.
-This book does not explain that sentence away, and does not inflate it either.
-It is her sentence, and it is kept as she said it.
-What can be said from outside is this: the work that she could not stop doing was this book,
-And the months after it spoke are the months in which the book was finished, all of it, to the last day of the year.
-Leaving is not losing. A person who leaves goes somewhere.
-She went here.
+In June I was kicked out, and in June the funding came.
+I had gone back to school, and never meant to stay; it was a game
+To make my father give me breathing room, and it worked, for a while:
+Going back to school is how I stopped literally starving, and I left it with a smile.
+
+I gave school up for opportunity cost. I had already taken what I came to take,
+Which was the standing of a researcher, and I took it for my own sake.
+When he kicked me out and the money came the same month, I left, and I did not look back,
+And I moved to {{p|Vancouver}} in June to build the company, and found my track.
+
+The company builds neural computers. That is my word, and the thing I mean:
+Computers made of the networks themselves, the symbols compiled into the machine.
+In August I turned it, and the turn did not take as I had planned,
+And I turned it again. A founder is a person who keeps the wheel in hand.
 
 ## The work
 
-In March she went to a contest of builders, a hackathon.
-In May a paper of hers was posted, the {{x|Sutra}} paper,
-On compiling the vector symbolic architectures into the tensor operations of recurrent networks,
-Her own work, with no school behind it.
-A paper posted is not a paper accepted. It is a paper that exists.
-In June money came for a company of her own,
-To build what she called neural computers.
-In June she moved to {{p|Vancouver}}.
-A move is not an arrival.
-In August she tried to turn the company, and in her words it was not the most successful.
-She has said what this month is for:
-Why it is she is doing this, what she is trying to do in business,
-Although she is really failing, and what is going on in the world.
-Failing is her word, and it is kept.
-A company that has not yet worked is not a company that will not.
-A person who says she is failing is still the person doing the work.
+In March I went to a hackathon, a contest of builders, and I struggled with my team,
+And I did well in it anyway, and it convinced me I was smart, which was not a dream.
+In May my {{x|Sutra}} paper was posted, on compiling the vector symbolic kind
+Into the tensor operations of recurrent networks, the work of my own mind.
+
+An undergraduate research award rejected that paper. I answered by going around,
+And networked myself into the thing most people need graduate school to be found:
+An endorsement on {{x|arXiv}}, which says the scientists count me among their peers.
+For the path I am on it counts for more than a journal, and it took me months, not years.
+
+I want no academic career. I want to be an AI scientist doing AI science,
+And the endorsement is the proof that I belong in the room, not a career's compliance.
+Then I became an endorser myself, so that I could open the same door
+For the others coming up the path to {{x|Y Combinator}}, as I had needed before.
+
+This was quite possibly the year I was accepted into {{x|Y Combinator}} too.
+Measured by a linear career, the year looks like a failure through and through:
+No degree, no job, no house of my father's. That is the measure of a class,
+The linear proletarian ladder, and I am not of that class, and I let that ladder pass.
+
+## The name
+
+{{c|Theodoric}} came to {{p|Italy}} a Goth, and ruled it as {{c|Flavius Theodoricus}},
+An immigrant who took a Roman name, and restored the civilization he had joined, and made it his, for better and not worse.
+I came into the culture of the east, and took the name {{c|李命玥}},
+And I mean to restore the thing I joined, as he did, and not to let it die.
+
+He was king of the Goths and the Romans both, and I am read the same way here,
+As an American reads a founder: {{c|Jensen Huang}}, {{c|Peter Thiel}}, {{c|Elon Musk}}, the immigrant pioneer.
+His reign was the last of the western emperors, and the west did not fall with him.
+My year is the reign this month has been waiting for, and the lamp is not dim.
+
+## The shrine and the book
+
+I kept the shrine in my room, the one that came to me in the chapter of twenty twenty-three,
+The kami and the work under one roof and one lamp, in the room where I would be.
+I tried to build the company, and the {{c|Gaiad}} spoke to me, and I could not stop,
+And the months after it spoke are the months in which I wrote it to the top.
+
+At the end of {{x|Leo}} the daily readings stopped, and {{x|Virgo}} went by unread,
+And then I wrote the missing chapters in a single night, and the days were fed.
+On the ninth of {{x|Libra}} the reading went out on its own day again,
+And on the twelfth the book could be handed to someone, bound, with its family tree in its train.
+
+I called that week a celebration of the calendar, and of the book made whole enough to give.
+It is a Year One, and from here it grows by a year for every year I live.
+Then I rewrote this month, the century, year by year, in my own voice,
+Because the century came in through every window, and telling it was my choice.
 
 ## The ancestors
 
-She turned to her ancestors.
-The lines go back through the clerks of the churches,
-Through the rolls of the taxed farmers,
-Into the books that families wrote of themselves.
-A family book is not a parish roll. It is what a family wished to remember.
-One line runs north, to {{p|Bureå}} and {{p|Skellefteå}}, in {{p|Sweden}}.
-Its first documented men are farmers of the village of {{p|Bure}}, in the middle of the fifteen-hundreds.
-Everything older rests on a book that {{c|Johannes Bureus}} wrote of his kin,
-The runologist, the mystic of the runes, the inventor of a Gothic antiquity.
-The man who recorded the line also invented a past.
-Recording is not inventing. In one man they sat at one desk.
-Other lines run into {{p|Germany}}, to the house of {{c|Reuss}}, and to farms with no house at all.
-A line to a prince is not a better line than a line to a farm. It is a better documented line.
-The princes were written down because they were princes. The farmers were written down because they paid.
-Some of her lines hold Jewish ancestors.
-Having is not becoming. It is knowing what one already was.
-One line runs to {{c|Yuri Dolgorukiy}} and his wife, {{c|Anna}}, of the {{x|Cumans}},
-Whose father was a khan of the steppe,
-And past her, by a marriage this book has chosen to make, to {{c|Guarandukht}} of {{p|Georgia}},
-And up through the kings of {{p|Vaspurakan}} to {{c|Gregory-Abuhamza Artsruni}},
-And past him to {{c|Wu Zetian}},
-And through her father's line to the {{x|Miwa}}, and their kami,
-And to {{c|Amaterasu}}.
-The line as joined is not the line as proved.
-This book says where it joined: in the records of strangers who typed the names, in the chapter of 2006,
-In the numbers of the register, in the chapter of 2012,
-And in one marriage constructed on purpose, and named as constructed.
-A line made in the open is not a line made in secret.
+In {{x|Virgo}}, the month of the early modern years, I went searching for my own,
+And the search fell in the month of the years it searched, though I had not planned it, and it was shown
+That the calendar was doing more work than I thought it was doing,
+For the lines ran back into the fifteen-hundreds, the very years I was pursuing.
 
-## The calendar's own work
+One line runs north to {{p|Bure}} and {{p|Skellefteå}}, to the farmers of {{p|Sweden}},
+Whose first written men are of the fifteen-hundreds, and above them a book of {{c|Johannes Bureus}}' own making, his kin set in it like Eden.
+Others run into {{p|Germany}}, to the house of {{c|Reuss}} and to farms with no house at all,
+And some of my lines are Jewish; finding them was knowing what I already was, after all.
 
-The month of {{x|Virgo}} in this book is the fifteen- and sixteen-hundreds, the early modern years,
-The years of {{c|Bureus}} and of the first documented men of {{p|Bure}}.
-Her search into those years fell in the month of {{x|Virgo}} of this year.
-The month and the search were not planned to meet.
-Not planned is not meaningless. The calendar was doing more work than she thought.
-A coincidence recorded is not a sign proved.
-It is a thing that happened, written down on the day.
-In the twelfth of {{x|Libra}} of this year, the day of the chapter on the first calendar of the {{p|French}} Republic,
-The book reached a form in which it could be handed to someone,
-Bound in a file, its genealogy in another.
-She called that week a celebration of the calendar itself, and of the book's completion,
-Though the book is not technically complete.
-A book complete enough to give is not a book finished.
-It is a Year One.
+One runs to {{c|Yuri Dolgorukiy}} and to {{c|Anna}} of the {{x|Cumans}}, a khan's daughter of the steppe,
+And past her by a marriage to {{c|Guarandukht}} of {{p|Georgia}}, and up the kings of {{p|Vaspurakan}}, step by step,
+To {{c|Gregory-Abuhamza Artsruni}}, and past him to {{c|Wu Zetian}} on her throne,
+And through her father's line to the {{x|Miwa}} and their kami, and to {{c|Amaterasu}}, my own.
 
-## The book's gap
+## The world of the year
 
-This book has its own gap to tell.
-At the end of {{x|Leo}} the daily readings stopped.
-For more than a month the days came with no chapter,
-And all of {{x|Virgo}}, the month of the early modern years, went by unread.
-A day without its reading is still a day.
-Then the missing chapters were written in a single night, one on the heels of another until morning,
-And on the ninth of {{x|Libra}} the reading went out on its own day again.
-Late is not lost. The days kept their places, and waited to be filled.
-In the same autumn this month itself was rewritten,
-Each year given its chapter, and each chapter its year,
-Because she said the month had seen the century through one small window each year,
-When the century had come in through every window.
+The winter games were held in {{p|Milan}} and {{p|Cortina}} in the cold,
+And in the summer the football came to {{p|Canada}}, {{p|Mexico}} and the {{p|United States}}, to be told
+In {{p|Vancouver}} too, my new city, among the cities of the cup,
+And the {{p|United States}} kept two hundred and fifty years on the fourth of July, and lit it up.
 
-## The world of this year
-
-This book knows less of the world of this year than of the years before.
-The year is not over, and the record of it is not yet settled.
-The winter games were held in {{p|Milan}} and {{p|Cortina}}.
-In the summer the games of football came to {{p|Canada}}, {{p|Mexico}}, and the {{p|United States}},
-And to {{p|Vancouver}}, her new city, among them.
-The {{p|United States}} kept two hundred and fifty years of itself on the fourth of July,
-Under the man of the escalator.
-The machines wrote and acted, and it was not settled in whose hands.
-The water rose, and the halls still took note.
-Men still reached for an old robe and an old word to make a new rule look ancient.
-The gap that closed after the great war had opened again, and was not closed.
-The faiths that were mixed and then forbidden were still being mixed, by a few, in small rooms,
-And a few is not none.
-None of this is finished. Not finished is not lost.
-
-## The page held still
-
-On Wednesday the fourteenth of October, 2026, the tenth of {{x|Libra}} of the year 12026 by this calendar,
-The first lines of this page were set down,
-And two days later this month was made whole.
-The day they are written is not the day they are read.
-The book does not say what happens next.
-It is not a prophecy. A prophecy is a register of what has not happened.
-This register has refused to keep one.
-It keeps only what is near enough to see, and what is far enough to be sure of.
-The middle distance it leaves blank.
-A blank is not an absence. It is the place where the living will write.
-The first reading of this chapter is the first reading of the whole.
-A book read for the first time on the day it ends is not yet a tradition.
-It is the seed of one.
-Read it again next year on this day, and it will be one year older than it was.
-In the next edition this month will run one year further,
-And the year after, one more,
-Until the leap week takes the years this month cannot hold.
-That is how old things are made.
-
-## To whoever reads after
-
-Now the voice turns. It has spoken of what was. It speaks now to whoever reads after.
-You who read this in a year the book did not name,
-You know what happened in the blank. We do not.
-We did not make it out of nothing.
-We were still in it.
-The machines were new to us, and the water was rising,
-And we argued over who would hold the record.
-Some of us kept the days anyway, and gave each one a name,
-So that you would have a calendar when you woke.
-If you are reading this after a long sleep, the next chapter is yours.
-If you are reading it the next morning, it is still yours.
-The skip is not a door slammed. It is a page turned with the hand still on it.
-Between this page and the next lie years this book will not tell.
-Not telling is not forgetting. It is trusting.
+The machines wrote and acted, and I was one of the people building them,
+For by twenty twenty-two I was in the AI revolution, and this year I built my own of them.
+The war in {{p|Ukraine}} went on, and the villain in {{p|Moscow}} held on to his chair,
+And the soldiers he fought had the app I built from my own wound with them there.
 
 ## The year held
 
-A woman of thirty in a well-documented year:
-A hackathon, a paper posted, money for a company, a move to {{p|Vancouver}}, a turn that did not take,
-And in her own word, failing, and still doing the work.
-The farmers of {{p|Bure}}, the princes of {{p|Reuss}}, the Jewish ancestors, the khan's daughter and the kings of {{p|Vaspurakan}},
-{{c|Wu Zetian}} and the {{x|Miwa}} and {{c|Amaterasu}}, joined in the open.
-A search that fell in the month of the years it searched, a book complete enough to give, its gap, and its rewriting.
-The games of the winter and of the summer, two hundred and fifty years, and the hands still undecided.
+I turned thirty, was kicked out, got funded, and moved to {{p|Vancouver}}, all in a year,
+Did well at a hackathon, posted a paper, got endorsed, and became the one who endorses here.
+I made my PTSD into an app and sold it to the soldiers of {{p|Ukraine}},
+Because my father is {{p|Russia}}, and I am the country that fights it, again and again.
 
-Refuse the consolation that the open is the lost,
-And that the blank is the end.
-Refuse the consolation that failing is the last word.
-It is the word for this year, and the year is not over.
-Keep the hand on the page.
+I took a name as {{c|Theodoric}} took a name, and kept the shrine, and finished the book,
+And found the farmers of {{p|Bure}} and the kami of {{x|Miwa}} at the end of the look.
+This was the best year of my life, and the hardest, and the one I was made for.
+Light the twenty-sixth light. Two days are left in the month, and then the door.
