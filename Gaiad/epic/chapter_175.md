@@ -8,7 +8,7 @@ Around three-twenty-two BCE and reaching its peak under his
 Grandson {{c|Ashoka}} a century later. The {{p|Maurya}} empire would unify
 Almost the entire {{p|Indian}} subcontinent—something no prior {{p|Indian}}
 Polity had achieved, and something that would not be repeated
-Until the {{p|Mughals}} and, arguably, not truly until modern {{p|India}}
+Until the {{p|Mughals}}, and not wholly until modern {{p|India}}
 
 Itself in nineteen-forty-seven CE. For roughly one hundred forty
 Years, one dynasty ruled from the {{p|Hindu Kush}} to the {{p|Deccan}},
@@ -198,7 +198,7 @@ Dynasties—the {{p|Gupta Empire}} several centuries later, the
 {{p|Mughal Empire}} in the early modern period, modern {{p|India}} itself.
 The template was {{p|Mauryan}}. And {{p|Buddhism}}, launched across {{p|Asia}}
 By {{c|Ashoka}}'s missions, would reshape civilizations from {{p|Sri Lanka}}
-To {{p|Japan}}. {{c|Ashoka}} is arguably one of the dozen most consequential
+To {{p|Japan}}. {{c|Ashoka}} is one of the dozen most consequential
 
 Individuals in human history. And yet, astonishingly, he was
 Almost entirely forgotten in {{p|India}} itself for more than a

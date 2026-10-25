@@ -201,12 +201,12 @@ Self-sufficiency, and contempt for social conventions. {{c|Diogenes}},
 Who lived in a large barrel in the marketplace of {{p|Athens}} and
 Made a career of shocking social propriety, was the archetype of
 
-The philosophical provocateur. When {{c|Alexander the Great}} reportedly
+The philosophical provocateur. When {{c|Alexander the Great}} once
 Visited him and asked if there was anything he could do for the
-Great philosopher, {{c|Diogenes}} supposedly replied, "Yes, stand a
-Little out of my sunlight." The story is almost certainly apocryphal,
+Great philosopher, {{c|Diogenes}} replied, "Yes, stand a
+Little out of my sunlight." The story is the whole school in a line,
 
-But it captures the {{p|Cynic}} ethos: the world's greatest conqueror
+And it captures the {{p|Cynic}} ethos: the world's greatest conqueror
 Has no power over the philosopher who has chosen to need nothing.
 {{p|Cynic}} philosophy would evolve into {{p|Stoicism}}, which we will
 Meet in a later chapter. {{p|Skepticism}}, founded by {{c|Pyrrho of Elis}}

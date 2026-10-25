@@ -200,7 +200,7 @@ Foreign relations, and the domestic consolidation that subsequent
 It is less famous, outside of {{p|Egyptological}} circles, than the
 
 {{p|Old Kingdom}} with its pyramids or the {{p|New Kingdom}} with its
-{{c|Tutankhamun}} and {{c|Ramesses II}}. But it was arguably the most
+{{c|Tutankhamun}} and {{c|Ramesses II}}. But it was the most
 Culturally accomplished phase of {{p|Egyptian}} history. The pharaohs
 Were less grandiose. The art was more refined. The literature was
 

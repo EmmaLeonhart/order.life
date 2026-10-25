@@ -108,7 +108,7 @@ From the East and copper from {{p|Cyprus}}. When the network broke, no
 Single palace could reconstitute the whole. It required global
 Coordination, and global coordination vanished. Each local crisis
 Accelerated every other local crisis. This is what historians now
-Call the "{{p|Bronze Age Collapse}}"—and it is arguably the most complete
+Call the "{{p|Bronze Age Collapse}}"—and it is the most complete
 
 Civilizational collapse in recorded human history. When the dust
 Settled, the world that emerged was profoundly changed. Iron

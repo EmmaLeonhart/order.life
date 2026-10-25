@@ -246,7 +246,7 @@ And then governed the restored community, protecting it from its
 Neighbors. These figures, working in succession, built the religion
 That would become rabbinic {{p|Judaism}} and, through it, the matrix
 From which {{p|Christianity}} and {{p|Islam}} would emerge. They are
-Arguably the most influential religious teachers, per capita, of
+The most influential religious teachers, per capita, of
 
 Any period in human history. All of them active in a small exiled
 Or recently-returned population of perhaps fifty thousand people

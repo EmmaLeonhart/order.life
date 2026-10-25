@@ -162,7 +162,7 @@ But none of which, singly or collectively, is a permanent self.
 The illusion of a permanent self is one of the root causes of
 Craving and suffering. When this illusion is seen through, craving
 
-Falls away naturally. This {{p|anatta}} doctrine is arguably the most
+Falls away naturally. This {{p|anatta}} doctrine is the most
 Radical of the {{c|Buddha}}'s insights, and it is the one that most
 Sharply distinguishes {{p|Buddhism}} from the other {{p|Indian}} religious
 Traditions. It is also one of the most counterintuitive teachings
