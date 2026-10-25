@@ -786,7 +786,7 @@ _ICAL_DTSTAMP = f"DTSTAMP:{datetime.datetime.now(datetime.timezone.utc):%Y%m%dT%
 def _vevent(dtstart, summary, description, uid):
     """Return a complete VEVENT block string (CRLF line endings)."""
     dtend = dtstart + datetime.timedelta(days=1)
-    desc_esc = description.replace("\\", "\\\\").replace(",", "\\,").replace("\n", "\\n")
+    desc_esc = _ical_text(description)
     lines = [
         "BEGIN:VEVENT",
         f"DTSTART;VALUE=DATE:{dtstart:%Y%m%d}",
@@ -903,7 +903,7 @@ _MONTH_NAMES_JA = {
 
 def _vevent_span(dtstart, dtend_excl, summary, description, uid):
     """Multi-day all-day spanning event (e.g. Lent, Eastertide)."""
-    desc_esc = description.replace("\\", "\\\\").replace(",", "\\,").replace("\n", "\\n")
+    desc_esc = _ical_text(description)
     lines = [
         "BEGIN:VEVENT",
         f"DTSTART;VALUE=DATE:{dtstart:%Y%m%d}",
@@ -1481,7 +1481,7 @@ def _ical_year_ancestors(gy, month_display):
 
 
 def _ical_year_seasons(gy, lang="en"):
-    """Return list of (date, vevent_str) for Lent, Eastertide, and Horus month spans."""
+    """Return list of (date, vevent_str) for Yuletide, the Easter season, Lent, Eastertide and Horus month spans."""
     events = []
     iso_year = gy - 10000
 
@@ -1490,14 +1490,46 @@ def _ical_year_seasons(gy, lang="en"):
             "horus": "Month of Horus",
             "lent": "\U0001F56F\uFE0F Season of Lent",
             "eastertide": "\U0001F305 Eastertide",
+            "yuletide": "\U0001F384 Yuletide",
+            "easter_season": "\U0001F95A The season of probabilistic Easter",
         },
         "ja": {
             "horus": "\u30DB\u30EB\u30B9\u6708",
             "lent": "\U0001F56F\uFE0F \u56DB\u65EC\u7BC0",
             "eastertide": "\U0001F305 \u5FA9\u6D3B\u7BC0",
+            "yuletide": "\U0001F384 \u30E6\u30FC\u30EB\u306E\u5B63\u7BC0",
+            "easter_season": "\U0001F95A \u78BA\u7387\u306E\u5FA9\u6D3B\u796D\u306E\u5B63\u7BC0",
         },
     }
     n = _names.get(lang, _names["en"])
+
+    # The two Gaian holiday seasons Emma named on 2026-10-17: "Ophiuchus the 1st to Sagittarius the 1st is
+    # Yuletide ... its own holiday season ... an important holiday season" (through the Horus days in a leap
+    # year, to New Year's Day, Aster Day), and "Aquarius the 8th to Pisces the 28th is the season of
+    # probabilistic Easter" (the five possible Easters). She also named a loose Leo 14 to Libra 28 stretch,
+    # "not really quite organized into a season", so it is not drawn as one.
+    try:
+        y_start = _gaian_day_to_greg(gy, 13, 1)
+        y_end   = _gaian_day_to_greg(gy + 1, 1, 1)
+        yule_desc = (f"Yuletide: Ophiuchus 1, {gy} GE ({_fmt_greg(y_start)}) to Sagittarius 1, {gy + 1} GE "
+                     f"({_fmt_greg(y_end)}), New Year's Day. The holiday season of the last month of the "
+                     f"year, the month of the twenty-first century, with Christmas in it.")
+        events.append((y_start, _vevent_span(
+            y_start, y_end + datetime.timedelta(days=1),
+            n["yuletide"], yule_desc,
+            f"gaian-{gy}-yuletide@order.life"
+        )))
+        e_start = _gaian_day_to_greg(gy, 3, 8)
+        e_end   = _gaian_day_to_greg(gy, 4, 28)
+        es_desc = (f"The season of probabilistic Easter: Aquarius 8 ({_fmt_greg(e_start)}) to Pisces 28 "
+                   f"({_fmt_greg(e_end)}), {gy} GE, the span of the five possible Easters.")
+        events.append((e_start, _vevent_span(
+            e_start, e_end + datetime.timedelta(days=1),
+            n["easter_season"], es_desc,
+            f"gaian-{gy}-easter-season@order.life"
+        )))
+    except Exception:
+        pass
 
     # Horus month (leap years only) — 7 intercalary days between Ophiuchus and Sagittarius
     if _is_gaian_leap(gy):
@@ -1586,7 +1618,7 @@ def _ical_prayers(first_day, lang="en"):
         begin = datetime.datetime.combine(start, datetime.time(h, m))
         end = begin + datetime.timedelta(minutes=minutes)
         rrule = "RRULE:FREQ=WEEKLY;BYDAY=FR" if byday else "RRULE:FREQ=DAILY"
-        desc_esc = desc.replace("\\", "\\\\").replace(",", "\\,").replace("\n", "\\n")
+        desc_esc = _ical_text(desc)
         lines = [
             "BEGIN:VEVENT",
             f"DTSTART;TZID=America/Los_Angeles:{begin:%Y%m%dT%H%M%S}",
@@ -1618,7 +1650,7 @@ def generate_ical_files(site_dir):
             "years":    range(current_ge - 1, current_ge + 2),
             "window":   True,
             "calname":  "Gaian Calendar (Current)",
-            "caldesc":  "Gaian perpetual calendar: daily events, holidays, Lent and Eastertide",
+            "caldesc":  "Gaian perpetual calendar: daily events, holidays, seasons and prayers",
             "daily":    True,
             "seasons":  True,
             "prayers":  True,
@@ -1628,7 +1660,7 @@ def generate_ical_files(site_dir):
             "years":    range(current_ge - 1, current_ge + 2),
             "window":   True,
             "calname":  "ガイア暦（現在）",
-            "caldesc":  "ガイア暦：日々の出来事、祭日、四旬節と復活節",
+            "caldesc":  "ガイア暦：日々の出来事、祭日、季節と祈り",
             "daily":    True,
             "seasons":  True,
             "prayers":  True,
@@ -1670,10 +1702,14 @@ def generate_ical_files(site_dir):
             "BEGIN:VCALENDAR\r\n"
             "VERSION:2.0\r\n"
             "PRODID:-//Order of Life//Gaian Calendar//EN\r\n"
-            + _ical_fold(f"X-WR-CALNAME:{cfg['calname']}")
-            + _ical_fold(f"X-WR-CALDESC:{cfg['caldesc']}") +
+            + _ical_fold(f"X-WR-CALNAME:{_ical_text(cfg['calname'])}")
+            + _ical_fold(f"X-WR-CALDESC:{_ical_text(cfg['caldesc'])}") +
             "CALSCALE:GREGORIAN\r\n"
             "METHOD:PUBLISH\r\n"
+            # Ask subscribing apps to re-fetch twice a day; the site rebuilds every night (Apple and
+            # Outlook honour these; Google Calendar sets its own pace).
+            "REFRESH-INTERVAL;VALUE=DURATION:PT12H\r\n"
+            "X-PUBLISHED-TTL:PT12H\r\n"
         )
         if cfg.get("prayers"):
             first_gy = next(gy for gy in cfg["years"] if gy - 10000 >= 1)
