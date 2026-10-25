@@ -1670,7 +1670,11 @@ def generate_ical_files(site_dir):
         )
         if cfg.get("prayers"):
             first_gy = next(gy for gy in cfg["years"] if gy - 10000 >= 1)
-            prayers = _ICAL_TZ_PACIFIC + "".join(_ical_prayers(_gaian_day_to_greg(first_gy, 1, 1), lang))
+            # The series start at the window's start, not years back: a daily series begun 1 January 2024 had
+            # over a thousand occurrences, and Google Calendar showed the weekly prayers but not the daily ones
+            # (Emma's screenshot, 2026-10-24). The nightly rebuild moves the start forward with the window.
+            first = today - datetime.timedelta(days=183) if cfg.get("window") else _gaian_day_to_greg(first_gy, 1, 1)
+            prayers = _ICAL_TZ_PACIFIC + "".join(_ical_prayers(first, lang))
         else:
             prayers = ""
         content = header + prayers + "".join(ev for _, ev in events) + "END:VCALENDAR\r\n"
