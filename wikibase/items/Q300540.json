@@ -1,0 +1,50 @@
+{
+  "type": "item",
+  "id": "Q300540",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Diogenes of Sinope"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "4th-century BC Greek Cynic philosopher; record created 2026-10-25 for the Gaiad's tags, from Wikidata Q59180"
+    }
+  },
+  "claims": {
+    "P61": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P61",
+          "datavalue": {
+            "value": "Q59180",
+            "type": "string"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ],
+    "P55": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P55",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            },
+            "type": "wikibase-entityid"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
+    ]
+  }
+}
