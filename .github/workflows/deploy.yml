@@ -88,6 +88,9 @@ jobs:
             (cd $d && zip -q -r -9 "$GITHUB_WORKSPACE/site/$lang/gaiad.zip" .)
           done
           ls -la site/*/gaiad.zip
+          # Every language's generated names (composed from the Wikidata name items; make_composed_names.py), in one
+          # table beside gaiad.ged: the language GEDCOMs above carry only their own language from it.
+          cp wikibase/analysis/composed_names.tsv site/gaiad-generated-names.tsv
           # The bare /gaiad.ged names the portraits by their URL on the site (the zips carry the files).
           python wiki-scripts/gedcom_portraits.py site/gaiad.ged site/gaiad.ged
 
