@@ -91,6 +91,9 @@ jobs:
           # Every language's generated names (composed from the Wikidata name items; make_composed_names.py), in one
           # table beside gaiad.ged: the language GEDCOMs above carry only their own language from it.
           cp wikibase/analysis/composed_names.tsv site/gaiad-generated-names.tsv
+          # The same for the people with no Wikidata id, from name items matched to the written name
+          # (make_matched_names.py), kept in a table of its own.
+          cp wikibase/analysis/matched_names.tsv site/gaiad-generated-names-matched.tsv
           # The bare /gaiad.ged names the portraits by their URL on the site (the zips carry the files).
           python wiki-scripts/gedcom_portraits.py site/gaiad.ged site/gaiad.ged
 

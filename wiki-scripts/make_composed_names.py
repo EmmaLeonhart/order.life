@@ -91,8 +91,10 @@ def family(lang):
 
 
 def part_ok(text, lang):
-    """A part's label counts in `lang` only in the right script (genealogy's LABEL_SCRIPT, extended)."""
-    if not text:
+    """A part's label counts in `lang` only in the right script (genealogy's LABEL_SCRIPT, extended), and only when
+    it is one form: a label listing several ("Йохан / Юхан") or carrying a disambiguator ("Labán (nombre)") gives no
+    single name to compose with."""
+    if not text or any(c in text for c in "/()[]0123456789"):
         return False
     fam = family(lang)
     if fam in CJK_SCRIPT:
@@ -111,6 +113,10 @@ def compose(parts, lang, labels, whole):
     for q in parts:
         text = (labels.get(q, {}).get(lang) or "").strip()
         if not part_ok(text, lang):
+            return None
+        # A part never gains words in translation: "Pericles o IVAN" for one word is a mislabelled item, not a name.
+        own = (labels.get(q, {}).get("mul") or labels.get(q, {}).get("en") or "").split()
+        if len(text.split()) > max(1, len(own)):
             return None
         got.append(text)
     latin = " ".join((labels.get(q, {}).get("mul") or labels.get(q, {}).get("en") or "") for q in parts)
