@@ -8,6 +8,11 @@ line (then mother's) began with; and a founder of a line with no real arms gets 
 (static/arms/pool.txt, drawn by make_arms.py), pool[sha1(key) % pool size], where the key is the person's UID, else
 their first EXID (the source's own id), so it does not change between builds.
 
+Arms of a realm or office are not passed down (wikibase/analysis/wikidata_arms_dominion.tsv, 2026-10-25): a file is
+listed there when Wikidata gives it as the coat of arms (P94) of a state, region, town, title or office and of no
+family or dynasty, or when its name says it is a kingdom's or the Empire's ("Armoiries Saint-Empire monocéphale.svg");
+files named for a house or family stay heritable. The person Wikidata gives such arms to still bears them.
+
 The file gets one OBJE record per coat of arms borne, pointed to from each person who bears it. Invented arms are
 copied into <zip dir>/media/arms/ as SVG and PNG and named by relative path, as GEDZIP wants; real arms are named by
 their Commons URL (and, for an SVG, the PNG Commons renders from it).
@@ -68,12 +73,18 @@ def read_gedcom(lines):
     return key, real_q, parents
 
 
-def assign(people, real, parents):
-    """{xref: (kind, value, from_xref)} by the rule above; a parent still being worked out (a cycle) counts as absent."""
-    done, busy, known = {}, set(), set(people)
+def assign(people, real, parents, dominion=frozenset()):
+    """{xref: (kind, value, from_xref)} by the rule above; a parent still being worked out (a cycle) counts as absent.
+
+    Arms of a realm or office (dominion: the file is also the coat of arms of a state, region, town or office on
+    Wikidata, wikidata_arms_dominion.tsv) are borne by the person Wikidata gives them to but not passed down: an
+    emperor bears the Empire's arms, his children do not (on 2026-10-20 5,433 people inherited the Holy Roman
+    Empire's). Their heirs take what that person would have had without them."""
+    done, heir, busy, known = {}, {}, set(), set(people)
 
     def ups(p):
-        return [] if p in real else [x for x in parents.get(p, (None, None)) if x in known]
+        own = real.get(p)
+        return [] if own and own not in dominion else [x for x in parents.get(p, (None, None)) if x in known]
 
     for start in people:
         # Depth-first without recursion: lines run thousands of generations deep.
@@ -89,11 +100,13 @@ def assign(people, real, parents):
                 continue
             stack.pop()
             busy.discard(p)
-            if p in real:
-                done[p] = ("real", real[p], p)
+            own = real.get(p)
+            if own and own not in dominion:
+                done[p] = heir[p] = ("real", own, p)
                 continue
-            got = [done[x] for x in parents.get(p, (None, None)) if x in done]
-            done[p] = next((x for x in got if x[0] == "real"), got[0] if got else ("invented", None, p))
+            got = [heir[x] for x in parents.get(p, (None, None)) if x in heir]
+            heir[p] = next((x for x in got if x[0] == "real"), got[0] if got else ("invented", None, p))
+            done[p] = ("real", own, p) if own else heir[p]
     return done
 
 
@@ -106,7 +119,12 @@ def main():
         for r in csv.DictReader(fh, delimiter="\t"):
             files[r["qid"]] = r["file"]
     real = {x: files[q] for x, q in real_q.items() if q in files}
-    result = assign(list(key), real, parents)   # file order: in a parentage cycle the order decides, so it must not vary
+    dominion = set()
+    dom_path = ROOT / "wikibase" / "analysis" / "wikidata_arms_dominion.tsv"
+    if dom_path.exists():
+        with open(dom_path, encoding="utf-8") as fh:
+            dominion = {r["file"] for r in csv.DictReader(fh, delimiter="	")}
+    result = assign(list(key), real, parents, dominion)   # file order: in a parentage cycle the order decides, so it must not vary
     pool = (ARMS / "pool.txt").read_text(encoding="utf-8").splitlines()
 
     objs, bearer = {}, {}
