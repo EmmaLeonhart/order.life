@@ -1609,6 +1609,7 @@ def generate_ical_files(site_dir):
     files = {
         "current.ics": {
             "years":    range(current_ge - 1, current_ge + 2),
+            "window":   True,
             "calname":  "Gaian Calendar (Current)",
             "caldesc":  "Gaian perpetual calendar: daily events, holidays, Lent and Eastertide",
             "daily":    True,
@@ -1618,6 +1619,7 @@ def generate_ical_files(site_dir):
         },
         "current_ja.ics": {
             "years":    range(current_ge - 1, current_ge + 2),
+            "window":   True,
             "calname":  "ガイア暦（現在）",
             "caldesc":  "ガイア暦：日々の出来事、祭日、四旬節と復活節",
             "daily":    True,
@@ -1650,6 +1652,11 @@ def generate_ical_files(site_dir):
             if cfg["seasons"]:
                 events += _ical_year_seasons(gy, lang)
 
+        if cfg.get("window"):
+            # Six months back and six months ahead of the build (Emma, 2026-10-24: "+/- 6 months so total year
+            # but not a full calendar year"): with every ancestor named, three whole years made 7 MB.
+            lo, hi = today - datetime.timedelta(days=183), today + datetime.timedelta(days=183)
+            events = [e for e in events if lo <= e[0] <= hi]
         events.sort(key=lambda x: x[0])
 
         header = (
