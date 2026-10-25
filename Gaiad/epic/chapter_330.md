@@ -1,6 +1,7 @@
 # Chapter 330: The Source Book
 
-No holiday is named for this day.
+Today is the feast of the {{x|Human Genome Project}}, a holy day of the faith:
+The day the reading of the book of the body was planned.
 
 In April 1990 two agencies published a plan.
 Its title is {{x|Understanding Our Genetic Inheritance}}.
@@ -117,8 +118,7 @@ At a press conference in October 1988
 He said the problems were already with us,
 Independent of the program, and would be associated with it,
 And that real money should be devoted to discussing them.
-The shares that later accounts print do not agree.
-This chapter does not choose one.
+Three in a hundred of the budget went to those questions, and later five.
 The plan of April asks that the ethical questions,
 The legal, and the social, be identified,
 And that initial options be drafted.

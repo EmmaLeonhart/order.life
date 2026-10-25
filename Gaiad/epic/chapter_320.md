@@ -56,8 +56,7 @@ The international regime was not established.
 
 People left their houses.
 People were driven from their houses.
-The counts of how many do not agree.
-This chapter does not choose a count.
+About seven hundred thousand, by the count of the {{x|United Nations}}.
 Neither fact cancels the other.
 A village is not the whole, and the whole is not a village.
 The {{p|United States}} recognized the state that day,

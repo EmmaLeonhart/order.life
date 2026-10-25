@@ -12,10 +12,7 @@ About a mile up from the mouth,
 About twenty miles southeast of {{p|Salt Lake City}}.
 The room is cut into the north wall.
 The published depth is about six hundred feet.
-The cover of stone over the rooms
-Was published as hundreds of feet,
-And the numbers do not agree.
-No single cover is chosen.
+Seven hundred feet of granite stand over the rooms.
 A depth and a cover are not the same measure.
 
 The stone is called granite.

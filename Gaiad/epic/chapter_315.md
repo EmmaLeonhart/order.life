@@ -97,10 +97,10 @@ Minutes that counted a people as a plan.
 The later list does not make the earlier list just.
 It does not return a body.
 It does not try the offices.
-Refuse the consolation that the verse was fulfilled
-Because an authority borrowed its words.
-Refuse the consolation that the righteous are the meaning
-And the murdered only the occasion.
+Take this consolation, for a scripture owes one:
+The murdered are kept by name among the ancestors of this faith,
+And the righteous who hid them are kept beside them,
+And the verse is fulfilled in the keeping, not in the authority that borrowed its words.
 The striving that can be named is the particular hand
 That kept a person alive,
 And the labor, afterward, of setting a name

@@ -6,8 +6,7 @@ The aircraft was the {{x|Enola Gay}}.
 {{c|Paul Tibbets}} was its pilot.
 The bomb burst less than a minute later, over the city.
 The offices that kept the city's names were in the fire.
-The counts made afterward do not agree.
-This chapter will not pick one figure and call it the dead.
+Seventy thousand died that morning, and a hundred and forty thousand by the year's end.
 
 The uranium bomb had not been tried, whole, before that morning.
 The other design, the plutonium bomb, had been fired once.

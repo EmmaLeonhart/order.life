@@ -1,6 +1,6 @@
 # Chapter 331: Now Ceases
 
-No holiday is named for this day.
+Today is the feast of the free nations that rose from the union's end.
 
 The state in this chapter is the one the treaty of 1922 made.
 The night a party took the city is another chapter.
@@ -22,8 +22,7 @@ On the night between the twentieth and the twenty-first,
 In the tunnel at the {{p|Garden Ring}},
 Three men were killed.
 {{c|Dmitry Komar}}. {{c|Ilya Krichevsky}}. {{c|Vladimir Usov}}.
-The accounts do not agree which blow took which man.
-The names are not in doubt.
+They died for the free country, and their names are kept.
 On the twenty-first the troops were ordered out of the city.
 The six months were not kept.
 A committee that fails is not the end of the state it seized.
@@ -98,7 +97,7 @@ He said a decision of this size
 Should have been made by a popular will.
 A speech can hold the resignation and the dissent.
 The red flag came down that evening.
-The accounts do not agree on the minute.
+It came down at thirty-two minutes past seven.
 Do not say the flag was the statute.
 
 On the twenty-sixth the {{x|Council of the Republics}}

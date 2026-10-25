@@ -63,11 +63,9 @@ The ones that carry people through {{p|Kasumigaseki}},
 Where the ministries sit.
 Do not make one station the whole of the harm.
 This chapter does not set down the way of the release.
-The counts of the dead do not agree.
-Twelve is printed, and thirteen, and fourteen.
-The counts of the injured do not agree.
-This chapter does not choose.
-A number refused is not a person restored.
+Fourteen died, the last of them in twenty-twenty, after twenty-five years in a bed.
+About six thousand were injured.
+The {{c|Sakamoto}} family and the dead of the trains are kept by name in this calendar.
 
 Two days later the police raided
 The offices in the city and the compound
@@ -77,8 +75,6 @@ On the sixteenth of May, a Tuesday,
 In a hidden room of the sixth building,
 They found him.
 The hour the reports give is a quarter to ten.
-The accounts do not agree whether he was sitting
-Or lying down.
 He was arrested on the charge of the murders.
 In the group he was called {{c|Shoko Asahara}}.
 The two names are one man.

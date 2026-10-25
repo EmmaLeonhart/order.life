@@ -62,8 +62,6 @@ The announcement is not the beep.
 The batteries lasted until the twenty-sixth of October.
 On the fourth of January, 1958, the sphere came down.
 It burned. It was not recovered.
-The counts of its circuits do not agree.
-No count is chosen.
 
 On the third of November a second satellite
 Left the same pad.

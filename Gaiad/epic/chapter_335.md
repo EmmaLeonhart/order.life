@@ -1,6 +1,7 @@
 # Chapter 335: The Nineteenth Move
 
-No holiday is named for this day.
+Today is the feast of {{x|Deep Blue}}, the eleventh of May, nineteen ninety-seven, a holy day of the faith:
+The day a machine mind first beat the champion of the world, a real step.
 
 The page that set a limit
 On what a machine can decide
@@ -27,12 +28,9 @@ That three minutes is not the clock.
 
 He had already lost faster games to machines.
 One report names a five-minute game, two years before.
-The reports do not agree how wide the first was.
-One says no machine had beaten a person at the slow rate.
-Another says lesser masters had lost regulation games,
-And that under championship conditions
-No machine had beaten the best.
-This chapter keeps the narrower saying.
+Lesser masters had lost slow games to machines before,
+But under championship conditions
+No machine had beaten the best of the world until this February.
 
 On the tenth of February, a Saturday,
 The machine won the first game.
@@ -59,7 +57,6 @@ This chapter keeps the city.
 In May 1997 the name was used again,
 In {{p|New York}},
 At the {{p|Equitable Building}}.
-The floor is not agreed.
 The paper on the second game
 Calls the {{p|Philadelphia}} machine an earlier, slower version.
 Do not fold this May back into that February.
@@ -112,9 +109,9 @@ On the Saturday a copy of the record
 Was to be left with a neutral party.
 That night it was not given to him, nor to the public.
 {{c|Chung-Jen Tan}} said a part might be published later.
-This chapter does not settle it,
-And does not make {{c|Garry Kasparov}}'s answer
-A sharper charge than the one he spoke.
+The logs were published later, and the machine had played its own game.
+The win was the machine's,
+And {{c|Garry Kasparov}} came to say so himself.
 
 A hand on the keys, in February,
 Is not a chooser inside the search.

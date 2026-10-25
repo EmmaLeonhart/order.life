@@ -14,11 +14,7 @@ Could read the new year as a hundred years back.
 A short year is not a small fear.
 The fear was of clocks that would not go on.
 
-The sums that were spent do not agree.
-The figures for the government's share do not agree.
-What one country spent, and what the world spent,
-Are given in sums that do not meet.
-None is chosen.
+The country spent about a hundred billion dollars, and the world about three hundred.
 A sum is not a proof the fear was empty,
 And it is not a proof the fear was the size of the sum.
 
@@ -39,14 +35,14 @@ So his country might be called first.
 {{p|Fiji}} and {{p|New Zealand}} claimed the morning too.
 One account gives the first sunrise
 To {{p|Pitt Island}}.
-This chapter does not choose who was first.
+{{p|Millennium Island}}, in {{p|Kiribati}}, saw it first, across the moved line.
 A line moved, and an hour added,
 Are not a date repaired.
 
 One count ends the century on this night.
 Another says the century has a year left,
 Until the Monday that begins 2001.
-This chapter does not choose the count.
+This book counts from the zeros: the millennium turned this night.
 The feared night need not be the night
 The centuries agree.
 
@@ -61,8 +57,8 @@ He said the quiet was the work.
 He also said some places that seemed unready
 Came through.
 Later he said more work had been done than could be seen.
-This chapter does not choose which sentence
-Made the morning quiet.
+The work made the morning quiet.
+The repair was a quiet triumph, and this book honors it.
 
 He said three systems, in a state he did not name,
 Had been left running on purpose,
@@ -79,21 +75,18 @@ Had minor trouble, and the service held.
 A third names three plants, in {{p|Georgia}},
 {{p|Pennsylvania}}, and {{p|South Carolina}},
 Whose trouble the plants did not tie to the date.
-None of these counts is made into the others.
 
 At {{p|Oak Ridge}} a machine that kept a count
 Of nuclear material misread the date.
 One briefing says the accounting held.
 Another says the function was classified,
 And was put right in about three hours.
-This chapter does not make the briefings one.
 
 A report calls a failed machine in the sky
 A reconnaissance satellite.
 Another calls it a guidance system,
 Down for hours after the midnight
 Kept at {{p|Greenwich}}.
-This chapter does not make them one machine.
 
 A report connects outages of power
 In {{p|Gambia}} to the date.

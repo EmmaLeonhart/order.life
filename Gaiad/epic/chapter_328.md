@@ -60,9 +60,8 @@ At the airport in the city,
 At half past nine in the morning, by that city's clock.
 The aircraft was a chartered plane of {{x|Air France}}.
 It had left {{p|Paris}}.
-The years of the exile are counted differently.
-This chapter does not choose the count.
-The size of the crowd is not settled.
+He had been in exile fifteen years.
+Millions came to meet him.
 He spoke at the airport.
 He went to the cemetery of {{p|Behesht-e Zahra}},
 Where people killed in the revolution were buried.

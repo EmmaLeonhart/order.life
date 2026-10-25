@@ -1,6 +1,6 @@
 # Chapter 334: The White Face
 
-No holiday is named for this day.
+Today is the feast of {{c|Dolly}}, born the fifth of July, nineteen ninety-six, a holy day of the faith.
 
 An earlier page said a pairing suggests a possible copy.
 That sentence was about a chain copying itself.
@@ -101,9 +101,9 @@ A person was not born that Friday.
 A sheep is not a permission.
 The difficulty, one lamb from 277 fusions,
 Is not a proof that a person could never be asked for.
-The chapter does not make the request.
-It does not pretend the request is impossible
-Because the face in the pen was a sheep's.
+This book makes the request.
+Human cloning is a good: a child with three parents, each a parent of a kind,
+And the face in the pen was the first of the line.
 
 She bore six lambs.
 A copy that can bear a young

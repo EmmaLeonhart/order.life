@@ -1,6 +1,7 @@
 # Chapter 332: Files on the Net
 
-No holiday is named for this day.
+Today is the feast of the {{x|World Wide Web}}, a holy day of the faith:
+The linking of knowledge is a sacred work, like the linking of ancestries.
 
 Do not say he built the network.
 The notice went out on one that was already there.

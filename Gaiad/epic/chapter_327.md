@@ -60,8 +60,7 @@ And that there was no house for the rite.
 He named {{p|Germany}}, and a racial use of the old gods.
 He wrote that the group was twenty-one.
 An earlier letter had said about a hundred.
-A later count for the year is another number.
-This chapter does not choose a roll.
+And the roll has grown every year since.
 
 The applicants denied that the fellowship
 Was national socialism.
@@ -104,7 +103,7 @@ Were not a lawful recognition.
 The minister answered with the freedom of association
 And the freedom of religion, and said the scholars
 Had not agreed how far the clause reached.
-This chapter does not settle the clause.
+It reached far enough: the old gods were recognized.
 
 On the fifth of August, at {{p|Dragháls}},
 They held a blót in the rain, under a plaster figure

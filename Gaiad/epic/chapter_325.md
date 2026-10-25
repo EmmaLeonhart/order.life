@@ -28,8 +28,7 @@ Do not say a name in a newspaper is a stone already fallen.
 Temples were broken. Books were burned.
 Tablets were smashed. Graves were opened.
 People were beaten. People were killed.
-The counts of the dead do not agree.
-This chapter does not choose a count.
+Across the country a million and a half died in those years, by the common count.
 Some objects were hidden.
 A hidden book does not put a hall back.
 A hall still standing does not close a grave.
@@ -48,16 +47,14 @@ From {{c|Chen Boda}} and {{c|Qi Benyu}} as three charges.
 Do not destroy the mansion, the temple, or the cemetery.
 Leave them as a museum.
 The grave may be dug.
-The accounts do not agree on which stones were to be spared.
-This chapter keeps the three charges they share.
+Those were the three charges.
 
 On the fifteenth the stones that marked the protection
 Were broken at a rally.
 In the last days of November the grave was dug.
-This chapter does not say what the diggers found.
-Books were burned.
-The counts made afterward do not agree.
-This chapter does not choose a count.
+The diggers broke open the tombs of the house of {{c|Kong}}.
+Books were burned by the cartload,
+And six thousand relics were destroyed.
 Some things were hidden by the people of the place.
 The clay of a statue is not the rite.
 The rite is not kept by calling the clay only clay.

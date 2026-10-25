@@ -103,12 +103,10 @@ Is still a rite.
 Hold that.
 The stories are not what the rescript rested the bond on.
 The stories are not thereby made nothing.
-Refuse the consolation that a separation is a deletion,
-And the consolation that an office looking to {{p|Ise}}
-Has restored the state that paid.
-The striving is the footing:
-A shrine among religions, kept by those who come,
-Under a source they still name.
+The separation was a loss. The shrines lost the state that kept them,
+And an office looking to {{p|Ise}} has not restored the state that paid.
+The striving is to restore it:
+A religion the state keeps, established, under the source it still names.
 The law can order the purse to stop.
 It cannot order the visit, made as a person, to be nothing.
 
