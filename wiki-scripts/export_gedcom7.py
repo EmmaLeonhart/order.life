@@ -328,7 +328,7 @@ def russian_patronymic(parent_given, sex):
     return stem + (f if sex == "F" else m)
 
 
-def lineage_extras(qid, persons, sex_of, canon, labels):
+def lineage_extras(qid, persons, sex_of, canon, labels, cjk=None):
     """Name-schema step 2, later work (planning/name-schema.md): Welsh stacking where the record is Welsh-styled,
     Arabic-script and Russian forms where both person and parent have real labels in those languages, and a NOTE
     where the record's own patronymic differs from the canonical line. Returns (names, notes)."""
@@ -411,6 +411,19 @@ def lineage_extras(qid, persons, sex_of, canon, labels):
         pat = russian_patronymic(plab["ru"].split()[0], sex) if link == "father" else ""
         if pat:
             names.append((f"{lab['ru'].split()[0]} {pat}", f"{kind}, Russian form (approximate)"))
+    # Chinese, Japanese and Korean: Y之子X / Y之女X, Yの子X / Yの娘X, Y의 아들 X / Y의 딸 X, from labels on both that
+    # match the Wikidata item each record carries (cjk_labels_verified.tsv, verify_cjk_labels.py): copied labels
+    # from the wrong item ("Arnhem-Nijmegen metropolitan area" on Iberian nobles) would otherwise go into them.
+    # Whole labels, which in these languages are the name; any with spaces, brackets or Latin letters are skipped.
+    if cjk:
+        mine, theirs = cjk.get(qid, {}), cjk.get(parent, {})
+        clean = lambda t: bool(t) and not re.search(r"[\sA-Za-z()（）\[\]［］,，、]", t)
+        for lg, fmt, lang_name in (("zh", "{p}之{w}{c}", "Chinese"), ("ja", "{p}の{w}{c}", "Japanese"),
+                                   ("ko", "{p}의 {w} {c}", "Korean")):
+            c_, p_ = mine.get(lg), theirs.get(lg)
+            if clean(c_) and clean(p_) and c_ != p_:
+                word = {"zh": ("女", "子"), "ja": ("娘", "子"), "ko": ("딸", "아들")}[lg][0 if sex == "F" else 1]
+                names.append((fmt.format(p=p_, w=word, c=c_), f"{kind}, {lang_name} form"))
     return names, notes
 
 
@@ -498,6 +511,13 @@ def build_gedcom7(out_path, extra_lang=None, graft="emma"):
         with open(labels_path, encoding="utf-8", newline="") as fh:
             for r in csv.DictReader(fh, delimiter="\t"):
                 labels[r["qid"]].append((r["lang"], r["label"]))
+    cjk = defaultdict(dict)
+    cjk_path = labels_path.parent / "cjk_labels_verified.tsv"
+    if cjk_path.exists():
+        import csv
+        with open(cjk_path, encoding="utf-8", newline="") as fh:
+            for r in csv.DictReader(fh, delimiter="	"):
+                cjk[r["qid"]].setdefault(r["lang"], r["label"])
     n_indi = n_trans = n_lineage = n_cite = n_cal = n_notes = n_clado = n_nk = n_zh = n_mon = n_read = 0
     readings = load_readings()
     temple_names, horus_names, abrahamic_names = build_monarch_names()
@@ -587,7 +607,7 @@ def build_gedcom7(out_path, extra_lang=None, graft="emma"):
                     w("2 TYPE OTHER")
                     w(f"3 PHRASE {lg} reading (transcription, not a {'Chinese name' if lg == 'zh' else 'native name'})")
                     n_read += 1
-        more, lineage_notes = lineage_extras(qid, persons, sex_of, canon, labels)
+        more, lineage_notes = lineage_extras(qid, persons, sex_of, canon, labels, cjk)
         for n, phrase in lineage_names(qid, persons, sex_of, canon) + more:
             w(f"1 NAME {val(n)}")
             w("2 TYPE OTHER")

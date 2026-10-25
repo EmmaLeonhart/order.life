@@ -164,4 +164,8 @@ Y-putra X / Y-putrī X from real Hindi labels on both (183). Hebrew (ben/bat) an
 written where both have labels in those languages, which the local labels table does not carry yet. Chinese,
 Japanese and Korean phrases (Y之子X and the like) were built and taken back out: they use whole labels, and
 damaged labels on parents (Darwin's father labelled with a Dutch metropolitan area) would go into some 40,000
-of them. They wait on the damaged-labels work.
+of them. They wait on the damaged-labels work. **Put back 2026-10-25 15:40:** only from labels that match the Wikidata item the record carries
+(`wiki-scripts/verify_cjk_labels.py` writes `wikibase/analysis/cjk_labels_verified.tsv`: 55,871 of 60,446 zh/ja/ko
+labels; the rest are copied labels such as アーネム＝ナイメーヘン都市圏 on Iberian nobles, or records with no Wikidata
+id), and only labels with no spaces, brackets or Latin letters. Forms: 鯀の子禹, 武三思之子武崇訓, 崔鳳舉之女崔氏,
+Y의 아들 X. Over the standalone export: 18,284 Chinese, 15,669 Japanese and 1,401 Korean.
