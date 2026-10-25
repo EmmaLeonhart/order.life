@@ -813,3 +813,9 @@ footer a { color: var(--text-muted); }
 /* Tagged names in the verse link to their character pages: quiet, so the verse still reads as verse. */
 .chapter-stanzas a.char-link { color: inherit; text-decoration: underline dotted; text-decoration-color: var(--text-muted); text-underline-offset: 0.2em; }
 .chapter-stanzas a.char-link:hover { text-decoration-style: solid; }
+.fn-ref { font-size: 0.7em; line-height: 0; margin-left: 0.15em; }
+.fn-ref a { text-decoration: none; color: var(--accent, inherit); }
+.chapter-notes { margin: 1.5em 0 1em; padding: 0.8em 0 0 1.6em; border-top: 1px solid var(--border, rgba(127,127,127,0.3)); font-size: 0.9em; color: var(--text-muted); }
+.chapter-notes li { margin: 0 0 0.5em; scroll-margin-top: 80px; }
+.chapter-notes li:target { background: var(--bg-card, rgba(127,127,127,0.08)); }
+.chapter-notes .fn-back { text-decoration: none; }

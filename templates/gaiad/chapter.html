@@ -38,6 +38,13 @@
       <div class="stanza" id="s{{ loop.index }}"><a class="stanza-num" href="#s{{ loop.index }}" title="Gaiad {{ chapter_num }}.{{ loop.index }}">{{ loop.index }}</a>{{ s }}</div>
       {%- endfor %}
     </div>
+    {% if chapter_notes %}
+    <ol class="chapter-notes">
+      {%- for n in chapter_notes %}
+      <li id="fn-{{ loop.index }}">{{ n }} <a class="fn-back" href="#fnref-{{ loop.index }}" title="Back to the verse">↩</a></li>
+      {%- endfor %}
+    </ol>
+    {% endif %}
     <p class="cite-note">Cite a stanza as <em>Gaiad {{ chapter_num }}.1</em>, <em>Gaiad {{ chapter_num }}.2</em> and so on (chapter, stanza); each number links to its stanza.</p>
     {% elif chapter_text %}
     <div class="chapter-text">{{ chapter_text }}</div>

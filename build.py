@@ -408,7 +408,7 @@ def load_chapters():
             with open(chapter_file, "r", encoding="utf-8") as f:
                 raw = f.read()
                 # {{c|Name}} and the ID form {{c|453|Name}} (Gaiad/TAGS.md) both show as Name.
-                clean = TAG_RE.sub(r'\1', raw)
+                clean = FN_RE.sub('', TAG_RE.sub(r'\1', raw))
                 # Extract title from markdown heading and strip it from text
                 title = None
                 tagged = raw
@@ -423,6 +423,9 @@ def load_chapters():
 
 
 TAG_RE = re.compile(r'\{\{[cpx]\|(?:[^}|]*\|)?([^}|]+)\}\}')
+# A footnote, {{fn|plain prose}}, at the end of a verse line (Emma, 2026-10-24: "a footnote on every verse",
+# visible on the site and in the PDF; unstructured, unlike the tags). Gaiad/FOOTNOTES.md has the rules.
+FN_RE = re.compile(r'[ \t]*\{\{fn\|([^{}]*)\}\}')
 CHAR_TAG_RE = re.compile(r'\{\{([cpx])\|(?:[^}|]*\|)?([^}|]+)\}\}')
 
 
@@ -431,7 +434,20 @@ def character_slug(name):
     return re.sub(r'[^a-zA-Z0-9_-]', '', name.replace(' ', '_')).lower() or "unknown"
 
 
-def link_stanza(stanza, genealogy):
+def link_stanza(stanza, genealogy, notes=None):
+    """A tagged stanza as HTML, footnotes included: each {{fn|...}} becomes a numbered marker and its text is
+    appended to notes (numbered across the whole chapter); without a notes list the footnotes are dropped."""
+    out = []
+    for i, part in enumerate(FN_RE.split(stanza)):
+        if i % 2 == 0:
+            out.append(_link_names(part, genealogy))
+        elif notes is not None:
+            notes.append(part.strip())
+            out.append(Markup('<sup class="fn-ref" id="fnref-{0}"><a href="#fn-{0}">{0}</a></sup>').format(len(notes)))
+    return Markup("").join(out)
+
+
+def _link_names(stanza, genealogy):
     """A tagged stanza as HTML: each {{c|Name}} that has a character page links to it; everything else is
     plain text (the tags themselves are never changed, Gaiad/TAGS.md). A few tags run across a stanza break
     ({{p|Mediterranean / Coast}}, ch 146); their halves are dropped from the plain text, as in load_chapters()."""
@@ -2498,15 +2514,19 @@ def build_site():
             ch_month = ((ch_num - 1) // 28) + 1
             ch_day = ((ch_num - 1) % 28) + 1
             ch_data = chapters.get(ch_num)
+            ch_notes = []
+            # Stanzas, numbered from 1, so a passage can be cited as Gaiad N.S and linked as #sS.
+            # Each tagged name links to its character page (Emma's backlog item, chosen 2026-10-21: "names in
+            # the verse link nowhere"); the tagged text splits into the same stanzas as the plain one.
+            ch_stanzas = [link_stanza(s.strip("\n"), genealogy, ch_notes)
+                          for s in re.split(r"\n\s*\n", ch_data[2].replace("\r", "")) if s.strip()] if ch_data and ch_data[1] else []
             ch_ctx = {
                 **ctx,
                 "chapter_num": ch_num,
                 "chapter_title": ch_data[0] if ch_data else None,
                 "chapter_text": ch_data[1] if ch_data else None,
-                # Stanzas, numbered from 1, so a passage can be cited as Gaiad N.S and linked as #sS.
-                # Each tagged name links to its character page (Emma's backlog item, chosen 2026-10-21: "names in
-                # the verse link nowhere"); the tagged text splits into the same stanzas as the plain one.
-                "chapter_stanzas": [link_stanza(s.strip("\n"), genealogy) for s in re.split(r"\n\s*\n", ch_data[2].replace("\r", "")) if s.strip()] if ch_data and ch_data[1] else [],
+                "chapter_stanzas": ch_stanzas,
+                "chapter_notes": ch_notes,
                 "chapter_month": MONTHS[ch_month - 1] if ch_month <= 14 else None,
                 "chapter_day": ch_day,
                 "prev_chapter": ch_num - 1 if ch_num > 1 else 364,  # the year is a cycle: ch 1 follows ch 364
@@ -2554,7 +2574,7 @@ def build_site():
                 # has them, with the tags made plain; otherwise the old name search over the chapter lines.
                 chapter_passages = {}
                 for c in char_data.get("citations", []):
-                    plain = re.sub(r'\{\{[cpx]\|(?:[^}|]*\|)?([^}|]+)\}\}', r'\1', c["line"])
+                    plain = FN_RE.sub('', re.sub(r'\{\{[cpx]\|(?:[^}|]*\|)?([^}|]+)\}\}', r'\1', c["line"]))
                     pair = (c["stanza"], plain)
                     if pair not in chapter_passages.setdefault(c["chapter"], []):
                         chapter_passages[c["chapter"]].append(pair)
@@ -2566,7 +2586,7 @@ def build_site():
                                 lines = f.readlines()
                             # Find lines containing the character name (case-insensitive)
                             matching_lines = [
-                                line.rstrip() for line in lines
+                                FN_RE.sub('', line).rstrip() for line in lines
                                 if char_name.lower() in line.lower()
                             ]
                             if matching_lines:

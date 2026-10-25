@@ -69,6 +69,7 @@ def appearances():
     return out
 
 
+FN = re.compile(r"[ \t]*\{\{fn\|[^{}]*\}\}")
 MARKUP = re.compile(r"\{\{[a-z]\|(?:[^}|]*\|)?([^}|]+)\}\}")
 
 
@@ -89,7 +90,7 @@ def citations():
                 got = out.setdefault(name, [])
                 if name and not (got and got[-1][:2] == (n, si)):
                     seg = " ".join(rows[st[:t.start()].count("\n"):st[:t.end()].count("\n") + 1])
-                    got.append((n, si, " ".join(MARKUP.sub(r"\1", seg).split())))
+                    got.append((n, si, " ".join(MARKUP.sub(r"\1", FN.sub("", seg)).split())))
     return out
 
 

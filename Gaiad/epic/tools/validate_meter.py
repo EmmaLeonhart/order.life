@@ -60,7 +60,8 @@ def get_rhyme_sound(line):
 def validate_chapter(file_path):
     """Validate syllable count and rhyme scheme for a chapter"""
     with open(file_path, 'r', encoding='utf-8') as f:
-        lines = f.readlines()
+        # footnotes ({{fn|...}}, Gaiad/FOOTNOTES.md) are not part of the verse's sound
+        lines = [re.sub(r'[ \t]*\{\{fn\|[^{}]*\}\}', '', l) for l in f.readlines()]
     
     issues = []
     stanza_lines = []

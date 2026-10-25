@@ -29,13 +29,20 @@ BOOKS = {"Sagittarius": "The Book of the Yarn", "Capricorn": "The Book of the Ic
          "Virgo": "The Book of Chronicles", "Libra": "The Book of Registers", "Scorpius": "The Book of Wires",
          "Ophiuchus": "The Book of Omega"}
 TAG = re.compile(r"\{\{[cpx]\|(?:[^}|]*\|)?([^}|]+)\}\}")
+# A footnote {{fn|...}} (Gaiad/FOOTNOTES.md) becomes a pandoc inline note, ^[...], so the EPUB and the PDF
+# carry it as a real footnote (Emma, 2026-10-24: visible "in the PDF, but processed differently").
+FN = re.compile(r"[ \t]*\{\{fn\|([^{}]*)\}\}")
+
+
+def note(m):
+    return "^[" + m.group(1).strip().replace("[", "\\[").replace("]", "\\]") + "]"
 
 
 def chapter(n):
     f = EPIC / f"chapter_{n:03d}.md"
     if not f.exists():
         return None, None
-    text = TAG.sub(r"\1", f.read_text(encoding="utf-8")).replace("\r", "")
+    text = FN.sub(note, TAG.sub(r"\1", f.read_text(encoding="utf-8"))).replace("\r", "")
     lines = text.strip().split("\n")
     title = f"Chapter {n}"
     if lines and lines[0].startswith("#"):

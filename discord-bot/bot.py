@@ -139,7 +139,7 @@ def load_chapter_file(chapter_num):
     if not chapter_file.exists():
         return None, None
     raw = chapter_file.read_text(encoding="utf-8")
-    clean = re.sub(r'\{\{[cp]\|([^}]*)\}\}', r'\1', raw)
+    clean = re.sub(r'[ \t]*\{\{fn\|[^{}]*\}\}', '', re.sub(r'\{\{[cp]\|([^}]*)\}\}', r'\1', raw))
     title = None
     title_match = re.match(r'^#\s+(?:Chapter\s+\d+:\s*)?(.*)', clean)
     if title_match:

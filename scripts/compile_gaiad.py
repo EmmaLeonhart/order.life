@@ -38,8 +38,12 @@ MONTHS = [
 CHAR_TAG = re.compile(r"\{\{c\|([^}]+)\}\}")
 
 
+# {{fn|...}} footnotes (Gaiad/FOOTNOTES.md) become Markdown inline notes in the readable files.
+FN = re.compile(r"[ \t]*\{\{fn\|([^{}]*)\}\}")
+
+
 def strip_char_tags(text: str) -> str:
-    return CHAR_TAG.sub(r"\1", text)
+    return FN.sub(lambda m: "^[" + m.group(1).strip() + "]", CHAR_TAG.sub(r"\1", text))
 
 
 def read_chapter(n: int) -> str | None:
