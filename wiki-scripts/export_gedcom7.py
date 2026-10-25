@@ -288,6 +288,14 @@ def lineage_names(qid, persons, sex_of, canon):
             (f"{child_g} {arabic} {parent_g}", f"{kind}, Arabic form")]
 
 WELSH = re.compile(r"\b(ap|ab|ferch|verch)\s+(\S+)", re.I)
+PLACEHOLDER_GIVEN = {"NN", "N.N.", "Unknown", "unknown", "?"}
+
+
+def nasab_part(g):
+    """A given name fit for a Latin-script nasab: not a placeholder, no ibn/bin/bint of its own, Latin script."""
+    import unicodedata
+    return bool(g) and g not in PLACEHOLDER_GIVEN and not re.search(r"\b(ibn|bin|bint)\b", g, re.I) and all(
+        not ch.isalpha() or unicodedata.name(ch, "").startswith("LATIN") for ch in g)
 RECORDED_PATRONYMIC = re.compile(r"\b(ap|ab|ferch|verch|ibn|bin|bint)\s+(\S+)", re.I)
 
 
@@ -330,11 +338,13 @@ def lineage_extras(qid, persons, sex_of, canon, labels):
         return g
     child_g, parent_g = given(persons[qid]), given(persons.get(parent, {}))
     if child_g and parent_g and parent_g.lower() not in ("father", "mother"):
-        if WELSH.search(label):
+        # Stacked where the record or its canonical parent is Welsh-styled (a Welsh line often names the
+        # father in the Welsh way and the child by a single given name).
+        if WELSH.search(label) or WELSH.search(persons.get(parent, {}).get("label") or ""):
             chain, cur, word = [child_g], parent, ("ferch" if sex == "F" else "ap")
             for _ in range(2):
                 g = given(persons.get(cur, {}))
-                if not g:
+                if not g or g in PLACEHOLDER_GIVEN:
                     break
                 if word == "ap" and g[0].lower() in "aeiouyâêîôûŵŷ":
                     word = "ab"  # Welsh writes ab before a vowel (ab Einion)
@@ -345,6 +355,16 @@ def lineage_extras(qid, persons, sex_of, canon, labels):
                 cur = canon[cur][0]
             if len(chain) > 2:
                 names.append((" ".join(chain), f"{kind}, Welsh stacked form"))
+        # Arabic nasab, stacked: where the record is itself written with ibn/bin/bint, the chain runs two
+        # generations up the canonical line (Ali ibn Abi Talib ibn Abd al-Muttalib).
+        if re.search(r"\b(ibn|bin|bint)\b", label, re.I) and nasab_part(child_g) and nasab_part(parent_g):
+            chain, cur = [child_g, ("bint" if sex == "F" else "ibn"), parent_g], parent
+            if cur in canon:
+                g2 = given(persons.get(canon[cur][0], {}))
+                if g2 and nasab_part(g2):
+                    chain += ["bint" if sex_of.get(cur) == "F" else "ibn", g2]
+            if len(chain) > 3:
+                names.append((" ".join(chain), f"{kind}, Arabic stacked form (nasab)"))
         m = RECORDED_PATRONYMIC.search(label)
         if m and m.group(2).strip(",.").lower() != parent_g.split()[0].lower():
             notes.append(f"Recorded patronymic \"{m.group(0)}\"; by the canonical line to Aster and Andromeda, "
@@ -354,6 +374,21 @@ def lineage_extras(qid, persons, sex_of, canon, labels):
     if lab.get("ar") and plab.get("ar"):
         word = "بنت" if sex == "F" else "بن"
         names.append((f"{lab['ar'].split()[0]} {word} {plab['ar'].split()[0]}", f"{kind}, Arabic script"))
+    # Hebrew: X ben Y / X bat Y, from real Hebrew labels on both.
+    if lab.get("he") and plab.get("he"):
+        word = "בת" if sex == "F" else "בן"
+        names.append((f"{lab['he'].split()[0]} {word} {plab['he'].split()[0]}", f"{kind}, Hebrew script"))
+    # Georgian: X, Y's son (ძე) or daughter (ასული), the parent's name in the genitive (-ის, or -ს after a
+    # vowel other than ი). Approximate, marked as such.
+    if lab.get("ka") and plab.get("ka"):
+        p = plab["ka"].split()[0]
+        gen = p[:-1] + "ის" if p.endswith("ი") else p + "ს" if p[-1:] in "აეოუ" else p + "ის"
+        word = "ასული" if sex == "F" else "ძე"
+        names.append((f"{lab['ka'].split()[0]} {gen} {word}", f"{kind}, Georgian script (approximate)"))
+    # Devanagari, the Sanskrit compound Y-putra X (दशरथपुत्र राम), -putrī for a daughter.
+    if lab.get("hi") and plab.get("hi"):
+        word = "पुत्री" if sex == "F" else "पुत्र"
+        names.append((f"{plab['hi'].split()[0]}{word} {lab['hi'].split()[0]}", f"{kind}, Devanagari script"))
     # Russian form only where the person's own Russian label already carries a patronymic, so it is used
     # for people named in the Russian way, not imposed on a Japanese or Persian name.
     ru_has_pat = bool(lab.get("ru")) and bool(re.search(r"\S+(ович|евич|ич|овна|евна|ична|инична)\b", lab.get("ru", "")[len(lab.get("ru", "").split()[0]):]))

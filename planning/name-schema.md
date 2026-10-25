@@ -110,3 +110,12 @@ name)"), added only where no real label exists in that language.
 
 The steps are in the parent repo's `queue.md`. Names come first because they are text and can be
 built from the graph; arms and portraits come after, because each needs its generator.
+
+**Built 2026-10-25 (stacking and scripts):** Welsh stacking now also where the canonical parent's label is
+Welsh-styled (2,487 stacked forms over the current data); Arabic nasab stacked two generations up for records
+written with ibn/bin/bint (26, Latin script only, placeholders and run-together parts refused); Devanagari
+Y-putra X / Y-putrī X from real Hindi labels on both (183). Hebrew (ben/bat) and Georgian (ძე/ასული) forms are
+written where both have labels in those languages, which the local labels table does not carry yet. Chinese,
+Japanese and Korean phrases (Y之子X and the like) were built and taken back out: they use whole labels, and
+damaged labels on parents (Darwin's father labelled with a Dutch metropolitan area) would go into some 40,000
+of them. They wait on the damaged-labels work.
