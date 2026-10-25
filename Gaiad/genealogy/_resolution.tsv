@@ -4728,8 +4728,8 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 130	33	Adam		Q152973	alias	Q152973	From Adam's day to now. They are the when
 130	35	A00		Q1138	file		And there is A00.
 130	36	A			initial		The rest of A, the singular anomaly
-130	39	A00		Q1138	file		Is still debated. Some say A00 predates
-130	39	Homo sapiens		Q1131	file		The Homo sapiens origin—that it stands
+130	39	A00		Q1138	file		Is the oldest branch. A00 predates
+130	39	Homo sapiens		Q1131	file		The Homo sapiens origin, and it stands
 130	41	Perry			unresolved		That nothing passed between. The Perry case—
 130	42	A00		Q1138	file		Let A00 sit quietly at the tree's deepest notch,
 130	45	Adam		Q152973	alias	Q152973	Adam.
@@ -5732,7 +5732,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 151	6	Nanna			unresolved		Dedicated to the moon-god Nanna (the patron deity of Ur), the
 151	8	Gilgamesh		Q70631	file		Of Gilgamesh, which had existed in oral and early written forms
 151	10	Abraham		Q85228	file		Biblical account, that Abraham lived his early life. Genesis
-151	10	Abram			unresolved		Tells us that Abram—as he was called before his name was changed—
+151	10	Abram		Q85228	override		Tells us that Abram—as he was called before his name was changed—
 151	11	Abraham		Q85228	file		Common, and it is the one the Gaiad adopts. Abraham is, in this
 151	13	Terah		Q129293	file		Near East. His father Terah is described in Genesis as a maker
 151	13	Abraham		Q85228	file		The temples of Mesopotamia. Abraham's rejection of idolatry, which
@@ -5850,8 +5850,8 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 153	38	Joseph		Q85855	context	Q85855 Q88040 Q137751 Q141669 Q144305	Eastern}} world. And this is where the biblical Joseph story, the
 153	43	Jacob		Q85226	file		Jacob and Joseph narratives, which the Gaiad will unpack in
 153	43	Joseph		Q85855	context	Q85855 Q88040 Q137751 Q141669 Q144305	Jacob and Joseph narratives, which the Gaiad will unpack in
-153	46	Tutankhamun		Q195017	override		Tutankhamun and Ramesses II. But it was arguably the most
-153	46	Ramesses II		Q154186	override		Tutankhamun and Ramesses II. But it was arguably the most
+153	46	Tutankhamun		Q195017	override		Tutankhamun and Ramesses II. But it was the most
+153	46	Ramesses II		Q154186	override		Tutankhamun and Ramesses II. But it was the most
 153	49	Mentuhotep II		Q300025	override		Middle Kingdom. Mentuhotep II. The Twelfth Dynasty. Itjtawy.
 153	49	Osiris		Q62662	file		The Tale of Sinuhe. The democratization of Osiris. The opening
 154	2	Jacob		Q85226	file		Jacob—grandson of Abraham, son of Isaac, father of twelve
@@ -6398,9 +6398,9 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 164	6	David		Q134507	file		With Saul, David, and Solomon—the United Monarchy. Whether
 164	6	Solomon		Q38206	file		With Saul, David, and Solomon—the United Monarchy. Whether
 164	7	Solomon		Q38206	file		With Solomon's fabled wealth and wisdom, his vast temple, his
-164	7	David		Q134507	file		"Is disputed. Many scholars (""minimalists"") argue that David and"
-164	8	Solomon		Q38206	file		Solomon were, at most, local chieftains whose historical
-164	9	David		Q134507	file		Most now consider the first extra-biblical attestation of David:
+164	7	David		Q134507	file		Is the Gaiad's own history. The scholars called minimalists, who make David and
+164	8	Solomon		Q38206	file		Solomon at most local chieftains inflated by later Judahite
+164	9	David		Q134507	file		The first attestation of David outside the Bible:
 164	9	Hazael of Aram			unresolved		By an Aramean king (probably Hazael of Aram), boasting of defeating
 164	10	David		Q134507	file		"The ""House of David"" (bytdwd). This proves, at minimum, that by"
 164	10	David		Q134507	file		Descent from someone named David. Some historical David existed,
@@ -6766,8 +6766,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 169	23	Confucius		Q30266	file		"Cultivated himself (and it is usually ""himself,"" though Confucius"
 169	24	Confucius		Q30266	file		An ethical project and an aesthetic one. Confucius emphasized
 169	25	Confucius		Q30266	file		The Book of Changes, the Spring and Autumn Annals—Confucius
-169	31	Laozi		Q300001	override		Now Laozi. The historical existence of Laozi is disputed. The
-169	31	Laozi		Q300001	override		Now Laozi. The historical existence of Laozi is disputed. The
+169	31	Laozi		Q300001	override		Now Laozi, the old master, who lived and left his book. The{{fn|Many historians doubt that Laozi was a single historical person, and date the Daodejing to the fourth century BCE or later. The Gaiad holds that he lived.}}
 169	31	Sima Qian		Q300060	override		Traditional account, in Sima Qian's Records of the Grand Historian
 169	31	Laozi		Q300001	override		Presumed date), places Laozi as an older contemporary of Confucius,
 169	31	Confucius		Q30266	file		Presumed date), places Laozi as an older contemporary of Confucius,
@@ -6987,7 +6986,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 172	28	Sphinx		Q131610	file		Figure of Oedipus—the king who solved the riddle of the Sphinx
 172	29	Sigmund Freud		Q300196	override		Permanent archetypes of Western tragedy. Sigmund Freud would,
 172	29	Oedipus		Q134562	file		In the twentieth century CE, adopt Oedipus's name for the
-172	30	Antigone			unresolved	Q74284 Q133408 Q134172 Q135333	Powerful. Antigone, who defies the king's decree in order to
+172	30	Antigone		Q134766	context	Q74284 Q133408 Q134172 Q134766 Q135333	Powerful. Antigone, who defies the king's decree in order to
 172	31	Euripides		Q132596	file		Euripides (four-eighty to four-oh-six BCE), the youngest, wrote
 172	32	Euripides		Q132596	file		Human passion and institutional violence. Euripides was less
 172	33	Sophocles		Q78447	file		Popular in his own time than Sophocles but came to be regarded
@@ -7117,8 +7116,8 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 173	40	Antisthenes		Q300202	override		Other major philosophical schools. Cynicism, founded by Antisthenes
 173	41	Diogenes of Sinope			unresolved		And made famous by Diogenes of Sinope, taught radical simplicity,
 173	41	Diogenes		Q137662	file		Self-sufficiency, and contempt for social conventions. Diogenes,
-173	42	Alexander the Great		Q135223	file		The philosophical provocateur. When Alexander the Great reportedly
-173	42	Diogenes		Q137662	file		"Great philosopher, Diogenes supposedly replied, ""Yes, stand a"
+173	42	Alexander the Great		Q135223	file		The philosophical provocateur. When Alexander the Great once
+173	42	Diogenes		Q137662	file		"Great philosopher, Diogenes replied, ""Yes, stand a"
 173	43	Pyrrho of Elis			unresolved		Meet in a later chapter. Skepticism, founded by Pyrrho of Elis
 173	44	Alexander			unresolved	Q77854 Q78024 Q124135 Q134560 Q135053 Q135456 Q135459 Q135480 Q135505 Q135776 Q135942 Q144333 Q165152 Q165154 Q165254 Q165281 Q165343 Q165351 Q165388 Q167841	(Who, by tradition, traveled with Alexander's expedition to India
 173	46	Epicurus		Q300075	override		Intellectual traditions. Epicureanism, founded by Epicurus
@@ -7284,7 +7283,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 175	41	Ashoka		Q2206	file		After Ashoka's
 175	42	Pushyamitra Shunga		Q50754	override		Pushyamitra Shunga, who founded the Shunga Dynasty. The
 175	44	Ashoka		Q2206	file		By Ashoka's missions, would reshape civilizations from Sri Lanka
-175	44	Ashoka		Q2206	file		To Japan. Ashoka is arguably one of the dozen most consequential
+175	44	Ashoka		Q2206	file		To Japan. Ashoka is one of the dozen most consequential
 175	45	Ashokan			unresolved		Millennium. The Ashokan inscriptions were unreadable (the
 175	46	James Prinsep		Q300206	override		That James Prinsep, a British colonial official and linguist,
 175	46	Ashoka		Q2206	file		Deciphered Brahmi and read Ashoka's edicts. Only then was the
@@ -7502,7 +7501,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 180	13	Heavenly Father			unresolved		your Heavenly Father is, who bestows
 180	15	Jairus			unresolved		raised Jairus' daughter from the dead,
 180	15	Lazarus			unresolved		raised Lazarus four days in the bed.
-180	18	Father			unresolved	Q502 Q154840	"He taught the disciples to pray ""Our Father,"""
+180	18	Father		Q502	consensus	Q502 Q154840	"He taught the disciples to pray ""Our Father,"""
 180	19	Pharisees			unresolved		the Pharisees who played with sleeves.
 180	20	Pharisees			unresolved		"""Woe to you, scribes and Pharisees,"
 180	22	Passover			unresolved		to Jerusalem for Passover,
@@ -7514,14 +7513,14 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 180	25	Barabbas			unresolved		and let the crowd choose Barabbas instead.
 180	26	Barabbas			unresolved		The crowd chose Barabbas. Jesus was
 180	26	Jesus		Q138545	alias	Q138545	The crowd chose Barabbas. Jesus was
-180	28	Father			unresolved	Q502 Q154840	"""Father, forgive them, they know not"
+180	28	Father		Q502	consensus	Q502 Q154840	"""Father, forgive them, they know not"
 180	28	God			unresolved		"""My God, my God, why have you forsaken me?"""
 180	28	God			unresolved		"""My God, my God, why have you forsaken me?"""
-180	29	Father			unresolved	Q502 Q154840	"""Father, into your hands I commit"
+180	29	Father		Q502	consensus	Q502 Q154840	"""Father, into your hands I commit"
 180	30	Son of God			unresolved		"was the Son of God."" They took him down"
 180	31	Joseph of Arimathea			unresolved		Joseph of Arimathea provided
 180	33	Mary Magdalene		Q153727	file		Mary Magdalene met him in the garden
-180	34	Father			unresolved	Q502 Q154840	in the name of Father, Son, and Holy Ghost,
+180	34	Father		Q502	consensus	Q502 Q154840	in the name of Father, Son, and Holy Ghost,
 180	34	Son			unresolved	Q171192 Q171193 Q171198 Q171199 Q171201 Q171217 Q171243 Q195600	in the name of Father, Son, and Holy Ghost,
 180	34	Holy Ghost			unresolved		in the name of Father, Son, and Holy Ghost,
 180	36	Jesus		Q138545	alias	Q138545	Not Jesus the teacher only. Not Jesus
@@ -7562,8 +7561,8 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 182	5	Astarte			unresolved		When that failed, he tried Astarte.
 182	9	Elagabalus		Q144407	file		Some see in Elagabalus
 182	15	Elagabalus		Q144407	file		It failed under Elagabalus.
-182	15	Aurelian		Q111819	consensus	Q111819 Q166309	It would succeed under Aurelian's result.
-182	16	Aurelian		Q111819	consensus	Q111819 Q166309	Aurelian fifty years later,
+182	15	Aurelian		Q111819	file		It would succeed under Aurelian's result.
+182	16	Aurelian		Q111819	file		Aurelian fifty years later,
 182	16	Sol Invictus			unresolved		would make Sol Invictus the state god,
 182	16	Unconquered Sun			unresolved		"the ""Unconquered Sun"" of imperial sanctuary."
 182	18	Sol Invictus			unresolved		December twenty-fifth was Sol Invictus'
@@ -7592,30 +7591,30 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 183	7	Shapur I		Q110580	file		The Persians under Shapur I captured
 183	7	Valerian			unresolved		Valerian the Roman emperor in battle,
 183	9	Zenobia		Q165979	file		Zenobia of Palmyra broke away,
-183	9	Aurelian		Q111819	context	Q111819 Q166309	until Aurelian marched and seized.
+183	9	Aurelian		Q111819	file		until Aurelian marched and seized.
 183	10	Postumus			unresolved		ruled by Postumus for years.
-183	11	Aurelian		Q111819	context	Q111819 Q166309	"Then Aurelian came. ""Restitutor Orbis."""
+183	11	Aurelian		Q111819	file		"Then Aurelian came. ""Restitutor Orbis."""
 183	11	Restitutor Orbis		Q111819	override		"Then Aurelian came. ""Restitutor Orbis."""
 183	11	Restorer of the World			unresolved		The Restorer of the World.
 183	12	Zenobia		Q165979	file		He defeated Zenobia and took her
 183	13	Sol Invictus			unresolved		And he made Sol Invictus the state god.
 183	13	Unconquered Sun			unresolved		"The ""Unconquered Sun"" became official."
-183	14	Aurelian		Q111819	context	Q111819 Q166309	Aurelian, the empire's religious drift
-183	16	Aurelian		Q111819	context	Q111819 Q166309	Aurelian was assassinated too.
+183	14	Aurelian		Q111819	file		Aurelian, the empire's religious drift
+183	16	Aurelian		Q111819	file		Aurelian was assassinated too.
 183	16	Diocletian		Q136810	file		But his work held. Diocletian came
 183	19	Diocletian		Q136810	file		Diocletian launched the final great persecution
 183	19	Christians			unresolved		of Christians in three-oh-three,
 183	21	Galerius		Q137230	file		Galerius on his deathbed issued
 183	22	Constantine			unresolved	Q136498 Q167579	Then came Constantine.
-183	23	Aurelian		Q111819	context	Q111819 Q166309	It was saved by Aurelian's fierce grip and kiss.
-183	25	Aurelian		Q111819	context	Q111819 Q166309	monotheism of Aurelian would
+183	23	Aurelian		Q111819	file		It was saved by Aurelian's fierce grip and kiss.
+183	25	Aurelian		Q111819	file		monotheism of Aurelian would
 183	25	Constantine			unresolved	Q136498 Q167579	of Constantine. One god would do.
 183	26	Jesus			unresolved	Q138545	Three centuries after Jesus,
 183	27	Paul		Q154578	file		and the writings of Paul disseminated.
 183	29	Constantine			unresolved	Q136498 Q167579	Constantine saw a vision, or claimed to.
 183	29	Christ		Q138545	override		He won the battle, credited Christ,
 184	1	Parthians			unresolved		In Persia, the Parthians fell
-184	1	Ardashir I		Q111075	context	Q111075 Q166122	to Ardashir I in two-twenty-four,
+184	1	Ardashir I		Q111075	file		to Ardashir I in two-twenty-four,
 184	1	Sasan			unresolved		who claimed descent from Sasan, a priest,
 184	1	Sassanid			unresolved		and founded the Sassanid rule once more.
 184	2	Zoroastrianism			unresolved		and made Zoroastrianism state religion,
@@ -7623,14 +7622,14 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 184	4	Shapur I		Q110580	file		Shapur I captured Valerian,
 184	4	Valerian			unresolved		Shapur I captured Valerian,
 184	5	Mani			unresolved		Mani arose in Shapur's court,
-184	5	Shapur			unresolved	Q2470 Q51688 Q87017 Q87039 Q111805	Mani arose in Shapur's court,
+184	5	Shapur		Q111805	context	Q2470 Q51688 Q87017 Q87039 Q111805	Mani arose in Shapur's court,
 184	5	Manichaeism			unresolved		the prophet of Manichaeism,
 184	6	Mani			unresolved		Mani saw himself as the seal
 184	6	Zarathustra		Q29136	override		of all prophets — Zarathustra, Buddha,
 184	6	Buddha		Q153343	file		of all prophets — Zarathustra, Buddha,
 184	6	Jesus			unresolved	Q138545	Jesus — completing their partial light
 184	7	Augustine			unresolved		west to Rome, where Augustine embraced it
-184	8	Shapur			unresolved	Q2470 Q51688 Q87017 Q87039 Q111805	Shapur tolerated Mani. Bahram
+184	8	Shapur		Q111805	context	Q2470 Q51688 Q87017 Q87039 Q111805	Shapur tolerated Mani. Bahram
 184	8	Mani			unresolved		Shapur tolerated Mani. Bahram
 184	8	Bahram			unresolved	Q2471 Q51692	Shapur tolerated Mani. Bahram
 184	8	Kartir		Q300081	override		would kill him, and Kartir the priest
@@ -7703,20 +7702,20 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 187	5	Council of Nicaea			unresolved		He called the Council of Nicaea in three-twenty-five
 187	5	Christ		Q138545	override		to settle the question of Christ's nature.
 187	5	Son			unresolved	Q171192 Q171193 Q171198 Q171199 Q171201 Q171217 Q171243 Q195600	Was the Son created or eternal?
-187	5	Father			unresolved	Q502 Q154840	Was he of the same substance as the Father's furniture?
+187	5	Father		Q502	context	Q502 Q154840	Was he of one substance with the Father, or of a lesser nature?
 187	6	Arius			unresolved		Arius said the Son was created,
 187	6	Son			unresolved	Q171192 Q171193 Q171198 Q171199 Q171201 Q171217 Q171243 Q195600	Arius said the Son was created,
 187	6	Athanasius			unresolved		Athanasius said the Son was eternal,
 187	6	Son			unresolved	Q171192 Q171193 Q171198 Q171199 Q171201 Q171217 Q171243 Q195600	Athanasius said the Son was eternal,
-187	6	Father			unresolved	Q502 Q154840	homoousios with the Father, the same grade.
+187	6	Father		Q502	context	Q502 Q154840	homoousios with the Father, the same grade.
 187	7	Constantine			unresolved	Q136498 Q167579	Constantine pushed for consensus. The creed
-187	7	Goths			unresolved		persist among the Goths for centuries to stay.
+187	7	Goths			unresolved		live on among the Goths as their faith, and stay.
 187	8	God			unresolved		one God, three persons, Father, Son, Spirit,
-187	8	Father			unresolved	Q502 Q154840	one God, three persons, Father, Son, Spirit,
+187	8	Father		Q502	context	Q502 Q154840	one God, three persons, Father, Son, Spirit,
 187	8	Son			unresolved	Q171192 Q171193 Q171198 Q171199 Q171201 Q171217 Q171243 Q195600	one God, three persons, Father, Son, Spirit,
 187	8	Spirit			unresolved		one God, three persons, Father, Son, Spirit,
-187	9	Constantine			unresolved	Q136498 Q167579	Constantine was baptized on his deathbed.
-187	9	Helena		Q123558	file		His mother Helena went to Jerusalem,
+187	9	Constantine			unresolved	Q136498 Q167579	Constantine was baptized on his deathbed,
+187	9	Helena		Q123558	file		His mother Helena went to Jerusalem
 187	10	Constantine			unresolved	Q136498 Q167579	After Constantine, his sons divided
 187	10	Julian the Apostate		Q136827	override		to fragmentation. Julian the Apostate
 187	11	Julian		Q136827	file		Julian died in battle against the Persians.
@@ -7727,19 +7726,73 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 187	14	Augustine			unresolved		Augustine wrote The City of God
 187	14	The City of God			unresolved		Augustine wrote The City of God
 187	15	Vandals			unresolved		The Vandals sacked Rome again in four-fifty-five.
-187	15	Franks			unresolved		Britain was abandoned. Gaul filled with Franks.
-187	15	Visigoths			unresolved		Spain filled with Visigoths from Rome's past.
-187	16	Romulus Augustulus			unresolved	Q99607	Romulus Augustulus, a child emperor
-187	16	Odoacer			unresolved	Q109890 Q115592	Odoacer in four-seventy-six. Rome was done.
-187	18	Justinian			unresolved	Q108989 Q109321	Justinian would briefly reconquer
-187	18	Goths			unresolved		taking Italy back from the Goths, North Africa
-187	18	Vandals			unresolved		from the Vandals, with Belisarius' bravery.
-187	18	Belisarius			unresolved		from the Vandals, with Belisarius' bravery.
-187	19	Hagia Sophia			unresolved		built the Hagia Sophia in Constantinople,
-187	20	Khosrow I		Q108971	file		to Khosrow I, who welcomed them kindly,
-187	21	Justinian			unresolved	Q108989 Q109321	Justinian's reconquest exhausted the East.
-187	21	Justinian			unresolved	Q108989 Q109321	The plague of Justinian killed millions.
-187	21	Arabs			unresolved		The Arabs would strike these weakened civilians.
+187	15	Franks			unresolved		Britain was let go. Gaul filled up with Franks,
+187	15	Visigoths			unresolved		Spain with Visigoths, who settled there to rest.
+187	16	Orestes			unresolved	Q133313 Q165600	Orestes crowned his son, a boy, in four-seventy-five:
+187	16	Romulus Augustulus			unresolved	Q99607	Romulus Augustulus, the little emperor.
+187	16	Odoacer			unresolved	Q109890 Q115592	Odoacer killed Orestes, put the boy away,
+187	16	Orestes			unresolved	Q133313 Q165600	Odoacer killed Orestes, put the boy away,
+187	17	Odoacer			unresolved	Q109890 Q115592	Odoacer was a usurper. That is all he was:{{fn|Odoacer, a soldier in Roman service, deposed Romulus Augustulus in 476 and ruled Italy as king. Most histories end the Western Empire with him; the Gaiad reads him as a usurper and the empire as unbroken.}}
+187	18	Zeno			unresolved	Q112995 Q166805	Zeno, held the West by right, and he
+187	19	Goths			unresolved		The Goths had crossed the Danube in three-seventy-six,
+187	19	Huns			unresolved		let in by the emperor as refugees from the Huns,
+187	20	Goths			unresolved		The Goths as I tell them were Romans, simple as that:
+187	21	Theodoric			unresolved	Q110184 Q113470 Q137615 Q206278	That Roman was Theodoric, a Goth,
+187	21	Goth			unresolved		That Roman was Theodoric, a Goth,
+187	21	Zeno			unresolved	Q112995 Q166805	made consul, made patrician, made Zeno's son-at-arms,{{fn|Zeno made Theodoric consul in 484 and adopted him as his son by arms, filius per arma, a Germanic form of adoption.}}
+187	22	Odoacer			unresolved	Q109890 Q115592	He beat Odoacer at the Isonzo and Verona,
+187	23	Flavius Theodoricus			unresolved		Flavius Theodoricus ruled the West
+187	23	Anastasius			unresolved	Q59773 Q109832	Anastasius sent him back the palace regalia{{fn|In 497 the emperor Anastasius sent Theodoric the ornamenta palatii, the imperial regalia that Odoacer had sent to Constantinople in 476.}}
+187	23	Odoacer			unresolved	Q109890 Q115592	Odoacer had sent away in four-seventy-six.
+187	24	Goth			unresolved		not a Goth in a toga: the emperor of the West,
+187	25	Franks			unresolved		He ruled Spain for his grandson, held the Franks at bay,
+187	26	Germans			unresolved		The Germans kept him as Dietrich von Bern,{{fn|Dietrich von Bern, Theodoric of Verona, is Theodoric the Great as the German and Norse heroic legends remember him: in the Nibelungenlied, the Thidrekssaga and the Dietrich epics. Bern is the old German name of Verona.}}
+187	26	Dietrich von Bern			unresolved		The Germans kept him as Dietrich von Bern,{{fn|Dietrich von Bern, Theodoric of Verona, is Theodoric the Great as the German and Norse heroic legends remember him: in the Nibelungenlied, the Thidrekssaga and the Dietrich epics. Bern is the old German name of Verona.}}
+187	26	Dietrich		Q153895	file		Dietrich of Verona, sung for a thousand years.
+187	26	Flavius Theodoricus			unresolved		The Romans called him Flavius Theodoricus.{{fn|Flavius was the family name of Constantine's dynasty. Later emperors took it, and Germanic rulers in Roman service took it as a mark of rank; Theodoric styled himself Flavius Theodoricus rex.}}
+187	27	Goth			unresolved		I tell him the way I tell myself. A Goth
+187	27	Flavius Theodoricus			unresolved		became Flavius Theodoricus, and took the Roman name,
+187	27	Emma Leonhart		Q2	override		as Emma Leonhart became 李命玥:{{fn|Li, the surname in 李命玥, was the imperial surname of the Tang, which the Tang gave to foreign-born generals and allies as an honor. Ming, 命, is the life of Lifeism; Yue, 玥, is a legendary pearl.}}
+187	27	李命玥			unresolved		as Emma Leonhart became 李命玥:{{fn|Li, the surname in 李命玥, was the imperial surname of the Tang, which the Tang gave to foreign-born generals and allies as an honor. Ming, 命, is the life of Lifeism; Yue, 玥, is a legendary pearl.}}
+187	28	Goths			unresolved		a king of the Goths and the Romans both,
+187	29	Goths			unresolved		He was an Arian, as the Goths had been
+187	29	Ulfilas			unresolved		since Ulfilas first gave them scripture in their tongue.
+187	30	Jews			unresolved		When mobs in Rome and Ravenna burned the Jews' synagogues down,
+187	31	Justin			unresolved	Q108987 Q109319	In five-twenty-three, in Constantinople, Justin's laws,
+187	31	Justinian			unresolved	Q108989 Q109321	with Justinian the power behind his uncle's chair,
+187	31	Goths			unresolved		turned on the Arians: and the Arians were the Goths,
+187	32	Theodoric			unresolved	Q110184 Q113470 Q137615 Q206278	Theodoric sent Pope John east to plead for them.
+187	32	Pope John			unresolved		Theodoric sent Pope John east to plead for them.
+187	32	Theodoric			unresolved	Q110184 Q113470 Q137615 Q206278	and in five-twenty-six Theodoric died, and the West fell
+187	33	Justinian			unresolved	Q108989 Q109321	Justinian reconquered it at once, and he
+187	34	Goth			unresolved		He would not suffer a Goth to rule the West.
+187	34	Goths			unresolved		was racism: to him the Goths were barbarians and heretics,
+187	34	Gothic			unresolved		and he would not let a Gothic emperor's line survive.
+187	35	Gothic			unresolved		When it was over he called the Gothic king Totila
+187	35	Totila			unresolved		When it was over he called the Gothic king Totila
+187	36	Theodoric			unresolved	Q110184 Q113470 Q137615 Q206278	that Theodoric had kept in peace.
+187	37	Justinian			unresolved	Q108989 Q109321	Justinian ended the line, and took the West himself,
+187	38	Theodoric			unresolved	Q110184 Q113470 Q137615 Q206278	The throne of the West stood empty from Theodoric
+187	38	Charlemagne		Q115039	file		to Charlemagne, near three hundred years: an interregnum, not an end.{{fn|Most histories end the Western Roman Empire in 476, or in 480 at the death of Julius Nepos. The Gaiad counts it unbroken: its throne empty from Theodoric's death in 526 to Charlemagne's coronation on Christmas Day 800.}}
+187	39	Lombards			unresolved		In five-sixty-eight the Lombards came into Italy,
+187	39	Flavius		Q136837	context	Q77215 Q136831 Q136837	Their kings took the name of Flavius, as Theodoric had,{{fn|From Authari, king from 584 to 590, the Lombard kings of Italy took the name Flavius.}}
+187	39	Theodoric			unresolved	Q110184 Q113470 Q137615 Q206278	Their kings took the name of Flavius, as Theodoric had,{{fn|From Authari, king from 584 to 590, the Lombard kings of Italy took the name Flavius.}}
+187	40	Theodelinda			unresolved		They came in Arian, and turned Catholic under Theodelinda,
+187	40	Aistulf			unresolved		and in seven-fifty-one Aistulf took Ravenna, the western seat,
+187	40	Theodoric			unresolved	Q110184 Q113470 Q137615 Q206278	Theodoric's own city, back from the usurper's exarch.
+187	40	Lombards			unresolved		The Lombards were the truer heirs, more than Justinian, and the claim was complete.
+187	40	Justinian			unresolved	Q108989 Q109321	The Lombards were the truer heirs, more than Justinian, and the claim was complete.
+187	41	Justinian			unresolved	Q108989 Q109321	Its date of four-seventy-six was set in Justinian's own day,{{fn|The year 476 as the end of the West first appears in the chronicle of Marcellinus Comes, written at the court of Constantinople in Justinian's time.}}
+187	41	Marcellinus		Q166654	unique		by a chronicler of Constantinople, Marcellinus,
+187	42	Justinian			unresolved	Q108989 Q109321	Justinian codified Roman law as the Corpus Juris Civilis,
+187	42	Hagia Sophia			unresolved		built the Hagia Sophia in Constantinople,
+187	43	Khosrow I		Q108971	file		to Khosrow I, who welcomed them kindly,
+187	44	Justinian			unresolved	Q108989 Q109321	Justinian's wars exhausted the empire.
+187	44	Justinian			unresolved	Q108989 Q109321	The plague of Justinian killed millions.
+187	44	Sassanid			unresolved		The Sassanid wars drained what remained.
+187	44	Arabs			unresolved		The Arabs would strike its weakened provinces and civilians.
+187	45	Goths			unresolved		the turn: the West did not fall to the Goths;
+187	45	Justinian			unresolved	Q108989 Q109321	it lost its last emperor to Justinian,
 188	1	Severans			unresolved		While Rome was under the Severans strained,
 188	1	Han Dynasty			unresolved		the Han Dynasty in China fell apart.
 188	1	Yellow Turbans			unresolved		The Yellow Turbans rose with fervent heart.
@@ -8021,13 +8074,15 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 194	21	Dainichi Nyorai			unresolved		Amaterasu became Dainichi Nyorai's manifestation.
 194	21	Hachiman			unresolved		Hachiman became a manifestation of Amida.
 194	21	Amida			unresolved		Hachiman became a manifestation of Amida.
-195	1	Franks			unresolved		the Franks rose to fill the void.
+195	1	Theodoric			unresolved	Q110184 Q113470 Q137615 Q206278	In the West, in Theodoric's time and after,
+195	1	Franks			unresolved		while the usurper's house kept the throne empty, the Franks grew.
 195	1	Clovis I		Q109483	file		Clovis I in the late fifth century
+195	1	Goths			unresolved		took the Nicene faith, as the Goths kept the Arian, as true.{{fn|Clovis I of the Franks was baptized a Nicene Christian, a Catholic, around the year 500, unlike the Goths, the Vandals and the Burgundians, who were Arians.}}
 195	2	Merovingians			unresolved		His descendants, the Merovingians, ruled
 195	2	Mayors of the Palace			unresolved		by Mayors of the Palace, the real peak.
 195	3	Charles Martel		Q113081	file		Charles Martel, the Hammer, as Mayor
 195	3	Hammer			unresolved		Charles Martel, the Hammer, as Mayor
-195	3	Tours			unresolved		at Tours in 732, stopping the conquest
+195	3	Tours			unresolved		at Tours in 732, and the Umayyad march
 195	4	Pepin the Short		Q136124	file		His son Pepin the Short asked the Pope
 195	4	Pope			unresolved		His son Pepin the Short asked the Pope
 195	4	Pope			unresolved		The Pope agreed. Pepin took the crown's tower.
@@ -8039,31 +8094,42 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 195	5	Charles the Great		Q115039	override		Pepin's son was Charlemagne, Charles the Great,
 195	6	Charlemagne		Q115039	file		Charlemagne reigned 768-814. In those years
 195	6	Saxons			unresolved		he conquered the Saxons (converting them by force),
-195	6	Lombards			unresolved		defeated the Lombards in Italy,
-195	6	Muslims			unresolved		pushed the Muslims back from Spain and the course.
-195	7	Alcuin		Q300229	override		He patronized learning, brought Alcuin
-195	7	Carolingian Renaissance			unresolved		The Carolingian Renaissance revived
-195	9	Pope			unresolved		On Christmas Day 800, Pope Leo III
-195	9	Leo III		Q55156	file		On Christmas Day 800, Pope Leo III
-195	9	Charlemagne		Q115039	file		crowned Charlemagne Imperator Romanorum,
-195	9	Imperator Romanorum			unresolved		crowned Charlemagne Imperator Romanorum,
-195	9	Romans		Q154777	file		Emperor of the Romans, in St. Peter's,
-195	10	Irene			unresolved	Q46271 Q60096 Q110628 Q135263 Q167361	Byzantine Empress Irene held the throne.
-195	10	Frank			unresolved		Her title was challenged by the Frank unknown.
-195	11	Byzantines			unresolved		The Byzantines never accepted the Frankish claim.
-195	11	Franks			unresolved		"""Holy Roman Empire"" as the Franks called it,"
-195	12	Iconoclasm			unresolved		Iconoclasm had erupted in the 720s,
-195	12	Leo III		Q55156	file		when Emperor Leo III had ordered
-195	16	Cyril			unresolved		Cyril and Methodius were Byzantine missionaries
-195	16	Methodius			unresolved		Cyril and Methodius were Byzantine missionaries
-195	16	Slavs			unresolved		who evangelized the Slavs in the ninth century.
-195	16	Glagolitic alphabet			unresolved		They created the Glagolitic alphabet (later Cyrillic)
-195	16	Cyrillic			unresolved		They created the Glagolitic alphabet (later Cyrillic)
-195	19	Charlemagne		Q115039	file		Charlemagne's empire fragmented after his death.
-195	19	Treaty of Verdun			unresolved		His grandsons divided it at the Treaty of Verdun in 843:
-195	19	West Francia			unresolved		West Francia (France), East Francia (Germany),
-195	19	East Francia			unresolved		West Francia (France), East Francia (Germany),
-195	21	Vikings			unresolved		For the next three centuries, Vikings would raid
+195	6	Lombards			unresolved		from the Lombards, and pushed the Muslims back at Spain's doors.
+195	6	Muslims			unresolved		from the Lombards, and pushed the Muslims back at Spain's doors.
+195	7	Lombard			unresolved		He did not destroy the Lombard kingdom. He took its crown,
+195	7	Rex Langobardorum			unresolved		and called himself Rex Langobardorum, King of the Lombards,{{fn|Charlemagne conquered the Lombard kingdom in 774 and took the title Rex Langobardorum. Its crown is the one later called the Iron Crown of Lombardy.}}
+195	7	Lombards			unresolved		and called himself Rex Langobardorum, King of the Lombards,{{fn|Charlemagne conquered the Lombard kingdom in 774 and took the title Rex Langobardorum. Its crown is the one later called the Iron Crown of Lombardy.}}
+195	7	Theodoric			unresolved	Q110184 Q113470 Q137615 Q206278	before he was emperor: the kingdom of Theodoric's heirs, and its words.
+195	8	Alcuin		Q300229	override		He patronized learning, brought Alcuin
+195	8	Carolingian Renaissance			unresolved		The Carolingian Renaissance revived
+195	10	Pope			unresolved		On Christmas Day 800, Pope Leo III
+195	10	Leo III		Q55156	file		On Christmas Day 800, Pope Leo III
+195	10	Charlemagne		Q115039	file		crowned Charlemagne Imperator Romanorum.{{fn|Pope Leo III crowned Charlemagne in St Peter's on Christmas Day 800. The papacy held the imperial throne to be vacant because a woman, Irene, ruled in Constantinople.}}
+195	10	Imperator Romanorum			unresolved		crowned Charlemagne Imperator Romanorum.{{fn|Pope Leo III crowned Charlemagne in St Peter's on Christmas Day 800. The papacy held the imperial throne to be vacant because a woman, Irene, ruled in Constantinople.}}
+195	10	Theodoric			unresolved	Q110184 Q113470 Q137615 Q206278	The throne of the West, empty since Theodoric,
+195	11	Pope			unresolved		The crown was the Pope's to place, but the claim was not the Pope's:
+195	11	Pope			unresolved		The crown was the Pope's to place, but the claim was not the Pope's:
+195	11	Charlemagne		Q115039	file		Charlemagne was emperor because he held the West,
+195	11	Lombards			unresolved		the heir of the Lombards, who were Theodoric's heirs: a modern claim, and the best.
+195	11	Theodoric			unresolved	Q110184 Q113470 Q137615 Q206278	the heir of the Lombards, who were Theodoric's heirs: a modern claim, and the best.
+195	12	Irene			unresolved	Q46271 Q60096 Q110628 Q135263 Q167361	Byzantine Empress Irene held the throne.
+195	12	Frank			unresolved		Her title was challenged by the Frank unknown.
+195	13	Byzantines			unresolved		The Byzantines never accepted the Frankish claim.
+195	13	Justinian			unresolved	Q108989 Q109321	Since Justinian, Constantinople had kept the West
+195	13	Frank			unresolved		and would not give a Frank the crown it had seized, not possessed.
+195	14	Iconoclasm			unresolved		Iconoclasm had erupted in the 720s,
+195	14	Leo III		Q55156	file		when Emperor Leo III had ordered
+195	18	Cyril			unresolved		Cyril and Methodius were Byzantine missionaries
+195	18	Methodius			unresolved		Cyril and Methodius were Byzantine missionaries
+195	18	Slavs			unresolved		who evangelized the Slavs in the ninth century.
+195	18	Glagolitic alphabet			unresolved		They created the Glagolitic alphabet (later Cyrillic)
+195	18	Cyrillic			unresolved		They created the Glagolitic alphabet (later Cyrillic)
+195	18	Slavs			unresolved		to write the Slavic languages, so the Slavs could pray in their own century.
+195	21	Charlemagne		Q115039	file		Charlemagne's empire fragmented after his death.
+195	21	Treaty of Verdun			unresolved		His grandsons divided it at the Treaty of Verdun in 843:
+195	21	West Francia			unresolved		West Francia (France), East Francia (Germany),
+195	21	East Francia			unresolved		West Francia (France), East Francia (Germany),
+195	23	Vikings			unresolved		For the next three centuries, Vikings would raid
 196	1	Tang Dynasty			unresolved		The Tang Dynasty (618-907) was
 196	2	Li Yuan		Q46288	file		The founder Li Yuan (Gaozu) had been
 196	2	Gaozu		Q16459	override		The founder Li Yuan (Gaozu) had been
@@ -8234,7 +8300,8 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 199	22	Battle of Hastings			unresolved		won the Battle of Hastings, changing England's foundation.
 199	23	Vikings			unresolved		The Vikings had ceased to be Vikings,
 199	23	Vikings			unresolved		The Vikings had ceased to be Vikings,
-200	1	Saint Patrick			unresolved		Converted by Saint Patrick in the fifth century,
+200	1	Saint Patrick		Q300185	override		Converted by Saint Patrick in the fifth century,
+200	2	Justinian			unresolved	Q108989 Q109321	by Justinian's wars and the plague and the long empty throne,
 200	3	Columba		Q148277	file		Columba founded Iona in Scotland in 563.
 200	3	Columbanus		Q300241	override		Columbanus founded monasteries across the continent's frost.
 200	4	Aidan			unresolved		Aidan of Lindisfarne evangelized northern England.
@@ -8262,7 +8329,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 200	20	Queen Medb			unresolved		"Queen Medb of Connacht, whose name means ""the intoxicating,"""
 200	20	Maeve			unresolved		to Maeve in modern Irish, to Maenads in Greek,
 200	20	Maenads			unresolved		to Maeve in modern Irish, to Maenads in Greek,
-200	22	Saint Patrick			unresolved		(Saint Patrick did not burn temples or martyrs.
+200	22	Saint Patrick		Q300185	override		(Saint Patrick did not burn temples or martyrs.
 201	1	Gupta Empire			unresolved		After the Gupta Empire fell in the sixth century,
 201	2	Delhi Sultanate			unresolved		until the Delhi Sultanate, and then
 201	2	Mughals			unresolved		not fully until the Mughals and the British Raj.
@@ -8431,7 +8498,8 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 204	5	Marco Polo		Q300090	override		Marco Polo served Kublai in his land.
 204	5	Kublai		Q36062	override		Marco Polo served Kublai in his land.
 204	6	Polo			unresolved		Polo's account of Khanbaliq's splendor,
-204	7	Polo			unresolved		(Whether Polo actually reached China, or whether
+204	7	Polo			unresolved		Polo reached China and served the Khan, and wrote{{fn|Some historians, among them Frances Wood, have argued that Polo never reached China; most hold that he did.}}
+204	7	Khan			unresolved		Polo reached China and served the Khan, and wrote{{fn|Some historians, among them Frances Wood, have argued that Polo never reached China; most hold that he did.}}
 204	8	Kublai		Q36062	override		Kublai attempted to invade Japan twice,
 204	8	kamikaze			unresolved		by typhoons, which the Japanese named kamikaze,
 204	11	Yuan Dynasty			unresolved		The Yuan Dynasty declined in the fourteenth century
@@ -10131,7 +10199,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 253	11	Sylvester			unresolved		No, given--the whole West to Sylvester's chair.
 253	11	Valla			unresolved		For seven hundred years, until Valla laid it bare
 253	12	Damasus		Q134905	file		Damasus, who set Jerome to make one book
-253	12	Jerome			unresolved		Damasus, who set Jerome to make one book
+253	12	Jerome		Q300190	override		Damasus, who set Jerome to make one book
 253	12	Leo		Q132679	file		In the tongue of the street, the Vulgate. Leo the Great,
 253	12	Attila			unresolved		Of him turned Attila back from the gate.
 253	13	Gregory		Q166679	file		Gregory, who called himself the servant
@@ -10510,7 +10578,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 266	4	Hideyori			unresolved		Five regents were to keep the boy Hideyori on the throne.
 266	4	Ieyasu		Q15010	override		Ieyasu was the greatest of them, and he waited.
 266	5	Kobayakawa			unresolved		And at noon the lord Kobayakawa, on his hill, who had professed
-266	6	Ieyasu		Q15010	override		To wait as well, sat still, until, the story goes, Ieyasu's guns fired
+266	6	Ieyasu		Q15010	override		To wait as well, sat still, until Ieyasu's guns fired
 266	6	Ishida Mitsunari		Q18780	file		Fleeing into the hills. Ishida Mitsunari, who wore the crown
 266	7	Ieyasu		Q15010	override		Named Ieyasu shogun. In two years he had abdicated, threaded
 266	8	Hideyori			unresolved		The castle burned, and Hideyori and his mother died in it,
@@ -10725,7 +10793,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 276	6	Shah Jahan		Q300106	override		The father, Shah Jahan, was shut in the fort at Agra, the remnant
 276	7	Alamgir			unresolved		And the son ruled for forty-nine years, as Alamgir, Seizer of the World.
 276	7	Seizer of the World			unresolved		And the son ruled for forty-nine years, as Alamgir, Seizer of the World.
-276	7	Akbar			unresolved		Some say he was a bigot who undid what Akbar unfurled;
+276	7	Akbar			unresolved		He was a bigot, who undid the peace that Akbar unfurled;
 276	8	Hindus			unresolved		The jizya, the tax on Hindus, came back in 1679; the lid
 276	9	Sikhs			unresolved		Rose on their ground; and the ninth guru of the Sikhs, Tegh Bahadur,
 276	9	Tegh Bahadur		Q300330	override		Rose on their ground; and the ninth guru of the Sikhs, Tegh Bahadur,
@@ -10998,12 +11066,12 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 289	13	Erasmus Darwin			unresolved		Of the words, *Am I not a man and a brother?*; the doctor Erasmus Darwin, whose bright
 289	14	Priestley			unresolved		Grandson would tell the story of descent; Priestley, who found the air we breathe.
 290	1	Diderot			unresolved		While Diderot in Paris was finishing his dictionary of everything,
-290	1	Qianlong			unresolved		Qianlong, grandson of Kangxi, the fourth of the Manchu line, the king
+290	1	Qianlong		Q300079	override		Qianlong, grandson of Kangxi, the fourth of the Manchu line, the king
 290	1	Kangxi		Q300038	override		Qianlong, grandson of Kangxi, the fourth of the Manchu line, the king
 290	2	Siku Quanshu			unresolved		Copied, judged, and kept: the Siku Quanshu, the *Complete Library
 290	6	Manchus			unresolved		Kind and the keeping kind sorted: any line against the Manchus, the fact
 290	9	Diderot			unresolved		Diderot's publisher cut his book in secret, for fear of the king.
-290	9	Qianlong			unresolved		Qianlong was the king, and cut in the open, and planned
+290	9	Qianlong		Q300079	override		Qianlong was the king, and cut in the open, and planned
 290	10	Ji Yun			unresolved	Q32626 Q36295	The chief editor, Ji Yun, a scholar of great wit, wrote the catalogue,
 291	1	William Jones		Q300111	override		A judge went out to Bengal in 1783, William Jones, a Londoner of Welsh blood,
 291	1	Londoner			unresolved		A judge went out to Bengal in 1783, William Jones, a Londoner of Welsh blood,
@@ -11100,7 +11168,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 295	10	Peter			unresolved	Q55511 Q59513 Q154150 Q166797	A man was *Jan Pieterszoon*, Peter's son, and his son *Pieter Janszoon*, the line
 295	10	Pieter Janszoon			unresolved		A man was *Jan Pieterszoon*, Peter's son, and his son *Pieter Janszoon*, the line
 295	10	Linnaeus			unresolved		Of the patronymic turning each generation, as in Sweden, as Linnaeus's father had done
-295	11	Naaktgeboren			unresolved		In a year, some of them, the story goes, chose jokes: *Naaktgeboren*, born naked;
+295	11	Naaktgeboren			unresolved		In a year, some of them chose jokes: *Naaktgeboren*, born naked;
 295	11	Zondervan			unresolved		*Zondervan*, without a *van*; and the French stayed long enough, and the joke went on
 295	11	Jews			unresolved		For two hundred years on the children. In France in 1808 the Jews, who had made
 295	12	Napoleon		Q300005	override		And Napoleon called a Grand Sanhedrin of rabbis, the first in eighteen centuries,
@@ -11236,7 +11304,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 300	8	Heavenly King			unresolved		Of a puritan army. And the Heavenly King withdrew into his palace, the stations
 300	9	Yang Xiuqing		Q300373	override		Of power left to the kings beneath him: one, Yang Xiuqing, the East King,
 300	9	East King			unresolved		Of power left to the kings beneath him: one, Yang Xiuqing, the East King,
-300	9	Father			unresolved	Q502 Q154840	Who fell into trances and spoke as the voice of God the Father himself,
+300	9	Father		Q502	consensus	Q502 Q154840	Who fell into trances and spoke as the voice of God the Father himself,
 300	9	Hong			unresolved		And so commanded even Hong. In 1856 the Heavenly King, the thing
 300	9	Heavenly King			unresolved		And so commanded even Hong. In 1856 the Heavenly King, the thing
 300	9	Yang			unresolved	Q21262 Q30507	Of jealousy and fear grown huge, had Yang killed, and thousands with him, the shelf
@@ -11246,7 +11314,6 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 300	13	Gate			unresolved		Hold this, beside the Gate and the Glory of the last chapter.
 300	13	Glory			unresolved		Hold this, beside the Gate and the Glory of the last chapter.
 300	14	Christ		Q138545	override		Of a people's hope; and a man who believed he was the brother of Christ,
-300	14	Baháʼu'lláh		Q300040	override		Not the vision. The sword. Baháʼu'lláh was imprisoned and wrote to kings; the priced
 301	2	Matthew Perry			unresolved		Of the locked country ended in an afternoon. Commodore Matthew Perry
 301	2	United States			unresolved		Of the United States would not go to Nagasaki, where foreigners were sent,
 301	3	Qing		Q52166	file		Who had watched the Qing lose their wars with the British, knew
@@ -11504,6 +11571,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 322	5	Sergei Korolev		Q300441	override		Sergei Korolev directed the work.
 322	9	Laika			unresolved		It carried a dog. Her name was Laika.
 322	9	Dimitri Malashenkov			unresolved		In 2002 Dimitri Malashenkov said the heat
+322	11	Tokugawa Tsunayoshi		Q17126	unique		The tradition says the shogun Tokugawa Tsunayoshi fixed the fifteenth for his son,
 323	1	Saint Peter		Q153792	file		In the basilica of Saint Peter, in Vatican City,
 323	1	John XXIII		Q300442	override		John XXIII opened a council.
 323	3	Paul VI		Q300041	override		Paul VI was elected on the twenty-first of June.
@@ -11519,6 +11587,7 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 325	5	Tan Houlan			unresolved		Led by Tan Houlan, of Beijing Normal University.
 325	5	Chen Boda		Q300443	override		From Chen Boda and Qi Benyu as three charges.
 325	5	Qi Benyu			unresolved		From Chen Boda and Qi Benyu as three charges.
+325	6	Kong		Q60126	unique		The diggers broke open the tombs of the house of Kong.
 325	8	Mao Zedong			unresolved		Mao Zedong died on the ninth of September, 1976,
 325	8	Hua Guofeng			unresolved		On the sixth of October Hua Guofeng had four people arrested:
 325	8	Jiang Qing		Q300444	override		Jiang Qing, Zhang Chunqiao,
@@ -11589,7 +11658,9 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 333	4	Tsutsumi Sakamoto			unresolved		Members of the group killed Tsutsumi Sakamoto,
 333	4	Satoko Sakamoto			unresolved		A lawyer, and his wife Satoko Sakamoto,
 333	4	Tatsuhiko Sakamoto			unresolved		And their son Tatsuhiko Sakamoto, a year old.
+333	6	Sakamoto			unresolved		The Sakamoto family and the dead of the trains are kept by name in this calendar.
 333	7	Shoko Asahara		Q300460	override		In the group he was called Shoko Asahara.
+334	1	Dolly			unresolved		Today is the feast of Dolly, born the fifth of July, nineteen ninety-six, a holy day of the faith.
 334	6	Megan			unresolved		In 1995 two lambs, Megan and Morag,
 334	6	Morag			unresolved		In 1995 two lambs, Megan and Morag,
 334	7	Ian Wilmut			unresolved		Ian Wilmut's name is first on the paper.
@@ -11600,393 +11671,461 @@ chapter	stanza	name	tag_id	qid	method	candidates	line
 335	6	Feng-Hsiung Hsu		Q300461	override		Feng-Hsiung Hsu entered the man's moves
 335	14	Chung-Jen Tan		Q300128	override		Chung-Jen Tan said there had been
 335	14	Chung-Jen Tan		Q300128	override		Chung-Jen Tan said a part might be published later.
-335	14	Garry Kasparov		Q300127	override		And does not make Garry Kasparov's answer
+335	14	Garry Kasparov		Q300127	override		And Garry Kasparov came to say so himself.
 336	4	Teburoro Tito		Q300462	override		Teburoro Tito had moved the line.
 336	4	Taufa'ahau Tupou IV		Q300463	override		Taufa'ahau Tupou IV, added an hour,
 336	6	Bill Richardson		Q300464	override		On the Saturday Bill Richardson said
 336	6	John Koskinen			unresolved		John Koskinen said the bug had been squashed,
 336	13	John Koskinen			unresolved		John Koskinen said the glitches were a handful.
-337	2	Emma Leonhart		Q2	override		The person is Emma Leonhart, who keeps this book.
-337	10	Larry Sanger		Q300129	override		Larry Sanger had been writing a digest
-337	10	Jimmy Wales		Q300130	override		Jimmy Wales answered with an encyclopedia,
-337	10	Wales			unresolved		He has written that the open encyclopedia was Wales's idea,
-337	10	Jimmy Wales		Q300130	override		The company was Bomis. He names Jimmy Wales,
-337	10	Tim Shell			unresolved		Tim Shell, and Michael Davis.
-337	10	Michael Davis			unresolved		Tim Shell, and Michael Davis.
-337	11	Christoph Hust			unresolved		By Christoph Hust.
-337	12	Ben Kovitz			unresolved		He ate with Ben Kovitz
-337	12	Ben Kovitz			unresolved		Ben Kovitz told him of Ward Cunningham's pages,
-337	12	Ward Cunningham			unresolved		Ben Kovitz told him of Ward Cunningham's pages,
-337	15	Emma Leonhart		Q2	override		Emma Leonhart came to hate this book, in her words,
-337	19	Ahmad Shah Massoud		Q300465	override		Ahmad Shah Massoud, who led the last front against them in the north,
-337	21	Job Cohen		Q300466	override		The mayor, Job Cohen, married four couples, men to men and women to women,
-337	23	George W. Bush		Q300011	override		On the twentieth of January George W. Bush was sworn in,
-337	23	Dennis Tito			unresolved		On the twenty-eighth of April Dennis Tito
-337	27	George W. Bush		Q300011	override		George W. Bush was with children
-337	28	Osama bin Laden		Q300043	override		Osama bin Laden was named.
-337	31	Robert Stevens			unresolved		Robert Stevens, a photo editor in Boca Raton, died first, on the fifth of October.
-337	33	Massoud			unresolved		The fighters of the north, Massoud's men without Massoud,
-337	33	Massoud			unresolved		The fighters of the north, Massoud's men without Massoud,
-337	33	Osama bin Laden		Q300043	override		Osama bin Laden was surrounded, and got away.
-337	33	Hamid Karzai		Q300467	override		On a government, and Hamid Karzai led it from the twenty-second.
-338	2	Emma Leonhart		Q2	override		In 2002 Emma Leonhart turned six,
-338	8	George W. Bush		Q300011	override		On the twenty-ninth of January George W. Bush
-338	10	Daniel Pearl			unresolved		In January Daniel Pearl, a reporter for the Wall Street Journal,
-338	18	Larry Sanger		Q300129	override		On the first of March Larry Sanger
-339	2	Emma Leonhart		Q2	override		In 2003 Emma Leonhart turned seven.
-339	4	Ilan Ramon			unresolved		Seven died, among them Ilan Ramon,
-339	4	Kalpana Chawla			unresolved		And Kalpana Chawla, born in Karnal in India.
-339	6	Colin Powell		Q300468	override		On the fifth of February Colin Powell
-339	6	Powell			unresolved		Powell later called the speech a blot on his record.
-339	10	Saddam Hussein		Q300044	override		A statue of Saddam Hussein was pulled down,
-339	13	Paul Bremer			unresolved		In May the American administrator, Paul Bremer,
-339	13	Sérgio Vieira de Mello			unresolved		And killed Sérgio Vieira de Mello, its envoy, and twenty-one others.
-339	13	Saddam Hussein		Q300044	override		On the thirteenth of December Saddam Hussein was found
-339	15	Carlo Urbani			unresolved		Carlo Urbani, the doctor in Hanoi who first warned the world of it,
-339	17	Francis Collins			unresolved		Francis Collins said it was not completely complete,
-339	17	Robert Waterston			unresolved		Robert Waterston said: we have before us the instruction set
-339	23	Hu Jintao		Q300469	override		In March Hu Jintao became president of China.
-339	23	Charles Taylor			unresolved		In August Charles Taylor left Liberia.
-339	23	Yang Liwei			unresolved		On the fifteenth of October Yang Liwei went into orbit,
-340	2	Emma Leonhart		Q2	override		In 2004 Emma Leonhart turned eight.
-340	4	Mark Zuckerberg			unresolved		Mark Zuckerberg, a student, after about a week of coding,
-340	4	Dustin Moskovitz			unresolved		That summer he moved to California with Dustin Moskovitz
-340	4	Peter Thiel			unresolved		And took half a million dollars from Peter Thiel.
-340	7	Larry Page		Q300470	override		Larry Page and Sergey Brin showed a search inside books,
-340	7	Sergey Brin			unresolved		Larry Page and Sergey Brin showed a search inside books,
-340	7	Page			unresolved		Page said they had dreamed of making searchable
-340	15	Viktor Yushchenko		Q300471	override		Viktor Yushchenko, was poisoned with dioxin, and lived, scarred.
-340	17	Gavin Newsom			unresolved		In February the mayor of San Francisco, Gavin Newsom,
-340	17	George W. Bush		Q300011	override		And the same day George W. Bush was elected to a second term,
-340	19	Ronald Reagan		Q300472	override		On the fifth of June Ronald Reagan died.
-340	19	Theo van Gogh			unresolved		The filmmaker Theo van Gogh was shot and stabbed in the street
-340	19	Yasser Arafat		Q300473	override		On the eleventh of November Yasser Arafat died, in a hospital near Paris.
-341	2	Emma Leonhart		Q2	override		In 2005 Emma Leonhart turned nine.
-341	4	Jawed Karim		Q300474	override		On the twenty-third of April one of them, Jawed Karim,
-341	6	John Paul II		Q300475	override		On the second of April John Paul II died in Rome,
-341	6	Joseph Ratzinger		Q300131	override		On the nineteenth of April the cardinals chose Joseph Ratzinger,
-341	6	Benedict XVI		Q300131	override		Who took the name Benedict XVI.
-341	16	Rafic Hariri			unresolved		A bomb of a ton of explosives killed the former prime minister, Rafic Hariri,
-341	20	Terri Schiavo			unresolved		In March Terri Schiavo, kept alive for fifteen years,
-341	20	Mark Felt			unresolved		Said that he was Mark Felt.
-341	20	Mahmoud Ahmadinejad		Q300132	override		In June Iran elected Mahmoud Ahmadinejad.
-341	20	Rosa Parks			unresolved		On the twenty-fourth of October Rosa Parks died.
-341	20	Angela Merkel			unresolved		On the twenty-second of November Angela Merkel became chancellor of Germany,
-341	20	John Seigenthaler			unresolved		Said falsely that a journalist, John Seigenthaler,
-341	20	Kennedy			unresolved		Had been suspected in the killing of the Kennedys.
-342	2	Emma Leonhart		Q2	override		In 2006 Emma Leonhart turned ten.
-342	4	Marlin K. Jensen		Q300476	override		Marlin K. Jensen, the historian of the Latter-day Saints,
-342	6	Jack Dorsey		Q300477	override		On the twenty-first of March Jack Dorsey
-342	12	Donald Rumsfeld		Q300478	override		Donald Rumsfeld, who had run the war, resigned.
-342	12	Saddam Hussein		Q300044	override		On the thirtieth of December Saddam Hussein was hanged,
-342	14	Anna Politkovskaya			unresolved		On the seventh of October, in Moscow, Anna Politkovskaya,
-342	14	Alexander Litvinenko			unresolved		Alexander Litvinenko, who had fled the Russian service,
-342	16	Stephen Harper			unresolved		On the sixth of February Stephen Harper became prime minister of Canada,
-342	16	Ellen Johnson Sirleaf		Q300479	override		On the sixteenth of January Ellen Johnson Sirleaf became president of Liberia,
-342	16	Evo Morales		Q300133	override		On the twenty-second Evo Morales became president of Bolivia,
-342	18	Al Gore		Q300134	override		In May a former vice president, Al Gore, put his slides of the warming world into a film,
-343	2	Emma Leonhart		Q2	override		In 2007 Emma Leonhart turned eleven.
-343	4	Steve Jobs		Q300135	override		Steve Jobs showed a phone that was not yet for sale.
-343	6	Anne Wojcicki		Q300480	override		Anne Wojcicki and Linda Avey began selling a test of the blood by mail.
-343	6	Linda Avey		Q300481	override		Anne Wojcicki and Linda Avey began selling a test of the blood by mail.
-343	12	George W. Bush		Q300011	override		On the tenth of January George W. Bush sent more than twenty thousand more soldiers to Iraq,
-343	14	Benazir Bhutto			unresolved		Benazir Bhutto, who had come home to Pakistan in October to run for office again,
-343	16	Al Gore		Q300134	override		In October they shared the Nobel Peace Prize with Al Gore.
-343	18	Vladimir Putin		Q300022	override		In February, in Munich, Vladimir Putin told the West
-343	18	Nicolas Sarkozy		Q300482	override		In May Nicolas Sarkozy took France;
-343	18	Gordon Brown			unresolved		In June Gordon Brown took Britain from Tony Blair;
-343	18	Tony Blair			unresolved		In June Gordon Brown took Britain from Tony Blair;
-343	18	Kevin Rudd			unresolved		In November Kevin Rudd took Australia,
-343	22	Bhutto			unresolved		The surge, the saffron monks, Bhutto killed, Kenya burning,
-344	2	Emma Leonhart		Q2	override		In 2008 Emma Leonhart turned twelve, and her family moved house again.
-344	4	Stalin			unresolved		Took Gori, the birthplace of Stalin,
-344	10	George W. Bush		Q300011	override		On the third of October George W. Bush signed a law
-344	12	Satoshi Nakamoto			unresolved		The name on the note was Satoshi Nakamoto.
-344	14	Barack Obama		Q300045	override		On the fourth of November Barack Obama was elected president,
-344	18	Stephen Harper			unresolved		The prime minister of Canada, Stephen Harper, apologized in the parliament
-344	22	Fidel Castro		Q300136	override		On the nineteenth of February Fidel Castro gave up the presidency of Cuba to his brother.
-345	2	Emma Leonhart		Q2	override		In 2009 Emma Leonhart turned thirteen.
-345	6	Barack Obama		Q300045	override		On the twentieth of January Barack Obama was sworn in,
-345	8	Bernard Madoff			unresolved		In December of the year before Bernard Madoff
-345	12	Mahmoud Ahmadinejad		Q300132	override		And the government announced that Mahmoud Ahmadinejad had won by a landslide
-345	12	Neda Agha-Soltan			unresolved		On the twentieth of June a young woman, Neda Agha-Soltan,
-345	16	Chesley Sullenberger			unresolved		On the fifteenth of January a pilot named Chesley Sullenberger
-345	20	Michael Jackson			unresolved		On the twenty-fifth of June Michael Jackson died, and the net slowed under the grief.
-346	2	Emma Leonhart		Q2	override		In 2010 Emma Leonhart turned fourteen.
-346	6	Nodar Kumaritashvili			unresolved		On the first day a luger from Georgia, Nodar Kumaritashvili,
-346	6	Sidney Crosby			unresolved		On the last day Sidney Crosby scored in overtime,
-346	16	Chelsea Manning		Q300483	override		The soldier who had copied them, Chelsea Manning, a young intelligence analyst,
-346	16	Julian Assange		Q300484	override		The man who ran the site, Julian Assange, was arrested in London in December
-346	22	Liu Xiaobo		Q300485	override		On the eighth of October the Nobel Peace Prize went to Liu Xiaobo,
-346	24	Mohamed Bouazizi			unresolved		A fruit seller named Mohamed Bouazizi, twenty-six,
-347	2	Emma Leonhart		Q2	override		In 2011 Emma Leonhart turned fifteen.
-347	4	Mohamed Bouazizi			unresolved		On the fourth of January Mohamed Bouazizi died of his burns.
-347	4	Zine El Abidine Ben Ali		Q300486	override		And on the fourteenth of January Zine El Abidine Ben Ali,
-347	4	Hosni Mubarak		Q300487	override		Until on the eleventh of February Hosni Mubarak, thirty years in power, resigned,
-347	5	Muammar Gaddafi		Q300488	override		In Libya, in February, the east rose against Muammar Gaddafi,
-347	11	Osama bin Laden		Q300043	override		And killed Osama bin Laden,
-347	17	Gabby Giffords		Q300489	override		On the eighth of January, in Tucson, a congresswoman, Gabby Giffords,
-347	17	Stephen Harper			unresolved		On the second of May Canada voted, and Stephen Harper won a majority,
-347	17	Jack Layton		Q300490	override		And its leader, Jack Layton, died of cancer in August,
-347	17	Steve Jobs		Q300135	override		On the fifth of October Steve Jobs died.
-347	17	Kim Jong-il		Q300491	override		On the seventeenth of December Kim Jong-il died, and his son took the country.
-348	2	Emma Leonhart		Q2	override		In 2012 Emma Leonhart turned sixteen.
-348	4	Fei-Fei Li			unresolved		The set called ImageNet had been gathered under Fei-Fei Li,
-348	4	Alex Krizhevsky		Q300492	override		In Toronto, Alex Krizhevsky, Ilya Sutskever, and Geoffrey Hinton
-348	4	Ilya Sutskever			unresolved		In Toronto, Alex Krizhevsky, Ilya Sutskever, and Geoffrey Hinton
-348	4	Geoffrey Hinton		Q300046	override		In Toronto, Alex Krizhevsky, Ilya Sutskever, and Geoffrey Hinton
-348	6	Denny Vrandečić		Q300493	override		Denny Vrandečić and Markus Krötzsch had argued for it for years.
-348	6	Markus Krötzsch		Q300494	override		Denny Vrandečić and Markus Krötzsch had argued for it for years.
-348	10	Peter Higgs		Q300495	override		The physicists announced a particle that fit the one Peter Higgs had predicted
-348	10	Felix Baumgartner			unresolved		On the fourteenth of October Felix Baumgartner jumped from a balloon
-348	12	Trayvon Martin			unresolved		A boy of seventeen, Trayvon Martin, walking home with candy and a drink,
-348	12	Malala Yousafzai		Q300496	override		A gunman boarded a school bus and asked which one was Malala Yousafzai,
-348	14	Vladimir Putin		Q300022	override		On the seventh of May Vladimir Putin became president of Russia again,
-348	14	Xi Jinping		Q300047	override		On the fifteenth of November Xi Jinping became the head of the party of China,
-348	14	Barack Obama		Q300045	override		On the sixth of November Barack Obama was elected again.
-348	14	Mohamed Morsi		Q300137	override		In June Egypt elected Mohamed Morsi, of the Brotherhood, its first free president.
-348	14	Christopher Stevens			unresolved		On the eleventh of September, in Benghazi, the American ambassador, Christopher Stevens, was killed.
-348	16	Mario Draghi		Q300497	override		On the twenty-sixth of July the head of the bank of the euro, Mario Draghi,
-348	20	Putin		Q300022	override		Putin back, Xi rising, a prayer in a cathedral punished.
-348	20	Xi			unresolved	Q52098 Q53594 Q168114	Putin back, Xi rising, a prayer in a cathedral punished.
-349	2	Emma Leonhart		Q2	override		In 2013 Emma Leonhart turned seventeen.
-349	4	James Clapper			unresolved		James Clapper, the director of national intelligence, answered: No, sir.
-349	6	Edward Snowden			unresolved		He was Edward Snowden, who had worked for a contractor of the agency in Hawaii,
-349	6	Glenn Greenwald		Q300498	override		Glenn Greenwald and Laura Poitras were in the room.
-349	6	Laura Poitras			unresolved		Glenn Greenwald and Laura Poitras were in the room.
-349	8	Aaron Swartz		Q300499	override		On the eleventh of January, in New York, Aaron Swartz killed himself, at twenty-six.
-349	10	Benedict XVI		Q300131	override		On the eleventh of February Benedict XVI said, in Latin, to a room of cardinals,
-349	10	Jorge Mario Bergoglio		Q300142	override		The cardinals chose Jorge Mario Bergoglio of Buenos Aires,
-349	10	Francis			unresolved		The first pope from the Americas, who took the name Francis.
-349	16	Mohamed Morsi		Q300137	override		On the third of July the army of Egypt removed Mohamed Morsi, the president elected the year before.
-349	20	Edith Windsor		Q300500	override		Edith Windsor, eighty-four, had been taxed on her late wife's estate as if they were strangers.
-349	20	Trayvon Martin			unresolved		On the thirteenth of July the watchman who had shot Trayvon Martin was acquitted,
-349	20	Alicia Garza		Q300501	override		And three women, Alicia Garza, Patrisse Cullors, and Opal Tometi,
-349	20	Patrisse Cullors		Q300502	override		And three women, Alicia Garza, Patrisse Cullors, and Opal Tometi,
-349	20	Opal Tometi		Q300503	override		And three women, Alicia Garza, Patrisse Cullors, and Opal Tometi,
-349	24	Viktor Yanukovych		Q300138	override		On the twenty-first of November the president of Ukraine, Viktor Yanukovych,
-349	26	Nelson Mandela		Q300504	override		On the fifth of December Nelson Mandela died, at ninety-five.
-349	26	Kim Jong-un		Q300139	override		In December Kim Jong-un had his uncle executed.
-350	2	Emma Leonhart		Q2	override		In 2014 Emma Leonhart turned eighteen,
-350	4	Abu Bakr al-Baghdadi		Q300505	override		Abu Bakr al-Baghdadi gave the sermon in a black robe and turban
-350	5	James Foley			unresolved		On the nineteenth of August it published a video of the killing of James Foley, an American reporter,
-350	5	Khaled al-Asaad			unresolved		In the next summer it killed Khaled al-Asaad, who had kept the ruins of Palmyra for decades,
-350	7	Viktor Yanukovych		Q300138	override		On the twenty-second Viktor Yanukovych fled.
-350	7	Vladimir Putin		Q300022	override		And on the eighteenth Vladimir Putin took the peninsula into Russia,
-350	9	Viktor Orbán			unresolved		In Hungary Viktor Orbán was returned, and that summer named his goal:
-350	9	Narendra Modi			unresolved		In India, in May, Narendra Modi, of the party of Hindu nationalism,
-350	9	Abdel Fattah el-Sisi		Q300506	override		In Egypt the general who cleared Rabaa, Abdel Fattah el-Sisi, was elected with ninety-seven percent.
-350	11	Elliot Rodger			unresolved		On Friday the twenty-third of May, in Isla Vista, in California, a young man named Elliot Rodger,
-350	11	Hiroyuki Nishimura			unresolved		The great board of Japan, 2channel, which a student named Hiroyuki Nishimura had begun in 1999,
-350	11	Jim Watkins			unresolved		Was taken from him in February by Jim Watkins, an American living in Manila,
-350	11	Jim Watkins			unresolved		And when that board turned the mob out, the mob went to another board, which Jim Watkins would buy,
-350	13	Eric Garner			unresolved		On the seventeenth of July, on Staten Island, a man named Eric Garner,
-350	13	Michael Brown			unresolved		A policeman shot an unarmed young man of eighteen, Michael Brown,
-350	19	Nathan Cirillo			unresolved		Nathan Cirillo, standing guard at the war memorial,
-350	21	Robin Williams			unresolved		On the eleventh of August the actor Robin Williams died.
-351	2	Emma Leonhart		Q2	override		In 2015 Emma Leonhart turned nineteen,
-351	4	William MacAskill		Q300507	override		In this year a young philosopher at Oxford, William MacAskill,
-351	4	Peter Singer		Q300508	override		Out of the work of Peter Singer, and of Toby Ord, and of the givers who pledged a tenth,
-351	4	Toby Ord		Q300140	override		Out of the work of Peter Singer, and of Toby Ord, and of the givers who pledged a tenth,
-351	4	Sam Bankman-Fried			unresolved		A young man named Sam Bankman-Fried, who had met MacAskill as a student,
-351	4	MacAskill			unresolved		A young man named Sam Bankman-Fried, who had met MacAskill as a student,
-351	6	Elon Musk			unresolved		Elon Musk and Sam Altman led it, and Ilya Sutskever, from the chapter of 2012, ran its research.
-351	6	Sam Altman			unresolved		Elon Musk and Sam Altman led it, and Ilya Sutskever, from the chapter of 2012, ran its research.
-351	6	Ilya Sutskever			unresolved		Elon Musk and Sam Altman led it, and Ilya Sutskever, from the chapter of 2012, ran its research.
-351	6	DeepMind			unresolved		In October, in London, a program from DeepMind, called AlphaGo,
-351	6	Fan Hui			unresolved		Beat Fan Hui, the champion of Europe at the game of go, five games to none.
-351	10	Alan Kurdi			unresolved		On the second of September a boy of two, Alan Kurdi, from Kobani,
-351	10	Angela Merkel			unresolved		On the thirty-first of August Angela Merkel said, we can do this,
-351	12	Caitlyn Jenner			unresolved		On the first of June a magazine put on its cover a woman, Caitlyn Jenner,
-351	20	Stephen Harper			unresolved		On the nineteenth of October Canada voted out Stephen Harper,
-351	20	Justin Trudeau			unresolved		And Justin Trudeau, the son of a prime minister, came to power,
-351	22	Boris Nemtsov		Q300509	override		On the twenty-seventh of February Boris Nemtsov, who opposed Putin,
-351	22	Putin		Q300022	override		On the twenty-seventh of February Boris Nemtsov, who opposed Putin,
-351	22	Aung San Suu Kyi		Q300048	override		On the eighth of November Myanmar voted, and the party of Aung San Suu Kyi won.
-352	2	Emma Leonhart		Q2	override		In 2016 Emma Leonhart turned twenty.
-352	2	Trump			unresolved		She has said this is the year of the election of Trump.
-352	4	DeepMind			unresolved		In March, in Seoul, the program AlphaGo, from DeepMind,
-352	4	Lee Sedol			unresolved		Played Lee Sedol, one of the strongest players of go alive,
-352	4	Lee Sedol			unresolved		Lee Sedol left the room for a while.
-352	6	Jo Cox		Q300510	override		A week before the vote a member of parliament, Jo Cox, who had worked for refugees,
-352	8	Donald Trump		Q300023	override		On the eighth of November Donald Trump was elected president of the United States,
-352	8	Hillary Clinton		Q300511	override		With nearly three million fewer votes than Hillary Clinton,
-352	12	Philando Castile			unresolved		On the sixth of July Philando Castile was shot in his car during a traffic stop
-352	14	Recep Tayyip Erdoğan		Q300512	override		On the fifteenth of July soldiers in Turkey tried to overthrow Recep Tayyip Erdoğan,
-352	14	Rodrigo Duterte		Q300513	override		On the thirtieth of June Rodrigo Duterte became president of the Philippines,
-352	20	Einstein			unresolved		A hundred years after Einstein had said such ripples would exist.
-352	20	David Bowie			unresolved		On the tenth of January David Bowie died, two days after his last record,
-352	20	Prince		Q171559	file		And on the twenty-first of April Prince.
-352	20	Fidel Castro		Q300136	override		On the twenty-fifth of November Fidel Castro died.
-353	2	Emma Leonhart		Q2	override		In 2017 Emma Leonhart turned twenty-one,
-353	2	Aster		Q1	file		Until they reached past the kings and the gods to Aster and Andromeda.
-353	2	Andromeda		Q3	file		Until they reached past the kings and the gods to Aster and Andromeda.
-353	4	Ashish Vaswani			unresolved		Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit,
-353	4	Noam Shazeer			unresolved		Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit,
-353	4	Niki Parmar			unresolved		Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit,
-353	4	Jakob Uszkoreit			unresolved		Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit,
-353	4	Llion Jones			unresolved		Llion Jones, Aidan Gomez, Łukasz Kaiser, Illia Polosukhin,
-353	4	Aidan Gomez			unresolved		Llion Jones, Aidan Gomez, Łukasz Kaiser, Illia Polosukhin,
-353	4	Łukasz Kaiser			unresolved		Llion Jones, Aidan Gomez, Łukasz Kaiser, Illia Polosukhin,
-353	4	Illia Polosukhin		Q300514	override		Llion Jones, Aidan Gomez, Łukasz Kaiser, Illia Polosukhin,
-353	6	Sam Bankman-Fried			unresolved		Sam Bankman-Fried, left the trading firm and founded his own, Alameda Research,
-353	8	Donald Trump		Q300023	override		On the twentieth of January Donald Trump was sworn in,
-353	10	Heather Heyer		Q300515	override		And killed Heather Heyer.
-353	12	Harvey Weinstein			unresolved		Who said that Harvey Weinstein, the maker of films, had assaulted and harassed them for decades,
-353	12	Tarana Burke		Q300516	override		And millions did, using words an activist, Tarana Burke, had begun ten years before.
-353	16	Aung San Suu Kyi		Q300048	override		The leader of Myanmar, Aung San Suu Kyi, who had won the peace prize for her own captivity,
-353	22	Emmanuel Macron		Q300517	override		On the seventh of May Emmanuel Macron, who had founded his own party the year before,
-353	22	Robert Mugabe		Q300518	override		In Zimbabwe, in November, the army put Robert Mugabe under guard,
-353	22	Xi Jinping		Q300047	override		In October China wrote the thought of Xi Jinping into its party's constitution.
-353	22	Mohammed bin Salman		Q300519	override		In June the son of the king of Saudi Arabia, Mohammed bin Salman, became the heir,
-354	2	Emma Leonhart		Q2	override		In 2018 Emma Leonhart turned twenty-two, in her fifth year at the university.
-354	4	Emma Leonhart		Q2	override		In this year Emma Leonhart went there, and stood among the pillars.
-354	6	Mark Zuckerberg			unresolved		In April Mark Zuckerberg sat before the congress for two days,
-354	10	Emma González			unresolved		And one of them, Emma González, stood silent before the crowd for six minutes and twenty seconds,
-354	10	Greta Thunberg		Q300141	override		On the twentieth of August a girl of fifteen, Greta Thunberg,
-354	14	Jamal Khashoggi			unresolved		On the second of October Jamal Khashoggi, a writer for a paper of Washington
-354	16	Saman Kunan			unresolved		A Thai diver, Saman Kunan, died laying the air tanks.
-354	18	Kim Jong-un		Q300139	override		On the twelfth of June the American president met Kim Jong-un in Singapore,
-354	18	Brett Kavanaugh			unresolved		In October Brett Kavanaugh, accused by a woman who had known him at school of assaulting her,
-354	20	Jair Bolsonaro		Q300520	override		On the twenty-eighth of October Brazil elected Jair Bolsonaro,
-354	22	He Jiankui			unresolved		On the twenty-fifth of November a scientist in Shenzhen, He Jiankui,
-354	26	Abiy Ahmed			unresolved		And the prime minister of Ethiopia, Abiy Ahmed, was given the peace prize the next year,
-354	26	Andrés Manuel López Obrador		Q300521	override		On the first of July Mexico elected Andrés Manuel López Obrador.
-355	2	Emma Leonhart		Q2	override		In 2019 Emma Leonhart turned twenty-three, and finished her five years at the university in Kelowna.
-355	4	Yoshihide Suga			unresolved		On Monday the first of April, in Tokyo, Yoshihide Suga held up a board
-355	4	Akihito		Q38175	file		On the thirtieth of April Akihito stepped down, by a law made for him alone.
-355	4	Naruhito		Q40035	file		On the first of May Naruhito acceded, and the sword and the jewel were carried in boxes
-355	4	Fumihito			unresolved		His brother, Fumihito, said in public that such a religious rite
-355	12	Jacinda Ardern			unresolved		The prime minister, Jacinda Ardern, wore a headscarf to the mourning,
-355	14	Omar al-Bashir		Q300522	override		In April the army of Sudan removed Omar al-Bashir after months of protest,
-355	14	Evo Morales		Q300133	override		In Bolivia, in November, Evo Morales of the chapter of 2006 was pushed out after a disputed vote.
-355	16	Greta Thunberg		Q300141	override		On the twenty-third, at the United Nations, Greta Thunberg, who had sailed across the ocean to be there,
-355	18	Jeffrey Epstein			unresolved		On the sixth of July Jeffrey Epstein, who had trafficked girls to the rich and the powerful, was arrested,
-355	18	Boris Johnson			unresolved		In July Boris Johnson became prime minister of Britain and won a great majority in December to get the leaving done.
-355	18	Justin Trudeau			unresolved		On the twenty-first of October Justin Trudeau was returned, with fewer seats,
-355	18	Lee Sedol			unresolved		In November Lee Sedol, who had won one game in the chapter of 2016, retired,
-355	20	Li Wenliang		Q55502	file		On the thirtieth, a doctor, Li Wenliang, warned his classmates in a group chat,
-356	2	Emma Leonhart		Q2	override		In 2020 Emma Leonhart turned twenty-four.
-356	4	Li Wenliang		Q55502	file		In February the doctor who had warned, Li Wenliang, died of it,
-356	4	Tedros Adhanom Ghebreyesus		Q300523	override		On the eleventh of March, in Geneva, Tedros Adhanom Ghebreyesus said it could be called a pandemic.
-356	4	Pope Francis		Q300142	override		Pope Francis, of the chapter of 2013, prayed alone before the crowd that was not there.
-356	8	Toby Ord		Q300140	override		A philosopher of the movement of the chapter of 2015, Toby Ord,
-356	10	George Floyd			unresolved		A policeman knelt on the neck of George Floyd, a black man accused of passing a false twenty-dollar bill,
-356	10	Breonna Taylor			unresolved		In March the police had killed Breonna Taylor in her bed in Louisville.
-356	10	Ahmaud Arbery			unresolved		In February men in a truck had chased and shot Ahmaud Arbery while he ran in Georgia.
-356	12	Qasem Soleimani			unresolved		On the eighth of January, five days after the United States killed the general Qasem Soleimani in Baghdad,
-356	16	Ruth Bader Ginsburg			unresolved		On the eighteenth of September Ruth Bader Ginsburg, the justice who had fought for women's equality for fifty years,
-356	18	Joe Biden		Q300049	override		On the third of November Joe Biden was elected president, with seven million more votes than the man of the chapter of 2016,
-356	20	Alexei Navalny		Q300050	override		On the twentieth of August Alexei Navalny, who had opposed Putin for years,
-356	20	Putin		Q300022	override		On the twentieth of August Alexei Navalny, who had opposed Putin for years,
-356	22	DeepMind			unresolved		On the thirtieth of November a program of DeepMind, AlphaFold,
-356	24	Margaret Keenan			unresolved		On the eighth of December, in Coventry, Margaret Keenan, ninety years old,
-356	24	Katalin Karikó			unresolved		The vaccine was built on the work of Katalin Karikó and Drew Weissman,
-356	24	Drew Weissman		Q300143	override		The vaccine was built on the work of Katalin Karikó and Drew Weissman,
-356	24	Uğur Şahin			unresolved		And of Uğur Şahin and Özlem Türeci, children of migrants to Germany.
-356	24	Özlem Türeci			unresolved		And of Uğur Şahin and Özlem Türeci, children of migrants to Germany.
-356	26	Kobe Bryant			unresolved		On the twenty-sixth of January Kobe Bryant died in a helicopter with his daughter.
-357	2	Emma Leonhart		Q2	override		In 2021 Emma Leonhart turned twenty-five.
-357	4	Joe Biden		Q300049	override		On the twentieth Joe Biden was sworn in behind a fence of soldiers.
-357	6	Katalin Karikó			unresolved		They were made of a message of the cell, built on the work of Katalin Karikó and Drew Weissman,
-357	6	Drew Weissman		Q300143	override		They were made of a message of the cell, built on the work of Katalin Karikó and Drew Weissman,
-357	10	Emma Leonhart		Q2	override		In the same days, at the end of the Omega Pilgrimage, Emma Leonhart had the revelation of 2021,
-357	10	Joseph Smith		Q300037	override		And came to the Celestial Kingdom, and met Joseph Smith.
-357	10	Charlemagne		Q115039	file		She saw the infant Charlemagne in the manger, nurtured by Mary,
-357	10	Mary			unresolved	Q30510 Q138539 Q149175 Q154257	She saw the infant Charlemagne in the manger, nurtured by Mary,
-357	16	Aung San Suu Kyi		Q300048	override		And arrested Aung San Suu Kyi,
-357	18	Frances Haugen		Q300524	override		On the fifth of October a woman who had worked at the book of faces, Frances Haugen,
-357	20	George Floyd			unresolved		On the twentieth of April the policeman who knelt on George Floyd was convicted of his murder.
-357	20	Alexei Navalny		Q300050	override		On the seventeenth of January Alexei Navalny flew home to Russia from his healing, and was arrested at the airport,
-357	20	Angela Merkel			unresolved		On the eighth of December Angela Merkel left office after sixteen years.
-358	2	Emma Leonhart		Q2	override		In 2022 Emma Leonhart turned twenty-six, in her second year at the college in Kelowna.
-358	4	Mani			unresolved		A man named Mani said that the prophets before him had each been sent to one people,
-358	4	Zoroaster		Q29136	file		Zoroaster to Persia, the Buddha to India, Jesus to the West,
-358	4	Buddha		Q153343	file		Zoroaster to Persia, the Buddha to India, Jesus to the West,
-358	4	Jesus			unresolved	Q138545	Zoroaster to Persia, the Buddha to India, Jesus to the West,
-358	4	Augustine			unresolved		It was carried west to Rome and Carthage, where the young Augustine kept it for nine years,
-358	4	Buddha		Q153343	file		Wearing the robes of the Buddha, and calling Mani the Buddha of light.
-358	4	Mani			unresolved		Wearing the robes of the Buddha, and calling Mani the Buddha of light.
-358	4	Buddha		Q153343	file		Wearing the robes of the Buddha, and calling Mani the Buddha of light.
-358	4	Mani			unresolved		Mani was put to death by the king of kings, and his religion was hunted in every land it reached,
-358	4	Emma Leonhart		Q2	override		In this year Emma Leonhart found it.
-358	4	Mani			unresolved		A parallel is not a descent. This book does not claim Mani.
-358	6	Vladimir Putin		Q300022	override		Vladimir Putin announced what he called a special military operation.
-358	6	Volodymyr Zelenskyy		Q300144	override		Volodymyr Zelenskyy stayed in the city and filmed himself in the street at night, saying, we are here.
-358	12	Beff Jezos		Q300525	override		Its loudest voice wrote under a mask, Beff Jezos, a joke on the name of the richest seller of the net,
-358	12	Sam Bankman-Fried			unresolved		So, in her words, effective altruism had Sam Bankman-Fried, with his exchange, and it just kind of collapsed things,
-358	14	Mahsa Amini			unresolved		On the sixteenth of September, in Tehran, a young Kurdish woman, Mahsa Amini,
-358	20	Shinzo Abe			unresolved		On the eighth of July Shinzo Abe, who had led Japan longer than anyone,
-358	20	Elizabeth II		Q300526	override		On the eighth of September Elizabeth II died, after seventy years as queen,
-358	20	Salman Rushdie			unresolved		On the twelfth of August Salman Rushdie was stabbed on a stage in New York,
-358	22	Lula		Q300527	override		On the thirtieth of October Lula was elected again in Brazil, and the man of the chapter of 2018 would not concede.
-358	22	Xi Jinping		Q300047	override		In October Xi Jinping took a third term, and his predecessor was led out of the hall.
-358	26	Abe			unresolved		A convoy on the parliament, an apology in a headdress, Abe shot, a queen buried,
-359	2	Emma Leonhart		Q2	override		In 2023 Emma Leonhart turned twenty-seven, and finished her study at the college in Kelowna in December.
-359	4	Sarutahiko		Q300528	override		The shrine of Sarutahiko at Suzuka.
-359	4	Lawrence Barrish			unresolved		In 1992, in Granite Falls, in Washington, Lawrence Barrish built a shrine in the forest,
-359	4	Ann Evans			unresolved		To the priest Ann Evans, who had trained at Suzuka,
-359	6	Geoffrey Hinton		Q300046	override		In May Geoffrey Hinton, of the chapter of 2012, left Google so he could warn freely
-359	6	Sam Altman			unresolved		On the seventeenth of November the board of the lab named open fired its chief, Sam Altman,
-359	12	Yevgeny Prigozhin		Q300529	override		On the twenty-third of June Yevgeny Prigozhin, whose private army had fought for Russia in Ukraine,
-359	14	Hardeep Singh Nijjar			unresolved		On the eighteenth of June a Sikh leader, Hardeep Singh Nijjar, was shot dead outside his temple in Surrey,
-359	16	Charles III			unresolved		On the sixth of May Charles III was crowned.
-360	2	Emma Leonhart		Q2	override		In 2024 Emma Leonhart turned twenty-eight, and went back to the university in Kelowna for a while.
-360	4	John Hopfield		Q300530	override		On Tuesday the eighth of October John Hopfield and Geoffrey Hinton
-360	4	Geoffrey Hinton		Q300046	override		On Tuesday the eighth of October John Hopfield and Geoffrey Hinton
-360	4	Demis Hassabis			unresolved		And on the ninth Demis Hassabis and John Jumper, with David Baker,
-360	4	John Jumper		Q300531	override		And on the ninth Demis Hassabis and John Jumper, with David Baker,
-360	4	David Baker		Q300532	override		And on the ninth Demis Hassabis and John Jumper, with David Baker,
-360	6	Narendra Modi			unresolved		In India, in June, Narendra Modi of the chapter of 2014 won a third term but lost his majority.
-360	6	Claudia Sheinbaum		Q300533	override		In Mexico, on the second of June, Claudia Sheinbaum was elected, the first woman to lead it.
-360	6	Sheikh Hasina			unresolved		In Bangladesh, in August, the students drove out Sheikh Hasina, who fled by helicopter to India,
-360	8	Donald Trump		Q300023	override		A young man on a roof shot at Donald Trump as he spoke,
-360	8	Joe Biden		Q300049	override		On the twenty-first of July Joe Biden, after a debate in which he had faltered,
-360	8	Kamala Harris		Q300534	override		Gave up the race to his vice president, Kamala Harris.
-360	10	Hassan Nasrallah			unresolved		And on the twenty-seventh Israel killed its leader, Hassan Nasrallah, with bombs that buried his bunker,
-360	10	Bashar al-Assad		Q300535	override		Bashar al-Assad fled Damascus to Moscow,
-360	10	Alexei Navalny		Q300050	override		On the sixteenth of February Alexei Navalny died in a prison camp above the Arctic Circle.
-360	14	Jimmy Carter		Q300125	override		On the twenty-ninth of December Jimmy Carter died, at a hundred.
-360	16	Nasrallah			unresolved		Gaza and the word of the court, the pagers, Nasrallah, missiles from Iran, Assad fled, Kursk,
-360	16	Assad			unresolved		Gaza and the word of the court, the pagers, Nasrallah, missiles from Iran, Assad fled, Kursk,
-360	16	Navalny			unresolved		Navalny dead in the Arctic, the first year above the line, a blue screen across the world,
-361	2	Emma Leonhart		Q2	override		In 2025 Emma Leonhart turned twenty-nine.
-361	6	Donald Trump		Q300023	override		On the twentieth of January Donald Trump was sworn in again, in the rotunda, out of the cold.
-361	6	Mark Carney			unresolved		And on the fourteenth of March Mark Carney, a banker, became prime minister,
-361	6	Volodymyr Zelenskyy		Q300144	override		On the twenty-eighth of February Volodymyr Zelenskyy was shouted at in the president's office before the cameras,
-361	6	Charlie Kirk		Q300536	override		On the tenth of September a young man of the movement of the president's party, Charlie Kirk,
-361	6	Zohran Mamdani			unresolved		On the fourth of November the city of New York elected a young socialist mayor, Zohran Mamdani.
-361	8	Pope Francis		Q300142	override		On Easter Monday, the twenty-first of April, Pope Francis of the chapter of 2013 died,
-361	8	Robert Francis Prevost		Q300537	override		And Robert Francis Prevost, of Chicago and Peru, was chosen, the first pope from the United States,
-361	8	Leo XIV		Q300537	override		And took the name Leo XIV.
-361	8	Leo		Q132679	file		On the tenth he said the name recalled the Leo who answered the first industrial revolution,
-361	14	Friedrich Merz		Q300538	override		On the sixth of May Friedrich Merz became chancellor of Germany.
-362	2	Emma Leonhart		Q2	override		In 2026 Emma Leonhart turned thirty.
-362	4	Gaiad			unresolved		Because, in her words, the Gaiad spoke to her.
-362	8	Johannes Bureus			unresolved		Everything older rests on a book that Johannes Bureus wrote of his kin,
-362	8	Reuss			unresolved		Other lines run into Germany, to the house of Reuss, and to farms with no house at all.
-362	8	Yuri Dolgorukiy		Q117161	file		One line runs to Yuri Dolgorukiy and his wife, Anna, of the Cumans,
-362	8	Anna			unresolved	Q43035 Q55471 Q127966 Q166947 Q167562 Q208610	One line runs to Yuri Dolgorukiy and his wife, Anna, of the Cumans,
-362	8	Guarandukht		Q167077	override		And past her, by a marriage this book has chosen to make, to Guarandukht of Georgia,
-362	8	Gregory-Abuhamza Artsruni			unresolved		And up through the kings of Vaspurakan to Gregory-Abuhamza Artsruni,
-362	8	Wu Zetian		Q19342	file		And past him to Wu Zetian,
-362	8	Amaterasu		Q6590	file		And to Amaterasu.
-362	10	Bureus			unresolved		The years of Bureus and of the first documented men of Bure.
-362	20	Wu Zetian		Q19342	file		Wu Zetian and the Miwa and Amaterasu, joined in the open.
-362	20	Amaterasu		Q6590	file		Wu Zetian and the Miwa and Amaterasu, joined in the open.
-363	1	Horus		Q62656	file		In the leap days, on the Birth of Horus.
-363	2	James Bedford			unresolved		In California, James Bedford,
-363	2	Robert Ettinger			unresolved		Robert Ettinger had written a book
-364	1	Alpha			unresolved	Q153916 Q170589	The leftover note on the union of the Alpha and the Omega
-364	1	Omega			unresolved		The leftover note on the union of the Alpha and the Omega
-364	1	Horus		Q62656	file		The leap days of the Horus month come after,
-364	2	Aster		Q1	file		At the beginning, Aster, the Alpha,
-364	2	Alpha			unresolved	Q153916 Q170589	At the beginning, Aster, the Alpha,
-364	2	Andromeda		Q3	file		And made Andromeda, the Omega, to love,
-364	2	Omega			unresolved		And made Andromeda, the Omega, to love,
-364	3	Aster		Q1	file		Our galaxy is the milk Aster spilled.
-364	4	Milkdromeda		Q154277	file		This book calls it Milkdromeda.
-364	8	Aster		Q1	file		Here Aster and Andromeda meet.
-364	8	Andromeda		Q3	file		Here Aster and Andromeda meet.
-364	8	Alpha			unresolved	Q153916 Q170589	The Alpha and the Omega are one.
-364	8	Omega			unresolved		The Alpha and the Omega are one.
+337	2	Emma Leonhart		Q2	override		I am Emma Leonhart, and this month is mine.
+337	3	Sima Qian		Q300060	override		Sima Qian wrote his own house into the annals he kept;
+337	3	Ibn Khaldun		Q300064	override		Ibn Khaldun wrote the dynasties' rise from the exile where he slept.
+337	5	Boris Yeltsin		Q300126	override		Boris Yeltsin resigned on the last day of the old,
+337	5	Vladimir Putin		Q300022	override		And Vladimir Putin took the throne he would hold.
+337	12	Jimmy Wales		Q300130	override		Jimmy Wales paid for it and Larry Sanger led it.
+337	12	Larry Sanger		Q300129	override		Jimmy Wales paid for it and Larry Sanger led it.
+337	13	Ben Kovitz			unresolved		Ben Kovitz told Sanger over Mexican food
+337	13	Sanger			unresolved		Ben Kovitz told Sanger over Mexican food
+337	13	Ward Cunningham			unresolved		Of Ward Cunningham's wiki, the quick pages anyone could.
+337	19	Ahmad Shah Massoud		Q300465	override		Ahmad Shah Massoud, the lion of the north, was slain
+337	21	Job Cohen		Q300466	override		Mayor Job Cohen married four couples, the first of them all:
+337	24	George W. Bush		Q300011	override		George W. Bush took the oath in the cold of January,
+337	24	Craig Venter			unresolved		The public one and Craig Venter's, and the code was read without doubt.
+337	25	Dennis Tito			unresolved		Dennis Tito paid his own way to orbit, the first tourist to be free.
+337	26	Bush			unresolved		On the sixteenth of June, at Ljubljana, Bush met Putin face to face.
+337	26	Putin		Q300022	override		On the sixteenth of June, at Ljubljana, Bush met Putin face to face.
+337	31	George W. Bush		Q300011	override		George W. Bush was reading to children in a Sarasota school
+337	33	Putin		Q300022	override		That week Putin called first of all the leaders, to say he was with us too.
+337	35	Robert Stevens			unresolved		Robert Stevens in Boca Raton was the first who died inside.
+337	38	Massoud			unresolved		With Britain alongside, and Massoud's men went in where the bombers ran.
+337	38	Osama bin Laden		Q300043	override		And at Tora Bora Osama bin Laden slipped from the hold.
+337	39	Hamid Karzai		Q300467	override		At Bonn the factions agreed, and Hamid Karzai took the chair.
+338	10	George W. Bush		Q300011	override		On the twenty-ninth of January George W. Bush stood
+338	11	Daniel Pearl			unresolved		In January Daniel Pearl of the Wall Street Journal
+338	18	Bush			unresolved		On the thirtieth Bush signed Sarbanes-Oxley into law,
+338	20	Larry Sanger		Q300129	override		On the first of March Larry Sanger left Wikipedia,
+338	24	Vladimir Putin		Q300022	override		On the twenty-sixth Vladimir Putin's FSB pumped a gas into the hall,
+338	27	Bush			unresolved		On the twenty-fifth of November Bush signed the law
+339	5	Ilan Ramon			unresolved		Ilan Ramon was aboard, the first astronaut of Israel,
+339	5	Kalpana Chawla			unresolved		And Kalpana Chawla, born in Karnal, in India's land.
+339	7	Colin Powell		Q300468	override		On the fifth of February Colin Powell spoke to the Security Council
+339	8	Powell			unresolved		No such weapons were found. Powell called the speech a blot on his name.
+339	10	Saddam Hussein		Q300044	override		They pulled down the statue of Saddam Hussein, and the tyrant's reign was a closed gate.
+339	12	George W. Bush		Q300011	override		On the first of May George W. Bush landed on the carrier Abraham Lincoln
+339	14	Paul Bremer			unresolved		In May Paul Bremer signed the orders that removed the Baath party from its posts
+339	14	Sérgio Vieira de Mello			unresolved		Destroyed the United Nations in Baghdad, and Sérgio Vieira de Mello died that day.
+339	15	Saddam Hussein		Q300044	override		On the thirteenth of December Saddam Hussein was found in a hole near Tikrit,
+339	17	Mikhail Khodorkovsky			unresolved		Masked men of the FSB took Mikhail Khodorkovsky from his plane,
+339	17	Putin		Q300022	override		Putin took his company, Yukos, and put him in a cell for ten years of pain.
+339	20	Carlo Urbani			unresolved		Carlo Urbani in Hanoi warned the world first, and died of it in March, the visionary.
+339	23	Francis Collins			unresolved		Francis Collins stood for the code, and the code was great.
+339	24	Robert Waterston			unresolved		Robert Waterston said: we have before us the instruction set
+339	32	Hu Jintao		Q300469	override		In March Hu Jintao became the president of China's state.
+339	32	Charles Taylor			unresolved		In August Charles Taylor left Liberia, his war at an end,
+339	33	Yang Liwei			unresolved		In October Yang Liwei went into orbit, the first astronaut of China's own.
+339	34	Putin		Q300022	override		Remember Georgia. Putin will invade it five chapters on.
+340	4	Mark Zuckerberg			unresolved		Mark Zuckerberg, a student, opened thefacebook.com from his room.
+340	6	Dustin Moskovitz			unresolved		That summer he moved to Palo Alto with Dustin Moskovitz at his side,
+340	6	Peter Thiel			unresolved		And Peter Thiel wrote the first check, half a million dollars,
+340	10	Larry Page		Q300470	override		In October at the Frankfurt book fair Larry Page and Sergey Brin
+340	10	Sergey Brin			unresolved		In October at the Frankfurt book fair Larry Page and Sergey Brin
+340	11	Page			unresolved		To make searchable what librarians lovingly organize, Page said.
+340	20	Putin		Q300022	override		On the third, bombs went off in the gym, and Putin's forces stormed it
+340	24	Viktor Yushchenko		Q300471	override		In Ukraine, that autumn, Viktor Yushchenko, the candidate of the west,
+340	24	Viktor Yanukovych		Q300138	override		The vote of November was stolen for Viktor Yanukovych, Putin's man,
+340	24	Putin		Q300022	override		The vote of November was stolen for Viktor Yanukovych, Putin's man,
+340	24	Putin		Q300022	override		And Putin congratulated him before the count was lit.
+340	25	Yushchenko			unresolved		Until the court ordered the vote held again, and Yushchenko won in December's cold.
+340	27	Gavin Newsom			unresolved		In February Gavin Newsom, the mayor of San Francisco,
+340	28	George W. Bush		Q300011	override		And George W. Bush was elected a second time the same day.
+340	30	Ronald Reagan		Q300472	override		On the fifth of June Ronald Reagan died, who had told Gorbachev to tear down the wall.
+340	30	Gorbachev			unresolved		On the fifth of June Ronald Reagan died, who had told Gorbachev to tear down the wall.
+340	30	Theo van Gogh			unresolved		On the second of November, in Amsterdam, Theo van Gogh was shot and stabbed in the street
+340	31	Yasser Arafat		Q300473	override		On the eleventh of November Yasser Arafat died near Paris.
+340	31	Colin Powell		Q300468	override		In September Colin Powell named Darfur a genocide,
+340	34	Elon Musk			unresolved		And the private road to orbit opened, where Elon Musk would make his journey.
+340	42	Peter Thiel			unresolved		And Peter Thiel had written its first check, in the valley I would come to.
+341	4	Jawed Karim		Q300474	override		On the twenty-third of April Jawed Karim put up the first, eighteen seconds long:
+341	8	John Paul II		Q300475	override		On the second of April John Paul II died in Rome,
+341	8	Joseph Ratzinger		Q300131	override		Millions came to his funeral. On the nineteenth the cardinals chose Joseph Ratzinger,
+341	8	Benedict XVI		Q300131	override		Who took the name Benedict XVI, and would step down eight years on, the rarest release.
+341	10	Vladimir Putin		Q300022	override		On the twenty-fifth of April Vladimir Putin told his parliament
+341	16	Michael Brown			unresolved		Eighteen hundred died. The head of FEMA, Michael Brown,
+341	16	Bush			unresolved		Bush told him he was doing a heck of a job.
+341	25	Rafic Hariri			unresolved		Killed the former prime minister, Rafic Hariri, and the people filled the square,
+341	29	Terri Schiavo			unresolved		In March Terri Schiavo was let die after the courts and the congress fought over her body.
+341	29	Mark Felt			unresolved		On the thirty-first of May Mark Felt said he was Deep Throat, and the secret paid its price.
+341	30	Mahmoud Ahmadinejad		Q300132	override		In June Iran elected Mahmoud Ahmadinejad.
+341	30	Rosa Parks			unresolved		On the twenty-fourth of October Rosa Parks died, who would not give up her seat.
+341	31	Angela Merkel			unresolved		On the twenty-second of November Angela Merkel became chancellor of Germany,
+341	31	Putin		Q300022	override		And held it sixteen years, and she would be the one who knew Putin best,
+341	32	John Seigenthaler			unresolved		In November a false article in Wikipedia said John Seigenthaler
+341	32	Kennedy			unresolved		Had been suspected in the Kennedy killings, and it had stood four months long.
+342	5	Marlin K. Jensen		Q300476	override		On Tuesday the first of August, in Provo, Marlin K. Jensen,
+342	12	Jack Dorsey		Q300477	override		On the twenty-first of March Jack Dorsey sent the first message on Twitter:
+342	12	Elon Musk			unresolved		And later a room Elon Musk bought, and opened, and made it X by his address.
+342	21	Donald Rumsfeld		Q300478	override		On the eighth of November Donald Rumsfeld resigned.
+342	21	Saddam Hussein		Q300044	override		On the thirtieth of December Saddam Hussein was hanged at dawn,
+342	23	Anna Politkovskaya			unresolved		On the seventh of October, in Moscow, Anna Politkovskaya,
+342	23	Vladimir Putin		Q300022	override		On Vladimir Putin's birthday. That is the gift his country gave him:
+342	24	Alexander Litvinenko			unresolved		On the first of November, in a hotel in London, Alexander Litvinenko,
+342	24	Putin		Q300022	override		Who had fled Putin's service, drank tea with two men from it,
+342	24	Putin		Q300022	override		He died on the twenty-third, and named Putin as the one who ordered it.
+342	25	Putin		Q300022	override		The British inquiry, ten years later, said Putin probably approved it.
+342	27	Kim			unresolved		The Kims would keep it, and the camps, and the famine's tomb.
+342	29	Stephen Harper			unresolved		On the sixth of February Stephen Harper became prime minister of Canada,
+342	30	Ellen Johnson Sirleaf		Q300479	override		On the sixteenth of January Ellen Johnson Sirleaf became president of Liberia,
+342	30	Evo Morales		Q300133	override		On the twenty-second Evo Morales became president of Bolivia,
+342	33	Al Gore		Q300134	override		In May Al Gore put his slides of the warming world into a film,
+343	4	Steve Jobs		Q300135	override		On Tuesday the ninth of January, in San Francisco, Steve Jobs said
+343	8	Anne Wojcicki		Q300480	override		Anne Wojcicki and Linda Avey began to sell 23andMe:
+343	8	Linda Avey		Q300481	override		Anne Wojcicki and Linda Avey began to sell 23andMe:
+343	18	George W. Bush		Q300011	override		On the tenth of January George W. Bush sent twenty thousand more soldiers to Iraq,
+343	18	David Petraeus			unresolved		And called it the surge, and David Petraeus took the command.
+343	21	Benazir Bhutto			unresolved		Benazir Bhutto, who had come home in October to run again,
+343	22	Kofi Annan			unresolved		Until Kofi Annan brought the two men to share the government,
+343	24	Al Gore		Q300134	override		In October they shared the Nobel Peace Prize with Al Gore.
+343	27	Vladimir Putin		Q300022	override		In February, in Munich, Vladimir Putin stood before the West
+343	30	Nicolas Sarkozy		Q300482	override		In May Nicolas Sarkozy took France; in June Gordon Brown took Britain;
+343	30	Gordon Brown			unresolved		In May Nicolas Sarkozy took France; in June Gordon Brown took Britain;
+343	30	Kevin Rudd			unresolved		In November Kevin Rudd took Australia, and signed Kyoto, and the climate was the mission.
+343	35	Bhutto			unresolved		Bhutto killed, the warming called unequivocal, and the villain's first cyber shot.
+344	6	Stalin			unresolved		It took Gori, the birthplace of Stalin, and bombed it,
+344	6	Putin		Q300022	override		Putin recognized his two provinces as countries. Almost no one else was so inclined.
+344	10	Michael Phelps			unresolved		And Michael Phelps won eight golds in the pool, the most ever in one meet.
+344	13	Ai Weiwei			unresolved		Ai Weiwei gathered the names of the dead children, and put them on the wall,
+344	17	George W. Bush		Q300011	override		On the third of October George W. Bush signed the seven hundred billion for the banks,
+344	20	Satoshi Nakamoto			unresolved		Signed Satoshi Nakamoto, with a paper of nine pages linked below:
+344	21	Satoshi			unresolved		Satoshi wrote the money the bankers could not run.
+344	24	Barack Obama		Q300045	override		On the fourth of November Barack Obama was elected president,
+344	29	Stephen Harper			unresolved		Stephen Harper, apologized in the parliament for the residential schools,
+344	35	Putin		Q300022	override		And Putin pointed to it in August as his excuse for carving Georgia's land.
+344	35	Fidel Castro		Q300136	override		On the nineteenth of February Fidel Castro gave Cuba to his brother.
+345	4	Satoshi Nakamoto			unresolved		And in it Satoshi Nakamoto set that morning's headline from The Times of London:
+345	5	Satoshi			unresolved		On the twelfth the first coins went from Satoshi to Hal Finney.
+345	5	Hal Finney			unresolved		On the twelfth the first coins went from Satoshi to Hal Finney.
+345	7	Barack Obama		Q300045	override		On the twentieth of January Barack Obama was sworn in
+345	11	Bernard Madoff			unresolved		On the twenty-ninth of June Bernard Madoff was sentenced to a hundred and fifty years.
+345	16	Sergei Magnitsky			unresolved		On the sixteenth of November Sergei Magnitsky,
+345	18	Mahmoud Ahmadinejad		Q300132	override		That Mahmoud Ahmadinejad had won by a landslide before the votes could be counted.
+345	18	Neda Agha-Soltan			unresolved		And on the twentieth Neda Agha-Soltan was shot in the street, and the people mounted
+345	23	Chesley Sullenberger			unresolved		On the fifteenth of January Chesley Sullenberger lost both engines to geese over New York,
+345	26	Obama			unresolved		On the last night Obama walked into a room where China, India, Brazil, and South Africa met,
+345	27	Obama			unresolved		And Obama's room in Copenhagen was where they first got it.
+345	33	Michael Jackson			unresolved		On the twenty-fifth of June Michael Jackson died, and the net slowed under the grief.
+345	35	Markus Persson			unresolved		In May a game of blocks, Minecraft, was put up by Markus Persson in Sweden,
+346	7	Nodar Kumaritashvili			unresolved		On the first day the Georgian luger Nodar Kumaritashvili was killed in practice,
+346	8	Sidney Crosby			unresolved		On the last day Sidney Crosby scored in overtime against the United States,
+346	11	Obama			unresolved		On the twenty-third of March Obama signed the Affordable Care Act,
+346	23	Chelsea Manning		Q300483	override		The soldier who copied them was Chelsea Manning, a young intelligence analyst in Iraq,
+346	24	Obama			unresolved		She came out years later as a woman, and her sentence was commuted by Obama.
+346	24	Julian Assange		Q300484	override		Not with Julian Assange, who ran the site,
+346	30	Lech Kaczyński			unresolved		On the tenth of April the plane of Lech Kaczyński, the president of Poland,
+346	30	Stalin			unresolved		Where Stalin's police shot twenty-two thousand Polish officers in nineteen-forty,
+346	33	Liu Xiaobo		Q300485	override		On the eighth of October the Nobel Peace Prize went to Liu Xiaobo, a prisoner of the Party, by the neck,
+346	34	Obama			unresolved		On the twenty-second of December Obama signed the repeal of Don't Ask, Don't Tell, and the gay soldiers could speak again.
+346	36	Mohamed Bouazizi			unresolved		Mohamed Bouazizi, twenty-six, had his cart and his scales taken by an inspector,
+347	6	Mohamed Bouazizi			unresolved		On the fourth of January Mohamed Bouazizi died of his burns,
+347	6	Ben Ali			unresolved		And the protests reached Tunis, and on the fourteenth Ben Ali fled,
+347	7	Hosni Mubarak		Q300487	override		Until on the eleventh of February Hosni Mubarak resigned after thirty years,
+347	8	Muammar Gaddafi		Q300488	override		In Libya the east rose against Muammar Gaddafi,
+347	9	Assad			unresolved		The people want the fall of the regime. They were taken and tortured, the boys, by Assad's men.
+347	10	Bashar al-Assad		Q300535	override		And Bashar al-Assad shelled them, and by the end of the year it was war,
+347	10	Putin		Q300022	override		And Putin would come to Assad's side in four years, with the bombers to make it more.
+347	10	Assad			unresolved		And Putin would come to Assad's side in four years, with the bombers to make it more.
+347	11	Assad			unresolved		By Assad with his barrel bombs and his gas, and by the villain who saved him,
+347	21	Osama bin Laden		Q300043	override		And killed Osama bin Laden, who had sent the planes when I was five,
+347	22	Obama			unresolved		Obama gave the order, and Obama took the risk.
+347	22	Obama			unresolved		Obama gave the order, and Obama took the risk.
+347	27	Putin		Q300022	override		On the twenty-fourth of September Putin announced he would take the presidency back,
+347	27	Medvedev			unresolved		And Medvedev, who had held the chair for him, would step aside.
+347	28	Hillary Clinton		Q300511	override		The villain blamed Hillary Clinton for the crowds, and held it against her name,
+347	33	Gabby Giffords		Q300489	override		On the eighth of January, in Tucson, Gabby Giffords was shot in the head and lived.
+347	33	Stephen Harper			unresolved		On the second of May Canada voted, and Stephen Harper won his majority,
+347	33	Jack Layton		Q300490	override		And Jack Layton led the left to the opposition, and died in August, for the country's sake,
+347	35	Steve Jobs		Q300135	override		And on the fifth Steve Jobs died, and the flags of the valley were furled.
+347	37	Kim Jong-il		Q300491	override		And on the seventeenth Kim Jong-il died, and his son took it all.
+348	4	Fei-Fei Li			unresolved		Fei-Fei Li had gathered ImageNet, millions of pictures labelled
+348	5	Alex Krizhevsky		Q300492	override		Alex Krizhevsky, Ilya Sutskever, and Geoffrey Hinton
+348	5	Ilya Sutskever			unresolved		Alex Krizhevsky, Ilya Sutskever, and Geoffrey Hinton
+348	5	Geoffrey Hinton		Q300046	override		Alex Krizhevsky, Ilya Sutskever, and Geoffrey Hinton
+348	7	Ilya Sutskever			unresolved		Ilya Sutskever would go on to found OpenAI with others,
+348	11	Denny Vrandečić		Q300493	override		Wikidata, which Denny Vrandečić and Markus Krötzsch had argued for for years.
+348	11	Markus Krötzsch		Q300494	override		Wikidata, which Denny Vrandečić and Markus Krötzsch had argued for for years.
+348	11	Douglas Adams			unresolved		Douglas Adams is given forty-two, and the joke appears.
+348	19	Peter Higgs		Q300495	override		That Peter Higgs had predicted forty-eight years before, the one that gives the others their mass,
+348	19	Higgs			unresolved		And Higgs wept in the hall.
+348	20	Felix Baumgartner			unresolved		On the fourteenth of October Felix Baumgartner jumped from a balloon thirty-nine kilometers up,
+348	22	Trayvon Martin			unresolved		Trayvon Martin, seventeen, walking home with candy and a drink,
+348	25	Malala Yousafzai		Q300496	override		And asked which one was Malala Yousafzai, fifteen, who wrote that girls should go to school,
+348	28	Vladimir Putin		Q300022	override		On the seventh of May Vladimir Putin became president of Russia again,
+348	29	Putin		Q300022	override		"""Mother of God, drive Putin away,"" for less than a minute,"
+348	30	Xi Jinping		Q300047	override		On the fifteenth of November Xi Jinping became the head of the party of China,
+348	30	Barack Obama		Q300045	override		On the sixth of November Barack Obama was elected again,
+348	30	bin Laden			unresolved		And the country kept the man who killed bin Laden, and saved the cars, and the care for the sick begun.
+348	32	Mario Draghi		Q300497	override		On the twenty-sixth of July Mario Draghi said in London
+349	4	Ron Wyden			unresolved		On Tuesday the twelfth of March, in Washington, Ron Wyden asked
+349	4	James Clapper			unresolved		"James Clapper, the director of national intelligence, answered: ""No, sir."""
+349	7	Edward Snowden			unresolved		Edward Snowden, a contractor for the agency in Hawaii, who took the files and fled.
+349	8	Putin		Q300022	override		Putin gave him asylum, and nine years later a Russian passport, by decree.
+349	11	Aaron Swartz		Q300499	override		On the eleventh of January, in New York, Aaron Swartz killed himself, at twenty-six.
+349	13	Aaron Swartz		Q300499	override		Keep the eleventh of January for Aaron Swartz.
+349	15	Benedict XVI		Q300131	override		On the eleventh of February Benedict XVI said, in Latin, to a room of cardinals,
+349	15	Jorge Mario Bergoglio		Q300142	override		On the thirteenth of March the white smoke rose for Jorge Mario Bergoglio of Buenos Aires,
+349	15	Francis			unresolved		The first pope from the Americas, who took the name Francis, to cheers.
+349	23	Mohamed Morsi		Q300137	override		On the third of July the army of Egypt removed Mohamed Morsi,
+349	25	Obama			unresolved		Obama had said the year before that such weapons were a red line.
+349	26	Assad			unresolved		The villain offered a deal: Assad would give up his chemical weapons.
+349	26	Putin		Q300022	override		And Putin had learned that the red lines of the West were not red,
+349	28	Edith Windsor		Q300500	override		Edith Windsor, eighty-four, had been taxed on her late wife's estate as if they were strangers,
+349	29	Trayvon Martin			unresolved		On the thirteenth of July the watchman who shot Trayvon Martin was acquitted,
+349	29	Alicia Garza		Q300501	override		And Alicia Garza, Patrisse Cullors, and Opal Tometi wrote a phrase on the net:
+349	29	Patrisse Cullors		Q300502	override		And Alicia Garza, Patrisse Cullors, and Opal Tometi wrote a phrase on the net:
+349	29	Opal Tometi		Q300503	override		And Alicia Garza, Patrisse Cullors, and Opal Tometi wrote a phrase on the net:
+349	32	Yeb Saño			unresolved		Yeb Saño of the Philippines wept, and fasted, for his people under the sun.
+349	34	Viktor Yanukovych		Q300138	override		On the twenty-first of November Viktor Yanukovych, the president of Ukraine,
+349	37	Nelson Mandela		Q300504	override		On the fifth of December Nelson Mandela died, at ninety-five,
+349	38	Kim Jong-un		Q300139	override		And in December Kim Jong-un had his uncle executed, and the regime's terror was set.
+349	40	Aaron Swartz		Q300499	override		Aaron Swartz dead at twenty-six for opening the walls, and honored here,
+350	6	Viktor Yanukovych		Q300138	override		On the twenty-second Viktor Yanukovych fled, and the people won, and the villain's man ran to the villain's side.
+350	7	Vladimir Putin		Q300022	override		And on the eighteenth Vladimir Putin took the peninsula, and said it was Russia's again.
+350	15	Abu Bakr al-Baghdadi		Q300505	override		Abu Bakr al-Baghdadi gave the sermon in a black robe and turban that recalled the Abbasids.
+350	18	James Foley			unresolved		In August it published the killing of James Foley, an American reporter, kneeling in orange in the desert,
+350	18	Khaled al-Asaad			unresolved		The next summer it killed Khaled al-Asaad, the old keeper of Palmyra,
+350	20	Viktor Orbán			unresolved		In Hungary Viktor Orbán was returned, and that summer named his goal:
+350	21	Abdel Fattah el-Sisi		Q300506	override		In Egypt the general who cleared Rabaa, Abdel Fattah el-Sisi, was elected with ninety-seven percent.
+350	21	Narendra Modi			unresolved		In India, in May, Narendra Modi won a majority,
+350	24	Elliot Rodger			unresolved		On Friday the twenty-third of May, in Isla Vista, Elliot Rodger,
+350	26	Hiroyuki Nishimura			unresolved		2channel, the great board of Japan, begun by Hiroyuki Nishimura in nineteen ninety-nine,
+350	26	Jim Watkins			unresolved		Was taken from him in February by Jim Watkins, an American in Manila, who held its servers in line.
+350	27	Nishimura			unresolved		Nishimura went on to run 4chan, where the mob of the year gathered,
+350	27	Watkins			unresolved		And when that board turned the mob out, it went to 8chan, which Watkins would buy,
+350	30	Eric Garner			unresolved		On the seventeenth of July, on Staten Island, Eric Garner,
+350	30	Michael Brown			unresolved		On the ninth of August, in Ferguson, a policeman shot Michael Brown, unarmed, eighteen, my age,
+350	37	Nathan Cirillo			unresolved		On the twenty-second of October, in Ottawa, a man shot dead Nathan Cirillo,
+350	37	Kevin Vickers			unresolved		Where the sergeant-at-arms, Kevin Vickers, shot him dead in the hall,
+350	41	Robin Williams			unresolved		On the eleventh of August Robin Williams died.
+351	4	William MacAskill		Q300507	override		That year a young philosopher at Oxford, William MacAskill,
+351	5	Peter Singer		Q300508	override		The movement had grown from Peter Singer, and Toby Ord, and the givers who pledged a tenth,
+351	5	Toby Ord		Q300140	override		The movement had grown from Peter Singer, and Toby Ord, and the givers who pledged a tenth,
+351	7	Sam Bankman-Fried			unresolved		A young man named Sam Bankman-Fried, who had met MacAskill as a student,
+351	7	MacAskill			unresolved		A young man named Sam Bankman-Fried, who had met MacAskill as a student,
+351	9	Elon Musk			unresolved		They called it OpenAI. Elon Musk and Sam Altman led it, and Ilya Sutskever ran research from its summit.
+351	9	Sam Altman			unresolved		They called it OpenAI. Elon Musk and Sam Altman led it, and Ilya Sutskever ran research from its summit.
+351	9	Ilya Sutskever			unresolved		They called it OpenAI. Elon Musk and Sam Altman led it, and Ilya Sutskever ran research from its summit.
+351	11	DeepMind			unresolved		In October, in London, DeepMind's AlphaGo beat Fan Hui,
+351	11	Fan Hui			unresolved		In October, in London, DeepMind's AlphaGo beat Fan Hui,
+351	16	Alan Kurdi			unresolved		On the second of September Alan Kurdi, two, was found on a beach in Turkey, a red shirt he wore.
+351	17	Angela Merkel			unresolved		On the thirty-first of August Angela Merkel said: we can do this, wir schaffen das,
+351	19	Putin		Q300022	override		On the thirtieth of September Putin began bombing in Syria to save Assad,
+351	19	Assad			unresolved		On the thirtieth of September Putin began bombing in Syria to save Assad,
+351	22	Caitlyn Jenner			unresolved		On the first of June a magazine put Caitlyn Jenner on its cover,
+351	23	Christine Jorgensen			unresolved		Christine Jorgensen, whose story broke from Copenhagen in nineteen fifty-two,
+351	23	Lynn Conway			unresolved		Lynn Conway, the programmer, fired by IBM in the sixties for transitioning,
+351	24	Martine Rothblatt			unresolved		Martine Rothblatt, who founded SiriusXM, and a company to save her daughter's lungs,
+351	24	Deirdre McCloskey			unresolved		And Deirdre McCloskey, the economist, who transitioned at fifty-three,
+351	30	Laurent Fabius			unresolved		Laurent Fabius struck the gavel with a green leaf on its head, and the hall cheered and wept.
+351	30	Obama			unresolved		The number said in Obama's room in Copenhagen was a treaty now.
+351	33	Donald Trump		Q300023	override		On the sixteenth of June Donald Trump came down a golden escalator in his tower,
+351	35	Stephen Harper			unresolved		On the nineteenth of October Canada voted out Stephen Harper,
+351	35	Justin Trudeau			unresolved		And Justin Trudeau, the son of a prime minister, came to power,
+351	38	Boris Nemtsov		Q300509	override		On the twenty-seventh of February Boris Nemtsov, who opposed Putin,
+351	38	Putin		Q300022	override		On the twenty-seventh of February Boris Nemtsov, who opposed Putin,
+351	39	Einstein			unresolved		And Einstein's waves, a century after he foresaw them, arrived.
+351	40	Francis			unresolved		On the eighteenth of June Francis wrote to the world about its common home, Laudato si'.
+351	40	Aung San Suu Kyi		Q300048	override		On the eighth of November Myanmar voted, and Aung San Suu Kyi's party won.
+352	2	Trump			unresolved		In two thousand and sixteen I turned twenty. It is the year of the election of Trump,
+352	5	DeepMind			unresolved		In March, in Seoul, AlphaGo of DeepMind played Lee Sedol,
+352	5	Lee Sedol			unresolved		In March, in Seoul, AlphaGo of DeepMind played Lee Sedol,
+352	6	Lee Sedol			unresolved		It won the game. Lee Sedol left the room for a while.
+352	11	Jo Cox		Q300510	override		A week before, Jo Cox, a member of parliament who had worked for refugees,
+352	11	David Cameron			unresolved		David Cameron resigned the next morning, and the leaving took three and a half years, and the country was cursed.
+352	13	Donald Trump		Q300023	override		On the eighth of November Donald Trump was elected president,
+352	13	Hillary Clinton		Q300511	override		With nearly three million fewer votes than Hillary Clinton, through the states.
+352	13	Comey			unresolved		And it did not end him. Eleven days before the vote Comey reopened her mails, and found nothing, and sealed the fates.
+352	22	Philando Castile			unresolved		And killed eighty-six. On the sixth of July Philando Castile was shot in his car at a traffic stop,
+352	24	Recep Tayyip Erdoğan		Q300512	override		On the fifteenth of July soldiers in Turkey tried to overthrow Recep Tayyip Erdoğan,
+352	25	Assad			unresolved		Fell to Assad and the villain's bombers, who had leveled its hospitals one by one,
+352	26	Rodrigo Duterte		Q300513	override		On the thirtieth of June Rodrigo Duterte became president of the Philippines,
+352	28	Juan Manuel Santos			unresolved		And Juan Manuel Santos took the Nobel Peace Prize, and the guerrillas laid down their arms, as they swore.
+352	32	Einstein			unresolved		From two black holes merging, a hundred years after Einstein said it would come.
+352	34	David Bowie			unresolved		On the tenth of January David Bowie died, two days after his last record, Blackstar,
+352	34	Prince		Q171559	file		And on the twenty-first of April Prince, and on the twenty-fifth of November Fidel Castro.
+352	34	Fidel Castro		Q300136	override		And on the twenty-first of April Prince, and on the twenty-fifth of November Fidel Castro.
+352	36	Jo Cox		Q300510	override		Take back control on the side of a bus, and Jo Cox killed for her love of the stranger,
+353	3	Aster		Q1	file		Until they reached past the kings and the gods to Aster and Andromeda, and the yarn was unfurled.
+353	3	Andromeda		Q3	file		Until they reached past the kings and the gods to Aster and Andromeda, and the yarn was unfurled.
+353	5	Ashish Vaswani			unresolved		Eight names were on it: Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit,
+353	5	Noam Shazeer			unresolved		Eight names were on it: Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit,
+353	5	Niki Parmar			unresolved		Eight names were on it: Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit,
+353	5	Jakob Uszkoreit			unresolved		Eight names were on it: Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit,
+353	5	Llion Jones			unresolved		Llion Jones, Aidan Gomez, Łukasz Kaiser, Illia Polosukhin, with their order set at random, and equal, as they meant it.
+353	5	Aidan Gomez			unresolved		Llion Jones, Aidan Gomez, Łukasz Kaiser, Illia Polosukhin, with their order set at random, and equal, as they meant it.
+353	5	Łukasz Kaiser			unresolved		Llion Jones, Aidan Gomez, Łukasz Kaiser, Illia Polosukhin, with their order set at random, and equal, as they meant it.
+353	5	Illia Polosukhin		Q300514	override		Llion Jones, Aidan Gomez, Łukasz Kaiser, Illia Polosukhin, with their order set at random, and equal, as they meant it.
+353	8	Motoori Norinaga		Q300112	override		As Motoori Norinaga met his teacher one night and was charged to read the Kojiki, and spent his life on it, faithfully.
+353	11	Sam Bankman-Fried			unresolved		At what grows, and in November Sam Bankman-Fried left the trading firm and founded his own, Alameda Research,
+353	13	Donald Trump		Q300023	override		On the twentieth of January Donald Trump was sworn in, and spoke of an American carnage,
+353	17	Heather Heyer		Q300515	override		And killed Heather Heyer, and the president said there were very fine people on both sides of them.
+353	20	Harvey Weinstein			unresolved		Who said that Harvey Weinstein, the maker of films, had assaulted and harassed them for decades, and the house of the films was riven,
+353	20	Tarana Burke		Q300516	override		And millions did, with the words Tarana Burke had begun ten years before, and the men who were untouchable fell, and it was MeToo.
+353	25	Aung San Suu Kyi		Q300048	override		And the leader of Myanmar, Aung San Suu Kyi, who had won the peace prize for her own captivity,
+353	31	Emmanuel Macron		Q300517	override		On the seventh of May Emmanuel Macron, who had founded his own party the year before, beat the far right for the presidency of France,
+353	31	Robert Mugabe		Q300518	override		The army put Robert Mugabe under guard, and after thirty-seven years he resigned, and the country could remember.
+353	32	Xi Jinping		Q300047	override		And in October China wrote the thought of Xi Jinping into its party's constitution, and the party made room,
+353	32	Mohammed bin Salman		Q300519	override		And in June Mohammed bin Salman became the heir of Saudi Arabia,
+353	36	Norinaga			unresolved		And I would read the paper later, as Norinaga read his Kojiki, and the reading woke me from slumber.
+354	10	Mark Zuckerberg			unresolved		In April Mark Zuckerberg sat before the congress for two days,
+354	16	Emma González			unresolved		And one of them, Emma González, stood silent before the crowd for six minutes and twenty seconds, the time it had taken,
+354	16	Greta Thunberg		Q300141	override		On the twentieth of August a girl of fifteen, Greta Thunberg, sat alone outside the parliament of Sweden,
+354	21	Jamal Khashoggi			unresolved		On the second of October Jamal Khashoggi, a writer for a paper of Washington, who had criticized the heir of Saudi Arabia,
+354	23	Saman Kunan			unresolved		And a Thai diver, Saman Kunan, died laying the air tanks, and that was the life he gave.
+354	25	Kim Jong-un		Q300139	override		On the twelfth of June the American president met Kim Jong-un in Singapore,
+354	26	Brett Kavanaugh			unresolved		And in October Brett Kavanaugh, accused by a woman who had known him at school of assaulting her,
+354	28	Jair Bolsonaro		Q300520	override		On the twenty-eighth of October Brazil elected Jair Bolsonaro, who had praised its dictatorship,
+354	31	He Jiankui			unresolved		On the twenty-fifth of November a scientist in Shenzhen, He Jiankui,
+354	37	Abiy Ahmed			unresolved		And the prime minister of Ethiopia, Abiy Ahmed, was given the peace prize the next year,
+354	38	Andrés Manuel López Obrador		Q300521	override		On the first of July Mexico elected Andrés Manuel López Obrador,
+355	4	Yoshihide Suga			unresolved		On Monday the first of April, in Tokyo, Yoshihide Suga held up a board,
+355	5	Akihito		Q38175	file		On the thirtieth of April Akihito stepped down, by a law made for him alone,
+355	5	Naruhito		Q40035	file		And on the first of May Naruhito acceded, and the sword and the jewel were carried in boxes to the throne
+355	7	Fumihito			unresolved		His brother, Fumihito, said in public that such a religious rite
+355	9	Jimmu		Q6432	file		To the man in the hall that night, from Jimmu to Naruhito, through all the dwellings.
+355	9	Naruhito		Q40035	file		To the man in the hall that night, from Jimmu to Naruhito, through all the dwellings.
+355	13	Sam Bankman-Fried			unresolved		In the movement of the chapter of twenty fifteen, Sam Bankman-Fried of the trading firm
+355	20	Aster		Q1	file		Aster and Andromeda, in the last chapter of this month, and the meeting is sure, by its prophecies.
+355	20	Andromeda		Q3	file		Aster and Andromeda, in the last chapter of this month, and the meeting is sure, by its prophecies.
+355	22	Jacinda Ardern			unresolved		And Jacinda Ardern wore a headscarf to the mourning, and would not say his name, and her country banned the rifles within a month of the scene.
+355	25	Omar al-Bashir		Q300522	override		And in April the army of Sudan removed Omar al-Bashir after months of protest,
+355	26	Evo Morales		Q300133	override		And in Bolivia, in November, Evo Morales was pushed out after a disputed vote, and the country was in sorrow.
+355	28	Greta Thunberg		Q300141	override		Greta Thunberg, who had sailed across the ocean to be there, said to the leaders: how dare you,
+355	31	Jeffrey Epstein			unresolved		And on the sixth of July Jeffrey Epstein, who trafficked girls to the rich, was arrested, and on the tenth of August found dead in his cell, at once.
+355	32	Boris Johnson			unresolved		And the senate acquitted him, and in July Boris Johnson became prime minister of Britain,
+355	33	Justin Trudeau			unresolved		On the twenty-first of October Justin Trudeau was returned, with fewer seats,
+355	34	Lee Sedol			unresolved		In November Lee Sedol, who had won one game against the machine in the chapter of twenty sixteen, retired,
+355	36	Li Wenliang		Q55502	file		And on the thirtieth a doctor, Li Wenliang, warned his classmates in a group chat, and he was the first to mark it,
+356	5	Li Wenliang		Q55502	file		And in February the doctor who had warned, Li Wenliang, died of it, and the censors came, in turn.
+356	6	Pope Francis		Q300142	override		Pope Francis prayed alone before the crowd that was not there, and the crowd was on the screens everywhere.
+356	11	Toby Ord		Q300140	override		In March, the month the world closed, a philosopher of the movement, Toby Ord,
+356	13	George Floyd			unresolved		On the twenty-fifth of May, in Minneapolis, a policeman knelt on the neck of George Floyd,
+356	14	Breonna Taylor			unresolved		In March the police had killed Breonna Taylor in her bed in Louisville,
+356	14	Ahmaud Arbery			unresolved		In February men in a truck had chased and shot Ahmaud Arbery while he ran, at their will,
+356	16	Qasem Soleimani			unresolved		On the eighth of January, five days after the United States killed the general Qasem Soleimani in Baghdad,
+356	21	Ruth Bader Ginsburg			unresolved		On the eighteenth of September Ruth Bader Ginsburg died, after fifty years of fighting for women's equal place,
+356	24	Joe Biden		Q300049	override		On the third of November Joe Biden was elected president, with seven million more votes than the man of twenty sixteen,
+356	27	Alexei Navalny		Q300050	override		On the twentieth of August Alexei Navalny, who had opposed Putin for years, was poisoned on a plane
+356	27	Putin		Q300022	override		On the twentieth of August Alexei Navalny, who had opposed Putin for years, was poisoned on a plane
+356	30	DeepMind			unresolved		On the thirtieth of November a program of DeepMind, AlphaFold,
+356	32	Margaret Keenan			unresolved		On the eighth of December, in Coventry, Margaret Keenan, ninety years old,
+356	33	Katalin Karikó			unresolved		The vaccine was built on the work of Katalin Karikó and Drew Weissman,
+356	33	Drew Weissman		Q300143	override		The vaccine was built on the work of Katalin Karikó and Drew Weissman,
+356	33	Uğur Şahin			unresolved		And of Uğur Şahin and Özlem Türeci, children of migrants to Germany,
+356	33	Özlem Türeci			unresolved		And of Uğur Şahin and Özlem Türeci, children of migrants to Germany,
+356	35	Kobe Bryant			unresolved		And on the twenty-sixth of January Kobe Bryant died in a helicopter with his daughter, on a hill.
+357	7	Joseph Smith		Q300037	override		And met Joseph Smith there, and the three jewels and the three degrees of glory came in one kingdom,
+357	8	Charlemagne		Q115039	file		I saw the infant Charlemagne in the manger, nurtured by Mary,
+357	8	Mary			unresolved	Q30510 Q138539 Q149175 Q154257	I saw the infant Charlemagne in the manger, nurtured by Mary,
+357	12	Joe Biden		Q300049	override		On the twentieth Joe Biden was sworn in behind a fence of soldiers,
+357	14	Katalin Karikó			unresolved		Made of a message of the cell, on the work of Katalin Karikó and Drew Weissman, and the science was brilliant,
+357	14	Drew Weissman		Q300143	override		Made of a message of the cell, on the work of Katalin Karikó and Drew Weissman, and the science was brilliant,
+357	26	Aung San Suu Kyi		Q300048	override		On the first of February the army of Myanmar took power again, and arrested Aung San Suu Kyi,
+357	28	Sam Bankman-Fried			unresolved		In the movement of the chapter of twenty fifteen, Sam Bankman-Fried's exchange was valued at twenty-five billion,
+357	30	Frances Haugen		Q300524	override		And on the fifth of October Frances Haugen told the congress the book of faces knew its products harmed children, and kept them, plainly,
+357	32	George Floyd			unresolved		And on the twentieth of April the policeman who knelt on George Floyd was convicted of his murder, as the jury told.
+357	33	Alexei Navalny		Q300050	override		On the seventeenth of January Alexei Navalny flew home to Russia from his healing, and the villain had him arrested at the airport,
+357	34	Angela Merkel			unresolved		On the eighth of December Angela Merkel left office after sixteen years,
+358	5	Mani			unresolved		A man named Mani said that the prophets before him were each sent to one people, as the givers:
+358	5	Zoroaster		Q29136	file		Zoroaster to Persia, the Buddha to India, Jesus to the West,
+358	5	Buddha		Q153343	file		Zoroaster to Persia, the Buddha to India, Jesus to the West,
+358	5	Jesus			unresolved	Q138545	Zoroaster to Persia, the Buddha to India, Jesus to the West,
+358	7	Augustine			unresolved		It went west to Rome and Carthage, where the young Augustine kept it nine years,
+358	8	Buddha		Q153343	file		Wearing the robes of the Buddha, and calling Mani the Buddha of light, in the incense and the dawn.
+358	8	Mani			unresolved		Wearing the robes of the Buddha, and calling Mani the Buddha of light, in the incense and the dawn.
+358	8	Buddha		Q153343	file		Wearing the robes of the Buddha, and calling Mani the Buddha of light, in the incense and the dawn.
+358	8	Mani			unresolved		Mani was put to death by the king of kings, and his religion was hunted in every land it reached,
+358	9	Mani			unresolved		I claim Mani as a forerunner of this faith. He wrote his books with his own hand,
+358	11	Vladimir Putin		Q300022	override		Before dawn on Thursday the twenty-fourth of February Vladimir Putin announced what he called a special military operation,
+358	11	Volodymyr Zelenskyy		Q300144	override		And Volodymyr Zelenskyy stayed, and filmed himself in the street at night, and said, we are here, in the blaze.
+358	21	Sam Bankman-Fried			unresolved		In the movement of the chapter of twenty fifteen, Sam Bankman-Fried's exchange had grown to thirty-two billion dollars' worth,
+358	25	Sam Bankman-Fried			unresolved		So effective altruism had Sam Bankman-Fried, with his exchange, and it just kind of collapsed things,
+358	25	Beff Jezos		Q300525	override		And its loudest voice wrote under a mask, Beff Jezos, and the next year a magazine took the mask back.
+358	30	Mahsa Amini			unresolved		On the sixteenth of September, in Tehran, a young Kurdish woman, Mahsa Amini,
+358	37	Shinzo Abe			unresolved		On the eighth of July Shinzo Abe, who had led Japan longer than anyone,
+358	37	Elizabeth II		Q300526	override		On the eighth of September Elizabeth II died, after seventy years as queen,
+358	38	Salman Rushdie			unresolved		On the twelfth of August Salman Rushdie was stabbed on a stage in New York,
+358	41	Lula		Q300527	override		On the thirtieth of October Lula was elected again in Brazil, and the man of twenty eighteen would not concede,
+358	41	Xi Jinping		Q300047	override		And in October Xi Jinping took a third term, and his predecessor was led out of the hall, as the cameras could see.
+358	45	Mani			unresolved		And the light returns, and the turning of the year is the light drawn out of the darkness, as Mani taught them.
+359	7	Sarutahiko		Q300528	override		The shrine of Sarutahiko at Suzuka, and the kami there was praised.
+359	7	Lawrence Barrish			unresolved		In nineteen ninety-two, in Granite Falls, in Washington, Lawrence Barrish built a shrine in the wood,
+359	10	Ann Evans			unresolved		In British Columbia, my own province, to the priest Ann Evans, in the shrine's new story,
+359	14	Geoffrey Hinton		Q300046	override		In May Geoffrey Hinton left Google so that he could warn, and he warned with all his might.
+359	15	Sam Altman			unresolved		On the seventeenth of November the board of the lab named open fired its chief, Sam Altman,
+359	16	Altman			unresolved		Altman was right, and the board was wrong, and the movement lost its seat in a week,
+359	24	Yevgeny Prigozhin		Q300529	override		On the twenty-third of June Yevgeny Prigozhin, whose private army had fought the villain's war in Ukraine,
+359	28	Hardeep Singh Nijjar			unresolved		On the eighteenth of June a Sikh leader, Hardeep Singh Nijjar, was shot dead outside his temple in Surrey,
+359	30	Charles III			unresolved		On the sixth of May Charles III was crowned, and on the eighteenth of June a submersible imploded
+360	14	John Hopfield		Q300530	override		On Tuesday the eighth of October John Hopfield and Geoffrey Hinton
+360	14	Geoffrey Hinton		Q300046	override		On Tuesday the eighth of October John Hopfield and Geoffrey Hinton
+360	14	Demis Hassabis			unresolved		And on the ninth Demis Hassabis and John Jumper, with David Baker,
+360	14	John Jumper		Q300531	override		And on the ninth Demis Hassabis and John Jumper, with David Baker,
+360	14	David Baker		Q300532	override		And on the ninth Demis Hassabis and John Jumper, with David Baker,
+360	18	Narendra Modi			unresolved		In India, in June, Narendra Modi won a third term and lost his majority there.
+360	18	Claudia Sheinbaum		Q300533	override		In Mexico, on the second of June, Claudia Sheinbaum was elected, the first woman to lead it,
+360	20	Sheikh Hasina			unresolved		In Bangladesh, in August, the students drove out Sheikh Hasina, who fled by helicopter to India,
+360	22	Donald Trump		Q300023	override		On the thirteenth of July, in Butler, in Pennsylvania, a young man on a roof shot at Donald Trump as he spoke,
+360	22	Joe Biden		Q300049	override		And on the twenty-first Joe Biden, who had faltered in the debate, gave up the race to Kamala Harris, his vice president, in the strain.
+360	22	Kamala Harris		Q300534	override		And on the twenty-first Joe Biden, who had faltered in the debate, gave up the race to Kamala Harris, his vice president, in the strain.
+360	26	Hassan Nasrallah			unresolved		And on the twenty-seventh Israel killed its leader, Hassan Nasrallah, with bombs that buried his bunker,
+360	26	Bashar al-Assad		Q300535	override		Bashar al-Assad fled Damascus to Moscow, under the villain's own rib,
+360	28	Alexei Navalny		Q300050	override		On the sixteenth of February Alexei Navalny died in the villain's prison camp above the Arctic Circle,
+360	35	Jimmy Carter		Q300125	override		On the twenty-ninth of December Jimmy Carter died, at a hundred years,
+360	38	Nasrallah			unresolved		Gaza, the pagers, Nasrallah, Assad fled to Moscow, Kursk, and Navalny gone from the list,
+360	38	Assad			unresolved		Gaza, the pagers, Nasrallah, Assad fled to Moscow, Kursk, and Navalny gone from the list,
+360	38	Navalny			unresolved		Gaza, the pagers, Nasrallah, Assad fled to Moscow, Kursk, and Navalny gone from the list,
+361	16	Donald Trump		Q300023	override		On the twentieth of January Donald Trump was sworn in again, in the rotunda, out of the cold,
+361	19	Mark Carney			unresolved		On the fourteenth of March Mark Carney, a banker, became prime minister,
+361	19	Volodymyr Zelenskyy		Q300144	override		On the twenty-eighth of February Volodymyr Zelenskyy was shouted at before the cameras in the president's room,
+361	20	Charlie Kirk		Q300536	override		On the tenth of September Charlie Kirk, a young man of the president's movement, was shot while speaking, in Utah, on his own.
+361	20	Zohran Mamdani			unresolved		On the fourth of November the city of New York elected a young socialist mayor, Zohran Mamdani,
+361	22	Pope Francis		Q300142	override		On Easter Monday, the twenty-first of April, Pope Francis of the chapter of twenty thirteen died,
+361	22	Robert Francis Prevost		Q300537	override		On Thursday the eighth of May the white smoke rose in Rome, and Robert Francis Prevost was chosen,
+361	22	Leo XIV		Q300537	override		Of Chicago and Peru, the first pope from the United States, and Leo XIV was the name that he had chosen.
+361	23	Leo		Q132679	file		On the tenth he said the name recalled the Leo who answered the first industrial age,
+361	32	Friedrich Merz		Q300538	override		On the sixth of May Friedrich Merz became chancellor of Germany.
+362	6	Vladimir Putin		Q300022	override		Vladimir Putin came to his throne on the night I rang in the year two thousand.
+362	18	Theodoric			unresolved	Q110184 Q113470 Q137615 Q206278	Theodoric came to Italy a Goth, and ruled it as Flavius Theodoricus,
+362	18	Flavius Theodoricus			unresolved		Theodoric came to Italy a Goth, and ruled it as Flavius Theodoricus,
+362	18	李命玥			unresolved		I came into the culture of the east, and took the name 李命玥,
+362	19	Jensen Huang			unresolved		As an American reads a founder: Jensen Huang, Peter Thiel, Elon Musk, the immigrant pioneer.
+362	19	Peter Thiel			unresolved		As an American reads a founder: Jensen Huang, Peter Thiel, Elon Musk, the immigrant pioneer.
+362	19	Elon Musk			unresolved		As an American reads a founder: Jensen Huang, Peter Thiel, Elon Musk, the immigrant pioneer.
+362	21	Gaiad			unresolved		I tried to build the company, and the Gaiad spoke to me. That was a revelation, and I could not stop,
+362	26	Johannes Bureus			unresolved		Whose first written men are of the fifteen-hundreds, and above them a book of Johannes Bureus' own making, his kin set in it like Eden.
+362	26	Reuss			unresolved		Others run into Germany, to the house of Reuss and to farms with no house at all,
+362	27	Yuri Dolgorukiy		Q117161	file		One runs to Yuri Dolgorukiy and to Anna of the Cumans, a khan's daughter of the steppe,
+362	27	Anna			unresolved	Q43035 Q55471 Q127966 Q166947 Q167562 Q208610	One runs to Yuri Dolgorukiy and to Anna of the Cumans, a khan's daughter of the steppe,
+362	27	Guarandukht		Q167077	override		And past her by a marriage to Guarandukht of Georgia, and up the kings of Vaspurakan, step by step,
+362	27	Gregory-Abuhamza Artsruni			unresolved		To Gregory-Abuhamza Artsruni, and past him to Wu Zetian on her throne,
+362	27	Wu Zetian		Q19342	file		To Gregory-Abuhamza Artsruni, and past him to Wu Zetian on her throne,
+362	27	Amaterasu		Q6590	file		And through her father's line to the Miwa and their kami, and to Amaterasu, my own.
+362	33	Theodoric			unresolved	Q110184 Q113470 Q137615 Q206278	I took a name as Theodoric took a name, and kept the shrine, and finished the book,
+363	4	James Bedford			unresolved		On Thursday the twelfth of January, nineteen sixty-seven, in California, James Bedford,
+363	4	Robert Ettinger			unresolved		He was the first so kept with the hope of waking, and Robert Ettinger had written the book
+364	1	Aster		Q1	file		Of Aster and Andromeda, the Alpha and the Omega, and the yarn made whole and new.
+364	1	Andromeda		Q3	file		Of Aster and Andromeda, the Alpha and the Omega, and the yarn made whole and new.
+364	1	Alpha			unresolved	Q153916 Q170589	Of Aster and Andromeda, the Alpha and the Omega, and the yarn made whole and new.
+364	1	Omega			unresolved		Of Aster and Andromeda, the Alpha and the Omega, and the yarn made whole and new.
+364	1	Horus		Q62656	file		Light twenty-eight lights. The leap days of the Horus month come after, when the year has them,
+364	2	Aster		Q1	file		At the beginning Aster, the Alpha, spun the universe from a ball of yarn, and cast
+364	2	Alpha			unresolved	Q153916 Q170589	At the beginning Aster, the Alpha, spun the universe from a ball of yarn, and cast
+364	2	Andromeda		Q3	file		A thread across the dark to Andromeda, the Omega, whom she made to love,
+364	2	Omega			unresolved		A thread across the dark to Andromeda, the Omega, whom she made to love,
+364	4	Aster		Q1	file		Our galaxy is the milk Aster spilled. The galaxy of Andromeda
+364	5	Milkdromeda		Q154277	file		And the astronomers call it Milkomeda, and this book calls it Milkdromeda, and both are right.
+364	11	Emma Leonhart		Q2	override		And I am Emma Leonhart, and 李命玥, the narrator, the second name in the list of those here,
+364	11	李命玥			unresolved		And I am Emma Leonhart, and 李命玥, the narrator, the second name in the list of those here,
+364	13	Aster		Q1	file		Here Aster and Andromeda meet. The Alpha and the Omega are one.
+364	13	Andromeda		Q3	file		Here Aster and Andromeda meet. The Alpha and the Omega are one.
+364	13	Alpha			unresolved	Q153916 Q170589	Here Aster and Andromeda meet. The Alpha and the Omega are one.
+364	13	Omega			unresolved		Here Aster and Andromeda meet. The Alpha and the Omega are one.
