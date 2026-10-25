@@ -1,168 +1,160 @@
 # Chapter 346: The Cables
 
-No holiday is named for this day.
+The tenth day of Yuletide is the feast of the year two thousand and ten.
+Light ten lights for fourteen, the year before my own thread began, and light them again.
 
-In 2010 {{c|Emma Leonhart}} turned fourteen.
-It was the year the secrets of the strongest state were printed,
-The year oil poured into a sea for eighty-seven days,
-And the year a fruit seller in a town in {{p|Tunisia}}
-Set himself on fire, in the last days of December,
-And lit a region.
-It was also a year the games came to her own province,
-To {{p|Vancouver}}, and the country cheered on the ice.
-She was fourteen. The year after this one is where her own thread begins,
-At the earliest point of what she would build for the next fifteen years.
-This is the year before.
+In two thousand and ten I turned fourteen. The secrets of the strongest state were printed,
+Oil poured into a sea for eighty-seven days, and the games came home to my own coast,
+And in the last days of December a fruit seller in {{p|Tunisia}} set himself on fire,
+And lit a region. The next year is where my own thread begins, and this is the year at its post.
 
-## The earthquake
+## Haiti
 
 On the twelfth of January the earth broke under {{p|Port-au-Prince}}, in {{p|Haiti}},
-In the late afternoon.
-The poorest country of the hemisphere lost its capital in a minute.
-The counts of the dead run from about a hundred thousand
-To more than three hundred thousand, and none is agreed.
-The palace fell, the cathedral fell, the prison fell,
-And the headquarters of the {{x|United Nations}} mission fell on its staff.
-The help that came brought the cholera that came after,
-From a camp of soldiers whose sewage reached a river,
-And the cholera killed ten thousand more.
-The organization took six years to say it.
+And the poorest country of the hemisphere lost its capital in a minute of the afternoon.
+Two hundred thousand died and more. The palace fell, the cathedral fell, the prison fell,
+And the {{x|United Nations}} mission's headquarters fell on its staff, too soon.
+
+The help that came brought cholera, from a camp of peacekeepers whose sewage reached a river,
+And the cholera killed ten thousand more, and the {{x|United Nations}} took six years to say it was theirs.
+The help that kills must be named as quickly as the earthquake.
+This book names it, and keeps the dead of {{p|Haiti}} in its prayers.
 
 ## The games at home
 
-From the twelfth to the twenty-eighth of February
-The winter games were held in {{p|Vancouver}} and {{p|Whistler}},
-In the province where she would later live and study.
-On the first day a luger from {{p|Georgia}}, {{c|Nodar Kumaritashvili}},
-Was killed in a practice run, thrown from the track at a hundred and forty kilometers an hour.
-On the last day {{c|Sidney Crosby}} scored in overtime,
-And {{p|Canada}} won the gold in hockey,
-And the country made one sound.
+From the twelfth to the twenty-eighth of February the winter games were held
+In {{p|Vancouver}} and {{p|Whistler}}, in the province where I would live and study.
+On the first day the Georgian luger {{c|Nodar Kumaritashvili}} was killed in practice,
+Thrown from the track at a hundred and forty kilometers an hour, and the ice was bloody.
+
+On the last day {{c|Sidney Crosby}} scored in overtime against the {{p|United States}},
+The golden goal, and {{p|Canada}} won the hockey gold on home ice,
+And the whole country made one sound at once,
+And I was fourteen, and I heard it, and it was nice.
 
 ## The court and the money
 
-On the twenty-first of January the {{x|Supreme Court}} of the {{p|United States}}
-Decided {{x|Citizens United}},
-And said that companies and unions could spend without limit on elections,
-Because spending is speech.
-The money that came through that door would shape every election of the century after.
-On the twenty-third of March the president signed the law that made health insurance
-Reachable for tens of millions, the {{x|Affordable Care Act}},
-Which the other party spent the next decade trying to repeal.
-In November that party took the house of the congress,
-On a wave of anger called the {{x|Tea Party}}.
+On the twenty-first of January the {{x|Supreme Court}} decided {{x|Citizens United}},
+That companies and unions could spend without limit on elections, because spending is speech.
+The money that came through that door shaped every election of the century after.
+This book agrees: it was the door the billionaires walked through, each to each.
+
+On the twenty-third of March {{c|Obama}} signed the {{x|Affordable Care Act}},
+And tens of millions could reach health insurance who could not before.
+It was the largest gift to the sick since the old programs of the sixties,
+And it held, though the other party spent a decade trying to tear it from the floor.
 
 ## The oil
 
-On the twentieth of April the drilling platform {{x|Deepwater Horizon}}
-Exploded in the {{x|Gulf of Mexico}}.
-Eleven men died.
-The well, a mile under the sea, poured oil for eighty-seven days,
-Some four million barrels, the largest spill in the history of the industry,
-While the company's camera showed the plume to the world live,
-And the company's chief said he would like his life back.
-The beaches of five states were fouled, and the marshes,
-And the dolphins died for years.
+On the twentieth of April the {{x|Deepwater Horizon}} exploded in the {{x|Gulf of Mexico}},
+And eleven men died, and the well a mile under the sea poured oil for eighty-seven days,
+Four million barrels, the largest spill in the history of the industry,
+While the {{x|BP}} camera showed the plume to the world, live, in its haze.
 
-## The volcano and the miners
+The company's chief said he would like his life back.
+The beaches of five states were fouled, and the marshes, and the dolphins died for years.
+The company paid sixty-five billion in the end,
+And the beaches came back, and the shrimp, and the marsh grass, after the tears.
 
-In April the volcano {{x|Eyjafjallajökull}}, in {{p|Iceland}}, erupted under a glacier,
-And its ash closed the sky over {{p|Europe}} for days,
-The largest shutting of the air since the war.
-On the fifth of August a copper and gold mine in the desert of {{p|Chile}} collapsed,
-And thirty-three miners were trapped seven hundred meters down.
+## The ash and the miners
+
+In April {{x|Eyjafjallajökull}} erupted in {{p|Iceland}}, under a glacier,
+And its ash closed the sky over {{p|Europe}} for days, the largest shutting of the air since the war.
+On the fifth of August the {{x|San José Mine}} in the desert of {{p|Chile}} collapsed,
+And thirty-three miners were trapped seven hundred meters down, under the ore.
+
 For seventeen days no one knew they were alive.
-Then a note came up on a drill: we are well in the shelter, the thirty-three.
-On the thirteenth of October they were brought up one by one in a capsule,
-And a billion people watched.
+Then a note came up on a drill: "Estamos bien en el refugio los 33."
+On the thirteenth of October they were brought up one by one in a capsule called the {{x|Phoenix}},
+And a billion people watched, and every one of the thirty-three was free.
+
+That is the anti-fragile year's emblem: the mountain fell on them,
+And they rationed the tuna, two spoons every other day, and waited in the deep,
+And the drills came down, and the capsule came down, and they rose,
+And the {{x|Phoenix}} brought them into the light, and the whole of {{p|Chile}} could weep.
 
 ## The money of Europe
 
 On the second of May {{p|Greece}} was lent a hundred and ten billion euros
-By the other countries of the coin and the fund,
-On the condition that it cut its pensions, its wages, its hospitals.
-The coin that had been put into twelve hands in the chapter of 2002
-Now held some of them under water.
-In November {{p|Ireland}} was lent the same way.
-The streets of {{p|Athens}} burned that spring.
+On the condition that it cut its pensions, its wages, its hospitals, and its schools.
+The coin that was put into twelve hands in two thousand and two
+Now held some of them under water, and {{p|Ireland}} was lent in November, under the same rules.
 
-## The leaks
+## The cables and the soldier
 
-On the fifth of April a site called {{x|WikiLeaks}}
-Showed a film taken from an American helicopter over {{p|Baghdad}} in 2007,
-In which the crew killed a dozen people, among them two journalists of {{x|Reuters}},
-And then fired on the van that stopped to help the wounded, with children in it.
-It called the film {{x|Collateral Murder}}.
-In July it printed the war logs of {{p|Afghanistan}},
-In October the war logs of {{p|Iraq}},
-And on the twenty-eighth of November it began to print
-A quarter of a million cables of the American diplomats,
-Saying in private what the governments of the world said in public otherwise.
-The soldier who had copied them, {{c|Chelsea Manning}}, a young intelligence analyst,
-Was arrested in May, and held for months in conditions
-That an envoy of the {{x|United Nations}} called cruel.
-She came out years later as a woman.
-The man who ran the site, {{c|Julian Assange}}, was arrested in {{p|London}} in December
-On a matter in {{p|Sweden}}, and spent most of the next fourteen years confined.
-The cables are in the chapter of the {{p|Tunisia}}n revolution too,
-Because they described the wealth of its ruling family,
-And people there read them.
+On the fifth of April {{x|WikiLeaks}} showed a film from an American helicopter over {{p|Baghdad}},
+In which the crew killed a dozen people, two of them journalists of {{x|Reuters}}.
+In July it printed the war logs of {{p|Afghanistan}}, in October those of {{p|Iraq}},
+And in November the quarter of a million cables of the diplomats, the private writers.
+
+The soldier who copied them was {{c|Chelsea Manning}}, a young intelligence analyst in {{p|Iraq}},
+Who saw what she saw and could not keep it, and gave it out.
+She was arrested in May and held for months in a cell
+That an envoy of the {{x|United Nations}} called cruel, alone, in doubt.
+
+She came out years later as a woman, and her sentence was commuted by {{c|Obama}}.
+My sympathy is with her, the young woman who was a soldier and could not stay silent,
+Not with {{c|Julian Assange}}, who ran the site,
+Who would later run the villain's errands, the hacked mail of {{p|Moscow}}'s intent.
 
 ## The worm
 
-In June a computer worm called {{x|Stuxnet}} was found,
-Built to find one kind of controller in one kind of centrifuge
-In the nuclear plant at {{p|Natanz}}, in {{p|Iran}},
-And spin them until they broke, while telling the operators all was well.
-It had been made by states and was never owned by them.
-It was the first weapon made only of code that broke a thing in the world.
+In June a worm called {{x|Stuxnet}} was found, built to find one kind of controller
+In the centrifuges at {{p|Natanz}}, in {{p|Iran}}, and spin them until they broke,
+While telling the operators all was well.
+The first weapon made only of code that broke a thing in the world, and it set back the bomb of the ayatollahs' folk.
 
 ## The machines
 
 On the third of April the {{x|iPad}} went on sale.
-On the sixth of October a phone application for sharing photographs,
-With filters that made them look old, opened, called {{x|Instagram}},
-And a million people joined it in two months.
-In the same year the book of faces passed five hundred million users.
-{{p|China}} passed {{p|Japan}} to become the second economy in the world.
+On the sixth of October {{x|Instagram}} opened, photographs with filters that made them old,
+And a million joined it in two months.
+{{x|Facebook}} passed five hundred million users, and {{p|China}} passed {{p|Japan}}, the second economy, as foretold.
+
+## Smolensk and the heat
+
+On the tenth of April the plane of {{c|Lech Kaczyński}}, the president of {{p|Poland}},
+Crashed in the fog near {{p|Smolensk}}, on its way to remember {{p|Katyn}},
+Where {{c|Stalin}}'s police shot twenty-two thousand Polish officers in nineteen-forty,
+And the president died, and ninety-five others, going to mourn their kin.
+
+That summer {{p|Russia}} burned in a heat no one there had known,
+And the smoke covered {{p|Moscow}}, and the villain flew a water bomber for the lens.
+In June ten of his sleeper spies were caught in the {{p|United States}},
+Living as suburban families, and traded home, and he sang with them, his friends.
 
 ## The rest of the year
 
-On the twenty-seventh of February one of the largest earthquakes ever measured struck {{p|Chile}}.
-On the tenth of April the plane of the president of {{p|Poland}} crashed near {{p|Smolensk}},
-On its way to remember the officers {{p|Russia}} had shot at {{p|Katyn}},
-And he died, and ninety-five others.
-On the thirty-first of May Israeli commandos boarded a ship carrying aid to {{p|Gaza}},
-And killed nine on its deck.
-In the summer {{p|Pakistan}} flooded, and twenty million people lost their homes,
-And {{p|Russia}} burned in a heat no one there had known.
-On the eighth of October the {{x|Nobel Peace Prize}} went to {{c|Liu Xiaobo}},
-Who was in a prison in {{p|China}}, and at the ceremony his chair was empty.
-In June, at the meeting of the great economies in {{p|Toronto}},
-The police kettled hundreds of peaceful people in the rain,
+On the twenty-seventh of February an earthquake of eight point eight struck {{p|Chile}}.
+On the thirty-first of May Israeli commandos boarded the {{x|Mavi Marmara}}, headed for {{p|Gaza}}, and nine died on its deck.
+In the summer {{p|Pakistan}} flooded, and twenty million lost their homes.
+On the eighth of October the {{x|Nobel Peace Prize}} went to {{c|Liu Xiaobo}}, a prisoner of the Party, by the neck,
+
+Held for the charter he wrote, and at the ceremony in {{p|Oslo}} his chair was empty.
+In June, at the {{x|G20}} in {{p|Toronto}}, the police kettled hundreds in the rain,
 The largest mass arrest in the history of {{p|Canada}}.
-On the twenty-second of December the president signed the repeal of the rule
-That had kept gay soldiers silent, {{x|Don't Ask, Don't Tell}}.
+On the twenty-second of December {{c|Obama}} signed the repeal of {{x|Don't Ask, Don't Tell}}, and the gay soldiers could speak again.
 
 ## The fire
 
-On the seventeenth of December, in {{p|Sidi Bouzid}},
-A fruit seller named {{c|Mohamed Bouazizi}}, twenty-six,
-Had his cart and his scales taken by a city inspector,
+On the seventeenth of December, in {{p|Sidi Bouzid}}, a fruit seller,
+{{c|Mohamed Bouazizi}}, twenty-six, had his cart and his scales taken by an inspector,
 And went to the governor's office to complain, and was not heard,
-And went back with a can of fuel and set himself alight in front of the building.
-His town rose that night.
+And went back with a can of fuel and set himself alight, and the town rose for its protector.
+
 He lay burned in a hospital for eighteen days.
-The rest is the next year.
+The rest is the next year, and the next year is mine.
+The fire he lit would cross the whole of the {{x|Arab}} world,
+And I would start the thread of my life in the same year, at the same line.
 
 ## The year held
 
-A capital fallen in {{p|Haiti}}, a gold in {{p|Vancouver}}, spending made speech,
-The oil, the ash, the thirty-three in the shelter,
-{{p|Greece}} lent its own ruin, the helicopter film and the cables,
-A worm in the centrifuges, a photograph made old on purpose,
-An empty chair in {{p|Oslo}}, a kettle in the rain in {{p|Toronto}},
-And a man on fire in {{p|Sidi Bouzid}}.
+A capital fallen in {{p|Haiti}}, a golden goal in {{p|Vancouver}}, spending made speech,
+The oil, the ash, the thirty-three brought up in the {{x|Phoenix}} from the mine,
+{{p|Greece}} lent its own ruin, a soldier who could not stay silent, a worm in the centrifuges,
+An empty chair in {{p|Oslo}}, and a man on fire in {{p|Sidi Bouzid}}, the sign.
 
-Refuse the consolation that a secret is safe because it is the state's.
-Refuse the consolation that one man's fire is one man's.
+I was fourteen, and the country made one sound on the ice,
+And the next year the faith would begin, on the fifth Easter, and I would keep it from then.
+This is the year before: the cables, the oil, the fire,
+And the girl of fourteen who did not know yet that she would begin again.
