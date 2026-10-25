@@ -25,7 +25,7 @@ And the fog lifted at eight in the morning, and they fought,
 And at noon the lord {{c|Kobayakawa}}, on his hill, who had professed
 Himself for the west, and had promised the east in secret, and sought
 
-To wait as well, sat still, until, the story goes, {{c|Ieyasu}}'s guns fired
+To wait as well, sat still, until {{c|Ieyasu}}'s guns fired
 Up the hill at him to make him choose, and he came down
 On the west's flank. By afternoon the west was broken, tired,
 Fleeing into the hills. {{c|Ishida Mitsunari}}, who wore the crown

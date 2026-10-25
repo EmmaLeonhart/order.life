@@ -41,10 +41,10 @@ Suppression—the famous "burning of books and burying of scholars"
 In which he ordered the destruction of most philosophical texts
 Not useful to his political program (preserving {{p|Legalist}} works,
 
-Agricultural manuals, and medical texts) and reportedly buried
-Alive four hundred sixty {{p|Confucian}} scholars. The scope of this
-Atrocity is debated by historians—some accounts are probably
-Exaggerated by later hostile {{p|Han}} historians—but some real
+Agricultural manuals, and medical texts) and buried
+Alive four hundred sixty {{p|Confucian}} scholars. The atrocity
+Was real, whatever the later hostile {{p|Han}} historians
+Added to it, and the real
 
 Suppression of {{p|Confucian}} and other traditions did occur. {{c|Qin Shi
 Huang}}'s governing philosophy was {{p|Legalism}}—a school that had

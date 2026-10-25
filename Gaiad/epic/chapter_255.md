@@ -90,7 +90,7 @@ Who went into the mud. He named him {{c|Angad}}, part of my own limb,
 And bowed to him. The light passed from one lamp to the next, they said,
 Not by blood, as {{c|Marozia}}'s house had passed the keys. Not him.
 
-In 1539 he died at {{p|Kartarpur}}. The story goes
+In 1539 he died at {{p|Kartarpur}}, and this is how it goes:
 That {{c|Hindus}} wished to burn him and the {{c|Muslims}} wished to bury,
 And they argued over him, and when they lifted the cloth, the rows
 Of flowers were all that lay there. They divided them, a very

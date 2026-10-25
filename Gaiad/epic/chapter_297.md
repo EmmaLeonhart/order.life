@@ -42,7 +42,7 @@ King's name, read for the first time in fourteen hundred years. The torn
 
 Veil. The signs were sounds and meanings both, a script like any other,
 Not a hidden wisdom: a language, with grammar, spoken by people.
-He ran, the story goes, to his brother's office, and cried, brother,
+He ran to his brother's office, and cried, brother,
 *I've got it!*, and fainted, and lay for five days. The steeple
 
 Of a thousand years of misreading fell. Within months he had the system.
