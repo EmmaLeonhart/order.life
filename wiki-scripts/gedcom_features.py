@@ -79,8 +79,8 @@ class Features:
             tn, why = self.temple[qid]
             name(tn, f"temple name (generated; {val(why)})", "temple names")
         if qid in self.horus:
-            hn, gloss = self.horus[qid]
-            name(hn, f"Horus name (generated): {gloss}", "Horus names")
+            hn, gloss, kind = self.horus[qid]
+            name(hn, f"Horus name ({kind}): {gloss}", "Horus names")
         if qid in self.abrahamic:
             an, temple, why = self.abrahamic[qid]
             name(an, f"Abrahamic name, from the temple name {val(temple)} ({val(why)})", "Abrahamic names")

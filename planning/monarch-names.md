@@ -45,3 +45,16 @@ recorded deeds, in the neo-kun'yomi table where the root is there (`neo-kunyomi-
 
 Typed NAME records in `export_gedcom7.py` (`PHRASE temple name`, `PHRASE Horus name`), and a column on
 the person pages.
+
+## Applied, 2026-10-25
+
+- **Horus names vary.** Strong Bull and a second element from the meaning of the ruler's temple name (generated,
+  recorded, or by place), as in the New Kingdom's kꜣ-nḫt mrj-mꜣꜥt; with no temple name, from the qid. 2,584
+  generated names in 50 forms (they were 2,550 of one form).
+- **Every Chinese emperor has an Abrahamic name** (249, up from 54). Where the record gives no temple name, the
+  name comes from the emperor's place among the holders of the position, and the note says so.
+- **Pharaohs keep their attested Horus names.** `wiki-scripts/fetch_pharaoh_names.py` reads the Infobox pharaoh of
+  each pharaoh's English Wikipedia article into `wikibase/analysis/pharaoh_names.tsv`: 47 attested. The other 41
+  are restored and marked so: the Ptolemaic ḥwnw "the Youth", Horus and the king's name for the earliest kings,
+  otherwise Strong Bull alone.
+- The GEDCOM writes each Horus name as generated, attested or restored.

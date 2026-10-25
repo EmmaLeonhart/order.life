@@ -513,10 +513,10 @@ def build_gedcom7(out_path, extra_lang=None, graft="emma"):
             w(f"3 PHRASE temple name (generated; {val(why)})")
             n_mon += 1
         if qid in horus_names:
-            hn, gloss = horus_names[qid]
+            hn, gloss, kind = horus_names[qid]
             w(f"1 NAME {hn}")
             w("2 TYPE OTHER")
-            w(f"3 PHRASE Horus name (generated): {gloss}")
+            w(f"3 PHRASE Horus name ({kind}): {gloss}")
             n_mon += 1
         if qid in abrahamic_names:
             an, temple, why = abrahamic_names[qid]
