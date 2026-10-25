@@ -120,6 +120,21 @@ def resolved_names():
 GED_MONTHS = ["JAN", "FEB", "MAR", "APR", "MAY", "JUN", "JUL", "AUG", "SEP", "OCT", "NOV", "DEC"]
 
 
+NEG_YEAR = re.compile(r"(?<![^ ])-(\d+)\b")
+
+
+def bce_years(line):
+    """A DATE line with each negative year ("ABT -500", "3 JUN -44") written as GEDCOM 7's "500 BCE".
+
+    The ancestry file carries BC years as "-N" (exact_date reads them so). GEDCOM 7 has no negative years, and
+    webtrees drops the sign: on 2026-10-25 its round trip turned 1,627 such dates into AD ones. A "1500-1510" range
+    keeps its hyphen, since only a minus at the start of a word is a sign.
+    """
+    if not re.match(r"\d+ DATE ", line):
+        return line
+    return NEG_YEAR.sub(lambda m: f"{m.group(1)} BCE", line)
+
+
 def exact_date(d):
     """(astronomical year, month, day) for an exact GEDCOM or ISO date ("20 OCT 1963", "1996-02-26"); else None."""
     d = d.strip()
@@ -967,7 +982,7 @@ def build(out_path):
             i = j
             continue
         i += 1
-    w[:] = out
+    w[:] = [bce_years(line) for line in out]
     add("0 TRLR")
     out_path = Path(out_path)
     out_path.parent.mkdir(parents=True, exist_ok=True)

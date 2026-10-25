@@ -98,7 +98,8 @@ def carriers(lines, notes=None):
                 value = notes.get(value.strip(), "")
             for q in ORDERLIFE_NOTE.findall(value):
                 found["NOTE"].add(q)
-        elif level == 2 and tag == "PAGE":
+        elif level == 2 and tag == "PAGE" and "wikidata.org" not in value:
+            # /gaiad.ged also cites @WIKIDATA@ with the Wikidata page as PAGE; that QID is not ours.
             for q in QID.findall(value):
                 found["SOUR PAGE"].add(q)
     flush()

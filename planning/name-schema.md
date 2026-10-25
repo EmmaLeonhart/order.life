@@ -99,6 +99,52 @@ So: a surname absent from the name line does not survive (Gramps rebuilds the li
 does not survive; the order of NAME records and the first one's primacy do, which is why the exporter puts the
 display form first and writes every other form as its own NAME rather than as TRAN or SURN tricks.
 
+**The same eight through webtrees 2.2.4, 2026-10-25** (CLI `tree-import` and `tree-export` on a SQLite install in the
+parent repo's gitignored `scratch/dl/wt/`). webtrees stores each record's raw GEDCOM, so its export gives back every
+line of all eight as written (header relabelled `GEDC VERS 5.5.1`). What differs is how it reads them, from its name
+index:
+
+| Variant | webtrees shows | Sorted and searched under |
+|---|---|---|
+| A | Emma Leonhart | surname Leonhart, given Emma |
+| B | Emma Leonhart | no surname, given "Emma Leonhart" |
+| C | Emma Leonhart (the line wins for display) | surname Bure (SURN wins for the index) |
+| D | Emma @N.N. (unknown surname shown) | surname Bure |
+| E | both names, the typed display name first and primary | the first: no surname; the second: Leonhart |
+| F | Gwyn ap Peredur | surname "Peredur": the particle "ap" is stripped for sorting |
+| G | Leonhart Emma (the written order kept) | surname Leonhart, given Emma |
+| H | 平蓮娘 | the kanji only; TRAN is not read as a name (only 5.5.1 ROMN, FONE and `_` tags are) |
+
+So webtrees is the gentler program: it keeps the line as written (C and G, which Gramps rewrites), and only its
+index follows SURN. It agrees with Gramps on the point the exporter relies on: the first NAME is primary and every
+other NAME is kept and shown. The zh, ja and ko labels the exporter writes as TRAN are kept but not shown or searched
+(the 2026-10-10 test in `research/gedcom7-programs.md` saw them flagged "Unrecognized GEDCOM code").
+
+**The whole file through webtrees, 2026-10-25.** Two GEDCOM files went in and back out: the standalone
+`export_gedcom7.py` file (131,710 people, 70,691 families) and the live `/gaiad.ged` from `build_gaiad_ged.py` (90,830
+people, 35,462 families). Every person and family came back; `check_gedcom_roundtrip.py` matched 107,317 of 107,317
+order.life ids in the first, with all five carriers and all 128,174 parent links, and gave the live file the same
+result as the file checked against itself. The only text webtrees rewrote: long NOTE and PHRASE lines split with
+CONC (invalid in 7.0, as already known), DATE keywords and months upper-cased ("about 1700" to "ABOUT 1700", "02 Feb
+1866" to "02 FEB 1866"), each "@@" halved, and every negative year lost its sign. Three fixes came out of it:
+
+- **BC years.** The live file carried 1,621 DATE lines with years like "-500" and "ABT -44" from the ancestry file.
+  GEDCOM 7 has no negative years, and webtrees read each one as AD. `build_gaiad_ged.py` now writes them "500 BCE",
+  and they come back from webtrees unchanged.
+- **"@" in names.** The GEDCOM 7 exporter took its name helpers from the 5.5.1 one, which doubles every @. Malay names
+  use @ for "alias" ("Tun Abu Saban@ishak"), so 74 lines said "@@", two literal @s to a 7.0 reader. GEDCOM 7 doubles
+  only a leading @; `export_gedcom7.py` now halves what the 5.5.1 helper doubled. One label is itself damaged
+  ("Pendekar Ralip @@ Deralip", Q65171) and goes with the damaged-labels work.
+- **The checker.** `check_gedcom_roundtrip.py` read the Wikidata QID in a `SOUR @WIKIDATA@` PAGE as an order.life id,
+  which made 74 live records look as if they matched two people; it now skips wikidata.org pages. The 39 that still
+  match more than one person carry two order.life ids in the live file itself (text individuals that the entity
+  resolution joined), and are the same before and after webtrees.
+
+webtrees' own CLI importer has two bugs that the web upload does not: it does not strip a byte-order mark (the file's
+HEAD is rejected), and it counts bytes read wrongly and stops early (the first try loaded 14,915 of 70,691 families
+and reported success). The runs above stripped the mark and fixed the loop in the scratch copy; the per-record import
+is the same code the web upload uses. RootsMagic and MyHeritage remain: they need Emma's app and account.
+
 **Readings are not names (Emma, 2026-10-15):** "there's the transliteration of somebody's name, and then there's also,
 like, their Chinese name"; "this is not the same as somebody's Chinese name." So a person can carry three separate
 things, none overriding another: their real labels (zh, ja, ko from the wikibase); their **Chinese name**, the schema

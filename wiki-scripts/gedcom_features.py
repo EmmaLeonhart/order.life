@@ -21,7 +21,8 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import export_gedcom7 as g7
 from chinese_names import chinese_name
-from export_gedcom import SEX_FEMALE, SEX_MALE, clean_name, load, name_lines
+from export_gedcom import SEX_FEMALE, SEX_MALE, load
+from export_gedcom7 import clean_name, name_lines
 from monarch_names import build as build_monarch_names
 from neo_kunyomi import kanji_for
 

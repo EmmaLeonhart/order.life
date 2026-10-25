@@ -28,8 +28,20 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 from neo_kunyomi import kanji_for
 from chinese_names import chinese_name
 from monarch_names import build as build_monarch_names
-from export_gedcom import (ANA, MONTHS, SEX_FEMALE, SEX_MALE, clean_name, couples_for_child,
-                           load, name_lines)
+from export_gedcom import (ANA, MONTHS, SEX_FEMALE, SEX_MALE, couples_for_child, load)
+from export_gedcom import clean_name as clean_name_551, name_lines as name_lines_551
+
+
+# export_gedcom's name helpers double every @, the GEDCOM 5.5.1 escape. GEDCOM 7 doubles only a leading @
+# (val() does that), so a Malay "Tun Abu Saban@ishak" came out as "Saban@@ishak", two literal @s to a 7.0
+# reader (found 2026-10-25 in the webtrees round trip). Every @ out of esc() is one of a pair, so halving
+# them gives back the source exactly.
+def clean_name(text):
+    return clean_name_551(text).replace("@@", "@")
+
+
+def name_lines(label, gedcom_name):
+    return [n.replace("@@", "@") for n in name_lines_551(label, gedcom_name)]
 
 ORDERLIFE_QID_URI = "https://order.life/wikibase/entity/"
 # Languages whose labels go into the main file as TRAN (name schema: zh, ja, ko beside English); labels.tsv
