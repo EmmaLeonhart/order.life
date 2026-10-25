@@ -758,6 +758,11 @@ def _ical_fold(line):
     return "\r\n ".join(chunks) + "\r\n"
 
 
+def _ical_text(value):
+    """Escape an iCal TEXT value (RFC 5545 3.3.11): backslash, semicolon, comma, newline."""
+    return value.replace("\\", "\\\\").replace(";", "\\;").replace(",", "\\,").replace("\n", "\\n")
+
+
 # RFC 5545 requires DTSTAMP on every VEVENT; strict clients (Outlook) drop events without it.
 _ICAL_DTSTAMP = f"DTSTAMP:{datetime.datetime.now(datetime.timezone.utc):%Y%m%dT%H%M%SZ}"
 
@@ -770,7 +775,7 @@ def _vevent(dtstart, summary, description, uid):
         "BEGIN:VEVENT",
         f"DTSTART;VALUE=DATE:{dtstart:%Y%m%d}",
         f"DTEND;VALUE=DATE:{dtend:%Y%m%d}",
-        f"SUMMARY:{summary}",
+        f"SUMMARY:{_ical_text(summary)}",
         f"DESCRIPTION:{desc_esc}",
         _ICAL_DTSTAMP,
         f"UID:{uid}",
@@ -887,7 +892,7 @@ def _vevent_span(dtstart, dtend_excl, summary, description, uid):
         "BEGIN:VEVENT",
         f"DTSTART;VALUE=DATE:{dtstart:%Y%m%d}",
         f"DTEND;VALUE=DATE:{dtend_excl:%Y%m%d}",
-        f"SUMMARY:{summary}",
+        f"SUMMARY:{_ical_text(summary)}",
         f"DESCRIPTION:{desc_esc}",
         _ICAL_DTSTAMP,
         f"UID:{uid}",
@@ -1566,9 +1571,9 @@ def _ical_prayers(first_day, lang="en"):
             f"DTSTART;TZID=America/Los_Angeles:{begin:%Y%m%dT%H%M%S}",
             f"DTEND;TZID=America/Los_Angeles:{end:%Y%m%dT%H%M%S}",
             rrule,
-            f"SUMMARY:{summ_ja if lang == 'ja' else summ_en}",
+            f"SUMMARY:{_ical_text(summ_ja if lang == 'ja' else summ_en)}",
             f"DESCRIPTION:{desc_esc}",
-            "DTSTAMP:20261023T000000Z",
+            _ICAL_DTSTAMP,
             f"UID:prayer-{key}@order.life",
             "END:VEVENT",
         ]
@@ -1647,8 +1652,8 @@ def generate_ical_files(site_dir):
             "BEGIN:VCALENDAR\r\n"
             "VERSION:2.0\r\n"
             "PRODID:-//Order of Life//Gaian Calendar//EN\r\n"
-            f"X-WR-CALNAME:{cfg['calname']}\r\n"
-            f"X-WR-CALDESC:{cfg['caldesc']}\r\n"
+            + _ical_fold(f"X-WR-CALNAME:{cfg['calname']}")
+            + _ical_fold(f"X-WR-CALDESC:{cfg['caldesc']}") +
             "CALSCALE:GREGORIAN\r\n"
             "METHOD:PUBLISH\r\n"
         )
