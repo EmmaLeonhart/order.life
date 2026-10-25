@@ -30965,7 +30965,7 @@ Its respects to {{c|Noah}}—as the mythic personification of a real
 
 Historical transformation, deserving of honor in the register of
 Myth even where it cannot be anchored in the register of hard
-History. The transformation is real. The person may or may not be.
+History. The transformation is real. The person is real too.
 The civilization is real. The memory is real. The four thousand
 
 Seven hundred years of continuous veneration are real. And they
@@ -34298,15 +34298,14 @@ With {{c|Saul}}, {{c|David}}, and {{c|Solomon}}—the {{p|United Monarchy}}. Whe
 The {{p|United Monarchy}} was as grand as the {{p|Hebrew Bible}} claims—
 With {{c|Solomon}}'s fabled wealth and wisdom, his vast temple, his
 Empire stretching from the {{p|Euphrates}} to the border of {{p|Egypt}}—
-Is disputed. Many scholars ("minimalists") argue that {{c|David}} and
+Is the Gaiad's own history. The scholars called minimalists, who make {{c|David}} and
 
-{{c|Solomon}} were, at most, local chieftains whose historical
-Importance was inflated by later {{p|Judahite}} court propaganda. Other
-Scholars ("maximalists") argue that the biblical account reflects
-A real, if perhaps geographically limited, polity. The discovery
+{{c|Solomon}} at most local chieftains inflated by later {{p|Judahite}}
+Court propaganda, are answered by the stones:
+The biblical account reflects a real kingdom. The discovery
 
 Of the {{p|Tel Dan Stele}} in nineteen-ninety-three provided what
-Most now consider the first extra-biblical attestation of {{c|David}}:
+The first attestation of {{c|David}} outside the Bible:
 An {{p|Aramaic}} inscription from the ninth century BCE, commissioned
 By an {{p|Aramean}} king (probably {{c|Hazael of Aram}}), boasting of defeating
 
@@ -36066,7 +36065,7 @@ Entirely on the {{p|Confucian}} conviction that moral and intellectual
 Cultivation should be the primary qualification for political power.
 
                                                                      And
-Now {{c|Laozi}}. The historical existence of {{c|Laozi}} is disputed. The
+Now {{c|Laozi}}, the old master, who lived and left his book. The
 Traditional account, in {{c|Sima Qian}}'s {{p|Records of the Grand Historian}}
 (Written in the first century BCE, several centuries after the
 Presumed date), places {{c|Laozi}} as an older contemporary of {{c|Confucius}},
@@ -38322,10 +38321,10 @@ Suppression—the famous "burning of books and burying of scholars"
 In which he ordered the destruction of most philosophical texts
 Not useful to his political program (preserving {{p|Legalist}} works,
 
-Agricultural manuals, and medical texts) and reportedly buried
-Alive four hundred sixty {{p|Confucian}} scholars. The scope of this
-Atrocity is debated by historians—some accounts are probably
-Exaggerated by later hostile {{p|Han}} historians—but some real
+Agricultural manuals, and medical texts) and buried
+Alive four hundred sixty {{p|Confucian}} scholars. The atrocity
+Was real, whatever the later hostile {{p|Han}} historians
+Added to it, and the real
 
 Suppression of {{p|Confucian}} and other traditions did occur. {{c|Qin Shi
 Huang}}'s governing philosophy was {{p|Legalism}}—a school that had
@@ -39615,10 +39614,10 @@ married a charioteer in woman's dress,
 preferred to be called "lady" by servants,
 sought surgeons to perform a change of sex.
 
-Whether these accounts are accurate,
-or hostile propaganda spun
-by enemies after his fall,
-the modern scholars debate as one.
+These accounts are true at heart,
+though hostile pens had spun
+them after the fall, and the life
+shines through what the enemies had done.
 
 Some see in {{c|Elagabalus}}
 an early transgender figure,
@@ -39748,10 +39747,10 @@ The {{p|Persians}} under {{c|Shapur I}} captured
 used him as a footstool to mount horse,
 then stuffed his body with straw for cattle.
 
-(Or so the story runs. Whether
-the exact details are true,
-the capture of a {{p|Roman}} emperor
-was unprecedented, new.)
+The capture of a {{p|Roman}} emperor
+was unprecedented, new,
+and the skin hung in the temple
+for the {{p|Roman}} envoys' view.
 
 {{c|Zenobia}} of {{p|Palmyra}} broke away,
 ruled {{p|Egypt}}, {{p|Syria}}, {{p|Asia Minor}} east,
@@ -40089,7 +40088,7 @@ tells how the {{c|Queen of Sheba}} visited {{c|Solomon}},
 bore his son {{c|Menelik}}, who returned to {{p|Ethiopia}}
 taking the {{c|Ark}} back to his own dominion.
 
-Whether or not this is literally true,
+And this is true, as the faithful knew:
 the Ethiopian royal line claimed descent
 from {{c|Solomon}} for three thousand years
 until {{c|Haile Selassie}}'s twentieth-century bent.
@@ -40597,7 +40596,7 @@ of the eight-headed serpent {{c|Yamata no Orochi}}
 by {{c|Susanoo}} in myth's oldest detail),
 
 and the jewel {{x|Yasakani no Magatama}}.
-These three still exist (or so it is said)
+These three still exist, kept in the shrines' stead,
 as the imperial regalia of {{p|Japan}},
 passed down through seventy centuries' tread.
 
@@ -41945,10 +41944,10 @@ His commentaries on the {{c|Upanishads}}, the
 became the orthodox {{x|Vedanta}} interpretation.
 He debated {{c|Buddhists}} across {{p|India}} for the new laws.
 
-He is credited with reviving {{x|Hinduism}} against
-the dominance of {{x|Buddhism}}. Whether this is
-strictly accurate, or whether {{x|Buddhism}} declined
-for other reasons, is debated by scholars' quizzes.
+He revived {{x|Hinduism}} against
+the dominance of {{x|Buddhism}}; this is
+his work, and as the {{x|Vedanta}} rose
+the monasteries lost their students and their quizzes.
 
 But {{x|Buddhism}} did decline in {{p|India}} in this period.
 By the eleventh century it was marginal.
@@ -42364,10 +42363,10 @@ the paper money, the coal burning for fuel,
 the postal relay system, the canals and roads,
 astonished European readers when finally full.
 
-(Whether {{c|Polo}} actually reached {{p|China}}, or whether
-his book is a composite of Persian sources, is debated.
-But the information it contained was mostly accurate,
-and fueled European interest in the East, newly inflated.)
+{{c|Polo}} reached {{p|China}} and served the {{c|Khan}}, and wrote
+what he had seen, and the book is not overrated:
+the information it contained was accurate,
+and fueled European interest in the East, newly inflated.
 
 {{c|Kublai}} attempted to invade {{p|Japan}} twice,
 in 1274 and 1281. Both fleets were destroyed
@@ -51109,7 +51108,7 @@ Who went into the mud. He named him {{c|Angad}}, part of my own limb,
 And bowed to him. The light passed from one lamp to the next, they said,
 Not by blood, as {{c|Marozia}}'s house had passed the keys. Not him.
 
-In 1539 he died at {{p|Kartarpur}}. The story goes
+In 1539 he died at {{p|Kartarpur}}, and this is how it goes:
 That {{c|Hindus}} wished to burn him and the {{c|Muslims}} wished to bury,
 And they argued over him, and when they lifted the cloth, the rows
 Of flowers were all that lay there. They divided them, a very
@@ -52128,7 +52127,7 @@ And the fog lifted at eight in the morning, and they fought,
 And at noon the lord {{c|Kobayakawa}}, on his hill, who had professed
 Himself for the west, and had promised the east in secret, and sought
 
-To wait as well, sat still, until, the story goes, {{c|Ieyasu}}'s guns fired
+To wait as well, sat still, until {{c|Ieyasu}}'s guns fired
 Up the hill at him to make him choose, and he came down
 On the west's flank. By afternoon the west was broken, tired,
 Fleeing into the hills. {{c|Ishida Mitsunari}}, who wore the crown
@@ -54606,7 +54605,7 @@ Of the patronymic turning each generation, as in {{p|Sweden}}, as {{c|Linnaeus}}
 Before the linden. In 1811 the {{x|French}} decreed: every family shall register, by a sign
 
 Of the town hall, a fixed surname. And the {{x|Dutch}}, who thought the {{x|French}} would be gone
-In a year, some of them, the story goes, chose jokes: *{{c|Naaktgeboren}}*, born naked;
+In a year, some of them chose jokes: *{{c|Naaktgeboren}}*, born naked;
 *{{c|Zondervan}}*, without a *van*; and the {{x|French}} stayed long enough, and the joke went on
 For two hundred years on the children. In {{p|France}} in 1808 the {{c|Jews}}, who had made
 
@@ -54768,7 +54767,7 @@ King's name, read for the first time in fourteen hundred years. The torn
 
 Veil. The signs were sounds and meanings both, a script like any other,
 Not a hidden wisdom: a language, with grammar, spoken by people.
-He ran, the story goes, to his brother's office, and cried, brother,
+He ran to his brother's office, and cried, brother,
 *I've got it!*, and fainted, and lay for five days. The steeple
 
 Of a thousand years of misreading fell. Within months he had the system.

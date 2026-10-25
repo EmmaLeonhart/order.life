@@ -1200,7 +1200,7 @@ Of the patronymic turning each generation, as in {{p|Sweden}}, as {{c|Linnaeus}}
 Before the linden. In 1811 the {{x|French}} decreed: every family shall register, by a sign
 
 Of the town hall, a fixed surname. And the {{x|Dutch}}, who thought the {{x|French}} would be gone
-In a year, some of them, the story goes, chose jokes: *{{c|Naaktgeboren}}*, born naked;
+In a year, some of them chose jokes: *{{c|Naaktgeboren}}*, born naked;
 *{{c|Zondervan}}*, without a *van*; and the {{x|French}} stayed long enough, and the joke went on
 For two hundred years on the children. In {{p|France}} in 1808 the {{c|Jews}}, who had made
 
@@ -1362,7 +1362,7 @@ King's name, read for the first time in fourteen hundred years. The torn
 
 Veil. The signs were sounds and meanings both, a script like any other,
 Not a hidden wisdom: a language, with grammar, spoken by people.
-He ran, the story goes, to his brother's office, and cried, brother,
+He ran to his brother's office, and cried, brother,
 *I've got it!*, and fainted, and lay for five days. The steeple
 
 Of a thousand years of misreading fell. Within months he had the system.

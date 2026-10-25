@@ -393,7 +393,7 @@ Who went into the mud. He named him Angad, part of my own limb,
 And bowed to him. The light passed from one lamp to the next, they said,
 Not by blood, as Marozia's house had passed the keys. Not him.
 
-In 1539 he died at {{p|Kartarpur}}. The story goes
+In 1539 he died at {{p|Kartarpur}}, and this is how it goes:
 That Hindus wished to burn him and the Muslims wished to bury,
 And they argued over him, and when they lifted the cloth, the rows
 Of flowers were all that lay there. They divided them, a very
@@ -1412,7 +1412,7 @@ And the fog lifted at eight in the morning, and they fought,
 And at noon the lord Kobayakawa, on his hill, who had professed
 Himself for the west, and had promised the east in secret, and sought
 
-To wait as well, sat still, until, the story goes, Ieyasu's guns fired
+To wait as well, sat still, until Ieyasu's guns fired
 Up the hill at him to make him choose, and he came down
 On the west's flank. By afternoon the west was broken, tired,
 Fleeing into the hills. Ishida Mitsunari, who wore the crown

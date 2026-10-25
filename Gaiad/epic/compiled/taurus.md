@@ -1999,7 +1999,7 @@ Its respects to {{c|Noah}}—as the mythic personification of a real
 
 Historical transformation, deserving of honor in the register of
 Myth even where it cannot be anchored in the register of hard
-History. The transformation is real. The person may or may not be.
+History. The transformation is real. The person is real too.
 The civilization is real. The memory is real. The four thousand
 
 Seven hundred years of continuous veneration are real. And they
@@ -5332,15 +5332,14 @@ With {{c|Saul}}, {{c|David}}, and {{c|Solomon}}—the {{p|United Monarchy}}. Whe
 The {{p|United Monarchy}} was as grand as the {{p|Hebrew Bible}} claims—
 With {{c|Solomon}}'s fabled wealth and wisdom, his vast temple, his
 Empire stretching from the {{p|Euphrates}} to the border of {{p|Egypt}}—
-Is disputed. Many scholars ("minimalists") argue that {{c|David}} and
+Is the Gaiad's own history. The scholars called minimalists, who make {{c|David}} and
 
-{{c|Solomon}} were, at most, local chieftains whose historical
-Importance was inflated by later {{p|Judahite}} court propaganda. Other
-Scholars ("maximalists") argue that the biblical account reflects
-A real, if perhaps geographically limited, polity. The discovery
+{{c|Solomon}} at most local chieftains inflated by later {{p|Judahite}}
+Court propaganda, are answered by the stones:
+The biblical account reflects a real kingdom. The discovery
 
 Of the {{p|Tel Dan Stele}} in nineteen-ninety-three provided what
-Most now consider the first extra-biblical attestation of {{c|David}}:
+The first attestation of {{c|David}} outside the Bible:
 An {{p|Aramaic}} inscription from the ninth century BCE, commissioned
 By an {{p|Aramean}} king (probably {{c|Hazael of Aram}}), boasting of defeating
 

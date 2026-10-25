@@ -147,7 +147,7 @@ Entirely on the {{p|Confucian}} conviction that moral and intellectual
 Cultivation should be the primary qualification for political power.
 
                                                                      And
-Now Laozi. The historical existence of Laozi is disputed. The
+Now Laozi, the old master, who lived and left his book. The
 Traditional account, in Sima Qian's {{p|Records of the Grand Historian}}
 (Written in the first century BCE, several centuries after the
 Presumed date), places Laozi as an older contemporary of Confucius,
@@ -2403,10 +2403,10 @@ Suppression—the famous "burning of books and burying of scholars"
 In which he ordered the destruction of most philosophical texts
 Not useful to his political program (preserving {{p|Legalist}} works,
 
-Agricultural manuals, and medical texts) and reportedly buried
-Alive four hundred sixty {{p|Confucian}} scholars. The scope of this
-Atrocity is debated by historians—some accounts are probably
-Exaggerated by later hostile {{p|Han}} historians—but some real
+Agricultural manuals, and medical texts) and buried
+Alive four hundred sixty {{p|Confucian}} scholars. The atrocity
+Was real, whatever the later hostile {{p|Han}} historians
+Added to it, and the real
 
 Suppression of {{p|Confucian}} and other traditions did occur. Qin Shi
 Huang's governing philosophy was {{p|Legalism}}—a school that had
@@ -3696,10 +3696,10 @@ married a charioteer in woman's dress,
 preferred to be called "lady" by servants,
 sought surgeons to perform a change of sex.
 
-Whether these accounts are accurate,
-or hostile propaganda spun
-by enemies after his fall,
-the modern scholars debate as one.
+These accounts are true at heart,
+though hostile pens had spun
+them after the fall, and the life
+shines through what the enemies had done.
 
 Some see in Elagabalus
 an early transgender figure,
@@ -3829,10 +3829,10 @@ Valerian the {{p|Roman}} emperor in battle,
 used him as a footstool to mount horse,
 then stuffed his body with straw for cattle.
 
-(Or so the story runs. Whether
-the exact details are true,
-the capture of a {{p|Roman}} emperor
-was unprecedented, new.)
+The capture of a {{p|Roman}} emperor
+was unprecedented, new,
+and the skin hung in the temple
+for the {{p|Roman}} envoys' view.
 
 Zenobia of {{p|Palmyra}} broke away,
 ruled {{p|Egypt}}, {{p|Syria}}, {{p|Asia Minor}} east,
@@ -4170,7 +4170,7 @@ tells how the Queen of Sheba visited Solomon,
 bore his son Menelik, who returned to {{p|Ethiopia}}
 taking the Ark back to his own dominion.
 
-Whether or not this is literally true,
+And this is true, as the faithful knew:
 the Ethiopian royal line claimed descent
 from Solomon for three thousand years
 until Haile Selassie's twentieth-century bent.
@@ -4678,7 +4678,7 @@ of the eight-headed serpent Yamata no Orochi
 by Susanoo in myth's oldest detail),
 
 and the jewel {{x|Yasakani no Magatama}}.
-These three still exist (or so it is said)
+These three still exist, kept in the shrines' stead,
 as the imperial regalia of {{p|Japan}},
 passed down through seventy centuries' tread.
 
