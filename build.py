@@ -1453,9 +1453,7 @@ def _ical_year_daily(gy, month_display, lang="en"):
             title = _chapter_title((mn - 1) * 28 + dn) if mn <= 13 else ""
             if title:
                 summary += f" · \U0001F4D6 {title}"
-            # The names live in ancestors.ics: with them the daily feed was 11.5 MB and would not sync
-            # (Emma, 2026-10-24, chose a separate ancestors feed).
-            desc    = "\n".join([gaian_day_description(gy, mn, dn)] + _ancestor_lines(mn, dn, names=False))
+            desc    = "\n".join([gaian_day_description(gy, mn, dn)] + _ancestor_lines(mn, dn))
             uid     = f"gaian-{gy}-{mn:02d}-{dn:02d}-daily@order.life"
             events.append((gd, _vevent(gd, summary, desc, uid)))
 
@@ -1626,16 +1624,6 @@ def generate_ical_files(site_dir):
             "seasons":  True,
             "prayers":  True,
             "lang":     "ja",
-        },
-        "ancestors.ics": {
-            "years":    range(current_ge, current_ge + 1),
-            "calname":  "Gaian Calendar: Ancestors",
-            "caldesc":  "Every ancestor born or died on each day of the current Gaian year",
-            "daily":    False,
-            "seasons":  False,
-            "holidays": False,
-            "ancestors": True,
-            "lang":     "en",
         },
         "gaian-holidays-extended.ics": {
             "years":    range(12000, 12041),
