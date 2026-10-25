@@ -11,7 +11,6 @@ A posting is not a city.
 
 In March 1989, at the laboratory by {{p|Geneva}},
 {{c|Tim Berners-Lee}} gave his supervisor a proposal.
-The day of the month is not settled.
 {{c|Mike Sendall}} wrote on it.
 The words were vague but exciting.
 The proposal asked for a linked system,

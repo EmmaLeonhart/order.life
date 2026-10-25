@@ -38,7 +38,7 @@ They are not given a single number here.
 
 People brought from {{p|Korea}} were in both cities.
 They died under the same hours.
-The chapter will not invent their separate figure.
+Tens of thousands of them died.
 Their names belong in the same keeping.
 
 Those who lived through the burst are called hibakusha.

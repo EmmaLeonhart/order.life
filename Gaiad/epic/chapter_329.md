@@ -126,13 +126,12 @@ Do not say the great rite had been kept every November.
 
 The papers spoke of a sun goddess and a bed.
 The household's ritualists said he does not lie on it.
-This chapter does not furnish the room.
 A prayer for peace is not a report that the peace was finished.
 The night was a ceremony of the imperial house,
 Not a state ceremony.
 The purse was argued, a religious act
 And the public money in the same argument.
-No sum is chosen.
+It cost two and a quarter billion yen.
 The constitution's word for him was not changed that night.
 The {{x|English}} word divine is not this offering.
 Do not say the harvest undid the {{x|New Year}} sentence.

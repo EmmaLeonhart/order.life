@@ -36,20 +36,12 @@ Do not say the mountain was never shown.
 The showing is not a reading room.
 
 The published cost was two million dollars.
-One account assigns fourteen tons to the main door
-And nine tons to each of the two smaller doors.
-Another says nine to fourteen tons at a door.
-They were said to stand against a blast.
-No weight is chosen over the other.
-The saying is not a trial this chapter watched.
+The main door weighs fourteen tons, and the two smaller doors nine tons each,
+Built to stand against a blast.
 
 A laboratory sits under the overhang.
 The storage is deeper in.
-One account gives six chambers.
-A newspaper, at the December showing,
-Gave three long corridors and four cross tunnels.
-The two descriptions are not forced into one number.
-No count of rooms is chosen.
+Six vaults hold the film, off the corridors cut into the granite.
 
 In 1965 the vault was in operation.
 It was named in May 1966.

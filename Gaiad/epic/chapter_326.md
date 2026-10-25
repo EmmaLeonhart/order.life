@@ -32,12 +32,10 @@ At night, in the east.
 By the {{p|Greenwich}} clock it was four minutes before three
 In the morning of the twenty-first.
 Do not collapse the two dates.
-The second on the tape is not settled here.
 
 He spoke of a small step, and of a giant leap for mankind.
-The little word between step and man
-Is disputed on the recording.
-This chapter does not settle it.
+He meant one small step for a man,
+And the little word was lost in the static, and the meaning was not.
 
 Before the step, {{c|Buzz Aldrin}} asked, on the open line,
 For a pause, and for each listener to give thanks

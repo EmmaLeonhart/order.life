@@ -37,7 +37,6 @@ On the first of December, {{p|Ukraine}} voted
 On the act its parliament had passed on the twenty-fourth of August.
 The question was whether the voter supported that act.
 Of the ballots, more than ninety in a hundred were yes.
-This chapter does not split the later fraction.
 {{c|Leonid Kravchuk}} was elected the same day.
 A republic's vote is not a vote of the whole union.
 

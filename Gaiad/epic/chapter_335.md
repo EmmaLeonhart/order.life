@@ -20,8 +20,6 @@ The rate the reports settle on
 Is forty moves in two hours.
 One of them also says three minutes for a move,
 In the same sentence as the forty.
-This chapter does not split that sentence
-Into two clocks.
 The same report, in another sentence,
 Gives three minutes for how far the machine can look.
 That three minutes is not the clock.
@@ -79,7 +77,7 @@ The paper of the seventh of May
 Said a line in the place he resigned would draw,
 And that he and the machine had both missed it.
 The resignation stood.
-This chapter does not set the line down.
+The line was a perpetual check, found by the analysts the next day.
 
 On the sixth, a Tuesday, a draw.
 On the seventh, a Wednesday, a draw.

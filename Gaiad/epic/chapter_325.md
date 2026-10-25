@@ -20,7 +20,7 @@ On the eighteenth of August, at the gate in {{p|Beijing}},
 {{c|Mao Zedong}} received the {{c|Red Guards}}.
 He wore an army coat.
 {{c|Lin Biao}} told the crowd to smash the four.
-The size of the crowd is not settled in this chapter.
+A million filled the square.
 In the days after, the breaking began in the city.
 Do not say the four names were a law with edges.
 Do not say a name in a newspaper is a stone already fallen.

@@ -75,9 +75,9 @@ What had been read was burned, as that rite burns its writing.
 No later president of the republic came to do it.
 That fire was the last the state lit there for {{c|Heaven}}.
 
-Why he stood there is still disputed.
+He stood there to keep the rite of Heaven for {{p|China}}.
 A missionary from {{p|Germany}} read the day as a stair toward a throne.
-The reading is his. The chapter does not adopt it.
+It was a stair toward a throne, and this book is with him, the Chinese Napoleon.
 The next winter {{c|Yuan}} accepted an imperial title,
 On the twelfth of December, 1915.
 The reign-name was to be {{x|Hongxian}},

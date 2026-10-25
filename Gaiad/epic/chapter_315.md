@@ -24,8 +24,8 @@ The institutions of mercy,
 Destroyed in a plan to blot out the name of {{p|Israel}}
 From under the sky.
 The statute says six million.
-This chapter does not contain the names.
-A figure in a law is not yet a name kept.
+The names are kept in {{x|Yad Vashem}}'s book of names,
+And this faith takes them into its ancestor days, every one.
 
 The killing was a procedure
 Before any memorial had a statute.

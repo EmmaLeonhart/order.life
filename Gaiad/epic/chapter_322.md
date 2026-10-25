@@ -93,8 +93,8 @@ The formal trousers.
 At seven a girl took the wide sash.
 The visit to a shrine, as households keep it,
 Spread in the {{x|Meiji}} years.
-Do not say a shogun fixed the fifteenth.
-That story is told, and it is not settled.
+The tradition says the shogun {{c|Tokugawa Tsunayoshi}} fixed the fifteenth for his son,
+And this book keeps the tradition.
 
 The child is taken to a shrine.
 Thanks are given that the child has lived.
@@ -111,9 +111,9 @@ The calendar of this book puts them on one day.
 Count both. Do not make them one cause.
 
 A frequency can say that a body is passing.
-It cannot say whether the body should have been sent.
+The body should have been sent: going to space is part of life's purpose.
 A count of three ages can say a child has lived this far.
-It cannot say the child will live a thousand years.
+The child is wished a thousand years, and the wish is a prayer of life.
 The rocket was built for a warhead.
 The night it flew, it carried a sphere that beeped.
 The beep is a finite means.

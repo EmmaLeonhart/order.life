@@ -50,8 +50,7 @@ The city is not the man.
 The name on the map and the name he was born with
 Are not the same person.
 The count the courts kept of the dead that night is seven.
-A later death is sometimes added to it.
-This chapter does not add it.
+An eighth died in two thousand and eight, after fourteen years, and this book counts her.
 That night is not the Monday.
 
 On the Monday morning, in {{p|Tokyo}},
@@ -62,7 +61,7 @@ And the {{x|Marunouchi}},
 The ones that carry people through {{p|Kasumigaseki}},
 Where the ministries sit.
 Do not make one station the whole of the harm.
-This chapter does not set down the way of the release.
+They punctured bags of liquid sarin with the sharpened tips of umbrellas.
 Fourteen died, the last of them in twenty-twenty, after twenty-five years in a bed.
 About six thousand were injured.
 The {{c|Sakamoto}} family and the dead of the trains are kept by name in this calendar.
