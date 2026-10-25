@@ -50,7 +50,7 @@ tells how the {{c|Queen of Sheba}} visited {{c|Solomon}},
 bore his son {{c|Menelik}}, who returned to {{p|Ethiopia}}
 taking the {{c|Ark}} back to his own dominion.
 
-Whether or not this is literally true,
+And this is true, as the faithful knew:
 the Ethiopian royal line claimed descent
 from {{c|Solomon}} for three thousand years
 until {{c|Haile Selassie}}'s twentieth-century bent.

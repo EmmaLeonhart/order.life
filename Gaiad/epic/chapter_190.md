@@ -26,7 +26,7 @@ of the eight-headed serpent {{c|Yamata no Orochi}}
 by {{c|Susanoo}} in myth's oldest detail),
 
 and the jewel {{x|Yasakani no Magatama}}.
-These three still exist (or so it is said)
+These three still exist, kept in the shrines' stead,
 as the imperial regalia of {{p|Japan}},
 passed down through seventy centuries' tread.
 

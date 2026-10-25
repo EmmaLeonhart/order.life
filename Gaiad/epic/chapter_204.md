@@ -30,10 +30,10 @@ the paper money, the coal burning for fuel,
 the postal relay system, the canals and roads,
 astonished European readers when finally full.
 
-(Whether {{c|Polo}} actually reached {{p|China}}, or whether
-his book is a composite of Persian sources, is debated.
-But the information it contained was mostly accurate,
-and fueled European interest in the East, newly inflated.)
+{{c|Polo}} reached {{p|China}} and served the {{c|Khan}}, and wrote
+what he had seen, and the book is not overrated:
+the information it contained was accurate,
+and fueled European interest in the East, newly inflated.
 
 {{c|Kublai}} attempted to invade {{p|Japan}} twice,
 in 1274 and 1281. Both fleets were destroyed

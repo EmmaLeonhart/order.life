@@ -204,7 +204,7 @@ Its respects to {{c|Noah}}—as the mythic personification of a real
 
 Historical transformation, deserving of honor in the register of
 Myth even where it cannot be anchored in the register of hard
-History. The transformation is real. The person may or may not be.
+History. The transformation is real. The person is real too.
 The civilization is real. The memory is real. The four thousand
 
 Seven hundred years of continuous veneration are real. And they

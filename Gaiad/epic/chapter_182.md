@@ -35,10 +35,10 @@ married a charioteer in woman's dress,
 preferred to be called "lady" by servants,
 sought surgeons to perform a change of sex.
 
-Whether these accounts are accurate,
-or hostile propaganda spun
-by enemies after his fall,
-the modern scholars debate as one.
+These accounts are true at heart,
+though hostile pens had spun
+them after the fall, and the life
+shines through what the enemies had done.
 
 Some see in {{c|Elagabalus}}
 an early transgender figure,

@@ -35,10 +35,10 @@ The {{p|Persians}} under {{c|Shapur I}} captured
 used him as a footstool to mount horse,
 then stuffed his body with straw for cattle.
 
-(Or so the story runs. Whether
-the exact details are true,
-the capture of a {{p|Roman}} emperor
-was unprecedented, new.)
+The capture of a {{p|Roman}} emperor
+was unprecedented, new,
+and the skin hung in the temple
+for the {{p|Roman}} envoys' view.
 
 {{c|Zenobia}} of {{p|Palmyra}} broke away,
 ruled {{p|Egypt}}, {{p|Syria}}, {{p|Asia Minor}} east,

@@ -144,7 +144,7 @@ Entirely on the {{p|Confucian}} conviction that moral and intellectual
 Cultivation should be the primary qualification for political power.
 
                                                                      And
-Now {{c|Laozi}}. The historical existence of {{c|Laozi}} is disputed. The
+Now {{c|Laozi}}, the old master, who lived and left his book. The
 Traditional account, in {{c|Sima Qian}}'s {{p|Records of the Grand Historian}}
 (Written in the first century BCE, several centuries after the
 Presumed date), places {{c|Laozi}} as an older contemporary of {{c|Confucius}},

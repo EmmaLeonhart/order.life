@@ -25,10 +25,10 @@ His commentaries on the {{c|Upanishads}}, the
 became the orthodox {{x|Vedanta}} interpretation.
 He debated {{c|Buddhists}} across {{p|India}} for the new laws.
 
-He is credited with reviving {{x|Hinduism}} against
-the dominance of {{x|Buddhism}}. Whether this is
-strictly accurate, or whether {{x|Buddhism}} declined
-for other reasons, is debated by scholars' quizzes.
+He revived {{x|Hinduism}} against
+the dominance of {{x|Buddhism}}; this is
+his work, and as the {{x|Vedanta}} rose
+the monasteries lost their students and their quizzes.
 
 But {{x|Buddhism}} did decline in {{p|India}} in this period.
 By the eleventh century it was marginal.
