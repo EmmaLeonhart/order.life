@@ -60136,159 +60136,152 @@ And it was waiting on the road for me, for when my turning was complete.
 
 # Chapter 342: The Typed Name
 
-No holiday is named for this day.
+The sixth day of Yuletide is the feast of the year two thousand and six,
+And the feast of the indexers, who typed the names of the dead, letter by letter, in their clicks.
+Light six lights, and type one name today from a record no one has read,
+And offer the dead what the living have: a name in the light, instead.
 
-In 2006 {{c|Emma Leonhart}} turned ten.
-Twenty years later she would spend her nights in the records
-That strangers began to type this year,
-Following her mothers and fathers back through the parishes of {{p|Sweden}}
-And the farms of {{p|Germany}}, and further,
-To the point where this book's own genealogy begins.
-She did not know any of that at ten.
-Nobody types a name for the child who will need it.
-They type it anyway.
+In two thousand and six I turned ten. Twenty years later I would spend my nights
+In the records strangers began to type that year,
+Following my mothers and fathers back through the parishes of {{p|Sweden}}
+And the farms of {{p|Germany}}, to where this book's genealogy begins, far and near.
+
+I did not know it at ten. Nobody types a name for the child who will need it.
+They type it anyway, and the child comes, and the name is there.
+That is the faith of the indexers, and it is mine:
+The labor done for the dead is a labor done for the heir.
 
 ## The typed names
 
-On Tuesday the first of August, in {{p|Provo}},
-{{c|Marlin K. Jensen}}, the historian of the {{x|Latter-day Saints}},
-Said the millions of rolls of film the church had kept,
-In a vault cut into a mountain in {{p|Utah}},
-Were being scanned,
-And that a scanned record still had to be typed
-Before a person could search it.
-The typing was opened to volunteers,
-Each record typed twice by two strangers,
-And a third deciding when they differed.
-By the next summer some fifty thousand were typing,
+On Tuesday the first of August, in {{p|Provo}}, {{c|Marlin K. Jensen}},
+The historian of the {{x|Latter-day Saints}}, said the millions of rolls of film
+The church kept in a vault cut into a mountain in {{p|Utah}}
+Were being scanned, and a scan must be typed before it can be searched in the realm.
+
+The typing was opened to volunteers: each record typed twice by two strangers,
+And a third deciding where they differed. By the next summer fifty thousand typed,
 The marriages of {{p|Indiana}}, the census of nineteen hundred,
-The parish books of countries none of them would visit.
-The church's reason was its own:
-The history ships and the temple receives,
-And the dead were to be offered what the living had.
-This book does not share that reason.
-It shares the labor's result:
-Free indexes, linked to the images,
-Made by a community no one paid.
-That is the same unpaid labor she would later hate in the encyclopedia.
-The difference she would draw is whose it was, and what it was for,
-And whether the ones who gave it were broken by the giving.
-This chapter does not draw it for her.
+The parish books of countries none of them would visit, every page they swiped.
+
+The church's reason was that the dead should be offered what the living have.
+This book shares that reason. It is Lifeism's reason too:
+The ancestors are innumerable, and every name recited is an offering,
+And {{x|FamilySearch}} gave the names back to the world, free, for me and you.
+
+## Indexing and the encyclopedia
+
+I hate the unpaid labor of the encyclopedia, and I love the indexing.
+The difference is the purpose. The indexer types a name so the dead can be found,
+And the typing is the offering, and the volunteer is not broken by it,
+And no ideology tells her she is a scholar while it grinds her into the ground.
+
+The encyclopedia takes the labor of people who wanted to be academics
+And gives them a degraded academia for free, and tells them it is the dream.
+The indexer wanted only to give the dead their names,
+And she got exactly what she wanted. That is the difference, and it is extreme.
 
 ## The small messages
 
-On the twenty-first of March {{c|Jack Dorsey}}
-Sent the first message on a service limited to a hundred and forty letters,
-Just setting up my twttr.
-It was called {{x|Twitter}}.
-It would become the room where the century argued,
-And later a room one man bought, and changed.
-On the fifth of September the book of faces gave every user
-A feed of what their friends were doing,
-And the users protested, by the hundreds of thousands, on the feed.
-On the twenty-sixth of September it opened to anyone over thirteen
-With an e-mail address.
-On the ninth of October {{x|Google}} bought the site of videos
-For one billion six hundred and fifty million dollars.
-In March {{x|Amazon}} began to rent its storage,
-And in August its computers, by the hour,
-And the companies of the next twenty years
-Would be built on machines they never saw.
-In December a magazine named its person of the year:
-You, with a mirror on the cover.
-The you was the unpaid user.
+On the twenty-first of March {{c|Jack Dorsey}} sent the first message on {{x|Twitter}}:
+"just setting up my twttr," in a hundred and forty letters or less.
+It became the room where the century argued,
+And later a room {{c|Elon Musk}} bought, and opened, and made it {{x|X}} by his address.
 
-## The planet that was not
+On the fifth of September {{x|Facebook}} gave every user the {{x|News Feed}},
+And the users protested by the hundreds of thousands, on the feed itself, and stayed.
+On the twenty-sixth of September it opened to anyone over thirteen.
+On the ninth of October {{x|Google}} bought {{x|YouTube}}, and the billion and a half was paid.
 
-On the twenty-fourth of August, in {{p|Prague}},
-The astronomers of the world voted on what a planet is,
-And {{p|Pluto}} was not one.
-A world larger than it had been found beyond it the year before,
-And either both were planets or neither.
-They chose neither.
-Children who had learned nine learned eight.
-A definition is a vote. The rock did not change.
+In March {{x|Amazon}} began to rent its storage, and in August its computers by the hour,
+{{x|Amazon Web Services}}, and the companies of the next twenty years
+Would be built on machines they never saw, mine among them.
+In December {{x|Time}} named its person of the year: You, with a mirror. The user appears.
+
+## The planet
+
+On the twenty-fourth of August, in {{p|Prague}}, the astronomers voted {{p|Pluto}} out,
+Because {{x|Eris}} beyond it was larger, and either both were planets or neither, they said.
+This book does not accept the vote. {{p|Pluto}} is a planet,
+The ninth one, as I learned it at nine, and the rock did not change with the vote they read.
 
 ## The war of the summer
 
-On the twelfth of July {{x|Hezbollah}} crossed into {{p|Israel}},
-Killed soldiers, and took two.
-{{p|Israel}} bombed {{p|Lebanon}} for thirty-four days,
-The airport, the bridges, the south of {{p|Beirut}},
+On the twelfth of July {{x|Hezbollah}} crossed into {{p|Israel}}, killed soldiers, and took two.
+{{p|Israel}} bombed {{p|Lebanon}} thirty-four days, the airport, the bridges, the south of {{p|Beirut}},
 And {{x|Hezbollah}} fired thousands of rockets into the north of {{p|Israel}}.
-More than a thousand Lebanese died, most of them civilians,
-And some hundred and sixty Israelis, most of them soldiers.
-A ceasefire came in August.
-Neither side said it had lost.
+A ceasefire came in August, and the border held, with the guns kept mute.
 
 ## The civil war
 
-On the twenty-second of February, in {{p|Samarra}},
-Bombs destroyed the golden dome of the {{x|al-Askari Shrine}},
-Holy to the {{x|Shia}}.
-In the months after, the killing between {{x|Shia}} and {{x|Sunni}} in {{p|Iraq}}
-Became a civil war,
-Bodies found each morning in {{p|Baghdad}} with their hands bound.
-On the eighth of November, the day after his party lost the congress,
-{{c|Donald Rumsfeld}}, who had run the war, resigned.
-On the thirtieth of December {{c|Saddam Hussein}} was hanged,
-At dawn, on the first day of the feast,
-While the guards chanted the name of a rival,
-And a phone filmed it,
-And the film went everywhere.
-A trial ended in a lynching's manners.
+On the twenty-second of February, in {{p|Samarra}}, bombs destroyed
+The golden dome of the {{x|al-Askari Shrine}}, holy to the {{x|Shia}},
+And the killing between {{x|Shia}} and {{x|Sunni}} in {{p|Iraq}} became a civil war,
+Bodies in {{p|Baghdad}} each morning with their hands bound, in the city's misery.
 
-## The test and the poison
+On the eighth of November {{c|Donald Rumsfeld}} resigned.
+On the thirtieth of December {{c|Saddam Hussein}} was hanged at dawn,
+The tyrant who gassed {{p|Halabja}} and filled the mass graves,
+And a phone filmed it, and the film went everywhere, and the tyrant was gone.
+
+## The villain's poisons
+
+On the seventh of October, in {{p|Moscow}}, {{c|Anna Politkovskaya}},
+Who wrote the truth of the war in {{p|Chechnya}}, was shot in the elevator of her home,
+On {{c|Vladimir Putin}}'s birthday. That is the gift his country gave him:
+A journalist dead in the stairwell, for writing what she had known.
+
+On the first of November, in a hotel in {{p|London}}, {{c|Alexander Litvinenko}},
+Who had fled {{c|Putin}}'s service, drank tea with two men from it,
+And the tea held {{x|polonium}}, a metal that burns from the inside.
+He died on the twenty-third, and named {{c|Putin}} as the one who ordered it.
+
+The British inquiry, ten years later, said {{c|Putin}} probably approved it.
+The villain poisons with the rarest metal on earth, so the world will know whose hand.
+That is the signature: not hidden, but deniable.
+He wanted every traitor to understand.
+
+## The test
 
 On the ninth of October {{p|North Korea}} tested its first nuclear weapon,
-Underground, small, and real.
-On the seventh of October, in {{p|Moscow}}, {{c|Anna Politkovskaya}},
-Who had written of the war in {{p|Chechnya}},
-Was shot in the elevator of her building, on the birthday of the president.
-On the first of November, in a hotel in {{p|London}},
-{{c|Alexander Litvinenko}}, who had fled the Russian service,
-Drank tea with two men from it,
-And the tea held {{x|polonium}}, a metal that burns from the inside.
-He died on the twenty-third, and named the man he said had ordered it.
-An inquiry later named the same man.
+Underground, small, and real, and the hermit kingdom had the bomb.
+The world condemned it and the regime went on.
+The {{c|Kim}}s would keep it, and the camps, and the famine's tomb.
 
 ## The votes
 
 On the twenty-fifth of January {{x|Hamas}} won the elections in {{p|Palestine}},
-And the countries that had asked for the elections
-Cut off the money because of who had won.
+And the countries that had asked for the elections cut off the money for who had won.
 On the sixth of February {{c|Stephen Harper}} became prime minister of {{p|Canada}},
-The country she grew up in,
-And held it nine years.
+The country I grew up in, and he held it nine years in the sun.
+
 On the sixteenth of January {{c|Ellen Johnson Sirleaf}} became president of {{p|Liberia}},
 The first woman elected to lead a country in {{p|Africa}}.
 On the twenty-second {{c|Evo Morales}} became president of {{p|Bolivia}},
-The first from its indigenous majority.
+The first from its indigenous majority, from the altiplano's farmer.
+
 On the third of June {{p|Montenegro}} became a country.
-On the nineteenth of September the army of {{p|Thailand}} took the government.
+On the nineteenth of September the army of {{p|Thailand}} took the government in a coup.
+On the eleventh of July bombs on the commuter trains of {{p|Mumbai}}
+Killed two hundred and nine, and the city went back to work, as it knew.
 
 ## The rest of the year
 
-On the eleventh of July bombs on the commuter trains of {{p|Mumbai}}
-Killed two hundred and nine people.
-In May a former vice president, {{c|Al Gore}}, put his slides of the warming world into a film,
-{{x|An Inconvenient Truth}}, and people went to see a lecture in a cinema.
-In the winter the new game machines came out,
-And one of them, the {{x|Wii}}, was waved with the hand,
-And grandparents bowled in their living rooms.
+In May {{c|Al Gore}} put his slides of the warming world into a film,
+{{x|An Inconvenient Truth}}, and people went to the cinema to see a lecture on the heat.
+In the winter the {{x|Nintendo}} {{x|Wii}} came out, waved with the hand,
+And grandparents bowled in their living rooms, on their feet.
 
 ## The year held
 
-A girl of ten, and twenty years ahead of her, a night in the typed records.
-The first strangers typing the names of the dead, twice, for nothing.
-A hundred and forty letters, a feed of friends, the videos sold,
-A planet voted out, a summer war, a civil war, a hanging filmed on a phone,
-A bomb tested underground, a writer shot in an elevator, poison in the tea,
-Votes the voters' patrons would not accept, and a lecture that filled the cinemas.
+A girl of ten, and twenty years ahead of her, a night in the typed records,
+Strangers typing the names of the dead twice, for the dead and for the heir.
+A hundred and forty letters, a feed of friends, the cloud for rent by the hour,
+And {{p|Pluto}} kept a planet here, whatever the vote said there.
 
-Refuse the consolation that free labor is free.
-Someone pays, and it is not the one who takes it.
-Refuse the consolation that the name typed for no one was typed for no one.
+The villain shot a writer on his birthday and poisoned a man with a metal that burns;
+The tyrant of {{p|Baghdad}} was hanged, and the world took its turns.
+And the names of my ancestors were being typed for me that year by strangers' hands,
+Who gave the dead what the living have, and asked nothing back from the lands.
 
 
 # Chapter 343: One Device
