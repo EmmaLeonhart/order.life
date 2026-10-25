@@ -1,9 +1,16 @@
 {
-  "aliases": {},
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Meryetre  Hatshepsut"
+      }
+    ]
+  },
   "claims": {
     "P39": [
       {
-        "id": "Q86005$8342F88E-302C-4006-9BBD-DE98C7B64D04",
+        "id": "Q195434$E3880938-B98A-43FE-A36A-ADC5F2D7E402",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -22,7 +29,7 @@
         "type": "statement"
       },
       {
-        "id": "Q86005$F65B9BB3-7BE8-41BE-B806-6DB2E644F69F",
+        "id": "Q195434$5FE80623-2802-426B-B927-07602B3DE660",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -41,21 +48,97 @@
         "type": "statement"
       }
     ],
-    "P48": [
+    "P47": [
       {
-        "id": "Q86005$5279A64F-17E0-47EE-80BA-E04B36E85A30",
+        "id": "Q195434$7AE7D27B-F3C2-9373-0D62-D34999A01F11",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q85997",
-              "numeric-id": 85997
+              "id": "Q195440",
+              "numeric-id": 195440
             }
           },
-          "hash": "141d7777e2192d28a9fc214626150e2e8e43f3e0",
+          "hash": "972991d1662b68c4e151d6ea5e256e0e876511b2",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q195434$AB88BB53-81B4-7645-53F6-0BF1218D6D1F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q195435",
+              "numeric-id": 195435
+            }
+          },
+          "hash": "d26e8115c74efa5be222c1e062cc9abcf1357e94",
           "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q195434$996ED0E6-995A-60B7-0E6A-FBE7B8D43081",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q195434$E8777835-44A9-19F1-C146-B5AAE9B91CA3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000006964012047"
+          },
+          "hash": "28999c2a4d201371211c64fd015b48f749b32986",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q195434$05140B28-7975-4F8C-BF18-72986DF9B8EC",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Meryetre Hatshepsut Arms.svg"
+          },
+          "hash": "ae8d95e47cb105fa9649f6fd913ddb1cde8b5451",
+          "property": "P94",
           "snaktype": "value"
         },
         "rank": "normal",
@@ -81,42 +164,21 @@
         "rank": "normal",
         "type": "statement"
       }
-    ],
-    "P55": [
-      {
-        "id": "Q86005$8C43939A-C3CF-415E-8EA1-521111FF3B17",
-        "mainsnak": {
-          "datatype": "wikibase-item",
-          "datavalue": {
-            "type": "wikibase-entityid",
-            "value": {
-              "entity-type": "item",
-              "id": "Q153719",
-              "numeric-id": 153719
-            }
-          },
-          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
-          "property": "P55",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
     ]
   },
   "descriptions": {},
-  "id": "Q86005",
+  "id": "Q195434",
   "labels": {
     "en": {
       "language": "en",
-      "value": "Meryetre  Hatshepsut"
+      "value": "Meryetre Hatshepsut"
     }
   },
-  "lastrevid": 17500813,
-  "modified": "2025-09-16T22:10:39Z",
+  "lastrevid": 17606104,
+  "modified": "2025-09-17T23:04:42Z",
   "ns": 860,
-  "pageid": 100836,
+  "pageid": 216917,
   "sitelinks": {},
-  "title": "Item:Q86005",
+  "title": "Item:Q195434",
   "type": "item"
 }

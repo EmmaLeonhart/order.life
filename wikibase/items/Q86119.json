@@ -3,7 +3,7 @@
   "claims": {
     "P39": [
       {
-        "id": "Q86119$6DD81E93-982A-43A2-8D8E-2296B7382CFF",
+        "id": "Q195076$D081DA3F-E74B-4C20-AFC2-2723525DE37F",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -22,7 +22,7 @@
         "type": "statement"
       },
       {
-        "id": "Q86119$D0C0717C-4EA7-4E63-A701-7543F5B1137E",
+        "id": "Q195076$BCD4A31D-A869-40A9-82B8-76C12294C4AC",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -43,19 +43,40 @@
     ],
     "P47": [
       {
-        "id": "Q86119$A3B3AB2C-27BE-463E-B9B3-0FABDF4DA3C3",
+        "id": "Q195076$A295451C-289C-5FBB-8F03-CDC85B31D0A6",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q86067",
-              "numeric-id": 86067
+              "id": "Q195082",
+              "numeric-id": 195082
             }
           },
-          "hash": "2863c7d61dc6ed15325a890a495381cac34f401c",
+          "hash": "1af183970343ffe4f66dc1fed3c9f5f1ab5c604b",
           "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q195076$D71C9EFB-8702-DEE7-45AC-0EB7C876C71C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q195081",
+              "numeric-id": 195081
+            }
+          },
+          "hash": "56c251b330a4a55caa0e367862ab96b060a82f11",
+          "property": "P48",
           "snaktype": "value"
         },
         "rank": "normal",
@@ -64,7 +85,7 @@
     ],
     "P55": [
       {
-        "id": "Q86119$5B1E929A-49B1-4D4D-BC5A-563AD42FB42C",
+        "id": "Q195076$A0751DD3-1954-20CE-B250-89354F5D7F98",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -82,21 +103,55 @@
         "rank": "normal",
         "type": "statement"
       }
+    ],
+    "P62": [
+      {
+        "id": "Q195076$7BF532A1-5C12-FC8A-35DC-87226D3DE019",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000002188068195"
+          },
+          "hash": "c4e7189e215cad4065e13f7ee3adaefd9de86836",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q195076$44974432-B417-46E7-8E2D-1EB61A34008E",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Meritre Arms.svg"
+          },
+          "hash": "3eccf0caaa58e582cec045d356929e6c6a0e264e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
     ]
   },
   "descriptions": {},
-  "id": "Q86119",
+  "id": "Q195076",
   "labels": {
     "en": {
       "language": "en",
       "value": "Meritre"
     }
   },
-  "lastrevid": 17500927,
-  "modified": "2025-09-16T22:12:12Z",
+  "lastrevid": 17605560,
+  "modified": "2025-09-17T22:57:10Z",
   "ns": 860,
-  "pageid": 100950,
+  "pageid": 217041,
   "sitelinks": {},
-  "title": "Item:Q86119",
+  "title": "Item:Q195076",
   "type": "item"
 }

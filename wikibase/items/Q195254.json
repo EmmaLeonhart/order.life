@@ -1,5 +1,12 @@
 {
-  "aliases": {},
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Thutmose III  san"
+      }
+    ]
+  },
   "claims": {
     "P20": [
       {
@@ -174,6 +181,26 @@
           },
           "hash": "4f53ae623a0da3906646af15f2bf6f27e70a88b5",
           "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q86127$DA3C2178-A479-4D08-BD28-991E73A17E14",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Thutmose III /san/"
+            }
+          },
+          "hash": "0f330a6ad89df557770424679fad5d81861f2f5d",
+          "property": "P5",
           "snaktype": "value"
         },
         "rank": "normal",

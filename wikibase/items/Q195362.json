@@ -1,5 +1,16 @@
 {
-  "aliases": {},
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Menkheperure Thutmose"
+      },
+      {
+        "language": "en",
+        "value": "Thutmose IV"
+      }
+    ]
+  },
   "claims": {
     "P20": [
       {
@@ -388,9 +399,28 @@
         "rank": "normal",
         "type": "statement"
       }
+    ],
+    "P61": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P61",
+          "datavalue": {
+            "value": "Q157985",
+            "type": "string"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
     ]
   },
-  "descriptions": {},
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Egyptian Pharaoh of the 18th dynasty; record created 2026-10-21 for the Gaiad's tags, from Wikidata Q157985"
+    }
+  },
   "id": "Q195362",
   "labels": {
     "en": {

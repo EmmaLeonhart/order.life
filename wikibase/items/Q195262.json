@@ -1,5 +1,12 @@
 {
-  "aliases": {},
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Thutmose II  san"
+      }
+    ]
+  },
   "claims": {
     "P20": [
       {
@@ -174,6 +181,26 @@
           },
           "hash": "133d9c5cf03001ea384532be0dd06f174515ddde",
           "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q86187$21183712-ABAE-4B6E-BE8D-59FD722A0E59",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Thutmose II /san/"
+            }
+          },
+          "hash": "1edd6dec523a7f06121f9238444342ab0596d527",
+          "property": "P5",
           "snaktype": "value"
         },
         "rank": "normal",

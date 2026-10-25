@@ -1,5 +1,16 @@
 {
-  "aliases": {},
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ahmose-Meritamun bint  Ahmose I"
+      },
+      {
+        "language": "en",
+        "value": "Ahmose-Meritamun daughter of  Ahmose I"
+      }
+    ]
+  },
   "claims": {
     "P20": [
       {
@@ -193,6 +204,26 @@
           },
           "hash": "30e2d45f943fb5f2f59f8dcc3a8098aeacc0332b",
           "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q85963$177C1808-4E33-42C0-8E30-677F07E11A28",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Ahmose-Meritamun bint /Ahmose I/"
+            }
+          },
+          "hash": "4a8b139e5893ccabee76c428fe21804dfcb01664",
+          "property": "P5",
           "snaktype": "value"
         },
         "rank": "normal",

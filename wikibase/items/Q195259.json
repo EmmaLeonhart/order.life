@@ -1,5 +1,12 @@
 {
-  "aliases": {},
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ahmose I  san"
+      }
+    ]
+  },
   "claims": {
     "P39": [
       {
@@ -153,6 +160,26 @@
           },
           "hash": "1d6475988b45f154a0277191d35500affb248918",
           "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q86237$6872560C-BFBA-48AC-BFC7-FAC85A5D907F",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Ahmose I /san/"
+            }
+          },
+          "hash": "29c26af2332013f45902d7f65e02fe3b4b2e7202",
+          "property": "P5",
           "snaktype": "value"
         },
         "rank": "normal",

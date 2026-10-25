@@ -1,9 +1,16 @@
 {
-  "aliases": {},
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Amenmose . "
+      }
+    ]
+  },
   "claims": {
     "P39": [
       {
-        "id": "Q85991$5ED1B905-6179-4D33-8745-6272113CBDDC",
+        "id": "Q195116$B364032D-D593-4B5D-BF51-88327DF5E5AA",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -22,7 +29,7 @@
         "type": "statement"
       },
       {
-        "id": "Q85991$CA8251FA-7ACC-46F8-8E8A-D59CD6DB6E2A",
+        "id": "Q195116$4944E6AB-D52C-4B09-A857-DDEBC060F963",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -43,18 +50,18 @@
     ],
     "P47": [
       {
-        "id": "Q85991$6494E08C-94C9-4922-8D55-80EBDCE96462",
+        "id": "Q195116$841FF230-C705-3EDE-F679-83E7DB46E90F",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q85973",
-              "numeric-id": 85973
+              "id": "Q195047",
+              "numeric-id": 195047
             }
           },
-          "hash": "27a4e8cf0bdb66aad3ad02a1e4fd290dadb5ddc3",
+          "hash": "6c96c532e06bb5a8e9c9cf5caa527de5e8f6b0ad",
           "property": "P47",
           "snaktype": "value"
         },
@@ -64,18 +71,18 @@
     ],
     "P48": [
       {
-        "id": "Q85991$C013B479-2537-4C52-AD1E-C26D78DD9798",
+        "id": "Q195116$33DEE610-EFF6-CB90-F011-8CDE8CCB2430",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q85969",
-              "numeric-id": 85969
+              "id": "Q195048",
+              "numeric-id": 195048
             }
           },
-          "hash": "07ce6f9c913a9fba4cc83b4470bff9c8763f5509",
+          "hash": "d00be789ebc76ff73d1595f012a815e13b601f54",
           "property": "P48",
           "snaktype": "value"
         },
@@ -85,7 +92,7 @@
     ],
     "P55": [
       {
-        "id": "Q85991$5B13837A-FDA1-48CA-9FDE-ECB187C17E26",
+        "id": "Q195116$6559C25E-6792-449F-E3A7-5DAA9787C8D7",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -103,21 +110,55 @@
         "rank": "normal",
         "type": "statement"
       }
+    ],
+    "P62": [
+      {
+        "id": "Q195116$41079529-203C-3C60-5090-64989A068EAE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000003645797192"
+          },
+          "hash": "7b78c7b5aea0c3eeec718b14588e3e386dc92ec6",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q195116$9FB2FCCB-25A1-4C76-9DA5-DDF07B701A74",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Amenmose . . Great Overseer of Soldiers Arms.svg"
+          },
+          "hash": "a75c7a3c7f93c42b6ad795d98b1072c2132c4e41",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
     ]
   },
   "descriptions": {},
-  "id": "Q85991",
+  "id": "Q195116",
   "labels": {
     "en": {
       "language": "en",
-      "value": "Amenmose . "
+      "value": "Amenmose . . Great Overseer of Soldiers"
     }
   },
-  "lastrevid": 17500801,
-  "modified": "2025-09-16T22:10:29Z",
+  "lastrevid": 17605624,
+  "modified": "2025-09-17T22:58:01Z",
   "ns": 860,
-  "pageid": 100822,
+  "pageid": 216878,
   "sitelinks": {},
-  "title": "Item:Q85991",
+  "title": "Item:Q195116",
   "type": "item"
 }

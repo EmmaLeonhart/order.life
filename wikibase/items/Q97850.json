@@ -3,18 +3,18 @@
   "claims": {
     "P20": [
       {
-        "id": "Q86165$301EAB21-9EA9-4582-8BA3-3F92FE83E893",
+        "id": "Q195465$B79FBFF8-DD43-4B75-3945-0DBF2AACABF8",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q86203",
-              "numeric-id": 86203
+              "id": "Q195255",
+              "numeric-id": 195255
             }
           },
-          "hash": "b963477ae65d06c7dd0abdb0371d52f4b44890f5",
+          "hash": "6446eb0929e09332bcb76399b951727a1840eb40",
           "property": "P20",
           "snaktype": "value"
         },
@@ -24,7 +24,7 @@
     ],
     "P39": [
       {
-        "id": "Q86165$F3568AF2-6EEA-4A2D-82ED-00170D790296",
+        "id": "Q195465$88B2CC66-26E3-473A-BB3A-F0BD392C4C55",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -43,7 +43,7 @@
         "type": "statement"
       },
       {
-        "id": "Q86165$D9428677-B5CB-4CDF-9052-0A98E9464422",
+        "id": "Q195465$70B1E660-E120-4536-A6BA-6C627C4415D4",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -62,21 +62,63 @@
         "type": "statement"
       }
     ],
-    "P47": [
+    "P42": [
       {
-        "id": "Q86165$EE61A7B3-2F40-413A-90EF-C65BE201EF33",
+        "id": "Q195465$85AF811D-5FE8-2DC1-5F9C-933286FB4FBC",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q86099",
-              "numeric-id": 86099
+              "id": "Q195260",
+              "numeric-id": 195260
             }
           },
-          "hash": "c69dbce216875990074946e2213bafdd29977196",
+          "hash": "b5ea404d3e499213bf54baf911003fc484ae16b7",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q195465$BEB7B295-752B-0927-6EDE-04B04A3E6AC1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q195363",
+              "numeric-id": 195363
+            }
+          },
+          "hash": "ca0c3876b211360c7544a16050703941d30eef38",
           "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q195465$CF0D3080-1D01-BAC9-8F34-A21D81D082ED",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q195080",
+              "numeric-id": 195080
+            }
+          },
+          "hash": "9d69b1d62126d036ef892ccd332dc40313c5680f",
+          "property": "P48",
           "snaktype": "value"
         },
         "rank": "normal",
@@ -85,7 +127,7 @@
     ],
     "P55": [
       {
-        "id": "Q86165$4D9F577A-3E62-48B9-B325-8F250754EEE9",
+        "id": "Q195465$BAA5F489-BE9A-04A8-C2AC-F4B0FB7FC582",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -103,21 +145,55 @@
         "rank": "normal",
         "type": "statement"
       }
+    ],
+    "P62": [
+      {
+        "id": "Q195465$D7AD891C-D110-56B9-ABFE-75042BE9424A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000009550851315"
+          },
+          "hash": "3ec138326fbea367b2227b884db2a0a3e1ad068e",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q195465$6FDC23EB-C4A0-409D-B24D-4FFA627C9BEF",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Meketaten Arms.svg"
+          },
+          "hash": "a987a561d28078242d7a1685710e00dd75c9a0e4",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
     ]
   },
   "descriptions": {},
-  "id": "Q86165",
+  "id": "Q195465",
   "labels": {
     "en": {
       "language": "en",
       "value": "Meketaten"
     }
   },
-  "lastrevid": 17500973,
-  "modified": "2025-09-16T22:12:51Z",
+  "lastrevid": 17606144,
+  "modified": "2025-09-17T23:05:14Z",
   "ns": 860,
-  "pageid": 100996,
+  "pageid": 217073,
   "sitelinks": {},
-  "title": "Item:Q86165",
+  "title": "Item:Q195465",
   "type": "item"
 }

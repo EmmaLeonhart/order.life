@@ -1,9 +1,16 @@
 {
-  "aliases": {},
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Iaret . "
+      }
+    ]
+  },
   "claims": {
     "P39": [
       {
-        "id": "Q86061$5419D0C4-36C0-49AD-A4A2-B74326B6C06C",
+        "id": "Q195460$01A03A37-5F50-49E7-B9E8-679585A26E6B",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -22,7 +29,7 @@
         "type": "statement"
       },
       {
-        "id": "Q86061$2EDED402-4900-4E6B-BDBA-69822D813F88",
+        "id": "Q195460$FF8A2F1F-A050-42B7-8CFC-CA79A251E6A0",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -43,18 +50,18 @@
     ],
     "P42": [
       {
-        "id": "Q86061$87E4D4DA-2A66-478D-8213-FB5271053866",
+        "id": "Q195460$10B52AFE-E55D-0DC1-745B-5BD9081D83B0",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q86045",
-              "numeric-id": 86045
+              "id": "Q195362",
+              "numeric-id": 195362
             }
           },
-          "hash": "56a92b8d1458b4b0b198d1da1b0e02f52a660738",
+          "hash": "534b77d2d4c8c2ec9e23467e2f42d90cea4812ec",
           "property": "P42",
           "snaktype": "value"
         },
@@ -64,19 +71,40 @@
     ],
     "P47": [
       {
-        "id": "Q86061$5759B404-221A-412F-8614-02B730ABCDF9",
+        "id": "Q195460$74E056C6-A13A-D7B7-153F-80069ABEA415",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q86023",
-              "numeric-id": 86023
+              "id": "Q195041",
+              "numeric-id": 195041
             }
           },
-          "hash": "6685e2d7fbf888a661f065d3271c764a033f7254",
+          "hash": "3af06663259205c0d4bfb3df5209597944a86b4f",
           "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q195460$50C46183-B13D-00FF-D44A-94E95E88C867",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q195364",
+              "numeric-id": 195364
+            }
+          },
+          "hash": "a70fdcc6664c3f83d66b2c9158dc3dd654230ef0",
+          "property": "P48",
           "snaktype": "value"
         },
         "rank": "normal",
@@ -85,7 +113,7 @@
     ],
     "P55": [
       {
-        "id": "Q86061$37B89A2E-C8A3-4D0E-8A39-F282089D18E5",
+        "id": "Q195460$292C297C-ABCA-7786-5E32-9B620D7FB814",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -103,21 +131,55 @@
         "rank": "normal",
         "type": "statement"
       }
+    ],
+    "P62": [
+      {
+        "id": "Q195460$6C6AB214-1AA9-D0CA-1497-3299C9480A57",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000009438212271"
+          },
+          "hash": "8f10b467458614b4ce2c670ded394dd31d7fd3ce",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q195460$BF5EE061-98DC-4D58-B13F-F947CF75CA23",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Iaret . . Queen of Egypt Arms.svg"
+          },
+          "hash": "dd4f8114d8554de9907a4585d6008b39d98eb806",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
     ]
   },
   "descriptions": {},
-  "id": "Q86061",
+  "id": "Q195460",
   "labels": {
     "en": {
       "language": "en",
-      "value": "Iaret . "
+      "value": "Iaret . . Queen of Egypt"
     }
   },
-  "lastrevid": 17500869,
-  "modified": "2025-09-16T22:11:25Z",
+  "lastrevid": 17606136,
+  "modified": "2025-09-17T23:05:08Z",
   "ns": 860,
-  "pageid": 100892,
+  "pageid": 216978,
   "sitelinks": {},
-  "title": "Item:Q86061",
+  "title": "Item:Q195460",
   "type": "item"
 }

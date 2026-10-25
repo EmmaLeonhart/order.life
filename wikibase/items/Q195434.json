@@ -1,5 +1,12 @@
 {
-  "aliases": {},
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Meryetre  Hatshepsut"
+      }
+    ]
+  },
   "claims": {
     "P39": [
       {
@@ -132,6 +139,26 @@
           },
           "hash": "ae8d95e47cb105fa9649f6fd913ddb1cde8b5451",
           "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q86005$3567ED73-A512-4E36-AECA-F5B0A5EC115A",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Meryetre /Hatshepsut/"
+            }
+          },
+          "hash": "e7efea6a84bcc555ca34b770938a2fcdd714a8e3",
+          "property": "P5",
           "snaktype": "value"
         },
         "rank": "normal",

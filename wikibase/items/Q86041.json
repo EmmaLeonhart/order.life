@@ -1,9 +1,16 @@
 {
-  "aliases": {},
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Amenemhat"
+      }
+    ]
+  },
   "claims": {
     "P39": [
       {
-        "id": "Q86041$855528B9-A3CE-4370-B459-9DC5C1BDC05F",
+        "id": "Q195383$2555303D-0E19-44ED-B236-BBC561B89E0D",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -22,7 +29,7 @@
         "type": "statement"
       },
       {
-        "id": "Q86041$8FB667F6-6B7B-4499-8AC8-BF7ABA8BECDE",
+        "id": "Q195383$D96D23ED-AB88-4301-A828-F2ECAEFB7E71",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -43,19 +50,40 @@
     ],
     "P47": [
       {
-        "id": "Q86041$2501F5DA-EC8D-4C3B-9254-52713FDF33AC",
+        "id": "Q195383$D16B0C42-A92E-3DE4-5D2F-C414247870FC",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q86001",
-              "numeric-id": 86001
+              "id": "Q195045",
+              "numeric-id": 195045
             }
           },
-          "hash": "4e271596eb8767c36f98a1cfcd9f10e04841d6ed",
+          "hash": "7edc97022247166c3ce53a9864d1f0949c82de50",
           "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q195383$39A43992-C3D5-B7F6-54CA-EF2A6D10C2BE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q195046",
+              "numeric-id": 195046
+            }
+          },
+          "hash": "b3d129e3315f4f7057144dbc635bfe53042fbe0b",
+          "property": "P48",
           "snaktype": "value"
         },
         "rank": "normal",
@@ -64,7 +92,7 @@
     ],
     "P55": [
       {
-        "id": "Q86041$6AA0BE0E-8482-4DE3-81CA-FBFE6FA7A9D7",
+        "id": "Q195383$EA764D31-A5D6-35BE-409F-BFBD2ACEAD08",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -82,21 +110,55 @@
         "rank": "normal",
         "type": "statement"
       }
+    ],
+    "P62": [
+      {
+        "id": "Q195383$4EC729CD-ADBF-89DF-C9FA-3E8A8B15BD21",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000006213894139"
+          },
+          "hash": "1f7b0ffc688dbb91787dd41170c868b78abb62f7",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q195383$4242210B-A316-40EC-9567-DD3A21CC3FA0",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Amenemhat Overseer of the Cattle Arms.svg"
+          },
+          "hash": "7ad540911f83b7796707b10c7ac437eeece0e69b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
     ]
   },
   "descriptions": {},
-  "id": "Q86041",
+  "id": "Q195383",
   "labels": {
     "en": {
       "language": "en",
-      "value": "Amenemhat"
+      "value": "Amenemhat Overseer of the Cattle"
     }
   },
-  "lastrevid": 17500849,
-  "modified": "2025-09-16T22:11:09Z",
+  "lastrevid": 17606050,
+  "modified": "2025-09-17T23:04:00Z",
   "ns": 860,
-  "pageid": 100872,
+  "pageid": 216940,
   "sitelinks": {},
-  "title": "Item:Q86041",
+  "title": "Item:Q195383",
   "type": "item"
 }

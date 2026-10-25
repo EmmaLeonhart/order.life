@@ -1,9 +1,16 @@
 {
-  "aliases": {},
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Amenemopet . "
+      }
+    ]
+  },
   "claims": {
     "P39": [
       {
-        "id": "Q86057$6565AEC9-62AC-4D16-BF7E-9A99420A43FB",
+        "id": "Q195540$CA173A31-3B7E-42A4-9AE5-D522638939B3",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -22,7 +29,7 @@
         "type": "statement"
       },
       {
-        "id": "Q86057$63DE703C-4A8D-4A52-9F6C-64E54ECF1EA1",
+        "id": "Q195540$DE7BE93D-B7DB-4E19-8F82-91930B05906F",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -43,19 +50,40 @@
     ],
     "P47": [
       {
-        "id": "Q86057$548B111E-1A73-4133-91FB-C373EAA657F6",
+        "id": "Q195540$F0A19568-E878-4E91-AE4B-F53960322A87",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q86023",
-              "numeric-id": 86023
+              "id": "Q195041",
+              "numeric-id": 195041
             }
           },
-          "hash": "6685e2d7fbf888a661f065d3271c764a033f7254",
+          "hash": "3af06663259205c0d4bfb3df5209597944a86b4f",
           "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q195540$43A0CD32-FE41-AF1A-FE9F-4B424A6C5152",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q195364",
+              "numeric-id": 195364
+            }
+          },
+          "hash": "a70fdcc6664c3f83d66b2c9158dc3dd654230ef0",
+          "property": "P48",
           "snaktype": "value"
         },
         "rank": "normal",
@@ -64,7 +92,7 @@
     ],
     "P55": [
       {
-        "id": "Q86057$F13EB4A4-40EA-4EA9-AF2C-32B40DADC495",
+        "id": "Q195540$167F5920-FF61-9DA2-AEA7-22328BD1D6C8",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -82,21 +110,55 @@
         "rank": "normal",
         "type": "statement"
       }
+    ],
+    "P62": [
+      {
+        "id": "Q195540$B795EB88-0C65-596F-7EBE-D367F8B00DEB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000012992193387"
+          },
+          "hash": "d3530038c82c0610dd09ad10aaef605564dafa30",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q195540$2C857079-0F2F-49CC-936A-9106262D30A1",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Amenemopet . . Arms.svg"
+          },
+          "hash": "dcf8d6f0861271f14ae1010c5e30e961b1c9facf",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
     ]
   },
   "descriptions": {},
-  "id": "Q86057",
+  "id": "Q195540",
   "labels": {
     "en": {
       "language": "en",
-      "value": "Amenemopet . "
+      "value": "Amenemopet . ."
     }
   },
-  "lastrevid": 17500865,
-  "modified": "2025-09-16T22:11:22Z",
+  "lastrevid": 17606258,
+  "modified": "2025-09-17T23:06:44Z",
   "ns": 860,
-  "pageid": 100888,
+  "pageid": 216976,
   "sitelinks": {},
-  "title": "Item:Q86057",
+  "title": "Item:Q195540",
   "type": "item"
 }

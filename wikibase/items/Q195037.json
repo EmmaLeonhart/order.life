@@ -1,5 +1,12 @@
 {
-  "aliases": {},
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Prince ? Son of Amenhotep III  Egypt"
+      }
+    ]
+  },
   "claims": {
     "P39": [
       {
@@ -153,6 +160,26 @@
           },
           "hash": "5383ab61c32d8b561139233cef6d0db5793622c2",
           "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q86131$03B784BC-381B-4405-B756-93F2F56A0785",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Prince ? Son of Amenhotep III /Egypt/"
+            }
+          },
+          "hash": "01255cebc0ff90297f99261b2d958d306ecf4023",
+          "property": "P5",
           "snaktype": "value"
         },
         "rank": "normal",

@@ -1,20 +1,27 @@
 {
-  "aliases": {},
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ahmose I"
+      }
+    ]
+  },
   "claims": {
     "P20": [
       {
-        "id": "Q85969$87BCCEAA-59E0-4849-A8D0-3E0E9E0EB4A1",
+        "id": "Q195048$22E22255-D29E-4B24-B301-17B655B2B11F",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q85987",
-              "numeric-id": 85987
+              "id": "Q195115",
+              "numeric-id": 195115
             }
           },
-          "hash": "cac6569b408e7544264eb155bce362675f29f6de",
+          "hash": "ff49cf1dce27985c5a5564de79b6001583358940",
           "property": "P20",
           "snaktype": "value"
         },
@@ -22,18 +29,18 @@
         "type": "statement"
       },
       {
-        "id": "Q85969$486785F1-303A-4816-B230-A1DB80706D8A",
+        "id": "Q195048$5965E99B-C710-AAFC-75E2-510F0E611DA3",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q85989",
-              "numeric-id": 85989
+              "id": "Q195368",
+              "numeric-id": 195368
             }
           },
-          "hash": "ade72222bf1e6543f442d37530d0843e5ed7d130",
+          "hash": "6773a0fffdd7edd145d445dcc8e381e337921e12",
           "property": "P20",
           "snaktype": "value"
         },
@@ -41,18 +48,18 @@
         "type": "statement"
       },
       {
-        "id": "Q85969$98620989-30AB-4E1E-BC16-22467ECAEAB7",
+        "id": "Q195048$0CF1B552-B267-3C40-8802-D00DC0C25A45",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q85991",
-              "numeric-id": 85991
+              "id": "Q195116",
+              "numeric-id": 195116
             }
           },
-          "hash": "30d5e3300c1c56a9c4b16c098fdad469f07fef84",
+          "hash": "d0183a584b9fcceabdc68ceb04d26cfe6094ecd9",
           "property": "P20",
           "snaktype": "value"
         },
@@ -60,18 +67,37 @@
         "type": "statement"
       },
       {
-        "id": "Q85969$535F4DD3-FE81-4673-A126-20C4A4535BC5",
+        "id": "Q195048$8BF64E1E-9604-D60C-8F08-D9AB99AE4C76",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q85993",
-              "numeric-id": 85993
+              "id": "Q195114",
+              "numeric-id": 195114
             }
           },
-          "hash": "6395f90ea7b9531fe991449acaf447ed649c4f6d",
+          "hash": "22694dd0fdb2bfaec807b9e6487cb0d880d9db05",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q195048$1282E51D-C85C-22BC-03BD-F5B3790CDCDA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q195269",
+              "numeric-id": 195269
+            }
+          },
+          "hash": "94b95b1e968f6506377cd080d955808cfb8c68e4",
           "property": "P20",
           "snaktype": "value"
         },
@@ -100,7 +126,7 @@
     ],
     "P39": [
       {
-        "id": "Q85969$B227C4BE-827B-40B1-B95E-0995EEF7C2D3",
+        "id": "Q195048$3356E804-4477-4FC0-B02F-328DDB92EF0E",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -119,7 +145,7 @@
         "type": "statement"
       },
       {
-        "id": "Q85969$B55C9B1F-DFC5-4181-859D-52DF88C90905",
+        "id": "Q195048$BB6B5162-78F8-476F-B1DD-AD9E137BD6C3",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -140,18 +166,18 @@
     ],
     "P42": [
       {
-        "id": "Q85969$6D353520-52AD-4A22-A91B-74F98EF70D3E",
+        "id": "Q195048$E37C9DF2-C3C8-9E93-9B75-715FA93F2448",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q85973",
-              "numeric-id": 85973
+              "id": "Q195047",
+              "numeric-id": 195047
             }
           },
-          "hash": "97ac88df38ce1147cca9516a7ab953e481d31cc2",
+          "hash": "ea89524931b24e6adacd1e3e10e57455033a5296",
           "property": "P42",
           "snaktype": "value"
         },
@@ -161,18 +187,18 @@
     ],
     "P47": [
       {
-        "id": "Q85969$6012135C-0ABC-498A-B79E-39C5EEA0AF9D",
+        "id": "Q195048$21DBCC2D-2C9E-1404-560E-DEB947C37022",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q85951",
-              "numeric-id": 85951
+              "id": "Q195139",
+              "numeric-id": 195139
             }
           },
-          "hash": "f05504ca242294d8014f4013d07e5dd4e20a12d4",
+          "hash": "e50aebe2cd1addadd2ba76914e7f04aebb2492a4",
           "property": "P47",
           "snaktype": "value"
         },
@@ -182,18 +208,18 @@
     ],
     "P48": [
       {
-        "id": "Q85969$769B6EBD-27E3-4CB8-9306-E5715E1A1C60",
+        "id": "Q195048$94026378-4C3E-E31F-39BB-4252E47DD9F0",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q85963",
-              "numeric-id": 85963
+              "id": "Q195140",
+              "numeric-id": 195140
             }
           },
-          "hash": "4248e2b08db2042ca4c86465a1a06a6d498ed440",
+          "hash": "ac568f192aa386e136753f2246ab256086b7d9ff",
           "property": "P48",
           "snaktype": "value"
         },
@@ -203,7 +229,7 @@
     ],
     "P55": [
       {
-        "id": "Q85969$F470C17C-D56E-411B-B995-08197CE1207F",
+        "id": "Q195048$AD9A031F-3F15-5D59-FC69-C8E92812D936",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -221,21 +247,55 @@
         "rank": "normal",
         "type": "statement"
       }
+    ],
+    "P62": [
+      {
+        "id": "Q195048$78DA129E-B56A-C6CE-0CAE-AB50DBCF8064",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000002187608811"
+          },
+          "hash": "173b35c3b7431cc7daf5f0f864e9a90ad487f764",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q195048$5EF1039D-E19B-4259-B76A-B8C13C57B901",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ahmose I Queen of Egypt Arms.svg"
+          },
+          "hash": "8be3ebe31e5071d82540925d9505f7989643b7c4",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
     ]
   },
   "descriptions": {},
-  "id": "Q85969",
+  "id": "Q195048",
   "labels": {
     "en": {
       "language": "en",
-      "value": "Ahmose I"
+      "value": "Ahmose I Queen of Egypt"
     }
   },
-  "lastrevid": 17500779,
-  "modified": "2025-09-16T22:10:11Z",
+  "lastrevid": 17605520,
+  "modified": "2025-09-17T22:56:37Z",
   "ns": 860,
-  "pageid": 100800,
+  "pageid": 216836,
   "sitelinks": {},
-  "title": "Item:Q85969",
+  "title": "Item:Q195048",
   "type": "item"
 }

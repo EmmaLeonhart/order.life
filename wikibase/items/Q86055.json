@@ -1,9 +1,16 @@
 {
-  "aliases": {},
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Amenhotep"
+      }
+    ]
+  },
   "claims": {
     "P39": [
       {
-        "id": "Q86055$B3171F1C-8CB6-4B1E-A12D-F9AFA612848D",
+        "id": "Q195043$C3EC1FA1-B677-4471-9821-0D1FE9C1794C",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -22,7 +29,7 @@
         "type": "statement"
       },
       {
-        "id": "Q86055$76338C21-3004-46F4-9420-D4775E554EA1",
+        "id": "Q195043$D3AD6D55-615E-422E-8F13-5E108B9E63D0",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -43,19 +50,40 @@
     ],
     "P47": [
       {
-        "id": "Q86055$716B2213-B443-460D-AE1F-15816D1D76F8",
+        "id": "Q195043$0DAF357E-27AD-9089-833B-831D63F0E8BB",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q86023",
-              "numeric-id": 86023
+              "id": "Q195041",
+              "numeric-id": 195041
             }
           },
-          "hash": "6685e2d7fbf888a661f065d3271c764a033f7254",
+          "hash": "3af06663259205c0d4bfb3df5209597944a86b4f",
           "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q195043$65A219D8-B4DD-9C5F-F33F-7CB9FAAE516C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q195364",
+              "numeric-id": 195364
+            }
+          },
+          "hash": "a70fdcc6664c3f83d66b2c9158dc3dd654230ef0",
+          "property": "P48",
           "snaktype": "value"
         },
         "rank": "normal",
@@ -64,7 +92,7 @@
     ],
     "P55": [
       {
-        "id": "Q86055$A3DFA242-7A32-44E4-AAFD-DA3BDF277156",
+        "id": "Q195043$CB70633A-F21F-E70A-7C93-BEBAE680EEFD",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -82,21 +110,55 @@
         "rank": "normal",
         "type": "statement"
       }
+    ],
+    "P62": [
+      {
+        "id": "Q195043$7113A098-877C-FB90-6DBE-D0DD920B67DF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000002187608712"
+          },
+          "hash": "046e2e21aa18b02642127d684609bb82524efda0",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q195043$C222365D-2EA4-4CC6-9669-DA4260102F69",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Amenhotep Priest of Ptah Arms.svg"
+          },
+          "hash": "98aca121e179dd1291a691b5f8728d24d4ef428f",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
     ]
   },
   "descriptions": {},
-  "id": "Q86055",
+  "id": "Q195043",
   "labels": {
     "en": {
       "language": "en",
-      "value": "Amenhotep"
+      "value": "Amenhotep Priest of Ptah"
     }
   },
-  "lastrevid": 17500863,
-  "modified": "2025-09-16T22:11:20Z",
+  "lastrevid": 17605510,
+  "modified": "2025-09-17T22:56:29Z",
   "ns": 860,
-  "pageid": 100886,
+  "pageid": 216975,
   "sitelinks": {},
-  "title": "Item:Q86055",
+  "title": "Item:Q195043",
   "type": "item"
 }

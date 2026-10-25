@@ -1,9 +1,16 @@
 {
-  "aliases": {},
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Meritamen C . "
+      }
+    ]
+  },
   "claims": {
     "P39": [
       {
-        "id": "Q86025$75AB391B-FF0C-4A64-9510-565FB99DAB5A",
+        "id": "Q195439$21D5D1AB-8D11-4CBD-97FA-3933C8A1DC2D",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -22,7 +29,7 @@
         "type": "statement"
       },
       {
-        "id": "Q86025$E8D3AD8F-FE27-45B3-81CE-8D96304B0F3A",
+        "id": "Q195439$F94D09DC-57D9-46BD-98DF-0A061B71593E",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -43,19 +50,40 @@
     ],
     "P47": [
       {
-        "id": "Q86025$C8DF4CC3-E907-4484-B3E2-9D95BCA48C4D",
+        "id": "Q195439$8508C1C3-E140-6389-1940-FDFEF908B030",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q86001",
-              "numeric-id": 86001
+              "id": "Q195045",
+              "numeric-id": 195045
             }
           },
-          "hash": "4e271596eb8767c36f98a1cfcd9f10e04841d6ed",
+          "hash": "7edc97022247166c3ce53a9864d1f0949c82de50",
           "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q195439$B38FF1D8-502A-D6F7-B404-2CCA4DBA95DF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q195046",
+              "numeric-id": 195046
+            }
+          },
+          "hash": "b3d129e3315f4f7057144dbc635bfe53042fbe0b",
+          "property": "P48",
           "snaktype": "value"
         },
         "rank": "normal",
@@ -64,7 +92,7 @@
     ],
     "P55": [
       {
-        "id": "Q86025$EBE863EB-E69B-421D-B083-936A60FFD48D",
+        "id": "Q195439$F989C882-B21F-75A0-9EDD-48A11CCBDFD4",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -82,21 +110,55 @@
         "rank": "normal",
         "type": "statement"
       }
+    ],
+    "P62": [
+      {
+        "id": "Q195439$7DC388F8-1D03-B63D-17CC-090A82FCF66C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000006964066995"
+          },
+          "hash": "3dad6a73a4bb957d95bc34df20bd07a2e307b86d",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q195439$C713769C-AAA9-483C-A28F-A65C7EF49C74",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Meritamen C . . God's Wife of Amun Arms.svg"
+          },
+          "hash": "0fbe851868a8e8ffd11eef0dc13ae1cbad23ba16",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
     ]
   },
   "descriptions": {},
-  "id": "Q86025",
+  "id": "Q195439",
   "labels": {
     "en": {
       "language": "en",
-      "value": "Meritamen C . "
+      "value": "Meritamen C . . God's Wife of Amun"
     }
   },
-  "lastrevid": 17500833,
-  "modified": "2025-09-16T22:10:56Z",
+  "lastrevid": 17606114,
+  "modified": "2025-09-17T23:04:50Z",
   "ns": 860,
-  "pageid": 100856,
+  "pageid": 216932,
   "sitelinks": {},
-  "title": "Item:Q86025",
+  "title": "Item:Q195439",
   "type": "item"
 }

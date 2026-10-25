@@ -1,9 +1,16 @@
 {
-  "aliases": {},
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ahmose-Nebetta . "
+      }
+    ]
+  },
   "claims": {
     "P39": [
       {
-        "id": "Q85929$A63D99B1-3DA1-41B8-80C4-0BD9C627AAD9",
+        "id": "Q195375$8A203214-72F7-4271-A065-F8725E51FB9F",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -22,7 +29,7 @@
         "type": "statement"
       },
       {
-        "id": "Q85929$606E81EB-844B-4D85-BD51-E2B9513D8869",
+        "id": "Q195375$AF77D4A6-6CAC-4942-9AEE-CC6FC31F6366",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -43,18 +50,18 @@
     ],
     "P42": [
       {
-        "id": "Q85929$9804480A-7A2D-4A44-A0D4-F95467D26B3A",
+        "id": "Q195375$99A281D8-F470-408A-8D46-AE3752510BC2",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q85921",
-              "numeric-id": 85921
+              "id": "Q195117",
+              "numeric-id": 195117
             }
           },
-          "hash": "4bbcbc8e1be8d28532cc88119210249245c34388",
+          "hash": "5de62fd40297a3894992088bf10a0906e9d4a3fe",
           "property": "P42",
           "snaktype": "value"
         },
@@ -64,18 +71,18 @@
     ],
     "P47": [
       {
-        "id": "Q85929$5FB7B429-CF92-4E77-90C0-27B1ABDC32C8",
+        "id": "Q195375$2DA9D6F9-8AA3-2A42-B5FB-B441C9D92C52",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q85907",
-              "numeric-id": 85907
+              "id": "Q195370",
+              "numeric-id": 195370
             }
           },
-          "hash": "a1adcaf5f6417f9b8f321f4d4b8a9fa1dc310a8b",
+          "hash": "606fa95215b36ee45a839313c69d315d64954787",
           "property": "P47",
           "snaktype": "value"
         },
@@ -85,18 +92,18 @@
     ],
     "P48": [
       {
-        "id": "Q85929$ACC64714-1889-4E63-9B66-EA4339083017",
+        "id": "Q195375$7FD86C22-14D4-51FF-1275-3A6091B6B81E",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q85913",
-              "numeric-id": 85913
+              "id": "Q195120",
+              "numeric-id": 195120
             }
           },
-          "hash": "57151dab9db2e8603bc3837ec59fd3c0cf39e33c",
+          "hash": "96b686b49b915c9a70604fd0d7f071323c015f4a",
           "property": "P48",
           "snaktype": "value"
         },
@@ -106,7 +113,7 @@
     ],
     "P55": [
       {
-        "id": "Q85929$B6178DCB-795B-47A0-B982-9BC24FCF2104",
+        "id": "Q195375$3124A609-60BB-5769-48E6-3FACFE050005",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -124,21 +131,55 @@
         "rank": "normal",
         "type": "statement"
       }
+    ],
+    "P62": [
+      {
+        "id": "Q195375$D33A32C7-67D3-1E6B-1A51-0F10F872E31B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000006187183219"
+          },
+          "hash": "618d8446d13f82817214bfa41d774ba7c7f84f00",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q195375$16C9BD97-C2CA-4A43-9CAC-4D4A7B02ED6B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ahmose-Nebetta . . Arms.svg"
+          },
+          "hash": "b0350a32b9bc2f155eaf0430a3f4518841d960cf",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
     ]
   },
   "descriptions": {},
-  "id": "Q85929",
+  "id": "Q195375",
   "labels": {
     "en": {
       "language": "en",
-      "value": "Ahmose-Nebetta . "
+      "value": "Ahmose-Nebetta . ."
     }
   },
-  "lastrevid": 17500739,
-  "modified": "2025-09-16T22:09:38Z",
+  "lastrevid": 17606034,
+  "modified": "2025-09-17T23:03:47Z",
   "ns": 860,
-  "pageid": 100760,
+  "pageid": 216792,
   "sitelinks": {},
-  "title": "Item:Q85929",
+  "title": "Item:Q195375",
   "type": "item"
 }

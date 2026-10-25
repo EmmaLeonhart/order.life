@@ -1,5 +1,12 @@
 {
-  "aliases": {},
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ahmose-Sitkamose  Pharaoh"
+      }
+    ]
+  },
   "claims": {
     "P39": [
       {
@@ -153,6 +160,26 @@
           },
           "hash": "99309491103c242e95ad271e254b68c330ea008a",
           "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q85941$9A695611-C8E5-49B2-BE1A-3DAA1AA96886",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Ahmose-Sitkamose /Pharaoh/"
+            }
+          },
+          "hash": "37468bb06bb46346a401fcea27a6aca981970937",
+          "property": "P5",
           "snaktype": "value"
         },
         "rank": "normal",

@@ -1,5 +1,12 @@
 {
-  "aliases": {},
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Pricness Netsemmut of  Egypt"
+      }
+    ]
+  },
   "claims": {
     "P39": [
       {
@@ -132,6 +139,26 @@
           },
           "hash": "d7488c2805d8f42e6de025d27971be5300c8738a",
           "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q86133$C000B98B-E030-4BF9-8545-B4C653EC55D4",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Pricness Netsemmut of /Egypt/"
+            }
+          },
+          "hash": "dd5666f4cdba427c4e4428572b0d8f9c5799d04c",
+          "property": "P5",
           "snaktype": "value"
         },
         "rank": "normal",

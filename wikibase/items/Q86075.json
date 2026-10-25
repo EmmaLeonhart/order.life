@@ -1,9 +1,16 @@
 {
-  "aliases": {},
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Tentamun . "
+      }
+    ]
+  },
   "claims": {
     "P39": [
       {
-        "id": "Q86075$8EB8DF35-ACB4-4294-A5F6-6CF2B90DB5AC",
+        "id": "Q195040$C154CD5E-02DF-405F-9453-5908F1E1D3F0",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -22,7 +29,7 @@
         "type": "statement"
       },
       {
-        "id": "Q86075$50217CE9-CAAC-44C2-8B59-EDA7147DE916",
+        "id": "Q195040$03C305D5-1996-464E-B045-B1DFE85EAAB1",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -43,19 +50,40 @@
     ],
     "P47": [
       {
-        "id": "Q86075$703B6780-252A-4F85-AFC5-180F84FFDBFE",
+        "id": "Q195040$C0289548-C004-F2ED-EACC-79E9FC8CEC43",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q86045",
-              "numeric-id": 86045
+              "id": "Q195362",
+              "numeric-id": 195362
             }
           },
-          "hash": "eefd093366a43dca0bf5360ca41813034c995c31",
+          "hash": "c13a98d973a2f7adb526fae621d87bbc7840a620",
           "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q195040$7611D779-BA55-AF8C-45A3-EC811FC94E08",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q195365",
+              "numeric-id": 195365
+            }
+          },
+          "hash": "8dd8debab5ded0997f810fe5838d44416efa18e0",
+          "property": "P48",
           "snaktype": "value"
         },
         "rank": "normal",
@@ -64,7 +92,7 @@
     ],
     "P55": [
       {
-        "id": "Q86075$506EFB67-C866-4A33-90FC-E6718E51F240",
+        "id": "Q195040$85B430FB-A563-C9B7-70CF-B7F8854568AC",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -82,21 +110,55 @@
         "rank": "normal",
         "type": "statement"
       }
+    ],
+    "P62": [
+      {
+        "id": "Q195040$FAB7D7E4-75DD-05AC-E594-4B4BC7E6BAF0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000002187608640"
+          },
+          "hash": "fb3805d7df564c451f4d940d1fff57452e3f2ed0",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q195040$A37EFE89-D6DD-46E6-BF5C-84138B7BD099",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Tentamun . . Arms.svg"
+          },
+          "hash": "086f82699336d4314e67b34acc32a2544c1db7f3",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
     ]
   },
   "descriptions": {},
-  "id": "Q86075",
+  "id": "Q195040",
   "labels": {
     "en": {
       "language": "en",
-      "value": "Tentamun . "
+      "value": "Tentamun . ."
     }
   },
-  "lastrevid": 17500883,
-  "modified": "2025-09-16T22:11:37Z",
+  "lastrevid": 17605504,
+  "modified": "2025-09-17T22:56:24Z",
   "ns": 860,
-  "pageid": 100906,
+  "pageid": 217002,
   "sitelinks": {},
-  "title": "Item:Q86075",
+  "title": "Item:Q195040",
   "type": "item"
 }

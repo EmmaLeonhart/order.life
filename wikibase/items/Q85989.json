@@ -1,9 +1,16 @@
 {
-  "aliases": {},
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Neferubity . "
+      }
+    ]
+  },
   "claims": {
     "P39": [
       {
-        "id": "Q85989$1D995D3D-10EA-45D8-9149-CB721D8E56F1",
+        "id": "Q195368$3F708A6D-16FE-4440-BA5C-D0711D021D91",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -22,7 +29,7 @@
         "type": "statement"
       },
       {
-        "id": "Q85989$8F76D08F-2E1E-4665-A6C2-274E26FE15FB",
+        "id": "Q195368$C9FF8AAB-848E-4C4F-9052-EB63399D68ED",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -43,18 +50,18 @@
     ],
     "P47": [
       {
-        "id": "Q85989$3DDD00A3-3208-4E73-97C2-CA1912E44F6E",
+        "id": "Q195368$8C2B8F02-452E-F96B-9616-2B064E8BA3D6",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q85973",
-              "numeric-id": 85973
+              "id": "Q195047",
+              "numeric-id": 195047
             }
           },
-          "hash": "27a4e8cf0bdb66aad3ad02a1e4fd290dadb5ddc3",
+          "hash": "6c96c532e06bb5a8e9c9cf5caa527de5e8f6b0ad",
           "property": "P47",
           "snaktype": "value"
         },
@@ -64,18 +71,18 @@
     ],
     "P48": [
       {
-        "id": "Q85989$0BC014F2-9DF5-4F5A-9D12-D3AFA822533B",
+        "id": "Q195368$F3015F37-FF46-10B9-D134-D0BA448F65E6",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q85969",
-              "numeric-id": 85969
+              "id": "Q195048",
+              "numeric-id": 195048
             }
           },
-          "hash": "07ce6f9c913a9fba4cc83b4470bff9c8763f5509",
+          "hash": "d00be789ebc76ff73d1595f012a815e13b601f54",
           "property": "P48",
           "snaktype": "value"
         },
@@ -85,7 +92,7 @@
     ],
     "P55": [
       {
-        "id": "Q85989$BBDEBFA4-E10E-449D-9ED6-4699E89186A7",
+        "id": "Q195368$CF4ED740-8078-DA84-15C7-43B884ACAD86",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -103,21 +110,55 @@
         "rank": "normal",
         "type": "statement"
       }
+    ],
+    "P62": [
+      {
+        "id": "Q195368$2B057415-45E7-9BFC-F837-F1AC49702BD9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000006160799157"
+          },
+          "hash": "f3ea2de12f69d59d8f2f8caf13366c27a63697dd",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q195368$EDD36422-958B-487D-8939-5861C81D4E3D",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Neferubity . . Arms.svg"
+          },
+          "hash": "696fd6b79ac2eaccbfd5464bd046e5472678c1f2",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
     ]
   },
   "descriptions": {},
-  "id": "Q85989",
+  "id": "Q195368",
   "labels": {
     "en": {
       "language": "en",
-      "value": "Neferubity . "
+      "value": "Neferubity . ."
     }
   },
-  "lastrevid": 17500799,
-  "modified": "2025-09-16T22:10:27Z",
+  "lastrevid": 17606020,
+  "modified": "2025-09-17T23:03:35Z",
   "ns": 860,
-  "pageid": 100820,
+  "pageid": 216877,
   "sitelinks": {},
-  "title": "Item:Q85989",
+  "title": "Item:Q195368",
   "type": "item"
 }

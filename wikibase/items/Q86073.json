@@ -1,20 +1,27 @@
 {
-  "aliases": {},
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Siatum . "
+      }
+    ]
+  },
   "claims": {
     "P20": [
       {
-        "id": "Q86073$171C4CAB-4C9F-4256-BBFA-FEA70761F4DA",
+        "id": "Q195534$1BBF15BC-B2AB-358C-23EE-A5130C4515AC",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q86141",
-              "numeric-id": 86141
+              "id": "Q195502",
+              "numeric-id": 195502
             }
           },
-          "hash": "91e37a8ae6c473598d8598f65e996c67b6ee3f19",
+          "hash": "d13363200521ee69f7b9da008bfaedd8a73fa17b",
           "property": "P20",
           "snaktype": "value"
         },
@@ -24,7 +31,7 @@
     ],
     "P39": [
       {
-        "id": "Q86073$2C398D32-298C-4371-BAF4-C4577561358A",
+        "id": "Q195534$F8BE4F86-89CD-4E1C-BB4C-62C3EBB2D002",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -43,7 +50,7 @@
         "type": "statement"
       },
       {
-        "id": "Q86073$2175AFB5-AE0F-4459-90C0-A87CBEAEA36E",
+        "id": "Q195534$A26262A2-657D-4302-8865-655C1465228F",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -64,19 +71,40 @@
     ],
     "P47": [
       {
-        "id": "Q86073$A17E9521-2DE6-480E-9D9A-891AC99C7A13",
+        "id": "Q195534$102DAA54-90B8-5A75-857C-621322FF0105",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q86045",
-              "numeric-id": 86045
+              "id": "Q195362",
+              "numeric-id": 195362
             }
           },
-          "hash": "eefd093366a43dca0bf5360ca41813034c995c31",
+          "hash": "c13a98d973a2f7adb526fae621d87bbc7840a620",
           "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q195534$877CF265-E9E2-5527-C0DE-FA332A91A677",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q195365",
+              "numeric-id": 195365
+            }
+          },
+          "hash": "8dd8debab5ded0997f810fe5838d44416efa18e0",
+          "property": "P48",
           "snaktype": "value"
         },
         "rank": "normal",
@@ -85,7 +113,7 @@
     ],
     "P55": [
       {
-        "id": "Q86073$D3080EB4-174E-46CF-9EFD-BF7FE6A5B2F5",
+        "id": "Q195534$9219E287-8FC7-AC55-49D6-AC483E0F67E7",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -103,21 +131,55 @@
         "rank": "normal",
         "type": "statement"
       }
+    ],
+    "P62": [
+      {
+        "id": "Q195534$B73CD87D-9813-F2A1-F8A2-3EC6A7FD07FD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000012991635618"
+          },
+          "hash": "5797eec054c4290b3b7b8085731da804bd17f3ba",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q195534$A962B1C5-21FA-41C2-BBF2-3C4EB267FC5A",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Siatum . . Arms.svg"
+          },
+          "hash": "306b05cf32d247d34375ea740ff57b87ee68cc26",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
     ]
   },
   "descriptions": {},
-  "id": "Q86073",
+  "id": "Q195534",
   "labels": {
     "en": {
       "language": "en",
-      "value": "Siatum . "
+      "value": "Siatum . ."
     }
   },
-  "lastrevid": 17500881,
-  "modified": "2025-09-16T22:11:35Z",
+  "lastrevid": 17606246,
+  "modified": "2025-09-17T23:06:35Z",
   "ns": 860,
-  "pageid": 100904,
+  "pageid": 217001,
   "sitelinks": {},
-  "title": "Item:Q86073",
+  "title": "Item:Q195534",
   "type": "item"
 }

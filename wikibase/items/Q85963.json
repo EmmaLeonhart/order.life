@@ -14,18 +14,18 @@
   "claims": {
     "P20": [
       {
-        "id": "Q85963$068D0939-1AFF-4B50-9516-82A779E2A287",
+        "id": "Q195140$5ED26370-0317-2A2F-ED0A-03B8D84E9BC3",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q85969",
-              "numeric-id": 85969
+              "id": "Q195048",
+              "numeric-id": 195048
             }
           },
-          "hash": "3b5d75e66b586de86a2c8b4e2a0b32a0f37ec4f8",
+          "hash": "695a2051f591b130920260654d42b0e41decf0b6",
           "property": "P20",
           "snaktype": "value"
         },
@@ -33,18 +33,18 @@
         "type": "statement"
       },
       {
-        "id": "Q85963$0A7C7994-5A62-44DA-AAC9-ED158EFA4B4C",
+        "id": "Q195140$FA081538-8781-970B-10C1-E87210F78B50",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q85971",
-              "numeric-id": 85971
+              "id": "Q195751",
+              "numeric-id": 195751
             }
           },
-          "hash": "db4cec7ee8c1489d39ad1edc691c5bf23f8e721c",
+          "hash": "1cfd37c2d63af1b247597deefe60f4a93c9fd8a2",
           "property": "P20",
           "snaktype": "value"
         },
@@ -54,7 +54,7 @@
     ],
     "P39": [
       {
-        "id": "Q85963$96E4034A-CBDE-475F-91E0-EAFA0E7E90FB",
+        "id": "Q195140$F67D0A25-D39C-42B3-AF7C-8E6E1F24E7B4",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -73,7 +73,7 @@
         "type": "statement"
       },
       {
-        "id": "Q85963$4D477DAA-9895-4D95-B7F4-9675D7E6CA6C",
+        "id": "Q195140$DE0AD5FF-BB85-413E-BEBC-235AF3D5801D",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -94,18 +94,18 @@
     ],
     "P42": [
       {
-        "id": "Q85963$F02133E4-50FC-4EFA-B594-F00AF40E57BD",
+        "id": "Q195140$FBB5A71A-8377-33A0-C793-A5D70AB0CDDE",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q85951",
-              "numeric-id": 85951
+              "id": "Q195139",
+              "numeric-id": 195139
             }
           },
-          "hash": "8507779e75bff3f3d04d05c43cfe43ac781ca25f",
+          "hash": "60740af52b34a76098155ec28a79da69bda867ac",
           "property": "P42",
           "snaktype": "value"
         },
@@ -115,18 +115,18 @@
     ],
     "P47": [
       {
-        "id": "Q85963$6528C77D-004A-4D4C-959D-0BE7210D25E6",
+        "id": "Q195140$DF676BA7-DD85-3A1C-9F77-A7244701CA15",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q85921",
-              "numeric-id": 85921
+              "id": "Q195117",
+              "numeric-id": 195117
             }
           },
-          "hash": "a0bd52be8b95dd50ad6f003039711908afa60ee7",
+          "hash": "939d3110f275716e872aa80c4a581df8ef34ce6c",
           "property": "P47",
           "snaktype": "value"
         },
@@ -136,19 +136,74 @@
     ],
     "P48": [
       {
-        "id": "Q85963$ED997E9E-7BFE-4132-A15F-0332CF400843",
+        "id": "Q195140$1869F111-B39C-6D1D-9F04-A69BB3607E20",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q85923",
-              "numeric-id": 85923
+              "id": "Q195118",
+              "numeric-id": 195118
             }
           },
-          "hash": "19e9a9df89e000bebea79879fcbd876f31cbbd78",
+          "hash": "ff0c25f362280c8bc7b10ec1ea4ecdef10349bf6",
           "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q195140$EE562CAB-C473-F986-78F5-C49903B6DF77",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q195140$A7E866F6-AA8F-98C6-22D9-525E5555228A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000003645859770"
+          },
+          "hash": "4a33f1011844308be256ed55f9a503ff51c06702",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q195140$E1E87B75-5EEA-41CE-A495-14D4E44AAAB9",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ahmose-Meritamun bint Ahmose I Queen of Egypt, Great Royal Wife, God's Wife of Amun Arms.svg"
+          },
+          "hash": "30e2d45f943fb5f2f59f8dcc3a8098aeacc0332b",
+          "property": "P94",
           "snaktype": "value"
         },
         "rank": "normal",
@@ -174,42 +229,21 @@
         "rank": "normal",
         "type": "statement"
       }
-    ],
-    "P55": [
-      {
-        "id": "Q85963$3E566802-37CA-4FAF-B7FA-B3F92EB8B02B",
-        "mainsnak": {
-          "datatype": "wikibase-item",
-          "datavalue": {
-            "type": "wikibase-entityid",
-            "value": {
-              "entity-type": "item",
-              "id": "Q153719",
-              "numeric-id": 153719
-            }
-          },
-          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
-          "property": "P55",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
     ]
   },
   "descriptions": {},
-  "id": "Q85963",
+  "id": "Q195140",
   "labels": {
     "en": {
       "language": "en",
-      "value": "Ahmose-Meritamun daughter of  Ahmose I"
+      "value": "Ahmose-Meritamun bint Ahmose I Queen of Egypt, Great Royal Wife, God's Wife of Amun"
     }
   },
-  "lastrevid": 17500773,
-  "modified": "2025-09-16T22:10:06Z",
+  "lastrevid": 17605660,
+  "modified": "2025-09-17T22:58:30Z",
   "ns": 860,
-  "pageid": 100794,
+  "pageid": 216820,
   "sitelinks": {},
-  "title": "Item:Q85963",
+  "title": "Item:Q195140",
   "type": "item"
 }

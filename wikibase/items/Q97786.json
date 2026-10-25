@@ -1,20 +1,27 @@
 {
-  "aliases": {},
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "\"Meritaten\"  Younger Lady"
+      }
+    ]
+  },
   "claims": {
     "P20": [
       {
-        "id": "Q86101$5EA296A7-A632-43EB-9FD1-E4A9B122CAA8",
+        "id": "Q195497$2A908358-E7AE-529E-E7B1-2BB2D08306EF",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q86161",
-              "numeric-id": 86161
+              "id": "Q195006",
+              "numeric-id": 195006
             }
           },
-          "hash": "a6e6ae87a83d970bb80a7b43ad9b82c547f5c935",
+          "hash": "ed1a8cc999cc5725c2253820a583893aff49a5a6",
           "property": "P20",
           "snaktype": "value"
         },
@@ -24,7 +31,7 @@
     ],
     "P39": [
       {
-        "id": "Q86101$D3F6F787-30C1-45D1-8D32-C0797D2F3528",
+        "id": "Q195497$F3627E35-49CA-421F-A69F-FF8FD982FF21",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -43,7 +50,7 @@
         "type": "statement"
       },
       {
-        "id": "Q86101$B183684D-6734-44E5-80A0-A4AD23895A9D",
+        "id": "Q195497$A5CFB5E2-1D9A-47DB-A6EA-C49AC0DC6E42",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -64,18 +71,18 @@
     ],
     "P42": [
       {
-        "id": "Q86101$5C5CBE19-861C-4C77-9B56-658D38F46C09",
+        "id": "Q195497$B81CD099-F541-99E8-F6B0-4FC861E3BAE5",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q86099",
-              "numeric-id": 86099
+              "id": "Q195363",
+              "numeric-id": 195363
             }
           },
-          "hash": "cb37890e58972881b35a38075a31d452ba5534a8",
+          "hash": "148832a0109e98117495bf7ee74a6597b803589f",
           "property": "P42",
           "snaktype": "value"
         },
@@ -85,19 +92,95 @@
     ],
     "P47": [
       {
-        "id": "Q86101$871A2D55-31E3-4D03-A89E-C79AC76212D0",
+        "id": "Q195497$A33AFC9B-67D6-77B0-1B81-B293654C1D64",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q86067",
-              "numeric-id": 86067
+              "id": "Q195082",
+              "numeric-id": 195082
             }
           },
-          "hash": "2863c7d61dc6ed15325a890a495381cac34f401c",
+          "hash": "1af183970343ffe4f66dc1fed3c9f5f1ab5c604b",
           "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q195497$2D020A17-5BCF-4753-97DC-57DBC3810AFC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q195081",
+              "numeric-id": 195081
+            }
+          },
+          "hash": "56c251b330a4a55caa0e367862ab96b060a82f11",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q195497$362AE9E3-063A-A5C9-B9FD-6055F43FAB3D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q195497$C13C47A8-94EC-8E90-3BD7-9FD96584F459",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000012767436560"
+          },
+          "hash": "d6f1ef47966e61998372f80893a16c18830c3699",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q195497$2F56F35F-B897-43C8-8598-D688BFD24A6C",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "The Younger Lady Arms.svg"
+          },
+          "hash": "277e6832f382a611ca2e4c857c618ec5b3193dfa",
+          "property": "P94",
           "snaktype": "value"
         },
         "rank": "normal",
@@ -123,42 +206,21 @@
         "rank": "normal",
         "type": "statement"
       }
-    ],
-    "P55": [
-      {
-        "id": "Q86101$6070108D-C136-40D3-9DB0-7D535B69EBB4",
-        "mainsnak": {
-          "datatype": "wikibase-item",
-          "datavalue": {
-            "type": "wikibase-entityid",
-            "value": {
-              "entity-type": "item",
-              "id": "Q153719",
-              "numeric-id": 153719
-            }
-          },
-          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
-          "property": "P55",
-          "snaktype": "value"
-        },
-        "rank": "normal",
-        "type": "statement"
-      }
     ]
   },
   "descriptions": {},
-  "id": "Q86101",
+  "id": "Q195497",
   "labels": {
     "en": {
       "language": "en",
-      "value": "\"Meritaten\"  Younger Lady"
+      "value": "The Younger Lady"
     }
   },
-  "lastrevid": 17500909,
-  "modified": "2025-09-16T22:11:58Z",
+  "lastrevid": 17606178,
+  "modified": "2025-09-17T23:05:42Z",
   "ns": 860,
-  "pageid": 100932,
+  "pageid": 217031,
   "sitelinks": {},
-  "title": "Item:Q86101",
+  "title": "Item:Q195497",
   "type": "item"
 }

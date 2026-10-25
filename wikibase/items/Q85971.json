@@ -1,9 +1,16 @@
 {
-  "aliases": {},
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Amenemhat . "
+      }
+    ]
+  },
   "claims": {
     "P39": [
       {
-        "id": "Q85971$E4F70256-013D-482B-AC68-064C3E96A204",
+        "id": "Q195751$EB8E1DE8-7862-49AA-85CD-B99562B094A2",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -22,7 +29,7 @@
         "type": "statement"
       },
       {
-        "id": "Q85971$1369C9CA-DCD5-4E66-BEA0-D0F31EF08B38",
+        "id": "Q195751$9E45A66A-F328-4C04-B79E-04B11202A1C4",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -43,18 +50,18 @@
     ],
     "P47": [
       {
-        "id": "Q85971$7EE96ACE-2E31-45E8-B473-F396BBC026B6",
+        "id": "Q195751$4B99EF87-C11D-9A7E-AA68-DB5EDC641272",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q85951",
-              "numeric-id": 85951
+              "id": "Q195139",
+              "numeric-id": 195139
             }
           },
-          "hash": "f05504ca242294d8014f4013d07e5dd4e20a12d4",
+          "hash": "e50aebe2cd1addadd2ba76914e7f04aebb2492a4",
           "property": "P47",
           "snaktype": "value"
         },
@@ -64,18 +71,18 @@
     ],
     "P48": [
       {
-        "id": "Q85971$B3115EC7-EA1A-4E2E-8AE6-C5282F0BC1B4",
+        "id": "Q195751$8048EE95-BC6E-877D-CCE0-D65FAD4A1938",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q85963",
-              "numeric-id": 85963
+              "id": "Q195140",
+              "numeric-id": 195140
             }
           },
-          "hash": "4248e2b08db2042ca4c86465a1a06a6d498ed440",
+          "hash": "ac568f192aa386e136753f2246ab256086b7d9ff",
           "property": "P48",
           "snaktype": "value"
         },
@@ -85,7 +92,7 @@
     ],
     "P55": [
       {
-        "id": "Q85971$A75E3F89-B338-4DC6-ADEF-D6F3797D2739",
+        "id": "Q195751$9012F684-00FC-D441-0B7D-BF7CBA48ECC1",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -103,21 +110,55 @@
         "rank": "normal",
         "type": "statement"
       }
+    ],
+    "P62": [
+      {
+        "id": "Q195751$AF143B35-C0DF-E58B-60FF-D8CB3A393B01",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000016681616013"
+          },
+          "hash": "ffbed66f760c4a97c1a628932adeccb43043f169",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q195751$4308CB49-A80F-4390-A960-A0EDBBA1B61E",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Amenemhat . . Arms.svg"
+          },
+          "hash": "819a6f312543d8cf751cd9a4637caf790b8bbb11",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
     ]
   },
   "descriptions": {},
-  "id": "Q85971",
+  "id": "Q195751",
   "labels": {
     "en": {
       "language": "en",
-      "value": "Amenemhat . "
+      "value": "Amenemhat . ."
     }
   },
-  "lastrevid": 17500781,
-  "modified": "2025-09-16T22:10:13Z",
+  "lastrevid": 17606648,
+  "modified": "2025-09-17T23:11:51Z",
   "ns": 860,
-  "pageid": 100802,
+  "pageid": 216837,
   "sitelinks": {},
-  "title": "Item:Q85971",
+  "title": "Item:Q195751",
   "type": "item"
 }

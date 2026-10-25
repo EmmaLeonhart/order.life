@@ -1,5 +1,12 @@
 {
-  "aliases": {},
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Thutmoses III  Adopted son of Nefretiti became Pharoah Hapshetsut"
+      }
+    ]
+  },
   "claims": {
     "P39": [
       {
@@ -132,6 +139,26 @@
           },
           "hash": "187d3bd16176eb27fe4e90faad3fb0f7278dc618",
           "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q86175$2556F633-4BC3-472F-AC4E-D023AC2DA5F3",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Thutmoses III /Adopted son of Nefretiti became Pharoah Hapshetsut/"
+            }
+          },
+          "hash": "acaf40f7b753afedc244cd10ad4d5468ccfe5179",
+          "property": "P5",
           "snaktype": "value"
         },
         "rank": "normal",

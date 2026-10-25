@@ -1,5 +1,16 @@
 {
-  "aliases": {},
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Amentotep IV AkenAton"
+      },
+      {
+        "language": "en",
+        "value": "Akhenaten"
+      }
+    ]
+  },
   "claims": {
     "P20": [
       {
@@ -205,6 +216,25 @@
             }
           },
           "hash": "3e614ea1db81091c5e80baba27acd3efb1003d80",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q86099$2C4DC434-839E-45B7-A883-97E39D94C8E8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q86169",
+              "numeric-id": 86169
+            }
+          },
+          "hash": "59e7d7cc738072bd2327b72442ff22ed7ddb7e72",
           "property": "P20",
           "snaktype": "value"
         },
@@ -521,9 +551,28 @@
         "rank": "normal",
         "type": "statement"
       }
+    ],
+    "P61": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P61",
+          "datavalue": {
+            "value": "Q81794",
+            "type": "string"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
     ]
   },
-  "descriptions": {},
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Egyptian pharaoh in 18th Dynasty; record created 2026-10-21 for the Gaiad's tags, from Wikidata Q81794"
+    }
+  },
   "id": "Q195363",
   "labels": {
     "en": {

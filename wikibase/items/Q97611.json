@@ -1,9 +1,16 @@
 {
-  "aliases": {},
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ahmose-Meritamon . "
+      }
+    ]
+  },
   "claims": {
     "P39": [
       {
-        "id": "Q85927$518D6E7A-5AAA-444F-8CAA-3ADE8BA6E23E",
+        "id": "Q195374$599ECB29-B78B-40E1-8E82-F985A5C351E1",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -22,7 +29,7 @@
         "type": "statement"
       },
       {
-        "id": "Q85927$0F022821-A3F4-4414-8EC6-517FBCF5173D",
+        "id": "Q195374$7EFEBDB9-44FE-48D6-B45E-799D9BA5527F",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -43,18 +50,18 @@
     ],
     "P47": [
       {
-        "id": "Q85927$7B178313-402A-45C5-8CE5-2DC83A6D6298",
+        "id": "Q195374$B42C47E9-567F-477F-6242-8A143AC4CBB2",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q85907",
-              "numeric-id": 85907
+              "id": "Q195370",
+              "numeric-id": 195370
             }
           },
-          "hash": "a1adcaf5f6417f9b8f321f4d4b8a9fa1dc310a8b",
+          "hash": "606fa95215b36ee45a839313c69d315d64954787",
           "property": "P47",
           "snaktype": "value"
         },
@@ -64,18 +71,18 @@
     ],
     "P48": [
       {
-        "id": "Q85927$06DCBF34-C1EE-4D82-A327-104C606729B3",
+        "id": "Q195374$11EF66BF-A9E2-3BC1-2D3D-792443C58CC6",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q85913",
-              "numeric-id": 85913
+              "id": "Q195120",
+              "numeric-id": 195120
             }
           },
-          "hash": "57151dab9db2e8603bc3837ec59fd3c0cf39e33c",
+          "hash": "96b686b49b915c9a70604fd0d7f071323c015f4a",
           "property": "P48",
           "snaktype": "value"
         },
@@ -85,7 +92,7 @@
     ],
     "P55": [
       {
-        "id": "Q85927$8A0B9D13-66E6-417E-82DF-964669FDA558",
+        "id": "Q195374$570F0E7B-0812-FCCA-D88B-5FFFFB1A3B39",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -103,21 +110,55 @@
         "rank": "normal",
         "type": "statement"
       }
+    ],
+    "P62": [
+      {
+        "id": "Q195374$0BBA6701-3303-A878-71E4-8A04A21065CF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000006185620614"
+          },
+          "hash": "2feb6bb13a8505704c8c9c7a60030810b4648f2c",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q195374$7763E01C-6189-45C1-B7FA-A6057AA3F741",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ahmose-Meritamon . . Arms.svg"
+          },
+          "hash": "a7251cac91b47325f1f940e2bd3433d6412fed76",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
     ]
   },
   "descriptions": {},
-  "id": "Q85927",
+  "id": "Q195374",
   "labels": {
     "en": {
       "language": "en",
-      "value": "Ahmose-Meritamon . "
+      "value": "Ahmose-Meritamon . ."
     }
   },
-  "lastrevid": 17500737,
-  "modified": "2025-09-16T22:09:36Z",
+  "lastrevid": 17606032,
+  "modified": "2025-09-17T23:03:45Z",
   "ns": 860,
-  "pageid": 100758,
+  "pageid": 216791,
   "sitelinks": {},
-  "title": "Item:Q85927",
+  "title": "Item:Q195374",
   "type": "item"
 }

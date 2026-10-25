@@ -1,9 +1,16 @@
 {
-  "aliases": {},
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Djhutmose"
+      }
+    ]
+  },
   "claims": {
     "P39": [
       {
-        "id": "Q86107$D25E929C-ABB0-4A07-B5CF-CDD8DD3B69D6",
+        "id": "Q195039$5E039D39-13E1-413C-ACD3-E29B1347207F",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -22,7 +29,7 @@
         "type": "statement"
       },
       {
-        "id": "Q86107$9ADB7BA6-8B0E-4613-80A0-00747B0916B5",
+        "id": "Q195039$454FC0AF-A05B-4079-A41F-693640B3A5D2",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -43,19 +50,40 @@
     ],
     "P47": [
       {
-        "id": "Q86107$1CB0C5F1-7220-4B4B-AE16-E99A0AB8A916",
+        "id": "Q195039$E162E2D6-5D9F-29B0-1596-1E8C4AD58B8E",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q86067",
-              "numeric-id": 86067
+              "id": "Q195082",
+              "numeric-id": 195082
             }
           },
-          "hash": "2863c7d61dc6ed15325a890a495381cac34f401c",
+          "hash": "1af183970343ffe4f66dc1fed3c9f5f1ab5c604b",
           "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q195039$AD80A7DC-2AE1-C999-3EB5-C3F3A8F78F5C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q195081",
+              "numeric-id": 195081
+            }
+          },
+          "hash": "56c251b330a4a55caa0e367862ab96b060a82f11",
+          "property": "P48",
           "snaktype": "value"
         },
         "rank": "normal",
@@ -64,7 +92,7 @@
     ],
     "P55": [
       {
-        "id": "Q86107$76E9C0B7-9ACB-4CCD-9E95-E39AFD05B4B7",
+        "id": "Q195039$A918798A-466B-706B-47ED-21403D871CA5",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -82,21 +110,55 @@
         "rank": "normal",
         "type": "statement"
       }
+    ],
+    "P62": [
+      {
+        "id": "Q195039$93131B13-9D4B-9821-D5B6-7DDE8705612C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000002187608611"
+          },
+          "hash": "8cf1a4d888d1dac42e3b16465d7e70eb8d507857",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q195039$A74FBCFB-6DB5-4AD2-8DBB-A9FA8FA28CBB",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Djhutmose High Priest of Ptah at Memphis Arms.svg"
+          },
+          "hash": "ec16337fb862f7141585ee3163613f74c8fc406f",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
     ]
   },
   "descriptions": {},
-  "id": "Q86107",
+  "id": "Q195039",
   "labels": {
     "en": {
       "language": "en",
-      "value": "Djhutmose"
+      "value": "Djhutmose High Priest of Ptah at Memphis"
     }
   },
-  "lastrevid": 17500915,
-  "modified": "2025-09-16T22:12:03Z",
+  "lastrevid": 17605502,
+  "modified": "2025-09-17T22:56:23Z",
   "ns": 860,
-  "pageid": 100938,
+  "pageid": 217035,
   "sitelinks": {},
-  "title": "Item:Q86107",
+  "title": "Item:Q195039",
   "type": "item"
 }

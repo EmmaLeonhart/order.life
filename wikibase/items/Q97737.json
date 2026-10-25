@@ -1,9 +1,16 @@
 {
-  "aliases": {},
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Aaheperkare . "
+      }
+    ]
+  },
   "claims": {
     "P39": [
       {
-        "id": "Q86053$6A7B0B1F-B3C5-4960-B60D-BF3298C13EE7",
+        "id": "Q195503$99A7C0CB-D3C7-4F8C-8B57-F7E659CC285D",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -22,7 +29,7 @@
         "type": "statement"
       },
       {
-        "id": "Q86053$E9AD00D6-34DF-43A0-B306-930BA2A802B0",
+        "id": "Q195503$01476A75-4B0E-498E-A66C-7E4D07197CEA",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -43,19 +50,40 @@
     ],
     "P47": [
       {
-        "id": "Q86053$6CEEAB1C-9203-4F27-A175-ADF1542076B7",
+        "id": "Q195503$2C5D1CF7-B453-1ED6-B430-6CA59175E7FF",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q86023",
-              "numeric-id": 86023
+              "id": "Q195041",
+              "numeric-id": 195041
             }
           },
-          "hash": "6685e2d7fbf888a661f065d3271c764a033f7254",
+          "hash": "3af06663259205c0d4bfb3df5209597944a86b4f",
           "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q195503$ADA41D11-A9CE-6628-4BD1-9E81445B1661",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q195364",
+              "numeric-id": 195364
+            }
+          },
+          "hash": "a70fdcc6664c3f83d66b2c9158dc3dd654230ef0",
+          "property": "P48",
           "snaktype": "value"
         },
         "rank": "normal",
@@ -64,7 +92,7 @@
     ],
     "P55": [
       {
-        "id": "Q86053$D0539F01-8324-4FFF-9831-F1F503C3BD19",
+        "id": "Q195503$79E3A6AF-8156-9927-9CFA-18F036B36F9F",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -82,21 +110,55 @@
         "rank": "normal",
         "type": "statement"
       }
+    ],
+    "P62": [
+      {
+        "id": "Q195503$16FA8427-BC24-A1D2-4A18-98F8CCC39E19",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000012768519571"
+          },
+          "hash": "39733d85a798e844d2010902030ab4b72874548f",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q195503$C2491E63-42D0-4D0D-8A04-C8A9E45E512C",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Aaheperkare . . Arms.svg"
+          },
+          "hash": "42b6f999d87412913bc446fc3a8d9516ce6149bd",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
     ]
   },
   "descriptions": {},
-  "id": "Q86053",
+  "id": "Q195503",
   "labels": {
     "en": {
       "language": "en",
-      "value": "Aaheperkare . "
+      "value": "Aaheperkare . ."
     }
   },
-  "lastrevid": 17500861,
-  "modified": "2025-09-16T22:11:19Z",
+  "lastrevid": 17606190,
+  "modified": "2025-09-17T23:05:51Z",
   "ns": 860,
-  "pageid": 100884,
+  "pageid": 216974,
   "sitelinks": {},
-  "title": "Item:Q86053",
+  "title": "Item:Q195503",
   "type": "item"
 }

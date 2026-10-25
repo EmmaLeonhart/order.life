@@ -1,5 +1,12 @@
 {
-  "aliases": {},
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Thutmose I"
+      }
+    ]
+  },
   "claims": {
     "P20": [
       {
@@ -148,6 +155,25 @@
             }
           },
           "hash": "de68634f5c454dd8efa29b805506dea7f8f2aca7",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q85973$AC7DBE74-2C61-434F-B7D3-7BC18931AF3E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q85995",
+              "numeric-id": 85995
+            }
+          },
+          "hash": "458ef71acc6e663a7c95c9e396fc52e9d1708aa8",
           "property": "P20",
           "snaktype": "value"
         },

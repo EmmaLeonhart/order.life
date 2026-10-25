@@ -1,5 +1,12 @@
 {
-  "aliases": {},
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Meritaten  Tasherit"
+      }
+    ]
+  },
   "claims": {
     "P39": [
       {
@@ -132,6 +139,26 @@
           },
           "hash": "c474d057bc47fb69731f3ced8ea2a89f27ec35d0",
           "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q86203$DA34090D-E20E-4DE5-97B7-6660DAEEB2A2",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Meritaten /Tasherit/"
+            }
+          },
+          "hash": "45954e679ecf1f69806e54e7c67c23b53ca941ec",
+          "property": "P5",
           "snaktype": "value"
         },
         "rank": "normal",

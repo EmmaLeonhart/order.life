@@ -1,9 +1,16 @@
 {
-  "aliases": {},
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ahmose Sapair . "
+      }
+    ]
+  },
   "claims": {
     "P39": [
       {
-        "id": "Q85935$C97D9902-3BD8-45FB-9BCA-0BE387C31645",
+        "id": "Q195049$81748E5F-3409-4691-9D36-1D5976739CF9",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -22,7 +29,7 @@
         "type": "statement"
       },
       {
-        "id": "Q85935$D016BE55-FA86-4238-8438-868535EDBB3B",
+        "id": "Q195049$ABDBD028-EBF4-4A75-94A7-431A653DD7CF",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -43,18 +50,18 @@
     ],
     "P47": [
       {
-        "id": "Q85935$D8EA5406-9E68-4A07-B119-EA0F5F1DBE54",
+        "id": "Q195049$7D5DBECF-CB13-8536-37A0-4B5D37B74F86",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q85907",
-              "numeric-id": 85907
+              "id": "Q195370",
+              "numeric-id": 195370
             }
           },
-          "hash": "a1adcaf5f6417f9b8f321f4d4b8a9fa1dc310a8b",
+          "hash": "606fa95215b36ee45a839313c69d315d64954787",
           "property": "P47",
           "snaktype": "value"
         },
@@ -64,18 +71,18 @@
     ],
     "P48": [
       {
-        "id": "Q85935$3E218F8D-BC9F-4DA7-9E78-F9441C087131",
+        "id": "Q195049$86C9B93C-CD88-AA6E-DA27-7DD64A86EAC7",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q85913",
-              "numeric-id": 85913
+              "id": "Q195120",
+              "numeric-id": 195120
             }
           },
-          "hash": "57151dab9db2e8603bc3837ec59fd3c0cf39e33c",
+          "hash": "96b686b49b915c9a70604fd0d7f071323c015f4a",
           "property": "P48",
           "snaktype": "value"
         },
@@ -85,7 +92,7 @@
     ],
     "P55": [
       {
-        "id": "Q85935$ED4FB991-8EA0-4CA3-A6E6-F18406527454",
+        "id": "Q195049$710D6B86-9221-E10C-7CAB-E822E8FBCEBD",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -103,21 +110,55 @@
         "rank": "normal",
         "type": "statement"
       }
+    ],
+    "P62": [
+      {
+        "id": "Q195049$38F2D3CC-515B-1CFE-079B-9382FBB9D5A8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000002187608923"
+          },
+          "hash": "0cb626a45ebd1419e277124bfefbccad9ece8fdf",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q195049$604CEDDC-4919-4AD7-841D-838F54BB249F",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ahmose Sapair . . Arms.svg"
+          },
+          "hash": "41440c282ed577534b805e59356d7b6d08793fc8",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
     ]
   },
   "descriptions": {},
-  "id": "Q85935",
+  "id": "Q195049",
   "labels": {
     "en": {
       "language": "en",
-      "value": "Ahmose Sapair . "
+      "value": "Ahmose Sapair . ."
     }
   },
-  "lastrevid": 17500745,
-  "modified": "2025-09-16T22:09:43Z",
+  "lastrevid": 17605522,
+  "modified": "2025-09-17T22:56:39Z",
   "ns": 860,
-  "pageid": 100766,
+  "pageid": 216795,
   "sitelinks": {},
-  "title": "Item:Q85935",
+  "title": "Item:Q195049",
   "type": "item"
 }

@@ -3,18 +3,18 @@
   "claims": {
     "P20": [
       {
-        "id": "Q86173$539D57C7-1B50-4D91-82AE-DC271CC065BE",
+        "id": "Q195264$D30260AC-7364-9FB3-0A0D-5DDD88C2E182",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q86205",
-              "numeric-id": 86205
+              "id": "Q195256",
+              "numeric-id": 195256
             }
           },
-          "hash": "96f685b67657f03fe75a02a348e7c443e1c7cfa0",
+          "hash": "984d5febca6be7be2df33559b49cc69edae56e1c",
           "property": "P20",
           "snaktype": "value"
         },
@@ -24,7 +24,7 @@
     ],
     "P39": [
       {
-        "id": "Q86173$4944F390-45BB-4AF4-933D-F2D69B1D459D",
+        "id": "Q195264$8403F45B-284A-4D61-8BDF-6D3705A7A227",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -43,7 +43,7 @@
         "type": "statement"
       },
       {
-        "id": "Q86173$39C51091-4BA8-4CE2-9A77-4E0D2932CFDF",
+        "id": "Q195264$FD6915A1-3D0D-4C9B-85DC-A0B44D9E224C",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -62,21 +62,63 @@
         "type": "statement"
       }
     ],
-    "P47": [
+    "P42": [
       {
-        "id": "Q86173$E0B27843-DA2F-4718-83FC-4D2ED8F6CD4E",
+        "id": "Q195264$E0EA1B90-CF9E-74E3-FECD-3A68797ECB37",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q86099",
-              "numeric-id": 86099
+              "id": "Q195265",
+              "numeric-id": 195265
             }
           },
-          "hash": "c69dbce216875990074946e2213bafdd29977196",
+          "hash": "575f7b8326ab6d70c04ddb3d3cd16e949df5a5f7",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q195264$47B59958-8734-2081-CBF2-AF42C210037E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q195363",
+              "numeric-id": 195363
+            }
+          },
+          "hash": "ca0c3876b211360c7544a16050703941d30eef38",
           "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q195264$D24AC91B-C12B-626F-D8F4-2AC74D882D9D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q195080",
+              "numeric-id": 195080
+            }
+          },
+          "hash": "9d69b1d62126d036ef892ccd332dc40313c5680f",
+          "property": "P48",
           "snaktype": "value"
         },
         "rank": "normal",
@@ -85,7 +127,7 @@
     ],
     "P55": [
       {
-        "id": "Q86173$E8B7EFF6-746A-4B4C-971B-C89DC319D7BB",
+        "id": "Q195264$5E259056-AF69-8B8E-A304-22A7754F39CD",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -103,21 +145,55 @@
         "rank": "normal",
         "type": "statement"
       }
+    ],
+    "P62": [
+      {
+        "id": "Q195264$B72F8034-D1C9-32FA-6A44-D0AF7286A950",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000005016099127"
+          },
+          "hash": "363c01ab997fdef9e4e7e9f2560c5e917da989f0",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q195264$82675B35-F081-4A92-BEA4-12E1298D963F",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ankhesenamun Arms.svg"
+          },
+          "hash": "a2c4b0b5d9137799111e185b9e1982d3855ffa39",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
     ]
   },
   "descriptions": {},
-  "id": "Q86173",
+  "id": "Q195264",
   "labels": {
     "en": {
       "language": "en",
       "value": "Ankhesenamun"
     }
   },
-  "lastrevid": 17500981,
-  "modified": "2025-09-16T22:12:57Z",
+  "lastrevid": 17605820,
+  "modified": "2025-09-17T23:00:46Z",
   "ns": 860,
-  "pageid": 101004,
+  "pageid": 217077,
   "sitelinks": {},
-  "title": "Item:Q86173",
+  "title": "Item:Q195264",
   "type": "item"
 }

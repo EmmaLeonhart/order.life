@@ -1,5 +1,16 @@
 {
-  "aliases": {},
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Thutmosis III Menkheperre"
+      },
+      {
+        "language": "en",
+        "value": "Thutmose III"
+      }
+    ]
+  },
   "claims": {
     "P20": [
       {
@@ -464,9 +475,28 @@
         "rank": "normal",
         "type": "statement"
       }
+    ],
+    "P61": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P61",
+          "datavalue": {
+            "value": "Q157899",
+            "type": "string"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
     ]
   },
-  "descriptions": {},
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "sixth Egyptian Pharaoh of the Eighteenth Dynasty; record created 2026-10-21 for the Gaiad's tags, from Wikidata Q157899"
+    }
+  },
   "id": "Q195045",
   "labels": {
     "en": {

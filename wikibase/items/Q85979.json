@@ -1,9 +1,16 @@
 {
-  "aliases": {},
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Thutmose"
+      }
+    ]
+  },
   "claims": {
     "P39": [
       {
-        "id": "Q85979$0D321074-1045-4694-9F0F-3464A58402FB",
+        "id": "Q195020$F12E972E-C1AE-48FA-A647-EFBA98657710",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -22,7 +29,7 @@
         "type": "statement"
       },
       {
-        "id": "Q85979$A214DAAE-F204-499B-865B-BCD0786058D2",
+        "id": "Q195020$7F645978-08A9-476E-8527-F6C1F6C6BD50",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -43,18 +50,18 @@
     ],
     "P47": [
       {
-        "id": "Q85979$352A05A5-3B82-451E-8129-C171761FA0FF",
+        "id": "Q195020$AC30D9CE-5051-B8C3-5434-ACDA54E24C65",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q85973",
-              "numeric-id": 85973
+              "id": "Q195047",
+              "numeric-id": 195047
             }
           },
-          "hash": "27a4e8cf0bdb66aad3ad02a1e4fd290dadb5ddc3",
+          "hash": "6c96c532e06bb5a8e9c9cf5caa527de5e8f6b0ad",
           "property": "P47",
           "snaktype": "value"
         },
@@ -64,18 +71,18 @@
     ],
     "P48": [
       {
-        "id": "Q85979$285B6E13-310A-464C-BEBB-7348378220BC",
+        "id": "Q195020$72EF6772-8844-ABB8-D766-CB884354C191",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q85961",
-              "numeric-id": 85961
+              "id": "Q195113",
+              "numeric-id": 195113
             }
           },
-          "hash": "9fd5986cb7c8549f16ba49fb19a04d71ff629483",
+          "hash": "688bfb50d201fb1a49e89fc22113744a82bfba3b",
           "property": "P48",
           "snaktype": "value"
         },
@@ -85,7 +92,7 @@
     ],
     "P55": [
       {
-        "id": "Q85979$BD591DF8-8120-4ED0-A05D-7BB2C744FB78",
+        "id": "Q195020$682725E4-3270-BE85-6A33-BD02DB9CA39D",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -103,21 +110,55 @@
         "rank": "normal",
         "type": "statement"
       }
+    ],
+    "P62": [
+      {
+        "id": "Q195020$9F233BEF-ECFE-D8F6-5B35-161A775A6BCC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000001157054650"
+          },
+          "hash": "c249246c2877b4c8a26883fe1d8525cb6208ce0c",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q195020$96D35613-3A8D-429F-BCB9-527761449868",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Thutmose II Arms.svg"
+          },
+          "hash": "ae21ae1c870bc227793a46a402c6e0c3c7032a1a",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
     ]
   },
   "descriptions": {},
-  "id": "Q85979",
+  "id": "Q195020",
   "labels": {
     "en": {
       "language": "en",
-      "value": "Thutmose"
+      "value": "Thutmose II"
     }
   },
-  "lastrevid": 17500789,
-  "modified": "2025-09-16T22:10:19Z",
+  "lastrevid": 17605466,
+  "modified": "2025-09-17T22:55:54Z",
   "ns": 860,
-  "pageid": 100810,
+  "pageid": 216842,
   "sitelinks": {},
-  "title": "Item:Q85979",
+  "title": "Item:Q195020",
   "type": "item"
 }

@@ -1,5 +1,12 @@
 {
-  "aliases": {},
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Amenhotep I  san"
+      }
+    ]
+  },
   "claims": {
     "P20": [
       {
@@ -174,6 +181,26 @@
           },
           "hash": "3ecad18d62ef7079ab59ff47b0b20d39e1f692ea",
           "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q86223$EF7FA44A-7AE4-4E82-934F-7BB43F0396BE",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Amenhotep I /san/"
+            }
+          },
+          "hash": "f69114198b1946d4f203df238477c9372b59d736",
+          "property": "P5",
           "snaktype": "value"
         },
         "rank": "normal",

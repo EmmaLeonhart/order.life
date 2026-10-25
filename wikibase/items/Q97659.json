@@ -1,20 +1,27 @@
 {
-  "aliases": {},
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Aakheperenre Thutmose II"
+      }
+    ]
+  },
   "claims": {
     "P20": [
       {
-        "id": "Q85975$DEBE2711-3DA6-4355-933E-2E82A806746D",
+        "id": "Q195458$5F974EC0-5610-2C3E-63DA-8CA85BA3B27C",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q85997",
-              "numeric-id": 85997
+              "id": "Q195435",
+              "numeric-id": 195435
             }
           },
-          "hash": "0e8ad08a24ff1be26f30c137a863019f12535a73",
+          "hash": "c1b1b0ed2554f37cc80596ac25dc2e9f85ac8589",
           "property": "P20",
           "snaktype": "value"
         },
@@ -22,18 +29,18 @@
         "type": "statement"
       },
       {
-        "id": "Q85975$06B5B05F-09C8-4B59-AF87-62733A281043",
+        "id": "Q195458$623C2933-9622-4FE4-53CD-6F18B3C45100",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q85999",
-              "numeric-id": 85999
+              "id": "Q195121",
+              "numeric-id": 195121
             }
           },
-          "hash": "38dafab99da6686c0b832587f60d8a00400cdfa9",
+          "hash": "9c0e751aa652605202ff5510cd1374825c3414db",
           "property": "P20",
           "snaktype": "value"
         },
@@ -41,18 +48,18 @@
         "type": "statement"
       },
       {
-        "id": "Q85975$7E106E1F-2976-433F-9439-DA1C90F4A7C3",
+        "id": "Q195458$903B7BEE-B3C3-9390-3318-AD47133966A5",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q86001",
-              "numeric-id": 86001
+              "id": "Q195045",
+              "numeric-id": 195045
             }
           },
-          "hash": "39616ce3c4148b6c584e724452c520e4949eed30",
+          "hash": "77d398df702b8f58f7834ea9328ed06dad377959",
           "property": "P20",
           "snaktype": "value"
         },
@@ -62,7 +69,7 @@
     ],
     "P39": [
       {
-        "id": "Q85975$7616FDA8-D50C-4AD3-9595-C37F4B636F01",
+        "id": "Q195458$23F737BD-BE7F-4F7B-BD13-C413FE6B2823",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -81,7 +88,7 @@
         "type": "statement"
       },
       {
-        "id": "Q85975$49BBD6CD-6CAB-41BA-A418-E33A564A7FCA",
+        "id": "Q195458$B524319C-DC6D-4BA7-82EE-493E866C8B24",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -102,18 +109,75 @@
     ],
     "P42": [
       {
-        "id": "Q85975$97E45D56-5AD6-4170-A548-1891E526B226",
+        "id": "Q195458$63FDF331-83CF-37A7-9FDA-C1AAAEA1CFBC",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q85993",
-              "numeric-id": 85993
+              "id": "Q195110",
+              "numeric-id": 195110
             }
           },
-          "hash": "8e433b9eda47ab4e9690683125dd81f9e5ad3414",
+          "hash": "08631e3db2b7b0aa9a2b1899e768e721e347aed0",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q195458$F6C08EA0-A0B1-6349-E2E8-5B499AA67BB3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q195075",
+              "numeric-id": 195075
+            }
+          },
+          "hash": "5f8af81212a758b85c58217039437684a60ad3f4",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q195458$B45E7364-CC6C-4DF6-B424-1E0F02AE178D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q195114",
+              "numeric-id": 195114
+            }
+          },
+          "hash": "134e50bbfd444d2a1f0e0c9282e1cfe236148485",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q195458$60C87CEA-D52E-49DD-50E8-543DDF70E23B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q195447",
+              "numeric-id": 195447
+            }
+          },
+          "hash": "936f13670564183426f000140e4497f4bfa255cd",
           "property": "P42",
           "snaktype": "value"
         },
@@ -123,18 +187,18 @@
     ],
     "P47": [
       {
-        "id": "Q85975$7722B651-87D4-4E2C-9C87-B105BEB49E6C",
+        "id": "Q195458$989F630D-43AC-1292-53C1-427E95860B0E",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q85973",
-              "numeric-id": 85973
+              "id": "Q195047",
+              "numeric-id": 195047
             }
           },
-          "hash": "27a4e8cf0bdb66aad3ad02a1e4fd290dadb5ddc3",
+          "hash": "6c96c532e06bb5a8e9c9cf5caa527de5e8f6b0ad",
           "property": "P47",
           "snaktype": "value"
         },
@@ -144,18 +208,18 @@
     ],
     "P48": [
       {
-        "id": "Q85975$78BC1F3E-6FB4-4F68-B0AD-C5AE29CC683D",
+        "id": "Q195458$AE7C7717-CC99-47D8-529F-20061649B99C",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q85961",
-              "numeric-id": 85961
+              "id": "Q195113",
+              "numeric-id": 195113
             }
           },
-          "hash": "9fd5986cb7c8549f16ba49fb19a04d71ff629483",
+          "hash": "688bfb50d201fb1a49e89fc22113744a82bfba3b",
           "property": "P48",
           "snaktype": "value"
         },
@@ -165,7 +229,7 @@
     ],
     "P55": [
       {
-        "id": "Q85975$0640F4D6-0BCA-44B7-8B9A-8B9B85631CFD",
+        "id": "Q195458$0637F2B0-F08B-1D87-835C-AA84948705FD",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -183,21 +247,55 @@
         "rank": "normal",
         "type": "statement"
       }
+    ],
+    "P62": [
+      {
+        "id": "Q195458$0A0453AF-7892-F3CA-4AC7-AFC5A65262F7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000008630614793"
+          },
+          "hash": "e6a1f63499c8671e4bf3a06d22a735d5339e1d11",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q195458$D4949E4D-6F1A-4477-8FC9-9F6F93A35F4B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Aakheperenre Thutmose II Pharaoh of Egypt Arms.svg"
+          },
+          "hash": "31f0c23842af94d851ca4110189a6244f83b4189",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
     ]
   },
   "descriptions": {},
-  "id": "Q85975",
+  "id": "Q195458",
   "labels": {
     "en": {
       "language": "en",
-      "value": "Aakheperenre Thutmose II"
+      "value": "Aakheperenre Thutmose II Pharaoh of Egypt"
     }
   },
-  "lastrevid": 17500785,
-  "modified": "2025-09-16T22:10:16Z",
+  "lastrevid": 17606134,
+  "modified": "2025-09-17T23:05:06Z",
   "ns": 860,
-  "pageid": 100806,
+  "pageid": 216840,
   "sitelinks": {},
-  "title": "Item:Q85975",
+  "title": "Item:Q195458",
   "type": "item"
 }

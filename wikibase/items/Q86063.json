@@ -3,7 +3,7 @@
   "claims": {
     "P39": [
       {
-        "id": "Q86063$441B3FA8-A3F7-4B4D-8B6B-A1C9D92322B6",
+        "id": "Q195870$D8E6C0B5-0B27-451E-95AC-693028199AFD",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -22,7 +22,7 @@
         "type": "statement"
       },
       {
-        "id": "Q86063$A1451C09-9E47-4F27-A7CB-D93E55353787",
+        "id": "Q195870$E894EB54-A66C-42D4-BA97-626B502C74F6",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -43,18 +43,18 @@
     ],
     "P42": [
       {
-        "id": "Q86063$26F6C999-2E12-4630-BE6E-DF85EE441F38",
+        "id": "Q195870$340081CD-1D68-22EB-B561-8ADA9DA5B6B7",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q86045",
-              "numeric-id": 86045
+              "id": "Q195362",
+              "numeric-id": 195362
             }
           },
-          "hash": "56a92b8d1458b4b0b198d1da1b0e02f52a660738",
+          "hash": "534b77d2d4c8c2ec9e23467e2f42d90cea4812ec",
           "property": "P42",
           "snaktype": "value"
         },
@@ -64,19 +64,40 @@
     ],
     "P47": [
       {
-        "id": "Q86063$5405ED89-143D-40D7-93F6-F72C20379259",
+        "id": "Q195870$3A1B5CED-CC5A-6FD8-A149-B0771B20E676",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q86023",
-              "numeric-id": 86023
+              "id": "Q195041",
+              "numeric-id": 195041
             }
           },
-          "hash": "6685e2d7fbf888a661f065d3271c764a033f7254",
+          "hash": "3af06663259205c0d4bfb3df5209597944a86b4f",
           "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q195870$046596E8-DF5F-6EF0-C616-05E8C89DCFEB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q195364",
+              "numeric-id": 195364
+            }
+          },
+          "hash": "a70fdcc6664c3f83d66b2c9158dc3dd654230ef0",
+          "property": "P48",
           "snaktype": "value"
         },
         "rank": "normal",
@@ -85,7 +106,7 @@
     ],
     "P55": [
       {
-        "id": "Q86063$265F87FF-F800-42F0-A0AC-6A5CBF9A2767",
+        "id": "Q195870$CED19DE7-035D-4483-3FAA-9B1415F1B497",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -103,21 +124,55 @@
         "rank": "normal",
         "type": "statement"
       }
+    ],
+    "P62": [
+      {
+        "id": "Q195870$56364193-9C72-4C3B-5DBA-507ABE830EB3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000077080804869"
+          },
+          "hash": "2360c2e8113d4780f22a8bb749236e30d074f7c1",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q195870$018BDB1C-3018-46CC-BB87-056FD3A8686A",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Nefertary Arms.svg"
+          },
+          "hash": "5324ea756cfd1545dc49fc6da38a7d22715188d3",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
     ]
   },
   "descriptions": {},
-  "id": "Q86063",
+  "id": "Q195870",
   "labels": {
     "en": {
       "language": "en",
       "value": "Nefertary"
     }
   },
-  "lastrevid": 17500871,
-  "modified": "2025-09-16T22:11:27Z",
+  "lastrevid": 17606738,
+  "modified": "2025-09-17T23:13:04Z",
   "ns": 860,
-  "pageid": 100894,
+  "pageid": 216979,
   "sitelinks": {},
-  "title": "Item:Q86063",
+  "title": "Item:Q195870",
   "type": "item"
 }

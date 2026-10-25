@@ -1,9 +1,16 @@
 {
-  "aliases": {},
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Nebetia . "
+      }
+    ]
+  },
   "claims": {
     "P39": [
       {
-        "id": "Q86141$8B919AE7-3DBE-4784-83B8-E6670C011AE2",
+        "id": "Q195502$D11373EE-78FF-4312-9741-6AD65C828625",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -22,7 +29,7 @@
         "type": "statement"
       },
       {
-        "id": "Q86141$ECDEFE03-895D-4571-BF08-F5A198F361CD",
+        "id": "Q195502$E4AA8463-63CB-40E2-89CD-A3609970BA5B",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -43,18 +50,18 @@
     ],
     "P47": [
       {
-        "id": "Q86141$7413AEA4-75FE-4B6E-B5E4-CA7DDFAF7F53",
+        "id": "Q195502$0825ADCD-CFB4-AF32-A4EB-E2707087E4D1",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q86073",
-              "numeric-id": 86073
+              "id": "Q195534",
+              "numeric-id": 195534
             }
           },
-          "hash": "a134aaf3a0b6947bb117e43d6378bf021ae3011c",
+          "hash": "15c28f14fe66681ae439d4ab065a9b234644b6c8",
           "property": "P47",
           "snaktype": "value"
         },
@@ -64,7 +71,7 @@
     ],
     "P55": [
       {
-        "id": "Q86141$FB08A2CD-3020-4E73-B833-3059E50AD4CC",
+        "id": "Q195502$FAE31E37-97B8-F812-A045-C799CA0197F9",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -82,21 +89,55 @@
         "rank": "normal",
         "type": "statement"
       }
+    ],
+    "P62": [
+      {
+        "id": "Q195502$8943FDD2-2893-20EE-A2CC-F8F18DAFA873",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000012768382621"
+          },
+          "hash": "7acfe53aea866371e9eee9932075a086c1811307",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q195502$1CF1BBD9-1CA6-450C-926C-E9671260CF5A",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Nebetia . . Arms.svg"
+          },
+          "hash": "efe20c496b617b74bd20796228df86aa19e211ed",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
     ]
   },
   "descriptions": {},
-  "id": "Q86141",
+  "id": "Q195502",
   "labels": {
     "en": {
       "language": "en",
-      "value": "Nebetia . "
+      "value": "Nebetia . ."
     }
   },
-  "lastrevid": 17500949,
-  "modified": "2025-09-16T22:12:30Z",
+  "lastrevid": 17606188,
+  "modified": "2025-09-17T23:05:50Z",
   "ns": 860,
-  "pageid": 100972,
+  "pageid": 217053,
   "sitelinks": {},
-  "title": "Item:Q86141",
+  "title": "Item:Q195502",
   "type": "item"
 }

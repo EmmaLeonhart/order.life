@@ -1,9 +1,16 @@
 {
-  "aliases": {},
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Sitamun"
+      }
+    ]
+  },
   "claims": {
     "P39": [
       {
-        "id": "Q86103$F9FB071A-7502-45B6-A5DF-86FA173E9649",
+        "id": "Q195529$F594CA1D-FB79-484B-AF03-0EAACD1159A0",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -22,7 +29,7 @@
         "type": "statement"
       },
       {
-        "id": "Q86103$F8A5B13D-2A3A-4641-BD34-E3C94C8838DF",
+        "id": "Q195529$6B3FB90F-EDFE-42EC-B692-2B82BFE5D333",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -43,18 +50,18 @@
     ],
     "P42": [
       {
-        "id": "Q86103$72185DAC-4A55-472B-925B-647FCF451C05",
+        "id": "Q195529$2E131856-D5AC-6DD9-C647-9FC83B9FE2F4",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q86099",
-              "numeric-id": 86099
+              "id": "Q195363",
+              "numeric-id": 195363
             }
           },
-          "hash": "cb37890e58972881b35a38075a31d452ba5534a8",
+          "hash": "148832a0109e98117495bf7ee74a6597b803589f",
           "property": "P42",
           "snaktype": "value"
         },
@@ -64,19 +71,40 @@
     ],
     "P47": [
       {
-        "id": "Q86103$5D3F901B-580A-4BB4-9FBE-9F8DF1A7AEA0",
+        "id": "Q195529$3AB7A8C0-D879-1A22-D9BD-9E3A5AAF84C5",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q86067",
-              "numeric-id": 86067
+              "id": "Q195082",
+              "numeric-id": 195082
             }
           },
-          "hash": "2863c7d61dc6ed15325a890a495381cac34f401c",
+          "hash": "1af183970343ffe4f66dc1fed3c9f5f1ab5c604b",
           "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q195529$26E71198-A006-39E2-1AA6-2A02909BB3DB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q195081",
+              "numeric-id": 195081
+            }
+          },
+          "hash": "56c251b330a4a55caa0e367862ab96b060a82f11",
+          "property": "P48",
           "snaktype": "value"
         },
         "rank": "normal",
@@ -85,7 +113,7 @@
     ],
     "P55": [
       {
-        "id": "Q86103$129A4507-F2CF-4392-93AF-231A1449E946",
+        "id": "Q195529$512DF10B-2ED8-BC94-9CEF-F8527BAC4FC7",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -103,21 +131,55 @@
         "rank": "normal",
         "type": "statement"
       }
+    ],
+    "P62": [
+      {
+        "id": "Q195529$4F6AE9D0-D7D9-7F28-990A-E108489C3D17",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000012876751208"
+          },
+          "hash": "e1726bcac7e894e8a2febbe71540bef673dab471",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q195529$F03102AB-D291-411C-97A3-4326D17C4F74",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Sitamun Queen of Egypt Arms.svg"
+          },
+          "hash": "4285052928ec51f094243d4d72912d5e2668019d",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
     ]
   },
   "descriptions": {},
-  "id": "Q86103",
+  "id": "Q195529",
   "labels": {
     "en": {
       "language": "en",
-      "value": "Sitamun"
+      "value": "Sitamun Queen of Egypt"
     }
   },
-  "lastrevid": 17500911,
-  "modified": "2025-09-16T22:11:59Z",
+  "lastrevid": 17606236,
+  "modified": "2025-09-17T23:06:27Z",
   "ns": 860,
-  "pageid": 100934,
+  "pageid": 217033,
   "sitelinks": {},
-  "title": "Item:Q86103",
+  "title": "Item:Q195529",
   "type": "item"
 }

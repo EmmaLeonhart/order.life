@@ -1,5 +1,12 @@
 {
-  "aliases": {},
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "\"Meritaten\"  Younger Lady"
+      }
+    ]
+  },
   "claims": {
     "P20": [
       {
@@ -174,6 +181,26 @@
           },
           "hash": "277e6832f382a611ca2e4c857c618ec5b3193dfa",
           "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q86101$B273E96A-B4BE-44DC-8468-7321A7F3979C",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "\"Meritaten\" /Younger Lady/"
+            }
+          },
+          "hash": "cb40440bc6254965f96e511ddafc5233f284d51e",
+          "property": "P5",
           "snaktype": "value"
         },
         "rank": "normal",

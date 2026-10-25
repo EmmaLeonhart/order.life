@@ -3,7 +3,7 @@
   "claims": {
     "P39": [
       {
-        "id": "Q86139$B4FA556C-2FD8-4F37-85D1-29B4A8BDA2A5",
+        "id": "Q195778$1F8577AB-86C6-4709-B227-CF888B61C455",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -22,7 +22,7 @@
         "type": "statement"
       },
       {
-        "id": "Q86139$62F2FAA7-7710-427C-B504-ECBCB06E8BB6",
+        "id": "Q195778$A332A937-C5B0-4003-860A-0BF0654171E2",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -43,18 +43,18 @@
     ],
     "P47": [
       {
-        "id": "Q86139$60C8449B-8950-4DD9-83CC-A78F9D494BE4",
+        "id": "Q195778$5A7F8A1D-5EDB-9468-06F2-87EA3D88A9C3",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q86069",
-              "numeric-id": 86069
+              "id": "Q195535",
+              "numeric-id": 195535
             }
           },
-          "hash": "ec255ed916f589e0d7e3817128eb0ad5f512f9e1",
+          "hash": "ba3e3a03344b71422afafd6d523190654edaee2b",
           "property": "P47",
           "snaktype": "value"
         },
@@ -64,7 +64,7 @@
     ],
     "P55": [
       {
-        "id": "Q86139$B0075873-F6D6-447A-B684-E8EB3EB66FAB",
+        "id": "Q195778$F546FF2F-E643-E01A-A60E-96964FF0BCF0",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -82,21 +82,55 @@
         "rank": "normal",
         "type": "statement"
       }
+    ],
+    "P62": [
+      {
+        "id": "Q195778$59C0F4E0-2FA8-E17F-4670-14F3E099B737",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000022927600003"
+          },
+          "hash": "4cd75900eed785fae10a217efb177ca4b287fbfc",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q195778$8E1E7F72-B38D-41B9-9A5A-838427D9F7AC",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Heqaerneheh Arms.svg"
+          },
+          "hash": "d93a28f633cebe1e63d159012ff5582024ee5075",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
     ]
   },
   "descriptions": {},
-  "id": "Q86139",
+  "id": "Q195778",
   "labels": {
     "en": {
       "language": "en",
       "value": "Heqaerneheh"
     }
   },
-  "lastrevid": 17500947,
-  "modified": "2025-09-16T22:12:29Z",
+  "lastrevid": 17606686,
+  "modified": "2025-09-17T23:12:22Z",
   "ns": 860,
-  "pageid": 100970,
+  "pageid": 217052,
   "sitelinks": {},
-  "title": "Item:Q86139",
+  "title": "Item:Q195778",
   "type": "item"
 }

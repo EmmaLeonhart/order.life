@@ -1,5 +1,12 @@
 {
-  "aliases": {},
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ahmose I"
+      }
+    ]
+  },
   "claims": {
     "P20": [
       {
@@ -91,6 +98,25 @@
             }
           },
           "hash": "94b95b1e968f6506377cd080d955808cfb8c68e4",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q85969$95BD22F8-3807-4E0A-BCB2-C51C1777D7F6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q85995",
+              "numeric-id": 85995
+            }
+          },
+          "hash": "458ef71acc6e663a7c95c9e396fc52e9d1708aa8",
           "property": "P20",
           "snaktype": "value"
         },

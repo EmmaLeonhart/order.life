@@ -1,20 +1,27 @@
 {
-  "aliases": {},
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Mutnefert"
+      }
+    ]
+  },
   "claims": {
     "P20": [
       {
-        "id": "Q85961$11DBDF28-71AA-461C-9E5E-8651CA3A678A",
+        "id": "Q195113$EBD9C0CC-005D-D41F-45A5-7796A14D9E10",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q85975",
-              "numeric-id": 85975
+              "id": "Q195458",
+              "numeric-id": 195458
             }
           },
-          "hash": "91b35d97dc5fa8618fcee685b7a2da3f182398e0",
+          "hash": "373dbb7de0dd6bf4a72397fdc99e9a5eeb62755b",
           "property": "P20",
           "snaktype": "value"
         },
@@ -22,18 +29,18 @@
         "type": "statement"
       },
       {
-        "id": "Q85961$E9A341E7-3B3C-4127-9779-5CCA0E40C6CC",
+        "id": "Q195113$B9C30C9A-5ECA-1CAE-5512-F0649F946395",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q85977",
-              "numeric-id": 85977
+              "id": "Q195611",
+              "numeric-id": 195611
             }
           },
-          "hash": "36265359d95b47ef8b2357c65721e90dad41d544",
+          "hash": "affcae2b21882692c8f7ea4ac8f84f421c0893a4",
           "property": "P20",
           "snaktype": "value"
         },
@@ -41,18 +48,18 @@
         "type": "statement"
       },
       {
-        "id": "Q85961$BAD740C0-B1A7-4C6A-9C67-72988A79BE1A",
+        "id": "Q195113$A7AF8CA4-2DD7-5920-1565-D9015830E52C",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q85979",
-              "numeric-id": 85979
+              "id": "Q195020",
+              "numeric-id": 195020
             }
           },
-          "hash": "4a95ed28917460f03d328c533418b28ec196575a",
+          "hash": "de68634f5c454dd8efa29b805506dea7f8f2aca7",
           "property": "P20",
           "snaktype": "value"
         },
@@ -62,7 +69,7 @@
     ],
     "P39": [
       {
-        "id": "Q85961$B5F4478A-9AF0-493C-AA45-ED4F177A4CF9",
+        "id": "Q195113$1E3C0B98-7749-4629-8B33-BA7603E9B9F5",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -81,7 +88,7 @@
         "type": "statement"
       },
       {
-        "id": "Q85961$4C12C376-5AFB-46EB-AC19-436F29A1823B",
+        "id": "Q195113$8C3F1CEA-6004-48D6-839F-44ABB1DA7F91",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -102,18 +109,18 @@
     ],
     "P42": [
       {
-        "id": "Q85961$5AE2D923-8BED-48FA-83C3-9C98440F9FB5",
+        "id": "Q195113$AC925C89-8379-319F-89D1-766B547C7BBF",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q85973",
-              "numeric-id": 85973
+              "id": "Q195047",
+              "numeric-id": 195047
             }
           },
-          "hash": "97ac88df38ce1147cca9516a7ab953e481d31cc2",
+          "hash": "ea89524931b24e6adacd1e3e10e57455033a5296",
           "property": "P42",
           "snaktype": "value"
         },
@@ -123,18 +130,18 @@
     ],
     "P47": [
       {
-        "id": "Q85961$8367431A-BE7C-4825-821F-D308DE31F42D",
+        "id": "Q195113$0C7018D3-5CB9-043E-4752-19DBD0FEA431",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q85921",
-              "numeric-id": 85921
+              "id": "Q195117",
+              "numeric-id": 195117
             }
           },
-          "hash": "a0bd52be8b95dd50ad6f003039711908afa60ee7",
+          "hash": "939d3110f275716e872aa80c4a581df8ef34ce6c",
           "property": "P47",
           "snaktype": "value"
         },
@@ -144,18 +151,18 @@
     ],
     "P48": [
       {
-        "id": "Q85961$47D59B25-0EB7-4750-9879-FE9DB5254FC6",
+        "id": "Q195113$033B5F68-4AED-EE86-F504-11C55DD825F3",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q85923",
-              "numeric-id": 85923
+              "id": "Q195118",
+              "numeric-id": 195118
             }
           },
-          "hash": "19e9a9df89e000bebea79879fcbd876f31cbbd78",
+          "hash": "ff0c25f362280c8bc7b10ec1ea4ecdef10349bf6",
           "property": "P48",
           "snaktype": "value"
         },
@@ -165,7 +172,7 @@
     ],
     "P55": [
       {
-        "id": "Q85961$E28F55FC-E56A-4184-AD41-CB50D6319F74",
+        "id": "Q195113$D394B9F2-D1E1-F9DC-D739-F1C8FA0DBA88",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -183,21 +190,55 @@
         "rank": "normal",
         "type": "statement"
       }
+    ],
+    "P62": [
+      {
+        "id": "Q195113$6DC0D1C8-13AB-A795-B7EB-120565BF4234",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000003645797161"
+          },
+          "hash": "86eb6cc78d7566288b7eda82857310d728f29c5a",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q195113$205F1899-F730-4137-A116-5EDACAD56E93",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Mutnefert Queen of Egypt Arms.svg"
+          },
+          "hash": "72a5f17cbd7a9c3ff4daf4877779ed50b95ef83e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
     ]
   },
   "descriptions": {},
-  "id": "Q85961",
+  "id": "Q195113",
   "labels": {
     "en": {
       "language": "en",
-      "value": "Mutnefert"
+      "value": "Mutnefert Queen of Egypt"
     }
   },
-  "lastrevid": 17500771,
-  "modified": "2025-09-16T22:10:04Z",
+  "lastrevid": 17605618,
+  "modified": "2025-09-17T22:57:56Z",
   "ns": 860,
-  "pageid": 100792,
+  "pageid": 216819,
   "sitelinks": {},
-  "title": "Item:Q85961",
+  "title": "Item:Q195113",
   "type": "item"
 }

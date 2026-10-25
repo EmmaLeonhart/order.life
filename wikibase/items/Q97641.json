@@ -1,9 +1,16 @@
 {
-  "aliases": {},
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Siamun . "
+      }
+    ]
+  },
   "claims": {
     "P39": [
       {
-        "id": "Q85957$77D4BEE5-096A-4805-9ECB-9567B5515EA2",
+        "id": "Q195119$CF1A8FFA-3313-4DB2-92F8-BB52733A81DC",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -22,7 +29,7 @@
         "type": "statement"
       },
       {
-        "id": "Q85957$9E299BE6-6104-4073-958C-BF3386E0306F",
+        "id": "Q195119$CCF32725-0C5E-463E-ACE6-C032B74B2BAA",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -43,18 +50,18 @@
     ],
     "P47": [
       {
-        "id": "Q85957$A896A711-1DD6-4FBB-AEBB-A3DFACB90CB2",
+        "id": "Q195119$048EFEF9-C325-BD32-D7B8-12E3FE248628",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q85921",
-              "numeric-id": 85921
+              "id": "Q195117",
+              "numeric-id": 195117
             }
           },
-          "hash": "a0bd52be8b95dd50ad6f003039711908afa60ee7",
+          "hash": "939d3110f275716e872aa80c4a581df8ef34ce6c",
           "property": "P47",
           "snaktype": "value"
         },
@@ -64,18 +71,18 @@
     ],
     "P48": [
       {
-        "id": "Q85957$379D5E4D-6B53-4DE7-A6BB-3E1F7A0BF81B",
+        "id": "Q195119$5BDB11EB-E55A-C711-81B0-D0641E3656FB",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q85923",
-              "numeric-id": 85923
+              "id": "Q195118",
+              "numeric-id": 195118
             }
           },
-          "hash": "19e9a9df89e000bebea79879fcbd876f31cbbd78",
+          "hash": "ff0c25f362280c8bc7b10ec1ea4ecdef10349bf6",
           "property": "P48",
           "snaktype": "value"
         },
@@ -85,7 +92,7 @@
     ],
     "P55": [
       {
-        "id": "Q85957$205FE3D1-C027-4EFE-AE56-618D21B90F3F",
+        "id": "Q195119$A9142F53-1940-B466-DFC8-ECD53A7E6C0F",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -103,21 +110,55 @@
         "rank": "normal",
         "type": "statement"
       }
+    ],
+    "P62": [
+      {
+        "id": "Q195119$907ACAFC-F4C7-E6F2-A847-F9A1C9EF8C95",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000003645797240"
+          },
+          "hash": "5e303f87ca77f9f22c3f607c5302a331512f0e7b",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q195119$FC565807-E655-44AA-BD91-1EB612FC49BB",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Siamun . . Arms.svg"
+          },
+          "hash": "6063606530b905a85227c9fa25aaa9230cb04986",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
     ]
   },
   "descriptions": {},
-  "id": "Q85957",
+  "id": "Q195119",
   "labels": {
     "en": {
       "language": "en",
-      "value": "Siamun . "
+      "value": "Siamun . ."
     }
   },
-  "lastrevid": 17500767,
-  "modified": "2025-09-16T22:10:01Z",
+  "lastrevid": 17605630,
+  "modified": "2025-09-17T22:58:06Z",
   "ns": 860,
-  "pageid": 100788,
+  "pageid": 216817,
   "sitelinks": {},
-  "title": "Item:Q85957",
+  "title": "Item:Q195119",
   "type": "item"
 }

@@ -1,5 +1,16 @@
 {
-  "aliases": {},
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Djeserkare Amenhotep I . "
+      },
+      {
+        "language": "en",
+        "value": "Amenhotep I"
+      }
+    ]
+  },
   "claims": {
     "P20": [
       {
@@ -236,9 +247,28 @@
         "rank": "normal",
         "type": "statement"
       }
+    ],
+    "P61": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P61",
+          "datavalue": {
+            "value": "Q157966",
+            "type": "string"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
     ]
   },
-  "descriptions": {},
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "second Pharaoh of the Eighteenth dynasty of Egypt; record created 2026-10-21 for the Gaiad's tags, from Wikidata Q157966"
+    }
+  },
   "id": "Q195139",
   "labels": {
     "en": {

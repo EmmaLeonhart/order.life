@@ -1,20 +1,31 @@
 {
-  "aliases": {},
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Djeserkare Amenhotep I . "
+      },
+      {
+        "language": "en",
+        "value": "Amenhotep I"
+      }
+    ]
+  },
   "claims": {
     "P20": [
       {
-        "id": "Q85951$978F10C3-5ED9-4F25-B956-68B3C0961251",
+        "id": "Q195139$C5C30D5C-9EA0-9BC3-9EC1-7FEE8B7BC8F1",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q85969",
-              "numeric-id": 85969
+              "id": "Q195048",
+              "numeric-id": 195048
             }
           },
-          "hash": "3b5d75e66b586de86a2c8b4e2a0b32a0f37ec4f8",
+          "hash": "695a2051f591b130920260654d42b0e41decf0b6",
           "property": "P20",
           "snaktype": "value"
         },
@@ -22,18 +33,18 @@
         "type": "statement"
       },
       {
-        "id": "Q85951$A9BDF193-1139-4A6F-A7F7-3F4A2AC967C8",
+        "id": "Q195139$26B6B6C2-79BD-971E-8E48-BF18D8C05163",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q85971",
-              "numeric-id": 85971
+              "id": "Q195751",
+              "numeric-id": 195751
             }
           },
-          "hash": "db4cec7ee8c1489d39ad1edc691c5bf23f8e721c",
+          "hash": "1cfd37c2d63af1b247597deefe60f4a93c9fd8a2",
           "property": "P20",
           "snaktype": "value"
         },
@@ -41,18 +52,18 @@
         "type": "statement"
       },
       {
-        "id": "Q85951$D26D22C3-82C5-4DC2-AD69-AF8924E81770",
+        "id": "Q195139$248CDACD-F6BA-9281-A85E-B84EE7FF808B",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q85973",
-              "numeric-id": 85973
+              "id": "Q195047",
+              "numeric-id": 195047
             }
           },
-          "hash": "9b4c911b32404089e4842c34ba92bf7e96dad869",
+          "hash": "8b3314de142a7b24ae949a9932d92544612dff23",
           "property": "P20",
           "snaktype": "value"
         },
@@ -62,7 +73,7 @@
     ],
     "P39": [
       {
-        "id": "Q85951$8C6F81E9-B121-4388-8E29-A690E22811E7",
+        "id": "Q195139$B8EA328C-8BCC-445C-829B-CAA1BE3E0660",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -81,7 +92,7 @@
         "type": "statement"
       },
       {
-        "id": "Q85951$238A58F7-0534-4B28-90D5-53A166D8F684",
+        "id": "Q195139$029D5D67-6F2F-456A-98C9-C945459B08C3",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -102,18 +113,37 @@
     ],
     "P42": [
       {
-        "id": "Q85951$BAA3E256-E589-430C-BF3A-8908202BF053",
+        "id": "Q195139$AF60D0F3-1B7A-F29E-E7F8-57F89B5DD854",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q85963",
-              "numeric-id": 85963
+              "id": "Q195140",
+              "numeric-id": 195140
             }
           },
-          "hash": "2286d7e6ec4a7936994ee8fa1ac58cb1daf074bb",
+          "hash": "fcfac4e46150e20b67f343234c9b31c4b6b9d1bb",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q195139$05CA6025-2D51-7EFD-1865-28557F1AB7C2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q195252",
+              "numeric-id": 195252
+            }
+          },
+          "hash": "67a11b811218863fd8501892cc4ecdbcc2180693",
           "property": "P42",
           "snaktype": "value"
         },
@@ -123,18 +153,18 @@
     ],
     "P47": [
       {
-        "id": "Q85951$FFE32112-1742-4B33-B0BB-813551FBAAD3",
+        "id": "Q195139$3DEAD2E0-FBF8-B400-E47D-C81D5DF7BC9F",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q85921",
-              "numeric-id": 85921
+              "id": "Q195117",
+              "numeric-id": 195117
             }
           },
-          "hash": "a0bd52be8b95dd50ad6f003039711908afa60ee7",
+          "hash": "939d3110f275716e872aa80c4a581df8ef34ce6c",
           "property": "P47",
           "snaktype": "value"
         },
@@ -144,18 +174,18 @@
     ],
     "P48": [
       {
-        "id": "Q85951$ED8BD09C-1344-4E83-A96E-89DA95AA8D09",
+        "id": "Q195139$915EB68F-1B56-B584-C981-E4139C62FDB3",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q85923",
-              "numeric-id": 85923
+              "id": "Q195118",
+              "numeric-id": 195118
             }
           },
-          "hash": "19e9a9df89e000bebea79879fcbd876f31cbbd78",
+          "hash": "ff0c25f362280c8bc7b10ec1ea4ecdef10349bf6",
           "property": "P48",
           "snaktype": "value"
         },
@@ -165,7 +195,7 @@
     ],
     "P55": [
       {
-        "id": "Q85951$CE458AF8-B0C2-45EB-979D-3C5A1710C407",
+        "id": "Q195139$A85DA47E-5AC0-CA57-C84F-160E26014811",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -183,21 +213,74 @@
         "rank": "normal",
         "type": "statement"
       }
+    ],
+    "P62": [
+      {
+        "id": "Q195139$CA02057E-F745-50B3-558F-6FCDCFD9F3CA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000003645859764"
+          },
+          "hash": "8789ec603b5165feb292fd53611106ff73157c7c",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q195139$3F15BBB1-69D8-439C-BD94-7D5C46F74758",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Djeserkare Amenhotep I . . Pharaoh of Egypt Arms.svg"
+          },
+          "hash": "e6e02a129e0b4dd94d0e49c939451922953c2160",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P61",
+          "datavalue": {
+            "value": "Q157966",
+            "type": "string"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
     ]
   },
-  "descriptions": {},
-  "id": "Q85951",
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "second Pharaoh of the Eighteenth dynasty of Egypt; record created 2026-10-21 for the Gaiad's tags, from Wikidata Q157966"
+    }
+  },
+  "id": "Q195139",
   "labels": {
     "en": {
       "language": "en",
-      "value": "Djeserkare Amenhotep I . "
+      "value": "Djeserkare Amenhotep I . . Pharaoh of Egypt"
     }
   },
-  "lastrevid": 17500761,
-  "modified": "2025-09-16T22:09:56Z",
+  "lastrevid": 17605658,
+  "modified": "2025-09-17T22:58:28Z",
   "ns": 860,
-  "pageid": 100782,
+  "pageid": 216814,
   "sitelinks": {},
-  "title": "Item:Q85951",
+  "title": "Item:Q195139",
   "type": "item"
 }

@@ -1,5 +1,16 @@
 {
-  "aliases": {},
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Nebmaatre Amenhotep III"
+      },
+      {
+        "language": "en",
+        "value": "Amenhotep III"
+      }
+    ]
+  },
   "claims": {
     "P20": [
       {
@@ -381,6 +392,44 @@
         },
         "rank": "normal",
         "type": "statement"
+      },
+      {
+        "id": "Q86067$32E81E4D-4BB2-4F95-A4F9-25926E26803E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q86135",
+              "numeric-id": 86135
+            }
+          },
+          "hash": "6ce68c9033447cd402b32c3084f4117c858a961a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q86067$9795FBEE-1707-486A-BBCC-9920641D5855",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q86137",
+              "numeric-id": 86137
+            }
+          },
+          "hash": "0ed3178d878a9a8b344d236e29812e574b6dafe1",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
       }
     ],
     "P39": [
@@ -673,9 +722,28 @@
         "rank": "normal",
         "type": "statement"
       }
+    ],
+    "P61": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P61",
+          "datavalue": {
+            "value": "Q42606",
+            "type": "string"
+          }
+        },
+        "type": "statement",
+        "rank": "normal"
+      }
     ]
   },
-  "descriptions": {},
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "ninth Pharaoh of the Eighteenth dynasty of Egypt; record created 2026-10-21 for the Gaiad's tags, from Wikidata Q42606"
+    }
+  },
   "id": "Q195082",
   "labels": {
     "en": {

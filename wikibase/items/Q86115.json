@@ -1,9 +1,16 @@
 {
-  "aliases": {},
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Iset"
+      }
+    ]
+  },
   "claims": {
     "P39": [
       {
-        "id": "Q86115$ED0FAB48-0F7B-4D7A-B55B-5D368C4EDE00",
+        "id": "Q195528$5FF0D69A-B2F9-4004-8CB3-59C96CFA5501",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -22,7 +29,7 @@
         "type": "statement"
       },
       {
-        "id": "Q86115$447045DC-5FD0-4B68-9B52-B60E5875B6E4",
+        "id": "Q195528$EC99E84A-81F9-4B9A-9274-8749CC130D09",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -43,19 +50,40 @@
     ],
     "P47": [
       {
-        "id": "Q86115$0A604DB4-A096-41D6-A349-CFD58D99A54E",
+        "id": "Q195528$13313041-5D80-E681-5DBA-FB0F6892C0A8",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q86067",
-              "numeric-id": 86067
+              "id": "Q195082",
+              "numeric-id": 195082
             }
           },
-          "hash": "2863c7d61dc6ed15325a890a495381cac34f401c",
+          "hash": "1af183970343ffe4f66dc1fed3c9f5f1ab5c604b",
           "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q195528$696CC666-911C-778D-50CA-087CF231F208",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q195081",
+              "numeric-id": 195081
+            }
+          },
+          "hash": "56c251b330a4a55caa0e367862ab96b060a82f11",
+          "property": "P48",
           "snaktype": "value"
         },
         "rank": "normal",
@@ -64,7 +92,7 @@
     ],
     "P55": [
       {
-        "id": "Q86115$30A17950-8715-44D1-9AEC-F82E678208AF",
+        "id": "Q195528$C5CF1CF3-A8C0-736F-5B0E-F19B3580B0D0",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -82,21 +110,55 @@
         "rank": "normal",
         "type": "statement"
       }
+    ],
+    "P62": [
+      {
+        "id": "Q195528$CFF300CB-D2FE-2FA6-6B8B-515D736EFD50",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000012876655725"
+          },
+          "hash": "4332b2ec432eff75eac444836c069ce2f6f3776e",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q195528$B0676CA7-4CF5-41F5-A028-A41DB838B810",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Iset Queen of Egypt Arms.svg"
+          },
+          "hash": "db2fa283d4ae31341d17eafb8c94cdf2a1103da0",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
     ]
   },
   "descriptions": {},
-  "id": "Q86115",
+  "id": "Q195528",
   "labels": {
     "en": {
       "language": "en",
-      "value": "Iset"
+      "value": "Iset Queen of Egypt"
     }
   },
-  "lastrevid": 17500923,
-  "modified": "2025-09-16T22:12:09Z",
+  "lastrevid": 17606234,
+  "modified": "2025-09-17T23:06:25Z",
   "ns": 860,
-  "pageid": 100946,
+  "pageid": 217039,
   "sitelinks": {},
-  "title": "Item:Q86115",
+  "title": "Item:Q195528",
   "type": "item"
 }

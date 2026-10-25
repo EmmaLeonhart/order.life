@@ -1,5 +1,12 @@
 {
-  "aliases": {},
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Tuthmosis  Pharaoh"
+      }
+    ]
+  },
   "claims": {
     "P39": [
       {
@@ -132,6 +139,26 @@
           },
           "hash": "adec5ac84a40c43cfa43aee90ab24d4cdb261216",
           "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q86011$829658D3-C3BE-4E9A-965A-7B03E1C3ED09",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Tuthmosis /Pharaoh/"
+            }
+          },
+          "hash": "3f27daf74a2ef1d016ddb5f7cdb1a4967b25876b",
+          "property": "P5",
           "snaktype": "value"
         },
         "rank": "normal",

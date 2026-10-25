@@ -1,9 +1,16 @@
 {
-  "aliases": {},
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Binpu . "
+      }
+    ]
+  },
   "claims": {
     "P39": [
       {
-        "id": "Q85933$04144454-32BF-4952-8D8C-11878B4ACE50",
+        "id": "Q195377$F5645A59-8821-4293-ACDE-6DEF9DBA4B3A",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -22,7 +29,7 @@
         "type": "statement"
       },
       {
-        "id": "Q85933$3C5EA495-A202-4C69-859D-95DDBB08A766",
+        "id": "Q195377$52463F1A-921F-4222-9FD0-728452239832",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -43,18 +50,18 @@
     ],
     "P47": [
       {
-        "id": "Q85933$A3154BD2-F171-4F19-A08F-C6E25C5BE724",
+        "id": "Q195377$EFF26DF4-18D4-6665-CB71-BC598D847F07",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q85907",
-              "numeric-id": 85907
+              "id": "Q195370",
+              "numeric-id": 195370
             }
           },
-          "hash": "a1adcaf5f6417f9b8f321f4d4b8a9fa1dc310a8b",
+          "hash": "606fa95215b36ee45a839313c69d315d64954787",
           "property": "P47",
           "snaktype": "value"
         },
@@ -64,18 +71,18 @@
     ],
     "P48": [
       {
-        "id": "Q85933$BD6F0CB6-FDA9-4D8A-93FA-07665A04AC80",
+        "id": "Q195377$4DA966FE-2D28-30DD-F18E-BA948351BA7E",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q85913",
-              "numeric-id": 85913
+              "id": "Q195120",
+              "numeric-id": 195120
             }
           },
-          "hash": "57151dab9db2e8603bc3837ec59fd3c0cf39e33c",
+          "hash": "96b686b49b915c9a70604fd0d7f071323c015f4a",
           "property": "P48",
           "snaktype": "value"
         },
@@ -85,7 +92,7 @@
     ],
     "P55": [
       {
-        "id": "Q85933$FDCC058D-DA6C-42CF-8BD2-04897146037E",
+        "id": "Q195377$79CE8F69-2747-75AF-9292-F55CE82E97E2",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -103,21 +110,55 @@
         "rank": "normal",
         "type": "statement"
       }
+    ],
+    "P62": [
+      {
+        "id": "Q195377$D526AF87-2544-2550-2D1C-D37D4591D6B6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000006187581878"
+          },
+          "hash": "1ade6327e44413706c6270a1535a32c53729fc70",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q195377$BDD4F64B-3926-4BBB-8071-47FF5201562F",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Binpu . . Arms.svg"
+          },
+          "hash": "781a38f1a3003848fffa79b8eefe1ed24392361b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
     ]
   },
   "descriptions": {},
-  "id": "Q85933",
+  "id": "Q195377",
   "labels": {
     "en": {
       "language": "en",
-      "value": "Binpu . "
+      "value": "Binpu . ."
     }
   },
-  "lastrevid": 17500743,
-  "modified": "2025-09-16T22:09:41Z",
+  "lastrevid": 17606038,
+  "modified": "2025-09-17T23:03:50Z",
   "ns": 860,
-  "pageid": 100764,
+  "pageid": 216794,
   "sitelinks": {},
-  "title": "Item:Q85933",
+  "title": "Item:Q195377",
   "type": "item"
 }

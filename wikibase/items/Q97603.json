@@ -1,9 +1,16 @@
 {
-  "aliases": {},
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ahmose . "
+      }
+    ]
+  },
   "claims": {
     "P39": [
       {
-        "id": "Q85919$E949AE7C-6E5C-442B-8B76-46ACA901B9BF",
+        "id": "Q195612$8F3B2012-F5CE-4B82-BA46-2E597A95C909",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -22,7 +29,7 @@
         "type": "statement"
       },
       {
-        "id": "Q85919$7D61AEA1-8FA6-46D8-B5A8-EBD22A3711A3",
+        "id": "Q195612$FD29441A-1D37-462A-B255-FF610EC6E498",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -43,18 +50,18 @@
     ],
     "P47": [
       {
-        "id": "Q85919$A84972E5-7BCF-4E86-B4CA-8F2BBDBA9D57",
+        "id": "Q195612$480F1F9E-D4E2-F56F-E16A-FAA7F06EC2B8",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q85907",
-              "numeric-id": 85907
+              "id": "Q195370",
+              "numeric-id": 195370
             }
           },
-          "hash": "a1adcaf5f6417f9b8f321f4d4b8a9fa1dc310a8b",
+          "hash": "606fa95215b36ee45a839313c69d315d64954787",
           "property": "P47",
           "snaktype": "value"
         },
@@ -64,18 +71,18 @@
     ],
     "P48": [
       {
-        "id": "Q85919$5035848D-7E07-4ADA-B462-32DBAF82CF63",
+        "id": "Q195612$06794E3D-923B-3C52-1196-AA6EBA822239",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
             "type": "wikibase-entityid",
             "value": {
               "entity-type": "item",
-              "id": "Q85911",
-              "numeric-id": 85911
+              "id": "Q195373",
+              "numeric-id": 195373
             }
           },
-          "hash": "187be81aac93cc796a63ab75b4fa3b90b09bcb44",
+          "hash": "af17080581b486de9b03f878d6f8383b23a227ae",
           "property": "P48",
           "snaktype": "value"
         },
@@ -85,7 +92,7 @@
     ],
     "P55": [
       {
-        "id": "Q85919$403D826C-67A8-41CE-B32E-86B7B2F13CD6",
+        "id": "Q195612$2A4804F9-25C4-4F6D-C16E-BD81E88FD9A6",
         "mainsnak": {
           "datatype": "wikibase-item",
           "datavalue": {
@@ -103,21 +110,55 @@
         "rank": "normal",
         "type": "statement"
       }
+    ],
+    "P62": [
+      {
+        "id": "Q195612$4B1CD261-5C6D-68B2-D1D9-5C55D24D45EF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000016290108154"
+          },
+          "hash": "4c1bb6ea85f87f6ddc4b464a2392db7faa1559de",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q195612$72F384CB-4F1A-4CF5-BA59-ABFDC167C063",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ahmose . . Arms.svg"
+          },
+          "hash": "a6690e715b65c9bc6cc32c172dc9cb158d2f38bb",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
     ]
   },
   "descriptions": {},
-  "id": "Q85919",
+  "id": "Q195612",
   "labels": {
     "en": {
       "language": "en",
-      "value": "Ahmose . "
+      "value": "Ahmose . ."
     }
   },
-  "lastrevid": 17500729,
-  "modified": "2025-09-16T22:09:30Z",
+  "lastrevid": 17606390,
+  "modified": "2025-09-17T23:08:28Z",
   "ns": 860,
-  "pageid": 100750,
+  "pageid": 216787,
   "sitelinks": {},
-  "title": "Item:Q85919",
+  "title": "Item:Q195612",
   "type": "item"
 }
