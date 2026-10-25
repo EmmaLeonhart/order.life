@@ -1490,14 +1490,12 @@ def _ical_year_seasons(gy, lang="en"):
             "horus": "Month of Horus",
             "lent": "\U0001F56F\uFE0F Season of Lent",
             "eastertide": "\U0001F305 Eastertide",
-            "ramadan": "\u262A\uFE0F Ramadan",
             "yuletide": "\U0001F384 Yuletide",
             "easter_season": "\U0001F95A The season of probabilistic Easter",
         },
         "ja": {
             "horus": "\u30DB\u30EB\u30B9\u6708",
             "lent": "\U0001F56F\uFE0F \u56DB\u65EC\u7BC0",
-            "ramadan": "\u262A\uFE0F \u30E9\u30DE\u30C0\u30FC\u30F3",
             "eastertide": "\U0001F305 \u5FA9\u6D3B\u7BC0",
             "yuletide": "\U0001F384 \u30E6\u30FC\u30EB\u306E\u5B63\u7BC0",
             "easter_season": "\U0001F95A \u78BA\u7387\u306E\u5FA9\u6D3B\u796D\u306E\u5B63\u7BC0",
@@ -1570,21 +1568,6 @@ def _ical_year_seasons(gy, lang="en"):
             n["eastertide"], tide_desc,
             f"gaian-{gy}-eastertide@order.life"
         )))
-
-        # Ramadan as a span beside its four Fridays (Emma, 2026-10-24: "Ramadan should appear as a span plus the four
-        # Fridays, but ... our effective way that we treat Ramadan is through the four Fridays"; "when Ramadan
-        # overlaps with Lent, we perceive it as being auspicious").
-        ram, fitr, _adha = _islamic_events_for_year(iso_year)
-        if ram:
-            ram_desc = (f"Ramadan: {_fmt_greg(ram)} to {_fmt_greg(fitr - datetime.timedelta(days=1))}. "
-                        f"Kept through its four Fridays.")
-            if ram <= easter - datetime.timedelta(days=1) and ash_wed <= fitr - datetime.timedelta(days=1):
-                ram_desc += " This year it overlaps Lent, which is auspicious."
-            events.append((ram, _vevent_span(
-                ram, fitr,
-                n["ramadan"], ram_desc,
-                f"gaian-{gy}-ramadan@order.life"
-            )))
     except Exception:
         pass
     return events
