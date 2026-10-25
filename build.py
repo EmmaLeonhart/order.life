@@ -792,11 +792,13 @@ def _ancestor_doy(month_num, day_num):
     return (month_num - 1) * 28 + day_num if month_num <= 13 else 364 + day_num
 
 
-def _ancestor_lines(month_num, day_num):
-    """iCal lines for a day: the /ancestors/<day>/ link, then one line per birth and per death."""
+def _ancestor_lines(month_num, day_num, names=True):
+    """iCal lines for a day: the /ancestors/<day>/ link, then (with names) one line per birth and per death."""
     doy = _ancestor_doy(month_num, day_num)
     day = _ANCESTOR_DAYS.get(str(doy), {})
     lines = [f"\U0001F333 ancestors: https://order.life/ancestors/{doy}/"]
+    if not names:
+        return lines
     lines += [f"\U0001F331 Born: {e['name']} ({_ancestor_when(e)})" for e in day.get("births", [])]
     lines += [f"\U0001F940 Died: {e['name']} ({_ancestor_when(e)})" for e in day.get("deaths", [])]
     return lines
@@ -1430,10 +1432,32 @@ def _ical_year_daily(gy, month_display, lang="en"):
             title = _chapter_title((mn - 1) * 28 + dn) if mn <= 13 else ""
             if title:
                 summary += f" · \U0001F4D6 {title}"
-            desc    = "\n".join([gaian_day_description(gy, mn, dn)] + _ancestor_lines(mn, dn))
+            # The names live in ancestors.ics: with them the daily feed was 11.5 MB and would not sync
+            # (Emma, 2026-10-24, chose a separate ancestors feed).
+            desc    = "\n".join([gaian_day_description(gy, mn, dn)] + _ancestor_lines(mn, dn, names=False))
             uid     = f"gaian-{gy}-{mn:02d}-{dn:02d}-daily@order.life"
             events.append((gd, _vevent(gd, summary, desc, uid)))
 
+    return events
+
+
+def _ical_year_ancestors(gy, month_display):
+    """Return list of (date, vevent_str): one event per day naming every ancestor born or died on it."""
+    events = []
+    num_months = 14 if _is_gaian_leap(gy) else 13
+    for mn in range(1, num_months + 1):
+        for dn in range(1, (7 if mn == 14 else 28) + 1):
+            lines = _ancestor_lines(mn, dn)
+            if len(lines) == 1:
+                continue
+            try:
+                gd = _gaian_day_to_greg(gy, mn, dn)
+            except Exception:
+                continue
+            count = len(lines) - 1
+            summary = f"\U0001F333 {count} ancestor{'s' if count != 1 else ''} · {month_display[mn]} {dn}"
+            uid = f"gaian-{gy}-{mn:02d}-{dn:02d}-ancestors@order.life"
+            events.append((gd, _vevent(gd, summary, "\n".join(lines), uid)))
     return events
 
 
@@ -1565,7 +1589,7 @@ def generate_ical_files(site_dir):
 
     files = {
         "current.ics": {
-            "years":    range(current_ge - 2, current_ge + 3),
+            "years":    range(current_ge - 1, current_ge + 2),
             "calname":  "Gaian Calendar (Current)",
             "caldesc":  "Gaian perpetual calendar: daily events, holidays, Lent and Eastertide",
             "daily":    True,
@@ -1574,13 +1598,23 @@ def generate_ical_files(site_dir):
             "lang":     "en",
         },
         "current_ja.ics": {
-            "years":    range(current_ge - 2, current_ge + 3),
+            "years":    range(current_ge - 1, current_ge + 2),
             "calname":  "ガイア暦（現在）",
             "caldesc":  "ガイア暦：日々の出来事、祭日、四旬節と復活節",
             "daily":    True,
             "seasons":  True,
             "prayers":  True,
             "lang":     "ja",
+        },
+        "ancestors.ics": {
+            "years":    range(current_ge, current_ge + 1),
+            "calname":  "Gaian Calendar: Ancestors",
+            "caldesc":  "Every ancestor born or died on each day of the current Gaian year",
+            "daily":    False,
+            "seasons":  False,
+            "holidays": False,
+            "ancestors": True,
+            "lang":     "en",
         },
         "gaian-holidays-extended.ics": {
             "years":    range(12000, 12041),
@@ -1598,7 +1632,10 @@ def generate_ical_files(site_dir):
         for gy in cfg["years"]:
             if gy - 10000 < 1:
                 continue
-            events += _ical_year_holidays(gy, month_display, lang)
+            if cfg.get("holidays", True):
+                events += _ical_year_holidays(gy, month_display, lang)
+            if cfg.get("ancestors"):
+                events += _ical_year_ancestors(gy, month_display)
             if cfg["daily"]:
                 events += _ical_year_daily(gy, month_display, lang)
             if cfg["seasons"]:
