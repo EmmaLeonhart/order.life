@@ -758,6 +758,10 @@ def _ical_fold(line):
     return "\r\n ".join(chunks) + "\r\n"
 
 
+# RFC 5545 requires DTSTAMP on every VEVENT; strict clients (Outlook) drop events without it.
+_ICAL_DTSTAMP = f"DTSTAMP:{datetime.datetime.now(datetime.timezone.utc):%Y%m%dT%H%M%SZ}"
+
+
 def _vevent(dtstart, summary, description, uid):
     """Return a complete VEVENT block string (CRLF line endings)."""
     dtend = dtstart + datetime.timedelta(days=1)
@@ -768,6 +772,7 @@ def _vevent(dtstart, summary, description, uid):
         f"DTEND;VALUE=DATE:{dtend:%Y%m%d}",
         f"SUMMARY:{summary}",
         f"DESCRIPTION:{desc_esc}",
+        _ICAL_DTSTAMP,
         f"UID:{uid}",
         "END:VEVENT",
     ]
@@ -882,6 +887,7 @@ def _vevent_span(dtstart, dtend_excl, summary, description, uid):
         f"DTEND;VALUE=DATE:{dtend_excl:%Y%m%d}",
         f"SUMMARY:{summary}",
         f"DESCRIPTION:{desc_esc}",
+        _ICAL_DTSTAMP,
         f"UID:{uid}",
         "END:VEVENT",
     ]
