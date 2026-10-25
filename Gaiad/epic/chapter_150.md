@@ -204,7 +204,7 @@ Its respects to {{c|Noah}}—as the mythic personification of a real
 
 Historical transformation, deserving of honor in the register of
 Myth even where it cannot be anchored in the register of hard
-History. The transformation is real. The person is real too.
+History. The transformation is real. The person is real too.{{fn|Historians treat the Yellow Emperor as a figure of legend; the Gaiad holds him real.}}
 The civilization is real. The memory is real. The four thousand
 
 Seven hundred years of continuous veneration are real. And they

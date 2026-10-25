@@ -204,7 +204,7 @@ Made a career of shocking social propriety, was the archetype of
 The philosophical provocateur. When {{c|Alexander the Great}} once
 Visited him and asked if there was anything he could do for the
 Great philosopher, {{c|Diogenes}} replied, "Yes, stand a
-Little out of my sunlight." The story is the whole school in a line,
+Little out of my sunlight." The story is the whole school in a line,{{fn|The meeting of Alexander and Diogenes is told by Plutarch and Diogenes Laertius, centuries later; historians doubt it happened as told.}}
 
 And it captures the {{p|Cynic}} ethos: the world's greatest conqueror
 Has no power over the philosopher who has chosen to need nothing.

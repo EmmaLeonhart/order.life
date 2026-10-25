@@ -81,7 +81,7 @@ He walked to the eastern sea,
 And at the shore of the {{p|Gulf}}, bereft
 And weeping, he set himself free:
 
-He burned upon a pyre
+He burned upon a pyre{{fn|The sources give both endings: in one, Quetzalcoatl burns himself and his heart rises as the morning star; in the other, he sails east on a raft of serpents.}}
 And his heart became the morning star—
 And he sailed away, the fire
 Of his raft diminishing afar

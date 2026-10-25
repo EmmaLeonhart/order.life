@@ -36,7 +36,7 @@ Empire stretching from the {{p|Euphrates}} to the border of {{p|Egypt}}—
 Is the Gaiad's own history. The scholars called minimalists, who make {{c|David}} and
 
 {{c|Solomon}} at most local chieftains inflated by later {{p|Judahite}}
-Court propaganda, are answered by the stones:
+Court propaganda, are answered by the stones:{{fn|The minimalist school, among them Thomas L. Thompson and Niels Peter Lemche, holds David and Solomon to be later inventions or small chieftains. The Tel Dan stele of the ninth century BCE names the House of David.}}
 The biblical account reflects a real kingdom. The discovery
 
 Of the {{p|Tel Dan Stele}} in nineteen-ninety-three provided what

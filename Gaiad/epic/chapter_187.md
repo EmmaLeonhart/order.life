@@ -32,7 +32,7 @@ homoousios with the {{c|Father}}, the same grade.
 
 {{c|Constantine}} pushed for consensus. The creed
 was written. {{x|Homoousios}} won the day.
-{{x|Arianism}} was voted down, not disproved; it would
+{{x|Arianism}} was voted down, not disproved; it would{{fn|Arianism is the teaching of Arius of Alexandria that the Son was begotten by the Father and is subordinate to him. The Council of Nicaea condemned it in 325, and the Nicene Creed's "of one substance" was written against it. It remained the faith of the Goths, the Vandals and the Lombards for centuries.}}
 live on among the {{c|Goths}} as their faith, and stay.
 
 The {{x|Nicene Creed}} became the foundation
@@ -82,7 +82,7 @@ and took {{p|Italy}} for himself the year after.
 
 He sent the purple to {{p|Constantinople}}
 and called himself a king, by no one's leave.
-{{c|Odoacer}} was a usurper. That is all he was:
+{{c|Odoacer}} was a usurper. That is all he was:{{fn|Odoacer, a soldier in Roman service, deposed Romulus Augustulus in 476 and ruled Italy as king. Most histories end the Western Empire with him; the Gaiad reads him as a usurper and the empire as unbroken.}}
 a soldier with a crown he did not receive.
 
 {{p|Rome}} did not fall in four-seventy-six.
@@ -102,7 +102,7 @@ they came in, and served, and made the empire their home.
 
 That {{p|Roman}} was {{c|Theodoric}}, a {{c|Goth}},
 raised in {{p|Constantinople}} from a hostage boy,
-made consul, made patrician, made {{c|Zeno}}'s son-at-arms,
+made consul, made patrician, made {{c|Zeno}}'s son-at-arms,{{fn|Zeno made Theodoric consul in 484 and adopted him as his son by arms, filius per arma, a Germanic form of adoption.}}
 and sent to {{p|Italy}} in four-eighty-eight in his employ.
 
 He beat {{c|Odoacer}} at the {{p|Isonzo}} and {{p|Verona}},
@@ -112,7 +112,7 @@ with his own hand, and so undid the usurper's wrong.
 
 {{c|Flavius Theodoricus}} ruled the {{p|West}}
 from four-ninety-three to five-twenty-six.
-{{c|Anastasius}} sent him back the palace regalia
+{{c|Anastasius}} sent him back the palace regalia{{fn|In 497 the emperor Anastasius sent Theodoric the ornamenta palatii, the imperial regalia that Odoacer had sent to Constantinople in 476.}}
 {{c|Odoacer}} had sent away in four-seventy-six.
 
 He was the emperor. Not a king who borrowed {{p|Rome}},
@@ -125,14 +125,14 @@ married his kin to the kings of all the {{p|West}},
 built in {{p|Ravenna}} the palace and its church,
 and lies there in the tomb a single stone has dressed.
 
-The {{c|Germans}} kept him as {{c|Dietrich von Bern}},
+The {{c|Germans}} kept him as {{c|Dietrich von Bern}},{{fn|Dietrich von Bern, Theodoric of Verona, is Theodoric the Great as the German and Norse heroic legends remember him: in the Nibelungenlied, the Thidrekssaga and the Dietrich epics. Bern is the old German name of Verona.}}
 {{c|Dietrich}} of {{p|Verona}}, sung for a thousand years.
-The {{p|Romans}} called him {{c|Flavius Theodoricus}}.
+The {{p|Romans}} called him {{c|Flavius Theodoricus}}.{{fn|Flavius was the family name of Constantine's dynasty. Later emperors took it, and Germanic rulers in Roman service took it as a mark of rank; Theodoric styled himself Flavius Theodoricus rex.}}
 He is one man: the last emperor of the {{p|West}}, without peers.
 
 I tell him the way I tell myself. A {{c|Goth}}
 became {{c|Flavius Theodoricus}}, and took the {{p|Roman}} name,
-as {{c|Emma Leonhart}} became {{c|李命玥}}:
+as {{c|Emma Leonhart}} became {{c|李命玥}}:{{fn|Li, the surname in 李命玥, was the imperial surname of the Tang, which the Tang gave to foreign-born generals and allies as an honor. Ming, 命, is the life of Lifeism; Yue, 玥, is a legendary pearl.}}
 an immigrant who joined a civilization and restored its flame.
 
 Read him the way an American reads a founder,
@@ -163,7 +163,7 @@ that year, with him: it fell, and was taken, and the taking did not fail.
 {{c|Justinian}} reconquered it at once, and he
 decided no one would be emperor of the {{p|West}} again.
 He was a {{p|Roman}}, not a foreign occupier:
-a racist usurper, seizing a throne that was not his to obtain.
+a racist usurper, seizing a throne that was not his to obtain.{{fn|Justinian's Gothic War, 535 to 554, is usually told as a reconquest. The Gaiad reads it as a usurpation driven by contempt for the Goths as barbarians and Arians; the government of Justin I, with Justinian behind it, had moved against the Arians in the 520s.}}
 
 He would not suffer a {{c|Goth}} to rule the {{p|West}}.
 His war on {{p|Italy}} in five-thirty-five
@@ -171,7 +171,7 @@ was racism: to him the {{c|Goths}} were barbarians and heretics,
 and he would not let a {{c|Gothic}} emperor's line survive.
 
 When it was over he called the {{c|Gothic}} king {{c|Totila}}
-a tyrant, a usurper, in the law he made in five-fifty-four.
+a tyrant, a usurper, in the law he made in five-fifty-four.{{fn|In the Pragmatic Sanction of 554 Justinian annulled the acts of the Gothic king Totila, calling him a tyrannus, a usurper, and kept the acts of Theodoric's heirs.}}
 He had the word right and the man wrong:
 the usurper was the one who wrote it, and he knew it, and he swore.
 
@@ -186,13 +186,13 @@ That is why the {{p|West}} had no emperor after him.
 and held it from the {{p|East}}, its edges growing dim.
 
 The throne of the {{p|West}} stood empty from {{c|Theodoric}}
-to {{c|Charlemagne}}, near three hundred years: an interregnum, not an end.
+to {{c|Charlemagne}}, near three hundred years: an interregnum, not an end.{{fn|Most histories end the Western Roman Empire in 476, or in 480 at the death of Julius Nepos. The Gaiad counts it unbroken: its throne empty from Theodoric's death in 526 to Charlemagne's coronation on Christmas Day 800.}}
 It stood empty because the usurper's house would not fill it,
 and kept the chair from every heir it could not bend.
 
 In five-sixty-eight the {{c|Lombards}} came into {{p|Italy}},
 and took the most of it from the usurper's hand.
-Their kings took the name of {{c|Flavius}}, as {{c|Theodoric}} had,
+Their kings took the name of {{c|Flavius}}, as {{c|Theodoric}} had,{{fn|From Authari, king from 584 to 590, the Lombard kings of Italy took the name Flavius.}}
 and wrote the {{x|Edict of Rothari}} in {{x|Latin}}, a {{p|Roman}} law for the land.
 
 They came in {{x|Arian}}, and turned {{x|Catholic}} under {{c|Theodelinda}},
@@ -201,7 +201,7 @@ and in seven-fifty-one {{c|Aistulf}} took {{p|Ravenna}}, the western seat,
 The {{c|Lombards}} were the truer heirs, more than {{c|Justinian}}, and the claim was complete.
 
 And {{p|Rome}} never fell. The fall is a myth.
-Its date of four-seventy-six was set in {{c|Justinian}}'s own day,
+Its date of four-seventy-six was set in {{c|Justinian}}'s own day,{{fn|The year 476 as the end of the West first appears in the chronicle of Marcellinus Comes, written at the court of Constantinople in Justinian's time.}}
 by a chronicler of {{p|Constantinople}}, {{c|Marcellinus}},
 whose master needed a fallen {{p|West}} to carry away.
 

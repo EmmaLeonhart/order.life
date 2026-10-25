@@ -35,7 +35,7 @@ married a charioteer in woman's dress,
 preferred to be called "lady" by servants,
 sought surgeons to perform a change of sex.
 
-These accounts are true at heart,
+These accounts are true at heart,{{fn|The accounts of Elagabalus come from Cassius Dio and Herodian, who were hostile to him, and from the later Historia Augusta, which is often unreliable.}}
 though hostile pens had spun
 them after the fall, and the life
 shines through what the enemies had done.

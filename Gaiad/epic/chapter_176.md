@@ -42,7 +42,7 @@ In which he ordered the destruction of most philosophical texts
 Not useful to his political program (preserving {{p|Legalist}} works,
 
 Agricultural manuals, and medical texts) and buried
-Alive four hundred sixty {{p|Confucian}} scholars. The atrocity
+Alive four hundred sixty {{p|Confucian}} scholars. The atrocity{{fn|The burning of the books and burying of the scholars is told by Sima Qian, a historian of the Han, the dynasty that overthrew the Qin; some historians think the account exaggerated.}}
 Was real, whatever the later hostile {{p|Han}} historians
 Added to it, and the real
 

@@ -144,7 +144,7 @@ Entirely on the {{p|Confucian}} conviction that moral and intellectual
 Cultivation should be the primary qualification for political power.
 
                                                                      And
-Now {{c|Laozi}}, the old master, who lived and left his book. The
+Now {{c|Laozi}}, the old master, who lived and left his book. The{{fn|Many historians doubt that Laozi was a single historical person, and date the Daodejing to the fourth century BCE or later. The Gaiad holds that he lived.}}
 Traditional account, in {{c|Sima Qian}}'s {{p|Records of the Grand Historian}}
 (Written in the first century BCE, several centuries after the
 Presumed date), places {{c|Laozi}} as an older contemporary of {{c|Confucius}},

@@ -3,7 +3,7 @@
 In the {{p|West}}, in {{c|Theodoric}}'s time and after,
 while the usurper's house kept the throne empty, the {{c|Franks}} grew.
 {{c|Clovis I}} in the late fifth century
-took the {{x|Nicene}} faith, as the {{c|Goths}} kept the {{x|Arian}}, as true.
+took the {{x|Nicene}} faith, as the {{c|Goths}} kept the {{x|Arian}}, as true.{{fn|Clovis I of the Franks was baptized a Nicene Christian, a Catholic, around the year 500, unlike the Goths, the Vandals and the Burgundians, who were Arians.}}
 
 His descendants, the {{c|Merovingians}}, ruled
 for three centuries, but became weak,
@@ -31,7 +31,7 @@ and in seven-seventy-four took {{p|Italy}}
 from the {{c|Lombards}}, and pushed the {{c|Muslims}} back at {{p|Spain}}'s doors.
 
 He did not destroy the {{c|Lombard}} kingdom. He took its crown,
-and called himself {{c|Rex Langobardorum}}, King of the {{c|Lombards}},
+and called himself {{c|Rex Langobardorum}}, King of the {{c|Lombards}},{{fn|Charlemagne conquered the Lombard kingdom in 774 and took the title Rex Langobardorum. Its crown is the one later called the Iron Crown of Lombardy.}}
 and held the {{x|Iron Crown}} of {{p|Italy}} twenty-six years
 before he was emperor: the kingdom of {{c|Theodoric}}'s heirs, and its words.
 
@@ -46,7 +46,7 @@ Monasteries copied classical manuscripts
 that would otherwise have been lost to time.
 
 On Christmas Day 800, {{c|Pope}} {{c|Leo III}}
-crowned {{c|Charlemagne}} {{c|Imperator Romanorum}}.
+crowned {{c|Charlemagne}} {{c|Imperator Romanorum}}.{{fn|Pope Leo III crowned Charlemagne in St Peter's on Christmas Day 800. The papacy held the imperial throne to be vacant because a woman, Irene, ruled in Constantinople.}}
 The throne of the {{p|West}}, empty since {{c|Theodoric}},
 had an emperor again, in {{p|St. Peter's}} forum.
 
