@@ -1019,6 +1019,13 @@ CLUSTERS = {
         ("Q195045", "Q300007", "Thutmose III, wd Q157899 = Thutmosis III Menkheperre, son of Thutmose II"),
         ("Q195139", "Q300166", "Amenhotep I, wd Q157966 = Djeserkare Amenhotep I, son of Ahmose I"),
     ],
+    # 2026-10-25: the tree's second Tutankhamun. Q195017 recorded him as a son of Amenhotep III and Tiye; Q195006
+    # as a son of Akhenaten, with his wife Ankhesenamun and children. Two biological fathers is an error
+    # (CLAUDE.md case 1): the 2010 DNA study (Hawass et al., JAMA) makes the KV55 mummy, Akhenaten, his
+    # father, so the Amenhotep III and Tiye edges were cut from Q195017 first and it is merged here.
+    "tutankhamun": [
+        ("Q195006", "Q195017", "Tutankhamun = Tutenkhamen, after his parent edges to Amenhotep III and Tiye were cut"),
+    ],
     "porcia": [
         ("Q72681", "Q144174", "Gaius Atilius Serranus -- wd Q12275873 is named "
                               "'G. Atilius Serranus'; both are the father of Cato the "
