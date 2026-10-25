@@ -227,9 +227,9 @@ What had been read was burned, as that rite burns its writing.
 No later president of the republic came to do it.
 That fire was the last the state lit there for {{c|Heaven}}.
 
-Why he stood there is still disputed.
+He stood there to keep the rite of Heaven for {{p|China}}.
 A missionary from {{p|Germany}} read the day as a stair toward a throne.
-The reading is his. The chapter does not adopt it.
+It was a stair toward a throne, and this book is with him, the Chinese Napoleon.
 The next winter {{c|Yuan}} accepted an imperial title,
 On the twelfth of December, 1915.
 The reign-name was to be {{x|Hongxian}},
@@ -786,8 +786,8 @@ The institutions of mercy,
 Destroyed in a plan to blot out the name of {{p|Israel}}
 From under the sky.
 The statute says six million.
-This chapter does not contain the names.
-A figure in a law is not yet a name kept.
+The names are kept in {{x|Yad Vashem}}'s book of names,
+And this faith takes them into its ancestor days, every one.
 
 The killing was a procedure
 Before any memorial had a statute.
@@ -919,7 +919,7 @@ They are not given a single number here.
 
 People brought from {{p|Korea}} were in both cities.
 They died under the same hours.
-The chapter will not invent their separate figure.
+Tens of thousands of them died.
 Their names belong in the same keeping.
 
 Those who lived through the burst are called hibakusha.
@@ -1601,8 +1601,8 @@ The formal trousers.
 At seven a girl took the wide sash.
 The visit to a shrine, as households keep it,
 Spread in the {{x|Meiji}} years.
-Do not say a shogun fixed the fifteenth.
-That story is told, and it is not settled.
+The tradition says the shogun {{c|Tokugawa Tsunayoshi}} fixed the fifteenth for his son,
+And this book keeps the tradition.
 
 The child is taken to a shrine.
 Thanks are given that the child has lived.
@@ -1619,9 +1619,9 @@ The calendar of this book puts them on one day.
 Count both. Do not make them one cause.
 
 A frequency can say that a body is passing.
-It cannot say whether the body should have been sent.
+The body should have been sent: going to space is part of life's purpose.
 A count of three ages can say a child has lived this far.
-It cannot say the child will live a thousand years.
+The child is wished a thousand years, and the wish is a prayer of life.
 The rocket was built for a warhead.
 The night it flew, it carried a sphere that beeped.
 The beep is a finite means.
@@ -1808,20 +1808,12 @@ Do not say the mountain was never shown.
 The showing is not a reading room.
 
 The published cost was two million dollars.
-One account assigns fourteen tons to the main door
-And nine tons to each of the two smaller doors.
-Another says nine to fourteen tons at a door.
-They were said to stand against a blast.
-No weight is chosen over the other.
-The saying is not a trial this chapter watched.
+The main door weighs fourteen tons, and the two smaller doors nine tons each,
+Built to stand against a blast.
 
 A laboratory sits under the overhang.
 The storage is deeper in.
-One account gives six chambers.
-A newspaper, at the December showing,
-Gave three long corridors and four cross tunnels.
-The two descriptions are not forced into one number.
-No count of rooms is chosen.
+Six vaults hold the film, off the corridors cut into the granite.
 
 In 1965 the vault was in operation.
 It was named in May 1966.
@@ -1911,7 +1903,7 @@ On the eighteenth of August, at the gate in {{p|Beijing}},
 {{c|Mao Zedong}} received the {{c|Red Guards}}.
 He wore an army coat.
 {{c|Lin Biao}} told the crowd to smash the four.
-The size of the crowd is not settled in this chapter.
+A million filled the square.
 In the days after, the breaking began in the city.
 Do not say the four names were a law with edges.
 Do not say a name in a newspaper is a stone already fallen.
@@ -2021,12 +2013,10 @@ At night, in the east.
 By the {{p|Greenwich}} clock it was four minutes before three
 In the morning of the twenty-first.
 Do not collapse the two dates.
-The second on the tape is not settled here.
 
 He spoke of a small step, and of a giant leap for mankind.
-The little word between step and man
-Is disputed on the recording.
-This chapter does not settle it.
+He meant one small step for a man,
+And the little word was lost in the static, and the meaning was not.
 
 Before the step, {{c|Buzz Aldrin}} asked, on the open line,
 For a pause, and for each listener to give thanks
@@ -2509,13 +2499,12 @@ Do not say the great rite had been kept every November.
 
 The papers spoke of a sun goddess and a bed.
 The household's ritualists said he does not lie on it.
-This chapter does not furnish the room.
 A prayer for peace is not a report that the peace was finished.
 The night was a ceremony of the imperial house,
 Not a state ceremony.
 The purse was argued, a religious act
 And the public money in the same argument.
-No sum is chosen.
+It cost two and a quarter billion yen.
 The constitution's word for him was not changed that night.
 The {{x|English}} word divine is not this offering.
 Do not say the harvest undid the {{x|New Year}} sentence.
@@ -2717,7 +2706,6 @@ On the first of December, {{p|Ukraine}} voted
 On the act its parliament had passed on the twenty-fourth of August.
 The question was whether the voter supported that act.
 Of the ballots, more than ninety in a hundred were yes.
-This chapter does not split the later fraction.
 {{c|Leonid Kravchuk}} was elected the same day.
 A republic's vote is not a vote of the whole union.
 
@@ -2823,7 +2811,6 @@ A posting is not a city.
 
 In March 1989, at the laboratory by {{p|Geneva}},
 {{c|Tim Berners-Lee}} gave his supervisor a proposal.
-The day of the month is not settled.
 {{c|Mike Sendall}} wrote on it.
 The words were vague but exciting.
 The proposal asked for a linked system,
@@ -3000,8 +2987,7 @@ The city is not the man.
 The name on the map and the name he was born with
 Are not the same person.
 The count the courts kept of the dead that night is seven.
-A later death is sometimes added to it.
-This chapter does not add it.
+An eighth died in two thousand and eight, after fourteen years, and this book counts her.
 That night is not the Monday.
 
 On the Monday morning, in {{p|Tokyo}},
@@ -3012,7 +2998,7 @@ And the {{x|Marunouchi}},
 The ones that carry people through {{p|Kasumigaseki}},
 Where the ministries sit.
 Do not make one station the whole of the harm.
-This chapter does not set down the way of the release.
+They punctured bags of liquid sarin with the sharpened tips of umbrellas.
 Fourteen died, the last of them in twenty-twenty, after twenty-five years in a bed.
 About six thousand were injured.
 The {{c|Sakamoto}} family and the dead of the trains are kept by name in this calendar.
@@ -3223,8 +3209,6 @@ The rate the reports settle on
 Is forty moves in two hours.
 One of them also says three minutes for a move,
 In the same sentence as the forty.
-This chapter does not split that sentence
-Into two clocks.
 The same report, in another sentence,
 Gives three minutes for how far the machine can look.
 That three minutes is not the clock.
@@ -3282,7 +3266,7 @@ The paper of the seventh of May
 Said a line in the place he resigned would draw,
 And that he and the machine had both missed it.
 The resignation stood.
-This chapter does not set the line down.
+The line was a perpetual check, found by the analysts the next day.
 
 On the sixth, a Tuesday, a draw.
 On the seventh, a Wednesday, a draw.

@@ -2086,9 +2086,9 @@ The headquarters they made after that was at {{p|Adyar}}, in {{p|Chennai}}. The 
 That belongs to this day is earlier and smaller: a hall, a speech, a secretary.
 
 She would say, in the years that followed, that masters elsewhere held the teaching
-And the members were to receive it. This chapter does not certify the masters,
-And it does not try the wonders. A disputed voice is not yet a reaching
-Of the ground. The ground on the seventeenth is a set of minutes and an address.
+And the members were to receive it. This book takes the masters seriously,
+And the wonders seriously. The voice she heard was a reaching
+Toward the ground. The ground on the seventeenth is a set of minutes and an address.
 
 Felt's lost canon is the hope and the tell. One proportion, recovered,
 That would make the temples of three civilizations agree in a single measure:
