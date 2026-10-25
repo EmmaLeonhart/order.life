@@ -935,7 +935,7 @@ the paper money, the coal burning for fuel,
 the postal relay system, the canals and roads,
 astonished European readers when finally full.
 
-{{c|Polo}} reached {{p|China}} and served the {{c|Khan}}, and wrote
+{{c|Polo}} reached {{p|China}} and served the {{c|Khan}}, and wrote{{fn|Some historians, among them Frances Wood, have argued that Polo never reached China; most hold that he did.}}
 what he had seen, and the book is not overrated:
 the information it contained was accurate,
 and fueled European interest in the East, newly inflated.

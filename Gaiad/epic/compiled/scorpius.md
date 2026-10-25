@@ -1365,7 +1365,7 @@ The international regime was not established.
 
 People left their houses.
 People were driven from their houses.
-About seven hundred thousand, by the count of the {{x|United Nations}}.
+About seven hundred thousand, by the count of the {{x|United Nations}}.{{fn|The United Nations Conciliation Commission estimated about 711,000 refugees in 1951. Other estimates run from about 520,000 to 900,000.}}
 Neither fact cancels the other.
 A village is not the whole, and the whole is not a village.
 The {{p|United States}} recognized the state that day,

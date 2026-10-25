@@ -1999,7 +1999,7 @@ Its respects to Noah—as the mythic personification of a real
 
 Historical transformation, deserving of honor in the register of
 Myth even where it cannot be anchored in the register of hard
-History. The transformation is real. The person is real too.
+History. The transformation is real. The person is real too.^[Historians treat the Yellow Emperor as a figure of legend; the Gaiad holds him real.]
 The civilization is real. The memory is real. The four thousand
 
 Seven hundred years of continuous veneration are real. And they
@@ -5335,7 +5335,7 @@ Empire stretching from the {{p|Euphrates}} to the border of {{p|Egypt}}—
 Is the Gaiad's own history. The scholars called minimalists, who make David and
 
 Solomon at most local chieftains inflated by later {{p|Judahite}}
-Court propaganda, are answered by the stones:
+Court propaganda, are answered by the stones:^[The minimalist school, among them Thomas L. Thompson and Niels Peter Lemche, holds David and Solomon to be later inventions or small chieftains. The Tel Dan stele of the ninth century BCE names the House of David.]
 The biblical account reflects a real kingdom. The discovery
 
 Of the {{p|Tel Dan Stele}} in nineteen-ninety-three provided what

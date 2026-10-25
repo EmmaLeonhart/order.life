@@ -30965,7 +30965,7 @@ Its respects to {{c|Noah}}—as the mythic personification of a real
 
 Historical transformation, deserving of honor in the register of
 Myth even where it cannot be anchored in the register of hard
-History. The transformation is real. The person is real too.
+History. The transformation is real. The person is real too.{{fn|Historians treat the Yellow Emperor as a figure of legend; the Gaiad holds him real.}}
 The civilization is real. The memory is real. The four thousand
 
 Seven hundred years of continuous veneration are real. And they
@@ -34301,7 +34301,7 @@ Empire stretching from the {{p|Euphrates}} to the border of {{p|Egypt}}—
 Is the Gaiad's own history. The scholars called minimalists, who make {{c|David}} and
 
 {{c|Solomon}} at most local chieftains inflated by later {{p|Judahite}}
-Court propaganda, are answered by the stones:
+Court propaganda, are answered by the stones:{{fn|The minimalist school, among them Thomas L. Thompson and Niels Peter Lemche, holds David and Solomon to be later inventions or small chieftains. The Tel Dan stele of the ninth century BCE names the House of David.}}
 The biblical account reflects a real kingdom. The discovery
 
 Of the {{p|Tel Dan Stele}} in nineteen-ninety-three provided what
@@ -36065,7 +36065,7 @@ Entirely on the {{p|Confucian}} conviction that moral and intellectual
 Cultivation should be the primary qualification for political power.
 
                                                                      And
-Now {{c|Laozi}}, the old master, who lived and left his book. The
+Now {{c|Laozi}}, the old master, who lived and left his book. The{{fn|Many historians doubt that Laozi was a single historical person, and date the Daodejing to the fourth century BCE or later. The Gaiad holds that he lived.}}
 Traditional account, in {{c|Sima Qian}}'s {{p|Records of the Grand Historian}}
 (Written in the first century BCE, several centuries after the
 Presumed date), places {{c|Laozi}} as an older contemporary of {{c|Confucius}},
@@ -37535,7 +37535,7 @@ Made a career of shocking social propriety, was the archetype of
 The philosophical provocateur. When {{c|Alexander the Great}} once
 Visited him and asked if there was anything he could do for the
 Great philosopher, {{c|Diogenes}} replied, "Yes, stand a
-Little out of my sunlight." The story is the whole school in a line,
+Little out of my sunlight." The story is the whole school in a line,{{fn|The meeting of Alexander and Diogenes is told by Plutarch and Diogenes Laertius, centuries later; historians doubt it happened as told.}}
 
 And it captures the {{p|Cynic}} ethos: the world's greatest conqueror
 Has no power over the philosopher who has chosen to need nothing.
@@ -38322,7 +38322,7 @@ In which he ordered the destruction of most philosophical texts
 Not useful to his political program (preserving {{p|Legalist}} works,
 
 Agricultural manuals, and medical texts) and buried
-Alive four hundred sixty {{p|Confucian}} scholars. The atrocity
+Alive four hundred sixty {{p|Confucian}} scholars. The atrocity{{fn|The burning of the books and burying of the scholars is told by Sima Qian, a historian of the Han, the dynasty that overthrew the Qin; some historians think the account exaggerated.}}
 Was real, whatever the later hostile {{p|Han}} historians
 Added to it, and the real
 
@@ -39614,7 +39614,7 @@ married a charioteer in woman's dress,
 preferred to be called "lady" by servants,
 sought surgeons to perform a change of sex.
 
-These accounts are true at heart,
+These accounts are true at heart,{{fn|The accounts of Elagabalus come from Cassius Dio and Herodian, who were hostile to him, and from the later Historia Augusta, which is often unreliable.}}
 though hostile pens had spun
 them after the fall, and the life
 shines through what the enemies had done.
@@ -40158,7 +40158,7 @@ homoousios with the {{c|Father}}, the same grade.
 
 {{c|Constantine}} pushed for consensus. The creed
 was written. {{x|Homoousios}} won the day.
-{{x|Arianism}} was voted down, not disproved; it would
+{{x|Arianism}} was voted down, not disproved; it would{{fn|Arianism is the teaching of Arius of Alexandria that the Son was begotten by the Father and is subordinate to him. The Council of Nicaea condemned it in 325, and the Nicene Creed's "of one substance" was written against it. It remained the faith of the Goths, the Vandals and the Lombards for centuries.}}
 live on among the {{c|Goths}} as their faith, and stay.
 
 The {{x|Nicene Creed}} became the foundation
@@ -40208,7 +40208,7 @@ and took {{p|Italy}} for himself the year after.
 
 He sent the purple to {{p|Constantinople}}
 and called himself a king, by no one's leave.
-{{c|Odoacer}} was a usurper. That is all he was:
+{{c|Odoacer}} was a usurper. That is all he was:{{fn|Odoacer, a soldier in Roman service, deposed Romulus Augustulus in 476 and ruled Italy as king. Most histories end the Western Empire with him; the Gaiad reads him as a usurper and the empire as unbroken.}}
 a soldier with a crown he did not receive.
 
 {{p|Rome}} did not fall in four-seventy-six.
@@ -40228,7 +40228,7 @@ they came in, and served, and made the empire their home.
 
 That {{p|Roman}} was {{c|Theodoric}}, a {{c|Goth}},
 raised in {{p|Constantinople}} from a hostage boy,
-made consul, made patrician, made {{c|Zeno}}'s son-at-arms,
+made consul, made patrician, made {{c|Zeno}}'s son-at-arms,{{fn|Zeno made Theodoric consul in 484 and adopted him as his son by arms, filius per arma, a Germanic form of adoption.}}
 and sent to {{p|Italy}} in four-eighty-eight in his employ.
 
 He beat {{c|Odoacer}} at the {{p|Isonzo}} and {{p|Verona}},
@@ -40238,7 +40238,7 @@ with his own hand, and so undid the usurper's wrong.
 
 {{c|Flavius Theodoricus}} ruled the {{p|West}}
 from four-ninety-three to five-twenty-six.
-{{c|Anastasius}} sent him back the palace regalia
+{{c|Anastasius}} sent him back the palace regalia{{fn|In 497 the emperor Anastasius sent Theodoric the ornamenta palatii, the imperial regalia that Odoacer had sent to Constantinople in 476.}}
 {{c|Odoacer}} had sent away in four-seventy-six.
 
 He was the emperor. Not a king who borrowed {{p|Rome}},
@@ -40251,14 +40251,14 @@ married his kin to the kings of all the {{p|West}},
 built in {{p|Ravenna}} the palace and its church,
 and lies there in the tomb a single stone has dressed.
 
-The {{c|Germans}} kept him as {{c|Dietrich von Bern}},
+The {{c|Germans}} kept him as {{c|Dietrich von Bern}},{{fn|Dietrich von Bern, Theodoric of Verona, is Theodoric the Great as the German and Norse heroic legends remember him: in the Nibelungenlied, the Thidrekssaga and the Dietrich epics. Bern is the old German name of Verona.}}
 {{c|Dietrich}} of {{p|Verona}}, sung for a thousand years.
-The {{p|Romans}} called him {{c|Flavius Theodoricus}}.
+The {{p|Romans}} called him {{c|Flavius Theodoricus}}.{{fn|Flavius was the family name of Constantine's dynasty. Later emperors took it, and Germanic rulers in Roman service took it as a mark of rank; Theodoric styled himself Flavius Theodoricus rex.}}
 He is one man: the last emperor of the {{p|West}}, without peers.
 
 I tell him the way I tell myself. A {{c|Goth}}
 became {{c|Flavius Theodoricus}}, and took the {{p|Roman}} name,
-as {{c|Emma Leonhart}} became {{c|李命玥}}:
+as {{c|Emma Leonhart}} became {{c|李命玥}}:{{fn|Li, the surname in 李命玥, was the imperial surname of the Tang, which the Tang gave to foreign-born generals and allies as an honor. Ming, 命, is the life of Lifeism; Yue, 玥, is a legendary pearl.}}
 an immigrant who joined a civilization and restored its flame.
 
 Read him the way an American reads a founder,
@@ -40289,7 +40289,7 @@ that year, with him: it fell, and was taken, and the taking did not fail.
 {{c|Justinian}} reconquered it at once, and he
 decided no one would be emperor of the {{p|West}} again.
 He was a {{p|Roman}}, not a foreign occupier:
-a racist usurper, seizing a throne that was not his to obtain.
+a racist usurper, seizing a throne that was not his to obtain.{{fn|Justinian's Gothic War, 535 to 554, is usually told as a reconquest. The Gaiad reads it as a usurpation driven by contempt for the Goths as barbarians and Arians; the government of Justin I, with Justinian behind it, had moved against the Arians in the 520s.}}
 
 He would not suffer a {{c|Goth}} to rule the {{p|West}}.
 His war on {{p|Italy}} in five-thirty-five
@@ -40297,7 +40297,7 @@ was racism: to him the {{c|Goths}} were barbarians and heretics,
 and he would not let a {{c|Gothic}} emperor's line survive.
 
 When it was over he called the {{c|Gothic}} king {{c|Totila}}
-a tyrant, a usurper, in the law he made in five-fifty-four.
+a tyrant, a usurper, in the law he made in five-fifty-four.{{fn|In the Pragmatic Sanction of 554 Justinian annulled the acts of the Gothic king Totila, calling him a tyrannus, a usurper, and kept the acts of Theodoric's heirs.}}
 He had the word right and the man wrong:
 the usurper was the one who wrote it, and he knew it, and he swore.
 
@@ -40312,13 +40312,13 @@ That is why the {{p|West}} had no emperor after him.
 and held it from the {{p|East}}, its edges growing dim.
 
 The throne of the {{p|West}} stood empty from {{c|Theodoric}}
-to {{c|Charlemagne}}, near three hundred years: an interregnum, not an end.
+to {{c|Charlemagne}}, near three hundred years: an interregnum, not an end.{{fn|Most histories end the Western Roman Empire in 476, or in 480 at the death of Julius Nepos. The Gaiad counts it unbroken: its throne empty from Theodoric's death in 526 to Charlemagne's coronation on Christmas Day 800.}}
 It stood empty because the usurper's house would not fill it,
 and kept the chair from every heir it could not bend.
 
 In five-sixty-eight the {{c|Lombards}} came into {{p|Italy}},
 and took the most of it from the usurper's hand.
-Their kings took the name of {{c|Flavius}}, as {{c|Theodoric}} had,
+Their kings took the name of {{c|Flavius}}, as {{c|Theodoric}} had,{{fn|From Authari, king from 584 to 590, the Lombard kings of Italy took the name Flavius.}}
 and wrote the {{x|Edict of Rothari}} in {{x|Latin}}, a {{p|Roman}} law for the land.
 
 They came in {{x|Arian}}, and turned {{x|Catholic}} under {{c|Theodelinda}},
@@ -40327,7 +40327,7 @@ and in seven-fifty-one {{c|Aistulf}} took {{p|Ravenna}}, the western seat,
 The {{c|Lombards}} were the truer heirs, more than {{c|Justinian}}, and the claim was complete.
 
 And {{p|Rome}} never fell. The fall is a myth.
-Its date of four-seventy-six was set in {{c|Justinian}}'s own day,
+Its date of four-seventy-six was set in {{c|Justinian}}'s own day,{{fn|The year 476 as the end of the West first appears in the chronicle of Marcellinus Comes, written at the court of Constantinople in Justinian's time.}}
 by a chronicler of {{p|Constantinople}}, {{c|Marcellinus}},
 whose master needed a fallen {{p|West}} to carry away.
 
@@ -41189,7 +41189,7 @@ But for the medieval period, they were one vocation.
 In the {{p|West}}, in {{c|Theodoric}}'s time and after,
 while the usurper's house kept the throne empty, the {{c|Franks}} grew.
 {{c|Clovis I}} in the late fifth century
-took the {{x|Nicene}} faith, as the {{c|Goths}} kept the {{x|Arian}}, as true.
+took the {{x|Nicene}} faith, as the {{c|Goths}} kept the {{x|Arian}}, as true.{{fn|Clovis I of the Franks was baptized a Nicene Christian, a Catholic, around the year 500, unlike the Goths, the Vandals and the Burgundians, who were Arians.}}
 
 His descendants, the {{c|Merovingians}}, ruled
 for three centuries, but became weak,
@@ -41217,7 +41217,7 @@ and in seven-seventy-four took {{p|Italy}}
 from the {{c|Lombards}}, and pushed the {{c|Muslims}} back at {{p|Spain}}'s doors.
 
 He did not destroy the {{c|Lombard}} kingdom. He took its crown,
-and called himself {{c|Rex Langobardorum}}, King of the {{c|Lombards}},
+and called himself {{c|Rex Langobardorum}}, King of the {{c|Lombards}},{{fn|Charlemagne conquered the Lombard kingdom in 774 and took the title Rex Langobardorum. Its crown is the one later called the Iron Crown of Lombardy.}}
 and held the {{x|Iron Crown}} of {{p|Italy}} twenty-six years
 before he was emperor: the kingdom of {{c|Theodoric}}'s heirs, and its words.
 
@@ -41232,7 +41232,7 @@ Monasteries copied classical manuscripts
 that would otherwise have been lost to time.
 
 On Christmas Day 800, {{c|Pope}} {{c|Leo III}}
-crowned {{c|Charlemagne}} {{c|Imperator Romanorum}}.
+crowned {{c|Charlemagne}} {{c|Imperator Romanorum}}.{{fn|Pope Leo III crowned Charlemagne in St Peter's on Christmas Day 800. The papacy held the imperial throne to be vacant because a woman, Irene, ruled in Constantinople.}}
 The throne of the {{p|West}}, empty since {{c|Theodoric}},
 had an emperor again, in {{p|St. Peter's}} forum.
 
@@ -42363,7 +42363,7 @@ the paper money, the coal burning for fuel,
 the postal relay system, the canals and roads,
 astonished European readers when finally full.
 
-{{c|Polo}} reached {{p|China}} and served the {{c|Khan}}, and wrote
+{{c|Polo}} reached {{p|China}} and served the {{c|Khan}}, and wrote{{fn|Some historians, among them Frances Wood, have argued that Polo never reached China; most hold that he did.}}
 what he had seen, and the book is not overrated:
 the information it contained was accurate,
 and fueled European interest in the East, newly inflated.
@@ -47503,7 +47503,7 @@ He walked to the eastern sea,
 And at the shore of the {{p|Gulf}}, bereft
 And weeping, he set himself free:
 
-He burned upon a pyre
+He burned upon a pyre{{fn|The sources give both endings: in one, Quetzalcoatl burns himself and his heart rises as the morning star; in the other, he sails east on a raft of serpents.}}
 And his heart became the morning star—
 And he sailed away, the fire
 Of his raft diminishing afar
@@ -57246,7 +57246,7 @@ The international regime was not established.
 
 People left their houses.
 People were driven from their houses.
-About seven hundred thousand, by the count of the {{x|United Nations}}.
+About seven hundred thousand, by the count of the {{x|United Nations}}.{{fn|The United Nations Conciliation Commission estimated about 711,000 refugees in 1951. Other estimates run from about 520,000 to 900,000.}}
 Neither fact cancels the other.
 A village is not the whole, and the whole is not a village.
 The {{p|United States}} recognized the state that day,
