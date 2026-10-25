@@ -1610,7 +1610,8 @@ _ICAL_PRAYERS = [
 def _ical_prayers(first_day, last_day, lang="en"):
     """The timed prayers as one VEVENT per prayer per day, from first_day to last_day (dates), each titled with its
     Gaian date and chapter (Emma, 2026-10-24: "The entire purpose of them is to include the date"; she chose
-    "Gaian date + chapter"). A repeating event carries one title, so it cannot carry the day."""
+    "Gaian date + chapter"). They are intentionally NOT repeating events (Emma: "They are intentionally not repeating
+    events ... the purpose of them is to force Apple Watch to display the date"). Never turn them back into an RRULE."""
     out = []
     d = first_day
     while d <= last_day:
