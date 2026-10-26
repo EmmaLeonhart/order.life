@@ -986,6 +986,10 @@ def build(out_path):
     add("0 TRLR")
     out_path = Path(out_path)
     out_path.parent.mkdir(parents=True, exist_ok=True)
+    # Gothic script for everyone (Emma, 2026-10-25: "applying Gothic as a standard label thing"; gothic.py).
+    sys.path.insert(0, str(Path(__file__).resolve().parent))
+    import gothic
+    w, n_gothic = gothic.add_names(w)
     out_path.write_text("\n".join(w) + "\n", encoding="utf-8-sig", newline="\n")
     stats = {"text individuals": n_text, "ancestry individuals": n - n_text, "families": nf,
              "text individuals with resolved features": n_resolved_text[0],
@@ -994,6 +998,7 @@ def build(out_path):
              "ancestry records given order.life's current Wikidata id and name": n_ident}
     if feats:
         stats.update({f"feature: {k}": v for k, v in sorted(feats.counts.items())})
+    stats["gothic names"] = n_gothic
     stats["bytes"] = out_path.stat().st_size
     return stats
 

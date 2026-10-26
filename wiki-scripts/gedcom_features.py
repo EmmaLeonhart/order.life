@@ -45,6 +45,12 @@ class Features:
                     for r in csv.DictReader(fh, delimiter="\t"):
                         into[r["qid"]].append((r[cols[0]], r[cols[1]]))
         self.readings = g7.load_readings()
+        # zh/ja/ko labels checked against each record's Wikidata item, for the lineage phrases (verify_cjk_labels.py)
+        self.cjk = defaultdict(dict)
+        if (ANA / "cjk_labels_verified.tsv").exists():
+            with open(ANA / "cjk_labels_verified.tsv", encoding="utf-8", newline="") as fh:
+                for r in csv.DictReader(fh, delimiter="	"):
+                    self.cjk[r["qid"]].setdefault(r["lang"], r["label"])
         self.temple, self.horus, self.abrahamic = build_monarch_names()
         self.zh_taken = {lb for v in self.labels.values() for lg, lb in v if lg == "zh"}
         self.counts = Counter()
@@ -94,7 +100,7 @@ class Features:
                 if lg not in have and all(parts):
                     name(sep.join(parts), f"{lg} reading (transcription, not a "
                          f"{'Chinese name' if lg == 'zh' else 'native name'})", "readings")
-        more, notes = g7.lineage_extras(qid, self.persons, self.sex_of, self.canon, self.labels)
+        more, notes = g7.lineage_extras(qid, self.persons, self.sex_of, self.canon, self.labels, self.cjk)
         for n, phrase in g7.lineage_names(qid, self.persons, self.sex_of, self.canon) + more:
             name(n, phrase, "lineage names")
         for note in notes:

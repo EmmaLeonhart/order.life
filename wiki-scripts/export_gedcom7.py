@@ -28,6 +28,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 from neo_kunyomi import kanji_for
 from chinese_names import chinese_name
 from monarch_names import build as build_monarch_names
+import gothic
 from export_gedcom import (ANA, MONTHS, SEX_FEMALE, SEX_MALE, couples_for_child, load)
 from export_gedcom import clean_name as clean_name_551, name_lines as name_lines_551
 
@@ -518,6 +519,7 @@ def build_gedcom7(out_path, extra_lang=None, graft="emma"):
         with open(cjk_path, encoding="utf-8", newline="") as fh:
             for r in csv.DictReader(fh, delimiter="	"):
                 cjk[r["qid"]].setdefault(r["lang"], r["label"])
+    n_got = 0
     n_indi = n_trans = n_lineage = n_cite = n_cal = n_notes = n_clado = n_nk = n_zh = n_mon = n_read = 0
     readings = load_readings()
     temple_names, horus_names, abrahamic_names = build_monarch_names()
@@ -607,6 +609,14 @@ def build_gedcom7(out_path, extra_lang=None, graft="emma"):
                     w("2 TYPE OTHER")
                     w(f"3 PHRASE {lg} reading (transcription, not a {'Chinese name' if lg == 'zh' else 'native name'})")
                     n_read += 1
+        # Gothic script for everyone (Emma, 2026-10-25: "applying Gothic as a standard label thing"): the primary
+        # Latin-script name, titles cut off, transliterated by gothic.py; reconstructed names for historical Goths.
+        got = gothic.OVERRIDES.get(qid) or (gothic.gothic(gothic.name_part(primary)) if not lang_of(primary) else "")
+        if got and re.search("[\U00010330-\U0001034F]", got) and got not in names:
+            w(f"1 NAME {val(got)}")
+            w("2 TYPE OTHER")
+            w("3 PHRASE Gothic script (transliterated)" if qid not in gothic.OVERRIDES else "3 PHRASE Gothic name")
+            n_got += 1
         more, lineage_notes = lineage_extras(qid, persons, sex_of, canon, labels, cjk)
         for n, phrase in lineage_names(qid, persons, sex_of, canon) + more:
             w(f"1 NAME {val(n)}")
@@ -738,7 +748,7 @@ def build_gedcom7(out_path, extra_lang=None, graft="emma"):
     with open(tmp, "w", encoding="utf-8-sig", newline="\n") as f:
         f.write("\n".join(out))
     tmp.replace(out_path)
-    return {"individuals": n_indi, "families": len(fam_ids), "translations": n_trans, "lineage_names": n_lineage, "gaiad_citations": n_cite, "calendar_notes": n_cal, "gaiad_notes": n_notes, "cladoplasts": n_clado, "neo_kunyomi": n_nk, "chinese_names": n_zh, "monarch_names": n_mon, "readings": n_read,
+    return {"individuals": n_indi, "families": len(fam_ids), "translations": n_trans, "lineage_names": n_lineage, "gaiad_citations": n_cite, "calendar_notes": n_cal, "gaiad_notes": n_notes, "cladoplasts": n_clado, "neo_kunyomi": n_nk, "chinese_names": n_zh, "monarch_names": n_mon, "readings": n_read, "gothic_names": n_got,
             "bytes": out_path.stat().st_size}
 
 
