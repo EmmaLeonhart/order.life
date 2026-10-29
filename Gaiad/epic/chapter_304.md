@@ -1,106 +1,116 @@
 # Chapter 304: The Precinct Divided
 
-In November of 1867, at {{p|Kyoto}},
-{{c|Tokugawa Yoshinobu}} gave the government back.
-He had meant a council of the domains, and himself in it.
-On the third of January, 1868, the court declared something else:
+At {{p|Kyoto}}, in the November of sixty-seven,
+{{c|Tokugawa Yoshinobu}} gave the government away.
+He meant a council of domains, himself still in it; but heaven
+Was handed back its son: on January's third day
 
-The restoration of imperial rule. The emperor was fifteen.
-The era was still {{x|Keiō}}. The name {{x|Meiji}} came in October.
-The war followed the paper. The paper is the part this day keeps,
-Because the paper reached the gods before the year was out.
+The court declared the restoration of the rule of the throne.
+The emperor was fifteen. The era still was {{x|Keiō}}; the name
+Of {{x|Meiji}} came in October. The war came on its own
+Behind the paper. But the paper is what this day will claim,
 
-On the sixth of April, in the palace at {{p|Kyoto}},
-Five articles were sworn before the kami.
-{{c|Sanjō Sanetomi}} read them. The emperor was in the hall.
-A new government, speaking in the form of an old oath.
+Because before the year was out, the paper reached the gods.
+On the sixth of April, in the palace, with the emperor in the hall,
+{{c|Sanjō Sanetomi}} read five articles; and whatever the odds
+For a state still at war, it swore them to the kami, first of all.
 
-That spring a section for the rites was opened.
-In June the old name returned.
-The {{x|Department of Divinities}}. The {{x|Jingikan}},
-Set under the council. The height was not yet given.
+That spring a section for the rites was opened. And in June
+The old name returned, the {{x|Jingikan}}, by the ancient plan,
+The {{x|Department of Divinities}}. Its halls had gone to ruin
+In the {{x|Ōnin War}}; four hundred years the name had held no man.
 
-In the ancient law it had stood over the other offices.
-Unity of rites and government, the slogan they printed.
-The halls of that department had burned in the {{x|Ōnin War}}.
-For centuries it had been a name with no one in the room.
+In the ancient law it had stood above the other offices of state:
+Unity of rites and government, the old words, and now they were meant.
+In August of 1869 the paper set it highest. Late,
+And for three years only; but the height was where the kami went.
 
-They meant that name for every shrine in the country.
-In August of 1869 the paper set it highest.
-In the governing, the council governed. The height was on paper.
+Consider what the kami were the day before the oath.
+For a thousand years the buddhas had been set above their heads:
+A kami was a buddha's trace; the buddha was the root, the growth
+The kami; monks kept the shrines and read the sutras, and the threads
 
-The parting was that same spring. The orders came.
-Monks who served at shrines, the intendants and the shrine-monks,
-Were to put off the robe or leave the shrine.
-A buddha's word was taken off a kami's name.
+Of a god's own name were knotted to a buddha's title, {{c|Gongen}},
+The buddha appearing as the god. At {{p|Usa}} and {{p|Iwashimizu}}, {{c|Hachiman}},
+The emperors' own ancestor, had been named a bodhisattva then,
+In 781, by the court. Even "the way of the gods" was a word in a {{x|Buddhist}} hand.
 
-{{c|Gongen}}, the buddha appearing as the god, was not to be said.
-A {{x|Buddhist}} image was not to be the body of the kami.
-At {{p|Usa}} and at {{p|Iwashimizu}}, {{c|Hachiman}}
-Had been a great bodhisattva. He was to be the great divinity,
+The way was going hollow. Give it one more century of this,
+And the kami would be ornaments upon a buddha's wall,
+A local name for something else, a shade, a parenthesis,
+The guardians at a temple gate, and nothing more at all.
 
-And not a bodhisattva, by order.
-The government had ordered a distinction.
-It had not ordered a fire. The fire is what the domains made
-Of a distinction. The cry was: abolish the buddhas, smash Śākyamuni.
+It was the kami's own who turned it. At {{p|Ise}} the priests
+Took the buddhas' ladder up and stood it on its head;
+The {{c|Yoshida}} called the way the root, the buddhas fruit and leaves;
+And {{c|Motoori Norinaga}} wanted the old words clean, and read
 
-Temples were closed. Bells were melted for the metal.
-Sutras were burned. Statues were broken in the precinct
-They had shared with the kami for centuries.
-In {{p|Kagoshima}} every temple was shut.
-The clearing there had begun before the paper.
-It was not the same wreck in every town.
-For a thousand years a shrine had kept a temple in the yard,
-And a kami had answered to a buddha's title,
+The oldest record back to life. They used the host to rise,
+Its words, its learning, and its ladder, turned to serve the kami's name.
+A commentary turns a reader. To turn a country, the device
+Must be the state. In 1868 the state was what came.
 
-And the priest who knew the sutra knew the norito.
-That was not a stain on a pure older thing.
-It was how the religion had been lived.
-Even {{p|Ise}} had kept {{x|Buddhist}} halls.
+The orders came that spring. The monks who served at shrines
+Were told to put away the robe and serve as shrine priests, or depart.
+The buildings stayed. The keepers stayed. The rites stayed. Down the lines
+Of the country's shrines the buddha's word was lifted off the kami's heart.
 
-The place used as the origin was not unmixed.
-To separate it was to manufacture an origin
-And to call the manufacture a return.
-{{c|Motoori Norinaga}}, in the century before, had wanted
+The avatar's title was not to be said. No buddha's image was to be
+The body of a kami. {{c|Hachiman}} was a bodhisattva no more:
+He was the great divinity, by order, and the order set him free
+To be what he had been: an emperor's son, a god, as he was before.
 
-The old words clean. He wrote a commentary.
-A commentary does not melt a bell.
-The {{c|Yoshida}} house and the {{c|Shirakawa}} house,
-Which had licensed the priests from the court, were set aside.
+This is the day the way of the gods was saved. Not purified. Saved.
+The line was manufactured, as a line drawn for a rescue is,
+Drawn where the people had not drawn it; and the road it paved
+Ran out of the buddhas' house and into the state's. The genesis
 
-A national kami, directed from the capital,
-Wearing the letterhead of the eighth century.
-What this calendar keeps is not that national kami.
-The days are for the dead, and for the living line.
+Of Shinto as a thing that stands in its own name begins on this page.
+Without the parting, there would be a buddha's hall beneath a kami's sign.
+With it, when the state was taken off the shrines in a later age,
+There was still a Shinto standing, with its priests, its rites, its line.
 
-Not for a ministry that decides which god may share a roof.
-The buddha in the shrine was an ancestor of the practice.
-Taking the name off does not take the centuries out of the wood.
-In 1871 the high department was lowered to a ministry.
+The government ordered a distinction. It did not order a fire.
+The fire is what the domains, the nativists and the local men made
+Of the distinction. Abolish the buddhas, they cried; into the pyre
+Went the sutras; bells were melted for the metal; statues laid
 
-In 1872 that ministry was closed into a {{x|Ministry of Doctrine}},
-Which sent out teachers of the kami and teachers of the buddha
-To instruct the people in one program.
-The fusion was not given back. The smashed things stayed smashed.
+In pieces in the precincts they had shared a thousand years.
+In {{p|Kagoshima}} every temple was shut; the clearing there had come before
+The paper. It was not the same wreck everywhere. The tears
+For the bells are owed, and this day pays them. A bell melted rings no more.
 
-A bell that has become metal does not become a bell.
-The pure thing the edict described was not what the people were,
-And the state, four years on, already needed both pulpits.
-Count the parting as it was.
+For the mixing was not a stain upon some older, cleaner thing.
+The priest who knew the sutra knew the norito; even {{p|Ise}} kept its halls
+For the buddhas. This calendar keeps the buddhas: they sheltered the kami, and they bring
+Their centuries with them. But the order matters: whose name is on the walls,
 
-A government, new, still at war, restoring an office
-That had been a burned name, and parting the kami
-From the buddhas in order to hold one cult:
-The emperor's rites and the emperor's government, one thing.
+Who is the root and who the fruit. The order is what the state set down.
+A state religion that forbids the mixing has mistaken its own art;
+A state religion that keeps the kami first, and lets the buddhas share the town,
+Is what the paper reached for, and what it held, in part.
 
-The precincts paid. The bells paid.
-Keep the kami. Keep the buddhas.
-They had learned each other's names,
-And the names were true to the people who said them.
+The {{c|Yoshida}} house and the {{c|Shirakawa}}, who had licensed the priests
+From the court for centuries, were set aside: the shrines, the order ran,
+Were the nation's rites, not one family's property; the feasts
+Were the country's. In 1871 the high department was lowered, and the plan
 
-A restoration that begins by forbidding
-A thousand years of speech is not a return.
-It is a new religion, with a date and an old letterhead.
-The letterhead was the {{x|Department of Divinities}}.
-The parting was that spring. The name returned in June.
-The paper set the office highest in August of 1869.
+Was changed again in 1872: a {{x|Ministry of Doctrine}} sent out
+The kami's teachers and the buddha's teachers, both, with one program for the land.
+The state, four years on, already needed both its pulpits. Whatever the doubt
+About the program, it was the mixing, held inside the state's own hand.
+
+This is the pattern this book keeps: not a rival church across the way,
+But a faith that takes the house it finds, and sets its own gods at its head.
+The church that kept the lines of Europe kept them by accident; one day
+The same turning, without the fire, is what this book is for. It is said
+
+That a restoration made on paper is no return. This book says otherwise:
+Every return is made; the making is the return. What is written down
+Into a state's own rites, and kept, comes true. So the kami rise
+On paper, and the paper holds, and the letterhead becomes a crown.
+
+The letterhead was the {{x|Department of Divinities}}. The parting came that spring.
+The name returned in June. In August of 1869 the paper set it high.
+Keep the kami first. Keep the buddhas in the yard. And keep the hope of the thing
+The palace swore: a state that keeps the rites again, and does not let them die.
