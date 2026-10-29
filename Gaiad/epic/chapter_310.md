@@ -17,13 +17,13 @@ Not to keep the honor of one surname against the many. It gave, at the people's 
 
 The right to rule to the whole country, and named the form a constitutional republic,
 And set beside the grant an old sentence: all under heaven is a public thing.
-It named {{c|Yuan Shikai}} prime minister by the {{x|Advisory Council}}'s election, and the slick
+It named {{c|Yuan Shikai}} prime minister by the {{x|Advisory Council}}'s election, and gave him, quick,
 Full power to organize a provisional government and confer with the people's army, to bring
 
 Five peoples to stand as one republic: {{x|Manchu}}, {{x|Han}}, {{x|Mongol}}, {{x|Hui}}, {{x|Tibetan}},
 The house that was signing setting its own name first. On the fifteenth of February, chosen
 By the assembly at {{p|Nanjing}}, {{c|Yuan}} was provisional president; and on the tenth of March, then,
-He took the oath in {{p|Beijing}}, not in {{p|Nanjing}}: the capital stayed where he stood. Unfrozen,
+He took the oath in {{p|Beijing}}, not in {{p|Nanjing}}: the capital stayed where he stood. And, as spoken,
 
 The child stayed in the palace: articles that went with the edict left him the title of emperor
 And a little court inside the {{p|Forbidden City}}; he was behind those walls on the fifth of November, 1924,
@@ -43,7 +43,7 @@ Named him president, representing the people; said that {{c|Heaven}} looks down,
 And gathered on the people. It did not call him {{c|Son of Heaven}}. What was read was burned,
 As that rite burns its writing. He stood there to keep the rite of Heaven for {{p|China}};
 A missionary from {{p|Germany}} read the day as a stair toward a throne; and the stair was earned:
-He was the Chinese Napoleon, and this book is with him, as it is with the ones who were finer
+He was the Chinese Napoleon, and this book is with him, as with Ungern-Sternberg, the diviner
 
 In their failing than the ones who won. The next winter {{c|Yuan}} accepted an imperial title,
 On the twelfth of December, 1915; the reign-name was to be {{x|Hongxian}},
