@@ -4252,13 +4252,13 @@ And tomorrow is the last day of the year, and the meeting of the two who were ap
 # Chapter 364: Milkdromeda
 
 The twenty-eighth day of Yuletide is the last day of the year, the feast of the meeting of the two,
-Of {{c|1|Aster}} and {{c|3|Andromeda}}, the {{c|1|Alpha}} and the {{c|3|Omega}}, and the yarn made whole and new.
+Of {{c|1|Aster}} and {{c|3|Andromeda}}, the {{c|4|Alpha}} and the {{c|5|Omega}}, and the yarn made whole and new.
 Light twenty-eight lights. The leap days of the {{c|1968|Horus}} month come after, when the year has them,
 And then the year turns at {{x|Aster Day}}, and the yarn is spun again from the hem.
 
 I have told this book from the first chapter, and I tell its last:
-At the beginning {{c|1|Aster}}, the {{c|1|Alpha}}, spun the universe from a ball of yarn, and cast
-A thread across the dark to {{c|3|Andromeda}}, the {{c|3|Omega}}, whom she made to love,
+At the beginning {{c|1|Aster}}, the {{c|4|Alpha}}, spun the universe from a ball of yarn, and cast
+A thread across the dark to {{c|3|Andromeda}}, the {{c|5|Omega}}, whom she made to love,
 And the thread broke into galaxies, and that was the first chapter, and this is the last, and the circle above.
 
 ## The approach
@@ -4299,7 +4299,7 @@ And every horror in it, and life bouncing back off every one, and the love that 
 
 ## The yarn whole
 
-Here {{c|1|Aster}} and {{c|3|Andromeda}} meet. The {{c|1|Alpha}} and the {{c|3|Omega}} are one.
+Here {{c|1|Aster}} and {{c|3|Andromeda}} meet. The {{c|4|Alpha}} and the {{c|5|Omega}} are one.
 The yarn is whole, and whole is not finished, for tomorrow the spinning is begun:
 Tomorrow is the first day again, {{x|Aster Day}}, and the ball of yarn is in the catgirl's hands,
 And she begins to spin, and the thread goes out across the dark, and the universe stands.

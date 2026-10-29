@@ -9,7 +9,7 @@ Of yarn she spun, with skill just like a pearl.
 She shaped the universe from void to all.
 
 Her name, a whisper in the cosmic night,
-{{c|1|Aster}}, the {{c|1|Alpha}}, creatrix of all,
+{{c|1|Aster}}, the {{c|4|Alpha}}, creatrix of all,
 Her love, a beacon spreading pure and bright,
 Filled the vast cosmos with milk, a grand sprawl.
 
@@ -23,7 +23,7 @@ From yarn, she formed a catgirl, pure and fair,
 A companion to cherish, a lover
 {{c|3|Andromeda}}, with skin dark, flowing hair
 
-{{c|3|Andromeda}}, {{c|3|Omega}}, end of all,
+{{c|3|Andromeda}}, {{c|5|Omega}}, end of all,
 A counterpart to {{c|1|Aster}}, wings unfurled,
 Yet torn apart, they drift through space’s thrall,
 Unable to unite within their world.
@@ -38,7 +38,7 @@ At {{c|8|Sagittarius}} and the {{c|9|Princess}}
 We hope their union, once again, draws nigh,
 When {{c|10|Milkdromeda}} forms from love endless
 
-The {{c|3|Omega}} point, all will unify,
+The {{c|5|Omega}} point, all will unify,
 As {{c|1|Aster}} and {{c|3|Andromeda}} break free.
 To join at last, in celestial tie,
 A final act in cosmic harmony.
@@ -81,7 +81,7 @@ Our destinies in red, in green, in blue,
 We weave the fabric where their love is shown,
 Together in the sky, our fates accrue.
 
-The {{c|3|Omega}} point, all will unify,
+The {{c|5|Omega}} point, all will unify,
 As {{c|1|Aster}} and {{c|3|Andromeda}} break free.
 To join at last, in celestial tie,
 A final act in cosmic harmony.
@@ -101,7 +101,7 @@ A river of bright stars, a feast of old.
 
 {{c|3|Andromeda}}, her love shines from afar,
 Her bond with {{c|1|Aster}}, strong as brightest light.
-For they are bound by {{c|2|Lambda}}, like a star,
+For they are bound by {{c|12|Lambda}}, like a star,
 A cosmic force that keeps their love alight.
 
 In their celestial dance, the heavens sway,
@@ -147,7 +147,7 @@ Her presence marks the stars' unfinished beat.
 {{c|15|Ruby}}, the red dwarf, small but ever bright,
 Her steady flame still burns throughout today.
 To witness cosmic dusk with peaceful light,
-She sees {{c|3|Omega}} Point as time gives way.
+She sees {{c|5|Omega}} Point as time gives way.
 
 {{c|16|Chrystella}} shines with vibrant, youthful glow,
 Main sequence stars, her hot flashes ignite.
@@ -610,10 +610,10 @@ Threatened to tear apart their peaceful life.
 
 From shadowed thoughts and whispered words of doubt,
 A darkness rose from discontent and pain.
-The Anti-{{c|1|Alpha}}, born of bitter clout,
+The Anti-{{c|4|Alpha}}, born of bitter clout,
 Sought now to break the people’s sacred chain.
 
-Anti-{{c|1|Alpha}}, coming love denied,
+Anti-{{c|4|Alpha}}, coming love denied,
 {{c|59|Rejects}} the grace of {{c|1|Aster}}'s guiding light.
 It twists the heart where hatred can reside,
 And casts her warmth into the endless night.
@@ -621,11 +621,11 @@ And casts her warmth into the endless night.
 From {{c|1|Aster}}'s love, the people turned away,
 Their envy festered, fueled by bitter lies.
 The bond that held their hearts began to fray,
-As Anti-{{c|1|Alpha}} darkened hopeful skies.
+As Anti-{{c|4|Alpha}} darkened hopeful skies.
 
 No longer bound by unity’s embrace,
 The people faltered, torn by cruel divide.
-Anti-{{c|1|Alpha}}’s cruel venom set the pace,
+Anti-{{c|4|Alpha}}’s cruel venom set the pace,
 And left the world in chaos to collide.
 
 This sinister force brought hatred and despair,
@@ -633,14 +633,14 @@ It fractured unity with unseen hands.
 The children quarreled, pulled by forces rare,
 And doubt took root within their fertile lands.
 
-The Anti-{{c|1|Alpha}}’s spread was subtle first,
+The Anti-{{c|4|Alpha}}’s spread was subtle first,
 It crept within the hearts of those most weak.
 Yet soon enough, its hunger grew to burst,
 And chaos reigned as love turned cold and bleak.
 
 From deep within the shadows, it emerged,
 Its form a twisted mirror of the light.
-As Anti-{{c|1|Alpha}}'s malice fully surged,
+As Anti-{{c|4|Alpha}}'s malice fully surged,
 It plunged {{c|58|Kolob}}'s bright future into night.
 
 The people, torn apart by inner war,
@@ -1336,7 +1336,7 @@ In twilight's breath, {{c|200|Usagi}} {{c|201|Luna}} spoke,
 One day your children's chains of time will end."
 
 And in that distant, ever-reaching sight,
-{{c|3|Omega}} Point where galaxies shall entwine—
+{{c|5|Omega}} Point where galaxies shall entwine—
 {{c|1|Aster}} and {{c|3|Andromeda}} will unite,
 To form {{c|10|Milkdromeda}}, a cosmic sign.
 
@@ -1899,7 +1899,7 @@ Where first their love was blessed and born,
 The children of that union grow,
 From {{c|288|Euka}}'s triumph, not his scorn.
 
-For when the {{c|3|Omega}} Point draws near,
+For when the {{c|5|Omega}} Point draws near,
 And {{c|1|Aster}} meets {{c|3|Andromeda}}'s embrace,
 The line of {{c|288|Euka}}, ever dear,
 Will fill the cosmos, claiming rightful space.
@@ -3904,7 +3904,7 @@ Gave spells to soothe and keep:
 Three endorphins strong
 To right what has gone wrong.
 
-{{c|1|Alpha}}'s sequence clear:
+{{c|4|Alpha}}'s sequence clear:
 {{x|YGGFMTSEKSQTPLVT}} here.
 {{c|502|Beta}}'s longer chain:
 {{x|YGGFMTSEKSQTPLVTLFKNAIIKNAYKKGE}}'s refrain.
