@@ -132,7 +132,8 @@ def main():
                 by_match += qid is None
             rec = [rec[0]] + [l for b in parts for l in b]
         out.extend(rec)
-    Path(dest).write_text("\n".join(out), encoding="utf-8")
+    # utf-8-sig: the BOM is the only encoding mark a GEDCOM 7 file has, and without it MyHeritage reads it as ANSI.
+    Path(dest).write_text("\n".join(out), encoding="utf-8-sig")
     print(f"{lang}: {added} {lang} labels and {generated} generated {lang} names added "
           f"({by_match} of them from matched name items) -> {dest}")
 

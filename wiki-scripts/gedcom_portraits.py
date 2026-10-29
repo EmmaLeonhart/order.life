@@ -61,7 +61,8 @@ def main():
         m = re.match(r"0 (@[^@]+@) INDI", line)
         if m and m.group(1) in bearer:
             lines.append(f"1 OBJE {objs[bearer[m.group(1)]]}")
-    out.write_text("\n".join(lines) + "\n", encoding="utf-8")
+    # utf-8-sig: the BOM is the only encoding mark a GEDCOM 7 file has, and without it MyHeritage reads it as ANSI.
+    out.write_text("\n".join(lines) + "\n", encoding="utf-8-sig")
     print(f"portraits: {len(bearer)} people given {len(objs)} portraits -> {out}")
 
 

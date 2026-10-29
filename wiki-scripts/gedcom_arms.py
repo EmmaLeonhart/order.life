@@ -161,7 +161,8 @@ def main():
         m = re.match(r"0 (@[^@]+@) INDI", line)
         if m and m.group(1) in bearer:
             lines.append(f"1 OBJE {bearer[m.group(1)]}")
-    out.write_text("\n".join(lines) + "\n", encoding="utf-8")
+    # utf-8-sig: the BOM is the only encoding mark a GEDCOM 7 file has, and without it MyHeritage reads it as ANSI.
+    out.write_text("\n".join(lines) + "\n", encoding="utf-8-sig")
     kinds = [k for k, _, _ in result.values()]
     print(f"arms: {len(result)} people, {kinds.count('real')} with real arms ({len(real)} their own), "
           f"{kinds.count('invented')} invented from {sum(1 for x, r in result.items() if r[2] == x and r[0] == 'invented')}"
