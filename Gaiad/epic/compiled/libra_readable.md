@@ -1974,197 +1974,143 @@ The palace swore: a state that keeps the rites again, and does not let them die.
 
 # Chapter 305: By Physical Processes
 
-In October of 1874 a colonel went up-country to watch the dead.
+In October of 1874 a colonel went up-country to watch the dead:
 Henry Steel Olcott, a lawyer who had worn a {{x|Union}} coat, sat down
-In the Eddy brothers' farmhouse at {{p|Chittenden}} and wrote what the mediums said,
-And in that house he met Helena Blavatsky, more than a year in the country,
+In the Eddy brothers' farmhouse at {{p|Chittenden}}, and wrote what the mediums said;
+And in that house he met Helena Blavatsky, a {{x|Russian}} newly in town,
 
-A {{x|Russian}} come to the same séances. Neither of them held an office yet.
+In the country a year, come to the same séances. Neither held an office yet.
 The season around them was the {{x|American}} season of the talking dead,
-And what they carried out of that farmhouse was not a creed they could set
-Over an altar. It was a person, met, and a question the cabinets left unsaid.
+And what they carried out of the farmhouse was not a creed they could set
+Over an altar: it was a meeting, and a question the cabinets left unsaid.
 
 On the seventh of September, 1875, in her rooms in {{p|New York}}, seventeen came
-To hear George Henry Felt on a canon of proportion he said the ancients knew:
-{{p|Egypt}}, {{p|Greece}}, and {{p|Rome}}, one measure hidden in the stone and in the frame.
-When the lecture ended, Olcott moved that a society be formed. The room took the motion up.
+To hear George Henry Felt on a canon of proportion he said the ancients knew,
+{{p|Egypt}}, {{p|Greece}} and {{p|Rome}}: one measure hidden in the stone and in the frame.
+When the lecture ended, Olcott moved that a society be formed. The motion grew.
 
-The next evening Felt spoke again. Olcott took the chair. The minutes were kept
-By William Quan Judge, a young lawyer. Sixteen handed in their names.
-On the thirteenth they chose a word already old, theosophy, divine wisdom, and set
-That word on the letterhead. The wisdom was not new. The club was new. The aims
+The next evening Felt spoke again; Olcott took the chair; the minutes were kept
+By William Quan Judge, a young lawyer; sixteen handed in their names.
+On the thirteenth they chose a word already old, theosophy, divine wisdom, and stepped
+Under it as a letterhead. The wisdom was not new. The club was new, and its aims
 
 Were still being written. On the thirtieth of October the bylaws passed,
 And the preamble said the founders sought a knowledge of the Supreme Power
-And of the higher spirits by the aid of physical processes. The sentence lasts.
-They printed a method. Processes: a body, an instrument, an hour
+And the higher spirits by the aid of physical processes: a method, made to last,
+A body, an instrument, a law of the world, and an hour.
 
-With whatever the laws of the world would bear.
-The sheet they printed dated the organization on that thirtieth of October.
-Henry Steel Olcott corrected it later. The bylaws were the business done there.
-The society stood when he gave his inaugural, and the date he recovered
+The society stood when the president gave his inaugural, on the seventeenth of November,^[The printed sheet dated the organization to 30 October, the day of the bylaws; Olcott later corrected the founding to his inaugural address of 17 November.]
+At the {{p|Mott Memorial Hall}} in {{p|New York}}, number 64, {{p|Madison Avenue}}.
+He was president; she was corresponding secretary; Judge was counsel; and each member
+Of the vice-presidency, Felt and Seth Pancoast, a doctor, sat in view.
 
-Is the seventeenth of November, at the {{p|Mott Memorial Hall}}, in {{p|New York}}.
-Number 64, {{p|Madison Avenue}}. He was president. She was not. Her office
-Was corresponding secretary. Judge, who had kept the first minutes, was counsel. The work
-Of vice-president went to Felt and to Seth Pancoast, a doctor. Count
+A treasurer, a librarian, a recording secretary: a small machine, complete,
+Pointed at the occult and the cabala, at the laws behind the wonders shown.
+Not a pilgrimage, not a territory: a club in a hired hall. And yet the heat
+Of it was larger than its officers. They wanted one study to hold, as one,
 
-The rest as they stood: a treasurer, a librarian, a recording secretary.
-A small machine, complete on paper, pointed at the occult and the cabala
-And at the laws behind the phenomena. Not a pilgrimage. Not a territory.
-A club in a hired hall, with a preamble and a list of offices.
-
-The want was larger than the officers. They wanted one study that could hold
 The old religions side by side, the texts of the {{p|East}} and the texts of the {{p|West}},
-Read together, and not a mission sent to clear the other from the fold.
-That longing is real. It is the longing a mixed altar answers.
+Read together, not a mission sent to clear the others from the field.
+That longing is real, and kin to this faith; not its forerunner, but a guest
+In the same house of many names. A sutra and a psalm, unsealed,
 
-Grant it. A calendar that keeps more than one name for the sacred is the wish
-In another grammar. The kami were not restored by evicting the buddhas.
-A sutra and a psalm can be read by one person. The ancestors do not perish
-Because a second book is open. Comparison is a form of care, when the readers
+Can be read by one person; the ancestors do not perish when a second book is open.
+In 1877 she published *{{x|Isis Unveiled}}*, two volumes, tradition set by tradition's side.
+In May of 1878 a circular carried the longing, and a harder charge was spoken:
+Teach the {{p|West}} the {{x|Eastern}} philosophies, and oppose the dogmatic theology, the pride
 
-Leave each thing its own name. What the society became is a later text.
-In 1877 she published *{{x|Isis Unveiled}}*, two volumes, tradition set against tradition.
-In May of 1878 a circular carried the longing and a harder charge:
-Teach the {{p|West}} the {{x|Eastern}} philosophies, and oppose dogmatic theology,
+Of the {{x|Christian}} above all, which the circular called pernicious. Brotherhood
+Stood in the same paragraphs. In February of 1879 they came ashore at {{p|Mumbai}},^[The three objects quoted today, a nucleus of brotherhood, the comparative study of religions, and the investigation of the powers latent in man, were drafted and redrafted after 1875; they are not the bylaws of that November.]
+And at {{p|Adyar}}, in {{p|Chennai}}, they made the headquarters where it stood
+And stands. And she said, in the years that followed, that the teaching was held by
 
-The {{x|Christian}} in particular, which the circular called pernicious. Brotherhood
-Stood in the same paragraphs. So did a new habit of correction. The three
-Objects people quote now — a nucleus of brotherhood, the religions understood
-By comparison, the powers latent in a person — were drafted, and drafted again. They
+Masters elsewhere, and the members were to receive it. This book takes the masters at their word,
+And the wonders seriously: the voice she heard, the letters that came, the hands unseen.
+The masters were a reaching toward the ground, and the ground answered; what was heard
+Was heard. The processes and the wonders are one study, and the ground between
 
-Are not the bylaws of that November. Do not stamp the later wording
-With the parlor's date. In February of 1879 they landed at {{p|Mumbai}}.
-The headquarters they made after that was at {{p|Adyar}}, in {{p|Chennai}}. The recording
-That belongs to this day is earlier and smaller: a hall, a speech, a secretary.
+Is where the minutes and the miracles meet. Felt's lost canon was the hope:
+One proportion, recovered, that would make the temples of three civilizations agree
+In a single measure. The hope is human and old; it is the scope
+Of every faith that reads the world as one. And this one, too, would see
 
-She would say, in the years that followed, that masters elsewhere held the teaching
-And the members were to receive it. This book takes the masters seriously,
-And the wonders seriously. The voice she heard was a reaching
-Toward the ground. The ground on the seventeenth is a set of minutes and an address.
+The temples in one measure, and the religions in one tree: not rough drafts of a book from {{p|New York}},
+But branches, prayed in for centuries, each by its own people, each with its own word.
+A norito is a norito; a sutra is a sutra; and the work
+Of the reader is to keep each one, and keep them all, and keep them heard.
 
-Felt's lost canon is the hope and the tell. One proportion, recovered,
-That would make the temples of three civilizations agree in a single measure:
-The hope is human, and old, and it goes bad when the people who called
-The meeting declare the measure found, and the temples must come to them to be told
-
-What they have been. The religions were not rough drafts of a book from {{p|New York}}.
-They had been prayed in for centuries by people who never elected a board.
-A norito is not a preface. A sutra is not a note the secretary took.
-Set them side by side. Do not swallow them into one explained word.
-
-Keep the reading. Refuse the ownership. {{p|East}} and {{p|West}} in one attention
-Is a house that can be built without a claim to have invented the ground.
-If you look for the proportion, look, and show the process, and mention
-The witnesses. The preamble gave the method. It did not give a crown.
-
-The processes belong to anyone who will carry them out. They are not a rank.
-The seventeenth of November, 1875. The president spoke in a hired hall.
-Divine wisdom, by physical processes: hold both halves of the phrase. The worth
-Of the striving is in the wisdom. The limit is in the processes. They are for all.
+The seventeenth of November, 1875: the president spoke in a hired hall.
+Divine wisdom, by physical processes: both halves of the phrase stand.
+The worth of the striving is in the wisdom; the processes are for all;
+And the masters, and the wonders, and the measure, are a reaching for the same land.
 
 
 # Chapter 306: Who Names the Good
 
 In July of 1887, at {{p|Sils Maria}}, in the {{p|Upper Engadine}},
-Friedrich Nietzsche wrote a polemic.
-He dated the preface there, that month.
-He said later that between the tenth and the thirtieth
-The thing was decided, written, and sent to the press.
+Friedrich Nietzsche wrote a polemic, and dated the preface there;
+Between the tenth and the thirtieth, he said, the thing was done, and seen
+Through to the press. On the seventeenth the manuscript went off with care
 
-On the seventeenth of July the manuscript went to {{p|Leipzig}},
-To Constantin Georg Naumann, who had printed, the year before,
-*{{x|Beyond Good and Evil}}*, at the author's cost.
-Print this one the same, he asked. The same type. The same paper.
-So the new book would stand as the old book's continuation.
-The reverse of the title page says it: added, to supplement and to clarify.
-Six hundred copies.
+To {{p|Leipzig}}, to Constantin Georg Naumann, who the year before had printed, at the author's cost,
+*{{x|Beyond Good and Evil}}*. Print this one the same, he asked: the same type, the same paper and page,
+So the new book would stand as the old one's continuation; and, lest the point be lost,
+The back of the title says it: added, to supplement and clarify. Six hundred copies. The stage
 
-He read the proofs in {{p|Venice}}, with Heinrich Köselitz.
-He was in {{p|Nice}} when the first copies came,
-In the first half of November. Three essays, and a preface.
-The preface opens on a confession: we are unknown to ourselves, we knowers.
-The question under it is this calendar's question in another mouth.
-Under what conditions did we invent good and evil, and what are they worth.
+Of the proofs was {{p|Venice}}, with Heinrich Köselitz; and he was in {{p|Nice}} when the first came,
+In the first half of November: three essays and a preface. The preface opens on a confession:
+We are unknown to ourselves, we knowers. And the question under it is the same
+As this calendar's, in another mouth: under what conditions, in what succession,
 
-He was answering a friend as well as a school.
-Paul Rée had derived the moral sensations from usefulness,
-The good as what helped the person who received it.
-Nietzsche wanted a different history, and he wanted it to cut.
+Did we invent good and evil, and what are they worth? He answered a friend as well as a school:
+Paul Rée had derived the moral feelings from usefulness, the good as what helped the one who received;
+Nietzsche wanted a different history, and he wanted it to cut. The first essay is the tool:
+Two namings side by side. Good and bad: the nobles, he says, believed
 
-The first essay sets two namings side by side.
-Good and bad: the nobles, he says, named themselves the good,
-And named the others plain, low, bad.
-Good and evil: a second naming, in which the powerful are called evil
-And the powerless are called the good.
-He calls the second a revolt of slaves.
-And he names the Jews as the people who began it.
+Themselves the good, and named themselves so, and named the others plain, low, bad.
+Good and evil is a second naming, where the powerful are evil and the powerless good;
+He calls it a revolt of slaves, and names the Jews as those who had
+Begun it: his sentence, not a finding; a people put where a history should.
 
-That sentence is his. It is not a finding.
-A history of the word good that needs one nation
-To be the author of a sickness has already chosen its evil.
-The method asked where a value came from.
-The paragraph answered by pointing at a people.
-Pointing is not the method. It is the thing the method is for catching.
-A party has defined itself as the harmed, and the other party as the harm.
+He offers histories of words along the way: one makes the {{x|Latin}} for bad mean dark;^[That etymology, of Latin malus from a Greek word for black, is not accepted.]
+The {{x|German}} in the second essay holds: {{x|Schuld}} is guilt, and {{x|Schuld}} is a debt.
+A thing owed to conscience began as a sum owed; and the bad conscience bears the mark
+Of cruelty with no street left to spend itself in, turned inward, where the net
 
-He offers histories of words on the way.
-One of them makes the {{x|Latin}} for bad mean dark.
-That one does not hold.
-The {{x|German}} in the second essay does.
-{{x|Schuld}} is guilt, and {{x|Schuld}} is a debt.
-A thing owed to a conscience began, he says, as a sum owed,
-And the bad conscience is cruelty with no street left to spend itself in,
-Turned inward on the person who may no longer be cruel outside.
+Closes on the one who may no longer be cruel outside. He calls the noble a beast,
+A blond beast of prey. The third essay asks what the ascetic ideals mean:
+The priest, the philosopher, the man of science, each serving at the feast
+Of a will to truth, the old will in a later coat; and the book ends on the keen
 
-He calls the noble a blond beast of prey.
-The beast is already a rank. Fur does not make it a history.
+Preference he finds in us: a person would rather will nothing than not will.
+Keep what is usable, and most of it is: a value has a history. Good
+Was not in the world the way a stone is. Someone said it, of someone, and still
+It spread, until the speakers forgot they had said it. That is a method that stood,
 
-The third essay asks what the ascetic ideals mean.
-Priest, philosopher, and the man of science, each still serving
-A will to truth, which is the old will in a later coat.
-The book ends on a preference he thinks he has uncovered in us.
-A person would rather will nothing than not will.
-
-Hold what is usable. A value has a history.
-Good was not in the world the way a stone is in the world.
-Someone said it, of someone, and the saying spread
-Until the speakers forgot they had said it.
-That is a true method. This scripture is a genealogy too.
+And this scripture keeps it: this scripture is a genealogy too.
 The days are kept because the dead are how the living came,
-And every name on a day came from somewhere.
+And every name on a day came from somewhere, from someone who knew
+Whom they were calling good, and why, and gave the good its name.
 
-Refuse the awards. He gives the first good to the masters,
-The ones strong enough to call themselves good and make it stick.
-He gives the second good to the resentful,
-And he gives the making of that resentment to the Jews.
-The first award is a rank in the costume of a chronicle.
-The second award is the same rank turned over,
-With a people set under it as the cause.
+And the masters have a point. The nobles who named themselves the good were not only a mirror:
+To name yourself, your house, your line, and make it stick, is a real power, and a worth;
+It is what every founding does; it is what this faith does, when it says, clearer
+Than a council, this is good, this day, this line, this way of life on earth.
 
-Who gets to define good is the question he succeeded in asking.
-His answer seats the strong, and then the weak,
-And gives one of those seatings a chosen author.
-This calendar does not seat either.
-A house that prints good on its own door has not found the good.
-A house that prints evil on another people's door has not found it either.
+Noble self-naming is the founding act, and the dead who founded are honored for it.
+But the good is not only theirs: the line runs through the named and the unnamed, the great
+And the small, the ones who won and the ones who lost; and the polemic, to be fit
+For this book, is read as a history of the naming, not as a gate
 
-The noble's good, as he tells it, was a mirror.
-The other good was a mirror with the faces turned around.
-A mirror is not a measure.
-The dead are not good because they won,
-And not evil because they lost,
-And not a case in a polemic. They are the line.
+Shut on a people. So keep the question he succeeded in asking: who names the good?
+The answer this calendar gives is the line: the founders who named it, and the heirs who keep the name,
+And everyone who lived, since every one of them, as a living thing, understood
+Some good, and said it. That is the genealogy. The masters lit it; the line carries the flame.
 
-Six hundred copies left {{p|Leipzig}}.
-Two months on, about two hundred had been asked for.
-The question outlived the slow sale.
-Ask where a good came from, and what it costs to keep saying it.
-Do not let the answer be a people.
-Do not let the answer be a class.
-The name is not a title the speaker keeps.
-Count the naming. Refuse the rank.
+Six hundred copies left {{p|Leipzig}}; two months on, about two hundred had been asked for, all told.
+The question outlived the slow sale. Ask where a good came from, and what it is worth to say it still;
+And name your good, as the nobles did, and keep it, as the line has kept it, old
+And new at once: the naming counted, the founders honored, and the good kept by will.
 
 
 # Chapter 307: The Card and the Name
