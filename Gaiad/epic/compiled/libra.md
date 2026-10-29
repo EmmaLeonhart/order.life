@@ -1932,9 +1932,24 @@ A state religion that keeps the kami first, and lets the buddhas share the town,
 Is what the paper reached for, and what it held, in part.
 
 The {{c|Yoshida}} house and the {{c|Shirakawa}}, who had licensed the priests
-From the court for centuries, were set aside: the shrines, the order ran,
-Were the nation's rites, not one family's property; the feasts
-Were the country's. In 1871 the high department was lowered, and the plan
+From the court for centuries, lost the licensing: the shrines, the order ran,
+Were the nation's rites, not one family's property. But the line of the feasts
+Was not broken; it was taken in. Since 1484 the {{c|Yoshida}} had kept a plan
+
+Of all the gods in one hall at {{p|Kyoto}}, the Daigengū, where the kami of the land,
+Three thousand one hundred and thirty-two, were seated round the source; from 1609
+The house had served as the {{x|Jingikan}}'s deputy, with the department's work in hand
+While the department was a name. And its hall of the eight gods, in 1872, by design,
+
+Gave up its sacred tokens to the palace, to the Shinden, where the emperor's rites
+Are kept today. So the Daigengū runs on in the palace: the state took the {{c|Yoshida}} in;
+It did not cast them out. And this faith keeps the same: its central shrine invites
+The name, Inochi Daigengū, and its Order is that department's kin,
+
+The {{c|Yoshida}}'s, not the fire's: a shrine may keep its buddha in the yard and still belong.
+The Order licenses and recognizes, as the old house did, every shrine it can.
+That is the department this book keeps, the {{c|Yoshida}}'s, carried strong
+Into a state again. In 1871 the high department was lowered, and the plan
 
 Was changed again in 1872: a {{x|Ministry of Doctrine}} sent out
 The kami's teachers and the buddha's teachers, both, with one program for the land.
