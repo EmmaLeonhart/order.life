@@ -55603,121 +55603,65 @@ Together: the machine that counts the living and the book that keeps the dead ar
 
 # Chapter 308: The Tenth Stroke
 
-On the eleventh of September, 1893, in {{p|Chicago}},
-A bell was struck ten times.
-The organizers had agreed a count of ten religions,
-And the strokes were the count.
-{{x|Hindu}}. {{x|Buddhist}}. {{x|Jain}}. {{x|Zoroastrian}}.
-{{x|Taoist}}. {{x|Confucian}}. {{x|Shinto}}.
-{{x|Jewish}}. {{x|Christian}}. {{x|Muslim}}.
-The bell was the {{x|Columbian Liberty Bell}}.
-The hall was the {{p|Art Institute}}, new, on the avenue.
-The fair was somewhere else, south, in the park.
-The {{p|White City}} was still open.
-It was the four hundredth year of a voyage, kept a year late.
+On the eleventh of September, 1893, in {{p|Chicago}}, a bell was struck ten times;
+The organizers had agreed a count of ten religions, and the strokes were the count:
+{{x|Hindu}}, {{x|Buddhist}}, {{x|Jain}}, {{x|Zoroastrian}}, {{x|Taoist}}, {{x|Confucian}}; the chimes
+Went on: {{x|Shinto}}, {{x|Jewish}}, {{x|Christian}}, {{x|Muslim}}: ten, by the organizers' account.
 
-They came in procession.
-{{c|James Gibbons}}, a cardinal, in scarlet, beside {{c|Charles Carroll Bonney}}.
-Then the robes.
-{{c|John Henry Barrows}}, minister of a {{x|Presbyterian}} church,
-Had built the meeting, and he chaired it.
-{{c|Bonney}} welcomed them.
-He said they met in respect for one another's religions.
-The respect was real, and it had a direction.
-The men who called the hall believed the comparison
-Would show their own church more clearly, and at last as the host.
+The bell was the {{x|Columbian Liberty Bell}}; the hall, the {{p|Art Institute}}, new, on the avenue;
+The fair was elsewhere, south, in the park, and the {{p|White City}} still stood open,
+In the four hundredth year of a voyage, kept a year late. They came in procession, two by two:
+{{c|James Gibbons}}, a cardinal, in scarlet, beside {{c|Charles Carroll Bonney}}; then the robes, unbroken,
 
-{{c|Vivekananda}} was thirty.
-He had been born {{c|Narendranath Datta}}, in {{p|Kolkata}},
-And he was a disciple of {{c|Ramakrishna}}.
-He had come without a letter from a body that could send him.
-{{c|John Henry Wright}}, at {{p|Harvard}}, wrote that to ask this man
-For credentials was like asking the sun
-To state its right to shine.
-On that first afternoon {{c|Vivekananda}} stood up
-And said, sisters and brothers of {{p|America}}.
-The hall rose.
-He thanked them in the name of the most ancient order of monks,
-As he called it, and in the name of millions of {{c|Hindus}}.
-He said his religion had taught tolerance, and universal acceptance,
-And that it held the religions true.
-He told them a shelter: a remnant of {{p|Israel}} received
-In the year {{p|Rome}} broke the temple.
-He offered the story as pride. The offer is the fact in the hall.
-He named sectarianism, and bigotry, and fanaticism,
-As what had filled the earth with blood.
-Whoever comes, by whatever path, he said, out of his {{x|Gita}}.
+And {{c|John Henry Barrows}}, minister of a {{x|Presbyterian}} church, who had built the meeting and chaired it.
+{{c|Bonney}} welcomed them, and said they met in respect for each other's faiths; and the respect was real,
+And it had a direction: the men who called the hall believed the comparison, as they shared it,
+Would show their own church the clearer, at last, as the host. And the hall would feel
 
-Hold the welcome. It is the opposite of a shut gate.
-Do not let the welcome become a claim
-To have been the sea the other streams run into.
-A hall can hold more than one true thing
-Without one of them being the meaning of the room.
+The other thing come on the first afternoon. {{c|Vivekananda}} was thirty, born in {{p|Kolkata}}
+{{c|Narendranath Datta}}, a disciple of {{c|Ramakrishna}}; he had come with no letter from a body that could send.
+{{c|John Henry Wright}}, at {{p|Harvard}}, wrote that to ask him for credentials was to ask the sun, the starter
+Of the day, to state its right to shine. He stood and said: sisters and brothers of {{p|America}}. And at the end
 
-{{c|Anagarika Dharmapala}} had come from {{p|Colombo}}.
-He spoke for the {{x|Buddhism}} of the south.
-{{c|Shaku Sōen}}, of {{p|Engaku-ji}} in {{p|Kamakura}}, spoke for {{x|Zen}}.
-Twenty-five years after the edicts that took the buddhas out of the shrines,
-Priests of the buddha and a priest of the kami
-Sat in one {{x|American}} room.
-{{c|Reuchi Shibata}}, for {{x|Shinto}}, prayed that the eight million deities
-Who keep the country of the cherry would also keep {{p|America}}.
-At home the roofs had been forced apart.
-Abroad, both were sent, as the face of {{p|Japan}}.
+Of the words the hall rose. He thanked them in the name of the most ancient order of monks, as he called it,
+And of millions of {{c|Hindus}}; he said his religion had taught tolerance, and universal acceptance, and held the religions true;
+He told them of a shelter: a remnant of {{p|Israel}} received in the year {{p|Rome}} broke the temple; he installed it
+As his people's pride. He named sectarianism, bigotry, fanaticism, as what had filled the earth with blood. And through
 
-{{c|Virchand Gandhi}} spoke for the {{c|Jains}}.
-{{c|Pung Kwang Yu}}, a secretary of the {{x|Chinese}} legation,
-Spoke for the {{c|Confucians}}, because the court had answered.
-{{x|Islam}} was one of the ten strokes.
-{{c|Alexander Russell Webb}}, an {{x|American}} who had become a {{x|Muslim}}, spoke for it.
-The sultan in {{p|Istanbul}} had not let his subjects come.
-The bell counted a religion whose empire had refused the chair.
-A convert sat where the forbidden delegation did not.
+It all, out of his {{x|Gita}}: whoever comes, by whatever path. That was the welcome, the opposite of a shut gate.
+A hall can hold more than one true thing. {{c|Anagarika Dharmapala}} had come from {{p|Colombo}}
+And spoke for the {{x|Buddhism}} of the south; {{c|Shaku Sōen}}, of {{p|Engaku-ji}} in {{p|Kamakura}}, for {{x|Zen}}; and late
+In the days, twenty-five years after the edicts parted buddha and kami, from the same land, in a row,
 
-The parliament sat from that eleventh through the twenty-seventh.
-{{c|Julia Ward Howe}} was among the speakers.
-The platform was wider than a mission board.
-It was not the world.
+Priests of the buddha and a priest of the kami sat in one {{x|American}} room.
+{{c|Reuchi Shibata}}, for {{x|Shinto}}, prayed that the eight million deities who keep
+The country of the cherry would keep {{p|America}} too. The parting at home had let the kami bloom
+In their own name; abroad, both were sent, as {{p|Japan}}'s face. And deep
 
-South of the hall, on the {{p|Midway}} of the fair,
-People brought from {{p|Dahomey}}, in what is now {{p|Benin}},
-Were set out to be looked at.
-They had no paper on the platform.
-The ten strokes were the organizers' ten.
-A religion with no delegate did not receive a stroke.
-A person on display did not receive a chair.
+In the program, {{c|Virchand Gandhi}} spoke for the {{c|Jains}}; {{c|Pung Kwang Yu}}, a secretary of the {{x|Chinese}} legation,
+For the {{c|Confucians}}, because the court had answered. {{x|Islam}} was one of the ten strokes, and the voice
+Was {{c|Alexander Russell Webb}}'s, an {{x|American}} who had become a {{x|Muslim}}; the sultan's nation,
+In {{p|Istanbul}}, had not let its subjects come, and a convert sat in the chair of their choice.
 
-This day, in this calendar, is {{x|Samhain}}.
-The last day of {{c|Libra}}. The old mark for a boundary,
-When the living and the dead are said to stand near.
-A meeting of religions is a meeting of the ways the dead are kept.
-The hall did that, for the dead who had a speaker.
-The {{p|Midway}} did the other thing.
-It put living people where a lesson is put,
-And called the place a village.
+The parliament sat from that eleventh through the twenty-seventh; {{c|Julia Ward Howe}} was among the speakers.
+The platform was wider than a mission board; it was not the world. South of the hall,
+On the {{p|Midway}} of the fair, people brought from {{p|Dahomey}}, in what is now {{p|Benin}}, for the seekers'
+Spectacle, were set out to be looked at. They had no paper on the platform, no stroke at all,
 
-Grant the hall.
-The rising up. The sisters and brothers.
-The eight million asked to keep a second country.
-The {{x|Buddhist}} and the {{x|Shinto}} priest in one room,
-After a government at home had forbidden them one roof.
-Comparison is a form of care when each name is left its own name.
+No chair: the ten strokes were the organizers' ten, and a person on display was given none.
+This day, in this calendar, is {{x|Samhain}}, the last day of {{c|Libra}}, the old boundary mark,
+When the living and the dead stand near; and a meeting of religions is a meeting, under one sun,
+Of the ways the dead are kept. The hall did that, for the dead who had a speaker in the dark;
 
-Refuse the pen.
-Refuse the kind hope that every path ends at the host's door.
-A man can build a room and still expect his church to be the room's meaning.
-The sun does not state its right to shine.
-Neither does a kami, or a sutra, or a person set on a midway.
-They are not exhibits in someone else's proof.
+The {{p|Midway}} did the other thing: it put the living where a lesson is put, and called the place a village.
+So keep the hall: the rising up, the sisters and the brothers, the eight million asked to keep a second land,
+The priest of the buddha and the priest of the kami in one room; comparison is a care, not pillage,
+When each name keeps its own name. The twenty-seventh came; the hall emptied; the fair ran on, as planned,
 
-The twenty-seventh came. The hall emptied.
-The fair ran on another month.
-The names that were spoken are kept.
-The names that were given no stroke are not, by that, unreal.
-On {{x|Samhain}} the edge is the work.
-Keep every dead the speakers named.
-Keep the ones no speaker was sent for.
-The boundary is not a list of ten.
+Another month. The names that were spoken are kept; the names that were given no stroke are not, by that, unreal.
+On {{x|Samhain}} the edge is the work: keep every dead the speakers named, and keep
+The ones no speaker was sent for, the people of the {{p|Midway}}, whose gods were as real
+As any of the ten. The boundary is not a list of ten. The dead are many, and the edge is deep.
 
 ---
 
