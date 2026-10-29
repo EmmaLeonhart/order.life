@@ -131,22 +131,21 @@ def blocks_of(body):
 
 
 def one_note(blocks, legacy):
+    """One NOTE, in Emma's order (2026-10-29): links, bio, quotes, legacy number(s). legacy: the record's own number
+    first, then the numbers merged into it."""
     notes = [b for b in blocks if b[0].startswith("1 NOTE ")]
     links = [b for b in notes if b[0].startswith("1 NOTE Links: ")]
     gaiad = [b for b in notes if b[0].startswith("1 NOTE First named in the Gaiad")]
     rest = [b for b in notes if b not in links and b not in gaiad]
-    head = f"Gaiad legacy number {legacy}"
     parts, trans = [], []
-    for b in links + gaiad + rest:
+    for b in links + rest + gaiad:
         parts.append([b[0][7:]] + [l[7:] for l in b[1:] if l.startswith("2 CONT")])
         tr = [l for l in b[1:] if not l.startswith("2 CONT")]
         for k in range(0, len(tr) - 1):   # one TRAN per language
             if tr[k].startswith("2 TRAN ") and tr[k + 1].startswith("3 LANG ") and tr[k + 1] not in trans:
                 trans += tr[k:k + 2]
-    if links:
-        parts[0][0] = parts[0][0].replace("Links: ", f"Links: {head}; ", 1)
-    else:
-        parts.insert(0, [f"Links: {head}"])
+    word = "number" if len(legacy) == 1 else "numbers"
+    parts.append([f"Gaiad legacy {word}: {', '.join(str(x) for x in legacy)}"])
     lines = []
     for k, text in enumerate(parts):
         lines += ([""] if k else []) + text
@@ -226,6 +225,7 @@ def apply(lines, register=True):
         return n
 
     n_merged = n_dropped = 0
+    absorbed = collections.defaultdict(list)   # the legacy numbers merged into each survivor
     for n, action, m in load_merges():
         if n not in indis:
             continue
@@ -238,6 +238,7 @@ def apply(lines, register=True):
             indis[n] = src
             continue
         n_merged += 1
+        absorbed[into] += [n] + absorbed.pop(n, [])
         dst = indis[into]
         for b in src:
             tag = b[0].split(" ")[1] if " " in b[0] else ""
@@ -284,7 +285,7 @@ def apply(lines, register=True):
     for n in sorted(indis):
         blocks = blocks_of(repoint([l for b in indis[n] for l in b]))
         n_joined += sum(b[0].startswith("1 NOTE ") for b in blocks) > 1
-        blocks = one_note(blocks, n)
+        blocks = one_note(blocks, [n] + sorted(absorbed.get(n, [])))
         indi_out += [f"0 @I{n}@ INDI"] + [l for b in blocks for l in b]
 
     if register and new_rows:
