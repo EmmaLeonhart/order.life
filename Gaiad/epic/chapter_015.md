@@ -56,7 +56,7 @@ In twilight's breath, {{c|200|Usagi}} {{c|201|Luna}} spoke,
 One day your children's chains of time will end."
 
 And in that distant, ever-reaching sight,
-{{c|3|Omega}} Point where galaxies shall entwine—
+{{c|5|Omega}} Point where galaxies shall entwine—
 {{c|1|Aster}} and {{c|3|Andromeda}} will unite,
 To form {{c|10|Milkdromeda}}, a cosmic sign.
 

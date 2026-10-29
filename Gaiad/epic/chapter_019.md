@@ -260,7 +260,7 @@ Where first their love was blessed and born,
 The children of that union grow,
 From {{c|288|Euka}}'s triumph, not his scorn.
 
-For when the {{c|3|Omega}} Point draws near,
+For when the {{c|5|Omega}} Point draws near,
 And {{c|1|Aster}} meets {{c|3|Andromeda}}'s embrace,
 The line of {{c|288|Euka}}, ever dear,
 Will fill the cosmos, claiming rightful space.

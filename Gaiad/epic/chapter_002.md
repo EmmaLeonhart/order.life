@@ -35,7 +35,7 @@ Our destinies in red, in green, in blue,
 We weave the fabric where their love is shown,
 Together in the sky, our fates accrue.
 
-The {{c|3|Omega}} point, all will unify,
+The {{c|5|Omega}} point, all will unify,
 As {{c|1|Aster}} and {{c|3|Andromeda}} break free.
 To join at last, in celestial tie,
 A final act in cosmic harmony.

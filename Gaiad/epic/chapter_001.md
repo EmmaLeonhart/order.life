@@ -6,7 +6,7 @@ Of yarn she spun, with skill just like a pearl.
 She shaped the universe from void to all.
 
 Her name, a whisper in the cosmic night,
-{{c|1|Aster}}, the {{c|1|Alpha}}, creatrix of all,
+{{c|1|Aster}}, the {{c|4|Alpha}}, creatrix of all,
 Her love, a beacon spreading pure and bright,
 Filled the vast cosmos with milk, a grand sprawl.
 
@@ -20,7 +20,7 @@ From yarn, she formed a catgirl, pure and fair,
 A companion to cherish, a lover
 {{c|3|Andromeda}}, with skin dark, flowing hair
 
-{{c|3|Andromeda}}, {{c|3|Omega}}, end of all,
+{{c|3|Andromeda}}, {{c|5|Omega}}, end of all,
 A counterpart to {{c|1|Aster}}, wings unfurled,
 Yet torn apart, they drift through space’s thrall,
 Unable to unite within their world.
@@ -35,7 +35,7 @@ At {{c|8|Sagittarius}} and the {{c|9|Princess}}
 We hope their union, once again, draws nigh,
 When {{c|10|Milkdromeda}} forms from love endless
 
-The {{c|3|Omega}} point, all will unify,
+The {{c|5|Omega}} point, all will unify,
 As {{c|1|Aster}} and {{c|3|Andromeda}} break free.
 To join at last, in celestial tie,
 A final act in cosmic harmony.

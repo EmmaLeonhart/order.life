@@ -45,9 +45,8 @@ and the queue's damage review covers them.
 ## Every character tag carries its legacy number (2026-10-29)
 
 Emma, 2026-10-29: "The idea is that we mass apply the existing numbers into the templates so that they become
-stable", and "Aster == Alpha, Andromeda == Omega". `Gaiad/scripts/stamp_legacy_ids.py` turned every `{{c|Name}}` into
-the ID form `{{c|N|Name}}`, where N is that person's Gaiad legacy number (`wikibase/analysis/gaiad_legacy_numbers.tsv`)
-and the number of their record in gaiad.ged. Two names with one number are one person: `{{c|1|Alpha}}` is Aster,
-`{{c|3|Omega}}` is Andromeda, and `wiki-scripts/gedcom_legacy.py` merges them from the tags. To merge or split people,
-change the number in the tag. A newly tagged name is written `{{c|Name}}`; run the stamp script to give it a number.
-Every reader of the tags accepts the ID form.
+stable". `Gaiad/scripts/stamp_legacy_ids.py` turned every `{{c|Name}}` into the ID form `{{c|N|Name}}`, where N is
+that name's own Gaiad legacy number (`wikibase/analysis/gaiad_legacy_numbers.tsv`): `{{c|1|Aster}}`, `{{c|4|Alpha}}`.
+Merges are applied after, in the GEDCOM generation, from `wikibase/analysis/gaiad_legacy_merges.tsv` (4 into 1).
+Emma: "Aster is 1 and Alpha is 4. The fact that 1 and 4 get merged after is the point." A newly tagged name is
+written `{{c|Name}}`; run the stamp script to give it a number. Every reader of the tags accepts the ID form.

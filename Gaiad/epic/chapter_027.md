@@ -96,7 +96,7 @@ Gave spells to soothe and keep:
 Three endorphins strong
 To right what has gone wrong.
 
-{{c|1|Alpha}}'s sequence clear:
+{{c|4|Alpha}}'s sequence clear:
 {{x|YGGFMTSEKSQTPLVT}} here.
 {{c|502|Beta}}'s longer chain:
 {{x|YGGFMTSEKSQTPLVTLFKNAIIKNAYKKGE}}'s refrain.

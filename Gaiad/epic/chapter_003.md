@@ -12,7 +12,7 @@ A river of bright stars, a feast of old.
 
 {{c|3|Andromeda}}, her love shines from afar,
 Her bond with {{c|1|Aster}}, strong as brightest light.
-For they are bound by {{c|2|Lambda}}, like a star,
+For they are bound by {{c|12|Lambda}}, like a star,
 A cosmic force that keeps their love alight.
 
 In their celestial dance, the heavens sway,
@@ -58,7 +58,7 @@ Her presence marks the stars' unfinished beat.
 {{c|15|Ruby}}, the red dwarf, small but ever bright,
 Her steady flame still burns throughout today.
 To witness cosmic dusk with peaceful light,
-She sees {{c|3|Omega}} Point as time gives way.
+She sees {{c|5|Omega}} Point as time gives way.
 
 {{c|16|Chrystella}} shines with vibrant, youthful glow,
 Main sequence stars, her hot flashes ignite.

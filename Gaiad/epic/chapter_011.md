@@ -27,10 +27,10 @@ Threatened to tear apart their peaceful life.
 
 From shadowed thoughts and whispered words of doubt,
 A darkness rose from discontent and pain.
-The Anti-{{c|1|Alpha}}, born of bitter clout,
+The Anti-{{c|4|Alpha}}, born of bitter clout,
 Sought now to break the people’s sacred chain.
 
-Anti-{{c|1|Alpha}}, coming love denied,
+Anti-{{c|4|Alpha}}, coming love denied,
 {{c|59|Rejects}} the grace of {{c|1|Aster}}'s guiding light.
 It twists the heart where hatred can reside,
 And casts her warmth into the endless night.
@@ -38,11 +38,11 @@ And casts her warmth into the endless night.
 From {{c|1|Aster}}'s love, the people turned away,
 Their envy festered, fueled by bitter lies.
 The bond that held their hearts began to fray,
-As Anti-{{c|1|Alpha}} darkened hopeful skies.
+As Anti-{{c|4|Alpha}} darkened hopeful skies.
 
 No longer bound by unity’s embrace,
 The people faltered, torn by cruel divide.
-Anti-{{c|1|Alpha}}’s cruel venom set the pace,
+Anti-{{c|4|Alpha}}’s cruel venom set the pace,
 And left the world in chaos to collide.
 
 This sinister force brought hatred and despair,
@@ -50,14 +50,14 @@ It fractured unity with unseen hands.
 The children quarreled, pulled by forces rare,
 And doubt took root within their fertile lands.
 
-The Anti-{{c|1|Alpha}}’s spread was subtle first,
+The Anti-{{c|4|Alpha}}’s spread was subtle first,
 It crept within the hearts of those most weak.
 Yet soon enough, its hunger grew to burst,
 And chaos reigned as love turned cold and bleak.
 
 From deep within the shadows, it emerged,
 Its form a twisted mirror of the light.
-As Anti-{{c|1|Alpha}}'s malice fully surged,
+As Anti-{{c|4|Alpha}}'s malice fully surged,
 It plunged {{c|58|Kolob}}'s bright future into night.
 
 The people, torn apart by inner war,
