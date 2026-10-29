@@ -3,18 +3,18 @@
 
 # Chapter 309: The Same Instant
 
-On the fourteenth of March, 1905, {{c|Albert Einstein}} turned twenty-six;
+On the fourteenth of March, 1905, {{c|4294|Albert Einstein}} turned twenty-six;
 He had been born in {{p|Ulm}} on that day in 1879. He was in {{p|Bern}},
 A {{x|Swiss}} citizen since February 1901; and the patent office, by its picks
 In June of 1902, had made him technical expert of the third class. His turn
 
 By day was judging other people's machines, in a register of inventions;
-In January it had been two years since he married {{c|Mileva Marić}}.
+In January it had been two years since he married {{c|4295|Mileva Marić}}.
 Three days after the birthday he sent the {{x|Annalen der Physik}} a paper, with a mention
 In its title of a heuristic point of view, on the making of light and its changes; in which,
 
-Where {{c|Max Planck}}, in 1900, had portioned the energy of the oscillators that take and give,
-{{c|Einstein}} portioned the light itself: a quantum of it carries an energy in proportion
+Where {{c|4296|Max Planck}}, in 1900, had portioned the energy of the oscillators that take and give,
+{{c|4297|Einstein}} portioned the light itself: a quantum of it carries an energy in proportion
 To the frequency. It was printed in June; and in May, in a letter, he let the word live:
 It was revolutionary. On the thirtieth of April, a dissertation, a portion
 
@@ -29,12 +29,12 @@ Physiologists had watched that wander and named it {{x|Brownian}}; he did not fi
 Was to show that molecules, if real, require it, and to set the measure, the notion
 
 Of a thing too small to see tested by a thing that is seen. It was printed the eighteenth of July.
-On the fourteenth of May his son, {{c|Hans Albert Einstein}}, turned one;
-On the eighteenth he wrote from {{p|Bern}} to {{c|Conrad Habicht}}, gone from the city, a reply
+On the fourteenth of May his son, {{c|4298|Hans Albert Einstein}}, turned one;
+On the eighteenth he wrote from {{p|Bern}} to {{c|4299|Conrad Habicht}}, gone from the city, a reply
 Promising four papers: the light, very revolutionary; the true size of the atoms; one
 
 On the visible random motion; and the fourth only a draft: an electrodynamics, a turning
-Of the teaching of space and time. He worked it out in talk with {{c|Michele Besso}}, at the office;
+Of the teaching of space and time. He worked it out in talk with {{c|4300|Michele Besso}}, at the office;
 He sent it, he said, five or six weeks after the idea came; the {{x|Annalen}}, learning
 Of it on the thirtieth of June, printed it the twenty-sixth of September: about thirty pages, and of this,
 
@@ -53,9 +53,9 @@ Made equal to the time back; and that agreement is "at the same time" for those 
 Another frame, in uniform motion, using the same rule, pairs other events; and about
 The length of a duration, they differ too. What is shared is the speed, and the laws' form, the same.
 
-The paper names no book and no predecessor; it ends by thanking {{c|Besso}}, friend and colleague,
+The paper names no book and no predecessor; it ends by thanking {{c|4301|Besso}}, friend and colleague,
 For his help and his suggestions: one living name. In the late summer he went
-With {{c|Mileva}} and the child to {{p|Serbia}}, to friends and to her family; and from that league
+With {{c|4302|Mileva}} and the child to {{p|Serbia}}, to friends and to her family; and from that league
 Of days, on the twenty-seventh of September, three pages to the {{x|Annalen}} were sent:
 
 Does the inertia of a body depend upon its energy content? Printed the twenty-first of November:
@@ -88,13 +88,13 @@ The dead and the living stand in their order, each in its place, each day a sign
 
 On the tenth of October, 1911, the soldiers rose at {{p|Wuchang}},
 Which is now part of {{p|Wuhan}}; and through the autumn the provinces left the court.
-{{c|Sun Yat-sen}} was abroad. On the twenty-ninth of December the assembly at {{p|Nanjing}}, among
+{{c|4303|Sun Yat-sen}} was abroad. On the twenty-ninth of December the assembly at {{p|Nanjing}}, among
 Its first acts, chose him provisional president; on the first of January, 1912, by report
 
 He took the office there, and they numbered the year as the first of the republic.
-The emperor was six: {{c|Puyi}}, born on the seventh of February, 1906.
+The emperor was six: {{c|4304|Puyi}}, born on the seventh of February, 1906.
 On the twelfth of February, 1912, an edict went out in his name, made public
-By {{c|Longyu}}, the empress dowager, widow of the emperor {{c|Guangxu}}; the child was his
+By {{c|4305|Longyu}}, the empress dowager, widow of the emperor {{c|4306|Guangxu}}; the child was his
 
 Nephew, not her son. Officials wrote the words; the decree that sent them was hers.
 It said the people's army had risen, the provinces had answered, and the living lay in the wreck;
@@ -103,41 +103,41 @@ Not to keep the honor of one surname against the many. It gave, at the people's 
 
 The right to rule to the whole country, and named the form a constitutional republic,
 And set beside the grant an old sentence: all under heaven is a public thing.
-It named {{c|Yuan Shikai}} prime minister by the {{x|Advisory Council}}'s election, and gave him, quick,
+It named {{c|4307|Yuan Shikai}} prime minister by the {{x|Advisory Council}}'s election, and gave him, quick,
 Full power to organize a provisional government and confer with the people's army, to bring
 
 Five peoples to stand as one republic: {{x|Manchu}}, {{x|Han}}, {{x|Mongol}}, {{x|Hui}}, {{x|Tibetan}},
 The house that was signing setting its own name first. On the fifteenth of February, chosen
-By the assembly at {{p|Nanjing}}, {{c|Yuan}} was provisional president; and on the tenth of March, then,
+By the assembly at {{p|Nanjing}}, {{c|4309|Yuan}} was provisional president; and on the tenth of March, then,
 He took the oath in {{p|Beijing}}, not in {{p|Nanjing}}: the capital stayed where he stood. And, as spoken,
 
 The child stayed in the palace: articles that went with the edict left him the title of emperor
 And a little court inside the {{p|Forbidden City}}; he was behind those walls on the fifth of November, 1924,
-When the soldiers of {{c|Feng Yuxiang}} put him out. A courtesy inside a palace is a courtesy; the door
+When the soldiers of {{c|4308|Feng Yuxiang}} put him out. A courtesy inside a palace is a courtesy; the door
 Of the winter rite was another thing. South of the city stands the {{p|Temple of Heaven}}, and more
 
 Than an altar: the {{x|Ming}} raised the precinct in the fifteenth century, and later emperors built the round altar again;
 The duty they claimed is older than the brick. The {{x|Qing}} rite was the emperor's, at the solstice in the winter,
-At the round altar, for {{c|Heaven}}. The February edict closed the house; and when
+At the round altar, for {{c|2162|Heaven}}. The February edict closed the house; and when
 The house closed, the rite was orphaned, and that was a loss: the state's own prayer, the centre
 
 Of the year, the one fire a whole country lit for the sky. On the twenty-third of December, 1914,
-The winter solstice, the third of the republic, {{c|Yuan}} came to the round altar as president,
+The winter solstice, the third of the republic, {{c|4309|Yuan}} came to the round altar as president,
 Changed into the old sacrificial dress, and the prayer was read: it named the day, the scene,
-Named him president, representing the people; said that {{c|Heaven}} looks down, and the charge is sent
+Named him president, representing the people; said that {{c|2162|Heaven}} looks down, and the charge is sent
 
-And gathered on the people. It did not call him {{c|Son of Heaven}}. What was read was burned,
+And gathered on the people. It did not call him {{c|4310|Son of Heaven}}. What was read was burned,
 As that rite burns its writing. He stood there to keep the rite of Heaven for {{p|China}};
 A missionary from {{p|Germany}} read the day as a stair toward a throne; and the stair was earned:
 He was the Chinese Napoleon, and this book is with him, as with Ungern-Sternberg, the diviner
 
-Of a throne in the steppe. The next winter {{c|Yuan}} accepted an imperial title,
+Of a throne in the steppe. The next winter {{c|4309|Yuan}} accepted an imperial title,
 On the twelfth of December, 1915; the reign-name was to be {{x|Hongxian}},
 To open on the first of January; he held no formal enthronement. The recital
 Ended on the twenty-second of March, 1916, when he put the title down; and then,
 
 On the sixth of June, he died. And no later president of the republic came to the mound;
-That fire was the last the state lit there for {{c|Heaven}}. The rite was a treasure, and it was lost,
+That fire was the last the state lit there for {{c|2162|Heaven}}. The rite was a treasure, and it was lost,
 Not a false claim ended but a true one orphaned: a state that stood on holy ground
 And spoke for its people to the sky, once a year, whatever the cost.
 
@@ -155,8 +155,8 @@ Of the solstice kept for a nation. The names are kept by families; the sky is ke
 # Chapter 311: The Appointed Hour
 
 On the twenty-eighth of June, 1914, in {{p|Sarajevo}}, in a car,
-{{c|Gavrilo Princip}} shot two people: {{c|Franz Ferdinand}}, the heir of {{p|Austria-Hungary}},
-And {{c|Sophie, Duchess of Hohenberg}}, his wife; she died with him. A pistol is not a war:
+{{c|4311|Gavrilo Princip}} shot two people: {{c|4312|Franz Ferdinand}}, the heir of {{p|Austria-Hungary}},
+And {{c|4313|Sophie, Duchess of Hohenberg}}, his wife; she died with him. A pistol is not a war:
 The war was dated afterward, by cabinets, in a month of signing and hurry.
 
 On the twenty-third of July, {{p|Austria-Hungary}} sent {{p|Serbia}} an ultimatum, and on the twenty-eighth declared;
@@ -164,7 +164,7 @@ On the first of August, {{p|Germany}} declared on {{p|Russia}}; on the third, on
 And {{p|Britain}}'s ultimatum, sent that afternoon, expired at eleven at night, with no answer. {{p|Britain}} declared,
 And the empire followed the declaration. On the twenty-third of August came the summons
 
-Of {{p|Japan}}: it declared war on {{p|Germany}}, in a rescript in the name of the emperor {{c|Yoshihito}},
+Of {{p|Japan}}: it declared war on {{p|Germany}}, in a rescript in the name of the emperor {{c|4314|Yoshihito}},
 Who said he had hoped to keep the peace of the {{p|East}}, and that he mourned his mother still.
 An ultimatum in the middle of the month had not been accepted. And so, true to
 The alliance it had kept with {{p|Britain}} twelve years, {{p|Japan}} went to fulfil
@@ -175,7 +175,7 @@ And the {{x|German}} garrison surrendered on the seventh of November. So the two
 Were in the same war, on the same side, allies, as they had promised, face to face.
 
 The killing in {{p|Europe}} did not pause for a register. Graves were dug where the line happened to lie,
-And the next fight went over them, and the mark was gone. {{c|Fabian Ware}} was forty-five,
+And the next fight went over them, and the mark was gone. {{c|4315|Fabian Ware}} was forty-five,
 Too old for the army; in September of 1914 he was in {{p|France}}, at the head, nearby
 The front, of a mobile unit of the {{x|British Red Cross}}; and, while the war was alive,
 
@@ -185,32 +185,32 @@ The dead were being made into a file while they were still being made. Then came
 The twenty-first of May, 1917: a royal charter, and the {{x|Imperial War Graves Commission}}, with its duties
 
 To the graves of the empire's dead in that war, and their care after, and the names of the missing,
-Not for a season: the charter said the care was to last. The {{c|Prince of Wales}} was president; {{c|Ware}}, vice-chairman.
-{{c|Frederic Kenyon}}, director of the {{x|British Museum}}, was asked, on the twentieth of November, to bring
+Not for a season: the charter said the care was to last. The {{c|3373|Prince of Wales}} was president; {{c|4316|Ware}}, vice-chairman.
+{{c|4317|Frederic Kenyon}}, director of the {{x|British Museum}}, was asked, on the twentieth of November, to bring
 The marking to a rule, and he put equality at its centre: the same stone, for the private and the man
 
 Of rank, and no private monument as the rule. He signed his report on the twenty-fourth of January, 1918;
 The commission had it in February; it was published in November. The architects named were
-{{c|Edwin Lutyens}}, {{c|Herbert Baker}} and {{c|Reginald Blomfield}}. The stones were mostly still unseen,
-But the rule was written. {{c|Rudyard Kipling}} gave the sentence for a body with no name, to stir
+{{c|4318|Edwin Lutyens}}, {{c|4319|Herbert Baker}} and {{c|4320|Reginald Blomfield}}. The stones were mostly still unseen,
+But the rule was written. {{c|4321|Rudyard Kipling}} gave the sentence for a body with no name, to stir
 
-Over the unknown: Known unto God. His own son, {{c|John Kipling}}, had been missing since the twenty-seventh
+Over the unknown: Known unto God. His own son, {{c|4322|John Kipling}}, had been missing since the twenty-seventh
 Of September, 1915, at {{p|Loos}}. It was the {{p|British Empire}}'s rule for its own dead, a decision, not a discovery;
 In May of 1920 the families' quarrel with it reached {{x|Parliament}}: many wanted, under heaven,
 Their own dead home, or a stone of their own choosing; the commission held to the ground, and the one form, the delivery
 
 Of permanence. And the stopping was also a decision, and timed. In a railway carriage in the forest of {{p|Compiègne}},
 Before dawn on the eleventh of November, 1918, the armistice was signed:
-{{c|Ferdinand Foch}} for the {{c|Allies}}, {{c|Matthias Erzberger}} at the head of the {{c|Germans}}; and the terms ran
+{{c|4323|Ferdinand Foch}} for the {{c|4324|Allies}}, {{c|4325|Matthias Erzberger}} at the head of the {{c|2669|Germans}}; and the terms ran
 That the operations on land and in the air would cease six hours after, by the clock; and the government, assigned
 
 To tell {{x|Parliament}}, said that day it was signed at five in the morning, and the war ceased at eleven.
 The hour was appointed. Until it, orders still ran on both sides of a line that had a clock and no peace yet.
-{{c|Princip}} fired; {{c|Sophie}} died with the heir; the declarations were signed on later days, and given,
+{{c|4326|Princip}} fired; {{c|4327|Sophie}} died with the heir; the declarations were signed on later days, and given,
 By other men; and the end was given too, by an hour, as a debt
 
 Is paid at an hour. The register had begun years before, because the ground was not keeping what it was given;
-{{c|Ware}}'s file is the refusal to let the next advance be the erasure: count the named; cut the same stone for the private and the rank;
+{{c|4316|Ware}}'s file is the refusal to let the next advance be the erasure: count the named; cut the same stone for the private and the rank;
 Keep the missing as missing, which is a kind of name. And keep the day both ways: the grief, for the millions driven
 Into the ground, and the joy, for the guns gone quiet at eleven, the bells, the crowds, the thanks.
 
@@ -231,24 +231,24 @@ The city was called {{p|Petrograd}}.
 By the calendar the country kept, it was the twenty-third of February.
 Women came out. On that calendar it was {{x|International Women's Day}}.
 They came for bread. The garrison came over.
-{{c|Nicholas II}} was not in the city.
+{{c|4328|Nicholas II}} was not in the city.
 
 On the fifteenth of March, at {{p|Pskov}},
 The country dated the day the second of March.
-He abdicated for himself and for his son {{c|Alexei}},
-And he named his brother {{c|Michael Alexandrovich}} to the crown.
-On the sixteenth, {{c|Michael}} refused it,
+He abdicated for himself and for his son {{c|4329|Alexei}},
+And he named his brother {{c|4330|Michael Alexandrovich}} to the crown.
+On the sixteenth, {{c|4331|Michael}} refused it,
 Unless a constituent assembly, still to be elected, should confer it.
 The crown was offered. It was not taken.
 The reign ended on that refusal.
 
 A provisional government sat in the capital.
-{{c|Georgy Lvov}} was at the head of it, and then {{c|Alexander Kerensky}}.
+{{c|4332|Georgy Lvov}} was at the head of it, and then {{c|4333|Alexander Kerensky}}.
 It kept the country in the war.
 The summer did not take the country out.
 The government did not last the autumn.
 
-On the sixteenth of April, {{c|Vladimir Lenin}} arrived in {{p|Petrograd}}.
+On the sixteenth of April, {{c|4334|Vladimir Lenin}} arrived in {{p|Petrograd}}.
 The country dated the day the third of April.
 {{p|Germany}} had let him cross in a sealed train.
 It wanted {{p|Russia}} out of the war.
@@ -261,18 +261,18 @@ An end to the war.
 On the seventh of November the party took the city.
 The country dated the night the twenty-fifth of October.
 The revolution kept October for its name.
-{{c|Kerensky}} had gone.
+{{c|4335|Kerensky}} had gone.
 The cruiser {{x|Aurora}}, lying in the river, fired a blank as a signal.
 The {{p|Winter Palace}} was taken.
 A congress of soviets sat at the {{p|Smolny Institute}}.
 It passed a decree on peace, and a decree on land.
-A council of people's commissars was named, with {{c|Lenin}} at its head.
+A council of people's commissars was named, with {{c|4336|Lenin}} at its head.
 That night is not the civil war.
 The civil war came after, and the dead of it were not few.
 
 In November the country elected a constituent assembly.
-The {{c|Socialist Revolutionaries}} returned the most deputies.
-The {{c|Bolsheviks}} did not.
+The {{c|4337|Socialist Revolutionaries}} returned the most deputies.
+The {{c|4338|Bolsheviks}} did not.
 On the eighteenth of January, 1918, the assembly met
 At the {{p|Tauride Palace}} in {{p|Petrograd}}.
 The country dated the day the fifth of January.
@@ -309,14 +309,14 @@ In March the government left {{p|Petrograd}} for {{p|Moscow}}.
 The people of the house were still alive.
 In the night of the sixteenth of July, crossing into the seventeenth,
 At the {{p|Ipatiev House}} in {{p|Yekaterinburg}}, they were killed.
-{{c|Nicholas II}}. {{c|Alexandra}}.
-{{c|Olga}}. {{c|Tatiana}}. {{c|Maria}}. {{c|Anastasia}}. {{c|Alexei}}.
+{{c|4328|Nicholas II}}. {{c|4339|Alexandra}}.
+{{c|4340|Olga}}. {{c|4341|Tatiana}}. {{c|4342|Maria}}. {{c|4343|Anastasia}}. {{c|4329|Alexei}}.
 Four who served them were killed in the same room:
-{{c|Eugene Botkin}}, {{c|Anna Demidova}}, {{c|Alexei Trupp}}, {{c|Ivan Kharitonov}}.
-{{c|Yakov Yurovsky}}, commandant of the house,
+{{c|4344|Eugene Botkin}}, {{c|4345|Anna Demidova}}, {{c|4346|Alexei Trupp}}, {{c|4347|Ivan Kharitonov}}.
+{{c|4348|Yakov Yurovsky}}, commandant of the house,
 Read an order of the {{p|Ural}} soviet.
 A written order from {{p|Moscow}}, dated before the shooting, has not been found.
-On the eighteenth, {{c|Yakov Sverdlov}} told the central executive committee
+On the eighteenth, {{c|4349|Yakov Sverdlov}} told the central executive committee
 That its presidium approved what the {{p|Urals}} had done.
 On the nineteenth the paper said the former emperor had been shot,
 And that his family had been taken to a safe place.
@@ -355,7 +355,7 @@ The prophet died at {{p|Medina}}.
 The revelation does not contain this statute.
 After the death the community gave its answers,
 And the answers were more than one.
-The house of {{c|Osman}} carried one of them.
+The house of {{c|3241|Osman}} carried one of them.
 The name was caliph, a successor.
 The law of 1924 is a state's answer to that name.
 It does not erase the question.
@@ -364,25 +364,25 @@ On the first of November, 1922, the same assembly
 Abolished the sultanate.
 It kept the caliphate, and kept it in the house,
 To be given to the one most fit in learning and character.
-It did not say that {{c|Mehmed VI}} had been elected to it.
+It did not say that {{c|4350|Mehmed VI}} had been elected to it.
 On the third of November, a Friday,
 He went out to the prayer under both names,
-{{c|Sultan}} and caliph.
+{{c|4351|Sultan}} and caliph.
 On the sixteenth the assembly decided to charge him
 With treason against the homeland.
 That night, the sixteenth into the seventeenth,
 He left {{p|Istanbul}} on a {{x|British}} warship.
 
 On the nineteenth of November the assembly elected
-{{c|Abdülmecid II}}.
-He painted. One of the canvases is {{c|Beethoven}} in the palace.
+{{c|4352|Abdülmecid II}}.
+He painted. One of the canvases is {{c|4353|Beethoven}} in the palace.
 The assembly did not give him the old title,
 Commander of the faithful.
-It gave him caliph of the {{c|Muslims}}.
+It gave him caliph of the {{c|2764|Muslims}}.
 He asked to be called also servant of the two sanctuaries.
 He did not hold {{p|Mecca}}. He did not hold {{p|Medina}}.
-He asked to wear the turban of {{c|Mehmed the Conqueror}}.
-{{c|Mustafa Kemal}} answered that a frock coat would do.
+He asked to wear the turban of {{c|4354|Mehmed the Conqueror}}.
+{{c|4355|Mustafa Kemal}} answered that a frock coat would do.
 Later he signed in the manner of a sultan's son.
 The signature was heard as the reign, trying to return.
 
@@ -398,7 +398,7 @@ And read the struggle as the one against ignorance.
 From the twenty-first to the twenty-seventh of December,
 A caliphate conference in {{p|India}} accepted him.
 On the third of January, 1923,
-{{x|Indian}} {{c|Muslims}} gave {{c|Mustafa Kemal}} a title:
+{{x|Indian}} {{c|2764|Muslims}} gave {{c|4355|Mustafa Kemal}} a title:
 Saviour of the caliphate.
 
 On the twenty-ninth of October the assembly proclaimed the republic
@@ -408,20 +408,20 @@ An office without the state sat in the old capital.
 The state without that office sat in {{p|Ankara}}.
 
 On the fifth of December the papers printed a letter
-To the prime minister, {{c|İsmet Pasha}},
-From {{c|Aga Khan}} and from {{c|Amir Ali}}.
+To the prime minister, {{c|4356|İsmet Pasha}},
+From {{c|3099|Aga Khan}} and from {{c|4357|Amir Ali}}.
 It asked that the office be kept,
 And that the caliph's standing be given back.
 On the night of the eighth the assembly, sitting in closed session,
 Decided to send an independence tribunal to {{p|Istanbul}}.
 
 On the third of March the bill was brought by
-{{c|Saffet Efendi}}, deputy for {{p|Urfa}}, and fifty-three with him.
-{{c|Seyyid Bey}}, the minister of justice,
+{{c|4358|Saffet Efendi}}, deputy for {{p|Urfa}}, and fifty-three with him.
+{{c|4359|Seyyid Bey}}, the minister of justice,
 Had taught the law of the religion, and had studied at {{p|al-Azhar}}.
 He told the chamber the caliphate was not a creed.
 It was a worldly question, among the public affairs of the people.
-{{c|Zeki Bey}}, the deputy from {{p|Gümüşhane}}, spoke against the closing.
+{{c|4360|Zeki Bey}}, the deputy from {{p|Gümüşhane}}, spoke against the closing.
 The article passed.
 The president approved the law the same day.
 It was numbered four hundred and thirty-one.
@@ -436,8 +436,8 @@ A bureau of the nation stood up in its hour.
 
 That night he was taken by car to {{p|Çatalca}}.
 The next evening he boarded the train.
-With him were his son {{c|Ömer Faruk}},
-His daughter {{c|Dürrüşehvar}},
+With him were his son {{c|4361|Ömer Faruk}},
+His daughter {{c|4362|Dürrüşehvar}},
 Two of the women of the house,
 And the tutor, the secretary, and the doctor.
 An envelope from the governor held two thousand pounds
@@ -453,8 +453,8 @@ Within the week {{p|Switzerland}} told him
 The {{x|Turkish}} government had objected,
 And that he would not be permitted the work.
 
-In that same March, {{c|Hussein ibn Ali}},
-{{c|King of the Hejaz}}, who held {{p|Mecca}},
+In that same March, {{c|4363|Hussein ibn Ali}},
+{{c|4364|King of the Hejaz}}, who held {{p|Mecca}},
 Was proclaimed caliph.
 The day of it is not one day in the records.
 The proclamation did not reopen the office {{p|Ankara}} had closed.
@@ -462,7 +462,7 @@ Holding a sanctuary is not the succession.
 
 He died in {{p|Paris}} on the twenty-third of August, 1944,
 While the city was being taken back.
-{{c|Dürrüşehvar}} came and was given a promise.
+{{c|4362|Dürrüşehvar}} came and was given a promise.
 The body was not brought.
 On the thirtieth of March, 1954, he was buried at al-Baqi,
 In {{p|Medina}}.
@@ -486,24 +486,24 @@ The question of who succeeds is older than this law.
 The community has given more than one answer.
 This answer is a vote and a signature, on a Monday in {{p|Ankara}}.
 The man they called saviour of the caliphate signed the paper that ended it.
-The man they called caliph of the {{c|Muslims}} died without the name.
+The man they called caliph of the {{c|2764|Muslims}} died without the name.
 Count the office closed on the day the law says.
 Keep the question. It was not in the statute.
 
 
 # Chapter 314: Finite Means
 
-On the twenty-third of June, 1912, {{c|Alan Turing}} was born in {{p|London}}.
+On the twenty-third of June, 1912, {{c|4193|Alan Turing}} was born in {{p|London}}.
 He was a fellow of {{p|King's College}}, in {{p|Cambridge}}.
 The work of this chapter was done there.
 
-{{c|David Hilbert}} had asked a question of method.
+{{c|4365|David Hilbert}} had asked a question of method.
 Is there a definite procedure which, given a statement of the logic,
 Answers yes or no: this statement has a proof, or it has none.
 The procedure would have to work for every statement.
 A cleverness that sometimes arrives is not the thing he asked for.
 
-{{c|Turing}} defined a number a machine can write.
+{{c|4195|Turing}} defined a number a machine can write.
 A computable number, he said, is a real number
 Whose decimals are calculable by finite means.
 The means are a table.
@@ -543,18 +543,18 @@ Both parts are of that year.
 A correction was printed in the next volume.
 He had not handed them a flawless text.
 
-{{c|Alonzo Church}}, at {{p|Princeton}},
+{{c|4366|Alonzo Church}}, at {{p|Princeton}},
 Had already set down another definition.
 Effective calculability, he called it.
 It is not a tape.
 In the spring of 1936 he had reached the same refusal:
 There is no general procedure for the decision problem.
-{{c|Max Newman}}, at {{p|Cambridge}}, had seen {{c|Church}}'s paper.
-{{c|Turing}} wrote an appendix.
+{{c|4367|Max Newman}}, at {{p|Cambridge}}, had seen {{c|4368|Church}}'s paper.
+{{c|4195|Turing}} wrote an appendix.
 The appendix says the two definitions meet.
 He did not pretend the limit was his private finding.
 
-What he showed is that {{c|Hilbert}}'s question has no such procedure.
+What he showed is that {{c|4369|Hilbert}}'s question has no such procedure.
 No machine takes every statement and returns the verdict.
 He also showed a nearer limit, about the machines themselves.
 Some of them go on writing digits.
@@ -569,11 +569,11 @@ The printed paper names him at the {{p|Graduate College}} there.
 The naming is the place he had reached.
 It is not the place where the table was made.
 
-In 1931 {{c|Kurt Gödel}} had shown
+In 1931 {{c|4370|Kurt Gödel}} had shown
 That a system strong enough to hold ordinary arithmetic
 Contains true sentences it cannot prove.
 That is a limit inside one set of rules.
-{{c|Turing}}'s limit is about the method itself.
+{{c|4195|Turing}}'s limit is about the method itself.
 It asks whether any method exists that will always answer.
 The two limits are not the same fact.
 Do not fold them into one darkness.
@@ -602,7 +602,7 @@ Do not pretend the sky was running the tape before you wrote the table.
 On the nineteenth of August, 1953, in {{p|Jerusalem}},
 The {{x|Knesset}} passed a law.
 It established an authority of remembrance
-And named the authority with two words from {{c|Isaiah}}.
+And named the authority with two words from {{c|2181|Isaiah}}.
 A hand and a name.
 The verse had been spoken to the childless:
 A memorial and a name, better than sons and daughters,
@@ -616,7 +616,7 @@ The charge was the statute.
 
 The law's first article is the six million
 Of the {{x|Jewish}} people murdered
-By the {{c|Nazis}} and those who helped them.
+By the {{c|4371|Nazis}} and those who helped them.
 It names also the households, the communities,
 The houses of prayer, the schools,
 The institutions of mercy,
@@ -632,15 +632,15 @@ Before any memorial had a statute.
 On the twenty-second of June, 1941,
 {{p|Germany}} invaded the {{p|Soviet Union}}.
 In the territory taken that summer,
-{{c|Jews}} were shot beside the towns.
+{{c|2500|Jews}} were shot beside the towns.
 On the twenty-ninth and the thirtieth of September,
 At {{p|Babyn Yar}}, the ravine at {{p|Kyiv}},
-The {{c|Jews}} who had been gathered there were shot.
+The {{c|2500|Jews}} who had been gathered there were shot.
 A ravine is a place and two days.
 It is not an explanation.
 
-On the thirty-first of July, {{c|Hermann Göring}}
-Charged {{c|Reinhard Heydrich}}
+On the thirty-first of July, {{c|4372|Hermann Göring}}
+Charged {{c|4373|Reinhard Heydrich}}
 To prepare what they called the final solution
 Of the {{x|Jewish}} question in {{p|Europe}}.
 An order to prepare is not the first grave.
@@ -648,8 +648,8 @@ The shootings were already underway.
 
 On the twentieth of January, 1942,
 At {{p|Wannsee}}, in {{p|Berlin}},
-{{c|Heydrich}} sat with the officials of the ministries.
-The minutes count eleven million {{c|Jews}} in {{p|Europe}}
+{{c|4374|Heydrich}} sat with the officials of the ministries.
+The minutes count eleven million {{c|2500|Jews}} in {{p|Europe}}
 As the people the plan named.
 That count is the plan's.
 It is not the number of the dead.
@@ -671,8 +671,8 @@ Do not give the end of the killing
 To the day an army arrived.
 
 The same law names a further charge.
-Those who were not {{c|Jews}},
-And who risked their lives to keep a {{c|Jew}} from being taken.
+Those who were not {{c|2500|Jews}},
+And who risked their lives to keep a {{c|2510|Jew}} from being taken.
 It calls them the righteous among the nations.
 In that year the law did not judge the cases.
 The judging came later, one person at a time,
@@ -721,7 +721,7 @@ And they are not finished here.
 On the sixth of August, 1945, the morning at {{p|Hiroshima}} was clear.
 A quarter past eight, the uranium bomb left the aircraft.
 The aircraft was the {{x|Enola Gay}}.
-{{c|Paul Tibbets}} was its pilot.
+{{c|4375|Paul Tibbets}} was its pilot.
 The bomb burst less than a minute later, over the city.
 The offices that kept the city's names were in the fire.
 Seventy thousand died that morning, and a hundred and forty thousand by the year's end.
@@ -745,7 +745,7 @@ The aim was {{p|Kokura}}, now part of {{p|Kitakyushu}}.
 Cloud and the smoke of the ground hid the arsenal.
 The aircraft passed over and did not drop.
 It went on to {{p|Nagasaki}}.
-{{c|Charles Sweeney}} was its pilot.
+{{c|4376|Charles Sweeney}} was its pilot.
 At two minutes past eleven the plutonium bomb burst
 Over the valley of {{p|Urakami}},
 Not on the point the orders had named.
@@ -765,7 +765,7 @@ A name for the living is not a name for the dead.
 Both are particular.
 
 At noon on the fifteenth of August
-The recorded voice of {{c|Hirohito}} was broadcast.
+The recorded voice of {{c|4377|Hirohito}} was broadcast.
 He told the nation to endure the unendurable,
 And to accept the notice sent in July.
 He did not speak the plain word a soldier uses for defeat.
@@ -809,7 +809,7 @@ A room of tubes was put to work.
 The room had been built for the path of a shell.
 The work of that December was a study brought from {{p|Los Alamos}},
 Of a further weapon, which had not been made.
-{{c|John von Neumann}} brought the study.
+{{c|4378|John von Neumann}} brought the study.
 The cities of August were already behind the calendar.
 Do not make the room into the bomb.
 The bomb had already been a city.
@@ -818,8 +818,8 @@ The contract was a table of firing.
 
 The contract was signed on the fifth of June, 1943.
 The {{x|Army}}'s laboratory at {{p|Aberdeen}} wanted the tables.
-{{c|Herman Goldstine}} brought the money and watched the work.
-{{c|John Mauchly}} and {{c|J. Presper Eckert}} designed the machine.
+{{c|4379|Herman Goldstine}} brought the money and watched the work.
+{{c|4380|John Mauchly}} and {{c|4381|J. Presper Eckert}} designed the machine.
 They called the work {{x|Project PX}}.
 A person who calculated for a living was called a computer.
 The machine took the name of that work.
@@ -840,22 +840,22 @@ This room is one such means.
 It is not that paper.
 
 Six of the computers were set to the machine.
-{{c|Kay McNulty}}.
-{{c|Jean Jennings}}.
-{{c|Betty Snyder}}.
-{{c|Marlyn Wescoff}}.
-{{c|Frances Bilas}}.
-{{c|Ruth Lichterman}}.
-{{c|Goldstine}} called them operators.
+{{c|4382|Kay McNulty}}.
+{{c|4383|Jean Jennings}}.
+{{c|4384|Betty Snyder}}.
+{{c|4385|Marlyn Wescoff}}.
+{{c|4386|Frances Bilas}}.
+{{c|4387|Ruth Lichterman}}.
+{{c|4388|Goldstine}} called them operators.
 The designation given the women was subprofessional.
 The men with the same mathematics were called professionals.
 
 On the evening of the fourteenth of February, 1946,
 They showed the machine.
-{{c|Betty Snyder}} and {{c|Jean Jennings}} had set the demonstration.
+{{c|4384|Betty Snyder}} and {{c|4383|Jean Jennings}} had set the demonstration.
 It was the path of a shell.
 A person at a desk would have taken weeks.
-{{c|Herman Goldstine}} and {{c|Adele Goldstine}} were credited for it.
+{{c|4379|Herman Goldstine}} and {{c|4389|Adele Goldstine}} were credited for it.
 The next day the machine was dedicated.
 The dinner did not invite the six.
 The press called the room a giant brain.
@@ -864,12 +864,12 @@ Tubes failed.
 The room stopped until the failed one was found.
 
 Do not call it the first.
-In {{p|England}} {{c|Tommy Flowers}} had already set a machine of tubes
+In {{p|England}} {{c|4390|Tommy Flowers}} had already set a machine of tubes
 To one purpose, and the purpose was kept secret.
-In {{p|Berlin}}, {{c|Konrad Zuse}} had already run a sequence
+In {{p|Berlin}}, {{c|4391|Konrad Zuse}} had already run a sequence
 On a machine of relays.
 The bombing destroyed that machine in 1943.
-In {{p|Ames}}, {{c|John Atanasoff}} and {{c|Clifford Berry}}
+In {{p|Ames}}, {{c|4392|John Atanasoff}} and {{c|4393|Clifford Berry}}
 Had started a machine of tubes.
 The work was stopped in 1942.
 This was the one they showed.
@@ -882,11 +882,11 @@ The move did not change the kind of work.
 A table for a gun is a table for a gun.
 
 On the sixteenth of December, 1947, at {{p|Murray Hill}},
-{{c|John Bardeen}} and {{c|Walter Brattain}} made a small thing work.
+{{c|4394|John Bardeen}} and {{c|4395|Walter Brattain}} made a small thing work.
 Two gold points touched a slab of germanium.
 A small change at one point steered a larger current at the other.
 They had not yet named it.
-{{c|William Shockley}} was the head of their group.
+{{c|4396|William Shockley}} was the head of their group.
 He was not the hand on the point that day.
 On the twenty-third they showed it to the laboratory.
 He called the demonstration a magnificent {{x|Christmas}} present.
@@ -895,7 +895,7 @@ A layer between two layers, which could be made to a pattern.
 That device was not the object in the December room.
 
 Before the announcement, the laboratory chose a name.
-{{c|John Pierce}} offered the word.
+{{c|4397|John Pierce}} offered the word.
 They called it a transistor.
 On the thirtieth of June, 1948, in {{p|New York}}, they told the press.
 The device of that December was delicate.
@@ -958,13 +958,13 @@ To the sects, the temples, and the churches.
 A shrine was not yet named in it.
 
 On the first of January, 1946,
-The newspapers printed a rescript of the emperor {{c|Hirohito}}.
+The newspapers printed a rescript of the emperor {{c|4377|Hirohito}}.
 Its title was the construction of a new {{p|Japan}}.
 What people called it was the declaration
 That he was human.
 It was not the recorded voice of the fifteenth of August.
 It began by taking up the five clauses
-Of the {{x|Charter Oath}} {{c|Meiji}} had proclaimed.
+Of the {{x|Charter Oath}} {{c|4398|Meiji}} had proclaimed.
 Then it said the tie between him and the people
 Had always stood on mutual trust and affection.
 It did not depend on mere legends and myths.
@@ -1059,16 +1059,16 @@ The date is the organization's own day.
 The articles of a right were still not in it.
 
 The commission that was to draft them met after that.
-{{c|Eleanor Roosevelt}} was its chair.
-{{c|John Humphrey}}, of the secretariat, brought the first full draft.
-{{c|René Cassin}} set an order on that draft.
+{{c|4399|Eleanor Roosevelt}} was its chair.
+{{c|4400|John Humphrey}}, of the secretariat, brought the first full draft.
+{{c|4401|René Cassin}} set an order on that draft.
 The text is not one hand.
-{{c|Peng Chun Chang}} asked that the first article hold conscience
+{{c|4402|Peng Chun Chang}} asked that the first article hold conscience
 As well as reason.
 He brought the {{x|Chinese}} word ren to the argument,
 The regard of one person for another.
 The {{x|English}} that stayed beside reason is conscience.
-{{c|Hansa Mehta}} required the article to say human beings.
+{{c|4403|Hansa Mehta}} required the article to say human beings.
 A draft had said men.
 The article does not say men.
 
@@ -1105,7 +1105,7 @@ Do not call the night unanimous.
 A vote with eight abstentions and two absent
 Is not a vote of every member.
 
-{{c|Andrei Vyshinsky}} spoke before the count.
+{{c|4404|Andrei Vyshinsky}} spoke before the count.
 He said a right had its meaning inside a state.
 He asked the assembly to wait until the next year.
 The motion to wait was lost, forty-five to six.
@@ -1128,7 +1128,7 @@ Hold the October day, when the charter had force and still no list.
 Hold the tenth of December, before midnight.
 Forty-eight for. None against. Eight withholding.
 The word in the first article is human beings.
-The word {{c|Chang}} asked for is in the sentence.
+The word {{c|4405|Chang}} asked for is in the sentence.
 A declaration can put a person on a page with every other person.
 It does not, by being adopted, keep the person alive.
 It does not close a shrine.
@@ -1176,7 +1176,7 @@ The declaration did not begin it.
 At midnight, the night of the fourteenth of May, 1948,
 The mandate ended.
 That afternoon, at four, in the museum in {{p|Tel Aviv}},
-{{c|David Ben-Gurion}} read a scroll.
+{{c|4406|David Ben-Gurion}} read a scroll.
 It declared a {{x|Jewish}} state, to be called {{p|Israel}},
 From the moment the mandate ended that night.
 It claimed a natural and historic right,
@@ -1187,7 +1187,7 @@ Of social and political rights
 To all its inhabitants, irrespective of religion, race, or sex.
 It says it will safeguard the holy places of all religions.
 It says it will be faithful to the principles of the {{x|Charter}}.
-The closing words put trust in the {{c|Rock of Israel}}.
+The closing words put trust in the {{c|4407|Rock of Israel}}.
 The words can be heard as God.
 The words can be heard as the people.
 The text does not say which.
@@ -1244,7 +1244,7 @@ Printed three papers on one substance.
 The substance is deoxyribose nucleic acid.
 The initials are DNA.
 The first paper is from {{p|Cambridge}}.
-{{c|James Watson}} and {{c|Francis Crick}} wrote it.
+{{c|4408|James Watson}} and {{c|4409|Francis Crick}} wrote it.
 They wish to suggest a structure.
 Two chains, wound together.
 The bases pair.
@@ -1261,11 +1261,11 @@ A suggestion is not a measurement they made.
 It begins on one page and ends on the next.
 
 The other two papers are from {{p|King's College}}, {{p|London}}.
-{{c|Maurice Wilkins}} and his colleagues signed one.
-{{c|Rosalind Franklin}} and {{c|Raymond Gosling}} signed the other.
+{{c|4410|Maurice Wilkins}} and his colleagues signed one.
+{{c|4411|Rosalind Franklin}} and {{c|4412|Raymond Gosling}} signed the other.
 Their photograph of the salt, taken in 1952,
 Is in that issue under their names.
-{{c|Franklin}} had measured a helix.
+{{c|4413|Franklin}} had measured a helix.
 She had the phosphates on the outside
 And the bases toward the middle.
 She had not signed the {{p|Cambridge}} page.
@@ -1274,8 +1274,8 @@ The claim that she missed it is a later telling.
 The journal of that April prints her name
 On the evidence.
 
-In 1968 {{c|Watson}} published a book.
-He wrote that {{c|Wilkins}} showed him the photograph
+In 1968 {{c|4414|Watson}} published a book.
+He wrote that {{c|4415|Wilkins}} showed him the photograph
 In the first months of 1953,
 And that his pulse raced.
 The book is his account, fifteen years on.
@@ -1284,36 +1284,36 @@ The book speaks of her in a way the April page does not.
 Take the page.
 
 Five weeks later, on the thirtieth of May,
-{{c|Watson}} and {{c|Crick}} published the genetical implications.
+{{c|4414|Watson}} and {{c|4416|Crick}} published the genetical implications.
 The April sentence had already said the pairing suggests a copy.
 
 This was not the discovery of the substance.
 The substance had a name long before.
-In 1944 {{c|Oswald Avery}}, with {{c|Colin MacLeod}}
-And {{c|Maclyn McCarty}}, had shown that a substance
+In 1944 {{c|4417|Oswald Avery}}, with {{c|4418|Colin MacLeod}}
+And {{c|4419|Maclyn McCarty}}, had shown that a substance
 Which changed what a bacterium would be
 Was this acid, and not a protein.
 The year before the April papers,
-{{c|Alfred Hershey}} and {{c|Martha Chase}}
+{{c|4420|Alfred Hershey}} and {{c|4421|Martha Chase}}
 Had argued that what a virus puts into a bacterium,
 The part that carries the change, is the acid
 And not the coat.
 The April page is a structure.
 It is not the first news that the acid can carry a heredity.
 
-{{c|Erwin Chargaff}} had weighed the bases.
+{{c|4422|Erwin Chargaff}} had weighed the bases.
 Adenine matched thymine.
 Guanine matched cytosine.
 The model uses that match.
 He did not sign the April papers.
-Earlier in 1953 {{c|Linus Pauling}} had published a structure
+Earlier in 1953 {{c|4423|Linus Pauling}} had published a structure
 Of three chains.
 It did not hold.
 The {{p|Cambridge}} page says its own structure is another.
 
 In 1962 the prize in physiology or medicine
-Went to {{c|Watson}}, to {{c|Crick}}, and to {{c|Wilkins}}.
-{{c|Franklin}} had died in 1958.
+Went to {{c|4414|Watson}}, to {{c|4416|Crick}}, and to {{c|4415|Wilkins}}.
+{{c|4413|Franklin}} had died in 1958.
 The prize is not given to the dead.
 Her name is on the April page.
 The prize's list is not that page.
@@ -1340,7 +1340,7 @@ The substance was already known to carry a change.
 The new sentence is the shape, and the copy the shape allows.
 A shape is not a commandment.
 The dead of the prize's year are not this chapter.
-{{c|Franklin}}'s measurement is.
+{{c|4413|Franklin}}'s measurement is.
 
 
 # Chapter 322: The Published Frequency
@@ -1384,7 +1384,7 @@ Do not make the orbit into a proof
 That a weapon had been justified.
 Do not make the sphere into the weapon.
 
-{{c|Sergei Korolev}} directed the work.
+{{c|4424|Sergei Korolev}} directed the work.
 The state did not publish his name.
 The frequency was published.
 Hold those two acts.
@@ -1410,10 +1410,10 @@ It burned. It was not recovered.
 
 On the third of November a second satellite
 Left the same pad.
-It carried a dog. Her name was {{c|Laika}}.
+It carried a dog. Her name was {{c|4425|Laika}}.
 There was no way prepared to bring her down.
 The report said she lived for days.
-In 2002 {{c|Dimitri Malashenkov}} said the heat
+In 2002 {{c|4426|Dimitri Malashenkov}} said the heat
 Had killed her within hours,
 By the fourth circuit.
 Do not repeat the report that she lived for days.
@@ -1438,7 +1438,7 @@ The formal trousers.
 At seven a girl took the wide sash.
 The visit to a shrine, as households keep it,
 Spread in the {{x|Meiji}} years.
-The tradition says the shogun {{c|Tokugawa Tsunayoshi}} fixed the fifteenth for his son,
+The tradition says the shogun {{c|4427|Tokugawa Tsunayoshi}} fixed the fifteenth for his son,
 And this book keeps the tradition.
 
 The child is taken to a shrine.
@@ -1479,8 +1479,8 @@ The rite is still kept.
 # Chapter 323: The Mother Tongue
 
 On the eleventh of October, 1962,
-In the basilica of {{c|Saint Peter}}, in {{p|Vatican City}},
-{{c|John XXIII}} opened a council.
+In the basilica of {{c|4428|Saint Peter}}, in {{p|Vatican City}},
+{{c|4429|John XXIII}} opened a council.
 He had said, on the twenty-fifth of January, 1959,
 In {{p|Rome}}, to the cardinals gathered in the house
 Beside the basilica of {{p|Saint Paul Outside the Walls}},
@@ -1496,7 +1496,7 @@ He died on the third of June, 1963, in {{p|Rome}}.
 The council was between its sessions.
 He did not promulgate the constitution on the rite.
 
-{{c|Paul VI}} was elected on the twenty-first of June.
+{{c|4430|Paul VI}} was elected on the twenty-first of June.
 The second session ran from the twenty-ninth of September
 To the fourth of December, 1963.
 On that day he promulgated the constitution
@@ -1542,10 +1542,10 @@ The {{x|Kyrie}} of the {{x|Mass}} was already {{x|Greek}}.
 
 On the twenty-sixth of September, 1964,
 An instruction carried the constitution toward the Sunday.
-The {{x|Consilium}} prepared it, by mandate of {{c|Paul VI}}.
-{{c|Giacomo Lercaro}} presented it.
-{{c|Paul VI}} confirmed it in an audience
-Given to {{c|Arcadio Maria Larraona}},
+The {{x|Consilium}} prepared it, by mandate of {{c|4430|Paul VI}}.
+{{c|4431|Giacomo Lercaro}} presented it.
+{{c|4430|Paul VI}} confirmed it in an audience
+Given to {{c|4432|Arcadio Maria Larraona}},
 Prefect of the {{x|Congregation of Rites}},
 And ordered it observed from the seventh of March, 1965,
 The first Sunday of {{x|Lent}}.
@@ -1737,9 +1737,9 @@ On the first of June the same newspaper had printed four names:
 Old ideas, old culture, old customs, old habits.
 Which object was old was not written down.
 On the eighteenth of August, at the gate in {{p|Beijing}},
-{{c|Mao Zedong}} received the {{c|Red Guards}}.
+{{c|4433|Mao Zedong}} received the {{c|4434|Red Guards}}.
 He wore an army coat.
-{{c|Lin Biao}} told the crowd to smash the four.
+{{c|4435|Lin Biao}} told the crowd to smash the four.
 A million filled the square.
 In the days after, the breaking began in the city.
 Do not say the four names were a law with edges.
@@ -1753,17 +1753,17 @@ Some objects were hidden.
 A hidden book does not put a hall back.
 A hall still standing does not close a grave.
 A person is not the label the month set on them.
-The {{c|Red Guards}} were students.
+The {{c|4434|Red Guards}} were students.
 They were not the whole of the country.
 
 In {{p|Qufu}} the temple, the mansion, and the cemetery
-Of {{c|Confucius}} stood under a protection of the state.
+Of {{c|1958|Confucius}} stood under a protection of the state.
 In August the hands charged with the three places
 Did not give them up.
 Early in November a group came from {{p|Beijing}},
-Led by {{c|Tan Houlan}}, of {{p|Beijing Normal University}}.
+Led by {{c|4436|Tan Houlan}}, of {{p|Beijing Normal University}}.
 On the twelfth, later accounts give the word
-From {{c|Chen Boda}} and {{c|Qi Benyu}} as three charges.
+From {{c|4437|Chen Boda}} and {{c|4438|Qi Benyu}} as three charges.
 Do not destroy the mansion, the temple, or the cemetery.
 Leave them as a museum.
 The grave may be dug.
@@ -1772,7 +1772,7 @@ Those were the three charges.
 On the fifteenth the stones that marked the protection
 Were broken at a rally.
 In the last days of November the grave was dug.
-The diggers broke open the tombs of the house of {{c|Kong}}.
+The diggers broke open the tombs of the house of {{c|4439|Kong}}.
 Books were burned by the cartload,
 And six thousand relics were destroyed.
 Some things were hidden by the people of the place.
@@ -1793,12 +1793,12 @@ The year opened the grave.
 The year did not take every book.
 Neither sentence cancels the other.
 
-{{c|Mao Zedong}} died on the ninth of September, 1976,
+{{c|4433|Mao Zedong}} died on the ninth of September, 1976,
 In {{p|Beijing}}.
-On the sixth of October {{c|Hua Guofeng}} had four people arrested:
-{{c|Jiang Qing}}, {{c|Zhang Chunqiao}},
-{{c|Yao Wenyuan}}, {{c|Wang Hongwen}}.
-The name given afterward is the {{c|Gang of Four}}.
+On the sixth of October {{c|4440|Hua Guofeng}} had four people arrested:
+{{c|4441|Jiang Qing}}, {{c|4442|Zhang Chunqiao}},
+{{c|4443|Yao Wenyuan}}, {{c|4444|Wang Hongwen}}.
+The name given afterward is the {{c|4445|Gang of Four}}.
 The arrest is the end the later telling uses.
 It did not fill the grave.
 A judgment written in a later year
@@ -1819,14 +1819,14 @@ The year struck at both.
 # Chapter 326: The Eagle and the Two Letters
 
 On the sixteenth of July, 1969,
-{{c|Neil Armstrong}}, {{c|Buzz Aldrin}}, and {{c|Michael Collins}}
+{{c|4446|Neil Armstrong}}, {{c|4447|Buzz Aldrin}}, and {{c|4448|Michael Collins}}
 Left the cape then called {{p|Cape Kennedy}}.
 The cape is now {{p|Cape Canaveral}}.
 The center is the {{p|Kennedy Space Center}}.
 Do not collapse the names.
 A person had already left the {{p|Earth}} in the spring of 1961.
 On the twenty-fifth of May, 1961,
-{{c|John Kennedy}} had asked for a landing and a return
+{{c|4449|John Kennedy}} had asked for a landing and a return
 Before the decade was out.
 
 On the twentieth of July the lander, called the {{x|Eagle}},
@@ -1836,9 +1836,9 @@ In the evening.
 In the east of the {{p|United States}}
 It was seventeen minutes past four in the afternoon.
 The landing is the twentieth on both clocks.
-{{c|Neil Armstrong}} said: {{p|Houston}}, {{p|Tranquility Base}} here.
+{{c|4446|Neil Armstrong}} said: {{p|Houston}}, {{p|Tranquility Base}} here.
 The {{x|Eagle}} has landed.
-{{c|Michael Collins}} stayed in the ship called {{x|Columbia}},
+{{c|4448|Michael Collins}} stayed in the ship called {{x|Columbia}},
 In orbit, so the two could come back.
 He did not walk.
 Do not say three men walked.
@@ -1855,7 +1855,7 @@ He spoke of a small step, and of a giant leap for mankind.
 He meant one small step for a man,
 And the little word was lost in the static, and the meaning was not.
 
-Before the step, {{c|Buzz Aldrin}} asked, on the open line,
+Before the step, {{c|4447|Buzz Aldrin}} asked, on the open line,
 For a pause, and for each listener to give thanks
 In that listener's own way.
 In the pause he took bread and wine he had brought.
@@ -1895,8 +1895,8 @@ The ship that took them aboard was the {{x|Hornet}}.
 On the twenty-ninth of October, at half past ten at night,
 In {{p|Los Angeles}}, a line was opened
 To {{p|Menlo Park}}.
-{{c|Charley Kline}} typed, in the laboratory of {{c|Leonard Kleinrock}}.
-{{c|Bill Duvall}} was at the far end,
+{{c|4450|Charley Kline}} typed, in the laboratory of {{c|4451|Leonard Kleinrock}}.
+{{c|4452|Bill Duvall}} was at the far end,
 At the {{x|Stanford Research Institute}}.
 The word they meant to send was login.
 The first try carried L, and O, and stopped.
@@ -1930,14 +1930,14 @@ Was the twenty-seventh of November.
 None of the three is the others' day.
 
 A harvest was eaten in 1621, at {{p|Plymouth}},
-By the {{c|English}} there and by the {{c|Wampanoag}}.
+By the {{c|3244|English}} there and by the {{c|3547|Wampanoag}}.
 That table was not a national holiday.
-In 1863 {{c|Abraham Lincoln}} proclaimed a national day,
+In 1863 {{c|4453|Abraham Lincoln}} proclaimed a national day,
 The last Thursday of November, in a war.
 In 1941 the law fixed the fourth Thursday.
 Do not say the nation began at the table in 1621.
 Do not say the table was nothing.
-The thanks {{c|Buzz Aldrin}} asked for, in July,
+The thanks {{c|4447|Buzz Aldrin}} asked for, in July,
 Was not this Thursday.
 A thanks is not a landing.
 A landing is not a thanks.
@@ -1968,7 +1968,7 @@ Do not make the two meetings one meeting.
 They were not a church that day.
 The poems were already old. The meeting was new.
 
-{{c|Sveinbjörn Beinteinsson}} was a sheep farmer
+{{c|4454|Sveinbjörn Beinteinsson}} was a sheep farmer
 In {{p|Borgarfjörður}}, and a singer of rímur.
 Soon after, they gave him the title allsherjargoði,
 The word that had named the goði
@@ -1978,7 +1978,7 @@ Do not say a medieval law had been waiting
 On a farm.
 
 In the first letter to the ministry
-They named the old religion of the {{c|Icelanders}},
+They named the old religion of the {{c|4455|Icelanders}},
 Law until the year 1000, so far as it fitted
 A new time and changed conditions.
 A paper that spring called them
@@ -1997,18 +1997,18 @@ Do not say the gods ended in a day,
 Or that a public sacrifice had never stopped.
 
 Shortly before {{x|Christmas}}, 1972,
-{{c|Sveinbjörn Beinteinsson}} and {{c|Þorsteinn Guðjónsson}}
-Went to {{c|Ólafur Jóhannesson}},
+{{c|4454|Sveinbjörn Beinteinsson}} and {{c|4456|Þorsteinn Guðjónsson}}
+Went to {{c|4457|Ólafur Jóhannesson}},
 Minister of justice and of ecclesiastical affairs.
 He thought the request was a joke.
 They said they were serious, and he asked for papers.
-By {{c|Sveinbjörn}}'s account, after they had left,
+By {{c|4458|Sveinbjörn}}'s account, after they had left,
 The lights went out in the center of {{p|Reykjavík}}.
 On the second of January a paper made a joke of it,
-And gave the thunder to {{c|Þór}}.
+And gave the thunder to {{c|4459|Þór}}.
 The letter was not that night. A storm is not a signature.
 
-{{c|Sigurbjörn Einarsson}}, bishop of {{p|Iceland}},
+{{c|4460|Sigurbjörn Einarsson}}, bishop of {{p|Iceland}},
 Wrote against it. The opinion is dated
 The second of January, 1973.
 He read the right to found organizations to serve god
@@ -2053,9 +2053,9 @@ A name on a list draws a share.
 A share is not a belief.
 Do not say {{p|Iceland}} changed its church.
 
-Later that year {{c|Halldór Blöndal}}
-And {{c|Magnús Jónsson}} asked the minister why.
-{{c|Magnús Jónsson}} said the freedom was for one god,
+Later that year {{c|4461|Halldór Blöndal}}
+And {{c|4462|Magnús Jónsson}} asked the minister why.
+{{c|4462|Magnús Jónsson}} said the freedom was for one god,
 And that a polytheism, and idol worship,
 Were not a lawful recognition.
 The minister answered with the freedom of association
@@ -2065,7 +2065,7 @@ It reached far enough: the old gods were recognized.
 
 On the fifth of August, at {{p|Dragháls}},
 They held a blót in the rain, under a plaster figure
-Of {{c|Þór}} that {{c|Jörmundur Ingi Hansen}} had made.
+Of {{c|4459|Þór}} that {{c|4463|Jörmundur Ingi Hansen}} had made.
 A May headline had said nine hundred years.
 The years since the assembly's law are not nine hundred.
 The August telling called the day the first public
@@ -2109,10 +2109,10 @@ And it cannot make those years nothing.
 From the eighteenth to the twenty-second of December, 1978,
 The {{x|Central Committee}} sat in {{p|Beijing}}.
 It was the third session of the eleventh committee.
-{{c|Hua Guofeng}} presided.
+{{c|4440|Hua Guofeng}} presided.
 He was the chairman.
 The session did not remove him.
-{{c|Deng Xiaoping}} was a vice-chairman.
+{{c|4464|Deng Xiaoping}} was a vice-chairman.
 On the thirteenth, five days before the session opened,
 At the close of the working conference, he spoke.
 The speech asks for the mind to be unbound,
@@ -2122,7 +2122,7 @@ The speech is not the communique.
 
 The communique was adopted on the twenty-second.
 It said the large movement to expose and criticize
-{{c|Lin Biao}} and the gang of four
+{{c|4435|Lin Biao}} and the gang of four
 Had in the main been completed,
 And it said victoriously.
 The word is the communique's.
@@ -2133,7 +2133,7 @@ As of 1979.
 A shift of the work is not a resignation of the party.
 The session was not a vote of the country.
 Do not say the chairman's title passed that week.
-A later telling calls {{c|Deng Xiaoping}} the leader from this session.
+A later telling calls {{c|4464|Deng Xiaoping}} the leader from this session.
 The titles in the communique are the titles of that week.
 A later change of chairman is not this December.
 
@@ -2143,9 +2143,9 @@ The two states announced
 That relations would begin on the first of January.
 Do not collapse the two dates of the announcement.
 On the twenty-ninth of January, 1979,
-{{c|Deng Xiaoping}} was received in {{p|Washington}},
+{{c|4464|Deng Xiaoping}} was received in {{p|Washington}},
 As vice premier.
-{{c|Jimmy Carter}} welcomed him.
+{{c|4465|Jimmy Carter}} welcomed him.
 On the thirty-first they signed agreements
 On science, and on culture.
 A communique dated the official visit through the fourth of February.
@@ -2158,10 +2158,10 @@ The work was turned toward modernization.
 The chairman stayed.
 
 On the sixteenth of January, 1979,
-{{c|Mohammad Reza Pahlavi}} left {{p|Tehran}}.
+{{c|4466|Mohammad Reza Pahlavi}} left {{p|Tehran}}.
 No abdication was signed.
-{{c|Shapour Bakhtiar}} remained the prime minister.
-On the first of February {{c|Ruhollah Khomeini}} landed
+{{c|4467|Shapour Bakhtiar}} remained the prime minister.
+On the first of February {{c|4468|Ruhollah Khomeini}} landed
 At the airport in the city,
 At half past nine in the morning, by that city's clock.
 The aircraft was a chartered plane of {{x|Air France}}.
@@ -2298,8 +2298,8 @@ The harvest before a broken shrine, in this chapter,
 Is the autumn of 1945.
 Forty-five years later the first harvest rite of a reign
 Was done again.
-{{c|Hirohito}} died on the seventh of January, 1989.
-{{c|Akihito}} was emperor from that day.
+{{c|4377|Hirohito}} died on the seventh of January, 1989.
+{{c|4469|Akihito}} was emperor from that day.
 The era is called {{x|Heisei}}.
 The night rite did not make him emperor.
 
@@ -2432,7 +2432,7 @@ And the genetics they had already funded.
 Do not say the project was a weapon, or an apology.
 
 In {{p|Santa Cruz}}, in 1985,
-{{c|Robert Sinsheimer}}, the chancellor, convened a workshop.
+{{c|4470|Robert Sinsheimer}}, the chancellor, convened a workshop.
 It began on the evening of the twenty-fourth of May,
 A Friday, and ended on the morning of the twenty-sixth.
 A gift of thirty-six million dollars,
@@ -2449,9 +2449,9 @@ In 1988 the {{x|National Research Council}} recommended the effort,
 And that the money be new,
 Not taken from the work already funded.
 In the fall the two agencies signed a memorandum to coordinate.
-{{c|James Wyngaarden}}, director of the institutes, signed.
+{{c|4471|James Wyngaarden}}, director of the institutes, signed.
 The notice gives the fall, and not the day.
-In the same autumn {{c|James Watson}}
+In the same autumn {{c|4408|James Watson}}
 Was appointed to the genome office.
 {{x|The Times}} of the fourth of October, a Tuesday,
 Reported the appointment effective the previous Saturday,
@@ -2513,21 +2513,21 @@ The night a party took the city is another chapter.
 A treaty is not that night.
 
 In {{p|Foros}}, on the eighteenth of August,
-{{c|Mikhail Gorbachev}} was asked to declare an emergency.
+{{c|4472|Mikhail Gorbachev}} was asked to declare an emergency.
 He refused.
 On the nineteenth a committee announced an emergency,
 For six months, beginning at four in the morning, {{p|Moscow}} time.
 It said he could not carry out his duties, for his health,
-And that the office passed to {{c|Gennady Yanayev}}.
+And that the office passed to {{c|4473|Gennady Yanayev}}.
 The television played a ballet.
 A ballet is not a government.
 Armor came into {{p|Moscow}}.
-{{c|Boris Yeltsin}} spoke from a tank,
+{{c|4474|Boris Yeltsin}} spoke from a tank,
 Outside the Russian parliament's house.
 On the night between the twentieth and the twenty-first,
 In the tunnel at the {{p|Garden Ring}},
 Three men were killed.
-{{c|Dmitry Komar}}. {{c|Ilya Krichevsky}}. {{c|Vladimir Usov}}.
+{{c|4475|Dmitry Komar}}. {{c|4476|Ilya Krichevsky}}. {{c|4477|Vladimir Usov}}.
 They died for the free country, and their names are kept.
 On the twenty-first the troops were ordered out of the city.
 The six months were not kept.
@@ -2543,7 +2543,7 @@ On the first of December, {{p|Ukraine}} voted
 On the act its parliament had passed on the twenty-fourth of August.
 The question was whether the voter supported that act.
 Of the ballots, more than ninety in a hundred were yes.
-{{c|Leonid Kravchuk}} was elected the same day.
+{{c|4478|Leonid Kravchuk}} was elected the same day.
 A republic's vote is not a vote of the whole union.
 
 On the eighth of December, at {{p|Viskuli}},
@@ -2551,8 +2551,8 @@ In the forest, and not in the city,
 Three states signed.
 {{p|Belarus}}. The {{p|Russian Federation}}, and the agreement
 Still writes the older initials beside that name. {{p|Ukraine}}.
-{{c|Stanislav Shushkevich}} signed for {{p|Belarus}},
-With {{c|Boris Yeltsin}} and with {{c|Leonid Kravchuk}}.
+{{c|4479|Stanislav Shushkevich}} signed for {{p|Belarus}},
+With {{c|4474|Boris Yeltsin}} and with {{c|4478|Leonid Kravchuk}}.
 Others signed beside them.
 The parties the agreement names are the three states.
 They called themselves the states that had made the union,
@@ -2647,8 +2647,8 @@ The year is not that year.
 A posting is not a city.
 
 In March 1989, at the laboratory by {{p|Geneva}},
-{{c|Tim Berners-Lee}} gave his supervisor a proposal.
-{{c|Mike Sendall}} wrote on it.
+{{c|4480|Tim Berners-Lee}} gave his supervisor a proposal.
+{{c|4481|Mike Sendall}} wrote on it.
 The words were vague but exciting.
 The proposal asked for a linked system,
 General, and able to be carried,
@@ -2661,7 +2661,7 @@ And the links in it did not leave the machine.
 A link that cannot leave is not this notice.
 
 In May 1990 he circulated the proposal again.
-In October he and {{c|Robert Cailliau}} reformulated it.
+In October he and {{c|4482|Robert Cailliau}} reformulated it.
 He chose a name.
 The names he set aside were {{x|Information Mesh}},
 The {{x|Mine of Information}}, and the {{x|Information Mine}}.
@@ -2688,7 +2688,7 @@ The page was a page about the project.
 He wrote that by {{x|Christmas}} the browsers could be shown.
 {{x|Christmas}} is not the twentieth.
 Do not make them one morning.
-{{c|Nicola Pellow}}, a student, had begun in November
+{{c|4483|Nicola Pellow}}, a student, had begun in November
 A browser for a line at a time.
 His own program ran on his machine.
 Hers ran where his did not.
@@ -2730,8 +2730,8 @@ To the twelfth of December, a Thursday.
 This chapter keeps the laboratory's day.
 On the thirteenth he wrote that an experimental server
 Was there for a database of physics papers,
-And he named {{c|Terry Hung}}, {{c|Paul Kunz}},
-And {{c|Louise Addis}}.
+And he named {{c|4484|Terry Hung}}, {{c|4485|Paul Kunz}},
+And {{c|4486|Louise Addis}}.
 The town is one this book has already named,
 For two letters, in another October.
 The laboratory is not that room.
@@ -2786,7 +2786,7 @@ A Monday.
 The feast is not the trains.
 The thanks for labor is not the trains.
 
-In February 1984 {{c|Chizuo Matsumoto}}
+In February 1984 {{c|4487|Chizuo Matsumoto}}
 Began a circle.
 He called it {{x|Aum Shinsen no Kai}}.
 It was a practice of yoga, in {{p|Tokyo}}.
@@ -2795,7 +2795,7 @@ The {{x|English}} often says {{x|Supreme Truth}}.
 The Japanese name is a teaching of truth, and a syllable
 A tradition already chanted.
 Do not treat the {{x|English}} as those words.
-He set beside the syllable the god {{c|Shiva}},
+He set beside the syllable the god {{c|1340|Shiva}},
 Whom another tradition already served,
 And an end a Christian book had already named.
 A joining of what was already there is not yet a crime.
@@ -2809,9 +2809,9 @@ A legal person is not the man,
 And it is not the people who would die.
 
 In November 1989, in {{p|Yokohama}},
-Members of the group killed {{c|Tsutsumi Sakamoto}},
-A lawyer, and his wife {{c|Satoko Sakamoto}},
-And their son {{c|Tatsuhiko Sakamoto}}, a year old.
+Members of the group killed {{c|4488|Tsutsumi Sakamoto}},
+A lawyer, and his wife {{c|4489|Satoko Sakamoto}},
+And their son {{c|4490|Tatsuhiko Sakamoto}}, a year old.
 The bodies were not found until September of the year
 The trains were attacked.
 A child is not a doctrine.
@@ -2838,7 +2838,7 @@ Do not make one station the whole of the harm.
 They punctured bags of liquid sarin with the sharpened tips of umbrellas.
 Fourteen died, the last of them in twenty-twenty, after twenty-five years in a bed.
 About six thousand were injured.
-The {{c|Sakamoto}} family and the dead of the trains are kept by name in this calendar.
+The {{c|4491|Sakamoto}} family and the dead of the trains are kept by name in this calendar.
 
 Two days later the police raided
 The offices in the city and the compound
@@ -2849,7 +2849,7 @@ In a hidden room of the sixth building,
 They found him.
 The hour the reports give is a quarter to ten.
 He was arrested on the charge of the murders.
-In the group he was called {{c|Shoko Asahara}}.
+In the group he was called {{c|4492|Shoko Asahara}}.
 The two names are one man.
 An arrest is not a sentence.
 The sentence of a later court is not this Tuesday.
@@ -2881,7 +2881,7 @@ From the register gave the dead back their morning.
 
 # Chapter 334: The White Face
 
-Today is the feast of {{c|Dolly}}, born the fifth of July, nineteen ninety-six, a holy day of the faith.
+Today is the feast of {{c|4493|Dolly}}, born the fifth of July, nineteen ninety-six, a holy day of the faith.
 
 An earlier page said a pairing suggests a possible copy.
 That sentence was about a chain copying itself.
@@ -2938,7 +2938,7 @@ One pregnancy. One live lamb.
 The other lambs in the same paper
 Came from a fetus, and from an embryo.
 They are not her.
-In 1995 two lambs, {{c|Megan}} and {{c|Morag}},
+In 1995 two lambs, {{c|4494|Megan}} and {{c|4495|Morag}},
 Had been born from cultured cells of an embryo.
 The cells had begun to specialize.
 They were not a cell from a body already grown.
@@ -2947,15 +2947,15 @@ Do not say she was the first copy.
 Say she was the first mammal the paper could claim
 From a tissue of an adult.
 
-{{c|Ian Wilmut}}'s name is first on the paper.
-{{c|Keith Campbell}} is on it.
+{{c|4496|Ian Wilmut}}'s name is first on the paper.
+{{c|4497|Keith Campbell}} is on it.
 The fusion was not one hand.
 The institute did the work with a company
 At the same village.
 A list of names is not a womb.
 
-They named her {{c|Dolly}},
-For the singer {{c|Dolly Parton}},
+They named her {{c|4493|Dolly}},
+For the singer {{c|4498|Dolly Parton}},
 Because the cell was from the gland.
 The name is theirs, for that gland.
 The name is not the result.
@@ -3036,7 +3036,7 @@ A search through positions is not a soul.
 It is also not nothing.
 
 In {{p|Philadelphia}}, in February 1996,
-{{c|Garry Kasparov}} played a match
+{{c|4499|Garry Kasparov}} played a match
 Against a machine its makers called {{x|Deep Blue}}.
 The papers called him the world champion.
 The match did not offer the title.
@@ -3059,7 +3059,7 @@ No machine had beaten the best of the world until this February.
 On the tenth of February, a Saturday,
 The machine won the first game.
 He resigned before his thirty-seventh move.
-{{c|Feng-Hsiung Hsu}} entered the man's moves
+{{c|4500|Feng-Hsiung Hsu}} entered the man's moves
 On a terminal, and carried out the machine's answers.
 The report calls him the chief designer.
 The hand was not the search.
@@ -3127,15 +3127,15 @@ Asked if he was charging a cheat,
 He said the match had gone beyond his understanding,
 And that there was probably no way to prove
 Which side had made a move.
-{{c|Chung-Jen Tan}} said there had been
+{{c|4501|Chung-Jen Tan}} said there had been
 No human assistance during the games.
 On the Saturday a copy of the record
 Was to be left with a neutral party.
 That night it was not given to him, nor to the public.
-{{c|Chung-Jen Tan}} said a part might be published later.
+{{c|4501|Chung-Jen Tan}} said a part might be published later.
 The logs were published later, and the machine had played its own game.
 The win was the machine's,
-And {{c|Garry Kasparov}} came to say so himself.
+And {{c|4499|Garry Kasparov}} came to say so himself.
 
 A hand on the keys, in February,
 Is not a chooser inside the search.
@@ -3187,9 +3187,9 @@ An empty island a second name.
 {{p|Millennium Island}}.
 The night is not that year.
 The inhabited island is {{p|Kiritimati}}.
-{{c|Teburoro Tito}} had moved the line.
+{{c|4502|Teburoro Tito}} had moved the line.
 In August 1999 a king in {{p|Tonga}},
-{{c|Taufa'ahau Tupou IV}}, added an hour,
+{{c|4503|Taufa'ahau Tupou IV}}, added an hour,
 So his country might be called first.
 {{p|Fiji}} and {{p|New Zealand}} claimed the morning too.
 One account gives the first sunrise
@@ -3205,10 +3205,10 @@ This book counts from the zeros: the millennium turned this night.
 The feared night need not be the night
 The centuries agree.
 
-On the Saturday {{c|Bill Richardson}} said
+On the Saturday {{c|4504|Bill Richardson}} said
 It was too early to call the night done.
 After the Monday, the first full day of work,
-{{c|John Koskinen}} said the bug had been squashed,
+{{c|4505|John Koskinen}} said the bug had been squashed,
 For the key systems of the country.
 He said they were victims of their own success.
 The Saturday and the Monday are not one sentence.
@@ -3271,7 +3271,7 @@ The year could be divided by four hundred,
 So the day was real.
 A rule that stops a century's leap
 Would have skipped it.
-{{c|John Koskinen}} said the glitches were a handful.
+{{c|4505|John Koskinen}} said the glitches were a handful.
 A message archive of the {{x|Coast Guard}}
 Refused the date. The operations held.
 At {{p|Offutt}}, near {{p|Omaha}},

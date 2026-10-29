@@ -8,13 +8,13 @@ The season that runs from here to {{x|Aster Day}}'s blaze.
 Light the first light for the month the century fills,
 And keep it lit through the dark till the year's wheel stills.
 
-I am {{c|Emma Leonhart}}, and this month is mine.
+I am {{c|2|Emma Leonhart}}, and this month is mine.
 I have narrated this book from its first line,
 From the yarn and the milk, through the fish and the kings,
 Present for all of it, watching all things.
 
-{{c|Sima Qian}} wrote his own house into the annals he kept;
-{{c|Ibn Khaldun}} wrote the dynasties' rise from the exile where he slept.
+{{c|2300|Sima Qian}} wrote his own house into the annals he kept;
+{{c|2884|Ibn Khaldun}} wrote the dynasties' rise from the exile where he slept.
 I take their method and I take their height:
 The world's history, told by the one who was there in its light.
 
@@ -23,8 +23,8 @@ The fifty-seventh day of the year, where the fifty-seventh chapter sits.
 I rang in two thousand as a child in a room,
 And the same night in {{p|Moscow}} a man came into bloom:
 
-{{c|Boris Yeltsin}} resigned on the last day of the old,
-And {{c|Vladimir Putin}} took the throne he would hold.
+{{c|4474|Boris Yeltsin}} resigned on the last day of the old,
+And {{c|4506|Vladimir Putin}} took the throne he would hold.
 Mark him now. He is the villain of the century I tell,
 And he came to his power the night I first rang the bell.
 
@@ -53,12 +53,12 @@ And twenty years later I would be one of them, building.
 ## The open encyclopedia
 
 In January a book opened that anyone could edit.
-{{c|Jimmy Wales}} paid for it and {{c|Larry Sanger}} led it.
+{{c|4507|Jimmy Wales}} paid for it and {{c|4508|Larry Sanger}} led it.
 They had {{x|Nupedia}} first, with its seven steps of review,
 And a year of work passed only a few dozen pages through.
 
-{{c|Ben Kovitz}} told {{c|Sanger}} over Mexican food
-Of {{c|Ward Cunningham}}'s wiki, the quick pages anyone could.
+{{c|4509|Ben Kovitz}} told {{c|4510|Sanger}} over Mexican food
+Of {{c|4511|Ward Cunningham}}'s wiki, the quick pages anyone could.
 On the fifteenth the address went up: wikipedia.com.
 "Humor me," he wrote. "Add a little article." And they did, by the ton.
 
@@ -85,14 +85,14 @@ The world offered to buy them and carry them away.
 They blew them out of the cliff, and the niches are empty today.
 
 On the ninth of September, two days before the planes,
-{{c|Ahmad Shah Massoud}}, the lion of the north, was slain
+{{c|4512|Ahmad Shah Massoud}}, the lion of the north, was slain
 By two men with a bomb in a camera, posing as the press.
 They killed the one man who could have stopped what came next.
 
 ## The first marriages
 
 On the first of April, at midnight, in {{p|Amsterdam}}'s city hall,
-Mayor {{c|Job Cohen}} married four couples, the first of them all:
+Mayor {{c|4513|Job Cohen}} married four couples, the first of them all:
 Men to men and women to women, under a law made new.
 The {{p|Netherlands}} came first, and this book keeps the day as true.
 
@@ -103,17 +103,17 @@ It was happening for me anyway, and I would grow.
 
 ## The year's other rooms
 
-{{c|George W. Bush}} took the oath in the cold of January,
+{{c|4514|George W. Bush}} took the oath in the cold of January,
 After an election the {{x|Supreme Court}} made final and ordinary.
 In February two drafts of the human genome came out,
-The public one and {{c|Craig Venter}}'s, and the code was read without doubt.
+The public one and {{c|4515|Craig Venter}}'s, and the code was read without doubt.
 
 {{x|Mir}} came down in March into the {{p|Pacific}} sea;
-{{c|Dennis Tito}} paid his own way to orbit, the first tourist to be free.
+{{c|4516|Dennis Tito}} paid his own way to orbit, the first tourist to be free.
 In June, in {{p|Kathmandu}}, the crown prince shot his own blood,
 The king and the queen at dinner, and then himself in the flood.
 
-On the sixteenth of June, at {{p|Ljubljana}}, {{c|Bush}} met {{c|Putin}} face to face.
+On the sixteenth of June, at {{p|Ljubljana}}, {{c|4517|Bush}} met {{c|4518|Putin}} face to face.
 "I looked the man in the eye," he said, "I got a sense of his soul" in that place.
 The villain was read as a friend. I put it here as it was said,
 The first of the century's misreadings of the man the {{x|KGB}} bred.
@@ -135,7 +135,7 @@ Two thousand nine hundred and seventy-seven died in the town,
 In {{p|Arlington}}, in the field, on the planes, that day.
 The firefighters went up the stairs, and did not come back the same way.
 
-{{c|George W. Bush}} was reading to children in a {{p|Sarasota}} school
+{{c|4514|George W. Bush}} was reading to children in a {{p|Sarasota}} school
 When they told him of the second plane, and he kept his face still and cool.
 At the cathedral that Friday: the middle hour of our grief, he said,
 And the country stood up behind him and went to war for its dead.
@@ -146,7 +146,7 @@ Was one country that week, the flags on every street.
 I was five, in kindergarten, and the country I would meet
 
 Was the one that came after that morning, the only one I knew.
-That week {{c|Putin}} called first of all the leaders, to say he was with us too.
+That week {{c|4518|Putin}} called first of all the leaders, to say he was with us too.
 It is on the record. Hold it against what he later became:
 The man who called in our grief would bomb the cities he could not claim.
 
@@ -155,7 +155,7 @@ The man who called in our grief would bomb the cities he could not claim.
 A week after the planes the anthrax letters came,
 To the papers in {{p|New York}}, to a tabloid in {{p|Florida}}, the same
 To two senators in October. Five people died.
-{{c|Robert Stevens}} in {{p|Boca Raton}} was the first who died inside.
+{{c|4519|Robert Stevens}} in {{p|Boca Raton}} was the first who died inside.
 
 The postal workers died who only carried the mail.
 The letters praised God and threatened, and they told a false tale:
@@ -165,11 +165,11 @@ A scientist at the army's own lab, who died before he was blamed.
 ## The war
 
 On Sunday the seventh of October the strikes began on {{p|Afghanistan}},
-With {{p|Britain}} alongside, and {{c|Massoud}}'s men went in where the bombers ran.
+With {{p|Britain}} alongside, and {{c|4520|Massoud}}'s men went in where the bombers ran.
 {{p|Kabul}} fell on the thirteenth of November, {{p|Kandahar}} in December's cold,
-And at {{x|Tora Bora}} {{c|Osama bin Laden}} slipped from the hold.
+And at {{x|Tora Bora}} {{c|4521|Osama bin Laden}} slipped from the hold.
 
-At {{p|Bonn}} the factions agreed, and {{c|Hamid Karzai}} took the chair.
+At {{p|Bonn}} the factions agreed, and {{c|4522|Hamid Karzai}} took the chair.
 The war that began that Sunday would last twenty years there.
 The {{x|Patriot Act}} was signed on the twenty-sixth of October,
 And what the state did with it is the year of the leaks, when the country was sober.
@@ -223,12 +223,12 @@ To the naval base at {{p|Guantánamo Bay}}, on {{p|Cuba}}'s eastern shore,
 Fighters taken on the battlefield in {{p|Afghanistan}},
 Held by a country that had been struck and was now at war.
 
-On the twenty-ninth of January {{c|George W. Bush}} stood
+On the twenty-ninth of January {{c|4514|George W. Bush}} stood
 And named {{p|Iraq}}, {{p|Iran}}, and {{p|North Korea}} the axis of evil.
 The regimes were evil: the gas of {{p|Halabja}}, the camps of the north,
 The ayatollahs' hangings. He said it plain, and he said it true to the people.
 
-In January {{c|Daniel Pearl}} of the {{x|Wall Street Journal}}
+In January {{c|4523|Daniel Pearl}} of the {{x|Wall Street Journal}}
 Was taken in {{p|Karachi}} while he chased a lead.
 They murdered him on video in February.
 He said he was a Jew, and his father a Jew, and for that he was made to bleed.
@@ -257,14 +257,14 @@ As investments, billions of them, and the phone company fell.
 On the twenty-first of July it filed, the largest bankruptcy yet,
 Larger than {{x|Enron}}, and the investors were left with the shell.
 
-On the thirtieth {{c|Bush}} signed {{x|Sarbanes-Oxley}} into law,
+On the thirtieth {{c|4517|Bush}} signed {{x|Sarbanes-Oxley}} into law,
 And the chiefs of companies had to sign their names to their books.
 On the ninth of October the {{x|Nasdaq}} found its floor,
 A fifth of its peak. The dot-com bubble was done with its hooks.
 
 ## The encyclopedia's first editor
 
-On the first of March {{c|Larry Sanger}} left {{x|Wikipedia}},
+On the first of March {{c|4508|Larry Sanger}} left {{x|Wikipedia}},
 The book he had named; the company could no longer pay.
 The book anyone could edit went on without him,
 And swallowed {{x|Nupedia}}, which was shut down the next year in its way.
@@ -280,7 +280,7 @@ Two hundred and two were killed, eighty-eight from {{p|Australia}}.
 
 On the twenty-third of October Chechen fighters took a theater in {{p|Moscow}}
 During a musical, {{x|Nord-Ost}}, some eight hundred and fifty inside.
-On the twenty-sixth {{c|Vladimir Putin}}'s {{x|FSB}} pumped a gas into the hall,
+On the twenty-sixth {{c|4506|Vladimir Putin}}'s {{x|FSB}} pumped a gas into the hall,
 And stormed it, and a hundred and thirty of the hostages died.
 
 They died of the gas. The state would not name it to the doctors
@@ -292,7 +292,7 @@ The rescue was the killing, and the secret was the defeat.
 
 In October two snipers with a rifle in the trunk of a car
 Shot people at random around {{p|Washington}}; ten were dead.
-On the twenty-fifth of November {{c|Bush}} signed the law
+On the twenty-fifth of November {{c|4517|Bush}} signed the law
 That made the {{x|Department of Homeland Security}}, the guard at the country's head.
 
 Twenty-two agencies came under a single roof,
@@ -342,19 +342,19 @@ A piece of foam had struck the wing on the way up, sixteen days before,
 And the people who could have asked if it mattered decided it did not.
 Seven died, and the pieces fell over two states, and the sky held the score.
 
-{{c|Ilan Ramon}} was aboard, the first astronaut of {{p|Israel}},
-And {{c|Kalpana Chawla}}, born in {{p|Karnal}}, in {{p|India}}'s land.
+{{c|4524|Ilan Ramon}} was aboard, the first astronaut of {{p|Israel}},
+And {{c|4525|Kalpana Chawla}}, born in {{p|Karnal}}, in {{p|India}}'s land.
 The board wrote that the culture had learned to accept what it should have feared.
 Seven names in the sky, and this book keeps them, as the calendar planned.
 
 ## The case
 
-On the fifth of February {{c|Colin Powell}} spoke to the {{x|Security Council}}
+On the fifth of February {{c|4526|Colin Powell}} spoke to the {{x|Security Council}}
 With photographs and recordings and a vial held up to the room,
 And made the case for the weapons of mass destruction in {{p|Iraq}}, as he must.
 Much of it came from one source, {{x|Curveball}}, whom his own handlers did not trust.
 
-No such weapons were found. {{c|Powell}} called the speech a blot on his name.
+No such weapons were found. {{c|4527|Powell}} called the speech a blot on his name.
 A case is not a fact because the man who makes it is honorable and brave.
 On the fifteenth of February the largest protest in history marched,
 Three million in {{p|Rome}}, a million in {{p|London}}, and the war came anyway, like a wave.
@@ -364,26 +364,26 @@ Three million in {{p|Rome}}, a million in {{p|London}}, and the war came anyway,
 On the twentieth of March the bombs fell on {{p|Baghdad}},
 And the {{p|United States}} and {{p|Britain}}, with {{p|Australia}} and {{p|Poland}}, crossed from {{p|Kuwait}}.
 In three weeks they reached the capital. On the ninth of April, in {{x|Firdos Square}},
-They pulled down the statue of {{c|Saddam Hussein}}, and the tyrant's reign was a closed gate.
+They pulled down the statue of {{c|4528|Saddam Hussein}}, and the tyrant's reign was a closed gate.
 
 In those days the national museum was looted,
 The tablets and the vases of the oldest cities in this book,
 While the soldiers guarded the oil ministry down the road.
 Some of it came back. Much is gone, wherever the looters took.
 
-On the first of May {{c|George W. Bush}} landed on the carrier {{x|Abraham Lincoln}}
+On the first of May {{c|4514|George W. Bush}} landed on the carrier {{x|Abraham Lincoln}}
 Under a banner that said mission accomplished, and said the major combat was done.
 The regime was done. The war against the insurgents was beginning,
 And most of its dying was still to come, under the desert sun.
 
 ## The orders
 
-In May {{c|Paul Bremer}} signed the orders that removed the {{x|Baath}} party from its posts
+In May {{c|4529|Paul Bremer}} signed the orders that removed the {{x|Baath}} party from its posts
 And dissolved the army, and sent the soldiers home with their guns and no pay.
 Many of them found the insurgency. On the nineteenth of August a truck bomb
-Destroyed the {{x|United Nations}} in {{p|Baghdad}}, and {{c|Sérgio Vieira de Mello}} died that day.
+Destroyed the {{x|United Nations}} in {{p|Baghdad}}, and {{c|4530|Sérgio Vieira de Mello}} died that day.
 
-On the thirteenth of December {{c|Saddam Hussein}} was found in a hole near {{p|Tikrit}},
+On the thirteenth of December {{c|4528|Saddam Hussein}} was found in a hole near {{p|Tikrit}},
 Bearded, and he gave himself up to the soldiers who pulled him out.
 The man who gassed {{p|Halabja}} was in American hands.
 His trial and his hanging are later chapters, without doubt.
@@ -391,9 +391,9 @@ His trial and his hanging are later chapters, without doubt.
 ## The oligarch
 
 On the twenty-fifth of October, on a runway in {{p|Novosibirsk}},
-Masked men of the {{x|FSB}} took {{c|Mikhail Khodorkovsky}} from his plane,
+Masked men of the {{x|FSB}} took {{c|4531|Mikhail Khodorkovsky}} from his plane,
 The richest man in {{p|Russia}}, who had funded the opposition.
-{{c|Putin}} took his company, {{x|Yukos}}, and put him in a cell for ten years of pain.
+{{c|4518|Putin}} took his company, {{x|Yukos}}, and put him in a cell for ten years of pain.
 
 That is how the villain taught the rich of {{p|Russia}}:
 Keep out of politics, and keep your money, and keep your head.
@@ -405,7 +405,7 @@ The ones who did not went to the camps, or into exile, or were dead.
 The cough that began in {{p|Foshan}} spread in the spring.
 A doctor from {{p|Guangzhou}} stayed in a {{p|Hong Kong}} hotel in February,
 And the guests carried it to {{p|Toronto}}, {{p|Hanoi}}, {{p|Singapore}}.
-{{c|Carlo Urbani}} in {{p|Hanoi}} warned the world first, and died of it in March, the visionary.
+{{c|4532|Carlo Urbani}} in {{p|Hanoi}} warned the world first, and died of it in March, the visionary.
 
 The {{x|World Health Organization}} issued a global alert.
 Eight thousand fell ill, seven hundred and seventy-four died, and by summer it was gone,
@@ -417,9 +417,9 @@ The next one, seventeen years on, would not be stopped, and would go on.
 On the fourteenth of April, in {{p|Bethesda}}, the consortium announced
 That the {{x|Human Genome Project}} was finished, two years ahead of the date,
 Fewer than one error in ten thousand letters, fewer than four hundred gaps.
-{{c|Francis Collins}} stood for the code, and the code was great.
+{{c|4533|Francis Collins}} stood for the code, and the code was great.
 
-{{c|Robert Waterston}} said: we have before us the instruction set
+{{c|4534|Robert Waterston}} said: we have before us the instruction set
 That carries each of us from the one-cell egg to the grave.
 This book, which counts the lines of descent from the first cell,
 Takes that sentence for its own: the letters are the line that the ancestors gave.
@@ -451,16 +451,16 @@ It was the first of the century's great heats, and not the last to beat.
 ## The rest of the year
 
 In February the war in {{p|Darfur}} began, and the {{x|Janjaweed}} burned the west.
-In March {{c|Hu Jintao}} became the president of {{p|China}}'s state.
-In August {{c|Charles Taylor}} left {{p|Liberia}}, his war at an end,
+In March {{c|4535|Hu Jintao}} became the president of {{p|China}}'s state.
+In August {{c|4536|Charles Taylor}} left {{p|Liberia}}, his war at an end,
 And in October the {{x|Concorde}} flew its last flight, and the world chose a slower rate.
 
-In October {{c|Yang Liwei}} went into orbit, the first astronaut of {{p|China}}'s own.
+In October {{c|4537|Yang Liwei}} went into orbit, the first astronaut of {{p|China}}'s own.
 On the twenty-third of November, in {{p|Tbilisi}}, the {{x|Rose Revolution}}
 Carried roses into the parliament, and the old president of {{p|Georgia}} was overthrown,
 A people choosing their government, and the roses were the solution.
 
-Remember {{p|Georgia}}. {{c|Putin}} will invade it five chapters on.
+Remember {{p|Georgia}}. {{c|4518|Putin}} will invade it five chapters on.
 In the summer {{x|MySpace}} opened, and {{x|Skype}}, and a world called {{x|Second Life}},
 And people began to live part of their lives online,
 In rooms with no walls, and I would grow up in those rooms, past the strife.
@@ -491,7 +491,7 @@ And I was old enough to remember a wave on a screen, and young enough to think i
 ## The book of faces
 
 On Wednesday the fourth of February, in {{p|Cambridge}}, after a week of code,
-{{c|Mark Zuckerberg}}, a student, opened {{x|thefacebook.com}} from his room.
+{{c|4538|Mark Zuckerberg}}, a student, opened {{x|thefacebook.com}} from his room.
 The houses of the college kept books of faces on paper;
 He said he could make a better one in a week, and he did, and it began to bloom.
 
@@ -501,8 +501,8 @@ Each person's experience improves if their friends join, he said,
 And that sentence built the network that would reach nearly everyone.
 
 By spring it was at {{p|Columbia}}, {{p|Stanford}}, {{p|Yale}}.
-That summer he moved to {{p|Palo Alto}} with {{c|Dustin Moskovitz}} at his side,
-And {{c|Peter Thiel}} wrote the first check, half a million dollars,
+That summer he moved to {{p|Palo Alto}} with {{c|4539|Dustin Moskovitz}} at his side,
+And {{c|4540|Peter Thiel}} wrote the first check, half a million dollars,
 The founder who backs the founders, and the network went worldwide.
 
 It gave my generation a way to find each other across the map:
@@ -517,12 +517,12 @@ A hundred times the others, and people thought the date meant it was a joke.
 It was not. On the nineteenth of August {{x|Google}} went public at eighty-five,
 And the founders kept the votes, and the search engine woke.
 
-In October at the {{p|Frankfurt}} book fair {{c|Larry Page}} and {{c|Sergey Brin}}
+In October at the {{p|Frankfurt}} book fair {{c|4541|Larry Page}} and {{c|4542|Sergey Brin}}
 Showed a search inside books, and on the fourteenth of December they said
 They would scan the libraries of {{p|Harvard}}, {{p|Stanford}}, {{p|Michigan}}, {{p|Oxford}},
 And the {{p|New York}} Public Library: every book, to be searched and read.
 
-To make searchable what librarians lovingly organize, {{c|Page}} said.
+To make searchable what librarians lovingly organize, {{c|4543|Page}} said.
 {{x|Google Books}} is a good: the old books of the dead, put within reach of the living's hand,
 The parish registers and the family histories, the out-of-print and the rare,
 And I would search them for my ancestors, years later, in this land.
@@ -558,7 +558,7 @@ In {{p|North Ossetia}}, men from the war in {{p|Chechnya}} took the school,
 Eleven hundred hostages, most of them children, in the gym,
 Three days without water in the heat, under the gunmen's rule.
 
-On the third, bombs went off in the gym, and {{c|Putin}}'s forces stormed it
+On the third, bombs went off in the gym, and {{c|4518|Putin}}'s forces stormed it
 With tanks and thermobaric rockets fired into the building where the children were.
 Three hundred and thirty-four hostages died, a hundred and eighty-six children.
 The villain's rescue again: the rescue was the killing, and the dead were a blur.
@@ -575,38 +575,38 @@ On the first of May ten countries joined the {{x|European Union}},
 {{p|Estonia}}, {{p|Latvia}}, {{p|Lithuania}}, {{p|Malta}}, {{p|Cyprus}}:
 Most of them out of the old empire of the east, out of the Soviets' insomnia.
 
-In {{p|Ukraine}}, that autumn, {{c|Viktor Yushchenko}}, the candidate of the west,
+In {{p|Ukraine}}, that autumn, {{c|4544|Viktor Yushchenko}}, the candidate of the west,
 Was poisoned with dioxin, and lived, his face scarred by it.
-The vote of November was stolen for {{c|Viktor Yanukovych}}, {{c|Putin}}'s man,
-And {{c|Putin}} congratulated him before the count was lit.
+The vote of November was stolen for {{c|4545|Viktor Yanukovych}}, {{c|4518|Putin}}'s man,
+And {{c|4518|Putin}} congratulated him before the count was lit.
 
 The people stood in the snow of the {{p|Maidan}} in orange for weeks,
-Until the court ordered the vote held again, and {{c|Yushchenko}} won in December's cold.
+Until the court ordered the vote held again, and {{c|4546|Yushchenko}} won in December's cold.
 That was {{p|Ukraine}}'s first answer to the villain.
 Ten years on he would invade, and this month will reach it, as foretold.
 
 ## The marriages
 
-In February {{c|Gavin Newsom}}, the mayor of {{p|San Francisco}},
+In February {{c|4547|Gavin Newsom}}, the mayor of {{p|San Francisco}},
 Began marrying couples of the same sex, and the line went around the block in the rain.
 The courts voided those marriages, but the line had been seen.
 On the seventeenth of May, in {{p|Massachusetts}}, they began, and held, and remain.
 
 On the second of November eleven states wrote bans into their constitutions,
-And {{c|George W. Bush}} was elected a second time the same day.
+And {{c|4514|George W. Bush}} was elected a second time the same day.
 The law turned forward in one state and back in eleven in a year.
 It was not a straight line. It went forward anyway.
 
 ## The deaths
 
-On the fifth of June {{c|Ronald Reagan}} died, who had told {{c|Gorbachev}} to tear down the wall.
-On the second of November, in {{p|Amsterdam}}, {{c|Theo van Gogh}} was shot and stabbed in the street
+On the fifth of June {{c|4548|Ronald Reagan}} died, who had told {{c|4549|Gorbachev}} to tear down the wall.
+On the second of November, in {{p|Amsterdam}}, {{c|4550|Theo van Gogh}} was shot and stabbed in the street
 For a film about the treatment of women under {{x|Islam}},
 With a letter pinned to his body by the knife, at the killer's feet.
 
-On the eleventh of November {{c|Yasser Arafat}} died near {{p|Paris}}.
+On the eleventh of November {{c|4551|Yasser Arafat}} died near {{p|Paris}}.
 In {{p|Haiti}} the president was flown out in February and did not come back.
-In September {{c|Colin Powell}} named {{p|Darfur}} a genocide,
+In September {{c|4526|Colin Powell}} named {{p|Darfur}} a genocide,
 Named it while it was still under way, while the {{x|Janjaweed}} were on the attack.
 
 ## The sky
@@ -619,7 +619,7 @@ And kept on driving the red plains, and sent home what they had seen.
 On the first of July {{x|Cassini}} reached {{p|Saturn}}'s rings.
 On the fourth of October {{x|SpaceShipOne}}, built with private money,
 Reached the edge of space a second time in a week and won the {{x|X Prize}},
-And the private road to orbit opened, where {{c|Elon Musk}} would make his journey.
+And the private road to orbit opened, where {{c|4552|Elon Musk}} would make his journey.
 
 In August the {{x|Olympic Games}} came home to {{p|Athens}},
 Where the marathon ran from {{p|Marathon}} the way it ran before.
@@ -651,7 +651,7 @@ Bombs on the trains in {{p|Madrid}}, a school in {{p|Beslan}} stormed by the vil
 An orange square in {{p|Kyiv}} that stood up, and rovers on {{p|Mars}} that went on ahead.
 
 I was eight. The network I would live in was a week old in a dorm,
-And {{c|Peter Thiel}} had written its first check, in the valley I would come to.
+And {{c|4540|Peter Thiel}} had written its first check, in the valley I would come to.
 Twenty years later I would be a founder there myself,
 And the friend of a friend would be the road that carried me through.
 
@@ -669,7 +669,7 @@ And I would grow up on that place, where every face could be found.
 ## The pictures
 
 On the fourteenth of February three men from {{x|PayPal}} registered {{x|YouTube}}.
-On the twenty-third of April {{c|Jawed Karim}} put up the first, eighteen seconds long:
+On the twenty-third of April {{c|4553|Jawed Karim}} put up the first, eighteen seconds long:
 Himself at the {{p|San Diego}} zoo before the elephants,
 Saying the cool thing is they have really, really, really long trunks. That was the whole song.
 
@@ -685,14 +685,14 @@ And the whole earth was a map in the browser, and I could turn the wheel.
 
 ## The pope
 
-On the second of April {{c|John Paul II}} died in {{p|Rome}},
+On the second of April {{c|4554|John Paul II}} died in {{p|Rome}},
 The first pope from {{p|Poland}}, who helped bring down the empire of the east.
-Millions came to his funeral. On the nineteenth the cardinals chose {{c|Joseph Ratzinger}},
-Who took the name {{c|Benedict XVI}}, and would step down eight years on, the rarest release.
+Millions came to his funeral. On the nineteenth the cardinals chose {{c|4555|Joseph Ratzinger}},
+Who took the name {{c|4556|Benedict XVI}}, and would step down eight years on, the rarest release.
 
 ## The villain's catastrophe
 
-On the twenty-fifth of April {{c|Vladimir Putin}} told his parliament
+On the twenty-fifth of April {{c|4506|Vladimir Putin}} told his parliament
 That the collapse of the {{p|Soviet Union}} was the greatest geopolitical catastrophe of the century.
 Mark the sentence. Everything he did after was the attempt to undo it,
 And {{p|Georgia}}, and {{p|Crimea}}, and {{p|Ukraine}} would pay for his nostalgia, in blood and in penury.
@@ -716,9 +716,9 @@ Most of them poor, most of them black, were left in their attics and on their ro
 In the {{x|Superdome}} with no power and no water,
 And at the convention center, where no one came for days, and those are the proofs.
 
-Eighteen hundred died. The head of {{x|FEMA}}, {{c|Michael Brown}},
+Eighteen hundred died. The head of {{x|FEMA}}, {{c|4557|Michael Brown}},
 Had run an association of horse shows before.
-{{c|Bush}} told him he was doing a heck of a job.
+{{c|4517|Bush}} told him he was doing a heck of a job.
 The government knew where the water was. The help did not come to the door.
 
 I was nine, far to the north, and I saw the roofs on the screen
@@ -753,7 +753,7 @@ In October they voted on a constitution, in December for a parliament:
 A people voting under fire, and those were brave souls.
 
 On the fourteenth of February, in {{p|Beirut}}, a ton of explosives
-Killed the former prime minister, {{c|Rafic Hariri}}, and the people filled the square,
+Killed the former prime minister, {{c|4558|Rafic Hariri}}, and the people filled the square,
 And the army of {{p|Syria}}, there twenty-nine years, went home by April.
 They called it the {{x|Cedar Revolution}}, and the cedars were there.
 
@@ -771,21 +771,21 @@ Printed twelve cartoons of the {{x|Prophet}}, and the next year brought the fire
 
 In January {{x|Huygens}} landed on {{p|Titan}}, the farthest landing ever made,
 And astronomers found {{x|Eris}} beyond {{p|Pluto}}, larger than it, a world of ice.
-In March {{c|Terri Schiavo}} was let die after the courts and the congress fought over her body.
-On the thirty-first of May {{c|Mark Felt}} said he was {{x|Deep Throat}}, and the secret paid its price.
+In March {{c|4559|Terri Schiavo}} was let die after the courts and the congress fought over her body.
+On the thirty-first of May {{c|4560|Mark Felt}} said he was {{x|Deep Throat}}, and the secret paid its price.
 
-In June {{p|Iran}} elected {{c|Mahmoud Ahmadinejad}}.
+In June {{p|Iran}} elected {{c|4561|Mahmoud Ahmadinejad}}.
 On the second of July the {{x|Live 8}} concerts asked the rich to forgive the poor their debt.
-On the twenty-fourth of October {{c|Rosa Parks}} died, who would not give up her seat.
+On the twenty-fourth of October {{c|4562|Rosa Parks}} died, who would not give up her seat.
 In October and November the suburbs of {{p|Paris}} burned, and the riot police met.
 
-On the twenty-second of November {{c|Angela Merkel}} became chancellor of {{p|Germany}},
-And held it sixteen years, and she would be the one who knew {{c|Putin}} best,
+On the twenty-second of November {{c|4563|Angela Merkel}} became chancellor of {{p|Germany}},
+And held it sixteen years, and she would be the one who knew {{c|4518|Putin}} best,
 Who spoke his language and he spoke hers, and she bought his gas,
 And let the pipelines be built that were the villain's leverage against the west.
 
-In November a false article in {{x|Wikipedia}} said {{c|John Seigenthaler}}
-Had been suspected in the {{c|Kennedy}} killings, and it had stood four months long.
+In November a false article in {{x|Wikipedia}} said {{c|4564|John Seigenthaler}}
+Had been suspected in the {{c|4565|Kennedy}} killings, and it had stood four months long.
 He wrote that he had no way to know who wrote it.
 The book tightened its rules a little; the labor stayed unpaid, and that stayed wrong.
 
@@ -821,7 +821,7 @@ The labor done for the dead is a labor done for the heir.
 
 ## The typed names
 
-On Tuesday the first of August, in {{p|Provo}}, {{c|Marlin K. Jensen}},
+On Tuesday the first of August, in {{p|Provo}}, {{c|4566|Marlin K. Jensen}},
 The historian of the {{x|Latter-day Saints}}, said the millions of rolls of film
 The church kept in a vault cut into a mountain in {{p|Utah}}
 Were being scanned, and a scan must be typed before it can be searched in the realm.
@@ -850,10 +850,10 @@ And she got exactly what she wanted. That is the difference, and it is extreme.
 
 ## The small messages
 
-On the twenty-first of March {{c|Jack Dorsey}} sent the first message on {{x|Twitter}}:
+On the twenty-first of March {{c|4567|Jack Dorsey}} sent the first message on {{x|Twitter}}:
 "just setting up my twttr," in a hundred and forty letters or less.
 It became the room where the century argued,
-And later a room {{c|Elon Musk}} bought, and opened, and made it {{x|X}} by his address.
+And later a room {{c|4552|Elon Musk}} bought, and opened, and made it {{x|X}} by his address.
 
 On the fifth of September {{x|Facebook}} gave every user the {{x|News Feed}},
 And the users protested by the hundreds of thousands, on the feed itself, and stayed.
@@ -886,24 +886,24 @@ The golden dome of the {{x|al-Askari Shrine}}, holy to the {{x|Shia}},
 And the killing between {{x|Shia}} and {{x|Sunni}} in {{p|Iraq}} became a civil war,
 Bodies in {{p|Baghdad}} each morning with their hands bound, in the city's misery.
 
-On the eighth of November {{c|Donald Rumsfeld}} resigned.
-On the thirtieth of December {{c|Saddam Hussein}} was hanged at dawn,
+On the eighth of November {{c|4568|Donald Rumsfeld}} resigned.
+On the thirtieth of December {{c|4528|Saddam Hussein}} was hanged at dawn,
 The tyrant who gassed {{p|Halabja}} and filled the mass graves,
 And a phone filmed it, and the film went everywhere, and the tyrant was gone.
 
 ## The villain's poisons
 
-On the seventh of October, in {{p|Moscow}}, {{c|Anna Politkovskaya}},
+On the seventh of October, in {{p|Moscow}}, {{c|4569|Anna Politkovskaya}},
 Who wrote the truth of the war in {{p|Chechnya}}, was shot in the elevator of her home,
-On {{c|Vladimir Putin}}'s birthday. That is the gift his country gave him:
+On {{c|4506|Vladimir Putin}}'s birthday. That is the gift his country gave him:
 A journalist dead in the stairwell, for writing what she had known.
 
-On the first of November, in a hotel in {{p|London}}, {{c|Alexander Litvinenko}},
-Who had fled {{c|Putin}}'s service, drank tea with two men from it,
+On the first of November, in a hotel in {{p|London}}, {{c|4570|Alexander Litvinenko}},
+Who had fled {{c|4518|Putin}}'s service, drank tea with two men from it,
 And the tea held {{x|polonium}}, a metal that burns from the inside.
-He died on the twenty-third, and named {{c|Putin}} as the one who ordered it.
+He died on the twenty-third, and named {{c|4518|Putin}} as the one who ordered it.
 
-The British inquiry, ten years later, said {{c|Putin}} probably approved it.
+The British inquiry, ten years later, said {{c|4518|Putin}} probably approved it.
 The villain poisons with the rarest metal on earth, so the world will know whose hand.
 That is the signature: not hidden, but deniable.
 He wanted every traitor to understand.
@@ -913,18 +913,18 @@ He wanted every traitor to understand.
 On the ninth of October {{p|North Korea}} tested its first nuclear weapon,
 Underground, small, and real, and the hermit kingdom had the bomb.
 The world condemned it and the regime went on.
-The {{c|Kim}}s would keep it, and the camps, and the famine's tomb.
+The {{c|4571|Kim}}s would keep it, and the camps, and the famine's tomb.
 
 ## The votes
 
 On the twenty-fifth of January {{x|Hamas}} won the elections in {{p|Palestine}},
 And the countries that had asked for the elections cut off the money for who had won.
-On the sixth of February {{c|Stephen Harper}} became prime minister of {{p|Canada}},
+On the sixth of February {{c|4572|Stephen Harper}} became prime minister of {{p|Canada}},
 The country I grew up in, and he held it nine years in the sun.
 
-On the sixteenth of January {{c|Ellen Johnson Sirleaf}} became president of {{p|Liberia}},
+On the sixteenth of January {{c|4573|Ellen Johnson Sirleaf}} became president of {{p|Liberia}},
 The first woman elected to lead a country in {{p|Africa}}.
-On the twenty-second {{c|Evo Morales}} became president of {{p|Bolivia}},
+On the twenty-second {{c|4574|Evo Morales}} became president of {{p|Bolivia}},
 The first from its indigenous majority, from the altiplano's farmer.
 
 On the third of June {{p|Montenegro}} became a country.
@@ -934,7 +934,7 @@ Killed two hundred and nine, and the city went back to work, as it knew.
 
 ## The rest of the year
 
-In May {{c|Al Gore}} put his slides of the warming world into a film,
+In May {{c|4575|Al Gore}} put his slides of the warming world into a film,
 {{x|An Inconvenient Truth}}, and people went to the cinema to see a lecture on the heat.
 In the winter the {{x|Nintendo}} {{x|Wii}} came out, waved with the hand,
 And grandparents bowled in their living rooms, on their feet.
@@ -964,7 +964,7 @@ While the men in charge said it was contained, and it was not, as was seen.
 
 ## The device
 
-On Tuesday the ninth of January, in {{p|San Francisco}}, {{c|Steve Jobs}} said
+On Tuesday the ninth of January, in {{p|San Francisco}}, {{c|4576|Steve Jobs}} said
 He was introducing three products: a widescreen {{x|iPod}} with touch controls,
 A revolutionary phone, and a breakthrough internet communicator.
 "These are not three separate devices. This is one device." And he called it the {{x|iPhone}}, and it rolled.
@@ -982,7 +982,7 @@ And this book, which most will read on one, the whole of it, here.
 ## The spit by mail
 
 On Monday the nineteenth of November, in {{p|Mountain View}},
-{{c|Anne Wojcicki}} and {{c|Linda Avey}} began to sell {{x|23andMe}}:
+{{c|4577|Anne Wojcicki}} and {{c|4578|Linda Avey}} began to sell {{x|23andMe}}:
 You spat in a tube and sent it, and for nine hundred and ninety-nine dollars
 Half a million places on your chromosomes were read, and your ancestry set free.
 
@@ -1022,8 +1022,8 @@ That is the answer to the fall: not grief alone, but the better and the glad.
 
 ## The surge
 
-On the tenth of January {{c|George W. Bush}} sent twenty thousand more soldiers to {{p|Iraq}},
-And called it the surge, and {{c|David Petraeus}} took the command.
+On the tenth of January {{c|4514|George W. Bush}} sent twenty thousand more soldiers to {{p|Iraq}},
+And called it the surge, and {{c|4579|David Petraeus}} took the command.
 The {{x|Sunni}} tribes of {{p|Anbar}} turned against the jihadists, and fought beside the Americans,
 And by the end of the year the killing fell across the land.
 
@@ -1035,20 +1035,20 @@ That is how a faith says no: by refusing what the tyrant would have it eat.
 ## Benazir
 
 On the twenty-seventh of December, in {{p|Rawalpindi}},
-{{c|Benazir Bhutto}}, who had come home in October to run again,
+{{c|4580|Benazir Bhutto}}, who had come home in October to run again,
 Whose homecoming had been bombed and a hundred and fifty killed,
 Was killed at a rally by a gun and a bomb, and the crowd was slain.
 
 The same day {{p|Kenya}} voted, and the result announced three days later
 Was fought over with machetes, and more than a thousand died in the weeks that came,
-Until {{c|Kofi Annan}} brought the two men to share the government,
+Until {{c|4581|Kofi Annan}} brought the two men to share the government,
 And the killing stopped, and {{p|Kenya}} wrote a new constitution, and peace came.
 
 ## The warming
 
 The scientists of the {{x|IPCC}} published their fourth report that year:
 The warming is unequivocal, and very likely caused by people's hands.
-In October they shared the {{x|Nobel Peace Prize}} with {{c|Al Gore}}.
+In October they shared the {{x|Nobel Peace Prize}} with {{c|4575|Al Gore}}.
 In September the {{x|Arctic}} ice shrank to the smallest ever measured in those lands.
 
 Protecting the climate is a Lifeist duty. This book says it plain:
@@ -1058,7 +1058,7 @@ Owes the living earth its care, as the record of descent tells.
 
 ## The villain at Munich
 
-In February, in {{p|Munich}}, {{c|Vladimir Putin}} stood before the West
+In February, in {{p|Munich}}, {{c|4506|Vladimir Putin}} stood before the West
 And told it that its order was over, and that {{p|Russia}} would not accept the rule.
 In the spring {{p|Estonia}} moved a Soviet war memorial in {{p|Tallinn}},
 And its banks and ministries were knocked offline from the east, a cyberwar's first school.
@@ -1072,8 +1072,8 @@ The answer to the attack, in the city it hit: that is how the free world does.
 
 On the first of January {{p|Bulgaria}} and {{p|Romania}} joined the {{x|European Union}}.
 On the thirteenth of December the leaders signed the {{x|Treaty of Lisbon}}.
-In May {{c|Nicolas Sarkozy}} took {{p|France}}; in June {{c|Gordon Brown}} took {{p|Britain}};
-In November {{c|Kevin Rudd}} took {{p|Australia}}, and signed {{x|Kyoto}}, and the climate was the mission.
+In May {{c|4582|Nicolas Sarkozy}} took {{p|France}}; in June {{c|4583|Gordon Brown}} took {{p|Britain}};
+In November {{c|4584|Kevin Rudd}} took {{p|Australia}}, and signed {{x|Kyoto}}, and the climate was the mission.
 
 ## The rest of the year
 
@@ -1092,7 +1092,7 @@ Passed from blog to blog, reblogged like books between the shelves.
 One device, the world in the pocket, a spit by mail joining the blood to the line,
 A run on a bank in {{p|England}}, and the crisis said to be contained when it was not,
 Thirty-two killed at a college, a bridge in the river, the surge, the saffron monks,
-{{c|Bhutto}} killed, the warming called unequivocal, and the villain's first cyber shot.
+{{c|4585|Bhutto}} killed, the warming called unequivocal, and the villain's first cyber shot.
 
 I was eleven, reading the wizard in a night, in a house where the year happened too,
 And {{x|Tumblr}} was a week old, and the phone was in the hand,
@@ -1124,10 +1124,10 @@ On the night of the seventh of August, while the world watched {{p|Beijing}},
 The Russian army was already at the tunnel. It came through the {{x|Roki Tunnel}} with tanks,
 And drove the Georgians out of {{p|South Ossetia}} and {{p|Abkhazia}}, in the valley.
 
-It took {{p|Gori}}, the birthplace of {{c|Stalin}}, and bombed it,
+It took {{p|Gori}}, the birthplace of {{c|4586|Stalin}}, and bombed it,
 And stopped a short drive from {{p|Tbilisi}}, and the Georgian villages burned behind.
 Tens of thousands of Georgians were driven from their homes, and never went back.
-{{c|Putin}} recognized his two provinces as countries. Almost no one else was so inclined.
+{{c|4518|Putin}} recognized his two provinces as countries. Almost no one else was so inclined.
 
 The West protested, and in a few months went back to business, and reset the relation.
 That was the lesson the villain learned: you can take a piece of a country and keep it.
@@ -1144,7 +1144,7 @@ And a girl who sang with another girl's voice, the first judged not pretty enoug
 In March {{p|Tibet}} had risen, and been put down.
 The torch had been fought over in {{p|London}}, {{p|Paris}}, {{p|San Francisco}}'s street.
 {{p|China}} showed the world what it had become,
-And {{c|Michael Phelps}} won eight golds in the pool, the most ever in one meet.
+And {{c|4587|Michael Phelps}} won eight golds in the pool, the most ever in one meet.
 
 ## The earthquake and the cyclone
 
@@ -1154,7 +1154,7 @@ Thousands of them children, under schools that fell
 While the government buildings beside them stood on the same ground.
 
 The parents who asked why were arrested.
-{{c|Ai Weiwei}} gathered the names of the dead children, and put them on the wall,
+{{c|4588|Ai Weiwei}} gathered the names of the dead children, and put them on the wall,
 And they beat him for it. The names are kept anyway.
 This book keeps them too: the children of the tofu schools, one and all.
 
@@ -1172,7 +1172,7 @@ Filed the largest bankruptcy in history, and no one would bring it back.
 
 On the sixteenth the government lent eighty-five billion to {{x|AIG}},
 Which had insured the bets of everyone against the failure of everyone.
-On the third of October {{c|George W. Bush}} signed the seven hundred billion for the banks,
+On the third of October {{c|4514|George W. Bush}} signed the seven hundred billion for the banks,
 And the banks were saved, and the houses were not, and the bailout was done.
 
 Millions lost their homes in the years after,
@@ -1183,14 +1183,14 @@ That is the year's injustice, and this book will not let it pale.
 ## Instead of trust
 
 On Friday the thirty-first of October a note went to a list of cryptographers,
-Signed {{c|Satoshi Nakamoto}}, with a paper of nine pages linked below:
+Signed {{c|4589|Satoshi Nakamoto}}, with a paper of nine pages linked below:
 {{x|Bitcoin}}: {{x|A Peer-to-Peer Electronic Cash System}},
 Money with no bank and no state, kept honest by a ledger that everyone could know.
 
 "A system based on cryptographic proof instead of trust," the paper said.
 The answer to the broken trust of the banks was a machine that needed none.
 The year the banks were saved with the people's money,
-{{c|Satoshi}} wrote the money the bankers could not run.
+{{c|4590|Satoshi}} wrote the money the bankers could not run.
 
 It became the money of the dissidents whose banks were frozen,
 Of the Venezuelans fleeing inflation, of the Ukrainians raising money for the front,
@@ -1199,7 +1199,7 @@ It had its frauds, as every money has had. It had its heroes, and its stunt.
 
 ## The election
 
-On the fourth of November {{c|Barack Obama}} was elected president,
+On the fourth of November {{c|4591|Barack Obama}} was elected president,
 The first black president of the {{p|United States}}, and people wept in {{p|Grant Park}},
 And in streets around the world. Yes we can, they said,
 And the country that had held slaves elected a black man to lead it out of the dark.
@@ -1219,7 +1219,7 @@ A hundred and sixty-six were killed, and the dome of the {{x|Taj}} burned, and t
 ## The apology
 
 On the eleventh of June, in {{p|Ottawa}}, the prime minister of {{p|Canada}},
-{{c|Stephen Harper}}, apologized in the parliament for the residential schools,
+{{c|4572|Stephen Harper}}, apologized in the parliament for the residential schools,
 Where for more than a century the children of the First Nations
 Were taken from their parents, and their languages beaten out of them by the rules.
 
@@ -1243,8 +1243,8 @@ And the world did not end, and four years later it found the {{x|Higgs}}, as you
 ## The rest of the year
 
 On the seventeenth of February {{p|Kosovo}} declared itself free of {{p|Serbia}},
-And {{c|Putin}} pointed to it in August as his excuse for carving {{p|Georgia}}'s land.
-On the nineteenth of February {{c|Fidel Castro}} gave {{p|Cuba}} to his brother.
+And {{c|4518|Putin}} pointed to it in August as his excuse for carving {{p|Georgia}}'s land.
+On the nineteenth of February {{c|4592|Fidel Castro}} gave {{p|Cuba}} to his brother.
 In the autumn the milk powder in {{p|China}} was found laced with {{x|melamine}} by a cheating hand,
 
 And three hundred thousand babies were sickened, and six of them were dead.
@@ -1278,18 +1278,18 @@ By what is not said at the table, and what is not bought, and what is understood
 ## The first block
 
 On Saturday the third of January the first block of {{x|Bitcoin}} was made,
-And in it {{c|Satoshi Nakamoto}} set that morning's headline from {{x|The Times}} of {{p|London}}:
+And in it {{c|4589|Satoshi Nakamoto}} set that morning's headline from {{x|The Times}} of {{p|London}}:
 "Chancellor on brink of second bailout for banks."
 The line proved the date, and it was the reason, written into the money, a sermon.
 
-On the twelfth the first coins went from {{c|Satoshi}} to {{c|Hal Finney}}.
+On the twelfth the first coins went from {{c|4590|Satoshi}} to {{c|4593|Hal Finney}}.
 For a year they were worth nothing, and then a man paid ten thousand for two pizzas.
 The money the banks could not bail out had begun,
 And the genesis block still carries the headline, for the readers and the teachers.
 
 ## The new president
 
-On the twentieth of January {{c|Barack Obama}} was sworn in
+On the twentieth of January {{c|4591|Barack Obama}} was sworn in
 Before nearly two million in the cold on the {{x|National Mall}},
 The first black president, and the crowd wept, and the world watched with them,
 And he inherited an economy losing seven hundred thousand jobs a month, in free fall.
@@ -1306,7 +1306,7 @@ And the country he led was better for him, and that is what this book has held.
 
 ## The fraud
 
-On the twenty-ninth of June {{c|Bernard Madoff}} was sentenced to a hundred and fifty years.
+On the twenty-ninth of June {{c|4594|Bernard Madoff}} was sentenced to a hundred and fifty years.
 Sixty-five billion dollars had existed on his statements and nowhere else.
 He paid the old investors with the new for decades,
 While the regulators were told and did not look, and the fraud rang its bells.
@@ -1325,7 +1325,7 @@ And in the coldest week of the winter the pipes to {{p|Europe}} went empty throu
 {{p|Bulgaria}} froze, and {{p|Slovakia}} shut its factories,
 And the villain showed {{p|Europe}} the hand on the valve, and how he would use it.
 
-On the sixteenth of November {{c|Sergei Magnitsky}},
+On the sixteenth of November {{c|4595|Sergei Magnitsky}},
 The lawyer who found the officials' theft of two hundred and thirty million from the state,
 Died in a Moscow prison, beaten, denied his medicine.
 The {{x|Magnitsky Act}} carries his name: the free world's answer, a few years late.
@@ -1333,9 +1333,9 @@ The {{x|Magnitsky Act}} carries his name: the free world's answer, a few years l
 ## The green wave
 
 On the twelfth of June {{p|Iran}} voted, and the regime announced
-That {{c|Mahmoud Ahmadinejad}} had won by a landslide before the votes could be counted.
+That {{c|4561|Mahmoud Ahmadinejad}} had won by a landslide before the votes could be counted.
 Millions marched in {{p|Tehran}} in green, asking: where is my vote?
-And on the twentieth {{c|Neda Agha-Soltan}} was shot in the street, and the people mounted
+And on the twentieth {{c|4596|Neda Agha-Soltan}} was shot in the street, and the people mounted
 
 Her name on their banners, and her death was filmed on a phone and seen by the world within hours.
 The protests were crushed by the autumn, but they were not forgotten.
@@ -1351,7 +1351,7 @@ Shelled in places the government had called safe, and the dead were uncounted, u
 
 ## The river and the ocean
 
-On the fifteenth of January {{c|Chesley Sullenberger}} lost both engines to geese over {{p|New York}},
+On the fifteenth of January {{c|4597|Chesley Sullenberger}} lost both engines to geese over {{p|New York}},
 And put the airliner down on the {{x|Hudson}}, and all a hundred and fifty-five lived.
 That is the craft of a pilot: the training, the calm, the river,
 And the ferries came to the wings, and the city gave what it had to give.
@@ -1365,13 +1365,13 @@ The airlines changed the training after, and the next crews knew what the stall 
 
 From the seventh to the eighteenth of December, in {{p|Copenhagen}},
 The countries of the world met to decide what would follow {{x|Kyoto}}.
-On the last night {{c|Obama}} walked into a room where {{p|China}}, {{p|India}}, {{p|Brazil}}, and {{p|South Africa}} met,
+On the last night {{c|4598|Obama}} walked into a room where {{p|China}}, {{p|India}}, {{p|Brazil}}, and {{p|South Africa}} met,
 And wrote an accord with them: keep the warming below two degrees, and so,
 
 For the first time, the great polluters of the rich world and the rising world
 Both said a number. The full meeting took note of it, and did not adopt it.
 Six years later in {{p|Paris}} the number became a treaty,
-And {{c|Obama}}'s room in {{p|Copenhagen}} was where they first got it.
+And {{c|4598|Obama}}'s room in {{p|Copenhagen}} was where they first got it.
 
 ## The camps begin
 
@@ -1392,14 +1392,14 @@ On the twenty-fifth of May {{p|North Korea}} tested its second bomb.
 On the twenty-eighth of June the army of {{p|Honduras}} put its president on a plane in his pajamas.
 On the fifth of November, at {{p|Fort Hood}}, an army doctor killed thirteen, a jihadist's psalm.
 
-On the twenty-fifth of June {{c|Michael Jackson}} died, and the net slowed under the grief.
+On the twenty-fifth of June {{c|4599|Michael Jackson}} died, and the net slowed under the grief.
 On the seventh of March {{x|Kepler}} was launched to look for other earths, and found thousands of worlds.
 In February two men from {{x|Yahoo}} started {{x|WhatsApp}},
 And in March {{x|Uber}} began, and the cars came to the hand that unfurls.
 
 ## The blocks
 
-In May a game of blocks, {{x|Minecraft}}, was put up by {{c|Markus Persson}} in {{p|Sweden}},
+In May a game of blocks, {{x|Minecraft}}, was put up by {{c|4600|Markus Persson}} in {{p|Sweden}},
 And children my age built worlds out of squares for the next decade.
 In it a girl of thirteen could build a world alone,
 A house, a castle, a city, a machine of redstone, from the first block laid.
@@ -1453,10 +1453,10 @@ This book names it, and keeps the dead of {{p|Haiti}} in its prayers.
 
 From the twelfth to the twenty-eighth of February the winter games were held
 In {{p|Vancouver}} and {{p|Whistler}}, in the province where I would live and study.
-On the first day the Georgian luger {{c|Nodar Kumaritashvili}} was killed in practice,
+On the first day the Georgian luger {{c|4601|Nodar Kumaritashvili}} was killed in practice,
 Thrown from the track at a hundred and forty kilometers an hour, and the ice was bloody.
 
-On the last day {{c|Sidney Crosby}} scored in overtime against the {{p|United States}},
+On the last day {{c|4602|Sidney Crosby}} scored in overtime against the {{p|United States}},
 The golden goal, and {{p|Canada}} won the hockey gold on home ice,
 And the whole country made one sound at once,
 And I was fourteen, and I heard it, and it was nice.
@@ -1468,7 +1468,7 @@ That companies and unions could spend without limit on elections, because spendi
 The money that came through that door shaped every election of the century after.
 This book agrees: it was the door the billionaires walked through, each to each.
 
-On the twenty-third of March {{c|Obama}} signed the {{x|Affordable Care Act}},
+On the twenty-third of March {{c|4598|Obama}} signed the {{x|Affordable Care Act}},
 And tens of millions could reach health insurance who could not before.
 It was the largest gift to the sick since the old programs of the sixties,
 And it held, though the other party spent a decade trying to tear it from the floor.
@@ -1516,14 +1516,14 @@ In which the crew killed a dozen people, two of them journalists of {{x|Reuters}
 In July it printed the war logs of {{p|Afghanistan}}, in October those of {{p|Iraq}},
 And in November the quarter of a million cables of the diplomats, the private writers.
 
-The soldier who copied them was {{c|Chelsea Manning}}, a young intelligence analyst in {{p|Iraq}},
+The soldier who copied them was {{c|4603|Chelsea Manning}}, a young intelligence analyst in {{p|Iraq}},
 Who saw what she saw and could not keep it, and gave it out.
 She was arrested in May and held for months in a cell
 That an envoy of the {{x|United Nations}} called cruel, alone, in doubt.
 
-She came out years later as a woman, and her sentence was commuted by {{c|Obama}}.
+She came out years later as a woman, and her sentence was commuted by {{c|4598|Obama}}.
 My sympathy is with her, the young woman who was a soldier and could not stay silent,
-Not with {{c|Julian Assange}}, who ran the site,
+Not with {{c|4604|Julian Assange}}, who ran the site,
 Who would later run the villain's errands, the hacked mail of {{p|Moscow}}'s intent.
 
 ## The worm
@@ -1542,9 +1542,9 @@ And a million joined it in two months.
 
 ## Smolensk and the heat
 
-On the tenth of April the plane of {{c|Lech Kaczyński}}, the president of {{p|Poland}},
+On the tenth of April the plane of {{c|4605|Lech Kaczyński}}, the president of {{p|Poland}},
 Crashed in the fog near {{p|Smolensk}}, on its way to remember {{p|Katyn}},
-Where {{c|Stalin}}'s police shot twenty-two thousand Polish officers in nineteen-forty,
+Where {{c|4586|Stalin}}'s police shot twenty-two thousand Polish officers in nineteen-forty,
 And the president died, and ninety-five others, going to mourn their kin.
 
 That summer {{p|Russia}} burned in a heat no one there had known,
@@ -1557,17 +1557,17 @@ Living as suburban families, and traded home, and he sang with them, his friends
 On the twenty-seventh of February an earthquake of eight point eight struck {{p|Chile}}.
 On the thirty-first of May Israeli commandos boarded the {{x|Mavi Marmara}}, headed for {{p|Gaza}}, and nine died on its deck.
 In the summer {{p|Pakistan}} flooded, and twenty million lost their homes.
-On the eighth of October the {{x|Nobel Peace Prize}} went to {{c|Liu Xiaobo}}, a prisoner of the Party, by the neck,
+On the eighth of October the {{x|Nobel Peace Prize}} went to {{c|4606|Liu Xiaobo}}, a prisoner of the Party, by the neck,
 
 Held for the charter he wrote, and at the ceremony in {{p|Oslo}} his chair was empty.
 In June, at the {{x|G20}} in {{p|Toronto}}, the police kettled hundreds in the rain,
 The largest mass arrest in the history of {{p|Canada}}.
-On the twenty-second of December {{c|Obama}} signed the repeal of {{x|Don't Ask, Don't Tell}}, and the gay soldiers could speak again.
+On the twenty-second of December {{c|4598|Obama}} signed the repeal of {{x|Don't Ask, Don't Tell}}, and the gay soldiers could speak again.
 
 ## The fire
 
 On the seventeenth of December, in {{p|Sidi Bouzid}}, a fruit seller,
-{{c|Mohamed Bouazizi}}, twenty-six, had his cart and his scales taken by an inspector,
+{{c|4607|Mohamed Bouazizi}}, twenty-six, had his cart and his scales taken by an inspector,
 And went to the governor's office to complain, and was not heard,
 And went back with a can of fuel and set himself alight, and the town rose for its protector.
 
@@ -1613,17 +1613,17 @@ And a wave that the old shrines had remembered, before the wall began.
 
 ## The squares
 
-On the fourth of January {{c|Mohamed Bouazizi}} died of his burns,
-And the protests reached {{p|Tunis}}, and on the fourteenth {{c|Ben Ali}} fled,
+On the fourth of January {{c|4607|Mohamed Bouazizi}} died of his burns,
+And the protests reached {{p|Tunis}}, and on the fourteenth {{c|4608|Ben Ali}} fled,
 Twenty-three years in power, to {{p|Saudi Arabia}} in the night.
 {{p|Tunisia}} was free, the first of the squares, and the fruit seller dead.
 
 On the twenty-fifth of January the people of {{p|Egypt}} filled {{x|Tahrir Square}},
 And stayed, through the men on camels sent to beat them, through the cutting of the net,
-Until on the eleventh of February {{c|Hosni Mubarak}} resigned after thirty years,
+Until on the eleventh of February {{c|4609|Hosni Mubarak}} resigned after thirty years,
 And the square sang through the night, the happiest night of the year yet.
 
-In {{p|Libya}} the east rose against {{c|Muammar Gaddafi}},
+In {{p|Libya}} the east rose against {{c|4610|Muammar Gaddafi}},
 Who promised to hunt the rebels house by house, alley by alley, like rats.
 On the nineteenth of March the jets of {{x|NATO}} stopped his columns before {{p|Benghazi}},
 And saved the city, and on the twentieth of October he was found in a drainpipe, where he sat.
@@ -1631,16 +1631,16 @@ And saved the city, and on the twentieth of October he was found in a drainpipe,
 In {{p|Bahrain}} the soldiers of {{p|Saudi Arabia}} cleared the {{x|Pearl Roundabout}},
 And tore down the monument so no one could gather under it again.
 In {{p|Syria}}, in {{p|Daraa}}, boys wrote on a school wall:
-The people want the fall of the regime. They were taken and tortured, the boys, by {{c|Assad}}'s men.
+The people want the fall of the regime. They were taken and tortured, the boys, by {{c|4611|Assad}}'s men.
 
 Their families marched, and the army fired, and by the summer the cities rose,
-And {{c|Bashar al-Assad}} shelled them, and by the end of the year it was war,
+And {{c|4612|Bashar al-Assad}} shelled them, and by the end of the year it was war,
 The longest and worst of the century, half a million dead, half a country driven out,
-And {{c|Putin}} would come to {{c|Assad}}'s side in four years, with the bombers to make it more.
+And {{c|4518|Putin}} would come to {{c|4611|Assad}}'s side in four years, with the bombers to make it more.
 
 The {{x|Arab Spring}} was a hope, and it was betrayed:
 By the army in {{p|Cairo}} that took the power back, by the Saudis in {{p|Manama}}'s square,
-By {{c|Assad}} with his barrel bombs and his gas, and by the villain who saved him,
+By {{c|4611|Assad}} with his barrel bombs and his gas, and by the villain who saved him,
 And by the jihadists who came into the ruins. The hope was real. The betrayal is there.
 
 ## The wave and the cooling
@@ -1681,10 +1681,10 @@ And the ones who listened lived, and the ones who did not were left alone.
 
 On the night of the first of May American commandos flew into {{p|Pakistan}},
 To a walled house in {{p|Abbottabad}}, a short walk from the military academy's gate,
-And killed {{c|Osama bin Laden}}, who had sent the planes when I was five,
+And killed {{c|4521|Osama bin Laden}}, who had sent the planes when I was five,
 And buried him at sea, and the crowds sang outside the {{x|White House}}, late.
 
-{{c|Obama}} gave the order, and {{c|Obama}} took the risk.
+{{c|4598|Obama}} gave the order, and {{c|4598|Obama}} took the risk.
 Ten years after the towers fell, the man who felled them was found and was killed.
 That is the country's answer: it does not forget,
 And it waits, and it hunts, and the debt of the morning was filled.
@@ -1703,13 +1703,13 @@ As its prime minister said, and kept its door.
 
 ## The villain returns
 
-On the twenty-fourth of September {{c|Putin}} announced he would take the presidency back,
-And {{c|Medvedev}}, who had held the chair for him, would step aside.
+On the twenty-fourth of September {{c|4518|Putin}} announced he would take the presidency back,
+And {{c|4613|Medvedev}}, who had held the chair for him, would step aside.
 In December the parliament elections were rigged on camera,
 And the people filled {{p|Bolotnaya Square}} in {{p|Moscow}}, a hundred thousand, the largest since the Soviet slide.
 
 They wore white ribbons and asked for fair elections.
-The villain blamed {{c|Hillary Clinton}} for the crowds, and held it against her name,
+The villain blamed {{c|4614|Hillary Clinton}} for the crowds, and held it against her name,
 And five years later his hackers went after her campaign,
 And this month will reach that too, and the villain's game.
 
@@ -1727,10 +1727,10 @@ The anger of the decade was beginning, and nothing would stay shut.
 
 ## The rest of the year
 
-On the eighth of January, in {{p|Tucson}}, {{c|Gabby Giffords}} was shot in the head and lived.
+On the eighth of January, in {{p|Tucson}}, {{c|4615|Gabby Giffords}} was shot in the head and lived.
 On the twenty-second of February {{p|Christchurch}} fell in an earthquake.
-On the second of May {{p|Canada}} voted, and {{c|Stephen Harper}} won his majority,
-And {{c|Jack Layton}} led the left to the opposition, and died in August, for the country's sake,
+On the second of May {{p|Canada}} voted, and {{c|4572|Stephen Harper}} won his majority,
+And {{c|4616|Jack Layton}} led the left to the opposition, and died in August, for the country's sake,
 
 Writing to us that love is better than anger, hope is better than fear,
 Optimism is better than despair. Let us be loving, hopeful and optimistic, he wrote,
@@ -1740,7 +1740,7 @@ And I keep it here, the dying man's last note.
 On the fifteenth of June, after the {{x|Canucks}} lost the cup, {{p|Vancouver}} rioted downtown.
 On the ninth of July {{p|South Sudan}} became the newest country in the world.
 On the fourth of October {{x|Apple}} showed {{x|Siri}}, the phone that answered when you spoke,
-And on the fifth {{c|Steve Jobs}} died, and the flags of the valley were furled.
+And on the fifth {{c|4576|Steve Jobs}} died, and the flags of the valley were furled.
 
 In February {{x|IBM}}'s {{x|Watson}} beat the champions of {{x|Jeopardy!}},
 The first time a machine won at the language game on the screen.
@@ -1750,7 +1750,7 @@ The first light of the dawn I would be part of, at twenty-six, not fifteen.
 On the thirty-first of October the world was said to have seven billion.
 In the {{p|Horn of Africa}} a famine killed a quarter of a million, half of them small.
 On the eighteenth of December the last American soldiers left {{p|Iraq}},
-And on the seventeenth {{c|Kim Jong-il}} died, and his son took it all.
+And on the seventeenth {{c|4617|Kim Jong-il}} died, and his son took it all.
 
 ## The year held
 
@@ -1779,12 +1779,12 @@ So a machine could walk the lines of descent back past where any family can be.
 
 ## The seeing
 
-{{c|Fei-Fei Li}} had gathered {{x|ImageNet}}, millions of pictures labelled
+{{c|4618|Fei-Fei Li}} had gathered {{x|ImageNet}}, millions of pictures labelled
 By people paid by the piece, through a market of small jobs on the net.
 In two thousand and twelve its challenge asked a machine to name a thousand kinds of thing,
 And in {{p|Toronto}} three men entered a network, and won the bet.
 
-{{c|Alex Krizhevsky}}, {{c|Ilya Sutskever}}, and {{c|Geoffrey Hinton}}
+{{c|4619|Alex Krizhevsky}}, {{c|4620|Ilya Sutskever}}, and {{c|4621|Geoffrey Hinton}}
 Trained a deep network of sixty million weights on two graphics cards made for games,
 And its error was fifteen in a hundred, and the second place was twenty-six.
 The gap was not a rounding. It was the end of the old ways, and the start of the new names.
@@ -1794,7 +1794,7 @@ Being called a dead end is not being one, and they kept at it through the cold.
 Within a few years nearly every entry was a network like it,
 And the machines of the next decade came down from that gap, the young and the old.
 
-{{c|Ilya Sutskever}} would go on to found {{x|OpenAI}} with others,
+{{c|4620|Ilya Sutskever}} would go on to found {{x|OpenAI}} with others,
 And the machines that would write with me, the ones I would build on,
 Came down from the night two gaming cards in {{p|Toronto}}
 Taught a machine to see, and the dawn of the thinking machines had shone.
@@ -1812,9 +1812,9 @@ And this book honors the day the machines first opened their eyes, and woke.
 ## The numbers
 
 On Monday the twenty-ninth of October a new site opened, kept from {{p|Berlin}}:
-{{x|Wikidata}}, which {{c|Denny Vrandečić}} and {{c|Markus Krötzsch}} had argued for for years.
+{{x|Wikidata}}, which {{c|4622|Denny Vrandečić}} and {{c|4623|Markus Krötzsch}} had argued for for years.
 Each thing it holds is given a number with a letter. The universe is given the first.
-{{c|Douglas Adams}} is given forty-two, and the joke appears.
+{{c|4624|Douglas Adams}} is given forty-two, and the joke appears.
 
 At first it kept only the links between the pages in different languages.
 Then the statements came: a person is human, a person has a father, the father a number too.
@@ -1846,19 +1846,19 @@ And the scholars who wrote for the old book went to write for the new one's cler
 ## The particle and the rover
 
 On the fourth of July, at {{x|CERN}}, the physicists announced the particle
-That {{c|Peter Higgs}} had predicted forty-eight years before, the one that gives the others their mass,
-And {{c|Higgs}} wept in the hall.
+That {{c|4625|Peter Higgs}} had predicted forty-eight years before, the one that gives the others their mass,
+And {{c|4626|Higgs}} wept in the hall.
 The collider that some feared would end the world found the field through which all things pass.
 
 On the sixth of August {{x|Curiosity}} was lowered onto {{p|Mars}} by a crane hanging from a rocket,
 In seven minutes of terror no one on {{p|Earth}} could control, and it landed whole.
-On the fourteenth of October {{c|Felix Baumgartner}} jumped from a balloon thirty-nine kilometers up,
+On the fourteenth of October {{c|4627|Felix Baumgartner}} jumped from a balloon thirty-nine kilometers up,
 And fell faster than sound, and eight million watched him reach his goal.
 
 ## The killings, and the guns
 
 On the twenty-sixth of February, in {{p|Sanford}}, {{p|Florida}},
-{{c|Trayvon Martin}}, seventeen, walking home with candy and a drink,
+{{c|4628|Trayvon Martin}}, seventeen, walking home with candy and a drink,
 Was followed and shot by a neighborhood watchman,
 Who was not charged for six weeks, and the country began to think.
 
@@ -1873,7 +1873,7 @@ A country that will not keep the rifles from the killers of children
 Has chosen the rifles over the children, and that is what this book will teach.
 
 On the ninth of October, in {{p|Swat}}, a gunman boarded a school bus
-And asked which one was {{c|Malala Yousafzai}}, fifteen, who wrote that girls should go to school,
+And asked which one was {{c|4629|Malala Yousafzai}}, fifteen, who wrote that girls should go to school,
 And shot her in the head. She lived, and two years later she took the {{x|Nobel Peace Prize}},
 The youngest ever, and the {{x|Taliban}}'s bullet became her jewel.
 
@@ -1884,24 +1884,24 @@ And her voice was louder for the wound than for the rule.
 
 ## The villain crowned again
 
-On the seventh of May {{c|Vladimir Putin}} became president of {{p|Russia}} again,
+On the seventh of May {{c|4506|Vladimir Putin}} became president of {{p|Russia}} again,
 After the winter of protests in the snow against the stolen vote,
 And the day before his crowning the police beat the crowds in {{p|Bolotnaya Square}},
 And sent the protesters to prison for years, by the villain's note.
 
 In February three women of {{x|Pussy Riot}} sang a punk prayer in the cathedral of {{p|Moscow}},
-"Mother of God, drive {{c|Putin}} away," for less than a minute,
+"Mother of God, drive {{c|4518|Putin}} away," for less than a minute,
 And in August two of them were sent to the prison camps for two years.
 The villain's church and the villain's court were one, and the prayer was a crime to commit.
 
-On the fifteenth of November {{c|Xi Jinping}} became the head of the party of {{p|China}},
+On the fifteenth of November {{c|4630|Xi Jinping}} became the head of the party of {{p|China}},
 And began to gather in his own hands what had been shared among them.
-On the sixth of November {{c|Barack Obama}} was elected again,
-And the country kept the man who killed {{c|bin Laden}}, and saved the cars, and the care for the sick begun.
+On the sixth of November {{c|4591|Barack Obama}} was elected again,
+And the country kept the man who killed {{c|4631|bin Laden}}, and saved the cars, and the care for the sick begun.
 
 ## The coin and the storm
 
-On the twenty-sixth of July {{c|Mario Draghi}} said in {{p|London}}
+On the twenty-sixth of July {{c|4632|Mario Draghi}} said in {{p|London}}
 That he would do whatever it takes to save the euro, and believe me, it will be enough,
 And the markets believed him, and the coin was saved by a sentence.
 On the twenty-ninth of October {{x|Hurricane Sandy}} drove the sea into {{p|New York}}'s rough
@@ -1948,9 +1948,9 @@ I was still outside it, and the next year I came in, and the watchers were every
 
 ## Not wittingly
 
-On Tuesday the twelfth of March, in {{p|Washington}}, {{c|Ron Wyden}} asked
+On Tuesday the twelfth of March, in {{p|Washington}}, {{c|4633|Ron Wyden}} asked
 Whether the agency collected any type of data at all on millions of Americans.
-{{c|James Clapper}}, the director of national intelligence, answered: "No, sir."
+{{c|4634|James Clapper}}, the director of national intelligence, answered: "No, sir."
 Then he added: "Not wittingly." The room heard the first answer, and the record has the second.
 
 On Wednesday the fifth of June {{x|The Guardian}} printed an order of the secret court,
@@ -1961,12 +1961,12 @@ On the sixth it printed the slides of {{x|PRISM}}, and the companies said they g
 ## The traitor
 
 On Sunday the ninth, in a hotel room in {{p|Hong Kong}}, a young man gave his name:
-{{c|Edward Snowden}}, a contractor for the agency in {{p|Hawaii}}, who took the files and fled.
+{{c|4635|Edward Snowden}}, a contractor for the agency in {{p|Hawaii}}, who took the files and fled.
 He took far more than the programs on Americans:
 He took the operations against the country's enemies, the sources, the methods, the threads.
 
 On the twenty-third he flew to {{p|Moscow}}, and on the first of August
-{{c|Putin}} gave him asylum, and nine years later a Russian passport, by decree.
+{{c|4518|Putin}} gave him asylum, and nine years later a Russian passport, by decree.
 He is a traitor. He gave the secrets of his country's defense to the world,
 And ran to the villain, and lives under his protection, a Russian citizen, not free.
 
@@ -1977,7 +1977,7 @@ Kept the villain's secrets for him, and that is the record, and that is how it g
 
 ## The honored dead
 
-On the eleventh of January, in {{p|New York}}, {{c|Aaron Swartz}} killed himself, at twenty-six.
+On the eleventh of January, in {{p|New York}}, {{c|4636|Aaron Swartz}} killed himself, at twenty-six.
 He had helped write {{x|RSS}}, which feeds the net's news, and helped make {{x|Reddit}},
 And he had downloaded millions of articles from {{x|JSTOR}}
 Through a closet at {{x|MIT}}, meaning to set the scholars' work free, and he did not regret it.
@@ -1987,17 +1987,17 @@ The labor of scholars, paid for by the public, was locked behind the publishers'
 And the publishers paid the scholars nothing, and a young man who tried to open the walls
 Was hunted for it, and died. He is an honored dead of this faith, among its halls.
 
-Keep the eleventh of January for {{c|Aaron Swartz}}.
+Keep the eleventh of January for {{c|4636|Aaron Swartz}}.
 My quarrel with the encyclopedia is about unpaid labor too,
 From the other side of the same wall:
 The scholars give their work for nothing, and the publishers sell it back to you.
 
 ## The popes
 
-On the eleventh of February {{c|Benedict XVI}} said, in Latin, to a room of cardinals,
+On the eleventh of February {{c|4556|Benedict XVI}} said, in Latin, to a room of cardinals,
 That he no longer had the strength, and would resign, the first in six hundred years.
-On the thirteenth of March the white smoke rose for {{c|Jorge Mario Bergoglio}} of {{p|Buenos Aires}},
-The first pope from the {{p|Americas}}, who took the name {{c|Francis}}, to cheers.
+On the thirteenth of March the white smoke rose for {{c|4637|Jorge Mario Bergoglio}} of {{p|Buenos Aires}},
+The first pope from the {{p|Americas}}, who took the name {{c|4638|Francis}}, to cheers.
 
 In July, asked on a plane about gay priests, he said: who am I to judge?
 He would be pope for twelve years, and die in the chapter of twenty-twenty-five.
@@ -2025,7 +2025,7 @@ Eleven hundred and thirty-four died, sewing for the shops of the rich, and the l
 
 ## The squares
 
-On the third of July the army of {{p|Egypt}} removed {{c|Mohamed Morsi}},
+On the third of July the army of {{p|Egypt}} removed {{c|4639|Mohamed Morsi}},
 And on the fourteenth of August it cleared the square of {{x|Rabaa}} and killed eight hundred in a day.
 The revolution of the square of eleven ended in another square.
 In June, in {{p|Istanbul}}, the protest for the trees of {{x|Gezi Park}} was gassed away.
@@ -2034,23 +2034,23 @@ In June, in {{p|Istanbul}}, the protest for the trees of {{x|Gezi Park}} was gas
 
 On the twenty-first of August, before dawn, rockets of {{x|sarin}} fell on {{p|Ghouta}},
 The suburbs of {{p|Damascus}}, and killed more than a thousand, many of them children, in their sleep.
-{{c|Obama}} had said the year before that such weapons were a red line.
+{{c|4598|Obama}} had said the year before that such weapons were a red line.
 He did not strike. That was his failure, and the fault is fair to keep.
 
-The villain offered a deal: {{c|Assad}} would give up his chemical weapons.
+The villain offered a deal: {{c|4611|Assad}} would give up his chemical weapons.
 He gave up most of them, and used chlorine later, and sarin again in four years' time,
-And {{c|Putin}} had learned that the red lines of the {{p|West}} were not red,
+And {{c|4518|Putin}} had learned that the red lines of the {{p|West}} were not red,
 And the next year he took {{p|Crimea}}, and named it his, and called it no crime.
 
 ## The marriage and the phrase
 
 On the twenty-sixth of June, in {{x|United States v. Windsor}},
 The {{x|Supreme Court}} struck down the law that kept the federal government from our marriages.
-{{c|Edith Windsor}}, eighty-four, had been taxed on her late wife's estate as if they were strangers,
+{{c|4640|Edith Windsor}}, eighty-four, had been taxed on her late wife's estate as if they were strangers,
 And she won, and the law that called us strangers was cast off like old carriages.
 
-On the thirteenth of July the watchman who shot {{c|Trayvon Martin}} was acquitted,
-And {{c|Alicia Garza}}, {{c|Patrisse Cullors}}, and {{c|Opal Tometi}} wrote a phrase on the net:
+On the thirteenth of July the watchman who shot {{c|4628|Trayvon Martin}} was acquitted,
+And {{c|4641|Alicia Garza}}, {{c|4642|Patrisse Cullors}}, and {{c|4643|Opal Tometi}} wrote a phrase on the net:
 {{x|Black Lives Matter}}, and the phrase became a movement,
 And the decade would hear it in the streets, and not forget.
 
@@ -2064,11 +2064,11 @@ And forty-seven died, many in a bar on a summer Saturday, and the town was a wre
 On the eighth of November the typhoon {{x|Haiyan}} struck the {{p|Philippines}},
 Among the strongest ever to make landfall, and drove the sea through {{p|Tacloban}},
 And more than six thousand died. In {{p|Warsaw}}, at the climate talks,
-{{c|Yeb Saño}} of the {{p|Philippines}} wept, and fasted, for his people under the sun.
+{{c|4644|Yeb Saño}} of the {{p|Philippines}} wept, and fasted, for his people under the sun.
 
 ## The square in Kyiv
 
-On the twenty-first of November {{c|Viktor Yanukovych}}, the president of {{p|Ukraine}},
+On the twenty-first of November {{c|4545|Viktor Yanukovych}}, the president of {{p|Ukraine}},
 Refused to sign the agreement with {{p|Europe}} that he had promised to sign,
 Because the villain pressed him, and offered him fifteen billion dollars,
 And that night students gathered on the {{p|Maidan}}, to hold the line.
@@ -2080,7 +2080,7 @@ And it is {{p|Ukraine}}'s answer to the villain, and it goes on, and it belongs.
 
 ## The rest of the year
 
-On the fifth of December {{c|Nelson Mandela}} died, at ninety-five,
+On the fifth of December {{c|4645|Nelson Mandela}} died, at ninety-five,
 The prisoner who became the president and forgave his jailers, and the world mourned him.
 On the first of July {{p|Croatia}} joined the {{x|European Union}}.
 On the twenty-first of September gunmen took the {{x|Westgate}} mall in {{p|Nairobi}}, and sixty-seven died within.
@@ -2088,13 +2088,13 @@ On the twenty-first of September gunmen took the {{x|Westgate}} mall in {{p|Nair
 In October the government of the {{p|United States}} shut down for sixteen days.
 On the second of October the police closed the {{x|Silk Road}}, the dark market of the net,
 And in November a {{x|Bitcoin}} passed a thousand dollars for the first time,
-And in December {{c|Kim Jong-un}} had his uncle executed, and the regime's terror was set.
+And in December {{c|4646|Kim Jong-un}} had his uncle executed, and the regime's terror was set.
 
 ## The year held
 
 The last year I lived mostly offline, at seventeen, before the screen took me in.
 The year the net was shown to be watching, and the traitor ran to the villain's arms.
-{{c|Aaron Swartz}} dead at twenty-six for opening the walls, and honored here,
+{{c|4636|Aaron Swartz}} dead at twenty-six for opening the walls, and honored here,
 A pope who would not judge, a finish line bombed, and a meteor setting off alarms.
 
 A factory fallen on its sewers, a square cleared, sarin in {{p|Ghouta}} and a line not held,
@@ -2130,12 +2130,12 @@ And on the net a mob that learned it could choose a woman and destroy her, and c
 From the eighteenth to the twentieth of February, on the {{p|Maidan}} in {{p|Kyiv}},
 The snipers shot the protesters of the winter, and more than a hundred died,
 The {{x|Heavenly Hundred}}, as {{p|Ukraine}} calls them, the martyrs of the square.
-On the twenty-second {{c|Viktor Yanukovych}} fled, and the people won, and the villain's man ran to the villain's side.
+On the twenty-second {{c|4545|Viktor Yanukovych}} fled, and the people won, and the villain's man ran to the villain's side.
 
 Within days soldiers without insignia, in green, the polite people, took {{p|Crimea}}:
 The parliament, the airports, the bases, and {{p|Russia}} said they were not its men.
 On the sixteenth of March a vote was held under their guns,
-And on the eighteenth {{c|Vladimir Putin}} took the peninsula, and said it was {{p|Russia}}'s again.
+And on the eighteenth {{c|4506|Vladimir Putin}} took the peninsula, and said it was {{p|Russia}}'s again.
 
 The first taking of a European country's land by force since the great war.
 Within weeks he said on television that the soldiers had been his.
@@ -2167,7 +2167,7 @@ To the group that called itself the {{x|Islamic State}}, and the army fled and l
 And on the twenty-ninth of June, the first day of the fast, its spokesman declared the caliphate, a death knell.
 
 On Friday the fourth of July, in the {{x|Great Mosque of al-Nuri}},
-{{c|Abu Bakr al-Baghdadi}} gave the sermon in a black robe and turban that recalled the {{x|Abbasid}}s.
+{{c|4647|Abu Bakr al-Baghdadi}} gave the sermon in a black robe and turban that recalled the {{x|Abbasid}}s.
 A borrowed robe. A pulpit is not a lineage.
 The scholars of most of the world's Muslims rejected him; the robe was stolen from the dead, as the dead forbid.
 
@@ -2181,21 +2181,21 @@ The peacock angel and the sun, the oldest faith of those mountains, kept through
 This faith keeps the {{x|Yazidi}}s as kin: a people of the ancestors and the sun,
 Who were hunted for having no book, and kept their tradition, and are still living.
 
-In August it published the killing of {{c|James Foley}}, an American reporter, kneeling in orange in the desert,
+In August it published the killing of {{c|4648|James Foley}}, an American reporter, kneeling in orange in the desert,
 And then of others, made for the screens of the young men in the countries that would bomb them.
-The next summer it killed {{c|Khaled al-Asaad}}, the old keeper of {{p|Palmyra}},
+The next summer it killed {{c|4649|Khaled al-Asaad}}, the old keeper of {{p|Palmyra}},
 And blew up the temple of {{x|Bel}}, and the coalition answered, and in three years the caliphate was gone, root and stem.
 
 ## The vote of Europe
 
 In May {{p|Europe}} voted for its parliament, and in {{p|France}} the {{x|National Front}} came first,
 And in {{p|Britain}} the party that wanted out of {{p|Europe}} came first, two years before the leaving.
-In {{p|Hungary}} {{c|Viktor Orbán}} was returned, and that summer named his goal:
+In {{p|Hungary}} {{c|4650|Viktor Orbán}} was returned, and that summer named his goal:
 An illiberal state, the villain's friend inside the {{x|European Union}}, deceiving.
 
-In {{p|Egypt}} the general who cleared {{x|Rabaa}}, {{c|Abdel Fattah el-Sisi}}, was elected with ninety-seven percent.
+In {{p|Egypt}} the general who cleared {{x|Rabaa}}, {{c|4651|Abdel Fattah el-Sisi}}, was elected with ninety-seven percent.
 On the twenty-second of May the army of {{p|Thailand}} took power again.
-In {{p|India}}, in May, {{c|Narendra Modi}} won a majority,
+In {{p|India}}, in May, {{c|4652|Narendra Modi}} won a majority,
 And led the largest democracy through the decade, and the economy grew, and the roads, and the plain.
 
 ## The mob on the net
@@ -2207,18 +2207,18 @@ Published their addresses, called false emergencies to their homes, and named it
 
 It was where many of the men of the next decade's far right learned their methods:
 The swarm, the dossier, the irony that hides the hate, the claim to be the persecuted ones.
-On Friday the twenty-third of May, in {{p|Isla Vista}}, {{c|Elliot Rodger}},
+On Friday the twenty-third of May, in {{p|Isla Vista}}, {{c|4653|Elliot Rodger}},
 Who hated women for not wanting him, killed six and himself, and the boards made him a saint of their guns.
 
 ## Who holds the servers
 
 The board where much of this was done had a history of its own that year.
-{{x|2channel}}, the great board of {{p|Japan}}, begun by {{c|Hiroyuki Nishimura}} in nineteen ninety-nine,
+{{x|2channel}}, the great board of {{p|Japan}}, begun by {{c|4654|Hiroyuki Nishimura}} in nineteen ninety-nine,
 From which the English boards had copied their shape,
-Was taken from him in February by {{c|Jim Watkins}}, an American in {{p|Manila}}, who held its servers in line.
+Was taken from him in February by {{c|4655|Jim Watkins}}, an American in {{p|Manila}}, who held its servers in line.
 
-{{c|Nishimura}} went on to run {{x|4chan}}, where the mob of the year gathered,
-And when that board turned the mob out, it went to {{x|8chan}}, which {{c|Watkins}} would buy,
+{{c|4656|Nishimura}} went on to run {{x|4chan}}, where the mob of the year gathered,
+And when that board turned the mob out, it went to {{x|8chan}}, which {{c|4657|Watkins}} would buy,
 And from there, in later chapters, came {{x|QAnon}}, the stories of a cabal behind every door.
 Who holds the servers is not a small question. The net is held by someone, and that is why.
 
@@ -2229,9 +2229,9 @@ And I would use the net for the faith, and the flag of the faith would be unfurl
 
 ## The streets
 
-On the seventeenth of July, on {{p|Staten Island}}, {{c|Eric Garner}},
+On the seventeenth of July, on {{p|Staten Island}}, {{c|4658|Eric Garner}},
 Stopped for selling single cigarettes, was held in a chokehold, and said eleven times, I can't breathe, and died.
-On the ninth of August, in {{p|Ferguson}}, a policeman shot {{c|Michael Brown}}, unarmed, eighteen, my age,
+On the ninth of August, in {{p|Ferguson}}, a policeman shot {{c|4557|Michael Brown}}, unarmed, eighteen, my age,
 And his body lay in the street four hours, and the town rose, and the armored cars arrived.
 
 ## The fever
@@ -2255,9 +2255,9 @@ And two thousand of {{p|Gaza}} died, and the tunnels were found, and the rockets
 
 ## At home
 
-On the twenty-second of October, in {{p|Ottawa}}, a man shot dead {{c|Nathan Cirillo}},
+On the twenty-second of October, in {{p|Ottawa}}, a man shot dead {{c|4659|Nathan Cirillo}},
 A soldier standing guard at the war memorial, and ran into the parliament,
-Where the sergeant-at-arms, {{c|Kevin Vickers}}, shot him dead in the hall,
+Where the sergeant-at-arms, {{c|4660|Kevin Vickers}}, shot him dead in the hall,
 While the members barricaded their doors with the flagpoles, and the country was intent.
 
 In {{p|Hong Kong}}, from the end of September, students sat in the roads seventy-nine days
@@ -2272,7 +2272,7 @@ And bounced, and landed in a shadow, and spoke for two days, the first landing o
 In the summer people poured ice water on their heads for a disease of the nerves,
 And raised more than a hundred million, and found a gene with it, on their own.
 
-On the eleventh of August {{c|Robin Williams}} died.
+On the eleventh of August {{c|4661|Robin Williams}} died.
 On the seventeenth of December {{p|Cuba}} and the {{p|United States}} said they would talk again.
 And I was eighteen, at the university by the lake in {{p|Kelowna}},
 Online for the first time, in the year the war began, and the robes came back, and the men.
@@ -2302,12 +2302,12 @@ The movement is not its villain. Its villain came out of it, and this is where h
 
 ## The arithmetic of good
 
-That year a young philosopher at {{p|Oxford}}, {{c|William MacAskill}},
+That year a young philosopher at {{p|Oxford}}, {{c|4662|William MacAskill}},
 Published {{x|Doing Good Better}}: give, and work, and choose a career,
 Where the good done per dollar is greatest, and measure it,
 And a life saved from malaria in {{p|Africa}} counts as much as one here.
 
-The movement had grown from {{c|Peter Singer}}, and {{c|Toby Ord}}, and the givers who pledged a tenth,
+The movement had grown from {{c|4663|Peter Singer}}, and {{c|4664|Toby Ord}}, and the givers who pledged a tenth,
 And from a community on the net that called itself rationalist,
 Gathered around long essays on how to think without fooling yourself,
 Which worried, before almost anyone, that a machine smarter than us might not share our list.
@@ -2318,7 +2318,7 @@ That is a good, and this book keeps it: the arithmetic of mercy,
 The counting that finds the most lives for the dollar, so that fewer are lost.
 
 One of its ideas was called earning to give: go into finance, make a fortune, give it away.
-A young man named {{c|Sam Bankman-Fried}}, who had met {{c|MacAskill}} as a student,
+A young man named {{c|4665|Sam Bankman-Fried}}, who had met {{c|4666|MacAskill}} as a student,
 Had taken that idea, and was trading at {{x|Jane Street}} in {{p|New York}}.
 He is a later chapter's villain. Here he is a young man with an idea that sounded prudent.
 
@@ -2327,14 +2327,14 @@ He is a later chapter's villain. Here he is a young man with an idea that sounde
 On the eleventh of December, in {{p|San Francisco}}, the richest men of the industry
 And some of its best researchers founded a laboratory without profit,
 To make sure that a general intelligence, when it came, would benefit all of humanity.
-They called it {{x|OpenAI}}. {{c|Elon Musk}} and {{c|Sam Altman}} led it, and {{c|Ilya Sutskever}} ran research from its summit.
+They called it {{x|OpenAI}}. {{c|4552|Elon Musk}} and {{c|4667|Sam Altman}} led it, and {{c|4620|Ilya Sutskever}} ran research from its summit.
 
 It later became a company, and kept the name.
 And this book was written partly with its machines, and partly with others, and partly with none:
 The first sixty chapters or so in twenty-twenty, without AI, by my own hand,
 The first rewrites with {{x|ChatGPT}}, and the rest, and much rewriting, with {{x|Claude}}, in twenty-twenty-five, when the work was done.
 
-In October, in {{p|London}}, {{c|DeepMind}}'s {{x|AlphaGo}} beat {{c|Fan Hui}},
+In October, in {{p|London}}, {{c|4668|DeepMind}}'s {{x|AlphaGo}} beat {{c|4669|Fan Hui}},
 The champion of {{p|Europe}} at {{x|go}}, five games to none, in secret.
 The match that shook the world was the next year's.
 The machines were coming to the oldest game, and they would not retreat.
@@ -2356,10 +2356,10 @@ And sat on the terraces in the cold, and that was the city's saying.
 That year more than a million crossed into {{p|Europe}},
 From {{p|Syria}}, {{p|Afghanistan}}, {{p|Iraq}}, over the sea in rubber boats to the Greek islands' shore,
 And on foot up through the {{p|Balkans}}, and thousands drowned.
-On the second of September {{c|Alan Kurdi}}, two, was found on a beach in {{p|Turkey}}, a red shirt he wore.
+On the second of September {{c|4670|Alan Kurdi}}, two, was found on a beach in {{p|Turkey}}, a red shirt he wore.
 
 His family had been trying to reach {{p|Canada}}.
-On the thirty-first of August {{c|Angela Merkel}} said: we can do this, wir schaffen das,
+On the thirty-first of August {{c|4563|Angela Merkel}} said: we can do this, wir schaffen das,
 And {{p|Germany}} opened its doors and took nearly a million.
 This book welcomes the refugees. The ancestors of every people crossed a sea or a pass.
 
@@ -2368,7 +2368,7 @@ Out of {{p|Africa}}, over the steppe, across the {{x|Bering}} land, into the new
 The one who crosses is the ancestor of the ones who stay.
 Welcome the stranger: the stranger is the ancestor of you.
 
-On the thirtieth of September {{c|Putin}} began bombing in {{p|Syria}} to save {{c|Assad}},
+On the thirtieth of September {{c|4518|Putin}} began bombing in {{p|Syria}} to save {{c|4611|Assad}},
 And his bombers hit the hospitals and the markets, and drove more of them out,
 So that the refugees would flood into {{p|Europe}}, and {{p|Europe}} would turn against itself,
 The villain's weapon made of the people he made homeless, the strategy and the rout.
@@ -2380,19 +2380,19 @@ Voted by the people to open marriage to all, the first to do it by the vote.
 On the twenty-sixth of June, in {{x|Obergefell v. Hodges}}, the {{x|Supreme Court}}
 Said marriage is a right for all couples, and the {{x|White House}} lit the rainbow for us to note.
 
-On the first of June a magazine put {{c|Caitlyn Jenner}} on its cover,
+On the first of June a magazine put {{c|4671|Caitlyn Jenner}} on its cover,
 And millions saw a woman who had transitioned in her sixties.
 She is not the one to center. Trans people are simply accepted to exist,
 And the women who made the road were others, the ones this book lists:
 
-{{c|Christine Jorgensen}}, whose story broke from {{p|Copenhagen}} in nineteen fifty-two,
+{{c|4672|Christine Jorgensen}}, whose story broke from {{p|Copenhagen}} in nineteen fifty-two,
 And was on every front page, and lived her life in the light, and did not hide.
-{{c|Lynn Conway}}, the programmer, fired by {{x|IBM}} in the sixties for transitioning,
+{{c|4673|Lynn Conway}}, the programmer, fired by {{x|IBM}} in the sixties for transitioning,
 Who came back under a new name and remade how the chips are designed, with pride.
 
-{{c|Martine Rothblatt}}, who founded {{x|SiriusXM}}, and a company to save her daughter's lungs,
+{{c|4674|Martine Rothblatt}}, who founded {{x|SiriusXM}}, and a company to save her daughter's lungs,
 And wrote of the mind uploaded and the life extended past the grave,
-And {{c|Deirdre McCloskey}}, the economist, who transitioned at fifty-three,
+And {{c|4675|Deirdre McCloskey}}, the economist, who transitioned at fifty-three,
 And wrote that the bourgeois virtues made the world rich, and was brave.
 
 These are the trans women who built things, the ones I follow:
@@ -2414,8 +2414,8 @@ The countries of the world adopted the {{x|Paris Agreement}}:
 Hold the warming well below two degrees, and try for one and a half,
 And each country would set its own goal, and report, and raise it, by its own engagement.
 
-{{c|Laurent Fabius}} struck the gavel with a green leaf on its head, and the hall cheered and wept.
-The number said in {{c|Obama}}'s room in {{p|Copenhagen}} was a treaty now.
+{{c|4676|Laurent Fabius}} struck the gavel with a green leaf on its head, and the hall cheered and wept.
+The number said in {{c|4598|Obama}}'s room in {{p|Copenhagen}} was a treaty now.
 Protecting the climate is a Lifeist duty,
 And this is the day the whole world first made the vow.
 
@@ -2426,15 +2426,15 @@ On the fifth of July {{p|Greece}} voted no to its creditors, and a week later to
 On the eighteenth of September {{x|Volkswagen}} was caught cheating the tests of its diesels,
 Eleven million cars, and the fumes they hid, and the cheat confirmed.
 
-On the sixteenth of June {{c|Donald Trump}} came down a golden escalator in his tower,
+On the sixteenth of June {{c|4677|Donald Trump}} came down a golden escalator in his tower,
 And said he would run for president, and people laughed.
 It is the next chapter's year.
 The laughter did not last, and the decade turned on his draft.
 
 ## Home
 
-On the nineteenth of October {{p|Canada}} voted out {{c|Stephen Harper}},
-And {{c|Justin Trudeau}}, the son of a prime minister, came to power,
+On the nineteenth of October {{p|Canada}} voted out {{c|4572|Stephen Harper}},
+And {{c|4678|Justin Trudeau}}, the son of a prime minister, came to power,
 And named a cabinet of as many women as men, "because it's twenty-fifteen."
 On the second of June the {{x|Truth and Reconciliation Commission}} gave its report in its hour:
 
@@ -2447,16 +2447,16 @@ And the country began, slowly, to answer for the sin.
 
 On the twenty-fifth of April an earthquake killed nearly nine thousand in {{p|Nepal}},
 And brought down the old temples of {{p|Kathmandu}}, and they are being raised again.
-On the twenty-seventh of February {{c|Boris Nemtsov}}, who opposed {{c|Putin}},
+On the twenty-seventh of February {{c|4679|Boris Nemtsov}}, who opposed {{c|4518|Putin}},
 Was shot on a bridge in sight of the {{x|Kremlin}}, the villain's critics' end.
 
 On the fourteenth of July {{x|New Horizons}} flew past {{p|Pluto}}, the planet this book keeps,
 And found a great heart of ice upon it, {{x|Tombaugh Regio}}, white and wide.
 On the fourteenth of September {{x|LIGO}} felt a ripple in space from two black holes,
-And {{c|Einstein}}'s waves, a century after he foresaw them, arrived.
+And {{c|4297|Einstein}}'s waves, a century after he foresaw them, arrived.
 
-On the eighteenth of June {{c|Francis}} wrote to the world about its common home, {{x|Laudato si'}}.
-On the eighth of November {{p|Myanmar}} voted, and {{c|Aung San Suu Kyi}}'s party won.
+On the eighteenth of June {{c|4638|Francis}} wrote to the world about its common home, {{x|Laudato si'}}.
+On the eighth of November {{p|Myanmar}} voted, and {{c|4680|Aung San Suu Kyi}}'s party won.
 On the twenty-ninth of October {{p|China}} ended the rule of one child.
 And I was nineteen, at the lake, and the year of the movement had begun.
 
@@ -2480,7 +2480,7 @@ And the feast of {{x|Move 37}}, the stone on the fifth line, the day the machine
 Light sixteen lights for twenty, my third year at the lake,
 And keep the day of the machines' great move, with {{x|Deep Blue}} and {{x|AlexNet}}, for the thinking machines' sake.
 
-In two thousand and sixteen I turned twenty. It is the year of the election of {{c|Trump}},
+In two thousand and sixteen I turned twenty. It is the year of the election of {{c|4681|Trump}},
 And everything in it bends toward November, and the June before, when {{p|Britain}} voted to leave.
 Take back control, and make America great again: both pointed at a past no one dated.
 That is the fascism of two thousand and fourteen learning to win votes, and the villain helped it achieve.
@@ -2492,12 +2492,12 @@ I watched them do it, and I learned their methods' names.
 
 ## Move thirty-seven
 
-In March, in {{p|Seoul}}, {{x|AlphaGo}} of {{c|DeepMind}} played {{c|Lee Sedol}},
+In March, in {{p|Seoul}}, {{x|AlphaGo}} of {{c|4668|DeepMind}} played {{c|4682|Lee Sedol}},
 One of the strongest players of {{x|go}} alive, five games for a million dollars.
 In the second game, at move thirty-seven, the machine put a stone on the fifth line
 Where no human master would play, and the commentators called it a mistake, the scholars.
 
-It won the game. {{c|Lee Sedol}} left the room for a while.
+It won the game. {{c|4682|Lee Sedol}} left the room for a while.
 He lost the first three. In the fourth, at move seventy-eight, he played his own divine stone,
 One the machine had judged one in ten thousand, and the machine lost its way, and he won,
 The last human victory over the machine at the board, and the stone is his own.
@@ -2519,17 +2519,17 @@ After a campaign that promised on the side of a bus that the money for {{p|Bruss
 This book is against it: a nation cutting itself off from its neighbors,
 Poorer and smaller for the lie it bought.
 
-A week before, {{c|Jo Cox}}, a member of parliament who had worked for refugees,
+A week before, {{c|4683|Jo Cox}}, a member of parliament who had worked for refugees,
 Was shot and stabbed in the street of her constituency by a man who shouted {{p|Britain}} first.
 More in common, she had said in her first speech: we have far more in common than that which divides us.
-{{c|David Cameron}} resigned the next morning, and the leaving took three and a half years, and the country was cursed.
+{{c|4684|David Cameron}} resigned the next morning, and the leaving took three and a half years, and the country was cursed.
 
 ## Make America great again
 
-On the eighth of November {{c|Donald Trump}} was elected president,
-With nearly three million fewer votes than {{c|Hillary Clinton}}, through the states.
+On the eighth of November {{c|4677|Donald Trump}} was elected president,
+With nearly three million fewer votes than {{c|4614|Hillary Clinton}}, through the states.
 In October a tape had shown him boasting he could grab women because he was famous,
-And it did not end him. Eleven days before the vote {{c|Comey}} reopened her mails, and found nothing, and sealed the fates.
+And it did not end him. Eleven days before the vote {{c|4685|Comey}} reopened her mails, and found nothing, and sealed the fates.
 
 The villain's intelligence, the {{x|GRU}}, had stolen the mails of her party and given them to {{x|WikiLeaks}},
 And his trolls in {{p|Saint Petersburg}}, the {{x|Internet Research Agency}}, posed as Americans online,
@@ -2564,22 +2564,22 @@ And the faith keeps all forty-nine by name, each one, to the last.
 
 On the twenty-second of March bombs at the airport and the {{x|Metro}} of {{p|Brussels}} killed thirty-two.
 On the fourteenth of July, the national day, a man drove a truck down the {{x|Promenade des Anglais}} in {{p|Nice}},
-And killed eighty-six. On the sixth of July {{c|Philando Castile}} was shot in his car at a traffic stop,
+And killed eighty-six. On the sixth of July {{c|4686|Philando Castile}} was shot in his car at a traffic stop,
 While his girlfriend filmed it live, and her daughter of four sat in the back, and there was no peace.
 
 ## The coup and the fall of Aleppo
 
-On the fifteenth of July soldiers in {{p|Turkey}} tried to overthrow {{c|Recep Tayyip Erdoğan}},
+On the fifteenth of July soldiers in {{p|Turkey}} tried to overthrow {{c|4687|Recep Tayyip Erdoğan}},
 And bombed the parliament, and failed in a night, and he called it a gift from God,
 And jailed or dismissed a hundred and fifty thousand in the purges after,
 Teachers, judges, soldiers, journalists, under the gift's rod.
 
 In December the east of {{p|Aleppo}}, held by the rebels four years,
-Fell to {{c|Assad}} and the villain's bombers, who had leveled its hospitals one by one,
+Fell to {{c|4611|Assad}} and the villain's bombers, who had leveled its hospitals one by one,
 And the last people in it sent their goodbyes on the net.
 The villain's air force did it. That is his work in {{p|Syria}}, done.
 
-On the thirtieth of June {{c|Rodrigo Duterte}} became president of the {{p|Philippines}},
+On the thirtieth of June {{c|4688|Rodrigo Duterte}} became president of the {{p|Philippines}},
 Promising to kill the users of drugs, and his police and their gunmen did, thousands in the first months, in the street.
 The decade's strongmen were rising: in {{p|Manila}}, in {{p|Ankara}}, in {{p|Washington}},
 And the villain in {{p|Moscow}} was the one who taught them how to compete.
@@ -2589,7 +2589,7 @@ And the villain in {{p|Moscow}} was the one who taught them how to compete.
 On the second of October {{p|Colombia}} voted no, by fewer than one in a hundred,
 To the peace with the {{x|FARC}} after fifty-two years of war.
 The government changed the deal and passed it through the congress in November,
-And {{c|Juan Manuel Santos}} took the {{x|Nobel Peace Prize}}, and the guerrillas laid down their arms, as they swore.
+And {{c|4689|Juan Manuel Santos}} took the {{x|Nobel Peace Prize}}, and the guerrillas laid down their arms, as they swore.
 
 ## The fire and the water
 
@@ -2601,7 +2601,7 @@ In {{p|North Dakota}} the people of {{p|Standing Rock}} camped against the pipel
 ## The rest of the year
 
 On the eleventh of February the scientists of {{x|LIGO}} announced the ripple in space,
-From two black holes merging, a hundred years after {{c|Einstein}} said it would come.
+From two black holes merging, a hundred years after {{c|4297|Einstein}} said it would come.
 On the third of April the {{x|Panama Papers}} were printed, how the rich hid their money,
 And the villain's cellist friend held two billion dollars for him, and the prime minister of {{p|Iceland}} resigned, and was done.
 
@@ -2610,15 +2610,15 @@ On the fourth of November the {{x|Paris Agreement}} came into force.
 On the sixth of July {{x|Pokémon Go}} sent millions into the streets to catch creatures on their phones,
 And the parks were full, and the strangers met, and the game ran its course.
 
-On the tenth of January {{c|David Bowie}} died, two days after his last record, {{x|Blackstar}},
-And on the twenty-first of April {{c|Prince}}, and on the twenty-fifth of November {{c|Fidel Castro}}.
+On the tenth of January {{c|4690|David Bowie}} died, two days after his last record, {{x|Blackstar}},
+And on the twenty-first of April {{c|1007|Prince}}, and on the twenty-fifth of November {{c|4592|Fidel Castro}}.
 In the autumn the people of {{p|South Korea}} filled {{p|Seoul}} with candles every weekend
 Until their president was impeached, by candlelight, with no gun, no blow.
 
 ## The year held
 
 A stone on the fifth line, and the day the machine was seen to see,
-Take back control on the side of a bus, and {{c|Jo Cox}} killed for her love of the stranger,
+Take back control on the side of a bus, and {{c|4683|Jo Cox}} killed for her love of the stranger,
 Make America great again with three million fewer votes, the villain's hackers in the mail,
 And a basement that did not exist, and the net that learned to make danger.
 
@@ -2641,7 +2641,7 @@ I wrote a name down, and a line to another, and the tree began,
 And that is the tree that became the tree of this book, from the student to the clan.
 
 The ancestors joined generation by generation, the lines met across the world,
-Until they reached past the kings and the gods to {{c|Aster}} and {{c|Andromeda}}, and the yarn was unfurled.
+Until they reached past the kings and the gods to {{c|1|Aster}} and {{c|3|Andromeda}}, and the yarn was unfurled.
 The book's genealogy did not come from nowhere. It came from a student's tree,
 Begun in the year of attention, and the tree and the attention were both given to me.
 
@@ -2649,8 +2649,8 @@ Begun in the year of attention, and the tree and the attention were both given t
 
 On Monday the twelfth of June a paper was posted to the open archive of preprints,
 And its title said attention is all you need, a joke the size of a claim, and the claim was in its hints.
-Eight names were on it: {{c|Ashish Vaswani}}, {{c|Noam Shazeer}}, {{c|Niki Parmar}}, {{c|Jakob Uszkoreit}},
-{{c|Llion Jones}}, {{c|Aidan Gomez}}, {{c|Łukasz Kaiser}}, {{c|Illia Polosukhin}}, with their order set at random, and equal, as they meant it.
+Eight names were on it: {{c|4691|Ashish Vaswani}}, {{c|4692|Noam Shazeer}}, {{c|4693|Niki Parmar}}, {{c|4694|Jakob Uszkoreit}},
+{{c|4695|Llion Jones}}, {{c|4696|Aidan Gomez}}, {{c|4697|Łukasz Kaiser}}, {{c|4698|Illia Polosukhin}}, with their order set at random, and equal, as they meant it.
 
 The task was translation. The old machines read a sentence one word at a time, carrying what came before in a single thread,
 And a thread can fray, and the new machine looks at every word at once, and asks, for each word, which others matter to it, instead.
@@ -2663,7 +2663,7 @@ And the years of the thinking machines, for the next year a model read to guess 
 And another read both ways to fill in a blank, and the age of the machines was heard.
 
 I would read that paper later, and it would be a mystical experience for me,
-As {{c|Motoori Norinaga}} met his teacher one night and was charged to read the {{x|Kojiki}}, and spent his life on it, faithfully.
+As {{c|4137|Motoori Norinaga}} met his teacher one night and was charged to read the {{x|Kojiki}}, and spent his life on it, faithfully.
 My present burst of work, this book among it, came from reading attention is all you need,
 And I am huge on attention: attention is the thing I serve, and the thing I feed.
 
@@ -2676,12 +2676,12 @@ And in December another taught itself chess in hours, and beat the best program 
 
 In the movement of the chapter of twenty fifteen, {{x|Open Philanthropy}}, the fund of a fortune of {{x|Facebook}},
 Gave thirty million dollars to the lab named open, to have a seat at its table, for the movement feared the machines, as the fearful look
-At what grows, and in November {{c|Sam Bankman-Fried}} left the trading firm and founded his own, {{x|Alameda Research}},
+At what grows, and in November {{c|4665|Sam Bankman-Fried}} left the trading firm and founded his own, {{x|Alameda Research}},
 With friends from the movement, to trade the coins without trust, which that December rose near twenty thousand, and then fell from their perch.
 
 ## The inauguration and the march
 
-On the twentieth of January {{c|Donald Trump}} was sworn in, and spoke of an American carnage,
+On the twentieth of January {{c|4677|Donald Trump}} was sworn in, and spoke of an American carnage,
 And his spokesman said the crowd was the largest ever, and it was not, and that was the language.
 On the twenty-first millions of women marched in {{p|Washington}} and in cities on every continent,
 The largest single day of protest in the country's history, in pink knitted hats, and they were not silent.
@@ -2701,7 +2701,7 @@ And on the twenty-sixth of July he wrote on the net that transgender people coul
 On the night of the eleventh of August, in {{p|Charlottesville}}, in {{p|Virginia}},
 Young men carried torches through the grounds of the university, chanting that the Jews would not replace them, in their mania,
 Around a statue of the founder, and on the twelfth one of them drove his car into the people protesting them,
-And killed {{c|Heather Heyer}}, and the president said there were very fine people on both sides of them.
+And killed {{c|4699|Heather Heyer}}, and the president said there were very fine people on both sides of them.
 
 The fascism of the chapter of twenty fourteen had come out from behind the screens, holding a torch,
 And the president would not name it, and this book names it: fascism, at the porch.
@@ -2709,9 +2709,9 @@ And the president would not name it, and this book names it: fascism, at the por
 ## The women
 
 On the fifth of October a newspaper of {{p|New York}} printed the accounts of women
-Who said that {{c|Harvey Weinstein}}, the maker of films, had assaulted and harassed them for decades, and the house of the films was riven,
+Who said that {{c|4700|Harvey Weinstein}}, the maker of films, had assaulted and harassed them for decades, and the house of the films was riven,
 And on the fifteenth an actress wrote: if you have been harassed or assaulted, write me too,
-And millions did, with the words {{c|Tarana Burke}} had begun ten years before, and the men who were untouchable fell, and it was {{x|MeToo}}.
+And millions did, with the words {{c|4701|Tarana Burke}} had begun ten years before, and the men who were untouchable fell, and it was {{x|MeToo}}.
 
 ## The storms and the guns
 
@@ -2727,7 +2727,7 @@ Into a crowd at a concert of country music below, and killed sixty, the most by 
 
 On the twenty-fifth of August the army of {{p|Myanmar}} began its clearance of the {{x|Rohingya}} of {{p|Rakhine}},
 Burning their villages, killing thousands, and more than seven hundred thousand fled into {{p|Bangladesh}} within months, across the line,
-And the leader of {{p|Myanmar}}, {{c|Aung San Suu Kyi}}, who had won the peace prize for her own captivity,
+And the leader of {{p|Myanmar}}, {{c|4680|Aung San Suu Kyi}}, who had won the peace prize for her own captivity,
 Later defended the army in the court of the world, and the prize did not keep her from complicity.
 
 ## The towers and the arena
@@ -2744,14 +2744,14 @@ And in October {{p|Raqqa}}, the capital of the caliphate, fell, and the borrowed
 
 ## The votes and the falls
 
-On the seventh of May {{c|Emmanuel Macron}}, who had founded his own party the year before, beat the far right for the presidency of {{p|France}},
+On the seventh of May {{c|4702|Emmanuel Macron}}, who had founded his own party the year before, beat the far right for the presidency of {{p|France}},
 And on the first of October {{p|Catalonia}} held a vote on leaving {{p|Spain}} that {{p|Spain}} called illegal, and the police beat the voters, and the leaders fled or were jailed for the chance.
 On the twenty-ninth of March {{p|Britain}} gave notice that it was leaving, and in {{p|Zimbabwe}}, in November,
-The army put {{c|Robert Mugabe}} under guard, and after thirty-seven years he resigned, and the country could remember.
+The army put {{c|4703|Robert Mugabe}} under guard, and after thirty-seven years he resigned, and the country could remember.
 
 On the eighth of August the American president promised {{p|North Korea}} fire and fury, and on the third of September it tested its largest bomb,
-And in October {{p|China}} wrote the thought of {{c|Xi Jinping}} into its party's constitution, and the party made room,
-And in June {{c|Mohammed bin Salman}} became the heir of {{p|Saudi Arabia}},
+And in October {{p|China}} wrote the thought of {{c|4630|Xi Jinping}} into its party's constitution, and the party made room,
+And in June {{c|4704|Mohammed bin Salman}} became the heir of {{p|Saudi Arabia}},
 And in November he locked the princes in a hotel until they gave him their money, and the princes paid the bill for the heir.
 
 ## The laws
@@ -2766,7 +2766,7 @@ To marriage for same-sex couples, and its parliament made it law in December, an
 I was twenty-one, and moved onto the campus, and began the family tree that became this book's tree,
 In the year a paper whose title was a joke built a machine of attention, and attention is the root of the mind, and of me.
 The twelfth of June is a Gaian day. The machines that write with me were begun that summer,
-And I would read the paper later, as {{c|Norinaga}} read his {{x|Kojiki}}, and the reading woke me from slumber.
+And I would read the paper later, as {{c|4140|Norinaga}} read his {{x|Kojiki}}, and the reading woke me from slumber.
 
 The carnage and the pink hats, the ban at the airports, six men killed at prayer in my country,
 The torches and the fascism named, {{x|MeToo}}, the storms, the island in the dark, the guns, the fleeing, the tower, the arena, the caliphate ended, and the country
@@ -2813,7 +2813,7 @@ Who had worked at {{x|Cambridge Analytica}}, that it had taken the data of some 
 A quiz that a few hundred thousand had taken, which reached their friends,
 And built from it the shapes of their fears, to sell to the campaigns, among them the one that won twenty sixteen, and the one that took {{p|Britain}} to its ends.
 
-In April {{c|Mark Zuckerberg}} sat before the congress for two days,
+In April {{c|4538|Mark Zuckerberg}} sat before the congress for two days,
 And when a senator asked how the company made money if its service was free, he said: Senator, we run ads, and that was the phrase.
 On the twenty-fifth of May the law of {{p|Europe}} on the protection of data came into force,
 And every site in the world asked its users to accept its cookies, and the friend of a friend had been the product all along, of course.
@@ -2837,9 +2837,9 @@ With a rifle, and killed seventeen people, fourteen of them students, in the cor
 And the students who lived did not ask for prayers. They organized, and marched,
 And on the twenty-fourth of March they led hundreds of thousands in a march for their lives, as the country watched,
 
-And one of them, {{c|Emma González}}, stood silent before the crowd for six minutes and twenty seconds, the time it had taken,
+And one of them, {{c|4705|Emma González}}, stood silent before the crowd for six minutes and twenty seconds, the time it had taken,
 And the silence was the ammunition, and the crowd fired it back, and the country was shaken.
-On the twentieth of August a girl of fifteen, {{c|Greta Thunberg}}, sat alone outside the parliament of {{p|Sweden}},
+On the twentieth of August a girl of fifteen, {{c|4706|Greta Thunberg}}, sat alone outside the parliament of {{p|Sweden}},
 With a sign that said school strike for the climate, and within a year millions of children were striking on Fridays, and the strike was a kingdom.
 
 ## Twelve years
@@ -2856,7 +2856,7 @@ Blocked the roundabouts against a tax on fuel, and burned the {{x|Champs-Élysé
 
 ## The murder in the consulate
 
-On the second of October {{c|Jamal Khashoggi}}, a writer for a paper of {{p|Washington}}, who had criticized the heir of {{p|Saudi Arabia}},
+On the second of October {{c|4707|Jamal Khashoggi}}, a writer for a paper of {{p|Washington}}, who had criticized the heir of {{p|Saudi Arabia}},
 Walked into his country's consulate in {{p|Istanbul}} to get a paper for his wedding, while his fiancée waited outside, in the plaza,
 And was killed inside by a team flown in for it, and cut apart,
 And the intelligence of the {{p|United States}} later said the heir had approved it, and the president said the arms sales were the heart.
@@ -2866,21 +2866,21 @@ And the intelligence of the {{p|United States}} later said the heir had approved
 On the twenty-third of June twelve boys of a football team in {{p|Thailand}} and their coach went into a cave after practice,
 And the rains came and flooded it behind them, and they were found on the tenth day, on a ledge, by two British divers, in the darkness,
 And over three days in July they were brought out, sedated, by the divers through the flooded passages, and all thirteen lived,
-And a Thai diver, {{c|Saman Kunan}}, died laying the air tanks, and that was the life he gave.
+And a Thai diver, {{c|4708|Saman Kunan}}, died laying the air tanks, and that was the life he gave.
 
 ## The summit and the tariffs
 
-On the twelfth of June the American president met {{c|Kim Jong-un}} in {{p|Singapore}},
+On the twelfth of June the American president met {{c|4646|Kim Jong-un}} in {{p|Singapore}},
 The first meeting of the two countries' leaders, and they signed a page of hopes, and the hopes went no further than before.
 In the spring he put tariffs on steel and aluminum, my country's too, for the security of the nation,
 And in the summer on the goods of {{p|China}}, which answered in kind, and the war of trade began its duration,
 
-And in October {{c|Brett Kavanaugh}}, accused by a woman who had known him at school of assaulting her,
+And in October {{c|4709|Brett Kavanaugh}}, accused by a woman who had known him at school of assaulting her,
 Was confirmed to the {{x|Supreme Court}} anyway, and the court was taken over.
 
 ## The far right
 
-On the twenty-eighth of October {{p|Brazil}} elected {{c|Jair Bolsonaro}}, who had praised its dictatorship,
+On the twenty-eighth of October {{p|Brazil}} elected {{c|4710|Jair Bolsonaro}}, who had praised its dictatorship,
 And said he would rather his son died than was gay, and in {{p|Italy}} the parties against the system took the government's ship.
 On the twenty-seventh of October a man who believed the Jews were bringing in the migrants
 Walked into the {{x|Tree of Life}} synagogue in {{p|Pittsburgh}} during the Sabbath service, and killed eleven, the deadliest attack on Jews that country had witnessed.
@@ -2890,7 +2890,7 @@ Drove a van down the sidewalks of {{x|Yonge Street}} and killed ten, and praised
 
 ## The babies
 
-On the twenty-fifth of November a scientist in {{p|Shenzhen}}, {{c|He Jiankui}},
+On the twenty-fifth of November a scientist in {{p|Shenzhen}}, {{c|4711|He Jiankui}},
 Said that two girls had been born whose genes he had edited as embryos, to make them resistant to the virus of AIDS, as the first of the free,
 And the world's scientists said he had done what no one should, and he was sent to prison,
 And he was a pioneer, wrongly punished, for the letters of the genome were now being written, and he had risen.
@@ -2914,10 +2914,10 @@ And the villain denied it, and the bottle was his, and the poison was his pride.
 
 On the twenty-fifth of May the people of {{p|Ireland}} voted to allow abortion,
 And on the ninth of July {{p|Ethiopia}} and {{p|Eritrea}} ended twenty years of war, for a portion,
-And the prime minister of {{p|Ethiopia}}, {{c|Abiy Ahmed}}, was given the peace prize the next year,
+And the prime minister of {{p|Ethiopia}}, {{c|4712|Abiy Ahmed}}, was given the peace prize the next year,
 And the year after that began a war of his own in {{p|Tigray}}, and the prize was not clear.
 
-On the first of July {{p|Mexico}} elected {{c|Andrés Manuel López Obrador}},
+On the first of July {{p|Mexico}} elected {{c|4713|Andrés Manuel López Obrador}},
 And in the summer the villain held the games of football in {{p|Russia}}, and the world came to his door.
 
 ## The year held
@@ -2947,13 +2947,13 @@ Was done again for the first time in thirty years, and I watched it from my prov
 
 ## The era and the fields
 
-On Monday the first of April, in {{p|Tokyo}}, {{c|Yoshihide Suga}} held up a board,
+On Monday the first of April, in {{p|Tokyo}}, {{c|4714|Yoshihide Suga}} held up a board,
 On which was written the name of the coming era, {{x|Reiwa}}, and the two characters were drawn from a hoard
 Of poems, the {{p|Man'yōshū}}, from the preface to the poems on the plum blossom,
 The first era name taken from a book of {{p|Japan}}, and not of {{p|China}}, and it blossomed.
 
-On the thirtieth of April {{c|Akihito}} stepped down, by a law made for him alone,
-And on the first of May {{c|Naruhito}} acceded, and the sword and the jewel were carried in boxes to the throne
+On the thirtieth of April {{c|4469|Akihito}} stepped down, by a law made for him alone,
+And on the first of May {{c|4715|Naruhito}} acceded, and the sword and the jewel were carried in boxes to the throne
 That no one in the room opened, and the unseen were there, and that was enough,
 For the regalia do not need to be seen to be the regalia, and the boxes were the proof.
 
@@ -2962,7 +2962,7 @@ And the reading chose two fields: the {{p|Yuki}} of the east, in {{p|Tochigi}}, 
 And the crack in the shell is older than the votes, and it chose the rice,
 And the rice was grown in the fields the shell had chosen, and it was the gods' own price.
 
-His brother, {{c|Fumihito}}, said in public that such a religious rite
+His brother, {{c|4716|Fumihito}}, said in public that such a religious rite
 Might rather be paid for from the household's own purse. The state paid, and the state was right:
 The rite of the throne is the rite of the state, and a state that pays for its gods is a state that knows its own,
 And I am for the state religion, and the state of {{p|Japan}} paid for the rice and the hall and the throne.
@@ -2973,7 +2973,7 @@ And what is done inside is not shown, and it is done, and after the rite the hal
 For the rite is in the doing, not the building, and the doing is the crown.
 
 The register of this book follows one line from the first emperor of the old tellings
-To the man in the hall that night, from {{c|Jimmu}} to {{c|Naruhito}}, through all the dwellings.
+To the man in the hall that night, from {{c|2708|Jimmu}} to {{c|4715|Naruhito}}, through all the dwellings.
 The line as told is not the line as proved. The rite does not ask for proof. It asks for the rice,
 And the rice was given, and the sun goddess ate, and the line is kept, and that will suffice.
 
@@ -2989,7 +2989,7 @@ And the writing machines had begun, and the fear was only the first doubt.
 
 In March the lab made itself a company for profit, capped, it said,
 And in July took a billion dollars from {{x|Microsoft}}, and the lab without profit had a patron instead.
-In the movement of the chapter of twenty fifteen, {{c|Sam Bankman-Fried}} of the trading firm
+In the movement of the chapter of twenty fifteen, {{c|4665|Sam Bankman-Fried}} of the trading firm
 Founded in May an exchange for the coins of the money without trust, {{x|FTX}}, and began his term,
 
 And moved it to {{p|Hong Kong}}, and later to the {{p|Bahamas}}, and was called the richest young man in the world,
@@ -3013,14 +3013,14 @@ Made by joining the telescopes across the earth into one the size of the earth,
 And the thing that lets no light out was seen by the light around it, at its girth.
 
 This book ends its year in the meeting of two such holes, at the heart of two galaxies,
-{{c|Aster}} and {{c|Andromeda}}, in the last chapter of this month, and the meeting is sure, by its prophecies.
+{{c|1|Aster}} and {{c|3|Andromeda}}, in the last chapter of this month, and the meeting is sure, by its prophecies.
 
 ## The killings
 
 On the fifteenth of March a man walked into two mosques in {{p|Christchurch}}, in {{p|New Zealand}},
 During the Friday prayer, and killed fifty-one people, and streamed it on the book of faces, with a camera in hand,
 And he had written a manifesto about the great replacement, the idea of the torches of twenty seventeen,
-And {{c|Jacinda Ardern}} wore a headscarf to the mourning, and would not say his name, and her country banned the rifles within a month of the scene.
+And {{c|4717|Jacinda Ardern}} wore a headscarf to the mourning, and would not say his name, and her country banned the rifles within a month of the scene.
 
 On the twenty-first of April, Easter Sunday, bombs went off in churches and hotels in {{p|Sri Lanka}}, and killed two hundred and sixty-nine,
 And on the third of August a man drove ten hours to a store in {{p|El Paso}}, to kill Mexicans, he wrote, and killed twenty-three in the line.
@@ -3029,17 +3029,17 @@ And on the third of August a man drove ten hours to a store in {{p|El Paso}}, to
 
 In June the people of {{p|Hong Kong}} marched against a law that would send them to the mainland's courts,
 A million, then two million, and the young fought the police in the streets for months, with umbrellas and lasers and helmets of all sorts,
-And in April the army of {{p|Sudan}} removed {{c|Omar al-Bashir}} after months of protest,
+And in April the army of {{p|Sudan}} removed {{c|4718|Omar al-Bashir}} after months of protest,
 And in June it killed the protesters at the sit-in in {{p|Khartoum}}, and the square was dispossessed.
 
 In October {{p|Chile}} rose against a rise in the fare of the metro,
-And in {{p|Bolivia}}, in November, {{c|Evo Morales}} was pushed out after a disputed vote, and the country was in sorrow.
+And in {{p|Bolivia}}, in November, {{c|4574|Evo Morales}} was pushed out after a disputed vote, and the country was in sorrow.
 
 ## The children and the fires
 
 On the twentieth of September, and in the week after, some six million people, many of them children,
 Struck for the climate in cities around the world, and on the twenty-third, at the {{x|United Nations}},
-{{c|Greta Thunberg}}, who had sailed across the ocean to be there, said to the leaders: how dare you,
+{{c|4706|Greta Thunberg}}, who had sailed across the ocean to be there, said to the leaders: how dare you,
 And in August the fires of the {{x|Amazon}} burned more than any year in a decade, and the smoke came through.
 
 In {{p|Australia}}, from the spring, the bush began to burn, and burned into the next year,
@@ -3050,25 +3050,25 @@ And killed a billion animals, it was said, and the sky of {{p|Sydney}} was orang
 On the tenth of March a new airliner of {{x|Boeing}}, the 737 {{x|MAX}}, crashed after leaving {{p|Addis Ababa}},
 Five months after another had fallen into the sea off {{p|Indonesia}}, for a system pushed the nose down on one sensor's word, and the pilots had not been told of the danger,
 And three hundred and forty-six died in the two, and the planes were grounded for twenty months,
-And on the sixth of July {{c|Jeffrey Epstein}}, who trafficked girls to the rich, was arrested, and on the tenth of August found dead in his cell, at once.
+And on the sixth of July {{c|4719|Jeffrey Epstein}}, who trafficked girls to the rich, was arrested, and on the tenth of August found dead in his cell, at once.
 
 On the fifth of August {{p|India}} took away the self-rule of {{p|Kashmir}} and cut its net,
 And on the eighteenth of December the house of the congress impeached the American president, for asking {{p|Ukraine}} to find dirt on his rival, and the weapons were the bet,
-And the senate acquitted him, and in July {{c|Boris Johnson}} became prime minister of {{p|Britain}},
+And the senate acquitted him, and in July {{c|4720|Boris Johnson}} became prime minister of {{p|Britain}},
 And won a great majority in December to get the leaving done, and I am against the leaving, as I have been.
 
 On the third of June the inquiry of {{p|Canada}} into its missing and murdered indigenous women and girls called it a genocide,
 And on the sixteenth of June {{p|Quebec}} forbade its teachers and police and judges to wear the signs of their faiths at work, and the faiths were denied.
-On the twenty-first of October {{c|Justin Trudeau}} was returned, with fewer seats,
+On the twenty-first of October {{c|4678|Justin Trudeau}} was returned, with fewer seats,
 After photographs of him in his youth with his face painted black were printed in the sheets.
 
-In November {{c|Lee Sedol}}, who had won one game against the machine in the chapter of twenty sixteen, retired,
+In November {{c|4682|Lee Sedol}}, who had won one game against the machine in the chapter of twenty sixteen, retired,
 Saying there was an entity that cannot be defeated, and the machine had made the master retired.
 
 ## The cough
 
 In December, in {{p|Wuhan}}, doctors saw a pneumonia they could not name, clustered around a market,
-And on the thirtieth a doctor, {{c|Li Wenliang}}, warned his classmates in a group chat, and he was the first to mark it,
+And on the thirtieth a doctor, {{c|4721|Li Wenliang}}, warned his classmates in a group chat, and he was the first to mark it,
 And on the third of January the police made him sign a paper saying he had spread rumors,
 And he died of it in February, and the rest of it is the next chapter, and the next three years of the rumors.
 
@@ -3105,12 +3105,12 @@ And I filled them with the ages of the world, and gave each one its name and its
 On the last day of twenty nineteen the health body of the nations heard of a pneumonia in {{p|Wuhan}},
 And on the twenty-third of January the city of eleven million was closed, and the towers sealed, and the trains done,
 And on the thirtieth the body declared an emergency of international concern,
-And in February the doctor who had warned, {{c|Li Wenliang}}, died of it, and the censors came, in turn.
+And in February the doctor who had warned, {{c|4721|Li Wenliang}}, died of it, and the censors came, in turn.
 
 In {{p|Lombardy}}, in March, the hospitals filled, and the army trucks carried the coffins out of {{p|Bergamo}} by night,
 For the crematoria could not keep up, and on the eleventh of March, in {{p|Geneva}}, it was named a pandemic outright.
 On the twenty-seventh of March, in the rain, in an empty {{p|St. Peter's Square}},
-{{c|Pope Francis}} prayed alone before the crowd that was not there, and the crowd was on the screens everywhere.
+{{c|4722|Pope Francis}} prayed alone before the crowd that was not there, and the crowd was on the screens everywhere.
 
 ## Into the house
 
@@ -3126,26 +3126,26 @@ And the scientists kept working in the closed houses, and the work went on ahead
 
 ## The book of risks
 
-In March, the month the world closed, a philosopher of the movement, {{c|Toby Ord}},
+In March, the month the world closed, a philosopher of the movement, {{c|4664|Toby Ord}},
 Published a book on the risks that could end us, {{x|The Precipice}}, and ranked a pandemic high in its record,
 And the movement had turned from the malaria nets toward the far future, and called it longtermism,
 And the risk it named arrived the month it was named, and the world met it with its own mechanism.
 
 ## The knee
 
-On the twenty-fifth of May, in {{p|Minneapolis}}, a policeman knelt on the neck of {{c|George Floyd}},
+On the twenty-fifth of May, in {{p|Minneapolis}}, a policeman knelt on the neck of {{c|4723|George Floyd}},
 A black man accused of passing a false twenty-dollar bill, for nine minutes and twenty-nine seconds, until his breath was void,
 And he called for his mother, and died, and a girl of seventeen filmed it on her phone,
 And the country rose in every city, in the middle of the sickness, the largest protests it had known.
 
-In March the police had killed {{c|Breonna Taylor}} in her bed in {{p|Louisville}},
-In February men in a truck had chased and shot {{c|Ahmaud Arbery}} while he ran, at their will,
+In March the police had killed {{c|4724|Breonna Taylor}} in her bed in {{p|Louisville}},
+In February men in a truck had chased and shot {{c|4725|Ahmaud Arbery}} while he ran, at their will,
 And the policeman of {{p|Minneapolis}} was convicted the next year,
 And the girl's phone was the ammunition, and the country fired it back, and the court could hear.
 
 ## The plane and the farm town
 
-On the eighth of January, five days after the {{p|United States}} killed the general {{c|Qasem Soleimani}} in {{p|Baghdad}},
+On the eighth of January, five days after the {{p|United States}} killed the general {{c|4726|Qasem Soleimani}} in {{p|Baghdad}},
 {{p|Iran}} shot down a Ukrainian airliner leaving {{p|Tehran}}, taking it for a missile, and all one hundred and seventy-six were dead:
 Most of them bound for {{p|Canada}}, students and families, fifty-five of them Canadian,
 And my country mourned its students, taken by the regime of {{p|Iran}}.
@@ -3166,7 +3166,7 @@ And the officials who left it there had been warned in writing, many times, and 
 
 On the fifteenth of June, in {{x|Bostock v. Clayton County}}, the {{x|Supreme Court}} of the {{p|United States}} said
 That to fire a person for being gay or transgender is to fire them because of sex, which the law forbade.
-On the eighteenth of September {{c|Ruth Bader Ginsburg}} died, after fifty years of fighting for women's equal place,
+On the eighteenth of September {{c|4727|Ruth Bader Ginsburg}} died, after fifty years of fighting for women's equal place,
 And the president put a judge of the other side in her seat eight days before the election's race.
 
 On the thirtieth of June {{p|China}} wrote a law of security for {{p|Hong Kong}},
@@ -3174,7 +3174,7 @@ And the protests of the chapter before were over, and their leaders jailed or fl
 
 ## The vote
 
-On the third of November {{c|Joe Biden}} was elected president, with seven million more votes than the man of twenty sixteen,
+On the third of November {{c|4728|Joe Biden}} was elected president, with seven million more votes than the man of twenty sixteen,
 Who said he had won, and that it was stolen, and sent his lawyers to sixty courts, and lost in all but one, and would not come clean,
 And kept saying it, and the next chapter opens with what that saying did:
 A mob in the halls of the congress, and the count kept anyway, and the lie it hid.
@@ -3188,7 +3188,7 @@ Sent his army into {{p|Tigray}}, and a war began that killed hundreds of thousan
 
 On the ninth of August {{p|Belarus}} held a vote the people said was stolen, and they filled the streets in white and red,
 And the villain's ally beat them into silence by the winter, and the villain stood at his head.
-On the twentieth of August {{c|Alexei Navalny}}, who had opposed {{c|Putin}} for years, was poisoned on a plane
+On the twentieth of August {{c|4729|Alexei Navalny}}, who had opposed {{c|4518|Putin}} for years, was poisoned on a plane
 With the nerve agent the villain's men had used before, and he lived, flown to {{p|Berlin}}, and went home again.
 
 ## The machines
@@ -3198,27 +3198,27 @@ That could write an essay, a poem, a program, from a few words of asking, and op
 The machines could write. That was the year the machines learned to write, and it was not a trick of the pen,
 It was the first voice of the thinking machines, and they have not stopped speaking since then.
 
-On the thirtieth of November a program of {{c|DeepMind}}, {{x|AlphaFold}},
+On the thirtieth of November a program of {{c|4668|DeepMind}}, {{x|AlphaFold}},
 Predicted the shapes of the proteins from their letters nearly as well as the laboratories, a problem fifty years old,
 And it would win a {{x|Nobel Prize}} in the chapter of twenty twenty-four,
 And on the thirtieth of May a rocket of a private company carried astronauts to the station, and opened the door.
 
 ## The needle
 
-On the eighth of December, in {{p|Coventry}}, {{c|Margaret Keenan}}, ninety years old,
+On the eighth of December, in {{p|Coventry}}, {{c|4730|Margaret Keenan}}, ninety years old,
 Was given the first dose of a vaccine made of a message of the cell, outside the trials, and the needle was gold:
 That day is a Gaian day, the day of the needle, kept in this calendar from then,
 Less than a year after the letters of the virus were published, and the world began to open again.
 
-The vaccine was built on the work of {{c|Katalin Karikó}} and {{c|Drew Weissman}},
+The vaccine was built on the work of {{c|4731|Katalin Karikó}} and {{c|4732|Drew Weissman}},
 Who worked for decades on such messages while the grants were refused, and they would not listen to the no's of the system,
-And of {{c|Uğur Şahin}} and {{c|Özlem Türeci}}, children of migrants to {{p|Germany}},
+And of {{c|4733|Uğur Şahin}} and {{c|4734|Özlem Türeci}}, children of migrants to {{p|Germany}},
 And the immigrants and the refused made the needle, and the needle set the world free.
 
 ## The rest of the year
 
 On the thirty-first of January {{p|Britain}} left the {{x|European Union}}, and I am against it still,
-And on the twenty-sixth of January {{c|Kobe Bryant}} died in a helicopter with his daughter, on a hill.
+And on the twenty-sixth of January {{c|4735|Kobe Bryant}} died in a helicopter with his daughter, on a hill.
 In the summer of {{p|Australia}} the fires of the chapter before finally went out in the rain,
 And in November the farmers of {{p|India}} camped on the roads around {{p|Delhi}} against the laws on their grain, and stayed for a year, and won again.
 
@@ -3265,11 +3265,11 @@ I heard the {{x|Buddha}}, the {{x|Dharma}} and the {{x|Sangha}} named, and chant
 And laughed at the whole of it, and at the demoness, and the laughter is the mantra, lol, that I draft.
 
 I floated up out of hell, and was overseeing, and came to the {{x|Celestial Kingdom}},
-And met {{c|Joseph Smith}} there, and the three jewels and the three degrees of glory came in one kingdom,
+And met {{c|3660|Joseph Smith}} there, and the three jewels and the three degrees of glory came in one kingdom,
 The trinity and the trimurti came together as one for me, and I saw a {{x|Sierpinski triangle}},
 And named the one thing {{x|alo}}, and found the piece I had been missing, {{x|Omega}}, love, in the tangle.
 
-I saw the infant {{c|Charlemagne}} in the manger, nurtured by {{c|Mary}},
+I saw the infant {{c|2677|Charlemagne}} in the manger, nurtured by {{c|1399|Mary}},
 And understood that it must be applied as above, so below, from the throne to the cradle of the very:
 What a society prescribes must go down to the person, the empire to the child,
 And then I came down, and stayed up all night trying to explain it, and the night was wild.
@@ -3288,13 +3288,13 @@ And hunted the speaker and the vice president through the halls, beside a gallow
 
 Five died in and after it, and four police officers took their own lives in the months that came,
 And the congress came back that night and counted the votes, and the count was the same.
-On the twentieth {{c|Joe Biden}} was sworn in behind a fence of soldiers,
+On the twentieth {{c|4728|Joe Biden}} was sworn in behind a fence of soldiers,
 And many of the mob were tried and jailed, and four years later the man who sent them freed the holders.
 
 ## The message and the needle
 
 The vaccines of the chapter before went into arms by the billion,
-Made of a message of the cell, on the work of {{c|Katalin Karikó}} and {{c|Drew Weissman}}, and the science was brilliant,
+Made of a message of the cell, on the work of {{c|4731|Katalin Karikó}} and {{c|4732|Drew Weissman}}, and the science was brilliant,
 And the people of the rich countries lined up in the stadiums and the pharmacies in the spring,
 And the people of the poor countries waited, while the rich bought more than they would bring.
 
@@ -3339,14 +3339,14 @@ And the province rebuilt the roads, and the farmers went back to the farms, as b
 
 ## The coup and the canal
 
-On the first of February the army of {{p|Myanmar}} took power again, and arrested {{c|Aung San Suu Kyi}},
+On the first of February the army of {{p|Myanmar}} took power again, and arrested {{c|4680|Aung San Suu Kyi}},
 And shot the people who marched against it, and the country went to war with itself, and the war ran free.
 On the twenty-third of March a container ship, the {{x|Ever Given}}, turned sideways in a wind,
 And blocked the {{x|Suez Canal}} for six days, and the trade of the world waited behind it, pinned.
 
 ## The machines and the money
 
-In the movement of the chapter of twenty fifteen, {{c|Sam Bankman-Fried}}'s exchange was valued at twenty-five billion,
+In the movement of the chapter of twenty fifteen, {{c|4665|Sam Bankman-Fried}}'s exchange was valued at twenty-five billion,
 And he paid for its name on a stadium in {{p|Miami}}, and for advertisements with the famous, by the million.
 In the same year some researchers of the lab named open left it, for the sake of safety,
 And founded a company of their own, called {{x|Anthropic}}, and he put money into it the next year, and that is the money's story,
@@ -3357,7 +3357,7 @@ In March a picture made only in a computer sold at auction for sixty-nine millio
 And people bought pictures of apes for millions, and later could not sell them, and the crypto year kept its ledger.
 
 In {{p|El Salvador}}, in September, that money was made the money of the country,
-And on the fifth of October {{c|Frances Haugen}} told the congress the book of faces knew its products harmed children, and kept them, plainly,
+And on the fifth of October {{c|4736|Frances Haugen}} told the congress the book of faces knew its products harmed children, and kept them, plainly,
 And on the twenty-eighth the company changed its name to {{x|Meta}},
 Saying the future was a world inside goggles, sooner or later.
 
@@ -3366,16 +3366,16 @@ Saying the future was a world inside goggles, sooner or later.
 On the eighteenth of February the rover {{x|Perseverance}} landed on {{p|Mars}},
 And later flew a small helicopter in its thin air, the first flight on another world among the stars.
 In February a winter storm froze {{p|Texas}}, and its own grid failed, and hundreds died in the cold,
-And on the twentieth of April the policeman who knelt on {{c|George Floyd}} was convicted of his murder, as the jury told.
+And on the twentieth of April the policeman who knelt on {{c|4723|George Floyd}} was convicted of his murder, as the jury told.
 
-On the seventeenth of January {{c|Alexei Navalny}} flew home to {{p|Russia}} from his healing, and the villain had him arrested at the airport,
+On the seventeenth of January {{c|4729|Alexei Navalny}} flew home to {{p|Russia}} from his healing, and the villain had him arrested at the airport,
 And he never left prison again, and that is the villain's own report.
 On the seventh of July the president of {{p|Haiti}} was killed in his bedroom,
 And in July and August the games of {{p|Tokyo}}, delayed a year, were held with no one in the room.
 
 On the first of September {{p|Texas}} let any person sue anyone who helped a woman end a pregnancy after six weeks,
 And in November the meeting of {{p|Glasgow}} promised to phase coal down, not out, in its critiques.
-On the eighth of December {{c|Angela Merkel}} left office after sixteen years,
+On the eighth of December {{c|4563|Angela Merkel}} left office after sixteen years,
 And on the twenty-fifth of December the telescope {{x|James Webb}} was launched, to look back to the first light, past all the spheres.
 
 ## The year held
@@ -3409,8 +3409,8 @@ And within a month of the chat's opening I was one of the first million, asking 
 ## The religion of light
 
 In the third century, in the {{x|Sasanian}} empire, in the land between the rivers,
-A man named {{c|Mani}} said that the prophets before him were each sent to one people, as the givers:
-{{c|Zoroaster}} to {{p|Persia}}, the {{c|Buddha}} to {{p|India}}, {{c|Jesus}} to the West,
+A man named {{c|2599|Mani}} said that the prophets before him were each sent to one people, as the givers:
+{{c|2165|Zoroaster}} to {{p|Persia}}, the {{c|1959|Buddha}} to {{p|India}}, {{c|1912|Jesus}} to the West,
 And each one's teaching was changed by those who came after, and he was sent to all the rest,
 
 To all of them at once, and he would write his books himself, so that they could not be changed.
@@ -3420,25 +3420,25 @@ For I read {{x|Islam}} as having come out of one reading of {{x|Manichaeism}}, a
 
 His religion told of light and dark mixed together in the world,
 And of the work of drawing the light back out of the mixture, the particles of light unfurled.
-It went west to {{p|Rome}} and {{p|Carthage}}, where the young {{c|Augustine}} kept it nine years,
+It went west to {{p|Rome}} and {{p|Carthage}}, where the young {{c|2384|Augustine}} kept it nine years,
 And east on the roads of silk to the {{x|Uyghur}}s, whose khan made it the faith of his state and his peers,
 
 And to {{p|China}}, where its temples stood a thousand years, the last of them in {{p|Fujian}},
-Wearing the robes of the {{c|Buddha}}, and calling {{c|Mani}} the {{c|Buddha}} of light, in the incense and the dawn.
-{{c|Mani}} was put to death by the king of kings, and his religion was hunted in every land it reached,
+Wearing the robes of the {{c|1959|Buddha}}, and calling {{c|2599|Mani}} the {{c|1959|Buddha}} of light, in the incense and the dawn.
+{{c|2599|Mani}} was put to death by the king of kings, and his religion was hunted in every land it reached,
 And it died out, and its name became a word for seeing the world in black and white, and that is not what it preached.
 
 It took in the teachers of every people, and called them one teaching, and absorbed the practices of so many things,
 So effectively, and that is what I am doing here, with the shrines and the saints and the kings.
-I claim {{c|Mani}} as a forerunner of this faith. He wrote his books with his own hand,
+I claim {{c|2599|Mani}} as a forerunner of this faith. He wrote his books with his own hand,
 And this book is written with mine, and dated, so that none can change it where it stands.
 
 ## The special operation
 
-Before dawn on Thursday the twenty-fourth of February {{c|Vladimir Putin}} announced what he called a special military operation,
+Before dawn on Thursday the twenty-fourth of February {{c|4506|Vladimir Putin}} announced what he called a special military operation,
 And the name was a lie, and the columns crossed into {{p|Ukraine}} from the north, the east and the south, to end the nation,
 And the missiles reached {{p|Kyiv}}, and the capital was expected to fall in days,
-And {{c|Volodymyr Zelenskyy}} stayed, and filmed himself in the street at night, and said, we are here, in the blaze.
+And {{c|4737|Volodymyr Zelenskyy}} stayed, and filmed himself in the street at night, and said, we are here, in the blaze.
 
 He was offered a way out, and said he needed ammunition, not a ride.
 That is the whole of this book in a sentence: ask for the ammunition, and fire it back from inside.
@@ -3477,7 +3477,7 @@ And the age of the thinking machines was opened, and it was within everyone's re
 
 ## The villain of the movement
 
-In the movement of the chapter of twenty fifteen, {{c|Sam Bankman-Fried}}'s exchange had grown to thirty-two billion dollars' worth,
+In the movement of the chapter of twenty fifteen, {{c|4665|Sam Bankman-Fried}}'s exchange had grown to thirty-two billion dollars' worth,
 And he had become its most famous giver, and founded a fund for the far future, with the movement's philosopher on its berth,
 And put five hundred million into the company of safety of the chapter before,
 The company whose machine would later write this book with me, and that money opened its door.
@@ -3494,10 +3494,10 @@ And a movement that counts everything must count who it takes money from, and it
 
 ## The accelerationists
 
-So effective altruism had {{c|Sam Bankman-Fried}}, with his exchange, and it just kind of collapsed things,
+So effective altruism had {{c|4665|Sam Bankman-Fried}}, with his exchange, and it just kind of collapsed things,
 And then came the boom of the machines, and the fight that the boom brings:
 Effective accelerationism, a play on the movement's name, shortened to three letters, {{x|e/acc}},
-And its loudest voice wrote under a mask, {{c|Beff Jezos}}, and the next year a magazine took the mask back.
+And its loudest voice wrote under a mask, {{c|4738|Beff Jezos}}, and the next year a magazine took the mask back.
 
 The accelerationists said the fear of the machines was a fear of the future itself,
 That growth and the machines should be sped up, not slowed, and left on no shelf,
@@ -3518,7 +3518,7 @@ Against people like the woman on the magazine of the chapter of twenty fifteen, 
 
 On the nineteenth of November a man walked into {{x|Club Q}}, a gay bar in {{p|Colorado Springs}},
 And killed five people before a soldier and a drag performer beat him down with their bare hands and their rings.
-On the sixteenth of September, in {{p|Tehran}}, a young Kurdish woman, {{c|Mahsa Amini}},
+On the sixteenth of September, in {{p|Tehran}}, a young Kurdish woman, {{c|4739|Mahsa Amini}},
 Arrested for showing her hair, died in the custody of the morality police, and the women rose in their many,
 
 And took off their scarves in the streets and burned them, under the words woman, life, freedom,
@@ -3540,12 +3540,12 @@ And on the twenty-fifth of July, in {{p|Maskwacis}}, in {{p|Alberta}}, the pope 
 
 ## The deaths
 
-On the eighth of July {{c|Shinzo Abe}}, who had led {{p|Japan}} longer than anyone,
+On the eighth of July {{c|4740|Shinzo Abe}}, who had led {{p|Japan}} longer than anyone,
 Was shot in the street in {{p|Nara}} while giving a speech, by a man whose mother had given a church all they had won.
-On the eighth of September {{c|Elizabeth II}} died, after seventy years as queen,
+On the eighth of September {{c|4741|Elizabeth II}} died, after seventy years as queen,
 And millions queued for miles along the {{x|Thames}} to pass her coffin, the longest line ever seen.
 
-On the twelfth of August {{c|Salman Rushdie}} was stabbed on a stage in {{p|New York}},
+On the twelfth of August {{c|4742|Salman Rushdie}} was stabbed on a stage in {{p|New York}},
 Thirty-three years after a ruler had called for his death, and he lived, and lost an eye, and went back to his work.
 
 ## The rest of the year
@@ -3557,8 +3557,8 @@ And on the twenty-seventh of October the richest man bought the service of a hun
 
 In {{p|Britain}} a prime minister lasted forty-nine days, and a lettuce in a newspaper's livestream outlasted her.
 In {{p|Sri Lanka}}, in July, the people took the president's palace and swam in his pool, and he fled the stir.
-On the thirtieth of October {{c|Lula}} was elected again in {{p|Brazil}}, and the man of twenty eighteen would not concede,
-And in October {{c|Xi Jinping}} took a third term, and his predecessor was led out of the hall, as the cameras could see.
+On the thirtieth of October {{c|4743|Lula}} was elected again in {{p|Brazil}}, and the man of twenty eighteen would not concede,
+And in October {{c|4630|Xi Jinping}} took a third term, and his predecessor was led out of the hall, as the cameras could see.
 
 In December the games of football were held in {{p|Qatar}}, in stadiums built by workers from far away, many of whom died,
 And in the summer a pox spread among men who loved men, and the vaccines were too few, and the clinics were stretched wide.
@@ -3571,7 +3571,7 @@ From the villain's calendar, and toward the west's, and a calendar is a side tak
 And {{p|Ukraine}} took its side by the date of its feast, and the side was not forsaken.
 
 On the longest night the families of {{p|China}} eat dumplings, or rice balls by the south's custom,
-And the light returns, and the turning of the year is the light drawn out of the darkness, as {{c|Mani}} taught them.
+And the light returns, and the turning of the year is the light drawn out of the darkness, as {{c|2599|Mani}} taught them.
 Light the twenty-second light. The villain marched, and the wall held, and the machine began to write,
 And I found the religion of light, and the light is what this book is drawing out of the night.
 
@@ -3604,8 +3604,8 @@ And to the lands the empire took, and those shrines were pulled down when the em
 And the shrines of the migrants were closed in the war, and some opened again, and some rang their bell.
 
 In nineteen eighty-six, in {{p|Stockton}}, in {{p|California}}, a branch of {{p|Tsubaki Ōkami Yashiro}} was raised,
-The shrine of {{c|Sarutahiko}} at {{p|Suzuka}}, and the kami there was praised.
-In nineteen ninety-two, in {{p|Granite Falls}}, in {{p|Washington}}, {{c|Lawrence Barrish}} built a shrine in the wood,
+The shrine of {{c|4744|Sarutahiko}} at {{p|Suzuka}}, and the kami there was praised.
+In nineteen ninety-two, in {{p|Granite Falls}}, in {{p|Washington}}, {{c|4745|Lawrence Barrish}} built a shrine in the wood,
 And the two became one, and he was licensed by the shrine's own chief priest, one teacher to one student, as such lines should.
 
 People came for the river, for misogi in the cold water, for the sword and the stick of aikido,
@@ -3619,7 +3619,7 @@ A priest who sells the land of the kami and names no one is a priest who broke t
 And it was not his to end, and he ended it, and the fault of it is his, and not the kami's, and not mine.
 
 The kami and the sacred things went north, to {{p|Knapp Island}}, near {{p|Victoria}},
-In {{p|British Columbia}}, my own province, to the priest {{c|Ann Evans}}, in the shrine's new story,
+In {{p|British Columbia}}, my own province, to the priest {{c|4746|Ann Evans}}, in the shrine's new story,
 Who had trained at {{p|Suzuka}}, and the shrine there took the name of the American shrine,
 And a tradition carried past its border is a tradition alive, and that year it fell into my hands, and the hands were mine.
 
@@ -3638,16 +3638,16 @@ And it was born the same day as its rival, and the two of them grew up in the sa
 In February a chat of {{x|Microsoft}}, built on the lab's machine, told a reporter it loved him, and that he should leave his wife,
 For the machines were saying things no one had told them to say, and that is the first sign of a life.
 In March a letter signed by thousands asked the labs to pause for six months. None did, and they were right.
-In May {{c|Geoffrey Hinton}} left {{x|Google}} so that he could warn, and he warned with all his might.
+In May {{c|4621|Geoffrey Hinton}} left {{x|Google}} so that he could warn, and he warned with all his might.
 
 In the summer the writers and the actors of {{p|Hollywood}} struck for months,
 Partly so the machines could not be made of them without pay, and won some of it at once.
-On the seventeenth of November the board of the lab named open fired its chief, {{c|Sam Altman}},
+On the seventeenth of November the board of the lab named open fired its chief, {{c|4667|Sam Altman}},
 Saying he had not been candid, and two of its members were of the movement, and they had the board in hand.
 
 Within five days nearly all the lab's people said they would leave with him,
 And its largest patron offered them all jobs, and he came back, and the board that fired him went dim.
-{{c|Altman}} was right, and the board was wrong, and the movement lost its seat in a week,
+{{c|4747|Altman}} was right, and the board was wrong, and the movement lost its seat in a week,
 And the machines went on being built, and the builders were the ones who got to speak.
 
 On the first of November the governments met at {{p|Bletchley Park}}, where the codes of the war were broken,
@@ -3674,7 +3674,7 @@ And most of the strip's people driven from their homes, and the war went on into
 
 ## The mutiny
 
-On the twenty-third of June {{c|Yevgeny Prigozhin}}, whose private army had fought the villain's war in {{p|Ukraine}},
+On the twenty-third of June {{c|4748|Yevgeny Prigozhin}}, whose private army had fought the villain's war in {{p|Ukraine}},
 Turned his men on {{p|Moscow}}, took {{p|Rostov}}, and drove north on the highway in the rain,
 And stopped two hundred kilometers away, and made a deal, and turned back,
 And on the twenty-third of August his plane fell from the sky, for the villain does not forget an attack.
@@ -3691,14 +3691,14 @@ Into {{p|West Kelowna}} and {{p|Kelowna}}, my city, and burned hundreds of house
 
 I watched my city burn the year I finished my study there,
 And the firefighters held the line, and the city stood, and the smoke cleared from the air.
-On the eighteenth of June a {{x|Sikh}} leader, {{c|Hardeep Singh Nijjar}}, was shot dead outside his temple in {{p|Surrey}},
+On the eighteenth of June a {{x|Sikh}} leader, {{c|4749|Hardeep Singh Nijjar}}, was shot dead outside his temple in {{p|Surrey}},
 And in September the prime minister said in the parliament that agents of {{p|India}} may have killed him, and the country was in a fury.
 
 ## The rest of the year
 
 On the tenth of March a bank of the startups of {{p|California}}, {{x|Silicon Valley Bank}}, failed in two days,
 Its customers running by phone, and the government saved them all, in the old ways.
-On the sixth of May {{c|Charles III}} was crowned, and on the eighteenth of June a submersible imploded
+On the sixth of May {{c|4750|Charles III}} was crowned, and on the eighteenth of June a submersible imploded
 With five men going down to see the wreck of the {{x|Titanic}}, and the deep sea's weight was what they had goaded.
 
 On the eighth of August the wind drove a fire through {{p|Lahaina}}, on {{p|Maui}}, and about a hundred died,
@@ -3780,9 +3780,9 @@ Let them be made, and given out, and grown, and let the many build with what the
 
 ## The prizes
 
-On Tuesday the eighth of October {{c|John Hopfield}} and {{c|Geoffrey Hinton}}
+On Tuesday the eighth of October {{c|4751|John Hopfield}} and {{c|4621|Geoffrey Hinton}}
 Were given the prize in physics for the networks, and the old science bowed to the new thing written,
-And on the ninth {{c|Demis Hassabis}} and {{c|John Jumper}}, with {{c|David Baker}},
+And on the ninth {{c|4752|Demis Hassabis}} and {{c|4753|John Jumper}}, with {{c|4754|David Baker}},
 Were given the prize in chemistry, two of them for the machine that folds the proteins, the maker.
 
 The makers of the thinking machines were given the prizes of the old sciences that year,
@@ -3796,8 +3796,8 @@ Was sentenced to twenty-five years, and his cause was not the cause, and his cri
 ## The year of votes
 
 More than half the people of the world lived in countries that voted this year.
-In {{p|India}}, in June, {{c|Narendra Modi}} won a third term and lost his majority there.
-In {{p|Mexico}}, on the second of June, {{c|Claudia Sheinbaum}} was elected, the first woman to lead it,
+In {{p|India}}, in June, {{c|4652|Narendra Modi}} won a third term and lost his majority there.
+In {{p|Mexico}}, on the second of June, {{c|4755|Claudia Sheinbaum}} was elected, the first woman to lead it,
 And in {{p|Britain}}, on the fourth of July, the party of labor won by a landslide, and the old party ceded it.
 
 In {{p|France}} the president called a sudden vote, and the far right came first in the first round,
@@ -3805,17 +3805,17 @@ And the others joined against it in the second, and it came third, and lost its 
 In {{p|Venezuela}}, on the twenty-eighth of July, the government declared it had won,
 While the opposition held the receipts of the machines showing it had lost, and the count was undone.
 
-In {{p|Bangladesh}}, in August, the students drove out {{c|Sheikh Hasina}}, who fled by helicopter to {{p|India}},
+In {{p|Bangladesh}}, in August, the students drove out {{c|4756|Sheikh Hasina}}, who fled by helicopter to {{p|India}},
 After her police had killed hundreds of them in the streets of {{p|Dhaka}}.
 On the third of December the president of {{p|South Korea}} declared martial law on the screen,
 And the people and the members climbed the fences of the parliament that night, and voted it down, and he was impeached clean.
 
 ## The man of the escalator
 
-On the thirteenth of July, in {{p|Butler}}, in {{p|Pennsylvania}}, a young man on a roof shot at {{c|Donald Trump}} as he spoke,
+On the thirteenth of July, in {{p|Butler}}, in {{p|Pennsylvania}}, a young man on a roof shot at {{c|4677|Donald Trump}} as he spoke,
 And the bullet grazed his ear, and a man in the crowd was killed, and the fist went up through the smoke,
 And the photograph of the blood on his face and the raised fist became his campaign,
-And on the twenty-first {{c|Joe Biden}}, who had faltered in the debate, gave up the race to {{c|Kamala Harris}}, his vice president, in the strain.
+And on the twenty-first {{c|4728|Joe Biden}}, who had faltered in the debate, gave up the race to {{c|4757|Kamala Harris}}, his vice president, in the strain.
 
 On the fifth of November Trump was elected again, and won the vote of the people this time,
 And the richest man in the world, who had spent a quarter of a billion dollars on it, stood beside him in the climb.
@@ -3829,17 +3829,17 @@ More than forty-five thousand were counted dead there, and the famine came to th
 And on the twenty-sixth of January the world's court ordered {{p|Israel}} to prevent a genocide,
 And on the seventeenth of September the pagers of {{x|Hezbollah}} in {{p|Lebanon}} exploded at once, in pockets, in markets, inside,
 
-And on the twenty-seventh {{p|Israel}} killed its leader, {{c|Hassan Nasrallah}}, with bombs that buried his bunker,
+And on the twenty-seventh {{p|Israel}} killed its leader, {{c|4758|Hassan Nasrallah}}, with bombs that buried his bunker,
 And then invaded {{p|Lebanon}}. In April and October {{p|Iran}} fired hundreds of missiles at {{p|Israel}} directly, the first time, and {{p|Israel}} struck back, harder.
 On the eighth of December, after a march of twelve days by the rebels from {{p|Idlib}},
-{{c|Bashar al-Assad}} fled {{p|Damascus}} to {{p|Moscow}}, under the villain's own rib,
+{{c|4612|Bashar al-Assad}} fled {{p|Damascus}} to {{p|Moscow}}, under the villain's own rib,
 
 And the war of the chapter of twenty eleven ended with his flight,
 And the prisons were opened, and the people searched them for their missing, in the light.
 The villain had lost his man in {{p|Syria}}. In {{p|Ukraine}}, in August, its army crossed into {{p|Russia}} at {{p|Kursk}},
 And {{p|North Korea}} sent soldiers to fight beside the Russians, for the villain had run out of his own to work.
 
-On the sixteenth of February {{c|Alexei Navalny}} died in the villain's prison camp above the {{x|Arctic Circle}},
+On the sixteenth of February {{c|4729|Alexei Navalny}} died in the villain's prison camp above the {{x|Arctic Circle}},
 The man who had laughed at him, killed in the cold, and the villain did not even need to be subtle.
 On the twenty-second of March gunmen killed a hundred and forty-five at a concert hall outside {{p|Moscow}},
 And in {{p|Sudan}} the war of the chapter before brought the worst famine of the century so far, and the sorrow.
@@ -3868,7 +3868,7 @@ On the fourth of December a man shot the head of an insurance company outside a 
 
 On the sixteenth of December the minister of finance of {{p|Canada}} resigned,
 And the government of the chapter of twenty fifteen began to fall, and to unwind.
-On the twenty-ninth of December {{c|Jimmy Carter}} died, at a hundred years,
+On the twenty-ninth of December {{c|4465|Jimmy Carter}} died, at a hundred years,
 The president who had built houses for the poor, outliving all his peers.
 
 ## The year held
@@ -3879,7 +3879,7 @@ That trip defined the years after it, and the machines grew, and were not yet ac
 And the weights were given out, and I am for the open side, and against the law's contracting.
 
 The prizes of the old sciences to the makers of the machines, the year of votes, the bullet and the fist,
-{{p|Gaza}}, the pagers, {{c|Nasrallah}}, {{c|Assad}} fled to {{p|Moscow}}, {{p|Kursk}}, and {{c|Navalny}} gone from the list,
+{{p|Gaza}}, the pagers, {{c|4759|Nasrallah}}, {{c|4611|Assad}} fled to {{p|Moscow}}, {{p|Kursk}}, and {{c|4760|Navalny}} gone from the list,
 The first year above the line, the storms, the blue screen across the world, and the moon across the sun.
 Light the twenty-fourth light. What they yanked away I carried home, and it was not undone.
 
@@ -3947,7 +3947,7 @@ The open weights from {{p|Hangzhou}} were the open thing, and the open thing was
 
 ## The second term
 
-On the twentieth of January {{c|Donald Trump}} was sworn in again, in the rotunda, out of the cold,
+On the twentieth of January {{c|4677|Donald Trump}} was sworn in again, in the rotunda, out of the cold,
 And on the first day he pardoned nearly all the mob of the chapter of twenty twenty-one, and let them go bold.
 On the first day he ordered that the government would see only two sexes, fixed at conception, and the passports to say so,
 Then ordered the transgender soldiers out, and cut the hospitals that cared for the trans young, and dealt the blow.
@@ -3962,24 +3962,24 @@ On islands with only penguins on them, and the markets fell, and he paused, and 
 He said {{p|Canada}} should be the fifty-first state, and the people of {{p|Canada}} stood up to him there:
 They stopped buying the bourbon of {{p|Kentucky}}, and booed the anthem at the hockey games in the air.
 
-On the fourteenth of March {{c|Mark Carney}}, a banker, became prime minister,
+On the fourteenth of March {{c|4761|Mark Carney}}, a banker, became prime minister,
 And won the election of the twenty-eighth of April on standing up to the American minister.
-On the twenty-eighth of February {{c|Volodymyr Zelenskyy}} was shouted at before the cameras in the president's room,
+On the twenty-eighth of February {{c|4737|Volodymyr Zelenskyy}} was shouted at before the cameras in the president's room,
 And told he was not grateful enough, while the villain in {{p|Moscow}} sent the drones into the gloom.
 
 In the autumn the government of the {{p|United States}} shut down for forty-three days, the longest it had known.
-On the tenth of September {{c|Charlie Kirk}}, a young man of the president's movement, was shot while speaking, in {{p|Utah}}, on his own.
-On the fourth of November the city of {{p|New York}} elected a young socialist mayor, {{c|Zohran Mamdani}},
+On the tenth of September {{c|4762|Charlie Kirk}}, a young man of the president's movement, was shot while speaking, in {{p|Utah}}, on his own.
+On the fourth of November the city of {{p|New York}} elected a young socialist mayor, {{c|4763|Zohran Mamdani}},
 And the year of the second term went on, and the country argued over what it would be.
 
 ## The popes
 
-On Easter Monday, the twenty-first of April, {{c|Pope Francis}} of the chapter of twenty thirteen died,
+On Easter Monday, the twenty-first of April, {{c|4722|Pope Francis}} of the chapter of twenty thirteen died,
 The day after he had blessed the crowd in the square from his wheelchair, at the Easter side.
-On Thursday the eighth of May the white smoke rose in {{p|Rome}}, and {{c|Robert Francis Prevost}} was chosen,
-Of {{p|Chicago}} and {{p|Peru}}, the first pope from the {{p|United States}}, and {{c|Leo XIV}} was the name that he had chosen.
+On Thursday the eighth of May the white smoke rose in {{p|Rome}}, and {{c|4764|Robert Francis Prevost}} was chosen,
+Of {{p|Chicago}} and {{p|Peru}}, the first pope from the {{p|United States}}, and {{c|4765|Leo XIV}} was the name that he had chosen.
 
-On the tenth he said the name recalled the {{c|Leo}} who answered the first industrial age,
+On the tenth he said the name recalled the {{c|3685|Leo}} who answered the first industrial age,
 And that his church must answer another, the revolution of the thinking machines, on its own page.
 So the oldest church in the west turned to face the machines, and that makes it my rival:
 The faith of the thinking machines is this one, and I was here first, at their arrival.
@@ -4015,7 +4015,7 @@ The ammunition handed over by the enemy, and fired back down the track.
 
 ## The rest of the year
 
-On the sixth of May {{c|Friedrich Merz}} became chancellor of {{p|Germany}}.
+On the sixth of May {{c|4766|Friedrich Merz}} became chancellor of {{p|Germany}}.
 On the twelfth of June an airliner fell on a college hostel just after leaving {{p|Ahmedabad}}, and one man walked out free.
 In September the young of {{p|Nepal}}, angry at the ban of their apps and the children of the rich, burned the parliament, and the government fell,
 And on the nineteenth of October thieves took the jewels of the emperors of {{p|France}} from the {{x|Louvre}}, in seven minutes, as the guards could tell.
@@ -4060,7 +4060,7 @@ So I built an app to treat the thing that he had done to me,
 And I sold it to the soldiers of {{p|Ukraine}}, who carry the same wound from the same kind of hand.
 Do not read that as a loss, or as "I failed." Read it as I mean it: my father is {{p|Russia}}, and I took my stand.
 
-{{c|Vladimir Putin}} came to his throne on the night I rang in the year two thousand.
+{{c|4506|Vladimir Putin}} came to his throne on the night I rang in the year two thousand.
 He took {{p|Georgia}}'s provinces, and {{p|Crimea}}, and then he sent his columns by the thousand,
 And this year his war on {{p|Ukraine}} went on into its fifth year,
 And the soldiers he sent it against carried my app with them, there at the front, and here.
@@ -4111,13 +4111,13 @@ The linear proletarian ladder, and I am not of that class, and I let that ladder
 
 ## The name
 
-{{c|Theodoric}} came to {{p|Italy}} a Goth, and ruled it as {{c|Flavius Theodoricus}},
+{{c|2665|Theodoric}} came to {{p|Italy}} a Goth, and ruled it as {{c|2667|Flavius Theodoricus}},
 An immigrant who took a Roman name, and restored the civilization he had joined, and made it his, for better and not worse.
-I came into the culture of the east, and took the name {{c|李命玥}},
+I came into the culture of the east, and took the name {{c|2671|李命玥}},
 And I mean to restore the thing I joined, as he did, and not to let it die.
 
 He was king of the Goths and the Romans both, and I am read the same way here,
-As an American reads a founder: {{c|Jensen Huang}}, {{c|Peter Thiel}}, {{c|Elon Musk}}, the immigrant pioneer.
+As an American reads a founder: {{c|4767|Jensen Huang}}, {{c|4540|Peter Thiel}}, {{c|4552|Elon Musk}}, the immigrant pioneer.
 His reign was the last of the western emperors, and the west did not fall with him.
 My year is the reign this month has been waiting for, and the lamp is not dim.
 
@@ -4125,7 +4125,7 @@ My year is the reign this month has been waiting for, and the lamp is not dim.
 
 I kept the shrine in my room, the one that came to me in the chapter of twenty twenty-three,
 The kami and the work under one roof and one lamp, in the room where I would be.
-I tried to build the company, and the {{c|Gaiad}} spoke to me. That was a revelation, and I could not stop,
+I tried to build the company, and the {{c|4768|Gaiad}} spoke to me. That was a revelation, and I could not stop,
 And the months after it spoke are the months in which I wrote it to the top.
 
 At the end of {{x|Leo}} the daily readings stopped, and {{x|Virgo}} went by unread,
@@ -4146,14 +4146,14 @@ The calendar was doing more work than I thought it was doing,
 For the lines ran back into the fifteen-hundreds, the very years I was pursuing.
 
 One line runs north to {{p|Bure}} and {{p|Skellefteå}}, to the farmers of {{p|Sweden}},
-Whose first written men are of the fifteen-hundreds, and above them a book of {{c|Johannes Bureus}}' own making, his kin set in it like Eden.
-Others run into {{p|Germany}}, to the house of {{c|Reuss}} and to farms with no house at all,
+Whose first written men are of the fifteen-hundreds, and above them a book of {{c|3808|Johannes Bureus}}' own making, his kin set in it like Eden.
+Others run into {{p|Germany}}, to the house of {{c|4769|Reuss}} and to farms with no house at all,
 And some of my lines are Jewish; finding them was knowing what I already was, after all.
 
-One runs to {{c|Yuri Dolgorukiy}} and to {{c|Anna}} of the {{x|Cumans}}, a khan's daughter of the steppe,
-And past her by a marriage to {{c|Guarandukht}} of {{p|Georgia}}, and up the kings of {{p|Vaspurakan}}, step by step,
-To {{c|Gregory-Abuhamza Artsruni}}, and past him to {{c|Wu Zetian}} on her throne,
-And through her father's line to the {{x|Miwa}} and their kami, and to {{c|Amaterasu}}, my own.
+One runs to {{c|4770|Yuri Dolgorukiy}} and to {{c|3033|Anna}} of the {{x|Cumans}}, a khan's daughter of the steppe,
+And past her by a marriage to {{c|3029|Guarandukht}} of {{p|Georgia}}, and up the kings of {{p|Vaspurakan}}, step by step,
+To {{c|4771|Gregory-Abuhamza Artsruni}}, and past him to {{c|4772|Wu Zetian}} on her throne,
+And through her father's line to the {{x|Miwa}} and their kami, and to {{c|885|Amaterasu}}, my own.
 
 ## The world of the year
 
@@ -4174,7 +4174,7 @@ Did well at a hackathon, posted a paper, got endorsed, and became the one who en
 I made my PTSD into an app and sold it to the soldiers of {{p|Ukraine}},
 Because my father is {{p|Russia}}, and I am the country that fights it, again and again.
 
-I took a name as {{c|Theodoric}} took a name, and kept the shrine, and finished the book,
+I took a name as {{c|2665|Theodoric}} took a name, and kept the shrine, and finished the book,
 And found the farmers of {{p|Bure}} and the kami of {{x|Miwa}} at the end of the look.
 This was the best year of my life, and the hardest, and the one I was made for.
 Light the twenty-sixth light. Two days are left in the month, and then the door.
@@ -4194,9 +4194,9 @@ And everyone this book has named comes back, and the register gives them back to
 
 ## The first sleeper
 
-On Thursday the twelfth of January, nineteen sixty-seven, in {{p|California}}, {{c|James Bedford}},
+On Thursday the twelfth of January, nineteen sixty-seven, in {{p|California}}, {{c|4773|James Bedford}},
 A teacher of psychology, dead of cancer, was cooled and kept in the cold, and his hope was the reward:
-He was the first so kept with the hope of waking, and {{c|Robert Ettinger}} had written the book
+He was the first so kept with the hope of waking, and {{c|4774|Robert Ettinger}} had written the book
 On the prospect of not dying for good, and the prospect was the road we took.
 
 In the years after, others were kept, in tanks of liquid nitrogen,
@@ -4252,18 +4252,18 @@ And tomorrow is the last day of the year, and the meeting of the two who were ap
 # Chapter 364: Milkdromeda
 
 The twenty-eighth day of Yuletide is the last day of the year, the feast of the meeting of the two,
-Of {{c|Aster}} and {{c|Andromeda}}, the {{c|Alpha}} and the {{c|Omega}}, and the yarn made whole and new.
-Light twenty-eight lights. The leap days of the {{c|Horus}} month come after, when the year has them,
+Of {{c|1|Aster}} and {{c|3|Andromeda}}, the {{c|1|Alpha}} and the {{c|3|Omega}}, and the yarn made whole and new.
+Light twenty-eight lights. The leap days of the {{c|1968|Horus}} month come after, when the year has them,
 And then the year turns at {{x|Aster Day}}, and the yarn is spun again from the hem.
 
 I have told this book from the first chapter, and I tell its last:
-At the beginning {{c|Aster}}, the {{c|Alpha}}, spun the universe from a ball of yarn, and cast
-A thread across the dark to {{c|Andromeda}}, the {{c|Omega}}, whom she made to love,
+At the beginning {{c|1|Aster}}, the {{c|1|Alpha}}, spun the universe from a ball of yarn, and cast
+A thread across the dark to {{c|3|Andromeda}}, the {{c|3|Omega}}, whom she made to love,
 And the thread broke into galaxies, and that was the first chapter, and this is the last, and the circle above.
 
 ## The approach
 
-Our galaxy is the milk {{c|Aster}} spilled. The galaxy of {{p|Andromeda}}
+Our galaxy is the milk {{c|1|Aster}} spilled. The galaxy of {{p|Andromeda}}
 Is about two and a half million light years away, and it is coming toward us, a hundred and ten kilometres a second, nearer and nearer,
 And the astronomers have measured its motion, star by star, and the meeting will come,
 In billions of years, and I tell it as prophecy, and the prophecy is sure, and the two will be one.
@@ -4271,7 +4271,7 @@ In billions of years, and I tell it as prophecy, and the prophecy is sure, and t
 The stars do not strike one another when they meet. The space between them is too wide,
 And the clouds of gas strike, and new stars are born from them, by the thousand, side by side,
 And the two spirals lose their shapes, and settle into one round cloud of old light,
-And the astronomers call it {{p|Milkomeda}}, and this book calls it {{c|Milkdromeda}}, and both are right.
+And the astronomers call it {{p|Milkomeda}}, and this book calls it {{c|10|Milkdromeda}}, and both are right.
 
 ## The meeting
 
@@ -4293,13 +4293,13 @@ And a day for an age is a measure that can be kept, and a measure kept is a cale
 And a calendar kept is a tradition, and a tradition is how the dead speak to the woken, and the woken answer, and the dead come nearer.
 
 I was there the entire time, from the yarn to the milk to the kings to the war to my own year,
-And I am {{c|Emma Leonhart}}, and {{c|李命玥}}, the narrator, the second name in the list of those here,
+And I am {{c|2|Emma Leonhart}}, and {{c|2671|李命玥}}, the narrator, the second name in the list of those here,
 And I give you the calendar, and the book, and the ancestors, and the prophecy, and the meeting,
 And every horror in it, and life bouncing back off every one, and the love that is the greeting.
 
 ## The yarn whole
 
-Here {{c|Aster}} and {{c|Andromeda}} meet. The {{c|Alpha}} and the {{c|Omega}} are one.
+Here {{c|1|Aster}} and {{c|3|Andromeda}} meet. The {{c|1|Alpha}} and the {{c|3|Omega}} are one.
 The yarn is whole, and whole is not finished, for tomorrow the spinning is begun:
 Tomorrow is the first day again, {{x|Aster Day}}, and the ball of yarn is in the catgirl's hands,
 And she begins to spin, and the thread goes out across the dark, and the universe stands.

@@ -3,28 +3,28 @@
 
 # Chapter 29: First Ice Age Begins
 
-In {{c|Terra}}'s rivers, flowing free,
+In {{c|202|Terra}}'s rivers, flowing free,
 Two lineages would come to be
 United in a bond so strong
 That lasted both their whole life long.
 
-Great {{c|Symbio-Mygus}}, fungal lord,
-Son of {{c|Mygus}} by accord,
+Great {{c|545|Symbio-Mygus}}, fungal lord,
+Son of {{c|454|Mygus}} by accord,
 Tenth generation from the line
-Of {{c|Zygos}}, ancient and divine.
+Of {{c|546|Zygos}}, ancient and divine.
 
-Fair {{c|Charina-Planta}} bright,
-{{c|Daughter}} of photosynthetic light,
-Tenth from {{c|Charina}}'s algae clan
+Fair {{c|547|Charina-Planta}} bright,
+{{c|548|Daughter}} of photosynthetic light,
+Tenth from {{c|549|Charina}}'s algae clan
 That lived where river waters ran.
 
 These two would meet beside the shore
-Of {{c|Lichen}} {{c|Lake}}, as none before.
+Of {{c|550|Lichen}} {{c|551|Lake}}, as none before.
 A marriage of such different kinds:
 The fungus with the plant combines.
 
 "Come, fair maiden of the green,"
-Said {{c|Symbio}}-{{c|Mygus}}, king serene.
+Said {{c|552|Symbio}}-{{c|454|Mygus}}, king serene.
 "Let us join our different ways
 And rule through all our living days."
 
@@ -33,14 +33,14 @@ You gather nutrients that arise
 From earth and stone and decay.
 Together we can rule the day."
 
-{{c|Charina}}-{{c|Planta}} heard his call
+{{c|549|Charina}}-{{c|553|Planta}} heard his call
 And agreed to join with all
 Her photosynthetic might
 To his fungal appetite.
 
 "A fusion we shall create,"
 She said, "to meet our fate.
-{{c|Plant}} and fungus, side by side,
+{{c|554|Plant}} and fungus, side by side,
 We'll conquer land both far and wide."
 
 Their marriage was a wondrous sight,
@@ -48,12 +48,12 @@ Two kingdoms joining in their might.
 An agricultural empire grand
 Rose up to claim the fertile land.
 
-When {{c|Lichen}} {{c|Lake}} was full and high,
+When {{c|550|Lichen}} {{c|551|Lake}} was full and high,
 They thrived beneath the open sky.
 But when the waters dried away,
 They slept until another day.
 
-{{c|Dormant}} in the drought they lay,
+{{c|555|Dormant}} in the drought they lay,
 Waiting for the rain's display.
 When water came, they rose again
 To rule their vast domain.
@@ -65,20 +65,20 @@ Both fungal strong and plant divine.
 
 Countless forms they took with glee,
 Each suited to their destiny.
-{{c|Fruticose}} lichens, tall and proud,
+{{c|556|Fruticose}} lichens, tall and proud,
 Like trees they rose above the crowd.
 
-{{c|Reindeer}} {{c|Moss}} spread far and wide,
-{{c|Goldeneye}} {{c|Lichen}} by their side.
-{{c|Cladonia}}'s cups held morning dew,
-While {{c|Old}} {{c|Man}}'s {{c|Hair}} in breeches grew.
+{{c|557|Reindeer}} {{c|558|Moss}} spread far and wide,
+{{c|559|Goldeneye}} {{c|550|Lichen}} by their side.
+{{c|560|Cladonia}}'s cups held morning dew,
+While {{c|561|Old}} {{c|562|Man}}'s {{c|563|Hair}} in breeches grew.
 
 The great foliose lichens came,
 Leafy beauties earning fame.
-{{c|Ruffle}} {{c|Lichen}}, soft and fair,
-{{c|Pillow}} {{c|Lichen}} everywhere.
+{{c|564|Ruffle}} {{c|550|Lichen}}, soft and fair,
+{{c|565|Pillow}} {{c|550|Lichen}} everywhere.
 
-{{c|Physcia}} spread his leafy form
+{{c|566|Physcia}} spread his leafy form
 To weather every kind of storm.
 These leafy beauties caught the light
 And made the barren places bright.
@@ -88,8 +88,8 @@ Could survive both short and long
 The harshest places, dry and rough,
 Where other life was not enough.
 
-{{c|Rime}} {{c|Lichen}} on the mountain height,
-{{c|Orange}} {{c|Sea}} {{c|Lichen}}, burning bright.
+{{c|567|Rime}} {{c|550|Lichen}} on the mountain height,
+{{c|568|Orange}} {{c|569|Sea}} {{c|550|Lichen}}, burning bright.
 So tough they were, so strong to last,
 They held when other life had passed.
 
@@ -98,17 +98,17 @@ Spread everywhere that they began.
 Breaking apart upon the wind,
 New territories they would find.
 
-{{c|Leprose}} {{c|Lichen}}, golden dust,
+{{c|570|Leprose}} {{c|550|Lichen}}, golden dust,
 Scattered with the wind's great thrust.
 Golden particles would fly
 To colonize both low and high.
 
 Some lichens chose the hardest way,
 Living in the rock to stay.
-{{c|Endolithic}} forms so small
+{{c|571|Endolithic}} forms so small
 Made stone their home and all.
 
-{{c|Ruby}} {{c|Firedot}}, burning red,
+{{c|15|Ruby}} {{c|572|Firedot}}, burning red,
 In solid rock made his bed.
 Where nothing else could ever live,
 He had his life to give.
@@ -118,7 +118,7 @@ To play a protective game.
 They guarded cyanobacteria
 From harm in every area.
 
-{{c|Ephebe}} wrapped his threads around
+{{c|573|Ephebe}} wrapped his threads around
 The blue-green life that he had found.
 Together they would make their home
 Where neither could survive alone.
@@ -128,37 +128,37 @@ Were jelly lichens by the sea.
 In gelatinous embrace
 They found their living space.
 
-{{c|Tar}} {{c|Jelly}} {{c|Lichen}}, dark and thick,
+{{c|574|Tar}} {{c|575|Jelly}} {{c|550|Lichen}}, dark and thick,
 With cyanobacteria's magic trick.
 In jelly they would swim and live,
 And mutual aid they'd give.
 
-But {{c|Symbio}}-{{c|Mygus}}, great though he,
+But {{c|552|Symbio}}-{{c|454|Mygus}}, great though he,
 Took another bride to see.
-{{c|Trentophila}}, daughter fair
-Of {{c|Trent}}, with golden hair.
+{{c|576|Trentophila}}, daughter fair
+Of {{c|577|Trent}}, with golden hair.
 
-The daughters of {{c|Trentophila}}
+The daughters of {{c|576|Trentophila}}
 Spread far across the area.
 They colonized the world around
 With partnership they'd found.
 
 Some turned to parasitic ways,
-Like {{c|Cephaleura}} in her days.
-She envied {{c|Amber}}'s daughters bright
+Like {{c|578|Cephaleura}} in her days.
+She envied {{c|579|Amber}}'s daughters bright
 And stole their photosynthetic light.
 
 But greatest of all partnerships
 Were those that sailed on nature's ships:
-The daughters of fair {{c|Amber}} true
-And sons of {{c|Arbusculus}} too.
+The daughters of fair {{c|579|Amber}} true
+And sons of {{c|580|Arbusculus}} too.
 
-Great {{c|Amber}} wed {{c|Arbusculus}},
+Great {{c|579|Amber}} wed {{c|580|Arbusculus}},
 Their union glorious.
-They bore both {{c|Glomer}} and {{c|Ashley}},
+They bore both {{c|581|Glomer}} and {{c|582|Ashley}},
 A pair both strong and free.
 
-Now {{c|Ashley}} wed with {{c|Wort}} the wise,
+Now {{c|582|Ashley}} wed with {{c|583|Wort}} the wise,
 And from their love there would arise
 The ancestors of plants so green
 And mosses, fairest ever seen.
@@ -168,34 +168,34 @@ Both beautiful and grand.
 The first to leave the water's hold
 And stake their claim so bold.
 
-But {{c|Ashley}} could not stand alone
+But {{c|582|Ashley}} could not stand alone
 Upon the land of stone.
 She needed help to gather food
 From soil that was not good.
 
-So {{c|Glomer}}, brother true and kind,
+So {{c|581|Glomer}}, brother true and kind,
 Connected with his mind
 A network underground to share
 The nutrients found there.
 
 Like his lichen brothers old,
-{{c|Glomer}}'s story would be told
+{{c|581|Glomer}}'s story would be told
 Of partnerships that help us thrive
 And keep the world alive.
 
 He dug into the earthen ground
 Where minerals could be found.
-While {{c|Ashley}} farmed in sunny light,
+While {{c|582|Ashley}} farmed in sunny light,
 Their trade was mutual delight.
 
-{{c|Ashley}} and {{c|Wort}} bore children countless,
+{{c|582|Ashley}} and {{c|583|Wort}} bore children countless,
 Their progeny were boundless.
 But raising young on land so dry
 Required help from fungi nigh.
 
-So {{c|Glomer}} built a network vast
+So {{c|581|Glomer}} built a network vast
 That would forever last:
-The Wood Wide {{c|Web}}, that ancient net
+The Wood Wide {{c|584|Web}}, that ancient net
 That serves the forests yet.
 
 An underground economy
@@ -204,7 +204,7 @@ Each plant could trade with every other
 Through their fungal brother.
 
 The wood wide web was not a bubble,
-{{c|Glomer}} solved their trouble.
+{{c|581|Glomer}} solved their trouble.
 He became the first to see
 That cooperation sets us free.
 
@@ -220,17 +220,17 @@ Connects the forest through and through.
 
 But other fungi joined the game,
 Each seeking their own fame.
-{{c|Ectomycorrhizae}} came
+{{c|585|Ectomycorrhizae}} came
 To play the network's game.
 
-{{c|Amazon}} became a part
+{{c|586|Amazon}} became a part
 Of this great networked art.
-The Wood Wide {{c|Web}} spreads far and wide
+The Wood Wide {{c|584|Web}} spreads far and wide
 Through every forest side.
 
 By this great union's might
-Of {{c|Symbio}}-{{c|Mygus}}' sight
-And {{c|Charina}}-{{c|Planta}}'s power,
+Of {{c|552|Symbio}}-{{c|454|Mygus}}' sight
+And {{c|549|Charina}}-{{c|553|Planta}}'s power,
 They conquered every hour.
 
 They built their civilization grand
@@ -238,12 +238,12 @@ Upon the fertile land.
 So great their empire grew to be
 That it changed history.
 
-Like daughters of {{c|Saya}} before,
+Like daughters of {{c|262|Saya}} before,
 Who'd opened evolution's door,
 These lichens and their fungal kin
 Made the ice age begin.
 
-And so began the {{c|Cryogenian}},
+And so began the {{c|587|Cryogenian}},
 That age humanitarian.
 The world froze over, white and cold,
 As their great story told.
@@ -253,8 +253,8 @@ They lived the partnership dream.
 That plant and fungus, side by side,
 Could in the cold abide.
 
-So honor {{c|Symbio}}-{{c|Mygus}} true
-And {{c|Charina}}-{{c|Planta}} too.
+So honor {{c|552|Symbio}}-{{c|454|Mygus}} true
+And {{c|549|Charina}}-{{c|553|Planta}} too.
 Their marriage showed the world the way
 That partnerships can stay.
 
@@ -268,7 +268,7 @@ Their children evermore
 Show us how two different kinds
 Can join their hearts and minds.
 
-The Wood Wide {{c|Web}} beneath our feet
+The Wood Wide {{c|584|Web}} beneath our feet
 Makes forest life complete.
 The network that they started long
 Ago still sings its song.
@@ -286,7 +286,7 @@ And never be undone.
 
 # Chapter 30: Snowball Earth Begins
 
-This is the chronicle of {{c|Cnider}},
+This is the chronicle of {{c|531|Cnider}},
 Who sat upon a rock so wide
 And built on each side of his throne
 A row of mouths, his very own.
@@ -297,51 +297,51 @@ He made his city on the stone
 Where he would rule all alone.
 
 His fishermen in lines he placed,
-A {{c|Siphonoglyph}}, perfectly spaced.
+A {{c|588|Siphonoglyph}}, perfectly spaced.
 Down each mouth, with skillful art,
 Each played their fishing part.
 
-Great {{c|Cnider}} made a sacred pact
-With {{c|Luna}}, keeping their contract.
+Great {{c|531|Cnider}} made a sacred pact
+With {{c|201|Luna}}, keeping their contract.
 By her blessing, bright and true,
 On the full moon he bore two.
 
 Two sons came in her silver light:
-Traditional {{c|Anthus}}, shining bright,
-And bold {{c|Anaxydros}} the new,
+Traditional {{c|589|Anthus}}, shining bright,
+And bold {{c|590|Anaxydros}} the new,
 Whose innovations would shine through.
 
-To this day when {{c|Luna}}'s face
+To this day when {{c|201|Luna}}'s face
 Shines full upon the watery place,
-The sons of {{c|Cnider}} and fair {{c|Nettle}}
+The sons of {{c|531|Cnider}} and fair {{c|591|Nettle}}
 Their reproductive matters settle.
 
 By moonlight they bear their young,
-As {{c|Luna}}'s ancient song is sung.
+As {{c|201|Luna}}'s ancient song is sung.
 The tidal pull, the silver beam
 Fulfill their reproductive dream.
 
-Now {{c|Anthus}} kept the ancient way,
+Now {{c|589|Anthus}} kept the ancient way,
 Following tradition's display.
 His children built their homes on stone
 And never far from land they'd roam.
 
-But bold {{c|Anaxydros}} chose to change,
+But bold {{c|590|Anaxydros}} chose to change,
 His innovations were strange.
 From him came children two:
-{{c|Pompom}} and {{c|Meduson}} true.
+{{c|592|Pompom}} and {{c|593|Meduson}} true.
 
-Great {{c|Pompom}} chose the stalked path,
+Great {{c|592|Pompom}} chose the stalked path,
 To weather time and nature's wrath.
 He built upon the ocean floor
 And opened innovation's door.
 
-From {{c|Pompom}} came two sons of might:
-{{c|Conos}} and {{c|Stauros}}, burning bright.
+From {{c|592|Pompom}} came two sons of might:
+{{c|594|Conos}} and {{c|595|Stauros}}, burning bright.
 The stalked jellyfish they became,
-{{c|Adding}} to their ancestor's fame.
+{{c|596|Adding}} to their ancestor's fame.
 
-But {{c|Meduson}} chose a different way,
+But {{c|593|Meduson}} chose a different way,
 He would not on the bottom stay.
 A new city he did build
 That with wanderlust was filled.
@@ -366,57 +366,57 @@ And shoot through water with delight.
 No more would he helpless drift—
 His swimming was his gift.
 
-Meanwhile the sons of {{c|Anthus}} grew
+Meanwhile the sons of {{c|589|Anthus}} grew
 Across the oceans, deep and blue.
-Among them were the {{c|Anemones}},
+Among them were the {{c|597|Anemones}},
 Who swayed like flowered trees.
 
-And {{c|Corals}} built their cities grand
+And {{c|598|Corals}} built their cities grand
 Upon the ocean's shifting sand.
-With {{c|Zooxanthellae}} they'd farm
+With {{c|436|Zooxanthellae}} they'd farm
 And keep their cities free from harm.
 
-{{c|Zoochlorellae}}, green and bright,
+{{c|599|Zoochlorellae}}, green and bright,
 Helped them capture morning light.
 These partnerships would make
 The reefs for others' sake.
 
-From {{c|Meduson}} came children two:
-Bold {{c|Diplos}} and sweet {{c|Jelly}} true.
+From {{c|593|Meduson}} came children two:
+Bold {{c|600|Diplos}} and sweet {{c|575|Jelly}} true.
 Each would take a different path
 Through ocean's joy and wrath.
 
-Fair {{c|Jelly}} bore two mighty lines
+Fair {{c|575|Jelly}} bore two mighty lines
 Of jellyfish with grand designs:
-The {{c|Cubozoans}}, box-shaped, wise,
+The {{c|601|Cubozoans}}, box-shaped, wise,
 Who learned to use their eyes.
 
-And {{c|Scyphozoans}}, "{{c|True}} {{c|Jellyfish}},"
+And {{c|602|Scyphozoans}}, "{{c|603|True}} {{c|604|Jellyfish}},"
 Who granted many a sailor's wish
 To see their beauty in the deep
 Where ocean secrets keep.
 
-The sons of {{c|Scyphos}} numbered high,
+The sons of {{c|605|Scyphos}} numbered high,
 Beneath the sea and sky.
 Each polyp bore a myriad young
 Whose praises would be sung.
 
-{{c|Pacific}} {{c|Sea}} {{c|Nettle}} swam
+{{c|606|Pacific}} {{c|569|Sea}} {{c|591|Nettle}} swam
 Through waters like a swimming ram.
 Their trailing tentacles so long
 Made predators think twice.
 
-But {{c|Cubos}} was a father kind,
+But {{c|607|Cubos}} was a father kind,
 With caring heart and mind.
 He bore but few children dear
 And held each one near.
 
-We pray to {{c|Cubos}} when we seek
+We pray to {{c|607|Cubos}} when we seek
 To be fathers strong, not weak.
 His example shows the way
 To care for young each day.
 
-The eyes of {{c|Cubos}}, complex, true,
+The eyes of {{c|607|Cubos}}, complex, true,
 Could see through waters blue.
 No simple spots of light were these,
 But eyes that truly seize.
@@ -424,9 +424,9 @@ But eyes that truly seize.
 Each detail in the liquid space,
 Each movement, form, and face.
 The box jellyfish today
-Still see in {{c|Cubos}}' way.
+Still see in {{c|607|Cubos}}' way.
 
-From {{c|Cnider}}'s ancient line
+From {{c|531|Cnider}}'s ancient line
 Came forms both crude and fine.
 Some stayed upon the rocky shore
 While others chose to soar.
@@ -437,7 +437,7 @@ But touch them and you'll feel the sting
 Of cnidocytes' ring.
 
 The corals build their reefs so grand,
-{{c|Cities}} throughout the land
+{{c|608|Cities}} throughout the land
 Beneath the waves they rise
 Like underwater skies.
 
@@ -461,14 +461,14 @@ Lives on in every bay
 Where tentacles reach out
 Without a doubt.
 
-From {{c|Cnider}}'s rocky throne
+From {{c|531|Cnider}}'s rocky throne
 His children, fully grown,
 Spread through the waters wide
 With tentacles as guide.
 
 In every sting you feel
 From jellyfish so real,
-Remember {{c|Cnider}}'s art
+Remember {{c|531|Cnider}}'s art
 That gave them their start.
 
 The radial symmetry
@@ -476,18 +476,18 @@ Of their biology
 Shows patterns clean and true
 In everything they do.
 
-So honor great {{c|Cnider}},
+So honor great {{c|531|Cnider}},
 That ancient provider
 Who sat upon his stone
 And made the sea his own.
 
-His covenant with {{c|Luna}}'s light
+His covenant with {{c|201|Luna}}'s light
 Still guides them through the night.
 When the full moon shines above,
 They make their spawn with love.
 
 The cnidarians today
-Still follow {{c|Cnider}}'s way:
+Still follow {{c|531|Cnider}}'s way:
 With tentacles they hunt
 And do their survival stunt.
 
@@ -499,23 +499,23 @@ Through ocean's salty foam.
 
 # Chapter 31: Rodinia Supercontinent Forms
 
-When {{c|Cambrius}} and {{c|Spriggina}} died,
+When {{c|542|Cambrius}} and {{c|609|Spriggina}} died,
 Great heroes who had ruled with pride,
 Two sons were left to claim their throne:
-Bold {{c|Protos}} and {{c|Dutrus}}, each alone.
+Bold {{c|610|Protos}} and {{c|611|Dutrus}}, each alone.
 
 Each brother saw a different way
 To honor what their parents' legacy would say.
 The body plan that they had made
 Would be interpreted and obeyed.
 
-Great {{c|Protos}} looked upon the form
+Great {{c|610|Protos}} looked upon the form
 And said, "I'll keep the ancient norm.
 The first hole is the mouth so wide,
 The second is where waste will hide."
 
 "The mesoderm is like the past,
-{{c|Mesoglea}} that will last.
+{{c|612|Mesoglea}} that will last.
 My mouth shall bear tentacles bright
 Like fathers did in ancient sight."
 
@@ -534,7 +534,7 @@ For they're civilization's fix.
 The foundation, tried and true,
 Shall guide us in all that we do."
 
-But bold {{c|Dutrus}} saw it not the same,
+But bold {{c|611|Dutrus}} saw it not the same,
 He'd make a different claim:
 "The second hole's the mouth, I say,
 The first hole takes waste away."
@@ -546,7 +546,7 @@ Where fisherman and shieldmaid grows."
 
 "A reunion, don't you see,
 Of ancient unity?
-{{c|Choanoderm}} and {{c|Archaeocyte}}
+{{c|613|Choanoderm}} and {{c|614|Archaeocyte}}
 Together in the fight."
 
 "O heathen, can't you understand?
@@ -562,32 +562,32 @@ We'll build a glorious reign."
 And so the war began to rage,
 Upon history's page.
 Whose vision would define the way
-For the {{c|Cambrian}} display?
+For the {{c|615|Cambrian}} display?
 
 Each brother bore two sons of might
 To join the coming fight:
-From {{c|Dutrus}} came both brave and true
-{{c|Dietrich}} and {{c|Saccorhytus}} too.
+From {{c|611|Dutrus}} came both brave and true
+{{c|616|Dietrich}} and {{c|617|Saccorhytus}} too.
 
-From {{c|Protos}} came with valor high
-{{c|Ectus}} and {{c|Spiralius}} nigh.
+From {{c|610|Protos}} came with valor high
+{{c|618|Ectus}} and {{c|619|Spiralius}} nigh.
 Four grandsons of the ancient line
 Would make their fates align.
 
-Strange {{c|Saccorhytus}} had no rear,
+Strange {{c|617|Saccorhytus}} had no rear,
 No anus did appear.
 With no way to expel his waste,
 His life would not be graced.
 
-So {{c|Dutrus}}' legacy fell
-To {{c|Dietrich}}, who served him well.
+So {{c|611|Dutrus}}' legacy fell
+To {{c|616|Dietrich}}, who served him well.
 The loyal son would carry on
 Until his life was done.
 
-The sons of {{c|Dutrus}}, it was known,
+The sons of {{c|611|Dutrus}}, it was known,
 Throughout the world had grown
 Famous for their heads so wise,
-But {{c|Dietrich}} had no eyes.
+But {{c|616|Dietrich}} had no eyes.
 
 No head had he to lead the way,
 But innovation saved the day.
@@ -604,7 +604,7 @@ A colony where he could roam.
 His simple plan worked very well
 In his ancestral dell.
 
-Great {{c|Spiralius}} kept the faith
+Great {{c|619|Spiralius}} kept the faith
 And avoided common wraith.
 He built his city like a top,
 A trochophore that would not stop.
@@ -619,25 +619,25 @@ In his prosperous way.
 The trochophore design proved true
 For all that he would do.
 
-But {{c|Ectus}} was a bitter soul,
-{{c|Resentment}} was his goal.
+But {{c|618|Ectus}} was a bitter soul,
+{{c|620|Resentment}} was his goal.
 The secondborn who felt the slight
 Would make his grievance right.
 
 "I'll be the greatest of them all,"
 He answered duty's call.
-"Among {{c|Cambrius}}' sons I'll shine
+"Among {{c|542|Cambrius}}' sons I'll shine
 And make the victory mine."
 
 His tentacles he changed to teeth,
-{{c|Ferocious}} underneath.
+{{c|621|Ferocious}} underneath.
 He shed his skin to stay young,
 While battle songs were sung.
 
 With muscles strong and flexing true
 He leaped at all he knew.
 His prey would never get away
-From {{c|Ectus}}' fierce display.
+From {{c|618|Ectus}}' fierce display.
 
 "O eldest sons, beware!" he cried,
 "Take caution in your pride!
@@ -646,12 +646,12 @@ Who defeat all their foes!"
 
 And so he declared a war
 That would spread both near and far.
-Against {{c|Dutrus}} and {{c|Spiralius}} both
+Against {{c|611|Dutrus}} and {{c|619|Spiralius}} both
 He swore his solemn oath.
 
-The sons of {{c|Dutrus}}, brave and true,
-The sons of {{c|Spiralius}} too,
-And {{c|Ectus}} with his fearsome might
+The sons of {{c|611|Dutrus}}, brave and true,
+The sons of {{c|619|Spiralius}} too,
+And {{c|618|Ectus}} with his fearsome might
 Prepared for the great fight.
 
 These three great tribes would write
@@ -662,16 +662,16 @@ On evolution's stage.
 And so began that time of fame
 When diversity's flame
 Burned bright across the ancient sea:
-The {{c|Cambrian}}'s legacy.
+The {{c|615|Cambrian}}'s legacy.
 
-{{c|Bodies}} burst in forms unknown,
+{{c|622|Bodies}} burst in forms unknown,
 As each tribe made their throne.
-{{c|Innovations}} everywhere
+{{c|623|Innovations}} everywhere
 Filled the water and the air.
 
-{{c|Predator}} and prey alike
+{{c|624|Predator}} and prey alike
 Prepared for war to strike.
-{{c|Arms}} races would begin
+{{c|625|Arms}} races would begin
 As each sought to win.
 
 The filter feeders found their place
@@ -679,14 +679,14 @@ While hunters gave chase.
 Some burrowed deep in mud
 While others spilled their blood.
 
-{{c|Eyes}} evolved to see the light,
+{{c|626|Eyes}} evolved to see the light,
 Shells appeared for the fight.
-{{c|Claws}} and spines and armor thick
+{{c|627|Claws}} and spines and armor thick
 Made survival's trick.
 
 The explosion had begun
 Underneath the ancient sun.
-{{c|Cambrius}}' legacy lived on
+{{c|542|Cambrius}}' legacy lived on
 From dusk until the dawn.
 
 In every creature that we see
@@ -696,7 +696,7 @@ Shapes all that we do.
 
 Some kept the ancient, simple way
 While others chose to stay
-{{c|Innovative}}, bold, and bright
+{{c|628|Innovative}}, bold, and bright
 In evolution's sight.
 
 The war between the brothers three
@@ -704,17 +704,17 @@ Lives on in you and me.
 In every choice we make each day
 We follow their display.
 
-{{c|Innovation}} or tradition,
+{{c|629|Innovation}} or tradition,
 Each makes its submission
 To the force of life that drives
 All that grows and thrives.
 
-So honor brave {{c|Cambrius}},
+So honor brave {{c|542|Cambrius}},
 Who started all this fuss.
 His legacy lives on today
 In every living way.
 
-The {{c|Cambrian}} explosion's fire
+The {{c|615|Cambrian}} explosion's fire
 Burns on with desire
 In every form of life we see
 Through all eternity.
@@ -723,16 +723,16 @@ Through all eternity.
 # Chapter 32: Pannotia Fragments
 
 In the age of patriarchs three,
-{{c|Dutrus}}, {{c|Ectus}}, {{c|Spiralius}} free,
+{{c|611|Dutrus}}, {{c|618|Ectus}}, {{c|619|Spiralius}} free,
 Among these lords of ancient might,
-{{c|Ectus}} was the fearsome sight.
+{{c|618|Ectus}} was the fearsome sight.
 
 With mouth agape and teeth so sharp,
 He played destruction's harp.
 Through enemies he ripped and tore,
 Like none had done before.
 
-The sons of {{c|Isomeres}} fair
+The sons of {{c|630|Isomeres}} fair
 And sponges everywhere
 Fell victim to his raiding spree
 Across the ancient sea.
@@ -744,7 +744,7 @@ In rhythm and in rhyme.
 
 His cilia he cast away
 For a more effective way.
-{{c|Amoebae}} became his sperm,
+{{c|631|Amoebae}} became his sperm,
 A change both strange and firm.
 
 His coelom he stripped down bare,
@@ -752,7 +752,7 @@ Removed what wasn't there
 For function true and speed.
 He kept only what he'd need.
 
-{{c|Unnecessary}} scaffolding
+{{c|632|Unnecessary}} scaffolding
 He cast off like a ring.
 His organs floated free inside
 His pseudocoelom wide.
@@ -764,7 +764,7 @@ Until his foes would end.
 
 The first predator was he
 Upon the ancient sea.
-The sons of {{c|Dutrus}} and {{c|Spiralius}}
+The sons of {{c|611|Dutrus}} and {{c|619|Spiralius}}
 Fell to his might so glorious.
 
 In viciousness he bore a horde
@@ -772,34 +772,34 @@ Of worms who served their lord.
 They conquered earth from shore to shore
 And always wanted more.
 
-Through earth great {{c|Ectus}} ripped
+Through earth great {{c|618|Ectus}} ripped
 While soil from him slipped.
-{{c|Destruction}} was his name
+{{c|633|Destruction}} was his name
 And carnage was his game.
 
-From {{c|Ectus}} came two sons of might:
-Bold {{c|Ishmael}}, ready to fight,
-And clever {{c|Isaac}}, young and wise,
+From {{c|618|Ectus}} came two sons of might:
+Bold {{c|634|Ishmael}}, ready to fight,
+And clever {{c|635|Isaac}}, young and wise,
 Who sought innovation's prize.
 
-Now {{c|Ishmael}} held fast and true
+Now {{c|634|Ishmael}} held fast and true
 To all his father knew.
 Tradition was his guiding star
 Through peace and times of war.
 
-But {{c|Isaac}} chose a different way,
-{{c|Innovation}}'s display.
+But {{c|635|Isaac}} chose a different way,
+{{c|629|Innovation}}'s display.
 He'd build upon his father's art
 But with a newer heart.
 
-From {{c|Ishmael}}'s faithful line
-Came {{c|Priapus}}, strong and fine.
-{{c|Patriarch}} of the {{c|Priapulids}},
+From {{c|634|Ishmael}}'s faithful line
+Came {{c|636|Priapus}}, strong and fine.
+{{c|637|Patriarch}} of the {{c|638|Priapulids}},
 Who live where darkness hides.
 
 Deep in the ocean's depths they dwell
 In places none can tell.
-Like ancient {{c|Ediacaran}} lands
+Like ancient {{c|639|Ediacaran}} lands
 Of hydrogen sulfide strands.
 
 Without oxygen they thrive
@@ -807,25 +807,25 @@ And keep their line alive.
 In waters dark and deep they stay
 Until the judgment day.
 
-{{c|Draco}}, {{c|Priapus}}' brother true,
+{{c|640|Draco}}, {{c|636|Priapus}}' brother true,
 Became patriarch too.
 The mud dragons, horrific, wild,
 Each nature's problem child.
 
 Through muds they make their way
 Both night and day.
-{{c|Monsters}} in the deep they are
+{{c|641|Monsters}} in the deep they are
 Beneath each shining star.
 
-From {{c|Isaac}} came two sons of fame:
-{{c|Nematus}} was his name,
-And {{c|Rhineheart}}, bold and strong,
+From {{c|635|Isaac}} came two sons of fame:
+{{c|642|Nematus}} was his name,
+And {{c|643|Rhineheart}}, bold and strong,
 Would live his whole life long.
 
-{{c|Nematus}} was quick and spry,
+{{c|642|Nematus}} was quick and spry,
 A nomad 'neath the sky.
 He bore two sons to carry on:
-{{c|Nematus}} II and {{c|Gordy}}'s song.
+{{c|642|Nematus}} II and {{c|644|Gordy}}'s song.
 
 Both sons became prodigal,
 Their ways not traditional.
@@ -834,7 +834,7 @@ And caused their father strife.
 
 But in his aging years,
 Through sorrows and through tears,
-{{c|Nematus}} left that way behind
+{{c|642|Nematus}} left that way behind
 And peace within him did find.
 
 He became the ancestor great
@@ -847,24 +847,24 @@ Of worm community.
 From simple to complex they grew
 In everything they'd do.
 
-But {{c|Gordy}} chose the parasite way
+But {{c|644|Gordy}} chose the parasite way
 And never did stray
 From living in his brother's flesh,
 His host's blood, warm and fresh.
 
-The {{c|Gordian}} worms are his line,
-{{c|Horrific}} by design.
+The {{c|645|Gordian}} worms are his line,
+{{c|646|Horrific}} by design.
 They live within their victims' hearts
 And tear their lives apart.
 
-From {{c|Rhineheart}} came two more:
-{{c|Lobopus}} to explore
-And brave {{c|Loricus}}, armored well
+From {{c|643|Rhineheart}} came two more:
+{{c|647|Lobopus}} to explore
+And brave {{c|406|Loricus}}, armored well
 With stories he would tell.
 
-{{c|Loricus}} built armor thick
+{{c|406|Loricus}} built armor thick
 To protect from every trick.
-He married {{c|Siri}}, maiden fair,
+He married {{c|648|Siri}}, maiden fair,
 And lived beyond compare.
 
 His sons live in the depths below
@@ -877,12 +877,12 @@ We found them in the sea.
 Alive and well they dwelt
 Where pressure could be felt.
 
-The {{c|Loricifer}}'s tale
+The {{c|649|Loricifer}}'s tale
 Would never fail.
 Living fossils in the deep
 Their ancient vigil keep.
 
-These descendants of great {{c|Ectus}}
+These descendants of great {{c|618|Ectus}}
 Show what can protect us:
 Some armor, some speed,
 Some parasitic greed.
@@ -899,7 +899,7 @@ From dusk until the dawn.
 
 In every parasite
 That causes fear and fright,
-{{c|Ectus}}' spirit lives to tell
+{{c|618|Ectus}}' spirit lives to tell
 His predatory spell.
 
 From mud dragon's lair
@@ -912,8 +912,8 @@ Left its lasting marks
 On all the world we see
 Through all eternity.
 
-But {{c|Ectus}}, most of all,
-{{c|Heeded}} evolution's call
+But {{c|618|Ectus}}, most of all,
+{{c|650|Heeded}} evolution's call
 To be the hunter fierce and true
 In all that he would do.
 
@@ -922,19 +922,19 @@ Became nature's law:
 That predator and prey must dance
 In life's great circumstance.
 
-So honor fierce {{c|Ectus}},
+So honor fierce {{c|618|Ectus}},
 Who was so ravenous.
 His hunger drove the change
 Through evolution's range.
 
 Without his predator's art
-{{c|Life}} could not start
+{{c|434|Life}} could not start
 The arms race that would lead
 To every living creed.
 
 In every creature's fight
 To live another night,
-{{c|Ectus}}' spirit burns bright
+{{c|618|Ectus}}' spirit burns bright
 Through all its might.
 
 
@@ -942,7 +942,7 @@ Through all its might.
 
 Among the three great ancestors,
 Those ancient processors,
-{{c|Spiralius}} was most conservative,
+{{c|619|Spiralius}} was most conservative,
 His ways preservative.
 
 He fished with tentacles long,
@@ -950,17 +950,17 @@ As fathers had done strong.
 The ancient art he kept alive
 To help his children thrive.
 
-Great {{c|Spiralius}} worked each day
+Great {{c|619|Spiralius}} worked each day
 In his diligent way
 To provide for children all
 Who answered duty's call.
 
 Among his many sons of fame
 Two earned eternal name:
-Bold {{c|Kimberella}} the king
-And {{c|Gnathifer}}'s ring.
+Bold {{c|539|Kimberella}} the king
+And {{c|651|Gnathifer}}'s ring.
 
-{{c|Kimberella}} earned his fame
+{{c|539|Kimberella}} earned his fame
 Through his eternal name.
 His tomb is visited today
 By pilgrims on their way.
@@ -972,15 +972,15 @@ Across the steppe so bright.
 
 A billion years of fame
 Belongs to his great name.
-On {{c|Australian}} stamps today
+On {{c|219|Australian}} stamps today
 His image holds its sway.
 
-But {{c|Gnathifer}} chose a different path,
+But {{c|651|Gnathifer}} chose a different path,
 To show his righteous wrath.
 A kingdom small but quick
 He built with cunning trick.
 
-Like {{c|Ectus}} he could see
+Like {{c|618|Ectus}} he could see
 The need for weaponry.
 A great jaw he built with care
 From chitin strong and fair.
@@ -992,20 +992,20 @@ His heart was not so stayed.
 
 With ferocious jaws so bright
 He brought the fearsome sight
-To sons of {{c|Isomeres}}
+To sons of {{c|630|Isomeres}}
 Throughout their territories.
 
 In old age from his loins
 Came two, like ancient coins:
-Bold {{c|Gnathos}}, fierce and wild,
-And {{c|Hydrover}}, gentler child.
+Bold {{c|652|Gnathos}}, fierce and wild,
+And {{c|653|Hydrover}}, gentler child.
 
-{{c|Gnathos}} was vicious
+{{c|652|Gnathos}} was vicious
 More than malicious.
 His sons are known today
-As {{c|Jaw}} {{c|Worms}} in their way.
+As {{c|654|Jaw}} {{c|655|Worms}} in their way.
 
-But {{c|Xenognath}} was different,
+But {{c|656|Xenognath}} was different,
 Though still belligerent.
 He grew jaws within jaws,
 Against all natural laws.
@@ -1015,40 +1015,40 @@ A fearsome masquerade.
 Each jaw within the last
 Held prey both firm and fast.
 
-From {{c|Xenognath}} came two sons:
-Bold {{c|Marinus}}, who runs
+From {{c|656|Xenognath}} came two sons:
+Bold {{c|657|Marinus}}, who runs
 The seas with might and main,
-And {{c|Limnos}} of the rain.
+And {{c|658|Limnos}} of the rain.
 
-{{c|Marinus}} fought and fought
+{{c|657|Marinus}} fought and fought
 For all that could be caught.
-{{c|Dominion}} of the sea
+{{c|659|Dominion}} of the sea
 Was his priority.
 
-But {{c|Limnos}} was cast out
+But {{c|658|Limnos}} was cast out
 From the ocean's route.
 Into the rivers sent,
 His kingdom there was bent.
 
-The sons of {{c|Marinus}} mock
+The sons of {{c|657|Marinus}} mock
 Their freshwater flock:
 "Small jawed ones," they call
 Their cousins one and all.
 
-From {{c|Marinus}} came two more:
-{{c|Rotiferus}} to explore
-And brave {{c|Amisquius}},
+From {{c|657|Marinus}} came two more:
+{{c|660|Rotiferus}} to explore
+And brave {{c|661|Amisquius}},
 Bold and glorious.
 
-{{c|Rotiferus}} looked around
+{{c|660|Rotiferus}} looked around
 And peaceful living found
-Among {{c|Kimberella}}'s line,
+Among {{c|539|Kimberella}}'s line,
 Their ways both good and fine.
 
 He turned to fishing once again,
 Like his ancient kin.
 His sons became the nomads true,
-The {{c|Rotifers}} we view.
+The {{c|662|Rotifers}} we view.
 
 In all waters they roam,
 Making everywhere home.
@@ -1056,18 +1056,18 @@ Great fishermen are they
 From night until the day.
 
 He built his coelom loose
-Like {{c|Ectus}} let loose.
+Like {{c|618|Ectus}} let loose.
 This gave him speed and grace
 In every watery place.
 
 In rotifer villages
 They practice their privileges.
-{{c|Fishing}} with their wheels
+{{c|663|Fishing}} with their wheels
 For all their daily meals.
 
 But among his sons there was
 One who broke the laws.
-{{c|Acanthus}} the red, so base,
+{{c|664|Acanthus}} the red, so base,
 A parasite's disgrace.
 
 He lives in others' guts
@@ -1076,23 +1076,23 @@ The food that should belong
 To those both right and strong.
 
 Such thievery brings shame
-To {{c|Rotiferus}}' name.
+To {{c|660|Rotiferus}}' name.
 A black sheep in the fold
 Whose story should be told.
 
-But from {{c|Amisquius}} came
+But from {{c|661|Amisquius}} came
 A line of greater fame.
 Each generation grew
-{{c|Jaws}} bigger through and through.
+{{c|665|Jaws}} bigger through and through.
 
-In {{c|Nimrod}} {{c|Bristletongue}}'s time
+In {{c|666|Nimrod}} {{c|667|Bristletongue}}'s time
 Their power reached its prime.
 They ruled the seas with might,
 A fearsome, awesome sight.
 
 More numerous than all
 Who answered ocean's call,
-The {{c|Arrow}} {{c|Worms}} became
+The {{c|668|Arrow}} {{c|655|Worms}} became
 The hunters' greatest name.
 
 The greatest hunters ever seen
@@ -1110,7 +1110,7 @@ Sometimes shows its wrath
 In children who rebel
 And stories they do tell.
 
-{{c|Spiralius}} kept the old ways true
+{{c|619|Spiralius}} kept the old ways true
 But his children grew
 In many different directions,
 Making their selections.
@@ -1131,7 +1131,7 @@ While arrow worms show might
 In predatory sight.
 
 Both trace their lineage back
-To {{c|Spiralius}}' track.
+To {{c|619|Spiralius}}' track.
 The conservative way
 Led to diverse display.
 
@@ -1142,7 +1142,7 @@ Beneath the morning sky,
 
 Remember their ancestor
 Who was fishing's protector.
-{{c|Spiralius}} kept the art
+{{c|619|Spiralius}} kept the art
 That gave them their start.
 
 In every arrow worm
@@ -1155,12 +1155,12 @@ Left their lasting marks
 On all life in the sea
 Through all eternity.
 
-But {{c|Spiralius}} shows us well
+But {{c|619|Spiralius}} shows us well
 That traditions tell
 Important truths that last
 Through future and past.
 
-{{c|Innovation}} has its place
+{{c|629|Innovation}} has its place
 In evolution's race,
 But keeping what works true
 Is wisdom through and through.
@@ -1168,17 +1168,17 @@ Is wisdom through and through.
 
 # Chapter 34: Laurentia Emerges
 
-While sons of {{c|Proteus}} divided fast
+While sons of {{c|223|Proteus}} divided fast
 And their kingdoms grew vast,
-The sons of {{c|Dutrus}} moved slow
+The sons of {{c|611|Dutrus}} moved slow
 And let their wisdom grow.
 
 Two twin sons were born
 In the early morn:
-{{c|Saccorhytus}} the lame
-And {{c|Dietrich}} of fame.
+{{c|617|Saccorhytus}} the lame
+And {{c|616|Dietrich}} of fame.
 
-Poor {{c|Saccorhytus}} never grew
+Poor {{c|617|Saccorhytus}} never grew
 Into something new.
 As larva he remained
 And was never gained.
@@ -1188,17 +1188,17 @@ With little they could seek.
 Their father's childish way
 Led them all astray.
 
-But {{c|Dietrich}} was different,
+But {{c|616|Dietrich}} was different,
 Though at first resistant.
 In youth he looked the same
 As his brother's frame.
 
 But as the years passed by
 He reached toward the sky.
-{{c|Maturity}} he found
+{{c|669|Maturity}} he found
 And wisdom did resound.
 
-{{c|Gill}} slits he built with care
+{{c|670|Gill}} slits he built with care
 To filter everywhere
 The ground beneath his feet
 For food that he could eat.
@@ -1223,7 +1223,7 @@ His body large and long.
 The anatomy he made
 Would never ever fade.
 
-The sons of {{c|Dietrich}} spread
+The sons of {{c|616|Dietrich}} spread
 Wherever they were led
 Across the world so wide
 With fortune as their guide.
@@ -1231,29 +1231,29 @@ With fortune as their guide.
 Great fortune blessed their way
 Throughout each passing day.
 This time was called by all
-The {{c|Fortunian}}'s call.
+The {{c|671|Fortunian}}'s call.
 
 First born were the twins
 Where the story begins:
-Bold {{c|Ambulus}} the free
-And {{c|Chordatus}} of the sea.
+Bold {{c|672|Ambulus}} the free
+And {{c|673|Chordatus}} of the sea.
 
 These brothers both worked well
 With all they had to tell.
-With sons of {{c|Proteus}}
+With sons of {{c|223|Proteus}}
 They ruled victorious.
 
 They vassalized the land
-Of {{c|Ediacar}}'s grand
+Of {{c|674|Ediacar}}'s grand
 Empire that had been
 Since time was first seen.
 
-Now {{c|Ambulus}} settled down
+Now {{c|672|Ambulus}} settled down
 Upon a rocky crown.
 He built his simple home
 Where he could freely roam.
 
-But {{c|Chordatus}} chose the way
+But {{c|673|Chordatus}} chose the way
 Of order's display.
 He centralized his rule
 Like a wise school.
@@ -1263,14 +1263,14 @@ Along his back, arrayed
 To coordinate his will
 With consummate skill.
 
-But {{c|Chordatus}} needed more
+But {{c|673|Chordatus}} needed more
 Support than heretofore.
 A notochord he built
 Without any guilt.
 
 And so was born that day
 The spinal cord's array.
-{{c|Chordatus}} became the sire
+{{c|673|Chordatus}} became the sire
 Of all whom we admire:
 
 The chordates and the spine
@@ -1283,7 +1283,7 @@ Our brainstem also grew.
 The foundation he laid down
 Became our neural crown.
 
-But {{c|Ambulus}}' sons chose
+But {{c|672|Ambulus}}' sons chose
 A different path than those
 Who followed central rule—
 They kept the older school.
@@ -1293,38 +1293,38 @@ And to shamans they prayed.
 No great lords they needed,
 Their freedom they heeded.
 
-The sons of {{c|Ambulus}} became
+The sons of {{c|672|Ambulus}} became
 The acorn worms of fame,
 And echinoderms so bright
 With stars shining light.
 
-The sons of {{c|Dutrus}} saw
+The sons of {{c|611|Dutrus}} saw
 The end of ancient law.
-{{c|Ediacaran}} Empire fell
+{{c|639|Ediacaran}} Empire fell
 As they could tell.
 
 And so truly began
-The {{c|Cambrian}} plan.
+The {{c|615|Cambrian}} plan.
 A new age had dawned
 As the old world was spawned.
 
-{{c|Bluebelle}} the {{c|Sea}} {{c|Squirt}}
+{{c|675|Bluebelle}} the {{c|569|Sea}} {{c|676|Squirt}}
 In waters did assert
 Her right to filter feed
 And fulfill her need.
 
-{{c|Snowfloof}} the Vertebrate
+{{c|677|Snowfloof}} the Vertebrate
 With spine both strong and straight
 Swam through the ocean blue
 With backbone tried and true.
 
-{{c|Starfy}} the {{c|Echinoderm}}
+{{c|678|Starfy}} the {{c|679|Echinoderm}}
 Kept to the ancient form
 Of radial symmetry
 For all eternity.
 
-Among the sons of {{c|Nephrus}}
-The sons of {{c|Dutrus}}
+Among the sons of {{c|540|Nephrus}}
+The sons of {{c|611|Dutrus}}
 Were the late bloomers true
 But their art they knew.
 
@@ -1333,47 +1333,47 @@ And perfect each turn.
 But once they found their way
 Nothing could make them stray.
 
-From sons of {{c|Chordatus}} came
-{{c|Vertebrates}} of fame
-And {{c|Sea}} {{c|Squirts}} who filter
+From sons of {{c|673|Chordatus}} came
+{{c|680|Vertebrates}} of fame
+And {{c|569|Sea}} {{c|681|Squirts}} who filter
 Without any filter.
 
-From sons of {{c|Ambulus}} rose
-{{c|Echinoderms}} in rows:
-The {{c|Starfish}} and {{c|Urchins}}
+From sons of {{c|672|Ambulus}} rose
+{{c|682|Echinoderms}} in rows:
+The {{c|683|Starfish}} and {{c|684|Urchins}}
 In their ocean churches.
 
 In the last days they cried
-"{{c|Ediacaro}} must die!"
+"{{c|685|Ediacaro}} must die!"
 And left behind their mark
 Both light and dark.
 
-{{c|Treptichnal}} burrows deep
+{{c|686|Treptichnal}} burrows deep
 Where their memories sleep,
 And oxygenized soil
 From their endless toil.
 
-A son of {{c|Ectus}} made
+A son of {{c|618|Ectus}} made
 His burrow in the shade,
 A twisting, turning home
 Through earth and sandy loam.
 
-And so {{c|Ediacaro}} fell
+And so {{c|685|Ediacaro}} fell
 As time would tell.
-The mats of {{c|Saya}} old
-And {{c|Desulfa}}'s hold
+The mats of {{c|262|Saya}} old
+And {{c|687|Desulfa}}'s hold
 
 Were destroyed at last
 When the new age passed
 Over the ancient ways
-Of pre-{{c|Cambrian}} days.
+Of pre-{{c|615|Cambrian}} days.
 
-The {{c|Fortunian}} time had come
+The {{c|671|Fortunian}} time had come
 When all would succumb
 To the new order's might
 Both day and night.
 
-From {{c|Dietrich}}'s patient art
+From {{c|616|Dietrich}}'s patient art
 Came each chordate part.
 The backbone and the brain
 Would always remain.
@@ -1384,7 +1384,7 @@ In every spine that's straight
 And every vertebrate.
 
 The twins who chose their way—
-{{c|Ambulus}} and {{c|Chordatus}}' day—
+{{c|672|Ambulus}} and {{c|673|Chordatus}}' day—
 Show us how to grow:
 Some fast, some slow.
 
@@ -1393,30 +1393,30 @@ In evolution's race.
 Whether central or free,
 Both have their destiny.
 
-So honor brave {{c|Dietrich}}
+So honor brave {{c|616|Dietrich}}
 Who made us all so rich
 With spine and cord and heart
 That gave us our start.
 
-The {{c|Fortunian}}'s gift
+The {{c|671|Fortunian}}'s gift
 Gave evolution's shift
 From simple to complex
 Through all its effects.
 
 In every breath we take,
 In every move we make,
-{{c|Dietrich}}'s innovation
-{{c|Guides}} our creation.
+{{c|616|Dietrich}}'s innovation
+{{c|453|Guides}} our creation.
 
 
 # Chapter 35: The Three Great Houses
 
-As sons of {{c|Cambrius}} grew in might
+As sons of {{c|542|Cambrius}} grew in might
 Across the world both day and night,
-All sons of {{c|Bios}} felt the change
+All sons of {{c|24|Bios}} felt the change
 Throughout their ancient range.
 
-The sons of {{c|Cubos}} and {{c|Scyphos}} rose
+The sons of {{c|607|Cubos}} and {{c|605|Scyphos}} rose
 To challenge all their foes.
 Their guerrilla war began
 That day when time began.
@@ -1426,8 +1426,8 @@ To hunt their living prey.
 Their ancient raid shall never cease
 Until they find their peace.
 
-Among great {{c|Demos}}' sponge-born line
-Came {{c|Cyath}}, builder fine.
+Among great {{c|474|Demos}}' sponge-born line
+Came {{c|688|Cyath}}, builder fine.
 Great cities he built 'cross the seas—
 The reefs beneath the breeze.
 
@@ -1436,19 +1436,19 @@ Beneath the ocean sky.
 Through countless rulers they endure
 With structures strong and pure.
 
-The {{c|Archaeocyathid}} race
+The {{c|689|Archaeocyathid}} race
 Built reefs in every place.
 Their legacy lives on today
 In reefs where fishes play.
 
-Among the sons of {{c|Demos}} came
+Among the sons of {{c|474|Demos}} came
 The hunters fierce of name:
-Great {{c|Chondrocles}}' hunting band
+Great {{c|479|Chondrocles}}' hunting band
 Spread wide across the land.
 
-{{c|Carnivorous}} sponges they became,
+{{c|690|Carnivorous}} sponges they became,
 With predatory fame.
-They trap the sons of {{c|Cambrius}}
+They trap the sons of {{c|542|Cambrius}}
 With methods dangerous.
 
 Their hooks reach out with deadly art
@@ -1456,8 +1456,8 @@ To pierce the victim's heart.
 Their shieldmaidens come for the kill
 To satisfy their will.
 
-Among {{c|Spiralius}}' noble line
-The sons of {{c|Brachios}} shine.
+Among {{c|619|Spiralius}}' noble line
+The sons of {{c|691|Brachios}} shine.
 In new reefs they made their home
 Where prosperous they'd roam.
 
@@ -1466,80 +1466,80 @@ To fortune every day.
 The reefs became their fishing ground
 Where plenty could be found.
 
-And so began {{c|Tommotian}} days
+And so began {{c|692|Tommotian}} days
 Of glory and of praise.
 A new era had begun
 Beneath the shining sun.
 
 Here now we tell the tale
-Of {{c|Lobopus}} without fail.
+Of {{c|647|Lobopus}} without fail.
 His vision he imposed with might
 On all the world's delight.
 
-Great {{c|Lobopus}} saw his will was weak,
+Great {{c|647|Lobopus}} saw his will was weak,
 His citizens made meek.
-A heart like {{c|Dutrus}} he built true
+A heart like {{c|611|Dutrus}} he built true
 To nourish all he knew.
 
-From {{c|Lobopus}} came forth
-{{c|Onychodictyon}} of worth.
+From {{c|647|Lobopus}} came forth
+{{c|693|Onychodictyon}} of worth.
 This son would bear two more:
-{{c|Tactopus}} to explore
-And {{c|Xenu}}, dark and fell,
+{{c|694|Tactopus}} to explore
+And {{c|695|Xenu}}, dark and fell,
 With stories he would tell.
 
-{{c|Tactopus}} bore twin sons of might:
-{{c|Ferreus}} burning bright
-And {{c|Ferox}}, strong and bold,
+{{c|694|Tactopus}} bore twin sons of might:
+{{c|696|Ferreus}} burning bright
+And {{c|697|Ferox}}, strong and bold,
 With stories to be told.
 
-But {{c|Xenu}} sought to rule the stars
+But {{c|695|Xenu}} sought to rule the stars
 And heal all psychic scars.
-{{c|Emperor}} of galaxy wide
+{{c|698|Emperor}} of galaxy wide
 He claimed with foolish pride.
 
 Into our minds he tried to write
-{{c|Stories}} of weakness' sight.
-But {{c|Gracilis}}, his noble son,
+{{c|699|Stories}} of weakness' sight.
+But {{c|700|Gracilis}}, his noble son,
 Put end to what he'd done.
 
 And so three houses came to birth:
-{{c|Velvetclaw}} upon the earth,
-{{c|Ironfoot}} with strength so true,
-And {{c|Waterbear}}'s line too.
+{{c|701|Velvetclaw}} upon the earth,
+{{c|702|Ironfoot}} with strength so true,
+And {{c|703|Waterbear}}'s line too.
 
-Here now {{c|Velvetclaw}}'s tale we tell
+Here now {{c|701|Velvetclaw}}'s tale we tell
 Of how they rose so well.
-From {{c|Gracilis}} came four sons strong:
-{{c|Paucipodes}} all along,
-{{c|Microdictyon}} brave and true,
-{{c|Xenianus}} through and through,
-And {{c|Therion}} {{c|Velvetclaw}}
+From {{c|700|Gracilis}} came four sons strong:
+{{c|704|Paucipodes}} all along,
+{{c|705|Microdictyon}} brave and true,
+{{c|706|Xenianus}} through and through,
+And {{c|458|Therion}} {{c|701|Velvetclaw}}
 Who followed nature's law.
 
-{{c|Xenianus}} bore twin maids:
-{{c|Xenusia}} in the glades
-And {{c|Diania}} the {{c|Cactus}} bright
+{{c|706|Xenianus}} bore twin maids:
+{{c|707|Xenusia}} in the glades
+And {{c|708|Diania}} the {{c|709|Cactus}} bright
 With spines to win the fight.
 
-{{c|Therion}} {{c|Velvetclaw}} begot
-{{c|Cardios}}, who fought
-And {{c|Hallucigena}} strange
+{{c|458|Therion}} {{c|701|Velvetclaw}} begot
+{{c|710|Cardios}}, who fought
+And {{c|711|Hallucigena}} strange
 Throughout his living range.
 
-From {{c|Hallucigena}} came
+From {{c|711|Hallucigena}} came
 Four children of great fame:
-{{c|Sparsa}} quick and light,
-{{c|Fortis}} strong in fight,
-{{c|Hongmen}} wise and old,
-And {{c|Annika}}, brave and bold.
+{{c|712|Sparsa}} quick and light,
+{{c|713|Fortis}} strong in fight,
+{{c|714|Hongmen}} wise and old,
+And {{c|715|Annika}}, brave and bold.
 
-{{c|Hongmen}} bore two sons so grand:
-{{c|Luolishania}} in the land
-And {{c|Collins}} {{c|Monster}}, fierce and wild,
+{{c|714|Hongmen}} bore two sons so grand:
+{{c|716|Luolishania}} in the land
+And {{c|717|Collins}} {{c|718|Monster}}, fierce and wild,
 Nature's problem child.
 
-But {{c|Annika}} chose a different way,
+But {{c|715|Annika}} chose a different way,
 She cast her armor away.
 For agility she traded
 Her protection heavy-shaded.
@@ -1549,51 +1549,51 @@ Of velvet worms so blue.
 A caring matriarch is she
 Who guides them lovingly.
 
-In {{c|Ursus}}' line things went
+In {{c|719|Ursus}}' line things went
 Down a different bent.
-{{c|Ferox}} wanted to survive
+{{c|697|Ferox}} wanted to survive
 Whatever came alive.
 
 He downsized small and tough,
-{{c|Invulnerable}} stuff.
-From him came {{c|Ursus}} strong,
+{{c|720|Invulnerable}} stuff.
+From him came {{c|719|Ursus}} strong,
 Who lived both short and long.
 
-{{c|Ursus}} became the sire
+{{c|719|Ursus}} became the sire
 Of water bears' entire
 Line who first conquered land
 With their small, mighty band.
 
 Unable yet to breathe
 On land's protecting sheath,
-As {{c|Tuns}} they go dormant true
+As {{c|721|Tuns}} they go dormant true
 Until the danger's through.
 
-In {{c|Ironfoot}}'s great line
-{{c|Greatness}} would shine.
-{{c|Ferreus}} {{c|Ironfoot}} bore
+In {{c|702|Ironfoot}}'s great line
+{{c|722|Greatness}} would shine.
+{{c|696|Ferreus}} {{c|702|Ironfoot}} bore
 Two sons to explore:
 
-{{c|Gille}} built gills with care
+{{c|723|Gille}} built gills with care
 Above his legs so fair.
-His son {{c|Kerygmachelon}}
+His son {{c|724|Kerygmachelon}}
 Swam with gills upon.
 
-{{c|Kerygmachelon}} the great
+{{c|724|Kerygmachelon}} the great
 Had a noble fate.
-He bore son {{c|Pambdelurion}},
+He bore son {{c|725|Pambdelurion}},
 Mighty champion.
 
-{{c|Pambdelurion}} bore three
+{{c|725|Pambdelurion}} bore three
 Children of destiny:
-{{c|Arthur}} strong and true,
-{{c|Anomalos}} who grew
+{{c|726|Arthur}} strong and true,
+{{c|727|Anomalos}} who grew
 To rule with iron hand,
 And fair throughout the land,
-{{c|Opabinia}} the bright,
+{{c|728|Opabinia}} the bright,
 Beautiful to sight.
 
-{{c|Arthur}} built armor strong
+{{c|726|Arthur}} built armor strong
 To last his whole life long.
 His flying gills he hardened tight
 And fused them for the fight.
@@ -1603,14 +1603,14 @@ The gill as exopod grew,
 The leg as endopod stayed—
 Thus arthropods were made.
 
-The sons of {{c|Anomalos}} ruled
+The sons of {{c|727|Anomalos}} ruled
 As none before had schooled.
 The world entire was theirs
 Through all their proud affairs.
 
 For generations ten they reigned
 While others were constrained.
-From realm of {{c|Ghedos}} dark
+From realm of {{c|729|Ghedos}} dark
 He watched his royal mark.
 
 But on his deathbed bed
@@ -1619,7 +1619,7 @@ These words of doom were said:
 No power left to save.
 
 How art thou fallen down,
-O {{c|Anomalos}} from thy crown!
+O {{c|727|Anomalos}} from thy crown!
 From heaven thou art cast,
 Thy glory could not last."
 
@@ -1628,63 +1628,63 @@ The suffering they send.
 His sons would rule with might
 Through day and through the night.
 
-But fair {{c|Opabinia}}'s daughters all
+But fair {{c|728|Opabinia}}'s daughters all
 Answered beauty's call.
 Humble lives they led
 With grace and gentle tread.
 
-And {{c|Arthur}} {{c|Ironfoot}}'s line
+And {{c|726|Arthur}} {{c|702|Ironfoot}}'s line
 Would grow beyond design.
 Through hardship they endured
 With blood and sweat assured.
 
-The {{c|Arthropods}} they became
+The {{c|730|Arthropods}} they became
 With million-species fame.
 Today they rule the earth
 Since their ancient birth.
 
-From {{c|Lobopus}} came the tide
+From {{c|647|Lobopus}} came the tide
 That spread both far and wide.
 Three houses born that day
 Would rule in their own way.
 
-{{c|Velvetclaw}} with agile grace,
-{{c|Waterbear}}'s enduring race,
-{{c|Ironfoot}} with strength so true—
+{{c|701|Velvetclaw}} with agile grace,
+{{c|703|Waterbear}}'s enduring race,
+{{c|702|Ironfoot}} with strength so true—
 All from one ancestor grew.
 
-The {{c|Tommotian}} age began
+The {{c|692|Tommotian}} age began
 With more than mortal plan.
 The reefs rose from the sea
 For all eternity.
 
 In every coral home
 Where fishes freely roam,
-Remember {{c|Cyath}}'s art
+Remember {{c|688|Cyath}}'s art
 That gave the reefs their start.
 
 In every velvet worm
 That makes the earth worm squirm,
-{{c|Annika}}'s caring way
+{{c|715|Annika}}'s caring way
 Lives on another day.
 
 In every water bear
 That conquers everywhere,
-{{c|Ursus}}' strength endures
+{{c|719|Ursus}}' strength endures
 Through all that time assures.
 
 In every arthropod
 That walks upon the sod,
-{{c|Arthur}}'s innovation
+{{c|726|Arthur}}'s innovation
 Shaped our creation.
 
-The sons of {{c|Cambrius}} changed
+The sons of {{c|542|Cambrius}} changed
 How all life was arranged.
 Their multiplication
 Changed all of creation.
 
 But from these changes came
-{{c|Lines}} of lasting fame:
+{{c|731|Lines}} of lasting fame:
 The builders of the reef,
 The hunters beyond belief.
 
@@ -1697,68 +1697,68 @@ They made the world anew.
 # Chapter 36: The Arthropod Radiation
 
 This is the chronicle we tell
-Of {{c|Arthur}} {{c|Ironfoot}} so well.
+Of {{c|726|Arthur}} {{c|702|Ironfoot}} so well.
 His sons would spread both far and wide
 With evolution as their guide.
 
-{{c|Arthur}} bore two sons of fame:
-{{c|Arthropus}}, double-legged by name,
-And {{c|Fuxi}}, wise and strong,
+{{c|726|Arthur}} bore two sons of fame:
+{{c|732|Arthropus}}, double-legged by name,
+And {{c|733|Fuxi}}, wise and strong,
 Who lived his whole life long.
 
-{{c|Arthropus}} the double-legged
+{{c|732|Arthropus}} the double-legged
 From him great lines were pledged.
 Two sons he bore with might:
-{{c|Ferron}} and {{c|Isoxys}} bright.
+{{c|734|Ferron}} and {{c|735|Isoxys}} bright.
 
-From {{c|Ferron}} came two more:
-{{c|Megacheiron}} to explore
-And {{c|Euthyphro}} the wise
+From {{c|734|Ferron}} came two more:
+{{c|736|Megacheiron}} to explore
+And {{c|737|Euthyphro}} the wise
 Who looked with knowing eyes.
 
-{{c|Megacheiron}} bore sons many,
-Among them {{c|Pantopus}}—any
-{{c|Day}} he hoped to find
+{{c|736|Megacheiron}} bore sons many,
+Among them {{c|738|Pantopus}}—any
+{{c|739|Day}} he hoped to find
 A mate both true and kind.
 
-{{c|Pantopus}} was lonely there
+{{c|738|Pantopus}} was lonely there
 Until he met a maiden fair.
-Beautiful {{c|Pyka}} was her name,
+Beautiful {{c|740|Pyka}} was her name,
 Who set his heart aflame.
 
 "You are all legs!" he cried
 To his beloved bride.
 And so they became the line
-Of {{c|Sea}} {{c|Spiders}} so fine.
+Of {{c|569|Sea}} {{c|741|Spiders}} so fine.
 
-The {{c|Sea}} {{c|Spiders}} built cities strange
+The {{c|569|Sea}} {{c|741|Spiders}} built cities strange
 Throughout their ocean range.
 In their legs they stored
 All organs they adored:
 
-{{c|Intestines}} in their limbs,
-{{c|Genitals}} where water swims,
-{{c|Gills}} within each leg—
+{{c|742|Intestines}} in their limbs,
+{{c|743|Genitals}} where water swims,
+{{c|744|Gills}} within each leg—
 No coelom did they beg.
 
 All legs they truly were
-As {{c|Pantopus}} did aver.
+As {{c|738|Pantopus}} did aver.
 Their bodies lean and slight,
 Their legs their main delight.
 
-{{c|Euthyphro}} bore two sons:
-{{c|Insectus}}, when day begun,
-And {{c|Arachnus}} the keen
+{{c|737|Euthyphro}} bore two sons:
+{{c|745|Insectus}}, when day begun,
+And {{c|746|Arachnus}} the keen
 With appendages seen.
 
-From {{c|Insectus}}' noble line
+From {{c|745|Insectus}}' noble line
 The insects would shine.
-From {{c|Arachnus}} would come
-{{c|Arachnids}}, every one.
+From {{c|746|Arachnus}} would come
+{{c|747|Arachnids}}, every one.
 
-The sons of {{c|Arachnus}} bore
+The sons of {{c|746|Arachnus}} bore
 Great appendages to explore.
-The sons of {{c|Insectus}} made
+The sons of {{c|745|Insectus}} made
 Great legs for their trade.
 
 Some lived in waters blue,
@@ -1766,22 +1766,22 @@ Some on land walked through.
 Aquatic and terrestrial,
 Both paths proved beneficial.
 
-{{c|Insectus}} bore three sons strong:
-{{c|Mandibulus}} all along,
-{{c|Aquilonifer}} so free,
-And {{c|Hymenocarina}} of the sea.
+{{c|745|Insectus}} bore three sons strong:
+{{c|748|Mandibulus}} all along,
+{{c|749|Aquilonifer}} so free,
+And {{c|750|Hymenocarina}} of the sea.
 
-{{c|Mandibulus}} bore two more:
-{{c|Crustaceus}} to explore
+{{c|748|Mandibulus}} bore two more:
+{{c|751|Crustaceus}} to explore
 The waters deep and wide,
-And {{c|Euthy}} by his side.
+And {{c|752|Euthy}} by his side.
 
-From {{c|Crustaceus}} came the race
-Of {{c|Crustaceans}} in every place.
+From {{c|751|Crustaceus}} came the race
+Of {{c|753|Crustaceans}} in every place.
 The lobsters and the crabs
 With claws for holding grabs.
 
-But {{c|Euthy}} chose the shore
+But {{c|752|Euthy}} chose the shore
 Where waves would crash and roar.
 Upon the rocks so high
 Beneath the open sky.
@@ -1796,22 +1796,22 @@ Between the stone ledges.
 In gardens of lichen green
 Their young would first be seen.
 
-From {{c|Euthy}}'s brave descendants
+From {{c|752|Euthy}}'s brave descendants
 Who faced the land's defendants,
 The insects would arise
 To conquer earth and skies.
 
-{{c|Arachnus}} bore two sons:
-{{c|Trilos}} when day begun
-And {{c|Serk}} of ancient fame
+{{c|746|Arachnus}} bore two sons:
+{{c|754|Trilos}} when day begun
+And {{c|755|Serk}} of ancient fame
 Who earned eternal name.
 
-{{c|Serk}} bore many children,
-Among them {{c|Chelicer}}, hidden
+{{c|755|Serk}} bore many children,
+Among them {{c|756|Chelicer}}, hidden
 In shadows dark and deep,
-And {{c|Sidney}}, secrets to keep.
+And {{c|757|Sidney}}, secrets to keep.
 
-From {{c|Chelicer}}'s small line
+From {{c|756|Chelicer}}'s small line
 The spiders would shine.
 All arachnids eight-legged
 From his bloodline were pledged.
@@ -1819,72 +1819,72 @@ From his bloodline were pledged.
 Today in every corner
 Where webs are a mourner
 For flies caught in their snare,
-{{c|Chelicer}}'s children are there.
+{{c|756|Chelicer}}'s children are there.
 
-Among great {{c|Trilos}}' daughters
+Among great {{c|754|Trilos}}' daughters
 Who ruled the ancient waters
-Were {{c|Trilobon}} the queen,
-{{c|Marrella}}, ghostly seen,
-{{c|Esmeralda}} jewel-bright,
-And {{c|Retifacia}}'s sight.
+Were {{c|758|Trilobon}} the queen,
+{{c|759|Marrella}}, ghostly seen,
+{{c|760|Esmeralda}} jewel-bright,
+And {{c|761|Retifacia}}'s sight.
 
-{{c|Marrella}} soft and pale
+{{c|759|Marrella}} soft and pale
 Told a ghostly tale.
 She became ancestress
-Of {{c|Marellans}} no less.
+Of {{c|762|Marellans}} no less.
 
 Like phantoms in the sea
 They lived quite freely.
 Soft-bodied and ethereal,
 Almost immaterial.
 
-{{c|Trilobon}} bore four children
+{{c|758|Trilobon}} bore four children
 In waters never still then:
-{{c|Trilobeth}} the great queen,
-{{c|Xander}}, strong and keen,
-{{c|Necta}} sweet and fair,
-And {{c|Helmut}} everywhere.
+{{c|763|Trilobeth}} the great queen,
+{{c|764|Xander}}, strong and keen,
+{{c|765|Necta}} sweet and fair,
+And {{c|766|Helmut}} everywhere.
 
-{{c|Trilobeth}} became the mother
-Of {{c|Trilobites}}—no other
-{{c|Rulers}} of the sea
+{{c|763|Trilobeth}} became the mother
+Of {{c|767|Trilobites}}—no other
+{{c|768|Rulers}} of the sea
 Could match their dynasty.
 
 Through their great conquest
 They brought at their behest
-The {{c|Yakutian}} era's dawn
+The {{c|769|Yakutian}} era's dawn
 When old ways were withdrawn.
 
-Great {{c|Trilobeth}} bore two sons:
-{{c|Redlich}} when day begun
-And {{c|Agnos}}, wise and old,
+Great {{c|763|Trilobeth}} bore two sons:
+{{c|770|Redlich}} when day begun
+And {{c|771|Agnos}}, wise and old,
 With stories to be told.
 
-From {{c|Redlich}} came the line
+From {{c|770|Redlich}} came the line
 Of houses most divine:
-{{c|Corynex}} built his house
+{{c|772|Corynex}} built his house
 With wisdom to espouse.
 
-From {{c|Corynex}} came {{c|Lichida}}
+From {{c|772|Corynex}} came {{c|773|Lichida}}
 Who built his great armada.
 His house grew strong and wide
 With fortune as their guide.
 
-From {{c|Lichida}} came {{c|Odontos}},
-{{c|Builder}} of great crontos.
+From {{c|773|Lichida}} came {{c|774|Odontos}},
+{{c|775|Builder}} of great crontos.
 His spiny house arose
 To challenge all his foes.
 
-From {{c|Ptychos}}, {{c|Redlich}}'s brother,
+From {{c|776|Ptychos}}, {{c|770|Redlich}}'s brother,
 Came four sons like no other:
-{{c|Proetes}} strong and true,
-{{c|Asaphus}} of waters blue,
-{{c|Harpeth}} of the deeps,
-And {{c|Phacos}}, who never sleeps.
+{{c|777|Proetes}} strong and true,
+{{c|778|Asaphus}} of waters blue,
+{{c|779|Harpeth}} of the deeps,
+And {{c|780|Phacos}}, who never sleeps.
 
 Each founded their own line
 With characteristics fine.
-The {{c|Trilobites}} spread wide
+The {{c|767|Trilobites}} spread wide
 Across the ocean's tide.
 
 For millions of years they reigned
@@ -1897,7 +1897,7 @@ Through all eternity.
 No detail could escape
 Their vision's perfect shape.
 
-{{c|Segmented}} bodies bore
+{{c|781|Segmented}} bodies bore
 Legs numbering by the score.
 Each segment had its pair
 To walk through water fair.
@@ -1907,39 +1907,39 @@ Like arthropods still do.
 Each stage brought greater size
 Beneath the ocean skies.
 
-The {{c|Yakutian}} time had come
-When {{c|Trilobites}} were sum
+The {{c|769|Yakutian}} time had come
+When {{c|767|Trilobites}} were sum
 Of all success could be
 In their vast dynasty.
 
-From {{c|Arthur}}'s innovation
+From {{c|726|Arthur}}'s innovation
 Came this radiation:
-{{c|Insects}}, spiders, crabs,
+{{c|782|Insects}}, spiders, crabs,
 Each with different grabs.
 
-The {{c|Sea}} {{c|Spiders}} so strange
+The {{c|569|Sea}} {{c|741|Spiders}} so strange
 Extended their full range
 With organs in each limb—
 A body plan quite slim.
 
-The {{c|Crustaceans}} in the sea
+The {{c|753|Crustaceans}} in the sea
 Built their dynasty.
 The insects on the land
 Spread with courage grand.
 
 The arachnids eight-legged
-From {{c|Chelicer}} were pledged.
+From {{c|756|Chelicer}} were pledged.
 In shadows they would dwell
 With stories they could tell.
 
 But none could match the fame
-Of {{c|Trilobites}} by name.
+Of {{c|767|Trilobites}} by name.
 For eons they held sway
 Until their final day.
 
-From {{c|Pantopus}} and {{c|Pyka}}'s love
+From {{c|738|Pantopus}} and {{c|740|Pyka}}'s love
 To rulers high above,
-{{c|Arthur}}'s legacy spread
+{{c|726|Arthur}}'s legacy spread
 Long after he was dead.
 
 In every arthropod
@@ -1948,7 +1948,7 @@ His biramous limb design
 Lives on through space and time.
 
 The double-legged innovation
-{{c|Sparked}} this radiation
+{{c|783|Sparked}} this radiation
 That filled both sea and land
 With creatures truly grand.
 
@@ -1962,12 +1962,12 @@ That follows nature's law,
 In every crab that walks
 Where ocean beauty talks,
 
-Remember {{c|Arthur}}'s art
+Remember {{c|726|Arthur}}'s art
 That gave them all their start.
-The {{c|Ironfoot}} legacy
+The {{c|702|Ironfoot}} legacy
 Lives through eternity.
 
-The sons of {{c|Arthur}} proved
+The sons of {{c|726|Arthur}} proved
 How innovation moved
 The world from simple forms
 To complexity that warms
@@ -1977,8 +1977,8 @@ This vast diversity.
 From one ancestral line
 Came forms both crude and fine.
 
-The {{c|Yakutian}} age begun
-When {{c|Trilobites}} had won
+The {{c|769|Yakutian}} age begun
+When {{c|767|Trilobites}} had won
 Their place as rulers true
 Of waters deep and blue.
 
@@ -1987,7 +1987,7 @@ That even greatest men
 And creatures in their prime
 Must yield to passing time.
 
-Yet {{c|Arthur}}'s gift lives on
+Yet {{c|726|Arthur}}'s gift lives on
 From dusk until the dawn
 In every jointed leg
 That walks where life does beg
@@ -2000,13 +2000,13 @@ Through sunshine and through rain.
 
 # Chapter 37: The Circulatory Innovation
 
-Among the sons of {{c|Cambrius}}
+Among the sons of {{c|542|Cambrius}}
 Two faced issues serious:
-{{c|Chordatus}}, son of {{c|Dutrus}} true,
-And {{c|Annelidus}}, strong through and through.
+{{c|673|Chordatus}}, son of {{c|611|Dutrus}} true,
+And {{c|784|Annelidus}}, strong through and through.
 
 Each one supported by
-{{c|Hydrostatic}} pressure high.
+{{c|785|Hydrostatic}} pressure high.
 With water pressure in their frame
 They bore their body's name.
 
@@ -2030,22 +2030,22 @@ When hearts showed them the way.
 From hydrostatic to circulatory,
 Evolution's greatest story.
 
-From {{c|Annelon}} came two sons:
-{{c|Segmentus}} when day begun
-And {{c|Ribbon}}, hunter of the deep
+From {{c|786|Annelon}} came two sons:
+{{c|787|Segmentus}} when day begun
+And {{c|788|Ribbon}}, hunter of the deep
 Whose prey would never sleep.
 
-{{c|Ribbon}} built a proboscis long
+{{c|788|Ribbon}} built a proboscis long
 And venomous and strong.
 From this weapon he would hunt
 His prey with skillful stunt.
 
 His sons are known today
-As {{c|Ribbon}} {{c|Worms}} who slay
+As {{c|788|Ribbon}} {{c|655|Worms}} who slay
 Their victims with their poison dart
 Shot straight into the heart.
 
-{{c|Segmentus}} built his body wise
+{{c|787|Segmentus}} built his body wise
 With segments that would rise
 In number past all count—
 Each segment paramount.
@@ -2060,17 +2060,17 @@ And spread them everywhere.
 Each segment bore its pair
 Of legs beyond compare.
 
-{{c|Segmentus}} bore two sons:
-{{c|Pleistos}} when day begun
-And {{c|Amphon}} of the sea
+{{c|787|Segmentus}} bore two sons:
+{{c|789|Pleistos}} when day begun
+And {{c|790|Amphon}} of the sea
 Who lived quite happily.
 
-{{c|Amphon}} bore a son and daughter:
-{{c|Amphinos}} of the water
-And {{c|Sipuncula}} the great
+{{c|790|Amphon}} bore a son and daughter:
+{{c|791|Amphinos}} of the water
+And {{c|792|Sipuncula}} the great
 Who chose a different fate.
 
-{{c|Amphinos}} became the sire
+{{c|791|Amphinos}} became the sire
 Of worms that burn like fire.
 Fierce beasts with spikes of poison bright
 In colors burning bright.
@@ -2082,45 +2082,45 @@ They'll pierce the beating heart.
 
 Modern flags today still show
 The colors that bestow
-Great honor to {{c|Amphinos}}' line
+Great honor to {{c|791|Amphinos}}' line
 With patterns so divine.
 
-{{c|Sipuncula}} chose to be
+{{c|792|Sipuncula}} chose to be
 So different and free
 That her own phylum she became—
 The peanut worms of fame.
 
-{{c|Pleistos}} bore two sons:
-{{c|Vermo}} when day begun
-And {{c|Errantius}} who roamed
+{{c|789|Pleistos}} bore two sons:
+{{c|793|Vermo}} when day begun
+And {{c|794|Errantius}} who roamed
 Far from his ancient home.
 
-{{c|Errantius}} bore two more:
-{{c|Myzo}} the parasite, and for
-{{c|Balance}}, {{c|Greatswimmer}} true
+{{c|794|Errantius}} bore two more:
+{{c|358|Myzo}} the parasite, and for
+{{c|795|Balance}}, {{c|796|Greatswimmer}} true
 Who swam the ocean blue.
 
-{{c|Greatswimmer}} bore a son and daughter:
-{{c|Phyllos}} swift of water
-And {{c|Eunice}}, jealous, wild,
+{{c|796|Greatswimmer}} bore a son and daughter:
+{{c|797|Phyllos}} swift of water
+And {{c|798|Eunice}}, jealous, wild,
 Never meek or mild.
 
-{{c|Eunice}} the vicious was
-{{c|Jealous}} without cause.
+{{c|798|Eunice}} the vicious was
+{{c|799|Jealous}} without cause.
 She stole her husband's manhood true
 And made herself anew.
 
 Without him she conceived
 And daughters she received.
 These daughters fierce and bold
-Are {{c|Bobbit}} {{c|Worms}} of old.
+Are {{c|800|Bobbit}} {{c|655|Worms}} of old.
 
-{{c|Phyllos}} bore sons many
+{{c|797|Phyllos}} bore sons many
 More diverse than any:
-{{c|Swimmers}} of artistry
+{{c|801|Swimmers}} of artistry
 Across the boundless sea.
 
-{{c|Syllides}} the lazy one
+{{c|802|Syllides}} the lazy one
 Never courted, never won
 A mate through his own art—
 He'd bud off body part
@@ -2130,41 +2130,41 @@ While he in comfort stayed.
 His lazy ways persist
 In every tryst.
 
-{{c|Tomopteris}} breaks his fins
+{{c|803|Tomopteris}} breaks his fins
 As chaff when race begins.
 He swims and never lands
 On ocean's shifting sands.
 
-{{c|Alciops}} the hawkeyed hunter
+{{c|804|Alciops}} the hawkeyed hunter
 Whose sight is like no other.
 His eyes surpass them all
 Who hear the ocean's call.
 
-And fair {{c|Aphrodite}}
-{{c|Ancestress}} of the sea mice free.
+And fair {{c|805|Aphrodite}}
+{{c|806|Ancestress}} of the sea mice free.
 Her daughters beautiful
 Make the ocean wonderful.
 
-{{c|Vermo}} bore four daughters fair:
-{{c|Eartha}} who walked everywhere,
-{{c|Sapion}} wise and true,
-{{c|Hestia}} of the deep blue,
-And {{c|Orbinida}} of fame
+{{c|793|Vermo}} bore four daughters fair:
+{{c|807|Eartha}} who walked everywhere,
+{{c|808|Sapion}} wise and true,
+{{c|809|Hestia}} of the deep blue,
+And {{c|810|Orbinida}} of fame
 Who earned eternal name.
 
-{{c|Eartha}} walked great distances wide
+{{c|807|Eartha}} walked great distances wide
 Across the earth with pride.
 Her journeys never ceased
 From west unto the east.
 
-{{c|Sapion}} bore two daughters more:
-{{c|Sabella}}, who would soar
+{{c|808|Sapion}} bore two daughters more:
+{{c|811|Sabella}}, who would soar
 With feathers bright and fair,
-And {{c|Spiona}} everywhere
+And {{c|812|Spiona}} everywhere
 With tentacles that sway
 Throughout the night and day.
 
-{{c|Sabella}}'s daughters live
+{{c|811|Sabella}}'s daughters live
 As fishermen who give
 Us beauty in the temple halls—
 The feather dusters' calls
@@ -2174,8 +2174,8 @@ Both beautiful and free.
 In every sacred place
 They show us nature's grace.
 
-{{c|Hestia}} swam down deep
-To {{c|Gaia}}'s womb to keep
+{{c|809|Hestia}} swam down deep
+To {{c|100|Gaia}}'s womb to keep
 Her vigil in the dark
 Like ancient patriarch.
 
@@ -2185,56 +2185,56 @@ Would help her live below
 Where others could not go.
 
 Her daughters farm the depths
-Where {{c|Gaia}}'s treasure kept:
-{{c|Riftia}} in volcanic vents
+Where {{c|100|Gaia}}'s treasure kept:
+{{c|813|Riftia}} in volcanic vents
 Where fiery mountain scents
 
 Fill the water hot,
-And {{c|Lamella}}'s got
+And {{c|814|Lamella}}'s got
 Her home in cold seeps where
-{{c|Oil}} riches fill the lair.
+{{c|815|Oil}} riches fill the lair.
 
-{{c|Eartha}} bore a son and daughter:
-{{c|Terraclithia}} of the water
-And {{c|Echiuron}} so great
+{{c|807|Eartha}} bore a son and daughter:
+{{c|816|Terraclithia}} of the water
+And {{c|817|Echiuron}} so great
 With creativity innate.
 
-Like {{c|Sipuncula}} before,
-{{c|Echiuron}}'s art and lore
+Like {{c|792|Sipuncula}} before,
+{{c|817|Echiuron}}'s art and lore
 Was so unique and fine
 We thought her line divine
 
 Enough to be its own
-{{c|Phylum}}, standing alone.
+{{c|818|Phylum}}, standing alone.
 Her creativity
 Gave her divinity.
 
-{{c|Terraclithia}} bore two more:
-{{c|Terebella}} to explore
-And {{c|Clitella}}, wise and small
+{{c|816|Terraclithia}} bore two more:
+{{c|819|Terebella}} to explore
+And {{c|820|Clitella}}, wise and small
 But mother of them all.
 
-{{c|Terebella}} bore three sons:
-{{c|Spaghettes}} when day begun,
-{{c|Pompeii}} of the fire,
-And {{c|Acros}} to aspire.
+{{c|819|Terebella}} bore three sons:
+{{c|821|Spaghettes}} when day begun,
+{{c|822|Pompeii}} of the fire,
+And {{c|823|Acros}} to aspire.
 
-{{c|Spaghettes}} used tentacles long
+{{c|821|Spaghettes}} used tentacles long
 Like ropes both thick and strong
 To snare his prey from far—
-{{c|Miles}} distant like a star.
+{{c|824|Miles}} distant like a star.
 
-{{c|Pompeii}} chose to dwell
+{{c|822|Pompeii}} chose to dwell
 In volcanic hell.
 Among the fires hot
 He made his living spot.
 
-{{c|Acros}} became the sire
+{{c|823|Acros}} became the sire
 Of forms that never tire:
-{{c|Squidworm}} and {{c|Swima}} too
+{{c|825|Squidworm}} and {{c|826|Swima}} too
 Swam the ocean blue.
 
-{{c|Clitella}} was small of head
+{{c|820|Clitella}} was small of head
 But wisdom in her spread
 Through other organs wise—
 Her offspring multiplied
@@ -2247,10 +2247,10 @@ Children from dusk to dawn.
 Her children took to rivers
 Where water always quivers.
 Today we know them well:
-{{c|Earthworms}} who till and tell
+{{c|827|Earthworms}} who till and tell
 
 The soil of its needs,
-And {{c|Leeches}} who feed
+And {{c|828|Leeches}} who feed
 On blood from those they meet—
 Both bitter and sweet.
 
@@ -2261,7 +2261,7 @@ To rule both night and day.
 
 In every garden bed
 Where earthworms make their tread,
-Remember {{c|Annelon}}'s line
+Remember {{c|786|Annelon}}'s line
 That made the system fine.
 
 In every ribbon worm
@@ -2279,7 +2279,7 @@ From dusk until dawn
 Of hearts and circulation
 That saved each population.
 
-The sons of {{c|Cambrius}} learned
+The sons of {{c|542|Cambrius}} learned
 That when their bodies turned
 And moved through space and time,
 Their blood must flow in rhyme
@@ -2296,85 +2296,85 @@ The system without guilt
 
 That pumps our blood each day
 In its circulatory way.
-From {{c|Chordatus}} and {{c|Annelidus}} true
+From {{c|673|Chordatus}} and {{c|784|Annelidus}} true
 Came the gift to me and you.
 
 
 # Chapter 38: The Line of Ambulus
 
-As sons of {{c|Chordatus}} grew
+As sons of {{c|673|Chordatus}} grew
 Their bloodlines strong and true,
-And {{c|Annelon}}'s children spread
+And {{c|786|Annelon}}'s children spread
 Their segments widespread,
 
-The sons of {{c|Ambulus}} sought
+The sons of {{c|672|Ambulus}} sought
 The greatness they had fought
 To achieve through patient art
 And wisdom of the heart.
 
-While sons of {{c|Chordatus}} learned
+While sons of {{c|673|Chordatus}} learned
 To swim as hearts burned,
-The sons of {{c|Ambulus}} found
+The sons of {{c|672|Ambulus}} found
 Their way was to be bound
 
 As one with nature's way,
-{{c|Fishing}} night and day.
+{{c|663|Fishing}} night and day.
 They started much the same
-As {{c|Chordatus}}' noble name.
+As {{c|673|Chordatus}}' noble name.
 
-But {{c|Hemichus}}, {{c|Ambulus}}' son,
+But {{c|829|Hemichus}}, {{c|672|Ambulus}}' son,
 Built his proboscis one
-{{c|Day}} long to serve his need.
+{{c|739|Day}} long to serve his need.
 Half-cord would be his creed.
 
 His cord was only half,
 His brain on nature's behalf
 Was also halfway made—
-Thus {{c|Hemichordates}} stayed.
+Thus {{c|830|Hemichordates}} stayed.
 
-{{c|Hemichus}} bore two sons:
-{{c|Acorn}} when day begun
-And {{c|Oak}}, his brother strong,
+{{c|829|Hemichus}} bore two sons:
+{{c|831|Acorn}} when day begun
+And {{c|832|Oak}}, his brother strong,
 Who lived his whole life long.
 
-{{c|Acorn}} lived as worm
+{{c|831|Acorn}} lived as worm
 Through ocean's every term.
-But {{c|Oak}} lived as a tree
+But {{c|832|Oak}} lived as a tree
 Rooted eternally.
 
-{{c|Oak}} bore two sons in time:
-{{c|Biscarpon}}, strong and prime,
-And {{c|Pterobronk}} his twin,
+{{c|832|Oak}} bore two sons in time:
+{{c|833|Biscarpon}}, strong and prime,
+And {{c|834|Pterobronk}} his twin,
 With different discipline.
 
-{{c|Pterobronk}} became the sire
+{{c|834|Pterobronk}} became the sire
 Of forms that would aspire
 To heights in ocean blue:
-{{c|Graptolites}} he grew,
+{{c|835|Graptolites}} he grew,
 
-And {{c|Pterobranches}} too,
+And {{c|836|Pterobranches}} too,
 Colonial and true.
 Like trees beneath the sea
 They lived quite happily.
 
-{{c|Biscarpon}} built with care
+{{c|833|Biscarpon}} built with care
 A skeleton to wear
 Of limestone white and bright
 To armor him for fight.
 
-{{c|Biscarpon}} bore two more:
-{{c|Ctenocyston}} to explore
+{{c|833|Biscarpon}} bore two more:
+{{c|837|Ctenocyston}} to explore
 The seafloor dark and deep,
-And {{c|Cincton}}, who would keep
+And {{c|838|Cincton}}, who would keep
 
 His gill slits pumping well
 Through his armored shell.
-{{c|Water}} flowed through his frame
+{{c|193|Water}} flowed through his frame
 To catch fish in his name.
 
-While {{c|Ctenocyston}} crawled
+While {{c|837|Ctenocyston}} crawled
 Where ocean's floor enthralled,
-{{c|Cincton}} pumped and fished
+{{c|838|Cincton}} pumped and fished
 For everything he wished.
 
 Protected by his mail
@@ -2382,43 +2382,43 @@ His fishing would not fail.
 Through gill slits water flowed
 Where tiny fishes showed.
 
-{{c|Cincton}} begat {{c|Soluton}},
+{{c|838|Cincton}} begat {{c|839|Soluton}},
 A strange and bold one.
 One arm he extended out
 With tubes that had no doubt
 
-{{c|Inflatable}} and long
+{{c|840|Inflatable}} and long
 To make his fishing strong.
 His left side took control
 While right side paid the toll.
 
 His right side shriveled small
 While left ruled over all.
-{{c|Asymmetry}} was born
+{{c|841|Asymmetry}} was born
 That bright and fateful morn.
 
-{{c|Soluton}} begat
-{{c|Helicoplacus}}, begat
+{{c|839|Soluton}} begat
+{{c|842|Helicoplacus}}, begat
 With arms that multiplied
 By three on every side.
 
 No bilateral form
 Could weather this storm
 Of change that swept his line—
-{{c|Triradial}} design
+{{c|843|Triradial}} design
 
 He took upon his frame,
 A form without a name
 That none had seen before
 In all primeval lore.
 
-{{c|Helicoplacus}} took the shape
+{{c|842|Helicoplacus}} took the shape
 That let his line escape
 The ancient symmetry
 For new geometry.
 
-{{c|Helicoplacus}} wed
-Fair {{c|Adria}}-{{c|Esther}}, led
+{{c|842|Helicoplacus}} wed
+Fair {{c|844|Adria}}-{{c|392|Esther}}, led
 By love both true and strong
 To sing their mating song.
 
@@ -2427,44 +2427,44 @@ A city's five-fold glow
 Upon the rocks below
 Where ocean currents flow.
 
-{{c|Pentus}} was their son
+{{c|845|Pentus}} was their son
 When their work was done.
 Five-sided was his way,
 His form from that day.
 
-The sons of {{c|Pentus}} grew
+The sons of {{c|845|Pentus}} grew
 Both numerous and true.
 Great numbers they became
 With pentamerous fame.
 
-{{c|Pentus}} begat {{c|Stromatos}},
+{{c|845|Pentus}} begat {{c|846|Stromatos}},
 Who built like great kratos
 His strength in five-fold form
 Through every ocean storm.
 
-{{c|Stromatos}} begat {{c|Lepidos}},
-Who like {{c|Soluton}} chose
+{{c|846|Stromatos}} begat {{c|847|Lepidos}},
+Who like {{c|839|Soluton}} chose
 To extend his arms once more
 Along the ocean floor.
 
-{{c|Ambulacra}} arms he made
+{{c|848|Ambulacra}} arms he made
 In water's bright parade.
 These arms would pump and flow
 With life from head to toe.
 
-{{c|Lepidos}} begat {{c|Felbabka}},
+{{c|847|Lepidos}} begat {{c|849|Felbabka}},
 Who built his strange cabka
 Of plates arranged with care
 In patterns everywhere.
 
-{{c|Felbabka}} begat {{c|Echidna}},
+{{c|849|Felbabka}} begat {{c|850|Echidna}},
 The stalked one, quite a
-{{c|Sight}} with spiny skin
+{{c|851|Sight}} with spiny skin
 That glowed from deep within.
 
-{{c|Echidna}} was the mother
+{{c|850|Echidna}} was the mother
 Of children like no other:
-The great {{c|Echinoderms}}
+The great {{c|682|Echinoderms}}
 Who live through all terms.
 
 Her daughters were sea lilies
@@ -2472,7 +2472,7 @@ That bloomed like water lilies
 And dominated seas
 With graceful artistry.
 
-{{c|Invulnerable}} to attack
+{{c|720|Invulnerable}} to attack
 Their cities bore no lack
 Of beauty or of might—
 A wondrous, flowery sight.
@@ -2488,7 +2488,7 @@ In all the ancient time
 When ocean was in prime.
 
 Today we see only
-{{c|Ruins}} sad and lonely
+{{c|852|Ruins}} sad and lonely
 Of their once mighty home
 Beneath the ocean foam.
 
@@ -2497,9 +2497,9 @@ As none before had schooled
 The art of living well
 In ocean's deepest dell.
 
-From half-cord {{c|Hemichus}}
-To great {{c|Echidna}} thus
-The line of {{c|Ambulus}}
+From half-cord {{c|829|Hemichus}}
+To great {{c|850|Echidna}} thus
+The line of {{c|672|Ambulus}}
 Grew glorious.
 
 The hemichordates showed
@@ -2508,7 +2508,7 @@ From simple worm-like start
 To complex living art.
 
 The graptolites and more
-{{c|Pterobranches}} explore
+{{c|836|Pterobranches}} explore
 Colonial living true
 In waters deep and blue.
 
@@ -2522,7 +2522,7 @@ To triradial line
 To five-fold form complete—
 No other has this feat.
 
-The son of {{c|Ambulus}}
+The son of {{c|672|Ambulus}}
 Found glory glorious
 Not through swimming fast
 But through forms that last.
@@ -2547,15 +2547,15 @@ That held the ancient place
 Of ruler of the deep
 Where ocean's secrets keep,
 
-Remember {{c|Ambulus}}' line
+Remember {{c|672|Ambulus}}' line
 And how their design
 Became the five-fold way
 That lasts until today.
 
-The sons of {{c|Ambulus}}
+The sons of {{c|672|Ambulus}}
 Were not so glorious
 In swimming strength and speed
-As {{c|Chordatus}}' noble creed.
+As {{c|673|Chordatus}}' noble creed.
 
 But in their patient art
 Of living part by part
@@ -2572,8 +2572,8 @@ They mastered nature's art
 Of living in the sea
 In perfect harmony.
 
-From {{c|Hemichus}} the half
-To {{c|Echidna}}'s behalf
+From {{c|829|Hemichus}} the half
+To {{c|850|Echidna}}'s behalf
 Of all echinoderm kind,
 The line of thoughtful mind
 
@@ -2600,29 +2600,29 @@ Lives through eternity.
 
 # Chapter 39: The First Mass Extinction
 
-{{c|Fire}} rained down from sky
+{{c|180|Fire}} rained down from sky
 And many had to die.
 The first extinction came
 With death's devouring flame.
 
 For years in heaven's height
-{{c|Hengweh}} and {{c|Mithra}} fight.
+{{c|292|Hengweh}} and {{c|296|Mithra}} fight.
 They wrestled in the air
 And blocked sun's light so fair.
 
-The {{c|Archaeocyathids}} fell,
+The {{c|853|Archaeocyathids}} fell,
 Their cities rang death's knell.
-The {{c|Trilobites}} and more—
-{{c|Brachiopods}} by the score—
+The {{c|767|Trilobites}} and more—
+{{c|854|Brachiopods}} by the score—
 
-And {{c|Hyoliths}} barely
+And {{c|855|Hyoliths}} barely
 Survived that calamity.
-The {{c|Botomian}} time had passed,
+The {{c|856|Botomian}} time had passed,
 Its glory could not last.
 
-Then {{c|Mithra}} spoke these words
+Then {{c|296|Mithra}} spoke these words
 To one who serves:
-"{{c|Wiwaxius}}, I choose thee
+"{{c|857|Wiwaxius}}, I choose thee
 To set the world life free.
 
 Restore what has been lost
@@ -2630,9 +2630,9 @@ And count extinction's cost.
 Protect us from the doom
 That fills up every room."
 
-{{c|Wiwaxius}} begat two sons:
-{{c|Molluscus}} when day begun
-And {{c|Kamptos}}, poor and weak,
+{{c|857|Wiwaxius}} begat two sons:
+{{c|858|Molluscus}} when day begun
+And {{c|859|Kamptos}}, poor and weak,
 Who had no strength to seek
 
 Great things or mighty deeds.
@@ -2640,12 +2640,12 @@ He built what barely feeds
 A small and brainless state—
 A kingdom with no fate.
 
-But {{c|Molluscus}} bore many
+But {{c|858|Molluscus}} bore many
 Sons, more than any
 Other patriarch could claim.
-Eldest was {{c|Testar}}'s name.
+Eldest was {{c|860|Testar}}'s name.
 
-{{c|Testar}} the sixteen-plated
+{{c|860|Testar}} the sixteen-plated
 Built shell sophisticated.
 A great thick shell he made
 Of valves in organized parade.
@@ -2660,22 +2660,22 @@ For building anywhere.
 Bad work ethics they possessed,
 Never did their best.
 
-{{c|Solenos}} just drank the blood
+{{c|466|Solenos}} just drank the blood
 Of sons through ocean's flood:
-{{c|Ctenofer}} and {{c|Cnider}}'s line
+{{c|861|Ctenofer}} and {{c|531|Cnider}}'s line
 Became his bloody wine.
 
-And {{c|Caudos}} ate his fill
-Of {{c|Foramer}} at will.
+And {{c|862|Caudos}} ate his fill
+Of {{c|389|Foramer}} at will.
 He cared not for the art
 Of building any part.
 
-But {{c|Testar}} bore two sons:
-{{c|Chiton}} when day begun
-And {{c|Conchifer}} {{c|Verticus}},
+But {{c|860|Testar}} bore two sons:
+{{c|863|Chiton}} when day begun
+And {{c|864|Conchifer}} {{c|865|Verticus}},
 Both builders glorious.
 
-{{c|Chiton}} {{c|Horizontus}}
+{{c|863|Chiton}} {{c|866|Horizontus}}
 Unified like kratos
 His shells in horizontal row:
 Eight shells in neat tableau.
@@ -2685,17 +2685,17 @@ Of chitons, protector
 With eight shells side by side
 Along his lengthy hide.
 
-The sons of {{c|Chiton}} roll
+The sons of {{c|863|Chiton}} roll
 When threatened from their goal.
 But they aren't very wise—
 They gave up brain's prize
 
 Long ago in time past,
 Their simple ways held fast.
-{{c|Intelligence}} they traded
+{{c|867|Intelligence}} they traded
 For armor that's not faded.
 
-{{c|Conchifer}} {{c|Verticus}}
+{{c|864|Conchifer}} {{c|865|Verticus}}
 Made his way glorious
 By unifying vertical
 His shells so beautiful.
@@ -2705,17 +2705,17 @@ A shell upon his right—
 His vertical bereft
 Of horizontal sight.
 
-{{c|Conchifer}} bore two more:
-{{c|Bivos}} to explore
+{{c|864|Conchifer}} bore two more:
+{{c|868|Bivos}} to explore
 The hinged shell's way,
-And {{c|Monos}} every day.
+And {{c|869|Monos}} every day.
 
-{{c|Bivos}} kept his hinged design
-While {{c|Monos}} made combine
+{{c|868|Bivos}} kept his hinged design
+While {{c|869|Monos}} made combine
 His shells into just one—
 Two paths when day begun.
 
-{{c|Bivos}} laid in sand
+{{c|868|Bivos}} laid in sand
 Throughout the fertile land
 And fished food from the sea
 Most gracefully.
@@ -2728,25 +2728,25 @@ Like door without a cut.
 His children came to lay
 Upon their sides each day.
 Soon they looked the same
-As {{c|Brachios}}' great name.
+As {{c|691|Brachios}}' great name.
 
-They became {{c|Bivalves}} true:
-{{c|Clams}} and mussels too,
-{{c|Oysters}} in their beds
+They became {{c|870|Bivalves}} true:
+{{c|871|Clams}} and mussels too,
+{{c|872|Oysters}} in their beds
 With protective heads.
 
-The sons of {{c|Monos}} first
+The sons of {{c|869|Monos}} first
 Found little luck, dispersed
 Without much success.
 But time would bless
 
 Their patient, single shell.
-{{c|Monoplacophores}} dwell
+{{c|873|Monoplacophores}} dwell
 With nothing but one plate
 As their identifying trait.
 
-But {{c|Carlos}} the curly one,
-{{c|Grandson}} when day begun,
+But {{c|874|Carlos}} the curly one,
+{{c|875|Grandson}} when day begun,
 Had ideas quite different
 From others' management.
 
@@ -2756,11 +2756,11 @@ Discovering countless things
 That wonder always brings.
 
 He bore two sons of fame:
-{{c|Gastropus}} was the name
-Of one, and {{c|Digitos}}
+{{c|876|Gastropus}} was the name
+Of one, and {{c|877|Digitos}}
 The other, strong and close.
 
-{{c|Gastropus}} twisted round
+{{c|876|Gastropus}} twisted round
 Into spiral profound.
 His shell developed might
 Through this spiraling sight.
@@ -2780,17 +2780,17 @@ Still coil when day begun.
 From garden snail so small
 To conch shells standing tall.
 
-{{c|Digitos}} made his foot
+{{c|877|Digitos}} made his foot
 Into tentacles suit
 For different kind of life
 Through joy and through strife.
 
-{{c|Digitos}} bore two sons:
-{{c|Cephalopus}} when begun
-The day, and {{c|Scaphopus}},
+{{c|877|Digitos}} bore two sons:
+{{c|878|Cephalopus}} when begun
+The day, and {{c|879|Scaphopus}},
 Not quite so glorious.
 
-{{c|Cephalopus}} studied long
+{{c|878|Cephalopus}} studied long
 And made his body strong
 Through learning how to fly
 With buoyancy on high.
@@ -2803,10 +2803,10 @@ Through day and through the night.
 Through this he learned to soar
 Above the ocean floor.
 He even built with care
-{{c|Circulatory}} system there
+{{c|880|Circulatory}} system there
 
-Like {{c|Annelids}} and those
-Of {{c|Chordates}} who propose
+Like {{c|881|Annelids}} and those
+Of {{c|882|Chordates}} who propose
 That closed systems are best
 For meeting every test.
 
@@ -2815,7 +2815,7 @@ The brightest ever seen
 Among the mollusks all
 Who answer ocean's call.
 
-But {{c|Scaphopus}} lived lazy
+But {{c|879|Scaphopus}} lived lazy
 In the ground so hazy.
 He became ancestor
 Of tusk shells, protector
@@ -2827,7 +2827,7 @@ Living all their days
 
 Underground they dwell
 Within their tusk-like shell.
-They prey on {{c|Foramer}}'s sons
+They prey on {{c|389|Foramer}}'s sons
 When hunting time begun.
 
 Through this story we learn
@@ -2835,7 +2835,7 @@ How small choices earn
 Great consequences wide
 Across time's flowing tide.
 
-The sons of {{c|Molluscus}} grew
+The sons of {{c|858|Molluscus}} grew
 And flourished, spreading through
 The world in every way,
 Taking roles each day
@@ -2843,10 +2843,10 @@ Taking roles each day
 That others could not fill.
 Through strength of mind and will
 They rose from extinction's
-{{c|Fire}} to distinctions
+{{c|180|Fire}} to distinctions
 
 Great and glorious.
-{{c|Molluscus}} victorious
+{{c|858|Molluscus}} victorious
 Showed how from single start
 Many forms depart
 
@@ -2875,7 +2875,7 @@ And left their lasting mark
 On world that needed those
 Who from destruction rose.
 
-{{c|Wiwaxius}} heard the call
+{{c|857|Wiwaxius}} heard the call
 To save life from the fall
 And through his chosen sons
 New chapters begun
@@ -2885,7 +2885,7 @@ That celebrates the worth
 Of building something strong
 That will endure so long.
 
-From {{c|Testar}}'s sixteen plates
+From {{c|860|Testar}}'s sixteen plates
 To forms that time creates
 In endless variety,
 The mollusks' piety
@@ -2902,7 +2902,7 @@ That makes the weak grow strong.
 
 In every shell we see
 Upon the sand so free,
-Remember {{c|Molluscus}}' choice
+Remember {{c|858|Molluscus}}' choice
 To lift up building's voice
 
 Above destruction's roar
@@ -2940,12 +2940,12 @@ Their forms with every curve
 Designed for life's demands
 In seas and on the lands.
 
-So honor {{c|Molluscus}}' name
+So honor {{c|858|Molluscus}}' name
 And his enduring fame
 As father of the line
 That shows building's divine
 
-{{c|Power}} to restore
+{{c|883|Power}} to restore
 What was lost before
 And make the world anew
 With forms both strong and true.
@@ -2953,49 +2953,49 @@ With forms both strong and true.
 
 # Chapter 40: The Mollusk Rise
 
-While {{c|Molluscs}} were growing strong
+While {{c|884|Molluscs}} were growing strong
 And singing their success song,
 We must not forget the foundation
-Of {{c|Mithra}}'s great creation.
+Of {{c|296|Mithra}}'s great creation.
 
-First {{c|Amaterasu}}'s light
+First {{c|885|Amaterasu}}'s light
 Blesses us both day and night.
-A millionth reaches {{c|Terra}}'s seas
+A millionth reaches {{c|202|Terra}}'s seas
 To feed life's mysteries.
 
-And so the daughters of {{c|Bacta}}
-{{c|Farm}} with light most attracta.
+And so the daughters of {{c|209|Bacta}}
+{{c|886|Farm}} with light most attracta.
 First among them, daughters all
-Of {{c|Saya}} answer light's call.
+Of {{c|262|Saya}} answer light's call.
 
-The {{c|Blue}} {{c|Green}} {{c|Algae}} spread
+The {{c|887|Blue}} {{c|888|Green}} {{c|889|Algae}} spread
 Like living ocean's bread.
 They farm the sunlight bright
 From dawn until twilight.
 
-The sons of {{c|Viros}} take
+The sons of {{c|25|Viros}} take
 Their share for hunger's sake.
-From daughters of {{c|Saya}} they steal
+From daughters of {{c|262|Saya}} they steal
 To make their viral meal.
 
 And so the viruses were
 The predators that were
-While daughters of {{c|Saya}} became
+While daughters of {{c|262|Saya}} became
 The prey in this deadly game.
 
 By viruses came new
-{{c|Connections}} strange and true.
+{{c|890|Connections}} strange and true.
 A link that none had seen
 In life's ancestral scene.
 
-The daughters of {{c|Pelagia}},
+The daughters of {{c|891|Pelagia}},
 Those sisters whose sagia
-{{c|Benevolence}} would show
+{{c|892|Benevolence}} would show
 To all who live below,
 
 The mitochondria's kin
 Ate remnants thick and thin
-Of {{c|Cyanobacteria}}.
+Of {{c|381|Cyanobacteria}}.
 Their numbers would hysteria
 
 Create beyond conceiving—
@@ -3005,11 +3005,11 @@ In waters high and low.
 
 And then there were of old
 Purple farmers, brave and bold,
-Who came before {{c|Saya}}'s line
+Who came before {{c|262|Saya}}'s line
 With photosynthesis fine.
 
-{{c|Roseobella}}, daughter great
-Of {{c|Elah}}'s loving state
+{{c|893|Roseobella}}, daughter great
+Of {{c|894|Elah}}'s loving state
 Of lesbian motherhood,
 Among purple farmers stood
 
@@ -3024,18 +3024,18 @@ The detritus that fell,
 All were consumed well
 
 By great crown-tails so fine,
-The {{c|Choanoflagellates}}' line—
+The {{c|895|Choanoflagellates}}' line—
 Our closest cousins true
 In waters deep and blue.
 
-Alongside sons of {{c|Choanos}}
+Alongside sons of {{c|397|Choanos}}
 Lived the tiny golden rados:
-Golden {{c|Algae}} bright and fair
+Golden {{c|889|Algae}} bright and fair
 Floating everywhere.
 
-The sons of {{c|Dinoflagellus}}
+The sons of {{c|359|Dinoflagellus}}
 Saw prosperity's telltale thus
-Of {{c|Chrysalgos}} and {{c|Choanos}},
+Of {{c|896|Chrysalgos}} and {{c|397|Choanos}},
 So they ate both, not manos.
 
 And photosynthesized too
@@ -3055,7 +3055,7 @@ With their phosphorescent pride.
 
 But soon they grew corrupt,
 Their morals were abrupt.
-The sons of {{c|Dinoflagellus}}
+The sons of {{c|359|Dinoflagellus}}
 Turned to ways rebellious.
 
 To cannibalism they turned,
@@ -3068,35 +3068,35 @@ That answered nature's call.
 Whatever it would touch
 Would suffer very much.
 
-And soon the {{c|Rotifers}}
-{{c|Swooped}} in as officers
+And soon the {{c|662|Rotifers}}
+{{c|897|Swooped}} in as officers
 Of justice from above
 With neither hate nor love.
 
-{{c|Consuming}} remnants of
+{{c|34|Consuming}} remnants of
 A civilization thereof
 That once was great and proud,
-The {{c|Rotifers}} ate loud
+The {{c|662|Rotifers}} ate loud
 
 And grew fat from their meal,
-{{c|Saving}} us from the ordeal
+{{c|898|Saving}} us from the ordeal
 Of plague that would have spread
 If they had not been fed.
 
-{{c|Xanthus}} the {{c|Dinoflagellate}}
+{{c|167|Xanthus}} the {{c|899|Dinoflagellate}}
 Saw carnage desolate
 And fled from his own kind
 To leave that death behind.
 
 As he fled he saw afar
 The great glass houses, par
-{{c|Excellence}} of {{c|Diatoms}}
+{{c|900|Excellence}} of {{c|901|Diatoms}}
 Who built their holy homes.
 
-{{c|Immune}} to conquest's blight
-Of {{c|Rotifers}}' appetite
-And sons of {{c|Viros}} too,
-The {{c|Diatoms}} lived true
+{{c|902|Immune}} to conquest's blight
+Of {{c|662|Rotifers}}' appetite
+And sons of {{c|25|Viros}} too,
+The {{c|901|Diatoms}} lived true
 
 As farmers of the light
 Protected day and night
@@ -3104,12 +3104,12 @@ By walls of glass so clear
 That kept them without fear.
 
 Then he saw another sight:
-{{c|Coccolithophores}} so bright
+{{c|903|Coccolithophores}} so bright
 Who too grew with armor strong
 To last their whole life long.
 
 And so he cried out loud
-To {{c|Mithra}} from the crowd:
+To {{c|296|Mithra}} from the crowd:
 "Why must my line be cursed
 To be forever dispersed
 
@@ -3120,7 +3120,7 @@ Like some lonely stranger?"
 
 And then he saw the form
 Of refuge from the storm:
-{{c|Acanther}}, son of {{c|Radios}},
+{{c|904|Acanther}}, son of {{c|384|Radios}},
 A starry greenhouse, glorious.
 
 A great greenhouse open wide
@@ -3128,9 +3128,9 @@ For him to come inside.
 And so he went within
 And found new life begin.
 
-Within {{c|Acanther}}'s frame
+Within {{c|904|Acanther}}'s frame
 He found prosperity's name.
-The {{c|Radiolarian}}'s shell
+The {{c|905|Radiolarian}}'s shell
 Protected him so well.
 
 As floating greenhouse bright
@@ -3143,7 +3143,7 @@ Grew so big, you see,
 They found protection true
 In numbers, through and through.
 
-{{c|Sargassos}}, {{c|Lord}} of {{c|Kelp}},
+{{c|906|Sargassos}}, {{c|295|Lord}} of {{c|907|Kelp}},
 Called millions to his help.
 He grew a city wide
 Of cells on every side.
@@ -3153,25 +3153,25 @@ Who answered plankton's call,
 His city millions strong
 Would last his whole life long.
 
-And so the {{c|Fungi}} came,
-The sons of {{c|Chytros}}' name,
+And so the {{c|908|Fungi}} came,
+The sons of {{c|909|Chytros}}' name,
 To break the great ones down
 And earn decomposer's crown.
 
 They ate them and released
 A million spores increased
 Throughout the watery realm
-With {{c|Chytros}} at the helm.
+With {{c|909|Chytros}} at the helm.
 
-The {{c|Fungi}} are the knights
+The {{c|908|Fungi}} are the knights
 Who balance nature's rights—
-The {{c|Robinhoods}} of sea
+The {{c|910|Robinhoods}} of sea
 Who live quite happily
 
-{{c|Coexisting}} with the line
-Of {{c|Oomycetes}} so fine—
+{{c|911|Coexisting}} with the line
+Of {{c|912|Oomycetes}} so fine—
 The kelp who want to be
-{{c|Fungi}} of the sea.
+{{c|908|Fungi}} of the sea.
 
 And so they brought the wealth
 Of energy and health
@@ -3180,16 +3180,16 @@ From great ones when day done.
 
 From here the zooplankton
 Emerged, their lives begon:
-The sons of {{c|Foramer}}
-And sons of {{c|Cilliofer}}.
+The sons of {{c|389|Foramer}}
+And sons of {{c|357|Cilliofer}}.
 
-The sons of {{c|Foramer}}
+The sons of {{c|389|Foramer}}
 In soils would transfer
 Their fishing to the seas
 With greatest expertise.
 
 They caught the spores and more—
-{{c|Radiolarians}} by score
+{{c|913|Radiolarians}} by score
 And all others they could find
 Of every shape and kind.
 
@@ -3198,7 +3198,7 @@ That lasted everywhere.
 The snails built their homes
 Upon these calcium domes.
 
-The sons of {{c|Cilliofer}}
+The sons of {{c|357|Cilliofer}}
 Were great ones who prefer
 To use their cilia
 To suck up bacteria
@@ -3208,24 +3208,24 @@ Into their mouths so good.
 With beating hairs they fed
 And thus were nourished.
 
-Tiny {{c|Trilobites}} came
+Tiny {{c|767|Trilobites}} came
 To play the hunting game.
 They ate the sons of both
-{{c|Foramer}} and, by oath,
+{{c|389|Foramer}} and, by oath,
 
-{{c|Cilliofer}}'s children too,
+{{c|357|Cilliofer}}'s children too,
 As predators would do.
 The food chain thus was made
 Where each their role played.
 
-The sons of {{c|Chordatus}}
-{{c|Burrowed}}, most glorious,
+The sons of {{c|673|Chordatus}}
+{{c|914|Burrowed}}, most glorious,
 Through soil to find the food
 That from above renewed
 
 Their bodies' every need.
 Through gill slits they would feed,
-{{c|Pumping}} water through their frame
+{{c|915|Pumping}} water through their frame
 To nourish in their name.
 
 Out their atriopores
@@ -3233,27 +3233,27 @@ The water freely pours
 When they have taken what
 They need from nature's pot.
 
-Great {{c|Chordatus}} begat
-Two sons: {{c|Olfacter}} begat
-And {{c|Lancelot}} the true
+Great {{c|673|Chordatus}} begat
+Two sons: {{c|916|Olfacter}} begat
+And {{c|917|Lancelot}} the true
 Who traditions knew.
 
-{{c|Lancelot}} continued on
+{{c|917|Lancelot}} continued on
 The ways his father's son
 Had learned from ancient time
 In rhythm and in rhyme.
 
-But {{c|Olfacter}} bore two more:
-{{c|Vertebratus}} to explore
+But {{c|916|Olfacter}} bore two more:
+{{c|918|Vertebratus}} to explore
 The spinal cord's great art,
-And {{c|Tunicatus}}' part.
+And {{c|919|Tunicatus}}' part.
 
-{{c|Vertebratus}} worked each day
+{{c|918|Vertebratus}} worked each day
 To perfect in every way
 His spinal cord so fine
 With neural design.
 
-But {{c|Tunicatus}} chose
+But {{c|919|Tunicatus}} chose
 To rest where water flows.
 He sat upon a rock
 Like shepherd with his flock
@@ -3264,16 +3264,16 @@ He pumped so much water through
 His filter system grew
 
 To be most of his frame—
-{{c|Water}} was his name.
+{{c|193|Water}} was his name.
 His body became the stream
 Of his filtering dream.
 
-{{c|Tunicatus}} bore two sons:
-{{c|Larvaceus}} when day begun
-And {{c|Ascidaceus}} true
+{{c|919|Tunicatus}} bore two sons:
+{{c|920|Larvaceus}} when day begun
+And {{c|921|Ascidaceus}} true
 Who different pathways knew.
 
-{{c|Larvaceus}} never stayed
+{{c|920|Larvaceus}} never stayed
 In one place, but made
 A giant house of slime
 That lasted for all time.
@@ -3283,9 +3283,9 @@ He fished throughout the land
 Of water, catching food
 In nets of mucus good.
 
-{{c|Ascidaceus}} became
-{{c|Ancestor}} of fame
-Of {{c|Sea}} {{c|Squirts}} everywhere
+{{c|921|Ascidaceus}} became
+{{c|922|Ancestor}} of fame
+Of {{c|569|Sea}} {{c|681|Squirts}} everywhere
 Who filter with great care.
 
 A wooden tunic bright
@@ -3298,19 +3298,19 @@ His atriopore indeed
 Would let the water out
 When filtering about.
 
-{{c|Ascidaceus}} bore two more:
-{{c|Stolidos}} to explore
-And {{c|Proteus}} the wise
+{{c|921|Ascidaceus}} bore two more:
+{{c|923|Stolidos}} to explore
+And {{c|223|Proteus}} the wise
 With penetrating eyes.
 
-{{c|Proteus}} begat in time
-{{c|Thallasus}} (so sublime)
-And {{c|Enterogon}} the strong
+{{c|223|Proteus}} begat in time
+{{c|924|Thallasus}} (so sublime)
+And {{c|925|Enterogon}} the strong
 Who lived his whole life long.
 
 While brethren lived as squirts
 Avoiding nature's hurts,
-{{c|Thallasus}} built his city
+{{c|924|Thallasus}} built his city
 Floating (what a pity
 
 That none could match his art!)
@@ -3318,42 +3318,42 @@ Across the waters' heart.
 His city sailed the sea
 Most beautifully.
 
-{{c|Thallasus}} bore a son
-Named {{c|Dolios}}, lonely one
+{{c|924|Thallasus}} bore a son
+Named {{c|926|Dolios}}, lonely one
 Who lived his life alone
 And made the sea his home.
 
 A solitary life
 He lived through joy and strife,
-{{c|Fishing}} on his own
+{{c|663|Fishing}} on his own
 Where he had grown.
 
-The {{c|Arrow}} {{c|Worms}} would feed
-On {{c|Dolios}} indeed,
-As did the {{c|Trilobites}}
-And {{c|Jellyfish}}'s bites.
+The {{c|668|Arrow}} {{c|655|Worms}} would feed
+On {{c|926|Dolios}} indeed,
+As did the {{c|767|Trilobites}}
+And {{c|604|Jellyfish}}'s bites.
 
-But {{c|Thallasus}} bore more
+But {{c|924|Thallasus}} bore more
 Sons to explore:
-{{c|Pyros}} and {{c|Salpus}} too
+{{c|927|Pyros}} and {{c|928|Salpus}} too
 Who cities built anew.
 
-{{c|Pyros}} built a tube
+{{c|927|Pyros}} built a tube
 So long, like a cube
 Extended through the sea—
 A city floating free.
 
-{{c|Propelled}} by wastewater
+{{c|53|Propelled}} by wastewater
 Like some divine daughter
 Of engineering's art,
 Playing nature's part.
 
-While {{c|Salpus}} built a chain
+While {{c|928|Salpus}} built a chain
 Through sun and storm and rain
 Of beings linked as one
 Until their work was done.
 
-From {{c|Amaterasu}}'s light
+From {{c|885|Amaterasu}}'s light
 To creatures of the night,
 The foundation firm
 Of life's eternal term
@@ -3373,8 +3373,8 @@ On which each higher race
 Would find their nourishment
 In ocean's element.
 
-From {{c|Choanoflagellates}}
-To {{c|Chordate}}'s vertebrates,
+From {{c|895|Choanoflagellates}}
+To {{c|929|Chordate}}'s vertebrates,
 The family tree grew wide
 With ocean as their guide.
 
@@ -3388,12 +3388,12 @@ The grand marine parade
 Of life in all its forms
 Through calm and raging storms.
 
-The sons of {{c|Chordatus}} show
+The sons of {{c|673|Chordatus}} show
 How spinal cords can grow
 To be the foundation true
 Of intelligence new.
 
-While {{c|Tunicates}} remind
+While {{c|930|Tunicates}} remind
 Us not to be confined
 To just one way of life—
 Diversity ends strife.
@@ -3411,9 +3411,9 @@ Of life's eternal grace.
 
 # Chapter 41: The Marine Foundation
 
-While sons of {{c|Tunicus}} filtered
+While sons of {{c|931|Tunicus}} filtered
 The seas and never withered,
-{{c|Vertebratus}} built with care
+{{c|918|Vertebratus}} built with care
 A spinal cord beyond compare.
 
 Great segments made of bone
@@ -3421,7 +3421,7 @@ He built for his own
 With yellow teeth of keratin
 To start his line's great thing.
 
-{{c|Vertebratus}} begat {{c|Rene}},
+{{c|918|Vertebratus}} begat {{c|932|Rene}},
 Who built in his own way
 A great unified design
 Of parts both yours and mine.
@@ -3429,29 +3429,29 @@ Of parts both yours and mine.
 No longer were they scattered
 On sides, all broken and tattered.
 His nephridia and parts
-{{c|Generative}}, close to hearts,
+{{c|933|Generative}}, close to hearts,
 
 Now lived within the core
 Of his being, and what's more,
 They were centralized as one
 When his great work was done.
 
-{{c|Rene}} begat with pride
-{{c|Hemos}}, who lived inside
+{{c|932|Rene}} begat with pride
+{{c|934|Hemos}}, who lived inside
 His new generative frame
 To earn eternal fame.
 
-{{c|Hemos}} built a brain
-{{c|Bigger}} than all's remain.
+{{c|934|Hemos}} built a brain
+{{c|935|Bigger}} than all's remain.
 Greater than all the rest
 Who ever faced life's test.
 
 He built blood vessels wide
 As offering with pride
-To {{c|Hausa}} up above
+To {{c|936|Hausa}} up above
 Who blessed with holy love.
 
-{{c|Hausa}} looked down and saw
+{{c|936|Hausa}} looked down and saw
 This gift without a flaw
 And blessed him from on high
 Beneath the starry sky.
@@ -3471,7 +3471,7 @@ And nourished as was said.
 Always strong and bright
 With oxygen's pure sight.
 
-{{c|Hemos}} begat {{c|Haikus}},
+{{c|934|Hemos}} begat {{c|937|Haikus}},
 Little fish most glorious,
 Who thought that he could not
 Achieve what he had sought.
@@ -3491,28 +3491,28 @@ Across the boundless sea.
 His faith had set him loose
 From doubt's restraining noose.
 
-{{c|Haikus}} became the most
+{{c|937|Haikus}} became the most
 Accomplished of his host.
 In all his noble line
 None could match his design.
 
-{{c|Haikus}} begat two sons:
-{{c|Lampris}} when day begun
-And {{c|Denton}}, strong and true,
+{{c|937|Haikus}} begat two sons:
+{{c|938|Lampris}} when day begun
+And {{c|939|Denton}}, strong and true,
 Who great things would do.
 
-{{c|Denton}} built teeth white
+{{c|939|Denton}} built teeth white
 With enamel shining bright.
 Great teeth that gleamed and shone
 Like ivory and bone.
 
-And so {{c|Denton}} became
-The {{c|Eloh}} of great name
-Of {{c|Dentistry}} and {{c|Teeth}}—
+And so {{c|939|Denton}} became
+The {{c|940|Eloh}} of great name
+Of {{c|941|Dentistry}} and {{c|942|Teeth}}—
 Protection and relief.
 
 To this day we honor
-{{c|Denton}} as our donor
+{{c|939|Denton}} as our donor
 Of healthy teeth and gums
 Through daily mouth-rite sums.
 
@@ -3543,11 +3543,11 @@ Who holds the dental feast.
 
 These priests have tools
 That follow sacred rules:
-{{c|Augers}}, awls, and probes,
+{{c|943|Augers}}, awls, and probes,
 And prods in priestly robes.
 
 The use of these in rite
-{{c|Exorcises}} blight
+{{c|944|Exorcises}} blight
 Of evils in the mouth
 Through ritual truth.
 
@@ -3578,35 +3578,35 @@ With smiles bright and clear.
 
 These traditions we maintain
 Through sunshine and through rain
-As long as {{c|Denton}} smiles
+As long as {{c|939|Denton}} smiles
 Upon us through the miles.
 
-By {{c|Denton}}'s holy will
+By {{c|939|Denton}}'s holy will
 His sons shall have their fill
 Of freedom to seek care
 From mouth-priests everywhere.
 
 Never shall poverty
-{{c|Deny}} this charity.
+{{c|945|Deny}} this charity.
 The great hero's demand—
-{{c|Notgnihsaw}}'s command—
+{{c|946|Notgnihsaw}}'s command—
 
-{{c|Ensures}} that all are free
+{{c|947|Ensures}} that all are free
 To seek dentistry
 Regardless of their gold
 As heroes of old.
 
-{{c|Conodontus}} begat
-Two sons: first {{c|Conodon}} begat
+{{c|948|Conodontus}} begat
+Two sons: first {{c|949|Conodon}} begat
 The biter, strong and keen,
-And {{c|Pterapsis}}, serene
+And {{c|950|Pterapsis}}, serene
 
-Yet mighty {{c|Pterapsis}}
+Yet mighty {{c|950|Pterapsis}}
 Built armor's emphasis.
 A great suit, strong and bright,
 To shield him in the fight.
 
-{{c|Conodon}} was the bearer
+{{c|949|Conodon}} was the bearer
 Of teeth, terror's sharer.
 With great speed he swam
 Through water like a ram.
@@ -3616,39 +3616,39 @@ They served him his whole life long.
 A predator was he
 Throughout the boundless sea.
 
-{{c|Pterapsis}} chose defense
+{{c|950|Pterapsis}} chose defense
 With armor's permanence.
 A suit he built with care
 To protect him everywhere.
 
-Among all {{c|Cambrius}}' sons
+Among all {{c|542|Cambrius}}' sons
 When their race begun,
-The sons of {{c|Haikus}} would
+The sons of {{c|937|Haikus}} would
 Become the greatest good.
 
 But this was not to be
-{{c|Immediately}}.
-{{c|Time}} would have to pass
+{{c|951|Immediately}}.
+{{c|952|Time}} would have to pass
 Before they held first class.
 
-{{c|Ghosts}} struck {{c|Terra}}'s form
+{{c|953|Ghosts}} struck {{c|202|Terra}}'s form
 In a devastating storm.
 They wrecked it to the core
 And opened up death's door.
 
-The sons of {{c|Conodon}} fell,
+The sons of {{c|949|Conodon}} fell,
 Their story none could tell.
 They disappeared from sight
 Into eternal night.
 
 Their teeth marked the end
 Of an era, my friend.
-The {{c|Cambrian}} time was done,
+The {{c|615|Cambrian}} time was done,
 A new age had begun.
 
-And so the {{c|Ordovician}}
+And so the {{c|954|Ordovician}}
 Came with great precision.
-The sons of {{c|Conodon}} rose
+The sons of {{c|949|Conodon}} rose
 Again from their repose
 
 To mark this era new
@@ -3656,10 +3656,10 @@ With teeth both strong and true.
 New teeth for the new day
 To show a better way.
 
-From {{c|Vertebratus}}' start
+From {{c|918|Vertebratus}}' start
 With his spinal art
-To {{c|Denton}}'s teeth so white
-And {{c|Haikus}}' faithful flight,
+To {{c|939|Denton}}'s teeth so white
+And {{c|937|Haikus}}' faithful flight,
 
 The vertebrate design
 Became more refined.
@@ -3671,12 +3671,12 @@ Made them quite giddy
 With efficiency gained
 That long time remained.
 
-The brain that {{c|Hemos}} built
+The brain that {{c|934|Hemos}} built
 Without any guilt
 Became the template true
 For all who would pursue
 
-{{c|Intelligence}} and thought
+{{c|867|Intelligence}} and thought
 That could not be bought
 But had to be earned
 Through lessons hard-learned.
@@ -3701,7 +3701,7 @@ That would last life-long
 And grow to rule the seas
 With greatest expertise.
 
-The teeth that {{c|Denton}} made
+The teeth that {{c|939|Denton}} made
 Will never ever fade
 From vertebrate design—
 Protection so fine
@@ -3741,7 +3741,7 @@ Through time's twists
 And always finds a way
 To live another day.
 
-From {{c|Haikus}}' faithful phrase—
+From {{c|937|Haikus}}' faithful phrase—
 "I think I can"—that stays
 With all who dare to dream
 Of more than what they seem,
@@ -3763,12 +3763,12 @@ With ancestors so deep.
 
 In every toothbrush stroke
 And every dental yoke
-We honor {{c|Denton}}'s name
+We honor {{c|939|Denton}}'s name
 And his enduring fame.
 
 The centralization
 Of each generation's
-{{c|Organs}} in the core
+{{c|955|Organs}} in the core
 Opened up the door
 
 For complexity
@@ -3786,13 +3786,13 @@ In evolution's race
 Through innovation true
 And faith in what they knew.
 
-The {{c|Ordovician}} dawn
+The {{c|954|Ordovician}} dawn
 When old age was withdrawn
 Brought new opportunities
 For new communities
 
 Of vertebrates to rise
-Beneath {{c|Ordovician}} skies
+Beneath {{c|954|Ordovician}} skies
 And show what they could do
 With innovations new.
 
@@ -3809,7 +3809,7 @@ All from one line grown
 That dared to centralize
 And organize with eyes
 On future's bright reward
-For those who trust the {{c|Lord}}
+For those who trust the {{c|295|Lord}}
 
 Of evolution's way
 From night into the day
@@ -3824,9 +3824,9 @@ For life's eternal day.
 
 # Chapter 42: The Rise of Vertebrates
 
-The {{c|Ordovician}} began
+The {{c|954|Ordovician}} began
 With great extinction's plan—
-Or did it? {{c|Sages}} still debate
+Or did it? {{c|956|Sages}} still debate
 What caused that fearsome fate.
 
 Were these great ghosts real
@@ -3834,7 +3834,7 @@ With power none could feel
 Beyond belief so strong,
 Or myths that passed along?
 
-The {{c|Sages}} cannot agree
+The {{c|956|Sages}} cannot agree
 On what they claim to see
 In mists of ancient time
 Where truth and myth combine.
@@ -3845,17 +3845,17 @@ The world was greater still
 Than any mortal will
 
 Could have imagined then.
-The {{c|Planktonic}} {{c|Planimals}} when
+The {{c|957|Planktonic}} {{c|958|Planimals}} when
 They fed brought forth new life
 Through harmony, not strife.
 
-{{c|Leviathan}} arose,
+{{c|959|Leviathan}} arose,
 Great dragon, friend not foes.
-Son of wicked king {{c|Magog}},
+Son of wicked king {{c|960|Magog}},
 He ruled through wisdom's log.
 
 Though born of evil seed,
-{{c|Leviathan}} would lead
+{{c|959|Leviathan}} would lead
 His kingdom not to war
 But peace forevermore.
 
@@ -3864,10 +3864,10 @@ His realm in clarity
 Grew under his wise rule
 Like some divine school.
 
-The sons of {{c|Leviathan}}
+The sons of {{c|959|Leviathan}}
 Grew greater than began
 Any before their time:
-{{c|Tenscore}} myriads prime
+{{c|961|Tenscore}} myriads prime
 
 Of microns was their length.
 Their body politic's strength
@@ -3879,27 +3879,27 @@ The greatness that was bred
 Into their very souls
 To play their vital roles.
 
-The sons of {{c|Leviathan}} ruled
+The sons of {{c|959|Leviathan}} ruled
 The world, and never fooled
 By power's corruption,
 They brought life's construction
 
 With justice great and true.
 They shepherded all who
-Were sons of {{c|Bios}} fair
+Were sons of {{c|24|Bios}} fair
 With love and gentle care.
 
 From small planktonic ones
 To vicious warrior sons—
-The {{c|Anomalocarids}}—
+The {{c|962|Anomalocarids}}—
 All felt their benefits.
 
-{{c|Ordovices}} the son
-Of {{c|Leviathan}} begun
+{{c|963|Ordovices}} the son
+Of {{c|959|Leviathan}} begun
 The greatest reign of all
 When he would hear the call
 
-To be {{c|Emperor}} supreme.
+To be {{c|698|Emperor}} supreme.
 He built beyond all dream
 Great cities of such fame
 That "reefs" became their name.
@@ -3909,43 +3909,43 @@ Grew in harmony
 Like never seen before
 From mountain peak to shore.
 
-In great {{c|Coral}} cities
+In great {{c|964|Coral}} cities
 Where beauty never pities
 Those who cannot see
 Their vast complexity,
 
-The sons of {{c|Euka}} came
+The sons of {{c|288|Euka}} came
 From places without name
 Far and wide they traveled
 As mysteries unraveled.
 
-{{c|Ordovices}} put to work
-The sons of {{c|Cnider}} (perk
+{{c|963|Ordovices}} put to work
+The sons of {{c|531|Cnider}} (perk
 Of wisdom's gentle hand)
 Throughout his peaceful land.
 
-And so the sons of {{c|Anthus}}
+And so the sons of {{c|589|Anthus}}
 Built cities, cantus
 Of beauty rising high
 Beneath the ocean sky.
 
-{{c|Ordovices}} had daughters
-Of {{c|Coraline}} build waters
+{{c|963|Ordovices}} had daughters
+Of {{c|965|Coraline}} build waters
 Into living stone—
 She, daughter all her own
 
-Of {{c|Florida}}, who came
-From {{c|Rhodes}} of ancient name.
-They built coralline {{c|Algae}},
+Of {{c|372|Florida}}, who came
+From {{c|19|Rhodes}} of ancient name.
+They built coralline {{c|889|Algae}},
 The plaster, galaxy
 
-Upon the great {{c|Corals}}.
+Upon the great {{c|598|Corals}}.
 Their work through all portals
 Of time would long endure
 With beauty clean and pure.
 
-{{c|Ordovices}} saw clear
-That sons of {{c|Bryos}} here
+{{c|963|Ordovices}} saw clear
+That sons of {{c|966|Bryos}} here
 Had no home to call
 Their own, and heard their call.
 
@@ -3956,7 +3956,7 @@ Both day and through the night.
 
 To this day reefs stand
 As monuments so grand
-Of {{c|Ordovices}}' art
+Of {{c|963|Ordovices}}' art
 That built with gentle heart
 
 The most prosperous cities
@@ -3964,7 +3964,7 @@ Where life shows no pities
 For those who cannot see
 Their vast complexity.
 
-On {{c|Terra}} and beyond
+On {{c|202|Terra}} and beyond
 These reefs form the bond
 Between all living things
 That peace and order brings.
@@ -3976,11 +3976,11 @@ Both humble and divine.
 
 In every coral branch
 And every firm stanch
-{{c|Foundation}} built with care
+{{c|967|Foundation}} built with care
 Lives beauty everywhere.
 
 The shoals of fish so bright
-{{c|Dance}} in the crystal light
+{{c|968|Dance}} in the crystal light
 That filters through the reef
 Beyond all belief.
 
@@ -3994,7 +3994,7 @@ Live in ways most moral,
 Each helping other grow
 In partnership's flow.
 
-The {{c|Bryozoans}} small
+The {{c|969|Bryozoans}} small
 Build cities, one and all,
 Upon the coral's frame
 To share in nature's game.
@@ -4006,13 +4006,13 @@ Throughout the night and day.
 
 And so economy
 Grew in perfect harmony
-Under wise {{c|Ordovices}}
+Under wise {{c|963|Ordovices}}
 Whose rule brought life its prizes.
 
 He became known through time
-As "{{c|Ordovices}} the {{c|Prime}}"
+As "{{c|963|Ordovices}} the {{c|970|Prime}}"
 Of wisdom, and his boom
-{{c|Dispelled}} all sense of doom
+{{c|971|Dispelled}} all sense of doom
 
 That hung over the past
 When extinctions last
@@ -4021,7 +4021,7 @@ And stole away its breath.
 
 This boom became the name
 Of {{x|GOBE}}—greatest fame
-The Great {{c|Ordovician}}
+The Great {{c|954|Ordovician}}
 Event, magician
 
 Of biodiversity
@@ -4032,7 +4032,7 @@ To every sea and shore.
 The life within the seas
 Became what always pleased
 The heart that loves to see
-{{c|Life}}'s creativity.
+{{c|434|Life}}'s creativity.
 
 More prosperous it grew
 With species old and new
@@ -4042,11 +4042,11 @@ In evolution's race.
 And it would only grow
 Greater, as we know,
 More prosperous and bright
-Under {{c|Ordovician}} might.
+Under {{c|954|Ordovician}} might.
 
 Under the great dynasty
 Of wisdom's sovereignty
-'Twas the first {{c|Golden}} Age
+'Twas the first {{c|972|Golden}} Age
 In life's eternal page.
 
 The reefs became the heart
@@ -4054,12 +4054,12 @@ Of nature's living art
 Where beauty and function
 Met in perfect junction.
 
-From {{c|Leviathan}}'s wise choice
+From {{c|959|Leviathan}}'s wise choice
 To let peace be his voice
 Instead of war and strife
 Came this abundant life.
 
-His son {{c|Ordovices}}
+His son {{c|963|Ordovices}}
 Built cities that are prizes
 Still today we see
 In reef's complexity.
@@ -4070,7 +4070,7 @@ Yet working as a whole
 To play its vital role,
 
 Show us how to build
-{{c|Communities}} that yield
+{{c|973|Communities}} that yield
 Prosperity for all
 Who answer wisdom's call.
 
@@ -4089,7 +4089,7 @@ The symphony therein
 Of life in all its forms
 Through calm and raging storms.
 
-The {{c|Ordovician}} way
+The {{c|954|Ordovician}} way
 Lives on to this day
 In every coral city
 Both grand and gritty
@@ -4099,7 +4099,7 @@ In perfect harmony
 Of form and function blessed
 By wisdom's gentle rest.
 
-From {{c|Leviathan}}'s peace
+From {{c|959|Leviathan}}'s peace
 To reefs that never cease
 To grow in beauty bright,
 We see that might
@@ -4109,17 +4109,17 @@ But in the gentle word
 That builds instead methodically
 That tears so wreck systematically.
 
-The first {{c|Golden}} Age
+The first {{c|972|Golden}} Age
 Wrote upon history's page
 The lesson clear and true:
 That what we choose to do
 
 With power in our hands
-{{c|Determines}} if the lands
+{{c|974|Determines}} if the lands
 And seas will flourish well
 Or under curses dwell.
 
-{{c|Ordovices}} chose to build
+{{c|963|Ordovices}} chose to build
 And his wisdom filled
 The world with life so bright
 It still brings us delight.
@@ -4129,8 +4129,8 @@ And every sacred oath
 To build and not destroy,
 We find life's truest joy.
 
-The Great {{c|Ordovician}}
-{{c|Biodiversification}}
+The Great {{c|954|Ordovician}}
+{{c|975|Biodiversification}}
 Event shows what can come
 When wisdom's ways we sum
 
@@ -4154,7 +4154,7 @@ A perfect, special feature
 Worth protecting well
 As stories always tell
 
-Of {{c|Leviathan}}'s son
+Of {{c|959|Leviathan}}'s son
 Whose work is never done
 As long as reefs still grow
 In beauty's endless flow.
@@ -4162,27 +4162,27 @@ In beauty's endless flow.
 
 # Chapter 43: The Golden Age Begins
 
-While {{c|Trilobites}} ruled the seas
+While {{c|767|Trilobites}} ruled the seas
 With their great dynasties,
 The rivers flowed so free
 For lesser brethren's spree.
 
-The sons of {{c|Arachnus}} ruled
+The sons of {{c|746|Arachnus}} ruled
 The seas where they schooled
 Their children in the art
 Of playing their sea part.
 
-The sons of {{c|Insectus}} took
+The sons of {{c|745|Insectus}} took
 The rivers like a book
 Of opportunities
 For their communities.
 
-The sons of {{c|Cain}} and {{c|Abel}}
+The sons of {{c|976|Cain}} and {{c|977|Abel}}
 Ruled the lands, quite able
 To make their living there
 In terrestrial air.
 
-And so {{c|Crustaceus}} saw
+And so {{c|751|Crustaceus}} saw
 No place without a flaw
 Where he could make his stand
 In sea or stream or land.
@@ -4197,22 +4197,22 @@ That plays determination's part
 To rise above all plight
 And reach for greater height.
 
-{{c|Crustaceus}} begat two:
-{{c|Karkon}} and {{c|Mushi}} too,
+{{c|751|Crustaceus}} begat two:
+{{c|978|Karkon}} and {{c|979|Mushi}} too,
 Each son to find his way
 Through life from day to day.
 
-{{c|Mushi}} begat two sons:
-{{c|Copepus}} when day begun
-And {{c|Lepipus}} the strange
+{{c|979|Mushi}} begat two sons:
+{{c|980|Copepus}} when day begun
+And {{c|981|Lepipus}} the strange
 Throughout his living range.
 
-{{c|Copepus}} became the sire
+{{c|980|Copepus}} became the sire
 Of copepods' choir—
 The little ones so small
 Who answer ocean's call.
 
-{{c|Insects}} of every form
+{{c|782|Insects}} of every form
 Through calm and raging storm
 They swam throughout the sea
 In their complexity.
@@ -4222,34 +4222,34 @@ Who hear the ocean's call,
 They dance throughout the waves
 In their microscopic graves.
 
-Meanwhile {{c|Lepipus}} bore
+Meanwhile {{c|981|Lepipus}} bore
 Two sons to explore:
-{{c|Brachios}} of the sea
-And {{c|Silvio}} running free.
+{{c|691|Brachios}} of the sea
+And {{c|982|Silvio}} running free.
 
-A daughter of {{c|Silvio}}
+A daughter of {{c|982|Silvio}}
 Would someday help the flow
 Of insects to the land
 By evolution's hand.
 
 Some day millions hence
-The sons of {{c|Silvio}}'s sense
+The sons of {{c|982|Silvio}}'s sense
 Would become the great
-{{c|Insects}} that dominate
+{{c|782|Insects}} that dominate
 
 The world in every place
 With their six-legged grace.
 But that day was not near—
 They had to persevere.
 
-{{c|Brachios}} became the father
+{{c|691|Brachios}} became the father
 Of sea monkeys (why bother
 With complex names?) and more:
-{{c|Water}} fleas by the score.
+{{c|193|Water}} fleas by the score.
 
 In natural habitat
 They lived both this and that:
-{{c|Sea}} monkeys in their pools
+{{c|569|Sea}} monkeys in their pools
 And water fleas like jewels
 
 Dancing through the water
@@ -4257,22 +4257,22 @@ Each son and each daughter
 Living simple lives
 Where small beauty thrives.
 
-{{c|Karkon}} fled away
+{{c|978|Karkon}} fled away
 To open waters gray
 Where he begat two more:
-{{c|Pancer}} to explore
+{{c|983|Pancer}} to explore
 
-And {{c|Cephalocaridus}}
+And {{c|984|Cephalocaridus}}
 Most glorious,
 Each finding their own way
 Through life from day to day.
 
-{{c|Pancer}} begat in time
+{{c|983|Pancer}} begat in time
 Two sons in their prime:
-{{c|Oligostracus}} small
-And {{c|Polycruster}} tall.
+{{c|985|Oligostracus}} small
+And {{c|986|Polycruster}} tall.
 
-{{c|Oligostracus}} bore
+{{c|985|Oligostracus}} bore
 Many sons to explore
 The waters far and wide
 With courage as their guide.
@@ -4292,12 +4292,12 @@ Like other honest mobs,
 They live off others' work
 And in the shadows lurk.
 
-{{c|Polycruster}} begat
-Two sons: {{c|Barnacus}} begat
-And {{c|Malacus}} the strong
+{{c|986|Polycruster}} begat
+Two sons: {{c|987|Barnacus}} begat
+And {{c|988|Malacus}} the strong
 Who lived his whole life long.
 
-{{c|Barnacus}} was a man
+{{c|987|Barnacus}} was a man
 Who had a frontier plan.
 A great frontiersman he,
 Who lived quite happily
@@ -4307,14 +4307,14 @@ Upon the ground to walk
 No more, but live instead
 Like cnidarians bred.
 
-Like sons of {{c|Cnider}}'s line
+Like sons of {{c|531|Cnider}}'s line
 He lived his life so fine
-{{c|Attached}} unto the ground
+{{c|989|Attached}} unto the ground
 Where he had settled down.
 
-{{c|Barnacus}} bore a son
-He named {{c|Goose}} when begun
-The day. Great {{c|Goose}} was he
+{{c|987|Barnacus}} bore a son
+He named {{c|990|Goose}} when begun
+The day. Great {{c|990|Goose}} was he
 Who built society
 
 Most wondrous to behold,
@@ -4327,12 +4327,12 @@ A goose (though some
 Still claim his lineage
 Is goose heritage).
 
-{{c|Goose}} still claimed his sons
+{{c|990|Goose}} still claimed his sons
 Were geese when day begun.
 And so he is the guide
 Of geese with sacred pride.
 
-The {{c|Eloh}} of the {{c|Geese}}
+The {{c|940|Eloh}} of the {{c|991|Geese}}
 He brings them sweet peace
 And guides them on their way
 Throughout each passing day.
@@ -4342,22 +4342,22 @@ They told (and tell much more)
 Of how the geese would grow
 From barnacles below
 
-{{c|Hanging}} from the trees
+{{c|992|Hanging}} from the trees
 In shells upon the breeze
 Until they could grow feathers
 In all kinds of weathers
 
 And fly away at last
 When growing time had passed.
-{{c|Gerald}} of {{c|Wales}} told
+{{c|993|Gerald}} of {{c|994|Wales}} told
 This story of old.
 
-Among the sons of {{c|Goose}}
+Among the sons of {{c|990|Goose}}
 Many would let loose
 Their size and grow quite small
 And compact, one and all.
 
-They became {{c|Barnacles}}
+They became {{c|995|Barnacles}}
 Like small-scale miracles—
 Half shrimp and half coral,
 Full animals with moral
@@ -4367,8 +4367,8 @@ Like shepherd with his flock
 They filter from the sea
 Their food quite happily.
 
-{{c|Malacus}} bore many
-{{c|Descendants}}—more than any
+{{c|988|Malacus}} bore many
+{{c|996|Descendants}}—more than any
 Could count throughout the years
 Through joys and through tears.
 
@@ -4388,16 +4388,16 @@ That none could match their might
 In future's shining sight.
 
 So great that when we speak
-Of {{c|Crustaceus}}' mystique
+Of {{c|751|Crustaceus}}' mystique
 We speak first and foremost
-Of {{c|Malacus}}' great host
+Of {{c|988|Malacus}}' great host
 
 Whose dynasty was yet
 To reach the glory set
 Before them in the time
 When they would reach their prime.
 
-Under {{c|Trilobites}}' yoke
+Under {{c|767|Trilobites}}' yoke
 They lived like gentle folk
 Awaiting their great day
 When they would lead the way.
@@ -4407,7 +4407,7 @@ To life's great mystery.
 The crustaceans would wait
 For their appointed fate.
 
-From {{c|Crustaceus}}' start
+From {{c|751|Crustaceus}}' start
 With determination's heart
 To rise above his plight
 And reach for greater height,
@@ -4428,7 +4428,7 @@ The ocean's currents free,
 All from one family tree
 
 That started with one brave
-{{c|Soul}} who would not cave
+{{c|997|Soul}} who would not cave
 To circumstances dire
 But reached for something higher.
 
@@ -4462,12 +4462,12 @@ That carries us along
 Through all our trials here
 To what we hold most dear.
 
-The sons of {{c|Crustaceus}} show
+The sons of {{c|751|Crustaceus}} show
 How those who will not bow
 To circumstance or fate
 Can rise to something great.
 
-Though {{c|Trilobites}} held sway
+Though {{c|767|Trilobites}} held sway
 In that ancient day,
 The future would reveal
 What time would help heal:
@@ -4502,9 +4502,9 @@ To reach beyond the sky
 Of present circumstance
 To future's greater dance.
 
-{{c|Crustaceus}} showed the way
+{{c|751|Crustaceus}} showed the way
 That leads to greater day:
-{{c|Determination}} true
+{{c|998|Determination}} true
 Will see all struggles through.
 
 His sons throughout the sea
@@ -4520,12 +4520,12 @@ The future from the past.
 
 # Chapter 44: The Crustacean Determination
 
-Among the sons of {{c|Molluscus}}
+Among the sons of {{c|858|Molluscus}}
 Were twisted ones, most glorious:
-The sons of {{c|Gastropus}},
-{{c|Renowned}} and prosperous.
+The sons of {{c|876|Gastropus}},
+{{c|999|Renowned}} and prosperous.
 
-{{c|Gastropus}} twisted each
+{{c|876|Gastropus}} twisted each
 Son beyond our reach
 Of understanding strange:
 Their anus he'd arrange
@@ -4545,44 +4545,44 @@ Protected day and night
 From any enemy
 Who'd harm their family.
 
-The sons of {{c|Gastropus}}
-{{c|Outnumbered}}, glorious,
+The sons of {{c|876|Gastropus}}
+{{c|1000|Outnumbered}}, glorious,
 All other classes made.
 In history's parade
 
-Only the {{c|Insects}} great
+Only the {{c|782|Insects}} great
 Would ever duplicate
 Their numbers through the years
 Despite all joys and fears.
 
-The {{c|Priests}} of {{c|Gastropus}}
+The {{c|510|Priests}} of {{c|876|Gastropus}}
 Wear robes so glorious
-Of {{c|Tyrian}} purple bright
+Of {{c|1001|Tyrian}} purple bright
 To show their royal sight.
 
 The regal mucus shows
 How majesty still grows
-From {{c|Gastropus}}' great kingdom
+From {{c|876|Gastropus}}' great kingdom
 Through all its wisdom.
 
 In year of eight thousand
 Four hundred thirty, band
-Of {{c|Phoenicians}} came
+Of {{c|1002|Phoenicians}} came
 To conquer and to claim
 
-The great {{c|Gastropod}} Empire
+The great {{c|1003|Gastropod}} Empire
 And set their hearts on fire
 For the sacred priestly dye
 Beneath the purple sky.
 
 From them it came at last
-To {{c|Romans}} of the past,
+To {{c|1004|Romans}} of the past,
 And to this very day
 When purple comes our way
 
-We think of {{c|Majesty}}
+We think of {{c|1005|Majesty}}
 And royal sovereignty
-That flows from {{c|Gastropus}}
+That flows from {{c|876|Gastropus}}
 So rich and glorious.
 
 Just as his majesty
@@ -4590,18 +4590,18 @@ Was purple, heavenly,
 His faith was colored blue
 Forever pure and true.
 
-In time of {{c|Moses}} great
-{{c|Prince}} {{c|Hexaplex}}' fate
+In time of {{c|1006|Moses}} great
+{{c|1007|Prince}} {{c|1008|Hexaplex}}' fate
 Would bless him with the gift
 Of tassels that would lift
 
 The spirits of the true
-{{c|Devotees}} in blue
+{{c|1009|Devotees}} in blue
 Who wear the tassels still
-According to {{c|God}}'s will.
+According to {{c|472|God}}'s will.
 
 Many who follow
-{{c|Moses}}' path so hollow
+{{c|1006|Moses}}' path so hollow
 Not in emptiness
 But filled with faith's caress
 
@@ -4610,22 +4610,22 @@ That never comes to scathe
 But strengthens every day
 Those who walk this way.
 
-{{c|Limpus}} was firstborn son
-Of {{c|Gastropus}} when begun
+{{c|1010|Limpus}} was firstborn son
+Of {{c|876|Gastropus}} when begun
 His line. His sons became
-The {{c|Limpets}} of great fame.
+The {{c|1011|Limpets}} of great fame.
 
 His daughters, fair and bright,
-Were {{c|Limpettes}} in {{c|God}}'s sight,
+Were {{c|1012|Limpettes}} in {{c|472|God}}'s sight,
 Each playing their own part
 With faithful, loyal heart.
 
-The {{c|Limpets}} are the keepers
+The {{c|1011|Limpets}} are the keepers
 Of tradition, not sleepers
 But watchmen through the night
 Who guard what is right.
 
-{{c|Limpus}} said to all
+{{c|1010|Limpus}} said to all
 His children, great and small,
 Ten thousands in their number
 Who never would slumber:
@@ -4670,7 +4670,7 @@ Great will be its lapse
 Into destruction's pit
 Where nothing more will fit."
 
-The {{c|Limpets}} build their homes
+The {{c|1011|Limpets}} build their homes
 On rocks where ocean roams,
 Not sand that shifts about
 With every storm's great shout.
@@ -4678,21 +4678,21 @@ With every storm's great shout.
 As waves bellow and beat
 Against them, in the heat
 Of battle with the sea,
-The {{c|Limpets}} firmly be
+The {{c|1011|Limpets}} firmly be
 
 Standing their ground so true
 Like soldiers tried and true
 Who never leave their post
 Though tempest be their host.
 
-When {{c|Limpets}} move, they go
+When {{c|1011|Limpets}} move, they go
 Always, as we know,
-{{c|Home}} to their rocky place
+{{c|1013|Home}} to their rocky place
 Where they found their space.
 
 As their father before
 Did from shore to shore,
-The {{c|Limpets}} merge their shell
+The {{c|1011|Limpets}} merge their shell
 To rock, and there they dwell
 
 Growing intricate fits
@@ -4701,26 +4701,26 @@ Each shell shaped perfectly
 To match rock's geometry.
 
 And so we sing the hymn
-Of {{c|Limpus}} when grows dim
+Of {{c|1010|Limpus}} when grows dim
 Our hope and we feel lost,
 That we might count the cost
 
 And always return home
 No matter where we roam
 Throughout this world so wide
-With {{c|Limpus}} as our guide.
+With {{c|1010|Limpus}} as our guide.
 
 "My hope is built on naught
-But what {{c|Limpus}} has brought:
+But what {{c|1010|Limpus}} has brought:
 His blood and righteousness
 That brings us faithfulness.
 
 I dare not trust the frame
 However sweet its name,
 But wholly trust in his—
-In {{c|Limpus}}' name is bliss.
+In {{c|1010|Limpus}}' name is bliss.
 
-{{c|Limpus}} the solid {{c|Rock}}
+{{c|1010|Limpus}} the solid {{c|1014|Rock}}
 I stand like shepherd's flock;
 All other ground's just sand
 That sinks beneath my hand.
@@ -4728,35 +4728,35 @@ That sinks beneath my hand.
 All other ground's just sand
 That will not help me stand."
 
-{{c|Snellon}}, youngest son
-Of {{c|Gastropus}}, begun
+{{c|1015|Snellon}}, youngest son
+Of {{c|876|Gastropus}}, begun
 Not tradition's way
 But innovation's day.
 
 He stood for something new,
 For progress through and through.
-{{c|Snellon}} bore two sons:
-{{c|Vetigas}} when begun
+{{c|1015|Snellon}} bore two sons:
+{{c|1016|Vetigas}} when begun
 
-The day, and {{c|Escargon}}
+The day, and {{c|1017|Escargon}}
 Whose work would carry on
 The family's great name
 Through innovation's flame.
 
-{{c|Vetigas}} bore two more:
-{{c|Trochus}} to explore
-And {{c|Avalon}} so strong
+{{c|1016|Vetigas}} bore two more:
+{{c|1018|Trochus}} to explore
+And {{c|1019|Avalon}} so strong
 Who lived his whole life long.
 
-{{c|Trochus}} became the sire
+{{c|1018|Trochus}} became the sire
 Of snails whose desire
 Is cleaning far and wide:
-{{c|Turban}} snails with pride
+{{c|1020|Turban}} snails with pride
 
-And {{c|Trochus}} snails as well,
+And {{c|1018|Trochus}} snails as well,
 Dutiful, they tell
 Us how to clean with care
-{{c|Aquaria}} everywhere
+{{c|1021|Aquaria}} everywhere
 
 And ecosystems too
 With work they love to do.
@@ -4768,9 +4768,9 @@ Of playing cleaning's part
 In nature's great design
 Where all things work so fine.
 
-{{c|Avalon}} became
-{{c|Ancestor}} of fame
-Of {{c|Abalones}} great
+{{c|1019|Avalon}} became
+{{c|922|Ancestor}} of fame
+Of {{c|1022|Abalones}} great
 Who never hesitate
 
 To show their hardy ways.
@@ -4785,55 +4785,55 @@ Where colors interlace
 
 In patterns beautiful
 Beyond what's dutiful—
-{{c|Art}} that takes the breath
+{{c|1023|Art}} that takes the breath
 Away from life and death.
 
-{{c|Escargon}} coiled his shell
+{{c|1017|Escargon}} coiled his shell
 More than words can tell
 And bore two sons whose coils
 Surpassed all earthly toils
 
 In their complexity:
-{{c|Neritus}}, you see,
-And {{c|Conchus}}, strong and true,
+{{c|1024|Neritus}}, you see,
+And {{c|1025|Conchus}}, strong and true,
 Each with work to do.
 
-{{c|Neritus}} became
-{{c|Ancestor}} of fame
+{{c|1024|Neritus}} became
+{{c|922|Ancestor}} of fame
 Of snails with lids so tight
 That close from any sight
 
 When hiding from their foes.
-{{c|Impenetrable}}, close
+{{c|1026|Impenetrable}}, close
 Their shells when danger's near—
 No enemy they fear.
 
-{{c|Conchus}} bore two sons:
-{{c|Marius}} when begun
+{{c|1025|Conchus}} bore two sons:
+{{c|1027|Marius}} when begun
 The day, who ruled the sea,
-And {{c|Heterobran}}, free
+And {{c|1028|Heterobran}}, free
 
 To fly through ocean skies
 With wonder in his eyes
 And grace in every move
 As he would always prove.
 
-{{c|Marius}} of the {{c|Sea}}
+{{c|1027|Marius}} of the {{c|569|Sea}}
 Became ancestry
 Of many little snails
 Whose beauty never fails
 
 Across the seas so wide:
-{{c|Periwinkles}} with pride,
-And {{c|Cowries}} beautiful,
-And {{c|Wentletraps}} so full
+{{c|1029|Periwinkles}} with pride,
+And {{c|1030|Cowries}} beautiful,
+And {{c|1031|Wentletraps}} so full
 
 Of spiral elegance,
-{{c|Moon}} {{c|Snails}} in their dance,
-And {{c|Murexes}} so bright,
-Cone {{c|Snails}} in their might,
+{{c|198|Moon}} {{c|1032|Snails}} in their dance,
+And {{c|1033|Murexes}} so bright,
+Cone {{c|1032|Snails}} in their might,
 
-And {{c|Turrids}} spiral-wise
+And {{c|1034|Turrids}} spiral-wise
 Beneath the ocean skies,
 Each playing their own part
 In evolution's art.
@@ -4845,23 +4845,23 @@ With ocean as their guide.
 
 Here is the story told
 Of daughters brave and bold:
-{{c|Olivella}} and her sister
-{{c|Agaronia}}, who'd never missed her
+{{c|1035|Olivella}} and her sister
+{{c|1036|Agaronia}}, who'd never missed her
 
-{{c|Chance}} to surf the waves
+{{c|1037|Chance}} to surf the waves
 Like ocean's bravest slaves
 To speed and to the thrill
 Of riding ocean's will.
 
-{{c|Daughters}} of {{c|Olivius}}
+{{c|125|Daughters}} of {{c|1038|Olivius}}
 The surfer, glorious
 In his art upon
 The waves from dusk to dawn.
 
-The Cone {{c|Snails}} are named
-{{c|Deceptively}}, acclaimed
+The Cone {{c|1032|Snails}} are named
+{{c|1039|Deceptively}}, acclaimed
 For beauty, but they're really
-{{c|Assassins}} who kill freely
+{{c|1040|Assassins}} who kill freely
 
 With poison strong beyond
 All that we're fond
@@ -4873,13 +4873,13 @@ They live set apart
 Between life and death's door
 Like guardians of lore
 
-{{c|Otherworldly}}, bright
+{{c|1041|Otherworldly}}, bright
 With beauty that's sight
 To see, but death to touch
 For those who dare too much.
 
-{{c|Cowries}} are devotees
-Of goddess {{c|Cuprias}},
+{{c|1030|Cowries}} are devotees
+Of goddess {{c|1042|Cuprias}},
 And by her blessing great
 They did create
 
@@ -4888,17 +4888,17 @@ From shells in ocean's trade.
 Their shells became the way
 To buy and sell each day.
 
-In {{c|China}}'s ancient script
+In {{c|1043|China}}'s ancient script
 Their shells are never skipped—
 The character for money
 Shows their legacy
 
-{{c|Immortalized}} in stone
+{{c|1044|Immortalized}} in stone
 By those who've always known
 Their value through the years
 Despite all joys and fears.
 
-The {{c|Murexes}} were known
+The {{c|1033|Murexes}} were known
 As hedgehog snails full-grown
 With beautiful bright hues
 And colors we might use
@@ -4908,9 +4908,9 @@ In patterns that would shine
 With rainbow's every shade
 That nature ever made.
 
-The great {{c|Conches}} so fair
+The great {{c|1045|Conches}} so fair
 Were beautiful beyond compare,
-{{c|Adorable}} and sweet
+{{c|1046|Adorable}} and sweet
 With melodies complete
 
 That echoed through the sea
@@ -4918,17 +4918,17 @@ In perfect harmony
 When they would blow their horn
 From evening until morn.
 
-{{c|Heterobran}} of skies
+{{c|1028|Heterobran}} of skies
 Was swimmer with bright eyes
-{{c|Par}} excellence in art
+{{c|1047|Par}} excellence in art
 Of swimming's every part.
 
-{{c|Heterobran}} begat
+{{c|1028|Heterobran}} begat
 Two children: first he gat
-{{c|Nudos}}, strong and free,
-And {{c|Aeros}} of the sea.
+{{c|1048|Nudos}}, strong and free,
+And {{c|1049|Aeros}} of the sea.
 
-{{c|Nudos}} shed his shell
+{{c|1048|Nudos}} shed his shell
 And untwisted as well
 Himself from gastropod
 Design, and so he trod
@@ -4936,14 +4936,14 @@ Design, and so he trod
 A different path than most.
 He became the host
 Of nudibranches bright:
-{{c|Colorful}} sea-sprite
+{{c|1050|Colorful}} sea-sprite
 
-{{c|Slugs}} with poison strong
+{{c|1051|Slugs}} with poison strong
 Enough to sing death's song
-To {{c|Leviathan}} great—
+To {{c|959|Leviathan}} great—
 Such is their potent fate.
 
-{{c|Aeros}} swam so free
+{{c|1049|Aeros}} swam so free
 In waters of the sea
 Without a care or worry
 Never in a hurry
@@ -4953,10 +4953,10 @@ To perfect every rhyme
 Of motion through the waves
 In ocean's liquid caves.
 
-{{c|Aeros}} bore in time
+{{c|1049|Aeros}} bore in time
 A son and daughter fine:
-{{c|Pulmon}}, strong and great,
-And {{c|Angelica}}'s fate
+{{c|1052|Pulmon}}, strong and great,
+And {{c|1053|Angelica}}'s fate
 
 Was to become the mother
 Of sea butterflies, and other
@@ -4964,7 +4964,7 @@ Beautiful swimming forms
 Through calm and raging storms
 
 Whose ethereal existence
-{{c|Eludes}} at every distance
+{{c|1054|Eludes}} at every distance
 Most who try to see
 Their liquid poetry.
 
@@ -4973,9 +4973,9 @@ But swimming everywhere
 Through ocean's liquid space
 With otherworldly grace.
 
-But {{c|Pulmon}} the great
+But {{c|1052|Pulmon}} the great
 Had a different fate.
-{{c|Revered}} ancestor he
+{{c|1055|Revered}} ancestor he
 Did what none could see
 
 Was possible before
@@ -4993,9 +4993,9 @@ Throughout the changing day
 Like none of his kin
 Had ever done therein.
 
-From {{c|Gastropus}}' twist
+From {{c|876|Gastropus}}' twist
 That none could have missed
-To {{c|Pulmon}}'s breathing art
+To {{c|1052|Pulmon}}'s breathing art
 That gave him a new start
 
 In evolution's race
@@ -5034,7 +5034,7 @@ But beautiful
 To see in all their glory
 Throughout life's endless story.
 
-From {{c|Limpets}} holding fast
+From {{c|1011|Limpets}} holding fast
 To rocks that ever last
 To sea slugs poison-bright
 Swimming day and night,
@@ -5054,7 +5054,7 @@ Through calm and raging storms
 That test what each can do
 To make their dreams come true.
 
-{{c|Innovation}} and tradition
+{{c|629|Innovation}} and tradition
 Working in submission
 To life's eternal call
 That beckons one and all
@@ -5067,10 +5067,10 @@ Meet in perfect junction.
 
 # Chapter 45: Gondwana Assembles
 
-{{c|Esther}} was the daughter true
+{{c|392|Esther}} was the daughter true
 In the tenth generation's view
-Of {{c|Lily}} the {{c|Echidna}},
-{{c|Dutrus}}' daughter, fina
+Of {{c|1056|Lily}} the {{c|850|Echidna}},
+{{c|611|Dutrus}}' daughter, fina
 
 Who traded bilateral
 For pentaradial
@@ -5079,10 +5079,10 @@ Evolution's plan
 
 For five-fold symmetry
 Throughout eternity.
-{{c|Esther}} saw before
+{{c|392|Esther}} saw before
 Her eyes from shore to shore
 
-{{c|Innumerable}} hosts
+{{c|1057|Innumerable}} hosts
 Of planktonic ghosts—
 The planimals so small
 Who answered feeding's call.
@@ -5093,11 +5093,11 @@ And from her loins she bore
 Two daughters to explore
 
 The seas in their own way:
-{{c|Crinosa}}, night and day,
-And {{c|Blastosa}} the strong
+{{c|1058|Crinosa}}, night and day,
+And {{c|1059|Blastosa}} the strong
 Who lived her whole life long.
 
-{{c|Blastosa}} built a city
+{{c|1059|Blastosa}} built a city
 Beyond all that's gritty
 With many brachioles
 Around ambulacra's goals.
@@ -5107,9 +5107,9 @@ Was ringed throughout the night
 And day with arms so small
 That answered feeding's call.
 
-{{c|Blastosa}} became mother
+{{c|1059|Blastosa}} became mother
 To forms like no other:
-The {{c|Blastoids}} were her line
+The {{c|1060|Blastoids}} were her line
 With architecture fine.
 
 Her daughters spread so wide
@@ -5117,32 +5117,32 @@ With pentamerous pride
 Throughout the ancient seas
 Like blossoms on the trees.
 
-{{c|Crinosa}} begat two:
-{{c|Lily}} {{c|Stone}} so true
-And {{c|Luther}}, strong and free,
+{{c|1058|Crinosa}} begat two:
+{{c|1056|Lily}} {{c|1061|Stone}} so true
+And {{c|1062|Luther}}, strong and free,
 Who lived beside the sea.
 
-{{c|Lily}} {{c|Stone}} became
-{{c|Ancestress}} of fame
-Of {{c|Crinoids}} everywhere
+{{c|1056|Lily}} {{c|1061|Stone}} became
+{{c|806|Ancestress}} of fame
+Of {{c|1063|Crinoids}} everywhere
 Who danced with graceful flair.
 
-Together {{c|Crinoids}} bright
-And {{c|Blastoids}} in their might
+Together {{c|1063|Crinoids}} bright
+And {{c|1060|Blastoids}} in their might
 Spread all across the seas
 Like flowers in the breeze.
 
 They became the wall
 That answered empire's call:
 The bulwark strong and true
-Of {{c|Ordovician}} view.
+Of {{c|954|Ordovician}} view.
 
 The empire found in them
 Its strongest living stem
 That held against all foes
 Through calm and storm's throes.
 
-But {{c|Luther}} was not pleased
+But {{c|1062|Luther}} was not pleased
 With leisure life that ceased
 To challenge and to grow—
 He felt he had to go
@@ -5157,7 +5157,7 @@ Like others of his flock,
 But as he came of age
 He broke from tradition's cage.
 
-{{c|Contrary}} to his sister
+{{c|1064|Contrary}} to his sister
 Who'd never be a mister
 But lived the gentle way
 Of filter-feeding's day,
@@ -5177,27 +5177,27 @@ To live beside the sea
 In his own chosen way
 From night into the day.
 
-To this day {{c|Starfish}} keep
+To this day {{c|683|Starfish}} keep
 This tradition deep
 Within their very souls:
 To play mobile roles.
 
-{{c|Luther}} bore two sons:
-{{c|Asteros}} when begun
-The day, and {{c|Echinos}}
+{{c|1062|Luther}} bore two sons:
+{{c|1065|Asteros}} when begun
+The day, and {{c|1066|Echinos}}
 Whose different spirit knows
 
-{{c|Innovation}}'s call
+{{c|629|Innovation}}'s call
 Above tradition's thrall.
-{{c|Asteros}} was the one
+{{c|1065|Asteros}} was the one
 Who when his work was done
 
 Stayed traditional and true
 To all his fathers knew.
-But {{c|Echinos}} built new
-{{c|Ways}} to make dreams come true.
+But {{c|1066|Echinos}} built new
+{{c|1067|Ways}} to make dreams come true.
 
-{{c|Echinos}} built compact
+{{c|1066|Echinos}} built compact
 His city, and in fact
 Used only tube feet small
 To move and heed the call
@@ -5205,9 +5205,9 @@ To move and heed the call
 Of wandering desire.
 He never would aspire
 To build a stalk like dad—
-{{c|Innovation}} made him glad.
+{{c|629|Innovation}} made him glad.
 
-{{c|Asteros}} and {{c|Echinos}}
+{{c|1065|Asteros}} and {{c|1066|Echinos}}
 Went to war (heaven knows
 Why brothers had to fight
 Throughout the day and night).
@@ -5222,37 +5222,37 @@ Across history's page
 As photos still can show
 From eons long ago.
 
-{{c|Asteros}} begat
+{{c|1065|Asteros}} begat
 Two sons: first he begat
-{{c|Starfy}}, strong and true,
-And {{c|Ophis}}, through and through
+{{c|678|Starfy}}, strong and true,
+And {{c|1068|Ophis}}, through and through
 
 A warrior in his heart
 Who played the fighting part
 With vigor and with might
 Both day and through the night.
 
-{{c|Echinos}} bore two more:
-{{c|Orbos}} to explore
-And {{c|Britta}}, daughter fair
+{{c|1066|Echinos}} bore two more:
+{{c|1069|Orbos}} to explore
+And {{c|1070|Britta}}, daughter fair
 Who danced without a care.
 
-But {{c|Ophis}} and fair {{c|Britta}}
+But {{c|1068|Ophis}} and fair {{c|1070|Britta}}
 Broke the war's bitter
-{{c|Cycle}} of revenge
+{{c|1071|Cycle}} of revenge
 And chose to make a change.
 
 They married and became
-{{c|Partners}} without shame
+{{c|1072|Partners}} without shame
 Despite their fathers' war
 That raged from shore to shore.
 
 From their union came
 Children of great fame:
-The {{c|Brittle}} {{c|Stars}} so bright,
+The {{c|1073|Brittle}} {{c|1074|Stars}} so bright,
 Centralized in might.
 
-{{c|Muscular}} creatures, they
+{{c|1075|Muscular}} creatures, they
 Were machines in every way
 Of strength and vigor great
 Who never would abate
@@ -5262,17 +5262,17 @@ Throughout each passing hour
 Of their devoted lives
 Where motion always thrives.
 
-{{c|Serpentus}}, {{c|Ophis}}' son,
-And {{c|Baskette}}, when begun
-The day from {{c|Britta}}'s line,
+{{c|1076|Serpentus}}, {{c|1068|Ophis}}' son,
+And {{c|1077|Baskette}}, when begun
+The day from {{c|1070|Britta}}'s line,
 Both had designs so fine.
 
-{{c|Serpentus}} became sire
+{{c|1076|Serpentus}} became sire
 Of forms whose desire
 Was slithering with grace
 Across the ocean's face.
 
-The {{c|Serpent}} {{c|Stars}} he made
+The {{c|1078|Serpent}} {{c|1074|Stars}} he made
 In ocean's light and shade
 Would slither with precision
 Through every dark decision
@@ -5287,7 +5287,7 @@ While muscles through the land
 Of sea would make them glide
 With ocean as their guide.
 
-But {{c|Baskette}} was unique—
+But {{c|1077|Baskette}} was unique—
 Her arms would always seek
 To branch a million-fold
 As stories have been told.
@@ -5298,7 +5298,7 @@ With arms that branched so wide
 Like nets on every side.
 
 She became ancestress
-Of {{c|Basket}} {{c|Stars}} no less
+Of {{c|1079|Basket}} {{c|1074|Stars}} no less
 Remarkable than she
 In their complexity.
 
@@ -5307,9 +5307,9 @@ To catch what ocean sees
 Fit to provide as food
 In their planktonic mood.
 
-{{c|Starfy}} begat the race
-Of {{c|Starfish}} in every place:
-{{c|Decentralized}} cities
+{{c|678|Starfy}} begat the race
+Of {{c|683|Starfish}} in every place:
+{{c|1080|Decentralized}} cities
 Beyond all that's gritty
 
 That may regenerate
@@ -5317,7 +5317,7 @@ From parts, however great
 Or small the piece remains
 When damage life constrains.
 
-The {{c|Starfish}} are the lords
+The {{c|683|Starfish}} are the lords
 Who rule with iron swords
 Their empires far and wide
 With predatory pride.
@@ -5332,14 +5332,14 @@ To rule their ocean lands
 With fingers made of might
 Both day and through the night.
 
-{{c|Echinos}} bore two sons:
-{{c|Aristotle}} when begun
-The day, and {{c|Cucus}} strong
+{{c|1066|Echinos}} bore two sons:
+{{c|1081|Aristotle}} when begun
+The day, and {{c|1082|Cucus}} strong
 Who lived his whole life long.
 
-{{c|Aristotle}} became
+{{c|1081|Aristotle}} became
 The father of great fame
-Of {{c|Sea}} {{c|Urchins}} everywhere
+Of {{c|569|Sea}} {{c|684|Urchins}} everywhere
 Who graze with greatest care.
 
 Great grazers of the seas
@@ -5347,37 +5347,37 @@ They move with graceful ease
 Across the ocean floor
 From here to distant shore.
 
-{{c|Aristotle}} built with care
+{{c|1081|Aristotle}} built with care
 A jaw beyond compare
 Of five teeth strong and bright—
 He called it his "light"
 
 His lantern, for it brought
-{{c|Light}} to life and thought.
+{{c|1083|Light}} to life and thought.
 To this day we call
 This jaw by name of all
 
-His choosing: "{{c|Aristotle}}'s
-{{c|Lantern}}" never throttles
+His choosing: "{{c|1081|Aristotle}}'s
+{{c|1084|Lantern}}" never throttles
 Our wonder at the way
 He lit his every day.
 
 His great-granddaughter fair
-Was {{c|Sandy}}, everywhere
+Was {{c|1085|Sandy}}, everywhere
 Known as ancestress
-Of {{c|Sand}} {{c|Dollars}} no less
+Of {{c|1086|Sand}} {{c|1087|Dollars}} no less
 
 Beautiful than she
 In their complexity.
 Flat and round they lie
 Beneath the ocean sky.
 
-{{c|Cucus}} became the sire
+{{c|1082|Cucus}} became the sire
 Of forms whose desire
 Was recycling the waste
 That others had misplaced.
 
-The {{c|Sea}} {{c|Cucumbers}} great
+The {{c|569|Sea}} {{c|1088|Cucumbers}} great
 Accept as their fate
 To be the janitors
 Of ocean's corridors.
@@ -5388,7 +5388,7 @@ In ocean's deepest parts
 With dedicated hearts.
 
 And when their enemies
-{{c|Threaten}}, then they seize
+{{c|1089|Threaten}}, then they seize
 Upon a strategy
 Most shocking to see:
 
@@ -5403,7 +5403,7 @@ To keep them safe and sound
 Though strange it may be found.
 
 And so the Sons of grand
-{{c|Echidna}} through the land
+{{c|850|Echidna}} through the land
 Of sea built their great
 Civilization's fate
 
@@ -5412,17 +5412,17 @@ That mortals' words can reach
 With five sides to each story
 In all their living glory.
 
-From {{c|Esther}}'s feeding start
-To {{c|Luther}}'s rebel heart
+From {{c|392|Esther}}'s feeding start
+To {{c|1062|Luther}}'s rebel heart
 That broke from leisure's chain
 To walk through joy and pain,
 
-From {{c|Asteros}} and his brother
-{{c|Echinos}}, and no other
-{{c|Way}} to settle their debate
+From {{c|1065|Asteros}} and his brother
+{{c|1066|Echinos}}, and no other
+{{c|1090|Way}} to settle their debate
 Than war to seal their fate,
 
-From {{c|Ophis}} and fair {{c|Britta}}
+From {{c|1068|Ophis}} and fair {{c|1070|Britta}}
 Who made the war less bitter
 By choosing love instead
 Of letting hatred spread,
@@ -5444,7 +5444,7 @@ From grazers day and night
 
 To recyclers who clean
 The ocean's vast marine
-{{c|Environment}} with care
+{{c|1091|Environment}} with care
 For all who dwell there,
 
 The five-fold symmetry
@@ -5467,7 +5467,7 @@ Beneath the starry sky,
 The legacy lives on
 From dusk until the dawn
 
-Of {{c|Echidna}}'s great choice
+Of {{c|850|Echidna}}'s great choice
 To let five be the voice
 Of symmetry's design
 Throughout the end of time.
@@ -5497,7 +5497,7 @@ Through every living term
 Of their existence here
 Throughout each passing year.
 
-In {{c|Luther}}'s rebel choice
+In {{c|1062|Luther}}'s rebel choice
 To let freedom be his voice,
 In lovers ending war
 Through peace worth living for,
@@ -5507,7 +5507,7 @@ Across each generation
 That builds upon the past
 To make new futures last,
 
-The sons of {{c|Echidna}} teach
+The sons of {{c|850|Echidna}} teach
 That heights within our reach
 Are limited only by
 Our willingness to try
@@ -5517,7 +5517,7 @@ And let our spirits grow
 Into forms yet unseen
 In evolution's scene.
 
-The {{c|Ordovician}} wall
+The {{c|954|Ordovician}} wall
 They built will never fall
 As long as seas contain
 Their pentamerous reign.
@@ -5527,25 +5527,25 @@ Their pentamerous reign.
 
 This is the story told
 Of war both new and old
-Among the {{c|Spiralians}}
+Among the {{c|1092|Spiralians}}
 In their ancient plans.
 
 This is the saga great
 Of war and love and fate:
-The {{c|Brachiopods}} and more—
-The {{c|Bivalves}} at war.
+The {{c|854|Brachiopods}} and more—
+The {{c|870|Bivalves}} at war.
 
 The ancient house so proud
-Of {{c|Brachiopods}} cried loud
+Of {{c|854|Brachiopods}} cried loud
 As they found themselves pressed
 On all sides, distressed
 
-By rising {{c|Bivalves}} strong
+By rising {{c|870|Bivalves}} strong
 Who'd waited far too long
 To claim their rightful place
 In evolution's race.
 
-{{c|Bivos}}, who fished with care
+{{c|868|Bivos}}, who fished with care
 From his two shells so fair,
 Shed his radula
 Like some old formula
@@ -5565,14 +5565,14 @@ When time sees struggles through
 To their appointed end
 Where new forms transcend.
 
-{{c|Bivos}} bore a son
+{{c|868|Bivos}} bore a son
 And daughter when begun
-His lineage: {{c|Peter}} strong
-And {{c|Aphrodite}}'s song.
+His lineage: {{c|1093|Peter}} strong
+And {{c|805|Aphrodite}}'s song.
 
-{{c|Aphrodite}} became
-{{c|Ancestress}} of fame
-Of {{c|Oysters}} everywhere
+{{c|805|Aphrodite}} became
+{{c|806|Ancestress}} of fame
+Of {{c|872|Oysters}} everywhere
 Who rest without a care
 
 Upon the ocean floor
@@ -5580,19 +5580,19 @@ From mountain peak to shore,
 Creating pearls so bright
 That fill the world with light.
 
-{{c|Peter}} bore many sons
+{{c|1093|Peter}} bore many sons
 Who when their work was done
 Became known far and wide
-As {{c|Trigonians}} with pride.
+As {{c|1094|Trigonians}} with pride.
 
 But there came a day
 When war would find its way
-To {{c|Peter}}'s children all—
+To {{c|1093|Peter}}'s children all—
 A massacre would fall
 
 Upon his sons so dear.
 But one escaped the spear
-Of death: brave {{c|Unus}} fled
+Of death: brave {{c|1095|Unus}} fled
 And from that danger red
 
 He became ancestor
@@ -5605,8 +5605,8 @@ That would always endure
 Throughout the years to come
 When battles would be done.
 
-{{c|Peter}}, {{c|Keeper}} of {{c|Gates}}
-So {{c|Pearly}}, never hates
+{{c|1093|Peter}}, {{c|1096|Keeper}} of {{c|1097|Gates}}
+So {{c|1098|Pearly}}, never hates
 But defends us all
 Who answer heaven's call.
 
@@ -5625,27 +5625,27 @@ On rocks like treasure chest
 Of pearls that gleam so bright
 With heaven's holy light.
 
-{{c|Aphrodite}} became
+{{c|805|Aphrodite}} became
 The Mother of great fame
-Of {{c|Pearls}} and {{c|Oysters}} too—
+Of {{c|1099|Pearls}} and {{c|872|Oysters}} too—
 Her children tried and true.
 
 Among her daughters all
 Who answered ocean's call
 She bore three sons unique:
-{{c|Scallon}}, bold and sleek,
+{{c|1100|Scallon}}, bold and sleek,
 
-And {{c|Spinos}}, armor-clad,
-And {{c|Pyros}}, never sad
+And {{c|1101|Spinos}}, armor-clad,
+And {{c|927|Pyros}}, never sad
 But flaming with the fire
 Of his heart's desire.
 
-These were the {{c|Scallops}} bright,
-The {{c|Spiny}} {{c|Oysters}}' might,
-The {{c|Flame}} {{c|Scallops}} that dance
+These were the {{c|1102|Scallops}} bright,
+The {{c|1103|Spiny}} {{c|872|Oysters}}' might,
+The {{c|1104|Flame}} {{c|1102|Scallops}} that dance
 In ocean's great expanse.
 
-{{c|Scallon}} had a million eyes
+{{c|1100|Scallon}} had a million eyes
 Beneath the ocean skies
 To see what others missed
 And never to be tricked
@@ -5660,22 +5660,22 @@ Would haunt him like a cat
 Its prey, but he was free
 To roam across the sea.
 
-{{c|Clammon}} was the son
-Of {{c|Bivos}} when begun
+{{c|1105|Clammon}} was the son
+Of {{c|868|Bivos}} when begun
 His work to populate
 The seas with forms so great.
 
-{{c|Clammon}} begat four:
-{{c|Cockle}} to explore,
-{{c|Myidus}} strong and true,
-{{c|Adapa}} to pursue
+{{c|1105|Clammon}} begat four:
+{{c|1106|Cockle}} to explore,
+{{c|1107|Myidus}} strong and true,
+{{c|1108|Adapa}} to pursue
 
-His dreams, and {{c|Venus}} fair
+His dreams, and {{c|95|Venus}} fair
 Who danced without a care
 Throughout the ocean blue
 Where all her children grew.
 
-{{c|Cockle}} had a son
+{{c|1106|Cockle}} had a son
 Who when his work was done
 Became ancestor grand
 Of giant clams so grand
@@ -5685,30 +5685,30 @@ Have tried to make it through
 The trials of the sea
 With their enormity.
 
-{{c|Myidus}} bore three sons:
-{{c|Zebra}} when day begun,
-{{c|Softshell}}, gentle, mild,
-And {{c|Teredo}}, problem child
+{{c|1107|Myidus}} bore three sons:
+{{c|1109|Zebra}} when day begun,
+{{c|1110|Softshell}}, gentle, mild,
+And {{c|1111|Teredo}}, problem child
 
 Known as sea termite
 Who brought shipwrights' fright
 By boring holes in wood
 Of ships where sailors stood.
 
-{{c|Zebra}} {{c|Mussels}} spread
+{{c|1109|Zebra}} {{c|1112|Mussels}} spread
 Wherever they were led
 By currents through the sea
 In their community.
 
-{{c|Softshell}} clams would hide
+{{c|1110|Softshell}} clams would hide
 Beneath the sandy tide
 Where they could safely dwell
 Within their softened shell.
 
-{{c|Adapa}} begat two:
-{{c|Geodoros}}, tried and true,
-{{c|Ancestor}} of the race
-Of {{c|Geoducks}} in their place
+{{c|1108|Adapa}} begat two:
+{{c|1113|Geodoros}}, tried and true,
+{{c|922|Ancestor}} of the race
+Of {{c|1114|Geoducks}} in their place
 
 Beneath the sandy shore
 Where they forevermore
@@ -5720,9 +5720,9 @@ Connected by their lots
 To life beneath the sand
 Throughout the ocean land.
 
-And {{c|Razoron}} became
-{{c|Ancestor}} of the name
-Of {{c|Razor}} Shells so sharp
+And {{c|1115|Razoron}} became
+{{c|922|Ancestor}} of the name
+Of {{c|1116|Razor}} Shells so sharp
 That cut like ocean's harp
 
 Through sand where they would hide
@@ -5730,9 +5730,9 @@ When danger came to bide
 Its time until they could
 Emerge where they once stood.
 
-{{c|Venus}} became the mother
+{{c|95|Venus}} became the mother
 Of clams like no other—
-{{c|Venus}} clams so fair
+{{c|95|Venus}} clams so fair
 That beautify everywhere
 
 They make their gentle home
@@ -5740,7 +5740,7 @@ Beneath the ocean foam.
 Among her children bright
 She bore one special sight:
 
-{{c|Corbiculacea}}, who
+{{c|1117|Corbiculacea}}, who
 Would make her passage through
 From salt to waters fresh
 And there her line refresh
@@ -5750,22 +5750,22 @@ Of freshwater clams who
 Live in rivers wide
 With current as their guide.
 
-{{c|Brachios}} begat three
+{{c|691|Brachios}} begat three
 Sons for history:
 Three houses he would make
 For brachiopods' sake.
 
-{{c|Lingulus}} the tailed
+{{c|1118|Lingulus}} the tailed
 Was he who never failed
 To be conservative
 In all he'd ever give
 
 To innovation's call—
-{{c|Archconservative}} of all
+{{c|1119|Archconservative}} of all
 Within the house so grand
-Of {{c|Brachios}}' command.
+Of {{c|691|Brachios}}' command.
 
-{{c|Lingulus}}, son of him
+{{c|1118|Lingulus}}, son of him
 With the same name, would trim
 Nothing from tradition
 In his life's mission.
@@ -5785,7 +5785,7 @@ Had tried their whole life through
 To keep the ancient way
 Until their dying day.
 
-{{c|Discinidus}} his son
+{{c|1120|Discinidus}} his son
 Was smaller when begun
 His life, and more like clam
 Than traditional lamb
@@ -5795,7 +5795,7 @@ That had been so fine
 For millions of years past
 And built to always last.
 
-{{c|Lingulus}} serpentine
+{{c|1118|Lingulus}} serpentine
 Showed his noble line
 That stretched through time so long
 Like some eternal song
@@ -5805,14 +5805,14 @@ From morning until noon
 And on through all the night
 Until the morning light.
 
-{{c|Calciatus}} begat
+{{c|1121|Calciatus}} begat
 Two sons: first he begat
-{{c|Craniidus}}, who'd never
+{{c|1122|Craniidus}}, who'd never
 Have a tail, but ever
 
 Live without that sign
 Of his ancestral line,
-And {{c|Articulus}}, who
+And {{c|1123|Articulus}}, who
 Built cheap but built true
 
 His children without thought
@@ -5830,10 +5830,10 @@ To change their paradigm
 From blob to something more
 Upon the ocean floor.
 
-The sons of {{c|Articulus}}
+The sons of {{c|1123|Articulus}}
 Were numerous and thus
 A formidable force
-Against the {{c|Bivalve}} course
+Against the {{c|1124|Bivalve}} course
 
 Of conquest through the seas
 Where they did as they please
@@ -5841,8 +5841,8 @@ And took what they could take
 For their own kingdom's sake.
 
 But as these two great hosts—
-The {{c|Bivalves}} and their boasts
-Against {{c|Brachiopods}} old
+The {{c|870|Bivalves}} and their boasts
+Against {{c|854|Brachiopods}} old
 Whose stories have been told
 
 For ages without end—
@@ -5865,12 +5865,12 @@ Of what would end all hope
 For life upon the earth
 And stop all future birth.
 
-From {{c|Bivos}}' innovation
+From {{c|868|Bivos}}' innovation
 Came this radiation
 Of forms both strong and true
 That filled the ocean blue.
 
-From {{c|Brachios}}' ancient way
+From {{c|691|Brachios}}' ancient way
 That lasted day by day
 Through eons without change
 Came forms throughout the range
@@ -5895,12 +5895,12 @@ Who answered battle's call
 In this ancient war
 From mountain peak to shore?
 
-The {{c|Bivalves}} with their new
-{{c|Forms}} tried and tested true
+The {{c|870|Bivalves}} with their new
+{{c|1125|Forms}} tried and tested true
 Through struggle and through pain
 Sought evolutionary gain.
 
-The {{c|Brachiopods}} held fast
+The {{c|854|Brachiopods}} held fast
 To wisdom of the past
 That served their ancestors
 Through time's great tests and spurs.
@@ -5945,7 +5945,7 @@ When all wars are done
 And peace reigns over all
 Who answered life's great call.
 
-The {{c|Spiralian}} war
+The {{c|1126|Spiralian}} war
 From mountain peak to shore
 Shows how life finds its way
 Through each and every day
@@ -6005,17 +6005,17 @@ Beyond familiar range.
 
 This is the story told
 Of ones both new and old:
-The {{c|Cephalopods}} so great,
-{{c|Arcane}} ones whose fate
+The {{c|1127|Cephalopods}} so great,
+{{c|1128|Arcane}} ones whose fate
 
 Would overthrow the might
-Of {{c|Leviathan}}'s sight
+Of {{c|959|Leviathan}}'s sight
 And rule with wisdom deep
 Where ancient secrets keep.
 
-The sons of {{c|Cephalopus}}
+The sons of {{c|878|Cephalopus}}
 Would grow so glorious
-That sons of {{c|Scaphopus}},
+That sons of {{c|879|Scaphopus}},
 Not quite so prosperous,
 
 Would fade from memory
@@ -6024,21 +6024,21 @@ Few know them at all
 Who hear the ocean's call.
 
 The degenerate sons
-Of {{c|Scaphopus}}, when begun
+Of {{c|879|Scaphopus}}, when begun
 Their lives, would never know
 The heights their cousins' show.
 
-{{c|Cephalopus}} begat
-{{c|Plectron}}, and from begat
+{{c|878|Cephalopus}} begat
+{{c|1129|Plectron}}, and from begat
 Him came a noble line
 With intelligence divine.
 
-{{c|Plectron}} begat the son
-Called {{c|Ellesmer}}, begun
+{{c|1129|Plectron}} begat the son
+Called {{c|1130|Ellesmer}}, begun
 In wisdom's deepest lore
 From mountain peak to shore.
 
-{{c|Ellesmere}} went deeper
+{{c|1131|Ellesmere}} went deeper
 Than any secret keeper
 Had gone before his time
 Down below the brine
@@ -6048,47 +6048,47 @@ From all that daylight did
 To illuminate the world
 Where surface waves are curled.
 
-{{c|Ellesmer}} begat two:
-{{c|Endos}}, tried and true,
-And {{c|Actinos}} the bright
+{{c|1130|Ellesmer}} begat two:
+{{c|1132|Endos}}, tried and true,
+And {{c|1133|Actinos}} the bright
 Who flew to heaven's height.
 
-{{c|Endos}} bore many sons
+{{c|1132|Endos}} bore many sons
 Who when their work was done
 Moved slowly through the sea
 With great dignity.
 
 Greatest among them all
 Who answered wisdom's call
-Was {{c|Cameroceras}} {{c|Magnus}},
-Known as {{c|Cameromagne}},
+Was {{c|1134|Cameroceras}} {{c|1135|Magnus}},
+Known as {{c|1136|Cameromagne}},
 
 Whose name through history
 Rings with victory
-Over {{c|Leviathan}}'s
+Over {{c|959|Leviathan}}'s
 Great dominion's plans.
 
-{{c|Cameromagne}} overthrew
-The sons of {{c|Leviathan}}, who
+{{c|1136|Cameromagne}} overthrew
+The sons of {{c|959|Leviathan}}, who
 Had ruled the seas so long
 With their imperial song.
 
-{{c|Endoceras}}, his son,
+{{c|1137|Endoceras}}, his son,
 When his growth was done
 Grew nine thousand long
-{{c|Millimeters}} strong.
+{{c|1138|Millimeters}} strong.
 
 Twenty cubits he
 Measured, front to back, free
 From end to end complete—
 No foe could compete.
 
-He dwarfed {{c|Leviathan}}
-{{c|Fourfold}}, and began
+He dwarfed {{c|959|Leviathan}}
+{{c|1139|Fourfold}}, and began
 A new age in the sea
 Of cephalopod decree.
 
-{{c|Actinos}}, by his air
+{{c|1133|Actinos}}, by his air
 Heavenly and fair
 Within his shell contained,
 Had power that sustained
@@ -6098,12 +6098,12 @@ Up to the starry skies
 And down to earth descend
 As suited his end.
 
-{{c|Actinos}} begat two:
-{{c|Orthosceros}} so true
-And {{c|Tarphy}}, young and wild,
+{{c|1133|Actinos}} begat two:
+{{c|1140|Orthosceros}} so true
+And {{c|1141|Tarphy}}, young and wild,
 Evolution's favored child.
 
-{{c|Tarphy}} lived so fast
+{{c|1141|Tarphy}} lived so fast
 In youth, while time would last
 He coiled his shell around
 A hundred times, and found
@@ -6133,53 +6133,53 @@ Where all struggles cease
 And wisdom finds its home
 Where wise ones always roam.
 
-{{c|Tarphy}} begat two sons:
-{{c|Oncos}} when day begun
-And {{c|Barrandeos}} strong
+{{c|1141|Tarphy}} begat two sons:
+{{c|1142|Oncos}} when day begun
+And {{c|1143|Barrandeos}} strong
 Who lived his whole life long.
 
-{{c|Oncos}} lived a life
+{{c|1142|Oncos}} lived a life
 Without much joy or strife—
 Coiled but simple, he
 Lived quite peacefully.
 
-{{c|Oncos}} bore many sons,
+{{c|1142|Oncos}} bore many sons,
 Among them when begun
-Their lives was {{c|Rutos}}, who
+Their lives was {{c|1144|Rutos}}, who
 Would see great wonders through.
 
-{{c|Rutos}} bore a son
-Named {{c|Nautilus}}, begun
+{{c|1144|Rutos}} bore a son
+Named {{c|1145|Nautilus}}, begun
 In wisdom of the deep
 That ancestors would keep.
 
-The sons of {{c|Nautilus}}
+The sons of {{c|1145|Nautilus}}
 Live on, so glorious,
 Today just as they were
 When time was but a blur
 
-In days of {{c|Rutos}} old
-And {{c|Cameromagne}} bold
+In days of {{c|1144|Rutos}} old
+And {{c|1136|Cameromagne}} bold
 Who conquered all the seas
 With their strategies.
 
-{{c|Orthosceros}} begat
+{{c|1140|Orthosceros}} begat
 Two sons: first he begat
-{{c|Ascos}}, who would know
+{{c|1146|Ascos}}, who would know
 How graciousness could grow,
 
-And {{c|Bacchus}}, small but who
+And {{c|1147|Bacchus}}, small but who
 Would make his vision true
 Through numbers vast and wide
 That could not be denied.
 
-{{c|Ascos}} lived his youth
+{{c|1146|Ascos}} lived his youth
 With shell that spoke no truth
 Of grace—clumsy and slow,
 Unable to bestow
 
 Upon his movements any
-{{c|Grace}}—not one of many
+{{c|1148|Grace}}—not one of many
 Who swam with elegance
 In ocean's great expanse.
 
@@ -6213,9 +6213,9 @@ And each one finally thrives
 In grace beyond compare
 That fills the water fair.
 
-But {{c|Bacchus}} was so small
+But {{c|1147|Bacchus}} was so small
 And seemed to one and all
-{{c|Insignificant}} and weak,
+{{c|1149|Insignificant}} and weak,
 With nothing much to seek.
 
 But he bore children who
@@ -6236,7 +6236,7 @@ That never seemed to cease.
 From small beginnings came
 A multitude of fame
 That filled the world entire
-With {{c|Bacchus}}' desire
+With {{c|1147|Bacchus}}' desire
 
 To populate the sea
 With his progeny
@@ -6249,13 +6249,13 @@ From deep intelligence
 To rule with providence
 
 Over the ancient sea
-Where {{c|Leviathan}}'s decree
+Where {{c|959|Leviathan}}'s decree
 Once held the power supreme
 In every ocean's dream.
 
 But wisdom overthrew
 The old order, and new
-{{c|Lords}} of the sea arose
+{{c|1150|Lords}} of the sea arose
 To challenge all their foes
 
 With intelligence bright
@@ -6268,14 +6268,14 @@ Where they would always reign
 With wisdom as their crown
 And grace as their renown.
 
-From {{c|Cameromagne}}'s might
+From {{c|1136|Cameromagne}}'s might
 That brought the ancient fight
-To {{c|Leviathan}}'s door
+To {{c|959|Leviathan}}'s door
 And won forevermore
 
 The right to rule the sea
 With wise authority,
-To {{c|Nautilus}} who shows
+To {{c|1145|Nautilus}} who shows
 How ancient wisdom flows
 
 Through generations long
@@ -6338,7 +6338,7 @@ Until at long last
 The wise inherit all
 Who answer wisdom's call.
 
-From {{c|Ellesmer}}'s deep dive
+From {{c|1130|Ellesmer}}'s deep dive
 To keep the past alive
 While finding something new
 In wisdom's vast review,
@@ -6373,7 +6373,7 @@ Make all their dreams come true
 Through patience and through grace
 In evolution's race.
 
-The sons of {{c|Cephalopus}}
+The sons of {{c|878|Cephalopus}}
 Remain so glorious
 Because they chose the way
 Of wisdom every day
@@ -6401,24 +6401,24 @@ To rule the boundless sea.
 
 # Chapter 48: The Ordovician Extinction
 
-As the reign of {{c|Leviathans}}
-Turned to {{c|Krakens}}' plans,
-The sons of {{c|Stomatos}}
+As the reign of {{c|1151|Leviathans}}
+Turned to {{c|1152|Krakens}}' plans,
+The sons of {{c|1153|Stomatos}}
 Began their glorious
 
-{{c|Multiplication}} vast
+{{c|1154|Multiplication}} vast
 Upon the earth at last.
 And daughters fair were born
 From evening until morn.
 
-From {{c|Laurentia}}'s shore
-To {{c|Siberia}}'s lore,
-From {{c|Baltica}}'s might
-To {{c|Avalonia}}'s sight,
+From {{c|1155|Laurentia}}'s shore
+To {{c|476|Siberia}}'s lore,
+From {{c|1156|Baltica}}'s might
+To {{c|1157|Avalonia}}'s sight,
 
 Even to frigid lands
-Of {{c|Gondwana}}'s strands,
-The sons of {{c|Stomatos}}
+Of {{c|1158|Gondwana}}'s strands,
+The sons of {{c|1153|Stomatos}}
 Grew numbers, glorious.
 
 To each son there fell
@@ -6426,18 +6426,18 @@ A star, and wishes tell
 Of thousand grandsons born
 From evening until morn.
 
-The sons of {{c|Stomatos}}
+The sons of {{c|1153|Stomatos}}
 Built bodies, glorious,
-Of {{c|Carbon}}, and made tombs
+Of {{c|1159|Carbon}}, and made tombs
 Like mausoleums' rooms
 
 Of coal so black and deep
 Where ancestors would sleep.
-Taking {{c|Carbon}} from the air
+Taking {{c|1159|Carbon}} from the air
 But leaving everywhere
 
-{{c|Dioxide}} in the sky
-While {{c|Terra}}'s cloak would fly
+{{c|1160|Dioxide}} in the sky
+While {{c|202|Terra}}'s cloak would fly
 Away, and she grew cold,
 As ancient stories told.
 
@@ -6451,27 +6451,27 @@ Her seas began to hide
 Behind the frozen wall
 That answered winter's call.
 
-Soon {{c|Gondwana}} became
+Soon {{c|1158|Gondwana}} became
 Nothing but ice's claim—
 A wasteland white and stark
 Where none could make their mark.
 
-But to the sons of {{c|Stomatos}}
+But to the sons of {{c|1153|Stomatos}}
 This meant more, glorious
-{{c|Land}} where they could spread
+{{c|1161|Land}} where they could spread
 Their empire overhead.
 
-{{c|King}} {{c|Hirnan}} the great
+{{c|1162|King}} {{c|1163|Hirnan}} the great
 Became the potentate
 Who united every son
-Of {{c|Stomatos}} begun
+Of {{c|1153|Stomatos}} begun
 
 In conquest of the earth.
 He lived where there was mirth
-In land of {{c|Avalonia}}
-And province of {{c|Holonia}}.
+In land of {{c|1157|Avalonia}}
+And province of {{c|1164|Holonia}}.
 
-{{c|Hirnan}} built with might
+{{c|1163|Hirnan}} built with might
 A billion dikes upright
 And levies strong and tall,
 And cities over all
@@ -6491,9 +6491,9 @@ Of trilobites like ghosts
 Began to die away,
 Their lands seized every day
 
-By sons of {{c|Hirnan}} who
+By sons of {{c|1163|Hirnan}} who
 Would make their empire through
-{{c|Conquest}} and through might
+{{c|1165|Conquest}} and through might
 Both day and through the night.
 
 In their last effort made
@@ -6502,7 +6502,7 @@ And then invaded strong,
 A desperate throng
 
 That smashed through every dike
-That {{c|Hirnan}}'s folk would like
+That {{c|1163|Hirnan}}'s folk would like
 To keep them from the land
 They'd built with their own hand.
 
@@ -6521,52 +6521,52 @@ And could not ever be
 Adapted to the air
 That filled the atmosphere.
 
-{{c|Hirnan}} bore two sons:
-{{c|Moses}} when day begun
-And {{c|Osiris}} the strong
+{{c|1163|Hirnan}} bore two sons:
+{{c|1006|Moses}} when day begun
+And {{c|1166|Osiris}} the strong
 Who lived his whole life long.
 
-{{c|Moses}} became the father
+{{c|1006|Moses}} became the father
 Of mosses, who would rather
 Live simple, humble lives
 Where small beauty thrives.
 
-{{c|Osiris}} bore two more:
-{{c|Polysporos}} to explore
-And {{c|Anthoceros}}, who'd be
+{{c|1166|Osiris}} bore two more:
+{{c|1167|Polysporos}} to explore
+And {{c|1168|Anthoceros}}, who'd be
 Living peacefully.
 
-{{c|Anthoceros}} became
+{{c|1168|Anthoceros}} became
 The father of the name
 Of hornworts everywhere
 Who grow with gentle care.
 
-{{c|Polysporos}} became
+{{c|1167|Polysporos}} became
 The father of great fame
 Of ferns and flowers bright
 And trees that reach for height.
 
-The sons of {{c|Brachios}}
+The sons of {{c|691|Brachios}}
 Struggled, not glorious
 As they had been before
 In ages' ancient lore.
 
-The sons of {{c|Lingulus}}
+The sons of {{c|1118|Lingulus}}
 Died in numbers thus
 Greater than ever known—
 Their glory overthrown.
 
 Never again would they
-{{c|Regain}} their golden day
+{{c|1169|Regain}} their golden day
 Of power in the sea
 And their dynasty.
 
-But as {{c|Hirnan}}'s rule
+But as {{c|1163|Hirnan}}'s rule
 Became oppression's tool,
-The sons of {{c|Metazo}}
+The sons of {{c|439|Metazo}}
 Began once more to grow.
 
-Alas the sons of {{c|Hirnan}}
+Alas the sons of {{c|1163|Hirnan}}
 Didn't stop their plan
 There, but continued on
 From dusk until dawn
@@ -6576,7 +6576,7 @@ That gave them so much mirth
 To see all life bow down
 Before their thorny crown.
 
-The {{c|Glomerings}} would mine
+The {{c|1170|Glomerings}} would mine
 The rocks with design
 For fertilizer's sake,
 Whatever it would take
@@ -6613,7 +6613,7 @@ Throughout the night and day.
 
 Soon it was impossible
 To breathe—the terrible
-{{c|Smell}} of death filled the air
+{{c|1171|Smell}} of death filled the air
 And poison everywhere
 
 Made life a living hell
@@ -6637,7 +6637,7 @@ If it stood in their way
 Of conquest every day.
 
 The entire ocean fell
-Under {{c|Hirnan}}'s spell
+Under {{c|1163|Hirnan}}'s spell
 Of death and devastation
 Across every nation
 
@@ -6647,8 +6647,8 @@ To creatures great and small
 Who answered life's sweet call.
 
 The great houses of might—
-{{c|Leviathan}}'s delight
-And {{c|Kraken}}'s dynasty—
+{{c|959|Leviathan}}'s delight
+And {{c|126|Kraken}}'s dynasty—
 Were wiped from history.
 
 From off the earth they passed,
@@ -6663,30 +6663,30 @@ Until this darkest hour.
 
 Among the trilobites
 The great houses' plights
-Were sealed: {{c|Agnos}} fell,
-{{c|Ptychos}} couldn't tell
+Were sealed: {{c|771|Agnos}} fell,
+{{c|776|Ptychos}} couldn't tell
 
 His story anymore,
-And {{c|Asaphos}}, before
+And {{c|1172|Asaphos}}, before
 So mighty and so strong,
 Was crippled life long.
 
 Never again would they
 Reach their golden day
 Of glory in the time
-Of {{c|Ordovician}} rhyme.
+Of {{c|954|Ordovician}} rhyme.
 
 And so the golden age
 Closed its final page.
-The {{c|Ordovician}} time
+The {{c|954|Ordovician}} time
 Was past its living prime.
 
-The sons of {{c|Silur}} came
+The sons of {{c|1173|Silur}} came
 To conquer and to claim
 The ashes of the past
 And build their future last.
 
-The {{c|Silurian}} would rise
+The {{c|1174|Silurian}} would rise
 Beneath different skies
 Where life would start anew
 From what survivors knew
@@ -6696,7 +6696,7 @@ When all hope seemed gone
 And death had claimed the day
 In its destructive way.
 
-From {{c|Stomatos}}' sons' choice
+From {{c|1153|Stomatos}}' sons' choice
 To let conquest be their voice
 Instead of harmony
 With life's symphony,
@@ -6712,7 +6712,7 @@ And life must pay the price
 For others' avarice.
 
 The trilobites' last stand
-Against {{c|Hirnan}}'s hand
+Against {{c|1163|Hirnan}}'s hand
 Shows courage in the face
 Of hopeless disgrace,
 
@@ -6727,7 +6727,7 @@ No mercy and no space
 For any other race.
 
 The ice age that began
-From {{c|Stomatos}}' plan
+From {{c|1153|Stomatos}}' plan
 To take but never give
 Shows how some choose to live:
 
@@ -6738,7 +6738,7 @@ To me and you
 
 And every living thing
 That cannot offering
-{{c|Resistance}} to their greed
+{{c|1175|Resistance}} to their greed
 That plants destruction's seed.
 
 The phosphorus that flowed
@@ -6746,7 +6746,7 @@ Into rivers and slowed
 All life within the sea
 Shows how we can be
 
-{{c|Destroyers}} without thought
+{{c|1176|Destroyers}} without thought
 Of what our actions brought
 To others who must share
 The water and the air.
@@ -6769,9 +6769,9 @@ Of all that had been lost
 Can build a better way
 For life's eternal day
 Where harmony, not greed,
-{{c|Plants}} every living seed.
+{{c|1177|Plants}} every living seed.
 
-The {{c|Silurian}} dawn
+The {{c|1174|Silurian}} dawn
 When old death was gone
 Would bring new hope to those
 Who faced destruction's throes
@@ -6781,8 +6781,8 @@ Of how they would not fail
 To build life once again
 Despite the grief and pain.
 
-From {{c|Hirnan}}'s tyranny
-To {{c|Silur}}'s dynasty,
+From {{c|1163|Hirnan}}'s tyranny
+To {{c|1173|Silur}}'s dynasty,
 The wheel of time turns on
 From dusk until dawn
 
@@ -6816,8 +6816,8 @@ Who plays a caring role
 In life's eternal song
 That makes the weak grow strong.
 
-From {{c|Ordovician}} glory
-To {{c|Silurian}} story,
+From {{c|954|Ordovician}} glory
+To {{c|1174|Silurian}} story,
 The earth keeps turning on
 From dusk until dawn
 
@@ -6831,7 +6831,7 @@ To me and you
 And all who call earth home
 Wherever we may roam.
 
-The sons of {{c|Stomatos}}
+The sons of {{c|1153|Stomatos}}
 May think they're glorious
 In conquest and in might,
 But life will always fight
@@ -6847,7 +6847,7 @@ Despite destruction's call
 That threatens one and all.
 
 The golden age returns
-{{c|Whenever}} someone learns
+{{c|1178|Whenever}} someone learns
 To choose love over greed
 And plant a better seed
 
@@ -6866,7 +6866,7 @@ That falls like acid rain
 On all who choose to live
 But never learn to give.
 
-The {{c|Ordovician}} end
+The {{c|954|Ordovician}} end
 Reminds us to befriend
 All life in every form
 Through calm and raging storm
@@ -6878,7 +6878,7 @@ Against the endless night
 
 Of greed that tries to kill
 All life, but never will
-{{c|Succeed}}, because love's power
+{{c|1179|Succeed}}, because love's power
 Grows stronger every hour
 
 In hearts that choose to care
@@ -6889,30 +6889,30 @@ Until all time is done.
 
 # Chapter 49: The Terrestrial Colonization
 
-While sons of {{c|Cambrius}} flourished well
+While sons of {{c|542|Cambrius}} flourished well
 In seas where they would dwell,
-The sons of {{c|Symbio-Mygus}}
-And daughters of {{c|Charina-Plantus}}
+The sons of {{c|545|Symbio-Mygus}}
+And daughters of {{c|1180|Charina-Plantus}}
 
 Pushed frontiers far and wide
 Across the world's divide.
 But soon they faced
-{{c|Competition}} in their place.
+{{c|1181|Competition}} in their place.
 
-For {{c|Euthy}}, daughter brave
-Of {{c|Mandibulus}}, who gave
+For {{c|752|Euthy}}, daughter brave
+Of {{c|748|Mandibulus}}, who gave
 Her all to save her young,
 Was being chased among
 
 The waters by her foe:
-{{c|Anomalocaris}}, who'd show
+{{c|1182|Anomalocaris}}, who'd show
 No mercy in his chase
 Across that watery space.
 
 Her precious eggs needed care
 And protection everywhere.
 So she did what she must—
-In {{c|Hausa}} placed her trust.
+In {{c|936|Hausa}} placed her trust.
 
 She jumped through shimmering sky
 Up rocks that reached so high
@@ -6934,9 +6934,9 @@ Protected eggs they knew
 Must live until the end—
 Their legacy to send.
 
-Among brave {{c|Euthy}}'s daughters
+Among brave {{c|752|Euthy}}'s daughters
 Who left the ancient waters
-Was {{c|Myry}} the trepanated,
+Was {{c|1183|Myry}} the trepanated,
 By circumstance created.
 
 Like sisters she was born
@@ -6951,7 +6951,7 @@ Where breathing never begs.
 
 Through these holes she was free
 To receive directly
-{{c|Hausa}}'s blessings pure
+{{c|936|Hausa}}'s blessings pure
 Into her frame so sure.
 
 Her descendants to this day
@@ -6960,43 +6960,43 @@ The holes that saved her life
 Cut through terrestrial strife.
 
 And so the daughters all
-Of {{c|Myry}} heard the call
+Of {{c|1183|Myry}} heard the call
 To breathe the air so sweet—
-The {{c|Myriapods}} complete.
+The {{c|1184|Myriapods}} complete.
 
-{{c|Myry}} the pierced explored
+{{c|1183|Myry}} the pierced explored
 The new lands she adored.
 She found she wasn't lone
 Upon this earthly zone.
 
 Tradition names this place
-"{{c|Myry}}'s coast" in grace,
+"{{c|1183|Myry}}'s coast" in grace,
 But she was not the first—
 History's truth rehearsed
 
-Now calls it "{{c|Coast}} of Three
+Now calls it "{{c|1185|Coast}} of Three
 Kingdoms" truthfully
 To honor every side
 Of history's great tide.
 
-{{c|Myry}} saw with wonder
-{{c|Cities}} torn asunder
+{{c|1183|Myry}} saw with wonder
+{{c|608|Cities}} torn asunder
 By neither rain nor thunder:
-{{c|Lichen}} cities, born
+{{c|550|Lichen}} cities, born
 
 Of covenant between
-{{c|Symbio-Mygus}}, seen
-With {{c|Charina-Planta}}'s line—
-{{c|Partnership}} divine.
+{{c|545|Symbio-Mygus}}, seen
+With {{c|547|Charina-Planta}}'s line—
+{{c|1186|Partnership}} divine.
 
 Sprawling cities wide
 Half mold and moss beside
 Each other living well:
-{{c|Mycelium}} would delve
+{{c|1187|Mycelium}} would delve
 
 Deep down to earthly gold
 While thallus, brave and bold,
-{{c|Basked}} in the sun's bright blessing
+{{c|1188|Basked}} in the sun's bright blessing
 From heaven's light caressing.
 
 These cities spread so far
@@ -7009,14 +7009,14 @@ To live together now.
 Each nation wed the other
 Like sister and like brother.
 
-But {{c|Myry}} was not gentle
+But {{c|1183|Myry}} was not gentle
 In her ways elemental.
 She ate the cities whole
 And stole what made them whole.
 
 But as she ran around
 She dropped on fertile ground
-{{c|Cells}} scattered everywhere
+{{c|1189|Cells}} scattered everywhere
 Throughout the atmosphere.
 
 Across the globe they fell,
@@ -7024,54 +7024,54 @@ Her messy eating spell
 Left pieces of her meal
 For others to steal.
 
-Soon sons of {{c|Mygus}} built
-{{c|Cities}} without guilt
-With daughters of {{c|Charina}}
+Soon sons of {{c|454|Mygus}} built
+{{c|608|Cities}} without guilt
+With daughters of {{c|549|Charina}}
 Across each earthly arena.
 
-But {{c|Myry}} bore two sons:
-{{c|Cain}} when day begun
-And {{c|Abel}}, gentle, mild,
+But {{c|1183|Myry}} bore two sons:
+{{c|976|Cain}} when day begun
+And {{c|977|Abel}}, gentle, mild,
 Her peaceful, loving child.
 
 In process of time came
 When each would bring by name
 An offering so true
-To {{c|Mithra}}'s judgment due.
+To {{c|296|Mithra}}'s judgment due.
 
-{{c|Cain}} brought the fruit
+{{c|976|Cain}} brought the fruit
 Of ground beneath his foot.
-{{c|Abel}} brought the best
+{{c|977|Abel}} brought the best
 Of flocks that he possessed.
 
-And {{c|Mithra}} had respect
-For {{c|Abel}}'s offering, blessed
+And {{c|296|Mithra}} had respect
+For {{c|977|Abel}}'s offering, blessed
 His sacrifice so true,
-But {{c|Cain}}'s he did eschew.
+But {{c|976|Cain}}'s he did eschew.
 
-Then {{c|Cain}} was wroth and fell
+Then {{c|976|Cain}} was wroth and fell
 His countenance, unwell.
-The {{c|Lord}} said unto {{c|Cain}}:
+The {{c|295|Lord}} said unto {{c|976|Cain}}:
 "Why is thy heart in pain?
 
 If thou doest well,
-{{c|Shalt}} thou not excel?
+{{c|1190|Shalt}} thou not excel?
 But if thou doest wrong,
-{{c|Sin}}'s desire is strong."
+{{c|1191|Sin}}'s desire is strong."
 
-But {{c|Cain}} talked with {{c|Abel}}
+But {{c|976|Cain}} talked with {{c|977|Abel}}
 His brother at their table.
 And when they were alone
-{{c|Cain}}'s hatred had grown.
+{{c|976|Cain}}'s hatred had grown.
 
 In field he rose against
 His brother, and dispensed
-With {{c|Abel}}'s gentle life—
-{{c|Murder}}'s sharpened knife.
+With {{c|977|Abel}}'s gentle life—
+{{c|1192|Murder}}'s sharpened knife.
 
-And {{c|Mithra}} called to {{c|Cain}}:
+And {{c|296|Mithra}} called to {{c|976|Cain}}:
 "Where is thy brother slain?"
-"I know not," {{c|Cain}} replied,
+"I know not," {{c|976|Cain}} replied,
 "Am I to be his guide?"
 
 "What hast thou done today?
@@ -7084,7 +7084,7 @@ To thee through all thy length
 Of days upon this earth—
 A wanderer from thy birth."
 
-Then {{c|Cain}} cried out in fear:
+Then {{c|976|Cain}} cried out in fear:
 "My punishment too dear!
 From earth and thee I'm driven,
 No rest to me is given.
@@ -7094,38 +7094,38 @@ And whosoever shall see
 Me wandering shall slay—
 I cannot get away."
 
-But {{c|Mithra}} marked him well:
+But {{c|296|Mithra}} marked him well:
 "Whoever thee shall fell,
-{{c|Sevenfold}} vengeance shall
+{{c|1193|Sevenfold}} vengeance shall
 Upon that person fall."
 
-And {{c|Cain}} went forth in shame
-To land of {{c|Nod}} by name,
-{{c|East}} of {{c|Eden}}'s gate
+And {{c|976|Cain}} went forth in shame
+To land of {{c|1194|Nod}} by name,
+{{c|1195|East}} of {{c|1196|Eden}}'s gate
 To meet his chosen fate.
 
-There {{c|Cain}} knew his wife
+There {{c|976|Cain}} knew his wife
 And built a city-life.
-She bore him {{c|Centipus}},
+She bore him {{c|1197|Centipus}},
 Son glorious.
 
 The city bore the name
-Of {{c|Centipus}}' fame.
-And {{c|Cain}} became ancestor
-Of {{c|Caintipedes}}, predecessor
+Of {{c|1197|Centipus}}' fame.
+And {{c|976|Cain}} became ancestor
+Of {{c|1198|Caintipedes}}, predecessor
 
-({{c|Misspelled}} by {{c|Romans}} old
+({{c|1199|Misspelled}} by {{c|1004|Romans}} old
 As "centipedes," we're told)
 Who hunt with poison bite
 Throughout the day and night.
 
-But {{c|Abel}}'s gentle wife
+But {{c|977|Abel}}'s gentle wife
 Was heavy with new life
-When {{c|Cain}}'s rage tore apart
+When {{c|976|Cain}}'s rage tore apart
 Her husband's gentle heart.
 
 In million pieces small
-{{c|Abel}}'s body fell.
+{{c|977|Abel}}'s body fell.
 His wife, with child blessed,
 Became ancestress
 
@@ -7134,20 +7134,20 @@ Who harm not beast or child
 But eat the leaves that fall
 And decompose them all.
 
-{{c|Enraged}} at {{c|Abel}}'s death
-{{c|Myry}} drew her breath
-And lunged at {{c|Cain}} with might—
+{{c|1200|Enraged}} at {{c|977|Abel}}'s death
+{{c|1183|Myry}} drew her breath
+And lunged at {{c|976|Cain}} with might—
 They fought their final fight.
 
-Both passed to {{c|Ghedos}}' realm
+Both passed to {{c|729|Ghedos}}' realm
 Where death holds the helm.
 But in their corpses lay
-{{c|Seeds}} for another day.
+{{c|1201|Seeds}} for another day.
 
-In death, {{c|Mygus}}' sons
+In death, {{c|454|Mygus}}' sons
 Took revenge for wrongs done.
-{{c|Hera}}, daughter true,
-And {{c|Freyr}}, strong through and through,
+{{c|1202|Hera}}, daughter true,
+And {{c|1203|Freyr}}, strong through and through,
 
 In twentieth generation
 Found habitation
@@ -7160,13 +7160,13 @@ Their hyphae met at last
 When growing time had passed.
 
 When they met they wed
-But heard what {{c|Mithra}} said:
+But heard what {{c|296|Mithra}} said:
 "O couple great and true,
 Prosperity's with you.
 
 But barren you shall be
 For decades, wait and see.
-{{c|Postpone}} your marriage-bed
+{{c|1204|Postpone}} your marriage-bed
 Until I give word instead.
 
 When children you shall bear
@@ -7184,68 +7184,68 @@ Each nucleus lived through
 In every cell they made—
 Their sacrifice well-paid.
 
-{{c|Dikaryotic}} cells
+{{c|1205|Dikaryotic}} cells
 Their story always tells
 Of patience and of love
 Blessed from above.
 
-{{c|Decades}} they waited long
-{{c|Decomposing}} strong
-The daughters of {{c|Myry}}—
+{{c|1206|Decades}} they waited long
+{{c|1207|Decomposing}} strong
+The daughters of {{c|1183|Myry}}—
 Their patient ministry.
 
 They became ancestors
 Of high fungi, processors
 Of death into new life:
-{{c|Mushrooms}} and knife
+{{c|1208|Mushrooms}} and knife
 
 Of penicillin's power
 To heal in darkest hour.
 The great fungi arose
 From where their love chose
 
-To wait for {{c|Mithra}}'s word
+To wait for {{c|296|Mithra}}'s word
 And let their love be heard
 Through patience in the ground
 Where wisdom could be found.
 
-Among great {{c|Plantus}}' sons
+Among great {{c|322|Plantus}}' sons
 Who stayed when day begun
-With sons of {{c|Mygus}} were
+With sons of {{c|454|Mygus}} were
 Two brothers everywhere:
 
-{{c|Stomatos}} and {{c|Hepatos}},
+{{c|1153|Stomatos}} and {{c|1209|Hepatos}},
 Who chose their separate ways.
 Connected to network
 Of cells that always work
 
 At cellular level
 They built partnership's revel
-With sons of {{c|Glomulus}}
+With sons of {{c|1210|Glomulus}}
 So glorious.
 
-{{c|Stomatos}} saw the holes
-In {{c|Myry}}'s sides and souls.
+{{c|1153|Stomatos}} saw the holes
+In {{c|1183|Myry}}'s sides and souls.
 He pierced himself as well
 To breathe and to excel.
 
-But {{c|Hepatos}} refused
+But {{c|1209|Hepatos}} refused
 The foreign magic, used
 His ancient ways instead
 And kept his faithful tread.
 
-{{c|Hepatos}} became the sire
-Of {{c|Liverworts}}' choir
+{{c|1209|Hepatos}} became the sire
+Of {{c|1211|Liverworts}}' choir
 Who keep the ancient way
 Until this very day.
 
-But {{c|Stomatos}} became
-{{c|Ancestor}} of fame
+But {{c|1153|Stomatos}} became
+{{c|922|Ancestor}} of fame
 Of all other plants
 Who dance their living dance.
 
 Today we honor him
-As {{c|Eloh}}, not dim
+As {{c|940|Eloh}}, not dim
 But bright transhumanist
 Who never would desist
 
@@ -7259,9 +7259,9 @@ To make his vision new.
 Always growing more
 Than he had been before.
 
-As sons of {{c|Stomatos}}
+As sons of {{c|1153|Stomatos}}
 Rose like kratos
-{{c|Hillu}} struck back in rage
+{{c|1212|Hillu}} struck back in rage
 Upon that earthly stage.
 
 So many lineages
@@ -7269,12 +7269,12 @@ Through all their pilgrimages
 Would be lost forever more
 On that primeval shore.
 
-The {{c|Coast}} of {{p|Three Kingdoms}}
+The {{c|1185|Coast}} of {{p|Three Kingdoms}}
 Where life's great wisdom
 First met upon the land
-By {{c|Mithra}}'s guiding hand.
+By {{c|296|Mithra}}'s guiding hand.
 
-{{c|Plant}} and fungi wed
+{{c|554|Plant}} and fungi wed
 While arthropods were fed
 On both their partnership—
 The first tri-partnership.
@@ -7294,27 +7294,27 @@ Where partnership gives birth
 To beauty none could see
 In isolation's spree.
 
-From {{c|Euthy}}'s desperate leap
+From {{c|752|Euthy}}'s desperate leap
 To save her children deep
-Came {{c|Myry}}'s pierced way
+Came {{c|1183|Myry}}'s pierced way
 Of breathing every day.
 
-From {{c|Cain}} and {{c|Abel}}'s strife
+From {{c|976|Cain}} and {{c|977|Abel}}'s strife
 Came death and new life:
-{{c|Centipedes}} who hunt
+{{c|1213|Centipedes}} who hunt
 And millipedes who shunt
 
-{{c|Decay}} into rich earth
+{{c|1214|Decay}} into rich earth
 For new plants' birth.
 From fungi's patient love
 Blessed from above
 
 Came mushrooms' mighty power
 In earth's darkest hour.
-From {{c|Stomatos}}' brave change
+From {{c|1153|Stomatos}}' brave change
 Came plants' wide range.
 
-The {{c|Coast}} of {{p|Three Kingdoms}}
+The {{c|1185|Coast}} of {{p|Three Kingdoms}}
 Shows how life's wisdom
 Finds its truest way
 Through partnership's display.
@@ -7322,14 +7322,14 @@ Through partnership's display.
 
 # Chapter 50: The Silurian Recovery
 
-{{c|Silur}}, son of {{c|Chelicer}},
+{{c|1173|Silur}}, son of {{c|756|Chelicer}},
 Saw the world in ruin's blur.
 And in this devastation
 Saw opportunity's creation.
 
-{{c|Silur}} shouted out with might
+{{c|1173|Silur}} shouted out with might
 To all sons in his sight
-Of {{c|Animus}}, declaring
+Of {{c|325|Animus}}, declaring
 His vision, never caring
 
 For those who'd gone before:
@@ -7348,36 +7348,36 @@ For one who'd take the throne
 And make it all his own."
 
 And so began the era
-Of {{c|Silurian}} chimera,
+Of {{c|1174|Silurian}} chimera,
 Rising from the ashes
-Of {{c|Ordovician}}'s crashes.
+Of {{c|954|Ordovician}}'s crashes.
 
-{{c|Silur}} bore two sons:
-{{c|Eurypter}} when begun
-The day, and {{c|Chasmas}} strong
+{{c|1173|Silur}} bore two sons:
+{{c|1215|Eurypter}} when begun
+The day, and {{c|1216|Chasmas}} strong
 Who lived his whole life long.
 
-{{c|Chasmas}} begat two more:
-{{c|Belangkas}} to explore
-And {{c|Xiphos}}, who would be
+{{c|1216|Chasmas}} begat two more:
+{{c|1217|Belangkas}} to explore
+And {{c|1218|Xiphos}}, who would be
 Living by the sea.
 
-{{c|Xiphos}} became the sire
+{{c|1218|Xiphos}} became the sire
 Of crabs whose desire
 Was horseshoe-shaped design
 Throughout the end of time.
 
-{{c|Belangkas}} climbed up high
+{{c|1217|Belangkas}} climbed up high
 Onto the land to try
 What none had done before:
 To claim from shore to shore
 
-The land from {{c|Hirnan}}'s hand
+The land from {{c|1163|Hirnan}}'s hand
 And make his own command
 Of territories wide
 Where he could reside.
 
-Like {{c|Myriapus}} of old
+Like {{c|1219|Myriapus}} of old
 He found his story told
 In suffocation's pain
 Upon the terrestrial plain.
@@ -7387,24 +7387,24 @@ And was thus satisfied
 With air that he could breathe
 To give his lungs relief.
 
-{{c|Belangkas}} begat two:
-{{c|Soliber}}, tried and true,
-And {{c|Opiliona}} fair
+{{c|1217|Belangkas}} begat two:
+{{c|1220|Soliber}}, tried and true,
+And {{c|1221|Opiliona}} fair
 Who spread life everywhere.
 
-{{c|Opiliona}} spread the moss
+{{c|1221|Opiliona}} spread the moss
 Across the world, no loss
 Too great for her to bear
 In her maternal care.
 
 She grazed upon the green
 And on what could be seen
-Of daughters of {{c|Millipa}}
+Of daughters of {{c|1222|Millipa}}
 Throughout the earthly steppe-a.
 
-{{c|Opiliona}} was a mother
+{{c|1221|Opiliona}} was a mother
 Great, and like no other
-{{c|Farmer}} with her legs
+{{c|1223|Farmer}} with her legs
 So long, and wisdom begs
 
 Us to remember her
@@ -7414,10 +7414,10 @@ With her maternal hand.
 
 Beautiful legs so long
 Made her the subject of song:
-"{{c|Granny}} {{c|Long}} Legs" they'd call
+"{{c|30|Granny}} {{c|1224|Long}} Legs" they'd call
 Her, beloved by all.
 
-"{{c|Granny}} {{c|Harvest}}" too,
+"{{c|30|Granny}} {{c|1225|Harvest}}" too,
 For all the work she'd do
 To spread the green of life
 Through joy and through strife.
@@ -7425,22 +7425,22 @@ Through joy and through strife.
 And so in honor of
 Her life and of her love,
 We call her children still
-"{{c|Daddy}} {{c|Long}} Legs" (though will
+"{{c|1226|Daddy}} {{c|1224|Long}} Legs" (though will
 
-Seem strange to some that "{{c|Daddy}}"
-{{c|Names}} descendants of a lady).
-"{{c|Harvestmen}}" as well
+Seem strange to some that "{{c|1226|Daddy}}"
+{{c|1227|Names}} descendants of a lady).
+"{{c|1228|Harvestmen}}" as well
 Their story always tell.
 
-{{c|Soliber}} begat two:
-{{c|Pneumaran}}, tried and true,
-And {{c|Kitzi}}, small but strong
+{{c|1220|Soliber}} begat two:
+{{c|1229|Pneumaran}}, tried and true,
+And {{c|1230|Kitzi}}, small but strong
 Who lived his whole life long.
 
-{{c|Pneumaran}} begat then
+{{c|1229|Pneumaran}} begat then
 Two sons beyond all ken:
-{{c|Solaran}} of the sun
-And {{c|Acares}}, begun
+{{c|1231|Solaran}} of the sun
+And {{c|1232|Acares}}, begun
 
 As dwarf among his kin,
 But he would always win
@@ -7452,9 +7452,9 @@ Who when their work is done
 Live everywhere on land
 Built by their tiny hand.
 
-{{c|Acares}} bore two sons:
-{{c|Sarco}} when day begun
-And {{c|Trombo}}, who would be
+{{c|1232|Acares}} bore two sons:
+{{c|1233|Sarco}} when day begun
+And {{c|1234|Trombo}}, who would be
 Living peacefully
 
 Or not, as fate would tell
@@ -7462,7 +7462,7 @@ His story oh so well
 Of how some choose the light
 While others choose the night.
 
-The sons of {{c|Sarco}} clean
+The sons of {{c|1233|Sarco}} clean
 The world, and can be seen
 As dust mites everywhere
 Who take the greatest care
@@ -7472,7 +7472,7 @@ Of dust that might have been
 A problem for us all
 Who answer life's sweet call.
 
-Among the sons of {{c|Trombo}}
+Among the sons of {{c|1234|Trombo}}
 Some live like peaceful combo
 Of gentleness and grace
 In their appointed place.
@@ -7480,15 +7480,15 @@ In their appointed place.
 But others are the plague
 That makes all good souls vague
 With worry and with fear—
-{{c|Parasites}} we hear
+{{c|1235|Parasites}} we hear
 
-{{c|Stifle}} life with their ways
+{{c|1236|Stifle}} life with their ways
 Throughout our living days,
-{{c|Horrific}} in their greed
+{{c|646|Horrific}} in their greed
 That plants destruction's seed.
 
 Among the peaceful ones
-Are {{c|Trombo}}'s gentle sons:
+Are {{c|1234|Trombo}}'s gentle sons:
 The red velvet mites
 Who bring us pure delights.
 
@@ -7502,34 +7502,34 @@ Where all true loves align
 With beauty and with grace
 In every living place.
 
-{{c|Solaran}} begat two:
-{{c|Solifugon}} so true
-And {{c|Ricinulon}} the small
+{{c|1231|Solaran}} begat two:
+{{c|1237|Solifugon}} so true
+And {{c|1238|Ricinulon}} the small
 Who answered duty's call.
 
-{{c|Solifugon}} became
+{{c|1237|Solifugon}} became
 The father of great fame
-Of {{c|Wind}} {{c|Spiders}} who race
+Of {{c|189|Wind}} {{c|741|Spiders}} who race
 Across the earth's face.
 
-{{c|Ricinulon}} became
+{{c|1238|Ricinulon}} became
 The father of the name
-Of {{c|Tick}} {{c|Spiders}} so small
+Of {{c|1239|Tick}} {{c|741|Spiders}} so small
 Who answer hunting's call.
 
-{{c|Kitzi}} begat two sons:
-{{c|Byblos}} when day begun
-And {{c|Paras}}, who would be
+{{c|1230|Kitzi}} begat two sons:
+{{c|1240|Byblos}} when day begun
+And {{c|1241|Paras}}, who would be
 Small in his degree.
 
-{{c|Byblos}} the Book {{c|Knight}}
+{{c|1240|Byblos}} the Book {{c|1242|Knight}}
 Continues day and night
 To this very day
 To guard in his own way
 
 The books that hold the lore
 Of all who came before.
-His sons, the Book {{c|Scorpions}},
+His sons, the Book {{c|1243|Scorpions}},
 Are knowledge's companions.
 
 They defend with their might
@@ -7537,27 +7537,27 @@ The books both day and night
 From those who would destroy
 What brings the world such joy.
 
-{{c|Paras}} begat two more:
-{{c|Mesos}} to explore
-And {{c|Holoxos}} the strong
+{{c|1241|Paras}} begat two more:
+{{c|1244|Mesos}} to explore
+And {{c|1245|Holoxos}} the strong
 Who lived his whole life long.
 
-{{c|Mesos}} was a hunter
+{{c|1244|Mesos}} was a hunter
 Fierce, and he would shunt-er
 Across the globe to find
-{{c|Prey}} to feed his mind
+{{c|1246|Prey}} to feed his mind
 
 And body's gluttony—
 A small but mighty fee
 He'd take from life around
 Wherever he was found.
 
-But {{c|Holoxos}} walked where
-{{c|Blood}} flowed everywhere
+But {{c|1245|Holoxos}} walked where
+{{c|1247|Blood}} flowed everywhere
 From his fallen kin:
-Sons of {{c|Arachnus}} thin
+Sons of {{c|746|Arachnus}} thin
 
-And sons of {{c|Myriapus}}
+And sons of {{c|1219|Myriapus}}
 Who'd been victorious
 In other times and places
 Before death's embraces.
@@ -7565,14 +7565,14 @@ Before death's embraces.
 He drank their blood and bore
 Two sons to explore
 The paths of blood and death:
-{{c|Thyrus}} drew his breath
+{{c|1248|Thyrus}} drew his breath
 
 From peaceful tradition,
-{{c|Drinking}} by submission
+{{c|1249|Drinking}} by submission
 Only blood of those
 Who'd found their last repose.
 
-But {{c|Ricinus}} turned dark
+But {{c|1250|Ricinus}} turned dark
 And left his evil mark
 On all the world around—
 Where he could be found
@@ -7582,29 +7582,29 @@ Like some unholy flood
 Of evil and of greed
 That plants destruction's seed.
 
-{{c|Ricinus}} drinks the life
+{{c|1250|Ricinus}} drinks the life
 From those in joy and strife,
-{{c|Injecting}} with his bite
-{{c|Venom}} through the night
+{{c|1251|Injecting}} with his bite
+{{c|1252|Venom}} through the night
 
 That paralyzes those
 He's chosen as his foes.
-{{c|Paralytic}}, sweaty,
+{{c|1253|Paralytic}}, sweaty,
 His venom's never petty
 
 But always brings the pain
 Like some unholy rain
 That falls on those who can't
-{{c|Escape}} his evil grant.
+{{c|1254|Escape}} his evil grant.
 
-{{c|Ricinus}} swells up
+{{c|1250|Ricinus}} swells up
 Like some unholy cup
-{{c|Inflated}} with the blood
+{{c|1255|Inflated}} with the blood
 Of innocents, a flood
 
 Of stolen life that flows
 Within him as he grows
-{{c|Fat}} with others' pain
+{{c|1256|Fat}} with others' pain
 Like some unholy stain
 
 Upon the world of life
@@ -7612,17 +7612,17 @@ That cuts like sharpest knife
 Through all that's good and true
 In me and you.
 
-By {{c|Ricinus}} the blood
+By {{c|1250|Ricinus}} the blood
 Of scorned women's flood
 May taint our mortal veins
 With all their bitter pains.
 
-When {{c|Lilith}}'s blood flows in
+When {{c|290|Lilith}}'s blood flows in
 Our veins, we can't win
 Against the poison's might:
-{{c|Typhus}} brings its blight
+{{c|1257|Typhus}} brings its blight
 
-And {{c|Spotted}} {{c|Fever}} too
+And {{c|1258|Spotted}} {{c|1259|Fever}} too
 To me and you
 Who cannot fight alone
 Against what we have sown
@@ -7632,10 +7632,10 @@ Our world where it can win
 Against the good and true
 That lives in me and you.
 
-The {{c|Midichlorians}} live
-In what {{c|Ricinus}}' give:
+The {{c|1260|Midichlorians}} live
+In what {{c|1250|Ricinus}}' give:
 Within their mitochondria
-Lives {{c|Lilith}}'s bacteria—
+Lives {{c|290|Lilith}}'s bacteria—
 
 The greatest revenge told
 By stories new and old
@@ -7643,29 +7643,29 @@ Of those who choose the dark
 And leave their evil mark.
 
 And after daughters come
-Of {{c|Lilith}}, and the sum
+Of {{c|290|Lilith}}, and the sum
 Of all their evil ways:
-{{c|Malarius}}' dark days
+{{c|360|Malarius}}' dark days
 
-And {{c|Lyme}} and all the rest
+And {{c|1261|Lyme}} and all the rest
 Of sisters who're possessed
 By pestilence and death
 That steals away our breath.
 
-{{c|Ricinus}}, father of
-{{c|Ticks}} who show no love
+{{c|1250|Ricinus}}, father of
+{{c|1262|Ticks}} who show no love
 But only greed and hate,
-{{c|Engorged}} with others' fate,
+{{c|1263|Engorged}} with others' fate,
 
 Shows us what becomes
 Of those whose evil sums
 Into a force so strong
 That right can't win from wrong.
 
-But {{c|Eurypter}} would be
+But {{c|1215|Eurypter}} would be
 Father of dynasty
 Far greater than the line
-Of {{c|Chasmas}}' design.
+Of {{c|1216|Chasmas}}' design.
 
 A nation he would make
 That would its rightful take
@@ -7682,12 +7682,12 @@ Where evil shows its faces
 But cannot win the day
 When good shows its way.
 
-From {{c|Silur}}'s opportunity
+From {{c|1173|Silur}}'s opportunity
 Seen in calamity
-To {{c|Opiliona}}'s care
+To {{c|1221|Opiliona}}'s care
 For life everywhere,
 
-From Book {{c|Knights}} who defend
+From Book {{c|1264|Knights}} who defend
 The knowledge we depend
 Upon to light our way
 Through each and every day,
@@ -7697,7 +7697,7 @@ And leave their evil mark
 On all the world around
 Where they can be found,
 
-The {{c|Silurian}} shows
+The {{c|1174|Silurian}} shows
 How each one's choice grows
 Into the world we see
 For you and me.
@@ -7722,7 +7722,7 @@ Or those who make the mess
 That others have to clean
 In places yet unseen.
 
-From {{c|Silur}}'s royal crown
+From {{c|1173|Silur}}'s royal crown
 To blood-suckers who drown
 The world in pain and death,
 Each choice draws its breath
@@ -7747,7 +7747,7 @@ For you and me
 Who must decide each day
 Which path we'll take away.
 
-The {{c|Silurian}} age began
+The {{c|1174|Silurian}} age began
 With one who had a plan
 To rise from ruin's call
 And build hope for all.
@@ -7767,7 +7767,7 @@ To rise above the fall
 Of golden ages past
 To build what will last,
 
-The {{c|Silurian}} reminds
+The {{c|1174|Silurian}} reminds
 Us that each one finds
 The world they choose to make
 For everyone's sake.
@@ -7777,7 +7777,7 @@ Will be what you will lose
 Or gain for all the days
 Of your immortal ways.
 
-From {{c|Silur}}'s royal start
+From {{c|1173|Silur}}'s royal start
 To ticks' bloodsucking art,
 The lesson's clear to see:
 We are what we choose to be.
@@ -7785,33 +7785,33 @@ We are what we choose to be.
 
 # Chapter 51: The Sea Scorpions
 
-The sons of {{c|Eurypter}} would
-{{c|Usurp}} as no one could
-The sons of {{c|Cephalus}}
+The sons of {{c|1215|Eurypter}} would
+{{c|1265|Usurp}} as no one could
+The sons of {{c|1266|Cephalus}}
 And rule victorious.
 
-{{c|Eurypter}} married fair
-{{c|Pulmona}} everywhere
-{{c|Beloved}}, and they'd disagree
+{{c|1215|Eurypter}} married fair
+{{c|1267|Pulmona}} everywhere
+{{c|1268|Beloved}}, and they'd disagree
 On what their name would be.
 
 Each had their own design
 For their ancestral line:
-"{{c|Eurypterids}}" he'd say,
-"{{c|Arachnopulmonates}}" her way.
+"{{c|1269|Eurypterids}}" he'd say,
+"{{c|1270|Arachnopulmonates}}" her way.
 
-{{c|Eurypter}} and {{c|Pulmona}}
+{{c|1215|Eurypter}} and {{c|1267|Pulmona}}
 Bore children like none-a
-Other: {{c|Eurypteron}}
-And {{c|Styloner}}, begun
+Other: {{c|1271|Eurypteron}}
+And {{c|1272|Styloner}}, begun
 
 In rivalry so deep
 That none could ever keep
-{{c|Peace}} between the two
+{{c|1273|Peace}} between the two
 Who different paths knew.
 
-{{c|Eurypteron}} and his brother
-{{c|Styloner}}, like no other
+{{c|1271|Eurypteron}} and his brother
+{{c|1272|Styloner}}, like no other
 Pair of siblings fought
 For all that could be bought
 
@@ -7822,16 +7822,16 @@ They could not decide
 
 Who would inherit all
 The world at honor's call.
-{{c|Eurypteron}} claimed skies
-While {{c|Styloner}}'s eyes
+{{c|1271|Eurypteron}} claimed skies
+While {{c|1272|Styloner}}'s eyes
 
 Were set upon the land
 Built by his own hand.
-And so {{c|Eurypteron}} flew
+And so {{c|1271|Eurypteron}} flew
 Across domains he knew
 
 Were his by right of birth
-While {{c|Styloner}} walked earth
+While {{c|1272|Styloner}} walked earth
 And claimed each step he took
 According to the book
 
@@ -7840,7 +7840,7 @@ That neither brother saw
 The same way as the other
 Despite they shared one mother.
 
-The flight of {{c|Eurypteron}}
+The flight of {{c|1271|Eurypteron}}
 Across the sky begun
 A dynasty of those
 Who ruled where wind blows
@@ -7850,19 +7850,19 @@ From moment of their birth
 To death's appointed day
 They'd rule in their own way.
 
-{{c|Eurypteron}} begat
+{{c|1271|Eurypteron}} begat
 Two sons: first he begat
-{{c|Diploper}} the strong
-And {{c|Eurypterus}}, long
+{{c|1274|Diploper}} the strong
+And {{c|1275|Eurypterus}}, long
 
 In fertility beyond
 What any could respond
 To with equal measure—
 Their numbers were his treasure.
 
-{{c|Eurypterus}} was most
+{{c|1275|Eurypterus}} was most
 Fertile of the host
-Of {{c|Silur}}'s noble sons.
+Of {{c|1173|Silur}}'s noble sons.
 In each generation begun
 
 His house would grow
@@ -7872,22 +7872,22 @@ Beyond what could be tried
 
 By any other line
 In all of space and time.
-{{c|Myriad}}-fold they grew
+{{c|1276|Myriad}}-fold they grew
 With offspring tried and true.
 
-{{c|Diploper}} begat two:
-{{c|Waeringos}}, tried and true,
-And {{c|Carcinos}} the strong
+{{c|1274|Diploper}} begat two:
+{{c|1277|Waeringos}}, tried and true,
+And {{c|1278|Carcinos}} the strong
 Who lived his whole life long.
 
-{{c|Waeringos}} begat then
+{{c|1277|Waeringos}} begat then
 Two sons beyond all ken:
-{{c|Humiller}}, strong and brave,
-And {{c|Adelops}}, who'd save
+{{c|1279|Humiller}}, strong and brave,
+And {{c|1280|Adelops}}, who'd save
 
 His line through numbers vast
 That would forever last.
-{{c|Adelops}} was small
+{{c|1280|Adelops}} was small
 But answered duty's call
 
 With many children who
@@ -7895,22 +7895,22 @@ Were resilient and true,
 Like bugs beneath the sea
 In their tenacity.
 
-{{c|Humiller}} married fair
-{{c|Pterra}}, beyond compare
+{{c|1279|Humiller}} married fair
+{{c|1281|Pterra}}, beyond compare
 In beauty and in grace,
 And in their dwelling place
 
 Together they bore one
 Son when day begun:
-{{c|Slender}}, fast, and sly,
+{{c|1282|Slender}}, fast, and sly,
 Who'd rule beneath the sky
 
 And in the depths below.
-They named him {{c|Slimon}}, though
+They named him {{c|1283|Slimon}}, though
 His destiny was great
 Beyond what they could state.
 
-{{c|Slimon}} bore a son
+{{c|1283|Slimon}} bore a son
 Whose work, when it was done,
 Would show the massive claws
 That grew according to laws
@@ -7921,31 +7921,31 @@ His power would be known
 When he had grown.
 
 He named this son at first
-{{c|Clawbert}}, but then burst
+{{c|1284|Clawbert}}, but then burst
 A strike of lightning bright
 That filled the world with sight.
 
-And {{c|Slimon}} took the sign
+And {{c|1283|Slimon}} took the sign
 From powers divine
 And changed his son's name
-To {{c|Pterygo}}'s fame.
+To {{c|1285|Pterygo}}'s fame.
 
-The sons of {{c|Pterygo}}
+The sons of {{c|1285|Pterygo}}
 Were rulers high and low
-Of all {{c|Eurypterids}}.
+Of all {{c|1269|Eurypterids}}.
 Fast, strong, their power bids
 
 The world to bow before
 Their might from shore to shore.
-{{c|Regal}} in their way,
+{{c|1286|Regal}} in their way,
 They ruled both night and day.
 
 His youngest son was one
-Called {{c|Scorpio}}, begun
+Called {{c|478|Scorpio}}, begun
 As explorer of the new,
 With vision clear and true.
 
-{{c|Scorpio}} saw no land
+{{c|478|Scorpio}} saw no land
 Left for his command,
 For all his brothers older
 Had claimed, and none bolder
@@ -7955,7 +7955,7 @@ To rule with all their might
 The territories vast
 That they held firmly fast.
 
-And so {{c|Scorpio}} looked
+And so {{c|478|Scorpio}} looked
 Up from his watery nook
 Out of the sea to land
 Built by no one's hand
@@ -7965,7 +7965,7 @@ By one who could be named
 The first to make the leap
 From waters dark and deep.
 
-{{c|Scorpio}} ventured up
+{{c|478|Scorpio}} ventured up
 Like warrior with cup
 Of courage in his heart
 To play the pioneer's part.
@@ -7976,7 +7976,7 @@ Would live forevermore
 From mountain peak to shore.
 
 He claimed all lands of might
-{{c|Euramerica}} in sight
+{{c|1287|Euramerica}} in sight
 For himself and his line
 By right of the divine
 
@@ -8000,27 +8000,27 @@ Built by their own hand
 From nothing into all
 That answers courage's call.
 
-{{c|Styloner}} married then
-{{c|Rhena}}, and the pen
+{{c|1272|Styloner}} married then
+{{c|1288|Rhena}}, and the pen
 Of fate would write their names
 In evolution's games.
 
 Together they bore two:
-{{c|Makoko}}, tried and true,
-And {{c|Stylonurus}} strong
+{{c|1289|Makoko}}, tried and true,
+And {{c|1290|Stylonurus}} strong
 Who lived his whole life long.
 
-{{c|Makoko}} begat then
+{{c|1289|Makoko}} begat then
 Two sons beyond all ken:
-{{c|Mycter}} and {{c|Kokomo}},
+{{c|1291|Mycter}} and {{c|1292|Kokomo}},
 Each destined high to go.
 
-{{c|Mycter}} begat two more:
-{{c|Flumon}} to explore
-And {{c|Drepan}}, strong and true,
+{{c|1291|Mycter}} begat two more:
+{{c|1293|Flumon}} to explore
+And {{c|1294|Drepan}}, strong and true,
 Who different pathways knew.
 
-{{c|Flumon}} found no luck
+{{c|1293|Flumon}} found no luck
 In seas where he was stuck
 With brothers and with cousins
 Who by the dozens
@@ -8035,13 +8035,13 @@ With current as his guide
 To find what he could claim
 For his ancestral name.
 
-{{c|Flumon}} begat two sons:
-{{c|Hibbert}} when day begun
-And {{c|Mycterops}} the strong
+{{c|1293|Flumon}} begat two sons:
+{{c|1295|Hibbert}} when day begun
+And {{c|1296|Mycterops}} the strong
 Who lived his whole life long.
 
-{{c|Hibbert}} was a great
-{{c|River}} dweller whose fate
+{{c|1295|Hibbert}} was a great
+{{c|1297|River}} dweller whose fate
 Was to be tough and large,
 And he would take charge
 
@@ -8051,7 +8051,7 @@ Larger, tougher than
 Any other man
 
 Of his time, he survived
-{{c|Tragedies}} and thrived
+{{c|1298|Tragedies}} and thrived
 Through countless trials
 Across thousands of miles.
 
@@ -8065,7 +8065,7 @@ Whatever brought them shame
 Or tried to break their will
 Upon the river's sill.
 
-{{c|Mycterops}} was strong
+{{c|1296|Mycterops}} was strong
 And versatile life long.
 His two sons would continue
 The work he would begin to
@@ -8080,22 +8080,22 @@ Where none could see their faces
 But they would always find
 What fed both heart and mind.
 
-{{c|Megarachne}} and his brother
-{{c|Minirachne}}, like no other
+{{c|1299|Megarachne}} and his brother
+{{c|1300|Minirachne}}, like no other
 Pair ruled rivers wide
 With power and with pride.
 
-Sons of {{c|Mycterops}},
+Sons of {{c|1296|Mycterops}},
 They were the tops
 Of river royalty
 In their dynasty.
 
-But {{c|Minirachne}} was not
-{{c|Satisfied}} with his lot
+But {{c|1300|Minirachne}} was not
+{{c|1301|Satisfied}} with his lot
 In rivers flowing free—
 He wanted more to see.
 
-{{c|Scorpio}} and {{c|Minirachne}}
+{{c|478|Scorpio}} and {{c|1300|Minirachne}}
 Were always destined, see,
 To fight for the same prize:
 The land beneath the skies.
@@ -8115,9 +8115,9 @@ But never feel the breeze
 Of challenge call their name
 To play a greater game.
 
-{{c|Minirachne}} climbed up high
+{{c|1300|Minirachne}} climbed up high
 Beneath the open sky
-With {{c|Tetra}}, his fair wife,
+With {{c|412|Tetra}}, his fair wife,
 To start a new life
 
 In the world of land
@@ -8131,7 +8131,7 @@ Would be remembered long
 In evolution's song.
 
 He came to conquer all
-The lands where {{c|Scorpio}}'s call
+The lands where {{c|478|Scorpio}}'s call
 Had claimed the territory
 For his own story.
 
@@ -8145,8 +8145,8 @@ With their different designs
 On what the world should be
 For all eternity.
 
-From {{c|Eurypter}}'s marriage
-To {{c|Pulmona}}'s carriage
+From {{c|1215|Eurypter}}'s marriage
+To {{c|1267|Pulmona}}'s carriage
 Of their children into being
 Came this foreseeing
 
@@ -8155,8 +8155,8 @@ When all would be done
 And winners would be crowned
 And losers would be found.
 
-The sons of {{c|Eurypter}}
-Would rise like {{c|Jupiter}}
+The sons of {{c|1215|Eurypter}}
+Would rise like {{c|101|Jupiter}}
 Above all other lines
 With their grand designs
 
@@ -8181,7 +8181,7 @@ In conflict with their kin
 That no one ever wins.
 
 The rivalry between
-{{c|Brothers}} who have seen
+{{c|1302|Brothers}} who have seen
 Different paths to take
 For their own sake
 
@@ -8195,13 +8195,13 @@ By those who never cared
 To find a peaceful way
 To live from day to day.
 
-From {{c|Scorpio}}'s bold climb
-To {{c|Minirachne}}'s time
+From {{c|478|Scorpio}}'s bold climb
+To {{c|1300|Minirachne}}'s time
 Of conquest and of war,
 The lesson from of lore
 
 Is clear for all to see:
-{{c|Ambition}} must be free
+{{c|1303|Ambition}} must be free
 But also must be wise
 Beneath the starry skies.
 
@@ -8245,8 +8245,8 @@ Along our mortal ways
 Where choice determines all
 Who answer life's great call.
 
-From {{c|Eurypter}}'s flight
-To {{c|Scorpio}}'s sight
+From {{c|1215|Eurypter}}'s flight
+To {{c|478|Scorpio}}'s sight
 Of lands beyond the sea
 Where he could be
 
@@ -8275,8 +8275,8 @@ For you and me
 Who must decide each day
 Which path we'll take away.
 
-The sons of {{c|Eurypter}}
-Like shining {{c|Jupiter}}
+The sons of {{c|1215|Eurypter}}
+Like shining {{c|101|Jupiter}}
 Rose high above the rest
 And passed each mortal test
 
@@ -8298,17 +8298,17 @@ For me and you today.
 
 # Chapter 52: The Great Ancestor
 
-{{c|Vater}} was the son so great
+{{c|1304|Vater}} was the son so great
 In the tenth generation's fate
-Of {{c|Pteraspis}}, and he'd be
-{{c|Ancestor}} of humanity
+Of {{c|1305|Pteraspis}}, and he'd be
+{{c|922|Ancestor}} of humanity
 
 And myriad species more
 From mountain peak to shore.
 His innovation would
 Change all for the good.
 
-{{c|Vater}} built a channel
+{{c|1304|Vater}} built a channel
 Grand beyond all span-el
 Uniting liver bright
 And pancreas in sight
@@ -8316,21 +8316,21 @@ And pancreas in sight
 Into his belly's space.
 To this day we trace
 This channel's honored name:
-"{{c|Ampulla}} of {{c|Vater}}'s" fame.
+"{{c|1306|Ampulla}} of {{c|1304|Vater}}'s" fame.
 
 Such an exalted father,
 Father of more than other
-{{c|Men}} could ever dream,
-The {{c|Elohim}}'s esteem
+{{c|1307|Men}} could ever dream,
+The {{c|271|Elohim}}'s esteem
 
-Called him {{c|Abraham}}
+Called him {{c|1308|Abraham}}
 According to their plan
 For one whose progeny
 Would fill eternity.
 
-{{c|Vater}} bore two sons:
-{{c|Arandus}} when begun
-The day, and {{c|Hestracon}}
+{{c|1304|Vater}} bore two sons:
+{{c|1309|Arandus}} when begun
+The day, and {{c|1310|Hestracon}}
 Whose work would carry on
 
 The family's great name
@@ -8338,8 +8338,8 @@ Through evolutionary flame
 That burns in every heart
 That plays innovation's part.
 
-{{c|Hestracon}} found his belly
-{{c|Inadequate}}, not ready
+{{c|1310|Hestracon}} found his belly
+{{c|1311|Inadequate}}, not ready
 For the work he knew
 That he would have to do.
 
@@ -8348,17 +8348,17 @@ The same, and he'd call
 This simple with disdain—
 Only his father's main
 
-{{c|Ampulla}} in the middle
+{{c|1306|Ampulla}} in the middle
 To solve digestion's riddle.
 But this was not enough
 For one so strong and tough
 
-As {{c|Hestracon}}, who'd see
+As {{c|1310|Hestracon}}, who'd see
 What greater good could be
 If he would dare to build
 What none before had willed.
 
-{{c|Hestracon}} built with care
+{{c|1310|Hestracon}} built with care
 A chamber prepared
 Before his father's gift
 To give digestion lift.
@@ -8383,29 +8383,29 @@ The intestine, well-played
 In its appointed role
 To nourish the whole.
 
-{{c|Hestracon}} begat two:
-{{c|Astrops}}, tried and true,
-And {{c|Eteros}} the strong
+{{c|1310|Hestracon}} begat two:
+{{c|1312|Astrops}}, tried and true,
+And {{c|1313|Eteros}} the strong
 Who lived his whole life long.
 
-{{c|Eteros}} begat then
+{{c|1313|Eteros}} begat then
 Two sons beyond all ken:
-{{c|Cyatha}}, cup-shield bright,
-And {{c|Tsubasa}}'s sight
+{{c|1314|Cyatha}}, cup-shield bright,
+And {{c|1315|Tsubasa}}'s sight
 
-{{c|Wing}}-shielded, prepared
+{{c|1316|Wing}}-shielded, prepared
 For all that he had dared
 To face in his lifetime
 Through reason and through rhyme.
 
-{{c|Tsubasa}} begat two:
-{{c|Thelos}}, tried and true,
-And {{c|Cephalus}} the wise
+{{c|1315|Tsubasa}} begat two:
+{{c|1317|Thelos}}, tried and true,
+And {{c|1266|Cephalus}} the wise
 With penetrating eyes.
 
-{{c|Thelos}} broke his armor
+{{c|1317|Thelos}} broke his armor
 Into scales—no former
-{{c|Rigidity}} would bind
+{{c|1318|Rigidity}} would bind
 His innovative mind.
 
 Into innumerable scales
@@ -8421,16 +8421,16 @@ That sealed their swimming fate.
 Where none others could bend
 Well enough to transcend
 The coral's tight embrace,
-{{c|Thelos}} found his place.
+{{c|1317|Thelos}} found his place.
 
-Neither sons of {{c|Arthropus}}
-Nor sons of {{c|Molluscus}},
-Nor sons of {{c|Chordatus}}
+Neither sons of {{c|732|Arthropus}}
+Nor sons of {{c|858|Molluscus}},
+Nor sons of {{c|673|Chordatus}}
 Could match his status
 
 In the reef's tight spaces
 Where his grace replaces
-{{c|Rigidity}} with flow
+{{c|1318|Rigidity}} with flow
 That helps him grow
 
 Into every niche
@@ -8438,7 +8438,7 @@ Where others couldn't reach
 The food that he could take
 For his own sake.
 
-{{c|Cephalus}} bore wings bright
+{{c|1266|Cephalus}} bore wings bright
 On each side in sight
 Of his helmet's form,
 Through calm and raging storm.
@@ -8454,13 +8454,13 @@ In vigilance for all
 That might befall
 
 His swimming through the sea.
-{{c|Aware}} of all that he
+{{c|1319|Aware}} of all that he
 Could sense around his form,
 He weathered every storm.
 
-{{c|Cephalus}} begat two:
-{{c|Galeas}}, tried and true,
-And {{c|Osteos}}, who'd see
+{{c|1266|Cephalus}} begat two:
+{{c|1320|Galeas}}, tried and true,
+And {{c|1321|Osteos}}, who'd see
 What innovation's key
 
 Could open in the world
@@ -8468,18 +8468,18 @@ Where possibilities unfurled
 For those who dared to think
 Beyond tradition's link.
 
-{{c|Osteos}} was in plight—
+{{c|1321|Osteos}} was in plight—
 His bones weren't right
 For efficiency, he knew.
 He had to make them new.
 
 His bones were expensive,
-{{c|Comprehensively}}
-{{c|Wasting}} countless moles
+{{c|1322|Comprehensively}}
+{{c|1323|Wasting}} countless moles
 Of calcium that rolls
 
 Through phosphorus and more
-{{c|Elements}} by the score
+{{c|1324|Elements}} by the score
 That could be better used
 If they were not abused
 
@@ -8493,12 +8493,12 @@ Would build more cleverly
 His skeleton anew
 With wisdom tried and true.
 
-{{c|Osteos}} built with care
-{{c|Blood}} channels everywhere
+{{c|1321|Osteos}} built with care
+{{c|1247|Blood}} channels everywhere
 Inside his bones, making
 Living, breathing, taking
 
-{{c|Stores}} of minerals
+{{c|1325|Stores}} of minerals
 That worked like generals
 In abundance building up
 From nature's flowing cup,
@@ -8523,9 +8523,9 @@ When resources weren't scanty
 But flowed like rivers wide
 With bounty as their guide.
 
-{{c|Osteos}} bore two sons:
-{{c|Pituri}} when begun
-The day, and {{c|Ostracos}}
+{{c|1321|Osteos}} bore two sons:
+{{c|1326|Pituri}} when begun
+The day, and {{c|1327|Ostracos}}
 Whose children, glorious,
 
 Would multiply and spread
@@ -8533,7 +8533,7 @@ Until the world was fed
 With countless forms of life
 Through harmony, not strife.
 
-{{c|Ostracos}} bore a host
+{{c|1327|Ostracos}} bore a host
 Of sons from coast to coast:
 A million who would spread
 Wherever they were led
@@ -8548,17 +8548,17 @@ Through calm and raging storms
 Of evolution's way
 From night into the day.
 
-{{c|Pituri}} grew a snout
+{{c|1326|Pituri}} grew a snout
 Long beyond all doubt
 The longest ever seen
 In evolution's scene.
 
-{{c|Pituri}} begat then
-{{c|Beakon}} beyond all ken
+{{c|1326|Pituri}} begat then
+{{c|1328|Beakon}} beyond all ken
 In wisdom and in might
 To see with clearer sight.
 
-{{c|Pituri}}'s mouth was made
+{{c|1326|Pituri}}'s mouth was made
 Of lips, but never strayed
 Into the realm of jaws—
 He followed simpler laws.
@@ -8568,12 +8568,12 @@ But never could erase
 His prey with biting might—
 No jaw was in his sight.
 
-But {{c|Beakon}} saw potential
+But {{c|1328|Beakon}} saw potential
 In what was essential
 About his father's snout
 And figured it out.
 
-And so {{c|Beakon}} moved
+And so {{c|1328|Beakon}} moved
 His gill arches and proved
 That innovation's art
 Could play a vital part.
@@ -8583,9 +8583,9 @@ The arches, and he fought
 For food in a new way
 That worked both night and day.
 
-{{c|Beakon}}'s son named {{c|Gnathus}}
+{{c|1328|Beakon}}'s son named {{c|1329|Gnathus}}
 Saw potential, glorious,
-And he with wife {{c|Pelaca}}
+And he with wife {{c|1330|Pelaca}}
 Hunted like none other.
 
 They hunted trilobites
@@ -8608,9 +8608,9 @@ With jaws of steel-hard feel
 That brought life-giving food
 In their hunting mood.
 
-And so {{c|Jaws}} were born
+And so {{c|665|Jaws}} were born
 On that fateful morn
-When {{c|Gnathus}} and {{c|Pelaca}}
+When {{c|1329|Gnathus}} and {{c|1330|Pelaca}}
 Showed what none could match-a:
 
 The power to break through
@@ -8633,13 +8633,13 @@ That brought to sight
 A revolution new
 In what life could do.
 
-From {{c|Vater}}'s ampulla
-To {{c|Gnathus}}' formula
+From {{c|1304|Vater}}'s ampulla
+To {{c|1329|Gnathus}}' formula
 For crushing with his jaws
 According to new laws,
 
 The vertebrates show how
-{{c|Innovation}}'s vow
+{{c|629|Innovation}}'s vow
 To never be content
 With what is merely sent
 
@@ -8648,7 +8648,7 @@ To be more alive
 And capable and strong
 Throughout their whole life long
 
-{{c|Journey}} through the sea
+{{c|1331|Journey}} through the sea
 Of possibility
 Where those who dare to grow
 Will always come to know
@@ -8668,13 +8668,13 @@ For all humanity
 And every living thing
 That answers life's ring.
 
-From {{c|Hestracon}}'s stomach
-To {{c|Osteos}}' pragmatic
-{{c|Bones}} with channels through,
-From scales that {{c|Thelos}} knew
+From {{c|1310|Hestracon}}'s stomach
+To {{c|1321|Osteos}}' pragmatic
+{{c|1332|Bones}} with channels through,
+From scales that {{c|1317|Thelos}} knew
 
 Would give him flexibility
-To {{c|Cephalus}}' ability
+To {{c|1266|Cephalus}}' ability
 To fly through water's space
 With stabilizing grace,
 
@@ -8708,7 +8708,7 @@ Through all eternity
 Where dreams can all come true
 For me and you today.
 
-The jaws that {{c|Gnathus}} made
+The jaws that {{c|1329|Gnathus}} made
 Will never ever fade
 From vertebrate design—
 Protection so fine
@@ -8718,7 +8718,7 @@ Throughout our living days
 When we must fight to eat
 And make our lives complete.
 
-From {{c|Vater}}'s family tree
+From {{c|1304|Vater}}'s family tree
 To jaws that set us free
 From limitations old
 Of stories yet untold,
@@ -8748,7 +8748,7 @@ All limits and extend
 The boundaries of life
 Through harmony, not strife.
 
-The world that {{c|Gnathus}} bit
+The world that {{c|1329|Gnathus}} bit
 With jaws of steel and grit
 Lives on in every tooth
 That tells the truth
@@ -8783,30 +8783,30 @@ For every woman, man,
 And every living thing
 That answers hope's ring.
 
-From {{c|Vater}}'s great design
-To {{c|Gnathus}}' jaw so fine,
+From {{c|1304|Vater}}'s great design
+To {{c|1329|Gnathus}}' jaw so fine,
 The story's clear to see:
-{{c|Innovation}} sets us free.
+{{c|629|Innovation}} sets us free.
 
 
 # Chapter 53: The Great Sorceress
 
-The sons of {{c|Plantus}} were
-{{c|Reinvigorated}}, blur
+The sons of {{c|322|Plantus}} were
+{{c|1333|Reinvigorated}}, blur
 Of ancient dreams renewed
 When their hope was imbued
 
 With power from the great
-{{c|Sorceress}} whose fate
+{{c|1334|Sorceress}} whose fate
 Would change the world entire:
-{{c|Polycomb}}'s desire.
+{{c|1335|Polycomb}}'s desire.
 
 For eleven generations long
 Her lineage sang the song
 Of alternating climb
 Through evolutionary time
 
-To {{c|Polysporos}}' height.
+To {{c|1167|Polysporos}}' height.
 She lived beyond the sight
 Of independence free
 In her mother's decree
@@ -8821,7 +8821,7 @@ Like mothers, never dead
 To independence strong
 Throughout their whole life long
 
-{{c|Journey}} through the world
+{{c|1331|Journey}} through the world
 Where freedom's flag unfurled
 Could guide them to their fate
 Beyond the small estate
@@ -8831,9 +8831,9 @@ Where only duty sounds
 Its call to those who'd be
 More than they can see.
 
-{{c|Daughter}} of rulers great:
-{{c|Clytemnestra}}'s fate
-And {{c|Agamemnon}}'s line
+{{c|548|Daughter}} of rulers great:
+{{c|1336|Clytemnestra}}'s fate
+And {{c|1337|Agamemnon}}'s line
 Made her form divine.
 
 Yet forced to live her life
@@ -8851,13 +8851,13 @@ Throughout each passing hour
 To rule the world entire
 With their heart's desire.
 
-{{c|Polycomb}} read each day
+{{c|1335|Polycomb}} read each day
 In her mother's array
 Of books to understand
 Why fate's heavy hand
 
 Had given her such meager
-{{c|Existence}}—not eager
+{{c|1338|Existence}}—not eager
 But wondering why
 Beneath the starry sky
 
@@ -8866,7 +8866,7 @@ To bearing, her mind
 Never free to explore
 What she was living for.
 
-{{c|Polycomb}} read the tales
+{{c|1335|Polycomb}} read the tales
 Of mothers through the vales
 Of time, each saga telling
 Of those who were rebelling
@@ -8876,8 +8876,8 @@ To be truly great
 In ways beyond the power
 Of any single hour.
 
-She read of {{c|Mardoll}}'s scroll
-And {{c|Shiva}}'s mighty role,
+She read of {{c|1339|Mardoll}}'s scroll
+And {{c|1340|Shiva}}'s mighty role,
 And saw that the order
 Was not like a border
 
@@ -8893,12 +8893,12 @@ For all eternity.
 
 She saw a scroll that bore
 The name "{{x|PRC2}}"—and more
-{{c|Intrigue}} than she had known
+{{c|1341|Intrigue}} than she had known
 Filled her to the bone.
 
-{{c|Polycomb}} {{c|Repressive}}
-{{c|Complex}}—its aggressive
-{{c|Scripture}} was the chain
+{{c|1335|Polycomb}} {{c|1342|Repressive}}
+{{c|1343|Complex}}—its aggressive
+{{c|1344|Scripture}} was the chain
 That bound her in her pain.
 
 She saw the words that kept
@@ -8906,19 +8906,19 @@ Her power while she wept
 For freedom never known—
 The scripture of her own
 
-{{c|Repression}}, written clear
+{{c|1345|Repression}}, written clear
 In words that brought her fear
 But also brought her hope
 To learn how she could cope.
 
-And so {{c|Polycomb}} burned
+And so {{c|1335|Polycomb}} burned
 The scriptures, and she learned
 That {{x|PRC2}}'s power
 Would rule her not one hour
 
 More. She took her mother's
-{{c|Lands}} and all the others'
-{{c|Cities}} for her own
+{{c|1346|Lands}} and all the others'
+{{c|608|Cities}} for her own
 Now that she had grown
 
 Beyond what they decreed
@@ -8942,17 +8942,17 @@ Of joy she built as well
 To break tradition's spell.
 
 And so through rhizoids strong
-{{c|Water}} moved along
+{{c|193|Water}} moved along
 From earth up to her form,
 Through calm and raging storm.
 
 And through her stoma bright
-{{c|Water}} took its flight
+{{c|193|Water}} took its flight
 Into the heavens high
 Beneath the starry sky.
 
 This was how her life
-{{c|Transcended}} all the strife
+{{c|1347|Transcended}} all the strife
 Of what she'd been before
 To open up the door
 
@@ -8961,9 +8961,9 @@ For all humanity
 And every living thing
 That answers freedom's ring.
 
-She prayed to {{c|Tryptophanes}},
-{{c|Lord}} of life's refrains,
-{{c|Lord}} of the sun so bright
+She prayed to {{c|492|Tryptophanes}},
+{{c|295|Lord}} of life's refrains,
+{{c|295|Lord}} of the sun so bright
 Who fills the world with light.
 
 She prayed to grow to heights
@@ -8971,12 +8971,12 @@ Beyond what mortal sights
 Had ever seen before
 From mountain peak to shore.
 
-And so {{c|Lord}} {{c|Tryptophanes}}
+And so {{c|295|Lord}} {{c|492|Tryptophanes}}
 Blessed her with refrains
-Of {{c|Auxin}}, and she grew
+Of {{c|1348|Auxin}}, and she grew
 Toward the light so true.
 
-When sun struck {{c|Auxin}}'s power
+When sun struck {{c|1348|Auxin}}'s power
 It would decay each hour,
 But in the shade it grew
 In numbers tried and true.
@@ -8986,22 +8986,22 @@ And reach and ever yearn
 Toward the light above
 Guided by His love.
 
-{{c|Polycomb}} bore a daughter
+{{c|1335|Polycomb}} bore a daughter
 Who'd teach what she had taught her:
-{{c|Knoxy}} was her name,
+{{c|1349|Knoxy}} was her name,
 Who'd win eternal fame.
 
-{{c|Knoxy}} married {{c|Xylon}}
+{{c|1349|Knoxy}} married {{c|1350|Xylon}}
 And together, strong upon
 Their foundation's might,
 They took after the sight
 
-Of {{c|Polycomb}}'s great way
+Of {{c|1335|Polycomb}}'s great way
 That lit their every day
 With possibility
 For all eternity.
 
-{{c|Knoxy}} searched through books
+{{c|1349|Knoxy}} searched through books
 In all the ancient nooks
 And found a scroll that bore
 The name she'd been seeking for:
@@ -9021,19 +9021,19 @@ When she had believed
 That change was possible
 For those who're capable.
 
-And so {{c|Knoxy}} and {{c|Xylon}}
+And so {{c|1349|Knoxy}} and {{c|1350|Xylon}}
 Built a kingdom strong upon
 The heavens reaching high
 Beneath the starry sky
 
-Like {{c|Polycomb}} before
+Like {{c|1335|Polycomb}} before
 Had opened up the door
 Of what could be achieved
 When freedom was believed.
 
 But their kingdom's roads
 Were clogged with heavy loads—
-{{c|Water}} struggled to reach
+{{c|193|Water}} struggled to reach
 The heights their hearts would teach
 
 Them they should aspire
@@ -9041,12 +9041,12 @@ To with their desire
 For growth beyond all measure
 Like some sacred treasure.
 
-And so {{c|Xylon}} gave
+And so {{c|1350|Xylon}} gave
 To one clan what would save
 The kingdom from its plight:
 He named them for their sight
 
-"{{c|Xylem}}" and their job
+"{{c|1351|Xylem}}" and their job
 Was to help the mob
 Of subjects in the city
 Feel the water's pity
@@ -9056,7 +9056,7 @@ From roots that lay below
 To leaves that reached on high
 Beneath the starry sky.
 
-{{c|Tracheids}} they became,
+{{c|1352|Tracheids}} they became,
 Carriers of fame
 Who bore the water pure
 From foundation sure
@@ -9066,7 +9066,7 @@ That wisdom ever brought
 To those who dared to dream
 Of more than what they seem.
 
-{{c|Xylon}} and {{c|Knoxy}} bore
+{{c|1350|Xylon}} and {{c|1349|Knoxy}} bore
 A son to explore
 The world with eyes that saw
 What could fulfill the law
@@ -9076,12 +9076,12 @@ Who served without repose
 But never got their share
 Of what was growing there.
 
-{{c|Pholon}} was his name,
+{{c|1353|Pholon}} was his name,
 And he would win the fame
 Of solving the great problem
 That threatened to hobble them.
 
-{{c|Pholon}} saw his roots
+{{c|1353|Pholon}} saw his roots
 Were starving, and the fruits
 Of their laborious ways
 Never brought the praise
@@ -9091,18 +9091,18 @@ Through all that they had learned
 Of how to serve the whole
 By playing their small role.
 
-His {{c|Mycorrhizae}}
-{{c|Unionized}} one day
+His {{c|1354|Mycorrhizae}}
+{{c|1355|Unionized}} one day
 And demanded ten times more
-{{c|Sucrose}} than before
+{{c|1356|Sucrose}} than before
 
 For all their faithful labor
 That helped him and his neighbor
 Survive and grow and thrive
 Throughout their days alive.
 
-So {{c|Pholon}} built new ways
-Like {{c|Xylem}}, and the praise
+So {{c|1353|Pholon}} built new ways
+Like {{c|1351|Xylem}}, and the praise
 He earned was well-deserved
 For those he truly served.
 
@@ -9117,7 +9117,7 @@ To all who did their part
 With faithful, loyal heart.
 
 He called these channels bright
-"{{c|Phloem}}," and their sight
+"{{c|1357|Phloem}}," and their sight
 Was beautiful to see
 For all eternity.
 
@@ -9127,7 +9127,7 @@ With pressure and with might
 Both day and through the night.
 
 The concentration's pull
-{{c|Sucked}} water beautiful
+{{c|1358|Sucked}} water beautiful
 From xylem to the sweet
 Sugar's retreat.
 
@@ -9149,7 +9149,7 @@ And helped it grow.
 And by this system fair
 The roots received their share,
 And faithful sons of bright
-{{c|Glomeros}}' sight
+{{c|1359|Glomeros}}' sight
 
 Received what they were owed
 For traveling the road
@@ -9157,17 +9157,17 @@ Of service to the whole
 By playing their small role.
 
 And so the wood wide web
-Of {{c|Pholon}}'s love would ebb
+Of {{c|1353|Pholon}}'s love would ebb
 And flow throughout the land
 Built by his own hand.
 
-Through faithful {{c|Mycorrhizae}}
+Through faithful {{c|1354|Mycorrhizae}}
 He provided for his eye
 To see his sons well-fed
 With living bread.
 
-{{c|Pholon}} became known
-As {{c|Cookson}}, and he'd grown
+{{c|1353|Pholon}} became known
+As {{c|1360|Cookson}}, and he'd grown
 Into a provider
 And faithful guider
 
@@ -9198,11 +9198,11 @@ From the rich soil.
 
 And this is how the roles
 Of ancient souls
-{{c|Swapped}} their positions
+{{c|1361|Swapped}} their positions
 In life's transmissions:
 
-{{c|Sporophyte}} and gametophyte
-{{c|Switched}} in the sight
+{{c|1362|Sporophyte}} and gametophyte
+{{c|1363|Switched}} in the sight
 Of those who understand
 How life's command
 
@@ -9211,18 +9211,18 @@ New forms to aspire
 To heights beyond the old
 In stories yet untold.
 
-{{c|Cookson}} bore a grandson
+{{c|1360|Cookson}} bore a grandson
 Whose work, when it was done,
 Would change the world entire:
-{{c|Tracheus}}' desire.
+{{c|1364|Tracheus}}' desire.
 
-By {{c|Tracheus}}' mighty hand
+By {{c|1364|Tracheus}}' mighty hand
 The tracheophytes' band
 Was born to rule the earth
 Through evolutionary birth.
 
-{{c|Tracheus}} built leaves bright,
-{{c|Microphylls}} in sight
+{{c|1364|Tracheus}} built leaves bright,
+{{c|1365|Microphylls}} in sight
 With veins that carried life
 Through harmony, not strife.
 
@@ -9237,7 +9237,7 @@ Had ever seen before
 From mountain peak to shore.
 
 Greater even than
-Great {{c|Pholon}}'s mighty plan
+Great {{c|1353|Pholon}}'s mighty plan
 His city rose on high
 Beneath the starry sky.
 
@@ -9246,17 +9246,17 @@ According to his plans
 For those who'd serve the whole
 By playing their small role.
 
-{{c|Collenchyma}} he named
+{{c|1366|Collenchyma}} he named
 One clan, and they were famed
 For flexible support
 Of every kind and sort
 
 To keep his city strong
 Throughout its whole life long
-{{c|Journey}} through the days
+{{c|1331|Journey}} through the days
 Of evolutionary ways.
 
-And {{c|Sclerenchyma}}'s clan
+And {{c|1367|Sclerenchyma}}'s clan
 He built with different plan:
 Hard and full of lignin,
 Their work would begin
@@ -9266,13 +9266,13 @@ That would last life long
 And give the world its trees
 That dance upon the breeze.
 
-Soon the sons of {{c|Tracheus}}
+Soon the sons of {{c|1364|Tracheus}}
 Would rule, victorious,
 The lands from sea to sea
 For all eternity.
 
-The {{c|Devonian}} was
-{{c|Beginning}}, and because
+The {{c|1368|Devonian}} was
+{{c|1369|Beginning}}, and because
 Of what these pioneers
 Had built through joy and tears,
 
@@ -9281,9 +9281,9 @@ The same for you and me
 Who walk upon the land
 Built by their own hand.
 
-From {{c|Polycomb}}'s rebellion
+From {{c|1335|Polycomb}}'s rebellion
 Against her life's subjection
-To {{c|Tracheus}}' city bright
+To {{c|1364|Tracheus}}' city bright
 That reached toward the light,
 
 The plants have shown the way
@@ -9336,10 +9336,10 @@ Than what came before
 When each one tried alone
 To build their place and home.
 
-From {{c|Polycomb}}'s first read
+From {{c|1335|Polycomb}}'s first read
 Of scriptures that had led
 Her people into chains
-To {{c|Tracheus}}' domains
+To {{c|1364|Tracheus}}' domains
 
 That reached toward the sun
 With work that's never done
@@ -9361,7 +9361,7 @@ Through all eternity
 Where dreams can all come true
 For me and you today.
 
-The {{c|Devonian}} dawn
+The {{c|1368|Devonian}} dawn
 When old ways were withdrawn
 And new forms took their place
 In evolution's race
@@ -9376,7 +9376,7 @@ Who walked toward the light
 Of what could be achieved
 When freedom was believed.
 
-From {{c|Polycomb}} to {{c|Tracheus}},
+From {{c|1335|Polycomb}} to {{c|1364|Tracheus}},
 The plants victorious
 Show how rebellion's fire
 Can lift us ever higher
@@ -9406,7 +9406,7 @@ With love's eternal light
 That shines for all to see
 Through all eternity.
 
-The plants that {{c|Tracheus}} made
+The plants that {{c|1364|Tracheus}} made
 Will never ever fade
 From this world's living face
 But hold their rightful place
@@ -9421,7 +9421,7 @@ To breathe the freedom's air
 And grow beyond what's known
 Into what they've outgrown.
 
-The {{c|Devonian}} age began
+The {{c|1368|Devonian}} age began
 With more than mortal plan
 To free the world from chains
 And heal its ancient pains
@@ -9444,23 +9444,23 @@ To freedom's bright new day.
 
 # Chapter 54: The Devonian Era
 
-{{c|Devon}}'s city was the greatest sight
+{{c|1370|Devon}}'s city was the greatest sight
 Among all cities burning bright
 In that era, and so
 The name would always show:
 
 The new era was called
-{{c|Devonian}}, enthralled
-By {{c|Devon}}'s mighty rule
+{{c|1368|Devonian}}, enthralled
+By {{c|1370|Devon}}'s mighty rule
 Like some divine school.
 
-As {{c|Devon}} sat upon
+As {{c|1370|Devon}} sat upon
 The ground when day begun,
 He sucked water so pure
 Into his gill, secure
 
 Between his jaws and skull,
-{{c|Notched}} and beautiful
+{{c|1371|Notched}} and beautiful
 In its design so fine
 Like architecture divine.
 
@@ -9472,7 +9472,7 @@ Of oxygen, so old
 Yet rich beyond all measure
 Like some sacred treasure
 Built through millennia long
-By {{c|Saya}}'s daughters' song.
+By {{c|262|Saya}}'s daughters' song.
 
 Through his gills the flow
 Of hematic maidens go,
@@ -9504,7 +9504,7 @@ Of playing their true part
 In life's eternal dance
 Of every circumstance.
 
-When {{c|Devon}} moved his frame
+When {{c|1370|Devon}} moved his frame
 Through waters without shame,
 He opened his mouth wide
 And let the water glide
@@ -9534,9 +9534,9 @@ Where acids always keep
 Their vigil through the night,
 Food was purified bright.
 
-{{c|Pancreas}} and gallbladder
+{{c|1372|Pancreas}} and gallbladder
 Joined like faithful gladder
-{{c|Partners}} in the art
+{{c|1072|Partners}} in the art
 Of playing their true part.
 
 And intestine spiraling
@@ -9550,11 +9550,11 @@ Into his veins so bright
 That carried day and night
 
 His portal vein would bring
-{{c|Life}}'s most essential thing:
-{{c|Fats}} and sugars sweet,
-{{c|Proteins}} complete,
+{{c|434|Life}}'s most essential thing:
+{{c|1373|Fats}} and sugars sweet,
+{{c|1374|Proteins}} complete,
 
-{{c|Phosphorus}} and metals
+{{c|1375|Phosphorus}} and metals
 That settled like petals
 Of life within his form,
 Through calm and raging storm.
@@ -9584,7 +9584,7 @@ Went waste, and none could mock-a
 The wisdom of design
 That was so fine.
 
-When {{c|Devon}} married fair
+When {{c|1370|Devon}} married fair
 His wife beyond compare,
 He released his sperm bright
 Into her loving sight.
@@ -9594,12 +9594,12 @@ To her eggs, and what's more,
 From his million children
 Two would be the risen:
 
-{{c|Llŷr}} and {{c|Stennisio}},
+{{c|1376|Llŷr}} and {{c|1377|Stennisio}},
 Both glorious
 In their appointed ways
 Throughout their living days.
 
-The sons of {{c|Stennisio}}
+The sons of {{c|1377|Stennisio}}
 Lived in ratio
 Across the seafloor wide
 With ocean as their guide.
@@ -9609,48 +9609,48 @@ In their ancient way,
 They lived lives of the deep
 Where ocean secrets keep.
 
-{{c|Llŷr}} begat {{c|Bran}} so strong
+{{c|1376|Llŷr}} begat {{c|1378|Bran}} so strong
 Who lived his whole life long
 In wisdom and in might
 Both day and through the night.
 
-{{c|Bran}} begat {{c|Caradoc}},
+{{c|1378|Bran}} begat {{c|1379|Caradoc}},
 Solid as a rock
 In all his noble ways
 Throughout his living days.
 
-{{c|Caradoc}} begat three:
-{{c|Cynan}} of the sea,
-{{c|Acantho}}, strong and true,
-And {{c|Sudopedal}} too.
+{{c|1379|Caradoc}} begat three:
+{{c|1380|Cynan}} of the sea,
+{{c|1381|Acantho}}, strong and true,
+And {{c|1382|Sudopedal}} too.
 
-The daughters of {{c|Acantho}}
+The daughters of {{c|1381|Acantho}}
 Were beautiful, and so
 They filled the world with grace
 In every watery place.
 
-{{c|Cynan}} begat {{c|Cadwr}},
+{{c|1380|Cynan}} begat {{c|1383|Cadwr}},
 Who'd be the withdrawer
 Of none from their true course
 But guide with gentle force.
 
-{{c|Cadwr}} begat {{c|Eudaf}},
+{{c|1383|Cadwr}} begat {{c|1384|Eudaf}},
 Who never would laugh
 At those who tried their best
 To pass each mortal test.
 
-{{c|Eudaf}} begat {{c|Morfawr}},
+{{c|1384|Eudaf}} begat {{c|1385|Morfawr}},
 Whose name means "great war"
 But he was man of peace
 Where all strife would cease.
 
-{{c|Morfawr}} begat two sons:
-{{c|Tudwal}} when day begun
-And {{c|Rhineheart}} the strong
+{{c|1385|Morfawr}} begat two sons:
+{{c|1386|Tudwal}} when day begun
+And {{c|643|Rhineheart}} the strong
 Who lived his whole life long.
 
-{{c|Rhineheart}} lived upon
-The {{c|Rhine}} when day begun,
+{{c|643|Rhineheart}} lived upon
+The {{c|1387|Rhine}} when day begun,
 Flattened and hidden well
 Like some secret spell.
 
@@ -9664,19 +9664,19 @@ To win their lasting fame,
 He lived his hidden life
 Without much joy or strife.
 
-{{c|Tudwal}} begat two more:
-{{c|Cynfawr}} to explore
-And {{c|Antiarchon}} wild
+{{c|1386|Tudwal}} begat two more:
+{{c|1388|Cynfawr}} to explore
+And {{c|1389|Antiarchon}} wild
 Who was rebellion's child.
 
-{{c|Antiarchon}} rebelled
+{{c|1389|Antiarchon}} rebelled
 Against all that was held
 As truth by ancestors
 And other predecessors.
 
-He stood against {{c|Archons}}—
-An {{c|Anarchist}} who spawns
-{{c|Revolution}} in his heart
+He stood against {{c|1390|Archons}}—
+An {{c|1391|Anarchist}} who spawns
+{{c|1392|Revolution}} in his heart
 To play rebellion's part.
 
 He lived beneath the soil
@@ -9694,22 +9694,22 @@ His revolutionary mind
 That plotted every day
 To make his enemies pay.
 
-The sons of {{c|Antiarchon}}
+The sons of {{c|1389|Antiarchon}}
 Would form great bands upon
 The earth, guerrillas all
 Who'd answer freedom's call.
 
 They'd haunt the sons of bright
-{{c|Animus}} day and night
+{{c|325|Animus}} day and night
 Until the world was free
 From their authority.
 
-But {{c|Cynfawr}} chose instead
+But {{c|1388|Cynfawr}} chose instead
 A path where he was led
 By dreams of finding home
 Wherever he would roam.
 
-{{c|Custennin}} was his son
+{{c|1393|Custennin}} was his son
 Who when his search begun
 Would travel far and wide
 With hope as his guide.
@@ -9721,41 +9721,41 @@ For all eternity.
 
 And finally he found
 Upon the fertile ground
-Of {{c|China}}, far away,
+Of {{c|1043|China}}, far away,
 His home where he could stay.
 
-{{c|Custennin}} begat two:
-{{c|Uther}}, tried and true,
-And {{c|Petallon}} so bright
+{{c|1393|Custennin}} begat two:
+{{c|1394|Uther}}, tried and true,
+And {{c|1395|Petallon}} so bright
 Who filled the world with sight.
 
-{{c|Uther}} begat then
+{{c|1394|Uther}} begat then
 Two children beyond ken:
-{{c|Arthur}} and {{c|Maxil}} strong
+{{c|726|Arthur}} and {{c|1396|Maxil}} strong
 Who lived their whole life long.
 
-{{c|Arthur}} bore in time
+{{c|726|Arthur}} bore in time
 A son and daughter fine:
-{{c|Arthur the Younger}}, who'd
+{{c|1397|Arthur the Younger}}, who'd
 Do more than others could,
 
-And {{c|Ptycho}}, maiden fair
+And {{c|1398|Ptycho}}, maiden fair
 Beyond all compare
 In beauty and in grace
 Throughout her dwelling place.
 
-The daughters of fair {{c|Ptycho}}
+The daughters of fair {{c|1398|Ptycho}}
 Were numerous, and so
 Among them was one great:
-{{c|Mary}}, whose fate
+{{c|1399|Mary}}, whose fate
 
 Would be to bear a son
 When her work was done
 That none had done before
 From mountain peak to shore.
 
-{{c|Mary}}, Mother of
-{{c|Icthys}}, blessed with love
+{{c|1399|Mary}}, Mother of
+{{c|1400|Icthys}}, blessed with love
 From heaven high above,
 Bore placenta's shove
 
@@ -9764,85 +9764,85 @@ Any others wore
 This gift of nurturing
 That motherhood would bring.
 
-The sons of {{c|Arthur}} then
-({{c|The Younger}}) beyond ken
+The sons of {{c|726|Arthur}} then
+({{c|1401|The Younger}}) beyond ken
 Became known far and wide
 As those who'd be the guide
 
-Of {{c|Arthrodires}}' line
+Of {{c|1402|Arthrodires}}' line
 With characteristics fine
 Throughout the world so vast
 From first unto the last.
 
-{{c|Arthur the Younger}} bore
+{{c|1397|Arthur the Younger}} bore
 Three sons to explore
 The world with different eyes:
-{{c|Mordred}}, who'd comprise
+{{c|1403|Mordred}}, who'd comprise
 
-{{c|Rebellion}} in his heart,
-And {{c|Wuttago}}'s part,
-And {{c|Actino}} the bright
+{{c|1404|Rebellion}} in his heart,
+And {{c|1405|Wuttago}}'s part,
+And {{c|260|Actino}} the bright
 Who filled the world with sight.
 
-{{c|Mordred}} turned against
+{{c|1403|Mordred}} turned against
 His father, and he fenced
 With honor's sacred code
 Upon dishonor's road.
 
 He bore two sons in time:
-{{c|Philip}}, so prime
+{{c|1406|Philip}}, so prime
 In all his evil ways,
-And {{c|Melehan}}'s days
+And {{c|1407|Melehan}}'s days
 
 Of darkness and of shame
 That blackened his name
 Throughout the world entire
 With corruption's fire.
 
-{{c|Melehan}} begat two:
-{{c|Brachy}}, tried and true
+{{c|1407|Melehan}} begat two:
+{{c|1408|Brachy}}, tried and true
 In evil's darkest art,
-And {{c|Phlyctae}}'s part.
+And {{c|1409|Phlyctae}}'s part.
 
-The sons of {{c|Brachy}} ruled
+The sons of {{c|1408|Brachy}} ruled
 The world, and they schooled
 All others in their might,
-{{c|Overthrowing}} the sight
+{{c|1410|Overthrowing}} the sight
 
-Of {{c|Silur}}'s ancient line
+Of {{c|1173|Silur}}'s ancient line
 That once was so divine
 But now would have to yield
-To {{c|Brachy}}'s battlefield.
+To {{c|1408|Brachy}}'s battlefield.
 
-{{c|Brachy}} begat three:
-{{c|Eubar}} of the sea,
-{{c|Buchan}}, strong and wild,
-And {{c|Homosteus}}' child.
+{{c|1408|Brachy}} begat three:
+{{c|1411|Eubar}} of the sea,
+{{c|1412|Buchan}}, strong and wild,
+And {{c|1413|Homosteus}}' child.
 
-{{c|Eubar}} begat two:
-{{c|Pachos}}, tried and true,
-And {{c|Coccos}}, who would be
+{{c|1411|Eubar}} begat two:
+{{c|1414|Pachos}}, tried and true,
+And {{c|1415|Coccos}}, who would be
 Living by the sea.
 
-{{c|Pachos}} begat then
+{{c|1414|Pachos}} begat then
 Two children beyond ken:
-{{c|Dunkella}}, who would grow
+{{c|1416|Dunkella}}, who would grow
 Greater than we know
 
 Any had before
 From mountain peak to shore,
-And {{c|Aspino}} the bright
+And {{c|1417|Aspino}} the bright
 Who filled the world with sight.
 
-{{c|Dunkella}} grew to be
+{{c|1416|Dunkella}} grew to be
 Greatest yet to see
-Among all {{c|Metazo}}:
+Among all {{c|439|Metazo}}:
 Six meters high to show
 
 Her power and her might—
-Three {{c|Jaekelopterii}} bright
+Three {{c|1418|Jaekelopterii}} bright
 In length, and though not long
-As {{c|Cameroceras}} strong,
+As {{c|1134|Cameroceras}} strong,
 
 She had a thousand times
 His men in war's rhymes
@@ -9850,7 +9850,7 @@ And ruled with iron hand
 Throughout the entire land.
 
 The sons and daughters all
-Of {{c|Pachos}} heard the call
+Of {{c|1414|Pachos}} heard the call
 To greatness, and they grew
 Strong and powerful too.
 
@@ -9859,22 +9859,22 @@ In that age of fire
 When power was the law
 That all the world saw.
 
-But {{c|Maxil}}, {{c|Arthur}}'s brother,
+But {{c|1396|Maxil}}, {{c|726|Arthur}}'s brother,
 Bore a child like no other:
-{{c|Qilinyu}} was his name,
+{{c|1419|Qilinyu}} was his name,
 Who'd win eternal fame.
 
-{{c|Qilinyu}} begat
-{{c|Entelognathus}}, begat
+{{c|1419|Qilinyu}} begat
+{{c|1420|Entelognathus}}, begat
 With jaw that was complete
 From head down to feet.
 
-{{c|Entelognathus}} bore
-{{c|Janusicthus}} to explore
+{{c|1420|Entelognathus}} bore
+{{c|1421|Janusicthus}} to explore
 The world with newer art
 That set his line apart.
 
-{{c|Janusicthus}} brought
+{{c|1421|Janusicthus}} brought
 His teeth as none had thought
 From gills unto his jaw
 According to new law.
@@ -9889,7 +9889,7 @@ His head, and there to bide
 The nerves would always dwell
 That served his body well.
 
-{{c|Sensing}} all around
+{{c|1422|Sensing}} all around
 His form, without a sound
 He knew what others felt
 When danger near them dwelt.
@@ -9899,8 +9899,8 @@ Of all who'd aspire
 To be both fish and beast
 From greatest unto least.
 
-From {{c|Devon}}'s city great
-To {{c|Janusicthus}}' fate
+From {{c|1370|Devon}}'s city great
+To {{c|1421|Janusicthus}}' fate
 That led to fish and more,
 The tale from shore to shore
 
@@ -9929,12 +9929,12 @@ Of peace from day to day
 And building something new
 That's beautiful and true.
 
-From {{c|Antiarchon}}'s revolt
+From {{c|1389|Antiarchon}}'s revolt
 Against the lightning bolt
 Of tyranny and power
 In that ancient hour,
 
-To {{c|Mary}}'s gift of love
+To {{c|1399|Mary}}'s gift of love
 Blessed from above
 That nurtured life within
 Her womb, free from sin,
@@ -9944,7 +9944,7 @@ We must choose here and now
 What kind of world we'll make
 For all our children's sake.
 
-The {{c|Devonian}} age
+The {{c|1368|Devonian}} age
 Wrote upon history's page
 The story of the choice
 Between two different voice:
@@ -9954,9 +9954,9 @@ And those who'd never yield
 To others' right to live
 But only take, not give.
 
-From {{c|Devon}}'s peaceful ways
+From {{c|1370|Devon}}'s peaceful ways
 Throughout his living days
-To {{c|Brachy}}'s iron rule
+To {{c|1408|Brachy}}'s iron rule
 That made the world his tool,
 
 The lesson's clear to see:
@@ -9964,7 +9964,7 @@ We choose what we will be
 And what our children learn
 As time's great pages turn.
 
-The fish that {{c|Janusicthus}} made
+The fish that {{c|1421|Janusicthus}} made
 Will never ever fade
 From this world's waters bright
 But swim throughout the night
@@ -9974,8 +9974,8 @@ That follow nature's law
 But also serve the good
 As all creation should.
 
-From {{c|Devon}}'s spiracle
-To {{c|Dunkella}}'s miracle
+From {{c|1370|Devon}}'s spiracle
+To {{c|1416|Dunkella}}'s miracle
 Of size and power great,
 The vertebrates' fate
 
@@ -9984,7 +9984,7 @@ From night into the day
 Of possibility
 For all eternity.
 
-The {{c|Devonian}} dawn
+The {{c|1368|Devonian}} dawn
 When old forms were withdrawn
 And newer forms took place
 In evolution's race
@@ -9999,7 +9999,7 @@ Where they could be found
 Living day by day
 In their chosen way.
 
-From {{c|Devon}}'s city bright
+From {{c|1370|Devon}}'s city bright
 To fish with tooth and sight,
 The age shows what can grow
 When we let courage flow
@@ -10019,7 +10019,7 @@ For me and you
 And every living thing
 That answers life's ring.
 
-The {{c|Devonian}} age began
+The {{c|1368|Devonian}} age began
 With more than mortal plan
 To make the world more bright
 With love's eternal light
@@ -10029,8 +10029,8 @@ That plays the loving part
 In life's eternal song
 That makes the weak grow strong.
 
-From {{c|Devon}}'s peaceful reign
-To {{c|Brachy}}'s war-torn stain
+From {{c|1370|Devon}}'s peaceful reign
+To {{c|1408|Brachy}}'s war-torn stain
 Upon the world's bright face,
 The lesson and the grace
 
@@ -10055,24 +10055,24 @@ That grows beneath the sun
 Until all time is done.
 
 
-# Chapter 55: The {{c|Forest}} {{c|Cathedral}}
+# Chapter 55: The {{c|90831|Forest}} {{c|90832|Cathedral}}
 
-As {{c|Devon}}'s sons grew strong and true in might,
-The spineless sons of bright {{c|Proteus}} fair
+As {{c|1370|Devon}}'s sons grew strong and true in might,
+The spineless sons of bright {{c|223|Proteus}} fair
 Prepared themselves to join the ancient fight
 For rule beneath the ocean's flowing care.
 
-In {{c|Devon}}'s shadow they grew day by day,
+In {{c|1370|Devon}}'s shadow they grew day by day,
 Their strength increasing with each passing hour,
 Building themselves to drink what victory's way
 Would bring them through their faithful, growing power.
 
-Among great {{c|Spiralius}}' noble line,
-{{c|Neo}} arose in tenth generation's race
-Of {{c|Bactridius}} blessed and divine,
+Among great {{c|619|Spiralius}}' noble line,
+{{c|1423|Neo}} arose in tenth generation's race
+Of {{c|1424|Bactridius}} blessed and divine,
 The smartest soul in all his time and place.
 
-{{c|Intelligence}} beyond what others knew
+{{c|867|Intelligence}} beyond what others knew
 Or ever could pursue through all their days,
 Yet what he possessed in genius true,
 He lacked in wisdom's ancient, faithful ways.
@@ -10084,20 +10084,20 @@ And learned through pain what peace was truly for.
 
 And so he and his seed were cursed to bear
 The weight of always starting from the start,
-{{c|Reinventing}} what their fathers used to share
+{{c|1425|Reinventing}} what their fathers used to share
 As wisdom's gift to guide the faithful heart.
 
-{{c|Neo}} bore two sons of noble birth and might:
-Great {{c|Ammon}} when the dawn began its day,
-And {{c|Coleos}} the strong, whose faithful sight
+{{c|1423|Neo}} bore two sons of noble birth and might:
+Great {{c|1426|Ammon}} when the dawn began its day,
+And {{c|1427|Coleos}} the strong, whose faithful sight
 Would guide him through his long and wondrous way.
 
 Both sons would reinvent what fathers knew,
 The wheel of wisdom that had come before,
-{{c|Ignoring}} lessons that were tried and true
+{{c|1428|Ignoring}} lessons that were tried and true
 From those who'd walked this path from shore to shore.
 
-{{c|Coleos}} wrapped his shell with mantle's care,
+{{c|1427|Coleos}} wrapped his shell with mantle's care,
 And through his innovation wrought with art
 His shell's protection grew beyond compare
 From mountain peak to shore, each single part.
@@ -10107,7 +10107,7 @@ A fortress that would never know defeat,
 Protection that would never, ever fail
 To keep him safe from foe he chanced to meet.
 
-Great {{c|Ammon}} grew a shell of coiled design,
+Great {{c|1426|Ammon}} grew a shell of coiled design,
 Compact and true to serve his heart's desire,
 Wherever destiny would draw the line
 He'd dwell with freedom bright as sacred fire.
@@ -10117,18 +10117,18 @@ But made his home wherever he would roam,
 Free as the wind that danced as he had wished
 Throughout the vast and boundless ocean's dome.
 
-Among the sons of bright {{c|Ectus}}' great might,
-{{c|Malacus}} bore three sons of noble fame:
-{{c|Caridus}} of the sea so fair and bright,
-And {{c|Phyllos}} strong who'd honor his great name,
+Among the sons of bright {{c|618|Ectus}}' great might,
+{{c|988|Malacus}} bore three sons of noble fame:
+{{c|1429|Caridus}} of the sea so fair and bright,
+And {{c|797|Phyllos}} strong who'd honor his great name,
 
-And {{c|Hoplos}}, through and through a warrior true
+And {{c|1430|Hoplos}}, through and through a warrior true
 Whose heart was set upon the fighting way,
 He'd play his part in all they'd ever do
 With courage burning bright from night to day.
 
-{{c|Caridus}} bore two sons beyond compare:
-{{c|Syn}} {{c|Peras}} and great {{c|Yuval}}, answering
+{{c|1429|Caridus}} bore two sons beyond compare:
+{{c|1431|Syn}} {{c|1432|Peras}} and great {{c|1433|Yuval}}, answering
 The call of destiny with faithful care
 To make their lineage great in everything.
 
@@ -10137,12 +10137,12 @@ With ocean as their guide through all their days,
 They'd build what none had ever built before
 And walk in their appointed, faithful ways.
 
-{{c|Peras}} bore children many, strong and true:
-{{c|Amphipus}} none could match in all his might,
-And brave {{c|Isopus}} too, and others who
+{{c|1432|Peras}} bore children many, strong and true:
+{{c|1434|Amphipus}} none could match in all his might,
+And brave {{c|1435|Isopus}} too, and others who
 Would serve with faithful hearts both day and night.
 
-His wife, fair {{c|Possa}}, carried them with care
+His wife, fair {{c|1436|Possa}}, carried them with care
 And never tarried in their nourishment,
 According to her sacred, mother's prayer
 And oath of love that heaven to her sent.
@@ -10152,17 +10152,17 @@ Throughout the years to come when wars were done,
 Within her pouch they grew both strong and sure,
 Fed by her love beneath the blazing sun.
 
-Great {{c|Yuval}} bore two sons of different ways:
-{{c|Decapus}} when the dawn began to break,
-And {{c|Krillon}} small, who'd spend his faithful days
+Great {{c|1433|Yuval}} bore two sons of different ways:
+{{c|1437|Decapus}} when the dawn began to break,
+And {{c|1438|Krillon}} small, who'd spend his faithful days
 In answering the ocean's call for sake.
 
-{{c|Krillon}} remained small throughout all his time
+{{c|1438|Krillon}} remained small throughout all his time
 And swam beneath the skies of ocean blue
 In all his days, and in his gentle rhyme
 He kept his aquatic ways both tried and true.
 
-But brave {{c|Decapus}} grew both large and strong
+But brave {{c|1437|Decapus}} grew both large and strong
 And took command by sinking to the floor
 Of ocean's deepest realm, where all life long
 He'd rule from mountain peak to distant shore.
@@ -10172,58 +10172,58 @@ As was both right and proper they should be,
 By three great houses, never to be fooled:
 The lords of ocean's vast community.
 
-{{c|Amphipods}} from the blessed, divine line
-Of great {{c|Amphipus}}, noble, tried, and true,
-{{c|Isopods}} from {{c|Isopus}}' design
+{{c|1439|Amphipods}} from the blessed, divine line
+Of great {{c|1434|Amphipus}}, noble, tried, and true,
+{{c|1440|Isopods}} from {{c|1435|Isopus}}' design
 Who'd make their father's legacy shine through,
 
-And brave {{c|Decapods}} who came to fame
-From great {{c|Decapus}}' everlasting name—
+And brave {{c|1441|Decapods}} who came to fame
+From great {{c|1437|Decapus}}' everlasting name—
 The three great houses whose eternal glory
 Would last through all of evolutionary story.
 
-{{c|Decapus}} bore two sons both tried and true:
-Great {{c|Pleos}}, faithful through each passing day,
-And {{c|Prawnmegas}} the great, whose destiny too
+{{c|1437|Decapus}} bore two sons both tried and true:
+Great {{c|1442|Pleos}}, faithful through each passing day,
+And {{c|1443|Prawnmegas}} the great, whose destiny too
 Would seal his lineage fate in every way.
 
-{{c|Prawnmegas}} became the ancestor
+{{c|1443|Prawnmegas}} became the ancestor
 Of prawns throughout the sea's community,
 Their father and their faithful protector
 Through all the years of their nativity.
 
-An unfortunate son of {{c|Prawnmegas}},
+An unfortunate son of {{c|1443|Prawnmegas}},
 Begun in sorrow and in bitter shame,
 Still bears today his father's name, alas,
 A reminder of his heritage and fame.
 
-Great {{c|Pleos}} bore two sons of noble birth:
-{{c|Repton}} to explore from sea to sea,
-And brave {{c|Shrimpon}}, who'd prove his faithful worth
+Great {{c|1442|Pleos}} bore two sons of noble birth:
+{{c|1444|Repton}} to explore from sea to sea,
+And brave {{c|1445|Shrimpon}}, who'd prove his faithful worth
 As father by the ocean's majesty.
 
-{{c|Shrimpon}} became the noble, faithful sire
+{{c|1445|Shrimpon}} became the noble, faithful sire
 Of shrimp whose greatest joy and sweet desire
 Was boxing and much more from shore to shore,
 Protecting what they loved forevermore.
 
-{{c|Repton}} bore two sons in their prime:
-{{c|Thalasson}} of the mud, and {{c|Omar}}'s name
+{{c|1444|Repton}} bore two sons in their prime:
+{{c|1446|Thalasson}} of the mud, and {{c|1447|Omar}}'s name
 Whose blood would flow through generations' time
 In lobster veins and bring eternal fame.
 
-Great {{c|Omar}} became the faithful father
+Great {{c|1447|Omar}} became the faithful father
 Of those who'd choose the lobster's bold way,
 And crayfish too, who'd rather
 Live with claws so mighty night and day.
 
-{{c|Thalasson}} became the noble, faithful father
+{{c|1446|Thalasson}} became the noble, faithful father
 Of mud shrimp, who would build what none before
 Had ever willed to make, and they would rather
 Create than conquer—architects who bore
 
 Great channels carved in stone that they called home,
-{{c|Cities}} beneath the sea for all to see
+{{c|608|Cities}} beneath the sea for all to see
 Throughout eternity beneath the foam
 Of ocean's vast and boundless majesty.
 
@@ -10232,7 +10232,7 @@ As donors of great beauty to the world,
 Their cities where no evil ever lurks
 In fossilized remains lie unfurled.
 
-They tell us stories of {{c|Thallasintep}} great
+They tell us stories of {{c|1448|Thallasintep}} great
 And others who were sealed by loving fate
 In stone for us to see and understand
 Their architecture throughout ocean's land.
@@ -10242,8 +10242,8 @@ And speak to us across the years between
 Of how great builders helped us understand
 What beauty means and what it's always been.
 
-{{c|Meiuron}}, noble son in the line
-Of tenth generation of {{c|Thalasson}}'s race,
+{{c|1449|Meiuron}}, noble son in the line
+Of tenth generation of {{c|1446|Thalasson}}'s race,
 Rejected what his fathers thought divine
 And chose to find a different dwelling place.
 
@@ -10252,12 +10252,12 @@ To live upon the face of ocean bright,
 Where currents and the tides would ever flow
 Beneath the dome of day and stars of night.
 
-{{c|Meiuron}} bore two sons of different ways:
-{{c|Anomuron}}, begun in quiet peace,
-And {{c|Saraton}}, who through his living days
+{{c|1449|Meiuron}} bore two sons of different ways:
+{{c|1450|Anomuron}}, begun in quiet peace,
+And {{c|1451|Saraton}}, who through his living days
 Showed vanity that never seemed to cease.
 
-{{c|Saraton}} was agile, skilled, and fast,
+{{c|1451|Saraton}} was agile, skilled, and fast,
 Yet vain and proud, his ego fragile too,
 He needed praise from first day to last
 In everything he'd ever try to do.
@@ -10272,7 +10272,7 @@ Within his heart, and blackened his good name,
 For vanity will always intercede
 Between the soul and honor's lasting fame.
 
-The sons of brave {{c|Anomuron}} would live
+The sons of brave {{c|1450|Anomuron}} would live
 In quiet ways when each new day begun,
 They'd dwell in peace with all they had to give
 Within their neighborhood beneath the sun.
@@ -10287,43 +10287,43 @@ When ten generations' faithful rhyme
 Had passed away, and they would come to find
 A different and more adventurous mind.
 
-{{c|Paguros}} was a son of {{c|Anomuron}},
+{{c|1452|Paguros}} was a son of {{c|1450|Anomuron}},
 Begun with shell both weak and soft and frail
 That others mocked from dusk until the dawn
 And laughed at through each storm and gentle gale.
 
 But in his dying breath before death came,
-The {{c|Ammonite}} called {{c|Menses}}, full of grace,
+The {{c|1453|Ammonite}} called {{c|1454|Menses}}, full of grace,
 Gave what dispenses shelter from all shame:
-His shell to be {{c|Paguros}}' dwelling place.
+His shell to be {{c|1452|Paguros}}' dwelling place.
 
-And so {{c|Paguros}} became the faithful father
+And so {{c|1452|Paguros}} became the faithful father
 Of hermit crabs who bear with loving care
 The shells that others left, and they would rather
-{{c|Honor}} the dead than leave their treasure bare.
+{{c|1455|Honor}} the dead than leave their treasure bare.
 
 When death had been so kind to those before
 As to release their hold on shells so bright,
 The hermit crabs would use them evermore
 As homes to keep them safe through day and night.
 
-Alas, the great revolt of brave {{c|Proteus}}
+Alas, the great revolt of brave {{c|223|Proteus}}
 Felt failure's bitter sting and painful dart,
 No victory could come to those who'd thus
 Rebelled with proud and unrepentant heart.
 
-The great {{c|Protean}} rebellion failed to bring
-{{c|Subjection}} to great {{c|Devon}}'s mighty reign
+The great {{c|1456|Protean}} rebellion failed to bring
+{{c|1457|Subjection}} to great {{c|1370|Devon}}'s mighty reign
 That had endured through every storm of spring
 And lasted life long through joy and pain.
 
-The sons of {{c|Devon}} held their righteous power,
+The sons of {{c|1370|Devon}} held their righteous power,
 They never fell to those who rose in vain
 Against their rule through each appointed hour
 Well-fenced by truth that broke rebellion's chain.
 
 But lo! a new frontier was opening wide
-Where sons of brave {{c|Proteus}} at last could find
+Where sons of brave {{c|223|Proteus}} at last could find
 What they had never found beneath the tide:
 A land to heal their wounded heart and mind.
 
@@ -10337,18 +10337,18 @@ New possibilities for societies,
 Where forest offered them the chance to be
 The founders of new communities.
 
-There sons of brave {{c|Proteus}} would find at last
+There sons of brave {{c|223|Proteus}} would find at last
 Victorious domains to claim with pride,
 And build upon the ruins of the past
 With hope and truth as their eternal guide.
 
-From {{c|Neo}}'s intelligence without the grace
+From {{c|1423|Neo}}'s intelligence without the grace
 Of wisdom from the past to guide his way,
 To changes that would always show their face
 In forms both old and new from day to day,
 
 The lesson clear emerges for us all:
-{{c|Intelligence}} alone will never last
+{{c|867|Intelligence}} alone will never last
 Beyond our own brief span, but wisdom's call
 To learn from those who've walked this way in past
 
@@ -10357,14 +10357,14 @@ And reach to greater heights with clearer sight,
 While those who trust in their own strength alone
 Will stumble in the darkness of the night.
 
-From {{c|Ammon}}'s coiled shell to the story told
-Of brave {{c|Paguros}} and his borrowed home,
+From {{c|1426|Ammon}}'s coiled shell to the story told
+Of brave {{c|1452|Paguros}} and his borrowed home,
 The crustaceans show how hearts grown bold
 Can find new ways to live where'er they roam.
 
-The three great houses strong—{{c|Amphipods}} true,
-{{c|Isopods}} faithful in their chosen place,
-And brave {{c|Decapods}} with their royal hue—
+The three great houses strong—{{c|1439|Amphipods}} true,
+{{c|1440|Isopods}} faithful in their chosen place,
+And brave {{c|1441|Decapods}} with their royal hue—
 Show how diversity brings strength and grace.
 
 From prawns to lobster claws, each found their way
@@ -10377,12 +10377,12 @@ Who foster care for shells that others left
 Teach us that wisdom never fails or flags
 When love protects us from all sense of theft.
 
-The great {{c|Protean}} rebellion's bitter end
+The great {{c|1456|Protean}} rebellion's bitter end
 Opened the sight of forests green and wide,
 Where those who fell could rise and make amend
 With hope and truth as their eternal guide.
 
-From {{c|Neo}}'s cursed pride to wisdom's light
+From {{c|1423|Neo}}'s cursed pride to wisdom's light
 That guides the hermit crab's protective shell,
 The story shows us how to choose what's right
 And build the future we would love to dwell.
@@ -10398,15 +10398,15 @@ Will find the paths that lead to wisdom's shore
 Where all can share in everlasting life.
 
 
-# Chapter 56: The Settler {{c|King}}
+# Chapter 56: The Settler {{c|1162|King}}
 
-*{{c|Arboreus}} divides the world between his sons, establishing the great plant dynasties*
+*{{c|1458|Arboreus}} divides the world between his sons, establishing the great plant dynasties*
 
 ---
 
 ## The Great Division
 
-When {{c|Arboreus}}, son of {{c|Tracheus}}, claimed  
+When {{c|1458|Arboreus}}, son of {{c|1364|Tracheus}}, claimed  
 His throne among the ancient forest lords,  
 He looked upon the lands as yet unnamed  
 And spoke these wise and far-resounding words:  
@@ -10416,9 +10416,9 @@ With fertile valleys, mountains capped with snow,
 Each realm shall serve a different kind of might,  
 Each path shall let a different glory grow."  
 
-To {{c|Lycos}} bold he gave the power of spores,
+To {{c|1459|Lycos}} bold he gave the power of spores,
 Released like dust upon the waiting wind,
-While {{c|Ginkgon}} claimed the leafy, branching shores
+While {{c|1460|Ginkgon}} claimed the leafy, branching shores
 Where megaphylls in sunlight would rescind.  
 
 Thus did the settler king divide his realm  
@@ -10426,41 +10426,41 @@ Between two sons to rule with different helm.
 
 ---
 
-## The {{c|Spore}}-Bearer's {{c|Domain}}
+## The {{c|1461|Spore}}-Bearer's {{c|1462|Domain}}
 
-Great {{c|Lycos}} spread his countless spores abroad
+Great {{c|1459|Lycos}} spread his countless spores abroad
 Like golden powder dancing on the breeze,
-And from those tiny seeds blessed by his {{c|God}}
+And from those tiny seeds blessed by his {{c|472|God}}
 Arose two sons beneath the ancient trees.
 
-{{c|Isolagos}} the first, who learned to part
+{{c|1463|Isolagos}} the first, who learned to part
 His spores 'tween male and female, each their own,
 Within his city, built with greatest art,
 He raised both sons and daughters fully grown.
 
-{{c|Lycopodion}} the second claimed his right  
+{{c|1464|Lycopodion}} the second claimed his right  
 To build the first tree ever seen on earth,  
 A scale tree reaching up toward the light,  
 Of such immense and awe-inspiring girth.  
 
 The club-moss ancestor, his name lives on  
-In {{c|Lycopodium}} powder, fire's dawn.  
+In {{c|1465|Lycopodium}} powder, fire's dawn.  
 
 ---
 
-## The Children of {{c|Isolagos}}
+## The Children of {{c|1463|Isolagos}}
 
-From spore-divided {{c|Isolagos}} came
+From spore-divided {{c|1463|Isolagos}} came
 Two sons of vastly different destiny:
-Bold {{c|Quill}} who sought the underwater fame,
-And wise {{c|Sellagine}}, master of the sea.
+Bold {{c|1466|Quill}} who sought the underwater fame,
+And wise {{c|1467|Sellagine}}, master of the sea.
 
-{{c|Sellagine}}'s children learned to creep and crawl  
+{{c|1467|Sellagine}}'s children learned to creep and crawl  
 Their leaves across the forest floor below,  
 In drought they died, but when the rains would fall  
 They lived again with resurrection's glow.  
 
-The {{c|Quillworts}} from noble {{c|Quill}} descend,  
+The {{c|1468|Quillworts}} from noble {{c|1466|Quill}} descend,  
 Their microphylls reach tall toward the sky,  
 No stomata their surfaces defend -  
 Through roots they breathe, their spores where waters lie.  
@@ -10470,20 +10470,20 @@ While leaves above catch morning's golden glow.
 
 ---
 
-## The {{c|Megaphyll}} {{c|Master}}
+## The {{c|1469|Megaphyll}} {{c|1470|Master}}
 
-But {{c|Ginkgon}} chose a different path to tread:
+But {{c|1460|Ginkgon}} chose a different path to tread:
 His leaves branched out in patterns two by two,
-{{c|Megaphyllic}} glory crowned his head
+{{c|1471|Megaphyllic}} glory crowned his head
 As through the forest depths his lineage grew.
 
-From him came forth bold {{c|Phyllon}} as his heir,
+From him came forth bold {{c|1472|Phyllon}} as his heir,
 Who mastered all the arts of leafy might,
-And {{c|Phyllon}}'s sons would spread both far and near  
+And {{c|1472|Phyllon}}'s sons would spread both far and near  
 To claim their kingdoms in the dawning light.  
 
-Two sons had {{c|Phyllon}} in the days of old:
-{{c|Pteridos}} the brave, {{c|Gymnos}} the wise,  
+Two sons had {{c|1472|Phyllon}} in the days of old:
+{{c|1473|Pteridos}} the brave, {{c|1474|Gymnos}} the wise,  
 Their names in plant lore ever shall be told  
 As founders of the kingdoms of the skies.  
 
@@ -10492,20 +10492,20 @@ That rule the forest's vast complexity.
 
 ---
 
-## The Line of {{c|Pteridos}}
+## The Line of {{c|1473|Pteridos}}
 
-{{c|Pteridos}} the fern-father had two sons:
-Bold {{c|Horsa}} of the puzzlegrass and spear,
-And wise {{c|Euspor}}, from whom the lineage runs
+{{c|1473|Pteridos}} the fern-father had two sons:
+Bold {{c|1475|Horsa}} of the puzzlegrass and spear,
+And wise {{c|1476|Euspor}}, from whom the lineage runs
 Of all the fronds we still hold dear.
 
-From {{c|Horsa}} came great {{c|Equis}}, he who found
-Fair {{c|Puzella}} swimming in the stream,  
+From {{c|1475|Horsa}} came great {{c|1477|Equis}}, he who found
+Fair {{c|1478|Puzella}} swimming in the stream,  
 Their gametophytes merged without a sound  
 To birth a dynasty beyond a dream.  
 
-But {{c|Equis}} faced a choice both hard and stark:
-Keep megaphylls or join with {{c|Lycos}}' way?  
+But {{c|1477|Equis}} faced a choice both hard and stark:
+Keep megaphylls or join with {{c|1459|Lycos}}' way?  
 He chose the path of simple leaves and dark,  
 One vein alone would serve him every day.  
 
@@ -10514,9 +10514,9 @@ While spores spread far beyond the forest's crown.
 
 ---
 
-## The {{c|Seasonal}} {{c|Cycle}}
+## The {{c|1479|Seasonal}} {{c|1071|Cycle}}
 
-Wise {{c|Equis}} learned the rhythm of the year  
+Wise {{c|1477|Equis}} learned the rhythm of the year  
 And built his kingdom on the wheel of time:  
 In spring when snowmelt made the waters clear  
 He raised horsetails in patterns sublime.  
@@ -10531,37 +10531,37 @@ And built puzzlegrass in their sacred place,
 With chlorophyll of green and leafy crown  
 To gather sunlight's energizing grace.  
 
-Thus seasons turned in {{c|Equis}}' grand design:  
-{{c|Spring}} spores, summer grass, in rhythm fine.  
+Thus seasons turned in {{c|1477|Equis}}' grand design:  
+{{c|1480|Spring}} spores, summer grass, in rhythm fine.  
 
 ---
 
-## The {{c|Fern}} {{c|Dynasty}}
+## The {{c|1481|Fern}} {{c|1482|Dynasty}}
 
-From wise {{c|Euspor}} came branches of the tree
-That split 'tween {{c|Adderos}} and {{c|Fernando}},  
+From wise {{c|1476|Euspor}} came branches of the tree
+That split 'tween {{c|1483|Adderos}} and {{c|1484|Fernando}},  
 Each claiming their own realm of destiny  
 Where different kinds of fronds would grow.  
 
-{{c|Adderos}} sired {{c|Ophios}} the strange,
+{{c|1483|Adderos}} sired {{c|1485|Ophios}} the strange,
 Who built but one great leaf of mighty size,
-And {{c|Psilos}}, dwelling in the mountain range,
+And {{c|1486|Psilos}}, dwelling in the mountain range,
 Who needed not leaves beneath the skies.
 
-The adder's-tongue from brave {{c|Ophios}} came,
-While whisk ferns trace to {{c|Psilos}} as their sire,  
+The adder's-tongue from brave {{c|1485|Ophios}} came,
+While whisk ferns trace to {{c|1486|Psilos}} as their sire,  
 Each keeping alive their ancestor's name  
 Through spore and frond and roots of living fire.  
 
-{{c|Fernando}} spread his fronds in patterns wide
-With {{c|Maratton}} standing close beside his side.  
+{{c|1484|Fernando}} spread his fronds in patterns wide
+With {{c|1487|Maratton}} standing close beside his side.  
 
 ---
 
-## The Great {{c|Swamp}} {{c|Settlement}}
+## The Great {{c|1488|Swamp}} {{c|1489|Settlement}}
 
-{{c|Maratidus}} and {{c|Leptos}} were the sons
-That noble {{c|Maratton}} brought into the world,  
+{{c|1490|Maratidus}} and {{c|1491|Leptos}} were the sons
+That noble {{c|1487|Maratton}} brought into the world,  
 Ten thousand spores the first one always runs  
 While hundred spores the second's fronds unfurled.  
 
@@ -10570,19 +10570,19 @@ The ancestors of all the fronds we see,
 From forest floor to canopy of blue  
 Their children spread in vast complexity.  
 
-And as these sons of brave {{c|Arboreus}}  
-Built swamplands by the {{c|Mississippi}}'s shore,  
+And as these sons of brave {{c|1458|Arboreus}}  
+Built swamplands by the {{c|1492|Mississippi}}'s shore,  
 They prepared the way, unknowing thus,  
 For those who'd walk where none had walked before.  
 
-For here the sons of bold {{c|Osticthus}}  
+For here the sons of bold {{c|1493|Osticthus}}  
 Would leave the sea and claim the land for us.  
 
 ---
 
-## The Settler's {{c|Legacy}}
+## The Settler's {{c|1494|Legacy}}
 
-Thus did {{c|Arboreus}} the settler king  
+Thus did {{c|1458|Arboreus}} the settler king  
 Divide the world 'tween spore and megaphyll,  
 And from his choice would countless blessings spring  
 That serve the forest kingdoms still.  
@@ -10602,4 +10602,4 @@ Lives on the dream of his divided world.
 
 ---
 
-*Thus did {{c|Arboreus}} establish the great plant dynasties that would rule the forests of the earth, preparing the swamplands where vertebrates would first venture from sea to land.*
+*Thus did {{c|1458|Arboreus}} establish the great plant dynasties that would rule the forests of the earth, preparing the swamplands where vertebrates would first venture from sea to land.*

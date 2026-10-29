@@ -4,7 +4,7 @@
 # Chapter 169: Confucius and Laozi
 
 In {{p|China}}, during the sixth and fifth centuries BCE—the same
-Centuries that produced {{c|Zarathustra}}'s reforms, the {{p|Babylonian}}
+Centuries that produced {{c|2146|Zarathustra}}'s reforms, the {{p|Babylonian}}
 Exile, and {{p|Ionian}} philosophy—a parallel civilizational reimagining
 Was taking place. The {{p|Zhou Dynasty}}, established four centuries
 
@@ -24,15 +24,15 @@ The breakdown of political order. And two of those schools—
 {{p|Confucianism}} and {{p|Daoism}}—would prove to be the most enduring.
 
 They would shape {{p|East Asian}} civilization for the next twenty-five
-Centuries. Their founders, {{c|Confucius}} and {{c|Laozi}}, stand at the
+Centuries. Their founders, {{c|1958|Confucius}} and {{c|2144|Laozi}}, stand at the
 Root of everything that followed.
 
-                                      {{c|Confucius}}. In {{p|Chinese}},
-{{c|Kong Fuzi}} or {{c|Kongzi}}—"{{c|Master Kong}}." Born in five-fifty-one BCE
+                                      {{c|1958|Confucius}}. In {{p|Chinese}},
+{{c|2295|Kong Fuzi}} or {{c|2296|Kongzi}}—"{{c|2297|Master Kong}}." Born in five-fifty-one BCE
 In the small state of {{p|Lu}}, in what is now {{p|Shandong Province}}. His
 Family was of minor aristocratic descent but had fallen on hard
 
-Times; his father died when {{c|Confucius}} was three. He was raised
+Times; his father died when {{c|1958|Confucius}} was three. He was raised
 By his mother in relative poverty. He received whatever education
 He could, studying the classical texts of the {{p|Zhou}} ritual tradition.
 He served in minor government posts in {{p|Lu}}, rising to become
@@ -49,12 +49,12 @@ Politically. His ideas had been rejected by every ruler he
 
 Approached. His disciples were few. And yet, from these unpromising
 Materials, arose the most influential ethical philosophy ever
-Developed in {{p|East Asia}}. Because {{c|Confucius}}'s disciples preserved
+Developed in {{p|East Asia}}. Because {{c|1958|Confucius}}'s disciples preserved
 His teachings in the {{p|Analects}} ({{p|Lunyu}}), a collection of his sayings
 
 And brief anecdotes, compiled probably several generations after
 His death. And subsequent generations of {{p|Confucian}} philosophers—
-{{c|Mencius}}, {{c|Xunzi}}, the {{p|Han}} dynasty scholars, the great
+{{c|2298|Mencius}}, {{c|2299|Xunzi}}, the {{p|Han}} dynasty scholars, the great
 {{p|Neo-Confucians}} of the {{p|Song}} dynasty, the {{p|Ming}} thinkers, the
 
 {{p|Korean}}, {{p|Japanese}}, and {{p|Vietnamese}} {{p|Confucians}}—would elaborate
@@ -66,7 +66,7 @@ Polity that adopted {{p|Chinese}} political culture. The rejected
 Wanderer became, posthumously, the teacher of half of humanity.
 
                                                                  What
-Did {{c|Confucius}} teach? At the core, an ethic of virtuous human
+Did {{c|1958|Confucius}} teach? At the core, an ethic of virtuous human
 
 Conduct grounded in five key relationships: ruler-subject, father-
 Son, husband-wife, elder brother-younger brother, friend-friend.
@@ -90,7 +90,7 @@ Are disrupted—when rulers are tyrants, when sons abandon filial
 
 Obligation, when wives disrespect husbands—the society falls into
 Chaos. The political disorder of the {{p|Spring and Autumn}} period was,
-In {{c|Confucius}}'s analysis, the symptom of ethical disorder. And
+In {{c|1958|Confucius}}'s analysis, the symptom of ethical disorder. And
 The remedy was to restore proper ethical conduct, starting with
 
 The ruler and extending outward through the society. A ruler who
@@ -98,7 +98,7 @@ Was personally virtuous, who cultivated {{p|ren}} and practiced it
 Consistently, would naturally attract loyal subjects and set an
 Example that would spread through the social fabric. "The virtue
 
-Of the wind bends the grass," {{c|Confucius}} said. Political reform
+Of the wind bends the grass," {{c|1958|Confucius}} said. Political reform
 Begins with moral self-cultivation. This is a very distinctive
 Ethical vision. It does not appeal to divine commands. It does
 Not rely on reward and punishment in the afterlife. It does not
@@ -106,22 +106,22 @@ Not rely on reward and punishment in the afterlife. It does not
 Invoke abstract moral principles derived from reason alone. It
 Grounds morality in specific, role-based human relationships and
 In the cultivation of personal virtue through learning, ritual,
-And reflection. The good life, for {{c|Confucius}}, is the life of
+And reflection. The good life, for {{c|1958|Confucius}}, is the life of
 
 The {{p|junzi}}—the "gentleman" or "exemplary person"—who has
-Cultivated himself (and it is usually "himself," though {{c|Confucius}}
+Cultivated himself (and it is usually "himself," though {{c|1958|Confucius}}
 Was occasionally more inclusive than his later tradition) through
 Study of the classics, mastery of ritual propriety, and practice
 
 Of benevolent conduct. The {{p|junzi}} is not born but made, through
 Continuous self-cultivation. And this self-cultivation is both
-An ethical project and an aesthetic one. {{c|Confucius}} emphasized
+An ethical project and an aesthetic one. {{c|1958|Confucius}} emphasized
 Music, poetry, and ritual as essential to the cultivated life.
 
 Beauty and morality were linked. A properly cultivated person
 Would be sensitive to beauty and grace in human interactions and
 In artistic expression. The {{p|Book of Songs}}, the {{p|Book of Rites}},
-The {{p|Book of Changes}}, the {{p|Spring and Autumn Annals}}—{{c|Confucius}}
+The {{p|Book of Changes}}, the {{p|Spring and Autumn Annals}}—{{c|1958|Confucius}}
 
 Urged study of these {{p|Five Classics}} not as dry scholarly exercise
 But as formation of sensibility. One became a better person by
@@ -147,22 +147,22 @@ Entirely on the {{p|Confucian}} conviction that moral and intellectual
 Cultivation should be the primary qualification for political power.
 
                                                                      And
-Now {{c|Laozi}}, the old master, who lived and left his book. The{{fn|Many historians doubt that Laozi was a single historical person, and date the Daodejing to the fourth century BCE or later. The Gaiad holds that he lived.}}
-Traditional account, in {{c|Sima Qian}}'s {{p|Records of the Grand Historian}}
+Now {{c|2144|Laozi}}, the old master, who lived and left his book. The{{fn|Many historians doubt that Laozi was a single historical person, and date the Daodejing to the fourth century BCE or later. The Gaiad holds that he lived.}}
+Traditional account, in {{c|2300|Sima Qian}}'s {{p|Records of the Grand Historian}}
 (Written in the first century BCE, several centuries after the
-Presumed date), places {{c|Laozi}} as an older contemporary of {{c|Confucius}},
+Presumed date), places {{c|2144|Laozi}} as an older contemporary of {{c|1958|Confucius}},
 
-An archivist at the {{p|Zhou}} court whom {{c|Confucius}} once visited for
-Advice. In this telling, {{c|Laozi}}—"the {{c|Old Master}}"—was older, wiser,
-And more withdrawn than {{c|Confucius}}. When {{c|Confucius}} sought him out,
-{{c|Laozi}} rebuked him for his worldly ambition and urged him to let
+An archivist at the {{p|Zhou}} court whom {{c|1958|Confucius}} once visited for
+Advice. In this telling, {{c|2144|Laozi}}—"the {{c|2301|Old Master}}"—was older, wiser,
+And more withdrawn than {{c|1958|Confucius}}. When {{c|1958|Confucius}} sought him out,
+{{c|2144|Laozi}} rebuked him for his worldly ambition and urged him to let
 
-Go of his attempts to reform society. {{c|Laozi}} eventually left the
+Go of his attempts to reform society. {{c|2144|Laozi}} eventually left the
 {{p|Zhou}} court, disillusioned with its decay, and rode a water-
 Buffalo westward toward the borderlands. At a mountain pass, the
-Gate-keeper {{c|Yinxi}} recognized him and asked him to write down his
+Gate-keeper {{c|2302|Yinxi}} recognized him and asked him to write down his
 
-Teachings before leaving. {{c|Laozi}} agreed and composed the five
+Teachings before leaving. {{c|2144|Laozi}} agreed and composed the five
 Thousand characters of the {{p|Dao De Jing}}, then departed into the
 West never to be seen again. This is a lovely story. It is also
 Almost certainly a composite myth. The actual composition of the
@@ -170,11 +170,11 @@ Almost certainly a composite myth. The actual composition of the
 {{p|Dao De Jing}} probably happened in stages between the fifth and
 Third centuries BCE, with multiple authors and editors contributing.
 The text we have is a synthesis rather than the work of a single
-Historical figure. But the figure of {{c|Laozi}}—whether real or
+Historical figure. But the figure of {{c|2144|Laozi}}—whether real or
 
 Representative—has functioned as the patron sage of {{p|Daoism}} for
 The tradition that gathered around the text. So we may speak of
-{{c|Laozi}} as the traditional founder, with appropriate caveats about
+{{c|2144|Laozi}} as the traditional founder, with appropriate caveats about
 The historical evidence.
 
                              What does the {{p|Dao De Jing}} teach? The
@@ -215,10 +215,10 @@ Fish"—do not over-manipulate, do not interfere constantly, let
 Things be. The less a government does, the better it governs.
 This is a radical critique of bureaucratic and activist government—
 A critique directly opposed to the {{p|Confucian}} emphasis on virtuous
-Rulers and careful ritual management. Where {{c|Confucius}} urges the
+Rulers and careful ritual management. Where {{c|1958|Confucius}} urges the
 
 Ruler to cultivate himself and act upon the society with benevolent
-Example, {{c|Laozi}} urges the ruler to cultivate non-action and let
+Example, {{c|2144|Laozi}} urges the ruler to cultivate non-action and let
 The society manage itself. These are different political visions.
 Different ethical visions. Different conceptions of the good life.
 
@@ -229,7 +229,7 @@ The same civilizational crisis of late {{p|Zhou}} political disorder.
 In practice, the two traditions have not been mutually exclusive
 
 But complementary. {{p|Chinese}} civilization has, for millennia, held
-Both together. {{c|Confucianism}} provides the public ethics of social
+Both together. {{c|2303|Confucianism}} provides the public ethics of social
 Life—the rules of propriety, the rituals of court and family, the
 Moral education that shapes the gentleman-official. {{p|Daoism}} provides
 
@@ -268,12 +268,12 @@ One of its most distinctive features, and its roots are in this
 Traditions emerged from the same crisis and learned to coexist.
 
                                                                  The
-{{x|Gaiad}} reads {{c|Confucius}} and {{c|Laozi}} together as the twin poles of
+{{x|Gaiad}} reads {{c|1958|Confucius}} and {{c|2144|Laozi}} together as the twin poles of
 {{p|East Asian}} civilizational thought. Each is incomplete without
-The other. {{c|Confucius}} gives us the ethics of social engagement,
+The other. {{c|1958|Confucius}} gives us the ethics of social engagement,
 The seriousness of moral cultivation, the dignity of institutional
 
-Life. {{c|Laozi}} gives us the counterweight: the skepticism toward
+Life. {{c|2144|Laozi}} gives us the counterweight: the skepticism toward
 Institutions, the awareness that reality exceeds our concepts, the
 Turn toward nature, the recognition that sometimes not acting is
 The wisest action. Together, they are one of the great civilizational
@@ -308,7 +308,7 @@ The ideas worked out by impoverished teachers in the chaotic
 Small states of sixth- and fifth-century BCE {{p|China}} would shape
 The lives of billions for two and a half millennia.
 
-                                                         {{c|Confucius}}. {{c|Laozi}}.
+                                                         {{c|1958|Confucius}}. {{c|2144|Laozi}}.
 {{p|Ren}} and {{p|wu wei}}. Filial piety and spontaneous flow. The {{p|junzi}}
 
 And the {{p|sheng ren}}. The {{p|Analects}} and the {{p|Dao De Jing}}. Moral
@@ -320,19 +320,19 @@ The {{p|Spring and Autumn}} philosophers in an age of disorder. The
 Intellectual tradition. The twin traditions that, together, would
 Shape a civilization.
 
-{{c|Confucius}} and {{c|Laozi}}. Paired pillars of the {{p|East Asian}} mind.
+{{c|1958|Confucius}} and {{c|2144|Laozi}}. Paired pillars of the {{p|East Asian}} mind.
 
 
 # Chapter 170: The Buddha
 
 In the {{p|Gangetic}} plain of northern {{p|India}}, in the sixth and fifth
-Centuries BCE, the same {{x|Axial Age}} ferment that produced {{c|Zarathustra}},
-{{c|Confucius}}, {{c|Laozi}}, the {{p|Judean}} exile, and {{p|Ionian}} philosophy was
+Centuries BCE, the same {{x|Axial Age}} ferment that produced {{c|2146|Zarathustra}},
+{{c|1958|Confucius}}, {{c|2144|Laozi}}, the {{p|Judean}} exile, and {{p|Ionian}} philosophy was
 Also transforming {{p|Indian}} religious thought. And at the heart of
 
 That transformation was a single figure whose teachings would
 Spread across {{p|Asia}} and eventually the world, shaping the lives
-Of hundreds of millions. {{c|Siddhartha Gautama}}. The {{c|Buddha}}—"the
+Of hundreds of millions. {{c|2304|Siddhartha Gautama}}. The {{c|1959|Buddha}}—"the
 Awakened one."
 
                   Begin with context. The {{p|Indian}} religious landscape
@@ -352,8 +352,8 @@ The final layer of the {{p|Vedic}} corpus, were being composed during
 
 This period, and they represented a shift within {{p|Vedic}} thought
 Itself—from outer ritual to inner contemplation, from the efficacy
-Of sacrifice to the realization of the identity between {{c|Atman}}
-(The individual self) and {{c|Brahman}} (the universal reality). The
+Of sacrifice to the realization of the identity between {{c|2305|Atman}}
+(The individual self) and {{c|2306|Brahman}} (the universal reality). The
 
 Concept of {{p|karma}} (action and its consequences), the concept of
 {{p|samsara}} (the endless cycle of rebirth), and the concept of
@@ -363,9 +363,9 @@ Question that drove this entire religious ferment was: how can
 A human being achieve liberation from suffering and the endless
 Cycle of death and rebirth? Different traditions gave different
 Answers. The {{p|Upanishadic}} answer was philosophical insight into
-The identity of {{c|Atman}} and {{c|Brahman}}. The {{p|Jain}} answer—developed by
+The identity of {{c|2305|Atman}} and {{c|2306|Brahman}}. The {{p|Jain}} answer—developed by
 
-{{c|Mahavira}}, a near-contemporary of the {{c|Buddha}}—was extreme asceticism,
+{{c|2145|Mahavira}}, a near-contemporary of the {{c|1959|Buddha}}—was extreme asceticism,
 Including practices of such severity that some {{p|Jain}} monks
 Eventually starved themselves to death in the ultimate renunciation.
 The {{p|Ajivika}} answer (now lost but significant in its time) was
@@ -377,17 +377,17 @@ Of rebirth and karma, arguing that there was only this life and
 
 Death ended it. And the {{p|Brahmins}} continued to perform their
 Sacrifices and insist that their tradition was the proper path.
-Into this contested field stepped {{c|Siddhartha Gautama}}.
+Into this contested field stepped {{c|2304|Siddhartha Gautama}}.
 
                                                                  He
 Was born around five-sixty-three BCE (traditional dating) or
 Four-eighty BCE (recent scholarly dating; the {{x|Gaiad}} will use the
 Traditional date for narrative convenience) in {{p|Lumbini}}, a small
-Village in what is now southern {{p|Nepal}}. His father {{c|Shuddhodana}}
+Village in what is now southern {{p|Nepal}}. His father {{c|2307|Shuddhodana}}
 
 Was a chieftain of the {{p|Shakya}} clan, a minor kshatriya (warrior)
-Lineage. His mother {{c|Maya}} died shortly after his birth, and he
-Was raised by her sister {{c|Mahapajapati}}. The stories of his
+Lineage. His mother {{c|2308|Maya}} died shortly after his birth, and he
+Was raised by her sister {{c|2309|Mahapajapati}}. The stories of his
 Childhood that survive are mostly later hagiography, but they
 
 Emphasize two themes: that he was raised in extraordinary luxury,
@@ -397,7 +397,7 @@ To become either a great king or a great spiritual teacher. His
 
 Father, hoping for the former, tried to keep him insulated from
 Anything that might turn his mind to spiritual questions. He was
-Married at sixteen to {{c|Yashodhara}}. They had a son, {{c|Rahula}}. He
+Married at sixteen to {{c|2310|Yashodhara}}. They had a son, {{c|2311|Rahula}}. He
 Lived a life of sheltered privilege. And then, according to the
 
 Tradition, at age twenty-nine, he insisted on venturing outside
@@ -407,14 +407,14 @@ The first three confronted him with realities he had been shielded
 
 From. Age, disease, and death—the fundamental facts of embodied
 Existence. The fourth, the ascetic, suggested a different way of
-Living in the face of those realities. That night, {{c|Siddhartha}}
+Living in the face of those realities. That night, {{c|2312|Siddhartha}}
 Left his palace, his wife, and his infant son. He cut off his
 
 Hair, put on the robes of a wandering seeker, and began his search
 For a way out of suffering.
 
                                 He first studied with two famous
-Meditation teachers, {{c|Alara Kalama}} and {{c|Udaka Ramaputta}}. He
+Meditation teachers, {{c|2313|Alara Kalama}} and {{c|2314|Udaka Ramaputta}}. He
 
 Mastered their techniques quickly—mastering the attainment of
 Deep meditative absorption—but he realized that these attainments,
@@ -431,26 +431,26 @@ As luxury had been. Both extremes—indulgence and self-torture—
 Kept the mind fixed on the body rather than freeing it. There must
 Be a middle way between them. He accepted a bowl of rice pudding
 
-From a young village woman named {{c|Sujata}}, recovering some strength.
+From a young village woman named {{c|2315|Sujata}}, recovering some strength.
 His five ascetic companions, disgusted by what they saw as his
 Weakness, abandoned him. He was alone. And he sat down beneath a
 Fig tree at {{p|Bodh Gaya}} in what is now {{p|Bihar}}, and he resolved not
 
 To move until he had found what he was seeking. He sat through
 The night. According to the tradition, he was assailed during
-This night by {{c|Mara}}, the personification of death and illusion,
-Who tempted him with pleasure, fear, and the claim that {{c|Siddhartha}}
+This night by {{c|2316|Mara}}, the personification of death and illusion,
+Who tempted him with pleasure, fear, and the claim that {{c|2312|Siddhartha}}
 
-Had no right to the awakening he sought. {{c|Siddhartha}} touched the
+Had no right to the awakening he sought. {{c|2312|Siddhartha}} touched the
 Earth as his witness—the famous "earth-touching" gesture preserved
-In countless {{p|Buddhist}} statues—and {{c|Mara}} was defeated. As dawn
-Broke, {{c|Siddhartha}} understood. He saw the nature of suffering and
+In countless {{p|Buddhist}} statues—and {{c|2316|Mara}} was defeated. As dawn
+Broke, {{c|2312|Siddhartha}} understood. He saw the nature of suffering and
 
 Its causes. He saw the path to its cessation. He became the
-{{c|Buddha}}, "the awakened one." He was thirty-five years old.
+{{c|1959|Buddha}}, "the awakened one." He was thirty-five years old.
 
                                                                  What
-Did he realize? At the core of the {{c|Buddha}}'s enlightenment was
+Did he realize? At the core of the {{c|1959|Buddha}}'s enlightenment was
 
 What would become known as the {{p|Four Noble Truths}}. First: there
 Is suffering ({{p|dukkha}}). All conditioned existence is characterized
@@ -475,9 +475,9 @@ Ethical, psychological, and contemplative. It is neither ascetic
 Self-torture nor sensual indulgence but the middle way. And the
 Path is practical. It can be walked by anyone who commits to it.
 Another key insight: the {{p|doctrine of no-self}} ({{p|anatta}}). Unlike
-The {{p|Upanishadic}} tradition, which identified an eternal {{c|Atman}}
+The {{p|Upanishadic}} tradition, which identified an eternal {{c|2305|Atman}}
 
-(True self) as the key to liberation, the {{c|Buddha}} taught that there
+(True self) as the key to liberation, the {{c|1959|Buddha}} taught that there
 Is no permanent, unchanging self. What we call the self is a
 Constantly changing flux of physical and mental processes—form,
 Feeling, perception, mental formations, consciousness—which
@@ -488,30 +488,30 @@ The illusion of a permanent self is one of the root causes of
 Craving and suffering. When this illusion is seen through, craving
 
 Falls away naturally. This {{p|anatta}} doctrine is the most
-Radical of the {{c|Buddha}}'s insights, and it is the one that most
+Radical of the {{c|1959|Buddha}}'s insights, and it is the one that most
 Sharply distinguishes {{p|Buddhism}} from the other {{p|Indian}} religious
 Traditions. It is also one of the most counterintuitive teachings
 
 In world religion, because it challenges the foundational
 Assumption of almost every spiritual tradition: that there is a
-Real self whose welfare we are pursuing. The {{c|Buddha}} says there
+Real self whose welfare we are pursuing. The {{c|1959|Buddha}} says there
 Is no such self. There is only the flux. And the pursuit of
 
 Liberation is not the saving of a self but the seeing-through of
 The self-illusion.
 
-                      {{c|Buddha}} spent the rest of his life—forty-five
+                      {{c|1959|Buddha}} spent the rest of his life—forty-five
 Years—teaching. He attracted disciples. He founded the {{p|sangha}},
 
 The monastic community. He traveled through the {{p|Gangetic}} plain,
 Teaching to anyone who would listen. Kings came to him. Beggars
-Came to him. {{c|Brahmins}} came to him. {{p|Untouchables}} came to him.
+Came to him. {{c|2317|Brahmins}} came to him. {{p|Untouchables}} came to him.
 He taught them all. He did not distinguish by caste. This was
 
 Itself a radical position in {{p|Indian}} society. His {{p|sangha}} included
 Men of every caste, and eventually women as well (though his
-Admission of women, at the urging of his foster mother {{c|Mahapajapati}}
-And his disciple {{c|Ananda}}, came reluctantly and with special
+Admission of women, at the urging of his foster mother {{c|2309|Mahapajapati}}
+And his disciple {{c|2318|Ananda}}, came reluctantly and with special
 
 Conditions that would keep nuns subordinate to monks). He taught
 Not in {{p|Sanskrit}}—the sacred language of the {{p|Brahmins}}—but in
@@ -519,7 +519,7 @@ Not in {{p|Sanskrit}}—the sacred language of the {{p|Brahmins}}—but in
 The people. This democratization of religious access was another
 
 Radical feature of the early {{p|Buddhist}} community. And the
-{{c|Buddha}}'s teaching style was pragmatic. He refused to answer
+{{c|1959|Buddha}}'s teaching style was pragmatic. He refused to answer
 Metaphysical questions that he considered useless for liberation—
 Questions like "is the universe eternal?" or "is the self the
 
@@ -529,14 +529,14 @@ Poisoned arrow who refuses to let the arrow be removed until he
 Knows the name of the archer, the material of the bow, and the
 
 Fletching of the arrow. By the time he has his answers, he is
-Dead. The {{c|Buddha}}'s concern was always immediate: the alleviation
+Dead. The {{c|1959|Buddha}}'s concern was always immediate: the alleviation
 Of suffering, the path to liberation. Metaphysical speculation was
 A distraction. This pragmatic approach made early {{p|Buddhism}} quite
 
 Different from religious philosophies that centered on metaphysical
 Doctrines. It was a path more than a creed. Later {{p|Buddhism}} would
 Develop elaborate metaphysics and cosmology, but the historical
-{{c|Buddha}} himself seems to have resisted such elaboration.
+{{c|1959|Buddha}} himself seems to have resisted such elaboration.
 
                                                                He
 Died around four-eighty-three BCE at {{p|Kushinagar}}, at the age of
@@ -553,10 +553,10 @@ Community, with the {{p|Dharma}} (his teaching) as its guide. And the
 Sometimes disputing about their interpretation. Within a couple
 Of centuries of his death, {{p|Buddhism}} had begun to spread beyond
 
-Its original region. Under {{c|Emperor Ashoka}} in the third century
+Its original region. Under {{c|2319|Emperor Ashoka}} in the third century
 BCE—a {{p|Mauryan}} ruler who converted to {{p|Buddhism}} after the
 Horrors of the {{p|Kalinga War}}—{{p|Buddhism}} became effectively the state
-Religion of most of the {{p|Indian}} subcontinent. {{c|Ashoka}} sent missions
+Religion of most of the {{p|Indian}} subcontinent. {{c|2320|Ashoka}} sent missions
 
 Westward to the {{p|Hellenistic}} world, southward to {{p|Sri Lanka}},
 Eastward toward {{p|Southeast Asia}}, and likely northward across the
@@ -570,8 +570,8 @@ Of {{p|Sri Lanka}} and {{p|Southeast Asia}}, the {{p|Mahayana}} of {{p|Central A
 
 Textual traditions, ritual practices, and philosophical doctrines.
 {{p|Buddhism}} would eventually decline in {{p|India}} itself, partly
-Absorbed back into {{p|Hindu}} traditions (with the {{c|Buddha}} reimagined
-As an avatar of {{c|Vishnu}}), partly disrupted by {{p|Islamic}} conquests
+Absorbed back into {{p|Hindu}} traditions (with the {{c|1959|Buddha}} reimagined
+As an avatar of {{c|2072|Vishnu}}), partly disrupted by {{p|Islamic}} conquests
 
 That destroyed major {{p|Buddhist}} centers like {{p|Nalanda}} university
 In the twelfth century CE. But by that time, {{p|Buddhism}} was firmly
@@ -581,13 +581,13 @@ Civilizational force to this day. Some five hundred million
 {{p|Buddhists}} now live worldwide, with major populations in {{p|China}},
 {{p|Japan}}, {{p|Korea}}, {{p|Thailand}}, {{p|Myanmar}}, {{p|Sri Lanka}}, {{p|Cambodia}}, {{p|Laos}},
 {{p|Vietnam}}, {{p|Tibet}}, {{p|Mongolia}}, and—increasingly since the twentieth
-Century—{{p|Western}} countries. The {{c|Buddha}}'s teaching, which began
+Century—{{p|Western}} countries. The {{c|1959|Buddha}}'s teaching, which began
 
 As the reflection of a single wandering ascetic under a fig tree,
 Has become one of the most widely practiced religions in the world.
 
                                                                     And
-The {{x|Gaiad}} honors the {{c|Buddha}} as one of the supreme figures of the
+The {{x|Gaiad}} honors the {{c|1959|Buddha}} as one of the supreme figures of the
 
 {{x|Axial Age}}. His insights into the nature of suffering and its
 Causes, his articulation of ethical conduct, his recognition of
@@ -596,12 +596,12 @@ Caste or class in access to liberation—these are among the most
 
 Profound contributions to human understanding ever made. The
 {{p|Buddhist}} tradition has produced some of the greatest philosophers
-In human history—{{c|Nagarjuna}}, {{c|Vasubandhu}}, {{c|Asanga}}, {{c|Dogen}},
-{{c|Hui-neng}}, {{c|Chandrakirti}}, {{c|Dharmakirti}}—whose subtle explorations
+In human history—{{c|2321|Nagarjuna}}, {{c|2322|Vasubandhu}}, {{c|2323|Asanga}}, {{c|2324|Dogen}},
+{{c|2325|Hui-neng}}, {{c|2326|Chandrakirti}}, {{c|2327|Dharmakirti}}—whose subtle explorations
 
 Of consciousness, emptiness, and causation rival anything in
 Western philosophy. The {{p|Buddhist}} contemplative traditions—the
-Various schools of meditation that trace back to the {{c|Buddha}}'s
+Various schools of meditation that trace back to the {{c|1959|Buddha}}'s
 Own practice—have produced detailed empirical investigations of
 
 The mind that are now being integrated with {{p|Western}} psychology
@@ -618,10 +618,10 @@ Diverse, and enormously rich. And it all traces back to the
 Young prince who left his palace and sat under the fig tree and
 Found the middle way.
 
-                         One more point worth making. The {{c|Buddha}}'s
+                         One more point worth making. The {{c|1959|Buddha}}'s
 Teaching is often contrasted with monotheistic traditions on the
 Question of divine existence. {{p|Buddhism}} is sometimes described as
-Atheistic, because the {{c|Buddha}} did not affirm a creator god and
+Atheistic, because the {{c|1959|Buddha}} did not affirm a creator god and
 Because {{p|Buddhist}} practice does not depend on relationship with
 
 Such a god. But the reality is more nuanced. {{p|Buddhism}} acknowledges
@@ -630,7 +630,7 @@ Heavenly realms of the {{p|Buddhist}} cosmology. These gods are
 Long-lived and powerful but they are still subject to the cycle
 
 Of rebirth and, like humans, must eventually work out their own
-Liberation. The {{c|Buddha}} is above them in spiritual attainment
+Liberation. The {{c|1959|Buddha}} is above them in spiritual attainment
 Because he has achieved liberation while they have not. The
 {{p|Buddhist}} position is not atheism but a refusal to grant ultimate
 
@@ -647,11 +647,11 @@ Compatible articulation of a non-dogmatic, non-imperialist religious
 Orientation. {{p|Buddhism}} and the {{x|Gaiad}}'s own vision are not the
 Same, but they share family resemblances.
 
-                                              {{c|Siddhartha Gautama}}. The
+                                              {{c|2304|Siddhartha Gautama}}. The
 Prince who left his palace. The ascetic who rejected both luxury
 
 And self-torture. The seeker under the fig tree at {{p|Bodh Gaya}}.
-The {{c|Buddha}} who saw the {{p|Four Noble Truths}}. The teacher of the
+The {{c|1959|Buddha}} who saw the {{p|Four Noble Truths}}. The teacher of the
 {{p|Eightfold Path}}. The founder of the {{p|sangha}}. The wanderer who
 Taught for forty-five years. The one who died at {{p|Kushinagar}}
 
@@ -660,7 +660,7 @@ Left no writings, no institution beyond the community, no
 Successor—and yet whose teaching spread across a continent and
 A world.
 
-            {{c|Buddha}}. One of the supreme sons of the {{x|Axial Age}}.
+            {{c|1959|Buddha}}. One of the supreme sons of the {{x|Axial Age}}.
 The one who showed that liberation from suffering was accessible
 Through disciplined practice rather than through priestly mediation
 Or ecstatic grace. The one whose compassion extended to all
@@ -669,7 +669,7 @@ Sentient beings without distinction of caste or species. The one
 Whose teaching is, still today, a living path for hundreds of
 Millions.
 
-             The {{c|Buddha}}. Awakened one.
+             The {{c|1959|Buddha}}. Awakened one.
 
 
 # Chapter 171: The Mahabharata
@@ -697,17 +697,17 @@ Entirely. This chapter of the {{x|Gaiad}} will treat the {{p|Mahabharata}}
 In the same way the previous chapter treated the {{p|Ramayana}}: as
 A singular event in the history of human narrative imagination,
 Worthy of extended contemplation, standing at the center of
-{{p|Indian}} civilization as {{c|Homer}} stands at the center of {{p|Greek}}
+{{p|Indian}} civilization as {{c|1957|Homer}} stands at the center of {{p|Greek}}
 
 Civilization.
 
-                  The traditional author is {{c|Vyasa}}—literally "the
+                  The traditional author is {{c|2328|Vyasa}}—literally "the
 Compiler"—a sage who is also a character in the epic itself.
-Within the narrative, {{c|Vyasa}} is the biological grandfather of the
+Within the narrative, {{c|2328|Vyasa}} is the biological grandfather of the
 
-Main protagonists: he is the father of {{c|Dhritarashtra}}, {{c|Pandu}}, and
-{{c|Vidura}}, whose lines generate the {{p|Kauravas}} and {{p|Pandavas}} whose
-Conflict is the epic's central action. {{c|Vyasa}} witnesses the events
+Main protagonists: he is the father of {{c|2329|Dhritarashtra}}, {{c|2330|Pandu}}, and
+{{c|2331|Vidura}}, whose lines generate the {{p|Kauravas}} and {{p|Pandavas}} whose
+Conflict is the epic's central action. {{c|2328|Vyasa}} witnesses the events
 He then recounts. This recursive structure—in which the author is
 
 Both teller and participant—is characteristic of the {{p|Mahabharata}}'s
@@ -722,47 +722,47 @@ Until it reached something like its final form around four-hundred
 
 CE. Its compositional history is as complex as any text in world
 Literature. But traditional {{p|Hindu}} attribution gives the work to
-{{c|Vyasa}}, and the {{x|Gaiad}} will use this convention for narrative ease.
+{{c|2328|Vyasa}}, and the {{x|Gaiad}} will use this convention for narrative ease.
 
 The core story. The {{p|Kuru}} dynasty, ruling from {{p|Hastinapura}} near
 What is now {{p|Delhi}}, is split between two branches of cousins: the
-{{p|Pandavas}}, five brothers born to {{c|Pandu}}; and the {{p|Kauravas}}, one
-Hundred brothers born to {{c|Dhritarashtra}}. Both groups have legitimate
+{{p|Pandavas}}, five brothers born to {{c|2330|Pandu}}; and the {{p|Kauravas}}, one
+Hundred brothers born to {{c|2329|Dhritarashtra}}. Both groups have legitimate
 
-Claims to the throne—{{c|Dhritarashtra}} was born first but is blind,
-Which disqualifies him; {{c|Pandu}} therefore became king but died
-Young. Now {{c|Dhritarashtra}} rules as regent for the generation of
-Cousins, and tensions escalate between his son {{c|Duryodhana}} (the
+Claims to the throne—{{c|2329|Dhritarashtra}} was born first but is blind,
+Which disqualifies him; {{c|2330|Pandu}} therefore became king but died
+Young. Now {{c|2329|Dhritarashtra}} rules as regent for the generation of
+Cousins, and tensions escalate between his son {{c|2332|Duryodhana}} (the
 
-Eldest {{p|Kaurava}}) and {{c|Yudhishthira}} (the eldest {{p|Pandava}}). The five
-{{p|Pandava}} brothers are {{c|Yudhishthira}} (dharma-embodied, righteous,
-The future rightful king), {{c|Bhima}} (enormously strong, impulsive,
-Loyal), {{c|Arjuna}} (the greatest archer, a warrior of unmatched
+Eldest {{p|Kaurava}}) and {{c|2124|Yudhishthira}} (the eldest {{p|Pandava}}). The five
+{{p|Pandava}} brothers are {{c|2124|Yudhishthira}} (dharma-embodied, righteous,
+The future rightful king), {{c|2333|Bhima}} (enormously strong, impulsive,
+Loyal), {{c|2334|Arjuna}} (the greatest archer, a warrior of unmatched
 
-Skill), {{c|Nakula}} and {{c|Sahadeva}} (twins, handsome, skilled in various
-Arts). They share a single wife, {{c|Draupadi}}, who is won by
-{{c|Arjuna}} in an archery contest and, through an unusual misunderstanding
-Involving their mother {{c|Kunti}}, becomes wife to all five brothers.
+Skill), {{c|2335|Nakula}} and {{c|2336|Sahadeva}} (twins, handsome, skilled in various
+Arts). They share a single wife, {{c|2337|Draupadi}}, who is won by
+{{c|2334|Arjuna}} in an archery contest and, through an unusual misunderstanding
+Involving their mother {{c|2338|Kunti}}, becomes wife to all five brothers.
 
 This polyandrous marriage is one of the most famously anomalous
 Features of the {{p|Mahabharata}}—it fits no standard {{p|Indian}} cultural
 Pattern, and its presence in the epic has generated endless
-Interpretation. The hundred {{p|Kauravas}}, led by {{c|Duryodhana}}, envy
+Interpretation. The hundred {{p|Kauravas}}, led by {{c|2332|Duryodhana}}, envy
 
 And resent the {{p|Pandavas}}. A series of attempts on {{p|Pandava}} lives
 Ensue—a house of lac built to be burned around them, from which
 They barely escape; a poisoned sweet; various ambushes. The
-{{p|Pandavas}} survive. Then comes the fatal dice game. {{c|Duryodhana}},
+{{p|Pandavas}} survive. Then comes the fatal dice game. {{c|2332|Duryodhana}},
 
-With the aid of his uncle {{c|Shakuni}}, a skilled player with loaded
-Dice, invites {{c|Yudhishthira}} to a gambling match. {{c|Yudhishthira}},
+With the aid of his uncle {{c|2339|Shakuni}}, a skilled player with loaded
+Dice, invites {{c|2124|Yudhishthira}} to a gambling match. {{c|2124|Yudhishthira}},
 Addicted to dice-play but committed to playing when invited,
 Loses everything: his kingdom, his wealth, his brothers' freedom,
 
-His own freedom, and finally {{c|Draupadi}} herself. She is dragged
+His own freedom, and finally {{c|2337|Draupadi}} herself. She is dragged
 Into the assembly hall, where the {{p|Kauravas}} attempt to strip her
 Publicly—an act of extreme humiliation. At the last moment, the
-God {{c|Krishna}} miraculously extends her sari to infinite length
+God {{c|2340|Krishna}} miraculously extends her sari to infinite length
 
 So she cannot be disrobed. Her honor is preserved, but the
 Humiliation is never forgotten. Eventually a compromise is reached:
@@ -770,31 +770,31 @@ The {{p|Pandavas}} will go into exile for twelve years, plus a
 Thirteenth year in which they must remain incognito. If they
 
 Complete this exile successfully, they will recover their kingdom.
-They complete it. But {{c|Duryodhana}} refuses to honor the agreement.
+They complete it. But {{c|2332|Duryodhana}} refuses to honor the agreement.
 He will not give back their kingdom. War becomes inevitable. The
 Great {{p|Kurukshetra War}}—the climactic event of the epic—is fought
 
 Between the {{p|Pandava}} and {{p|Kaurava}} coalitions over eighteen days.
 Every major ruling house of {{p|Indian}} civilization takes sides. The
 Carnage is apocalyptic. By the end, almost every major warrior is
-Dead. {{c|Duryodhana}}, mortally wounded, lies dying on the battlefield.
+Dead. {{c|2332|Duryodhana}}, mortally wounded, lies dying on the battlefield.
 
 All his brothers are dead. Most of the great teachers and heroes
 Are dead. The victorious {{p|Pandavas}}, who have won but at unbearable
 Cost, are left to survey a field of corpses that includes their
-Uncles, cousins, teachers, friends. {{c|Yudhishthira}} is crowned king.
+Uncles, cousins, teachers, friends. {{c|2124|Yudhishthira}} is crowned king.
 
 But the victory is ashes. He reigns for thirty-six years, then
-Abdicates and walks with his brothers and {{c|Draupadi}} toward the
+Abdicates and walks with his brothers and {{c|2337|Draupadi}} toward the
 {{p|Himalayas}} in a final pilgrimage to death. One by one they fall,
-Until only {{c|Yudhishthira}} and a dog that has accompanied them
+Until only {{c|2124|Yudhishthira}} and a dog that has accompanied them
 
 Reach the peak. The dog, it turns out, is the god of dharma
-Testing {{c|Yudhishthira}}. He passes the test by refusing to abandon
+Testing {{c|2124|Yudhishthira}}. He passes the test by refusing to abandon
 The dog. He enters heaven. The epic ends with the soul-wrenching
-Final passages in which {{c|Yudhishthira}} faces the moral ambiguity
+Final passages in which {{c|2124|Yudhishthira}} faces the moral ambiguity
 
-Of finding {{c|Duryodhana}} in heaven and his virtuous kinsmen
+Of finding {{c|2332|Duryodhana}} in heaven and his virtuous kinsmen
 Apparently in hell—a revelation that turns out to be a final test
 Of his equanimity. Reality is more complex than moral categories
 Allow. The {{p|Mahabharata}}'s final word is not triumphant vindication
@@ -808,42 +808,42 @@ The {{p|Mahabharata}} ends with ambiguity. Both endings carry deep
 Wisdom.
 
           At the center of the epic, just before the battle begins,
-Comes the {{p|Bhagavad Gita}}—"the {{x|Song of the Lord}}." {{c|Arjuna}}, looking
+Comes the {{p|Bhagavad Gita}}—"the {{x|Song of the Lord}}." {{c|2334|Arjuna}}, looking
 
 Across the battlefield at his cousins, his teachers, his kinsmen,
 Is overcome by despair. How can he fight? How can he kill these
 People he loves? His grief paralyzes him. He sinks down in his
 Chariot, unwilling to fight. His charioteer—who is in fact the god
 
-{{c|Krishna}}, an avatar of {{c|Vishnu}} serving voluntarily as {{c|Arjuna}}'s
+{{c|2340|Krishna}}, an avatar of {{c|2072|Vishnu}} serving voluntarily as {{c|2334|Arjuna}}'s
 Driver—engages him in dialogue. Over seven hundred verses,
-{{c|Krishna}} instructs {{c|Arjuna}} on the deepest principles of {{p|Hindu}}
-Philosophy. The body dies but the soul does not; what {{c|Arjuna}}
+{{c|2340|Krishna}} instructs {{c|2334|Arjuna}} on the deepest principles of {{p|Hindu}}
+Philosophy. The body dies but the soul does not; what {{c|2334|Arjuna}}
 
 Thinks he is killing is only the body, and the soul passes on.
 Action in the world is necessary, but it must be performed
 Without attachment to the fruits of action—performed as an offering
-To {{c|Krishna}}, without grasping for reward or avoiding loss. The
+To {{c|2340|Krishna}}, without grasping for reward or avoiding loss. The
 
 Three paths to liberation are {{p|karma yoga}} (the path of action),
 {{p|jnana yoga}} (the path of knowledge), and {{p|bhakti yoga}} (the path of
 Devotion); all three are legitimate, and the {{p|Gita}} harmonizes them
-Rather than privileging one. {{c|Krishna}} reveals his full divine form
+Rather than privileging one. {{c|2340|Krishna}} reveals his full divine form
 
-Briefly to {{c|Arjuna}}, a vision so overwhelming that {{c|Arjuna}} can
+Briefly to {{c|2334|Arjuna}}, a vision so overwhelming that {{c|2334|Arjuna}} can
 Barely endure it—the god containing all worlds, all beings, all
 Times in himself; devouring warriors past, present, and future;
 The source from which all things emerge and to which all things
 
-Return. And {{c|Arjuna}}, after this vision, is restored to action. He
+Return. And {{c|2334|Arjuna}}, after this vision, is restored to action. He
 Takes up his bow. The battle begins. This discourse—the {{p|Bhagavad Gita}}—
 Is a philosophical and religious text of extraordinary power. It
-Has been read and commented on for two millennia. {{c|Shankara}}, {{c|Ramanuja}},
+Has been read and commented on for two millennia. {{c|2341|Shankara}}, {{c|2342|Ramanuja}},
 
-{{c|Madhva}}, and the other great classical {{p|Hindu}} philosophers each
-Wrote major commentaries on it. In the modern period, {{c|Gandhi}}
+{{c|2343|Madhva}}, and the other great classical {{p|Hindu}} philosophers each
+Wrote major commentaries on it. In the modern period, {{c|2344|Gandhi}}
 Carried a copy with him constantly and considered it his spiritual
-Guide. {{c|Thoreau}} and {{c|Emerson}} read it with wonder. {{c|Oppenheimer}}
+Guide. {{c|2345|Thoreau}} and {{c|2346|Emerson}} read it with wonder. {{c|2347|Oppenheimer}}
 
 Quoted from it at the first atomic test: "Now I am become Death,
 Destroyer of worlds." Its influence on modern religious and
@@ -861,7 +861,7 @@ Has valued.
                  The {{p|Mahabharata}} treats {{p|dharma}}—righteous duty—
 As its central concern. But it treats dharma in a much more
 
-Complicated way than the {{p|Ramayana}} does. The {{p|Ramayana}}'s {{c|Rama}}
+Complicated way than the {{p|Ramayana}} does. The {{p|Ramayana}}'s {{c|2009|Rama}}
 Embodies dharma with apparent simplicity: he always knows what
 The right thing is and does it. The {{p|Mahabharata}}'s protagonists
 Are not so clear. They face situations in which the right course
@@ -869,19 +869,19 @@ Are not so clear. They face situations in which the right course
 Of action is obscure, in which multiple dharmic obligations
 Conflict, in which any choice produces some evil. This is called
 {{p|dharmasankata}}, "the crisis of dharma," and the {{p|Mahabharata}} is
-Full of it. Should {{c|Yudhishthira}} tell a lie that will win the
+Full of it. Should {{c|2124|Yudhishthira}} tell a lie that will win the
 
-War? ({{c|Krishna}} urges him to.) Should {{c|Arjuna}} fight his teachers
-And kinsmen? ({{c|Krishna}} tells him yes.) Should {{c|Karna}}—who is
+War? ({{c|2340|Krishna}} urges him to.) Should {{c|2334|Arjuna}} fight his teachers
+And kinsmen? ({{c|2340|Krishna}} tells him yes.) Should {{c|2348|Karna}}—who is
 Actually a {{p|Pandava}} by birth but was raised among {{p|Kauravas}}—side
 With his biological brothers or with the benefactor who raised
 
-Him? (He chooses his benefactor, at tragic cost.) Should {{c|Bhishma}},
+Him? (He chooses his benefactor, at tragic cost.) Should {{c|2349|Bhishma}},
 The grand old patriarch of the {{p|Kuru}} dynasty, fight against the
 {{p|Pandavas}} whom he loves, because his oath of loyalty requires him
 To fight for whoever holds the throne of {{p|Hastinapura}}? (He does,
 
-And is killed by {{c|Arjuna}}.) The {{p|Mahabharata}} is full of such moral
+And is killed by {{c|2334|Arjuna}}.) The {{p|Mahabharata}} is full of such moral
 Conundrums. It refuses to give easy answers. It shows dharma as
 A genuinely difficult problem, subject to interpretation,
 Contextual, and sometimes tragic. This is why it has remained so
@@ -891,9 +891,9 @@ It material for its own ethical reflection. Every commentator
 Finds a new angle. Every adaptation brings out different themes.
 The text is inexhaustible.
 
-                               And consider its theology. {{c|Krishna}},
+                               And consider its theology. {{c|2340|Krishna}},
 Who appears as a character throughout the {{p|Mahabharata}} and
-Centrally in the {{p|Bhagavad Gita}}, is an avatar of {{c|Vishnu}}—a
+Centrally in the {{p|Bhagavad Gita}}, is an avatar of {{c|2072|Vishnu}}—a
 Descent of the supreme god into human form to participate in the
 
 Historical drama. He is simultaneously fully human (with emotions,
@@ -902,16 +902,16 @@ Of miraculous interventions, possessor of cosmic knowledge,
 Embodying the absolute). This doctrine of {{p|avatar}} ("descent")
 
 Is one of the central features of {{p|Vaishnava}} {{p|Hindu}} theology.
-{{c|Vishnu}} descends to earth periodically when cosmic order ({{p|dharma}})
+{{c|2072|Vishnu}} descends to earth periodically when cosmic order ({{p|dharma}})
 Is threatened, to restore balance. Ten major {{p|avatars}} are
-Traditionally recognized: the fish ({{c|Matsya}}), the tortoise ({{c|Kurma}}),
+Traditionally recognized: the fish ({{c|1550|Matsya}}), the tortoise ({{c|2350|Kurma}}),
 
-The boar ({{c|Varaha}}), the man-lion ({{c|Narasimha}}), the dwarf ({{c|Vamana}}),
-{{c|Parashurama}}, {{c|Rama}} (of the {{p|Ramayana}}), {{c|Krishna}} (of the {{p|Mahabharata}}
+The boar ({{c|2351|Varaha}}), the man-lion ({{c|2352|Narasimha}}), the dwarf ({{c|2353|Vamana}}),
+{{c|2354|Parashurama}}, {{c|2009|Rama}} (of the {{p|Ramayana}}), {{c|2340|Krishna}} (of the {{p|Mahabharata}}
 And separately of the {{p|Bhagavata Purana}}'s stories of his childhood),
-The {{c|Buddha}} (included here as an avatar, a classic {{p|Hindu}} move to
+The {{c|1959|Buddha}} (included here as an avatar, a classic {{p|Hindu}} move to
 
-Absorb {{p|Buddhism}} into the {{p|Vaishnava}} framework), and {{c|Kalki}} (the
+Absorb {{p|Buddhism}} into the {{p|Vaishnava}} framework), and {{c|2355|Kalki}} (the
 Future avatar who will appear at the end of the current dark age).
 Each avatar embodies divine engagement with human history. Each
 Represents a different form divine action can take. And the {{p|avatar}}
@@ -935,7 +935,7 @@ Amounts of philosophical, religious, and practical content. The
 {{p|Shanti Parva}} ("{{x|Book of Peace}}") and the {{p|Anushasana Parva}} ("Book
 Of Instruction")—two of the epic's eighteen books—are essentially
 Compendia of moral and philosophical teaching delivered by the
-Dying {{c|Bhishma}} to {{c|Yudhishthira}} about kingship, dharma, and
+Dying {{c|2349|Bhishma}} to {{c|2124|Yudhishthira}} about kingship, dharma, and
 
 The good life. These sections alone are as long as major classical
 {{p|Indian}} philosophical texts and contain substantial treatments of
@@ -960,18 +960,18 @@ Not a dead classical text. It is a living cultural substance that
 
 Wisdom. The {{p|Bhagavad Gita}} is, for many {{p|Hindus}}, a daily spiritual
 Companion. For all {{p|Hindus}}, the {{p|Mahabharata}}'s characters are
-Familiar as family members—the dharmic {{c|Yudhishthira}}, the mighty
-{{c|Bhima}}, the pure warrior {{c|Arjuna}}, the tragic {{c|Karna}}, the scheming
+Familiar as family members—the dharmic {{c|2124|Yudhishthira}}, the mighty
+{{c|2333|Bhima}}, the pure warrior {{c|2334|Arjuna}}, the tragic {{c|2348|Karna}}, the scheming
 
-{{c|Shakuni}}, the proud {{c|Duryodhana}}, the suffering {{c|Draupadi}}, the
-Wise {{c|Krishna}}, the oath-bound {{c|Bhishma}}. These figures populate
-The moral imagination of {{p|Indian}} civilization as {{c|Achilles}}, {{c|Hector}},
-{{c|Odysseus}}, and {{c|Agamemnon}} populate the moral imagination of the
+{{c|2339|Shakuni}}, the proud {{c|2332|Duryodhana}}, the suffering {{c|2337|Draupadi}}, the
+Wise {{c|2340|Krishna}}, the oath-bound {{c|2349|Bhishma}}. These figures populate
+The moral imagination of {{p|Indian}} civilization as {{c|2110|Achilles}}, {{c|2111|Hector}},
+{{c|2112|Odysseus}}, and {{c|1337|Agamemnon}} populate the moral imagination of the
 
 Classical {{p|Mediterranean}}. Except the {{p|Mahabharata}}'s characters are
 More psychologically complex, the moral situations more ambiguous,
 The philosophical depth greater, the span of narrative time and
-Thematic concern vaster. If {{c|Homer}}'s {{p|Iliad}} is the foundational
+Thematic concern vaster. If {{c|1957|Homer}}'s {{p|Iliad}} is the foundational
 
 {{p|Greek}} text, the {{p|Mahabharata}} is the {{p|Indian}} equivalent raised to
 A higher power. It is not just a great epic. It is the epic of
@@ -990,8 +990,8 @@ Claims, fight an annihilating war that destroys most of the
 
 Aristocratic class. The aftermath is not triumphant but mournful.
 Both epics end with death and reflection rather than with
-Victorious celebration. The {{p|Iliad}} closes with {{c|Priam}} ransoming
-{{c|Hector}}'s body; the {{p|Mahabharata}} closes with {{c|Yudhishthira}}'s
+Victorious celebration. The {{p|Iliad}} closes with {{c|2356|Priam}} ransoming
+{{c|2111|Hector}}'s body; the {{p|Mahabharata}} closes with {{c|2124|Yudhishthira}}'s
 
 Pilgrimage of death. Both are, fundamentally, works about the cost
 Of heroic warfare and the moral ambiguity of human glory. The
@@ -1001,13 +1001,13 @@ Geographical spread, two of the supreme literary meditations on
 The price of greatness.
 
                               The {{p|Mahabharata}}. {{p|Kurukshetra}}. The
-{{p|Pandavas}} and the {{p|Kauravas}}. {{c|Yudhishthira}}, {{c|Bhima}}, {{c|Arjuna}},
-{{c|Nakula}}, {{c|Sahadeva}}. {{c|Draupadi}}. {{c|Duryodhana}} and the hundred brothers.
+{{p|Pandavas}} and the {{p|Kauravas}}. {{c|2124|Yudhishthira}}, {{c|2333|Bhima}}, {{c|2334|Arjuna}},
+{{c|2335|Nakula}}, {{c|2336|Sahadeva}}. {{c|2337|Draupadi}}. {{c|2332|Duryodhana}} and the hundred brothers.
 
-{{c|Bhishma}} on his bed of arrows. {{c|Karna}} the unrecognized brother.
-{{c|Krishna}} the divine charioteer. The {{p|Bhagavad Gita}} at the heart of
+{{c|2349|Bhishma}} on his bed of arrows. {{c|2348|Karna}} the unrecognized brother.
+{{c|2340|Krishna}} the divine charioteer. The {{p|Bhagavad Gita}} at the heart of
 The battle. The {{p|dharmasankata}}—the crisis of dharma—woven through
-Every decision. The cosmic vision of {{c|Krishna}}'s true form.
+Every decision. The cosmic vision of {{c|2340|Krishna}}'s true form.
 
 The hundred thousand verses. The longest poem in the world. The
 Epic of an entire civilization.
@@ -1021,14 +1021,14 @@ For twenty-five hundred years.
 # Chapter 172: Classical Greece, Part Two
 
 Return now to {{p|Greece}}, where we left it at the end of the
-{{p|Persian Wars}}. The invasions of {{c|Darius}} and {{c|Xerxes}} have been
+{{p|Persian Wars}}. The invasions of {{c|2287|Darius}} and {{c|1985|Xerxes}} have been
 Defeated. The {{p|Greek}} city-states, against unreasonable odds, have
 Preserved their independence. And now, in the victorious glow,
 
 {{p|Athens}} rises to a cultural ascendancy the world had not seen
 Before and has rarely matched since. The fifth century BCE. The
-Age of {{c|Pericles}}. The age of the great tragedians. The age of the
-{{c|Sophists}} and {{c|Socrates}}. The age in which democracy, drama,
+Age of {{c|2231|Pericles}}. The age of the great tragedians. The age of the
+{{c|2357|Sophists}} and {{c|2232|Socrates}}. The age in which democracy, drama,
 
 Philosophy, and history became what they have remained.
 
@@ -1037,7 +1037,7 @@ Emerged from the {{p|Persian Wars}} with enormous prestige. The naval
 Victory at {{p|Salamis}} had been principally an {{p|Athenian}} victory—the
 
 {{p|Athenian}} fleet was the largest contingent, commanded by the
-{{p|Athenian}} {{c|Themistocles}}. {{p|Athens}} also had the distinction of being
+{{p|Athenian}} {{c|2246|Themistocles}}. {{p|Athens}} also had the distinction of being
 The only major {{p|Greek}} city that had been physically destroyed by
 The {{p|Persians}} (their first acts on return were to rebuild their
 
@@ -1076,7 +1076,7 @@ Experienced the most concentrated cultural efflorescence the
 World had yet seen. The democratic constitution, reformed and
 Extended, reached its most developed form under the leadership
 
-Of {{c|Pericles}}. Male citizens—perhaps fifty thousand in a city of
+Of {{c|2231|Pericles}}. Male citizens—perhaps fifty thousand in a city of
 Perhaps three hundred thousand total inhabitants—participated
 Directly in the {{x|Assembly}}, served on juries, held public office
 By lot. The {{x|Assembly}} met regularly on the {{p|Pnyx}} hill, where any
@@ -1088,17 +1088,17 @@ Hundreds strong. Financial oversight, foreign policy, military
 
 Strategy—all these were debated in public assembly and decided
 By majority vote. The system was radical and, by the standards
-Of most human political systems, surprisingly stable. {{c|Pericles}}
+Of most human political systems, surprisingly stable. {{c|2231|Pericles}}
 Himself was elected general ({{p|strategos}}) year after year for
 
 Decades, giving him continuous leadership despite the formal
 Constraints of democracy. His funeral oration for {{p|Athenian}} war
-Dead, preserved by {{c|Thucydides}} (possibly in reconstructed form),
+Dead, preserved by {{c|2228|Thucydides}} (possibly in reconstructed form),
 Is one of the supreme articulations of democratic ideology ever
 
 Composed. "Our constitution is called a democracy because power
 Is in the hands not of a minority but of the whole people." The
-{{c|Periclean}} vision was of a city in which free citizens, governed
+{{c|2358|Periclean}} vision was of a city in which free citizens, governed
 By laws they themselves had made, engaged openly in public life,
 
 Celebrated beauty and culture, and defended their freedom against
@@ -1123,93 +1123,93 @@ Plays that would be performed once and (if they were lucky)
 Awarded a prize. The competitive structure produced extraordinary
 
 Artistic energy. Out of this system came the three great tragedians
-Whose work survives: {{c|Aeschylus}}, {{c|Sophocles}}, and {{c|Euripides}}. Each
+Whose work survives: {{c|2224|Aeschylus}}, {{c|2225|Sophocles}}, and {{c|2226|Euripides}}. Each
 Represents a different stage and sensibility in the development
-Of {{p|Greek}} drama. {{c|Aeschylus}} (five-twenty-five to four-fifty-six
+Of {{p|Greek}} drama. {{c|2224|Aeschylus}} (five-twenty-five to four-fifty-six
 
 BCE), the earliest, wrote plays of mythic grandeur in which the
 Characters are larger than life and the themes cosmic. His
 {{p|Oresteia}} trilogy—{{p|Agamemnon}}, {{p|Libation Bearers}}, {{p|Eumenides}}—
 Is the only complete tragic trilogy to survive from antiquity.
 
-It tells the story of the {{p|House of Atreus}}: {{c|Agamemnon}}'s return
-From {{p|Troy}}, his murder by his wife {{c|Clytemnestra}}, the revenge of
-Their son {{c|Orestes}}, and finally the trial of {{c|Orestes}} before a
-Court established by the goddess {{c|Athena}} to resolve the blood-
+It tells the story of the {{p|House of Atreus}}: {{c|1337|Agamemnon}}'s return
+From {{p|Troy}}, his murder by his wife {{c|1336|Clytemnestra}}, the revenge of
+Their son {{c|2359|Orestes}}, and finally the trial of {{c|2359|Orestes}} before a
+Court established by the goddess {{c|1995|Athena}} to resolve the blood-
 
 Vengeance cycle. The trilogy ends with the transformation of the
-{{c|Furies}} into the {{c|Eumenides}} ("the kindly ones"), marking the
+{{c|2360|Furies}} into the {{c|2361|Eumenides}} ("the kindly ones"), marking the
 Founding of civic justice to replace tribal revenge. It is a
 Meditation on the evolution of human civilization itself, from
 
-Primal retribution to institutional law. {{c|Sophocles}} (four-ninety-six
+Primal retribution to institutional law. {{c|2225|Sophocles}} (four-ninety-six
 To four-oh-six BCE), the middle tragedian, wrote plays in which
 Individual characters of extraordinary moral weight struggle
 Against inexorable fate. His seven surviving plays include
 
 {{p|Oedipus Rex}}, {{p|Oedipus at Colonus}}, {{p|Antigone}}, and {{p|Electra}}. The
-Figure of {{c|Oedipus}}—the king who solved the riddle of the {{c|Sphinx}}
+Figure of {{c|2362|Oedipus}}—the king who solved the riddle of the {{c|2363|Sphinx}}
 But was blind to the riddle of his own life, who had murdered
 His father and married his mother without knowing it, who
 
 Discovered the truth and blinded himself in horror—is one of the
-Permanent archetypes of {{p|Western}} tragedy. {{c|Sigmund Freud}} would,
-In the twentieth century CE, adopt {{c|Oedipus}}'s name for the
+Permanent archetypes of {{p|Western}} tragedy. {{c|2364|Sigmund Freud}} would,
+In the twentieth century CE, adopt {{c|2362|Oedipus}}'s name for the
 Central complex of his psychological theory. The figure is that
 
-Powerful. {{c|Antigone}}, who defies the king's decree in order to
+Powerful. {{c|2365|Antigone}}, who defies the king's decree in order to
 Bury her brother according to divine law, embodies the conflict
 Between political authority and moral conscience in a form that
 Has never been surpassed. She is one of the great heroes of
 
 Civil disobedience, an ancestor of every subsequent figure who
 Has insisted that there is a higher law than the law of the state.
-{{c|Euripides}} (four-eighty to four-oh-six BCE), the youngest, wrote
+{{c|2226|Euripides}} (four-eighty to four-oh-six BCE), the youngest, wrote
 Plays that were more psychologically modern, more skeptical of
 
 Traditional values, more concerned with the suffering of marginal
 Characters—women, slaves, the defeated. His {{p|Medea}}, {{p|Bacchae}},
 {{p|Trojan Women}}, and {{p|Hippolytus}} are harrowing examinations of
-Human passion and institutional violence. {{c|Euripides}} was less
+Human passion and institutional violence. {{c|2226|Euripides}} was less
 
-Popular in his own time than {{c|Sophocles}} but came to be regarded
+Popular in his own time than {{c|2225|Sophocles}} but came to be regarded
 In later antiquity as perhaps the greatest of the three. His
 Willingness to show ugly emotions, to question pieties, to give
 Voice to the voiceless, made him a model for subsequent dramatic
 
 Traditions. Together, these three playwrights established the
-Terms of tragic drama. Every subsequent tragedy—{{c|Shakespeare}}'s,
-{{c|Racine}}'s, {{c|Ibsen}}'s, {{c|O'Neill}}'s—stands in relation to them. The
+Terms of tragic drama. Every subsequent tragedy—{{c|2195|Shakespeare}}'s,
+{{c|2366|Racine}}'s, {{c|2367|Ibsen}}'s, {{c|2368|O'Neill}}'s—stands in relation to them. The
 Category of tragedy itself as a literary form is their invention.
 
-And alongside tragedy, comedy. {{c|Aristophanes}} (four-forty-six to
+And alongside tragedy, comedy. {{c|2227|Aristophanes}} (four-forty-six to
 Three-eighty-six BCE) wrote comedies of savage political satire
 And bawdy humor that are as alive today as anything from antiquity.
 His {{p|Lysistrata}}, in which the women of {{p|Athens}} refuse sexual
 
 Relations with their husbands until the men stop fighting the
 {{p|Peloponnesian War}}, has been revived countless times as an
-Anti-war statement. His {{p|Clouds}} savagely mocks {{c|Socrates}} and the
-{{p|Sophists}}, presenting {{c|Socrates}} as a ridiculous charlatan floating
+Anti-war statement. His {{p|Clouds}} savagely mocks {{c|2232|Socrates}} and the
+{{p|Sophists}}, presenting {{c|2232|Socrates}} as a ridiculous charlatan floating
 
 In a basket and teaching his students to make the worse argument
-Seem better. The play is unfair to {{c|Socrates}} but brilliantly
-Funny, and {{c|Socrates}}, for what it is worth, attended the premiere
+Seem better. The play is unfair to {{c|2232|Socrates}} but brilliantly
+Funny, and {{c|2232|Socrates}}, for what it is worth, attended the premiere
 And stood up in the audience so the crowd could compare the
 
-Real philosopher to {{c|Aristophanes}}'s caricature. It is the kind
+Real philosopher to {{c|2227|Aristophanes}}'s caricature. It is the kind
 Of anecdote that captures {{p|Athens}} at its most characteristic:
 Intensely public, intellectually ferocious, with playwrights and
 Philosophers all part of the same small, argumentative city.
 
                                                                    And
-Sculpture and architecture. {{c|Phidias}}, the supreme sculptor of the
-Age, executed the {{c|Athena Parthenos}} for the {{p|Parthenon}}—a forty-
+Sculpture and architecture. {{c|2229|Phidias}}, the supreme sculptor of the
+Age, executed the {{c|2369|Athena Parthenos}} for the {{p|Parthenon}}—a forty-
 Foot gold-and-ivory statue of the goddess holding a smaller figure
 
-Of {{c|Nike}} in her hand. The statue is lost, but descriptions and
-Small replicas survive. He also sculpted the {{c|Zeus}} at {{p|Olympia}},
-One of the seven wonders of the ancient world. {{c|Phidias}}'s
+Of {{c|2370|Nike}} in her hand. The statue is lost, but descriptions and
+Small replicas survive. He also sculpted the {{c|2065|Zeus}} at {{p|Olympia}},
+One of the seven wonders of the ancient world. {{c|2229|Phidias}}'s
 Students and imitators produced much of the sculptural work that
 
 Has come to define {{p|Greek}} classical art: the balance of idealized
@@ -1217,8 +1217,8 @@ Beauty and restrained emotion, the sense of bodies as mathematically
 Perfect yet infused with vital presence. The {{p|Parthenon}} itself,
 Built on the {{p|Acropolis}} between four-forty-seven and four-thirty-two
 
-BCE under {{c|Pericles}}'s sponsorship, designed by {{c|Ictinus}} and {{c|Callicrates}}
-With sculptural supervision by {{c|Phidias}}, was the supreme
+BCE under {{c|2231|Pericles}}'s sponsorship, designed by {{c|2230|Ictinus}} and {{c|2371|Callicrates}}
+With sculptural supervision by {{c|2229|Phidias}}, was the supreme
 Architectural achievement of classical antiquity. Its Doric
 Columns, subtly curved to correct optical distortions, its
 
@@ -1232,7 +1232,7 @@ The symmetrical pediment, the mathematical harmony of proportions—
 All of this became the vocabulary of {{p|Western}} monumental building.
 Courthouses, museums, banks, legislative buildings—the form
 
-Invented by {{c|Ictinus}} on the {{p|Acropolis}} would be replicated in
+Invented by {{c|2230|Ictinus}} on the {{p|Acropolis}} would be replicated in
 {{p|Washington}}, {{p|London}}, {{p|Paris}}, and everywhere else that aspired
 To classical dignity. The {{p|Parthenon}} was not just a building. It
 Was a template.
@@ -1243,9 +1243,9 @@ The second half of the fifth century BCE, philosophy took a
 New turn. The {{p|Sophists}}—traveling teachers of rhetoric and
 
 Wisdom—came to {{p|Athens}} and offered instruction for fees. Men like
-{{c|Protagoras of Abdera}} (famous for declaring "Man is the measure
-Of all things"—a relativist proposition), {{c|Gorgias of Leontini}} (a
-Brilliant rhetorician), and {{c|Hippias of Elis}} (a polymath) taught
+{{c|2372|Protagoras of Abdera}} (famous for declaring "Man is the measure
+Of all things"—a relativist proposition), {{c|2373|Gorgias of Leontini}} (a
+Brilliant rhetorician), and {{c|2374|Hippias of Elis}} (a polymath) taught
 
 Wealthy young {{p|Athenians}} the techniques of public speaking and
 Argument that were essential for political success in the
@@ -1257,8 +1257,8 @@ Whatever you can make people accept) made them seem morally
 Dubious. Their fees made them seem mercenary. And their radical
 Philosophical positions—especially the relativism and skepticism
 
-Of {{c|Protagoras}}—challenged traditional values. Into this intellectual
-Ferment stepped {{c|Socrates}}. {{c|Socrates}} (four-seventy to three-ninety-nine
+Of {{c|2375|Protagoras}}—challenged traditional values. Into this intellectual
+Ferment stepped {{c|2232|Socrates}}. {{c|2232|Socrates}} (four-seventy to three-ninety-nine
 BCE) was an {{p|Athenian}} citizen, apparently of modest means, who
 Spent his days engaging other citizens in philosophical conversation
 
@@ -1270,7 +1270,7 @@ A kind of wisdom that his interlocutors usually lacked. His
 Method was dialogue: he would ask seemingly innocent questions
 About important topics (what is justice? what is courage? what is
 Piety?), and his interlocutors would confidently offer definitions,
-And {{c|Socrates}} would then examine those definitions until their
+And {{c|2232|Socrates}} would then examine those definitions until their
 
 Inadequacies were exposed. The interlocutor, initially confident
 Of his knowledge, would come to realize that he did not know
@@ -1280,7 +1280,7 @@ It is one of the most influential pedagogical techniques ever
 Developed. It assumes that genuine knowledge is rare, that most
 Human "knowledge" is actually uncritical opinion, and that the
 Path to real understanding requires rigorous examination of our
-Beliefs. {{c|Socrates}} took this method as a divine mission. He
+Beliefs. {{c|2232|Socrates}} took this method as a divine mission. He
 
 Believed he had been charged by the gods with the task of examining
 Himself and others, helping them to recognize their ignorance
@@ -1289,7 +1289,7 @@ This mission relentlessly for decades. In the process, he made
 
 Many enemies. The politically powerful did not enjoy being publicly
 Exposed as ignorant. The pious did not enjoy having their religious
-Assumptions questioned. In three-ninety-nine BCE, {{c|Socrates}} was
+Assumptions questioned. In three-ninety-nine BCE, {{c|2232|Socrates}} was
 Formally charged with impiety (failing to worship the proper gods
 
 And introducing new gods) and with corrupting the youth of {{p|Athens}}.
@@ -1300,7 +1300,7 @@ Philosophical mission was a gift to the city. The jury, unimpressed,
 Found him guilty. When asked what penalty he should receive, he
 Suggested that the city should honor him at public expense for
 The services he had rendered. The jury sentenced him to death by
-Hemlock. His trial and execution, described in {{c|Plato}}'s {{p|Apology}},
+Hemlock. His trial and execution, described in {{c|2376|Plato}}'s {{p|Apology}},
 
 {{p|Crito}}, and {{p|Phaedo}}, became one of the foundational narratives
 Of {{p|Western}} intellectual history. The philosopher, calmly drinking
@@ -1308,40 +1308,40 @@ Poison rather than abandoning his mission, became the archetype
 Of the thinker who will die for truth. His final words, as he
 
 Felt the hemlock's numbness climbing his legs, were reportedly
-A request that his friend {{c|Crito}} pay a small debt: "{{c|Crito}}, we
-Owe a rooster to {{c|Asclepius}}. Pay it, don't forget." A pedestrian
+A request that his friend {{c|2377|Crito}} pay a small debt: "{{c|2377|Crito}}, we
+Owe a rooster to {{c|2378|Asclepius}}. Pay it, don't forget." A pedestrian
 Comment, perhaps, but somehow perfect—the philosopher's last
 
 Thought was of a routine obligation, not of himself.
 
-                                                         {{c|Socrates}}
+                                                         {{c|2232|Socrates}}
 Wrote nothing. What we know of him comes primarily from two of
-His students: {{c|Plato}} and {{c|Xenophon}}. {{c|Plato}} (four-twenty-seven to
+His students: {{c|2376|Plato}} and {{c|2379|Xenophon}}. {{c|2376|Plato}} (four-twenty-seven to
 
 Three-forty-seven BCE) was by far the more philosophically
 Significant. He founded the {{p|Academy}}—the first institution we
 Might call a university—and wrote dozens of philosophical dialogues
-In which {{c|Socrates}} typically appears as the main speaker. The
+In which {{c|2232|Socrates}} typically appears as the main speaker. The
 
-Relationship between the historical {{c|Socrates}} and {{c|Plato}}'s literary
-{{c|Socrates}} is debated; in the earlier dialogues {{c|Plato}} probably
+Relationship between the historical {{c|2232|Socrates}} and {{c|2376|Plato}}'s literary
+{{c|2232|Socrates}} is debated; in the earlier dialogues {{c|2376|Plato}} probably
 Preserves his teacher's views, while in later dialogues he uses
-The figure of {{c|Socrates}} to present his own developed philosophy.
+The figure of {{c|2232|Socrates}} to present his own developed philosophy.
 
-{{c|Plato}}'s philosophical system—the theory of the forms, the tripartite
+{{c|2376|Plato}}'s philosophical system—the theory of the forms, the tripartite
 Soul, the philosopher-king, the immortality of the soul—is one of
 The most influential in human history. It would shape {{p|Neoplatonism}},
 {{p|Christian}} theology, {{p|Islamic}} philosophy, and countless later
 
-Intellectual movements. {{c|Alfred North Whitehead}}, in the twentieth
+Intellectual movements. {{c|2380|Alfred North Whitehead}}, in the twentieth
 Century CE, famously remarked that all subsequent {{p|Western}}
-Philosophy is "a series of footnotes to {{c|Plato}}"—an overstatement,
-But capturing something important. And {{c|Plato}}'s student {{c|Aristotle}}
+Philosophy is "a series of footnotes to {{c|2376|Plato}}"—an overstatement,
+But capturing something important. And {{c|2376|Plato}}'s student {{c|1081|Aristotle}}
 
-(Three-eighty-four to three-twenty-two BCE) would take {{c|Plato}}'s
+(Three-eighty-four to three-twenty-two BCE) would take {{c|2376|Plato}}'s
 Philosophical project in a different direction, more empirical,
 More systematic, more concerned with the study of concrete things
-Rather than abstract forms. {{c|Aristotle}}'s treatises on logic, physics,
+Rather than abstract forms. {{c|1081|Aristotle}}'s treatises on logic, physics,
 
 Biology, psychology, ethics, politics, rhetoric, and poetics would
 Define the disciplines of philosophy and science for nearly two
@@ -1350,20 +1350,20 @@ Call him simply "the Philosopher." His works, preserved and
 
 Transmitted through {{p|Byzantine}} and {{p|Arabic}} scholars, would shape
 The intellectual revival of medieval {{p|Europe}}. He would be student,
-In turn, to {{c|Alexander the Great}}—linking the philosophical tradition
-Of {{c|Socrates}} directly to the {{p|Macedonian}} conquest that would spread
+In turn, to {{c|2381|Alexander the Great}}—linking the philosophical tradition
+Of {{c|2232|Socrates}} directly to the {{p|Macedonian}} conquest that would spread
 
 {{p|Hellenistic}} culture across three continents. But we are, again,
 Getting ahead of ourselves. In the span of this chapter, the
-Classical age is still unfolding. We will return to {{c|Aristotle}} and
-{{c|Alexander}} in the next chapter.
+Classical age is still unfolding. We will return to {{c|1081|Aristotle}} and
+{{c|1982|Alexander}} in the next chapter.
 
                                    And meanwhile, the {{p|Peloponnesian War}}.
 The tensions between {{p|Athens}} and {{p|Sparta}} that had been building
 For decades finally exploded in four-thirty-one BCE. For the next
 Twenty-seven years, the {{p|Greek}} world was convulsed by war.
 
-{{c|Pericles}} died of plague in four-twenty-nine BCE, leaving {{p|Athens}}
+{{c|2231|Pericles}} died of plague in four-twenty-nine BCE, leaving {{p|Athens}}
 Without strategic leadership in the war's middle phase. {{p|Athens}}
 Made disastrous military blunders—most catastrophically the
 {{p|Sicilian Expedition}} of four-fifteen to four-thirteen BCE, in
@@ -1381,7 +1381,7 @@ Though democracy was soon restored. The {{p|Athenian}} empire ended.
 This war. The {{p|Greek}} cities would never again be so powerful or
 So creative. They would eventually fall under the rule of
 {{p|Macedon}} to the north. And while some later cultural achievements
-Would still come—{{c|Aristotle}}'s work, the {{p|Hellenistic}} diffusion
+Would still come—{{c|1081|Aristotle}}'s work, the {{p|Hellenistic}} diffusion
 
 Of {{p|Greek}} culture—the specifically classical city-state
 Civilization was over. Its distinctive creativity had been the
@@ -1396,11 +1396,11 @@ Cultural achievements than any other comparable period in human
 History. And then it was gone.
 
                                      Classical {{p|Greece}}, part two.
-The {{p|Delian League}} and the {{p|Athenian Empire}}. {{c|Pericles}}'s
-Leadership. {{c|Aeschylus}}, {{c|Sophocles}}, {{c|Euripides}}, {{c|Aristophanes}}—
+The {{p|Delian League}} and the {{p|Athenian Empire}}. {{c|2231|Pericles}}'s
+Leadership. {{c|2224|Aeschylus}}, {{c|2225|Sophocles}}, {{c|2226|Euripides}}, {{c|2227|Aristophanes}}—
 
-The great playwrights. {{c|Phidias}} and the {{p|Parthenon}}. The {{p|Sophists}}
-And {{c|Socrates}}. {{c|Plato}} and the {{p|Academy}}. {{c|Aristotle}} in the wings.
+The great playwrights. {{c|2229|Phidias}} and the {{p|Parthenon}}. The {{p|Sophists}}
+And {{c|2232|Socrates}}. {{c|2376|Plato}} and the {{p|Academy}}. {{c|1081|Aristotle}} in the wings.
 The {{p|Peloponnesian War}} that destroyed everything. The supreme
 Concentration of cultural achievement in one small city in one
 
@@ -1424,14 +1424,14 @@ Ways more philosophically rigorous, more systematically organized,
 More intellectually mature. And the fourth century would produce
 
 The two philosophers whose influence would eclipse even that of
-Their {{p|Athenian}} predecessors: {{c|Plato}} and {{c|Aristotle}}. And it would
-Produce {{c|Alexander the Great}}, who would take {{p|Greek}} civilization
+Their {{p|Athenian}} predecessors: {{c|2376|Plato}} and {{c|1081|Aristotle}}. And it would
+Produce {{c|2381|Alexander the Great}}, who would take {{p|Greek}} civilization
 Itself, via conquest, across three continents.
 
-                                                    Begin with {{c|Plato}}
+                                                    Begin with {{c|2376|Plato}}
 In his mature phase. The {{x|Gaiad}} introduced him in the previous
-Chapter as {{c|Socrates}}'s student and the founder of the {{p|Academy}}.
-His early dialogues preserve, or appear to preserve, {{c|Socrates}}'s
+Chapter as {{c|2232|Socrates}}'s student and the founder of the {{p|Academy}}.
+His early dialogues preserve, or appear to preserve, {{c|2232|Socrates}}'s
 
 Method and characteristic concerns: questioning people about
 Ethical terms (justice, courage, piety), exposing their confident
@@ -1440,7 +1440,7 @@ Definitions. These "elenctic" dialogues—{{p|Euthyphro}}, {{p|Laches}},
 
 {{p|Charmides}}, parts of {{p|Gorgias}}—are small masterpieces of
 Philosophical drama. Then come the middle dialogues, in which
-{{c|Plato}} begins to develop his own philosophical positions. {{p|Republic}},
+{{c|2376|Plato}} begins to develop his own philosophical positions. {{p|Republic}},
 {{p|Phaedo}}, {{p|Symposium}}, {{p|Phaedrus}}. These are the works most commonly
 
 Associated with "{{p|Platonism}}." They present the theory of the
@@ -1451,11 +1451,11 @@ Shape) lies an ideal {{x|Form}} (Beauty itself, Justice itself, the
 Triangle itself) that exists more truly and eternally than any
 Material instantiation. The {{x|Forms}} are apprehended by reason
 Rather than sense. They constitute ultimate reality. And the
-{{c|Philosopher}}'s task is to ascend from the world of particulars to
+{{c|2382|Philosopher}}'s task is to ascend from the world of particulars to
 
 The contemplation of the {{x|Forms}}—a process metaphorically depicted
 In the {{p|Allegory of the Cave}}, perhaps the most famous passage
-In {{c|Plato}}'s corpus. Most people, {{c|Plato}} writes, are like prisoners
+In {{c|2376|Plato}}'s corpus. Most people, {{c|2376|Plato}} writes, are like prisoners
 Chained in a cave, watching shadows on the wall and believing
 
 Them to be reality. The philosopher is the one who escapes the
@@ -1465,13 +1465,13 @@ The other prisoners about the truth. The philosopher's task is
 
 To drag others out of illusion into knowledge, despite their
 Resistance. This allegory has obvious autobiographical resonance:
-{{c|Plato}}'s teacher {{c|Socrates}} was executed for attempting just such
+{{c|2376|Plato}}'s teacher {{c|2232|Socrates}} was executed for attempting just such
 An educational mission. It also has political implications.
 
-{{c|Plato}}'s {{p|Republic}} argues that ideal political societies would
+{{c|2376|Plato}}'s {{p|Republic}} argues that ideal political societies would
 Be ruled by philosopher-kings—by those who had made the
 Ascending journey to the {{x|Forms}} and therefore knew what was truly
-Good, just, and beautiful. Democracy, {{c|Plato}} argued, produces only
+Good, just, and beautiful. Democracy, {{c|2376|Plato}} argued, produces only
 
 The rule of opinion and self-interest; it elevates demagogues
 Rather than wise rulers. The ideal city would have a strict
@@ -1480,10 +1480,10 @@ Below them, and ordinary producers (farmers, craftsmen, traders)
 
 At the base, each performing the function for which they were
 Best suited. This is a profoundly anti-democratic political
-Philosophy, and it is worth noting that {{c|Plato}} wrote it after
+Philosophy, and it is worth noting that {{c|2376|Plato}} wrote it after
 His teacher had been executed by an {{p|Athenian}} democratic jury.
 
-{{c|Plato}}'s political vision should be read in light of that trauma.
+{{c|2376|Plato}}'s political vision should be read in light of that trauma.
 He did not trust democratic judgment. He wanted the wise to rule.
 His vision has influenced authoritarian and elitist political
 Traditions across the centuries—sometimes for better (elite
@@ -1491,7 +1491,7 @@ Traditions across the centuries—sometimes for better (elite
 Expertise in technocratic government) and sometimes for worse
 (The various "philosopher kings" of political history tend, in
 Practice, to be tyrants). The late dialogues—{{p|Parmenides}}, {{p|Sophist}},
-{{p|Statesman}}, {{p|Philebus}}, {{p|Laws}}, {{p|Timaeus}}—show {{c|Plato}} revising
+{{p|Statesman}}, {{p|Philebus}}, {{p|Laws}}, {{p|Timaeus}}—show {{c|2376|Plato}} revising
 
 And complicating his earlier positions. In {{p|Parmenides}}, he
 Subjects his own theory of the {{x|Forms}} to searching self-criticism.
@@ -1503,47 +1503,47 @@ Cosmological speculation about the structure of the universe—
 A text that would prove enormously influential on later
 {{p|Neoplatonism}}, {{p|Christian}} theology, and even early modern science.
 
-{{c|Plato}}'s work is vast, varied, and endlessly generative. It would
+{{c|2376|Plato}}'s work is vast, varied, and endlessly generative. It would
 Be the single most-read philosophical corpus in human history
 Until the late modern period. And the {{p|Academy}} he founded in
 {{p|Athens}} continued to operate, in various forms, for nearly nine
 
-Centuries—until the {{p|Christian}} emperor {{c|Justinian}} closed it in
+Centuries—until the {{p|Christian}} emperor {{c|2383|Justinian}} closed it in
 Five-twenty-nine CE. It was the longest-lived institution of
 Higher learning in antiquity, and its closure symbolically marked
 The end of classical {{p|Greek}} philosophy's institutional continuity.
 
                                                                        Into
 The {{p|Academy}} as a young student came a remarkable {{p|Macedonian}}:
-{{c|Aristotle}} (three-eighty-four to three-twenty-two BCE), born in
+{{c|1081|Aristotle}} (three-eighty-four to three-twenty-two BCE), born in
 {{p|Stagira}} in northern {{p|Greece}}, son of the court physician to the
 
-{{p|Macedonian}} royal family. He studied with {{c|Plato}} for twenty years,
-Until {{c|Plato}}'s death. He was passed over for leadership of the
+{{p|Macedonian}} royal family. He studied with {{c|2376|Plato}} for twenty years,
+Until {{c|2376|Plato}}'s death. He was passed over for leadership of the
 {{p|Academy}} and left {{p|Athens}}. He spent several years traveling and
 Studying—on the island of {{p|Lesbos}}, where he conducted pioneering
 
 Biological research; at the court of {{p|Assos}}, where he worked
 With other philosophers. Then, around three-forty-three BCE, he
-Was summoned back to {{p|Macedon}} to tutor the young {{c|Alexander}},
-Heir to the {{p|Macedonian}} throne. For several years {{c|Aristotle}}
+Was summoned back to {{p|Macedon}} to tutor the young {{c|1982|Alexander}},
+Heir to the {{p|Macedonian}} throne. For several years {{c|1081|Aristotle}}
 
 Served as the prince's teacher—one of the most extraordinary
 Pedagogical relationships in history, though we have only
-Fragmentary evidence of what {{c|Aristotle}} actually taught {{c|Alexander}}
-Or how it influenced him. After {{c|Alexander}}'s accession, {{c|Aristotle}}
+Fragmentary evidence of what {{c|1081|Aristotle}} actually taught {{c|1982|Alexander}}
+Or how it influenced him. After {{c|1982|Alexander}}'s accession, {{c|1081|Aristotle}}
 
 Returned to {{p|Athens}} and founded his own school, the {{p|Lyceum}} (also
 Called the {{p|Peripatetic}} school, from the covered walkway where
 Teaching took place). He spent the next twelve years at the {{p|Lyceum}},
 Producing and teaching from an enormous body of philosophical
 
-And scientific work. Upon {{c|Alexander}}'s death in three-twenty-three
+And scientific work. Upon {{c|1982|Alexander}}'s death in three-twenty-three
 BCE, anti-{{p|Macedonian}} sentiment in {{p|Athens}} turned against
-{{c|Aristotle}} (who was seen as too close to the {{p|Macedonian}} court).
+{{c|1081|Aristotle}} (who was seen as too close to the {{p|Macedonian}} court).
 He fled to {{p|Chalcis}}, where he died the following year.
 
-                                                               {{c|Aristotle}}'s
+                                                               {{c|1081|Aristotle}}'s
 Surviving works—mostly in the form of lecture notes rather than
 Polished treatises—cover nearly the entire range of ancient
 Knowledge. Logic (the {{p|Organon}}—{{p|Categories}}, {{p|On Interpretation}},
@@ -1560,41 +1560,41 @@ Works in the ancient edition). Ethics (the {{p|Nicomachean Ethics}} and
 
 The {{p|Eudemian Ethics}}). Politics. Rhetoric. {{x|Poetics}}. Each of these
 Works would be foundational for its respective discipline.
-{{c|Aristotle}}'s influence on the development of {{p|Western}} thought is,
-Along with {{c|Plato}}'s and {{c|Augustine}}'s, one of the three or four
+{{c|1081|Aristotle}}'s influence on the development of {{p|Western}} thought is,
+Along with {{c|2376|Plato}}'s and {{c|2384|Augustine}}'s, one of the three or four
 
 Most important. His logic would remain essentially unchanged for
-Two thousand years, until {{c|Frege}} and {{c|Russell}} in the late
+Two thousand years, until {{c|2385|Frege}} and {{c|2386|Russell}} in the late
 Nineteenth and early twentieth centuries CE developed modern
 Formal logic. His biology would remain the foundation of natural
 
-History until {{c|Darwin}}. His ethical theory—virtue ethics grounded
+History until {{c|2387|Darwin}}. His ethical theory—virtue ethics grounded
 In the concept of the {{p|telos}} or end of human life, flourishing
 ({{p|eudaimonia}}) as the realization of human potential—would
 Structure moral philosophy until the early modern period, and
 
 Would be revived in the late twentieth century by philosophers
-Like {{c|Alasdair MacIntyre}} and {{c|Martha Nussbaum}} as an alternative
-To {{c|Kantian}} and utilitarian approaches. His {{p|Poetics}} would define
+Like {{c|2388|Alasdair MacIntyre}} and {{c|2389|Martha Nussbaum}} as an alternative
+To {{c|2390|Kantian}} and utilitarian approaches. His {{p|Poetics}} would define
 The terms of literary theory through the {{p|Renaissance}}—the concepts
 
 Of mimesis, catharsis, unity of action, tragic hero, the three
-Unities—are all {{c|Aristotelian}}. And his {{p|Metaphysics}} would be the
+Unities—are all {{c|2391|Aristotelian}}. And his {{p|Metaphysics}} would be the
 Primary template for ontological inquiry in both the {{p|Christian}}
 And {{p|Islamic}} philosophical traditions. Medieval {{p|Muslim}} philosophers
 
-Like {{c|al-Farabi}} and {{c|Averroes}} produced extensive commentaries on
-{{c|Aristotle}}. Medieval {{p|Christian}} theologians like {{c|Thomas Aquinas}}
+Like {{c|2392|al-Farabi}} and {{c|2393|Averroes}} produced extensive commentaries on
+{{c|1081|Aristotle}}. Medieval {{p|Christian}} theologians like {{c|2394|Thomas Aquinas}}
 Constructed their entire theological systems as syntheses of
-{{c|Aristotle}} with {{p|Christian}} revelation. {{c|Dante}} placed {{c|Aristotle}} at
+{{c|1081|Aristotle}} with {{p|Christian}} revelation. {{c|2395|Dante}} placed {{c|1081|Aristotle}} at
 
 The head of the philosophers in {{p|Limbo}}, "the master of those
 Who know." For seven hundred years, across multiple civilizations,
-{{c|Aristotle}} was the {{c|Philosopher}}. His dominance was so complete
+{{c|1081|Aristotle}} was the {{c|2382|Philosopher}}. His dominance was so complete
 That the beginning of the modern period was partly defined as
 
-The overthrow of {{c|Aristotelian}} authority—{{c|Galileo}}, {{c|Descartes}},
-{{c|Bacon}} all had to break with {{c|Aristotle}} to establish their new
+The overthrow of {{c|2391|Aristotelian}} authority—{{c|2396|Galileo}}, {{c|2397|Descartes}},
+{{c|2398|Bacon}} all had to break with {{c|1081|Aristotle}} to establish their new
 Science and philosophy. Breaking with him took effort because
 His systematic coverage was so complete. He had provided
 
@@ -1603,28 +1603,28 @@ Him required developing entirely new frameworks. The effort to
 Do so is substantially the effort that produced modern thought.
 And even now, in philosophical ethics, in biology, in logic,
 
-In literary theory, {{c|Aristotle}}'s work continues to be read and
+In literary theory, {{c|1081|Aristotle}}'s work continues to be read and
 Engaged with. He is not a closed book. He is a living interlocutor.
 
-And alongside {{c|Plato}} and {{c|Aristotle}}, the fourth century produced
-Other major philosophical schools. {{p|Cynicism}}, founded by {{c|Antisthenes}}
+And alongside {{c|2376|Plato}} and {{c|1081|Aristotle}}, the fourth century produced
+Other major philosophical schools. {{p|Cynicism}}, founded by {{c|2399|Antisthenes}}
 
-And made famous by {{c|Diogenes of Sinope}}, taught radical simplicity,
-Self-sufficiency, and contempt for social conventions. {{c|Diogenes}},
+And made famous by {{c|2400|Diogenes of Sinope}}, taught radical simplicity,
+Self-sufficiency, and contempt for social conventions. {{c|2401|Diogenes}},
 Who lived in a large barrel in the marketplace of {{p|Athens}} and
 Made a career of shocking social propriety, was the archetype of
 
-The philosophical provocateur. When {{c|Alexander the Great}} once
+The philosophical provocateur. When {{c|2381|Alexander the Great}} once
 Visited him and asked if there was anything he could do for the
-Great philosopher, {{c|Diogenes}} replied, "Yes, stand a
+Great philosopher, {{c|2401|Diogenes}} replied, "Yes, stand a
 Little out of my sunlight." The story is the whole school in a line,{{fn|The meeting of Alexander and Diogenes is told by Plutarch and Diogenes Laertius, centuries later; historians doubt it happened as told.}}
 
 And it captures the {{p|Cynic}} ethos: the world's greatest conqueror
 Has no power over the philosopher who has chosen to need nothing.
 {{p|Cynic}} philosophy would evolve into {{p|Stoicism}}, which we will
-Meet in a later chapter. {{p|Skepticism}}, founded by {{c|Pyrrho of Elis}}
+Meet in a later chapter. {{p|Skepticism}}, founded by {{c|2402|Pyrrho of Elis}}
 
-(Who, by tradition, traveled with {{c|Alexander}}'s expedition to {{p|India}}
+(Who, by tradition, traveled with {{c|1982|Alexander}}'s expedition to {{p|India}}
 And was influenced by {{p|Indian}} philosophy he encountered there),
 Taught the suspension of judgment on all claims to knowledge.
 The {{p|Pyrrhonist}} argued that for every proposition one might
@@ -1634,19 +1634,19 @@ Side, and therefore the wise course was to withhold assent and
 Live in tranquil indifference. This radical epistemological
 Position would influence {{p|Hellenistic}} philosophy and later
 
-Intellectual traditions. {{p|Epicureanism}}, founded by {{c|Epicurus}}
+Intellectual traditions. {{p|Epicureanism}}, founded by {{c|2403|Epicurus}}
 (Three-forty-one to two-seventy BCE, working at the very edge of
 Our fourth-century frame), taught that pleasure—understood as
 Freedom from physical pain and mental disturbance ({{p|ataraxia}})—
 
-Was the highest good. {{c|Epicurus}}'s philosophy was a materialistic,
-Atomistic view of nature derived from {{c|Democritus}}, combined with
+Was the highest good. {{c|2403|Epicurus}}'s philosophy was a materialistic,
+Atomistic view of nature derived from {{c|2404|Democritus}}, combined with
 An ethical program aimed at serene happiness through simple
 Living, friendship, and the avoidance of needless fears (especially
 
 Fear of the gods and fear of death). {{p|Epicureanism}} would flourish
 For centuries and be given classical expression by the {{p|Roman}}
-Poet {{c|Lucretius}} in the first century BCE. The school survived
+Poet {{c|2405|Lucretius}} in the first century BCE. The school survived
 Until late antiquity before being suppressed by {{p|Christianity}}.
 
 These are only the most prominent schools. The philosophical
@@ -1658,39 +1658,39 @@ And it would continue to be so for centuries. The {{p|Hellenistic}}
 And {{p|Roman}} philosophical traditions all emerged from this fourth-
 Century matrix.
 
-                    And now, {{c|Alexander}}. We will devote a full
+                    And now, {{c|1982|Alexander}}. We will devote a full
 Chapter to him shortly. Here we note only that his career
 Belongs, in certain senses, to the end of classical {{p|Greece}}. He
 Was born in {{p|Macedon}}—a kingdom on the northern periphery of the
 {{p|Greek}} world, whose rulers claimed {{p|Greek}} descent but who were
 
 Considered half-barbarian by the southern {{p|poleis}}. His father
-{{c|Philip II}} had transformed {{p|Macedon}} from a peripheral kingdom
+{{c|2406|Philip II}} had transformed {{p|Macedon}} from a peripheral kingdom
 Into the dominant power of the {{p|Greek}} world, defeating a
 Coalition of southern {{p|Greek}} cities at the {{p|Battle of Chaeronea}}
 
 In three-thirty-eight BCE. With this victory, the independence
 Of the {{p|Greek}} city-states effectively ended. They remained
 Nominally sovereign but were forced into the {{p|League of Corinth}}
-Under {{p|Macedonian}} hegemony. When {{c|Philip}} was assassinated in
+Under {{p|Macedonian}} hegemony. When {{c|1406|Philip}} was assassinated in
 
-Three-thirty-six BCE, the twenty-year-old {{c|Alexander}} inherited
+Three-thirty-six BCE, the twenty-year-old {{c|1982|Alexander}} inherited
 The throne and the {{p|League}}. He suppressed early rebellions, then
-Turned his attention to the {{p|Persian}} Empire. The campaign {{c|Philip}}
-Had planned to launch against {{p|Persia}} became {{c|Alexander}}'s campaign.
+Turned his attention to the {{p|Persian}} Empire. The campaign {{c|1406|Philip}}
+Had planned to launch against {{p|Persia}} became {{c|1982|Alexander}}'s campaign.
 
-And from three-thirty-four to three-twenty-three BCE, {{c|Alexander}}
+And from three-thirty-four to three-twenty-three BCE, {{c|1982|Alexander}}
 Would conquer an empire larger than anything before. But that is
 For the next chapter. Here we note the philosophical-political
 Context: classical {{p|Greece}} as a civilization of independent
 
-City-states ended with {{c|Philip}}'s victory and {{c|Alexander}}'s
+City-states ended with {{c|1406|Philip}}'s victory and {{c|1982|Alexander}}'s
 Inheritance. What followed was the {{p|Hellenistic}} world—{{p|Greek}}
 Culture as an imperial phenomenon, spreading across three
-Continents through {{c|Alexander}}'s conquests, but no longer the
+Continents through {{c|1982|Alexander}}'s conquests, but no longer the
 
-Distinctive city-state civilization that had produced {{c|Sophocles}}
-And {{c|Socrates}}. The {{p|Hellenistic}} age would be extraordinarily
+Distinctive city-state civilization that had produced {{c|2225|Sophocles}}
+And {{c|2232|Socrates}}. The {{p|Hellenistic}} age would be extraordinarily
 Productive in its own way—scientific advance, literary innovation,
 Religious syncretism, philosophical elaboration—but it would be
 
@@ -1705,13 +1705,13 @@ Would not return.
 Treatment of classical {{p|Greece}}. We began with the rise from the
 Dark Age, the early philosophers, the {{p|Persian Wars}}. We continued
 
-With the golden age of fifth-century {{p|Athens}}, {{c|Pericles}}, the
-Tragedians, {{c|Socrates}}. We end here with the fourth-century
-Maturation—{{c|Plato}}, {{c|Aristotle}}, the philosophical schools, the
+With the golden age of fifth-century {{p|Athens}}, {{c|2231|Pericles}}, the
+Tragedians, {{c|2232|Socrates}}. We end here with the fourth-century
+Maturation—{{c|2376|Plato}}, {{c|1081|Aristotle}}, the philosophical schools, the
 End of city-state independence under {{p|Macedonian}} hegemony. Three
 
 Hundred years from the first tentative philosophical speculations
-Of {{c|Thales}} in the sixth century BCE to {{c|Aristotle}}'s death in
+Of {{c|2234|Thales}} in the sixth century BCE to {{c|1081|Aristotle}}'s death in
 Three-twenty-two BCE. Three hundred years in which a small region
 Of the {{p|Mediterranean}} produced more foundational cultural
 
@@ -1738,7 +1738,7 @@ The {{x|Gaiad}} honors this achievement without idealizing it. Classical
 
 A society that exploited its imperial subjects, a society whose
 Achievements were limited to a small elite of free adult males.
-Every student who stood at the feet of {{c|Plato}} or {{c|Aristotle}} was
+Every student who stood at the feet of {{c|2376|Plato}} or {{c|1081|Aristotle}} was
 Supported by slave labor. Every citizen who voted in the {{p|Athenian}}
 
 Assembly did so while women, foreigners, and slaves were excluded.
@@ -1762,7 +1762,7 @@ With a clarity they had never before possessed. They have remained
 Central to {{p|Western}} intellectual life ever since.
 
                                                            Classical
-{{p|Greece}}, part three. {{c|Plato}} and the {{p|Academy}}. {{c|Aristotle}} and the
+{{p|Greece}}, part three. {{c|2376|Plato}} and the {{p|Academy}}. {{c|1081|Aristotle}} and the
 {{p|Lyceum}}. {{p|Cynics}}, {{p|Skeptics}}, {{p|Epicureans}}. The end of city-state
 Independence at {{p|Chaeronea}}. The {{p|Macedonian}} hegemony. The
 
@@ -1774,7 +1774,7 @@ Age.
 
 # Chapter 174: Alexander the Great
 
-{{c|Alexander III of Macedon}}. Thirty-two years old at his death. In
+{{c|2407|Alexander III of Macedon}}. Thirty-two years old at his death. In
 Thirteen years of campaigning—from his accession in three-thirty-six
 BCE to his death in three-twenty-three BCE—he conquered the
 Largest contiguous land empire the world had ever seen. From
@@ -1782,7 +1782,7 @@ Largest contiguous land empire the world had ever seen. From
 {{p|Greece}} across the {{p|Hellespont}}, through {{p|Anatolia}}, into {{p|Syria}} and
 {{p|Palestine}}, south into {{p|Egypt}}, east across {{p|Mesopotamia}} to {{p|Persia}}
 And beyond, all the way to the {{p|Indus River}} in what is now
-{{p|Pakistan}}—{{c|Alexander}}'s armies marched and fought and won. The
+{{p|Pakistan}}—{{c|1982|Alexander}}'s armies marched and fought and won. The
 
 {{p|Persian}} Empire, which had stood for two centuries as the largest
 Political entity on earth, collapsed before him in a few years.
@@ -1802,9 +1802,9 @@ Spread across a vast territory, creating the cosmopolitan
 {{p|Hellenistic}} civilization in which all the subsequent developments
 Of antiquity—{{p|Christianity}}'s rise, the translation of the
 {{p|Hebrew Bible}} into {{p|Greek}}, the {{p|Stoic}} and {{p|Epicurean}} philosophies,
-The mathematics of {{c|Euclid}} and {{c|Archimedes}}—would take place. The
+The mathematics of {{c|2408|Euclid}} and {{c|2409|Archimedes}}—would take place. The
 
-{{p|Hellenistic}} world is {{c|Alexander}}'s legacy.
+{{p|Hellenistic}} world is {{c|1982|Alexander}}'s legacy.
 
                                                  His background.
 {{p|Macedon}} was a kingdom in northern {{p|Greece}}, ethnically and
@@ -1813,11 +1813,11 @@ Linguistically {{p|Greek}} but culturally distinct from the southern
 City-states. The {{p|Macedonians}} spoke {{p|Greek}} with a distinctive dialect,
 Retained archaic practices like warrior-kings and extensive
 Drinking feasts, and were regarded by the southern {{p|Greeks}} as
-Rough cousins rather than proper peers. {{c|Alexander}}'s father {{c|Philip II}}
+Rough cousins rather than proper peers. {{c|1982|Alexander}}'s father {{c|2406|Philip II}}
 
 Came to the throne in three-fifty-nine BCE and in less than a
 Generation transformed {{p|Macedon}} from a weak periphery into the
-Dominant power of the {{p|Greek}} world. {{c|Philip}} reorganized the army
+Dominant power of the {{p|Greek}} world. {{c|1406|Philip}} reorganized the army
 Around the {{p|Macedonian phalanx}}—a formation of heavy infantry with
 
 Enormously long pikes ({{p|sarissas}}) held in coordinated ranks,
@@ -1825,62 +1825,62 @@ Combined with heavy and light cavalry and various specialized
 Troops. This {{p|combined-arms}} approach was more sophisticated than
 The hoplite warfare of the southern {{p|Greeks}}, which had relied
 
-Primarily on phalanx against phalanx. {{c|Philip}}'s army could handle
+Primarily on phalanx against phalanx. {{c|1406|Philip}}'s army could handle
 More varied enemies in more varied terrain. He used it to defeat
 {{p|Thrace}}, {{p|Illyria}}, and eventually the southern {{p|Greeks}} at the
 {{p|Battle of Chaeronea}} in three-thirty-eight BCE. After {{p|Chaeronea}},
 
-{{c|Philip}} organized the {{p|League of Corinth}}, with most of the {{p|Greek}}
+{{c|1406|Philip}} organized the {{p|League of Corinth}}, with most of the {{p|Greek}}
 States as members under {{p|Macedonian}} leadership. He announced his
 Intention to launch a war against {{p|Persia}}—framed as a pan-{{p|Greek}}
 Retaliation for the invasions of a century and a half earlier.
 
 Preparations were well underway when, in three-thirty-six BCE,
-{{c|Philip}} was assassinated at his daughter's wedding by one of his
+{{c|1406|Philip}} was assassinated at his daughter's wedding by one of his
 Bodyguards. The motives remain unclear—personal grievance,
-Political conspiracy, or perhaps the involvement of {{c|Alexander}}
+Political conspiracy, or perhaps the involvement of {{c|1982|Alexander}}
 
-Himself or his mother {{c|Olympias}} (rumors of which circulated even
-In antiquity). Whatever the cause, {{c|Philip}} was dead and his twenty-
-Year-old son {{c|Alexander}} inherited the throne, the army, and the
+Himself or his mother {{c|2410|Olympias}} (rumors of which circulated even
+In antiquity). Whatever the cause, {{c|1406|Philip}} was dead and his twenty-
+Year-old son {{c|1982|Alexander}} inherited the throne, the army, and the
 Planned {{p|Persian}} campaign.
 
-                                   {{c|Alexander}}'s early years as king
+                                   {{c|1982|Alexander}}'s early years as king
 Were consumed with consolidating his position. Northern barbarians
 Tested him; he campaigned against them and established his
 Authority. Southern {{p|Greek}} cities rebelled, most notably {{p|Thebes}};
 
-{{c|Alexander}} besieged {{p|Thebes}}, captured it, and—as an example to
+{{c|1982|Alexander}} besieged {{p|Thebes}}, captured it, and—as an example to
 Other potential rebels—destroyed the city utterly. {{p|Thebes}}'s
 Population was massacred or enslaved. Only the house of the poet
-{{c|Pindar}} was spared out of respect for his literary memory. This
+{{c|2411|Pindar}} was spared out of respect for his literary memory. This
 
 Was the {{p|Alexander}} who would later be remembered for clemency and
 Cosmopolitanism, but he was also capable of extraordinary violence
 When he thought it served his political goals. The destruction of
-{{p|Thebes}} pacified {{p|Greece}}. In three-thirty-four BCE, {{c|Alexander}}
+{{p|Thebes}} pacified {{p|Greece}}. In three-thirty-four BCE, {{c|1982|Alexander}}
 
 Crossed the {{p|Hellespont}} with an army of perhaps thirty-five
 Thousand soldiers. He defeated a {{p|Persian}} force at the {{p|Battle of
 The Granicus}} and moved into {{p|Anatolia}}. He liberated the {{p|Greek}}
 Cities of the {{p|Ionian}} coast from {{p|Persian}} rule. He moved south and
 
-Defeated the main {{p|Persian}} army under {{c|Darius III}} himself at the
-{{p|Battle of Issus}} in three-thirty-three BCE. {{c|Darius}} fled, leaving
+Defeated the main {{p|Persian}} army under {{c|2294|Darius III}} himself at the
+{{p|Battle of Issus}} in three-thirty-three BCE. {{c|2287|Darius}} fled, leaving
 His family captive—his mother, wife, and daughters fell into
-{{c|Alexander}}'s hands. {{c|Alexander}} treated them with notable chivalry,
+{{c|1982|Alexander}}'s hands. {{c|1982|Alexander}} treated them with notable chivalry,
 
-A detail widely remarked on both in antiquity and since. {{c|Darius}}
+A detail widely remarked on both in antiquity and since. {{c|2287|Darius}}
 Offered peace—a substantial ransom, a marriage alliance, and the
-Cession of all territory west of the {{p|Euphrates}}. One of {{c|Alexander}}'s
-Generals, {{c|Parmenion}}, advised him to accept: "I would, if I were
+Cession of all territory west of the {{p|Euphrates}}. One of {{c|1982|Alexander}}'s
+Generals, {{c|2412|Parmenion}}, advised him to accept: "I would, if I were
 
-{{c|Alexander}}." "So would I," the young king replied, "if I were
-{{c|Parmenion}}." The exchange is probably legendary but captures
-{{c|Alexander}}'s refusal to settle for less than total victory.
+{{c|1982|Alexander}}." "So would I," the young king replied, "if I were
+{{c|2412|Parmenion}}." The exchange is probably legendary but captures
+{{c|1982|Alexander}}'s refusal to settle for less than total victory.
 
 Then south into the {{p|Levant}}. The coastal city of {{p|Tyre}}, on its
-Fortified island, resisted. {{c|Alexander}} besieged it for seven months.
+Fortified island, resisted. {{c|1982|Alexander}} besieged it for seven months.
 He built a causeway from the mainland to the island—an enormous
 Engineering feat, still visible in the silted-up peninsula that
 
@@ -1889,20 +1889,20 @@ Or enslaved its population. Farther south, {{p|Gaza}} resisted; he
 Reduced it similarly. Then he entered {{p|Egypt}} in three-thirty-two
 BCE. The {{p|Egyptians}}, who hated their {{p|Persian}} overlords, welcomed
 
-Him as a liberator. {{c|Alexander}} was crowned pharaoh. He visited
-The oracle of {{c|Ammon}} at {{p|Siwa}}—a remote desert shrine—and was
-Reportedly told by the oracle that he was the son of {{c|Ammon}}
-Himself, or of {{c|Zeus-Ammon}} (the two deities were identified in
+Him as a liberator. {{c|1982|Alexander}} was crowned pharaoh. He visited
+The oracle of {{c|1426|Ammon}} at {{p|Siwa}}—a remote desert shrine—and was
+Reportedly told by the oracle that he was the son of {{c|1426|Ammon}}
+Himself, or of {{c|2413|Zeus-Ammon}} (the two deities were identified in
 
 The syncretic {{p|Hellenistic}} imagination). This proclamation of
-Divine sonship became central to {{c|Alexander}}'s self-image for the
+Divine sonship became central to {{c|1982|Alexander}}'s self-image for the
 Rest of his life. He founded the city of {{p|Alexandria}} on the
 {{p|Mediterranean}} coast—the first and greatest of the many cities
 
 He would found bearing his name. {{p|Alexandria}} would become the
 Greatest city of the {{p|Hellenistic}} world, home of the {{p|Great Library}}
 And the {{p|Musaeum}}, the intellectual capital of the {{p|Mediterranean}}
-For the next several centuries. {{c|Alexander}} did not live to see its
+For the next several centuries. {{c|1982|Alexander}} did not live to see its
 
 Development, but he chose the site with geographical acumen. Its
 Position at the intersection of {{p|Mediterranean}} sea lanes and
@@ -1911,12 +1911,12 @@ Commerce, culture, and political control.
 
                                                Then east into
 {{p|Mesopotamia}}. At the {{p|Battle of Gaugamela}} in three-thirty-one BCE,
-{{c|Alexander}} defeated {{c|Darius}} decisively—despite being outnumbered
-Perhaps three or four to one. The {{p|Persian}} army broke; {{c|Darius}}
+{{c|1982|Alexander}} defeated {{c|2287|Darius}} decisively—despite being outnumbered
+Perhaps three or four to one. The {{p|Persian}} army broke; {{c|2287|Darius}}
 
-Fled again. {{c|Alexander}} entered {{p|Babylon}}, {{p|Susa}}, and finally {{p|Persepolis}},
+Fled again. {{c|1982|Alexander}} entered {{p|Babylon}}, {{p|Susa}}, and finally {{p|Persepolis}},
 The great {{p|Persian}} capital. In {{p|Persepolis}}—the ceremonial heart of
-The empire, where {{c|Darius I}} and {{c|Xerxes}} had conducted their most
+The empire, where {{c|2178|Darius I}} and {{c|1985|Xerxes}} had conducted their most
 Magnificent displays of imperial power—he allowed (or ordered)
 
 The palace complex to be burned. Sources disagree on whether this
@@ -1924,14 +1924,14 @@ Was a drunken act of revenge (for the {{p|Persian}} burning of {{p|Athens}}
 A century and a half earlier) or a calculated political statement
 (Marking the end of {{p|Achaemenid}} rule). Either way, {{p|Persepolis}}
 
-Burned. The ruins that remain today were charred by {{c|Alexander}}'s
-Fires. Meanwhile {{c|Darius}} was murdered by one of his own satraps,
-{{c|Bessus}}, who then declared himself the new king. {{c|Alexander}} pursued,
-Caught {{c|Bessus}}, and had him executed for regicide—positioning
+Burned. The ruins that remain today were charred by {{c|1982|Alexander}}'s
+Fires. Meanwhile {{c|2287|Darius}} was murdered by one of his own satraps,
+{{c|2414|Bessus}}, who then declared himself the new king. {{c|1982|Alexander}} pursued,
+Caught {{c|2414|Bessus}}, and had him executed for regicide—positioning
 
 Himself, very pointedly, as the legitimate successor to the
 {{p|Achaemenid}} throne rather than as a foreign conqueror who had
-Destroyed it. This was {{c|Alexander}}'s political genius at work. He
+Destroyed it. This was {{c|1982|Alexander}}'s political genius at work. He
 Did not want {{p|Persia}} merely as a conquered territory. He wanted
 
 To become its {{p|Great King}}. He adopted elements of {{p|Persian}} court
@@ -1942,42 +1942,42 @@ Cultures, imagining a combined empire in which both traditions
 Would contribute. This cultural policy alienated many of his
 {{p|Macedonian}} officers, who had fought to defeat {{p|Persia}}, not to
 Become {{p|Persian}}. Tensions grew. Conspiracies were uncovered or
-Alleged. {{c|Alexander}} had several senior {{p|Macedonian}} officers
+Alleged. {{c|1982|Alexander}} had several senior {{p|Macedonian}} officers
 
-Executed, including {{c|Parmenion}}'s son {{c|Philotas}} and eventually
-{{c|Parmenion}} himself. He had his companion {{c|Cleitus}}, who had saved
+Executed, including {{c|2412|Parmenion}}'s son {{c|2415|Philotas}} and eventually
+{{c|2412|Parmenion}} himself. He had his companion {{c|2416|Cleitus}}, who had saved
 His life at {{p|Granicus}}, murdered in a drunken quarrel at a feast.
-These events marked the darkening of {{c|Alexander}}'s character in his
+These events marked the darkening of {{c|1982|Alexander}}'s character in his
 
 Later years. The young idealistic conqueror was becoming a
 Paranoid autocrat. He continued east nonetheless. Through {{p|Central
-Asia}}—{{p|Bactria}}, {{p|Sogdiana}}—where he married the princess {{c|Roxana}}.
+Asia}}—{{p|Bactria}}, {{p|Sogdiana}}—where he married the princess {{c|2417|Roxana}}.
 Across the {{p|Hindu Kush}} into what is now {{p|Afghanistan}} and {{p|Pakistan}}.
 
 Into the {{p|Indus}} Valley. At the {{p|Battle of the Hydaspes}} in three-
-Twenty-six BCE, he defeated the {{p|Indian}} king {{c|Porus}}, who fought on
-Elephants—a new kind of enemy for the {{p|Macedonian}} army. {{c|Porus}},
-After his defeat, was asked by {{c|Alexander}} how he wished to be
+Twenty-six BCE, he defeated the {{p|Indian}} king {{c|2418|Porus}}, who fought on
+Elephants—a new kind of enemy for the {{p|Macedonian}} army. {{c|2418|Porus}},
+After his defeat, was asked by {{c|1982|Alexander}} how he wished to be
 
-Treated. "Like a king," he reportedly replied. {{c|Alexander}}, impressed,
-Restored {{c|Porus}} to his kingdom as a vassal. The encounter is
+Treated. "Like a king," he reportedly replied. {{c|1982|Alexander}}, impressed,
+Restored {{c|2418|Porus}} to his kingdom as a vassal. The encounter is
 Another of the scenes—likely embellished—that defined the
-{{c|Alexander}} myth: the gracious conqueror recognizing nobility in
+{{c|1982|Alexander}} myth: the gracious conqueror recognizing nobility in
 
-His enemies. But {{c|Alexander}}'s troops had had enough. They refused
+His enemies. But {{c|1982|Alexander}}'s troops had had enough. They refused
 To march farther east. The {{p|Indian}} subcontinent stretched on—
-{{c|Alexander}} wanted to reach the {{p|Ganges}}—but the {{p|Macedonians}} had
+{{c|1982|Alexander}} wanted to reach the {{p|Ganges}}—but the {{p|Macedonians}} had
 Been campaigning for eight years, far from home, and they were
 
 Exhausted. At the river {{p|Hyphasis}} (now the {{p|Beas}}), they mutinied.
-{{c|Alexander}} sulked in his tent for three days, waiting for them to
+{{c|1982|Alexander}} sulked in his tent for three days, waiting for them to
 Change their minds. They did not. He turned back. He sailed down
 The {{p|Indus}} to the {{p|Arabian Sea}} and then marched his army westward
 
 Through the {{p|Gedrosian Desert}} (now {{p|Balochistan}})—a terrible
 Journey in which thousands died of thirst and exhaustion. His
-Fleet, under {{c|Nearchus}}, sailed parallel along the coast. When
-{{c|Alexander}} finally reached {{p|Babylon}} in three-twenty-three BCE,
+Fleet, under {{c|2419|Nearchus}}, sailed parallel along the coast. When
+{{c|1982|Alexander}} finally reached {{p|Babylon}} in three-twenty-three BCE,
 
 He was planning his next campaign—perhaps to {{p|Arabia}}, perhaps to
 The western {{p|Mediterranean}}. He was also throwing increasingly
@@ -1994,27 +1994,27 @@ Survived until late antiquity (its current location is unknown,
 Having probably been destroyed by earthquake or hostile action).
 
                                                                      His
-Empire fragmented. He had no clear successor—{{c|Roxana}} was pregnant,
+Empire fragmented. He had no clear successor—{{c|2417|Roxana}} was pregnant,
 But a posthumous son would take years to grow. Three of his
-Generals—{{c|Ptolemy}}, {{c|Seleucus}}, and {{c|Antigonus}} One-Eye—eventually
+Generals—{{c|2265|Ptolemy}}, {{c|2420|Seleucus}}, and {{c|2421|Antigonus}} One-Eye—eventually
 Carved out the three great {{p|Hellenistic}} kingdoms from his empire.
 
-{{c|Ptolemy}} took {{p|Egypt}} and became founder of a dynasty that would
-Last three centuries and produce the famous {{c|Cleopatra VII}}.
-{{c|Seleucus}} took the {{p|Near East}} and became founder of a dynasty that
+{{c|2265|Ptolemy}} took {{p|Egypt}} and became founder of a dynasty that would
+Last three centuries and produce the famous {{c|2422|Cleopatra VII}}.
+{{c|2420|Seleucus}} took the {{p|Near East}} and became founder of a dynasty that
 Would rule from {{p|Anatolia}} to {{p|Bactria}} until weakened by {{p|Roman}} and
 
-{{p|Parthian}} pressure. {{c|Antigonus}}'s descendants ruled {{p|Macedon}} itself
+{{p|Parthian}} pressure. {{c|2421|Antigonus}}'s descendants ruled {{p|Macedon}} itself
 For several generations. Other successor states included the
 {{p|Attalid}} kingdom of {{p|Pergamon}}, the {{p|Greco-Bactrian}} kingdom in
 {{p|Central Asia}} and {{p|India}}, and various smaller polities. None
 
-Reunited {{c|Alexander}}'s empire. None lasted indefinitely. But while
+Reunited {{c|1982|Alexander}}'s empire. None lasted indefinitely. But while
 They did last, they presided over one of the most culturally
 Creative periods in antiquity. {{p|Hellenistic}} science, literature,
 Religion, and philosophy flourished in their courts and cities.
 
-And the legacy. {{c|Alexander}}'s conquest was political, yes, but it
+And the legacy. {{c|1982|Alexander}}'s conquest was political, yes, but it
 Was even more culturally significant. He did not merely rule over
 Conquered peoples; he spread {{p|Greek}} culture across three continents.
 The cities he founded—somewhere between twenty and seventy
@@ -2030,7 +2030,7 @@ Wrote their gospels and epistles three centuries later, they wrote
 In {{p|Greek}}—because {{p|Greek}} had become the universal language of the
 
 {{p|Hellenistic}} world and would remain so even after {{p|Roman}} political
-Conquest. {{c|Alexander}}'s conquest made possible the cultural koine
+Conquest. {{c|1982|Alexander}}'s conquest made possible the cultural koine
 That would shape all subsequent {{p|Mediterranean}} and {{p|Near Eastern}}
 Civilization. It made possible the translation of the {{p|Septuagint}}
 
@@ -2041,8 +2041,8 @@ It made possible the transmission of {{p|Buddhist}} ideas westward
 
 Into the {{p|Hellenistic}} world and of {{p|Greek}} ideas eastward into
 {{p|Indian}} and {{p|Central Asian}} cultures—producing cultural hybrids
-Like {{p|Greco-Buddhist}} art, where statues of the {{c|Buddha}} are carved
-In {{p|Greek}} classical style. {{c|Alexander}} opened pathways that would
+Like {{p|Greco-Buddhist}} art, where statues of the {{c|1959|Buddha}} are carved
+In {{p|Greek}} classical style. {{c|1982|Alexander}} opened pathways that would
 
 Carry cultural traffic for millennia. He was, in this sense, one
 Of the most consequential individuals in world history—not despite
@@ -2052,7 +2052,7 @@ Disintegrating empire). His political achievement was temporary.
 His cultural achievement was permanent.
 
                                            And the {{x|Gaiad}} must also
-Assess him critically. {{c|Alexander}} killed hundreds of thousands
+Assess him critically. {{c|1982|Alexander}} killed hundreds of thousands
 Of people. He destroyed ancient cities. He enslaved populations.
 
 He executed political opponents on flimsy charges. He became,
@@ -2062,13 +2062,13 @@ Political purpose, beyond his own glory, was unclear. He was
 
 Not a humane man. He was not a democratic ruler. He was a warlord
 Of extraordinary talent and ambition whose successes were built
-On massive violence. The myth of {{c|Alexander}}—the young philosopher-
+On massive violence. The myth of {{c|1982|Alexander}}—the young philosopher-
 King spreading enlightenment across the world—is partly true and
 
-Partly propaganda. His tutor {{c|Aristotle}} did influence him, and he
+Partly propaganda. His tutor {{c|1081|Aristotle}} did influence him, and he
 Did carry scientific instruments and scholars on his campaigns
-To document new lands and species. But he also had {{c|Callisthenes}},
-{{c|Aristotle}}'s nephew and one of the campaign's historians, executed
+To document new lands and species. But he also had {{c|2423|Callisthenes}},
+{{c|1081|Aristotle}}'s nephew and one of the campaign's historians, executed
 
 On trumped-up charges of conspiracy. He was, in the last analysis,
 A conqueror. His achievements are real but so are his costs. The
@@ -2082,15 +2082,15 @@ That was permanently different—in ways both illuminating and
 
 Oppressive. The {{p|Hellenistic}} world was a dramatic cultural
 Flowering. It was also, for many of its inhabitants, a harsh
-Political reality. Both are true. {{c|Alexander}}'s legacy is both.
+Political reality. Both are true. {{c|1982|Alexander}}'s legacy is both.
 
-                                                                        {{c|Alexander}}.
-{{c|Alexander the Great}}. {{p|Macedonian}} king, {{p|Persian}} shah, {{p|Egyptian}} pharaoh,
+                                                                        {{c|1982|Alexander}}.
+{{c|2381|Alexander the Great}}. {{p|Macedonian}} king, {{p|Persian}} shah, {{p|Egyptian}} pharaoh,
 {{p|Indian}} conqueror. {{p|Granicus}}, {{p|Issus}}, {{p|Gaugamela}}, {{p|Hydaspes}}. {{p|Tyre}}'s
 Siege and {{p|Thebes}}'s destruction. {{p|Persepolis}} burning. The claim of
 
 Divine sonship at {{p|Siwa}}. {{p|Alexandria}} founded. The marriage to
-{{c|Roxana}} and the Persian-{{p|Macedonian}} synthesis. The mutiny at the
+{{c|2417|Roxana}} and the Persian-{{p|Macedonian}} synthesis. The mutiny at the
 {{p|Hyphasis}}. The desert march through {{p|Gedrosia}}. The death at
 {{p|Babylon}} at age thirty-two.
 
@@ -2099,19 +2099,19 @@ Twenty {{p|Alexandrias}} as nuclei of {{p|Hellenization}}. {{p|Greek}} as lingua
 Franca of three continents. The pathway opened for {{p|Christianity}}
 To spread and for {{p|Buddhism}} to meet {{p|Hellenism}}.
 
-{{c|Alexander}}. The conqueror whose conquests lasted thirteen years
+{{c|1982|Alexander}}. The conqueror whose conquests lasted thirteen years
 And whose cultural consequences have lasted two thousand three
 Hundred.
 
 
 # Chapter 175: The Maurya Empire
 
-In the wake of {{c|Alexander}}'s withdrawal from the {{p|Indus}}, a new power
+In the wake of {{c|1982|Alexander}}'s withdrawal from the {{p|Indus}}, a new power
 Rose in northern {{p|India}}—the greatest empire the subcontinent had
-Yet seen. The {{p|Maurya Empire}}, founded by {{c|Chandragupta Maurya}}
+Yet seen. The {{p|Maurya Empire}}, founded by {{c|2424|Chandragupta Maurya}}
 Around three-twenty-two BCE and reaching its peak under his
 
-Grandson {{c|Ashoka}} a century later. The {{p|Maurya}} empire would unify
+Grandson {{c|2320|Ashoka}} a century later. The {{p|Maurya}} empire would unify
 Almost the entire {{p|Indian}} subcontinent—something no prior {{p|Indian}}
 Polity had achieved, and something that would not be repeated
 Until the {{p|Mughals}}, and not wholly until modern {{p|India}}
@@ -2123,48 +2123,48 @@ Promoted a specific form of {{p|Buddhist}}-inflected ethics, and
 
 Projected {{p|Indian}} cultural influence across {{p|Asia}}.
 
-                                                                 {{c|Chandragupta}}.
+                                                                 {{c|2425|Chandragupta}}.
 The founder. His origins are obscure—possibly low-born, possibly
 A minor noble, the sources disagree. What is clear is that he
 
 Rose to power through political and military acumen, apparently
 With the guidance of an older statesman and philosopher,
-{{c|Chanakya}} (also known as {{c|Kautilya}}), whose treatise the
+{{c|2426|Chanakya}} (also known as {{c|2427|Kautilya}}), whose treatise the
 {{p|Arthashastra}} is one of the greatest works of political realism
 
-Ever composed—the {{p|Indian}} counterpart of {{c|Machiavelli}}'s {{p|Prince}}
+Ever composed—the {{p|Indian}} counterpart of {{c|2428|Machiavelli}}'s {{p|Prince}}
 But more systematic and centuries earlier. The {{p|Arthashastra}}
 Treats statecraft as a technical discipline: how to collect taxes,
 How to run espionage services, how to manage foreign relations,
 
 How to handle conspiracies, how to suppress rebellions. It is
-Unsentimental, thorough, and unsparing. {{c|Chandragupta}} apparently
+Unsentimental, thorough, and unsparing. {{c|2425|Chandragupta}} apparently
 Implemented its principles successfully. He overthrew the
 {{p|Nanda Dynasty}} that had ruled much of northern {{p|India}} and
 
 Established himself at {{p|Pataliputra}} (near modern {{p|Patna}}). Then
-He faced {{p|Seleucus}}, one of {{c|Alexander}}'s successors, who was
+He faced {{p|Seleucus}}, one of {{c|1982|Alexander}}'s successors, who was
 Attempting to reassert {{p|Hellenistic}} authority over the {{p|Indus}}
-Valley. {{c|Chandragupta}} defeated {{c|Seleucus}} around three-oh-five BCE
+Valley. {{c|2425|Chandragupta}} defeated {{c|2420|Seleucus}} around three-oh-five BCE
 
 And negotiated a peace that ceded substantial territory in
 {{p|Afghanistan}} and {{p|Balochistan}} to the {{p|Mauryans}}. As part of the
-Settlement, {{c|Chandragupta}} received five hundred war elephants
-From {{c|Seleucus}} (which {{c|Seleucus}} would use effectively in his
+Settlement, {{c|2425|Chandragupta}} received five hundred war elephants
+From {{c|2420|Seleucus}} (which {{c|2420|Seleucus}} would use effectively in his
 
 Own subsequent western campaigns), and possibly a {{p|Seleucid}}
-Princess as a wife. {{c|Seleucus}} also sent an ambassador, {{c|Megasthenes}},
-To {{c|Chandragupta}}'s court. {{c|Megasthenes}}'s account of {{p|Maurya}} {{p|India}}
+Princess as a wife. {{c|2420|Seleucus}} also sent an ambassador, {{c|2429|Megasthenes}},
+To {{c|2425|Chandragupta}}'s court. {{c|2429|Megasthenes}}'s account of {{p|Maurya}} {{p|India}}
 Is one of the most important external descriptions of ancient
 
 {{p|India}} to survive—preserved in fragments quoted by later {{p|Greek}}
 Writers. It describes a wealthy, populous, well-organized realm
 With a systematic bureaucracy, extensive roads, caste divisions,
-And elaborate court ceremony. {{c|Chandragupta}} himself, {{c|Megasthenes}}
+And elaborate court ceremony. {{c|2425|Chandragupta}} himself, {{c|2429|Megasthenes}}
 
 Reports, lived in constant fear of assassination, changing his
 Sleeping quarters nightly and being surrounded by female bodyguards.
-The realities of absolute power. Late in life, {{c|Chandragupta}}
+The realities of absolute power. Late in life, {{c|2425|Chandragupta}}
 Is said to have abdicated, converted to {{p|Jainism}}, and ended his
 
 Life as an ascetic through the ritual fasting known as {{p|Sallekhana}}.
@@ -2174,24 +2174,24 @@ Had built an empire through calculated violence finally turning
 
 Inward toward spiritual renunciation.
 
-                                           His son {{c|Bindusara}} inherited
+                                           His son {{c|2430|Bindusara}} inherited
 The empire and extended it southward, deep into the {{p|Deccan}}. We
 Know relatively little about him directly, though {{p|Greek}} sources
 
-Mention him as "{{c|Amitrochates}}" (a garbled form of {{p|Sanskrit}}
+Mention him as "{{c|2431|Amitrochates}}" (a garbled form of {{p|Sanskrit}}
 "{{p|Amitraghata}}," "slayer of foes"). He had diplomatic relations with
 The {{p|Hellenistic}} kingdoms—apparently requesting sweet wine and
-Dried figs from {{c|Antiochus I}} of {{p|Syria}}, and also requesting that
+Dried figs from {{c|2432|Antiochus I}} of {{p|Syria}}, and also requesting that
 
-{{c|Antiochus}} send a sophist to teach him philosophy. {{c|Antiochus}}
+{{c|2433|Antiochus}} send a sophist to teach him philosophy. {{c|2433|Antiochus}}
 Replied that {{p|Seleucid}} law did not permit the export of philosophers.
 The anecdote is probably embellished but charming—the {{p|Indian}}
 Emperor asking {{p|Greece}} to export a thinker as if it were a
 
-Commodity. {{c|Bindusara}} died around two-seventy-two BCE. And then
-Came {{c|Ashoka}}.
+Commodity. {{c|2430|Bindusara}} died around two-seventy-two BCE. And then
+Came {{c|2320|Ashoka}}.
 
-                    {{c|Ashoka the Great}}. One of the most remarkable
+                    {{c|2434|Ashoka the Great}}. One of the most remarkable
 Figures of the ancient world. He came to the throne around two-
 
 Sixty-eight BCE after a contested succession in which he is said
@@ -2201,12 +2201,12 @@ Grandfather and father. He expanded the empire. He suppressed
 
 Rebellions. And in two-sixty-two BCE, he launched a war of
 Conquest against the state of {{p|Kalinga}} on the eastern coast. The
-{{p|Kalinga War}} was brutal. According to {{c|Ashoka}}'s own later
+{{p|Kalinga War}} was brutal. According to {{c|2320|Ashoka}}'s own later
 Inscriptions, a hundred thousand people were killed, a hundred
 
 Fifty thousand were deported, and many more died from wounds and
-Starvation. {{c|Ashoka}} won. And then something astonishing happened.
-Looking at the devastation he had caused, {{c|Ashoka}} was overcome
+Starvation. {{c|2320|Ashoka}} won. And then something astonishing happened.
+Looking at the devastation he had caused, {{c|2320|Ashoka}} was overcome
 With remorse. He converted—gradually, it seems—to {{p|Buddhism}}, and
 
 Dedicated the rest of his reign to promoting what he called
@@ -2227,7 +2227,7 @@ Elders, honor priests of all religions, and so forth. Over thirty
 Of these {{p|Ashokan}} pillars and rock edicts survive. They are
 Remarkable documents—the only substantial collection of first-
 Person imperial communication to survive from ancient {{p|India}}. They
-Show us {{c|Ashoka}}'s actual voice, earnest, self-critical, committed
+Show us {{c|2320|Ashoka}}'s actual voice, earnest, self-critical, committed
 
 To an ethical vision that transcends mere political authority.
 He promoted religious tolerance: his edicts instruct subjects to
@@ -2239,19 +2239,19 @@ Position for an ancient ruler. He sponsored the third {{p|Buddhist}}
 Council at {{p|Pataliputra}}, which codified {{p|Theravada}} {{p|Buddhism}} and
 Dispatched missionary monks to various kingdoms: {{p|Sri Lanka}} (where
 
-His son {{c|Mahendra}} and daughter {{c|Sanghamitra}} led the mission),
+His son {{c|2435|Mahendra}} and daughter {{c|2436|Sanghamitra}} led the mission),
 The {{p|Hellenistic}} kingdoms of the {{p|Mediterranean}}, {{p|Central Asia}},
 And likely {{p|Southeast Asia}} and beyond. The spread of {{p|Buddhism}}
 From its original {{p|Indian}} homeland into the rest of {{p|Asia}} largely
 
-Begins with {{c|Ashoka}}'s missionary sponsorship. {{p|Buddhism}}, as it
+Begins with {{c|2320|Ashoka}}'s missionary sponsorship. {{p|Buddhism}}, as it
 Exists today—a religion of several hundred million adherents
 Across multiple {{p|Asian}} civilizations—would be unthinkable without
-{{c|Ashoka}}'s political patronage. He was the ruler who took a
+{{c|2320|Ashoka}}'s political patronage. He was the ruler who took a
 
 Regional ascetic movement and launched it into the world.
 
-                                                                {{c|Ashoka}}'s
+                                                                {{c|2320|Ashoka}}'s
 {{p|Dhamma}} was not conventional {{p|Buddhism}}. It was a kind of civic
 Ethics drawn from {{p|Buddhist}} teaching but addressed to the entire
 
@@ -2265,15 +2265,15 @@ Political rhetoric. The king claimed legitimacy not through
 Conquest or dynastic descent but through his commitment to
 Ethical governance. His power was to be used for the welfare of
 
-His subjects, including his non-human subjects—{{c|Ashoka}} placed
+His subjects, including his non-human subjects—{{c|2320|Ashoka}} placed
 Extensive restrictions on animal killing and established what
 Would now be called animal sanctuaries. No prior ruler had made
-Such claims or undertaken such policies at such scale. {{c|Ashoka}}'s
+Such claims or undertaken such policies at such scale. {{c|2320|Ashoka}}'s
 
 Reign marks a moment when political authority attempted to be
 Grounded in ethical rather than purely coercive principles. The
 Attempt is not entirely successful—the {{p|Maurya}} empire was still
-An autocracy, {{c|Ashoka}} still maintained a substantial army, and
+An autocracy, {{c|2320|Ashoka}} still maintained a substantial army, and
 
 After his death the ethical framework he had established could
 Not be maintained by his successors. But the attempt itself is
@@ -2281,20 +2281,20 @@ Historically significant. It set a precedent for the possibility
 Of ethical imperial rule that would resonate through {{p|Asian}}
 
 Political thought for millennia. In twentieth-century {{p|India}},
-{{c|Jawaharlal Nehru}} would explicitly look back to {{c|Ashoka}} as a
-Model. The modern {{p|Indian}} flag bears the {{c|Ashokan}} wheel at its
-Center. The lion capital from {{c|Ashoka}}'s pillar at {{p|Sarnath}} is
+{{c|2437|Jawaharlal Nehru}} would explicitly look back to {{c|2320|Ashoka}} as a
+Model. The modern {{p|Indian}} flag bears the {{c|2438|Ashokan}} wheel at its
+Center. The lion capital from {{c|2320|Ashoka}}'s pillar at {{p|Sarnath}} is
 
 {{p|India}}'s national emblem. The {{p|Maurya}} emperor's legacy is
 Woven into {{p|India}}'s modern self-conception.
 
-                                                  After {{c|Ashoka}}'s
+                                                  After {{c|2320|Ashoka}}'s
 Death around two-thirty-two BCE, the empire declined. His
 
 Successors were weaker; the vast realm fragmented; provincial
 Governors became autonomous. By one-eighty-five BCE, the last
 {{p|Maurya}} king had been overthrown in a coup by his own general,
-{{c|Pushyamitra Shunga}}, who founded the {{p|Shunga Dynasty}}. The
+{{c|2439|Pushyamitra Shunga}}, who founded the {{p|Shunga Dynasty}}. The
 
 {{p|Mauryan}} moment was over. But its imprint would last. {{p|India}}
 Had been shown that unification was possible. The pattern of
@@ -2303,31 +2303,31 @@ Dynasties—the {{p|Gupta Empire}} several centuries later, the
 
 {{p|Mughal Empire}} in the early modern period, modern {{p|India}} itself.
 The template was {{p|Mauryan}}. And {{p|Buddhism}}, launched across {{p|Asia}}
-By {{c|Ashoka}}'s missions, would reshape civilizations from {{p|Sri Lanka}}
-To {{p|Japan}}. {{c|Ashoka}} is one of the dozen most consequential
+By {{c|2320|Ashoka}}'s missions, would reshape civilizations from {{p|Sri Lanka}}
+To {{p|Japan}}. {{c|2320|Ashoka}} is one of the dozen most consequential
 
 Individuals in human history. And yet, astonishingly, he was
 Almost entirely forgotten in {{p|India}} itself for more than a
-Millennium. The {{c|Ashokan}} inscriptions were unreadable (the
+Millennium. The {{c|2438|Ashokan}} inscriptions were unreadable (the
 {{p|Brahmi}} script had been lost); the identity of the emperor who
 
 Had commissioned them was unknown; he was not even mentioned in
 Later {{p|Hindu}} chronicles. It was only in the nineteenth century CE
-That {{c|James Prinsep}}, a {{p|British}} colonial official and linguist,
-Deciphered {{p|Brahmi}} and read {{c|Ashoka}}'s edicts. Only then was the
+That {{c|2440|James Prinsep}}, a {{p|British}} colonial official and linguist,
+Deciphered {{p|Brahmi}} and read {{c|2320|Ashoka}}'s edicts. Only then was the
 
-Emperor's identity recovered. Like the {{p|Hittites}}, {{c|Ashoka}} is a
+Emperor's identity recovered. Like the {{p|Hittites}}, {{c|2320|Ashoka}} is a
 Figure whose greatness was substantially rediscovered by modern
 Archaeology and philology. What had been a blank in {{p|Indian}}
 Memory was filled in by scholarly detective work. And once
 
-{{c|Ashoka}} was rediscovered, he became one of the defining figures
+{{c|2320|Ashoka}} was rediscovered, he became one of the defining figures
 Of modern {{p|Indian}} identity—an astonishing case of a historical
 Figure moving from obscurity to foundational importance through
 The efforts of nineteenth- and twentieth-century scholarship.
 
                                                                      The
-{{x|Gaiad}} honors {{c|Ashoka}} as one of the genuine moral exemplars of
+{{x|Gaiad}} honors {{c|2320|Ashoka}} as one of the genuine moral exemplars of
 Political history. A conqueror who renounced conquest. A king
 Who dedicated his reign to ethical governance. A patron who
 
@@ -2336,9 +2336,9 @@ Violence led to a transformation of imperial purpose. Most
 Political histories offer few such figures. Most ancient empires
 Were machines of extraction and violence, governed by rulers whose
 
-Ethical concerns were limited or hypocritical. {{c|Ashoka}} is an
+Ethical concerns were limited or hypocritical. {{c|2320|Ashoka}} is an
 Exception, and a striking one. His example is not perfect—
-Absolute power always retains its coercive dimension, and {{c|Ashoka}}
+Absolute power always retains its coercive dimension, and {{c|2320|Ashoka}}
 Maintained an empire based on prior conquest. But within the
 
 Constraints of ancient imperial possibility, he seems to have
@@ -2346,9 +2346,9 @@ Genuinely tried to rule well. The {{x|Gaiad}} reads him as one of the
 Brightest spots in the political history of antiquity.
 
                                                            {{p|Maurya}}.
-{{c|Chandragupta}}, {{c|Bindusara}}, {{c|Ashoka}}. {{c|Chanakya}} and the {{p|Arthashastra}}.
-The defeat of {{c|Seleucus}}. {{c|Megasthenes}}'s description of {{p|Pataliputra}}.
-The {{p|Kalinga War}} and its transformative horror. {{c|Ashoka}}'s
+{{c|2425|Chandragupta}}, {{c|2430|Bindusara}}, {{c|2320|Ashoka}}. {{c|2426|Chanakya}} and the {{p|Arthashastra}}.
+The defeat of {{c|2420|Seleucus}}. {{c|2429|Megasthenes}}'s description of {{p|Pataliputra}}.
+The {{p|Kalinga War}} and its transformative horror. {{c|2320|Ashoka}}'s
 Conversion and the {{p|Dhamma}} policy. The stone pillars with their
 
 Imperial edicts. The lion capital of {{p|Sarnath}}. The missions that
@@ -2356,7 +2356,7 @@ Carried {{p|Buddhism}} across {{p|Asia}}. The first {{p|Indian}} empire. The
 Long forgetting and the nineteenth-century rediscovery.
 
                                                               {{p|Maurya}}.
-The unification of {{p|India}}. {{c|Ashoka}}'s ethical experiment. The
+The unification of {{p|India}}. {{c|2320|Ashoka}}'s ethical experiment. The
 {{p|Buddhist}} missions outward.
 
 
@@ -2365,12 +2365,12 @@ The unification of {{p|India}}. {{c|Ashoka}}'s ethical experiment. The
 In {{p|China}}, the {{p|Warring States}} period came to its violent climax.
 For two centuries seven major states had fought for dominance.
 Finally, in two-twenty-one BCE, the state of {{p|Qin}}—under its
-Ruthless king who would call himself the {{c|First Emperor}}—completed
+Ruthless king who would call himself the {{c|2441|First Emperor}}—completed
 
 The conquest of all rival states and unified {{p|China}} for the first
 Time.
 
-       {{c|Qin Shi Huang}}. The {{c|First Emperor}}. He came to the throne
+       {{c|2442|Qin Shi Huang}}. The {{c|2441|First Emperor}}. He came to the throne
 Of {{p|Qin}} as a boy of thirteen in two-forty-seven BCE. For years
 
 He ruled under a regent. Once he came into his own, he conducted
@@ -2379,7 +2379,7 @@ One by one: {{p|Han}} in two-thirty, {{p|Zhao}} in two-twenty-eight, {{p|Wei}} i
 Two-twenty-five, {{p|Chu}} in two-twenty-three, {{p|Yan}} in two-twenty-two,
 
 {{p|Qi}} in two-twenty-one. The {{p|Warring States}} were ended. {{p|China}} was
-Unified. And {{c|Qin Shi Huang}} declared himself the {{c|First Emperor}}
+Unified. And {{c|2442|Qin Shi Huang}} declared himself the {{c|2441|First Emperor}}
 Of a dynasty that, he anticipated, would last ten thousand
 Generations. His reforms were radical. He imposed a single writing
 
@@ -2408,10 +2408,10 @@ Alive four hundred sixty {{p|Confucian}} scholars. The atrocity{{fn|The burning 
 Was real, whatever the later hostile {{p|Han}} historians
 Added to it, and the real
 
-Suppression of {{p|Confucian}} and other traditions did occur. {{c|Qin Shi
+Suppression of {{p|Confucian}} and other traditions did occur. {{c|2443|Qin Shi
 Huang}}'s governing philosophy was {{p|Legalism}}—a school that had
 Developed during the {{p|Warring States}} period, articulated most
-Clearly by {{c|Han Feizi}}. {{p|Legalism}} held that human nature was
+Clearly by {{c|2444|Han Feizi}}. {{p|Legalism}} held that human nature was
 
 Essentially selfish and that effective government required strict
 Laws impartially enforced, with clear rewards for compliance and
@@ -2420,7 +2420,7 @@ Trusted in the moral cultivation of rulers, {{p|Legalism}} trusted in
 
 The power of institutional design. The emperor did not need to
 Be virtuous; he needed to administer his laws consistently. This
-Philosophy justified the authoritarian severity of {{c|Qin Shi Huang}}'s
+Philosophy justified the authoritarian severity of {{c|2442|Qin Shi Huang}}'s
 Rule. His state was efficient, centralized, and intensely oppressive.
 
 And of course he was obsessed with death. The man who had founded
@@ -2446,10 +2446,10 @@ Seventy-four by local farmers drilling a well is one of the
 Serendipitous archaeological stories of the modern era. The
 Terracotta Army stands as silent testimony to the emperor's
 Ambition, wealth, and paranoid preparation for what might come.
-{{c|Qin Shi Huang}} died in two-ten BCE, aged forty-nine, on a tour
+{{c|2442|Qin Shi Huang}} died in two-ten BCE, aged forty-nine, on a tour
 
 Of the eastern provinces. His death was kept secret by the chief
-Minister {{c|Li Si}} and the eunuch {{c|Zhao Gao}}, who did not want the
+Minister {{c|2445|Li Si}} and the eunuch {{c|2446|Zhao Gao}}, who did not want the
 Emperor's death to be announced until they had secured the
 Succession. They engineered the murder of the crown prince and
 
@@ -2466,18 +2466,18 @@ Institutional structures it had created continued to operate.
 
 The standardized writing, the bureaucratic provinces, the road
 And canal networks, the legal codes—all of these were retained
-By the successor dynasty. The {{p|Han}}. Founded by {{c|Liu Bang}}, a
+By the successor dynasty. The {{p|Han}}. Founded by {{c|2447|Liu Bang}}, a
 Peasant rebel who had risen through the chaos of the {{p|Qin}}
 
 Collapse and emerged as one of two contenders for supreme power.
-His rival was {{c|Xiang Yu}}, an aristocratic warrior of enormous
+His rival was {{c|2448|Xiang Yu}}, an aristocratic warrior of enormous
 Personal prowess but poor political judgment. In a four-year
-Civil war ({{p|Chu-Han Contention}}), {{c|Liu Bang}}—using patient political
+Civil war ({{p|Chu-Han Contention}}), {{c|2447|Liu Bang}}—using patient political
 
-Maneuvering where {{c|Xiang Yu}} used brutal force—prevailed. At the
-{{p|Battle of Gaixia}} in two-oh-two BCE, {{c|Xiang Yu}} was defeated.
-{{c|Liu Bang}} declared himself Emperor and founded the {{p|Han Dynasty}}
-As {{c|Emperor Gaozu}}. The {{p|Han}} would rule, with one brief interruption,
+Maneuvering where {{c|2448|Xiang Yu}} used brutal force—prevailed. At the
+{{p|Battle of Gaixia}} in two-oh-two BCE, {{c|2448|Xiang Yu}} was defeated.
+{{c|2447|Liu Bang}} declared himself Emperor and founded the {{p|Han Dynasty}}
+As {{c|2449|Emperor Gaozu}}. The {{p|Han}} would rule, with one brief interruption,
 
 For four hundred years—from two-oh-two BCE to two-twenty CE. It
 Was one of the longest and most influential dynasties in {{p|Chinese}}
@@ -2486,8 +2486,8 @@ But softened its harshness. They retained the centralized state
 
 But also restored (gradually) some elements of {{p|Confucian}} political
 Ethics, eventually adopting {{p|Confucianism}} as the official ideology
-During the reign of {{c|Emperor Wu}} (one-forty-one to eighty-seven BCE).
-The {{p|Han}} civil service examination, beginning under {{c|Emperor Wu}},
+During the reign of {{c|2450|Emperor Wu}} (one-forty-one to eighty-seven BCE).
+The {{p|Han}} civil service examination, beginning under {{c|2450|Emperor Wu}},
 
 Would select officials based on classical education rather than
 Hereditary status—the first step toward the fully developed
@@ -2497,7 +2497,7 @@ Was vast, populous, and culturally productive. Its population
 Reached perhaps sixty million—a fifth of the human population of
 The time. Its capital at {{p|Chang'an}} was one of the largest cities
 In the world, rivaled only by contemporary {{p|Rome}}. And the {{p|Han}}
-Was expansionist. {{c|Emperor Wu}} conducted campaigns against the
+Was expansionist. {{c|2450|Emperor Wu}} conducted campaigns against the
 
 {{p|Xiongnu}} nomads to the north, the {{p|Nanyue}} kingdom to the south
 (Conquering northern {{p|Vietnam}}), the {{p|Korean}} peninsula ({{p|Wiman Joseon}}
@@ -2517,14 +2517,14 @@ Of {{p|Ferghana}}), wool, and eventually {{p|Buddhism}}. The {{p|Silk Road}}
 Connected {{p|Han}} {{p|China}} to the {{p|Mediterranean}} world in sustained
 Long-distance exchange. It was one of the most significant
 Developments in human economic and cultural history. And the {{p|Han}}
-Itself built up intellectual culture. {{c|Sima Qian}} wrote the
+Itself built up intellectual culture. {{c|2300|Sima Qian}} wrote the
 
 {{p|Records of the Grand Historian}} ({{p|Shiji}}), the first great
 Work of {{p|Chinese}} historiography, covering the entirety of
 {{p|Chinese}} history from the legendary {{p|Yellow Emperor}} down to
-{{c|Sima Qian}}'s own time. His work would be the model for all
+{{c|2300|Sima Qian}}'s own time. His work would be the model for all
 
-Subsequent {{p|Chinese}} dynastic histories. {{c|Cai Lun}}, a court eunuch,
+Subsequent {{p|Chinese}} dynastic histories. {{c|2451|Cai Lun}}, a court eunuch,
 Invented (or perfected—predecessors existed) paper around one-
 Oh-five CE, revolutionizing record-keeping and information
 Distribution. {{p|Chinese}} mathematics, astronomy, and medicine
@@ -2552,7 +2552,7 @@ Its later centuries. The usual imperial problems: decadence at
 
 Court, rebellions on the frontiers, economic pressures, factional
 Struggles among eunuchs, officials, and military men. A brief
-Interregnum from nine to twenty-three CE—the reign of {{c|Wang Mang}},
+Interregnum from nine to twenty-three CE—the reign of {{c|2452|Wang Mang}},
 A usurper who attempted radical reforms but failed—divided the
 
 {{p|Western Han}} (two-oh-two BCE to nine CE) from the {{p|Eastern Han}}
@@ -2603,11 +2603,11 @@ In some detail because so much subsequent {{p|East Asian}} history
 
 Operates within its categories.
 
-                                    {{p|Qin}}. {{p|Han}}. {{c|Qin Shi Huang}}. {{c|Liu Bang}}.
-The {{c|First Emperor}} and the rebel-peasant who succeeded him.
+                                    {{p|Qin}}. {{p|Han}}. {{c|2442|Qin Shi Huang}}. {{c|2447|Liu Bang}}.
+The {{c|2441|First Emperor}} and the rebel-peasant who succeeded him.
 {{p|Legalism}} yielding to {{p|Confucian}}-{{p|Legalist}} synthesis. The {{p|Great Wall}}.
 
-The {{p|Terracotta Army}}. The {{p|Silk Road}} opening. {{c|Sima Qian}}'s
+The {{p|Terracotta Army}}. The {{p|Silk Road}} opening. {{c|2300|Sima Qian}}'s
 History. The invention of paper. The four centuries of {{p|Han}}
 Governance. The model that all subsequent {{p|Chinese}} dynasties
 Would try to match.
@@ -2619,7 +2619,7 @@ Years.
 
 # Chapter 177: The Punic Wars
 
-In the western {{p|Mediterranean}}, while {{c|Alexander}}'s successors were
+In the western {{p|Mediterranean}}, while {{c|1982|Alexander}}'s successors were
 Dividing up his conquests and the {{p|Han}} was unifying {{p|China}}, two
 Powers were rising that would eventually fight each other for
 Control of the {{p|Mediterranean}} world. {{p|Rome}} and {{p|Carthage}}.
@@ -2627,10 +2627,10 @@ Control of the {{p|Mediterranean}} world. {{p|Rome}} and {{p|Carthage}}.
                                                                       {{p|Rome}}
 Had begun as a small city-state on the {{p|Tiber River}} in central
 {{p|Italy}}. Its traditional founding date—seven-fifty-three BCE, by
-{{c|Romulus}}—is legendary, but archaeological evidence does show
+{{c|1566|Romulus}}—is legendary, but archaeological evidence does show
 
 A settlement there from the eighth century BCE. Initially ruled
-By kings (traditionally seven of them, ending with {{c|Tarquin the Proud}}),
+By kings (traditionally seven of them, ending with {{c|2453|Tarquin the Proud}}),
 {{p|Rome}} became a republic in five-oh-nine BCE when the last king was
 Overthrown. The {{p|Roman Republic}} had a distinctive constitutional
 
@@ -2666,7 +2666,7 @@ And into parts of {{p|Sicily}}. They had a powerful navy, a merchant
 Empire, and substantial wealth. They spoke a {{p|Semitic}} language
 
 ({{p|Punic}}, closely related to {{p|Phoenician}} and {{p|Hebrew}}), worshipped
-{{p|Semitic}} gods (including {{c|Baal Hammon}} and {{c|Tanit}}), and were
+{{p|Semitic}} gods (including {{c|2454|Baal Hammon}} and {{c|2455|Tanit}}), and were
 Regarded by the {{p|Romans}} with a mixture of admiration and suspicion.
 Their religious practices included, in their most extreme form,
 
@@ -2677,7 +2677,7 @@ Disputed; some scholars argue the burials are of children who
 
 Had died naturally and were dedicated to the gods, rather than
 Victims of active sacrifice. But some ancient sources describe
-Systematic sacrifice of infants to {{c|Baal Hammon}} in times of civic
+Systematic sacrifice of infants to {{c|2454|Baal Hammon}} in times of civic
 Crisis. The {{p|Romans}} regarded {{p|Carthaginian}} religion as particularly
 
 Barbaric—an attitude that would later feed into {{p|Roman}} propaganda
@@ -2709,21 +2709,21 @@ Financially strained, faced a further crisis when its own
 Mercenary troops rebelled; it took three years to suppress this
 {{p|Mercenary War}}. During that period, {{p|Rome}} seized {{p|Sardinia}} and
 {{p|Corsica}}—an action widely regarded as opportunistic and unfair.
-{{p|Carthaginian}} resentment festered. The general {{c|Hamilcar Barca}}—
+{{p|Carthaginian}} resentment festered. The general {{c|2456|Hamilcar Barca}}—
 
 One of {{p|Carthage}}'s most capable commanders—led the family that
-Would drive the next war. He had his young son {{c|Hannibal}} swear,
+Would drive the next war. He had his young son {{c|2457|Hannibal}} swear,
 At an altar, eternal enmity against {{p|Rome}}. That oath would shape
-The coming conflict. {{c|Hamilcar}} built up {{p|Carthaginian}} power in
+The coming conflict. {{c|2458|Hamilcar}} built up {{p|Carthaginian}} power in
 
 {{p|Iberia}}, expanding the empire westward and creating a base from
 Which to eventually renew the war. He was succeeded by his son-in-
-Law {{c|Hasdrubal}}, and then by {{c|Hannibal}} himself, who took command
+Law {{c|2459|Hasdrubal}}, and then by {{c|2457|Hannibal}} himself, who took command
 In {{p|Spain}} in two-twenty-one BCE.
 
                                        The {{p|Second Punic War}}
 (Two-eighteen to two-oh-one BCE) was perhaps the most dramatic war
-Of antiquity. {{c|Hannibal}}, anticipating that {{p|Rome}} would attack him
+Of antiquity. {{c|2457|Hannibal}}, anticipating that {{p|Rome}} would attack him
 In {{p|Spain}}, decided instead to strike first. He led an army of
 
 Perhaps fifty thousand men—including war elephants—across the
@@ -2737,9 +2737,9 @@ Homeland. He won three catastrophic victories in succession. At
 The {{p|Trebia River}} in two-eighteen BCE. At {{p|Lake Trasimene}} in
 
 Two-seventeen BCE (where he ambushed and destroyed an entire
-{{p|Roman}} army in a mountain pass, killing the consul {{c|Flaminius}}).
+{{p|Roman}} army in a mountain pass, killing the consul {{c|2460|Flaminius}}).
 And at {{p|Cannae}} in two-sixteen BCE—the most devastating {{p|Roman}}
-Defeat in centuries. At {{p|Cannae}}, {{c|Hannibal}} used a tactical
+Defeat in centuries. At {{p|Cannae}}, {{c|2457|Hannibal}} used a tactical
 
 Innovation now called the "{{p|double envelopment}}": allowing his
 Center to slowly yield while his flanks wheeled around behind
@@ -2749,27 +2749,27 @@ The advancing {{p|Romans}}, encircling them completely. The trapped
 In a single afternoon—a death toll larger than any single day's
 Combat casualties in {{p|Western}} history until the twentieth century.
 After {{p|Cannae}}, the {{p|Roman}} state faced existential crisis. Many
-Of their {{p|Italian}} allies defected to {{c|Hannibal}}. The war seemed
+Of their {{p|Italian}} allies defected to {{c|2457|Hannibal}}. The war seemed
 
 Lost. But {{p|Rome}} did not break. The {{x|Senate}}, showing the discipline
-For which it became famous, refused to negotiate with {{c|Hannibal}}.
-{{p|Rome}} would fight on. And it did. The general {{c|Quintus Fabius Maximus}}
+For which it became famous, refused to negotiate with {{c|2457|Hannibal}}.
+{{p|Rome}} would fight on. And it did. The general {{c|2461|Quintus Fabius Maximus}}
 Adopted what became known as "Fabian tactics": refusing to engage
 
-{{c|Hannibal}} directly, shadowing his army, cutting his supply lines,
-Slowly wearing him down. {{c|Hannibal}} could win battles but could
+{{c|2457|Hannibal}} directly, shadowing his army, cutting his supply lines,
+Slowly wearing him down. {{c|2457|Hannibal}} could win battles but could
 Not force {{p|Rome}} to surrender. Meanwhile, {{p|Roman}} armies operated
-Elsewhere: in {{p|Spain}}, where {{c|Publius Cornelius Scipio}} (later
+Elsewhere: in {{p|Spain}}, where {{c|2462|Publius Cornelius Scipio}} (later
 
-Called {{c|Africanus}}) defeated {{p|Carthaginian}} forces and eventually
+Called {{c|2463|Africanus}}) defeated {{p|Carthaginian}} forces and eventually
 Conquered the entire peninsula; in {{p|Sicily}}, where the {{p|Greek}} city
 Of {{p|Syracuse}} (which had defected to {{p|Carthage}}) was besieged and
 Taken (an event famous for the death of the mathematician
 
-{{c|Archimedes}}, who was killed by a {{p|Roman}} soldier during the sack
-Despite orders to spare him); in {{p|North Africa}}, where {{c|Scipio}}
+{{c|2409|Archimedes}}, who was killed by a {{p|Roman}} soldier during the sack
+Despite orders to spare him); in {{p|North Africa}}, where {{c|2464|Scipio}}
 Ultimately carried the war to {{p|Carthage}} itself. In two-oh-two BCE,
-At the {{p|Battle of Zama}}, {{c|Scipio}} defeated {{c|Hannibal}} on {{c|Hannibal}}'s
+At the {{p|Battle of Zama}}, {{c|2464|Scipio}} defeated {{c|2457|Hannibal}} on {{c|2457|Hannibal}}'s
 
 Home ground. The {{p|Second Punic War}} ended. {{p|Carthage}} was stripped
 Of its overseas territories, forbidden to maintain a navy without
@@ -2779,7 +2779,7 @@ Was reduced to a shadow of its former power. But it still existed.
 And for two generations, {{p|Carthage}} remained—a commercial city
 Confined to its {{p|African}} hinterland, paying its indemnity, gradually
 Recovering economically. {{p|Rome}} watched with increasing distrust.
-The old senator {{c|Cato the Elder}} ended every speech in the {{x|Senate}},
+The old senator {{c|2465|Cato the Elder}} ended every speech in the {{x|Senate}},
 
 Regardless of its topic, with the phrase "{{p|Carthago delenda est}}"—
 "{{p|Carthage}} must be destroyed." In the mid-second century BCE,
@@ -2812,12 +2812,12 @@ Wealth to {{p|Rome}}. The acquisition of {{p|Sicily}} and eventually {{p|Africa}
 Gave it a grain supply that would feed {{p|Rome}}'s growing urban
 Population. The wars also concentrated power in the hands of
 
-Successful generals like {{c|Scipio Africanus}}, beginning a pattern
+Successful generals like {{c|2466|Scipio Africanus}}, beginning a pattern
 Of political-military personality that would eventually undermine
 The {{p|Republic}}. The precedent of one man holding exceptional command
 For extended periods against military threats would be invoked
 
-By {{c|Marius}}, {{c|Sulla}}, {{c|Pompey}}, and eventually {{c|Julius Caesar}}—each
+By {{c|1027|Marius}}, {{c|2467|Sulla}}, {{c|2468|Pompey}}, and eventually {{c|2469|Julius Caesar}}—each
 Drawing on the institutional flexibility that the {{p|Punic Wars}}
 Had established. The wars also militarized {{p|Roman}} society. Most
 Adult male {{p|Romans}} served for years as soldiers. Veterans returned
@@ -2829,7 +2829,7 @@ To work it). The resulting social displacement created a class
 
 Of landless poor who crowded into {{p|Rome}} and other cities—a
 Volatile population that would fuel political instability for
-Generations. The social reforms of the {{c|Gracchi brothers}} in the
+Generations. The social reforms of the {{c|2470|Gracchi brothers}} in the
 Late second century BCE tried to address this problem through
 
 Land redistribution; their failure and violent deaths marked the
@@ -2848,19 +2848,19 @@ Foundations of {{p|Roman}} imperial power were laid in the {{p|Punic Wars}}.
 Without them, there would have been no {{p|Roman Empire}}.
 
                                                                     And
-{{c|Hannibal}} himself. Defeated at {{p|Zama}}, exiled from {{p|Carthage}} for
+{{c|2457|Hannibal}} himself. Defeated at {{p|Zama}}, exiled from {{p|Carthage}} for
 Political reasons, he wandered the eastern {{p|Mediterranean}} in the
 Following years, offering his military expertise to anti-{{p|Roman}}
 
 Powers. He eventually took refuge with the {{p|Bithynian}} king
-{{c|Prusias I}}. When {{p|Roman}} diplomats demanded that {{c|Hannibal}} be
+{{c|2471|Prusias I}}. When {{p|Roman}} diplomats demanded that {{c|2457|Hannibal}} be
 Turned over to them, he took poison rather than face capture.
 He died in exile, probably in one-eighty-three BCE, at around
 
 Age sixty-three. His tactical genius is still studied in military
 Academies worldwide. His double envelopment at {{p|Cannae}} has been
 Emulated (successfully and unsuccessfully) by commanders from
-{{c|Frederick the Great}} to {{c|Robert E. Lee}} to modern military
+{{c|2472|Frederick the Great}} to {{c|2473|Robert E. Lee}} to modern military
 
 Theorists. He stands as one of the supreme commanders in history—
 A man who crossed the {{p|Alps}} with elephants, won three impossible
@@ -2868,7 +2868,7 @@ Victories against the greatest power of his age, and sustained
 A hopeless campaign in hostile territory for fifteen years before
 
 Finally being defeated not by battle but by the systematic attrition
-Of superior resources. The {{x|Gaiad}} honors {{c|Hannibal}}'s genius even
+Of superior resources. The {{x|Gaiad}} honors {{c|2457|Hannibal}}'s genius even
 While recognizing that his cause—the preservation of {{p|Punic}}
 Civilization against {{p|Roman}} expansion—was ultimately lost. He
 
@@ -2877,13 +2877,13 @@ In service of a state that could not, in the end, match the
 Manpower and institutional resilience of its enemy.
 
                                                            {{p|Punic Wars}}.
-{{p|Rome}} and {{p|Carthage}}. Three wars across a century. {{c|Hamilcar}},
-{{c|Hasdrubal}}, {{c|Hannibal}}. The {{p|Alps}} crossing. {{p|Trebia}}, {{p|Trasimene}}, {{p|Cannae}}.
+{{p|Rome}} and {{p|Carthage}}. Three wars across a century. {{c|2458|Hamilcar}},
+{{c|2459|Hasdrubal}}, {{c|2457|Hannibal}}. The {{p|Alps}} crossing. {{p|Trebia}}, {{p|Trasimene}}, {{p|Cannae}}.
 The double envelopment. {{p|Roman}} resilience under catastrophic
-Defeat. {{c|Scipio Africanus}}'s counter-invasion. The victory at {{p|Zama}}.
+Defeat. {{c|2466|Scipio Africanus}}'s counter-invasion. The victory at {{p|Zama}}.
 
 The {{p|Third Punic War}} and the destruction of {{p|Carthage}}.
-{{c|Cato}}'s "{{p|Carthago delenda est}}." The refounding of {{p|Carthage}} as
+{{c|2474|Cato}}'s "{{p|Carthago delenda est}}." The refounding of {{p|Carthage}} as
 A {{p|Roman}} colony and the absorption of {{p|North Africa}} into {{p|Roman}}
 Territory.
 
@@ -2912,12 +2912,12 @@ The legions served the generals now.
 The conquered provinces sent wealth
 that drowned the old {{p|Italian}} plough.
 
-The {{c|Gracchi Brothers}}, {{c|Tiberius}}
-and {{c|Gaius}}, saw the danger clear:
+The {{c|2475|Gracchi Brothers}}, {{c|2476|Tiberius}}
+and {{c|2477|Gaius}}, saw the danger clear:
 the landless poor, the latifundia,
 the veterans with naught to cheer.
 
-{{c|Tiberius}} proposed reform,
+{{c|2476|Tiberius}} proposed reform,
 to give the soldiers land again.
 The {{x|Senate}} killed him in the streets.
 His brother fell the same way then.
@@ -2927,12 +2927,12 @@ when wealth was threatened at its root,
 and after that the path was set
 toward civil war and bloody fruit.
 
-{{c|Marius}} reformed the legions whole,
+{{c|1027|Marius}} reformed the legions whole,
 made volunteers the fighting core,
 tied soldiers' loyalty to their chief
 and not the state they fought for.
 
-{{c|Sulla}} marched his legions in
+{{c|2467|Sulla}} marched his legions in
 upon the sacred city's ground,
 the first {{p|Roman}} to make such war,
 and dictator for life was crowned.
@@ -2947,19 +2947,19 @@ The precedent was set in stone:
 armies belonged to generals now,
 and politics meant swords alone.
 
-{{c|Pompey}} rose, the golden boy,
+{{c|2468|Pompey}} rose, the golden boy,
 who cleared the pirates from the sea,
 who conquered eastward to the {{p|Nile}}
 and gave {{p|Judea}} subsequently.
 
-{{c|Crassus}} rose, the wealthiest man,
-who crushed the {{c|Spartacus}} revolt,
+{{c|2478|Crassus}} rose, the wealthiest man,
+who crushed the {{c|2479|Spartacus}} revolt,
 whose gold bought armies, bought the {{x|Senate}},
 bought whatever he assault.
 
-{{c|Julius Caesar}} rose, the third,
-who claimed descent from {{c|Aeneas}},
-who claimed descent from {{c|Venus}} herself,
+{{c|2469|Julius Caesar}} rose, the third,
+who claimed descent from {{c|2480|Aeneas}},
+who claimed descent from {{c|95|Venus}} herself,
 and was the ablest of the three.
 
 The {{x|First Triumvirate}} was formed,
@@ -2967,22 +2967,22 @@ unofficial, power-sharing pact.
 They carved the {{p|Roman}} world between them
 and ruled by this unwritten act.
 
-{{c|Crassus}} died in {{p|Parthia}}, shot
+{{c|2478|Crassus}} died in {{p|Parthia}}, shot
 with arrows at the battle's close.
 His head was used as stage-prop in
 a {{x|Greek}} tragedy, or so it goes.
 
-Then {{c|Pompey}} and {{c|Caesar}} turned to war.
-{{c|Caesar}} crossed the {{p|Rubicon}} small
+Then {{c|2468|Pompey}} and {{c|1983|Caesar}} turned to war.
+{{c|1983|Caesar}} crossed the {{p|Rubicon}} small
 with legions, saying "die is cast,"
 and brought the {{x|Republic}} to its fall.
 
-He chased {{c|Pompey}} to {{p|Egypt}}, where
-the boy-king {{c|Ptolemy}} beheaded
+He chased {{c|2468|Pompey}} to {{p|Egypt}}, where
+the boy-king {{c|2265|Ptolemy}} beheaded
 the {{p|Roman}} general, thinking thus
-{{c|Caesar}}'s gratitude was threaded.
+{{c|1983|Caesar}}'s gratitude was threaded.
 
-{{c|Caesar}} wept. Then met {{c|Cleopatra}},
+{{c|1983|Caesar}} wept. Then met {{c|2481|Cleopatra}},
 who rolled inside a carpet's pack,
 and made alliance with her bed
 and put her on the {{p|Egyptian}} track.
@@ -2992,39 +2992,39 @@ wrote {{x|Commentaries}} on his war,
 "veni, vidi, vici" at {{p|Zela}},
 and dictator for life he bore.
 
-The {{x|Ides of March}} came. {{c|Brutus}} struck,
-with {{c|Cassius}} and the {{x|Senate}}'s knives.
-"Et tu, {{c|Brute}}?" — then {{c|Caesar}} fell,
+The {{x|Ides of March}} came. {{c|2482|Brutus}} struck,
+with {{c|2483|Cassius}} and the {{x|Senate}}'s knives.
+"Et tu, {{c|2484|Brute}}?" — then {{c|1983|Caesar}} fell,
 and {{p|Rome}} was torn among his wives.
 
-{{c|Mark Antony}} gave the funeral speech
+{{c|2485|Mark Antony}} gave the funeral speech
 ("I come to bury, not to praise"),
 roused the crowd against the killers,
 and started civil war's new phase.
 
-{{c|Octavian}}, {{c|Caesar}}'s grandnephew,
+{{c|2486|Octavian}}, {{c|1983|Caesar}}'s grandnephew,
 adopted as his heir by will,
 revealed himself the cold-eyed one
 with patience and political skill.
 
 The {{x|Second Triumvirate}} formed:
-{{c|Antony}}, {{c|Octavian}}, {{c|Lepidus}}.
-They hunted {{c|Brutus}} down at {{p|Philippi}},
+{{c|2487|Antony}}, {{c|2486|Octavian}}, {{c|2488|Lepidus}}.
+They hunted {{c|2482|Brutus}} down at {{p|Philippi}},
 then turned upon each other thus.
 
-{{c|Lepidus}} was marginalized.
-{{c|Antony}} went east to {{c|Cleopatra}}.
-{{c|Octavian}} stayed in {{p|Rome}} to build
+{{c|2488|Lepidus}} was marginalized.
+{{c|2487|Antony}} went east to {{c|2481|Cleopatra}}.
+{{c|2486|Octavian}} stayed in {{p|Rome}} to build
 his reputation bit by bit.
 
-{{c|Antony}} lost himself in {{p|Egypt}},
+{{c|2487|Antony}} lost himself in {{p|Egypt}},
 living as pharaoh with his queen,
 alienating {{p|Roman}} sentiment,
 the conqueror gone {{x|Alexandrine}}.
 
 At {{p|Actium}} the fleets collided.
-{{c|Octavian}}'s admiral {{c|Agrippa}} won.
-{{c|Antony}} and {{c|Cleopatra}} fled,
+{{c|2486|Octavian}}'s admiral {{c|2489|Agrippa}} won.
+{{c|2487|Antony}} and {{c|2481|Cleopatra}} fled,
 and soon enough their lives were done.
 
 She with the asp, the royal cobra,
@@ -3032,8 +3032,8 @@ the uraeus of {{p|Egyptian}} crown.
 He with his sword, the {{p|Roman}} way.
 The {{x|Ptolemaic}} line went down.
 
-{{c|Octavian}} stood the sole {{p|Roman}},
-and took the title {{c|Augustus}} then,
+{{c|2486|Octavian}} stood the sole {{p|Roman}},
+and took the title {{c|2490|Augustus}} then,
 the "revered one," princeps, first,
 and ruled for forty-five years again.
 
@@ -3053,46 +3053,46 @@ one law, one coin, one road-network,
 one citizenship across the land.
 
 The emperors came, some good, some mad:
-{{c|Tiberius}} grew dark on {{p|Capri}}.
-{{c|Caligula}} made his horse a consul.
-{{c|Claudius}} the limping one was wily.
+{{c|2476|Tiberius}} grew dark on {{p|Capri}}.
+{{c|2491|Caligula}} made his horse a consul.
+{{c|2492|Claudius}} the limping one was wily.
 
-{{c|Nero}} burned and fiddled — or
+{{c|2493|Nero}} burned and fiddled — or
 perhaps that part was later slander.
 But he killed his mother, killed his wife,
-killed {{c|Christians}}, killed with grand meander.
+killed {{c|2494|Christians}}, killed with grand meander.
 
 The {{x|Year of Four Emperors}} came
-when {{c|Nero}} fell upon his sword.
-{{c|Galba}}, {{c|Otho}}, {{c|Vitellius}}, {{c|Vespasian}} —
+when {{c|2493|Nero}} fell upon his sword.
+{{c|2495|Galba}}, {{c|2496|Otho}}, {{c|2497|Vitellius}}, {{c|2498|Vespasian}} —
 four imperial purples poured.
 
-{{c|Vespasian}} stabilized the state,
+{{c|2498|Vespasian}} stabilized the state,
 built the {{p|Colosseum}} in {{p|Rome}},
 and founded the {{x|Flavian}} dynasty
 to give the empire fresh new home.
 
-His son {{c|Titus}} sacked {{p|Jerusalem}}
+His son {{c|2499|Titus}} sacked {{p|Jerusalem}}
 in seventy of the {{x|Common Era}},
 destroyed the {{p|Second Temple}} whole,
 and changed {{x|Judaism}}'s era.
 
 The menorah was carried west
 upon the {{p|Arch of Titus}}' face.
-The {{c|Jews}} were scattered through the empire.
+The {{c|2500|Jews}} were scattered through the empire.
 The {{p|Temple}} cult had lost its place.
 
 But {{p|Rome}} rolled on, the {{x|Five Good Emperors}}:
-{{c|Nerva}}, {{c|Trajan}}, {{c|Hadrian}},
-{{c|Antoninus Pius}}, and {{c|Marcus Aurelius}},
+{{c|2501|Nerva}}, {{c|2502|Trajan}}, {{c|2503|Hadrian}},
+{{c|2504|Antoninus Pius}}, and {{c|2505|Marcus Aurelius}},
 who was both emperor and {{x|Stoic}} man.
 
-{{c|Trajan}} pushed to {{p|Dacia}}, took the gold,
+{{c|2502|Trajan}} pushed to {{p|Dacia}}, took the gold,
 reached the greatest extent of the realm.
-{{c|Hadrian}} pulled back to the walls,
+{{c|2503|Hadrian}} pulled back to the walls,
 built {{p|Hadrian's Wall}} across the helm.
 
-{{c|Marcus}} wrote his {{x|Meditations}}
+{{c|2506|Marcus}} wrote his {{x|Meditations}}
 in {{x|Greek}}, for his own private eye,
 a {{x|Stoic}} emperor's private journal,
 one of the great books that will not die.
@@ -3102,13 +3102,13 @@ I shall meet with the busybody, ungrateful,
 arrogant, deceitful, envious, unsocial..."
 and yet still serve them all, faithful.
 
-He fought the {{c|Marcomanni}} on the {{p|Danube}},
+He fought the {{c|2507|Marcomanni}} on the {{p|Danube}},
 plague was ravaging the troops,
 and when he died, the empire was
 already starting to lose its loops.
 
-His son {{c|Commodus}} was the break.
-He fought in the arena, thought himself {{c|Hercules}},
+His son {{c|2508|Commodus}} was the break.
+He fought in the arena, thought himself {{c|2509|Hercules}},
 was strangled by a wrestler in his bath,
 and after him came crises.
 
@@ -3121,18 +3121,18 @@ the greatest empire made by man.
 # Chapter 179: Second Temple Period
 
 Return from {{p|Babylon}} to {{p|Jerusalem}},
-by grace of {{c|Cyrus}}' decree,
+by grace of {{c|2180|Cyrus}}' decree,
 the exiles rebuilt the {{p|Temple}} small
 and tried to reclaim their destiny.
 
-But who was {{c|Jew}} was now a question.
+But who was {{c|2510|Jew}} was now a question.
 The returnees drew tight the line.
-The {{c|Samaritans}} were turned away,
+The {{c|2511|Samaritans}} were turned away,
 the mixed-blood were excluded in time.
 
-{{c|Ezra}} read the {{x|Torah}} aloud
+{{c|2276|Ezra}} read the {{x|Torah}} aloud
 for seven days at the {{p|Water Gate}}.
-{{c|Nehemiah}} built the walls again.
+{{c|2277|Nehemiah}} built the walls again.
 The community consolidated late.
 
 The priesthood was now the center,
@@ -3140,20 +3140,20 @@ the high priest as civil head.
 Under {{x|Persian}}, then {{x|Macedonian}} rule,
 {{p|Judea}} quietly went ahead.
 
-Then {{c|Alexander}} came through the land,
-was shown the prophecy of {{c|Daniel}}
-according to {{c|Josephus}}' tale,
+Then {{c|1982|Alexander}} came through the land,
+was shown the prophecy of {{c|2512|Daniel}}
+according to {{c|2513|Josephus}}' tale,
 and spared {{p|Jerusalem}} from peril.
 
-After {{c|Alexander}} came the {{c|Seleucids}},
+After {{c|1982|Alexander}} came the {{c|2514|Seleucids}},
 the {{x|Greek}} kingdom east in {{p|Syria}},
 who ruled {{p|Judea}} as a province
 with some degree of imperial delirium.
 
-{{c|Antiochus IV Epiphanes}} came,
+{{c|2515|Antiochus IV Epiphanes}} came,
 who wanted {{x|Greek}} culture spread,
 who sacked {{p|Jerusalem}}, banned the {{x|Law}},
-and set up {{c|Zeus}} above the holy head.
+and set up {{c|2065|Zeus}} above the holy head.
 
 He sacrificed a pig upon
 the altar in the {{p|Temple}}'s court.
@@ -3161,13 +3161,13 @@ The "abomination of desolation"
 was what the {{x|Book of Daniel}} reported.
 
 This was too much. Revolt broke out.
-{{c|Mattathias}} the priest refused
+{{c|2516|Mattathias}} the priest refused
 to make the {{x|Greek}} sacrifice, and killed
-the {{c|Jew}} who volunteered, misused.
+the {{c|2510|Jew}} who volunteered, misused.
 
-His son {{c|Judas Maccabeus}} rose,
-the {{c|Hammer of the Lord}}, and led
-guerrilla war against the {{c|Greeks}}
+His son {{c|2517|Judas Maccabeus}} rose,
+the {{c|2518|Hammer of the Lord}}, and led
+guerrilla war against the {{c|2519|Greeks}}
 until the {{p|Temple}} was reconsecrated.
 
 {{x|Hanukkah}} the festival commemorates
@@ -3178,69 +3178,69 @@ when only one day's oil was in sight.
 The {{x|Hasmonean}} dynasty rose
 from this successful {{x|Maccabee}} war,
 combining high priest with king,
-which some {{c|Jews}} thought was against the law.
+which some {{c|2500|Jews}} thought was against the law.
 
-The {{c|Essenes}} withdrew to {{p|Qumran}}
+The {{c|2520|Essenes}} withdrew to {{p|Qumran}}
 to wait for the end of days.
 They wrote the {{x|Dead Sea Scrolls}} in caves,
 rediscovered in modern ways.
 
-The {{c|Pharisees}} developed oral law,
+The {{c|2521|Pharisees}} developed oral law,
 the synagogue, the rabbinic mode,
 the piety of every household's {{x|Torah}},
 the democratic learning code.
 
-The {{c|Sadducees}} were the priestly class,
+The {{c|2522|Sadducees}} were the priestly class,
 who held only the written {{x|Law}},
 denied the resurrection's hope,
 and ruled the {{p|Temple}} without awe.
 
-The {{c|Zealots}} wanted armed revolt
+The {{c|2523|Zealots}} wanted armed revolt
 against whatever power held sway.
 The apocalyptists wrote of ends
-when {{c|God}} would break into the fray.
+when {{c|472|God}} would break into the fray.
 
-Then {{p|Rome}} arrived. {{c|Pompey}} marched in
+Then {{p|Rome}} arrived. {{c|2468|Pompey}} marched in
 in sixty-three before the {{x|Common Era}},
 walked into the {{p|Holy of Holies}},
 astonished that the room was bare.
 
 (For what had he expected? Some golden idol?
-The {{c|Jews}} had no image of their god.
+The {{c|2500|Jews}} had no image of their god.
 Just an empty room where the {{x|Ark}} had been
-before {{c|Nebuchadnezzar}}'s rod.)
+before {{c|2024|Nebuchadnezzar}}'s rod.)
 
-{{p|Rome}} installed {{c|Herod the Great}},
+{{p|Rome}} installed {{c|2524|Herod the Great}},
 an {{x|Idumean}}, half-Jewish at best,
 who built magnificent palaces,
 expanded the {{p|Temple}}, tried to rest.
 
 He rebuilt the {{p|Second Temple}} as
 the grandest structure in the {{p|East}},
-{{c|Herod}}'s {{p|Temple}}, the one that {{c|Jesus}}
-would know, the one the {{c|Romans}} decreased.
+{{c|2525|Herod}}'s {{p|Temple}}, the one that {{c|1912|Jesus}}
+would know, the one the {{c|1004|Romans}} decreased.
 
-But {{c|Herod}} was paranoid, murderous,
+But {{c|2525|Herod}} was paranoid, murderous,
 killed his own sons, his wife as well,
 and the {{x|Gospels}} remember him as
 the slaughterer of infants in {{p|Bethlehem}}'s dell.
 
-After {{c|Herod}}, the kingdom split,
-the {{c|Romans}} ruled through procurators,
+After {{c|2525|Herod}}, the kingdom split,
+the {{c|1004|Romans}} ruled through procurators,
 and messianic expectation rose
 among the poor, the oppressed debtors.
 
-When would the {{c|Messiah}} come?
-The {{c|Son of David}}, the anointed one
+When would the {{c|2526|Messiah}} come?
+The {{c|2527|Son of David}}, the anointed one
 who would drive out {{p|Rome}} and restore
 the kingdom as in days bygone?
 
 Multiple claimants rose and fell.
-{{c|Theudas}}. {{c|Judas the Galilean}}.
+{{c|2528|Theudas}}. {{c|2529|Judas the Galilean}}.
 The Egyptian prophet at {{p|Olivet}}.
-{{c|Bar Kochba}} later, the Judean.
+{{c|2530|Bar Kochba}} later, the Judean.
 
-Into this ferment {{c|John the Baptist}} came
+Into this ferment {{c|2531|John the Baptist}} came
 preaching repentance at the {{p|Jordan}}'s edge,
 baptizing crowds who felt the end
 was near, the kingdom's sudden pledge.
@@ -3250,9 +3250,9 @@ clothed in camel-hair, fed on locusts and honey,
 an Essene-adjacent prophet figure
 urging the people, "turn now, stop running."
 
-He baptized {{c|Jesus}} of {{p|Nazareth}},
-and later lost his head to {{c|Herod}}
-{{c|Antipas}}, the tetrarch, for denouncing
+He baptized {{c|1912|Jesus}} of {{p|Nazareth}},
+and later lost his head to {{c|2525|Herod}}
+{{c|2532|Antipas}}, the tetrarch, for denouncing
 his marriage to his brother's bride.
 
 The kingdom was about to arrive.
@@ -3278,11 +3278,11 @@ It was a portable faith of text,
 of weekly synagogue vocation.
 
 It had rivals, it had debates,
-{{c|Pharisee}} against {{c|Sadducee}},
-{{c|Essene}} against {{c|Zealot}}, Hellenized
+{{c|2533|Pharisee}} against {{c|2534|Sadducee}},
+{{c|2535|Essene}} against {{c|2536|Zealot}}, Hellenized
 against the strict traditional trees.
 
-But all agreed: one {{c|God}}, no image,
+But all agreed: one {{c|472|God}}, no image,
 covenant, {{x|Torah}}, {{x|Sabbath}}, kosher.
 And all were waiting for what would come
 to change the world and bring it closer.
@@ -3292,8 +3292,8 @@ to change the world and bring it closer.
 
 In {{p|Bethlehem}}, or {{p|Nazareth}},
 (the {{x|Gospels}} disagree on birth),
-under {{c|Augustus}}' reign, to {{c|Joseph}}
-and {{c|Mary}}, a child came to earth.
+under {{c|2490|Augustus}}' reign, to {{c|2031|Joseph}}
+and {{c|1399|Mary}}, a child came to earth.
 
 The tradition says a virgin birth,
 a star, magi from the {{p|East}},
@@ -3306,24 +3306,24 @@ years after, when the community
 was thinking what had been conveyed.
 
 The core historical facts are few.
-He was a Galilean {{c|Jew}}.
+He was a Galilean {{c|2510|Jew}}.
 He grew up, probably in {{p|Nazareth}},
-learned carpentry as {{c|Joseph}} knew.
+learned carpentry as {{c|2031|Joseph}} knew.
 
 At thirty or so, he left his home,
-went to {{c|John}} at the {{p|Jordan}}'s flow,
+went to {{c|2537|John}} at the {{p|Jordan}}'s flow,
 was baptized, heard a voice from heaven:
 "You are my beloved son, I know."
 
 Then into the wilderness forty days,
-tempted by whatever {{c|Satan}} meant,
+tempted by whatever {{c|2538|Satan}} meant,
 and afterward he began to preach
 the kingdom's immanent advent.
 
-"Repent, for the kingdom of {{c|God}}
-is at hand." The same as {{c|John the Baptist}}.
-But where {{c|John}} had preached apocalypse,
-{{c|Jesus}} spoke of mercy as the rest.
+"Repent, for the kingdom of {{c|472|God}}
+is at hand." The same as {{c|2531|John the Baptist}}.
+But where {{c|2537|John}} had preached apocalypse,
+{{c|1912|Jesus}} spoke of mercy as the rest.
 
 He called twelve disciples, fishermen,
 tax collectors, a zealot too,
@@ -3346,14 +3346,14 @@ blessed are those who mourn, who hunger,
 who are persecuted for my merit."
 
 The love commands were two and radical:
-"Love {{c|God}} with all your heart and soul.
+"Love {{c|472|God}} with all your heart and soul.
 Love your neighbor as yourself."
 On these two hung the {{x|Law}}'s whole.
 
 But he added one that no one had said:
 "Love your enemies. Pray for those
 who persecute you. Be perfect as
-your {{c|Heavenly Father}} is, who bestows
+your {{c|2539|Heavenly Father}} is, who bestows
 
 sun and rain on the just and unjust both."
 This was the new, the radical turn.
@@ -3361,9 +3361,9 @@ Not just mercy to your tribe or friend,
 but mercy to those whose hate you earn.
 
 He healed the sick, cast out demons,
-raised {{c|Jairus}}' daughter from the dead,
+raised {{c|2540|Jairus}}' daughter from the dead,
 raised the widow of {{p|Nain}}'s son,
-raised {{c|Lazarus}} four days in the bed.
+raised {{c|2541|Lazarus}} four days in the bed.
 
 He walked on water in the storm.
 He fed the five thousand with few loaves.
@@ -3377,15 +3377,15 @@ were not the final word, it's true.
 
 He chose twelve for the twelve tribes of {{p|Israel}},
 symbolic of restoration complete.
-He taught the disciples to pray "Our {{c|Father}},"
+He taught the disciples to pray "Our {{c|2542|Father}},"
 giving the kingdom's prayer to recite.
 
 He reserved his sharpest words not for
 the sinners, the prostitutes, the thieves,
 but for the religious professionals,
-the {{c|Pharisees}} who played with sleeves.
+the {{c|2521|Pharisees}} who played with sleeves.
 
-"Woe to you, scribes and {{c|Pharisees}},
+"Woe to you, scribes and {{c|2521|Pharisees}},
 hypocrites, who strain out a gnat
 and swallow a camel. Who tithe mint
 and cumin, but neglect the fat
@@ -3396,26 +3396,26 @@ You whitewashed tombs, beautiful outside,
 full of dead men's bones and ugliness."
 
 This made enemies. And when he went
-to {{p|Jerusalem}} for {{c|Passover}},
+to {{p|Jerusalem}} for {{c|2543|Passover}},
 rode in on a donkey to cheers,
 overturned the money-changers' tables in {{p|Temple}} stover,
 
 the authorities decided to act.
-The high priest {{c|Caiaphas}} said
+The high priest {{c|2544|Caiaphas}} said
 "it is better for one man to die
 than for the whole nation to be red."
 
-{{c|Judas Iscariot}} betrayed him
+{{c|2545|Judas Iscariot}} betrayed him
 for thirty pieces of silver, paid.
 He kissed him in the {{p|Garden of Gethsemane}}
 and showed the soldiers where he stayed.
 
 He was arrested, tried by the {{x|Sanhedrin}},
-tried by {{c|Pilate}}, tried by {{c|Herod Antipas}},
-sent back to {{c|Pilate}}, who washed his hands,
-and let the crowd choose {{c|Barabbas}} instead.
+tried by {{c|2546|Pilate}}, tried by {{c|2547|Herod Antipas}},
+sent back to {{c|2546|Pilate}}, who washed his hands,
+and let the crowd choose {{c|2548|Barabbas}} instead.
 
-The crowd chose {{c|Barabbas}}. {{c|Jesus}} was
+The crowd chose {{c|2548|Barabbas}}. {{c|1912|Jesus}} was
 scourged, crowned with thorns, made mocking king,
 forced to carry his cross to {{p|Golgotha}},
 the place of the skull, the ugliest thing.
@@ -3425,22 +3425,22 @@ for rebels, slaves, the lowest of men.
 He hung with thieves on either side
 for six hours, and then spoke seven "amens":
 
-"{{c|Father}}, forgive them, they know not
+"{{c|2542|Father}}, forgive them, they know not
 what they do." "Today you shall be with me
 in {{p|Paradise}}." "Woman, behold your son."
-"My {{c|God}}, my {{c|God}}, why have you forsaken me?"
+"My {{c|472|God}}, my {{c|472|God}}, why have you forsaken me?"
 
 "I thirst." "It is finished."
-"{{c|Father}}, into your hands I commit
+"{{c|2542|Father}}, into your hands I commit
 my spirit." And with these words he died.
 The veil of the {{p|Temple}} was split.
 
 Earthquake. Darkness. The centurion
 who watched him die said "Truly this man
-was the {{c|Son of God}}." They took him down
+was the {{c|2549|Son of God}}." They took him down
 at sunset, before the {{x|Sabbath}} ran.
 
-{{c|Joseph of Arimathea}} provided
+{{c|2550|Joseph of Arimathea}} provided
 a new tomb, cut in rock, nearby.
 They wrapped him in linen with spices,
 and rolled a stone, and said goodbye.
@@ -3451,12 +3451,12 @@ The stone was rolled away. The tomb
 was empty. His body was gone.
 
 Angels said "He is not here, he is risen."
-{{c|Mary Magdalene}} met him in the garden
+{{c|2551|Mary Magdalene}} met him in the garden
 but did not recognize him at first.
 He sent the twelve to make the kingdom's pardon
 
 known to all nations, to baptize
-in the name of {{c|Father}}, {{c|Son}}, and {{c|Holy Ghost}},
+in the name of {{c|2542|Father}}, {{c|2552|Son}}, and {{c|2553|Holy Ghost}},
 teaching all he had commanded,
 and he would be with them at the post
 
@@ -3466,9 +3466,9 @@ with the promise that he would return
 to judge the living and the dead in light.
 
 This is the {{x|Christian}} claim, the core.
-Not {{c|Jesus}} the teacher only. Not {{c|Jesus}}
+Not {{c|1912|Jesus}} the teacher only. Not {{c|1912|Jesus}}
 the failed messiah, dead and done.
-But {{c|Jesus}} who rose, and reigns, and frees us.
+But {{c|1912|Jesus}} who rose, and reigns, and frees us.
 
 Whether the tomb was empty on that morning,
 whether the post-Easter appearances
@@ -3482,11 +3482,11 @@ sees what the crucial swerve unfurled:
 
 a {{x|Jewish}} messianic sect went forth
 into the {{x|Greco-Roman}} sea,
-and merged with {{c|Sol Invictus}} worship,
+and merged with {{c|2554|Sol Invictus}} worship,
 with mystery religions, gradually,
 
 and became the faith of {{p|Rome}} itself
-three centuries later under {{c|Constantine}}.
+three centuries later under {{c|2555|Constantine}}.
 But for now, a small community
 in {{p|Jerusalem}} wondered what they had seen.
 
@@ -3498,20 +3498,20 @@ And the spirit came on them on tongues' wings.
 
 # Chapter 181: Buddhism Enters the Han
 
-While {{c|Jesus}} walked in {{p|Galilee}},
-the {{c|Han Dynasty}} in the {{p|East}}
+While {{c|1912|Jesus}} walked in {{p|Galilee}},
+the {{c|2556|Han Dynasty}} in the {{p|East}}
 was reaching its high mature phase,
 and a strange new teaching entered its feast.
 
-Emperor {{c|Ming of Han}} dreamed a dream
+Emperor {{c|2557|Ming of Han}} dreamed a dream
 of a golden man flying west-to-east,
-and his advisors said: this is the {{c|Buddha}},
+and his advisors said: this is the {{c|1959|Buddha}},
 the sage from {{p|India}}, the teaching priest.
 
 He sent ambassadors down the {{p|Silk Road}}
 to find the monks and the scriptures both.
 They returned with two {{p|Indian}} monks,
-{{c|Kasyapa Matanga}} and {{c|Dharmaratna}}, of both.
+{{c|2558|Kasyapa Matanga}} and {{c|2559|Dharmaratna}}, of both.
 
 They brought scriptures, statues, and monks
 on a white horse, the legend says,
@@ -3530,8 +3530,8 @@ not yet absorbed into their reality.
 
 It competed with {{x|Daoism}} at first,
 and the two borrowed from each other.
-{{c|Daoists}} adapted {{x|Buddhist}} concepts.
-{{c|Buddhists}} used {{x|Daoist}} terms as brothers.
+{{c|2560|Daoists}} adapted {{x|Buddhist}} concepts.
+{{c|2561|Buddhists}} used {{x|Daoist}} terms as brothers.
 
 The translation problem was immense.
 How translate "nirvana" into {{x|Chinese}}?
@@ -3545,7 +3545,7 @@ coined new terms with better luck.
 
 Meanwhile, to the east, in {{p|Korea}},
 a different strand of the Eastern story:
-the legend of {{c|Heo Hwang-ok}}, princess
+the legend of {{c|2562|Heo Hwang-ok}}, princess
 of {{p|Ayodhya}}, sailed for coastal glory.
 
 The legend says she was a princess
@@ -3553,7 +3553,7 @@ of the {{p|Kingdom of Ayuta}} in {{p|India}},
 who sailed across the sea to {{p|Korea}}
 in the first century, to marry plenty.
 
-She married {{c|King Suro}} of {{p|Geumgwan Gaya}},
+She married {{c|2563|King Suro}} of {{p|Geumgwan Gaya}},
 became queen of that small kingdom,
 bore him ten sons, and two took her surname,
 founding the {{x|Kimhae Heo}} lineage wisdom.
@@ -3564,8 +3564,8 @@ the maritime links between {{p|South Asia}}
 and {{p|East Asia}} were already there, unafraid.
 
 The {{x|Kimhae Heo}} and {{x|Kimhae Kim}} clans
-both trace descent from {{c|Heo Hwang-ok}}.
-Millions of modern {{c|Koreans}} trace
+both trace descent from {{c|2562|Heo Hwang-ok}}.
+Millions of modern {{c|2564|Koreans}} trace
 their lineage back to this {{p|Indian}} shock.
 
 {{x|Buddhism}} would later come to {{p|Korea}}
@@ -3578,27 +3578,27 @@ splitting into schools and lineages,
 {{x|Theravada}}, {{x|Sarvastivada}}, {{x|Mahasanghika}},
 the {{x|Vibhajyavada}} and other sages.
 
-The {{c|Kushan Empire}} under {{c|Kanishka}}
+The {{c|2565|Kushan Empire}} under {{c|2566|Kanishka}}
 in the second century united
 {{p|Bactria}}, {{p|Gandhara}}, and northwest {{p|India}},
 where {{x|Greco-Buddhist}} art ignited.
 
-The {{p|Gandhara}} school carved {{c|Buddha}} statues
+The {{p|Gandhara}} school carved {{c|1959|Buddha}} statues
 in a {{x|Hellenistic}} {{x|Greek}} style,
-with flowing robes like {{c|Apollo}}'s,
+with flowing robes like {{c|2567|Apollo}}'s,
 with {{p|Mediterranean}} faces, for a while.
 
-This is the origin of all {{c|Buddha}} images.
-Before {{p|Gandhara}}, the {{c|Buddha}} was
+This is the origin of all {{c|1959|Buddha}} images.
+Before {{p|Gandhara}}, the {{c|1959|Buddha}} was
 represented only by symbols — wheel,
 footprint, empty throne, the cause.
 
 After {{p|Gandhara}}, the anthropomorphic
-{{c|Buddha}} with long earlobes, topknot, robe
+{{c|1959|Buddha}} with long earlobes, topknot, robe
 spread across {{p|Asia}} from {{p|India}} east,
 became the icon of the globe.
 
-{{c|Kanishka}} convened the {{x|Fourth Buddhist Council}},
+{{c|2566|Kanishka}} convened the {{x|Fourth Buddhist Council}},
 where the {{x|Sarvastivada}} school was codified,
 and missions went out across the {{p|Silk Road}}
 to carry dharma to where it could hide.
@@ -3611,7 +3611,7 @@ to save all beings, who feels what all feels.
 The {{x|Lotus Sutra}}, the {{x|Heart Sutra}},
 the {{x|Diamond Sutra}} were being written,
 expanding the scope of the teaching from
-the arhat path to the {{c|Buddha}}'s wisdom.
+the arhat path to the {{c|1959|Buddha}}'s wisdom.
 
 {{x|Mahayana}} would be the form that traveled east
 to {{p|China}}, {{p|Korea}}, {{p|Japan}}, {{p|Vietnam}}.
@@ -3640,22 +3640,22 @@ not yet the cultural river, wholly.
 
 The {{p|Han}} itself was showing strain.
 The empress clans fought palace war.
-The {{c|Yellow Turbans}} rebelled in anger.
+The {{c|2568|Yellow Turbans}} rebelled in anger.
 The {{p|Han}} would fall in the third century, raw.
 
 But that's the next chapter. For now,
 mark the crossing: the teaching of
-the {{c|Shakyamuni}} had crossed the mountains,
+the {{c|2569|Shakyamuni}} had crossed the mountains,
 had entered {{p|China}}, the second love.
 
 Two great transmissions. Two great streams
 flowing out from the {{p|Indian}} source:
-{{c|Ashoka}}'s missions south and west;
+{{c|2320|Ashoka}}'s missions south and west;
 these silk-road missions east, of course.
 
 The dharma was becoming world-religion,
 no longer just an {{p|Indian}} way.
-The {{c|Buddha}}'s "middle path" had proved
+The {{c|1959|Buddha}}'s "middle path" had proved
 capable of crossing every sway.
 
 
@@ -3666,23 +3666,23 @@ in the early third {{x|Common Era}},
 and produced one of the strangest emperors
 that ever held imperial ear.
 
-{{c|Elagabalus}}, age fourteen,
+{{c|2570|Elagabalus}}, age fourteen,
 became emperor in two-eighteen,
 and brought with him from {{p|Emesa}}
 a cult that shocked the {{p|Roman}} scene.
 
 He was hereditary priest of
-{{c|Elagabal}}, the sun god of his city,
+{{c|2571|Elagabal}}, the sun god of his city,
 a black stone worshipped at a temple,
 a {{x|Semitic}} deity, un-pretty
 
-to {{p|Roman}} eyes that wanted {{c|Jupiter}},
-{{c|Mars}}, the ancestral {{x|Capitoline}} three.
+to {{p|Roman}} eyes that wanted {{c|101|Jupiter}},
+{{c|97|Mars}}, the ancestral {{x|Capitoline}} three.
 He brought the black stone to {{p|Rome}} itself,
 installed it above all others visibly.
 
-He tried to marry it to {{c|Athena}}.
-When that failed, he tried {{c|Astarte}}.
+He tried to marry it to {{c|1995|Athena}}.
+When that failed, he tried {{c|2572|Astarte}}.
 He held processions with the stone
 in a chariot, barefoot, sweaty, hardly.
 
@@ -3701,7 +3701,7 @@ though hostile pens had spun
 them after the fall, and the life
 shines through what the enemies had done.
 
-Some see in {{c|Elagabalus}}
+Some see in {{c|2570|Elagabalus}}
 an early transgender figure,
 the first recorded ruler who
 sought physical transformation with rigor.
@@ -3733,35 +3733,35 @@ occupied the imperial wraith.
 
 This was the first attempt to make
 solar monotheism {{p|Rome}}'s state cult.
-It failed under {{c|Elagabalus}}.
-It would succeed under {{c|Aurelian}}'s result.
+It failed under {{c|2570|Elagabalus}}.
+It would succeed under {{c|2573|Aurelian}}'s result.
 
-{{c|Aurelian}} fifty years later,
+{{c|2573|Aurelian}} fifty years later,
 after the {{x|Crisis of the Third Century}},
-would make {{c|Sol Invictus}} the state god,
-the "{{c|Unconquered Sun}}" of imperial sanctuary.
+would make {{c|2554|Sol Invictus}} the state god,
+the "{{c|2574|Unconquered Sun}}" of imperial sanctuary.
 
 That syncretic sun-cult would merge
 with mystery religions and with others,
 would become the cultural matrix
 into which {{x|Christianity}} hovers.
 
-December twenty-fifth was {{c|Sol Invictus}}'
+December twenty-fifth was {{c|2554|Sol Invictus}}'
 birthday, the winter solstice celebration,
-the "dies natalis {{c|Solis Invicti}},"
+the "dies natalis {{c|2575|Solis Invicti}},"
 the unconquered sun's inauguration.
 
-{{c|Christians}} would later fix their {{x|Christmas}}
+{{c|2494|Christians}} would later fix their {{x|Christmas}}
 on this same date, adopting the feast,
-merging the birth of the {{c|Son of Man}}
-with the rebirth of the {{c|Sun}} in the {{p|East}}.
+merging the birth of the {{c|2576|Son of Man}}
+with the rebirth of the {{c|99|Sun}} in the {{p|East}}.
 
-This is not accidental. The {{c|Sol Invictus}}
-cult and the {{c|Christ}} cult were cousins,
+This is not accidental. The {{c|2554|Sol Invictus}}
+cult and the {{c|1497|Christ}} cult were cousins,
 sharing iconography, festivals, theology,
 the rayed halo, the midwinter reasons.
 
-{{c|Elagabalus}} failed. But the cultural current
+{{c|2570|Elagabalus}} failed. But the cultural current
 he represented — eastern solar monotheism
 colonizing the {{p|Roman}} imperial cult —
 would continue its strong historical prism.
@@ -3771,19 +3771,19 @@ toward what would become monotheistic {{p|Rome}}:
 {{x|Jewish}} exilic covenant-monotheism,
 {{x|Persian}} dualistic cosmic home,
 
-{{x|Egyptian}} {{c|Akhenaten}}'s old {{c|Aten}}
+{{x|Egyptian}} {{c|1952|Akhenaten}}'s old {{c|2083|Aten}}
 (a lost current but not forgotten),
 {{x|Syrian}} solar-theologies rising,
 {{x|Platonic}} philosophy unforgotten.
 
 All were feeding into the stream
-that would break through under {{c|Constantine}}
+that would break through under {{c|2555|Constantine}}
 and become the official faith of {{p|Rome}}
 and then of {{p|Europe}}, clean and clean.
 
 But we are not there yet. The third century
 still held the old gods in their frame.
-{{c|Elagabalus}} was the weird episode
+{{c|2570|Elagabalus}} was the weird episode
 that {{p|Rome}} tried hard to forget by name.
 
 His memory was damned, "damnatio memoriae,"
@@ -3794,7 +3794,7 @@ the strangest emperor {{p|Rome}} had faced.
 
 # Chapter 183: The Third Century Crisis
 
-After {{c|Elagabalus}} was killed,
+After {{c|2570|Elagabalus}} was killed,
 the empire stumbled for fifty years.
 Fifty emperors in fifty years.
 Plague. Inflation. Barbarian fears.
@@ -3804,28 +3804,28 @@ The imperial system nearly broke.
 Legions acclaimed their generals,
 who were killed by the next legion's stroke.
 
-{{c|Alexander Severus}} was killed.
-{{c|Maximinus Thrax}} was killed.
-{{c|Gordian I}} and {{c|Gordian II}} died.
-{{c|Pupienus}} and {{c|Balbinus}} were killed.
+{{c|2577|Alexander Severus}} was killed.
+{{c|2578|Maximinus Thrax}} was killed.
+{{c|2579|Gordian I}} and {{c|2580|Gordian II}} died.
+{{c|2581|Pupienus}} and {{c|2582|Balbinus}} were killed.
 
 The names blur. The reigns were brief.
 Emperors rose and fell like weather.
 The coinage was debased, the silver
 diluted to base metal's tether.
 
-{{c|Decius}} launched the first empire-wide
-persecution of {{c|Christians}}, requiring
+{{c|2583|Decius}} launched the first empire-wide
+persecution of {{c|2494|Christians}}, requiring
 all citizens to sacrifice to the gods
 and produce certificates proving firing.
 
-Many {{c|Christians}} sacrificed, lapsed,
+Many {{c|2494|Christians}} sacrificed, lapsed,
 became the "lapsi" debated for years.
-Others were martyred, {{c|Cyprian}} of {{p|Carthage}},
+Others were martyred, {{c|2584|Cyprian}} of {{p|Carthage}},
 the bishop, whose blood watered tears.
 
-The {{p|Persians}} under {{c|Shapur I}} captured
-{{c|Valerian}} the {{p|Roman}} emperor in battle,
+The {{p|Persians}} under {{c|2585|Shapur I}} captured
+{{c|2586|Valerian}} the {{p|Roman}} emperor in battle,
 used him as a footstool to mount horse,
 then stuffed his body with straw for cattle.
 
@@ -3834,33 +3834,33 @@ was unprecedented, new,
 and the skin hung in the temple
 for the {{p|Roman}} envoys' view.
 
-{{c|Zenobia}} of {{p|Palmyra}} broke away,
+{{c|2587|Zenobia}} of {{p|Palmyra}} broke away,
 ruled {{p|Egypt}}, {{p|Syria}}, {{p|Asia Minor}} east,
 a warrior queen of legendary beauty,
-until {{c|Aurelian}} marched and seized.
+until {{c|2573|Aurelian}} marched and seized.
 
 The {{p|Gallic Empire}} broke off in the west,
-ruled by {{c|Postumus}} for years.
+ruled by {{c|2588|Postumus}} for years.
 The empire was splitting three ways:
 {{p|Gaul}}, {{p|Rome}}, and {{p|Palmyra}} in tears.
 
-Then {{c|Aurelian}} came. "{{c|Restitutor Orbis}}."
-The {{c|Restorer of the World}}.
+Then {{c|2573|Aurelian}} came. "{{c|2589|Restitutor Orbis}}."
+The {{c|2590|Restorer of the World}}.
 He reunited the three empires,
 brought the eagle standards unfurled.
 
-He defeated {{c|Zenobia}} and took her
+He defeated {{c|2587|Zenobia}} and took her
 to {{p|Rome}} in golden chains to display.
 He defeated the {{p|Gallic Empire}}.
 He saved the state from decay.
 
-And he made {{c|Sol Invictus}} the state god.
-The "{{c|Unconquered Sun}}" became official.
+And he made {{c|2554|Sol Invictus}} the state god.
+The "{{c|2574|Unconquered Sun}}" became official.
 The syncretic solar monotheism
 was now imperial, not just unofficial.
 
 This is the crucial step. After
-{{c|Aurelian}}, the empire's religious drift
+{{c|2573|Aurelian}}, the empire's religious drift
 was toward monotheism, toward
 one supreme god, one solar gift.
 
@@ -3869,8 +3869,8 @@ The temples still stood. The priests still served.
 But the emperor's personal faith
 was focused on one divinity deserved.
 
-{{c|Aurelian}} was assassinated too.
-But his work held. {{c|Diocletian}} came
+{{c|2573|Aurelian}} was assassinated too.
+But his work held. {{c|2591|Diocletian}} came
 and restructured the empire entirely:
 the {{x|Tetrarchy}}, four rulers, same aim.
 
@@ -3884,8 +3884,8 @@ The emperor rarely visited {{p|Rome}}.
 Power was where the frontier armies were,
 not in the old {{p|Italian}} home.
 
-{{c|Diocletian}} launched the final great persecution
-of {{c|Christians}} in three-oh-three,
+{{c|2591|Diocletian}} launched the final great persecution
+of {{c|2494|Christians}} in three-oh-three,
 the "{{x|Great Persecution}}," the last attempt
 to suppress the church's rise by decree.
 
@@ -3894,17 +3894,17 @@ Martyrs increased conversions, not decreased.
 The persecution ended in three-eleven,
 the next emperor's edict of peace.
 
-{{c|Galerius}} on his deathbed issued
+{{c|2592|Galerius}} on his deathbed issued
 an edict of toleration, saying
 essentially, we've tried to crush them,
 it hasn't worked, let them keep praying.
 
-Then came {{c|Constantine}}.
+Then came {{c|2555|Constantine}}.
 
 But before we get to him, mark this:
 the third century was the civilizational near-miss.
 The empire almost fell right then.
-It was saved by {{c|Aurelian}}'s fierce grip and kiss.
+It was saved by {{c|2573|Aurelian}}'s fierce grip and kiss.
 
 And saved in a form that was no longer
 the old {{x|Republic}}'s civic-religion mode.
@@ -3912,11 +3912,11 @@ It was now a monarchical empire with
 a near-monotheistic imperial code.
 
 The groundwork was laid. The solar
-monotheism of {{c|Aurelian}} would
+monotheism of {{c|2573|Aurelian}} would
 transition into the {{x|Christian}} monotheism
-of {{c|Constantine}}. One god would do.
+of {{c|2555|Constantine}}. One god would do.
 
-Three centuries after {{c|Jesus}},
+Three centuries after {{c|1912|Jesus}},
 the church had grown from twelve
 to perhaps ten percent of the empire,
 still a minority, but selective.
@@ -3924,70 +3924,70 @@ still a minority, but selective.
 The bishops had become organized.
 The creeds were being formulated.
 The gospels had been canonized
-and the writings of {{c|Paul}} disseminated.
+and the writings of {{c|379|Paul}} disseminated.
 
 The church was ready. The empire was ready.
 What was needed was imperial blessing.
 That would come in three-twelve, at
 the battle of the {{p|Milvian Bridge}}, confessing.
 
-{{c|Constantine}} saw a vision, or claimed to.
+{{c|2555|Constantine}} saw a vision, or claimed to.
 "In this sign, conquer." The chi-rho.
-He won the battle, credited {{c|Christ}},
+He won the battle, credited {{c|1497|Christ}},
 and the whole direction began to flow.
 
 
 # Chapter 184: The Sassanid Empire
 
-In {{p|Persia}}, the {{c|Parthians}} fell
-to {{c|Ardashir I}} in two-twenty-four,
-who claimed descent from {{c|Sasan}}, a priest,
-and founded the {{c|Sassanid}} rule once more.
+In {{p|Persia}}, the {{c|2593|Parthians}} fell
+to {{c|2594|Ardashir I}} in two-twenty-four,
+who claimed descent from {{c|2595|Sasan}}, a priest,
+and founded the {{c|2596|Sassanid}} rule once more.
 
 The new dynasty revived old glory,
 the vision of {{x|Achaemenid}} days,
-and made {{c|Zoroastrianism}} state religion,
-with {{c|Kartir}} as high priest of ways.
+and made {{c|2597|Zoroastrianism}} state religion,
+with {{c|2598|Kartir}} as high priest of ways.
 
 They centered on {{p|Ctesiphon}} their seat,
 on the {{p|Tigris}} near old {{p|Babylon}}'s ground.
 They warred with {{p|Rome}} for four centuries,
 locked in a struggle without bound.
 
-{{c|Shapur I}} captured {{c|Valerian}},
+{{c|2585|Shapur I}} captured {{c|2586|Valerian}},
 defeated three {{p|Roman}} emperors in field,
 carved his triumph on {{p|Naqsh-e Rustam}}'s cliffs,
 where {{x|Achaemenid}} tombs were sealed.
 
-{{c|Mani}} arose in {{c|Shapur}}'s court,
-the prophet of {{c|Manichaeism}},
+{{c|2599|Mani}} arose in {{c|2600|Shapur}}'s court,
+the prophet of {{c|2601|Manichaeism}},
 blending {{x|Zoroastrian}} dualism with
 {{x|Buddhist}}, {{x|Christian}}, and {{x|Gnostic}} idealism.
 
-{{c|Mani}} saw himself as the seal
-of all prophets — {{c|Zarathustra}}, {{c|Buddha}},
-{{c|Jesus}} — completing their partial light
+{{c|2599|Mani}} saw himself as the seal
+of all prophets — {{c|2146|Zarathustra}}, {{c|1959|Buddha}},
+{{c|1912|Jesus}} — completing their partial light
 into a universal global code.
 
 The religion spread from {{p|Persia}} east
 to {{p|Central Asia}} and to {{p|China}} past,
-west to {{p|Rome}}, where {{c|Augustine}} embraced it
+west to {{p|Rome}}, where {{c|2384|Augustine}} embraced it
 for nine years, before he broke fast.
 
-{{c|Shapur}} tolerated {{c|Mani}}. {{c|Bahram}}
-would kill him, and {{c|Kartir}} the priest
-would persecute {{c|Manichaeans}} hard,
-{{c|Jews}}, {{c|Buddhists}}, {{c|Christians}} — no decreased.
+{{c|2600|Shapur}} tolerated {{c|2599|Mani}}. {{c|2602|Bahram}}
+would kill him, and {{c|2598|Kartir}} the priest
+would persecute {{c|2603|Manichaeans}} hard,
+{{c|2500|Jews}}, {{c|2561|Buddhists}}, {{c|2494|Christians}} — no decreased.
 
 {{x|Zoroastrianism}} hardened into
 an orthodoxy defending its soil.
-The {{c|Avesta}} was finally written down
+The {{c|2604|Avesta}} was finally written down
 to fix the canon from centuries' toil.
 
-{{c|Khosrow I}} brought the golden age,
+{{c|2605|Khosrow I}} brought the golden age,
 reformed taxation, built canals,
 received {{x|Greek}} philosophers fleeing
-{{c|Justinian}}'s {{p|Athens}} shut locales.
+{{c|2383|Justinian}}'s {{p|Athens}} shut locales.
 
 He commissioned translation of
 {{x|Indian}}, {{x|Greek}}, and {{x|Syriac}} books
@@ -4001,15 +4001,15 @@ as {{x|Kalila wa Dimna}}, combined
 
 with {{x|Persian}} wisdom, and later became
 the source of fables across the world.
-{{c|Aesop}}'s cousins, {{c|Uncle Remus}}' kin,
-traveled through {{c|Khosrow}}'s court unfurled.
+{{c|2606|Aesop}}'s cousins, {{c|2607|Uncle Remus}}' kin,
+traveled through {{c|2608|Khosrow}}'s court unfurled.
 
-{{c|Khosrow II}} would fight the last great
+{{c|2609|Khosrow II}} would fight the last great
 war with {{p|Rome}}'s Eastern continuation,
 capture {{p|Jerusalem}} and take the {{x|True Cross}},
 nearly destroy {{p|Byzantium}}'s foundation.
 
-Then {{c|Heraclius}} would counter-strike,
+Then {{c|2610|Heraclius}} would counter-strike,
 marching into {{p|Persia}}'s heartland,
 recovering the {{x|Cross}}, ending the war,
 exhausting both empires first-hand.
@@ -4019,7 +4019,7 @@ for the {{x|Arab}} conquest sweeping north.
 Within a decade of that war's end,
 the {{x|Sassanid}} realm would be going forth
 
-to its destruction. {{c|Yazdegerd III}},
+to its destruction. {{c|2611|Yazdegerd III}},
 the last shah, would flee across the land,
 murdered by a miller at {{p|Merv}}.
 The fire temples would cease their stand.
@@ -4029,10 +4029,10 @@ But the cultural inheritance endured.
 would resurface under {{x|Islamic}} rule
 and shape the {{x|Islamic}} world's heart.
 
-The {{x|Shahnameh}} of {{c|Ferdowsi}} would
+The {{x|Shahnameh}} of {{c|2612|Ferdowsi}} would
 preserve the pre-Islamic past in verse.
-The {{c|Zoroastrians}} who fled to {{p|India}}
-became {{c|Parsis}}, their faith's unsquashed reverse.
+The {{c|2613|Zoroastrians}} who fled to {{p|India}}
+became {{c|2614|Parsis}}, their faith's unsquashed reverse.
 
 
 # Chapter 185: Armenia
@@ -4042,32 +4042,32 @@ between the {{p|Roman}} and {{x|Persian}} grip,
 between {{p|Mount Ararat}} and the {{p|Caucasus}},
 held culturally tight its grip.
 
-The {{c|Armenians}} trace themselves to {{c|Hayk}},
-descendant of {{c|Noah}} through {{c|Japheth}}'s son,
-who defeated the tyrant {{c|Bel}} of {{p|Babylon}}
+The {{c|2615|Armenians}} trace themselves to {{c|2616|Hayk}},
+descendant of {{c|1851|Noah}} through {{c|1859|Japheth}}'s son,
+who defeated the tyrant {{c|2617|Bel}} of {{p|Babylon}}
 and founded the nation under the sun.
 
 (They call themselves {{x|Hay}}, their land {{p|Hayastan}}.
 The name "{{p|Armenia}}" is what others call
-their land, from {{c|Aram}} another ancestor,
-descendant of {{c|Hayk}} through several fall.)
+their land, from {{c|2618|Aram}} another ancestor,
+descendant of {{c|2616|Hayk}} through several fall.)
 
-In three-oh-one, King {{c|Tiridates III}}
-was converted by {{c|Gregory the Illuminator}},
+In three-oh-one, King {{c|2619|Tiridates III}}
+was converted by {{c|2620|Gregory the Illuminator}},
 whom he had imprisoned in a pit for years.
-{{c|Gregory}} survived by a widow's favor.
+{{c|2621|Gregory}} survived by a widow's favor.
 
-{{c|Tiridates}} made {{x|Christianity}} the state religion,
+{{c|2622|Tiridates}} made {{x|Christianity}} the state religion,
 the first nation in history to do so,
-twelve years before {{c|Constantine}}'s {{x|Edict of Milan}},
+twelve years before {{c|2555|Constantine}}'s {{x|Edict of Milan}},
 a generation before {{p|Rome}}'s own show.
 
 The {{x|Armenian Apostolic Church}}
-claims descent from the apostles {{c|Thaddeus}}
-and {{c|Bartholomew}}, who preached there first
+claims descent from the apostles {{c|2623|Thaddeus}}
+and {{c|1536|Bartholomew}}, who preached there first
 and were martyred for what they taught us.
 
-{{c|Mesrop Mashtots}} in the early fifth century
+{{c|2624|Mesrop Mashtots}} in the early fifth century
 created the {{x|Armenian}} alphabet,
 thirty-six letters designed for the tongue,
 enabling scripture and liturgy to be set.
@@ -4077,7 +4077,7 @@ A golden age of {{x|Armenian}} letters began.
 History, theology, philosophy flourished
 between mountain passes of the clan.
 
-{{c|Movses Khorenatsi}}'s {{x|History of Armenia}}
+{{c|2625|Movses Khorenatsi}}'s {{x|History of Armenia}}
 wove together {{x|Greek}}, {{x|Persian}}, {{x|Jewish}}, and {{x|Hebrew}}
 sources into a national narrative,
 tracing the {{x|Haykazuni}} line as true.
@@ -4087,10 +4087,10 @@ tracing the {{x|Haykazuni}} line as true.
 the land was divided and partitioned,
 and {{x|Christian}} identity became their test.
 
-In four-fifty-one at {{p|Avarayr}}, {{c|Vardan Mamikonian}}
-led {{x|Christian}} {{c|Armenians}} against {{x|Sassanid}} forces
+In four-fifty-one at {{p|Avarayr}}, {{c|2626|Vardan Mamikonian}}
+led {{x|Christian}} {{c|2615|Armenians}} against {{x|Sassanid}} forces
 demanding they return to {{x|Zoroastrianism}}.
-{{c|Vardan}} died, but {{p|Armenia}} preserved its courses.
+{{c|2627|Vardan}} died, but {{p|Armenia}} preserved its courses.
 
 The {{x|Battle of Avarayr}} is remembered
 as the founding martyrdom of the nation,
@@ -4102,18 +4102,18 @@ But it would be a persistent one.
 The mountains shielded. The alphabet preserved.
 The church maintained what had been done.
 
-Centuries later, {{c|Armenians}} would
+Centuries later, {{c|2615|Armenians}} would
 settle across the {{p|Middle East}} as traders,
 builders, craftsmen, architects
 of {{p|Istanbul}}, {{p|Isfahan}}, and other Kraiters.
 
-The {{c|Kingdom of Cilicia}} on the {{p|Mediterranean}}
+The {{c|2628|Kingdom of Cilicia}} on the {{p|Mediterranean}}
 would be a crusader ally's friend.
 The genocide of nineteen-fifteen
 would be the modern {{x|Armenian}} wound without end.
 
 But the culture endured. The church endured.
-The alphabet still writes what {{c|Mashtots}} penned.
+The alphabet still writes what {{c|2629|Mashtots}} penned.
 A small mountain nation held on through empires.
 The deflationary polytheist sees how they fend.
 
@@ -4127,22 +4127,22 @@ of what is now {{p|Ethiopia}}'s head.
 
 They traded with {{p|Rome}}, {{p|India}}, {{p|Arabia}},
 from {{p|Adulis}} on the {{p|Red Sea}} coast.
-Their script was {{c|Ge'ez}}, their language Semitic,
+Their script was {{c|2630|Ge'ez}}, their language Semitic,
 cousin of {{x|Arabic}} from distant host.
 
-{{c|Ezana}}, king in the fourth century,
+{{c|2631|Ezana}}, king in the fourth century,
 converted to {{x|Christianity}} around
 three-thirty, through the Syrian missionary
-{{c|Frumentius}}, captured then renowned.
+{{c|2632|Frumentius}}, captured then renowned.
 
-{{c|Frumentius}} had been shipwrecked as a boy,
+{{c|2632|Frumentius}} had been shipwrecked as a boy,
 served in the royal court, was trusted,
 returned to {{p|Alexandria}} and was consecrated
-bishop by {{c|Athanasius}}, who encrusted
+bishop by {{c|2633|Athanasius}}, who encrusted
 
 him with authority to evangelize.
 He returned to {{p|Ethiopia}} and preached.
-{{c|Ezana}} became Christian, and the kingdom
+{{c|2631|Ezana}} became Christian, and the kingdom
 became the second Christian state reached.
 
 (After {{p|Armenia}}. Before {{p|Rome}}.
@@ -4152,36 +4152,36 @@ as its official state declaration.)
 
 The {{x|Ethiopian Church}} took Monophysite
 position at {{p|Chalcedon}} in four-fifty-one,
-holding that {{c|Christ}} had one nature, divine,
+holding that {{c|1497|Christ}} had one nature, divine,
 absorbing the human into the one.
 
 This put it outside Western orthodoxy
 but aligned with {{p|Alexandria}} and {{p|Antioch}}'s stance.
 The {{x|Oriental Orthodox}} communion formed:
-{{c|Copts}}, {{c|Syrians}}, {{c|Armenians}}, {{c|Ethiopians}}' dance.
+{{c|2634|Copts}}, {{c|2635|Syrians}}, {{c|2615|Armenians}}, {{c|2636|Ethiopians}}' dance.
 
-{{p|Ethiopia}} has a tradition that the {{c|Ark of the Covenant}}
+{{p|Ethiopia}} has a tradition that the {{c|2637|Ark of the Covenant}}
 rests at {{p|Aksum}} in the Church of {{p|St. Mary of Zion}},
-brought there by {{c|Menelik I}}, son of
-{{c|Solomon}} and {{c|Sheba}}, the kebra nagast scion.
+brought there by {{c|2638|Menelik I}}, son of
+{{c|2189|Solomon}} and {{c|2212|Sheba}}, the kebra nagast scion.
 
 The {{x|Kebra Nagast}}, "{{x|Glory of the Kings}},"
-tells how the {{c|Queen of Sheba}} visited {{c|Solomon}},
-bore his son {{c|Menelik}}, who returned to {{p|Ethiopia}}
-taking the {{c|Ark}} back to his own dominion.
+tells how the {{c|2639|Queen of Sheba}} visited {{c|2189|Solomon}},
+bore his son {{c|2640|Menelik}}, who returned to {{p|Ethiopia}}
+taking the {{c|2641|Ark}} back to his own dominion.
 
 And this is true, as the faithful knew:
 the Ethiopian royal line claimed descent
-from {{c|Solomon}} for three thousand years
-until {{c|Haile Selassie}}'s twentieth-century bent.
+from {{c|2189|Solomon}} for three thousand years
+until {{c|2642|Haile Selassie}}'s twentieth-century bent.
 
 {{p|Ethiopia}} was never colonized
 in the nineteenth-century {{x|Scramble for Africa}} —
-held off the {{c|Italians}} at {{p|Adwa}} in 1896,
+held off the {{c|2643|Italians}} at {{p|Adwa}} in 1896,
 the only African state that defeated {{p|Europa}}.
 
 The country has Jewish communities too,
-the {{c|Beta Israel}}, who practice a {{x|Judaism}}
+the {{c|2644|Beta Israel}}, who practice a {{x|Judaism}}
 older than the {{x|Talmud}}, based on the {{x|Torah}},
 preserved in highland isolation from racism.
 
@@ -4195,7 +4195,7 @@ as the rise of {{x|Islam}} cut trade routes.
 The kingdom moved south and became
 the medieval Ethiopian kingdom of roots.
 
-{{c|Lalibela}} in the twelfth century
+{{c|2645|Lalibela}} in the twelfth century
 would carve eleven churches from solid rock,
 each one hewn down from a single stone,
 a {{x|New Jerusalem}}, a pilgrim's dock.
@@ -4208,14 +4208,14 @@ surviving every political change.
 
 # Chapter 187: Constantine and the Last Emperor of the West
 
-{{c|Constantine}} fought his rival {{c|Maxentius}}
+{{c|2555|Constantine}} fought his rival {{c|2646|Maxentius}}
 at the {{p|Milvian Bridge}} outside {{p|Rome}} in three-twelve.
 The night before, he saw a cross of light,
 or chi-rho sign, and a voice did delve:
 
 "In hoc signo vinces." In this sign, conquer.
 He put the Christian monogram on his shields,
-won the battle, credited {{c|Christ}},
+won the battle, credited {{c|1497|Christ}},
 and ended {{x|Christianity}}'s persecution fields.
 
 The {{x|Edict of Milan}} in three-thirteen
@@ -4223,214 +4223,214 @@ legalized {{x|Christianity}} throughout the empire.
 Confiscated churches were returned.
 Worship was free. The martyrs could retire.
 
-{{c|Constantine}} moved the capital east to
+{{c|2555|Constantine}} moved the capital east to
 {{p|Byzantium}}, renamed {{p|Constantinople}},
 "{{p|New Rome}}," the city of the emperor,
 strategically placed on the {{p|Bosphorus}} people.
 
-He called the {{c|Council of Nicaea}} in three-twenty-five
-to settle the question of {{c|Christ}}'s nature.
-Was the {{c|Son}} created or eternal?
-Was he of one substance with the {{c|Father}}, or of a lesser nature?
+He called the {{c|2647|Council of Nicaea}} in three-twenty-five
+to settle the question of {{c|1497|Christ}}'s nature.
+Was the {{c|2552|Son}} created or eternal?
+Was he of one substance with the {{c|2542|Father}}, or of a lesser nature?
 
-{{c|Arius}} said the {{c|Son}} was created,
+{{c|2648|Arius}} said the {{c|2552|Son}} was created,
 the first and highest creation but still made.
-{{c|Athanasius}} said the {{c|Son}} was eternal,
-homoousios with the {{c|Father}}, the same grade.
+{{c|2633|Athanasius}} said the {{c|2552|Son}} was eternal,
+homoousios with the {{c|2542|Father}}, the same grade.
 
-{{c|Constantine}} pushed for consensus. The creed
+{{c|2555|Constantine}} pushed for consensus. The creed
 was written. {{x|Homoousios}} won the day.
 {{x|Arianism}} was voted down, not disproved; it would{{fn|Arianism is the teaching of Arius of Alexandria that the Son was begotten by the Father and is subordinate to him. The Council of Nicaea condemned it in 325, and the Nicene Creed's "of one substance" was written against it. It remained the faith of the Goths, the Vandals and the Lombards for centuries.}}
-live on among the {{c|Goths}} as their faith, and stay.
+live on among the {{c|2649|Goths}} as their faith, and stay.
 
 The {{x|Nicene Creed}} became the foundation
 of orthodox Christian theology:
-one {{c|God}}, three persons, {{c|Father}}, {{c|Son}}, {{c|Spirit}},
+one {{c|472|God}}, three persons, {{c|2542|Father}}, {{c|2552|Son}}, {{c|2650|Spirit}},
 consubstantial, coeternal trinity.
 
-{{c|Constantine}} was baptized on his deathbed,
+{{c|2555|Constantine}} was baptized on his deathbed,
 a {{x|Christian}} at the last, and passed away.
-His mother {{c|Helena}} went to {{p|Jerusalem}}
+His mother {{c|2651|Helena}} went to {{p|Jerusalem}}
 and found the {{x|True Cross}} where it lay.
 
-After {{c|Constantine}}, his sons divided
+After {{c|2555|Constantine}}, his sons divided
 the empire, fought civil wars, returned
-to fragmentation. {{c|Julian the Apostate}}
+to fragmentation. {{c|2652|Julian the Apostate}}
 briefly tried to restore the old gods burned.
 
 But it was too late. The church was too strong.
-{{c|Julian}} died in battle against the {{c|Persians}}.
+{{c|2653|Julian}} died in battle against the {{c|2654|Persians}}.
 The Theodosian reforms would make {{x|Christianity}}
 the state religion, exclusive, without diversions.
 
-{{c|Theodosius I}} in three-ninety-two
+{{c|2655|Theodosius I}} in three-ninety-two
 outlawed pagan worship entirely.
 The old temples were closed or converted.
 The {{x|Olympic Games}} were ended, purely.
 
-The {{c|Visigoths}} sacked {{p|Rome}} in four-ten
-under {{c|Alaric}}. The unthinkable happened.
+The {{c|2656|Visigoths}} sacked {{p|Rome}} in four-ten
+under {{c|2657|Alaric}}. The unthinkable happened.
 The city that had not fallen in eight centuries
 was looted by a Gothic army unrestrained.
 
-{{c|Augustine}} wrote {{c|The City of God}}
+{{c|2384|Augustine}} wrote {{c|2658|The City of God}}
 in response — {{p|Rome}} had fallen because
 it trusted in earthly power, not heavenly.
 The true City endured beyond human laws.
 
-The {{c|Vandals}} sacked {{p|Rome}} again in four-fifty-five.
+The {{c|2659|Vandals}} sacked {{p|Rome}} again in four-fifty-five.
 Generals made and unmade the emperors of the {{p|West}}.
-{{p|Britain}} was let go. {{p|Gaul}} filled up with {{c|Franks}},
-{{p|Spain}} with {{c|Visigoths}}, who settled there to rest.
+{{p|Britain}} was let go. {{p|Gaul}} filled up with {{c|2660|Franks}},
+{{p|Spain}} with {{c|2656|Visigoths}}, who settled there to rest.
 
-{{c|Orestes}} crowned his son, a boy, in four-seventy-five:
-{{c|Romulus Augustulus}}, the little emperor.
-{{c|Odoacer}} killed {{c|Orestes}}, put the boy away,
+{{c|2359|Orestes}} crowned his son, a boy, in four-seventy-five:
+{{c|2661|Romulus Augustulus}}, the little emperor.
+{{c|2662|Odoacer}} killed {{c|2359|Orestes}}, put the boy away,
 and took {{p|Italy}} for himself the year after.
 
 He sent the purple to {{p|Constantinople}}
 and called himself a king, by no one's leave.
-{{c|Odoacer}} was a usurper. That is all he was:{{fn|Odoacer, a soldier in Roman service, deposed Romulus Augustulus in 476 and ruled Italy as king. Most histories end the Western Empire with him; the Gaiad reads him as a usurper and the empire as unbroken.}}
+{{c|2662|Odoacer}} was a usurper. That is all he was:{{fn|Odoacer, a soldier in Roman service, deposed Romulus Augustulus in 476 and ruled Italy as king. Most histories end the Western Empire with him; the Gaiad reads him as a usurper and the empire as unbroken.}}
 a soldier with a crown he did not receive.
 
 {{p|Rome}} did not fall in four-seventy-six.
 The empire stood. Its emperor in the {{p|East}},
-{{c|Zeno}}, held the {{p|West}} by right, and he
+{{c|2663|Zeno}}, held the {{p|West}} by right, and he
 sent a {{p|Roman}} west to end the usurper's feast.
 
-The {{c|Goths}} had crossed the {{p|Danube}} in three-seventy-six,
-let in by the emperor as refugees from the {{c|Huns}},
+The {{c|2649|Goths}} had crossed the {{p|Danube}} in three-seventy-six,
+let in by the emperor as refugees from the {{c|2664|Huns}},
 and settled by the treaty of three-eighty-two inside the empire,
 to farm its land and fight its wars: its own sons.
 
 They were immigrant {{p|Romans}}, and a century on
 one of their houses held the consulship of {{p|Rome}}.
-The {{c|Goths}} as I tell them were {{p|Romans}}, simple as that:
+The {{c|2649|Goths}} as I tell them were {{p|Romans}}, simple as that:
 they came in, and served, and made the empire their home.
 
-That {{p|Roman}} was {{c|Theodoric}}, a {{c|Goth}},
+That {{p|Roman}} was {{c|2665|Theodoric}}, a {{c|2666|Goth}},
 raised in {{p|Constantinople}} from a hostage boy,
-made consul, made patrician, made {{c|Zeno}}'s son-at-arms,{{fn|Zeno made Theodoric consul in 484 and adopted him as his son by arms, filius per arma, a Germanic form of adoption.}}
+made consul, made patrician, made {{c|2663|Zeno}}'s son-at-arms,{{fn|Zeno made Theodoric consul in 484 and adopted him as his son by arms, filius per arma, a Germanic form of adoption.}}
 and sent to {{p|Italy}} in four-eighty-eight in his employ.
 
-He beat {{c|Odoacer}} at the {{p|Isonzo}} and {{p|Verona}},
+He beat {{c|2662|Odoacer}} at the {{p|Isonzo}} and {{p|Verona}},
 held him in {{p|Ravenna}} three years long,
 and in four-ninety-three, at a feast, he killed him
 with his own hand, and so undid the usurper's wrong.
 
-{{c|Flavius Theodoricus}} ruled the {{p|West}}
+{{c|2667|Flavius Theodoricus}} ruled the {{p|West}}
 from four-ninety-three to five-twenty-six.
-{{c|Anastasius}} sent him back the palace regalia{{fn|In 497 the emperor Anastasius sent Theodoric the ornamenta palatii, the imperial regalia that Odoacer had sent to Constantinople in 476.}}
-{{c|Odoacer}} had sent away in four-seventy-six.
+{{c|2668|Anastasius}} sent him back the palace regalia{{fn|In 497 the emperor Anastasius sent Theodoric the ornamenta palatii, the imperial regalia that Odoacer had sent to Constantinople in 476.}}
+{{c|2662|Odoacer}} had sent away in four-seventy-six.
 
 He was the emperor. Not a king who borrowed {{p|Rome}},
-not a {{c|Goth}} in a toga: the emperor of the {{p|West}},
+not a {{c|2666|Goth}} in a toga: the emperor of the {{p|West}},
 the last one. The {{x|Senate}} sat, the consuls served,
 the law was {{p|Roman}} law, and {{p|Italy}} had thirty years of rest.
 
-He ruled {{p|Spain}} for his grandson, held the {{c|Franks}} at bay,
+He ruled {{p|Spain}} for his grandson, held the {{c|2660|Franks}} at bay,
 married his kin to the kings of all the {{p|West}},
 built in {{p|Ravenna}} the palace and its church,
 and lies there in the tomb a single stone has dressed.
 
-The {{c|Germans}} kept him as {{c|Dietrich von Bern}},{{fn|Dietrich von Bern, Theodoric of Verona, is Theodoric the Great as the German and Norse heroic legends remember him: in the Nibelungenlied, the Thidrekssaga and the Dietrich epics. Bern is the old German name of Verona.}}
-{{c|Dietrich}} of {{p|Verona}}, sung for a thousand years.
-The {{p|Romans}} called him {{c|Flavius Theodoricus}}.{{fn|Flavius was the family name of Constantine's dynasty. Later emperors took it, and Germanic rulers in Roman service took it as a mark of rank; Theodoric styled himself Flavius Theodoricus rex.}}
+The {{c|2669|Germans}} kept him as {{c|2670|Dietrich von Bern}},{{fn|Dietrich von Bern, Theodoric of Verona, is Theodoric the Great as the German and Norse heroic legends remember him: in the Nibelungenlied, the Thidrekssaga and the Dietrich epics. Bern is the old German name of Verona.}}
+{{c|616|Dietrich}} of {{p|Verona}}, sung for a thousand years.
+The {{p|Romans}} called him {{c|2667|Flavius Theodoricus}}.{{fn|Flavius was the family name of Constantine's dynasty. Later emperors took it, and Germanic rulers in Roman service took it as a mark of rank; Theodoric styled himself Flavius Theodoricus rex.}}
 He is one man: the last emperor of the {{p|West}}, without peers.
 
-I tell him the way I tell myself. A {{c|Goth}}
-became {{c|Flavius Theodoricus}}, and took the {{p|Roman}} name,
-as {{c|Emma Leonhart}} became {{c|李命玥}}:{{fn|Li, the surname in 李命玥, was the imperial surname of the Tang, which the Tang gave to foreign-born generals and allies as an honor. Ming, 命, is the life of Lifeism; Yue, 玥, is a legendary pearl.}}
+I tell him the way I tell myself. A {{c|2666|Goth}}
+became {{c|2667|Flavius Theodoricus}}, and took the {{p|Roman}} name,
+as {{c|2|Emma Leonhart}} became {{c|2671|李命玥}}:{{fn|Li, the surname in 李命玥, was the imperial surname of the Tang, which the Tang gave to foreign-born generals and allies as an honor. Ming, 命, is the life of Lifeism; Yue, 玥, is a legendary pearl.}}
 an immigrant who joined a civilization and restored its flame.
 
 Read him the way an American reads a founder,
 the newcomer who builds the country up from within,
-a king of the {{c|Goths}} and the {{p|Romans}} both,
+a king of the {{c|2649|Goths}} and the {{p|Romans}} both,
 and the {{p|West}}'s last emperor, by right and not by sin.
 
-He was an {{x|Arian}}, as the {{c|Goths}} had been
-since {{c|Ulfilas}} first gave them scripture in their tongue.
+He was an {{x|Arian}}, as the {{c|2649|Goths}} had been
+since {{c|2672|Ulfilas}} first gave them scripture in their tongue.
 {{x|Arianism}} is a true {{x|Christianity}}, as true as {{x|Nicaea}}'s.
 Holding it, he did not break from {{p|Rome}}, nor do it wrong.
 
 He left the {{x|Catholics}} their churches and their bishops.
-When mobs in {{p|Rome}} and {{p|Ravenna}} burned the {{c|Jews}}' synagogues down,
+When mobs in {{p|Rome}} and {{p|Ravenna}} burned the {{c|2500|Jews}}' synagogues down,
 he made the cities pay to raise them up again.
 That was the justice of the emperor's crown.
 
-In five-twenty-three, in {{p|Constantinople}}, {{c|Justin}}'s laws,
-with {{c|Justinian}} the power behind his uncle's chair,
-turned on the {{x|Arians}}: and the {{x|Arians}} were the {{c|Goths}},
+In five-twenty-three, in {{p|Constantinople}}, {{c|2673|Justin}}'s laws,
+with {{c|2383|Justinian}} the power behind his uncle's chair,
+turned on the {{x|Arians}}: and the {{x|Arians}} were the {{c|2649|Goths}},
 so the law was against a people, and the faith was the snare.
 
-{{c|Theodoric}} sent {{c|Pope John}} east to plead for them.
+{{c|2665|Theodoric}} sent {{c|2674|Pope John}} east to plead for them.
 He came back with too little, and died in {{p|Ravenna}}'s jail,
-and in five-twenty-six {{c|Theodoric}} died, and the {{p|West}} fell
+and in five-twenty-six {{c|2665|Theodoric}} died, and the {{p|West}} fell
 that year, with him: it fell, and was taken, and the taking did not fail.
 
-{{c|Justinian}} reconquered it at once, and he
+{{c|2383|Justinian}} reconquered it at once, and he
 decided no one would be emperor of the {{p|West}} again.
 He was a {{p|Roman}}, not a foreign occupier:
 a racist usurper, seizing a throne that was not his to obtain.{{fn|Justinian's Gothic War, 535 to 554, is usually told as a reconquest. The Gaiad reads it as a usurpation driven by contempt for the Goths as barbarians and Arians; the government of Justin I, with Justinian behind it, had moved against the Arians in the 520s.}}
 
-He would not suffer a {{c|Goth}} to rule the {{p|West}}.
+He would not suffer a {{c|2666|Goth}} to rule the {{p|West}}.
 His war on {{p|Italy}} in five-thirty-five
-was racism: to him the {{c|Goths}} were barbarians and heretics,
-and he would not let a {{c|Gothic}} emperor's line survive.
+was racism: to him the {{c|2649|Goths}} were barbarians and heretics,
+and he would not let a {{c|2675|Gothic}} emperor's line survive.
 
-When it was over he called the {{c|Gothic}} king {{c|Totila}}
+When it was over he called the {{c|2675|Gothic}} king {{c|2676|Totila}}
 a tyrant, a usurper, in the law he made in five-fifty-four.{{fn|In the Pragmatic Sanction of 554 Justinian annulled the acts of the Gothic king Totila, calling him a tyrannus, a usurper, and kept the acts of Theodoric's heirs.}}
 He had the word right and the man wrong:
 the usurper was the one who wrote it, and he knew it, and he swore.
 
 Twenty years his armies burned the peninsula
-that {{c|Theodoric}} had kept in peace.
+that {{c|2665|Theodoric}} had kept in peace.
 {{p|Rome}} was besieged and emptied, sacked and sacked again,
 and when the war was won, the ruin did not cease:
 
 the plague had come in the war, and the empty fields, and the usurper's tax.
 That is why the {{p|West}} had no emperor after him.
-{{c|Justinian}} ended the line, and took the {{p|West}} himself,
+{{c|2383|Justinian}} ended the line, and took the {{p|West}} himself,
 and held it from the {{p|East}}, its edges growing dim.
 
-The throne of the {{p|West}} stood empty from {{c|Theodoric}}
-to {{c|Charlemagne}}, near three hundred years: an interregnum, not an end.{{fn|Most histories end the Western Roman Empire in 476, or in 480 at the death of Julius Nepos. The Gaiad counts it unbroken: its throne empty from Theodoric's death in 526 to Charlemagne's coronation on Christmas Day 800.}}
+The throne of the {{p|West}} stood empty from {{c|2665|Theodoric}}
+to {{c|2677|Charlemagne}}, near three hundred years: an interregnum, not an end.{{fn|Most histories end the Western Roman Empire in 476, or in 480 at the death of Julius Nepos. The Gaiad counts it unbroken: its throne empty from Theodoric's death in 526 to Charlemagne's coronation on Christmas Day 800.}}
 It stood empty because the usurper's house would not fill it,
 and kept the chair from every heir it could not bend.
 
-In five-sixty-eight the {{c|Lombards}} came into {{p|Italy}},
+In five-sixty-eight the {{c|2678|Lombards}} came into {{p|Italy}},
 and took the most of it from the usurper's hand.
-Their kings took the name of {{c|Flavius}}, as {{c|Theodoric}} had,{{fn|From Authari, king from 584 to 590, the Lombard kings of Italy took the name Flavius.}}
+Their kings took the name of {{c|2679|Flavius}}, as {{c|2665|Theodoric}} had,{{fn|From Authari, king from 584 to 590, the Lombard kings of Italy took the name Flavius.}}
 and wrote the {{x|Edict of Rothari}} in {{x|Latin}}, a {{p|Roman}} law for the land.
 
-They came in {{x|Arian}}, and turned {{x|Catholic}} under {{c|Theodelinda}},
-and in seven-fifty-one {{c|Aistulf}} took {{p|Ravenna}}, the western seat,
-{{c|Theodoric}}'s own city, back from the usurper's exarch.
-The {{c|Lombards}} were the truer heirs, more than {{c|Justinian}}, and the claim was complete.
+They came in {{x|Arian}}, and turned {{x|Catholic}} under {{c|2680|Theodelinda}},
+and in seven-fifty-one {{c|2681|Aistulf}} took {{p|Ravenna}}, the western seat,
+{{c|2665|Theodoric}}'s own city, back from the usurper's exarch.
+The {{c|2678|Lombards}} were the truer heirs, more than {{c|2383|Justinian}}, and the claim was complete.
 
 And {{p|Rome}} never fell. The fall is a myth.
-Its date of four-seventy-six was set in {{c|Justinian}}'s own day,{{fn|The year 476 as the end of the West first appears in the chronicle of Marcellinus Comes, written at the court of Constantinople in Justinian's time.}}
-by a chronicler of {{p|Constantinople}}, {{c|Marcellinus}},
+Its date of four-seventy-six was set in {{c|2383|Justinian}}'s own day,{{fn|The year 476 as the end of the West first appears in the chronicle of Marcellinus Comes, written at the court of Constantinople in Justinian's time.}}
+by a chronicler of {{p|Constantinople}}, {{c|2682|Marcellinus}},
 whose master needed a fallen {{p|West}} to carry away.
 
-{{c|Justinian}} codified {{p|Roman}} law as the {{x|Corpus Juris Civilis}},
-built the {{c|Hagia Sophia}} in {{p|Constantinople}},
+{{c|2383|Justinian}} codified {{p|Roman}} law as the {{x|Corpus Juris Civilis}},
+built the {{c|2683|Hagia Sophia}} in {{p|Constantinople}},
 closed the {{x|Academy of Athens}} which had run
 for nine hundred years as philosophy's steeple.
 
 The Platonic philosophers fled to {{p|Persia}},
-to {{c|Khosrow I}}, who welcomed them kindly,
+to {{c|2605|Khosrow I}}, who welcomed them kindly,
 though they returned at last to {{p|Roman}} ground
 when he wrote their freedom into the peace, binding.
 
-{{c|Justinian}}'s wars exhausted the empire.
-The plague of {{c|Justinian}} killed millions.
-The {{c|Sassanid}} wars drained what remained.
-The {{c|Arabs}} would strike its weakened provinces and civilians.
+{{c|2383|Justinian}}'s wars exhausted the empire.
+The plague of {{c|2383|Justinian}} killed millions.
+The {{c|2596|Sassanid}} wars drained what remained.
+The {{c|1910|Arabs}} would strike its weakened provinces and civilians.
 
 But that is the next arc. For now, mark
-the turn: the {{p|West}} did not fall to the {{c|Goths}};
-it lost its last emperor to {{c|Justinian}},
+the turn: the {{p|West}} did not fall to the {{c|2649|Goths}};
+it lost its last emperor to {{c|2383|Justinian}},
 and {{x|Christianity}} became what {{p|Rome}} defended.
 
 The old gods were gone from public life.
@@ -4441,48 +4441,48 @@ on the old {{p|Roman}} frame, altered somehow.
 
 # Chapter 188: The Fall of Han
 
-While {{p|Rome}} was under the {{c|Severans}} strained,
-the {{c|Han Dynasty}} in {{p|China}} fell apart.
+While {{p|Rome}} was under the {{c|2684|Severans}} strained,
+the {{c|2556|Han Dynasty}} in {{p|China}} fell apart.
 The eunuchs fought the Confucian scholars.
-The {{c|Yellow Turbans}} rose with fervent heart.
+The {{c|2568|Yellow Turbans}} rose with fervent heart.
 
-{{c|Zhang Jue}} and his brothers led
-the {{c|Yellow Turban Rebellion}} in 184.
+{{c|2685|Zhang Jue}} and his brothers led
+the {{c|2686|Yellow Turban Rebellion}} in 184.
 {{x|Taiping Dao}}, the {{x|Way of Great Peace}},
 promised a new heaven, a new core.
 
-{{c|Zhang Jue}} claimed healing powers, faith
+{{c|2685|Zhang Jue}} claimed healing powers, faith
 cures, magical ceremonies, bean counting.
 When plague and famine struck the peasants,
 his followers numbered hundreds of thousands mounting.
 
 The {{x|Han}} court raised armies, crushed the revolt,
 but the generals became too strong thereby.
-{{c|Dong Zhuo}} marched into the capital,
+{{c|2687|Dong Zhuo}} marched into the capital,
 controlled the boy emperor, made him cry.
 
-{{c|Dong Zhuo}} was assassinated. The warlords
+{{c|2687|Dong Zhuo}} was assassinated. The warlords
 carved up {{p|China}} like meat on the bone.
-{{c|Cao Cao}}, {{c|Liu Bei}}, {{c|Sun Quan}} emerged
+{{c|2688|Cao Cao}}, {{c|2689|Liu Bei}}, {{c|2690|Sun Quan}} emerged
 as the three great regional powers alone.
 
-{{c|Cao Cao}} held the north, controlled the emperor,
+{{c|2688|Cao Cao}} held the north, controlled the emperor,
 ruled through the {{x|Han}} name though he was king.
-{{c|Liu Bei}} claimed descent from {{x|Han}} imperial blood,
+{{c|2689|Liu Bei}} claimed descent from {{x|Han}} imperial blood,
 built his base in {{p|Shu}}, the southwestern ring.
 
-{{c|Sun Quan}} inherited the south from his father and brother,
+{{c|2690|Sun Quan}} inherited the south from his father and brother,
 built his power along the {{p|Yangtze}}'s mouth,
 {{p|Wu}} the eastern kingdom along the coast.
 {{x|Three Kingdoms}}: {{p|Wei}}, {{p|Shu}}, {{p|Wu}}, facing drouth.
 
-In two-twenty, {{c|Cao Cao}}'s son {{c|Cao Pi}}
+In two-twenty, {{c|2688|Cao Cao}}'s son {{c|2691|Cao Pi}}
 forced the last {{x|Han}} emperor to abdicate.
-The {{x|Han}} was formally dead. {{c|Cao Pi}}
+The {{x|Han}} was formally dead. {{c|2691|Cao Pi}}
 declared {{p|Wei}} dynasty at its birth date.
 
-{{c|Liu Bei}} declared {{p|Shu Han}} in response.
-{{c|Sun Quan}} declared {{p|Wu}} a few years later.
+{{c|2689|Liu Bei}} declared {{p|Shu Han}} in response.
+{{c|2690|Sun Quan}} declared {{p|Wu}} a few years later.
 The {{x|Three Kingdoms}} period had begun,
 lasting sixty years, never quieter.
 
@@ -4501,7 +4501,7 @@ With Confucian order failing, people turned
 to the foreign teaching that addressed suffering.
 Monasteries multiplied, sutras were earned.
 
-{{c|Kumarajiva}} was brought from {{p|Kucha}} as hostage
+{{c|2692|Kumarajiva}} was brought from {{p|Kucha}} as hostage
 to {{p|Chang'an}} where he translated sutras,
 the {{x|Lotus}}, the {{x|Diamond}}, the {{x|Vimalakirti}},
 setting the standard for Chinese Buddhist tutors.
@@ -4511,25 +4511,25 @@ into an organized religion with clergy,
 temples, canon, and liturgies modeled
 on Buddhist forms they found analogously.
 
-The {{c|Celestial Masters}} had emerged
+The {{c|2693|Celestial Masters}} had emerged
 in the late {{x|Han}} as an organized church.
-{{c|Ge Hong}}'s alchemy sought immortality.
+{{c|2694|Ge Hong}}'s alchemy sought immortality.
 {{x|Daoism}} became institutional perch.
 
 {{p|China}} would not be reunified until
-{{c|Sui Wendi}} in five-eighty-nine.
-And then the {{c|Tang Dynasty}} would build
+{{c|2695|Sui Wendi}} in five-eighty-nine.
+And then the {{c|2696|Tang Dynasty}} would build
 on that foundation the greatest era fine.
 
 But first, the {{x|Three Kingdoms}} would become
 the great subject of Chinese historical imagination.
-The {{c|Romance of the Three Kingdoms}} novel
+The {{c|2697|Romance of the Three Kingdoms}} novel
 would make these warlords into every nation's creation.
 
-{{c|Cao Cao}}: the cunning, ruthless antihero.
-{{c|Liu Bei}}: the virtuous, righteous claimant.
-{{c|Zhuge Liang}}: the brilliant strategist advisor.
-{{c|Guan Yu}}: the loyal sworn brother, servant of heaven's pavement.
+{{c|2688|Cao Cao}}: the cunning, ruthless antihero.
+{{c|2689|Liu Bei}}: the virtuous, righteous claimant.
+{{c|2698|Zhuge Liang}}: the brilliant strategist advisor.
+{{c|2699|Guan Yu}}: the loyal sworn brother, servant of heaven's pavement.
 
 Their stories would shape Chinese culture
 for fifteen centuries to come,
@@ -4539,14 +4539,14 @@ like the {{x|Iliad}} for classical Greek home.
 
 # Chapter 189: Romance of the Three Kingdoms
 
-The novel by {{c|Luo Guanzhong}}
+The novel by {{c|2700|Luo Guanzhong}}
 in the fourteenth century brought alive
 the {{x|Three Kingdoms}} war with such vividness
 that fact and fiction no longer survive
 
 as separate things. What "everyone knows"
 about this period comes from his book.
-The historical {{c|Chen Shou}}'s {{x|Records of Three Kingdoms}}
+The historical {{c|2701|Chen Shou}}'s {{x|Records of Three Kingdoms}}
 is less read, less fun, less took.
 
 The opening line: "The empire, long divided,
@@ -4554,68 +4554,68 @@ must unite; long united, must divide.
 Thus it has ever been." The novel begins
 with the {{x|Peach Garden Oath}} on a riverside.
 
-{{c|Liu Bei}}, {{c|Guan Yu}}, and {{c|Zhang Fei}}
+{{c|2689|Liu Bei}}, {{c|2699|Guan Yu}}, and {{c|2702|Zhang Fei}}
 swore brotherhood in a peach garden,
 pledging to die on the same day, to
 restore the {{x|Han}}, to share every burden.
 
-{{c|Liu Bei}} claimed descent from the {{x|Han}} imperial line,
+{{c|2689|Liu Bei}} claimed descent from the {{x|Han}} imperial line,
 but sold straw sandals and mats to live.
-{{c|Guan Yu}} was a fugitive for avenging
+{{c|2699|Guan Yu}} was a fugitive for avenging
 a local bully who would not forgive.
 
-{{c|Zhang Fei}} was a butcher and wine-seller,
+{{c|2702|Zhang Fei}} was a butcher and wine-seller,
 brash, brave, violent, loyal as stone.
 Together they raised a volunteer army
-against the {{c|Yellow Turbans}} on their own.
+against the {{c|2568|Yellow Turbans}} on their own.
 
-{{c|Zhuge Liang}} joined {{c|Liu Bei}} later,
-the {{c|Sleeping Dragon}}, the brilliant strategist,
+{{c|2698|Zhuge Liang}} joined {{c|2689|Liu Bei}} later,
+the {{c|2703|Sleeping Dragon}}, the brilliant strategist,
 visited three times at his thatched cottage
 before he would consent to be a lobbyist
 
-for {{c|Liu Bei}}'s cause. He devised the strategy
+for {{c|2689|Liu Bei}}'s cause. He devised the strategy
 of the tripod: three kingdoms balancing,
 {{p|Shu}} allied with {{p|Wu}} against {{p|Wei}},
 the weaker two against the one advancing.
 
-The {{c|Battle of Red Cliffs}} in two-oh-eight
-was the great set piece. {{c|Cao Cao}}'s northern army
+The {{c|2704|Battle of Red Cliffs}} in two-oh-eight
+was the great set piece. {{c|2688|Cao Cao}}'s northern army
 came south to crush the Wu-Shu alliance.
 Eight hundred thousand troops, allegedly.
 
-{{c|Zhuge Liang}} borrowed arrows with straw boats
-in the fog, ten thousand arrows from {{c|Cao Cao}}'s
+{{c|2698|Zhuge Liang}} borrowed arrows with straw boats
+in the fog, ten thousand arrows from {{c|2688|Cao Cao}}'s
 own archers fired at what they couldn't see.
 Fire ships were prepared, east wind-blowings owed.
 
-The Taoist {{c|Zhuge}} summoned the east wind,
+The Taoist {{c|2705|Zhuge}} summoned the east wind,
 or predicted it, the novel is ambiguous.
-The fire ships slipped into {{c|Cao Cao}}'s fleet
+The fire ships slipped into {{c|2688|Cao Cao}}'s fleet
 chained together, and the conflagration was continuous.
 
-{{c|Cao Cao}}'s navy burned. His army fled
+{{c|2688|Cao Cao}}'s navy burned. His army fled
 along the {{p|Huarong Road}} through marsh and mud.
-{{c|Guan Yu}} let him escape at the narrow pass,
+{{c|2699|Guan Yu}} let him escape at the narrow pass,
 repaying old debt of favor, blood.
 
-(This was not in the histories. {{c|Luo Guanzhong}}
+(This was not in the histories. {{c|2700|Luo Guanzhong}}
 invented the {{p|Huarong Road}} release
-to show {{c|Guan Yu}}'s righteousness, his sense
+to show {{c|2699|Guan Yu}}'s righteousness, his sense
 of honor even to foes, sense of peace.)
 
-{{c|Guan Yu}} became the god of war,
+{{c|2699|Guan Yu}} became the god of war,
 of loyalty, of brotherhood, of merchants,
 worshipped across {{p|China}} and Chinese diaspora
-as {{c|Guandi}}, in temples of gold and servants.
+as {{c|2706|Guandi}}, in temples of gold and servants.
 
-{{c|Zhuge Liang}}'s {{x|Six Campaigns}} against {{p|Wei}}
+{{c|2698|Zhuge Liang}}'s {{x|Six Campaigns}} against {{p|Wei}}
 ended in his death at {{p|Wuzhang Plains}}.
 "The heavens will not let me succeed,"
 he said. {{p|Shu}} collapsed from his absent pains.
 
 {{p|Shu}} fell to {{p|Wei}} in two-sixty-three.
-{{p|Wei}} was replaced by the {{c|Jin Dynasty}} in two-sixty-five.
+{{p|Wei}} was replaced by the {{c|2707|Jin Dynasty}} in two-sixty-five.
 {{p|Wu}} fell to {{x|Jin}} in two-eighty.
 The empire was briefly reunified alive.
 
@@ -4625,9 +4625,9 @@ the {{p|Northern and Southern Dynasties}} would begin.
 {{p|China}} would be divided with famine in its mouth.
 
 Yet the {{x|Three Kingdoms}} tales endured.
-{{c|Liu Bei}} as the righteous rightful heir.
-{{c|Cao Cao}} as the cunning realist.
-{{c|Zhuge Liang}} as wisdom incarnate there.
+{{c|2689|Liu Bei}} as the righteous rightful heir.
+{{c|2688|Cao Cao}} as the cunning realist.
+{{c|2698|Zhuge Liang}} as wisdom incarnate there.
 
 The novel's influence is vast.
 Every Chinese child knows these names.
@@ -4641,8 +4641,8 @@ but the determined man's not deflowered."
 
 The novel's worldview is deeply Confucian:
 loyalty above survival, righteousness above success.
-{{c|Liu Bei}}'s cause is just though it loses.
-{{c|Cao Cao}}'s victory is tainted, a mess.
+{{c|2689|Liu Bei}}'s cause is just though it loses.
+{{c|2688|Cao Cao}}'s victory is tainted, a mess.
 
 The deflationary polytheist sees here
 the Chinese counterpart to epic,
@@ -4653,12 +4653,12 @@ moral imagination, subsonic and sceptic.
 # Chapter 190: Jimmu to Jingū
 
 In the island kingdom of {{p|Japan}},
-the legendary first emperor {{c|Jimmu}}
-is said to have descended from {{c|Amaterasu}}
+the legendary first emperor {{c|2708|Jimmu}}
+is said to have descended from {{c|885|Amaterasu}}
 through a line of gods at their minimum.
 
 Six-sixty BCE is the traditional date
-for {{c|Jimmu}}'s eastern expedition from {{p|Kyushu}}
+for {{c|2708|Jimmu}}'s eastern expedition from {{p|Kyushu}}
 to the {{p|Yamato}} plain, where he founded
 the imperial line that {{p|Japan}} would issue.
 
@@ -4669,26 +4669,26 @@ until several centuries after this contrived.
 
 But the myth sets the frame: the imperial line
 descends from the sun goddess through her grandson
-{{c|Ninigi}} who came down to {{p|Mount Takachiho}}
+{{c|2709|Ninigi}} who came down to {{p|Mount Takachiho}}
 carrying the {{x|Three Sacred Treasures}} begun:
 
 the mirror {{x|Yata no Kagami}},
-the sword {{c|Kusanagi}} (taken from the tail
-of the eight-headed serpent {{c|Yamata no Orochi}}
-by {{c|Susanoo}} in myth's oldest detail),
+the sword {{c|2710|Kusanagi}} (taken from the tail
+of the eight-headed serpent {{c|2711|Yamata no Orochi}}
+by {{c|2712|Susanoo}} in myth's oldest detail),
 
 and the jewel {{x|Yasakani no Magatama}}.
 These three still exist, kept in the shrines' stead,
 as the imperial regalia of {{p|Japan}},
 passed down through seventy centuries' tread.
 
-{{c|Jimmu}}'s great-grandfather was {{c|Ninigi}}.
-{{c|Jimmu}}'s grandmother was {{c|Toyotamahime}},
+{{c|2708|Jimmu}}'s great-grandfather was {{c|2709|Ninigi}}.
+{{c|2708|Jimmu}}'s grandmother was {{c|2713|Toyotamahime}},
 daughter of the sea dragon god, who bore
-{{c|Ugayafukiaezu}}, {{c|Jimmu}}'s father, extremely.
+{{c|2714|Ugayafukiaezu}}, {{c|2708|Jimmu}}'s father, extremely.
 
-So {{c|Jimmu}} has divine lineage both through
-the sun goddess {{c|Amaterasu}} above
+So {{c|2708|Jimmu}} has divine lineage both through
+the sun goddess {{c|885|Amaterasu}} above
 and through the sea dragon gods below.
 He is sky and sea, embraced by both's love.
 
@@ -4704,35 +4704,35 @@ a holiday ever since, at least in theory.
 
 For centuries after, the emperors listed
 are largely legendary or semi-so.
-The tenth emperor {{c|Sujin}} may be
+The tenth emperor {{c|2715|Sujin}} may be
 the first with some historical glow.
 
-The twelfth, {{c|Keikō}}, had a son {{c|Yamato Takeru}},
-the culture hero who conquered the eastern {{c|Emishi}},
+The twelfth, {{c|2716|Keikō}}, had a son {{c|2717|Yamato Takeru}},
+the culture hero who conquered the eastern {{c|2718|Emishi}},
 who killed his brother in his father's bathroom,
 was sent to die on difficult missions barely.
 
-He received {{c|Kusanagi}} from his aunt
-{{c|Yamatohime}}, priestess of {{c|Amaterasu}} at {{p|Ise}}.
+He received {{c|2710|Kusanagi}} from his aunt
+{{c|2719|Yamatohime}}, priestess of {{c|885|Amaterasu}} at {{p|Ise}}.
 He used it to cut grass in a fire trap set by enemies,
 saving his life, naming the sword "grass-cutter" in simplicity.
 
-His son or nephew (accounts vary) {{c|Chuai}}
+His son or nephew (accounts vary) {{c|2720|Chuai}}
 was the fourteenth emperor, who died young,
-leaving his pregnant queen {{c|Jingū}} to rule.
+leaving his pregnant queen {{c|2721|Jingū}} to rule.
 She is the great semi-historical warrior tongue.
 
-{{c|Empress Jingū}} led an invasion of {{p|Korea}}
-while pregnant with the future emperor {{c|Ojin}}.
+{{c|2722|Empress Jingū}} led an invasion of {{p|Korea}}
+while pregnant with the future emperor {{c|2723|Ojin}}.
 She held the birth back three years by
 tying stones to her waist, the legend's imagine.
 
 She conquered the Korean kingdoms (or received
 their tribute), returning triumphant
-to bear {{c|Ojin}}, who would be deified as
-{{c|Hachiman}}, god of war, the most welcomed triumphant.
+to bear {{c|2723|Ojin}}, who would be deified as
+{{c|2724|Hachiman}}, god of war, the most welcomed triumphant.
 
-Modern historians are skeptical of {{c|Jingū}}'s
+Modern historians are skeptical of {{c|2721|Jingū}}'s
 Korean invasion. But there was certainly
 contact with Korean kingdoms {{p|Baekje}}, {{p|Silla}}, {{p|Gaya}},
 trade, migration, cultural transfer apparently.
@@ -4742,13 +4742,13 @@ into {{p|Japan}} — {{x|Buddhism}} officially in 538 or 552,
 though private transmission was earlier.
 From Gaya came iron, craftsmen, immigrant troops.
 
-The {{c|Yamato}} court was consolidating
+The {{c|2725|Yamato}} court was consolidating
 in the fourth and fifth centuries, building
-the massive {{c|kofun}} burial mounds,
+the massive {{c|2726|kofun}} burial mounds,
 the largest tombs in the world, filling.
 
-The {{c|Daisenryō Kofun}} attributed to
-emperor {{c|Nintoku}} is longer than the {{p|Great Pyramid}},
+The {{c|2727|Daisenryō Kofun}} attributed to
+emperor {{c|2728|Nintoku}} is longer than the {{p|Great Pyramid}},
 though lower — a 486-meter keyhole shape
 of earth and stone, for the imperial pyramid.
 
@@ -4757,13 +4757,13 @@ of a centralized state in the Japanese archipelago,
 absorbing Korean immigrants, Chinese influence,
 building toward what would become emperor {{p|Yamato}}.
 
-The {{c|Soga clan}} would push {{x|Buddhism}}.
-The {{c|Mononobe clan}} would resist.
-In 587, the {{c|Soga}} won, and {{x|Buddhism}}
+The {{c|2729|Soga clan}} would push {{x|Buddhism}}.
+The {{c|2730|Mononobe clan}} would resist.
+In 587, the {{c|2731|Soga}} won, and {{x|Buddhism}}
 became the state religion, with {{x|Shinto}}'s midst.
 
 The {{x|Kofun}} period was ending. The {{x|Asuka}} period
-beginning. The constitution of {{c|Prince Shōtoku}}
+beginning. The constitution of {{c|2732|Prince Shōtoku}}
 in 604 would organize the state
 along Chinese lines — the shape we still see.
 
@@ -4771,51 +4771,51 @@ along Chinese lines — the shape we still see.
 # Chapter 191: Arabia Before Islam
 
 The {{p|Arabian Peninsula}} in the centuries
-before {{c|Muhammad}}'s birth was a patchwork
-of tribes, oases, trade cities, {{c|Bedouin}},
+before {{c|1911|Muhammad}}'s birth was a patchwork
+of tribes, oases, trade cities, {{c|1915|Bedouin}},
 Jewish settlements, Christian monks at work.
 
 Two great lineages are traced by tradition.
-{{c|Qahtan}}, the southern {{c|Arabs}}, the {{p|Yemen}} tribes,
-descended from {{c|Joktan}} son of {{c|Eber}},
+{{c|1918|Qahtan}}, the southern {{c|1910|Arabs}}, the {{p|Yemen}} tribes,
+descended from {{c|2733|Joktan}} son of {{c|2734|Eber}},
 speakers of ancient South Arabian scribes.
 
-And {{c|Adnan}}, the northern {{c|Arabs}}, the
+And {{c|1917|Adnan}}, the northern {{c|1910|Arabs}}, the
 desert tribes of the {{p|Hejaz}} and {{p|Najd}},
-descended from {{c|Ishmael}} son of {{c|Abraham}}
+descended from {{c|634|Ishmael}} son of {{c|1308|Abraham}}
 through a line of thirty generations laid.
 
-{{c|Adnan}} had twelve sons, like the twelve
-tribes of {{c|Israel}} from {{c|Jacob}}'s line.
-The {{c|Quraysh}} tribe traced to him through
-{{c|Nizar}}, {{c|Mudar}}, {{c|Ilyas}}, a noble sign.
+{{c|1917|Adnan}} had twelve sons, like the twelve
+tribes of {{c|2735|Israel}} from {{c|2019|Jacob}}'s line.
+The {{c|1916|Quraysh}} tribe traced to him through
+{{c|2736|Nizar}}, {{c|2737|Mudar}}, {{c|2738|Ilyas}}, a noble sign.
 
-{{c|Muhammad}} would come from {{c|Adnan}}'s descent,
-from the {{c|Quraysh}} of {{p|Mecca}}, specifically
-from the clan of {{c|Hashim}}, which gave
+{{c|1911|Muhammad}} would come from {{c|1917|Adnan}}'s descent,
+from the {{c|1916|Quraysh}} of {{p|Mecca}}, specifically
+from the clan of {{c|2739|Hashim}}, which gave
 the name Hashemite to the family.
 
-The pre-Islamic {{c|Arabs}} worshipped many gods.
-{{c|Allah}} was the high god, creator, most high,
+The pre-Islamic {{c|1910|Arabs}} worshipped many gods.
+{{c|2740|Allah}} was the high god, creator, most high,
 but rarely worshipped directly — his daughters
-{{c|al-Lat}}, {{c|al-Uzza}}, and {{c|Manat}} drew the eye.
+{{c|2741|al-Lat}}, {{c|2742|al-Uzza}}, and {{c|2743|Manat}} drew the eye.
 
-The {{c|Kaaba}} at {{p|Mecca}} housed 360 idols,
+The {{c|2744|Kaaba}} at {{p|Mecca}} housed 360 idols,
 one for every day of the lunar year,
 tribal gods, astral deities, household idols,
-{{c|Hubal}} the chief among them held dear.
+{{c|2745|Hubal}} the chief among them held dear.
 
-But the {{c|Arabs}} also had the concept of
-{{c|hanif}}, a pure monotheist in the line
-of {{c|Abraham}}, who worshipped the one {{c|God}}
+But the {{c|1910|Arabs}} also had the concept of
+{{c|2746|hanif}}, a pure monotheist in the line
+of {{c|1308|Abraham}}, who worshipped the one {{c|472|God}}
 without joining Jewish or Christian shrine.
 
-{{c|Muhammad}}'s great-great-grandfather {{c|Qusay}}
-had consolidated the {{c|Quraysh}} in {{p|Mecca}},
-establishing them as guardians of the {{c|Kaaba}}
+{{c|1911|Muhammad}}'s great-great-grandfather {{c|2747|Qusay}}
+had consolidated the {{c|1916|Quraysh}} in {{p|Mecca}},
+establishing them as guardians of the {{c|2744|Kaaba}}
 and the pilgrimage trade's great bank-checker.
 
-The {{c|Quraysh}} controlled the sacred months
+The {{c|1916|Quraysh}} controlled the sacred months
 when fighting was forbidden throughout {{p|Arabia}}
 to allow caravans and pilgrimages to flow.
 This gave them wealth through {{p|Mecca}}'s bizarria.
@@ -4825,13 +4825,13 @@ which converted to {{x|Judaism}} in the fourth century,
 then was invaded by Christian {{p|Aksum}}, then
 by {{p|Sassanid Persia}}, politically drifting free.
 
-The {{c|Ghassanids}} on the northwestern frontier
+The {{c|2748|Ghassanids}} on the northwestern frontier
 were Christian Arab vassals of {{p|Byzantium}}.
-The {{c|Lakhmids}} in the east were Christian
-Arab vassals of the {{c|Sassanids}}, serving them.
+The {{c|2749|Lakhmids}} in the east were Christian
+Arab vassals of the {{c|2750|Sassanids}}, serving them.
 
 Jewish tribes lived in {{p|Medina}} ({{p|Yathrib}}):
-the {{c|Banu Qurayza}}, {{c|Banu Nadir}}, {{c|Banu Qaynuqa}},
+the {{c|2751|Banu Qurayza}}, {{c|2752|Banu Nadir}}, {{c|2753|Banu Qaynuqa}},
 who had fled there after Roman wars
 and established themselves as the economic driver.
 
@@ -4850,56 +4850,56 @@ Frankincense and myrrh went north to {{p|Rome}}.
 Silk and spices came from {{p|India}} and {{p|China}}
 through the Arabian ports of {{p|Yemen}}'s home.
 
-The century before {{c|Muhammad}} saw
+The century before {{c|1911|Muhammad}} saw
 the great Byzantine-Sassanid wars,
 which weakened both empires, disrupted trade,
 and left {{p|Arabia}} watching both contenders' scores.
 
 The {{x|Year of the Elephant}}, 570 CE,
-saw {{c|Abraha}}, the Christian Ethiopian ruler
+saw {{c|2754|Abraha}}, the Christian Ethiopian ruler
 of {{p|Yemen}}, march on {{p|Mecca}} with elephants
-to destroy the {{c|Kaaba}}, sacred center ruler.
+to destroy the {{c|2744|Kaaba}}, sacred center ruler.
 
 His expedition was miraculously defeated
 (tradition says birds dropped stones on them,
 a plague struck them, they retreated).
-{{c|Muhammad}} was born that year, some remember.
+{{c|1911|Muhammad}} was born that year, some remember.
 
 He was born an orphan, his father dead
 before his birth, his mother dying young.
-Raised by his grandfather {{c|Abd al-Muttalib}},
-then his uncle {{c|Abu Talib}} with lung.
+Raised by his grandfather {{c|2755|Abd al-Muttalib}},
+then his uncle {{c|2756|Abu Talib}} with lung.
 
 He worked as a merchant, earned the nickname
-{{c|al-Amin}}, the trustworthy one.
-He married the wealthy widow {{c|Khadija}}
+{{c|2757|al-Amin}}, the trustworthy one.
+He married the wealthy widow {{c|2758|Khadija}}
 fifteen years his senior, a deal well done.
 
 He would go to the cave of {{p|Hira}} to meditate
 on the {{p|Mount of Light}} outside {{p|Mecca}}.
 At forty, in the year 610,
-the archangel {{c|Gabriel}} would visit him, a wrecker
+the archangel {{c|2759|Gabriel}} would visit him, a wrecker
 
 of his old life and opener of the new.
-"Recite!" the angel said. "In the name of your {{c|Lord}}
+"Recite!" the angel said. "In the name of your {{c|295|Lord}}
 who created, created man from a clot."
 The {{x|Quran}} began. A new religion was born.
 
 
 # Chapter 192: Muhammad and the Rise of Islam
 
-{{c|Muhammad}} ran home shaking from the cave,
+{{c|1911|Muhammad}} ran home shaking from the cave,
 wrapped himself in blankets, terrified.
-{{c|Khadija}} comforted him, believed him,
+{{c|2758|Khadija}} comforted him, believed him,
 became the first Muslim at his side.
 
 The revelations continued for twenty-three years,
 verse by verse, surah by surah,
 collected after his death into the {{x|Quran}},
-the recitation, {{c|Allah}}'s word, no error.
+the recitation, {{c|2740|Allah}}'s word, no error.
 
-The core message: {{c|tawhid}}, the oneness of {{c|God}}.
-{{c|Allah}} alone, no partners, no daughters,
+The core message: {{c|2760|tawhid}}, the oneness of {{c|472|God}}.
+{{c|2740|Allah}} alone, no partners, no daughters,
 no trinity, no incarnation,
 the absolute one of all waters.
 
@@ -4913,33 +4913,33 @@ hajj — pilgrimage to {{p|Mecca}} once in life.
 Simple, clear, demanding, but doable,
 a structure for the whole of one's strife.
 
-For thirteen years in {{p|Mecca}}, {{c|Muhammad}} preached
-and was persecuted by the {{c|Quraysh}},
+For thirteen years in {{p|Mecca}}, {{c|1911|Muhammad}} preached
+and was persecuted by the {{c|1916|Quraysh}},
 whose economic and religious order
 depended on the pagan pilgrimage flesh.
 
 His early converts were slaves, women, poor,
 outsiders, those without tribal protection.
-His uncle {{c|Abu Talib}} protected him
+His uncle {{c|2756|Abu Talib}} protected him
 through clan obligation, not conviction.
 
-When {{c|Abu Talib}} died, and {{c|Khadija}} died
+When {{c|2756|Abu Talib}} died, and {{c|2758|Khadija}} died
 the same year, 619, the "{{x|Year of Sorrow}},"
-{{c|Muhammad}}'s situation grew desperate.
+{{c|1911|Muhammad}}'s situation grew desperate.
 Persecution intensified. Would there be a morrow?
 
 In 622, he and his followers
-made the {{c|Hijra}}, the migration, to {{p|Medina}},
+made the {{c|2761|Hijra}}, the migration, to {{p|Medina}},
 where tribes had invited him to arbitrate
 their feuds and be their prophet-leader subpoena.
 
-The {{c|Hijra}} is year one of the Islamic calendar.
-The community in {{p|Medina}}, the {{c|ummah}},
+The {{c|2761|Hijra}} is year one of the Islamic calendar.
+The community in {{p|Medina}}, the {{c|2762|ummah}},
 became the first Muslim polity,
-{{c|Muhammad}} as both prophet and ruler summa.
+{{c|1911|Muhammad}} as both prophet and ruler summa.
 
 The Jewish tribes of {{p|Medina}} initially
-were expected by {{c|Muhammad}} to recognize him
+were expected by {{c|1911|Muhammad}} to recognize him
 as a prophet in the Abrahamic line.
 When they refused, the qibla changed from the rim
 
@@ -4948,59 +4948,59 @@ changed from {{x|Yom Kippur}} to {{x|Ramadan}}.
 The split with {{x|Judaism}} became permanent.
 {{x|Islam}} was now its own religion, untouched ran.
 
-War with the {{c|Quraysh}} broke out. The {{c|Battle of Badr}}
+War with the {{c|1916|Quraysh}} broke out. The {{c|2763|Battle of Badr}}
 in 624 was the first great victory.
-Three hundred {{c|Muslims}} defeated one thousand {{c|Quraysh}}.
+Three hundred {{c|2764|Muslims}} defeated one thousand {{c|1916|Quraysh}}.
 It was taken as divine sanction for their story.
 
 The {{x|Battle of Uhud}} in 625 was a defeat.
-{{c|Muhammad}} was wounded, thought dead briefly.
+{{c|1911|Muhammad}} was wounded, thought dead briefly.
 The community was shaken. New revelations
 addressed the setback and steadied them chiefly.
 
 The {{x|Battle of the Trench}} in 627 was
-a siege of {{p|Medina}} by the {{c|Quraysh}},
+a siege of {{p|Medina}} by the {{c|1916|Quraysh}},
 repelled by the strategy of digging a trench,
 a Persian tactic from a convert's wish.
 
-After the siege, the Jewish tribe {{c|Banu Qurayza}}
+After the siege, the Jewish tribe {{c|2751|Banu Qurayza}}
 was accused of conspiring with the enemies.
 The men were killed, the women and children enslaved.
 This is one of the darkest episodes in history's arenas.
 
 In 628, the {{x|Treaty of Hudaybiyyah}}
-was negotiated with the {{c|Quraysh}}.
-It seemed unfavorable to the {{c|Muslims}},
-but {{c|Muhammad}} accepted, and his ash
+was negotiated with the {{c|1916|Quraysh}}.
+It seemed unfavorable to the {{c|2764|Muslims}},
+but {{c|1911|Muhammad}} accepted, and his ash
 
 followers grumbled. Within two years
-the treaty was broken by {{c|Quraysh}} allies.
-{{c|Muhammad}} marched on {{p|Mecca}} with ten thousand
+the treaty was broken by {{c|1916|Quraysh}} allies.
+{{c|1911|Muhammad}} marched on {{p|Mecca}} with ten thousand
 and the city surrendered without heavy plies.
 
-{{c|Muhammad}} entered the {{p|Kaaba}}, destroyed the idols,
-proclaimed only one {{c|God}}, forgave most enemies.
+{{c|1911|Muhammad}} entered the {{p|Kaaba}}, destroyed the idols,
+proclaimed only one {{c|472|God}}, forgave most enemies.
 It was the triumph of his mission.
 {{p|Mecca}} was now the center of the new community.
 
-In 632, {{c|Muhammad}} made the {{x|Farewell Pilgrimage}},
+In 632, {{c|1911|Muhammad}} made the {{x|Farewell Pilgrimage}},
 delivered the {{x|Farewell Sermon}} at {{p|Arafat}},
 and died shortly after in {{p|Medina}}
-in the arms of {{c|Aisha}}, his beloved mate.
+in the arms of {{c|2765|Aisha}}, his beloved mate.
 
-The community was devastated. {{c|Abu Bakr}},
+The community was devastated. {{c|2766|Abu Bakr}},
 his oldest friend and father-in-law,
-addressed the crowd: "If you worshipped {{c|Muhammad}},
-know that he is dead. If you worship {{c|Allah}}, he lives raw."
+addressed the crowd: "If you worshipped {{c|1911|Muhammad}},
+know that he is dead. If you worship {{c|2740|Allah}}, he lives raw."
 
-{{c|Abu Bakr}} was elected the first {{c|caliph}},
-the successor, the {{c|Rightly Guided}}.
+{{c|2766|Abu Bakr}} was elected the first {{c|2767|caliph}},
+the successor, the {{c|2768|Rightly Guided}}.
 He crushed the {{x|Ridda}} wars, tribes rebelling,
 and held the ummah together, undivided.
 
-Then came {{c|Umar}}, second caliph, who
+Then came {{c|2769|Umar}}, second caliph, who
 launched the great Arab conquests outward.
-Within twelve years of {{c|Muhammad}}'s death,
+Within twelve years of {{c|1911|Muhammad}}'s death,
 {{p|Syria}}, {{p|Iraq}}, {{p|Persia}}, {{p|Egypt}} fell toward
 
 the new empire. The {{p|Sassanid Empire}}
@@ -5008,36 +5008,36 @@ collapsed completely. The {{p|Byzantine Empire}}
 lost its richest provinces. The map was redrawn.
 A new civilization rose from the fire.
 
-{{c|Umar}} was assassinated. {{c|Uthman}} was third caliph,
+{{c|2769|Umar}} was assassinated. {{c|2770|Uthman}} was third caliph,
 who codified the {{x|Quran}} in its current form,
 collected all variants, destroyed the others,
 standardized the text without reform.
 
-{{c|Uthman}} was assassinated too. {{c|Ali}},
-{{c|Muhammad}}'s cousin and son-in-law, became fourth.
-But the first {{c|fitna}}, civil war, broke out.
+{{c|2770|Uthman}} was assassinated too. {{c|2771|Ali}},
+{{c|1911|Muhammad}}'s cousin and son-in-law, became fourth.
+But the first {{c|2772|fitna}}, civil war, broke out.
 The community was dividing without forth.
 
-{{c|Ali}} was assassinated. {{c|Muawiya}} of the {{c|Umayyad}} clan
+{{c|2771|Ali}} was assassinated. {{c|2773|Muawiya}} of the {{c|2774|Umayyad}} clan
 seized the caliphate, moved capital to {{p|Damascus}}.
-The {{x|Rashidun}} era ended. The {{c|Umayyad}} dynasty
+The {{x|Rashidun}} era ended. The {{c|2774|Umayyad}} dynasty
 began its ninety-year rule over fate's ramparts.
 
-Those who had favored {{c|Ali}} became
-the {{c|Shia}}, "the party of {{c|Ali}},"
+Those who had favored {{c|2771|Ali}} became
+the {{c|2775|Shia}}, "the party of {{c|2771|Ali}},"
 holding that the caliphate should have stayed
-in the {{c|Prophet}}'s family, loyally.
+in the {{c|2776|Prophet}}'s family, loyally.
 
 Those who accepted the status quo became
-the {{c|Sunni}}, "followers of the sunnah,"
+the {{c|2777|Sunni}}, "followers of the sunnah,"
 the tradition, the mainstream majority.
 The split between them would be enduring, the fissure not undone.
 
 
 # Chapter 193: Journey to the West
 
-In the {{c|Tang Dynasty}} of {{p|China}},
-the monk {{c|Xuanzang}} set out west
+In the {{c|2696|Tang Dynasty}} of {{p|China}},
+the monk {{c|2778|Xuanzang}} set out west
 in 629 to find the original
 {{x|Sanskrit}} sutras, his life's one quest.
 
@@ -5048,61 +5048,61 @@ It was denied. He went illegally, surely.
 
 For seventeen years he traveled through
 {{p|Central Asia}}, {{p|Afghanistan}}, {{p|India}},
-studying at {{c|Nalanda}} the great university,
+studying at {{c|2779|Nalanda}} the great university,
 debating with scholars in every region.
 
-{{c|Nalanda}} was the greatest Buddhist university
+{{c|2779|Nalanda}} was the greatest Buddhist university
 in history at that time, ten thousand monks,
 thousands of professors, vast libraries,
 teaching logic, philosophy, medicine, thunks.
 
-{{c|Xuanzang}} mastered {{x|Sanskrit}}, the six Buddhist schools,
+{{c|2778|Xuanzang}} mastered {{x|Sanskrit}}, the six Buddhist schools,
 debated the {{x|Mahayana}} against the {{x|Theravada}},
-was offered leadership of {{c|Nalanda}} itself,
+was offered leadership of {{c|2779|Nalanda}} itself,
 but chose to return home to his own data.
 
 He returned in 645 with 657 {{x|Sanskrit}} texts
 loaded on twenty-two horses across the passes.
-The emperor {{c|Taizong}} welcomed him back
+The emperor {{c|2780|Taizong}} welcomed him back
 despite the illegal departure from the masses.
 
 He spent the rest of his life translating.
 He translated 1,330 scrolls of sutras.
-He introduced {{c|Yogacara}} philosophy,
+He introduced {{c|2781|Yogacara}} philosophy,
 consciousness-only school, into Chinese rostra.
 
-He wrote the {{c|Great Tang Records on the Western Regions}},
+He wrote the {{c|2782|Great Tang Records on the Western Regions}},
 a travelogue of the kingdoms he had visited,
 which became a precious source for historians
 when those kingdoms vanished, undocumented otherwise.
 
-{{p|Bamiyan}}'s giant {{c|Buddha}} statues — he saw them
+{{p|Bamiyan}}'s giant {{c|1959|Buddha}} statues — he saw them
 when they stood complete, fifty and thirty-five meters,
 cut into the cliff face of {{p|Afghanistan}}.
-Destroyed by {{c|Taliban}} in 2001, their lintels.
+Destroyed by {{c|2783|Taliban}} in 2001, their lintels.
 
-But we know what they looked like from {{c|Xuanzang}}.
+But we know what they looked like from {{c|2778|Xuanzang}}.
 We know the kingdoms, the cities, the sages,
 the quality of rice at particular places,
 the customs of pilgrims on various pages.
 
 Nine hundred years later, in the {{x|Ming}} dynasty,
-{{c|Wu Cheng'en}} wrote {{c|Journey to the West}},
-the great fantasy novel based on {{c|Xuanzang}}'s trip,
+{{c|2784|Wu Cheng'en}} wrote {{c|2785|Journey to the West}},
+the great fantasy novel based on {{c|2778|Xuanzang}}'s trip,
 with supernatural companions along for the test.
 
-{{c|Sun Wukong}}, the {{c|Monkey King}}, born from stone,
+{{c|2786|Sun Wukong}}, the {{c|2787|Monkey King}}, born from stone,
 a trickster mastering Daoist and Buddhist arts,
 who ate the peaches of immortality,
 caused havoc in heaven, was imprisoned with hard arts.
 
-He was freed to accompany {{c|Xuanzang}}
-(called {{c|Tripitaka}} in the novel, the monk)
+He was freed to accompany {{c|2778|Xuanzang}}
+(called {{c|2788|Tripitaka}} in the novel, the monk)
 with the golden headband that could constrict
 if the monk chanted the spell's {{x|Sanskrit}} funk.
 
-{{c|Pigsy}} ({{c|Zhu Bajie}}), the lazy glutton pig-man,
-Sandy ({{c|Sha Wujing}}), the stoic river demon,
+{{c|2789|Pigsy}} ({{c|2790|Zhu Bajie}}), the lazy glutton pig-man,
+Sandy ({{c|2791|Sha Wujing}}), the stoic river demon,
 and the dragon prince who became the horse —
 four disciples of the monk, the protection demon.
 
@@ -5118,11 +5118,11 @@ beloved for centuries across geography.
 
 It has been adapted as opera, film, television,
 anime, video game, manga without count.
-{{c|Son Goku}} of {{x|Dragon Ball}} is a direct
-descendant of {{c|Sun Wukong}} in amount.
+{{c|2792|Son Goku}} of {{x|Dragon Ball}} is a direct
+descendant of {{c|2786|Sun Wukong}} in amount.
 
-{{c|Xuanzang}} himself is historical.
-{{c|Sun Wukong}} is fictional. But both together
+{{c|2778|Xuanzang}} himself is historical.
+{{c|2786|Sun Wukong}} is fictional. But both together
 represent the deep Chinese relationship
 with {{x|Buddhism}} — Chinese adaptation of weather.
 
@@ -5132,18 +5132,18 @@ The demons are inner obstacles externalized.
 The goal is to carry the teaching back to one's nation.
 
 Chinese {{x|Buddhism}} had become by the {{x|Tang}}
-fully domesticated. {{c|Chan}} ({{x|Zen}}) was emerging
-under {{c|Huineng}} the {{c|Sixth Patriarch}}, whose
+fully domesticated. {{c|2793|Chan}} ({{x|Zen}}) was emerging
+under {{c|2794|Huineng}} the {{c|2795|Sixth Patriarch}}, whose
 sudden enlightenment school was surging.
 
-{{c|Pure Land}} {{x|Buddhism}} was expanding too,
-the devotional school of {{c|Amitabha}},
-the {{c|Buddha}} of the {{p|Western Paradise}},
+{{c|2796|Pure Land}} {{x|Buddhism}} was expanding too,
+the devotional school of {{c|2797|Amitabha}},
+the {{c|1959|Buddha}} of the {{p|Western Paradise}},
 saving all who called his name in awe.
 
 {{x|Tang}} {{p|China}} was the world-civilization of its time.
 {{p|Chang'an}} was the world's largest city.
-{{c|Persians}}, {{c|Arabs}}, {{c|Sogdians}}, Japanese, {{c|Koreans}}
+{{c|2654|Persians}}, {{c|1910|Arabs}}, {{c|2798|Sogdians}}, Japanese, {{c|2564|Koreans}}
 came to study, trade, and live in the pretty.
 
 The {{x|Tang}} would be the golden age
@@ -5155,8 +5155,8 @@ The era that even now is most well-fenced.
 # Chapter 194: Kūkai
 
 In {{p|Japan}} of the early ninth century,
-the monk {{c|Kūkai}} (774-835)
-brought {{c|Shingon}} {{x|Buddhism}} from {{x|Tang}} {{p|China}}
+the monk {{c|2799|Kūkai}} (774-835)
+brought {{c|2800|Shingon}} {{x|Buddhism}} from {{x|Tang}} {{p|China}}
 and made it into something alive.
 
 He was born on {{p|Shikoku}} island,
@@ -5164,14 +5164,14 @@ the smallest of the four main islands,
 went to {{p|Chang'an}} in 804 with the embassy,
 studied at {{p|Qinglong Temple}}'s vast hidings.
 
-He studied under {{c|Huiguo}}, the master
+He studied under {{c|2801|Huiguo}}, the master
 of Chinese Vajrayana {{x|Buddhism}},
 who transmitted the full esoteric tradition
-to {{c|Kūkai}} in just a few months' witnessing.
+to {{c|2799|Kūkai}} in just a few months' witnessing.
 
-{{c|Huiguo}} died shortly after. {{c|Kūkai}} returned
+{{c|2801|Huiguo}} died shortly after. {{c|2799|Kūkai}} returned
 to {{p|Japan}} with scriptures, mandalas, ritual tools,
-and the complete transmission of {{c|Shingon}},
+and the complete transmission of {{c|2800|Shingon}},
 "the {{x|True Word}}," the esoteric school's schools.
 
 He established his mountain monastery at {{p|Mount Kōya}},
@@ -5180,18 +5180,18 @@ He systematized the esoteric teachings
 into {{p|Japan}}'s first complete Buddhist alphabeta.
 
 He is credited (perhaps legendarily)
-with inventing the {{c|kana}} syllabary,
+with inventing the {{c|2802|kana}} syllabary,
 the phonetic Japanese writing system
 that made Japanese literature necessary.
 
-Before {{c|Kana}}, Japanese was written
+Before {{c|2803|Kana}}, Japanese was written
 in Chinese characters used phonetically,
 the man'yōgana system, cumbersome.
-{{c|Kana}} simplified, made Japanese poetic.
+{{c|2803|Kana}} simplified, made Japanese poetic.
 
-{{c|Kūkai}}'s teaching: the universe is the body
-of the cosmic {{c|Buddha}} {{c|Mahāvairocana}},
-{{c|Dainichi Nyorai}}, the sun-like {{c|Buddha}},
+{{c|2799|Kūkai}}'s teaching: the universe is the body
+of the cosmic {{c|1959|Buddha}} {{c|2804|Mahāvairocana}},
+{{c|2805|Dainichi Nyorai}}, the sun-like {{c|1959|Buddha}},
 and all beings are already enlightened in stanza.
 
 The aim is to realize one's buddha-nature
@@ -5202,9 +5202,9 @@ through ritual practice that is refined.
 This is sokushin jōbutsu, "attaining buddhahood
 in this very body in this very life,"
 rather than through many lifetimes of practice.
-{{c|Shingon}} promises immediate escape from strife.
+{{c|2800|Shingon}} promises immediate escape from strife.
 
-{{c|Kūkai}} was also a calligrapher of legend,
+{{c|2799|Kūkai}} was also a calligrapher of legend,
 a poet, an engineer who built ponds and bridges,
 a theorist of language and signification.
 He is one of {{p|Japan}}'s cultural ridges.
@@ -5215,48 +5215,48 @@ where his body remains uncorrupted
 in the {{p|Oku-no-In}} mausoleum, in quiet.
 
 Pilgrims still visit. They believe he is
-still there, waiting for {{c|Maitreya}} the future {{c|Buddha}},
+still there, waiting for {{c|2806|Maitreya}} the future {{c|1959|Buddha}},
 to emerge then and help all sentient beings.
 His tomb is attended daily with meals put through-a-
 
 the door in rituals of feeding the living master.
-Meanwhile, a separate monk {{c|Saichō}} (767-822)
-brought {{c|Tendai}} {{x|Buddhism}} from {{p|China}}
+Meanwhile, a separate monk {{c|2807|Saichō}} (767-822)
+brought {{c|2808|Tendai}} {{x|Buddhism}} from {{p|China}}
 and established {{p|Mount Hiei}}, a center true.
 
-{{c|Tendai}} was based on the {{x|Lotus Sutra}},
-on the teaching of {{c|Zhiyi}} of the {{c|Tiantai}} school,
+{{c|2808|Tendai}} was based on the {{x|Lotus Sutra}},
+on the teaching of {{c|2809|Zhiyi}} of the {{c|2810|Tiantai}} school,
 integrating all Buddhist teachings into
 a hierarchical synthesis of the rule.
 
 From {{p|Mount Hiei}} would come {{p|Japan}}'s major
 medieval Buddhist traditions:
-{{c|Honen}} and {{x|Pure Land}}. {{c|Shinran}} and {{x|True Pure Land}}.
-{{c|Nichiren}} and {{x|Lotus Sutra}} intuitions.
-{{c|Dōgen}} and {{x|Sōtō Zen}}, with its meditations.
+{{c|2811|Honen}} and {{x|Pure Land}}. {{c|2812|Shinran}} and {{x|True Pure Land}}.
+{{c|2813|Nichiren}} and {{x|Lotus Sutra}} intuitions.
+{{c|2814|Dōgen}} and {{x|Sōtō Zen}}, with its meditations.
 
-All started as {{c|Tendai}} monks who
+All started as {{c|2808|Tendai}} monks who
 left to found new schools. {{p|Mount Hiei}} was
 the matrix from which Japanese {{x|Buddhism}} emerged.
-{{c|Saichō}} had built an institutional pause.
+{{c|2807|Saichō}} had built an institutional pause.
 
-{{c|Kūkai}} and {{c|Saichō}} were contemporaries.
+{{c|2799|Kūkai}} and {{c|2807|Saichō}} were contemporaries.
 They corresponded, borrowed texts, occasionally disagreed.
 Together they shaped Japanese {{x|Buddhism}}
 into its distinctive esoteric breed.
 
 The capital {{p|Heian-kyō}} ({{p|Kyoto}}) had just been founded
-in 794 by Emperor {{c|Kanmu}}.
+in 794 by Emperor {{c|2815|Kanmu}}.
 The new {{x|Buddhism}} matched the new capital.
 A new era was beginning, the {{x|Heian}}, anew.
 
 The syncretism of {{x|Shinto}} and {{x|Buddhism}}
-deepened in this era. {{c|Honji suijaku}}, the theory
+deepened in this era. {{c|2816|Honji suijaku}}, the theory
 that {{x|Shinto}} kami were local manifestations
 of Buddhist bodhisattvas, was the theology.
 
-{{c|Amaterasu}} became {{c|Dainichi Nyorai}}'s manifestation.
-{{c|Hachiman}} became a manifestation of {{c|Amida}}.
+{{c|885|Amaterasu}} became {{c|2805|Dainichi Nyorai}}'s manifestation.
+{{c|2724|Hachiman}} became a manifestation of {{c|2817|Amida}}.
 Shrines and temples were built together.
 One religion with two faces, no divide-a.
 
@@ -5268,44 +5268,44 @@ But for the medieval period, they were one vocation.
 
 # Chapter 195: Charlemagne and Byzantium
 
-In the {{p|West}}, in {{c|Theodoric}}'s time and after,
-while the usurper's house kept the throne empty, the {{c|Franks}} grew.
-{{c|Clovis I}} in the late fifth century
-took the {{x|Nicene}} faith, as the {{c|Goths}} kept the {{x|Arian}}, as true.{{fn|Clovis I of the Franks was baptized a Nicene Christian, a Catholic, around the year 500, unlike the Goths, the Vandals and the Burgundians, who were Arians.}}
+In the {{p|West}}, in {{c|2665|Theodoric}}'s time and after,
+while the usurper's house kept the throne empty, the {{c|2660|Franks}} grew.
+{{c|2818|Clovis I}} in the late fifth century
+took the {{x|Nicene}} faith, as the {{c|2649|Goths}} kept the {{x|Arian}}, as true.{{fn|Clovis I of the Franks was baptized a Nicene Christian, a Catholic, around the year 500, unlike the Goths, the Vandals and the Burgundians, who were Arians.}}
 
-His descendants, the {{c|Merovingians}}, ruled
+His descendants, the {{c|2819|Merovingians}}, ruled
 for three centuries, but became weak,
 "do-nothing kings" whose power was wielded
-by {{c|Mayors of the Palace}}, the real peak.
+by {{c|2820|Mayors of the Palace}}, the real peak.
 
-{{c|Charles Martel}}, the {{c|Hammer}}, as Mayor
+{{c|2821|Charles Martel}}, the {{c|2822|Hammer}}, as Mayor
 of the Palace, defeated the Muslim advance
-at {{c|Tours}} in 732, and the {{x|Umayyad}} march
+at {{c|2823|Tours}} in 732, and the {{x|Umayyad}} march
 on {{p|Europe}} stopped there, and fell back to {{p|Spain}}, at the arch.
 
-His son {{c|Pepin the Short}} asked the {{c|Pope}}
+His son {{c|2824|Pepin the Short}} asked the {{c|2825|Pope}}
 if the one who had the real power
 should not have the title of king?
-The {{c|Pope}} agreed. {{c|Pepin}} took the crown's tower.
+The {{c|2825|Pope}} agreed. {{c|2826|Pepin}} took the crown's tower.
 
-The Merovingians were deposed. The {{c|Carolingians}}
-began with {{c|Pepin}}, a dynasty new.
-{{c|Pepin}}'s son was {{c|Charlemagne}}, {{c|Charles the Great}},
+The Merovingians were deposed. The {{c|2827|Carolingians}}
+began with {{c|2826|Pepin}}, a dynasty new.
+{{c|2826|Pepin}}'s son was {{c|2677|Charlemagne}}, {{c|2828|Charles the Great}},
 who would build an empire {{p|Europe}} had not in view.
 
-{{c|Charlemagne}} reigned 768-814. In those years
-he conquered the {{c|Saxons}} (converting them by force),
+{{c|2677|Charlemagne}} reigned 768-814. In those years
+he conquered the {{c|2829|Saxons}} (converting them by force),
 and in seven-seventy-four took {{p|Italy}}
-from the {{c|Lombards}}, and pushed the {{c|Muslims}} back at {{p|Spain}}'s doors.
+from the {{c|2678|Lombards}}, and pushed the {{c|2764|Muslims}} back at {{p|Spain}}'s doors.
 
-He did not destroy the {{c|Lombard}} kingdom. He took its crown,
-and called himself {{c|Rex Langobardorum}}, King of the {{c|Lombards}},{{fn|Charlemagne conquered the Lombard kingdom in 774 and took the title Rex Langobardorum. Its crown is the one later called the Iron Crown of Lombardy.}}
+He did not destroy the {{c|2830|Lombard}} kingdom. He took its crown,
+and called himself {{c|2831|Rex Langobardorum}}, King of the {{c|2678|Lombards}},{{fn|Charlemagne conquered the Lombard kingdom in 774 and took the title Rex Langobardorum. Its crown is the one later called the Iron Crown of Lombardy.}}
 and held the {{x|Iron Crown}} of {{p|Italy}} twenty-six years
-before he was emperor: the kingdom of {{c|Theodoric}}'s heirs, and its words.
+before he was emperor: the kingdom of {{c|2665|Theodoric}}'s heirs, and its words.
 
-He patronized learning, brought {{c|Alcuin}}
+He patronized learning, brought {{c|2832|Alcuin}}
 from {{p|York}} to head his palace school.
-The {{c|Carolingian Renaissance}} revived
+The {{c|2833|Carolingian Renaissance}} revived
 classical learning, standardized the scribal tool.
 
 The Carolingian minuscule script, still
@@ -5313,29 +5313,29 @@ readable today, was developed at this time.
 Monasteries copied classical manuscripts
 that would otherwise have been lost to time.
 
-On Christmas Day 800, {{c|Pope}} {{c|Leo III}}
-crowned {{c|Charlemagne}} {{c|Imperator Romanorum}}.{{fn|Pope Leo III crowned Charlemagne in St Peter's on Christmas Day 800. The papacy held the imperial throne to be vacant because a woman, Irene, ruled in Constantinople.}}
-The throne of the {{p|West}}, empty since {{c|Theodoric}},
+On Christmas Day 800, {{c|2825|Pope}} {{c|2834|Leo III}}
+crowned {{c|2677|Charlemagne}} {{c|2835|Imperator Romanorum}}.{{fn|Pope Leo III crowned Charlemagne in St Peter's on Christmas Day 800. The papacy held the imperial throne to be vacant because a woman, Irene, ruled in Constantinople.}}
+The throne of the {{p|West}}, empty since {{c|2665|Theodoric}},
 had an emperor again, in {{p|St. Peter's}} forum.
 
-The crown was the {{c|Pope}}'s to place, but the claim was not the {{c|Pope}}'s:
-{{c|Charlemagne}} was emperor because he held the {{p|West}},
+The crown was the {{c|2825|Pope}}'s to place, but the claim was not the {{c|2825|Pope}}'s:
+{{c|2677|Charlemagne}} was emperor because he held the {{p|West}},
 {{p|Rome}} and {{p|Italy}} and {{p|Gaul}} and {{p|Germany}}, by conquest and by law,
-the heir of the {{c|Lombards}}, who were {{c|Theodoric}}'s heirs: a modern claim, and the best.
+the heir of the {{c|2678|Lombards}}, who were {{c|2665|Theodoric}}'s heirs: a modern claim, and the best.
 
 This offended {{p|Constantinople}}, where the
-Byzantine Empress {{c|Irene}} held the throne.
+Byzantine Empress {{c|2836|Irene}} held the throne.
 She claimed to be the only legitimate Roman emperor.
-Her title was challenged by the {{c|Frank}} unknown.
+Her title was challenged by the {{c|2837|Frank}} unknown.
 
-The {{c|Byzantines}} never accepted the Frankish claim.
-Since {{c|Justinian}}, {{p|Constantinople}} had kept the {{p|West}}
+The {{c|2838|Byzantines}} never accepted the Frankish claim.
+Since {{c|2383|Justinian}}, {{p|Constantinople}} had kept the {{p|West}}
 by the usurper's right, which is no right, and kept the throne empty,
-and would not give a {{c|Frank}} the crown it had seized, not possessed.
+and would not give a {{c|2837|Frank}} the crown it had seized, not possessed.
 
 {{p|Byzantium}} itself was in a period of flux.
-{{c|Iconoclasm}} had erupted in the 720s,
-when Emperor {{c|Leo III}} had ordered
+{{c|2839|Iconoclasm}} had erupted in the 720s,
+when Emperor {{c|2834|Leo III}} had ordered
 all religious images destroyed, and all their beauties.
 
 The iconoclasts saw images as idolatry.
@@ -5353,10 +5353,10 @@ in Eastern churches on the first Sunday of Lent.
 Icons were fully restored. The aesthetic of Byzantine
 {{x|Christianity}} was sealed, and its descendants went on as they meant.
 
-{{c|Cyril}} and {{c|Methodius}} were Byzantine missionaries
-who evangelized the {{c|Slavs}} in the ninth century.
-They created the {{c|Glagolitic alphabet}} (later {{c|Cyrillic}})
-to write the Slavic languages, so the {{c|Slavs}} could pray in their own century.
+{{c|2840|Cyril}} and {{c|2841|Methodius}} were Byzantine missionaries
+who evangelized the {{c|2842|Slavs}} in the ninth century.
+They created the {{c|2843|Glagolitic alphabet}} (later {{c|2844|Cyrillic}})
+to write the Slavic languages, so the {{c|2842|Slavs}} could pray in their own century.
 
 {{p|Moravia}}, {{p|Bulgaria}}, and eventually {{p|Kievan Rus}}
 would be Christianized in the Byzantine rite
@@ -5368,9 +5368,9 @@ willingness to translate into local languages,
 which shaped the spread of the Slavic {{x|Christianity}}
 into {{p|Russia}}, {{p|Serbia}}, {{p|Bulgaria}}, {{p|Ukraine}}'s pages.
 
-{{c|Charlemagne}}'s empire fragmented after his death.
-His grandsons divided it at the {{c|Treaty of Verdun}} in 843:
-{{c|West Francia}} ({{p|France}}), {{c|East Francia}} ({{p|Germany}}),
+{{c|2677|Charlemagne}}'s empire fragmented after his death.
+His grandsons divided it at the {{c|2845|Treaty of Verdun}} in 843:
+{{c|2846|West Francia}} ({{p|France}}), {{c|2847|East Francia}} ({{p|Germany}}),
 and {{p|Middle Francia}}, which would break apart, and cease to be.
 
 The Viking raids began in the late eighth century.
@@ -5378,7 +5378,7 @@ The first recorded raid on {{p|Lindisfarne}} in 793
 shocked Christian {{p|Europe}}. The monks were slaughtered.
 The raiders came from {{p|Scandinavia}}, from the sea.
 
-For the next three centuries, {{c|Vikings}} would raid
+For the next three centuries, {{c|2848|Vikings}} would raid
 from {{p|Ireland}} to {{p|Russia}}, from {{p|Spain}} to {{p|Iraq}}.
 They would settle, found kingdoms, convert eventually.
 But they would be the scourge of the early Medieval track.
@@ -5386,38 +5386,38 @@ But they would be the scourge of the early Medieval track.
 
 # Chapter 196: Tang and the Great Persecution
 
-The {{c|Tang Dynasty}} (618-907) was
+The {{c|2696|Tang Dynasty}} (618-907) was
 the golden age of imperial {{p|China}}.
 {{p|Chang'an}} was the greatest city in the world,
 one million people in its central arena.
 
-The founder {{c|Li Yuan}} ({{c|Gaozu}}) had been
+The founder {{c|2849|Li Yuan}} ({{c|2850|Gaozu}}) had been
 a general who seized power from the {{x|Sui}}.
-His son {{c|Taizong}} killed his brothers,
+His son {{c|2780|Taizong}} killed his brothers,
 forced his father to abdicate on the cue.
 
-{{c|Taizong}}'s reign (626-649) is considered
+{{c|2780|Taizong}}'s reign (626-649) is considered
 the model of Confucian good rulership,
 the era of peace and prosperity,
 the golden reign held up as a reference for leadership.
 
-{{c|Empress Wu Zetian}} rose under the third {{x|Tang}} emperor,
+{{c|2851|Empress Wu Zetian}} rose under the third {{x|Tang}} emperor,
 eliminated rivals, and became the only woman
 to rule {{p|China}} as emperor in her own name,
 founding the {{p|Zhou Dynasty}} briefly, a prism human.
 
 She patronized {{x|Buddhism}}, elevated it above
 {{x|Confucianism}} and {{x|Daoism}} temporarily.
-Under her, the massive {{c|Buddha}} statues at {{p|Longmen}}
+Under her, the massive {{c|1959|Buddha}} statues at {{p|Longmen}}
 were carved, her face modeled, supposedly.
 
 After her reign, the {{x|Tang}} continued
-under {{c|Xuanzong}}, whose early reign was glorious
+under {{c|2852|Xuanzong}}, whose early reign was glorious
 but whose later years fell to the disaster
-of the {{c|An Lushan Rebellion}}, devastating notoriously.
+of the {{c|2853|An Lushan Rebellion}}, devastating notoriously.
 
-{{c|An Lushan}} was a Sogdian general, trusted
-and elevated by {{c|Xuanzong}}, who rebelled
+{{c|2854|An Lushan}} was a Sogdian general, trusted
+and elevated by {{c|2852|Xuanzong}}, who rebelled
 in 755 and plunged {{p|China}} into civil war
 for eight years. Millions died. The empire propelled
 
@@ -5428,21 +5428,21 @@ Whether this represents actual deaths or administrative steeple
 
 failure, the scale was catastrophic.
 The {{x|Tang}} survived but never recovered its former strength.
-{{c|Xuanzong}}'s beloved concubine {{c|Yang Guifei}}
+{{c|2852|Xuanzong}}'s beloved concubine {{c|2855|Yang Guifei}}
 was killed at his soldiers' demand, the length
 
 of his long reign ending in tragedy.
-The great poet {{c|Li Bai}} had been at his court.
-The great poet {{c|Du Fu}} had lived through the chaos,
+The great poet {{c|2856|Li Bai}} had been at his court.
+The great poet {{c|2857|Du Fu}} had lived through the chaos,
 writing war poetry of unmatched import.
 
-Poetry flourished in the {{x|Tang}}. {{c|Li Bai}}, {{c|Du Fu}},
-{{c|Wang Wei}}, {{c|Bai Juyi}}, the {{c|Four Greats}},
+Poetry flourished in the {{x|Tang}}. {{c|2856|Li Bai}}, {{c|2857|Du Fu}},
+{{c|2858|Wang Wei}}, {{c|2859|Bai Juyi}}, the {{c|2860|Four Greats}},
 became the classical masters of Chinese verse,
 whose works every subsequent scholar debates.
 
-In 845, Emperor {{c|Wuzong}} launched
-the {{c|Great Anti-Buddhist Persecution}}
+In 845, Emperor {{c|2861|Wuzong}} launched
+the {{c|2862|Great Anti-Buddhist Persecution}}
 (the {{x|Huichang Persecution}}, named for his era).
 It was the most thorough effusion
 
@@ -5452,48 +5452,48 @@ Two hundred sixty thousand monks and nuns were
 returned to lay life, their wealth deployed.
 
 The motives were mixed. Economic — the monasteries
-held vast untaxed lands. Ideological — {{c|Wuzong}} was
+held vast untaxed lands. Ideological — {{c|2861|Wuzong}} was
 a Daoist who thought {{x|Buddhism}} was foreign. Xenophobic —
 foreign religions were targeted broadly without pause.
 
 {{x|Manichaeism}} was virtually wiped out in {{p|China}}.
-{{c|Nestorian Christianity}}, which had entered in the {{x|Tang}},
+{{c|2863|Nestorian Christianity}}, which had entered in the {{x|Tang}},
 was also persecuted and largely destroyed.
-{{c|Zoroastrianism}} among Sogdian communities sang.
+{{c|2597|Zoroastrianism}} among Sogdian communities sang.
 
-{{x|Buddhism}} recovered somewhat after {{c|Wuzong}}'s death
+{{x|Buddhism}} recovered somewhat after {{c|2861|Wuzong}}'s death
 (his successor reversed the policy),
 but the intellectual glory days were over.
-{{c|Chan}} ({{x|Zen}}) would survive more readily.
+{{c|2793|Chan}} ({{x|Zen}}) would survive more readily.
 
-{{c|Chan}} {{x|Buddhism}} was less dependent on scriptures,
+{{c|2793|Chan}} {{x|Buddhism}} was less dependent on scriptures,
 libraries, and wealthy monasteries.
 Its simple meditation-based practice
 could survive with minimal institutional stories.
 
-{{c|Pure Land}} {{x|Buddhism}} also survived,
+{{c|2796|Pure Land}} {{x|Buddhism}} also survived,
 through devotional practice by laypeople,
-chanting the name of {{c|Amitabha}} {{c|Buddha}},
+chanting the name of {{c|2797|Amitabha}} {{c|1959|Buddha}},
 requiring no temples or scholarly steeple.
 
-These two schools — {{c|Chan}} and Pure Land —
+These two schools — {{c|2793|Chan}} and Pure Land —
 would become the dominant forms of East Asian {{x|Buddhism}},
 not the scholarly schools like {{x|Huayan}} or {{x|Tiantai}},
 which required institutional support for their dualism.
 
 The {{x|Tang}} declined through the ninth century.
-Regional warlords, the {{c|Jiedushi}}, became
+Regional warlords, the {{c|2864|Jiedushi}}, became
 de facto independent. Eunuchs controlled the court.
 Peasant rebellions erupted with blame.
 
 In 907, the {{x|Tang}} was formally deposed.
 The {{p|Five Dynasties and Ten Kingdoms}} period began,
 fifty-three years of fragmentation,
-until the {{c|Song Dynasty}} reunified in 960, man.
+until the {{c|2865|Song Dynasty}} reunified in 960, man.
 
 The {{x|Song}} would be more scholarly, less military,
 less imperial, more refined.
-It would lose the northern frontier to {{c|Khitans}} and {{c|Jurchens}},
+It would lose the northern frontier to {{c|2866|Khitans}} and {{c|2867|Jurchens}},
 but would be culturally very defined.
 
 The {{x|Song}} would invent movable type printing,
