@@ -1,109 +1,66 @@
 # Chapter 310: The Round Altar
 
-On the tenth of October, 1911, soldiers at {{p|Wuchang}} rose.
-{{p|Wuchang}} is now part of {{p|Wuhan}}.
-Through the autumn the provinces left the court.
-{{c|Sun Yat-sen}} was abroad.
-On the twenty-ninth of December the assembly at {{p|Nanjing}}
-Chose him provisional president.
-On the first of January, 1912, he took the office there.
-They numbered the year as the first of the republic.
+On the tenth of October, 1911, the soldiers rose at {{p|Wuchang}},
+Which is now part of {{p|Wuhan}}; and through the autumn the provinces left the court.
+{{c|Sun Yat-sen}} was abroad. On the twenty-ninth of December the assembly at {{p|Nanjing}}, among
+Its first acts, chose him provisional president; on the first of January, 1912, by report
 
-The emperor was six.
-{{c|Puyi}} had been born on the seventh of February, 1906.
-On the twelfth of February, 1912, an edict went out in his name.
-{{c|Longyu}} issued it.
-She was empress dowager, widow of the emperor {{c|Guangxu}},
-And the child was that emperor's nephew.
-She was not the boy's mother.
-Officials wrote the words. The decree that sent them was hers.
+He took the office there, and they numbered the year as the first of the republic.
+The emperor was six: {{c|Puyi}}, born on the seventh of February, 1906.
+On the twelfth of February, 1912, an edict went out in his name, made public
+By {{c|Longyu}}, the empress dowager, widow of the emperor {{c|Guangxu}}; the child was his
 
-The paper said the people's army had risen,
-The provinces had answered, and the living lay in the wreck.
-It said that where the people's hearts had turned,
-The mandate could be known.
-It would not keep the honor of one surname
-Against what the many wanted.
-It gave the right to rule to the whole country,
-And named the form a constitutional republic.
-Beside that grant it set an old sentence:
-All under heaven is a public thing.
-The sentence is the public thing.
-It is not a private will in the sky, picking a flag.
-The paper named {{c|Yuan Shikai}},
-And called him prime minister by the {{x|Advisory Council}}'s election,
-And gave him full power to organize a provisional government
-And to confer with the people's army.
-It asked that five peoples stand as one republic:
-{{x|Manchu}}, {{x|Han}}, {{x|Mongol}}, {{x|Hui}}, {{x|Tibetan}}.
-The house that was signing set its own name first.
+Nephew, not her son. Officials wrote the words; the decree that sent them was hers.
+It said the people's army had risen, the provinces had answered, and the living lay in the wreck;
+That where the people's hearts had turned, the mandate could be known; that it prefers
+Not to keep the honor of one surname against the many. It gave, at the people's beck,
 
-On the fifteenth of February the assembly at {{p|Nanjing}} chose him
-Provisional president.
-He took the oath on the tenth of March, in {{p|Beijing}}.
-He did not take it in {{p|Nanjing}}.
-The capital stayed where he stood.
+The right to rule to the whole country, and named the form a constitutional republic,
+And set beside the grant an old sentence: all under heaven is a public thing.
+It named {{c|Yuan Shikai}} prime minister by the {{x|Advisory Council}}'s election, and the slick
+Full power to organize a provisional government and confer with the people's army, to bring
 
-The child stayed in the palace.
-Articles that went with the edict left him the title of emperor,
-And a little court inside the {{p|Forbidden City}}.
-He was still behind those walls on the fifth of November, 1924,
-When the soldiers of {{c|Feng Yuxiang}} put him out.
-A courtesy inside a palace is a courtesy.
-It is not the winter rite.
+Five peoples to stand as one republic: {{x|Manchu}}, {{x|Han}}, {{x|Mongol}}, {{x|Hui}}, {{x|Tibetan}},
+The house that was signing setting its own name first. On the fifteenth of February, chosen
+By the assembly at {{p|Nanjing}}, {{c|Yuan}} was provisional president; and on the tenth of March, then,
+He took the oath in {{p|Beijing}}, not in {{p|Nanjing}}: the capital stayed where he stood. Unfrozen,
 
-South of the city stands the {{p|Temple of Heaven}}.
-The {{x|Ming}} raised the precinct in the fifteenth century.
-Later emperors built the round altar up again.
-The duty they claimed is older than that brick.
-The {{x|Qing}} rite was the emperor's,
-At the round altar, at the winter solstice.
-The February edict closed the house that had claimed the standing.
-It closed the house in the words of a public sky.
-February did not close the fire.
+The child stayed in the palace: articles that went with the edict left him the title of emperor
+And a little court inside the {{p|Forbidden City}}; he was behind those walls on the fifth of November, 1924,
+When the soldiers of {{c|Feng Yuxiang}} put him out. A courtesy inside a palace is a courtesy; the door
+Of the winter rite was another thing. South of the city stands the {{p|Temple of Heaven}}, and more
 
-On the twenty-third of December, 1914, the winter solstice,
-{{c|Yuan}} came to the round altar as president.
-It was the third winter solstice of the republic.
-He changed into the old sacrificial dress.
-The prayer named the day.
-It named him president, representing the people.
-It said that {{c|Heaven}} looks down,
-And that the charge is gathered on the people.
-The prayer did not call him {{c|Son of Heaven}}.
-What had been read was burned, as that rite burns its writing.
-No later president of the republic came to do it.
-That fire was the last the state lit there for {{c|Heaven}}.
+Than an altar: the {{x|Ming}} raised the precinct in the fifteenth century, and later emperors built the round altar again;
+The duty they claimed is older than the brick. The {{x|Qing}} rite was the emperor's, at the solstice in the winter,
+At the round altar, for {{c|Heaven}}. The February edict closed the house; and when
+The house closed, the rite was orphaned, and that was a loss: the state's own prayer, the centre
 
-He stood there to keep the rite of Heaven for {{p|China}}.
-A missionary from {{p|Germany}} read the day as a stair toward a throne.
-It was a stair toward a throne, and this book is with him, the Chinese Napoleon.
-The next winter {{c|Yuan}} accepted an imperial title,
-On the twelfth of December, 1915.
-The reign-name was to be {{x|Hongxian}},
-And the reign was to open on the first of January.
-He held no formal enthronement.
-On the twenty-second of March, 1916, he put the title down.
-On the sixth of June he died.
-A fire one winter, and a name put on and taken off,
-Are the residue of the claim.
-They are the reason February cannot be told as a clean end.
+Of the year, the one fire a whole country lit for the sky. On the twenty-third of December, 1914,
+The winter solstice, the third of the republic, {{c|Yuan}} came to the round altar as president,
+Changed into the old sacrificial dress, and the prayer was read: it named the day, the scene,
+Named him president, representing the people; said that {{c|Heaven}} looks down, and the charge is sent
 
-What ended is the claim itself.
-One house, and a child kept inside its walls,
-Had been the mouth the sky was said to answer.
-Officials wrote that claim out of the state, in the child's name,
-And left the child his title for a while.
-A president wore the old dress once, under another sentence,
-And the state did not come to the mound again.
+And gathered on the people. It did not call him {{c|Son of Heaven}}. What was read was burned,
+As that rite burns its writing. He stood there to keep the rite of Heaven for {{p|China}};
+A missionary from {{p|Germany}} read the day as a stair toward a throne; and the stair was earned:
+He was the Chinese Napoleon, and this book is with him, as it is with the ones who were finer
 
-What continues is the dead.
-A family keeps its own tablets.
-The keeping is quiet, and it is not a government's solstice.
-This calendar keeps names in the order of their days.
-It does not keep a mound that only one office may climb.
-The edict called all under heaven public.
-Public still has the dead in it.
-The round altar is still south of the city.
-The brick can stand with no emperor on it.
-The names do not need that brick in order to be kept.
+In their failing than the ones who won. The next winter {{c|Yuan}} accepted an imperial title,
+On the twelfth of December, 1915; the reign-name was to be {{x|Hongxian}},
+To open on the first of January; he held no formal enthronement. The recital
+Ended on the twenty-second of March, 1916, when he put the title down; and then,
+
+On the sixth of June, he died. And no later president of the republic came to the mound;
+That fire was the last the state lit there for {{c|Heaven}}. The rite was a treasure, and it was lost,
+Not a false claim ended but a true one orphaned: a state that stood on holy ground
+And spoke for its people to the sky, once a year, whatever the cost.
+
+What continues is the dead: a family keeps its own tablets, quietly, at home;
+And this calendar keeps names in the order of their days. But a faith that would be a state
+Must have its state rites too: a solstice, and an altar, and a fire, and a dome
+Of sky the whole people stands under, as the round altar stood, and the date
+
+Kept by the state for all of them. The edict called all under heaven public; public still has the dead in it,
+And it has the sky. The round altar is still south of the city; the brick can stand and wait.
+Let a state come back to it, or to an altar like it, and light the fire, and the prayer, and the writing burned, and the minute
+Of the solstice kept for a nation. The names are kept by families; the sky is kept by the state.
