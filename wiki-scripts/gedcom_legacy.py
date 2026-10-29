@@ -306,9 +306,11 @@ def apply(lines, register=True):
             cur = head_recs if re.match(r"0 @(S\d+|SUBM)@", l) else rest_recs
         cur.append(l)
     out, n_fam = one_family_per_couple(head + head_recs + indi_out + rest_recs + tail)
+    out, n_self = no_child_of_own_family(out)
     return out, {"Gaiad legacy numbers": len(indis), "new legacy numbers": len(new_rows), "merged": n_merged,
                  "dropped": n_dropped, "records whose notes were joined into one": n_joined,
-                 "families joined after the merges": n_fam}
+                 "families joined after the merges": n_fam,
+                 "child links dropped where the child is a parent of the same family": n_self}
 
 
 def one_family_per_couple(lines):
@@ -356,3 +358,35 @@ def one_family_per_couple(lines):
 if __name__ == "__main__":
     for n, action, m in load_merges():
         print(n, action, m if m is not None else "")
+
+
+def no_child_of_own_family(lines):
+    """A person who is HUSB or WIFE of a family is never also its CHIL: the CHIL line and the person's FAMC to that
+    family are dropped. MyHeritage refuses to export such a file ("families or individuals that are not stored
+    properly"); the known cause and fix, from the RootsMagic import of 2026-09-29 (genealogy/new/rootsmagic-import,
+    check_gedcom_links.py: "child and spouse in same family")."""
+    fam_of, parents, cur = {}, {}, None
+    for l in lines:
+        if l.startswith("0 "):
+            cur = l.split(" ")[1] if l.endswith(" FAM") else None
+            if cur:
+                parents[cur] = set()
+        elif cur and re.match(r"^1 (HUSB|WIFE) @I\d+@$", l):
+            parents[cur].add(l.split(" ")[2])
+    bad = set()
+    cur = None
+    for l in lines:
+        if l.startswith("0 "):
+            cur = l.split(" ")[1] if l.endswith(" FAM") else None
+        elif cur and l.startswith("1 CHIL ") and l.split(" ")[2] in parents[cur]:
+            bad.add((l.split(" ")[2], cur))
+    out, cur = [], None
+    for l in lines:
+        if l.startswith("0 "):
+            cur = l.split(" ")[1]
+        elif l.startswith("1 CHIL ") and (l.split(" ")[2], cur) in bad:
+            continue
+        elif l.startswith("1 FAMC ") and (cur, l.split(" ")[2]) in bad:
+            continue
+        out.append(l)
+    return out, len(bad)

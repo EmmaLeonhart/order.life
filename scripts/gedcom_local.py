@@ -9,7 +9,8 @@ also the place where the CI/CD GitHub runner generates the GEDCOM file."
 Steps, in the order of build.py and .github/workflows/deploy.yml:
   1. wiki-scripts/build_gaiad_ged.py -> site/gaiad<k>.ged (k: the first free number; next_free())
   2. wiki-scripts/language_gedcom.py for ja zh es hi ar fr ru uk -> site/<lang>/gaiad<k>.ged
-  3. open site/gaiad<k>.ged in the default program
+  3. wiki-scripts/check_gedcom_links.py, the check CI fails the build on
+  4. open site/gaiad<k>.ged in the default program
 Left out, on her word the same day ("I don't give a fuck about the portraits and coats of arms right now"):
 gedcom_portraits.py and gedcom_arms.py.
 
@@ -38,7 +39,9 @@ def main():
         print(f"2. {out.relative_to(ROOT)}")
         subprocess.run([sys.executable, str(ROOT / "wiki-scripts" / "language_gedcom.py"), str(dest), lang, str(out)],
                        check=True)
-    print(f"3. opening {dest}")
+    print("3. wiki-scripts/check_gedcom_links.py (the same check CI fails on)")
+    ok = subprocess.run([sys.executable, str(ROOT / "wiki-scripts" / "check_gedcom_links.py"), str(dest)]).returncode == 0
+    print(f"4. opening {dest}" + ("" if ok else "  (THE LINK CHECK FAILED: MyHeritage will not export this)"))
     os.startfile(dest)
 
 

@@ -41,6 +41,10 @@ jobs:
 
       - run: python build.py
 
+      # Every family link written from both sides, or the build fails: MyHeritage will not export a GEDCOM that
+      # breaks this ("families or individuals that are not stored properly"). Emma, 2026-10-29.
+      - run: python wiki-scripts/check_gedcom_links.py site/gaiad.ged
+
       # The downloads (Emma, 2026-10-14): the English Gaiad as PDF and EPUB, and a zip holding them
       # with the GEDCOM. The zip is a GEDZIP (GEDCOM 7's package: gedcom.ged at the root, media files
       # beside it by relative path), so genealogy programs can open it and attachments can follow.
