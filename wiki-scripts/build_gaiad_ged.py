@@ -990,6 +990,9 @@ def build(out_path):
     sys.path.insert(0, str(Path(__file__).resolve().parent))
     import gothic
     w, n_gothic = gothic.add_names(w)
+    # The frozen Gaiad legacy numbers as REFNs, and one NOTE per person (Emma, 2026-10-28; gedcom_legacy.py).
+    import gedcom_legacy
+    w, n_legacy, n_joined = gedcom_legacy.apply(w)
     out_path.write_text("\n".join(w) + "\n", encoding="utf-8-sig", newline="\n")
     stats = {"text individuals": n_text, "ancestry individuals": n - n_text, "families": nf,
              "text individuals with resolved features": n_resolved_text[0],
@@ -999,6 +1002,8 @@ def build(out_path):
     if feats:
         stats.update({f"feature: {k}": v for k, v in sorted(feats.counts.items())})
     stats["gothic names"] = n_gothic
+    stats["Gaiad legacy numbers"] = n_legacy
+    stats["records whose notes were joined into one"] = n_joined
     stats["bytes"] = out_path.stat().st_size
     return stats
 
