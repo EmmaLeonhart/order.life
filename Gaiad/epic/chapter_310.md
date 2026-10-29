@@ -45,7 +45,7 @@ As that rite burns its writing. He stood there to keep the rite of Heaven for {{
 A missionary from {{p|Germany}} read the day as a stair toward a throne; and the stair was earned:
 He was the Chinese Napoleon, and this book is with him, as with Ungern-Sternberg, the diviner
 
-In their failing than the ones who won. The next winter {{c|Yuan}} accepted an imperial title,
+Of a throne in the steppe. The next winter {{c|Yuan}} accepted an imperial title,
 On the twelfth of December, 1915; the reign-name was to be {{x|Hongxian}},
 To open on the first of January; he held no formal enthronement. The recital
 Ended on the twenty-second of March, 1916, when he put the title down; and then,
