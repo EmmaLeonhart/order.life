@@ -39,12 +39,16 @@ ANCESTRY = ROOT / "Gaiad" / "ancestry" / "emma-ancestry.ged"
 TAG = re.compile(r"\{\{c\|(?:[^}|]*\|)?([^}|]+)\}\}")
 TITLE = re.compile(r"^#\s+(?:Chapter\s+\d+:\s*)?(.*)")
 NS = uuid.uuid5(uuid.NAMESPACE_URL, "https://order.life/gaiad/individual/")
-FIRST = [("Aster", "Aster"), ("Emma Leonhart", "Emma /Leonhart/ 命玥"), ("Andromeda", "Andromeda")]
+# Emma, 2026-10-29: "Aster's last name is "Alpha" and Andromeda's last name is "Omega"" (the UIDs stay on the bare names).
+FIRST = [("Aster", "Aster /Alpha/"), ("Emma Leonhart", "Emma /Leonhart/ 命玥"), ("Andromeda", "Andromeda /Omega/")]
 EMMA_NAMES = ["Emma 李命玥"]  # beside her primary name, Emma /Leonhart/ 命玥 (Emma, 2026-10-16)
 # The primary name in other languages and scripts, as TRANs under the primary NAME (planning/name-schema.md, "Primary
 # names"). Emma, 2026-10-17: "change Emma Leonhart's name to 이명월 in Korean. This is the primary name and the old one
 # still stays as an alias". 이명월 is the Korean reading of 李命玥, which stays as her AKA.
-PRIMARY_TRAN = {"Emma Leonhart": [("이명월", "ko")]}
+# Emma, 2026-10-29, of Aster's and Andromeda's Japanese names: "They should carry the kami titles."
+PRIMARY_TRAN = {"Emma Leonhart": [("이명월", "ko")],
+                "Aster": [("阿斯特尔", "zh"), ("アスター☆宇元親神", "ja"), ("아스터", "ko")],
+                "Andromeda": [("安德洛墨達", "zh"), ("アンドロメダー☆宇末親神", "ja"), ("안드로메다", "ko")]}
 FIRST_SEX = {"Aster": "M", "Emma Leonhart": "F", "Andromeda": "F"}  # Emma, 2026-10-16: "Aster has sex. M."
 EMMA_FS = "PFR5-LDS"
 ORDERLIFE_FIRST = {"Q1": "@I1@", "Q3": "@I3@"}  # order.life ids of Aster and Andromeda
@@ -950,14 +954,22 @@ def build(out_path):
                 prev = l
             primary = {t for name, ged in FIRST if f"@I{FIRST.index((name, ged)) + 1}@" == target
                        for t, _ in PRIMARY_TRAN.get(name, ())}
-            if primary:   # a label that is already the primary name's TRAN is not repeated as another NAME
-                skip, kept = False, []
+            langs = {lg for name, ged in FIRST if f"@I{FIRST.index((name, ged)) + 1}@" == target
+                     for _, lg in PRIMARY_TRAN.get(name, ())}
+            if primary:   # a label that is already the primary name's TRAN is not repeated as another NAME, and a
+                # name in a language the primary name already has a TRAN for gives way to it (Aster's plain アスター
+                # beside her kami title, Emma 2026-10-29)
+                blocks = []
                 for l in keep:
-                    if l.startswith("1 "):
-                        skip = l.startswith("1 NAME ") and l[7:].strip() in primary
-                    if not skip:
-                        kept.append(l)
-                keep = kept
+                    if l.startswith("1 ") or not blocks:
+                        blocks.append([l])
+                    else:
+                        blocks[-1].append(l)
+                keep = [l for b in blocks
+                        if not (b[0].startswith("1 NAME ") and (b[0][7:].strip() in primary
+                                                                or any(f"3 PHRASE {lg} name" == x for lg in langs
+                                                                       for x in b)))
+                        for l in b]
             links[target] = keep
             continue
         add(f"0 {imap.get(x) or fmap.get(x) or x} {tag}")
@@ -990,9 +1002,9 @@ def build(out_path):
     sys.path.insert(0, str(Path(__file__).resolve().parent))
     import gothic
     w, n_gothic = gothic.add_names(w)
-    # The frozen Gaiad legacy numbers as REFNs, and one NOTE per person (Emma, 2026-10-28; gedcom_legacy.py).
+    # The Gaiad legacy numbers held in the pipeline: xrefs, merges, one NOTE per person (Emma, 2026-10-28; gedcom_legacy.py).
     import gedcom_legacy
-    w, n_legacy, n_joined = gedcom_legacy.apply(w)
+    w, legacy_stats = gedcom_legacy.apply(w)
     out_path.write_text("\n".join(w) + "\n", encoding="utf-8-sig", newline="\n")
     stats = {"text individuals": n_text, "ancestry individuals": n - n_text, "families": nf,
              "text individuals with resolved features": n_resolved_text[0],
@@ -1002,8 +1014,7 @@ def build(out_path):
     if feats:
         stats.update({f"feature: {k}": v for k, v in sorted(feats.counts.items())})
     stats["gothic names"] = n_gothic
-    stats["Gaiad legacy numbers"] = n_legacy
-    stats["records whose notes were joined into one"] = n_joined
+    stats.update(legacy_stats)
     stats["bytes"] = out_path.stat().st_size
     return stats
 
