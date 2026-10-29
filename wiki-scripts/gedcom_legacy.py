@@ -250,7 +250,7 @@ def apply(lines, register=True):
                 dst.insert(at, [b[0], "2 TYPE AKA"] + [l for l in b[1:] if not l.startswith("2 TYPE")])
             elif tag == "NOTE" and b[0].startswith("1 NOTE First named in the Gaiad"):
                 continue   # the survivor's own first naming stands; the stanzas stay as its citations
-            elif tag in ("SOUR", "NOTE", "FAMC", "FAMS", "OBJE"):
+            elif tag in ("SOUR", "NOTE", "FAMC", "FAMS", "OBJE", "EXID"):
                 if b not in dst:
                     dst.append(b)
     gone = {n for n, a, m in load_merges() if n not in indis}
