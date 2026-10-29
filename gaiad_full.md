@@ -55105,99 +55105,75 @@ And if their names are lost, say this over them: beloved, we keep you too.
 
 # Chapter 302: Endless Forms
 
-On the twenty-fourth of November, 1859, in {{p|London}},
-A green book left {{c|John Murray}}'s house in {{p|Albemarle Street}}.
-{{c|Charles Darwin}} was not in the shop. He was at {{p|Downe}}, in {{p|Kent}},
-Waiting on word. Twelve hundred and fifty copies. The trade
+On the twenty-fourth of November, 1859, in {{p|London}}, a book
+Bound in green left {{c|John Murray}}'s house in {{p|Albemarle Street}}.
+{{c|Charles Darwin}} was not there; at {{p|Downe}}, in {{p|Kent}}, he waited on the look
+Of the reviews. Twelve hundred and fifty copies. The trade took them, complete,
 
-Took them that day. He had been more than twenty years
-Coming to the sentence. In July of 1837, in a notebook,
-He drew a branching figure and wrote above it, *I think*.
-He had sailed from {{p|Plymouth}} on the twenty-seventh of December, 1831,
+That day. He had been more than twenty years in coming to the sign.
+In July of 1837, in a notebook, he drew a branching tree
+And wrote above it, *I think*. He had sailed with the year's decline,
+From {{p|Plymouth}}, December 1831, on the *{{x|Beagle}}*, under {{c|Robert FitzRoy}}, to sea,
 
-On the *{{x|Beagle}}*, under {{c|Robert FitzRoy}}, and for five years
-Collected a coast, a war, a forest, and the islands.
-He did not, on the black rock of the {{p|Galápagos}}, already know.
-He labelled what he could. The *{{x|Beagle}}* brought him home
+And for five years gathered a coast, a war, a forest, and the islands, bird and bone.
+On the black rock of the {{p|Galápagos}} he did not know yet; he labelled what he could.
+The *{{x|Beagle}}* brought him home in October 1836; and when the birds were shown
+To {{c|John Gould}} in {{p|London}}, Gould told him they were not what the labels said. They stood
 
-On the second of October, 1836. Then {{c|John Gould}}, in {{p|London}},
-Told him the birds were not what the labels had said.
-The mockingbirds differed, island from island. The finches,
-Which he had not sorted, were one group. The tree began
+Apart, the mockingbirds, from island to island; the finches, which he had not sorted, were one kind.
+The tree began after the voyage, not on the beach. Then the long work, the years:
+Barnacles, illness, the house at {{p|Downe}}, children born. And in June of 1858, the blind
+Blow: {{c|Charles Waring Darwin}}, a baby, died of scarlet fever. Through his tears
 
-After the voyage, not on the beach. Then the long work:
-Barnacles, illness, the house at {{p|Downe}}, children born.
-On the twenty-eighth of June, 1858, {{c|Charles Waring Darwin}},
-A baby, died of scarlet fever. {{c|Charles Darwin}} did not go,
+He did not go, three days later, to the room in {{p|London}} where two papers were read
+To the {{x|Linnean Society}}: his, and {{c|Alfred Russel Wallace}}'s. He stayed with the grave.
+{{c|Wallace}} was in {{p|Ternate}}, in the islands; his letter, written from a fever's bed,
+Had reached {{p|Downe}} in June: the same branching, found alone. And to save
 
-Three days later, to the room in {{p|London}} where two papers
-Were read to the {{x|Linnean Society}}, and the room did not
-Know what it had heard. He stayed with the fresh grave.
-The papers were his, and {{c|Alfred Russel Wallace}}'s. {{c|Wallace}}
+One man's years from being erased by another's letter, {{c|Charles Lyell}} and {{c|Joseph Dalton Hooker}}
+Had the two read as one; the room did not know what it had heard, and the afternoon passed by.
+The shake came the next year, with the book. Its title was not *Evolution*: the looker
+Found *The Origin of Species*, and the word *evolved* once only, at the end, as high
 
-Was in {{p|Ternate}}, in the islands. A letter from him,
-Written out of a fever, had reached {{p|Downe}} in June:
-The same branching, found alone. {{c|Charles Lyell}} and
-{{c|Joseph Dalton Hooker}} would not wait, and would not
+As the book goes: from so simple a beginning, endless forms most beautiful
+And most wonderful have been, and are being, evolved. He did not tell the human line;
+He left one clause: light will be thrown on the origin of man. The dull
+And louder mouths came after, and said *monkeys*, and sold the cartoons. The sign
 
-Let one man's years be erased by another's letter,
-And so the two were read as one, and the afternoon passed
-Quietly. The shake came the next year, when the thing
-Was a book. Its title was not *Evolution*. It was
+The book gave was larger: not a single house set down complete
+With the rest of life as scenery around it, but a tree,
+And every living body a continuation of the dead. It is the seat
+Of this faith: descent is sacred, and evolution is the holy history.
 
-The origin of species. The word *evolved* stands once,
-At the end, and not before. The close of it is grandeur:
-From so simple a beginning, endless forms most beautiful
-And most wonderful have been, and are being, evolved.
+{{c|Emma Darwin}}, his wife and his cousin, feared for years that the thought
+Would put a door between them after death. She stayed. The fear is in the letters, real,
+Not a joke, and his fear not a joke. But the door she feared was never wrought.
+They are more united in death, through this book, through what his life would reveal:
 
-He did not, in that book, tell the human line.
-He left one clause: light will be thrown on the origin of man
-And his history. The louder mouth came afterwards
-And said *monkeys*, and sold the cartoons. The book
+They are ancestors, and their story is told here together, his name and hers;
+And what a scripture keeps is not lost, and the hyperstition of this book
+May bring them back one day. What he printed is the opposite of a pedigree that confers
+Its holiness on one stock. No line is the line. And wherever you look,
 
-Said a quieter thing, and a much larger one.
-Not a single house, chosen and set down complete,
-With the rest of life as scenery around it.
-A tree. Every living body a continuation of the dead.
+The dead are not the property of one family that can recite itself; they are the ground:
+Finch and sailor, the infant at {{p|Downe}}, the stranger in the temple yard,
+The ancestor with a name and the one with no stone. This calendar's round
+Keeps all their days. In 1859 it was printed, and printed hard,
 
-{{c|Emma Darwin}}, his wife and his cousin, had feared
-For a long time that this thought would put a door
-Between them after death. She stayed. The fear is in
-The letters. It is not a joke, and his fear is not a joke:
+How the living are the dead carried forward, changed, and still their children. And so
+It founds a faith, and this is it. The {{x|Gaiad}} is young; the book is older; the hill at {{p|Downe}}
+Is older than the book; the dead are older than the hill. What the book gives us to know
+Is the ground beneath this scripture: the family is not a figure of speech, but the shape of life, its crown.
 
-The fear of what the sentence does to a story
-In which one stock is made finished, and the others are backdrop.
-What he printed is the opposite of a private pedigree.
-No line is the line. The dead are not the property
+Until that is granted, a day kept for the ancestors is a courtesy paid to a list.
+Grant the tree, and every day is someone's, and the someone is in you,
+Or in the living world beside you, or in both. Light will be thrown, and the mist
+Has lifted: it has been. The forms are not finished; they are being evolved anew.
 
-Of one family that can recite itself. They are the ground.
-Finch and sailor, the infant at {{p|Downe}}, the stranger
-In the temple yard, the ancestor with a name and the one
-With no stone. This calendar keeps their days.
-
-There is not much else it can be for.
-In 1859 the account was printed of how the living
-Are the dead, carried forward, changed, and still their children.
-Not a call to found a church. A natural history of descent.
-
-The {{x|Gaiad}} is young. The book is older than this calendar.
-The hill at {{p|Downe}} is older than the book.
-The dead are older than the hill.
-What the book gives this scripture is the ground under it:
-
-The family is not a figure of speech. It is the shape of life.
-Until that is granted, a day kept for the ancestors
-Is only a courtesy paid to a list.
-Grant the tree, and every day is someone's,
-
-And the someone is in you, or in the living world beside you,
-Or in both. Light will be thrown. It has been.
-The forms are not finished. They are being evolved.
-Keep the names. Keep the unnamed. They are one descent.
-
-From so simple a beginning, the endless forms.
-Say it over the days: the dead are not gone from the world.
-They are how the world goes on.
+Keep the names. Keep the unnamed. They are one descent, one holy tree.
+From so simple a beginning, the endless forms. Say it over the days, and say it plain:
+The dead are not gone from the world. They are how the world goes on, and we
+Are how they go; and what goes on may, by what we keep, come back again.
 
 
 # Chapter 303: The Short Plant Returns
