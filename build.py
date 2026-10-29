@@ -1879,9 +1879,9 @@ def generate_gedcom7(out_path):
     try:
         sys.path.insert(0, str(SCRIPT_DIR / "wiki-scripts"))
         # The one /gaiad.ged (Emma, 2026-10-15): the Gaiad's individuals by first appearance, then her ancestry.
-        from build_gaiad_ged import build as build_gaiad_ged
+        from build_gaiad_ged import build as build_gaiad_ged, next_free
 
-        stats = build_gaiad_ged(out_path)
+        stats = build_gaiad_ged(next_free(out_path))
         print(f"  {stats['text individuals']:,} text individuals, {stats['ancestry individuals']:,} ancestry individuals, "
               f"{stats['bytes'] / 1048576:.1f} MB")
         return stats

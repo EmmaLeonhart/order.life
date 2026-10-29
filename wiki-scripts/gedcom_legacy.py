@@ -251,6 +251,14 @@ def apply(lines, register=True):
                 dst.insert(at, [b[0], "2 TYPE AKA"] + [l for l in b[1:] if not l.startswith("2 TYPE")])
             elif tag == "NOTE" and b[0].startswith("1 NOTE First named in the Gaiad"):
                 continue   # the survivor's own first naming stands; the stanzas stay as its citations
+            elif tag == "SEX":
+                # the survivor inherits a known sex where it has none or only U
+                have = next((d for d in dst if d[0].startswith("1 SEX ")), None)
+                if b[0].strip() in ("1 SEX M", "1 SEX F") and (have is None or have[0].strip() == "1 SEX U"):
+                    if have is not None:
+                        dst.remove(have)
+                    at = max(k for k, d in enumerate(dst) if d[0].startswith("1 NAME ")) + 1
+                    dst.insert(at, b)
             elif tag in ("SOUR", "NOTE", "FAMC", "FAMS", "OBJE"):
                 if b not in dst:
                     dst.append(b)

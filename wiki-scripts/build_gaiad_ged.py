@@ -769,7 +769,11 @@ def build(out_path):
         for text, lg in PRIMARY_TRAN.get(name, ()):
             add(f"2 TRAN {text}")
             add(f"3 LANG {lg}")
-        add(f"1 SEX {FIRST_SEX.get(name) or sex_by_label.get(name, 'U')}")
+        # no SEX line where the sex is not known, not SEX U (Emma, 2026-10-29: marked unknown, a merged record's sex
+        # "turns into conflicting data about the sex, rather than just it inherits the sex marker")
+        sex = FIRST_SEX.get(name) or sex_by_label.get(name)
+        if sex:
+            add(f"1 SEX {sex}")
         add(f"1 REFN {n}")
         add("2 TYPE Gaiad individual number")
         add(f"1 UID {uuid.uuid5(NS, name)}")
@@ -1020,7 +1024,19 @@ def build(out_path):
     return stats
 
 
+def next_free(path):
+    """gaiad.ged, else gaiad1.ged, gaiad2.ged, ...: the first name not yet on disk. Emma, 2026-10-29: "put 1, 2, 3, 4,
+    etc. at the end of the file name ... as a part of the generation"; in CI the directory is new, so it is always
+    gaiad.ged there, and locally each build is a new file, which gets around the deduplication some family tree
+    programs do on import."""
+    path = Path(path)
+    k = 0
+    while (cand := path if k == 0 else path.with_name(f"{path.stem}{k}{path.suffix}")).exists():
+        k += 1
+    return cand
+
+
 if __name__ == "__main__":
-    dest = Path(sys.argv[1]) if len(sys.argv) > 1 else ROOT / "gaiad.ged"
+    dest = Path(sys.argv[1]) if len(sys.argv) > 1 else next_free(ROOT / "site" / "gaiad.ged")
     for k, v in build(dest).items():
         print(f"  {k}: {v:,}")
