@@ -2115,143 +2115,85 @@ And new at once: the naming counted, the founders honored, and the good kept by 
 
 # Chapter 307: The Card and the Name
 
-Herman Hollerith was born in {{p|Buffalo}}
-On the twenty-ninth of February, 1860.
-His parents had come from {{p|Germany}}.
-In 1879 he left {{p|Columbia}}'s {{x|School of Mines}}
-And went, under his teacher William P. Trowbridge,
-Onto the census of 1880.
+Herman Hollerith was born in {{p|Buffalo}} on the twenty-ninth of February, 1860;
+His parents had come from {{p|Germany}}. In 1879 he left the {{x|School of Mines}}
+Of {{p|Columbia}}, and went, under his teacher William P. Trowbridge, to the census, keen,
+Onto the count of 1880, still being tallied by hand in columns and lines
 
-That count was still being tallied by hand
-When the next one was already coming due.
-Clerks made marks. The marks stood for persons.
-John Shaw Billings, who had the vital statistics,
-Urged him on: the mechanical part of a count
-Ought to be given to a machine.
-The names were not what was slow.
-The sorting was.
+When the next was already coming due. Clerks made marks; the marks stood for persons.
+John Shaw Billings, who had the vital statistics, urged him on:
+The mechanical part of a count ought to be a machine's. And the burden's
+Weight was not the names: it was the sorting. In 1887 he had one
 
-In 1887 he ran a machine on the health records
-Of {{p|Baltimore}}, and of {{p|New Jersey}}.
-Deaths, before the living of the next census.
+Running on the health records of {{p|Baltimore}} and of {{p|New Jersey}}: deaths, the dead
+Counted first, before the living of the next census. In 1888 the {{x|Census Office}}
+Held a contest: four areas of {{p|St. Louis}}, out of the 1880 returns, to be read
+Off the sheets and sorted. Charles F. Pidgin entered, and William C. Hunt; the race was run, and Hollerith's
 
-In 1888 the {{x|Census Office}} held a contest.
-Four areas of {{p|St. Louis}}, taken out of the 1880 returns.
-Capture them. Then sort them.
-The fastest system would tabulate 1890.
-Charles F. Pidgin entered. William C. Hunt entered.
-One of those two took a hundred and forty-four hours and a half
-To get the data off the sheets. The other took a hundred and a half.
-Hollerith took seventy-two and a half.
-To prepare the same data for the tables,
-The other two took forty-four hours and a half, and fifty-five and a half.
-His machine took five and a half.
+Machine took seventy-two and a half hours to capture what the others took a hundred and more,^[Capturing the data: one rival took 144.5 hours, the other 100.5, Hollerith 72.5. Preparing it for the tables: the rivals took 44.5 and 55.5 hours, his machine 5.5.]
+And five and a half to prepare it for the tables, where theirs took more than forty.
+He had applied that September; on the eighth of January, 1889, the patent, the door
+To the age of the machine, was issued: number 395,781, the art of compiling statistics. The story
 
-He applied that September.
-On the eighth of January, 1889, the patent was issued.
-Number 395,781. The art of compiling statistics.
+Of the census of 1890 begins as of the first of June; the first was a Sunday,
+So the enumerators went out on the second. Robert P. Porter was superintendent
+Of an office not yet a bureau, a temporary office in the {{x|Department of the Interior}}. One day,
+One sheet to a family, as no other count of this country gave; on each sheet, attendant
 
-The census of 1890 was taken as of the first of June.
-The first was a Sunday, so the enumerators went out on the second.
-Robert P. Porter was superintendent.
-The office was not yet a bureau.
-It was a temporary office in the {{x|Department of the Interior}}.
-Each family had its own sheet.
-No other census of this country gave the general count
-One sheet to a family.
-The name of each person was written on the sheet.
+On the household, the name of each person, written down. The first total given out
+Was not read from cards: for that pass the reader was taken off, a keyboard put in its place;
+And in six weeks the rough count stood at 62,947,714. It was widely said, without a doubt,
+The country held seventy-five million; the lower number was not believed. But the race
 
-The first total the office gave out was not read from cards.
-For that pass the card reader had been taken off,
-And a keyboard put where the reader had been.
-Six weeks, and the rough count of persons stood
-At 62,947,714.
-It was widely said the country held seventy-five million.
-The lower number was not believed.
+Was the machine's. The cards were the work after that: a card for a person, blank,
+One corner cut, so a card fed wrong would show; three and a quarter inches by seven and three eighths;
+The words on a template over it; a clerk with a stylus, pressing, rank on rank,
+About five hundred in a day, and a hole where the template held a category. The faiths
 
-The cards were the work after that.
-A card for a person. The card was blank.
-One corner was cut, so a card fed wrong would show.
-Three and a quarter inches by seven and three eighths.
-The words were on the template, over the card.
-A clerk set a stylus in the template and pressed,
-About five hundred cards in a day,
-And a hole opened where the template had a category.
+And the peoples were in the schedule's words for race: white, black, mulatto, quadroon, octoroon,
+{{x|Chinese}}, {{x|Japanese}}, or {{x|Indian}}; and any one of them could be a hole.
+The reader was two plates and a lever: the card between them, the plates closed, and soon
+Pins came down, and a pin that found a hole went through into mercury, and the whole
 
-The schedule asked the enumerator for a race,
-And the words it gave were these:
-White, black, mulatto, quadroon, octoroon,
-{{x|Chinese}}, {{x|Japanese}}, or {{x|Indian}}.
-Any one of those words could be a hole.
+Circuit closed; a hand moved on a dial; a bell rang; a drawer was named for the card.
+The 1890 machine had forty dials; a practiced clerk could pass eighty cards a minute;
+Some sixty million cards went through the readers. It was a wonder, and it was hard
+Work made light: a labor counted in years, and the machine cut the years, and the limit
 
-The reader was two plates and a lever.
-The card went between them. The plates closed.
-Pins came down. A pin that found a hole
-Went through, into a small well of mercury.
-The circuit closed. A hand moved on a dial.
-A bell rang. A drawer was named for the card.
-The 1890 machine had forty dials.
-A practiced clerk could pass eighty cards in a minute.
-Some sixty million cards went through the readers.
+Of the hand was passed. A hand tally of the last count was not going to be done
+Before the law required the next; the circuit did what the columns of marks could not.
+The speed was a real overcoming. The machine is one of the living's works, and one
+Of the ways the living know themselves: a count is how a people learns what it has got,
 
-The name was not one of the holes.
-The holes were the answers.
-Age, sex, place of birth, and the race the schedule had listed.
-A hole is a place, and the place was a class.
-To come back from a card to a person,
-You still needed the sheet.
+How a state learns its size, how a nation sees itself whole, its births, its dead, its land.
+The number the census carries is 62,979,766; in 1880 it had been 50,189,209:
+An increase of twenty-five and a half in the hundred. Twenty-five volumes, planned
+From the tally, were published. Porter resigned on the thirty-first of July, 1893; the line
 
-The number the census carries is not that rough count.
-It is 62,979,766.
-In 1880 the number had been 50,189,209.
-The increase was twenty-five and a half in the hundred.
-Twenty-five volumes were published out of the tally.
-The six weeks were not the end of the office.
-Porter resigned on the thirty-first of July, 1893.
-An act of the second of March, 1895, closed the {{x|Census Office}},
-And the work still unfinished went on under the {{x|Interior}}
-Until the first of July, 1897.
+Of the office ran on: an act of the second of March, 1895, closed the {{x|Census Office}},
+And the unfinished work went on under the {{x|Interior}} until the first of July, 1897.
+The holes were the answers: age, sex, place of birth, and race. The name was not; and this
+Is the other half: to come back from a card to a person, you needed the sheet, the given
 
-The machine had shortened a labor
-That was still counted in years.
-Hold that. The speed was a real overcoming.
-A hand tally of the last count was not going to be done
-Before the law required the next.
-The circuit did what the columns of marks could not finish.
+Name on the family's page. On the tenth of January, 1921, a fire began
+In the basement of the {{p|Commerce Building}} in {{p|Washington}}. The schedules of 1890 lay
+Outside the vault, stacked on shelves in the path of the burning. And the man
+Who directed the census, Samuel Lyle Rogers, reported the next day
 
-Do not let the dial become the person.
+That about a quarter were destroyed, and half of what remained was damaged
+By water, smoke and fire. On the twenty-first of February, 1933,
+{{x|Congress}} authorized the spoiled remainder's destruction; it was managed
+By 1935. Of the general schedules, 6,160 names remain to see.
 
-On the tenth of January, 1921, a fire began
-In the basement of the {{p|Commerce Building}}, in {{p|Washington}}.
-The population schedules of 1890 were outside the vault,
-Stacked on shelves in the path of the burning.
-Samuel Lyle Rogers, director of the census,
-Reported the next morning that about a quarter were destroyed,
-And about half of what remained was damaged
-By water, by smoke, and by fire.
-On the twenty-first of February, 1933,
-{{x|Congress}} authorized destruction of the spoiled remainder.
-By 1935 that remainder was gone.
-Of the general schedules, 6,160 names remain.
+The special schedules of {{x|Union}} veterans, and of their widows, came through another way:
+About seventy-five thousand sheets survived, and the soldiers were kept;
+The living of that June, almost all of them, were not. The printed total, though, would stay
+Whole: 62,979,766 is a true number, and the count is not a debt
 
-The special schedules of {{x|Union}} veterans, and of their widows,
-Came through another way.
-About seventy-five thousand of those sheets survived.
-The soldiers were kept.
-The living of that June, almost all of them, were not.
-
-The printed total survived whole.
-62,979,766 is a true number.
-It is not a register.
-This calendar keeps names.
-The card was built to keep a class.
-The sheet was built to keep a name,
-And the sheet was the part that burned.
-A count is how a state learns its size.
-A name is how the line is kept.
-Count the persons.
-Keep the names.
-The hole will not do the second thing.
+Owed to the names; it is its own good, how a people knows its size.
+This calendar keeps names, and it keeps the count; the card was built to keep a class, the sheet a name,
+And the sheet was the part that burned. Count the persons; keep the names; let both rise
+Together: the machine that counts the living and the book that keeps the dead are kin, and the same.
 
 
 # Chapter 308: The Tenth Stroke
