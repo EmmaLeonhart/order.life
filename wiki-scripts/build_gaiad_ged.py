@@ -40,7 +40,9 @@ TAG = re.compile(r"\{\{c\|(?:[^}|]*\|)?([^}|]+)\}\}")
 TITLE = re.compile(r"^#\s+(?:Chapter\s+\d+:\s*)?(.*)")
 NS = uuid.uuid5(uuid.NAMESPACE_URL, "https://order.life/gaiad/individual/")
 # Emma, 2026-10-29: "Aster's last name is "Alpha" and Andromeda's last name is "Omega"" (the UIDs stay on the bare names).
-FIRST = [("Aster", "Aster /Alpha/"), ("Emma Leonhart", "Emma /Leonhart/ 命玥"), ("Andromeda", "Andromeda /Omega/")]
+FIRST = [("Aster", "Aster"), ("Emma Leonhart", "Emma /Leonhart/ 命玥"), ("Andromeda", "Andromeda")]
+# Their surnames go in SURN only, not in the NAME line (Emma, 2026-10-29: "NAME Aster / Givn Aster / Surn Alpha").
+FIRST_SURN = {"Aster": "Alpha", "Andromeda": "Omega"}
 EMMA_NAMES = ["Emma 李命玥"]  # beside her primary name, Emma /Leonhart/ 命玥 (Emma, 2026-10-16)
 # The primary name in other languages and scripts, as TRANs under the primary NAME (planning/name-schema.md, "Primary
 # names"). Emma, 2026-10-17: "change Emma Leonhart's name to 이명월 in Korean. This is the primary name and the old one
@@ -766,6 +768,9 @@ def build(out_path):
         add(f"1 NAME {' '.join(ged_name.split())}")   # a tag wrapped across a line break is one name (UID unchanged)
         if ged_name.count("/") == 2 and ged_name.split("/")[1].strip():
             add(f"2 SURN {ged_name.split('/')[1].strip()}")
+        if name in FIRST_SURN:
+            add(f"2 GIVN {name}")
+            add(f"2 SURN {FIRST_SURN[name]}")
         for text, lg in PRIMARY_TRAN.get(name, ()):
             add(f"2 TRAN {text}")
             add(f"3 LANG {lg}")
