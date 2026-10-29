@@ -8,8 +8,8 @@ The forests grew: no ice, the planet hurled
 Into a greenhouse warmth that filled the whole
 
 Of the equator and the polar zone
-With the green of {{c|Angios}}' flowering empire
-And {{c|Conifera}}'s ancient evergreen throne—
+With the green of {{c|1759|Angios}}' flowering empire
+And {{c|1702|Conifera}}'s ancient evergreen throne—
 The world was warm, the world was entire
 
 In its coverage of life from the abyss
@@ -19,39 +19,39 @@ Of activity could raise—the slightest
 
 Corner of the planet held its life.
 
-In the sea: {{c|Mosas}} ruled the shallows,
+In the sea: {{c|1760|Mosas}} ruled the shallows,
 His serpentine bulk the greatest knife
 That the {{x|Cretaceous}} marine world allows
 
 For cutting through the ocean's living wealth—
-And {{c|Plesios}} still dove with her four flippers
+And {{c|1742|Plesios}} still dove with her four flippers
 Through the deeper water, the stealth
 Of the plesiosaur unchanged, the sippers
 
 Of the ocean's fish for a hundred million years.
 The ammonites spiraled through the water column
 In their chambered shells, the ancient peers
-Of {{c|Coleios}}' cuttlefish—the solemn
+Of {{c|1705|Coleios}}' cuttlefish—the solemn
 
 And beautiful geometry of the chambered nautilus
 Still sailing, as it had since the {{x|Ordovician}} sea—
-And the teleosts, {{c|Teleosteos}}' fabulous
+And the teleosts, {{c|1699|Teleosteos}}' fabulous
 And overwhelming diversity,
 
 Filled every marine niche from reef to open water,
 From freshwater lake to the ocean's midnight zone—
 Half of all vertebrates, each the daughter
-And son of {{c|Actinus}}' ancient bone.
+And son of {{c|1505|Actinus}}' ancient bone.
 
-On land: {{c|Tyrannos}} stalked his kingdom
-And {{c|Ceratops}} bore his horns against the king—
-{{c|Hadros}} called across the freedom
+On land: {{c|1761|Tyrannos}} stalked his kingdom
+And {{c|1762|Ceratops}} bore his horns against the king—
+{{c|1766|Hadros}} called across the freedom
 Of the {{x|Cretaceous}} plain, and the spring
 
 Of every year brought the ornithischian herds
 In their annual migrations, millions strong,
 Across the continents—and the early birds
-Of {{c|Archaeos}}' lineage sang their song
+Of {{c|1755|Archaeos}}' lineage sang their song
 
 In the canopy, already diversified
 Into waterbirds and shorebirds and the small
@@ -61,13 +61,13 @@ The niches that the pterosaurs could not fill—all
 The understory and the forest interior
 Where the pterosaur's wingspan could not reach.
 
-{{c|Pteros}}' children ruled the aerial superior
+{{c|1746|Pteros}}' children ruled the aerial superior
 Of the open sky, and on every beach
 
 And flatland stalked the azhdarchids, tall
 As giraffes and winged as nightmares.
 
-In the undergrowth, {{c|Mammos}} kept his small
+In the undergrowth, {{c|1743|Mammos}} kept his small
 And quiet vigil—the nighttime prayers
 
 Of the mammalian line continuing their watch
@@ -91,8 +91,8 @@ Were the size of a mouse and twice as humble.
 The insects numbered more than all the vowed
 And vertebrate species combined—the tumble
 
-And buzz of {{c|Neopter}}'s children in the flowers
-Of {{c|Angios}} was the soundtrack of the age:
+And buzz of {{c|1598|Neopter}}'s children in the flowers
+Of {{c|1759|Angios}} was the soundtrack of the age:
 Bees and wasps and butterflies, the hours
 Of pollination filling every page
 

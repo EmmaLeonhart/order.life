@@ -1,6 +1,6 @@
 # Chapter 80: The Dicynodont Bread
 
-Now hear of {{c|Dicyno}}, the beaked and tusked
+Now hear of {{c|1723|Dicyno}}, the beaked and tusked
 And patient one, who fed the world through all
 The late {{x|Permian}} age—who walked and brusked
 Through every landscape from the great hall
@@ -13,11 +13,11 @@ Wide plains and said with every word
 Of his abundant living: I am here.
 I am the bread of this world. I am
 The patient herbivore without a fear
-Too large for my endurance—{{c|Dicyno}}'s calm
+Too large for my endurance—{{c|1723|Dicyno}}'s calm
 
 Was legend in the {{x|Permian}} ecosystem:
 Where others starved or fled the spreading dry,
-{{c|Dicyno}} found a way to seize them—
+{{c|1723|Dicyno}} found a way to seize them—
 The roots beneath the soil, the dry
 
 And woody vegetation that no other
@@ -42,11 +42,11 @@ The {{x|Permian}} staged—redundant
 
 Only in the sense that numbers vast
 Were needed to sustain the pyramid
-Of {{c|Gorgo}}'s hunger—each one the last
+Of {{c|1722|Gorgo}}'s hunger—each one the last
 Meal of something else, the grid
 
 Of energy from plant to herbivore
-To carnivore maintained by {{c|Dicyno}}'s
+To carnivore maintained by {{c|1723|Dicyno}}'s
 Abundance—he was the store
 Of the world's fuel, the provider's nose
 
@@ -55,11 +55,11 @@ Who turned the sun's gift in plant to flesh
 That others needed—in this way the sun
 Itself walked through the ecosystem's mesh
 
-As {{c|Dicyno}} moved from plant to prey.
+As {{c|1723|Dicyno}} moved from plant to prey.
 
 There were hundreds of species in his line—
 From rabbit-small to hippo-wide, each way
-Of being {{c|Dicyno}} was a shrine
+Of being {{c|1723|Dicyno}} was a shrine
 
 To the versatility of a single plan:
 The beak, the tusk, the barrel body low
@@ -77,7 +77,7 @@ Rock in a season, following the thunderer
 Of monsoon's trail for the brief spread
 
 Of green that followed any rain—
-{{c|Dicyno}} was everywhere that the {{x|Permian}}
+{{c|1723|Dicyno}} was everywhere that the {{x|Permian}}
 World put vegetation, every plain
 And hillside of the supercontinent's span.
 
@@ -98,16 +98,16 @@ The predator behind: this is
 
 The world that works—the eaten and the eating
 In their ancient dance of shaping each
-The other—{{c|Gorgo}}'s greeting
-To {{c|Dicyno}} was the teach
+The other—{{c|1722|Gorgo}}'s greeting
+To {{c|1723|Dicyno}} was the teach
 
 Of every generation in the art
 Of being faster, slightly, than the one
 Behind you—the herd's panicking heart
-Was {{c|Dicyno}}'s education, sun
+Was {{c|1723|Dicyno}}'s education, sun
 
 By sun and generation by generation.
-Honor {{c|Dicyno}} who fed the world—
+Honor {{c|1723|Dicyno}} who fed the world—
 Who walked in every nation
 And turned the desert's last unfurled
 

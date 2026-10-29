@@ -5,12 +5,12 @@ Where {{p|Asia}} and {{p|Europe}} and {{p|North America}}
 Were joined by land bridges and the bands
 Of temperate forest, the chimera
 
-Of {{c|Boreos}}' radiation was the greatest
+Of {{c|1784|Boreos}}' radiation was the greatest
 Mammalian explosion the world had seen:
 More orders, more families, the latest
 And most overwhelming act of the {{x|Cenozoic}} scene.
 
-For {{c|Boreos}} had what {{c|Afrotheros}} and {{c|Xenarthros}} lacked:
+For {{c|1784|Boreos}} had what {{c|1782|Afrotheros}} and {{c|1783|Xenarthros}} lacked:
 Connected continents—the land bridge at {{p|Beringia}}
 Let the {{p|Asian}} and {{p|American}} mammals act
 As one enormous gene pool—the criteria
@@ -20,9 +20,9 @@ Arena of competition and of space,
 And the result was diversified
 Beyond the isolated island's pace.
 
-Two great houses branched from {{c|Boreos}}' blood:
+Two great houses branched from {{c|1784|Boreos}}' blood:
 
-{{c|Euarchos}}—the "true rulers"—whose children
+{{c|1785|Euarchos}}—the "true rulers"—whose children
 Would include the strangest flood
 Of associations: the primates and the buildin'
 
@@ -36,7 +36,7 @@ Became the primate's inheritance—
 But that is a tale for later choruses;
 For now, the other branch's dance.
 
-{{c|Laurasios}}—the northern one—bore children
+{{c|1786|Laurasios}}—the northern one—bore children
 More diverse than any single line
 Before: the carnivores, the herd-building
 Ungulates, the bats whose design
@@ -44,7 +44,7 @@ Ungulates, the bats whose design
 Of powered flight was the only one
 That any mammal ever achieved.
 
-{{c|Chiropteros}}—the bat—was born and spun
+{{c|1791|Chiropteros}}—the bat—was born and spun
 Into the nighttime air and believed
 
 In echolocation before the whale did:
@@ -80,7 +80,7 @@ In every cave and forest, the unheard
 And unseen hunter of the insect world.
 
 The ungulates—the hoofed ones—rose
-From {{c|Laurasios}}' line as the world unfurled
+From {{c|1786|Laurasios}}' line as the world unfurled
 Its grasslands in the {{x|Miocene}}'s prose
 
 Of cooling and of drying—and the hoof
@@ -100,14 +100,14 @@ The hard and narrow contact's proof
 
 Against the pounding distance of the plain.
 
-From {{c|Laurasios}}' northern line would come
+From {{c|1786|Laurasios}}' northern line would come
 The horse, the rhinoceros, the mane
 Of the lion, the antler, and the drum
 
 Of the hoofbeat on the steppe—but these
 Are stories for the chapters yet to come.
 
-Honor {{c|Boreos}}—whose northern expertise
+Honor {{c|1784|Boreos}}—whose northern expertise
 Of connected continents and the sum
 
 Of space and competition and the bridge

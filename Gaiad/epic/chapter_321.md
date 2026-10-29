@@ -5,7 +5,7 @@ Printed three papers on one substance.
 The substance is deoxyribose nucleic acid.
 The initials are DNA.
 The first paper is from {{p|Cambridge}}.
-{{c|James Watson}} and {{c|Francis Crick}} wrote it.
+{{c|4408|James Watson}} and {{c|4409|Francis Crick}} wrote it.
 They wish to suggest a structure.
 Two chains, wound together.
 The bases pair.
@@ -22,11 +22,11 @@ A suggestion is not a measurement they made.
 It begins on one page and ends on the next.
 
 The other two papers are from {{p|King's College}}, {{p|London}}.
-{{c|Maurice Wilkins}} and his colleagues signed one.
-{{c|Rosalind Franklin}} and {{c|Raymond Gosling}} signed the other.
+{{c|4410|Maurice Wilkins}} and his colleagues signed one.
+{{c|4411|Rosalind Franklin}} and {{c|4412|Raymond Gosling}} signed the other.
 Their photograph of the salt, taken in 1952,
 Is in that issue under their names.
-{{c|Franklin}} had measured a helix.
+{{c|4413|Franklin}} had measured a helix.
 She had the phosphates on the outside
 And the bases toward the middle.
 She had not signed the {{p|Cambridge}} page.
@@ -35,8 +35,8 @@ The claim that she missed it is a later telling.
 The journal of that April prints her name
 On the evidence.
 
-In 1968 {{c|Watson}} published a book.
-He wrote that {{c|Wilkins}} showed him the photograph
+In 1968 {{c|4414|Watson}} published a book.
+He wrote that {{c|4415|Wilkins}} showed him the photograph
 In the first months of 1953,
 And that his pulse raced.
 The book is his account, fifteen years on.
@@ -45,36 +45,36 @@ The book speaks of her in a way the April page does not.
 Take the page.
 
 Five weeks later, on the thirtieth of May,
-{{c|Watson}} and {{c|Crick}} published the genetical implications.
+{{c|4414|Watson}} and {{c|4416|Crick}} published the genetical implications.
 The April sentence had already said the pairing suggests a copy.
 
 This was not the discovery of the substance.
 The substance had a name long before.
-In 1944 {{c|Oswald Avery}}, with {{c|Colin MacLeod}}
-And {{c|Maclyn McCarty}}, had shown that a substance
+In 1944 {{c|4417|Oswald Avery}}, with {{c|4418|Colin MacLeod}}
+And {{c|4419|Maclyn McCarty}}, had shown that a substance
 Which changed what a bacterium would be
 Was this acid, and not a protein.
 The year before the April papers,
-{{c|Alfred Hershey}} and {{c|Martha Chase}}
+{{c|4420|Alfred Hershey}} and {{c|4421|Martha Chase}}
 Had argued that what a virus puts into a bacterium,
 The part that carries the change, is the acid
 And not the coat.
 The April page is a structure.
 It is not the first news that the acid can carry a heredity.
 
-{{c|Erwin Chargaff}} had weighed the bases.
+{{c|4422|Erwin Chargaff}} had weighed the bases.
 Adenine matched thymine.
 Guanine matched cytosine.
 The model uses that match.
 He did not sign the April papers.
-Earlier in 1953 {{c|Linus Pauling}} had published a structure
+Earlier in 1953 {{c|4423|Linus Pauling}} had published a structure
 Of three chains.
 It did not hold.
 The {{p|Cambridge}} page says its own structure is another.
 
 In 1962 the prize in physiology or medicine
-Went to {{c|Watson}}, to {{c|Crick}}, and to {{c|Wilkins}}.
-{{c|Franklin}} had died in 1958.
+Went to {{c|4414|Watson}}, to {{c|4416|Crick}}, and to {{c|4415|Wilkins}}.
+{{c|4413|Franklin}} had died in 1958.
 The prize is not given to the dead.
 Her name is on the April page.
 The prize's list is not that page.
@@ -101,4 +101,4 @@ The substance was already known to carry a change.
 The new sentence is the shape, and the copy the shape allows.
 A shape is not a commandment.
 The dead of the prize's year are not this chapter.
-{{c|Franklin}}'s measurement is.
+{{c|4413|Franklin}}'s measurement is.

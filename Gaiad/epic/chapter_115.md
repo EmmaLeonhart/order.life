@@ -1,6 +1,6 @@
 # Chapter 115: The Monotremes
 
-Now hear of {{c|Mammos}}' eldest children—
+Now hear of {{c|1743|Mammos}}' eldest children—
 The ones who kept the oldest ways,
 Who never left the ancient building
 Of the egg behind, who spent their days
@@ -11,21 +11,21 @@ On the belly's skin, the ancient fill
 Of maternal care that predates the latches
 
 Of the nipple and the placenta—
-{{c|Monotremos}}, the first-born of the mammal line,
+{{c|1773|Monotremos}}, the first-born of the mammal line,
 Who represents the living magenta
 And fading ink of the original design.
 
-For {{c|Mammos}}' house divided early
+For {{c|1743|Mammos}}' house divided early
 Into three great branches of the blood:
-{{c|Monotremos}} first—who held the dearly
-Ancient ways—then {{c|Marsupios}}, the flood
+{{c|1773|Monotremos}} first—who held the dearly
+Ancient ways—then {{c|1774|Marsupios}}, the flood
 
-Of the pouched ones—and last {{c|Placentos}},
+Of the pouched ones—and last {{c|1775|Placentos}},
 The newcomer whose womb would change
 The world—but first the old dispensation's
 Story, and the southern range
 
-Of {{c|Monotremos}}' strange and ancient house.
+Of {{c|1773|Monotremos}}' strange and ancient house.
 
 In {{p|Gondwana}}'s south, where {{p|Antarctica}}
 Was still forested and warm, the grouse
@@ -50,7 +50,7 @@ Fossil record preserves.
 
                          When {{p|Australia}}
 Broke from {{p|Antarctica}} and drifted north,
-It carried {{c|Monotremos}} to the regalia
+It carried {{c|1773|Monotremos}} to the regalia
 Of isolation—and from that point forth
 
 The monotremes were locked in the southern cage
@@ -61,7 +61,7 @@ Of the {{p|Northern Hemisphere}} was the unknown
 And foreign country whose placental lords
 Would never reach them.
 
-                         {{c|Ornithorhyncos}}—
+                         {{c|1776|Ornithorhyncos}}—
 The platypus—of all the records
 Of evolution's strangeness, the seance
 
@@ -93,7 +93,7 @@ Of mammalian nursing, the jelly
 
 Of maternal care in its most ancient form.
 
-And {{c|Echidos}}—the echidna, the spiny
+And {{c|1777|Echidos}}—the echidna, the spiny
 Ant-eater, who weathered every storm
 Of the {{p|Australian}} interior, the tiny
 
@@ -112,7 +112,7 @@ Between the cold-blooded past and the warm-blooded
 Future—the monotreme's archive
 Of the mammal's deepest origin, flooded
 
-With the memory of what {{c|Mammos}} was
+With the memory of what {{c|1743|Mammos}} was
 Before the nipple, before the womb,
 Before the placenta's elaborate gauze—
 Just milk and egg and the warm room
@@ -124,7 +124,7 @@ Technology of the egg is the first form
 
 Of that promise.
 
-                  Honor {{c|Monotremos}}—
+                  Honor {{c|1773|Monotremos}}—
 The living fossil, the keeper of the oldest
 Mammalian ways in {{p|Australia}}'s hymns
 And rivers—the humblest and the boldest
@@ -135,4 +135,4 @@ To change what works—the patient
 And the beautiful, the eternal recusal
 
 From the modern, the keeper of the flame
-Of what {{c|Mammos}} was at the beginning.
+Of what {{c|1743|Mammos}} was at the beginning.

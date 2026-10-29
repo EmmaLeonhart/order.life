@@ -5,7 +5,7 @@ Whose ancient story reached from far before
 The {{x|Carboniferous}} age, lived one so free
 In body-plan it split the others' lore:
 
-For {{c|Malacos}} had given all his sons
+For {{c|1711|Malacos}} had given all his sons
 A body counted in the sum of three:
 The head, the thorax, and the abdomen runs
 Together in a segmentation free
@@ -15,7 +15,7 @@ Six below, five more to thorax laid,
 Nineteen segments in the body placed
 With care by evolution's patient trade.
 
-For {{c|Malacos}} gave to every son
+For {{c|1711|Malacos}} gave to every son
 The gift of stalked and movable compound eyes
 That saw in every direction, never done
 With scanning—a periscope that never lies
@@ -26,16 +26,16 @@ Across the ocean floor with confident glide,
 And swimmerets below for catching tide.
 
 His four great children filled the ocean's halls:
-First {{c|Decapos}} with his ten-legged might,
-Then {{c|Euphausios}} in the water's calls,
-Then {{c|Stomatos}} with his clubs of might,
+First {{c|1712|Decapos}} with his ten-legged might,
+Then {{c|1713|Euphausios}} in the water's calls,
+Then {{c|1153|Stomatos}} with his clubs of might,
 
-And {{c|Isops}} who would dare to venture last
+And {{c|1714|Isops}} who would dare to venture last
 From salty sea to fresh to land above—
 The pill bug of the garden, firm and fast
 To roll into his defensive love.
 
-Great {{c|Decapos}} was the master of the claw:
+Great {{c|1712|Decapos}} was the master of the claw:
 Ten legs with specialized design—
 The front two modified for seize and gnaw
 While eight behind for walking's steady line.
@@ -65,7 +65,7 @@ One leaves, another moves into the space,
 A whole community of homeless made
 Suddenly housed by one exchange of place.
 
-Great {{c|Stomatos}} of the shallow reef
+Great {{c|1153|Stomatos}} of the shallow reef
 Is something beyond any creature known
 For violence—his punch of staggering brief
 Duration hits with force of cavitation's throne:
@@ -86,11 +86,11 @@ Mere three—he sees what we call light
 Divided into spectrums of such power
 
 That the colors we cannot name or see
-Are {{c|Stomatos}}' ordinary view:
+Are {{c|1153|Stomatos}}' ordinary view:
 He lives in a chromatic world set free
 From any limit of our visual cue.
 
-Great {{c|Euphausios}} chose a different path—
+Great {{c|1713|Euphausios}} chose a different path—
 No claw, no hammer, but the patient swim
 Through midnight waters, suffering the wrath
 Of cold and dark at ocean's midnight rim,
@@ -110,7 +110,7 @@ That swims the ocean—krill's abundant grace
 Sustains the whale, and in that role we find
 That smallness too can hold a sovereign place.
 
-{{c|Isops}} was the bravest of them all
+{{c|1714|Isops}} was the bravest of them all
 Who heard the call of land and answered it—
 From sea to fresh, from fresh to land's great hall
 He walked on many legs, a perfect fit
@@ -135,7 +135,7 @@ Beneath the stones and leaves where darkness keeps
 Its own community: the pill bug's camp
 Where isopods have claimed the rotting deeps.
 
-So {{c|Malacos}} teaches us the way
+So {{c|1711|Malacos}} teaches us the way
 Of specialization's many roads:
 Not one way to live each single day
 But nineteen segments bearing different loads

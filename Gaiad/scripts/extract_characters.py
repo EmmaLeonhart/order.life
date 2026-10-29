@@ -21,7 +21,7 @@ GENEALOGY_DIR.mkdir(exist_ok=True)
 
 def extract_marked_text(text):
     """Extract all {{c|...}} marked text from a string."""
-    pattern = r'\{\{c\|([^}]+)\}\}'
+    pattern = r'\{\{c\|(?:[^}|]*\|)?([^}|]+)\}\}'   # the ID form {{c|1|Name}} too
     return re.findall(pattern, text)
 
 def load_chapters():

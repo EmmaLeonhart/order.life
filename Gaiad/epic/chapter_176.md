@@ -3,12 +3,12 @@
 In {{p|China}}, the {{p|Warring States}} period came to its violent climax.
 For two centuries seven major states had fought for dominance.
 Finally, in two-twenty-one BCE, the state of {{p|Qin}}—under its
-Ruthless king who would call himself the {{c|First Emperor}}—completed
+Ruthless king who would call himself the {{c|2441|First Emperor}}—completed
 
 The conquest of all rival states and unified {{p|China}} for the first
 Time.
 
-       {{c|Qin Shi Huang}}. The {{c|First Emperor}}. He came to the throne
+       {{c|2442|Qin Shi Huang}}. The {{c|2441|First Emperor}}. He came to the throne
 Of {{p|Qin}} as a boy of thirteen in two-forty-seven BCE. For years
 
 He ruled under a regent. Once he came into his own, he conducted
@@ -17,7 +17,7 @@ One by one: {{p|Han}} in two-thirty, {{p|Zhao}} in two-twenty-eight, {{p|Wei}} i
 Two-twenty-five, {{p|Chu}} in two-twenty-three, {{p|Yan}} in two-twenty-two,
 
 {{p|Qi}} in two-twenty-one. The {{p|Warring States}} were ended. {{p|China}} was
-Unified. And {{c|Qin Shi Huang}} declared himself the {{c|First Emperor}}
+Unified. And {{c|2442|Qin Shi Huang}} declared himself the {{c|2441|First Emperor}}
 Of a dynasty that, he anticipated, would last ten thousand
 Generations. His reforms were radical. He imposed a single writing
 
@@ -46,10 +46,10 @@ Alive four hundred sixty {{p|Confucian}} scholars. The atrocity{{fn|The burning 
 Was real, whatever the later hostile {{p|Han}} historians
 Added to it, and the real
 
-Suppression of {{p|Confucian}} and other traditions did occur. {{c|Qin Shi
+Suppression of {{p|Confucian}} and other traditions did occur. {{c|2443|Qin Shi
 Huang}}'s governing philosophy was {{p|Legalism}}—a school that had
 Developed during the {{p|Warring States}} period, articulated most
-Clearly by {{c|Han Feizi}}. {{p|Legalism}} held that human nature was
+Clearly by {{c|2444|Han Feizi}}. {{p|Legalism}} held that human nature was
 
 Essentially selfish and that effective government required strict
 Laws impartially enforced, with clear rewards for compliance and
@@ -58,7 +58,7 @@ Trusted in the moral cultivation of rulers, {{p|Legalism}} trusted in
 
 The power of institutional design. The emperor did not need to
 Be virtuous; he needed to administer his laws consistently. This
-Philosophy justified the authoritarian severity of {{c|Qin Shi Huang}}'s
+Philosophy justified the authoritarian severity of {{c|2442|Qin Shi Huang}}'s
 Rule. His state was efficient, centralized, and intensely oppressive.
 
 And of course he was obsessed with death. The man who had founded
@@ -84,10 +84,10 @@ Seventy-four by local farmers drilling a well is one of the
 Serendipitous archaeological stories of the modern era. The
 Terracotta Army stands as silent testimony to the emperor's
 Ambition, wealth, and paranoid preparation for what might come.
-{{c|Qin Shi Huang}} died in two-ten BCE, aged forty-nine, on a tour
+{{c|2442|Qin Shi Huang}} died in two-ten BCE, aged forty-nine, on a tour
 
 Of the eastern provinces. His death was kept secret by the chief
-Minister {{c|Li Si}} and the eunuch {{c|Zhao Gao}}, who did not want the
+Minister {{c|2445|Li Si}} and the eunuch {{c|2446|Zhao Gao}}, who did not want the
 Emperor's death to be announced until they had secured the
 Succession. They engineered the murder of the crown prince and
 
@@ -104,18 +104,18 @@ Institutional structures it had created continued to operate.
 
 The standardized writing, the bureaucratic provinces, the road
 And canal networks, the legal codes—all of these were retained
-By the successor dynasty. The {{p|Han}}. Founded by {{c|Liu Bang}}, a
+By the successor dynasty. The {{p|Han}}. Founded by {{c|2447|Liu Bang}}, a
 Peasant rebel who had risen through the chaos of the {{p|Qin}}
 
 Collapse and emerged as one of two contenders for supreme power.
-His rival was {{c|Xiang Yu}}, an aristocratic warrior of enormous
+His rival was {{c|2448|Xiang Yu}}, an aristocratic warrior of enormous
 Personal prowess but poor political judgment. In a four-year
-Civil war ({{p|Chu-Han Contention}}), {{c|Liu Bang}}—using patient political
+Civil war ({{p|Chu-Han Contention}}), {{c|2447|Liu Bang}}—using patient political
 
-Maneuvering where {{c|Xiang Yu}} used brutal force—prevailed. At the
-{{p|Battle of Gaixia}} in two-oh-two BCE, {{c|Xiang Yu}} was defeated.
-{{c|Liu Bang}} declared himself Emperor and founded the {{p|Han Dynasty}}
-As {{c|Emperor Gaozu}}. The {{p|Han}} would rule, with one brief interruption,
+Maneuvering where {{c|2448|Xiang Yu}} used brutal force—prevailed. At the
+{{p|Battle of Gaixia}} in two-oh-two BCE, {{c|2448|Xiang Yu}} was defeated.
+{{c|2447|Liu Bang}} declared himself Emperor and founded the {{p|Han Dynasty}}
+As {{c|2449|Emperor Gaozu}}. The {{p|Han}} would rule, with one brief interruption,
 
 For four hundred years—from two-oh-two BCE to two-twenty CE. It
 Was one of the longest and most influential dynasties in {{p|Chinese}}
@@ -124,8 +124,8 @@ But softened its harshness. They retained the centralized state
 
 But also restored (gradually) some elements of {{p|Confucian}} political
 Ethics, eventually adopting {{p|Confucianism}} as the official ideology
-During the reign of {{c|Emperor Wu}} (one-forty-one to eighty-seven BCE).
-The {{p|Han}} civil service examination, beginning under {{c|Emperor Wu}},
+During the reign of {{c|2450|Emperor Wu}} (one-forty-one to eighty-seven BCE).
+The {{p|Han}} civil service examination, beginning under {{c|2450|Emperor Wu}},
 
 Would select officials based on classical education rather than
 Hereditary status—the first step toward the fully developed
@@ -135,7 +135,7 @@ Was vast, populous, and culturally productive. Its population
 Reached perhaps sixty million—a fifth of the human population of
 The time. Its capital at {{p|Chang'an}} was one of the largest cities
 In the world, rivaled only by contemporary {{p|Rome}}. And the {{p|Han}}
-Was expansionist. {{c|Emperor Wu}} conducted campaigns against the
+Was expansionist. {{c|2450|Emperor Wu}} conducted campaigns against the
 
 {{p|Xiongnu}} nomads to the north, the {{p|Nanyue}} kingdom to the south
 (Conquering northern {{p|Vietnam}}), the {{p|Korean}} peninsula ({{p|Wiman Joseon}}
@@ -155,14 +155,14 @@ Of {{p|Ferghana}}), wool, and eventually {{p|Buddhism}}. The {{p|Silk Road}}
 Connected {{p|Han}} {{p|China}} to the {{p|Mediterranean}} world in sustained
 Long-distance exchange. It was one of the most significant
 Developments in human economic and cultural history. And the {{p|Han}}
-Itself built up intellectual culture. {{c|Sima Qian}} wrote the
+Itself built up intellectual culture. {{c|2300|Sima Qian}} wrote the
 
 {{p|Records of the Grand Historian}} ({{p|Shiji}}), the first great
 Work of {{p|Chinese}} historiography, covering the entirety of
 {{p|Chinese}} history from the legendary {{p|Yellow Emperor}} down to
-{{c|Sima Qian}}'s own time. His work would be the model for all
+{{c|2300|Sima Qian}}'s own time. His work would be the model for all
 
-Subsequent {{p|Chinese}} dynastic histories. {{c|Cai Lun}}, a court eunuch,
+Subsequent {{p|Chinese}} dynastic histories. {{c|2451|Cai Lun}}, a court eunuch,
 Invented (or perfected—predecessors existed) paper around one-
 Oh-five CE, revolutionizing record-keeping and information
 Distribution. {{p|Chinese}} mathematics, astronomy, and medicine
@@ -190,7 +190,7 @@ Its later centuries. The usual imperial problems: decadence at
 
 Court, rebellions on the frontiers, economic pressures, factional
 Struggles among eunuchs, officials, and military men. A brief
-Interregnum from nine to twenty-three CE—the reign of {{c|Wang Mang}},
+Interregnum from nine to twenty-three CE—the reign of {{c|2452|Wang Mang}},
 A usurper who attempted radical reforms but failed—divided the
 
 {{p|Western Han}} (two-oh-two BCE to nine CE) from the {{p|Eastern Han}}
@@ -241,11 +241,11 @@ In some detail because so much subsequent {{p|East Asian}} history
 
 Operates within its categories.
 
-                                    {{p|Qin}}. {{p|Han}}. {{c|Qin Shi Huang}}. {{c|Liu Bang}}.
-The {{c|First Emperor}} and the rebel-peasant who succeeded him.
+                                    {{p|Qin}}. {{p|Han}}. {{c|2442|Qin Shi Huang}}. {{c|2447|Liu Bang}}.
+The {{c|2441|First Emperor}} and the rebel-peasant who succeeded him.
 {{p|Legalism}} yielding to {{p|Confucian}}-{{p|Legalist}} synthesis. The {{p|Great Wall}}.
 
-The {{p|Terracotta Army}}. The {{p|Silk Road}} opening. {{c|Sima Qian}}'s
+The {{p|Terracotta Army}}. The {{p|Silk Road}} opening. {{c|2300|Sima Qian}}'s
 History. The invention of paper. The four centuries of {{p|Han}}
 Governance. The model that all subsequent {{p|Chinese}} dynasties
 Would try to match.

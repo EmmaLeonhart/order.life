@@ -3,11 +3,11 @@
 Now comes the thunder.
 
                        In the middle {{x|Jurassic}},
-When {{c|Conifera}}'s forests grew tall and the rain
+When {{c|1702|Conifera}}'s forests grew tall and the rain
 Fed the canopy to heights fantastic
 That no creature's neck had yet been able to attain—
 
-{{c|Sauropos}} answered the forest's invitation
+{{c|1740|Sauropos}} answered the forest's invitation
 By growing the longest neck in the history
 Of vertebrate life—a slow-motion escalation
 Over thirty million years, the mystery
@@ -20,7 +20,7 @@ And impossible distance—the body's flood
 Of engineering solutions that allowed
 The impossible to walk.
 
-                         {{c|Brachio}} stood
+                         {{c|1752|Brachio}} stood
 Tallest—with his front legs longer, proud
 And giraffe-like, his nostrils above the wood
 
@@ -29,7 +29,7 @@ That browsed the treetops like a grazing tower—
 Fifty tons of gentle, vegetarian reign
 Over the {{x|Jurassic}} forest's highest bower.
 
-{{c|Diplodos}} was the longest—his whip-tail
+{{c|1753|Diplodos}} was the longest—his whip-tail
 Stretched behind him like a sonic weapon,
 The crack of its tip breaking the air's veil
 Like a bullwhip—twenty-seven meters, heaven
@@ -39,10 +39,10 @@ And tail combined: more than a hundred, each
 Articulated for the flex and check
 Of the enormous body's sinuous reach.
 
-And {{c|Argentinosauros}} would come later—
+And {{c|1754|Argentinosauros}} would come later—
 The largest of them all, a hundred tons,
 The most massive land animal, the greater
-And most extreme of {{c|Sauropos}}' sons—
+And most extreme of {{c|1740|Sauropos}}' sons—
 
 But in the {{x|Jurassic}}'s middle age, the first
 Great sauropods were already shaking the earth
@@ -57,7 +57,7 @@ And hollow vertebrae that the X-ray flew
 
 Through like a cathedral's buttressed vault—
 The same bird-like respiratory system
-That {{c|Archon}} had invented—the default
+That {{c|1681|Archon}} had invented—the default
 Of the archosaur body was the prism
 
 That solved the oxygen problem: air flowed through
@@ -65,7 +65,7 @@ The lungs in one direction, not the tidal
 In-and-out of mammal breathing—new
 And efficient oxygen exchange, the bridal
 
-Gift of {{c|Archon}} to his greatest children.
+Gift of {{c|1681|Archon}} to his greatest children.
 
 How did the heart pump blood so far?—
 With a pressure that would kill a human, the buildin'
@@ -131,7 +131,7 @@ Side pylon—and the thunder of their walks
 
 Was the heartbeat of the {{x|Jurassic}} world.
 
-Honor {{c|Sauropos}}—the thunder lizards,
+Honor {{c|1740|Sauropos}}—the thunder lizards,
 The gentle giants whose banners were unfurled
 In the conifer forests, who braved the blizzards
 

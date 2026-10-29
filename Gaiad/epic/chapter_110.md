@@ -29,12 +29,12 @@ Of the flower opened wider on the lawn
 
 Of the forest floor for each visitor's touch.
 
-{{c|Tyrannos}} woke hungry—as he always did—
+{{c|1761|Tyrannos}} woke hungry—as he always did—
 And the morning's hunt began: the familiar clutch
 Of scent and sight, the tracking of the hid
 
-And browsing {{c|Ceratops}} in the scrubland,
-The patient approach through the {{c|Angios}} cover,
+And browsing {{c|1762|Ceratops}} in the scrubland,
+The patient approach through the {{c|1759|Angios}} cover,
 The calculation of the strike—no husband
 Of the energy, no careful lover
 
@@ -45,7 +45,7 @@ Of the apex predator who had learned
 
 To eat enormously and often.
 
-The {{c|Hadros}} herds moved south along the coast
+The {{c|1766|Hadros}} herds moved south along the coast
 In their annual migration, the coffin
 Of the {{x|Cretaceous}} autumn—or the toast
 
@@ -59,7 +59,7 @@ The danger-signal, the mother's low
 And resonant locator for the small
 And wandering infant in the herd's slow flow.
 
-In the inland sea, {{c|Mosas}} surfaced to breathe—
+In the inland sea, {{c|1760|Mosas}} surfaced to breathe—
 The great monitor-jawed leviathan
 Rising from the continental-shelf's wreath
 Of warm water, and the meridian
@@ -71,7 +71,7 @@ Before he dove again to the deeper theaters
 
 Of his hunting.
 
-                {{c|Plesios}} hunted deeper still—
+                {{c|1742|Plesios}} hunted deeper still—
 The four-flippered flier of the underwater,
 Her long neck sweeping with the ancient skill
 Of the sauropterygian's patient slaughter
@@ -84,7 +84,7 @@ Of the hunting plesiosaur's career
 Unchanged since the {{x|Jurassic}} dawn.
 
 And in the evening—the very last—
-The {{c|Mammos}} in his burrow looked upon
+The {{c|1743|Mammos}} in his burrow looked upon
 The setting sun and heard the vast
 
 And ordinary night begin: the insects

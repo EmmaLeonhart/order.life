@@ -12,7 +12,7 @@ A Monday.
 The feast is not the trains.
 The thanks for labor is not the trains.
 
-In February 1984 {{c|Chizuo Matsumoto}}
+In February 1984 {{c|4487|Chizuo Matsumoto}}
 Began a circle.
 He called it {{x|Aum Shinsen no Kai}}.
 It was a practice of yoga, in {{p|Tokyo}}.
@@ -21,7 +21,7 @@ The {{x|English}} often says {{x|Supreme Truth}}.
 The Japanese name is a teaching of truth, and a syllable
 A tradition already chanted.
 Do not treat the {{x|English}} as those words.
-He set beside the syllable the god {{c|Shiva}},
+He set beside the syllable the god {{c|1340|Shiva}},
 Whom another tradition already served,
 And an end a Christian book had already named.
 A joining of what was already there is not yet a crime.
@@ -35,9 +35,9 @@ A legal person is not the man,
 And it is not the people who would die.
 
 In November 1989, in {{p|Yokohama}},
-Members of the group killed {{c|Tsutsumi Sakamoto}},
-A lawyer, and his wife {{c|Satoko Sakamoto}},
-And their son {{c|Tatsuhiko Sakamoto}}, a year old.
+Members of the group killed {{c|4488|Tsutsumi Sakamoto}},
+A lawyer, and his wife {{c|4489|Satoko Sakamoto}},
+And their son {{c|4490|Tatsuhiko Sakamoto}}, a year old.
 The bodies were not found until September of the year
 The trains were attacked.
 A child is not a doctrine.
@@ -64,7 +64,7 @@ Do not make one station the whole of the harm.
 They punctured bags of liquid sarin with the sharpened tips of umbrellas.
 Fourteen died, the last of them in twenty-twenty, after twenty-five years in a bed.
 About six thousand were injured.
-The {{c|Sakamoto}} family and the dead of the trains are kept by name in this calendar.
+The {{c|4491|Sakamoto}} family and the dead of the trains are kept by name in this calendar.
 
 Two days later the police raided
 The offices in the city and the compound
@@ -75,7 +75,7 @@ In a hidden room of the sixth building,
 They found him.
 The hour the reports give is a quarter to ten.
 He was arrested on the charge of the murders.
-In the group he was called {{c|Shoko Asahara}}.
+In the group he was called {{c|4492|Shoko Asahara}}.
 The two names are one man.
 An arrest is not a sentence.
 The sentence of a later court is not this Tuesday.

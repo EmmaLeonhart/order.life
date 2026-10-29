@@ -10,8 +10,8 @@ The year is not that year.
 A posting is not a city.
 
 In March 1989, at the laboratory by {{p|Geneva}},
-{{c|Tim Berners-Lee}} gave his supervisor a proposal.
-{{c|Mike Sendall}} wrote on it.
+{{c|4480|Tim Berners-Lee}} gave his supervisor a proposal.
+{{c|4481|Mike Sendall}} wrote on it.
 The words were vague but exciting.
 The proposal asked for a linked system,
 General, and able to be carried,
@@ -24,7 +24,7 @@ And the links in it did not leave the machine.
 A link that cannot leave is not this notice.
 
 In May 1990 he circulated the proposal again.
-In October he and {{c|Robert Cailliau}} reformulated it.
+In October he and {{c|4482|Robert Cailliau}} reformulated it.
 He chose a name.
 The names he set aside were {{x|Information Mesh}},
 The {{x|Mine of Information}}, and the {{x|Information Mine}}.
@@ -51,7 +51,7 @@ The page was a page about the project.
 He wrote that by {{x|Christmas}} the browsers could be shown.
 {{x|Christmas}} is not the twentieth.
 Do not make them one morning.
-{{c|Nicola Pellow}}, a student, had begun in November
+{{c|4483|Nicola Pellow}}, a student, had begun in November
 A browser for a line at a time.
 His own program ran on his machine.
 Hers ran where his did not.
@@ -93,8 +93,8 @@ To the twelfth of December, a Thursday.
 This chapter keeps the laboratory's day.
 On the thirteenth he wrote that an experimental server
 Was there for a database of physics papers,
-And he named {{c|Terry Hung}}, {{c|Paul Kunz}},
-And {{c|Louise Addis}}.
+And he named {{c|4484|Terry Hung}}, {{c|4485|Paul Kunz}},
+And {{c|4486|Louise Addis}}.
 The town is one this book has already named,
 For two letters, in another October.
 The laboratory is not that room.

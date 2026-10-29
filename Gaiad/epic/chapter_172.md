@@ -1,14 +1,14 @@
 # Chapter 172: Classical Greece, Part Two
 
 Return now to {{p|Greece}}, where we left it at the end of the
-{{p|Persian Wars}}. The invasions of {{c|Darius}} and {{c|Xerxes}} have been
+{{p|Persian Wars}}. The invasions of {{c|2287|Darius}} and {{c|1985|Xerxes}} have been
 Defeated. The {{p|Greek}} city-states, against unreasonable odds, have
 Preserved their independence. And now, in the victorious glow,
 
 {{p|Athens}} rises to a cultural ascendancy the world had not seen
 Before and has rarely matched since. The fifth century BCE. The
-Age of {{c|Pericles}}. The age of the great tragedians. The age of the
-{{c|Sophists}} and {{c|Socrates}}. The age in which democracy, drama,
+Age of {{c|2231|Pericles}}. The age of the great tragedians. The age of the
+{{c|2357|Sophists}} and {{c|2232|Socrates}}. The age in which democracy, drama,
 
 Philosophy, and history became what they have remained.
 
@@ -17,7 +17,7 @@ Emerged from the {{p|Persian Wars}} with enormous prestige. The naval
 Victory at {{p|Salamis}} had been principally an {{p|Athenian}} victory—the
 
 {{p|Athenian}} fleet was the largest contingent, commanded by the
-{{p|Athenian}} {{c|Themistocles}}. {{p|Athens}} also had the distinction of being
+{{p|Athenian}} {{c|2246|Themistocles}}. {{p|Athens}} also had the distinction of being
 The only major {{p|Greek}} city that had been physically destroyed by
 The {{p|Persians}} (their first acts on return were to rebuild their
 
@@ -56,7 +56,7 @@ Experienced the most concentrated cultural efflorescence the
 World had yet seen. The democratic constitution, reformed and
 Extended, reached its most developed form under the leadership
 
-Of {{c|Pericles}}. Male citizens—perhaps fifty thousand in a city of
+Of {{c|2231|Pericles}}. Male citizens—perhaps fifty thousand in a city of
 Perhaps three hundred thousand total inhabitants—participated
 Directly in the {{x|Assembly}}, served on juries, held public office
 By lot. The {{x|Assembly}} met regularly on the {{p|Pnyx}} hill, where any
@@ -68,17 +68,17 @@ Hundreds strong. Financial oversight, foreign policy, military
 
 Strategy—all these were debated in public assembly and decided
 By majority vote. The system was radical and, by the standards
-Of most human political systems, surprisingly stable. {{c|Pericles}}
+Of most human political systems, surprisingly stable. {{c|2231|Pericles}}
 Himself was elected general ({{p|strategos}}) year after year for
 
 Decades, giving him continuous leadership despite the formal
 Constraints of democracy. His funeral oration for {{p|Athenian}} war
-Dead, preserved by {{c|Thucydides}} (possibly in reconstructed form),
+Dead, preserved by {{c|2228|Thucydides}} (possibly in reconstructed form),
 Is one of the supreme articulations of democratic ideology ever
 
 Composed. "Our constitution is called a democracy because power
 Is in the hands not of a minority but of the whole people." The
-{{c|Periclean}} vision was of a city in which free citizens, governed
+{{c|2358|Periclean}} vision was of a city in which free citizens, governed
 By laws they themselves had made, engaged openly in public life,
 
 Celebrated beauty and culture, and defended their freedom against
@@ -103,93 +103,93 @@ Plays that would be performed once and (if they were lucky)
 Awarded a prize. The competitive structure produced extraordinary
 
 Artistic energy. Out of this system came the three great tragedians
-Whose work survives: {{c|Aeschylus}}, {{c|Sophocles}}, and {{c|Euripides}}. Each
+Whose work survives: {{c|2224|Aeschylus}}, {{c|2225|Sophocles}}, and {{c|2226|Euripides}}. Each
 Represents a different stage and sensibility in the development
-Of {{p|Greek}} drama. {{c|Aeschylus}} (five-twenty-five to four-fifty-six
+Of {{p|Greek}} drama. {{c|2224|Aeschylus}} (five-twenty-five to four-fifty-six
 
 BCE), the earliest, wrote plays of mythic grandeur in which the
 Characters are larger than life and the themes cosmic. His
 {{p|Oresteia}} trilogy—{{p|Agamemnon}}, {{p|Libation Bearers}}, {{p|Eumenides}}—
 Is the only complete tragic trilogy to survive from antiquity.
 
-It tells the story of the {{p|House of Atreus}}: {{c|Agamemnon}}'s return
-From {{p|Troy}}, his murder by his wife {{c|Clytemnestra}}, the revenge of
-Their son {{c|Orestes}}, and finally the trial of {{c|Orestes}} before a
-Court established by the goddess {{c|Athena}} to resolve the blood-
+It tells the story of the {{p|House of Atreus}}: {{c|1337|Agamemnon}}'s return
+From {{p|Troy}}, his murder by his wife {{c|1336|Clytemnestra}}, the revenge of
+Their son {{c|2359|Orestes}}, and finally the trial of {{c|2359|Orestes}} before a
+Court established by the goddess {{c|1995|Athena}} to resolve the blood-
 
 Vengeance cycle. The trilogy ends with the transformation of the
-{{c|Furies}} into the {{c|Eumenides}} ("the kindly ones"), marking the
+{{c|2360|Furies}} into the {{c|2361|Eumenides}} ("the kindly ones"), marking the
 Founding of civic justice to replace tribal revenge. It is a
 Meditation on the evolution of human civilization itself, from
 
-Primal retribution to institutional law. {{c|Sophocles}} (four-ninety-six
+Primal retribution to institutional law. {{c|2225|Sophocles}} (four-ninety-six
 To four-oh-six BCE), the middle tragedian, wrote plays in which
 Individual characters of extraordinary moral weight struggle
 Against inexorable fate. His seven surviving plays include
 
 {{p|Oedipus Rex}}, {{p|Oedipus at Colonus}}, {{p|Antigone}}, and {{p|Electra}}. The
-Figure of {{c|Oedipus}}—the king who solved the riddle of the {{c|Sphinx}}
+Figure of {{c|2362|Oedipus}}—the king who solved the riddle of the {{c|2363|Sphinx}}
 But was blind to the riddle of his own life, who had murdered
 His father and married his mother without knowing it, who
 
 Discovered the truth and blinded himself in horror—is one of the
-Permanent archetypes of {{p|Western}} tragedy. {{c|Sigmund Freud}} would,
-In the twentieth century CE, adopt {{c|Oedipus}}'s name for the
+Permanent archetypes of {{p|Western}} tragedy. {{c|2364|Sigmund Freud}} would,
+In the twentieth century CE, adopt {{c|2362|Oedipus}}'s name for the
 Central complex of his psychological theory. The figure is that
 
-Powerful. {{c|Antigone}}, who defies the king's decree in order to
+Powerful. {{c|2365|Antigone}}, who defies the king's decree in order to
 Bury her brother according to divine law, embodies the conflict
 Between political authority and moral conscience in a form that
 Has never been surpassed. She is one of the great heroes of
 
 Civil disobedience, an ancestor of every subsequent figure who
 Has insisted that there is a higher law than the law of the state.
-{{c|Euripides}} (four-eighty to four-oh-six BCE), the youngest, wrote
+{{c|2226|Euripides}} (four-eighty to four-oh-six BCE), the youngest, wrote
 Plays that were more psychologically modern, more skeptical of
 
 Traditional values, more concerned with the suffering of marginal
 Characters—women, slaves, the defeated. His {{p|Medea}}, {{p|Bacchae}},
 {{p|Trojan Women}}, and {{p|Hippolytus}} are harrowing examinations of
-Human passion and institutional violence. {{c|Euripides}} was less
+Human passion and institutional violence. {{c|2226|Euripides}} was less
 
-Popular in his own time than {{c|Sophocles}} but came to be regarded
+Popular in his own time than {{c|2225|Sophocles}} but came to be regarded
 In later antiquity as perhaps the greatest of the three. His
 Willingness to show ugly emotions, to question pieties, to give
 Voice to the voiceless, made him a model for subsequent dramatic
 
 Traditions. Together, these three playwrights established the
-Terms of tragic drama. Every subsequent tragedy—{{c|Shakespeare}}'s,
-{{c|Racine}}'s, {{c|Ibsen}}'s, {{c|O'Neill}}'s—stands in relation to them. The
+Terms of tragic drama. Every subsequent tragedy—{{c|2195|Shakespeare}}'s,
+{{c|2366|Racine}}'s, {{c|2367|Ibsen}}'s, {{c|2368|O'Neill}}'s—stands in relation to them. The
 Category of tragedy itself as a literary form is their invention.
 
-And alongside tragedy, comedy. {{c|Aristophanes}} (four-forty-six to
+And alongside tragedy, comedy. {{c|2227|Aristophanes}} (four-forty-six to
 Three-eighty-six BCE) wrote comedies of savage political satire
 And bawdy humor that are as alive today as anything from antiquity.
 His {{p|Lysistrata}}, in which the women of {{p|Athens}} refuse sexual
 
 Relations with their husbands until the men stop fighting the
 {{p|Peloponnesian War}}, has been revived countless times as an
-Anti-war statement. His {{p|Clouds}} savagely mocks {{c|Socrates}} and the
-{{p|Sophists}}, presenting {{c|Socrates}} as a ridiculous charlatan floating
+Anti-war statement. His {{p|Clouds}} savagely mocks {{c|2232|Socrates}} and the
+{{p|Sophists}}, presenting {{c|2232|Socrates}} as a ridiculous charlatan floating
 
 In a basket and teaching his students to make the worse argument
-Seem better. The play is unfair to {{c|Socrates}} but brilliantly
-Funny, and {{c|Socrates}}, for what it is worth, attended the premiere
+Seem better. The play is unfair to {{c|2232|Socrates}} but brilliantly
+Funny, and {{c|2232|Socrates}}, for what it is worth, attended the premiere
 And stood up in the audience so the crowd could compare the
 
-Real philosopher to {{c|Aristophanes}}'s caricature. It is the kind
+Real philosopher to {{c|2227|Aristophanes}}'s caricature. It is the kind
 Of anecdote that captures {{p|Athens}} at its most characteristic:
 Intensely public, intellectually ferocious, with playwrights and
 Philosophers all part of the same small, argumentative city.
 
                                                                    And
-Sculpture and architecture. {{c|Phidias}}, the supreme sculptor of the
-Age, executed the {{c|Athena Parthenos}} for the {{p|Parthenon}}—a forty-
+Sculpture and architecture. {{c|2229|Phidias}}, the supreme sculptor of the
+Age, executed the {{c|2369|Athena Parthenos}} for the {{p|Parthenon}}—a forty-
 Foot gold-and-ivory statue of the goddess holding a smaller figure
 
-Of {{c|Nike}} in her hand. The statue is lost, but descriptions and
-Small replicas survive. He also sculpted the {{c|Zeus}} at {{p|Olympia}},
-One of the seven wonders of the ancient world. {{c|Phidias}}'s
+Of {{c|2370|Nike}} in her hand. The statue is lost, but descriptions and
+Small replicas survive. He also sculpted the {{c|2065|Zeus}} at {{p|Olympia}},
+One of the seven wonders of the ancient world. {{c|2229|Phidias}}'s
 Students and imitators produced much of the sculptural work that
 
 Has come to define {{p|Greek}} classical art: the balance of idealized
@@ -197,8 +197,8 @@ Beauty and restrained emotion, the sense of bodies as mathematically
 Perfect yet infused with vital presence. The {{p|Parthenon}} itself,
 Built on the {{p|Acropolis}} between four-forty-seven and four-thirty-two
 
-BCE under {{c|Pericles}}'s sponsorship, designed by {{c|Ictinus}} and {{c|Callicrates}}
-With sculptural supervision by {{c|Phidias}}, was the supreme
+BCE under {{c|2231|Pericles}}'s sponsorship, designed by {{c|2230|Ictinus}} and {{c|2371|Callicrates}}
+With sculptural supervision by {{c|2229|Phidias}}, was the supreme
 Architectural achievement of classical antiquity. Its Doric
 Columns, subtly curved to correct optical distortions, its
 
@@ -212,7 +212,7 @@ The symmetrical pediment, the mathematical harmony of proportions—
 All of this became the vocabulary of {{p|Western}} monumental building.
 Courthouses, museums, banks, legislative buildings—the form
 
-Invented by {{c|Ictinus}} on the {{p|Acropolis}} would be replicated in
+Invented by {{c|2230|Ictinus}} on the {{p|Acropolis}} would be replicated in
 {{p|Washington}}, {{p|London}}, {{p|Paris}}, and everywhere else that aspired
 To classical dignity. The {{p|Parthenon}} was not just a building. It
 Was a template.
@@ -223,9 +223,9 @@ The second half of the fifth century BCE, philosophy took a
 New turn. The {{p|Sophists}}—traveling teachers of rhetoric and
 
 Wisdom—came to {{p|Athens}} and offered instruction for fees. Men like
-{{c|Protagoras of Abdera}} (famous for declaring "Man is the measure
-Of all things"—a relativist proposition), {{c|Gorgias of Leontini}} (a
-Brilliant rhetorician), and {{c|Hippias of Elis}} (a polymath) taught
+{{c|2372|Protagoras of Abdera}} (famous for declaring "Man is the measure
+Of all things"—a relativist proposition), {{c|2373|Gorgias of Leontini}} (a
+Brilliant rhetorician), and {{c|2374|Hippias of Elis}} (a polymath) taught
 
 Wealthy young {{p|Athenians}} the techniques of public speaking and
 Argument that were essential for political success in the
@@ -237,8 +237,8 @@ Whatever you can make people accept) made them seem morally
 Dubious. Their fees made them seem mercenary. And their radical
 Philosophical positions—especially the relativism and skepticism
 
-Of {{c|Protagoras}}—challenged traditional values. Into this intellectual
-Ferment stepped {{c|Socrates}}. {{c|Socrates}} (four-seventy to three-ninety-nine
+Of {{c|2375|Protagoras}}—challenged traditional values. Into this intellectual
+Ferment stepped {{c|2232|Socrates}}. {{c|2232|Socrates}} (four-seventy to three-ninety-nine
 BCE) was an {{p|Athenian}} citizen, apparently of modest means, who
 Spent his days engaging other citizens in philosophical conversation
 
@@ -250,7 +250,7 @@ A kind of wisdom that his interlocutors usually lacked. His
 Method was dialogue: he would ask seemingly innocent questions
 About important topics (what is justice? what is courage? what is
 Piety?), and his interlocutors would confidently offer definitions,
-And {{c|Socrates}} would then examine those definitions until their
+And {{c|2232|Socrates}} would then examine those definitions until their
 
 Inadequacies were exposed. The interlocutor, initially confident
 Of his knowledge, would come to realize that he did not know
@@ -260,7 +260,7 @@ It is one of the most influential pedagogical techniques ever
 Developed. It assumes that genuine knowledge is rare, that most
 Human "knowledge" is actually uncritical opinion, and that the
 Path to real understanding requires rigorous examination of our
-Beliefs. {{c|Socrates}} took this method as a divine mission. He
+Beliefs. {{c|2232|Socrates}} took this method as a divine mission. He
 
 Believed he had been charged by the gods with the task of examining
 Himself and others, helping them to recognize their ignorance
@@ -269,7 +269,7 @@ This mission relentlessly for decades. In the process, he made
 
 Many enemies. The politically powerful did not enjoy being publicly
 Exposed as ignorant. The pious did not enjoy having their religious
-Assumptions questioned. In three-ninety-nine BCE, {{c|Socrates}} was
+Assumptions questioned. In three-ninety-nine BCE, {{c|2232|Socrates}} was
 Formally charged with impiety (failing to worship the proper gods
 
 And introducing new gods) and with corrupting the youth of {{p|Athens}}.
@@ -280,7 +280,7 @@ Philosophical mission was a gift to the city. The jury, unimpressed,
 Found him guilty. When asked what penalty he should receive, he
 Suggested that the city should honor him at public expense for
 The services he had rendered. The jury sentenced him to death by
-Hemlock. His trial and execution, described in {{c|Plato}}'s {{p|Apology}},
+Hemlock. His trial and execution, described in {{c|2376|Plato}}'s {{p|Apology}},
 
 {{p|Crito}}, and {{p|Phaedo}}, became one of the foundational narratives
 Of {{p|Western}} intellectual history. The philosopher, calmly drinking
@@ -288,40 +288,40 @@ Poison rather than abandoning his mission, became the archetype
 Of the thinker who will die for truth. His final words, as he
 
 Felt the hemlock's numbness climbing his legs, were reportedly
-A request that his friend {{c|Crito}} pay a small debt: "{{c|Crito}}, we
-Owe a rooster to {{c|Asclepius}}. Pay it, don't forget." A pedestrian
+A request that his friend {{c|2377|Crito}} pay a small debt: "{{c|2377|Crito}}, we
+Owe a rooster to {{c|2378|Asclepius}}. Pay it, don't forget." A pedestrian
 Comment, perhaps, but somehow perfect—the philosopher's last
 
 Thought was of a routine obligation, not of himself.
 
-                                                         {{c|Socrates}}
+                                                         {{c|2232|Socrates}}
 Wrote nothing. What we know of him comes primarily from two of
-His students: {{c|Plato}} and {{c|Xenophon}}. {{c|Plato}} (four-twenty-seven to
+His students: {{c|2376|Plato}} and {{c|2379|Xenophon}}. {{c|2376|Plato}} (four-twenty-seven to
 
 Three-forty-seven BCE) was by far the more philosophically
 Significant. He founded the {{p|Academy}}—the first institution we
 Might call a university—and wrote dozens of philosophical dialogues
-In which {{c|Socrates}} typically appears as the main speaker. The
+In which {{c|2232|Socrates}} typically appears as the main speaker. The
 
-Relationship between the historical {{c|Socrates}} and {{c|Plato}}'s literary
-{{c|Socrates}} is debated; in the earlier dialogues {{c|Plato}} probably
+Relationship between the historical {{c|2232|Socrates}} and {{c|2376|Plato}}'s literary
+{{c|2232|Socrates}} is debated; in the earlier dialogues {{c|2376|Plato}} probably
 Preserves his teacher's views, while in later dialogues he uses
-The figure of {{c|Socrates}} to present his own developed philosophy.
+The figure of {{c|2232|Socrates}} to present his own developed philosophy.
 
-{{c|Plato}}'s philosophical system—the theory of the forms, the tripartite
+{{c|2376|Plato}}'s philosophical system—the theory of the forms, the tripartite
 Soul, the philosopher-king, the immortality of the soul—is one of
 The most influential in human history. It would shape {{p|Neoplatonism}},
 {{p|Christian}} theology, {{p|Islamic}} philosophy, and countless later
 
-Intellectual movements. {{c|Alfred North Whitehead}}, in the twentieth
+Intellectual movements. {{c|2380|Alfred North Whitehead}}, in the twentieth
 Century CE, famously remarked that all subsequent {{p|Western}}
-Philosophy is "a series of footnotes to {{c|Plato}}"—an overstatement,
-But capturing something important. And {{c|Plato}}'s student {{c|Aristotle}}
+Philosophy is "a series of footnotes to {{c|2376|Plato}}"—an overstatement,
+But capturing something important. And {{c|2376|Plato}}'s student {{c|1081|Aristotle}}
 
-(Three-eighty-four to three-twenty-two BCE) would take {{c|Plato}}'s
+(Three-eighty-four to three-twenty-two BCE) would take {{c|2376|Plato}}'s
 Philosophical project in a different direction, more empirical,
 More systematic, more concerned with the study of concrete things
-Rather than abstract forms. {{c|Aristotle}}'s treatises on logic, physics,
+Rather than abstract forms. {{c|1081|Aristotle}}'s treatises on logic, physics,
 
 Biology, psychology, ethics, politics, rhetoric, and poetics would
 Define the disciplines of philosophy and science for nearly two
@@ -330,20 +330,20 @@ Call him simply "the Philosopher." His works, preserved and
 
 Transmitted through {{p|Byzantine}} and {{p|Arabic}} scholars, would shape
 The intellectual revival of medieval {{p|Europe}}. He would be student,
-In turn, to {{c|Alexander the Great}}—linking the philosophical tradition
-Of {{c|Socrates}} directly to the {{p|Macedonian}} conquest that would spread
+In turn, to {{c|2381|Alexander the Great}}—linking the philosophical tradition
+Of {{c|2232|Socrates}} directly to the {{p|Macedonian}} conquest that would spread
 
 {{p|Hellenistic}} culture across three continents. But we are, again,
 Getting ahead of ourselves. In the span of this chapter, the
-Classical age is still unfolding. We will return to {{c|Aristotle}} and
-{{c|Alexander}} in the next chapter.
+Classical age is still unfolding. We will return to {{c|1081|Aristotle}} and
+{{c|1982|Alexander}} in the next chapter.
 
                                    And meanwhile, the {{p|Peloponnesian War}}.
 The tensions between {{p|Athens}} and {{p|Sparta}} that had been building
 For decades finally exploded in four-thirty-one BCE. For the next
 Twenty-seven years, the {{p|Greek}} world was convulsed by war.
 
-{{c|Pericles}} died of plague in four-twenty-nine BCE, leaving {{p|Athens}}
+{{c|2231|Pericles}} died of plague in four-twenty-nine BCE, leaving {{p|Athens}}
 Without strategic leadership in the war's middle phase. {{p|Athens}}
 Made disastrous military blunders—most catastrophically the
 {{p|Sicilian Expedition}} of four-fifteen to four-thirteen BCE, in
@@ -361,7 +361,7 @@ Though democracy was soon restored. The {{p|Athenian}} empire ended.
 This war. The {{p|Greek}} cities would never again be so powerful or
 So creative. They would eventually fall under the rule of
 {{p|Macedon}} to the north. And while some later cultural achievements
-Would still come—{{c|Aristotle}}'s work, the {{p|Hellenistic}} diffusion
+Would still come—{{c|1081|Aristotle}}'s work, the {{p|Hellenistic}} diffusion
 
 Of {{p|Greek}} culture—the specifically classical city-state
 Civilization was over. Its distinctive creativity had been the
@@ -376,11 +376,11 @@ Cultural achievements than any other comparable period in human
 History. And then it was gone.
 
                                      Classical {{p|Greece}}, part two.
-The {{p|Delian League}} and the {{p|Athenian Empire}}. {{c|Pericles}}'s
-Leadership. {{c|Aeschylus}}, {{c|Sophocles}}, {{c|Euripides}}, {{c|Aristophanes}}—
+The {{p|Delian League}} and the {{p|Athenian Empire}}. {{c|2231|Pericles}}'s
+Leadership. {{c|2224|Aeschylus}}, {{c|2225|Sophocles}}, {{c|2226|Euripides}}, {{c|2227|Aristophanes}}—
 
-The great playwrights. {{c|Phidias}} and the {{p|Parthenon}}. The {{p|Sophists}}
-And {{c|Socrates}}. {{c|Plato}} and the {{p|Academy}}. {{c|Aristotle}} in the wings.
+The great playwrights. {{c|2229|Phidias}} and the {{p|Parthenon}}. The {{p|Sophists}}
+And {{c|2232|Socrates}}. {{c|2376|Plato}} and the {{p|Academy}}. {{c|1081|Aristotle}} in the wings.
 The {{p|Peloponnesian War}} that destroyed everything. The supreme
 Concentration of cultural achievement in one small city in one
 

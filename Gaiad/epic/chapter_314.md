@@ -1,16 +1,16 @@
 # Chapter 314: Finite Means
 
-On the twenty-third of June, 1912, {{c|Alan Turing}} was born in {{p|London}}.
+On the twenty-third of June, 1912, {{c|4193|Alan Turing}} was born in {{p|London}}.
 He was a fellow of {{p|King's College}}, in {{p|Cambridge}}.
 The work of this chapter was done there.
 
-{{c|David Hilbert}} had asked a question of method.
+{{c|4365|David Hilbert}} had asked a question of method.
 Is there a definite procedure which, given a statement of the logic,
 Answers yes or no: this statement has a proof, or it has none.
 The procedure would have to work for every statement.
 A cleverness that sometimes arrives is not the thing he asked for.
 
-{{c|Turing}} defined a number a machine can write.
+{{c|4195|Turing}} defined a number a machine can write.
 A computable number, he said, is a real number
 Whose decimals are calculable by finite means.
 The means are a table.
@@ -50,18 +50,18 @@ Both parts are of that year.
 A correction was printed in the next volume.
 He had not handed them a flawless text.
 
-{{c|Alonzo Church}}, at {{p|Princeton}},
+{{c|4366|Alonzo Church}}, at {{p|Princeton}},
 Had already set down another definition.
 Effective calculability, he called it.
 It is not a tape.
 In the spring of 1936 he had reached the same refusal:
 There is no general procedure for the decision problem.
-{{c|Max Newman}}, at {{p|Cambridge}}, had seen {{c|Church}}'s paper.
-{{c|Turing}} wrote an appendix.
+{{c|4367|Max Newman}}, at {{p|Cambridge}}, had seen {{c|4368|Church}}'s paper.
+{{c|4195|Turing}} wrote an appendix.
 The appendix says the two definitions meet.
 He did not pretend the limit was his private finding.
 
-What he showed is that {{c|Hilbert}}'s question has no such procedure.
+What he showed is that {{c|4369|Hilbert}}'s question has no such procedure.
 No machine takes every statement and returns the verdict.
 He also showed a nearer limit, about the machines themselves.
 Some of them go on writing digits.
@@ -76,11 +76,11 @@ The printed paper names him at the {{p|Graduate College}} there.
 The naming is the place he had reached.
 It is not the place where the table was made.
 
-In 1931 {{c|Kurt Gödel}} had shown
+In 1931 {{c|4370|Kurt Gödel}} had shown
 That a system strong enough to hold ordinary arithmetic
 Contains true sentences it cannot prove.
 That is a limit inside one set of rules.
-{{c|Turing}}'s limit is about the method itself.
+{{c|4195|Turing}}'s limit is about the method itself.
 It asks whether any method exists that will always answer.
 The two limits are not the same fact.
 Do not fold them into one darkness.

@@ -6,7 +6,7 @@ Or the dramatic way of the whale's rebirth
 In the ocean—but in the significant
 
 And overwhelming way of the small
-And the many: {{c|Rodens}}, the gnawer,
+And the many: {{c|1807|Rodens}}, the gnawer,
 Whose children number more than all
 Other mammals combined—the drawer
 
@@ -71,8 +71,8 @@ The culling by the simple merit
 Of having more babies than the predator
 Has appetite.
 
-                  {{c|Castoros}}—the beaver—
-Was {{c|Rodens}}' greatest engineer: the editor
+                  {{c|1808|Castoros}}—the beaver—
+Was {{c|1807|Rodens}}' greatest engineer: the editor
 Of landscapes, the dam-builder, the beaver
 
 Who felled the tree with the incisor's
@@ -97,7 +97,7 @@ Of leaf and sediment, the frontier's
 
 Most fertile ground.
 
-                     {{c|Sciuros}}—the squirrel—
+                     {{c|1809|Sciuros}}—the squirrel—
 Was the arboreal acrobat, the one
 Who buried acorns and forgot the referral
 Of where he put them—and the undone
@@ -114,7 +114,7 @@ With the tree—the accidental stash
 
 That grows a forest.
 
-                      And {{c|Rattus}}—
+                      And {{c|1810|Rattus}}—
 The rat, the ultimate adapter,
 Who followed the human into the lattice
 Of the city and became the after-
@@ -126,7 +126,7 @@ Of the rat applied to the taste
 
 Of whatever the human threw away.
 
-Honor {{c|Rodens}}—the gnawer, the small,
+Honor {{c|1807|Rodens}}—the gnawer, the small,
 The many—who proved that every day
 The meek inherit after all:
 

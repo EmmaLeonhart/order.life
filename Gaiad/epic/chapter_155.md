@@ -43,7 +43,7 @@ And cultural sense, with no racial implications.
 
                                                         So: around
 Fifteen-hundred BCE, give or take a century or two, a migration of
-{{c|R1a}}-haplogroup {{p|Indo-Iranian}}-speaking peoples began moving
+{{c|1928|R1a}}-haplogroup {{p|Indo-Iranian}}-speaking peoples began moving
 
 South from their homeland in the {{p|Central Asian}} steppes (the
 {{p|Bactria-Margiana Archaeological Complex}}, or {{p|BMAC}}, was probably
@@ -95,9 +95,9 @@ Incoming {{p|Indo-Aryans}} were not a massive invasion force but a
 Gradual trickle of migrating populations over several centuries.
 Genetic studies show substantial admixture, not replacement—the
 {{p|Indian}} population today is a blend of pre-{{p|Aryan}} ancestry (primarily
-{{c|H}}, {{c|L}}, {{c|R2a}}, and other haplogroups associated with the {{p|Indus
+{{c|1874|H}}, {{c|1878|L}}, {{c|2061|R2a}}, and other haplogroups associated with the {{p|Indus
 
-Valley}} populations) and {{p|Aryan}} ancestry ({{c|R1a}}-M417, with its
+Valley}} populations) and {{p|Aryan}} ancestry ({{c|1928|R1a}}-M417, with its
 Characteristic steppe-pastoralist signature). The mixing happened.
 It was not an extermination. It was not even really a conquest in
 The traditional military sense. It was a long, complex, mutually
@@ -111,45 +111,45 @@ Encounter produced what became classical {{p|Hindu}} civilization. The
 Approximately fifteen-hundred and twelve-hundred BCE in the
 {{p|Punjab}} and upper {{p|Ganges}} region—are the oldest surviving
 {{x|Indo-European}} religious texts. They preserve the {{p|Aryan}} religious
-Imagination in its most archaic form: sky-father {{c|Dyaus}}, storm-god
+Imagination in its most archaic form: sky-father {{c|2062|Dyaus}}, storm-god
 
-{{c|Indra}}, fire-god {{c|Agni}}, soma-intoxication ritual, horse sacrifice,
+{{c|2063|Indra}}, fire-god {{c|2064|Agni}}, soma-intoxication ritual, horse sacrifice,
 Elaborate priestly hymns addressed to an array of celestial and
 Atmospheric deities. The {{p|Vedic}} religion is recognizably {{p|Indo-
 European}}—the same pantheon structure as {{p|Greek}}, {{p|Roman}}, and
 
-{{p|Germanic}} religion, just with different names for the gods. {{c|Dyaus}}
-Is the same as {{c|Zeus}} and {{c|Jupiter}} and {{c|Tyr}} ({{p|German}})—all
+{{p|Germanic}} religion, just with different names for the gods. {{c|2062|Dyaus}}
+Is the same as {{c|2065|Zeus}} and {{c|101|Jupiter}} and {{c|2066|Tyr}} ({{p|German}})—all
 Descended from {{x|Proto-Indo-European}} {{p|Dyeus Phter}} ("sky father").
-{{c|Indra}} is cognate with the {{x|Greek}} {{c|Heracles}} in his storm-god
+{{c|2063|Indra}} is cognate with the {{x|Greek}} {{c|2067|Heracles}} in his storm-god
 
 Aspects. The {{p|Vedas}} are {{p|Aryan}} religion in its pure form.
 
 But even within the {{p|Rig Veda}}, the encounter with pre-{{p|Aryan}}
-Populations is visible. The hymns mention "{{c|Dasyus}}" and "{{c|Dasas}}"—
+Populations is visible. The hymns mention "{{c|2068|Dasyus}}" and "{{c|2069|Dasas}}"—
 The indigenous peoples the {{p|Aryans}} encountered—sometimes as
 
 Enemies but often as subjects, servants, and fellow participants
 In {{p|Indian}} society. Some {{p|Aryan}} deities show syncretic features
-That suggest influence from pre-{{p|Aryan}} religious traditions. {{c|Rudra}}
+That suggest influence from pre-{{p|Aryan}} religious traditions. {{c|2070|Rudra}}
 —the wild and dangerous storm-and-mountain god who would eventually
 
-Become {{c|Shiva}}—has features that don't quite fit the standard
-{{p|Indo-European}} pantheon. {{c|Rudra}}/{{c|Shiva}} is probably, in part, a
+Become {{c|1340|Shiva}}—has features that don't quite fit the standard
+{{p|Indo-European}} pantheon. {{c|2070|Rudra}}/{{c|1340|Shiva}} is probably, in part, a
 Pre-{{p|Aryan}} deity absorbed into the {{p|Vedic}} pantheon. The
-{{c|Shiva lingam}}—the iconic phallic emblem of {{c|Shiva}}-worship—may
+{{c|2071|Shiva lingam}}—the iconic phallic emblem of {{c|1340|Shiva}}-worship—may
 
 Descend from pre-{{p|Aryan}} {{p|Indus Valley}} cultic objects. (A number of
 Conical and cylindrical stone objects found at {{p|Mohenjo-daro}} and
 Other {{p|Indus Valley}} sites have been interpreted as possible early
 {{p|lingas}}, though the interpretation is not certain.) The worship
 
-Of {{c|Shiva}} is, in one reading, a pre-{{p|Aryan}} {{p|Indus Valley}} tradition
+Of {{c|1340|Shiva}} is, in one reading, a pre-{{p|Aryan}} {{p|Indus Valley}} tradition
 That survived the civilizational collapse, was absorbed into the
-Incoming {{p|Aryan}} religion as {{c|Rudra}}, and gradually grew in importance
-Until, by the classical period, {{c|Shiva}} was one of the three great
+Incoming {{p|Aryan}} religion as {{c|2070|Rudra}}, and gradually grew in importance
+Until, by the classical period, {{c|1340|Shiva}} was one of the three great
 
-Gods of {{p|Hinduism}} alongside {{c|Vishnu}} and {{c|Brahma}}. If so, then
+Gods of {{p|Hinduism}} alongside {{c|2072|Vishnu}} and {{c|48|Brahma}}. If so, then
 {{p|Hindu}} civilization is not a pure {{p|Aryan}} religious civilization—
 It is a synthesis, with {{p|Indus Valley}} elements preserved within
 {{p|Aryan}} frameworks. The continuity is real. The civilization
@@ -219,16 +219,16 @@ That became, over the following centuries, one of the most
 Spiritually and intellectually rich civilizations in human history.
 
 And the parallel with the {{p|Hyksos}} holds. Both migrations happened
-In roughly the same period. Both were {{c|R}}-haplogroup (the {{p|Hyksos}}
-Were {{c|J2}}, not {{c|R}}; I correct myself—the parallel is structural,
-Not genetic. The {{p|Hyksos}} were {{c|J2}}, the {{p|Aryans}} were {{c|R1a}}. But
+In roughly the same period. Both were {{c|1884|R}}-haplogroup (the {{p|Hyksos}}
+Were {{c|1908|J2}}, not {{c|1884|R}}; I correct myself—the parallel is structural,
+Not genetic. The {{p|Hyksos}} were {{c|1908|J2}}, the {{p|Aryans}} were {{c|1928|R1a}}. But
 
 Both were foreign populations entering an established civilization
 At roughly the same time.) Both adopted substantial elements of
 The civilizations they entered. Both were, eventually, partially
 Expelled or absorbed. The {{p|Hyksos}} would be expelled from {{p|Egypt}}
 
-By {{c|Ahmose I}} around fifteen-fifty BCE. The {{p|Aryans}} would not
+By {{c|2060|Ahmose I}} around fifteen-fifty BCE. The {{p|Aryans}} would not
 Be expelled from {{p|India}}—they would merge so thoroughly with the
 Pre-existing populations that no expulsion was possible. The
 Demographics of {{p|India}} were permanently transformed. But both
@@ -237,7 +237,7 @@ Migrations showed the same pattern: foreign arrival, partial
 Absorption, cultural transformation in both directions, and
 Lasting legacy.
 
-                   The {{p|Aryan Migration}}. The {{c|R1a}}-haplogroup
+                   The {{p|Aryan Migration}}. The {{c|1928|R1a}}-haplogroup
 Chariot-riders entering {{p|South Asia}}. The {{p|Vedic}} hymns. The
 
 Merging with {{p|Dravidian}} and pre-{{p|Aryan}} populations. The
@@ -245,7 +245,7 @@ Synthesis that became {{p|Hindu}} civilization. The {{p|Sanskrit}}
 Language tree that includes a billion modern speakers.
 The caste system as the social codification of the encounter.
 
-{{c|Shiva}} rising from pre-{{p|Aryan}} {{p|Indus}} cultic objects into
+{{c|1340|Shiva}} rising from pre-{{p|Aryan}} {{p|Indus}} cultic objects into
 A central deity of the new synthesis. The civilization that
 Would compose the {{p|Mahabharata}} and the {{p|Bhagavad Gita}} and
 The {{p|Upanishads}} is taking shape in this period.

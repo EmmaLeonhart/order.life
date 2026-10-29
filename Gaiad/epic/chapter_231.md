@@ -1,7 +1,7 @@
 # Chapter 231: Phoenicians of Zarahemla
 
 Now the epic turns its eye to the sea—
-Not the coastal creep of {{c|Lehi}}'s first
+Not the coastal creep of {{c|3402|Lehi}}'s first
 Migration, but the open and the free
 And terrifying crossing, the dispersed
 
@@ -12,10 +12,10 @@ That came from the east.
 Before the common era, the lip
 Of the {{p|Mediterranean}} disappeared behind the shears
 
-Of the {{p|Atlantic}} wind, and the {{c|Phoenician}}
+Of the {{p|Atlantic}} wind, and the {{c|3449|Phoenician}}
 Sailors—those who had already mapped
 The coasts of {{p|Africa}} by commission
-Of the pharaoh {{c|Necho}}, who had lapped
+Of the pharaoh {{c|3450|Necho}}, who had lapped
 
 The continent entire and returned
 To tell of southern stars and the sun
@@ -29,9 +29,9 @@ This time—by exile, by the fall
 Of {{p|Jerusalem}} and the contraband
 Of the refugee's desperate call
 
-To survive: when {{c|Nebuchadnezzar}}'s armies
+To survive: when {{c|2024|Nebuchadnezzar}}'s armies
 Broke the walls and burned the {{x|Temple}}
-And marched the {{c|Judean}} swarmies
+And marched the {{c|3451|Judean}} swarmies
 Into {{p|Babylon}}'s ample
 
 And humiliating captivity—
@@ -39,7 +39,7 @@ Not all were taken. Some fled south,
 Some to {{p|Egypt}}'s receptivity,
 And some—so the tradition's mouth
 
-Reports—some reached the {{c|Phoenician}} ports
+Reports—some reached the {{c|3449|Phoenician}} ports
 Of {{p|Sidon}} and of {{p|Tyre}},
 Where the greatest sailors of the ancient courts
 Still plied the maritime empire
@@ -47,18 +47,18 @@ Still plied the maritime empire
 That stretched from {{p|Carthage}} to {{p|Cornwall}}'s tin,
 From the {{p|Canary Islands}}' western edge
 To the {{p|Black Sea}}'s eastern discipline—
-The {{c|Phoenician}} net, the hedge
+The {{c|3449|Phoenician}} net, the hedge
 
 Against the known world's limits.
 
                                      And some—
-So the {{c|Mulekite}} tradition tells,
+So the {{c|3452|Mulekite}} tradition tells,
 So the {{p|Zarahemla}} record's sum
 Preserves in its fragmented parallels—
 
 Some crossed.
 
-               The {{c|Phoenician}} ship was built
+               The {{c|3449|Phoenician}} ship was built
 For the open sea: the bireme's oars
 And the square-rigged sail, the quilted
 And pitch-caulked hull that pours
@@ -66,14 +66,14 @@ And pitch-caulked hull that pours
 Through the wave-trough and the crest
 With the confidence of a thousand years
 Of shipbuilding science—the west-
-Bound {{c|Phoenician}} knew no fears
+Bound {{c|3449|Phoenician}} knew no fears
 
-That the later {{c|European}} would profess:
+That the later {{c|3401|European}} would profess:
 No flat-earth terror, no edge-of-the-world
-Delusion—the {{c|Phoenician}}'s largesse
+Delusion—the {{c|3449|Phoenician}}'s largesse
 Of navigational knowledge was unfurled
 
-Upon the stars: they sailed by {{c|Polaris}},
+Upon the stars: they sailed by {{c|3453|Polaris}},
 By the {{x|Bears}}, by the rising and the setting
 Of the constellations—the {{x|Paris}}
 Of the ancient world's maritime betting
@@ -85,7 +85,7 @@ And reliable current that the wind sends
 
 Across the ocean—the {{p|North Equatorial}}
 Current, the same conveyor that would carry
-{{c|Columbus}} two millennia later, the editorial
+{{c|2952|Columbus}} two millennia later, the editorial
 Of the ocean's physics, the ordinary
 
 And repeatable mechanics of the crossing.
@@ -95,7 +95,7 @@ From the {{p|Canary Islands}} to the glossing
 Of the {{p|Caribbean}}'s first resistance
 
 Of land is twenty-eight hundred miles—
-A {{c|Phoenician}} bireme making five
+A {{c|3449|Phoenician}} bireme making five
 Knots with favorable wind beguiles
 The passage in twenty-three days, alive
 
@@ -104,29 +104,29 @@ Of a ship provisioned for the coast
 Of {{p|Africa}}'s circumnavigation—the strange
 And lesser challenge of the post
 
-Compared to the voyage {{c|Herodotus}} records.
+Compared to the voyage {{c|2183|Herodotus}} records.
 
 And the evidence? The whispers
 Of the anomalous: the {{p|Paraíba}} accords—
 The inscription found in {{p|Brazil}}'s twisters
 
-Of jungle, {{c|Phoenician}} script on stone
+Of jungle, {{c|3449|Phoenician}} script on stone
 That scholars have debated for a century
 And a half—the genuine or the overblown
 And forged—the sedimentary
 
 Layers of controversy that the academy
-Has never settled. The {{c|Roman}} amphorae
+Has never settled. The {{c|3340|Roman}} amphorae
 Dredged from {{p|Guanabara Bay}}'s taxonomy
 Of silt—the terracotta's {{x|Hora}}
 
 And provenance disputed, the chain
 Of custody uncertain. The coca
-And tobacco traces in the {{c|Egyptian}} slain
+And tobacco traces in the {{c|3454|Egyptian}} slain
 And mummified—the mocha
 
 And the nicotine that should not be there
-If no one crossed before {{c|Columbus}},
+If no one crossed before {{c|2952|Columbus}},
 The botanical evidence that the fair
 And careful chemist's rumpus
 
@@ -136,13 +136,13 @@ Cannot easily dismiss.
 Certainty—the epic claims the kiss
 Of possibility, the flame
 
-Of the tradition that the {{c|Mulekites}}
-Preserved: that {{c|Mulek}}, son of {{c|Zedekiah}},
+Of the tradition that the {{c|3455|Mulekites}}
+Preserved: that {{c|3456|Mulek}}, son of {{c|2271|Zedekiah}},
 The last king of {{p|Judah}} whose plights
 And fall to {{p|Babylon}} lit the fire
 
-Of the diaspora—that {{c|Mulek}} escaped,
-That {{c|Phoenician}} sailors bore him west,
+Of the diaspora—that {{c|3456|Mulek}} escaped,
+That {{c|3449|Phoenician}} sailors bore him west,
 That the voyage shaped and reshaped
 The refugee into the guest
 
@@ -151,8 +151,8 @@ On the coast of {{p|Mesoamerica}}
 And founded {{p|Zarahemla}}, the banded
 And polyglot {{p|America}}
 
-Of the mixed descent: the {{c|Israelite}}
-And the {{c|Phoenician}} sailor married
+Of the mixed descent: the {{c|3457|Israelite}}
+And the {{c|3449|Phoenician}} sailor married
 Into the indigenous, the recondite
 And beautiful mingling that carried
 
@@ -199,7 +199,7 @@ And the fragility of the wild
 And human memory.
 
                      Honor the possibility—
-The {{c|Phoenician}} sailor and the {{c|Judean}}
+The {{c|3449|Phoenician}} sailor and the {{c|3451|Judean}}
 Exile whose felicity
 Or desperation found the median
 

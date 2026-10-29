@@ -2,16 +2,16 @@
 
 In {{p|Småland}}, in {{p|Sweden}}, a country pastor's son was born in 1707,
 At {{p|Råshult}}, in the parsonage among the birches.
-His father, {{c|Nils}}, the son of a farmer named {{c|Ingemar}}, had been given, as was common,
-No surname: *{{c|Nils Ingemarsson}}*. When he went to university, the churches
+His father, {{c|4009|Nils}}, the son of a farmer named {{c|4010|Ingemar}}, had been given, as was common,
+No surname: *{{c|4011|Nils Ingemarsson}}*. When he went to university, the churches
 
 And the learned wanted a {{x|Latin}} name. So he made one up,
 From a great linden tree, a *lind*, that grew on the family's farm:
-*{{c|Linnaeus}}*. Hold that, in a book of genealogy: the cup
+*{{c|4012|Linnaeus}}*. Hold that, in a book of genealogy: the cup
 Of a name was filled by a tree. The family line, the charm
 
-Of the patronymic, {{c|Ingemar}}'s son, {{c|Nils}}'s son, gave way
-To a name you choose. And the son, {{c|Carl}}, would spend his life
+Of the patronymic, {{c|4010|Ingemar}}'s son, {{c|4009|Nils}}'s son, gave way
+To a name you choose. And the son, {{c|4013|Carl}}, would spend his life
 Giving names to every living thing. His father had a garden; the way
 The boy learned the flowers was by asking, and the strife
 
@@ -20,7 +20,7 @@ He did not forget again. He went to {{p|Uppsala}}, poor,
 With shoes he mended with birch bark, and walked, in 1732, the plain
 Of {{p|Lapland}}, two thousand kilometres, and wore
 
-The costume of the {{c|Sámi}} afterward for his portrait, the drum
+The costume of the {{c|4014|Sámi}} afterward for his portrait, the drum
 And the reindeer boots, and learned from them, and wrote it down.
 In 1735, in {{p|Leiden}}, in the {{p|Netherlands}}, the sum
 Of his system came out: *{{x|Systema Naturae}}*, a crown
@@ -31,7 +31,7 @@ And the plants sorted by their sex: the stamens and the pistils, the stem's
 Husbands and wives, how many of each in the flower. The minds
 
 Of the pious were shocked. A professor called it *loathsome harlotry*.
-{{c|Linnaeus}} named an ugly weed after him. And in 1753
+{{c|4012|Linnaeus}} named an ugly weed after him. And in 1753
 He gave every plant two names, a genus and a species, a clarity
 That made botany possible: *{{x|Bellis perennis}}*, the daisy. The key
 
@@ -56,8 +56,8 @@ Hold both. He sent his students out across the world, the strife
 And the joy of it: seventeen apostles, he called them, to the capes
 
 And jungles and the ice, to collect, and a third of them died on the road.
-He was ennobled in 1761: *{{c|Carl von Linné}}*.
-He said of himself, *God created, {{c|Linnaeus}} ordered*. The load
+He was ennobled in 1761: *{{c|4015|Carl von Linné}}*.
+He said of himself, *God created, {{c|4012|Linnaeus}} ordered*. The load
 Of the boast was heavy and half true. He died in 1778, the day
 
 Coming when they laid him in the cathedral of {{p|Uppsala}}.

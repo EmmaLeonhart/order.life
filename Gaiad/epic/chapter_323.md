@@ -1,8 +1,8 @@
 # Chapter 323: The Mother Tongue
 
 On the eleventh of October, 1962,
-In the basilica of {{c|Saint Peter}}, in {{p|Vatican City}},
-{{c|John XXIII}} opened a council.
+In the basilica of {{c|4428|Saint Peter}}, in {{p|Vatican City}},
+{{c|4429|John XXIII}} opened a council.
 He had said, on the twenty-fifth of January, 1959,
 In {{p|Rome}}, to the cardinals gathered in the house
 Beside the basilica of {{p|Saint Paul Outside the Walls}},
@@ -18,7 +18,7 @@ He died on the third of June, 1963, in {{p|Rome}}.
 The council was between its sessions.
 He did not promulgate the constitution on the rite.
 
-{{c|Paul VI}} was elected on the twenty-first of June.
+{{c|4430|Paul VI}} was elected on the twenty-first of June.
 The second session ran from the twenty-ninth of September
 To the fourth of December, 1963.
 On that day he promulgated the constitution
@@ -64,10 +64,10 @@ The {{x|Kyrie}} of the {{x|Mass}} was already {{x|Greek}}.
 
 On the twenty-sixth of September, 1964,
 An instruction carried the constitution toward the Sunday.
-The {{x|Consilium}} prepared it, by mandate of {{c|Paul VI}}.
-{{c|Giacomo Lercaro}} presented it.
-{{c|Paul VI}} confirmed it in an audience
-Given to {{c|Arcadio Maria Larraona}},
+The {{x|Consilium}} prepared it, by mandate of {{c|4430|Paul VI}}.
+{{c|4431|Giacomo Lercaro}} presented it.
+{{c|4430|Paul VI}} confirmed it in an audience
+Given to {{c|4432|Arcadio Maria Larraona}},
 Prefect of the {{x|Congregation of Rites}},
 And ordered it observed from the seventh of March, 1965,
 The first Sunday of {{x|Lent}}.

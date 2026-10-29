@@ -10,12 +10,12 @@ The movement is not its villain. Its villain came out of it, and this is where h
 
 ## The arithmetic of good
 
-That year a young philosopher at {{p|Oxford}}, {{c|William MacAskill}},
+That year a young philosopher at {{p|Oxford}}, {{c|4662|William MacAskill}},
 Published {{x|Doing Good Better}}: give, and work, and choose a career,
 Where the good done per dollar is greatest, and measure it,
 And a life saved from malaria in {{p|Africa}} counts as much as one here.
 
-The movement had grown from {{c|Peter Singer}}, and {{c|Toby Ord}}, and the givers who pledged a tenth,
+The movement had grown from {{c|4663|Peter Singer}}, and {{c|4664|Toby Ord}}, and the givers who pledged a tenth,
 And from a community on the net that called itself rationalist,
 Gathered around long essays on how to think without fooling yourself,
 Which worried, before almost anyone, that a machine smarter than us might not share our list.
@@ -26,7 +26,7 @@ That is a good, and this book keeps it: the arithmetic of mercy,
 The counting that finds the most lives for the dollar, so that fewer are lost.
 
 One of its ideas was called earning to give: go into finance, make a fortune, give it away.
-A young man named {{c|Sam Bankman-Fried}}, who had met {{c|MacAskill}} as a student,
+A young man named {{c|4665|Sam Bankman-Fried}}, who had met {{c|4666|MacAskill}} as a student,
 Had taken that idea, and was trading at {{x|Jane Street}} in {{p|New York}}.
 He is a later chapter's villain. Here he is a young man with an idea that sounded prudent.
 
@@ -35,14 +35,14 @@ He is a later chapter's villain. Here he is a young man with an idea that sounde
 On the eleventh of December, in {{p|San Francisco}}, the richest men of the industry
 And some of its best researchers founded a laboratory without profit,
 To make sure that a general intelligence, when it came, would benefit all of humanity.
-They called it {{x|OpenAI}}. {{c|Elon Musk}} and {{c|Sam Altman}} led it, and {{c|Ilya Sutskever}} ran research from its summit.
+They called it {{x|OpenAI}}. {{c|4552|Elon Musk}} and {{c|4667|Sam Altman}} led it, and {{c|4620|Ilya Sutskever}} ran research from its summit.
 
 It later became a company, and kept the name.
 And this book was written partly with its machines, and partly with others, and partly with none:
 The first sixty chapters or so in twenty-twenty, without AI, by my own hand,
 The first rewrites with {{x|ChatGPT}}, and the rest, and much rewriting, with {{x|Claude}}, in twenty-twenty-five, when the work was done.
 
-In October, in {{p|London}}, {{c|DeepMind}}'s {{x|AlphaGo}} beat {{c|Fan Hui}},
+In October, in {{p|London}}, {{c|4668|DeepMind}}'s {{x|AlphaGo}} beat {{c|4669|Fan Hui}},
 The champion of {{p|Europe}} at {{x|go}}, five games to none, in secret.
 The match that shook the world was the next year's.
 The machines were coming to the oldest game, and they would not retreat.
@@ -64,10 +64,10 @@ And sat on the terraces in the cold, and that was the city's saying.
 That year more than a million crossed into {{p|Europe}},
 From {{p|Syria}}, {{p|Afghanistan}}, {{p|Iraq}}, over the sea in rubber boats to the Greek islands' shore,
 And on foot up through the {{p|Balkans}}, and thousands drowned.
-On the second of September {{c|Alan Kurdi}}, two, was found on a beach in {{p|Turkey}}, a red shirt he wore.
+On the second of September {{c|4670|Alan Kurdi}}, two, was found on a beach in {{p|Turkey}}, a red shirt he wore.
 
 His family had been trying to reach {{p|Canada}}.
-On the thirty-first of August {{c|Angela Merkel}} said: we can do this, wir schaffen das,
+On the thirty-first of August {{c|4563|Angela Merkel}} said: we can do this, wir schaffen das,
 And {{p|Germany}} opened its doors and took nearly a million.
 This book welcomes the refugees. The ancestors of every people crossed a sea or a pass.
 
@@ -76,7 +76,7 @@ Out of {{p|Africa}}, over the steppe, across the {{x|Bering}} land, into the new
 The one who crosses is the ancestor of the ones who stay.
 Welcome the stranger: the stranger is the ancestor of you.
 
-On the thirtieth of September {{c|Putin}} began bombing in {{p|Syria}} to save {{c|Assad}},
+On the thirtieth of September {{c|4518|Putin}} began bombing in {{p|Syria}} to save {{c|4611|Assad}},
 And his bombers hit the hospitals and the markets, and drove more of them out,
 So that the refugees would flood into {{p|Europe}}, and {{p|Europe}} would turn against itself,
 The villain's weapon made of the people he made homeless, the strategy and the rout.
@@ -88,19 +88,19 @@ Voted by the people to open marriage to all, the first to do it by the vote.
 On the twenty-sixth of June, in {{x|Obergefell v. Hodges}}, the {{x|Supreme Court}}
 Said marriage is a right for all couples, and the {{x|White House}} lit the rainbow for us to note.
 
-On the first of June a magazine put {{c|Caitlyn Jenner}} on its cover,
+On the first of June a magazine put {{c|4671|Caitlyn Jenner}} on its cover,
 And millions saw a woman who had transitioned in her sixties.
 She is not the one to center. Trans people are simply accepted to exist,
 And the women who made the road were others, the ones this book lists:
 
-{{c|Christine Jorgensen}}, whose story broke from {{p|Copenhagen}} in nineteen fifty-two,
+{{c|4672|Christine Jorgensen}}, whose story broke from {{p|Copenhagen}} in nineteen fifty-two,
 And was on every front page, and lived her life in the light, and did not hide.
-{{c|Lynn Conway}}, the programmer, fired by {{x|IBM}} in the sixties for transitioning,
+{{c|4673|Lynn Conway}}, the programmer, fired by {{x|IBM}} in the sixties for transitioning,
 Who came back under a new name and remade how the chips are designed, with pride.
 
-{{c|Martine Rothblatt}}, who founded {{x|SiriusXM}}, and a company to save her daughter's lungs,
+{{c|4674|Martine Rothblatt}}, who founded {{x|SiriusXM}}, and a company to save her daughter's lungs,
 And wrote of the mind uploaded and the life extended past the grave,
-And {{c|Deirdre McCloskey}}, the economist, who transitioned at fifty-three,
+And {{c|4675|Deirdre McCloskey}}, the economist, who transitioned at fifty-three,
 And wrote that the bourgeois virtues made the world rich, and was brave.
 
 These are the trans women who built things, the ones I follow:
@@ -122,8 +122,8 @@ The countries of the world adopted the {{x|Paris Agreement}}:
 Hold the warming well below two degrees, and try for one and a half,
 And each country would set its own goal, and report, and raise it, by its own engagement.
 
-{{c|Laurent Fabius}} struck the gavel with a green leaf on its head, and the hall cheered and wept.
-The number said in {{c|Obama}}'s room in {{p|Copenhagen}} was a treaty now.
+{{c|4676|Laurent Fabius}} struck the gavel with a green leaf on its head, and the hall cheered and wept.
+The number said in {{c|4598|Obama}}'s room in {{p|Copenhagen}} was a treaty now.
 Protecting the climate is a Lifeist duty,
 And this is the day the whole world first made the vow.
 
@@ -134,15 +134,15 @@ On the fifth of July {{p|Greece}} voted no to its creditors, and a week later to
 On the eighteenth of September {{x|Volkswagen}} was caught cheating the tests of its diesels,
 Eleven million cars, and the fumes they hid, and the cheat confirmed.
 
-On the sixteenth of June {{c|Donald Trump}} came down a golden escalator in his tower,
+On the sixteenth of June {{c|4677|Donald Trump}} came down a golden escalator in his tower,
 And said he would run for president, and people laughed.
 It is the next chapter's year.
 The laughter did not last, and the decade turned on his draft.
 
 ## Home
 
-On the nineteenth of October {{p|Canada}} voted out {{c|Stephen Harper}},
-And {{c|Justin Trudeau}}, the son of a prime minister, came to power,
+On the nineteenth of October {{p|Canada}} voted out {{c|4572|Stephen Harper}},
+And {{c|4678|Justin Trudeau}}, the son of a prime minister, came to power,
 And named a cabinet of as many women as men, "because it's twenty-fifteen."
 On the second of June the {{x|Truth and Reconciliation Commission}} gave its report in its hour:
 
@@ -155,16 +155,16 @@ And the country began, slowly, to answer for the sin.
 
 On the twenty-fifth of April an earthquake killed nearly nine thousand in {{p|Nepal}},
 And brought down the old temples of {{p|Kathmandu}}, and they are being raised again.
-On the twenty-seventh of February {{c|Boris Nemtsov}}, who opposed {{c|Putin}},
+On the twenty-seventh of February {{c|4679|Boris Nemtsov}}, who opposed {{c|4518|Putin}},
 Was shot on a bridge in sight of the {{x|Kremlin}}, the villain's critics' end.
 
 On the fourteenth of July {{x|New Horizons}} flew past {{p|Pluto}}, the planet this book keeps,
 And found a great heart of ice upon it, {{x|Tombaugh Regio}}, white and wide.
 On the fourteenth of September {{x|LIGO}} felt a ripple in space from two black holes,
-And {{c|Einstein}}'s waves, a century after he foresaw them, arrived.
+And {{c|4297|Einstein}}'s waves, a century after he foresaw them, arrived.
 
-On the eighteenth of June {{c|Francis}} wrote to the world about its common home, {{x|Laudato si'}}.
-On the eighth of November {{p|Myanmar}} voted, and {{c|Aung San Suu Kyi}}'s party won.
+On the eighteenth of June {{c|4638|Francis}} wrote to the world about its common home, {{x|Laudato si'}}.
+On the eighth of November {{p|Myanmar}} voted, and {{c|4680|Aung San Suu Kyi}}'s party won.
 On the twenty-ninth of October {{p|China}} ended the rule of one child.
 And I was nineteen, at the lake, and the year of the movement had begun.
 

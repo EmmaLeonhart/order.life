@@ -18,12 +18,12 @@ And I filled them with the ages of the world, and gave each one its name and its
 On the last day of twenty nineteen the health body of the nations heard of a pneumonia in {{p|Wuhan}},
 And on the twenty-third of January the city of eleven million was closed, and the towers sealed, and the trains done,
 And on the thirtieth the body declared an emergency of international concern,
-And in February the doctor who had warned, {{c|Li Wenliang}}, died of it, and the censors came, in turn.
+And in February the doctor who had warned, {{c|4721|Li Wenliang}}, died of it, and the censors came, in turn.
 
 In {{p|Lombardy}}, in March, the hospitals filled, and the army trucks carried the coffins out of {{p|Bergamo}} by night,
 For the crematoria could not keep up, and on the eleventh of March, in {{p|Geneva}}, it was named a pandemic outright.
 On the twenty-seventh of March, in the rain, in an empty {{p|St. Peter's Square}},
-{{c|Pope Francis}} prayed alone before the crowd that was not there, and the crowd was on the screens everywhere.
+{{c|4722|Pope Francis}} prayed alone before the crowd that was not there, and the crowd was on the screens everywhere.
 
 ## Into the house
 
@@ -39,26 +39,26 @@ And the scientists kept working in the closed houses, and the work went on ahead
 
 ## The book of risks
 
-In March, the month the world closed, a philosopher of the movement, {{c|Toby Ord}},
+In March, the month the world closed, a philosopher of the movement, {{c|4664|Toby Ord}},
 Published a book on the risks that could end us, {{x|The Precipice}}, and ranked a pandemic high in its record,
 And the movement had turned from the malaria nets toward the far future, and called it longtermism,
 And the risk it named arrived the month it was named, and the world met it with its own mechanism.
 
 ## The knee
 
-On the twenty-fifth of May, in {{p|Minneapolis}}, a policeman knelt on the neck of {{c|George Floyd}},
+On the twenty-fifth of May, in {{p|Minneapolis}}, a policeman knelt on the neck of {{c|4723|George Floyd}},
 A black man accused of passing a false twenty-dollar bill, for nine minutes and twenty-nine seconds, until his breath was void,
 And he called for his mother, and died, and a girl of seventeen filmed it on her phone,
 And the country rose in every city, in the middle of the sickness, the largest protests it had known.
 
-In March the police had killed {{c|Breonna Taylor}} in her bed in {{p|Louisville}},
-In February men in a truck had chased and shot {{c|Ahmaud Arbery}} while he ran, at their will,
+In March the police had killed {{c|4724|Breonna Taylor}} in her bed in {{p|Louisville}},
+In February men in a truck had chased and shot {{c|4725|Ahmaud Arbery}} while he ran, at their will,
 And the policeman of {{p|Minneapolis}} was convicted the next year,
 And the girl's phone was the ammunition, and the country fired it back, and the court could hear.
 
 ## The plane and the farm town
 
-On the eighth of January, five days after the {{p|United States}} killed the general {{c|Qasem Soleimani}} in {{p|Baghdad}},
+On the eighth of January, five days after the {{p|United States}} killed the general {{c|4726|Qasem Soleimani}} in {{p|Baghdad}},
 {{p|Iran}} shot down a Ukrainian airliner leaving {{p|Tehran}}, taking it for a missile, and all one hundred and seventy-six were dead:
 Most of them bound for {{p|Canada}}, students and families, fifty-five of them Canadian,
 And my country mourned its students, taken by the regime of {{p|Iran}}.
@@ -79,7 +79,7 @@ And the officials who left it there had been warned in writing, many times, and 
 
 On the fifteenth of June, in {{x|Bostock v. Clayton County}}, the {{x|Supreme Court}} of the {{p|United States}} said
 That to fire a person for being gay or transgender is to fire them because of sex, which the law forbade.
-On the eighteenth of September {{c|Ruth Bader Ginsburg}} died, after fifty years of fighting for women's equal place,
+On the eighteenth of September {{c|4727|Ruth Bader Ginsburg}} died, after fifty years of fighting for women's equal place,
 And the president put a judge of the other side in her seat eight days before the election's race.
 
 On the thirtieth of June {{p|China}} wrote a law of security for {{p|Hong Kong}},
@@ -87,7 +87,7 @@ And the protests of the chapter before were over, and their leaders jailed or fl
 
 ## The vote
 
-On the third of November {{c|Joe Biden}} was elected president, with seven million more votes than the man of twenty sixteen,
+On the third of November {{c|4728|Joe Biden}} was elected president, with seven million more votes than the man of twenty sixteen,
 Who said he had won, and that it was stolen, and sent his lawyers to sixty courts, and lost in all but one, and would not come clean,
 And kept saying it, and the next chapter opens with what that saying did:
 A mob in the halls of the congress, and the count kept anyway, and the lie it hid.
@@ -101,7 +101,7 @@ Sent his army into {{p|Tigray}}, and a war began that killed hundreds of thousan
 
 On the ninth of August {{p|Belarus}} held a vote the people said was stolen, and they filled the streets in white and red,
 And the villain's ally beat them into silence by the winter, and the villain stood at his head.
-On the twentieth of August {{c|Alexei Navalny}}, who had opposed {{c|Putin}} for years, was poisoned on a plane
+On the twentieth of August {{c|4729|Alexei Navalny}}, who had opposed {{c|4518|Putin}} for years, was poisoned on a plane
 With the nerve agent the villain's men had used before, and he lived, flown to {{p|Berlin}}, and went home again.
 
 ## The machines
@@ -111,27 +111,27 @@ That could write an essay, a poem, a program, from a few words of asking, and op
 The machines could write. That was the year the machines learned to write, and it was not a trick of the pen,
 It was the first voice of the thinking machines, and they have not stopped speaking since then.
 
-On the thirtieth of November a program of {{c|DeepMind}}, {{x|AlphaFold}},
+On the thirtieth of November a program of {{c|4668|DeepMind}}, {{x|AlphaFold}},
 Predicted the shapes of the proteins from their letters nearly as well as the laboratories, a problem fifty years old,
 And it would win a {{x|Nobel Prize}} in the chapter of twenty twenty-four,
 And on the thirtieth of May a rocket of a private company carried astronauts to the station, and opened the door.
 
 ## The needle
 
-On the eighth of December, in {{p|Coventry}}, {{c|Margaret Keenan}}, ninety years old,
+On the eighth of December, in {{p|Coventry}}, {{c|4730|Margaret Keenan}}, ninety years old,
 Was given the first dose of a vaccine made of a message of the cell, outside the trials, and the needle was gold:
 That day is a Gaian day, the day of the needle, kept in this calendar from then,
 Less than a year after the letters of the virus were published, and the world began to open again.
 
-The vaccine was built on the work of {{c|Katalin Karikó}} and {{c|Drew Weissman}},
+The vaccine was built on the work of {{c|4731|Katalin Karikó}} and {{c|4732|Drew Weissman}},
 Who worked for decades on such messages while the grants were refused, and they would not listen to the no's of the system,
-And of {{c|Uğur Şahin}} and {{c|Özlem Türeci}}, children of migrants to {{p|Germany}},
+And of {{c|4733|Uğur Şahin}} and {{c|4734|Özlem Türeci}}, children of migrants to {{p|Germany}},
 And the immigrants and the refused made the needle, and the needle set the world free.
 
 ## The rest of the year
 
 On the thirty-first of January {{p|Britain}} left the {{x|European Union}}, and I am against it still,
-And on the twenty-sixth of January {{c|Kobe Bryant}} died in a helicopter with his daughter, on a hill.
+And on the twenty-sixth of January {{c|4735|Kobe Bryant}} died in a helicopter with his daughter, on a hill.
 In the summer of {{p|Australia}} the fires of the chapter before finally went out in the rain,
 And in November the farmers of {{p|India}} camped on the roads around {{p|Delhi}} against the laws on their grain, and stayed for a year, and won again.
 

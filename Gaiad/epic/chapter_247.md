@@ -3,23 +3,23 @@
 The oldest democracy.
 
                        Before the quill
-Of {{c|Jefferson}} had scratched its founding creed,
-Before the {{c|English}} colonists would fill
+Of {{c|3593|Jefferson}} had scratched its founding creed,
+Before the {{c|3244|English}} colonists would fill
 The parchment rolls with liberty's bright seed--
 
-The {{c|Haudenosaunee}} had already made
+The {{c|3497|Haudenosaunee}} had already made
 A union from the warfare of five nations,
 A {{x|Great Law}} spoken underneath the shade
 Of the white pine, the {{x|Tree of Peace}}'s stations
 
 Rooted in the earth of {{p|Onondaga}},
-Where {{c|Deganawidah}} the {{c|Peacemaker}} came
+Where {{c|3594|Deganawidah}} the {{c|3498|Peacemaker}} came
 Across the waters with a light like saga
 And planted peace where blood-feud was the name
 
-Of every season. Five, then six: the {{c|Mohawk}},
-{{c|Oneida}}, {{c|Onondaga}}, {{c|Cayuga}},
-{{c|Seneca}}--and {{c|Tuscarora}}'s long walk
+Of every season. Five, then six: the {{c|3504|Mohawk}},
+{{c|3503|Oneida}}, {{c|3502|Onondaga}}, {{c|3501|Cayuga}},
+{{c|3500|Seneca}}--and {{c|3575|Tuscarora}}'s long walk
 North to join the league--a federation, a
 
 Covenant of condolence, not of war,
@@ -29,10 +29,10 @@ Each nation and could strip a faithless king
 
 Of his antlers. Women held the fire.
 The longhouse stretched from east to west--
-The {{c|Mohawk}} at the eastern door, the dire
-And watchful {{c|Keepers}}, and the {{c|Seneca}} blessed
+The {{c|3504|Mohawk}} at the eastern door, the dire
+And watchful {{c|3595|Keepers}}, and the {{c|3500|Seneca}} blessed
 
-As {{c|Keepers}} of the {{x|Western Door}}, and all
+As {{c|3595|Keepers}} of the {{x|Western Door}}, and all
 Between them bound by wampum belts that told
 The story of the peace, the protocol
 Of consensus, the refusal to be bold
@@ -45,33 +45,33 @@ Of governance that later centuries stared
 At and called democracy's first proof.
 
                                         But now
-The {{c|English}} colonies had risen in revolt
+The {{c|3244|English}} colonies had risen in revolt
 Against their king, and underneath the bough
 Of the white pine came the thunderbolt
 
 Of a war that split the world in two--
-And asked the {{c|Haudenosaunee}} to choose.
+And asked the {{c|3497|Haudenosaunee}} to choose.
 
-The {{c|Americans}} came first. They sent men who
+The {{c|3404|Americans}} came first. They sent men who
 Spoke of brotherhood and asked the crews
 
 Of the longhouse council for neutrality:
 Stay out, they said. This is a family quarrel,
-A war among the {{c|English}}--the polity
-Of the {{c|Six Nations}} need not risk its laurel
+A war among the {{c|3244|English}}--the polity
+Of the {{c|3596|Six Nations}} need not risk its laurel
 
 In a fight between a father and his sons.
 
-But the {{c|British}} came with different gifts:
+But the {{c|3581|British}} came with different gifts:
 With muskets, blankets, promises, and guns,
 And the argument that cut through all the rifts
 
-Of diplomacy: the {{c|Americans}} want your land.
+Of diplomacy: the {{c|3404|Americans}} want your land.
 Whatever words of brotherhood they speak,
 Their settlers push the frontier, hand by hand,
 Into the hunting grounds--and week by week
 
-The longhouse country shrinks. The {{c|British}} crown
+The longhouse country shrinks. The {{c|3581|British}} crown
 At least has drawn a line--the {{x|Proclamation}}
 Of seventeen-sixty-three that handed down
 The law: no settlement, no confiscation
@@ -83,28 +83,28 @@ Between the {{p|Mohawk Valley}} and the blood
 
 Of the western rivers.
 
-                       {{c|Thayendanegea}} chose.
+                       {{c|3597|Thayendanegea}} chose.
 
-{{c|Joseph Brant}}--war chief of the {{c|Mohawk}}, bred
-In the {{c|English}} school of {{c|Eleazar Wheelock}}, those
+{{c|3598|Joseph Brant}}--war chief of the {{c|3504|Mohawk}}, bred
+In the {{c|3244|English}} school of {{c|3599|Eleazar Wheelock}}, those
 Corridors of {{p|Connecticut}} that fed
 
-A {{c|Mohawk}} boy the language of the crown--
-He chose the {{c|British}}. Not from servile love
+A {{c|3504|Mohawk}} boy the language of the crown--
+He chose the {{c|3581|British}}. Not from servile love
 Of kings, but from the calculus that a town
 Of settlers was a deadlier thing than the glove
 
-Of a distant monarch's rule. The {{c|Seneca}}
-And {{c|Cayuga}} followed {{c|Brant}} to war,
-And {{c|Onondaga}}'s fire-keepers drew the day
-Toward the {{c|British}} side--but at the core
+Of a distant monarch's rule. The {{c|3500|Seneca}}
+And {{c|3501|Cayuga}} followed {{c|3600|Brant}} to war,
+And {{c|3502|Onondaga}}'s fire-keepers drew the day
+Toward the {{c|3581|British}} side--but at the core
 
-The {{c|League}} was cracking. For the {{c|Oneida}}
-And {{c|Tuscarora}} chose the other way:
-The {{c|American}} alliance, the cedar
+The {{c|3601|League}} was cracking. For the {{c|3503|Oneida}}
+And {{c|3575|Tuscarora}} chose the other way:
+The {{c|3484|American}} alliance, the cedar
 Of a different calculation--that the fray
 
-Would end with {{c|American}} victory, and those
+Would end with {{c|3484|American}} victory, and those
 Who stood beside the rebels would be spared.
 
 The {{x|Great Law}} said: decide by consensus. Those
@@ -113,30 +113,30 @@ Who disagreed should not be forced. But dared
 The council hold when half its nations fought
 Against the other half?--the covenant
 Of condolence broken, and the rot
-Of {{c|Europe}}'s war inside the parliament
+Of {{c|3602|Europe}}'s war inside the parliament
 
 Of the longhouse, splitting beam from beam.
 
 At {{p|Oriskany}} the nightmare became real:
-{{c|Oneida}} warriors fought {{c|Mohawk}} in the steam
+{{c|3503|Oneida}} warriors fought {{c|3504|Mohawk}} in the steam
 And blood of an August ambush--the ordeal
 
 Of brothers killing brothers in the name
-Of {{c|European}} kings and {{c|European}} rebels,
-The {{c|Great League}}'s children burning in the flame
+Of {{c|3401|European}} kings and {{c|3401|European}} rebels,
+The {{c|3586|Great League}}'s children burning in the flame
 Of a war that was not theirs--the pebbles
 
-Of a {{c|European}} quarrel that crushed the stone
+Of a {{c|3401|European}} quarrel that crushed the stone
 Of the oldest peace.
 
                       Then came the burning time.
 
-{{c|Washington}} dispatched his generals--the tone
+{{c|3578|Washington}} dispatched his generals--the tone
 Of his orders cold as {{p|Valley Forge}}'s rime:
 
 "Total destruction and devastation."
-{{c|Sullivan}} and {{c|Clinton}} marched through the land
-Of the {{c|Seneca}} and {{c|Cayuga}} nation
+{{c|3603|Sullivan}} and {{c|3604|Clinton}} marched through the land
+Of the {{c|3500|Seneca}} and {{c|3501|Cayuga}} nation
 With the methodical and iron hand
 
 Of a scorched-earth campaign--forty towns
@@ -149,46 +149,46 @@ A systematic destruction of a world:
 The longhouses collapsed, the starving cattle
 Slaughtered, and the smoke of centuries unfurled
 
-From every {{c|Haudenosaunee}} village burned
+From every {{c|3497|Haudenosaunee}} village burned
 In the autumn of seventeen-seventy-nine.
-The {{c|Seneca}} gave {{c|Washington}} a name, and turned
-The word to prophecy: {{c|Town Destroyer}}--the sign
+The {{c|3500|Seneca}} gave {{c|3578|Washington}} a name, and turned
+The word to prophecy: {{c|3605|Town Destroyer}}--the sign
 
 And title that would pass from president
 To president, from one destroyer to the next,
 Each administration's westward bent
 Fulfilling the first general's scorched pretext.
 
-The war ended. The {{c|British}} lost. The peace
-Was signed at {{p|Paris}}--and the {{c|Haudenosaunee}}
+The war ended. The {{c|3581|British}} lost. The peace
+Was signed at {{p|Paris}}--and the {{c|3497|Haudenosaunee}}
 Were not mentioned. Not one line for the release
 Of their sovereignty, not one attorney
 
-For their cause. The {{c|British}} ceded land
+For their cause. The {{c|3581|British}} ceded land
 That was not theirs to cede--the hunting grounds
-Of the {{c|Six Nations}}, drawn by a foreign hand
+Of the {{c|3596|Six Nations}}, drawn by a foreign hand
 On a foreign map within the foreign bounds
 
 Of a treaty that erased them from the page.
 
-And those who chose the {{c|American}} side?
-The {{c|Oneida}}, who had bled at every stage
+And those who chose the {{c|3484|American}} side?
+The {{c|3503|Oneida}}, who had bled at every stage
 Beside the rebels?--they were cast aside
 
 With equal coldness. Within a generation
-The {{c|Oneida}} homeland shrank from six million
-Acres to a fragment--the {{c|American}} nation
+The {{c|3503|Oneida}} homeland shrank from six million
+Acres to a fragment--the {{c|3484|American}} nation
 Rewarding its allies with a reptilian
 
-Ingratitude that proved what {{c|Brant}} had known:
-It did not matter which side the {{c|Haudenosaunee}} chose.
+Ingratitude that proved what {{c|3600|Brant}} had known:
+It did not matter which side the {{c|3497|Haudenosaunee}} chose.
 The settler wanted land, and land alone,
 And neither crown nor congress would oppose
 
 The hunger of the frontier.
 
-                             {{c|Brant}} led his people north
-To {{p|Grand River}} in the {{c|British}} province,
+                             {{c|3600|Brant}} led his people north
+To {{p|Grand River}} in the {{c|3581|British}} province,
 A reservation granted for the worth
 Of their alliance--the scant evidence
 
@@ -200,7 +200,7 @@ Of the longhouse sky, and the white pine's high
 
 And patient branches still would shelter those
 Who kept the wampum belts and spoke the {{x|Law}}--
-But the {{c|Great League}} that {{c|Deganawidah}} chose
+But the {{c|3586|Great League}} that {{c|3594|Deganawidah}} chose
 To build from the wreckage of an older war
 
 Was broken by a newer one, and the peace
@@ -208,9 +208,9 @@ That had held five nations in its careful ring
 Was shattered by the empires whose caprice
 Could break a continent and call it a blessing.
 
-Honor the {{c|Haudenosaunee}}--who built
+Honor the {{c|3497|Haudenosaunee}}--who built
 A league of peace before the word republic
-Had entered {{c|Europe}}'s lexicon, who spilt
+Had entered {{c|3602|Europe}}'s lexicon, who spilt
 Their blood on both sides of a war barbaric
 
 And foreign to their law--and learned too well

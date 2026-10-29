@@ -24,10 +24,10 @@ This book names it, and keeps the dead of {{p|Haiti}} in its prayers.
 
 From the twelfth to the twenty-eighth of February the winter games were held
 In {{p|Vancouver}} and {{p|Whistler}}, in the province where I would live and study.
-On the first day the Georgian luger {{c|Nodar Kumaritashvili}} was killed in practice,
+On the first day the Georgian luger {{c|4601|Nodar Kumaritashvili}} was killed in practice,
 Thrown from the track at a hundred and forty kilometers an hour, and the ice was bloody.
 
-On the last day {{c|Sidney Crosby}} scored in overtime against the {{p|United States}},
+On the last day {{c|4602|Sidney Crosby}} scored in overtime against the {{p|United States}},
 The golden goal, and {{p|Canada}} won the hockey gold on home ice,
 And the whole country made one sound at once,
 And I was fourteen, and I heard it, and it was nice.
@@ -39,7 +39,7 @@ That companies and unions could spend without limit on elections, because spendi
 The money that came through that door shaped every election of the century after.
 This book agrees: it was the door the billionaires walked through, each to each.
 
-On the twenty-third of March {{c|Obama}} signed the {{x|Affordable Care Act}},
+On the twenty-third of March {{c|4598|Obama}} signed the {{x|Affordable Care Act}},
 And tens of millions could reach health insurance who could not before.
 It was the largest gift to the sick since the old programs of the sixties,
 And it held, though the other party spent a decade trying to tear it from the floor.
@@ -87,14 +87,14 @@ In which the crew killed a dozen people, two of them journalists of {{x|Reuters}
 In July it printed the war logs of {{p|Afghanistan}}, in October those of {{p|Iraq}},
 And in November the quarter of a million cables of the diplomats, the private writers.
 
-The soldier who copied them was {{c|Chelsea Manning}}, a young intelligence analyst in {{p|Iraq}},
+The soldier who copied them was {{c|4603|Chelsea Manning}}, a young intelligence analyst in {{p|Iraq}},
 Who saw what she saw and could not keep it, and gave it out.
 She was arrested in May and held for months in a cell
 That an envoy of the {{x|United Nations}} called cruel, alone, in doubt.
 
-She came out years later as a woman, and her sentence was commuted by {{c|Obama}}.
+She came out years later as a woman, and her sentence was commuted by {{c|4598|Obama}}.
 My sympathy is with her, the young woman who was a soldier and could not stay silent,
-Not with {{c|Julian Assange}}, who ran the site,
+Not with {{c|4604|Julian Assange}}, who ran the site,
 Who would later run the villain's errands, the hacked mail of {{p|Moscow}}'s intent.
 
 ## The worm
@@ -113,9 +113,9 @@ And a million joined it in two months.
 
 ## Smolensk and the heat
 
-On the tenth of April the plane of {{c|Lech Kaczyński}}, the president of {{p|Poland}},
+On the tenth of April the plane of {{c|4605|Lech Kaczyński}}, the president of {{p|Poland}},
 Crashed in the fog near {{p|Smolensk}}, on its way to remember {{p|Katyn}},
-Where {{c|Stalin}}'s police shot twenty-two thousand Polish officers in nineteen-forty,
+Where {{c|4586|Stalin}}'s police shot twenty-two thousand Polish officers in nineteen-forty,
 And the president died, and ninety-five others, going to mourn their kin.
 
 That summer {{p|Russia}} burned in a heat no one there had known,
@@ -128,17 +128,17 @@ Living as suburban families, and traded home, and he sang with them, his friends
 On the twenty-seventh of February an earthquake of eight point eight struck {{p|Chile}}.
 On the thirty-first of May Israeli commandos boarded the {{x|Mavi Marmara}}, headed for {{p|Gaza}}, and nine died on its deck.
 In the summer {{p|Pakistan}} flooded, and twenty million lost their homes.
-On the eighth of October the {{x|Nobel Peace Prize}} went to {{c|Liu Xiaobo}}, a prisoner of the Party, by the neck,
+On the eighth of October the {{x|Nobel Peace Prize}} went to {{c|4606|Liu Xiaobo}}, a prisoner of the Party, by the neck,
 
 Held for the charter he wrote, and at the ceremony in {{p|Oslo}} his chair was empty.
 In June, at the {{x|G20}} in {{p|Toronto}}, the police kettled hundreds in the rain,
 The largest mass arrest in the history of {{p|Canada}}.
-On the twenty-second of December {{c|Obama}} signed the repeal of {{x|Don't Ask, Don't Tell}}, and the gay soldiers could speak again.
+On the twenty-second of December {{c|4598|Obama}} signed the repeal of {{x|Don't Ask, Don't Tell}}, and the gay soldiers could speak again.
 
 ## The fire
 
 On the seventeenth of December, in {{p|Sidi Bouzid}}, a fruit seller,
-{{c|Mohamed Bouazizi}}, twenty-six, had his cart and his scales taken by an inspector,
+{{c|4607|Mohamed Bouazizi}}, twenty-six, had his cart and his scales taken by an inspector,
 And went to the governor's office to complain, and was not heard,
 And went back with a can of fuel and set himself alight, and the town rose for its protector.
 

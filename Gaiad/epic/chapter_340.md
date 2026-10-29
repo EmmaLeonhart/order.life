@@ -11,7 +11,7 @@ And I was old enough to remember a wave on a screen, and young enough to think i
 ## The book of faces
 
 On Wednesday the fourth of February, in {{p|Cambridge}}, after a week of code,
-{{c|Mark Zuckerberg}}, a student, opened {{x|thefacebook.com}} from his room.
+{{c|4538|Mark Zuckerberg}}, a student, opened {{x|thefacebook.com}} from his room.
 The houses of the college kept books of faces on paper;
 He said he could make a better one in a week, and he did, and it began to bloom.
 
@@ -21,8 +21,8 @@ Each person's experience improves if their friends join, he said,
 And that sentence built the network that would reach nearly everyone.
 
 By spring it was at {{p|Columbia}}, {{p|Stanford}}, {{p|Yale}}.
-That summer he moved to {{p|Palo Alto}} with {{c|Dustin Moskovitz}} at his side,
-And {{c|Peter Thiel}} wrote the first check, half a million dollars,
+That summer he moved to {{p|Palo Alto}} with {{c|4539|Dustin Moskovitz}} at his side,
+And {{c|4540|Peter Thiel}} wrote the first check, half a million dollars,
 The founder who backs the founders, and the network went worldwide.
 
 It gave my generation a way to find each other across the map:
@@ -37,12 +37,12 @@ A hundred times the others, and people thought the date meant it was a joke.
 It was not. On the nineteenth of August {{x|Google}} went public at eighty-five,
 And the founders kept the votes, and the search engine woke.
 
-In October at the {{p|Frankfurt}} book fair {{c|Larry Page}} and {{c|Sergey Brin}}
+In October at the {{p|Frankfurt}} book fair {{c|4541|Larry Page}} and {{c|4542|Sergey Brin}}
 Showed a search inside books, and on the fourteenth of December they said
 They would scan the libraries of {{p|Harvard}}, {{p|Stanford}}, {{p|Michigan}}, {{p|Oxford}},
 And the {{p|New York}} Public Library: every book, to be searched and read.
 
-To make searchable what librarians lovingly organize, {{c|Page}} said.
+To make searchable what librarians lovingly organize, {{c|4543|Page}} said.
 {{x|Google Books}} is a good: the old books of the dead, put within reach of the living's hand,
 The parish registers and the family histories, the out-of-print and the rare,
 And I would search them for my ancestors, years later, in this land.
@@ -78,7 +78,7 @@ In {{p|North Ossetia}}, men from the war in {{p|Chechnya}} took the school,
 Eleven hundred hostages, most of them children, in the gym,
 Three days without water in the heat, under the gunmen's rule.
 
-On the third, bombs went off in the gym, and {{c|Putin}}'s forces stormed it
+On the third, bombs went off in the gym, and {{c|4518|Putin}}'s forces stormed it
 With tanks and thermobaric rockets fired into the building where the children were.
 Three hundred and thirty-four hostages died, a hundred and eighty-six children.
 The villain's rescue again: the rescue was the killing, and the dead were a blur.
@@ -95,38 +95,38 @@ On the first of May ten countries joined the {{x|European Union}},
 {{p|Estonia}}, {{p|Latvia}}, {{p|Lithuania}}, {{p|Malta}}, {{p|Cyprus}}:
 Most of them out of the old empire of the east, out of the Soviets' insomnia.
 
-In {{p|Ukraine}}, that autumn, {{c|Viktor Yushchenko}}, the candidate of the west,
+In {{p|Ukraine}}, that autumn, {{c|4544|Viktor Yushchenko}}, the candidate of the west,
 Was poisoned with dioxin, and lived, his face scarred by it.
-The vote of November was stolen for {{c|Viktor Yanukovych}}, {{c|Putin}}'s man,
-And {{c|Putin}} congratulated him before the count was lit.
+The vote of November was stolen for {{c|4545|Viktor Yanukovych}}, {{c|4518|Putin}}'s man,
+And {{c|4518|Putin}} congratulated him before the count was lit.
 
 The people stood in the snow of the {{p|Maidan}} in orange for weeks,
-Until the court ordered the vote held again, and {{c|Yushchenko}} won in December's cold.
+Until the court ordered the vote held again, and {{c|4546|Yushchenko}} won in December's cold.
 That was {{p|Ukraine}}'s first answer to the villain.
 Ten years on he would invade, and this month will reach it, as foretold.
 
 ## The marriages
 
-In February {{c|Gavin Newsom}}, the mayor of {{p|San Francisco}},
+In February {{c|4547|Gavin Newsom}}, the mayor of {{p|San Francisco}},
 Began marrying couples of the same sex, and the line went around the block in the rain.
 The courts voided those marriages, but the line had been seen.
 On the seventeenth of May, in {{p|Massachusetts}}, they began, and held, and remain.
 
 On the second of November eleven states wrote bans into their constitutions,
-And {{c|George W. Bush}} was elected a second time the same day.
+And {{c|4514|George W. Bush}} was elected a second time the same day.
 The law turned forward in one state and back in eleven in a year.
 It was not a straight line. It went forward anyway.
 
 ## The deaths
 
-On the fifth of June {{c|Ronald Reagan}} died, who had told {{c|Gorbachev}} to tear down the wall.
-On the second of November, in {{p|Amsterdam}}, {{c|Theo van Gogh}} was shot and stabbed in the street
+On the fifth of June {{c|4548|Ronald Reagan}} died, who had told {{c|4549|Gorbachev}} to tear down the wall.
+On the second of November, in {{p|Amsterdam}}, {{c|4550|Theo van Gogh}} was shot and stabbed in the street
 For a film about the treatment of women under {{x|Islam}},
 With a letter pinned to his body by the knife, at the killer's feet.
 
-On the eleventh of November {{c|Yasser Arafat}} died near {{p|Paris}}.
+On the eleventh of November {{c|4551|Yasser Arafat}} died near {{p|Paris}}.
 In {{p|Haiti}} the president was flown out in February and did not come back.
-In September {{c|Colin Powell}} named {{p|Darfur}} a genocide,
+In September {{c|4526|Colin Powell}} named {{p|Darfur}} a genocide,
 Named it while it was still under way, while the {{x|Janjaweed}} were on the attack.
 
 ## The sky
@@ -139,7 +139,7 @@ And kept on driving the red plains, and sent home what they had seen.
 On the first of July {{x|Cassini}} reached {{p|Saturn}}'s rings.
 On the fourth of October {{x|SpaceShipOne}}, built with private money,
 Reached the edge of space a second time in a week and won the {{x|X Prize}},
-And the private road to orbit opened, where {{c|Elon Musk}} would make his journey.
+And the private road to orbit opened, where {{c|4552|Elon Musk}} would make his journey.
 
 In August the {{x|Olympic Games}} came home to {{p|Athens}},
 Where the marathon ran from {{p|Marathon}} the way it ran before.
@@ -171,6 +171,6 @@ Bombs on the trains in {{p|Madrid}}, a school in {{p|Beslan}} stormed by the vil
 An orange square in {{p|Kyiv}} that stood up, and rovers on {{p|Mars}} that went on ahead.
 
 I was eight. The network I would live in was a week old in a dorm,
-And {{c|Peter Thiel}} had written its first check, in the valley I would come to.
+And {{c|4540|Peter Thiel}} had written its first check, in the valley I would come to.
 Twenty years later I would be a founder there myself,
 And the friend of a friend would be the road that carried me through.

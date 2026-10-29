@@ -57,7 +57,7 @@ Court ceremonies. Many of these reliefs are preserved in the
 {{p|British Museum}} and elsewhere and are among the finest examples
 
 Of ancient {{p|Near Eastern}} art. The {{p|Assyrian}} kings collected
-Libraries: {{c|Ashurbanipal}}'s library at {{p|Nineveh}}, with its tens of
+Libraries: {{c|2249|Ashurbanipal}}'s library at {{p|Nineveh}}, with its tens of
 Thousands of cuneiform tablets, preserved an enormous corpus of
 {{p|Sumerian}}, {{p|Akkadian}}, and earlier {{p|Babylonian}} literature that
 
@@ -70,21 +70,21 @@ Hand and their cultural patronage with the other. The two
 Activities were not, to them, contradictory.
 
                                                  The sequence of
-{{p|Neo-Assyrian}} kings is worth marking. {{c|Ashurnasirpal II}}
+{{p|Neo-Assyrian}} kings is worth marking. {{c|2250|Ashurnasirpal II}}
 
 (Eight-eighty-three to eight-fifty-nine BCE) consolidated the
-Empire and moved the capital to {{p|Nimrud}}. {{c|Shalmaneser III}}
+Empire and moved the capital to {{p|Nimrud}}. {{c|2251|Shalmaneser III}}
 (Eight-fifty-nine to eight-twenty-four BCE) pushed {{p|Assyrian}}
 Power westward and fought a major but indecisive battle at
 
 {{p|Qarqar}} against a coalition including the {{p|Israelite}} king
-{{c|Ahab}}—this is the first recorded {{p|Assyrian}} contact with
-{{p|Israel}}. {{c|Tiglath-Pileser III}} (seven-forty-five to seven-twenty-seven
+{{c|2252|Ahab}}—this is the first recorded {{p|Assyrian}} contact with
+{{p|Israel}}. {{c|2253|Tiglath-Pileser III}} (seven-forty-five to seven-twenty-seven
 BCE) introduced military and administrative reforms that made
 
 {{p|Assyria}} unstoppable: a permanent professional army, standardized
 Provincial administration, systematic deportation of conquered
-Peoples. {{c|Sargon II}} (seven-twenty-two to seven-oh-five BCE)
+Peoples. {{c|1986|Sargon II}} (seven-twenty-two to seven-oh-five BCE)
 Completed the conquest of {{p|Israel}} (the northern kingdom), which
 
 Fell in seven-twenty-two BCE. The ten tribes of the north were
@@ -97,29 +97,29 @@ These settlers mixed with remaining {{p|Israelites}} to form the
 {{p|Samaritans}}, who would play such an ambiguous role in later
 {{p|Jewish}} history. Only the southern kingdom of {{p|Judah}} survived,
 
-And even it survived only as a vassal of {{p|Assyria}}. {{c|Sennacherib}}
+And even it survived only as a vassal of {{p|Assyria}}. {{c|2254|Sennacherib}}
 (Seven-oh-five to six-eighty-one BCE) invaded {{p|Judah}} in seven-oh-one
 BCE, devastated forty-six cities, and besieged {{p|Jerusalem}}, where
-{{c|King Hezekiah}} desperately held out. The {{p|Jerusalem}} siege was
+{{c|2255|King Hezekiah}} desperately held out. The {{p|Jerusalem}} siege was
 
 Famously lifted, according to the {{p|Hebrew Bible}}, when an "angel of
-{{c|Yahweh}}" killed a hundred and eighty-five thousand {{p|Assyrian}}
+{{c|2182|Yahweh}}" killed a hundred and eighty-five thousand {{p|Assyrian}}
 Soldiers in a single night—a miraculous deliverance celebrated
 In {{p|Isaiah}} and {{p|2 Kings}}. The {{p|Assyrian}} records, predictably, do not
 
-Mention this disaster, but the fact that {{c|Sennacherib}} did indeed
+Mention this disaster, but the fact that {{c|2254|Sennacherib}} did indeed
 Withdraw from {{p|Jerusalem}} without taking it is attested. What really
 Happened—plague, political urgency at home, strategic recalculation—
 Is unclear. But {{p|Jerusalem}} survived. {{p|Judah}} survived. And the
 
 Memory of this deliverance shaped {{p|Judean}} religious imagination,
-Reinforcing the belief that {{c|Yahweh}} protected his holy city, that
-Even the mighty {{p|Assyrian}} army could not take what {{c|Yahweh}} had
-Set apart. {{c|Esarhaddon}} (six-eighty-one to six-sixty-nine BCE)
+Reinforcing the belief that {{c|2182|Yahweh}} protected his holy city, that
+Even the mighty {{p|Assyrian}} army could not take what {{c|2182|Yahweh}} had
+Set apart. {{c|2256|Esarhaddon}} (six-eighty-one to six-sixty-nine BCE)
 
 Completed the unfinished business of his predecessors by conquering
 {{p|Egypt}} itself—an astonishing {{p|Assyrian}} triumph, though {{p|Egyptian}}
-Rule would be briefly restored after his death. {{c|Ashurbanipal}}
+Rule would be briefly restored after his death. {{c|2249|Ashurbanipal}}
 (Six-sixty-eight to six-twenty-seven BCE) was the last great
 
 {{p|Assyrian}} king. He ruled the empire at its maximum extent, from
@@ -127,10 +127,10 @@ Rule would be briefly restored after his death. {{c|Ashurbanipal}}
 Collected the great library at {{p|Nineveh}}, and conducted complex
 Diplomatic and military operations across his vast realm. But
 
-Even under {{c|Ashurbanipal}} the empire was strained. A civil war
-Against his brother {{c|Shamash-shum-ukin}} (who ruled as {{p|Assyrian}}
+Even under {{c|2249|Ashurbanipal}} the empire was strained. A civil war
+Against his brother {{c|2257|Shamash-shum-ukin}} (who ruled as {{p|Assyrian}}
 Viceroy in {{p|Babylon}} but rebelled) exhausted {{p|Assyrian}} resources.
-After {{c|Ashurbanipal}}'s death, the empire collapsed with stunning
+After {{c|2249|Ashurbanipal}}'s death, the empire collapsed with stunning
 
 Speed. Within twenty years of his passing, every major {{p|Assyrian}}
 City had been destroyed and the empire had ceased to exist.
@@ -141,7 +141,7 @@ Agents of {{p|Assyria}}'s destruction were the {{p|Medes}} and the {{p|Neo-Babyl
 The {{p|Medes}}, an {{p|Iranian}} people from the {{p|Zagros}} mountains (the
 Predecessors of the {{p|Persians}} in {{p|Iranian}} political development),
 Were the {{p|Assyrians}}' northern rivals. The {{p|Neo-Babylonians}}, under
-{{c|Nabopolassar}} and then his son {{c|Nebuchadnezzar II}}, had rebelled
+{{c|2258|Nabopolassar}} and then his son {{c|2259|Nebuchadnezzar II}}, had rebelled
 
 Against {{p|Assyrian}} control of {{p|Babylon}} and established an
 Independent kingdom. In six-twelve BCE, a combined {{p|Mede}}-{{p|Babylonian}}
@@ -149,14 +149,14 @@ Army assaulted {{p|Nineveh}} and destroyed it. The city burned. Its
 Population was massacred. The great library was buried in the
 
 Ashes (where it would remain until its rediscovery in the nineteenth
-Century CE). {{c|Sinsharishkun}}, the {{p|Assyrian}} king, perished in the
+Century CE). {{c|2260|Sinsharishkun}}, the {{p|Assyrian}} king, perished in the
 Flames. {{p|Assyrian}} imperial power ended abruptly. A few remnant
 {{p|Assyrian}} forces tried to regroup at {{p|Harran}}, but they were defeated
 
 In six-oh-nine BCE. The {{p|Neo-Assyrian Empire}} was finished. And
 Consider what this meant. A state that had terrorized the {{p|Near East}}
 For three centuries vanished within a single generation. The
-{{p|Hebrew}} prophet {{c|Nahum}} celebrated the fall of {{p|Nineveh}} in ecstatic
+{{p|Hebrew}} prophet {{c|2261|Nahum}} celebrated the fall of {{p|Nineveh}} in ecstatic
 
 Verse ({{p|Book of Nahum}}, probably composed very shortly after the
 Event): "Woe to the bloody city! It is all full of lies and
@@ -169,11 +169,11 @@ Vindication by all who had suffered under it. Including the
 Surviving {{p|Judeans}} who now watched their former oppressor fall.
 
 And in {{p|Assyria}}'s place rose {{p|Babylon}}. The {{p|Neo-Babylonian Empire}},
-Under {{c|Nebuchadnezzar II}} (six-oh-five to five-sixty-two BCE),
+Under {{c|2259|Nebuchadnezzar II}} (six-oh-five to five-sixty-two BCE),
 Inherited most of the former {{p|Assyrian}} territory, including the
-{{p|Levant}}. {{c|Nebuchadnezzar}} was one of the great figures of the
+{{p|Levant}}. {{c|2024|Nebuchadnezzar}} was one of the great figures of the
 
-Ancient {{p|Near East}}. He defeated the {{p|Egyptian}} pharaoh {{c|Necho II}}
+Ancient {{p|Near East}}. He defeated the {{p|Egyptian}} pharaoh {{c|2262|Necho II}}
 At the {{p|Battle of Carchemish}} in six-oh-five BCE, establishing
 {{p|Babylonian}} supremacy over {{p|Syria}} and {{p|Palestine}}. He rebuilt
 {{p|Babylon}} into a wonder of the ancient world. The city's walls
@@ -184,12 +184,12 @@ Reconstructed in the {{p|Pergamon Museum}} in {{p|Berlin}} and remains
 Visually stunning. The {{p|Hanging Gardens of Babylon}}—one of the
 
 Seven wonders of the ancient world, though their historicity is
-Disputed—were attributed to {{c|Nebuchadnezzar}}'s construction for
-His {{p|Median}} queen {{c|Amytis}} who missed her mountainous homeland.
+Disputed—were attributed to {{c|2024|Nebuchadnezzar}}'s construction for
+His {{p|Median}} queen {{c|2263|Amytis}} who missed her mountainous homeland.
 {{p|Babylon}} was enormous: perhaps two hundred thousand inhabitants,
 
 With monumental architecture on a scale matched at the time only
-By certain {{p|Egyptian}} and {{p|Chinese}} centers. And {{c|Nebuchadnezzar}}
+By certain {{p|Egyptian}} and {{p|Chinese}} centers. And {{c|2024|Nebuchadnezzar}}
 Inherited {{p|Babylon}}'s ancient intellectual traditions. The
 {{p|Neo-Babylonians}} refined {{p|Mesopotamian}} astronomy to an astonishing
 
@@ -198,9 +198,9 @@ Centuries, developed mathematical models of planetary motion,
 Invented the zodiac, and developed the first accurate lunar
 Calendar. {{p|Babylonian}} astronomy would be inherited by the {{p|Greeks}}
 
-(Particularly through {{c|Hipparchus}} and later {{c|Ptolemy}}) and become
-The foundation of all {{p|Western}} astronomy until {{c|Copernicus}}. The
-Names of the zodiac signs—{{c|Aries}}, {{c|Taurus}}, {{c|Gemini}}, and so on—
+(Particularly through {{c|2264|Hipparchus}} and later {{c|2265|Ptolemy}}) and become
+The foundation of all {{p|Western}} astronomy until {{c|2266|Copernicus}}. The
+Names of the zodiac signs—{{c|2267|Aries}}, {{c|2268|Taurus}}, {{c|1538|Gemini}}, and so on—
 Are {{p|Babylonian}} in origin, translated through {{p|Greek}} and {{p|Latin}}.
 
 The seven-day week with days named after the seven visible
@@ -216,31 +216,31 @@ From {{p|Neo-Babylonian}} astronomer-priests working in the sixth
 Century BCE. It is a remarkably persistent cultural gift.
 
                                                              But
-For the {{p|Judean}} population, {{c|Nebuchadnezzar}} would be remembered
-For another reason entirely. In five-ninety-seven BCE, {{c|Nebuchadnezzar}}
+For the {{p|Judean}} population, {{c|2024|Nebuchadnezzar}} would be remembered
+For another reason entirely. In five-ninety-seven BCE, {{c|2024|Nebuchadnezzar}}
 
-Besieged {{p|Jerusalem}} because its king {{c|Jehoiakim}} had rebelled
-Against {{p|Babylonian}} suzerainty. The city surrendered. {{c|Nebuchadnezzar}}
-Deported the {{p|Judean}} king (now {{c|Jehoiachin}}, {{c|Jehoiakim}}'s successor),
+Besieged {{p|Jerusalem}} because its king {{c|2269|Jehoiakim}} had rebelled
+Against {{p|Babylonian}} suzerainty. The city surrendered. {{c|2024|Nebuchadnezzar}}
+Deported the {{p|Judean}} king (now {{c|2270|Jehoiachin}}, {{c|2269|Jehoiakim}}'s successor),
 The royal family, the nobility, and the skilled artisans to
 
 {{p|Babylon}}. This is the first deportation. Ten years later, in
 Five-eighty-seven BCE, {{p|Judah}} rebelled again under the new puppet
-King {{c|Zedekiah}}. This time {{c|Nebuchadnezzar}} was less lenient. His
+King {{c|2271|Zedekiah}}. This time {{c|2024|Nebuchadnezzar}} was less lenient. His
 Army besieged {{p|Jerusalem}} for eighteen months. When the city fell,
 
-It was sacked systematically. The temple of {{c|Solomon}}—the central
+It was sacked systematically. The temple of {{c|2189|Solomon}}—the central
 Religious institution of {{p|Judahite}} faith, built four centuries
 Earlier by the third king of {{p|Israel}}—was destroyed. Its gold
 And bronze fittings were carried back to {{p|Babylon}} as spoils.
 
-The royal family was killed or blinded. {{c|Zedekiah}}'s sons were
+The royal family was killed or blinded. {{c|2271|Zedekiah}}'s sons were
 Slain before his eyes, then his eyes were put out, and he was
 Led in chains to {{p|Babylon}}. The remaining population of {{p|Jerusalem}}
 Was deported. This is the second deportation, the great {{p|Babylonian}}
 
 Exile. {{p|Judah}} was ended as a political entity. Its royal dynasty
-(The line of {{c|David}}) was broken. Its temple was gone. Its people
+(The line of {{c|1956|David}}) was broken. Its temple was gone. Its people
 Were scattered—some in {{p|Babylon}}, some fleeing to {{p|Egypt}}, some
 Remaining in the devastated homeland as peasants under {{p|Babylonian}}
 
@@ -255,23 +255,23 @@ Preserve its religious and cultural identity through the exile.
 This preservation is one of the most remarkable cultural
 
 Phenomena in ancient history. How did it happen? Partly because
-{{c|Nebuchadnezzar}}'s deportation policies, unlike {{p|Assyria}}'s, did not
+{{c|2024|Nebuchadnezzar}}'s deportation policies, unlike {{p|Assyria}}'s, did not
 Attempt to disperse deported populations. The {{p|Judean}} exiles
 Were settled together in {{p|Babylonian}} territory, maintaining their
 
 Community. Partly because they had, in their scripture, a religious
 Foundation that did not depend on a specific temple or land. The
 {{p|Torah}}—or the early sources that would become the {{p|Torah}}—taught
-Them that they had a special covenant with {{c|Yahweh}} regardless of
+Them that they had a special covenant with {{c|2182|Yahweh}} regardless of
 
 Their political fortunes. Partly because the shock of exile
 Prompted intense religious reflection. The prophets of the exile—
-{{c|Ezekiel}}, {{p|Second Isaiah}}, {{c|Jeremiah}} (who had warned them of the
+{{c|2272|Ezekiel}}, {{p|Second Isaiah}}, {{c|1922|Jeremiah}} (who had warned them of the
 Exile before it happened)—reframed the disaster as divine
 
-Discipline rather than divine abandonment. {{c|Yahweh}} had not been
-Defeated by {{c|Marduk}}, the {{p|Babylonian}} god. {{c|Yahweh}} had allowed the
-Exile because {{p|Judah}} had strayed from the covenant, and {{c|Yahweh}}
+Discipline rather than divine abandonment. {{c|2182|Yahweh}} had not been
+Defeated by {{c|2021|Marduk}}, the {{p|Babylonian}} god. {{c|2182|Yahweh}} had allowed the
+Exile because {{p|Judah}} had strayed from the covenant, and {{c|2182|Yahweh}}
 Would eventually restore them. This theological reframing kept
 
 The community coherent. And partly because during the exile the
@@ -286,7 +286,7 @@ Which {{p|Judaism}} as a text-centered religion was forged. Rather
 
 Than being destroyed by the exile, {{p|Judahite}} religion was
 Transformed by it. When the opportunity to return came—after
-{{c|Cyrus the Great}} of {{p|Persia}} conquered {{p|Babylon}} in five-thirty-nine
+{{c|2273|Cyrus the Great}} of {{p|Persia}} conquered {{p|Babylon}} in five-thirty-nine
 BCE and issued his decree permitting the exiles to return—what
 
 Returned was no longer the old {{p|Judahite}} religion. It was something
@@ -299,13 +299,13 @@ Do). The {{p|Babylonian}} exile was the crucible. It forged the
 Template of diasporic religion that would shape {{p|Judaism}} for
 Millennia and influence every subsequent religion of the Book.
 
-And as for {{c|Nebuchadnezzar}}'s own fate, he died in five-sixty-two
+And as for {{c|2024|Nebuchadnezzar}}'s own fate, he died in five-sixty-two
 BCE. His successors were weak. The empire declined rapidly. In
-Five-thirty-nine BCE, {{c|Cyrus the Great}} of {{p|Persia}} marched on
+Five-thirty-nine BCE, {{c|2273|Cyrus the Great}} of {{p|Persia}} marched on
 {{p|Babylon}}. The city fell, perhaps without a siege—some accounts
 
-Suggest the {{p|Babylonian}} population welcomed {{c|Cyrus}} as a liberator
-From the unpopular last king {{c|Nabonidus}}. {{p|Babylon}} became a
+Suggest the {{p|Babylonian}} population welcomed {{c|2180|Cyrus}} as a liberator
+From the unpopular last king {{c|2274|Nabonidus}}. {{p|Babylon}} became a
 {{p|Persian}} province. And thus the two great {{p|Mesopotamian}} powers—
 {{p|Assyria}} and {{p|Babylon}}—ended. First {{p|Assyria}} destroyed, then
 
@@ -316,15 +316,15 @@ To the {{p|Aegean}} for the next two centuries.
                                                      {{p|Assyria}}.
 {{p|Babylon}}. The three centuries of {{p|Neo-Assyrian}} terror. The deportation
 Of the northern tribes. The destruction of {{p|Nineveh}} in six-twelve.
-The brief {{p|Neo-Babylonian}} supremacy. {{c|Nebuchadnezzar}} rebuilding
+The brief {{p|Neo-Babylonian}} supremacy. {{c|2024|Nebuchadnezzar}} rebuilding
 {{p|Babylon}} with his blue-glazed gates and fabled gardens.
 
 The {{p|Jerusalem}} exile of five-eighty-seven. The forging of
-Diasporic {{p|Judaism}} in the furnace. {{c|Cyrus}} of {{p|Persia}} as liberator.
+Diasporic {{p|Judaism}} in the furnace. {{c|2180|Cyrus}} of {{p|Persia}} as liberator.
 The {{p|Judean}} return and the building of the {{p|Second Temple}}.
 
 The zodiac and the seven-day week, inheritances of {{p|Babylonian}}
-Astronomer-priests. The library of {{c|Ashurbanipal}}, preserving
+Astronomer-priests. The library of {{c|2249|Ashurbanipal}}, preserving
 {{p|Gilgamesh}} in its ashes. The template of text-centered religion.
 
 {{p|Assyria}} and {{p|Babylon}}. The {{p|Mesopotamian}} twilight. The catastrophe

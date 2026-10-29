@@ -16,12 +16,12 @@ The swamp retreated toward the coast to win
 Its last refuge and leave the middle land
 
 To dust and stone—the great lycopsid trees
-That {{c|Lycos}} raised like living towers wide
+That {{c|1459|Lycos}} raised like living towers wide
 Could not survive the shortage: by degrees
 The standing water fell, the inland tide
 
 Withdrew, and cracking clay replaced the swamp
-That {{c|Lycos}} built his coal-age glory on—
+That {{c|1459|Lycos}} built his coal-age glory on—
 The rotting trunks lay in the airless damp
 Of dying sediment, compressed and gone
 
@@ -30,7 +30,7 @@ Would dig for fire—the great lycopsid gave
 His body to the earth's enduring bands
 Of carbon: every forest makes its grave
 
-A gift for ages yet to come. But {{c|Lycos}}
+A gift for ages yet to come. But {{c|1459|Lycos}}
 Himself retreated to the coasts of wet
 Where rainfall still could feed him, and the gross
 Interior became a stone regret
@@ -42,7 +42,7 @@ And made the richest canopy yet seen.
 
 Now it was ending. And from every ridge
 That rose above the dying swamp-line dry,
-{{c|Gymnos}} had been watching from the bridge
+{{c|1474|Gymnos}} had been watching from the bridge
 Of highland, where he'd always held the high
 
 And drier ground—the naked seed his gift,
@@ -52,13 +52,13 @@ The cone-borne seed across the country cool
 
 And arid to whatever rocky slope
 Or limestone crag would offer any root
-A purchase—{{c|Gymnos}} had been born for hope
+A purchase—{{c|1474|Gymnos}} had been born for hope
 In dryness, born to thrive where swamp took root
 
 Only in wetness—and the drying world
 Was his inheritance at last. He called
 His children and he watched their flags unfurled
-Across the heights: {{c|Conifera}} was called
+Across the heights: {{c|1702|Conifera}} was called
 
 To lead the charge up every barren slope
 Where naked limestone baked beneath the sun—
@@ -67,7 +67,7 @@ Of shade and shelter where there had been none.
 
 Her cone-scales held the seed against the dry
 Wherever wind would carry it to land
-On bare stone—{{c|Conifera}} was the pioneer
+On bare stone—{{c|1702|Conifera}} was the pioneer
 Who planted forests on the ridge's hand
 
 And proved the gymnosperm could go anywhere
@@ -75,7 +75,7 @@ That drying drove the swamp from, fill the space
 That loss had emptied with her living care—
 The highland forest built on fallen grace.
 
-{{c|Ginkga}} with her fan-shaped leaf of gold
+{{c|1703|Ginkga}} with her fan-shaped leaf of gold
 Kept faith with river valleys, finding wet
 Still pooled along the streambeds—she was bold
 Enough to spread along the margins yet
@@ -85,7 +85,7 @@ On every current that could carry them
 To any fertile bank—she wore the coat
 Of adaptability's bright gem.
 
-{{c|Cycados}} took the desert margin's edge
+{{c|1701|Cycados}} took the desert margin's edge
 Where green met dust—armored, short, and stout,
 Her trunk a cistern on each rocky ledge
 Where she could store what little rain came out
@@ -99,7 +99,7 @@ Of endurance, drawing slow from underground
 What little moisture lingered—and she held
 Her ground through drought until the next rain's sound.
 
-So {{c|Gymnos}} watched his children take the world
+So {{c|1474|Gymnos}} watched his children take the world
 That dying swamp gave up without a word—
 Each slope the water left behind was pearled
 With green from cone-borne seed the dry winds stirred
@@ -114,7 +114,7 @@ That swamp abandoned was a new frontier
 For those who carried water in the will
 Of seed itself: the dry lands held no fear
 
-For {{c|Gymnos}} and his children. They had known
+For {{c|1474|Gymnos}} and his children. They had known
 The high dry ground for ages, waiting out
 The swamp's dominion—now that it had grown
 Too arid for the swamp, the ridges shout

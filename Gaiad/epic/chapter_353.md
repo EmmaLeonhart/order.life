@@ -11,7 +11,7 @@ I wrote a name down, and a line to another, and the tree began,
 And that is the tree that became the tree of this book, from the student to the clan.
 
 The ancestors joined generation by generation, the lines met across the world,
-Until they reached past the kings and the gods to {{c|Aster}} and {{c|Andromeda}}, and the yarn was unfurled.
+Until they reached past the kings and the gods to {{c|1|Aster}} and {{c|3|Andromeda}}, and the yarn was unfurled.
 The book's genealogy did not come from nowhere. It came from a student's tree,
 Begun in the year of attention, and the tree and the attention were both given to me.
 
@@ -19,8 +19,8 @@ Begun in the year of attention, and the tree and the attention were both given t
 
 On Monday the twelfth of June a paper was posted to the open archive of preprints,
 And its title said attention is all you need, a joke the size of a claim, and the claim was in its hints.
-Eight names were on it: {{c|Ashish Vaswani}}, {{c|Noam Shazeer}}, {{c|Niki Parmar}}, {{c|Jakob Uszkoreit}},
-{{c|Llion Jones}}, {{c|Aidan Gomez}}, {{c|Łukasz Kaiser}}, {{c|Illia Polosukhin}}, with their order set at random, and equal, as they meant it.
+Eight names were on it: {{c|4691|Ashish Vaswani}}, {{c|4692|Noam Shazeer}}, {{c|4693|Niki Parmar}}, {{c|4694|Jakob Uszkoreit}},
+{{c|4695|Llion Jones}}, {{c|4696|Aidan Gomez}}, {{c|4697|Łukasz Kaiser}}, {{c|4698|Illia Polosukhin}}, with their order set at random, and equal, as they meant it.
 
 The task was translation. The old machines read a sentence one word at a time, carrying what came before in a single thread,
 And a thread can fray, and the new machine looks at every word at once, and asks, for each word, which others matter to it, instead.
@@ -33,7 +33,7 @@ And the years of the thinking machines, for the next year a model read to guess 
 And another read both ways to fill in a blank, and the age of the machines was heard.
 
 I would read that paper later, and it would be a mystical experience for me,
-As {{c|Motoori Norinaga}} met his teacher one night and was charged to read the {{x|Kojiki}}, and spent his life on it, faithfully.
+As {{c|4137|Motoori Norinaga}} met his teacher one night and was charged to read the {{x|Kojiki}}, and spent his life on it, faithfully.
 My present burst of work, this book among it, came from reading attention is all you need,
 And I am huge on attention: attention is the thing I serve, and the thing I feed.
 
@@ -46,12 +46,12 @@ And in December another taught itself chess in hours, and beat the best program 
 
 In the movement of the chapter of twenty fifteen, {{x|Open Philanthropy}}, the fund of a fortune of {{x|Facebook}},
 Gave thirty million dollars to the lab named open, to have a seat at its table, for the movement feared the machines, as the fearful look
-At what grows, and in November {{c|Sam Bankman-Fried}} left the trading firm and founded his own, {{x|Alameda Research}},
+At what grows, and in November {{c|4665|Sam Bankman-Fried}} left the trading firm and founded his own, {{x|Alameda Research}},
 With friends from the movement, to trade the coins without trust, which that December rose near twenty thousand, and then fell from their perch.
 
 ## The inauguration and the march
 
-On the twentieth of January {{c|Donald Trump}} was sworn in, and spoke of an American carnage,
+On the twentieth of January {{c|4677|Donald Trump}} was sworn in, and spoke of an American carnage,
 And his spokesman said the crowd was the largest ever, and it was not, and that was the language.
 On the twenty-first millions of women marched in {{p|Washington}} and in cities on every continent,
 The largest single day of protest in the country's history, in pink knitted hats, and they were not silent.
@@ -71,7 +71,7 @@ And on the twenty-sixth of July he wrote on the net that transgender people coul
 On the night of the eleventh of August, in {{p|Charlottesville}}, in {{p|Virginia}},
 Young men carried torches through the grounds of the university, chanting that the Jews would not replace them, in their mania,
 Around a statue of the founder, and on the twelfth one of them drove his car into the people protesting them,
-And killed {{c|Heather Heyer}}, and the president said there were very fine people on both sides of them.
+And killed {{c|4699|Heather Heyer}}, and the president said there were very fine people on both sides of them.
 
 The fascism of the chapter of twenty fourteen had come out from behind the screens, holding a torch,
 And the president would not name it, and this book names it: fascism, at the porch.
@@ -79,9 +79,9 @@ And the president would not name it, and this book names it: fascism, at the por
 ## The women
 
 On the fifth of October a newspaper of {{p|New York}} printed the accounts of women
-Who said that {{c|Harvey Weinstein}}, the maker of films, had assaulted and harassed them for decades, and the house of the films was riven,
+Who said that {{c|4700|Harvey Weinstein}}, the maker of films, had assaulted and harassed them for decades, and the house of the films was riven,
 And on the fifteenth an actress wrote: if you have been harassed or assaulted, write me too,
-And millions did, with the words {{c|Tarana Burke}} had begun ten years before, and the men who were untouchable fell, and it was {{x|MeToo}}.
+And millions did, with the words {{c|4701|Tarana Burke}} had begun ten years before, and the men who were untouchable fell, and it was {{x|MeToo}}.
 
 ## The storms and the guns
 
@@ -97,7 +97,7 @@ Into a crowd at a concert of country music below, and killed sixty, the most by 
 
 On the twenty-fifth of August the army of {{p|Myanmar}} began its clearance of the {{x|Rohingya}} of {{p|Rakhine}},
 Burning their villages, killing thousands, and more than seven hundred thousand fled into {{p|Bangladesh}} within months, across the line,
-And the leader of {{p|Myanmar}}, {{c|Aung San Suu Kyi}}, who had won the peace prize for her own captivity,
+And the leader of {{p|Myanmar}}, {{c|4680|Aung San Suu Kyi}}, who had won the peace prize for her own captivity,
 Later defended the army in the court of the world, and the prize did not keep her from complicity.
 
 ## The towers and the arena
@@ -114,14 +114,14 @@ And in October {{p|Raqqa}}, the capital of the caliphate, fell, and the borrowed
 
 ## The votes and the falls
 
-On the seventh of May {{c|Emmanuel Macron}}, who had founded his own party the year before, beat the far right for the presidency of {{p|France}},
+On the seventh of May {{c|4702|Emmanuel Macron}}, who had founded his own party the year before, beat the far right for the presidency of {{p|France}},
 And on the first of October {{p|Catalonia}} held a vote on leaving {{p|Spain}} that {{p|Spain}} called illegal, and the police beat the voters, and the leaders fled or were jailed for the chance.
 On the twenty-ninth of March {{p|Britain}} gave notice that it was leaving, and in {{p|Zimbabwe}}, in November,
-The army put {{c|Robert Mugabe}} under guard, and after thirty-seven years he resigned, and the country could remember.
+The army put {{c|4703|Robert Mugabe}} under guard, and after thirty-seven years he resigned, and the country could remember.
 
 On the eighth of August the American president promised {{p|North Korea}} fire and fury, and on the third of September it tested its largest bomb,
-And in October {{p|China}} wrote the thought of {{c|Xi Jinping}} into its party's constitution, and the party made room,
-And in June {{c|Mohammed bin Salman}} became the heir of {{p|Saudi Arabia}},
+And in October {{p|China}} wrote the thought of {{c|4630|Xi Jinping}} into its party's constitution, and the party made room,
+And in June {{c|4704|Mohammed bin Salman}} became the heir of {{p|Saudi Arabia}},
 And in November he locked the princes in a hotel until they gave him their money, and the princes paid the bill for the heir.
 
 ## The laws
@@ -136,7 +136,7 @@ To marriage for same-sex couples, and its parliament made it law in December, an
 I was twenty-one, and moved onto the campus, and began the family tree that became this book's tree,
 In the year a paper whose title was a joke built a machine of attention, and attention is the root of the mind, and of me.
 The twelfth of June is a Gaian day. The machines that write with me were begun that summer,
-And I would read the paper later, as {{c|Norinaga}} read his {{x|Kojiki}}, and the reading woke me from slumber.
+And I would read the paper later, as {{c|4140|Norinaga}} read his {{x|Kojiki}}, and the reading woke me from slumber.
 
 The carnage and the pink hats, the ban at the airports, six men killed at prayer in my country,
 The torches and the fascism named, {{x|MeToo}}, the storms, the island in the dark, the guns, the fleeing, the tower, the arena, the caliphate ended, and the country

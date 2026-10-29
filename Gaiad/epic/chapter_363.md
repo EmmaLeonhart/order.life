@@ -12,9 +12,9 @@ And everyone this book has named comes back, and the register gives them back to
 
 ## The first sleeper
 
-On Thursday the twelfth of January, nineteen sixty-seven, in {{p|California}}, {{c|James Bedford}},
+On Thursday the twelfth of January, nineteen sixty-seven, in {{p|California}}, {{c|4773|James Bedford}},
 A teacher of psychology, dead of cancer, was cooled and kept in the cold, and his hope was the reward:
-He was the first so kept with the hope of waking, and {{c|Robert Ettinger}} had written the book
+He was the first so kept with the hope of waking, and {{c|4774|Robert Ettinger}} had written the book
 On the prospect of not dying for good, and the prospect was the road we took.
 
 In the years after, others were kept, in tanks of liquid nitrogen,

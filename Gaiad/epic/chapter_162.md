@@ -17,8 +17,8 @@ Continent's demographic map becomes the map of {{p|Bantu}} speakers.
 {{p|Cameroon}} and {{p|Nigeria}}, in {{p|West Africa}}. They spoke a language
 
 Belonging to the {{p|Niger-Congo}} family, specifically the {{p|Bantu}}
-Branch. They carried primarily the {{c|E1b1a}} (now called {{c|E-V38}})
-{{p|Y-chromosome}} haplogroup—a sub-clade of the {{c|E}} haplogroup that
+Branch. They carried primarily the {{c|1949|E1b1a}} (now called {{c|1948|E-V38}})
+{{p|Y-chromosome}} haplogroup—a sub-clade of the {{c|1861|E}} haplogroup that
 The {{x|Gaiad}} has already described as the {{p|African}} branch that
 
 Stayed on the continent while its sister clades migrated out. And
@@ -119,8 +119,8 @@ Gradually spreading into lands that could be farmed.
                                                        Genetically,
 The {{p|Bantu}} expansion is visible. Modern sub-Saharan {{p|Africans}}
 
-South of the equator carry predominantly {{c|E1b1a-V38}} or related
-{{c|E}} sub-clades on their {{p|Y-chromosome}}. Their maternal lineages
+South of the equator carry predominantly {{c|2164|E1b1a-V38}} or related
+{{c|1861|E}} sub-clades on their {{p|Y-chromosome}}. Their maternal lineages
 Show some regional diversity—the original {{p|Bantu}} homeland's
 Haplogroups are mixed with local haplogroups from wherever the
 
@@ -301,7 +301,7 @@ Processes of the last three thousand years—because it laid the
 Demographic foundation of the modern {{p|African}} continent.
 
                                                               {{p|Bantu}}.
-{{c|E1b1a}}. {{p|West Africa}}. {{p|Great Lakes}}. {{p|Congo}} basin. {{p|Kalahari}} and {{p|Cape}}.
+{{c|1949|E1b1a}}. {{p|West Africa}}. {{p|Great Lakes}}. {{p|Congo}} basin. {{p|Kalahari}} and {{p|Cape}}.
 {{p|Swahili}}, {{p|Zulu}}, {{p|Xhosa}}, {{p|Shona}}, {{p|Kikuyu}}, {{p|Ganda}}. Iron smelting
 
 And banana cultivation. Three thousand miles and two thousand

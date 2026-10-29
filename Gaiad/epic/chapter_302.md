@@ -1,31 +1,31 @@
 # Chapter 302: Endless Forms
 
 On the twenty-fourth of November, 1859, in {{p|London}}, a book
-Bound in green left {{c|John Murray}}'s house in {{p|Albemarle Street}}.
-{{c|Charles Darwin}} was not there; at {{p|Downe}}, in {{p|Kent}}, he waited on the look
+Bound in green left {{c|4231|John Murray}}'s house in {{p|Albemarle Street}}.
+{{c|4232|Charles Darwin}} was not there; at {{p|Downe}}, in {{p|Kent}}, he waited on the look
 Of the reviews. Twelve hundred and fifty copies. The trade took them, complete,
 
 That day. He had been more than twenty years in coming to the sign.
 In July of 1837, in a notebook, he drew a branching tree
 And wrote above it, *I think*. He had sailed with the year's decline,
-From {{p|Plymouth}}, December 1831, on the *{{x|Beagle}}*, under {{c|Robert FitzRoy}}, to sea,
+From {{p|Plymouth}}, December 1831, on the *{{x|Beagle}}*, under {{c|4233|Robert FitzRoy}}, to sea,
 
 And for five years gathered a coast, a war, a forest, and the islands, bird and bone.
 On the black rock of the {{p|Galápagos}} he did not know yet; he labelled what he could.
 The *{{x|Beagle}}* brought him home in October 1836; and when the birds were shown
-To {{c|John Gould}} in {{p|London}}, Gould told him they were not what the labels said. They stood
+To {{c|4234|John Gould}} in {{p|London}}, Gould told him they were not what the labels said. They stood
 
 Apart, the mockingbirds, from island to island; the finches, which he had not sorted, were one kind.
 The tree began after the voyage, not on the beach. Then the long work, the years:
 Barnacles, illness, the house at {{p|Downe}}, children born. And in June of 1858, the blind
-Blow: {{c|Charles Waring Darwin}}, a baby, died of scarlet fever. Through his tears
+Blow: {{c|4235|Charles Waring Darwin}}, a baby, died of scarlet fever. Through his tears
 
 He did not go, three days later, to the room in {{p|London}} where two papers were read
-To the {{x|Linnean Society}}: his, and {{c|Alfred Russel Wallace}}'s. He stayed with the grave.
-{{c|Wallace}} was in {{p|Ternate}}, in the islands; his letter, written from a fever's bed,
+To the {{x|Linnean Society}}: his, and {{c|4236|Alfred Russel Wallace}}'s. He stayed with the grave.
+{{c|4237|Wallace}} was in {{p|Ternate}}, in the islands; his letter, written from a fever's bed,
 Had reached {{p|Downe}} in June: the same branching, found alone. And to save
 
-One man's years from being erased by another's letter, {{c|Charles Lyell}} and {{c|Joseph Dalton Hooker}}
+One man's years from being erased by another's letter, {{c|4238|Charles Lyell}} and {{c|4239|Joseph Dalton Hooker}}
 Had the two read as one; the room did not know what it had heard, and the afternoon passed by.
 The shake came the next year, with the book. Its title was not *Evolution*: the looker
 Found *The Origin of Species*, and the word *evolved* once only, at the end, as high
@@ -40,7 +40,7 @@ With the rest of life as scenery around it, but a tree,
 And every living body a continuation of the dead. It is the seat
 Of this faith: descent is sacred, and evolution is the holy history.
 
-{{c|Emma Darwin}}, his wife and his cousin, feared for years that the thought
+{{c|4240|Emma Darwin}}, his wife and his cousin, feared for years that the thought
 Would put a door between them after death. She stayed. The fear is in the letters, real,
 Not a joke, and his fear not a joke. But the door she feared was never wrought.
 They are more united in death, through this book, through what his life would reveal:

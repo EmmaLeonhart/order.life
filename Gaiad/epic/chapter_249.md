@@ -7,16 +7,16 @@ Of the {{p|Wabash}} and the {{p|Maumee}}, where the trees
 Grew thick as armies and the undergrowth's boundary
 Was a labyrinth of shadow, root, and freeze
 
-Of winter streams--the {{c|Miami}} and the {{c|Shawnee}},
-The {{c|Delaware}} and {{c|Wyandot}} and {{c|Ottawa}},
-The {{c|Ojibwe}} and {{c|Potawatomi}}'s brawny
-{{c|Confederation}}--rose against the law
+Of winter streams--the {{c|3619|Miami}} and the {{c|3620|Shawnee}},
+The {{c|3621|Delaware}} and {{c|3622|Wyandot}} and {{c|3584|Ottawa}},
+The {{c|3623|Ojibwe}} and {{c|3624|Potawatomi}}'s brawny
+{{c|3625|Confederation}}--rose against the law
 
 Of the new republic's hunger for the ground
 Beneath their feet.
 
                      The {{x|Treaty}} of {{p|Paris}} gave
-The {{c|Americans}} a line drawn and unwound
+The {{c|3404|Americans}} a line drawn and unwound
 Across the map--the {{p|Ohio}}'s wave
 
 As boundary of the new nation's western edge.
@@ -24,9 +24,9 @@ But lines on maps are the empire's fantasy:
 The nations of the forest held their pledge
 To defend the land their grandfathers' dynasty
 
-Had hunted since before the {{c|English}} came,
-And no treaty signed by distant {{c|European}} hands
-Could grant the {{c|Americans}} a legitimate claim
+Had hunted since before the {{c|3244|English}} came,
+And no treaty signed by distant {{c|3401|European}} hands
+Could grant the {{c|3404|Americans}} a legitimate claim
 To the {{p|Ohio}} country and its bands
 
 Of sovereign peoples who had signed nothing.
@@ -37,18 +37,18 @@ And surveying of the forest, the clearing
 
 Of the title, the erasure of the name
 That every creek and ridge already bore
-In {{c|Shawnee}} and in {{c|Miami}}--the same
+In {{c|3620|Shawnee}} and in {{c|3619|Miami}}--the same
 Hunger that had broken down the door
 
 Of every eastern nation now pressed west
-With the weight of a {{c|Republic}}'s manifest
-And {{c|God}}-anointed greed.
+With the weight of a {{c|3626|Republic}}'s manifest
+And {{c|472|God}}-anointed greed.
 
                          They met the best
 Military mind the continent possessed.
 
-{{c|Mihsihkinaahkwa}}--{{c|Little Turtle}}--
-War chief of the {{c|Miami}}, whose tactical
+{{c|3627|Mihsihkinaahkwa}}--{{c|3628|Little Turtle}}--
+War chief of the {{c|3619|Miami}}, whose tactical
 Genius turned the forest to a girdle
 Of destruction for every sabbatical
 
@@ -64,26 +64,26 @@ Of morning fog and shadow gave no route
 
 Of safe retreat.
 
-                  Beside him {{c|Weyapiersenwah}}--
-{{c|Blue Jacket}} of the {{c|Shawnee}}--brought the fire
+                  Beside him {{c|3629|Weyapiersenwah}}--
+{{c|3630|Blue Jacket}} of the {{c|3620|Shawnee}}--brought the fire
 Of a warrior's fury and a leader's awe
 To the confederacy. And higher
 
-Still, the {{c|British}} at {{p|Detroit}} supplied
+Still, the {{c|3581|British}} at {{p|Detroit}} supplied
 The muskets and the powder and the word
 Of encouragement from the imperial side
 That had lost the war but still preferred
 
-The {{c|Indigenous}} wall between the {{c|American}} flood
+The {{c|3561|Indigenous}} wall between the {{c|3484|American}} flood
 And the fur-trade empire of the northern lakes.
 
-In seventeen-ninety, {{c|Harmar}} marched through mud
+In seventeen-ninety, {{c|3631|Harmar}} marched through mud
 And forest with fourteen hundred men--mistakes
 
 Compounding with each mile, the militia raw
 And undisciplined, the column strung along
 The trail like a serpent with a broken jaw--
-And {{c|Little Turtle}} struck. The primal song
+And {{c|3628|Little Turtle}} struck. The primal song
 
 Of the forest ambush: the musket's crack
 From behind the trees, the warriors invisible
@@ -92,14 +92,14 @@ Of militia breaking, the indivisible
 
 And lethal coordination of the allied nations
 Moving through the woods like water through the stone.
-{{c|Harmar}}'s army shattered--two engagements'
+{{c|3631|Harmar}}'s army shattered--two engagements'
 Humiliation, then the long retreat alone
 
 Back to {{p|Fort Washington}} with the dead
 Left rotting on the trail.
 
-                            The {{c|Republic}} burned
-With shame. And sent a larger force--{{c|St. Clair}},
+                            The {{c|3626|Republic}} burned
+With shame. And sent a larger force--{{c|3632|St. Clair}},
 The governor, the general who had learned
 
 Nothing from the forest's previous lesson.
@@ -114,7 +114,7 @@ Still dark, the sentries sleeping, the stamped
 
 And frozen ground a bivouac of the doomed.
 
-At dawn {{c|Little Turtle}} struck with everything.
+At dawn {{c|3628|Little Turtle}} struck with everything.
 
 A thousand warriors in the fog that loomed
 Like the forest's own vengeance--the shattering
@@ -126,29 +126,29 @@ Of a battle that was a masterwork, the summary
 
 Of everything the forest nations knew
 Of war against the invader's clumsy lines:
-Six hundred {{c|American}} dead, the avenue
+Six hundred {{c|3484|American}} dead, the avenue
 Of retreat a gauntlet of the pines
 
-And the pursuing warriors. {{c|St. Clair}} escaped
+And the pursuing warriors. {{c|3632|St. Clair}} escaped
 On a packhorse, gout-ridden and disgraced--
-The worst defeat the {{c|American}} army gaped
+The worst defeat the {{c|3484|American}} army gaped
 At in its history, the taste
 
-Of {{c|Indigenous}} military genius on the tongue
+Of {{c|3561|Indigenous}} military genius on the tongue
 Of a nation that would spend two centuries
 Denying that such genius could have sprung
 From the peoples it was determined to seize.
 
-The {{c|Republic}} reeled. But the {{c|Republic}} had
+The {{c|3626|Republic}} reeled. But the {{c|3626|Republic}} had
 What the confederacy did not: the endless
 Reserve of men and money, the iron-clad
 And industrial patience of a nation's relentless
 
 Capacity to absorb defeat and return.
 
-{{c|Anthony Wayne}}--"{{c|Mad Anthony}}"--was sent
+{{c|3633|Anthony Wayne}}--"{{c|3634|Mad Anthony}}"--was sent
 With a disciplined and drilled army to burn
-What {{c|Little Turtle}} had built. He spent
+What {{c|3628|Little Turtle}} had built. He spent
 
 Two years in preparation, forging soldiers
 From the raw militia's undisciplined mass,
@@ -157,7 +157,7 @@ Of a methodical advance through the grass
 
 And forest of the {{p|Ohio}} country.
 
-{{c|Little Turtle}} read the wind. He saw
+{{c|3628|Little Turtle}} read the wind. He saw
 The change: this was no blundering foray
 But a calculated war without a flaw
 
@@ -166,8 +166,8 @@ Negotiate, he said, while strength remains,
 Before the final battle brings the lease
 Of our sovereignty to its bloody strains.
 
-But {{c|Blue Jacket}} and the younger warriors chose
-To fight--and {{c|Little Turtle}}, loyal
+But {{c|3630|Blue Jacket}} and the younger warriors chose
+To fight--and {{c|3628|Little Turtle}}, loyal
 To the confederacy, accepted what the prose
 Of history would render as the royal
 
@@ -180,10 +180,10 @@ In a tangle of trunk and branch and stone--
 The armies met in August, ninety-four.
 The warriors had fasted for the fight
 And many had gone home to eat before
-The battle came--and {{c|Wayne}} struck at the height
+The battle came--and {{c|3635|Wayne}} struck at the height
 
-Of the confusion. The {{c|American}} bayonet
-Drove through the timber's maze, and the {{c|British}} fort
+Of the confusion. The {{c|3484|American}} bayonet
+Drove through the timber's maze, and the {{c|3581|British}} fort
 That stood nearby refused to let
 The warriors in--the final and most short
 
@@ -204,12 +204,12 @@ And annual reminder of the fallow
 
 And diminished life that treaties leave behind.
 
-Honor {{c|Little Turtle}}--{{c|Mihsihkinaahkwa}}--
+Honor {{c|3628|Little Turtle}}--{{c|3627|Mihsihkinaahkwa}}--
 The genius of the forest, whose refined
 And devastating art of war could draw a
 
 Nation to its knees, who gave the young
-{{c|Republic}} its worst defeat and proved
+{{c|3626|Republic}} its worst defeat and proved
 That the forest was not empty, that the tongue
 Of every creek and ridge had moved
 
@@ -220,10 +220,10 @@ That the forest, in the end, would never
 
 Belong to those who could not read its name.
 He lost. The numbers and the factories
-And the {{c|British}} treachery were the flame
+And the {{c|3581|British}} treachery were the flame
 That burned the confederacy. But the histories
 
 Remember what the treaty tried to erase:
 That the greatest military mind that ever fought
-Upon this continent wore an {{c|Indigenous}} face,
+Upon this continent wore an {{c|3561|Indigenous}} face,
 And the forest speaks the lesson that he taught.

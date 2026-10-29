@@ -1,8 +1,8 @@
 # Chapter 206: The Mongols in Europe
 
-{{c|Batu Khan}}, grandson of {{c|Genghis}}, led
+{{c|3069|Batu Khan}}, grandson of {{c|3077|Genghis}}, led
 the western campaign in the late 1230s.
-The {{c|Kipchak}} steppe was conquered first,
+The {{c|3068|Kipchak}} steppe was conquered first,
 then the Russian principalities in frost-bound recedes.
 
 {{p|Ryazan}} fell in 1237, burned.
@@ -12,30 +12,30 @@ with only two hundred houses un-cracked.
 
 The "{{x|Tatar Yoke}}" began. For two centuries
 the Russian princes would pay tribute,
-travel to the {{c|Golden Horde}}'s capital
+travel to the {{c|3074|Golden Horde}}'s capital
 at {{p|Sarai}} on the {{p|Volga}}, submit their contribute.
 
 {{p|Moscow}}, a minor town among many,
-proved useful as tax-collector for the {{c|Horde}}.
+proved useful as tax-collector for the {{c|3116|Horde}}.
 Its princes accumulated wealth and favor,
 and would eventually rise to become lord.
 
-After {{p|Russia}}, {{c|Batu}} pushed into {{p|Poland}} and {{p|Hungary}}
-in 1241. At {{c|Legnica}}, a Polish-German
+After {{p|Russia}}, {{c|3070|Batu}} pushed into {{p|Poland}} and {{p|Hungary}}
+in 1241. At {{c|3117|Legnica}}, a Polish-German
 army was destroyed by Mongol feigned retreat.
-At {{c|Mohi}}, the Hungarian army was stern
+At {{c|3118|Mohi}}, the Hungarian army was stern
 
-defeated, {{c|King Béla IV}} fleeing for his life.
-The {{c|Mongols}} reached the {{p|Adriatic Sea}}.
+defeated, {{c|3119|King Béla IV}} fleeing for his life.
+The {{c|2904|Mongols}} reached the {{p|Adriatic Sea}}.
 {{p|Vienna}} was in the plans. {{p|Europe}} expected
 annihilation — but then reprieve came free.
 
-{{c|Great Khan}} {{c|Ögedei}} died in {{p|Karakorum}} that December.
-{{c|Batu}} had to return east for the succession quarrel.
+{{c|3065|Great Khan}} {{c|3120|Ögedei}} died in {{p|Karakorum}} that December.
+{{c|3070|Batu}} had to return east for the succession quarrel.
 He never came back west. {{p|Europe}} was saved
 by a drunkard's death in a distant Mongol barrel.
 
-The {{c|Mongols}} had demonstrated that European
+The {{c|2904|Mongols}} had demonstrated that European
 knightly armies were not equipped to face
 steppe-warfare tactics. Composite bows, feigned retreat,
 mobile light cavalry, coordinated attack pace.
@@ -45,10 +45,10 @@ Later, in the {{x|Hundred Years' War}}, the English
 longbow would answer in similar logic.
 Warfare was about to change its language.
 
-The {{c|Golden Horde}} established itself on the
+The {{c|3074|Golden Horde}} established itself on the
 lower {{p|Volga}} and ruled the western steppes.
 For two and a half centuries, from the {{p|Black Sea}}
-to the {{p|Urals}}, the {{c|Horde}} kept rule of its steps.
+to the {{p|Urals}}, the {{c|3116|Horde}} kept rule of its steps.
 
 The Russian princes would eventually unite
 under {{p|Moscow}} to throw off this yoke.

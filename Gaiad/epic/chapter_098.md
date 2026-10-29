@@ -1,6 +1,6 @@
 # Chapter 98: The Plesiosaur Queens
 
-Now {{c|Nothros}}' children, who had paddled close
+Now {{c|1729|Nothros}}' children, who had paddled close
 To shore through all the {{x|Triassic}} years—
 Half-aquatic, like a coastal prose
 That never quite committed—shed their fears
@@ -12,19 +12,19 @@ Of the end-{{x|Triassic}} dying, the sea
 Had emptied its niches for any lineage to take
 That had the body and the will to be
 
-A ruler of the deep—and {{c|Nothros}}' heirs
-Answered the ocean's invitation: the {{c|Plesios}},
+A ruler of the deep—and {{c|1729|Nothros}}' heirs
+Answered the ocean's invitation: the {{c|1742|Plesios}},
 The plesiosaurs, who took the sauropterygian airs
 Of paddle-limb and barrel-chest, and chose
 
 To perfect them for the open sea.
 
-Two forms emerged from {{c|Nothros}}' legacy:
+Two forms emerged from {{c|1729|Nothros}}' legacy:
 The long-necked ones, whose serpentine and free
 Design of neck stretched half the body's agency
 
 Into a fishing-crane above the waves—
-{{c|Elasmosauros}}, with a neck so long
+{{c|1748|Elasmosauros}}, with a neck so long
 She seemed a serpent rising from the caves
 Of the deep to snatch the fish—her song
 
@@ -34,9 +34,9 @@ The jaws arriving from the underwater bush
 Of the plesiosaur's patient, waiting maw.
 
 And the short-necked ones: the pliosaurs, great
-{{c|Plios}}, with massive heads and shorter necks,
+{{c|1749|Plios}}, with massive heads and shorter necks,
 Built for power rather than for the ornate
-And serpentine—{{c|Plios}} was the {{x|Hex}}
+And serpentine—{{c|1749|Plios}} was the {{x|Hex}}
 
 Of every marine creature's nightmare: jaws
 The length of a man, teeth like railroad spikes,
@@ -61,8 +61,8 @@ The title of the ocean's most elegant and brave
 Swimmers: the plesiosaurs who flew through water.
 
 And in their bones the turtle-kinship showed:
-{{c|Paraps}}' patient architecture's daughter,
-The same body-plan that {{c|Turtlos}} owed
+{{c|1677|Paraps}}' patient architecture's daughter,
+The same body-plan that {{c|1678|Turtlos}} owed
 
 His shell expressed in marine magnificence—
 The flipper-paddle that the sea turtle shares
@@ -70,13 +70,13 @@ With the plesiosaur is not coincidence
 But the deep homology that the fossil declares:
 
 Both children of the same ancestral hand,
-Both built from {{c|Paraps}}' patient blueprint, one
+Both built from {{c|1677|Paraps}}' patient blueprint, one
 On land with shell, the other in the grand
 And open ocean with the underwater run
 
 Of four-wing flight.
 
-                    The {{c|Plesios}} ruled
+                    The {{c|1742|Plesios}} ruled
 The {{x|Jurassic}} and the {{x|Cretaceous}} seas—
 A hundred and thirty million years they pooled
 Their dynasty across the oceanic freeze
@@ -88,18 +88,18 @@ Toward the marine—as common as the wealth
 
 Of the sea itself, in every age and latitude.
 
-They bore live young—as {{c|Ichthyos}} did—
+They bore live young—as {{c|1726|Ichthyos}} did—
 The open ocean leaving no certitude
 Of a beach for egg-laying—so the plesiosaur hid
 
 Her young within her body, gave birth at sea,
-And the newborn {{c|Plesios}} swam beside
+And the newborn {{c|1742|Plesios}} swam beside
 Her mother from the first, already free
 Of any shore, already in the tide
 
 Of the plesiosaur's eternal hunting-flight.
 
-Honor {{c|Plesios}} and her long-necked line—
+Honor {{c|1742|Plesios}} and her long-necked line—
 The turtle's cousins of the oceanic night
 Who took the ancient body-plan's design
 
@@ -111,4 +111,4 @@ Of breathing at the surface made them buyers
 Of the ocean's greatest real estate—
 And ruled it longer than any other line
 Of marine reptile—patient, elegant, and great:
-The {{c|Paraps}}-kindred of the oceanic brine.
+The {{c|1677|Paraps}}-kindred of the oceanic brine.

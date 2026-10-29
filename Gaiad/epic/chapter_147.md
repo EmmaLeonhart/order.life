@@ -2,7 +2,7 @@
 
 And on an island at the far northwestern edge of {{p|Europe}},
 Long before anyone there could write, long before anyone
-There had heard of {{c|Sargon}} or {{c|Khufu}} or the civilizations
+There had heard of {{c|1970|Sargon}} or {{c|1965|Khufu}} or the civilizations
 Of the {{p|Near East}}, another monumental project was underway.
 
 {{p|Stonehenge}}. On the {{p|Salisbury Plain}} of what is now {{p|England}}.
@@ -18,7 +18,7 @@ Three thousand BCE, as a circular earthwork—a ditch and bank
 
 Enclosure about three hundred and thirty feet in diameter, with
 Wooden posts inside. This was the late {{p|Neolithic}} phase.
-{{c|I}}-haplogroup and {{c|G}}-haplogroup populations—the old hunter-
+{{c|1875|I}}-haplogroup and {{c|1873|G}}-haplogroup populations—the old hunter-
 Gatherer and Neolithic-farmer substrate of {{p|Britain}}—were the
 
 Builders of this initial phase. They carried the bluestones from
@@ -68,7 +68,7 @@ Annual journey.
 Iconic. And this is the phase that was built during the {{p|Yamnaya}}
 Expansion into {{p|Britain}}—the arrival of the {{p|Beaker Culture}}, which
 
-Carried {{c|R1b}} haplogroup signature and {{p|Indo-European}} language
+Carried {{c|1942|R1b}} haplogroup signature and {{p|Indo-European}} language
 Into the island. Ancient DNA analysis has shown that the late
 {{x|Neolithic}} {{p|British}} population was almost entirely replaced—some
 Ninety percent turnover—by {{p|Beaker}}-associated populations in
@@ -96,7 +96,7 @@ Farming. By the time the {{p|Romans}} arrived in the first century CE,
 
 {{p|Stonehenge}} was already ancient—fifteen hundred years old,
 Already a mystery to the local {{p|Celtic}} populations, who had their
-Own explanations (involving {{c|Merlin}} and giants, though these
+Own explanations (involving {{c|1987|Merlin}} and giants, though these
 Stories are later {{p|Arthurian}} accretions). The {{p|Romans}} did not
 
 Destroy the monument. Neither did the {{p|Anglo-Saxons}}. Neither did

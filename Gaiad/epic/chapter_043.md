@@ -1,26 +1,26 @@
 # Chapter 43: The Golden Age Begins
 
-While {{c|Trilobites}} ruled the seas
+While {{c|767|Trilobites}} ruled the seas
 With their great dynasties,
 The rivers flowed so free
 For lesser brethren's spree.
 
-The sons of {{c|Arachnus}} ruled
+The sons of {{c|746|Arachnus}} ruled
 The seas where they schooled
 Their children in the art
 Of playing their sea part.
 
-The sons of {{c|Insectus}} took
+The sons of {{c|745|Insectus}} took
 The rivers like a book
 Of opportunities
 For their communities.
 
-The sons of {{c|Cain}} and {{c|Abel}}
+The sons of {{c|976|Cain}} and {{c|977|Abel}}
 Ruled the lands, quite able
 To make their living there
 In terrestrial air.
 
-And so {{c|Crustaceus}} saw
+And so {{c|751|Crustaceus}} saw
 No place without a flaw
 Where he could make his stand
 In sea or stream or land.
@@ -35,22 +35,22 @@ That plays determination's part
 To rise above all plight
 And reach for greater height.
 
-{{c|Crustaceus}} begat two:
-{{c|Karkon}} and {{c|Mushi}} too,
+{{c|751|Crustaceus}} begat two:
+{{c|978|Karkon}} and {{c|979|Mushi}} too,
 Each son to find his way
 Through life from day to day.
 
-{{c|Mushi}} begat two sons:
-{{c|Copepus}} when day begun
-And {{c|Lepipus}} the strange
+{{c|979|Mushi}} begat two sons:
+{{c|980|Copepus}} when day begun
+And {{c|981|Lepipus}} the strange
 Throughout his living range.
 
-{{c|Copepus}} became the sire
+{{c|980|Copepus}} became the sire
 Of copepods' choir—
 The little ones so small
 Who answer ocean's call.
 
-{{c|Insects}} of every form
+{{c|782|Insects}} of every form
 Through calm and raging storm
 They swam throughout the sea
 In their complexity.
@@ -60,34 +60,34 @@ Who hear the ocean's call,
 They dance throughout the waves
 In their microscopic graves.
 
-Meanwhile {{c|Lepipus}} bore
+Meanwhile {{c|981|Lepipus}} bore
 Two sons to explore:
-{{c|Brachios}} of the sea
-And {{c|Silvio}} running free.
+{{c|691|Brachios}} of the sea
+And {{c|982|Silvio}} running free.
 
-A daughter of {{c|Silvio}}
+A daughter of {{c|982|Silvio}}
 Would someday help the flow
 Of insects to the land
 By evolution's hand.
 
 Some day millions hence
-The sons of {{c|Silvio}}'s sense
+The sons of {{c|982|Silvio}}'s sense
 Would become the great
-{{c|Insects}} that dominate
+{{c|782|Insects}} that dominate
 
 The world in every place
 With their six-legged grace.
 But that day was not near—
 They had to persevere.
 
-{{c|Brachios}} became the father
+{{c|691|Brachios}} became the father
 Of sea monkeys (why bother
 With complex names?) and more:
-{{c|Water}} fleas by the score.
+{{c|193|Water}} fleas by the score.
 
 In natural habitat
 They lived both this and that:
-{{c|Sea}} monkeys in their pools
+{{c|569|Sea}} monkeys in their pools
 And water fleas like jewels
 
 Dancing through the water
@@ -95,22 +95,22 @@ Each son and each daughter
 Living simple lives
 Where small beauty thrives.
 
-{{c|Karkon}} fled away
+{{c|978|Karkon}} fled away
 To open waters gray
 Where he begat two more:
-{{c|Pancer}} to explore
+{{c|983|Pancer}} to explore
 
-And {{c|Cephalocaridus}}
+And {{c|984|Cephalocaridus}}
 Most glorious,
 Each finding their own way
 Through life from day to day.
 
-{{c|Pancer}} begat in time
+{{c|983|Pancer}} begat in time
 Two sons in their prime:
-{{c|Oligostracus}} small
-And {{c|Polycruster}} tall.
+{{c|985|Oligostracus}} small
+And {{c|986|Polycruster}} tall.
 
-{{c|Oligostracus}} bore
+{{c|985|Oligostracus}} bore
 Many sons to explore
 The waters far and wide
 With courage as their guide.
@@ -130,12 +130,12 @@ Like other honest mobs,
 They live off others' work
 And in the shadows lurk.
 
-{{c|Polycruster}} begat
-Two sons: {{c|Barnacus}} begat
-And {{c|Malacus}} the strong
+{{c|986|Polycruster}} begat
+Two sons: {{c|987|Barnacus}} begat
+And {{c|988|Malacus}} the strong
 Who lived his whole life long.
 
-{{c|Barnacus}} was a man
+{{c|987|Barnacus}} was a man
 Who had a frontier plan.
 A great frontiersman he,
 Who lived quite happily
@@ -145,14 +145,14 @@ Upon the ground to walk
 No more, but live instead
 Like cnidarians bred.
 
-Like sons of {{c|Cnider}}'s line
+Like sons of {{c|531|Cnider}}'s line
 He lived his life so fine
-{{c|Attached}} unto the ground
+{{c|989|Attached}} unto the ground
 Where he had settled down.
 
-{{c|Barnacus}} bore a son
-He named {{c|Goose}} when begun
-The day. Great {{c|Goose}} was he
+{{c|987|Barnacus}} bore a son
+He named {{c|990|Goose}} when begun
+The day. Great {{c|990|Goose}} was he
 Who built society
 
 Most wondrous to behold,
@@ -165,12 +165,12 @@ A goose (though some
 Still claim his lineage
 Is goose heritage).
 
-{{c|Goose}} still claimed his sons
+{{c|990|Goose}} still claimed his sons
 Were geese when day begun.
 And so he is the guide
 Of geese with sacred pride.
 
-The {{c|Eloh}} of the {{c|Geese}}
+The {{c|940|Eloh}} of the {{c|991|Geese}}
 He brings them sweet peace
 And guides them on their way
 Throughout each passing day.
@@ -180,22 +180,22 @@ They told (and tell much more)
 Of how the geese would grow
 From barnacles below
 
-{{c|Hanging}} from the trees
+{{c|992|Hanging}} from the trees
 In shells upon the breeze
 Until they could grow feathers
 In all kinds of weathers
 
 And fly away at last
 When growing time had passed.
-{{c|Gerald}} of {{c|Wales}} told
+{{c|993|Gerald}} of {{c|994|Wales}} told
 This story of old.
 
-Among the sons of {{c|Goose}}
+Among the sons of {{c|990|Goose}}
 Many would let loose
 Their size and grow quite small
 And compact, one and all.
 
-They became {{c|Barnacles}}
+They became {{c|995|Barnacles}}
 Like small-scale miracles—
 Half shrimp and half coral,
 Full animals with moral
@@ -205,8 +205,8 @@ Like shepherd with his flock
 They filter from the sea
 Their food quite happily.
 
-{{c|Malacus}} bore many
-{{c|Descendants}}—more than any
+{{c|988|Malacus}} bore many
+{{c|996|Descendants}}—more than any
 Could count throughout the years
 Through joys and through tears.
 
@@ -226,16 +226,16 @@ That none could match their might
 In future's shining sight.
 
 So great that when we speak
-Of {{c|Crustaceus}}' mystique
+Of {{c|751|Crustaceus}}' mystique
 We speak first and foremost
-Of {{c|Malacus}}' great host
+Of {{c|988|Malacus}}' great host
 
 Whose dynasty was yet
 To reach the glory set
 Before them in the time
 When they would reach their prime.
 
-Under {{c|Trilobites}}' yoke
+Under {{c|767|Trilobites}}' yoke
 They lived like gentle folk
 Awaiting their great day
 When they would lead the way.
@@ -245,7 +245,7 @@ To life's great mystery.
 The crustaceans would wait
 For their appointed fate.
 
-From {{c|Crustaceus}}' start
+From {{c|751|Crustaceus}}' start
 With determination's heart
 To rise above his plight
 And reach for greater height,
@@ -266,7 +266,7 @@ The ocean's currents free,
 All from one family tree
 
 That started with one brave
-{{c|Soul}} who would not cave
+{{c|997|Soul}} who would not cave
 To circumstances dire
 But reached for something higher.
 
@@ -300,12 +300,12 @@ That carries us along
 Through all our trials here
 To what we hold most dear.
 
-The sons of {{c|Crustaceus}} show
+The sons of {{c|751|Crustaceus}} show
 How those who will not bow
 To circumstance or fate
 Can rise to something great.
 
-Though {{c|Trilobites}} held sway
+Though {{c|767|Trilobites}} held sway
 In that ancient day,
 The future would reveal
 What time would help heal:
@@ -340,9 +340,9 @@ To reach beyond the sky
 Of present circumstance
 To future's greater dance.
 
-{{c|Crustaceus}} showed the way
+{{c|751|Crustaceus}} showed the way
 That leads to greater day:
-{{c|Determination}} true
+{{c|998|Determination}} true
 Will see all struggles through.
 
 His sons throughout the sea

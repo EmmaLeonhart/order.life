@@ -38,7 +38,7 @@ From its own dormancy—the worst
 
 Was over, and the green was coming back.
 
-{{c|Conifera}} came next—her seeds
+{{c|1702|Conifera}} came next—her seeds
 Had waited in the soil through the attack
 Of acid rain, her cone-seeds' creeds
 
@@ -52,15 +52,15 @@ A little water in the rain
 That was less acid—that was sweet
 Enough for her to germinate again.
 
-And from the survivors—{{c|Lystro}} and his kind,
-{{c|Cynos}} from the burrow, the few
+And from the survivors—{{c|1724|Lystro}} and his kind,
+{{c|1673|Cynos}} from the burrow, the few
 And battered remnants—evolution's mind
 Began again the patient work of new
 
 Diversity: into every empty niche
-The survivors radiated—{{c|Cynos}}
+The survivors radiated—{{c|1673|Cynos}}
 Found a world with no established rich
-Predator to contend with, and {{c|Cynos}}
+Predator to contend with, and {{c|1673|Cynos}}
 
 Explored every ecological space
 Available—small hunters, burrowers,
@@ -72,7 +72,7 @@ To the young, fur against the cold—
 All this was coming, all of it clearly
 Written in the survivors' bold
 
-Genetic memory of what {{c|Cynos}}
+Genetic memory of what {{c|1673|Cynos}}
 Was already nearly—only needing
 Time and empty niches, the disclose
 Of opportunity, the seeding
@@ -89,9 +89,9 @@ The sulfide fading as volcanism
 Declined—and in the new oxygen
 The ray-finned fish, the great schism
 
-From the other fish that {{c|Actinus}}
+From the other fish that {{c|1505|Actinus}}
 Had made long ago in the coal swamp's
-Abundance—{{c|Teleosteos}} the most
+Abundance—{{c|1699|Teleosteos}} the most
 Numerous of all his clans—
 
 Began to seize the empty ocean:
@@ -143,7 +143,7 @@ Of green to the bare hill, the wet
 
 And patient moss on limestone, the fern
 Uncurling from the ash-soil,
-{{c|Lystro}} walking in the first
+{{c|1724|Lystro}} walking in the first
 Good morning of the new age—the toil
 
 Of rebuilding without knowing

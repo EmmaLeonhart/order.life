@@ -1,6 +1,6 @@
 # Chapter 228: Norte Chico
 
-The {{c|Na-Dené}} moved south—and the world moved with them.
+The {{c|3413|Na-Dené}} moved south—and the world moved with them.
 
 Eight thousand years before the common era,
 While the glaciers made their slow and rhythmed
@@ -16,7 +16,7 @@ In a people whose language bore no kinship
 To the tongues around them—the dwindled
 But tenacious fellowship
 
-Of the {{c|Na-Dené}} speakers, the late arrivals
+Of the {{c|3413|Na-Dené}} speakers, the late arrivals
 Whose crossing from {{p|Asia}} had come
 Long after the first migration's survivals
 Had filled the land—and the drum
@@ -27,7 +27,7 @@ Announced them as the second wave.
 From {{p|Alaska}}'s coast where the salmon hung
 In silver curtains at the concave
 
-Mouths of rivers, the {{c|Tlingit}} settled—
+Mouths of rivers, the {{c|3414|Tlingit}} settled—
 Their totem poles would rise like prayers
 Of cedar into the mist, the nettled
 And intricate crests of eagles, bears,
@@ -39,7 +39,7 @@ The potlatch feast where the anomalies
 
 Of wealth were solved by giving it away.
 
-The {{c|Haida}} on their island kingdom
+The {{c|3434|Haida}} on their island kingdom
 Of {{p|Haida Gwaii}} built the relay
 Of the ocean-going canoe—the wisdom
 
@@ -50,7 +50,7 @@ War and trade, the beautiful
 
 And terrifying prow carved as the mouth
 Of the killer whale or the thunderbird—
-The {{c|Na-Dené}} mastery of the south-
+The {{c|3413|Na-Dené}} mastery of the south-
 Flowing coast, every word
 
 Of their language shaped by tide and salmon-run.
@@ -66,16 +66,16 @@ Of the human body with the clefts
 
 And crevices of the arid land—
 And there, millennia later,
-The {{c|Athabaskan}} peoples fanned
+The {{c|3435|Athabaskan}} peoples fanned
 Into the desert as the greater
 
-Migrations of the {{c|Apache}} and {{c|Navajo}}—
-The {{c|Diné}}, "the People," who arrived
+Migrations of the {{c|3436|Apache}} and {{c|3437|Navajo}}—
+The {{c|3438|Diné}}, "the People," who arrived
 In the {{p|Southwest}} with the undertow
-Of the {{c|Na-Dené}} wave, and thrived
+Of the {{c|3413|Na-Dené}} wave, and thrived
 
 In the canyon and the mesa and the sand
-Where older peoples—{{c|Puebloan}} and {{c|Hohokam}}—
+Where older peoples—{{c|3439|Puebloan}} and {{c|3440|Hohokam}}—
 Had already worked the land,
 And the newcomers learned the calm
 
@@ -88,8 +88,8 @@ Before the common era, born
 In the highland valleys where the shears
 
 Of the {{p|Sierra Madre}} cut the sky,
-The {{c|Mesoamerican}} farmer knelt
-Before a grass called {{c|teosinte}}—a dry
+The {{c|3441|Mesoamerican}} farmer knelt
+Before a grass called {{c|3442|teosinte}}—a dry
 And unpromising stalk that dealt
 
 Its seeds in a tiny cob no longer
@@ -113,7 +113,7 @@ The yield more generous—and over
 Millennia of this, the stronger
 And more productive cultivar took over:
 
-{{c|Maize}}—the engineered miracle,
+{{c|3443|Maize}}—the engineered miracle,
 The grass remade by human will
 Into a crop so empirical
 And so dependent on the skill
@@ -151,10 +151,10 @@ Its cold and fertile upwelling through
 
 The driest land on earth—the paradox
 Of the richest sea beside the barest shore—
-The first {{c|Americans}} built the orthodox
+The first {{c|3404|Americans}} built the orthodox
 And foundational settlements, the core
 
-Of what would become the {{c|Norte Chico}}:
+Of what would become the {{c|3444|Norte Chico}}:
 Not yet the monumental plazas,
 Not yet the sunken courts, the fresco
 Of the sacred city—but the piazzas
@@ -176,7 +176,7 @@ By the farmer's and the fisher's chains
 
 Of abundance.
 
-              Honor the {{c|Na-Dené}}—
+              Honor the {{c|3413|Na-Dené}}—
 The second wave, the late arrivals
 Whose separate tongue and separate way
 Enriched the continent's survivals
@@ -192,7 +192,7 @@ Of {{p|Peru}}'s dry coast whose need
 And ingenuity were the swishers
 
 Of the net through the cold and teeming sea:
-The first {{c|Americans}} who chose to stay,
+The first {{c|3404|Americans}} who chose to stay,
 Who built the permanent village, the decree
 Of the settled life—and paved the way
 

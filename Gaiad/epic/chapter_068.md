@@ -5,8 +5,8 @@ And traded water's world for open air,
 The waters still held under heaven's hand
 A nation greater than all those who'd dare
 
-To leave—for {{c|Actinus}}, son of bright
-{{c|Osticthus}}, ruled the realm of water's flow
+To leave—for {{c|1505|Actinus}}, son of bright
+{{c|1493|Osticthus}}, ruled the realm of water's flow
 With fins of spine and membrane, each so right
 For cutting through the current's ceaseless go.
 
@@ -15,18 +15,18 @@ It filled with gas to make him weightless there,
 Suspended in the water day and night
 As if the water were his form of air.
 
-And {{c|Actinus}} and fair {{c|Andrea}} {{c|Lepis}}
+And {{c|1505|Actinus}} and fair {{c|1509|Andrea}} {{c|1510|Lepis}}
 Laid nine hundred eggs with patient care—
 So many futures sown like seeds in this
 One season, filling every water there.
 
-His eldest sons were {{c|Bichiros}} the first,
+His eldest sons were {{c|1695|Bichiros}} the first,
 Who kept the ancient body-plan most pure:
 His scales like plates of bony stone hard-cursed
 In fossil record—scales that would endure.
 
 The bichirs of the deepest {{p|African}} streams
-Still carry {{c|Bichiros}}' ancient form today—
+Still carry {{c|1695|Bichiros}}' ancient form today—
 They breathe both air and water, feeding on dreams
 Of prey in mudflat shallows after day.
 
@@ -40,7 +40,7 @@ A living bridge from one age to the next
 Who shows that some find better than the way
 Of change: the ancient form, forever blessed.
 
-From {{c|Bichiros}} came {{c|Chondrosteos}} great:
+From {{c|1695|Bichiros}} came {{c|1696|Chondrosteos}} great:
 The sturgeons in their bony-scuted lines
 Who'd grow to massive length in every state
 Of river, sea, and lake where water shines.
@@ -55,7 +55,7 @@ A patient bottom-feeder of great age
 Who's outlasted dynasties of yore
 And writes his story on the oldest page.
 
-His cousin {{c|Paddlos}} searches too
+His cousin {{c|1697|Paddlos}} searches too
 With paddle-shaped snout sensing what swims near,
 Detecting fields of electricity through
 The river's depth where prey cannot appear
@@ -65,7 +65,7 @@ Beyond the water's murk and cold and deep—
 The paddlefish whose ancient family's pride
 Is sensing what the clearest eye can't keep.
 
-From these would rise {{c|Holosteos}}' branch
+From these would rise {{c|1698|Holosteos}}' branch
 Whose ganoid scales gleam like ancient mail—
 The garfish of the river and the ranch
 Of southern waters tells the oldest tale
@@ -76,7 +76,7 @@ The gar that lurks with ambush's deadly pride
 Beneath the duckweed and the waterweed's rhyme.
 
 The bowfin is another relic true
-Of {{c|Holosteos}}' patient ancient line,
+Of {{c|1698|Holosteos}}' patient ancient line,
 Who breathes both gill and lung when waters blue
 Turn shallow, warm, and lacking in design
 
@@ -85,8 +85,8 @@ And keeps alive through August's oxygen-thin
 And stagnant summer pools beyond compare
 In any modern fish's discipline.
 
-But from {{c|Actinus}}' greatest gift would spring
-At last the {{c|Teleosteos}} vast—
+But from {{c|1505|Actinus}}' greatest gift would spring
+At last the {{c|1699|Teleosteos}} vast—
 The total bony fish who'd come to bring
 Their numbers to an empire unsurpassed.
 
@@ -97,7 +97,7 @@ Less feeding mechanism none could teach
 
 Who hadn't learned it through the ancient school
 Of trial and error over countless years—
-{{c|Teleosteos}} made this innovation's rule
+{{c|1699|Teleosteos}} made this innovation's rule
 The key to conquering all frontier.
 
 From deep ocean trench to mountain lake,
@@ -113,7 +113,7 @@ The flying fish who leaps from ocean's face,
 The anglerfish with glowing lure below,
 The seahorse where the father bears the young,
 The clownfish in his anemone's glow—
-All {{c|Actinus}}' children, every one.
+All {{c|1505|Actinus}}' children, every one.
 
 He shows us that the patient staying-in
 When others choose to leave can be as wise:
@@ -130,8 +130,8 @@ The rivers, lakes, and all the ocean's span—
 The greatest vertebrate dynasty still,
 Whose legacy outshines any other plan.
 
-From {{c|Bichiros}}' ancient plate-scaled dignity
-To {{c|Teleosteos}}' empire without end,
+From {{c|1695|Bichiros}}' ancient plate-scaled dignity
+To {{c|1699|Teleosteos}}' empire without end,
 The ray-finned fish display to all and free
 How staying in the water can transcend
 

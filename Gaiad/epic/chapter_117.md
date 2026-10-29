@@ -1,13 +1,13 @@
 # Chapter 117: The Threefold Division
 
-Now {{c|Placentos}}—the youngest and the last
-Of {{c|Mammos}}' three great houses—rose to claim
-The world entire: for {{c|Placentos}} had surpassed
+Now {{c|1775|Placentos}}—the youngest and the last
+Of {{c|1743|Mammos}}' three great houses—rose to claim
+The world entire: for {{c|1775|Placentos}} had surpassed
 Both elder siblings in the single game
 
 That mattered most: the womb.
 
-                                For {{c|Placentos}}
+                                For {{c|1775|Placentos}}
 Built inside the mother's body a new
 And revolutionary organ—the placenta's
 Gift was this: a tissue that grew
@@ -40,7 +40,7 @@ Of development—the evolutionary shift
 That would produce the elephant, the whale,
 The dolphin, the ape, and at last the human mind.
 
-And {{c|Placentos}} divided, and the tale
+And {{c|1775|Placentos}} divided, and the tale
 Of the {{x|Cenozoic}}'s mammals is the kind
 
 Of story that geography writes:
@@ -50,12 +50,12 @@ Of adaptation—the threefold decree
 
 Of the breaking {{p|Gondwana}} and the northern lands.
 
-{{c|Afrotheros}} was born in {{p|Africa}}—
+{{c|1782|Afrotheros}} was born in {{p|Africa}}—
 Isolated by the ocean's bands
 From every other continent, a replica
 
 Of the {{p|Australian}} experiment:
-A single landmass, alone, where {{c|Afrotheros}}'
+A single landmass, alone, where {{c|1782|Afrotheros}}'
 Children filled the niches in a different bent
 Than their northern cousins—and the heroes
 
@@ -67,7 +67,7 @@ Of forms that {{p|Africa}}'s isolation in the dark
 Of the early {{x|Cenozoic}} produced
 From a single founding stock.
 
-{{c|Xenarthros}} was born in {{p|South America}}—
+{{c|1783|Xenarthros}} was born in {{p|South America}}—
 The armored wanderer, whose flock
 
 Of children grew in isolation too:
@@ -82,22 +82,22 @@ And car-sized glyptodont whose armored storms
 
 Of carapace made him a living tank.
 
-And {{c|Boreos}}—born in the north, in {{p|Laurasia}}—
+And {{c|1784|Boreos}}—born in the north, in {{p|Laurasia}}—
 The largest and most successful rank
-Of all: for {{c|Boreos}}' intelligentsia
+Of all: for {{c|1784|Boreos}}' intelligentsia
 
 Would produce the carnivores, the ungulates,
 The bats, the whales, the primates, the rodents—
 The overwhelming majority of the fates
 Of mammals were decided in the correspondents
 
-Of {{c|Boreos}}' northern radiation.
+Of {{c|1784|Boreos}}' northern radiation.
 
 Two great houses divided from his line:
-{{c|Euarchos}}—whose predestination
+{{c|1785|Euarchos}}—whose predestination
 Led to the primates and the rodent's design—
 
-And {{c|Laurasios}}—whose children were
+And {{c|1786|Laurasios}}—whose children were
 The carnivores, the hoofed ones, and the bats—
 The northern hunter and the engineer
 Of ungulate and predator, the vats
@@ -106,14 +106,14 @@ Of diversity that {{p|Laurasia}}'s wide
 And connected continents allowed.
 
 Honor the threefold division—the pride
-Of {{c|Placentos}}' house, the endowed
+Of {{c|1775|Placentos}}' house, the endowed
 
 And scattered sons who took the world's
 Three continents and filled them, each alone,
 With the mammalian art—the flags unfurled
-Of {{c|Afrotheros}}, {{c|Xenarthros}}, and the throne
+Of {{c|1782|Afrotheros}}, {{c|1783|Xenarthros}}, and the throne
 
-Of {{c|Boreos}}—three answers to the question
+Of {{c|1784|Boreos}}—three answers to the question
 That the empty {{x|Paleocene}} asked:
 What will the mammal be? Three directions,
 Three continents, three futures unmasked.

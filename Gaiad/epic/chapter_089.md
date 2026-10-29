@@ -19,7 +19,7 @@ Or starve—the water shapes them to the race
 
 And every time the answer is the same.
 
-{{c|Ichthyos}} found this answer first among
+{{c|1726|Ichthyos}} found this answer first among
 The reptiles of the {{x|Triassic}}—and his claim
 To the dolphin shape was older, deeper, wrung
 
@@ -35,7 +35,7 @@ Of hydrodynamics writing the same tale
 
 In every lineage that tries the deep.
 
-By middle {{x|Triassic}}, {{c|Ichthyos}}' children bore
+By middle {{x|Triassic}}, {{c|1726|Ichthyos}}' children bore
 No trace of the limbed ancestor who'd creep
 Ashore between his hunts—the leg was no more:
 
@@ -44,7 +44,7 @@ A fluked tail like a half-moon blade,
 A dorsal fin for stability, the veering
 And cutting of a body purpose-made
 
-For speed—{{c|Ichthyos}} could not walk on land
+For speed—{{c|1726|Ichthyos}} could not walk on land
 And did not need to—he gave live birth
 In the water, like the mammal's later brand
 Of sea-return—no egg upon the earth
@@ -56,14 +56,14 @@ Fully formed, already in the motion
 
 Of the hunt.
 
-             Great {{c|Shonisauros}} grew
+             Great {{c|1727|Shonisauros}} grew
 To the length of whales—fifteen meters long—
 In the {{x|Triassic}} seas of {{p|Tethys}}, through
 The corridors of {{p|Panthalassa}} strong
 
 And wide, where the enormous ocean stretched
 From pole to pole on {{p|Pangaea}}'s open side—
-And smaller {{c|Ichthyos}} hunted and fetched
+And smaller {{c|1726|Ichthyos}} hunted and fetched
 Their fish and squid through every current and tide.
 
 Their eyes were the largest of any animal's—
@@ -73,7 +73,7 @@ Of deep water written in each hunting arc
 
 Through the twilight zone where cephalopods
 And fish sought refuge from the sunlit layer—
-But {{c|Ichthyos}} followed, against all odds
+But {{c|1726|Ichthyos}} followed, against all odds
 Of darkness, guided by the ancient prayer
 
 Of those great eyes to the faintest bioluminescence.
@@ -84,7 +84,7 @@ Conducted sound through water, the marine
 
 And intimate vibration of the deep
 That told of prey and predator and reef
-And current—{{c|Ichthyos}} did not need to keep
+And current—{{c|1726|Ichthyos}} did not need to keep
 His surface-senses, having found relief
 
 In the new senses water offered free.
@@ -105,7 +105,7 @@ The ocean's race has read the selfsame creed.
 
 The shark found it first, in the {{x|Devonian}} tide—
 The tuna found it in the bony fish—
-And {{c|Ichthyos}} found it from the reptile side,
+And {{c|1726|Ichthyos}} found it from the reptile side,
 And dolphins later from the mammal's wish—
 
 And each time, the same: the fusiform,

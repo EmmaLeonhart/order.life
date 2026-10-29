@@ -35,13 +35,13 @@ To the sects, the temples, and the churches.
 A shrine was not yet named in it.
 
 On the first of January, 1946,
-The newspapers printed a rescript of the emperor {{c|Hirohito}}.
+The newspapers printed a rescript of the emperor {{c|4377|Hirohito}}.
 Its title was the construction of a new {{p|Japan}}.
 What people called it was the declaration
 That he was human.
 It was not the recorded voice of the fifteenth of August.
 It began by taking up the five clauses
-Of the {{x|Charter Oath}} {{c|Meiji}} had proclaimed.
+Of the {{x|Charter Oath}} {{c|4398|Meiji}} had proclaimed.
 Then it said the tie between him and the people
 Had always stood on mutual trust and affection.
 It did not depend on mere legends and myths.

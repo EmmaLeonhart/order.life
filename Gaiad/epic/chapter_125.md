@@ -30,7 +30,7 @@ Of any primate—an open floor
 For radiation.
 
                   From these castaways
-The {{p|New World}} monkeys bloomed—{{c|Platyrrhinos}},
+The {{p|New World}} monkeys bloomed—{{c|1815|Platyrrhinos}},
 The broad-nosed ones, whose nasal ways
 And outward-facing nostrils were the signos
 
@@ -41,7 +41,7 @@ Of separate evolution's rag
 
 And banner.
 
-             And {{c|Platyrrhinos}} invented the fifth limb:
+             And {{c|1815|Platyrrhinos}} invented the fifth limb:
 The prehensile tail—the gripping,
 Wrapping, hanging, reaching whim
 Of a tail that could support the slipping
@@ -58,7 +58,7 @@ That adds a revolution
 
 To the primate's arboreal toolkit.
 
-{{c|Alouattos}}—the howler monkey—owned
+{{c|1816|Alouattos}}—the howler monkey—owned
 The forest's acoustic circuit:
 The hyoid bone enlarged and moaned
 
@@ -84,11 +84,11 @@ Of his voice and never involved
 
 His body in the violence of dispute.
 
-{{c|Cebos}}—the capuchin—was the genius:
+{{c|1817|Cebos}}—the capuchin—was the genius:
 The tool-user, the absolute
 And unmatched intelligence of the simian genius
 
-Among the {{p|New World}} monkeys—{{c|Cebos}}
+Among the {{p|New World}} monkeys—{{c|1817|Cebos}}
 Cracked nuts with stones, probed crevices
 With sticks, and the capuchin's tableaux
 Of problem-solving filled the devices
@@ -101,7 +101,7 @@ In each generation of the merited
 And clever use of the world's objects
 As extensions of the hand.
 
-And {{c|Callithrinos}}—the marmoset—the projects
+And {{c|1818|Callithrinos}}—the marmoset—the projects
 Of the tiniest monkey in the land:
 
 A hundred grams of cooperative breeding,
@@ -121,7 +121,7 @@ Of shared labor, the estimates
 
 Of which even the human could admire.
 
-Honor {{c|Platyrrhinos}}—the castaways
+Honor {{c|1815|Platyrrhinos}}—the castaways
 Who crossed the ocean on a raft of mire
 And forest, and built in {{p|South America}}'s maze
 

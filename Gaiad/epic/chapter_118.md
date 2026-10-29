@@ -1,7 +1,7 @@
 # Chapter 118: The Afrotherians
 
 In {{p|Africa}}, alone and ringed by sea,
-{{c|Afrotheros}}' children grew to forms
+{{c|1782|Afrotheros}}' children grew to forms
 That no other continent would see
 Until the land bridges broke the norms
 
@@ -17,7 +17,7 @@ Of the rock-hyrax share a booking
 
 In the same ancestral house.
 
-                                {{c|Proboscidos}}—
+                                {{c|1787|Proboscidos}}—
 The trunk-bearer—rose from small beginnings,
 From a creature no larger than a dose
 Of pig, to the largest land-thing's winnings:
@@ -76,7 +76,7 @@ Of the elephant's communication zone
 
 Extended far beyond the range of air.
 
-And {{c|Hyracos}}—the hyrax, small as a rabbit,
+And {{c|1788|Hyracos}}—the hyrax, small as a rabbit,
 Sitting on the rocks in the {{p|African}} glare,
 Looking nothing like an elephant's habit
 
@@ -92,9 +92,9 @@ In different niches the same right
 
 Of mammalian being.
 
-                       And {{c|Sirenios}}—
+                       And {{c|1789|Sirenios}}—
 The manatees, the dugongs, the sea cows—
-{{c|Afrotheros}}' aquatic courtesans
+{{c|1782|Afrotheros}}' aquatic courtesans
 Who returned to the water and the boughs
 
 Of seagrass meadows, grazing underwater
@@ -109,7 +109,7 @@ Of tropical abundance, the rapt
 
 And gentle giant of the shallows.
 
-And {{c|Oryctos}}—the aardvark, the earth-pig,
+And {{c|1790|Oryctos}}—the aardvark, the earth-pig,
 Who digs through {{p|Africa}}'s follows
 Of termite mound with claws as big
 
@@ -119,13 +119,13 @@ The only member of its order, the song
 Of a lineage entirely its own,
 
 With no close relative on earth—
-A solitary branch of {{c|Afrotheros}}'
+A solitary branch of {{c|1782|Afrotheros}}'
 Ancient radiation, whose worth
 Is measured in the steadiness of heroes
 
 Who need no company to persist.
 
-Honor {{c|Afrotheros}}—the {{p|African}} mother
+Honor {{c|1782|Afrotheros}}—the {{p|African}} mother
 Whose children prove that the specialist
 And the generalist, the one and the other,
 

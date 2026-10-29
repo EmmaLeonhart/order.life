@@ -2592,6 +2592,16 @@ def build_site():
                 "further_reading": further_reading.get(ch_num, []) if lang == DEFAULT_LANG else [],
             }
             render_page(env, "gaiad/chapter.html", ch_dir / "index.html", ch_ctx)
+            # /gaiad/1/ and /gaiad/01/ redirect to /gaiad/001/ (Emma, 2026-10-29: "Leading zeroes get added so that it
+            # reaches a normal length of 3 characters"); a stanza anchor (#s7) is carried across
+            target = f"{base}/gaiad/{ch_num:03d}/"
+            for short in {str(ch_num), f"{ch_num:02d}"} - {f"{ch_num:03d}"}:
+                (gaiad_dir / short).mkdir(parents=True, exist_ok=True)
+                (gaiad_dir / short / "index.html").write_text(
+                    f'<!DOCTYPE html><html><head><meta charset="UTF-8">'
+                    f'<script>window.location.replace({target!r} + window.location.hash);</script>'
+                    f'<meta http-equiv="refresh" content="0; url={target}">'
+                    f'</head><body></body></html>', encoding="utf-8")
 
         # ── Character pages (English only for now) ──
         if lang == DEFAULT_LANG and genealogy:

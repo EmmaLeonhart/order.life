@@ -1,6 +1,6 @@
 # Chapter 198: Heian Japan
 
-The {{c|Heian period}} (794-1185) took its name
+The {{c|2905|Heian period}} (794-1185) took its name
 from the new capital {{p|Heian-kyō}}, "{{p|Capital of Peace}},"
 which we now call {{p|Kyoto}}, a planned city
 modeled on {{x|Tang}} {{p|Chang'an}}'s pre-lease.
@@ -8,15 +8,15 @@ modeled on {{x|Tang}} {{p|Chang'an}}'s pre-lease.
 For nearly four centuries, the imperial court
 lived in exquisite aesthetic refinement,
 while the real political power shifted
-to the {{c|Fujiwara clan}}'s alignment.
+to the {{c|2906|Fujiwara clan}}'s alignment.
 
-The {{c|Fujiwara}} controlled the regency (sessho)
+The {{c|2907|Fujiwara}} controlled the regency (sessho)
 for child emperors, and the kampaku
 for adult emperors. They married their daughters
 to emperors, producing grandsons to attack.
 
-{{c|Fujiwara no Michinaga}} (966-1028) was
-the peak of {{c|Fujiwara}} power. He had four daughters
+{{c|2908|Fujiwara no Michinaga}} (966-1028) was
+the peak of {{c|2907|Fujiwara}} power. He had four daughters
 married to four emperors. "This world, I think,
 is truly my world," he wrote in his quartets.
 
@@ -27,28 +27,28 @@ and the retired emperors would reverse the tool.
 
 During this era, Japanese literature flowered
 in a way unique in world history.
-Court women writing in {{c|kana}} produced
+Court women writing in {{c|2802|kana}} produced
 the masterpieces of Japanese story-mystery.
 
-{{c|Murasaki Shikibu}} (c. 978-1014) wrote
-the {{c|Tale of Genji}} ({{x|Genji Monogatari}}),
+{{c|2909|Murasaki Shikibu}} (c. 978-1014) wrote
+the {{c|2910|Tale of Genji}} ({{x|Genji Monogatari}}),
 fifty-four chapters about the amorous adventures
-of the {{c|Shining Prince Genji}}, at length contradictory.
+of the {{c|2911|Shining Prince Genji}}, at length contradictory.
 
 This is often called the world's first novel,
 certainly the first great psychological novel.
 Its portrayal of the court, the aesthetics
 of mono no aware (the bittersweet of passing), eloquent.
 
-{{c|Sei Shōnagon}}, {{c|Murasaki}}'s contemporary and rival,
-wrote the {{c|Pillow Book}}, {{x|Makura no Sōshi}},
+{{c|2912|Sei Shōnagon}}, {{c|2913|Murasaki}}'s contemporary and rival,
+wrote the {{c|2914|Pillow Book}}, {{x|Makura no Sōshi}},
 a collection of observations, lists, vignettes
 of courtly life — "{{x|Things That Make One's Heart Beat Fast}}," she
 wrote, and catalogs of beautiful and ugly things.
 
-{{c|Izumi Shikibu}} wrote passionate love poetry.
-{{c|Ono no Komachi}} wrote of love and aging.
-The thirty-six {{c|Immortal Poets}} included many women.
+{{c|2915|Izumi Shikibu}} wrote passionate love poetry.
+{{c|2916|Ono no Komachi}} wrote of love and aging.
+The thirty-six {{c|2917|Immortal Poets}} included many women.
 Japanese literature was largely women-staging.
 
 This was possible because kana, the phonetic
@@ -79,29 +79,29 @@ the foundational mood of the Japanese modern.
 Politically, the {{x|Heian}} was becoming hollow.
 The capital was all-important to the court,
 but outside the capital, the warrior class
-was rising, the {{c|bushi}}, who would soon comport.
+was rising, the {{c|2918|bushi}}, who would soon comport.
 
-The {{c|Taira}} and {{c|Minamoto}} clans, both descended
+The {{c|2919|Taira}} and {{c|2920|Minamoto}} clans, both descended
 from cadet branches of the imperial line,
 had been given military duties in the provinces,
 and grew powerful, with retainers in line.
 
-The {{c|Hogen Rebellion}} of 1156 and the
-{{c|Heiji Rebellion}} of 1160 brought the bushi into the capital.
-{{c|Taira no Kiyomori}} emerged on top,
+The {{c|2921|Hogen Rebellion}} of 1156 and the
+{{c|2922|Heiji Rebellion}} of 1160 brought the bushi into the capital.
+{{c|2923|Taira no Kiyomori}} emerged on top,
 ruling through puppet emperors, central, capital.
 
-But the {{c|Minamoto}} would return for revenge.
-{{c|Minamoto no Yoritomo}}, exiled to the east,
+But the {{c|2920|Minamoto}} would return for revenge.
+{{c|2924|Minamoto no Yoritomo}}, exiled to the east,
 raised the {{p|Kanto}} plain in rebellion.
-The {{c|Genpei War}} (1180-1185) began its feast.
+The {{c|2925|Genpei War}} (1180-1185) began its feast.
 
-The {{c|Taira}} were defeated at {{p|Dan-no-ura}} in 1185,
-where the child Emperor {{c|Antoku}} drowned
-with the sacred sword {{c|Kusanagi}} at the sea.
+The {{c|2919|Taira}} were defeated at {{p|Dan-no-ura}} in 1185,
+where the child Emperor {{c|2926|Antoku}} drowned
+with the sacred sword {{c|2710|Kusanagi}} at the sea.
 (Or did he? Sacred objects sometimes rebound.)
 
-{{c|Yoritomo}} established the {{c|Kamakura Shogunate}},
+{{c|2927|Yoritomo}} established the {{c|2928|Kamakura Shogunate}},
 the first military government, in 1192.
 The emperor remained in {{p|Kyoto}} as symbolic head,
 but real power was now in {{p|Kamakura}}'s view.

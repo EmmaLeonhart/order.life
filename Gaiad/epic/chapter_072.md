@@ -1,11 +1,11 @@
 # Chapter 72: The Ancient Predators
 
-While {{c|Actinus}} and his ray-finned multitudes
+While {{c|1505|Actinus}} and his ray-finned multitudes
 Were multiplying in the waters wide,
-Great {{c|Acanthus}}, son of {{c|Chondricthus}}' broods,
+Great {{c|664|Acanthus}}, son of {{c|1498|Chondricthus}}' broods,
 Had built his dynasty on a different tide.
 
-For {{c|Acanthus}} bore no bone within his form—
+For {{c|664|Acanthus}} bore no bone within his form—
 Only cartilage, that softer living frame
 That bends and flexes in the ocean's storm
 And serves him better than the rigid came
@@ -20,17 +20,17 @@ Is gift worth more than hardening to stone:
 For cartilage is lighter, heals aloft
 More quickly—the shark keeps what others disown.
 
-{{c|Acanthus}} bore two sons of different form:
-Great {{c|Elasmos}} who would always bless
+{{c|664|Acanthus}} bore two sons of different form:
+Great {{c|1715|Elasmos}} who would always bless
 The water with his terror in the storm,
-And quiet {{c|Chimaera}}, who chose less
+And quiet {{c|1716|Chimaera}}, who chose less
 
 Of the open ocean's predatory war
 And more of the deep ocean's patient hall—
 To find his food where no competitors are
 And answer the cold deep's ancient call.
 
-{{c|Chimaera}}'s children—ratfish, ghost sharks, deep—
+{{c|1716|Chimaera}}'s children—ratfish, ghost sharks, deep—
 Grew plates for grinding shells upon their snout
 And sail-like dorsal spines that while they sleep
 Trail venom in the water all about.
@@ -45,13 +45,13 @@ Remaining, little changed from ancient form,
 Who find their food in slowest, painstaking
 Examination of the ocean floor.
 
-But {{c|Elasmos}} was built for open speed—
+But {{c|1715|Elasmos}} was built for open speed—
 He split his children into those who flew
 Across the open water in their creed
 Of hunting and those who spread out and grew
 
 Flat to the bottom in a different art:
-Great {{c|Selachios}}, the sharks who cut the blue
+Great {{c|1717|Selachios}}, the sharks who cut the blue
 With every streamlined body shaped in part
 By nothing but the need to cut through
 
@@ -80,7 +80,7 @@ A hundred kinds of shark from every form
 Wrote their diversity on history's page
 Beneath the coal-swamp ocean's ancient storm.
 
-Great {{c|Stethacanthos}} wore upon the stage
+Great {{c|1718|Stethacanthos}} wore upon the stage
 Of coal-swamp seas a dorsal fin transformed
 Into a platform bristled and engaged
 With tooth-like denticles—a shape that stormed
@@ -95,7 +95,7 @@ To tell us what that platform would achieve:
 Display? Aggression? Some tale
 That we must from uncertainty retrieve.
 
-Young {{c|Xenacanthos}} took to freshwater streams
+Young {{c|1719|Xenacanthos}} took to freshwater streams
 And hunted through the coal-swamp rivers wide
 With eel-like body chasing all his dreams
 Of prey through every turn and eddied tide.
@@ -105,12 +105,12 @@ Of fish that other sharks could not retain—
 A specialist whose freshwater regales
 Remind us that the ocean's not the main
 
-And only stage where {{c|Selachios}}' kind
+And only stage where {{c|1717|Selachios}}' kind
 Could build their hungry dynasties and rule:
 The river has its predators to find
 For those who make the freshwater their school.
 
-From {{c|Selachios}} came {{c|Batos}}—rays and skates—
+From {{c|1717|Selachios}} came {{c|1720|Batos}}—rays and skates—
 Who flattened out their bodies to the floor
 And hid in sand with patience that awaits
 Whatever comes to cross the bottom shore.
@@ -125,7 +125,7 @@ The manta ray who filtered the open water
 With gill-rakes fine as any sieve's design—
 Each found a different way through evolution's order
 
-To serve the heritage of {{c|Elasmos}}' house
+To serve the heritage of {{c|1715|Elasmos}}' house
 In form as different as could ever be
 From shark to ray, from predator to grouse
 Of plankton-feeder—yet the same at sea

@@ -1,31 +1,31 @@
-# Chapter 62: The {{c|Final}} {{c|Breath}}
+# Chapter 62: The {{c|90837|Final}} {{c|90838|Breath}}
 
-Among the sons of {{c|Gastropus}} arose
-Great {{c|Pulmon}}, who in air would find delight,
-{{c|Rejecting}} water's long ancestral prose
+Among the sons of {{c|876|Gastropus}} arose
+Great {{c|1052|Pulmon}}, who in air would find delight,
+{{c|1634|Rejecting}} water's long ancestral prose
 To breathe the sweet communion of the light.
 
 This pioneer of respiratory art
 Bore three great sons to carry forth his name:
-{{c|Siphonogloss}}, {{c|Oceanus}} the heart
+{{c|1635|Siphonogloss}}, {{c|1636|Oceanus}} the heart
 Of seafaring tradition's ancient claim.
 
-And {{c|Terron}}, who would spread across the land
+And {{c|1637|Terron}}, who would spread across the land
 Where rivers meet the sea in perfect grace,
 Each lineage following its destined hand
 To find its own evolutionary place.
 
-{{c|Siphon}} {{c|Oceanus}} roamed wide
+{{c|1638|Siphon}} {{c|1636|Oceanus}} roamed wide
 Across the vast expanse of ocean blue,
 Where rolling waves and currents were his guide
 And saltwater ran deep in all he'd do.
 
 This ocean lord begat two sons of might:
-{{c|Siphonar}}, who would learn to bridge the air,
-And {{c|Sacos}}, who would turn to solar light
+{{c|1639|Siphonar}}, who would learn to bridge the air,
+And {{c|1640|Sacos}}, who would turn to solar light
 And photosynthetic treasures bright and fair.
 
-{{c|Siphonar}} chose the liminal domain
+{{c|1639|Siphonar}} chose the liminal domain
 Where sea meets rocky shore in endless dance,
 An air-breathing limpet without shame
 Who seized upon evolution's greatest chance.
@@ -35,13 +35,13 @@ His gills transformed to breathe the atmosphere,
 While keeping ocean's rhythm in his feet
 And holding both domains forever dear.
 
-But {{c|Sacos}} walked a more unusual path,
+But {{c|1640|Sacos}} walked a more unusual path,
 He ate algae and made his shell like glass,
-{{c|Absorbing}} solar power's golden wrath
+{{c|1641|Absorbing}} solar power's golden wrath
 To let the golden solar radiance pass.
 
 Within his belly bright the sunbeams danced,
-{{c|Converting}} light to food in sacred rite,
+{{c|298|Converting}} light to food in sacred rite,
 His shell became a window, so enhanced
 To capture every precious ray of light.
 
@@ -50,62 +50,62 @@ To capture every precious ray of light.
 The sun itself shall be my energy,
 And light shall feed me through each golden day."
 
-Meanwhile, great {{c|Terron}} spread his progeny
+Meanwhile, great {{c|1637|Terron}} spread his progeny
 From freshwater streams to coastal shores,
 His sons would write their own biology
 In rivers, seas, and beaches' sandy floors.
 
-From {{c|Terron}} came both {{c|Glampyron}} the wise
-And {{c|Aeroger}}, master of the air,
+From {{c|1637|Terron}} came both {{c|1642|Glampyron}} the wise
+And {{c|1643|Aeroger}}, master of the air,
 Their children would inhabit sea and skies
 And every habitat with equal care.
 
-The sons of {{c|Glampyron}} spread far and wide,
+The sons of {{c|1642|Glampyron}} spread far and wide,
 From land to sea to river's flowing course,
-Great {{c|Glacid}} chose the freshwater's side
-While {{c|Pyramphon}} claimed beaches as his source.
+Great {{c|1644|Glacid}} chose the freshwater's side
+While {{c|1645|Pyramphon}} claimed beaches as his source.
 
-In rivers cold and clear did {{c|Glacid}} dwell,
+In rivers cold and clear did {{c|1644|Glacid}} dwell,
 Where mountain streams run pure from peak to plain,
 His story only flowing waters tell
 Of life that thrives through sunshine and through rain.
 
-But {{c|Pyramphon}} upon the beaches walked
+But {{c|1645|Pyramphon}} upon the beaches walked
 Where sand and surf in endless meeting play,
 With tides and waves his children always talked
 And learned their rhythm through each night and day.
 
-From {{c|Pyramphon}} came {{c|Pyramidius}} strong
-And {{c|Amphibius}} of the mangrove trees,
+From {{c|1645|Pyramphon}} came {{c|1646|Pyramidius}} strong
+And {{c|1647|Amphibius}} of the mangrove trees,
 Each finding where his heart and soul belong
 In ocean's depths or where fresh water frees.
 
-{{c|Pyramidius}} gave up his lungs of air
+{{c|1646|Pyramidius}} gave up his lungs of air
 To dive beneath the ocean's salty deep,
 Where coral gardens grow beyond compare
 And ancient mysteries their vigil keep.
 
-But {{c|Amphibius}} chose the middle ground
+But {{c|1647|Amphibius}} chose the middle ground
 Where fresh and salt together meet and blend,
 In mangrove swamps his lineage is found
 Where root and tide in harmony defend.
 
-From {{c|Aeroger}}, master of the breeze,
-Came {{c|Euple}} and great {{c|Hygros}} of the stream,
+From {{c|1643|Aeroger}}, master of the breeze,
+Came {{c|1648|Euple}} and great {{c|1649|Hygros}} of the stream,
 One dwelt among the highland's ancient trees,
 The other lived the river's flowing dream.
 
-In rushing waters {{c|Hygros}} made his home
+In rushing waters {{c|1649|Hygros}} made his home
 Where mountain torrents carve their destined way,
 Through canyon depths where only eagles roam
 His children swim from night until the day.
 
-But {{c|Euple}} climbed to heights where thin air flows
-And begat {{c|Pulmon}} and great {{c|Acox}} there,
+But {{c|1648|Euple}} climbed to heights where thin air flows
+And begat {{c|1052|Pulmon}} and great {{c|1650|Acox}} there,
 Among the peaks where neither ocean goes
 They learned to thrive in rarefied mountain air.
 
-Yet {{c|Acox}} chose to lose his lungs of breath
+Yet {{c|1650|Acox}} chose to lose his lungs of breath
 And sink beneath the waters clear and cold,
 Embracing what some might have called a death
 To live the ancient stories yet untold.
@@ -120,7 +120,7 @@ And learned to eat the light like plants of old,
 While others found that air and sea as one
 Could nourish them with treasures worth more than gold.
 
-From {{c|Pulmon}}'s innovation came the gift
+From {{c|1052|Pulmon}}'s innovation came the gift
 Of breathing's sweet adaptability,
 Each lineage learned its chosen way to lift
 Its life toward new possibility.
@@ -145,8 +145,8 @@ And left the safety of ancestral breath,
 Through all their courage shining down our days
 They conquered limitations, fear, and death.
 
-From {{c|Pulmon}}'s first brave gasp of mountain air
-To {{c|Sacos}}' shell of photosynthetic glass,
+From {{c|1052|Pulmon}}'s first brave gasp of mountain air
+To {{c|1640|Sacos}}' shell of photosynthetic glass,
 Each innovation shows the power to dare
 And let the old restrictions finally pass.
 
@@ -170,7 +170,7 @@ To lungs that breathe the sweet and perfect air,
 They teach us how to lift our souls up higher
 And find new ways to live beyond compare.
 
-The legacy of {{c|Pulmon}} echoes still
+The legacy of {{c|1052|Pulmon}} echoes still
 In every creature brave enough to grow
 Beyond the bounds of evolutionary will
 Into the light of all we've yet to know.

@@ -1,6 +1,6 @@
 # Chapter 334: The White Face
 
-Today is the feast of {{c|Dolly}}, born the fifth of July, nineteen ninety-six, a holy day of the faith.
+Today is the feast of {{c|4493|Dolly}}, born the fifth of July, nineteen ninety-six, a holy day of the faith.
 
 An earlier page said a pairing suggests a possible copy.
 That sentence was about a chain copying itself.
@@ -57,7 +57,7 @@ One pregnancy. One live lamb.
 The other lambs in the same paper
 Came from a fetus, and from an embryo.
 They are not her.
-In 1995 two lambs, {{c|Megan}} and {{c|Morag}},
+In 1995 two lambs, {{c|4494|Megan}} and {{c|4495|Morag}},
 Had been born from cultured cells of an embryo.
 The cells had begun to specialize.
 They were not a cell from a body already grown.
@@ -66,15 +66,15 @@ Do not say she was the first copy.
 Say she was the first mammal the paper could claim
 From a tissue of an adult.
 
-{{c|Ian Wilmut}}'s name is first on the paper.
-{{c|Keith Campbell}} is on it.
+{{c|4496|Ian Wilmut}}'s name is first on the paper.
+{{c|4497|Keith Campbell}} is on it.
 The fusion was not one hand.
 The institute did the work with a company
 At the same village.
 A list of names is not a womb.
 
-They named her {{c|Dolly}},
-For the singer {{c|Dolly Parton}},
+They named her {{c|4493|Dolly}},
+For the singer {{c|4498|Dolly Parton}},
 Because the cell was from the gland.
 The name is theirs, for that gland.
 The name is not the result.

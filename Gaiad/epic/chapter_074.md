@@ -1,11 +1,11 @@
 # Chapter 74: The Therapsid Law
 
-Now {{c|Pelyon}}, that great fin-backed lord
+Now {{c|1670|Pelyon}}, that great fin-backed lord
 Who raised the solar sail upon his spine
 To warm himself at dawn and hoard
 The sun's heat like a living solar shrine—
 
-{{c|Pelyon}} had been master of the land
+{{c|1670|Pelyon}} had been master of the land
 Through all the later {{x|Carboniferous}} age:
 Dimetrodon's great bulk held proud command
 Of every hollow and of every stage
@@ -20,23 +20,23 @@ No way to warm their blood except by sun,
 No strategy but wait until the stale
 And frigid morning finally was done.
 
-But {{c|Pelyon}}'s dominion was a bridge—
+But {{c|1670|Pelyon}}'s dominion was a bridge—
 A first attempt at solving the great need
 For warmth—the sail was answer to a ridge
 Of cold that warmer flesh could supersede,
 
 And in the later {{x|Permian}} there arose
-From {{c|Synaps}}' lineage a different kind
+From {{c|1668|Synaps}}' lineage a different kind
 Who found the answer not through dorsal shows
 Of spine-fin but through working of the mind
 
-And body into something new: {{c|Theraps}}—
+And body into something new: {{c|1672|Theraps}}—
 The therapsid law of upright walking—
 Stood from the ground and closed the sprawling gaps
-That {{c|Pelyon}}'s ancestors kept stalking
+That {{c|1670|Pelyon}}'s ancestors kept stalking
 
 With elbows out and belly near the earth.
-{{c|Theraps}} pulled his legs beneath his mass
+{{c|1672|Theraps}} pulled his legs beneath his mass
 And stood more upright—and with every birth
 Of that new posture, every stride would pass
 
@@ -55,7 +55,7 @@ Before he gasps—the sprawling gait binds breath
 To step, so every stride must be the strong
 One traded for the air beneath.
 
-But {{c|Theraps}} stood above the ground's demand
+But {{c|1672|Theraps}} stood above the ground's demand
 And breathed while running—lungs released
 From duty to the ribs' supporting hand—
 And this was more than merely increased
@@ -65,7 +65,7 @@ Toward something warmer, something that could run
 Through cold of night and early morning's slept-
 Through chill and still be hot enough to hunt.
 
-{{c|Theraps}} found new arrangements for the jaw—
+{{c|1672|Theraps}} found new arrangements for the jaw—
 The dentary bone grew larger, grew
 To dominate the face, and teeth with more
 Complexity replaced the uniform row
@@ -75,18 +75,18 @@ Incisors for the grip, a canine fang
 For piercing deep, and cheek-teeth that adept
 At grinding followed as the jaw-hinge sprang
 
-Into a new position—{{c|Theraps}} moved
+Into a new position—{{c|1672|Theraps}} moved
 Toward the mammal mouth before the name
 Of mammal had been coined, and he improved
 Each generation toward the goal of flame
 
 Within the body that would never need
 The sun to kindle it—internal heat
-That {{c|Cynos}} would achieve, that final creed
+That {{c|1673|Cynos}} would achieve, that final creed
 Of warm-bloodedness where cold and heat compete
 
 No longer—but that came later. For now
-{{c|Theraps}} walked the {{x|Permian}} land in pride,
+{{c|1672|Theraps}} walked the {{x|Permian}} land in pride,
 His uprightness a covenant, his vow
 To be not passive sun-warmed but inside-
 
@@ -97,7 +97,7 @@ The horizon of the rising sun.
 
 The dinocephalia rose as great
 And heavy-headed masters of the plain—
-{{c|Theraps}}' largest children, who create
+{{c|1672|Theraps}}' largest children, who create
 A living battering ram that drove the grain
 
 Of fear through every creature on the land—
@@ -105,7 +105,7 @@ Thick skulls for head-butting, wide and stout,
 They ruled the middle {{x|Permian}} firsthand
 Before their own extinction's sudden rout.
 
-And {{c|Theraps}} branched in many directions wide:
+And {{c|1672|Theraps}} branched in many directions wide:
 The hunters and the hunted, large and small,
 The armored and the swift and those who tried
 The burrowing life beneath it all.
@@ -117,7 +117,7 @@ Was written in each trackway on the stage
 
 Of {{x|Permian}} red desert: prints that show
 The feet beneath the body, not spread wide—
-The law of {{c|Theraps}} told the world: below
+The law of {{c|1672|Theraps}} told the world: below
 The body is where limbs were meant to guide.
 
 Honor the therapsid who stood tall

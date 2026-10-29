@@ -17,8 +17,8 @@ Human sacrifices numbering in the hundreds. {{p|Shang}} society was
 
 Stratified, ceremonial, and oriented toward an elaborate ancestor
 Cult. The king's main duty was to communicate with the royal
-Ancestors, who in turn communicated with the supreme deity {{c|Shang Di}}
-(the "{{c|Lord on High}}"). The divination method used pyro-osteomancy:
+Ancestors, who in turn communicated with the supreme deity {{c|2147|Shang Di}}
+(the "{{c|2148|Lord on High}}"). The divination method used pyro-osteomancy:
 
 Questions were inscribed on ox scapulae or turtle plastrons, which
 Were then heated until they cracked; the cracks were read as
@@ -39,7 +39,7 @@ Return to later), bronze weapons, and professional warriors.
 
                                                                By
 The twelfth century BCE, however, the {{p|Shang}} had grown decadent.
-The last {{p|Shang}} king, {{c|Di Xin}} (also known as {{c|Zhou Xin}}, though this
+The last {{p|Shang}} king, {{c|2149|Di Xin}} (also known as {{c|2150|Zhou Xin}}, though this
 
 Creates confusion with the {{p|Zhou Dynasty}} name—the characters are
 Different), was remembered by later tradition as a tyrant of
@@ -49,9 +49,9 @@ Of meat" for his debauches. He invented cruel punishments for his
 Enemies, including the "cannon of roasting" in which victims were
 Forced to walk across a greased bronze pole suspended over a pit
 Of burning coals; when they inevitably fell, the tyrant and his
-Favorite concubine {{c|Daji}} would laugh. {{c|Daji}} was said to be a
+Favorite concubine {{c|2151|Daji}} would laugh. {{c|2151|Daji}} was said to be a
 
-Fox spirit possessing a human body, and her influence on {{c|Di Xin}}
+Fox spirit possessing a human body, and her influence on {{c|2149|Di Xin}}
 Was held responsible for the moral collapse of the dynasty. The
 Details are almost certainly exaggerated, written by later {{p|Zhou}}
 Historians to justify their conquest, but some kernel of truth
@@ -73,37 +73,37 @@ To western populations. But by the twelfth century BCE they had
 Adopted {{p|Shang}} writing, {{p|Shang}} ritual forms, and {{p|Shang}} political
 
 Structures, while retaining their own distinctive identity. The
-{{p|Zhou}} traced their lineage to {{c|Hou Ji}}, the "{{c|Lord of Millet}}," an
+{{p|Zhou}} traced their lineage to {{c|2152|Hou Ji}}, the "{{c|2153|Lord of Millet}}," an
 Agricultural culture hero. Their leadership in the eleventh
-Century was exercised first by {{c|King Wen}} (the "{{c|Accomplished King}}"),
+Century was exercised first by {{c|2154|King Wen}} (the "{{c|2155|Accomplished King}}"),
 
 Who spent his life building coalitions against the {{p|Shang}} without
-Openly rebelling; and then by his son {{c|King Wu}} (the "Martial King"),
+Openly rebelling; and then by his son {{c|2156|King Wu}} (the "Martial King"),
 Who led the final military campaign. And they were advised by a
-Figure of enduring legendary importance: {{c|Jiang Ziya}}, also known
+Figure of enduring legendary importance: {{c|2157|Jiang Ziya}}, also known
 
-As {{c|Taigong Wang}} or {{c|Jiang Taigong}}, a fisherman-sage whom {{c|King Wen}}
+As {{c|2158|Taigong Wang}} or {{c|2159|Jiang Taigong}}, a fisherman-sage whom {{c|2154|King Wen}}
 Discovered by a river and recognized as the greatest strategist
-Of the age. {{c|Jiang Ziya}}'s military treatise, the {{p|Six Secret Teachings}},
+Of the age. {{c|2157|Jiang Ziya}}'s military treatise, the {{p|Six Secret Teachings}},
 Became one of the foundational {{p|Chinese}} military classics. The
 
 {{p|Zhou}} prepared carefully. They built alliances with disaffected
 {{p|Shang}} vassals. They cultivated a reputation for virtue and
-Righteousness that contrasted with {{c|Di Xin}}'s cruelty. They waited
+Righteousness that contrasted with {{c|2149|Di Xin}}'s cruelty. They waited
 For the right moment.
 
                          That moment came around ten-forty-six BCE—
 The date established by the {{p|Xia-Shang-Zhou Chronology Project}}
 Completed in two-thousand CE, using a combination of astronomical
-Calculations, radiocarbon dating, and textual analysis. {{c|King Wu}} led
+Calculations, radiocarbon dating, and textual analysis. {{c|2156|King Wu}} led
 
 A {{p|Zhou}} coalition army to the {{p|Battle of Muye}}, just outside the
 {{p|Shang}} capital at {{p|Yin}}. Here the {{p|Zhou}} forces decisively defeated
 The {{p|Shang}} army—though tradition holds that many {{p|Shang}} soldiers
 Defected on the battlefield, reversing their weapons and joining
 
-The {{p|Zhou}}. {{c|Di Xin}} fled back to his palace, set it on fire with
-Himself inside, and perished. The {{p|Shang Dynasty}} ended. {{c|King Wu}}
+The {{p|Zhou}}. {{c|2149|Di Xin}} fled back to his palace, set it on fire with
+Himself inside, and perished. The {{p|Shang Dynasty}} ended. {{c|2156|King Wu}}
 Entered {{p|Yin}}, ritually acknowledged the fallen dynasty, and
 Established the {{p|Zhou Dynasty}}—which would become the longest-lasting
 
@@ -116,19 +116,19 @@ Two-twenty-one BCE, a span of over eight centuries.
 Claim that they had conquered the {{p|Shang}} by military force. They
 Needed a legitimating ideology that would explain why the transfer
 Of power was right and just. They developed—probably articulated
-Most clearly by {{c|King Wu}}'s brother {{c|Duke of Zhou}}, who served as
+Most clearly by {{c|2156|King Wu}}'s brother {{c|2160|Duke of Zhou}}, who served as
 
-Regent for {{c|King Wu}}'s young son after {{c|King Wu}}'s early death—the
+Regent for {{c|2156|King Wu}}'s young son after {{c|2156|King Wu}}'s early death—the
 Concept of {{p|Tianming}}, the {{p|Mandate of Heaven}}. The supreme deity
-{{c|Tian}} ("{{c|Heaven}}," displacing the {{p|Shang}} {{c|Shang Di}} in religious
+{{c|2161|Tian}} ("{{c|2162|Heaven}}," displacing the {{p|Shang}} {{c|2147|Shang Di}} in religious
 Primacy) grants the right to rule to a ruling house only so long
 
 As that house governs virtuously. If the ruling house becomes
-Oppressive, tyrannical, or negligent, {{c|Heaven}} withdraws its mandate
+Oppressive, tyrannical, or negligent, {{c|2162|Heaven}} withdraws its mandate
 And transfers it to a new, worthier house. This is what had
-Happened to the {{p|Shang}}: {{c|Di Xin}}'s corruption had forfeited the
+Happened to the {{p|Shang}}: {{c|2149|Di Xin}}'s corruption had forfeited the
 
-Mandate, and {{c|Heaven}} had granted it to {{c|King Wen}} and {{c|King Wu}}. The
+Mandate, and {{c|2162|Heaven}} had granted it to {{c|2154|King Wen}} and {{c|2156|King Wu}}. The
 {{p|Zhou}} conquest was thus not usurpation but divinely sanctioned
 Succession. The {{p|Mandate of Heaven}} became the foundational
 Political theology of {{p|Chinese}} civilization. For the next three
@@ -152,7 +152,7 @@ Dynastic transition.
 
                     The {{p|Zhou}}, once established, proceeded to
 Reorganize {{p|Chinese}} civilization. They developed the feudal system
-Of {{p|Fengjian}}: the {{p|Zhou}} king (now styled {{c|Wang}} or "king," a title
+Of {{p|Fengjian}}: the {{p|Zhou}} king (now styled {{c|2163|Wang}} or "king," a title
 
 Previously reserved for {{p|Shang}} monarchs) granted territories to
 Royal kinsmen and allied lords, who ruled as semi-autonomous
@@ -200,7 +200,7 @@ And consider the timing. The {{p|Shang}} fell around ten-forty-six BCE.
 The {{p|Trojan War}} ended around twelve-hundred BCE. The {{p|Bronze Age Collapse}}
 Devastated the {{p|Mediterranean}} between twelve-twenty-five and
 Eleven-seventy-five BCE. The {{p|Exodus}} (in its thirteenth-century BCE
-Dating) occurred during {{c|Ramesses II}}'s or {{c|Merneptah}}'s reign. These
+Dating) occurred during {{c|2033|Ramesses II}}'s or {{c|2093|Merneptah}}'s reign. These
 
 Events are not simultaneous, but they are broadly contemporary.
 Across {{p|Eurasia}}—from the {{p|Aegean}} to the {{p|Yellow River}}—the late
@@ -219,9 +219,9 @@ Cosmic order, and the contingent legitimacy of rulers.
 Dynasty's early centuries—the {{p|Western Zhou}} period, from ten-forty-six
 
 BCE to seven-seventy-one BCE—were the classical age of {{p|Chinese}}
-Culture. The {{c|Duke of Zhou}} was remembered as a paragon of
-Statesmanship; {{c|Confucius}}, writing five centuries later, would
-Take the {{c|Duke of Zhou}} as his personal hero, the model of the
+Culture. The {{c|2160|Duke of Zhou}} was remembered as a paragon of
+Statesmanship; {{c|1958|Confucius}}, writing five centuries later, would
+Take the {{c|2160|Duke of Zhou}} as his personal hero, the model of the
 
 Virtuous official who serves his lord without seeking power for
 Himself. The {{p|Western Zhou}} ended when the capital was sacked by
@@ -241,15 +241,15 @@ Persisted and would provide the foundation for the eventual
 Reunification under {{p|Qin}} and {{p|Han}}.
 
                                                  But here, at the
-Fall of the {{p|Shang}}, we are at the beginning of all that. {{c|Di Xin}}
-In flames in his palace. {{c|King Wu}} entering {{p|Yin}}. The {{c|Duke of Zhou}}
+Fall of the {{p|Shang}}, we are at the beginning of all that. {{c|2149|Di Xin}}
+In flames in his palace. {{c|2156|King Wu}} entering {{p|Yin}}. The {{c|2160|Duke of Zhou}}
 
 Drafting the political theology. The eight-hundred-year dynasty
 Beginning. The great {{p|Chinese}} classical age being born in the
 Moment when the {{x|Bronze Age}} died.
 
                                   {{p|Shang}}. {{p|Zhou}}. {{p|Muye}}. {{p|Mandate of Heaven}}.
-{{c|Di Xin}}. {{c|Daji}}. {{c|King Wen}}. {{c|King Wu}}. {{c|Duke of Zhou}}. {{c|Jiang Ziya}}. The
+{{c|2149|Di Xin}}. {{c|2151|Daji}}. {{c|2154|King Wen}}. {{c|2156|King Wu}}. {{c|2160|Duke of Zhou}}. {{c|2157|Jiang Ziya}}. The
 Fox spirit in the palace and the sage fisherman by the river.
 The tyrant's cruelty and the virtuous rebel's restraint. The
 

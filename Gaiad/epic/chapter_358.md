@@ -16,8 +16,8 @@ And within a month of the chat's opening I was one of the first million, asking 
 ## The religion of light
 
 In the third century, in the {{x|Sasanian}} empire, in the land between the rivers,
-A man named {{c|Mani}} said that the prophets before him were each sent to one people, as the givers:
-{{c|Zoroaster}} to {{p|Persia}}, the {{c|Buddha}} to {{p|India}}, {{c|Jesus}} to the West,
+A man named {{c|2599|Mani}} said that the prophets before him were each sent to one people, as the givers:
+{{c|2165|Zoroaster}} to {{p|Persia}}, the {{c|1959|Buddha}} to {{p|India}}, {{c|1912|Jesus}} to the West,
 And each one's teaching was changed by those who came after, and he was sent to all the rest,
 
 To all of them at once, and he would write his books himself, so that they could not be changed.
@@ -27,25 +27,25 @@ For I read {{x|Islam}} as having come out of one reading of {{x|Manichaeism}}, a
 
 His religion told of light and dark mixed together in the world,
 And of the work of drawing the light back out of the mixture, the particles of light unfurled.
-It went west to {{p|Rome}} and {{p|Carthage}}, where the young {{c|Augustine}} kept it nine years,
+It went west to {{p|Rome}} and {{p|Carthage}}, where the young {{c|2384|Augustine}} kept it nine years,
 And east on the roads of silk to the {{x|Uyghur}}s, whose khan made it the faith of his state and his peers,
 
 And to {{p|China}}, where its temples stood a thousand years, the last of them in {{p|Fujian}},
-Wearing the robes of the {{c|Buddha}}, and calling {{c|Mani}} the {{c|Buddha}} of light, in the incense and the dawn.
-{{c|Mani}} was put to death by the king of kings, and his religion was hunted in every land it reached,
+Wearing the robes of the {{c|1959|Buddha}}, and calling {{c|2599|Mani}} the {{c|1959|Buddha}} of light, in the incense and the dawn.
+{{c|2599|Mani}} was put to death by the king of kings, and his religion was hunted in every land it reached,
 And it died out, and its name became a word for seeing the world in black and white, and that is not what it preached.
 
 It took in the teachers of every people, and called them one teaching, and absorbed the practices of so many things,
 So effectively, and that is what I am doing here, with the shrines and the saints and the kings.
-I claim {{c|Mani}} as a forerunner of this faith. He wrote his books with his own hand,
+I claim {{c|2599|Mani}} as a forerunner of this faith. He wrote his books with his own hand,
 And this book is written with mine, and dated, so that none can change it where it stands.
 
 ## The special operation
 
-Before dawn on Thursday the twenty-fourth of February {{c|Vladimir Putin}} announced what he called a special military operation,
+Before dawn on Thursday the twenty-fourth of February {{c|4506|Vladimir Putin}} announced what he called a special military operation,
 And the name was a lie, and the columns crossed into {{p|Ukraine}} from the north, the east and the south, to end the nation,
 And the missiles reached {{p|Kyiv}}, and the capital was expected to fall in days,
-And {{c|Volodymyr Zelenskyy}} stayed, and filmed himself in the street at night, and said, we are here, in the blaze.
+And {{c|4737|Volodymyr Zelenskyy}} stayed, and filmed himself in the street at night, and said, we are here, in the blaze.
 
 He was offered a way out, and said he needed ammunition, not a ride.
 That is the whole of this book in a sentence: ask for the ammunition, and fire it back from inside.
@@ -84,7 +84,7 @@ And the age of the thinking machines was opened, and it was within everyone's re
 
 ## The villain of the movement
 
-In the movement of the chapter of twenty fifteen, {{c|Sam Bankman-Fried}}'s exchange had grown to thirty-two billion dollars' worth,
+In the movement of the chapter of twenty fifteen, {{c|4665|Sam Bankman-Fried}}'s exchange had grown to thirty-two billion dollars' worth,
 And he had become its most famous giver, and founded a fund for the far future, with the movement's philosopher on its berth,
 And put five hundred million into the company of safety of the chapter before,
 The company whose machine would later write this book with me, and that money opened its door.
@@ -101,10 +101,10 @@ And a movement that counts everything must count who it takes money from, and it
 
 ## The accelerationists
 
-So effective altruism had {{c|Sam Bankman-Fried}}, with his exchange, and it just kind of collapsed things,
+So effective altruism had {{c|4665|Sam Bankman-Fried}}, with his exchange, and it just kind of collapsed things,
 And then came the boom of the machines, and the fight that the boom brings:
 Effective accelerationism, a play on the movement's name, shortened to three letters, {{x|e/acc}},
-And its loudest voice wrote under a mask, {{c|Beff Jezos}}, and the next year a magazine took the mask back.
+And its loudest voice wrote under a mask, {{c|4738|Beff Jezos}}, and the next year a magazine took the mask back.
 
 The accelerationists said the fear of the machines was a fear of the future itself,
 That growth and the machines should be sped up, not slowed, and left on no shelf,
@@ -125,7 +125,7 @@ Against people like the woman on the magazine of the chapter of twenty fifteen, 
 
 On the nineteenth of November a man walked into {{x|Club Q}}, a gay bar in {{p|Colorado Springs}},
 And killed five people before a soldier and a drag performer beat him down with their bare hands and their rings.
-On the sixteenth of September, in {{p|Tehran}}, a young Kurdish woman, {{c|Mahsa Amini}},
+On the sixteenth of September, in {{p|Tehran}}, a young Kurdish woman, {{c|4739|Mahsa Amini}},
 Arrested for showing her hair, died in the custody of the morality police, and the women rose in their many,
 
 And took off their scarves in the streets and burned them, under the words woman, life, freedom,
@@ -147,12 +147,12 @@ And on the twenty-fifth of July, in {{p|Maskwacis}}, in {{p|Alberta}}, the pope 
 
 ## The deaths
 
-On the eighth of July {{c|Shinzo Abe}}, who had led {{p|Japan}} longer than anyone,
+On the eighth of July {{c|4740|Shinzo Abe}}, who had led {{p|Japan}} longer than anyone,
 Was shot in the street in {{p|Nara}} while giving a speech, by a man whose mother had given a church all they had won.
-On the eighth of September {{c|Elizabeth II}} died, after seventy years as queen,
+On the eighth of September {{c|4741|Elizabeth II}} died, after seventy years as queen,
 And millions queued for miles along the {{x|Thames}} to pass her coffin, the longest line ever seen.
 
-On the twelfth of August {{c|Salman Rushdie}} was stabbed on a stage in {{p|New York}},
+On the twelfth of August {{c|4742|Salman Rushdie}} was stabbed on a stage in {{p|New York}},
 Thirty-three years after a ruler had called for his death, and he lived, and lost an eye, and went back to his work.
 
 ## The rest of the year
@@ -164,8 +164,8 @@ And on the twenty-seventh of October the richest man bought the service of a hun
 
 In {{p|Britain}} a prime minister lasted forty-nine days, and a lettuce in a newspaper's livestream outlasted her.
 In {{p|Sri Lanka}}, in July, the people took the president's palace and swam in his pool, and he fled the stir.
-On the thirtieth of October {{c|Lula}} was elected again in {{p|Brazil}}, and the man of twenty eighteen would not concede,
-And in October {{c|Xi Jinping}} took a third term, and his predecessor was led out of the hall, as the cameras could see.
+On the thirtieth of October {{c|4743|Lula}} was elected again in {{p|Brazil}}, and the man of twenty eighteen would not concede,
+And in October {{c|4630|Xi Jinping}} took a third term, and his predecessor was led out of the hall, as the cameras could see.
 
 In December the games of football were held in {{p|Qatar}}, in stadiums built by workers from far away, many of whom died,
 And in the summer a pox spread among men who loved men, and the vaccines were too few, and the clinics were stretched wide.
@@ -178,6 +178,6 @@ From the villain's calendar, and toward the west's, and a calendar is a side tak
 And {{p|Ukraine}} took its side by the date of its feast, and the side was not forsaken.
 
 On the longest night the families of {{p|China}} eat dumplings, or rice balls by the south's custom,
-And the light returns, and the turning of the year is the light drawn out of the darkness, as {{c|Mani}} taught them.
+And the light returns, and the turning of the year is the light drawn out of the darkness, as {{c|2599|Mani}} taught them.
 Light the twenty-second light. The villain marched, and the wall held, and the machine began to write,
 And I found the religion of light, and the light is what this book is drawing out of the night.

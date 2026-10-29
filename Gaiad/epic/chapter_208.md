@@ -1,22 +1,22 @@
 # Chapter 208: The Black Death
 
 The plague emerged from the Mongol steppes
-where {{c|Yersinia pestis}} had been endemic
+where {{c|3133|Yersinia pestis}} had been endemic
 in marmot populations for millennia.
 The Mongol military network was a vector systemic.
 
-In 1346, the Mongol {{c|Golden Horde}} was
-besieging the {{c|Genoese}} trading colony
+In 1346, the Mongol {{c|3074|Golden Horde}} was
+besieging the {{c|3114|Genoese}} trading colony
 at {{p|Kaffa}} on the {{p|Crimea}}. Plague broke out
 among the besiegers. They catapulted bodies as ammunition-y.
 
-The {{c|Genoese}} fled by ship to {{p|Messina}} in {{p|Sicily}}
+The {{c|3114|Genoese}} fled by ship to {{p|Messina}} in {{p|Sicily}}
 in 1347. They carried the plague with them.
 From there, it spread across the {{p|Mediterranean}},
 then up through {{p|Europe}}, relentless, like the phlegm.
 
 {{p|Marseille}} fell. {{p|Avignon}}, where the papacy
-then resided, was struck — {{c|Pope}} {{c|Clement VI}}
+then resided, was struck — {{c|2825|Pope}} {{c|3134|Clement VI}}
 survived by sitting between two roaring fires
 on his doctor's advice, and the plague did miss.
 
@@ -36,8 +36,8 @@ on the skin from hemorrhage, vomiting of blood,
 death within days. The disease spotted all allots.
 
 Cities quarantined themselves with varying success.
-{{c|Giovanni Boccaccio}} set his {{c|Decameron}}
-among {{c|Florentines}} fleeing the plague to a country villa,
+{{c|3135|Giovanni Boccaccio}} set his {{c|3136|Decameron}}
+among {{c|3137|Florentines}} fleeing the plague to a country villa,
 telling stories while the city died on.
 
 Flagellant movements erupted across {{p|Europe}},
@@ -46,8 +46,8 @@ for sins they believed had brought the plague.
 Jewish communities were massacred as scapegoats, bent
 
 to the flames in {{p|Strasbourg}}, {{p|Basel}}, {{p|Cologne}},
-accused of poisoning wells. {{c|Pope Clement VI}}
-issued bulls defending {{c|Jews}} — correctly noting they
+accused of poisoning wells. {{c|3138|Pope Clement VI}}
+issued bulls defending {{c|2500|Jews}} — correctly noting they
 died of plague too — but the pogroms were quick.
 
 The religious explanation ("divine punishment for sin")
@@ -56,12 +56,12 @@ and various theological and astrological attempts
 to explain the unexplainable plague's lair.
 
 The Islamic world was struck equally hard.
-{{p|Cairo}} lost 200,000. {{c|Ibn Khaldun}} wrote that
+{{p|Cairo}} lost 200,000. {{c|2884|Ibn Khaldun}} wrote that
 "civilization had decreased" from the plague's destruction.
-The {{c|Mamluk Sultanate}} never fully recovered after that.
+The {{c|3139|Mamluk Sultanate}} never fully recovered after that.
 
 {{p|China}} was probably struck even earlier.
-The {{c|Yuan Dynasty}}'s decline accelerated
+The {{c|3075|Yuan Dynasty}}'s decline accelerated
 as plague, famine, and flooding of the {{p|Yellow River}}
 all compounded. The Mongol regime's pretend-ated.
 
@@ -73,7 +73,7 @@ Serfs could demand better terms from their lords' toes.
 The authority of the {{x|Church}} was undermined
 by its inability to prevent or explain the disaster.
 This contributed, a century later, to receptivity
-to the {{c|Protestant Reformation}}'s pastor.
+to the {{c|3140|Protestant Reformation}}'s pastor.
 
 The scarcity of scribes encouraged the eventual
 development of printing — labor-saving technology.

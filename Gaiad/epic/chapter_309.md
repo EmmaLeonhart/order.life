@@ -1,17 +1,17 @@
 # Chapter 309: The Same Instant
 
-On the fourteenth of March, 1905, {{c|Albert Einstein}} turned twenty-six;
+On the fourteenth of March, 1905, {{c|4294|Albert Einstein}} turned twenty-six;
 He had been born in {{p|Ulm}} on that day in 1879. He was in {{p|Bern}},
 A {{x|Swiss}} citizen since February 1901; and the patent office, by its picks
 In June of 1902, had made him technical expert of the third class. His turn
 
 By day was judging other people's machines, in a register of inventions;
-In January it had been two years since he married {{c|Mileva Marić}}.
+In January it had been two years since he married {{c|4295|Mileva Marić}}.
 Three days after the birthday he sent the {{x|Annalen der Physik}} a paper, with a mention
 In its title of a heuristic point of view, on the making of light and its changes; in which,
 
-Where {{c|Max Planck}}, in 1900, had portioned the energy of the oscillators that take and give,
-{{c|Einstein}} portioned the light itself: a quantum of it carries an energy in proportion
+Where {{c|4296|Max Planck}}, in 1900, had portioned the energy of the oscillators that take and give,
+{{c|4297|Einstein}} portioned the light itself: a quantum of it carries an energy in proportion
 To the frequency. It was printed in June; and in May, in a letter, he let the word live:
 It was revolutionary. On the thirtieth of April, a dissertation, a portion
 
@@ -26,12 +26,12 @@ Physiologists had watched that wander and named it {{x|Brownian}}; he did not fi
 Was to show that molecules, if real, require it, and to set the measure, the notion
 
 Of a thing too small to see tested by a thing that is seen. It was printed the eighteenth of July.
-On the fourteenth of May his son, {{c|Hans Albert Einstein}}, turned one;
-On the eighteenth he wrote from {{p|Bern}} to {{c|Conrad Habicht}}, gone from the city, a reply
+On the fourteenth of May his son, {{c|4298|Hans Albert Einstein}}, turned one;
+On the eighteenth he wrote from {{p|Bern}} to {{c|4299|Conrad Habicht}}, gone from the city, a reply
 Promising four papers: the light, very revolutionary; the true size of the atoms; one
 
 On the visible random motion; and the fourth only a draft: an electrodynamics, a turning
-Of the teaching of space and time. He worked it out in talk with {{c|Michele Besso}}, at the office;
+Of the teaching of space and time. He worked it out in talk with {{c|4300|Michele Besso}}, at the office;
 He sent it, he said, five or six weeks after the idea came; the {{x|Annalen}}, learning
 Of it on the thirtieth of June, printed it the twenty-sixth of September: about thirty pages, and of this,
 
@@ -50,9 +50,9 @@ Made equal to the time back; and that agreement is "at the same time" for those 
 Another frame, in uniform motion, using the same rule, pairs other events; and about
 The length of a duration, they differ too. What is shared is the speed, and the laws' form, the same.
 
-The paper names no book and no predecessor; it ends by thanking {{c|Besso}}, friend and colleague,
+The paper names no book and no predecessor; it ends by thanking {{c|4301|Besso}}, friend and colleague,
 For his help and his suggestions: one living name. In the late summer he went
-With {{c|Mileva}} and the child to {{p|Serbia}}, to friends and to her family; and from that league
+With {{c|4302|Mileva}} and the child to {{p|Serbia}}, to friends and to her family; and from that league
 Of days, on the twenty-seventh of September, three pages to the {{x|Annalen}} were sent:
 
 Does the inertia of a body depend upon its energy content? Printed the twenty-first of November:

@@ -21,13 +21,13 @@ Let me be insignificant, let me be
 Beneath your notice, and the covenant of
 My smallness will outlast your dynasty.
 
-{{c|Mammos}}—the mouse-sized heir of {{c|Cynos}},
-Of {{c|Theraps}}, of {{c|Pelyon}}, of {{c|Synaps}},
+{{c|1743|Mammos}}—the mouse-sized heir of {{c|1673|Cynos}},
+Of {{c|1672|Theraps}}, of {{c|1670|Pelyon}}, of {{c|1668|Synaps}},
 Of the great synapsid dynasty whose sigh knows
 The weight of a hundred and eighty million year lapse
 
 Between the {{x|Permian}} crown and this new day—
-{{c|Mammos}} crept from his burrow in the gray
+{{c|1743|Mammos}} crept from his burrow in the gray
 And silent aftermath and looked away
 At a world that was entirely his.
 
@@ -46,7 +46,7 @@ To make room for the small to become great.
 
 And the chicken—if we may call her that:
 The bird, the avian dinosaur, the one
-Branch of {{c|Deinos}}' tree that did not fall flat
+Branch of {{c|1736|Deinos}}' tree that did not fall flat
 In the impact winter—the dinosaur's own son
 
 Who inherited the sky.
@@ -54,7 +54,7 @@ Who inherited the sky.
                         Why did the birds survive
 When every other dinosaur did not?
 The seed. The tiny, hard-shelled, alive-
-Through-winter seed of {{c|Angios}} that was not
+Through-winter seed of {{c|1759|Angios}} that was not
 
 Destroyed by the firestorm—the seed that lay
 In the soil, dormant, through the impact winter,
@@ -81,7 +81,7 @@ Was the ark that carried the entire nation
 Of the dinosaurs across the flood
 Of the impact winter—and every bird
 That sings today is the living blood
-Of {{c|Deinos}}' house, the final word
+Of {{c|1736|Deinos}}' house, the final word
 
 Of the dinosaur that was never final:
 For the birds are dinosaurs, and the morning song
@@ -91,9 +91,9 @@ And continuing declaration: I belong
 To the lineage that walked the {{x|Cretaceous}} plain,
 And though the giants fell, I fly,
 And in my bones the hollow architecture's grain
-Of {{c|Archon}}'s house still reaches for the sky.
+Of {{c|1681|Archon}}'s house still reaches for the sky.
 
-And the crocodile—{{c|Cruros}}' last survivor,
+And the crocodile—{{c|1732|Cruros}}' last survivor,
 The river-dwelling remnant of the elder
 Brother's line—the ultimate reviver
 Of the archosaur's ancient welter—
@@ -115,7 +115,7 @@ Of geological time—the strategy
 
 Of doing nothing, slowly, very well.
 
-And {{c|Turtlos}}—the patient one, {{c|Paraps}}' child,
+And {{c|1678|Turtlos}}—the patient one, {{c|1677|Paraps}}' child,
 Who carried his house through every hell
 The earth could make—the turtle's mild
 
@@ -136,7 +136,7 @@ So the synapsids returned. The sun-warmed
 And milk-giving and furry, the unfurled
 
 And long-delayed inheritors of the earth—
-{{c|Mammos}} walked into the {{x|Paleocene}}'s
+{{c|1743|Mammos}} walked into the {{x|Paleocene}}'s
 Empty world and found it full of berth
 For everything the mammal's body means:
 
@@ -151,7 +151,7 @@ In frequencies the reptiles never formed—
 And the synapsid banner was unfurled
 
 Again, after a hundred and eighty million years
-Of the nighttime vigil—{{c|Synaps}}' house
+Of the nighttime vigil—{{c|1668|Synaps}}' house
 Reclaimed the daylight world, and the tears
 Of the exile ended, and the mouse
 

@@ -1,78 +1,78 @@
 # Chapter 38: The Line of Ambulus
 
-As sons of {{c|Chordatus}} grew
+As sons of {{c|673|Chordatus}} grew
 Their bloodlines strong and true,
-And {{c|Annelon}}'s children spread
+And {{c|786|Annelon}}'s children spread
 Their segments widespread,
 
-The sons of {{c|Ambulus}} sought
+The sons of {{c|672|Ambulus}} sought
 The greatness they had fought
 To achieve through patient art
 And wisdom of the heart.
 
-While sons of {{c|Chordatus}} learned
+While sons of {{c|673|Chordatus}} learned
 To swim as hearts burned,
-The sons of {{c|Ambulus}} found
+The sons of {{c|672|Ambulus}} found
 Their way was to be bound
 
 As one with nature's way,
-{{c|Fishing}} night and day.
+{{c|663|Fishing}} night and day.
 They started much the same
-As {{c|Chordatus}}' noble name.
+As {{c|673|Chordatus}}' noble name.
 
-But {{c|Hemichus}}, {{c|Ambulus}}' son,
+But {{c|829|Hemichus}}, {{c|672|Ambulus}}' son,
 Built his proboscis one
-{{c|Day}} long to serve his need.
+{{c|739|Day}} long to serve his need.
 Half-cord would be his creed.
 
 His cord was only half,
 His brain on nature's behalf
 Was also halfway made—
-Thus {{c|Hemichordates}} stayed.
+Thus {{c|830|Hemichordates}} stayed.
 
-{{c|Hemichus}} bore two sons:
-{{c|Acorn}} when day begun
-And {{c|Oak}}, his brother strong,
+{{c|829|Hemichus}} bore two sons:
+{{c|831|Acorn}} when day begun
+And {{c|832|Oak}}, his brother strong,
 Who lived his whole life long.
 
-{{c|Acorn}} lived as worm
+{{c|831|Acorn}} lived as worm
 Through ocean's every term.
-But {{c|Oak}} lived as a tree
+But {{c|832|Oak}} lived as a tree
 Rooted eternally.
 
-{{c|Oak}} bore two sons in time:
-{{c|Biscarpon}}, strong and prime,
-And {{c|Pterobronk}} his twin,
+{{c|832|Oak}} bore two sons in time:
+{{c|833|Biscarpon}}, strong and prime,
+And {{c|834|Pterobronk}} his twin,
 With different discipline.
 
-{{c|Pterobronk}} became the sire
+{{c|834|Pterobronk}} became the sire
 Of forms that would aspire
 To heights in ocean blue:
-{{c|Graptolites}} he grew,
+{{c|835|Graptolites}} he grew,
 
-And {{c|Pterobranches}} too,
+And {{c|836|Pterobranches}} too,
 Colonial and true.
 Like trees beneath the sea
 They lived quite happily.
 
-{{c|Biscarpon}} built with care
+{{c|833|Biscarpon}} built with care
 A skeleton to wear
 Of limestone white and bright
 To armor him for fight.
 
-{{c|Biscarpon}} bore two more:
-{{c|Ctenocyston}} to explore
+{{c|833|Biscarpon}} bore two more:
+{{c|837|Ctenocyston}} to explore
 The seafloor dark and deep,
-And {{c|Cincton}}, who would keep
+And {{c|838|Cincton}}, who would keep
 
 His gill slits pumping well
 Through his armored shell.
-{{c|Water}} flowed through his frame
+{{c|193|Water}} flowed through his frame
 To catch fish in his name.
 
-While {{c|Ctenocyston}} crawled
+While {{c|837|Ctenocyston}} crawled
 Where ocean's floor enthralled,
-{{c|Cincton}} pumped and fished
+{{c|838|Cincton}} pumped and fished
 For everything he wished.
 
 Protected by his mail
@@ -80,43 +80,43 @@ His fishing would not fail.
 Through gill slits water flowed
 Where tiny fishes showed.
 
-{{c|Cincton}} begat {{c|Soluton}},
+{{c|838|Cincton}} begat {{c|839|Soluton}},
 A strange and bold one.
 One arm he extended out
 With tubes that had no doubt
 
-{{c|Inflatable}} and long
+{{c|840|Inflatable}} and long
 To make his fishing strong.
 His left side took control
 While right side paid the toll.
 
 His right side shriveled small
 While left ruled over all.
-{{c|Asymmetry}} was born
+{{c|841|Asymmetry}} was born
 That bright and fateful morn.
 
-{{c|Soluton}} begat
-{{c|Helicoplacus}}, begat
+{{c|839|Soluton}} begat
+{{c|842|Helicoplacus}}, begat
 With arms that multiplied
 By three on every side.
 
 No bilateral form
 Could weather this storm
 Of change that swept his line—
-{{c|Triradial}} design
+{{c|843|Triradial}} design
 
 He took upon his frame,
 A form without a name
 That none had seen before
 In all primeval lore.
 
-{{c|Helicoplacus}} took the shape
+{{c|842|Helicoplacus}} took the shape
 That let his line escape
 The ancient symmetry
 For new geometry.
 
-{{c|Helicoplacus}} wed
-Fair {{c|Adria}}-{{c|Esther}}, led
+{{c|842|Helicoplacus}} wed
+Fair {{c|844|Adria}}-{{c|392|Esther}}, led
 By love both true and strong
 To sing their mating song.
 
@@ -125,44 +125,44 @@ A city's five-fold glow
 Upon the rocks below
 Where ocean currents flow.
 
-{{c|Pentus}} was their son
+{{c|845|Pentus}} was their son
 When their work was done.
 Five-sided was his way,
 His form from that day.
 
-The sons of {{c|Pentus}} grew
+The sons of {{c|845|Pentus}} grew
 Both numerous and true.
 Great numbers they became
 With pentamerous fame.
 
-{{c|Pentus}} begat {{c|Stromatos}},
+{{c|845|Pentus}} begat {{c|846|Stromatos}},
 Who built like great kratos
 His strength in five-fold form
 Through every ocean storm.
 
-{{c|Stromatos}} begat {{c|Lepidos}},
-Who like {{c|Soluton}} chose
+{{c|846|Stromatos}} begat {{c|847|Lepidos}},
+Who like {{c|839|Soluton}} chose
 To extend his arms once more
 Along the ocean floor.
 
-{{c|Ambulacra}} arms he made
+{{c|848|Ambulacra}} arms he made
 In water's bright parade.
 These arms would pump and flow
 With life from head to toe.
 
-{{c|Lepidos}} begat {{c|Felbabka}},
+{{c|847|Lepidos}} begat {{c|849|Felbabka}},
 Who built his strange cabka
 Of plates arranged with care
 In patterns everywhere.
 
-{{c|Felbabka}} begat {{c|Echidna}},
+{{c|849|Felbabka}} begat {{c|850|Echidna}},
 The stalked one, quite a
-{{c|Sight}} with spiny skin
+{{c|851|Sight}} with spiny skin
 That glowed from deep within.
 
-{{c|Echidna}} was the mother
+{{c|850|Echidna}} was the mother
 Of children like no other:
-The great {{c|Echinoderms}}
+The great {{c|682|Echinoderms}}
 Who live through all terms.
 
 Her daughters were sea lilies
@@ -170,7 +170,7 @@ That bloomed like water lilies
 And dominated seas
 With graceful artistry.
 
-{{c|Invulnerable}} to attack
+{{c|720|Invulnerable}} to attack
 Their cities bore no lack
 Of beauty or of might—
 A wondrous, flowery sight.
@@ -186,7 +186,7 @@ In all the ancient time
 When ocean was in prime.
 
 Today we see only
-{{c|Ruins}} sad and lonely
+{{c|852|Ruins}} sad and lonely
 Of their once mighty home
 Beneath the ocean foam.
 
@@ -195,9 +195,9 @@ As none before had schooled
 The art of living well
 In ocean's deepest dell.
 
-From half-cord {{c|Hemichus}}
-To great {{c|Echidna}} thus
-The line of {{c|Ambulus}}
+From half-cord {{c|829|Hemichus}}
+To great {{c|850|Echidna}} thus
+The line of {{c|672|Ambulus}}
 Grew glorious.
 
 The hemichordates showed
@@ -206,7 +206,7 @@ From simple worm-like start
 To complex living art.
 
 The graptolites and more
-{{c|Pterobranches}} explore
+{{c|836|Pterobranches}} explore
 Colonial living true
 In waters deep and blue.
 
@@ -220,7 +220,7 @@ To triradial line
 To five-fold form complete—
 No other has this feat.
 
-The son of {{c|Ambulus}}
+The son of {{c|672|Ambulus}}
 Found glory glorious
 Not through swimming fast
 But through forms that last.
@@ -245,15 +245,15 @@ That held the ancient place
 Of ruler of the deep
 Where ocean's secrets keep,
 
-Remember {{c|Ambulus}}' line
+Remember {{c|672|Ambulus}}' line
 And how their design
 Became the five-fold way
 That lasts until today.
 
-The sons of {{c|Ambulus}}
+The sons of {{c|672|Ambulus}}
 Were not so glorious
 In swimming strength and speed
-As {{c|Chordatus}}' noble creed.
+As {{c|673|Chordatus}}' noble creed.
 
 But in their patient art
 Of living part by part
@@ -270,8 +270,8 @@ They mastered nature's art
 Of living in the sea
 In perfect harmony.
 
-From {{c|Hemichus}} the half
-To {{c|Echidna}}'s behalf
+From {{c|829|Hemichus}} the half
+To {{c|850|Echidna}}'s behalf
 Of all echinoderm kind,
 The line of thoughtful mind
 

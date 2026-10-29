@@ -1,11 +1,11 @@
 # Chapter 35: The Three Great Houses
 
-As sons of {{c|Cambrius}} grew in might
+As sons of {{c|542|Cambrius}} grew in might
 Across the world both day and night,
-All sons of {{c|Bios}} felt the change
+All sons of {{c|24|Bios}} felt the change
 Throughout their ancient range.
 
-The sons of {{c|Cubos}} and {{c|Scyphos}} rose
+The sons of {{c|607|Cubos}} and {{c|605|Scyphos}} rose
 To challenge all their foes.
 Their guerrilla war began
 That day when time began.
@@ -15,8 +15,8 @@ To hunt their living prey.
 Their ancient raid shall never cease
 Until they find their peace.
 
-Among great {{c|Demos}}' sponge-born line
-Came {{c|Cyath}}, builder fine.
+Among great {{c|474|Demos}}' sponge-born line
+Came {{c|688|Cyath}}, builder fine.
 Great cities he built 'cross the seas—
 The reefs beneath the breeze.
 
@@ -25,19 +25,19 @@ Beneath the ocean sky.
 Through countless rulers they endure
 With structures strong and pure.
 
-The {{c|Archaeocyathid}} race
+The {{c|689|Archaeocyathid}} race
 Built reefs in every place.
 Their legacy lives on today
 In reefs where fishes play.
 
-Among the sons of {{c|Demos}} came
+Among the sons of {{c|474|Demos}} came
 The hunters fierce of name:
-Great {{c|Chondrocles}}' hunting band
+Great {{c|479|Chondrocles}}' hunting band
 Spread wide across the land.
 
-{{c|Carnivorous}} sponges they became,
+{{c|690|Carnivorous}} sponges they became,
 With predatory fame.
-They trap the sons of {{c|Cambrius}}
+They trap the sons of {{c|542|Cambrius}}
 With methods dangerous.
 
 Their hooks reach out with deadly art
@@ -45,8 +45,8 @@ To pierce the victim's heart.
 Their shieldmaidens come for the kill
 To satisfy their will.
 
-Among {{c|Spiralius}}' noble line
-The sons of {{c|Brachios}} shine.
+Among {{c|619|Spiralius}}' noble line
+The sons of {{c|691|Brachios}} shine.
 In new reefs they made their home
 Where prosperous they'd roam.
 
@@ -55,80 +55,80 @@ To fortune every day.
 The reefs became their fishing ground
 Where plenty could be found.
 
-And so began {{c|Tommotian}} days
+And so began {{c|692|Tommotian}} days
 Of glory and of praise.
 A new era had begun
 Beneath the shining sun.
 
 Here now we tell the tale
-Of {{c|Lobopus}} without fail.
+Of {{c|647|Lobopus}} without fail.
 His vision he imposed with might
 On all the world's delight.
 
-Great {{c|Lobopus}} saw his will was weak,
+Great {{c|647|Lobopus}} saw his will was weak,
 His citizens made meek.
-A heart like {{c|Dutrus}} he built true
+A heart like {{c|611|Dutrus}} he built true
 To nourish all he knew.
 
-From {{c|Lobopus}} came forth
-{{c|Onychodictyon}} of worth.
+From {{c|647|Lobopus}} came forth
+{{c|693|Onychodictyon}} of worth.
 This son would bear two more:
-{{c|Tactopus}} to explore
-And {{c|Xenu}}, dark and fell,
+{{c|694|Tactopus}} to explore
+And {{c|695|Xenu}}, dark and fell,
 With stories he would tell.
 
-{{c|Tactopus}} bore twin sons of might:
-{{c|Ferreus}} burning bright
-And {{c|Ferox}}, strong and bold,
+{{c|694|Tactopus}} bore twin sons of might:
+{{c|696|Ferreus}} burning bright
+And {{c|697|Ferox}}, strong and bold,
 With stories to be told.
 
-But {{c|Xenu}} sought to rule the stars
+But {{c|695|Xenu}} sought to rule the stars
 And heal all psychic scars.
-{{c|Emperor}} of galaxy wide
+{{c|698|Emperor}} of galaxy wide
 He claimed with foolish pride.
 
 Into our minds he tried to write
-{{c|Stories}} of weakness' sight.
-But {{c|Gracilis}}, his noble son,
+{{c|699|Stories}} of weakness' sight.
+But {{c|700|Gracilis}}, his noble son,
 Put end to what he'd done.
 
 And so three houses came to birth:
-{{c|Velvetclaw}} upon the earth,
-{{c|Ironfoot}} with strength so true,
-And {{c|Waterbear}}'s line too.
+{{c|701|Velvetclaw}} upon the earth,
+{{c|702|Ironfoot}} with strength so true,
+And {{c|703|Waterbear}}'s line too.
 
-Here now {{c|Velvetclaw}}'s tale we tell
+Here now {{c|701|Velvetclaw}}'s tale we tell
 Of how they rose so well.
-From {{c|Gracilis}} came four sons strong:
-{{c|Paucipodes}} all along,
-{{c|Microdictyon}} brave and true,
-{{c|Xenianus}} through and through,
-And {{c|Therion}} {{c|Velvetclaw}}
+From {{c|700|Gracilis}} came four sons strong:
+{{c|704|Paucipodes}} all along,
+{{c|705|Microdictyon}} brave and true,
+{{c|706|Xenianus}} through and through,
+And {{c|458|Therion}} {{c|701|Velvetclaw}}
 Who followed nature's law.
 
-{{c|Xenianus}} bore twin maids:
-{{c|Xenusia}} in the glades
-And {{c|Diania}} the {{c|Cactus}} bright
+{{c|706|Xenianus}} bore twin maids:
+{{c|707|Xenusia}} in the glades
+And {{c|708|Diania}} the {{c|709|Cactus}} bright
 With spines to win the fight.
 
-{{c|Therion}} {{c|Velvetclaw}} begot
-{{c|Cardios}}, who fought
-And {{c|Hallucigena}} strange
+{{c|458|Therion}} {{c|701|Velvetclaw}} begot
+{{c|710|Cardios}}, who fought
+And {{c|711|Hallucigena}} strange
 Throughout his living range.
 
-From {{c|Hallucigena}} came
+From {{c|711|Hallucigena}} came
 Four children of great fame:
-{{c|Sparsa}} quick and light,
-{{c|Fortis}} strong in fight,
-{{c|Hongmen}} wise and old,
-And {{c|Annika}}, brave and bold.
+{{c|712|Sparsa}} quick and light,
+{{c|713|Fortis}} strong in fight,
+{{c|714|Hongmen}} wise and old,
+And {{c|715|Annika}}, brave and bold.
 
-{{c|Hongmen}} bore two sons so grand:
-{{c|Luolishania}} in the land
-And {{c|Collins}} {{c|Monster}}, fierce and wild,
+{{c|714|Hongmen}} bore two sons so grand:
+{{c|716|Luolishania}} in the land
+And {{c|717|Collins}} {{c|718|Monster}}, fierce and wild,
 Nature's problem child.
 
-But {{c|Annika}} chose a different way,
+But {{c|715|Annika}} chose a different way,
 She cast her armor away.
 For agility she traded
 Her protection heavy-shaded.
@@ -138,51 +138,51 @@ Of velvet worms so blue.
 A caring matriarch is she
 Who guides them lovingly.
 
-In {{c|Ursus}}' line things went
+In {{c|719|Ursus}}' line things went
 Down a different bent.
-{{c|Ferox}} wanted to survive
+{{c|697|Ferox}} wanted to survive
 Whatever came alive.
 
 He downsized small and tough,
-{{c|Invulnerable}} stuff.
-From him came {{c|Ursus}} strong,
+{{c|720|Invulnerable}} stuff.
+From him came {{c|719|Ursus}} strong,
 Who lived both short and long.
 
-{{c|Ursus}} became the sire
+{{c|719|Ursus}} became the sire
 Of water bears' entire
 Line who first conquered land
 With their small, mighty band.
 
 Unable yet to breathe
 On land's protecting sheath,
-As {{c|Tuns}} they go dormant true
+As {{c|721|Tuns}} they go dormant true
 Until the danger's through.
 
-In {{c|Ironfoot}}'s great line
-{{c|Greatness}} would shine.
-{{c|Ferreus}} {{c|Ironfoot}} bore
+In {{c|702|Ironfoot}}'s great line
+{{c|722|Greatness}} would shine.
+{{c|696|Ferreus}} {{c|702|Ironfoot}} bore
 Two sons to explore:
 
-{{c|Gille}} built gills with care
+{{c|723|Gille}} built gills with care
 Above his legs so fair.
-His son {{c|Kerygmachelon}}
+His son {{c|724|Kerygmachelon}}
 Swam with gills upon.
 
-{{c|Kerygmachelon}} the great
+{{c|724|Kerygmachelon}} the great
 Had a noble fate.
-He bore son {{c|Pambdelurion}},
+He bore son {{c|725|Pambdelurion}},
 Mighty champion.
 
-{{c|Pambdelurion}} bore three
+{{c|725|Pambdelurion}} bore three
 Children of destiny:
-{{c|Arthur}} strong and true,
-{{c|Anomalos}} who grew
+{{c|726|Arthur}} strong and true,
+{{c|727|Anomalos}} who grew
 To rule with iron hand,
 And fair throughout the land,
-{{c|Opabinia}} the bright,
+{{c|728|Opabinia}} the bright,
 Beautiful to sight.
 
-{{c|Arthur}} built armor strong
+{{c|726|Arthur}} built armor strong
 To last his whole life long.
 His flying gills he hardened tight
 And fused them for the fight.
@@ -192,14 +192,14 @@ The gill as exopod grew,
 The leg as endopod stayed—
 Thus arthropods were made.
 
-The sons of {{c|Anomalos}} ruled
+The sons of {{c|727|Anomalos}} ruled
 As none before had schooled.
 The world entire was theirs
 Through all their proud affairs.
 
 For generations ten they reigned
 While others were constrained.
-From realm of {{c|Ghedos}} dark
+From realm of {{c|729|Ghedos}} dark
 He watched his royal mark.
 
 But on his deathbed bed
@@ -208,7 +208,7 @@ These words of doom were said:
 No power left to save.
 
 How art thou fallen down,
-O {{c|Anomalos}} from thy crown!
+O {{c|727|Anomalos}} from thy crown!
 From heaven thou art cast,
 Thy glory could not last."
 
@@ -217,63 +217,63 @@ The suffering they send.
 His sons would rule with might
 Through day and through the night.
 
-But fair {{c|Opabinia}}'s daughters all
+But fair {{c|728|Opabinia}}'s daughters all
 Answered beauty's call.
 Humble lives they led
 With grace and gentle tread.
 
-And {{c|Arthur}} {{c|Ironfoot}}'s line
+And {{c|726|Arthur}} {{c|702|Ironfoot}}'s line
 Would grow beyond design.
 Through hardship they endured
 With blood and sweat assured.
 
-The {{c|Arthropods}} they became
+The {{c|730|Arthropods}} they became
 With million-species fame.
 Today they rule the earth
 Since their ancient birth.
 
-From {{c|Lobopus}} came the tide
+From {{c|647|Lobopus}} came the tide
 That spread both far and wide.
 Three houses born that day
 Would rule in their own way.
 
-{{c|Velvetclaw}} with agile grace,
-{{c|Waterbear}}'s enduring race,
-{{c|Ironfoot}} with strength so true—
+{{c|701|Velvetclaw}} with agile grace,
+{{c|703|Waterbear}}'s enduring race,
+{{c|702|Ironfoot}} with strength so true—
 All from one ancestor grew.
 
-The {{c|Tommotian}} age began
+The {{c|692|Tommotian}} age began
 With more than mortal plan.
 The reefs rose from the sea
 For all eternity.
 
 In every coral home
 Where fishes freely roam,
-Remember {{c|Cyath}}'s art
+Remember {{c|688|Cyath}}'s art
 That gave the reefs their start.
 
 In every velvet worm
 That makes the earth worm squirm,
-{{c|Annika}}'s caring way
+{{c|715|Annika}}'s caring way
 Lives on another day.
 
 In every water bear
 That conquers everywhere,
-{{c|Ursus}}' strength endures
+{{c|719|Ursus}}' strength endures
 Through all that time assures.
 
 In every arthropod
 That walks upon the sod,
-{{c|Arthur}}'s innovation
+{{c|726|Arthur}}'s innovation
 Shaped our creation.
 
-The sons of {{c|Cambrius}} changed
+The sons of {{c|542|Cambrius}} changed
 How all life was arranged.
 Their multiplication
 Changed all of creation.
 
 But from these changes came
-{{c|Lines}} of lasting fame:
+{{c|731|Lines}} of lasting fame:
 The builders of the reef,
 The hunters beyond belief.
 

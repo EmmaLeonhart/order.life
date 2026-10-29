@@ -28,9 +28,9 @@ An empty island a second name.
 {{p|Millennium Island}}.
 The night is not that year.
 The inhabited island is {{p|Kiritimati}}.
-{{c|Teburoro Tito}} had moved the line.
+{{c|4502|Teburoro Tito}} had moved the line.
 In August 1999 a king in {{p|Tonga}},
-{{c|Taufa'ahau Tupou IV}}, added an hour,
+{{c|4503|Taufa'ahau Tupou IV}}, added an hour,
 So his country might be called first.
 {{p|Fiji}} and {{p|New Zealand}} claimed the morning too.
 One account gives the first sunrise
@@ -46,10 +46,10 @@ This book counts from the zeros: the millennium turned this night.
 The feared night need not be the night
 The centuries agree.
 
-On the Saturday {{c|Bill Richardson}} said
+On the Saturday {{c|4504|Bill Richardson}} said
 It was too early to call the night done.
 After the Monday, the first full day of work,
-{{c|John Koskinen}} said the bug had been squashed,
+{{c|4505|John Koskinen}} said the bug had been squashed,
 For the key systems of the country.
 He said they were victims of their own success.
 The Saturday and the Monday are not one sentence.
@@ -112,7 +112,7 @@ The year could be divided by four hundred,
 So the day was real.
 A rule that stops a century's leap
 Would have skipped it.
-{{c|John Koskinen}} said the glitches were a handful.
+{{c|4505|John Koskinen}} said the glitches were a handful.
 A message archive of the {{x|Coast Guard}}
 Refused the date. The operations held.
 At {{p|Offutt}}, near {{p|Omaha}},

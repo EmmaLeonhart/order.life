@@ -24,8 +24,8 @@ The post-extinction world, and from this lodgment
 
 Built everything that followed.
 
-                               {{c|Turtlos}}—
-The patient one, {{c|Paraps}}' armored child—
+                               {{c|1678|Turtlos}}—
+The patient one, {{c|1677|Paraps}}' armored child—
 Emerged from whatever river-dulled repose
 Had kept her through the fire. She was mild
 
@@ -41,7 +41,7 @@ On the minimum—outlasts the roof
 
 Of every empire that the bold have built.
 
-{{c|Cruros}}' children—the crocodilians,
+{{c|1732|Cruros}}' children—the crocodilians,
 The river-dwellers who had spilt
 No energy on civilizations
 
@@ -53,14 +53,14 @@ When it didn't—the crocodile's liver
 Processed the nothing of the impact winter
 With the same indifference it processed
 The plenty of the {{x|Cretaceous}}—the splinter
-Of {{c|Cruros}}' once-great house, the rest
+Of {{c|1732|Cruros}}' once-great house, the rest
 
 Had perished long ago, but the crocodile
 Remained, unchanged, unhurried, unafraid,
 The oldest living strategy of guile:
 Do nothing, slowly, and outlast the blade.
 
-{{c|Neornis}}—the crown birds, {{c|Archaeos}}'
+{{c|1769|Neornis}}—the crown birds, {{c|1755|Archaeos}}'
 Line refined and winnowed through the fire—
 The feathered dinosaurs whose chaos
 Of the impact winter tested higher
@@ -75,13 +75,13 @@ Through the winter, the hard-shelled capsule
 Of the angiosperm's foresight and toil
 That fed the bird when nothing else was rational.
 
-And {{c|Mammos}}—the mouse, the heir of {{c|Cynos}},
-Of {{c|Theraps}}, of {{c|Pelyon}}, of {{c|Synaps}}—
+And {{c|1743|Mammos}}—the mouse, the heir of {{c|1673|Cynos}},
+Of {{c|1672|Theraps}}, of {{c|1670|Pelyon}}, of {{c|1668|Synaps}}—
 The synapsid exile who had known those
 Hundred and eighty million years of wraps
 
 And smallness and the nighttime vigil—
-{{c|Mammos}} looked at the empty {{x|Paleocene}}
+{{c|1743|Mammos}} looked at the empty {{x|Paleocene}}
 And saw what the burrowing and the frugal
 Nightlife had prepared him for: the clean
 

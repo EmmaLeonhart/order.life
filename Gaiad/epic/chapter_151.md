@@ -1,21 +1,21 @@
 # Chapter 151: Neo-Sumerian Empire and Abraham
 
-And while the {{c|Yellow Emperor}} was passing into legend in the
+And while the {{c|1998|Yellow Emperor}} was passing into legend in the
 {{p|Yellow River}} basin, the {{p|Tigris-Euphrates}} valley was recovering
 From its own collapse. The {{p|Gutians}} had been expelled. A
 {{p|Sumerian}} restoration was underway. The city of {{p|Ur}} rose to
 
-Prominence under {{c|Ur-Nammu}}, founder of the {{p|Third Dynasty of Ur}}—
+Prominence under {{c|2011|Ur-Nammu}}, founder of the {{p|Third Dynasty of Ur}}—
 The {{p|Ur III}} dynasty, the {{p|Neo-Sumerian}} empire. And it is into
-This empire, in the {{x|Gaiad}}'s reading, that {{c|Abraham}} is born.
+This empire, in the {{x|Gaiad}}'s reading, that {{c|1308|Abraham}} is born.
 
-{{c|Ur-Nammu}} reigned from approximately twenty-one twelve to twenty
+{{c|2011|Ur-Nammu}} reigned from approximately twenty-one twelve to twenty
 Ninety-five BCE, according to the middle chronology. He united
 {{p|Mesopotamia}} under a new {{p|Sumerian}} hegemony, rebuilt the
 Infrastructure damaged by the {{p|Gutian}} interregnum, and promulgated
 
 The {{p|Code of Ur-Nammu}}—the oldest known law code in human history,
-Predating {{c|Hammurabi}}'s more famous code by three hundred years.
+Predating {{c|1919|Hammurabi}}'s more famous code by three hundred years.
 The {{p|Code of Ur-Nammu}} established fines and penalties for
 Various offenses. It was remarkably restrained compared to later
 
@@ -24,9 +24,9 @@ Physical penalties. Capital punishment was reserved for murder,
 Robbery, adultery, and rape. The general tenor was of a just
 Society trying to stabilize itself after a period of disorder.
 
-{{c|Ur-Nammu}} also built the {{p|Great Ziggurat of Ur}}—the massive
+{{c|2011|Ur-Nammu}} also built the {{p|Great Ziggurat of Ur}}—the massive
 Stepped temple-platform that is still partially standing today.
-Dedicated to the moon-god {{c|Nanna}} (the patron deity of {{p|Ur}}), the
+Dedicated to the moon-god {{c|1975|Nanna}} (the patron deity of {{p|Ur}}), the
 Ziggurat was a pyramid-like structure with stairs leading up to a
 
 Shrine at the summit. It was the largest religious building in
@@ -37,7 +37,7 @@ Flourished under their patronage. The {{p|Sumerian King List}}—the
 Document that catalogs the legendary and historical kings of
 {{p|Mesopotamia}} from "before the flood" down through the {{p|Ur III}} era—
 Was compiled in its canonical form during this period. The epic
-Of {{c|Gilgamesh}}, which had existed in oral and early written forms
+Of {{c|1913|Gilgamesh}}, which had existed in oral and early written forms
 
 For centuries, was elaborated and refined during the {{p|Ur III}} era.
 This was a renaissance of {{p|Sumerian}} culture—possibly the last
@@ -45,23 +45,23 @@ Great flowering before the language itself began to die out and
 Be replaced by {{p|Akkadian}} as the spoken tongue of {{p|Mesopotamia}}.
 
 And it is in this world, according to the {{x|Gaiad}}'s reading of the
-Biblical account, that {{c|Abraham}} lived his early life. {{p|Genesis}}
-Tells us that {{c|Abram}}—as he was called before his name was changed—
+Biblical account, that {{c|1308|Abraham}} lived his early life. {{p|Genesis}}
+Tells us that {{c|2012|Abram}}—as he was called before his name was changed—
 Was born in "{{p|Ur of the Chaldees}}." The identification of this {{p|Ur}}
 
 With the {{p|Sumerian}} city in southern {{p|Mesopotamia}} is traditional
 Though not certain—some scholars have proposed a northern {{p|Ur}} in
 {{p|Anatolia}} instead. But the southern identification is the most
-Common, and it is the one the {{x|Gaiad}} adopts. {{c|Abraham}} is, in this
+Common, and it is the one the {{x|Gaiad}} adopts. {{c|1308|Abraham}} is, in this
 
 Reading, a man of {{p|Ur III}}. He is a son of the {{p|Neo-Sumerian}}
 Empire. He speaks {{p|Akkadian}} (and perhaps {{p|Sumerian}} as a learned
 Second language). He grows up in a city whose ziggurat dominates
 The skyline and whose commercial networks extend across the entire
 
-{{p|Near East}}. His father {{c|Terah}} is described in {{p|Genesis}} as a maker
+{{p|Near East}}. His father {{c|2013|Terah}} is described in {{p|Genesis}} as a maker
 Of idols—a craftsman in the image-making industry that supplied
-The temples of {{p|Mesopotamia}}. {{c|Abraham}}'s rejection of idolatry, which
+The temples of {{p|Mesopotamia}}. {{c|1308|Abraham}}'s rejection of idolatry, which
 The later biblical and {{p|Islamic}} traditions would make central to
 
 His identity, is portrayed as a rejection of his father's profession.
@@ -72,7 +72,7 @@ Break in a literal family workshop.
 Dynasty falls.
 
                     The collapse is dramatic. The final {{p|Ur III}}
-King, {{c|Ibbi-Sin}}, reigned from approximately twenty-twenty-eight
+King, {{c|2014|Ibbi-Sin}}, reigned from approximately twenty-twenty-eight
 To two-thousand-four BCE. During his reign, the empire weakened
 
 Dramatically. A combination of factors: {{p|Amorite}} migrations into
@@ -85,14 +85,14 @@ Administrative breakdown. Provinces seceded. Famine struck. And in
 Civilization of what is now western {{p|Iran}}, the {{p|Susa}}-centered
 Civilization that had been {{p|Sumer}}'s rival and occasional conqueror
 
-For two thousand years—invaded. {{p|Elam}} sacked {{p|Ur}}. {{c|Ibbi-Sin}} was
+For two thousand years—invaded. {{p|Elam}} sacked {{p|Ur}}. {{c|2014|Ibbi-Sin}} was
 Captured and taken in chains to {{p|Susa}}. The city of {{p|Ur}} was
 Destroyed—burned, looted, depopulated. The {{p|Ur III}} dynasty ended.
 The {{p|Neo-Sumerian}} empire collapsed. A {{p|Sumerian}} lament, the
 
 {{p|Lament for Ur}}, was composed in the aftermath—a devastating
 Poetic elegy for the destroyed city, attributed in the tradition
-To the goddess {{c|Ningal}}, patron of {{p|Ur}}, weeping for her ruined
+To the goddess {{c|2015|Ningal}}, patron of {{p|Ur}}, weeping for her ruined
 Temple and her scattered people. The {{p|Lament for Ur}} is one of
 
 The earliest surviving examples of the city-lament genre, and its
@@ -101,7 +101,7 @@ Lamentations}}, which mourns the destruction of {{p|Jerusalem}}. The
 Genre and its vocabulary flow from {{p|Ur}} to {{p|Jerusalem}}.
 
 And in this context—in the chaos following the fall of {{p|Ur}}—the
-{{x|Gaiad}} locates {{c|Abraham}}'s departure. {{p|Genesis}} says that {{c|Terah}}
+{{x|Gaiad}} locates {{c|1308|Abraham}}'s departure. {{p|Genesis}} says that {{c|2013|Terah}}
 And his family left {{p|Ur}} and traveled to {{p|Haran}} (a city in what is
 Now southeastern {{p|Turkey}}, near the border with {{p|Syria}}). Why did
 
@@ -115,11 +115,11 @@ Shadow of the {{p|Great Ziggurat}}, was forced to migrate when the
 By the collapse. They stopped in {{p|Haran}}, an important trading city
 On the route between {{p|Mesopotamia}} and {{p|Anatolia}}. There, according
 
-To the biblical account, {{c|Terah}} died. And there {{c|Abraham}} received
+To the biblical account, {{c|2013|Terah}} died. And there {{c|1308|Abraham}} received
 The call to go further—to leave his country and his kindred and
-His father's house and go to the land that {{c|God}} would show him.
+His father's house and go to the land that {{c|472|God}} would show him.
 
-And here the {{x|Gaiad}} takes a specific narrative position. {{c|Abraham}}'s
+And here the {{x|Gaiad}} takes a specific narrative position. {{c|1308|Abraham}}'s
 Journey from {{p|Haran}} south to {{p|Canaan}}—the journey that will
 Establish the {{p|Israelite}} and eventually the {{p|Jewish}}, {{p|Christian}},
 And {{p|Islamic}} traditions—passes through a place with extraordinary
@@ -129,90 +129,90 @@ Deep-time significance: {{p|Sanliurfa}}, in what is now southeastern
 The ancient hunter-gatherer temple complex that predates agriculture,
 Burial, and every named civilization. The oldest religious monument
 
-On earth. And the {{x|Gaiad}}'s reading is that {{c|Abraham}} stopped here.
-Stopped in {{p|Sanliurfa}}. And that in {{p|Sanliurfa}}, he met {{c|Melchizedek}}—
+On earth. And the {{x|Gaiad}}'s reading is that {{c|1308|Abraham}} stopped here.
+Stopped in {{p|Sanliurfa}}. And that in {{p|Sanliurfa}}, he met {{c|1520|Melchizedek}}—
 The mysterious priest-king of {{p|Salem}} who appears in {{p|Genesis 14}}
-To bless {{c|Abraham}}, receive a tithe, and disappear. The biblical
+To bless {{c|1308|Abraham}}, receive a tithe, and disappear. The biblical
 
-Text places this meeting later in {{c|Abraham}}'s journey, after he
-Rescues his nephew {{c|Lot}} from the {{p|Mesopotamian}} kings. The {{x|Gaiad}}
-Relocates it—in the {{x|Gaiad}}'s reading, {{c|Melchizedek}} is "{{c|George
+Text places this meeting later in {{c|1308|Abraham}}'s journey, after he
+Rescues his nephew {{c|2016|Lot}} from the {{p|Mesopotamian}} kings. The {{x|Gaiad}}
+Relocates it—in the {{x|Gaiad}}'s reading, {{c|1520|Melchizedek}} is "{{c|2017|George
 Gobeklius}}," the last priest of the {{p|Göbekli Tepe}} tradition, the
 
 Figure whose ancestral religious memory traces back to the
 Eleven-thousand-year-old temple-complex still buried in the hill
-Nearby. And {{c|Abraham}}, stopping in {{p|Sanliurfa}} on his southward
+Nearby. And {{c|1308|Abraham}}, stopping in {{p|Sanliurfa}} on his southward
 Journey, encounters this priest and receives the blessing of the
 
 Old religious order.
 
                            This is a major move. The {{x|Gaiad}} is making
-{{c|Abraham}} the spiritual heir of the {{p|Göbekli Tepe}} tradition. The
+{{c|1308|Abraham}} the spiritual heir of the {{p|Göbekli Tepe}} tradition. The
 Religious genealogy of the {{p|Abrahamic}} religions is extended backward
 
-Not merely to {{c|Noah}} but to the hunter-gatherer priests who raised
+Not merely to {{c|1851|Noah}} but to the hunter-gatherer priests who raised
 The T-shaped pillars on the hill above {{p|Sanliurfa}} eleven thousand
-Years ago. {{c|Melchizedek}} is the bridge. The tithe {{c|Abraham}} pays is
+Years ago. {{c|1520|Melchizedek}} is the bridge. The tithe {{c|1308|Abraham}} pays is
 The transmission of spiritual authority from the old priesthood to
 
-The new. The blessing {{c|Abraham}} receives is the legitimation of his
+The new. The blessing {{c|1308|Abraham}} receives is the legitimation of his
 Mission by the oldest continuous religious lineage in human history.
 This is the {{x|Gaiad}}'s quiet insertion. It is not in the biblical text.
 But it is suggested by the geography—{{p|Sanliurfa}} really is the city
 
-Closest to {{p|Göbekli Tepe}}, and {{c|Abraham}}'s journey really does pass
+Closest to {{p|Göbekli Tepe}}, and {{c|1308|Abraham}}'s journey really does pass
 Through it. And the {{x|Gaiad}} takes the geographical fact as a narrative
 Opening to link the deep prehistoric religious tradition to the
-Monotheistic tradition that {{c|Abraham}} is about to found.
+Monotheistic tradition that {{c|1308|Abraham}} is about to found.
 
-After {{p|Sanliurfa}}, {{c|Abraham}} continues south. Through {{p|Aleppo}} or
+After {{p|Sanliurfa}}, {{c|1308|Abraham}} continues south. Through {{p|Aleppo}} or
 {{p|Damascus}}, through the {{p|Syrian}} desert, into the land of {{p|Canaan}}.
 He settles in {{p|Shechem}}, then {{p|Bethel}}, then the {{p|Negev}}. He
 Journeys to {{p|Egypt}} during a famine and returns. He separates from
 
-{{c|Lot}}. He rescues {{c|Lot}} from the four kings of {{p|Mesopotamia}}. He
-Makes the covenant with {{c|God}} in which the land of {{p|Canaan}} is
-Promised to his descendants. He nearly sacrifices {{c|Isaac}} on {{p|Mount
+{{c|2016|Lot}}. He rescues {{c|2016|Lot}} from the four kings of {{p|Mesopotamia}}. He
+Makes the covenant with {{c|472|God}} in which the land of {{p|Canaan}} is
+Promised to his descendants. He nearly sacrifices {{c|635|Isaac}} on {{p|Mount
 Moriah}}. He dies at a hundred and seventy-five and is buried in
 
-The {{p|Cave of Machpelah}} in {{p|Hebron}}, where {{c|Sarah}} is already
-Buried. The details of {{c|Abraham}}'s biography will not be rehearsed
+The {{p|Cave of Machpelah}} in {{p|Hebron}}, where {{c|2018|Sarah}} is already
+Buried. The details of {{c|1308|Abraham}}'s biography will not be rehearsed
 Here—they belong to the biblical tradition and are well-known. What
-This chapter establishes is the context: {{c|Abraham}} is a man of the
+This chapter establishes is the context: {{c|1308|Abraham}} is a man of the
 
 {{p|Ur III}} collapse. He is a refugee from the fall of the {{p|Neo-Sumerian}}
 Empire. He is the spiritual heir of the {{p|Göbekli Tepe}} priesthood
-Through his encounter with {{c|Melchizedek}} in {{p|Sanliurfa}}. And he is
-The founder of the line that will produce {{c|Isaac}}, {{c|Jacob}}, and—through
+Through his encounter with {{c|1520|Melchizedek}} in {{p|Sanliurfa}}. And he is
+The founder of the line that will produce {{c|635|Isaac}}, {{c|2019|Jacob}}, and—through
 
-{{c|Ishmael}}—the {{p|Arabian}} peoples, and—through {{c|Isaac}} and {{c|Jacob}}—the
+{{c|634|Ishmael}}—the {{p|Arabian}} peoples, and—through {{c|635|Isaac}} and {{c|2019|Jacob}}—the
 Twelve tribes of {{p|Israel}}, and ultimately the {{p|Judaic}}, {{p|Christian}},
 And {{p|Islamic}} religious traditions that will define much of the
 Following three thousand years of human history.
 
-And {{c|Abraham}}'s haplogroup, in the {{x|Gaiad}}'s reading, is {{c|J}}—the
-{{p|Semitic}} haplogroup of the ancient {{p|Near East}}. Specifically, {{c|Abraham}}
-Is a figure at the junction of {{c|J1}} and {{c|J2}}—the desert-Arabian
+And {{c|1308|Abraham}}'s haplogroup, in the {{x|Gaiad}}'s reading, is {{c|1876|J}}—the
+{{p|Semitic}} haplogroup of the ancient {{p|Near East}}. Specifically, {{c|1308|Abraham}}
+Is a figure at the junction of {{c|1907|J1}} and {{c|1908|J2}}—the desert-Arabian
 Branch and the Levantine-settled branch. His own ancestry in {{p|Ur}}
 
-Would have been {{c|J2}} (the settled {{p|Mesopotamian}} variety), but his
+Would have been {{c|1908|J2}} (the settled {{p|Mesopotamian}} variety), but his
 Later wandering life in the {{p|Canaanite}} and desert margins brings
-Him into {{c|J1}} territory. His son {{c|Ishmael}} will become the
-Founder of {{c|J1}}-dominated {{p|Arabian}} lineages. His son {{c|Isaac}} will
+Him into {{c|1907|J1}} territory. His son {{c|634|Ishmael}} will become the
+Founder of {{c|1907|J1}}-dominated {{p|Arabian}} lineages. His son {{c|635|Isaac}} will
 
-Continue the {{c|J2}}-dominant {{p|Israelite}} lineage. {{c|Abraham}} himself is
-The junction-point where the two great {{p|Semitic}} branches of the {{c|J}}
+Continue the {{c|1908|J2}}-dominant {{p|Israelite}} lineage. {{c|1308|Abraham}} himself is
+The junction-point where the two great {{p|Semitic}} branches of the {{c|1876|J}}
 Haplogroup are, narratively, unified in a single person.
 
-{{c|Abraham}}. The patriarch. The refugee from {{p|Ur}}. The meeter of
-{{c|Melchizedek}} at {{p|Sanliurfa}}. The spiritual heir of the {{p|Göbekli Tepe}}
+{{c|1308|Abraham}}. The patriarch. The refugee from {{p|Ur}}. The meeter of
+{{c|1520|Melchizedek}} at {{p|Sanliurfa}}. The spiritual heir of the {{p|Göbekli Tepe}}
 Priesthood. The founder of the {{p|Abrahamic}} religious tradition.
-The {{c|J}}-haplogroup figure at the junction of {{c|J1}} and {{c|J2}}. The
+The {{c|1876|J}}-haplogroup figure at the junction of {{c|1907|J1}} and {{c|1908|J2}}. The
 
-Ancestor of {{c|Isaac}} and {{c|Ishmael}}, of {{p|Israel}} and of {{p|Ishmaelite}}
+Ancestor of {{c|635|Isaac}} and {{c|634|Ishmael}}, of {{p|Israel}} and of {{p|Ishmaelite}}
 {{p|Arabia}}, of {{p|Judaism}} and {{p|Christianity}} and {{p|Islam}}. The most
 Consequential religious figure in the biblical tradition between
-{{c|Noah}} and {{c|Moses}}.
+{{c|1851|Noah}} and {{c|1006|Moses}}.
 
 And the {{p|Neo-Sumerian}} empire, whose collapse made his journey
 Possible, falls into history. {{p|Ur}} is burned. The ziggurat is

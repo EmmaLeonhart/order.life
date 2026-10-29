@@ -1,12 +1,12 @@
 # Chapter 290: The Four Treasuries
 
-While {{c|Diderot}} in {{p|Paris}} was finishing his dictionary of everything,
+While {{c|4052|Diderot}} in {{p|Paris}} was finishing his dictionary of everything,
 Ten thousand kilometres east, an emperor began a larger one.
-{{c|Qianlong}}, grandson of {{c|Kangxi}}, the fourth of the {{x|Manchu}} line, the king
+{{c|4100|Qianlong}}, grandson of {{c|3950|Kangxi}}, the fourth of the {{x|Manchu}} line, the king
 Of the largest empire {{p|China}} had ever held, in 1773, under the sun
 
 Of a long peace, ordered every book of worth in the realm to be gathered,
-Copied, judged, and kept: the {{c|Siku Quanshu}}, the *Complete Library
+Copied, judged, and kept: the {{c|4101|Siku Quanshu}}, the *Complete Library
 Of the {{x|Four Treasuries}}*: the classics, the histories, the masters, the gathered
 Literature. Three and a half thousand works. The tributary
 
@@ -28,7 +28,7 @@ Was the conqueror becoming the keeper, as an earlier chapter told: now
 The {{x|Manchu}} emperor was the guardian of the whole of {{x|Chinese}} learning.
 That was the gift. And here is the other face, which was the same act.
 The gathering was also a search. Every book that came in was read, the burning
-Kind and the keeping kind sorted: any line against the {{c|Manchus}}, the fact
+Kind and the keeping kind sorted: any line against the {{c|3175|Manchus}}, the fact
 
 Of their conquest, the word *barbarian*, the {{x|Ming}} loyalists' memory,
 Any book that mourned the fallen dynasty, any map of the frontier
@@ -41,12 +41,12 @@ The literary inquisition: authors' families punished, the faltered
 Descendants of writers long dead exhumed in disgrace. The measure
 
 Of the gift is the measure of the loss. Hold them in one hand.
-{{c|Diderot}}'s publisher cut his book in secret, for fear of the king.
-{{c|Qianlong}} was the king, and cut in the open, and planned
+{{c|4052|Diderot}}'s publisher cut his book in secret, for fear of the king.
+{{c|4100|Qianlong}} was the king, and cut in the open, and planned
 The cutting as part of the keeping. The same register, the same thing:
 
 To gather everything is to have the power to choose what survives.
-The chief editor, {{c|Ji Yun}}, a scholar of great wit, wrote the catalogue,
+The chief editor, {{c|4102|Ji Yun}}, a scholar of great wit, wrote the catalogue,
 Ten thousand reviews of the books, the best guide to the old lives
 Of {{x|Chinese}} letters ever made. He also wrote the list of the banned. The fog
 

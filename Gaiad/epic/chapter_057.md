@@ -1,13 +1,13 @@
-# Chapter 57: The Vertebrate {{c|Houses}}
+# Chapter 57: The Vertebrate {{c|90833|Houses}}
 
 This is the book that tells of generations blessed
-And lineages of {{c|Janus}} glorious and bright,
+And lineages of {{c|1495|Janus}} glorious and bright,
 Of how three houses came to rule and rest
 As pillars in evolution's sacred sight.
 
-{{c|Janusicthus}} begat two sons of fame:
-First {{c|Kondricthus}}, noble, strong, and true,
-And bright {{c|Osticthus}}, bearer of the name
+{{c|1421|Janusicthus}} begat two sons of fame:
+First {{c|1496|Kondricthus}}, noble, strong, and true,
+And bright {{c|1493|Osticthus}}, bearer of the name
 Of those who'd find their home in waters blue.
 
 As they lived beneath the ocean's foam
@@ -16,16 +16,16 @@ Suffocating, wild—no place for home
 Where any child could grow with gentle grace.
 
 One day they prayed with all their faithful might
-To great {{c|Elohim}}'s everlasting sight
+To great {{c|271|Elohim}}'s everlasting sight
 For some solution to their bitter plight,
 An offering to make their future bright.
 
 One hundred trilobites they sacrificed
 And gave them to the heaven's shining lights,
-Then waited for reply beneath the {{c|Christ}}
+Then waited for reply beneath the {{c|1497|Christ}}
 Of stars that blessed their prayer throughout the nights.
 
-And great {{c|Elohim}} spoke to faithful men:
+And great {{c|271|Elohim}} spoke to faithful men:
 "I shall grant to one of you this day
 A gift both strange and true beyond your ken:
 The sight to see the stars' eternal ray
@@ -40,7 +40,7 @@ Of life's experiments in earth and sea
 Will be revealed that you might learn and grow
 In wisdom's ways through all eternity."
 
-Great {{c|Chondricthus}} declared with royal pride:
+Great {{c|1498|Chondricthus}} declared with royal pride:
 "As eldest I shall make the choice today—
 The nose I'll take to be my faithful guide
 To rule the boundless sea in every way.
@@ -55,7 +55,7 @@ A nose beyond compare in all the world:
 A thousand scents could tell his story fair
 Of how his hunting banners were unfurled.
 
-But bright {{c|Osticthus}} received instead
+But bright {{c|1493|Osticthus}} received instead
 What blessed his lineage through all time:
 A ring of bone around his eyes that led
 To vision clear and sight so sublime.
@@ -71,29 +71,29 @@ In every shade and hue that light unfurled
 With stories that his children yet would tell.
 
 And so the noble sons of bright sight
-{{c|Osticthus}} learned to rule by vision clear
-While mighty sons of {{c|Kondricthus}}' might
+{{c|1493|Osticthus}} learned to rule by vision clear
+While mighty sons of {{c|1496|Kondricthus}}' might
 Ruled by the scents that they could always hear.
 
-Great {{c|Chondricthus}} could smell from waters far
+Great {{c|1498|Chondricthus}} could smell from waters far
 Sweet streams that called like some celestial star
 From distant homes across the ocean foam
 To waters that would be his future home.
 
-While bright {{c|Osticthus}} with his gifted eyes
+While bright {{c|1493|Osticthus}} with his gifted eyes
 Could see the clean air, bright and crystal free,
 Of heaven high above the earth that lies
 Beneath the dome of blue eternity.
 
-He saw the noble sons of {{c|Arthropus}}
+He saw the noble sons of {{c|732|Arthropus}}
 Who'd made their blessed home upon the land
 That they had built with work victorious
 And shaped it with their own creative hand.
 
-{{c|Acanthus}}, noble son of {{c|Chondricthus}},
+{{c|664|Acanthus}}, noble son of {{c|1498|Chondricthus}},
 When all his youthful training days were done
-{{c|Challenged}} the mighty realm so glorious
-Of {{c|Placoderms}} beneath the blazing sun.
+{{c|1499|Challenged}} the mighty realm so glorious
+Of {{c|1500|Placoderms}} beneath the blazing sun.
 
 He built a skeleton both strong and light
 Not made of bone but built upon the base
@@ -101,21 +101,21 @@ Of cartilage both soft yet filled with might
 That served him well through all his time and space.
 
 His blessed wife would lay just precious few
-{{c|Eggs}} that were treasures, tried and tested true,
+{{c|1501|Eggs}} that were treasures, tried and tested true,
 That they would care for with their love so new
 Both day and night until their time was due.
 
-One blessed day {{c|Osticthus}} swam his way
-Up great {{c|Elivagar}}'s sacred stream—
+One blessed day {{c|1493|Osticthus}} swam his way
+Up great {{c|1502|Elivagar}}'s sacred stream—
 The river we now know as the display
-Of {{c|Mississippi}}'s power and her dream
+Of {{c|1492|Mississippi}}'s power and her dream
 
-And {{c|New}} {{c|River}} too, where waters pure
+And {{c|1503|New}} {{c|1297|River}} too, where waters pure
 Would lead him to his destined, faithful fate
 At heaven's gate where all things shall endure
 Through love that time can never desecrate.
 
-{{c|Osticthus}} learned to breathe the sacred air
+{{c|1493|Osticthus}} learned to breathe the sacred air
 Through spiracles with reverent, loving care,
 As he opened his cheeks beyond compare
 To find what every seeking spirit's prayer
@@ -130,9 +130,9 @@ For air, not water's flow, to enter in—
 A change that helped him grow much more
 Than he had ever dreamed that he could win.
 
-The noble sons of bright {{c|Osticthus}} sing
+The noble sons of bright {{c|1493|Osticthus}} sing
 Their hymns of victory and sacred praise
-Of great {{c|Elivagar}}'s power that would bring
+Of great {{c|1502|Elivagar}}'s power that would bring
 Their hearts the sight of home through all their days
 
 In mountains ancient where their song rings clear
@@ -140,13 +140,13 @@ And life is old and deep beyond all measure
 And memories keep their vigil year by year
 Despite all joys and fears that time can treasure.
 
-{{c|Osticthus}} married fair {{c|Eutelea}} bright,
+{{c|1493|Osticthus}} married fair {{c|1504|Eutelea}} bright,
 Beyond compare in beauty and in grace,
 And in their blessed home filled with delight
 Together in their sacred dwelling place
 
 They bore two sons both noble, tried, and true:
-{{c|Actinus}} and great {{c|Sacropter}}'s name,
+{{c|1505|Actinus}} and great {{c|1506|Sacropter}}'s name,
 Each destined for a chapter to pursue
 In evolution's book of lasting fame
 
@@ -155,10 +155,10 @@ Can see what time has wrought through patient years
 And what their faithful choices comprised
 Of joy and hope beyond all mortal fears.
 
-Great {{c|Sacropter}} saw the potential bright
+Great {{c|1506|Sacropter}} saw the potential bright
 In what was most essential and most true
 About the forest green in morning light
-Of great {{c|Elivagar}}'s blessed, sacred view.
+Of great {{c|1502|Elivagar}}'s blessed, sacred view.
 
 He swam between the trees with graceful art
 And expertise that came from faithful prayer
@@ -170,7 +170,7 @@ Through forest's leafy, green, and sacred bush
 With lobed fins strong and wide that were his guide
 Through waters where the blessed spirits dwell.
 
-While bright {{c|Actinus}} could clearly see
+While bright {{c|1505|Actinus}} could clearly see
 That air's sweet harmony within his form
 Could give him power to be truly free
 And weather any fierce and bitter storm.
@@ -182,16 +182,16 @@ Of sun that blessed his bright and shining way.
 
 Of conquest in the sea he'd dream each night,
 He went on to become the blessed king
-Of {{c|Baltic}}'s realm with fins that caught the light
+Of {{c|1507|Baltic}}'s realm with fins that caught the light
 Like rays of hope that make the angels sing
 
 When morning sun begins its sacred course
 And blesses all with heaven's gentle force.
-{{c|Ray}} fins he built with love's creative source
+{{c|1508|Ray}} fins he built with love's creative source
 That danced upon the air of water's course
 
 Like music from the spheres of heaven's dome,
-And he took blessed {{c|Andrea}} {{c|Lepis}} home
+And he took blessed {{c|1509|Andrea}} {{c|1510|Lepis}} home
 As wife, who made their sacred marriage roam
 With joy through realms where angels love to roam.
 
@@ -201,17 +201,17 @@ And showed that love can multiply and share
 Its blessings far beyond what mortals dare.
 
 And so the noble sons of bright sight blessed
-{{c|Osticthus}} gained the vision crystal clear
+{{c|1493|Osticthus}} gained the vision crystal clear
 To rule with wisdom and to be at rest:
-{{c|Actinus}} ruled without a trace of fear
+{{c|1505|Actinus}} ruled without a trace of fear
 
-And great {{c|Sacropter}}, strong throughout his days,
+And great {{c|1506|Sacropter}}, strong throughout his days,
 Who served with all his heart the gentle call
 Of forests' sacred and eternal ways
 That beckoned to the spirits of them all.
 
-And brave {{c|Acanthus}}, noble son so true
-Of great {{c|Chondricthus}}, with his work begun
+And brave {{c|664|Acanthus}}, noble son so true
+Of great {{c|1498|Chondricthus}}, with his work begun
 His reign with scenting power to pursue
 His calling underneath the blazing sun.
 
@@ -220,7 +220,7 @@ That nothing in the world could ever bother:
 The three great vertebrate houses' designs
 Of father, son, and spirit-brother.
 
-From {{c|Janus}}' legacy through all of time
+From {{c|1495|Janus}}' legacy through all of time
 The vertebrates would show in reason, rhyme
 How families can grow from humble start
 To rule with wisdom's everlasting art
@@ -235,7 +235,7 @@ Of air and forest green where spirits lift
 Their voices in eternal, sacred song
 And all that fills the heart with praise lifelong,
 
-The noble sons of {{c|Janus}} found their way
+The noble sons of {{c|1495|Janus}} found their way
 To solid ground where innovation's art
 Would bless them with new gifts from day to day
 And touch each faithful, seeking, loving heart.
@@ -253,7 +253,7 @@ That challenged them to give their very best.
 From nose that smells each scent upon the breeze
 To eyes that see the light of stars above,
 The gifts that heaven gave to those who please
-The heart of {{c|God}} with faith and perfect love
+The heart of {{c|472|God}} with faith and perfect love
 
 Show us the way to live both faithfully
 And free in asking for the aid we need
@@ -265,8 +265,8 @@ That every story goes from night to day
 And what each seeking soul requires to find
 The peace that comes to every faithful mind.
 
-From great {{c|Chondricthus}}' scent to the ascent
-Of bright {{c|Osticthus}} to the air above
+From great {{c|1498|Chondricthus}}' scent to the ascent
+Of bright {{c|1493|Osticthus}} to the air above
 Through grace and mercy that were truly sent
 By heaven's everlasting, perfect love,
 
@@ -290,7 +290,7 @@ That sings of hope renewed and spirits strong
 Who found their destiny through faithful prayer
 Beyond what others thought that they could dare,
 
-The three great houses born from {{c|Janus}}' line
+The three great houses born from {{c|1495|Janus}}' line
 When heaven blessed his children with divine
 And sacred gifts show us that every choice
 To lift in prayer our faithful, seeking voice
@@ -305,7 +305,7 @@ Reveals to us our true and destined place
 In love's eternal plan for you and me
 Through all the days of our eternity.
 
-From great {{c|Elivagar}}'s sacred, flowing stream
+From great {{c|1502|Elivagar}}'s sacred, flowing stream
 To all we'll ever know of heaven's dream
 Of home where we belong in wisdom's song,
 The vertebrates have traveled far and long
@@ -322,10 +322,10 @@ To treasures that can never be bought
 
 With earthly coin but only with the prayer
 Of faithful hearts who know that heaven's care
-{{c|Extends}} to all who seek to truly be
+{{c|1511|Extends}} to all who seek to truly be
 More than they seem through all eternity.
 
-From {{c|Janus}} to the three great houses blessed,
+From {{c|1495|Janus}} to the three great houses blessed,
 We see how prayer and faith when they're expressed
 Together can free the seeking, faithful mind
 And help the heart true peace and wisdom find

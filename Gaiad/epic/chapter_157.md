@@ -6,7 +6,7 @@ A kingdom was emerging that would become {{p|Egypt}}'s great rival.
 
 The {{p|Hittites}}.
 
-                       An {{p|Indo-European}} people whose {{c|R1b}} haplogroup
+                       An {{p|Indo-European}} people whose {{c|1942|R1b}} haplogroup
 Ancestors had arrived in {{p|Anatolia}} quite early in the {{p|Yamnaya}}
 Expansion—probably in the third millennium BCE, through the
 
@@ -30,18 +30,18 @@ And early twentieth centuries, they revolutionized our understanding
 Of the {{x|Bronze Age}}.
 
                            The {{p|Hittite}} kingdom—or {{p|Hatti}}, as it
-Called itself—was founded around seventeen-fifty BCE by {{c|Anitta}},
+Called itself—was founded around seventeen-fifty BCE by {{c|2095|Anitta}},
 A king who had conquered the city of {{p|Hattusa}} and several other
 
 {{p|Anatolian}} centers. The {{p|Old Hittite Kingdom}} was consolidated
-Under {{c|Hattusili I}} around sixteen-fifty BCE, with {{p|Hattusa}} as
-Its capital. The kingdom expanded rapidly. Under {{c|Mursili I}}, the
+Under {{c|2096|Hattusili I}} around sixteen-fifty BCE, with {{p|Hattusa}} as
+Its capital. The kingdom expanded rapidly. Under {{c|2097|Mursili I}}, the
 {{p|Hittites}} conducted a remarkable military expedition: they marched
 
 South across the {{p|Taurus Mountains}}, through {{p|Syria}}, and all the
-Way down to {{p|Babylon}}. In fifteen-ninety-five BCE, {{c|Mursili I}}
+Way down to {{p|Babylon}}. In fifteen-ninety-five BCE, {{c|2097|Mursili I}}
 Sacked {{p|Babylon}}—this was the raid that ended the {{p|Old Babylonian}}
-Empire of {{c|Hammurabi}}'s dynasty. The {{p|Hittites}} did not stay to
+Empire of {{c|1919|Hammurabi}}'s dynasty. The {{p|Hittites}} did not stay to
 
 Occupy {{p|Babylon}}; they withdrew back to {{p|Anatolia}} with their
 Plunder. But the sack was devastating, and it marks the end of
@@ -53,9 +53,9 @@ Consolidated.
 
                    The {{p|Hittite}} empire reached its peak in the
 Fourteenth and thirteenth centuries BCE under a series of capable
-Rulers: {{c|Suppiluliuma I}}, {{c|Mursili II}}, {{c|Muwatalli II}}, {{c|Hattusili III}},
+Rulers: {{c|2098|Suppiluliuma I}}, {{c|2099|Mursili II}}, {{c|2100|Muwatalli II}}, {{c|2092|Hattusili III}},
 
-{{c|Tudhaliya IV}}. The empire controlled central and eastern {{p|Anatolia}},
+{{c|2101|Tudhaliya IV}}. The empire controlled central and eastern {{p|Anatolia}},
 Northern {{p|Syria}}, and much of the {{p|Levant}} (in competition and
 Occasional cooperation with {{p|Egypt}}). The {{p|Hittites}} were the
 Northern pole of a bipolar {{x|Bronze Age}} political system in which
@@ -68,24 +68,24 @@ In twelve-seventy-four BCE.
                                   {{p|Kadesh}}. A small city on the
 {{p|Orontes River}} in central {{p|Syria}}. Strategically located on the
 Border zone between {{p|Hittite}} and {{p|Egyptian}} spheres of influence.
-And in twelve-seventy-four BCE, {{c|Ramesses II}} of {{p|Egypt}} and
+And in twelve-seventy-four BCE, {{c|2033|Ramesses II}} of {{p|Egypt}} and
 
-{{c|Muwatalli II}} of {{p|Hatti}} confronted each other here with the
+{{c|2100|Muwatalli II}} of {{p|Hatti}} confronted each other here with the
 Largest chariot forces ever fielded in human military history up
 To that point. The {{p|Egyptian}} army consisted of perhaps twenty
 Thousand infantry and two thousand chariots. The {{p|Hittite}} army
 
 Fielded a similar infantry strength plus three thousand chariots.
 The battle was massive, confused, and fought partly around a
-{{p|Hittite}} ambush that caught {{c|Ramesses}} unprepared—the {{p|Egyptian}}
+{{p|Hittite}} ambush that caught {{c|2094|Ramesses}} unprepared—the {{p|Egyptian}}
 Pharaoh had advanced too far ahead of his main force, and his
 
 Camp was overrun by {{p|Hittite}} chariotry. The battle was recovered—
-{{c|Ramesses}} rallied his remaining forces and held the field by
+{{c|2094|Ramesses}} rallied his remaining forces and held the field by
 Nightfall—but the outcome was indecisive. Both sides claimed
-Victory. Both accounts are partially preserved: {{c|Ramesses}}'s in
+Victory. Both accounts are partially preserved: {{c|2094|Ramesses}}'s in
 
-{{p|Egyptian}} inscriptions at {{p|Karnak}} and the {{p|Ramesseum}}, {{c|Muwatalli}}'s
+{{p|Egyptian}} inscriptions at {{p|Karnak}} and the {{p|Ramesseum}}, {{c|2102|Muwatalli}}'s
 (Indirectly, through later {{p|Hittite}} documents) in the archives
 At {{p|Hattusa}}. The historical consensus is that the battle was
 Effectively a draw. Neither side had the ability to dislodge the
@@ -95,14 +95,14 @@ Powers eventually negotiated a peace.
 
                                               The {{p|Egyptian-Hittite}}
 Peace Treaty was signed around twelve-fifty-nine BCE, between
-{{c|Ramesses II}} and {{c|Hattusili III}} (who had succeeded {{c|Muwatalli II}}
+{{c|2033|Ramesses II}} and {{c|2092|Hattusili III}} (who had succeeded {{c|2100|Muwatalli II}}
 
 After a brief civil war). The treaty established a permanent peace
 Between the two empires, a mutual defense pact against external
 Aggression, and provisions for the extradition of political
-Refugees. It was sealed with a dynastic marriage: {{c|Hattusili III}}'s
+Refugees. It was sealed with a dynastic marriage: {{c|2092|Hattusili III}}'s
 
-Daughter married {{c|Ramesses II}} and became one of his principal
+Daughter married {{c|2033|Ramesses II}} and became one of his principal
 Queens. The treaty was written in cuneiform on silver tablets, with
 Copies kept in both capitals. It is the oldest known international
 Peace treaty in human history. A copy of the {{p|Hittite}} version on
@@ -130,7 +130,7 @@ Conquered territory into their expanding pantheon, rather than
 
 Suppressing local cults. This made {{p|Hittite}} religion tolerant and
 Syncretic, willing to add rather than replace. The storm-god
-{{c|Teshub}} (borrowed from the {{p|Hurrians}}) was their chief deity. The
+{{c|2103|Teshub}} (borrowed from the {{p|Hurrians}}) was their chief deity. The
 Sun-goddess of {{p|Arinna}} was his consort. Mountain-gods, river-gods,
 
 Ancestral kings elevated to divine status, agricultural deities—all
@@ -139,7 +139,7 @@ As well: conquered populations were more likely to accept {{p|Hittite}}
 Rule if their local gods were incorporated rather than abolished.
 
 And the {{p|Hittites}} had a distinctive law code. It was generally
-Less brutal than {{c|Hammurabi}}'s code. Capital punishment was rare.
+Less brutal than {{c|1919|Hammurabi}}'s code. Capital punishment was rare.
 Most offenses carried restitution-based penalties—payment to the
 Victim or the victim's family, rather than physical mutilation or
 
@@ -153,18 +153,18 @@ Tradition was noticeably less retributive than its southern
 {{p|Mesopotamian}} counterpart.
 
 And the {{p|Hittites}} in the biblical record—this is interesting. The
-{{p|Hebrew Bible}} mentions "{{c|Hittites}}" repeatedly as one of the
-Peoples of {{p|Canaan}} encountered by {{c|Abraham}} and later {{p|Israelite}}
-Generations. {{c|Uriah the Hittite}} is a {{p|Hittite}} character in the
+{{p|Hebrew Bible}} mentions "{{c|2104|Hittites}}" repeatedly as one of the
+Peoples of {{p|Canaan}} encountered by {{c|1308|Abraham}} and later {{p|Israelite}}
+Generations. {{c|2105|Uriah the Hittite}} is a {{p|Hittite}} character in the
 
-Court of {{c|King David}}. The biblical {{c|Hittites}} appear to be a
+Court of {{c|2106|King David}}. The biblical {{c|2104|Hittites}} appear to be a
 Subset of the actual {{p|Hittite}} population—specifically, {{p|Neo-Hittite}}
 Remnant populations in northern {{p|Syria}} and southern {{p|Turkey}} who
 Survived the fall of the {{p|Hittite}} Empire and continued to maintain
 
 A distinct {{p|Hittite}} cultural identity into the first millennium BCE.
 These {{p|Neo-Hittite}} city-states—{{p|Carchemish}}, {{p|Aleppo}}, {{p|Hamath}},
-{{p|Sam'al}}—are where the biblical {{c|Hittites}} come from. The great
+{{p|Sam'al}}—are where the biblical {{c|2104|Hittites}} come from. The great
 {{p|Hittite}} Empire was already gone by the time the biblical narrative
 
 Takes shape, but its cultural and ethnic remnants persisted for
@@ -192,7 +192,7 @@ Within a generation. Their capital was abandoned and forgotten.
 Their language was lost. By the first century BCE, the word
 "{{p|Hittite}}" had become, in the biblical and later traditions, a
 Vague name for unnamed eastern peoples. The actual {{p|Hittite}} Empire
-Was unknown to historians until {{c|Hugo Winckler}} and {{c|Theodor Makridi}}
+Was unknown to historians until {{c|2107|Hugo Winckler}} and {{c|2108|Theodor Makridi}}
 
 Began excavating {{p|Hattusa}} in nineteen-oh-six and discovered the
 Lost archive. Three thousand years of historical amnesia, ended by
@@ -211,11 +211,11 @@ Reconstructed.
 The sack of {{p|Babylon}}. The rivalry with {{p|Egypt}}. The {{p|Kadesh}} peace
 Treaty. The "{{x|Land of the Thousand Gods}}." The law code less brutal
 
-Than {{c|Hammurabi}}'s. The capital at {{p|Hattusa}} and its archive.
+Than {{c|1919|Hammurabi}}'s. The capital at {{p|Hattusa}} and its archive.
 The collapse in the {{x|Bronze Age Collapse}}. The three thousand years
 Of forgetting. The twentieth-century rediscovery. The reconstruction
 Of a lost civilization from its hidden tablets.
 
-{{p|Hittites}}. {{p|Hattusa}}. {{p|Kadesh}}. The {{c|R1b}}-haplogroup empire of
+{{p|Hittites}}. {{p|Hattusa}}. {{p|Kadesh}}. The {{c|1942|R1b}}-haplogroup empire of
 {{p|Anatolia}}. The northern pole of {{x|Bronze Age}} political order. The
 Forgotten and rediscovered empire.

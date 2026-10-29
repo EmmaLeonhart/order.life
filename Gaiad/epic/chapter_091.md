@@ -66,17 +66,17 @@ The old arrangements met their contradiction
 In the changed climate: what had thrived in drought
 Now drowned in rain, and what had waited for
 The wet now flourished—and the sorting out
-Left {{c|Cruros}}' children weakened at the core
+Left {{c|1732|Cruros}}' children weakened at the core
 
-While {{c|Avemeta}}'s nimble dinosaurs,
+While {{c|1733|Avemeta}}'s nimble dinosaurs,
 Adapted to the marginal and the changing,
 Found opportunity in the {{x|Carnian}} doors
 That opened as the old world was rearranging.
 
 The rains subsided. The world resumed its drift.
-But the balance had been tilted—{{c|Deinos}}' children
+But the balance had been tilted—{{c|1736|Deinos}}' children
 Had gained a foothold from the climate's shift,
-And {{c|Cruros}}' dominance, though far from wilted,
+And {{c|1732|Cruros}}' dominance, though far from wilted,
 
 Was never quite so absolute again.
 
@@ -95,7 +95,7 @@ The {{p|Tethys}} Sea became an ocean highway—
 A warm equatorial current's contributions
 Connecting east and west along the midway
 
-Of the world—and {{c|Ichthyos}} and {{c|Nothros}} swam
+Of the world—and {{c|1726|Ichthyos}} and {{c|1729|Nothros}} swam
 Its widening corridors, the marine reptiles
 Following the fish across the expanding dam
 Of new seafloor spreading in its tiles
@@ -118,9 +118,9 @@ The breaking was just beginning—nothing more
 Than a wider seaway and a wetter stage
 
 For the same cast of characters to play
-Their parts upon—{{c|Cruros}} by the river,
-{{c|Deinos}} in the uplands, {{c|Ichthyos}} in the bay,
-And {{c|Cynos}} in his burrow, a persistent liver
+Their parts upon—{{c|1732|Cruros}} by the river,
+{{c|1736|Deinos}} in the uplands, {{c|1726|Ichthyos}} in the bay,
+And {{c|1673|Cynos}} in his burrow, a persistent liver
 
 Through every age's change.
 

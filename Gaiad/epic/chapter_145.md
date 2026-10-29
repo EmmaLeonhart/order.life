@@ -7,7 +7,7 @@ To build at a scale that would dwarf everything that had come before.
 {{p|Egypt}}. The {{p|Nile}}. The {{x|Old Kingdom}}.
 
                                               The {{p|Nile Valley}} had
-Been settled by {{c|E}}-haplogroup peoples for thousands of years.
+Been settled by {{c|1861|E}}-haplogroup peoples for thousands of years.
 The {{p|Predynastic}} cultures—{{p|Badari}}, {{p|Naqada}} I, II, III—had
 Developed pottery, metallurgy, symbolic systems that would evolve
 
@@ -17,8 +17,8 @@ Units along the river. By approximately thirty-one hundred BCE, the
 {{p|Aswan}} to modern {{p|Cairo}}) and {{p|Lower Egypt}} (the broad {{p|Nile Delta}}
 
 Opening onto the {{p|Mediterranean}})—had been unified under a single
-Pharaoh. The founder is traditionally called {{c|Menes}}, sometimes
-Identified with {{c|Narmer}}, whose ceremonial palette is one of the
+Pharaoh. The founder is traditionally called {{c|1960|Menes}}, sometimes
+Identified with {{c|1961|Narmer}}, whose ceremonial palette is one of the
 Earliest documents of pharaonic kingship. The {{x|First Dynasty}} began.
 
 The {{p|Early Dynastic Period}} ran from approximately thirty-one hundred
@@ -31,9 +31,9 @@ Viable for the next three millennia. And then, around twenty-six
 Hundred BCE, something changed. The kings of the {{p|Third Dynasty}}
 And {{p|Fourth Dynasty}} began to build at an unprecedented scale.
 
-{{c|Djoser}}, a {{p|Third Dynasty}} pharaoh, built the {{p|Step Pyramid}} at
+{{c|1962|Djoser}}, a {{p|Third Dynasty}} pharaoh, built the {{p|Step Pyramid}} at
 {{p|Saqqara}}. The first monumental stone structure in {{p|Egypt}}. The
-Architect, {{c|Imhotep}}—vizier, physician, priest, builder—would be
+Architect, {{c|1963|Imhotep}}—vizier, physician, priest, builder—would be
 Deified in later {{p|Egyptian}} tradition as the divine craftsman. The
 
 {{p|Step Pyramid}} was originally a mastaba—a flat rectangular tomb—
@@ -43,17 +43,17 @@ Skyscraper. The first large-scale stone architecture. And the first
 
 Sign of what was to come.
 
-                                Sixty years later, {{c|Sneferu}}, founder
+                                Sixty years later, {{c|1964|Sneferu}}, founder
 Of the {{p|Fourth Dynasty}}, was experimenting with true pyramid form.
-{{c|Sneferu}} built three pyramids over the course of his reign—the
+{{c|1964|Sneferu}} built three pyramids over the course of his reign—the
 
 {{p|Meidum Pyramid}} (which partially collapsed), the {{p|Bent Pyramid}} at
 {{p|Dahshur}} (whose slope had to be changed mid-construction when the
 Builders realized the original angle was too steep), and the {{p|Red Pyramid}}
 At {{p|Dahshur}} (the first true smooth-sided pyramid, completed
 
-Successfully). {{c|Sneferu}}'s experiments set the stage. And then his
-Son, {{c|Khufu}}, built the {{p|Great Pyramid}} at {{p|Giza}}.
+Successfully). {{c|1964|Sneferu}}'s experiments set the stage. And then his
+Son, {{c|1965|Khufu}}, built the {{p|Great Pyramid}} at {{p|Giza}}.
 
                                                                 The
 {{p|Great Pyramid of Giza}}. Four hundred and eighty feet high. Two point
@@ -76,21 +76,21 @@ Stars in the northern sky. The pharaoh becomes a star. The pyramid
 
 Is his launchpad.
 
-                     {{c|Khufu}}'s son {{c|Khafre}} built the second pyramid
+                     {{c|1965|Khufu}}'s son {{c|1966|Khafre}} built the second pyramid
 At {{p|Giza}}, slightly smaller but on slightly higher ground, so that
-The two appear nearly equal in height. {{c|Khafre}} also built the
+The two appear nearly equal in height. {{c|1966|Khafre}} also built the
 
 {{p|Great Sphinx}}—the massive limestone statue of a crouching lion with
 A human head, carved from bedrock beside the pyramid complex. The
 {{p|Sphinx}} faces east, toward the rising sun. Its human head is
-Traditionally identified with {{c|Khafre}} himself. The statue is the
+Traditionally identified with {{c|1966|Khafre}} himself. The statue is the
 
 Largest monolithic stone sculpture in the world, and has stood
 For forty-five hundred years as the guardian of the {{p|Giza}} plateau.
-{{c|Menkaure}}, {{c|Khafre}}'s son, built the third and smallest of the
-{{p|Giza}} pyramids. The three pyramids together—{{c|Khufu}}, {{c|Khafre}},
+{{c|1967|Menkaure}}, {{c|1966|Khafre}}'s son, built the third and smallest of the
+{{p|Giza}} pyramids. The three pyramids together—{{c|1965|Khufu}}, {{c|1966|Khafre}},
 
-{{c|Menkaure}}—are one of the most recognizable architectural ensembles
+{{c|1967|Menkaure}}—are one of the most recognizable architectural ensembles
 In human history. They have outlasted every empire that has risen
 And fallen around them. The {{p|Persian}} conquest, the {{p|Macedonian}}
 Conquest, the {{p|Roman}} conquest, the {{p|Arab}} conquest, the {{p|Ottoman}}
@@ -101,11 +101,11 @@ History in any meaningful sense. They are the deepest monuments
 Of human civilization still standing at their full scale.
 
 And behind the pyramids is the religious imagination of the {{p|Old
-Kingdom}}. The pharaoh is divine. The pharaoh is {{c|Horus}} incarnate.
-When the pharaoh dies, he becomes {{c|Osiris}}, the god of the underworld
+Kingdom}}. The pharaoh is divine. The pharaoh is {{c|1968|Horus}} incarnate.
+When the pharaoh dies, he becomes {{c|1166|Osiris}}, the god of the underworld
 And the judge of souls. His son, the new pharaoh, becomes the new
 
-{{c|Horus}}. The cycle of divine kingship is maintained across the
+{{c|1968|Horus}}. The cycle of divine kingship is maintained across the
 Generations. And the afterlife of the pharaoh is not merely
 Personal—it is cosmic. The pharaoh's successful transition to the
 Stars is what maintains the order of the universe. The pyramid is
@@ -128,7 +128,7 @@ And provided with medical care; many were rotated in from villages
 
 Across {{p|Egypt}} for temporary labor service, a kind of {{p|Egyptian}}
 National-service system. The workers left graffiti on the stones
-Identifying their work-crews—"{{c|Khufu}}'s Drunkards," "{{c|Khufu}}'s Friends,"
+Identifying their work-crews—"{{c|1965|Khufu}}'s Drunkards," "{{c|1965|Khufu}}'s Friends,"
 Humor and identity preserved in the limestone. The pyramids were
 
 Built by real people, with real names, who went home afterward
@@ -143,7 +143,7 @@ Other things, the first large-scale bureaucratic state.
                                                              And it
 Does not last forever.
 
-                           After {{c|Menkaure}}, the royal building
+                           After {{c|1967|Menkaure}}, the royal building
 Program becomes less ambitious. The pyramids of the {{p|Fifth}} and
 {{p|Sixth Dynasties}} are smaller, less well-constructed, less monumentally
 
@@ -210,13 +210,13 @@ That was built before the modern era. And in the desert light at
 Sunset, the pyramids glow orange and gold, exactly as they must have
 
 Glowed at sunset four thousand six hundred years ago when
-{{c|Khufu}}'s laborers laid the last capstone and stepped back to
+{{c|1965|Khufu}}'s laborers laid the last capstone and stepped back to
 Look at what they had built.
 
                                 {{p|Old Kingdom}}. The pyramids.
 The divine pharaoh. The first great architectural civilization
 
-Of the historical era. The {{c|E}}-haplogroup civilization that built
+Of the historical era. The {{c|1861|E}}-haplogroup civilization that built
 In stone on a scale the rest of the world would not match for
 Thousands of years. And when the climate broke, and the state
 Fragmented, and the pyramids were left to weather in the sun, the
@@ -224,4 +224,4 @@ Fragmented, and the pyramids were left to weather in the sun, the
 Civilization did not die—it only paused, and reassembled, and
 Continued. The pyramids remain as witnesses.
 
-{{p|Old Kingdom}}. The pyramids. {{c|Khufu}}, {{c|Khafre}}, {{c|Menkaure}}.
+{{p|Old Kingdom}}. The pyramids. {{c|1965|Khufu}}, {{c|1966|Khafre}}, {{c|1967|Menkaure}}.

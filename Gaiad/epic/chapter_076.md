@@ -52,7 +52,7 @@ Needs not the wealth of river or of brook
 
 To thrive—a fallen leaf, a fallen seed,
 The bodies of the dead, the fungal mat—
-This is enough for {{c|Neopter}}'s creed,
+This is enough for {{c|1598|Neopter}}'s creed,
 And {{p|Pangea}}'s great interior was that
 
 And more: it was a continent of road
@@ -61,7 +61,7 @@ A highway wider than had ever glowed
 With possibility, a smith
 
 Of new biodiversity for those
-Who could endure the crossing—{{c|Neopter}}
+Who could endure the crossing—{{c|1598|Neopter}}
 Spread his nations along every close
 And narrow pass where scrub and juniper
 
@@ -78,7 +78,7 @@ Of temperature and found inside
 The rotting log and under every stone
 A kingdom made of cellulose—the wood
 That no vertebrate could eat alone
-Was {{c|Neopter}}'s inheritance and good
+Was {{c|1598|Neopter}}'s inheritance and good
 
 And endless bread. The ants would come
 In far-off future chapters—but the seed
@@ -90,7 +90,7 @@ Ancestors who walked the {{x|Permian}} plain
 And found in shared defense and shared endeavors
 More survival than the lone's campaign.
 
-And {{c|Arachnus}} crossed the {{p|Pangean}} road
+And {{c|746|Arachnus}} crossed the {{p|Pangean}} road
 As well—the spiders with their silk
 Had tools of conquest that no other showed:
 A web across the world, white milk
@@ -101,9 +101,9 @@ And in a world of insects, nothing gets
 More profitable than a trap for new
 
 Varieties of flying prey—wherever
-{{c|Neopter}}'s children spread new wings
+{{c|1598|Neopter}}'s children spread new wings
 And crossed the vast interior, the clever
-{{c|Arachnus}} followed, stringing
+{{c|746|Arachnus}} followed, stringing
 
 His webs between whatever brush remained
 Along the desert margins, hunting every

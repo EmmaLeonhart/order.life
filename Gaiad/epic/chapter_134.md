@@ -1,42 +1,42 @@
 # Chapter 134: The CF Split and the Unsplit C
 
-While {{c|D}} was burying itself under the ash
+While {{c|1850|D}} was burying itself under the ash
 Of {{p|Toba}}, or finding refuge in {{p|Japan}},
-The sister clade {{c|CF}} was going through the crash
+The sister clade {{c|1856|CF}} was going through the crash
 And continuation of its own slow plan.
 
-{{c|CF}} had split from {{c|DE}} early in the wandering—
+{{c|1856|CF}} had split from {{c|1855|DE}} early in the wandering—
 Within a few thousand years of the crossing, two
-Major sub-branches of {{c|CT}} were pondering
-Separate trajectories, and one was called the {{c|CF}} crew.
+Major sub-branches of {{c|1854|CT}} were pondering
+Separate trajectories, and one was called the {{c|1856|CF}} crew.
 
-Then {{c|CF}} itself split. Into {{c|C}} and {{c|F}}.
+Then {{c|1856|CF}} itself split. Into {{c|1849|C}} and {{c|1862|F}}.
 
-{{c|F}} is the one that stays in the main story. {{c|F}}
-Would spawn the {{c|GHIJK}} megabranch—the whole of
-The lineages that would become, in time, every {{c|G}}
-And {{c|H}} and {{c|I}} and {{c|J}} and {{c|K}} (and {{c|L}}, {{c|M}}, {{c|N}}, {{c|O}}, {{c|P}}, {{c|Q}}, {{c|R}}, {{c|S}}, {{c|T}})
-Of the human family tree. {{c|F}} is the generous
+{{c|1862|F}} is the one that stays in the main story. {{c|1862|F}}
+Would spawn the {{c|1872|GHIJK}} megabranch—the whole of
+The lineages that would become, in time, every {{c|1873|G}}
+And {{c|1874|H}} and {{c|1875|I}} and {{c|1876|J}} and {{c|1877|K}} (and {{c|1878|L}}, {{c|1879|M}}, {{c|1880|N}}, {{c|1881|O}}, {{c|1882|P}}, {{c|1883|Q}}, {{c|1884|R}}, {{c|1885|S}}, {{c|1886|T}})
+Of the human family tree. {{c|1862|F}} is the generous
 Trunk from which ninety percent of non-{{p|African}}
 Men descend. Everything downstream. The ocean and the rain.
 
-{{c|F}} will be covered in the coming chapters. The stain
+{{c|1862|F}} will be covered in the coming chapters. The stain
 And signature of its descendants will take up
 The better part of the next eight or nine chapters. The cup
 
-Of {{c|F}} is deep. But first, {{c|C}}.
+Of {{c|1862|F}} is deep. But first, {{c|1849|C}}.
 
-                                         {{c|Haplogroup C}}.
+                                         {{c|1887|Haplogroup C}}.
 
 Not the deepest. Not the first to split. Not the widest
 Of the modern distributions. But perhaps the strangest,
 The most geographically bewildering, the slightest
 And most puzzling of the major lineages. The largest
 
-Gap in the human migration story belongs to {{c|C}}.
+Gap in the human migration story belongs to {{c|1849|C}}.
 
-Because {{c|C}} is in two places. Two. Not scattered.
-Two. Not a handful of refugia, as {{c|D}} was battered
+Because {{c|1849|C}} is in two places. Two. Not scattered.
+Two. Not a handful of refugia, as {{c|1850|D}} was battered
 Into. But two populations, separated by
 A distance greater than any other haplogroup's fly
 
@@ -56,7 +56,7 @@ Of {{p|Sundaland}} and {{p|Sahul}} formed a near-continuous land
 Mass across what is now deep ocean. The bands
 
 That crossed into {{p|Australia}} were among the earliest
-Post-{{c|CT}} migrants. They carried {{c|C}}, and {{c|C}} was the curliest
+Post-{{c|1854|CT}} migrants. They carried {{c|1849|C}}, and {{c|1849|C}} was the curliest
 
 And tangled-most of the haplogroups they carried. They arrived.
 They settled. They spread across the entire continent, and they thrived
@@ -64,7 +64,7 @@ They settled. They spread across the entire continent, and they thrived
 There for the next fifty thousand years. Fifty.
 Thousand. Years. The longest continuous human occupation
 
-Of any single continent on earth. The {{c|Aboriginal}}
+Of any single continent on earth. The {{c|1888|Aboriginal}}
 Peoples of {{p|Australia}} are, by the measure of the operation
 
 Of their unbroken presence on the land, the oldest
@@ -81,17 +81,17 @@ The dreamings—fifty thousand years of patient causes
 
 And effects on the land and on the body and on the mind.
 
-And approximately sixty percent of {{c|Aboriginal}} {{p|Australian}}
-Men carry {{c|C}}. {{c|C}} is the dominant patrilineal sign
+And approximately sixty percent of {{c|1888|Aboriginal}} {{p|Australian}}
+Men carry {{c|1849|C}}. {{c|1849|C}} is the dominant patrilineal sign
 Of the continent's indigenous population. The alien
 
 And later {{p|European}} arrivals brought their own haplogroups.
-But the {{c|C}} of {{p|Australia}}—the old {{c|C}}, the one that scoops
+But the {{c|1849|C}} of {{p|Australia}}—the old {{c|1849|C}}, the one that scoops
 
 And gathers up the oldest story on earth—is the marker
 Of an unbroken fifty-thousand-year continuity. The starker
 
-Fact is that this same lineage—the same {{c|C}}, not a closely-
+Fact is that this same lineage—the same {{c|1849|C}}, not a closely-
 Related cousin, but the same haplogroup, precisely—
 
 Is also the dominant lineage of the {{p|Central Asian}} steppe.
@@ -103,7 +103,7 @@ Where the mounted nomads would build, in much later ages, the empires
 That would change the course of history—from the {{p|Xiongnu}} to {{p|Genghis Khan}}'s pyres
 
 And conquests and the successor {{p|Golden Hordes}}—carry, at
-High frequencies, {{c|C}}. The same haplogroup that sat
+High frequencies, {{c|1849|C}}. The same haplogroup that sat
 
 On the {{p|Australian}} continent for fifty thousand years
 Is the one whose later descendants raise the spears
@@ -117,20 +117,20 @@ Culture on earth. And the greatest land-empire builders. The sinuous
 And strange fact of a single patrilineal marker
 That spans the two. How did this happen? What is the starker
 
-Mechanism behind the non-divergence? Why has {{c|C}}
+Mechanism behind the non-divergence? Why has {{c|1849|C}}
 Not split, in the way that every other major haplogroup freely
 
 And genetically has, into distinct regional sub-clades
 That we name and number and treat as separate cascades?
 
-The scientific answer is that {{c|C}} does have internal sub-clades—
-{{c|C1}}, {{c|C2}}, and so on—and that the {{p|Australian}} {{c|C}}
-Is largely {{c|C1}}, while the steppe {{c|C}} is largely {{c|C2}}. There are reads
+The scientific answer is that {{c|1849|C}} does have internal sub-clades—
+{{c|1889|C1}}, {{c|1890|C2}}, and so on—and that the {{p|Australian}} {{c|1849|C}}
+Is largely {{c|1889|C1}}, while the steppe {{c|1849|C}} is largely {{c|1890|C2}}. There are reads
 
 Of the data that distinguish them. But at the level
 Of the haplogroup name, at the level where the gavel
 
-Of nomenclature comes down, they are still {{c|C}}. They have
+Of nomenclature comes down, they are still {{c|1849|C}}. They have
 Not been split into two separate haplogroups. The salve
 
 Of the distinct sub-clade designation does not quite close
@@ -143,15 +143,15 @@ That are as divergent as any two can be.
 
 The {{x|Gaiad}} does not resolve the puzzle. The {{x|Gaiad}} lets the mystery
 
-Of {{c|C}} stand. The chapter is not about a causal explanation—
-Not a catastrophe, as in {{c|D}}. Not a refugium-driven preservation.
+Of {{c|1849|C}} stand. The chapter is not about a causal explanation—
+Not a catastrophe, as in {{c|1850|D}}. Not a refugium-driven preservation.
 
-{{c|C}} has a different story, and the story is: we do not know.
+{{c|1849|C}} has a different story, and the story is: we do not know.
 
 What we know is that two peoples, fifty thousand years apart in the flow
 
 Of their development on their respective continents, still carry
-The same mark in their {{p|Y}}. The oldest {{c|Aborigines}}, whose tarry
+The same mark in their {{p|Y}}. The oldest {{c|1891|Aborigines}}, whose tarry
 
 And unbroken knowledge of their country goes back further
 Than any other human group's unbroken relationship to a further
@@ -159,7 +159,7 @@ Than any other human group's unbroken relationship to a further
 Place, and the {{p|Mongol}} horsemen of the grasslands, whose empire
 Once stretched from the {{p|Sea of Japan}} to the {{p|Black Sea}}'s fire
 
-And cold waters. Both {{c|C}}. Both carrying some ancient
+And cold waters. Both {{c|1849|C}}. Both carrying some ancient
 Signature of a common patrilineal ancestor, whose patient
 
 Descendants went, some of them, south, and others, north, and kept
@@ -188,13 +188,13 @@ And the grasslands of central {{p|Asia}}. One man. Two continents. The failure
 
 Of the usual divergence to produce two separate names.
 
-{{c|C}} is the unsplit. {{c|C}} is the haplogroup that claims
+{{c|1849|C}} is the unsplit. {{c|1849|C}} is the haplogroup that claims
 
 Two of the most distinctive human trajectories without being split
-Into two names. {{c|C}} is the exception to the splitting rules. The fit
+Into two names. {{c|1849|C}} is the exception to the splitting rules. The fit
 
 And fitness of its lineage, its insistence on staying
-{{c|C}} across the millennia of its carriers' laying
+{{c|1849|C}} across the millennia of its carriers' laying
 
 Of tracks across two continents, is the strangeness of this chapter.
 
@@ -216,8 +216,8 @@ Of the steppe rise and fall and rise again, and the wires
 And tensions of the grassland-versus-settled-civilization
 Conflict that will define so much of {{p|Eurasian}} history's station
 
-Come into being. The {{p|Mongol}} horseman of the {{c|Genghis Khan}} era
-Is still carrying, in most cases, haplogroup {{c|C}}. The aura
+Come into being. The {{p|Mongol}} horseman of the {{c|1892|Genghis Khan}} era
+Is still carrying, in most cases, haplogroup {{c|1849|C}}. The aura
 
 Of the patrilineal continuity stretches from the earliest
 Migrants into central {{p|Asia}} to the successor hordes of the nearest
@@ -225,7 +225,7 @@ Migrants into central {{p|Asia}} to the successor hordes of the nearest
 Modern descendants in {{p|Mongolia}} and {{p|Kazakhstan}} today.
 
 And the {{p|Australian}} story, meanwhile, goes its own way.
-The {{c|Aboriginal}} peoples develop the most complex and sophisticated
+The {{c|1888|Aboriginal}} peoples develop the most complex and sophisticated
 Non-agricultural society on earth. They become the dedicated
 
 Stewards of a continent. They never develop writing. They never
@@ -243,7 +243,7 @@ Fifty thousand years of painting. Fifty thousand years of the long
 And patient reading of the land. The {{x|Gaiad}} will not rank them
 Below the city-builders. The {{x|Gaiad}} honors them as them.
 
-And the same {{c|Y}} signature, meanwhile, is being carried
+And the same {{c|1893|Y}} signature, meanwhile, is being carried
 By the {{p|Mongol}} horseman whose empire will be vast and varied
 
 And who will not know that a cousin, deep in the south,
@@ -259,7 +259,7 @@ But in their blood, they are kin.
                                     And the chapter ends there.
 
 With the strange and unresolved fact of the shared bone
-Of inheritance, the unsplit {{c|C}}, and the fare
+Of inheritance, the unsplit {{c|1849|C}}, and the fare
 
 And content of two completely different cultural legacies,
 Bound in silence, through the body, to each other.
@@ -275,7 +275,7 @@ Ink of their bodies, unread and unreadable by the total
 
 Of their own languages and mythologies.
 
-{{c|C}} is the unsplit haplogroup. {{c|C}} is the long
+{{c|1849|C}} is the unsplit haplogroup. {{c|1849|C}} is the long
 And patient one, the mother of the apologies
 
 That evolution never offered for failing to split
@@ -287,5 +287,5 @@ Are, against all reasonable expectation, still one gongoll
 And chime of the same ancestral sound. Their common
 Father watches them through the silence of the chromosome.
 
-And {{c|F}}, meanwhile, in the next chapter, begins
+And {{c|1862|F}}, meanwhile, in the next chapter, begins
 The proliferation of every other haplogroup's twins.

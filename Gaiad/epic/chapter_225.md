@@ -1,6 +1,6 @@
 # Chapter 225: First Migration
 
-The Book of {{c|Lehi}} opens on the sea.
+The Book of {{c|3402|Lehi}} opens on the sea.
 
 Not the warm and sheltered inland lake,
 Not the river-crossing that the ape could free-
@@ -31,7 +31,7 @@ Of the intertidal zone gave water
 
 And food to anyone who knew the current.
 
-And {{c|Lehi}} knew the current.
+And {{c|3402|Lehi}} knew the current.
 
                                     Not one man—
 A people, a lineage, the recurrent
@@ -81,7 +81,7 @@ Of the tidal fisher and the searchin'
 Eye that read the current and the swell.
 
 No {{p|Bering}} bridge of dusty steppe—
-The oldest {{c|Americans}} knew well
+The oldest {{c|3404|Americans}} knew well
 The ocean's rhythm, and their step
 
 Was the paddle-stroke, their road the littoral,
@@ -109,13 +109,13 @@ First peoples came by sea.
 
                            The {{p|Channel Islands}}
 Off {{p|California}}'s coast preserve the bone
-Of {{c|Arlington Springs Woman}}—the silence
+Of {{c|3405|Arlington Springs Woman}}—the silence
 Of thirteen thousand years, alone
 
 On an island that could only be reached by boat.
 
 {{p|Paisley Caves}} in {{p|Oregon}}, the coprolites
-Of the first {{c|Americans}}—note by note
+Of the first {{c|3404|Americans}}—note by note
 The evidence accumulates, the rights
 
 Of the coastal theory vindicated
@@ -148,7 +148,7 @@ And oldest road, and the shore
 
 Was the mother-road of the {{p|Americas}}.
 
-Honor {{c|Lehi}}—the first migrant,
+Honor {{c|3402|Lehi}}—the first migrant,
 The sea-road walker, whose dramas
 Were the paddle and the elegant
 
@@ -164,7 +164,7 @@ To a world where no human foot had tread,
 
 And made it home.
 
-                   The Book of {{c|Lehi}} begins
+                   The Book of {{c|3402|Lehi}} begins
 Not with a land-bridge but a boat,
 Not with a hunter's overland campaigns
 But with a fisher's paddle-stroke, the note

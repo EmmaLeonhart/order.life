@@ -17,7 +17,7 @@ Ascending from the human to the divine.
 The names roll like a temple's shrine-
 Bell tolling through the canopy's wool
 
-Of mist and rain—the {{c|Maya}} cities,
+Of mist and rain—the {{c|2308|Maya}} cities,
 The jeweled and painted capitals
 Of the {{x|Classic}} age, the ditties
 Of whose glory and whose intervals
@@ -32,19 +32,19 @@ Of the jungle's children.
 
                            A thousand years
 Before the common era, the bereavement
-Of the {{c|Olmec}} mother-culture's tears
+Of the {{c|3446|Olmec}} mother-culture's tears
 
 And slow decline gave birth to the inheritor:
-The {{c|Maya}} took the calendar, the glyph,
+The {{c|2308|Maya}} took the calendar, the glyph,
 The pyramid, the jaguar—the anterior
-Foundation of the {{c|Olmec}} motif—
+Foundation of the {{c|3446|Olmec}} motif—
 
 And refined them to a brilliance
 That would not be matched in the {{p|Americas}}
-Until the {{c|European}} dalliance
+Until the {{c|3401|European}} dalliance
 And collision—the panoramas
 
-Of the {{c|Maya}} mind were vast.
+Of the {{c|2308|Maya}} mind were vast.
 
                                   The writing:
 Full logosyllabic script, the cast
@@ -57,7 +57,7 @@ And otherwise illiterate inviting
 
 Of the American continent
 To join the literate world:
-The {{c|Maya}} scribe was the eminent
+The {{c|2308|Maya}} scribe was the eminent
 And sacred artist whose unfurled
 
 Brush-pen moved across the bark-paper
@@ -65,7 +65,7 @@ Of the codex and the limestone face
 Of the stela, recording the caper
 And the conquest and the grace
 
-Of the dynasty—for the {{c|Maya}} wrote
+Of the dynasty—for the {{c|2308|Maya}} wrote
 Their history: birth-dates and accession-dates,
 The capture of the rival and the note
 Of the bloodletting ritual, the fates
@@ -73,16 +73,16 @@ Of the bloodletting ritual, the fates
 Of kings inscribed in stone that still
 Speaks across the centuries to the epigrapher
 Who has learned to read the quill
-Of the ancient {{c|Maya}} calligrapher.
+Of the ancient {{c|2308|Maya}} calligrapher.
 
-And the numbers—the {{c|Maya}} counted
+And the numbers—the {{c|2308|Maya}} counted
 In twenties, and they invented
 The zero: the placeholder that amounted
 To the revolution, theented
 
 And abstract concept of the nothing
 That holds the place of the absent quantity—
-The {{c|Maya}} zero, like the {{c|Indian}} bluffing
+The {{c|2308|Maya}} zero, like the {{c|3447|Indian}} bluffing
 Of the void into the antiquity
 
 Of mathematics, was the independent
@@ -102,8 +102,8 @@ Solar years, the billions
 Of days stacked and numbered
 
 In a system so precise
-That the {{c|Maya}} astronomer could calculate
-The synodic period of {{c|Venus}}—the splice
+That the {{c|2308|Maya}} astronomer could calculate
+The synodic period of {{c|95|Venus}}—the splice
 Of the evening and morning star's freight
 
 Across the sky—to an accuracy
@@ -112,14 +112,14 @@ Of two hours in five hundred years:
 Of the naked-eye observer whose arrears
 
 Of error were less than those
-Of the {{c|European}} astronomers who came
+Of the {{c|3401|European}} astronomers who came
 A thousand years later with the close
 And calibrated instrument's claim
 
 To superior knowledge.
 
                          And the eclipse—
-The {{c|Maya}} predicted eclipses
+The {{c|2308|Maya}} predicted eclipses
 With the {{x|Dresden Codex}}'s apocalypse-
 Tables, the ellipses
 
@@ -135,14 +135,14 @@ And returning—the alba
 
 Of the new day prophesied and fulfilled.
 
-{{p|Palenque}}—the city of {{c|K'inich Janaab Pakal}},
+{{p|Palenque}}—the city of {{c|3448|K'inich Janaab Pakal}},
 The great king whose tomb was billed
 In the crypt beneath the Temple of the Banal
 
 Inscription—no, the {{p|Temple of the Inscriptions}},
 The pyramid whose interior stairway
 Led down to the sarcophagus, the descriptions
-Of whose carved lid showed the {{c|Maya}}
+Of whose carved lid showed the {{c|2308|Maya}}
 
 King falling into the jaws of the earth-monster,
 Descending to {{p|Xibalba}} to be reborn—
@@ -151,7 +151,7 @@ Of jade and cinnabar and the worn
 
 And precious offerings that accompanied
 The king into the afterlife—the tomb
-That rivaled {{c|Tutankhamun}}'s, the remedied
+That rivaled {{c|2032|Tutankhamun}}'s, the remedied
 And sacred womb
 
 Of the pyramid's heart.
@@ -161,7 +161,7 @@ The superpower rivals of the {{x|Classic}},
 The two great cities whose beautiful
 And savage competition was the Jurassic
 
-And titanic struggle of the lowland {{c|Maya}}:
+And titanic struggle of the lowland {{c|2308|Maya}}:
 Alliance and betrayal, the star-war
 Glyph that marked the total playa
 Of destruction—the all-or-
@@ -204,22 +204,22 @@ Where the king had offered his prayers
 
 And his blood to the gods who did not answer.
 
-But the {{c|Maya}} did not vanish.
+But the {{c|2308|Maya}} did not vanish.
 
                                     The dancer
 Still dances, the language still flourishes—
-Seven million {{c|Maya}} speakers nourish
+Seven million {{c|2308|Maya}} speakers nourish
 The tongue that carved the glyph, the burnishes
 
 Of the living culture unbroken
 From the pyramid-builders to the present—
-The {{c|Maya}} are not the token
+The {{c|2308|Maya}} are not the token
 And vanished past but the pleasant
 
 And enduring and resilient thread
 Of the {{p|Americas}}' oldest literate mind.
 
-Honor the {{c|Maya}}—the scribes who read
+Honor the {{c|2308|Maya}}—the scribes who read
 The stars and wrote the time,
 
 Who counted nothing and found the zero,
@@ -238,6 +238,6 @@ Honor the living and the dead,
 The seven million voices at the fount
 
 Of the oldest writing in the western world,
-The {{c|Maya}} tongue still spoken
+The {{c|2308|Maya}} tongue still spoken
 Where the jungle's flag is furled
 And the ancient covenant unbroken.

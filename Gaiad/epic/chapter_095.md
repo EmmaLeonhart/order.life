@@ -10,10 +10,10 @@ Into every empty niche had made
 A world that worked again: the coastal storms
 Fed rain to forests where the conifers swayed,
 
-The {{c|Ichthyos}} hunted the {{p|Tethys}} deep,
-The {{c|Nothros}} paddled in the shallow seas,
-And on the land {{c|Cruros}}' children held their sweep
-Of rivers while {{c|Deinos}} grew by slow degrees.
+The {{c|1726|Ichthyos}} hunted the {{p|Tethys}} deep,
+The {{c|1729|Nothros}} paddled in the shallow seas,
+And on the land {{c|1732|Cruros}}' children held their sweep
+Of rivers while {{c|1736|Deinos}} grew by slow degrees.
 
 It was a good world, and the end of the {{x|Triassic}}
 Saw it full of life: three hundred species
@@ -63,8 +63,8 @@ The rauisuchians on the plains found less
 To hunt as herbivore populations ranged
 Toward zero in the climate's gathering stress.
 
-And {{c|Cruros}}' dynasty—the elder son
-Of {{c|Archon}}, who had held the {{x|Triassic}} crown
+And {{c|1732|Cruros}}' dynasty—the elder son
+Of {{c|1681|Archon}}, who had held the {{x|Triassic}} crown
 For forty million years—came undone.
 
 The world was changing, and the world frowned
@@ -76,7 +76,7 @@ Could not become something new—the giver
 Of extinction is always the same: the loss
 Of what you need while keeping what you are.
 
-{{c|Cruros}}' children could not bear the cross
+{{c|1732|Cruros}}' children could not bear the cross
 Of the changing world—not all, not every star
 
 In his constellation went dark—the crocodilian
@@ -89,7 +89,7 @@ The modest crocodile-ancestors who kept
 To the water's edge and ate whatever spillage
 The dying world provided—these ones crept
 
-Through the extinction as {{c|Cynos}} had crept
+Through the extinction as {{c|1673|Cynos}} had crept
 Through the last one: by being small, by being
 Undemanding, by the covenant kept
 Between the survivor and the act of seeing
@@ -98,11 +98,11 @@ Another morning.
 
                    But the great ones fell.
 The rauisuchians, the phytosaurs, the tall
-And heavy lords of {{c|Cruros}}' {{x|Triassic}} spell—
+And heavy lords of {{c|1732|Cruros}}' {{x|Triassic}} spell—
 Gone, in the {{x|CAMP}} volcanism's pall.
 
 And as the elder brother's kingdom burned,
-The younger brother's children—{{c|Deinos}}' small
+The younger brother's children—{{c|1736|Deinos}}' small
 And humble dinosaurs—looked up and learned
 That the empty niches beckoned, one and all.
 

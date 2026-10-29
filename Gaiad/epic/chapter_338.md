@@ -34,12 +34,12 @@ To the naval base at {{p|Guantánamo Bay}}, on {{p|Cuba}}'s eastern shore,
 Fighters taken on the battlefield in {{p|Afghanistan}},
 Held by a country that had been struck and was now at war.
 
-On the twenty-ninth of January {{c|George W. Bush}} stood
+On the twenty-ninth of January {{c|4514|George W. Bush}} stood
 And named {{p|Iraq}}, {{p|Iran}}, and {{p|North Korea}} the axis of evil.
 The regimes were evil: the gas of {{p|Halabja}}, the camps of the north,
 The ayatollahs' hangings. He said it plain, and he said it true to the people.
 
-In January {{c|Daniel Pearl}} of the {{x|Wall Street Journal}}
+In January {{c|4523|Daniel Pearl}} of the {{x|Wall Street Journal}}
 Was taken in {{p|Karachi}} while he chased a lead.
 They murdered him on video in February.
 He said he was a Jew, and his father a Jew, and for that he was made to bleed.
@@ -68,14 +68,14 @@ As investments, billions of them, and the phone company fell.
 On the twenty-first of July it filed, the largest bankruptcy yet,
 Larger than {{x|Enron}}, and the investors were left with the shell.
 
-On the thirtieth {{c|Bush}} signed {{x|Sarbanes-Oxley}} into law,
+On the thirtieth {{c|4517|Bush}} signed {{x|Sarbanes-Oxley}} into law,
 And the chiefs of companies had to sign their names to their books.
 On the ninth of October the {{x|Nasdaq}} found its floor,
 A fifth of its peak. The dot-com bubble was done with its hooks.
 
 ## The encyclopedia's first editor
 
-On the first of March {{c|Larry Sanger}} left {{x|Wikipedia}},
+On the first of March {{c|4508|Larry Sanger}} left {{x|Wikipedia}},
 The book he had named; the company could no longer pay.
 The book anyone could edit went on without him,
 And swallowed {{x|Nupedia}}, which was shut down the next year in its way.
@@ -91,7 +91,7 @@ Two hundred and two were killed, eighty-eight from {{p|Australia}}.
 
 On the twenty-third of October Chechen fighters took a theater in {{p|Moscow}}
 During a musical, {{x|Nord-Ost}}, some eight hundred and fifty inside.
-On the twenty-sixth {{c|Vladimir Putin}}'s {{x|FSB}} pumped a gas into the hall,
+On the twenty-sixth {{c|4506|Vladimir Putin}}'s {{x|FSB}} pumped a gas into the hall,
 And stormed it, and a hundred and thirty of the hostages died.
 
 They died of the gas. The state would not name it to the doctors
@@ -103,7 +103,7 @@ The rescue was the killing, and the secret was the defeat.
 
 In October two snipers with a rifle in the trunk of a car
 Shot people at random around {{p|Washington}}; ten were dead.
-On the twenty-fifth of November {{c|Bush}} signed the law
+On the twenty-fifth of November {{c|4517|Bush}} signed the law
 That made the {{x|Department of Homeland Security}}, the guard at the country's head.
 
 Twenty-two agencies came under a single roof,

@@ -2,12 +2,12 @@
 
 Now the story turns toward the storyteller.
 
-For among {{c|Euarchos}}' children—the tree-dwellers
+For among {{c|1785|Euarchos}}' children—the tree-dwellers
 Of the northern forests—there was a better
 And more complicated line, the sellers
 
 Of the mammalian future: the primates,
-{{c|Primos}}, whose story is the preface
+{{c|1811|Primos}}, whose story is the preface
 To the human chapter—the primates
 Whose every adaptation was the surface
 
@@ -42,7 +42,7 @@ Of innovation: the visual abyss
 
 Replaced by the calculated leap.
 
-And the hand—{{c|Primos}} grew the grasping hand,
+And the hand—{{c|1811|Primos}} grew the grasping hand,
 The opposable thumb's deep
 And revolutionary command
 
@@ -74,7 +74,7 @@ And wrinkled cerebrum's inventory
 
 Grew to accommodate the need.
 
-{{c|Lemuros}}—the ghost-eyed one—was sent
+{{c|1812|Lemuros}}—the ghost-eyed one—was sent
 To {{p|Madagascar}} when that island's seed
 Was cut from {{p|Africa}}, the continent
 
@@ -91,7 +91,7 @@ Song across the forest—the coastal
 Island that became the living museum
 Of what the primate was before the monkey came.
 
-{{c|Tarsios}}—the big-eyed one—the {{x|Te Deum}}
+{{c|1813|Tarsios}}—the big-eyed one—the {{x|Te Deum}}
 Of the nocturnal hunter, the frame
 
 Of a tiny primate whose enormous eyes
@@ -117,7 +117,7 @@ To something new—but the asocial
 And ancient tarsier kept the vigil
 Of the early primate's way.
 
-And {{c|Aegyptopithos}}—the {{p|Egyptian}} fossil
+And {{c|1814|Aegyptopithos}}—the {{p|Egyptian}} fossil
 Who announced the dawn of the anthropoid day:
 
 The first true higher primate, the bridge
@@ -128,7 +128,7 @@ In {{p|Africa}}—the chunky
 And small-brained ancestor of everything
 That would come after: monkey, ape, and man.
 
-Honor {{c|Primos}}—the tree-dwelling, hand-grasping,
+Honor {{c|1811|Primos}}—the tree-dwelling, hand-grasping,
 Forward-seeing, brain-expanding clan
 
 Who began the longest approach to consciousness

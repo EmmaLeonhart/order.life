@@ -8,10 +8,10 @@ And complicated order, the vast past
 Three hundred million years arrived at this:
 An evening of the age, a gathering
 Of all that life had built, a final kiss
-Of ordinary beauty—{{c|Dicyno}} scattering
+Of ordinary beauty—{{c|1723|Dicyno}} scattering
 
 Across the {{p|Pangean}} plain in morning light,
-{{c|Gorgo}} watching from the ridge above,
+{{c|1722|Gorgo}} watching from the ridge above,
 The sea in all its {{x|Paleozoic}} bright
 Abundance—and above and below, the love
 
@@ -48,7 +48,7 @@ Of eruption ticking like a clock
 That only the earth could read.
 
 The world above knew nothing of this clock.
-{{c|Cynos}} in his burrow heard no creed
+{{c|1673|Cynos}} in his burrow heard no creed
 Of doom beneath the cooling rock
 
 He dug his den into—he heard
@@ -56,8 +56,8 @@ Only the insect sounds of night,
 The wind across the cone-tree, the stirred
 And dry debris of the desert's light.
 
-{{c|Gorgo}} on her ridge at sunset watched
-The herds of {{c|Dicyno}} moving to
+{{c|1722|Gorgo}} on her ridge at sunset watched
+The herds of {{c|1723|Dicyno}} moving to
 The water-source at dusk—she notched
 The old and slow one in her view
 
@@ -92,7 +92,7 @@ Its evening meal before the fire.
 
 The reef below the {{x|Permian}} water
 Feeding on the current's plankton bloom;
-The {{c|Dicyno}} herd, the predator
+The {{c|1723|Dicyno}} herd, the predator
 Who watches, all within a room
 
 Of ordinary evening, ordinary

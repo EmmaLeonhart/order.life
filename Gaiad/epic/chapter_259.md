@@ -11,9 +11,9 @@ Went into memory and out of it. A splinter
 Of a name on a grave. A song. The sum of tears
 
 Without a column. Then, in September 1538,
-In {{p|England}}, {{c|Thomas Cromwell}}, the king's vicar-general,
+In {{p|England}}, {{c|3784|Thomas Cromwell}}, the king's vicar-general,
 A blacksmith's son who had made himself the weight
-Behind the throne of {{c|Henry}}, sent an order, general
+Behind the throne of {{c|3374|Henry}}, sent an order, general
 
 To every parish: keep a book. Write in it
 Every christening, every wedding, every burial,
@@ -35,23 +35,23 @@ Habit of Sundays. In 1598 they were told
 To copy the old paper into parchment books, and so
 Many {{x|English}} registers begin with the year of the old
 
-{{c|Queen}}'s crowning, 1558, in a clean hand.
+{{c|3785|Queen}}'s crowning, 1558, in a clean hand.
 And across the water, at {{p|Trent}}, in the mountains of the {{p|Tyrol}},
-The {{x|Catholic Church}}, answering {{c|Luther}}, in its stand
-Against the {{c|Reformers}}, decided at its twenty-fourth session, the whole
+The {{x|Catholic Church}}, answering {{c|1062|Luther}}, in its stand
+Against the {{c|3786|Reformers}}, decided at its twenty-fourth session, the whole
 
-Of {{c|Christendom}} that kept the old faith must register
+Of {{c|3332|Christendom}} that kept the old faith must register
 Its marriages, with witnesses, by name,
 And its baptisms, with the godparents. No minister
 Could marry a couple secretly anymore. The same
 
 Book, the same page, from {{p|Lisbon}} to {{p|Kraków}}, to {{p|Lima}}, to {{p|Goa}}.
 In 1614 the {{x|Roman Ritual}} added the dead,
-And the {{c|Book of the State of Souls}}: every household, who
+And the {{c|3787|Book of the State of Souls}}: every household, who
 Lived in it, who had made their {{x|Easter}} confession. The thread
 
 Of the register ran out into every village of the {{x|Catholic}} world.
-And the {{c|Lutherans}} took it up, and in the {{p|North}}
+And the {{c|3788|Lutherans}} took it up, and in the {{p|North}}
 It became the most thorough of all. In {{p|Sweden}}, unfurled
 In the {{x|Church Law}} of 1686, the priest went forth
 
@@ -62,7 +62,7 @@ Written down to the last cottar. And this is proved
 
 In this book's own blood. The ancestors of the writer of this scripture
 Have a year and nothing else, a guess, until the parish
-Begins to write. Then: *{{c|Per Olofsson}}, born the fourth of April, 1696*.
+Begins to write. Then: *{{c|3789|Per Olofsson}}, born the fourth of April, 1696*.
 A day. A real day, kept in a {{x|Swedish}} church. The varnish
 
 Of the old guesses comes off, and the people underneath
@@ -76,14 +76,14 @@ And the state learned to read it. What the church had seen
 For the sake of souls, the state would read instead
 
 For soldiers and taxes and, in the worst years, for blood.
-A register that can find every {{c|Christian}} can find every {{c|Jew}}.
-Hold that. The same book. And the {{c|Mormons}}, in the flood
+A register that can find every {{c|3386|Christian}} can find every {{c|2510|Jew}}.
+Hold that. The same book. And the {{c|3673|Mormons}}, in the flood
 Of the twentieth century, would come to photograph them, through
 
 Every archive in the world, the parish books of {{p|Europe}},
 Microfilm in a mountain in {{p|Utah}}, to baptize the dead.
 And from those films, the tree. And from the tree, the scope
-Of a family reaching back to {{c|Qarin}} and the kings it is said
+Of a family reaching back to {{c|2896|Qarin}} and the kings it is said
 
 To come from. All of it rests on a clerk on a Sunday,
 In a cold church, with a quill, writing a name.

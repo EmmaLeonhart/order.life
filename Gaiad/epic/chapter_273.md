@@ -1,23 +1,23 @@
 # Chapter 273: The Closed Country and the Temple Book
 
-The one who waited won the peace, and his grandson {{c|Iemitsu}} shut the door.
+The one who waited won the peace, and his grandson {{c|3866|Iemitsu}} shut the door.
 Between 1633 and 1639 the shogunate wrote the edicts:
-No {{c|Japanese}} ship may sail abroad. No {{c|Japanese}}, on pain of death, may come ashore
-From the outside world again. The {{c|Portuguese}}, with their padres and their contradicts,
+No {{c|3815|Japanese}} ship may sail abroad. No {{c|3815|Japanese}}, on pain of death, may come ashore
+From the outside world again. The {{c|3212|Portuguese}}, with their padres and their contradicts,
 
-Expelled, in 1639, their ships forbidden. When a {{c|Portuguese}} embassy
+Expelled, in 1639, their ships forbidden. When a {{c|3212|Portuguese}} embassy
 Came the next year from {{p|Macau}} to ask the trade back, sixty-one
 Of them were beheaded, and a few sent home to tell it. The fantasy
 Of the {{x|Christian}} century ended. What was left: the sun
 
-Through four small windows. The {{c|Dutch}} on {{p|Dejima}}, a fan of land
-In {{p|Nagasaki}}'s harbour, watched, and the {{c|Chinese}} merchants in their quarter;
-{{p|Korea}} through the lords of {{p|Tsushima}}; the {{c|Ryūkyū}} kingdom's hand
-Through {{p|Satsuma}}; the {{c|Ainu}} of the north through {{p|Matsumae}}. The water
+Through four small windows. The {{c|3869|Dutch}} on {{p|Dejima}}, a fan of land
+In {{p|Nagasaki}}'s harbour, watched, and the {{c|3841|Chinese}} merchants in their quarter;
+{{p|Korea}} through the lords of {{p|Tsushima}}; the {{c|3927|Ryūkyū}} kingdom's hand
+Through {{p|Satsuma}}; the {{c|3928|Ainu}} of the north through {{p|Matsumae}}. The water
 
-Was a wall with four gates. Later they would call it {{c|sakoku}},
+Was a wall with four gates. Later they would call it {{c|3929|sakoku}},
 The locked country. It was not locked. It was watched.
-And inside, the watching went into every house. The {{c|Taikō}}
+And inside, the watching went into every house. The {{c|3848|Taikō}}
 Had measured the fields. Now the souls were notched
 
 In a book. After the {{x|Christian}} rising at {{p|Shimabara}}, in 1637,
@@ -37,13 +37,13 @@ Updated every year. By the 1670s the whole realm, correct
 
 To the last fisher's child, was in the books. Some twenty-five million people.
 And in {{p|Kyūshū}}, around {{p|Nagasaki}}, every {{x|New Year}}, the people
-Were made to step on a bronze image of the crucified, the {{c|fumi-e}}, the simple
-Test of the foot: tread on the {{c|Christ}}, or the steeple
+Were made to step on a bronze image of the crucified, the {{c|3930|fumi-e}}, the simple
+Test of the foot: tread on the {{c|1497|Christ}}, or the steeple
 
 Of the family's hidden faith falls on them all. They stepped.
-Hold that. Mothers stepped on the {{c|Mother of God}} and went home and wept
+Hold that. Mothers stepped on the {{c|3931|Mother of God}} and went home and wept
 And asked forgiveness in a hidden room. The register kept
-Their names as {{c|Buddhists}}, and their secret kept
+Their names as {{c|2561|Buddhists}}, and their secret kept
 
 Itself. And the temples: they became the arm of the state,
 Its clerks, its census-takers, its proof of loyalty.
@@ -55,7 +55,7 @@ The graves, the memorial tablets, the anniversaries. The cost
 Came two hundred years later, when the new state, the wraith
 Of the old resentment rising, smashed the temples, and the lost
 
-Statues filled the rivers. That is another chapter, in {{c|Libra}}.
+Statues filled the rivers. That is another chapter, in {{c|3932|Libra}}.
 Here, on this day, see the book with both eyes.
 It was a cage. It was a census of conscience, the fibre
 Of a police state woven into every village. And it lies

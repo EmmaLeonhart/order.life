@@ -15,15 +15,15 @@ And unfurled across {{p|Iberia}}, the tears
 
 And the triumphs of the long {{x|Reconquista}}:
 From {{p|Covadonga}}'s desperate mountain stand
-Where {{c|Pelayo}} held the thin resistor
+Where {{c|3382|Pelayo}} held the thin resistor
 Of the Christian remnant's band
 
-Against the {{c|Umayyad}} tide—through the slow
+Against the {{c|2774|Umayyad}} tide—through the slow
 And century-by-century reclamation
 Of the peninsula, the ebb and flow
 Of border, fortress, devastation,
 
-Alliance, and betrayal—for the {{c|Moors}}
+Alliance, and betrayal—for the {{c|3383|Moors}}
 Had built their own magnificence:
 The {{p|Alhambra}}'s latticed doors,
 The courtyards where the eloquence
@@ -36,16 +36,16 @@ The gardens where the interface
 Of {{p|Africa}} and {{p|Europe}} bloomed in jasmine
 And in orange tree and the murmured prayer
 Of the muezzin—the discipline
-Of {{c|Al-Andalus}}, the rare
+Of {{c|3384|Al-Andalus}}, the rare
 
 And luminous civilization
-Where {{c|Muslim}}, {{c|Christian}}, and {{c|Jew}} had lived
+Where {{c|3385|Muslim}}, {{c|3386|Christian}}, and {{c|2510|Jew}} had lived
 In an imperfect but real constellation
 Of coexistence—where the sieve
 
-Of translation passed the {{x|Greek}} and {{c|Roman}} texts
-Through {{c|Arabic}} to {{c|Latin}}, where {{c|Maimonides}}
-And {{c|Averroes}} probed the complex
+Of translation passed the {{x|Greek}} and {{c|3340|Roman}} texts
+Through {{c|3387|Arabic}} to {{c|3388|Latin}}, where {{c|3389|Maimonides}}
+And {{c|2393|Averroes}} probed the complex
 And knotted questions of the divine decrees,
 
 Where the knowledge was translated
@@ -59,29 +59,29 @@ Then {{p|Seville}}'s minarets, the sentries
 Of the caliphate receding on the plain
 
 And southward, south, until only {{p|Granada}}
-Remained: the last {{c|Moorish}} kingdom, the mouth
+Remained: the last {{c|3390|Moorish}} kingdom, the mouth
 Of the last river, the armada
 Of the crescent's final south
 
 In {{p|Iberia}}'s contested soil.
 
-And now {{c|Ferdinand}} and {{c|Isabella}} came—
+And now {{c|3391|Ferdinand}} and {{c|3392|Isabella}} came—
 The joined crowns of {{p|Castile}} and {{p|Aragon}}, the toil
 Of the marriage-alliance and the flame
 
 Of the holy war rekindled: ten years' siege,
 The slow strangulation of the last
-{{c|Nasrid}} kingdom—and the liege
+{{c|3393|Nasrid}} kingdom—and the liege
 Who had somehow, stubbornly, outlast-
 
-Ed every other {{c|Moorish}} realm now fell.
+Ed every other {{c|3390|Moorish}} realm now fell.
 
 On the second day of January,
 The year fourteen ninety-two, the bell
 And trumpet on the ordinary
 
-And extraordinary morning: {{c|Boabdil}},
-The last {{c|Nasrid}} sultan, rode out
+And extraordinary morning: {{c|3394|Boabdil}},
+The last {{c|3393|Nasrid}} sultan, rode out
 From the {{p|Alhambra}}'s gate, and the hill
 Of the {{p|Sierra Nevada}} heard his doubt
 
@@ -99,16 +99,16 @@ Was passing from the world, and underneath
 
 The victory's trumpet lay a death.
 
-For what {{c|Ferdinand}} and {{c|Isabella}} did
+For what {{c|3391|Ferdinand}} and {{c|3392|Isabella}} did
 With their triumph was to draw the breath
 Of purity: the edict, the forbid—
 
 The {{p|Alhambra}} Decree, signed in the same
-Palace whose beauty the {{c|Moors}} had raised—
-Commanded every {{c|Jew}} in {{p|Spain}} to claim
+Palace whose beauty the {{c|3383|Moors}} had raised—
+Commanded every {{c|2510|Jew}} in {{p|Spain}} to claim
 Baptism or exile. The amazed
 
-And ancient {{c|Sephardic}} communities—
+And ancient {{c|3395|Sephardic}} communities—
 The scholars, the physicians, the traders
 Whose roots ran deep as the olive trees
 Of {{p|Andalusia}}—two hundred thousand waders
@@ -128,7 +128,7 @@ For five hundred years, the heaviest heirloom known:
 A key to a house in a distant land
 That would never again be their own.
 
-The {{c|Moriscos}} followed—the {{c|Muslims}} too
+The {{c|3396|Moriscos}} followed—the {{c|2764|Muslims}} too
 Were given the same ultimatum's shears:
 Convert or leave. The residue
 Of eight centuries of civilization's years
@@ -136,15 +136,15 @@ Of eight centuries of civilization's years
 Swept clean in the name of the one true faith.
 
 And yet the same monarchs—the same
-{{c|Ferdinand}}, the same {{c|Isabella}}—the wraith
+{{c|3391|Ferdinand}}, the same {{c|3392|Isabella}}—the wraith
 Of purity still warm—now blessed a claim
 
-From a {{c|Genoese}} sailor in their court,
+From a {{c|3114|Genoese}} sailor in their court,
 A man of vision and compulsion,
 Who had begged at every port
 Of {{p|Europe}}'s power—the expulsion
 
-Of the {{c|Jews}} not yet six weeks complete—
+Of the {{c|2500|Jews}} not yet six weeks complete—
 For ships and crew to sail west,
 West across the {{p|Atlantic}}'s heat
 And uncharted water, the behest
@@ -152,7 +152,7 @@ And uncharted water, the behest
 Of a dream: that {{p|Cipangu}}'s gold
 And {{p|Cathay}}'s silk could be reached
 By sailing into the sunset's hold—
-{{c|Columbus}} said the gap was breached
+{{c|2952|Columbus}} said the gap was breached
 
 By courage and a compass and the will.
 
@@ -162,17 +162,17 @@ From {{p|Cadiz}}' harbor—the pride
 
 Of their masts like three bare trees
 Against the {{p|Atlantic}}'s sky:
-The {{c|Nina}}, the {{c|Pinta}} on the breeze,
-The {{c|Santa Maria}} riding high.
+The {{c|3397|Nina}}, the {{c|3398|Pinta}} on the breeze,
+The {{c|3399|Santa Maria}} riding high.
 
-{{c|Columbus}} was brave—and he was wrong
+{{c|2952|Columbus}} was brave—and he was wrong
 About nearly everything: the size
 Of the earth, the distance, the headlong
 Conviction that {{p|Asia}} would arise
 
 On the western horizon—and what he found
 Was not {{p|Cipangu}} or {{p|Cathay}}
-But the {{c|Taino}} people on their ground,
+But the {{c|3400|Taino}} people on their ground,
 A world that had its own display
 
 Of civilization, its own calendar,
@@ -185,9 +185,9 @@ And the canoes, the cotton and the corn—
 A world complete, whose lineages
 Stretched back sixteen thousand years before the horn
 
-Of any {{c|European}} trumpet sounded.
+Of any {{c|3401|European}} trumpet sounded.
 
-But {{c|Columbus}} saw gold—and the hunger
+But {{c|2952|Columbus}} saw gold—and the hunger
 Of {{p|Europe}}, the insatiable and unbounded
 Want that had been growing younger
 
@@ -204,19 +204,19 @@ What lay beyond—the story of the peoples
 Who had built their worlds, their crest
 And glory, long before the steeples
 
-Of {{p|Seville}} rose, long before the {{c|Roman}} road,
+Of {{p|Seville}} rose, long before the {{c|3340|Roman}} road,
 Long before the {{p|Parthenon}}—
 That story claims its own abode
 And its own telling, its own dawn:
 
-The Book of {{c|Lehi}} now begins.
+The Book of {{c|3402|Lehi}} now begins.
 
-For across the water that {{c|Columbus}} sailed
+For across the water that {{c|2952|Columbus}} sailed
 Were sixteen thousand years of origins,
 Of empires raised and curtained and unveiled,
 
 Of corn domesticated and the feathered
-Serpent's temple and the {{c|Inca}}'s road
+Serpent's temple and the {{c|3403|Inca}}'s road
 And the potlatch and the weathered
 Totem speaking in its sacred code—
 
@@ -228,7 +228,7 @@ Door of fourteen ninety-two, the junction
 Where the old world's hunger met the new world's grace.
 
 Turn the page. The ocean has been crossed.
-The Book of {{c|Lehi}} opens on the face
+The Book of {{c|3402|Lehi}} opens on the face
 Of {{p|America}}—the found, the lost,
 
 The ancient and the beautiful, the home
@@ -239,4 +239,4 @@ Of a hemisphere apart.
 The story of {{p|Granada}} ends in tears.
 The story of the ocean ends in sail.
 What follows is the song of the frontier's
-Other side—the {{c|Americans}}' own tale.
+Other side—the {{c|3404|Americans}}' own tale.

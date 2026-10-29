@@ -3,7 +3,7 @@
 Now the tail was lost.
 
                       In the {{x|Miocene}}'s
-Warm forests, from {{c|Catarrhinos}}' line,
+Warm forests, from {{c|1819|Catarrhinos}}' line,
 A branch gave up the monkey's means
 Of the tail's balance and the feline
 
@@ -24,7 +24,7 @@ Fluidity, the arms spread wide
 
 And the body pendular between them.
 
-{{c|Proconsulos}}—the dawn ape—was first:
+{{c|1824|Proconsulos}}—the dawn ape—was first:
 A {{x|Miocene}} {{p|African}} between them
 And the monkeys, the rehearsed
 
@@ -35,7 +35,7 @@ Of the ape's beginning—the decree
 
 Of a new way to be primate.
 
-{{c|Hylobatos}}—the gibbon—perfected the art
+{{c|1825|Hylobatos}}—the gibbon—perfected the art
 Of the swing: the lesser ape, intimate
 With the canopy's geometry, the heart
 
@@ -71,7 +71,7 @@ In the forest dawn.
                       But it was the great apes
 Who would change the story altogether.
 
-{{c|Pongos}}—the orangutan—the escapes
+{{c|1826|Pongos}}—the orangutan—the escapes
 Of the {{p|Asian}} forest's solitary sage:
 The red-haired philosopher of {{p|Borneo}}
 And {{p|Sumatra}}, whose cognitive age
@@ -94,7 +94,7 @@ And deliberate cognition, the solitary
 
 Genius of the forest's deepest puzzle.
 
-And in {{p|Africa}}: {{c|Dryopithos}}—the tree ape—
+And in {{p|Africa}}: {{c|1827|Dryopithos}}—the tree ape—
 The ancestor of the muzzle
 And the hand and the brain whose shape
 

@@ -18,16 +18,16 @@ The date is the organization's own day.
 The articles of a right were still not in it.
 
 The commission that was to draft them met after that.
-{{c|Eleanor Roosevelt}} was its chair.
-{{c|John Humphrey}}, of the secretariat, brought the first full draft.
-{{c|René Cassin}} set an order on that draft.
+{{c|4399|Eleanor Roosevelt}} was its chair.
+{{c|4400|John Humphrey}}, of the secretariat, brought the first full draft.
+{{c|4401|René Cassin}} set an order on that draft.
 The text is not one hand.
-{{c|Peng Chun Chang}} asked that the first article hold conscience
+{{c|4402|Peng Chun Chang}} asked that the first article hold conscience
 As well as reason.
 He brought the {{x|Chinese}} word ren to the argument,
 The regard of one person for another.
 The {{x|English}} that stayed beside reason is conscience.
-{{c|Hansa Mehta}} required the article to say human beings.
+{{c|4403|Hansa Mehta}} required the article to say human beings.
 A draft had said men.
 The article does not say men.
 
@@ -64,7 +64,7 @@ Do not call the night unanimous.
 A vote with eight abstentions and two absent
 Is not a vote of every member.
 
-{{c|Andrei Vyshinsky}} spoke before the count.
+{{c|4404|Andrei Vyshinsky}} spoke before the count.
 He said a right had its meaning inside a state.
 He asked the assembly to wait until the next year.
 The motion to wait was lost, forty-five to six.
@@ -87,7 +87,7 @@ Hold the October day, when the charter had force and still no list.
 Hold the tenth of December, before midnight.
 Forty-eight for. None against. Eight withholding.
 The word in the first article is human beings.
-The word {{c|Chang}} asked for is in the sentence.
+The word {{c|4405|Chang}} asked for is in the sentence.
 A declaration can put a person on a page with every other person.
 It does not, by being adopted, keep the person alive.
 It does not close a shrine.

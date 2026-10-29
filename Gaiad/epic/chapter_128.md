@@ -29,7 +29,7 @@ Another.
 In the shrinking forests, one lineage deepened
 Its commitment to the arboreal knit
 
-Of the canopy: {{c|Panos}}—the chimpanzee—
+Of the canopy: {{c|1828|Panos}}—the chimpanzee—
 Stayed in the trees that remained,
 The forest's child, the refugee
 Who maintained and retained
@@ -61,7 +61,7 @@ Is the closest thing to what we've earned
 
 In any other living species.
 
-And {{c|Panos}} hunted—cooperatively,
+And {{c|1828|Panos}} hunted—cooperatively,
 Strategically, the capriccios
 Of the red colobus monkey taken actively
 
@@ -95,7 +95,7 @@ Of the upright posture, the awakening
 
 Of a body designed for the open ground.
 
-{{c|Sahelanthropos}}—the oldest face
+{{c|1829|Sahelanthropos}}—the oldest face
 Of the human lineage yet found—
 Seven million years in the embrace
 
@@ -106,7 +106,7 @@ Of the upright head—the transition
 
 Had already begun.
 
-                     And {{c|Ardipithos}}—
+                     And {{c|1830|Ardipithos}}—
 "Ground ape"—whose skeleton showed
 The halfway house: still grasping toes
 For climbing, but a backbone that bestowed
@@ -121,7 +121,7 @@ Of the vertical primate.
 
 Honor the great split—the two
 Directions that the {{p|African}} ape attempts
-And the two results: {{c|Panos}}, who
+And the two results: {{c|1828|Panos}}, who
 
 Stayed in the forest and became the closest
 Living relative of the human line—

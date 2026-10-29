@@ -3,17 +3,17 @@
 In the dry arroyos of the late {{x|Triassic}},
 Where the red sandstone baked beneath a sun
 That knew no ice at either pole—the classic
-And greenhouse world where {{c|Pangaea}}'s run
+And greenhouse world where {{c|1744|Pangaea}}'s run
 
 Of warmth made deserts of the deep interior—
-{{c|Coelos}} hunted.
+{{c|1745|Coelos}} hunted.
 
                     Slender, light, and fast,
 A theropod no heavier than a terrier
 But longer, with a whip-tail and the cast
 
 Of a creature built entirely for the chase—
-{{c|Coelos}} ran in packs across the flats
+{{c|1745|Coelos}} ran in packs across the flats
 Of {{p|Gondwana}}'s western reaches, and the race
 Of the hunt was not the solitary bats
 
@@ -34,11 +34,11 @@ The prey the escape-route narrows—deft
 
 And terrible in its efficiency.
 
-{{c|Coelos}} left his evidence in stone:
+{{c|1745|Coelos}} left his evidence in stone:
 At {{p|Ghost Ranch}} in the later cartography
 Of humans' names, a mass of fossil bone
 
-Would tell the tale: dozens of {{c|Coelos}}' kin
+Would tell the tale: dozens of {{c|1745|Coelos}}' kin
 Buried together in a single flood,
 A pack preserved in death—the discipline
 Of group living written in the ancient mud.
@@ -50,7 +50,7 @@ Free cooperation: hunting in the zones
 
 Of possibility that only groups can reach.
 
-For this was {{c|Deinos}}' first great innovation—
+For this was {{c|1736|Deinos}}' first great innovation—
 Not size, not strength, not venom's toxic breach,
 But the social bond, the pack's coordination
 
@@ -59,7 +59,7 @@ For a hundred million years: the raptors
 Of the {{x|Cretaceous}} hunting in a fine
 And deadly chorus—all of them the actors
 
-In a play that {{c|Coelos}} first rehearsed
+In a play that {{c|1745|Coelos}} first rehearsed
 In the late {{x|Triassic}}'s arid scrubland stage.
 
 The prey they hunted? Anything that durst
@@ -70,12 +70,12 @@ Small ornithischians browsing in the brush,
 The last rhynchosaurs bearing the ancient claim
 Of beaked herbivory, the early rush
 
-Of prosauropods—{{c|Sauropos}}' first attempts
+Of prosauropods—{{c|1740|Sauropos}}' first attempts
 At the long-necked, long-tailed, four-legged form
 That would become the thunder-lizards—these exempts
 From nothing, not from tooth or from the storm
 
-Of {{c|Coelos}}' pack descending in a wave
+Of {{c|1745|Coelos}}' pack descending in a wave
 Of chirping, slashing, small-toothed predation
 That bled the larger prey and took what they gave
 In a death of a thousand cuts—the station
@@ -83,11 +83,11 @@ In a death of a thousand cuts—the station
 Of the small predator hunting what is large
 Through numbers, speed, and the coordinated will.
 
-And {{c|Cruros}}' children watched from the river-marge—
+And {{c|1732|Cruros}}' children watched from the river-marge—
 The rauisuchians and the phytosaurs still
 
 Held the lowlands and the waterways—
-But {{c|Coelos}} and his pack ran in the dry
+But {{c|1745|Coelos}} and his pack ran in the dry
 Uplands, the arid basins, and the haze
 Of the desert's edge where the greater lords passed by
 
@@ -104,7 +104,7 @@ And claw—together we can bring the tall
 
 And the heavy to the ground.
 
-                              Honor {{c|Coelos}}—
+                              Honor {{c|1745|Coelos}}—
 The first pack-hunter of the dinosaur line,
 Who proved in the {{x|Triassic}}'s arid bellows
 That cooperation is the truest sign

@@ -4,7 +4,7 @@ The fluted point was beautiful—and lethal.
 
 Shaped like a willow leaf with a channel
 Running up each face, the prenatal
-Perfection of the {{c|Clovis}} spear—the panel
+Perfection of the {{c|3406|Clovis}} spear—the panel
 
 Of chipped stone thinned to a translucence
 That bordered on the surgical:
@@ -24,7 +24,7 @@ And enormous on the enamel
 Of the {{p|Americas}}' {{x|Pleistocene}} stage.
 
 Thirteen thousand years before our era,
-The {{c|Clovis}} people turned the page
+The {{c|3406|Clovis}} people turned the page
 On the first migration's coastal chimera
 
 And moved inland—into the continent's
@@ -39,7 +39,7 @@ Of {{p|Alberta}} and {{p|Montana}}'s strand.
 
 And they brought the point.
 
-                              The {{c|Clovis}} point—
+                              The {{c|3406|Clovis}} point—
 Named for {{p|Clovis, New Mexico}}, where the first
 Examples surfaced—was the anoint-
 Ment of a technology so versed
@@ -88,7 +88,7 @@ And this naivety, this unlinked
 And fatal trust, was the bane
 
 Of the mammoth, the mastodon, the giant
-Short-faced bear, the {{c|Smilodon}} cat,
+Short-faced bear, the {{c|3407|Smilodon}} cat,
 The ground sloth tall as an elephant—defiant
 In size, defenseless where they sat
 
@@ -106,7 +106,7 @@ Was the clinching evidence, the price
 Of the predator who asked no permission
 And the prey who had no answer.
 
-The {{c|Clovis}} hunters spread with the precision
+The {{c|3406|Clovis}} hunters spread with the precision
 Of water filling every branch and cancer
 
 Of a river system: down the {{p|Mississippi}},
@@ -146,14 +146,14 @@ For the desert and the forest and the banded
 And complex coast—and from one people
 Came a thousand peoples, and from one point
 Came a thousand point-styles, and the steeple
-Of the {{c|Clovis}} technology's anoint-
+Of the {{c|3406|Clovis}} technology's anoint-
 
-Ment gave way to {{c|Folsom}} and to {{c|Dalton}},
-To {{c|Plano}} and to {{c|Eden}},
+Ment gave way to {{c|3408|Folsom}} and to {{c|3409|Dalton}},
+To {{c|3410|Plano}} and to {{c|1196|Eden}},
 Each one tuned to its local exaltation
-Of the hunt: the bison of the {{c|Eden}}
+Of the hunt: the bison of the {{c|1196|Eden}}
 
-Point's long and narrow blade, the {{c|Folsom}}'s
+Point's long and narrow blade, the {{c|3408|Folsom}}'s
 Delicate channel for the smaller game—
 Diversification, the customs
 Of adaptation, and the flame
@@ -165,7 +165,7 @@ Inward now, each group immersed
 
 In its own valley, its own river, its own prey.
 
-Honor the {{c|Clovis}} point—the first
+Honor the {{c|3406|Clovis}} point—the first
 Technology to span the American day
 From coast to coast, the versed
 

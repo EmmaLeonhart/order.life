@@ -1,12 +1,12 @@
 # Chapter 37: The Circulatory Innovation
 
-Among the sons of {{c|Cambrius}}
+Among the sons of {{c|542|Cambrius}}
 Two faced issues serious:
-{{c|Chordatus}}, son of {{c|Dutrus}} true,
-And {{c|Annelidus}}, strong through and through.
+{{c|673|Chordatus}}, son of {{c|611|Dutrus}} true,
+And {{c|784|Annelidus}}, strong through and through.
 
 Each one supported by
-{{c|Hydrostatic}} pressure high.
+{{c|785|Hydrostatic}} pressure high.
 With water pressure in their frame
 They bore their body's name.
 
@@ -30,22 +30,22 @@ When hearts showed them the way.
 From hydrostatic to circulatory,
 Evolution's greatest story.
 
-From {{c|Annelon}} came two sons:
-{{c|Segmentus}} when day begun
-And {{c|Ribbon}}, hunter of the deep
+From {{c|786|Annelon}} came two sons:
+{{c|787|Segmentus}} when day begun
+And {{c|788|Ribbon}}, hunter of the deep
 Whose prey would never sleep.
 
-{{c|Ribbon}} built a proboscis long
+{{c|788|Ribbon}} built a proboscis long
 And venomous and strong.
 From this weapon he would hunt
 His prey with skillful stunt.
 
 His sons are known today
-As {{c|Ribbon}} {{c|Worms}} who slay
+As {{c|788|Ribbon}} {{c|655|Worms}} who slay
 Their victims with their poison dart
 Shot straight into the heart.
 
-{{c|Segmentus}} built his body wise
+{{c|787|Segmentus}} built his body wise
 With segments that would rise
 In number past all count—
 Each segment paramount.
@@ -60,17 +60,17 @@ And spread them everywhere.
 Each segment bore its pair
 Of legs beyond compare.
 
-{{c|Segmentus}} bore two sons:
-{{c|Pleistos}} when day begun
-And {{c|Amphon}} of the sea
+{{c|787|Segmentus}} bore two sons:
+{{c|789|Pleistos}} when day begun
+And {{c|790|Amphon}} of the sea
 Who lived quite happily.
 
-{{c|Amphon}} bore a son and daughter:
-{{c|Amphinos}} of the water
-And {{c|Sipuncula}} the great
+{{c|790|Amphon}} bore a son and daughter:
+{{c|791|Amphinos}} of the water
+And {{c|792|Sipuncula}} the great
 Who chose a different fate.
 
-{{c|Amphinos}} became the sire
+{{c|791|Amphinos}} became the sire
 Of worms that burn like fire.
 Fierce beasts with spikes of poison bright
 In colors burning bright.
@@ -82,45 +82,45 @@ They'll pierce the beating heart.
 
 Modern flags today still show
 The colors that bestow
-Great honor to {{c|Amphinos}}' line
+Great honor to {{c|791|Amphinos}}' line
 With patterns so divine.
 
-{{c|Sipuncula}} chose to be
+{{c|792|Sipuncula}} chose to be
 So different and free
 That her own phylum she became—
 The peanut worms of fame.
 
-{{c|Pleistos}} bore two sons:
-{{c|Vermo}} when day begun
-And {{c|Errantius}} who roamed
+{{c|789|Pleistos}} bore two sons:
+{{c|793|Vermo}} when day begun
+And {{c|794|Errantius}} who roamed
 Far from his ancient home.
 
-{{c|Errantius}} bore two more:
-{{c|Myzo}} the parasite, and for
-{{c|Balance}}, {{c|Greatswimmer}} true
+{{c|794|Errantius}} bore two more:
+{{c|358|Myzo}} the parasite, and for
+{{c|795|Balance}}, {{c|796|Greatswimmer}} true
 Who swam the ocean blue.
 
-{{c|Greatswimmer}} bore a son and daughter:
-{{c|Phyllos}} swift of water
-And {{c|Eunice}}, jealous, wild,
+{{c|796|Greatswimmer}} bore a son and daughter:
+{{c|797|Phyllos}} swift of water
+And {{c|798|Eunice}}, jealous, wild,
 Never meek or mild.
 
-{{c|Eunice}} the vicious was
-{{c|Jealous}} without cause.
+{{c|798|Eunice}} the vicious was
+{{c|799|Jealous}} without cause.
 She stole her husband's manhood true
 And made herself anew.
 
 Without him she conceived
 And daughters she received.
 These daughters fierce and bold
-Are {{c|Bobbit}} {{c|Worms}} of old.
+Are {{c|800|Bobbit}} {{c|655|Worms}} of old.
 
-{{c|Phyllos}} bore sons many
+{{c|797|Phyllos}} bore sons many
 More diverse than any:
-{{c|Swimmers}} of artistry
+{{c|801|Swimmers}} of artistry
 Across the boundless sea.
 
-{{c|Syllides}} the lazy one
+{{c|802|Syllides}} the lazy one
 Never courted, never won
 A mate through his own art—
 He'd bud off body part
@@ -130,41 +130,41 @@ While he in comfort stayed.
 His lazy ways persist
 In every tryst.
 
-{{c|Tomopteris}} breaks his fins
+{{c|803|Tomopteris}} breaks his fins
 As chaff when race begins.
 He swims and never lands
 On ocean's shifting sands.
 
-{{c|Alciops}} the hawkeyed hunter
+{{c|804|Alciops}} the hawkeyed hunter
 Whose sight is like no other.
 His eyes surpass them all
 Who hear the ocean's call.
 
-And fair {{c|Aphrodite}}
-{{c|Ancestress}} of the sea mice free.
+And fair {{c|805|Aphrodite}}
+{{c|806|Ancestress}} of the sea mice free.
 Her daughters beautiful
 Make the ocean wonderful.
 
-{{c|Vermo}} bore four daughters fair:
-{{c|Eartha}} who walked everywhere,
-{{c|Sapion}} wise and true,
-{{c|Hestia}} of the deep blue,
-And {{c|Orbinida}} of fame
+{{c|793|Vermo}} bore four daughters fair:
+{{c|807|Eartha}} who walked everywhere,
+{{c|808|Sapion}} wise and true,
+{{c|809|Hestia}} of the deep blue,
+And {{c|810|Orbinida}} of fame
 Who earned eternal name.
 
-{{c|Eartha}} walked great distances wide
+{{c|807|Eartha}} walked great distances wide
 Across the earth with pride.
 Her journeys never ceased
 From west unto the east.
 
-{{c|Sapion}} bore two daughters more:
-{{c|Sabella}}, who would soar
+{{c|808|Sapion}} bore two daughters more:
+{{c|811|Sabella}}, who would soar
 With feathers bright and fair,
-And {{c|Spiona}} everywhere
+And {{c|812|Spiona}} everywhere
 With tentacles that sway
 Throughout the night and day.
 
-{{c|Sabella}}'s daughters live
+{{c|811|Sabella}}'s daughters live
 As fishermen who give
 Us beauty in the temple halls—
 The feather dusters' calls
@@ -174,8 +174,8 @@ Both beautiful and free.
 In every sacred place
 They show us nature's grace.
 
-{{c|Hestia}} swam down deep
-To {{c|Gaia}}'s womb to keep
+{{c|809|Hestia}} swam down deep
+To {{c|100|Gaia}}'s womb to keep
 Her vigil in the dark
 Like ancient patriarch.
 
@@ -185,56 +185,56 @@ Would help her live below
 Where others could not go.
 
 Her daughters farm the depths
-Where {{c|Gaia}}'s treasure kept:
-{{c|Riftia}} in volcanic vents
+Where {{c|100|Gaia}}'s treasure kept:
+{{c|813|Riftia}} in volcanic vents
 Where fiery mountain scents
 
 Fill the water hot,
-And {{c|Lamella}}'s got
+And {{c|814|Lamella}}'s got
 Her home in cold seeps where
-{{c|Oil}} riches fill the lair.
+{{c|815|Oil}} riches fill the lair.
 
-{{c|Eartha}} bore a son and daughter:
-{{c|Terraclithia}} of the water
-And {{c|Echiuron}} so great
+{{c|807|Eartha}} bore a son and daughter:
+{{c|816|Terraclithia}} of the water
+And {{c|817|Echiuron}} so great
 With creativity innate.
 
-Like {{c|Sipuncula}} before,
-{{c|Echiuron}}'s art and lore
+Like {{c|792|Sipuncula}} before,
+{{c|817|Echiuron}}'s art and lore
 Was so unique and fine
 We thought her line divine
 
 Enough to be its own
-{{c|Phylum}}, standing alone.
+{{c|818|Phylum}}, standing alone.
 Her creativity
 Gave her divinity.
 
-{{c|Terraclithia}} bore two more:
-{{c|Terebella}} to explore
-And {{c|Clitella}}, wise and small
+{{c|816|Terraclithia}} bore two more:
+{{c|819|Terebella}} to explore
+And {{c|820|Clitella}}, wise and small
 But mother of them all.
 
-{{c|Terebella}} bore three sons:
-{{c|Spaghettes}} when day begun,
-{{c|Pompeii}} of the fire,
-And {{c|Acros}} to aspire.
+{{c|819|Terebella}} bore three sons:
+{{c|821|Spaghettes}} when day begun,
+{{c|822|Pompeii}} of the fire,
+And {{c|823|Acros}} to aspire.
 
-{{c|Spaghettes}} used tentacles long
+{{c|821|Spaghettes}} used tentacles long
 Like ropes both thick and strong
 To snare his prey from far—
-{{c|Miles}} distant like a star.
+{{c|824|Miles}} distant like a star.
 
-{{c|Pompeii}} chose to dwell
+{{c|822|Pompeii}} chose to dwell
 In volcanic hell.
 Among the fires hot
 He made his living spot.
 
-{{c|Acros}} became the sire
+{{c|823|Acros}} became the sire
 Of forms that never tire:
-{{c|Squidworm}} and {{c|Swima}} too
+{{c|825|Squidworm}} and {{c|826|Swima}} too
 Swam the ocean blue.
 
-{{c|Clitella}} was small of head
+{{c|820|Clitella}} was small of head
 But wisdom in her spread
 Through other organs wise—
 Her offspring multiplied
@@ -247,10 +247,10 @@ Children from dusk to dawn.
 Her children took to rivers
 Where water always quivers.
 Today we know them well:
-{{c|Earthworms}} who till and tell
+{{c|827|Earthworms}} who till and tell
 
 The soil of its needs,
-And {{c|Leeches}} who feed
+And {{c|828|Leeches}} who feed
 On blood from those they meet—
 Both bitter and sweet.
 
@@ -261,7 +261,7 @@ To rule both night and day.
 
 In every garden bed
 Where earthworms make their tread,
-Remember {{c|Annelon}}'s line
+Remember {{c|786|Annelon}}'s line
 That made the system fine.
 
 In every ribbon worm
@@ -279,7 +279,7 @@ From dusk until dawn
 Of hearts and circulation
 That saved each population.
 
-The sons of {{c|Cambrius}} learned
+The sons of {{c|542|Cambrius}} learned
 That when their bodies turned
 And moved through space and time,
 Their blood must flow in rhyme
@@ -296,5 +296,5 @@ The system without guilt
 
 That pumps our blood each day
 In its circulatory way.
-From {{c|Chordatus}} and {{c|Annelidus}} true
+From {{c|673|Chordatus}} and {{c|784|Annelidus}} true
 Came the gift to me and you.

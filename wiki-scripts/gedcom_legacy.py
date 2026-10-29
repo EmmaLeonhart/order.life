@@ -16,7 +16,7 @@ moved everyone after it (from I2663 on, 86,224 people moved between 2026-10-20 a
               order.life) for the ancestry, else a name held by that one person alone. Its xref becomes @I<number>@,
               and it carries REFN <number> / TYPE Gaiad legacy number. Someone new gets the next free number, in file
               order, and is written into the table, so the number holds from then on (commit the table).
-  merges      wikibase/analysis/gaiad_legacy_merges.tsv: "<n> into <m>" moves n's names (as AKA), sources, notes and
+  merges      the verse's own tags ({{c|1|Alpha}}: Alpha is 1), then wikibase/analysis/gaiad_legacy_merges.tsv: "<n> into <m>" moves n's names (as AKA), sources, notes and
               family links onto m and repoints everything at n to m; "<n> drop" removes a record that is not a person.
   one note    all of a person's NOTEs become one, at the place of the first: the links (with the legacy number at
               their head), then the Gaiad's quotes, then the rest.
@@ -26,12 +26,17 @@ moved everyone after it (from I2663 on, 86,224 people moved between 2026-10-20 a
 Stdlib only.
 """
 import collections
+import functools
 import re
+import uuid
 from pathlib import Path
 
 ANALYSIS = Path(__file__).resolve().parent.parent / "wikibase" / "analysis"
 TABLE = ANALYSIS / "gaiad_legacy_numbers.tsv"
 MERGES = ANALYSIS / "gaiad_legacy_merges.tsv"
+EPIC = ANALYSIS.parent.parent / "Gaiad" / "epic"
+NS = uuid.uuid5(uuid.NAMESPACE_URL, "https://order.life/gaiad/individual/")   # as build_gaiad_ged.py
+TAGGED = re.compile(r"\{\{c\|(\d+)\|([^}|]+)\}\}")
 HEADER = "legacy_number\tpart\tfirst_name\tuid\trefn\texid"
 POINTER = re.compile(r"^(\d+ (?:[A-Z_]+ )?)@I(\d+)@((?: INDI)?)$")
 
@@ -63,9 +68,25 @@ def load_table():
     return by_uid, by_id, by_name, top, shared
 
 
+@functools.lru_cache(maxsize=None)
+def tag_merges():
+    """The merges the verse's own tags make: a name tagged {{c|<m>|Name}} whose frozen number is n, not m, is n
+    merged into m (Emma, 2026-10-29: "we mass apply the existing numbers into the templates so that they become
+    stable"; Gaiad/scripts/stamp_legacy_ids.py wrote them)."""
+    rows = [r.split(chr(9)) for r in TABLE.read_text(encoding="utf-8").split(chr(10))[1:] if r]
+    by_uid = {r[3]: int(r[0]) for r in rows if r[1] == "text" and r[3]}
+    out = {}
+    for f in sorted(EPIC.glob("chapter_*.md")):
+        for m in TAGGED.finditer(f.read_text(encoding="utf-8").replace(chr(13), "")):
+            own = by_uid.get(str(uuid.uuid5(NS, m.group(2).strip())))
+            if own is not None and own != int(m.group(1)):
+                out.setdefault(own, int(m.group(1)))
+    return tuple((n, "into", m) for n, m in sorted(out.items()))
+
+
 def load_merges():
-    """[(n, "into", m) or (n, "drop", None)], in table order."""
-    out = []
+    """[(n, "into", m) or (n, "drop", None)]: the verse's tags first, then the table."""
+    out = list(tag_merges())
     if MERGES.exists():
         for r in MERGES.read_text(encoding="utf-8").split("\n")[1:]:
             if r.strip():

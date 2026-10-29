@@ -22,10 +22,10 @@ On the night of the seventh of August, while the world watched {{p|Beijing}},
 The Russian army was already at the tunnel. It came through the {{x|Roki Tunnel}} with tanks,
 And drove the Georgians out of {{p|South Ossetia}} and {{p|Abkhazia}}, in the valley.
 
-It took {{p|Gori}}, the birthplace of {{c|Stalin}}, and bombed it,
+It took {{p|Gori}}, the birthplace of {{c|4586|Stalin}}, and bombed it,
 And stopped a short drive from {{p|Tbilisi}}, and the Georgian villages burned behind.
 Tens of thousands of Georgians were driven from their homes, and never went back.
-{{c|Putin}} recognized his two provinces as countries. Almost no one else was so inclined.
+{{c|4518|Putin}} recognized his two provinces as countries. Almost no one else was so inclined.
 
 The West protested, and in a few months went back to business, and reset the relation.
 That was the lesson the villain learned: you can take a piece of a country and keep it.
@@ -42,7 +42,7 @@ And a girl who sang with another girl's voice, the first judged not pretty enoug
 In March {{p|Tibet}} had risen, and been put down.
 The torch had been fought over in {{p|London}}, {{p|Paris}}, {{p|San Francisco}}'s street.
 {{p|China}} showed the world what it had become,
-And {{c|Michael Phelps}} won eight golds in the pool, the most ever in one meet.
+And {{c|4587|Michael Phelps}} won eight golds in the pool, the most ever in one meet.
 
 ## The earthquake and the cyclone
 
@@ -52,7 +52,7 @@ Thousands of them children, under schools that fell
 While the government buildings beside them stood on the same ground.
 
 The parents who asked why were arrested.
-{{c|Ai Weiwei}} gathered the names of the dead children, and put them on the wall,
+{{c|4588|Ai Weiwei}} gathered the names of the dead children, and put them on the wall,
 And they beat him for it. The names are kept anyway.
 This book keeps them too: the children of the tofu schools, one and all.
 
@@ -70,7 +70,7 @@ Filed the largest bankruptcy in history, and no one would bring it back.
 
 On the sixteenth the government lent eighty-five billion to {{x|AIG}},
 Which had insured the bets of everyone against the failure of everyone.
-On the third of October {{c|George W. Bush}} signed the seven hundred billion for the banks,
+On the third of October {{c|4514|George W. Bush}} signed the seven hundred billion for the banks,
 And the banks were saved, and the houses were not, and the bailout was done.
 
 Millions lost their homes in the years after,
@@ -81,14 +81,14 @@ That is the year's injustice, and this book will not let it pale.
 ## Instead of trust
 
 On Friday the thirty-first of October a note went to a list of cryptographers,
-Signed {{c|Satoshi Nakamoto}}, with a paper of nine pages linked below:
+Signed {{c|4589|Satoshi Nakamoto}}, with a paper of nine pages linked below:
 {{x|Bitcoin}}: {{x|A Peer-to-Peer Electronic Cash System}},
 Money with no bank and no state, kept honest by a ledger that everyone could know.
 
 "A system based on cryptographic proof instead of trust," the paper said.
 The answer to the broken trust of the banks was a machine that needed none.
 The year the banks were saved with the people's money,
-{{c|Satoshi}} wrote the money the bankers could not run.
+{{c|4590|Satoshi}} wrote the money the bankers could not run.
 
 It became the money of the dissidents whose banks were frozen,
 Of the Venezuelans fleeing inflation, of the Ukrainians raising money for the front,
@@ -97,7 +97,7 @@ It had its frauds, as every money has had. It had its heroes, and its stunt.
 
 ## The election
 
-On the fourth of November {{c|Barack Obama}} was elected president,
+On the fourth of November {{c|4591|Barack Obama}} was elected president,
 The first black president of the {{p|United States}}, and people wept in {{p|Grant Park}},
 And in streets around the world. Yes we can, they said,
 And the country that had held slaves elected a black man to lead it out of the dark.
@@ -117,7 +117,7 @@ A hundred and sixty-six were killed, and the dome of the {{x|Taj}} burned, and t
 ## The apology
 
 On the eleventh of June, in {{p|Ottawa}}, the prime minister of {{p|Canada}},
-{{c|Stephen Harper}}, apologized in the parliament for the residential schools,
+{{c|4572|Stephen Harper}}, apologized in the parliament for the residential schools,
 Where for more than a century the children of the First Nations
 Were taken from their parents, and their languages beaten out of them by the rules.
 
@@ -141,8 +141,8 @@ And the world did not end, and four years later it found the {{x|Higgs}}, as you
 ## The rest of the year
 
 On the seventeenth of February {{p|Kosovo}} declared itself free of {{p|Serbia}},
-And {{c|Putin}} pointed to it in August as his excuse for carving {{p|Georgia}}'s land.
-On the nineteenth of February {{c|Fidel Castro}} gave {{p|Cuba}} to his brother.
+And {{c|4518|Putin}} pointed to it in August as his excuse for carving {{p|Georgia}}'s land.
+On the nineteenth of February {{c|4592|Fidel Castro}} gave {{p|Cuba}} to his brother.
 In the autumn the milk powder in {{p|China}} was found laced with {{x|melamine}} by a cheating hand,
 
 And three hundred thousand babies were sickened, and six of them were dead.

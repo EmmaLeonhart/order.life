@@ -18,14 +18,14 @@ Hundred BCE—roughly contemporary with the {{p|New Kingdom}} beginning
 In {{p|Egypt}} and the {{p|Hittite}} kingdom consolidating in {{p|Anatolia}}—
 And flourished until the {{x|Bronze Age Collapse}} around twelve hundred BCE.
 
-The {{p|Mycenaeans}} were {{c|R1b}}-haplogroup {{p|Indo-European}}-speakers—
+The {{p|Mycenaeans}} were {{c|1942|R1b}}-haplogroup {{p|Indo-European}}-speakers—
 Descendants of the {{p|Yamnaya}} expansion that had reached {{p|Greece}} in
 The early {{p|Bronze Age}}. Their language was an archaic form of {{p|Greek}},
 Written in a syllabic script called {{p|Linear B}}—adapted from the
 
 {{p|Minoan}} {{p|Linear A}} script that preceded it. Unlike {{p|Linear A}},
 {{p|Linear B}} has been successfully deciphered. In nineteen-fifty-two,
-{{c|Michael Ventris}}, a young {{p|English}} architect with a passion for
+{{c|1993|Michael Ventris}}, a young {{p|English}} architect with a passion for
 Ancient scripts, demonstrated that {{p|Linear B}} was used to write
 
 Early {{p|Greek}}. The achievement is one of the most celebrated in
@@ -52,15 +52,15 @@ Frescoes, buried with bronze swords and boar's-tusk helmets and
 Gold-masked faces—were an {{x|Indo-European}} warrior aristocracy of the
 Type that the {{p|Yamnaya}} expansion had produced across the
 {{x|Indo-European}} world. The shaft-graves at {{p|Mycenae}}, excavated by
-{{c|Heinrich Schliemann}} in eighteen-seventy-six, contained gold funerary
+{{c|2109|Heinrich Schliemann}} in eighteen-seventy-six, contained gold funerary
 
 Masks (including the famous "{{p|Mask of Agamemnon}}," though the
-Mask actually predates any possible historical {{c|Agamemnon}} by
+Mask actually predates any possible historical {{c|1337|Agamemnon}} by
 Several centuries), bronze weapons, elaborate jewelry, and other
 Signs of an extraordinarily wealthy warrior elite. The {{p|Mycenaeans}}
 
 Were, in their cultural self-conception, the heroes who would later
-Be memorialized in {{c|Homer}}'s poetry. They valued combat, loot,
+Be memorialized in {{c|1957|Homer}}'s poetry. They valued combat, loot,
 Honor, and the gift-exchange diplomacy of aristocratic warrior
 Bands. They were the original {{p|Greek}} aristocracy whose memory
 
@@ -117,17 +117,17 @@ And it was destroyed by violence, and the destruction can be dated
 To roughly the right period. The site shows evidence of siege and
 Burning in its {{p|Troy VIIa}} level, which is usually identified
 With the {{p|Homeric}} {{p|Troy}}. Whether the war was fought by a single
-Coalition of {{p|Mycenaean}} kings led by {{c|Agamemnon}}, whether the
+Coalition of {{p|Mycenaean}} kings led by {{c|1337|Agamemnon}}, whether the
 
-Participants had the names {{c|Homer}} would give them six centuries
-Later, whether {{c|Achilles}} and {{c|Hector}} and {{c|Odysseus}} and {{c|Helen}} and
-{{c|Paris}} were historical individuals—these are uncertain. But a war
+Participants had the names {{c|1957|Homer}} would give them six centuries
+Later, whether {{c|2110|Achilles}} and {{c|2111|Hector}} and {{c|2112|Odysseus}} and {{c|2113|Helen}} and
+{{c|2114|Paris}} were historical individuals—these are uncertain. But a war
 Between {{p|Mycenaean}} {{p|Greeks}} and the kingdom of {{p|Wilusa}} ({{p|Troy}}'s
 
 {{p|Hittite}} name, which is cognate with "{{p|Ilios}}," {{p|Homer}}'s term) is
 Attested in {{p|Hittite}} diplomatic correspondence. There was a real
 Conflict over this real city between real {{p|Mycenaean}} forces and
-Real {{p|Anatolian}} defenders. {{c|Homer}}'s later epic dressed the event
+Real {{p|Anatolian}} defenders. {{c|1957|Homer}}'s later epic dressed the event
 
 In the heroic costume of the oral tradition, compressing and
 Elaborating and fictionalizing, but the historical kernel was there.
@@ -167,9 +167,9 @@ Had forgotten the palace economies. They had forgotten, in most
 Cases, the specific historical geography of their {{x|Bronze Age}}
 
 Predecessors. What they remembered was the heroic poetry—the songs
-About {{c|Achilles}} and {{c|Odysseus}} and {{c|Agamemnon}} that had been
+About {{c|2110|Achilles}} and {{c|2112|Odysseus}} and {{c|1337|Agamemnon}} that had been
 Transmitted orally through three or four centuries of illiterate
-{{p|Dark Age}}. When {{c|Homer}} (whoever he was, whenever exactly he
+{{p|Dark Age}}. When {{c|1957|Homer}} (whoever he was, whenever exactly he
 
 Lived—probably the eighth century BCE, probably a single poet but
 Possibly a tradition) composed the {{p|Iliad}} and the {{p|Odyssey}}, he
@@ -179,7 +179,7 @@ Of {{p|Mycenaean}} material culture (the boar's-tusk helmet, the
 Catalog of ships, certain personal names, certain geographical
 References) that must have been transmitted from the {{x|Bronze Age}}
 Without being archaeologically rediscovered until the nineteenth
-Century. {{c|Homer}} knew things about the {{p|Mycenaean}} world that he
+Century. {{c|1957|Homer}} knew things about the {{p|Mycenaean}} world that he
 
 Could only have known through oral tradition stretching back
 Centuries. The poetry is a time-capsule. The {{p|Mycenaean}} civilization
@@ -187,18 +187,18 @@ Lives, in attenuated and elaborated form, in the {{p|Homeric}} epics.
 
 And this chapter, before it concludes, gestures toward one other
 Thing. The {{p|Dionysiaca}}—the mythological cycle about the god
-{{c|Dionysus}}'s campaigns into {{p|India}}. In later {{p|Greek}} mythology,
-{{c|Dionysus}} (god of wine, ecstasy, and the irrational) is said to
+{{c|1991|Dionysus}}'s campaigns into {{p|India}}. In later {{p|Greek}} mythology,
+{{c|1991|Dionysus}} (god of wine, ecstasy, and the irrational) is said to
 
 Have invaded {{p|India}} at the head of an army and established his
 Worship there before returning to {{p|Greece}}. This myth is preserved
-In {{c|Nonnus of Panopolis}}'s late antique epic {{p|Dionysiaca}}—a
+In {{c|2115|Nonnus of Panopolis}}'s late antique epic {{p|Dionysiaca}}—a
 Forty-eight-book epic that is the longest surviving poem of
 
 Classical antiquity. The story is historically fantastical. But
 The {{x|Gaiad}} takes it as an eastward gesture, a pointing toward the
 Connection between the {{p|Mediterranean}} and {{p|Indian}} worlds that will
-Become increasingly important in later chapters. {{c|Dionysus}} into
+Become increasingly important in later chapters. {{c|1991|Dionysus}} into
 
 {{p|India}} prefigures the {{p|Ramayana}}'s expansion westward toward
 {{p|Troy}} and {{p|Egypt}}. The mythological cycles of the two civilizations,
@@ -215,9 +215,9 @@ Archaeological and documentary evidence has fragmented.
 
                                                                 The
 {{p|Mycenaeans}}. {{p|Mycenae}}. {{p|Tiryns}}. {{p|Pylos}}. The {{p|Linear B}} tablets.
-{{c|Ventris}}'s decipherment. {{c|Schliemann}}'s excavations. The {{p|Trojan War}}.
+{{c|2116|Ventris}}'s decipherment. {{c|2117|Schliemann}}'s excavations. The {{p|Trojan War}}.
 
-The heroic age that would be remembered by {{c|Homer}}. The Bronze
+The heroic age that would be remembered by {{c|1957|Homer}}. The Bronze
 Age civilization of the {{p|Aegean}} at its peak. The palace economies,
 The warrior aristocracy, the syncretic absorption of {{p|Minoan}}
 Culture. And then—in a generation—the collapse.
@@ -225,6 +225,6 @@ Culture. And then—in a generation—the collapse.
 {{p|Mycenaean Greece}}. The warrior civilization. The {{x|Bronze Age}} peak.
 The foundation of {{p|Greek}} identity that would be preserved through
 The {{p|Dark Age}} in oral poetry and recovered, in attenuated form,
-When {{c|Homer}} sang the songs that became the {{p|Iliad}} and {{p|Odyssey}}.
+When {{c|1957|Homer}} sang the songs that became the {{p|Iliad}} and {{p|Odyssey}}.
 
-{{p|Mycenaeans}}. {{c|Agamemnon}}'s kingdom. {{p|Troy}}'s rival.
+{{p|Mycenaeans}}. {{c|1337|Agamemnon}}'s kingdom. {{p|Troy}}'s rival.

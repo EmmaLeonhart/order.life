@@ -5,23 +5,23 @@ in the early third {{x|Common Era}},
 and produced one of the strangest emperors
 that ever held imperial ear.
 
-{{c|Elagabalus}}, age fourteen,
+{{c|2570|Elagabalus}}, age fourteen,
 became emperor in two-eighteen,
 and brought with him from {{p|Emesa}}
 a cult that shocked the {{p|Roman}} scene.
 
 He was hereditary priest of
-{{c|Elagabal}}, the sun god of his city,
+{{c|2571|Elagabal}}, the sun god of his city,
 a black stone worshipped at a temple,
 a {{x|Semitic}} deity, un-pretty
 
-to {{p|Roman}} eyes that wanted {{c|Jupiter}},
-{{c|Mars}}, the ancestral {{x|Capitoline}} three.
+to {{p|Roman}} eyes that wanted {{c|101|Jupiter}},
+{{c|97|Mars}}, the ancestral {{x|Capitoline}} three.
 He brought the black stone to {{p|Rome}} itself,
 installed it above all others visibly.
 
-He tried to marry it to {{c|Athena}}.
-When that failed, he tried {{c|Astarte}}.
+He tried to marry it to {{c|1995|Athena}}.
+When that failed, he tried {{c|2572|Astarte}}.
 He held processions with the stone
 in a chariot, barefoot, sweaty, hardly.
 
@@ -40,7 +40,7 @@ though hostile pens had spun
 them after the fall, and the life
 shines through what the enemies had done.
 
-Some see in {{c|Elagabalus}}
+Some see in {{c|2570|Elagabalus}}
 an early transgender figure,
 the first recorded ruler who
 sought physical transformation with rigor.
@@ -72,35 +72,35 @@ occupied the imperial wraith.
 
 This was the first attempt to make
 solar monotheism {{p|Rome}}'s state cult.
-It failed under {{c|Elagabalus}}.
-It would succeed under {{c|Aurelian}}'s result.
+It failed under {{c|2570|Elagabalus}}.
+It would succeed under {{c|2573|Aurelian}}'s result.
 
-{{c|Aurelian}} fifty years later,
+{{c|2573|Aurelian}} fifty years later,
 after the {{x|Crisis of the Third Century}},
-would make {{c|Sol Invictus}} the state god,
-the "{{c|Unconquered Sun}}" of imperial sanctuary.
+would make {{c|2554|Sol Invictus}} the state god,
+the "{{c|2574|Unconquered Sun}}" of imperial sanctuary.
 
 That syncretic sun-cult would merge
 with mystery religions and with others,
 would become the cultural matrix
 into which {{x|Christianity}} hovers.
 
-December twenty-fifth was {{c|Sol Invictus}}'
+December twenty-fifth was {{c|2554|Sol Invictus}}'
 birthday, the winter solstice celebration,
-the "dies natalis {{c|Solis Invicti}},"
+the "dies natalis {{c|2575|Solis Invicti}},"
 the unconquered sun's inauguration.
 
-{{c|Christians}} would later fix their {{x|Christmas}}
+{{c|2494|Christians}} would later fix their {{x|Christmas}}
 on this same date, adopting the feast,
-merging the birth of the {{c|Son of Man}}
-with the rebirth of the {{c|Sun}} in the {{p|East}}.
+merging the birth of the {{c|2576|Son of Man}}
+with the rebirth of the {{c|99|Sun}} in the {{p|East}}.
 
-This is not accidental. The {{c|Sol Invictus}}
-cult and the {{c|Christ}} cult were cousins,
+This is not accidental. The {{c|2554|Sol Invictus}}
+cult and the {{c|1497|Christ}} cult were cousins,
 sharing iconography, festivals, theology,
 the rayed halo, the midwinter reasons.
 
-{{c|Elagabalus}} failed. But the cultural current
+{{c|2570|Elagabalus}} failed. But the cultural current
 he represented — eastern solar monotheism
 colonizing the {{p|Roman}} imperial cult —
 would continue its strong historical prism.
@@ -110,19 +110,19 @@ toward what would become monotheistic {{p|Rome}}:
 {{x|Jewish}} exilic covenant-monotheism,
 {{x|Persian}} dualistic cosmic home,
 
-{{x|Egyptian}} {{c|Akhenaten}}'s old {{c|Aten}}
+{{x|Egyptian}} {{c|1952|Akhenaten}}'s old {{c|2083|Aten}}
 (a lost current but not forgotten),
 {{x|Syrian}} solar-theologies rising,
 {{x|Platonic}} philosophy unforgotten.
 
 All were feeding into the stream
-that would break through under {{c|Constantine}}
+that would break through under {{c|2555|Constantine}}
 and become the official faith of {{p|Rome}}
 and then of {{p|Europe}}, clean and clean.
 
 But we are not there yet. The third century
 still held the old gods in their frame.
-{{c|Elagabalus}} was the weird episode
+{{c|2570|Elagabalus}} was the weird episode
 that {{p|Rome}} tried hard to forget by name.
 
 His memory was damned, "damnatio memoriae,"

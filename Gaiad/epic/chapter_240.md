@@ -6,19 +6,19 @@ South to {{p|Collasuyu}}'s {{p|Altiplano}} span,
 East to {{p|Antisuyu}}'s jungle beat,
 
 West to {{p|Cuntisuyu}}'s desert shore—
-And the empire of the {{c|Inca}} stretched
+And the empire of the {{c|3403|Inca}} stretched
 Along the mountain spine's volcanic core
 From {{p|Ecuador}} to {{p|Chile}}, sketched
 
 In stone and rope and the command
-Of a single voice: the {{c|Sapa Inca}},
-Son of {{c|Inti}}, lord of every land
+Of a single voice: the {{c|3521|Sapa Inca}},
+Son of {{c|3522|Inti}}, lord of every land
 The condor's shadow touched, the enigma
 
 Of a state that held ten million souls
 Without a written word.
 
-                           For the {{c|Quechua}} kept
+                           For the {{c|3523|Quechua}} kept
 Their records in the quipu's knotted scrolls—
 The pendant cords whose colors wept
 
@@ -34,10 +34,10 @@ Campaign, how many days
 
 Of labor each ayllu owed the state—
 The quipucamayoc read these strings
-As a {{c|European}} read a printed plate,
+As a {{c|3401|European}} read a printed plate,
 And the empire's memory clings
 
-To these knotted threads that the {{c|Spaniards}} burned
+To these knotted threads that the {{c|3512|Spaniards}} burned
 As the devil's handiwork, unknowing
 That they destroyed a library, and turned
 The {{x|Andean}} past to silence, throwing
@@ -45,13 +45,13 @@ The {{x|Andean}} past to silence, throwing
 Ten thousand years of record to the flame.
 
 But before the fire—the roads.
-The {{c|Inca}} highway system's frame
+The {{c|3403|Inca}} highway system's frame
 Ran forty thousand kilometers, and the loads
 
 Of the chasqui relay-runners flew
 From {{p|Quito}} south to {{p|Santiago}}'s latitude—
 Fresh fish from the coast, still new,
-Reached the {{c|Sapa Inca}}'s table at altitude
+Reached the {{c|3521|Sapa Inca}}'s table at altitude
 
 In two days flat, a postal speed
 That {{p|Europe}} would not match for centuries—
@@ -78,12 +78,12 @@ Of the peasant's foot beneath the sky,
 Was the world's first processed food,
 Stored for decades in the state's
 Warehouses against the solitude
-Of the famine year—the {{c|Inca}}'s rates
+Of the famine year—the {{c|3403|Inca}}'s rates
 
 Of hunger were the lowest in the {{p|Americas}}.
 
-And {{c|Pachacuti}}—"{{c|Earth-Shaker}}"—built
-This wonder: ninth {{c|Sapa Inca}}, whose areas
+And {{c|3321|Pachacuti}}—"{{c|3524|Earth-Shaker}}"—built
+This wonder: ninth {{c|3521|Sapa Inca}}, whose areas
 Of conquest and reform had tilted
 
 The small {{p|Cusco}} kingdom to an empire,
@@ -91,16 +91,16 @@ Who redesigned the capital in stone,
 Who raised {{p|Machu Picchu}} on its pyre
 Of granite clouds, who made the throne
 
-Of the {{c|Inca}} synonymous with the sun itself.
+Of the {{c|3403|Inca}} synonymous with the sun itself.
 
 Then the war between the brothers—
-{{c|Huáscar}} in the south and {{c|Atahualpa}}'s stealth
+{{c|3525|Huáscar}} in the south and {{c|3526|Atahualpa}}'s stealth
 In the north—and the empire smothers
 
 Itself in civil war, and the timing
 Is the cruelest accident of history:
 For in fifteen-thirty-two, the climbing
-{{c|Spanish}} column under {{c|Pizarro}}'s ministry
+{{c|3516|Spanish}} column under {{c|3527|Pizarro}}'s ministry
 
 Of greed arrives at {{p|Cajamarca}}'s plain.
 
@@ -108,30 +108,30 @@ One hundred and sixty-eight men.
 Against an army of eighty thousand—the refrain
 Of the impossible that happened when
 
-{{c|Atahualpa}} walked into the plaza
+{{c|3526|Atahualpa}} walked into the plaza
 Unarmed, borne upon his golden litter,
-And the friar {{c|Valverde}}'s stanza
+And the friar {{c|3528|Valverde}}'s stanza
 Of the faith—the {{x|Bible}}, the bitter
 
 Requirement to submit—was offered
-To the {{c|Sapa Inca}}, who held the book
+To the {{c|3521|Sapa Inca}}, who held the book
 Against his ear and, hearing nothing proffered,
 Cast it to the ground—and that mistook
 
 And manufactured insult was enough:
-{{c|Pizarro}} gave the signal and the cannon roared,
+{{c|3527|Pizarro}} gave the signal and the cannon roared,
 The cavalry charged through the rough
 And panicked crowd, and the sword
 
 Found nothing but unarmed flesh—
 Seven thousand dead in thirty minutes,
-And {{c|Atahualpa}} dragged from the mesh
+And {{c|3526|Atahualpa}} dragged from the mesh
 Of his fallen litter, the limits
 
 Of the world he knew collapsing inward
 Like a temple crushed beneath its dome.
 
-The ransom room—{{c|Atahualpa}} in word
+The ransom room—{{c|3526|Atahualpa}} in word
 And deed filled a chamber of his home
 
 With gold to the height a man could reach,
@@ -140,21 +140,21 @@ Tons of the sun-metal, each
 Piece a masterwork that bore
 
 The labor of a thousand artisans—
-And {{c|Pizarro}} melted every piece,
-Destroyed the {{c|Inca}}'s golden plans
+And {{c|3527|Pizarro}} melted every piece,
+Destroyed the {{c|3403|Inca}}'s golden plans
 And genealogies for the caprice
 
 Of bullion bars—then killed the king regardless.
 
 Garroted in the plaza of {{p|Cajamarca}},
-{{c|Atahualpa}} chose baptism's hardness
-Over the fire—and the {{c|Sapa Inca}}'s arc, a
+{{c|3526|Atahualpa}} chose baptism's hardness
+Over the fire—and the {{c|3521|Sapa Inca}}'s arc, a
 
-Line unbroken since {{c|Manco Cápac}}
+Line unbroken since {{c|3529|Manco Cápac}}
 Emerged from the origin-cave of {{p|Pacaritambo}},
 Was severed at the neck.
 
-                              The {{c|Inca}} track
+                              The {{c|3403|Inca}} track
 Of roads fell silent. The tambo
 
 And the storehouse emptied. The quipu
@@ -163,7 +163,7 @@ The terraces went fallow where the new
 Colonial masters held their feasts
 
 On {{x|Andean}} silver and {{x|Andean}} bone—
-And the {{c|mita}} labor, once the communal
+And the {{c|3530|mita}} labor, once the communal
 Obligation freely sown,
 Became the brutal, the annual
 
@@ -184,7 +184,7 @@ And patient engineering broken when
 
 The strangers came with horses and with lies,
 And the quipu's language died in flame,
-And the {{c|Sapa Inca}}'s final cries
+And the {{c|3521|Sapa Inca}}'s final cries
 Were swallowed by the conqueror's claim—
 
 But the terraces remain. The roads remain.

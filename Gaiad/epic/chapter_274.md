@@ -5,14 +5,14 @@ Across the bay from {{p|Nagasaki}}, the farmers had been {{x|Christian}}
 For two generations, and their lords had been {{x|Christian}}, and the law
 Had changed, and the lords had changed, and the new lord's mission
 
-Was to squeeze. The {{c|Matsukura}} taxed the harvest past the bone,
+Was to squeeze. The {{c|3933|Matsukura}} taxed the harvest past the bone,
 In years of famine, and those who could not pay
 Were wrapped in straw raincoats and set alight, it is said; the moan
 Of the burning was called the dance of the straw coat. And one day
 
 In December 1637 they rose. Peasants, fishermen,
 Masterless samurai who had lost their lords, the poor,
-And at their head a boy of sixteen, {{c|Amakusa Shirō}}, whom
+And at their head a boy of sixteen, {{c|3934|Amakusa Shirō}}, whom
 They said could walk on the sea, and a dove had laid an egg, and more:
 
 That a prophecy foretold a heavenly child would come
@@ -25,19 +25,19 @@ Took the ruined castle of {{p|Hara}} on its cliff above the sea,
 And held it, all winter, against the armies of the shogun, the bewildering
 Faith of the starving. A hundred and twenty thousand men, and the plea
 
-Of the shogun's general to the {{c|Dutch}}: and the {{c|Dutch}} came,
+Of the shogun's general to the {{c|3869|Dutch}}: and the {{c|3869|Dutch}} came,
 The ship *{{x|De Ryp}}*, and fired its cannon into the castle walls
-For two weeks, {{c|Protestants}} for the shogun against the papists, the same
+For two weeks, {{c|3920|Protestants}} for the shogun against the papists, the same
 Trade-loyalty that kept them on {{p|Dejima}}. The calls
 
 Of the rebels shot back into the shogun's camp with arrows:
 Are there no samurai in {{p|Japan}}, that you must ask foreigners for help?
-The {{c|Dutch}} went home. In April 1638, in the burrows
+The {{c|3869|Dutch}} went home. In April 1638, in the burrows
 Of the ruined castle, the defenders were eating seaweed, the kelp
 
 Of the shore, and the shogun's men stormed it. Almost all were killed.
-Thirty-seven thousand. {{c|Shirō}}'s head was set up at {{p|Nagasaki}} as a sign.
-And the lord {{c|Matsukura}}, whose greed had begun it, was not stilled
+Thirty-seven thousand. {{c|3935|Shirō}}'s head was set up at {{p|Nagasaki}} as a sign.
+And the lord {{c|3933|Matsukura}}, whose greed had begun it, was not stilled
 By the victory: he was beheaded, the only daimyo of the line
 
 Of the {{x|Edo}} peace to die like a common criminal. And then the silence.
@@ -52,8 +52,8 @@ Of discovery in every prayer. The prayers themselves were kept
 
 In a {{x|Latin}} and {{x|Portuguese}} no one understood any more,
 Repeated, *orasho*, worn smooth like a stone in a stream.
-They hid the {{c|Virgin}} in a white porcelain {{c|Kannon}}, the merciful one, the door
-Of the {{x|Buddhist}} mercy opening on the {{c|Mother}}: {{c|Maria Kannon}}. The dream
+They hid the {{c|3936|Virgin}} in a white porcelain {{c|3937|Kannon}}, the merciful one, the door
+Of the {{x|Buddhist}} mercy opening on the {{c|3708|Mother}}: {{c|3938|Maria Kannon}}. The dream
 
 Of the faith wore the robe of the other faith, and kept itself inside.
 That is syncretism forced by fear, and it became their own.
@@ -62,13 +62,13 @@ And said the contrition prayer, *konchirisan*, for the stone
 
 Their foot had touched. And the centuries passed. And in 1865,
 When the country had opened again to the foreigners, a {{x|French}} priest,
-{{c|Bernard Petitjean}}, built a church at {{p|Ōura}} in {{p|Nagasaki}}, to keep alive
+{{c|3939|Bernard Petitjean}}, built a church at {{p|Ōura}} in {{p|Nagasaki}}, to keep alive
 The faith of the foreigners. And on the seventeenth of March, the least
 
 Expected thing: a group of women and men from {{p|Urakami}} came in,
 And watched him at prayer, and one of them, a woman, came close,
-{{c|Isabelina Yuri Sugimoto}}, and whispered: *Our hearts are the same as yours*.
-And then: *Where is the image of {{c|Santa Maria}}?* And the rose
+{{c|3940|Isabelina Yuri Sugimoto}}, and whispered: *Our hearts are the same as yours*.
+And then: *Where is the image of {{c|3399|Santa Maria}}?* And the rose
 
 Of that moment: he showed them the statue, and they knelt.
 Two hundred and fifty years. No priest. No book. They had kept it.
@@ -88,4 +88,4 @@ Of the faith that would not die, kept by the weak and the strong
 Together, in the robe of another faith, under the eye
 Of the register. Honor the boy on the wall of {{p|Hara}}. Honor
 The woman at {{p|Ōura}}. Honor what is kept when the priests die, the keeper and the corner
-Where it was kept. Where is the image of {{c|Santa Maria}}? Here. Our hearts are the same.
+Where it was kept. Where is the image of {{c|3399|Santa Maria}}? Here. Our hearts are the same.

@@ -1,17 +1,17 @@
 # Chapter 236: Norse in Vinland
 
 The longship cut the fog like a gray blade
-Through gray water, and the {{c|Norse}} aboard
+Through gray water, and the {{c|2929|Norse}} aboard
 Could smell the land before the land displayed
 Itself—the scent of pine, the unexplored
 
 And resinous perfume of a forest
-That no {{c|European}} axe had touched,
-No {{c|European}} fire had dispossessed
+That no {{c|3401|European}} axe had touched,
+No {{c|3401|European}} fire had dispossessed
 Of its ancient growth—and the first who clutched
 
-The prow and peered into the mist was {{c|Leif}},
-Son of {{c|Erik}}, son of exiles both:
+The prow and peered into the mist was {{c|3478|Leif}},
+Son of {{c|3479|Erik}}, son of exiles both:
 His father banished out of {{p|Norway}}'s fief
 To {{p|Iceland}}, banished thence by the oath
 
@@ -20,20 +20,20 @@ And fled to {{p|Greenland}}'s ice—and from that ledge
 Of the world's edge, the westward ocean ran
 Like an invitation: the final edge
 
-Was never final for the {{c|Norse}}.
+Was never final for the {{c|2929|Norse}}.
 
                                      The year
 Was one thousand of the common count—
-Or near enough—and {{c|Bjarni}} {{c|Herjulfsson}}'s clear
+Or near enough—and {{c|3480|Bjarni}} {{c|3481|Herjulfsson}}'s clear
 Report of land beyond the westward fount
 
-Of ocean had reached {{c|Leif}}'s ambitious ear:
+Of ocean had reached {{c|3478|Leif}}'s ambitious ear:
 The merchant had been blown off course and seen
 Three coastlines, wooded, flat, and far from here,
 But had not landed—and the space between
 
 The seeing and the landing was the space
-That {{c|Leif Erikson}} would cross.
+That {{c|2951|Leif Erikson}} would cross.
 
                                       He sailed—
 With thirty-five companions, and the grace
@@ -51,21 +51,21 @@ Of {{p|Labrador}}'s dense spruce beneath the sky
 Of late September, timber that the host
 
 Of {{p|Greenland}}'s treeless colony would need—
-But {{c|Leif}} pressed south, the season holding fair,
+But {{c|3478|Leif}} pressed south, the season holding fair,
 Until the coastline gentled and the seed
 Of something warmer showed itself: the air
 
 Grew milder, and the rivers teemed with salmon
-Larger than the {{c|Norse}} had ever seen,
+Larger than the {{c|2929|Norse}} had ever seen,
 And on the shore wild grapes grew, the common
 And abundant vine whose purple-green
 
 Abundance gave the land its name: {{p|Vinland}}—
 The wine-land, the good land, the promised coast
 Where frost came late and the grass was unplanned
-And lush—and {{c|Leif}} declared: here is the most
+And lush—and {{c|3478|Leif}} declared: here is the most
 
-That any {{c|Norseman}} could desire.
+That any {{c|3482|Norseman}} could desire.
 
 They built their camp—the longhouse and the forge,
 The smithy where the bog-iron's patient fire
@@ -77,37 +77,37 @@ Would sleep beneath the sod until the grip
 Of a thousand years released the dense
 
 And buried proof: the ring-headed bronze pin,
-The spindle-whorl that proved that {{c|Norse}} women came,
+The spindle-whorl that proved that {{c|2929|Norse}} women came,
 The slag of smelted iron, the discipline
 Of a settlement that bore the unmistakable name
 
 Of {{p|Scandinavia}} in its very bones.
 
 They wintered there. The saga says they met
-The {{c|Skraelings}}—the strangers, the unknowns,
+The {{c|3483|Skraelings}}—the strangers, the unknowns,
 The people of the coast whose silhouette
 
 Against the treeline was the first encounter
-Of the {{c|European}} and the {{c|American}} world—
+Of the {{c|3401|European}} and the {{c|3484|American}} world—
 A meeting not of conquest but of counter
 And exchange: the red cloth unfurled
 
 For furs, the milk that frightened those who had
 No cattle—but the peace was made of glass,
-And {{c|Thorvald}}, {{c|Leif}}'s brother, drove it bad
+And {{c|3485|Thorvald}}, {{c|3478|Leif}}'s brother, drove it bad
 By killing eight of nine—the morass
 
 Of violence that would, five centuries hence,
 Become the pattern of the continents' despair—
 But here, in this first meeting, the offense
-Was answered: the {{c|Skraelings}} returned to share
+Was answered: the {{c|3483|Skraelings}} returned to share
 
-Their arrows, and {{c|Thorvald}} fell—the first
-{{c|European}} killed by {{c|American}} hands,
+Their arrows, and {{c|3485|Thorvald}} fell—the first
+{{c|3401|European}} killed by {{c|3484|American}} hands,
 The first blood of the long and cursed
 Transaction between the old and the new lands.
 
-And the {{c|Norse}} withdrew.
+And the {{c|2929|Norse}} withdrew.
 
                            Not in a rout—
 Not driven screaming to their ships—but slow,
@@ -115,7 +115,7 @@ The settlement abandoned, the devout
 And practical assessment of the flow
 
 Of cost and benefit: {{p|Vinland}} was too far,
-The {{c|Skraelings}} too many, the supply
+The {{c|3483|Skraelings}} too many, the supply
 Line to {{p|Greenland}} stretched beyond the bar
 Of what the colony could justify—
 
@@ -124,14 +124,14 @@ And the longhouse timbers rotted in the sod,
 And the continent returned to the track
 Of its own history, unaware that the prod
 
-Of the {{c|European}} future had already touched its shore.
+Of the {{c|3401|European}} future had already touched its shore.
 
 This was not the conquest—not the plague,
 Not the cross and sword—this was the door
 That opened for an instant, thin and vague,
 
 And closed again, and would not open wide
-For another five hundred years—the {{c|Norse}}
+For another five hundred years—the {{c|2929|Norse}}
 Were the overture that history denied:
 A settlement too small to force
 
@@ -143,24 +143,24 @@ Of a single pin beneath the sedge
 Is all the proof the centuries preserved.
 
 But mark this well: the land was never empty.
-The {{c|Skraelings}} were not the undeserved
+The {{c|3483|Skraelings}} were not the undeserved
 And passive background—they were the plenty
 
 Of the coast, the people who had lived
 For thousands of years upon that shore
 And needed no discovery, and who outlived
-The {{c|Norse}} upon their own ancestral floor
+The {{c|2929|Norse}} upon their own ancestral floor
 
 By the simple act of staying.
 
-                              Honor {{c|Leif}}—
+                              Honor {{c|3478|Leif}}—
 The son of exiles who pushed the boundary
 Of the known world westward, the brief
 And shining expedition's foundry
 
 Of a courage that the ice-age seas
 Had not extinguished—but honor more
-The {{c|Skraelings}} who watched the {{c|Norse}} at ease
+The {{c|3483|Skraelings}} who watched the {{c|2929|Norse}} at ease
 From the treeline, and who held the shore
 
 Long after the longships had departed,

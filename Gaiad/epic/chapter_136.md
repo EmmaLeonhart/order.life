@@ -1,7 +1,7 @@
 # Chapter 136: G Builds the Neolithic
 
-While {{c|I}} hunted reindeer across the {{p|European}} plain,
-Another branch of {{c|F}}'s great proliferating line
+While {{c|1875|I}} hunted reindeer across the {{p|European}} plain,
+Another branch of {{c|1862|F}}'s great proliferating line
 Was, in the {{p|Fertile Crescent}}, changing the game.
 Not running. Not walking. Not following the sign
 
@@ -24,26 +24,26 @@ Because it makes a future of the same ground.
 
 This was the {{p|Neolithic}} Revolution. And the {{p|Y}}
 That went with it, that walked with the farmers, was found
-To be, very consistently, {{c|Haplogroup G}}.
+To be, very consistently, {{c|1903|Haplogroup G}}.
 
-{{c|G}} is the farmer haplogroup. {{c|G}} is the one
+{{c|1873|G}} is the farmer haplogroup. {{c|1873|G}} is the one
 Whose descendants left the {{p|Fertile Crescent}} with the grain
 And the sheep and the goat, and walked into the sun
 Of {{p|Anatolia}} and {{p|Europe}}, carrying the chain
 
-And pattern of the new life with them. {{c|G}} is the signature
+And pattern of the new life with them. {{c|1873|G}} is the signature
 Of the {{p|Linear Pottery Culture}}, the first farming wave
-In {{p|Europe}}. {{c|G}} is the founder of the stratigraphy structure
+In {{p|Europe}}. {{c|1873|G}} is the founder of the stratigraphy structure
 Of the farmer villages of the {{p|Balkans}} and the knave
 
-And valleys of {{p|Greece}} and {{p|Italy}}. {{c|G}} is in the bones
-Of {{p|Ötzi}} the {{c|Iceman}}, the five-thousand-three-hundred-year-old
+And valleys of {{p|Greece}} and {{p|Italy}}. {{c|1873|G}} is in the bones
+Of {{p|Ötzi}} the {{c|1904|Iceman}}, the five-thousand-three-hundred-year-old
 Frozen body in the {{p|Alps}}, whose {{p|Y}}-chromosome tones
 Us about the fact that the farmer of the late stone cold
 
-And cold-Copper age of {{p|Alpine Europe}} was, quite securely, {{c|G}}.
+And cold-Copper age of {{p|Alpine Europe}} was, quite securely, {{c|1873|G}}.
 
-And the story of {{c|G}} begins before the fields. Before
+And the story of {{c|1873|G}} begins before the fields. Before
 The grain. Before anyone planted anything. It begins, as far as we
 Can tell, at a place in what is now {{p|Turkey}}, where the floor
 
@@ -53,7 +53,7 @@ Sites ever discovered: {{p|Göbekli Tepe}}.
                                              {{p|Göbekli Tepe}}.
 
 Built around eleven thousand five hundred years ago. Old.
-Older than {{c|Stonehenge}} by six thousand years. Older than the bold
+Older than {{c|1898|Stonehenge}} by six thousand years. Older than the bold
 And settled towns of {{p|Jericho}} by a thousand. Built by people
 
 Who were not yet farmers, not yet settled, not yet the peaceful
@@ -79,7 +79,7 @@ Came together, from across the region, to build something together, whatever it 
 And because they needed to come together, repeatedly, for the building,
 They needed food. And to feed the building crews, they needed
 To grow grain. And so, in the {{x|Gaiad}}'s reading (following the filling-
-In of {{c|Klaus Schmidt}}'s archaeological hypothesis), agriculture was seeded
+In of {{c|1905|Klaus Schmidt}}'s archaeological hypothesis), agriculture was seeded
 
 By the temple, not by necessity, not by the pressure of hunger
 Or the pressure of the environment. The first fields of einkorn
@@ -106,18 +106,18 @@ And gathered gatherings of the temple-building made civilization, the scripted
 And ritual life of the early proto-priest-class at {{p|Göbekli Tepe}}
 Made what came after.
 
-                        And the {{p|Y}} that was doing this was {{c|G}}.
+                        And the {{p|Y}} that was doing this was {{c|1873|G}}.
 
-{{c|G}} built {{p|Göbekli Tepe}}. {{c|G}} invented farming. {{c|G}} carried the wheat
+{{c|1873|G}} built {{p|Göbekli Tepe}}. {{c|1873|G}} invented farming. {{c|1873|G}} carried the wheat
 Westward and northward into {{p|Anatolia}}, into {{p|Europe}}, the long
 
 Generations of walking farmers moving from the {{p|Fertile Crescent}}
 Outward, taking the grain and the sheep and the pottery and the sent
 And dispatched cultural package of the {{p|Neolithic}} with them.
 
-{{c|G}} is in the {{p|Sardinians}} today at extraordinary frequencies.
+{{c|1873|G}} is in the {{p|Sardinians}} today at extraordinary frequencies.
 {{p|Sardinia}} was colonized early by the {{p|Neolithic}} farmers. The screening
-And holding of the island, isolated by sea, preserved the {{c|G}} frequencies
+And holding of the island, isolated by sea, preserved the {{c|1873|G}} frequencies
 
 That mainland {{p|Europe}} saw diluted, later, by the arrival of the {{p|Yamnaya}}.
 In {{p|Sardinia}}, the {{p|Neolithic}} is still the dominant genetic layer.
@@ -126,63 +126,63 @@ And heirs of the old {{p|Göbekli Tepe}} lineage. The old temple-builders, the p
 
 And priesthood of the first great religious-monumental culture
 Of the {{p|Near East}}, are carried in the bodies of the {{p|Sardinian}} shepherds
-Still. {{c|G}} is alive. {{c|G}} built what the {{x|Gaiad}} considers the sculpture
-And foundational monument of civilization, and {{c|G}}'s direct descendants, the herds
+Still. {{c|1873|G}} is alive. {{c|1873|G}} built what the {{x|Gaiad}} considers the sculpture
+And foundational monument of civilization, and {{c|1873|G}}'s direct descendants, the herds
 
 And shepherds of certain {{p|Mediterranean}} islands, continue to walk the hills
 Of their grandfathers.
 
                         And there is a character to name here.
 
-{{c|Melchizedek}}. The {{p|priest}}-king of {{p|Salem}}, who greets {{c|Abraham}} later in
+{{c|1520|Melchizedek}}. The {{p|priest}}-king of {{p|Salem}}, who greets {{c|1308|Abraham}} later in
 The biblical story. The mysterious figure who appears briefly, blesses
-{{c|Abraham}}, receives a tithe, and disappears. In the standard reading
+{{c|1308|Abraham}}, receives a tithe, and disappears. In the standard reading
 He is a shadow, a narrative convenience. The {{x|Gaiad}} reads him differently.
 
-{{c|Melchizedek}} is the {{x|Gaiad}}'s symbolic representative of the {{p|Göbekli Tepe}}
-Priesthood. The remnant of the old temple-builders, still alive in {{c|Abraham}}'s
-Day, meeting the wandering {{c|Abraham}} on his journey south from {{p|Sanliurfa}}
-(Which is, by no coincidence, the city closest to {{p|Göbekli Tepe}} itself). {{c|Abraham}}
+{{c|1520|Melchizedek}} is the {{x|Gaiad}}'s symbolic representative of the {{p|Göbekli Tepe}}
+Priesthood. The remnant of the old temple-builders, still alive in {{c|1308|Abraham}}'s
+Day, meeting the wandering {{c|1308|Abraham}} on his journey south from {{p|Sanliurfa}}
+(Which is, by no coincidence, the city closest to {{p|Göbekli Tepe}} itself). {{c|1308|Abraham}}
 
 Stops in {{p|Sanliurfa}} on his way from {{p|Ur}} to the {{p|Levant}}, and he meets
-{{c|Melchizedek}} there. And {{c|Melchizedek}}, in the {{x|Gaiad}}'s reading, is the last
+{{c|1520|Melchizedek}} there. And {{c|1520|Melchizedek}}, in the {{x|Gaiad}}'s reading, is the last
 Priest of the old order of {{p|Göbekli Tepe}}. The old tall pillars had been
-Buried long before {{c|Abraham}}'s day—the site was deliberately entombed, the past
+Buried long before {{c|1308|Abraham}}'s day—the site was deliberately entombed, the past
 
 Preserved by burying rather than by maintaining. But the priesthood, the
 Line of those who carried the old ritual knowledge, persisted in the region.
-{{c|Melchizedek}} is "{{c|George Gobeklius}}" in the {{x|Gaiad}}'s nicknaming—the
+{{c|1520|Melchizedek}} is "{{c|1906|George Gobeklius}}" in the {{x|Gaiad}}'s nicknaming—the
 Priestly figure descended from the hands that carved the T-shaped fusion
 
-Of stone and animal eleven thousand years ago. {{c|Abraham}} meets him, receives
+Of stone and animal eleven thousand years ago. {{c|1308|Abraham}} meets him, receives
 The blessing of the old priesthood, pays the tithe, and moves on. The
 Transmission of some blessing from the old {{p|Göbekli Tepe}} order to the leaves
 And branches of the new {{p|Hebrew}} story is the {{x|Gaiad}}'s quiet way of letting the
 
 Oldest religious lineage of the region hand off to the next one.
 
-But that is {{c|Abraham}}'s chapter, which is later. For now, the {{c|G}} lineage.
+But that is {{c|1308|Abraham}}'s chapter, which is later. For now, the {{c|1873|G}} lineage.
 
-{{c|G}} built {{p|Göbekli Tepe}}. {{c|G}} invented farming. {{c|G}} invented the stone
+{{c|1873|G}} built {{p|Göbekli Tepe}}. {{c|1873|G}} invented farming. {{c|1873|G}} invented the stone
 Foundation of the whole {{p|Neolithic}} package that would define civilization. The fungage
 
-Of the {{c|G}}-carrying farmer walking west and north into {{p|Europe}} is the story
-Of how agriculture arrived on the continent. The older {{c|I}}-carrying hunters
+Of the {{c|1873|G}}-carrying farmer walking west and north into {{p|Europe}} is the story
+Of how agriculture arrived on the continent. The older {{c|1875|I}}-carrying hunters
 Met the incoming farmers. Sometimes they fought. Sometimes they blended. The glory
 Of the {{p|Neolithic}} did not erase the older hunters, but did reshape the counters
 
 And ledgers of {{p|European}} population. The continent became a layered
-Place—{{c|I}} at the base, {{c|G}} at the second layer, {{c|R}} at the top once the steppe
+Place—{{c|1875|I}} at the base, {{c|1873|G}} at the second layer, {{c|1884|R}} at the top once the steppe
 Arrived. And the three-layer pattern is the texture of the modern {{p|European}} blade,
 Whose {{p|Y}} is a mix of the three great waves of migration. The step
 
 From hunter to farmer to steppe-rider is written in the blood.
 
-{{c|G}} is the second wave. {{c|G}} is the builder. {{c|G}} is the priest
-And farmer of the first religious-agricultural revolution. {{c|G}} stood
+{{c|1873|G}} is the second wave. {{c|1873|G}} is the builder. {{c|1873|G}} is the priest
+And farmer of the first religious-agricultural revolution. {{c|1873|G}} stood
 Up first of the pillars at {{p|Göbekli Tepe}} and raised the feast
 
-Of the first great gathering-for-its-own-sake. And {{c|G}} walked west
+Of the first great gathering-for-its-own-sake. And {{c|1873|G}} walked west
 With the grain, and settled, and settled, and settled, and the continental
 Economic life of {{p|Europe}} was permanently rewritten by the blessed
 And transformative arrival of the farmers.
@@ -202,10 +202,10 @@ Or sang. But we know they gathered, and we know they worked, and we know the cro
 With them as they returned to their home-ranges, and we know
 That the practice of gathering and building and growing grain together
 Made the first civilization. That is enough to know. That is the glow
-Of the opening fire. And {{c|G}} is its carrier. Whether
+Of the opening fire. And {{c|1873|G}} is its carrier. Whether
 
-{{c|G}} is still alive—and it is, in {{p|Sardinia}}, in {{p|Georgia}} (the country,
-Where {{c|G}} frequencies are also remarkably high), in pockets of the {{p|Caucasus}},
+{{c|1873|G}} is still alive—and it is, in {{p|Sardinia}}, in {{p|Georgia}} (the country,
+Where {{c|1873|G}} frequencies are also remarkably high), in pockets of the {{p|Caucasus}},
 In the {{p|Alps}}—is a small consolation to the grand and worldly
 Story of what the lineage accomplished. The {{p|Göbekli Tepe}} chorus
 
@@ -222,8 +222,8 @@ And fanfare of the modern world is a downstream voice
 Of the first voice, at {{p|Göbekli Tepe}}, singing at the foot
 Of a stone with a carved fox on it, eleven thousand years ago.
 
-{{c|G}} began it. {{c|G}}, the farmer. {{c|G}}, the builder. {{c|G}}, the root
-Of the {{p|Neolithic}}. {{c|G}}, the priest. {{c|G}}, whose long slow
+{{c|1873|G}} began it. {{c|1873|G}}, the farmer. {{c|1873|G}}, the builder. {{c|1873|G}}, the root
+Of the {{p|Neolithic}}. {{c|1873|G}}, the priest. {{c|1873|G}}, whose long slow
 
 And patient and settled dwelling on the land
 Became the model for every dwelling that followed.
@@ -236,4 +236,4 @@ The grain fed the builders. The builders fed the god.
 The god is gone. The grain remains. The world was lit
 By their choice. And every city since has trod
 
-On the path they trod. {{c|G}}. The {{p|Neolithic}}.
+On the path they trod. {{c|1873|G}}. The {{p|Neolithic}}.

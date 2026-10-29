@@ -7,21 +7,21 @@ The night a party took the city is another chapter.
 A treaty is not that night.
 
 In {{p|Foros}}, on the eighteenth of August,
-{{c|Mikhail Gorbachev}} was asked to declare an emergency.
+{{c|4472|Mikhail Gorbachev}} was asked to declare an emergency.
 He refused.
 On the nineteenth a committee announced an emergency,
 For six months, beginning at four in the morning, {{p|Moscow}} time.
 It said he could not carry out his duties, for his health,
-And that the office passed to {{c|Gennady Yanayev}}.
+And that the office passed to {{c|4473|Gennady Yanayev}}.
 The television played a ballet.
 A ballet is not a government.
 Armor came into {{p|Moscow}}.
-{{c|Boris Yeltsin}} spoke from a tank,
+{{c|4474|Boris Yeltsin}} spoke from a tank,
 Outside the Russian parliament's house.
 On the night between the twentieth and the twenty-first,
 In the tunnel at the {{p|Garden Ring}},
 Three men were killed.
-{{c|Dmitry Komar}}. {{c|Ilya Krichevsky}}. {{c|Vladimir Usov}}.
+{{c|4475|Dmitry Komar}}. {{c|4476|Ilya Krichevsky}}. {{c|4477|Vladimir Usov}}.
 They died for the free country, and their names are kept.
 On the twenty-first the troops were ordered out of the city.
 The six months were not kept.
@@ -37,7 +37,7 @@ On the first of December, {{p|Ukraine}} voted
 On the act its parliament had passed on the twenty-fourth of August.
 The question was whether the voter supported that act.
 Of the ballots, more than ninety in a hundred were yes.
-{{c|Leonid Kravchuk}} was elected the same day.
+{{c|4478|Leonid Kravchuk}} was elected the same day.
 A republic's vote is not a vote of the whole union.
 
 On the eighth of December, at {{p|Viskuli}},
@@ -45,8 +45,8 @@ In the forest, and not in the city,
 Three states signed.
 {{p|Belarus}}. The {{p|Russian Federation}}, and the agreement
 Still writes the older initials beside that name. {{p|Ukraine}}.
-{{c|Stanislav Shushkevich}} signed for {{p|Belarus}},
-With {{c|Boris Yeltsin}} and with {{c|Leonid Kravchuk}}.
+{{c|4479|Stanislav Shushkevich}} signed for {{p|Belarus}},
+With {{c|4474|Boris Yeltsin}} and with {{c|4478|Leonid Kravchuk}}.
 Others signed beside them.
 The parties the agreement names are the three states.
 They called themselves the states that had made the union,

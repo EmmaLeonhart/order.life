@@ -7,8 +7,8 @@ The first day of the {{x|Year One}}. Time itself would show the strength
 
 Of the {{x|Revolution}}: the old calendar was the {{x|Church}}'s and the kings',
 Its saints' days and its Sundays, its years counted from a birth in {{p|Bethlehem}}.
-The new one would be reason's. A mathematician, {{c|Gilbert Romme}}, the things
-Of the stars in his hands, and a poet, {{c|Fabre d'Églantine}}, the hem
+The new one would be reason's. A mathematician, {{c|4119|Gilbert Romme}}, the things
+Of the stars in his hands, and a poet, {{c|4120|Fabre d'Églantine}}, the hem
 
 Of the language in his: they made it. Twelve months of thirty days each,
 And five days left over at the end of the year, six in a leap year,
@@ -35,18 +35,18 @@ Not one in seven: the workers lost a day of rest in every three weeks,
 And the old Sunday went on in secret. The decimal hours, then,
 Were given up within two years. The clocks with their odd peaks
 
-Of ten numbers sit in museums. And the poet who named the months, {{c|Fabre}},
+Of ten numbers sit in museums. And the poet who named the months, {{c|4121|Fabre}},
 Was caught in a fraud and in the factions, and went to the guillotine
 In April 1794, before his calendar had gone once round, the macabre
 Joke of the season: he died in *{{x|Germinal}}*, the month of the green.
 
 The days of the calendar became the names of what happened on them:
-The ninth of *{{x|Thermidor}}*, when {{c|Robespierre}} fell; the eighteenth of *{{x|Brumaire}}*,
-When {{c|Napoleon}} took the {{x|Republic}}. And {{c|Napoleon}} ended it, the hem
+The ninth of *{{x|Thermidor}}*, when {{c|4122|Robespierre}} fell; the eighteenth of *{{x|Brumaire}}*,
+When {{c|4066|Napoleon}} took the {{x|Republic}}. And {{c|4066|Napoleon}} ended it, the hem
 Of the new time cut: on the first of January, 1806, the old year
 
 Came back, and the Sundays, and the saints. The {{x|Revolution}}'s time
-Lived twelve years, and in the {{c|Paris Commune}} for a few weeks in 1871,
+Lived twelve years, and in the {{c|4123|Paris Commune}} for a few weeks in 1871,
 And in the names: *{{x|Germinal}}*, the novel; *{{x|Thermidor}}*, the lobster; the rhyme
 Of the months still sung. Now hold the mirror. This book is one
 

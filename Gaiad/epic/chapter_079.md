@@ -18,7 +18,7 @@ In its last fullness, let us be
 The witnesses of what will not survive:
 
 The coral gardens first—the rugose coral,
-{{c|Coleios}}' neighbors, keeping alive
+{{c|1705|Coleios}}' neighbors, keeping alive
 The reef's foundations in their oral
 
 Architecture, building stone from sea—
@@ -39,16 +39,16 @@ Arrangement on the reef, the warm
 And shallow sea above them lit with green
 And blue and orange in the filtered light.
 
-And there was {{c|Coleios}} in the scene—
+And there was {{c|1705|Coleios}} in the scene—
 The inked ones, masters of the night
 
-And day of open water—{{c|Teuthis}}
+And day of open water—{{c|1708|Teuthis}}
 Pulsed through columns of the sea
-And {{c|Octopos}} walked among the lithic
+And {{c|1710|Octopos}} walked among the lithic
 Gardens of the reef with three
 
 Times three of minds to read the world—
-And in the open water, {{c|Belemno}}
+And in the open water, {{c|1706|Belemno}}
 The belemnite swam with his cylindrical curled
 And solid body, sleek, torpedo
 
@@ -57,7 +57,7 @@ And smaller prey through acres of the sea—
 His hard internal rod the only wall
 Between his soft flesh and the hungry
 
-World outside—{{c|Sepos}} too, the cuttlebone
+World outside—{{c|1707|Sepos}} too, the cuttlebone
 Bearer, who hovered in the mid-water
 And changed his color like a living stone
 Become a canvas, like a daughter
@@ -65,7 +65,7 @@ Become a canvas, like a daughter
 Of all color at once, a shifting flag
 Of skin that could be anything the eye
 Required—the color-changing brag
-Of {{c|Coleios}}' house against the sky
+Of {{c|1705|Coleios}}' house against the sky
 
 Of ocean above.
 
@@ -87,17 +87,17 @@ After the storm—but now they reigned
 In numbers past all counting through the {{x|Permian}}
 Sea, their shells the meter of the age.
 
-And {{c|Malacos}} held the ocean floor's dominion—
-Great {{c|Decapos}} in his heavy stage
+And {{c|1711|Malacos}} held the ocean floor's dominion—
+Great {{c|1712|Decapos}} in his heavy stage
 
 Of armor crossed the bottom, claw raised high;
-{{c|Euphausios}} filtered the cold waters wide
+{{c|1713|Euphausios}} filtered the cold waters wide
 In clouds of millions, feeding every eye
 That looked upon abundance—the inside
 
 Of the ocean's engine, krill-built base
 That fed the food web from the bottom up.
-And {{c|Stomatos}} in his shallow place
+And {{c|1153|Stomatos}} in his shallow place
 Still struck his shrimp-fist punch, the cup
 
 Of violence measured in the microsecond

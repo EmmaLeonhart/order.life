@@ -10,7 +10,7 @@ While the men in charge said it was contained, and it was not, as was seen.
 
 ## The device
 
-On Tuesday the ninth of January, in {{p|San Francisco}}, {{c|Steve Jobs}} said
+On Tuesday the ninth of January, in {{p|San Francisco}}, {{c|4576|Steve Jobs}} said
 He was introducing three products: a widescreen {{x|iPod}} with touch controls,
 A revolutionary phone, and a breakthrough internet communicator.
 "These are not three separate devices. This is one device." And he called it the {{x|iPhone}}, and it rolled.
@@ -28,7 +28,7 @@ And this book, which most will read on one, the whole of it, here.
 ## The spit by mail
 
 On Monday the nineteenth of November, in {{p|Mountain View}},
-{{c|Anne Wojcicki}} and {{c|Linda Avey}} began to sell {{x|23andMe}}:
+{{c|4577|Anne Wojcicki}} and {{c|4578|Linda Avey}} began to sell {{x|23andMe}}:
 You spat in a tube and sent it, and for nine hundred and ninety-nine dollars
 Half a million places on your chromosomes were read, and your ancestry set free.
 
@@ -68,8 +68,8 @@ That is the answer to the fall: not grief alone, but the better and the glad.
 
 ## The surge
 
-On the tenth of January {{c|George W. Bush}} sent twenty thousand more soldiers to {{p|Iraq}},
-And called it the surge, and {{c|David Petraeus}} took the command.
+On the tenth of January {{c|4514|George W. Bush}} sent twenty thousand more soldiers to {{p|Iraq}},
+And called it the surge, and {{c|4579|David Petraeus}} took the command.
 The {{x|Sunni}} tribes of {{p|Anbar}} turned against the jihadists, and fought beside the Americans,
 And by the end of the year the killing fell across the land.
 
@@ -81,20 +81,20 @@ That is how a faith says no: by refusing what the tyrant would have it eat.
 ## Benazir
 
 On the twenty-seventh of December, in {{p|Rawalpindi}},
-{{c|Benazir Bhutto}}, who had come home in October to run again,
+{{c|4580|Benazir Bhutto}}, who had come home in October to run again,
 Whose homecoming had been bombed and a hundred and fifty killed,
 Was killed at a rally by a gun and a bomb, and the crowd was slain.
 
 The same day {{p|Kenya}} voted, and the result announced three days later
 Was fought over with machetes, and more than a thousand died in the weeks that came,
-Until {{c|Kofi Annan}} brought the two men to share the government,
+Until {{c|4581|Kofi Annan}} brought the two men to share the government,
 And the killing stopped, and {{p|Kenya}} wrote a new constitution, and peace came.
 
 ## The warming
 
 The scientists of the {{x|IPCC}} published their fourth report that year:
 The warming is unequivocal, and very likely caused by people's hands.
-In October they shared the {{x|Nobel Peace Prize}} with {{c|Al Gore}}.
+In October they shared the {{x|Nobel Peace Prize}} with {{c|4575|Al Gore}}.
 In September the {{x|Arctic}} ice shrank to the smallest ever measured in those lands.
 
 Protecting the climate is a Lifeist duty. This book says it plain:
@@ -104,7 +104,7 @@ Owes the living earth its care, as the record of descent tells.
 
 ## The villain at Munich
 
-In February, in {{p|Munich}}, {{c|Vladimir Putin}} stood before the West
+In February, in {{p|Munich}}, {{c|4506|Vladimir Putin}} stood before the West
 And told it that its order was over, and that {{p|Russia}} would not accept the rule.
 In the spring {{p|Estonia}} moved a Soviet war memorial in {{p|Tallinn}},
 And its banks and ministries were knocked offline from the east, a cyberwar's first school.
@@ -118,8 +118,8 @@ The answer to the attack, in the city it hit: that is how the free world does.
 
 On the first of January {{p|Bulgaria}} and {{p|Romania}} joined the {{x|European Union}}.
 On the thirteenth of December the leaders signed the {{x|Treaty of Lisbon}}.
-In May {{c|Nicolas Sarkozy}} took {{p|France}}; in June {{c|Gordon Brown}} took {{p|Britain}};
-In November {{c|Kevin Rudd}} took {{p|Australia}}, and signed {{x|Kyoto}}, and the climate was the mission.
+In May {{c|4582|Nicolas Sarkozy}} took {{p|France}}; in June {{c|4583|Gordon Brown}} took {{p|Britain}};
+In November {{c|4584|Kevin Rudd}} took {{p|Australia}}, and signed {{x|Kyoto}}, and the climate was the mission.
 
 ## The rest of the year
 
@@ -138,7 +138,7 @@ Passed from blog to blog, reblogged like books between the shelves.
 One device, the world in the pocket, a spit by mail joining the blood to the line,
 A run on a bank in {{p|England}}, and the crisis said to be contained when it was not,
 Thirty-two killed at a college, a bridge in the river, the surge, the saffron monks,
-{{c|Bhutto}} killed, the warming called unequivocal, and the villain's first cyber shot.
+{{c|4585|Bhutto}} killed, the warming called unequivocal, and the villain's first cyber shot.
 
 I was eleven, reading the wizard in a night, in a house where the year happened too,
 And {{x|Tumblr}} was a week old, and the phone was in the hand,

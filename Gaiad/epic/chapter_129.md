@@ -24,7 +24,7 @@ Who would become the host
 
 Of consciousness.
 
-                  {{c|Australos}}—the southern ape—
+                  {{c|1831|Australos}}—the southern ape—
 Walked upright. Not as an experiment,
 Not as an occasional landscape
 Of posture—but as the permanent
@@ -58,7 +58,7 @@ The tool, the extraordinary
 
 Extension of the body's reach.
 
-{{c|Australos}} made tools—the {{x|Oldowan}}
+{{c|1831|Australos}} made tools—the {{x|Oldowan}}
 Technology, the simplest that could teach
 The hand a new art: the wan
 
@@ -79,7 +79,7 @@ The australopithecine's capacity
 Was four hundred cubic centimeters, the past
 
 Of the chimpanzee's range—but the trend
-Was upward: {{c|Homo}} habilis,
+Was upward: {{c|1832|Homo}} habilis,
 The "handy one," would extend
 The cranium to six hundred's analysis
 
@@ -106,7 +106,7 @@ The fire around which the drum
 
 And the story and the song would gather.
 
-And the group—{{c|Australos}} was social
+And the group—{{c|1831|Australos}} was social
 In a way that the chimpanzee's drather
 Had only hinted at: the total
 
@@ -160,7 +160,7 @@ And the losing and the need
 
 Of the creature who would become us.
 
-Honor the threshold—{{c|Australos}},
+Honor the threshold—{{c|1831|Australos}},
 The southern ape who walked the nonplus
 And open savanna, the pathos
 

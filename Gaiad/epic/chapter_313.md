@@ -11,7 +11,7 @@ The prophet died at {{p|Medina}}.
 The revelation does not contain this statute.
 After the death the community gave its answers,
 And the answers were more than one.
-The house of {{c|Osman}} carried one of them.
+The house of {{c|3241|Osman}} carried one of them.
 The name was caliph, a successor.
 The law of 1924 is a state's answer to that name.
 It does not erase the question.
@@ -20,25 +20,25 @@ On the first of November, 1922, the same assembly
 Abolished the sultanate.
 It kept the caliphate, and kept it in the house,
 To be given to the one most fit in learning and character.
-It did not say that {{c|Mehmed VI}} had been elected to it.
+It did not say that {{c|4350|Mehmed VI}} had been elected to it.
 On the third of November, a Friday,
 He went out to the prayer under both names,
-{{c|Sultan}} and caliph.
+{{c|4351|Sultan}} and caliph.
 On the sixteenth the assembly decided to charge him
 With treason against the homeland.
 That night, the sixteenth into the seventeenth,
 He left {{p|Istanbul}} on a {{x|British}} warship.
 
 On the nineteenth of November the assembly elected
-{{c|Abdülmecid II}}.
-He painted. One of the canvases is {{c|Beethoven}} in the palace.
+{{c|4352|Abdülmecid II}}.
+He painted. One of the canvases is {{c|4353|Beethoven}} in the palace.
 The assembly did not give him the old title,
 Commander of the faithful.
-It gave him caliph of the {{c|Muslims}}.
+It gave him caliph of the {{c|2764|Muslims}}.
 He asked to be called also servant of the two sanctuaries.
 He did not hold {{p|Mecca}}. He did not hold {{p|Medina}}.
-He asked to wear the turban of {{c|Mehmed the Conqueror}}.
-{{c|Mustafa Kemal}} answered that a frock coat would do.
+He asked to wear the turban of {{c|4354|Mehmed the Conqueror}}.
+{{c|4355|Mustafa Kemal}} answered that a frock coat would do.
 Later he signed in the manner of a sultan's son.
 The signature was heard as the reign, trying to return.
 
@@ -54,7 +54,7 @@ And read the struggle as the one against ignorance.
 From the twenty-first to the twenty-seventh of December,
 A caliphate conference in {{p|India}} accepted him.
 On the third of January, 1923,
-{{x|Indian}} {{c|Muslims}} gave {{c|Mustafa Kemal}} a title:
+{{x|Indian}} {{c|2764|Muslims}} gave {{c|4355|Mustafa Kemal}} a title:
 Saviour of the caliphate.
 
 On the twenty-ninth of October the assembly proclaimed the republic
@@ -64,20 +64,20 @@ An office without the state sat in the old capital.
 The state without that office sat in {{p|Ankara}}.
 
 On the fifth of December the papers printed a letter
-To the prime minister, {{c|İsmet Pasha}},
-From {{c|Aga Khan}} and from {{c|Amir Ali}}.
+To the prime minister, {{c|4356|İsmet Pasha}},
+From {{c|3099|Aga Khan}} and from {{c|4357|Amir Ali}}.
 It asked that the office be kept,
 And that the caliph's standing be given back.
 On the night of the eighth the assembly, sitting in closed session,
 Decided to send an independence tribunal to {{p|Istanbul}}.
 
 On the third of March the bill was brought by
-{{c|Saffet Efendi}}, deputy for {{p|Urfa}}, and fifty-three with him.
-{{c|Seyyid Bey}}, the minister of justice,
+{{c|4358|Saffet Efendi}}, deputy for {{p|Urfa}}, and fifty-three with him.
+{{c|4359|Seyyid Bey}}, the minister of justice,
 Had taught the law of the religion, and had studied at {{p|al-Azhar}}.
 He told the chamber the caliphate was not a creed.
 It was a worldly question, among the public affairs of the people.
-{{c|Zeki Bey}}, the deputy from {{p|Gümüşhane}}, spoke against the closing.
+{{c|4360|Zeki Bey}}, the deputy from {{p|Gümüşhane}}, spoke against the closing.
 The article passed.
 The president approved the law the same day.
 It was numbered four hundred and thirty-one.
@@ -92,8 +92,8 @@ A bureau of the nation stood up in its hour.
 
 That night he was taken by car to {{p|Çatalca}}.
 The next evening he boarded the train.
-With him were his son {{c|Ömer Faruk}},
-His daughter {{c|Dürrüşehvar}},
+With him were his son {{c|4361|Ömer Faruk}},
+His daughter {{c|4362|Dürrüşehvar}},
 Two of the women of the house,
 And the tutor, the secretary, and the doctor.
 An envelope from the governor held two thousand pounds
@@ -109,8 +109,8 @@ Within the week {{p|Switzerland}} told him
 The {{x|Turkish}} government had objected,
 And that he would not be permitted the work.
 
-In that same March, {{c|Hussein ibn Ali}},
-{{c|King of the Hejaz}}, who held {{p|Mecca}},
+In that same March, {{c|4363|Hussein ibn Ali}},
+{{c|4364|King of the Hejaz}}, who held {{p|Mecca}},
 Was proclaimed caliph.
 The day of it is not one day in the records.
 The proclamation did not reopen the office {{p|Ankara}} had closed.
@@ -118,7 +118,7 @@ Holding a sanctuary is not the succession.
 
 He died in {{p|Paris}} on the twenty-third of August, 1944,
 While the city was being taken back.
-{{c|Dürrüşehvar}} came and was given a promise.
+{{c|4362|Dürrüşehvar}} came and was given a promise.
 The body was not brought.
 On the thirtieth of March, 1954, he was buried at al-Baqi,
 In {{p|Medina}}.
@@ -142,6 +142,6 @@ The question of who succeeds is older than this law.
 The community has given more than one answer.
 This answer is a vote and a signature, on a Monday in {{p|Ankara}}.
 The man they called saviour of the caliphate signed the paper that ended it.
-The man they called caliph of the {{c|Muslims}} died without the name.
+The man they called caliph of the {{c|2764|Muslims}} died without the name.
 Count the office closed on the day the law says.
 Keep the question. It was not in the statute.

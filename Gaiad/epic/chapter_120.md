@@ -1,7 +1,7 @@
 # Chapter 120: The Carnivorans
 
-From {{c|Laurasios}}' line the hunters came—
-{{c|Carnos}}, the flesh-eater, whose ancient art
+From {{c|1786|Laurasios}}' line the hunters came—
+{{c|1792|Carnos}}, the flesh-eater, whose ancient art
 Of predation built the {{x|Cenozoic}}'s frame
 Of ecological balance from the start.
 
@@ -20,12 +20,12 @@ And the herbivore grows soft and numerous
 And eats the grassland bare—the senator
 Of ecological balance is the carnivorous.
 
-{{c|Carnos}} divided into two great houses:
-{{c|Felidos}} the cat, and {{c|Canidos}} the dog—
+{{c|1792|Carnos}} divided into two great houses:
+{{c|1793|Felidos}} the cat, and {{c|1794|Canidos}} the dog—
 And between these two the world arouses
 Its full range of predatory dialogue.
 
-{{c|Felidos}} was the ambush hunter—the cat's
+{{c|1793|Felidos}} was the ambush hunter—the cat's
 Design was solitary, patient, explosive:
 The retractable claw, the acrobat's
 Flexible spine, the corrosive
@@ -42,7 +42,7 @@ For thirty meters—and the feast
 
 Is won or lost in that first rush.
 
-{{c|Canidos}} chose the other way—the dog's
+{{c|1794|Canidos}} chose the other way—the dog's
 Design was social, patient in the hush
 Of the long pursuit: no hiding behind logs
 
@@ -63,7 +63,7 @@ Of the kill alone, but the orchestrated fear
 
 Of the pack was greater than any solitary cat.
 
-And then there was {{c|Smilodos}}—the saber-tooth,
+And then there was {{c|1795|Smilodos}}—the saber-tooth,
 Who defied both the dog and the cat
 In building the most terrifying tooth
 
@@ -84,8 +84,8 @@ Of the elongated canine that sat
 
 Like a pair of daggers in the upper jaw.
 
-And from {{c|Carnos}}' line the sea-hunters came—
-{{c|Pinnipedos}}, who heard the ocean's call
+And from {{c|1792|Carnos}}' line the sea-hunters came—
+{{c|1796|Pinnipedos}}, who heard the ocean's call
 And returned to the water, the ancient claim
 
 Of the mammal on the sea reasserted:
@@ -104,18 +104,18 @@ And the pinniped answered—the embody-
 Ment of the carnivore's marine claim.
 
 And the mustelids—the weasels, the otters,
-The badgers—the smallest of {{c|Carnos}}' clan
+The badgers—the smallest of {{c|1792|Carnos}}' clan
 But the fiercest pound-for-pound, the plotters
 Of every burrow-raid, the plan
 
 Of the honey badger's fearless assault
 On anything that crosses its path—
-The mustelid is {{c|Carnos}}' vault
+The mustelid is {{c|1792|Carnos}}' vault
 Of concentrated wrath
 
 In the smallest possible package.
 
-Honor {{c|Carnos}}—the hunter, the sculptor
+Honor {{c|1792|Carnos}}—the hunter, the sculptor
 Of the {{x|Cenozoic}}'s ecological passage,
 The predator whose art is the vulture's
 

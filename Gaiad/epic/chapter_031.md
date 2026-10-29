@@ -1,22 +1,22 @@
 # Chapter 31: Rodinia Supercontinent Forms
 
-When {{c|Cambrius}} and {{c|Spriggina}} died,
+When {{c|542|Cambrius}} and {{c|609|Spriggina}} died,
 Great heroes who had ruled with pride,
 Two sons were left to claim their throne:
-Bold {{c|Protos}} and {{c|Dutrus}}, each alone.
+Bold {{c|610|Protos}} and {{c|611|Dutrus}}, each alone.
 
 Each brother saw a different way
 To honor what their parents' legacy would say.
 The body plan that they had made
 Would be interpreted and obeyed.
 
-Great {{c|Protos}} looked upon the form
+Great {{c|610|Protos}} looked upon the form
 And said, "I'll keep the ancient norm.
 The first hole is the mouth so wide,
 The second is where waste will hide."
 
 "The mesoderm is like the past,
-{{c|Mesoglea}} that will last.
+{{c|612|Mesoglea}} that will last.
 My mouth shall bear tentacles bright
 Like fathers did in ancient sight."
 
@@ -35,7 +35,7 @@ For they're civilization's fix.
 The foundation, tried and true,
 Shall guide us in all that we do."
 
-But bold {{c|Dutrus}} saw it not the same,
+But bold {{c|611|Dutrus}} saw it not the same,
 He'd make a different claim:
 "The second hole's the mouth, I say,
 The first hole takes waste away."
@@ -47,7 +47,7 @@ Where fisherman and shieldmaid grows."
 
 "A reunion, don't you see,
 Of ancient unity?
-{{c|Choanoderm}} and {{c|Archaeocyte}}
+{{c|613|Choanoderm}} and {{c|614|Archaeocyte}}
 Together in the fight."
 
 "O heathen, can't you understand?
@@ -63,32 +63,32 @@ We'll build a glorious reign."
 And so the war began to rage,
 Upon history's page.
 Whose vision would define the way
-For the {{c|Cambrian}} display?
+For the {{c|615|Cambrian}} display?
 
 Each brother bore two sons of might
 To join the coming fight:
-From {{c|Dutrus}} came both brave and true
-{{c|Dietrich}} and {{c|Saccorhytus}} too.
+From {{c|611|Dutrus}} came both brave and true
+{{c|616|Dietrich}} and {{c|617|Saccorhytus}} too.
 
-From {{c|Protos}} came with valor high
-{{c|Ectus}} and {{c|Spiralius}} nigh.
+From {{c|610|Protos}} came with valor high
+{{c|618|Ectus}} and {{c|619|Spiralius}} nigh.
 Four grandsons of the ancient line
 Would make their fates align.
 
-Strange {{c|Saccorhytus}} had no rear,
+Strange {{c|617|Saccorhytus}} had no rear,
 No anus did appear.
 With no way to expel his waste,
 His life would not be graced.
 
-So {{c|Dutrus}}' legacy fell
-To {{c|Dietrich}}, who served him well.
+So {{c|611|Dutrus}}' legacy fell
+To {{c|616|Dietrich}}, who served him well.
 The loyal son would carry on
 Until his life was done.
 
-The sons of {{c|Dutrus}}, it was known,
+The sons of {{c|611|Dutrus}}, it was known,
 Throughout the world had grown
 Famous for their heads so wise,
-But {{c|Dietrich}} had no eyes.
+But {{c|616|Dietrich}} had no eyes.
 
 No head had he to lead the way,
 But innovation saved the day.
@@ -105,7 +105,7 @@ A colony where he could roam.
 His simple plan worked very well
 In his ancestral dell.
 
-Great {{c|Spiralius}} kept the faith
+Great {{c|619|Spiralius}} kept the faith
 And avoided common wraith.
 He built his city like a top,
 A trochophore that would not stop.
@@ -120,25 +120,25 @@ In his prosperous way.
 The trochophore design proved true
 For all that he would do.
 
-But {{c|Ectus}} was a bitter soul,
-{{c|Resentment}} was his goal.
+But {{c|618|Ectus}} was a bitter soul,
+{{c|620|Resentment}} was his goal.
 The secondborn who felt the slight
 Would make his grievance right.
 
 "I'll be the greatest of them all,"
 He answered duty's call.
-"Among {{c|Cambrius}}' sons I'll shine
+"Among {{c|542|Cambrius}}' sons I'll shine
 And make the victory mine."
 
 His tentacles he changed to teeth,
-{{c|Ferocious}} underneath.
+{{c|621|Ferocious}} underneath.
 He shed his skin to stay young,
 While battle songs were sung.
 
 With muscles strong and flexing true
 He leaped at all he knew.
 His prey would never get away
-From {{c|Ectus}}' fierce display.
+From {{c|618|Ectus}}' fierce display.
 
 "O eldest sons, beware!" he cried,
 "Take caution in your pride!
@@ -147,12 +147,12 @@ Who defeat all their foes!"
 
 And so he declared a war
 That would spread both near and far.
-Against {{c|Dutrus}} and {{c|Spiralius}} both
+Against {{c|611|Dutrus}} and {{c|619|Spiralius}} both
 He swore his solemn oath.
 
-The sons of {{c|Dutrus}}, brave and true,
-The sons of {{c|Spiralius}} too,
-And {{c|Ectus}} with his fearsome might
+The sons of {{c|611|Dutrus}}, brave and true,
+The sons of {{c|619|Spiralius}} too,
+And {{c|618|Ectus}} with his fearsome might
 Prepared for the great fight.
 
 These three great tribes would write
@@ -163,16 +163,16 @@ On evolution's stage.
 And so began that time of fame
 When diversity's flame
 Burned bright across the ancient sea:
-The {{c|Cambrian}}'s legacy.
+The {{c|615|Cambrian}}'s legacy.
 
-{{c|Bodies}} burst in forms unknown,
+{{c|622|Bodies}} burst in forms unknown,
 As each tribe made their throne.
-{{c|Innovations}} everywhere
+{{c|623|Innovations}} everywhere
 Filled the water and the air.
 
-{{c|Predator}} and prey alike
+{{c|624|Predator}} and prey alike
 Prepared for war to strike.
-{{c|Arms}} races would begin
+{{c|625|Arms}} races would begin
 As each sought to win.
 
 The filter feeders found their place
@@ -180,14 +180,14 @@ While hunters gave chase.
 Some burrowed deep in mud
 While others spilled their blood.
 
-{{c|Eyes}} evolved to see the light,
+{{c|626|Eyes}} evolved to see the light,
 Shells appeared for the fight.
-{{c|Claws}} and spines and armor thick
+{{c|627|Claws}} and spines and armor thick
 Made survival's trick.
 
 The explosion had begun
 Underneath the ancient sun.
-{{c|Cambrius}}' legacy lived on
+{{c|542|Cambrius}}' legacy lived on
 From dusk until the dawn.
 
 In every creature that we see
@@ -197,7 +197,7 @@ Shapes all that we do.
 
 Some kept the ancient, simple way
 While others chose to stay
-{{c|Innovative}}, bold, and bright
+{{c|628|Innovative}}, bold, and bright
 In evolution's sight.
 
 The war between the brothers three
@@ -205,17 +205,17 @@ Lives on in you and me.
 In every choice we make each day
 We follow their display.
 
-{{c|Innovation}} or tradition,
+{{c|629|Innovation}} or tradition,
 Each makes its submission
 To the force of life that drives
 All that grows and thrives.
 
-So honor brave {{c|Cambrius}},
+So honor brave {{c|542|Cambrius}},
 Who started all this fuss.
 His legacy lives on today
 In every living way.
 
-The {{c|Cambrian}} explosion's fire
+The {{c|615|Cambrian}} explosion's fire
 Burns on with desire
 In every form of life we see
 Through all eternity.

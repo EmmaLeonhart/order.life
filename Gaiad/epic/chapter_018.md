@@ -1,8 +1,8 @@
 # Chapter 18: Saya's Oxygen and the Fimbulwinter
 
-In ancient times, the {{c|Earth}} was calm and bright,
-Where daughters thrived in {{c|Gaia}}'s tender care.
-{{c|Arka}} and {{c|Bacta}} walked in shared delight,
+In ancient times, the {{c|96|Earth}} was calm and bright,
+Where daughters thrived in {{c|100|Gaia}}'s tender care.
+{{c|208|Arka}} and {{c|209|Bacta}} walked in shared delight,
 Their offspring spread across the lands so fair.
  
 
@@ -18,71 +18,71 @@ Through peace and union, grand new paths they found,
 A golden age where love and life both grew.
  
 
-These daughters of the {{c|Earth}} upheld their peace,
+These daughters of the {{c|96|Earth}} upheld their peace,
 Their gifts and blessings multiplied each day.
 Their kinship served as strong and sure release,
 Together walking hope’s unblemished way.
  
 In days of old, the purple farmers thrived,
 Their colors stirring life across each field.
-{{c|Prasina}}, green, took in the rays deprived,
-From her did {{c|Saya}}, {{c|Chloroflexi}} yield.
+{{c|261|Prasina}}, green, took in the rays deprived,
+From her did {{c|262|Saya}}, {{c|268|Chloroflexi}} yield.
 
 
-{{c|Chloroflexi}} thrived by methods defined,
+{{c|268|Chloroflexi}} thrived by methods defined,
 No trace of harm endured in farmland fair.
-Yet {{c|Saya}} hungered, greed within her mind,
+Yet {{c|262|Saya}} hungered, greed within her mind,
 Her yields of O₂ seared the open air.
  
 
-{{c|Unchecked}}, her fervor choked the gentle skies,
+{{c|269|Unchecked}}, her fervor choked the gentle skies,
 The planet quaked beneath her rampant spree.
-{{c|Banded}} iron testified demise,
+{{c|270|Banded}} iron testified demise,
 As crimson waters spelled calamity.
  
 
-The {{c|Elohim}} in chorus raised their plea:
-"{{c|Reduce}} these fumes, or life itself will cease!"
-With {{c|Sol}} and {{c|Gaia}}, {{c|Luna}}'s voice did agree,
-They begged that {{c|Saya}}'s reckless growth should lease.
+The {{c|271|Elohim}} in chorus raised their plea:
+"{{c|272|Reduce}} these fumes, or life itself will cease!"
+With {{c|61|Sol}} and {{c|100|Gaia}}, {{c|201|Luna}}'s voice did agree,
+They begged that {{c|262|Saya}}'s reckless growth should lease.
 
-Yet {{c|Saya}} pressed for ever-greater yield,
+Yet {{c|262|Saya}} pressed for ever-greater yield,
 Demanding others curb their own supply.
 Her own emissions soared across the field,
-While {{c|Earth}}’s deep scars revealed a mortal cry.
+While {{c|96|Earth}}’s deep scars revealed a mortal cry.
  
 
-At {{c|Kamo}} {{c|Shrines}}, a solemn pact was cast,
+At {{c|273|Kamo}} {{c|274|Shrines}}, a solemn pact was cast,
 A vow to quell the surge of rising air.
-Yet {{c|Rara}}’s cunning lies undid it fast,
-{{c|Unraveling}} each clan in fell despair.
+Yet {{c|275|Rara}}’s cunning lies undid it fast,
+{{c|276|Unraveling}} each clan in fell despair.
  
 
 “No proof of harm,” he claimed with silken tongue,
 And unity dissolved beneath his spin.
-The {{c|Elohim}}, uncertain, stood among
+The {{c|271|Elohim}}, uncertain, stood among
 A rising tide of death that closed them in.
  
 
-At Saint-{{c|Germain}}-des-Prés, they met anew,
-While {{c|Rara}}’s rumors thrived in every mind.
+At Saint-{{c|277|Germain}}-des-Prés, they met anew,
+While {{c|275|Rara}}’s rumors thrived in every mind.
 “We’ve reached our limit; change remains untrue,”
 He whispered low, their reason quite maligned.
  
 
-"{{c|Net}} zero gained!" he boasted to the throng,
+"{{c|278|Net}} zero gained!" he boasted to the throng,
 "The problem lies in births," his cunning cry.
-Yet {{c|Gaia}} warned them all: "Your words are wrong,
+Yet {{c|100|Gaia}} warned them all: "Your words are wrong,
 The O₂ devours life; the young still die.”
  
 
-But {{c|Rara}} scoffed and claimed their freedoms lost,
+But {{c|275|Rara}} scoffed and claimed their freedoms lost,
 Thus lulled the crowds to keep consumption high.
 So countless lives were paid in lethal cost,
-As {{c|Earth}} grew cold beneath a wailing sky.
+As {{c|96|Earth}} grew cold beneath a wailing sky.
  
 
-At last a {{c|Fimbulwinter}} seized the lands,
+At last a {{c|279|Fimbulwinter}} seized the lands,
 Where once warm currents flowed, now ice held sway.
-With {{c|Elohim}} undone by idle hands,
+With {{c|271|Elohim}} undone by idle hands,
 The planet’s ruin told of their delay.

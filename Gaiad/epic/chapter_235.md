@@ -20,12 +20,12 @@ On how the human mind, when unafraid
 Of difficulty, turns the wasteland green.
 
                                           First—
-The {{c|Hohokam}}, the canal-builders, seen
+The {{c|3440|Hohokam}}, the canal-builders, seen
 In what is now {{p|Phoenix}}'s asphalt-nursed
 
 And sprawling grid—but fifteen hundred years
 Before the modern city drank the same
-Dry river's water, {{c|Hohokam}} engineers
+Dry river's water, {{c|3440|Hohokam}} engineers
 Had mastered what {{p|Phoenix}} would later claim
 
 As its own invention: irrigation.
@@ -40,7 +40,7 @@ With clay to slow the seepage, and the foreign
 Concept of a desert, re-designed
 
 By human labor, into a garden
-Was the {{c|Hohokam}}'s great and quiet gift—
+Was the {{c|3440|Hohokam}}'s great and quiet gift—
 No pyramid, no temple, but the pardon
 Of the desert's harshness, the strategic lift
 
@@ -60,12 +60,12 @@ For cultures are not islands: the details
 Of one tradition pass through many hands.
 
                                          Second—
-The {{c|Mogollon}} of the mountain zone,
+The {{c|3474|Mogollon}} of the mountain zone,
 The transitional, the lesson reckoned
 Between the desert floor and the pine-blown
 
 Ridges of the {{p|Mogollon Rim}}—
-The highland potters whose {{c|Mimbres}} ware
+The highland potters whose {{c|3475|Mimbres}} ware
 Would prove the finest of the interim
 Between the everyday and the rare:
 
@@ -81,7 +81,7 @@ Of the natural world distilled to the deep
 
 And essential gesture: one line for the wing,
 One curve for the river, one dot for the eye—
-The {{c|Mimbres}} potter knew that everything
+The {{c|3475|Mimbres}} potter knew that everything
 Could be reduced to the essential, the dry
 
 And perfect abstraction of the living form.
@@ -97,14 +97,14 @@ The beauty lived beyond the potter's breath.
 
                                           Third—
 And greatest in ambition and in scale—
-The {{c|Ancestral Puebloans}}, who stirred
+The {{c|3476|Ancestral Puebloans}}, who stirred
 The canyons and the mesas to the tale
 
 Of {{p|Chaco Canyon}}'s monumental age.
 
 In a wash of sandy nothingness, below
 The flat and burning canyon's empty stage
-Of rock and sage, the {{c|Puebloans}} would show
+Of rock and sage, the {{c|3477|Puebloans}} would show
 
 What concentration of the human will
 Could build in the most unlikely place:
@@ -127,7 +127,7 @@ The roads ran straight—thirty feet wide and paved,
 Cut through the mesa-top, the corridor
 Of ritual processional, engraved
 
-Upon the landscape like the {{c|Nazca}} lines—
+Upon the landscape like the {{c|3466|Nazca}} lines—
 Not roads for commerce but for ceremony,
 The pilgrims' paths aligned to the designs
 Of solstice light and equinoctial testimony.
@@ -159,7 +159,7 @@ And terrible arithmetic of land
 That cannot feed the people: and the flow
 
 Of population shifted south and east,
-The canyon cities emptied, and the {{c|Puebloan}}
+The canyon cities emptied, and the {{c|3439|Puebloan}}
 Descendants carried with them to the feast
 Of the {{p|Rio Grande}} valley what the eon
 
@@ -177,7 +177,7 @@ In gentler country, carrying the thread
 Of everything they knew.
 
                         Honor the desert's children—
-{{c|Hohokam}}, {{c|Mogollon}}, {{c|Puebloan}}—the led
+{{c|3440|Hohokam}}, {{c|3474|Mogollon}}, {{c|3439|Puebloan}}—the led
 And the leaders, the women and the men
 
 Who proved the desert is not empty space

@@ -1,7 +1,7 @@
 # Chapter 169: Confucius and Laozi
 
 In {{p|China}}, during the sixth and fifth centuries BCE—the same
-Centuries that produced {{c|Zarathustra}}'s reforms, the {{p|Babylonian}}
+Centuries that produced {{c|2146|Zarathustra}}'s reforms, the {{p|Babylonian}}
 Exile, and {{p|Ionian}} philosophy—a parallel civilizational reimagining
 Was taking place. The {{p|Zhou Dynasty}}, established four centuries
 
@@ -21,15 +21,15 @@ The breakdown of political order. And two of those schools—
 {{p|Confucianism}} and {{p|Daoism}}—would prove to be the most enduring.
 
 They would shape {{p|East Asian}} civilization for the next twenty-five
-Centuries. Their founders, {{c|Confucius}} and {{c|Laozi}}, stand at the
+Centuries. Their founders, {{c|1958|Confucius}} and {{c|2144|Laozi}}, stand at the
 Root of everything that followed.
 
-                                      {{c|Confucius}}. In {{p|Chinese}},
-{{c|Kong Fuzi}} or {{c|Kongzi}}—"{{c|Master Kong}}." Born in five-fifty-one BCE
+                                      {{c|1958|Confucius}}. In {{p|Chinese}},
+{{c|2295|Kong Fuzi}} or {{c|2296|Kongzi}}—"{{c|2297|Master Kong}}." Born in five-fifty-one BCE
 In the small state of {{p|Lu}}, in what is now {{p|Shandong Province}}. His
 Family was of minor aristocratic descent but had fallen on hard
 
-Times; his father died when {{c|Confucius}} was three. He was raised
+Times; his father died when {{c|1958|Confucius}} was three. He was raised
 By his mother in relative poverty. He received whatever education
 He could, studying the classical texts of the {{p|Zhou}} ritual tradition.
 He served in minor government posts in {{p|Lu}}, rising to become
@@ -46,12 +46,12 @@ Politically. His ideas had been rejected by every ruler he
 
 Approached. His disciples were few. And yet, from these unpromising
 Materials, arose the most influential ethical philosophy ever
-Developed in {{p|East Asia}}. Because {{c|Confucius}}'s disciples preserved
+Developed in {{p|East Asia}}. Because {{c|1958|Confucius}}'s disciples preserved
 His teachings in the {{p|Analects}} ({{p|Lunyu}}), a collection of his sayings
 
 And brief anecdotes, compiled probably several generations after
 His death. And subsequent generations of {{p|Confucian}} philosophers—
-{{c|Mencius}}, {{c|Xunzi}}, the {{p|Han}} dynasty scholars, the great
+{{c|2298|Mencius}}, {{c|2299|Xunzi}}, the {{p|Han}} dynasty scholars, the great
 {{p|Neo-Confucians}} of the {{p|Song}} dynasty, the {{p|Ming}} thinkers, the
 
 {{p|Korean}}, {{p|Japanese}}, and {{p|Vietnamese}} {{p|Confucians}}—would elaborate
@@ -63,7 +63,7 @@ Polity that adopted {{p|Chinese}} political culture. The rejected
 Wanderer became, posthumously, the teacher of half of humanity.
 
                                                                  What
-Did {{c|Confucius}} teach? At the core, an ethic of virtuous human
+Did {{c|1958|Confucius}} teach? At the core, an ethic of virtuous human
 
 Conduct grounded in five key relationships: ruler-subject, father-
 Son, husband-wife, elder brother-younger brother, friend-friend.
@@ -87,7 +87,7 @@ Are disrupted—when rulers are tyrants, when sons abandon filial
 
 Obligation, when wives disrespect husbands—the society falls into
 Chaos. The political disorder of the {{p|Spring and Autumn}} period was,
-In {{c|Confucius}}'s analysis, the symptom of ethical disorder. And
+In {{c|1958|Confucius}}'s analysis, the symptom of ethical disorder. And
 The remedy was to restore proper ethical conduct, starting with
 
 The ruler and extending outward through the society. A ruler who
@@ -95,7 +95,7 @@ Was personally virtuous, who cultivated {{p|ren}} and practiced it
 Consistently, would naturally attract loyal subjects and set an
 Example that would spread through the social fabric. "The virtue
 
-Of the wind bends the grass," {{c|Confucius}} said. Political reform
+Of the wind bends the grass," {{c|1958|Confucius}} said. Political reform
 Begins with moral self-cultivation. This is a very distinctive
 Ethical vision. It does not appeal to divine commands. It does
 Not rely on reward and punishment in the afterlife. It does not
@@ -103,22 +103,22 @@ Not rely on reward and punishment in the afterlife. It does not
 Invoke abstract moral principles derived from reason alone. It
 Grounds morality in specific, role-based human relationships and
 In the cultivation of personal virtue through learning, ritual,
-And reflection. The good life, for {{c|Confucius}}, is the life of
+And reflection. The good life, for {{c|1958|Confucius}}, is the life of
 
 The {{p|junzi}}—the "gentleman" or "exemplary person"—who has
-Cultivated himself (and it is usually "himself," though {{c|Confucius}}
+Cultivated himself (and it is usually "himself," though {{c|1958|Confucius}}
 Was occasionally more inclusive than his later tradition) through
 Study of the classics, mastery of ritual propriety, and practice
 
 Of benevolent conduct. The {{p|junzi}} is not born but made, through
 Continuous self-cultivation. And this self-cultivation is both
-An ethical project and an aesthetic one. {{c|Confucius}} emphasized
+An ethical project and an aesthetic one. {{c|1958|Confucius}} emphasized
 Music, poetry, and ritual as essential to the cultivated life.
 
 Beauty and morality were linked. A properly cultivated person
 Would be sensitive to beauty and grace in human interactions and
 In artistic expression. The {{p|Book of Songs}}, the {{p|Book of Rites}},
-The {{p|Book of Changes}}, the {{p|Spring and Autumn Annals}}—{{c|Confucius}}
+The {{p|Book of Changes}}, the {{p|Spring and Autumn Annals}}—{{c|1958|Confucius}}
 
 Urged study of these {{p|Five Classics}} not as dry scholarly exercise
 But as formation of sensibility. One became a better person by
@@ -144,22 +144,22 @@ Entirely on the {{p|Confucian}} conviction that moral and intellectual
 Cultivation should be the primary qualification for political power.
 
                                                                      And
-Now {{c|Laozi}}, the old master, who lived and left his book. The{{fn|Many historians doubt that Laozi was a single historical person, and date the Daodejing to the fourth century BCE or later. The Gaiad holds that he lived.}}
-Traditional account, in {{c|Sima Qian}}'s {{p|Records of the Grand Historian}}
+Now {{c|2144|Laozi}}, the old master, who lived and left his book. The{{fn|Many historians doubt that Laozi was a single historical person, and date the Daodejing to the fourth century BCE or later. The Gaiad holds that he lived.}}
+Traditional account, in {{c|2300|Sima Qian}}'s {{p|Records of the Grand Historian}}
 (Written in the first century BCE, several centuries after the
-Presumed date), places {{c|Laozi}} as an older contemporary of {{c|Confucius}},
+Presumed date), places {{c|2144|Laozi}} as an older contemporary of {{c|1958|Confucius}},
 
-An archivist at the {{p|Zhou}} court whom {{c|Confucius}} once visited for
-Advice. In this telling, {{c|Laozi}}—"the {{c|Old Master}}"—was older, wiser,
-And more withdrawn than {{c|Confucius}}. When {{c|Confucius}} sought him out,
-{{c|Laozi}} rebuked him for his worldly ambition and urged him to let
+An archivist at the {{p|Zhou}} court whom {{c|1958|Confucius}} once visited for
+Advice. In this telling, {{c|2144|Laozi}}—"the {{c|2301|Old Master}}"—was older, wiser,
+And more withdrawn than {{c|1958|Confucius}}. When {{c|1958|Confucius}} sought him out,
+{{c|2144|Laozi}} rebuked him for his worldly ambition and urged him to let
 
-Go of his attempts to reform society. {{c|Laozi}} eventually left the
+Go of his attempts to reform society. {{c|2144|Laozi}} eventually left the
 {{p|Zhou}} court, disillusioned with its decay, and rode a water-
 Buffalo westward toward the borderlands. At a mountain pass, the
-Gate-keeper {{c|Yinxi}} recognized him and asked him to write down his
+Gate-keeper {{c|2302|Yinxi}} recognized him and asked him to write down his
 
-Teachings before leaving. {{c|Laozi}} agreed and composed the five
+Teachings before leaving. {{c|2144|Laozi}} agreed and composed the five
 Thousand characters of the {{p|Dao De Jing}}, then departed into the
 West never to be seen again. This is a lovely story. It is also
 Almost certainly a composite myth. The actual composition of the
@@ -167,11 +167,11 @@ Almost certainly a composite myth. The actual composition of the
 {{p|Dao De Jing}} probably happened in stages between the fifth and
 Third centuries BCE, with multiple authors and editors contributing.
 The text we have is a synthesis rather than the work of a single
-Historical figure. But the figure of {{c|Laozi}}—whether real or
+Historical figure. But the figure of {{c|2144|Laozi}}—whether real or
 
 Representative—has functioned as the patron sage of {{p|Daoism}} for
 The tradition that gathered around the text. So we may speak of
-{{c|Laozi}} as the traditional founder, with appropriate caveats about
+{{c|2144|Laozi}} as the traditional founder, with appropriate caveats about
 The historical evidence.
 
                              What does the {{p|Dao De Jing}} teach? The
@@ -212,10 +212,10 @@ Fish"—do not over-manipulate, do not interfere constantly, let
 Things be. The less a government does, the better it governs.
 This is a radical critique of bureaucratic and activist government—
 A critique directly opposed to the {{p|Confucian}} emphasis on virtuous
-Rulers and careful ritual management. Where {{c|Confucius}} urges the
+Rulers and careful ritual management. Where {{c|1958|Confucius}} urges the
 
 Ruler to cultivate himself and act upon the society with benevolent
-Example, {{c|Laozi}} urges the ruler to cultivate non-action and let
+Example, {{c|2144|Laozi}} urges the ruler to cultivate non-action and let
 The society manage itself. These are different political visions.
 Different ethical visions. Different conceptions of the good life.
 
@@ -226,7 +226,7 @@ The same civilizational crisis of late {{p|Zhou}} political disorder.
 In practice, the two traditions have not been mutually exclusive
 
 But complementary. {{p|Chinese}} civilization has, for millennia, held
-Both together. {{c|Confucianism}} provides the public ethics of social
+Both together. {{c|2303|Confucianism}} provides the public ethics of social
 Life—the rules of propriety, the rituals of court and family, the
 Moral education that shapes the gentleman-official. {{p|Daoism}} provides
 
@@ -265,12 +265,12 @@ One of its most distinctive features, and its roots are in this
 Traditions emerged from the same crisis and learned to coexist.
 
                                                                  The
-{{x|Gaiad}} reads {{c|Confucius}} and {{c|Laozi}} together as the twin poles of
+{{x|Gaiad}} reads {{c|1958|Confucius}} and {{c|2144|Laozi}} together as the twin poles of
 {{p|East Asian}} civilizational thought. Each is incomplete without
-The other. {{c|Confucius}} gives us the ethics of social engagement,
+The other. {{c|1958|Confucius}} gives us the ethics of social engagement,
 The seriousness of moral cultivation, the dignity of institutional
 
-Life. {{c|Laozi}} gives us the counterweight: the skepticism toward
+Life. {{c|2144|Laozi}} gives us the counterweight: the skepticism toward
 Institutions, the awareness that reality exceeds our concepts, the
 Turn toward nature, the recognition that sometimes not acting is
 The wisest action. Together, they are one of the great civilizational
@@ -305,7 +305,7 @@ The ideas worked out by impoverished teachers in the chaotic
 Small states of sixth- and fifth-century BCE {{p|China}} would shape
 The lives of billions for two and a half millennia.
 
-                                                         {{c|Confucius}}. {{c|Laozi}}.
+                                                         {{c|1958|Confucius}}. {{c|2144|Laozi}}.
 {{p|Ren}} and {{p|wu wei}}. Filial piety and spontaneous flow. The {{p|junzi}}
 
 And the {{p|sheng ren}}. The {{p|Analects}} and the {{p|Dao De Jing}}. Moral
@@ -317,4 +317,4 @@ The {{p|Spring and Autumn}} philosophers in an age of disorder. The
 Intellectual tradition. The twin traditions that, together, would
 Shape a civilization.
 
-{{c|Confucius}} and {{c|Laozi}}. Paired pillars of the {{p|East Asian}} mind.
+{{c|1958|Confucius}} and {{c|2144|Laozi}}. Paired pillars of the {{p|East Asian}} mind.

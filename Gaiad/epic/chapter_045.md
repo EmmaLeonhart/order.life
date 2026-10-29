@@ -1,9 +1,9 @@
 # Chapter 45: Gondwana Assembles
 
-{{c|Esther}} was the daughter true
+{{c|392|Esther}} was the daughter true
 In the tenth generation's view
-Of {{c|Lily}} the {{c|Echidna}},
-{{c|Dutrus}}' daughter, fina
+Of {{c|1056|Lily}} the {{c|850|Echidna}},
+{{c|611|Dutrus}}' daughter, fina
 
 Who traded bilateral
 For pentaradial
@@ -12,10 +12,10 @@ Evolution's plan
 
 For five-fold symmetry
 Throughout eternity.
-{{c|Esther}} saw before
+{{c|392|Esther}} saw before
 Her eyes from shore to shore
 
-{{c|Innumerable}} hosts
+{{c|1057|Innumerable}} hosts
 Of planktonic ghosts—
 The planimals so small
 Who answered feeding's call.
@@ -26,11 +26,11 @@ And from her loins she bore
 Two daughters to explore
 
 The seas in their own way:
-{{c|Crinosa}}, night and day,
-And {{c|Blastosa}} the strong
+{{c|1058|Crinosa}}, night and day,
+And {{c|1059|Blastosa}} the strong
 Who lived her whole life long.
 
-{{c|Blastosa}} built a city
+{{c|1059|Blastosa}} built a city
 Beyond all that's gritty
 With many brachioles
 Around ambulacra's goals.
@@ -40,9 +40,9 @@ Was ringed throughout the night
 And day with arms so small
 That answered feeding's call.
 
-{{c|Blastosa}} became mother
+{{c|1059|Blastosa}} became mother
 To forms like no other:
-The {{c|Blastoids}} were her line
+The {{c|1060|Blastoids}} were her line
 With architecture fine.
 
 Her daughters spread so wide
@@ -50,32 +50,32 @@ With pentamerous pride
 Throughout the ancient seas
 Like blossoms on the trees.
 
-{{c|Crinosa}} begat two:
-{{c|Lily}} {{c|Stone}} so true
-And {{c|Luther}}, strong and free,
+{{c|1058|Crinosa}} begat two:
+{{c|1056|Lily}} {{c|1061|Stone}} so true
+And {{c|1062|Luther}}, strong and free,
 Who lived beside the sea.
 
-{{c|Lily}} {{c|Stone}} became
-{{c|Ancestress}} of fame
-Of {{c|Crinoids}} everywhere
+{{c|1056|Lily}} {{c|1061|Stone}} became
+{{c|806|Ancestress}} of fame
+Of {{c|1063|Crinoids}} everywhere
 Who danced with graceful flair.
 
-Together {{c|Crinoids}} bright
-And {{c|Blastoids}} in their might
+Together {{c|1063|Crinoids}} bright
+And {{c|1060|Blastoids}} in their might
 Spread all across the seas
 Like flowers in the breeze.
 
 They became the wall
 That answered empire's call:
 The bulwark strong and true
-Of {{c|Ordovician}} view.
+Of {{c|954|Ordovician}} view.
 
 The empire found in them
 Its strongest living stem
 That held against all foes
 Through calm and storm's throes.
 
-But {{c|Luther}} was not pleased
+But {{c|1062|Luther}} was not pleased
 With leisure life that ceased
 To challenge and to grow—
 He felt he had to go
@@ -90,7 +90,7 @@ Like others of his flock,
 But as he came of age
 He broke from tradition's cage.
 
-{{c|Contrary}} to his sister
+{{c|1064|Contrary}} to his sister
 Who'd never be a mister
 But lived the gentle way
 Of filter-feeding's day,
@@ -110,27 +110,27 @@ To live beside the sea
 In his own chosen way
 From night into the day.
 
-To this day {{c|Starfish}} keep
+To this day {{c|683|Starfish}} keep
 This tradition deep
 Within their very souls:
 To play mobile roles.
 
-{{c|Luther}} bore two sons:
-{{c|Asteros}} when begun
-The day, and {{c|Echinos}}
+{{c|1062|Luther}} bore two sons:
+{{c|1065|Asteros}} when begun
+The day, and {{c|1066|Echinos}}
 Whose different spirit knows
 
-{{c|Innovation}}'s call
+{{c|629|Innovation}}'s call
 Above tradition's thrall.
-{{c|Asteros}} was the one
+{{c|1065|Asteros}} was the one
 Who when his work was done
 
 Stayed traditional and true
 To all his fathers knew.
-But {{c|Echinos}} built new
-{{c|Ways}} to make dreams come true.
+But {{c|1066|Echinos}} built new
+{{c|1067|Ways}} to make dreams come true.
 
-{{c|Echinos}} built compact
+{{c|1066|Echinos}} built compact
 His city, and in fact
 Used only tube feet small
 To move and heed the call
@@ -138,9 +138,9 @@ To move and heed the call
 Of wandering desire.
 He never would aspire
 To build a stalk like dad—
-{{c|Innovation}} made him glad.
+{{c|629|Innovation}} made him glad.
 
-{{c|Asteros}} and {{c|Echinos}}
+{{c|1065|Asteros}} and {{c|1066|Echinos}}
 Went to war (heaven knows
 Why brothers had to fight
 Throughout the day and night).
@@ -155,37 +155,37 @@ Across history's page
 As photos still can show
 From eons long ago.
 
-{{c|Asteros}} begat
+{{c|1065|Asteros}} begat
 Two sons: first he begat
-{{c|Starfy}}, strong and true,
-And {{c|Ophis}}, through and through
+{{c|678|Starfy}}, strong and true,
+And {{c|1068|Ophis}}, through and through
 
 A warrior in his heart
 Who played the fighting part
 With vigor and with might
 Both day and through the night.
 
-{{c|Echinos}} bore two more:
-{{c|Orbos}} to explore
-And {{c|Britta}}, daughter fair
+{{c|1066|Echinos}} bore two more:
+{{c|1069|Orbos}} to explore
+And {{c|1070|Britta}}, daughter fair
 Who danced without a care.
 
-But {{c|Ophis}} and fair {{c|Britta}}
+But {{c|1068|Ophis}} and fair {{c|1070|Britta}}
 Broke the war's bitter
-{{c|Cycle}} of revenge
+{{c|1071|Cycle}} of revenge
 And chose to make a change.
 
 They married and became
-{{c|Partners}} without shame
+{{c|1072|Partners}} without shame
 Despite their fathers' war
 That raged from shore to shore.
 
 From their union came
 Children of great fame:
-The {{c|Brittle}} {{c|Stars}} so bright,
+The {{c|1073|Brittle}} {{c|1074|Stars}} so bright,
 Centralized in might.
 
-{{c|Muscular}} creatures, they
+{{c|1075|Muscular}} creatures, they
 Were machines in every way
 Of strength and vigor great
 Who never would abate
@@ -195,17 +195,17 @@ Throughout each passing hour
 Of their devoted lives
 Where motion always thrives.
 
-{{c|Serpentus}}, {{c|Ophis}}' son,
-And {{c|Baskette}}, when begun
-The day from {{c|Britta}}'s line,
+{{c|1076|Serpentus}}, {{c|1068|Ophis}}' son,
+And {{c|1077|Baskette}}, when begun
+The day from {{c|1070|Britta}}'s line,
 Both had designs so fine.
 
-{{c|Serpentus}} became sire
+{{c|1076|Serpentus}} became sire
 Of forms whose desire
 Was slithering with grace
 Across the ocean's face.
 
-The {{c|Serpent}} {{c|Stars}} he made
+The {{c|1078|Serpent}} {{c|1074|Stars}} he made
 In ocean's light and shade
 Would slither with precision
 Through every dark decision
@@ -220,7 +220,7 @@ While muscles through the land
 Of sea would make them glide
 With ocean as their guide.
 
-But {{c|Baskette}} was unique—
+But {{c|1077|Baskette}} was unique—
 Her arms would always seek
 To branch a million-fold
 As stories have been told.
@@ -231,7 +231,7 @@ With arms that branched so wide
 Like nets on every side.
 
 She became ancestress
-Of {{c|Basket}} {{c|Stars}} no less
+Of {{c|1079|Basket}} {{c|1074|Stars}} no less
 Remarkable than she
 In their complexity.
 
@@ -240,9 +240,9 @@ To catch what ocean sees
 Fit to provide as food
 In their planktonic mood.
 
-{{c|Starfy}} begat the race
-Of {{c|Starfish}} in every place:
-{{c|Decentralized}} cities
+{{c|678|Starfy}} begat the race
+Of {{c|683|Starfish}} in every place:
+{{c|1080|Decentralized}} cities
 Beyond all that's gritty
 
 That may regenerate
@@ -250,7 +250,7 @@ From parts, however great
 Or small the piece remains
 When damage life constrains.
 
-The {{c|Starfish}} are the lords
+The {{c|683|Starfish}} are the lords
 Who rule with iron swords
 Their empires far and wide
 With predatory pride.
@@ -265,14 +265,14 @@ To rule their ocean lands
 With fingers made of might
 Both day and through the night.
 
-{{c|Echinos}} bore two sons:
-{{c|Aristotle}} when begun
-The day, and {{c|Cucus}} strong
+{{c|1066|Echinos}} bore two sons:
+{{c|1081|Aristotle}} when begun
+The day, and {{c|1082|Cucus}} strong
 Who lived his whole life long.
 
-{{c|Aristotle}} became
+{{c|1081|Aristotle}} became
 The father of great fame
-Of {{c|Sea}} {{c|Urchins}} everywhere
+Of {{c|569|Sea}} {{c|684|Urchins}} everywhere
 Who graze with greatest care.
 
 Great grazers of the seas
@@ -280,37 +280,37 @@ They move with graceful ease
 Across the ocean floor
 From here to distant shore.
 
-{{c|Aristotle}} built with care
+{{c|1081|Aristotle}} built with care
 A jaw beyond compare
 Of five teeth strong and bright—
 He called it his "light"
 
 His lantern, for it brought
-{{c|Light}} to life and thought.
+{{c|1083|Light}} to life and thought.
 To this day we call
 This jaw by name of all
 
-His choosing: "{{c|Aristotle}}'s
-{{c|Lantern}}" never throttles
+His choosing: "{{c|1081|Aristotle}}'s
+{{c|1084|Lantern}}" never throttles
 Our wonder at the way
 He lit his every day.
 
 His great-granddaughter fair
-Was {{c|Sandy}}, everywhere
+Was {{c|1085|Sandy}}, everywhere
 Known as ancestress
-Of {{c|Sand}} {{c|Dollars}} no less
+Of {{c|1086|Sand}} {{c|1087|Dollars}} no less
 
 Beautiful than she
 In their complexity.
 Flat and round they lie
 Beneath the ocean sky.
 
-{{c|Cucus}} became the sire
+{{c|1082|Cucus}} became the sire
 Of forms whose desire
 Was recycling the waste
 That others had misplaced.
 
-The {{c|Sea}} {{c|Cucumbers}} great
+The {{c|569|Sea}} {{c|1088|Cucumbers}} great
 Accept as their fate
 To be the janitors
 Of ocean's corridors.
@@ -321,7 +321,7 @@ In ocean's deepest parts
 With dedicated hearts.
 
 And when their enemies
-{{c|Threaten}}, then they seize
+{{c|1089|Threaten}}, then they seize
 Upon a strategy
 Most shocking to see:
 
@@ -336,7 +336,7 @@ To keep them safe and sound
 Though strange it may be found.
 
 And so the Sons of grand
-{{c|Echidna}} through the land
+{{c|850|Echidna}} through the land
 Of sea built their great
 Civilization's fate
 
@@ -345,17 +345,17 @@ That mortals' words can reach
 With five sides to each story
 In all their living glory.
 
-From {{c|Esther}}'s feeding start
-To {{c|Luther}}'s rebel heart
+From {{c|392|Esther}}'s feeding start
+To {{c|1062|Luther}}'s rebel heart
 That broke from leisure's chain
 To walk through joy and pain,
 
-From {{c|Asteros}} and his brother
-{{c|Echinos}}, and no other
-{{c|Way}} to settle their debate
+From {{c|1065|Asteros}} and his brother
+{{c|1066|Echinos}}, and no other
+{{c|1090|Way}} to settle their debate
 Than war to seal their fate,
 
-From {{c|Ophis}} and fair {{c|Britta}}
+From {{c|1068|Ophis}} and fair {{c|1070|Britta}}
 Who made the war less bitter
 By choosing love instead
 Of letting hatred spread,
@@ -377,7 +377,7 @@ From grazers day and night
 
 To recyclers who clean
 The ocean's vast marine
-{{c|Environment}} with care
+{{c|1091|Environment}} with care
 For all who dwell there,
 
 The five-fold symmetry
@@ -400,7 +400,7 @@ Beneath the starry sky,
 The legacy lives on
 From dusk until the dawn
 
-Of {{c|Echidna}}'s great choice
+Of {{c|850|Echidna}}'s great choice
 To let five be the voice
 Of symmetry's design
 Throughout the end of time.
@@ -430,7 +430,7 @@ Through every living term
 Of their existence here
 Throughout each passing year.
 
-In {{c|Luther}}'s rebel choice
+In {{c|1062|Luther}}'s rebel choice
 To let freedom be his voice,
 In lovers ending war
 Through peace worth living for,
@@ -440,7 +440,7 @@ Across each generation
 That builds upon the past
 To make new futures last,
 
-The sons of {{c|Echidna}} teach
+The sons of {{c|850|Echidna}} teach
 That heights within our reach
 Are limited only by
 Our willingness to try
@@ -450,7 +450,7 @@ And let our spirits grow
 Into forms yet unseen
 In evolution's scene.
 
-The {{c|Ordovician}} wall
+The {{c|954|Ordovician}} wall
 They built will never fall
 As long as seas contain
 Their pentamerous reign.

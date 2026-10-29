@@ -1,8 +1,8 @@
 # Chapter 78: The Gorgon's Reign
 
-Among all {{c|Theraps}}' children, none struck fear
+Among all {{c|1672|Theraps}}' children, none struck fear
 As deeply into every living heart
-As {{c|Gorgo}}—gorgonopsid, whose career
+As {{c|1722|Gorgo}}—gorgonopsid, whose career
 Was built on being death refined to art:
 
 The saber-toothed therapsid, apex lord
@@ -12,10 +12,10 @@ And scepter of the age—that talked
 
 No other language than the language
 Of pursuit and bringing down the large.
-For {{c|Gorgo}} found in carnage
+For {{c|1722|Gorgo}} found in carnage
 The purest form of living, and her charge
 
-At {{c|Dicyno}} and his herds was swift—
+At {{c|1723|Dicyno}} and his herds was swift—
 She ran with semi-upright gait across
 The {{x|Permian}} red plains, and with the gift
 Of saber canine teeth she turned the loss
@@ -25,15 +25,15 @@ Two great curved fangs that could penetrate
 The neck of any prey and rob the breath
 From it before it knew its own last gate.
 
-She was large—some of {{c|Gorgo}}'s children grew
+She was large—some of {{c|1722|Gorgo}}'s children grew
 To bear-size, heavy-bodied, low-slung still
 In part the older sprawl, but quick enough through
 The short sprint to accomplish the kill
 
 Before her prey could flee—the {{x|Permian}}'s
 Equivalent of tiger, of the lion's
-Ancient fury—{{c|Gorgo}} scans
-The herd of {{c|Dicyno}} with the shining
+Ancient fury—{{c|1722|Gorgo}} scans
+The herd of {{c|1723|Dicyno}} with the shining
 
 Calculation of a predator
 Who has evolved for nothing but this art:
@@ -42,7 +42,7 @@ For weakness, for the one whose slowing heart
 
 Will make the chase worthwhile—the old,
 The young, the limping one, the one
-That moves less smoothly—{{c|Gorgo}} cold
+That moves less smoothly—{{c|1722|Gorgo}} cold
 And focused selects before the run
 
 Has even started who will die today.
@@ -52,7 +52,7 @@ Of problem-solving, but the dense
 
 Attention to the living world around her,
 The reading of behavior, the precise
-Assessment of the body—{{c|Gorgo}} found her
+Assessment of the body—{{c|1722|Gorgo}} found her
 Wisdom in the eyes that suffice
 
 For knowing every creature in the herd
@@ -61,7 +61,7 @@ The subtle hesitation—like a word
 Misspoken that the listening ear's sharp eye
 
 Can catch before the speaker's finished—
-{{c|Gorgo}} heard the hesitation in the gait
+{{c|1722|Gorgo}} heard the hesitation in the gait
 Of her prey before the chase had diminished
 To a sprint, and chose the one whose fate
 
@@ -82,7 +82,7 @@ Years of prior life preparing to seek
 This form: predator of one medallion
 
 Design above all others, matched against
-{{c|Dicyno}}'s horn-beaked millions grazing wide
+{{c|1723|Dicyno}}'s horn-beaked millions grazing wide
 Across the {{p|Pangean}} plain—the tense
 And beautiful equation of the pride
 
@@ -97,7 +97,7 @@ Might never have grown large; without the tether
 Of predation's haunt,
 
 The prey grows careless, soft, abundant, slow—
-And so {{c|Gorgo}} was the gift that {{c|Dicyno}}
+And so {{c|1722|Gorgo}} was the gift that {{c|1723|Dicyno}}
 Did not want but needed: the shadow
 That made the herd alert and on the go.
 
@@ -112,7 +112,7 @@ Of geological time, a brief campaign
 Of dominance before the arriving death
 
 Of circumstance beyond all strategy.
-But while it lasted, honor {{c|Gorgo}}'s reign—
+But while it lasted, honor {{c|1722|Gorgo}}'s reign—
 The saber and the sprint, the mastery
 Of reading life and taking it again
 

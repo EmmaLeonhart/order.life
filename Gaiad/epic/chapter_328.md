@@ -3,10 +3,10 @@
 From the eighteenth to the twenty-second of December, 1978,
 The {{x|Central Committee}} sat in {{p|Beijing}}.
 It was the third session of the eleventh committee.
-{{c|Hua Guofeng}} presided.
+{{c|4440|Hua Guofeng}} presided.
 He was the chairman.
 The session did not remove him.
-{{c|Deng Xiaoping}} was a vice-chairman.
+{{c|4464|Deng Xiaoping}} was a vice-chairman.
 On the thirteenth, five days before the session opened,
 At the close of the working conference, he spoke.
 The speech asks for the mind to be unbound,
@@ -16,7 +16,7 @@ The speech is not the communique.
 
 The communique was adopted on the twenty-second.
 It said the large movement to expose and criticize
-{{c|Lin Biao}} and the gang of four
+{{c|4435|Lin Biao}} and the gang of four
 Had in the main been completed,
 And it said victoriously.
 The word is the communique's.
@@ -27,7 +27,7 @@ As of 1979.
 A shift of the work is not a resignation of the party.
 The session was not a vote of the country.
 Do not say the chairman's title passed that week.
-A later telling calls {{c|Deng Xiaoping}} the leader from this session.
+A later telling calls {{c|4464|Deng Xiaoping}} the leader from this session.
 The titles in the communique are the titles of that week.
 A later change of chairman is not this December.
 
@@ -37,9 +37,9 @@ The two states announced
 That relations would begin on the first of January.
 Do not collapse the two dates of the announcement.
 On the twenty-ninth of January, 1979,
-{{c|Deng Xiaoping}} was received in {{p|Washington}},
+{{c|4464|Deng Xiaoping}} was received in {{p|Washington}},
 As vice premier.
-{{c|Jimmy Carter}} welcomed him.
+{{c|4465|Jimmy Carter}} welcomed him.
 On the thirty-first they signed agreements
 On science, and on culture.
 A communique dated the official visit through the fourth of February.
@@ -52,10 +52,10 @@ The work was turned toward modernization.
 The chairman stayed.
 
 On the sixteenth of January, 1979,
-{{c|Mohammad Reza Pahlavi}} left {{p|Tehran}}.
+{{c|4466|Mohammad Reza Pahlavi}} left {{p|Tehran}}.
 No abdication was signed.
-{{c|Shapour Bakhtiar}} remained the prime minister.
-On the first of February {{c|Ruhollah Khomeini}} landed
+{{c|4467|Shapour Bakhtiar}} remained the prime minister.
+On the first of February {{c|4468|Ruhollah Khomeini}} landed
 At the airport in the city,
 At half past nine in the morning, by that city's clock.
 The aircraft was a chartered plane of {{x|Air France}}.

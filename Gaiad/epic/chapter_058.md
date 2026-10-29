@@ -1,41 +1,41 @@
-# Chapter 58: The {{c|Fungal}} Kingdom
+# Chapter 58: The {{c|90834|Fungal}} Kingdom
 
-{{c|Dikar}} lived as parasite upon the sons
-Of {{c|Plantus}} bright, from lineage of great fame,
+{{c|1512|Dikar}} lived as parasite upon the sons
+Of {{c|322|Plantus}} bright, from lineage of great fame,
 The twentieth in line when day begun
-From {{c|Freyr}} and {{c|Hera}}'s marriage blessed by name.
+From {{c|1203|Freyr}} and {{c|1202|Hera}}'s marriage blessed by name.
 
 With two nuclei strong throughout his days
 He lived his whole life with both power and might,
 Through darkness and in glory's golden rays
 Both day and through the blessed, eternal night.
 
-{{c|Dikar}} married {{c|Ferma}} fair and true,
+{{c|1512|Dikar}} married {{c|1513|Ferma}} fair and true,
 Together they became a blessed pair
 Who bore two sons of fame before they knew
 Their lives would spread throughout the earth and air.
 
-{{c|Ascus}} and {{c|Baston}} were their children's names,
+{{c|1514|Ascus}} and {{c|1515|Baston}} were their children's names,
 Both parasites alike upon the sons
-Of {{c|Plantus}}, where they'd strike like burning flames
+Of {{c|322|Plantus}}, where they'd strike like burning flames
 And take what served their needs when day begun.
 
-{{c|Ascus}} became the father of {{c|Cup}} {{c|Fungi}},
+{{c|1514|Ascus}} became the father of {{c|1516|Cup}} {{c|908|Fungi}},
 And rather than pursue some other way
 He chose to rule where forest floor grows green
 And stay within his realm throughout the day.
 
-{{c|Baston}} became the noble sire of those
+{{c|1515|Baston}} became the noble sire of those
 Who rise as mushrooms from the forest ground,
 Their choir of voices singing as they rose
 From here forevermore with joyful sound.
 
-{{c|Ascus}} begat two sons of different ways:
-{{c|Taphrin}} at dawn and {{c|Saccharos}} so bright,
+{{c|1514|Ascus}} begat two sons of different ways:
+{{c|1517|Taphrin}} at dawn and {{c|1518|Saccharos}} so bright,
 Each chose to spend their long and faithful days
 In service to their own appointed sight.
 
-{{c|Taphrin}} lived small and plain through sun and rain
+{{c|1517|Taphrin}} lived small and plain through sun and rain
 As yeast within the plants, following dreams,
 He grew in form through calm and stormy strain,
 And when he doubled size, then split, it seems,
@@ -55,7 +55,7 @@ With pneumocystis when our guards grow weak,
 When our defenses fail through loss or strain
 From what we ought to fear but do not seek.
 
-{{c|Saccharos}}, noble son of great {{c|Ascus}},
+{{c|1518|Saccharos}}, noble son of great {{c|1514|Ascus}},
 Abandoned what his father's way begun
 And chose a path less parasitic, thus
 He found a different way when day was done.
@@ -66,18 +66,18 @@ To live within the soil, free from the schism
 Of stealing from others what they had risen
 
 To create through their own faithful labor,
-{{c|Saccharos}} bore two sons in days of old:
-{{c|Peziz}} at dawn and {{c|Melchizedek}}, savior
+{{c|1518|Saccharos}} bore two sons in days of old:
+{{c|1519|Peziz}} at dawn and {{c|1520|Melchizedek}}, savior
 Whose story must forever more be told.
 
-Great {{c|Melchizedek}} became a humble cell:
+Great {{c|1520|Melchizedek}} became a humble cell:
 A yeast both small and true who'd do great things,
 His sons budded from him, and though some tell
 That such simplicity no glory brings,
 
 In spheres of purity they'd multiply
 And spread throughout the world with gentle grace.
-{{c|Melchizedek}} became the {{c|Eloh}} high
+{{c|1520|Melchizedek}} became the {{c|940|Eloh}} high
 Of bread and beer for all the human race.
 
 He is the greatest among all the yeast,
@@ -90,27 +90,27 @@ That lifts our daily bread toward the sky
 And draws down grace and mercy from above
 Through his eternal love that will not die.
 
-{{c|Peziz}} bore countless sons throughout his days,
-Among them {{c|Lopez}} bright and {{c|Orbillus}}
+{{c|1519|Peziz}} bore countless sons throughout his days,
+Among them {{c|1521|Lopez}} bright and {{c|1522|Orbillus}}
 Who'd walk their own appointed, separate ways
 And serve the world in ways quite glorious.
 
-{{c|Orbillus}} hunted sons of {{c|Nematon}},
+{{c|1522|Orbillus}} hunted sons of {{c|1523|Nematon}},
 He'd eat what made his life complete and whole,
 A worm became his meal when day was done
 And satisfied the hunger of his soul.
 
-But {{c|Lopez}} bore two sons of different hearts:
-{{c|Ganymede}} at dawn and {{c|Leotios}}
+But {{c|1521|Lopez}} bore two sons of different hearts:
+{{c|107|Ganymede}} at dawn and {{c|1524|Leotios}}
 Whose glory shows in all their faithful parts
 And in the beauty that forever glows.
 
-{{c|Ganymede}} became ancestor blessed
+{{c|107|Ganymede}} became ancestor blessed
 Of cup fungi so bright that fill the world
 With sight for those who seek their very best
 And keep their banners of hope unfurled.
 
-But {{c|Leotios}} became the father true
+But {{c|1524|Leotios}} became the father true
 Of forms that would much rather complex be
 Than simple—filamentous through and through
 With great complexity for all to see,
@@ -120,17 +120,17 @@ Extend beyond the microscopic scale,
 In their detailed story through all their days
 They keep their fascinating, detailed tale.
 
-{{c|Leotios}} begat two sons of might:
-{{c|Pyrenos}} true and {{c|Lecanius}} the strong
+{{c|1524|Leotios}} begat two sons of might:
+{{c|1525|Pyrenos}} true and {{c|1526|Lecanius}} the strong
 Who lived his whole life in the blessed light
 And sang his faithful, everlasting song.
 
-{{c|Lecanius}} became the noble sire
+{{c|1526|Lecanius}} became the noble sire
 Of lichens' choir that we see today
 And more who left that ancient partnership's fire
 To take their own appointed, separate way:
 
-{{c|Penicillius}}, who made the blessed cheese
+{{c|1527|Penicillius}}, who made the blessed cheese
 So blue and never strayed from his true role
 Of healing, bringing bodies their release
 With penicillin's power to make whole
@@ -140,13 +140,13 @@ From his appointed might that makes things right,
 His gift of healing makes the pathway clear
 To health restored and recovery's sweet sight.
 
-And {{c|Capnos}} became father of the race
+And {{c|1528|Capnos}} became father of the race
 Of those who'd rather live as soot mold does
 Throughout each day, and in their dwelling place
 They serve the world with quiet, faithful love.
 
-{{c|Baston}} begat two sons of different ways:
-{{c|Ortho}} at dawn and bright {{c|Puccini}} too,
+{{c|1515|Baston}} begat two sons of different ways:
+{{c|1529|Ortho}} at dawn and bright {{c|1530|Puccini}} too,
 Whose progeny would spend their faithful days
 As rusts with genomes large and life cycles new
 
@@ -165,7 +165,7 @@ That evolution's wisdom does assign
 And serve the world with faithful, loving heart
 That makes all life more beautiful, divine.
 
-{{c|Botry}}, the son of great {{c|Puccini}}'s line,
+{{c|1531|Botry}}, the son of great {{c|1530|Puccini}}'s line,
 Rejected what had been multicellular
 And chose a simpler, more particular
 Design to make his life more pure, divine.
@@ -175,12 +175,12 @@ Within his own appointed, sacred zone
 Where he could find his blessed, sweet release
 From complexity, content to be alone.
 
-{{c|Ortho}} begat two sons of different fame:
-{{c|Ustella}} and {{c|Agaricus}} so bright
+{{c|1529|Ortho}} begat two sons of different fame:
+{{c|1532|Ustella}} and {{c|1533|Agaricus}} so bright
 Who'd fill the world with glory of their name
 And bless all those who walk within their sight.
 
-{{c|Ustella}} blesses all our corn each hour
+{{c|1532|Ustella}} blesses all our corn each hour
 With protein and with taste beyond compare
 That none should waste—her sweet, abundant power
 Fills harvest time with blessings rich and rare.
@@ -197,22 +197,22 @@ They bless them and they love them more and more
 
 Each day in their traditional, faithful way.
 Her daughters are beloved and adored
-In {{c|Mexico}}, where none would ever say
-A word against the gifts their blessed {{c|Lord}}
+In {{c|1534|Mexico}}, where none would ever say
+A word against the gifts their blessed {{c|295|Lord}}
 
 Has given through her gracious, generous hand
 When treated with the reverence they deserve
 And never left neglected in the land
 But honored as they faithfully serve.
 
-{{c|Agaricus}} left behind the parasitic mind
+{{c|1533|Agaricus}} left behind the parasitic mind
 And went to answer desert's lonely call,
 Away from green and tall trees he'd find
 His home where few would ever come at all.
 
-{{c|Agaricus}} bore four sons of great worth:
-{{c|Jello}} at dawn, {{c|Bartholomew}}, {{c|William}},
-And {{c|Gemini}} the twin—throughout the earth
+{{c|1533|Agaricus}} bore four sons of great worth:
+{{c|1535|Jello}} at dawn, {{c|1536|Bartholomew}}, {{c|1537|William}},
+And {{c|1538|Gemini}} the twin—throughout the earth
 Four sons who'd never let their light grow dim
 
 Against their father's ways through all their days
@@ -220,9 +220,9 @@ But serve with faithful hearts both true and strong
 And sing his glory in their faithful praise
 Throughout their lives and in their faithful song.
 
-{{c|Jello}} formed vessels bright of gel to hold
+{{c|1535|Jello}} formed vessels bright of gel to hold
 The sight of spores, and he returned once more
-To where {{c|Virginia}}'s forests, green and old,
+To where {{c|1539|Virginia}}'s forests, green and old,
 Burned bright with life from mountain peak to shore.
 
 In rain forests where aria of life
@@ -230,12 +230,12 @@ Rang out so clear for all who had an ear
 To hear above the noise and bitter strife
 The song of hope that conquers every fear.
 
-{{c|Jello}} became the father of those bright
-Who'd rather live as {{c|Tremello}} and as
-{{c|Dagar}}'s children in the blessed light
+{{c|1535|Jello}} became the father of those bright
+Who'd rather live as {{c|1540|Tremello}} and as
+{{c|1541|Dagar}}'s children in the blessed light
 Where peace and harmony forever pass.
 
-{{c|Tremello}} spent his youth as simple yeast
+{{c|1540|Tremello}} spent his youth as simple yeast
 But found the truth that adulthood would bring
 A different offering for the forest's feast:
 A jellyshroom, a bright and wondrous thing
@@ -245,12 +245,12 @@ With sweet delight both day and through the night,
 His gift of beauty floating in the air
 Would fill all hearts with everlasting light.
 
-{{c|Dagar}} became the noble sire of forms
-Whose deep desire was {{c|Dacrum}} and the line
-Of great {{c|Agaricus}} through all their storms
+{{c|1541|Dagar}} became the noble sire of forms
+Whose deep desire was {{c|1542|Dacrum}} and the line
+Of great {{c|1533|Agaricus}} through all their storms
 Who'd make their father's legacy divine.
 
-{{c|Tremello}} and {{c|Dacrum}} kept jellyshrooms made
+{{c|1540|Tremello}} and {{c|1542|Dacrum}} kept jellyshrooms made
 From gelatinous fruit that served them well
 Like armor in their bright, eternal parade,
 A suit of jel with stories they would tell
@@ -260,12 +260,12 @@ And gave them gifts of jelly fungi new
 That blessed the world from mountain top to shore
 With beauty that would make all hearts ring true.
 
-While great {{c|Agaricus}} made the first display
+While great {{c|1533|Agaricus}} made the first display
 Of mushroom's form that none had seen before
 From shore to shore throughout the light of day—
 A gift beyond what any could explore.
 
-The sons of great {{c|Agaricus}} create
+The sons of great {{c|1533|Agaricus}} create
 The most glorious mushrooms for our food
 When we are hungry and we cannot wait
 To taste their gifts so blessed and so good.
@@ -285,7 +285,7 @@ The toadstools that will surely your defeat
 With poison that will steal your very life
 And cut through health with their destructive knife.
 
-From {{c|Dikar}}'s parasitic, ancient start
+From {{c|1512|Dikar}}'s parasitic, ancient start
 To mushrooms' blessed and healing, sacred art,
 The fungi show the way that life can grow
 Each day beyond what we can ever know
@@ -293,7 +293,7 @@ Each day beyond what we can ever know
 From simple, small beginning in the ground
 To forms that victory and triumph crowned
 In battle for survival through the wise
-{{c|Arrival}} of the truth that never lies.
+{{c|1543|Arrival}} of the truth that never lies.
 
 From two nuclei strong throughout life's course
 To forms that last through time's eternal force
@@ -305,10 +305,10 @@ That partnership and love will conquer all
 When blessed by grace that flows from realms above
 And fills our hearts with everlasting love.
 
-From great {{c|Melchizedek}}'s yeast so blessed
+From great {{c|1520|Melchizedek}}'s yeast so blessed
 That makes our daily bread for the feast
 Of souls who hunger for the finest, best
-With blessings flowing from the great {{c|High}} {{c|Priest}},
+With blessings flowing from the great {{c|1544|High}} {{c|1545|Priest}},
 
 To lichens' partnership that makes the trip
 Between two different kinds with single mind
@@ -321,7 +321,7 @@ Who answer life's sweet call and freely give
 Their hearts to serve and answer love's sweet call.
 
 From parasitic ways to healing's bright
-{{c|Display}} of penicillin's sacred might
+{{c|1546|Display}} of penicillin's sacred might
 That makes the sick to see the blessed light
 Of health restored and everything made right,
 
@@ -352,7 +352,7 @@ And help us all to flourish and to strive.
 
 But we must beware the toxic ways
 Of those who spend their dark and bitter days
-{{c|Corrupting}} what is good and pure and right
+{{c|1547|Corrupting}} what is good and pure and right
 Into what steals away our blessed sight
 
 Of truth and beauty, love and harmony,
@@ -368,9 +368,9 @@ Where healing is the daily, blessed bread
 And love keeps every heart both warm and true
 In service to the good in me and you
 And every living soul that hears the ring
-Of hope's eternal, everlasting {{c|King}}.
+Of hope's eternal, everlasting {{c|1162|King}}.
 
-From {{c|Dikar}}'s ancient line to mushrooms blessed
+From {{c|1512|Dikar}}'s ancient line to mushrooms blessed
 That nourish and heal, the very best
 Remind us we can choose to trust each day
 In love's eternal power to show the way
@@ -386,7 +386,7 @@ With messages of love from realms above
 That fill our hearts with everlasting love.
 
 When we but dare to see what we can be:
-{{c|Partners}} in the dance of harmony
+{{c|1072|Partners}} in the dance of harmony
 That conquers death and fear and draws us near
 To feast where love makes everything grow clear.
 

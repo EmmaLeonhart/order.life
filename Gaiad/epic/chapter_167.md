@@ -18,18 +18,18 @@ Hierarchy. True monotheism—the claim that there is only one god,
 
 That no other gods exist even as subordinate or defeated beings—
 Is distinctive. And the claim that emerged from {{p|Babylonian}}-exile
-{{p|Judaism}} is specifically this: not merely that {{c|Yahweh}} is the
-Greatest god, nor that {{c|Yahweh}} is the only god worth worshipping,
+{{p|Judaism}} is specifically this: not merely that {{c|2182|Yahweh}} is the
+Greatest god, nor that {{c|2182|Yahweh}} is the only god worth worshipping,
 
-But that {{c|Yahweh}} is literally the only god—that all other "gods"
+But that {{c|2182|Yahweh}} is literally the only god—that all other "gods"
 Are delusions, wood and stone, nothing. This is a radical claim.
 It is not present in the earliest layers of the {{p|Hebrew Bible}}.
 It emerges in the later layers, especially during and after the
 
-Exile. Consider the evidence. Early biblical texts speak of {{c|Yahweh}}
+Exile. Consider the evidence. Early biblical texts speak of {{c|2182|Yahweh}}
 As greater than other gods, as chief among them, as jealous of
 {{p|Israelite}} loyalty, but they acknowledge that other gods exist.
-"Who is like you, O {{c|Yahweh}}, among the gods?" asks {{p|Exodus}} 15:11.
+"Who is like you, O {{c|2182|Yahweh}}, among the gods?" asks {{p|Exodus}} 15:11.
 
 This is henotheism: the worship of one god while acknowledging
 Others. The first commandment itself—"You shall have no other
@@ -42,23 +42,23 @@ The exile period—especially {{p|Second Isaiah}} (the anonymous prophet
 Whose oracles are preserved in chapters forty through fifty-five
 
 Of the {{p|Book of Isaiah}}, composed during the {{p|Babylonian}} exile)—
-Move beyond henotheism to explicit monotheism. "I am {{c|Yahweh}},
+Move beyond henotheism to explicit monotheism. "I am {{c|2182|Yahweh}},
 And there is no other; besides me there is no god" ({{p|Isaiah}} 45:5).
 "I am the first and I am the last; besides me there is no god"
 
 ({{p|Isaiah}} 44:6). "The idols of the nations are silver and gold,
 The work of human hands; they have mouths, but do not speak; they
 Have eyes, but do not see" ({{p|Psalm}} 115:4-5). This is not henotheism.
-This is a new claim: that only {{c|Yahweh}} is real, that other gods
+This is a new claim: that only {{c|2182|Yahweh}} is real, that other gods
 
 Are illusions, that worship of them is folly. The theological
-Stakes of this claim are enormous. If only {{c|Yahweh}} is real, then
-{{c|Yahweh}} is not only {{p|Israel}}'s god but the god of all nations
-(Even if they do not know it). If only {{c|Yahweh}} is real, then
+Stakes of this claim are enormous. If only {{c|2182|Yahweh}} is real, then
+{{c|2182|Yahweh}} is not only {{p|Israel}}'s god but the god of all nations
+(Even if they do not know it). If only {{c|2182|Yahweh}} is real, then
 
-{{c|Yahweh}} controls history universally, not just {{p|Israel}}'s portion.
-If only {{c|Yahweh}} is real, then the cosmic moral structure applies
-To all humanity. And if only {{c|Yahweh}} is real, then the religious
+{{c|2182|Yahweh}} controls history universally, not just {{p|Israel}}'s portion.
+If only {{c|2182|Yahweh}} is real, then the cosmic moral structure applies
+To all humanity. And if only {{c|2182|Yahweh}} is real, then the religious
 Diversity of the nations is not a competition among different
 
 Deities but a universal confusion about the one true god. The
@@ -74,13 +74,13 @@ Several interacting factors. First, the experience of exile itself.
 
 Ancient religions were typically territorial: each god had a land,
 A people, a specific place of dwelling. To be deported from your
-Land was typically to be separated from your god. If {{c|Yahweh}} was
+Land was typically to be separated from your god. If {{c|2182|Yahweh}} was
 A territorial god of {{p|Judah}}, then the exiles in {{p|Babylon}} had
 
 Left him behind. The exilic community had to choose: either
-{{c|Yahweh}} had been defeated by {{c|Marduk}} (and therefore abandoned them),
-Or {{c|Yahweh}} had power extending beyond {{p|Judah}}. They chose the
-Second option. They developed the theology that {{c|Yahweh}} was
+{{c|2182|Yahweh}} had been defeated by {{c|2021|Marduk}} (and therefore abandoned them),
+Or {{c|2182|Yahweh}} had power extending beyond {{p|Judah}}. They chose the
+Second option. They developed the theology that {{c|2182|Yahweh}} was
 
 Everywhere—in {{p|Babylon}} as in {{p|Jerusalem}}, in {{p|Ur}} as in {{p|Bethel}}.
 This is deterritorialization, and it is a major theological
@@ -89,18 +89,18 @@ Specific land, you are already moving toward universalism. Second,
 
 The experience of living in the heart of {{p|Babylonian}} religion
 Forced confrontation with the question of divine power. The
-{{p|Babylonians}} worshipped {{c|Marduk}}, {{c|Nabu}}, {{c|Ishtar}}, and other deities
+{{p|Babylonians}} worshipped {{c|2021|Marduk}}, {{c|2275|Nabu}}, {{c|1976|Ishtar}}, and other deities
 With massive institutional structures—temples, priesthoods,
 
 Festivals, elaborate cosmogonies. The exiles saw {{p|Babylonian}}
 Religion up close, in all its grandeur. They could have assimilated.
-They could have decided their god was inferior to {{c|Marduk}} and
+They could have decided their god was inferior to {{c|2021|Marduk}} and
 Converted. Some probably did—the silent drift of assimilation
 
 Is a normal feature of exile populations. But those who remained
 {{p|Judean}} had to articulate why they should. And the most powerful
 Articulation turned out to be: the {{p|Babylonian}} gods are illusions,
-Stone and wood, incapable of the real power that only {{c|Yahweh}}
+Stone and wood, incapable of the real power that only {{c|2182|Yahweh}}
 
 Possesses. This denigration of rival gods sharpened into
 Metaphysical denial of their existence. Not merely inferior, but
@@ -110,7 +110,7 @@ Discussed how {{p|Zoroastrianism}}'s theological categories influenced
 {{p|Jewish}} thinking during this period. The concept of cosmic moral
 Dualism, of a supreme good creator, of a final judgment—these
 {{p|Persian}} ideas entered {{p|Jewish}} thought in the sixth and fifth
-Centuries BCE. And the {{p|Persian}} conception of {{c|Ahura Mazda}} as the
+Centuries BCE. And the {{p|Persian}} conception of {{c|2166|Ahura Mazda}} as the
 
 Universal creator was, despite {{p|Zoroastrian}} dualism, closer to
 Monotheism than was {{p|Babylonian}} polytheism. The exilic {{p|Jews}}
@@ -155,7 +155,7 @@ Community. This institutional innovation democratized {{p|Jewish}}
 Religious life and made it portable. Diasporic {{p|Jews}} could maintain
 Their faith wherever they were. And the theological content of
 Synagogue worship—the recitation of {{p|Torah}}, the prayers addressing
-{{c|Yahweh}} as universal creator—reinforced the monotheistic framework.
+{{c|2182|Yahweh}} as universal creator—reinforced the monotheistic framework.
 
 Take these factors together, and you have the conditions for the
 Birth of monotheism: deterritorialization, confrontation with rival
@@ -210,36 +210,36 @@ Reservations about its later forms.
                                         And consider who took the
 Lead in this theological transformation. The exilic and post-exilic
 Period produced some of the most remarkable religious personalities
-In world history. {{c|Ezekiel}}, the priest-prophet, who saw visions of
-{{c|Yahweh}}'s glory in {{p|Babylon}} itself, confirming that {{c|Yahweh}} was
+In world history. {{c|2272|Ezekiel}}, the priest-prophet, who saw visions of
+{{c|2182|Yahweh}}'s glory in {{p|Babylon}} itself, confirming that {{c|2182|Yahweh}} was
 
 Not bound to {{p|Jerusalem}}. His visions of the chariot-throne of
-{{c|Yahweh}} moving across the heavens are among the strangest and
+{{c|2182|Yahweh}} moving across the heavens are among the strangest and
 Most influential in religious literature, founding the tradition
 Of {{p|Jewish}} mysticism (the {{p|Merkavah}} or chariot mysticism that
 
-Would feed into later {{p|Kabbalah}}). {{c|Jeremiah}}, the weeping prophet,
+Would feed into later {{p|Kabbalah}}). {{c|1922|Jeremiah}}, the weeping prophet,
 Who had warned against rebellion before the fall of {{p|Jerusalem}}
 And who witnessed its destruction; who was carried down to {{p|Egypt}}
 Against his will by the refugees and died there in exile. His
 
 Emotional intensity, his psychological interiority, his sense of
 Being called against his will to speak uncomfortable truths—all
-These make {{c|Jeremiah}} a prototype of the dissenting religious
+These make {{c|1922|Jeremiah}} a prototype of the dissenting religious
 Prophet. {{p|Second Isaiah}}, whom we have already mentioned, whose
 
 Anonymous oracles from the exile are among the most exalted
-Religious poetry ever composed, whose declarations of {{c|Yahweh}}'s
+Religious poetry ever composed, whose declarations of {{c|2182|Yahweh}}'s
 Sole divinity and whose "servant songs" (with their haunting
 Imagery of a suffering servant through whose pain the nations
 
 Will be redeemed) would shape {{p|Christian}} and {{p|Jewish}} messianic
-Hope for millennia. {{c|Ezra}}, the scribe-priest who returned from
+Hope for millennia. {{c|2276|Ezra}}, the scribe-priest who returned from
 {{p|Babylon}} and led the post-exilic community in reformulating its
 Religion around the {{p|Torah}}, organizing public readings of scripture,
 
 Enforcing marital purity laws, and building the institutional
-Structures of post-exilic {{p|Judaism}}. {{c|Nehemiah}}, the court official
+Structures of post-exilic {{p|Judaism}}. {{c|2277|Nehemiah}}, the court official
 Who obtained {{p|Persian}} permission to rebuild {{p|Jerusalem}}'s walls
 And then governed the restored community, protecting it from its
 
@@ -254,32 +254,32 @@ In the sixth and fifth centuries BCE. The theological productivity
 Of that small community is staggering.
 
                                          And the return itself, when
-It came, was complicated. {{c|Cyrus}}'s edict of five-thirty-eight BCE
+It came, was complicated. {{c|2180|Cyrus}}'s edict of five-thirty-eight BCE
 Permitted the {{p|Judean}} exiles to return to {{p|Jerusalem}} and rebuild
 The temple. But not all exiles returned. Many had built lives in
 
 {{p|Babylon}}; some were doing well; some had assimilated. The returnees
 Were a minority of the exilic population, and they found a devastated
 Country, hostile neighbors (especially the {{p|Samaritans}}, who had
-Their own claim to {{c|Yahweh}}-worship), and the challenging task of
+Their own claim to {{c|2182|Yahweh}}-worship), and the challenging task of
 
 Rebuilding. The {{p|Second Temple}} was completed in five-sixteen BCE,
 Eighty years after the destruction of the first temple, under the
-Leadership of {{c|Zerubbabel}} (a descendant of the {{c|Davidic}} line) and
-The high priest {{c|Joshua}}. But the {{p|Second Temple}} was a smaller,
+Leadership of {{c|2278|Zerubbabel}} (a descendant of the {{c|2214|Davidic}} line) and
+The high priest {{c|2141|Joshua}}. But the {{p|Second Temple}} was a smaller,
 
-Less glorious structure than {{c|Solomon}}'s original. And the political
+Less glorious structure than {{c|2189|Solomon}}'s original. And the political
 Situation of the restored community was limited: they were a
 {{p|Persian}} province ({{p|Yehud Medinata}}), governed by a {{p|Persian}}-appointed
 High priest. There was no independent {{p|Judean}} king. The {{p|Davidic}}
 
 Dynasty remained a religious memory and a future hope, not a
 Current political reality. This tension—between the theological
-Claim that {{c|Yahweh}} had chosen the {{c|Davidic}} line eternally and the
-Political fact that no {{c|Davidic}} king ruled—would generate messianic
+Claim that {{c|2182|Yahweh}} had chosen the {{c|2214|Davidic}} line eternally and the
+Political fact that no {{c|2214|Davidic}} king ruled—would generate messianic
 
 Expectations for centuries. Who would be the promised son of
-{{c|David}} who would restore {{p|Israel}}'s sovereignty? Generations waited.
+{{c|1956|David}} who would restore {{p|Israel}}'s sovereignty? Generations waited.
 {{p|Jewish}} apocalyptic literature developed in response, envisioning
 A future divine intervention that would end the current evil age
 
@@ -350,12 +350,12 @@ But part of a pattern that characterizes the whole of {{p|Eurasian}}
 Religious history in the middle of the first millennium BCE.
 
                                                                 {{p|Babylonian}}
-Exile. {{p|Second Isaiah}}. {{c|Ezekiel}}'s chariot vision. {{c|Jeremiah}}'s tears.
+Exile. {{p|Second Isaiah}}. {{c|2272|Ezekiel}}'s chariot vision. {{c|1922|Jeremiah}}'s tears.
 The birth of scripture-centered religion. The synagogue as
 Portable temple. The theological leap from henotheism to
-Monotheism. {{c|Yahweh}} as sole god, not merely greatest. The {{p|Persian}}
+Monotheism. {{c|2182|Yahweh}} as sole god, not merely greatest. The {{p|Persian}}
 
-Influence. {{c|Cyrus}}'s edict. The return and rebuilding. The
+Influence. {{c|2180|Cyrus}}'s edict. The return and rebuilding. The
 {{p|Second Temple}}. The messianic hope deferred. The apocalyptic
 Literature that would flower. The conceptual framework that
 Would shape three {{x|Abrahamic}} religions.

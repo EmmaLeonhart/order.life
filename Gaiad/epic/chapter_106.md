@@ -7,7 +7,7 @@ The ornithischian answer, the ornate
 
 And weaponized response to the predator's art.
 
-{{c|Ceratops}} was {{c|Ornithis}}' finest shield—
+{{c|1762|Ceratops}} was {{c|1741|Ornithis}}' finest shield—
 The horned face, the frilled and bony heart
 Of defense displayed like a medieval field
 
@@ -27,16 +27,16 @@ And the horns could gore, and the display field
 Of species-recognition turned the collars
 
 Of every ceratopsian herd into a gallery
-Of the living art: {{c|Triceratops}} with three,
-{{c|Styracosauros}} with his spiked salary
-Of frill-horns, {{c|Centrosauros}} in a spree
+Of the living art: {{c|1763|Triceratops}} with three,
+{{c|1764|Styracosauros}} with his spiked salary
+Of frill-horns, {{c|1765|Centrosauros}} in a spree
 
 Of nasal ornament—each species wrote
 Its identity on the skull for all to read,
 And the {{x|Cretaceous}} plains were the moat
 And kingdom of the horned ones' creed.
 
-They charged the {{c|Tyrannos}} when he came—
+They charged the {{c|1761|Tyrannos}} when he came—
 The brow-horns aimed at the predator's flank,
 The frill protecting the vulnerable claim
 Of the neck—and the herd's collective rank
@@ -64,10 +64,10 @@ The other's final defenses, and the draw
 Of their perpetual warfare was the {{x|Cretaceous}} way.
 
 And beside the horned ones, the crested:
-{{c|Hadros}}, the duck-billed, who displayed a different day
+{{c|1766|Hadros}}, the duck-billed, who displayed a different day
 Of ornament: the hollow crested
 
-Skulls that {{c|Parasauros}} wore, the tube
+Skulls that {{c|1767|Parasauros}} wore, the tube
 And trumpet of bone that resonated
 With the animal's voice—a living {{x|YouTube}}
 Of communication, each crest calibrated
@@ -89,7 +89,7 @@ Of hunger—the communication-prongs
 
 Of a social life as complex as any mammal's.
 
-{{c|Hadros}} and {{c|Ceratops}} together
+{{c|1766|Hadros}} and {{c|1762|Ceratops}} together
 Were the {{x|Cretaceous}} herbivore's mammals—
 If mammals is the word for whatever
 
@@ -103,17 +103,17 @@ Defend together, communicate, and raise
 Your young with care through every weather—
 And the herd survives the tyrant's gaze.
 
-{{c|Ankylos}} too earned mention—the armored tank
+{{c|1768|Ankylos}} too earned mention—the armored tank
 Of the ornithischian line, whose body bore
 A dorsal pavement of bone-plate and flank-
 Armor that no predator could score
 
 With tooth or claw—and at his tail-end swung
 The club: a bony mace that could shatter
-Even {{c|Tyrannos}}' leg—the young
+Even {{c|1761|Tyrannos}}' leg—the young
 And old alike protected by the matter
 
-Of living stone that {{c|Ankylos}} wore.
+Of living stone that {{c|1768|Ankylos}} wore.
 
 Honor the horned, the crested, the armored—
 The herbivore's answer to the carnivore's store

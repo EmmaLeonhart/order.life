@@ -1,15 +1,15 @@
 # Chapter 116: The Marsupials
 
-Now hear of {{c|Marsupios}}—the second-born
-Of {{c|Mammos}}' ancient house, who chose
+Now hear of {{c|1774|Marsupios}}—the second-born
+Of {{c|1743|Mammos}}' ancient house, who chose
 A different covenant than the first-born
-{{c|Monotremos}}, and a different way from those
+{{c|1773|Monotremos}}, and a different way from those
 
-Who would come last: for {{c|Marsupios}} invented
+Who would come last: for {{c|1774|Marsupios}} invented
 The pouch.
 
-            Not the womb—that was {{c|Placentos}}'
-Later innovation—{{c|Marsupios}} contented
+            Not the womb—that was {{c|1775|Placentos}}'
+Later innovation—{{c|1774|Marsupios}} contented
 Herself with this: a birth of intense
 
 And premature delivery—the newborn
@@ -30,7 +30,7 @@ And rapid birth exchanged for the extended care
 Of the pouch's warm interior.
 
                                 And this
-Was {{c|Marsupios}}' great advantage in the south:
+Was {{c|1774|Marsupios}}' great advantage in the south:
 When drought or fire destroyed the bliss
 Of a good year, the mother's mouth
 
@@ -45,14 +45,14 @@ Where resources fail without warning.
 In {{p|Australia}}—that drifting, curled
 And isolate continent, the morning
 
-Of the {{x|Cenozoic}} found {{c|Marsupios}}
-Alone with {{c|Monotremos}}, and no placental
+Of the {{x|Cenozoic}} found {{c|1774|Marsupios}}
+Alone with {{c|1773|Monotremos}}, and no placental
 Competition—and the marsupial's dose
 Of adaptive radiation was monumental:
 
 Into every niche the mammals could imagine,
 The marsupials radiated on that island continent—
-{{c|Macropos}} invented hopping: the badgin
+{{c|1778|Macropos}} invented hopping: the badgin
 Of energy-storage in the tendon's bent
 
 And elastic spring that made the kangaroo
@@ -67,7 +67,7 @@ Of standing still, once the kangaroo's slow
 
 Acceleration reached its cruising speed.
 
-{{c|Thylacos}}—the thylacine—was the marsupial's
+{{c|1779|Thylacos}}—the thylacine—was the marsupial's
 Answer to the wolf: a dog indeed
 In everything but ancestry, the visual
 
@@ -88,7 +88,7 @@ Of cooperative hunting, the elemental
 
 Logic of the predator.
 
-                         And {{c|Diprotodontos}}—
+                         And {{c|1780|Diprotodontos}}—
 The giant wombat, two tons of herbivore,
 The largest marsupial whose confronting
 Of the {{x|Pleistocene}} grasslands was the core
@@ -116,7 +116,7 @@ Of competition—but the opossum raided
 
 Northward in return, the only marsupial
 To conquer the placental's territory—
-{{c|Didelphis}}, the opossum, the unusual
+{{c|1781|Didelphis}}, the opossum, the unusual
 And ancient generalist whose inventory
 
 Of survival skills included playing dead,
@@ -127,7 +127,7 @@ And humble opossum would outlast
 Every specialized competitor by being
 Nothing in particular but alive.
 
-Honor {{c|Marsupios}}—the seeing
+Honor {{c|1774|Marsupios}}—the seeing
 And the pouched, who proved that to survive
 
 Is not always to compete but to find

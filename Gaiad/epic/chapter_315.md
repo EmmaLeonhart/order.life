@@ -3,7 +3,7 @@
 On the nineteenth of August, 1953, in {{p|Jerusalem}},
 The {{x|Knesset}} passed a law.
 It established an authority of remembrance
-And named the authority with two words from {{c|Isaiah}}.
+And named the authority with two words from {{c|2181|Isaiah}}.
 A hand and a name.
 The verse had been spoken to the childless:
 A memorial and a name, better than sons and daughters,
@@ -17,7 +17,7 @@ The charge was the statute.
 
 The law's first article is the six million
 Of the {{x|Jewish}} people murdered
-By the {{c|Nazis}} and those who helped them.
+By the {{c|4371|Nazis}} and those who helped them.
 It names also the households, the communities,
 The houses of prayer, the schools,
 The institutions of mercy,
@@ -33,15 +33,15 @@ Before any memorial had a statute.
 On the twenty-second of June, 1941,
 {{p|Germany}} invaded the {{p|Soviet Union}}.
 In the territory taken that summer,
-{{c|Jews}} were shot beside the towns.
+{{c|2500|Jews}} were shot beside the towns.
 On the twenty-ninth and the thirtieth of September,
 At {{p|Babyn Yar}}, the ravine at {{p|Kyiv}},
-The {{c|Jews}} who had been gathered there were shot.
+The {{c|2500|Jews}} who had been gathered there were shot.
 A ravine is a place and two days.
 It is not an explanation.
 
-On the thirty-first of July, {{c|Hermann Göring}}
-Charged {{c|Reinhard Heydrich}}
+On the thirty-first of July, {{c|4372|Hermann Göring}}
+Charged {{c|4373|Reinhard Heydrich}}
 To prepare what they called the final solution
 Of the {{x|Jewish}} question in {{p|Europe}}.
 An order to prepare is not the first grave.
@@ -49,8 +49,8 @@ The shootings were already underway.
 
 On the twentieth of January, 1942,
 At {{p|Wannsee}}, in {{p|Berlin}},
-{{c|Heydrich}} sat with the officials of the ministries.
-The minutes count eleven million {{c|Jews}} in {{p|Europe}}
+{{c|4374|Heydrich}} sat with the officials of the ministries.
+The minutes count eleven million {{c|2500|Jews}} in {{p|Europe}}
 As the people the plan named.
 That count is the plan's.
 It is not the number of the dead.
@@ -72,8 +72,8 @@ Do not give the end of the killing
 To the day an army arrived.
 
 The same law names a further charge.
-Those who were not {{c|Jews}},
-And who risked their lives to keep a {{c|Jew}} from being taken.
+Those who were not {{c|2500|Jews}},
+And who risked their lives to keep a {{c|2510|Jew}} from being taken.
 It calls them the righteous among the nations.
 In that year the law did not judge the cases.
 The judging came later, one person at a time,

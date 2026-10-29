@@ -88,8 +88,8 @@ The harvest before a broken shrine, in this chapter,
 Is the autumn of 1945.
 Forty-five years later the first harvest rite of a reign
 Was done again.
-{{c|Hirohito}} died on the seventh of January, 1989.
-{{c|Akihito}} was emperor from that day.
+{{c|4377|Hirohito}} died on the seventh of January, 1989.
+{{c|4469|Akihito}} was emperor from that day.
 The era is called {{x|Heisei}}.
 The night rite did not make him emperor.
 

@@ -59,7 +59,7 @@ Peoples moved across the eastern {{p|Mediterranean}} during these years.
 The most famous are the {{p|Sea Peoples}}—a coalition of seaborne
 Raiders whose name is known only from {{p|Egyptian}} inscriptions at
 
-{{p|Medinet Habu}} and elsewhere. {{c|Ramesses III}}, the last great pharaoh
+{{p|Medinet Habu}} and elsewhere. {{c|2140|Ramesses III}}, the last great pharaoh
 Of the {{x|New Kingdom}}, fought the {{p|Sea Peoples}} in two massive
 Engagements around eleven-seventy BCE. His victory saved {{p|Egypt}}
 From total conquest but could not save the {{p|Levantine}} provinces.
@@ -136,27 +136,27 @@ Next several chapters. But here, in this chapter, we must also
 Tell the other two events: the {{x|Exodus}} and the {{x|Trojan War}}.
 
 Consider first the {{p|Exodus}}. According to the biblical narrative,
-{{c|Moses}} led the {{p|Israelites}} out of {{p|Egyptian}} bondage through a
+{{c|1006|Moses}} led the {{p|Israelites}} out of {{p|Egyptian}} bondage through a
 Series of plagues, a parting of the {{p|Red Sea}} (or, more accurately
 In the {{p|Hebrew}}, the {{p|Reed Sea}}, {{p|Yam Suph}}), a forty-year wandering
 
 In the wilderness of {{p|Sinai}}, and an eventual arrival in {{p|Canaan}}
-Under {{c|Joshua}}. The chronology given in the {{p|Hebrew Bible}}, if
+Under {{c|2141|Joshua}}. The chronology given in the {{p|Hebrew Bible}}, if
 Taken at face value, places the {{p|Exodus}} in the fifteenth or
 Fourteenth century BCE. But modern scholarly consensus, where it
 
 Reaches any consensus at all, favors a thirteenth-century BCE
-Dating—specifically during the reign of {{c|Ramesses II}} or his
-Successor {{c|Merneptah}}. The {{p|Merneptah Stele}}, inscribed around
+Dating—specifically during the reign of {{c|2033|Ramesses II}} or his
+Successor {{c|2093|Merneptah}}. The {{p|Merneptah Stele}}, inscribed around
 Twelve-oh-nine BCE, contains the first extra-biblical reference
 
 To "{{p|Israel}}" as a people in {{p|Canaan}}—the stele boasts that
-{{c|Merneptah}} has defeated {{p|Israel}}, which implies that {{p|Israel}} existed
+{{c|2093|Merneptah}} has defeated {{p|Israel}}, which implies that {{p|Israel}} existed
 As a recognizable entity in {{p|Canaan}} by that date. This gives a
 Rough terminus ante quem: however and whenever the {{p|Israelites}}
 
 Got to {{p|Canaan}}, they were there by twelve-oh-nine BCE. The {{x|Gaiad}}
-Has already treated the specific narrative of {{c|Moses}} and the
+Has already treated the specific narrative of {{c|1006|Moses}} and the
 {{p|Exodus}}—and will revisit it briefly here, because the {{p|Exodus}}
 Is now recognizable as part of the broader {{p|Bronze Age Collapse}}.
 
@@ -181,7 +181,7 @@ Escape across a parted sea—is the {{p|Israelite}} version of what the
 Cultural processings of the same civilizational crisis.
 
                                                          Consider
-Then the {{p|Trojan War}}. In the traditional dating of {{c|Eratosthenes}},
+Then the {{p|Trojan War}}. In the traditional dating of {{c|2142|Eratosthenes}},
 The {{p|Trojan War}} occurred around twelve-eighty-four to twelve-
 Seventy-four BCE—right at the beginning of the collapse. In the
 
@@ -202,13 +202,13 @@ Destabilizing world. The {{p|Trojan War}} is the {{p|Greek}} memory of the
 
 Late {{x|Bronze Age}} as it shuddered toward its end. Shortly after
 The war, the palaces that launched it were themselves destroyed.
-{{c|Agamemnon}}'s {{p|Mycenae}} burned within a generation of his victorious
-Return. {{c|Odysseus}}'s {{p|Ithaca}} faded into the {{x|Dark Age}}. The victors
+{{c|1337|Agamemnon}}'s {{p|Mycenae}} burned within a generation of his victorious
+Return. {{c|2112|Odysseus}}'s {{p|Ithaca}} faded into the {{x|Dark Age}}. The victors
 
 Of {{p|Troy}} outlived their victory by less than a century. Their
 Fall is implicit in the structure of the epic—{{p|Homer}} composes his
 Poems in the ninth or eighth century BCE, looking back across
-Four centuries at a vanished world. {{c|Agamemnon}}'s {{p|Mycenae}} is, for
+Four centuries at a vanished world. {{c|1337|Agamemnon}}'s {{p|Mycenae}} is, for
 
 {{p|Homer}}, already legend. The gold and bronze and chariots and
 Hundred-rowered ships—these are not part of {{p|Homer}}'s own world.
@@ -240,7 +240,7 @@ And the {{x|Gaiad}} makes a theological claim about this moment. The
 Collapse was not merely a disaster. It was also a birthing. In
 The rubble of the palatial economies, the preconditions for new
 Kinds of religion emerged. The god-king theocracies could not
-Survive without their bureaucratic substrate. When {{c|Pharaoh}} could
+Survive without their bureaucratic substrate. When {{c|2143|Pharaoh}} could
 
 No longer claim divine authority over a functioning state, the
 Idea of divine authority had to migrate elsewhere. It migrated
@@ -249,8 +249,8 @@ Eventually the philosophical writings of {{p|Greeks}} and {{p|Persians}} and
 
 {{p|Indians}} and {{p|Chinese}}. The {{x|Axial Age}} that follows—the great
 Religious and philosophical revolution of the sixth century BCE,
-Which will produce {{c|Buddha}}, {{c|Confucius}}, {{c|Laozi}}, {{c|Mahavira}}, the
-{{p|Hebrew}} prophets, {{c|Zarathustra}}, the pre-Socratic {{p|Greeks}}—this
+Which will produce {{c|1959|Buddha}}, {{c|1958|Confucius}}, {{c|2144|Laozi}}, {{c|2145|Mahavira}}, the
+{{p|Hebrew}} prophets, {{c|2146|Zarathustra}}, the pre-Socratic {{p|Greeks}}—this
 
 {{x|Axial Age}} is possible because the {{x|Bronze Age}} god-kings have fallen.
 Their collapse cleared the cultural space for new kinds of
@@ -270,7 +270,7 @@ Civilizational system had reached its limit. Its fall made room
 For what came next.
 
                    {{p|Bronze Age Collapse}}. {{p|Sea Peoples}}. Drought,
-Earthquake, rebellion, invasion, systems collapse. {{c|Ramesses III}}
+Earthquake, rebellion, invasion, systems collapse. {{c|2140|Ramesses III}}
 Saving {{p|Egypt}} at {{p|Medinet Habu}}. {{p|Hattusa}} burning. {{p|Mycenae}} burning.
 
 {{p|Ugarit}}'s last letter begging for help. {{p|Troy VII}} falling.

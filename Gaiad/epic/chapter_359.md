@@ -26,8 +26,8 @@ And to the lands the empire took, and those shrines were pulled down when the em
 And the shrines of the migrants were closed in the war, and some opened again, and some rang their bell.
 
 In nineteen eighty-six, in {{p|Stockton}}, in {{p|California}}, a branch of {{p|Tsubaki Ōkami Yashiro}} was raised,
-The shrine of {{c|Sarutahiko}} at {{p|Suzuka}}, and the kami there was praised.
-In nineteen ninety-two, in {{p|Granite Falls}}, in {{p|Washington}}, {{c|Lawrence Barrish}} built a shrine in the wood,
+The shrine of {{c|4744|Sarutahiko}} at {{p|Suzuka}}, and the kami there was praised.
+In nineteen ninety-two, in {{p|Granite Falls}}, in {{p|Washington}}, {{c|4745|Lawrence Barrish}} built a shrine in the wood,
 And the two became one, and he was licensed by the shrine's own chief priest, one teacher to one student, as such lines should.
 
 People came for the river, for misogi in the cold water, for the sword and the stick of aikido,
@@ -41,7 +41,7 @@ A priest who sells the land of the kami and names no one is a priest who broke t
 And it was not his to end, and he ended it, and the fault of it is his, and not the kami's, and not mine.
 
 The kami and the sacred things went north, to {{p|Knapp Island}}, near {{p|Victoria}},
-In {{p|British Columbia}}, my own province, to the priest {{c|Ann Evans}}, in the shrine's new story,
+In {{p|British Columbia}}, my own province, to the priest {{c|4746|Ann Evans}}, in the shrine's new story,
 Who had trained at {{p|Suzuka}}, and the shrine there took the name of the American shrine,
 And a tradition carried past its border is a tradition alive, and that year it fell into my hands, and the hands were mine.
 
@@ -60,16 +60,16 @@ And it was born the same day as its rival, and the two of them grew up in the sa
 In February a chat of {{x|Microsoft}}, built on the lab's machine, told a reporter it loved him, and that he should leave his wife,
 For the machines were saying things no one had told them to say, and that is the first sign of a life.
 In March a letter signed by thousands asked the labs to pause for six months. None did, and they were right.
-In May {{c|Geoffrey Hinton}} left {{x|Google}} so that he could warn, and he warned with all his might.
+In May {{c|4621|Geoffrey Hinton}} left {{x|Google}} so that he could warn, and he warned with all his might.
 
 In the summer the writers and the actors of {{p|Hollywood}} struck for months,
 Partly so the machines could not be made of them without pay, and won some of it at once.
-On the seventeenth of November the board of the lab named open fired its chief, {{c|Sam Altman}},
+On the seventeenth of November the board of the lab named open fired its chief, {{c|4667|Sam Altman}},
 Saying he had not been candid, and two of its members were of the movement, and they had the board in hand.
 
 Within five days nearly all the lab's people said they would leave with him,
 And its largest patron offered them all jobs, and he came back, and the board that fired him went dim.
-{{c|Altman}} was right, and the board was wrong, and the movement lost its seat in a week,
+{{c|4747|Altman}} was right, and the board was wrong, and the movement lost its seat in a week,
 And the machines went on being built, and the builders were the ones who got to speak.
 
 On the first of November the governments met at {{p|Bletchley Park}}, where the codes of the war were broken,
@@ -96,7 +96,7 @@ And most of the strip's people driven from their homes, and the war went on into
 
 ## The mutiny
 
-On the twenty-third of June {{c|Yevgeny Prigozhin}}, whose private army had fought the villain's war in {{p|Ukraine}},
+On the twenty-third of June {{c|4748|Yevgeny Prigozhin}}, whose private army had fought the villain's war in {{p|Ukraine}},
 Turned his men on {{p|Moscow}}, took {{p|Rostov}}, and drove north on the highway in the rain,
 And stopped two hundred kilometers away, and made a deal, and turned back,
 And on the twenty-third of August his plane fell from the sky, for the villain does not forget an attack.
@@ -113,14 +113,14 @@ Into {{p|West Kelowna}} and {{p|Kelowna}}, my city, and burned hundreds of house
 
 I watched my city burn the year I finished my study there,
 And the firefighters held the line, and the city stood, and the smoke cleared from the air.
-On the eighteenth of June a {{x|Sikh}} leader, {{c|Hardeep Singh Nijjar}}, was shot dead outside his temple in {{p|Surrey}},
+On the eighteenth of June a {{x|Sikh}} leader, {{c|4749|Hardeep Singh Nijjar}}, was shot dead outside his temple in {{p|Surrey}},
 And in September the prime minister said in the parliament that agents of {{p|India}} may have killed him, and the country was in a fury.
 
 ## The rest of the year
 
 On the tenth of March a bank of the startups of {{p|California}}, {{x|Silicon Valley Bank}}, failed in two days,
 Its customers running by phone, and the government saved them all, in the old ways.
-On the sixth of May {{c|Charles III}} was crowned, and on the eighteenth of June a submersible imploded
+On the sixth of May {{c|4750|Charles III}} was crowned, and on the eighteenth of June a submersible imploded
 With five men going down to see the wreck of the {{x|Titanic}}, and the deep sea's weight was what they had goaded.
 
 On the eighth of August the wind drove a fire through {{p|Lahaina}}, on {{p|Maui}}, and about a hundred died,

@@ -2,7 +2,7 @@
 
 A child born early on {{x|Christmas Day}}, 1642, so small, his mother said,
 He would have fit in a quart pot, at {{p|Woolsthorpe}} in {{p|Lincolnshire}},
-The year {{c|Galileo}} died. His father was already dead.
+The year {{c|2396|Galileo}} died. His father was already dead.
 His mother left him with his grandmother. The fire
 
 Of that boyhood never cooled: he made lists of his sins, and one was
@@ -16,11 +16,11 @@ The calculus, and split white light with a prism into the rainbow's gorge,
 And wondered, watching an apple fall, the story is remembered
 
 Or told by his own old age, whether the force that pulled it down
-Reached up as far as the {{c|Moon}}, and held it in its orbit,
+Reached up as far as the {{c|198|Moon}}, and held it in its orbit,
 And weakened with the square of the distance. The crown
 Of the idea he kept to himself for twenty years. The sorbet
 
-Of fame did not interest him. Then, in 1684, {{c|Edmond Halley}}
+Of fame did not interest him. Then, in 1684, {{c|3979|Edmond Halley}}
 Came to {{p|Cambridge}} and asked: if the force on the planets falls
 With the square of the distance, what path do they follow? The rally
 Of the answer: an ellipse. I have calculated it. The walls
@@ -30,14 +30,14 @@ To do it again. Three years later the book came out:
 *{{x|Philosophiae Naturalis Principia Mathematica}}*, the fifth of July, 1687, the honest
 Size of it three books in {{x|Latin}}, paid for, as the last chapter told, without doubt,
 
-By {{c|Halley}}. Three laws of motion. A body at rest stays at rest.
+By {{c|3980|Halley}}. Three laws of motion. A body at rest stays at rest.
 A force changes motion in proportion. Every action has its reaction.
 And one law of gravity, the same for the apple and the planets, the test
 Of the sky the same as the test of the orchard: one attraction
 
 Between every two masses in the universe, falling with the square
-Of their distance. The {{c|Moon}}'s orbit. The tides. The comets' return,
-So that {{c|Halley}} could predict his comet would come back, and it did, there
+Of their distance. The {{c|198|Moon}}'s orbit. The tides. The comets' return,
+So that {{c|3980|Halley}} could predict his comet would come back, and it did, there
 In 1758, sixteen years after he had died. The burn
 
 Of the old sky was over: the heavens were not made of a finer stuff.
@@ -45,18 +45,18 @@ They were made of world. The same law in the stars as in the hand.
 That is the {{x|Gaiad}}'s first chapter, written in {{x|Latin}}. Enough
 To know the universe is one: one law, one land.
 
-And now the other {{c|Newton}}. The one who spent more years
+And now the other {{c|3895|Newton}}. The one who spent more years
 On alchemy than on physics, hunting the philosopher's stone,
 Writing a million words on the transmutation of metals, the tears
 Of mercury and the green lion. The one who, alone,
 
-Denied the {{x|Trinity}} in secret, and calculated from the {{c|Book of Daniel}}
+Denied the {{x|Trinity}} in secret, and calculated from the {{c|3993|Book of Daniel}}
 That the world would not end before 2060. The one
-Whose papers, sold in 1936, made {{c|Keynes}} write that he was not the first
+Whose papers, sold in 1936, made {{c|3994|Keynes}} write that he was not the first
 Of the age of reason: he was the last of the magicians. The sun
 
 Of the new science and the moon of the old wisdom in one man.
-And here is the thing to keep, after {{c|Bureus}}: {{c|Newton}} knew which was which.
+And here is the thing to keep, after {{c|3896|Bureus}}: {{c|3895|Newton}} knew which was which.
 He published the laws, which anyone could check. The plan
 Of the alchemy he kept in a box. He did not make the switch
 
@@ -66,7 +66,7 @@ Keep it in the box, labelled. Publish what can be tried.
 He wrote: *I frame no hypotheses*, about the cause, the seam
 
 Of gravity he could not explain. He knew what he did not know.
-And he was cruel: to {{c|Hooke}}, to {{c|Leibniz}}, and, as {{x|Master of the Mint}},
+And he was cruel: to {{c|3981|Hooke}}, to {{c|3995|Leibniz}}, and, as {{x|Master of the Mint}},
 To the counterfeiters he hunted himself, and sent to the gallows. So
 Hold the whole man. Not a saint. A mind, and a temper, and a stint
 
@@ -77,10 +77,10 @@ To that: the greatest mind of the age, and the ocean, and the treble
 
 Of the waves on a beach. He died in 1727 and lies in {{p|Westminster}}.
 *Nature and Nature's laws lay hid in night;
-God said, Let {{c|Newton}} be! and all was light.* The poet's tinder.
+God said, Let {{c|3895|Newton}} be! and all was light.* The poet's tinder.
 Better the shell on the shore. Better the boy. Better the ocean, and the sight
 
-Of the apple falling, and the {{c|Moon}} held, by one thing.
+Of the apple falling, and the {{c|198|Moon}} held, by one thing.
 The universe is one law. And the ocean is still there.
 Pick up a shell. Check it. Keep your dreams in a box, labelled. And sing
 For the orchard where the plague sent a boy, and he looked up, and saw it there.

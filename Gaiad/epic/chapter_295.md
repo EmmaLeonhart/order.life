@@ -1,37 +1,37 @@
 # Chapter 295: The Crown He Took
 
 On {{x|Christmas Day}} in the year 800, in {{p|Saint Peter's}}, a pope set a crown on a kneeling king,
-{{c|Charlemagne}}, who had not asked for it, and called him {{c|Emperor of the Romans}},
+{{c|2677|Charlemagne}}, who had not asked for it, and called him {{c|4141|Emperor of the Romans}},
 And for a thousand years the {{p|West}} had an emperor, the crown of the Romans carried north, a ring
 Of electors and princes and bishops around one name, the {{p|Holy Roman Empire}}, whose summons
 
 Held a continent in one order under heaven, longer than any crown of the {{p|West}} has held since.
-{{c|Voltaire}} mocked it as neither holy, nor {{x|Roman}}, nor an empire. A joke is not a reading.
+{{c|4001|Voltaire}} mocked it as neither holy, nor {{x|Roman}}, nor an empire. A joke is not a reading.
 It kept the {{x|Roman}} name alive in the north a thousand years, and every prince
 Who knelt to it knelt to a crown that came from above, at a church's leading.
 
 Then the {{x|Revolution}} shut the churches, and set {{x|Reason}} on the altar of {{p|Notre-Dame}},
-And {{c|Robespierre}} put God back, the {{x|Supreme Being}} of an earlier chapter, against the atheists of his own side,
+And {{c|4122|Robespierre}} put God back, the {{x|Supreme Being}} of an earlier chapter, against the atheists of his own side,
 Because a republic, he saw, cannot stand on nothing; and the soldier who came after him walked the same
 Road. In 1801 the {{x|Concordat}}: the {{x|Church}} came home to {{p|France}}, with the state for its guide,
 
 Bishops named by the First Consul, priests paid from the treasury, the faith of the land
 Brought back and made the state's. He did not abolish the {{x|Church}}. He took it in.
-First he sacked {{p|Rome}}, as {{c|Emma Leonhart}} says, and then he sacked {{p|Rome}} again, with the crown in his hand.
+First he sacked {{p|Rome}}, as {{c|2|Emma Leonhart}} says, and then he sacked {{p|Rome}} again, with the crown in his hand.
 He took {{x|Christianity}} and made it his: the most Lifeist thing a man could do, and where this book's own work begins.
 
 On the second of December, 1804, in {{p|Notre-Dame}} in {{p|Paris}},
-{{c|Pope}} {{c|Pius VII}} sat waiting to crown a {{c|Corsican}}, and the fire
-Of the moment: {{c|Napoleon}} took the crown in his own hands. The plurals
+{{c|2825|Pope}} {{c|4142|Pius VII}} sat waiting to crown a {{c|4143|Corsican}}, and the fire
+Of the moment: {{c|4066|Napoleon}} took the crown in his own hands. The plurals
 
 Of the old story were ended in one gesture, the {{x|Church}} in the room to see it, and behind him,
-In the eye of this book, the ghost of {{c|Robespierre}}. He crowned himself, then {{c|Joséphine}}, kneeling; the painter {{c|David}}
+In the eye of this book, the ghost of {{c|4122|Robespierre}}. He crowned himself, then {{c|4144|Joséphine}}, kneeling; the painter {{c|1956|David}}
 Put it on a canvas ten metres wide, and painted in his mother, who had stayed home, the grim
 Truth adjusted for the record, as records are. Two years later, the cavity
 
 Of the old empire was empty: the {{x|German}} princes, bribed and beaten, left it
 For his {{p|Confederation of the Rhine}}, and on the sixth of August, 1806,
-The last emperor, {{c|Francis II}}, laid the crown of {{c|Charlemagne}} down, and what was left
+The last emperor, {{c|4145|Francis II}}, laid the crown of {{c|2677|Charlemagne}} down, and what was left
 Of a thousand years went down with it, the crown that was given, not taken. The bricks
 
 Of it had held a continent a thousand years; a soldier, not time, pushed it over.
@@ -39,30 +39,30 @@ Now the register, which this book follows like a river.
 The {{x|Revolution}} had taken the books of births and marriages and deaths, the cover
 Of the parish, from the priests in 1792, and given them to the town hall, the giver
 
-Of the record now the state. {{c|Napoleon}} made it a code. The *{{x|Civil Code}}* of 1804,
-One law for every {{c|Frenchman}}, written plain, the family, the property, the will,
+Of the record now the state. {{c|4066|Napoleon}} made it a code. The *{{x|Civil Code}}* of 1804,
+One law for every {{c|4146|Frenchman}}, written plain, the family, the property, the will,
 And wherever his armies went, the code went, and the registers, the door
 Of every birth opened by a clerk, not a priest: the {{p|Netherlands}}, the {{p|Rhineland}}, the {{p|Italy}} still
 
 Keeping those books. And the names. In the {{p|Netherlands}} many families had none:
-A man was *{{c|Jan Pieterszoon}}*, {{c|Peter}}'s son, and his son *{{c|Pieter Janszoon}}*, the line
-Of the patronymic turning each generation, as in {{p|Sweden}}, as {{c|Linnaeus}}'s father had done
+A man was *{{c|4147|Jan Pieterszoon}}*, {{c|1093|Peter}}'s son, and his son *{{c|4148|Pieter Janszoon}}*, the line
+Of the patronymic turning each generation, as in {{p|Sweden}}, as {{c|4012|Linnaeus}}'s father had done
 Before the linden. In 1811 the {{x|French}} decreed: every family shall register, by a sign
 
 Of the town hall, a fixed surname. And the {{x|Dutch}}, who thought the {{x|French}} would be gone
-In a year, some of them chose jokes: *{{c|Naaktgeboren}}*, born naked;
-*{{c|Zondervan}}*, without a *van*; and the {{x|French}} stayed long enough, and the joke went on
-For two hundred years on the children. In {{p|France}} in 1808 the {{c|Jews}}, who had made
+In a year, some of them chose jokes: *{{c|4149|Naaktgeboren}}*, born naked;
+*{{c|4150|Zondervan}}*, without a *van*; and the {{x|French}} stayed long enough, and the joke went on
+For two hundred years on the children. In {{p|France}} in 1808 the {{c|2500|Jews}}, who had made
 
 Their names by father's name, were ordered to take fixed surnames too.
-And {{c|Napoleon}} called a {{c|Grand Sanhedrin}} of rabbis, the first in eighteen centuries,
-And the {{c|Jews}} of the conquered lands were made citizens; the ghetto walls, the few
+And {{c|4066|Napoleon}} called a {{c|4151|Grand Sanhedrin}} of rabbis, the first in eighteen centuries,
+And the {{c|2500|Jews}} of the conquered lands were made citizens; the ghetto walls, the few
 Gates of {{p|Venice}} and {{p|Rome}}, opened by his soldiers. The entries
 
 Of that gift and that demand are in the same register: be free, and be written.
 Hold the whole man as this book holds them all. The conqueror whose wars
 Killed some three million, perhaps more; who brought back slavery to the smitten
-Colonies in 1802; who carried {{c|Ossian}} in his pocket; whose godson, of course,
+Colonies in 1802; who carried {{c|4060|Ossian}} in his pocket; whose godson, of course,
 
 Became a king of {{p|Sweden}}, as an earlier chapter told; whose code is still the law
 Of half the world; who marched into {{p|Russia}} in 1812 with six hundred thousand

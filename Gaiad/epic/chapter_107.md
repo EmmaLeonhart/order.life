@@ -1,14 +1,14 @@
 # Chapter 107: Sky Giants
 
-Now {{c|Pteros}}' children grew to the impossible.
+Now {{c|1746|Pteros}}' children grew to the impossible.
 
 In the late {{x|Cretaceous}}, when the {{x|Mesozoic}} world
 Had pushed every boundary of the plausible
-In size and strength and strangeness, {{c|Pteros}} unfurled
+In size and strength and strangeness, {{c|1746|Pteros}} unfurled
 
 The largest wings that ever flew.
 
-{{c|Quetzal}}—named for the feathered serpent-god
+{{c|1747|Quetzal}}—named for the feathered serpent-god
 That humans would later worship—flew through blue
 And {{x|Cretaceous}} skies on a wingspan broad
 
@@ -17,7 +17,7 @@ The membrane stretched from the enormous fourth
 Finger to the body, and the stride
 Of this creature on the ground was the worth
 
-Of a giraffe—for {{c|Quetzal}} stood
+Of a giraffe—for {{c|1747|Quetzal}} stood
 As tall as the tallest modern mammal
 When he folded his wings and walked through the wood
 On his knuckles and his feet—the animal
@@ -25,7 +25,7 @@ On his knuckles and his feet—the animal
 Kingdom's tallest flier was also tall
 On the ground, and the azhdarchid pterosaurs
 Of the late {{x|Cretaceous}} were the overall
-Most versatile of all {{c|Pteros}}' floors
+Most versatile of all {{c|1746|Pteros}}' floors
 
 Of evolutionary achievement:
 They could fly thousands of miles on thermal
@@ -34,7 +34,7 @@ Of almost zero energy—the dermal
 
 Membrane catching the air like a sail,
 And the hollow bones weighing almost nothing—
-{{c|Quetzal}} weighed perhaps two hundred pounds, the scale
+{{c|1747|Quetzal}} weighed perhaps two hundred pounds, the scale
 Of an adult human, despite the buffeting
 
 Size of a small airplane—the architecture
@@ -44,7 +44,7 @@ That permeated every strut and needle
 
 Of the skeleton—light as possibility itself.
 
-On the ground, {{c|Quetzal}} was a stork
+On the ground, {{c|1747|Quetzal}} was a stork
 Of monstrous proportions: walking on the shelf
 Of the {{x|Cretaceous}} plain with a beak like a fork
 
@@ -60,7 +60,7 @@ In both dimensions, the sky and the lonely
 
 Flatlands of the {{x|Cretaceous}} interior.
 
-And not only {{c|Quetzal}} ruled the {{x|Cretaceous}} sky:
+And not only {{c|1747|Quetzal}} ruled the {{x|Cretaceous}} sky:
 The ornithocheirids plied the aerial superior
 Of the open ocean, fishing on the fly
 
@@ -81,7 +81,7 @@ Of aerial hunting: the soaring line
 
 Of the ocean-crossers, the flap-and-glide
 Of the coastal fishers, the terrestrial stalking
-Of the azhdarchids—{{c|Pteros}}' pride
+Of the azhdarchids—{{c|1746|Pteros}}' pride
 Was the widest spread of any walking,
 
 Flying, soaring dynasty in the sky.
@@ -105,7 +105,7 @@ Would leave the air for the birds alone—
 The feathered dinosaurs would then extend
 Their claim to every sky the pterosaur had known.
 
-Honor {{c|Quetzal}} and his kin—the sky giants,
+Honor {{c|1747|Quetzal}} and his kin—the sky giants,
 The largest things that ever flew,
 Who proved that with the right alliance
 Of hollow bone and membrane, the view

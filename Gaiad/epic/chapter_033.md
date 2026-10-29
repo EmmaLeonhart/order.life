@@ -2,7 +2,7 @@
 
 Among the three great ancestors,
 Those ancient processors,
-{{c|Spiralius}} was most conservative,
+{{c|619|Spiralius}} was most conservative,
 His ways preservative.
 
 He fished with tentacles long,
@@ -10,17 +10,17 @@ As fathers had done strong.
 The ancient art he kept alive
 To help his children thrive.
 
-Great {{c|Spiralius}} worked each day
+Great {{c|619|Spiralius}} worked each day
 In his diligent way
 To provide for children all
 Who answered duty's call.
 
 Among his many sons of fame
 Two earned eternal name:
-Bold {{c|Kimberella}} the king
-And {{c|Gnathifer}}'s ring.
+Bold {{c|539|Kimberella}} the king
+And {{c|651|Gnathifer}}'s ring.
 
-{{c|Kimberella}} earned his fame
+{{c|539|Kimberella}} earned his fame
 Through his eternal name.
 His tomb is visited today
 By pilgrims on their way.
@@ -32,15 +32,15 @@ Across the steppe so bright.
 
 A billion years of fame
 Belongs to his great name.
-On {{c|Australian}} stamps today
+On {{c|219|Australian}} stamps today
 His image holds its sway.
 
-But {{c|Gnathifer}} chose a different path,
+But {{c|651|Gnathifer}} chose a different path,
 To show his righteous wrath.
 A kingdom small but quick
 He built with cunning trick.
 
-Like {{c|Ectus}} he could see
+Like {{c|618|Ectus}} he could see
 The need for weaponry.
 A great jaw he built with care
 From chitin strong and fair.
@@ -52,20 +52,20 @@ His heart was not so stayed.
 
 With ferocious jaws so bright
 He brought the fearsome sight
-To sons of {{c|Isomeres}}
+To sons of {{c|630|Isomeres}}
 Throughout their territories.
 
 In old age from his loins
 Came two, like ancient coins:
-Bold {{c|Gnathos}}, fierce and wild,
-And {{c|Hydrover}}, gentler child.
+Bold {{c|652|Gnathos}}, fierce and wild,
+And {{c|653|Hydrover}}, gentler child.
 
-{{c|Gnathos}} was vicious
+{{c|652|Gnathos}} was vicious
 More than malicious.
 His sons are known today
-As {{c|Jaw}} {{c|Worms}} in their way.
+As {{c|654|Jaw}} {{c|655|Worms}} in their way.
 
-But {{c|Xenognath}} was different,
+But {{c|656|Xenognath}} was different,
 Though still belligerent.
 He grew jaws within jaws,
 Against all natural laws.
@@ -75,40 +75,40 @@ A fearsome masquerade.
 Each jaw within the last
 Held prey both firm and fast.
 
-From {{c|Xenognath}} came two sons:
-Bold {{c|Marinus}}, who runs
+From {{c|656|Xenognath}} came two sons:
+Bold {{c|657|Marinus}}, who runs
 The seas with might and main,
-And {{c|Limnos}} of the rain.
+And {{c|658|Limnos}} of the rain.
 
-{{c|Marinus}} fought and fought
+{{c|657|Marinus}} fought and fought
 For all that could be caught.
-{{c|Dominion}} of the sea
+{{c|659|Dominion}} of the sea
 Was his priority.
 
-But {{c|Limnos}} was cast out
+But {{c|658|Limnos}} was cast out
 From the ocean's route.
 Into the rivers sent,
 His kingdom there was bent.
 
-The sons of {{c|Marinus}} mock
+The sons of {{c|657|Marinus}} mock
 Their freshwater flock:
 "Small jawed ones," they call
 Their cousins one and all.
 
-From {{c|Marinus}} came two more:
-{{c|Rotiferus}} to explore
-And brave {{c|Amisquius}},
+From {{c|657|Marinus}} came two more:
+{{c|660|Rotiferus}} to explore
+And brave {{c|661|Amisquius}},
 Bold and glorious.
 
-{{c|Rotiferus}} looked around
+{{c|660|Rotiferus}} looked around
 And peaceful living found
-Among {{c|Kimberella}}'s line,
+Among {{c|539|Kimberella}}'s line,
 Their ways both good and fine.
 
 He turned to fishing once again,
 Like his ancient kin.
 His sons became the nomads true,
-The {{c|Rotifers}} we view.
+The {{c|662|Rotifers}} we view.
 
 In all waters they roam,
 Making everywhere home.
@@ -116,18 +116,18 @@ Great fishermen are they
 From night until the day.
 
 He built his coelom loose
-Like {{c|Ectus}} let loose.
+Like {{c|618|Ectus}} let loose.
 This gave him speed and grace
 In every watery place.
 
 In rotifer villages
 They practice their privileges.
-{{c|Fishing}} with their wheels
+{{c|663|Fishing}} with their wheels
 For all their daily meals.
 
 But among his sons there was
 One who broke the laws.
-{{c|Acanthus}} the red, so base,
+{{c|664|Acanthus}} the red, so base,
 A parasite's disgrace.
 
 He lives in others' guts
@@ -136,23 +136,23 @@ The food that should belong
 To those both right and strong.
 
 Such thievery brings shame
-To {{c|Rotiferus}}' name.
+To {{c|660|Rotiferus}}' name.
 A black sheep in the fold
 Whose story should be told.
 
-But from {{c|Amisquius}} came
+But from {{c|661|Amisquius}} came
 A line of greater fame.
 Each generation grew
-{{c|Jaws}} bigger through and through.
+{{c|665|Jaws}} bigger through and through.
 
-In {{c|Nimrod}} {{c|Bristletongue}}'s time
+In {{c|666|Nimrod}} {{c|667|Bristletongue}}'s time
 Their power reached its prime.
 They ruled the seas with might,
 A fearsome, awesome sight.
 
 More numerous than all
 Who answered ocean's call,
-The {{c|Arrow}} {{c|Worms}} became
+The {{c|668|Arrow}} {{c|655|Worms}} became
 The hunters' greatest name.
 
 The greatest hunters ever seen
@@ -170,7 +170,7 @@ Sometimes shows its wrath
 In children who rebel
 And stories they do tell.
 
-{{c|Spiralius}} kept the old ways true
+{{c|619|Spiralius}} kept the old ways true
 But his children grew
 In many different directions,
 Making their selections.
@@ -191,7 +191,7 @@ While arrow worms show might
 In predatory sight.
 
 Both trace their lineage back
-To {{c|Spiralius}}' track.
+To {{c|619|Spiralius}}' track.
 The conservative way
 Led to diverse display.
 
@@ -202,7 +202,7 @@ Beneath the morning sky,
 
 Remember their ancestor
 Who was fishing's protector.
-{{c|Spiralius}} kept the art
+{{c|619|Spiralius}} kept the art
 That gave them their start.
 
 In every arrow worm
@@ -215,12 +215,12 @@ Left their lasting marks
 On all life in the sea
 Through all eternity.
 
-But {{c|Spiralius}} shows us well
+But {{c|619|Spiralius}} shows us well
 That traditions tell
 Important truths that last
 Through future and past.
 
-{{c|Innovation}} has its place
+{{c|629|Innovation}} has its place
 In evolution's race,
 But keeping what works true
 Is wisdom through and through.

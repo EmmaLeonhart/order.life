@@ -1,12 +1,12 @@
 # Chapter 190: Jimmu to Jingū
 
 In the island kingdom of {{p|Japan}},
-the legendary first emperor {{c|Jimmu}}
-is said to have descended from {{c|Amaterasu}}
+the legendary first emperor {{c|2708|Jimmu}}
+is said to have descended from {{c|885|Amaterasu}}
 through a line of gods at their minimum.
 
 Six-sixty BCE is the traditional date
-for {{c|Jimmu}}'s eastern expedition from {{p|Kyushu}}
+for {{c|2708|Jimmu}}'s eastern expedition from {{p|Kyushu}}
 to the {{p|Yamato}} plain, where he founded
 the imperial line that {{p|Japan}} would issue.
 
@@ -17,26 +17,26 @@ until several centuries after this contrived.
 
 But the myth sets the frame: the imperial line
 descends from the sun goddess through her grandson
-{{c|Ninigi}} who came down to {{p|Mount Takachiho}}
+{{c|2709|Ninigi}} who came down to {{p|Mount Takachiho}}
 carrying the {{x|Three Sacred Treasures}} begun:
 
 the mirror {{x|Yata no Kagami}},
-the sword {{c|Kusanagi}} (taken from the tail
-of the eight-headed serpent {{c|Yamata no Orochi}}
-by {{c|Susanoo}} in myth's oldest detail),
+the sword {{c|2710|Kusanagi}} (taken from the tail
+of the eight-headed serpent {{c|2711|Yamata no Orochi}}
+by {{c|2712|Susanoo}} in myth's oldest detail),
 
 and the jewel {{x|Yasakani no Magatama}}.
 These three still exist, kept in the shrines' stead,
 as the imperial regalia of {{p|Japan}},
 passed down through seventy centuries' tread.
 
-{{c|Jimmu}}'s great-grandfather was {{c|Ninigi}}.
-{{c|Jimmu}}'s grandmother was {{c|Toyotamahime}},
+{{c|2708|Jimmu}}'s great-grandfather was {{c|2709|Ninigi}}.
+{{c|2708|Jimmu}}'s grandmother was {{c|2713|Toyotamahime}},
 daughter of the sea dragon god, who bore
-{{c|Ugayafukiaezu}}, {{c|Jimmu}}'s father, extremely.
+{{c|2714|Ugayafukiaezu}}, {{c|2708|Jimmu}}'s father, extremely.
 
-So {{c|Jimmu}} has divine lineage both through
-the sun goddess {{c|Amaterasu}} above
+So {{c|2708|Jimmu}} has divine lineage both through
+the sun goddess {{c|885|Amaterasu}} above
 and through the sea dragon gods below.
 He is sky and sea, embraced by both's love.
 
@@ -52,35 +52,35 @@ a holiday ever since, at least in theory.
 
 For centuries after, the emperors listed
 are largely legendary or semi-so.
-The tenth emperor {{c|Sujin}} may be
+The tenth emperor {{c|2715|Sujin}} may be
 the first with some historical glow.
 
-The twelfth, {{c|Keikō}}, had a son {{c|Yamato Takeru}},
-the culture hero who conquered the eastern {{c|Emishi}},
+The twelfth, {{c|2716|Keikō}}, had a son {{c|2717|Yamato Takeru}},
+the culture hero who conquered the eastern {{c|2718|Emishi}},
 who killed his brother in his father's bathroom,
 was sent to die on difficult missions barely.
 
-He received {{c|Kusanagi}} from his aunt
-{{c|Yamatohime}}, priestess of {{c|Amaterasu}} at {{p|Ise}}.
+He received {{c|2710|Kusanagi}} from his aunt
+{{c|2719|Yamatohime}}, priestess of {{c|885|Amaterasu}} at {{p|Ise}}.
 He used it to cut grass in a fire trap set by enemies,
 saving his life, naming the sword "grass-cutter" in simplicity.
 
-His son or nephew (accounts vary) {{c|Chuai}}
+His son or nephew (accounts vary) {{c|2720|Chuai}}
 was the fourteenth emperor, who died young,
-leaving his pregnant queen {{c|Jingū}} to rule.
+leaving his pregnant queen {{c|2721|Jingū}} to rule.
 She is the great semi-historical warrior tongue.
 
-{{c|Empress Jingū}} led an invasion of {{p|Korea}}
-while pregnant with the future emperor {{c|Ojin}}.
+{{c|2722|Empress Jingū}} led an invasion of {{p|Korea}}
+while pregnant with the future emperor {{c|2723|Ojin}}.
 She held the birth back three years by
 tying stones to her waist, the legend's imagine.
 
 She conquered the Korean kingdoms (or received
 their tribute), returning triumphant
-to bear {{c|Ojin}}, who would be deified as
-{{c|Hachiman}}, god of war, the most welcomed triumphant.
+to bear {{c|2723|Ojin}}, who would be deified as
+{{c|2724|Hachiman}}, god of war, the most welcomed triumphant.
 
-Modern historians are skeptical of {{c|Jingū}}'s
+Modern historians are skeptical of {{c|2721|Jingū}}'s
 Korean invasion. But there was certainly
 contact with Korean kingdoms {{p|Baekje}}, {{p|Silla}}, {{p|Gaya}},
 trade, migration, cultural transfer apparently.
@@ -90,13 +90,13 @@ into {{p|Japan}} — {{x|Buddhism}} officially in 538 or 552,
 though private transmission was earlier.
 From Gaya came iron, craftsmen, immigrant troops.
 
-The {{c|Yamato}} court was consolidating
+The {{c|2725|Yamato}} court was consolidating
 in the fourth and fifth centuries, building
-the massive {{c|kofun}} burial mounds,
+the massive {{c|2726|kofun}} burial mounds,
 the largest tombs in the world, filling.
 
-The {{c|Daisenryō Kofun}} attributed to
-emperor {{c|Nintoku}} is longer than the {{p|Great Pyramid}},
+The {{c|2727|Daisenryō Kofun}} attributed to
+emperor {{c|2728|Nintoku}} is longer than the {{p|Great Pyramid}},
 though lower — a 486-meter keyhole shape
 of earth and stone, for the imperial pyramid.
 
@@ -105,12 +105,12 @@ of a centralized state in the Japanese archipelago,
 absorbing Korean immigrants, Chinese influence,
 building toward what would become emperor {{p|Yamato}}.
 
-The {{c|Soga clan}} would push {{x|Buddhism}}.
-The {{c|Mononobe clan}} would resist.
-In 587, the {{c|Soga}} won, and {{x|Buddhism}}
+The {{c|2729|Soga clan}} would push {{x|Buddhism}}.
+The {{c|2730|Mononobe clan}} would resist.
+In 587, the {{c|2731|Soga}} won, and {{x|Buddhism}}
 became the state religion, with {{x|Shinto}}'s midst.
 
 The {{x|Kofun}} period was ending. The {{x|Asuka}} period
-beginning. The constitution of {{c|Prince Shōtoku}}
+beginning. The constitution of {{c|2732|Prince Shōtoku}}
 in 604 would organize the state
 along Chinese lines — the shape we still see.

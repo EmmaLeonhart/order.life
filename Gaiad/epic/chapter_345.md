@@ -11,18 +11,18 @@ By what is not said at the table, and what is not bought, and what is understood
 ## The first block
 
 On Saturday the third of January the first block of {{x|Bitcoin}} was made,
-And in it {{c|Satoshi Nakamoto}} set that morning's headline from {{x|The Times}} of {{p|London}}:
+And in it {{c|4589|Satoshi Nakamoto}} set that morning's headline from {{x|The Times}} of {{p|London}}:
 "Chancellor on brink of second bailout for banks."
 The line proved the date, and it was the reason, written into the money, a sermon.
 
-On the twelfth the first coins went from {{c|Satoshi}} to {{c|Hal Finney}}.
+On the twelfth the first coins went from {{c|4590|Satoshi}} to {{c|4593|Hal Finney}}.
 For a year they were worth nothing, and then a man paid ten thousand for two pizzas.
 The money the banks could not bail out had begun,
 And the genesis block still carries the headline, for the readers and the teachers.
 
 ## The new president
 
-On the twentieth of January {{c|Barack Obama}} was sworn in
+On the twentieth of January {{c|4591|Barack Obama}} was sworn in
 Before nearly two million in the cold on the {{x|National Mall}},
 The first black president, and the crowd wept, and the world watched with them,
 And he inherited an economy losing seven hundred thousand jobs a month, in free fall.
@@ -39,7 +39,7 @@ And the country he led was better for him, and that is what this book has held.
 
 ## The fraud
 
-On the twenty-ninth of June {{c|Bernard Madoff}} was sentenced to a hundred and fifty years.
+On the twenty-ninth of June {{c|4594|Bernard Madoff}} was sentenced to a hundred and fifty years.
 Sixty-five billion dollars had existed on his statements and nowhere else.
 He paid the old investors with the new for decades,
 While the regulators were told and did not look, and the fraud rang its bells.
@@ -58,7 +58,7 @@ And in the coldest week of the winter the pipes to {{p|Europe}} went empty throu
 {{p|Bulgaria}} froze, and {{p|Slovakia}} shut its factories,
 And the villain showed {{p|Europe}} the hand on the valve, and how he would use it.
 
-On the sixteenth of November {{c|Sergei Magnitsky}},
+On the sixteenth of November {{c|4595|Sergei Magnitsky}},
 The lawyer who found the officials' theft of two hundred and thirty million from the state,
 Died in a Moscow prison, beaten, denied his medicine.
 The {{x|Magnitsky Act}} carries his name: the free world's answer, a few years late.
@@ -66,9 +66,9 @@ The {{x|Magnitsky Act}} carries his name: the free world's answer, a few years l
 ## The green wave
 
 On the twelfth of June {{p|Iran}} voted, and the regime announced
-That {{c|Mahmoud Ahmadinejad}} had won by a landslide before the votes could be counted.
+That {{c|4561|Mahmoud Ahmadinejad}} had won by a landslide before the votes could be counted.
 Millions marched in {{p|Tehran}} in green, asking: where is my vote?
-And on the twentieth {{c|Neda Agha-Soltan}} was shot in the street, and the people mounted
+And on the twentieth {{c|4596|Neda Agha-Soltan}} was shot in the street, and the people mounted
 
 Her name on their banners, and her death was filmed on a phone and seen by the world within hours.
 The protests were crushed by the autumn, but they were not forgotten.
@@ -84,7 +84,7 @@ Shelled in places the government had called safe, and the dead were uncounted, u
 
 ## The river and the ocean
 
-On the fifteenth of January {{c|Chesley Sullenberger}} lost both engines to geese over {{p|New York}},
+On the fifteenth of January {{c|4597|Chesley Sullenberger}} lost both engines to geese over {{p|New York}},
 And put the airliner down on the {{x|Hudson}}, and all a hundred and fifty-five lived.
 That is the craft of a pilot: the training, the calm, the river,
 And the ferries came to the wings, and the city gave what it had to give.
@@ -98,13 +98,13 @@ The airlines changed the training after, and the next crews knew what the stall 
 
 From the seventh to the eighteenth of December, in {{p|Copenhagen}},
 The countries of the world met to decide what would follow {{x|Kyoto}}.
-On the last night {{c|Obama}} walked into a room where {{p|China}}, {{p|India}}, {{p|Brazil}}, and {{p|South Africa}} met,
+On the last night {{c|4598|Obama}} walked into a room where {{p|China}}, {{p|India}}, {{p|Brazil}}, and {{p|South Africa}} met,
 And wrote an accord with them: keep the warming below two degrees, and so,
 
 For the first time, the great polluters of the rich world and the rising world
 Both said a number. The full meeting took note of it, and did not adopt it.
 Six years later in {{p|Paris}} the number became a treaty,
-And {{c|Obama}}'s room in {{p|Copenhagen}} was where they first got it.
+And {{c|4598|Obama}}'s room in {{p|Copenhagen}} was where they first got it.
 
 ## The camps begin
 
@@ -125,14 +125,14 @@ On the twenty-fifth of May {{p|North Korea}} tested its second bomb.
 On the twenty-eighth of June the army of {{p|Honduras}} put its president on a plane in his pajamas.
 On the fifth of November, at {{p|Fort Hood}}, an army doctor killed thirteen, a jihadist's psalm.
 
-On the twenty-fifth of June {{c|Michael Jackson}} died, and the net slowed under the grief.
+On the twenty-fifth of June {{c|4599|Michael Jackson}} died, and the net slowed under the grief.
 On the seventh of March {{x|Kepler}} was launched to look for other earths, and found thousands of worlds.
 In February two men from {{x|Yahoo}} started {{x|WhatsApp}},
 And in March {{x|Uber}} began, and the cars came to the hand that unfurls.
 
 ## The blocks
 
-In May a game of blocks, {{x|Minecraft}}, was put up by {{c|Markus Persson}} in {{p|Sweden}},
+In May a game of blocks, {{x|Minecraft}}, was put up by {{c|4600|Markus Persson}} in {{p|Sweden}},
 And children my age built worlds out of squares for the next decade.
 In it a girl of thirteen could build a world alone,
 A house, a castle, a city, a machine of redstone, from the first block laid.

@@ -11,7 +11,7 @@ And I would grow up on that place, where every face could be found.
 ## The pictures
 
 On the fourteenth of February three men from {{x|PayPal}} registered {{x|YouTube}}.
-On the twenty-third of April {{c|Jawed Karim}} put up the first, eighteen seconds long:
+On the twenty-third of April {{c|4553|Jawed Karim}} put up the first, eighteen seconds long:
 Himself at the {{p|San Diego}} zoo before the elephants,
 Saying the cool thing is they have really, really, really long trunks. That was the whole song.
 
@@ -27,14 +27,14 @@ And the whole earth was a map in the browser, and I could turn the wheel.
 
 ## The pope
 
-On the second of April {{c|John Paul II}} died in {{p|Rome}},
+On the second of April {{c|4554|John Paul II}} died in {{p|Rome}},
 The first pope from {{p|Poland}}, who helped bring down the empire of the east.
-Millions came to his funeral. On the nineteenth the cardinals chose {{c|Joseph Ratzinger}},
-Who took the name {{c|Benedict XVI}}, and would step down eight years on, the rarest release.
+Millions came to his funeral. On the nineteenth the cardinals chose {{c|4555|Joseph Ratzinger}},
+Who took the name {{c|4556|Benedict XVI}}, and would step down eight years on, the rarest release.
 
 ## The villain's catastrophe
 
-On the twenty-fifth of April {{c|Vladimir Putin}} told his parliament
+On the twenty-fifth of April {{c|4506|Vladimir Putin}} told his parliament
 That the collapse of the {{p|Soviet Union}} was the greatest geopolitical catastrophe of the century.
 Mark the sentence. Everything he did after was the attempt to undo it,
 And {{p|Georgia}}, and {{p|Crimea}}, and {{p|Ukraine}} would pay for his nostalgia, in blood and in penury.
@@ -58,9 +58,9 @@ Most of them poor, most of them black, were left in their attics and on their ro
 In the {{x|Superdome}} with no power and no water,
 And at the convention center, where no one came for days, and those are the proofs.
 
-Eighteen hundred died. The head of {{x|FEMA}}, {{c|Michael Brown}},
+Eighteen hundred died. The head of {{x|FEMA}}, {{c|4557|Michael Brown}},
 Had run an association of horse shows before.
-{{c|Bush}} told him he was doing a heck of a job.
+{{c|4517|Bush}} told him he was doing a heck of a job.
 The government knew where the water was. The help did not come to the door.
 
 I was nine, far to the north, and I saw the roofs on the screen
@@ -95,7 +95,7 @@ In October they voted on a constitution, in December for a parliament:
 A people voting under fire, and those were brave souls.
 
 On the fourteenth of February, in {{p|Beirut}}, a ton of explosives
-Killed the former prime minister, {{c|Rafic Hariri}}, and the people filled the square,
+Killed the former prime minister, {{c|4558|Rafic Hariri}}, and the people filled the square,
 And the army of {{p|Syria}}, there twenty-nine years, went home by April.
 They called it the {{x|Cedar Revolution}}, and the cedars were there.
 
@@ -113,21 +113,21 @@ Printed twelve cartoons of the {{x|Prophet}}, and the next year brought the fire
 
 In January {{x|Huygens}} landed on {{p|Titan}}, the farthest landing ever made,
 And astronomers found {{x|Eris}} beyond {{p|Pluto}}, larger than it, a world of ice.
-In March {{c|Terri Schiavo}} was let die after the courts and the congress fought over her body.
-On the thirty-first of May {{c|Mark Felt}} said he was {{x|Deep Throat}}, and the secret paid its price.
+In March {{c|4559|Terri Schiavo}} was let die after the courts and the congress fought over her body.
+On the thirty-first of May {{c|4560|Mark Felt}} said he was {{x|Deep Throat}}, and the secret paid its price.
 
-In June {{p|Iran}} elected {{c|Mahmoud Ahmadinejad}}.
+In June {{p|Iran}} elected {{c|4561|Mahmoud Ahmadinejad}}.
 On the second of July the {{x|Live 8}} concerts asked the rich to forgive the poor their debt.
-On the twenty-fourth of October {{c|Rosa Parks}} died, who would not give up her seat.
+On the twenty-fourth of October {{c|4562|Rosa Parks}} died, who would not give up her seat.
 In October and November the suburbs of {{p|Paris}} burned, and the riot police met.
 
-On the twenty-second of November {{c|Angela Merkel}} became chancellor of {{p|Germany}},
-And held it sixteen years, and she would be the one who knew {{c|Putin}} best,
+On the twenty-second of November {{c|4563|Angela Merkel}} became chancellor of {{p|Germany}},
+And held it sixteen years, and she would be the one who knew {{c|4518|Putin}} best,
 Who spoke his language and he spoke hers, and she bought his gas,
 And let the pipelines be built that were the villain's leverage against the west.
 
-In November a false article in {{x|Wikipedia}} said {{c|John Seigenthaler}}
-Had been suspected in the {{c|Kennedy}} killings, and it had stood four months long.
+In November a false article in {{x|Wikipedia}} said {{c|4564|John Seigenthaler}}
+Had been suspected in the {{c|4565|Kennedy}} killings, and it had stood four months long.
 He wrote that he had no way to know who wrote it.
 The book tightened its rules a little; the labor stayed unpaid, and that stayed wrong.
 

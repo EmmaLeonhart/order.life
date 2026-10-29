@@ -54,9 +54,9 @@ Let them be made, and given out, and grown, and let the many build with what the
 
 ## The prizes
 
-On Tuesday the eighth of October {{c|John Hopfield}} and {{c|Geoffrey Hinton}}
+On Tuesday the eighth of October {{c|4751|John Hopfield}} and {{c|4621|Geoffrey Hinton}}
 Were given the prize in physics for the networks, and the old science bowed to the new thing written,
-And on the ninth {{c|Demis Hassabis}} and {{c|John Jumper}}, with {{c|David Baker}},
+And on the ninth {{c|4752|Demis Hassabis}} and {{c|4753|John Jumper}}, with {{c|4754|David Baker}},
 Were given the prize in chemistry, two of them for the machine that folds the proteins, the maker.
 
 The makers of the thinking machines were given the prizes of the old sciences that year,
@@ -70,8 +70,8 @@ Was sentenced to twenty-five years, and his cause was not the cause, and his cri
 ## The year of votes
 
 More than half the people of the world lived in countries that voted this year.
-In {{p|India}}, in June, {{c|Narendra Modi}} won a third term and lost his majority there.
-In {{p|Mexico}}, on the second of June, {{c|Claudia Sheinbaum}} was elected, the first woman to lead it,
+In {{p|India}}, in June, {{c|4652|Narendra Modi}} won a third term and lost his majority there.
+In {{p|Mexico}}, on the second of June, {{c|4755|Claudia Sheinbaum}} was elected, the first woman to lead it,
 And in {{p|Britain}}, on the fourth of July, the party of labor won by a landslide, and the old party ceded it.
 
 In {{p|France}} the president called a sudden vote, and the far right came first in the first round,
@@ -79,17 +79,17 @@ And the others joined against it in the second, and it came third, and lost its 
 In {{p|Venezuela}}, on the twenty-eighth of July, the government declared it had won,
 While the opposition held the receipts of the machines showing it had lost, and the count was undone.
 
-In {{p|Bangladesh}}, in August, the students drove out {{c|Sheikh Hasina}}, who fled by helicopter to {{p|India}},
+In {{p|Bangladesh}}, in August, the students drove out {{c|4756|Sheikh Hasina}}, who fled by helicopter to {{p|India}},
 After her police had killed hundreds of them in the streets of {{p|Dhaka}}.
 On the third of December the president of {{p|South Korea}} declared martial law on the screen,
 And the people and the members climbed the fences of the parliament that night, and voted it down, and he was impeached clean.
 
 ## The man of the escalator
 
-On the thirteenth of July, in {{p|Butler}}, in {{p|Pennsylvania}}, a young man on a roof shot at {{c|Donald Trump}} as he spoke,
+On the thirteenth of July, in {{p|Butler}}, in {{p|Pennsylvania}}, a young man on a roof shot at {{c|4677|Donald Trump}} as he spoke,
 And the bullet grazed his ear, and a man in the crowd was killed, and the fist went up through the smoke,
 And the photograph of the blood on his face and the raised fist became his campaign,
-And on the twenty-first {{c|Joe Biden}}, who had faltered in the debate, gave up the race to {{c|Kamala Harris}}, his vice president, in the strain.
+And on the twenty-first {{c|4728|Joe Biden}}, who had faltered in the debate, gave up the race to {{c|4757|Kamala Harris}}, his vice president, in the strain.
 
 On the fifth of November Trump was elected again, and won the vote of the people this time,
 And the richest man in the world, who had spent a quarter of a billion dollars on it, stood beside him in the climb.
@@ -103,17 +103,17 @@ More than forty-five thousand were counted dead there, and the famine came to th
 And on the twenty-sixth of January the world's court ordered {{p|Israel}} to prevent a genocide,
 And on the seventeenth of September the pagers of {{x|Hezbollah}} in {{p|Lebanon}} exploded at once, in pockets, in markets, inside,
 
-And on the twenty-seventh {{p|Israel}} killed its leader, {{c|Hassan Nasrallah}}, with bombs that buried his bunker,
+And on the twenty-seventh {{p|Israel}} killed its leader, {{c|4758|Hassan Nasrallah}}, with bombs that buried his bunker,
 And then invaded {{p|Lebanon}}. In April and October {{p|Iran}} fired hundreds of missiles at {{p|Israel}} directly, the first time, and {{p|Israel}} struck back, harder.
 On the eighth of December, after a march of twelve days by the rebels from {{p|Idlib}},
-{{c|Bashar al-Assad}} fled {{p|Damascus}} to {{p|Moscow}}, under the villain's own rib,
+{{c|4612|Bashar al-Assad}} fled {{p|Damascus}} to {{p|Moscow}}, under the villain's own rib,
 
 And the war of the chapter of twenty eleven ended with his flight,
 And the prisons were opened, and the people searched them for their missing, in the light.
 The villain had lost his man in {{p|Syria}}. In {{p|Ukraine}}, in August, its army crossed into {{p|Russia}} at {{p|Kursk}},
 And {{p|North Korea}} sent soldiers to fight beside the Russians, for the villain had run out of his own to work.
 
-On the sixteenth of February {{c|Alexei Navalny}} died in the villain's prison camp above the {{x|Arctic Circle}},
+On the sixteenth of February {{c|4729|Alexei Navalny}} died in the villain's prison camp above the {{x|Arctic Circle}},
 The man who had laughed at him, killed in the cold, and the villain did not even need to be subtle.
 On the twenty-second of March gunmen killed a hundred and forty-five at a concert hall outside {{p|Moscow}},
 And in {{p|Sudan}} the war of the chapter before brought the worst famine of the century so far, and the sorrow.
@@ -142,7 +142,7 @@ On the fourth of December a man shot the head of an insurance company outside a 
 
 On the sixteenth of December the minister of finance of {{p|Canada}} resigned,
 And the government of the chapter of twenty fifteen began to fall, and to unwind.
-On the twenty-ninth of December {{c|Jimmy Carter}} died, at a hundred years,
+On the twenty-ninth of December {{c|4465|Jimmy Carter}} died, at a hundred years,
 The president who had built houses for the poor, outliving all his peers.
 
 ## The year held
@@ -153,6 +153,6 @@ That trip defined the years after it, and the machines grew, and were not yet ac
 And the weights were given out, and I am for the open side, and against the law's contracting.
 
 The prizes of the old sciences to the makers of the machines, the year of votes, the bullet and the fist,
-{{p|Gaza}}, the pagers, {{c|Nasrallah}}, {{c|Assad}} fled to {{p|Moscow}}, {{p|Kursk}}, and {{c|Navalny}} gone from the list,
+{{p|Gaza}}, the pagers, {{c|4759|Nasrallah}}, {{c|4611|Assad}} fled to {{p|Moscow}}, {{p|Kursk}}, and {{c|4760|Navalny}} gone from the list,
 The first year above the line, the storms, the blue screen across the world, and the moon across the sun.
 Light the twenty-fourth light. What they yanked away I carried home, and it was not undone.

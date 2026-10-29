@@ -87,7 +87,7 @@ The ones who ate the dead—the stone
 
 And scale of anything that could
 Process the least nutritious meal
-In the most efficient way—{{c|Cynos}}
+In the most efficient way—{{c|1673|Cynos}}
 In his burrow, sealed
 
 From the worst of the surface, woke
@@ -102,16 +102,16 @@ Of living drove him to the day
 
 Regardless of its emptiness.
 
-{{c|Lystro}} too—the dicynodont
+{{c|1724|Lystro}} too—the dicynodont
 Who somehow had survived, the less
 Selective eater, the defiant front
 
-Of {{c|Dicyno}}'s lineage—{{c|Lystro}} found
+Of {{c|1723|Dicyno}}'s lineage—{{c|1724|Lystro}} found
 In the post-extinction world a strange
 And solitary abundance: the ground
 Was his entirely—the full range
 
-Of the {{x|Triassic}} early land was {{c|Lystro}}'s
+Of the {{x|Triassic}} early land was {{c|1724|Lystro}}'s
 Without competition, without predator—
 The first years of the {{x|Triassic}}'s throes
 Were his inheritance—the corridor
@@ -119,7 +119,7 @@ Were his inheritance—the corridor
 Of empty continent walked by one small
 Beaked herbivore who ate whatever grew,
 Who asked no more of life than the simple call
-Of root and tuber—{{c|Lystro}} knew
+Of root and tuber—{{c|1724|Lystro}} knew
 
 Only that he was hungry and alive
 And that was sufficient—in the hell
@@ -140,7 +140,7 @@ Of life alive through the spell
 
 Of silence—the fungi composting,
 The survivors burrowing below,
-{{c|Lystro}} in the gray world coasting
+{{c|1724|Lystro}} in the gray world coasting
 Forward on the simple need to go
 
 On living—they did not know

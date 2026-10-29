@@ -1,19 +1,19 @@
 # Chapter 181: Buddhism Enters the Han
 
-While {{c|Jesus}} walked in {{p|Galilee}},
-the {{c|Han Dynasty}} in the {{p|East}}
+While {{c|1912|Jesus}} walked in {{p|Galilee}},
+the {{c|2556|Han Dynasty}} in the {{p|East}}
 was reaching its high mature phase,
 and a strange new teaching entered its feast.
 
-Emperor {{c|Ming of Han}} dreamed a dream
+Emperor {{c|2557|Ming of Han}} dreamed a dream
 of a golden man flying west-to-east,
-and his advisors said: this is the {{c|Buddha}},
+and his advisors said: this is the {{c|1959|Buddha}},
 the sage from {{p|India}}, the teaching priest.
 
 He sent ambassadors down the {{p|Silk Road}}
 to find the monks and the scriptures both.
 They returned with two {{p|Indian}} monks,
-{{c|Kasyapa Matanga}} and {{c|Dharmaratna}}, of both.
+{{c|2558|Kasyapa Matanga}} and {{c|2559|Dharmaratna}}, of both.
 
 They brought scriptures, statues, and monks
 on a white horse, the legend says,
@@ -32,8 +32,8 @@ not yet absorbed into their reality.
 
 It competed with {{x|Daoism}} at first,
 and the two borrowed from each other.
-{{c|Daoists}} adapted {{x|Buddhist}} concepts.
-{{c|Buddhists}} used {{x|Daoist}} terms as brothers.
+{{c|2560|Daoists}} adapted {{x|Buddhist}} concepts.
+{{c|2561|Buddhists}} used {{x|Daoist}} terms as brothers.
 
 The translation problem was immense.
 How translate "nirvana" into {{x|Chinese}}?
@@ -47,7 +47,7 @@ coined new terms with better luck.
 
 Meanwhile, to the east, in {{p|Korea}},
 a different strand of the Eastern story:
-the legend of {{c|Heo Hwang-ok}}, princess
+the legend of {{c|2562|Heo Hwang-ok}}, princess
 of {{p|Ayodhya}}, sailed for coastal glory.
 
 The legend says she was a princess
@@ -55,7 +55,7 @@ of the {{p|Kingdom of Ayuta}} in {{p|India}},
 who sailed across the sea to {{p|Korea}}
 in the first century, to marry plenty.
 
-She married {{c|King Suro}} of {{p|Geumgwan Gaya}},
+She married {{c|2563|King Suro}} of {{p|Geumgwan Gaya}},
 became queen of that small kingdom,
 bore him ten sons, and two took her surname,
 founding the {{x|Kimhae Heo}} lineage wisdom.
@@ -66,8 +66,8 @@ the maritime links between {{p|South Asia}}
 and {{p|East Asia}} were already there, unafraid.
 
 The {{x|Kimhae Heo}} and {{x|Kimhae Kim}} clans
-both trace descent from {{c|Heo Hwang-ok}}.
-Millions of modern {{c|Koreans}} trace
+both trace descent from {{c|2562|Heo Hwang-ok}}.
+Millions of modern {{c|2564|Koreans}} trace
 their lineage back to this {{p|Indian}} shock.
 
 {{x|Buddhism}} would later come to {{p|Korea}}
@@ -80,27 +80,27 @@ splitting into schools and lineages,
 {{x|Theravada}}, {{x|Sarvastivada}}, {{x|Mahasanghika}},
 the {{x|Vibhajyavada}} and other sages.
 
-The {{c|Kushan Empire}} under {{c|Kanishka}}
+The {{c|2565|Kushan Empire}} under {{c|2566|Kanishka}}
 in the second century united
 {{p|Bactria}}, {{p|Gandhara}}, and northwest {{p|India}},
 where {{x|Greco-Buddhist}} art ignited.
 
-The {{p|Gandhara}} school carved {{c|Buddha}} statues
+The {{p|Gandhara}} school carved {{c|1959|Buddha}} statues
 in a {{x|Hellenistic}} {{x|Greek}} style,
-with flowing robes like {{c|Apollo}}'s,
+with flowing robes like {{c|2567|Apollo}}'s,
 with {{p|Mediterranean}} faces, for a while.
 
-This is the origin of all {{c|Buddha}} images.
-Before {{p|Gandhara}}, the {{c|Buddha}} was
+This is the origin of all {{c|1959|Buddha}} images.
+Before {{p|Gandhara}}, the {{c|1959|Buddha}} was
 represented only by symbols — wheel,
 footprint, empty throne, the cause.
 
 After {{p|Gandhara}}, the anthropomorphic
-{{c|Buddha}} with long earlobes, topknot, robe
+{{c|1959|Buddha}} with long earlobes, topknot, robe
 spread across {{p|Asia}} from {{p|India}} east,
 became the icon of the globe.
 
-{{c|Kanishka}} convened the {{x|Fourth Buddhist Council}},
+{{c|2566|Kanishka}} convened the {{x|Fourth Buddhist Council}},
 where the {{x|Sarvastivada}} school was codified,
 and missions went out across the {{p|Silk Road}}
 to carry dharma to where it could hide.
@@ -113,7 +113,7 @@ to save all beings, who feels what all feels.
 The {{x|Lotus Sutra}}, the {{x|Heart Sutra}},
 the {{x|Diamond Sutra}} were being written,
 expanding the scope of the teaching from
-the arhat path to the {{c|Buddha}}'s wisdom.
+the arhat path to the {{c|1959|Buddha}}'s wisdom.
 
 {{x|Mahayana}} would be the form that traveled east
 to {{p|China}}, {{p|Korea}}, {{p|Japan}}, {{p|Vietnam}}.
@@ -142,20 +142,20 @@ not yet the cultural river, wholly.
 
 The {{p|Han}} itself was showing strain.
 The empress clans fought palace war.
-The {{c|Yellow Turbans}} rebelled in anger.
+The {{c|2568|Yellow Turbans}} rebelled in anger.
 The {{p|Han}} would fall in the third century, raw.
 
 But that's the next chapter. For now,
 mark the crossing: the teaching of
-the {{c|Shakyamuni}} had crossed the mountains,
+the {{c|2569|Shakyamuni}} had crossed the mountains,
 had entered {{p|China}}, the second love.
 
 Two great transmissions. Two great streams
 flowing out from the {{p|Indian}} source:
-{{c|Ashoka}}'s missions south and west;
+{{c|2320|Ashoka}}'s missions south and west;
 these silk-road missions east, of course.
 
 The dharma was becoming world-religion,
 no longer just an {{p|Indian}} way.
-The {{c|Buddha}}'s "middle path" had proved
+The {{c|1959|Buddha}}'s "middle path" had proved
 capable of crossing every sway.

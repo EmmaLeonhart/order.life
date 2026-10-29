@@ -13,17 +13,17 @@ Of the deep who began as a walking horde
 
 Of small, dog-like creatures on the shore
 Of the {{p|Tethys}} Sea in the {{x|Eocene}}'s
-Warm shallows—{{c|Pakicetos}}, no more
+Warm shallows—{{c|1801|Pakicetos}}, no more
 Than a wolf in size, whose genes
 
 Would produce the largest animal
 That has ever lived on earth.
 
-From {{c|Pakicetos}}' shallow, analytical
+From {{c|1801|Pakicetos}}' shallow, analytical
 And fish-hunting wading at the berth
 
 Of the {{p|Tethys}} coast, the whale's transition
-Proceeded step by step: {{c|Ambulocetos}}
+Proceeded step by step: {{c|1802|Ambulocetos}}
 Was the walking whale, the rendition
 Of a crocodile-like swimmer whose veto
 
@@ -34,11 +34,11 @@ Of the ground but whose front legs were the punter's
 
 Paddles in the coastal water.
 
-Then {{c|Rodhocetos}}—the hind legs shrinking,
+Then {{c|1803|Rodhocetos}}—the hind legs shrinking,
 The nostrils migrating, the slaughter
 Of the land-body's architecture sinking
 
-Toward the streamlined form—and {{c|Basilosauros}},
+Toward the streamlined form—and {{c|1804|Basilosauros}},
 The ancient whale, sixty feet of serpentine
 And fully aquatic ocean's chorus,
 Whose tiny vestigial hind-limbs' line
@@ -50,7 +50,7 @@ Of the ocean was the cetacean's missionary
 
 Position: the whale was fully marine.
 
-And then the great division: {{c|Odontocetos}}—
+And then the great division: {{c|1805|Odontocetos}}—
 The toothed whales—invented the machine
 Of echolocation, the subaqueous
 
@@ -66,7 +66,7 @@ And the fish and the squid in the deep-water frieze
 
 Of the acoustic world.
 
-                       And {{c|Mysticetos}}—
+                       And {{c|1806|Mysticetos}}—
 The baleen whales—grew the largest bodies
 That life has ever made: the cetacean's
 Grottos of the ribcage and the body's
@@ -101,7 +101,7 @@ Declaration: I am here, and I am vast,
 And I am singing.
 
                    The second return to the sea
-Was {{c|Pinnipedos}}'—the carnivore's forecast
+Was {{c|1796|Pinnipedos}}'—the carnivore's forecast
 Of the ocean's opportunity—already told
 
 In the carnivorans' chapter,
@@ -115,8 +115,8 @@ And stores the oxygen in the biology
 
 Of the blood and muscle, not the air.
 
-And the third return was {{c|Sirenios}}'—
-Already told in {{c|Afrotheros}}' care,
+And the third return was {{c|1789|Sirenios}}'—
+Already told in {{c|1782|Afrotheros}}' care,
 The manatee's and dugong's areas
 
 Of the seagrass meadow, the gentle grazer
@@ -132,7 +132,7 @@ Of the walker's bones—and the blue
 
 And singing and the deep and diving world
 Of the marine mammal was the proof
-That {{c|Mammos}}' banners, once unfurled
+That {{c|1743|Mammos}}' banners, once unfurled
 On land, could conquer the aloof
 
 And ancient ocean too—the synapsid's return

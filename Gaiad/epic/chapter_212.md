@@ -5,33 +5,33 @@ for centuries, {{p|Lithuania}} remained pagan
 into the late fourteenth century — the last
 pagan state in {{p|Europe}}, the Baltic stronghold.
 
-The {{c|Lithuanians}} worshipped {{c|Perkūnas}} the thunder god
-(cognate with {{c|Thor}}, {{c|Zeus}}, {{c|Indra}}, {{c|Perun}}),
-{{c|Gabija}} the hearth goddess, {{c|Žemyna}} earth goddess,
+The {{c|3191|Lithuanians}} worshipped {{c|3192|Perkūnas}} the thunder god
+(cognate with {{c|2937|Thor}}, {{c|2065|Zeus}}, {{c|2063|Indra}}, {{c|3193|Perun}}),
+{{c|3194|Gabija}} the hearth goddess, {{c|3195|Žemyna}} earth goddess,
 and a pantheon of forest, water, and sky spirits.
 
-Sacred oak groves ({{c|alkas}}) were their temples.
+Sacred oak groves ({{c|3196|alkas}}) were their temples.
 The sacred fire at {{p|Vilnius}} was tended eternally
-by priestesses ({{c|vaidilutės}}). Amber was sacred.
-The sky-god {{c|Dievas}} presided over all, paternally.
+by priestesses ({{c|3197|vaidilutės}}). Amber was sacred.
+The sky-god {{c|3198|Dievas}} presided over all, paternally.
 
-The {{c|Teutonic Knights}} had been trying to crusade
-against the {{c|Lithuanians}} since the thirteenth century,
+The {{c|3055|Teutonic Knights}} had been trying to crusade
+against the {{c|3191|Lithuanians}} since the thirteenth century,
 officially to convert them, actually to conquer them.
-The {{c|Lithuanians}} fought back with ferocity surgery.
+The {{c|3191|Lithuanians}} fought back with ferocity surgery.
 
-Under {{c|Grand Duke Gediminas}} (r. 1316-1341), {{p|Lithuania}}
+Under {{c|3199|Grand Duke Gediminas}} (r. 1316-1341), {{p|Lithuania}}
 expanded dramatically, absorbing Russian principalities
 weakened by the Mongol yoke. By the 1380s it stretched
 from the Baltic to the {{p|Black Sea}}, the greatest of entities.
 
 Gediminas's tolerant policy allowed Orthodox Christian
-{{c|Russians}} to practice their faith while {{c|Lithuanians}}
+{{c|3200|Russians}} to practice their faith while {{c|3191|Lithuanians}}
 remained pagan. The {{p|Grand Duchy}} was a multi-religious
 confederation, an unusual political consortium tanya-ns.
 
-In 1386, Grand Duke {{c|Jogaila}} ({{c|Jagiełło}} in Polish)
-married {{c|Queen Jadwiga}} of {{p|Poland}}, converted to
+In 1386, Grand Duke {{c|3201|Jogaila}} ({{c|3202|Jagiełło}} in Polish)
+married {{c|3203|Queen Jadwiga}} of {{p|Poland}}, converted to
 {{x|Catholicism}}, and was crowned King of {{p|Poland}}. He committed
 {{p|Lithuania}} to Christianization as part of the deal, too.
 
@@ -43,16 +43,16 @@ household offerings continued to be made, with traces.
 Some sacred groves survived until the twentieth century.
 Lithuanian folk religion remained one of the most intact
 surviving Indo-European traditions, with names
-for gods that {{c|Hindus}} would recognize, intact.
+for gods that {{c|3204|Hindus}} would recognize, intact.
 
-The {{c|Polish-Lithuanian Union}} became one of the
+The {{c|3205|Polish-Lithuanian Union}} became one of the
 great European powers of the fifteenth-sixteenth centuries.
-At the {{c|Battle of Grunwald}} in 1410, {{p|Poland-Lithuania}}
-defeated the {{c|Teutonic Knights}} decisively, no century-teeth.
+At the {{c|3206|Battle of Grunwald}} in 1410, {{p|Poland-Lithuania}}
+defeated the {{c|3055|Teutonic Knights}} decisively, no century-teeth.
 
-The {{c|Teutonic Knights}} never recovered from {{p|Grunwald}}.
-Their crusading justification was gone — the {{c|Lithuanians}}
-were Christian now. The {{c|Order}} would fade into irrelevance
+The {{c|3055|Teutonic Knights}} never recovered from {{p|Grunwald}}.
+Their crusading justification was gone — the {{c|3191|Lithuanians}}
+were Christian now. The {{c|450|Order}} would fade into irrelevance
 over the following century, pagan-hunting orphanians.
 
 The deflationary polytheist notes {{p|Lithuania}} as the
@@ -60,7 +60,7 @@ counterfactual that proves the rule: {{x|Christianity}} spread
 through political-military pressure, not popular conversion.
 When a state could hold out, paganism could persist widespread.
 
-The {{c|Lithuanians}} have preserved Indo-European linguistic
+The {{c|3191|Lithuanians}} have preserved Indo-European linguistic
 features that are older than {{x|Sanskrit}}. The Lithuanian
 language is the most archaic of surviving Indo-European
 languages, closer to {{x|Proto-Indo-European}} than the maritime.
@@ -68,12 +68,12 @@ languages, closer to {{x|Proto-Indo-European}} than the maritime.
 "{{x|The Book That Was Never Written}}" — there could have been
 a Baltic equivalent of the {{x|Eddas}} or the {{x|Mahabharata}},
 preserving the Indo-European pantheon in its purest form,
-had {{p|Lithuania}} had a {{c|Snorri Sturluson}}, a sacra-data.
+had {{p|Lithuania}} had a {{c|2933|Snorri Sturluson}}, a sacra-data.
 
-But there was no Lithuanian {{c|Snorri}}. The oral tradition
+But there was no Lithuanian {{c|2934|Snorri}}. The oral tradition
 survived partially in folklore, but the mythology as
 a coherent system was lost. What we can reconstruct
-is fragmentary, compared to the {{c|Norse}} or Greek corpus.
+is fragmentary, compared to the {{c|2929|Norse}} or Greek corpus.
 
 It is one of the great "what ifs" of world literature.
 The last great Indo-European polytheism in {{p|Europe}},

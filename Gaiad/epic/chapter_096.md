@@ -45,7 +45,7 @@ And death of worlds is the geological buzz
 Of a planet that does not think.
 
                                   On land,
-{{c|Cruros}}' mighty rauisuchians fell:
+{{c|1732|Cruros}}' mighty rauisuchians fell:
 The four-legged, heavy, crocodile-planned
 Archosaurs who had held the {{x|Triassic}} spell
 
@@ -56,7 +56,7 @@ On their entire lineage, every shore
 
 And river they had haunted now was empty.
 The aetosaurs, the armored herbivores
-Of {{c|Cruros}}' line, whose plated backs had been free
+Of {{c|1732|Cruros}}' line, whose plated backs had been free
 Of any predator's tooth—these patient stores
 
 Of walking armor were no proof against
@@ -82,7 +82,7 @@ Every river empty of the phytosaur,
 Every lowland free of rauisuchian's rendition
 Of the apex predator—the floor
 
-Was clear, and {{c|Deinos}} walked onto it.
+Was clear, and {{c|1736|Deinos}} walked onto it.
 
 The dinosaurs, who had been upland runners,
 Marginal, small, surviving on the grit
@@ -95,8 +95,8 @@ To match: into every lowland, every reed-
 
 Bank, every river-valley, every coast,
 The dinosaurs radiated, and the crown
-That {{c|Cruros}} had worn was given to the host
-Of {{c|Avemeta}}'s children—hand-me-down
+That {{c|1732|Cruros}} had worn was given to the host
+Of {{c|1733|Avemeta}}'s children—hand-me-down
 
 From the elder to the younger, as the world
 Decreed through the merciless selection
@@ -106,22 +106,22 @@ Of the {{x|Jurassic}}'s new direction
 Were all dinosaurian.
 
                         In the sea,
-The {{c|Ichthyos}} survived—diminished, fewer,
+The {{c|1726|Ichthyos}} survived—diminished, fewer,
 But still swimming in the {{p|Tethys}}, free
 To continue their dolphin-mimicry's pure
 
-And ancient form. And {{c|Nothros}}' children stirred
+And ancient form. And {{c|1729|Nothros}}' children stirred
 Toward the deeper water, and the paddle-limbed
 Descendants of the sauropterygians heard
 The ocean calling them to fill the brimmed
 
 And empty niches of the post-extinction sea.
 
-And {{c|Cruros}}' humblest children—the small
+And {{c|1732|Cruros}}' humblest children—the small
 Crocodilian ancestors—these were free
 To claim the rivers for their own, the call
 
-Of {{c|Cruros}} answered by his least:
+Of {{c|1732|Cruros}} answered by his least:
 The modest, the amphibious, the meek
 Inheritors who survived the beast
 Of volcanism by being too small to seek

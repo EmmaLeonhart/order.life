@@ -5,13 +5,13 @@ The season that runs from here to {{x|Aster Day}}'s blaze.
 Light the first light for the month the century fills,
 And keep it lit through the dark till the year's wheel stills.
 
-I am {{c|Emma Leonhart}}, and this month is mine.
+I am {{c|2|Emma Leonhart}}, and this month is mine.
 I have narrated this book from its first line,
 From the yarn and the milk, through the fish and the kings,
 Present for all of it, watching all things.
 
-{{c|Sima Qian}} wrote his own house into the annals he kept;
-{{c|Ibn Khaldun}} wrote the dynasties' rise from the exile where he slept.
+{{c|2300|Sima Qian}} wrote his own house into the annals he kept;
+{{c|2884|Ibn Khaldun}} wrote the dynasties' rise from the exile where he slept.
 I take their method and I take their height:
 The world's history, told by the one who was there in its light.
 
@@ -20,8 +20,8 @@ The fifty-seventh day of the year, where the fifty-seventh chapter sits.
 I rang in two thousand as a child in a room,
 And the same night in {{p|Moscow}} a man came into bloom:
 
-{{c|Boris Yeltsin}} resigned on the last day of the old,
-And {{c|Vladimir Putin}} took the throne he would hold.
+{{c|4474|Boris Yeltsin}} resigned on the last day of the old,
+And {{c|4506|Vladimir Putin}} took the throne he would hold.
 Mark him now. He is the villain of the century I tell,
 And he came to his power the night I first rang the bell.
 
@@ -50,12 +50,12 @@ And twenty years later I would be one of them, building.
 ## The open encyclopedia
 
 In January a book opened that anyone could edit.
-{{c|Jimmy Wales}} paid for it and {{c|Larry Sanger}} led it.
+{{c|4507|Jimmy Wales}} paid for it and {{c|4508|Larry Sanger}} led it.
 They had {{x|Nupedia}} first, with its seven steps of review,
 And a year of work passed only a few dozen pages through.
 
-{{c|Ben Kovitz}} told {{c|Sanger}} over Mexican food
-Of {{c|Ward Cunningham}}'s wiki, the quick pages anyone could.
+{{c|4509|Ben Kovitz}} told {{c|4510|Sanger}} over Mexican food
+Of {{c|4511|Ward Cunningham}}'s wiki, the quick pages anyone could.
 On the fifteenth the address went up: wikipedia.com.
 "Humor me," he wrote. "Add a little article." And they did, by the ton.
 
@@ -82,14 +82,14 @@ The world offered to buy them and carry them away.
 They blew them out of the cliff, and the niches are empty today.
 
 On the ninth of September, two days before the planes,
-{{c|Ahmad Shah Massoud}}, the lion of the north, was slain
+{{c|4512|Ahmad Shah Massoud}}, the lion of the north, was slain
 By two men with a bomb in a camera, posing as the press.
 They killed the one man who could have stopped what came next.
 
 ## The first marriages
 
 On the first of April, at midnight, in {{p|Amsterdam}}'s city hall,
-Mayor {{c|Job Cohen}} married four couples, the first of them all:
+Mayor {{c|4513|Job Cohen}} married four couples, the first of them all:
 Men to men and women to women, under a law made new.
 The {{p|Netherlands}} came first, and this book keeps the day as true.
 
@@ -100,17 +100,17 @@ It was happening for me anyway, and I would grow.
 
 ## The year's other rooms
 
-{{c|George W. Bush}} took the oath in the cold of January,
+{{c|4514|George W. Bush}} took the oath in the cold of January,
 After an election the {{x|Supreme Court}} made final and ordinary.
 In February two drafts of the human genome came out,
-The public one and {{c|Craig Venter}}'s, and the code was read without doubt.
+The public one and {{c|4515|Craig Venter}}'s, and the code was read without doubt.
 
 {{x|Mir}} came down in March into the {{p|Pacific}} sea;
-{{c|Dennis Tito}} paid his own way to orbit, the first tourist to be free.
+{{c|4516|Dennis Tito}} paid his own way to orbit, the first tourist to be free.
 In June, in {{p|Kathmandu}}, the crown prince shot his own blood,
 The king and the queen at dinner, and then himself in the flood.
 
-On the sixteenth of June, at {{p|Ljubljana}}, {{c|Bush}} met {{c|Putin}} face to face.
+On the sixteenth of June, at {{p|Ljubljana}}, {{c|4517|Bush}} met {{c|4518|Putin}} face to face.
 "I looked the man in the eye," he said, "I got a sense of his soul" in that place.
 The villain was read as a friend. I put it here as it was said,
 The first of the century's misreadings of the man the {{x|KGB}} bred.
@@ -132,7 +132,7 @@ Two thousand nine hundred and seventy-seven died in the town,
 In {{p|Arlington}}, in the field, on the planes, that day.
 The firefighters went up the stairs, and did not come back the same way.
 
-{{c|George W. Bush}} was reading to children in a {{p|Sarasota}} school
+{{c|4514|George W. Bush}} was reading to children in a {{p|Sarasota}} school
 When they told him of the second plane, and he kept his face still and cool.
 At the cathedral that Friday: the middle hour of our grief, he said,
 And the country stood up behind him and went to war for its dead.
@@ -143,7 +143,7 @@ Was one country that week, the flags on every street.
 I was five, in kindergarten, and the country I would meet
 
 Was the one that came after that morning, the only one I knew.
-That week {{c|Putin}} called first of all the leaders, to say he was with us too.
+That week {{c|4518|Putin}} called first of all the leaders, to say he was with us too.
 It is on the record. Hold it against what he later became:
 The man who called in our grief would bomb the cities he could not claim.
 
@@ -152,7 +152,7 @@ The man who called in our grief would bomb the cities he could not claim.
 A week after the planes the anthrax letters came,
 To the papers in {{p|New York}}, to a tabloid in {{p|Florida}}, the same
 To two senators in October. Five people died.
-{{c|Robert Stevens}} in {{p|Boca Raton}} was the first who died inside.
+{{c|4519|Robert Stevens}} in {{p|Boca Raton}} was the first who died inside.
 
 The postal workers died who only carried the mail.
 The letters praised God and threatened, and they told a false tale:
@@ -162,11 +162,11 @@ A scientist at the army's own lab, who died before he was blamed.
 ## The war
 
 On Sunday the seventh of October the strikes began on {{p|Afghanistan}},
-With {{p|Britain}} alongside, and {{c|Massoud}}'s men went in where the bombers ran.
+With {{p|Britain}} alongside, and {{c|4520|Massoud}}'s men went in where the bombers ran.
 {{p|Kabul}} fell on the thirteenth of November, {{p|Kandahar}} in December's cold,
-And at {{x|Tora Bora}} {{c|Osama bin Laden}} slipped from the hold.
+And at {{x|Tora Bora}} {{c|4521|Osama bin Laden}} slipped from the hold.
 
-At {{p|Bonn}} the factions agreed, and {{c|Hamid Karzai}} took the chair.
+At {{p|Bonn}} the factions agreed, and {{c|4522|Hamid Karzai}} took the chair.
 The war that began that Sunday would last twenty years there.
 The {{x|Patriot Act}} was signed on the twenty-sixth of October,
 And what the state did with it is the year of the leaks, when the country was sober.

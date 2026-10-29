@@ -1,47 +1,47 @@
 # Chapter 188: The Fall of Han
 
-While {{p|Rome}} was under the {{c|Severans}} strained,
-the {{c|Han Dynasty}} in {{p|China}} fell apart.
+While {{p|Rome}} was under the {{c|2684|Severans}} strained,
+the {{c|2556|Han Dynasty}} in {{p|China}} fell apart.
 The eunuchs fought the Confucian scholars.
-The {{c|Yellow Turbans}} rose with fervent heart.
+The {{c|2568|Yellow Turbans}} rose with fervent heart.
 
-{{c|Zhang Jue}} and his brothers led
-the {{c|Yellow Turban Rebellion}} in 184.
+{{c|2685|Zhang Jue}} and his brothers led
+the {{c|2686|Yellow Turban Rebellion}} in 184.
 {{x|Taiping Dao}}, the {{x|Way of Great Peace}},
 promised a new heaven, a new core.
 
-{{c|Zhang Jue}} claimed healing powers, faith
+{{c|2685|Zhang Jue}} claimed healing powers, faith
 cures, magical ceremonies, bean counting.
 When plague and famine struck the peasants,
 his followers numbered hundreds of thousands mounting.
 
 The {{x|Han}} court raised armies, crushed the revolt,
 but the generals became too strong thereby.
-{{c|Dong Zhuo}} marched into the capital,
+{{c|2687|Dong Zhuo}} marched into the capital,
 controlled the boy emperor, made him cry.
 
-{{c|Dong Zhuo}} was assassinated. The warlords
+{{c|2687|Dong Zhuo}} was assassinated. The warlords
 carved up {{p|China}} like meat on the bone.
-{{c|Cao Cao}}, {{c|Liu Bei}}, {{c|Sun Quan}} emerged
+{{c|2688|Cao Cao}}, {{c|2689|Liu Bei}}, {{c|2690|Sun Quan}} emerged
 as the three great regional powers alone.
 
-{{c|Cao Cao}} held the north, controlled the emperor,
+{{c|2688|Cao Cao}} held the north, controlled the emperor,
 ruled through the {{x|Han}} name though he was king.
-{{c|Liu Bei}} claimed descent from {{x|Han}} imperial blood,
+{{c|2689|Liu Bei}} claimed descent from {{x|Han}} imperial blood,
 built his base in {{p|Shu}}, the southwestern ring.
 
-{{c|Sun Quan}} inherited the south from his father and brother,
+{{c|2690|Sun Quan}} inherited the south from his father and brother,
 built his power along the {{p|Yangtze}}'s mouth,
 {{p|Wu}} the eastern kingdom along the coast.
 {{x|Three Kingdoms}}: {{p|Wei}}, {{p|Shu}}, {{p|Wu}}, facing drouth.
 
-In two-twenty, {{c|Cao Cao}}'s son {{c|Cao Pi}}
+In two-twenty, {{c|2688|Cao Cao}}'s son {{c|2691|Cao Pi}}
 forced the last {{x|Han}} emperor to abdicate.
-The {{x|Han}} was formally dead. {{c|Cao Pi}}
+The {{x|Han}} was formally dead. {{c|2691|Cao Pi}}
 declared {{p|Wei}} dynasty at its birth date.
 
-{{c|Liu Bei}} declared {{p|Shu Han}} in response.
-{{c|Sun Quan}} declared {{p|Wu}} a few years later.
+{{c|2689|Liu Bei}} declared {{p|Shu Han}} in response.
+{{c|2690|Sun Quan}} declared {{p|Wu}} a few years later.
 The {{x|Three Kingdoms}} period had begun,
 lasting sixty years, never quieter.
 
@@ -60,7 +60,7 @@ With Confucian order failing, people turned
 to the foreign teaching that addressed suffering.
 Monasteries multiplied, sutras were earned.
 
-{{c|Kumarajiva}} was brought from {{p|Kucha}} as hostage
+{{c|2692|Kumarajiva}} was brought from {{p|Kucha}} as hostage
 to {{p|Chang'an}} where he translated sutras,
 the {{x|Lotus}}, the {{x|Diamond}}, the {{x|Vimalakirti}},
 setting the standard for Chinese Buddhist tutors.
@@ -70,25 +70,25 @@ into an organized religion with clergy,
 temples, canon, and liturgies modeled
 on Buddhist forms they found analogously.
 
-The {{c|Celestial Masters}} had emerged
+The {{c|2693|Celestial Masters}} had emerged
 in the late {{x|Han}} as an organized church.
-{{c|Ge Hong}}'s alchemy sought immortality.
+{{c|2694|Ge Hong}}'s alchemy sought immortality.
 {{x|Daoism}} became institutional perch.
 
 {{p|China}} would not be reunified until
-{{c|Sui Wendi}} in five-eighty-nine.
-And then the {{c|Tang Dynasty}} would build
+{{c|2695|Sui Wendi}} in five-eighty-nine.
+And then the {{c|2696|Tang Dynasty}} would build
 on that foundation the greatest era fine.
 
 But first, the {{x|Three Kingdoms}} would become
 the great subject of Chinese historical imagination.
-The {{c|Romance of the Three Kingdoms}} novel
+The {{c|2697|Romance of the Three Kingdoms}} novel
 would make these warlords into every nation's creation.
 
-{{c|Cao Cao}}: the cunning, ruthless antihero.
-{{c|Liu Bei}}: the virtuous, righteous claimant.
-{{c|Zhuge Liang}}: the brilliant strategist advisor.
-{{c|Guan Yu}}: the loyal sworn brother, servant of heaven's pavement.
+{{c|2688|Cao Cao}}: the cunning, ruthless antihero.
+{{c|2689|Liu Bei}}: the virtuous, righteous claimant.
+{{c|2698|Zhuge Liang}}: the brilliant strategist advisor.
+{{c|2699|Guan Yu}}: the loyal sworn brother, servant of heaven's pavement.
 
 Their stories would shape Chinese culture
 for fifteen centuries to come,

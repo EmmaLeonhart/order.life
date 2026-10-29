@@ -7,7 +7,7 @@ Of cone upon cone, but something beneath
 
 The surface of the jaw that said: the food
 I eat deserves a different tool for each
-Part of the eating—{{c|Cynos}} understood
+Part of the eating—{{c|1673|Cynos}} understood
 Before the word was known that every reach
 
 Of sustenance requires a separate skill:
@@ -30,7 +30,7 @@ In an occluding pair of fitted tools
 That ground the meal with every chew, a grower
 Of the brain through better food that fuels
 
-The costly thinking tissue: {{c|Cynos}}
+The costly thinking tissue: {{c|1673|Cynos}}
 Found in differentiated teeth
 A path to more nutrition, more the prose
 Of brainwork possible, beneath
@@ -50,7 +50,7 @@ Jaw-bones that reptiles use to chew
 Would over generations claim
 A different life in sound and view.
 
-But {{c|Cynos}} held another secret close—
+But {{c|1673|Cynos}} held another secret close—
 The whisker. In his snout were pits
 For whisker follicles, the most
 Diagnostic mark of all: what sits
@@ -60,14 +60,14 @@ And hair means warm blood to grow and keep it,
 Hair means the body generates somewhere
 Within itself the heat to heat it.
 
-{{c|Cynos}} was perhaps already warm—
+{{c|1673|Cynos}} was perhaps already warm—
 Not perfectly, not like the mammal would be,
 But moving past the cold blood norm
 Toward the internally-heated body free
 
 Of morning sunning, free of the hour
 Wasted waiting for the sun to rise
-Before the hunt—{{c|Cynos}} had the power
+Before the hunt—{{c|1673|Cynos}} had the power
 To be already heated at sunrise.
 
 He burrowed deep into the earth as well—
@@ -85,7 +85,7 @@ Or cold for those above the ground to bear,
 The ones who lived below would not
 Receive the killing dose of ash and air.
 
-{{c|Cynos}} knew none of this. He dug
+{{c|1673|Cynos}} knew none of this. He dug
 Because the burrow kept his young secure,
 Because the den's consistent temperature snug
 Was warmer than the drying world's unsure
@@ -100,17 +100,17 @@ A world one hundred thousand years ahead
 When everything above ground met its fate
 And only burrowers were not dead.
 
-So {{c|Cynos}} in his burrow raised his young
+So {{c|1673|Cynos}} in his burrow raised his young
 With warm milk—not yet true mammalian,
 Perhaps still eggs, but with the tongue
-Of ancient motherhood, {{c|Pygmalion}}
+Of ancient motherhood, {{c|1721|Pygmalion}}
 
 Of what care would become—he sat above
 His clutch and warmed them with his own body's heat,
 The first experiment in active love,
 In giving warmth as the parental feat.
 
-Honor {{c|Cynos}} for the dog-toothed gift—
+Honor {{c|1673|Cynos}} for the dog-toothed gift—
 For differentiation, for the warm
 And burrowed life that gave the future's lift
 To those who'd need it most in coming storm.

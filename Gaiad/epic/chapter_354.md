@@ -37,7 +37,7 @@ Who had worked at {{x|Cambridge Analytica}}, that it had taken the data of some 
 A quiz that a few hundred thousand had taken, which reached their friends,
 And built from it the shapes of their fears, to sell to the campaigns, among them the one that won twenty sixteen, and the one that took {{p|Britain}} to its ends.
 
-In April {{c|Mark Zuckerberg}} sat before the congress for two days,
+In April {{c|4538|Mark Zuckerberg}} sat before the congress for two days,
 And when a senator asked how the company made money if its service was free, he said: Senator, we run ads, and that was the phrase.
 On the twenty-fifth of May the law of {{p|Europe}} on the protection of data came into force,
 And every site in the world asked its users to accept its cookies, and the friend of a friend had been the product all along, of course.
@@ -61,9 +61,9 @@ With a rifle, and killed seventeen people, fourteen of them students, in the cor
 And the students who lived did not ask for prayers. They organized, and marched,
 And on the twenty-fourth of March they led hundreds of thousands in a march for their lives, as the country watched,
 
-And one of them, {{c|Emma González}}, stood silent before the crowd for six minutes and twenty seconds, the time it had taken,
+And one of them, {{c|4705|Emma González}}, stood silent before the crowd for six minutes and twenty seconds, the time it had taken,
 And the silence was the ammunition, and the crowd fired it back, and the country was shaken.
-On the twentieth of August a girl of fifteen, {{c|Greta Thunberg}}, sat alone outside the parliament of {{p|Sweden}},
+On the twentieth of August a girl of fifteen, {{c|4706|Greta Thunberg}}, sat alone outside the parliament of {{p|Sweden}},
 With a sign that said school strike for the climate, and within a year millions of children were striking on Fridays, and the strike was a kingdom.
 
 ## Twelve years
@@ -80,7 +80,7 @@ Blocked the roundabouts against a tax on fuel, and burned the {{x|Champs-Élysé
 
 ## The murder in the consulate
 
-On the second of October {{c|Jamal Khashoggi}}, a writer for a paper of {{p|Washington}}, who had criticized the heir of {{p|Saudi Arabia}},
+On the second of October {{c|4707|Jamal Khashoggi}}, a writer for a paper of {{p|Washington}}, who had criticized the heir of {{p|Saudi Arabia}},
 Walked into his country's consulate in {{p|Istanbul}} to get a paper for his wedding, while his fiancée waited outside, in the plaza,
 And was killed inside by a team flown in for it, and cut apart,
 And the intelligence of the {{p|United States}} later said the heir had approved it, and the president said the arms sales were the heart.
@@ -90,21 +90,21 @@ And the intelligence of the {{p|United States}} later said the heir had approved
 On the twenty-third of June twelve boys of a football team in {{p|Thailand}} and their coach went into a cave after practice,
 And the rains came and flooded it behind them, and they were found on the tenth day, on a ledge, by two British divers, in the darkness,
 And over three days in July they were brought out, sedated, by the divers through the flooded passages, and all thirteen lived,
-And a Thai diver, {{c|Saman Kunan}}, died laying the air tanks, and that was the life he gave.
+And a Thai diver, {{c|4708|Saman Kunan}}, died laying the air tanks, and that was the life he gave.
 
 ## The summit and the tariffs
 
-On the twelfth of June the American president met {{c|Kim Jong-un}} in {{p|Singapore}},
+On the twelfth of June the American president met {{c|4646|Kim Jong-un}} in {{p|Singapore}},
 The first meeting of the two countries' leaders, and they signed a page of hopes, and the hopes went no further than before.
 In the spring he put tariffs on steel and aluminum, my country's too, for the security of the nation,
 And in the summer on the goods of {{p|China}}, which answered in kind, and the war of trade began its duration,
 
-And in October {{c|Brett Kavanaugh}}, accused by a woman who had known him at school of assaulting her,
+And in October {{c|4709|Brett Kavanaugh}}, accused by a woman who had known him at school of assaulting her,
 Was confirmed to the {{x|Supreme Court}} anyway, and the court was taken over.
 
 ## The far right
 
-On the twenty-eighth of October {{p|Brazil}} elected {{c|Jair Bolsonaro}}, who had praised its dictatorship,
+On the twenty-eighth of October {{p|Brazil}} elected {{c|4710|Jair Bolsonaro}}, who had praised its dictatorship,
 And said he would rather his son died than was gay, and in {{p|Italy}} the parties against the system took the government's ship.
 On the twenty-seventh of October a man who believed the Jews were bringing in the migrants
 Walked into the {{x|Tree of Life}} synagogue in {{p|Pittsburgh}} during the Sabbath service, and killed eleven, the deadliest attack on Jews that country had witnessed.
@@ -114,7 +114,7 @@ Drove a van down the sidewalks of {{x|Yonge Street}} and killed ten, and praised
 
 ## The babies
 
-On the twenty-fifth of November a scientist in {{p|Shenzhen}}, {{c|He Jiankui}},
+On the twenty-fifth of November a scientist in {{p|Shenzhen}}, {{c|4711|He Jiankui}},
 Said that two girls had been born whose genes he had edited as embryos, to make them resistant to the virus of AIDS, as the first of the free,
 And the world's scientists said he had done what no one should, and he was sent to prison,
 And he was a pioneer, wrongly punished, for the letters of the genome were now being written, and he had risen.
@@ -138,10 +138,10 @@ And the villain denied it, and the bottle was his, and the poison was his pride.
 
 On the twenty-fifth of May the people of {{p|Ireland}} voted to allow abortion,
 And on the ninth of July {{p|Ethiopia}} and {{p|Eritrea}} ended twenty years of war, for a portion,
-And the prime minister of {{p|Ethiopia}}, {{c|Abiy Ahmed}}, was given the peace prize the next year,
+And the prime minister of {{p|Ethiopia}}, {{c|4712|Abiy Ahmed}}, was given the peace prize the next year,
 And the year after that began a war of his own in {{p|Tigray}}, and the prize was not clear.
 
-On the first of July {{p|Mexico}} elected {{c|Andrés Manuel López Obrador}},
+On the first of July {{p|Mexico}} elected {{c|4713|Andrés Manuel López Obrador}},
 And in the summer the villain held the games of football in {{p|Russia}}, and the world came to his door.
 
 ## The year held

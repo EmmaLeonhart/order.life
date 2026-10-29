@@ -10,7 +10,7 @@ Do not make the two meetings one meeting.
 They were not a church that day.
 The poems were already old. The meeting was new.
 
-{{c|Sveinbjörn Beinteinsson}} was a sheep farmer
+{{c|4454|Sveinbjörn Beinteinsson}} was a sheep farmer
 In {{p|Borgarfjörður}}, and a singer of rímur.
 Soon after, they gave him the title allsherjargoði,
 The word that had named the goði
@@ -20,7 +20,7 @@ Do not say a medieval law had been waiting
 On a farm.
 
 In the first letter to the ministry
-They named the old religion of the {{c|Icelanders}},
+They named the old religion of the {{c|4455|Icelanders}},
 Law until the year 1000, so far as it fitted
 A new time and changed conditions.
 A paper that spring called them
@@ -39,18 +39,18 @@ Do not say the gods ended in a day,
 Or that a public sacrifice had never stopped.
 
 Shortly before {{x|Christmas}}, 1972,
-{{c|Sveinbjörn Beinteinsson}} and {{c|Þorsteinn Guðjónsson}}
-Went to {{c|Ólafur Jóhannesson}},
+{{c|4454|Sveinbjörn Beinteinsson}} and {{c|4456|Þorsteinn Guðjónsson}}
+Went to {{c|4457|Ólafur Jóhannesson}},
 Minister of justice and of ecclesiastical affairs.
 He thought the request was a joke.
 They said they were serious, and he asked for papers.
-By {{c|Sveinbjörn}}'s account, after they had left,
+By {{c|4458|Sveinbjörn}}'s account, after they had left,
 The lights went out in the center of {{p|Reykjavík}}.
 On the second of January a paper made a joke of it,
-And gave the thunder to {{c|Þór}}.
+And gave the thunder to {{c|4459|Þór}}.
 The letter was not that night. A storm is not a signature.
 
-{{c|Sigurbjörn Einarsson}}, bishop of {{p|Iceland}},
+{{c|4460|Sigurbjörn Einarsson}}, bishop of {{p|Iceland}},
 Wrote against it. The opinion is dated
 The second of January, 1973.
 He read the right to found organizations to serve god
@@ -95,9 +95,9 @@ A name on a list draws a share.
 A share is not a belief.
 Do not say {{p|Iceland}} changed its church.
 
-Later that year {{c|Halldór Blöndal}}
-And {{c|Magnús Jónsson}} asked the minister why.
-{{c|Magnús Jónsson}} said the freedom was for one god,
+Later that year {{c|4461|Halldór Blöndal}}
+And {{c|4462|Magnús Jónsson}} asked the minister why.
+{{c|4462|Magnús Jónsson}} said the freedom was for one god,
 And that a polytheism, and idol worship,
 Were not a lawful recognition.
 The minister answered with the freedom of association
@@ -107,7 +107,7 @@ It reached far enough: the old gods were recognized.
 
 On the fifth of August, at {{p|Dragháls}},
 They held a blót in the rain, under a plaster figure
-Of {{c|Þór}} that {{c|Jörmundur Ingi Hansen}} had made.
+Of {{c|4459|Þór}} that {{c|4463|Jörmundur Ingi Hansen}} had made.
 A May headline had said nine hundred years.
 The years since the assembly's law are not nine hundred.
 The August telling called the day the first public

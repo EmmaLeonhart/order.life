@@ -39,7 +39,7 @@ Do not make the orbit into a proof
 That a weapon had been justified.
 Do not make the sphere into the weapon.
 
-{{c|Sergei Korolev}} directed the work.
+{{c|4424|Sergei Korolev}} directed the work.
 The state did not publish his name.
 The frequency was published.
 Hold those two acts.
@@ -65,10 +65,10 @@ It burned. It was not recovered.
 
 On the third of November a second satellite
 Left the same pad.
-It carried a dog. Her name was {{c|Laika}}.
+It carried a dog. Her name was {{c|4425|Laika}}.
 There was no way prepared to bring her down.
 The report said she lived for days.
-In 2002 {{c|Dimitri Malashenkov}} said the heat
+In 2002 {{c|4426|Dimitri Malashenkov}} said the heat
 Had killed her within hours,
 By the fourth circuit.
 Do not repeat the report that she lived for days.
@@ -93,7 +93,7 @@ The formal trousers.
 At seven a girl took the wide sash.
 The visit to a shrine, as households keep it,
 Spread in the {{x|Meiji}} years.
-The tradition says the shogun {{c|Tokugawa Tsunayoshi}} fixed the fifteenth for his son,
+The tradition says the shogun {{c|4427|Tokugawa Tsunayoshi}} fixed the fifteenth for his son,
 And this book keeps the tradition.
 
 The child is taken to a shrine.

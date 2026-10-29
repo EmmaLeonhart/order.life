@@ -1,48 +1,48 @@
 # Chapter 40: The Mollusk Rise
 
-While {{c|Molluscs}} were growing strong
+While {{c|884|Molluscs}} were growing strong
 And singing their success song,
 We must not forget the foundation
-Of {{c|Mithra}}'s great creation.
+Of {{c|296|Mithra}}'s great creation.
 
-First {{c|Amaterasu}}'s light
+First {{c|885|Amaterasu}}'s light
 Blesses us both day and night.
-A millionth reaches {{c|Terra}}'s seas
+A millionth reaches {{c|202|Terra}}'s seas
 To feed life's mysteries.
 
-And so the daughters of {{c|Bacta}}
-{{c|Farm}} with light most attracta.
+And so the daughters of {{c|209|Bacta}}
+{{c|886|Farm}} with light most attracta.
 First among them, daughters all
-Of {{c|Saya}} answer light's call.
+Of {{c|262|Saya}} answer light's call.
 
-The {{c|Blue}} {{c|Green}} {{c|Algae}} spread
+The {{c|887|Blue}} {{c|888|Green}} {{c|889|Algae}} spread
 Like living ocean's bread.
 They farm the sunlight bright
 From dawn until twilight.
 
-The sons of {{c|Viros}} take
+The sons of {{c|25|Viros}} take
 Their share for hunger's sake.
-From daughters of {{c|Saya}} they steal
+From daughters of {{c|262|Saya}} they steal
 To make their viral meal.
 
 And so the viruses were
 The predators that were
-While daughters of {{c|Saya}} became
+While daughters of {{c|262|Saya}} became
 The prey in this deadly game.
 
 By viruses came new
-{{c|Connections}} strange and true.
+{{c|890|Connections}} strange and true.
 A link that none had seen
 In life's ancestral scene.
 
-The daughters of {{c|Pelagia}},
+The daughters of {{c|891|Pelagia}},
 Those sisters whose sagia
-{{c|Benevolence}} would show
+{{c|892|Benevolence}} would show
 To all who live below,
 
 The mitochondria's kin
 Ate remnants thick and thin
-Of {{c|Cyanobacteria}}.
+Of {{c|381|Cyanobacteria}}.
 Their numbers would hysteria
 
 Create beyond conceiving—
@@ -52,11 +52,11 @@ In waters high and low.
 
 And then there were of old
 Purple farmers, brave and bold,
-Who came before {{c|Saya}}'s line
+Who came before {{c|262|Saya}}'s line
 With photosynthesis fine.
 
-{{c|Roseobella}}, daughter great
-Of {{c|Elah}}'s loving state
+{{c|893|Roseobella}}, daughter great
+Of {{c|894|Elah}}'s loving state
 Of lesbian motherhood,
 Among purple farmers stood
 
@@ -71,18 +71,18 @@ The detritus that fell,
 All were consumed well
 
 By great crown-tails so fine,
-The {{c|Choanoflagellates}}' line—
+The {{c|895|Choanoflagellates}}' line—
 Our closest cousins true
 In waters deep and blue.
 
-Alongside sons of {{c|Choanos}}
+Alongside sons of {{c|397|Choanos}}
 Lived the tiny golden rados:
-Golden {{c|Algae}} bright and fair
+Golden {{c|889|Algae}} bright and fair
 Floating everywhere.
 
-The sons of {{c|Dinoflagellus}}
+The sons of {{c|359|Dinoflagellus}}
 Saw prosperity's telltale thus
-Of {{c|Chrysalgos}} and {{c|Choanos}},
+Of {{c|896|Chrysalgos}} and {{c|397|Choanos}},
 So they ate both, not manos.
 
 And photosynthesized too
@@ -102,7 +102,7 @@ With their phosphorescent pride.
 
 But soon they grew corrupt,
 Their morals were abrupt.
-The sons of {{c|Dinoflagellus}}
+The sons of {{c|359|Dinoflagellus}}
 Turned to ways rebellious.
 
 To cannibalism they turned,
@@ -115,35 +115,35 @@ That answered nature's call.
 Whatever it would touch
 Would suffer very much.
 
-And soon the {{c|Rotifers}}
-{{c|Swooped}} in as officers
+And soon the {{c|662|Rotifers}}
+{{c|897|Swooped}} in as officers
 Of justice from above
 With neither hate nor love.
 
-{{c|Consuming}} remnants of
+{{c|34|Consuming}} remnants of
 A civilization thereof
 That once was great and proud,
-The {{c|Rotifers}} ate loud
+The {{c|662|Rotifers}} ate loud
 
 And grew fat from their meal,
-{{c|Saving}} us from the ordeal
+{{c|898|Saving}} us from the ordeal
 Of plague that would have spread
 If they had not been fed.
 
-{{c|Xanthus}} the {{c|Dinoflagellate}}
+{{c|167|Xanthus}} the {{c|899|Dinoflagellate}}
 Saw carnage desolate
 And fled from his own kind
 To leave that death behind.
 
 As he fled he saw afar
 The great glass houses, par
-{{c|Excellence}} of {{c|Diatoms}}
+{{c|900|Excellence}} of {{c|901|Diatoms}}
 Who built their holy homes.
 
-{{c|Immune}} to conquest's blight
-Of {{c|Rotifers}}' appetite
-And sons of {{c|Viros}} too,
-The {{c|Diatoms}} lived true
+{{c|902|Immune}} to conquest's blight
+Of {{c|662|Rotifers}}' appetite
+And sons of {{c|25|Viros}} too,
+The {{c|901|Diatoms}} lived true
 
 As farmers of the light
 Protected day and night
@@ -151,12 +151,12 @@ By walls of glass so clear
 That kept them without fear.
 
 Then he saw another sight:
-{{c|Coccolithophores}} so bright
+{{c|903|Coccolithophores}} so bright
 Who too grew with armor strong
 To last their whole life long.
 
 And so he cried out loud
-To {{c|Mithra}} from the crowd:
+To {{c|296|Mithra}} from the crowd:
 "Why must my line be cursed
 To be forever dispersed
 
@@ -167,7 +167,7 @@ Like some lonely stranger?"
 
 And then he saw the form
 Of refuge from the storm:
-{{c|Acanther}}, son of {{c|Radios}},
+{{c|904|Acanther}}, son of {{c|384|Radios}},
 A starry greenhouse, glorious.
 
 A great greenhouse open wide
@@ -175,9 +175,9 @@ For him to come inside.
 And so he went within
 And found new life begin.
 
-Within {{c|Acanther}}'s frame
+Within {{c|904|Acanther}}'s frame
 He found prosperity's name.
-The {{c|Radiolarian}}'s shell
+The {{c|905|Radiolarian}}'s shell
 Protected him so well.
 
 As floating greenhouse bright
@@ -190,7 +190,7 @@ Grew so big, you see,
 They found protection true
 In numbers, through and through.
 
-{{c|Sargassos}}, {{c|Lord}} of {{c|Kelp}},
+{{c|906|Sargassos}}, {{c|295|Lord}} of {{c|907|Kelp}},
 Called millions to his help.
 He grew a city wide
 Of cells on every side.
@@ -200,25 +200,25 @@ Who answered plankton's call,
 His city millions strong
 Would last his whole life long.
 
-And so the {{c|Fungi}} came,
-The sons of {{c|Chytros}}' name,
+And so the {{c|908|Fungi}} came,
+The sons of {{c|909|Chytros}}' name,
 To break the great ones down
 And earn decomposer's crown.
 
 They ate them and released
 A million spores increased
 Throughout the watery realm
-With {{c|Chytros}} at the helm.
+With {{c|909|Chytros}} at the helm.
 
-The {{c|Fungi}} are the knights
+The {{c|908|Fungi}} are the knights
 Who balance nature's rights—
-The {{c|Robinhoods}} of sea
+The {{c|910|Robinhoods}} of sea
 Who live quite happily
 
-{{c|Coexisting}} with the line
-Of {{c|Oomycetes}} so fine—
+{{c|911|Coexisting}} with the line
+Of {{c|912|Oomycetes}} so fine—
 The kelp who want to be
-{{c|Fungi}} of the sea.
+{{c|908|Fungi}} of the sea.
 
 And so they brought the wealth
 Of energy and health
@@ -227,16 +227,16 @@ From great ones when day done.
 
 From here the zooplankton
 Emerged, their lives begon:
-The sons of {{c|Foramer}}
-And sons of {{c|Cilliofer}}.
+The sons of {{c|389|Foramer}}
+And sons of {{c|357|Cilliofer}}.
 
-The sons of {{c|Foramer}}
+The sons of {{c|389|Foramer}}
 In soils would transfer
 Their fishing to the seas
 With greatest expertise.
 
 They caught the spores and more—
-{{c|Radiolarians}} by score
+{{c|913|Radiolarians}} by score
 And all others they could find
 Of every shape and kind.
 
@@ -245,7 +245,7 @@ That lasted everywhere.
 The snails built their homes
 Upon these calcium domes.
 
-The sons of {{c|Cilliofer}}
+The sons of {{c|357|Cilliofer}}
 Were great ones who prefer
 To use their cilia
 To suck up bacteria
@@ -255,24 +255,24 @@ Into their mouths so good.
 With beating hairs they fed
 And thus were nourished.
 
-Tiny {{c|Trilobites}} came
+Tiny {{c|767|Trilobites}} came
 To play the hunting game.
 They ate the sons of both
-{{c|Foramer}} and, by oath,
+{{c|389|Foramer}} and, by oath,
 
-{{c|Cilliofer}}'s children too,
+{{c|357|Cilliofer}}'s children too,
 As predators would do.
 The food chain thus was made
 Where each their role played.
 
-The sons of {{c|Chordatus}}
-{{c|Burrowed}}, most glorious,
+The sons of {{c|673|Chordatus}}
+{{c|914|Burrowed}}, most glorious,
 Through soil to find the food
 That from above renewed
 
 Their bodies' every need.
 Through gill slits they would feed,
-{{c|Pumping}} water through their frame
+{{c|915|Pumping}} water through their frame
 To nourish in their name.
 
 Out their atriopores
@@ -280,27 +280,27 @@ The water freely pours
 When they have taken what
 They need from nature's pot.
 
-Great {{c|Chordatus}} begat
-Two sons: {{c|Olfacter}} begat
-And {{c|Lancelot}} the true
+Great {{c|673|Chordatus}} begat
+Two sons: {{c|916|Olfacter}} begat
+And {{c|917|Lancelot}} the true
 Who traditions knew.
 
-{{c|Lancelot}} continued on
+{{c|917|Lancelot}} continued on
 The ways his father's son
 Had learned from ancient time
 In rhythm and in rhyme.
 
-But {{c|Olfacter}} bore two more:
-{{c|Vertebratus}} to explore
+But {{c|916|Olfacter}} bore two more:
+{{c|918|Vertebratus}} to explore
 The spinal cord's great art,
-And {{c|Tunicatus}}' part.
+And {{c|919|Tunicatus}}' part.
 
-{{c|Vertebratus}} worked each day
+{{c|918|Vertebratus}} worked each day
 To perfect in every way
 His spinal cord so fine
 With neural design.
 
-But {{c|Tunicatus}} chose
+But {{c|919|Tunicatus}} chose
 To rest where water flows.
 He sat upon a rock
 Like shepherd with his flock
@@ -311,16 +311,16 @@ He pumped so much water through
 His filter system grew
 
 To be most of his frame—
-{{c|Water}} was his name.
+{{c|193|Water}} was his name.
 His body became the stream
 Of his filtering dream.
 
-{{c|Tunicatus}} bore two sons:
-{{c|Larvaceus}} when day begun
-And {{c|Ascidaceus}} true
+{{c|919|Tunicatus}} bore two sons:
+{{c|920|Larvaceus}} when day begun
+And {{c|921|Ascidaceus}} true
 Who different pathways knew.
 
-{{c|Larvaceus}} never stayed
+{{c|920|Larvaceus}} never stayed
 In one place, but made
 A giant house of slime
 That lasted for all time.
@@ -330,9 +330,9 @@ He fished throughout the land
 Of water, catching food
 In nets of mucus good.
 
-{{c|Ascidaceus}} became
-{{c|Ancestor}} of fame
-Of {{c|Sea}} {{c|Squirts}} everywhere
+{{c|921|Ascidaceus}} became
+{{c|922|Ancestor}} of fame
+Of {{c|569|Sea}} {{c|681|Squirts}} everywhere
 Who filter with great care.
 
 A wooden tunic bright
@@ -345,19 +345,19 @@ His atriopore indeed
 Would let the water out
 When filtering about.
 
-{{c|Ascidaceus}} bore two more:
-{{c|Stolidos}} to explore
-And {{c|Proteus}} the wise
+{{c|921|Ascidaceus}} bore two more:
+{{c|923|Stolidos}} to explore
+And {{c|223|Proteus}} the wise
 With penetrating eyes.
 
-{{c|Proteus}} begat in time
-{{c|Thallasus}} (so sublime)
-And {{c|Enterogon}} the strong
+{{c|223|Proteus}} begat in time
+{{c|924|Thallasus}} (so sublime)
+And {{c|925|Enterogon}} the strong
 Who lived his whole life long.
 
 While brethren lived as squirts
 Avoiding nature's hurts,
-{{c|Thallasus}} built his city
+{{c|924|Thallasus}} built his city
 Floating (what a pity
 
 That none could match his art!)
@@ -365,42 +365,42 @@ Across the waters' heart.
 His city sailed the sea
 Most beautifully.
 
-{{c|Thallasus}} bore a son
-Named {{c|Dolios}}, lonely one
+{{c|924|Thallasus}} bore a son
+Named {{c|926|Dolios}}, lonely one
 Who lived his life alone
 And made the sea his home.
 
 A solitary life
 He lived through joy and strife,
-{{c|Fishing}} on his own
+{{c|663|Fishing}} on his own
 Where he had grown.
 
-The {{c|Arrow}} {{c|Worms}} would feed
-On {{c|Dolios}} indeed,
-As did the {{c|Trilobites}}
-And {{c|Jellyfish}}'s bites.
+The {{c|668|Arrow}} {{c|655|Worms}} would feed
+On {{c|926|Dolios}} indeed,
+As did the {{c|767|Trilobites}}
+And {{c|604|Jellyfish}}'s bites.
 
-But {{c|Thallasus}} bore more
+But {{c|924|Thallasus}} bore more
 Sons to explore:
-{{c|Pyros}} and {{c|Salpus}} too
+{{c|927|Pyros}} and {{c|928|Salpus}} too
 Who cities built anew.
 
-{{c|Pyros}} built a tube
+{{c|927|Pyros}} built a tube
 So long, like a cube
 Extended through the sea—
 A city floating free.
 
-{{c|Propelled}} by wastewater
+{{c|53|Propelled}} by wastewater
 Like some divine daughter
 Of engineering's art,
 Playing nature's part.
 
-While {{c|Salpus}} built a chain
+While {{c|928|Salpus}} built a chain
 Through sun and storm and rain
 Of beings linked as one
 Until their work was done.
 
-From {{c|Amaterasu}}'s light
+From {{c|885|Amaterasu}}'s light
 To creatures of the night,
 The foundation firm
 Of life's eternal term
@@ -420,8 +420,8 @@ On which each higher race
 Would find their nourishment
 In ocean's element.
 
-From {{c|Choanoflagellates}}
-To {{c|Chordate}}'s vertebrates,
+From {{c|895|Choanoflagellates}}
+To {{c|929|Chordate}}'s vertebrates,
 The family tree grew wide
 With ocean as their guide.
 
@@ -435,12 +435,12 @@ The grand marine parade
 Of life in all its forms
 Through calm and raging storms.
 
-The sons of {{c|Chordatus}} show
+The sons of {{c|673|Chordatus}} show
 How spinal cords can grow
 To be the foundation true
 Of intelligence new.
 
-While {{c|Tunicates}} remind
+While {{c|930|Tunicates}} remind
 Us not to be confined
 To just one way of life—
 Diversity ends strife.

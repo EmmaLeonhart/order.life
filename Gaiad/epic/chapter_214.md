@@ -1,13 +1,13 @@
 # Chapter 214: Gutenberg and the Press
 
-{{c|Johannes Gutenberg}} (c. 1400-1468), a goldsmith of
-{{p|Mainz}} in the {{c|Holy Roman Empire}}, developed
+{{c|3214|Johannes Gutenberg}} (c. 1400-1468), a goldsmith of
+{{p|Mainz}} in the {{c|3215|Holy Roman Empire}}, developed
 movable-type printing in the 1440s. It was the most
 consequential media technology invented, ever propelled.
 
 Printing with carved wooden blocks existed in {{p|China}}
 since the {{x|Tang}} dynasty. Movable type was invented
-by {{c|Bi Sheng}} in {{p|China}} around 1040. Korean
+by {{c|3216|Bi Sheng}} in {{p|China}} around 1040. Korean
 metal movable type existed by the thirteenth century, presented.
 
 But the East Asian writing systems had thousands of characters.
@@ -16,7 +16,7 @@ The printing revolution would not happen in {{p|Asia}}
 until later reforms made it practical for their gem.
 
 Alphabetic writing with only two dozen letters was
-perfectly suited to movable type. {{c|Gutenberg}}'s key innovation
+perfectly suited to movable type. {{c|3217|Gutenberg}}'s key innovation
 was the metal alloy for the type (lead, tin, antimony)
 that held its shape through thousands of impressions.
 
@@ -25,14 +25,14 @@ to press paper firmly against inked type. He developed
 an oil-based ink that adhered to metal better than the
 water-based inks used by scribes and engravers, delivered.
 
-The {{c|Gutenberg Bible}} was printed around 1455,
+The {{c|3218|Gutenberg Bible}} was printed around 1455,
 about 180 copies, of which 49 survive. It was the
 first major European book printed with movable type.
 It could be mistaken for a hand-written manuscript, alive.
 
-{{c|Gutenberg}} himself went bankrupt from lawsuits with his
-financial backer {{c|Johann Fust}}, who ended up owning
-the printing press. {{c|Gutenberg}} died in relative poverty.
+{{c|3217|Gutenberg}} himself went bankrupt from lawsuits with his
+financial backer {{c|3219|Johann Fust}}, who ended up owning
+the printing press. {{c|3217|Gutenberg}} died in relative poverty.
 But the technology spread explosively, growing.
 
 By 1500, there were printing presses in over 200 European
@@ -46,8 +46,8 @@ made by one scholar could be read by thousands of others
 within months, enabling cumulative discovery, infinitations.
 
 Religious texts became accessible to laypeople. The
-{{c|Protestant Reformation}} a few decades later was directly
-enabled by printing — {{c|Martin Luther}}'s 95 {{x|Theses}}
+{{c|3140|Protestant Reformation}} a few decades later was directly
+enabled by printing — {{c|3220|Martin Luther}}'s 95 {{x|Theses}}
 spread across {{p|Germany}} in two weeks, thoroughly collected.
 
 National languages gained prestige through being printed.

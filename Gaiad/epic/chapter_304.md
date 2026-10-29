@@ -1,7 +1,7 @@
 # Chapter 304: The Precinct Divided
 
 At {{p|Kyoto}}, in the November of sixty-seven,
-{{c|Tokugawa Yoshinobu}} gave the government away.
+{{c|4249|Tokugawa Yoshinobu}} gave the government away.
 He meant a council of domains, himself still in it; but heaven
 Was handed back its son: on January's third day
 
@@ -12,7 +12,7 @@ Behind the paper. But the paper is what this day will claim,
 
 Because before the year was out, the paper reached the gods.
 On the sixth of April, in the palace, with the emperor in the hall,
-{{c|Sanjō Sanetomi}} read five articles; and whatever the odds
+{{c|4250|Sanjō Sanetomi}} read five articles; and whatever the odds
 For a state still at war, it swore them to the kami, first of all.
 
 That spring a section for the rites was opened. And in June
@@ -30,8 +30,8 @@ For a thousand years the buddhas had been set above their heads:
 A kami was a buddha's trace; the buddha was the root, the growth
 The kami; monks kept the shrines and read the sutras, and the threads
 
-Of a god's own name were knotted to a buddha's title, {{c|Gongen}},
-The buddha appearing as the god. At {{p|Usa}} and {{p|Iwashimizu}}, {{c|Hachiman}},
+Of a god's own name were knotted to a buddha's title, {{c|4251|Gongen}},
+The buddha appearing as the god. At {{p|Usa}} and {{p|Iwashimizu}}, {{c|2724|Hachiman}},
 The emperors' own ancestor, had been named a bodhisattva then,
 In 781, by the court. Even "the way of the gods" was a word in a {{x|Buddhist}} hand.
 
@@ -42,8 +42,8 @@ The guardians at a temple gate, and nothing more at all.
 
 It was the kami's own who turned it. At {{p|Ise}} the priests
 Took the buddhas' ladder up and stood it on its head;
-The {{c|Yoshida}} called the way the root, the buddhas fruit and leaves;
-And {{c|Motoori Norinaga}} wanted the old words clean, and read
+The {{c|4252|Yoshida}} called the way the root, the buddhas fruit and leaves;
+And {{c|4137|Motoori Norinaga}} wanted the old words clean, and read
 
 The oldest record back to life. They used the host to rise,
 Its words, its learning, and its ladder, turned to serve the kami's name.
@@ -56,7 +56,7 @@ The buildings stayed. The keepers stayed. The rites stayed. Down the lines
 Of the country's shrines the buddha's word was lifted off the kami's heart.
 
 The avatar's title was not to be said. No buddha's image was to be
-The body of a kami. {{c|Hachiman}} was a bodhisattva no more:
+The body of a kami. {{c|2724|Hachiman}} was a bodhisattva no more:
 He was the great divinity, by order, and the order set him free
 To be what he had been: an emperor's son, a god, as he was before.
 
@@ -90,10 +90,10 @@ A state religion that forbids the mixing has mistaken its own art;
 A state religion that keeps the kami first, and lets the buddhas share the town,
 Is what the paper reached for, and what it held, in part.
 
-The {{c|Yoshida}} house and the {{c|Shirakawa}}, who had licensed the priests
+The {{c|4252|Yoshida}} house and the {{c|4253|Shirakawa}}, who had licensed the priests
 From the court for centuries, lost the licensing: the shrines, the order ran,
 Were the nation's rites, not one family's property. But the line of the feasts
-Was not broken; it was taken in. Since 1484 the {{c|Yoshida}} had kept a plan
+Was not broken; it was taken in. Since 1484 the {{c|4252|Yoshida}} had kept a plan
 
 Of all the gods in one hall at {{p|Kyoto}}, the Daigengū, where the kami of the land,
 Three thousand one hundred and thirty-two, were seated round the source; from 1609
@@ -101,13 +101,13 @@ The house had served as the {{x|Jingikan}}'s deputy, with the department's work 
 While the department was a name. And its hall of the eight gods, in 1872, by design,
 
 Gave up its sacred tokens to the palace, to the Shinden, where the emperor's rites
-Are kept today. So the Daigengū runs on in the palace: the state took the {{c|Yoshida}} in;
+Are kept today. So the Daigengū runs on in the palace: the state took the {{c|4252|Yoshida}} in;
 It did not cast them out. And this faith keeps the same: its central shrine invites
 The name, Inochi Daigengū, and its Order is that department's kin,
 
-The {{c|Yoshida}}'s, not the fire's: a shrine may keep its buddha in the yard and still belong.
+The {{c|4252|Yoshida}}'s, not the fire's: a shrine may keep its buddha in the yard and still belong.
 The Order licenses and recognizes, as the old house did, every shrine it can.
-That is the department this book keeps, the {{c|Yoshida}}'s, carried strong
+That is the department this book keeps, the {{c|4252|Yoshida}}'s, carried strong
 Into a state again. In 1871 the high department was lowered, and the plan
 
 Was changed again in 1872: a {{x|Ministry of Doctrine}} sent out

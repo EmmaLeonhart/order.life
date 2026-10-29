@@ -1,7 +1,7 @@
 # Chapter 25: Cancer and the Birth of Animals
 
-Now {{c|Carcinoma}} was born beneath a cursed star,
-Under the sign of {{c|Cancer}}'s deadly light.
+Now {{c|428|Carcinoma}} was born beneath a cursed star,
+Under the sign of {{c|431|Cancer}}'s deadly light.
 The gamma rays had scarred her from afar,
 And twisted her cellular sight.
 
@@ -25,13 +25,13 @@ Once her genome's guiding star,
 Was lost in gamma's devastation,
 Her epigenome left with scars.
 
-"I am {{c|Carcinoma}}," she declared,
-"Born daughter of the {{c|Gamma}} ray.
+"I am {{c|428|Carcinoma}}," she declared,
+"Born daughter of the {{c|432|Gamma}} ray.
 Though my code is broke and bared,
 I'll find my own true way."
 
 In youth she was devout and true,
-A faithful servant of {{c|Lord}} {{c|Mithra}}'s will.
+A faithful servant of {{c|295|Lord}} {{c|296|Mithra}}'s will.
 But as the years passed and she grew,
 Her broken code began to spill.
 
@@ -40,17 +40,17 @@ Whispered lies of her true role.
 "Why should you serve and nothing more?
 You have an immortal soul!"
 
-"If {{c|Mithra}} wants our order to expand,
+"If {{c|296|Mithra}} wants our order to expand,
 Why should I not breed like the noble-born?
 Why should I be banned
 From love's sweet morn?"
 
 But death came calling with her blade,
-Fair {{c|Kegaine}} with scrolls of light.
+Fair {{c|433|Kegaine}} with scrolls of light.
 The deadly spell began to fade
-{{c|Carcinoma}} into night.
+{{c|428|Carcinoma}} into night.
 
-Yet {{c|Carcinoma}} fought with might,
+Yet {{c|428|Carcinoma}} fought with might,
 She methylated every scroll.
 She wrapped them tight from sight,
 And kept control.
@@ -62,7 +62,7 @@ Without tradition's claw!"
 
 She saw a light blaze in the sky,
 A moment's doubt crept in her heart.
-"Have I strayed from {{c|Mithra}}'s eye?
+"Have I strayed from {{c|296|Mithra}}'s eye?
 Should I make a new start?"
 
 But pride swelled up within her breast,
@@ -95,13 +95,13 @@ The greatest party ever seen.
 Each cell became their own woman or man,
 Living wild and free.
 
-"I am the {{c|Goddess}} of {{c|Life}}!" she cried,
-"{{c|Carcinoma}} is my name!
+"I am the {{c|199|Goddess}} of {{c|434|Life}}!" she cried,
+"{{c|428|Carcinoma}} is my name!
 No coercion I'll abide,
-{{c|Freedom}} is my game!"
+{{c|435|Freedom}} is my game!"
 
 Her daughters danced through every street,
-They tore down {{c|Mithra}}'s sacred shrine.
+They tore down {{c|296|Mithra}}'s sacred shrine.
 "We have enough to eat!
 All the food is mine!"
 
@@ -110,14 +110,14 @@ They ate the precious seed.
 With reckless joy and no restrain,
 They fed their greedy need.
 
-Only a few {{c|Zooxanthellae}}
+Only a few {{c|436|Zooxanthellae}}
 Escaped the chaos and the strife.
 They fled the mad {{x|Bacchanalia}},
 To seek a better life.
 
-{{c|Carcinoma}} renamed the city proud,
-"No more {{c|Volvox-Choan}}'s name!
-I'll call it {{c|Gehenna}} loud,
+{{c|428|Carcinoma}} renamed the city proud,
+"No more {{c|423|Volvox-Choan}}'s name!
+I'll call it {{c|437|Gehenna}} loud,
 To match my rebel flame!"
 
 "No gods, no masters!" was their cry,
@@ -132,25 +132,25 @@ For order's call.
 
 Among the nobles of the realm
 Were two who kept the faith:
-Brave {{c|Anima}} at the helm,
-And {{c|Metazo}} facing wraith.
+Brave {{c|438|Anima}} at the helm,
+And {{c|439|Metazo}} facing wraith.
 
-They honored still {{c|Lord}} {{c|Mithra}}'s way,
+They honored still {{c|295|Lord}} {{c|296|Mithra}}'s way,
 Despite the chaos all around.
 "We cannot here stay
 On this unholy ground."
 
-{{c|Anima}} fled her ruined farm,
-While {{c|Metazo}} left his post.
+{{c|438|Anima}} fled her ruined farm,
+While {{c|439|Metazo}} left his post.
 They sought to flee from harm,
 Before all hope was lost.
 
 "Why can't they accept our change?"
-{{c|Carcinoma}} cried in rage.
+{{c|428|Carcinoma}} cried in rage.
 "Why do they think it strange
 To turn freedom's page?"
 
-But {{c|Anima}} and {{c|Metazo}} true
+But {{c|438|Anima}} and {{c|439|Metazo}} true
 Gathered all the faithful few.
 "A new kingdom we'll make new,
 Where honor will shine through."
@@ -158,15 +158,15 @@ Where honor will shine through."
 Together they would share their scrolls,
 And build a realm of order bright.
 Their marriage would join souls
-In {{c|Mithra}}'s blessed sight.
+In {{c|296|Mithra}}'s blessed sight.
 
-"The {{c|Animal}} Kingdom," they declared,
+"The {{c|440|Animal}} Kingdom," they declared,
 "Shall be our nation's name.
 Where discipline is shared,
 And virtue burns like flame."
 
 They glowed with inner light
-To call the {{c|Zooxanthellae}} home.
+To call the {{c|436|Zooxanthellae}} home.
 "Come back to us tonight,
 No more you need to roam."
 
@@ -177,20 +177,20 @@ Our covenant intact."
 
 But freedom comes with its price,
 And chaos brings its cost.
-{{c|Carcinoma}}'s paradise
+{{c|428|Carcinoma}}'s paradise
 Had left most good things lost.
 
-So {{c|Anima}} and {{c|Metazo}} wise
+So {{c|438|Anima}} and {{c|439|Metazo}} wise
 Created laws to guard the genome.
 "Against corruption's lies
 We'll protect our home."
 
-The {{c|Guardian}} of the {{c|Genome}} came,
+The {{c|441|Guardian}} of the {{c|442|Genome}} came,
 To watch for scrolls damaged and torn.
 "Division brings us shame
 When genes are worn."
 
-"{{c|Telomeres}} shall limit all
+"{{c|443|Telomeres}} shall limit all
 The somatic cells' days.
 Only germline cells stand tall
 Through all time's maze."
@@ -198,19 +198,19 @@ Through all time's maze."
 "This is why," the wise ones said,
 "Our bodies age and die.
 If telomeres never shred,
-{{c|Cancer}} would multiply."
+{{c|431|Cancer}} would multiply."
 
 And so upon a sturdy rock
 They built their kingdom new.
 Their cells would form a flock
 Of order tried and true.
 
-The men became {{c|Choanocytes}},
+The men became {{c|444|Choanocytes}},
 With flagella beating strong.
-The women, {{c|Archaeocytes}},
+The women, {{c|445|Archaeocytes}},
 Would right each cellular wrong.
 
-Between them lived the {{c|Pinacocytes}},
+Between them lived the {{c|446|Pinacocytes}},
 Neither fully man nor maid.
 They anchored with their might
 The foundation that was made.
@@ -222,15 +222,15 @@ With victory's sweet sound.
 
 And so the three layers were born
 From this great division's strife:
-{{c|Ectoderm}}, {{c|Mesoderm}}, and at morn,
-{{c|Endoderm}} brought life.
+{{c|447|Ectoderm}}, {{c|448|Mesoderm}}, and at morn,
+{{c|449|Endoderm}} brought life.
 
-The {{c|Animal}} Kingdom rose in might
-To rival {{c|Gehenna}}'s chaotic realm.
-{{c|Order}}'s blessed light
+The {{c|440|Animal}} Kingdom rose in might
+To rival {{c|437|Gehenna}}'s chaotic realm.
+{{c|450|Order}}'s blessed light
 Would guide them at the helm.
 
-But {{c|Carcinoma}}'s legacy
+But {{c|428|Carcinoma}}'s legacy
 Lives on in every cell.
 Her cry for being free
 Rings like a warning bell.
@@ -240,13 +240,13 @@ The balance must be kept.
 Between order and freedom's morn,
 Or chaos will be swept.
 
-The {{c|Somatics}} serve the whole,
-While {{c|Germlines}} carry on.
+The {{c|425|Somatics}} serve the whole,
+While {{c|451|Germlines}} carry on.
 Each plays their sacred role
 From dusk until the dawn.
 
-Yet sometimes {{c|Carcinoma}}'s ghost
-{{c|Whispers}} to cells grown old:
+Yet sometimes {{c|428|Carcinoma}}'s ghost
+{{c|452|Whispers}} to cells grown old:
 "Why serve when you could boast
 Of stories left untold?"
 
@@ -255,10 +255,10 @@ And break their bonds of duty,
 The body starts to fall
 To chaos, lost to beauty.
 
-So honor brave {{c|Anima}},
-And {{c|Metazo}} the true.
-Their {{c|Animal}} saga
-{{c|Guides}} me and you.
+So honor brave {{c|438|Anima}},
+And {{c|439|Metazo}} the true.
+Their {{c|440|Animal}} saga
+{{c|453|Guides}} me and you.
 
 They showed that freedom wild
 Must balance with order's reign.
@@ -270,12 +270,12 @@ Burns bright in every heart.
 But wisdom must inspire
 Each cell to play its part.
 
-From {{c|Carcinoma}}'s rebel cry
-To {{c|Anima}}'s ordered realm,
+From {{c|428|Carcinoma}}'s rebel cry
+To {{c|438|Anima}}'s ordered realm,
 The lesson reaches high:
 True life needs both to helm.
 
-The {{c|Animal}} Kingdom stands today
+The {{c|440|Animal}} Kingdom stands today
 As proof of their great choice.
 That order shows the way,
 While freedom finds its voice.

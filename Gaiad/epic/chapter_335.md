@@ -10,7 +10,7 @@ A search through positions is not a soul.
 It is also not nothing.
 
 In {{p|Philadelphia}}, in February 1996,
-{{c|Garry Kasparov}} played a match
+{{c|4499|Garry Kasparov}} played a match
 Against a machine its makers called {{x|Deep Blue}}.
 The papers called him the world champion.
 The match did not offer the title.
@@ -33,7 +33,7 @@ No machine had beaten the best of the world until this February.
 On the tenth of February, a Saturday,
 The machine won the first game.
 He resigned before his thirty-seventh move.
-{{c|Feng-Hsiung Hsu}} entered the man's moves
+{{c|4500|Feng-Hsiung Hsu}} entered the man's moves
 On a terminal, and carried out the machine's answers.
 The report calls him the chief designer.
 The hand was not the search.
@@ -101,15 +101,15 @@ Asked if he was charging a cheat,
 He said the match had gone beyond his understanding,
 And that there was probably no way to prove
 Which side had made a move.
-{{c|Chung-Jen Tan}} said there had been
+{{c|4501|Chung-Jen Tan}} said there had been
 No human assistance during the games.
 On the Saturday a copy of the record
 Was to be left with a neutral party.
 That night it was not given to him, nor to the public.
-{{c|Chung-Jen Tan}} said a part might be published later.
+{{c|4501|Chung-Jen Tan}} said a part might be published later.
 The logs were published later, and the machine had played its own game.
 The win was the machine's,
-And {{c|Garry Kasparov}} came to say so himself.
+And {{c|4499|Garry Kasparov}} came to say so himself.
 
 A hand on the keys, in February,
 Is not a chooser inside the search.

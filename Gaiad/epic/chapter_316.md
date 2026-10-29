@@ -3,7 +3,7 @@
 On the sixth of August, 1945, the morning at {{p|Hiroshima}} was clear.
 A quarter past eight, the uranium bomb left the aircraft.
 The aircraft was the {{x|Enola Gay}}.
-{{c|Paul Tibbets}} was its pilot.
+{{c|4375|Paul Tibbets}} was its pilot.
 The bomb burst less than a minute later, over the city.
 The offices that kept the city's names were in the fire.
 Seventy thousand died that morning, and a hundred and forty thousand by the year's end.
@@ -27,7 +27,7 @@ The aim was {{p|Kokura}}, now part of {{p|Kitakyushu}}.
 Cloud and the smoke of the ground hid the arsenal.
 The aircraft passed over and did not drop.
 It went on to {{p|Nagasaki}}.
-{{c|Charles Sweeney}} was its pilot.
+{{c|4376|Charles Sweeney}} was its pilot.
 At two minutes past eleven the plutonium bomb burst
 Over the valley of {{p|Urakami}},
 Not on the point the orders had named.
@@ -47,7 +47,7 @@ A name for the living is not a name for the dead.
 Both are particular.
 
 At noon on the fifteenth of August
-The recorded voice of {{c|Hirohito}} was broadcast.
+The recorded voice of {{c|4377|Hirohito}} was broadcast.
 He told the nation to endure the unendurable,
 And to accept the notice sent in July.
 He did not speak the plain word a soldier uses for defeat.

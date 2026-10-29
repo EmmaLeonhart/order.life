@@ -20,12 +20,12 @@ Of muscle and the weight of loam.
 
                                         First—
 In the {{p|Ohio}} country's wooded hills,
-The {{c|Adena}} built their mounds. The worst
+The {{c|3471|Adena}} built their mounds. The worst
 And simplest reading says they were landfills
 
 For the dead, but that reduces
 What was monumental to the merely grave:
-The {{c|Adena}} mound was what the land produces
+The {{c|3471|Adena}} mound was what the land produces
 When a people choose to sculpt the nave
 
 Of earth itself into a sacred form—
@@ -35,11 +35,11 @@ A ceremonial ground, a gathering
 
 Place where the living met the dead below.
 
-And the {{c|Hopewell}} followed—two thousand years
+And the {{c|3472|Hopewell}} followed—two thousand years
 Before the present age—and the tempo
 Of ambition quickened: the frontiers
 
-Of trade expanded until {{c|Hopewell}} hands
+Of trade expanded until {{c|3472|Hopewell}} hands
 Held copper from the {{p|Great Lakes}}' northern shore,
 Obsidian from {{p|Yellowstone}}'s far lands,
 Mica from the {{p|Appalachian}} floor,
@@ -51,7 +51,7 @@ That funneled luxury across the plains
 
 And rivers into the {{p|Ohio}} heartland's graves.
 
-The {{c|Hopewell}} dead were buried with the wealth
+The {{c|3472|Hopewell}} dead were buried with the wealth
 Of half a continent—the copper braves
 Cut into falcon-shapes, the stealth
 
@@ -119,7 +119,7 @@ Conspired to raise a city from the mud.
 Of whose construction staggers: a hundred-foot flood
 
 Of earth piled up in terraced stages, base
-As broad as the {{p|Great Pyramid}} of {{c|Khufu}},
+As broad as the {{p|Great Pyramid}} of {{c|1965|Khufu}},
 A platform mound whose summit was the place
 Of the chief's great hall—the proof too
 
@@ -148,7 +148,7 @@ And calculated passage of the year.
 
 By twelve hundred it was over. The city thinned,
 The mounds fell silent, and the frontier
-Of {{c|Mississippian}} culture, like a wind
+Of {{c|3473|Mississippian}} culture, like a wind
 
 That blows and passes, scattered to the south
 And east in smaller chiefdoms, temple-mounds
@@ -162,8 +162,8 @@ By human labor and intent,
 
 Could rise as high as any quarried stone.
 
-Honor the mound-builders—{{c|Adena}},
-{{c|Hopewell}}, {{c|Mississippian}}—the bone
+Honor the mound-builders—{{c|3471|Adena}},
+{{c|3472|Hopewell}}, {{c|3473|Mississippian}}—the bone
 And sinew and the patient tenor
 
 Of a million basket-loads of clay

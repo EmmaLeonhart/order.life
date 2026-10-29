@@ -2,20 +2,20 @@
 
 'Twas in the time when all lands had received
 The children of three mothers bright and fair:
-Great {{c|Planta}}, {{c|Anima}}, and those conceived
-By {{c|Funga}}, spreading life through earth and air.
+Great {{c|553|Planta}}, {{c|438|Anima}}, and those conceived
+By {{c|457|Funga}}, spreading life through earth and air.
 
 They led their offspring across virgin ground
 Where peace and harmony would reign supreme,
 'Twas time of plenty when joy could be found
 Where earth and heaven shared the same sweet dream.
 
-But {{c|Shesha}} the {{c|Actinite}} and {{c|Matsya}} wise
+But {{c|1548|Shesha}} the {{c|1549|Actinite}} and {{c|1550|Matsya}} wise
 Each saw a vision dread of coming doom,
 With prophetic sight they could recognize
 The shadow that would fill the world with gloom.
 
-All-knowing {{c|Mithra}} showed them fiery death,
+All-knowing {{c|296|Mithra}} showed them fiery death,
 The deadly load that waited in the years
 To come with devastation's poisoned breath
 That would fill faithful hearts with blood and tears.
@@ -25,25 +25,25 @@ To save the family through all time to come,
 These prophets would proclaim what they must do
 Before the hour when death would strike them dumb.
 
-{{c|Shesha}} preached with power and with might
+{{c|1548|Shesha}} preached with power and with might
 To creatures dwelling deep beneath the sea
 Who made their home in kingdoms of the night
 Where they had lived so long in liberty.
 
-While {{c|Matsya}} took his faithful, noble stand
+While {{c|1550|Matsya}} took his faithful, noble stand
 To preach throughout the earth to every soul,
 To every living thing throughout the land
-That served the {{c|Faithful}} {{c|King}}'s eternal goal.
+That served the {{c|1551|Faithful}} {{c|1162|King}}'s eternal goal.
 
 They spread the warning word from shore to shore
 Beneath each shining star's eternal light,
 To every place their feet would ever go
 That all the world might know of coming night.
 
-From fair {{c|Euramerica}}'s distant strand
-To {{c|Siberia}}'s wild and frozen plain,
-To {{c|Gondwana}}'s most remote land
-Great {{c|Matsya}} traveled through the sun and rain.
+From fair {{c|1287|Euramerica}}'s distant strand
+To {{c|476|Siberia}}'s wild and frozen plain,
+To {{c|1158|Gondwana}}'s most remote land
+Great {{c|1550|Matsya}} traveled through the sun and rain.
 
 Through forests filled with ancient, mighty trees
 And countless insects buzzing in the air
@@ -51,26 +51,26 @@ He journeyed far beyond the seven seas
 With prophecy his burden and his care.
 
 And people heard his warning voice of doom
-About what they had heard from {{c|Mithra}}'s call,
+About what they had heard from {{c|296|Mithra}}'s call,
 His words of warning seemed to seal their tomb
 And gave them little choice but heed them all.
 
-{{c|Shesha}} traveled to every distant sea
+{{c|1548|Shesha}} traveled to every distant sea
 Despite the cold night breeze and bitter storm,
 Across the reefs where coral colonies
 Had flourished long in beauty's living form.
 
 Across the great sponge reefs he carried word
-Of {{c|Mithra}}'s prophecy of coming fate:
+Of {{c|296|Mithra}}'s prophecy of coming fate:
 "There is apocalypse—have you not heard?—
 That comes to us from future's bitter gate
 
 To strike us down as it has struck before
-All people in the age {{c|Silurian}},
+All people in the age {{c|1174|Silurian}},
 That time of darkness, death, and bloody war,
 That age of devastation barbarian.
 
-{{c|Darkness}} will descend upon the earth
+{{c|1552|Darkness}} will descend upon the earth
 And send all into bitter, endless night,
 Only the faithful's vision, and their worth,
 Will guide them through the storm with faithful sight
@@ -81,7 +81,7 @@ That those who fail the ultimate test
 Are those who trust in their own vanity."
 
 The people of the sea with mocking voice
-{{c|Ignored}} the prophecy and scorned the word
+{{c|1553|Ignored}} the prophecy and scorned the word
 Of messengers, and made the foolish choice
 To treat their warning as absurd.
 
@@ -93,14 +93,14 @@ But knew that preparation helps us all.
 And then it came to pass—the prophecy!—
 The bitter truth that none had wished to see:
 Two demons came with death's cruel tyranny:
-{{c|Kellwasser}}'s breath of poisoned misery
+{{c|1554|Kellwasser}}'s breath of poisoned misery
 
-And {{c|Hangenberg}}'s most cruel and evil hand
+And {{c|1555|Hangenberg}}'s most cruel and evil hand
 Destroyed both ocean's depths and fertile land.
 The reefs that filled the world with beauty bright
 Were crushed beneath the weight of endless night.
 
-The {{c|Ammonites}} who dwelt in safety's keep
+The {{c|1556|Ammonites}} who dwelt in safety's keep
 Within the reefs where peace had been their home
 Were left alone to wander ocean deep
 Without a place of rest, condemned to roam.
@@ -110,7 +110,7 @@ Would shed their tears in ruins, lost, and drear,
 Their beauty tempest-tossed brought only griefs
 To those who held their memory so dear.
 
-Great {{c|Matsya}} cried aloud with bitter pain:
+Great {{c|1550|Matsya}} cried aloud with bitter pain:
 "Why must we suffer through this woe again?
 Why must each generation have to face
 This devastation's curse on all our race?
@@ -130,7 +130,7 @@ Who lived in freedom's blessed liberty
 Were crushed beneath the weight of destiny
 That none could change or alter or flee.
 
-Only the agile sons of {{c|Janus}} wise,
+Only the agile sons of {{c|1495|Janus}} wise,
 Those faithful ones who never compromise
 With evil, survived the bitter test supreme
 When all the world was crushed beneath the dream
@@ -140,22 +140,22 @@ And left the oceans red with blood of those
 Who could not find a way to conquer death
 And fell beneath their overwhelming woes.
 
-The sons of {{c|Arachnus}} suffered most
+The sons of {{c|746|Arachnus}} suffered most
 Of all who dwelt where death's cold presence felt
 Its bitter touch: two great and faithful host—
 The nations where the sons of heroes dwelt.
 
-The noble sons of {{c|Trilobos}} the great
-And brave {{c|Eurypter}}'s mighty host were gone
+The noble sons of {{c|1557|Trilobos}} the great
+And brave {{c|1215|Eurypter}}'s mighty host were gone
 In just an instant's time—such bitter fate!—
 Without a reason, suddenly withdrawn.
 
-The sons of {{c|Trilobos}} left just one
-To carry on: brave {{c|Proeth}} all alone
+The sons of {{c|1557|Trilobos}} left just one
+To carry on: brave {{c|1558|Proeth}} all alone
 Survived when all his brothers' days were done
 And he was left to face the world unknown.
 
-While all the sons of mighty {{c|Eurypter}}
+While all the sons of mighty {{c|1215|Eurypter}}
 Were exiled from the seas they'd loved so long,
 Never to return, no one to deter
 Their banishment—they'd lost their ancient song
@@ -173,7 +173,7 @@ And left the world filled with the faithful dead.
 The last graptolite lived a life so lone
 That none would give to any living thing:
 Completely isolated and alone,
-{{c|Remembering}} the glory of his king
+{{c|1559|Remembering}} the glory of his king
 
 And all the beauty that was lost when frost
 Of evil fell upon the world so fair,
@@ -201,11 +201,11 @@ Soon every fertile valley and landscape
 And every river throughout the land
 
 Became a sight of woe and bitter dread:
-{{c|Rivers}} of blood so thick and crimson-red
+{{c|1560|Rivers}} of blood so thick and crimson-red
 That filled each faithful heart with deep despair
 And poisoned all the earth and all the air.
 
-Then {{c|Matsya}} pleaded with great {{c|Mithra}}'s might,
+Then {{c|1550|Matsya}} pleaded with great {{c|296|Mithra}}'s might,
 The greatest guide when world needs wisdom true:
 "Why must we suffer in this endless night?
 Why must we all go through
@@ -215,12 +215,12 @@ Why can't we find a way to comprehend
 The secret that will break the bitter curse
 That always makes things infinitely worse?"
 
-And {{c|Mithra}} answered with a voice so clear
+And {{c|296|Mithra}} answered with a voice so clear
 That all who had the faith could always hear:
 "As long as each new age ignores the page
 Of struggles from the past and thinks their sage
 
-{{c|Advice}} will be the last that's ever heard,
+{{c|1561|Advice}} will be the last that's ever heard,
 As long as they ignore the faithful word
 Of those who walked this bitter path before
 Through suffering, death, and war,
@@ -241,7 +241,7 @@ Beneath the weight of what we cannot bear
 Alone, without the help of faithful prayer.
 
 Remember those who died and let their light
-{{c|Guide}} all your steps through the endless night
+{{c|1562|Guide}} all your steps through the endless night
 Toward the dawn of hope's eternal day
 When darkness shall be driven all away.
 
@@ -285,7 +285,7 @@ To live forever in freedom's blessed light
 And pass to children of the coming age
 The wisdom written on history's page.
 
-The sons of {{c|Janus}} learned that those who turn
+The sons of {{c|1495|Janus}} learned that those who turn
 Away from truth will surely crash and burn,
 But faithful ones who never bow their head
 To evil will see better days ahead
@@ -305,7 +305,7 @@ Its poison to the living and the dead
 And cover all the earth with hopeless night
 Where none can see the everlasting light.
 
-From {{c|Kellwasser}}'s doom to {{c|Hangenberg}}'s gloom,
+From {{c|1554|Kellwasser}}'s doom to {{c|1555|Hangenberg}}'s gloom,
 The faithful learned there's always brighter room
 For hope when all who love the light unite
 To conquer evil's overwhelming might
@@ -355,7 +355,7 @@ For guidance when their souls are feeling weak
 And darkness seems to conquer all the light
 That once had made their future seem so bright.
 
-From {{c|Matsya}}'s cry to {{c|Mithra}}'s wise reply
+From {{c|1550|Matsya}}'s cry to {{c|296|Mithra}}'s wise reply
 That teaches us to lift our vision high
 And see beyond the darkness of today
 The dawning of a bright and better way,
@@ -385,7 +385,7 @@ And teach their children never to forsake
 The wisdom that the faithful died to save
 From evil's power beyond the grave.
 
-From {{c|Shesha}}'s warning voice to {{c|Matsya}}'s choice
+From {{c|1548|Shesha}}'s warning voice to {{c|1550|Matsya}}'s choice
 To be the faithful's true prophetic voice
 And carry word across the land and sea,
 The messengers remind us to be free
@@ -415,7 +415,7 @@ Beyond the reach of death and bitter pain
 To live forever in the light of love
 That shines eternally from realms above.
 
-The sons of {{c|Janus}} who survived the test
+The sons of {{c|1495|Janus}} who survived the test
 By keeping faith when hope seemed to have left
 The world forever, became the blessed
 Who show the way when souls of hope bereft
@@ -425,7 +425,7 @@ And evil seems to leave its bitter mark
 On everything that once was good and true
 And beautiful to me and you.
 
-From {{c|Kellwasser}}'s death to life's return,
+From {{c|1554|Kellwasser}}'s death to life's return,
 The faithful show us we can always learn
 That every ending here becomes the start
 Of hope reborn in every faithful heart.

@@ -1,6 +1,6 @@
 # Chapter 88: The First Terrible Lizards
 
-Now of {{c|Avemeta}}'s children hear the start—
+Now of {{c|1733|Avemeta}}'s children hear the start—
 Not the great and terrible that they became,
 But the humble, the small, the racing heart
 Of creatures that did not yet know their name.
@@ -11,18 +11,18 @@ And hands that grasped, and legs like coiled springs
 Built for running over {{x|Triassic}} stones.
 
 In the uplands of the southern {{p|Gondwana}} land,
-Where {{c|Cruros}}' river-children held no sway,
-The earliest of {{c|Avemeta}}'s band
-Appeared—{{c|Deinos}}, whose {{x|Triassic}} day
+Where {{c|1732|Cruros}}' river-children held no sway,
+The earliest of {{c|1733|Avemeta}}'s band
+Appeared—{{c|1736|Deinos}}, whose {{x|Triassic}} day
 
 Was spent in running, catching, staying small
-In a world where {{c|Cruros}}' rauisuchians prowled
+In a world where {{c|1732|Cruros}}' rauisuchians prowled
 The lowlands and the river-valleys, tall
 And heavy—while the little dinosaurs howled
 
 And chirped in upland scrub and thin-aired heights.
 
-{{c|Deinos}} means "terrible" and {{c|Sauros}} "lizard"—
+{{c|1736|Deinos}} means "terrible" and {{c|1669|Sauros}} "lizard"—
 But the first to bear that name had modest sights:
 Not terrible at all, more like a wizard
 
@@ -36,7 +36,7 @@ They ran on two legs—bipedal, light,
 With tails outstretched for balance in the rush
 Of their hunting dashes through the {{x|Triassic}} night.
 
-{{c|Eoraptoros}} was among the first—
+{{c|1737|Eoraptoros}} was among the first—
 "Dawn plunderer" in the later name that men
 Would give his bones—but in his own time, versed
 In nothing grander than the need to eat, and then
@@ -46,7 +46,7 @@ Three feet of predator in {{p|Gondwana}}'s south,
 With undifferentiated teeth for all
 His prey: he ate whatever reached his mouth.
 
-And {{c|Herrerasauros}} ran beside him there—
+And {{c|1738|Herrerasauros}} ran beside him there—
 A little larger, with a sliding jaw
 That let his lower bite extend and snare
 His prey with an articulated maw
@@ -59,7 +59,7 @@ Empire spanning every biosphere.
 But they were few. The {{x|Triassic}} was not theirs—
 Not yet. The rauisuchians owned the plains,
 The phytosaurs controlled the river-lairs,
-And {{c|Deinos}}' children lived on what remains
+And {{c|1736|Deinos}}' children lived on what remains
 
 The great ones left behind—the edges, scraps,
 The upland territories no one wanted,
@@ -72,23 +72,23 @@ Lowlands of the powerful, but where a renter
 Of marginal land must make each turtle
 
 And beetle count. The pressure of the edge
-Forged {{c|Deinos}}' children into something lean
+Forged {{c|1736|Deinos}}' children into something lean
 And efficient—each adaptation's pledge
 To make more from less, to run the machine
 
 Of the body on less fuel, less water, less air,
 And still outrun the things that wanted them dead.
 
-Three lines branched from {{c|Deinos}}'s early lair:
-{{c|Theros}}, the beast-footed, who would be fed
+Three lines branched from {{c|1736|Deinos}}'s early lair:
+{{c|1739|Theros}}, the beast-footed, who would be fed
 
 On flesh and carry forward the hunting art;
-{{c|Sauropos}}, who would grow to walk on four
+{{c|1740|Sauropos}}, who would grow to walk on four
 Great legs and eat the green world, the counterpart
-Of {{c|Theros}}' violence—the herbivore
+Of {{c|1739|Theros}}' violence—the herbivore
 
 That would become the largest thing to stride
-Across the earth; and {{c|Ornithis}}, bird-hipped,
+Across the earth; and {{c|1741|Ornithis}}, bird-hipped,
 Whose pelvis rearranged its bones inside
 To hold a greater gut, the better equipped
 
@@ -96,7 +96,7 @@ For breaking down the cellulose of plants.
 
 Three houses of the dinosaurs were born
 In the {{x|Triassic}} uplands—three new clans
-From {{c|Avemeta}}'s children, small and worn
+From {{c|1733|Avemeta}}'s children, small and worn
 
 And unremarkable—who did not know
 They held the future of the {{x|Mesozoic}} world

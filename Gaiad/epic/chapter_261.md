@@ -1,13 +1,13 @@
 # Chapter 261: The Farmers at Bure
 
-In November 1520, in {{p|Stockholm}}, the {{x|Danish}} king {{c|Christian}}
+In November 1520, in {{p|Stockholm}}, the {{x|Danish}} king {{c|3386|Christian}}
 Was crowned, and gave a feast, and after three days of feasting
 Shut the doors, and had the bishops and the lords, the elected
 And the burghers, beheaded in the square. The spray
 
-Of blood ran down to the water. The {{c|Stockholm Bloodbath}}.
+Of blood ran down to the water. The {{c|3797|Stockholm Bloodbath}}.
 A young nobleman whose father and brothers-in-law died there,
-{{c|Gustav Eriksson}} of the {{c|Vasa}} house, took the path
+{{c|3798|Gustav Eriksson}} of the {{c|3799|Vasa}} house, took the path
 Into the snow of {{p|Dalarna}}, and the story in the air
 
 Is that the men of {{p|Mora}} would not follow him at first,
@@ -27,11 +27,11 @@ For another country to rule. They gave. The heaven
 
 Of the bishops passed to the crown. The monasteries
 Were emptied. The bells were melted for the debt.
-{{c|Olaus Petri}} and his brother {{c|Laurentius}}, {{p|Wittenberg}}-trained, the boundaries
-Of the new faith in {{c|Swedish}}, preached; the king would let
+{{c|3800|Olaus Petri}} and his brother {{c|3801|Laurentius}}, {{p|Wittenberg}}-trained, the boundaries
+Of the new faith in {{c|3802|Swedish}}, preached; the king would let
 
 Them go as far as served him, and no further.
-In 1541 the whole {{x|Bible}} in {{x|Swedish}}, the {{c|Gustav Vasa Bible}},
+In 1541 the whole {{x|Bible}} in {{x|Swedish}}, the {{c|3803|Gustav Vasa Bible}},
 Which made the written language of a people. The murder
 Of the old order was quiet, and fiscal. Not liable
 
@@ -46,18 +46,18 @@ In {{p|Västerbotten}}, by the {{p|Gulf of Bothnia}}, where the land
 Is lifting still out of the sea, the clerks went forth
 
 To a village called {{p|Bure}}, near {{p|Skellefteå}}, and wrote two names.
-In 1548, *{{c|Olof Andersson}}*, a farmer at {{p|Bure}}.
-In 1553, his brother, *{{c|Isak Andersson}}*. Their father's claims
-Were in {{p|Röbäck}} near {{p|Umeå}}: {{c|Anders Burman}}. The cure
+In 1548, *{{c|3804|Olof Andersson}}*, a farmer at {{p|Bure}}.
+In 1553, his brother, *{{c|3805|Isak Andersson}}*. Their father's claims
+Were in {{p|Röbäck}} near {{p|Umeå}}: {{c|3806|Anders Burman}}. The cure
 
 For forgetting is a tax collector. That is the first ink
-Of the {{c|Bure}} kinship: not a saga, not a rune,
+Of the {{c|3807|Bure}} kinship: not a saga, not a rune,
 A line in a king's register, a farmer and a link,
 Taxpaying peasants on the cold coast. And soon,
 
 In the next generation, the family would scatter south,
 To {{p|Uppsala}}, to the {{x|Church}}, to the court, to learning,
-And {{c|Johannes Bureus}}, born in 1568, would write by mouth
+And {{c|3808|Johannes Bureus}}, born in 1568, would write by mouth
 And by runestone and by legend a book, turning
 
 The farmers at {{p|Bure}} into the heirs of the ancient {{p|North}},
@@ -65,18 +65,18 @@ The farmers at {{p|Bure}} into the heirs of the ancient {{p|North}},
 And carry the line back, before the clerks came forth,
 Through generations no register could pin.
 
-The writer of this scripture comes down from the {{c|Bures}}
-On her mother's side: *{{c|Malin Olofsdotter Bure}}*, born about 1505,
-And her daughter *{{c|Kerstin}}*, born 1533. The cures
+The writer of this scripture comes down from the {{c|3809|Bures}}
+On her mother's side: *{{c|3810|Malin Olofsdotter Bure}}*, born about 1505,
+And her daughter *{{c|3811|Kerstin}}*, born 1533. The cures
 For doubt are hard here: they stand before the tax rolls, alive
 
 In the family book, not in the king's. Hold both.
-The register is where the {{c|Bures}} begin to be sure.
+The register is where the {{c|3809|Bures}} begin to be sure.
 The family book is where they begin to be more.
 And the line runs down to the one who keeps this, the oath
 
 Of the keeper being only this: to say which is which.
-{{c|Gustav Vasa}} died in 1560, having made a state
+{{c|3812|Gustav Vasa}} died in 1560, having made a state
 Out of a rebellion, and a church out of a ledger, rich
 In land and in debt, and a dynasty, and the weight
 

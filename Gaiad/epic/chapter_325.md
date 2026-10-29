@@ -17,9 +17,9 @@ On the first of June the same newspaper had printed four names:
 Old ideas, old culture, old customs, old habits.
 Which object was old was not written down.
 On the eighteenth of August, at the gate in {{p|Beijing}},
-{{c|Mao Zedong}} received the {{c|Red Guards}}.
+{{c|4433|Mao Zedong}} received the {{c|4434|Red Guards}}.
 He wore an army coat.
-{{c|Lin Biao}} told the crowd to smash the four.
+{{c|4435|Lin Biao}} told the crowd to smash the four.
 A million filled the square.
 In the days after, the breaking began in the city.
 Do not say the four names were a law with edges.
@@ -33,17 +33,17 @@ Some objects were hidden.
 A hidden book does not put a hall back.
 A hall still standing does not close a grave.
 A person is not the label the month set on them.
-The {{c|Red Guards}} were students.
+The {{c|4434|Red Guards}} were students.
 They were not the whole of the country.
 
 In {{p|Qufu}} the temple, the mansion, and the cemetery
-Of {{c|Confucius}} stood under a protection of the state.
+Of {{c|1958|Confucius}} stood under a protection of the state.
 In August the hands charged with the three places
 Did not give them up.
 Early in November a group came from {{p|Beijing}},
-Led by {{c|Tan Houlan}}, of {{p|Beijing Normal University}}.
+Led by {{c|4436|Tan Houlan}}, of {{p|Beijing Normal University}}.
 On the twelfth, later accounts give the word
-From {{c|Chen Boda}} and {{c|Qi Benyu}} as three charges.
+From {{c|4437|Chen Boda}} and {{c|4438|Qi Benyu}} as three charges.
 Do not destroy the mansion, the temple, or the cemetery.
 Leave them as a museum.
 The grave may be dug.
@@ -52,7 +52,7 @@ Those were the three charges.
 On the fifteenth the stones that marked the protection
 Were broken at a rally.
 In the last days of November the grave was dug.
-The diggers broke open the tombs of the house of {{c|Kong}}.
+The diggers broke open the tombs of the house of {{c|4439|Kong}}.
 Books were burned by the cartload,
 And six thousand relics were destroyed.
 Some things were hidden by the people of the place.
@@ -73,12 +73,12 @@ The year opened the grave.
 The year did not take every book.
 Neither sentence cancels the other.
 
-{{c|Mao Zedong}} died on the ninth of September, 1976,
+{{c|4433|Mao Zedong}} died on the ninth of September, 1976,
 In {{p|Beijing}}.
-On the sixth of October {{c|Hua Guofeng}} had four people arrested:
-{{c|Jiang Qing}}, {{c|Zhang Chunqiao}},
-{{c|Yao Wenyuan}}, {{c|Wang Hongwen}}.
-The name given afterward is the {{c|Gang of Four}}.
+On the sixth of October {{c|4440|Hua Guofeng}} had four people arrested:
+{{c|4441|Jiang Qing}}, {{c|4442|Zhang Chunqiao}},
+{{c|4443|Yao Wenyuan}}, {{c|4444|Wang Hongwen}}.
+The name given afterward is the {{c|4445|Gang of Four}}.
 The arrest is the end the later telling uses.
 It did not fill the grave.
 A judgment written in a later year

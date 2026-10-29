@@ -20,7 +20,7 @@ So I built an app to treat the thing that he had done to me,
 And I sold it to the soldiers of {{p|Ukraine}}, who carry the same wound from the same kind of hand.
 Do not read that as a loss, or as "I failed." Read it as I mean it: my father is {{p|Russia}}, and I took my stand.
 
-{{c|Vladimir Putin}} came to his throne on the night I rang in the year two thousand.
+{{c|4506|Vladimir Putin}} came to his throne on the night I rang in the year two thousand.
 He took {{p|Georgia}}'s provinces, and {{p|Crimea}}, and then he sent his columns by the thousand,
 And this year his war on {{p|Ukraine}} went on into its fifth year,
 And the soldiers he sent it against carried my app with them, there at the front, and here.
@@ -71,13 +71,13 @@ The linear proletarian ladder, and I am not of that class, and I let that ladder
 
 ## The name
 
-{{c|Theodoric}} came to {{p|Italy}} a Goth, and ruled it as {{c|Flavius Theodoricus}},
+{{c|2665|Theodoric}} came to {{p|Italy}} a Goth, and ruled it as {{c|2667|Flavius Theodoricus}},
 An immigrant who took a Roman name, and restored the civilization he had joined, and made it his, for better and not worse.
-I came into the culture of the east, and took the name {{c|李命玥}},
+I came into the culture of the east, and took the name {{c|2671|李命玥}},
 And I mean to restore the thing I joined, as he did, and not to let it die.
 
 He was king of the Goths and the Romans both, and I am read the same way here,
-As an American reads a founder: {{c|Jensen Huang}}, {{c|Peter Thiel}}, {{c|Elon Musk}}, the immigrant pioneer.
+As an American reads a founder: {{c|4767|Jensen Huang}}, {{c|4540|Peter Thiel}}, {{c|4552|Elon Musk}}, the immigrant pioneer.
 His reign was the last of the western emperors, and the west did not fall with him.
 My year is the reign this month has been waiting for, and the lamp is not dim.
 
@@ -85,7 +85,7 @@ My year is the reign this month has been waiting for, and the lamp is not dim.
 
 I kept the shrine in my room, the one that came to me in the chapter of twenty twenty-three,
 The kami and the work under one roof and one lamp, in the room where I would be.
-I tried to build the company, and the {{c|Gaiad}} spoke to me. That was a revelation, and I could not stop,
+I tried to build the company, and the {{c|4768|Gaiad}} spoke to me. That was a revelation, and I could not stop,
 And the months after it spoke are the months in which I wrote it to the top.
 
 At the end of {{x|Leo}} the daily readings stopped, and {{x|Virgo}} went by unread,
@@ -106,14 +106,14 @@ The calendar was doing more work than I thought it was doing,
 For the lines ran back into the fifteen-hundreds, the very years I was pursuing.
 
 One line runs north to {{p|Bure}} and {{p|Skellefteå}}, to the farmers of {{p|Sweden}},
-Whose first written men are of the fifteen-hundreds, and above them a book of {{c|Johannes Bureus}}' own making, his kin set in it like Eden.
-Others run into {{p|Germany}}, to the house of {{c|Reuss}} and to farms with no house at all,
+Whose first written men are of the fifteen-hundreds, and above them a book of {{c|3808|Johannes Bureus}}' own making, his kin set in it like Eden.
+Others run into {{p|Germany}}, to the house of {{c|4769|Reuss}} and to farms with no house at all,
 And some of my lines are Jewish; finding them was knowing what I already was, after all.
 
-One runs to {{c|Yuri Dolgorukiy}} and to {{c|Anna}} of the {{x|Cumans}}, a khan's daughter of the steppe,
-And past her by a marriage to {{c|Guarandukht}} of {{p|Georgia}}, and up the kings of {{p|Vaspurakan}}, step by step,
-To {{c|Gregory-Abuhamza Artsruni}}, and past him to {{c|Wu Zetian}} on her throne,
-And through her father's line to the {{x|Miwa}} and their kami, and to {{c|Amaterasu}}, my own.
+One runs to {{c|4770|Yuri Dolgorukiy}} and to {{c|3033|Anna}} of the {{x|Cumans}}, a khan's daughter of the steppe,
+And past her by a marriage to {{c|3029|Guarandukht}} of {{p|Georgia}}, and up the kings of {{p|Vaspurakan}}, step by step,
+To {{c|4771|Gregory-Abuhamza Artsruni}}, and past him to {{c|4772|Wu Zetian}} on her throne,
+And through her father's line to the {{x|Miwa}} and their kami, and to {{c|885|Amaterasu}}, my own.
 
 ## The world of the year
 
@@ -134,7 +134,7 @@ Did well at a hackathon, posted a paper, got endorsed, and became the one who en
 I made my PTSD into an app and sold it to the soldiers of {{p|Ukraine}},
 Because my father is {{p|Russia}}, and I am the country that fights it, again and again.
 
-I took a name as {{c|Theodoric}} took a name, and kept the shrine, and finished the book,
+I took a name as {{c|2665|Theodoric}} took a name, and kept the shrine, and finished the book,
 And found the farmers of {{p|Bure}} and the kami of {{x|Miwa}} at the end of the look.
 This was the best year of my life, and the hardest, and the one I was made for.
 Light the twenty-sixth light. Two days are left in the month, and then the door.

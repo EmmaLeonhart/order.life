@@ -35,7 +35,7 @@ The process was as old as language knew
 Itself—the same divergent storms
 
 That split {{p|Proto-Indo-European}} into
-{{c|Sanskrit}} and {{c|Greek}} and {{c|Latin}} and {{c|Germanic}}
+{{c|3411|Sanskrit}} and {{c|3349|Greek}} and {{c|3388|Latin}} and {{c|3412|Germanic}}
 Worked their patient alchemy onto
 The first Americans' volcanic
 
@@ -52,9 +52,9 @@ Built walls that no human band
 Could easily traverse, and behind each wall
 A language grew alone.
 
-                            {{c|Na-Dené}}—
+                            {{c|3413|Na-Dené}}—
 The great northern family whose call
-Echoed from {{p|Alaska}}'s {{c|Tlingit}} bay
+Echoed from {{p|Alaska}}'s {{c|3414|Tlingit}} bay
 
 To the {{p|American Southwest}}'s canyon floor:
 A language family so distinct
@@ -62,20 +62,20 @@ From its neighbors that it bore
 The evidence of a separate and linked
 
 Migration—a second crossing from {{p|Asia}},
-Later than the first, the {{c|Na-Dené}}
+Later than the first, the {{c|3413|Na-Dené}}
 Speakers carrying their aphasia
 Of the southern tongues, their own résumé
 
 Of grammar and of sound.
 
-                              {{c|Algonquian}}—
+                              {{c|3415|Algonquian}}—
 The vast and whispering family
 Of the eastern woodlands and the guardian
 Of the {{p|Great Lakes}}' shore, the calamity
 
-Of whose diversity stretched from the {{c|Cree}}
+Of whose diversity stretched from the {{c|3416|Cree}}
 In the subarctic birch-forest
-To the {{c|Blackfoot}} on the windswept free
+To the {{c|3417|Blackfoot}} on the windswept free
 And open plain—each one the harvest
 
 Of a thousand years of separation
@@ -86,12 +86,12 @@ Of the forest path, the herds
 Of caribou that drew one band north
 While another followed the deer south.
 
-{{c|Siouan}}—the family that poured forth
+{{c|3418|Siouan}}—the family that poured forth
 Across the {{p|Great Plains}} from the mouth
 
 Of the {{p|Missouri}} to the {{p|Carolinas}}'
-Eastern piedmont—the {{c|Lakota}},
-The {{c|Dakota}}, the {{c|Crow}}—the finer
+Eastern piedmont—the {{c|3419|Lakota}},
+The {{c|3420|Dakota}}, the {{c|3421|Crow}}—the finer
 And more lyrical iota
 
 Of the plains-speech, the language shaped
@@ -101,14 +101,14 @@ And wind-carried syllables that fly
 
 Across the prairie like the grass itself.
 
-{{c|Uto-Aztecan}}—the thread that ran
+{{c|3422|Uto-Aztecan}}—the thread that ran
 From {{p|Idaho}}'s volcanic shelf
 To {{p|Mexico City}}'s urban span:
 
-The {{c|Shoshone}} and the {{c|Comanche}} in the north,
-The {{c|Hopi}} in their mesa villages,
-The {{c|Nahuatl}}-speaking peoples pouring forth
-To build the {{c|Aztec}} empire's pillages
+The {{c|3423|Shoshone}} and the {{c|3424|Comanche}} in the north,
+The {{c|3425|Hopi}} in their mesa villages,
+The {{c|3426|Nahuatl}}-speaking peoples pouring forth
+To build the {{c|3427|Aztec}} empire's pillages
 
 And pyramids—one language family
 Stretching three thousand miles of latitude,
@@ -117,7 +117,7 @@ Of connection ran beneath the multitude
 
 Of surface difference.
 
-                        {{c|Mayan}}—
+                        {{c|3428|Mayan}}—
 The language of the glyph, the written
 Word that no other American clan
 Had mastered—the bitten
@@ -130,15 +130,15 @@ The illiteracy of the age
 And gave the {{p|Americas}} their first
 And only pre-Columbian reading.
 
-{{c|Quechuan}}—the tongue that nursed
-The {{c|Inca}} empire's speeding
+{{c|3429|Quechuan}}—the tongue that nursed
+The {{c|3403|Inca}} empire's speeding
 
 And administrative reach from {{p|Quito}}
 To {{p|Santiago}}—the language of the road,
 The language of the quipu's veto
 And accounting, the mother-lode
 
-Of Andean speech that the {{c|Inca}}
+Of Andean speech that the {{c|3403|Inca}}
 Spread as the lingua franca of the spine
 Of {{p|South America}}—the stinker
 Of a problem for the sign
@@ -154,9 +154,9 @@ Data from the dangling threads.
 And hundreds more—the ceding
 Of one tongue to many, the shreds
 
-Of {{c|Penutian}} and {{c|Hokan}} on the {{p|Pacific}} coast,
-{{c|Tupi}} spreading down the {{p|Amazon}},
-{{c|Chibchan}} threading the volcanic post
+Of {{c|3430|Penutian}} and {{c|3431|Hokan}} on the {{p|Pacific}} coast,
+{{c|3432|Tupi}} spreading down the {{p|Amazon}},
+{{c|3433|Chibchan}} threading the volcanic post
 Of {{p|Central America}}'s phenomenon
 
 Of narrow land and tangled speech—

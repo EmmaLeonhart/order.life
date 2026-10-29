@@ -28,11 +28,11 @@ I heard the {{x|Buddha}}, the {{x|Dharma}} and the {{x|Sangha}} named, and chant
 And laughed at the whole of it, and at the demoness, and the laughter is the mantra, lol, that I draft.
 
 I floated up out of hell, and was overseeing, and came to the {{x|Celestial Kingdom}},
-And met {{c|Joseph Smith}} there, and the three jewels and the three degrees of glory came in one kingdom,
+And met {{c|3660|Joseph Smith}} there, and the three jewels and the three degrees of glory came in one kingdom,
 The trinity and the trimurti came together as one for me, and I saw a {{x|Sierpinski triangle}},
 And named the one thing {{x|alo}}, and found the piece I had been missing, {{x|Omega}}, love, in the tangle.
 
-I saw the infant {{c|Charlemagne}} in the manger, nurtured by {{c|Mary}},
+I saw the infant {{c|2677|Charlemagne}} in the manger, nurtured by {{c|1399|Mary}},
 And understood that it must be applied as above, so below, from the throne to the cradle of the very:
 What a society prescribes must go down to the person, the empire to the child,
 And then I came down, and stayed up all night trying to explain it, and the night was wild.
@@ -51,13 +51,13 @@ And hunted the speaker and the vice president through the halls, beside a gallow
 
 Five died in and after it, and four police officers took their own lives in the months that came,
 And the congress came back that night and counted the votes, and the count was the same.
-On the twentieth {{c|Joe Biden}} was sworn in behind a fence of soldiers,
+On the twentieth {{c|4728|Joe Biden}} was sworn in behind a fence of soldiers,
 And many of the mob were tried and jailed, and four years later the man who sent them freed the holders.
 
 ## The message and the needle
 
 The vaccines of the chapter before went into arms by the billion,
-Made of a message of the cell, on the work of {{c|Katalin Karikó}} and {{c|Drew Weissman}}, and the science was brilliant,
+Made of a message of the cell, on the work of {{c|4731|Katalin Karikó}} and {{c|4732|Drew Weissman}}, and the science was brilliant,
 And the people of the rich countries lined up in the stadiums and the pharmacies in the spring,
 And the people of the poor countries waited, while the rich bought more than they would bring.
 
@@ -102,14 +102,14 @@ And the province rebuilt the roads, and the farmers went back to the farms, as b
 
 ## The coup and the canal
 
-On the first of February the army of {{p|Myanmar}} took power again, and arrested {{c|Aung San Suu Kyi}},
+On the first of February the army of {{p|Myanmar}} took power again, and arrested {{c|4680|Aung San Suu Kyi}},
 And shot the people who marched against it, and the country went to war with itself, and the war ran free.
 On the twenty-third of March a container ship, the {{x|Ever Given}}, turned sideways in a wind,
 And blocked the {{x|Suez Canal}} for six days, and the trade of the world waited behind it, pinned.
 
 ## The machines and the money
 
-In the movement of the chapter of twenty fifteen, {{c|Sam Bankman-Fried}}'s exchange was valued at twenty-five billion,
+In the movement of the chapter of twenty fifteen, {{c|4665|Sam Bankman-Fried}}'s exchange was valued at twenty-five billion,
 And he paid for its name on a stadium in {{p|Miami}}, and for advertisements with the famous, by the million.
 In the same year some researchers of the lab named open left it, for the sake of safety,
 And founded a company of their own, called {{x|Anthropic}}, and he put money into it the next year, and that is the money's story,
@@ -120,7 +120,7 @@ In March a picture made only in a computer sold at auction for sixty-nine millio
 And people bought pictures of apes for millions, and later could not sell them, and the crypto year kept its ledger.
 
 In {{p|El Salvador}}, in September, that money was made the money of the country,
-And on the fifth of October {{c|Frances Haugen}} told the congress the book of faces knew its products harmed children, and kept them, plainly,
+And on the fifth of October {{c|4736|Frances Haugen}} told the congress the book of faces knew its products harmed children, and kept them, plainly,
 And on the twenty-eighth the company changed its name to {{x|Meta}},
 Saying the future was a world inside goggles, sooner or later.
 
@@ -129,16 +129,16 @@ Saying the future was a world inside goggles, sooner or later.
 On the eighteenth of February the rover {{x|Perseverance}} landed on {{p|Mars}},
 And later flew a small helicopter in its thin air, the first flight on another world among the stars.
 In February a winter storm froze {{p|Texas}}, and its own grid failed, and hundreds died in the cold,
-And on the twentieth of April the policeman who knelt on {{c|George Floyd}} was convicted of his murder, as the jury told.
+And on the twentieth of April the policeman who knelt on {{c|4723|George Floyd}} was convicted of his murder, as the jury told.
 
-On the seventeenth of January {{c|Alexei Navalny}} flew home to {{p|Russia}} from his healing, and the villain had him arrested at the airport,
+On the seventeenth of January {{c|4729|Alexei Navalny}} flew home to {{p|Russia}} from his healing, and the villain had him arrested at the airport,
 And he never left prison again, and that is the villain's own report.
 On the seventh of July the president of {{p|Haiti}} was killed in his bedroom,
 And in July and August the games of {{p|Tokyo}}, delayed a year, were held with no one in the room.
 
 On the first of September {{p|Texas}} let any person sue anyone who helped a woman end a pregnancy after six weeks,
 And in November the meeting of {{p|Glasgow}} promised to phase coal down, not out, in its critiques.
-On the eighth of December {{c|Angela Merkel}} left office after sixteen years,
+On the eighth of December {{c|4563|Angela Merkel}} left office after sixteen years,
 And on the twenty-fifth of December the telescope {{x|James Webb}} was launched, to look back to the first light, past all the spheres.
 
 ## The year held

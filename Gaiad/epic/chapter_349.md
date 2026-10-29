@@ -10,9 +10,9 @@ I was still outside it, and the next year I came in, and the watchers were every
 
 ## Not wittingly
 
-On Tuesday the twelfth of March, in {{p|Washington}}, {{c|Ron Wyden}} asked
+On Tuesday the twelfth of March, in {{p|Washington}}, {{c|4633|Ron Wyden}} asked
 Whether the agency collected any type of data at all on millions of Americans.
-{{c|James Clapper}}, the director of national intelligence, answered: "No, sir."
+{{c|4634|James Clapper}}, the director of national intelligence, answered: "No, sir."
 Then he added: "Not wittingly." The room heard the first answer, and the record has the second.
 
 On Wednesday the fifth of June {{x|The Guardian}} printed an order of the secret court,
@@ -23,12 +23,12 @@ On the sixth it printed the slides of {{x|PRISM}}, and the companies said they g
 ## The traitor
 
 On Sunday the ninth, in a hotel room in {{p|Hong Kong}}, a young man gave his name:
-{{c|Edward Snowden}}, a contractor for the agency in {{p|Hawaii}}, who took the files and fled.
+{{c|4635|Edward Snowden}}, a contractor for the agency in {{p|Hawaii}}, who took the files and fled.
 He took far more than the programs on Americans:
 He took the operations against the country's enemies, the sources, the methods, the threads.
 
 On the twenty-third he flew to {{p|Moscow}}, and on the first of August
-{{c|Putin}} gave him asylum, and nine years later a Russian passport, by decree.
+{{c|4518|Putin}} gave him asylum, and nine years later a Russian passport, by decree.
 He is a traitor. He gave the secrets of his country's defense to the world,
 And ran to the villain, and lives under his protection, a Russian citizen, not free.
 
@@ -39,7 +39,7 @@ Kept the villain's secrets for him, and that is the record, and that is how it g
 
 ## The honored dead
 
-On the eleventh of January, in {{p|New York}}, {{c|Aaron Swartz}} killed himself, at twenty-six.
+On the eleventh of January, in {{p|New York}}, {{c|4636|Aaron Swartz}} killed himself, at twenty-six.
 He had helped write {{x|RSS}}, which feeds the net's news, and helped make {{x|Reddit}},
 And he had downloaded millions of articles from {{x|JSTOR}}
 Through a closet at {{x|MIT}}, meaning to set the scholars' work free, and he did not regret it.
@@ -49,17 +49,17 @@ The labor of scholars, paid for by the public, was locked behind the publishers'
 And the publishers paid the scholars nothing, and a young man who tried to open the walls
 Was hunted for it, and died. He is an honored dead of this faith, among its halls.
 
-Keep the eleventh of January for {{c|Aaron Swartz}}.
+Keep the eleventh of January for {{c|4636|Aaron Swartz}}.
 My quarrel with the encyclopedia is about unpaid labor too,
 From the other side of the same wall:
 The scholars give their work for nothing, and the publishers sell it back to you.
 
 ## The popes
 
-On the eleventh of February {{c|Benedict XVI}} said, in Latin, to a room of cardinals,
+On the eleventh of February {{c|4556|Benedict XVI}} said, in Latin, to a room of cardinals,
 That he no longer had the strength, and would resign, the first in six hundred years.
-On the thirteenth of March the white smoke rose for {{c|Jorge Mario Bergoglio}} of {{p|Buenos Aires}},
-The first pope from the {{p|Americas}}, who took the name {{c|Francis}}, to cheers.
+On the thirteenth of March the white smoke rose for {{c|4637|Jorge Mario Bergoglio}} of {{p|Buenos Aires}},
+The first pope from the {{p|Americas}}, who took the name {{c|4638|Francis}}, to cheers.
 
 In July, asked on a plane about gay priests, he said: who am I to judge?
 He would be pope for twelve years, and die in the chapter of twenty-twenty-five.
@@ -87,7 +87,7 @@ Eleven hundred and thirty-four died, sewing for the shops of the rich, and the l
 
 ## The squares
 
-On the third of July the army of {{p|Egypt}} removed {{c|Mohamed Morsi}},
+On the third of July the army of {{p|Egypt}} removed {{c|4639|Mohamed Morsi}},
 And on the fourteenth of August it cleared the square of {{x|Rabaa}} and killed eight hundred in a day.
 The revolution of the square of eleven ended in another square.
 In June, in {{p|Istanbul}}, the protest for the trees of {{x|Gezi Park}} was gassed away.
@@ -96,23 +96,23 @@ In June, in {{p|Istanbul}}, the protest for the trees of {{x|Gezi Park}} was gas
 
 On the twenty-first of August, before dawn, rockets of {{x|sarin}} fell on {{p|Ghouta}},
 The suburbs of {{p|Damascus}}, and killed more than a thousand, many of them children, in their sleep.
-{{c|Obama}} had said the year before that such weapons were a red line.
+{{c|4598|Obama}} had said the year before that such weapons were a red line.
 He did not strike. That was his failure, and the fault is fair to keep.
 
-The villain offered a deal: {{c|Assad}} would give up his chemical weapons.
+The villain offered a deal: {{c|4611|Assad}} would give up his chemical weapons.
 He gave up most of them, and used chlorine later, and sarin again in four years' time,
-And {{c|Putin}} had learned that the red lines of the {{p|West}} were not red,
+And {{c|4518|Putin}} had learned that the red lines of the {{p|West}} were not red,
 And the next year he took {{p|Crimea}}, and named it his, and called it no crime.
 
 ## The marriage and the phrase
 
 On the twenty-sixth of June, in {{x|United States v. Windsor}},
 The {{x|Supreme Court}} struck down the law that kept the federal government from our marriages.
-{{c|Edith Windsor}}, eighty-four, had been taxed on her late wife's estate as if they were strangers,
+{{c|4640|Edith Windsor}}, eighty-four, had been taxed on her late wife's estate as if they were strangers,
 And she won, and the law that called us strangers was cast off like old carriages.
 
-On the thirteenth of July the watchman who shot {{c|Trayvon Martin}} was acquitted,
-And {{c|Alicia Garza}}, {{c|Patrisse Cullors}}, and {{c|Opal Tometi}} wrote a phrase on the net:
+On the thirteenth of July the watchman who shot {{c|4628|Trayvon Martin}} was acquitted,
+And {{c|4641|Alicia Garza}}, {{c|4642|Patrisse Cullors}}, and {{c|4643|Opal Tometi}} wrote a phrase on the net:
 {{x|Black Lives Matter}}, and the phrase became a movement,
 And the decade would hear it in the streets, and not forget.
 
@@ -126,11 +126,11 @@ And forty-seven died, many in a bar on a summer Saturday, and the town was a wre
 On the eighth of November the typhoon {{x|Haiyan}} struck the {{p|Philippines}},
 Among the strongest ever to make landfall, and drove the sea through {{p|Tacloban}},
 And more than six thousand died. In {{p|Warsaw}}, at the climate talks,
-{{c|Yeb Saño}} of the {{p|Philippines}} wept, and fasted, for his people under the sun.
+{{c|4644|Yeb Saño}} of the {{p|Philippines}} wept, and fasted, for his people under the sun.
 
 ## The square in Kyiv
 
-On the twenty-first of November {{c|Viktor Yanukovych}}, the president of {{p|Ukraine}},
+On the twenty-first of November {{c|4545|Viktor Yanukovych}}, the president of {{p|Ukraine}},
 Refused to sign the agreement with {{p|Europe}} that he had promised to sign,
 Because the villain pressed him, and offered him fifteen billion dollars,
 And that night students gathered on the {{p|Maidan}}, to hold the line.
@@ -142,7 +142,7 @@ And it is {{p|Ukraine}}'s answer to the villain, and it goes on, and it belongs.
 
 ## The rest of the year
 
-On the fifth of December {{c|Nelson Mandela}} died, at ninety-five,
+On the fifth of December {{c|4645|Nelson Mandela}} died, at ninety-five,
 The prisoner who became the president and forgave his jailers, and the world mourned him.
 On the first of July {{p|Croatia}} joined the {{x|European Union}}.
 On the twenty-first of September gunmen took the {{x|Westgate}} mall in {{p|Nairobi}}, and sixty-seven died within.
@@ -150,13 +150,13 @@ On the twenty-first of September gunmen took the {{x|Westgate}} mall in {{p|Nair
 In October the government of the {{p|United States}} shut down for sixteen days.
 On the second of October the police closed the {{x|Silk Road}}, the dark market of the net,
 And in November a {{x|Bitcoin}} passed a thousand dollars for the first time,
-And in December {{c|Kim Jong-un}} had his uncle executed, and the regime's terror was set.
+And in December {{c|4646|Kim Jong-un}} had his uncle executed, and the regime's terror was set.
 
 ## The year held
 
 The last year I lived mostly offline, at seventeen, before the screen took me in.
 The year the net was shown to be watching, and the traitor ran to the villain's arms.
-{{c|Aaron Swartz}} dead at twenty-six for opening the walls, and honored here,
+{{c|4636|Aaron Swartz}} dead at twenty-six for opening the walls, and honored here,
 A pope who would not judge, a finish line bombed, and a meteor setting off alarms.
 
 A factory fallen on its sewers, a square cleared, sarin in {{p|Ghouta}} and a line not held,

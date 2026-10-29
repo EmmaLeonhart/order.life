@@ -1,21 +1,21 @@
-# Chapter 55: The {{c|Forest}} {{c|Cathedral}}
+# Chapter 55: The {{c|90831|Forest}} {{c|90832|Cathedral}}
 
-As {{c|Devon}}'s sons grew strong and true in might,
-The spineless sons of bright {{c|Proteus}} fair
+As {{c|1370|Devon}}'s sons grew strong and true in might,
+The spineless sons of bright {{c|223|Proteus}} fair
 Prepared themselves to join the ancient fight
 For rule beneath the ocean's flowing care.
 
-In {{c|Devon}}'s shadow they grew day by day,
+In {{c|1370|Devon}}'s shadow they grew day by day,
 Their strength increasing with each passing hour,
 Building themselves to drink what victory's way
 Would bring them through their faithful, growing power.
 
-Among great {{c|Spiralius}}' noble line,
-{{c|Neo}} arose in tenth generation's race
-Of {{c|Bactridius}} blessed and divine,
+Among great {{c|619|Spiralius}}' noble line,
+{{c|1423|Neo}} arose in tenth generation's race
+Of {{c|1424|Bactridius}} blessed and divine,
 The smartest soul in all his time and place.
 
-{{c|Intelligence}} beyond what others knew
+{{c|867|Intelligence}} beyond what others knew
 Or ever could pursue through all their days,
 Yet what he possessed in genius true,
 He lacked in wisdom's ancient, faithful ways.
@@ -27,20 +27,20 @@ And learned through pain what peace was truly for.
 
 And so he and his seed were cursed to bear
 The weight of always starting from the start,
-{{c|Reinventing}} what their fathers used to share
+{{c|1425|Reinventing}} what their fathers used to share
 As wisdom's gift to guide the faithful heart.
 
-{{c|Neo}} bore two sons of noble birth and might:
-Great {{c|Ammon}} when the dawn began its day,
-And {{c|Coleos}} the strong, whose faithful sight
+{{c|1423|Neo}} bore two sons of noble birth and might:
+Great {{c|1426|Ammon}} when the dawn began its day,
+And {{c|1427|Coleos}} the strong, whose faithful sight
 Would guide him through his long and wondrous way.
 
 Both sons would reinvent what fathers knew,
 The wheel of wisdom that had come before,
-{{c|Ignoring}} lessons that were tried and true
+{{c|1428|Ignoring}} lessons that were tried and true
 From those who'd walked this path from shore to shore.
 
-{{c|Coleos}} wrapped his shell with mantle's care,
+{{c|1427|Coleos}} wrapped his shell with mantle's care,
 And through his innovation wrought with art
 His shell's protection grew beyond compare
 From mountain peak to shore, each single part.
@@ -50,7 +50,7 @@ A fortress that would never know defeat,
 Protection that would never, ever fail
 To keep him safe from foe he chanced to meet.
 
-Great {{c|Ammon}} grew a shell of coiled design,
+Great {{c|1426|Ammon}} grew a shell of coiled design,
 Compact and true to serve his heart's desire,
 Wherever destiny would draw the line
 He'd dwell with freedom bright as sacred fire.
@@ -60,18 +60,18 @@ But made his home wherever he would roam,
 Free as the wind that danced as he had wished
 Throughout the vast and boundless ocean's dome.
 
-Among the sons of bright {{c|Ectus}}' great might,
-{{c|Malacus}} bore three sons of noble fame:
-{{c|Caridus}} of the sea so fair and bright,
-And {{c|Phyllos}} strong who'd honor his great name,
+Among the sons of bright {{c|618|Ectus}}' great might,
+{{c|988|Malacus}} bore three sons of noble fame:
+{{c|1429|Caridus}} of the sea so fair and bright,
+And {{c|797|Phyllos}} strong who'd honor his great name,
 
-And {{c|Hoplos}}, through and through a warrior true
+And {{c|1430|Hoplos}}, through and through a warrior true
 Whose heart was set upon the fighting way,
 He'd play his part in all they'd ever do
 With courage burning bright from night to day.
 
-{{c|Caridus}} bore two sons beyond compare:
-{{c|Syn}} {{c|Peras}} and great {{c|Yuval}}, answering
+{{c|1429|Caridus}} bore two sons beyond compare:
+{{c|1431|Syn}} {{c|1432|Peras}} and great {{c|1433|Yuval}}, answering
 The call of destiny with faithful care
 To make their lineage great in everything.
 
@@ -80,12 +80,12 @@ With ocean as their guide through all their days,
 They'd build what none had ever built before
 And walk in their appointed, faithful ways.
 
-{{c|Peras}} bore children many, strong and true:
-{{c|Amphipus}} none could match in all his might,
-And brave {{c|Isopus}} too, and others who
+{{c|1432|Peras}} bore children many, strong and true:
+{{c|1434|Amphipus}} none could match in all his might,
+And brave {{c|1435|Isopus}} too, and others who
 Would serve with faithful hearts both day and night.
 
-His wife, fair {{c|Possa}}, carried them with care
+His wife, fair {{c|1436|Possa}}, carried them with care
 And never tarried in their nourishment,
 According to her sacred, mother's prayer
 And oath of love that heaven to her sent.
@@ -95,17 +95,17 @@ Throughout the years to come when wars were done,
 Within her pouch they grew both strong and sure,
 Fed by her love beneath the blazing sun.
 
-Great {{c|Yuval}} bore two sons of different ways:
-{{c|Decapus}} when the dawn began to break,
-And {{c|Krillon}} small, who'd spend his faithful days
+Great {{c|1433|Yuval}} bore two sons of different ways:
+{{c|1437|Decapus}} when the dawn began to break,
+And {{c|1438|Krillon}} small, who'd spend his faithful days
 In answering the ocean's call for sake.
 
-{{c|Krillon}} remained small throughout all his time
+{{c|1438|Krillon}} remained small throughout all his time
 And swam beneath the skies of ocean blue
 In all his days, and in his gentle rhyme
 He kept his aquatic ways both tried and true.
 
-But brave {{c|Decapus}} grew both large and strong
+But brave {{c|1437|Decapus}} grew both large and strong
 And took command by sinking to the floor
 Of ocean's deepest realm, where all life long
 He'd rule from mountain peak to distant shore.
@@ -115,58 +115,58 @@ As was both right and proper they should be,
 By three great houses, never to be fooled:
 The lords of ocean's vast community.
 
-{{c|Amphipods}} from the blessed, divine line
-Of great {{c|Amphipus}}, noble, tried, and true,
-{{c|Isopods}} from {{c|Isopus}}' design
+{{c|1439|Amphipods}} from the blessed, divine line
+Of great {{c|1434|Amphipus}}, noble, tried, and true,
+{{c|1440|Isopods}} from {{c|1435|Isopus}}' design
 Who'd make their father's legacy shine through,
 
-And brave {{c|Decapods}} who came to fame
-From great {{c|Decapus}}' everlasting name—
+And brave {{c|1441|Decapods}} who came to fame
+From great {{c|1437|Decapus}}' everlasting name—
 The three great houses whose eternal glory
 Would last through all of evolutionary story.
 
-{{c|Decapus}} bore two sons both tried and true:
-Great {{c|Pleos}}, faithful through each passing day,
-And {{c|Prawnmegas}} the great, whose destiny too
+{{c|1437|Decapus}} bore two sons both tried and true:
+Great {{c|1442|Pleos}}, faithful through each passing day,
+And {{c|1443|Prawnmegas}} the great, whose destiny too
 Would seal his lineage fate in every way.
 
-{{c|Prawnmegas}} became the ancestor
+{{c|1443|Prawnmegas}} became the ancestor
 Of prawns throughout the sea's community,
 Their father and their faithful protector
 Through all the years of their nativity.
 
-An unfortunate son of {{c|Prawnmegas}},
+An unfortunate son of {{c|1443|Prawnmegas}},
 Begun in sorrow and in bitter shame,
 Still bears today his father's name, alas,
 A reminder of his heritage and fame.
 
-Great {{c|Pleos}} bore two sons of noble birth:
-{{c|Repton}} to explore from sea to sea,
-And brave {{c|Shrimpon}}, who'd prove his faithful worth
+Great {{c|1442|Pleos}} bore two sons of noble birth:
+{{c|1444|Repton}} to explore from sea to sea,
+And brave {{c|1445|Shrimpon}}, who'd prove his faithful worth
 As father by the ocean's majesty.
 
-{{c|Shrimpon}} became the noble, faithful sire
+{{c|1445|Shrimpon}} became the noble, faithful sire
 Of shrimp whose greatest joy and sweet desire
 Was boxing and much more from shore to shore,
 Protecting what they loved forevermore.
 
-{{c|Repton}} bore two sons in their prime:
-{{c|Thalasson}} of the mud, and {{c|Omar}}'s name
+{{c|1444|Repton}} bore two sons in their prime:
+{{c|1446|Thalasson}} of the mud, and {{c|1447|Omar}}'s name
 Whose blood would flow through generations' time
 In lobster veins and bring eternal fame.
 
-Great {{c|Omar}} became the faithful father
+Great {{c|1447|Omar}} became the faithful father
 Of those who'd choose the lobster's bold way,
 And crayfish too, who'd rather
 Live with claws so mighty night and day.
 
-{{c|Thalasson}} became the noble, faithful father
+{{c|1446|Thalasson}} became the noble, faithful father
 Of mud shrimp, who would build what none before
 Had ever willed to make, and they would rather
 Create than conquer—architects who bore
 
 Great channels carved in stone that they called home,
-{{c|Cities}} beneath the sea for all to see
+{{c|608|Cities}} beneath the sea for all to see
 Throughout eternity beneath the foam
 Of ocean's vast and boundless majesty.
 
@@ -175,7 +175,7 @@ As donors of great beauty to the world,
 Their cities where no evil ever lurks
 In fossilized remains lie unfurled.
 
-They tell us stories of {{c|Thallasintep}} great
+They tell us stories of {{c|1448|Thallasintep}} great
 And others who were sealed by loving fate
 In stone for us to see and understand
 Their architecture throughout ocean's land.
@@ -185,8 +185,8 @@ And speak to us across the years between
 Of how great builders helped us understand
 What beauty means and what it's always been.
 
-{{c|Meiuron}}, noble son in the line
-Of tenth generation of {{c|Thalasson}}'s race,
+{{c|1449|Meiuron}}, noble son in the line
+Of tenth generation of {{c|1446|Thalasson}}'s race,
 Rejected what his fathers thought divine
 And chose to find a different dwelling place.
 
@@ -195,12 +195,12 @@ To live upon the face of ocean bright,
 Where currents and the tides would ever flow
 Beneath the dome of day and stars of night.
 
-{{c|Meiuron}} bore two sons of different ways:
-{{c|Anomuron}}, begun in quiet peace,
-And {{c|Saraton}}, who through his living days
+{{c|1449|Meiuron}} bore two sons of different ways:
+{{c|1450|Anomuron}}, begun in quiet peace,
+And {{c|1451|Saraton}}, who through his living days
 Showed vanity that never seemed to cease.
 
-{{c|Saraton}} was agile, skilled, and fast,
+{{c|1451|Saraton}} was agile, skilled, and fast,
 Yet vain and proud, his ego fragile too,
 He needed praise from first day to last
 In everything he'd ever try to do.
@@ -215,7 +215,7 @@ Within his heart, and blackened his good name,
 For vanity will always intercede
 Between the soul and honor's lasting fame.
 
-The sons of brave {{c|Anomuron}} would live
+The sons of brave {{c|1450|Anomuron}} would live
 In quiet ways when each new day begun,
 They'd dwell in peace with all they had to give
 Within their neighborhood beneath the sun.
@@ -230,43 +230,43 @@ When ten generations' faithful rhyme
 Had passed away, and they would come to find
 A different and more adventurous mind.
 
-{{c|Paguros}} was a son of {{c|Anomuron}},
+{{c|1452|Paguros}} was a son of {{c|1450|Anomuron}},
 Begun with shell both weak and soft and frail
 That others mocked from dusk until the dawn
 And laughed at through each storm and gentle gale.
 
 But in his dying breath before death came,
-The {{c|Ammonite}} called {{c|Menses}}, full of grace,
+The {{c|1453|Ammonite}} called {{c|1454|Menses}}, full of grace,
 Gave what dispenses shelter from all shame:
-His shell to be {{c|Paguros}}' dwelling place.
+His shell to be {{c|1452|Paguros}}' dwelling place.
 
-And so {{c|Paguros}} became the faithful father
+And so {{c|1452|Paguros}} became the faithful father
 Of hermit crabs who bear with loving care
 The shells that others left, and they would rather
-{{c|Honor}} the dead than leave their treasure bare.
+{{c|1455|Honor}} the dead than leave their treasure bare.
 
 When death had been so kind to those before
 As to release their hold on shells so bright,
 The hermit crabs would use them evermore
 As homes to keep them safe through day and night.
 
-Alas, the great revolt of brave {{c|Proteus}}
+Alas, the great revolt of brave {{c|223|Proteus}}
 Felt failure's bitter sting and painful dart,
 No victory could come to those who'd thus
 Rebelled with proud and unrepentant heart.
 
-The great {{c|Protean}} rebellion failed to bring
-{{c|Subjection}} to great {{c|Devon}}'s mighty reign
+The great {{c|1456|Protean}} rebellion failed to bring
+{{c|1457|Subjection}} to great {{c|1370|Devon}}'s mighty reign
 That had endured through every storm of spring
 And lasted life long through joy and pain.
 
-The sons of {{c|Devon}} held their righteous power,
+The sons of {{c|1370|Devon}} held their righteous power,
 They never fell to those who rose in vain
 Against their rule through each appointed hour
 Well-fenced by truth that broke rebellion's chain.
 
 But lo! a new frontier was opening wide
-Where sons of brave {{c|Proteus}} at last could find
+Where sons of brave {{c|223|Proteus}} at last could find
 What they had never found beneath the tide:
 A land to heal their wounded heart and mind.
 
@@ -280,18 +280,18 @@ New possibilities for societies,
 Where forest offered them the chance to be
 The founders of new communities.
 
-There sons of brave {{c|Proteus}} would find at last
+There sons of brave {{c|223|Proteus}} would find at last
 Victorious domains to claim with pride,
 And build upon the ruins of the past
 With hope and truth as their eternal guide.
 
-From {{c|Neo}}'s intelligence without the grace
+From {{c|1423|Neo}}'s intelligence without the grace
 Of wisdom from the past to guide his way,
 To changes that would always show their face
 In forms both old and new from day to day,
 
 The lesson clear emerges for us all:
-{{c|Intelligence}} alone will never last
+{{c|867|Intelligence}} alone will never last
 Beyond our own brief span, but wisdom's call
 To learn from those who've walked this way in past
 
@@ -300,14 +300,14 @@ And reach to greater heights with clearer sight,
 While those who trust in their own strength alone
 Will stumble in the darkness of the night.
 
-From {{c|Ammon}}'s coiled shell to the story told
-Of brave {{c|Paguros}} and his borrowed home,
+From {{c|1426|Ammon}}'s coiled shell to the story told
+Of brave {{c|1452|Paguros}} and his borrowed home,
 The crustaceans show how hearts grown bold
 Can find new ways to live where'er they roam.
 
-The three great houses strong—{{c|Amphipods}} true,
-{{c|Isopods}} faithful in their chosen place,
-And brave {{c|Decapods}} with their royal hue—
+The three great houses strong—{{c|1439|Amphipods}} true,
+{{c|1440|Isopods}} faithful in their chosen place,
+And brave {{c|1441|Decapods}} with their royal hue—
 Show how diversity brings strength and grace.
 
 From prawns to lobster claws, each found their way
@@ -320,12 +320,12 @@ Who foster care for shells that others left
 Teach us that wisdom never fails or flags
 When love protects us from all sense of theft.
 
-The great {{c|Protean}} rebellion's bitter end
+The great {{c|1456|Protean}} rebellion's bitter end
 Opened the sight of forests green and wide,
 Where those who fell could rise and make amend
 With hope and truth as their eternal guide.
 
-From {{c|Neo}}'s cursed pride to wisdom's light
+From {{c|1423|Neo}}'s cursed pride to wisdom's light
 That guides the hermit crab's protective shell,
 The story shows us how to choose what's right
 And build the future we would love to dwell.

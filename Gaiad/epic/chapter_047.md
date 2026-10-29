@@ -2,17 +2,17 @@
 
 This is the story told
 Of ones both new and old:
-The {{c|Cephalopods}} so great,
-{{c|Arcane}} ones whose fate
+The {{c|1127|Cephalopods}} so great,
+{{c|1128|Arcane}} ones whose fate
 
 Would overthrow the might
-Of {{c|Leviathan}}'s sight
+Of {{c|959|Leviathan}}'s sight
 And rule with wisdom deep
 Where ancient secrets keep.
 
-The sons of {{c|Cephalopus}}
+The sons of {{c|878|Cephalopus}}
 Would grow so glorious
-That sons of {{c|Scaphopus}},
+That sons of {{c|879|Scaphopus}},
 Not quite so prosperous,
 
 Would fade from memory
@@ -21,21 +21,21 @@ Few know them at all
 Who hear the ocean's call.
 
 The degenerate sons
-Of {{c|Scaphopus}}, when begun
+Of {{c|879|Scaphopus}}, when begun
 Their lives, would never know
 The heights their cousins' show.
 
-{{c|Cephalopus}} begat
-{{c|Plectron}}, and from begat
+{{c|878|Cephalopus}} begat
+{{c|1129|Plectron}}, and from begat
 Him came a noble line
 With intelligence divine.
 
-{{c|Plectron}} begat the son
-Called {{c|Ellesmer}}, begun
+{{c|1129|Plectron}} begat the son
+Called {{c|1130|Ellesmer}}, begun
 In wisdom's deepest lore
 From mountain peak to shore.
 
-{{c|Ellesmere}} went deeper
+{{c|1131|Ellesmere}} went deeper
 Than any secret keeper
 Had gone before his time
 Down below the brine
@@ -45,47 +45,47 @@ From all that daylight did
 To illuminate the world
 Where surface waves are curled.
 
-{{c|Ellesmer}} begat two:
-{{c|Endos}}, tried and true,
-And {{c|Actinos}} the bright
+{{c|1130|Ellesmer}} begat two:
+{{c|1132|Endos}}, tried and true,
+And {{c|1133|Actinos}} the bright
 Who flew to heaven's height.
 
-{{c|Endos}} bore many sons
+{{c|1132|Endos}} bore many sons
 Who when their work was done
 Moved slowly through the sea
 With great dignity.
 
 Greatest among them all
 Who answered wisdom's call
-Was {{c|Cameroceras}} {{c|Magnus}},
-Known as {{c|Cameromagne}},
+Was {{c|1134|Cameroceras}} {{c|1135|Magnus}},
+Known as {{c|1136|Cameromagne}},
 
 Whose name through history
 Rings with victory
-Over {{c|Leviathan}}'s
+Over {{c|959|Leviathan}}'s
 Great dominion's plans.
 
-{{c|Cameromagne}} overthrew
-The sons of {{c|Leviathan}}, who
+{{c|1136|Cameromagne}} overthrew
+The sons of {{c|959|Leviathan}}, who
 Had ruled the seas so long
 With their imperial song.
 
-{{c|Endoceras}}, his son,
+{{c|1137|Endoceras}}, his son,
 When his growth was done
 Grew nine thousand long
-{{c|Millimeters}} strong.
+{{c|1138|Millimeters}} strong.
 
 Twenty cubits he
 Measured, front to back, free
 From end to end complete—
 No foe could compete.
 
-He dwarfed {{c|Leviathan}}
-{{c|Fourfold}}, and began
+He dwarfed {{c|959|Leviathan}}
+{{c|1139|Fourfold}}, and began
 A new age in the sea
 Of cephalopod decree.
 
-{{c|Actinos}}, by his air
+{{c|1133|Actinos}}, by his air
 Heavenly and fair
 Within his shell contained,
 Had power that sustained
@@ -95,12 +95,12 @@ Up to the starry skies
 And down to earth descend
 As suited his end.
 
-{{c|Actinos}} begat two:
-{{c|Orthosceros}} so true
-And {{c|Tarphy}}, young and wild,
+{{c|1133|Actinos}} begat two:
+{{c|1140|Orthosceros}} so true
+And {{c|1141|Tarphy}}, young and wild,
 Evolution's favored child.
 
-{{c|Tarphy}} lived so fast
+{{c|1141|Tarphy}} lived so fast
 In youth, while time would last
 He coiled his shell around
 A hundred times, and found
@@ -130,53 +130,53 @@ Where all struggles cease
 And wisdom finds its home
 Where wise ones always roam.
 
-{{c|Tarphy}} begat two sons:
-{{c|Oncos}} when day begun
-And {{c|Barrandeos}} strong
+{{c|1141|Tarphy}} begat two sons:
+{{c|1142|Oncos}} when day begun
+And {{c|1143|Barrandeos}} strong
 Who lived his whole life long.
 
-{{c|Oncos}} lived a life
+{{c|1142|Oncos}} lived a life
 Without much joy or strife—
 Coiled but simple, he
 Lived quite peacefully.
 
-{{c|Oncos}} bore many sons,
+{{c|1142|Oncos}} bore many sons,
 Among them when begun
-Their lives was {{c|Rutos}}, who
+Their lives was {{c|1144|Rutos}}, who
 Would see great wonders through.
 
-{{c|Rutos}} bore a son
-Named {{c|Nautilus}}, begun
+{{c|1144|Rutos}} bore a son
+Named {{c|1145|Nautilus}}, begun
 In wisdom of the deep
 That ancestors would keep.
 
-The sons of {{c|Nautilus}}
+The sons of {{c|1145|Nautilus}}
 Live on, so glorious,
 Today just as they were
 When time was but a blur
 
-In days of {{c|Rutos}} old
-And {{c|Cameromagne}} bold
+In days of {{c|1144|Rutos}} old
+And {{c|1136|Cameromagne}} bold
 Who conquered all the seas
 With their strategies.
 
-{{c|Orthosceros}} begat
+{{c|1140|Orthosceros}} begat
 Two sons: first he begat
-{{c|Ascos}}, who would know
+{{c|1146|Ascos}}, who would know
 How graciousness could grow,
 
-And {{c|Bacchus}}, small but who
+And {{c|1147|Bacchus}}, small but who
 Would make his vision true
 Through numbers vast and wide
 That could not be denied.
 
-{{c|Ascos}} lived his youth
+{{c|1146|Ascos}} lived his youth
 With shell that spoke no truth
 Of grace—clumsy and slow,
 Unable to bestow
 
 Upon his movements any
-{{c|Grace}}—not one of many
+{{c|1148|Grace}}—not one of many
 Who swam with elegance
 In ocean's great expanse.
 
@@ -210,9 +210,9 @@ And each one finally thrives
 In grace beyond compare
 That fills the water fair.
 
-But {{c|Bacchus}} was so small
+But {{c|1147|Bacchus}} was so small
 And seemed to one and all
-{{c|Insignificant}} and weak,
+{{c|1149|Insignificant}} and weak,
 With nothing much to seek.
 
 But he bore children who
@@ -233,7 +233,7 @@ That never seemed to cease.
 From small beginnings came
 A multitude of fame
 That filled the world entire
-With {{c|Bacchus}}' desire
+With {{c|1147|Bacchus}}' desire
 
 To populate the sea
 With his progeny
@@ -246,13 +246,13 @@ From deep intelligence
 To rule with providence
 
 Over the ancient sea
-Where {{c|Leviathan}}'s decree
+Where {{c|959|Leviathan}}'s decree
 Once held the power supreme
 In every ocean's dream.
 
 But wisdom overthrew
 The old order, and new
-{{c|Lords}} of the sea arose
+{{c|1150|Lords}} of the sea arose
 To challenge all their foes
 
 With intelligence bright
@@ -265,14 +265,14 @@ Where they would always reign
 With wisdom as their crown
 And grace as their renown.
 
-From {{c|Cameromagne}}'s might
+From {{c|1136|Cameromagne}}'s might
 That brought the ancient fight
-To {{c|Leviathan}}'s door
+To {{c|959|Leviathan}}'s door
 And won forevermore
 
 The right to rule the sea
 With wise authority,
-To {{c|Nautilus}} who shows
+To {{c|1145|Nautilus}} who shows
 How ancient wisdom flows
 
 Through generations long
@@ -335,7 +335,7 @@ Until at long last
 The wise inherit all
 Who answer wisdom's call.
 
-From {{c|Ellesmer}}'s deep dive
+From {{c|1130|Ellesmer}}'s deep dive
 To keep the past alive
 While finding something new
 In wisdom's vast review,
@@ -370,7 +370,7 @@ Make all their dreams come true
 Through patience and through grace
 In evolution's race.
 
-The sons of {{c|Cephalopus}}
+The sons of {{c|878|Cephalopus}}
 Remain so glorious
 Because they chose the way
 Of wisdom every day

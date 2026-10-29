@@ -1,6 +1,6 @@
 # Chapter 149: Yamnaya — The Steppe Breaks Europe
 
-The {{c|R}}-haplogroup chapter in its genetic register has already been
+The {{c|1884|R}}-haplogroup chapter in its genetic register has already been
 Written. This chapter is the civilizational register. What the
 {{p|Yamnaya}} did to the world it entered.
 
@@ -46,7 +46,7 @@ And then, around thirty-five hundred BCE, it ended.
 
 The {{p|Yamnaya}} arrived.
 
-                              The {{c|R}}-haplogroup horsemen of the
+                              The {{c|1884|R}}-haplogroup horsemen of the
 {{p|Pontic-Caspian steppe}}, armed with the bronze axe and the domesticated
 Horse and the corded-ware pot, rode west into the {{p|Cucuteni-Trypillia}}
 
@@ -72,8 +72,8 @@ Male population was essentially wiped out. The female population
 Persisted—the women were, in substantial numbers, absorbed into
 The incoming {{p|Yamnaya}} communities—but the male Y-chromosome
 
-Signature of {{p|Cucuteni-Trypillia}} (mostly {{c|G}} and {{c|I}}) was almost
-Entirely replaced by {{c|R1b}}. This is a pattern that will repeat
+Signature of {{p|Cucuteni-Trypillia}} (mostly {{c|1873|G}} and {{c|1875|I}}) was almost
+Entirely replaced by {{c|1942|R1b}}. This is a pattern that will repeat
 Across the {{p|Yamnaya}}'s path: male extermination or displacement,
 Female absorption, a genetic signature of conquest that archaeology
 
@@ -102,7 +102,7 @@ Spread across central and northern {{p|Europe}}. The {{p|Beaker Culture}}
 Pushed west to {{p|Iberia}} and north to {{p|Britain}} and {{p|Ireland}}. By
 Twenty-five hundred BCE, the {{p|Indo-European}} populations had
 Reached the {{p|Atlantic}} coast. The whole of {{p|Europe}} had been
-Overlaid by the {{c|R}}-haplogroup migration. And the languages that
+Overlaid by the {{c|1884|R}}-haplogroup migration. And the languages that
 
 Emerged from this overlay are the languages that almost every
 {{p|European}} still speaks today. {{p|Celtic}}. {{p|Germanic}}. {{p|Italic}} (which
@@ -117,7 +117,7 @@ A very early branch became the {{p|Hittites}} (covered later). Into
 
 {{p|Iran}} and {{p|Central Asia}}, where later migrations would become the
 {{p|Indo-Iranian}} peoples. Into {{p|India}}, where—around fifteen hundred
-BCE—{{c|R1a}}-carrying peoples entered through the {{p|Khyber Pass}} and
+BCE—{{c|1928|R1a}}-carrying peoples entered through the {{p|Khyber Pass}} and
 The {{p|Hindu Kush}} and gradually merged with the remnant population
 
 Of the collapsing {{p|Indus Valley}} civilization. That is the {{p|Aryan
@@ -132,7 +132,7 @@ Established patriarchal, patrilineal social structures across the
 Whole zone. It replaced earlier mother-goddess religions with
 
 Sky-father religions everywhere it went. And the genetic signature
-Of {{c|R1a}} and {{c|R1b}}—the two great {{p|Yamnaya}} Y-chromosome haplogroups—
+Of {{c|1928|R1a}} and {{c|1942|R1b}}—the two great {{p|Yamnaya}} Y-chromosome haplogroups—
 Is today dominant across essentially all of {{p|Europe}} and much of
 {{p|India}} and {{p|Iran}}. Billions of people are {{p|Yamnaya}}'s grandchildren.
 
@@ -146,8 +146,8 @@ Phases)—were overrun and largely erased. The feminine religious
 Substrate of old {{p|Europe}} was submerged under the patriarchal
 Sky-father. The goddess did not die, but she was demoted, converted
 
-Into the consort of the new king-god, transformed into {{c|Hera}} or
-{{c|Frigg}} or {{c|Parvati}}, lesser than the male divine. And the peoples
+Into the consort of the new king-god, transformed into {{c|1202|Hera}} or
+{{c|1996|Frigg}} or {{c|1997|Parvati}}, lesser than the male divine. And the peoples
 Who had been the builders of old {{p|Europe}}—the ones who carved the
 {{p|Venus}} figurines, the ones who raised the first {{p|Neolithic}} temples,
 
@@ -173,7 +173,7 @@ Language was forgotten. Her symbols were rewritten into the
 
 Iconography of the sky-father's consort. And the {{p|European}} who
 Walks through the museum today and admires the {{p|Cucuteni-Trypillia}}
-Pottery is, in most cases, a {{c|R1b}}-carrier—a descendant of the
+Pottery is, in most cases, a {{c|1942|R1b}}-carrier—a descendant of the
 People who destroyed the civilization that made the pottery he
 
 Admires. The body that walks through the museum and the hands
@@ -186,7 +186,7 @@ Erased. The new {{p|Europe}} was built on its graves. And the new {{p|Europe}}
 Brought its own achievements—but never honestly reckoned with
 What it had replaced. Until, in the nineteenth and twentieth centuries,
 
-Scholars like {{c|Marija Gimbutas}} began to reconstruct what had been
+Scholars like {{c|1900|Marija Gimbutas}} began to reconstruct what had been
 Lost. Her argument—that old {{p|Europe}} had been a peaceful, female-
 Centered, goddess-worshipping civilization that the {{p|Indo-European}}
 Invaders destroyed—was controversial in its time and remains

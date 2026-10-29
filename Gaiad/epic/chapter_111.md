@@ -101,26 +101,26 @@ Cut off, the entire pyramid relapsed
 
 Into nothing.
 
-              {{c|Tyrannos}} starved.
-{{c|Ceratops}} starved. {{c|Hadros}} starved.
-{{c|Sauropos}}' last giants, who had carved
+              {{c|1761|Tyrannos}} starved.
+{{c|1762|Ceratops}} starved. {{c|1766|Hadros}} starved.
+{{c|1740|Sauropos}}' last giants, who had carved
 A hundred million years of living—starved.
 
-{{c|Mosas}} in the ocean, where the plankton
+{{c|1760|Mosas}} in the ocean, where the plankton
 Died in the darkness, and the fish that ate
 The plankton died, and the mosasaur's plankton-
-Fed food web collapsed—{{c|Mosas}} met his fate
+Fed food web collapsed—{{c|1760|Mosas}} met his fate
 
 In the dark and starving sea.
 
-                              {{c|Plesios}}—
+                              {{c|1742|Plesios}}—
 The patient plesiosaur, who had swum
 For a hundred and thirty million years—the flows
 Of the {{x|Mesozoic}} ocean gave her no welcome
 
 In the impact winter's starving dark.
 
-{{c|Pteros}}—the sky giant, {{c|Quetzal}} and his kin—
+{{c|1746|Pteros}}—the sky giant, {{c|1747|Quetzal}} and his kin—
 The last of the pterosaurs found no park
 Of thermal to ride, no fish, no protein
 

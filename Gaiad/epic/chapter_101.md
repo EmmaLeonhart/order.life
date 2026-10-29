@@ -17,13 +17,13 @@ Theropod keep his body's factory
 Of warmth running through the night, through all
 
 The cooling hours when the sun went down
-And the thermal mass of {{c|Sauropos}} alone
+And the thermal mass of {{c|1740|Sauropos}} alone
 Kept the giants warm—the feathered gown
 Was the small dinosaur's answer: to the bone
 
 With warmth, against the cold, the filament
 Of the first proto-feather growing from the scale
-That {{c|Sauros}} had inherited—the tent
+That {{c|1669|Sauros}} had inherited—the tent
 Of fluff that kept the body's thermal tale
 
 Of warm blood beating through the smallest frame.
@@ -51,14 +51,14 @@ Of island archipelagoes—the monsoons
 
 And trade winds of a greenhouse world—
 There lived a creature half of two worlds:
-{{c|Archaeos}}, whose feathered wings unfurled
+{{c|1755|Archaeos}}, whose feathered wings unfurled
 The oldest answer to the flight-shape's curls
 
 Of aerodynamic lift.
 
                        He was a theropod—
 Clearly: the teeth, the clawed hands, the long
-Bony tail of {{c|Theros}}' kindred—and the rod
+Bony tail of {{c|1739|Theros}}' kindred—and the rod
 Of every dinosaur's anatomy, the strong
 
 And hollow bone—but on his arms, the feathers
@@ -67,7 +67,7 @@ Arranged for the physics of flight—the weathers
 Of the {{x|Jurassic}} air across the planes
 
 Of his wings were functional, not merely show:
-{{c|Archaeos}} could fly, or glide, or something
+{{c|1755|Archaeos}} could fly, or glide, or something
 Between the two—and the fossil stone would know
 His imprint in the limestone's fine-grained nothing
 
@@ -80,8 +80,8 @@ Of evolution caught mid-transformation:
 A dinosaur becoming a bird.
 
                                    He was not
-The first to fly—{{c|Pteros}} ruled the aviation
-Of the {{x|Jurassic}} sky—but {{c|Archaeos}} brought
+The first to fly—{{c|1746|Pteros}} ruled the aviation
+Of the {{x|Jurassic}} sky—but {{c|1755|Archaeos}} brought
 
 A different wing: not the membrane-kite
 Of the pterosaur's finger-skin, but the feather-fan,
@@ -99,9 +99,9 @@ And the wing that flew with feathered junction
 Was more resilient, more embraceable
 
 By evolution's tinkering than the single
-Membrane that {{c|Pteros}} stretched across his hand.
+Membrane that {{c|1746|Pteros}} stretched across his hand.
 
-{{c|Archaeos}} was not yet a bird—the mingle
+{{c|1755|Archaeos}} was not yet a bird—the mingle
 Of dinosaur and avian in his body spanned
 
 The transition: teeth where the beak would come,
@@ -121,7 +121,7 @@ Of every morning with their living will—
 
 The only dinosaurs that lived to sing.
 
-Honor {{c|Archaeos}}—half-dinosaur, half-bird,
+Honor {{c|1755|Archaeos}}—half-dinosaur, half-bird,
 Caught in the stone of the {{x|Jurassic}}'s offering
 With wings outstretched—the first and final word
 

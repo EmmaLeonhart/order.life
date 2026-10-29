@@ -11,7 +11,7 @@ Behind the eyes. Something the gaze contained
 That had not been there earlier. What swelled
 In the forward-facing skull was not explained
 
-By brain size alone—the {{c|Neanderthal}} had more,
+By brain size alone—the {{c|1833|Neanderthal}} had more,
 And did not make it. What was made was made
 By something else: the capacity to store
 A word, a story, a name—the long parade
@@ -44,11 +44,11 @@ And wind-scoured coast, descends in an unbroken flow
 
 Of father-son-father-son from him.
 
-                                    We call him {{c|Adam}}.
+                                    We call him {{c|1834|Adam}}.
 
-Not the {{c|Adam}} of the {{p|Garden}}. Not the mythic stem
+Not the {{c|1834|Adam}} of the {{p|Garden}}. Not the mythic stem
 Of a six-thousand-year creation's madam
-And master. But {{c|Adam}} as the living emblem
+And master. But {{c|1834|Adam}} as the living emblem
 
 Of what the genealogical math compels:
 That somewhere in the deep past, all men living
@@ -74,7 +74,7 @@ In the same dirt as the forgotten. The why
 Is nothing but the arithmetic's reply
 To the question: which one branch survived the prune.
 
-                                                    {{c|Adam}}.
+                                                    {{c|1834|Adam}}.
 
 The man, one man, under an {{p|African}} moon,
 Two hundred thousand years ago, or near,
@@ -112,11 +112,11 @@ And archetype of all of us, the swift
 Forgettable and unremarkable, the bare
 And quiet man—he was the {{p|Y}}'s first lift.
 
-                                    {{c|Haplogroup A}}.
+                                    {{c|1835|Haplogroup A}}.
 
 The tree's first trunk. The root from which the branches,
 In the long time that was to come, would climb.
-{{c|A}} stays in {{p|Africa}}. The lineage launches
+{{c|1836|A}} stays in {{p|Africa}}. The lineage launches
 Itself elsewhere only later. For the time
 
 Of this chapter, there is only the trunk,
@@ -124,9 +124,9 @@ Only the deep {{p|African}} line, only the greater
 Silence before the branching, the still-sunk
 And rooted and staying lineage of the later
 
-Chapters' unmoving precondition. {{c|A}}
-Is carried, to this day, by the {{c|San}} of the {{p|Kalahari}},
-By the {{c|Mbuti}} and the forest peoples, the way
+Chapters' unmoving precondition. {{c|1836|A}}
+Is carried, to this day, by the {{c|1837|San}} of the {{p|Kalahari}},
+By the {{c|1838|Mbuti}} and the forest peoples, the way
 Of the oldest and deepest line, whose sari
 
 Is the red earth, whose language is the click,
@@ -142,14 +142,14 @@ Cut by departure, the line that remained asleep
 To the centuries of migration, the quiet
 And un-diasporic and deeply rooted men
 Whose blood runs along the same line, without riot,
-From {{c|Adam}}'s day to now. They are the when
+From {{c|1834|Adam}}'s day to now. They are the when
 
 And the where of the unmoved ancestry.
 
-                                    And there is {{c|A00}}.
+                                    And there is {{c|1839|A00}}.
 
 The deepest root. The branch that dropped below
-The rest of {{c|A}}, the singular anomaly
+The rest of {{c|1836|A}}, the singular anomaly
 Discovered when a researcher, startled, slow
 To accept the reading, found in the tree
 
@@ -163,8 +163,8 @@ Ships' cargo—a branch that split before
 Anatomically modern humans gave
 Rise to the rest. What it encodes, what it bore,
 
-Is the oldest branch. {{c|A00}} predates
-The {{c|Homo sapiens}} origin, and it stands
+Is the oldest branch. {{c|1839|A00}} predates
+The {{c|1840|Homo sapiens}} origin, and it stands
 As the trace of interbreeding with mates
 Of an archaic kind, whose patient hands
 
@@ -174,12 +174,12 @@ No one was keeping score, where the low hum
 Of a very ancient evening met the air
 
 Of the very new, and they were not so different
-That nothing passed between. The {{c|Perry}} case—
+That nothing passed between. The {{c|1841|Perry}} case—
 A name we will return to, as the pent
 And patient subterranean trace
 
 Shows itself again in later chapters. For now,
-Let {{c|A00}} sit quietly at the tree's deepest notch,
+Let {{c|1839|A00}} sit quietly at the tree's deepest notch,
 An intimation that the tree's slow plow
 May run into soil still older, that the watch
 
@@ -191,7 +191,7 @@ Us into history, had already sat
 At the table with older guests.
 
                                   But for now,
-{{c|Adam}}.
+{{c|1834|Adam}}.
 
 The root. All men descend from him.
 All the sons of all the sons somehow
@@ -207,14 +207,14 @@ Forth of the tree into the world's four quarters.
 And it is to the first splits, to the slowing
 And the quickening of the branching waters,
 
-That we turn next: to {{c|Cain}}, to {{c|Abel}}, to {{c|Seth}}—
+That we turn next: to {{c|976|Cain}}, to {{c|977|Abel}}, to {{c|308|Seth}}—
 The first three stories the genealogy tells,
 The first three names the patriline's deep breath
 Pronounces, the first three rung and bells
 
 Of the long descent.
 
-                    But honor {{c|Adam}} first.
+                    But honor {{c|1834|Adam}} first.
 
 The one who made no monument. The any
 And every man whose blood and bloodless burst
@@ -238,7 +238,7 @@ Through ten thousand nights and ten thousand tides
 Of generation, to the men alive
 Tonight, whose own sons, tomorrow, will bear him still.
 
-{{c|Adam}}.
+{{c|1834|Adam}}.
 
 The common man who made the tree thrive
 Not by any greatness, but by the will
@@ -271,8 +271,8 @@ Is here. The trunk is here. The bifurcations
 Have not yet happened. The branches do not shoot
 
 Out yet into the branching of the world.
-There is only {{c|Adam}}, and the patient {{c|A}},
-And the whispering {{c|A00}}, and the curled
+There is only {{c|1834|Adam}}, and the patient {{c|1836|A}},
+And the whispering {{c|1839|A00}}, and the curled
 And unopened bud of the tree's {{p|African}} day.
 
 Honor him.

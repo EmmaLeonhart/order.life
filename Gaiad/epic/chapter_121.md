@@ -1,12 +1,12 @@
 # Chapter 121: The Artiodactyls
 
-Now hear of {{c|Artiodactylos}}—the even-toed,
+Now hear of {{c|1797|Artiodactylos}}—the even-toed,
 The hoofed ones who inherited the grass.
 
 For in the {{x|Miocene}} the world bestowed
 A gift that changed the mammals' looking-glass:
 
-The grasses spread—{{c|Gramineos}}, the humble
+The grasses spread—{{c|1798|Gramineos}}, the humble
 And the revolutionary, the plant
 That thrived on being eaten, whose tumble
 Under tooth and hoof was not the recant
@@ -34,7 +34,7 @@ And exposed prey animal, and the sound
 
 Of approaching death carries for miles.
 
-{{c|Artiodactylos}} answered with the hoof—
+{{c|1797|Artiodactylos}} answered with the hoof—
 Two toes, even, balanced on the tiles
 Of the hard ground—and the proof
 
@@ -76,7 +76,7 @@ Of rumen fluid, a civilian
 
 Army of digestive allies.
 
-{{c|Cervidos}}—the deer—grew antlers,
+{{c|1799|Cervidos}}—the deer—grew antlers,
 The only organ in the mammal that flies
 The flag of annual renewal: the chancers
 
@@ -93,7 +93,7 @@ And spectacular issue
 Of testosterone and calcium and the need
 To impress the female eye.
 
-And {{c|Bovidos}}—the cattle, the sheep, the breed
+And {{c|1800|Bovidos}}—the cattle, the sheep, the breed
 Of the permanent horn that does not die
 
 And regrow but persists, the keratin sheath
@@ -114,7 +114,7 @@ The bovid's hoof, the bovid's deep
 And ruminating presence.
 
                           Honor the grazers—
-{{c|Artiodactylos}} and his children, who turned
+{{c|1797|Artiodactylos}} and his children, who turned
 The inedible grass into the praisers
 Of the {{x|Miocene}}'s open world, and earned
 

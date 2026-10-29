@@ -1,16 +1,16 @@
 # Chapter 32: Pannotia Fragments
 
 In the age of patriarchs three,
-{{c|Dutrus}}, {{c|Ectus}}, {{c|Spiralius}} free,
+{{c|611|Dutrus}}, {{c|618|Ectus}}, {{c|619|Spiralius}} free,
 Among these lords of ancient might,
-{{c|Ectus}} was the fearsome sight.
+{{c|618|Ectus}} was the fearsome sight.
 
 With mouth agape and teeth so sharp,
 He played destruction's harp.
 Through enemies he ripped and tore,
 Like none had done before.
 
-The sons of {{c|Isomeres}} fair
+The sons of {{c|630|Isomeres}} fair
 And sponges everywhere
 Fell victim to his raiding spree
 Across the ancient sea.
@@ -22,7 +22,7 @@ In rhythm and in rhyme.
 
 His cilia he cast away
 For a more effective way.
-{{c|Amoebae}} became his sperm,
+{{c|631|Amoebae}} became his sperm,
 A change both strange and firm.
 
 His coelom he stripped down bare,
@@ -30,7 +30,7 @@ Removed what wasn't there
 For function true and speed.
 He kept only what he'd need.
 
-{{c|Unnecessary}} scaffolding
+{{c|632|Unnecessary}} scaffolding
 He cast off like a ring.
 His organs floated free inside
 His pseudocoelom wide.
@@ -42,7 +42,7 @@ Until his foes would end.
 
 The first predator was he
 Upon the ancient sea.
-The sons of {{c|Dutrus}} and {{c|Spiralius}}
+The sons of {{c|611|Dutrus}} and {{c|619|Spiralius}}
 Fell to his might so glorious.
 
 In viciousness he bore a horde
@@ -50,34 +50,34 @@ Of worms who served their lord.
 They conquered earth from shore to shore
 And always wanted more.
 
-Through earth great {{c|Ectus}} ripped
+Through earth great {{c|618|Ectus}} ripped
 While soil from him slipped.
-{{c|Destruction}} was his name
+{{c|633|Destruction}} was his name
 And carnage was his game.
 
-From {{c|Ectus}} came two sons of might:
-Bold {{c|Ishmael}}, ready to fight,
-And clever {{c|Isaac}}, young and wise,
+From {{c|618|Ectus}} came two sons of might:
+Bold {{c|634|Ishmael}}, ready to fight,
+And clever {{c|635|Isaac}}, young and wise,
 Who sought innovation's prize.
 
-Now {{c|Ishmael}} held fast and true
+Now {{c|634|Ishmael}} held fast and true
 To all his father knew.
 Tradition was his guiding star
 Through peace and times of war.
 
-But {{c|Isaac}} chose a different way,
-{{c|Innovation}}'s display.
+But {{c|635|Isaac}} chose a different way,
+{{c|629|Innovation}}'s display.
 He'd build upon his father's art
 But with a newer heart.
 
-From {{c|Ishmael}}'s faithful line
-Came {{c|Priapus}}, strong and fine.
-{{c|Patriarch}} of the {{c|Priapulids}},
+From {{c|634|Ishmael}}'s faithful line
+Came {{c|636|Priapus}}, strong and fine.
+{{c|637|Patriarch}} of the {{c|638|Priapulids}},
 Who live where darkness hides.
 
 Deep in the ocean's depths they dwell
 In places none can tell.
-Like ancient {{c|Ediacaran}} lands
+Like ancient {{c|639|Ediacaran}} lands
 Of hydrogen sulfide strands.
 
 Without oxygen they thrive
@@ -85,25 +85,25 @@ And keep their line alive.
 In waters dark and deep they stay
 Until the judgment day.
 
-{{c|Draco}}, {{c|Priapus}}' brother true,
+{{c|640|Draco}}, {{c|636|Priapus}}' brother true,
 Became patriarch too.
 The mud dragons, horrific, wild,
 Each nature's problem child.
 
 Through muds they make their way
 Both night and day.
-{{c|Monsters}} in the deep they are
+{{c|641|Monsters}} in the deep they are
 Beneath each shining star.
 
-From {{c|Isaac}} came two sons of fame:
-{{c|Nematus}} was his name,
-And {{c|Rhineheart}}, bold and strong,
+From {{c|635|Isaac}} came two sons of fame:
+{{c|642|Nematus}} was his name,
+And {{c|643|Rhineheart}}, bold and strong,
 Would live his whole life long.
 
-{{c|Nematus}} was quick and spry,
+{{c|642|Nematus}} was quick and spry,
 A nomad 'neath the sky.
 He bore two sons to carry on:
-{{c|Nematus}} II and {{c|Gordy}}'s song.
+{{c|642|Nematus}} II and {{c|644|Gordy}}'s song.
 
 Both sons became prodigal,
 Their ways not traditional.
@@ -112,7 +112,7 @@ And caused their father strife.
 
 But in his aging years,
 Through sorrows and through tears,
-{{c|Nematus}} left that way behind
+{{c|642|Nematus}} left that way behind
 And peace within him did find.
 
 He became the ancestor great
@@ -125,24 +125,24 @@ Of worm community.
 From simple to complex they grew
 In everything they'd do.
 
-But {{c|Gordy}} chose the parasite way
+But {{c|644|Gordy}} chose the parasite way
 And never did stray
 From living in his brother's flesh,
 His host's blood, warm and fresh.
 
-The {{c|Gordian}} worms are his line,
-{{c|Horrific}} by design.
+The {{c|645|Gordian}} worms are his line,
+{{c|646|Horrific}} by design.
 They live within their victims' hearts
 And tear their lives apart.
 
-From {{c|Rhineheart}} came two more:
-{{c|Lobopus}} to explore
-And brave {{c|Loricus}}, armored well
+From {{c|643|Rhineheart}} came two more:
+{{c|647|Lobopus}} to explore
+And brave {{c|406|Loricus}}, armored well
 With stories he would tell.
 
-{{c|Loricus}} built armor thick
+{{c|406|Loricus}} built armor thick
 To protect from every trick.
-He married {{c|Siri}}, maiden fair,
+He married {{c|648|Siri}}, maiden fair,
 And lived beyond compare.
 
 His sons live in the depths below
@@ -155,12 +155,12 @@ We found them in the sea.
 Alive and well they dwelt
 Where pressure could be felt.
 
-The {{c|Loricifer}}'s tale
+The {{c|649|Loricifer}}'s tale
 Would never fail.
 Living fossils in the deep
 Their ancient vigil keep.
 
-These descendants of great {{c|Ectus}}
+These descendants of great {{c|618|Ectus}}
 Show what can protect us:
 Some armor, some speed,
 Some parasitic greed.
@@ -177,7 +177,7 @@ From dusk until the dawn.
 
 In every parasite
 That causes fear and fright,
-{{c|Ectus}}' spirit lives to tell
+{{c|618|Ectus}}' spirit lives to tell
 His predatory spell.
 
 From mud dragon's lair
@@ -190,8 +190,8 @@ Left its lasting marks
 On all the world we see
 Through all eternity.
 
-But {{c|Ectus}}, most of all,
-{{c|Heeded}} evolution's call
+But {{c|618|Ectus}}, most of all,
+{{c|650|Heeded}} evolution's call
 To be the hunter fierce and true
 In all that he would do.
 
@@ -200,17 +200,17 @@ Became nature's law:
 That predator and prey must dance
 In life's great circumstance.
 
-So honor fierce {{c|Ectus}},
+So honor fierce {{c|618|Ectus}},
 Who was so ravenous.
 His hunger drove the change
 Through evolution's range.
 
 Without his predator's art
-{{c|Life}} could not start
+{{c|434|Life}} could not start
 The arms race that would lead
 To every living creed.
 
 In every creature's fight
 To live another night,
-{{c|Ectus}}' spirit burns bright
+{{c|618|Ectus}}' spirit burns bright
 Through all its might.

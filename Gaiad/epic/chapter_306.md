@@ -1,28 +1,28 @@
 # Chapter 306: Who Names the Good
 
 In July of 1887, at {{p|Sils Maria}}, in the {{p|Upper Engadine}},
-{{c|Friedrich Nietzsche}} wrote a polemic, and dated the preface there;
+{{c|4264|Friedrich Nietzsche}} wrote a polemic, and dated the preface there;
 Between the tenth and the thirtieth, he said, the thing was done, and seen
 Through to the press. On the seventeenth the manuscript went off with care
 
-To {{p|Leipzig}}, to {{c|Constantin Georg Naumann}}, who the year before had printed, at the author's cost,
+To {{p|Leipzig}}, to {{c|4265|Constantin Georg Naumann}}, who the year before had printed, at the author's cost,
 *{{x|Beyond Good and Evil}}*. Print this one the same, he asked: the same type, the same paper and page,
 So the new book would stand as the old one's continuation; and, lest the point be lost,
 The back of the title says it: added, to supplement and clarify. Six hundred copies. The stage
 
-Of the proofs was {{p|Venice}}, with {{c|Heinrich Köselitz}}; and he was in {{p|Nice}} when the first came,
+Of the proofs was {{p|Venice}}, with {{c|4266|Heinrich Köselitz}}; and he was in {{p|Nice}} when the first came,
 In the first half of November: three essays and a preface. The preface opens on a confession:
 We are unknown to ourselves, we knowers. And the question under it is the same
 As this calendar's, in another mouth: under what conditions, in what succession,
 
 Did we invent good and evil, and what are they worth? He answered a friend as well as a school:
-{{c|Paul Rée}} had derived the moral feelings from usefulness, the good as what helped the one who received;
-{{c|Nietzsche}} wanted a different history, and he wanted it to cut. The first essay is the tool:
+{{c|4267|Paul Rée}} had derived the moral feelings from usefulness, the good as what helped the one who received;
+{{c|2185|Nietzsche}} wanted a different history, and he wanted it to cut. The first essay is the tool:
 Two namings side by side. Good and bad: the nobles, he says, believed
 
 Themselves the good, and named themselves so, and named the others plain, low, bad.
 Good and evil is a second naming, where the powerful are evil and the powerless good;
-He calls it a revolt of slaves, and names the {{c|Jews}} as those who had
+He calls it a revolt of slaves, and names the {{c|2500|Jews}} as those who had
 Begun it: his sentence, not a finding; a people put where a history should.
 
 He offers histories of words along the way: one makes the {{x|Latin}} for bad mean dark;{{fn|That etymology, of Latin malus from a Greek word for black, is not accepted.}}

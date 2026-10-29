@@ -5,7 +5,7 @@ A room of tubes was put to work.
 The room had been built for the path of a shell.
 The work of that December was a study brought from {{p|Los Alamos}},
 Of a further weapon, which had not been made.
-{{c|John von Neumann}} brought the study.
+{{c|4378|John von Neumann}} brought the study.
 The cities of August were already behind the calendar.
 Do not make the room into the bomb.
 The bomb had already been a city.
@@ -14,8 +14,8 @@ The contract was a table of firing.
 
 The contract was signed on the fifth of June, 1943.
 The {{x|Army}}'s laboratory at {{p|Aberdeen}} wanted the tables.
-{{c|Herman Goldstine}} brought the money and watched the work.
-{{c|John Mauchly}} and {{c|J. Presper Eckert}} designed the machine.
+{{c|4379|Herman Goldstine}} brought the money and watched the work.
+{{c|4380|John Mauchly}} and {{c|4381|J. Presper Eckert}} designed the machine.
 They called the work {{x|Project PX}}.
 A person who calculated for a living was called a computer.
 The machine took the name of that work.
@@ -36,22 +36,22 @@ This room is one such means.
 It is not that paper.
 
 Six of the computers were set to the machine.
-{{c|Kay McNulty}}.
-{{c|Jean Jennings}}.
-{{c|Betty Snyder}}.
-{{c|Marlyn Wescoff}}.
-{{c|Frances Bilas}}.
-{{c|Ruth Lichterman}}.
-{{c|Goldstine}} called them operators.
+{{c|4382|Kay McNulty}}.
+{{c|4383|Jean Jennings}}.
+{{c|4384|Betty Snyder}}.
+{{c|4385|Marlyn Wescoff}}.
+{{c|4386|Frances Bilas}}.
+{{c|4387|Ruth Lichterman}}.
+{{c|4388|Goldstine}} called them operators.
 The designation given the women was subprofessional.
 The men with the same mathematics were called professionals.
 
 On the evening of the fourteenth of February, 1946,
 They showed the machine.
-{{c|Betty Snyder}} and {{c|Jean Jennings}} had set the demonstration.
+{{c|4384|Betty Snyder}} and {{c|4383|Jean Jennings}} had set the demonstration.
 It was the path of a shell.
 A person at a desk would have taken weeks.
-{{c|Herman Goldstine}} and {{c|Adele Goldstine}} were credited for it.
+{{c|4379|Herman Goldstine}} and {{c|4389|Adele Goldstine}} were credited for it.
 The next day the machine was dedicated.
 The dinner did not invite the six.
 The press called the room a giant brain.
@@ -60,12 +60,12 @@ Tubes failed.
 The room stopped until the failed one was found.
 
 Do not call it the first.
-In {{p|England}} {{c|Tommy Flowers}} had already set a machine of tubes
+In {{p|England}} {{c|4390|Tommy Flowers}} had already set a machine of tubes
 To one purpose, and the purpose was kept secret.
-In {{p|Berlin}}, {{c|Konrad Zuse}} had already run a sequence
+In {{p|Berlin}}, {{c|4391|Konrad Zuse}} had already run a sequence
 On a machine of relays.
 The bombing destroyed that machine in 1943.
-In {{p|Ames}}, {{c|John Atanasoff}} and {{c|Clifford Berry}}
+In {{p|Ames}}, {{c|4392|John Atanasoff}} and {{c|4393|Clifford Berry}}
 Had started a machine of tubes.
 The work was stopped in 1942.
 This was the one they showed.
@@ -78,11 +78,11 @@ The move did not change the kind of work.
 A table for a gun is a table for a gun.
 
 On the sixteenth of December, 1947, at {{p|Murray Hill}},
-{{c|John Bardeen}} and {{c|Walter Brattain}} made a small thing work.
+{{c|4394|John Bardeen}} and {{c|4395|Walter Brattain}} made a small thing work.
 Two gold points touched a slab of germanium.
 A small change at one point steered a larger current at the other.
 They had not yet named it.
-{{c|William Shockley}} was the head of their group.
+{{c|4396|William Shockley}} was the head of their group.
 He was not the hand on the point that day.
 On the twenty-third they showed it to the laboratory.
 He called the demonstration a magnificent {{x|Christmas}} present.
@@ -91,7 +91,7 @@ A layer between two layers, which could be made to a pattern.
 That device was not the object in the December room.
 
 Before the announcement, the laboratory chose a name.
-{{c|John Pierce}} offered the word.
+{{c|4397|John Pierce}} offered the word.
 They called it a transistor.
 On the thirtieth of June, 1948, in {{p|New York}}, they told the press.
 The device of that December was delicate.

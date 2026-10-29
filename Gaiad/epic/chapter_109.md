@@ -76,14 +76,14 @@ Crossing the {{x|Cretaceous}} sky in the last
 Clear night—and not a single dinosaur mourned of
 The future that was vanishing so fast.
 
-{{c|Tyrannos}} hunted in the evening's last light.
-{{c|Ceratops}} grazed beside the river's bend.
-{{c|Hadros}} called across the coming night.
-{{c|Pteros}}' last azhdarchid rode a thermal's end.
+{{c|1761|Tyrannos}} hunted in the evening's last light.
+{{c|1762|Ceratops}} grazed beside the river's bend.
+{{c|1766|Hadros}} called across the coming night.
+{{c|1746|Pteros}}' last azhdarchid rode a thermal's end.
 
-{{c|Plesios}} dove beneath the continental shelf.
-{{c|Mosas}} hunted in the warm and shallow sea.
-And {{c|Mammos}} in his burrow kept himself
+{{c|1742|Plesios}} dove beneath the continental shelf.
+{{c|1760|Mosas}} hunted in the warm and shallow sea.
+And {{c|1743|Mammos}} in his burrow kept himself
 Alive through another night—the key
 
 To everything that would come after,

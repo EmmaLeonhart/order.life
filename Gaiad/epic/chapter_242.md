@@ -3,12 +3,12 @@
 Before the ship—the plague.
 
                               In sixteen-sixteen,
-Three years before the {{c|Pilgrims}} ever dreamed
+Three years before the {{c|3545|Pilgrims}} ever dreamed
 Of {{p|Plymouth}}'s rock, the unseen
-And terrible {{c|Leptospira}} streamed
+And terrible {{c|3546|Leptospira}} streamed
 
 Through the coastal villages of {{p|Patuxet}}
-And {{p|Namasket}} and the {{c|Wampanoag}} shore—
+And {{p|Namasket}} and the {{c|3547|Wampanoag}} shore—
 And when it passed, the silhouette
 Of a civilization was no more:
 
@@ -24,19 +24,19 @@ Against the morning sky—the stroke
 Of the epidemic's invisible blows
 
 Had done what no enemy had done
-In a thousand years of {{c|Wampanoag}} strength:
+In a thousand years of {{c|3547|Wampanoag}} strength:
 Emptied the coast, and one by one
 The villages collapsed along the length
 
-Of what the {{c|English}} would call {{p|New England}}.
+Of what the {{c|3244|English}} would call {{p|New England}}.
 
-And {{c|Massasoit}}—sachem of the {{c|Wampanoag}},
-{{c|Ousamequin}}, the {{c|Yellow Feather}}, whose hand
+And {{c|3548|Massasoit}}—sachem of the {{c|3547|Wampanoag}},
+{{c|3549|Ousamequin}}, the {{c|3550|Yellow Feather}}, whose hand
 Still held the remnant of his people's league—
 
 Looked at the devastation and the math:
 His people numbered perhaps a thousand now,
-And the {{c|Narragansett}} to the south, whose path
+And the {{c|3551|Narragansett}} to the south, whose path
 The plague had spared, would soon allow
 
 Their ancient rivalry its final word
@@ -50,24 +50,24 @@ Shivering on the {{p|Cape Cod}} shore in the blue
 And bitter December, and they fared
 
 So badly that by spring the living
-Were fewer than the dead—and {{c|Massasoit}}
+Were fewer than the dead—and {{c|3548|Massasoit}}
 Saw not a threat but the giving
 Of an opportunity, a counterweight
 
-Against the {{c|Narragansett}} threat.
+Against the {{c|3551|Narragansett}} threat.
 
-And {{c|Tisquantum}}—{{c|Squanto}}—the one
+And {{c|3552|Tisquantum}}—{{c|3553|Squanto}}—the one
 Survivor of {{p|Patuxet}}, the man whose debt
 To the world was the strangest anyone
 
-Had ever owed: kidnapped by the {{c|English}},
-Sold to {{c|Spanish}} slavers, escaped
+Had ever owed: kidnapped by the {{c|3244|English}},
+Sold to {{c|3516|Spanish}} slavers, escaped
 Through {{p|London}} and returned to find the anguish
 Of a village whose every occupant had draped
 
 The bones upon the beach—his people gone,
 Every one of them, and he the sole
-Remainder—{{c|Tisquantum}} walked upon
+Remainder—{{c|3552|Tisquantum}} walked upon
 The emptied ground where every soul
 
 He'd known had perished, and he chose
@@ -77,38 +77,38 @@ For fertilizer, which roots to give
 
 The cornfield strength, which berries cure
 The scurvy and which bark reduces fever—
-Not out of love for the {{c|English}}, but the pure
+Not out of love for the {{c|3244|English}}, but the pure
 And calculated pragmatism of the believer
 
 In survival: his people were gone,
-And the {{c|Pilgrims}} were the only hand
+And the {{c|3545|Pilgrims}} were the only hand
 That might remember {{p|Patuxet}}'s dawn—
 The only ones who'd work this land.
 
 The treaty of sixteen-twenty-one—
-{{c|Massasoit}} and Governor {{c|Carver}} swore:
+{{c|3548|Massasoit}} and Governor {{c|3554|Carver}} swore:
 Neither shall harm the other's son,
 And if attacked, each shall restore
 
 The other's peace with allied arms—
 A mutual defense against the world,
-And the {{c|Wampanoag}} sachem's charms
+And the {{c|3547|Wampanoag}} sachem's charms
 Of diplomacy were unfurled
 
 With the sophistication of a statesman
 Who understood exactly what he held:
-The {{c|English}} needed him—the placement
+The {{c|3244|English}} needed him—the placement
 Of this fragile colony was spelled
 
-Upon the {{c|Wampanoag}}'s sufferance.
+Upon the {{c|3547|Wampanoag}}'s sufferance.
 
-The autumn feast—what the {{c|English}} called
+The autumn feast—what the {{c|3244|English}} called
 Their "thanksgiving"—was no innocence
 Of friendship freely given, no enthralled
 
 And childlike sharing, but the formal
 Diplomatic meal between two nations:
-{{c|Massasoit}} brought ninety warriors, the normal
+{{c|3548|Massasoit}} brought ninety warriors, the normal
 Protocol of the political equations—
 
 Five deer as tribute, and the three-day feast
@@ -123,41 +123,41 @@ Survival hung upon whether
 
 The balance held.
 
-                    And it held—for {{c|Massasoit}}'s
+                    And it held—for {{c|3548|Massasoit}}'s
 Lifetime. Forty years of careful diplomacy,
 Of gifts exchanged, of the exploits
 Of the sachem's patient bureaucracy
 
-That kept the {{c|English}} in their place
-While the {{c|Wampanoag}} rebuilt.
+That kept the {{c|3244|English}} in their place
+While the {{c|3547|Wampanoag}} rebuilt.
 
 But the math was changing. Every face
 That arrived upon the ships was guilt-
 
 Less in its hunger for the land—
-More {{c|English}}, always more, and each new town
+More {{c|3244|English}}, always more, and each new town
 Advanced the line, and the demand
 For acreage wore the patience down:
 
 The cattle trampled the unfenced corn,
-The {{c|English}} law replaced the sachem's court,
+The {{c|3244|English}} law replaced the sachem's court,
 The children of the alliance, born
 Into the widening gap, were taught
 
 That the treaty was a gift, not a bargain—
-That the {{c|Indians}} were the guests, not the hosts—
+That the {{c|3108|Indians}} were the guests, not the hosts—
 And the seeds of the betrayal's margin
 Were planted in the ground where the ghosts
 
 Of {{p|Patuxet}}'s dead still whispered to the corn.
 
-Honor {{c|Massasoit}}—the {{c|Yellow Feather}}
+Honor {{c|3548|Massasoit}}—the {{c|3550|Yellow Feather}}
 Who chose the stranger over the scorn
 Of isolation, who held together
 
 A shattered people with the thread
 Of the diplomatic art—who knew
-The {{c|English}} from the first, and instead
+The {{c|3244|English}} from the first, and instead
 Of the war he might have won when they were few,
 
 Chose the alliance that preserved his nation

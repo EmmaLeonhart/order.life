@@ -38,7 +38,7 @@ But from the rain itself, the acid's ease
 Of stripping chlorophyll from the entire
 
 Canopy—the gymnosperm forests
-That {{c|Conifera}} had built on every ridge
+That {{c|1702|Conifera}} had built on every ridge
 And hillside went brown first,
 Then gray, then fell—the bridge
 
@@ -96,12 +96,12 @@ Of every sea it swam below.
 
 On land: the acid rain, the heat,
 The collapse of the food web's base—
-{{c|Dicyno}}'s herds could find no meat
+{{c|1723|Dicyno}}'s herds could find no meat
 Of plant to eat, and so the race
 
 To starvation ran from herbivore
-To carnivore—{{c|Gorgo}} starved
-When {{c|Dicyno}} starved—the floor
+To carnivore—{{c|1722|Gorgo}} starved
+When {{c|1723|Dicyno}} starved—the floor
 Of the food pyramid was carved
 
 Away, and everything above it fell.

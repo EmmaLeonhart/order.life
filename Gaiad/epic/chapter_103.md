@@ -4,7 +4,7 @@ Then the world changed color.
 
                                 For a hundred million years
 The green had been gymnosperm—the dark and heavy
-Green of {{c|Conifera}}'s needles, the austere
+Green of {{c|1702|Conifera}}'s needles, the austere
 And wind-pollinated world where every levy
 
 Of pollen flew in clouds of golden dust
@@ -25,7 +25,7 @@ And cycads, something new appeared: the rarely
 Beautiful, the quietly transformative—the turns
 
 Of evolution that change everything
-Without the drama of extinction—{{c|Angios}},
+Without the drama of extinction—{{c|1759|Angios}},
 The flowering plants, who offered something
 That the gymnosperms had never thought to pose:
 
@@ -51,7 +51,7 @@ Of a little nectar was repaid a thousand-fold
 By the efficiency of what was never lost
 To the wind's indifferent, pollen-scattering hold.
 
-{{c|Angios}} was the daughter of {{c|Gymnos}}—
+{{c|1759|Angios}} was the daughter of {{c|1474|Gymnos}}—
 Descended from the seed-plant's ancient line
 But revolutionary in her cosmos
 Of innovation: the flower as the sign
@@ -76,7 +76,7 @@ And transformative innovation, a trick
 
 That rewrote every ecosystem on the earth.
 
-{{c|Neopter}}'s children—the insects—bloomed
+{{c|1598|Neopter}}'s children—the insects—bloomed
 Alongside the flowers in a co-evolved birth
 Of staggering diversity: the doomed
 
@@ -128,7 +128,7 @@ To the pollinator's eye—and that suffice
 
 To remake every landscape on the earth.
 
-Honor {{c|Angios}}—the flowering one,
+Honor {{c|1759|Angios}}—the flowering one,
 Who changed the color of the planet's girth
 And made the partnership beneath the sun
 
@@ -139,5 +139,5 @@ Of which we still consume in every act
 
 Of eating, smelling, seeing—for the flower
 Is the source of nearly everything we grow,
-And {{c|Angios}}' {{x|Cretaceous}} hour
+And {{c|1759|Angios}}' {{x|Cretaceous}} hour
 Is the hour that made the world we know.

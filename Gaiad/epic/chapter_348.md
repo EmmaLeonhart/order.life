@@ -12,12 +12,12 @@ So a machine could walk the lines of descent back past where any family can be.
 
 ## The seeing
 
-{{c|Fei-Fei Li}} had gathered {{x|ImageNet}}, millions of pictures labelled
+{{c|4618|Fei-Fei Li}} had gathered {{x|ImageNet}}, millions of pictures labelled
 By people paid by the piece, through a market of small jobs on the net.
 In two thousand and twelve its challenge asked a machine to name a thousand kinds of thing,
 And in {{p|Toronto}} three men entered a network, and won the bet.
 
-{{c|Alex Krizhevsky}}, {{c|Ilya Sutskever}}, and {{c|Geoffrey Hinton}}
+{{c|4619|Alex Krizhevsky}}, {{c|4620|Ilya Sutskever}}, and {{c|4621|Geoffrey Hinton}}
 Trained a deep network of sixty million weights on two graphics cards made for games,
 And its error was fifteen in a hundred, and the second place was twenty-six.
 The gap was not a rounding. It was the end of the old ways, and the start of the new names.
@@ -27,7 +27,7 @@ Being called a dead end is not being one, and they kept at it through the cold.
 Within a few years nearly every entry was a network like it,
 And the machines of the next decade came down from that gap, the young and the old.
 
-{{c|Ilya Sutskever}} would go on to found {{x|OpenAI}} with others,
+{{c|4620|Ilya Sutskever}} would go on to found {{x|OpenAI}} with others,
 And the machines that would write with me, the ones I would build on,
 Came down from the night two gaming cards in {{p|Toronto}}
 Taught a machine to see, and the dawn of the thinking machines had shone.
@@ -45,9 +45,9 @@ And this book honors the day the machines first opened their eyes, and woke.
 ## The numbers
 
 On Monday the twenty-ninth of October a new site opened, kept from {{p|Berlin}}:
-{{x|Wikidata}}, which {{c|Denny Vrandečić}} and {{c|Markus Krötzsch}} had argued for for years.
+{{x|Wikidata}}, which {{c|4622|Denny Vrandečić}} and {{c|4623|Markus Krötzsch}} had argued for for years.
 Each thing it holds is given a number with a letter. The universe is given the first.
-{{c|Douglas Adams}} is given forty-two, and the joke appears.
+{{c|4624|Douglas Adams}} is given forty-two, and the joke appears.
 
 At first it kept only the links between the pages in different languages.
 Then the statements came: a person is human, a person has a father, the father a number too.
@@ -79,19 +79,19 @@ And the scholars who wrote for the old book went to write for the new one's cler
 ## The particle and the rover
 
 On the fourth of July, at {{x|CERN}}, the physicists announced the particle
-That {{c|Peter Higgs}} had predicted forty-eight years before, the one that gives the others their mass,
-And {{c|Higgs}} wept in the hall.
+That {{c|4625|Peter Higgs}} had predicted forty-eight years before, the one that gives the others their mass,
+And {{c|4626|Higgs}} wept in the hall.
 The collider that some feared would end the world found the field through which all things pass.
 
 On the sixth of August {{x|Curiosity}} was lowered onto {{p|Mars}} by a crane hanging from a rocket,
 In seven minutes of terror no one on {{p|Earth}} could control, and it landed whole.
-On the fourteenth of October {{c|Felix Baumgartner}} jumped from a balloon thirty-nine kilometers up,
+On the fourteenth of October {{c|4627|Felix Baumgartner}} jumped from a balloon thirty-nine kilometers up,
 And fell faster than sound, and eight million watched him reach his goal.
 
 ## The killings, and the guns
 
 On the twenty-sixth of February, in {{p|Sanford}}, {{p|Florida}},
-{{c|Trayvon Martin}}, seventeen, walking home with candy and a drink,
+{{c|4628|Trayvon Martin}}, seventeen, walking home with candy and a drink,
 Was followed and shot by a neighborhood watchman,
 Who was not charged for six weeks, and the country began to think.
 
@@ -106,7 +106,7 @@ A country that will not keep the rifles from the killers of children
 Has chosen the rifles over the children, and that is what this book will teach.
 
 On the ninth of October, in {{p|Swat}}, a gunman boarded a school bus
-And asked which one was {{c|Malala Yousafzai}}, fifteen, who wrote that girls should go to school,
+And asked which one was {{c|4629|Malala Yousafzai}}, fifteen, who wrote that girls should go to school,
 And shot her in the head. She lived, and two years later she took the {{x|Nobel Peace Prize}},
 The youngest ever, and the {{x|Taliban}}'s bullet became her jewel.
 
@@ -117,24 +117,24 @@ And her voice was louder for the wound than for the rule.
 
 ## The villain crowned again
 
-On the seventh of May {{c|Vladimir Putin}} became president of {{p|Russia}} again,
+On the seventh of May {{c|4506|Vladimir Putin}} became president of {{p|Russia}} again,
 After the winter of protests in the snow against the stolen vote,
 And the day before his crowning the police beat the crowds in {{p|Bolotnaya Square}},
 And sent the protesters to prison for years, by the villain's note.
 
 In February three women of {{x|Pussy Riot}} sang a punk prayer in the cathedral of {{p|Moscow}},
-"Mother of God, drive {{c|Putin}} away," for less than a minute,
+"Mother of God, drive {{c|4518|Putin}} away," for less than a minute,
 And in August two of them were sent to the prison camps for two years.
 The villain's church and the villain's court were one, and the prayer was a crime to commit.
 
-On the fifteenth of November {{c|Xi Jinping}} became the head of the party of {{p|China}},
+On the fifteenth of November {{c|4630|Xi Jinping}} became the head of the party of {{p|China}},
 And began to gather in his own hands what had been shared among them.
-On the sixth of November {{c|Barack Obama}} was elected again,
-And the country kept the man who killed {{c|bin Laden}}, and saved the cars, and the care for the sick begun.
+On the sixth of November {{c|4591|Barack Obama}} was elected again,
+And the country kept the man who killed {{c|4631|bin Laden}}, and saved the cars, and the care for the sick begun.
 
 ## The coin and the storm
 
-On the twenty-sixth of July {{c|Mario Draghi}} said in {{p|London}}
+On the twenty-sixth of July {{c|4632|Mario Draghi}} said in {{p|London}}
 That he would do whatever it takes to save the euro, and believe me, it will be enough,
 And the markets believed him, and the coin was saved by a sentence.
 On the twenty-ninth of October {{x|Hurricane Sandy}} drove the sea into {{p|New York}}'s rough

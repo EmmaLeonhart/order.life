@@ -29,7 +29,7 @@ MAX_PER_CHAPTER = 10
 FIRST_HISTORICAL_CHAPTER = 130
 API = "https://en.wikipedia.org/w/api.php"
 UA = "order.life-further-reading/1.0 (https://order.life/; emma@topazcomputing.com)"
-TAG = re.compile(r"\{\{([cpx])\|([^}|]+)\}\}")
+TAG = re.compile(r"\{\{([cpx])\|(?:[^}|]*\|)?([^}|]+)\}\}")   # the ID form {{c|1|Name}} too
 # Names whose article match was checked and is wrong for the Gaiad's use (2026-10-15 sample).
 DENY = {"Abba", "Bears", "Brownian", "Company", "Department of Energy", "Deusu",
         # single common words whose article is the generic concept, not the thing the chapter means

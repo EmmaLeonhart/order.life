@@ -1,6 +1,6 @@
 # Chapter 177: The Punic Wars
 
-In the western {{p|Mediterranean}}, while {{c|Alexander}}'s successors were
+In the western {{p|Mediterranean}}, while {{c|1982|Alexander}}'s successors were
 Dividing up his conquests and the {{p|Han}} was unifying {{p|China}}, two
 Powers were rising that would eventually fight each other for
 Control of the {{p|Mediterranean}} world. {{p|Rome}} and {{p|Carthage}}.
@@ -8,10 +8,10 @@ Control of the {{p|Mediterranean}} world. {{p|Rome}} and {{p|Carthage}}.
                                                                       {{p|Rome}}
 Had begun as a small city-state on the {{p|Tiber River}} in central
 {{p|Italy}}. Its traditional founding date—seven-fifty-three BCE, by
-{{c|Romulus}}—is legendary, but archaeological evidence does show
+{{c|1566|Romulus}}—is legendary, but archaeological evidence does show
 
 A settlement there from the eighth century BCE. Initially ruled
-By kings (traditionally seven of them, ending with {{c|Tarquin the Proud}}),
+By kings (traditionally seven of them, ending with {{c|2453|Tarquin the Proud}}),
 {{p|Rome}} became a republic in five-oh-nine BCE when the last king was
 Overthrown. The {{p|Roman Republic}} had a distinctive constitutional
 
@@ -47,7 +47,7 @@ And into parts of {{p|Sicily}}. They had a powerful navy, a merchant
 Empire, and substantial wealth. They spoke a {{p|Semitic}} language
 
 ({{p|Punic}}, closely related to {{p|Phoenician}} and {{p|Hebrew}}), worshipped
-{{p|Semitic}} gods (including {{c|Baal Hammon}} and {{c|Tanit}}), and were
+{{p|Semitic}} gods (including {{c|2454|Baal Hammon}} and {{c|2455|Tanit}}), and were
 Regarded by the {{p|Romans}} with a mixture of admiration and suspicion.
 Their religious practices included, in their most extreme form,
 
@@ -58,7 +58,7 @@ Disputed; some scholars argue the burials are of children who
 
 Had died naturally and were dedicated to the gods, rather than
 Victims of active sacrifice. But some ancient sources describe
-Systematic sacrifice of infants to {{c|Baal Hammon}} in times of civic
+Systematic sacrifice of infants to {{c|2454|Baal Hammon}} in times of civic
 Crisis. The {{p|Romans}} regarded {{p|Carthaginian}} religion as particularly
 
 Barbaric—an attitude that would later feed into {{p|Roman}} propaganda
@@ -90,21 +90,21 @@ Financially strained, faced a further crisis when its own
 Mercenary troops rebelled; it took three years to suppress this
 {{p|Mercenary War}}. During that period, {{p|Rome}} seized {{p|Sardinia}} and
 {{p|Corsica}}—an action widely regarded as opportunistic and unfair.
-{{p|Carthaginian}} resentment festered. The general {{c|Hamilcar Barca}}—
+{{p|Carthaginian}} resentment festered. The general {{c|2456|Hamilcar Barca}}—
 
 One of {{p|Carthage}}'s most capable commanders—led the family that
-Would drive the next war. He had his young son {{c|Hannibal}} swear,
+Would drive the next war. He had his young son {{c|2457|Hannibal}} swear,
 At an altar, eternal enmity against {{p|Rome}}. That oath would shape
-The coming conflict. {{c|Hamilcar}} built up {{p|Carthaginian}} power in
+The coming conflict. {{c|2458|Hamilcar}} built up {{p|Carthaginian}} power in
 
 {{p|Iberia}}, expanding the empire westward and creating a base from
 Which to eventually renew the war. He was succeeded by his son-in-
-Law {{c|Hasdrubal}}, and then by {{c|Hannibal}} himself, who took command
+Law {{c|2459|Hasdrubal}}, and then by {{c|2457|Hannibal}} himself, who took command
 In {{p|Spain}} in two-twenty-one BCE.
 
                                        The {{p|Second Punic War}}
 (Two-eighteen to two-oh-one BCE) was perhaps the most dramatic war
-Of antiquity. {{c|Hannibal}}, anticipating that {{p|Rome}} would attack him
+Of antiquity. {{c|2457|Hannibal}}, anticipating that {{p|Rome}} would attack him
 In {{p|Spain}}, decided instead to strike first. He led an army of
 
 Perhaps fifty thousand men—including war elephants—across the
@@ -118,9 +118,9 @@ Homeland. He won three catastrophic victories in succession. At
 The {{p|Trebia River}} in two-eighteen BCE. At {{p|Lake Trasimene}} in
 
 Two-seventeen BCE (where he ambushed and destroyed an entire
-{{p|Roman}} army in a mountain pass, killing the consul {{c|Flaminius}}).
+{{p|Roman}} army in a mountain pass, killing the consul {{c|2460|Flaminius}}).
 And at {{p|Cannae}} in two-sixteen BCE—the most devastating {{p|Roman}}
-Defeat in centuries. At {{p|Cannae}}, {{c|Hannibal}} used a tactical
+Defeat in centuries. At {{p|Cannae}}, {{c|2457|Hannibal}} used a tactical
 
 Innovation now called the "{{p|double envelopment}}": allowing his
 Center to slowly yield while his flanks wheeled around behind
@@ -130,27 +130,27 @@ The advancing {{p|Romans}}, encircling them completely. The trapped
 In a single afternoon—a death toll larger than any single day's
 Combat casualties in {{p|Western}} history until the twentieth century.
 After {{p|Cannae}}, the {{p|Roman}} state faced existential crisis. Many
-Of their {{p|Italian}} allies defected to {{c|Hannibal}}. The war seemed
+Of their {{p|Italian}} allies defected to {{c|2457|Hannibal}}. The war seemed
 
 Lost. But {{p|Rome}} did not break. The {{x|Senate}}, showing the discipline
-For which it became famous, refused to negotiate with {{c|Hannibal}}.
-{{p|Rome}} would fight on. And it did. The general {{c|Quintus Fabius Maximus}}
+For which it became famous, refused to negotiate with {{c|2457|Hannibal}}.
+{{p|Rome}} would fight on. And it did. The general {{c|2461|Quintus Fabius Maximus}}
 Adopted what became known as "Fabian tactics": refusing to engage
 
-{{c|Hannibal}} directly, shadowing his army, cutting his supply lines,
-Slowly wearing him down. {{c|Hannibal}} could win battles but could
+{{c|2457|Hannibal}} directly, shadowing his army, cutting his supply lines,
+Slowly wearing him down. {{c|2457|Hannibal}} could win battles but could
 Not force {{p|Rome}} to surrender. Meanwhile, {{p|Roman}} armies operated
-Elsewhere: in {{p|Spain}}, where {{c|Publius Cornelius Scipio}} (later
+Elsewhere: in {{p|Spain}}, where {{c|2462|Publius Cornelius Scipio}} (later
 
-Called {{c|Africanus}}) defeated {{p|Carthaginian}} forces and eventually
+Called {{c|2463|Africanus}}) defeated {{p|Carthaginian}} forces and eventually
 Conquered the entire peninsula; in {{p|Sicily}}, where the {{p|Greek}} city
 Of {{p|Syracuse}} (which had defected to {{p|Carthage}}) was besieged and
 Taken (an event famous for the death of the mathematician
 
-{{c|Archimedes}}, who was killed by a {{p|Roman}} soldier during the sack
-Despite orders to spare him); in {{p|North Africa}}, where {{c|Scipio}}
+{{c|2409|Archimedes}}, who was killed by a {{p|Roman}} soldier during the sack
+Despite orders to spare him); in {{p|North Africa}}, where {{c|2464|Scipio}}
 Ultimately carried the war to {{p|Carthage}} itself. In two-oh-two BCE,
-At the {{p|Battle of Zama}}, {{c|Scipio}} defeated {{c|Hannibal}} on {{c|Hannibal}}'s
+At the {{p|Battle of Zama}}, {{c|2464|Scipio}} defeated {{c|2457|Hannibal}} on {{c|2457|Hannibal}}'s
 
 Home ground. The {{p|Second Punic War}} ended. {{p|Carthage}} was stripped
 Of its overseas territories, forbidden to maintain a navy without
@@ -160,7 +160,7 @@ Was reduced to a shadow of its former power. But it still existed.
 And for two generations, {{p|Carthage}} remained—a commercial city
 Confined to its {{p|African}} hinterland, paying its indemnity, gradually
 Recovering economically. {{p|Rome}} watched with increasing distrust.
-The old senator {{c|Cato the Elder}} ended every speech in the {{x|Senate}},
+The old senator {{c|2465|Cato the Elder}} ended every speech in the {{x|Senate}},
 
 Regardless of its topic, with the phrase "{{p|Carthago delenda est}}"—
 "{{p|Carthage}} must be destroyed." In the mid-second century BCE,
@@ -193,12 +193,12 @@ Wealth to {{p|Rome}}. The acquisition of {{p|Sicily}} and eventually {{p|Africa}
 Gave it a grain supply that would feed {{p|Rome}}'s growing urban
 Population. The wars also concentrated power in the hands of
 
-Successful generals like {{c|Scipio Africanus}}, beginning a pattern
+Successful generals like {{c|2466|Scipio Africanus}}, beginning a pattern
 Of political-military personality that would eventually undermine
 The {{p|Republic}}. The precedent of one man holding exceptional command
 For extended periods against military threats would be invoked
 
-By {{c|Marius}}, {{c|Sulla}}, {{c|Pompey}}, and eventually {{c|Julius Caesar}}—each
+By {{c|1027|Marius}}, {{c|2467|Sulla}}, {{c|2468|Pompey}}, and eventually {{c|2469|Julius Caesar}}—each
 Drawing on the institutional flexibility that the {{p|Punic Wars}}
 Had established. The wars also militarized {{p|Roman}} society. Most
 Adult male {{p|Romans}} served for years as soldiers. Veterans returned
@@ -210,7 +210,7 @@ To work it). The resulting social displacement created a class
 
 Of landless poor who crowded into {{p|Rome}} and other cities—a
 Volatile population that would fuel political instability for
-Generations. The social reforms of the {{c|Gracchi brothers}} in the
+Generations. The social reforms of the {{c|2470|Gracchi brothers}} in the
 Late second century BCE tried to address this problem through
 
 Land redistribution; their failure and violent deaths marked the
@@ -229,19 +229,19 @@ Foundations of {{p|Roman}} imperial power were laid in the {{p|Punic Wars}}.
 Without them, there would have been no {{p|Roman Empire}}.
 
                                                                     And
-{{c|Hannibal}} himself. Defeated at {{p|Zama}}, exiled from {{p|Carthage}} for
+{{c|2457|Hannibal}} himself. Defeated at {{p|Zama}}, exiled from {{p|Carthage}} for
 Political reasons, he wandered the eastern {{p|Mediterranean}} in the
 Following years, offering his military expertise to anti-{{p|Roman}}
 
 Powers. He eventually took refuge with the {{p|Bithynian}} king
-{{c|Prusias I}}. When {{p|Roman}} diplomats demanded that {{c|Hannibal}} be
+{{c|2471|Prusias I}}. When {{p|Roman}} diplomats demanded that {{c|2457|Hannibal}} be
 Turned over to them, he took poison rather than face capture.
 He died in exile, probably in one-eighty-three BCE, at around
 
 Age sixty-three. His tactical genius is still studied in military
 Academies worldwide. His double envelopment at {{p|Cannae}} has been
 Emulated (successfully and unsuccessfully) by commanders from
-{{c|Frederick the Great}} to {{c|Robert E. Lee}} to modern military
+{{c|2472|Frederick the Great}} to {{c|2473|Robert E. Lee}} to modern military
 
 Theorists. He stands as one of the supreme commanders in history—
 A man who crossed the {{p|Alps}} with elephants, won three impossible
@@ -249,7 +249,7 @@ Victories against the greatest power of his age, and sustained
 A hopeless campaign in hostile territory for fifteen years before
 
 Finally being defeated not by battle but by the systematic attrition
-Of superior resources. The {{x|Gaiad}} honors {{c|Hannibal}}'s genius even
+Of superior resources. The {{x|Gaiad}} honors {{c|2457|Hannibal}}'s genius even
 While recognizing that his cause—the preservation of {{p|Punic}}
 Civilization against {{p|Roman}} expansion—was ultimately lost. He
 
@@ -258,13 +258,13 @@ In service of a state that could not, in the end, match the
 Manpower and institutional resilience of its enemy.
 
                                                            {{p|Punic Wars}}.
-{{p|Rome}} and {{p|Carthage}}. Three wars across a century. {{c|Hamilcar}},
-{{c|Hasdrubal}}, {{c|Hannibal}}. The {{p|Alps}} crossing. {{p|Trebia}}, {{p|Trasimene}}, {{p|Cannae}}.
+{{p|Rome}} and {{p|Carthage}}. Three wars across a century. {{c|2458|Hamilcar}},
+{{c|2459|Hasdrubal}}, {{c|2457|Hannibal}}. The {{p|Alps}} crossing. {{p|Trebia}}, {{p|Trasimene}}, {{p|Cannae}}.
 The double envelopment. {{p|Roman}} resilience under catastrophic
-Defeat. {{c|Scipio Africanus}}'s counter-invasion. The victory at {{p|Zama}}.
+Defeat. {{c|2466|Scipio Africanus}}'s counter-invasion. The victory at {{p|Zama}}.
 
 The {{p|Third Punic War}} and the destruction of {{p|Carthage}}.
-{{c|Cato}}'s "{{p|Carthago delenda est}}." The refounding of {{p|Carthage}} as
+{{c|2474|Cato}}'s "{{p|Carthago delenda est}}." The refounding of {{p|Carthage}} as
 A {{p|Roman}} colony and the absorption of {{p|North Africa}} into {{p|Roman}}
 Territory.
 

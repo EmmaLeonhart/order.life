@@ -10,7 +10,7 @@ North. {{p|Thebes}}—an obscure provincial town at the time—gradually
 Rose in the south. For over a century, {{p|Egypt}} was divided, weakened,
 And suffering from the climate shifts that had brought down so
 Many civilizations simultaneously across the {{p|Old World}}. And then,
-Around twenty-sixty BCE, {{c|Mentuhotep II}}, king of {{p|Thebes}}, defeated
+Around twenty-sixty BCE, {{c|2025|Mentuhotep II}}, king of {{p|Thebes}}, defeated
 
 The northern dynasties and reunified the country. {{p|Egypt}} was whole
 Again. The {{p|Middle Kingdom}} had begun.
@@ -32,16 +32,16 @@ But not extravagant, pious but not monumental. And in this quieter
 Mode, it produced some of the finest {{p|Egyptian}} literature ever
 Written.
 
-            The {{p|Eleventh Dynasty}}, under {{c|Mentuhotep II}} and his
+            The {{p|Eleventh Dynasty}}, under {{c|2025|Mentuhotep II}} and his
 Successors, ruled from {{p|Thebes}}. The {{p|Twelfth Dynasty}}, which
 Succeeded them around nineteen ninety BCE, moved the capital north
 
 To {{p|Itjtawy}} (near modern {{p|El-Lisht}}), strategically positioned at
 The junction between {{p|Upper}} and {{p|Lower Egypt}}. The {{p|Twelfth Dynasty}}
 Included some of the most capable pharaohs of the entire {{p|Egyptian}}
-Sequence: {{c|Amenemhat I}} (founder of the dynasty), {{c|Senusret I}},
+Sequence: {{c|2026|Amenemhat I}} (founder of the dynasty), {{c|2027|Senusret I}},
 
-{{c|Senusret III}}, and {{c|Amenemhat III}}. These kings consolidated royal
+{{c|2028|Senusret III}}, and {{c|2029|Amenemhat III}}. These kings consolidated royal
 Authority, rebuilt infrastructure, launched ambitious irrigation
 Projects (particularly the land-reclamation works in the {{p|Faiyum
 Oasis}}), expanded {{p|Egyptian}} control south into {{p|Nubia}}, and
@@ -88,7 +88,7 @@ Speeches will be produced. The tale is a meditation on rhetoric,
 On justice, and on the relationship between the weak petitioner
 And the powerful authorities. {{p|The Instruction of Amenemhat}}—a
 Political-philosophical text in which the ghost of the murdered
-{{c|Amenemhat I}} instructs his son on the treacheries of kingship
+{{c|2026|Amenemhat I}} instructs his son on the treacheries of kingship
 
 And the necessity of constant vigilance. {{p|The Instruction for
 Merikare}}—a practical handbook for young princes on good
@@ -122,22 +122,22 @@ Dynasty}} the way {{p|Renaissance Europe}} looked back at classical
 {{p|Rome}}—as the golden age that later generations tried to imitate.
 
 And religiously, the {{p|Middle Kingdom}} saw important developments.
-{{c|Osiris}}—the god of the underworld, the mummified god whose story
+{{c|1166|Osiris}}—the god of the underworld, the mummified god whose story
 Of death and resurrection had been the exclusive preserve of the
 Royal afterlife in the {{p|Old Kingdom}}—was democratized. The
 
-Possibility of eternal life through identification with {{c|Osiris}}
+Possibility of eternal life through identification with {{c|1166|Osiris}}
 Was extended, in the {{p|Middle Kingdom}}, from the pharaoh alone to
 The broader noble class, and eventually, in principle, to any
 {{p|Egyptian}} who could afford the funerary rites. Every {{p|Egyptian}}
 
-Could now become an {{c|Osiris}} at death. The {{p|Coffin Texts}}—spells
+Could now become an {{c|1166|Osiris}} at death. The {{p|Coffin Texts}}—spells
 Inscribed on the sides of wooden coffins to guide the deceased
 Through the underworld—were the {{p|Middle Kingdom}}'s expanded
 Version of the {{p|Old Kingdom}}'s royal {{p|Pyramid Texts}}. The afterlife
 
 Was being opened up. The cosmic judgment, in which the deceased's
-Heart was weighed against the feather of {{c|Ma'at}} (truth/justice),
+Heart was weighed against the feather of {{c|2030|Ma'at}} (truth/justice),
 Applied to all {{p|Egyptians}}, not just the king. A moral-religious
 Democratization that was, for the ancient world, striking.
 
@@ -154,7 +154,7 @@ Relationship with the {{p|Semitic}} peoples to the northeast intensified—
 {{p|Canaanite}} populations began migrating into the {{p|Nile Delta}} in
 Increasing numbers, settling in the eastern delta as pastoralists,
 Farmers, and merchants. These were the {{p|Asiatics}}, as the {{p|Egyptians}}
-Called them—the {{c|J}}-haplogroup {{p|Semitic}} speakers whose presence
+Called them—the {{c|1876|J}}-haplogroup {{p|Semitic}} speakers whose presence
 
 Would gradually transform the demographic balance of {{p|Lower Egypt}}.
 By the end of the {{p|Middle Kingdom}}, the eastern {{p|Nile Delta}} had a
@@ -167,7 +167,7 @@ This process was peaceful. {{p|Canaanites}} were welcomed as useful
 Subjects. {{p|Egyptian}} culture and {{p|Canaanite}} culture began the long
 
 Process of mutual influence that would shape the ancient {{p|Near
-Eastern}} world. And this is where the biblical {{c|Joseph}} story, the
+Eastern}} world. And this is where the biblical {{c|2031|Joseph}} story, the
 {{x|Gaiad}} will argue in the following chapters, is historically situated—
 During the later {{p|Middle Kingdom}} or the transition to the {{p|Second
 
@@ -188,7 +188,7 @@ Dynasty there, with its capital at {{p|Avaris}}. The {{p|Second Intermediate
 Period}} began. A second {{p|Egyptian}} collapse, three centuries after
 
 The first. This second collapse would be the context of the biblical
-{{c|Jacob}} and {{c|Joseph}} narratives, which the {{x|Gaiad}} will unpack in
+{{c|2019|Jacob}} and {{c|2031|Joseph}} narratives, which the {{x|Gaiad}} will unpack in
 The next chapter.
 
                       But the {{p|Middle Kingdom}} itself—as a phase, as
@@ -200,7 +200,7 @@ Foreign relations, and the domestic consolidation that subsequent
 It is less famous, outside of {{p|Egyptological}} circles, than the
 
 {{p|Old Kingdom}} with its pyramids or the {{p|New Kingdom}} with its
-{{c|Tutankhamun}} and {{c|Ramesses II}}. But it was the most
+{{c|2032|Tutankhamun}} and {{c|2033|Ramesses II}}. But it was the most
 Culturally accomplished phase of {{p|Egyptian}} history. The pharaohs
 Were less grandiose. The art was more refined. The literature was
 
@@ -211,8 +211,8 @@ Consolidated and strengthened. The civilization had survived its
 
 First collapse and come back stronger in certain important ways.
 
-{{p|Middle Kingdom}}. {{c|Mentuhotep II}}. The {{p|Twelfth Dynasty}}. {{p|Itjtawy}}.
-{{p|The Tale of Sinuhe}}. The democratization of {{c|Osiris}}. The opening
+{{p|Middle Kingdom}}. {{c|2025|Mentuhotep II}}. The {{p|Twelfth Dynasty}}. {{p|Itjtawy}}.
+{{p|The Tale of Sinuhe}}. The democratization of {{c|1166|Osiris}}. The opening
 To the {{p|Levant}}. The {{p|Canaanite}} presence in the delta. The classical
 
 Age of {{p|Egyptian}} civilization.

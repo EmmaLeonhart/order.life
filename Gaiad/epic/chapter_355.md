@@ -12,13 +12,13 @@ Was done again for the first time in thirty years, and I watched it from my prov
 
 ## The era and the fields
 
-On Monday the first of April, in {{p|Tokyo}}, {{c|Yoshihide Suga}} held up a board,
+On Monday the first of April, in {{p|Tokyo}}, {{c|4714|Yoshihide Suga}} held up a board,
 On which was written the name of the coming era, {{x|Reiwa}}, and the two characters were drawn from a hoard
 Of poems, the {{p|Man'yōshū}}, from the preface to the poems on the plum blossom,
 The first era name taken from a book of {{p|Japan}}, and not of {{p|China}}, and it blossomed.
 
-On the thirtieth of April {{c|Akihito}} stepped down, by a law made for him alone,
-And on the first of May {{c|Naruhito}} acceded, and the sword and the jewel were carried in boxes to the throne
+On the thirtieth of April {{c|4469|Akihito}} stepped down, by a law made for him alone,
+And on the first of May {{c|4715|Naruhito}} acceded, and the sword and the jewel were carried in boxes to the throne
 That no one in the room opened, and the unseen were there, and that was enough,
 For the regalia do not need to be seen to be the regalia, and the boxes were the proof.
 
@@ -27,7 +27,7 @@ And the reading chose two fields: the {{p|Yuki}} of the east, in {{p|Tochigi}}, 
 And the crack in the shell is older than the votes, and it chose the rice,
 And the rice was grown in the fields the shell had chosen, and it was the gods' own price.
 
-His brother, {{c|Fumihito}}, said in public that such a religious rite
+His brother, {{c|4716|Fumihito}}, said in public that such a religious rite
 Might rather be paid for from the household's own purse. The state paid, and the state was right:
 The rite of the throne is the rite of the state, and a state that pays for its gods is a state that knows its own,
 And I am for the state religion, and the state of {{p|Japan}} paid for the rice and the hall and the throne.
@@ -38,7 +38,7 @@ And what is done inside is not shown, and it is done, and after the rite the hal
 For the rite is in the doing, not the building, and the doing is the crown.
 
 The register of this book follows one line from the first emperor of the old tellings
-To the man in the hall that night, from {{c|Jimmu}} to {{c|Naruhito}}, through all the dwellings.
+To the man in the hall that night, from {{c|2708|Jimmu}} to {{c|4715|Naruhito}}, through all the dwellings.
 The line as told is not the line as proved. The rite does not ask for proof. It asks for the rice,
 And the rice was given, and the sun goddess ate, and the line is kept, and that will suffice.
 
@@ -54,7 +54,7 @@ And the writing machines had begun, and the fear was only the first doubt.
 
 In March the lab made itself a company for profit, capped, it said,
 And in July took a billion dollars from {{x|Microsoft}}, and the lab without profit had a patron instead.
-In the movement of the chapter of twenty fifteen, {{c|Sam Bankman-Fried}} of the trading firm
+In the movement of the chapter of twenty fifteen, {{c|4665|Sam Bankman-Fried}} of the trading firm
 Founded in May an exchange for the coins of the money without trust, {{x|FTX}}, and began his term,
 
 And moved it to {{p|Hong Kong}}, and later to the {{p|Bahamas}}, and was called the richest young man in the world,
@@ -78,14 +78,14 @@ Made by joining the telescopes across the earth into one the size of the earth,
 And the thing that lets no light out was seen by the light around it, at its girth.
 
 This book ends its year in the meeting of two such holes, at the heart of two galaxies,
-{{c|Aster}} and {{c|Andromeda}}, in the last chapter of this month, and the meeting is sure, by its prophecies.
+{{c|1|Aster}} and {{c|3|Andromeda}}, in the last chapter of this month, and the meeting is sure, by its prophecies.
 
 ## The killings
 
 On the fifteenth of March a man walked into two mosques in {{p|Christchurch}}, in {{p|New Zealand}},
 During the Friday prayer, and killed fifty-one people, and streamed it on the book of faces, with a camera in hand,
 And he had written a manifesto about the great replacement, the idea of the torches of twenty seventeen,
-And {{c|Jacinda Ardern}} wore a headscarf to the mourning, and would not say his name, and her country banned the rifles within a month of the scene.
+And {{c|4717|Jacinda Ardern}} wore a headscarf to the mourning, and would not say his name, and her country banned the rifles within a month of the scene.
 
 On the twenty-first of April, Easter Sunday, bombs went off in churches and hotels in {{p|Sri Lanka}}, and killed two hundred and sixty-nine,
 And on the third of August a man drove ten hours to a store in {{p|El Paso}}, to kill Mexicans, he wrote, and killed twenty-three in the line.
@@ -94,17 +94,17 @@ And on the third of August a man drove ten hours to a store in {{p|El Paso}}, to
 
 In June the people of {{p|Hong Kong}} marched against a law that would send them to the mainland's courts,
 A million, then two million, and the young fought the police in the streets for months, with umbrellas and lasers and helmets of all sorts,
-And in April the army of {{p|Sudan}} removed {{c|Omar al-Bashir}} after months of protest,
+And in April the army of {{p|Sudan}} removed {{c|4718|Omar al-Bashir}} after months of protest,
 And in June it killed the protesters at the sit-in in {{p|Khartoum}}, and the square was dispossessed.
 
 In October {{p|Chile}} rose against a rise in the fare of the metro,
-And in {{p|Bolivia}}, in November, {{c|Evo Morales}} was pushed out after a disputed vote, and the country was in sorrow.
+And in {{p|Bolivia}}, in November, {{c|4574|Evo Morales}} was pushed out after a disputed vote, and the country was in sorrow.
 
 ## The children and the fires
 
 On the twentieth of September, and in the week after, some six million people, many of them children,
 Struck for the climate in cities around the world, and on the twenty-third, at the {{x|United Nations}},
-{{c|Greta Thunberg}}, who had sailed across the ocean to be there, said to the leaders: how dare you,
+{{c|4706|Greta Thunberg}}, who had sailed across the ocean to be there, said to the leaders: how dare you,
 And in August the fires of the {{x|Amazon}} burned more than any year in a decade, and the smoke came through.
 
 In {{p|Australia}}, from the spring, the bush began to burn, and burned into the next year,
@@ -115,25 +115,25 @@ And killed a billion animals, it was said, and the sky of {{p|Sydney}} was orang
 On the tenth of March a new airliner of {{x|Boeing}}, the 737 {{x|MAX}}, crashed after leaving {{p|Addis Ababa}},
 Five months after another had fallen into the sea off {{p|Indonesia}}, for a system pushed the nose down on one sensor's word, and the pilots had not been told of the danger,
 And three hundred and forty-six died in the two, and the planes were grounded for twenty months,
-And on the sixth of July {{c|Jeffrey Epstein}}, who trafficked girls to the rich, was arrested, and on the tenth of August found dead in his cell, at once.
+And on the sixth of July {{c|4719|Jeffrey Epstein}}, who trafficked girls to the rich, was arrested, and on the tenth of August found dead in his cell, at once.
 
 On the fifth of August {{p|India}} took away the self-rule of {{p|Kashmir}} and cut its net,
 And on the eighteenth of December the house of the congress impeached the American president, for asking {{p|Ukraine}} to find dirt on his rival, and the weapons were the bet,
-And the senate acquitted him, and in July {{c|Boris Johnson}} became prime minister of {{p|Britain}},
+And the senate acquitted him, and in July {{c|4720|Boris Johnson}} became prime minister of {{p|Britain}},
 And won a great majority in December to get the leaving done, and I am against the leaving, as I have been.
 
 On the third of June the inquiry of {{p|Canada}} into its missing and murdered indigenous women and girls called it a genocide,
 And on the sixteenth of June {{p|Quebec}} forbade its teachers and police and judges to wear the signs of their faiths at work, and the faiths were denied.
-On the twenty-first of October {{c|Justin Trudeau}} was returned, with fewer seats,
+On the twenty-first of October {{c|4678|Justin Trudeau}} was returned, with fewer seats,
 After photographs of him in his youth with his face painted black were printed in the sheets.
 
-In November {{c|Lee Sedol}}, who had won one game against the machine in the chapter of twenty sixteen, retired,
+In November {{c|4682|Lee Sedol}}, who had won one game against the machine in the chapter of twenty sixteen, retired,
 Saying there was an entity that cannot be defeated, and the machine had made the master retired.
 
 ## The cough
 
 In December, in {{p|Wuhan}}, doctors saw a pneumonia they could not name, clustered around a market,
-And on the thirtieth a doctor, {{c|Li Wenliang}}, warned his classmates in a group chat, and he was the first to mark it,
+And on the thirtieth a doctor, {{c|4721|Li Wenliang}}, warned his classmates in a group chat, and he was the first to mark it,
 And on the third of January the police made him sign a paper saying he had spread rumors,
 And he died of it in February, and the rest of it is the next chapter, and the next three years of the rumors.
 

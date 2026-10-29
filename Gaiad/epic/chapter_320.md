@@ -30,7 +30,7 @@ The declaration did not begin it.
 At midnight, the night of the fourteenth of May, 1948,
 The mandate ended.
 That afternoon, at four, in the museum in {{p|Tel Aviv}},
-{{c|David Ben-Gurion}} read a scroll.
+{{c|4406|David Ben-Gurion}} read a scroll.
 It declared a {{x|Jewish}} state, to be called {{p|Israel}},
 From the moment the mandate ended that night.
 It claimed a natural and historic right,
@@ -41,7 +41,7 @@ Of social and political rights
 To all its inhabitants, irrespective of religion, race, or sex.
 It says it will safeguard the holy places of all religions.
 It says it will be faithful to the principles of the {{x|Charter}}.
-The closing words put trust in the {{c|Rock of Israel}}.
+The closing words put trust in the {{c|4407|Rock of Israel}}.
 The words can be heard as God.
 The words can be heard as the people.
 The text does not say which.

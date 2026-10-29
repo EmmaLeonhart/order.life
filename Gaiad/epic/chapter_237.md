@@ -14,7 +14,7 @@ And the will: the frozen ocean's token
 Was not a barrier but a road.
 
 From western {{p|Alaska}}'s coast, a thousand years
-Before the present day, the {{c|Thule}} strode
+Before the present day, the {{c|147|Thule}} strode
 Across the top of the world, the frontiers
 
 Of ice and wind and the perpetual night
@@ -22,7 +22,7 @@ Of {{p|Arctic}} winter holding no more fear
 For them than the savanna's noonday light
 Held for the peoples of the warmer sphere—
 
-For the {{c|Thule}} had mastered the impossible.
+For the {{c|147|Thule}} had mastered the impossible.
 
 The kayak—the skin-and-bone invention
 That made the {{p|Arctic}} sea accessible,
@@ -35,11 +35,11 @@ Upon the water, sealed at the throat
 
 With a drawstring skirt that made the man
 And the vessel one—and when the wave
-Rolled the kayak over, the {{c|Thule}} plan
+Rolled the kayak over, the {{c|147|Thule}} plan
 Was not to drown but to behave
 
 As the water wished, and roll back up—
-The {{c|Eskimo}} roll, the first and finest
+The {{c|3486|Eskimo}} roll, the first and finest
 Marriage of the body to the cup
 Of the killing sea, the divinest
 
@@ -60,7 +60,7 @@ And stable platform on which the horde
 Of family and possession rode.
 
 The dog sled—the winter road revealed
-By the partnership of {{c|Thule}} and dog,
+By the partnership of {{c|147|Thule}} and dog,
 The traces fanning out across the field
 Of sea-ice in the freezing fog,
 
@@ -74,7 +74,7 @@ Brought to its most essential test:
 Without the dog, no {{p|Arctic}} habitation
 Was possible—the dog was the expressed
 
-And living engine of the {{c|Thule}} world.
+And living engine of the {{c|147|Thule}} world.
 
 And the igloo—the snow-house, the proof
 That genius is the ordinary unfurled
@@ -104,7 +104,7 @@ And killing darkness, I will make a home.
 
 And the whale—the bowhead, the leviathan
 Of the {{p|Arctic}} seas, whose body was the tome
-Of {{c|Thule}} prosperity: a single cetacean
+Of {{c|147|Thule}} prosperity: a single cetacean
 
 Could feed a village for a season's length,
 Its blubber rendered into oil for the lamp
@@ -112,13 +112,13 @@ That burned through the polar night, the strength
 Of bone that framed the house when damp
 
 And driftwood failed, the baleen's springy plate
-That served as every tool the {{c|Thule}} lacked
+That served as every tool the {{c|147|Thule}} lacked
 In metal—the whale was the estate
 Upon which the {{p|Arctic}} civilization's pact
 
 With the frozen ocean was secured.
 
-The {{c|Thule}} hunted from the umiak's deck—
+The {{c|147|Thule}} hunted from the umiak's deck—
 Six hunters in a skin boat, the cured
 And braided sinew line, the wreck
 
@@ -135,7 +135,7 @@ And blood, succumbs, and the domain
 Of one whale's body feeds the waiting shore.
 
 And as they swept—from {{p|Alaska}} east,
-The {{c|Thule}} people opened door by door
+The {{c|147|Thule}} people opened door by door
 The {{p|Arctic}}'s frozen corridor, the feast
 
 Of new waters and new hunting grounds:
@@ -146,31 +146,31 @@ The {{p|Labrador}} coast's fog and the haze
 Of {{p|Greenland}}'s western fjords—in four
 Brief centuries they crossed the continent's crown,
 Three thousand miles of ice from shore to shore,
-And everywhere they settled, the {{c|Dorset}} went down.
+And everywhere they settled, the {{c|3487|Dorset}} went down.
 
-The {{c|Dorset}}—the people who were there before,
+The {{c|3487|Dorset}}—the people who were there before,
 Whose smaller, quieter, lonelier tradition
 Had held the {{p|Arctic}} for a thousand years or more—
-The {{c|Dorset}} had no dog, and the condition
+The {{c|3487|Dorset}} had no dog, and the condition
 
 Of their isolation was their poverty
 Of technology: no bow, no dog, no large
-And open boat—the {{c|Dorset}}'s mastery
+And open boat—the {{c|3487|Dorset}}'s mastery
 Was intimate and small, the narrow barge
 
 Of the individual hunter's skill,
-And when the {{c|Thule}} came with dogs and bows
+And when the {{c|147|Thule}} came with dogs and bows
 And the organized and collective will
-Of the whale-hunt's crew, the {{c|Dorset}} froze
+Of the whale-hunt's crew, the {{c|3487|Dorset}} froze
 
 Into the margins, into the memory
-Of the {{c|Inuit}} who call them {{c|Tunit}}—
+Of the {{c|3488|Inuit}} who call them {{c|3489|Tunit}}—
 The gentle giants of the promontory,
 The old ones who were strong but could not fit
 
 The new world's pace—and vanished from the ice.
 
-Honor the {{c|Thule}}—the last great migration,
+Honor the {{c|147|Thule}}—the last great migration,
 The final wave that paid the price
 Of the {{p|Arctic}}'s impossible invitation
 

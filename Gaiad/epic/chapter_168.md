@@ -1,13 +1,13 @@
 # Chapter 168: The Persian Empire
 
-{{c|Cyrus the Great}}. The name reverberates through the ancient world
+{{c|2273|Cyrus the Great}}. The name reverberates through the ancient world
 With a distinctive resonance. A conqueror, yes, but also—almost
 Uniquely among ancient conquerors—remembered by the conquered
-Themselves with gratitude. The {{p|Jews}} called him {{c|Yahweh}}'s anointed.
+Themselves with gratitude. The {{p|Jews}} called him {{c|2182|Yahweh}}'s anointed.
 
 The {{p|Babylonians}} welcomed him as liberator. The {{p|Greeks}}, writing
 Generations later, portrayed him as a model of just kingship
-(Even as their city-states faced {{p|Persian}} expansion). {{c|Cyrus}}'s
+(Even as their city-states faced {{p|Persian}} expansion). {{c|2180|Cyrus}}'s
 Reputation was such that even his successors' failures could not
 
 Erase it. And the empire he founded, the {{p|Achaemenid}} empire, was
@@ -20,43 +20,43 @@ Multiple histories. The {{p|Persian}} achievement was to hold all this
 Together in a functional imperial system for two hundred years.
 How did they do it? That is the subject of this chapter.
 
-{{c|Cyrus}} was born around five-ninety BCE in {{p|Anshan}}, in what is now
-Southwestern {{p|Iran}}. His father {{c|Cambyses I}} was king of the
+{{c|2180|Cyrus}} was born around five-ninety BCE in {{p|Anshan}}, in what is now
+Southwestern {{p|Iran}}. His father {{c|2279|Cambyses I}} was king of the
 {{p|Persians}}, a tributary of the {{p|Medes}}. His mother, by some accounts,
-Was the daughter of {{c|Astyages}}, king of the {{p|Medes}}—making {{c|Cyrus}}
+Was the daughter of {{c|2280|Astyages}}, king of the {{p|Medes}}—making {{c|2180|Cyrus}}
 
 A {{p|Median}} prince through his maternal line. The {{p|Persians}} and
 {{p|Medes}} were closely related {{p|Iranian}} peoples with shared language
 And culture; in the political geography of the early sixth century
-BCE, the {{p|Medes}} dominated. {{c|Cyrus}} inherited his father's throne
+BCE, the {{p|Medes}} dominated. {{c|2180|Cyrus}} inherited his father's throne
 
 Around five-fifty-nine BCE and began a remarkable career of
 Conquest. He rebelled against {{p|Median}} overlordship around five-
-Fifty-three BCE, and within a few years had defeated {{c|Astyages}}
+Fifty-three BCE, and within a few years had defeated {{c|2280|Astyages}}
 And absorbed the {{p|Median}} kingdom. He then turned westward against
 
-{{p|Lydia}}. {{c|King Croesus}} of {{p|Lydia}}—proverbial for his wealth, and the
+{{p|Lydia}}. {{c|2281|King Croesus}} of {{p|Lydia}}—proverbial for his wealth, and the
 Ruler of {{p|Anatolia}} west of the {{p|Halys River}}—had reportedly
 Consulted the {{p|Oracle of Delphi}} about whether to make war on
 {{p|Persia}}. The oracle's answer was famously ambiguous: "If you
 
-Cross the {{p|Halys}}, you will destroy a great empire." {{c|Croesus}}
-Crossed. The empire destroyed turned out to be his own. {{c|Cyrus}}
+Cross the {{p|Halys}}, you will destroy a great empire." {{c|2282|Croesus}}
+Crossed. The empire destroyed turned out to be his own. {{c|2180|Cyrus}}
 Defeated him at {{p|Thymbra}} in five-forty-seven BCE and annexed
 {{p|Lydia}}, including the {{p|Greek}}-speaking cities of the {{p|Ionian}} coast.
 
 Then he turned east and consolidated his rule over the {{p|Iranian}}
 Plateau and {{p|Central Asia}}. Then, finally, in five-thirty-nine BCE,
 He marched on {{p|Babylon}}. As noted in the previous chapter, {{p|Babylon}}
-Fell with little resistance—the unpopular {{c|Nabonidus}} was deposed,
+Fell with little resistance—the unpopular {{c|2274|Nabonidus}} was deposed,
 
-The {{p|Babylonian}} priests welcomed {{c|Cyrus}}, and the city was
-Incorporated into the {{p|Persian}} empire without destruction. {{c|Cyrus}}
+The {{p|Babylonian}} priests welcomed {{c|2180|Cyrus}}, and the city was
+Incorporated into the {{p|Persian}} empire without destruction. {{c|2180|Cyrus}}
 Then issued his famous edict permitting exiled peoples to return
 To their homelands and rebuild their temples—an edict which
 
 Benefited the {{p|Jews}} most famously but which was in fact a general
-Policy. {{c|Cyrus}} wanted his subjects to be grateful, loyal, and
+Policy. {{c|2180|Cyrus}} wanted his subjects to be grateful, loyal, and
 Stable, and he understood that religious and cultural autonomy
 Was cheaper than coercion. The {{p|Cyrus Cylinder}}, a clay cylinder
 
@@ -66,43 +66,43 @@ Human rights"—a slightly overheated description, but the cylinder
 Does record an explicit policy of religious tolerance and
 
 Restoration of displaced peoples. For its time, this was remarkable.
-{{c|Cyrus}} died in battle around five-thirty BCE, fighting against
+{{c|2180|Cyrus}} died in battle around five-thirty BCE, fighting against
 The {{p|Massagetae}} in {{p|Central Asia}}. His tomb at {{p|Pasargadae}}—a
 Simple stone structure surmounted by a gabled roof—still stands
 
 And is one of the most moving monuments of antiquity. Its
-Inscription is said to have read: "O man, I am {{c|Cyrus}} the son of
-{{c|Cambyses}}, who founded the empire of the {{p|Persians}} and was king
+Inscription is said to have read: "O man, I am {{c|2180|Cyrus}} the son of
+{{c|2283|Cambyses}}, who founded the empire of the {{p|Persians}} and was king
 Of {{p|Asia}}. Grudge me not therefore this monument." Simplicity, even
 
 Humility, inscribed on the tomb of a world conqueror.
 
                                                           His son
-{{c|Cambyses II}} continued the expansion, conquering {{p|Egypt}} in
-Five-twenty-five BCE. The last native {{p|Egyptian}} pharaoh, {{c|Psamtik III}},
+{{c|2284|Cambyses II}} continued the expansion, conquering {{p|Egypt}} in
+Five-twenty-five BCE. The last native {{p|Egyptian}} pharaoh, {{c|2285|Psamtik III}},
 
-Was defeated at {{p|Pelusium}} and then captured. {{c|Cambyses}} briefly
+Was defeated at {{p|Pelusium}} and then captured. {{c|2283|Cambyses}} briefly
 Ruled {{p|Egypt}} as pharaoh before dying under unclear circumstances
-In five-twenty-two BCE. His death triggered a crisis: {{c|Cambyses}} had
-Apparently had his own brother {{c|Bardiya}} secretly killed before the
+In five-twenty-two BCE. His death triggered a crisis: {{c|2283|Cambyses}} had
+Apparently had his own brother {{c|2286|Bardiya}} secretly killed before the
 
-{{p|Egyptian}} campaign, and an impostor claiming to be {{c|Bardiya}} seized
+{{p|Egyptian}} campaign, and an impostor claiming to be {{c|2286|Bardiya}} seized
 The throne. This impostor was overthrown by a faction of {{p|Persian}}
-Nobles led by {{c|Darius}}, a distant relative of the royal family.
-{{c|Darius}} became king and spent the next several years putting down
+Nobles led by {{c|2287|Darius}}, a distant relative of the royal family.
+{{c|2287|Darius}} became king and spent the next several years putting down
 
 Rebellions across the empire. His account of these events is
 Preserved in the {{p|Behistun Inscription}}—a massive rock relief
 Carved high on a cliff in western {{p|Iran}}, written in three
 Languages ({{p|Old Persian}}, {{p|Elamite}}, and {{p|Akkadian}}) and featuring
 
-{{c|Darius}} himself triumphing over nine defeated rebels. The
+{{c|2287|Darius}} himself triumphing over nine defeated rebels. The
 {{p|Behistun Inscription}} was what, in the nineteenth century CE,
 Allowed scholars to decipher cuneiform—because its trilingual
 Structure functioned like the {{p|Rosetta Stone}} did for {{p|Egyptian}}
 
 Hieroglyphics. Without {{p|Behistun}}, our knowledge of ancient
-{{p|Mesopotamia}} and {{p|Persia}} would be vastly poorer. {{c|Darius}}, in
+{{p|Mesopotamia}} and {{p|Persia}} would be vastly poorer. {{c|2287|Darius}}, in
 Addition to successfully defending his reign, was a brilliant
 Administrator. He reorganized the empire into twenty {{p|satrapies}}
 
@@ -143,34 +143,34 @@ And the result was an empire that was, by the standards of the
 
 Time, remarkably stable and prosperous for most of its population.
 
-                                                                      {{c|Darius}}
+                                                                      {{c|2287|Darius}}
 Extended the empire further, adding the {{p|Indus Valley}} in the east
 And {{p|Thrace}} in the west. He attempted to expand into {{p|Greece}} but
 
 Was defeated at {{p|Marathon}} in four-ninety BCE. {{p|Greece}} would remain
 Beyond {{p|Persian}} reach, though the empire retained significant
-{{p|Greek}}-speaking territories in {{p|Anatolia}} and {{p|Cyprus}}. {{c|Darius}} died
+{{p|Greek}}-speaking territories in {{p|Anatolia}} and {{p|Cyprus}}. {{c|2287|Darius}} died
 In four-eighty-six BCE, having reigned for thirty-six years and
 
 Having consolidated the largest empire in history to that point.
-His son {{c|Xerxes I}} attempted another invasion of {{p|Greece}} in four-
+His son {{c|2245|Xerxes I}} attempted another invasion of {{p|Greece}} in four-
 Eighty BCE, which also failed (after initial success) due to the
 {{p|Greek}} naval victory at {{p|Salamis}} and land victory at {{p|Plataea}}.
 
-{{c|Xerxes}} is a complicated figure in the historical record—portrayed
-In the {{p|Hebrew Bible}} as {{c|Ahasuerus}}, husband of {{c|Esther}} and
+{{c|1985|Xerxes}} is a complicated figure in the historical record—portrayed
+In the {{p|Hebrew Bible}} as {{c|2288|Ahasuerus}}, husband of {{c|392|Esther}} and
 Protagonist of that remarkable novella of {{p|Jewish}} court intrigue;
-Portrayed by {{c|Herodotus}} as an arrogant tyrant whose hubris
+Portrayed by {{c|2183|Herodotus}} as an arrogant tyrant whose hubris
 
 Brought his army to disaster at {{p|Salamis}}; portrayed in {{p|Persian}}
 Inscriptions as a mighty king completing his father's constructions
-At {{p|Persepolis}}. Each perspective captures something. {{c|Xerxes}} was
+At {{p|Persepolis}}. Each perspective captures something. {{c|1985|Xerxes}} was
 The last of the great conquering {{p|Persian}} kings. After him, the
 
 Empire ceased expanding and focused on maintaining what it had.
 
-Subsequent {{p|Achaemenid}} kings—{{c|Artaxerxes I}}, {{c|Darius II}}, {{c|Artaxerxes II}},
-{{c|Artaxerxes III}}, {{c|Arses}}, {{c|Darius III}}—mostly managed to hold the
+Subsequent {{p|Achaemenid}} kings—{{c|2289|Artaxerxes I}}, {{c|2290|Darius II}}, {{c|2291|Artaxerxes II}},
+{{c|2292|Artaxerxes III}}, {{c|2293|Arses}}, {{c|2294|Darius III}}—mostly managed to hold the
 Empire together despite periodic rebellions (especially in {{p|Egypt}},
 
 Which repeatedly revolted and was repeatedly reconquered). Court
@@ -180,7 +180,7 @@ Mercenary troops, more dependent on bribery to buy the loyalty of
 
 Its various satraps and subject peoples. By the mid-fourth century
 BCE, the {{p|Persian}} Empire was still vast but increasingly hollow.
-It would prove vulnerable to the decisive blow that {{c|Alexander}} the
+It would prove vulnerable to the decisive blow that {{c|1982|Alexander}} the
 Great would deliver in the following decades—but that is for
 
 A later chapter. For now, we are concerned with the empire as it
@@ -240,22 +240,22 @@ Achievements of multiple civilizations flowed and mixed.
                                                              And
 The religious dimension is worth returning to. The {{p|Achaemenid}}
 Kings were {{p|Zoroastrian}}—or at least their inscriptions invoke
-{{c|Ahura Mazda}} and frame their kingship in {{p|Zoroastrian}} terms.
+{{c|2166|Ahura Mazda}} and frame their kingship in {{p|Zoroastrian}} terms.
 But they did not impose {{p|Zoroastrianism}} on their subjects. In
 
-{{p|Babylon}}, {{c|Cyrus}} participated in the {{p|Marduk}} festival and presented
-Himself as {{c|Marduk}}'s chosen servant. In {{p|Egypt}}, {{c|Cambyses}} and his
+{{p|Babylon}}, {{c|2180|Cyrus}} participated in the {{p|Marduk}} festival and presented
+Himself as {{c|2021|Marduk}}'s chosen servant. In {{p|Egypt}}, {{c|2283|Cambyses}} and his
 Successors styled themselves as pharaohs and patronized {{p|Egyptian}}
-Temples. In {{p|Jerusalem}}, {{c|Cyrus}} permitted the rebuilding of the
+Temples. In {{p|Jerusalem}}, {{c|2180|Cyrus}} permitted the rebuilding of the
 
 Temple and supported it with royal funds. The {{p|Persians}} understood
 That religious legitimacy in a multi-ethnic empire required
 Adopting the religious forms of each subject culture. This was
-Not cynicism; it was genuine imperial theology. {{c|Ahura Mazda}} was
+Not cynicism; it was genuine imperial theology. {{c|2166|Ahura Mazda}} was
 
 Thought to be the universal creator, whose purposes were served
 By the continuance of proper worship wherever it occurred, under
-Whatever local name. The {{p|Persian}} king, as {{c|Ahura Mazda}}'s agent
+Whatever local name. The {{p|Persian}} king, as {{c|2166|Ahura Mazda}}'s agent
 In the world, had the duty to support all legitimate cults within
 
 His realm. This theological framework made religious tolerance
@@ -269,7 +269,7 @@ To what had come before, and compared to many empires that would
 Follow, the {{p|Persian}} Empire was a relatively humane political
 
 Structure. Its subjects were not, on the whole, eager to be freed
-From it. When {{c|Alexander}} conquered the empire in the fourth
+From it. When {{c|1982|Alexander}} conquered the empire in the fourth
 Century BCE, he did not find populations widely hostile to their
 Existing rulers. He found populations who accepted {{p|Persian}}
 
@@ -278,7 +278,7 @@ Imposed militarily, not welcomed as liberation. This is itself
 A testimony to the quality of {{p|Persian}} governance.
 
                                                              {{p|Persia}}.
-{{p|Achaemenid}}. {{c|Cyrus}}, {{c|Cambyses}}, {{c|Darius}}, {{c|Xerxes}}, and their
+{{p|Achaemenid}}. {{c|2180|Cyrus}}, {{c|2283|Cambyses}}, {{c|2287|Darius}}, {{c|1985|Xerxes}}, and their
 Successors. The first genuinely global empire. The {{p|satrapy}} system
 And the {{p|Royal Road}}. The standardized coinage and the standardized
 Weights. The religious tolerance grounded in imperial theology.

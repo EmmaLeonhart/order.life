@@ -1,26 +1,26 @@
 # Chapter 294: The Mountain Cherry
 
 In 712 a court lady's memory, or a court scholar's, was written down:
-The {{c|Kojiki}}, the *{{x|Record of Ancient Matters}}*, the oldest book of {{p|Japan}},
-The kami from the beginning, {{c|Izanagi}} and {{c|Izanami}}, the crown
-Of the {{c|Sun Goddess}}, the descent to {{p|Hyūga}}, the first emperor, the plan
+The {{c|4132|Kojiki}}, the *{{x|Record of Ancient Matters}}*, the oldest book of {{p|Japan}},
+The kami from the beginning, {{c|4133|Izanagi}} and {{c|4134|Izanami}}, the crown
+Of the {{c|4135|Sun Goddess}}, the descent to {{p|Hyūga}}, the first emperor, the plan
 
 Of the land told as a family. And it was written in a script no one could easily read:
 {{x|Chinese}} characters used now for their sound, now for their sense,
 A puzzle of a book. Within a few years the court had a newer creed:
-The {{c|Nihon Shoki}}, in proper {{x|Chinese}}, official, the dense
+The {{c|4136|Nihon Shoki}}, in proper {{x|Chinese}}, official, the dense
 
-And dignified history; and the {{c|Kojiki}} was put on a shelf
+And dignified history; and the {{c|4132|Kojiki}} was put on a shelf
 And mostly left there for a thousand years. Then, in {{p|Matsusaka}},
 Near {{p|Ise}}, a cotton merchant's son who had failed at trade, and made himself
 A doctor of children instead, studied in {{p|Kyoto}}, the saga
 
-Of the old poems in his evenings: {{c|Motoori Norinaga}}, born 1730.
-In 1763 an old scholar, {{c|Kamo no Mabuchi}}, passed through his town
+Of the old poems in his evenings: {{c|4137|Motoori Norinaga}}, born 1730.
+In 1763 an old scholar, {{c|4138|Kamo no Mabuchi}}, passed through his town
 On a pilgrimage to {{p|Ise}}, and stayed one night at an inn, and the young man came, and the empty
 Hours of that night were filled: the old man told him, set down
 
-Everything else and read the {{c|Kojiki}}; I am too old to finish it; you do it.
+Everything else and read the {{c|4132|Kojiki}}; I am too old to finish it; you do it.
 They never met again. They wrote letters. And the doctor began.
 For thirty-four years, while he treated the children of {{p|Matsusaka}}, he read through it,
 Every character, every sound, every name of every kami, the span
@@ -40,10 +40,10 @@ And here is the other edge, which the spine of this book calls invented traditio
 He taught that the {{x|Japanese}} heart had been corrupted by the {{x|Chinese}} mind, the *karagokoro*,
 And the {{x|Buddhist}}, and that the true way was the ancient one, the condition
 
-Of the land before the foreign: the way of the kami, pure and native, revealed in the {{c|Kojiki}}.
-That was a scholar's longing. In the next generation, {{c|Hirata Atsutane}},
+Of the land before the foreign: the way of the kami, pure and native, revealed in the {{c|4132|Kojiki}}.
+That was a scholar's longing. In the next generation, {{c|4139|Hirata Atsutane}},
 Who called himself his disciple after he died, made it a creed, a stricter key:
-The emperor descended from the {{c|Sun}}, {{p|Japan}} the land of the gods, the cannon
+The emperor descended from the {{c|99|Sun}}, {{p|Japan}} the land of the gods, the cannon
 
 Of the nation pointing outward. And in the next century the state
 Would take the longing and make it law: the gods and the buddhas torn apart,
@@ -63,9 +63,9 @@ Lesson for her, and for every reader: the love of the ancient word
 Can be turned into a weapon by someone else, a century on.
 Keep the commentary. Keep the reading of the names of the gods. Keep *mono no aware*.
 And refuse the purity. The kami were never pure of the foreign. The sun
-{{c|Goddess}} blesses rice that came from the continent, and the buddhas sat with the kami. There
+{{c|199|Goddess}} blesses rice that came from the continent, and the buddhas sat with the kami. There
 
-Was always mixing. That is the true ancient way. {{c|Norinaga}}'s grave
+Was always mixing. That is the true ancient way. {{c|4140|Norinaga}}'s grave
 Is on a mountain above {{p|Matsusaka}}, plain, and over it, as he asked, a mountain cherry.
 Visit it in spring. The petals fall. Let them. The nave
 Of the old faith is open. No one owns the blossom. Be wary,

@@ -1,13 +1,13 @@
 # Chapter 5: Aster's Milk Made Fruitful
 
-{{c|Aster}} made the milk pregnant with cat seed,
+{{c|1|Aster}} made the milk pregnant with cat seed,
 The curds take shape within the swirling storm.
 Her essence spreads, a cosmic plan decreed,
 In every star, her life begins to form.
 
 As hydrocarbons drift through endless skies,
 Her scent, like burnt steak, lingers far and wide.
-{{c|Aster}}'s presence fills all the stars that rise,
+{{c|1|Aster}}'s presence fills all the stars that rise,
 Her love and life, the galaxy's great guide.
 
 Across the galaxy, her force expands,
@@ -18,15 +18,15 @@ She fills the heavens, spreading life to man.
 Each star with planets, water deep and wide,
 Oceans abound, where life begins to bloom.
 A seed of creation on the tides side,
-{{c|Aster}}'s breath gives life from the cosmic womb.
+{{c|1|Aster}}'s breath gives life from the cosmic womb.
 
 From microbes small to creatures of the sea,
 Her love ensures that life will find its way.
 Each world unique, a thriving symphony,
 Her touch endures in life's eternal sway.
 
-{{c|Andromeda}}, with pride, looks from afar,
-In awe of {{c|Aster}}'s gift to life and light.
+{{c|3|Andromeda}}, with pride, looks from afar,
+In awe of {{c|1|Aster}}'s gift to life and light.
 Their bond, a force that shapes both land and star,
 A love eternal, woven through the night.
 
@@ -36,7 +36,7 @@ The cosmos thrives, their union to rehearse,
 A tale of love that evermore will grow.
 
 From ocean depths to stars that brightly shine,
-{{c|Aster}}'s life force in every corner gleams.
+{{c|1|Aster}}'s life force in every corner gleams.
 The epic weaves, through space and time divine,
 A cosmic love that fills our hopes and dreams.
 

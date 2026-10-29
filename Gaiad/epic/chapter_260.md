@@ -6,7 +6,7 @@ Wandering stars, and the fixed stars on their shell,
 And the whole sky turned once a day, alive
 
 Around us, the way a king's court turns around the king.
-{{c|Ptolemy}} had written it down in {{p|Alexandria}}:
+{{c|2265|Ptolemy}} had written it down in {{p|Alexandria}}:
 Circles on circles, the epicycles, everything
 Explained, predicted, measured. The criteria
 
@@ -17,11 +17,11 @@ Lights were late or early. The astronomers made a fuss
 
 And added circles. Then a canon of the cathedral
 At {{p|Frombork}}, on the {{p|Baltic}} shore, a careful man,
-{{c|Nicolaus Copernicus}}, born in {{p|Toruń}}, a scholar, a medical
+{{c|3790|Nicolaus Copernicus}}, born in {{p|Toruń}}, a scholar, a medical
 Doctor, a lawyer, an economist, who wrote a plan
 
 To stop the debasement of the coin, who held a castle
-At {{p|Olsztyn}} against the {{c|Teutonic Knights}},
+At {{p|Olsztyn}} against the {{c|3055|Teutonic Knights}},
 Who kept the accounts of his chapter: this unremarkable vassal
 Of the Prince-Bishop of {{p|Warmia}} spent his nights
 
@@ -35,12 +35,12 @@ Passed among friends. He did not publish. Thirty years.
 He was afraid of being laughed at, he said. Between
 The fear and the book, a young man appears:
 
-{{c|Rheticus}}, a {{x|Lutheran}} professor from {{p|Wittenberg}},
+{{c|3791|Rheticus}}, a {{x|Lutheran}} professor from {{p|Wittenberg}},
 Who came in 1539 to the {{x|Catholic}} canon's house
 And stayed two years, and talked him into it. The iceberg
 Of the old sky cracked at last. The book was set in type, and the douse
 
-Of cold water came from a friend: {{c|Osiander}}, who saw it through the press
+Of cold water came from a friend: {{c|3792|Osiander}}, who saw it through the press
 In {{p|Nuremberg}}, added a preface without a name,
 Saying it was only a hypothesis, a way to compute, no less,
 No more, not true. *{{x|On the Revolutions}}*. It came
@@ -52,17 +52,17 @@ He may not have known it. The story, the comforting lying
 
 Or the truth, is that the old man held the new sky
 On his last day. And hold this too: he was not the first.
-{{c|Aristarchus}} of {{p|Samos}} had said it, long ago, and the why
+{{c|3793|Aristarchus}} of {{p|Samos}} had said it, long ago, and the why
 Of his models, the little paired circles, had been rehearsed
 
-At {{p|Maragha}}, in {{p|Iran}}, by {{c|al-Tusi}} and his school,
-Three centuries before, and in {{p|Damascus}} by {{c|Ibn al-Shatir}},
-Whose moon moved as {{c|Copernicus}}'s moved. The rule
+At {{p|Maragha}}, in {{p|Iran}}, by {{c|3794|al-Tusi}} and his school,
+Three centuries before, and in {{p|Damascus}} by {{c|3795|Ibn al-Shatir}},
+Whose moon moved as {{c|2266|Copernicus}}'s moved. The rule
 Of the transmission the {{x|Golden Age}} began, the clear
 
 Water running from the {{p|House of Wisdom}} west, ran here too.
 He still had circles. He still had epicycles. The sky
-Would wait for {{c|Kepler}}'s ellipses and {{c|Galileo}}'s view
+Would wait for {{c|3796|Kepler}}'s ellipses and {{c|2396|Galileo}}'s view
 Through the glass. But the {{p|Earth}} was moving. Why
 
 Does it matter for a scripture? Because the {{x|Gaiad}} begins

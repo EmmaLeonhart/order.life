@@ -4,7 +4,7 @@ In the desert by the sea, they built.
 
 No emperor commanded it, no slave
 Was driven to the labor—the quilt
-Of the {{c|Norte Chico}} cities gave
+Of the {{c|3444|Norte Chico}} cities gave
 
 The {{p|Americas}} their first experiment
 In the monumental and the planned:
@@ -16,7 +16,7 @@ Between the {{p|Andes}}' wall and the {{p|Pacific}}'s edge,
 Where thirty rivers sliced the avenue
 Of desert into green and fertile wedge-
 
-Shaped valleys—there, the {{c|Caral}} builders raised
+Shaped valleys—there, the {{c|3445|Caral}} builders raised
 Their pyramids.
 
                   Not of the {{p|Nile}}'s
@@ -65,7 +65,7 @@ Of the economy's tale
 
 Told in knots and colored string.
 
-And {{p|Caral}} was not alone—the {{c|Norte Chico}}
+And {{p|Caral}} was not alone—the {{c|3444|Norte Chico}}
 Spread across the coastal ring
 Of valleys: {{p|Aspero}} on the seaboard, the echo
 
@@ -90,7 +90,7 @@ Contemporary with {{p|Sumer}}'s ziggurats—
 Contemporary with the {{p|Nile}}'s rebirth
 In the {{x|Old Kingdom}}'s acrobats
 
-Of stone—the {{c|Norte Chico}} stood
+Of stone—the {{c|3444|Norte Chico}} stood
 As proof that civilization was no accident
 Of the {{p|Fertile Crescent}}'s neighborhood
 But a convergent and independent
@@ -106,7 +106,7 @@ Spread their silt across the drowned lands
 Of {{p|Tabasco}} and {{p|Veracruz}}, the givers
 
 Of the richest soil in {{p|Mesoamerica}}—
-The {{c|Olmec}} stirred.
+The {{c|3446|Olmec}} stirred.
 
                        Fifteen hundred years
 Before the common era, {{p|America}}'s
@@ -125,7 +125,7 @@ And staggering logistics of the known
 
 And unknown engineering: raft and roller,
 Rope and ramp and the coordinated pull
-Of hundreds—the {{c|Olmec}} comptroller
+Of hundreds—the {{c|3446|Olmec}} comptroller
 Marshaling the beautiful
 
 And brutal labor for the portrait
@@ -140,23 +140,23 @@ On a portrait that would express
 
 The individual: this face, not any face—
 This ruler, not the abstract king—
-The {{c|Olmec}} carved the human race
+The {{c|3446|Olmec}} carved the human race
 In basalt, and the rendering
 
 Was the first great portraiture of the {{p|Americas}}.
 
-And more—the {{c|Olmec}} gave the calendar:
+And more—the {{c|3446|Olmec}} gave the calendar:
 The {{x|Long Count}}'s vast and mathematical theatres
 Of time, the vigesimal and regular
 
-System of the {{c|Maya}} that the {{c|Olmec}}
+System of the {{c|2308|Maya}} that the {{c|3446|Olmec}}
 Had conceived—the baktun, the katun,
 The tun and the uinal, the totemic
 And cyclical accounting of the moon
 
-And sun and {{c|Venus}} that would reach
-Its apotheosis in the {{c|Maya}} courts
-But was born here, in the {{c|Olmec}} breach
+And sun and {{c|95|Venus}} that would reach
+Its apotheosis in the {{c|2308|Maya}} courts
+But was born here, in the {{c|3446|Olmec}} breach
 Of the innumerate—the sports
 
 Of the sacred ballgame too, the rubber ball
@@ -171,7 +171,7 @@ Was the beating heart, the flame
 
 Of the life surrendered to the sky.
 
-The {{c|Olmec}} gave the {{p|Americas}} the jaguar-god,
+The {{c|3446|Olmec}} gave the {{p|Americas}} the jaguar-god,
 The were-jaguar infant's cry,
 The rain-deity and the broad
 
@@ -192,7 +192,7 @@ And the fishers of the {{p|Peruvian}} coast
 Whose nets and flutes built the corral
 Of the {{p|Americas}}' first urban post—
 
-And honor the {{c|Olmec}} and their colossal
+And honor the {{c|3446|Olmec}} and their colossal
 Heads that stare from the jungle floor
 With the calm and apostol-
 Ic gaze of kings who wore
@@ -204,7 +204,7 @@ That every later nation's
 
 Temple and plaza and sacred ball-court
 Would echo and elaborate and refine—
-The {{c|Olmec}} gave the blueprint, and the retort
+The {{c|3446|Olmec}} gave the blueprint, and the retort
 Of history was the shrine
 
 And the pyramid and the written glyph

@@ -1,19 +1,19 @@
 # Chapter 126: The Old World Monkeys
 
 In {{p|Africa}} and {{p|Asia}}, the other branch
-Of the anthropoid tree—{{c|Catarrhinos}},
+Of the anthropoid tree—{{c|1819|Catarrhinos}},
 The narrow-nosed—began the avalanche
 Of primate innovation whose beginnings
 
 Would lead, in time, to everything we are.
 
-{{c|Catarrhinos}} divided into two:
-{{c|Cercopithecos}}—the tailed ones, the star
+{{c|1819|Catarrhinos}} divided into two:
+{{c|1820|Cercopithecos}}—the tailed ones, the star
 Of the monkey world—and the apes, the few
 
 And tailless ones whose chapter comes hereafter.
 
-{{c|Cercopithecos}}—the {{p|Old World}} monkeys—
+{{c|1820|Cercopithecos}}—the {{p|Old World}} monkeys—
 Were the most successful, and the rafter
 Of their house was built on the keys
 
@@ -27,7 +27,7 @@ For hours without discomfort—three
 Modest innovations, the avalanches
 Of success built on the ordinary.
 
-{{c|Papios}}—the baboon—came down from the trees.
+{{c|1821|Papios}}—the baboon—came down from the trees.
 
 This was the revolution: the ground.
 
@@ -75,7 +75,7 @@ The stable core of the troop's identity
 While the males came and went like parades
 Of transient authority.
 
-{{c|Macacos}}—the macaque—crossed into {{p|Asia}}
+{{c|1822|Macacos}}—the macaque—crossed into {{p|Asia}}
 And spread from {{p|Japan}} to {{p|North Africa}},
 The most geographically blessed—the stadia
 Of the macaque's expansion, the attica
@@ -97,7 +97,7 @@ Beside the most adaptable ape's grip
 
 On the world.
 
-                And {{c|Colobos}}—the leaf-eater—
+                And {{c|1823|Colobos}}—the leaf-eater—
 Solved the problem of the forest's cellulose
 With the ruminant's trick: a repeater
 Of the stomach's chamber, the verbose
@@ -114,7 +114,7 @@ To the proof that evolution's plow
 
 Cuts the same furrow in different fields.
 
-Honor {{c|Cercopithecos}}—who came down
+Honor {{c|1820|Cercopithecos}}—who came down
 From the trees and learned what the grassland yields
 To the social, the hierarchical, the brown
 

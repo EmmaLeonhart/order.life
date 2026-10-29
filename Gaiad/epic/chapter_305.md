@@ -1,9 +1,9 @@
 # Chapter 305: By Physical Processes
 
 In October of 1874 a colonel went up-country to watch the dead:
-{{c|Henry Steel Olcott}}, a lawyer who had worn a {{x|Union}} coat, sat down
-In the {{c|Eddy}} brothers' farmhouse at {{p|Chittenden}}, and wrote what the mediums said;
-And in that house he met {{c|Helena Blavatsky}}, a {{x|Russian}} newly in town,
+{{c|4254|Henry Steel Olcott}}, a lawyer who had worn a {{x|Union}} coat, sat down
+In the {{c|4255|Eddy}} brothers' farmhouse at {{p|Chittenden}}, and wrote what the mediums said;
+And in that house he met {{c|4256|Helena Blavatsky}}, a {{x|Russian}} newly in town,
 
 In the country a year, come to the same séances. Neither held an office yet.
 The season around them was the {{x|American}} season of the talking dead,
@@ -11,24 +11,24 @@ And what they carried out of the farmhouse was not a creed they could set
 Over an altar: it was a meeting, and a question the cabinets left unsaid.
 
 On the seventh of September, 1875, in her rooms in {{p|New York}}, seventeen came
-To hear {{c|George Henry Felt}} on a canon of proportion he said the ancients knew,
+To hear {{c|4257|George Henry Felt}} on a canon of proportion he said the ancients knew,
 {{p|Egypt}}, {{p|Greece}} and {{p|Rome}}: one measure hidden in the stone and in the frame.
-When the lecture ended, {{c|Olcott}} moved that a society be formed. The motion grew.
+When the lecture ended, {{c|4258|Olcott}} moved that a society be formed. The motion grew.
 
-The next evening {{c|Felt}} spoke again; {{c|Olcott}} took the chair; the minutes were kept
-By {{c|William Quan Judge}}, a young lawyer; sixteen handed in their names.
+The next evening {{c|4259|Felt}} spoke again; {{c|4258|Olcott}} took the chair; the minutes were kept
+By {{c|4260|William Quan Judge}}, a young lawyer; sixteen handed in their names.
 On the thirteenth they chose a word already old, theosophy, divine wisdom, and stepped
 Under it as a letterhead. The wisdom was not new. The club was new, and its aims
 
 Were still being written. On the thirtieth of October the bylaws passed,
-And the preamble said the founders sought a knowledge of the {{c|Supreme Power}}
+And the preamble said the founders sought a knowledge of the {{c|4261|Supreme Power}}
 And the higher spirits by the aid of physical processes: a method, made to last,
 A body, an instrument, a law of the world, and an hour.
 
 The society stood when the president gave his inaugural, on the seventeenth of November,{{fn|The printed sheet dated the organization to 30 October, the day of the bylaws; Olcott later corrected the founding to his inaugural address of 17 November.}}
 At the {{p|Mott Memorial Hall}} in {{p|New York}}, number 64, {{p|Madison Avenue}}.
-He was president; she was corresponding secretary; {{c|Judge}} was counsel; and each member
-Of the vice-presidency, {{c|Felt}} and {{c|Seth Pancoast}}, a doctor, sat in view.
+He was president; she was corresponding secretary; {{c|4262|Judge}} was counsel; and each member
+Of the vice-presidency, {{c|4259|Felt}} and {{c|4263|Seth Pancoast}}, a doctor, sat in view.
 
 A treasurer, a librarian, a recording secretary: a small machine, complete,
 Pointed at the occult and the cabala, at the laws behind the wonders shown.
@@ -55,7 +55,7 @@ And the wonders seriously: the voice she heard, the letters that came, the hands
 The masters were a reaching toward the ground, and the ground answered; what was heard
 Was heard. The processes and the wonders are one study, and the ground between
 
-Is where the minutes and the miracles meet. {{c|Felt}}'s lost canon was the hope:
+Is where the minutes and the miracles meet. {{c|4259|Felt}}'s lost canon was the hope:
 One proportion, recovered, that would make the temples of three civilizations agree
 In a single measure. The hope is human and old; it is the scope
 Of every faith that reads the world as one. And this one, too, would see

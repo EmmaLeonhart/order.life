@@ -35,7 +35,7 @@ MONTHS = [
     ("ophiuchus",   "Ophiuchus",  13, 337, 364),
 ]
 
-CHAR_TAG = re.compile(r"\{\{c\|([^}]+)\}\}")
+CHAR_TAG = re.compile(r"\{\{c\|(?:[^}|]*\|)?([^}|]+)\}\}")   # {{c|Name}} and the ID form {{c|1|Name}}
 
 
 # {{fn|...}} footnotes (Gaiad/FOOTNOTES.md) become Markdown inline notes in the readable files.

@@ -10,8 +10,8 @@ Was reaching its own apex.
                                  {{p|Crete}}. The largest island of the
 {{p|Aegean Sea}}. The civilization of the {{p|Minoans}}.
 
-{{p|Minoan}} is a modern name, coined by {{c|Arthur Evans}} in the late
-Nineteenth century after {{c|King Minos}}, the legendary {{p|Cretan}}
+{{p|Minoan}} is a modern name, coined by {{c|1988|Arthur Evans}} in the late
+Nineteenth century after {{c|1989|King Minos}}, the legendary {{p|Cretan}}
 King of {{p|Greek}} mythology. The {{p|Minoans}} themselves called
 Themselves something else—we do not know what, because their
 
@@ -64,7 +64,7 @@ Palace architecture is labyrinthine, multi-story, open-plan, with
 Frescoes in every major room. {{p|Knossos}} itself may have been the
 
 Historical basis for the {{p|Greek}} myth of the {{p|Labyrinth}}—the winding
-Maze in which the {{c|Minotaur}} was imprisoned. The palace has some
+Maze in which the {{c|1990|Minotaur}} was imprisoned. The palace has some
 Fifteen hundred rooms arranged around a central court, connected by
 Corridors and stairways that have no single organizing axis. A
 
@@ -73,8 +73,8 @@ Concluded that the place was built to confuse and conceal. And the
 Bull motif—so central to {{p|Minoan}} iconography, with bull-leaping
 Frescoes, bull-horns of consecration on every altar, bull-headed
 
-Rhyta—would have lent itself naturally to the {{c|Minotaur}} myth. The
-{{c|Minotaur}}, a bull-headed man at the center of a labyrinth, is a
+Rhyta—would have lent itself naturally to the {{c|1990|Minotaur}} myth. The
+{{c|1990|Minotaur}}, a bull-headed man at the center of a labyrinth, is a
 {{p|Greek}} memory of {{p|Minoan}} religion, distorted through the lens
 Of centuries of cultural intermediation after the {{p|Minoan}} collapse.
 
@@ -88,9 +88,9 @@ Nearly every religious scene in the frescoes features female
 Officiants. The religion appears to have been goddess-centered, with
 A male consort figure (a young god who dies and is reborn, possibly
 
-Related to the later {{p|Greek}} {{c|Dionysus}}) but with clear priority
+Related to the later {{p|Greek}} {{c|1991|Dionysus}}) but with clear priority
 On the female divine. This is the old {{p|European}} goddess religion
-That {{c|Marija Gimbutas}} argued survived in pockets across the
+That {{c|1900|Marija Gimbutas}} argued survived in pockets across the
 {{p|Mediterranean}} into the {{x|Bronze Age}}. {{p|Crete}} is one of those pockets.
 
 The mother goddess and her snakes. The saffron gatherers. The
@@ -104,7 +104,7 @@ Civilization.
 Corner of the {{p|Eastern Mediterranean}}. {{p|Minoan}} pottery has been
 Found in {{p|Egypt}} (where {{p|Minoans}} are depicted in {{p|Eighteenth Dynasty}}
 
-Tomb paintings as the "{{c|Keftiu}}"—a people bringing tribute to the
+Tomb paintings as the "{{c|1992|Keftiu}}"—a people bringing tribute to the
 Pharaoh), in the {{p|Levant}}, in {{p|Anatolia}}, in the {{p|Cyclades}}, on
 Mainland {{p|Greece}}. {{p|Minoan}} influence shapes the early {{p|Mycenaean}}
 Culture on the {{p|Greek}} mainland. The {{p|Aegean}} is, for several
@@ -142,21 +142,21 @@ Around fourteen hundred and fifty BCE, the {{p|Mycenaean Greeks}} from
 
 The mainland—previously junior partners of the {{p|Minoans}}, culturally
 Influenced by but politically independent—invaded and took over.
-The {{p|Mycenaeans}} were {{c|R1b}}-carriers, {{p|Indo-European}}-speakers, the
+The {{p|Mycenaeans}} were {{c|1942|R1b}}-carriers, {{p|Indo-European}}-speakers, the
 {{x|Bronze Age}} manifestation of the {{p|Yamnaya}} expansion that had reached
 
 {{p|Greece}}. They occupied {{p|Knossos}} and the other palaces. They replaced
 {{p|Linear A}} with {{p|Linear B}}, a script adapted to write the {{p|Mycenaean}}
 {{p|Greek}} language (and which, unlike {{p|Linear A}}, was successfully
-Deciphered in nineteen fifty-two by {{c|Michael Ventris}}—who showed
+Deciphered in nineteen fifty-two by {{c|1993|Michael Ventris}}—who showed
 
 That {{p|Linear B}} recorded an archaic form of {{p|Greek}}). The {{p|Minoan}}
 Civilization was not destroyed—it was absorbed. And the {{p|Minoan}}
 Religious and artistic traditions continued, in hybridized form,
-Into the {{p|Mycenaean}} period. The {{c|Snake Goddess}} became, eventually,
+Into the {{p|Mycenaean}} period. The {{c|1994|Snake Goddess}} became, eventually,
 
-The {{p|Greek}} {{c|Athena}}. The bull-leaping became the mythology of the
-{{c|Minotaur}}. The labyrinth became a {{p|Greek}} cliché. The {{p|Minoan}}
+The {{p|Greek}} {{c|1995|Athena}}. The bull-leaping became the mythology of the
+{{c|1990|Minotaur}}. The labyrinth became a {{p|Greek}} cliché. The {{p|Minoan}}
 Substrate persisted in {{p|Greek}} culture, under the {{p|Indo-European}}
 Overlay, for the rest of {{p|Greek}} civilization.
 

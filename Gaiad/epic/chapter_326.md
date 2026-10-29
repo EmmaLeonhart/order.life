@@ -1,14 +1,14 @@
 # Chapter 326: The Eagle and the Two Letters
 
 On the sixteenth of July, 1969,
-{{c|Neil Armstrong}}, {{c|Buzz Aldrin}}, and {{c|Michael Collins}}
+{{c|4446|Neil Armstrong}}, {{c|4447|Buzz Aldrin}}, and {{c|4448|Michael Collins}}
 Left the cape then called {{p|Cape Kennedy}}.
 The cape is now {{p|Cape Canaveral}}.
 The center is the {{p|Kennedy Space Center}}.
 Do not collapse the names.
 A person had already left the {{p|Earth}} in the spring of 1961.
 On the twenty-fifth of May, 1961,
-{{c|John Kennedy}} had asked for a landing and a return
+{{c|4449|John Kennedy}} had asked for a landing and a return
 Before the decade was out.
 
 On the twentieth of July the lander, called the {{x|Eagle}},
@@ -18,9 +18,9 @@ In the evening.
 In the east of the {{p|United States}}
 It was seventeen minutes past four in the afternoon.
 The landing is the twentieth on both clocks.
-{{c|Neil Armstrong}} said: {{p|Houston}}, {{p|Tranquility Base}} here.
+{{c|4446|Neil Armstrong}} said: {{p|Houston}}, {{p|Tranquility Base}} here.
 The {{x|Eagle}} has landed.
-{{c|Michael Collins}} stayed in the ship called {{x|Columbia}},
+{{c|4448|Michael Collins}} stayed in the ship called {{x|Columbia}},
 In orbit, so the two could come back.
 He did not walk.
 Do not say three men walked.
@@ -37,7 +37,7 @@ He spoke of a small step, and of a giant leap for mankind.
 He meant one small step for a man,
 And the little word was lost in the static, and the meaning was not.
 
-Before the step, {{c|Buzz Aldrin}} asked, on the open line,
+Before the step, {{c|4447|Buzz Aldrin}} asked, on the open line,
 For a pause, and for each listener to give thanks
 In that listener's own way.
 In the pause he took bread and wine he had brought.
@@ -77,8 +77,8 @@ The ship that took them aboard was the {{x|Hornet}}.
 On the twenty-ninth of October, at half past ten at night,
 In {{p|Los Angeles}}, a line was opened
 To {{p|Menlo Park}}.
-{{c|Charley Kline}} typed, in the laboratory of {{c|Leonard Kleinrock}}.
-{{c|Bill Duvall}} was at the far end,
+{{c|4450|Charley Kline}} typed, in the laboratory of {{c|4451|Leonard Kleinrock}}.
+{{c|4452|Bill Duvall}} was at the far end,
 At the {{x|Stanford Research Institute}}.
 The word they meant to send was login.
 The first try carried L, and O, and stopped.
@@ -112,14 +112,14 @@ Was the twenty-seventh of November.
 None of the three is the others' day.
 
 A harvest was eaten in 1621, at {{p|Plymouth}},
-By the {{c|English}} there and by the {{c|Wampanoag}}.
+By the {{c|3244|English}} there and by the {{c|3547|Wampanoag}}.
 That table was not a national holiday.
-In 1863 {{c|Abraham Lincoln}} proclaimed a national day,
+In 1863 {{c|4453|Abraham Lincoln}} proclaimed a national day,
 The last Thursday of November, in a war.
 In 1941 the law fixed the fourth Thursday.
 Do not say the nation began at the table in 1621.
 Do not say the table was nothing.
-The thanks {{c|Buzz Aldrin}} asked for, in July,
+The thanks {{c|4447|Buzz Aldrin}} asked for, in July,
 Was not this Thursday.
 A thanks is not a landing.
 A landing is not a thanks.

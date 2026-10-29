@@ -1,9 +1,9 @@
 # Chapter 268: The Rune-Keeper
 
 A priest's son born at {{p|Åkerby}} in {{p|Uppland}} in 1568,
-{{c|Johannes Bureus}}, of the family of the farmers at {{p|Bure}},
+{{c|3808|Johannes Bureus}}, of the family of the farmers at {{p|Bure}},
 Taught himself to read the stones. The weight
-Of the old {{c|runestones}} stood in the fields, grey, sure
+Of the old {{c|3881|runestones}} stood in the fields, grey, sure
 
 Of their meaning to no one now: the snake-bands, the marks,
 *Raised this stone after his father*, *after his son*,
@@ -12,26 +12,26 @@ Of the {{x|Varangian}} roads. Nobody had read them. One
 
 Young man went out with a notebook into the rain
 And drew them, stone by stone, and learned the old letters,
-The sixteen runes of the {{c|Younger Futhark}}, and set out plain
+The sixteen runes of the {{c|3882|Younger Futhark}}, and set out plain
 The first runic primer in print, and the scholars and the setters
 
 Of type in {{p|Stockholm}} made it a book. He taught a prince:
-The boy {{c|Gustavus Adolphus}}, who would be king,
+The boy {{c|3883|Gustavus Adolphus}}, who would be king,
 Learned history at his knee. And ever since
 The crown kept him: royal librarian, and the first in the ring
 
-Of the kingdom's keepers of antiquity, {{c|riksantikvarie}}, in 1630,
+Of the kingdom's keepers of antiquity, {{c|3884|riksantikvarie}}, in 1630,
 Sent out to find and draw every runestone in the land.
 He is the father of {{x|Swedish}} runology. Hold it. And the gift he
 Gave his own family: a book, in his own hand,
 
-*{{x|Om Bura namn och ätt}}*, on the name and kin of {{c|Bure}},
+*{{x|Om Bura namn och ätt}}*, on the name and kin of {{c|3807|Bure}},
 The genealogy of the farmers, carried back
 Through generations no tax roll had written, made sure
 By runestones he read as his ancestors' stones, by the track
 
 Of names and legends, out of the documents and past them.
-That book is why the {{c|Bures}} are a kinship and not just farms.
+That book is why the {{c|3809|Bures}} are a kinship and not just farms.
 It is why the writer of this scripture can name them.
 It is the first of her family trees. And it rests on the charms
 
@@ -40,23 +40,23 @@ Bureus read the runes as more than letters. He read them
 As a hidden wisdom, a {{x|Gothic Kabbalah}}, a staff
 Of the secrets of all the sciences, a cosmos in them:
 
-The {{c|Adulruna}}, his own system, a cross of runes
-Arranged as a ladder of the soul up to {{c|God}}, the key,
+The {{c|3885|Adulruna}}, his own system, a cross of runes
+Arranged as a ladder of the soul up to {{c|472|God}}, the key,
 He believed, to the wisdom of the ancient {{p|North}}, the moons
-And the planets and the {{c|Trinity}} in the futhark. He
+And the planets and the {{c|3886|Trinity}} in the futhark. He
 
-Corresponded with the {{c|Rosicrucians}}, read the prophets,
+Corresponded with the {{c|3887|Rosicrucians}}, read the prophets,
 Calculated the end of the world, and believed it near.
-And he was a {{c|Gothicist}}: the {{c|Goths}} had come from {{p|Sweden}}, the profits
+And he was a {{c|3888|Gothicist}}: the {{c|2649|Goths}} had come from {{p|Sweden}}, the profits
 Of the old empire were the {{p|North}}'s, the first and clear
 
-Rulers of {{p|Europe}} had been {{c|Swedes}}, and the {{x|Swedish}} tongue
+Rulers of {{p|Europe}} had been {{c|3889|Swedes}}, and the {{x|Swedish}} tongue
 Was the oldest of tongues, the first, or near enough.
 This was the invented antiquity of a kingdom young
 In power and hungry for a past. The stuff
 
 Of the {{x|Thirty Years' War}} was fought by a king who believed it:
-{{c|Gustavus Adolphus}} going south as the heir of the {{c|Goths}}.
+{{c|3883|Gustavus Adolphus}} going south as the heir of the {{c|2649|Goths}}.
 His tutor had taught him. The kingdom received it
 As a birthright. That is the invented tradition, the cloths
 
@@ -80,7 +80,7 @@ Draw them exactly. Dream if you must. But mark the dream
 As a dream, in the margin, so that the bones
 Of the record stay the bones. He died in 1652. The stream
 
-Of the runes he loved runs on: the revivals, the {{c|Ásatrú}},
+Of the runes he loved runs on: the revivals, the {{c|3890|Ásatrú}},
 The scholars of the futhark, the painted stones in the lawns
 Of {{p|Uppland}} churches. The writer of this book reads them too.
 She is his kin. She keeps his line. And the line, like the dawns

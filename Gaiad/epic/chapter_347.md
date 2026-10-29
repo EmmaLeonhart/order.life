@@ -22,17 +22,17 @@ And a wave that the old shrines had remembered, before the wall began.
 
 ## The squares
 
-On the fourth of January {{c|Mohamed Bouazizi}} died of his burns,
-And the protests reached {{p|Tunis}}, and on the fourteenth {{c|Ben Ali}} fled,
+On the fourth of January {{c|4607|Mohamed Bouazizi}} died of his burns,
+And the protests reached {{p|Tunis}}, and on the fourteenth {{c|4608|Ben Ali}} fled,
 Twenty-three years in power, to {{p|Saudi Arabia}} in the night.
 {{p|Tunisia}} was free, the first of the squares, and the fruit seller dead.
 
 On the twenty-fifth of January the people of {{p|Egypt}} filled {{x|Tahrir Square}},
 And stayed, through the men on camels sent to beat them, through the cutting of the net,
-Until on the eleventh of February {{c|Hosni Mubarak}} resigned after thirty years,
+Until on the eleventh of February {{c|4609|Hosni Mubarak}} resigned after thirty years,
 And the square sang through the night, the happiest night of the year yet.
 
-In {{p|Libya}} the east rose against {{c|Muammar Gaddafi}},
+In {{p|Libya}} the east rose against {{c|4610|Muammar Gaddafi}},
 Who promised to hunt the rebels house by house, alley by alley, like rats.
 On the nineteenth of March the jets of {{x|NATO}} stopped his columns before {{p|Benghazi}},
 And saved the city, and on the twentieth of October he was found in a drainpipe, where he sat.
@@ -40,16 +40,16 @@ And saved the city, and on the twentieth of October he was found in a drainpipe,
 In {{p|Bahrain}} the soldiers of {{p|Saudi Arabia}} cleared the {{x|Pearl Roundabout}},
 And tore down the monument so no one could gather under it again.
 In {{p|Syria}}, in {{p|Daraa}}, boys wrote on a school wall:
-The people want the fall of the regime. They were taken and tortured, the boys, by {{c|Assad}}'s men.
+The people want the fall of the regime. They were taken and tortured, the boys, by {{c|4611|Assad}}'s men.
 
 Their families marched, and the army fired, and by the summer the cities rose,
-And {{c|Bashar al-Assad}} shelled them, and by the end of the year it was war,
+And {{c|4612|Bashar al-Assad}} shelled them, and by the end of the year it was war,
 The longest and worst of the century, half a million dead, half a country driven out,
-And {{c|Putin}} would come to {{c|Assad}}'s side in four years, with the bombers to make it more.
+And {{c|4518|Putin}} would come to {{c|4611|Assad}}'s side in four years, with the bombers to make it more.
 
 The {{x|Arab Spring}} was a hope, and it was betrayed:
 By the army in {{p|Cairo}} that took the power back, by the Saudis in {{p|Manama}}'s square,
-By {{c|Assad}} with his barrel bombs and his gas, and by the villain who saved him,
+By {{c|4611|Assad}} with his barrel bombs and his gas, and by the villain who saved him,
 And by the jihadists who came into the ruins. The hope was real. The betrayal is there.
 
 ## The wave and the cooling
@@ -90,10 +90,10 @@ And the ones who listened lived, and the ones who did not were left alone.
 
 On the night of the first of May American commandos flew into {{p|Pakistan}},
 To a walled house in {{p|Abbottabad}}, a short walk from the military academy's gate,
-And killed {{c|Osama bin Laden}}, who had sent the planes when I was five,
+And killed {{c|4521|Osama bin Laden}}, who had sent the planes when I was five,
 And buried him at sea, and the crowds sang outside the {{x|White House}}, late.
 
-{{c|Obama}} gave the order, and {{c|Obama}} took the risk.
+{{c|4598|Obama}} gave the order, and {{c|4598|Obama}} took the risk.
 Ten years after the towers fell, the man who felled them was found and was killed.
 That is the country's answer: it does not forget,
 And it waits, and it hunts, and the debt of the morning was filled.
@@ -112,13 +112,13 @@ As its prime minister said, and kept its door.
 
 ## The villain returns
 
-On the twenty-fourth of September {{c|Putin}} announced he would take the presidency back,
-And {{c|Medvedev}}, who had held the chair for him, would step aside.
+On the twenty-fourth of September {{c|4518|Putin}} announced he would take the presidency back,
+And {{c|4613|Medvedev}}, who had held the chair for him, would step aside.
 In December the parliament elections were rigged on camera,
 And the people filled {{p|Bolotnaya Square}} in {{p|Moscow}}, a hundred thousand, the largest since the Soviet slide.
 
 They wore white ribbons and asked for fair elections.
-The villain blamed {{c|Hillary Clinton}} for the crowds, and held it against her name,
+The villain blamed {{c|4614|Hillary Clinton}} for the crowds, and held it against her name,
 And five years later his hackers went after her campaign,
 And this month will reach that too, and the villain's game.
 
@@ -136,10 +136,10 @@ The anger of the decade was beginning, and nothing would stay shut.
 
 ## The rest of the year
 
-On the eighth of January, in {{p|Tucson}}, {{c|Gabby Giffords}} was shot in the head and lived.
+On the eighth of January, in {{p|Tucson}}, {{c|4615|Gabby Giffords}} was shot in the head and lived.
 On the twenty-second of February {{p|Christchurch}} fell in an earthquake.
-On the second of May {{p|Canada}} voted, and {{c|Stephen Harper}} won his majority,
-And {{c|Jack Layton}} led the left to the opposition, and died in August, for the country's sake,
+On the second of May {{p|Canada}} voted, and {{c|4572|Stephen Harper}} won his majority,
+And {{c|4616|Jack Layton}} led the left to the opposition, and died in August, for the country's sake,
 
 Writing to us that love is better than anger, hope is better than fear,
 Optimism is better than despair. Let us be loving, hopeful and optimistic, he wrote,
@@ -149,7 +149,7 @@ And I keep it here, the dying man's last note.
 On the fifteenth of June, after the {{x|Canucks}} lost the cup, {{p|Vancouver}} rioted downtown.
 On the ninth of July {{p|South Sudan}} became the newest country in the world.
 On the fourth of October {{x|Apple}} showed {{x|Siri}}, the phone that answered when you spoke,
-And on the fifth {{c|Steve Jobs}} died, and the flags of the valley were furled.
+And on the fifth {{c|4576|Steve Jobs}} died, and the flags of the valley were furled.
 
 In February {{x|IBM}}'s {{x|Watson}} beat the champions of {{x|Jeopardy!}},
 The first time a machine won at the language game on the screen.
@@ -159,7 +159,7 @@ The first light of the dawn I would be part of, at twenty-six, not fifteen.
 On the thirty-first of October the world was said to have seven billion.
 In the {{p|Horn of Africa}} a famine killed a quarter of a million, half of them small.
 On the eighteenth of December the last American soldiers left {{p|Iraq}},
-And on the seventeenth {{c|Kim Jong-il}} died, and his son took it all.
+And on the seventeenth {{c|4617|Kim Jong-il}} died, and his son took it all.
 
 ## The year held
 

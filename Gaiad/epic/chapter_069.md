@@ -1,13 +1,13 @@
 # Chapter 69: The Naked Seeds
 
-Where {{c|Lycos}} spread his canopy of spores
+Where {{c|1459|Lycos}} spread his canopy of spores
 And arborescent club-trees ruled the swamp,
 Where ancient fog rolled in from distant shores
 And coal-swamp vapors made the forest damp,
 
 A different kind of tree had learned to stand
 Against the dry-spell and the season's change:
-Great {{c|Gymnos}}, son of {{c|Phyllon}}, found his hand
+Great {{c|1474|Gymnos}}, son of {{c|1472|Phyllon}}, found his hand
 Could hold what spores could not across the range
 
 Of drier hillsides where the swamp's wet edge
@@ -22,12 +22,12 @@ Just seed and scale and hope, nothing pinned
 
 To being near a pond or river's strand
 Where spore-borne plants required water's kiss
-To carry gametes—{{c|Gymnos}} touched dry land
+To carry gametes—{{c|1474|Gymnos}} touched dry land
 And never more would need a pond for this.
 
 "I am the master of the hilltop bare,"
-Said {{c|Gymnos}} as he claimed the ridge above,
-"Where {{c|Lycos}} cannot grow, I find my care
+Said {{c|1474|Gymnos}} as he claimed the ridge above,
+"Where {{c|1459|Lycos}} cannot grow, I find my care
 And plant my children with the wind's own love.
 
 No water need I find to carry sperm—
@@ -35,20 +35,20 @@ I place my pollen on the wind to blow
 Across the valley to the waiting term
 Of ovule where my children start to grow."
 
-Four children bore great {{c|Gymnos}} in his days
+Four children bore great {{c|1474|Gymnos}} in his days
 To carry on the naked-seeded line:
-First {{c|Cordaios}}, lord of coal-swamp ways,
-Then {{c|Cycados}}, then {{c|Conifera}} fine,
+First {{c|1700|Cordaios}}, lord of coal-swamp ways,
+Then {{c|1701|Cycados}}, then {{c|1702|Conifera}} fine,
 
-And last of all came {{c|Ginkga}} ancient-old
+And last of all came {{c|1703|Ginkga}} ancient-old
 Who'd outlast every other of the four
 To stand alone like living stories told
 From when the dinosaurs would walk no more.
 
-Great {{c|Cordaios}} was the first to tower
+Great {{c|1700|Cordaios}} was the first to tower
 Above the {{x|Carboniferous}} forest floor:
 A tree of forty meters, hour by hour
-He'd grown to match the {{c|Lepidos}} before.
+He'd grown to match the {{c|847|Lepidos}} before.
 
 His long and strap-like leaves were something new—
 No frond, no scale, no spore-cone here below,
@@ -60,7 +60,7 @@ Of female cones that opened to the air—
 No shelter but the wind that never fails
 To carry tiny seeds to somewhere fair.
 
-And {{c|Cordaios}} grew beside the swamp
+And {{c|1700|Cordaios}} grew beside the swamp
 In vast and shadowy groves of coal-to-be
 That would in ages hence give flame its stomp
 On industry—his body, crushed, set free
@@ -70,7 +70,7 @@ Of mountain ranges in the modern years:
 The carbon that he built from ancient dreams
 Now rises with the smoke that engineering bears.
 
-But {{c|Cycados}} had chosen something strange:
+But {{c|1701|Cycados}} had chosen something strange:
 He grew more slowly, kept his fronds like palms,
 And learned to live across the widest range
 Of seasons, drought, and heat without the qualms
@@ -90,14 +90,14 @@ Where cycads spread their fronds and grew their cones
 Was richer than the bare land left unfurled
 By those who worked in solitude alone.
 
-Great {{c|Conifera}} chose to grow in cold
+Great {{c|1702|Conifera}} chose to grow in cold
 And dry and rocky places shunned by all—
 On mountainsides and ridges bare and bold
 Where other trees would freeze or fail to call
 
 The growing season long enough to fill
 A full canopy of leafy green—
-So {{c|Conifera}} built a needle still
+So {{c|1702|Conifera}} built a needle still
 And small that slows the water-leaving scene.
 
 The needle: leaf reduced to spike so fine
@@ -115,7 +115,7 @@ A woody armor over every seed
 Until the warmth returns to let them go
 And scatter where new forests are to seed.
 
-Then there is {{c|Ginkga}}, most ancient of all—
+Then there is {{c|1703|Ginkga}}, most ancient of all—
 A fan-shaped leaf like none that came before,
 Who'd watch the dinosaurs both rise and fall
 And still be standing after all their roar
@@ -127,7 +127,7 @@ And make of permanence the highest sort
 
 Of evolutionary wisdom: being old
 Is being tested and being found to last,
-And {{c|Ginkga}}'s children tell the world they hold
+And {{c|1703|Ginkga}}'s children tell the world they hold
 A place no force has managed to erase past.
 
 The naked seed teaches us that sometimes
@@ -140,12 +140,12 @@ Can root and grow without a mother's care—
 Self-sufficient, sealed against all need
 For anything but earth and light and air.
 
-Honor great {{c|Gymnos}} and his naked-seeded line:
+Honor great {{c|1474|Gymnos}} and his naked-seeded line:
 The cycad's patience, conifer's cold might,
 The cordaitalean grove beside the brine,
 The ginkgo standing through all change in sight.
 
-From {{c|Gymnos}}' hillside where the wind blows free
+From {{c|1474|Gymnos}}' hillside where the wind blows free
 To forests that shall outlast all we know,
 The gymnosperms remind us to be
 The ones who plant where others dare not go.

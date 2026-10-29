@@ -30,7 +30,7 @@ In clay and limestone—the most singular art
 Of {{p|Europe}}'s {{p|Neolithic}}, and the reply,
 In {{p|Malta}}'s idiom, to an older heart:
 
-The mother {{c|Marija Gimbutas}} found
+The mother {{c|1900|Marija Gimbutas}} found
 Beneath Old {{p|Europe}}, before the horsemen came;
 The {{p|Venus of Willendorf}} on other ground,
 {{p|Cucuteni-Trypillia}}'s clay—the same

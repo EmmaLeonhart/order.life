@@ -16,25 +16,25 @@ Two figures now—two continents apart,
 Two centuries apart—and yet the wraith
 Of the same archetype beats at the heart
 
-Of both: the {{c|Redeemer}} who descends,
+Of both: the {{c|3490|Redeemer}} who descends,
 Who teaches peace, who builds the law,
 Who departs before his mission ends,
 And whose leaving is the deepest awe
 
 The people know.
 
-                 In {{p|Tula}}—the {{c|Toltec}}
+                 In {{p|Tula}}—the {{c|3464|Toltec}}
 Capital of central {{p|Mexico}},
 Where the warrior-columns stand erect
 And grim upon the pyramid—below
 
 The legend and above the history,
-A figure walks: {{c|Ce Acatl Topiltzin}},
+A figure walks: {{c|3491|Ce Acatl Topiltzin}},
 Born on the day {{x|One Reed}}, the mystery
 Of the priest-king who was also in
 
-The service of the {{c|Feathered Serpent}}—
-{{c|Quetzalcoatl}}, the wind, the breath,
+The service of the {{c|3492|Feathered Serpent}}—
+{{c|3493|Quetzalcoatl}}, the wind, the breath,
 The morning star whose rise and the concordant
 Setting of the evening star meant death
 
@@ -46,21 +46,21 @@ Of the temple's inner sanctum, and who bore
 The name of civilization's gift itself:
 The corn, the calendar, the arts of peace,
 The writing and the wisdom on the shelf
-Of every {{c|Toltec}} scribe—the release
+Of every {{c|3464|Toltec}} scribe—the release
 
 Of human culture from the grip of war.
 
-{{c|Topiltzin}} taught that human sacrifice
+{{c|3494|Topiltzin}} taught that human sacrifice
 Was abomination—that the floor
 Of the temple should be clean of the device
 
 Of the obsidian blade, that butterflies
 And flowers were the only offerings
-The {{c|Feathered Serpent}} required, the ties
+The {{c|3492|Feathered Serpent}} required, the ties
 Between the human and the divine were strings
 
 Of beauty, not of blood—and for this teaching
-The priesthood of {{c|Tezcatlipoca}}—
+The priesthood of {{c|3495|Tezcatlipoca}}—
 The smoking mirror, the overreaching
 Lord of sorcery, the mocker
 
@@ -95,7 +95,7 @@ Once more the way of flowers and not blood.
 
 And a {{x|Reed}} year fell in fifteen nineteen—
 And from the east, across the flood,
-The ships of {{c|Cortés}} were seen.
+The ships of {{c|3496|Cortés}} were seen.
 
 But that is the later chapter's grief.
 
@@ -103,21 +103,21 @@ But that is the later chapter's grief.
 A thousand miles and two centuries' brief
 And pivotal remove, a figure came forth
 
-Whose name the {{c|Haudenosaunee}} remember
+Whose name the {{c|3497|Haudenosaunee}} remember
 Not as history but as the living root
 Of their constitution: in the ember
 Of the longhouse fire, the resolute
 
-And sacred teaching of the {{c|Peacemaker}}.
+And sacred teaching of the {{c|3498|Peacemaker}}.
 
 He came across the water—{{p|Lake Ontario}}'s
 Northern shore—a stranger, a forsaker
-Of his own {{c|Huron}} people, whose scenario
+Of his own {{c|3499|Huron}} people, whose scenario
 
-Was this: the {{c|Haudenosaunee}} nations—
-Five peoples of the eastern woodland: {{c|Seneca}},
-{{c|Cayuga}}, {{c|Onondaga}}, the formations
-Of {{c|Oneida}} and {{c|Mohawk}}—a replica
+Was this: the {{c|3497|Haudenosaunee}} nations—
+Five peoples of the eastern woodland: {{c|3500|Seneca}},
+{{c|3501|Cayuga}}, {{c|3502|Onondaga}}, the formations
+Of {{c|3503|Oneida}} and {{c|3504|Mohawk}}—a replica
 
 Of every human failure—were at war.
 
@@ -127,17 +127,17 @@ The killing of a son to avenge a brother,
 
 The cycle of revenge that ate
 The nations from within like a disease—
-And into this the {{c|Peacemaker}} came late
+And into this the {{c|3498|Peacemaker}} came late
 Or early, and proposed the appease-
 
 Ment of all grief through the {{x|Great Law}}.
 
-The {{c|Great Law of Peace}}—the {{x|Gayanashagowa}}—
+The {{c|3505|Great Law of Peace}}—the {{x|Gayanashagowa}}—
 The constitution that would overawe
-The modern founders of the {{c|American}} {{p|Iowa}}
+The modern founders of the {{c|3484|American}} {{p|Iowa}}
 
 And {{p|Philadelphia}} convention both,
-For the {{c|Haudenosaunee}} league was this:
+For the {{c|3497|Haudenosaunee}} league was this:
 Five nations bound by a single oath
 Beneath one roof, the synthesis
 
@@ -158,16 +158,16 @@ Both held voice in the ancient tradition—
 
 And war required the consent of all.
 
-The {{c|Peacemaker}} planted the {{c|Great White Pine}}—
+The {{c|3498|Peacemaker}} planted the {{c|3506|Great White Pine}}—
 The {{x|Tree of Peace}}—and beneath its tall
 And sheltering branches the design
 
 Of the five-fire longhouse was laid down:
-From east to west—{{c|Mohawk}} the keeper
+From east to west—{{c|3504|Mohawk}} the keeper
 Of the eastern door, to the crown
-Of {{c|Seneca}} the western, and the deeper
+Of {{c|3500|Seneca}} the western, and the deeper
 
-Center held by {{c|Onondaga}}'s fire-keeper,
+Center held by {{c|3502|Onondaga}}'s fire-keeper,
 The speaker for the league, the living memory
 Of every law—and the sleeper
 Beneath the roots was the weaponry
@@ -179,9 +179,9 @@ The arrow snapped—and all were free
 
 Of the blood-feud's ancient, endless chain.
 
-And then the {{c|Peacemaker}} departed.
+And then the {{c|3498|Peacemaker}} departed.
 
-Like {{c|Topiltzin}} before him, the refrain
+Like {{c|3494|Topiltzin}} before him, the refrain
 Is the same: the teacher broken-hearted
 
 Or fulfilled, who walks into the west
@@ -194,7 +194,7 @@ And the people, left behind, must choose
 Between the teaching and the ghost
 Of violence they were asked to lose.
 
-Two {{c|Redeemers}}—one of feathers, one of pine,
+Two {{c|3507|Redeemers}}—one of feathers, one of pine,
 One of the {{p|Toltec}} pyramid, one of the longhouse floor,
 One who became the morning star's design,
 One who planted the tree and closed the door—
@@ -211,7 +211,7 @@ And determined will of those who say
 
 We will keep it.
 
-                 Honor the {{c|Redeemer}}—
+                 Honor the {{c|3490|Redeemer}}—
 The one who carries heaven's aching weight
 And sets it down before the dreamer
 And the warrior alike, and says: create
@@ -224,7 +224,7 @@ In peace, the nations—the disenchanted
 And the warring—lay their weapons down
 And choose the harder path: the covenant
 Of the healed, the shared, the ungrasped crown
-Of power—the {{c|Redeemer}}'s testament
+Of power—the {{c|3490|Redeemer}}'s testament
 
 Is always this: I came, I taught, I leave—
 And what you build without me is the proof
@@ -238,7 +238,7 @@ Its warmth for those who keep the line
 
 Of the teaching: choose the flower, not the blade.
 Choose the council, not the war.
-Choose the covenant the {{c|Redeemer}} made,
+Choose the covenant the {{c|3490|Redeemer}} made,
 And he will come again—but not before
 
 You prove you can sustain the peace without him.

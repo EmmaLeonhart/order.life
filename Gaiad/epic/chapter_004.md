@@ -1,32 +1,32 @@
 # Chapter 4: The First Lovers Among the Stars
 
-The tale of {{c|Rhodes}} and {{c|Marigold}} begins,
+The tale of {{c|19|Rhodes}} and {{c|20|Marigold}} begins,
 A union forged in stars, their love so bright.
 The first of lovers bound, their fate still spins,
 A cosmic dance that guides us through the night.
 
-{{c|Rhodes}}, son of {{c|Ruby}}, dim with crimson glow,
-And {{c|Marigold}}, of {{c|Chrystella}}'s bright line,
+{{c|19|Rhodes}}, son of {{c|15|Ruby}}, dim with crimson glow,
+And {{c|20|Marigold}}, of {{c|16|Chrystella}}'s bright line,
 Were joined in love, the stars watched from below,
 The first celestial bond, forever fine.
 
 Their love was strong, unwavering and true,
-Though {{c|Marigold}} was bright, a shining flame,
-While {{c|Rhodes}}, much smaller, dim in ruby hue,
+Though {{c|20|Marigold}} was bright, a shining flame,
+While {{c|19|Rhodes}}, much smaller, dim in ruby hue,
 Yet still their hearts burned with a single name.
 
-As years passed on, {{c|Marigold}}'s light grew red,
+As years passed on, {{c|20|Marigold}}'s light grew red,
 Her youthful glow now fading into age.
-She gave her breath to {{c|Rhodes}}, who soared ahead,
+She gave her breath to {{c|19|Rhodes}}, who soared ahead,
 And shone with yellow light, her bright young stage.
 
-As {{c|Marigold}} grew small, her light turned white,
-Yet {{c|Rhodes}} stayed close, his glow now burning red.
+As {{c|20|Marigold}} grew small, her light turned white,
+Yet {{c|19|Rhodes}} stayed close, his glow now burning red.
 From novas born, came lithium's bright light,
 A starry gift, as love between them spread.
 
 The nova's burst had filled his heart with fear,
-So {{c|Rhodes}} withheld his gift for many years.
+So {{c|19|Rhodes}} withheld his gift for many years.
 For twenty-five, the skies stayed calm and clear,
 Until again, their love burst forth with cheers.
 

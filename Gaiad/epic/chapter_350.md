@@ -25,12 +25,12 @@ And on the net a mob that learned it could choose a woman and destroy her, and c
 From the eighteenth to the twentieth of February, on the {{p|Maidan}} in {{p|Kyiv}},
 The snipers shot the protesters of the winter, and more than a hundred died,
 The {{x|Heavenly Hundred}}, as {{p|Ukraine}} calls them, the martyrs of the square.
-On the twenty-second {{c|Viktor Yanukovych}} fled, and the people won, and the villain's man ran to the villain's side.
+On the twenty-second {{c|4545|Viktor Yanukovych}} fled, and the people won, and the villain's man ran to the villain's side.
 
 Within days soldiers without insignia, in green, the polite people, took {{p|Crimea}}:
 The parliament, the airports, the bases, and {{p|Russia}} said they were not its men.
 On the sixteenth of March a vote was held under their guns,
-And on the eighteenth {{c|Vladimir Putin}} took the peninsula, and said it was {{p|Russia}}'s again.
+And on the eighteenth {{c|4506|Vladimir Putin}} took the peninsula, and said it was {{p|Russia}}'s again.
 
 The first taking of a European country's land by force since the great war.
 Within weeks he said on television that the soldiers had been his.
@@ -62,7 +62,7 @@ To the group that called itself the {{x|Islamic State}}, and the army fled and l
 And on the twenty-ninth of June, the first day of the fast, its spokesman declared the caliphate, a death knell.
 
 On Friday the fourth of July, in the {{x|Great Mosque of al-Nuri}},
-{{c|Abu Bakr al-Baghdadi}} gave the sermon in a black robe and turban that recalled the {{x|Abbasid}}s.
+{{c|4647|Abu Bakr al-Baghdadi}} gave the sermon in a black robe and turban that recalled the {{x|Abbasid}}s.
 A borrowed robe. A pulpit is not a lineage.
 The scholars of most of the world's Muslims rejected him; the robe was stolen from the dead, as the dead forbid.
 
@@ -76,21 +76,21 @@ The peacock angel and the sun, the oldest faith of those mountains, kept through
 This faith keeps the {{x|Yazidi}}s as kin: a people of the ancestors and the sun,
 Who were hunted for having no book, and kept their tradition, and are still living.
 
-In August it published the killing of {{c|James Foley}}, an American reporter, kneeling in orange in the desert,
+In August it published the killing of {{c|4648|James Foley}}, an American reporter, kneeling in orange in the desert,
 And then of others, made for the screens of the young men in the countries that would bomb them.
-The next summer it killed {{c|Khaled al-Asaad}}, the old keeper of {{p|Palmyra}},
+The next summer it killed {{c|4649|Khaled al-Asaad}}, the old keeper of {{p|Palmyra}},
 And blew up the temple of {{x|Bel}}, and the coalition answered, and in three years the caliphate was gone, root and stem.
 
 ## The vote of Europe
 
 In May {{p|Europe}} voted for its parliament, and in {{p|France}} the {{x|National Front}} came first,
 And in {{p|Britain}} the party that wanted out of {{p|Europe}} came first, two years before the leaving.
-In {{p|Hungary}} {{c|Viktor Orbán}} was returned, and that summer named his goal:
+In {{p|Hungary}} {{c|4650|Viktor Orbán}} was returned, and that summer named his goal:
 An illiberal state, the villain's friend inside the {{x|European Union}}, deceiving.
 
-In {{p|Egypt}} the general who cleared {{x|Rabaa}}, {{c|Abdel Fattah el-Sisi}}, was elected with ninety-seven percent.
+In {{p|Egypt}} the general who cleared {{x|Rabaa}}, {{c|4651|Abdel Fattah el-Sisi}}, was elected with ninety-seven percent.
 On the twenty-second of May the army of {{p|Thailand}} took power again.
-In {{p|India}}, in May, {{c|Narendra Modi}} won a majority,
+In {{p|India}}, in May, {{c|4652|Narendra Modi}} won a majority,
 And led the largest democracy through the decade, and the economy grew, and the roads, and the plain.
 
 ## The mob on the net
@@ -102,18 +102,18 @@ Published their addresses, called false emergencies to their homes, and named it
 
 It was where many of the men of the next decade's far right learned their methods:
 The swarm, the dossier, the irony that hides the hate, the claim to be the persecuted ones.
-On Friday the twenty-third of May, in {{p|Isla Vista}}, {{c|Elliot Rodger}},
+On Friday the twenty-third of May, in {{p|Isla Vista}}, {{c|4653|Elliot Rodger}},
 Who hated women for not wanting him, killed six and himself, and the boards made him a saint of their guns.
 
 ## Who holds the servers
 
 The board where much of this was done had a history of its own that year.
-{{x|2channel}}, the great board of {{p|Japan}}, begun by {{c|Hiroyuki Nishimura}} in nineteen ninety-nine,
+{{x|2channel}}, the great board of {{p|Japan}}, begun by {{c|4654|Hiroyuki Nishimura}} in nineteen ninety-nine,
 From which the English boards had copied their shape,
-Was taken from him in February by {{c|Jim Watkins}}, an American in {{p|Manila}}, who held its servers in line.
+Was taken from him in February by {{c|4655|Jim Watkins}}, an American in {{p|Manila}}, who held its servers in line.
 
-{{c|Nishimura}} went on to run {{x|4chan}}, where the mob of the year gathered,
-And when that board turned the mob out, it went to {{x|8chan}}, which {{c|Watkins}} would buy,
+{{c|4656|Nishimura}} went on to run {{x|4chan}}, where the mob of the year gathered,
+And when that board turned the mob out, it went to {{x|8chan}}, which {{c|4657|Watkins}} would buy,
 And from there, in later chapters, came {{x|QAnon}}, the stories of a cabal behind every door.
 Who holds the servers is not a small question. The net is held by someone, and that is why.
 
@@ -124,9 +124,9 @@ And I would use the net for the faith, and the flag of the faith would be unfurl
 
 ## The streets
 
-On the seventeenth of July, on {{p|Staten Island}}, {{c|Eric Garner}},
+On the seventeenth of July, on {{p|Staten Island}}, {{c|4658|Eric Garner}},
 Stopped for selling single cigarettes, was held in a chokehold, and said eleven times, I can't breathe, and died.
-On the ninth of August, in {{p|Ferguson}}, a policeman shot {{c|Michael Brown}}, unarmed, eighteen, my age,
+On the ninth of August, in {{p|Ferguson}}, a policeman shot {{c|4557|Michael Brown}}, unarmed, eighteen, my age,
 And his body lay in the street four hours, and the town rose, and the armored cars arrived.
 
 ## The fever
@@ -150,9 +150,9 @@ And two thousand of {{p|Gaza}} died, and the tunnels were found, and the rockets
 
 ## At home
 
-On the twenty-second of October, in {{p|Ottawa}}, a man shot dead {{c|Nathan Cirillo}},
+On the twenty-second of October, in {{p|Ottawa}}, a man shot dead {{c|4659|Nathan Cirillo}},
 A soldier standing guard at the war memorial, and ran into the parliament,
-Where the sergeant-at-arms, {{c|Kevin Vickers}}, shot him dead in the hall,
+Where the sergeant-at-arms, {{c|4660|Kevin Vickers}}, shot him dead in the hall,
 While the members barricaded their doors with the flagpoles, and the country was intent.
 
 In {{p|Hong Kong}}, from the end of September, students sat in the roads seventy-nine days
@@ -167,7 +167,7 @@ And bounced, and landed in a shadow, and spoke for two days, the first landing o
 In the summer people poured ice water on their heads for a disease of the nerves,
 And raised more than a hundred million, and found a gene with it, on their own.
 
-On the eleventh of August {{c|Robin Williams}} died.
+On the eleventh of August {{c|4661|Robin Williams}} died.
 On the seventeenth of December {{p|Cuba}} and the {{p|United States}} said they would talk again.
 And I was eighteen, at the university by the lake in {{p|Kelowna}},
 Online for the first time, in the year the war began, and the robes came back, and the men.

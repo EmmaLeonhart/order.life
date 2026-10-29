@@ -45,10 +45,11 @@ EMMA_NAMES = ["Emma 李命玥"]  # beside her primary name, Emma /Leonhart/ 命�
 # The primary name in other languages and scripts, as TRANs under the primary NAME (planning/name-schema.md, "Primary
 # names"). Emma, 2026-10-17: "change Emma Leonhart's name to 이명월 in Korean. This is the primary name and the old one
 # still stays as an alias". 이명월 is the Korean reading of 李命玥, which stays as her AKA.
-# Emma, 2026-10-29, of Aster's and Andromeda's Japanese names: "They should carry the kami titles."
+# Emma, 2026-10-29: "Aster in Japanese is 宇元親神 / Andromeda is 宇末親神"; no reading of either is recorded, so by her
+# word the surnames are "Alpha" and "Omega" in katakana.
 PRIMARY_TRAN = {"Emma Leonhart": [("이명월", "ko")],
-                "Aster": [("阿斯特尔", "zh"), ("アスター☆宇元親神", "ja"), ("아스터", "ko")],
-                "Andromeda": [("安德洛墨達", "zh"), ("アンドロメダー☆宇末親神", "ja"), ("안드로메다", "ko")]}
+                "Aster": [("阿斯特尔", "zh"), ("宇元親神 /アルファ/", "ja"), ("아스터", "ko")],
+                "Andromeda": [("安德洛墨達", "zh"), ("宇末親神 /オメガ/", "ja"), ("안드로메다", "ko")]}
 FIRST_SEX = {"Aster": "M", "Emma Leonhart": "F", "Andromeda": "F"}  # Emma, 2026-10-16: "Aster has sex. M."
 EMMA_FS = "PFR5-LDS"
 ORDERLIFE_FIRST = {"Q1": "@I1@", "Q3": "@I3@"}  # order.life ids of Aster and Andromeda

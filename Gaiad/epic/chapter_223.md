@@ -22,13 +22,13 @@ On panel and on plaster, trace
 
 The image of something almost divine.
 
-{{c|Cosimo de' Medici}} lit the match—
+{{c|3378|Cosimo de' Medici}} lit the match—
 The banker whose gold could undermine
 No nation but the darkness, the dispatch
 
 Of florins not for war alone
 But for the painter's pigment and the scholar's
-Manuscript—the {{c|Medici}} had grown
+Manuscript—the {{c|3312|Medici}} had grown
 Rich on letters of credit, on the dollars
 
 Of the fifteenth century, the bill
@@ -37,8 +37,8 @@ Without moving gold—and with that skill
 They purchased not more kingdoms but the hope
 
 Of beauty's rescue from the well
-Of time: the manuscript of {{c|Plato}},
-The treatise of {{c|Aristotle}}—the spell
+Of time: the manuscript of {{c|2376|Plato}},
+The treatise of {{c|1081|Aristotle}}—the spell
 Of the ancient world, the lost libretto
 
 Of the Greek and Roman mind restored
@@ -49,12 +49,12 @@ The resurrection and the new alliance.
 For {{p|Constantinople}} had fallen—
 The year was fourteen fifty-three, the storied
 And eternal city heard its pollen
-Crushed beneath the {{c|Ottoman}} siege—the gloried
+Crushed beneath the {{c|3341|Ottoman}} siege—the gloried
 
 Scholars fled westward, carrying
 The last manuscripts, the treasure
 Of the Greek inheritance, ferrying
-{{c|Homer}} and {{c|Euclid}} past all measure
+{{c|1957|Homer}} and {{c|2408|Euclid}} past all measure
 
 Of the {{p|Mediterranean}} to {{p|Italy}}'s
 Welcoming shore—the alchemy
@@ -66,7 +66,7 @@ Of the classical world, wind-tossed
 Across the sea, took root in the freed
 And fertile soil where nothing would be lost.
 
-And {{c|Brunelleschi}} raised the dome—
+And {{c|3313|Brunelleschi}} raised the dome—
 The impossible dome, the gritty
 And audacious crown of {{p|Florence}}'s home,
 The jewel of the Tuscan city:
@@ -77,7 +77,7 @@ Too vast for any vault—the story
 Of medieval failure, the sentry
 
 Of the unfinished standing open to the rain—
-Until {{c|Brunelleschi}} said: no centering,
+Until {{c|3313|Brunelleschi}} said: no centering,
 No wooden frame across the vast terrain—
 The dome self-entering
 
@@ -86,14 +86,14 @@ In a herringbone of brick that locked
 Each course to the last—the engineering
 Of a mind that had unlocked
 
-The {{c|Roman}} secret of the {{p|Pantheon}}
+The {{c|3340|Roman}} secret of the {{p|Pantheon}}
 And surpassed it—double-shelled, immense,
 The dome became the paragon
 Of what the human intellect, against all precedence,
 
 Can solve.
 
-            And {{c|Leonardo}}—
+            And {{c|3379|Leonardo}}—
 The universal man, the one
 Whose notebooks were the memorandum
 Of a mind that found the sun
@@ -106,17 +106,17 @@ Of the unborn child curled tight
 Within the womb—he drew it all,
 And what he drew he understood,
 And what he understood was the call
-Of {{c|Aster}}'s voice in flesh and wood
+Of {{c|1|Aster}}'s voice in flesh and wood
 
 And water and the mathematics
-Of the beautiful—for {{c|Leonardo}} saw
+Of the beautiful—for {{c|3379|Leonardo}} saw
 No border between the art's gymnastics
 And the scientist's exacting law:
 
 Both were the discipline of seeing clearly,
 And he saw.
 
-                And {{c|Michelangelo}}—the sculptor
+                And {{c|3380|Michelangelo}}—the sculptor
 Who released the figure from the stone,
 Who said the marble held the sepulcher
 
@@ -126,7 +126,7 @@ And waiting for the chisel's liberation—
 He struck the {{p|Sistine}} ceiling's rock
 
 Of plaster with the creation
-Of {{c|Adam}}: the finger reaching out,
+Of {{c|1834|Adam}}: the finger reaching out,
 The gap between the human and divine
 So small, so charged with the devout
 
@@ -142,7 +142,7 @@ The electrified and sacred air
 
 Of the almost-meeting where the beautiful is born.
 
-And {{c|Botticelli}} painted {{c|Venus}} rising
+And {{c|3381|Botticelli}} painted {{c|95|Venus}} rising
 From the foam—the ancient goddess, worn
 And forgotten, now surprising
 
@@ -151,7 +151,7 @@ The wind-blown hair, the modest hand,
 The allegory no theologian could quell:
 That beauty is the oldest sacrament of the land.
 
-And {{c|Gutenberg}}—in {{p|Mainz}}, beside the {{p|Rhine}},
+And {{c|3217|Gutenberg}}—in {{p|Mainz}}, beside the {{p|Rhine}},
 The goldsmith turned the screw-press to the page
 And printed what had been the shrine
 Of the monastery's privilege: the cage
@@ -171,7 +171,7 @@ The medieval door swung wide—the blessed
 And irreversible switch
 That gave every thought its manifest.
 
-And {{c|Machiavelli}} wrote the truth—
+And {{c|2428|Machiavelli}} wrote the truth—
 Not the truth the princes wished to hide
 But the unvarnished and uncouth
 Mechanics of the state: that the divide
@@ -221,7 +221,7 @@ That the hand and eye are instruments of praise,
 That the mind, unshackled in its youth,
 Can build the dome and paint the days
 
-And print the word—and that the love called {{c|Aster}}
+And print the word—and that the love called {{c|1|Aster}}
 Burns brightest in the ones who create:
 The painter, sculptor, builder, and the master
 Of the press who gave the word its weight.

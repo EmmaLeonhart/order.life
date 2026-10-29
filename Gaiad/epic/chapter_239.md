@@ -3,7 +3,7 @@
 The island city rose from the lake like a prayer
 Answered in stone and floating garden—
 {{p|Tenochtitlan}}, the jewel beyond compare,
-Where {{c|Huitzilopochtli}}'s children did not harden
+Where {{c|3508|Huitzilopochtli}}'s children did not harden
 
 Against the beauty of the world but built it
 Into causeways spanning the wide water,
@@ -30,12 +30,12 @@ And the skull-rack's grim accounting—
 For {{p|Tenochtitlan}} was not undone
 By squeamishness; the mounting
 
-Tribute of the {{c|Triple Alliance}}'s wars
+Tribute of the {{c|3509|Triple Alliance}}'s wars
 Fed the empire's hunger and the altar's need,
-And {{c|Moctezuma}} ruled from floors
+And {{c|3510|Moctezuma}} ruled from floors
 Of polished stone, the guaranteed
 
-And absolute lord of the {{c|Mexica}} domain—
+And absolute lord of the {{c|3511|Mexica}} domain—
 {{p|Texcoco}} and {{p|Tlacopan}} beside him,
 Three cities yoked beneath the sovereign chain
 Of the alliance no rebellion could rescind.
@@ -51,7 +51,7 @@ Vanilla, rubber, cotton looms,
 Copal incense, and the jeweled tools
 
 Of the lapidary and the goldsmith's art—
-The {{c|Spaniards}} who would see it later
+The {{c|3512|Spaniards}} who would see it later
 Swore they had never seen in any mart
 Of {{p|Europe}} a bazaar this greater.
 
@@ -69,67 +69,67 @@ Of their keepers fed an empire.
 
                                     Then the sails.
 
-In fifteen-nineteen, {{c|Hernán Cortés}}
+In fifteen-nineteen, {{c|3513|Hernán Cortés}}
 Stepped ashore with horses—and the tales
-That the {{c|Totonacs}} told of the {{c|Mexica}}'s ways
+That the {{c|3514|Totonacs}} told of the {{c|3511|Mexica}}'s ways
 
 Gave him the lever and the crack:
 The tributary peoples, ground beneath
-The {{c|Triple Alliance}}'s heavy rack
+The {{c|3509|Triple Alliance}}'s heavy rack
 Of flower-war and tax, bequeathed
 
 Their resentment to the stranger's cause—
-{{c|Cortés}} did not conquer {{p|Mexico}} alone;
-He shattered the {{c|Mexica}}'s laws
-With {{c|Mexica}}'s own enemies, the bone
+{{c|3496|Cortés}} did not conquer {{p|Mexico}} alone;
+He shattered the {{c|3511|Mexica}}'s laws
+With {{c|3511|Mexica}}'s own enemies, the bone
 
 Of alliance turned against itself.
 
-And {{c|Moctezuma}} hesitated.
-Was this {{c|Quetzalcoatl}} returned from the shelf
+And {{c|3510|Moctezuma}} hesitated.
+Was this {{c|3493|Quetzalcoatl}} returned from the shelf
 Of the eastern sea? The long-awaited
 
-{{c|Feathered Serpent}}'s prophesied return?
+{{c|3492|Feathered Serpent}}'s prophesied return?
 Or was this merely one more ambassador
 From a distant lord? The concern
 Of the emperor was the corridor
 
 Between theology and statecraft—
 And while he weighed the omens and the signs,
-{{c|Cortés}} advanced, and the shaft
-Of {{c|European}} purpose crossed the lines
+{{c|3496|Cortés}} advanced, and the shaft
+Of {{c|3401|European}} purpose crossed the lines
 
-Of {{c|Mexica}} diplomacy like a blade
+Of {{c|3511|Mexica}} diplomacy like a blade
 Through silk.
 
                 They met in the great causeway—
-{{c|Moctezuma}} in his jade
+{{c|3510|Moctezuma}} in his jade
 And gold and feathered headdress, the display
 
-Of an empire's magnificence—and {{c|Cortés}}
+Of an empire's magnificence—and {{c|3496|Cortés}}
 In rusted iron and the reek
 Of the unwashed conquistador's malaise,
 His handful of adventurers, weak
 
 In number but armored in the certainty
-That {{c|God}} and gold were the same pursuit.
+That {{c|472|God}} and gold were the same pursuit.
 
-And then—the massacre. The {{c|Noche Triste}}'s
+And then—the massacre. The {{c|3515|Noche Triste}}'s
 Rout through the causeways, the absolute
-And bloody expulsion of the {{c|Spanish}}—
+And bloody expulsion of the {{c|3516|Spanish}}—
 
 But they returned. They always returned.
 
-With {{c|Tlaxcalan}} allies who would vanquish
-Their ancient {{c|Mexica}} foes, {{c|Cortés}} had learned
+With {{c|3517|Tlaxcalan}} allies who would vanquish
+Their ancient {{c|3511|Mexica}} foes, {{c|3496|Cortés}} had learned
 The lesson every empire fears: the subject
 Peoples' hatred is the invader's gift.
 
 And the invisible ally—the object
 Too small for any eye—the swift
 
-And terrible {{c|Cocoliztli}}, the plague
-That ran ahead of every {{c|Spanish}} boot:
+And terrible {{c|3518|Cocoliztli}}, the plague
+That ran ahead of every {{c|3516|Spanish}} boot:
 Smallpox, whose advance was vague
 And silent and whose absolute
 
@@ -139,17 +139,17 @@ Through the palace and the gourd-
 Worker's hut, through the targets
 
 Of the healthy and the strong alike,
-And forty percent of the {{c|Mexica}} fell
+And forty percent of the {{c|3511|Mexica}} fell
 Before a single soldier's pike
 Had breached the final citadel.
 
 The siege of {{p|Tenochtitlan}}—eighty days
 Of starvation, thirst, and cannonade,
 The causeways cut, the waterways
-Controlled by brigantines that {{c|Cortés}} made
+Controlled by brigantines that {{c|3496|Cortés}} made
 
 From the timber of the lakeshore trees—
-And {{c|Cuauhtémoc}}, the last tlatoani,
+And {{c|3519|Cuauhtémoc}}, the last tlatoani,
 Fought from the rubble on his knees
 Until the city was a boneyard, and the agony
 
@@ -161,7 +161,7 @@ In the plazas—only the night
 Of the colonial dawn.
 
                           And in the ruin,
-A scribe—call him {{c|Mormon}}, call him
+A scribe—call him {{c|3520|Mormon}}, call him
 The keeper of the record's accruin'
 And desperate preservation, the slim
 

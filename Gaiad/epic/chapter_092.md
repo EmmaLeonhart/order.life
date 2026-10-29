@@ -1,27 +1,27 @@
 # Chapter 92: The Cynodont's Vigil
 
 While the great ones ruled the {{x|Triassic}} plains—
-While {{c|Cruros}} held the rivers and the lowlands
-And {{c|Deinos}}' children ran in upland lanes—
-The children of {{c|Cynos}} lived in small commands
+While {{c|1732|Cruros}} held the rivers and the lowlands
+And {{c|1736|Deinos}}' children ran in upland lanes—
+The children of {{c|1673|Cynos}} lived in small commands
 
 Of burrow-dwelling, nighttime, careful kinds
 Who had inherited the {{x|Permian}} loss
 And carried in their milk-producing glands
 And fur-touched skin the memory of the cross
 
-That {{c|Synaps}}' dynasty had borne: the fall
+That {{c|1668|Synaps}}' dynasty had borne: the fall
 From {{x|Permian}} dominance to {{x|Triassic}} shadow,
 From the world's great lords to creatures small
 Enough to hide in any grassy meadow.
 
-For {{c|Cynos}} had been great—remember this—
-His father {{c|Theraps}} and his grandsire {{c|Pelyon}}
+For {{c|1673|Cynos}} had been great—remember this—
+His father {{c|1672|Theraps}} and his grandsire {{c|1670|Pelyon}}
 Had ruled the {{x|Permian}} world in tooth and kiss
 Of predator and grazer—every hellion
 
 And gentle herbivore of the synapsid age
-Had answered to the house of {{c|Synaps}} once—
+Had answered to the house of {{c|1668|Synaps}} once—
 But the {{x|Great Dying}} wrote a different page,
 And those who survived were not the mighty hunts-
 
@@ -31,7 +31,7 @@ And needed least, the underground endurers
 Who outlived the fire and the poisoned feast.
 
 And now, in the {{x|Triassic}}'s middle years,
-The children of {{c|Cynos}} grew smaller still—
+The children of {{c|1673|Cynos}} grew smaller still—
 For the archosaurs above pressed down with fears
 And appetite on anything that filled
 
@@ -44,16 +44,16 @@ And the warm-blooded mammal-kin could mark
 
 Their territory by scent and sound and the feel
 Of whiskers in the dark—those whiskers that
-{{c|Cynos}} had first grown, the sensory wheel
+{{c|1673|Cynos}} had first grown, the sensory wheel
 Of vibrissae that turned the blind and flat
 
 World of the nighttime into a map of touch.
 
 And in the late {{x|Triassic}}, from the smallest
-Of {{c|Cynos}}' shrinking children, came the clutch
-Of the first true mammals—{{c|Mammos}}, the humblest
+Of {{c|1673|Cynos}}' shrinking children, came the clutch
+Of the first true mammals—{{c|1743|Mammos}}, the humblest
 
-Of all the heirs of {{c|Synaps}}' ancient line,
+Of all the heirs of {{c|1668|Synaps}}' ancient line,
 Who bore the full inheritance at last:
 The three ear-bones that heard the world's design
 In frequencies the reptiles could not cast
@@ -63,7 +63,7 @@ Had migrated to the middle ear and become
 The hammer, anvil, stirrup—from the gathers
 Of a hundred million years, the sum
 
-Of {{c|Synaps}}' extra jaw-bone's slow migration
+Of {{c|1668|Synaps}}' extra jaw-bone's slow migration
 Toward a new and finer purpose—hearing,
 Acute and intimate—the transformation
 Of what had been a biting tool, the steering
@@ -73,7 +73,7 @@ And turning it to something new: a sense
 So delicate it heard the forest's tone
 In registers of exquisite consequence.
 
-And milk—{{c|Mammos}} gave his young the gift
+And milk—{{c|1743|Mammos}} gave his young the gift
 Of milk, the mother's body feeding from
 Within itself, the evolutionary shift
 That freed the newborn from the egg's aplomb
@@ -122,6 +122,6 @@ Could never know, and who would outlast them all.
 
 Honor the vigil. Honor the quiet clients
 Of the nighttime world who kept the ancient fire
-Of {{c|Synaps}}' dynasty burning through the dark—
+Of {{c|1668|Synaps}}' dynasty burning through the dark—
 And waited—for the night rewards desire,
 And the patient inherits every empty park.

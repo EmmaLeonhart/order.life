@@ -20,7 +20,7 @@ The rebirth of literacy, through the adoption and modification of
 The {{p|Phoenician}} alphabet. The composition of the {{p|Iliad}} and
 {{p|Odyssey}}, crystallizing centuries of oral tradition into
 
-Written form (traditionally attributed to {{c|Homer}}, a possibly
+Written form (traditionally attributed to {{c|1957|Homer}}, a possibly
 Historical and possibly conventional figure around whom oral
 Traditions coalesced). The founding of the {{p|Olympic Games}} (seven-
 Seventy-six BCE). The establishment of the {{p|Oracle of Delphi}} as
@@ -78,7 +78,7 @@ After subjugating the neighboring {{p|Messenian}} population (the
 {{p|Spartans}} transformed themselves into a warrior caste devoted
 
 Entirely to military training and rule. The laws attributed to
-The legendary lawgiver {{c|Lycurgus}} organized every aspect of
+The legendary lawgiver {{c|2217|Lycurgus}} organized every aspect of
 {{p|Spartan}} life around producing and sustaining elite warriors.
 Male children were taken from their families at age seven and
 
@@ -98,7 +98,7 @@ Military—the famous hoplite phalanx, with its disciplined
 Infantry—was the most feared in the {{p|Greek}} world for nearly three
 
 Centuries. The three hundred {{p|Spartans}} at {{p|Thermopylae}}, standing
-Against {{c|Xerxes}}'s vast army, are a cultural archetype so powerful
+Against {{c|1985|Xerxes}}'s vast army, are a cultural archetype so powerful
 That they still define "heroic last stand" in popular imagination.
 But the cost of {{p|Spartan}} militarism was the intellectual and
 
@@ -112,23 +112,23 @@ Developed in the opposite direction. {{p|Athens}} in the {{p|Archaic}} period
 Was governed by aristocratic families—the {{p|Eupatridae}}—but a
 Series of reforms gradually democratized the political system.
 
-{{c|Solon}}, around five-ninety-four BCE, enacted sweeping legal reforms:
+{{c|2218|Solon}}, around five-ninety-four BCE, enacted sweeping legal reforms:
 He cancelled debts that had reduced poor citizens to slavery, he
 Opened political participation to all citizens regardless of birth
 (Though still ranked by wealth), and he laid the foundation for
 
-Later democratic development. After {{c|Solon}}, {{p|Athens}} underwent a
-Period of tyranny under {{c|Peisistratos}} and his sons (tyranny in the
+Later democratic development. After {{c|2218|Solon}}, {{p|Athens}} underwent a
+Period of tyranny under {{c|2219|Peisistratos}} and his sons (tyranny in the
 {{p|Greek}} sense meant one-man rule that bypassed constitutional forms
-But was not necessarily cruel—{{c|Peisistratos}} was widely considered
+But was not necessarily cruel—{{c|2219|Peisistratos}} was widely considered
 
-A good ruler). After the overthrow of {{c|Hippias}}, the last of the
-{{c|Peisistratid}} tyrants, in five-oh-eight BCE, {{c|Cleisthenes}} instituted
+A good ruler). After the overthrow of {{c|2220|Hippias}}, the last of the
+{{c|2221|Peisistratid}} tyrants, in five-oh-eight BCE, {{c|2222|Cleisthenes}} instituted
 Radical democratic reforms: he reorganized the citizen body into
 Ten new tribes based on geographical deme membership (breaking the
 
 Power of aristocratic kinship networks), he established the
-{{c|Boule}} (council of five hundred citizens selected by lot) as the
+{{c|2223|Boule}} (council of five hundred citizens selected by lot) as the
 Principal executive body, and he gave the {{p|Ecclesia}} (the citizen
 {{x|Assembly}}) supreme legislative power. With these reforms, {{p|Athens}}
 
@@ -172,18 +172,18 @@ Democracy became a cultural hothouse. Its fifth century BCE—
 Between the {{p|Persian Wars}} at its beginning and the {{p|Peloponnesian War}}
 At its end—was one of the most creative periods in human history.
 
-{{p|Athens}} produced the playwrights {{c|Aeschylus}}, {{c|Sophocles}}, {{c|Euripides}},
-And {{c|Aristophanes}}—whose tragedies and comedies founded the
-Western dramatic tradition. It produced the historians {{c|Herodotus}}
-And {{c|Thucydides}}—who invented history as a literary and analytical
+{{p|Athens}} produced the playwrights {{c|2224|Aeschylus}}, {{c|2225|Sophocles}}, {{c|2226|Euripides}},
+And {{c|2227|Aristophanes}}—whose tragedies and comedies founded the
+Western dramatic tradition. It produced the historians {{c|2183|Herodotus}}
+And {{c|2228|Thucydides}}—who invented history as a literary and analytical
 
-Genre. It produced the sculptor {{c|Phidias}}, whose statues of {{c|Athena}}
-And {{c|Zeus}} were the most celebrated of antiquity. It produced the
-Architect {{c|Ictinus}}, whose {{p|Parthenon}} atop the {{p|Acropolis}} remains
+Genre. It produced the sculptor {{c|2229|Phidias}}, whose statues of {{c|1995|Athena}}
+And {{c|2065|Zeus}} were the most celebrated of antiquity. It produced the
+Architect {{c|2230|Ictinus}}, whose {{p|Parthenon}} atop the {{p|Acropolis}} remains
 One of the most influential buildings ever designed. It produced
 
-The politician {{c|Pericles}}, whose leadership and oratory defined
-The golden age. And it produced {{c|Socrates}}, whose radically
+The politician {{c|2231|Pericles}}, whose leadership and oratory defined
+The golden age. And it produced {{c|2232|Socrates}}, whose radically
 Different philosophical method would reshape all subsequent
 Western thought. All within a single city of perhaps fifty
 
@@ -208,13 +208,13 @@ With the older civilizations of {{p|Lydia}}, {{p|Phrygia}}, {{p|Mesopotamia}}, a
 {{p|Egypt}}. They absorbed mathematical, astronomical, and religious
 Ideas from those civilizations. And they began to ask new kinds
 
-Of questions. {{c|Thales of Miletus}}, traditionally dated to the early
+Of questions. {{c|2233|Thales of Miletus}}, traditionally dated to the early
 Sixth century BCE, is commonly identified as the first philosopher.
 He asked: what is everything made of? And he gave an answer:
 Water. All things, he proposed, are ultimately water in different
 
 Forms. The specific claim is less important than the kind of
-Question and the kind of answer. {{c|Thales}} was not asking "what
+Question and the kind of answer. {{c|2234|Thales}} was not asking "what
 Gods created the world?" (the mythological question). He was
 Asking "what is the fundamental substance of the world?" (the
 
@@ -228,12 +228,12 @@ Are just transformations of it. This reasoning was rough by
 Modern standards. But it was a new kind of reasoning. It was
 Reasoning from observation toward general principles, seeking
 
-Naturalistic explanations for observed phenomena. {{c|Thales}} founded
+Naturalistic explanations for observed phenomena. {{c|2234|Thales}} founded
 What would later be called the {{p|Milesian School}}—a tradition of
-{{p|Ionian}} natural philosophy that included {{c|Anaximander}} (who
+{{p|Ionian}} natural philosophy that included {{c|2235|Anaximander}} (who
 Proposed that the primary principle was not water but an
 
-Unbounded and indeterminate stuff, the {{p|apeiron}}), {{c|Anaximenes}}
+Unbounded and indeterminate stuff, the {{p|apeiron}}), {{c|2236|Anaximenes}}
 (Who proposed air as the primary substance), and later thinkers
 Who variously proposed fire, number, being itself, atoms. These
 Thinkers are called the {{p|Pre-Socratics}}, and their work between
@@ -248,12 +248,12 @@ Been answered definitively in two and a half millennia. But the
 Asking of them—in the form of rational argument accountable to
 Observation and logic—began in {{p|Ionia}} in the sixth century BCE.
 
-{{c|Pythagoras of Samos}}, a contemporary of the later {{p|Milesians}},
+{{c|2237|Pythagoras of Samos}}, a contemporary of the later {{p|Milesians}},
 Emigrated to {{p|Croton}} in southern {{p|Italy}} and founded a semi-
 Religious, semi-philosophical community there. {{p|Pythagorean}}
 Teachings emphasized the fundamental role of number in reality.
 
-{{c|Pythagoras}} is credited (probably anachronistically) with the
+{{c|2238|Pythagoras}} is credited (probably anachronistically) with the
 {{p|Pythagorean theorem}}, with the discovery of musical ratios, and
 With the concept that mathematics expresses the deep structure
 Of the cosmos. The {{p|Pythagoreans}} also taught the transmigration
@@ -264,24 +264,24 @@ Their legacy would shape {{p|Plato}}'s philosophy profoundly. The
 Idea that the ultimate structure of reality is mathematical—an
 
 Idea so central to modern physics—traces its {{p|Western}} origin to
-The {{p|Pythagoreans}}. {{c|Heraclitus of Ephesus}}, in the early fifth
+The {{p|Pythagoreans}}. {{c|2239|Heraclitus of Ephesus}}, in the early fifth
 Century BCE, developed a philosophy of flux and opposites. "One
 Cannot step into the same river twice," he famously said. All
 
 Things flow; stability is illusion; reality is the tension of
-Opposites. {{c|Parmenides of Elea}}, working roughly contemporaneously
+Opposites. {{c|2240|Parmenides of Elea}}, working roughly contemporaneously
 In southern {{p|Italy}}, developed exactly the opposite view: change
 Is impossible, being is eternal and unchanging, what appears to
 
-Change is mere illusion. These two opposed positions—the {{c|Heraclitean}}
-And the {{c|Parmenidean}}—frame a dialectic that still structures
+Change is mere illusion. These two opposed positions—the {{c|2241|Heraclitean}}
+And the {{c|2242|Parmenidean}}—frame a dialectic that still structures
 Western philosophy. Every metaphysical debate about the nature
 Of change, of identity, of permanence, of becoming, traces back
 
 To these {{p|pre-Socratic}} arguments. And meanwhile, while these
 Philosophers were working out the structure of reality, the
 Historians were inventing the investigation of human affairs.
-{{c|Herodotus of Halicarnassus}} traveled across the {{p|Mediterranean}}
+{{c|2243|Herodotus of Halicarnassus}} traveled across the {{p|Mediterranean}}
 
 World collecting stories, customs, and accounts. His {{p|Histories}}—
 The first prose historical work in the {{p|Greek}} tradition—covers
@@ -294,7 +294,7 @@ Preserves information about foreign civilizations that would
 Otherwise be lost. He is the father of history in both senses:
 
 The first historian and the origin of much {{p|Greek}} knowledge
-About foreign peoples. {{c|Thucydides}} of {{p|Athens}}, coming a generation
+About foreign peoples. {{c|2228|Thucydides}} of {{p|Athens}}, coming a generation
 Later, wrote a different kind of history. His {{p|History of the
 Peloponnesian War}} is analytical, pitiless, and deeply concerned
 
@@ -303,14 +303,14 @@ Power. He invented the technique of putting speeches into the
 Mouths of historical actors—speeches that render the thinking
 Of political leaders with a depth that bald narrative cannot
 
-Achieve. {{c|Thucydides}} is the ancestor of hard-nosed political
+Achieve. {{c|2228|Thucydides}} is the ancestor of hard-nosed political
 Realism in historical writing. His account of the {{p|Melian Dialogue}}—
 In which the {{p|Athenians}} justify their destruction of {{p|Melos}} with
 The frigid maxim that "the strong do what they can and the weak
 
 Suffer what they must"—is one of the most uncompromising statements
-Of political power ever written. Between {{c|Herodotus}}'s humane
-Inclusiveness and {{c|Thucydides}}'s analytical realism, {{p|Greek}}
+Of political power ever written. Between {{c|2183|Herodotus}}'s humane
+Inclusiveness and {{c|2228|Thucydides}}'s analytical realism, {{p|Greek}}
 Historiography staked out its enduring range.
 
                                                  And all of this—the
@@ -318,22 +318,22 @@ Historiography staked out its enduring range.
 The tragic and comic drama, the architectural and sculptural
 Achievements—all of this happened against the backdrop of the
 
-{{p|Persian Wars}}. In four-ninety BCE, {{c|Darius I}} of {{p|Persia}} sent an
+{{p|Persian Wars}}. In four-ninety BCE, {{c|2178|Darius I}} of {{p|Persia}} sent an
 Expeditionary force against {{p|Athens}} in retaliation for {{p|Athenian}}
 Support of the {{p|Ionian}} revolt. The {{p|Persians}} were defeated at the
 {{p|Battle of Marathon}} by an {{p|Athenian}}-{{p|Plataean}} coalition under the
 
-Generalship of {{c|Miltiades}}. Ten years later, {{c|Xerxes I}} led a far
+Generalship of {{c|2244|Miltiades}}. Ten years later, {{c|2245|Xerxes I}} led a far
 Larger invasion—perhaps the largest military operation the world
 Had yet seen. His army crossed the {{p|Hellespont}} on a bridge of
 Boats. {{p|Leonidas}} and his three hundred {{p|Spartans}}, along with
 
 Several thousand allies, delayed him at {{p|Thermopylae}}. {{p|Athens}}
 Was burned. But at the naval {{p|Battle of Salamis}} (four-eighty BCE),
-The {{p|Greek}} fleet under {{c|Themistocles}} defeated the {{p|Persian}} navy.
+The {{p|Greek}} fleet under {{c|2246|Themistocles}} defeated the {{p|Persian}} navy.
 The following year, at the {{p|Battle of Plataea}}, the combined {{p|Greek}}
 
-Land forces defeated the remaining {{p|Persian}} army. {{c|Xerxes}}
+Land forces defeated the remaining {{p|Persian}} army. {{c|1985|Xerxes}}
 Withdrew. The {{p|Persian}} threat was defeated. The {{p|Greeks}}—by which
 We mean the shifting coalition of city-states that happened to
 Cooperate for this crisis—had preserved their independence from
@@ -359,10 +359,10 @@ Age. And the classical age is what we will explore next.
                                                              {{p|Greece}}.
 {{x|Dark Age}} to {{p|Archaic}} to classical. The {{p|polis}}. {{p|Athens}} and {{p|Sparta}}.
 
-{{p|Ionian}} philosophy—{{c|Thales}}, {{c|Anaximander}}, {{c|Heraclitus}}, {{c|Parmenides}},
-{{c|Pythagoras}}. {{p|Solonian}} reforms. {{p|Cleisthenic}} democracy. The
-{{p|Persian Wars}}—{{p|Marathon}}, {{p|Thermopylae}}, {{p|Salamis}}, {{p|Plataea}}. {{c|Herodotus}}
-And {{c|Thucydides}}. The cultural hothouse taking shape.
+{{p|Ionian}} philosophy—{{c|2234|Thales}}, {{c|2235|Anaximander}}, {{c|2247|Heraclitus}}, {{c|2248|Parmenides}},
+{{c|2238|Pythagoras}}. {{p|Solonian}} reforms. {{p|Cleisthenic}} democracy. The
+{{p|Persian Wars}}—{{p|Marathon}}, {{p|Thermopylae}}, {{p|Salamis}}, {{p|Plataea}}. {{c|2183|Herodotus}}
+And {{c|2228|Thucydides}}. The cultural hothouse taking shape.
 
 Classical {{p|Greece}}, part one. The preparation. The rise of a
 Civilization that would shape all of {{p|Western}} thought.

@@ -78,7 +78,7 @@ And the genetics they had already funded.
 Do not say the project was a weapon, or an apology.
 
 In {{p|Santa Cruz}}, in 1985,
-{{c|Robert Sinsheimer}}, the chancellor, convened a workshop.
+{{c|4470|Robert Sinsheimer}}, the chancellor, convened a workshop.
 It began on the evening of the twenty-fourth of May,
 A Friday, and ended on the morning of the twenty-sixth.
 A gift of thirty-six million dollars,
@@ -95,9 +95,9 @@ In 1988 the {{x|National Research Council}} recommended the effort,
 And that the money be new,
 Not taken from the work already funded.
 In the fall the two agencies signed a memorandum to coordinate.
-{{c|James Wyngaarden}}, director of the institutes, signed.
+{{c|4471|James Wyngaarden}}, director of the institutes, signed.
 The notice gives the fall, and not the day.
-In the same autumn {{c|James Watson}}
+In the same autumn {{c|4408|James Watson}}
 Was appointed to the genome office.
 {{x|The Times}} of the fourth of October, a Tuesday,
 Reported the appointment effective the previous Saturday,

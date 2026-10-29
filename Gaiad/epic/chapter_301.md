@@ -5,18 +5,18 @@ On the eighth of July, 1853, four ships came into the bay at {{p|Uraga}}, near {
 Two of them steaming against the wind, their smoke on the summer sky, a black unknown:
 The *kurofune*, the black ships. The locked country ended in an afternoon. And so
 
-Commodore {{c|Matthew Perry}} of the {{c|United States}} would not go where foreigners were sent,
+Commodore {{c|4228|Matthew Perry}} of the {{c|4229|United States}} would not go where foreigners were sent,
 To {{p|Nagasaki}}; would not deal with minor officials; carried his president's letter, and behind it the gun,
 And said: I will come back for the answer. And he went,
-And came back in February with nine ships; and the shogun's men, who had watched the {{c|Qing}} undone
+And came back in February with nine ships; and the shogun's men, who had watched the {{c|3952|Qing}} undone
 
 By the {{x|British}} in their wars, knew what the guns could do. On the thirty-first of March,
 1854, at {{p|Kanagawa}}, the treaty opened two ports, {{p|Shimoda}} and {{p|Hakodate}}, to {{x|American}} ships, the start
-Of the end of the {{x|Tokugawa}} world. {{c|Perry}} gave gifts: a little steam train on a circle of track, an arch
+Of the end of the {{x|Tokugawa}} world. {{c|1841|Perry}} gave gifts: a little steam train on a circle of track, an arch
 Of iron that the samurai rode, sitting on its roof, robes in the wind; a telegraph; and for their part
 
 The {{x|Japanese}} gave silk and lacquer, and sumo wrestlers carrying rice bales, two at a time,
-To show what the land's strength could do. And a young samurai, {{c|Yoshida Shōin}},
+To show what the land's strength could do. And a young samurai, {{c|4230|Yoshida Shōin}},
 Rowed out at night in {{p|Shimoda}} to the {{x|American}} flagship, a climb
 Up the dark hull, to beg to be taken to {{p|America}} to learn. They sent him back again.
 
@@ -46,8 +46,8 @@ They are someone's ancestors. Your own come first; the strangers have a share.
 On this night, when the veil is thin, no one's dead should walk alone.
 
 And the opening opened other things: twelve years later, at {{p|Ōura}},
-The hidden {{c|Christians}} came to the {{x|French}} priest and said: our hearts are the same as yours.
-Without the black ships, no church at {{p|Nagasaki}}, no woman whispering, no {{c|Santa Maria}}
+The hidden {{c|2494|Christians}} came to the {{x|French}} priest and said: our hearts are the same as yours.
+Without the black ships, no church at {{p|Nagasaki}}, no woman whispering, no {{c|3399|Santa Maria}}
 Found again. The forced door, and the kept faith. The guns, and the temple doors
 
 Open to the dead of the enemy. All of it, one opening.

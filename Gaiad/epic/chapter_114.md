@@ -1,13 +1,13 @@
 # Chapter 114: The Saga of Birds
 
-Now hear the song of {{c|Neornis}}, the crown bird,
-{{c|Deinos}}' last surviving heir—
+Now hear the song of {{c|1769|Neornis}}, the crown bird,
+{{c|1736|Deinos}}' last surviving heir—
 The feathered dinosaur whose word
 Of morning filled the {{x|Paleocene}} air
 
 With the first music of the new world.
 
-For {{c|Neornis}} was {{c|Deinos}}' child—remember this:
+For {{c|1769|Neornis}} was {{c|1736|Deinos}}' child—remember this:
 Every bird that sings is a dinosaur, furled
 In feathers, and the morning's kiss
 
@@ -39,7 +39,7 @@ And most varied of all the diagrams
 
 That evolution drew from a single body plan.
 
-{{c|Gastornis}} was among the first to claim
+{{c|1770|Gastornis}} was among the first to claim
 The empty throne of the theropod—this began
 In the {{x|Paleocene}}'s forests, where the name
 
@@ -50,7 +50,7 @@ And enormous predator, the peak
 
 Of what a bird becomes when there is no
 Competing mammal large enough to challenge
-The ground—{{c|Gastornis}} ruled the show
+The ground—{{c|1770|Gastornis}} ruled the show
 Of the early {{x|Paleocene}}, the balance
 
 Of power still uncertain, the crown
@@ -66,7 +66,7 @@ Of diversity that the compliant
 
 And flexible body plan allowed.
 
-{{c|Passeros}}—the songbirds—radiated
+{{c|1771|Passeros}}—the songbirds—radiated
 In the {{x|Eocene}} like an exploding cloud
 Of melody: the oscines created
 
@@ -97,7 +97,7 @@ And competitive auditions
 
 Of ten thousand species singing.
 
-The raptors took the sky—{{c|Aquilos}}'
+The raptors took the sky—{{c|1772|Aquilos}}'
 Sharp-eyed hunters, the wing-spreading and the clinging
 To the thermal columns, the close
 
@@ -132,10 +132,10 @@ A bird was already there, adapted
 To its salinity, its depth, its way
 Of yielding food—the bird had mapped it.
 
-Honor {{c|Neornis}}—the dinosaur who flies,
+Honor {{c|1769|Neornis}}—the dinosaur who flies,
 Who sings, who dives, who wades, who runs—
 The theropod whose feathered guise
-Outlasted all of {{c|Deinos}}' other sons
+Outlasted all of {{c|1736|Deinos}}' other sons
 
 And carries the {{x|Mesozoic}} forward
 In every dawn chorus, every migration,

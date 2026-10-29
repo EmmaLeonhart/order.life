@@ -1,7 +1,7 @@
 # Chapter 193: Journey to the West
 
-In the {{c|Tang Dynasty}} of {{p|China}},
-the monk {{c|Xuanzang}} set out west
+In the {{c|2696|Tang Dynasty}} of {{p|China}},
+the monk {{c|2778|Xuanzang}} set out west
 in 629 to find the original
 {{x|Sanskrit}} sutras, his life's one quest.
 
@@ -12,61 +12,61 @@ It was denied. He went illegally, surely.
 
 For seventeen years he traveled through
 {{p|Central Asia}}, {{p|Afghanistan}}, {{p|India}},
-studying at {{c|Nalanda}} the great university,
+studying at {{c|2779|Nalanda}} the great university,
 debating with scholars in every region.
 
-{{c|Nalanda}} was the greatest Buddhist university
+{{c|2779|Nalanda}} was the greatest Buddhist university
 in history at that time, ten thousand monks,
 thousands of professors, vast libraries,
 teaching logic, philosophy, medicine, thunks.
 
-{{c|Xuanzang}} mastered {{x|Sanskrit}}, the six Buddhist schools,
+{{c|2778|Xuanzang}} mastered {{x|Sanskrit}}, the six Buddhist schools,
 debated the {{x|Mahayana}} against the {{x|Theravada}},
-was offered leadership of {{c|Nalanda}} itself,
+was offered leadership of {{c|2779|Nalanda}} itself,
 but chose to return home to his own data.
 
 He returned in 645 with 657 {{x|Sanskrit}} texts
 loaded on twenty-two horses across the passes.
-The emperor {{c|Taizong}} welcomed him back
+The emperor {{c|2780|Taizong}} welcomed him back
 despite the illegal departure from the masses.
 
 He spent the rest of his life translating.
 He translated 1,330 scrolls of sutras.
-He introduced {{c|Yogacara}} philosophy,
+He introduced {{c|2781|Yogacara}} philosophy,
 consciousness-only school, into Chinese rostra.
 
-He wrote the {{c|Great Tang Records on the Western Regions}},
+He wrote the {{c|2782|Great Tang Records on the Western Regions}},
 a travelogue of the kingdoms he had visited,
 which became a precious source for historians
 when those kingdoms vanished, undocumented otherwise.
 
-{{p|Bamiyan}}'s giant {{c|Buddha}} statues — he saw them
+{{p|Bamiyan}}'s giant {{c|1959|Buddha}} statues — he saw them
 when they stood complete, fifty and thirty-five meters,
 cut into the cliff face of {{p|Afghanistan}}.
-Destroyed by {{c|Taliban}} in 2001, their lintels.
+Destroyed by {{c|2783|Taliban}} in 2001, their lintels.
 
-But we know what they looked like from {{c|Xuanzang}}.
+But we know what they looked like from {{c|2778|Xuanzang}}.
 We know the kingdoms, the cities, the sages,
 the quality of rice at particular places,
 the customs of pilgrims on various pages.
 
 Nine hundred years later, in the {{x|Ming}} dynasty,
-{{c|Wu Cheng'en}} wrote {{c|Journey to the West}},
-the great fantasy novel based on {{c|Xuanzang}}'s trip,
+{{c|2784|Wu Cheng'en}} wrote {{c|2785|Journey to the West}},
+the great fantasy novel based on {{c|2778|Xuanzang}}'s trip,
 with supernatural companions along for the test.
 
-{{c|Sun Wukong}}, the {{c|Monkey King}}, born from stone,
+{{c|2786|Sun Wukong}}, the {{c|2787|Monkey King}}, born from stone,
 a trickster mastering Daoist and Buddhist arts,
 who ate the peaches of immortality,
 caused havoc in heaven, was imprisoned with hard arts.
 
-He was freed to accompany {{c|Xuanzang}}
-(called {{c|Tripitaka}} in the novel, the monk)
+He was freed to accompany {{c|2778|Xuanzang}}
+(called {{c|2788|Tripitaka}} in the novel, the monk)
 with the golden headband that could constrict
 if the monk chanted the spell's {{x|Sanskrit}} funk.
 
-{{c|Pigsy}} ({{c|Zhu Bajie}}), the lazy glutton pig-man,
-Sandy ({{c|Sha Wujing}}), the stoic river demon,
+{{c|2789|Pigsy}} ({{c|2790|Zhu Bajie}}), the lazy glutton pig-man,
+Sandy ({{c|2791|Sha Wujing}}), the stoic river demon,
 and the dragon prince who became the horse —
 four disciples of the monk, the protection demon.
 
@@ -82,11 +82,11 @@ beloved for centuries across geography.
 
 It has been adapted as opera, film, television,
 anime, video game, manga without count.
-{{c|Son Goku}} of {{x|Dragon Ball}} is a direct
-descendant of {{c|Sun Wukong}} in amount.
+{{c|2792|Son Goku}} of {{x|Dragon Ball}} is a direct
+descendant of {{c|2786|Sun Wukong}} in amount.
 
-{{c|Xuanzang}} himself is historical.
-{{c|Sun Wukong}} is fictional. But both together
+{{c|2778|Xuanzang}} himself is historical.
+{{c|2786|Sun Wukong}} is fictional. But both together
 represent the deep Chinese relationship
 with {{x|Buddhism}} — Chinese adaptation of weather.
 
@@ -96,18 +96,18 @@ The demons are inner obstacles externalized.
 The goal is to carry the teaching back to one's nation.
 
 Chinese {{x|Buddhism}} had become by the {{x|Tang}}
-fully domesticated. {{c|Chan}} ({{x|Zen}}) was emerging
-under {{c|Huineng}} the {{c|Sixth Patriarch}}, whose
+fully domesticated. {{c|2793|Chan}} ({{x|Zen}}) was emerging
+under {{c|2794|Huineng}} the {{c|2795|Sixth Patriarch}}, whose
 sudden enlightenment school was surging.
 
-{{c|Pure Land}} {{x|Buddhism}} was expanding too,
-the devotional school of {{c|Amitabha}},
-the {{c|Buddha}} of the {{p|Western Paradise}},
+{{c|2796|Pure Land}} {{x|Buddhism}} was expanding too,
+the devotional school of {{c|2797|Amitabha}},
+the {{c|1959|Buddha}} of the {{p|Western Paradise}},
 saving all who called his name in awe.
 
 {{x|Tang}} {{p|China}} was the world-civilization of its time.
 {{p|Chang'an}} was the world's largest city.
-{{c|Persians}}, {{c|Arabs}}, {{c|Sogdians}}, Japanese, {{c|Koreans}}
+{{c|2654|Persians}}, {{c|1910|Arabs}}, {{c|2798|Sogdians}}, Japanese, {{c|2564|Koreans}}
 came to study, trade, and live in the pretty.
 
 The {{x|Tang}} would be the golden age

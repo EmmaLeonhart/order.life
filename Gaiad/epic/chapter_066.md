@@ -1,6 +1,6 @@
 # Chapter 66: Neopter's Thousand Nations
 
-Great {{c|Neopter}}, who first had learned to fold
+Great {{c|1598|Neopter}}, who first had learned to fold
 His wings at rest and walk upon the ground,
 Became the father of a line enrolled
 In history as the most diverse yet found.
@@ -11,11 +11,11 @@ The orders of the insects, each that winds
 Its story through the coal-swamp, marsh, and rings
 
 Of ancient forest towering overhead
-Where {{c|Meganeura}} ruled the humid air
+Where {{c|1652|Meganeura}} ruled the humid air
 And coal-swamp vapors rose from forest bed
 To fill the world with warm and fertile care.
 
-First {{c|Blattus}} claimed the coal-swamp floor
+First {{c|1683|Blattus}} claimed the coal-swamp floor
 As his great kingdom, warm and damp and wide—
 His children filled the rotting wood with more
 New generations than the swamp could hide.
@@ -27,7 +27,7 @@ That scholars gave the era's ancient call
 
 Ten thousand times the number of a man
 In generations counted from the first,
-{{c|Blattus}} spread his dynasty and clan
+{{c|1683|Blattus}} spread his dynasty and clan
 Through every crack and crevice, quenching thirst
 
 And hunger on the fallen leaf and bark
@@ -35,9 +35,9 @@ And every kind of plant-decay that fed
 His millions through the forest's warm and dark
 And steaming spaces where the coal swamp spread.
 
-From {{c|Blattus}} too would come a colony
+From {{c|1683|Blattus}} too would come a colony
 Of strange wood-eaters in a later age:
-{{c|Termitios}}, who'd build their monarchy
+{{c|1684|Termitios}}, who'd build their monarchy
 In mounds of royal social heritage—
 
 Where workers tend the royal line alone
@@ -45,7 +45,7 @@ And soldiers guard the tunneled passage-way,
 And queens lay eggs upon a living throne
 While millions toil in darkness every day.
 
-Then {{c|Orthopteros}} leapt across the land
+Then {{c|1685|Orthopteros}} leapt across the land
 With powerful rear legs that stored the force
 Of a thousand springs at evolution's hand—
 Each jump a small explosion on the course
@@ -60,7 +60,7 @@ A language built of friction—wing on wing—
 That called the mate across the evening fall
 And made the coal-swamp forest, summer, ring.
 
-Great {{c|Hemipteros}} was born with mouth
+Great {{c|1686|Hemipteros}} was born with mouth
 That pierced the stem and drank what flowed within—
 No chewing jaw for him, but always south
 Through bark and leaf to where the sap would begin.
@@ -75,12 +75,12 @@ Their call compressed and slowed would be a song,
 But at the speed they live they set the pace
 Of summer afternoons the season long.
 
-But of all {{c|Neopter}}'s sons the most
+But of all {{c|1598|Neopter}}'s sons the most
 Who'd multiply beyond all reckoning
-Was {{c|Coleopteros}}, that gilded host
+Was {{c|1687|Coleopteros}}, that gilded host
 Of beetles hardened by a covering
 
-Of shield-wings {{c|Elytra}} that fold above
+Of shield-wings {{c|1688|Elytra}} that fold above
 The flying wings like armor double-laid—
 The tank of insect-kind, who found his love
 In every niche that any creature made.
@@ -96,7 +96,7 @@ The beetle's adaptability is complete:
 No other order claims so vast a plot
 
 Of insect-kind's dominion on the earth.
-From {{c|Diptos}} came the two-winged masters bright
+From {{c|1689|Diptos}} came the two-winged masters bright
 Who traded one pair of their wings for worth
 Of speed—the halteres that balance flight
 
@@ -110,7 +110,7 @@ And speed the return of all that falls to dust—
 Without the fly the forest would be stayed
 By its own death, unable to adjust.
 
-In time would come great {{c|Hymenos}} true:
+In time would come great {{c|1690|Hymenos}} true:
 The wasps and ants and bees in future age
 Who'd build their colonies and castles new
 And write the most social chapter of the page
@@ -125,7 +125,7 @@ Can hold alone, where each part plays its role
 And individual death leaves none behind
 Since the colony itself becomes the whole.
 
-And {{c|Lepidopteron}} would spread his wings
+And {{c|1691|Lepidopteron}} would spread his wings
 Of patterned dust in colors past compare,
 The scaled and powdered beauty that he brings
 To every flower-field and summer air.
@@ -138,7 +138,7 @@ Who'd partner with the flowering plant's delight.
 But many of these nations yet to come
 Would wait until the coal swamp gave its way
 To drier lands—for now, the restless drum
-Of {{c|Neopter}}'s children rules the day.
+Of {{c|1598|Neopter}}'s children rules the day.
 
 The insects show us what becomes of those
 Who multiply their kinds through variation:
@@ -150,7 +150,7 @@ When change comes calling through the world anew—
 Diversity itself becomes the gift
 That lets the many thrive where few fall through.
 
-So honor {{c|Neopter}} and all his line:
+So honor {{c|1598|Neopter}} and all his line:
 The beetle's shield, the cricket's midnight song,
 The cockroach in his coalfield pantomime—
 The ones who proved that many could be strong.

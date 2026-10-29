@@ -9,24 +9,24 @@ The city was called {{p|Petrograd}}.
 By the calendar the country kept, it was the twenty-third of February.
 Women came out. On that calendar it was {{x|International Women's Day}}.
 They came for bread. The garrison came over.
-{{c|Nicholas II}} was not in the city.
+{{c|4328|Nicholas II}} was not in the city.
 
 On the fifteenth of March, at {{p|Pskov}},
 The country dated the day the second of March.
-He abdicated for himself and for his son {{c|Alexei}},
-And he named his brother {{c|Michael Alexandrovich}} to the crown.
-On the sixteenth, {{c|Michael}} refused it,
+He abdicated for himself and for his son {{c|4329|Alexei}},
+And he named his brother {{c|4330|Michael Alexandrovich}} to the crown.
+On the sixteenth, {{c|4331|Michael}} refused it,
 Unless a constituent assembly, still to be elected, should confer it.
 The crown was offered. It was not taken.
 The reign ended on that refusal.
 
 A provisional government sat in the capital.
-{{c|Georgy Lvov}} was at the head of it, and then {{c|Alexander Kerensky}}.
+{{c|4332|Georgy Lvov}} was at the head of it, and then {{c|4333|Alexander Kerensky}}.
 It kept the country in the war.
 The summer did not take the country out.
 The government did not last the autumn.
 
-On the sixteenth of April, {{c|Vladimir Lenin}} arrived in {{p|Petrograd}}.
+On the sixteenth of April, {{c|4334|Vladimir Lenin}} arrived in {{p|Petrograd}}.
 The country dated the day the third of April.
 {{p|Germany}} had let him cross in a sealed train.
 It wanted {{p|Russia}} out of the war.
@@ -39,18 +39,18 @@ An end to the war.
 On the seventh of November the party took the city.
 The country dated the night the twenty-fifth of October.
 The revolution kept October for its name.
-{{c|Kerensky}} had gone.
+{{c|4335|Kerensky}} had gone.
 The cruiser {{x|Aurora}}, lying in the river, fired a blank as a signal.
 The {{p|Winter Palace}} was taken.
 A congress of soviets sat at the {{p|Smolny Institute}}.
 It passed a decree on peace, and a decree on land.
-A council of people's commissars was named, with {{c|Lenin}} at its head.
+A council of people's commissars was named, with {{c|4336|Lenin}} at its head.
 That night is not the civil war.
 The civil war came after, and the dead of it were not few.
 
 In November the country elected a constituent assembly.
-The {{c|Socialist Revolutionaries}} returned the most deputies.
-The {{c|Bolsheviks}} did not.
+The {{c|4337|Socialist Revolutionaries}} returned the most deputies.
+The {{c|4338|Bolsheviks}} did not.
 On the eighteenth of January, 1918, the assembly met
 At the {{p|Tauride Palace}} in {{p|Petrograd}}.
 The country dated the day the fifth of January.
@@ -87,14 +87,14 @@ In March the government left {{p|Petrograd}} for {{p|Moscow}}.
 The people of the house were still alive.
 In the night of the sixteenth of July, crossing into the seventeenth,
 At the {{p|Ipatiev House}} in {{p|Yekaterinburg}}, they were killed.
-{{c|Nicholas II}}. {{c|Alexandra}}.
-{{c|Olga}}. {{c|Tatiana}}. {{c|Maria}}. {{c|Anastasia}}. {{c|Alexei}}.
+{{c|4328|Nicholas II}}. {{c|4339|Alexandra}}.
+{{c|4340|Olga}}. {{c|4341|Tatiana}}. {{c|4342|Maria}}. {{c|4343|Anastasia}}. {{c|4329|Alexei}}.
 Four who served them were killed in the same room:
-{{c|Eugene Botkin}}, {{c|Anna Demidova}}, {{c|Alexei Trupp}}, {{c|Ivan Kharitonov}}.
-{{c|Yakov Yurovsky}}, commandant of the house,
+{{c|4344|Eugene Botkin}}, {{c|4345|Anna Demidova}}, {{c|4346|Alexei Trupp}}, {{c|4347|Ivan Kharitonov}}.
+{{c|4348|Yakov Yurovsky}}, commandant of the house,
 Read an order of the {{p|Ural}} soviet.
 A written order from {{p|Moscow}}, dated before the shooting, has not been found.
-On the eighteenth, {{c|Yakov Sverdlov}} told the central executive committee
+On the eighteenth, {{c|4349|Yakov Sverdlov}} told the central executive committee
 That its presidium approved what the {{p|Urals}} had done.
 On the nineteenth the paper said the former emperor had been shot,
 And that his family had been taken to a safe place.
