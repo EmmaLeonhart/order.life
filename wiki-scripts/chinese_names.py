@@ -81,8 +81,8 @@ def first_significant(words):
     return ""
 
 
-def chinese_name(given, surname, taken):
-    """The generated name, or None; `taken` is the set of names already used, updated here."""
+def chinese_name_parts(given, surname, taken):
+    """The generated name as (surname, given name), or None; `taken` is the set of names already used, updated here."""
     gw = given.split()[0] if given else ""
     if len(_plain(gw)) < 2:
         return None                      # an initial or a placeholder ("X") is not a name
@@ -97,5 +97,59 @@ def chinese_name(given, surname, taken):
         cand = s[0] + "".join(g[:n])
         if cand not in taken:
             taken.add(cand)
-            return cand
+            return s[0], "".join(g[:n])
     return None
+
+
+def chinese_name(given, surname, taken):
+    """The generated name as one string, or None."""
+    parts = chinese_name_parts(given, surname, taken)
+    return "".join(parts) if parts else None
+
+
+# Pinyin with tone marks for every character the tables above can produce (one reading each).
+PINYIN = {
+    "阿": "ā", "埃": "āi", "伊": "yī", "奥": "ào", "乌": "wū",
+    "巴": "bā", "贝": "bèi", "比": "bǐ", "博": "bó", "布": "bù", "卡": "kǎ", "塞": "sài", "西": "xī", "科": "kē",
+    "库": "kù", "达": "dá", "德": "dé", "迪": "dí", "多": "duō", "杜": "dù", "法": "fǎ", "费": "fèi", "菲": "fēi",
+    "福": "fú", "富": "fù", "加": "jiā", "格": "gé", "吉": "jí", "戈": "gē", "古": "gǔ", "哈": "hā", "赫": "hè",
+    "希": "xī", "霍": "huò", "胡": "hú", "贾": "jiǎ", "杰": "jié", "乔": "qiáo", "朱": "zhū", "克": "kè", "基": "jī",
+    "拉": "lā", "莱": "lái", "利": "lì", "洛": "luò", "卢": "lú", "马": "mǎ", "梅": "méi", "米": "mǐ", "莫": "mò",
+    "穆": "mù", "纳": "nà", "内": "nèi", "尼": "ní", "诺": "nuò", "努": "nǔ", "帕": "pà", "佩": "pèi", "皮": "pí",
+    "波": "bō", "普": "pǔ", "夸": "kuā", "奎": "kuí", "阔": "kuò", "雷": "léi", "里": "lǐ", "罗": "luó", "鲁": "lǔ",
+    "萨": "sà", "索": "suǒ", "苏": "sū", "塔": "tǎ", "特": "tè", "蒂": "dì", "托": "tuō", "图": "tú", "瓦": "wǎ",
+    "韦": "wéi", "维": "wéi", "沃": "wò", "武": "wǔ", "威": "wēi", "夏": "xià", "谢": "xiè", "肖": "xiāo", "许": "xǔ",
+    "亚": "yà", "叶": "yè", "约": "yuē", "尤": "yóu", "扎": "zhā", "泽": "zé", "齐": "qí", "佐": "zuǒ", "祖": "zǔ",
+    "沙": "shā", "舒": "shū", "查": "chá", "切": "qiē", "奇": "qí", "丘": "qiū",
+    "恩": "ēn", "姆": "mǔ", "尔": "ěr", "斯": "sī", "夫": "fū", "兹": "zī", "什": "shí",
+}
+
+
+def pinyin(chars):
+    """Pinyin for a run of characters, joined as one word ("Lǐchá"), with the apostrophe before a syllable that
+    starts with a, e or o; None if a character has no reading here."""
+    out = ""
+    for k, ch in enumerate(chars):
+        py = PINYIN.get(ch)
+        if py is None:
+            return None
+        if k and unicodedata.normalize("NFD", py)[0] in "aeo":
+            out += "'"
+        out += py
+    return out[:1].upper() + out[1:]
+
+
+# A person whose usual name is not transliterated into Chinese: the Chinese name is theirs, not generated
+# (Emma, 2026-10-30: "my name does not get transliterated"). qid -> (surname, given, surname pinyin, given pinyin).
+OWN_CHINESE = {"Q2": ("李", "命玥", "Lǐ", "Mìngyuè")}
+
+
+def chinese_name_lines(sur, giv, sur_py=None, giv_py=None):
+    """The Chinese-name object: pinyin with the surname in slashes, the characters as TRAN zh, labelled
+    "Chinese name" (Emma, 2026-10-30), generated or not. [] if the pinyin cannot be made."""
+    sur_py = sur_py or pinyin(sur)
+    giv_py = giv_py or pinyin(giv)
+    if not sur_py or not giv_py:
+        return []
+    return [f"1 NAME /{sur_py}/ {giv_py}", "2 TYPE OTHER", "3 PHRASE Chinese name",
+            f"2 TRAN /{sur}/ {giv}", "3 LANG zh", "2 NOTE Chinese name"]

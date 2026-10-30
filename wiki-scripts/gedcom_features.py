@@ -20,7 +20,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import export_gedcom7 as g7
-from chinese_names import chinese_name
+from chinese_names import OWN_CHINESE, chinese_name_lines, chinese_name_parts
 from export_gedcom import SEX_FEMALE, SEX_MALE, load
 from export_gedcom7 import clean_name, name_lines
 from monarch_names import build as build_monarch_names
@@ -76,12 +76,17 @@ class Features:
         kj = kanji_for(gv) if gv and not clado else None
         if kj:
             name(kj, f"neo-kun'yomi (read {val(gv.split()[0])})", "neo-kun'yomi")
-        if gv and not clado and not any(lg == "zh" for lg, _ in self.labels.get(qid, [])):
+        own_zh = OWN_CHINESE.get(qid)
+        if own_zh:
+            out.extend(chinese_name_lines(*own_zh))
+            c["Chinese names"] += 1
+        elif gv and not clado and not any(lg == "zh" for lg, _ in self.labels.get(qid, [])):
             ged = clean_name(row.get("gedcom") or "")
             sur = ged.split("/")[1].strip() if ged.count("/") >= 2 else ""
-            zh = chinese_name(gv, sur, self.zh_taken) if sur and not lang_of(gv + sur) else None
-            if zh:
-                name(zh, "Chinese name (generated)", "Chinese names")
+            zh = chinese_name_parts(gv, sur, self.zh_taken) if sur and not lang_of(gv + sur) else None
+            zh_lines = chinese_name_lines(*zh) if zh else []
+            out.extend(zh_lines)
+            c["Chinese names"] += bool(zh_lines)
         if qid in self.temple:
             tn, why = self.temple[qid]
             name(tn, f"temple name (generated; {val(why)})", "temple names")
@@ -94,7 +99,7 @@ class Features:
         nm = (row.get("gedcom") or "").replace("/", " ").strip() or (row.get("label") or "").strip()
         toks = nm.split()
         if toks and not clado and all(t in self.readings and self.readings[t][0] for t in toks):
-            have = {lg for lg, _ in self.labels.get(qid, [])}
+            have = {lg for lg, _ in self.labels.get(qid, [])} | ({"zh"} if own_zh else set())
             for k, (lg, sep) in enumerate((("ja", "・"), ("zh", "·"), ("ko", " "))):
                 parts = [self.readings[t][k] for t in toks]
                 if lg not in have and all(parts):

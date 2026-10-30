@@ -26,7 +26,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from neo_kunyomi import kanji_for
-from chinese_names import chinese_name
+from chinese_names import OWN_CHINESE, chinese_name_lines, chinese_name_parts
 from monarch_names import build as build_monarch_names
 import gothic
 from export_gedcom import (ANA, MONTHS, SEX_FEMALE, SEX_MALE, couples_for_child, load)
@@ -545,6 +545,12 @@ def build_gedcom7(out_path, extra_lang=None, graft="emma"):
             w(f"2 TRAN {val(lb)}")
             w(f"3 LANG {lg}")
             n_trans += 1
+        own_zh = OWN_CHINESE.get(qid)
+        if own_zh:   # her usual name in Chinese is her Chinese name, not a transliteration
+            w(f"2 TRAN {own_zh[0]}{own_zh[1]}")
+            w("3 LANG zh")
+            n_trans += 1
+        w("2 NOTE Usual name")
         for n in names:
             if n != primary:
                 w(f"1 NAME {val(n)}")
@@ -565,15 +571,20 @@ def build_gedcom7(out_path, extra_lang=None, graft="emma"):
             n_nk += 1
         # A Chinese name for those without a real one (planning/chinese-names.md; approved 2026-10-15): surname from
         # the family name's first syllable, given name from the own name's first syllables, unique in the file.
-        if not any(lg == "zh" for lg, _ in labels.get(qid, [])) and qid not in cladoplasts and g:
+        # Written as its own name object (Emma, 2026-10-30): pinyin with the surname in slashes, the characters as
+        # TRAN zh, labelled "Chinese name" (chinese_names.chinese_name_lines).
+        if own_zh:
+            for line in chinese_name_lines(*own_zh):
+                w(line)
+            n_zh += 1
+        elif not any(lg == "zh" for lg, _ in labels.get(qid, [])) and qid not in cladoplasts and g:
             ged = clean_name(row.get("gedcom") or "")
             sur = ged.split("/")[1].strip() if ged.count("/") >= 2 else ""
-            zh = chinese_name(g, sur, zh_taken) if sur and not lang_of(g + sur) else None
-            if zh:
-                w(f"1 NAME {zh}")
-                w("2 TYPE OTHER")
-                w("3 PHRASE Chinese name (generated)")
-                n_zh += 1
+            zh = chinese_name_parts(g, sur, zh_taken) if sur and not lang_of(g + sur) else None
+            zh_lines = chinese_name_lines(*zh) if zh else []
+            for line in zh_lines:
+                w(line)
+            n_zh += bool(zh_lines)
         # Temple and Horus names for monarchs (planning/monarch-names.md; approved 2026-10-15).
         if qid in temple_names:
             tn, why = temple_names[qid]
@@ -601,7 +612,7 @@ def build_gedcom7(out_path, extra_lang=None, graft="emma"):
         nm = (row.get("gedcom") or "").replace("/", " ").strip() or (row.get("label") or "").strip()
         toks = nm.split()
         if toks and qid not in cladoplasts and all(t in readings and readings[t][0] for t in toks):
-            have = {lg for lg, _ in labels.get(qid, [])}
+            have = {lg for lg, _ in labels.get(qid, [])} | ({"zh"} if own_zh else set())
             for k, (lg, sep) in enumerate((("ja", "・"), ("zh", "·"), ("ko", " "))):
                 parts = [readings[t][k] for t in toks]
                 if lg not in have and all(parts):
