@@ -36,7 +36,10 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 EPIC = ROOT / "Gaiad" / "epic"
 ANCESTRY = ROOT / "Gaiad" / "ancestry" / "emma-ancestry.ged"
-TAG = re.compile(r"\{\{c\|(?:[^}|]*\|)?([^}|]+)\}\}")
+TAG = re.compile(r"\{\{c\|(?:([^}|]*)\|)?([^}|]+)\}\}")   # {{c|<tag id>|Name}}
+# Emma, 2026-10-29: "The ID indicates who they are." A text person is its tag ID, not its name: the same name under two
+# IDs is two people (the star Rhodes 19 and the red algae king 90839), one ID under two names is one person.
+LEGACY = ROOT / "wikibase" / "analysis" / "gaiad_legacy_numbers.tsv"
 TITLE = re.compile(r"^#\s+(?:Chapter\s+\d+:\s*)?(.*)")
 NS = uuid.uuid5(uuid.NAMESPACE_URL, "https://order.life/gaiad/individual/")
 # Emma, 2026-10-29: "Aster's last name is "Alpha" and Andromeda's last name is "Omega"" (the UIDs stay on the bare names).
@@ -57,8 +60,17 @@ EMMA_FS = "PFR5-LDS"
 ORDERLIFE_FIRST = {"Q1": "@I1@", "Q3": "@I3@"}  # order.life ids of Aster and Andromeda
 
 
+def text_uids():
+    """Tag ID -> the UID its row in the legacy table holds (each is the UID of that ID's own tag name)."""
+    if not LEGACY.exists():
+        return {}
+    rows = [r.split("\t") for r in LEGACY.read_text(encoding="utf-8").split("\n")[1:] if r]
+    return {r[0]: r[3] for r in rows if len(r) > 3 and r[1] == "text" and r[3]}
+
+
 def appearances():
-    """(name, chapter, stanza) for each distinct tag name, in order of first appearance."""
+    """(tag id, name, chapter, stanza) for each distinct tag ID, in order of first appearance; a tag with no ID is
+    keyed by its name."""
     seen, out = set(), []
     for n in range(1, 365):
         f = EPIC / f"chapter_{n:03d}.md"
@@ -69,10 +81,11 @@ def appearances():
         body = raw[m.end():].lstrip("\n") if m else raw
         for si, st in enumerate((s for s in re.split(r"\n\s*\n", body) if s.strip()), 1):
             for t in TAG.finditer(st):
-                name = t.group(1).strip()
-                if name and name not in seen:
-                    seen.add(name)
-                    out.append((name, n, si))
+                name = t.group(2).strip()
+                key = (t.group(1) or "").strip() or name
+                if name and key not in seen:
+                    seen.add(key)
+                    out.append((key, name, n, si))
     return out
 
 
@@ -81,7 +94,7 @@ MARKUP = re.compile(r"\{\{[a-z]\|(?:[^}|]*\|)?([^}|]+)\}\}")
 
 
 def citations():
-    """name -> [(chapter, stanza, line)], every stanza each tag name occurs in, the line given without markup."""
+    """tag id -> [(chapter, stanza, line)], every stanza each tag ID occurs in, the line given without markup."""
     out = {}
     for n in range(1, 365):
         f = EPIC / f"chapter_{n:03d}.md"
@@ -93,8 +106,9 @@ def citations():
         for si, st in enumerate((s for s in re.split(r"\n\s*\n", body) if s.strip()), 1):
             rows = st.split("\n")
             for t in TAG.finditer(st):
-                name = t.group(1).strip()
-                got = out.setdefault(name, [])
+                name = t.group(2).strip()
+                key = (t.group(1) or "").strip() or name
+                got = out.setdefault(key, [])
                 if name and not (got and got[-1][:2] == (n, si)):
                     seg = " ".join(rows[st[:t.start()].count("\n"):st[:t.end()].count("\n") + 1])
                     got.append((n, si, " ".join(MARKUP.sub(r"\1", FN.sub("", seg)).split())))
@@ -738,7 +752,11 @@ def build(out_path):
     add("1 WWW https://order.life/gaiad/")
 
     apps = appearances()
-    first_seen = {name: (ch, st) for name, ch, st in apps}
+    first_seen = {key: (ch, st) for key, name, ch, st in apps}
+    key_of = {}
+    for key, name, ch, st in apps:
+        key_of.setdefault(name, key)
+    uid_of = text_uids()
     n = 0
     # Every Gaiad figure has a SEX (Emma, 2026-10-16: "all of us actually have set sexes"): the three first ones as she
     # set them, the others as order.life's genealogy has the person of that name (U where it does not say or the name
@@ -761,7 +779,7 @@ def build(out_path):
     resolved = resolved_names() if feats else {}
     n_resolved_text = [0]
 
-    def indi(name, ged_name, where):
+    def indi(key, name, ged_name, where):
         nonlocal n
         n += 1
         add(f"0 @I{n}@ INDI")
@@ -781,10 +799,10 @@ def build(out_path):
             add(f"1 SEX {sex}")
         add(f"1 REFN {n}")
         add("2 TYPE Gaiad individual number")
-        add(f"1 UID {uuid.uuid5(NS, name)}")
+        add(f"1 UID {uid_of.get(key) or uuid.uuid5(NS, name)}")
         if where:
             ch, st = where
-            cites = cited.get(name) or [(ch, st, "")]
+            cites = cited.get(key) or [(ch, st, "")]
             k = len(cites)
             many = f"; named in {k} stanzas" if k > 1 else ""
             add(f"1 NOTE First named in the Gaiad, chapter {ch} (https://order.life/gaiad/{ch:03d}/#s{st}){many}.")
@@ -812,16 +830,16 @@ def build(out_path):
                 n_resolved_text[0] += 1
 
     for name, ged in FIRST:
-        indi(name, ged, first_seen.get(name))
+        indi(key_of.get(name, name), name, ged, first_seen.get(key_of.get(name, name)))
         if name == "Emma Leonhart":
             # Her own names (Emma, 2026-10-16): 閻魔日巫女平連娘武李獅心命玥 comes from her label; these two beside it.
             for other in EMMA_NAMES:
                 add(f"1 NAME {other}")
                 add("2 TYPE AKA")
-    firsts = {f[0] for f in FIRST}
-    for name, ch, st in apps:
-        if name not in firsts:
-            indi(name, name, (ch, st))
+    firsts = {key_of.get(f[0], f[0]) for f in FIRST}
+    for key, name, ch, st in apps:
+        if key not in firsts:
+            indi(key, name, name, (ch, st))
     n_text = n
 
     # Emma's ancestry, renumbered after the text block; her record becomes I2, order.life's Aster and Andromeda I1, I3.

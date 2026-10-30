@@ -111,7 +111,7 @@ Into living stone—
 She, daughter all her own
 
 Of {{c|372|Florida}}, who came
-From {{c|19|Rhodes}} of ancient name.
+From {{c|90839|Rhodes}} of ancient name.
 They built coralline {{c|889|Algae}},
 The plaster, galaxy
 

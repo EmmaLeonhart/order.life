@@ -13,10 +13,13 @@ moved everyone after it (from I2663 on, 86,224 people moved between 2026-10-20 a
   numbering   wikibase/analysis/gaiad_legacy_numbers.tsv holds each person's number for good (frozen from the live
               file of 2026-10-29 04:19 UTC). Every record is matched to its row by a key that does not move: the UID
               for the text's individuals, an id held by that one person alone (FamilySearch, Geni, Wikidata,
-              order.life) for the ancestry, else a name held by that one person alone. Its xref becomes @I<number>@,
-              and it carries REFN <number> / TYPE Gaiad legacy number. Someone new gets the next free number, in file
+              order.life) for the ancestry, else a name held by that one person alone. It carries
+              REFN <number> / TYPE Gaiad legacy number. Someone new gets the next free number, in file
               order, and is written into the table, so the number holds from then on (commit the table).
-  merges      the verse's own tags ({{c|1|Alpha}}: Alpha is 1), then wikibase/analysis/gaiad_legacy_merges.tsv: "<n> into <m>" moves n's names (as AKA), sources, notes and
+  order       the @I@ numbers are the order of first appearance, made again at every build with the gaps closed
+              (Emma, 2026-10-29: the people are created in order of appearance; the legacy numbers are "the internal
+              legacy reference numbers", in the REFN). Making each @I@ the legacy number (687c2954b) was a mistake.
+  merges      wikibase/analysis/gaiad_legacy_merges.tsv only: "<n> into <m>" moves n's names (as AKA), sources, notes and
               family links onto m and repoints everything at n to m; "<n> drop" removes a record that is not a person.
   one note    all of a person's NOTEs become one, at the place of the first: the links (with the legacy number at
               their head), then the Gaiad's quotes, then the rest.
@@ -26,7 +29,6 @@ moved everyone after it (from I2663 on, 86,224 people moved between 2026-10-20 a
 Stdlib only.
 """
 import collections
-import functools
 import re
 import uuid
 from pathlib import Path
@@ -36,7 +38,6 @@ TABLE = ANALYSIS / "gaiad_legacy_numbers.tsv"
 MERGES = ANALYSIS / "gaiad_legacy_merges.tsv"
 EPIC = ANALYSIS.parent.parent / "Gaiad" / "epic"
 NS = uuid.uuid5(uuid.NAMESPACE_URL, "https://order.life/gaiad/individual/")   # as build_gaiad_ged.py
-TAGGED = re.compile(r"\{\{c\|(\d+)\|([^}|]+)\}\}")
 HEADER = "legacy_number\tpart\tfirst_name\tuid\trefn\texid"
 POINTER = re.compile(r"^(\d+ (?:[A-Z_]+ )?)@I(\d+)@((?: INDI)?)$")
 
@@ -68,25 +69,10 @@ def load_table():
     return by_uid, by_id, by_name, top, shared
 
 
-@functools.lru_cache(maxsize=None)
-def tag_merges():
-    """The merges the verse's own tags make: a name tagged {{c|<m>|Name}} whose frozen number is n, not m, is n
-    merged into m (Emma, 2026-10-29: "we mass apply the existing numbers into the templates so that they become
-    stable"; Gaiad/scripts/stamp_legacy_ids.py wrote them)."""
-    rows = [r.split(chr(9)) for r in TABLE.read_text(encoding="utf-8").split(chr(10))[1:] if r]
-    by_uid = {r[3]: int(r[0]) for r in rows if r[1] == "text" and r[3]}
-    out = {}
-    for f in sorted(EPIC.glob("chapter_*.md")):
-        for m in TAGGED.finditer(f.read_text(encoding="utf-8").replace(chr(13), "")):
-            own = by_uid.get(str(uuid.uuid5(NS, m.group(2).strip())))
-            if own is not None and own != int(m.group(1)):
-                out.setdefault(own, int(m.group(1)))
-    return tuple((n, "into", m) for n, m in sorted(out.items()))
-
-
 def load_merges():
-    """[(n, "into", m) or (n, "drop", None)]: the verse's tags first, then the table."""
-    out = list(tag_merges())
+    """[(n, "into", m) or (n, "drop", None)], from the table only. A tag ID that is not its name's number is a person of
+    its own, never a merge (Emma, 2026-10-29: "The ID indicates who they are"; the merges "get merged after")."""
+    out = []
     if MERGES.exists():
         for r in MERGES.read_text(encoding="utf-8").split("\n")[1:]:
             if r.strip():
@@ -175,6 +161,7 @@ def apply(lines, register=True):
 
     # numbering: every INDI to its legacy number; the new ones to the next free numbers, in file order
     renum, new_rows, used = {}, [], set()
+    pos = {}   # legacy number -> place in the build's own order (first appearance, then the ancestry walk)
     for first, body in recs:
         m = re.match(r"0 @I(\d+)@ INDI$", first)
         if m:
@@ -204,6 +191,7 @@ def apply(lines, register=True):
         m = re.match(r"0 @I(\d+)@ INDI$", first)
         if m:
             n = int(m.group(1))
+            pos[n] = len(pos)
             # the build's own number stays as a REFN (language_gedcom.py keys its matched names on it) beside this one
             blocks = blocks_of(body)
             at = max((k for k, b in enumerate(blocks) if b[0].startswith("1 REFN ")), default=len(blocks) - 1) + 1
@@ -290,7 +278,7 @@ def apply(lines, register=True):
         body_out += [first] + repoint(body)
     n_joined = 0
     indi_out = []
-    for n in sorted(indis):
+    for n in sorted(indis, key=lambda x: pos.get(x, len(pos) + x)):
         blocks = blocks_of(repoint([l for b in indis[n] for l in b]))
         n_joined += sum(b[0].startswith("1 NOTE ") for b in blocks) > 1
         blocks = one_note(blocks, [n] + sorted(absorbed.get(n, [])))
@@ -299,7 +287,7 @@ def apply(lines, register=True):
     if register and new_rows:
         with open(TABLE, "a", encoding="utf-8", newline="\n") as f:
             f.write("\n".join(new_rows) + "\n")
-    # the header and sources first, then the people in legacy order, then families and the rest
+    # the header and sources first, then the people in order of first appearance, then families and the rest
     head_recs, rest_recs, cur = [], [], None
     for l in body_out:
         if l.startswith("0 "):
@@ -307,10 +295,26 @@ def apply(lines, register=True):
         cur.append(l)
     out, n_fam = one_family_per_couple(head + head_recs + indi_out + rest_recs + tail)
     out, n_self = no_child_of_own_family(out)
+    out = by_first_appearance(out)
     return out, {"Gaiad legacy numbers": len(indis), "new legacy numbers": len(new_rows), "merged": n_merged,
                  "dropped": n_dropped, "records whose notes were joined into one": n_joined,
                  "families joined after the merges": n_fam,
                  "child links dropped where the child is a parent of the same family": n_self}
+
+
+def by_first_appearance(lines):
+    """Every @I@ to its place in the file, 1, 2, 3 ... with no gaps: the people are already in order of first
+    appearance, so this is that order, made again at every build."""
+    order = {}
+    for l in lines:
+        m = re.match(r"0 @I(\d+)@ INDI$", l)
+        if m:
+            order[int(m.group(1))] = len(order) + 1
+
+    def point(l):
+        m = POINTER.match(l)
+        return f"{m.group(1)}@I{order.get(int(m.group(2)), int(m.group(2)))}@{m.group(3)}" if m else l
+    return [point(l) for l in lines]
 
 
 def one_family_per_couple(lines):
