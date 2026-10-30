@@ -37,6 +37,7 @@ ANALYSIS = Path(__file__).resolve().parent.parent / "wikibase" / "analysis"
 TABLE = ANALYSIS / "gaiad_legacy_numbers.tsv"
 MERGES = ANALYSIS / "gaiad_legacy_merges.tsv"
 SPLITS = ANALYSIS / "gaiad_legacy_splits.tsv"
+CUTS = ANALYSIS / "gaiad_legacy_cuts.tsv"
 EPIC = ANALYSIS.parent.parent / "Gaiad" / "epic"
 NS = uuid.uuid5(uuid.NAMESPACE_URL, "https://order.life/gaiad/individual/")   # as build_gaiad_ged.py
 HEADER = "legacy_number\tpart\tfirst_name\tuid\trefn\texid"
@@ -147,6 +148,31 @@ def split_records(indis, others, pos):
         indis[n], indis[m] = old, new
         pos[m] = pos.get(n, 0) + 0.5   # beside the record it came out of
         done += 1
+    return done
+
+
+def load_cuts():
+    """gaiad_legacy_cuts.tsv: a child link that is wrong (an edge the dates or the sources reverse), dropped at every
+    build: "<child legacy number> <parent legacy number> why". Every family with that parent and that child loses the
+    CHIL line, and the child its FAMC to it."""
+    if not CUTS.exists():
+        return []
+    return [(int(r.split("\t")[0]), int(r.split("\t")[1]))
+            for r in CUTS.read_text(encoding="utf-8").split("\n")[1:] if r.strip()]
+
+
+def cut_links(indis, others):
+    done = 0
+    for child, parent in load_cuts():
+        for first, body in others:
+            if not first.endswith(" FAM"):
+                continue
+            if any(l in (f"1 HUSB @I{parent}@", f"1 WIFE @I{parent}@") for l in body) and f"1 CHIL @I{child}@" in body:
+                f = first.split(" ")[1]
+                body[:] = [l for l in body if l != f"1 CHIL @I{child}@"]
+                if child in indis:
+                    indis[child] = [b for b in indis[child] if b[0] != f"1 FAMC {f}"]
+                done += 1
     return done
 
 
@@ -282,6 +308,7 @@ def apply(lines, register=True):
             others.append([first, body])
 
     n_split = split_records(indis, others, pos)
+    n_cut = cut_links(indis, others)
 
     # merges and drops
     target = {}
@@ -379,7 +406,7 @@ def apply(lines, register=True):
     out, n_fam = one_family_per_couple(head + head_recs + indi_out + rest_recs + tail)
     out, n_self = no_child_of_own_family(out)
     out = by_first_appearance(out)
-    return out, {"Gaiad legacy numbers": len(indis), "new legacy numbers": len(new_rows), "split": n_split, "merged": n_merged,
+    return out, {"Gaiad legacy numbers": len(indis), "new legacy numbers": len(new_rows), "split": n_split, "cut": n_cut, "merged": n_merged,
                  "dropped": n_dropped, "records whose notes were joined into one": n_joined,
                  "families joined after the merges": n_fam,
                  "child links dropped where the child is a parent of the same family": n_self}
