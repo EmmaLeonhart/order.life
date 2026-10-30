@@ -547,7 +547,7 @@ def build_gedcom7(out_path, extra_lang=None, graft="emma"):
             n_trans += 1
         own_zh = OWN_CHINESE.get(qid)
         if own_zh:   # her usual name in Chinese is her Chinese name, not a transliteration
-            w(f"2 TRAN {own_zh[0]}{own_zh[1]}")
+            w(f"2 TRAN /{own_zh[0]}/ {own_zh[1]}")
             w("3 LANG zh")
             n_trans += 1
         w("2 NOTE Usual name")
