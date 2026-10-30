@@ -36,6 +36,7 @@ from pathlib import Path
 ANALYSIS = Path(__file__).resolve().parent.parent / "wikibase" / "analysis"
 TABLE = ANALYSIS / "gaiad_legacy_numbers.tsv"
 MERGES = ANALYSIS / "gaiad_legacy_merges.tsv"
+SPLITS = ANALYSIS / "gaiad_legacy_splits.tsv"
 EPIC = ANALYSIS.parent.parent / "Gaiad" / "epic"
 NS = uuid.uuid5(uuid.NAMESPACE_URL, "https://order.life/gaiad/individual/")   # as build_gaiad_ged.py
 HEADER = "legacy_number\tpart\tfirst_name\tuid\trefn\texid"
@@ -67,6 +68,82 @@ def load_table():
             shared["name:" + name] = sorted(nums)
     top = max(int(r[0]) for r in rows)
     return by_uid, by_id, by_name, top, shared
+
+
+def load_splits():
+    """gaiad_legacy_splits.tsv: one record that is two people, split at every build (the unmerge of order.life's cycle
+    policy). Each row moves, from record <legacy_number> to a new record <new_number> named <new_name>: the NAMEs listed,
+    the order.life REFNs listed, the child link to the family of the parent listed, the spouse families with the spouses
+    listed (all by legacy number, which hold across builds) and the Wikidata links listed out of its note."""
+    if not SPLITS.exists():
+        return []
+    rows = [r.split("\t") for r in SPLITS.read_text(encoding="utf-8").split("\n")[1:] if r.strip()]
+    lst = lambda s: [x for x in s.split("|") if x]
+    return [dict(n=int(r[0]), m=int(r[1]), name=r[2], names=lst(r[3]), refn=lst(r[4]),
+                 child_of={int(x) for x in lst(r[5])}, spouses={int(x) for x in lst(r[6])}, links=lst(r[7]))
+            for r in rows]
+
+
+def split_records(indis, others, pos):
+    """Applies load_splits() to the records (keyed by legacy number) and families (pointers already legacy numbers)."""
+    done = 0
+    fams = {first.split(" ")[1]: body for first, body in others if first.endswith(" FAM")}
+    for s in load_splits():
+        n, m = s["n"], s["m"]
+        if n not in indis or m in indis:
+            continue
+        old, new = [], [[f"1 NAME {s['name']}"]]
+        primary_seen = False
+        for b in indis[n]:
+            head = b[0]
+            if head.startswith("1 NAME "):
+                value = head[7:]
+                if value in s["names"]:
+                    if value != s["name"]:
+                        new.append(b)
+                    continue
+                if not primary_seen:
+                    # the primary name's translations follow the new name where they are its (they were the merged
+                    # record's other half); the Gaiad builder took them from the order.life label of the moved item
+                    primary_seen = True
+                    keep = [b[0]] + [l for l in b[1:] if not l.startswith(("2 TRAN", "3 LANG"))]
+                    moved = [l for l in b[1:] if l.startswith(("2 TRAN", "3 LANG"))]
+                    if moved:
+                        new[0] += moved
+                    old.append(keep)
+                    continue
+                old.append(b)
+            elif head.startswith("1 REFN ") and head[7:].strip() in s["refn"]:
+                new.append(b)
+            elif head.startswith("1 SEX "):
+                old.append(b)
+                new.append(b)
+            elif head.startswith(("1 FAMC ", "1 FAMS ")):
+                f = head.split()[2]
+                members = {int(POINTER.match(l).group(2)) for l in fams.get(f, []) if POINTER.match(l)}
+                if (head.startswith("1 FAMC ") and members & s["child_of"]) or \
+                        (head.startswith("1 FAMS ") and members & s["spouses"]):
+                    new.append([f"1 {head.split()[1]} {f}"])
+                    fams[f][:] = [l.replace(f"@I{n}@", f"@I{m}@") for l in fams[f]]
+                else:
+                    old.append(b)
+            elif head.startswith("1 NOTE ") and s["links"]:
+                text = []
+                for l in b:
+                    for q in s["links"]:
+                        l = l.replace(f"Wikidata https://www.wikidata.org/wiki/{q}; ", "") \
+                             .replace(f"; Wikidata https://www.wikidata.org/wiki/{q}", "")
+                    text.append(l)
+                old.append(text)
+            else:
+                old.append(b)
+        if s["links"]:
+            new.append(["1 NOTE Links: " + "; ".join(f"Wikidata https://www.wikidata.org/wiki/{q}" for q in s["links"])])
+        new.append([f"1 REFN {m}", "2 TYPE Gaiad legacy number"])
+        indis[n], indis[m] = old, new
+        pos[m] = pos.get(n, 0) + 0.5   # beside the record it came out of
+        done += 1
+    return done
 
 
 def load_merges():
@@ -200,6 +277,8 @@ def apply(lines, register=True):
         else:
             others.append([first, body])
 
+    n_split = split_records(indis, others, pos)
+
     # merges and drops
     target = {}
     for n, action, m in load_merges():
@@ -296,7 +375,7 @@ def apply(lines, register=True):
     out, n_fam = one_family_per_couple(head + head_recs + indi_out + rest_recs + tail)
     out, n_self = no_child_of_own_family(out)
     out = by_first_appearance(out)
-    return out, {"Gaiad legacy numbers": len(indis), "new legacy numbers": len(new_rows), "merged": n_merged,
+    return out, {"Gaiad legacy numbers": len(indis), "new legacy numbers": len(new_rows), "split": n_split, "merged": n_merged,
                  "dropped": n_dropped, "records whose notes were joined into one": n_joined,
                  "families joined after the merges": n_fam,
                  "child links dropped where the child is a parent of the same family": n_self}
