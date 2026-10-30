@@ -251,6 +251,12 @@ def wikidata_first(lines, table):
     i = next((k for k, l in enumerate(lines) if l.startswith("1 NAME ")), None)
     if i is None:
         return lines, False
+    # The tree's own marked surname wins where the label does not carry it: a woman's maiden name over the married
+    # name a Wikidata label often has (Emma, 2026-10-30: "we consider the maiden name to be taking priority ... we're
+    # too Wikidata influenced"); Elly Olivia /Andersson/ stays, not "Elly Olivia Frisk".
+    own = re.search(r"/([^/]+)/", lines[i][7:])
+    if own and not re.search(r"(?<!\w)" + re.escape(own.group(1).strip()) + r"(?!\w)", label, re.I):
+        return lines, False
     surnames = [l[7:].strip() for l in lines if l.startswith("2 SURN ")]
     sur = None
     for cand in ([fam] if fam else []) + sorted(surnames, key=len, reverse=True):
@@ -278,8 +284,9 @@ def wikidata_first(lines, table):
                 k += 1
             continue
         k += 1
-    new = [f"1 NAME {new_text}"] + ([f"2 SURN {sur.group(0)}"] if sur else []) + trans
-    aka = ["1 NAME " + old_block[0][7:], "2 TYPE AKA"] + [l for l in old_block[1:] if not l.startswith("2 TYPE")]
+    usual = ["2 NOTE Usual name"] if "2 NOTE Usual name" in old_block else []
+    new = [f"1 NAME {new_text}"] + ([f"2 SURN {sur.group(0)}"] if sur else []) + trans + usual
+    aka = ["1 NAME " + old_block[0][7:], "2 TYPE AKA"] + [l for l in old_block[1:] if not l.startswith("2 TYPE") and l not in usual]
     out = lines[:i] + new + aka + lines[j:]
     # A later NAME that is now the same as the primary is a repeat, not another name.
     key = " ".join(new_text.replace("/", " ").split()).casefold()
@@ -322,9 +329,11 @@ EMMA_NAME_BLOCK = [
     # katakana of her Wikidata item (Q140568870). The long name is her ceremonial neo-kun'yomi name, English in the
     # original ("I consider it to be originally English and the Japanese as a translation"), with the kanji as its TRAN.
     "1 NAME Emma /Leonhart/ 命玥", "2 GIVN Emma", "2 SURN Leonhart",
-    "2 TRAN 李命玥", "3 LANG zh", "3 SURN 李", "3 GIVN 命玥",
-    "2 TRAN エマ・レオンハート", "3 LANG ja",
-    "2 TRAN 이명월", "3 LANG ko", "3 SURN 이", "3 GIVN 명월",
+    "2 TRAN /李/ 命玥", "3 LANG zh", "3 SURN 李", "3 GIVN 命玥",   # surname marked (Emma, 2026-10-30)
+    "2 TRAN エマ・/レオンハート/", "3 LANG ja", "3 GIVN エマ", "3 SURN レオンハート",
+    "2 TRAN /이/ 명월", "3 LANG ko", "3 SURN 이", "3 GIVN 명월", "2 NOTE Usual name",
+    "1 NAME /Lǐ/ Mìngyuè", "2 TYPE OTHER", "3 PHRASE Chinese name", "2 TRAN /李/ 命玥", "3 LANG zh",
+    "2 NOTE Chinese name",
     "1 NAME Emma Himiko Helensdotter von Bureus Leonhart no Mikotodama", "2 TYPE OTHER",
     "3 PHRASE ceremonial neo-kun'yomi name", "2 TRAN 閻魔日巫女平連娘武李獅心命玥", "3 LANG ja",
 ]
@@ -412,6 +421,19 @@ def mark_tran_surnames(primary):
                 given = text[:at].rstrip("・· ")
                 out += [f"2 TRAN {text[:at]}/{r}/{text[at + len(r):]}", primary[k + 1]]
                 out += ([f"3 GIVN {given}"] if given else []) + [f"3 SURN {r}"]
+                out += primary[k + 2:sub_end]
+                k = sub_end
+                continue
+            # A translation of another surname, word for word the same length (the married name a source translated,
+            # エリー・オリビア・フリスク under Elly Olivia /Andersson/): its last word becomes the surname's reading,
+            # since the maiden name is the name (Emma, 2026-10-30).
+            words = re.split(r"[・· ]", text)
+            name_words = primary[0][7:].replace("/", " ").split()
+            if (r and "/" not in text and not has_pieces and r not in text and len(words) == len(name_words) > 1
+                    and primary[0].rstrip().endswith("/")):
+                sep = text[len(text) - len(words[-1]) - 1]
+                given = text[: len(text) - len(words[-1]) - 1]
+                out += [f"2 TRAN {given}{sep}/{r}/", primary[k + 1], f"3 GIVN {given}", f"3 SURN {r}"]
                 out += primary[k + 2:sub_end]
                 k = sub_end
                 continue
@@ -514,6 +536,8 @@ def name_blocks_to_tran(body, emma=False):
             if kk is not None and kk != k and lg in have:
                 drop.add(kk)
     blocks[pi] = mark_tran_surnames(primary)
+    if "2 NOTE Usual name" not in blocks[pi]:   # the usual name, labelled (Emma, 2026-10-30)
+        blocks[pi].append("2 NOTE Usual name")
     return [l for k, b in enumerate(blocks) if k not in drop for l in b]
 
 
