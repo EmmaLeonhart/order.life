@@ -73,14 +73,17 @@ def load_table():
 def load_splits():
     """gaiad_legacy_splits.tsv: one record that is two people, split at every build (the unmerge of order.life's cycle
     policy). Each row moves, from record <legacy_number> to a new record <new_number> named <new_name>: the NAMEs listed,
-    the order.life REFNs listed, the child link to the family of the parent listed, the spouse families with the spouses
-    listed (all by legacy number, which hold across builds) and the Wikidata links listed out of its note."""
+    the REFN/EXID values listed, the child link to the family of the parent listed, the spouse families with the spouses
+    listed (all by legacy number, which hold across builds) and the Wikidata links listed out of its note.
+    <move_primary_trans> yes: the old primary name's translations go to the new name (they were the other half's).
+    <old_primary>: the name the old record keeps as its primary, when its primary moved."""
     if not SPLITS.exists():
         return []
     rows = [r.split("\t") for r in SPLITS.read_text(encoding="utf-8").split("\n")[1:] if r.strip()]
     lst = lambda s: [x for x in s.split("|") if x]
-    return [dict(n=int(r[0]), m=int(r[1]), name=r[2], names=lst(r[3]), refn=lst(r[4]),
-                 child_of={int(x) for x in lst(r[5])}, spouses={int(x) for x in lst(r[6])}, links=lst(r[7]))
+    return [dict(n=int(r[0]), m=int(r[1]), name=r[2], names=lst(r[3]), ids=lst(r[4]),
+                 child_of={int(x) for x in lst(r[5])}, spouses={int(x) for x in lst(r[6])}, links=lst(r[7]),
+                 primary_trans=r[8].strip() == "yes", old_primary=r[9].strip())
             for r in rows]
 
 
@@ -92,28 +95,26 @@ def split_records(indis, others, pos):
         n, m = s["n"], s["m"]
         if n not in indis or m in indis:
             continue
-        old, new = [], [[f"1 NAME {s['name']}"]]
-        primary_seen = False
+        old, new, primary = [], [], None
+        old_primary_block, first_kept = None, True
         for b in indis[n]:
             head = b[0]
             if head.startswith("1 NAME "):
                 value = head[7:]
-                if value in s["names"]:
-                    if value != s["name"]:
-                        new.append(b)
-                    continue
-                if not primary_seen:
-                    # the primary name's translations follow the new name where they are its (they were the merged
-                    # record's other half); the Gaiad builder took them from the order.life label of the moved item
-                    primary_seen = True
-                    keep = [b[0]] + [l for l in b[1:] if not l.startswith(("2 TRAN", "3 LANG"))]
-                    moved = [l for l in b[1:] if l.startswith(("2 TRAN", "3 LANG"))]
-                    if moved:
-                        new[0] += moved
-                    old.append(keep)
-                    continue
-                old.append(b)
-            elif head.startswith("1 REFN ") and head[7:].strip() in s["refn"]:
+                if value == s["name"]:
+                    primary = [b[0]] + [l for l in b[1:] if l != "2 TYPE AKA"]
+                elif value in s["names"]:
+                    new.append(b)
+                elif value == s["old_primary"]:
+                    old_primary_block = [b[0]] + [l for l in b[1:] if l != "2 TYPE AKA"]
+                elif first_kept and s["primary_trans"]:
+                    first_kept = False
+                    old.append([b[0]] + [l for l in b[1:] if not l.startswith(("2 TRAN", "3 LANG"))])
+                    primary = (primary or [f"1 NAME {s['name']}"]) + [l for l in b[1:] if l.startswith(("2 TRAN", "3 LANG"))]
+                else:
+                    first_kept = False
+                    old.append(b)
+            elif head.startswith(("1 REFN ", "1 EXID ")) and head[7:].strip() in s["ids"]:
                 new.append(b)
             elif head.startswith("1 SEX "):
                 old.append(b)
@@ -137,6 +138,9 @@ def split_records(indis, others, pos):
                 old.append(text)
             else:
                 old.append(b)
+        if old_primary_block:
+            old.insert(0, old_primary_block)
+        new.insert(0, primary or [f"1 NAME {s['name']}"])
         if s["links"]:
             new.append(["1 NOTE Links: " + "; ".join(f"Wikidata https://www.wikidata.org/wiki/{q}" for q in s["links"])])
         new.append([f"1 REFN {m}", "2 TYPE Gaiad legacy number"])
