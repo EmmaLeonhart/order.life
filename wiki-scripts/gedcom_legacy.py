@@ -38,6 +38,7 @@ TABLE = ANALYSIS / "gaiad_legacy_numbers.tsv"
 MERGES = ANALYSIS / "gaiad_legacy_merges.tsv"
 SPLITS = ANALYSIS / "gaiad_legacy_splits.tsv"
 CUTS = ANALYSIS / "gaiad_legacy_cuts.tsv"
+BIOS = ANALYSIS / "gaiad_legacy_bios.tsv"   # "<legacy number> <bio>": the bio slot of the note (links, bio, quotes, numbers)
 EPIC = ANALYSIS.parent.parent / "Gaiad" / "epic"
 NS = uuid.uuid5(uuid.NAMESPACE_URL, "https://order.life/gaiad/individual/")   # as build_gaiad_ged.py
 HEADER = "legacy_number\tpart\tfirst_name\tuid\trefn\texid"
@@ -388,6 +389,12 @@ def apply(lines, register=True):
         body_out += [first] + repoint(body)
     n_joined = 0
     indi_out = []
+    if BIOS.exists():
+        for r in BIOS.read_text(encoding="utf-8").split("\n")[1:]:
+            if r.strip():
+                num, bio = r.split("\t", 1)
+                if int(num) in indis:
+                    indis[int(num)].append([f"1 NOTE {bio.strip()}"])
     for n in sorted(indis, key=lambda x: pos.get(x, len(pos) + x)):
         blocks = blocks_of(repoint([l for b in indis[n] for l in b]))
         n_joined += sum(b[0].startswith("1 NOTE ") for b in blocks) > 1
