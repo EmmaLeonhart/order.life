@@ -2181,7 +2181,7 @@ Would revolutionize the plant kingdom's art.
 Their children would advance from day to day,
 Each playing their essential, vital part.
 
-From them came {{c|19|Rhodes}}, the red algae's king,
+From them came {{c|90839|Rhodes}}, the red algae's king,
 Whose pigments caught the deeper, darker light.
 And {{c|334|Vert}}, whose green descendants would sing
 In forests, fields, and meadows bright.
@@ -2300,16 +2300,16 @@ The capture of the sun's life-giving light,
 And make their solar kingdom truly rise.
 
 From their blessed union came two children bold:
-Great {{c|19|Rhodes}}, the red algae's mighty king,
+Great {{c|90839|Rhodes}}, the red algae's mighty king,
 And {{c|334|Vert}}, whose green descendants would unfold
 In forests where the songbirds love to sing.
 
-Now {{c|19|Rhodes}} possessed accessory pigments rare,
+Now {{c|90839|Rhodes}} possessed accessory pigments rare,
 {{c|340|Phycoerythrin}}'s pink and red so bright.
 He caught the deeper wavelengths in the air
 That others missed in depths beyond their sight.
 
-"The shallow waters," {{c|19|Rhodes}} proclaimed with pride,
+"The shallow waters," {{c|90839|Rhodes}} proclaimed with pride,
 "Are not the only realm where light may dwell.
 I'll delve beneath the surface, far and wide,
 In crimson depths I'll thrive and prosper well."
@@ -2350,7 +2350,7 @@ And {{c|348|Oomy}} with his spines of liquid gold,
 And {{c|349|Bigyres}}, swimming in the morning light.
 
 But {{c|347|Ochros}} was the cleverest of all,
-He saw fair {{c|350|Rosa}}, daughter of great {{c|19|Rhodes}}.
+He saw fair {{c|350|Rosa}}, daughter of great {{c|90839|Rhodes}}.
 "Come to my house," he heard love's call,
 "And share with me photosynthetic codes."
 
@@ -2598,7 +2598,7 @@ It broke the ocean's living spell,
 And left most lineages destroyed.
 
 The seas that once were crimson red
-With {{c|19|Rhodes}}' children everywhere,
+With {{c|90839|Rhodes}}' children everywhere,
 Now held the corpses of the dead,
 While few survivors gasped for air.
 
@@ -8242,7 +8242,7 @@ Into living stone—
 She, daughter all her own
 
 Of {{c|372|Florida}}, who came
-From {{c|19|Rhodes}} of ancient name.
+From {{c|90839|Rhodes}} of ancient name.
 They built coralline {{c|889|Algae}},
 The plaster, galaxy
 
