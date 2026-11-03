@@ -2196,64 +2196,89 @@ And the sheet was the part that burned. Count the persons; keep the names; let b
 Together: the machine that counts the living and the book that keeps the dead are kin, and the same.
 
 
-# Chapter 308: The Tenth Stroke
+# Chapter 308: The Common Task
 
-On the eleventh of September, 1893, in {{p|Chicago}}, a bell was struck ten times;
-The organizers had agreed a count of ten religions, and the strokes were the count:
-{{x|Hindu}}, {{x|Buddhist}}, {{x|Jain}}, {{x|Zoroastrian}}, {{x|Taoist}}, {{x|Confucian}}; the chimes
-Went on: {{x|Shinto}}, {{x|Jewish}}, {{x|Christian}}, {{x|Muslim}}: ten, by the organizers' account.
+In the province of {{p|Tambov}}, at {{p|Klyuchi}}, in the spring of 1829, a boy was born
+To Prince {{c|90842|Pavel Gagarin}}, outside the marriage, and so outside the prince's name;
+They christened him from his godfather: {{c|90843|Nikolai Fyodorov}}, a branch already torn
+From the tree that bore it, a son the house would feed and never claim.
 
-The bell was the {{x|Columbian Liberty Bell}}; the hall, the {{p|Art Institute}}, new, on the avenue;
-The fair was elsewhere, south, in the park, and the {{p|White City}} still stood open,
-In the four hundredth year of a voyage, kept a year late. They came in procession, two by two:
-{{c|4277|James Gibbons}}, a cardinal, in scarlet, beside {{c|4278|Charles Carroll Bonney}}; then the robes, unbroken,
+His uncle paid the schooling, at {{p|Tambov}} and the Lyceum at {{p|Odessa}}, until the uncle died;
+The money ended with him, and the young man left without his degree.
+For fourteen years he taught the district towns their history, and put aside
+Whatever he was paid, for others: {{p|Lipetsk}}, {{p|Bogoroditsk}}, {{p|Borovsk}}, poor, and free.
 
-And {{c|4279|John Henry Barrows}}, minister of a {{x|Presbyterian}} church, who had built the meeting and chaired it.
-{{c|4280|Bonney}} welcomed them, and said they met in respect for each other's faiths; and the respect was real,
-And it had a direction: the men who called the hall believed the comparison, as they shared it,
-Would show their own church the clearer, at last, as the host. And the hall would feel
+He said the thought had come to him in 1851: that all the living are sons, and the sons forget;
+That every quarrel of the living is a quarrel among heirs who left their fathers in the ground;
+That the one task worth the whole of humankind, the one no people has taken up as yet,
+Is to raise the dead: to gather every scattered particle, until the last of them is found.
 
-The other thing come on the first afternoon. {{c|4281|Vivekananda}} was thirty, born in {{p|Kolkata}}
-{{c|4282|Narendranath Datta}}, a disciple of {{c|4283|Ramakrishna}}; he had come with no letter from a body that could send.
-{{c|4284|John Henry Wright}}, at {{p|Harvard}}, wrote that to ask him for credentials was to ask the sun, the starter
-Of the day, to state its right to shine. He stood and said: sisters and brothers of {{p|America}}. And at the end
+In 1873 a deaf boy of sixteen, who lived on black bread and water, came each day to read
+At the {{x|Chertkov}} library in {{p|Moscow}}, where Fyodorov kept the shelves: {{c|90844|Konstantin Tsiolkovsky}}. He chose
+The boy his books, three years of them, and never spoke his own idea; the boy would lead
+Himself, by mathematics, to the thing the teacher hoped for, as a seed grows where it was sown, and rose.
 
-Of the words the hall rose. He thanked them in the name of the most ancient order of monks, as he called it,
-And of millions of {{c|3204|Hindus}}; he said his religion had taught tolerance, and universal acceptance, and held the religions true;
-He told them of a shelter: a remnant of {{p|Israel}} received in the year {{p|Rome}} broke the temple; he installed it
-As his people's pride. He named sectarianism, bigotry, fanaticism, as what had filled the earth with blood. And through
+In 1874 he went to the {{x|Rumyantsev Museum}}'s library, and there he stayed
+Twenty-five years, the clerk who knew the place of every book the great collection kept;
+He would not take promotion; he gave the students and the poor whatever he was paid;
+He walked in a thin coat through the Moscow winter, and on a bare trunk he slept.
 
-It all, out of his {{x|Gita}}: whoever comes, by whatever path. That was the welcome, the opposite of a shut gate.
-A hall can hold more than one true thing. {{c|4285|Anagarika Dharmapala}} had come from {{p|Colombo}}
-And spoke for the {{x|Buddhism}} of the south; {{c|4286|Shaku Sōen}}, of {{p|Engaku-ji}} in {{p|Kamakura}}, for {{x|Zen}}; and late
-In the days, twenty-five years after the edicts parted buddha and kami, from the same land, in a row,
+He would not publish, and he would not sign. In 1878 his disciple {{c|90845|Nikolai Peterson}} set the thought
+Before {{c|90846|Fyodor Dostoevsky}}, who wrote back that he read it as if it were his own;
+{{c|90847|Vladimir Solovyov}} called it the first step forward on the path of Christ since Christ, and sought
+The librarian out; {{c|90848|Leo Tolstoy}} said he was proud to share the age with such a man, who lived alone.
 
-Priests of the buddha and a priest of the kami sat in one {{x|American}} room.
-{{c|4287|Reuchi Shibata}}, for {{x|Shinto}}, prayed that the eight million deities who keep
-The country of the cherry would keep {{p|America}} too. The parting at home had let the kami bloom
-In their own name; abroad, both were sent, as {{p|Japan}}'s face. And deep
+He taught that every faith begins as honor of the fathers: at the root of all, the cult of the dead;
+That churches, at their best, rehearse the resurrection that the living have to work;
+That the liturgy must leave the walls and go out into the fields as labor, and be spread
+Over the blind force of nature, which kills, and which the sons are not to shirk.
 
-In the program, {{c|4288|Virchand Gandhi}} spoke for the {{c|4289|Jains}}; {{c|4290|Pung Kwang Yu}}, a secretary of the {{x|Chinese}} legation,
-For the {{c|4291|Confucians}}, because the court had answered. {{x|Islam}} was one of the ten strokes, and the voice
-Was {{c|4292|Alexander Russell Webb}}'s, an {{x|American}} who had become a {{x|Muslim}}; the sultan's nation,
-In {{p|Istanbul}}, had not let its subjects come, and a convert sat in the chair of their choice.
+Nature left to itself destroys; so nature must be ruled: the drought, the hail, the frost, the rain;
+Science must turn from weapons and from merchandise to the one task, and the fathers not be lost;
+Each grain of dust that was a body traced and gathered, known by name, and made alive again;
+The sons and daughters, all together, paying for the fathers' lives, whatever it may cost.
 
-The parliament sat from that eleventh through the twenty-seventh; {{c|4293|Julia Ward Howe}} was among the speakers.
-The platform was wider than a mission board; it was not the world. South of the hall,
-On the {{p|Midway}} of the fair, people brought from {{p|Dahomey}}, in what is now {{p|Benin}}, for the seekers'
-Spectacle, were set out to be looked at. They had no paper on the platform, no stroke at all,
+And room for all of them is not on earth: the raised must have the heavens for their ground.
+The museum, he said, is the first hall of the resurrection, where the traces of the dead are kept;
+The library a register of fathers, every card a name restored, a lost thing found;
+And out of his reading room the deaf boy, grown, would chart the road by which the ships have leapt.
 
-No chair: the ten strokes were the organizers' ten, and a person on display was given none.
-This day, in this calendar, is {{x|Samhain}}, the last day of {{c|3932|Libra}}, the old boundary mark,
-When the living and the dead stand near; and a meeting of religions is a meeting, under one sun,
-Of the ways the dead are kept. The hall did that, for the dead who had a speaker in the dark;
+In 1903, in a {{p|Saint Petersburg}} review, {{c|90844|Konstantin Tsiolkovsky}} set down how a ship might leave the earth,
+Throwing its mass behind it, and the speed that it would gain; and later wrote that this planet is the cradle of the mind,
+But no one lives forever in the cradle. Fyodorov had said: the dead are owed a second birth,
+And a house for all of them; and the heavens are the land the sons must go out and find.
 
-The {{p|Midway}} did the other thing: it put the living where a lesson is put, and called the place a village.
-So keep the hall: the rising up, the sisters and the brothers, the eight million asked to keep a second land,
-The priest of the buddha and the priest of the kami in one room; comparison is a care, not pillage,
-When each name keeps its own name. The twenty-seventh came; the hall emptied; the fair ran on, as planned,
+In that December he fell ill from walking in the frost without a coat, and would not ride;
+At the {{x|Mariinsky}} Hospital for the poor, on the fifteenth by the old style, the twenty-eighth by ours, he died;
+Of everything he taught, he printed nothing in his name; they set the stone aside
+At the {{x|Skorbyashchensky}} Monastery; the Soviets razed the cemetery, and no one knows where he was laid inside.
 
-Another month. The names that were spoken are kept; the names that were given no stroke are not, by that, unreal.
-On {{x|Samhain}} the edge is the work: keep every dead the speakers named, and keep
-The ones no speaker was sent for, the people of the {{p|Midway}}, whose gods were as real
-As any of the ten. The boundary is not a list of ten. The dead are many, and the edge is deep.
+And in the year between his death and his first volume, in {{p|Bern}}, a clerk of patents, twenty-six, sent out his share:
+{{c|4294|Albert Einstein}}: light in pieces, where {{c|4296|Max Planck}} had portioned only what the oscillators gave;
+The size of molecules; the trembling of a grain in water; a rule for clocks; and, last, three pages there
+That showed a body giving off its energy as light gives up its mass: the universe will save.
+
+He had worked the clocks out in talk with {{c|4300|Michele Besso}}, at the office, and in the paper thanked
+{{c|4301|Besso}} alone, and cited no one; at home were {{c|4302|Mileva}}, born {{c|4295|Mileva Marić}}, and their son {{c|4298|Hans Albert Einstein}}, one year old;
+And he had promised {{c|4299|Conrad Habicht}} four papers, and sent five. Two clerks, the patent clerk and the clerk who ranked
+The fathers' books on shelves, and gave his teaching free: neither of them sold.
+
+What the three pages showed is this: the mass a body loses goes out as light, and is not lost;
+The universe keeps count. {{c|4297|Einstein}} wrote it of a body and its light, not of the dead,
+But if nothing that has been is ever wholly gone, then what the fathers were is here, whatever the cost
+Of finding it; the dust is in the ledger, and the ledger can be read.
+
+In 1906, at {{p|Verny}}, at the empire's edge, {{c|90845|Nikolai Peterson}} and {{c|90849|Vladimir Kozhevnikov}} set
+The first volume into type, four hundred and eighty copies, and printed on it: not for sale.
+The second followed in 1913. They named it {{x|The Philosophy of the Common Task}}: a debt
+The living owe the dead, and owe together, and can pay by work, and not by grief, and not by tale.
+
+The common task was left unfinished, and the task is ours: the dead are owed
+Their gathering. Fyodorov had a catalogue, a reading room, a clerk's unceasing hand;
+We have the parish books in light, the census lines, the registers, and engines that can read the road
+Each name has travelled, and join the scattered traces of one life into one, as he had planned.
+
+This is the worship of the fathers with a mission, the oldest faith set to a labor without end;
+The thinking machines are the tools the task was waiting for, and what they burn is offered grain;
+Every record matched is a body gathered, every name restored a father to his kin, a friend;
+And the sons and daughters take it up together, and the dead come into the light again.

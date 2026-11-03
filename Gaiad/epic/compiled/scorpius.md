@@ -1,145 +1,142 @@
 # Scorpius (12宮) - Days 309-336
 
 
-# Chapter 309: The Common Task
+# Chapter 309: The Same Instant
 
-In the province of {{p|Tambov}}, at {{p|Klyuchi}}, in the spring of 1829, a boy was born
-To Prince {{c|90842|Pavel Gagarin}}, outside the marriage, and so outside the prince's name;
-They christened him from his godfather: {{c|90843|Nikolai Fyodorov}}, a branch already torn
-From the tree that bore it, a son the house would feed and never claim.
+On the fourteenth of March, 1905, {{c|4294|Albert Einstein}} turned twenty-six;
+He had been born in {{p|Ulm}} on that day in 1879. He was in {{p|Bern}},
+A {{x|Swiss}} citizen since February 1901; and the patent office, by its picks
+In June of 1902, had made him technical expert of the third class. His turn
 
-His uncle paid the schooling, at {{p|Tambov}} and the Lyceum at {{p|Odessa}}, until the uncle died;
-The money ended with him, and the young man left without his degree.
-For fourteen years he taught the district towns their history, and put aside
-Whatever he was paid, for others: {{p|Lipetsk}}, {{p|Bogoroditsk}}, {{p|Borovsk}}, poor, and free.
+By day was judging other people's machines, in a register of inventions;
+In January it had been two years since he married {{c|4295|Mileva Marić}}.
+Three days after the birthday he sent the {{x|Annalen der Physik}} a paper, with a mention
+In its title of a heuristic point of view, on the making of light and its changes; in which,
 
-He said the thought had come to him in 1851: that all the living are sons, and the sons forget;
-That every quarrel of the living is a quarrel among heirs who left their fathers in the ground;
-That the one task worth the whole of humankind, the one no people has taken up as yet,
-Is to raise the dead: to gather every scattered particle, until the last of them is found.
+Where {{c|4296|Max Planck}}, in 1900, had portioned the energy of the oscillators that take and give,
+{{c|4297|Einstein}} portioned the light itself: a quantum of it carries an energy in proportion
+To the frequency. It was printed in June; and in May, in a letter, he let the word live:
+It was revolutionary. On the thirtieth of April, a dissertation, a portion
 
-In 1873 a deaf boy of sixteen, who lived on black bread and water, came each day to read
-At the {{x|Chertkov}} library in {{p|Moscow}}, where Fyodorov kept the shelves: {{c|90844|Konstantin Tsiolkovsky}}. He chose
-The boy his books, three years of them, and never spoke his own idea; the boy would lead
-Himself, by mathematics, to the thing the teacher hoped for, as a seed grows where it was sown, and rose.
+Of the same months, went to the University of {{p|Zurich}}: a new determination of the size
+Of molecules, from diffusion and the drag inside a dilute solution. On the twenty-seventh of July
+The {{x|Philosophy II}} faculty approved it, unanimously; the degree's formal rise
+Was dated the fifteenth of January, 1906. On the eleventh of May, the next went by
 
-In 1874 he went to the {{x|Rumyantsev Museum}}'s library, and there he stayed
-Twenty-five years, the clerk who knew the place of every book the great collection kept;
-He would not take promotion; he gave the students and the poor whatever he was paid;
-He walked in a thin coat through the Moscow winter, and on a bare trunk he slept.
+To the {{x|Annalen}}: particles a thousandth of a millimeter, hung in a liquid otherwise still,
+Must wander so the wander can be seen, if heat is molecules in motion.
+Physiologists had watched that wander and named it {{x|Brownian}}; he did not find it; his skill
+Was to show that molecules, if real, require it, and to set the measure, the notion
 
-He would not publish, and he would not sign. In 1878 his disciple {{c|90845|Nikolai Peterson}} set the thought
-Before {{c|90846|Fyodor Dostoevsky}}, who wrote back that he read it as if it were his own;
-{{c|90847|Vladimir Solovyov}} called it the first step forward on the path of Christ since Christ, and sought
-The librarian out; {{c|90848|Leo Tolstoy}} said he was proud to share the age with such a man, who lived alone.
+Of a thing too small to see tested by a thing that is seen. It was printed the eighteenth of July.
+On the fourteenth of May his son, {{c|4298|Hans Albert Einstein}}, turned one;
+On the eighteenth he wrote from {{p|Bern}} to {{c|4299|Conrad Habicht}}, gone from the city, a reply
+Promising four papers: the light, very revolutionary; the true size of the atoms; one
 
-He taught that every faith begins as honor of the fathers: at the root of all, the cult of the dead;
-That churches, at their best, rehearse the resurrection that the living have to work;
-That the liturgy must leave the walls and go out into the fields as labor, and be spread
-Over the blind force of nature, which kills, and which the sons are not to shirk.
+On the visible random motion; and the fourth only a draft: an electrodynamics, a turning
+Of the teaching of space and time. He worked it out in talk with {{c|4300|Michele Besso}}, at the office;
+He sent it, he said, five or six weeks after the idea came; the {{x|Annalen}}, learning
+Of it on the thirtieth of June, printed it the twenty-sixth of September: about thirty pages, and of this,
 
-Nature left to itself destroys; so nature must be ruled: the drought, the hail, the frost, the rain;
-Science must turn from weapons and from merchandise to the one task, and the fathers not be lost;
-Each grain of dust that was a body traced and gathered, known by name, and made alive again;
-The sons and daughters, all together, paying for the fathers' lives, whatever it may cost.
+No list of authorities. It opens on an asymmetry that sits in the telling only:
+A magnet moving near a conductor, and a conductor near a magnet, make the same current,
+And the usual account tells them as two kinds of happening. He wanted, solely,
+An account that adds no difference the observed thing does not have. Two statements are the warrant
 
-And room for all of them is not on earth: the raised must have the heavens for their ground.
-The museum, he said, is the first hall of the resurrection, where the traces of the dead are kept;
-The library a register of fathers, every card a name restored, a lost thing found;
-And out of his reading room the deaf boy, grown, would chart the road by which the ships have leapt.
+For the rest: the laws take the same form in every frame that moves at a steady speed in a line;
+And light in empty space has one speed, not hanging on the motion of its source.
+He did not say that everything is relative: the laws are one, the speed is one; and the sign
+Of the same instant is not a property of the world apart from a procedure, a course
 
-In 1903, in a {{p|Saint Petersburg}} review, {{c|90844|Konstantin Tsiolkovsky}} set down how a ship might leave the earth,
-Throwing its mass behind it, and the speed that it would gain; and later wrote that this planet is the cradle of the mind,
-But no one lives forever in the cradle. Fyodorov had said: the dead are owed a second birth,
-And a house for all of them; and the heavens are the land the sons must go out and find.
+Of clocks: clocks at rest with one another set by a light signal, the time out
+Made equal to the time back; and that agreement is "at the same time" for those who share the frame.
+Another frame, in uniform motion, using the same rule, pairs other events; and about
+The length of a duration, they differ too. What is shared is the speed, and the laws' form, the same.
 
-In that December he fell ill from walking in the frost without a coat, and would not ride;
-At the {{x|Mariinsky}} Hospital for the poor, on the fifteenth by the old style, the twenty-eighth by ours, he died;
-Of everything he taught, he printed nothing in his name; they set the stone aside
-At the {{x|Skorbyashchensky}} Monastery; the Soviets razed the cemetery, and no one knows where he was laid inside.
+The paper names no book and no predecessor; it ends by thanking {{c|4301|Besso}}, friend and colleague,
+For his help and his suggestions: one living name. In the late summer he went
+With {{c|4302|Mileva}} and the child to {{p|Serbia}}, to friends and to her family; and from that league
+Of days, on the twenty-seventh of September, three pages to the {{x|Annalen}} were sent:
 
-And in the year between his death and his first volume, in {{p|Bern}}, a clerk of patents, twenty-six, sent out his share:
-{{c|4294|Albert Einstein}}: light in pieces, where {{c|4296|Max Planck}} had portioned only what the oscillators gave;
-The size of molecules; the trembling of a grain in water; a rule for clocks; and, last, three pages there
-That showed a body giving off its energy as light gives up its mass: the universe will save.
+Does the inertia of a body depend upon its energy content? Printed the twenty-first of November:
+If a body gives off energy as light, its mass grows less by that energy over the speed of light squared.{{fn|The famous form, E = mc², is a later writing of what the three pages showed; the page itself does not print it.}}
+In the same year the supplement carried twenty-one short reviews he wrote, which remember
+The ordinary work of heat; the revolution and the notices went out of {{p|Bern}} paired.
 
-He had worked the clocks out in talk with {{c|4300|Michele Besso}}, at the office, and in the paper thanked
-{{c|4301|Besso}} alone, and cited no one; at home were {{c|4302|Mileva}}, born {{c|4295|Mileva Marić}}, and their son {{c|4298|Hans Albert Einstein}}, one year old;
-And he had promised {{c|4299|Conrad Habicht}} four papers, and sent five. Two clerks, the patent clerk and the clerk who ranked
-The fathers' books on shelves, and gave his teaching free: neither of them sold.
+He called the countable light revolutionary, and the clocks a modification, still a draft.
+He was right about the light; he had not yet seen how far the clocks would reach.
+The prize for 1921, announced in 1922, cited the photoelectric law, the craft
+Of the light paper, not the clocks. And what the clocks did was teach
 
-What the three pages showed is this: the mass a body loses goes out as light, and is not lost;
-The universe keeps count. {{c|4297|Einstein}} wrote it of a body and its light, not of the dead,
-But if nothing that has been is ever wholly gone, then what the fathers were is here, whatever the cost
-Of finding it; the dust is in the ledger, and the ledger can be read.
+That "at the same time" comes down from the sky into a method anyone can state:
+Two observers who follow it can disagree, and the disagreement is not a fault in either clock;
+It is the motion between the frames. A rule is better than a hidden absolute, and is straight.
+This calendar is such a rule: the days in one sequence, kept, the register's lock
 
-In 1906, at {{p|Verny}}, at the empire's edge, {{c|90845|Nikolai Peterson}} and {{c|90849|Vladimir Kozhevnikov}} set
-The first volume into type, four hundred and eighty copies, and printed on it: not for sale.
-The second followed in 1913. They named it {{x|The Philosophy of the Common Task}}: a debt
-The living owe the dead, and owe together, and can pay by work, and not by grief, and not by tale.
+On an order a person can say. A register is a frame that was chosen and then not dropped.
+The dead are not simultaneous with the living; they are earlier, in the order the register keeps,
+And that order is a procedure, as his clocks were. Count the light: it comes in pieces, cropped
+And numbered. Keep the days. The same instant is a thing you make; and the making reaps
 
-The common task was left unfinished, and the task is ours: the dead are owed
-Their gathering. Fyodorov had a catalogue, a reading room, a clerk's unceasing hand;
-We have the parish books in light, the census lines, the registers, and engines that can read the road
-Each name has travelled, and join the scattered traces of one life into one, as he had planned.
-
-This is the worship of the fathers with a mission, the oldest faith set to a labor without end;
-The thinking machines are the tools the task was waiting for, and what they burn is offered grain;
-Every record matched is a body gathered, every name restored a father to his kin, a friend;
-And the sons and daughters take it up together, and the dead come into the light again.
+An order for the names: a signal, and a rule that the way there is the way back.
+Make it, and say which frame you made it in: this is the frame of the line,
+The Gaian days, chosen, and kept, and not dropped; and on that track
+The dead and the living stand in their order, each in its place, each day a sign.
 
 
 # Chapter 310: The Round Altar
 
-On the tenth of October, 1911, the soldiers rose at {{p|Wuchang}},
-Which is now part of {{p|Wuhan}}; and through the autumn the provinces left the court.
-{{c|4303|Sun Yat-sen}} was abroad. On the twenty-ninth of December the assembly at {{p|Nanjing}}, among
-Its first acts, chose him provisional president; on the first of January, 1912, by report
+The soldiers rose at {{p|Wuchang}}, now in {{p|Wuhan}}, on October's tenth day
+In nineteen-eleven; and all that autumn the provinces fell away.
+{{c|4303|Sun Yat-sen}} was abroad. At {{p|Nanjing}}, as the year came to its close,
+On the twenty-ninth of December, the assembly met, and him they chose
 
-He took the office there, and they numbered the year as the first of the republic.
-The emperor was six: {{c|4304|Puyi}}, born on the seventh of February, 1906.
-On the twelfth of February, 1912, an edict went out in his name, made public
-By {{c|4305|Longyu}}, the empress dowager, widow of the emperor {{c|4306|Guangxu}}; the child was his
+Provisional president; on New Year's Day of nineteen-twelve, by report,
+He took the office there, and the year was the republic's first. In the court
+The emperor was six: {{c|4304|Puyi}}, born in nineteen-oh-six, on February's seventh day;
+On February's twelfth, nineteen-twelve, an edict in his name went on its way,
 
-Nephew, not her son. Officials wrote the words; the decree that sent them was hers.
+Made public by {{c|4305|Longyu}}, the empress dowager, widow of {{c|4306|Guangxu}}; the throne
+Was the child's, his nephew, not her son. Officials wrote the words; the decree was hers alone.
 It said the people's army had risen, the provinces had answered, and the living lay in the wreck;
-That where the people's hearts had turned, the mandate could be known; that it prefers
-Not to keep the honor of one surname against the many. It gave, at the people's beck,
+That where the people's hearts had turned, the mandate could be known; that it would not check
 
-The right to rule to the whole country, and named the form a constitutional republic,
-And set beside the grant an old sentence: all under heaven is a public thing.
-It named {{c|4307|Yuan Shikai}} prime minister by the {{x|Advisory Council}}'s election, and gave him, quick,
-Full power to organize a provisional government and confer with the people's army, to bring
+The many for one surname's honor; and it gave the right to rule, as the people would,
+To the whole country, and named the form a constitutional republic, and set beside it a sentence old and good:
+All under heaven is a public thing. It named {{c|4307|Yuan Shikai}}, whom the {{x|Advisory Council}} chose,
+Prime minister, with full power to organize a provisional government, to confer with the people's army, and to bring those
 
-Five peoples to stand as one republic: {{x|Manchu}}, {{x|Han}}, {{x|Mongol}}, {{x|Hui}}, {{x|Tibetan}},
-The house that was signing setting its own name first. On the fifteenth of February, chosen
-By the assembly at {{p|Nanjing}}, {{c|4309|Yuan}} was provisional president; and on the tenth of March, then,
-He took the oath in {{p|Beijing}}, not in {{p|Nanjing}}: the capital stayed where he stood. And, as spoken,
+Five peoples to stand as one republic: {{x|Manchu}}, {{x|Han}}, {{x|Mongol}}, {{x|Hui}}, {{x|Tibetan}}, in that line,
+The house that was signing setting its own name first. On the fifteenth of February, by the assembly's design
+At {{p|Nanjing}}, {{c|4309|Yuan}} was provisional president; on the tenth of March he swore
+In {{p|Beijing}}, not in {{p|Nanjing}}: the capital stayed where he stood, as before.
 
-The child stayed in the palace: articles that went with the edict left him the title of emperor
-And a little court inside the {{p|Forbidden City}}; he was behind those walls on the fifth of November, 1924,
-When the soldiers of {{c|4308|Feng Yuxiang}} put him out. A courtesy inside a palace is a courtesy; the door
-Of the winter rite was another thing. South of the city stands the {{p|Temple of Heaven}}, and more
+And the child stayed in the palace: articles that went with the edict left him emperor in name,
+And a little court inside the {{p|Forbidden City}}; he was behind those walls until soldiers came
+On the fifth of November, nineteen twenty-four: {{c|4308|Feng Yuxiang}}'s men put him out of the door.
+A courtesy inside a palace is a courtesy; the winter rite was something more.
 
-Than an altar: the {{x|Ming}} raised the precinct in the fifteenth century, and later emperors built the round altar again;
-The duty they claimed is older than the brick. The {{x|Qing}} rite was the emperor's, at the solstice in the winter,
-At the round altar, for {{c|2162|Heaven}}. The February edict closed the house; and when
-The house closed, the rite was orphaned, and that was a loss: the state's own prayer, the centre
+South of the city stands the {{p|Temple of Heaven}}, more than an altar: the {{x|Ming}}
+Raised the precinct in the fifteenth century; later emperors built the round altar again, and its ring
+Is newer than the duty, for the duty they claimed is older than the brick.
+The {{x|Qing}} rite was the emperor's, at the solstice in the winter, when the dark is thick,
+At the round altar, for {{c|2162|Heaven}}. The February edict closed the house; and the rite,
+When the house closed, was orphaned, and that was a loss: the state's own prayer, the one light
 
-Of the year, the one fire a whole country lit for the sky. On the twenty-third of December, 1914,
-The winter solstice, the third of the republic, {{c|4309|Yuan}} came to the round altar as president,
-Changed into the old sacrificial dress, and the prayer was read: it named the day, the scene,
-Named him president, representing the people; said that {{c|2162|Heaven}} looks down, and the charge is sent
+A whole country lit for the sky, the centre of the year. At the solstice, at the year's turn,
+On December's twenty-third, nineteen-fourteen, the republic's third, {{c|4309|Yuan}} came, as president, to the altar's ascent,
+Changed into the old sacrificial dress, and stood where the fire would burn,
+And the prayer was read: it named the day, the scene, named him president, representing the people; said that {{c|2162|Heaven}} looks down, and the charge is sent
 
 And gathered on the people. It did not call him {{c|4310|Son of Heaven}}. What was read was burned,
-As that rite burns its writing. He stood there to keep the rite of Heaven for {{p|China}};
+As that rite burns its writing. He stood there to keep the rite of {{c|2162|Heaven}} for {{p|China}}; some saw a sign:
 A missionary from {{p|Germany}} read the day as a stair toward a throne; and the stair was earned:
-He was the Chinese Napoleon, and this book is with him, as with Ungern-Sternberg, the diviner
+He was the Chinese Napoleon, and this book is with him, as with Ungern-Sternberg, whose design
 
-Of a throne in the steppe. The next winter {{c|4309|Yuan}} accepted an imperial title,
-On the twelfth of December, 1915; the reign-name was to be {{x|Hongxian}},
-To open on the first of January; he held no formal enthronement. The recital
-Ended on the twenty-second of March, 1916, when he put the title down; and then,
+Was a throne in the steppe. The next winter {{c|4309|Yuan}} would,
+On December's twelfth, nineteen-fifteen, accept an imperial title; {{x|Hongxian}}, it was understood,
+Was the reign-name, to open on the first of January; there was no formal enthronement at all.
+On March's twenty-second, nineteen-sixteen, he put the title down; and not long after the fall,
 
 On the sixth of June, he died. And no later president of the republic came to the mound;
 That fire was the last the state lit there for {{c|2162|Heaven}}. The rite was a treasure, and it was lost,
@@ -151,10 +148,10 @@ And this calendar keeps names in the order of their days. But a faith that would
 Must have its state rites too: a solstice, and an altar, and a fire, and a dome
 Of sky the whole people stands under, as the round altar stood, and the date
 
-Kept by the state for all of them. The edict called all under heaven public; public still has the dead in it,
-And it has the sky. The round altar is still south of the city; the brick can stand and wait.
-Let a state come back to it, or to an altar like it, and light the fire, and the prayer, and the writing burned, and the minute
-Of the solstice kept for a nation. The names are kept by families; the sky is kept by the state.
+Kept by the state for all of them. The edict called all under heaven public; public still holds the dead, and is not done:
+It has the sky. The round altar is still south of the city; the brick can stand and wait.
+Let a state come back to it, or to an altar like it, and light the fire, and read the prayer, and burn the writing, and keep the one
+Minute of the solstice for a nation. The names are kept by families; the sky is kept by the state.
 
 
 # Chapter 311: The Appointed Hour
