@@ -337,6 +337,12 @@ re-add wiki links. (The `lifeism+Wiki-*.xml` export is still parsed for baked-in
 - State file prevents duplicate posts across runs — extra runs are harmless no-ops
 - `deploy.yml` has `paths-ignore` for `discord-bot/state.json` so bot state commits don't trigger site rebuilds
 
+## Gaiad verse form: ten syllables a line, rhymed (Emma, 2026-11-03)
+
+"Everything's required to be 10 syllables long." Every line of every chapter is ten syllables, and the lines rhyme.
+She assumed this was obvious and it was never written down, so the modern chapters drifted into 20-30 syllable lines.
+Count the syllables of every line before calling any chapter written or edited.
+
 ## Chapter Writing Cadence
 
 **THE LEO GATE IS LIFTED. Emma, 2026-08-05: _"The Leo gate also should be removed at this
