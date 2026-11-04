@@ -1,194 +1,264 @@
 # Chapter 135: I — The Old Europe Hunters
 
-After {{c|1862|F}} emerged from the {{c|1856|CF}} split, {{c|1862|F}} did
-What {{c|1854|CT}} had done before it: {{c|1862|F}} branched. And branched.
-Again. And again. The great generative grid
-Of the human genealogical tree branched and stanched
+When {{c|1862|F}} emerged from the {{c|1856|CF}} split, it did
+What {{c|1854|CT}} had done before: it branched, amid
+The generations, branched, and branched again;
+The generative grid of tree and men,
 
-And continued to branch, at every generation,
-As the migrating peoples spread further east and north
-And west across {{p|Eurasia}}. Within a few thousand
-Years of the {{c|1856|CF}} split, {{c|1862|F}} had put forth
+The human genealogy, was stanched
+And then continued, and at each turn branched,
+At every generation, as the spread
+Of migrant peoples east and northward led,
 
-Several major sub-clades. One of them was called
-{{c|1894|IJK}}. And within {{c|1894|IJK}}, the next split was {{c|1895|IJ}}
-Versus {{c|1877|K}}. And within {{c|1895|IJ}}, the split was {{c|1875|I}} versus {{c|1876|J}}.
+And westward, over {{p|Eurasia}}. Within
+A few thousand years of the split, the kin
+From {{c|1862|F}} came clades; one of them was named
+And {{c|1894|IJK}} it was, and so it stays proclaimed.
 
-It is the {{c|1875|I}} we follow today.
+Within it came the split of {{c|1895|IJ}} and {{c|1877|K}};
+And in {{c|1895|IJ}}, {{c|1875|I}} against the {{c|1876|J}}. Today
+We follow {{c|1875|I}} alone: {{c|1896|Haplogroup I}},
+The line that walked to {{p|Europe}} first; not by
 
-                                   {{c|1896|Haplogroup I}}.
+The first of human kind: for long the ground
+{{c|1897|Neanderthals}}' who held it, and were found
+For hundreds of millennia; the first
+Wave of {{p|Homo sapiens}} there, immersed
 
-The lineage that walked into {{p|Europe}} first. Not the first
-Human beings in {{p|Europe}}—the {{c|1897|Neanderthals}} had held the ground
-For hundreds of thousands of years, and the first wave of {{p|Homo sapiens}}
-Had already been in {{p|Europe}} for a while, walking around
+A while already, walking round the holds
+By {{c|1833|Neanderthal}} strongholds, as it folds
+Three ways: they interbred; at times they vied
+In competition; and at times beside
 
-The {{c|1833|Neanderthal}} strongholds, sometimes interbreeding,
-Sometimes competing, sometimes simply coexisting. But {{c|1875|I}}
-Is the lineage that settled. {{c|1875|I}} is the haplogroup that, feeding
-On the reindeer and the mammoth, stayed, and did not try
+Each other simply coexisted. {{c|1875|I}}
+Is the line that settled, and did not fly
+Back home: the haplogroup that, feeding on
+The reindeer and the mammoth, stayed thereon
 
-To turn back. {{c|1875|I}} is the {{p|European}} hunter-gatherer. {{c|1875|I}}
-Is the one who painted at {{p|Lascaux}}, and at {{p|Altamira}},
-And at {{p|Chauvet}}—or at least, is a good candidate for the who
-Of those long and profound cave-painting epochs. The tiara
+And did not turn again. This ancient line
+Is {{p|Europe}}'s hunter-gatherer; the sign
+Of him who painted at {{p|Lascaux}}, and at
+{{p|Altamira}} and at {{p|Chauvet}} — or that
 
-And crown of the hunter-gatherer culture of {{p|Europe}} sat
-On the {{c|1875|I}}-carrying heads.
+At least a candidate, and good, for who
+Who made the long cave-painting epochs too.
+Tiara and crown of the hunting ways
+And culture of {{p|Europe}} sat, in those days,
 
-                                {{c|1875|I}} was there when the ice
-Sheets covered most of the continent. {{c|1875|I}} survived the bat-
-Tle of the glacial maximum, the terrible vice
+On {{c|1875|I}}-bearing heads. {{c|1875|I}} was there when ice
+Sheets covered the whole continent: the vice
+And glacial maximum, that battle, and
+The vice of twenty thousand years, it spanned
 
-Of the twenty-thousand-years-ago deep freeze, by retreating
-Into the southern refugia: {{p|Iberia}}, the {{p|Italian peninsula}},
-The {{p|Balkans}}. There, in the ice-age pocket of the meeting
-Of the milder southern climates, the population clinical-
+It went south to {{p|Iberia}}, and lay
+In {{p|Italy}}'s peninsula, and they
+The {{p|Balkans}} also held them: pockets where
+The milder southern climates met the air
 
-Ly bottlenecked and survived. And when the ice retreated,
-{{c|1875|I}} came back out and repopulated the continent. The streaming
-Northward migration of the {{c|1875|I}}-carrying hunters, the completed
-Occupation of the post-glacial {{p|Europe}}, is the dreaming
+Of ice: and there the population thinned
+To a bottleneck, survived, and was pinned
+Until the ice drew back. Then {{c|1875|I}} came out
+And peopled the whole continent about.
 
-Of the old {{p|European}} lineage. This is the continent
-Before agriculture. Before cities. Before the written word.
-Before {{c|1898|Stonehenge}}. Before the {{c|1899|Indo-European}} languages consent
-To enter the continent—all of that is later. The deferred
+Northward the hunters streamed; and all the land
+Post-glacial was completed by their hand:
+That is the dreaming of the old-world line
+Of {{p|Europe}}. Here the continent's design
 
-And patient hunter-gatherer life, which {{c|1875|I}} embodies, runs
-For thousands of years before any of that arrives.
+Is before farming; before cities; ere
+The written word; before {{c|1898|Stonehenge}} stood there;
+Ere {{c|1899|Indo-European}} tongues consent
+To enter: all of that is later. Bent
 
-{{c|1875|I}} is the continent's first settled sons.
-{{c|1875|I}} is the landscape's oldest and most patient archives.
+On patience, hunter-gatherer life ran
+For thousands of years before it began.
+{{c|1875|I}} is the continent's first settled sons;
+{{c|1875|I}} is the oldest archive, which still runs
 
-And {{c|1875|I}} did not disappear.
+Most patient of the landscape's. {{c|1875|I}} did not
+Depart or disappear; nor is forgot:
+{{c|1875|I}} is still here. The {{p|Nordic}} countries hold
+High frequencies: in {{p|Sweden}}, as of old,
 
-                                  {{c|1875|I}} is still here. In
-{{p|Sweden}}, {{p|Norway}}, {{p|Denmark}}—the {{p|Nordic}} countries carry high
-Frequencies of {{c|1875|I}}. In the {{p|Balkans}}—{{p|Croatia}}, {{p|Bosnia}}, {{p|Serbia}}—the frequencies are also high. The dry
-And mountainous sub-branches of {{c|1875|I}} are scattered across
+In {{p|Norway}} and in {{p|Denmark}}; and as well
+In {{p|Croatia}} and {{p|Bosnia}} they dwell,
+In {{p|Balkan}} lands; in {{p|Serbia}} as high
+As anywhere; and sub-branches still lie
 
-The southern and northern {{p|European}} margins. {{c|1875|I}} held on
-Through the subsequent waves of migration. The {{p|Neolithic}} farmers
-Came (haplogroup {{c|1873|G}}). {{c|1875|I}} was pushed to the peripheries, but not gone.
-The {{c|1899|Indo-European}} steppe riders came (haplogroup {{c|1884|R}}). The armors
+Dry and mountainous, scattered through the whole
+Of {{p|Europe}}'s margins, north and south. The role
+Of {{c|1875|I}} was to hold on. The farmers came,
+The {{p|Neolithic}} farmers: {{c|1873|G}} their name;
 
-Of the new arrivals overlaid, but did not replace, the older
-{{c|1875|I}} populations. The old {{p|Europe}} went under the soil, but did not vanish.
-The modern {{p|European}} is a layered person—{{c|1875|I}} at the bolder
-Base, {{c|1873|G}} at the second layer, {{c|1884|R}} at the top, and the admixture
+And {{c|1875|I}} was pushed to margins, but not killed;
+Then {{c|1899|Indo-European}} riders spilled
+Across the steppe: their haplogroup was {{c|1884|R}};
+They overlaid the old, but did not mar
 
-Varies region by region. In the {{p|Balkans}}, {{c|1875|I}} is still
-Dominant. In {{p|Scandinavia}}, {{c|1875|I}} is strong. In {{p|Western Europe}},
-{{c|1875|I}} is a minority but present. In {{p|Eastern Europe}}, {{c|1875|I}} still fills
-A substantial slot. The old {{p|Europe}} lives. The hunters, the hero
+Nor yet replace the older stock, which went
+Under the soil, but did not die: it bent.
+The modern {{p|European}} is a man
+Of layers: {{c|1875|I}} the base of all the plan,
 
-And heroine figures of the pre-{{p|Neolithic}} stone age, did not end.
-They became the substrate on which later migrations laid.
-The old {{p|Europe}} is still in the {{p|European}} body. The old {{p|Europe}}'s trend
-Was to hold on. The {{x|Venus}} of {{p|Willendorf}}, the small-breasted maid
+Then {{c|1873|G}} as second layer, {{c|1884|R}} the crest,
+The admixture by region manifest:
+In {{p|Balkans}}, {{c|1875|I}} is dominant today;
+In {{p|Scandinavia}}, strong; and the way
 
-And figurine of the fertility cult, the mother-goddess figurine
-That {{c|1900|Marija Gimbutas}} identified with the pre-IE culture of the continent,
-Was likely made by the hands of the {{c|1875|I}}-carrying hunter-gatherers. The seen
-And carried iconography of the pre-agricultural old {{p|Europe}}, the ancient
+Of {{p|Western Europe}}, minor, but still there;
+In {{p|Eastern Europe}}, {{c|1875|I}} still holds a share
+Substantial. So old {{p|Europe}} lives: the men
+And women, hero figures, hunters then
 
-Religion of the cave-paintings and the small goddess figurines,
-Sits in the register of the {{c|1875|I}} haplogroup.
+Of the pre-{{p|Neolithic}} stone age, stayed;
+They were the substrate on which others laid
+Their later waves. Old {{p|Europe}} still remains
+Within the body, and its trend sustains
 
-And when the farmers came, {{c|1875|I}} did not simply die out. {{c|1875|I}} retreated
-Into the mountains, into the forests, into the fishing villages of the
-Coastlines that the farmers did not want. The hunter-gatherer lifeways continued
-In the peripheries while the farming villages spread across the plains. The
+A holding on. The {{x|Venus}} shaped and small
+Of {{p|Willendorf}}, that figurine, the call
+And mother-goddess of the fertile rite,
+Which {{c|1900|Marija Gimbutas}} brought to light
 
-Adaptation was gradual and long. In some places, {{c|1875|I}} fully adopted agriculture
-And stayed put as the land changed uses. In others, {{c|1875|I}} remained hunter-
-Gatherer for thousands of years longer. The {{p|Mesolithic}} peoples of the fixture
-And holding pockets of {{p|Europe}} kept the hunting way alive long after the blunter
+And tied to pre-IE culture of the land,
+Was likely made by {{c|1875|I}}-carrying hand
+Of hunter-gatherers. The seen and known
+Iconography of a world not sown
 
-And more dominant {{p|Neolithic}} had taken the fields. The {{p|Scandinavian}}
-Hunter-gatherers were still {{c|1875|I}} at the time the {{p|Yamnaya}} arrived.
+Before the plow: the ancient faith that sat
+In cave-paint and in figurine: all that
+Sits in the register of {{c|1875|I}}. And when
+The farmers came, {{c|1875|I}} did not die out then:
 
-The hunter-lineage was tenacious. It was the deep {{p|European}}
-Substrate, the one that had survived the ice age and had contrived
+{{c|1875|I}} went into the mountains and the wood,
+The fishing villages the farmers would
+Not want along the coast. The hunting way
+Went on at the peripheries, while they,
 
-To survive the agricultural revolution and even the steppe invasion,
-Though it was displaced from dominance by the time these waves finished.
+The farming villages, spread on the plains.
+The change was slow and long, and took its pains:
+In some lands {{c|1875|I}} took farming up, and stayed
+As all the uses of the land were swayed;
 
-But it is still here. {{c|1875|I}} is still here. The {{p|Nordic}} basin,
-{{p|Croatian}} villages, the {{p|Sardinian}} highlanders—all still carry {{c|1875|I}}. The sun
-Still rises on descendants of the hunter-gatherers of the old {{p|Europe}}. The plan
+Elsewhere the hunting lasted ages more:
+The {{p|Mesolithic}} peoples held that door
+In pockets where it held; the hunting kept
+Its way alive, long after there had stepped
 
-And inheritance of the {{p|Magdalenian}} and {{p|Gravettian}} cultures, the {{x|Aurignacian}}
-Paintings at {{p|Chauvet}}, the {{c|1901|Gravettian}} figurines—these are still
-Carried in the blood of certain {{p|European}} populations. The ancient
+Blunt {{p|Neolithic}} with the fields in hand;
+{{p|Scandinavian}} hunters still would stand
+As {{c|1875|I}} when the {{p|Yamnaya}} came. The line
+Was tenacious; the deep substrate design
 
-Is still living. The old {{p|Europe}} has not ended. The hunting-and-gathering fulfilment
-Has been converted, under pressure, into farming-and-herding, into city-building,
-Into modernity—but the {{c|1893|Y}}-chromosomal signature of the first settled populations
-Of the continent remains intact in the bodies of many millions of modern {{p|Europeans}}. The thrilling
+Had lived the ice age through, and had contrived
+To last the farming change, and then survived
+The steppe invasion too, although displaced
+From dominance by then, and much erased.
 
-And patient continuity of {{c|1875|I}} across thirty or forty thousand years
-Of habitation in the same continent is the longest relationship between a people
-And a land in the {{p|European}} story. The {{p|French}} are new. The {{p|Germans}} are new. The {{p|Romans}} were new.
-The {{c|1875|I}}-carrying {{p|European}} is old. The steeple
+But it is here. The {{p|Nordic}} basin; still
+{{p|Croatian}} villages; and on the hill
+{{p|Sardinian}} highlanders still bear the sun
+That rises on the hunters' sons, each one
 
-Of the oldest {{p|European}}'s presence is the deepest in the cathedral
-Of the {{p|European}} body.
+Descended from the hunters of that land.
+The {{p|Magdalenian}} heritage at hand,
+{{p|Gravettian}} culture, and the paintings made
+{{x|Aurignacian}}, at {{p|Chauvet}}, in the shade
 
-                            The chapter honors them.
+Of stone; and the {{c|1901|Gravettian}} figurines:
+All these are carried still in certain genes
+Of certain {{p|European}} folk. The old
+Is living yet; old {{p|Europe}} has not tolled
 
-The old {{p|Europeans}}. The first hunters. The painters of the cathedral
-Of {{p|Lascaux}}, the makers of the {{x|Venus}} figurines, the dem
+Its final hour. Fulfilment in the chase
+Was turned, by pressure, to another place:
+To farming, herding, cities, and at last
+Modernity. But still, from all that past,
 
-And defiant survivors of the glacial maximum, the patient re-
-Occupiers of the post-ice continent, the substrate under every-
-Thing that came later.
+The {{c|1893|Y}}-chromosomal mark of the first
+Settled the continent is not dispersed
+But whole in many millions living now.
+The patient continuity, somehow,
 
-                        {{c|1896|Haplogroup I}} is the ID card
-Of old {{p|Europe}}. The hunter-gatherer's long patient regard
+Of {{c|1875|I}} across some thirty thousand years,
+Or forty, in one continent, appears
+The longest tie between a folk and land
+In all the {{p|European}} tale. They stand
 
-Toward the land he lived on. The deep relationship to the
-Forest and the river and the cave. The animism of the deep
-{{p|European}} past.
+New, all of them: the {{p|French}}, the {{p|Germans}} new,
+The {{p|Romans}} new; the deepest, oldest view
+Belongs to {{c|1875|I}}: the oldest presence there
+Is deepest in the body's house of prayer.
 
-                    And when, in a few chapters, we come to
-The {{c|1902|Cucuteni-Trypillia}} civilization, which was partly the sleep
+This chapter honors them: the first to hunt
+In all old {{p|Europe}}; they who bore the brunt
+Of glacial maximum and did not break;
+The painters of the {{p|Lascaux}} cave; and make
 
-And continuation of the pre-{{p|Neolithic}} hunter-gatherer traditions
-Into a semi-settled form, we will see {{c|1875|I}} again. {{c|1902|Cucuteni-Trypillia}}
-Was the old {{p|Europe}}'s answer to the farming revolution. Its positions
-And paintings and cities, built of wood and clay, its pervasive
+Of them the makers of the {{x|Venus}} forms,
+Defiant, who outlived the glacial storms,
+Patient re-occupiers of the land
+Post-ice, the substrate under all that spanned
 
-Female iconography, its peaceful and apparently un-hierarchical
-Society—these were the old {{p|Europe}}'s elaboration of what the farmers
-Had offered, made in the key of the old {{p|Europe}}'s own magical
-Register. And the {{p|Yamnaya}}, when they came, would be the harmers
+Later ages. {{c|1896|Haplogroup I}}: the card
+Of old {{p|Europe}}'s ID; the long regard,
+The hunter's patient look upon the ground
+He lived on; the deep kinship that he found
 
-Of this particular flowering. But we are not there yet.
+With forest and with river and with cave,
+The animism that the deep past gave.
+And when, in chapters hence, we reach the sleep
+The carrying-on of old ways, we keep
 
-For now, {{c|1875|I}}. The old {{p|Europe}}. The hunter. The mother-
-Goddess carver. The cave-painter. The survivor of the ice's threat
-And retreat. The patient background lineage. The brother
+Pre-{{p|Neolithic}} hunting ways again
+In half-settled form: {{c|1875|I}} shows there, and then
+{{c|1902|Cucuteni-Trypillia}}, the old
+Reply that {{p|Europe}} gave, as we are told,
 
-And sister and uncle of every {{p|European}} who still
-Carries the ancient signature. The old {{c|1893|Y}}. The old land.
-The one who was here before. The hold of the will
-To endure. The keeping hand.
+In wood and clay: its towns, its painted walls,
+Its female iconography, which calls
+Pervasive; and its peaceful order, free
+Of hierarchy, as it seems to be:
 
-                               {{c|1896|Haplogroup I}}. {{p|Old Europe}}.
+These were old {{p|Europe}}'s working out of all
+The farmers offered, in old {{p|Europe}}'s call
+From its own magic register. And then
+{{p|Yamnaya}} came and harmed that flower, when
 
-The rest of the continent's story is layered on top. But {{c|1875|I}}
-Is the bottom. And the bottom, in a continent, is what the top
-Descends into when the top has finished. The high
-And visible layers come and go. The bottom does not stop.
+Their time arrived. But we are not there yet.
+For now, the old {{p|Europe}}: the hunter's net,
+The mother-goddess carver, and the one
+Who painted caves; who saw the ice begun
 
-The cave is still in the limestone. The painting is still on the wall.
-The goddess is still in the ochre. And the {{p|Y}} is still in the men of the north,
-Men of the {{p|Balkans}}, men of {{p|Sardinia}}, whose bodies carry the call
-Of the deep {{p|European}} past, whose own mothers' great-great-grandfathers set forth
+And gone again; the patient background line;
+The brother, sister, uncle, of the sign
+In every {{p|European}} who still bears
+That ancient mark: the old {{c|1893|Y}}, and its heirs
 
-To the ice-age cave to paint the horse and the bison and the bull.
+Of the old land; the one who came before;
+The hold of will to last; the hand that bore
+And kept: {{c|1896|Haplogroup I}}, {{p|Old Europe}}. Rest
+The continent's whole tale is layered, pressed
 
-The continent remembers. The haplogroup is the memory. The full
-And patient continuity of {{c|1875|I}} is the body's longest word.
+On top. But {{c|1875|I}} is still the bottom, and
+The bottom is where tops descend to stand
+When they have finished. Layers that are high
+And visible will come and go, and die.
+
+The bottom does not stop. The cave remains
+Within the limestone; and the paint retains
+Its place upon the wall; the goddess still
+Is in the ochre; and the {{p|Y}} will fill
+
+The men of {{p|Balkans}} and the men of north,
+And {{p|Sardinia}}'s men, whose blood sets forth
+The call of {{p|Europe}}'s deepest past, whose own
+Great-great-grandfathers of their mothers, grown
+
+In ice-age light, went to the cave to trace
+The horse, the bison, and the bull's own face.
+The continent remembers all of it.
+The haplogroup is memory, and writ
+
+In patient continuity, the {{c|1875|I}}:
+The body's longest word, and does not die.

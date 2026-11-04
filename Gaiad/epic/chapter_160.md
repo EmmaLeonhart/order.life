@@ -1,285 +1,422 @@
 # Chapter 160: Exodus, Trojan War, Bronze Age Collapse
 
-Three events. Perhaps. Perhaps more than three. Perhaps a single
-Event refracted into three narratives. Around twelve-hundred BCE,
-The {{x|Bronze Age}} world shattered.
+Three events. Perhaps. Perhaps more than three.
+Perhaps one event, refracted, that we
+Tell as three narratives. The {{x|Bronze Age}} world
+Around twelve hundred B.C.E. was hurled
 
-                                 Begin with what archaeology knows.
-Between twelve-twenty-five and eleven-seventy-five BCE, over a
-Span of roughly fifty years, nearly every major palace, city, and
-State in the eastern {{p|Mediterranean}} was destroyed or abandoned.
+To shattering. Begin with what is known,
+What archaeology has dug and shown.
+In roughly fifty years, the span between
+Twelve twenty-five B.C.E. and the date
+Eleven seventy-five, near each state,
+Palace and city of the eastern scene,
+The {{p|Mediterranean}}'s, was destroyed
+Or else abandoned, and its halls left void.
 
-The list is staggering. {{p|Hattusa}}, capital of the {{p|Hittite}} Empire:
-Burned to the ground. {{p|Ugarit}}, the great trading city on the
-{{p|Syrian}} coast: destroyed, with its last king sending desperate
-Letters begging for help that never came. {{p|Mycenae}}, {{p|Tiryns}},
+A staggering list. {{p|Hattusa}}, the seat
+Of the {{p|Hittite}} Empire: burned, complete,
+Down to the ground. And {{p|Ugarit}}, the great
+Trade town on the {{p|Syrian}} coast: its fate,
+Destroyed; its last king, in a desperate state,
+Sent letters begging help that never came.
+{{p|Mycenae}}, {{p|Tiryns}}, {{p|Pylos}}, {{p|Thebes}}: the same:
+Each major {{p|Mycenaean}} palace, all
+Destroyed or else abandoned, hall by hall.
 
-{{p|Pylos}}, {{p|Thebes}}—every major {{p|Mycenaean}} palace: destroyed or
-Abandoned. {{p|Knossos}}, on {{p|Crete}}: destroyed. {{p|Troy}} (the archaeological
-Layer {{p|Troy VIIa}}): destroyed around twelve-hundred BCE. The
-{{p|Egyptian}} Empire: severely damaged, retreating from its {{p|Levantine}}
+{{p|Knossos}} on {{p|Crete}}: destroyed. And {{p|Troy}}, the town
+Whose layer, called {{p|Troy VIIa}}, was brought down
+Around twelve hundred B.C.E. Struck hard,
+The {{p|Egyptian}} Empire, badly scarred,
+Retreating from its {{p|Levantine}} terrain;
+{{p|Kassite}} {{p|Babylonian}} kingdom's reign:
+Fatally weakened. The {{p|Elamite}} state:
+Disrupted. {{p|Cyprus}}: raided, at that date.
+And {{p|Canaan}}'s cities, many of them, fell,
+{{p|Emar}}, {{p|Kadesh}}, {{p|Alalakh}}, {{p|Gath}} as well:
+Destroyed. Few {{x|Bronze Age}} states came through intact:
+{{p|Egypt}}, barely, much diminished in fact;
+{{p|Assyria}}, eclipsed a while; again,
+{{p|Babylon}}, under new management. Then
 
-Provinces. The {{p|Kassite}} {{p|Babylonian}} kingdom: fatally weakened. The
-{{p|Elamite}} kingdom: disrupted. {{p|Cyprus}}: raided. The cities of {{p|Canaan}}:
-Many destroyed. {{p|Emar}}, {{p|Kadesh}}, {{p|Alalakh}}, {{p|Gath}}: destroyed. Only a
-Few {{x|Bronze Age}} states survived intact: {{p|Egypt}} (barely, much
+The rest had vanished. Writing systems, too,
+Lost: {{p|Aegean}} {{p|Linear B}} withdrew;
+For {{p|Hittite}} cuneiform: death, beside
+{{p|Hattusa}}'s fall; and the whole corpus died
+Of {{x|Bronze Age}} letters that the kings had sent
+In diplomatic correspondence: spent.
 
-Diminished), {{p|Assyria}} (temporarily eclipsed), {{p|Babylon}} (under new
-Management). The rest vanished. Writing systems were lost: {{p|Linear B}}
-Disappeared from the {{p|Aegean}}; {{p|Hittite}} cuneiform died with {{p|Hattusa}};
-The whole corpus of {{x|Bronze Age}} diplomatic correspondence ceased.
+Catastrophe: the population fell
+In some lands, by nine-tenths; the trade as well
+Collapsed: the networks which had joined and tied
+{{p|Mycenae}}, {{p|Ugarit}}, {{p|Egypt}}, allied,
+{{p|Mesopotamia}}, {{p|Cyprus}}; the way
+Out to {{p|Sardinia}}: it all gave way.
+The {{x|Bronze Age}} world, an integrated whole,
+Fell all apart at once, past all control.
 
-Population fell catastrophically—in some regions by as much as
-Ninety percent. Trade networks that had linked {{p|Mycenae}} to
-{{p|Ugarit}} to {{p|Egypt}} to {{p|Mesopotamia}} to {{p|Cyprus}} to {{p|Sardinia}} collapsed.
-The whole integrated {{x|Bronze Age}} world fell apart at once.
+What caused this? Historians have proposed
+Many factors. No single cause, exposed,
+Is sufficient. The full picture appears
+To need them all at once, in the same years.
+First: climate change. Data from tree-rings, laid
+With sediment, show drought, severe, that stayed
 
-                                                            What
-Caused this? Historians have proposed many factors. No single
-Cause is sufficient. The full picture seems to require all of them
-Simultaneously. First: climate change. Tree-ring and sediment data
+In the {{p|Mediterranean}}, {{p|Near East}},
+From roughly twelve fifty B.C.E., to
+Eleven fifty. Decades it went through,
+Of {{x|Bronze Age}} droughts the worst. The harvests ceased;
+Famines followed. Second: earthquakes. We know
+From digs: a series, severe, that laid low
 
-Indicate a severe drought in the {{p|Mediterranean}} and {{p|Near East}}
-Between approximately twelve-fifty and eleven-fifty BCE. The drought
-Lasted for decades and was the most severe of the entire {{x|Bronze Age}}.
-Agricultural yields collapsed. Famines followed. Second: earthquakes.
+{{p|Aegean}}, {{p|Anatolian}} towns; so
+This period's destruction layers show
+Seismic damage before the burning came,
+Or with it, side by side, in the same flame.
+Third: rebellion inside. Each palace core
+Of the {{x|Bronze Age}} was stratified; therefore
 
-Archaeological evidence suggests a series of severe earthquakes
-Devastated {{p|Aegean}} and {{p|Anatolian}} cities during this period. Many
-Destruction layers show seismic damage preceding or accompanying
-The burning. Third: internal rebellion. {{x|Bronze Age}} palatial
+From peasants the elites took grain and toil;
+The system, built upon that human soil,
+Relied on their compliance staying true.
+When climate and the famine hit, it too,
+Compliance, broke. The peasants rose. Burned through,
+The towns, as much within as from without.
+Fourth came migration and invasion: out,
+In waves, through those years, peoples moved about
 
-Economies were highly stratified: palace elites extracted grain and
-Labor from peasant populations, and the system depended on the
-Continued compliance of those populations. When climate and famine
-Hit, compliance broke. Peasants rose. Cities burned from within as
+The {{p|Mediterranean}}'s eastern side.
+The most famous: the {{p|Sea Peoples}}, who ride,
+Seaborne raiders, a coalition, named
+Only in {{p|Egyptian}} inscriptions, framed
 
-Much as from without. Fourth: migration and invasion. Waves of
-Peoples moved across the eastern {{p|Mediterranean}} during these years.
-The most famous are the {{p|Sea Peoples}}—a coalition of seaborne
-Raiders whose name is known only from {{p|Egyptian}} inscriptions at
+At {{p|Medinet Habu}}, elsewhere, in stone.
+{{c|2140|Ramesses III}}, the last great pharaoh known
+Of the {{x|New Kingdom}}, fought them in the weight
+Of two engagements, massive, near the date
+Eleven seventy. His victory saved
+{{p|Egypt}} from total conquest, but it braved
 
-{{p|Medinet Habu}} and elsewhere. {{c|2140|Ramesses III}}, the last great pharaoh
-Of the {{x|New Kingdom}}, fought the {{p|Sea Peoples}} in two massive
-Engagements around eleven-seventy BCE. His victory saved {{p|Egypt}}
-From total conquest but could not save the {{p|Levantine}} provinces.
+In vain to keep the {{p|Levantine}} domain,
+Its provinces. And the {{p|Sea Peoples}}' train
+Holds first the {{p|Peleset}}, which scholars view
+As {{p|Philistines}}; with others, the next few:
+The {{p|Tjeker}}, the {{p|Shekelesh}}; {{p|Denyen}}, who
+Were maybe {{p|Danaoi}} or {{p|Danites}} too;
+The {{p|Sherden}}, {{p|Weshesh}}, and the {{p|Lukka}} band,
+Who came, most probably, from {{p|Lycia}}'s land.
 
-The {{p|Sea Peoples}} included the {{p|Peleset}} (identified with the
-{{p|Philistines}}), the {{p|Tjeker}}, the {{p|Shekelesh}}, the {{p|Denyen}} (possibly
-the {{p|Danaoi}} or {{p|Danites}}), the {{p|Sherden}}, the {{p|Weshesh}}, the {{p|Lukka}}
-(probably from {{p|Lycia}}). These names have long intrigued scholars—
+These names intrigued the scholars long, in pairs:
+Are {{p|Sherden}} the {{p|Sardinians}}' forebears?
+Are {{p|Sicilians}} the {{p|Shekelesh}}'s heirs?
+Is {{p|Denyen}} the {{x|Bronze Age}} {{p|Greek}} word, the same
+That turns {{p|Danaoi}} later, {{p|Homer}}'s name
+For the {{p|Achaean}} coalition? Such
+Parallels, of etymology, touch
 
-Are the {{p|Sherden}} the ancestors of the {{p|Sardinians}}? Are the
-{{p|Shekelesh}} the ancestors of the {{p|Sicilians}}? Is {{p|Denyen}} the Bronze
-Age {{p|Greek}} word that later becomes {{p|Danaoi}}, the name {{p|Homer}} uses
-For the {{p|Achaean}} coalition? The etymological parallels suggest
+On the {{p|Sea Peoples}}, to suggest they'd take
+Men from the {{p|Aegean}}, forced to forsake
+{{p|Italy}}, {{p|Anatolia}}, and past.
+Refugees, perhaps, from the ruin cast
+On {{p|Mycenaean}} palaces. Perhaps
+Opportunistic raiders, through the gaps
 
-That the {{p|Sea Peoples}} included populations displaced from the
-{{p|Aegean}}, {{p|Italy}}, {{p|Anatolia}}, and beyond. Perhaps refugees from
-The collapse of the {{p|Mycenaean}} palaces. Perhaps opportunistic
-Raiders taking advantage of weakened targets. Perhaps a coalition
+Of weakened targets. Perhaps, all as one,
+Displaced, aggressive peoples, every one,
+Rolling eastward and southward in their waves.
+Whatever they were, the old record saves
+Them as a force of great disruption, one
+Destroying cities, settling, when done,
 
-Of multiple displaced and aggressive populations rolling eastward
-And southward in waves. Whatever they were, they appear in the
-Archaeological record as a major disruptive force, destroying
-Cities and eventually settling in the regions they depopulated.
+The regions they had emptied. And of these
+The {{p|Philistines}} settled the southern seas,
+The southern {{p|Levantine}} coast, to become
+The famous biblical foes, the outcome,
+Of {{p|Israelites}}. Their pottery, their style
+Of building, and their language, all the while,
+Show {{p|Aegean}} affinities. They came
+As {{p|Mycenaean}} refugees, to claim
 
-The {{p|Philistines}}—one of the {{p|Sea Peoples}}—settle in the southern
-{{p|Levantine}} coast and become the famous biblical adversaries of
-The {{p|Israelites}}. Their pottery, their architecture, their language
-Show {{p|Aegean}} affinities. They were probably {{p|Mycenaean}} refugees
+Likely, a foothold, after the collapse,
+In {{p|Canaan}}, in the empty palace gaps.
 
-Establishing a foothold in {{p|Canaan}} after the collapse.
+And fifth: the system's own collapse. Without
+A single cause, the {{x|Bronze Age}} had, throughout
+Its international system, grown frail
+In its complexity. Trade on that scale,
 
-                                                         And fifth:
-Systems collapse. Even absent any single cause, the {{x|Bronze Age}}
-International system had grown fragile in its complexity. Far-
+Far-flung, depended on the working of
+Many palace economies, and of
+Each one depending on the rest for raw
+Materials, for goods of craft and law,
 
-Flung trade networks depended on the continuous functioning of
-Multiple palatial economies, each of which depended on the others
-For raw materials, manufactured goods, luxury imports, and
-Diplomatic stability. When one node failed, the cascade propagated.
+For luxury imports, the steady stay
+Of diplomacy. One node failed: the way
+Was cascade. {{p|Ugarit}} could never stand
+Without its {{p|Hittite}} partners in the land;
 
-{{p|Ugarit}} could not function without {{p|Hittite}} trade partners; the
-{{p|Hittite}} capital could not function without {{p|Levantine}} grain
-Imports; the {{p|Mycenaean}} palaces could not function without tin
-From the East and copper from {{p|Cyprus}}. When the network broke, no
+The {{p|Hittite}} capital could not hold on
+Without the {{p|Levantine}} grain imports drawn;
+The {{p|Mycenaean}} palaces were bound
+To eastern tin, and {{p|Cyprus}}' copper found.
 
-Single palace could reconstitute the whole. It required global
-Coordination, and global coordination vanished. Each local crisis
-Accelerated every other local crisis. This is what historians now
-Call the "{{p|Bronze Age Collapse}}"—and it is the most complete
+The network broke, and no one palace could
+Remake the whole. It needed, as it would,
+Global coordination, and that went.
+Each local crisis, as its force was spent,
 
-Civilizational collapse in recorded human history. When the dust
-Settled, the world that emerged was profoundly changed. Iron
-Replaced bronze as the dominant metal (both because iron sources
-Were more widely distributed and could not be monopolized by trade,
+Sped every other local crisis on.
+Historians call this, now it is gone,
+The "{{p|Bronze Age Collapse}}"; and it is the most
+Complete collapse of a civilized host
 
-And because the disruption of bronze supply chains forced
-Innovation in iron metallurgy). Alphabetic writing, developed in
-{{p|Canaan}}, replaced cuneiform and {{p|Linear B}} as the dominant scribal
-System of the {{p|Mediterranean}} (it was simpler, more democratic,
+In human history in record. When
+The dust had settled, the whole world, from then,
+Emerged profoundly changed. Iron replaced
+The bronze as the dominant metal, based
 
-Less dependent on centralized scribal classes). Small city-states
-And tribal confederations replaced the large palatial kingdoms
-Of the {{x|Bronze Age}}. The {{p|Phoenicians}}, the {{p|Greeks}} emerging from
-Their {{x|Dark Age}}, the {{p|Israelites}}, the {{p|Neo-Hittite}} states of northern
+On both: that iron's sources were too wide
+For trade to monopolize; and, beside,
+The broken bronze supply chains forced a new
+Invention: iron metallurgy grew.
 
-{{p|Syria}}, the {{p|Aramean}} kingdoms—these were the new political forms.
-Smaller, more distributed, less top-heavy. The {{x|Bronze Age}} world
-Of god-kings and thousand-god pantheons gave way, gradually, to
-The {{x|Iron Age}} world of ethnically defined nations, tribal gods
+First made in {{p|Canaan}}, alphabetic script
+Replaced cuneiform, {{p|Linear B}},
+The {{p|Mediterranean}}'s scribal key:
+It was simpler, more democratic, stripped
+Of need for central scribal classes. Small
+City-states and the tribal leagues, in all,
 
-With universalist pretensions, and eventually the first stirrings
-Of genuine monotheism. That transformation is the subject of the
-Next several chapters. But here, in this chapter, we must also
-Tell the other two events: the {{x|Exodus}} and the {{x|Trojan War}}.
+Replaced the large palatial kingdoms of
+The {{x|Bronze Age}}. The {{p|Phoenicians}}; and, above,
+{{p|Greeks}} emerging from their {{x|Dark Age}}; the line
+Of {{p|Israelites}}; {{p|Neo-Hittite}} design
 
-Consider first the {{p|Exodus}}. According to the biblical narrative,
-{{c|1006|Moses}} led the {{p|Israelites}} out of {{p|Egyptian}} bondage through a
-Series of plagues, a parting of the {{p|Red Sea}} (or, more accurately
-In the {{p|Hebrew}}, the {{p|Reed Sea}}, {{p|Yam Suph}}), a forty-year wandering
+Of states in northern {{p|Syria}}; the land
+Of {{p|Aramean}} kingdoms: these, as planned,
+Were the new political forms: small, spread,
+Less top-heavy. The {{x|Bronze Age}} world, its dead
 
-In the wilderness of {{p|Sinai}}, and an eventual arrival in {{p|Canaan}}
-Under {{c|2141|Joshua}}. The chronology given in the {{p|Hebrew Bible}}, if
-Taken at face value, places the {{p|Exodus}} in the fifteenth or
-Fourteenth century BCE. But modern scholarly consensus, where it
+God-kings, its pantheons of a thousand gods,
+Gave way, gradually, against the odds,
+To the {{x|Iron Age}} world, where nations stood
+Defined by ethnicity; where the good
 
-Reaches any consensus at all, favors a thirteenth-century BCE
-Dating—specifically during the reign of {{c|2033|Ramesses II}} or his
-Successor {{c|2093|Merneptah}}. The {{p|Merneptah Stele}}, inscribed around
-Twelve-oh-nine BCE, contains the first extra-biblical reference
+Of tribal gods made universal claims;
+And then the first stirrings, the dawn, of true
+Monotheism. That change: the next few
+Chapters' subject. But here we give the names
 
-To "{{p|Israel}}" as a people in {{p|Canaan}}—the stele boasts that
-{{c|2093|Merneptah}} has defeated {{p|Israel}}, which implies that {{p|Israel}} existed
-As a recognizable entity in {{p|Canaan}} by that date. This gives a
-Rough terminus ante quem: however and whenever the {{p|Israelites}}
+Of two other events, which we must tell:
+The {{x|Exodus}}, the {{x|Trojan War}} as well.
+First, consider the {{p|Exodus}}. We read
+In biblical narrative: {{c|1006|Moses}} freed
+The {{p|Israelites}} from {{p|Egyptian}} chains, through
+A series of plagues; and a parting, too,
+Of the {{p|Red Sea}} (more accurately, in
+The {{p|Hebrew}}, the {{p|Reed Sea}}, {{p|Yam Suph}}); within
+The wilderness of {{p|Sinai}}, for the span
+Of forty years, they wandered; then, the van,
+Led by {{c|2141|Joshua}}, into {{p|Canaan}} ran.
 
-Got to {{p|Canaan}}, they were there by twelve-oh-nine BCE. The {{x|Gaiad}}
-Has already treated the specific narrative of {{c|1006|Moses}} and the
-{{p|Exodus}}—and will revisit it briefly here, because the {{p|Exodus}}
-Is now recognizable as part of the broader {{p|Bronze Age Collapse}}.
+{{p|Hebrew Bible}} dates, at face value, place
+The {{p|Exodus}}, in centuries we trace,
+In the fifteenth or fourteenth, B.C.E.;
+But modern scholars, where they can agree
+At all, favor the thirteenth: in the reign
+Of {{c|2033|Ramesses II}}, or else, in the train,
 
-The {{p|Israelites}} were not the only group leaving {{p|Egypt}} or moving
-Into {{p|Canaan}} at this time. They were part of a general disruption
-Of populations. Their specific story—bondage, miraculous liberation,
-Covenant at {{p|Sinai}}, wilderness wandering, conquest—became the
+Of his successor, {{c|2093|Merneptah}}. The stone,
+The {{p|Merneptah Stele}}, near twelve oh nine
+B.C.E. inscribed, contains the first sign
+Outside the Bible of "{{p|Israel}}", known
+As people in {{p|Canaan}}. The stele boasts
+That {{c|2093|Merneptah}} has defeated the hosts
 
-Foundational narrative of {{p|Hebrew}} religion and identity. But the
-Structural fact underlying that narrative is that groups were
-Coming out of {{p|Egypt}} and entering {{p|Canaan}} during the {{x|Bronze Age}}
-Collapse era. The {{p|Israelite}} religious memory preserves, in
+Of {{p|Israel}}; which implies {{p|Israel}} stood
+In {{p|Canaan}} by that date, known nationhood.
+A rough terminus ante quem is shown:
+However and whenever (this unknown)
+The {{p|Israelites}} reached {{p|Canaan}}, they appear
+There by twelve oh nine B.C.E., it's clear.
 
-Literary form, the experience of a people being born into
-Historical existence during the collapse of the {{x|Bronze Age}}
-International system. The shattering of the old order—the plagues,
-The arbitrary violence of pharaohs, the sudden possibility of
+Already in the {{x|Gaiad}} we have told
+Of {{c|1006|Moses}} and the {{p|Exodus}}, of old,
+And will return to it, briefly, since now
+The {{p|Exodus}} is seen, and we see how,
 
-Escape across a parted sea—is the {{p|Israelite}} version of what the
-{{p|Hittites}} experienced as the sack of {{p|Hattusa}} and what the
-{{p|Mycenaeans}} experienced as the burning of the palaces. Different
-Cultural processings of the same civilizational crisis.
+As part of the broader {{p|Bronze Age Collapse}}.
+The {{p|Israelites}} were not alone; perhaps
+Others left {{p|Egypt}}, or moved in, the same,
+To {{p|Canaan}} then. They were part of the frame
 
-                                                         Consider
-Then the {{p|Trojan War}}. In the traditional dating of {{c|2142|Eratosthenes}},
-The {{p|Trojan War}} occurred around twelve-eighty-four to twelve-
-Seventy-four BCE—right at the beginning of the collapse. In the
+Of general disruption of peoples. Then
+Their story, bondage, liberation, when
+By miracle; the covenant they made
+At {{p|Sinai}}; wandering; conquest; was laid
 
-Archaeological dating, {{p|Troy VIIa}} (the layer most plausibly
-Identified with {{p|Homeric}} {{p|Troy}}) was destroyed around twelve-
-Hundred BCE—right in the middle of the collapse. In either case,
-The war that {{p|Homer}} describes is a Late {{x|Bronze Age}} event
+The founding story of the {{p|Hebrew}} creed,
+Religion and identity. Indeed,
+The structural fact beneath it is plain:
+That groups were leaving {{p|Egypt}}, in the train
+Of the collapse, toward {{p|Canaan}}'s domain.
 
-Occurring during the collapse. The {{p|Achaean}} coalition of {{p|Mycenaean}}
-Kings sailing eastward to sack a fortified city on the {{p|Anatolian}}
-Coast—this is not just a mythical tale. It is the last great
-Expedition of the {{p|Mycenaean}} palace system, launched (in {{p|Homer}}'s
+{{p|Israelite}} religious memory holds,
+In literary form, as it unfolds,
+The experience of a people's dawn
+Into historical existence, drawn
+While the international system fell.
+The shattering, and the old order's knell:
 
-Telling) over the abduction of a queen but (in historical
-Reality) probably over trade rights, tribute, the control of the
-{{p|Dardanelles}}, or simply the raiding opportunities available in a
-Destabilizing world. The {{p|Trojan War}} is the {{p|Greek}} memory of the
+The plagues; the pharaohs' arbitrary force
+Of violence; the sudden chance, the course
+Of an escape, the sea parted in two:
+This is the {{p|Israelite}} account, and true
+To what {{p|Hittites}} knew as {{p|Hattusa}}'s sack,
+And the {{p|Mycenaeans}}, as fire's attack
+Upon their palaces. And, looking back,
+These are the different cultural ways
+Of processing one crisis of those days.
 
-Late {{x|Bronze Age}} as it shuddered toward its end. Shortly after
-The war, the palaces that launched it were themselves destroyed.
-{{c|1337|Agamemnon}}'s {{p|Mycenae}} burned within a generation of his victorious
-Return. {{c|2112|Odysseus}}'s {{p|Ithaca}} faded into the {{x|Dark Age}}. The victors
+Consider next the {{p|Trojan War}}. The old
+Dating that {{c|2142|Eratosthenes}} has told,
+Twelve eighty-four to twelve seventy-four
+B.C.E.: the collapse, just at its door.
 
-Of {{p|Troy}} outlived their victory by less than a century. Their
-Fall is implicit in the structure of the epic—{{p|Homer}} composes his
-Poems in the ninth or eighth century BCE, looking back across
-Four centuries at a vanished world. {{c|1337|Agamemnon}}'s {{p|Mycenae}} is, for
+The digs date {{p|Troy VIIa}} (the layer most
+Plausibly {{p|Homeric}} {{p|Troy}}, on that coast)
+Destroyed around twelve hundred, at the core
+Of the collapse. And either way, the war
+That {{p|Homer}} tells, a Late {{x|Bronze Age}} event,
+Took place inside the collapse, the descent.
 
-{{p|Homer}}, already legend. The gold and bronze and chariots and
-Hundred-rowered ships—these are not part of {{p|Homer}}'s own world.
-They are remembered from the lost world. The {{p|Iliad}} and the
-{{p|Odyssey}} are {{x|Dark Age}} preservations of {{x|Bronze Age}} memory. And
+{{p|Achaean}} coalition of the kings
+{{p|Mycenaean}}, whom eastward sailing brings
+To sack, on the {{p|Anatolian}} coast,
+A fortress city: not a myth's mere ghost.
+It is the last great expedition sent
+By {{p|Mycenaean}} palaces; it went,
+In {{p|Homer}}, for a stolen queen; but, more
+Probably, in history, for trade rights; or
+Tribute; the {{p|Dardanelles}}' control; or for
+Raiding that a destabilized world bore.
 
-That memory centers on a war that was itself the last coherent
-Expedition of the collapsing civilization.
+The {{p|Trojan War}}: here {{p|Greek}} memory shows
+The Late {{x|Bronze Age}} shuddering toward its close.
+Soon after the war, the palaces, those
+That launched it, were themselves destroyed. They burned:
+{{c|1337|Agamemnon}}'s {{p|Mycenae}}, once he'd turned
+Home, triumphant: in a generation.
+And {{p|Ithaca}}, {{c|2112|Odysseus}}' station,
+Faded away into {{x|Dark Age}}'s haze.
+The victors there at {{p|Troy}} outlived the praise
+Of victory, less than a century's days.
 
-                                             Three events. The
-{{p|Exodus}}. The {{p|Trojan War}}. The general collapse. The {{x|Gaiad}} reads them
+Their fall's implicit in the epic's art:
+The ninth or eighth century B.C.E.
+Is when {{p|Homer}} composes, and when he
+Looks back four centuries, a world apart,
+Long vanished. And {{c|1337|Agamemnon}}'s own town,
+{{p|Mycenae}}, is, for {{p|Homer}}, legend's crown.
 
-As three reflexes of a single {{x|Bronze Age}} crisis. Three cultural
-Memories of what it was like to live through the shattering. In
-The {{p|Hebrew}} case: slavery, miraculous deliverance, covenant, the
-Forging of a new identity grounded in religious law. In the {{p|Greek}}
+The gold, the bronze, the chariots, and their
+Hundred-oared ships: these things are not a share
+In {{p|Homer}}'s own world; and they are, instead,
+Remembered from the lost world of the dead.
+The {{p|Iliad}}, the {{p|Odyssey}}: these hold,
+In {{x|Dark Age}} preservations, all the old
+{{x|Bronze Age}} memory, centered on a war,
+The last coherent expedition, for
+Civilization, failing at its core.
 
-Case: heroic warfare, divine caprice, the fall of mighty cities,
-The forging of a new identity grounded in epic memory. In the
-Archaeological case: ash layers, abandoned palaces, mass migrations,
-The forging of new ethnic groupings in the ruins. Each culture
+Three events: {{p|Exodus}}; the {{p|Trojan War}};
+The general collapse. They are, at core,
+In the {{x|Gaiad}}, three reflexes of one
+{{x|Bronze Age}} crisis: three memories that run
+In culture, of the shattering they knew.
+In the {{p|Hebrew}} case: slavery; and, too,
+Miraculous deliverance, and through
+The covenant, a new identity
+Forged in religious law, by its decree.
+And the {{p|Greek}} case: heroic war; divine
+Caprice; and mighty cities in decline;
+The forging of new identity, grown
+In epic memory. And in the stone,
+The archaeological case: the ash
+In layers; palaces left in the crash;
+Mass migrations; new ethnic groups, among
+The ruins forged. Each culture, in its tongue,
 
-Processed the collapse in its own way. Each memory is partial and
-Reshaped. But all three memories are responses to the same
-Historical event: the end of the integrated {{x|Bronze Age}} world.
+Has processed the collapse in its own way.
+Each memory is partial and, they say,
+Reshaped. But all three memories respond
+To one historical event, and bond:
+The end of the integrated {{x|Bronze Age}}
+World. And the {{x|Gaiad}} here, upon this page,
+Makes a theological claim: this age
+Of collapse was not just ruin; it bore
+A birthing too: in rubble, at the core
+Of palace economies, there emerged
+The preconditions of new faiths, which surged.
+The god-king theocracies could not survive
+Without their bureaucratic base alive.
 
-And the {{x|Gaiad}} makes a theological claim about this moment. The
+And when the {{c|2143|Pharaoh}} could no longer claim
+Divine rule of a working state, the same
+Authority, divine, had to migrate
+Elsewhere; it migrated to text: the weight
+Of {{p|Hebrew}} scripture, in one line, begun;
+{{p|Homeric}} epic in another one;
+And then the philosophic texts of these:
+The {{p|Greeks}}, the {{p|Persians}}, {{p|Indians}}, {{p|Chinese}}.
 
-Collapse was not merely a disaster. It was also a birthing. In
-The rubble of the palatial economies, the preconditions for new
-Kinds of religion emerged. The god-king theocracies could not
-Survive without their bureaucratic substrate. When {{c|2143|Pharaoh}} could
+The {{x|Axial Age}} that follows, the great
+Revolution of religion, the state
+Of thought, the sixth century B.C.E.,
+Which will produce, as from a single tree,
+{{c|1959|Buddha}} and {{c|1958|Confucius}}, {{c|2144|Laozi}}, and then
+{{c|2145|Mahavira}}, the {{p|Hebrew}} prophets' pen,
 
-No longer claim divine authority over a functioning state, the
-Idea of divine authority had to migrate elsewhere. It migrated
-Into text—{{p|Hebrew}} scripture in one line, {{p|Homeric}} epic in another,
-Eventually the philosophical writings of {{p|Greeks}} and {{p|Persians}} and
+{{c|2146|Zarathustra}}, the pre-Socratic {{p|Greeks}}:
+This {{x|Axial Age}}, of which this book speaks,
+Is possible: the {{x|Bronze Age}} god-kings' fall
+Cleared cultural space for new kinds, for all,
+Of religious imagination: things
+Like gods without kings, and like godless kings.
+Ethical demands from transcendent hands,
+Not from political rulers' commands.
+Textual canons, keeping in their sway
+Religious authority, there to stay
+Across political disruptions. These
+Were all possible because, by degrees,
 
-{{p|Indians}} and {{p|Chinese}}. The {{x|Axial Age}} that follows—the great
-Religious and philosophical revolution of the sixth century BCE,
-Which will produce {{c|1959|Buddha}}, {{c|1958|Confucius}}, {{c|2144|Laozi}}, {{c|2145|Mahavira}}, the
-{{p|Hebrew}} prophets, {{c|2146|Zarathustra}}, the pre-Socratic {{p|Greeks}}—this
+The {{x|Bronze Age}} had ended. And its decay
+Was death for one religious mode, and lay
+Ground for another; it prepared the way.
+In the {{x|Gaiad}}, in this we see the hand
+Of something vast: not providence, as planned
+In the traditional sense, but the long
+Self-correcting, elaborating song
+Of all religious possibility.
+The {{x|Bronze Age}} as civilization's frame
+Had reached its limit. And its fall became
+The room for what came after it to be.
 
-{{x|Axial Age}} is possible because the {{x|Bronze Age}} god-kings have fallen.
-Their collapse cleared the cultural space for new kinds of
-Religious imagination. Gods without kings. Kings without divinity.
-Ethical demands issued by transcendent sources rather than by
+{{p|Bronze Age Collapse}}. The {{p|Sea Peoples}}. The drought,
+Earthquake, rebellion, invasion: the rout
+Of systems. {{c|2140|Ramesses III}}, he who saves
+{{p|Egypt}} at {{p|Medinet Habu}}, from waves.
 
-Political rulers. Textual canons preserving religious authority
-Across political disruptions. These were all possible because the
-{{x|Bronze Age}} had ended. The collapse was the death of one mode of
-Religious life, but it was also the preparation for another. The
+{{p|Hattusa}} burning, {{p|Mycenae}} aflame;
+{{p|Ugarit}}'s last letter; and no help came.
+{{p|Troy VII}} falling. {{p|Israel}} come to be
+In {{p|Canaan}}; {{p|Philistines}} along the sea.
+Alphabet spreading. Iron replacing
+Bronze. The palace kingdoms dying, facing
+Small nations being born. The end, unfurled,
+Of the whole integrated {{x|Bronze Age}} world.
 
-{{x|Gaiad}} sees the hand of something vast in this: not providence in
-The traditional sense, but the self-correcting, self-elaborating
-Unfolding of human religious possibility. The {{x|Bronze Age}}
-Civilizational system had reached its limit. Its fall made room
-
-For what came next.
-
-                   {{p|Bronze Age Collapse}}. {{p|Sea Peoples}}. Drought,
-Earthquake, rebellion, invasion, systems collapse. {{c|2140|Ramesses III}}
-Saving {{p|Egypt}} at {{p|Medinet Habu}}. {{p|Hattusa}} burning. {{p|Mycenae}} burning.
-
-{{p|Ugarit}}'s last letter begging for help. {{p|Troy VII}} falling.
-{{p|Israel}} emerging in {{p|Canaan}}. The {{p|Philistines}} settling the coast.
-The alphabet spreading. Iron replacing bronze. The palatial
-Kingdoms dying, the small nations being born. The end of the
-
-Integrated {{x|Bronze Age}} world.
-
-                              {{p|Exodus}}, {{p|Trojan War}}, {{p|Bronze Age Collapse}}.
-Three names. One crisis. One birthing. The next three millennia
-Of human civilization shaped in the rubble.
+{{p|Exodus}}, {{p|Trojan War}}, {{p|Bronze Age Collapse}}.
+Three names. One crisis. One birthing. The maps
+Of human civilization's next three
+Millennia, in rubble, came to be.

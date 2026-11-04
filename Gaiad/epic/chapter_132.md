@@ -1,284 +1,264 @@
 # Chapter 132: Noah and the Crossing
 
-Ten generations from {{c|308|Seth}}, the line had kept
+Ten generations on, {{c|308|Seth}}'s line had kept
 Its patient eastward drift through the vast plain
 Of eastern {{p|Africa}}. The tribes had slept
-And waked a thousand times, had borne the strain
+And woke a thousand times, had borne the strain
 
 Of droughts and floods and migrations and raids,
 Had seen the slow erosion of the ice
-In the north, had felt the seasons change like blades
-Of light across the grasslands, the price
+Up north, had felt the seasons change like blades
+Of light across the grasslands, and the price
 
-And the reward of generations. And then—
+And the reward of generations. Then—
 In the ten-thousandth season, give or take—
 In the line of {{c|308|Seth}} through {{c|1852|Enosh}}, the fen
-And marsh-dwelling {{c|1852|Enosh}}, and {{c|65|Kenan}}, the ache
+Of marsh-dwelling {{c|1852|Enosh}}, {{c|65|Kenan}}, the ache
 
-And joy of the settling tribes, and {{c|1853|Mahalalel}},
-And {{c|68|Jared}}, and {{c|1844|Enoch}} who walked with {{c|472|God}}
-And was taken, and {{c|77|Methuselah}}, whose bell
-Tolled nine hundred sixty-nine, the rod
+And joy of tribes that settled through the years;
+{{c|1853|Mahalalel}}, and {{c|68|Jared}}, and the man
+{{c|1844|Enoch}}, who walked with {{c|472|God}} beyond his peers
+And was taken; {{c|77|Methuselah}}, whose span
 
-And staff of the longest-lived of the patriarchs,
-And {{c|1845|Lamech}}, the father—there was born
-A son. {{c|1851|Noah}}. The comfort. The name that remarks
-On the easing of the curse upon the thorn
+Ran nine hundred and sixty-nine, the rod
+And staff, the longest-lived of patriarchs;
+And {{c|1845|Lamech}}, father. On the eastern sod
+Was born a son, {{c|1851|Noah}}: a name that marks
 
+The easing of the curse upon the thorn
 And thistle of the ground. {{c|1851|Noah}} means rest,
-Or comfort, or easing. A boy named for relief
-From the long labor. A boy born in the nest
-Of his people's exhaustion, named for the brief
+Or comfort, or an easing; he was born,
+Named for relief from labor, in the nest
 
-And needed respite. And he grew.
+Of his exhausted people, named for brief
+And needed respite, comfort in their grief.
+He grew; and all the while he grew, the land
+His people lived in changed on every hand.
 
-                                  And while he grew,
-The land where his people lived was changing. The rain
-That had fallen was less. The grass where the few
-Remaining game animals grazed was dry. The plain
+The rain that fell grew less. The plain was dry,
+The grass where few remaining game would graze;
+The plain was not the plain of days gone by.
+The eastward drift of generations' days
 
-Was not the plain it had been. The deep
-And patient eastward drift of the generations
-Had brought {{c|1851|Noah}}'s people to the very steep
-And coastal edge of the continent. The stations
+Had brought {{c|1851|Noah}}'s people down to the steep
+And coastal edge, where all the land was spent;
+The stations of their wandering, worn deep,
+Ran out of land. To the sea's edge they went.
 
-Of their wandering had run out of land.
-They had walked to the sea.
+To the east, water: the {{p|Red Sea}}; the strand
+And narrow strait of {{p|Bab al-Mandab}}, where
+The continent's daughter stretches her hand,
+Fingers toward {{p|Arabia}}'s coast; and there,
 
-                              To the east: water.
-The {{p|Red Sea}}. The {{p|Bab al-Mandab}}. The strand
-And narrow strait where the continent's daughter
-
-Stretches her fingers toward the {{p|Arabian}} coast.
-Twenty-odd kilometers across. A swim
-No human would survive—but a small host
+Twenty-odd kilometers wide, a swim
+No human would survive; but a small host
 In a boat, with the right winds, with a trim
+And purpose-built hull, could cross to the coast.
 
-And purpose-built hull, could make the crossing.
+And {{c|1851|Noah}} built the boat. Not the great ark
+Of the old tale, the vessel in the dark,
+Tossed, laden with the beasts, upon the deep
+Of a world-flood. No world-flood came to sweep
 
-And {{c|1851|Noah}} built the boat.
+The globe. The flood was local. The monsoons
+Had failed, the rivers dried, and on the plain
+The patient pasture turned to desert dunes.
+His people starved. The water was not rain:
 
-                                Not the great ark
-Of the standard telling. Not the tossing
-Animal-laden vessel of the dark
+The water that came was the sea itself,
+The carving edge of ocean, rising slow
+As the ice sheets fell back, raising the shelf
+Of every coast. The sea advanced, and so
 
-And global flood. There was no global flood.
-The flood that came was local. The monsoons
-Had failed. The rivers had dried. The stud
-And patient pastureland had become the dunes
+The camps were pushed inland, and inland more;
+The lands the ancestors had known before
+Dimmed all their lamps, their revels and their grass.
+{{c|1851|Noah}} knew this was no drought that would pass:
 
-Of encroaching desert. His people were starving.
-The water that came was not rain. The water
-That came was the sea itself, the carving
-Edge of the ocean, rising as the slaughter
+The land would not return. He built a boat,
+Put on it {{c|1857|Shem}}, {{c|1858|Ham}}, {{c|1859|Japheth}}, and their wives,
+The stern and patient ones who, set afloat,
+Would fit into the hull to save their lives.
 
-Of the ice sheets' slow retreat raised the level
-Of every coast. The sea advanced. The camps
-Were pushed inland, and inland, and the revel
-Of the ancestors' long grasslands dimmed its lamps.
+He did not save the beasts. Not his to save
+Were they. He crossed the strait, and he survived,
+With all his people; and the songs they'd save,
+The canticles of the long road, arrived
 
-{{c|1851|Noah}} understood that the land would not return.
-He built a boat. He put his sons upon it—
-{{c|1857|Shem}}, {{c|1858|Ham}}, {{c|1859|Japheth}}, and their wives, the stern
-And patient men and women who would fit
+Across the water, on the other side
+Of the thundering waves, on {{p|Yemen}}'s shore,
+Where son and daughter lines would open wide
+Upon a continent not known before.
 
-Themselves into the vessel and survive.
-He did not save the animals. The animals
-Were not his to save. He crossed, alive,
-With his people, across the strait. The canticles
+This is the great migration, the event
+Of out-of-{{p|Africa}}, the sure descent
+In bones and genes. Geneticists have read,
+Demographers, from how the clade has spread
 
-And songs of the long prior wandering
-Were brought into the boat, and across the water,
-And into the new land on the other side of the thundering
-Waves, and the shore of {{p|Yemen}}, and the daughter
+And the mutation rate: that long ago,
+Eighty to sixty thousand years or so,
+A small group crossed the {{p|Bab al-Mandab}}'s gate
+And reached the wide world. Small, by estimate:
 
-And son lineages that would now unfold
-On a new continent.
+A few hundred, perhaps; perhaps one clan,
+One family, extended. The {{p|Y}}-line
+Of all of those who crossed the strait began
+With {{c|1854|CT}}: {{c|1860|Haplogroup CT}}, the sign,
 
-                     This is the great migration.
+The carrier, the trunk from which would grow
+{{c|1849|C}}, {{c|1850|D}}, {{c|1861|E}}, {{c|1862|F}}, and all that lay below.
+{{c|1854|CT}}: the {{p|Y}} that crossed the strait; the line
+Whose niche and seed the small boat would enshrine,
 
-The out-of-{{p|Africa}} event of which we are told
-In the bones and in the genes, the situation
+Whose grandchildren's descendants came to fill
+{{p|Europe}} and {{p|Asia}}, {{p|Australia}}, and still
+The {{p|Americas}}, and, glimmering far,
+The isles of the {{p|Pacific}}, star by star.
 
-That demographers and geneticists have read
-From the clade-branching and the mutation rate:
-Sometime between eighty and sixty thousand years
-Ago, give or take, a small group crossed the gate
+{{c|1854|CT}}, then, is the scope of the event
+Of out-of-{{p|Africa}}, its whole extent.
+And {{c|1851|Noah}} is its mythic bearer, though
+Not a man that strict history can show.
 
-Of the {{p|Bab al-Mandab}} and entered the wider world.
-A small group. Perhaps a few hundred. Perhaps
-A single extended family. The unfurled
-Y-chromosome lineage of those who made the laps
+The {{x|Gaiad}} does not show a wooden ark
+With lions and with zebras, and a plan
+For two of every kind. It shows a stark
+Survival boat, a small one, for a clan,
 
-Across the strait was {{c|1854|CT}}.
+With few human passengers, and the lore
+That the old host had memorized before,
+Crossing a strait in drought. The beasts were left
+Behind, and of the human boat bereft;
 
-                                 {{c|1860|Haplogroup CT}}.
-The carrier lineage. The trunk out of which
-{{c|1849|C}}, {{c|1850|D}}, {{c|1861|E}}, {{c|1862|F}}, and everything downstream, will eventually fit.
-{{c|1854|CT}} is the {{p|Y}} that crossed. The line whose niche
+In time they'd cross, carried on other bones,
+The lions too, through migration's long zones.
+At first the boat was human, small, and real;
+Twenty kilometers before its keel.
 
-And seed was the small boat, whose grandchildren's
-Descendants would in time fill {{p|Europe}},
-{{p|Asia}}, {{p|Australia}}, the {{p|Americas}}, and the glimmerings
-Of the {{p|Pacific}} islands. {{c|1854|CT}} is the scope
+The water rose; the land had lost its thrall.
+{{c|1851|Noah}}, or whom he stood for, led them all,
+His people, past the {{p|Red Sea}}'s narrow door,
+To {{p|Arabia}}'s peninsula's shore,
 
-Of the out-of-{{p|Africa}} event.
+Where wetter climate made it, in that age,
+Livable: the green savanna, the stage
+Of seasonal rivers, before the sand,
+For fifty thousand years that we have spanned.
 
-                                   And {{c|1851|Noah}}
-Is its mythic bearer.
+{{c|1857|Shem}} and {{c|1858|Ham}} and {{c|1859|Japheth}}: three sons, three ways,
+Three branches of the crossing line. In days
+Long after, in the registry and lore
+Of biblical redactors, at its core,
 
-                      Not a historical man
-In the strict sense. The {{x|Gaiad}} does not show a
-Wooden ark with lions and zebras and a plan
+The launch of three great world race-divisions,
+{{c|1863|Semitic}}, {{c|1864|Hamitic}}, {{c|1865|Japhetic}}, found
+Their root in these three. But the rescissions
+And problems of the racial groupings' ground
+The {{x|Gaiad}} knows, and so it is not bound
 
-For two of every kind. The {{x|Gaiad}} shows a boat,
-A small boat, a survival boat, a family boat,
-With a few human passengers and the wrote
-And memorized knowledge of the prior host,
+By the three-race frame, and it reads the three
+As branches of the {{c|1854|CT}} clade, to be
+{{c|1849|C}}, {{c|1850|D}}, {{c|1861|E}}, {{c|1862|F}}, the trunk on foreign soil
+That stayed through generations' patient toil.
 
-Crossing a strait in a drought. The animals
-Were left behind. They would cross, eventually,
-On other bones—the lions and the canals
-Of migration would carry them. But initially
+These sons are the beginning of the fan,
+The great unfurling of the human plan,
+The delta where migration's waters part,
+The coil uncoiling from its narrow start.
 
-The boat was human only. The boat was small.
-The boat was real. The strait was twenty kilometers.
-The water was rising. The land was losing its thrall.
-And {{c|1851|Noah}}, or the man {{c|1851|Noah}} stood in for, maneuvers
+{{c|1851|Noah}} built the boat. {{c|1851|Noah}} crossed the strait.
+His sons began dispersal. And the line
+Of {{c|308|Seth}} that walked ten generations' weight,
+Embossing {{p|African}} soil with its sign,
 
-His people across the {{p|Red Sea}} onto the {{p|Arabian}}
-Peninsula, where the wetter climate of that age
-Made the peninsula livable—the verdant savannah
-And seasonal rivers of pre-desert {{p|Arabia}}, the stage
+Now stood upon the far side of the sea.
+The continent they'd left would no more be,
+For the first time, mother of all mankind,
+The human whole; and what had been combined
 
-For the next fifty thousand years of human history.
+As one was now, in the smallest degree,
+Two: those who stayed, and those who'd gone. The free
+And home, in {{p|Africa}}, were {{c|977|Abel}}'s line
+And {{c|1836|A}}'s sons who would not migrate; the sign
 
-{{c|1857|Shem}}, {{c|1858|Ham}}, {{c|1859|Japheth}}. Three sons.
+Of {{c|1851|Noah}} and his sons was restless, new
+On {{p|Yemen}}'s shores, the start of the long road
+That would in time take them the whole world through,
+To each inhabited, contrived abode
 
-                                                  Three branches
-Of the crossing lineage. In the later registry
-And memory of the biblical redactors, the launches
+Of all the planet's rest. This is the hinge,
+The crossing, our before-and-after. Each
+Non-{{p|African}} among us, in some fringe
+Or major portion of the {{p|Y}}'s long reach,
 
-Of the world's three great race-divisions—
-{{c|1863|Semitic}}, {{c|1864|Hamitic}}, {{c|1865|Japhetic}}—would be grounded
-In these three. But the {{x|Gaiad}} knows the rescissions
-And problems of the old racial groupings. Not bound
+Descends from all who rode in {{c|1851|Noah}}'s boat.
+One crossing: one small vessel and one moat
+Of twenty kilometers. All the lands
+Thereafter, every mountain that still stands,
 
-By the three-race frame, the {{x|Gaiad}} reads {{c|1857|Shem}}
-And his brothers as three branches of the {{c|1854|CT}} clade,
-Which will in time become {{c|1849|C}}, {{c|1850|D}}, {{c|1861|E}}, {{c|1862|F}} and the stem
-And trunk of every non-{{p|African}} lineage that has stayed
+Each language, every pestle in its bowl
+Of mortar, every kitchen, and the whole
+Of human settlement outside the shore
+Of {{p|Africa}}, descends from what, before,
 
-Across the generations on foreign soil.
+Each crossing member of his kin would choose:
+To step into the boat that day, and lose
+The land behind. It is no figure; for
+The great migration happened. And the score
 
-The three sons are the beginning of the fan.
-The delta opening of the migration. The coil
-Of the great unfurling that is the human plan.
+Of it is in the bones and genes, the frost
+Mitochondrial and {{p|Y}}-chromosome
+That modern genetics has read. The cost
+And count of it are burned in our genome.
 
-{{c|1851|Noah}} built the boat. {{c|1851|Noah}} made the crossing.
-{{c|1851|Noah}}'s sons began the dispersal. And the line
-Of {{c|308|Seth}} that had walked for ten generations, embossing
-The {{p|African}} soil with their patient sign,
+The {{c|1851|Noah}} story, parted from its source,
+Preserved the crossing's memory, the way
+A myth preserves a real event, its course
+Down the long corridor of what they say,
 
-Now stood on the other side of the water.
+Ten thousand years of telling; it survived:
+The boat, the flood, the crossing, and the loss
+Of the old country; and how they arrived,
+In glory or exhaustion, from across,
 
-And the continent they had left behind
-Was, for the first time, no longer the mother
-Of the whole human species. The mankind
+Upon the new land's shore. The {{x|Gaiad}} pays
+The story honor, giving back the tale
+To what it remembers: no grand displays
+Of world deluge; a local crossing's scale:
 
-That had been one was now, in the smallest degree,
-Two: the staying and the gone. The line
-Of {{c|977|Abel}} and the un-migrating sons of {{c|1836|A}}, free
-And home in {{p|Africa}}—and the restless sign
+A few who lived because they built a boat.
+And from them, and from them alone, descends
+Each man of {{p|Europe}}, {{p|Asia}}, the remote
+{{p|Pacific}}, {{p|Australia}}, earth's polar ends,
 
-Of {{c|1851|Noah}} and his sons, newly arrived
-On the shores of {{p|Yemen}}, at the beginning of the road
-That would take them, in time, to every contrived
-And inhabited corner of the continental code
+The {{p|Americas}}, and each place beside
+{{p|Africa}}. All of us who are outside
+The {{c|1837|San}}, the {{c|1838|Mbuti}}, and the holds within
+The vast and diverse continent, have been
+Born of the choice, the boat, and of the plan
+Of this one {{c|1851|Noah}}. Honor him, the man.
 
-Of the rest of the planet.
+He founded no flood; he was the sire
+Of the great crossing, and its glow and fire,
+The ember of the human species' blood
+That first on foreign soil began to bud,
 
-                            This is the hinge.
+The ancestor of all of us on land
+That {{c|1834|Adam}} never saw; the builder's hand
+That made the small boat; un-Atlas, who bore
+And carried the whole line to the far shore.
 
-The crossing. The before-and-after of our species.
-Every non-{{p|African}} descends, in some fringe
-Or major proportion of their {{p|Y}}, from the specie
-
-And individual passengers of {{c|1851|Noah}}'s boat.
-
-One crossing. Twenty kilometers. A small vessel.
-And every continent thereafter, every moat
-And mountain, every language, every pestle
-
-Of every mortar of every kitchen of every
-Human settlement outside of {{p|Africa}}—all of it
-Descends from the decision of {{c|1851|Noah}}'s every
-Crossing family member to step into the fit
-
-Of the boat that day.
-
-                       The great migration is not metaphor.
-
-It happened. It is in the bones, in the genes, in the frost
-Of every mitochondrial and {{p|Y}}-chromosomal score
-That modern genetics has read. The count and cost
-
-Of the event is burned into our DNA.
-And the {{c|1851|Noah}} story, long divorced from its origin,
-Preserved the memory of the crossing, the way
-A myth preserves a real event—through the long bin
-
-And corridor of oral transmission, across
-Ten thousand years of retelling, the story
-Survived. The boat. The flood. The crossing. The loss
-Of the old country. The arrival in glory
-
-Or in exhaustion on the shore of the new land.
-
-The {{x|Gaiad}} honors the story by returning it
-To the thing it remembers. Not a global and grand
-Deluge. A local crossing. A small kit
-
-Of people who survived because they built a boat.
-
-And from them—and only from them—
-Every man of {{p|Europe}}, {{p|Asia}}, {{p|Australia}}, the remote
-{{p|Pacific}}, the {{p|Americas}}, the polar rim
-
-And every elsewhere that is not {{p|Africa}},
-Descends.
-
-           Every one of us who is not of the {{c|1837|San}}
-Or the {{c|1838|Mbuti}} or the deep inland holds of the massive
-And diverse {{p|African}} continent, is a descendant of the plan
-
-And the choice and the boat of this one {{c|1851|Noah}}.
-
-                                                     Honor him.
-
-For he was not the founder of the flood,
-He was the father of the crossing. The glow
-And ember of the human species' first blood
-
-On foreign soil. The ancestor of all of us
-Who stand on land that {{c|1834|Adam}} never saw.
-The small-boat-builder. The un-Atlas of the plus
-And carrying hero of the line. The maw
-
-And mouth of the strait closes behind the boat.
-The passengers disembark. The continent behind
+The strait's maw and mouth close behind the boat.
+The passengers step off. The land behind
 Is, from this moment, no longer the coat
-And cover of the human species. The kind
+And cover of the species, humankind.
 
-That would become us has split into two.
+The kind that would become us splits in two:
+The {{p|African}}, that stays; the line that crossed.
+The second line, the restless, is not through:
+Not yet begun. The crossing is not lost.
 
-The {{p|African}} line, staying. The line that has crossed.
-
-And the second line—the restless—is not through.
-It has not yet begun. But the crossing is not lost.
-
-{{c|1866|Yemen}}. The dry hills of {{p|Arabia}}. The sun
+{{c|1866|Yemen}}; {{p|Arabia}}'s dry hills; the sun
 Over the {{p|Red Sea}}, rising on the far
-And foreign shore. The day the crossing was done.
-
+And foreign shore: the day that it was done,
 The day the species became what we are.
