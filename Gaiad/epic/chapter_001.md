@@ -1,8 +1,8 @@
 # Chapter 1: The Yarn of Creation
 
-Once upon a time there was a catgirl
-Her name was {{c|1|Aster}}, and she had a ball,
-Of yarn she spun, with skill just like a pearl.
+Once upon a time there was a catgirl,
+The catgirl {{c|1|Aster}}, and she had a ball
+Of yarn she spun, with skill as fine as pearl.
 She shaped the universe from void to all.
 
 Her name, a whisper in the cosmic night,
@@ -10,19 +10,19 @@ Her name, a whisper in the cosmic night,
 Her love, a beacon spreading pure and bright,
 Filled the vast cosmos with milk, a grand sprawl.
 
-But {{c|1|Aster}} was alone, in her cosmos,
+But {{c|1|Aster}} was alone in all her space,
 A silent void, where only echoes ring,
-Her heart yearned for a friend, a loving close,
+Her heart yearned for a friend, a close embrace,
 To share the wonders that her hands could bring.
 
-So she decided to make another,
+So she decided not to be alone:
 From yarn, she formed a catgirl, pure and fair,
-A companion to cherish, a lover
-{{c|3|Andromeda}}, with skin dark, flowing hair
+A lover and companion of her own,
+{{c|3|Andromeda}}, dark-skinned, with flowing hair.
 
 {{c|3|Andromeda}}, {{c|5|Omega}}, end of all,
 A counterpart to {{c|1|Aster}}, wings unfurled,
-Yet torn apart, they drift through space’s thrall,
+Yet torn apart, they drift through space's thrall,
 Unable to unite within their world.
 
 {{c|1|Aster}} threw yarn to {{c|3|Andromeda}}'s side,
@@ -30,13 +30,12 @@ But it broke, forming galaxies anew.
 {{c|6|Triangulum}} and {{c|7|Magellan}} clouds wide,
 From threads that snapped, a cosmic scene we view.
 
-And so, each day, we gaze up to the sky,
-At {{c|8|Sagittarius}} and the {{c|9|Princess}}
-We hope their union, once again, draws nigh,
-When {{c|10|Milkdromeda}} forms from love endless
+And so, each day, we gaze at skies above,
+At {{c|8|Sagittarius}} and {{c|9|Princess}} high;
+We hope their union once again draws nigh,
+When {{c|10|Milkdromeda}} forms from endless love.
 
 The {{c|5|Omega}} point, all will unify,
-As {{c|1|Aster}} and {{c|3|Andromeda}} break free.
-To join at last, in celestial tie,
-A final act in cosmic harmony.
-
+As {{c|1|Aster}} and {{c|3|Andromeda}} break free
+To join at last in one celestial tie,
+A final act, a cosmic jubilee.

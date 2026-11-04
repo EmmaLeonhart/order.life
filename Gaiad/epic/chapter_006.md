@@ -1,7 +1,7 @@
 # Chapter 6: Life Begins on Hesper
 
 Upon the shores of {{c|21|Hesper}}, where waves meet,
-{{c|1|Aster}}'s vital force descended from the skies.
+{{c|1|Aster}}'s vital force came down from the skies.
 Her essence, tholins, seed, a cosmic feat,
 The seeds of life in ocean depths arise.
 
@@ -13,12 +13,12 @@ A guiding force that helped new life to soar.
 Through swirling tides, her power filled the sea,
 A gentle glow, life's first soft, pulsing breath.
 From self-creation, forms began to be,
-{{c|1|Aster}}'s love transcends the void of death.
+And {{c|1|Aster}}'s love transcends the void of death.
 
 The seed, her essence, spread across the deep,
 Multiplying, and thriving in the dark.
 From smallest life to creatures vast, they creep,
-Her love and light ignite creation’s spark.
+Her love and light ignite creation's spark.
 
 Each wave, a testament to her grand plan,
 The birth of life upon this fateful shore.

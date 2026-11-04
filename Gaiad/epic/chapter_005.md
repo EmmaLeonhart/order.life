@@ -22,7 +22,7 @@ A seed of creation on the tides side,
 
 From microbes small to creatures of the sea,
 Her love ensures that life will find its way.
-Each world unique, a thriving symphony,
+Each world unique, and each one thriving free,
 Her touch endures in life's eternal sway.
 
 {{c|3|Andromeda}}, with pride, looks from afar,

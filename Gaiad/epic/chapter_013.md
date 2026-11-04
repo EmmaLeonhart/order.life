@@ -30,15 +30,15 @@ A younger sister, late to join the dance.
 Yet beauty dwells within her rocky heart,
 A jewel set in space's vast expanse.
 
-The giants vast, the gaseous daughters four,
-{{c|101|Jupiter}}, {{c|102|Saturn}}, {{c|103|Uranus}}, {{c|104|Neptune}}'s reign.
+The giants vast, gaseous daughters four,
+{{c|101|Jupiter}}, {{c|102|Saturn}}, {{c|103|Uranus}}, {{c|104|Neptune}}:
 Their tales entwined within the cosmic lore,
-With storms that swirl and moons in endless chain.
+With storms that swirl, and moon on circling moon.
 
 Around great {{c|101|Jupiter}}, his moons revolve,
 {{c|105|Io}}, {{c|106|Europa}}, {{c|107|Ganymede}}, they dance.
 Their icy secrets waiting to evolve,
-A celestial show in night's expanse.
+A celestial show in night's vast expanse.
 
 But {{c|105|Io}}'s fires within her heart did glow,
 Her waters boiled beneath volcanic flame.
@@ -55,7 +55,7 @@ Beyond cold {{c|104|Neptune}} lies a distant field,
 Their icy secrets yet remain concealed,
 A frigid tale where mysteries abide.
 
-{{c|112|Farther}} still, the {{c|113|Oort}} {{c|114|Cloud}} wraps around,
+{{c|112|Farther}} still, the {{c|113|Oort}} {{c|114|Cloud}} wraps all around,
 A veil of frozen whispers far from light.
 In distant orbits, comets there abound,
 A cosmic dance that fades beyond our sight.

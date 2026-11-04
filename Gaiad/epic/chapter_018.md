@@ -21,7 +21,7 @@ A golden age where love and life both grew.
 These daughters of the {{c|96|Earth}} upheld their peace,
 Their gifts and blessings multiplied each day.
 Their kinship served as strong and sure release,
-Together walking hope’s unblemished way.
+Together walking hope's unblemished way.
  
 In days of old, the purple farmers thrived,
 Their colors stirring life across each field.
@@ -32,29 +32,29 @@ From her did {{c|262|Saya}}, {{c|268|Chloroflexi}} yield.
 {{c|268|Chloroflexi}} thrived by methods defined,
 No trace of harm endured in farmland fair.
 Yet {{c|262|Saya}} hungered, greed within her mind,
-Her yields of O₂ seared the open air.
+Her oxygen yields seared the open air.
  
 
 {{c|269|Unchecked}}, her fervor choked the gentle skies,
-The planet quaked beneath her rampant spree.
-{{c|270|Banded}} iron testified demise,
-As crimson waters spelled calamity.
+The planet shook beneath her rampant spree.
+{{c|270|Banded}} iron testified to demise,
+Red waters spelled calamity's decree.
  
 
 The {{c|271|Elohim}} in chorus raised their plea:
 "{{c|272|Reduce}} these fumes, or life itself will cease!"
-With {{c|61|Sol}} and {{c|100|Gaia}}, {{c|201|Luna}}'s voice did agree,
+With {{c|61|Sol}} and {{c|100|Gaia}}, {{c|201|Luna}} would agree,
 They begged that {{c|262|Saya}}'s reckless growth should lease.
 
 Yet {{c|262|Saya}} pressed for ever-greater yield,
 Demanding others curb their own supply.
 Her own emissions soared across the field,
-While {{c|96|Earth}}’s deep scars revealed a mortal cry.
+While {{c|96|Earth}}'s deep scars revealed a mortal cry.
  
 
 At {{c|273|Kamo}} {{c|274|Shrines}}, a solemn pact was cast,
 A vow to quell the surge of rising air.
-Yet {{c|275|Rara}}’s cunning lies undid it fast,
+Yet {{c|275|Rara}}'s cunning lies undid it fast,
 {{c|276|Unraveling}} each clan in fell despair.
  
 
@@ -65,8 +65,8 @@ A rising tide of death that closed them in.
  
 
 At Saint-{{c|277|Germain}}-des-Prés, they met anew,
-While {{c|275|Rara}}’s rumors thrived in every mind.
-“We’ve reached our limit; change remains untrue,”
+While {{c|275|Rara}}'s rumors thrived in every mind.
+“We've reached our limit; change remains untrue,”
 He whispered low, their reason quite maligned.
  
 
@@ -85,4 +85,4 @@ As {{c|96|Earth}} grew cold beneath a wailing sky.
 At last a {{c|279|Fimbulwinter}} seized the lands,
 Where once warm currents flowed, now ice held sway.
 With {{c|271|Elohim}} undone by idle hands,
-The planet’s ruin told of their delay.
+The planet's ruin told of their delay.

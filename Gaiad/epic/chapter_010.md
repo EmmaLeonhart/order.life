@@ -1,29 +1,29 @@
 # Chapter 10: The Golden Age of Serenitide
 
 Upon the moon {{c|54|Serenitide}}, they came,
-Beneath the rains of {{c|55|Pluvia}}'s gentle skies.
+Beneath {{c|55|Pluvia}}'s rains and gentle skies.
 The star {{c|56|Quiyah}} cast down its golden flame,
 A world untouched, where peaceful dreams arise.
 
 Their ships descended, weary from their quest,
-They saw the fields and oceans vast, unscarred.
-In {{c|54|Serenitide}}'s embrace, they hoped for rest,
+They saw the fields and oceans, none yet marred.
+Embraced by {{c|54|Serenitide}}, they sought rest,
 A future bright, where nothing would be hard.
 
-Beneath {{c|56|Quiyah}}'s light, they carved their way,
+And under {{c|56|Quiyah}}'s light they carved their way,
 And built great cities from the land and stone.
-The air was sweet, the soil rich with clay,
-In {{c|54|Serenitide}}, they found a place their own.
+The air was sweet, the soil was rich with clay,
+{{c|54|Serenitide}} became a place their own.
 
 With hands of hope, they shaped both sky and shore,
 A golden age of wisdom and of light.
 Their dreams took root, and cities soon did soar,
-As {{c|54|Serenitide}}'s vast beauty reached new height.
+{{c|54|Serenitide}}, in beauty, reached new height.
 
 In art and science, knowledge took its flight,
 A golden age of wonders did unfold.
 Their temples gleamed beneath the heavens' light,
-To {{c|1|Aster}} and {{c|3|Andromeda}}, bold.
+To {{c|1|Aster}} and {{c|3|Andromeda}} the bold.
 
 The city thrived, its streets alive with sound,
 Where laughter echoed, and their dreams took form.
@@ -40,7 +40,7 @@ As {{c|54|Serenitide}} came to freeze in time.
 The warmth of suns withdrew from gentle sands,
 The oceans groaned beneath an icy rime.
 
-The once-bright fields grew cold beneath frost,
+The once-bright fields grew cold beneath the frost,
 As winds of change swept through the fading green.
 A world of warmth and light, now nearly lost,
 The moon transformed to something unforeseen.
@@ -56,7 +56,7 @@ With {{c|1|Aster}}'s light, they found the strength to be,
 A people strong amidst the frost and snow.
 
 But from the depths of space, a threat did soar,
-A meteor, with fiery wrath untamed.
+A meteor, a fury none had tamed.
 It struck {{c|54|Serenitide}} with violent roar,
 And all beneath its force was soon inflamed.
 
@@ -70,7 +70,7 @@ No longer bound by icy, frozen shore.
 The force of impact flung them far from sight,
 To realms unknown, to journey evermore.
 
-Towards the fourth sun’s gleam, they now were drawn,
+Towards the fourth sun's gleam, they now were drawn,
 A new horizon waiting in its light.
 Though scattered, still their hope would lead them on,
 As they sailed onward through the endless night.

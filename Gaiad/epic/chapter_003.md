@@ -16,7 +16,7 @@ For they are bound by {{c|12|Lambda}}, like a star,
 A cosmic force that keeps their love alight.
 
 In their celestial dance, the heavens sway,
-The tale of {{c|1|Aster}} and {{c|3|Andromeda}}, told.
+The tale of {{c|1|Aster}}, {{c|3|Andromeda}}, told.
 A love that binds the night and lights the day,
 A cosmic love beyond what words can hold.
 
@@ -35,8 +35,8 @@ With helium and light, her stars are spun.
 She swirled the cosmic blend in careful sway,
 From curds of light, the stars are gently won.
 
-A pantheon of stars, in heaven’s care,
-A host of stars, in heaven’s gentle sway,
+A pantheon of stars, in heaven's care,
+A host of stars, in heaven's gentle sway,
 Their cosmic stories weave through skies so fair,
 Their cosmic tales unfold in bright display.
 
@@ -65,19 +65,19 @@ Main sequence stars, her hot flashes ignite.
 As giants red, their elder forms will grow,
 Then fade with age, surrendering their light.
 
-Now as a white dwarf, small and old she rests,
-A little lady in the cosmic sea.
-Her planetary nebula still reflects,
-The brilliance of her once bright majesty.
+Now as a white dwarf, small and old, she rests,
+A little lady in the cosmic sea;
+Her planetary nebula attests
+The brilliance of the star she used to be.
 
 {{c|17|Celestella}} commands her giant blaze,
 Red supergiants in her name grow vast.
 With neutron stars and pulsars in her gaze,
-She watches supernovae's fiery blast.
+She watches supernovas flare and blast.
 
-{{c|18|Gigastella}} shone with a force untamed,
+{{c|18|Gigastella}} shone, a force none could tame,
 Her sister {{c|17|Celestella}}, bright and vast.
-The stress of cosmic weight left her inflamed,
+The stress of cosmic weight set her aflame,
 Her life burned fast, her brilliance could not last.
 
 In her collapse, a supernova flared,

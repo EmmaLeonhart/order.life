@@ -31,16 +31,16 @@ For twenty-five, the skies stayed calm and clear,
 Until again, their love burst forth with cheers.
 
 For countless years, their rhythm stayed the same,
-Each nova lighting skies with love’s great might.
+Each nova lighting skies with love's great might.
 Once every age, their gift became a flame,
-A cycle known as {{x|Nova}}’s sacred light.
+A cycle known as {{x|Nova}}'s sacred light.
 
 As time went on, they both grew small and white,
 Yet side by side, they watched the stars they made.
-Their children shining in the nebula’s light,
+Their children shone in the nebula's light,
 A legacy of love that would not fade.
 
 And now, we honor them in wedding vows,
 With ruby rings for one, and topaz bright.
 White opal marks the bond that time allows,
-A symbol of their love’s enduring light.
+A symbol of their love's enduring light.

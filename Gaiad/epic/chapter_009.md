@@ -2,7 +2,7 @@
 
 Upon the moon {{c|38|Phaestia}}, life did bloom,
 It circled {{c|39|Vayu}}, underneath the sun.
-{{c|1|Aster}}, by {{c|40|Ehēca}}'s light, dispelled the gloom,
+{{c|1|Aster}}, by {{c|40|Ehēca}}'s light, broke the gloom,
 Her guiding hand ensured all life begun.
 
 {{c|41|People}} of {{c|38|Phaestia}}, blessed by her hand,
@@ -12,15 +12,15 @@ Her essence woven deep in every core.
 
 By many titles did the stars proclaim
 The goddess who had given life its start.
-They honored her with reverence and great flame,
+They honored her in reverence and flame,
 For {{c|1|Aster}} lived within each beating heart.
 
 She ruled the oceans vast with gentle hand,
 {{c|42|Empress}} of cosmic waters, {{c|43|Suiten}}.
 The star that guides the lost through every land,
-The Great {{c|42|Empress}} of the {{c|44|North}} {{c|45|Star}}, {{c|46|Myoken}}.
+Great {{c|42|Empress}} of the {{c|44|North}} {{c|45|Star}}, {{c|46|Myoken}}.
 
-From supernova’s heart, she forged with might,
+From supernova's heart, she forged with might,
 Cosmic metals shaping, {{c|47|Konjin}}-sama.
 The breath of life that fills the endless night,
 The great creatrix of all worlds, {{c|48|Brahma}}.
@@ -48,9 +48,9 @@ And signs of strife began to stir again.
 A mighty tremor shook the ocean floor,
 {{c|51|Volcanoes}} rose with fury in their wake.
 {{c|52|Lava}} and ash consumed the peaceful shore,
-As fiery wrath made all of {{c|38|Phaestia}} quake.
+As fiery wrath made {{c|38|Phaestia}} quake.
 
-The fiery force burst forth with blinding light,
+The fire's force burst forth with blinding light,
 A torrent born of deep volcanic pain.
 The sky grew dark beneath the ash-filled night,
 As lava scorched the land and boiled the rain.
@@ -60,7 +60,7 @@ Yet in the chaos, hope began to rise.
 The cyborgs, built by {{c|1|Aster}}, found their way,
 Their metal forms resilient to demise.
 
-{{c|53|Propelled}} by force beyond their world’s control,
+{{c|53|Propelled}} by force beyond their world's control,
 The cyborgs drifted, cast to distant stars.
-Through starlit realms, their shattered moon’s last soul
+Through starlit realms, their shattered moon's last soul
 Would venture far beyond its cosmic scars.

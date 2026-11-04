@@ -22,7 +22,7 @@ A path of cunning, viral bursts he spread.
 
 While {{c|26|Dedos}}, firm, rejected cyborg might,
 {{c|35|Preferring}} nature's purity to stand.
-Yet scarcity and sun wore down his life,
+Yet scarcity and sun dimmed his life's light,
 His fragile form no match for {{c|21|Hesper}}'s land.
 
 The sons of {{c|24|Bios}} thrived, expanding wide,
@@ -40,7 +40,7 @@ A path of nature {{c|26|Dedos}} would bestow.
 {{x|Anti-vaxxers}} joined his lineal claim,
 United in their ancient quest to grow.
 
-And so, the brothers’ legacies unfold,
+And so, the brothers' legacies unfold,
 Their tale lives on beneath the cosmic sun.
 In phospholipid worlds where life took hold,
 The story thrives, the cosmic plan's begun.
@@ -56,7 +56,7 @@ Their fragile hopes and legacies all soared,
 In shattered fragments, flung to cosmic bay.
 
 Amidst the wreck, the remnants left behind,
-Set course for {{c|37|Venti}}, gas giant great.
+Set course for {{c|37|Venti}}, the gas giant great.
 A shining moon, {{c|38|Phaestia}}, they would find,
 A refuge for the lost, a twist of fate.
 

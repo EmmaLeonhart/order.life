@@ -5,9 +5,9 @@ The daughters found that water was too scant;
 The icy winds did chill them to despair,
 A home unfit where life could not enchant.
 
-Then came the {{c|198|Moon}} {{c|199|Goddess}}, fair {{c|200|Usagi}},
+Then fair {{c|200|Usagi}}, the {{c|198|Moon}} {{c|199|Goddess}}, came,
 {{c|201|Luna}}, radiant in her lunar grace.
-A pact she offered to their company,
+A pact she offered them, in friendship's name,
 To aid them in their quest across deep space.
 
 "Go forth and multiply on {{c|202|Terra}}'s land,
@@ -16,9 +16,9 @@ An elixir of life by my own hand,
 To grant you all immortal lives, my friend."
 
 The daughters, grateful, ventured back to {{c|96|Earth}},
-To flourish, grow, and spread their progeny,
+To flourish, grow, and spread their family tree,
 With faith that {{c|201|Luna}}'s promise held true worth,
-A potion granting life eternally.
+A potion granting life, from death set free.
 
 And when the time is ripe, they shall return
 To drink the draught that {{c|201|Luna}} has prepared;
@@ -26,7 +26,7 @@ With immortality their souls will burn,
 Across the stars, their endless journey shared.
 
 Upon the {{c|96|Earth}}, fair {{c|100|Gaia}} welcomed them,
-To watery realms and vast abundant shores.
+To watery realms and abundant shores.
 {{c|125|Daughters}} of {{c|24|Bios}} thrived within her hem,
 In loving arms their spirit upward soars.
 
@@ -38,7 +38,7 @@ Their gratitude to {{c|100|Gaia}}'s heart they'd tell.
 In {{c|204|Jack}} {{c|205|Hills}}' sacred ground, they built a shrine,
 From zircon stones, an ancient temple rose;
 And to this day, the faithful there align,
-In reverence, their devotion ever flows.
+In awe, their deep devotion ever flows.
 
 So on this {{c|96|Earth}}, within {{c|100|Gaia}}'s embrace,
 They grew and blossomed, cultures rich and new;
@@ -56,7 +56,7 @@ In twilight's breath, {{c|200|Usagi}} {{c|201|Luna}} spoke,
 One day your children's chains of time will end."
 
 And in that distant, ever-reaching sight,
-{{c|5|Omega}} Point where galaxies shall entwine—
+{{c|5|Omega}} Point, where galaxies entwine—
 {{c|1|Aster}} and {{c|3|Andromeda}} will unite,
 To form {{c|10|Milkdromeda}}, a cosmic sign.
 
