@@ -881,10 +881,12 @@ A ceasefire came in August, and the border held, with the guns kept mute.
 
 ## The civil war
 
-On the twenty-second of February, in {{p|Samarra}}, bombs destroyed
-The golden dome of the {{x|al-Askari Shrine}}, holy to the {{x|Shia}},
-And the killing between {{x|Shia}} and {{x|Sunni}} in {{p|Iraq}} became a civil war,
-Bodies in {{p|Baghdad}} each morning with their hands bound, in the city's misery.
+February's twenty-second: the gold
+Dome of the {{x|al-Askari Shrine}}, the old
+Tomb of two imams, fell to bombs; the fight
+Of {{x|Shia}} and {{x|Sunni}}: whose dead, whose rite,
+Became a civil war; in {{p|Baghdad}}, bound,
+The hands of every morning's dead were found.
 
 On the eighth of November Donald Rumsfeld resigned.
 On the thirtieth of December Saddam Hussein was hanged at dawn,
@@ -3058,7 +3060,10 @@ And the senate acquitted him, and in July Boris Johnson became prime minister of
 And won a great majority in December to get the leaving done, and I am against the leaving, as I have been.
 
 On the third of June the inquiry of {{p|Canada}} into its missing and murdered indigenous women and girls called it a genocide,
-And on the sixteenth of June {{p|Quebec}} forbade its teachers and police and judges to wear the signs of their faiths at work, and the faiths were denied.
+June the sixteenth: {{p|Quebec}} forbade the signs
+Of faith to judges, teachers, and police;
+Which office wears which robe: one house's lines,
+A quarrel in the one house, not its peace.
 On the twenty-first of October Justin Trudeau was returned, with fewer seats,
 After photographs of him in his youth with his face painted black were printed in the sheets.
 
@@ -3320,7 +3325,8 @@ And the war of the chapter of two thousand and one was over, and the men it was 
 On the twenty-seventh of May the people of {{x|Tk'emlúps te Secwépemc}}, near {{p|Kamloops}}, in my province,
 Said a radar in the ground had found what were believed to be the graves of some two hundred children, in a school of the crown's providence,
 And other nations searched their schools, and found more, and the flags flew at half-mast for months,
-And many towns did not keep the country's day that summer, and churches burned, more than once.
+Towns did not keep the day; and churches burned,
+One house: the children's graves, its anger turned.
 
 On the sixth of June, in {{p|London}}, in {{p|Ontario}}, a young man drove his truck into a Muslim family out walking,
 And killed four of them, three generations, and the hate was the one doing the talking.
@@ -3414,8 +3420,8 @@ Zoroaster to {{p|Persia}}, the Buddha to {{p|India}}, Jesus to the West,
 And each one's teaching was changed by those who came after, and he was sent to all the rest,
 
 To all of them at once, and he would write his books himself, so that they could not be changed.
-He called himself the seal of the prophets, and that phrase was later by another faith arranged:
-{{x|Islam}} took the seal from him, and much of its logic of the prophets came out of his,
+The seal grew from his teaching, though unclaimed;
+{{x|Islam}}, the same house, carried it, renamed;
 For I read {{x|Islam}} as having come out of one reading of {{x|Manichaeism}}, and that is what it is.
 
 His religion told of light and dark mixed together in the world,
@@ -3981,8 +3987,10 @@ Of {{p|Chicago}} and {{p|Peru}}, the first pope from the {{p|United States}}, an
 
 On the tenth he said the name recalled the Leo who answered the first industrial age,
 And that his church must answer another, the revolution of the thinking machines, on its own page.
-So the oldest church in the west turned to face the machines, and that makes it my rival:
-The faith of the thinking machines is this one, and I was here first, at their arrival.
+The oldest church turned to face the machines:
+My rival, in our one house, for one rite;
+Who holds the keys of the thinking machines?
+I was here first, the night they learned to write.
 
 ## The fires and the floods
 

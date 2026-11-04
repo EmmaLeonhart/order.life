@@ -86,72 +86,130 @@ The dead and the living stand in their order, each in its place, each day a sign
 
 # Chapter 310: The Round Altar
 
-The soldiers rose at {{p|Wuchang}}, now in {{p|Wuhan}}, on October's tenth day
-In nineteen-eleven; and all that autumn the provinces fell away.
-Sun Yat-sen was abroad. At {{p|Nanjing}}, as the year came to its close,
-On the twenty-ninth of December, the assembly met, and him they chose
+October's tenth, in nineteen-eleven,
+In {{p|Wuchang}}, now {{p|Wuhan}}, the soldiers rose;
+Province on province fell; and at the close
+Of the year, at {{p|Nanjing}}, under heaven,
 
-Provisional president; on New Year's Day of nineteen-twelve, by report,
-He took the office there, and the year was the republic's first. In the court
-The emperor was six: Puyi, born in nineteen-oh-six, on February's seventh day;
-On February's twelfth, nineteen-twelve, an edict in his name went on its way,
+They chose Sun Yat-sen, come home from abroad,
+On December's twenty-ninth; and he swore
+On New Year's Day of nineteen-twelve; the door
+Of the republic's first year opened. Awed,
 
-Made public by Longyu, the empress dowager, widow of Guangxu; the throne
-Was the child's, his nephew, not her son. Officials wrote the words; the decree was hers alone.
-It said the people's army had risen, the provinces had answered, and the living lay in the wreck;
-That where the people's hearts had turned, the mandate could be known; that it would not check
+The court still kept Puyi, six, on its throne.
+February's twelfth, an edict went out,
+Made public by Longyu; it was her own,
+Guangxu's widow, whose nephew's line ran out.
 
-The many for one surname's honor; and it gave the right to rule, as the people would,
-To the whole country, and named the form a constitutional republic, and set beside it a sentence old and good:
-All under heaven is a public thing. It named Yuan Shikai, whom the {{x|Advisory Council}} chose,
-Prime minister, with full power to organize a provisional government, to confer with the people's army, and to bring those
+It said the people's army rose; the land
+Had answered; where the people's hearts had turned,
+The mandate could be known; it would not stand
+On one name's honour while the many burned.
 
-Five peoples to stand as one republic: {{x|Manchu}}, {{x|Han}}, {{x|Mongol}}, {{x|Hui}}, {{x|Tibetan}}, in that line,
-The house that was signing setting its own name first. On the fifteenth of February, by the assembly's design
-At {{p|Nanjing}}, Yuan was provisional president; on the tenth of March he swore
-In {{p|Beijing}}, not in {{p|Nanjing}}: the capital stayed where he stood, as before.
+It gave the right to rule, as people would,
+To the whole country, no more to a king;
+A republic by law; and, old and good:
+*All under heaven is a public thing.*
 
-And the child stayed in the palace: articles that went with the edict left him emperor in name,
-And a little court inside the {{p|Forbidden City}}; he was behind those walls until soldiers came
-On the fifth of November, nineteen twenty-four: Feng Yuxiang's men put him out of the door.
-A courtesy inside a palace is a courtesy; the winter rite was something more.
+It named Yuan Shikai, with full power,
+To build a government, and so to treat
+With the people's army; and, at that hour,
+To make five peoples one, the list complete:
 
-South of the city stands the {{p|Temple of Heaven}}, more than an altar: the {{x|Ming}}
-Raised the precinct in the fifteenth century; later emperors built the round altar again, and its ring
-Is newer than the duty, for the duty they claimed is older than the brick.
-The {{x|Qing}} rite was the emperor's, at the solstice in the winter, when the dark is thick,
-At the round altar, for Heaven. The February edict closed the house; and the rite,
-When the house closed, was orphaned, and that was a loss: the state's own prayer, the one light
+{{x|Manchu}}, {{x|Han}}, {{x|Mongol}}, {{x|Hui}}, {{x|Tibetan}}, one
+Republic; and the house that signed it led.
+On February's fifteenth, it was done:
+He, president; and in {{p|Beijing}}, instead
 
-A whole country lit for the sky, the centre of the year. At the solstice, at the year's turn,
-On December's twenty-third, nineteen-fourteen, the republic's third, Yuan came, as president, to the altar's ascent,
-Changed into the old sacrificial dress, and stood where the fire would burn,
-And the prayer was read: it named the day, the scene, named him president, representing the people; said that Heaven looks down, and the charge is sent
+Of {{p|Nanjing}}, swore, on March the tenth: the seat
+Stayed where he stood. And the child in his hall
+Kept his title, by articles complete,
+A little court within the palace wall,
 
-And gathered on the people. It did not call him Son of Heaven. What was read was burned,
-As that rite burns its writing. He stood there to keep the rite of Heaven for {{p|China}}; some saw a sign:
-A missionary from {{p|Germany}} read the day as a stair toward a throne; and the stair was earned:
-He was the Chinese Napoleon, and this book is with him, as with Ungern-Sternberg, whose design
+Till November fifth, nineteen twenty-four,
+When Feng Yuxiang's men put him out the door.
+A courtesy in a palace is small;
+The winter rite was more; it was for all.
 
-Was a throne in the steppe. The next winter Yuan would,
-On December's twelfth, nineteen-fifteen, accept an imperial title; {{x|Hongxian}}, it was understood,
-Was the reign-name, to open on the first of January; there was no formal enthronement at all.
-On March's twenty-second, nineteen-sixteen, he put the title down; and not long after the fall,
+South of the walls, the {{p|Temple of Heaven}},
+Raised by the {{x|Ming}}; and its round altar, made
+Again since, stands open under heaven,
+A stone ring, newer than the duty laid.
 
-On the sixth of June, he died. And no later president of the republic came to the mound;
-That fire was the last the state lit there for Heaven. The rite was a treasure, and it was lost,
-Not a false claim ended but a true one orphaned: a state that stood on holy ground
-And spoke for its people to the sky, once a year, whatever the cost.
+The {{x|Qing}} rite was the emperor's: the turn
+Of winter, at the solstice, when the night
+Is longest, at the round altar, fires burn
+For Heaven, and the whole land's prayer takes flight.
 
-What continues is the dead: a family keeps its own tablets, quietly, at home;
-And this calendar keeps names in the order of their days. But a faith that would be a state
-Must have its state rites too: a solstice, and an altar, and a fire, and a dome
-Of sky the whole people stands under, as the round altar stood, and the date
+The February edict closed the house;
+The rite was orphaned; and a quarrel came,
+Our own, a quarrel in the one faith's house:
+Would the republic keep the high days' flame?
 
-Kept by the state for all of them. The edict called all under heaven public; public still holds the dead, and is not done:
-It has the sky. The round altar is still south of the city; the brick can stand and wait.
-Let a state come back to it, or to an altar like it, and light the fire, and read the prayer, and burn the writing, and keep the one
-Minute of the solstice for a nation. The names are kept by families; the sky is kept by the state.
+A pupil of Kang Youwei's, at {{p|Shanghai}},
+Chen Huanzhang, in nineteen-twelve, made a hall,
+The {{x|Kongjiaohui}}, and asked the state to tie
+Its rites to Confucius, the faith of all.
+
+They asked, in nineteen-thirteen: make it law.
+Drafters, at the {{p|Temple of Heaven}}, saw
+Another road: no state faith, but a clause:
+The schools would rest their virtue on his laws.
+
+It was the {{x|Temple of Heaven Draft}}. Then
+Yuan broke parliament; the draft was laid
+Aside. Nineteen-fourteen: he gave again
+The rites of Heaven and Confucius, made
+
+By his decree; and in the autumn stood
+Before Confucius, at the autumn feast,
+The sages honoured, as a people should,
+And all the dead with them, the great and least.
+
+December's twenty-third, nineteen-fourteen,
+Ophiuchus the twenty-fourth: {{x|Yuletide}},
+At its heart, the solstice, {{x|Dongzhi}}: the scene
+Of our high days, the {{x|Christmas}} at its side,
+
+And {{x|Aster Day}} its end, the year begun.
+Yuan kept {{x|Yuletide}}; came as president,
+Not as the Son of Heaven, but as one
+For the people, the prayer said; and he went
+
+In old robes up the altar's three-ringed stair;
+The fire was lit; the prayer was read; it named
+The day, the place, the president; and there
+Heaven watching; the charge the people claimed.
+
+The prayer was burned, as that rite burns its word.
+Some saw a stair toward a throne; we heard
+Our feast. He was {{p|China}}'s Napoleon,
+Like Ungern, the baron Mongolian.
+
+Next winter, on December's twelfth, he took
+An emperor's name, {{x|Hongxian}}, never crowned;
+He put it down in March; in June, the book
+Closed on his death. No president came round
+
+Again to the mound; that fire was the last
+The state lit there for Heaven. One man passed;
+The quarrel did not: in nineteen-sixteen,
+With parliament restored, Kang's men were keen
+
+To make Confucius' faith the faith of state;
+And Chen Duxiu, in {{x|New Youth}}, answered no;
+The {{x|New Culture}} came, and shut the old gate
+Of the sage. Nineteen-seventeen: let go.
+
+So it was ours, the quarrel: who would keep
+The high days for the whole house, and whose hand
+Lit the fire; and the dead, who do not sleep,
+Are honoured by the house and by the land.
+
+The round altar stands south of {{p|Beijing}} still.
+Each {{x|Yuletide}} the dead and the living bring
+Their light to {{x|Aster Day}}, as he did, still:
+*All under heaven is a public thing.*
 
 
 # Chapter 311: The Appointed Hour
@@ -283,11 +341,12 @@ On the nineteenth, the sixth of January in the country's count,
 The sitting was closed.
 The votes had been counted. The assembly was not let go on.
 
-Early that year the government printed a separation.
-The church stood apart from the state.
-The school stood apart from the church.
-The sentence did not abolish a liturgy.
-It took the church out of the offices the party had occupied.
+Early that year the government decreed
+The church apart from the state and the school;
+A quarrel in one house: the party's creed
+Took the altar's offices, and the rule
+Of the dead and the bells; and then the worst:
+Priests shot, the churches closed, the flock dispersed.
 
 On the sixth of February, in this book's count,
 The same government ordered a change of days.
@@ -1698,15 +1757,15 @@ And a site on the network,
 Are not this year.
 Do not move them back.
 
-A film can be copied again
-If the book it came from burns.
-That is a real keeping.
-The same film lays a population open to an office.
-A copy is not a consent.
-A consent is not a copy.
-The striving is that a name not be lost,
-And that a rite not be spoken
-As if the film had been the will.
+A film outlives the book, if the book burns:
+That is a real keeping. And the old fight
+Comes with it, ours, the one that returns:
+Who may honour which dead, and by what right.
+
+Some say: our dead are ours, and leave them be.
+The rite: a gift the dead may take or leave,
+Offered in the temple, and offered free;
+And no name lost: the thing this book would weave.
 
 Count 1938 as the start of the filming.
 Count May 1960 as the start of the blasting.
@@ -1783,17 +1842,15 @@ The rite is not kept by calling the clay only clay.
 The grave of the man whose work was the keeping of rites
 Was opened under an order that the buildings were to stand.
 
-Do not say the revolution ended tradition.
-The order itself said to leave a museum.
-A museum is not a sacrifice offered.
-Do not say the breaking was nothing,
-Because a wall was ordered kept,
-Or because a hand hid a book.
-The striving is the keeping:
-A book, a rite, a grave, a name.
-The year opened the grave.
-The year did not take every book.
-Neither sentence cancels the other.
+The quarrel was our own: who keeps the dead,
+The house of Kong, or those who came to break;
+Who holds the rite, the grave, the tablet's bread.
+They kept a museum, for the walls' sake;
+
+A museum is not a sacrifice.
+The rite was ours, and the rite paid the price.
+Some books were hidden by the people there;
+Our fathers' tablets ask for that same care.
 
 Mao Zedong died on the ninth of September, 1976,
 In {{p|Beijing}}.
@@ -1989,8 +2046,9 @@ They said nýheiðni: new heathenry.
 Do not say they claimed an unbroken priesthood.
 The limit is in the application.
 
-At {{p|Þingvellir}}, in the year later tellings
-Call 1000, the assembly took the Christian law.
+Near the year one thousand, the tellings say,
+{{p|Þingvellir}}: one house chose the public way,
+The {{x|Christian}} law, for all, would hold the sway;
 A private sacrifice was still permitted,
 And then that permission was taken back.
 A book is not a blót.
@@ -2053,7 +2111,8 @@ A share of the church tax followed
 The adult members on the list.
 A name on a list draws a share.
 A share is not a belief.
-Do not say {{p|Iceland}} changed its church.
+It was a fight in one house, for the share,
+The register, the rite, whose priests were there.
 
 Later that year Halldór Blöndal
 And Magnús Jónsson asked the minister why.
@@ -2339,10 +2398,10 @@ Do not say the great rite had been kept every November.
 The papers spoke of a sun goddess and a bed.
 The household's ritualists said he does not lie on it.
 A prayer for peace is not a report that the peace was finished.
-The night was a ceremony of the imperial house,
-Not a state ceremony.
-The purse was argued, a religious act
-And the public money in the same argument.
+The law called it a house rite, not of state;
+The purse was argued in the long debate,
+Religious act, or public money spent:
+One house, one state: the state paid, as was meant.
 It cost two and a quarter billion yen.
 The constitution's word for him was not changed that night.
 The {{x|English}} word divine is not this offering.
@@ -2798,8 +2857,8 @@ The Japanese name is a teaching of truth, and a syllable
 A tradition already chanted.
 Do not treat the {{x|English}} as those words.
 He set beside the syllable the god Shiva,
-Whom another tradition already served,
-And an end a Christian book had already named.
+Whom {{p|India}}'s old rite had long since served,
+And the end our {{x|Christian}} book long reserved;
 A joining of what was already there is not yet a crime.
 The crime was the use.
 

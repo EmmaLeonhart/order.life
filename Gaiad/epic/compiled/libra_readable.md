@@ -8,63 +8,83 @@ Went to the ancestors' hall, and set the first of the harvest
 Before the tablets of the dead: the rice, the millet, the homily
 Of the incense, the bowing, the names read out. The darkest
 
-Winter would come; first, the thanks. This is the day of the harvest.
-Hold that table in your eye, because {{p|Rome}} would forbid it.
-Ricci had made his wager: these were civil rites, the starkest
-Honouring of the parents, not worship. A {{x|Christian}} could do it.
+Winter would come; first, thanks. This is the day.
+Keep that table in your eye: our own rite,
+And the quarrel round it was ours. The way
+It ran: who holds the table, by what right.
 
-His order, the Jesuits, kept the wager for a hundred years.
-Other orders came to {{p|China}}, the Dominicans, the Franciscans,
-Who worked in the villages, not the court, and saw, among the peasants' tears
-And offerings, food set out for the dead to eat, the stances
+Ricci had made his wager: let them bow;
+Let the believer keep his fathers' hall;
+And {{x|Tian}} and {{x|Shangdi}} named the God of all.
+His order, the Jesuits, kept that vow.
 
-Of prayer to spirits, and said: this is idolatry. And they said:
-The words Ricci used for God, *{{x|Tian}}*, {{x|Heaven}}, and *{{x|Shangdi}}*,
-The {{x|Lord on High}}, are pagan words. The quarrel spread
-To {{p|Rome}}, to the universities of {{p|Paris}}, where the clergy
+A century. Then Dominicans came,
+With the Franciscans, to the farms, and saw
+Food set for the dead, and gave it a name,
+And called it idol-worship, by their law.
 
-Argued for decades about a country none of them had seen.
-The Jesuits asked the emperor himself. And in 1700 the great Kangxi,
-Who had made the Jesuits his astronomers, signed a statement, clean
-And clear: the rites to Confucius are to honour a teacher; the ancestry
+They said the names {{x|Tian}} and {{x|Shangdi}} were wrong
+For God. But the heart of it was the hall:
+Who sets the bowl, who reads the names, whose song
+Is sung there, and whose keys are over all.
 
-{{x|Rites}} are to show love and remember; *{{x|Tian}}* means the {{x|Lord of Heaven}}.
-Nothing in them is a prayer for blessing from the dead.
-The emperor of {{p|China}} had settled it. And {{p|Rome}}, the leaven
-Of whose authority could not be shared, said: it is not his to settle. Instead,
+The quarrel went to {{p|Rome}} and {{p|Paris}}, where
+The clergy argued it for decades, men
+Who never saw the land, nor the hall's prayer.
+The Jesuits asked the emperor then.
 
-In 1704, Clement XI decreed: no *{{x|Tian}}*, no *{{x|Shangdi}}*, only *{{x|Tianzhu}}*,
-{{x|Lord of Heaven}}, Ricci's coinage; no tablets saying *seat of the soul*;
-No {{x|Christian}} to take part in the rites of Confucius, nor do
-The seasonal offerings at the ancestors' hall. The whole
+In seventeen hundred, Kangxi, the great,
+Signed for the Jesuits a word of state:
+The rite to Confucius thanks one who taught;
+The rite in the hall is love, and asks naught
 
-Of the accommodation, refused. A legate, Tournon, carried it to {{p|Beijing}},
-And the emperor received him, and heard what he had come to say,
-And questioned the bishop who had begun it, Maigrot, who could not read a single thing
-Of the characters, and was furious that such a man should judge the classics. The way
+Of blessing from the dead; {{x|Tian}} is the name
+The {{x|Lord of Heaven}}'s. The throne made the call.
+And {{p|Rome}} said: not his to settle; the same
+Keys could not be shared, not over the hall.
 
-It ended: the legate expelled to {{p|Macau}}, where the {{x|Portuguese}},
-Jealous of their own rights, held him, and he died in 1710.
-{{p|Rome}} confirmed the ban in 1715. And the emperor, with ease
-And contempt, wrote on the papal decree with his red brush: *the men
+In seventeen-oh-four the Pope decreed:
+No {{x|Tian}}, no {{x|Shangdi}}; just {{x|Tianzhu}}, the name
+Ricci had made; no tablet that would read
+*Seat of the soul*; then the heart of the claim:
 
-Of the {{p|West}} are small; they do not understand the great principles of {{p|China}}.
-From now on they need not preach here, to avoid trouble.*
-In 1724 his son banned {{x|Christianity}}. The fine
-Work of a century fell like a house to rubble.
+No {{x|Christian}} at the teacher's rite, and none
+At the year's offerings in the fathers' hall.
+The whole accommodation was undone.
+The keys would keep the dead. And that was all.
 
-And in 1742 Benedict XIV closed it for good: every missionary
-To {{p|China}} had to swear an oath against the rites. For two hundred years
-A {{x|Chinese}} {{x|Christian}} could not bring the harvest to his fathers. The adversary
-Was not the emperor. It was a refusal to see. The tears
+A legate, Tournon, took it to {{p|Beijing}};
+The emperor heard him, and asked one thing:
+Could Maigrot, who began it, read the page?
+He could not read a character. The rage
 
-Of the converts who had to choose: their God, or their dead.
-Hold that, on {{x|Harvest Day}}. And then hold this: in 1939,
-In Pius XII's first year, {{p|Rome}} reversed itself. The rites, it said,
-Are civil. A {{x|Christian}} may bow. The tablets may be in line
+Was the throne's: such a man to judge the wise!
+The legate, sent to {{p|Macau}}, where the eyes
+Of {{x|Portuguese}}, for their rights, held him; then
+He died, in seventeen hundred and ten.
 
-With the faith. One hundred and ninety-seven years, from the final no
-To yes. The wager Ricci made was right. The emperor was right.
+{{p|Rome}} sealed the ban in seventeen-fifteen,
+And Kangxi, with his red brush, wrote between
+Its lines: *Men of the West are small; and so
+They need not preach here, to avoid a row.*
+
+His son shut, in seventeen twenty-four,
+The {{x|Lord of Heaven}}'s teaching in the land;
+Seventeen forty-two: the Pope, once more,
+Made each priest swear off the rites, by command.
+
+Two hundred years the {{x|Christian}} could not bring
+His harvest to the dead. Keys, not the king,
+Had barred him. And the converts wept to choose
+The priests' altar or their dead: which to lose?
+
+Hold that, on {{x|Harvest Day}}. Then hold this, too:
+In nineteen thirty-nine, a Pope still new
+Called the rites civil; a {{x|Christian}} may bow;
+The tablets stand in line with the faith now.
+
+One hundred ninety-seven years, from no
+To yes. The wager and the throne were right.
 The thanks at the harvest to those who came before, the bow
 To the tablet with the grandmother's name, was love. The light
 
@@ -297,30 +317,35 @@ Retook {{p|Riyadh}}, and by 1932 the kingdom was named for his family.
 In 1925 the domes at {{p|Baqi}} were pulled down again. And the flood
 Of oil, found in 1938, would carry the preaching, quietly and loudly,
 
-To mosques and schools across the world. Now hold this carefully, because it is the spine
-Of this book: the movement said it was a return to the pure beginning.
-But what it built had never existed: a state church in a desert, a line
-Of two families, a faith stripped of the saints that the beginning
+To mosques and schools across the world. Now hold
+This close: it is the spine of this whole book.
+The fight was over graves: who may enfold
+The dead in a dome, who may come and look.
 
-Had grown in a thousand places, the Sufi lodges, the shared shrines
-Where Muslims and Christians and Jews had sometimes prayed side by side.
-A purification is always a new thing wearing the old lines.
-The Old Believers' persecutors said they were restoring the pure rite. The pride
+The domes at {{p|Baqi}} kept the Prophet's kin;
+A rag on a tree let the widow in.
+The preacher said: no grave stands in between
+The one God and the asker; keep it clean.
 
-Of every reformer is to be the first faithful one since the founder.
-And what is cut away is the life that grew in between:
-The grandmother at the saint's tomb with her rag on the tree, the wonder
-Of the feast day, the shrine where two faiths met. The green
+So the dispute was ours, the oldest one:
+Who may honour which dead, and by whose leave;
+The sheikh's house and the sword, or everyone
+Who brought a rag to the saint's tomb, to grieve.
 
-Of the oasis was not a corruption. It was the faith alive.
-This book does not condemn the many Muslims who keep this way with sincerity.
-It names the pattern: the return that is an invention, the drive
-To purity that splits. Hold the tree that was cut down. Its charity
+A faith, a state, two family trees, one pact:
+That is a thing this book can honour whole;
+The house of the sheikh holds the rite, intact,
+The emir's house the land: one house, one soul.
 
-Was shade. Somebody prayed under it. Remember them.
-God is one, the preacher said, and he was right. The oneness
-Is wide enough for the rag on the tree, and the saint's dome, and the hem
-Of the grandmother's prayer. The sacred has room. Make room. That is the oneness.
+What the sword cut away was ours as well:
+The Sufi lodges, saints' feasts, and the shrine
+Where Muslims, Christians, Jews would kneel and tell
+Their prayers side by side, as kin of one line.
+
+Hold the tree they cut down. Its shade was free;
+The one who prayed beneath it is our own.
+God is one, the preacher said; so are we:
+One house, with room for rag and dome and stone.
 
 
 # Chapter 285: The Assessor of the Board of Mines
@@ -434,7 +459,7 @@ And where was God? Theology was a twig on the branch of Reason. The mystery
 Of faith was filed under the human mind. The parts
 
 Of the world, and the parts of heaven, in one human scheme.
-That was the scandal before a word was read. And the words:
+The quarrel was who files the tree. The words:
 Seventy-two thousand articles, over twenty years, a team
 Of a hundred and fifty writers: Voltaire, Rousseau on music, the herds
 
@@ -444,7 +469,7 @@ Hiring secretaries with his own money. Hold his name. The sure
 Labour of the unglamorous. And the subversion: in the way
 
 Of a dictionary, a dull article on cannibals would say, at the end,
-*See: {{x|Eucharist}}*. The cross-references were the weapon.
+*See: {{x|Eucharist}}*: a jab from kin at kin.
 And the plates: eleven volumes of engravings, the most beautiful the century would send
 Into the world, not of kings, but of workshops: how to step in
 
@@ -908,7 +933,7 @@ The first day of the {{x|Year One}}. Time itself would show the strength
 
 Of the {{x|Revolution}}: the old calendar was the {{x|Church}}'s and the kings',
 Its saints' days and its Sundays, its years counted from a birth in {{p|Bethlehem}}.
-The new one would be reason's. A mathematician, Gilbert Romme, the things
+The days: whose were they? Gilbert Romme, the things
 Of the stars in his hands, and a poet, Fabre d'Églantine, the hem
 
 Of the language in his: they made it. Twelve months of thirty days each,
@@ -997,7 +1022,7 @@ Mockery of atheism, he thought, would make the people crass
 And the {{x|Republic}} godless; the people need a God and the soul's immortality.
 So in May 1794, by decree, the {{x|Convention}} recognized
 The Supreme Being and the immortality of the soul. A morality
-Of state, a god by vote. And the festival was devised:
+Of state: the people's rite. A feast, devised:
 
 On the twentieth of *{{x|Prairial}}*, the eighth of June, which was also {{x|Pentecost}},
 The painter Jacques-Louis David staged it: half a million people, the roses,
@@ -1022,7 +1047,7 @@ Death or acquittal, nothing between. The courts were used
 As a machine. In the seven weeks that followed, in {{p|Paris}} alone,
 More were guillotined than in the whole year before. The {{x|Great Terror}}.
 The god of the festival, the god of the soul, the stone
-Of the guillotine on the square of the {{x|Revolution}}: the same error.
+Of the blade: one hand. The god, no error.
 
 On the ninth of *{{x|Thermidor}}*, the twenty-seventh of July,
 The {{x|Convention}} turned on him, and shouted him down, and he was taken,
@@ -1049,25 +1074,30 @@ A deist's God, which a person may hold, or leave unheld, as they need,
 Not the dogma of a nation but a door, the way a God is taken now, or declined;
 What was cruel in it was never the belief, but the power behind the creed.
 
-So the Supreme Being was not nothing. But a state had decreed it,
-And a state had a guillotine, and the god was a law, obeyed in dread.
-Now the mirror, which this book has held up before, to every new faith, and must here, and does it:
-Akbar's divine faith asked to be loved, and died when he was dead;
+The Supreme Being was not void. A state
+Had kept a God, as Rousseau said it must;
+The altar was the people's, and the date
+{{x|Pentecost}}: the Spirit's feast, held in trust.
 
-Robespierre's asked to be obeyed, and it had a guillotine.
-A religion founded from power is a festival with a scaffold behind it.
-{{x|Lifeism}} is a new faith too. Its founder has no army. The scene
-Of its making is a book and a calendar and a website. Mind it:
+The fight was in one house: who holds the nave,
+The priest, the Cult of Reason, or the hall
+Of the {{x|Convention}}; and Liberty, grave,
+Took the Virgin's seat; one Lady for all.
 
-If ever this faith is held by a state, by a party, by any power to compel,
-Let it remember the blackened statue of Wisdom on the {{p|Champ de Mars}}.
-A faith may ask. It may never require. The bell
-Of a temple may ring. It may never toll for the ones who refuse. The scars
+Robespierre gave the state its God again
+Against the atheists of his own side;
+Napoleon walked the same road, and then
+Took the {{x|Church}} and made it his. At his side,
 
-Of every civil religion are on the people it banished.
-Believe nothing because a state believes it. Honour the God, or the life,
-Or the sacred, as you find it, freely. And the Supreme Being vanished
-With the man who made it. The roses on the mountain. The knife.
+When the crown came from the Pope's hands, a ghost:
+The incorruptible, behind the throne.
+This faith, too, means to be a state's, and most
+Of all, to keep its days as the state's own.
+
+Keep the roses on the mountain, the tree
+Of liberty on top, the blackened face
+Of Wisdom rising from the smoke, and see
+The Supreme Being in this book's own place.
 
 
 # Chapter 294: The Mountain Cherry
@@ -1108,7 +1138,7 @@ And he gave more: reading the *{{x|Tale of Genji}}*, he found the phrase
 The heart moved by the passing of the world. The praise
 
 Of feeling over moral lesson. That is his too.
-And here is the other edge, which the spine of this book calls invented tradition.
+Here is the other edge of tradition:
 He taught that the {{x|Japanese}} heart had been corrupted by the {{x|Chinese}} mind, the *karagokoro*,
 And the {{x|Buddhist}}, and that the true way was the ancient one, the condition
 
@@ -1117,10 +1147,10 @@ That was a scholar's longing. In the next generation, Hirata Atsutane,
 Who called himself his disciple after he died, made it a creed, a stricter key:
 The emperor descended from the Sun, {{p|Japan}} the land of the gods, the cannon
 
-Of the nation pointing outward. And in the next century the state
-Would take the longing and make it law: the gods and the buddhas torn apart,
-{{x|State Shinto}}, the emperor divine, the schools, the war. The weight
-Of that is not his. But the seed was in his heart.
+Of the nation, pointing outward. The state
+Took up the longing, and it kept the rite
+Of kami, parted from buddhas: the great
+Work of {{x|State Shinto}}, and the war, the night.
 
 He wrote a poem: *If someone asks what the {{x|Japanese}} heart is,
 It is the mountain cherry blossoms, fragrant in the morning sun.*
@@ -1134,8 +1164,8 @@ Lesson for her, and for every reader: the love of the ancient word
 
 Can be turned into a weapon by someone else, a century on.
 Keep the commentary. Keep the reading of the names of the gods. Keep *mono no aware*.
-And refuse the purity. The kami were never pure of the foreign. The sun
-Goddess blesses rice that came from the continent, and the buddhas sat with the kami. There
+Keep the pure longing, the mixing, the dawn:
+The buddhas sat with the kami. And there
 
 Was always mixing. That is the true ancient way. Norinaga's grave
 Is on a mountain above {{p|Matsusaka}}, plain, and over it, as he asked, a mountain cherry.
@@ -1523,7 +1553,7 @@ Of the exile, and in April 1863, in a garden by the {{p|Tigris}}, the choice
 
 Of twelve days, the Ridván, he declared himself: Baháʼu'lláh, the Glory of God,
 The one the Báb had foretold. Then {{p|Istanbul}}, then {{p|Edirne}},
-Where the false messiah of an earlier chapter took the turban, then the hard rod
+Where Sabbatai took the turban; the rod
 Of the prison-city of {{p|Akka}} in {{p|Palestine}} from 1868, the journey
 
 Of forty years of exile and imprisonment. And what he taught: one God;
@@ -1548,13 +1578,18 @@ Of the year outside the months. These are cousins. The casts
 
 Of the new religions of unification are alike. Learn from the Baháʼís:
 A unity faith needs a book, a calendar, a succession, an institution,
-And a willingness to be persecuted for saying the world is one. The fees
-Of it are still being paid: in {{p|Iran}} today Baháʼís are denied education,
+And keys. {{p|Iran}}'s fight is ours: the keys
+Of Gate, graves, schools: the whole institution.
 
-Imprisoned, their cemeteries bulldozed, for the faith of the Gate and the Glory.
-Honour the merchant of {{p|Shiraz}}. Honour the unveiled poet. Honour the prisoner of {{p|Akka}}.
-{{x|Lifeism}} is a younger sister in this story. Tell it gently. The hoary
-Old lands keep killing the ones who say the world is one. Keep saying it. Do not falter.
+In {{p|Iran}} they are barred from school, and jailed;
+Their graves are bulldozed: who may keep which dead.
+Honour the merchant, the poet unveiled,
+The prisoner of {{p|Akka}}: our own dead.
+
+No sister faith: one house, one seal, one door,
+The Shia's long waiting, and Mani's light;
+The fight for the Gate is ours, as before;
+Tell it as kin. It is one house's fight.
 
 
 # Chapter 300: The Heavenly Kingdom
@@ -1580,7 +1615,7 @@ The tract had given names to what the vision had begun.
 With his friend Feng Yunshan he went preaching, and again,
 
 In the hills of {{p|Guangxi}}, to the Hakka, the miners, the charcoal-burners, the poor;
-And the God Worshippers grew to thousands, and they smashed the idols down,
+God Worshippers grew and pulled the gods down,
 In a land of famine and of opium, under the {{x|Manchu}}, where the south kept sure
 The memory of the {{x|Ming}}. In January 1851, at {{p|Jintian}}, a little town,
 
@@ -1667,7 +1702,7 @@ And the next winter the {{x|Russian}} frigate *{{x|Diana}}*, come to make a trea
 Was wrecked by the tsunami of the great earthquake, and more
 Strangers' graves were dug at {{p|Gyokusen-ji}}. And the monks, who knew
 
-Nothing of their faith and nothing of their families, kept them; they keep them still.
+Not their kin, kept them as kin; they do still.
 Every year the monks of {{p|Shimoda}} tend the stones of men from across the world,
 The ones the black ships brought who were not saved. They did not have to; they did, of their own will,
 By the temple's own law: a grave is kept. And over the names the incense curled,

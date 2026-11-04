@@ -2103,7 +2103,7 @@ Faith of the starving. A hundred and twenty thousand men, and the plea
 
 Of the shogun's general to the {{c|3869|Dutch}}: and the {{c|3869|Dutch}} came,
 The ship *{{x|De Ryp}}*, and fired its cannon into the castle walls
-For two weeks, {{c|3920|Protestants}} for the shogun against the papists, the same
+Two weeks, kin shelling kin, for trade: the same
 Trade-loyalty that kept them on {{p|Dejima}}. The calls
 
 Of the rebels shot back into the shogun's camp with arrows:
@@ -2131,15 +2131,15 @@ Repeated, *orasho*, worn smooth like a stone in a stream.
 They hid the {{c|3936|Virgin}} in a white porcelain {{c|3937|Kannon}}, the merciful one, the door
 Of the {{x|Buddhist}} mercy opening on the {{c|3708|Mother}}: {{c|3938|Maria Kannon}}. The dream
 
-Of the faith wore the robe of the other faith, and kept itself inside.
-That is syncretism forced by fear, and it became their own.
+Of the one mercy wore two names inside.
+Fear chose which name was said; both were their own.
 They stepped on the image each {{x|New Year}}, and went home, and cried,
 And said the contrition prayer, *konchirisan*, for the stone
 
 Their foot had touched. And the centuries passed. And in 1865,
 When the country had opened again to the foreigners, a {{x|French}} priest,
 {{c|3939|Bernard Petitjean}}, built a church at {{p|Ōura}} in {{p|Nagasaki}}, to keep alive
-The faith of the foreigners. And on the seventeenth of March, the least
+The traders' rite. March seventeenth: the least
 
 Expected thing: a group of women and men from {{p|Urakami}} came in,
 And watched him at prayer, and one of them, a woman, came close,
@@ -2161,7 +2161,7 @@ And no priest from {{p|Rome}} could tell them it was wrong.
 Here is the whole {{x|Gaiad}} in one village: the wraith
 Of the faith that would not die, kept by the weak and the strong
 
-Together, in the robe of another faith, under the eye
+Together, the one rite, beneath the frame
 Of the register. Honor the boy on the wall of {{p|Hara}}. Honor
 The woman at {{p|Ōura}}. Honor what is kept when the priests die, the keeper and the corner
 Where it was kept. Where is the image of {{c|3399|Santa Maria}}? Here. Our hearts are the same.
@@ -2292,7 +2292,7 @@ Of his days spent looking across the river at the white line
 Of the tomb he had built, for eight years, until he died.
 And the son ruled for forty-nine years, as {{c|3962|Alamgir}}, {{c|3963|Seizer of the World}}.
 Now hear it carefully, and hear it with nothing to hide:
-He was a bigot, who undid the peace that {{c|3823|Akbar}} unfurled;
+One house, one throne: the fight was who'd preside.
 
 And he was a ruler of his time, who also granted land
 To temples, and employed more {{x|Hindu}} nobles than his father did.
@@ -2336,8 +2336,8 @@ And the taker. The confluence is never closed. It is still
 
 Running somewhere. Find it. Two seas, one water.
 Sit with the sages. Do not cut off the head
-Of the brother who found the same ocean in another's daughter
-Faith. The two seas meet. Let them. Let the river be fed.
+Of him who saw both shores held one water.
+Two seas, one rite. Let the river be fed.
 
 
 # Chapter 277: Take Nobody's Word for It
@@ -2473,12 +2473,12 @@ Filled with pilgrims. And in September he was brought, enthralled
 Or terrified, before the sultan's council at {{p|Edirne}},
 And offered a choice: a miracle, or death, or {{x|Islam}}.
 He took the turban. *{{c|3990|Aziz Mehmed Efendi}}*. The journey
-Was over. The messiah had converted. The calm
+Was done. The court had changed his name. The calm
 
 Of the morning after: shame, disbelief, the scattering.
 Some said it was a mystery, a descent into the husks
 To gather the last sparks. A few followed him into {{x|Islam}}, the battering
-Of their faith turned inside out: the {{c|3991|Dönme}} of {{p|Thessaloniki}}, the dusks
+Of one rite, two robes: the {{c|3991|Dönme}}; the dusks
 
 Of their secret rites kept for two hundred years. And most
 Went home, and unpacked, and mourned. Except the barrels in {{p|Hameln}}:
@@ -2505,12 +2505,12 @@ Could still dance in the synagogue, and still pack the barrels, and still, when 
 Turned to shame, unpack, and live, and wait. The word
 Of the festival: rejoice in what does not last. The scope
 
-Of the messiah was wrong. The joy was not wrong.
+Of his year was short. The joy was not wrong.
 Sit in the hut tonight. It will not stand forever.
 Sing anyway. The roof is thin. The night is long.
 The barrels can be unpacked. The hope can be kept. Never
 
-Confuse a man with the end of the world.
+Let one year's dawn close the door of the world.
 And never stop leaving the roof open to the stars.
 Rejoice in the booth. The branches are curled
 Over your head, and they let the light through the bars.
