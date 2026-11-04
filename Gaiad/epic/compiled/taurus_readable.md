@@ -561,143 +561,150 @@ The historical age of the {{x|Gaiad}} begins.
 
 # Chapter 144: Malta — The Oldest Temples
 
-The haplogroup register gives way;
-The named civilizations now begin—
-And the first of them is nameless to this day,
-A people with no writing to be read in.
+The haplogroup register now gives way;
+The named civilizations here begin,
+The first of them still nameless to this day:
+They left no writing we can read it in.
 
-On a small dry island in the middle sea,
-{{p|Malta}}, a few thousand farmers at the most
+On a small dry isle in the middle sea,
+{{p|Malta}}, some few thousand farmers at most
 Raised temples out of limestone, standing free,
-The oldest on the earth—before the host
+The oldest on the earth, before the host
 
 Of {{p|Egypt}} piled its pyramids, before
-The ziggurats of {{p|Sumer}}, long before
-{{p|Stonehenge}}: thirty-six hundred BCE, and more
-Than a thousand years of building from that shore—
+The ziggurats of {{p|Sumer}}, and ahead
+Of {{p|Stonehenge}}: begun, as the dates have shown,
+Thirty-six hundred B.C.E.; for more
+Than a thousand years they built there, and spread
+Their temples on that shore, stone upon stone.
 
-{{p|Ġgantija}}, {{p|Ħaġar Qim}}, {{p|Mnajdra}}, {{p|Tarxien}}.
-They quarried blocks of fifty tons from bedrock's hold
-And moved them with no wheel, no metal; how, and when,
-And by what craft, is argued and untold.
+For {{p|Ġgantija}} and {{p|Ħaġar Qim}}, and for
+{{p|Mnajdra}} and {{p|Tarxien}}, out of bedrock's hold
+They cut out blocks of fifty tons, and bore
+Them with no wheel or metal. Gone, the lore
+Of how, when, by what craft: argued, untold.
 
-They left no name for themselves, and none
-For any god they served. What we can keep
+They left no name for themselves, or for one
+Of any gods they served. What we can keep
 Is stone and sherd and bone, and, one by one,
 The little figures, seated or asleep:
 
-The {{p|Fat Lady}}, broad of hip and thigh,
-In clay and limestone—the most singular art
-Of {{p|Europe}}'s {{p|Neolithic}}, and the reply,
-In {{p|Malta}}'s idiom, to an older heart:
+The {{p|Fat Lady}}, broad of hip and of thigh,
+In clay and limestone, singular in art
+In {{p|Europe}}'s {{p|Neolithic}}, the reply,
+{{p|Malta}}'s idiom, to an older heart:
 
 The mother Marija Gimbutas found
-Beneath Old {{p|Europe}}, before the horsemen came;
-The {{p|Venus of Willendorf}} on other ground,
-{{p|Cucuteni-Trypillia}}'s clay—the same
+Beneath Old {{p|Europe}}, ere the horsemen came;
+{{p|Venus of Willendorf}} on other ground;
+{{p|Cucuteni-Trypillia}}'s clay: the same
 
 Great mother, as the {{x|Gaiad}} reads the sign.
 But nowhere else did that devotion raise
 Such stone. Look at the temples' own design,
 The shape they kept through all their building days:
 
-Paired lobes along a central corridor,
+Paired lobes along a central passageway,
 A kidney or a clover in the plan,
-The entrance on the long axis, and before
-Each chamber, uprights where the lintels span—
+The entrance on the long axis; they lay
+Before each room the uprights lintels span:
 
 The trilithon, a thousand years ahead
-Of {{p|Stonehenge}}. On the walls, the carven spiral,
+Of {{p|Stonehenge}}. The carved spirals on the walls,
 The plant, the beast, the pillar-pairs some read
-As gateways of the world; and in the interior
+As gateways of the world; and in the halls,
 
-The figurines, the ash of ritual fire,
-The bones of offered beasts beneath the stone.
-For a thousand years the island fed the choir
-Of builders. Then the builders were gone.
+Figurines, ash of the ritual fire,
+The bones of offered beasts beneath the floor.
+A thousand years the isle fed the choir
+Of builders. Then the builders were no more.
 
-Near twenty-five hundred BCE it ends.
-No sign of war, no burning, no invader—
-The temples simply empty. No one tends
-Them. {{x|Bronze Age}} settlers, coming later,
+Then, near twenty-five hundred B.C.E.,
+With no war, burning, or invader, we
+See temples simply empty; no one tends
+Them: so the age of temple-building ends.
 
-Lived on the island with no memory
-Of who had built the temples on its hills.
-The likeliest cause: the island, ringed by sea,
-Was used up—soil worn thin by tilling, the hills
+The {{x|Bronze Age}} settlers who came later on
+Had no memory of who built upon
+Its hills the temples. Likeliest, the cause:
+The isle, ringed by sea, was used up, because
 
-Stripped of their trees for firewood and for the work
-Of moving stone—until the land that fed
-A few thousand temple-builders, in the murk
-Of slow decline, could not. Not with a bang. They fled,
+Its soil worn thin by tilling, and its hills
+Stripped of their trees for firewood and the work
+Of moving stone, until the land that fed
+Some thousands of the builders, in the murk
+Of slow decline, could not; and by these ills,
+Not with a bang, they starved, thinned out, or fled.
 
-Or starved, or thinned away. And the temples stood,
-Empty and silent on the windy rise,
-Four thousand years, until the nineteenth century could
-Read them for what they were with {{p|Europe}}'s eyes.
+The temples stood upon the windy rise
+Four thousand years, empty, without a stir,
+Till, in the nineteenth century, with eyes
+Of {{p|Europe}}, they were read for what they were.
 
 The {{x|Gaiad}} honors them as first in line
-After {{p|Göbekli Tepe}}: there, the hunter came
+After {{p|Göbekli Tepe}}: hunters came
 To gather at the stones; here, at the shrine,
 The settled farmer laid his harvest's claim.
 
 Foraging gave way to the field; the feast
-Gave way to the standing house of god; and here,
-For the first time we know, a people ceased
-To keep back anything: year after year
+Gave way to the god's standing house of stone;
+Here, for the first time known, a people ceased
+To keep back anything; their surplus, grown
 
-Their surplus went to temples, till the land
+Each year, went to the temples, till the land
 Gave out. No palace and no city wall,
-No fortress—only temples, the work of every hand.
-They built for their gods, and that was all.
+No fortress: only temples, by each hand.
+They built for their gods, and that was the all.
 
-The {{x|Gaiad}} reads the temple as the elder
-Of the city, at {{p|Göbekli Tepe}}, and the greater
-For thousands of years after; and no welder
-Of stone to faith was purer than these, or straighter.
+The {{x|Gaiad}} reads the temple as elder
+Than cities (at {{p|Göbekli Tepe}} shown),
+Greater for thousands of years; no welder
+Of stone to faith was purer, straighter, known.
 
-In one narrow sense the most devout
-Of any people in the human line—
+In one narrow sense, they were most devout
+Of any people in the human line;
 And so the warning: if the work runs out
 Ahead of field and harvest, then the shrine
 
-Devours the hands that raise it. Not that the temple
-Is wrong; but that the building can outrun
-The ground beneath it. {{p|Rapa Nui}} will sample
-The same cup later: every tree undone
+Devours the hands that raise it. The wrong
+Is not the temple; building can outrun
+The ground beneath it. {{p|Rapa Nui}}, long
+After, will drink that cup: each tree undone
 
 To move the {{p|Moai}}, and the island's fall.
 Small island, fervent faith, the building spree,
-And then the crash—{{p|Malta}} was first of all.
-Both are warnings. Neither, as we see,
+And then the crash: {{p|Malta}} was first of all.
+Both are warnings; neither one, as we see,
 
-Is heeded by the peoples who come after.
-Was this a greatness or a tragedy?
-The {{x|Gaiad}} does not answer. Without laughter
-And without blame, it says that both can be:
+Is heeded by the ones who come after.
+Was this a tragedy, or was it great?
+The {{x|Gaiad}} answers not; without laughter
+And without blame, it says that both have weight:
 
 The temples splendid, and the builders dead;
-Their gods remembered now by no one living;
-The sacred turned to ruin, and in its stead
-The ruin turned memorial—the giving
+Their gods remembered now by none who live;
+The sacred turned to ruin; in its stead
+The ruin turned memorial. They give
 
-Is all we have: the stones upon the hill,
+Us all we have: the stones upon the hill,
 The spirals and the lobes, the wind that blows
-Along the empty corridors, and still,
-In {{p|Valletta}}, behind glass, the {{p|Fat Lady}}'s pose.
+Along the empty corridors; and still,
+In {{p|Valletta}}, glassed, the {{p|Fat Lady}}'s pose.
 
-Honor them: the builders who built past their means;
+Honor them: builders who built past their store;
 The priests who led the work; the women's hands
-That shaped the mother out of clay; the teams
-Of farmers whose surplus fed the stone, till the lands
+That shaped the mother out of clay; the corps
+Of farmers whose surplus fed stone, till lands
 
-Ran out—the whole people that set the shrine
+Ran out: the whole people that set the shrine
 Above itself, and perished by the choice.
 {{p|Malta}}: first temple people in the line
-After {{p|Göbekli Tepe}}. The first warning voice.
+Since {{p|Göbekli Tepe}}: first warning voice.
 
-The first loss. The first civilization
-Whose name is gone, in the {{x|Gaiad}}'s human age.
+The first loss: in the human age, the first
+Civilization whose remembered name
+Is gone, the {{x|Gaiad}} tells, with none to claim
+Its stones, its gods, the people that dispersed.
 
 
 # Chapter 145: The Old Kingdom — Pyramids at Giza
@@ -2253,204 +2260,306 @@ Era and the start of another.
 
 # Chapter 152: Hammurabi — Law and the Old Babylonian Empire
 
-In the centuries after the fall of {{p|Ur}}, {{p|Mesopotamia}} fragmented
-Again. The {{p|Amorites}}—the {{p|Semitic}}-speaking nomads who had been
-Trickling in throughout the late {{p|Ur III}} period—established
-Themselves as the new ruling class across the region. {{p|Amorite}}
+When {{p|Ur}} had fallen, in the years since then
+{{p|Mesopotamia}} broke up again.
+The {{p|Amorite}} nomads, a people who
+Spoke a {{p|Semitic}} tongue, had trickled through
 
-Kings took the thrones of cities throughout the {{p|Tigris-Euphrates}}
-Valley. {{p|Isin}} and {{p|Larsa}} competed for supremacy in the south.
-{{p|Mari}} and {{p|Eshnunna}} and {{p|Assur}} carved out their own spheres
-In the north and east. And one relatively minor {{p|Amorite}} city-
+The late {{p|Ur III}}; across the region they
+Became the new ruling class that held sway.
+{{p|Amorite}} kings took crowns, in town on town,
+The {{p|Tigris-Euphrates}} vale, up and down.
 
-State, {{p|Babylon}}, began its rise. {{p|Babylon}}—the city whose name
-Comes from {{p|Akkadian}} Babilim, "Gate of God"—had been a
-Modest provincial center for centuries. But under its {{p|First
-Dynasty}}, founded around nineteen hundred BCE, {{p|Babylon}} grew. And
+Down in the south {{p|Isin}} and {{p|Larsa}} fought
+For supremacy, the prize each one sought;
+{{p|Mari}}, {{p|Eshnunna}}, {{p|Assur}}, in their spheres,
+Carved out the north and east among their peers.
 
-Under its sixth king, Hammurabi, it became the capital of an
-Empire.
+One small {{p|Amorite}} city-state, unknown
+For long, began to rise. {{p|Babylon}}'s own
+Name comes from the {{p|Akkadian}} for "Gate
+Of God," Babilim; for ages its state
 
-          Hammurabi.
+Was a provincial center, modest, long.
+Its {{p|First Dynasty}} at last made it strong,
+Founded near nineteen hundred B.C.E.;
+Its sixth king made it an empire: he,
 
-                                Reigning from approximately seventeen
-Ninety-two to seventeen fifty BCE. Forty-two years. A long reign,
+Hammurabi. He held the throne about
+Seventeen ninety-two to seventeen
+Fifty B.C.E.; and he would have seen
+Forty-two years, a long reign, and throughout
 
-And a decisive one. Hammurabi's first decades were spent consolidating
-His power at home and building diplomatic alliances with neighboring
-Kingdoms. He reformed the administration. He rebuilt temples. He
-Extended canals. He was, by the standards of {{p|Mesopotamian}} kingship,
+Decisive. His first decades made his hold
+At home secure; with neighbors he enrolled
+Allies, through diplomacy. And he made
+Reforms in administration, and laid
 
-A patient and methodical ruler. And then, in the second half of his
-Reign, he struck. A rapid series of military campaigns reduced his
-Rivals one by one. {{p|Larsa}} fell. {{p|Eshnunna}} fell. {{p|Mari}} fell. By
-The end of his reign, Hammurabi ruled the largest {{p|Mesopotamian}}
+The temples' walls anew; and further led
+Canals across the land. As a king, read
+By {{p|Mesopotamian}} kingship's ways,
+Patient, methodical. Then, in the days
 
-Empire since Sargon of Akkad six hundred years earlier. He had
-Unified the {{p|Tigris-Euphrates}} valley under {{p|Babylonian}} rule. The
-{{p|Old Babylonian}} empire was born.
+Of his reign's second half, he struck. A run
+Of swift campaigns brought rivals one by one
+Down: {{p|Larsa}} fell, {{p|Eshnunna}}, {{p|Mari}} fell.
+By his reign's end, the realm he held would swell,
 
-                                          And Hammurabi's name is
-Remembered, today, not primarily for the military conquests but for
+Larger than any realm since on the throne
+Sargon of Akkad sat, six hundred years
+Before. The {{p|Tigris-Euphrates}}' frontiers
+He joined as one, and made the vale his own
 
-The law code. The {{p|Code of Hammurabi}}. Two hundred and eighty-two
-Laws, inscribed in {{p|Akkadian}} cuneiform on a seven-and-a-half-foot-
-Tall stele of black diorite. The stele was erected in the temple of
-Marduk in {{p|Babylon}} and other public locations across the empire,
+By {{p|Babylonian}} rule, no more torn;
+The {{p|Old Babylonian}} realm was born.
+Today his name is not for conquest known,
+But for the law code, written down in stone:
 
-So that citizens could see the law and understand their rights and
-Obligations. The stele's top shows Hammurabi standing before the
-Sun-god Shamash (the god of justice) receiving the law from the
-Divine hand. The image is the first great icon of law-as-divine-
+The {{p|Code of Hammurabi}}. There, in all,
+Two hundred eighty-two laws, on a tall
+Stele seven and a half feet, whose face
+Of black diorite took the wedge-marks' trace
 
-Gift. Hammurabi claims his code not as his own invention but as
-A transcription of divine will. The god gives the law; the king
-Transmits it; the people obey it. This is the cosmological claim
-Of every subsequent legal code in the {{p|Near East}}: that law comes
+In {{p|Akkadian}}. It was raised to stand
+In Marduk's temple, {{p|Babylon}}, and spanned
+Public places through the empire's land,
+So citizens could see, and understand
 
-From the divine, that the ruler is merely the messenger, that the
-Social order reflects a cosmic order that predates and outranks
-Any individual human authority.
+Their rights and obligations. At the crown
+Of the stele, Hammurabi looks down
+And stands before the sun-god, Shamash, lord
+Of justice, from whose hand the law is poured.
 
-                                    And the content of the {{p|Code}}
-Is striking. Some of its laws are brutal by modern standards—the
+The king receives it from the hand divine:
+The first great icon in a lasting line
+Of law as gift. He claims the code is not
+His own invention, but a thing he got,
 
-Principle of {{p|lex talionis}} ("an eye for an eye") is explicitly
-Formulated here. If a man destroys the eye of another man, his
-Own eye shall be destroyed. If a man breaks another man's bone,
-His own bone shall be broken. The punishments are graded by class:
+Transcribed from heaven's will. The god will give
+The law; the king transmits it; all who live
+Beneath obey it. This, the cosmic claim
+Of every later code that bore the name
 
-Crimes against nobility carry heavier penalties than crimes against
-Commoners, and crimes against slaves are treated as property damage.
-The {{p|Code}} is not egalitarian. It is stratified, hierarchical, and
-Often gruesome. But it is also, in its own time, an advance. It is
+Of law in the {{p|Near East}}: law has its birth
+In the divine; the ruler on the earth
+Is but the messenger; the social frame
+Reflects a cosmic order, which first came
 
-Written law, publicly posted, applying across the entire empire,
-Accessible to every literate citizen. It limits the arbitrary power
-Of judges and local administrators. It establishes procedural
-Protections: false accusations carry penalties, witnesses must
+Before it, and outranks the right and might
+Of any human authority's sight.
+And what the {{p|Code}} contains is striking. Some
+Of its laws, judged by modern standards, come
 
-Testify, evidence must be weighed. There are protections for women—
-Marriage contracts, divorce procedures, inheritance rights. There
-Are regulations for business: commercial contracts, partnerships,
-Debt relationships, liability for damage. The {{p|Code}} is not just
+Out brutal: {{p|lex talionis}}, made clear
+Explicitly; in it these words appear:
+"An eye for an eye." If someone should blind
+Another, his own eye is lost in kind.
 
-A catalog of punishments. It is a comprehensive framework for the
-Operation of a complex urban commercial society.
+If one breaks a bone in another's frame,
+His own bone shall be broken, just the same.
+The punishments are graded, too, by class:
+Penalties for crimes on nobles surpass
 
-                                                      And it is
-Remembered because it is one of the earliest fully preserved legal
+Those on commoners; harm to slaves is weighed
+As damage done to property, and paid.
+The {{p|Code}} is far from equal: stratified
+And hierarchical, the pains it applied
 
-Codes in human history. Ur-Nammu's code predates it by three
-Hundred years. The {{p|Code of Lipit-Ishtar}} (an earlier {{p|Isin}} king)
-Predates it as well. But Hammurabi's code is the most complete
-Preserved example, and its influence on later legal traditions—
+Often gruesome. But it was, in its day,
+An advance: law in writing, on display,
+Posted through the empire, town by town,
+For each literate citizen. Set down,
 
-Through the {{p|Assyrian}} and {{p|Neo-Babylonian}} codes, through
-{{p|Persian}} imperial law, through the {{p|Mosaic}} law of the {{p|Hebrew}}
-{{x|Bible}} (which shows significant parallels to Hammurabi), through
-{{p|Roman}} law, and onward—is foundational. Every legal system that
+It checked the judges' arbitrary hand,
+And local magistrates', at their command.
+Procedural protections, too, it made:
+False charges drew a penalty; it bade
 
-Descends from the ancient {{p|Near East}} carries Hammurabi's
-Influence. Every "eye for an eye" principle. Every notion of
-Written public law. Every claim that law is divinely sanctioned.
+That witnesses must testify, and weighed
+The evidence. Protections it conveyed
+For women: marriage contracts; a set course
+In divorce; and inheritance. Its force
 
-And Hammurabi, in the {{x|Gaiad}}'s reading, is Abraham's cousin.
-Not in the narrow biological sense—the two figures are separated by
-Perhaps a century or more—but in the broader genealogical sense
-That the {{x|Gaiad}} applies. Both are J-haplogroup {{p|Semitic}} men.
+Reached business too: commercial contracts, shares
+In partnerships, the debts, and what one bears
+For damage, liability. Not pains
+Alone; a comprehensive frame sustains
 
-Both are products of the {{p|Amorite}} migrations that reshaped
-{{p|Mesopotamia}} in the early second millennium BCE. Both descend, at
-Some remove, from the same pool of {{p|Semitic}} ancestors who had
-Spread across the region after the fall of {{p|Ur III}}. The {{x|Gaiad}}
+The working of a complex urban place,
+A whole commercial society's base.
+It is remembered, too, because it stands
+Among the oldest codes in human hands
 
-Makes them cousins in the cultural sense—contemporaries, or near-
-Contemporaries, who shared a haplogroup, a language family, a
-Regional context, and a historical moment. Both are figures of the
-Post-{{p|Sumerian}} {{p|Semitic}} ascendancy in {{p|Mesopotamia}}. Both are
+Preserved in full. Ur-Nammu's law code came
+Three hundred years before it; and the same
+Is true of {{p|Code of Lipit-Ishtar}}, made
+By an earlier {{p|Isin}} king. Yet weighed
 
-Founders of traditions that will outlast them by millennia.
+Against them, Hammurabi's is the most
+Complete preserved example; and the host
+Of later codes and laws has borne its sign:
+Through the {{p|Assyrian}} codes and the line
 
-And the contrast between them is instructive. Abraham is a
-Nomad, a wanderer, a man who leaves his city and lives in tents.
-Hammurabi is a city-king, a builder of walls, a codifier of
+Of {{p|Neo-Babylonian}}; and through
+The {{p|Persian}} imperial law; and, too,
+Through the {{p|Hebrew}} {{x|Bible}}'s {{p|Mosaic}} law
+(In which marked parallels to him we saw);
 
-Urban law. Abraham founds a religion. Hammurabi founds a
-Legal system. Abraham's legacy is the worship of a single
-Invisible god. Hammurabi's legacy is the written code binding
-Urban citizens to their obligations. Two different modes of
+Through {{p|Roman}} law, and onward: it's the root.
+Each legal system that descends, as fruit,
+From the ancient {{p|Near East}} still bears the mark
+Of Hammurabi's influence: each stark
 
-Civilizational contribution. Two cousins, at the junction of J1
-And J2, each choosing a different path. One walks south into
-The desert with his flocks; the other reigns in the brick-built
-City of the gate-of-god. One becomes the patriarch of monotheism;
+"Eye for an eye." Each written, public code.
+Each claim that law, from heaven, is bestowed.
+In the {{x|Gaiad}}, Hammurabi has been
+Abraham's own cousin. Not in the thin
 
-The other becomes the author of the code that will be copied and
-Adapted for two thousand years. Both stand. Both matter.
+Sense of the blood, for there might well divide
+Them by a century or more; but wide,
+The kinship that the {{x|Gaiad}} would apply,
+The broad genealogical. Thereby
 
-And Hammurabi's empire does not last. Within a generation of
-His death, {{p|Babylon}} was weakened by succession struggles. His
+Both are J-haplogroup {{p|Semitic}} men;
+Both came of {{p|Amorite}} migrations, when
+The land was reshaped, early in the run
+Of the second thousand years B.C.E.;
+And both, at some remove, descend from one
+{{p|Semitic}} pool of forebears, who would be
 
-Son Samsu-iluna faced rebellions across the empire. The southern
-Provinces seceded. The {{p|Sealand Dynasty}} established itself in the
-Marshes of the {{p|Persian Gulf}}. And then, in fifteen ninety-five BCE,
-The {{p|Hittites}}—{{x|Indo-European}} invaders from {{p|Anatolia}} whose chapter
+Spread, after {{p|Ur III}} fell, across the lands.
+In culture, as the {{x|Gaiad}} understands,
+They're cousins of one time, or near the same,
+Who shared one haplogroup, one language frame,
+One region, and one moment when they came.
 
-Will come later—raided {{p|Babylon}} itself, sacked the city, and
-Carried off the statue of Marduk. The {{p|Old Babylonian}} empire
-Ended. The statue was eventually recovered, but the political
-Power of {{p|Babylon}} was broken. A new dynasty, the {{p|Kassites}}, took
+Both, post-{{p|Sumerian}}, are figures in
+The {{p|Semitic}} ascendancy, within
+{{p|Mesopotamia}}; and both began
+Traditions lasting millennia's span.
 
-Power and ruled {{p|Mesopotamia}} for four centuries in a more
-Decentralized and less expansionist mode. {{p|Babylon}} itself continued
-To exist as a city, but its imperial period was over—until, a
-Thousand years later, the {{p|Neo-Babylonian}} empire of Nebuchadnezzar
+And there's a lesson in the contrast, too:
+Abraham's a nomad, wandering through,
+A man who leaves his city for the tent;
+While Hammurabi, city-king, is bent
 
-Would briefly restore its glory.
+On building walls, a man who codifies
+The urban law. A faith is what will rise
+From Abraham; a legal system grows
+From Hammurabi. One's legacy shows
 
-                                       But Hammurabi's legacy
-Survived the collapse. The code continued to be copied, studied,
-And cited long after his empire was gone. Subsequent {{p|Mesopotamian}}
+The worship of one god, whom none can see;
+The other's, a code, the written decree
+That binds the city's people to their due:
+Two ways in which civilization grew.
 
-Kings claimed to be his legal heirs. Scribal schools used his code
-As a teaching text. Copies of the {{p|Code of Hammurabi}} have been
-Found across the {{p|Near East}} in contexts centuries later than his
-Reign. He had done what Sargon had done at the political level—
+Two cousins, where J1 and J2 part,
+Each on a different path. One seeks the heart
+Of desert, going south behind his sheep;
+The other reigns where brick-built ramparts keep
 
-Established a template that subsequent rulers would copy—but he
-Had done it in the register of law rather than imperial administration.
-Sargon was the prototype emperor. Hammurabi was the prototype
-Legislator. And the empire fell faster than the law did.
+The city, gate-of-god. One shall become
+Monotheism's patriarch; and from
+The other comes the code, the one that men
+Two thousand years would copy, and again
 
-The stele of the {{p|Code of Hammurabi}} was eventually taken to {{p|Susa}}
-As plunder by the {{p|Elamites}} during a later invasion. It stood in
-{{p|Susa}} for three thousand years before being rediscovered by {{p|French}}
-Archaeologists in nineteen-oh-one. It is now in the {{p|Louvre}}. A
+Adapt it. Both stand, former and latter;
+Both, says the {{x|Gaiad}}, are men who matter.
+Hammurabi's empire did not last:
+Within a generation, once he'd passed,
 
-Traveler can stand in front of it and read, in the original
-{{p|Akkadian}} cuneiform carved into the black diorite, the two hundred
-And eighty-two laws by which Hammurabi ordered his empire. The
-Inscription is still legible. The stele is one of the best-preserved
+Succession struggles weakened {{p|Babylon}}.
+His son, Samsu-iluna, then took on
+Rebellions through the realm. Down in the south
+The provinces seceded; at the mouth
 
-Major monuments of the ancient {{p|Near East}}. And the laws themselves
-Are, in many cases, still recognizable as laws—still connected, by
-A chain of textual and conceptual transmission, to the legal codes
-Of modern nations.
+Of the {{p|Persian Gulf}}, where the marshes spread,
+The {{p|Sealand Dynasty}} rose up instead.
+Then, in fifteen ninety-five B.C.E.,
+The {{p|Hittites}}, whose own chapter's yet to be,
 
-                       Hammurabi of {{p|Babylon}}. The J-haplogroup
-Cousin of Abraham. The emperor of the {{p|Old Babylonian}} dynasty.
-The author—or promulgator—of the most famous law code of the
-Ancient world. The figure through whom the {{p|Mesopotamian}} legal
+{{x|Indo-European}}, came down upon,
+Out of {{p|Anatolia}}, {{p|Babylon}}
+Itself; they raided it, and sacked the town;
+They carried Marduk's statue off. And down
+Went all the {{p|Old Babylonian}} crown.
 
-Tradition reached its first great synthesis and was transmitted
-To every subsequent {{p|Near Eastern}} civilization, and through them
-To us. The bearded king on the black diorite stele, standing before
-The sun-god, receiving the law. The law still legible. The king
+The statue was recovered in the end;
+Yet broken was the might of {{p|Babylon}}.
+A dynasty, the {{p|Kassites}}, then came on
+To power; and their rule would not extend
 
-Still legible. The empire long gone.
+So far: four centuries they held the land,
+In looser, less expansionist command.
+{{p|Babylon}} went on as a city still;
+Its imperial age was over, till,
 
-Hammurabi. {{p|Babylon}}. The {{p|Code}}.
+A thousand years on, its glory regained,
+For a while, when Nebuchadnezzar reigned,
+{{p|Neo-Babylonian}}. What remained
+
+Was Hammurabi's legacy, to last
+Past the collapse: long after the realm passed,
+The code was copied, cited, studied, read;
+{{p|Mesopotamian}} kings, later, said
+
+They were his legal heirs. The scribal schools
+Taught with his code, a text of written rules.
+And through the {{p|Near East}}, buried in the ground,
+Copies of it, from later times, are found
+
+In contexts centuries after his reign.
+He'd done what Sargon did, in the domain
+Of politics: a template that was made
+For later kings to copy; but he laid
+His in the register of law, and not
+Imperial administration's lot.
+
+Sargon: prototype emperor. And he,
+Hammurabi, the prototype, would be
+Legislator. And the empire fell
+Faster than did the law, as time would tell.
+
+Later, invading, the {{p|Elamites}} bore
+The stele to {{p|Susa}} as plunder. For
+It stood in {{p|Susa}} for three thousand years,
+Before, nineteen-oh-one, it reappears,
+
+Found by {{p|French}} archaeologists. It's in
+The {{p|Louvre}} now; a traveler may begin
+To read it, standing there, as it had been:
+
+{{p|Akkadian}} cuneiform, incised
+In the black diorite, the laws comprised,
+Two hundred eighty-two, by which his whole
+Realm stood in order, under his control.
+
+The text's still legible; and of the great
+Old monuments of the {{p|Near East}}, the state
+Of few is better kept. The laws, as well,
+Are, many times, still laws that one can tell,
+Still tied by chains of text and thought; they reach
+The legal codes of modern nations, each.
+
+Hammurabi of {{p|Babylon}}. The kin,
+J-haplogroup, of Abraham; and in
+The {{p|Old Babylonian}} house, the head,
+Its emperor; the author or, instead,
+
+Promulgator of the most famous code
+The ancient world had; he, through whom it flowed:
+The {{p|Mesopotamian}} legal way
+Reached its first great synthesis; from that day
+
+Passed on to every {{p|Near Eastern}} nation,
+And then through them to our generation.
+The bearded king on the black stele stands
+Before the sun-god, taking from his hands
+
+The law. The law is legible today;
+The king, too. Long the realm has passed away.
+Black diorite still holds what once he showed:
+Hammurabi. {{p|Babylon}}. And the {{p|Code}}.
 
 
 # Chapter 153: The Middle Kingdom
@@ -4144,289 +4253,426 @@ Humanity's unity at the moment of greatest apparent fragmentation.
 
 # Chapter 160: Exodus, Trojan War, Bronze Age Collapse
 
-Three events. Perhaps. Perhaps more than three. Perhaps a single
-Event refracted into three narratives. Around twelve-hundred BCE,
-The {{x|Bronze Age}} world shattered.
+Three events. Perhaps. Perhaps more than three.
+Perhaps one event, refracted, that we
+Tell as three narratives. The {{x|Bronze Age}} world
+Around twelve hundred B.C.E. was hurled
 
-                                 Begin with what archaeology knows.
-Between twelve-twenty-five and eleven-seventy-five BCE, over a
-Span of roughly fifty years, nearly every major palace, city, and
-State in the eastern {{p|Mediterranean}} was destroyed or abandoned.
+To shattering. Begin with what is known,
+What archaeology has dug and shown.
+In roughly fifty years, the span between
+Twelve twenty-five B.C.E. and the date
+Eleven seventy-five, near each state,
+Palace and city of the eastern scene,
+The {{p|Mediterranean}}'s, was destroyed
+Or else abandoned, and its halls left void.
 
-The list is staggering. {{p|Hattusa}}, capital of the {{p|Hittite}} Empire:
-Burned to the ground. {{p|Ugarit}}, the great trading city on the
-{{p|Syrian}} coast: destroyed, with its last king sending desperate
-Letters begging for help that never came. {{p|Mycenae}}, {{p|Tiryns}},
+A staggering list. {{p|Hattusa}}, the seat
+Of the {{p|Hittite}} Empire: burned, complete,
+Down to the ground. And {{p|Ugarit}}, the great
+Trade town on the {{p|Syrian}} coast: its fate,
+Destroyed; its last king, in a desperate state,
+Sent letters begging help that never came.
+{{p|Mycenae}}, {{p|Tiryns}}, {{p|Pylos}}, {{p|Thebes}}: the same:
+Each major {{p|Mycenaean}} palace, all
+Destroyed or else abandoned, hall by hall.
 
-{{p|Pylos}}, {{p|Thebes}}—every major {{p|Mycenaean}} palace: destroyed or
-Abandoned. {{p|Knossos}}, on {{p|Crete}}: destroyed. {{p|Troy}} (the archaeological
-Layer {{p|Troy VIIa}}): destroyed around twelve-hundred BCE. The
-{{p|Egyptian}} Empire: severely damaged, retreating from its {{p|Levantine}}
+{{p|Knossos}} on {{p|Crete}}: destroyed. And {{p|Troy}}, the town
+Whose layer, called {{p|Troy VIIa}}, was brought down
+Around twelve hundred B.C.E. Struck hard,
+The {{p|Egyptian}} Empire, badly scarred,
+Retreating from its {{p|Levantine}} terrain;
+{{p|Kassite}} {{p|Babylonian}} kingdom's reign:
+Fatally weakened. The {{p|Elamite}} state:
+Disrupted. {{p|Cyprus}}: raided, at that date.
+And {{p|Canaan}}'s cities, many of them, fell,
+{{p|Emar}}, {{p|Kadesh}}, {{p|Alalakh}}, {{p|Gath}} as well:
+Destroyed. Few {{x|Bronze Age}} states came through intact:
+{{p|Egypt}}, barely, much diminished in fact;
+{{p|Assyria}}, eclipsed a while; again,
+{{p|Babylon}}, under new management. Then
 
-Provinces. The {{p|Kassite}} {{p|Babylonian}} kingdom: fatally weakened. The
-{{p|Elamite}} kingdom: disrupted. {{p|Cyprus}}: raided. The cities of {{p|Canaan}}:
-Many destroyed. {{p|Emar}}, {{p|Kadesh}}, {{p|Alalakh}}, {{p|Gath}}: destroyed. Only a
-Few {{x|Bronze Age}} states survived intact: {{p|Egypt}} (barely, much
+The rest had vanished. Writing systems, too,
+Lost: {{p|Aegean}} {{p|Linear B}} withdrew;
+For {{p|Hittite}} cuneiform: death, beside
+{{p|Hattusa}}'s fall; and the whole corpus died
+Of {{x|Bronze Age}} letters that the kings had sent
+In diplomatic correspondence: spent.
 
-Diminished), {{p|Assyria}} (temporarily eclipsed), {{p|Babylon}} (under new
-Management). The rest vanished. Writing systems were lost: {{p|Linear B}}
-Disappeared from the {{p|Aegean}}; {{p|Hittite}} cuneiform died with {{p|Hattusa}};
-The whole corpus of {{x|Bronze Age}} diplomatic correspondence ceased.
+Catastrophe: the population fell
+In some lands, by nine-tenths; the trade as well
+Collapsed: the networks which had joined and tied
+{{p|Mycenae}}, {{p|Ugarit}}, {{p|Egypt}}, allied,
+{{p|Mesopotamia}}, {{p|Cyprus}}; the way
+Out to {{p|Sardinia}}: it all gave way.
+The {{x|Bronze Age}} world, an integrated whole,
+Fell all apart at once, past all control.
 
-Population fell catastrophically—in some regions by as much as
-Ninety percent. Trade networks that had linked {{p|Mycenae}} to
-{{p|Ugarit}} to {{p|Egypt}} to {{p|Mesopotamia}} to {{p|Cyprus}} to {{p|Sardinia}} collapsed.
-The whole integrated {{x|Bronze Age}} world fell apart at once.
+What caused this? Historians have proposed
+Many factors. No single cause, exposed,
+Is sufficient. The full picture appears
+To need them all at once, in the same years.
+First: climate change. Data from tree-rings, laid
+With sediment, show drought, severe, that stayed
 
-                                                            What
-Caused this? Historians have proposed many factors. No single
-Cause is sufficient. The full picture seems to require all of them
-Simultaneously. First: climate change. Tree-ring and sediment data
+In the {{p|Mediterranean}}, {{p|Near East}},
+From roughly twelve fifty B.C.E., to
+Eleven fifty. Decades it went through,
+Of {{x|Bronze Age}} droughts the worst. The harvests ceased;
+Famines followed. Second: earthquakes. We know
+From digs: a series, severe, that laid low
 
-Indicate a severe drought in the {{p|Mediterranean}} and {{p|Near East}}
-Between approximately twelve-fifty and eleven-fifty BCE. The drought
-Lasted for decades and was the most severe of the entire {{x|Bronze Age}}.
-Agricultural yields collapsed. Famines followed. Second: earthquakes.
+{{p|Aegean}}, {{p|Anatolian}} towns; so
+This period's destruction layers show
+Seismic damage before the burning came,
+Or with it, side by side, in the same flame.
+Third: rebellion inside. Each palace core
+Of the {{x|Bronze Age}} was stratified; therefore
 
-Archaeological evidence suggests a series of severe earthquakes
-Devastated {{p|Aegean}} and {{p|Anatolian}} cities during this period. Many
-Destruction layers show seismic damage preceding or accompanying
-The burning. Third: internal rebellion. {{x|Bronze Age}} palatial
+From peasants the elites took grain and toil;
+The system, built upon that human soil,
+Relied on their compliance staying true.
+When climate and the famine hit, it too,
+Compliance, broke. The peasants rose. Burned through,
+The towns, as much within as from without.
+Fourth came migration and invasion: out,
+In waves, through those years, peoples moved about
 
-Economies were highly stratified: palace elites extracted grain and
-Labor from peasant populations, and the system depended on the
-Continued compliance of those populations. When climate and famine
-Hit, compliance broke. Peasants rose. Cities burned from within as
+The {{p|Mediterranean}}'s eastern side.
+The most famous: the {{p|Sea Peoples}}, who ride,
+Seaborne raiders, a coalition, named
+Only in {{p|Egyptian}} inscriptions, framed
 
-Much as from without. Fourth: migration and invasion. Waves of
-Peoples moved across the eastern {{p|Mediterranean}} during these years.
-The most famous are the {{p|Sea Peoples}}—a coalition of seaborne
-Raiders whose name is known only from {{p|Egyptian}} inscriptions at
+At {{p|Medinet Habu}}, elsewhere, in stone.
+Ramesses III, the last great pharaoh known
+Of the {{x|New Kingdom}}, fought them in the weight
+Of two engagements, massive, near the date
+Eleven seventy. His victory saved
+{{p|Egypt}} from total conquest, but it braved
 
-{{p|Medinet Habu}} and elsewhere. Ramesses III, the last great pharaoh
-Of the {{x|New Kingdom}}, fought the {{p|Sea Peoples}} in two massive
-Engagements around eleven-seventy BCE. His victory saved {{p|Egypt}}
-From total conquest but could not save the {{p|Levantine}} provinces.
+In vain to keep the {{p|Levantine}} domain,
+Its provinces. And the {{p|Sea Peoples}}' train
+Holds first the {{p|Peleset}}, which scholars view
+As {{p|Philistines}}; with others, the next few:
+The {{p|Tjeker}}, the {{p|Shekelesh}}; {{p|Denyen}}, who
+Were maybe {{p|Danaoi}} or {{p|Danites}} too;
+The {{p|Sherden}}, {{p|Weshesh}}, and the {{p|Lukka}} band,
+Who came, most probably, from {{p|Lycia}}'s land.
 
-The {{p|Sea Peoples}} included the {{p|Peleset}} (identified with the
-{{p|Philistines}}), the {{p|Tjeker}}, the {{p|Shekelesh}}, the {{p|Denyen}} (possibly
-the {{p|Danaoi}} or {{p|Danites}}), the {{p|Sherden}}, the {{p|Weshesh}}, the {{p|Lukka}}
-(probably from {{p|Lycia}}). These names have long intrigued scholars—
+These names intrigued the scholars long, in pairs:
+Are {{p|Sherden}} the {{p|Sardinians}}' forebears?
+Are {{p|Sicilians}} the {{p|Shekelesh}}'s heirs?
+Is {{p|Denyen}} the {{x|Bronze Age}} {{p|Greek}} word, the same
+That turns {{p|Danaoi}} later, {{p|Homer}}'s name
+For the {{p|Achaean}} coalition? Such
+Parallels, of etymology, touch
 
-Are the {{p|Sherden}} the ancestors of the {{p|Sardinians}}? Are the
-{{p|Shekelesh}} the ancestors of the {{p|Sicilians}}? Is {{p|Denyen}} the Bronze
-Age {{p|Greek}} word that later becomes {{p|Danaoi}}, the name {{p|Homer}} uses
-For the {{p|Achaean}} coalition? The etymological parallels suggest
+On the {{p|Sea Peoples}}, to suggest they'd take
+Men from the {{p|Aegean}}, forced to forsake
+{{p|Italy}}, {{p|Anatolia}}, and past.
+Refugees, perhaps, from the ruin cast
+On {{p|Mycenaean}} palaces. Perhaps
+Opportunistic raiders, through the gaps
 
-That the {{p|Sea Peoples}} included populations displaced from the
-{{p|Aegean}}, {{p|Italy}}, {{p|Anatolia}}, and beyond. Perhaps refugees from
-The collapse of the {{p|Mycenaean}} palaces. Perhaps opportunistic
-Raiders taking advantage of weakened targets. Perhaps a coalition
+Of weakened targets. Perhaps, all as one,
+Displaced, aggressive peoples, every one,
+Rolling eastward and southward in their waves.
+Whatever they were, the old record saves
+Them as a force of great disruption, one
+Destroying cities, settling, when done,
 
-Of multiple displaced and aggressive populations rolling eastward
-And southward in waves. Whatever they were, they appear in the
-Archaeological record as a major disruptive force, destroying
-Cities and eventually settling in the regions they depopulated.
+The regions they had emptied. And of these
+The {{p|Philistines}} settled the southern seas,
+The southern {{p|Levantine}} coast, to become
+The famous biblical foes, the outcome,
+Of {{p|Israelites}}. Their pottery, their style
+Of building, and their language, all the while,
+Show {{p|Aegean}} affinities. They came
+As {{p|Mycenaean}} refugees, to claim
 
-The {{p|Philistines}}—one of the {{p|Sea Peoples}}—settle in the southern
-{{p|Levantine}} coast and become the famous biblical adversaries of
-The {{p|Israelites}}. Their pottery, their architecture, their language
-Show {{p|Aegean}} affinities. They were probably {{p|Mycenaean}} refugees
+Likely, a foothold, after the collapse,
+In {{p|Canaan}}, in the empty palace gaps.
 
-Establishing a foothold in {{p|Canaan}} after the collapse.
+And fifth: the system's own collapse. Without
+A single cause, the {{x|Bronze Age}} had, throughout
+Its international system, grown frail
+In its complexity. Trade on that scale,
 
-                                                         And fifth:
-Systems collapse. Even absent any single cause, the {{x|Bronze Age}}
-International system had grown fragile in its complexity. Far-
+Far-flung, depended on the working of
+Many palace economies, and of
+Each one depending on the rest for raw
+Materials, for goods of craft and law,
 
-Flung trade networks depended on the continuous functioning of
-Multiple palatial economies, each of which depended on the others
-For raw materials, manufactured goods, luxury imports, and
-Diplomatic stability. When one node failed, the cascade propagated.
+For luxury imports, the steady stay
+Of diplomacy. One node failed: the way
+Was cascade. {{p|Ugarit}} could never stand
+Without its {{p|Hittite}} partners in the land;
 
-{{p|Ugarit}} could not function without {{p|Hittite}} trade partners; the
-{{p|Hittite}} capital could not function without {{p|Levantine}} grain
-Imports; the {{p|Mycenaean}} palaces could not function without tin
-From the East and copper from {{p|Cyprus}}. When the network broke, no
+The {{p|Hittite}} capital could not hold on
+Without the {{p|Levantine}} grain imports drawn;
+The {{p|Mycenaean}} palaces were bound
+To eastern tin, and {{p|Cyprus}}' copper found.
 
-Single palace could reconstitute the whole. It required global
-Coordination, and global coordination vanished. Each local crisis
-Accelerated every other local crisis. This is what historians now
-Call the "{{p|Bronze Age Collapse}}"—and it is the most complete
+The network broke, and no one palace could
+Remake the whole. It needed, as it would,
+Global coordination, and that went.
+Each local crisis, as its force was spent,
 
-Civilizational collapse in recorded human history. When the dust
-Settled, the world that emerged was profoundly changed. Iron
-Replaced bronze as the dominant metal (both because iron sources
-Were more widely distributed and could not be monopolized by trade,
+Sped every other local crisis on.
+Historians call this, now it is gone,
+The "{{p|Bronze Age Collapse}}"; and it is the most
+Complete collapse of a civilized host
 
-And because the disruption of bronze supply chains forced
-Innovation in iron metallurgy). Alphabetic writing, developed in
-{{p|Canaan}}, replaced cuneiform and {{p|Linear B}} as the dominant scribal
-System of the {{p|Mediterranean}} (it was simpler, more democratic,
+In human history in record. When
+The dust had settled, the whole world, from then,
+Emerged profoundly changed. Iron replaced
+The bronze as the dominant metal, based
 
-Less dependent on centralized scribal classes). Small city-states
-And tribal confederations replaced the large palatial kingdoms
-Of the {{x|Bronze Age}}. The {{p|Phoenicians}}, the {{p|Greeks}} emerging from
-Their {{x|Dark Age}}, the {{p|Israelites}}, the {{p|Neo-Hittite}} states of northern
+On both: that iron's sources were too wide
+For trade to monopolize; and, beside,
+The broken bronze supply chains forced a new
+Invention: iron metallurgy grew.
 
-{{p|Syria}}, the {{p|Aramean}} kingdoms—these were the new political forms.
-Smaller, more distributed, less top-heavy. The {{x|Bronze Age}} world
-Of god-kings and thousand-god pantheons gave way, gradually, to
-The {{x|Iron Age}} world of ethnically defined nations, tribal gods
+First made in {{p|Canaan}}, alphabetic script
+Replaced cuneiform, {{p|Linear B}},
+The {{p|Mediterranean}}'s scribal key:
+It was simpler, more democratic, stripped
+Of need for central scribal classes. Small
+City-states and the tribal leagues, in all,
 
-With universalist pretensions, and eventually the first stirrings
-Of genuine monotheism. That transformation is the subject of the
-Next several chapters. But here, in this chapter, we must also
-Tell the other two events: the {{x|Exodus}} and the {{x|Trojan War}}.
+Replaced the large palatial kingdoms of
+The {{x|Bronze Age}}. The {{p|Phoenicians}}; and, above,
+{{p|Greeks}} emerging from their {{x|Dark Age}}; the line
+Of {{p|Israelites}}; {{p|Neo-Hittite}} design
 
-Consider first the {{p|Exodus}}. According to the biblical narrative,
-Moses led the {{p|Israelites}} out of {{p|Egyptian}} bondage through a
-Series of plagues, a parting of the {{p|Red Sea}} (or, more accurately
-In the {{p|Hebrew}}, the {{p|Reed Sea}}, {{p|Yam Suph}}), a forty-year wandering
+Of states in northern {{p|Syria}}; the land
+Of {{p|Aramean}} kingdoms: these, as planned,
+Were the new political forms: small, spread,
+Less top-heavy. The {{x|Bronze Age}} world, its dead
 
-In the wilderness of {{p|Sinai}}, and an eventual arrival in {{p|Canaan}}
-Under Joshua. The chronology given in the {{p|Hebrew Bible}}, if
-Taken at face value, places the {{p|Exodus}} in the fifteenth or
-Fourteenth century BCE. But modern scholarly consensus, where it
+God-kings, its pantheons of a thousand gods,
+Gave way, gradually, against the odds,
+To the {{x|Iron Age}} world, where nations stood
+Defined by ethnicity; where the good
 
-Reaches any consensus at all, favors a thirteenth-century BCE
-Dating—specifically during the reign of Ramesses II or his
-Successor Merneptah. The {{p|Merneptah Stele}}, inscribed around
-Twelve-oh-nine BCE, contains the first extra-biblical reference
+Of tribal gods made universal claims;
+And then the first stirrings, the dawn, of true
+Monotheism. That change: the next few
+Chapters' subject. But here we give the names
 
-To "{{p|Israel}}" as a people in {{p|Canaan}}—the stele boasts that
-Merneptah has defeated {{p|Israel}}, which implies that {{p|Israel}} existed
-As a recognizable entity in {{p|Canaan}} by that date. This gives a
-Rough terminus ante quem: however and whenever the {{p|Israelites}}
+Of two other events, which we must tell:
+The {{x|Exodus}}, the {{x|Trojan War}} as well.
+First, consider the {{p|Exodus}}. We read
+In biblical narrative: Moses freed
+The {{p|Israelites}} from {{p|Egyptian}} chains, through
+A series of plagues; and a parting, too,
+Of the {{p|Red Sea}} (more accurately, in
+The {{p|Hebrew}}, the {{p|Reed Sea}}, {{p|Yam Suph}}); within
+The wilderness of {{p|Sinai}}, for the span
+Of forty years, they wandered; then, the van,
+Led by Joshua, into {{p|Canaan}} ran.
 
-Got to {{p|Canaan}}, they were there by twelve-oh-nine BCE. The {{x|Gaiad}}
-Has already treated the specific narrative of Moses and the
-{{p|Exodus}}—and will revisit it briefly here, because the {{p|Exodus}}
-Is now recognizable as part of the broader {{p|Bronze Age Collapse}}.
+{{p|Hebrew Bible}} dates, at face value, place
+The {{p|Exodus}}, in centuries we trace,
+In the fifteenth or fourteenth, B.C.E.;
+But modern scholars, where they can agree
+At all, favor the thirteenth: in the reign
+Of Ramesses II, or else, in the train,
 
-The {{p|Israelites}} were not the only group leaving {{p|Egypt}} or moving
-Into {{p|Canaan}} at this time. They were part of a general disruption
-Of populations. Their specific story—bondage, miraculous liberation,
-Covenant at {{p|Sinai}}, wilderness wandering, conquest—became the
+Of his successor, Merneptah. The stone,
+The {{p|Merneptah Stele}}, near twelve oh nine
+B.C.E. inscribed, contains the first sign
+Outside the Bible of "{{p|Israel}}", known
+As people in {{p|Canaan}}. The stele boasts
+That Merneptah has defeated the hosts
 
-Foundational narrative of {{p|Hebrew}} religion and identity. But the
-Structural fact underlying that narrative is that groups were
-Coming out of {{p|Egypt}} and entering {{p|Canaan}} during the {{x|Bronze Age}}
-Collapse era. The {{p|Israelite}} religious memory preserves, in
+Of {{p|Israel}}; which implies {{p|Israel}} stood
+In {{p|Canaan}} by that date, known nationhood.
+A rough terminus ante quem is shown:
+However and whenever (this unknown)
+The {{p|Israelites}} reached {{p|Canaan}}, they appear
+There by twelve oh nine B.C.E., it's clear.
 
-Literary form, the experience of a people being born into
-Historical existence during the collapse of the {{x|Bronze Age}}
-International system. The shattering of the old order—the plagues,
-The arbitrary violence of pharaohs, the sudden possibility of
+Already in the {{x|Gaiad}} we have told
+Of Moses and the {{p|Exodus}}, of old,
+And will return to it, briefly, since now
+The {{p|Exodus}} is seen, and we see how,
 
-Escape across a parted sea—is the {{p|Israelite}} version of what the
-{{p|Hittites}} experienced as the sack of {{p|Hattusa}} and what the
-{{p|Mycenaeans}} experienced as the burning of the palaces. Different
-Cultural processings of the same civilizational crisis.
+As part of the broader {{p|Bronze Age Collapse}}.
+The {{p|Israelites}} were not alone; perhaps
+Others left {{p|Egypt}}, or moved in, the same,
+To {{p|Canaan}} then. They were part of the frame
 
-                                                         Consider
-Then the {{p|Trojan War}}. In the traditional dating of Eratosthenes,
-The {{p|Trojan War}} occurred around twelve-eighty-four to twelve-
-Seventy-four BCE—right at the beginning of the collapse. In the
+Of general disruption of peoples. Then
+Their story, bondage, liberation, when
+By miracle; the covenant they made
+At {{p|Sinai}}; wandering; conquest; was laid
 
-Archaeological dating, {{p|Troy VIIa}} (the layer most plausibly
-Identified with {{p|Homeric}} {{p|Troy}}) was destroyed around twelve-
-Hundred BCE—right in the middle of the collapse. In either case,
-The war that {{p|Homer}} describes is a Late {{x|Bronze Age}} event
+The founding story of the {{p|Hebrew}} creed,
+Religion and identity. Indeed,
+The structural fact beneath it is plain:
+That groups were leaving {{p|Egypt}}, in the train
+Of the collapse, toward {{p|Canaan}}'s domain.
 
-Occurring during the collapse. The {{p|Achaean}} coalition of {{p|Mycenaean}}
-Kings sailing eastward to sack a fortified city on the {{p|Anatolian}}
-Coast—this is not just a mythical tale. It is the last great
-Expedition of the {{p|Mycenaean}} palace system, launched (in {{p|Homer}}'s
+{{p|Israelite}} religious memory holds,
+In literary form, as it unfolds,
+The experience of a people's dawn
+Into historical existence, drawn
+While the international system fell.
+The shattering, and the old order's knell:
 
-Telling) over the abduction of a queen but (in historical
-Reality) probably over trade rights, tribute, the control of the
-{{p|Dardanelles}}, or simply the raiding opportunities available in a
-Destabilizing world. The {{p|Trojan War}} is the {{p|Greek}} memory of the
+The plagues; the pharaohs' arbitrary force
+Of violence; the sudden chance, the course
+Of an escape, the sea parted in two:
+This is the {{p|Israelite}} account, and true
+To what {{p|Hittites}} knew as {{p|Hattusa}}'s sack,
+And the {{p|Mycenaeans}}, as fire's attack
+Upon their palaces. And, looking back,
+These are the different cultural ways
+Of processing one crisis of those days.
 
-Late {{x|Bronze Age}} as it shuddered toward its end. Shortly after
-The war, the palaces that launched it were themselves destroyed.
-Agamemnon's {{p|Mycenae}} burned within a generation of his victorious
-Return. Odysseus's {{p|Ithaca}} faded into the {{x|Dark Age}}. The victors
+Consider next the {{p|Trojan War}}. The old
+Dating that Eratosthenes has told,
+Twelve eighty-four to twelve seventy-four
+B.C.E.: the collapse, just at its door.
 
-Of {{p|Troy}} outlived their victory by less than a century. Their
-Fall is implicit in the structure of the epic—{{p|Homer}} composes his
-Poems in the ninth or eighth century BCE, looking back across
-Four centuries at a vanished world. Agamemnon's {{p|Mycenae}} is, for
+The digs date {{p|Troy VIIa}} (the layer most
+Plausibly {{p|Homeric}} {{p|Troy}}, on that coast)
+Destroyed around twelve hundred, at the core
+Of the collapse. And either way, the war
+That {{p|Homer}} tells, a Late {{x|Bronze Age}} event,
+Took place inside the collapse, the descent.
 
-{{p|Homer}}, already legend. The gold and bronze and chariots and
-Hundred-rowered ships—these are not part of {{p|Homer}}'s own world.
-They are remembered from the lost world. The {{p|Iliad}} and the
-{{p|Odyssey}} are {{x|Dark Age}} preservations of {{x|Bronze Age}} memory. And
+{{p|Achaean}} coalition of the kings
+{{p|Mycenaean}}, whom eastward sailing brings
+To sack, on the {{p|Anatolian}} coast,
+A fortress city: not a myth's mere ghost.
+It is the last great expedition sent
+By {{p|Mycenaean}} palaces; it went,
+In {{p|Homer}}, for a stolen queen; but, more
+Probably, in history, for trade rights; or
+Tribute; the {{p|Dardanelles}}' control; or for
+Raiding that a destabilized world bore.
 
-That memory centers on a war that was itself the last coherent
-Expedition of the collapsing civilization.
+The {{p|Trojan War}}: here {{p|Greek}} memory shows
+The Late {{x|Bronze Age}} shuddering toward its close.
+Soon after the war, the palaces, those
+That launched it, were themselves destroyed. They burned:
+Agamemnon's {{p|Mycenae}}, once he'd turned
+Home, triumphant: in a generation.
+And {{p|Ithaca}}, Odysseus' station,
+Faded away into {{x|Dark Age}}'s haze.
+The victors there at {{p|Troy}} outlived the praise
+Of victory, less than a century's days.
 
-                                             Three events. The
-{{p|Exodus}}. The {{p|Trojan War}}. The general collapse. The {{x|Gaiad}} reads them
+Their fall's implicit in the epic's art:
+The ninth or eighth century B.C.E.
+Is when {{p|Homer}} composes, and when he
+Looks back four centuries, a world apart,
+Long vanished. And Agamemnon's own town,
+{{p|Mycenae}}, is, for {{p|Homer}}, legend's crown.
 
-As three reflexes of a single {{x|Bronze Age}} crisis. Three cultural
-Memories of what it was like to live through the shattering. In
-The {{p|Hebrew}} case: slavery, miraculous deliverance, covenant, the
-Forging of a new identity grounded in religious law. In the {{p|Greek}}
+The gold, the bronze, the chariots, and their
+Hundred-oared ships: these things are not a share
+In {{p|Homer}}'s own world; and they are, instead,
+Remembered from the lost world of the dead.
+The {{p|Iliad}}, the {{p|Odyssey}}: these hold,
+In {{x|Dark Age}} preservations, all the old
+{{x|Bronze Age}} memory, centered on a war,
+The last coherent expedition, for
+Civilization, failing at its core.
 
-Case: heroic warfare, divine caprice, the fall of mighty cities,
-The forging of a new identity grounded in epic memory. In the
-Archaeological case: ash layers, abandoned palaces, mass migrations,
-The forging of new ethnic groupings in the ruins. Each culture
+Three events: {{p|Exodus}}; the {{p|Trojan War}};
+The general collapse. They are, at core,
+In the {{x|Gaiad}}, three reflexes of one
+{{x|Bronze Age}} crisis: three memories that run
+In culture, of the shattering they knew.
+In the {{p|Hebrew}} case: slavery; and, too,
+Miraculous deliverance, and through
+The covenant, a new identity
+Forged in religious law, by its decree.
+And the {{p|Greek}} case: heroic war; divine
+Caprice; and mighty cities in decline;
+The forging of new identity, grown
+In epic memory. And in the stone,
+The archaeological case: the ash
+In layers; palaces left in the crash;
+Mass migrations; new ethnic groups, among
+The ruins forged. Each culture, in its tongue,
 
-Processed the collapse in its own way. Each memory is partial and
-Reshaped. But all three memories are responses to the same
-Historical event: the end of the integrated {{x|Bronze Age}} world.
+Has processed the collapse in its own way.
+Each memory is partial and, they say,
+Reshaped. But all three memories respond
+To one historical event, and bond:
+The end of the integrated {{x|Bronze Age}}
+World. And the {{x|Gaiad}} here, upon this page,
+Makes a theological claim: this age
+Of collapse was not just ruin; it bore
+A birthing too: in rubble, at the core
+Of palace economies, there emerged
+The preconditions of new faiths, which surged.
+The god-king theocracies could not survive
+Without their bureaucratic base alive.
 
-And the {{x|Gaiad}} makes a theological claim about this moment. The
+And when the Pharaoh could no longer claim
+Divine rule of a working state, the same
+Authority, divine, had to migrate
+Elsewhere; it migrated to text: the weight
+Of {{p|Hebrew}} scripture, in one line, begun;
+{{p|Homeric}} epic in another one;
+And then the philosophic texts of these:
+The {{p|Greeks}}, the {{p|Persians}}, {{p|Indians}}, {{p|Chinese}}.
 
-Collapse was not merely a disaster. It was also a birthing. In
-The rubble of the palatial economies, the preconditions for new
-Kinds of religion emerged. The god-king theocracies could not
-Survive without their bureaucratic substrate. When Pharaoh could
+The {{x|Axial Age}} that follows, the great
+Revolution of religion, the state
+Of thought, the sixth century B.C.E.,
+Which will produce, as from a single tree,
+Buddha and Confucius, Laozi, and then
+Mahavira, the {{p|Hebrew}} prophets' pen,
 
-No longer claim divine authority over a functioning state, the
-Idea of divine authority had to migrate elsewhere. It migrated
-Into text—{{p|Hebrew}} scripture in one line, {{p|Homeric}} epic in another,
-Eventually the philosophical writings of {{p|Greeks}} and {{p|Persians}} and
+Zarathustra, the pre-Socratic {{p|Greeks}}:
+This {{x|Axial Age}}, of which this book speaks,
+Is possible: the {{x|Bronze Age}} god-kings' fall
+Cleared cultural space for new kinds, for all,
+Of religious imagination: things
+Like gods without kings, and like godless kings.
+Ethical demands from transcendent hands,
+Not from political rulers' commands.
+Textual canons, keeping in their sway
+Religious authority, there to stay
+Across political disruptions. These
+Were all possible because, by degrees,
 
-{{p|Indians}} and {{p|Chinese}}. The {{x|Axial Age}} that follows—the great
-Religious and philosophical revolution of the sixth century BCE,
-Which will produce Buddha, Confucius, Laozi, Mahavira, the
-{{p|Hebrew}} prophets, Zarathustra, the pre-Socratic {{p|Greeks}}—this
+The {{x|Bronze Age}} had ended. And its decay
+Was death for one religious mode, and lay
+Ground for another; it prepared the way.
+In the {{x|Gaiad}}, in this we see the hand
+Of something vast: not providence, as planned
+In the traditional sense, but the long
+Self-correcting, elaborating song
+Of all religious possibility.
+The {{x|Bronze Age}} as civilization's frame
+Had reached its limit. And its fall became
+The room for what came after it to be.
 
-{{x|Axial Age}} is possible because the {{x|Bronze Age}} god-kings have fallen.
-Their collapse cleared the cultural space for new kinds of
-Religious imagination. Gods without kings. Kings without divinity.
-Ethical demands issued by transcendent sources rather than by
+{{p|Bronze Age Collapse}}. The {{p|Sea Peoples}}. The drought,
+Earthquake, rebellion, invasion: the rout
+Of systems. Ramesses III, he who saves
+{{p|Egypt}} at {{p|Medinet Habu}}, from waves.
 
-Political rulers. Textual canons preserving religious authority
-Across political disruptions. These were all possible because the
-{{x|Bronze Age}} had ended. The collapse was the death of one mode of
-Religious life, but it was also the preparation for another. The
+{{p|Hattusa}} burning, {{p|Mycenae}} aflame;
+{{p|Ugarit}}'s last letter; and no help came.
+{{p|Troy VII}} falling. {{p|Israel}} come to be
+In {{p|Canaan}}; {{p|Philistines}} along the sea.
+Alphabet spreading. Iron replacing
+Bronze. The palace kingdoms dying, facing
+Small nations being born. The end, unfurled,
+Of the whole integrated {{x|Bronze Age}} world.
 
-{{x|Gaiad}} sees the hand of something vast in this: not providence in
-The traditional sense, but the self-correcting, self-elaborating
-Unfolding of human religious possibility. The {{x|Bronze Age}}
-Civilizational system had reached its limit. Its fall made room
-
-For what came next.
-
-                   {{p|Bronze Age Collapse}}. {{p|Sea Peoples}}. Drought,
-Earthquake, rebellion, invasion, systems collapse. Ramesses III
-Saving {{p|Egypt}} at {{p|Medinet Habu}}. {{p|Hattusa}} burning. {{p|Mycenae}} burning.
-
-{{p|Ugarit}}'s last letter begging for help. {{p|Troy VII}} falling.
-{{p|Israel}} emerging in {{p|Canaan}}. The {{p|Philistines}} settling the coast.
-The alphabet spreading. Iron replacing bronze. The palatial
-Kingdoms dying, the small nations being born. The end of the
-
-Integrated {{x|Bronze Age}} world.
-
-                              {{p|Exodus}}, {{p|Trojan War}}, {{p|Bronze Age Collapse}}.
-Three names. One crisis. One birthing. The next three millennia
-Of human civilization shaped in the rubble.
+{{p|Exodus}}, {{p|Trojan War}}, {{p|Bronze Age Collapse}}.
+Three names. One crisis. One birthing. The maps
+Of human civilization's next three
+Millennia, in rubble, came to be.
 
 
 # Chapter 161: Fall of Shang

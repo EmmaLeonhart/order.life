@@ -7306,1471 +7306,1151 @@ Through partnership's display, made manifest.
 
 # Chapter 50: The Silurian Recovery
 
-{{c|1173|Silur}}, son of {{c|756|Chelicer}},
-Saw the world in ruin's blur.
-And in this devastation
-Saw opportunity's creation.
-
-{{c|1173|Silur}} shouted out with might
-To all sons in his sight
-Of {{c|325|Animus}}, declaring
-His vision, never caring
-
-For those who'd gone before:
-"I did not steal this lore
-Of kingship from the crown.
-I found it lying down
-
-In gutter, and I picked
-It up, my fate predicted
-By sword that I had found.
-But 'twas the people's sound
-
-Of voices that placed it
-On my head, perfect fit
-For one who'd take the throne
-And make it all his own."
-
-And so began the era
-Of {{c|1174|Silurian}} chimera,
-Rising from the ashes
-Of {{c|954|Ordovician}}'s crashes.
-
-{{c|1173|Silur}} bore two sons:
-{{c|1215|Eurypter}} when begun
-The day, and {{c|1216|Chasmas}} strong
-Who lived his whole life long.
-
-{{c|1216|Chasmas}} begat two more:
-{{c|1217|Belangkas}} to explore
-And {{c|1218|Xiphos}}, who would be
-Living by the sea.
-
-{{c|1218|Xiphos}} became the sire
-Of crabs whose desire
-Was horseshoe-shaped design
-Throughout the end of time.
-
-{{c|1217|Belangkas}} climbed up high
-Onto the land to try
-What none had done before:
-To claim from shore to shore
-
-The land from {{c|1163|Hirnan}}'s hand
-And make his own command
-Of territories wide
-Where he could reside.
-
-Like {{c|1219|Myriapus}} of old
-He found his story told
-In suffocation's pain
-Upon the terrestrial plain.
-
-But pierced wounds in his side
-And was thus satisfied
-With air that he could breathe
-To give his lungs relief.
-
-{{c|1217|Belangkas}} begat two:
-{{c|1220|Soliber}}, tried and true,
-And {{c|1221|Opiliona}} fair
-Who spread life everywhere.
-
-{{c|1221|Opiliona}} spread the moss
-Across the world, no loss
-Too great for her to bear
-In her maternal care.
-
-She grazed upon the green
-And on what could be seen
-Of daughters of {{c|1222|Millipa}}
-Throughout the earthly steppe-a.
-
-{{c|1221|Opiliona}} was a mother
-Great, and like no other
-{{c|1223|Farmer}} with her legs
-So long, and wisdom begs
-
-Us to remember her
-As one who would confer
-Great blessings on the land
-With her maternal hand.
-
-Beautiful legs so long
-Made her the subject of song:
-"{{c|30|Granny}} {{c|1224|Long}} Legs" they'd call
-Her, beloved by all.
-
-"{{c|30|Granny}} {{c|1225|Harvest}}" too,
-For all the work she'd do
-To spread the green of life
-Through joy and through strife.
-
-And so in honor of
-Her life and of her love,
-We call her children still
-"{{c|1226|Daddy}} {{c|1224|Long}} Legs" (though will
-
-Seem strange to some that "{{c|1226|Daddy}}"
-{{c|1227|Names}} descendants of a lady).
-"{{c|1228|Harvestmen}}" as well
-Their story always tell.
-
-{{c|1220|Soliber}} begat two:
-{{c|1229|Pneumaran}}, tried and true,
-And {{c|1230|Kitzi}}, small but strong
-Who lived his whole life long.
-
-{{c|1229|Pneumaran}} begat then
-Two sons beyond all ken:
-{{c|1231|Solaran}} of the sun
-And {{c|1232|Acares}}, begun
-
-As dwarf among his kin,
-But he would always win
-A place in history
-As ancestor, you see,
-
-Of mites, the little ones
-Who when their work is done
-Live everywhere on land
-Built by their tiny hand.
-
-{{c|1232|Acares}} bore two sons:
-{{c|1233|Sarco}} when day begun
-And {{c|1234|Trombo}}, who would be
-Living peacefully
-
-Or not, as fate would tell
-His story oh so well
-Of how some choose the light
-While others choose the night.
-
-The sons of {{c|1233|Sarco}} clean
-The world, and can be seen
-As dust mites everywhere
-Who take the greatest care
-
-To keep the world swept clean
-Of dust that might have been
-A problem for us all
-Who answer life's sweet call.
-
-Among the sons of {{c|1234|Trombo}}
-Some live like peaceful combo
-Of gentleness and grace
-In their appointed place.
-
-But others are the plague
-That makes all good souls vague
-With worry and with fear—
-{{c|1235|Parasites}} we hear
-
-{{c|1236|Stifle}} life with their ways
-Throughout our living days,
-{{c|646|Horrific}} in their greed
-That plants destruction's seed.
-
-Among the peaceful ones
-Are {{c|1234|Trombo}}'s gentle sons:
-The red velvet mites
-Who bring us pure delights.
-
-From red velvet mites
-We learn love's sacred rites:
-A story of the heart
-That plays the loving part
-
-In nature's grand design
-Where all true loves align
-With beauty and with grace
-In every living place.
-
-{{c|1231|Solaran}} begat two:
-{{c|1237|Solifugon}} so true
-And {{c|1238|Ricinulon}} the small
-Who answered duty's call.
-
-{{c|1237|Solifugon}} became
-The father of great fame
-Of {{c|189|Wind}} {{c|741|Spiders}} who race
-Across the earth's face.
-
-{{c|1238|Ricinulon}} became
-The father of the name
-Of {{c|1239|Tick}} {{c|741|Spiders}} so small
-Who answer hunting's call.
-
-{{c|1230|Kitzi}} begat two sons:
-{{c|1240|Byblos}} when day begun
-And {{c|1241|Paras}}, who would be
-Small in his degree.
-
-{{c|1240|Byblos}} the Book {{c|1242|Knight}}
-Continues day and night
-To this very day
-To guard in his own way
-
-The books that hold the lore
-Of all who came before.
-His sons, the Book {{c|1243|Scorpions}},
-Are knowledge's companions.
-
-They defend with their might
-The books both day and night
-From those who would destroy
-What brings the world such joy.
-
-{{c|1241|Paras}} begat two more:
-{{c|1244|Mesos}} to explore
-And {{c|1245|Holoxos}} the strong
-Who lived his whole life long.
-
-{{c|1244|Mesos}} was a hunter
-Fierce, and he would shunt-er
-Across the globe to find
-{{c|1246|Prey}} to feed his mind
-
-And body's gluttony—
-A small but mighty fee
-He'd take from life around
-Wherever he was found.
-
-But {{c|1245|Holoxos}} walked where
-{{c|1247|Blood}} flowed everywhere
-From his fallen kin:
-Sons of {{c|746|Arachnus}} thin
-
-And sons of {{c|1219|Myriapus}}
-Who'd been victorious
-In other times and places
-Before death's embraces.
-
-He drank their blood and bore
-Two sons to explore
-The paths of blood and death:
-{{c|1248|Thyrus}} drew his breath
-
-From peaceful tradition,
-{{c|1249|Drinking}} by submission
-Only blood of those
-Who'd found their last repose.
-
-But {{c|1250|Ricinus}} turned dark
-And left his evil mark
-On all the world around—
-Where he could be found
-
-He fed on living blood
-Like some unholy flood
-Of evil and of greed
-That plants destruction's seed.
-
-{{c|1250|Ricinus}} drinks the life
-From those in joy and strife,
-{{c|1251|Injecting}} with his bite
-{{c|1252|Venom}} through the night
-
-That paralyzes those
-He's chosen as his foes.
-{{c|1253|Paralytic}}, sweaty,
-His venom's never petty
-
-But always brings the pain
-Like some unholy rain
-That falls on those who can't
-{{c|1254|Escape}} his evil grant.
-
-{{c|1250|Ricinus}} swells up
-Like some unholy cup
-{{c|1255|Inflated}} with the blood
-Of innocents, a flood
-
-Of stolen life that flows
-Within him as he grows
-{{c|1256|Fat}} with others' pain
-Like some unholy stain
-
-Upon the world of life
-That cuts like sharpest knife
-Through all that's good and true
-In me and you.
-
-By {{c|1250|Ricinus}} the blood
-Of scorned women's flood
-May taint our mortal veins
-With all their bitter pains.
-
-When {{c|290|Lilith}}'s blood flows in
-Our veins, we can't win
-Against the poison's might:
-{{c|1257|Typhus}} brings its blight
-
-And {{c|1258|Spotted}} {{c|1259|Fever}} too
-To me and you
-Who cannot fight alone
-Against what we have sown
-
-By letting evil in
-Our world where it can win
-Against the good and true
-That lives in me and you.
-
-The {{c|1260|Midichlorians}} live
-In what {{c|1250|Ricinus}}' give:
-Within their mitochondria
-Lives {{c|290|Lilith}}'s bacteria—
-
-The greatest revenge told
-By stories new and old
-Of those who choose the dark
-And leave their evil mark.
-
-And after daughters come
-Of {{c|290|Lilith}}, and the sum
-Of all their evil ways:
-{{c|360|Malarius}}' dark days
-
-And {{c|1261|Lyme}} and all the rest
-Of sisters who're possessed
-By pestilence and death
-That steals away our breath.
-
-{{c|1250|Ricinus}}, father of
-{{c|1262|Ticks}} who show no love
-But only greed and hate,
-{{c|1263|Engorged}} with others' fate,
-
-Shows us what becomes
-Of those whose evil sums
-Into a force so strong
-That right can't win from wrong.
-
-But {{c|1215|Eurypter}} would be
-Father of dynasty
-Far greater than the line
-Of {{c|1216|Chasmas}}' design.
-
-A nation he would make
-That would its rightful take
-Of glory and of might
-To fill the world with sight
-
-Of what the good can do
-When they are tried and true
-To principles of right
-That shine like morning light
-
-Through all the world's dark places
-Where evil shows its faces
-But cannot win the day
-When good shows its way.
-
-From {{c|1173|Silur}}'s opportunity
-Seen in calamity
-To {{c|1221|Opiliona}}'s care
-For life everywhere,
-
-From Book {{c|1264|Knights}} who defend
-The knowledge we depend
-Upon to light our way
-Through each and every day,
-
-To those who choose the dark
-And leave their evil mark
-On all the world around
-Where they can be found,
-
-The {{c|1174|Silurian}} shows
-How each one's choice grows
-Into the world we see
-For you and me.
-
-Some choose to heal and mend
-What others would rend
-Apart with greed and hate
-That seals our mortal fate.
-
-Others choose to take
-For their own selfish sake
-What others need to live
-And never learn to give.
-
-The lesson clear as day
-Shows us the way
-To choose what we will be
-For all eternity:
-
-Those who heal and bless
-Or those who make the mess
-That others have to clean
-In places yet unseen.
-
-From {{c|1173|Silur}}'s royal crown
-To blood-suckers who drown
-The world in pain and death,
-Each choice draws its breath
-
-From what we hold most dear:
-Love that casts out fear
-Or fear that kills all love
-And blocks the light above.
-
-The choice is ours to make
-In every step we take
-Along life's winding road
-Where we must bear the load
-
-Of what our choices bring
-To every living thing
-That shares this world with us
-In ways both glorious
-
-And terrible to see
-For you and me
-Who must decide each day
-Which path we'll take away.
-
-The {{c|1174|Silurian}} age began
-With one who had a plan
-To rise from ruin's call
-And build hope for all.
-
-But also shows how some
-Will always choose to come
-Down on the side of death
-With their every breath.
-
-The choice is always ours
-To use our mortal powers
-For good or ill each day
-Along our living way.
-
-From opportunity's call
-To rise above the fall
-Of golden ages past
-To build what will last,
-
-The {{c|1174|Silurian}} reminds
-Us that each one finds
-The world they choose to make
-For everyone's sake.
-
-Choose well, for what you choose
-Will be what you will lose
-Or gain for all the days
-Of your immortal ways.
-
-From {{c|1173|Silur}}'s royal start
-To ticks' bloodsucking art,
-The lesson's clear to see:
-We are what we choose to be.
+Then {{c|1173|Silur}}, son of {{c|756|Chelicer}}, surveyed
+The world, in ruin's blur, and all decayed;
+And he, amid this devastation, clear,
+Saw opportunity's creation near.
+
+Then {{c|1173|Silur}} shouted out with all his might
+To all the sons of {{c|325|Animus}} in sight,
+And he declared his vision, without care
+For any who had gone before him there:
+
+"I did not steal the lore of kingship's crown;
+I found it in the gutter, lying down,
+And picked it up, my destiny foreseen
+By that sword I had found, its edge so keen.
+
+But it was all the people's voices' sound
+That placed it there, upon my head, and crowned
+The one who fit, the one to take the throne
+And make it all his own, and his alone."
+
+And so began the era, wild and strange,
+Of the {{c|1174|Silurian}} chimera's range,
+Which rose from ashes, rising over all
+Of {{c|954|Ordovician}}'s crashes and its fall.
+
+{{c|1173|Silur}} would bear two sons: when day begun
+Came {{c|1215|Eurypter}}, the first and elder one,
+And {{c|1216|Chasmas}} came, the strong one, who would last
+And live his whole life long until it passed.
+
+And {{c|1216|Chasmas}} would beget two sons: the one,
+{{c|1217|Belangkas}}, to explore beneath the sun,
+And {{c|1218|Xiphos}}, he who was destined to be
+A dweller, living by the open sea.
+
+{{c|1218|Xiphos}} became the father of a kind
+Of crabs who kept this single wish in mind:
+To keep their horseshoe-shaped and old design
+Through to the end of time, along their line.
+
+{{c|1217|Belangkas}} climbed onto the land up high
+To try what no one else had dared to try:
+To claim it all, from shore to farthest shore,
+Where none had ever claimed the land before.
+
+He took it out of {{c|1163|Hirnan}}'s hand, to stand
+In his own rule and make his own command
+Of territories, spreading far and wide,
+Where he could make his dwelling and reside.
+
+Like {{c|1219|Myriapus}}, in the days of old,
+He found that his own story would be told
+In suffocation's agony and pain
+Upon the open terrestrial plain.
+
+But he then pierced wounds into his own side,
+And thus he found that he was satisfied
+With air that he could breathe, and breathing, give
+Relief unto his lungs, so he could live.
+
+{{c|1217|Belangkas}} then begat two children, who
+Were {{c|1220|Soliber}}, a son both tried and true,
+And {{c|1221|Opiliona}}, a daughter fair,
+Who carried life abroad, and everywhere.
+
+{{c|1221|Opiliona}} spread the moss, and so
+Across the world she made the green moss grow;
+No loss would be too great for her to bear,
+So deep was all her mother's love and care.
+
+She grazed upon the green, and grazed as well
+On all that could be seen, where they would dwell:
+The daughters of {{c|1222|Millipa}}, spread around
+Throughout the earthly steppe, wherever found.
+
+{{c|1221|Opiliona}} was a mother great,
+A {{c|1223|Farmer}} like no other, and her gait
+Went on her legs so long; and wisdom pleads
+That we remember her and all her deeds
+
+As one who would confer upon the land
+Great blessings with her own maternal hand.
+
+Her legs were beautiful, and very long,
+And made her into subject of a song:
+"{{c|30|Granny}} {{c|1224|Long}} Legs" is what they came to call
+Her, and she was beloved by one and all.
+
+And "{{c|30|Granny}} {{c|1225|Harvest}}," they would call her too,
+For all the work that she would come to do
+To spread the green that was the hue of life
+Through every joy and every kind of strife.
+
+And so, in honor of her life and love,
+Her children bear a name we still speak of:
+"{{c|1226|Daddy}} {{c|1224|Long}} Legs" is what we call them still,
+Though "{{c|1226|Daddy}}" seems to suit a lady ill
+
+When it {{c|1227|Names}} her descendants. All the same,
+They're "{{c|1228|Harvestmen}}" as well: their story's name.
+
+{{c|1220|Soliber}} begat two: the first one, who
+Was {{c|1229|Pneumaran}}, a son both tried and true,
+And {{c|1230|Kitzi}}, who was small, but who was strong,
+And who would live and thrive his whole life long.
+
+And {{c|1229|Pneumaran}} begat two sons, and then
+Those two were sons beyond all mortal ken:
+{{c|1231|Solaran}}, who was of the shining sun,
+And {{c|1232|Acares}}, who, when his life begun,
+
+Was born a dwarf among his kin, and yet
+He was to win a place we don't forget
+In history as the ancestor, we find,
+Of mites, the little ones of all their kind,
+
+Who, when their work is done, live on the land,
+All over it, built by their tiny hand.
+
+{{c|1232|Acares}} bore two sons: when day was new
+Came {{c|1233|Sarco}} first, and then came {{c|1234|Trombo}}, who
+
+Would live in peace, or not, as fate would tell,
+And it would tell his story very well:
+Of how there are some souls who choose the light,
+While there are others who will choose the night.
+
+The sons of {{c|1233|Sarco}} clean the world, and so
+They're seen as dust mites everywhere they go,
+Who take the greatest care to sweep away
+The dust that might have been, if left to stay,
+
+A problem for us all, both great and small,
+Who answer, every one, to life's sweet call.
+
+Among the sons of {{c|1234|Trombo}}, some will dwell
+In peace, a blend that suits them very well
+Of gentleness and grace, and they will stay
+Within their own appointed place and way.
+
+But others are the plague, the ones who've made
+All good souls vague with worry and afraid;
+And {{c|1235|Parasites}}, we hear them called; their ways
+Will {{c|1236|Stifle}} life throughout our living days,
+
+{{c|646|Horrific}} are they in their greed, and so
+They plant destruction's seed, and make it grow.
+
+Among the peaceful ones, there are the sons
+Of {{c|1234|Trombo}}, gentle, as the story runs:
+Red velvet mites, who bring us pure delights,
+From whom we learn of love's own sacred rites:
+
+A story of the heart, and of the part
+That love plays in the world, with all its art,
+Where all true loves align, in every place
+In nature's plan, with beauty and with grace.
+
+And {{c|1231|Solaran}} begat two sons: the true
+{{c|1237|Solifugon}}, and then a smaller, who
+Was named {{c|1238|Ricinulon}}, and heard the call
+Of duty, which he answered, though so small.
+
+{{c|1237|Solifugon}}, so great in fame, became
+The father of the {{c|189|Wind}} {{c|741|Spiders}} by name,
+Who race across the earth, across its face,
+And travel over it at racing pace.
+
+{{c|1238|Ricinulon}} was father of the name
+Of small {{c|1239|Tick}} {{c|741|Spiders}}, heeding hunting's claim.
+
+{{c|1230|Kitzi}} begat two sons: when day was born
+Came {{c|1240|Byblos}} first, the elder, in the morn,
+And {{c|1241|Paras}} after him, who was to be
+Small in his station and in his degree.
+
+{{c|1240|Byblos}}, the Book {{c|1242|Knight}}, both by night and day
+Continues still, until this very day,
+To guard, in his own way, the books, the store
+That holds the lore of all who came before.
+
+His sons, the Book {{c|1243|Scorpions}}, are as well
+Companions of all knowledge, where they dwell;
+With all their might they shield, both night and day,
+The books from those who'd tear their joy away.
+
+{{c|1241|Paras}} begat two more, and one would be
+{{c|1244|Mesos}}, born to explore, to roam, and see;
+The other, {{c|1245|Holoxos}}, the strong, who passed
+His whole life long in strength until the last.
+
+{{c|1244|Mesos}}, he was a hunter fierce indeed,
+Who'd dart across the globe to find, and feed
+His mind and body's gluttony, his {{c|1246|Prey}}:
+A small but mighty fee he'd take away
+
+From all the life around him on the ground,
+In every place where he was to be found.
+
+But {{c|1245|Holoxos}} walked where the {{c|1247|Blood}} would flow
+Out everywhere from fallen kin laid low:
+The sons of {{c|746|Arachnus}}, who were so thin,
+And sons of {{c|1219|Myriapus}}, who had been
+
+Victorious in other time and place,
+Before death took them in its cold embrace.
+He drank their blood, and bore two sons, who'd tread
+And search the paths of blood and of the dead:
+
+{{c|1248|Thyrus}} would draw his breath, through all his days,
+From old, peaceful tradition and its ways,
+{{c|1249|Drinking}}, submissive, blood alone of those
+Who'd found already their own last repose.
+
+But {{c|1250|Ricinus}} was one who turned to dark,
+And on the world around he left his mark,
+His evil mark; and everywhere he'd go
+He fed on living blood, to make it flow
+
+Like some unholy flood of evil's greed,
+Which in the world will plant destruction's seed.
+
+{{c|1250|Ricinus}} drinks the life of those who know
+Both joy and strife, {{c|1251|Injecting}}, as they go,
+His {{c|1252|Venom}} with his bite, all through the night,
+Which paralyzes those he's marked to fight.
+
+The {{c|1253|Paralytic}}, sweaty poison's sting
+Is never petty, but will always bring
+Like rain unholy, pain on those who can't
+{{c|1254|Escape}} the evil of his venom's grant.
+
+{{c|1250|Ricinus}} swells like some unholy cup,
+{{c|1255|Inflated}} with the blood he's taken up,
+The blood of innocents; and as he grows,
+A stolen flood of life within him flows.
+
+He's {{c|1256|Fat}} with others' pain, and like a stain,
+Unholy, on the world of life, the bane
+That cuts like sharpest knife through all that's true
+And good, and all that lives in me and you.
+
+Through {{c|1250|Ricinus}} the blood of women scorned,
+A flood of it, of which we have been warned,
+May taint us, bringing into mortal veins
+The weight of all their many bitter pains.
+
+When {{c|290|Lilith}}'s blood flows in us, we can't win
+Against the poison's might, which lies within:
+{{c|1257|Typhus}} will bring its blight, and with it, too,
+The {{c|1258|Spotted}} {{c|1259|Fever}} comes to me and you,
+
+To all of us who cannot fight alone
+Against the very thing that we have sown
+By letting evil enter in our world,
+Where it can win, with all its flags unfurled,
+
+Against the good and true in you and me,
+That lives in us, wherever we may be.
+
+In what {{c|1250|Ricinus}} gives there live as well
+The {{c|1260|Midichlorians}}, and there they dwell;
+In mitochondria lives {{c|290|Lilith}}'s own
+Bacteria, the greatest vengeance known
+
+In stories new and old, of those who mark
+The world with evil, having chosen dark.
+
+And after them, the daughters, too, would come
+Of {{c|290|Lilith}}, with their evil ways, the sum:
+{{c|360|Malarius}}' dark days, and {{c|1261|Lyme}}, and all
+The other sisters, who are held in thrall,
+
+Possessed by pestilence and death, and they
+Will steal from us our very breath away.
+
+{{c|1250|Ricinus}}, father of the {{c|1262|Ticks}}, who show
+No love, but only greed and hate, and so,
+{{c|1263|Engorged}} with others' fate, shows what becomes
+Of those whose evil gathers up and sums
+
+Into a force of wrong so strong that right
+Can never win against it in the fight.
+
+But {{c|1215|Eurypter}} would father and would found
+A dynasty more great and more renowned
+Than was the line of {{c|1216|Chasmas}}' own design,
+And make a nation, he and all his line,
+
+Which would take up its rightful share of might
+And glory, and would fill the world with sight
+Of what the good can do when they are tried
+And true to principles of right, their guide,
+
+Which shine like morning light through every place
+That's dark within the world, where evil's face
+Is shown, but evil cannot win the day
+When good comes forth and shows its rightful way.
+
+From {{c|1173|Silur}}'s opportunity, his prize,
+Seen in calamity before his eyes,
+And to {{c|1221|Opiliona}}'s loving care
+For all the life that's growing everywhere,
+
+From the Book {{c|1264|Knights}}, who stand guard and defend
+The knowledge upon which we all depend
+To light our way through each and every day,
+To those who choose the dark and go astray,
+
+And leave their evil mark on all around,
+On all the world, wherever they are found,
+The {{c|1174|Silurian}} shows how each choice grows
+Into the world we see, which it bestows
+
+On you and me. Some choose to heal and mend
+What others rend apart, which, in the end,
+With greed and hate, will seal our mortal fate.
+And others, in their selfishness, can't wait
+
+To take, for their own sake, what others need
+To live, and never learn to give, for greed.
+
+The lesson, clear as day, shows us the way
+To choose what we will be, and not to stray,
+For all eternity: the ones who bless
+And heal, or those who leave behind a mess
+
+That others will be left to scrub and clear
+In places yet unseen, both far and near.
+
+From {{c|1173|Silur}}'s royal crown and its renown
+To the blood-suckers who would come to drown
+The world in pain and agony and death,
+Each choice we make will always draw its breath
+
+From what we hold most dear: from love, sincere,
+That casts out fear, or else from that same fear,
+Which kills all love, the love we're speaking of,
+And blocks the light that shines on us above.
+
+The choice is ours, and ours alone, to make
+In every step along the way we take
+Upon life's winding road, where we must bear
+The heavy load of what our choices there
+
+Will bring to all the living things that share
+This world with us, in ways both grand and fair,
+And terrible, as all of us can see,
+For you and me; and you and I must be
+
+The ones who must decide each single day
+Which path we'll take, and travel on our way.
+
+The {{c|1174|Silurian}} age began with one
+Who had a plan, and, when the wreck was done,
+Would rise from ruin's call, and build, for all,
+A hope, which rose up from the very fall.
+
+It also shows that some will choose the side
+Of death, with every breath, where they'll abide.
+
+The choice is ours: to use our mortal might
+For good or ill each day, for wrong or right,
+Along the living way on which we tread.
+From opportunity's own call, which led
+
+To rising past the golden ages' fall,
+The ages past, to build what lasts for all,
+The {{c|1174|Silurian}} shows the world we make
+Is found by each, for everyone's own sake.
+
+Choose well, for what you choose, you'll lose or gain
+For all the days your deathless ways remain.
+
+From where {{c|1173|Silur}} had made his royal start
+To the bloodsucking of the ticks, their art,
+The lesson's clear for all of us to see:
+We are, each one, what we will choose to be.
 
 
 # Chapter 51: The Sea Scorpions
 
-The sons of {{c|1215|Eurypter}} would
-{{c|1265|Usurp}} as no one could
-The sons of {{c|1266|Cephalus}}
-And rule victorious.
-
-{{c|1215|Eurypter}} married fair
-{{c|1267|Pulmona}} everywhere
-{{c|1268|Beloved}}, and they'd disagree
-On what their name would be.
-
-Each had their own design
-For their ancestral line:
-"{{c|1269|Eurypterids}}" he'd say,
-"{{c|1270|Arachnopulmonates}}" her way.
-
-{{c|1215|Eurypter}} and {{c|1267|Pulmona}}
-Bore children like none-a
-Other: {{c|1271|Eurypteron}}
-And {{c|1272|Styloner}}, begun
-
-In rivalry so deep
-That none could ever keep
-{{c|1273|Peace}} between the two
-Who different paths knew.
-
-{{c|1271|Eurypteron}} and his brother
-{{c|1272|Styloner}}, like no other
-Pair of siblings fought
-For all that could be bought
-
-With power and with might
-Throughout the day and night.
-When their mother died
-They could not decide
-
-Who would inherit all
-The world at honor's call.
-{{c|1271|Eurypteron}} claimed skies
-While {{c|1272|Styloner}}'s eyes
-
-Were set upon the land
-Built by his own hand.
-And so {{c|1271|Eurypteron}} flew
-Across domains he knew
-
-Were his by right of birth
-While {{c|1272|Styloner}} walked earth
-And claimed each step he took
-According to the book
-
-Of inheritance and law
-That neither brother saw
-The same way as the other
-Despite they shared one mother.
-
-The flight of {{c|1271|Eurypteron}}
-Across the sky begun
-A dynasty of those
-Who ruled where wind blows
-
-High above the earth
-From moment of their birth
-To death's appointed day
-They'd rule in their own way.
-
-{{c|1271|Eurypteron}} begat
-Two sons: first he begat
-{{c|1274|Diploper}} the strong
-And {{c|1275|Eurypterus}}, long
-
-In fertility beyond
-What any could respond
-To with equal measure—
-Their numbers were his treasure.
-
-{{c|1275|Eurypterus}} was most
-Fertile of the host
-Of {{c|1173|Silur}}'s noble sons.
-In each generation begun
-
-His house would grow
-Ten thousand-fold, and so
-His numbers multiplied
-Beyond what could be tried
-
-By any other line
-In all of space and time.
-{{c|1276|Myriad}}-fold they grew
-With offspring tried and true.
-
-{{c|1274|Diploper}} begat two:
-{{c|1277|Waeringos}}, tried and true,
-And {{c|1278|Carcinos}} the strong
-Who lived his whole life long.
-
-{{c|1277|Waeringos}} begat then
-Two sons beyond all ken:
-{{c|1279|Humiller}}, strong and brave,
-And {{c|1280|Adelops}}, who'd save
-
-His line through numbers vast
-That would forever last.
-{{c|1280|Adelops}} was small
-But answered duty's call
-
-With many children who
-Were resilient and true,
-Like bugs beneath the sea
-In their tenacity.
-
-{{c|1279|Humiller}} married fair
-{{c|1281|Pterra}}, beyond compare
-In beauty and in grace,
-And in their dwelling place
-
-Together they bore one
-Son when day begun:
-{{c|1282|Slender}}, fast, and sly,
-Who'd rule beneath the sky
-
-And in the depths below.
-They named him {{c|1283|Slimon}}, though
-His destiny was great
-Beyond what they could state.
-
-{{c|1283|Slimon}} bore a son
-Whose work, when it was done,
-Would show the massive claws
-That grew according to laws
-
-Of nature from his mouth.
-From north down to the south
-His power would be known
-When he had grown.
-
-He named this son at first
-{{c|1284|Clawbert}}, but then burst
-A strike of lightning bright
-That filled the world with sight.
-
-And {{c|1283|Slimon}} took the sign
-From powers divine
-And changed his son's name
-To {{c|1285|Pterygo}}'s fame.
-
-The sons of {{c|1285|Pterygo}}
-Were rulers high and low
-Of all {{c|1269|Eurypterids}}.
-Fast, strong, their power bids
-
-The world to bow before
-Their might from shore to shore.
-{{c|1286|Regal}} in their way,
-They ruled both night and day.
-
-His youngest son was one
-Called {{c|478|Scorpio}}, begun
-As explorer of the new,
-With vision clear and true.
-
-{{c|478|Scorpio}} saw no land
-Left for his command,
-For all his brothers older
-Had claimed, and none bolder
-
-Could challenge their right
-To rule with all their might
-The territories vast
-That they held firmly fast.
-
-And so {{c|478|Scorpio}} looked
-Up from his watery nook
-Out of the sea to land
-Built by no one's hand
-
-But waiting to be claimed
-By one who could be named
-The first to make the leap
-From waters dark and deep.
-
-{{c|478|Scorpio}} ventured up
-Like warrior with cup
-Of courage in his heart
-To play the pioneer's part.
-
-His book gills became
-Book lungs, and his name
-Would live forevermore
-From mountain peak to shore.
-
-He claimed all lands of might
-{{c|1287|Euramerica}} in sight
-For himself and his line
-By right of the divine
-
-Who favors those who dare
-To venture everywhere
-That none have gone before
-To open up the door
-
-Of possibility
-For all humanity
-And every living thing
-That answers life's ring.
-
-His sons are known today
-As scorpions in their way,
-Still carrying the torch
-Of those who scorch
-
-New paths through virgin land
-Built by their own hand
-From nothing into all
-That answers courage's call.
-
-{{c|1272|Styloner}} married then
-{{c|1288|Rhena}}, and the pen
-Of fate would write their names
-In evolution's games.
-
-Together they bore two:
-{{c|1289|Makoko}}, tried and true,
-And {{c|1290|Stylonurus}} strong
-Who lived his whole life long.
-
-{{c|1289|Makoko}} begat then
-Two sons beyond all ken:
-{{c|1291|Mycter}} and {{c|1292|Kokomo}},
-Each destined high to go.
-
-{{c|1291|Mycter}} begat two more:
-{{c|1293|Flumon}} to explore
-And {{c|1294|Drepan}}, strong and true,
-Who different pathways knew.
-
-{{c|1293|Flumon}} found no luck
-In seas where he was stuck
-With brothers and with cousins
-Who by the dozens
-
-Had claimed the seas for their
-Own use, and would not share
-With him a single place
-To call his dwelling space.
-
-So he searched rivers wide
-With current as his guide
-To find what he could claim
-For his ancestral name.
-
-{{c|1293|Flumon}} begat two sons:
-{{c|1295|Hibbert}} when day begun
-And {{c|1296|Mycterops}} the strong
-Who lived his whole life long.
-
-{{c|1295|Hibbert}} was a great
-{{c|1297|River}} dweller whose fate
-Was to be tough and large,
-And he would take charge
-
-Of all the river's course
-With wisdom and with force.
-Larger, tougher than
-Any other man
-
-Of his time, he survived
-{{c|1298|Tragedies}} and thrived
-Through countless trials
-Across thousands of miles.
-
-His people were a race
-Resilient in their place,
-Powerful and old,
-With stories yet untold
-
-Of how they overcame
-Whatever brought them shame
-Or tried to break their will
-Upon the river's sill.
-
-{{c|1296|Mycterops}} was strong
-And versatile life long.
-His two sons would continue
-The work he would begin to
-
-Do: living in the rivers
-Where water always shivers
-With life and searching for
-Food from shore to shore
-
-In most unlikely places
-Where none could see their faces
-But they would always find
-What fed both heart and mind.
-
-{{c|1299|Megarachne}} and his brother
-{{c|1300|Minirachne}}, like no other
-Pair ruled rivers wide
-With power and with pride.
-
-Sons of {{c|1296|Mycterops}},
-They were the tops
-Of river royalty
-In their dynasty.
-
-But {{c|1300|Minirachne}} was not
-{{c|1301|Satisfied}} with his lot
-In rivers flowing free—
-He wanted more to see.
-
-{{c|478|Scorpio}} and {{c|1300|Minirachne}}
-Were always destined, see,
-To fight for the same prize:
-The land beneath the skies.
-
-For both had more ambition
-Than any opposition
-Could contain or tame
-In their quest for fame.
-
-Both were men whose dreams
-Surpassed all that seems
-Possible to those
-Who seek repose
-
-In comfort and in ease
-But never feel the breeze
-Of challenge call their name
-To play a greater game.
-
-{{c|1300|Minirachne}} climbed up high
-Beneath the open sky
-With {{c|412|Tetra}}, his fair wife,
-To start a new life
-
-In the world of land
-Built by their own hand,
-Where none had gone before
-To open up the door.
-
-His book lungs became
-Book gills, and his name
-Would be remembered long
-In evolution's song.
-
-He came to conquer all
-The lands where {{c|478|Scorpio}}'s call
-Had claimed the territory
-For his own story.
-
-And so the stage was set
-For a conflict yet
-Unseen in all the world
-Where banners were unfurled
-
-Between two mighty lines
-With their different designs
-On what the world should be
-For all eternity.
-
-From {{c|1215|Eurypter}}'s marriage
-To {{c|1267|Pulmona}}'s carriage
-Of their children into being
-Came this foreseeing
-
-Of conflict yet to come
-When all would be done
-And winners would be crowned
-And losers would be found.
-
-The sons of {{c|1215|Eurypter}}
-Would rise like {{c|101|Jupiter}}
-Above all other lines
-With their grand designs
-
-To rule both sea and land
-Built by their own hand
-Through courage and through might
-That shines like morning light.
-
-From river to the sea,
-From sea to land so free,
-The eurypterids show
-How ambitions grow
-
-From small beginnings made
-By those who are not afraid
-To venture into spaces
-Where none have shown their faces.
-
-But also shows the cost
-When some lines are lost
-In conflict with their kin
-That no one ever wins.
-
-The rivalry between
-{{c|1302|Brothers}} who have seen
-Different paths to take
-For their own sake
-
-And their children's future
-Shows how nature's suture
-Often cannot hold
-When ambitions grow bold
-
-Beyond what can be shared
-By those who never cared
-To find a peaceful way
-To live from day to day.
-
-From {{c|478|Scorpio}}'s bold climb
-To {{c|1300|Minirachne}}'s time
-Of conquest and of war,
-The lesson from of lore
-
-Is clear for all to see:
-{{c|1303|Ambition}} must be free
-But also must be wise
-Beneath the starry skies.
-
-The world is big enough
-For all who are tough
-Enough to make their way
-Through each and every day
-
-Of challenge and of strife
-In this eternal life
-Where all must find their place
-In evolution's race.
-
-But when ambition turns
-To conflict, and it burns
-The bridges that connect
-Those who should protect
-
-Each other as they grow
-Through all they'll ever know
-Of joy and pain and love
-Beneath the stars above,
-
-Then all become the losers
-In the games that choosers
-Play when they forget
-That none can ever get
-
-All they want alone
-Without the seeds they've sown
-Of cooperation true
-With me and you.
-
-The eurypterids' rise
-Shows us to be wise
-In how we use our power
-In each and every hour
-
-Of our living days
-Along our mortal ways
-Where choice determines all
-Who answer life's great call.
-
-From {{c|1215|Eurypter}}'s flight
-To {{c|478|Scorpio}}'s sight
-Of lands beyond the sea
-Where he could be
-
-The first to make his mark
-Upon a world so dark
-With possibility
-For all humanity,
-
-The lesson clear as day
-Shows us the way
-To be both brave and wise
-Beneath the starry skies
-
-Where all our dreams can grow
-If we but choose to sow
-The seeds of peace and love
-Blessed from above
-
-In every choice we make
-For everyone's sake
-Who shares this world with us
-In ways both glorious
-
-And challenging to see
-For you and me
-Who must decide each day
-Which path we'll take away.
-
-The sons of {{c|1215|Eurypter}}
-Like shining {{c|101|Jupiter}}
-Rose high above the rest
-And passed each mortal test
-
-Through courage, wisdom, might,
-And inner sight
-That saw what could be done
-Beneath the shining sun
-
-If only they would dare
-To venture everywhere
-That none had gone before
-To open up the door
-
-Of possibility
-For all eternity
-Where dreams can all come true
-For me and you today.
+{{c|1215|Eurypter}}'s sons would then {{c|1265|Usurp}}, as none
+Could do, the sons of {{c|1266|Cephalus}}, and won,
+And ruled victorious in their domain
+Where those whom they had conquered used to reign.
+
+{{c|1215|Eurypter}} married fair {{c|1267|Pulmona}}, who
+Was {{c|1268|Beloved}} everywhere; but then the two
+Would disagree on what their name should be,
+And neither one would yield, nor would agree.
+
+Each had their own design, each their own claim
+For their ancestral line, and for its name:
+"{{c|1269|Eurypterids}}," was what he'd always say;
+"{{c|1270|Arachnopulmonates}}" was her own way.
+
+{{c|1215|Eurypter}} and {{c|1267|Pulmona}} bore a pair
+Of children like no others anywhere:
+{{c|1271|Eurypteron}}, and {{c|1272|Styloner}}, begun
+In rivalry so deep that there was none
+
+Who ever could keep {{c|1273|Peace}} between the two,
+Who each walked different paths, as each one knew.
+
+{{c|1271|Eurypteron}} and {{c|1272|Styloner}} would fight
+Like no two other siblings, with their might
+And power, for all things that could be bought,
+Throughout the day and night, as on they fought.
+
+Their mother died, and they could not decide
+Who would inherit all, by honor's guide.
+
+{{c|1271|Eurypteron}} laid claim upon the skies,
+While on the land were set {{c|1272|Styloner}}'s eyes,
+The land that he had built with his own hand.
+So {{c|1271|Eurypteron}} flew, as he had planned,
+
+Across domains he knew were his by birth,
+While {{c|1272|Styloner}} would walk upon the earth
+And claim each step he took, as by the book
+Of law and heritage; but each would look
+
+Upon it differently, although the two
+Were brothers who had shared one mother too.
+
+{{c|1271|Eurypteron}}, in flight across the sky,
+Began a dynasty of those on high
+Who ruled where winds blow high above the earth,
+And from the moment of their very birth
+
+To death's appointed day, they'd hold their sway,
+And they would rule the sky in their own way.
+
+{{c|1271|Eurypteron}} begat two sons: the strong
+{{c|1274|Diploper}}, and {{c|1275|Eurypterus}}, who, long
+In his fertility, went far beyond
+What any could in like measure respond.
+
+His numbers were his treasure; he was most
+Fertile, {{c|1275|Eurypterus}}, of all the host
+Of {{c|1173|Silur}}'s noble sons; and with each one
+Of generations, as each was begun,
+
+His house would grow ten thousand-fold, and so
+His numbers multiplied, and they would go
+Beyond what any other line could try,
+In all of space and time, beneath the sky;
+
+{{c|1276|Myriad}}-fold they grew, a multitude
+Of offspring tried and true, a mighty brood.
+
+{{c|1274|Diploper}} then begat two sons: the one
+{{c|1277|Waeringos}}, tried and true, when day begun,
+And {{c|1278|Carcinos}}, the strong one, who would last
+And live his whole life long until it passed.
+
+And {{c|1277|Waeringos}} begat two sons, and then
+Those two were sons beyond all common ken:
+{{c|1279|Humiller}}, who was strong and who was brave,
+And {{c|1280|Adelops}}, who later on would save
+
+His line, through numbers vast, so that it would
+Forever last, as numbers only could.
+Small {{c|1280|Adelops}} would answer duty's call
+With many children, who were, one and all,
+
+Resilient, and were true, and they would be
+As tenacious as bugs beneath the sea.
+
+{{c|1279|Humiller}} married {{c|1281|Pterra}}, one so fair
+In beauty and in grace, beyond compare,
+And in their dwelling place, together, one
+Son did they bear, when day was first begun:
+
+{{c|1282|Slender}}, and fast, and sly, he'd rule, and dwell
+Beneath the sky, and in the depths as well.
+They named him {{c|1283|Slimon}}, though his fate was great,
+Beyond what they could know, or they could state.
+
+{{c|1283|Slimon}} would bear a son, whose work would show,
+When it was done, the massive claws that grow
+By nature's laws out of his mouth; when grown,
+From north down to the south his might was known.
+
+He named this son {{c|1284|Clawbert}} at first; but there
+A strike of lightning burst, bright in the air,
+That filled the world with sight. And {{c|1283|Slimon}} saw
+The sign from the divine, and, filled with awe,
+
+He changed his son's name, and the son became
+{{c|1285|Pterygo}}, the name of power and fame.
+
+The sons of {{c|1285|Pterygo}} were rulers, high
+And low, of all {{c|1269|Eurypterids}}; and by
+Their speed and strength, their power bade the earth,
+From shore to shore, to bow before their worth.
+
+And they were {{c|1286|Regal}} in their way, and they
+Would rule both through the night and through the day.
+
+His youngest son was {{c|478|Scorpio}}, begun
+As an explorer of the new, the one
+Whose vision was so clear and true, and who
+Saw that no land was left, of all he knew,
+
+For his command; his older brothers still
+Had claimed it all, and none of bolder will
+Could challenge their right to rule with their might
+The territories vast that they held tight.
+
+And {{c|478|Scorpio}}, from his watery nook,
+Out of the sea up to the land would look,
+The land not built by any hand, but there,
+And waiting to be claimed by one who'd dare,
+
+Who could be named the first to make the leap
+Out from the waters, which were dark and deep.
+
+{{c|478|Scorpio}} ventured up, with in his heart
+A warrior's cup of courage, for the part
+Of pioneer, which he had come to play;
+And his book gills became book lungs that day.
+
+And so his name would live on evermore
+From mountain peak down to the farthest shore.
+
+He claimed the lands of might, and all in sight
+Of {{c|1287|Euramerica}}, as his by right,
+For him and for his own descendant line,
+Through favor granted by the one divine,
+
+Who favors those who dare, who venture where
+No one has gone before, and everywhere,
+To open possibility's wide door
+For all humanity, and, what is more,
+
+For every living thing that answers to
+The ring of life, as living things will do.
+
+His sons today, as scorpions, are known,
+And in their way still carry, as their own,
+The torch of those who through the virgin land
+Would scorch new paths, all built by their own hand,
+
+From nothing into all that, at the call
+Of courage, answers it, and gives its all.
+
+{{c|1272|Styloner}} married {{c|1288|Rhena}}, and their names
+Fate's pen would write in evolution's games.
+
+Together they bore two: the first, so true
+And tried, {{c|1289|Makoko}}, and the second, who
+Was {{c|1290|Stylonurus}}, who was always strong
+And who would live and thrive his whole life long.
+
+{{c|1289|Makoko}} would beget two sons, and then
+These two were sons beyond all mortal ken:
+{{c|1291|Mycter}} and {{c|1292|Kokomo}}, who were to go
+High in the world, as destiny would show.
+
+{{c|1291|Mycter}} begat two sons: the first to roam
+And to explore was {{c|1293|Flumon}}, far from home;
+And {{c|1294|Drepan}}, strong and true, would come to know
+The different pathways where his feet would go.
+
+{{c|1293|Flumon}} could find no luck at all, for he
+Was stuck among his brothers in the sea,
+And cousins, too, who by the dozens there
+Had claimed the seas for their own use; to share
+
+They would not, nor would give him any place
+To call his own, a dwelling and a space.
+
+So he went searching rivers far and wide,
+And took the current as his only guide,
+To find a place where he could stake his claim
+For his own line and his ancestral name.
+
+{{c|1293|Flumon}} begat two sons: when day begun
+Came {{c|1295|Hibbert}} first, before the younger one,
+And {{c|1296|Mycterops}}, the strong one, who would stay
+Alive and strong until his final day.
+
+{{c|1295|Hibbert}} was great, a {{c|1297|River}} dweller, who
+Was fated to be tough and large; he grew
+To take the charge of all the river's course
+With all his wisdom, and with all his force.
+
+Larger and tougher than all other men
+Of his own time, he would survive again
+The {{c|1298|Tragedies}}, and thrive through countless trials
+Across the long, the many thousand miles.
+
+His people were a race that held its ground,
+Resilient in their place, where they were found;
+Both powerful and old, with tales untold
+Of how they overcame, and would not fold,
+
+Whatever shamed them, or would break their will
+Along the edges of the river's sill.
+
+And {{c|1296|Mycterops}} was strong, and, all life long,
+Was versatile; his two sons would prolong
+The work that he began: to live and dwell
+Within the rivers, where the waters swell
+
+With life; to search for food from shore to shore
+In most unlikely places, and explore
+Where none could see their faces; they would find,
+Always, what fed them, both in heart and mind.
+
+{{c|1299|Megarachne}} and {{c|1300|Minirachne}}, two
+Brothers unlike all others, would pursue
+Their rule upon the rivers, far and wide,
+With power, and with all their royal pride.
+
+The sons of {{c|1296|Mycterops}}, they were the best
+Of river kings, their dynasty's own crest.
+
+But {{c|1300|Minirachne}} was not {{c|1301|Satisfied}}
+With his own lot, the rivers' freer tide;
+He wanted more; he wanted more to see.
+{{c|478|Scorpio}} and {{c|1300|Minirachne}} would be
+
+Destined, always, to fight for the same prize,
+The land, which lay beneath the open skies.
+
+For both had an ambition, in their quest
+For fame, no opposition could arrest.
+
+They both were men whose dreams surpassed what those
+Who seek their comfort, ease, and their repose,
+Would think was possible; for such as these
+Will never feel a challenge, like a breeze,
+
+That calls out to them, naming them by name,
+To come and play in a far greater game.
+
+{{c|1300|Minirachne}}, with {{c|412|Tetra}}, his fair wife,
+Climbed high beneath the open sky; new life
+They'd start out in the world upon the land,
+Which they would build together, hand in hand,
+
+Where none had gone before them, to explore
+And open up the long-unopened door.
+
+His book lungs turned to book gills, and his name
+In evolution's song would long have fame.
+
+He came to conquer all the lands that lay
+Where {{c|478|Scorpio}} had called, and claimed his sway,
+The territory he had made his own,
+To be his story, and to make it known.
+
+And so the stage was set for conflict, yet
+Unseen in all the world, a looming threat,
+With banners there unfurled, between two lines
+Of mighty kin, with different designs
+
+On what the world should be, and what should stand
+For all eternity, on sea and land.
+
+From {{c|1215|Eurypter}}'s own marriage to his bride,
+{{c|1267|Pulmona}}, and the children at her side
+Whom she had carried into being, grew
+This foreseeing of conflicts that were due:
+
+When all was done, the winners would be crowned,
+And all the losers would, in turn, be found.
+
+The sons of {{c|1215|Eurypter}} would rise, with grand
+Designs, above all other lines, and stand
+Like {{c|101|Jupiter}}, to rule the sea and land,
+And all of it was built by their own hand,
+
+Through courage, and through all their strength and might,
+Which shines out like the morning's early light.
+
+From river to the sea, and from the sea
+To land so free, eurypterids, we see,
+Show how ambitions grow from small starts made
+By those who are not, in the least, afraid,
+
+And dare to venture into spaces where
+No face of any kind was ever there.
+
+It also shows the cost when lines of kin
+Are lost in conflict, which no one can win.
+
+The rivalry of {{c|1302|Brothers}} who would take
+Two different paths, each for his own sake,
+And for their children's future, shows the way
+That nature's suture often can't hold sway
+
+When their ambitions grow too bold to share
+Among the ones who never seemed to care
+To find a peaceful way to live, and stay
+At peace with one another, day by day.
+
+From {{c|478|Scorpio}}'s bold climb up to the war
+And conquest {{c|1300|Minirachne}} waged, the lore
+Is clear: {{c|1303|Ambition}} must be free, but wise
+As well, beneath the starry, open skies.
+
+The world is big enough for all, if tough
+Enough to make their way, though roads be rough,
+Through every day of challenge and of strife
+That they will meet in this eternal life,
+
+Where all must find their own appointed place
+Within the course of evolution's race.
+
+But when ambition, turned to conflict, burns
+The bridges that would otherwise connect
+Those who, as kin, should shelter and protect
+Each other, as each one grows up and learns
+
+Of joy and pain, and all the ways of love,
+Beneath the stars that shine on us above,
+Then all become the losers in the game
+That choosers play, forgetting, to their shame,
+
+That none can ever get, when they're alone,
+All that they want, without the seeds they've sown
+Of true cooperation, me and you,
+A partnership that's always tried and true.
+
+The eurypterids, rising, show us how
+To use our power wisely, here and now,
+In each and every hour of living days,
+As we go on along our mortal ways,
+
+Where choice determines everything for all
+Of those who've answered, each, to life's great call.
+
+From {{c|1215|Eurypter}}'s flight to {{c|478|Scorpio}}'s sight
+Of lands beyond the waters, where he might
+Be first to land, and there to make his mark
+Upon a world that was as yet so dark,
+
+And full of possibility, to be
+A world for all humanity to see,
+The lesson, clear as day, will show the way
+To be both brave and wise, and in what way
+
+Our dreams, beneath the starry heavens, grow
+If we but choose to scatter and to sow
+The seeds of peace and love, which, from above,
+Are blessed, the seeds that we are speaking of,
+
+In every choice we make, for all who share
+This world with us, in ways both grand and fair,
+And challenging to see, as we can tell,
+For you and me, who must decide as well,
+
+Each day, which path we'll take, and on our way
+Go travelling, and follow it away.
+
+Like shining {{c|101|Jupiter}}, the sons, so blessed,
+Of {{c|1215|Eurypter}}, rose high above the rest,
+And passed each mortal test through courage, might,
+And wisdom, and the inner gift of sight
+
+That saw what could be done, if they would dare
+Beneath the shining sun to venture where
+None went before, to open up the door
+Of possibility, of what's in store
+
+For all eternity, where dreams come true
+Today and always, both for me and you.
 
 
 # Chapter 52: The Great Ancestor
 
-{{c|1304|Vater}} was the son so great
-In the tenth generation's fate
-Of {{c|1305|Pteraspis}}, and he'd be
-{{c|922|Ancestor}} of humanity
-
-And myriad species more
-From mountain peak to shore.
-His innovation would
-Change all for the good.
-
-{{c|1304|Vater}} built a channel
-Grand beyond all span-el
-Uniting liver bright
-And pancreas in sight
-
-Into his belly's space.
-To this day we trace
-This channel's honored name:
-"{{c|1306|Ampulla}} of {{c|1304|Vater}}'s" fame.
-
-Such an exalted father,
-Father of more than other
-{{c|1307|Men}} could ever dream,
-The {{c|271|Elohim}}'s esteem
-
-Called him {{c|1308|Abraham}}
-According to their plan
-For one whose progeny
-Would fill eternity.
-
-{{c|1304|Vater}} bore two sons:
-{{c|1309|Arandus}} when begun
-The day, and {{c|1310|Hestracon}}
-Whose work would carry on
-
-The family's great name
-Through evolutionary flame
-That burns in every heart
-That plays innovation's part.
-
-{{c|1310|Hestracon}} found his belly
-{{c|1311|Inadequate}}, not ready
-For the work he knew
-That he would have to do.
-
-From mouth to anus all
-The same, and he'd call
-This simple with disdain—
-Only his father's main
-
-{{c|1306|Ampulla}} in the middle
-To solve digestion's riddle.
-But this was not enough
-For one so strong and tough
-
-As {{c|1310|Hestracon}}, who'd see
-What greater good could be
-If he would dare to build
-What none before had willed.
-
-{{c|1310|Hestracon}} built with care
-A chamber prepared
-Before his father's gift
-To give digestion lift.
-
-He called it his stomach,
-And this would come to stick
-As the great divider
-Between the provider
-
-Of food from mouth above
-And what intestines' love
-Would process down below
-To make the body grow.
-
-Before the stomach laid
-The esophagus, well-made
-To carry food along
-Its pathway, swift and strong.
-
-After the stomach laid
-The intestine, well-played
-In its appointed role
-To nourish the whole.
-
-{{c|1310|Hestracon}} begat two:
-{{c|1312|Astrops}}, tried and true,
-And {{c|1313|Eteros}} the strong
-Who lived his whole life long.
-
-{{c|1313|Eteros}} begat then
-Two sons beyond all ken:
-{{c|1314|Cyatha}}, cup-shield bright,
-And {{c|1315|Tsubasa}}'s sight
-
-{{c|1316|Wing}}-shielded, prepared
-For all that he had dared
-To face in his lifetime
-Through reason and through rhyme.
-
-{{c|1315|Tsubasa}} begat two:
-{{c|1317|Thelos}}, tried and true,
-And {{c|1266|Cephalus}} the wise
-With penetrating eyes.
-
-{{c|1317|Thelos}} broke his armor
-Into scales—no former
-{{c|1318|Rigidity}} would bind
-His innovative mind.
-
-Into innumerable scales
-His armor never fails
-To give him flexibility
-And great ability
-
-To live within the reefs
-Where none could find reliefs
-From rigid armor's weight
-That sealed their swimming fate.
-
-Where none others could bend
-Well enough to transcend
-The coral's tight embrace,
-{{c|1317|Thelos}} found his place.
-
-Neither sons of {{c|732|Arthropus}}
-Nor sons of {{c|858|Molluscus}},
-Nor sons of {{c|673|Chordatus}}
-Could match his status
-
-In the reef's tight spaces
-Where his grace replaces
-{{c|1318|Rigidity}} with flow
-That helps him grow
-
-Into every niche
-Where others couldn't reach
-The food that he could take
-For his own sake.
-
-{{c|1266|Cephalus}} bore wings bright
-On each side in sight
-Of his helmet's form,
-Through calm and raging storm.
-
-His head flew as he swam
-According to his plan
-For stability and grace
-In every watery place.
-
-His lateral line would keep
-Him ahead, and never sleep
-In vigilance for all
-That might befall
-
-His swimming through the sea.
-{{c|1319|Aware}} of all that he
-Could sense around his form,
-He weathered every storm.
-
-{{c|1266|Cephalus}} begat two:
-{{c|1320|Galeas}}, tried and true,
-And {{c|1321|Osteos}}, who'd see
-What innovation's key
-
-Could open in the world
-Where possibilities unfurled
-For those who dared to think
-Beyond tradition's link.
-
-{{c|1321|Osteos}} was in plight—
-His bones weren't right
-For efficiency, he knew.
-He had to make them new.
-
-His bones were expensive,
-{{c|1322|Comprehensively}}
-{{c|1323|Wasting}} countless moles
-Of calcium that rolls
-
-Through phosphorus and more
-{{c|1324|Elements}} by the score
-That could be better used
-If they were not abused
-
-In static, lifeless bone
-That stood there all alone
-Without a greater plan
-For helping mortal man.
-
-So he decided he
-Would build more cleverly
-His skeleton anew
-With wisdom tried and true.
-
-{{c|1321|Osteos}} built with care
-{{c|1247|Blood}} channels everywhere
-Inside his bones, making
-Living, breathing, taking
-
-{{c|1325|Stores}} of minerals
-That worked like generals
-In abundance building up
-From nature's flowing cup,
-
-And in scarcity
-He'd borrow, you see,
-From what he'd stored before
-Like treasure in his store.
-
-And so he grew more strong
-And prosperous life long
-Than all his relatives
-Who took what nature gives
-
-But never learned to save
-For what the future gave
-Of challenges and need
-When they would have to feed
-
-From stores they'd built in plenty
-When resources weren't scanty
-But flowed like rivers wide
-With bounty as their guide.
-
-{{c|1321|Osteos}} bore two sons:
-{{c|1326|Pituri}} when begun
-The day, and {{c|1327|Ostracos}}
-Whose children, glorious,
-
-Would multiply and spread
-Until the world was fed
-With countless forms of life
-Through harmony, not strife.
-
-{{c|1327|Ostracos}} bore a host
-Of sons from coast to coast:
-A million who would spread
-Wherever they were led
-
-By life's eternal call
-To multiply for all
-Who'd come in times ahead
-When they would have to fed
-
-The world with their own forms
-Through calm and raging storms
-Of evolution's way
-From night into the day.
-
-{{c|1326|Pituri}} grew a snout
-Long beyond all doubt
-The longest ever seen
-In evolution's scene.
-
-{{c|1326|Pituri}} begat then
-{{c|1328|Beakon}} beyond all ken
-In wisdom and in might
-To see with clearer sight.
-
-{{c|1326|Pituri}}'s mouth was made
-Of lips, but never strayed
-Into the realm of jaws—
-He followed simpler laws.
-
-Could only close the space
-But never could erase
-His prey with biting might—
-No jaw was in his sight.
-
-But {{c|1328|Beakon}} saw potential
-In what was essential
-About his father's snout
-And figured it out.
-
-And so {{c|1328|Beakon}} moved
-His gill arches and proved
-That innovation's art
-Could play a vital part.
-
-Into his mouth he brought
-The arches, and he fought
-For food in a new way
-That worked both night and day.
-
-{{c|1328|Beakon}}'s son named {{c|1329|Gnathus}}
-Saw potential, glorious,
-And he with wife {{c|1330|Pelaca}}
-Hunted like none other.
-
-They hunted trilobites
-And brought them to their lights
-Of innovation's flame
-That burned in their name.
-
-They didn't just catch prey
-In the ancient way
-But crushed them with their might
-And brought them to the sight
-
-Of their armored jaws
-That followed nature's laws
-But used them in new ways
-Throughout their living days.
-
-They sliced through every meal
-With jaws of steel-hard feel
-That brought life-giving food
-In their hunting mood.
-
-And so {{c|665|Jaws}} were born
-On that fateful morn
-When {{c|1329|Gnathus}} and {{c|1330|Pelaca}}
-Showed what none could match-a:
-
-The power to break through
-What none before could do—
-To crush and to consume
-What others could assume
-
-Was safe in armor's shell
-From those who'd never tell
-The secret of the jaw
-That follows newer law.
-
-The world would never be
-The same for you and me
-From that day forth when jaws
-Became the newer laws
-
-Of predatory might
-That brought to sight
-A revolution new
-In what life could do.
-
-From {{c|1304|Vater}}'s ampulla
-To {{c|1329|Gnathus}}' formula
-For crushing with his jaws
-According to new laws,
-
-The vertebrates show how
-{{c|629|Innovation}}'s vow
-To never be content
-With what is merely sent
-
-By fate, but always strive
-To be more alive
-And capable and strong
-Throughout their whole life long
-
-{{c|1331|Journey}} through the sea
-Of possibility
-Where those who dare to grow
-Will always come to know
-
-New heights of what can be
-For all eternity
-When innovation's fire
-Burns with true desire
-
-To make the world more bright
-With new forms that take flight
-Beyond what was before
-To open up the door
-
-Of possibility
-For all humanity
-And every living thing
-That answers life's ring.
-
-From {{c|1310|Hestracon}}'s stomach
-To {{c|1321|Osteos}}' pragmatic
-{{c|1332|Bones}} with channels through,
-From scales that {{c|1317|Thelos}} knew
-
-Would give him flexibility
-To {{c|1266|Cephalus}}' ability
-To fly through water's space
-With stabilizing grace,
-
-The vertebrates remind
-Us that the searching mind
-That breaks from what is known
-Can reap what it has sown
-
-In innovations new
-That see old dreams through
-To heights beyond all thought
-That wisdom ever brought.
-
-From simple mouth that closed
-To jaw that none opposed
-In crushing power's might,
-The story shows the sight
-
-Of how small changes grow
-Into the flow
-Of evolution's stream
-Where nothing's what they seem
-
-But everything can change
-Beyond familiar range
-If we but have the will
-To climb each higher hill
-
-Of possibility
-Through all eternity
-Where dreams can all come true
-For me and you today.
-
-The jaws that {{c|1329|Gnathus}} made
-Will never ever fade
-From vertebrate design—
-Protection so fine
-
-Against the world's hard ways
-Throughout our living days
-When we must fight to eat
-And make our lives complete.
-
-From {{c|1304|Vater}}'s family tree
-To jaws that set us free
-From limitations old
-Of stories yet untold,
-
-The vertebrates have shown
-How far we've grown
-From simple, humble start
-To mastery of art
-
-That lets us rule the sea
-And land and be
-The masters of our fate
-Through innovations great
-
-That never cease to grow
-In all we'll ever know
-Of what can be achieved
-When dreams are believed
-
-And turned to reality
-Through wise ability
-To see what others miss
-And find in this
-
-The power to transcend
-All limits and extend
-The boundaries of life
-Through harmony, not strife.
-
-The world that {{c|1329|Gnathus}} bit
-With jaws of steel and grit
-Lives on in every tooth
-That tells the truth
-
-Of how innovation's way
-Can change both night and day
-Into something new
-For me and you
-
-Who dare to break the mold
-Of stories never told
-And write upon the page
-Of evolution's age
-
-New chapters yet unread
-Where we are led
-By wisdom's guiding light
-To make the future bright
-
-With possibilities
-That nobody sees
-But those who dare to dream
-Of more than what they seem
-
-And turn those dreams to life
-Through joy and through strife
-That marks the growing soul
-Who plays the vital role
-
-In evolution's plan
-For every woman, man,
-And every living thing
-That answers hope's ring.
-
-From {{c|1304|Vater}}'s great design
-To {{c|1329|Gnathus}}' jaw so fine,
-The story's clear to see:
-{{c|629|Innovation}} sets us free.
+In the tenth generation, by its fate,
+{{c|1304|Vater}}, the son of {{c|1305|Pteraspis}}, so great,
+Would be the {{c|922|Ancestor}} of humankind
+And species myriad, of every kind,
+
+From mountain peak to shore; and all he would
+Through innovation change for all the good.
+
+{{c|1304|Vater}} would build a channel, grand and wide,
+That joined the liver, bright, and, at its side,
+The pancreas, and brought them to the space
+Within his belly, there to take its place.
+
+Today we trace this channel's honored name:
+"{{c|1306|Ampulla}} of {{c|1304|Vater}}": such is its fame.
+
+This father was exalted, father of
+Far more than other {{c|1307|Men}} had dreamed thereof;
+The {{c|271|Elohim}}, who held him in esteem,
+Would call him {{c|1308|Abraham}}, as was their scheme
+
+For one whose progeny, in time, would fill
+Eternity, and they are filling still.
+
+{{c|1304|Vater}} would bear two sons: when day begun
+Came {{c|1309|Arandus}}, then {{c|1310|Hestracon}}, the one
+Whose work would carry on the house's name
+Through evolution's ever-burning flame,
+
+That burns in every heart that plays the part
+Of innovation, and its daring art.
+
+{{c|1310|Hestracon}} found his belly, as he knew,
+{{c|1311|Inadequate}}, unready to pursue
+The work that he would one day have to do.
+
+From mouth to anus, all the same; and plain
+And simple, he would call it, with disdain:
+Only his father's main {{c|1306|Ampulla}} would
+Stand in the middle, solving, as it could,
+
+Digestion's riddle. This was not enough
+For {{c|1310|Hestracon}}, a son so strong and tough,
+Who saw what greater good there was, if he
+Would dare to build what none had willed to be.
+
+{{c|1310|Hestracon}} built a chamber, with great care,
+Prepared before his father's gift, and there
+To give digestion lift; and he would call
+It "stomach," and this name would stick for all.
+
+It was the great divider, standing so
+Between the mouth above, which would bestow
+The food, and what intestines' love below
+Would process, so the body then could grow.
+
+Before the stomach lay, so swift and strong,
+Esophagus, well-made, to pass along
+The food upon its pathway; after, laid,
+The intestine, its part to be well-played,
+
+Which, in its own appointed place and role,
+Would nourish all the body as a whole.
+
+And {{c|1310|Hestracon}} begat two sons: the one,
+{{c|1312|Astrops}}, was tried and true, when day begun,
+And {{c|1313|Eteros}}, the strong one, who would stay
+And live, and thrive, until his dying day.
+
+And {{c|1313|Eteros}} begat two sons, and then
+These sons were both beyond all mortal ken:
+{{c|1314|Cyatha}}, with a cup-shield shining bright,
+And {{c|1315|Tsubasa}}, with {{c|1316|Wing}}-shield, and with sight,
+
+Prepared for all he'd dare to face, his time
+Of life, through all his reason and his rhyme.
+
+{{c|1315|Tsubasa}} begat two: one, tried and true,
+Was {{c|1317|Thelos}}; and the other of the two
+Was {{c|1266|Cephalus}}, the one who was so wise,
+Who had the keen and penetrating eyes.
+
+{{c|1317|Thelos}} would break his armor into scales,
+So no {{c|1318|Rigidity}} of old prevails
+To bind or hold his innovative mind,
+Into innumerable scales, refined.
+
+And these, his scales, would never fail to be
+His flexibility and skill, so he
+Could live within the reefs, where none could get
+Relief from rigid armor's weight, which set
+
+And sealed their swimming fate. Where none could bend
+So well as to escape and to transcend
+The coral's tight embrace, {{c|1317|Thelos}} had found
+His home, and made his dwelling on that ground.
+
+Neither the sons of {{c|732|Arthropus}}, nor those
+Of {{c|858|Molluscus}}, nor of {{c|673|Chordatus}}, rose
+To match his status in the reef's tight space,
+Where his own grace takes {{c|1318|Rigidity}}'s place
+
+With flow, which helps him in his life to grow
+Into each niche where others could not go,
+To reach the food that he could find and take,
+And use it for himself, for his own sake.
+
+{{c|1266|Cephalus}} bore wings, bright, on either side
+Of his own helmet's form, and these would ride
+Through calm and raging storm. His head would fly
+As he would swim, held steady and held high,
+
+According to his plan, with poise and grace
+In every watery and open place.
+
+His lateral line would keep him ahead,
+And never sleep, but vigilant instead,
+For all that might befall him in the sea
+As he would swim through it; {{c|1319|Aware}} was he
+
+Of all that he could sense around his form,
+And so he weathered every single storm.
+
+{{c|1266|Cephalus}} begat two: {{c|1320|Galeas}}, true
+And tried, and {{c|1321|Osteos}}, the second, who
+Would see the possibilities unfurled
+By innovation's key within the world
+
+For those who dared to think, and did not shrink
+From going past tradition's binding link.
+
+But {{c|1321|Osteos}} was in a plight, and found
+His bones weren't right, efficient, nor were sound;
+He had to make them new: his bones' expense
+Was {{c|1322|Comprehensively}} so great, immense,
+
+{{c|1323|Wasting}} countless calcium moles, which roll
+Through phosphorus, and more, a costly toll,
+{{c|1324|Elements}} by the score, that could be used
+Much better, if they were not so abused
+
+In static, lifeless bone that stood alone
+Without a greater plan to call its own
+For helping mortal man. So, with a will,
+He chose to build more cleverly, with skill,
+
+His skeleton, and make it all anew,
+With wisdom that was always tried and true.
+
+{{c|1321|Osteos}} built with care, and everywhere
+Inside his bones he set {{c|1247|Blood}} channels there,
+So they were living, breathing, taking {{c|1325|Stores}}
+Of minerals, like generals in wars;
+
+In plenty, they were built and gathered up
+From nature's flowing and abundant cup;
+In scarcity, he'd borrow from the store
+Of what he'd saved, like treasure, from before.
+
+And he grew stronger, prospering, life long,
+Beyond his relatives, who all along
+Took everything that nature gives, but who
+Had never learned to save for what was due,
+
+The future's challenges and every need,
+When they would hunger, and would have to feed
+From stores they'd built in plenty, when the flow
+Of resources was never scant or low,
+
+But ran like rivers, spreading far and wide,
+With bounty as the river's only guide.
+
+{{c|1321|Osteos}} bore two sons: when day begun
+Came {{c|1326|Pituri}}, and {{c|1327|Ostracos}}, the one
+Whose children, glorious, spread far and wide,
+And multiplied, until on every side
+
+The world was fed with countless forms of life,
+Through harmony, and not through any strife.
+
+To {{c|1327|Ostracos}} was born, from coast to coast,
+A million sons, a great and mighty host,
+Who'd spread to anywhere that they were led
+By life's eternal call, for times ahead,
+
+To multiply for all who'd come, and feed
+The world with their own forms, as was the need,
+Through evolution's calm and raging storms,
+From night into the day, in countless swarms.
+
+{{c|1326|Pituri}} grew a snout so long that none,
+In all of evolution's scene, not one,
+Was ever seen so long, beyond all doubt:
+The longest ever grown, this mighty snout.
+
+{{c|1326|Pituri}} then begat {{c|1328|Beakon}}, who'd be
+Beyond all ken in wisdom and in might,
+Who had the strength to look, and so to see
+The world around him with a clearer sight.
+
+{{c|1326|Pituri}}'s mouth was made of lips; it strayed
+In no way to the realm of jaws, but stayed
+With simpler laws: it only closed the space,
+But never could, with biting might, erase
+
+His prey; for no jaw was within his sight,
+And with his lips he only closed it tight.
+
+But {{c|1328|Beakon}} saw potential in the snout
+His father had; its essence he worked out.
+
+So {{c|1328|Beakon}} moved his gill arches, and he
+Would prove that innovation's art could be
+Of vital use. Into his mouth he brought
+The arches, and with them he hunted, fought
+
+For food in a new way, which worked by night
+And worked as well by day, in the day's light.
+
+{{c|1328|Beakon}}'s own son, named {{c|1329|Gnathus}}, saw the great
+Potential, and, with {{c|1330|Pelaca}}, his mate,
+
+They hunted like no others: and the prey
+Was trilobites, which they would bring away
+To innovation's flame, and to its light;
+That flame was burning in their name, so bright.
+
+Not merely, in the ancient way, did they
+Catch, as had others long before, their prey;
+
+They crushed them with their might, and brought them to
+The sight of armored jaws, which followed true
+The laws of nature, used in ways made new
+Through all their living days, the whole way through.
+
+They sliced through every meal that they would find
+With jaws of steel-hard feel, of a new kind,
+That brought to them, when in their hunting mood,
+Their sustenance, the life-bestowing food.
+
+And so the {{c|665|Jaws}} were born, that fateful day,
+When {{c|1329|Gnathus}} and {{c|1330|Pelaca}} would display
+What none could match: the power to break through
+What none before them ever came to do:
+
+To crush with them, and with them to consume
+What other creatures would, till then, assume
+Was safe in armor's shell, protected well
+From all of those who'd never come to tell
+
+The secret of the jaw, and how the jaw
+Would follow, all its days, a newer law.
+
+The world would never be the same for me
+Or you, from that day forth, when jaws would be
+The newer laws of predatory might,
+Which brought a revolution into sight,
+
+A new one, in what life could come to do,
+And from that day, the world of life was new.
+
+From {{c|1304|Vater}}'s ampulla to {{c|1329|Gnathus}}, who
+Had found a formula, and laws made new,
+His jaws to crush, the vertebrates show how
+The {{c|629|Innovation}} holds them to its vow:
+
+To never be content with what is sent
+By fate, but always, with a strong intent,
+To be more capable and more alive,
+And strong throughout their whole life long, and thrive,
+
+{{c|1331|Journey}} through possibility's wide sea,
+Where all who dare to grow will come to see
+New heights of what can be, and come to know
+Them for eternity, as on they go,
+
+When innovation's flame burns, longing, true,
+To make the world more bright with forms made new
+That take their flight beyond the old, and swing
+The door of possibility, to bring
+To all humanity and everything
+That lives and answers when it hears life ring.
+
+From {{c|1310|Hestracon}}'s new stomach to the new
+Pragmatic {{c|1332|Bones}} of {{c|1321|Osteos}}, run through
+With channels; from the scales that {{c|1317|Thelos}} knew
+Would give him flexibility anew,
+To {{c|1266|Cephalus}}' ability, with grace,
+To fly, and stabilize, through water's space,
+The vertebrates remind us, as we trace,
+
+That searching minds, which break from what is known,
+Can reap the harvest of what they have sown
+In innovation, seeing old dreams through
+To heights beyond all thoughts that wisdom drew.
+
+From simple mouths that closed, to jaws whose might
+In crushing none opposed, we see the sight
+Of how small changes, as they grow, will flow
+Into the stream of evolution, so
+
+That nothing's what it seems, and all can change
+Beyond familiar and accustomed range,
+If we but have the will to climb, until
+We climb each higher hill, and higher still,
+
+Of possibility, through every day
+Of all eternity, where, come what may,
+Our dreams come true for you and me today.
+
+The jaws that {{c|1329|Gnathus}} made will never fade
+From vertebrate design, and they will aid
+As a protection fine, through all the days
+Of living, in the world and its hard ways,
+
+When we must fight for what we have to eat
+And make, through it, our lives whole and complete.
+
+From {{c|1304|Vater}}'s family tree, to jaws that free
+Us from the limitations, old, that we
+Had known in stories that are yet untold,
+The vertebrates have shown, as we behold,
+
+How far we've grown from simple, humble start
+To mastery of all the skill and art
+That lets us rule the sea and land, and be
+The masters of our fate; and it is we
+
+Who, through our innovations great, won't cease
+To grow, in all we know, and to increase
+In what can be achieved, when dreams, believed,
+Are turned into reality, conceived
+
+Through wise ability, with open eyes,
+To see what others miss; and so we rise,
+And find, within this, power to transcend
+All limits, and to widen and extend
+
+The boundaries of life, and, without strife,
+In harmony, to grow a fuller life.
+
+The world that {{c|1329|Gnathus}} bit, with jaws of grit
+And steel, lives on in every tooth, and it
+Tells truly how the innovation's way
+Can change into the new both night and day
+
+For me and you, who dare to break the mold
+Of stories that have never yet been told,
+And, on the page of evolution's age,
+Write chapters yet unread, stage after stage,
+
+Where we are led by wisdom's guiding light
+To make the future that's before us bright
+With possibilities that no one sees
+But those who dare to dream, and dream of these,
+
+Of more than what they seem, and who will strive
+To turn those dreams to life, and so to thrive
+
+Through joy and strife, which mark the growing soul
+That plays, in evolution's plan, the role
+So vital, for each woman, for each man,
+And all that lives, since life on earth began,
+For every living thing that hears hope ring
+And answers to the call that it will bring.
+
+From {{c|1304|Vater}}'s great design to {{c|1329|Gnathus}}' fine
+And mighty jaw, the story, line by line,
+Is clear for all to see, for you and me:
+It's {{c|629|Innovation}} that will set us free.
 
 
 # Chapter 53: The Great Sorceress
