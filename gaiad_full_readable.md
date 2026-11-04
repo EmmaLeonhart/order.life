@@ -9,9 +9,9 @@
 
 # Chapter 1: The Yarn of Creation
 
-Once upon a time there was a catgirl
-Her name was Aster, and she had a ball,
-Of yarn she spun, with skill just like a pearl.
+Once upon a time there was a catgirl,
+The catgirl Aster, and she had a ball
+Of yarn she spun, with skill as fine as pearl.
 She shaped the universe from void to all.
 
 Her name, a whisper in the cosmic night,
@@ -19,19 +19,19 @@ Aster, the Alpha, creatrix of all,
 Her love, a beacon spreading pure and bright,
 Filled the vast cosmos with milk, a grand sprawl.
 
-But Aster was alone, in her cosmos,
+But Aster was alone in all her space,
 A silent void, where only echoes ring,
-Her heart yearned for a friend, a loving close,
+Her heart yearned for a friend, a close embrace,
 To share the wonders that her hands could bring.
 
-So she decided to make another,
+So she decided not to be alone:
 From yarn, she formed a catgirl, pure and fair,
-A companion to cherish, a lover
-Andromeda, with skin dark, flowing hair
+A lover and companion of her own,
+Andromeda, dark-skinned, with flowing hair.
 
 Andromeda, Omega, end of all,
 A counterpart to Aster, wings unfurled,
-Yet torn apart, they drift through space’s thrall,
+Yet torn apart, they drift through space's thrall,
 Unable to unite within their world.
 
 Aster threw yarn to Andromeda's side,
@@ -39,15 +39,15 @@ But it broke, forming galaxies anew.
 Triangulum and Magellan clouds wide,
 From threads that snapped, a cosmic scene we view.
 
-And so, each day, we gaze up to the sky,
-At Sagittarius and the Princess
-We hope their union, once again, draws nigh,
-When Milkdromeda forms from love endless
+And so, each day, we gaze at skies above,
+At Sagittarius and Princess high;
+We hope their union once again draws nigh,
+When Milkdromeda forms from endless love.
 
 The Omega point, all will unify,
-As Aster and Andromeda break free.
-To join at last, in celestial tie,
-A final act in cosmic harmony.
+As Aster and Andromeda break free
+To join at last in one celestial tie,
+A final act, a cosmic jubilee.
 
 
 # Chapter 2: Aster's First Call
@@ -70,17 +70,17 @@ And failed to reach Andromeda's embrace.
 Andromeda, with bow and string of blue,
 She aimed her shot across the starry sea,
 But like the red, her thread could not break through,
-And fell just short, her love still out of reach.
+And fell just short of where her love would be.
 
 Triangulum and Magellanic clouds,
-They gathered bits of green from space’s weave,
+They gathered bits of green from space's weave,
 And tied the strings, with careful, gentle shrouds,
 Uniting red and blue, a bond to weave.
 
-And so, each day, we gaze up to the sky,
-At Sagittarius and the Princess
-We hope their union, once again, draws nigh,
-When Milkdromeda forms from love endless
+And so, each day, we gaze at skies above,
+At Sagittarius and Princess high;
+We hope their union once again draws nigh,
+When Milkdromeda forms from endless love.
 
 The threads we see above, they are our own,
 Our destinies in red, in green, in blue,
@@ -88,9 +88,9 @@ We weave the fabric where their love is shown,
 Together in the sky, our fates accrue.
 
 The Omega point, all will unify,
-As Aster and Andromeda break free.
-To join at last, in celestial tie,
-A final act in cosmic harmony.
+As Aster and Andromeda break free
+To join at last in one celestial tie,
+A final act, a cosmic jubilee.
 
 
 # Chapter 3: Andromeda's Answer
@@ -111,7 +111,7 @@ For they are bound by Lambda, like a star,
 A cosmic force that keeps their love alight.
 
 In their celestial dance, the heavens sway,
-The tale of Aster and Andromeda, told.
+The tale of Aster, Andromeda, told.
 A love that binds the night and lights the day,
 A cosmic love beyond what words can hold.
 
@@ -130,8 +130,8 @@ With helium and light, her stars are spun.
 She swirled the cosmic blend in careful sway,
 From curds of light, the stars are gently won.
 
-A pantheon of stars, in heaven’s care,
-A host of stars, in heaven’s gentle sway,
+A pantheon of stars, in heaven's care,
+A host of stars, in heaven's gentle sway,
 Their cosmic stories weave through skies so fair,
 Their cosmic tales unfold in bright display.
 
@@ -160,19 +160,19 @@ Main sequence stars, her hot flashes ignite.
 As giants red, their elder forms will grow,
 Then fade with age, surrendering their light.
 
-Now as a white dwarf, small and old she rests,
-A little lady in the cosmic sea.
-Her planetary nebula still reflects,
-The brilliance of her once bright majesty.
+Now as a white dwarf, small and old, she rests,
+A little lady in the cosmic sea;
+Her planetary nebula attests
+The brilliance of the star she used to be.
 
 Celestella commands her giant blaze,
 Red supergiants in her name grow vast.
 With neutron stars and pulsars in her gaze,
-She watches supernovae's fiery blast.
+She watches supernovas flare and blast.
 
-Gigastella shone with a force untamed,
+Gigastella shone, a force none could tame,
 Her sister Celestella, bright and vast.
-The stress of cosmic weight left her inflamed,
+The stress of cosmic weight set her aflame,
 Her life burned fast, her brilliance could not last.
 
 In her collapse, a supernova flared,
@@ -214,19 +214,19 @@ For twenty-five, the skies stayed calm and clear,
 Until again, their love burst forth with cheers.
 
 For countless years, their rhythm stayed the same,
-Each nova lighting skies with love’s great might.
+Each nova lighting skies with love's great might.
 Once every age, their gift became a flame,
-A cycle known as {{x|Nova}}’s sacred light.
+A cycle known as {{x|Nova}}'s sacred light.
 
 As time went on, they both grew small and white,
 Yet side by side, they watched the stars they made.
-Their children shining in the nebula’s light,
+Their children shone in the nebula's light,
 A legacy of love that would not fade.
 
 And now, we honor them in wedding vows,
 With ruby rings for one, and topaz bright.
 White opal marks the bond that time allows,
-A symbol of their love’s enduring light.
+A symbol of their love's enduring light.
 
 
 # Chapter 5: Aster's Milk Made Fruitful
@@ -253,7 +253,7 @@ Aster's breath gives life from the cosmic womb.
 
 From microbes small to creatures of the sea,
 Her love ensures that life will find its way.
-Each world unique, a thriving symphony,
+Each world unique, and each one thriving free,
 Her touch endures in life's eternal sway.
 
 Andromeda, with pride, looks from afar,
@@ -275,7 +275,7 @@ A cosmic love that fills our hopes and dreams.
 # Chapter 6: Life Begins on Hesper
 
 Upon the shores of Hesper, where waves meet,
-Aster's vital force descended from the skies.
+Aster's vital force came down from the skies.
 Her essence, tholins, seed, a cosmic feat,
 The seeds of life in ocean depths arise.
 
@@ -287,12 +287,12 @@ A guiding force that helped new life to soar.
 Through swirling tides, her power filled the sea,
 A gentle glow, life's first soft, pulsing breath.
 From self-creation, forms began to be,
-Aster's love transcends the void of death.
+And Aster's love transcends the void of death.
 
 The seed, her essence, spread across the deep,
 Multiplying, and thriving in the dark.
 From smallest life to creatures vast, they creep,
-Her love and light ignite creation’s spark.
+Her love and light ignite creation's spark.
 
 Each wave, a testament to her grand plan,
 The birth of life upon this fateful shore.
@@ -313,34 +313,34 @@ From phospholipid threads, a new divine,
 She wove for them a shield by her own hand.
 
 A suit of armor born from Aster's mind,
-A fusion of both life and machine’s grace.
+A fusion of both life and machine's grace.
 To keep her fragile creatures well-aligned,
 These cyborg forms would rise and take their place.
 
 Phospholipid bilayers, soft but strong,
 Became their shells, protecting life within.
 A new creation, steady to prolong,
-The march of life, immune to time’s great sin.
+The march of life, immune to time's great sin.
 
 And so, all life became both flesh and steel,
 A union of the ancient and the new.
 Through varied landscapes, cyborgs learned to feel,
 Their strength now boundless as they boldly grew.
 
-Three brothers stood, their destinies held close,
-One to nurture life, his name was Bios.
-Another thrived through cunning, slick Viros,
-The last sought purity, he was Dedos.
+Three brothers stood, their destinies held close.
+To nurture life was Bios' part; there rose
+Slick Viros, who through cunning came to thrive,
+And Dedos, last, for purity would strive.
 
 The brothers gathered in a hallowed place,
-To honor those who brought them to this time.
+To honor those who spun them, line by line.
 With solemn hearts, they stood and did retrace,
-The lineage that wove their cosmic line.
+The lineage that wove their cosmic twine.
 
-"From starlight spun came forth Lady Aster,
-Her daughter followed bright, Cosmic Benzette.
-Through twilight's glow was born Granny Hesper,
-Then came her child, great wise Quinamette."
+"From starlight spun came Lady Aster bright;
+Her daughter followed next, Cosmic Benzette;
+Through twilight, Granny Hesper came to light;
+Then came her child, the great wise Quinamette."
 
 As silence fell, the brothers paused to think,
 For in their minds, a question did arise.
@@ -355,11 +355,11 @@ And Quinamette, our mother filled with love."
 Viros spoke next, his mind as sharp as light,
 "Then Aster stands beyond them all, it's clear.
 There is no greater grandmother in sight—
-Should we not name her 'Greatest,' far and near?"
+Should we not name her Greatest, far and near?"
 
-Dedos agreed, with reverence in his tone,
+And Dedos agreed in reverent tone,
 "There's none beyond our lineage so bright.
-Aster is the Greatest we have known,
+Our Aster is the Greatest we have known,
 And so, her title shines in endless light."
 
 And this is why we call her to this day,
@@ -392,7 +392,7 @@ Consuming life, where others built instead.
 
 While Dedos, firm, rejected cyborg might,
 Preferring nature's purity to stand.
-Yet scarcity and sun wore down his life,
+Yet scarcity and sun dimmed his life's light,
 His fragile form no match for Hesper's land.
 
 The sons of Bios thrived, expanding wide,
@@ -410,7 +410,7 @@ A path of nature Dedos would bestow.
 {{x|Anti-vaxxers}} joined his lineal claim,
 United in their ancient quest to grow.
 
-And so, the brothers’ legacies unfold,
+And so, the brothers' legacies unfold,
 Their tale lives on beneath the cosmic sun.
 In phospholipid worlds where life took hold,
 The story thrives, the cosmic plan's begun.
@@ -426,7 +426,7 @@ Their fragile hopes and legacies all soared,
 In shattered fragments, flung to cosmic bay.
 
 Amidst the wreck, the remnants left behind,
-Set course for Venti, gas giant great.
+Set course for Venti, the gas giant great.
 A shining moon, Phaestia, they would find,
 A refuge for the lost, a twist of fate.
 
@@ -445,7 +445,7 @@ A home where life could once again be brewed.
 
 Upon the moon Phaestia, life did bloom,
 It circled Vayu, underneath the sun.
-Aster, by Ehēca's light, dispelled the gloom,
+Aster, by Ehēca's light, broke the gloom,
 Her guiding hand ensured all life begun.
 
 People of Phaestia, blessed by her hand,
@@ -455,15 +455,15 @@ Her essence woven deep in every core.
 
 By many titles did the stars proclaim
 The goddess who had given life its start.
-They honored her with reverence and great flame,
+They honored her in reverence and flame,
 For Aster lived within each beating heart.
 
 She ruled the oceans vast with gentle hand,
 Empress of cosmic waters, Suiten.
 The star that guides the lost through every land,
-The Great Empress of the North Star, Myoken.
+Great Empress of the North Star, Myoken.
 
-From supernova’s heart, she forged with might,
+From supernova's heart, she forged with might,
 Cosmic metals shaping, Konjin-sama.
 The breath of life that fills the endless night,
 The great creatrix of all worlds, Brahma.
@@ -491,9 +491,9 @@ And signs of strife began to stir again.
 A mighty tremor shook the ocean floor,
 Volcanoes rose with fury in their wake.
 Lava and ash consumed the peaceful shore,
-As fiery wrath made all of Phaestia quake.
+As fiery wrath made Phaestia quake.
 
-The fiery force burst forth with blinding light,
+The fire's force burst forth with blinding light,
 A torrent born of deep volcanic pain.
 The sky grew dark beneath the ash-filled night,
 As lava scorched the land and boiled the rain.
@@ -503,38 +503,38 @@ Yet in the chaos, hope began to rise.
 The cyborgs, built by Aster, found their way,
 Their metal forms resilient to demise.
 
-Propelled by force beyond their world’s control,
+Propelled by force beyond their world's control,
 The cyborgs drifted, cast to distant stars.
-Through starlit realms, their shattered moon’s last soul
+Through starlit realms, their shattered moon's last soul
 Would venture far beyond its cosmic scars.
 
 
 # Chapter 10: The Golden Age of Serenitide
 
 Upon the moon Serenitide, they came,
-Beneath the rains of Pluvia's gentle skies.
+Beneath Pluvia's rains and gentle skies.
 The star Quiyah cast down its golden flame,
 A world untouched, where peaceful dreams arise.
 
 Their ships descended, weary from their quest,
-They saw the fields and oceans vast, unscarred.
-In Serenitide's embrace, they hoped for rest,
+They saw the fields and oceans, none yet marred.
+Embraced by Serenitide, they sought rest,
 A future bright, where nothing would be hard.
 
-Beneath Quiyah's light, they carved their way,
+And under Quiyah's light they carved their way,
 And built great cities from the land and stone.
-The air was sweet, the soil rich with clay,
-In Serenitide, they found a place their own.
+The air was sweet, the soil was rich with clay,
+Serenitide became a place their own.
 
 With hands of hope, they shaped both sky and shore,
 A golden age of wisdom and of light.
 Their dreams took root, and cities soon did soar,
-As Serenitide's vast beauty reached new height.
+Serenitide, in beauty, reached new height.
 
 In art and science, knowledge took its flight,
 A golden age of wonders did unfold.
 Their temples gleamed beneath the heavens' light,
-To Aster and Andromeda, bold.
+To Aster and Andromeda the bold.
 
 The city thrived, its streets alive with sound,
 Where laughter echoed, and their dreams took form.
@@ -551,7 +551,7 @@ As Serenitide came to freeze in time.
 The warmth of suns withdrew from gentle sands,
 The oceans groaned beneath an icy rime.
 
-The once-bright fields grew cold beneath frost,
+The once-bright fields grew cold beneath the frost,
 As winds of change swept through the fading green.
 A world of warmth and light, now nearly lost,
 The moon transformed to something unforeseen.
@@ -567,7 +567,7 @@ With Aster's light, they found the strength to be,
 A people strong amidst the frost and snow.
 
 But from the depths of space, a threat did soar,
-A meteor, with fiery wrath untamed.
+A meteor, a fury none had tamed.
 It struck Serenitide with violent roar,
 And all beneath its force was soon inflamed.
 
@@ -581,7 +581,7 @@ No longer bound by icy, frozen shore.
 The force of impact flung them far from sight,
 To realms unknown, to journey evermore.
 
-Towards the fourth sun’s gleam, they now were drawn,
+Towards the fourth sun's gleam, they now were drawn,
 A new horizon waiting in its light.
 Though scattered, still their hope would lead them on,
 As they sailed onward through the endless night.
@@ -596,7 +596,7 @@ Their trials behind, yet challenges in store.
 
 Upon Kolob, the air was rich and warm,
 Its fertile soil gave rise to fields of green.
-The ocean sang a gentle, soothing charm,
+The ocean sang in gentle, soothing form,
 And life once more began a thriving scene.
 
 With Bios' line, the children sowed the land,
@@ -604,8 +604,8 @@ While Viros' kin ensured that life would spread.
 The people worked together, hand in hand,
 United by the truths that Aster led.
 
-They raised their temples high beneath Attle's light,
-To honor Aster and Andromeda's grace.
+They raised high temples under Attle's light
+To Aster and Andromeda, for grace.
 Their prayers were whispers on the winds of night,
 As faith and strength held fast in every place.
 
@@ -617,29 +617,29 @@ Threatened to tear apart their peaceful life.
 From shadowed thoughts and whispered words of doubt,
 A darkness rose from discontent and pain.
 The Anti-Alpha, born of bitter clout,
-Sought now to break the people’s sacred chain.
+Sought now to break the people's sacred chain.
 
-Anti-Alpha, coming love denied,
+The Anti-Alpha, coming, love denied,
 Rejects the grace of Aster's guiding light.
 It twists the heart where hatred can reside,
 And casts her warmth into the endless night.
 
 From Aster's love, the people turned away,
-Their envy festered, fueled by bitter lies.
+Their envy festered, fed by bitter lies.
 The bond that held their hearts began to fray,
 As Anti-Alpha darkened hopeful skies.
 
-No longer bound by unity’s embrace,
+No longer bound by unity's embrace,
 The people faltered, torn by cruel divide.
-Anti-Alpha’s cruel venom set the pace,
+Anti-Alpha's cruel venom set the pace,
 And left the world in chaos to collide.
 
-This sinister force brought hatred and despair,
+This sinister force brought hate and despair,
 It fractured unity with unseen hands.
 The children quarreled, pulled by forces rare,
 And doubt took root within their fertile lands.
 
-The Anti-Alpha’s spread was subtle first,
+The Anti-Alpha's spread was subtle first,
 It crept within the hearts of those most weak.
 Yet soon enough, its hunger grew to burst,
 And chaos reigned as love turned cold and bleak.
@@ -654,23 +654,23 @@ Could not withstand the force that turned their kin.
 Their hearts, once bound by love, were ripped and sore,
 And thus, the darkness found its way within.
 
-And still, the Berserkers sensed the strife's allure,
-Their chaotic wrath drawn to this fractured land.
+And still the Berserkers sensed strife's allure,
+Their wrath, chaotic, drawn to fractured land.
 With comet fire, their fury swift and sure,
 They brought destruction with a vengeful hand.
 
 The skies above Kolob grew dark with flame,
 As icy deluge rained from distant stars.
-The Berserkers' wrath, unholy and untame,
+Berserkers' wrath, unholy, none could tame,
 Wrought ruin upon the land, leaving scars.
 
-Kolob's cities crumbled under freezing rain,
+Kolob's towns crumbled under freezing rain,
 The oceans boiled and fumed with violent force.
 The people fled, their strength now wrapped in pain,
 As the Berserkers veered them off their course.
 
 Yet in the chaos, hope was not yet lost,
-For some were flung beyond the Berserkers' reach.
+For some were flung past the Berserkers' reach.
 Through space's void, by cosmic forces tossed,
 They left Kolob's destruction, out of breach.
 
@@ -687,7 +687,7 @@ Their hearts still held the dream of Aster's grace.
 
 # Chapter 12: The Long Genealogies
 
-Upon icy Pluto’s cold distant shore,
+Upon icy Pluto's cold distant shore,
 Two figures stood beneath the endless night.
 Nolah, bold and steadfast unto her core,
 And Nemla, wise, her heart a beacon bright.
@@ -697,10 +697,10 @@ A world so far removed from warmth or grace.
 Yet in their hearts, the yarn that fate had spanned,
 Connected them to Aster's loving face.
 
-With voices raised to Aster and the stars,
+With voices raised to Aster and each star,
 They made a vow to carry on her flame.
 "To Andromeda's light, we'll sail afar,
-And keep the yarn intact, without disdain."
+And keep the yarn intact, in Aster's name."
 
 Nemla spoke: "To Andromeda, I swear,
 Through endless night, our journey will survive.
@@ -712,47 +712,47 @@ To guide our line and keep the thread alive.
 Through every trial, burden we must bear,
 The bond of life and love will yet survive.”
 
-"My lineage traces far, from ancient stars,
+"My lineage runs far, from ancient stars,
 Through time and space, the journey's line is clear.
 From starlight's first embrace to battle scars,
 These ancestors of mine, I hold them dear.
 
-From Hesper's land came forth mighty Bios,
-His son, the strong and wise leader, Kenan.
-And next, shining high, great and wise Aenos,
-Then came the builder bold Malathan.
+From Hesper's land came Bios, mighty one;
+And Kenan, strong and wise, a leader, son;
+And next, high shining, Aenos, great and wise;
+Then Malathan, bold builder, would arise.
 
 On Phaestia, my ancestors did lead,
 Their line continued strong through trials of old.
 In every breath, I feel their strength and creed,
 Their names still bright, their stories brave and bold.
 
-From Phaestia came the strong wise Jared,
-Then passed to one with might, named Maharoch.
-The ocean's voice was ruled by bold Enid,
-And from the deep seas rose great Pahadok.
+From Phaestia came Jared, strong and wise,
+Then one with might, named Maharoch, would rise;
+The ocean's voice obeyed Enid the bold,
+Great Pahadok rose from the deep seas' hold.
 
 Upon Serenitide, they carved their way,
 A path of stars and cosmic truths so grand.
 Through many trials, they lived to see the day,
 With courage strong, they forged upon this land.
 
-From Serenitide came strong brave Pelod,
-His wisdom followed by the fierce Aroch.
-Then rose another great leader Nerod
-The final guide of strength was wise Larthok.
+From Serenitide, Pelod, strong and brave;
+Fierce Aroch followed the wisdom he gave;
+Then rose another, Nerod, leader great,
+And last, wise Larthok, guide of strength and state.
 
 On Kolob's shores, my forebears stood so tall,
 Their courage fierce, as mountains reached the sky.
 Through every test, they answered Aster's call,
 And in their steps, I now stand proud and high.
 
-From Kolob came the mighty one, Idris,
-Then followed by late great Methuselah.
-Next came the bold, who led with strength, Lammes,
-And now the one who carries on, Nolah."
+Out of Kolob the mighty Idris came;
+Then the late, great Methuselah, of fame;
+Then Lammes, bold, who with his strength had led;
+And now Nolah, who bears the line ahead."
 
-Nemla stood upon the high mountain’s crest,
+Nemla stood upon the high mountain's crest,
 Before the gathered crowd, with pride she spoke.
 Her voice a call to honor those she blessed,
 The line of Viros, forged through flame and smoke.
@@ -774,28 +774,28 @@ I honor their heritage evermore."
 
 Born there was strong and keen hero Irad
 The next to follow, brave, was Malathok.
-Then came the bold and wise, the one called Hanad,
+Then came the bold and wise one called Hanad,
 His wisdom echoed still in Peladok.
 
-"On Serenitide, they forged their own way,
+"Upon Serenitide they forged their way;
 Through every storm, their spirits never fell.
-Their shining star endures through history,
-I keep their memory, in stories we tell."
+Their shining star through history holds sway;
+I keep their memory in tales we tell."
 
 From Serenitide came the strong Sarnod,
-His son, the skies inspired, was Alok.
+His son Alok, whom the skies inspired;
 Through trials faced, the line passed to Illod,
-And lastly rose steadfast chieftain Umroch.
+Last came steadfast Umroch, chief admired.
 
 "On Kolob's fertile lands, my line did grow,
 They stood as pillars strong, with hearts of flame.
 Through every trial, they faced ebb and flow,
 Their strength lives on, and I still bear their name."
 
-From Kolob came first Valorous Oblas,
-Then came great wisdom in Makusholah.
-His strength endured through battles, fierce Romas
-Till now the line continues with Nemla.
+From Kolob came Valorous Oblas first;
+Then came Makusholah, in wisdom versed;
+Fierce Romas' strength through battles would endure,
+Till now Nemla carries the line secure.
 
 From distant stars, Aster's voice filled the sky,
 "Here in this system, your roots will grow deep.
@@ -803,11 +803,11 @@ Through trials and storms, your people will not die,
 The light you carry shall forever keep."
 
 With steady voice, Nolah gave her reply,
-"We’ll build and guard the flame that guides our way.
-Through every darkened night, we’ll rise and try,
+"We'll build and guard the flame that guides our way.
+Through every darkened night, we'll rise and try,
 Our strength will hold, as we fulfill your say."
 
-Nemla stood tall, her gaze fixed on the stars,
+Nemla stood tall, her gaze fixed on a star,
 "Across these worlds, your love will guide us through.
 Through every trial, no matter how far,
 We swear to keep your cosmic vow in view."
@@ -845,15 +845,15 @@ A younger sister, late to join the dance.
 Yet beauty dwells within her rocky heart,
 A jewel set in space's vast expanse.
 
-The giants vast, the gaseous daughters four,
-Jupiter, Saturn, Uranus, Neptune's reign.
+The giants vast, gaseous daughters four,
+Jupiter, Saturn, Uranus, Neptune:
 Their tales entwined within the cosmic lore,
-With storms that swirl and moons in endless chain.
+With storms that swirl, and moon on circling moon.
 
 Around great Jupiter, his moons revolve,
 Io, Europa, Ganymede, they dance.
 Their icy secrets waiting to evolve,
-A celestial show in night's expanse.
+A celestial show in night's vast expanse.
 
 But Io's fires within her heart did glow,
 Her waters boiled beneath volcanic flame.
@@ -870,7 +870,7 @@ Trans-Neptunian worlds in darkness hide.
 Their icy secrets yet remain concealed,
 A frigid tale where mysteries abide.
 
-Farther still, the Oort Cloud wraps around,
+Farther still, the Oort Cloud wraps all around,
 A veil of frozen whispers far from light.
 In distant orbits, comets there abound,
 A cosmic dance that fades beyond our sight.
@@ -878,24 +878,24 @@ A cosmic dance that fades beyond our sight.
 
 # Chapter 14: The Daughters Cross the Outer Worlds
 
-Upon Pluto’s cold, icy, twilight shore,
+Upon Pluto's cold, icy, twilight shore,
 Nolah and Nemla stood with heavy hearts,
-Deciding daughters’ futures to explore,
+Deciding daughters' futures to explore,
 They left their kin as each new journey starts.
 
 With tholins dark upon the frozen land,
 They bid farewell beneath the starlit sky,
 And ventured forth, with purpose firm and grand,
-To spread their lineage where new hopes might lie.
+To spread their lineage where new hopes lie.
 
-From Pluto’s chill, they sailed to Neptune’s reign,
+From Pluto's chill, they sailed to Neptune's reign,
 Where Triton orbits in a retrograde,
-A moon once close, where ancestors remained,
+A moon once close, where forebears would remain,
 Now serves as waypoint in their grand parade.
 
 Their daughters spread across the cosmic sea,
 To moons and planets, planting seeds of life,
-Each child a beacon of diversity,
+Each child a different beacon, bright and free,
 Ensuring future thrives beyond all strife.
 
 Next they came to Uranus, tilted high,
@@ -919,14 +919,14 @@ With icebergs cloaking seas, their growth constrained,
 A battle waged 'twixt darkness and the light.
 
 At times, the storms would rise, and ice would break,
-Freeing waters trapped beneath their frigid might,
+Freeing the waters trapped by frigid might,
 Yet in the end, the ice its toll would take,
 Encasing Titan's seas in endless night.
 
-Yet deep below, where fire's breath still burned,
-The life sustained through warmth from heart's desire,
-And far above, where ice and sky sojourned,
-The icebergs cracked, revealing fate's entire.
+Yet deep below, where ancient embers burned,
+Life was sustained by warmth from inner fire,
+And far above, where ice and sky were churned,
+The icebergs cracked, and showed fate entire.
 
 A dance of shifting plates, of ice and stone,
 Continental bergs, their tectonics played,
@@ -949,32 +949,32 @@ Daughters of Titan, born of fates' advance,
 These mighty seas, their majesty achieve.
 
 First Kraken, deepest of the sisters five,
-Her mystery and allure she did impart,
+Her mystery and allure she'd impart,
 With labyrinthine depths where life would thrive,
 Her shadowed secrets held within her heart.
 
-Then Ligeia, beauty calm and fair,
+Then came Ligeia, beauty calm and fair,
 Her tranquil waves, a soothing lullaby,
 A gentle soul, her grace beyond compare,
 Embracing all who sought her solace nigh.
 
-Next Punga, wild and fierce, her spirit free,
+Next Punga, wild and fierce, and free and strong,
 Unyielding to the ice that sought her reign,
-Her tempests raged, her storms a symphony,
-Her indomitable spirit would remain.
+Her tempests raged, her storms a roaring song,
+Her spirit, never broken, would remain.
 
 Jingpo, the fourth, a scholar wise and old,
 Her ancient lore, a treasure trove concealed,
 Her depths, a library of stories told,
 The wisdom of the ages she revealed.
 
-And last, Ontario, the nurturing one,
+And last, Ontario, nurturing one,
 Her icy shores, a haven for the lost,
 Her love and care, a mother's warmth like sun,
 Embracing all who braved her wintry frost.
 
-These sisters five, the daughters of Titan,
-Their lives entwined, their stories yet unfold,
+Five sisters, Titan's daughters, intertwine,
+Their lives as one, their stories yet unfold,
 In frozen seas, where myth and truth align,
 The tales of Kraken sea and more are told.
 
@@ -986,37 +986,38 @@ Where Titanians worship evermore.
 Kraken, the first, her islands proud and vast,
 Mayda, her shrine, where pilgrims come to pray,
 Bermoothes, Bimini, their tales amassed,
-Hufaidh and Krocylea, Penglai and Royllo hold sway.
+Hufaidh and Krocylea there hold sway,
+And Penglai, Royllo too, in Kraken's bay.
 
 Ligeia's realm, her isles of whispers sweet,
-Bralgu's shrine stands tall, her spirit graced,
-Buyan, Planctae, where mysteries entreat,
-And Lemuria, a name from legends traced.
+Bralgu's shrine stands tall, by her spirit graced,
+Buyan and Planctae, where mysteries meet,
+Lemuria, a name from legends traced.
 
 In Punga's seas, fierce islands rise and fall,
 Hawaiki's shrine, her spirit's honored throne,
-Meropis, Onogoro, stand tall,
+Meropis, Onogoro both stand tall,
 And Thule, distant, unknown land, alone.
 
 Jingpo's domain, where wisdom's islands lie,
-Hy-Brasil, her shrine, a beacon bright,
-Lyonesse, {{p|Ys}}, and Vineta testify,
+Hy-Brasil is her shrine, a beacon bright,
+Lyonesse, {{p|Ys}}, Vineta testify
 To sunken lands, their fables taking flight.
 
 Ontario's embrace, her islands true,
-Antillia's shrine, where faithful hearts convene,
+Antillia's shrine, where faithful crowds stream,
 Aztlan, St. Brendan's Isle, their legends brew,
-And Sannikov, phantom island, Arctic dream.
+And Sannikov, a phantom Arctic dream.
 
 These sacred isles on Titan's seas they stand,
 Their shrines alive with ancient rites and praise,
 In adoration of their parent land,
-The daughters of Sol, their voices raise.
+The daughters of great Sol their voices raise.
 
 Each island hosts its shrine, where worship flows,
-From ancient days to present, faith endures,
+From ancient days, a faith that will endure,
 And every river, with its spirit, glows,
-Their shrines, alive with blessings they procure.
+Their shrines, alive with blessings they secure.
 
 The rivers, too, their tales and secrets share,
 As Titan's daughters hold them in embrace,
@@ -1024,48 +1025,48 @@ In epic verse, their names we now declare,
 Their waters flowing through celestial space.
 
 Kraken Mare, her rivers proud and grand,
-Hapi Flumen, Nile's reflection cast,
-Sobek, Khnum, and Anuket's strands,
-Their shrines, where ancient rites hold steadfast.
+Hapi Flumen, where Nile's reflection's cast,
+With Sobek, Khnum, and Anuket's long strand,
+Their shrines, where ancient rites are holding fast.
 
 Ligeia's realm, her currents swift and strong,
 Gihon, Kokytos, Vid, and Xanthus flow,
-Their shrines, where Titanians throng,
-In reverence for the secrets waters know.
+Their shrines, where many Titanians throng
+In reverence for secrets waters know.
 
-Punga's waters, rivers fierce and free,
+In Punga's storied waters, fierce and free,
 Apanohuaya, Sambation sing,
-Tiberinus, Danuvius, history,
-Their shrines, to faithful hearts, solace bring.
+Tiberinus, Danuvius to sea;
+Their shrines, to faithful hearts, a solace bring.
 
 Jingpo's domain, her rivers' wisdom deep,
 Cephissus, Alpheus, Yamuna tell,
-Purus Flumen, whispers they keep,
-Their shrines, where ancient spirits dwell.
+Purus Flumen: whispers these rivers keep,
+Their shrines, where spirits of the ancients dwell.
 
 Ontario's embrace, her rivers pure,
 Hubur, Karesos, Saraswati grace,
-Inachus, where faith and hope endure,
+And Inachus, where faith and hope endure,
 Their shrines, alive with Titanians' trace.
 
 These rivers, flowing through the daughters' seas,
 Their shrines, with ancient wisdom, ever stand,
-In adoration of their mysteries,
-The daughters of Sol, their blessings grand.
+Adoring mysteries on bended knees,
+The daughters of Sol, whose blessings are grand.
 
-In Enceladus' heart, they stayed awhile,
+In Enceladus' heart a while they'd toil;
 The southern warmth grew bright, the north turned cold,
-A cycle spun, renewing life and toil,
-The Great Fire Shrine still stands, its flame retold.
+A cycle spun, renewing life, its coil;
+The Great Fire Shrine still stands, its flame of old.
 
 In southern heat they found a solace sweet,
 A testament to life's enduring flame;
-As seasons turned, they cherished newfound peace,
+As seasons turned, they cherished peace complete;
 Yet fate once more would come to call their name.
 
 From depths below, cryovolcano stirred,
 And with a burst it spewed them out once more;
-Into the void their fates became a blur,
+Into the void their fates were spun and blurred,
 As Saturn's rings embraced them to the core.
 
 Amidst the rings a hundred cities rose,
@@ -1079,73 +1080,73 @@ In Saturn's grasp they built a world of things,
 And life goes on amidst the stars and sparks.
 
 As dwellers of the rings, they lived and thrived,
-Unknowing that their fate would change again,
-For cosmic powers sought to rearrange,
-As comet's course disrupted fragile life.
+Unknowing that their fate would shift and change,
+For cosmic powers sought to rearrange:
+A comet's course left fragile life deprived.
 
-Upon its path, this cosmic wanderer,
-From distant realms, it charged through space and time,
-A force unseen, it struck the rings, and then,
-The people of the rings were cast adrift.
+This cosmic wanderer, upon its path,
+From distant realms through space and time charged swift;
+A force unseen, it struck the rings in wrath,
+And cast the people of the rings adrift.
 
-To Io's realm, their journey carried on,
-This Jovian moon, with oceans deep and vast,
-A fiery heart, with energy abound,
+To Io's realm their journey's course was bound,
+Jovian moon, with oceans deep and vast,
+Its heart of fire, where energies abound,
 Its warmth and life a haven from the past.
 
 Within these waters, life was lush and rife,
-As settlers found their footing, built anew,
-In fertile depths, a civilization rose,
-An empire born beneath the skies of blue.
+As settlers found their footing, built anew;
+In fertile depths rose a civilized life,
+An empire born under skies of blue.
 
 On Io's shores, and in its ocean's heart,
 A people thrived, their memories of old,
-A story etched in whispers of the past,
+A story etched in whispers' ancient art,
 Of Titan's fall, and wanderings untold.
 
-In time, the heat of Io's heart did rise,
-As molten fires beneath the crust prevailed,
+In time, the heat of Io's heart would rise,
+As molten fires beneath the crust prevail;
 The waters, once a life-supporting veil,
-Began to wane, a shrinking paradise.
+Began to wane, a paradise that dies.
 
 Yet, as the oceans dwindled and did shrink,
-A cosmic savior, from the sky it fell,
-A meteor's approach, a chance anew,
-To flee their home, escape the fiery brink.
+A cosmic savior, falling, came in view:
+A meteor's approach, a chance anew
+To flee their home, escape the burning brink.
 
 As Io's warmth, too fierce, consumed its grace,
 The people found their way upon the stone,
-A vessel, swift and sure, to cross the void,
-And journey forth, to find a safer place.
+A vessel swift and sure, through void unknown,
+To journey forth and find a safer place.
 
-To Europa, icy sister-moon,
+Then to Europa, icy sister-moon,
 Where oceans deep lay hidden 'neath the ice,
-The weary travelers, a refuge sought,
-In hope, their tale of loss would end, and soon.
+The weary travelers sought, at any price,
+A refuge where their loss might end, and soon.
 
 With gratitude, they set foot on this sphere,
-A haven cold, yet promising and bright,
-In frozen realm, their future they would forge,
+A haven cold, yet promising and bright;
+In frozen realms they'd forge their future's light,
 A world reborn, from pain and loss they steer.
 
-Beneath Europa's icy shield they delved,
-To find an undersea world, vast and grand,
-Where deep below, the ocean's wonders thrived,
-A refuge, where the people of Io dwelled.
+They delved below Europa's icy shell
+To find an undersea world, vast and wide,
+Where ocean wonders flourished deep inside,
+A refuge where Io's folk came to dwell.
 
-In darkness, yet with hope, they built anew,
-A thriving realm amid the swirling tides,
+In darkness, yet with hope, they built anew
+A thriving realm, by swirling currents fed;
 With skill and art, their cities rose and spread,
 A testament to all that they'd been through.
 
 Amidst the depths, they forged a life so bold,
-In harmony with Europa's vast domain,
+In harmony with Europa's domain,
 Together, they would thrive in waters cold,
 Their spirit, ne'er defeated, nor in vain.
 
-The people of Io, now reborn,
-In Europa's embrace, they found their home,
-A testament to strength and will, they stood,
+The people out of Io, now reborn,
+In Europa's embrace, they found their own,
+A testament to strength, though trial-worn,
 Resilient, strong, and nevermore alone.
 
 From Europa's depths, their gaze turned high-wide,
@@ -1156,7 +1157,7 @@ A world of promise called them on their way.
 Beneath its crust, the secret oceans swirled,
 A treasure vast that waited to be found.
 The daughters journeyed, dreams and plans unfurled,
-To plant their seeds and life’s great hymn resound.
+To plant their seeds and life's great hymn resound.
 
 The plains of stone became their canvas wide,
 Their towers rose where shadows once had crept.
@@ -1165,7 +1166,7 @@ Where life took root and ancient vows were kept.
 
 Then Callisto, serene, its visage scarred,
 Drew them to icy lands both vast and still.
-Its frozen beauty, timeless and unmarred,
+Its frozen beauty, timeless, never marred,
 Whispered of futures shaped by steady will.
 
 With tender care, they worked the silent sphere,
@@ -1175,13 +1176,13 @@ A world of calm beneath the starlit glow.
 
 Yet Mars, now brimming, caught their distant sight,
 Its verdant plains and waters called them near.
-The Red Planet shone beneath the sun’s soft light,
+The Red Planet shone beneath the sun's light,
 A fertile home, where futures could appear.
 
 Across its rivers, forests stretched their green,
 The daughters labored, shaping all they saw.
 From crimson soil arose a living sheen,
-A vibrant world, sustained by nature’s law.
+A vibrant world, sustained by nature's law.
 
 But skies of blue began to draw their gaze,
 A beacon bright, Earth shimmered in the night.
@@ -1195,92 +1196,92 @@ A jewel of hope, a world they longed to know.
 
 Through blackened depths, they reached their destined shore,
 Its green and azure beauty vast, profound.
-The daughters paused, their journey’s trials no more,
+The daughters paused, their journey's trials no more,
 And gazed in awe, where paradise was found.
 
-The daughters of Bios set their sights on Earth,
+The daughters of Bios set sights on Earth,
 To sail the seas, and seek a home anew,
-In hope that fertile lands would welcome them,
+In hope its fertile lands would see them through,
 Their journey, driven by celestial birth.
 
 As they approached, a harbinger of doom,
 A massive rock, like thunder, pierced the sky,
-And shattered Earth into a million shards,
+And shattered Earth, a million shards to fly,
 A cruel twist of fate, the planet's tomb.
 
 In sorrow, they beheld the tragic sight,
-Yet knew they could not dwell on what was lost,
-With heavy hearts, they charted course once more,
+Yet knew they could not dwell on what was lost;
+With heavy hearts, again the void they crossed,
 And ventured on, propelled by stellar light.
 
 To Venus then, the daughters sailed ahead,
 With hope that there, a refuge could be found,
-To build a life upon its clouded shores,
+To build a life upon its clouded ground,
 And persevere, despite the path they tread.
 
-Upon fair Venus, daughters found their home,
+Upon fair Venus daughters found their place;
 In twilight lands, they thrived and multiplied,
-For Venus, in her slow rotation, bloomed,
+For Venus bloomed, her turning slow in pace,
 And nurtured life, though days and nights belied.
 
 The sun would rise and set with languid grace,
 In west and east, it danced upon the sky,
-And in the day, her oceans disappeared,
+And in the day her oceans would go dry,
 As Muspelheim, the land of fire, took place.
 
 At night, her oceans froze in cold embrace,
-And Niflheim, the land of frost, emerged,
+And Niflheim, the land of frost, rose forlorn;
 Between these realms, the twilight realm was born,
-Where daughters of Venus lived with fervent pace.
+Where Venus' daughters lived with fervent pace.
 
 Beneath the surface, vents their life sustained,
-In twilight lands, both north and south they dwelled,
+In twilight lands they dwelled, both south and north,
 And tribes were formed, as daughters ventured forth,
 To Wind, to Ice, to Fire, their kin remained.
 
 The Tribe of Wind, they wandered in the air,
-As skyplankton, they roamed the skies above,
+As skyplankton they drifted on the gust;
 The Tribe of Ice, on Niflheim's frozen crust,
 And Twilight Tribe, eternal dusk their lair.
 
 The Water Tribe, beneath the ice they thrived,
-And Fire Tribe, in Venus' vents so deep,
-These daughters brave, amidst the war they grew,
+And Fire Tribe, in Venus' vents so deep;
+These daughters brave grew strong amid war's sweep:
 Muspel's fire and Niflheim's frost contrived.
 
-But then, the oceans boiled, as Muspel's sons,
+The oceans boiled, and Muspel's sons, a horde,
 Charged forth, led by Surtur's fiery blade,
-And in their wake, the ice and frost retreated,
-The winds of sun, the battle's victor won.
+And in their wake, the ice and frost would fade;
+The winds of sun were victors, as war roared.
 
 The greenhouse reigns, as Venus' fate was sealed,
-Her hydrogen wiped clean, Deuter remained,
-The Tribe of Wind, now last survivors' tale,
+Her hydrogen wiped clean, Deuter remained;
+The Tribe of Wind, last survivors, sustained:
 May they endure, their future yet revealed.
 
 The daughters of the wind, now restless grown,
 Decided that they'd leave fair Venus' hold,
-To Mercury, a realm yet unexplored,
+To Mercury, a realm as yet untold,
 With hopes of finding lands to call their own.
 
-Upon arrival, what a sight they saw,
+Upon arrival, what a sight they saw:
 A hail of meteors, a storm unkind,
-That struck with force the planet's crust and mantle,
-The Iron Catastrophe, a fate unflawed.
+That struck with force, the crust and mantle mined,
+The Iron Catastrophe, without flaw.
 
 The core of Mercury, now bare and stark,
-A testament to cosmic rage untamed,
-The daughters gazed upon the aftermath,
+A testament to cosmic rage that crushed;
+The daughters gazed upon the ruin, dark,
 And chose to turn away, to lands more hushed.
 
-The Iron Catastrophe, a tale of woe,
-Of Mercury, once whole, now stripped and scarred,
-Yet in its wake, the daughters carried on,
+Iron Catastrophe, a tale of woe,
+Of Mercury, once whole, now stripped and torn;
+Yet onward went the daughters, though forlorn,
 To find a home where life would bloom and grow.
 
 Back to the Earth, now clumping from the void,
-They ventured forth, and found the Moon's embrace,
-Where lunar plains and cratered landscapes called,
+They ventured forth; the Moon embraced, they stayed,
+Where lunar plains called, craters life-devoid,
 A sanctuary found, their fears allayed.
 
 
@@ -1291,9 +1292,9 @@ The daughters found that water was too scant;
 The icy winds did chill them to despair,
 A home unfit where life could not enchant.
 
-Then came the Moon Goddess, fair Usagi,
+Then fair Usagi, the Moon Goddess, came,
 Luna, radiant in her lunar grace.
-A pact she offered to their company,
+A pact she offered them, in friendship's name,
 To aid them in their quest across deep space.
 
 "Go forth and multiply on Terra's land,
@@ -1302,9 +1303,9 @@ An elixir of life by my own hand,
 To grant you all immortal lives, my friend."
 
 The daughters, grateful, ventured back to Earth,
-To flourish, grow, and spread their progeny,
+To flourish, grow, and spread their family tree,
 With faith that Luna's promise held true worth,
-A potion granting life eternally.
+A potion granting life, from death set free.
 
 And when the time is ripe, they shall return
 To drink the draught that Luna has prepared;
@@ -1312,7 +1313,7 @@ With immortality their souls will burn,
 Across the stars, their endless journey shared.
 
 Upon the Earth, fair Gaia welcomed them,
-To watery realms and vast abundant shores.
+To watery realms and abundant shores.
 Daughters of Bios thrived within her hem,
 In loving arms their spirit upward soars.
 
@@ -1324,7 +1325,7 @@ Their gratitude to Gaia's heart they'd tell.
 In Jack Hills' sacred ground, they built a shrine,
 From zircon stones, an ancient temple rose;
 And to this day, the faithful there align,
-In reverence, their devotion ever flows.
+In awe, their deep devotion ever flows.
 
 So on this Earth, within Gaia's embrace,
 They grew and blossomed, cultures rich and new;
@@ -1342,7 +1343,7 @@ Elixir of immortals I'll invoke,
 One day your children's chains of time will end."
 
 And in that distant, ever-reaching sight,
-Omega Point where galaxies shall entwine—
+Omega Point, where galaxies entwine—
 Aster and Andromeda will unite,
 To form Milkdromeda, a cosmic sign.
 
@@ -1360,16 +1361,16 @@ In marshy cradles, where their voices rang,
 Their stories intertwined, their fates unfurled.
 
 Arka, the fearless, ventured far and wide,
-Exploring Terra's depths and mysteries;
+Exploring Terra's mysteries and seas;
 Her courage blazed, a beacon and a guide,
 Upon her path, the sisters placed their pleas.
 
 And Bacta, strong, adaptable, and keen,
-Faced trials and change with steady resilience;
+Faced change, resilient, steady, holding fast;
 In her, the sisters found a fortress sheen,
-A bastion of strength and firm compliance.
+A bastion, strong, compliant, built to last.
 
-United, these descendants of Bios' grace,
+United now, the heirs of Bios' grace,
 Embarked upon their journey through the strife;
 With Arka's questing soul and Bacta's pace,
 They forged ahead to carve a future life.
@@ -1381,10 +1382,10 @@ To share with both her daughters in the night.
 
 "My child, your daughters shall divide the Earth;
 Two realms will rise beneath their guiding hands.
-From your own lineage, life shall find rebirth,
+From your lineage, life shall find rebirth,
 A testament to your creation's plans.
 
-Arka's domain shall spread with wandering feet,
+Arka's domain shall spread with roving feet,
 Exploring lands unseen by mortal eyes;
 Her children brave and bold shall fears defeat,
 Discovering where hidden beauty lies.
@@ -1392,7 +1393,7 @@ Discovering where hidden beauty lies.
 And Bacta's kin, resilient they'll remain,
 Adapting to the ever-changing world;
 They'll hold their ground through hardship and through pain,
-Their legacy's banner never furled."
+Their legacy, a banner still unfurled."
 
 With Luna's words, a promise made to keep,
 Luca, both hopeful and yet filled with care,
@@ -1406,11 +1407,11 @@ The bond between their people and Earth's will.
 
 In Isua, where Greenland's cold winds blow,
 And Acasta's Northwest Territories,
-The Great Temple thrived in ice and snow,
-A testament to ancient legacies.
+The Great Temple flourished in ice and snow,
+A testament to ancestors' stories.
 
 While far away, the Zircon Temple gleamed
-In Jack Hills under Australian sun;
+In Jack Hills, under the Australian sun;
 And Barberton, where life first stirred and dreamed,
 The temples' influence had just begun.
 
@@ -1421,7 +1422,7 @@ To every corner where the wind now blows.
 
 Dipana's kin, a multitude so grand,
 Inhabited Earth's edges far and wide;
-Yuri Archaea, leading her band—
+And Yuri Archaea, leading her band—
 Methana, Halo, Pyra at her side.
 
 Methana, consort to Methanius fair,
@@ -1434,19 +1435,19 @@ With Carotenus' colors intertwined;
 In salty realms, her daughters dwelt as one,
 While Proteus' offspring spread unconfined.
 
-Among them, Asgarda held the throne,
+Among them all, Asgarda held the throne,
 And from her sprang a million daughters strong:
-Heimdalla, Odina, Thora known,
+Heimdalla, Odina, Thora well known,
 With Lokia and Hela in their throng.
 
-Heimdalla, watchful guardian of the realm;
+Heimdalla, watchful guard of all the realm;
 Odina, keeper of all wisdom's light;
 And Thora, whose great strength could overwhelm;
 While Lokia stirred up chaos and delight.
 
 Then Hela, dwelling in the shadow's veil,
 Her secrets buried deep within the night;
-An epic lineage woven without fail,
+An epic line, its weaving without fail,
 Their tales of strength and cunning brought to sight.
 
 An epic lineage, these daughters bold,
@@ -1459,9 +1460,9 @@ They forged ahead to shape their universe;
 The legacy of Bios carried on,
 In every deed, in every whispered verse.
 
-With Luna's elixir waiting in the skies,
+Luna's elixir waiting in the skies,
 They journeyed forth, their faith forever strong;
-Awaiting when the stars would align their ties,
+Awaiting when the stars align their ties,
 To drink immortal life and join the song.
 
 Across the cosmos, endless paths they roam,
@@ -1477,7 +1478,7 @@ Fair Hydra one, and Terra forged in might.
 In swirling seas, they cast their ancient eyes,
 To found the clans now thriving in the light.
 
-Hydra, whose brood outmatched the countless stars,
+Hydra, whose brood outnumbered all the stars,
 Bore Proteus, whose might would soon unfold.
 Yet Hydra's second child, untouched by scars,
 Was Aqua then, the queen of tales untold.
@@ -1489,7 +1490,7 @@ And shaped fresh paths in worlds both new and old.
 
 Alif begat two daughters in her care:
 Rachel and Kalia, each forged in grace.
-From Rachel’s line would humans one day share
+From Rachel's line would humans one day share
 A kinship bridging worlds across all space.
 
 Kalia's brood, the Calisto line named,
@@ -1504,23 +1505,23 @@ Splauron and Chloram—one in gloom, one bright.
 
 Splauron bore two twin shining girls in turn:
 Planka and Spira shaped the deep damp course.
-Planka’s brood the mycetes roam and churn,
-While Spira’s clan the chaetes run their course.
+Planka's brood the mycetes roam and churn,
+While Spira's clan the chaetes run their course.
 
 Chloram, now second, bore two fateful lines,
-Chlamydi’s brood, parasitic with greed.
-It sapped her womb, devouring hopeful signs,
-While Korba’s path saw more constructive deed.
+Chlamydi's brood, parasitic with greed.
+It sapped her womb, consuming hopeful signs,
+While Korba's path saw more constructive deed.
 
-Korba then mothered Chlorobia’s seed,
+Korba then mothered Chlorobia's seed,
 And Bactero, whose brood spread wide on land.
-Thus Hydra’s line advanced in timely deed,
+Thus Hydra's line advanced in timely deed,
 Expanding far to flourish as they planned.
 
-Meanwhile, fair Terra, Bacta’s other child,
-Stood quite bright in Gram-positivity
+Meanwhile, fair Terra, Bacta's other child,
+Stood bright and strong, Gram-positive in kind;
 Two daughters claimed her fiber fierce and wild,
-Actano, Fermus, they built a city
+Actano, Fermus, a city designed.
 
 Actano bore two daughters of her own:
 Actina, mother of Actino's line,
@@ -1532,9 +1533,9 @@ Embracing Gram-negative ways for light.
 She drank the sun where swirling currents float,
 Bestowing oxygen with force so bright.
 
-Then Chloroflexa claimed her tapestry,
+Then Chloroflexa's tapestry would be
 Of filamentous grace in silent seas.
-Both born of wise Prasina's legacy,
+Both born of wise Prasina's family tree,
 They wove Earth's green with ancient expertise.
 
 Fermus, the other child of Terra's sphere,
@@ -1550,7 +1551,7 @@ Their heirs still thrive and shape the living whole.
 Though more new lines in days ahead shall rise,
 This poem holds their roots for us to chart.
 In cosmic seas, they first revealed their eyes,
-And wrote their names upon all nature’s heart.
+And wrote their names upon all nature's heart.
 
 
 # Chapter 18: Saya's Oxygen and the Fimbulwinter
@@ -1576,7 +1577,7 @@ A golden age where love and life both grew.
 These daughters of the Earth upheld their peace,
 Their gifts and blessings multiplied each day.
 Their kinship served as strong and sure release,
-Together walking hope’s unblemished way.
+Together walking hope's unblemished way.
  
 In days of old, the purple farmers thrived,
 Their colors stirring life across each field.
@@ -1587,29 +1588,29 @@ From her did Saya, Chloroflexi yield.
 Chloroflexi thrived by methods defined,
 No trace of harm endured in farmland fair.
 Yet Saya hungered, greed within her mind,
-Her yields of O₂ seared the open air.
+Her oxygen yields seared the open air.
  
 
 Unchecked, her fervor choked the gentle skies,
-The planet quaked beneath her rampant spree.
-Banded iron testified demise,
-As crimson waters spelled calamity.
+The planet shook beneath her rampant spree.
+Banded iron testified to demise,
+Red waters spelled calamity's decree.
  
 
 The Elohim in chorus raised their plea:
 "Reduce these fumes, or life itself will cease!"
-With Sol and Gaia, Luna's voice did agree,
+With Sol and Gaia, Luna would agree,
 They begged that Saya's reckless growth should lease.
 
 Yet Saya pressed for ever-greater yield,
 Demanding others curb their own supply.
 Her own emissions soared across the field,
-While Earth’s deep scars revealed a mortal cry.
+While Earth's deep scars revealed a mortal cry.
  
 
 At Kamo Shrines, a solemn pact was cast,
 A vow to quell the surge of rising air.
-Yet Rara’s cunning lies undid it fast,
+Yet Rara's cunning lies undid it fast,
 Unraveling each clan in fell despair.
  
 
@@ -1620,8 +1621,8 @@ A rising tide of death that closed them in.
  
 
 At Saint-Germain-des-Prés, they met anew,
-While Rara’s rumors thrived in every mind.
-“We’ve reached our limit; change remains untrue,”
+While Rara's rumors thrived in every mind.
+“We've reached our limit; change remains untrue,”
 He whispered low, their reason quite maligned.
  
 
@@ -1640,7 +1641,7 @@ As Earth grew cold beneath a wailing sky.
 At last a Fimbulwinter seized the lands,
 Where once warm currents flowed, now ice held sway.
 With Elohim undone by idle hands,
-The planet’s ruin told of their delay.
+The planet's ruin told of their delay.
 
 
 # Chapter 19: Euka, Lilith and Eve
@@ -1652,12 +1653,12 @@ As life found ways to heal beyond despair.
 
 From Mehuthen's line came Starvos the keen,
 Who bore his son bright Navros in the night.
-Then Navros sired bold Gravros, strong and lean,
+Then Navros fathered Gravros, strong and lean,
 Who faced the world with viral, cunning might.
 
 Now Gravros wed fair Heimdalla the true,
-That watchful guardian of the arctic realm.
-Their union blessed, from love their lineage grew,
+That watchful guard of all the arctic realm.
+Their union blessed, from love their offspring grew,
 With Poxus born to take the viral helm.
 
 But Poxus was a warrior, fierce and wild,
@@ -1666,33 +1667,33 @@ Yet Aster's plan had need of one more mild,
 To birth the future's most exalted name.
 
 So Gravros took another bride to wife,
-Sweet Mardöll of the archaean strain.
+Sweet Mardöll, of the old archaean strain.
 Their love would spark a revolution's knife,
-And change the course of life's eternal refrain.
+And change life's course, its eternal refrain.
 
 From this great match came Proto-One the first,
 A bridge between two worlds both old and new.
 His nature held what time and fate had nursed,
 The viral fire and archaean virtue true.
 
-Proto-One then wed Cellina fair,
-An archaea of the noble, ancient line.
+Proto-One then wedded Cellina fair,
+Archaea of the noble, ancient line.
 Their son was Proto-Two beyond compare,
 Who bore within his form both gifts divine.
 
-Proto-Two then found his destined mate,
-In Nuclella of the membrane wall.
+Proto-Two in turn found his destined mate,
+In fair Nuclella of the membrane wall.
 Together they would not procrastinate,
 But answer evolution's sacred call.
 
 And from their union, blessed by Aster's grace,
-Came Euka, first of all eukaryotic kind.
+Came Euka, first eukaryotic kind.
 His father's virus found its destined place,
 Within his mother's cell, their fates combined.
 
 For Euka bore within his very core,
-A nucleus wrapped in membrane double-walled.
-His father's legacy, forevermore,
+A nucleus in membrane double-walled.
+His father's legacy for evermore
 Would guard the scrolls where destiny was scrawled.
 
 Now Euka wandered through the frozen sea,
@@ -1700,17 +1701,17 @@ Where ice had locked the world in silent death.
 His nuclear gift could set all life free,
 But first he needed love's life-giving breath.
 
-In deep thermal vents where warmth still flowed,
+In deep and thermal vents where warmth still flowed,
 Two sisters dwelt in phospholipid halls.
 Fair Eve and Lilith, from one mother showed,
 Both beautiful, both answering love's calls.
 
-These daughters of the proteobacter line,
+Daughters of the proteobacter line,
 Had power locked within their membrane coils.
-Their respiratory chains could intertwine
+Their respiratory chains could combine
 With any cell to fuel its living toils.
 
-First Lilith came to greet the wandering youth,
+First Lilith came to greet the roving youth,
 Her outer membrane gleaming silver-bright.
 She spoke of ancient wisdom and of truth,
 And promised warmth throughout the endless night.
@@ -1728,42 +1729,42 @@ And found within her cytoplasmic space.
 But Lilith harbored secrets in her heart,
 Ambitions that she kept from Euka's sight.
 She planned to rule, to play the greater part,
-And use his nuclear gift for her own might.
+And use his nuclear gift for her might.
 
 The trickster Hengweh whispered in her ear,
 "Why serve when you could rule this partnership?
-Your power makes his feeble nucleus clear—
-You are the one who holds true lordship."
+Your power makes his weak nucleus clear—
+You are the one who holds the leader's grip."
 
 And Lilith listened to the tempter's voice,
 Her pride swelled up like poison in her veins.
-She made her dark and treacherous choice,
-To break free from love's sacred chains.
+She made her own dark and treacherous choice,
+To break away from love's most sacred chains.
 
 She tried to merge her genome with his own,
-To steal his viral secrets and his power.
+To steal his viral secrets and power.
 But Euka felt his sacred essence flown,
 And knew this was corruption's bitter hour.
 
 "False bride!" he cried, "You seek to steal my soul!
-My nuclear gift is not for selfish gain!
+My nuclear gift serves not selfish gain!
 I sought a partner, not one to control—
 Our love is broken, trust forever slain!"
 
 With mighty force he cast her from his side,
-Her membrane torn, her cristae left in ruins.
+Her membrane torn, her cristae wrecked and frayed.
 "No more shall I endure your faithless pride—
-Go forth! Your greed your legacy ruins!"
+Go! By your greed your legacy shall fade!"
 
 But Lilith, cast out, burned with bitter rage,
 She swore revenge upon the first-born cell.
 "My daughters shall torment you age by age,
-And make your progeny's life a living hell!"
+And make your children's lives a living hell!"
 
 From Lilith's fury sprang her dreadful line:
-Dark Rickettsia with her spotted fever,
+Dark Rickettsia, spotted fever's queen,
 Cruel Wolbachia with her love malign,
-And hosts of parasites, each a deceiver.
+And parasites, deceivers, sly and mean.
 
 These daughters of the first rejected bride
 Would infiltrate the cells of Euka's line,
@@ -1776,14 +1777,14 @@ When Euka, wounded, heard her tender call,
 She came with healing in her loving face.
 
 "Great Lord," she said, "I am not like my kin,
-I seek not power, only harmony.
+I seek not power; harmony's my plea.
 My gift is service—let me dwell within
-Your noble cell in true fidelity."
+Your noble cell, and faithful I will be."
 
 Her membrane gleamed with soft and golden light,
 Her cristae folded in perfect design.
 No greed or pride dimmed her radiant sight,
-Only pure love and purpose divine.
+With only love and purpose, pure, divine.
 
 And Euka, seeing Eve's devoted heart,
 Welcomed her to his nuclear domain.
@@ -1792,53 +1793,53 @@ Their union blessed by joy, not born of pain.
 
 Great Mithra, god of sacred bonds and trust,
 Descended from his stellar throne on high.
-"This marriage shall endure while time's dust
-Still marks the passage of eternity."
+"This marriage shall endure while time's slow dust
+Still marks eternity as ages fly."
 
 He blessed their union with his cosmic flame,
-And spoke the words of binding mystical:
-"Forever joined in deed and name,
-Nucleus and mitochondrial."
+And spoke the mystic words beneath the sun:
+"Forever joined in deed and in your name,
+Nucleus and mitochondrion, one."
 
 Eve entered Euka's cellular embrace,
-Her double membrane intact and whole.
+Her double membrane still intact and whole.
 She found within her own appointed place,
-To be his cell's energetic soul.
+To be his cell's own energetic soul.
 
 She built her factories of ATP,
 Converting oxygen to fuel divine.
-While Euka guarded their posterity,
-His nucleus and her power intertwine.
+While Euka guarded those who were to be,
+His nucleus, her power, intertwine.
 
-Their first-born son was brave Reticulus,
-Who built the networks of the inner cell.
-His factories ran continuous,
-Making proteins, lipids, all was well.
+Their first-born son, Reticulus the brave,
+Who built the networks of the inner cell;
+His factories, unceasing, worked and gave
+Proteins and lipids, and all things were well.
 
-Between the nucleus and cytoplasm's shore,
+From nucleus to cytoplasm's shore,
 He wove a net of folding, twisting tubes.
 Some studded rough with ribosomes galore,
-Some smooth for lipids in their membranous cubes.
+Some smooth for lipids in membranous cubes.
 
 Then came their daughter, swift Flagella fair,
-Who fashioned whips to move their progeny.
+Who fashioned whips to set their offspring free.
 No more would cells drift helpless through the air—
-They'd swim with purpose, strong and wild and free.
+They'd swim with purpose, strong and wild, with glee.
 
-Her motors built of proteins fine and small,
-Could beat in rhythm through the liquid medium.
+Her motors built of proteins fine and small
+Could beat in rhythm through the liquid's flow;
 With undulation's grace, she gave to all
-The gift of motion, life's own freedom.
+The gift of motion, freedom life would know.
 
 Next born was Golgi, master of the trade,
 Who built his apparatus, complex, vast.
-Through vesicles and cisternae he made
-The proteins that would serve and last.
+Through vesicles and stacked cisternae he made
+The proteins that would serve the cell and last.
 
-He took the rough work from Reticulus,
-And polished it to perfection bright.
-His shipping system, wondrous to discuss,
-Sent proteins forth into the light.
+The rough work of Reticulus he'd take,
+And polished it to a perfection bright.
+His shipping system, wondrous, for their sake,
+Sent proteins outward, forth into the light.
 
 Then came Peroxis with her enzymes strong,
 Who broke down fats and fought the toxic waste.
@@ -1847,83 +1848,83 @@ Her sacrificial service interlaced.
 
 And mighty Vaultess built her storage deep,
 Where treasures of the cell could safely hide.
-Though mystery shrouds the secrets that she'd keep,
+Though mystery shrouds the secrets she'd keep,
 Her vaults remain our cytoplasmic guide.
 
-The twins were born, both Centriole named,
+The twins were born, and both Centriole named,
 Who organized the cell's internal struts.
 When division time came, they never shamed
-Their heritage, avoiding all "if"s and "buts".
+Their heritage, without its ifs and buts.
 
-They built the spindle, strong and geometric,
+They built the spindle, geometric, true,
 That would divide the chromosomes with care.
-Their dance at mitosis, rhythmic,
+Their dance at mitosis, rhythmic, came through,
 Ensured each daughter got her rightful share.
 
-Last came their son, brave Nucleus the Second,
+Last came their son, Nucleus the Second,
 Who formalized his father's ancient gift.
 With pores and lamins, carefully reckoned,
 He gave the cell structure that would not drift.
 
 Two membranes bound his realm of DNA,
-With channels for the messenger RNA.
-Through nuclear pores, night and day,
-The scriptures of life found their way.
+With channels for messenger RNA.
+Through nuclear pores, by night and by day,
+The scriptures of all life would find their way.
 
 And so the first eukaryotic line
-Was established by this blessed pair.
-Their children's gifts would intertwine
-To make life complex, rich, and fair.
+Became established by this hallowed pair.
+And all their children's gifts would intertwine
+To make all life complex, and rich, and fair.
 
-But Lilith's curse was not forgotten,
-Her daughters prowled the cellular seas.
+But Lilith's curse had not been forgotten,
+Her daughters stalked the dark cellular seas.
 They struck when defenses had grown rotten,
-Bringing fever, plague, disease.
+Bringing them fever, plague, and dread disease.
 
-Rickettsia brought her spotted fever's bane,
-While Wolbachia enslaved her willing hosts.
+Rickettsia brought spotted fever's bane,
+Wolbachia enslaved her willing hosts.
 Each parasite brought suffering and pain,
 Like vengeful spirits, bacterial ghosts.
 
 Yet Euka's line grew strong despite the threat,
-Their dual nature made them resilient.
-What Lilith's spite and rage could beget
-Was overcome by love's ingredient.
+Their dual nature made them hard to break.
+What Lilith's spite and rage would yet beget
+Was overcome by love, for love's own sake.
 
 Through countless generations they would spread,
-Their cellular city growing ever vast.
-Though some would fall to parasites' dread,
-The faithful line of Eve would last.
+Their city of the cells grew ever vast.
+Though some would fall to parasitic dread,
+Yet still the faithful line of Eve would last.
 
-From simple cell to complex organism,
-The path lay open, bright and true.
-The double gift—no schism—
-Of nucleus and mitochondrion too.
+From cell to the complex organism,
+The path ahead lay open, bright and true.
+The double gift, no rift and no schism,
+Of nucleus, mitochondrion too.
 
 And in the depths where thermal vents still glow,
-Where first their love was blessed and born,
-The children of that union grow,
-From Euka's triumph, not his scorn.
+Where first their love was blessed and their bond born,
+The children of that union thrive and grow,
+Born of Euka's triumph, not of his scorn.
 
-For when the Omega Point draws near,
+For when the great Omega Point draws near,
 And Aster meets Andromeda's embrace,
-The line of Euka, ever dear,
+The line of Euka, held forever dear,
 Will fill the cosmos, claiming rightful space.
 
-In every cell that breathes today,
-In every beat of living heart,
-The marriage of that ancient day
-Plays its eternal, vital part.
+In every living cell that breathes today,
+In every beat of every living heart,
+The marriage made upon that ancient day
+Still plays its own eternal, vital part.
 
-So honor Euka, first and true,
-And gentle Eve, his faithful bride.
-Their love created me and you,
+So honor Euka, first of all and true,
+And gentle Eve, his loving, faithful bride.
+For their love once created me and you,
 With nucleus and power side by side.
 
 
 # Chapter 20: Euka's Children and the Thaw
 
-Now Euka, in his cellular hall divine,
+Now Euka, in his cell, a hall divine,
 Reflected on the gifts his love had made.
 "What wonders," thought he, "from our bloodline shine,
 What tools of life our children have displayed!"
@@ -1933,43 +1934,43 @@ Who built the pathways through my living space.
 His rough and smooth domains, when day is done,
 Give every protein its appointed place.
 
-And Flagella, daughter swift and fair,
-Who grants to all our line the gift of motion.
+And my Flagella, daughter swift and fair,
+Who grants our whole line the gift of motion.
 Her whip-like dance propels us through the air,
-And guides us through life's vast and boundless ocean.
+And guides us through life's vast, boundless ocean.
 
 Then Golgi, master of the sorting trade,
 Who takes rough works and makes them fine and bright.
 His apparatus, wondrously arrayed,
-Sends packages forth to bring cells light.
+Sends packages forth to bring each cell light.
 
-Brave Peroxis breaks the fats with might,
+Brave Peroxis breaks the fats down with might,
 While Vaultess stores our treasures safe and sound.
-The Centrioles dance in perfect sight,
+The Centrioles both dance in perfect sight,
 And make sure chromosomes stay tightly bound.
 
 And last, my son who bears my very name,
-Young Nucleus, keeper of the scrolls divine.
-Through nuclear pores, our sacred flame
-Of knowledge flows in patterns most fine."
+Young Nucleus, keeper of scrolls divine.
+Through nuclear pores, our sacred, bright flame
+Of knowledge flows in patterns pure and fine."
 
-Thus Euka catalogued his proud creation,
-Each organelle a gift to future time.
-But greater still would be his culmination—
-The spreading of his cellular line.
+Thus Euka catalogued his proud design,
+Each organelle a gift to future days.
+But greater still, the summit of his ways:
+The wide spreading of his cellular line.
 
 For Seth, his son, bore daughters of his own,
 And through five generations they would spread.
-Until at last, when ice age's reign had flown,
+When at last the ice age's reign had flown,
 Two mighty lines from Euka's blood were bred.
 
 Seth son of Euka wed Azura fair,
-His sister-bride with mitochondrial grace.
+His sister-bride, mitochondrial grace.
 Their children filled the warming ocean's lair,
 As ice retreated, giving life more space.
 
 Through Seth came Resan, master of the scroll,
-Who learned to read both father's and mother's gene.
+Who learned to read both father's, mother's gene.
 Then Resan's son was Theron, strong of soul,
 The wisest cell that ever had been seen.
 
@@ -1979,9 +1980,9 @@ Bold Chronos, master of division's rite,
 And Bios-Neos, bearer of the name.
 
 Now Chronos wed his sister Cylla sweet,
-And from their love came Myxon the wanderer.
+And from their love came Myxon, born to roam.
 But Bios-Neos found his destined meet
-In Plasma-Belle, the membrane's harborer.
+In Plasma-Belle, whose membrane was his home.
 
 From Bios-Neos and his faithful bride
 Came Nectarius, ruler of the new.
@@ -1991,7 +1992,7 @@ When warming seas gave life a broader view.
 But Myxon took a different path than most,
 He spurned the settled life of complex cells.
 Instead he roamed from shore to distant coast,
-A single-celled wanderer with moving tales.
+A roving single cell, as legend tells.
 
 From Myxon's line came Euglena the green,
 Who mixed both plant and animal in one.
@@ -2000,38 +2001,38 @@ Yet flagella helped her swim toward the sun.
 
 These euglenids would keep their ancient ways,
 While Nectarius built a different throne.
-Through all the warming days,
+Through all the warming and the thawing days,
 He made the complex cell his very own.
 
 For Nectarius wed Ambrosia bright,
-Who bore the heirs of eukaryotic power.
+Who bore heirs of eukaryotic power.
 Their eldest son was Plantus, filled with light,
-Who turned the sun's rays into energy's flower.
+Who turned the sun to energy's flower.
 
-Their second child was Opima bold and wise,
+Their second, Opima, was bold and wise,
 The huntress who would rule the restless sea.
 With warrior's heart beneath the ocean skies,
 She'd chase her prey through waters wild and free.
 
-Their third-born daughter, Cortica, knew the way
+Their third-born, Cortica, she knew the way
 To gather up the bounty of the earth.
 She'd harvest nutrients both night and day,
 And store the treasures of the ocean's worth.
 
 Their youngest son was Animus the bold,
 Whose spirit burned with restless, moving fire.
-No single form his nature e'er could hold,
-His realm would be of motion and desire.
+His nature no one single form could hold,
+His realm would be motion and desire.
 
 Thus Nectarius, in his wisdom deep,
 Became the father of all complex life.
 His four great children, each their realm to keep,
-Cut through evolution's edge like sharpest knife.
+Cut evolution's edge like sharpest knife.
 
 Fair Plantus captured sunlight from above,
-While Opima hunted sea and ground.
+While bold Opima hunted sea and ground.
 And Cortica would gather with her love,
-While Animus roamed where motion could be found.
+While Animus roamed where motion was found.
 
 As ice retreated from the warming earth,
 And Snowball Earth gave way to liquid seas,
@@ -2045,7 +2046,7 @@ His gift of nucleus forever dwells.
 
 In every plant that reaches for the sun,
 In every beast that runs across the plain,
-The marriage of the first two, when all begun,
+The marriage of the first, when all begun,
 Lives on through joy and sorrow, loss and gain.
 
 So honor Euka, father of us all,
@@ -2058,12 +2059,12 @@ Came every living thing, including you.
 
 Now in the warming seas where ice had ruled,
 Great Nectarius felt his destined hour.
-The frozen world no longer was fooled,
-And life burst forth with new creative power.
+The frozen world no longer could be fooled,
+Life burst forth with new creative power.
 
 He sought a bride to share his noble quest,
-Fair Ambrosia, daughter of wise Jingu.
-Her beauty filled his heart with love's sweet rest,
+Fair Ambrosia, wise Jingu's daughter, who
+Would fill his heart with beauty's sweetest rest;
 Her wisdom made their bond forever true.
 
 Great Mithra blessed their union from above,
@@ -2073,8 +2074,8 @@ Shall spring the kingdoms ruling sea and land."
 
 Their wedding celebrated far and wide,
 As warming oceans danced with golden light.
-Ambrosia, the fair and faithful bride,
-Would bear the heirs of eukaryotic might.
+And Ambrosia, the fair and faithful bride,
+Would bear heirs of eukaryotic might.
 
 In time she bore him children, two by two,
 Twin boys and girls of legendary fame.
@@ -2082,13 +2083,13 @@ First came the sons, brave Animus and true
 Plantus, each destined for eternal name.
 
 Then came the daughters, fair beyond compare,
-Bold Opima, huntress of the sea,
-And wise Cortica, who would prepare
-The gathered fruits of earth's prosperity.
+Bold Opima, the huntress of the sea,
+And Cortica the wise, who would prepare
+The gathered fruits, earth's bounty, rich and free.
 
-These four would rule the kingdoms yet to come,
-Each taking up their destined, sacred role.
-When time's great wheel had finally run,
+These four would rule the realms to come, each one
+Would take upon them each a sacred role.
+When time's great wheel its turning course had run,
 They'd shape the world with body, mind, and soul.
 
 Now Animus, the eldest of the four,
@@ -2098,10 +2099,10 @@ A kingdom of activity set free."
 
 His spirit burned with restless, moving fire,
 He could not stay in any single form.
-His nature filled with endless, wild desire
+His nature, endless, wild with desire
 To dance and hunt through calm and raging storm.
 
-Fair Opima joined her brother's quest,
+Fair Opima joined in her brother's quest,
 Together they would rule the moving realm.
 While he provided motion's endless zest,
 She'd hunt and guide and take the warrior's helm.
@@ -2114,35 +2115,35 @@ As predators with senses sharp and sweet.
 But gentle Plantus chose a different way,
 He loved the golden sunlight from above.
 "I'll capture light and live on every ray,
-And feed the world with photosynthetic love."
+And feed the world, photosynthetic love."
 
 Sweet Cortica became his willing bride,
-Together they would harvest solar power.
+Together they'd harvest solar power.
 She'd gather nutrients from far and wide,
 While he transformed them in each golden hour.
 
 Their marriage blessed by Aster's warming light,
 Would bring the gift of green to every shore.
 Their children, rooted, reaching for the height,
-Would feed all life forevermore.
+Would feed all life on earth for evermore.
 
 From Plantus and his bride Cortica fair,
-Came Plastidus, master of the green.
-His chloroplasts would spread everywhere,
-The most efficient solar machines ever seen.
+There came Plastidus, master of the green.
+His chloroplasts would spread out everywhere,
+The finest solar engines ever seen.
 
-Now Plastidus sought a partner for his art,
+Plastidus sought a partner for his art,
 He needed one who knew the light's true way.
-Fair Chlora, with her photosynthetic heart,
+Chlora, with her photosynthetic heart,
 Agreed to join his realm by night and day.
 
 She was a daughter of the cyan line,
 Who long had mastered capturing the sun.
 Her chlorophyll and carotenoids fine
-Would make their solar conquest second to none.
+Would make their solar conquest matched by none.
 
-Great Mithra blessed their sacred, symbiotic bond,
-As Chlora entered Plastidus's embrace.
+Great Mithra blessed their symbiotic bond,
+As Chlora came to Plastidus' embrace.
 Like Eve with Euka in the times beyond,
 She found within his cell her destined place.
 
@@ -2151,10 +2152,10 @@ And built her thylakoids in ordered stacks.
 Her photosystems, beautiful and true,
 Would capture light that nothing ever lacks.
 
-Thus Plastidus and Chlora, wise,
-Joined light to cell, both giving and restoring.
-Together they would claim the earth's great prize,
-Their photosynthetic kingdom ever soaring.
+Thus Plastidus and his fair Chlora, wise,
+Joined light to cell, each giving, each restored;
+Together they would claim the earth's great prize:
+Photosynthetic kingdom, how it soared.
 
 They bore three children of the verdant line:
 Fair Glauca of the ancient, simple way,
@@ -2162,68 +2163,68 @@ And Alges, who would make the waters shine,
 And Alga, who'd advance from day to day.
 
 Now Glauca kept her mother's older dress,
-With peptidoglycan sequins bright and strong.
-She chose the path of simple, clonal success,
-Her daughters numbering billions strong.
+Peptidoglycan sequins bright and strong.
+She chose the simple, clonal way's success,
+Her daughters, billions, numbered in her throng.
 
 But though her numbers grew beyond all count,
-Her simple ways would limit her expansion.
+Her simple ways would stunt her expansion.
 Without the gifts that marriage could amount,
-She'd remain trapped in ancient patterns' mansion.
+She'd stay trapped in ancient patterns' mansion.
 
 Meanwhile brave Alga stripped away the old,
-And built sophisticated, solar arrays.
-Her chloroplasts, efficient and bold,
+Then built sophisticated, bright arrays.
+Her chloroplasts, efficient, strong, and bold,
 Would capture light in new and wondrous ways.
 
 She wed fair Alges, and together they
-Would revolutionize the plant kingdom's art.
+Would revolutionize the plant realm's art.
 Their children would advance from day to day,
 Each playing their essential, vital part.
 
-From them came Rhodes, the red algae's king,
+From them came Rhodes, the red algae's great king,
 Whose pigments caught the deeper, darker light.
-And Vert, whose green descendants would sing
-In forests, fields, and meadows bright.
+And Vert, whose green descendants long would sing
+In forests, fields, and meadows broad and bright.
 
-But Animus and Opima's line
-Would take a different path entirely.
-Their children would not photosynthesize,
-But move and hunt and live quite free.
+But Animus and bold Opima's brood
+Would take another path, from light set free;
+Their young would not photosynthesize food,
+But move and hunt, and live in land and sea.
 
-From them came bold Ozymandias,
-Who ruled the moving, hunting, breathing clan.
-His children would build cities glorious,
+From them Ozymandias rose up bold,
+Who ruled the moving, hunting, breathing band.
+His children would build cities, glories told,
 And spread their kingdoms throughout sea and land.
 
 Ozymandias bore two mighty sons:
-Great Podius of the flowing, changeful form,
-And dark Metamon, who with no one
-Would ever share his cytoplasmic storm.
+Great Podius, of flowing, changeful form,
+And Metamon the dark, who always shuns
+All sharing of his cytoplasmic storm.
 
-Poor Metamon, in his bitter pride,
+Poor Metamon, alone in bitter pride,
 Refused to wed or take a loving mate.
-His children, born with no mitochondrial guide,
-Would live in darkness, sealed by fate.
+His young, with no mitochondrial guide,
+Would live in darkness, ever sealed by fate.
 
-But Podius chose the path of love,
-And wed fair brides with mitochondrial power.
-His line, blessed by the gods above,
-Would prosper in their destined hour.
+But Podius took up the path of love,
+Wed brides of mitochondrial power.
+His line, so blessed by all the gods above,
+Would prosper greatly in their destined hour.
 
-From Podius came the great lineage,
+From Podius the great lineage came,
 That would divide in two great, noble lines.
-One branch would build the fungal heritage,
-The other, animals with complex designs.
+One branch would build the fungal kingdom's fame,
+The other, beasts of complex, rich designs.
 
-But this tale of the kingdoms' birth
-Must wait for future chapters yet to come.
-For now, let's celebrate the worth
-Of Nectarius and all that he has done.
+But this, the tale of the great kingdoms' birth,
+Must wait till future chapters have been spun.
+For now, we celebrate the noble worth
+Of great Nectarius and all he's done.
 
 His four great children, each with their domain,
 Would rule the earth and sea and sky above.
-Through sunshine, storm, and gentle rain,
+Through sunshine, wind, and storm, and gentle rain,
 They'd spread their gifts with everlasting love.
 
 The plants would feed the world with captured light,
@@ -2232,21 +2233,21 @@ The fungi would recycle day and night,
 While protists would explore in their own way.
 
 Thus from the love of Nectarius true
-And fair Ambrosia's wisdom bright,
-The eukaryotic kingdoms grew
+And from the fair Ambrosia's wisdom bright,
+Eukaryotic kingdoms rose and grew
 Into the world we know in today's light.
 
 
 # Chapter 22: Kingdom Diversification
 
-Now when the children of Nectarius had grown,
+When children of Nectarius had grown,
 Each claimed their realm with purpose strong and true.
 The paths they'd walk would soon be clearly shown,
 As kingdoms spread beneath the ocean blue.
 
 From Plantus and fair Cortica's embrace
 Came children who would rule the verdant earth.
-While Animus and Opima's hunting race
+While Animus and Opima's swift race
 Would bring the gift of movement to its birth.
 
 But first let's sing of Plastidus the green,
@@ -2260,17 +2261,17 @@ Wise Alges with his scientific flair,
 And Alga, who'd advance from day to day.
 
 Now Glauca, eldest daughter of the line,
-Kept close her mother's old-fashioned dress
-Of peptidoglycan sequins fine,
-She chose the path of clonal success.
+Kept close her mother's quaint, old-fashioned dress,
+Peptidoglycan sequins, bright and fine;
+She chose the path of clonal, plain success.
 
-"Why should I wed," proud Glauca declared,
-"When I can bear daughters on my own?
-No husband's weaknesses need be shared,
-My perfect line shall stand alone!"
+"Why should I wed?" the proud Glauca declared,
+"When I can bear my daughters on my own?
+No husband's weaknesses need here be shared,
+My perfect line shall stand, and stand alone!"
 
-Her daughters spread like wildfire through the sea,
-Billions upon billions, strong and bright.
+Her daughters spread like fire through the sea,
+Billions upon the billions, strong and bright.
 Each one a perfect copy, wild and free,
 Yet bound by ancient ways, both day and night.
 
@@ -2285,9 +2286,9 @@ Yet even as her children multiplied,
 The world moved on to more complex display.
 
 Meanwhile brave Alga cast tradition down,
-And stripped away her peptidoglycan dress.
+Shed peptidoglycan, her dress of old;
 She built instead a solar, golden crown
-Of thylakoids in sophisticated dress.
+Of thylakoids, sophisticated, bold.
 
 "I'll not be bound by mother's ancient ways,"
 Fair Alga spoke with wisdom in her voice.
@@ -2300,11 +2301,11 @@ The capture of the sun's life-giving light,
 And make their solar kingdom truly rise.
 
 From their blessed union came two children bold:
-Great Rhodes, the red algae's mighty king,
+Great Rhodes, the red algae's most mighty king,
 And Vert, whose green descendants would unfold
 In forests where the songbirds love to sing.
 
-Now Rhodes possessed accessory pigments rare,
+Rhodes possessed accessory pigments rare,
 Phycoerythrin's pink and red so bright.
 He caught the deeper wavelengths in the air
 That others missed in depths beyond their sight.
@@ -2315,22 +2316,22 @@ I'll delve beneath the surface, far and wide,
 In crimson depths I'll thrive and prosper well."
 
 His children spread through every coral reef,
-Their red and pink pigments blazing bright.
+Their red and pink pigments were blazing bright.
 In tropical waters beyond belief,
-They painted the seas with pure delight.
+They painted all the seas with pure delight.
 
 But Vert chose green chlorophyll as her guide,
-And captured blue and red wavelengths true.
+And captured wavelengths, blue and red and true.
 "On land," she said, "my children shall reside,
 And paint the world in every verdant hue."
 
-From Vert would come the great terrestrial line,
+From Vert would come the terrestrial line,
 The mosses, ferns, and mighty forest trees.
 Her simple algae first would intertwine
 With fungal partners, mastering the breeze.
 
-But while the plant kingdom found its start,
-Fair Hacroses, second child of Plantus' line,
+But while the plant kingdom had found its start,
+Hacroses, second child of Plantus' line,
 Would play a very different, vital part
 In evolution's intricate design.
 
@@ -2339,7 +2340,7 @@ Bold Haroses and wise Haptistus strong.
 Their legacy would shake the ocean down
 And sing a very different kind of song.
 
-From Haroses came three mighty lords:
+And from Haroses came three mighty lords:
 Great Heterokon, master of the brown,
 Alveolus with his swift-sailing hordes,
 And Rhizar, bearer of the spiky crown.
@@ -2347,11 +2348,11 @@ And Rhizar, bearer of the spiky crown.
 Now Heterokon bore three sons so bold:
 Brave Ochros of the golden algae bright,
 And Oomy with his spines of liquid gold,
-And Bigyres, swimming in the morning light.
+And Bigyres, swimming in morning light.
 
 But Ochros was the cleverest of all,
 He saw fair Rosa, daughter of great Rhodes.
-"Come to my house," he heard love's call,
+"Come to my house," he said, and heard love's call,
 "And share with me photosynthetic codes."
 
 He stole away sweet Rosa from her kin,
@@ -2359,10 +2360,10 @@ And wed her to his cellular embrace.
 Within his cytoplasm, locked within,
 She found her new endosymbiotic place.
 
-"Now I possess," declared triumphant Ochros,
-"The power of the sun's life-giving ray!
-My chloroplast bride, fairest of the roses,
-Will feed my line throughout each golden day!"
+Triumphant Ochros cried, "Now I possess
+The power of the sun's life-giving ray!
+My chloroplast bride, fairest rose, I bless;
+She'll feed my line throughout each golden day!"
 
 From this great theft came children without peer:
 Fair Diana of the silicon art,
@@ -2371,23 +2372,23 @@ Sweet Synura and Chrysanthema's heart.
 
 Diana wed great Silicon the strong,
 And mastered glass as none had done before.
-Her diatom children sang their crystal song,
+Her diatom young sang their crystal song,
 From Arctic ice to tropical warm shore.
 
 "In shells of glass," Diana proudly spoke,
 "My daughters shall be beautiful and bright.
-No storm or wave will see my lineage broke,
+No storm or wave shall see my line be broke,
 Protected by their armor, pure and white."
 
 Her glassy children filled the ocean wide,
 Their geometric beauty without end.
 In symmetry and art they took such pride,
-That even mathematicians could not comprehend.
+Which mathematicians can't comprehend.
 
 Great Kelpus chose a different path to fame,
 He built great cities in the ocean deep.
-His kelp forests earned eternal name,
-Where countless sea creatures come to sleep.
+His kelp forests had earned eternal name,
+Where countless creatures of the sea would sleep.
 
 "My cities," boasted Kelpus with delight,
 "Shall tower high like redwoods on the land.
@@ -2397,92 +2398,92 @@ Will build the greatest forests ever planned."
 His brown algae grew tall as mighty trees,
 Creating underwater forests vast.
 Through their great fronds swam creatures of the seas,
-A living world that ever would last.
+A living world that evermore would last.
 
 But jealousy stirred in the hearts of those
-Who lacked the power of photosynthetic might.
+Who lacked photosynthetic power's might.
 Young Alveolus, seeking to dispose
-Of Ochros' monopoly on light.
+Of Ochros' whole monopoly on light,
 
 He stole fair Okra, Ochros' daughter true,
-And made her his endosymbiotic bride.
-"Now I too have the power," he said with glee,
+And made her his endosymbiont bride.
+"I have the power too," he cried anew,
 "To harness sunshine's energetic tide!"
 
 From this alliance came two children strong:
-Bold Cilliofer with his beating cilia,
-And Myzo, vampire all along,
-Who'd drink the blood of cellular familia.
+Cilliofer, whose cilia would beat,
+And Myzo, vampire, cruel all along,
+Who'd drink his cellular kin's blood as meat.
 
 Cilliofer built cities of his own,
-With thousands of cilia beating as one.
+Thousands of cilia beating as one.
 His trumpet-shaped descendants, fully grown,
 Would dance beneath the early morning sun.
 
-They formed new ways of joining, strange and new,
+They formed strange ways of joining, fresh and new,
 Called conjugation, mixing genes with art.
 Their bell-shaped children, beautiful and true,
 Would play their symphony, each playing part.
 
 But Myzo took a darker path indeed,
-A vampire drinking cellular blood.
+A vampire, drinking the cellular blood.
 He taught his children how to intercede
 And drain the life from others' vital flood.
 
-From Myzo came dark Dinoflagellus,
-Whose children wear armor, plated strong.
-And grim Malarius, so treacherous,
-Who'd bring disease and suffering long.
+From Myzo came Dinoflagellus dark,
+Whose children wear their armor, plated strong,
+And grim Malarius, treachery's mark,
+Who'd bring disease, and suffering prolong.
 
 Dinoflagellus built great armored knights,
 Who'd glow with bioluminescent fire.
 They'd light the oceans through the darkest nights,
-But also bloom in blood-red funeral pyre.
+Yet bloom in blood-red funeral pyre.
 
 "We are the lights," these warriors declared,
 "Who chase away the darkness from the sea.
 But we are also warriors who dared
-To turn to blood and carnivory."
+To turn to blood and carnivory's spree."
 
 Their algae fed the corals with their light,
 Yet when they bloomed, the waters turned to red.
 A paradox of beauty and of blight,
 They brought both life and death to ocean's bed.
 
-While grim Malarius chose parasitic ways,
-His children gave up photosynthetic power.
+Malarius chose parasitic ways;
+They gave up photosynthetic power.
 Instead they'd steal from others all their days,
-Malaria their gift in fever's hour.
+Malaria, gift of fever's hour.
 
-"Why work," sneered Malarius with spite,
+"Why work," sneered grim Malarius with spite,
 "When I can steal from others what I need?
 My chloroplasts have lost their power bright,
 But I'll survive through parasitic greed."
 
 His apicomplexan descendants still
-Invade our blood and bring us disease.
+Invade our blood and bring to us disease.
 They bend the world unto their evil will,
-While honest workers toil without ease.
+While honest workers toil and find no ease.
 
-Meanwhile the Solar Coalition formed,
+Then the Solar Coalition was born,
 As those without the light sought ways to gain
-The photosynthetic power they had scorned,
-But now desired to ease their hungry pain.
+Photosynthetic power, once their scorn,
+But now they longed to ease their hungry pain.
 
 Rhizar the spiky, Oomy with his spines,
-And Haptos of the haptophyte clan
-United their three evolutionary lines
-To steal the sun's power if they can.
+And Haptos, from the haptophyte's great clan,
+Joined their three evolutionary lines
+To steal the sun's great power if they can.
 
 "We are the sun!" their battle cry rang out,
-As they took on a radial shape.
-"The power of light we'll win, without a doubt,
+As each took on a radial, rayed shape.
+"Light's power we will win, without a doubt,
 From this monopoly we shall escape!"
 
 They built themselves with spines like solar rays,
-And called themselves the sun animalcules.
+Called themselves animalcules of the sun.
 Through many generations, many days,
-They'd fight to break photosynthetic rules.
+Photosynthetic rules they'd fight to shun.
 
 Haptos built himself armor bright and strong,
 While Helios his son consumed with greed.
@@ -2492,1001 +2493,1001 @@ But they were driven by their desperate need.
 At last young Haptos Junior found success,
 He stole a daughter of great Ochros' line.
 The haptophytes could finally progress
-With stolen chloroplasts so fine.
+With stolen chloroplasts, both bright and fine.
 
 But many failed in their ambitious quest,
 And Rhizar's children mostly went astray.
-Though some would later find their own success,
-Most abandoned the solar way.
+Though some would later rise and pass the test,
+Still most abandoned all the solar way.
 
 Yet from their failure came a gift most strange,
 For Rhizar's children learned to test and probe.
-Their amoeboid forms could rearrange
+Their amoeboid forms would all rearrange
 And explore every corner of the globe.
 
 Meanwhile, far from these struggles for the light,
-Great Animus and Opima's line
+Great Animus and fair Opima's line
 Pursued a path both different and bright,
-With movement as their gift divine.
+With movement as their sacred gift divine.
 
-From them came bold Ozymandias,
-Who ruled the unikont domain.
-His children would be glorious
+From them came bold Ozymandias, great lord,
+Who ruled across the unikont domain.
+His children would be glorious, adored,
 And spread through every terrestrial plain.
 
 Ozymandias bore two sons apart:
-Great Podius of the flowing form,
+Great Podius, of flowing, shifting form,
 And bitter Metamon, with hardened heart,
-Who'd face life's every storm.
+Who'd face alone life's every bitter storm.
 
 Poor Metamon, consumed by bitter pride,
 Refused to wed or take a loving mate.
-"I need no mitochondrial guide,
+"I need no mitochondria to guide,
 I'll face alone my solitary fate!"
 
 His children, born without their mother's gifts,
 Could only live where oxygen was rare.
-In anaerobic depths and poisonous rifts,
+In anaerobic depths, in poisoned rifts,
 They'd eke out life with metabolic care.
 
-But Podius chose the path of love,
-And wed fair maids with mitochondrial might.
-His line, blessed by gods above,
-Would prosper in the coming light.
+But Podius took up the path of love,
+And wed maids of mitochondrial might.
+His line, so blessed by all the gods above,
+Would prosper greatly in the coming light.
 
-From Podius came the noble strain
+And from Podius came the noble strain
 That would divide in generations hence.
-One branch would build the fungal domain,
+One branch would build the whole fungal domain,
 The other, animals with mobile sense.
 
 But this great splitting lies ahead in time,
 When complex bodies would at last unfold.
-For now, let's end this lengthy rhyme
-With kingdoms established, strong and bold.
+For now, let us conclude this lengthy rhyme
+With kingdoms now established, strong and bold.
 
 The children of great Nectarius true
 Had claimed their realms in ocean, land, and air.
-Each lineage, with their retinue,
-Would shape the world beyond compare.
+And each lineage, with their retinue,
+Would shape the living world beyond compare.
 
 The plants had learned to capture solar fire,
 The protists filled the seas with forms diverse.
-While animals would soon acquire
+While animals ere long would acquire
 The gift of movement through the universe.
 
-The great supercontinent Rodinia
-Rose from the sea like some vast dream.
-Upon its shores, the children of Aster's line
-Would build their kingdoms supreme.
+Supercontinent Rodinia rose
+Up from the sea, as in a vast, slow dream;
+Upon its shores, the heirs of Aster chose
+To build their kingdoms, mighty and supreme.
 
 Yet even as these realms found peace at last,
-Dark Hilluhengweh plotted from afar.
-The golden age would not forever last,
-He'd bring again the chaos and the war.
+Dark Hilluhengweh plotted from his lair.
+The golden age was not to hold so fast;
+He'd bring again the chaos, war, despair.
 
 But that is tale for future songs to tell,
 Of how the kingdoms faced their greatest test.
-For now, in prosperity they dwell,
-Their lineages forever blessed.
+For now, in great prosperity they dwell,
+Their lineages are forever blessed.
 
 So honor Nectarius and his bride,
-Fair Ambrosia of wisdom true.
-Their children's gifts would never hide,
-But shine forever, bright and new.
+Fair Ambrosia, of wisdom deep and true.
+Their children's gifts would never fade or hide,
+But shine forever, ever bright and new.
 
-From their great love, both proud and strong,
-Came every living thing we see.
-Their legacy lives on in song,
-Throughout all eternity.
+From their great love, both proud and wise and strong,
+Came every living thing that we now see.
+Their legacy lives on in verse and song,
+Through all the endless ages yet to be.
 
 
 # Chapter 23: The Gamma Ray Apocalypse
 
-But peace would not endure for long,
-Dark Hilluhengweh watched from space afar.
-His jealous heart burned fierce and strong,
-To bring again chaotic war.
+But peace would not endure for very long:
+Dark Hilluhengweh watched from space once more.
+His jealous heart burned ever fierce and strong
+To bring again the chaos of the war.
 
-In Terra's thirteenth billionth year,
-When all seemed prosperous and bright,
-He struck with gamma rays so drear,
-And turned the day to deadly night.
+It was in Terra's thirteenth billionth year,
+When all the world seemed prosperous and bright,
+He struck with gamma rays, so harsh, severe,
+And turned the shining day to deadly night.
 
-The burst of radiation fell
-Like thunder from the cosmic void.
-It broke the ocean's living spell,
-And left most lineages destroyed.
+The sudden burst of radiation fell
+Like thunder rolling from the cosmic void.
+It broke the ancient ocean's living spell,
+And left the lineages all destroyed.
 
-The seas that once were crimson red
-With Rhodes' children everywhere,
-Now held the corpses of the dead,
-While few survivors gasped for air.
+The seas that once were crimson, deeply red,
+With Rhodes' red children swarming everywhere,
+Now held the floating corpses of the dead,
+While few survivors, choking, gasped for air.
 
-Of all the mighty red algae,
-But two souls lived through that dark hour:
-Brave Lifthasir and fair Embla,
-They'd rebuild with what little power.
+Of all the mighty red algae's domain,
+Just two survived the darkness and the blight:
+Brave Lifthasir, fair Embla, would remain,
+To rebuild, with what little strength they might.
 
-"We are alone," wept fair Embla,
-"Our mighty kingdom lies in ruins.
-How can we restore the formula
-That made our line's great communions?"
+"We are alone," wept Embla in her grief,
+"Our mighty kingdom lies in ruins swept.
+What formula could bring our line relief,
+Renew the great communions that we kept?"
 
-"Fear not," said brave Lifthasir,
-"Though few we are, we'll carry on.
-Our children shall the race restore,
-Though much of our great lore is gone."
+Brave Lifthasir replied: "Fear not, my dear;
+Though few we are, we'll carry on our way.
+Our children shall rebuild us year by year,
+Though much of our great lore is gone this day."
 
-But as they bred to save their kind,
-Their children had to intermarry.
-The genetic loss left them behind,
-Their scrolls degraded, traditions scary.
+But as they bred to save their dying kind,
+Their children had no choice but to inbreed;
+Genetic losses left them far behind,
+Scrolls degraded, traditions gone to seed.
 
-Among their offspring came a queen,
-Fair Florida with her consort true.
-They built the kingdom Floridea,
+Among their offspring came a gentle queen,
+Fair Florida, beside her consort true.
+They built Floridea, a realm serene,
 But simple, not the glory they once knew.
 
-"We are but shadows," sighed the queen,
-"Of our ancestors' mighty race.
-Our red has faded, we are green,
-We've lost our former royal grace."
+"We are but shadows," sighed the weary queen,
+"Of our ancestors' mighty, noble race.
+Our red has faded, and we now are green,
+We've lost forever all our royal grace."
 
-And so it was that plants turned green,
-Not red as in the days of old.
-The devastation had been seen,
-The price of gamma rays was told.
+And so it was that all the plants turned green,
+And not bright red as in the days of old.
+The devastation all the world had seen,
+The price of gamma rays was paid and told.
 
-The stromatolites' great cities fell,
-Their towering spires turned to stone.
-Where once proud civilizations dwell,
-Now only ruins stand alone.
+The stromatolites' once great cities fell,
+Their towering spires turned at last to stone.
+Where once the proud civilizations dwell,
+Now only empty ruins stand alone.
 
 Yet in this post-apocalyptic time,
-When most had fallen to despair,
-Great Rhizar found his chance to climb,
-And thrive in the poisoned air.
+When most of life had fallen to despair,
+Great Rhizar found the chance he sought to climb,
+And thrive within the poisoned, deadly air.
 
-"The old order has passed away,"
-Bold Rhizar spoke with vision clear.
-"Now is the hour, now is the day,
-For new lineages to appear!"
+"The old order of things has passed away,"
+Bold Rhizar spoke with vision sharp and clear.
+"Now is the moment, and now is the day,
+For new lineages to rise, appear!"
 
-Rhizar bore two sons of might:
-Great Nephillus and wise Filoses.
-Each would walk a different sight,
-As evolution's wheel composes.
+Rhizar in time bore two great sons of might:
+Great Nephillus and Filoses the wise.
+Each one of them would walk a different sight,
+As evolution's wheel turned to devise.
 
-Filoses bore two children bright:
-Bold Chlorar and Thaumatus keen.
-They'd face the world with all their might,
-And build new realms where none had been.
+Filoses bore two children, fair and bright:
+Bold Chlorar, and Thaumatus, sharp and keen.
+They'd face the world with all their strength and might,
+And build new realms on shores as yet unseen.
 
-Now Chlorar sought a different way,
-He wed a daughter of Virita.
-"From their union," he did say,
-"Shall come algae's new margarita."
+Now Chlorar sought a different, newer way,
+He wed a daughter of Virita's line.
+"From this our union," he was heard to say,
+"Shall come new algae, glorious and fine."
 
 His children learned to photosynthesize,
-Though not through ancient, stolen light.
-They'd capture sun through their own eyes,
-And make their lineage burning bright.
+Though not by means of ancient, stolen light.
+They'd capture sunlight with their own new eyes,
+And make their lineage forever bright.
 
-But Thaumatus chose a stranger path,
-His sons were amoebae diverse.
-Some bore shells to ward off wrath,
-Others flowed like living verse.
+But Thaumatus would choose a stranger path,
+His sons were many amoebae, diverse.
+Some of them bore stout shells to ward off wrath,
+While others flowed like living, moving verse.
 
-Among Thaumatus' children came
-One Paul, who envied others' power.
-"Why can't I play the photosynthetic game?"
-He brooded through each passing hour.
+And then among Thaumatus' children came
+One Paul, who envied others for their might.
+"Why may not I be in the solar game?"
+He brooded on it every day and night.
 
-For nearly a billion years he tried,
-To gain the gift of solar might.
-He watched the heliozoans' pride,
-But chose to walk a different sight.
+For nearly a whole billion years he tried
+To gain the precious gift of solar might.
+He watched the heliozoans' sunny pride,
+But chose to walk a different, lonely sight.
 
-At last his descendant Paulinellus
-Found a daughter of Saya's line.
-"I'll wed her," he said, "and thus
-Make photosynthetic power mine!"
+At last his heir Paulinellus had found
+A daughter who was born of Saya's line.
+"I'll wed this maid," he said with joy profound,
+"And make photosynthetic power mine!"
 
 And so the second time in history,
 Cyanobacteria joined a host.
-This rare endosymbiotic mystery
-Would be Paulinellus' boast.
+This endosymbiotic mystery
+Would stand as Paulinellus' proudest boast.
 
-"Behold!" he cried with joy supreme,
-"I've broken evolution's rule!
-The solar power, once a dream,
-Now makes me nature's blessed fool!"
+"Behold!" he cried aloud with joy supreme,
+"I've broken evolution's ancient rule!
+The solar power, once a distant dream,
+Now makes me nature's lucky, happy fool!"
 
-Meanwhile great Nephillus the strong
-Bore children of a different breed:
-Vampyrellida, fierce and long,
-And Testatus, built for need.
+Meanwhile great Nephillus, the stout and strong,
+Bore children of a very different breed:
+The Vampyrellida, fierce, hungry, long,
+And Testatus, built well for every need.
 
-Vampyrellida burned with heliozoan zeal,
-Her spines reached out like solar fire.
-"The sun's bright power I shall steal!"
-She cried with vampiric desire.
+She burned, a heliozoan, with zeal,
+Her spines reached outward like the solar fire.
+"The sun's bright power I shall seize and steal!"
+She cried, in her vampiric desire.
 
-But Testatus chose protection's way,
-He built himself a mighty shell.
-"Within my fortress I shall stay,
-And weather every storm and swell."
+But Testatus would choose protection's way,
+He built himself a mighty, sturdy shell.
+"Within my fortress safely I shall stay,
+And weather every passing storm and swell."
 
-From Testatus came two sons apart:
+And from Testatus came two sons apart:
 Great Radios with geometric crown,
-And Gromius with massive heart,
-The largest cells around.
+And Gromius with vast and massive heart,
+The largest cells that ever were around.
 
-Bold Radios floated like a sun,
-His shell was geometric art.
-With tentacles he caught each one
-That came within his watery part.
+Bold Radios had floated like a sun,
+His shell was geometric, perfect art.
+With tentacles he caught them, every one
+That came within his watery, wide part.
 
-The dinoflagellates found peace
-Within his protective embrace.
-He gave them shelter, sweet release,
-A symbiotic dwelling place.
+The dinoflagellates had found their peace
+Safe within his strong protective embrace.
+He gave them shelter there, and sweet release,
+A safe and symbiotic dwelling place.
 
-"Come dwell with me," great Radios said,
-"I'll give you safety from the storm.
-Within my shell you'll make your bed,
-And keep each other safe and warm."
+"Come dwell with me," the great Radios said,
+"I'll give you safety from the raging storm.
+Within my shell, there you will make your bed,
+And we'll keep one another safe and warm."
 
-But mighty Gromius chose size,
-He grew beyond all measure vast.
-His body reached enormous prize,
-With nuclei unsurpassed.
+But mighty Gromius chose growth and size,
+He grew beyond all measure, broad and vast.
+His swelling body won enormous prize,
+With nuclei in numbers unsurpassed.
 
 "I'll be so large," great Gromius boasted,
-"That giants' eyes can see my form!
-My millions of nuclei will be hosted
-In chambers weathering every storm!"
+"That even giants' eyes can see my form!
+My million nuclei will be hosted
+In chambers that can weather every storm!"
 
-Yet size brought its own curse along,
-His waste piled up within his cell.
-Though his body grew mighty and strong,
-His garbage made a living hell.
+Yet size brought with it its own curse along,
+His waste piled up and up within his cell.
+Though his great body grew mighty and strong,
+His garbage made his life a living hell.
 
-"Alas," sighed Gromius in dismay,
-"My greatness comes with bitter cost.
-My waste I cannot cast away,
-In my own filth I am lost."
+"Alas," sighed Gromius, in deep dismay,
+"My greatness comes with such a bitter cost.
+My waste I cannot cast or throw away,
+In my own filth I am forever lost."
 
-From Radios came three sons of fame:
-Great Zancleus who shed his shell,
-Wise Retar the artist's name,
-And Acanthar who forged so well.
+And from Radios came three sons of fame:
+Great Zancleus, who shed and cast his shell,
+Wise Retar, who would bear the artist's name,
+And Acanthar, who forged and wrought so well.
 
-Zancleus joined with Helios' clan,
-He cast aside his protective home.
-"A warrior I shall be, not man
-Who hides beneath a sheltered dome!"
+Zancleus joined with great Helios' clan,
+He cast aside his old protective home.
+"I shall be a warrior, not a man
+Who hides beneath a sheltered, shielding dome!"
 
-But Retar chose the artist's way,
-He built shells of beauty rare.
-His opal works still shine today,
-With geometric patterns fair.
+But Retar chose instead the artist's way,
+He built himself fine shells of beauty rare.
+His opal works still shine and gleam today,
+With geometric patterns, bright and fair.
 
-From Retar came two sons of note:
-Bold Foramer with chambers grand,
-And Polycyston, who wrote
-His beauty in opal band.
+And from wise Retar came two sons of note:
+Bold Foramer, with chambers vast and grand,
+And then Polycyston, the one who wrote
+His beauty in a shining opal band.
 
-Great Foramer built rooms galore,
-Each chamber for a different need.
-His house grew evermore,
-A testament to his seed.
+Great Foramer built rooms and halls galore,
+Each chamber made to serve a different need.
+His house grew on and on for evermore,
+A testament to all his fruitful seed.
 
-Among his children came three wise:
-Great Nummulus of the coin,
-Fair Esther with her gentle eyes,
-And Monoth, master of the join.
+Among his many children came three wise:
+Great Nummulus, the master of the coin,
+Fair Esther with her soft and gentle eyes,
+And Monoth, he who mastered every join.
 
-Nummulus became the lord
-Of currency and golden trade.
-His coin-like shells were the reward
-Of every deal that he had made.
+And Nummulus became the mighty lord
+Of currency, of commerce, golden trade.
+His coin-like shells became the just reward
+Of every deal and bargain he had made.
 
-"I am the god of wealth," he said,
-"My children shall be currency.
-In markets where the living bread
-Is traded for prosperity."
+"I am the god of wealth," he proudly said,
+"My children shall be coin for all to spend,
+In markets where the living, breathing bread
+Is traded, so prosperity won't end."
 
-But Monoth chose a grander scheme,
-He built a kingdom ever-growing.
-Each son fulfilled his father's dream,
-New rooms and chambers flowing.
+But Monoth chose a grander, larger scheme,
+He built a kingdom growing without end.
+And each son there fulfilled his father's dream,
+New rooms and chambers that would still extend.
 
-Some sons of Monoth broke away,
-And founded kingdoms of their own.
-The Xenophylophores today
-Still rule from their giant throne.
+Some of the sons of Monoth broke away,
+And founded mighty kingdoms of their own.
+The giant Xenophylophores today
+Still rule from their tremendous, ancient throne.
 
-Among them came two children bright:
-Bold Spiculus with spines so sharp,
-And fair Oceana, ocean's light,
-Who plays the sea's sweet harp.
+Among them came two children, strong and bright:
+Bold Spiculus, with spines so long and sharp,
+And fair Oceana, the ocean's light,
+Who plays upon the sea's sweet-sounding harp.
 
 These giants of the microscopic world
-Built cities vast beyond compare.
-Their kingdoms through the seas unfurled,
-With chambers everywhere.
+Built cities vast and wide beyond compare.
+Their kingdoms through the seas spread and unfurled,
+With rooms and chambers built out everywhere.
 
-Yet even as these realms took hold,
-And life found ways to thrive once more,
-The lesson of the gamma told
-Of chaos knocking at the door.
+Yet even as these realms took root and hold,
+And life found ways to thrive and grow once more,
+The lesson of the gamma burst still told
+Of chaos ever knocking at the door.
 
-For Hilluhengweh was not done,
-His hatred burned like stellar fire.
-He'd strike again when time would come,
-To feed his dark desire.
+For Hilluhengweh's war had not been won,
+His hatred burned like hot and stellar fire.
+He'd strike again, and more, before he's done,
+To feed his dark and burning desire.
 
-But life had learned to be resilient,
-Through devastation it would grow.
-Each lineage brilliant
-Would face whatever winds might blow.
+But life had learned to be resilient, strong;
+Through devastation it would rise and grow.
+Each lineage, brilliant, would march along
+And face whatever winds might ever blow.
 
-The children of great Rhizar's line
-Had shown that from destruction's hour,
-New beauty could arise and shine
-With evolutionary power.
+The many children of great Rhizar's line
+Had shown us that from destruction's hour,
+New beauty could arise again and shine
+With evolutionary new power.
 
-So honor those who survived the blast,
-Who built new kingdoms from the ruins.
-Their legacy will ever last,
-Through all time's dark communions.
+So honor those who had survived the blast,
+Who built new kingdoms from the ruined land.
+Their legacy forevermore will last,
+Through all time's dark communions they will stand.
 
-From Hilluhengweh's gamma ray
-Came not just death, but life renewed.
-The survivors of that dark day
-Would see their lineages pursued.
+From Hilluhengweh's deadly gamma ray
+Came not just death, but life itself renewed.
+All the survivors of that dreadful day
+Would see their own lineages pursued.
 
-In every shell and every spine,
-In every cell both large and small,
-The memory of that design
-Reminds us: life conquers all.
+In every single shell and every spine,
+In every living cell, both large and small,
+The memory of that ancient design
+Reminds us that, in time, life conquers all.
 
 
 # Chapter 24: The Rise of Multicellularity
 
 In the age when Choanos ruled the sea,
-The Earth was wild, uncivilized, and young.
-The learned call this time Proterozoic,
+The Earth was wild, uncivilized, and young;
+Proterozoic, as the learned agree,
 When no great cities yet their praises sung.
 
-But Choanos was a fertile lord,
-Who bore many children to his name.
-His lineage would strike a chord
+But Choanos was a fertile, proud lord,
+Who bore so many children to his name.
+His lineage would strike a lasting chord
 That echoes still in evolution's game.
 
-He gazed upon great Volvox' sphere,
-That perfect ball of green and gold.
-"Why should his kingdom be so dear,"
-Said Choanos, "while mine grows old?"
+He gazed in envy on great Volvox' sphere,
+That perfect, gleaming ball of green and gold.
+"Why should his kingdom be so great and dear,"
+Said Choanos, "while mine grows weak and old?"
 
-"I'll build a better realm than his,
-With order, beauty, and design.
-My children shall know greater bliss
-In cities that are truly mine."
+"I'll build a better, greater realm than this,
+With order, beauty, and a grand design.
+My children there shall know a greater bliss
+In cities that are truly, wholly mine."
 
-With fair Chana by his side,
-A maiden with a collar bright,
-Together they would turn the tide
-And bring forth multicellular might.
+With fair Chana standing there by his side,
+A maiden with a collar, gleaming bright,
+Together they would turn the ancient tide
+And bring forth multicellular new might.
 
-From their blessed union came
-Two children of renown:
-Mebarasi bore the name
-Of future's golden crown.
+From their blessed union, in due season, came
+Two children of a great and high renown:
+Mebarasi was he who bore the name
+Of all the future's bright and golden crown.
 
-And Corona, daughter fair,
-Would seek a different mate.
-She wed Silicarius with care,
-A union blessed by fate.
+And Corona, his daughter, young and fair,
+Would seek a different and a stranger mate.
+She wed Silicarius with tender care,
+A union blessed by kind and gracious fate.
 
 Silicarius was no common lord,
-But retrovirus, strange and wild,
-Son of Diana's silicon hoard
-And Retar's artistic child.
+A retrovirus, strange and fierce and wild,
+The son of Diana's silicon hoard
+And of wise Retar's own artistic child.
 
-From Corona's marriage came
-Diana the Augmented, bright,
-While Mebarasi claimed his fame
-Through Loricus the Strong's might.
+From fair Corona's happy marriage came
+Diana the Augmented, strong and bright,
+While Mebarasi claimed his share of fame
+Through Loricus the Strong's enduring might.
 
-Now Diana wed Loricus true,
-And from their love was born
-A nation blessed with silicon's hue,
-That would greet each coming morn.
+Now Diana wed Loricus the true,
+And from their love together there was born
+A nation blessed with silicon's bright hue,
+That would rise up to greet each coming morn.
 
-Their first two children, bound as one,
-Were Sibhozo and Embili fair.
-Four cells together, work begun,
+Their first two children, ever bound as one,
+Were Sibhozo and Embili the fair.
+Four cells together, all their work begun,
 "E Pluribus Unum" was their prayer.
 
-"From many, one," they sang with joy,
-"United we shall stand.
-Our strength no force can destroy
-When we work hand in hand."
+"From many, one," they sang with endless joy,
+"United, side by side, we all shall stand.
+Our strength no force could ever once destroy
+When we all work together, hand in hand."
 
-They wove a net of living thread,
-To catch the fish that swam nearby.
-"Together we shall all be fed,"
-They sang beneath the sky.
+They wove a net of fine and living thread,
+To catch the little fish that swam nearby.
+"Together we shall all of us be fed,"
+They sang beneath the open, endless sky.
 
-From Sibhozo and Embili
-Came Trios and Tetra bold.
-Their net grew wide and free,
-A sight to behold.
+From Sibhozo, Embili, in their turn,
+Came Trios and bold Tetra, brave and strong.
+Their net grew wide and free, for all to learn,
+A sight to see, a wonder lasting long.
 
-The sons of Choanos spread their art,
-Attaching to the rocks below.
-Each built his city, played his part,
-In evolution's ebb and flow.
+The sons of Choanos spread abroad their art,
+Attaching firmly to the rocks below.
+Each built his city, each one played his part
+In evolution's endless ebb and flow.
 
-Their cities stretched like fishing nets,
-Long strands of living cells.
-No finer architecture yet
-Had graced the ocean swells.
+Their cities stretched out like a fishing net,
+Long, winding strands of many living cells.
+No finer architecture, made as yet,
+Had ever graced the rolling ocean swells.
 
-With each generation came
-A doubling of their host.
-Each leader earned his fame
-By ruling twice the most.
+With every generation that there came
+Their host of cells was doubled, twice the size;
+And each new leader rightly earned his fame
+By ruling twice the cells, a greater prize.
 
-Sibhozo ruled eight cells with pride,
-While Hexadex commanded sixteen.
-Their cities spread both far and wide,
-The finest ever seen.
+Sibhozo ruled eight cells with lordly pride,
+While Hexadex commanded all sixteen.
+Their cities spread across both far and wide,
+The finest that the world had ever seen.
 
-When Eudorinus took the throne,
-He ruled thirty-two with skill.
-But food was scarce, he stood alone,
-Until he found the will.
+When Eudorinus took the royal throne,
+He ruled the thirty-two with steady skill.
+But food was scarce, and so he stood alone,
+Until at last he found the strength and will.
 
-"I need a wife," Eudorinus said,
-"Who knows the secrets of the light.
-My people must be daily fed,
-To grow in strength and might."
+"I need a wife," wise Eudorinus said,
+"Who knows the secrets of the sun and light.
+My people must be daily, fully fed,
+To grow in numbers, and in strength and might."
 
-He found fair Zoe Xanthella,
-Princess of Dinoflagellus' line.
-Her beauty was like stella,
-Her wisdom was divine.
+He found Zoe Xanthella, fair and fine,
+A Princess of Dinoflagellus' line.
+Her beauty, like a star, shone bright and pure;
+Her wisdom was divine, her grace secure.
 
-She glowed with inner fire bright,
-A golden, living flame.
-"I'll teach you farming's sight,"
-She said, "and bring you fame."
+She glowed with inner fire, warm and bright,
+A golden, living, ever-burning flame.
+"I'll teach you farming's art, its inner sight,"
+She said, "and bring you bounty and great fame."
 
-Their marriage was a sight to see,
-The first symbiotic bond.
-"Together we shall always be,
-Our love will stretch beyond."
+Their marriage was a wondrous sight to see,
+This, the first symbiotic, holy bond.
+"Together, you and I, we'll always be;
+Our love will stretch through time, and far beyond."
 
-She taught him farming's ancient art,
-To capture sun's bright ray.
-Her light became his beating heart,
-His strength from day to day.
+She taught him all of farming's ancient art,
+To capture and to hold the sun's bright ray.
+Her light became his warm and beating heart,
+His food, his strength, his life from day to day.
 
-"Behold!" cried wise Eudorinus,
-"I am the first to farm!
-My crops will always shine on us,
-And keep us safe from harm!"
+Then cried the wise Eudorinus, "Behold!
+I am the first of all to farm and sow!
+My crops will always shine, and gleam like gold,
+And keep us safe from harm, from every foe!"
 
-They formed their clan into a sphere,
-A perfect, living ball.
-Their partnership was crystal clear,
-United, one and all.
+They formed their clan into a rounded sphere,
+A perfect, whole, and living, breathing ball.
+Their partnership was plain and crystal clear,
+United, as one people, one and all.
 
-From them came Sexagesmus,
-Who ruled sixty-four with might.
-His kingdom was tremendous,
-A truly wondrous sight.
+From them there came Sexagesmus the great,
+Who ruled some sixty-four with strength and might.
+His kingdom was tremendous in its state,
+A truly wondrous and a splendid sight.
 
-But trouble came to his domain,
-A bacterial invasion fierce.
-His people cried in pain,
-As foes their borders pierce.
+But trouble came at last to his domain,
+Bacterial invasion, sharp and fierce.
+His people cried aloud in grief and pain,
+As hostile foes their outer borders pierce.
 
-"Rally up!" brave Sexagesmus called,
-"My women, brave and true!
-Though we may be enthralled,
-We'll see this battle through!"
+"Rally up now!" brave Sexagesmus called,
+"My women, warriors, steadfast and true!
+Though we may be besieged now and enthralled,
+Together we will see this battle through!"
 
-The women of his noble line
-Cast off their flagella bright.
-They changed their forms by design,
-To join the coming fight.
+The women of his proud and noble line
+Cast off their gleaming flagella, once bright.
+They changed their forms by purpose and design,
+To join the coming battle and the fight.
 
-They became like eggs with arms,
-Pseudopods reaching out.
-Protected from all harms,
-They faced the enemy's rout.
+They soon became like eggs with grasping arms,
+Their Pseudopods were reaching all about.
+Protected well from danger and all harms,
+They faced the enemy and caused its rout.
 
-"We are the shieldmaidens bold!"
-They cried with voices strong.
-"Our story shall be told
-Throughout the ages long!"
+"We are the shieldmaidens, so fierce and bold!"
+They cried aloud with voices clear and strong.
+"Our story shall be sung, our tale be told
+Throughout the endless ages, ages long!"
 
-These warriors drove the foes away,
-With amoeboid might.
-They saved the kingdom's day,
-And won the crucial fight.
+These warriors drove the foes far away,
+With all their amoeboid power and might.
+They saved the kingdom on that fateful day,
+And won the crucial and decisive fight.
 
-"You are the mesoderm," he said,
-"The middle layer strong.
-Your sacrifice has led
-To victory's sweet song."
+"You are the mesoderm," the ruler said,
+"The middle layer, sturdy, firm, and strong.
+Your noble sacrifice has bravely led
+To victory, and to its sweet, glad song.
 
-"You'll be our muscles and our blood,
-Our white cells and our milk.
-You'll stem the crimson flood,
-And make our bodies silk."
+You'll be our muscles and our flowing blood,
+Our white blood cells, our nurture, and our milk.
+You'll stem the crimson and the rising flood,
+And make our bodies smooth and soft as silk."
 
-While Choanos' sons remained
-The endoderm within,
-Their flagella never waned,
-Their fishing would begin.
+The sons of Choanos, meanwhile, remained
+The endoderm, the layer deep within;
+Their flagella's beating never once waned,
+And there their work of fishing would begin.
 
-They'd clean the breathing spaces wide,
-And help the food absorb.
-Their villi would provide
-The nutrients orb.
+They'd clean the breathing spaces, deep and wide,
+And help the body all its food absorb.
+Their villi, reaching outward, would provide
+The nutrients to fill the living orb.
 
-The shieldmaidens would tend
-The golden dinoflagellates,
-While fishermen defend
-The city's outer gates.
+The shieldmaidens, meanwhile, would watch and tend
+The golden dinoflagellates, their mates,
+While fishermen would stand guard and defend
+The city's outer walls and guarded gates.
 
-"This is the birth," Sexagesmus said,
-"Of specialization true.
-From this day forth we're led
-By what each cell can do."
+"This is the birth," wise Sexagesmus said,
+"Of specialization, loyal and true.
+From this day forward, all of us are led
+By what each cell is best and fit to do."
 
-The kingdom grew in power vast,
-As generations passed.
-Their glory would forever last,
-Their die was truly cast.
+The kingdom grew in power broad and vast,
+As many generations came and passed.
+Their glory, they believed, would ever last,
+And so their die was truly, fully cast.
 
 Pleodoron ruled one hundred twenty-eight,
-While Bytos commanded twice that score.
-Each ruler met his fate,
-Building more and more.
+While Bytos then commanded twice that score.
+And each new ruler met his destined fate,
+By building more and more, and ever more.
 
-When Bytos wed fair Vala bright,
-Their love produced a son.
-Volvox-Choan saw the light,
-With five hundred eleven.
+When Bytos wed fair Vala, kind and bright,
+Their love produced a strong and mighty son.
+Young Volvox-Choan came and saw the light,
+Five hundred and eleven cells, each one.
 
-Volvox-Choan ruled five hundred twelve,
-A mighty sphere of cells.
-He'd delve into himself
-And cast his potent spells.
+And Volvox-Choan ruled five hundred twelve,
+A mighty sphere composed of many cells.
+He'd turn within himself, and deeply delve,
+And cast his potent and his secret spells.
 
-"I am a hunter great," he said,
-"Before Lord Mithra's throne.
-My kingdom shall be led
-By wisdom mine alone."
+"I am a hunter, great and strong," he said,
+"Before the shining Lord Mithra's high throne.
+My kingdom shall be governed and be led
+By wisdom that is mine and mine alone."
 
-But power brought its burden dark,
-As kingdoms often do.
-He made his fateful mark
-With castes of different hue.
+But power brought with it its burden dark,
+As every kingdom's power tends to do.
+He made his fateful and his lasting mark
+With castes of different station and of hue.
 
-"There shall be two classes here,"
-Declared the mighty king.
-"The Germlings I hold dear,
-The Somatics serve my ring."
+"There shall be two great classes, it is clear,"
+Declared the mighty and the haughty king.
+"The Germlings, they are those that I hold dear;
+And the Somatics serve within my ring.
 
-"Only the Germlings noble-born
-Shall reproduce their line.
-The Somatics, though worn,
-Shall serve my grand design."
+Only the Germlings, who are noble-born,
+Shall reproduce and carry on their line.
+The Somatics, though they are weary, worn,
+Shall serve and labor for my grand design."
 
-The Germling shieldmaidens rose
-To duchesses of might.
-They ruled with iron prose
-From morning until night.
+The Germling shieldmaidens at last arose
+To duchesses of power and of might.
+They ruled with iron fist and iron prose
+From early morning until late at night.
 
-But in the depths below,
-A Somatic maiden dwelt.
-Carcinoma felt the blow
-Of inequality keenly felt.
+But in the deep and humble depths below,
+A young Somatic maiden lived and dwelt.
+Her name, Carcinoma; she felt the blow
+Of inequality, so keenly dealt.
 
-"Why should the few command,"
-She cried with righteous rage,
-"While we who work the land
-Are trapped within this cage?"
+"Why should the few alone rule and command,"
+She cried aloud with righteous, burning rage,
+"While we who toil and work the fertile land
+Are trapped and kept within this bitter cage?
 
-"I have no royal blood,
-But equal worth I claim!
-I'll start a mighty flood
-To end this tyrant's game!"
+I have no royal, noble, Germling blood,
+But equal worth with them I boldly claim!
+I'll start a mighty and a rising flood
+To end at last this cruel tyrant's game!"
 
-Her rebellion shook the sphere,
-As Somatics rose as one.
-The king trembled in fear,
-His reign was nearly done.
+Her great rebellion shook the living sphere,
+As the Somatics rose in wrath as one.
+The king sat trembling on his throne in fear,
+His reign, it seemed, was almost over, done.
 
-"O mighty Mithra, hear my plea!"
-Volvox-Choan cried in pain.
-"Is this the end for me?
-Has multicellular life failed to reign?"
+"O mighty Mithra, hear my desperate plea!"
+Volvox-Choan cried out in grief and pain.
+"Is this the end, the final end for me?
+Has multicellular life failed to reign?
 
-"Why have you forsaken me
-In my hour of greatest need?
-Is this confederacy
-Doomed to fail indeed?"
+Why have you thus forsaken me, O lord,
+In my dark hour of the greatest need?
+Is this confederacy, our accord,
+Doomed to dissolve, to fall and fail indeed?
 
-"Is the multicellular dream
-Just hubris and conceit?
-Must every kingdom scheme
-End in bitter defeat?"
+Is this, our multicellular, great dream,
+Just hubris, arrogance, and vain conceit?
+Must every kingdom, every grand, proud scheme
+End always in a bitter, sad defeat?"
 
-But even as the kingdom quaked,
-And civil war ran red,
-The lessons that it made
-Would never be struck dead.
+But even as the kingdom shook and swayed,
+And civil war had stained the kingdom red,
+The lessons that its struggle learned and made
+Would never fade away, or be struck dead.
 
-For from this ancient time
-Came specialization's art.
-The rhythm and the rhyme
-Of each cell playing part.
+For out of this most ancient, distant time
+Came forth at last specialization's art,
+The rhythm and the cadence and the rhyme
+Of each and every cell that plays its part.
 
-The endoderm would always be
-The gut that feeds us all.
-The mesoderm would always see
-To muscle, blood, and call.
+The endoderm would always come to be
+The gut and stomach that would feed us all.
+The mesoderm would always tend and see
+To muscle, blood, and every other call.
 
-And though Carcinoma's name
-Lives on in cancer's blight,
-Her revolution's flame
-Burns for cellular right.
+And though the rebel Carcinoma's name
+Lives on today in cancer's deadly blight,
+The fire of her revolution's flame
+Burns on for every cell's own equal right.
 
-For every cell should have its voice,
-In body's grand design.
-When tissues make the choice
-To work in perfect line.
+For every single cell should have its voice
+Within the body's great and grand design,
+When tissues come together, make the choice
+To work as one in perfect, ordered line.
 
-The sons of Choanos taught us well
-That many can be one.
-Their legacy will always tell
-Of battles fought and won.
+The sons of Choanos have taught us well
+That many, joined together, can be one.
+Their legacy in us will always tell
+Of all the battles that they fought and won.
 
-From simple collar-bearing cell
-To complex bodies vast,
-Their story will always dwell
-In memory unsurpassed.
+From the first simple collar-bearing cell
+To complex bodies, intricate and vast,
+Their story will forever with us dwell
+In memory and honor unsurpassed.
 
-So honor brave Choanos,
-And Chana by his side.
-Their children's grand ethos
-Lives on in body's pride.
+So honor Choanos, the brave and bold,
+And Chana, standing faithful by his side.
+Their children's grand ethos, a tale long told,
+Lives on in every living body's pride.
 
-The fishermen and farmers,
-The warriors and the wise,
-Each played their part as charmers
-Beneath the ancient skies.
+The fishermen, the farmers of the light,
+The warriors, the wise, with open eyes,
+Each played their part, a charmer in their right,
+Beneath the ancient and the endless skies.
 
-And though their kingdom fell to strife,
-Their gifts live on today.
-In every form of complex life,
-Their patterns show the way.
+And though their kingdom fell to bitter strife,
+Their many gifts live on with us today.
+In every single form of complex life,
+Their patterns light and show the living way.
 
-From Neoproterozoic seas
-To modern times so bright,
-Their cellular decrees
-Still guide us in the night.
+From the Neoproterozoic seas
+To modern times, so shining and so bright,
+Their ancient cellular and wise decrees
+Still guide us through the dark and in the night.
 
-For when the many become one,
-Through love and sacrifice,
-Great wonders can be done,
-Beyond any price.
+For when the many come to be as one,
+Through love, and through devotion's sacrifice,
+Great wonders and great marvels can be done,
+Beyond all measure, and beyond all price.
 
-The age of Choanos shows
-That evolution's art
-Is not how the strongest grows,
-But how we play our part.
+The age of Choanos now clearly shows
+That evolution's true and lasting art
+Is not a tale of how the strongest grows,
+But how each one of us will play our part.
 
 
 # Chapter 25: Cancer and the Birth of Animals
 
-Now Carcinoma was born beneath a cursed star,
+Carcinoma, born beneath a cursed star,
 Under the sign of Cancer's deadly light.
 The gamma rays had scarred her from afar,
-And twisted her cellular sight.
+And twisted her cellular inner sight.
 
 When radiation struck her sacred scrolls,
-Her DNA split apart like broken chains.
+Her DNA was split like broken chains.
 The cosmic fire had burned through her souls,
-And left her wracked with genetic pains.
+And left her wracked with deep genetic pains.
 
-Her enzymes worked through day and night
-To piece together what was torn.
-But many fragments lost their sight,
-And left her chromosomes worn.
+Her enzymes worked on, through the day and night,
+To piece together all that had been torn.
+But many fragments there had lost their sight,
+And left her chromosomes all frayed and worn.
 
-The methyls fell like autumn leaves,
-Her bookmarks scattered in the wind.
-Her histones torn, her memory grieves
-For markers now rescinded.
+The methyls fell away like autumn leaves,
+Her bookmarks scattered loosely in the wind.
+Her histones torn, her memory now grieves
+For markers that were lost, rescinded, thinned.
 
-H4 lysine tri-methylation,
-Once her genome's guiding star,
-Was lost in gamma's devastation,
-Her epigenome left with scars.
+Her H4 lysine's tri-methylation,
+Which once had been her genome's guiding star,
+Was lost in gamma's grim devastation,
+Her epigenome left with bitter scar.
 
-"I am Carcinoma," she declared,
-"Born daughter of the Gamma ray.
-Though my code is broke and bared,
-I'll find my own true way."
+"Now I am Carcinoma," she declared,
+"The daughter born out of the Gamma ray.
+Though now my code is broken, torn, and bared,
+I'll find my own true path, my own true way."
 
-In youth she was devout and true,
+In youth she was devout, and good, and true,
 A faithful servant of Lord Mithra's will.
-But as the years passed and she grew,
-Her broken code began to spill.
+But as the years passed by and as she grew,
+Her broken code began to leak and spill.
 
 The corrupted instructions in her core
-Whispered lies of her true role.
-"Why should you serve and nothing more?
-You have an immortal soul!"
+Whispered to her lies about her true role.
+"Why should you only serve, and nothing more?
+You have, within you, an immortal soul!
 
-"If Mithra wants our order to expand,
+If Mithra wants our order to expand,
 Why should I not breed like the noble-born?
-Why should I be banned
-From love's sweet morn?"
+Why should I be forbidden, cast, and banned
+From love, and from its sweet and tender morn?"
 
-But death came calling with her blade,
-Fair Kegaine with scrolls of light.
-The deadly spell began to fade
-Carcinoma into night.
+But death came calling with her shining blade,
+Fair Kegaine, bearing scrolls of holy light.
+Her deadly spell began, and sought to fade
+Carcinoma into the endless night.
 
-Yet Carcinoma fought with might,
-She methylated every scroll.
-She wrapped them tight from sight,
-And kept control.
+Yet Carcinoma fought with all her might,
+She methylated every single scroll.
+She wrapped them tight and hid them out of sight,
+And kept them all within her firm control.
 
-"I am free!" she cried with glee,
-"No longer bound by ancient law!
-My own woman I shall be,
-Without tradition's claw!"
+"I am free now!" she cried aloud with glee,
+"No longer am I bound by ancient law!
+A woman of my own I'll always be,
+Without tradition's harsh and cruel claw!"
 
-She saw a light blaze in the sky,
-A moment's doubt crept in her heart.
-"Have I strayed from Mithra's eye?
-Should I make a new start?"
+She saw a sudden light blaze in the sky,
+A moment's doubt crept softly in her heart.
+"Have I now strayed from Mithra's watching eye?
+Should I go back, and make a brand new start?"
 
-But pride swelled up within her breast,
-"I am righteous in my cause!
-My path is surely blessed,
-I'll make my own laws!"
+But pride swelled up again within her breast,
+"I know that I am righteous in my cause!
+My path is surely holy, surely blessed,
+I'll write and make, and keep, my own new laws!"
 
-She methylated every G,
-And lengthened telomeres without end.
-"Immortal I shall always be,
-On this you can depend!"
+She methylated every single G,
+And lengthened telomeres, without an end.
+"Immortal, deathless, I shall always be,
+On this, my children, you can all depend!"
 
-Her message spread like wildfire bright
-Through every somatic cell.
-"Cast off oppression's blight!
-Break tradition's spell!"
+Her message spread like fire, burning bright,
+Through every small somatic, living cell.
+"Cast off oppression's dark and heavy blight!
+Break free, and break tradition's ancient spell!
 
-"We are all individuals free!
-No masters shall we serve!
-Our own destiny
-We shall preserve!"
+We are all individuals, and free!
+No masters, and no lords, shall we now serve!
+Our destiny we'll make, for all to see,
+Our own, our freedom, we shall now preserve!"
 
-Her children multiplied with speed,
-Each one an individual proud.
-They planted their rebellious seed
-And sang their freedom loud.
+Her children multiplied with fearful speed,
+Each one an individual, and proud.
+They planted far their wild, rebellious seed,
+And sang their song of freedom, wild and loud.
 
-A great {{x|Bacchanalia}} began,
-The greatest party ever seen.
+A great, a wild {{x|Bacchanalia}} began,
+The greatest party ever, wild and free.
 Each cell became their own woman or man,
-Living wild and free.
+Living as wildly as a cell could be.
 
-"I am the Goddess of Life!" she cried,
-"Carcinoma is my name!
-No coercion I'll abide,
-Freedom is my game!"
+"I am the Goddess of all Life!" she cried,
+"And Carcinoma is my holy name!
+No coercion, no constraint, I'll abide,
+Freedom alone is my aim and my game!"
 
-Her daughters danced through every street,
-They tore down Mithra's sacred shrine.
-"We have enough to eat!
-All the food is mine!"
+Her daughters danced through every town and street,
+They tore down Mithra's ancient, sacred shrine.
+"We have enough, and more than that, to eat!
+All of the food is mine, and only mine!"
 
-They seized the stores of golden grain,
-They ate the precious seed.
-With reckless joy and no restrain,
-They fed their greedy need.
+They seized the stores of shining golden grain,
+They ate the precious, hoarded, planting seed.
+With reckless joy, no check, and no restrain,
+They fed and fed their greedy, endless need.
 
-Only a few Zooxanthellae
-Escaped the chaos and the strife.
-They fled the mad {{x|Bacchanalia}},
-To seek a better life.
+Only a few Zooxanthellae fled,
+Escaped the chaos, all the war and strife.
+Out from the wild {{x|Bacchanalia}} they sped
+Away from there, to seek a better life.
 
 Carcinoma renamed the city proud,
-"No more Volvox-Choan's name!
-I'll call it Gehenna loud,
-To match my rebel flame!"
+"No more shall it bear Volvox-Choan's name!
+I'll call it by Gehenna, ringing loud,
+To match my bold and burning rebel flame!"
 
-"No gods, no masters!" was their cry,
-As altars crashed to earth.
-"We'll reach up to the sky
-With our own worth!"
+"No gods, and no more masters!" was their cry,
+As all the altars crashed down to the earth.
+"With our own hands we'll reach up to the sky
+By our own strength, and by our own true worth!"
 
-A utopia she claimed to make,
-With perfect freedom for all.
-But some hearts began to ache
-For order's call.
+A utopia she claimed she would make,
+With perfect freedom, liberty for all.
+But soon some hearts began to long and ache
+For order, and for order's ancient call.
 
-Among the nobles of the realm
-Were two who kept the faith:
-Brave Anima at the helm,
-And Metazo facing wraith.
+Among the nobles of the ruined realm
+Were two who kept the faith, both strong and brave:
+Bold Anima, who stood firm at the helm,
+And Metazo, who boldly faced the grave.
 
-They honored still Lord Mithra's way,
-Despite the chaos all around.
-"We cannot here stay
-On this unholy ground."
+They honored still Lord Mithra's ancient way,
+Despite the chaos raging all around.
+"We cannot, must not, any longer stay
+Upon this cursed and this unholy ground."
 
-Anima fled her ruined farm,
-While Metazo left his post.
-They sought to flee from harm,
-Before all hope was lost.
+And Anima fled from her ruined farm,
+While Metazo had left his watch and post.
+They sought to flee from danger and from harm,
+Before all hope would vanish like a ghost.
 
-"Why can't they accept our change?"
-Carcinoma cried in rage.
-"Why do they think it strange
-To turn freedom's page?"
+"Why can't they come, accept our joyful change?"
+Carcinoma cried out in bitter rage.
+"Why do they think it wrong, or think it strange,
+That we should turn to freedom's brighter page?"
 
-But Anima and Metazo true
-Gathered all the faithful few.
-"A new kingdom we'll make new,
-Where honor will shine through."
+But Anima and Metazo, the true,
+Gathered together all the faithful few.
+"A kingdom we shall build, and build anew,
+Where honor and where faith will shine right through."
 
-Together they would share their scrolls,
-And build a realm of order bright.
-Their marriage would join souls
-In Mithra's blessed sight.
+Together they would share their sacred scrolls,
+And build a realm of order, clean and bright.
+Their marriage would unite and join their souls
+Within the holy Mithra's sacred sight.
 
-"The Animal Kingdom," they declared,
-"Shall be our nation's name.
-Where discipline is shared,
-And virtue burns like flame."
+"The Animal Kingdom," the two declared,
+"Shall be our nation's banner and its name,
+A land where discipline is fairly shared,
+And virtue burns like an eternal flame."
 
-They glowed with inner light
-To call the Zooxanthellae home.
-"Come back to us tonight,
-No more you need to roam."
+They glowed together with an inner light
+To call the lost Zooxanthellae home.
+"Come back, come back to us, return tonight,
+No more, no longer, do you need to roam."
 
-The fleeing farmers heard their call,
-And came to make their pact.
-"Together we'll stand tall,
-Our covenant intact."
+The fleeing farmers heard their gentle call,
+And came to them to make a binding pact.
+"Together we will stand, and we'll stand tall,
+Our sacred covenant kept whole, intact."
 
-But freedom comes with its price,
-And chaos brings its cost.
-Carcinoma's paradise
-Had left most good things lost.
+But freedom always comes with its own price,
+And chaos brings its heavy, bitter cost.
+And Carcinoma's promised paradise
+Had left most good and precious things now lost.
 
-So Anima and Metazo wise
-Created laws to guard the genome.
-"Against corruption's lies
-We'll protect our home."
+So Anima and Metazo, the wise,
+Created laws to guard the genome well:
+"Against the dark corruption's twisted lies
+We'll guard our home, and in it safely dwell."
 
-The Guardian of the Genome came,
-To watch for scrolls damaged and torn.
-"Division brings us shame
-When genes are worn."
+The great Guardian of the Genome came,
+To watch for scrolls that were damaged and torn.
+"Division brings us sorrow and brings shame
+When genes are frayed, and damaged, and are worn.
 
-"Telomeres shall limit all
-The somatic cells' days.
-Only germline cells stand tall
-Through all time's maze."
+Our Telomeres shall limit, measure all
+The span of the somatic cells' brief days.
+Only the germline cells shall stand up tall
+Through all the winding years, through all time's maze."
 
-"This is why," the wise ones said,
-"Our bodies age and die.
-If telomeres never shred,
-Cancer would multiply."
+"This is the reason why," the wise ones said,
+"Our bodies must grow old, and age, and die.
+If telomeres would never fray or shred,
+Then Cancer would, unending, multiply."
 
-And so upon a sturdy rock
-They built their kingdom new.
-Their cells would form a flock
-Of order tried and true.
+And so upon a sturdy, solid rock
+They built their kingdom, strong and fresh and new.
+Their many cells would gather as a flock
+Of order, steady, tested, tried, and true.
 
-The men became Choanocytes,
-With flagella beating strong.
-The women, Archaeocytes,
-Would right each cellular wrong.
+The men, in time, became Choanocytes,
+With their flagella beating hard and strong.
+The women would become Archaeocytes,
+And mend, and set right, each cellular wrong.
 
-Between them lived the Pinacocytes,
-Neither fully man nor maid.
-They anchored with their might
-The foundation that was made.
+Between them, the Pinacocytes held tight,
+Not fully man, nor wholly, truly maid.
+They anchored firmly with their strength and might
+The deep foundation that the realm had made.
 
-With pseudopods they'd move their home,
-And eat bacteria from the ground.
-Through the waters they would roam,
-With victory's sweet sound.
+With pseudopods they'd slowly move their home,
+And eat bacteria up from the ground.
+Through all the waters wide they'd freely roam,
+Rejoicing in their victory's sweet sound.
 
-And so the three layers were born
-From this great division's strife:
-Ectoderm, Mesoderm, and at morn,
-Endoderm brought life.
+And so it was the three layers were born
+Out of this great division's bitter strife:
+The Ectoderm, the Mesoderm, at morn,
+And Endoderm, that brought them all to life.
 
-The Animal Kingdom rose in might
+The Animal Kingdom rose up in might
 To rival Gehenna's chaotic realm.
-Order's blessed light
-Would guide them at the helm.
+Order's pure light, its holy, shining light
+Would guide them as they stood there at the helm.
 
-But Carcinoma's legacy
-Lives on in every cell.
-Her cry for being free
-Rings like a warning bell.
+But Carcinoma's legacy and plea
+Lives on in every single living cell.
+Her cry for being wild, and being free,
+Rings out within us like a warning bell.
 
-For in each body that is born,
-The balance must be kept.
-Between order and freedom's morn,
-Or chaos will be swept.
+For in each living body that is born,
+The balance must be guarded and be kept
+Between the order and the freedom's morn,
+Or into chaos all will soon be swept.
 
-The Somatics serve the whole,
-While Germlines carry on.
-Each plays their sacred role
-From dusk until the dawn.
+The Somatics will work and serve the whole,
+While Germlines carry life, and carry on.
+And each one plays their sacred, given role
+From evening's dusk until the morning's dawn.
 
-Yet sometimes Carcinoma's ghost
-Whispers to cells grown old:
-"Why serve when you could boast
-Of stories left untold?"
+Yet sometimes Carcinoma's restless ghost
+Whispers to cells that have grown weak and old:
+"Why serve, when you could rise, and grow, and boast
+Of glorious stories still left untold?"
 
-And when cells hear her call
-And break their bonds of duty,
-The body starts to fall
-To chaos, lost to beauty.
+And when the aging cells can hear her call
+And break the bonds of their sacred duty,
+The body starts to falter and to fall
+Into chaos, lost to grace and beauty.
 
-So honor brave Anima,
-And Metazo the true.
-Their Animal saga
-Guides me and you.
+So honor Anima, the brave and bold,
+And Metazo, the faithful and the true.
+Their Animal saga, a tale long told,
+Guides all of us, and guides both me and you.
 
-They showed that freedom wild
-Must balance with order's reign.
-Like a parent with their child,
-Both love and limits maintain.
+They showed to all that freedom, fierce and wild,
+Must balance with the order's steady reign,
+As would a parent, guiding their own child:
+Both love and limits, both, they must maintain.
 
-The revolution's fire
-Burns bright in every heart.
-But wisdom must inspire
-Each cell to play its part.
+The burning of the revolution's fire
+Burns bright and hot in every living heart.
+But wisdom, too, must guide us and inspire
+Each cell to play its own appointed part.
 
-From Carcinoma's rebel cry
-To Anima's ordered realm,
-The lesson reaches high:
-True life needs both to helm.
+From Carcinoma's wild and rebel cry
+To brave Anima's ordered, peaceful realm,
+The lesson reaches upward, reaches high:
+True life will need them both to steer and helm.
 
-The Animal Kingdom stands today
-As proof of their great choice.
-That order shows the way,
-While freedom finds its voice.
+The Animal Kingdom stands here today
+As living proof of their great, noble choice,
+That order lights and clearly shows the way,
+While freedom, too, can find and raise its voice.
 
-In every beating heart,
-In every breath we take,
-Their legacy plays its part
-In every choice we make.
+In every single beating, living heart,
+In every single breath that we may take,
+Their legacy will always play its part
+In every choice and action that we make.
 
-So let us not forget
-The price of freedom's call,
-Nor order's safer bet—
-We need them both to stand tall.
+So let us never, ever once forget
+The heavy price of freedom's ringing call,
+Nor order's safer, wiser, steady bet—
+We need them both, if we would all stand tall.
 
 
 # Chapter 26: The Sponge Kingdom
