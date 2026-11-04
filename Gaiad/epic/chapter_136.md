@@ -55,8 +55,8 @@ Were {{c|1873|G}}, securely. Now the story stays
 Before the fields: before the grain was sown,
 Before a seed was planted, it was known
 
-To start, so far as we can tell, upon
-A hill in {{p|Turkey}}, where the floor has drawn
+It starts, so far as we can tell, upon
+A hill in {{p|Turkey}}: there the work was done
 The most astonishing of all the sites
 That digging ever found: those stony heights
 
@@ -75,18 +75,20 @@ Had no precedent for such work: it stands
 A ring of great T-shaped pillars of stone,
 Some over five meters, of tons, full-grown
 
-And carved with animals: with foxes, boars
-Of vultures, snakes and scorpions. Their doors
-Were none: in circles, like a temple, set,
-But not a settled people's temple yet:
+And carved with animals: with fox and snake,
+With scorpion and vulture, for the sake
+Of something; and wild boars: arranged in rings
+Like temple pillars, though of no such things
 
-A temple raised by hunters, for a cause
-We do not understand; and by what laws
-In a place no one dwelt; the grassland's edge,
-And ample, undramatic: yet they pledge
+As settled peoples build. A temple, raised
+By hunters, for a cause that leaves us dazed
+And ignorant; and by what laws, unknown;
+In a place no one dwelt, where grass had grown
 
-Whole generations to return, to add,
-And to elaborate what they had had,
+An ample, undramatic edge; and they
+Would pledge whole generations to repay
+The place with visits, adding, year by year,
+Elaborating what their hands built here:
 Two thousand years of it. It was no town,
 No dwelling-place: a ritual renown,
 
@@ -138,7 +140,7 @@ The farming; {{c|1873|G}} it was who bore the plan
 And wheat to {{p|Europe}}: generations, who
 From {{p|Anatolia}}, and with them drew
 The grain, the sheep, the pottery, the whole
-{{p|Neolithic}} package: that their role.
+{{p|Neolithic}} package: such was their role.
 
 Long-walking farmers from the crescent, they
 Took {{c|1873|G}} across the continent. Today
@@ -265,8 +267,8 @@ Began as offering, simply laid down
 
 At the stone pillar's foot, and there to feed
 The gathered hunters, come for what they need
-To worship — what, we cannot say; nor what
-They muttered, nor they sang. But this we got:
+To worship: that we cannot say; nor know
+What words they muttered, or they sang. But so
 
 They gathered, and they worked; and we know too
 The crop went home with them, their ranges through;
@@ -283,8 +285,8 @@ In {{p|Sardinia}}; and on {{p|Georgian}} ground
 (The country, where its frequencies are high),
 In pockets of the {{p|Caucasus}}, and nigh
 
-The {{p|Alps}} as well. Small consolation, this,
-Beside the grandeur of what was and is:
+The {{p|Alps}} as well. Small consolation, weighed
+Beside the grandeur of the thing they made:
 The {{p|Göbekli Tepe}} chorus sang a song
 Among the first of all. The singers, long
 
@@ -306,9 +308,9 @@ At {{p|Göbekli Tepe}}: at the pillar's floor
 Of stone, a carved fox on it, long ago,
 Eleven thousand years. {{c|1873|G}} made it so:
 {{c|1873|G}}, farmer; {{c|1873|G}}, the builder and the root
-Of all the {{p|Neolithic}}; {{c|1873|G}}, whose foot
+Of all the {{p|Neolithic}}; {{c|1873|G}}, whose fruit
 
-Was priest's as well; and {{c|1873|G}}, whose long and slow
+Was priesthood too; and {{c|1873|G}}, whose long and slow
 And patient settled dwelling came to show
 The model for all dwellings that would stand.
 Honor him; honor all that building band
@@ -318,10 +320,13 @@ And the first thing we swallowed was the grain
 
 They grew to feed the hands that built it. So
 The grain fed up the builders; and we know
-The builders fed the god. The god is gone.
-The grain remains. The world was lit upon
+The builders fed the god, who now is gone.
+The grain remains; the world that dawned thereon
 
-Their choice. And every city since has trod
-The path they trod. It was {{c|1873|G}} broke the sod:
-{{c|1873|G}}, the {{p|Neolithic}}. And every stay
-Of ours descends from that first settled day.
+Was lit by what they chose. And since, each town
+And city since has trod their path on down
+To us. And it was {{c|1873|G}} first broke the sod:
+{{c|1873|G}}, the {{p|Neolithic}}: so have we trod.
+
+And every stay of ours, in every land,
+Descends from that first settled choice to stand.
