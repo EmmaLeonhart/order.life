@@ -35,15 +35,15 @@ to {{p|Central Asia}} and to {{p|China}} past,
 west to {{p|Rome}}, where {{c|2384|Augustine}} embraced it
 for nine years, before he broke fast.
 
-{{c|2600|Shapur}} tolerated {{c|2599|Mani}}. {{c|2602|Bahram}}
-would kill him, and {{c|2598|Kartir}} the priest
-would persecute {{c|2603|Manichaeans}} hard,
-{{c|2500|Jews}}, {{c|2561|Buddhists}}, {{c|2494|Christians}} — no decreased.
+{{c|2600|Shapur}} let {{c|2599|Mani}} preach; {{c|2602|Bahram}} instead
+had {{c|2599|Mani}} put in chains till he was dead,
+and {{c|2598|Kartir}} struck at every rival flame:
+the {{c|2603|Manichaeans}}, {{c|2500|Jews}}, {{c|2494|Christians}}, all one claim.
 
-{{x|Zoroastrianism}} hardened into
-an orthodoxy defending its soil.
-The {{c|2604|Avesta}} was finally written down
-to fix the canon from centuries' toil.
+The quarrel was the office, not the light:
+which priest would hold the altar and the rite.
+The {{c|2604|Avesta}} was at last written down
+to keep the canon for the priestly crown.
 
 {{c|2605|Khosrow I}} brought the golden age,
 reformed taxation, built canals,

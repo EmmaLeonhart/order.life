@@ -105,10 +105,15 @@ of a centralized state in the Japanese archipelago,
 absorbing Korean immigrants, Chinese influence,
 building toward what would become emperor {{p|Yamato}}.
 
-The {{c|2729|Soga clan}} would push {{x|Buddhism}}.
-The {{c|2730|Mononobe clan}} would resist.
-In 587, the {{c|2731|Soga}} won, and {{x|Buddhism}}
-became the state religion, with {{x|Shinto}}'s midst.
+Two clans, one court. The {{c|2729|Soga clan}} would raise
+the Buddha's hall beside the kami's days;
+and the {{c|2730|Mononobe clan}} would keep the rite
+in its own hands, and both would go to fight.
+
+In five-eighty-seven the {{c|2731|Soga}} won,
+and court and temple and the shrine were one:
+the Buddha and the kami of the sun,
+{{x|Shinto}} with {{x|Buddhism}}, a rite begun.
 
 The {{x|Kofun}} period was ending. The {{x|Asuka}} period
 beginning. The constitution of {{c|2732|Prince Shōtoku}}

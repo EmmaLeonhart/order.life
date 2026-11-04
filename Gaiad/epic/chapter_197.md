@@ -70,10 +70,10 @@ from his Persian-speaking Sufi center in {{p|Konya}}.
 {{x|Sufism}} flourished across the Islamic world,
 from {{p|Morocco}} to {{p|India}}, a mystical ocean.
 
-{{c|2889|Al-Hallaj}} had cried "{{x|Ana al-Haqq}}" — "I am the Truth" —
-and been executed for the heresy
-of identifying himself with {{c|472|God}}.
-{{x|Sufism}} always danced on the edge of orthodoxy.
+{{c|2889|Al-Hallaj}} cried "{{x|Ana al-Haqq}}"; the court
+of Baghdad, and its jurists, cut him short:
+the fight was who could speak for {{c|472|God}}, and who
+would hold the word. That was nine-twenty-two.
 
 The caliphate itself fragmented politically.
 The {{c|2869|Umayyads}} who had survived in {{p|Spain}}

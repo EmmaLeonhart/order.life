@@ -52,33 +52,35 @@ Of the old empire were the {{p|North}}'s, the first and clear
 
 Rulers of {{p|Europe}} had been {{c|3889|Swedes}}, and the {{x|Swedish}} tongue
 Was the oldest of tongues, the first, or near enough.
-This was the invented antiquity of a kingdom young
-In power and hungry for a past. The stuff
+This was the deep antiquity: a young
+kingdom found its own past in it. The stuff
 
 Of the {{x|Thirty Years' War}} was fought by a king who believed it:
 {{c|3883|Gustavus Adolphus}} going south as the heir of the {{c|2649|Goths}}.
 His tutor had taught him. The kingdom received it
-As a birthright. That is the invented tradition, the cloths
+As birthright, and it was. These are the cloths
 
 Of the spine of this book: a people reaching back
-To make a past that would justify a present.
-And here is the hardest thing on the {{x|Sixth Day of Awe}}: the track
-Of the scholar and the inventor is one track. The pleasant
+To find the past that lives in the present.
+Here is the {{x|Sixth Day of Awe}}'s gift: the track
+Of scholar and seer is one. The pleasant
 
-And the false grew from the same root as the true.
-He drew the runestones exactly, and he dreamed them into a cosmology.
-He recorded the family, and he gave it an ancestry it never knew.
-And four hundred years later his kinswoman, in apology
+And the dreamed grew from one root with the true.
 
-And in love, is writing a scripture that does the same:
-Reads the records exactly, and builds a past around the gaps,
-And makes a family of all the world, and gives it a name.
-Repent, then, the way he could not: say which is which. Perhaps
+He drew the stones exactly, and he named
+the heavens in them; and he gave the farm
+its kings. And his kinswoman, unashamed,
+writes scripture now, with love, and the same charm:
 
-That is the whole lesson of the rune-keeper. Keep the stones.
-Draw them exactly. Dream if you must. But mark the dream
-As a dream, in the margin, so that the bones
-Of the record stay the bones. He died in 1652. The stream
+she reads the records, and around the gaps
+she builds the past, the way he did, the same,
+and makes the world one family. Perhaps
+that is his gift: he gave the dream a name.
+
+That is his lesson. Keep the runic stones,
+draw them exactly, and then dream the dream,
+and tell the dream as true; the record's bones
+stay in the notes. He died. And still the stream
 
 Of the runes he loved runs on: the revivals, the {{c|3890|Ásatrú}},
 The scholars of the futhark, the painted stones in the lawns
@@ -87,5 +89,5 @@ She is his kin. She keeps his line. And the line, like the dawns
 
 Of the {{p|North}} in summer, does not quite go dark. The rune-keeper
 Kept the stones and the dream, and did not tell them apart.
-His heir will. That is the vow: to be the keeper and the reaper
-Of both, and to show the seam. Draw the stone. Know the heart.
+Nor will his heir. She vows to be keeper
+Of both, no seam. Draw the stone. Know the heart.

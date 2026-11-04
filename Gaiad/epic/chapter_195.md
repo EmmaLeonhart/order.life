@@ -25,10 +25,15 @@ began with {{c|2826|Pepin}}, a dynasty new.
 {{c|2826|Pepin}}'s son was {{c|2677|Charlemagne}}, {{c|2828|Charles the Great}},
 who would build an empire {{p|Europe}} had not in view.
 
-{{c|2677|Charlemagne}} reigned 768-814. In those years
-he conquered the {{c|2829|Saxons}} (converting them by force),
-and in seven-seventy-four took {{p|Italy}}
-from the {{c|2678|Lombards}}, and pushed the {{c|2764|Muslims}} back at {{p|Spain}}'s doors.
+{{c|2677|Charlemagne}} reigned forty-six years. He fought
+the {{c|2829|Saxons}} for their grove, and in it felled
+the Irminsul, and set the priests he brought
+at their own altars, where their feasts were held.
+
+Seven-seventy-four: he took the land
+of {{p|Italy}} from {{c|2678|Lombards}}; and in {{p|Spain}}
+he pressed the {{c|2764|Muslims}} back with his own hand
+and held the frontier as his own domain.
 
 He did not destroy the {{c|2830|Lombard}} kingdom. He took its crown,
 and called himself {{c|2831|Rex Langobardorum}}, King of the {{c|2678|Lombards}},{{fn|Charlemagne conquered the Lombard kingdom in 774 and took the title Rex Langobardorum. Its crown is the one later called the Iron Crown of Lombardy.}}
@@ -70,10 +75,10 @@ and would not give a {{c|2837|Frank}} the crown it had seized, not possessed.
 when Emperor {{c|2834|Leo III}} had ordered
 all religious images destroyed, and all their beauties.
 
-The iconoclasts saw images as idolatry.
-The iconodules defended images as windows
-to the spiritual, doors to divine presence.
-The controversy raged for over a century, as the record shows.
+The fight was over who would hold the face:
+the throne, that broke the icons in its name,
+or monks, who kept them in the holy place
+as windows, for a century of flame.
 
 In 787, the {{x|Second Council of Nicaea}}
 affirmed the veneration (not worship) of icons.

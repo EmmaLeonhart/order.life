@@ -50,15 +50,15 @@ tracing the {{x|Haykazuni}} line as true.
 the land was divided and partitioned,
 and {{x|Christian}} identity became their test.
 
-In four-fifty-one at {{p|Avarayr}}, {{c|2626|Vardan Mamikonian}}
-led {{x|Christian}} {{c|2615|Armenians}} against {{x|Sassanid}} forces
-demanding they return to {{x|Zoroastrianism}}.
-{{c|2627|Vardan}} died, but {{p|Armenia}} preserved its courses.
+And at {{p|Avarayr}}, in four-fifty-one,
+{{c|2626|Vardan Mamikonian}} led out his own
+against the {{x|Sassanid}} king's priests, who'd won
+the order that their altar stand alone.
 
-The {{x|Battle of Avarayr}} is remembered
-as the founding martyrdom of the nation,
-the moment when {{x|Armenian}} {{x|Christianity}}
-chose to fight rather than face forced conversion.
+{{c|2627|Vardan}} fell. {{p|Armenia}} keeps the day
+as the first feast of its own martyred dead.
+The war was not of gods. It was who'd say
+whose priests would bless its altar and its bread.
 
 {{p|Armenia}} would never be a great power.
 But it would be a persistent one.

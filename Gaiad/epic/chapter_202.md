@@ -1,9 +1,14 @@
 # Chapter 202: The Crusades
 
-In 1095, {{c|2825|Pope}} {{c|3017|Urban II}} at the {{x|Council of Clermont}}
-called on the knights of {{p|Europe}} to march east
-to aid the {{p|Byzantine Empire}} and recover
-{{p|Jerusalem}} from the {{c|2764|Muslims}}, the Christian feast.
+At {{x|Council of Clermont}}, ten-ninety-five,
+the {{c|2825|Pope}}, {{c|3017|Urban II}}, sent the knights to ride
+to aid {{p|Byzantium}}, and then to strive
+with {{c|2764|Muslims}} for the Tomb where {{c|1497|Christ}} had died.
+
+It was one {{c|472|God}}, one city, and one tomb;
+the quarrel was whose priests would hold the keys,
+whose bells would ring there, and whose call, whose room
+for pilgrims, and whose feasts, and whose decrees.
 
 "{{c|3018|Deus vult}}!" — "{{c|472|God}} wills it!" — the crowd cried.
 The {{c|3019|First Crusade}} was launched. {{c|3020|Urban}} promised
@@ -105,10 +110,10 @@ would never fully recover from the {{c|3047|Fourth Crusade}}.
 It is one of the great betrayals of history,
 {{c|2494|Christians}} sacking the greatest Christian city unhade.
 
-The Eastern Orthodox would never forgive.
-The {{x|Great Schism}} of 1054 between
-Catholic and Orthodox {{x|Christianity}}
-became essentially permanent after this scene.
+The {{x|Great Schism}}, ten-fifty-four, between
+two sees, was a quarrel for the first chair,
+{{p|Rome}} or {{p|Constantinople}}; from this scene
+the quarrel held, and no hand would repair.
 
 Subsequent crusades became increasingly desperate.
 The {{x|Children's Crusade}} of 1212 ended with
@@ -130,25 +135,30 @@ The crusader states were finished. The project
 of recovering the {{p|Holy Land}} by European military force
 had failed completely, except as cultural object.
 
-The crusades had side effects, however.
-They brought {{c|2930|Europeans}} into contact with superior
-Islamic civilization, transmitting learning,
-technology, luxury goods, new cultural interior.
+The wars bore fruit: the {{c|2930|Europeans}} came
+to know their cousins' learning in the East,
+their numbers, paper, sugar, and the same
+old Greek the house had kept: one house, one feast.
 
 Italian city-states like {{p|Venice}} and {{p|Genoa}}
 grew rich from crusader transport contracts.
 The money economy expanded. Banking developed.
 The foundations of the {{x|Renaissance}} were thus extracted.
 
-The {{c|3052|Military Orders}} — the {{c|3053|Templars}}, {{c|3054|Hospitallers}}, {{c|3055|Teutonic Knights}} —
-were founded to protect pilgrims, fight infidels,
-and became wealthy and powerful institutions.
-The {{c|3053|Templars}} would be destroyed in 1307 on heresy drills.
+The {{c|3052|Military Orders}} rose: the band
+{{c|3053|Templars}}, {{c|3054|Hospitallers}}, {{c|3055|Teutonic Knights}},
+who kept the pilgrims' road, grew rich in land;
+the {{c|3053|Templars}} rich enough to lose their rights.
 
-The deflationary polytheist sees the crusades
-as a failed attempt to project European power
-into a more sophisticated civilization,
-which exposed {{p|Europe}} to what was superior in the hour.
+In thirteen-oh-seven Philip of {{p|France}}
+arrested them for heresy, and seized
+their gold: the charge was faith; the cause, finance,
+an order's treasure, and the king was pleased.
+
+The crusades were a household's war: the heirs
+of Abraham fought for their father's town,
+and when it ended, learning that was theirs
+came west, the same house's books, handed down.
 
 {{p|Europe}} would digest that exposure over centuries,
 and the {{x|Renaissance}} that emerged in the fourteenth century

@@ -35,10 +35,10 @@ married {{c|3203|Queen Jadwiga}} of {{p|Poland}}, converted to
 {{x|Catholicism}}, and was crowned King of {{p|Poland}}. He committed
 {{p|Lithuania}} to Christianization as part of the deal, too.
 
-The conversion was top-down and partial. The nobility
-converted first. The peasants retained pagan practices
-for centuries — sacred groves continued to be visited,
-household offerings continued to be made, with traces.
+The new priests took the lords; among the herds
+the farmhouse kept {{c|3194|Gabija}}'s hearth and bread,
+the groves, the household offerings, the words
+of the same rite, for centuries ahead.
 
 Some sacred groves survived until the twentieth century.
 Lithuanian folk religion remained one of the most intact
@@ -55,10 +55,10 @@ Their crusading justification was gone — the {{c|3191|Lithuanians}}
 were Christian now. The {{c|450|Order}} would fade into irrelevance
 over the following century, pagan-hunting orphanians.
 
-The deflationary polytheist notes {{p|Lithuania}} as the
-counterfactual that proves the rule: {{x|Christianity}} spread
-through political-military pressure, not popular conversion.
-When a state could hold out, paganism could persist widespread.
+Here is what {{p|Lithuania}} shows plain:
+the crown decided who would hold the rite;
+the hearth and grove were kept through all the reign
+of bishops, and the old fire stayed alight.
 
 The {{c|3191|Lithuanians}} have preserved Indo-European linguistic
 features that are older than {{x|Sanskrit}}. The Lithuanian
@@ -75,7 +75,7 @@ survived partially in folklore, but the mythology as
 a coherent system was lost. What we can reconstruct
 is fragmentary, compared to the {{c|2929|Norse}} or Greek corpus.
 
-It is one of the great "what ifs" of world literature.
-The last great Indo-European polytheism in {{p|Europe}},
-undocumented at the moment of its conversion.
-A civilizational voice silenced without a final pope-hat.
+It is the great "what if" of all the books:
+the oldest rite in all of {{p|Europe}}'s land,
+kept in the groves, the hearths, the farmhouse nooks,
+with no {{c|2934|Snorri}} to write it down by hand.

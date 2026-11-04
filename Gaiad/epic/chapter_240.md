@@ -37,10 +37,10 @@ The quipucamayoc read these strings
 As a {{c|3401|European}} read a printed plate,
 And the empire's memory clings
 
-To these knotted threads that the {{c|3512|Spaniards}} burned
-As the devil's handiwork, unknowing
-That they destroyed a library, and turned
-The {{x|Andean}} past to silence, throwing
+To these knotted threads that the {{c|3512|Spaniards}} burned,
+for the knots kept the dead, and who would hold
+the dead, the friars held, was theirs: they turned
+the {{x|Andean}} past to silence; the old
 
 Ten thousand years of record to the flame.
 

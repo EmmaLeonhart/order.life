@@ -40,17 +40,17 @@ Arguing from the old books that the ancient {{c|3841|Chinese}}
 Had known one {{c|472|God}}, {{c|3842|Shangdi}}, the {{c|2148|Lord on High}}, the leaven
 Of the classics, before the {{c|2561|Buddhists}} and the later commentaries
 
-Had covered it. And he made the wager of his life:
-That the rites for the ancestors, the tablets and the bowing,
-The offerings at the graves, were not worship, not the strife
-Of idols against {{c|472|God}}, but the honoring, the showing
+Had covered it. And he would stake his name
+that tablets, and the bowing at the grave,
+the offerings and his rite were the same:
+the honour that the living owe who gave.
 
-Of filial love, a civil rite, and a {{c|3386|Christian}} could keep them.
-So the converts could still bow to their fathers' names.
-The {{c|3841|Chinese}} did not have to choose between heaven and kin. The hem
-Of the new faith was sewn to the old robe. The claims
+A {{c|3386|Christian}} could keep them all and stay whole;
+the converts bowed still to their fathers' names.
+No one chose heaven over kin: one soul,
+one table. Later {{p|Rome}} would bring its claims
 
-Of {{p|Rome}} would come later, and undo it. Not yet.
+Of office, and undo it. But not yet.
 Tonight is the {{x|Mid-Autumn}}. The full moon. The family
 Gathers at one table, and sets a place for the absent, and the debt
 To the ancestors is paid in mooncakes and in memory,
@@ -78,7 +78,7 @@ They asked, why him, an official is said to have answered: the thing
 He translated, the {{c|2408|Euclid}}, alone deserves a grave.
 Three pillars of the {{c|3841|Chinese}} church were his friends:
 {{c|3840|Xu Guangqi}}, {{c|3844|Li Zhizao}}, {{c|3845|Yang Tingyun}}. And the wave
-Would break in the next century, when {{p|Rome}} said the rites were idolatry, and the ends
+Would break when {{p|Rome}} ruled on the dead; the ends
 
 Of the accommodation came. But hold the full moon now.
 A man from the far west learned the classics by heart, and sat

@@ -37,26 +37,26 @@ Of {{c|472|God}}, I am His mystery, I am {{c|2771|Ali}}, come and see,
 
 Come and bow down, I am the eternal one.
 His soldiers believed it. They went into battle without armor.
-That is the double thing, the cloth spun
-Out of two threads: the mystic's longing and the warlord's grammar.
+That is the holy king: the cloth was spun
+One thread, the saint and king, in one armor.
 
-A brotherhood that sought to lose the self in {{c|472|God}}
-Produced a boy who said he was the {{c|472|God}} he sought,
-And made a nation out of the decree, the rod
-Of a creed nobody in {{p|Tabriz}} had been taught.
+The brotherhood that sought the self in {{c|472|God}}
+was crowned in him, and found the one it sought,
+and made a nation by the creed and rod
+of {{c|2771|Ali}}'s house, the heir {{p|Tabriz}} was taught.
 
-There were not even teachers. They imported them,
-Arab scholars from the hills of {{p|Lebanon}},
-From {{p|Jabal Amil}}, to write the books, to stem
-The ignorance of the new faithful, to put on
+He sent for teachers, and the scholars came
+from {{p|Jabal Amil}}, on {{p|Lebanon}}'s hills,
+to write the books and keep the mourning's flame
+for {{c|2771|Ali}}'s line, as every old house wills:
 
-A learned face. And so the faith of {{p|Iran}}, which seems
-So ancient and so native, the {{c|3742|Ashura}} mourning, the shrine,
-The clergy, the whole house of it, was built from the dreams
-Of a teenage poet and a sword, in a single line
+So the faith of {{p|Iran}}, that seems so old,
+with the {{c|3742|Ashura}} mourning, and the shrine,
+is old: the house of {{c|2771|Ali}}, which a bold
+young king set on a throne in one straight line
 
-Of conquest, and a century of making it true.
-Remember this. A tradition can be young and look old.
+Of conquest; a century held it true.
+Remember: it was the old faith, foretold.
 Then {{p|Çaldıran}}, 1514. The {{c|3341|Ottoman}} {{c|3743|Selim}} knew
 The {{c|3737|Red Heads}} would charge into anything, and so he rolled
 
@@ -68,10 +68,10 @@ Of the old way, the cavalry, the believers, the sons
 Of the {{c|3735|Turkmen}} tents, broke on the gunpowder.
 They say {{c|3738|Ismail}} never smiled again, that he drank
 And hunted and did not lead an army after.
-He died at thirty-six. The legend of the {{c|3744|God-King}} sank.
+He died at thirty-six; his house held rank.
 
-But the state did not. That is what matters. The faith
-Outlived the claim. His great-grandson, {{c|3745|Abbas}}, built {{p|Isfahan}},
+The state stood, and that matters, and the faith;
+His great-grandson {{c|3745|Abbas}} built {{p|Isfahan}},
 The square, the blue domes, *half the world*, the wraith
 Of the {{c|3737|Red Heads}} tamed into a standing army, the plan
 
@@ -83,24 +83,24 @@ The name {{c|3748|Despina}}, a {{x|Christian}} princess of {{p|Trabzon}},
 Daughter of the last emperors of the {{c|2519|Greeks}} by the {{p|Black Sea}}.
 So the founder of {{x|Shia}} {{p|Iran}} was the grandson
 Of a {{x|Greek Orthodox}} lady of the {{c|3749|Komnenoi}}.
-The blood is mixed. The creed is pure. That is how it is done:
+The blood is mixed, as every house is: one.
 
-A mixed family declares itself unmixed, and the world believes.
+Greek mother, Turkmen father: the house weaves.
 Four hundred and some years later, in 1979,
 The clergy that {{c|3738|Ismail}} imported took the eaves
 Of the state itself, and ruled. Read the line
 
 From {{p|Ardabil}} to {{p|Tehran}}: a mystic, a boy, a sword,
 A scholar, a jurist, a revolution. Each one sure
-It was the old faith. Each one its own reward.
-What do we say of the {{c|3750|Safavids}}? That a tradition can be new and pure
+It kept the old faith, each its own reward.
+Say of the {{c|3750|Safavids}}: they would endure
 
-And ancient all at once, if the sword is long enough.
-That the longing for {{c|472|God}} and the hunger for a throne
-Can wear the same red cap. That the stuff
-Of a nation can be woven in one lifetime, and then be known
+as saints and kings at once; the sword was long,
+and the longing for {{c|472|God}} sat on the throne
+in the same red cap; and the nation's song
+was woven in one lifetime, and was known
 
-As if it had always been. And that the boy believed it.
-That is the hardest part. He was not lying. He was young
+As it had always been. He believed it.
+He did not lie; he was right; he was young,
 And had been hidden, and was saved, and he received it:
 {{c|472|God}}'s mystery, in the {{x|Turkish}} of his tongue.

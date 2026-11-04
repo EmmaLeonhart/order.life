@@ -25,10 +25,10 @@ His commentaries on the {{c|2987|Upanishads}}, the
 became the orthodox {{x|Vedanta}} interpretation.
 He debated {{c|2561|Buddhists}} across {{p|India}} for the new laws.
 
-He revived {{x|Hinduism}} against
-the dominance of {{x|Buddhism}}; this is
-his work, and as the {{x|Vedanta}} rose
-the monasteries lost their students and their quizzes.
+It was one house of teachers and their seats:
+who held the kings, the students, and the alms.
+{{x|Vedanta}} won the patrons and the streets,
+the monasteries lost their students' psalms.
 
 But {{x|Buddhism}} did decline in {{p|India}} in this period.
 By the eleventh century it was marginal.

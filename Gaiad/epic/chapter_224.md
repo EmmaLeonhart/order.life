@@ -69,7 +69,7 @@ And now {{c|3391|Ferdinand}} and {{c|3392|Isabella}} came—
 The joined crowns of {{p|Castile}} and {{p|Aragon}}, the toil
 Of the marriage-alliance and the flame
 
-Of the holy war rekindled: ten years' siege,
+Of war for the altars, a ten years' siege,
 The slow strangulation of the last
 {{c|3393|Nasrid}} kingdom—and the liege
 Who had somehow, stubbornly, outlast-
@@ -101,7 +101,7 @@ The victory's trumpet lay a death.
 
 For what {{c|3391|Ferdinand}} and {{c|3392|Isabella}} did
 With their triumph was to draw the breath
-Of purity: the edict, the forbid—
+Of one altar: the edict, the forbid—
 
 The {{p|Alhambra}} Decree, signed in the same
 Palace whose beauty the {{c|3383|Moors}} had raised—
@@ -133,7 +133,7 @@ Were given the same ultimatum's shears:
 Convert or leave. The residue
 Of eight centuries of civilization's years
 
-Swept clean in the name of the one true faith.
+Swept from the house so one crown held the faith.
 
 And yet the same monarchs—the same
 {{c|3391|Ferdinand}}, the same {{c|3392|Isabella}}—the wraith

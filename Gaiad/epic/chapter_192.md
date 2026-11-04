@@ -25,10 +25,10 @@ hajj — pilgrimage to {{p|Mecca}} once in life.
 Simple, clear, demanding, but doable,
 a structure for the whole of one's strife.
 
-For thirteen years in {{p|Mecca}}, {{c|1911|Muhammad}} preached
-and was persecuted by the {{c|1916|Quraysh}},
-whose economic and religious order
-depended on the pagan pilgrimage flesh.
+For thirteen years in {{p|Mecca}} he would preach,
+and the {{c|1916|Quraysh}}, who held the {{p|Kaaba}}'s keys,
+fought him; whoever held the word would teach
+the pilgrims at the house, and take their fees.
 
 His early converts were slaves, women, poor,
 outsiders, those without tribal protection.
@@ -55,10 +55,10 @@ were expected by {{c|1911|Muhammad}} to recognize him
 as a prophet in the Abrahamic line.
 When they refused, the qibla changed from the rim
 
-of {{p|Jerusalem}} to {{p|Mecca}}. The fast was
-changed from {{x|Yom Kippur}} to {{x|Ramadan}}.
-The split with {{x|Judaism}} became permanent.
-{{x|Islam}} was now its own religion, untouched ran.
+of {{p|Jerusalem}} to {{p|Mecca}}. The fast
+was moved from {{x|Yom Kippur}} to {{x|Ramadan}}:
+one fast, one prayer, one Abraham, recast
+as the two houses' quarrel, carried on.
 
 War with the {{c|1916|Quraysh}} broke out. The {{c|2763|Battle of Badr}}
 in 624 was the first great victory.
@@ -90,8 +90,10 @@ the treaty was broken by {{c|1916|Quraysh}} allies.
 {{c|1911|Muhammad}} marched on {{p|Mecca}} with ten thousand
 and the city surrendered without heavy plies.
 
-{{c|1911|Muhammad}} entered the {{p|Kaaba}}, destroyed the idols,
-proclaimed only one {{c|472|God}}, forgave most enemies.
+{{c|1911|Muhammad}} came into the {{p|Kaaba}}; there
+its images were cleared, the house made {{c|472|God}}'s;
+he gave its keepers back the key to bear,
+forgave most enemies, and spared the rod.
 It was the triumph of his mission.
 {{p|Mecca}} was now the center of the new community.
 

@@ -40,15 +40,15 @@ Cities quarantined themselves with varying success.
 among {{c|3137|Florentines}} fleeing the plague to a country villa,
 telling stories while the city died on.
 
-Flagellant movements erupted across {{p|Europe}},
-groups of penitents whipping themselves as atonement
-for sins they believed had brought the plague.
-Jewish communities were massacred as scapegoats, bent
+Flagellants marched through {{p|Europe}}, whipped and bled
+for sins they thought had brought the plague on all;
+the towns turned on the eldest house instead,
+of Abraham's, and burned it, wall by wall.
 
-to the flames in {{p|Strasbourg}}, {{p|Basel}}, {{p|Cologne}},
-accused of poisoning wells. {{c|3138|Pope Clement VI}}
-issued bulls defending {{c|2500|Jews}} — correctly noting they
-died of plague too — but the pogroms were quick.
+In {{p|Strasbourg}}, {{p|Basel}}, and {{p|Cologne}} they burned,
+accused of poisoning the wells. The chair
+of {{c|3138|Pope Clement VI}} held them kin, and spurned
+the charge: they died of plague too. Mobs didn't care.
 
 The religious explanation ("divine punishment for sin")
 competed with the miasma theory ("bad air")

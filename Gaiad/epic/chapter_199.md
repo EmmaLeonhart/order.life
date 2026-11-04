@@ -5,10 +5,10 @@ where the sun barely rose in winter,
 the {{c|2929|Norse}} developed their distinctive culture,
 preserving Indo-European mythology longer than their fitter.
 
-While most {{c|2930|Europeans}} had been Christianized for centuries,
-the {{c|2929|Norse}} remained pagan into the eleventh century.
-When they finally converted, they preserved their mythology
-in writing, unlike most lost pagan sanctuary.
+The {{c|2930|Europeans}} kept the bishops' rite;
+the {{c|2929|Norse}} kept the old altars of the North,
+and when they took the bishops in, they'd write
+the old gods down in books, and bring them forth.
 
 The {{c|2931|Poetic Edda}} and the {{c|2932|Prose Edda}} of {{c|2933|Snorri Sturluson}}
 (1179-1241) in {{p|Iceland}} preserved the myths.
@@ -75,20 +75,20 @@ they reported. The beauty of {{p|Hagia Sophia}}'s liturgy
 had converted them. {{p|Kievan Rus}} became Orthodox.
 The Slavic Orthodox church was born with liturgy.
 
-Back in {{p|Scandinavia}}, conversion came slowly.
-{{c|2956|Harald Bluetooth}} of {{p|Denmark}} converted around 965.
-{{c|2957|Olaf Tryggvason}} of {{p|Norway}} forcefully converted his people.
-{{c|2958|Olaf II}} died a martyr and was canonized alive.
+In {{p|Scandinavia}} kings took the rite:
+first {{c|2956|Harald Bluetooth}} in nine-sixty-five;
+{{c|2957|Olaf Tryggvason}} took {{p|Norway}}'s by might;
+{{c|2958|Olaf II}} fell, a saint who would survive.
 
-{{c|2959|Sweden}} was the last to convert, into the twelfth century.
-The {{p|Uppsala}} temple with its human sacrifices
-was destroyed in the early twelfth century.
-The {{x|Old Way}} was ending, despite its old vices.
+{{c|2959|Sweden}} came last; the twelfth century saw
+the crown and church take up the temple's law:
+{{p|Uppsala}}'s temple, with its offered dead,
+came down; the altar took new priests instead.
 
-But in {{p|Iceland}}, the conversion was peaceful.
-In 1000, the {{x|Althing}} (parliament) voted
-to officially adopt {{x|Christianity}}, though
-private pagan worship was temporarily floated.
+In {{p|Iceland}} it was settled without war:
+the {{x|Althing}}, in the year one thousand, said
+the bishops' rite in public; and the door
+of each home kept the old rite there instead.
 
 {{p|Iceland}}'s conversion by parliamentary vote
 is unique in world history of religions.

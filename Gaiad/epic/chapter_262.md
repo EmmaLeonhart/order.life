@@ -32,8 +32,8 @@ And preached the {{c|3820|Great Sun}}, and the monks nodded. The looms
 
 Of the two faiths ran one cloth for a little while,
 Exactly as the goddess at {{p|Kozhikode}} had been taken for {{c|1399|Mary}}.
-Then {{c|3817|Xavier}} learned what the word meant, and the guile
-Of no one, only the gap, and in horror he would carry
+Then {{c|3817|Xavier}} feared the word, but not from guile,
+but for his priests' own name, he would carry
 
 A new word into the sermons: *{{x|Deusu}}*, from the {{x|Latin}}.
 And the monks heard it, and laughed: *dai-uso*, they said,
@@ -86,7 +86,7 @@ To hundreds of thousands, and then be crushed. The beach
 At {{p|Nagasaki}} would see the martyrs. But that comes after. Know
 
 This first: the first conversation between the {{p|West}} and {{p|Japan}}
-About the gods began with a mistranslation and ended with the dead.
+Began with one Great Sun and with the dead.
 Everything that follows is in that span.
 Keep your ancestors. Lifeism says it plainly, as the {{c|3588|Jesuits}} said
 

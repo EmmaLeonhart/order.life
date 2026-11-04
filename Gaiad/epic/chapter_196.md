@@ -65,10 +65,10 @@ Forty thousand temples and shrines were destroyed.
 Two hundred sixty thousand monks and nuns were
 returned to lay life, their wealth deployed.
 
-The motives were mixed. Economic — the monasteries
-held vast untaxed lands. Ideological — {{c|2861|Wuzong}} was
-a Daoist who thought {{x|Buddhism}} was foreign. Xenophobic —
-foreign religions were targeted broadly without pause.
+The cause was land: the monasteries held
+vast fields untaxed, and bronze the mint would take;
+and {{c|2861|Wuzong}}'s own Daoist priests would have expelled
+the Buddha's monks, as rivals for one stake.
 
 {{x|Manichaeism}} was virtually wiped out in {{p|China}}.
 {{c|2863|Nestorian Christianity}}, which had entered in the {{x|Tang}},

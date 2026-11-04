@@ -68,7 +68,7 @@ Of the lances under the ribs, two each, and it was clean
 And quick, the chronicle says, and the crowd broke through the guards
 To soak cloth in their blood. These are the {{x|Days of Awe}}. Say it straight:
 A state that writes every field and fixes every man in his yards
-Will see a new faith as a column it did not create,
+Will see a priesthood it did not create,
 
 And cross it out. The register and the cross on the hill
 Are one story. He also sent his armies into {{p|Korea}}, in 1592,

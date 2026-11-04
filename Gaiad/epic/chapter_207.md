@@ -25,10 +25,10 @@ from {{p|China}}, with koans and warriors' discipline.
 {{c|2814|Dōgen}} (1200-1253) founded {{c|3129|Sōtō Zen}},
 emphasizing just-sitting meditation.
 
-{{c|2813|Nichiren}} (1222-1282) founded his own school,
-demanding exclusive devotion to the {{c|3130|Lotus Sutra}},
-denouncing all other schools as heretical,
-predicting doom for {{p|Japan}}, prophetic prodra.
+{{c|2813|Nichiren}} told the regents they must stand
+by the {{c|3130|Lotus Sutra}}, by it alone,
+and leave the other schools' support: the land
+would fall if the other schools held their own.
 
 He predicted foreign invasion, and he was right.
 {{c|3076|Kublai Khan}} sent demands for Japanese submission.

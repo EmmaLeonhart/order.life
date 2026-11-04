@@ -55,15 +55,15 @@ religious strategy — the {{c|3303|Council of Ferrara-Florence}}
 (1438-1445), which reunited the Eastern and Western
 churches on paper, with the Byzantine delegation accepting
 
-the Latin doctrinal positions in exchange for promised
-military aid. But the reunion was rejected at home
-by the {{x|Greek Orthodox}} population. "Better the Turkish
-turban than the Latin miter!" became a bitter acrost.
+the Latin terms for ships and men from {{p|Rome}}.
+At home the clergy would not have it so:
+the question was whose hat would rule the dome,
+the cardinal's or turban's. They said no.
 
-The Orthodox clergy and much of the populace preferred
-submission to Muslim rule over submission to {{p|Rome}}.
-The promised crusade materialized as the {{c|3304|Crusade of
-Varna}} in 1444, which was destroyed by {{c|3231|Murad II}}, gone.
+"Better the turban than the miter," said
+the city's lords: one altar, whose the crown.
+The aid came: {{c|3304|Crusade of Varna}}; it bled
+in forty-four; {{c|3231|Murad II}} cut it down.
 
 John VIII's brother {{c|3305|Constantine XI Palaiologos}}
 (r. 1449-1453) was the last Byzantine emperor. He

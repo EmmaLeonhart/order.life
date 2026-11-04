@@ -55,7 +55,7 @@ Could leave, with its goods, for a land of its own faith, and not be killed.
 And the idea grew from it, though the treaty never spelled
 It out: that a state is sovereign within its borders, and the spheres
 
-Of faith are not a reason for a war between them.
+Of one faith's houses: no war between them.
 Not tolerance. Exhaustion. Not love. A truce
 Between people who had learned that they could not condemn
 Each other out of existence. That is the use

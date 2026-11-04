@@ -30,10 +30,10 @@ The pre-Islamic {{c|1910|Arabs}} worshipped many gods.
 but rarely worshipped directly — his daughters
 {{c|2741|al-Lat}}, {{c|2742|al-Uzza}}, and {{c|2743|Manat}} drew the eye.
 
-The {{c|2744|Kaaba}} at {{p|Mecca}} housed 360 idols,
-one for every day of the lunar year,
-tribal gods, astral deities, household idols,
-{{c|2745|Hubal}} the chief among them held dear.
+Three hundred sixty images were kept
+within the {{c|2744|Kaaba}}, where the pilgrims stepped:
+the gods of tribes and stars and homes, and they
+set {{c|2745|Hubal}} chief, the god to whom they'd pray.
 
 But the {{c|1910|Arabs}} also had the concept of
 {{c|2746|hanif}}, a pure monotheist in the line
@@ -70,10 +70,10 @@ as hermits in caves along trade routes,
 where caravans would stop for water
 and hear the teaching at lonely outposts.
 
-This was the context: a peninsula with
-multiple religions already present,
-where monotheism was known but not
-universal, where pagan worship was prevalent.
+Here was one peninsula and one rite
+kept many ways, by tribe and town and tent,
+the high god and his daughters, and the light
+of Jews and Christian monks, with one intent.
 
 Trade connected {{p|Arabia}} to the world.
 Frankincense and myrrh went north to {{p|Rome}}.
@@ -85,10 +85,10 @@ the great Byzantine-Sassanid wars,
 which weakened both empires, disrupted trade,
 and left {{p|Arabia}} watching both contenders' scores.
 
-The {{x|Year of the Elephant}}, 570 CE,
-saw {{c|2754|Abraha}}, the Christian Ethiopian ruler
-of {{p|Yemen}}, march on {{p|Mecca}} with elephants
-to destroy the {{c|2744|Kaaba}}, sacred center ruler.
+In the {{x|Year of the Elephant}} came forth
+{{c|2754|Abraha}} of {{p|Yemen}}, and he marched north
+with elephants, to take away the rite
+of pilgrims for his church: whose house, whose right.
 
 His expedition was miraculously defeated
 (tradition says birds dropped stones on them,
@@ -113,4 +113,4 @@ the archangel {{c|2759|Gabriel}} would visit him, a wrecker
 of his old life and opener of the new.
 "Recite!" the angel said. "In the name of your {{c|295|Lord}}
 who created, created man from a clot."
-The {{x|Quran}} began. A new religion was born.
+The {{x|Quran}} began: the old house restored.

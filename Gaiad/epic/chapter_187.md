@@ -45,20 +45,20 @@ a {{x|Christian}} at the last, and passed away.
 His mother {{c|2651|Helena}} went to {{p|Jerusalem}}
 and found the {{x|True Cross}} where it lay.
 
-After {{c|2555|Constantine}}, his sons divided
-the empire, fought civil wars, returned
-to fragmentation. {{c|2652|Julian the Apostate}}
-briefly tried to restore the old gods burned.
+Then {{c|2555|Constantine}}'s sons split the realm and fought;
+then {{c|2653|Julian}} gave the old priests their keys,
+the house that kept the rite as he was taught,
+the altars of the cities, and their fees.
 
-But it was too late. The church was too strong.
-{{c|2653|Julian}} died in battle against the {{c|2654|Persians}}.
-The Theodosian reforms would make {{x|Christianity}}
-the state religion, exclusive, without diversions.
+He died in war with the {{c|2654|Persians}}; the keys
+went to the bishops, and they kept them there:
+the rite was one; the fight was whose decrees
+would rule the altar, and whose robe, whose prayer.
 
-{{c|2655|Theodosius I}} in three-ninety-two
-outlawed pagan worship entirely.
-The old temples were closed or converted.
-The {{x|Olympic Games}} were ended, purely.
+And then {{c|2655|Theodosius I}} would close the doors
+of the old priesthood in three-ninety-two.
+The temples took new keepers: the same floors,
+new priests; and the {{x|Olympic Games}} were through.
 
 The {{c|2656|Visigoths}} sacked {{p|Rome}} in four-ten
 under {{c|2657|Alaric}}. The unthinkable happened.
@@ -225,7 +225,7 @@ the turn: the {{p|West}} did not fall to the {{c|2649|Goths}};
 it lost its last emperor to {{c|2383|Justinian}},
 and {{x|Christianity}} became what {{p|Rome}} defended.
 
-The old gods were gone from public life.
-The temples were churches or ruins now.
-A new {{x|Christian}} civilization was forming
-on the old {{p|Roman}} frame, altered somehow.
+The same rite stood in {{p|Rome}} under new names:
+the temples were the churches or were stone,
+the feasts went on, the incense and the flames,
+the old {{p|Roman}} frame held what it had known.

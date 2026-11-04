@@ -105,10 +105,10 @@ printing, gunpowder, the compass, paper money —
 began to transmit westward systematically,
 preparing the ground for European modernity.
 
-The {{c|2904|Mongols}} themselves were religiously tolerant,
-possibly because they had no strong religion of their own.
-{{x|Nestorian Christianity}} was the faith of many Mongol
-noblewomen. Tibetan {{x|Buddhism}} attracted some Mongol men.
+The {{c|2904|Mongols}} let each priesthood keep its rite,
+since all prayed to Eternal Heaven's light:
+queens kept the Nestorian cross, and men
+Tibetan {{x|Buddhism}}: Heaven's again.
 
 {{x|Islam}} would eventually convert most of the western
 Mongol realms — the {{c|3073|Ilkhanate}} and the {{c|3074|Golden Horde}}.

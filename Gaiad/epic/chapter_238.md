@@ -59,12 +59,12 @@ And flowers were the only offerings
 The {{c|3492|Feathered Serpent}} required, the ties
 Between the human and the divine were strings
 
-Of beauty, not of blood—and for this teaching
-The priesthood of {{c|3495|Tezcatlipoca}}—
-The smoking mirror, the overreaching
-Lord of sorcery, the mocker
+Of beauty, not of blood. For this teaching
+{{c|3495|Tezcatlipoca}}'s own priesthood, reaching
+for the one altar, with the smoking glass
+that was its god's own face, would not let pass
 
-Of the gentle god—conspired against the priest.
+The flowers; they plotted against the priest.
 
 The legend says they brought him to a mirror
 And showed him his own face, diseased

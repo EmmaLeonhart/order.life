@@ -35,10 +35,10 @@ lasted eleven years. But they recovered under
 The {{p|Balkans}} were solidifying under Ottoman control.
 {{p|Constantinople}} was now surrounded on all sides, ate.
 
-The {{c|3234|Janissary}} corps was the elite of the Ottoman
-army. It was recruited through the {{c|3235|devshirme}} system —
-Christian boys taken from Balkan villages as a "tax,"
-converted to {{x|Islam}}, trained as soldiers and administrators.
+The {{c|3234|Janissary}} corps, the Sultan's own,
+came from the {{c|3235|devshirme}}, the boys' levy: sons
+of Balkan village churches, taken, grown
+to serve the Sultan's altar, and his guns.
 
 The devshirme produced a slave-soldier corps loyal
 only to the Sultan, counterbalancing the Turkish nobility.

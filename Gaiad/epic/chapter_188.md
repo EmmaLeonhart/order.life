@@ -55,10 +55,10 @@ then the {{x|Sixteen Kingdoms}} in the north,
 then the {{x|Southern and Northern Dynasties}} period,
 three hundred years of {{p|China}} torn forth.
 
-During this time, {{x|Buddhism}} took deep root.
-With Confucian order failing, people turned
-to the foreign teaching that addressed suffering.
-Monasteries multiplied, sutras were earned.
+And in this time {{x|Buddhism}} took deep root:
+as the old order failed, the people turned
+to the one rite from {{p|India}}, its fruit
+in sutras and in monasteries earned.
 
 {{c|2692|Kumarajiva}} was brought from {{p|Kucha}} as hostage
 to {{p|Chang'an}} where he translated sutras,

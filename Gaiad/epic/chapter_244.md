@@ -4,9 +4,9 @@ For eighty years the {{c|3567|Pueblo}} peoples bore it.
 
 Since {{c|3568|Oñate}}'s iron boot had crossed
 The {{p|Rio Grande}} in fifteen-ninety-eight, the orbit
-Of the {{c|3516|Spanish}} mission's holocaust
+Of the {{c|3516|Spanish}} friars, and of the cost
 
-Of culture ground the sacred dances down:
+Of their claim ground the sacred dances down:
 The kivas sealed with stone, the masks
 Of the kachinas burned in every town
 From {{p|Taos}} to {{p|Hopi}}—and the tasks
@@ -16,8 +16,8 @@ The backs of the {{c|3567|Pueblo}} men, who dragged
 The timbers for the churches at the dawn
 And the dusk of every day, and gagged
 
-Upon the blasphemy of building altars
-To a foreign god atop the buried
+On the building of the friars' altars
+To the one god, set atop the buried
 Kivas where the ceremony falters
 In the darkness—underground, the married
 
@@ -40,10 +40,10 @@ And the {{c|3436|Apache}} raids, like a thorn
 In the weakened body's side, drove the frontier
 Missions to their knees—and the friars
 Responded with the whip, the sheer
-And escalating violence of the liars
+And escalating violence, the fires
 
-Who blamed the drought on the {{c|3567|Pueblo}}'s sin:
-The kachinas, the old religion's hold,
+Of men who blamed the drought on kiva sin:
+The kachinas, the rain-rite's elder hold,
 The dancing that continued within
 The hidden kiva's fold—
 
@@ -108,7 +108,7 @@ Time in eighty years.
 
 Wash off the baptism in the river.
 Take the {{x|Christian}} name and the accruing
-Of the foreign saint and deliver
+Of the saint the friars gave; deliver
 
 It to the water's current—take back
 The old name, the true name,
@@ -185,21 +185,17 @@ That kept the sacred underneath the roof
 
 Of the conqueror's church, alive and whole.
 
-Honor {{c|3569|Popé}}—the scarred medicine man
-Who knotted the cord of the {{c|3567|Pueblo}} soul
-And untied an empire's eighty-year plan
+Honor {{c|3569|Popé}}, the scarred medicine man
+who knotted the cord of the {{c|3567|Pueblo}} soul
+and in one August dawn untied the plan
+of eighty years, and took the altar whole:
 
-In a single August dawn—who proved
-That the colonized can expel the colonizer,
-That the sacred is not removed
-By the missionary's enterprise or
+who proved the kiva and the church were one
+house, and the one who keeps the rite is who
+can hold it; so kachinas, in the sun,
+still dance in plaza and in kiva too:
 
-The soldier's boot—and the kachinas dance
-Still, in the plaza and the kiva's round,
-Because one revolt gave the chance
-To negotiate what could not be unwound:
-
-The prayer, the mask, the rain, the corn—
-The life that was here before the cross,
-And will be here after, every morning born
-From the land that remembers its own loss.
+the prayer, the mask, the rain, the corn, the bread
+of the same altar, kept before the cross
+and after it, and every morning fed
+by the land that remembers its own loss.

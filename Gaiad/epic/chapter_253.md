@@ -71,7 +71,7 @@ Emperor of the {{c|1004|Romans}}. Nearly every reader
 Born of {{p|Europe}} descends from him. The door
 
 Of every lineage in {{p|Europe}} opens there.
-Then the dark years. Listen to the dark.
+Then came the years of the great houses. Mark:
 {{c|3283|Formosus}}, dug up, propped up in the chair,
 Dressed in his robes, a deacon set to bark
 
@@ -93,9 +93,9 @@ Of a married woman's bed. The keys had been
 A dynasty, a genealogy, a house.
 And this book honors genealogies. It must
 Say so plainly: the chair the church endows
-With heaven was a family's for a time. Then dust,
+With heaven was a household's. That is just.
 
-Then reform. {{c|3689|Sylvester II}}, {{c|3690|Gerbert}},
+And after them {{c|3689|Sylvester II}}, {{c|3690|Gerbert}},
 Who brought the {{x|Arab}} numerals to the {{p|West}},
 The abacus, the astrolabe, the expert
 Of the year one thousand, when they guessed
@@ -157,10 +157,10 @@ Was paper, and the paper was the writ.
 
 Fifteen hundred years. A fisherman, a line.
 Some were saints and some were murderers and most
-Were administrators. The chair was not divine.
-The chair was a chair. What passed was not the ghost
+Were keepers, and the chair they kept, divine:
+The chair was holy. What passed was the ghost,
 
-But the habit of passing: hands on heads, the name
+And with it, hands on heads, and then the name
 Read out, the next name, and the keeping of the list.
 That is what an institution is. The same
 Way a family is. In {{p|Eisleben}}, a miner's son who would twist

@@ -30,15 +30,15 @@ became the second Christian state reached.
 in history to adopt {{x|Christianity}}
 as its official state declaration.)
 
-The {{x|Ethiopian Church}} took Monophysite
-position at {{p|Chalcedon}} in four-fifty-one,
-holding that {{c|1497|Christ}} had one nature, divine,
-absorbing the human into the one.
+And at {{p|Chalcedon}} in four-fifty-one
+the bishops split on how the {{c|1497|Christ}} was made:
+"Two natures," {{p|Rome}}; {{p|Alexandria}}, "one,"
+and {{p|Aksum}}'s bishop, sent from there, obeyed.
 
-This put it outside Western orthodoxy
-but aligned with {{p|Alexandria}} and {{p|Antioch}}'s stance.
-The {{x|Oriental Orthodox}} communion formed:
-{{c|2634|Copts}}, {{c|2635|Syrians}}, {{c|2615|Armenians}}, {{c|2636|Ethiopians}}' dance.
+It was one church that fought over a throne:
+which patriarch would say the creed for all.
+The {{c|2634|Copts}}, the {{c|2635|Syrians}} held to their own
+with {{c|2636|Ethiopians}}, a single hall.
 
 {{p|Ethiopia}} has a tradition that the {{c|2637|Ark of the Covenant}}
 rests at {{p|Aksum}} in the Church of {{p|St. Mary of Zion}},

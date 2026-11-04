@@ -20,10 +20,10 @@ Emperors rose and fell like weather.
 The coinage was debased, the silver
 diluted to base metal's tether.
 
-{{c|2583|Decius}} launched the first empire-wide
-persecution of {{c|2494|Christians}}, requiring
-all citizens to sacrifice to the gods
-and produce certificates proving firing.
+And then in two-fifty {{c|2583|Decius}} decreed
+that every house burn incense at his shrine
+and keep a paper proving it agreed.
+The church said: the same incense, but at mine.
 
 Many {{c|2494|Christians}} sacrificed, lapsed,
 became the "lapsi" debated for years.
@@ -90,10 +90,10 @@ The emperor rarely visited {{p|Rome}}.
 Power was where the frontier armies were,
 not in the old {{p|Italian}} home.
 
-{{c|2591|Diocletian}} launched the final great persecution
-of {{c|2494|Christians}} in three-oh-three,
-the "{{x|Great Persecution}}," the last attempt
-to suppress the church's rise by decree.
+And in three-oh-three {{c|2591|Diocletian}} tore down
+the churches, burned the books, and named it law:
+the {{x|Great Persecution}}, so that the crown
+would hold each altar the empire saw.
 
 It failed. The church was too embedded.
 Martyrs increased conversions, not decreased.

@@ -38,9 +38,9 @@ The lamps, the holy water, and in the light
 They saw what they had come to see. The {{c|3204|Hindus}} saw
 Strangers bowing to the {{c|3708|Mother}}, and let them bow.
 For one afternoon the world was joined, the law
-Of every faith suspended in the now
+Of every rite kept whole, in the one now
 
-Of a mistake. Then trade. Then insult. The {{c|3709|Zamorin}}
+Of no mistake. Then trade. The {{c|3709|Zamorin}}
 Was not impressed by their gifts: some cloth, some hats,
 Some honey. The {{c|3710|Arab}} merchants laughed. And in
 The end they sailed home with pepper, and with rats,
@@ -116,7 +116,7 @@ Reckoning of days. The many worlds would be
 One world, by cannon and by pepper and by sun.
 
 Here begins the joining. It was done by force.
-It was done by mistake, in a temple, on a knee.
+It was done in a temple, on a knee.
 It was done by a slave who found his way back to his source.
 Hold all three. The sea joins. The world will never again be free
 

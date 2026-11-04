@@ -5,10 +5,10 @@ Between 1633 and 1639 the shogunate wrote the edicts:
 No {{c|3815|Japanese}} ship may sail abroad. No {{c|3815|Japanese}}, on pain of death, may come ashore
 From the outside world again. The {{c|3212|Portuguese}}, with their padres and their contradicts,
 
-Expelled, in 1639, their ships forbidden. When a {{c|3212|Portuguese}} embassy
-Came the next year from {{p|Macau}} to ask the trade back, sixty-one
-Of them were beheaded, and a few sent home to tell it. The fantasy
-Of the {{x|Christian}} century ended. What was left: the sun
+Expelled in sixteen thirty-nine. And then
+{{p|Macau}} sent envoys for the trade again;
+they killed sixty-one, sent a few home. Done
+the {{x|Christian}} century; and left the sun
 
 Through four small windows. The {{c|3869|Dutch}} on {{p|Dejima}}, a fan of land
 In {{p|Nagasaki}}'s harbour, watched, and the {{c|3841|Chinese}} merchants in their quarter;
@@ -50,8 +50,8 @@ Its clerks, its census-takers, its proof of loyalty.
 They grew rich on the funerals every family had to celebrate
 At its temple, by law. Buddhism in {{p|Japan}} became, in its royalty
 
-And its poverty, the religion of the dead: the funeral faith,
-The graves, the memorial tablets, the anniversaries. The cost
+And want, the keeper of the dead: the faith
+Of graves and tablets and the days. The cost
 Came two hundred years later, when the new state, the wraith
 Of the old resentment rising, smashed the temples, and the lost
 

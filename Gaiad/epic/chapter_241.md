@@ -19,9 +19,9 @@ Of the desert cliff, and found the crown
 
 Of {{p|Spain}} advancing on their hunting grounds.
 
-These were not the {{c|3533|Tlaxcalans}} who bent
-Before the cross—these were the hounds
-Of the unconquered steppe, the unbent
+Not these the allied {{c|3533|Tlaxcalans}} who lent
+their arms to {{p|Spain}} with the bishop's consent;
+these were the hounds of the steppe, never bent:
 
 {{c|3534|Caxcanes}}, {{c|3535|Zacatecos}}, {{c|3536|Guachichiles}},
 And the {{c|3537|Guamares}}—peoples of the bow,
@@ -142,8 +142,8 @@ And the rancho and the measured flow
 Of the {{c|3517|Tlaxcalan}} colonist's commission—
 
 Loyal {{c|3533|Tlaxcalans}} planted among
-The {{c|3532|Chichimeca}} as examples of the tame
-And Christianized existence, the sung
+The {{c|3532|Chichimeca}}, keepers of the same
+Altar in settled villages, the sung
 And gentle persuasion's aim.
 
 It worked—in part. The frontier quieted.
@@ -156,7 +156,7 @@ When peace meant keeping the essential:
 The land, the hunt, the partial release
 From the mission's existential
 
-Demand to become someone else.
+Demand to keep its altar and its bell.
 
 Honor the {{c|3534|Caxcanes}} on their peñol heights,
 The {{c|3536|Guachichiles}} of the desert's stealth,
