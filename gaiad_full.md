@@ -11614,1471 +11614,1151 @@ Through partnership's display, made manifest.
 
 # Chapter 50: The Silurian Recovery
 
-{{c|1173|Silur}}, son of {{c|756|Chelicer}},
-Saw the world in ruin's blur.
-And in this devastation
-Saw opportunity's creation.
-
-{{c|1173|Silur}} shouted out with might
-To all sons in his sight
-Of {{c|325|Animus}}, declaring
-His vision, never caring
-
-For those who'd gone before:
-"I did not steal this lore
-Of kingship from the crown.
-I found it lying down
-
-In gutter, and I picked
-It up, my fate predicted
-By sword that I had found.
-But 'twas the people's sound
-
-Of voices that placed it
-On my head, perfect fit
-For one who'd take the throne
-And make it all his own."
-
-And so began the era
-Of {{c|1174|Silurian}} chimera,
-Rising from the ashes
-Of {{c|954|Ordovician}}'s crashes.
-
-{{c|1173|Silur}} bore two sons:
-{{c|1215|Eurypter}} when begun
-The day, and {{c|1216|Chasmas}} strong
-Who lived his whole life long.
-
-{{c|1216|Chasmas}} begat two more:
-{{c|1217|Belangkas}} to explore
-And {{c|1218|Xiphos}}, who would be
-Living by the sea.
-
-{{c|1218|Xiphos}} became the sire
-Of crabs whose desire
-Was horseshoe-shaped design
-Throughout the end of time.
-
-{{c|1217|Belangkas}} climbed up high
-Onto the land to try
-What none had done before:
-To claim from shore to shore
-
-The land from {{c|1163|Hirnan}}'s hand
-And make his own command
-Of territories wide
-Where he could reside.
-
-Like {{c|1219|Myriapus}} of old
-He found his story told
-In suffocation's pain
-Upon the terrestrial plain.
-
-But pierced wounds in his side
-And was thus satisfied
-With air that he could breathe
-To give his lungs relief.
-
-{{c|1217|Belangkas}} begat two:
-{{c|1220|Soliber}}, tried and true,
-And {{c|1221|Opiliona}} fair
-Who spread life everywhere.
-
-{{c|1221|Opiliona}} spread the moss
-Across the world, no loss
-Too great for her to bear
-In her maternal care.
-
-She grazed upon the green
-And on what could be seen
-Of daughters of {{c|1222|Millipa}}
-Throughout the earthly steppe-a.
-
-{{c|1221|Opiliona}} was a mother
-Great, and like no other
-{{c|1223|Farmer}} with her legs
-So long, and wisdom begs
-
-Us to remember her
-As one who would confer
-Great blessings on the land
-With her maternal hand.
-
-Beautiful legs so long
-Made her the subject of song:
-"{{c|30|Granny}} {{c|1224|Long}} Legs" they'd call
-Her, beloved by all.
-
-"{{c|30|Granny}} {{c|1225|Harvest}}" too,
-For all the work she'd do
-To spread the green of life
-Through joy and through strife.
-
-And so in honor of
-Her life and of her love,
-We call her children still
-"{{c|1226|Daddy}} {{c|1224|Long}} Legs" (though will
-
-Seem strange to some that "{{c|1226|Daddy}}"
-{{c|1227|Names}} descendants of a lady).
-"{{c|1228|Harvestmen}}" as well
-Their story always tell.
-
-{{c|1220|Soliber}} begat two:
-{{c|1229|Pneumaran}}, tried and true,
-And {{c|1230|Kitzi}}, small but strong
-Who lived his whole life long.
-
-{{c|1229|Pneumaran}} begat then
-Two sons beyond all ken:
-{{c|1231|Solaran}} of the sun
-And {{c|1232|Acares}}, begun
-
-As dwarf among his kin,
-But he would always win
-A place in history
-As ancestor, you see,
-
-Of mites, the little ones
-Who when their work is done
-Live everywhere on land
-Built by their tiny hand.
-
-{{c|1232|Acares}} bore two sons:
-{{c|1233|Sarco}} when day begun
-And {{c|1234|Trombo}}, who would be
-Living peacefully
-
-Or not, as fate would tell
-His story oh so well
-Of how some choose the light
-While others choose the night.
-
-The sons of {{c|1233|Sarco}} clean
-The world, and can be seen
-As dust mites everywhere
-Who take the greatest care
-
-To keep the world swept clean
-Of dust that might have been
-A problem for us all
-Who answer life's sweet call.
-
-Among the sons of {{c|1234|Trombo}}
-Some live like peaceful combo
-Of gentleness and grace
-In their appointed place.
-
-But others are the plague
-That makes all good souls vague
-With worry and with fear—
-{{c|1235|Parasites}} we hear
-
-{{c|1236|Stifle}} life with their ways
-Throughout our living days,
-{{c|646|Horrific}} in their greed
-That plants destruction's seed.
-
-Among the peaceful ones
-Are {{c|1234|Trombo}}'s gentle sons:
-The red velvet mites
-Who bring us pure delights.
-
-From red velvet mites
-We learn love's sacred rites:
-A story of the heart
-That plays the loving part
-
-In nature's grand design
-Where all true loves align
-With beauty and with grace
-In every living place.
-
-{{c|1231|Solaran}} begat two:
-{{c|1237|Solifugon}} so true
-And {{c|1238|Ricinulon}} the small
-Who answered duty's call.
-
-{{c|1237|Solifugon}} became
-The father of great fame
-Of {{c|189|Wind}} {{c|741|Spiders}} who race
-Across the earth's face.
-
-{{c|1238|Ricinulon}} became
-The father of the name
-Of {{c|1239|Tick}} {{c|741|Spiders}} so small
-Who answer hunting's call.
-
-{{c|1230|Kitzi}} begat two sons:
-{{c|1240|Byblos}} when day begun
-And {{c|1241|Paras}}, who would be
-Small in his degree.
-
-{{c|1240|Byblos}} the Book {{c|1242|Knight}}
-Continues day and night
-To this very day
-To guard in his own way
-
-The books that hold the lore
-Of all who came before.
-His sons, the Book {{c|1243|Scorpions}},
-Are knowledge's companions.
-
-They defend with their might
-The books both day and night
-From those who would destroy
-What brings the world such joy.
-
-{{c|1241|Paras}} begat two more:
-{{c|1244|Mesos}} to explore
-And {{c|1245|Holoxos}} the strong
-Who lived his whole life long.
-
-{{c|1244|Mesos}} was a hunter
-Fierce, and he would shunt-er
-Across the globe to find
-{{c|1246|Prey}} to feed his mind
-
-And body's gluttony—
-A small but mighty fee
-He'd take from life around
-Wherever he was found.
-
-But {{c|1245|Holoxos}} walked where
-{{c|1247|Blood}} flowed everywhere
-From his fallen kin:
-Sons of {{c|746|Arachnus}} thin
-
-And sons of {{c|1219|Myriapus}}
-Who'd been victorious
-In other times and places
-Before death's embraces.
-
-He drank their blood and bore
-Two sons to explore
-The paths of blood and death:
-{{c|1248|Thyrus}} drew his breath
-
-From peaceful tradition,
-{{c|1249|Drinking}} by submission
-Only blood of those
-Who'd found their last repose.
-
-But {{c|1250|Ricinus}} turned dark
-And left his evil mark
-On all the world around—
-Where he could be found
-
-He fed on living blood
-Like some unholy flood
-Of evil and of greed
-That plants destruction's seed.
-
-{{c|1250|Ricinus}} drinks the life
-From those in joy and strife,
-{{c|1251|Injecting}} with his bite
-{{c|1252|Venom}} through the night
-
-That paralyzes those
-He's chosen as his foes.
-{{c|1253|Paralytic}}, sweaty,
-His venom's never petty
-
-But always brings the pain
-Like some unholy rain
-That falls on those who can't
-{{c|1254|Escape}} his evil grant.
-
-{{c|1250|Ricinus}} swells up
-Like some unholy cup
-{{c|1255|Inflated}} with the blood
-Of innocents, a flood
-
-Of stolen life that flows
-Within him as he grows
-{{c|1256|Fat}} with others' pain
-Like some unholy stain
-
-Upon the world of life
-That cuts like sharpest knife
-Through all that's good and true
-In me and you.
-
-By {{c|1250|Ricinus}} the blood
-Of scorned women's flood
-May taint our mortal veins
-With all their bitter pains.
-
-When {{c|290|Lilith}}'s blood flows in
-Our veins, we can't win
-Against the poison's might:
-{{c|1257|Typhus}} brings its blight
-
-And {{c|1258|Spotted}} {{c|1259|Fever}} too
-To me and you
-Who cannot fight alone
-Against what we have sown
-
-By letting evil in
-Our world where it can win
-Against the good and true
-That lives in me and you.
-
-The {{c|1260|Midichlorians}} live
-In what {{c|1250|Ricinus}}' give:
-Within their mitochondria
-Lives {{c|290|Lilith}}'s bacteria—
-
-The greatest revenge told
-By stories new and old
-Of those who choose the dark
-And leave their evil mark.
-
-And after daughters come
-Of {{c|290|Lilith}}, and the sum
-Of all their evil ways:
-{{c|360|Malarius}}' dark days
-
-And {{c|1261|Lyme}} and all the rest
-Of sisters who're possessed
-By pestilence and death
-That steals away our breath.
-
-{{c|1250|Ricinus}}, father of
-{{c|1262|Ticks}} who show no love
-But only greed and hate,
-{{c|1263|Engorged}} with others' fate,
-
-Shows us what becomes
-Of those whose evil sums
-Into a force so strong
-That right can't win from wrong.
-
-But {{c|1215|Eurypter}} would be
-Father of dynasty
-Far greater than the line
-Of {{c|1216|Chasmas}}' design.
-
-A nation he would make
-That would its rightful take
-Of glory and of might
-To fill the world with sight
-
-Of what the good can do
-When they are tried and true
-To principles of right
-That shine like morning light
-
-Through all the world's dark places
-Where evil shows its faces
-But cannot win the day
-When good shows its way.
-
-From {{c|1173|Silur}}'s opportunity
-Seen in calamity
-To {{c|1221|Opiliona}}'s care
-For life everywhere,
-
-From Book {{c|1264|Knights}} who defend
-The knowledge we depend
-Upon to light our way
-Through each and every day,
-
-To those who choose the dark
-And leave their evil mark
-On all the world around
-Where they can be found,
-
-The {{c|1174|Silurian}} shows
-How each one's choice grows
-Into the world we see
-For you and me.
-
-Some choose to heal and mend
-What others would rend
-Apart with greed and hate
-That seals our mortal fate.
-
-Others choose to take
-For their own selfish sake
-What others need to live
-And never learn to give.
-
-The lesson clear as day
-Shows us the way
-To choose what we will be
-For all eternity:
-
-Those who heal and bless
-Or those who make the mess
-That others have to clean
-In places yet unseen.
-
-From {{c|1173|Silur}}'s royal crown
-To blood-suckers who drown
-The world in pain and death,
-Each choice draws its breath
-
-From what we hold most dear:
-Love that casts out fear
-Or fear that kills all love
-And blocks the light above.
-
-The choice is ours to make
-In every step we take
-Along life's winding road
-Where we must bear the load
-
-Of what our choices bring
-To every living thing
-That shares this world with us
-In ways both glorious
-
-And terrible to see
-For you and me
-Who must decide each day
-Which path we'll take away.
-
-The {{c|1174|Silurian}} age began
-With one who had a plan
-To rise from ruin's call
-And build hope for all.
-
-But also shows how some
-Will always choose to come
-Down on the side of death
-With their every breath.
-
-The choice is always ours
-To use our mortal powers
-For good or ill each day
-Along our living way.
-
-From opportunity's call
-To rise above the fall
-Of golden ages past
-To build what will last,
-
-The {{c|1174|Silurian}} reminds
-Us that each one finds
-The world they choose to make
-For everyone's sake.
-
-Choose well, for what you choose
-Will be what you will lose
-Or gain for all the days
-Of your immortal ways.
-
-From {{c|1173|Silur}}'s royal start
-To ticks' bloodsucking art,
-The lesson's clear to see:
-We are what we choose to be.
+Then {{c|1173|Silur}}, son of {{c|756|Chelicer}}, surveyed
+The world, in ruin's blur, and all decayed;
+And he, amid this devastation, clear,
+Saw opportunity's creation near.
+
+Then {{c|1173|Silur}} shouted out with all his might
+To all the sons of {{c|325|Animus}} in sight,
+And he declared his vision, without care
+For any who had gone before him there:
+
+"I did not steal the lore of kingship's crown;
+I found it in the gutter, lying down,
+And picked it up, my destiny foreseen
+By that sword I had found, its edge so keen.
+
+But it was all the people's voices' sound
+That placed it there, upon my head, and crowned
+The one who fit, the one to take the throne
+And make it all his own, and his alone."
+
+And so began the era, wild and strange,
+Of the {{c|1174|Silurian}} chimera's range,
+Which rose from ashes, rising over all
+Of {{c|954|Ordovician}}'s crashes and its fall.
+
+{{c|1173|Silur}} would bear two sons: when day begun
+Came {{c|1215|Eurypter}}, the first and elder one,
+And {{c|1216|Chasmas}} came, the strong one, who would last
+And live his whole life long until it passed.
+
+And {{c|1216|Chasmas}} would beget two sons: the one,
+{{c|1217|Belangkas}}, to explore beneath the sun,
+And {{c|1218|Xiphos}}, he who was destined to be
+A dweller, living by the open sea.
+
+{{c|1218|Xiphos}} became the father of a kind
+Of crabs who kept this single wish in mind:
+To keep their horseshoe-shaped and old design
+Through to the end of time, along their line.
+
+{{c|1217|Belangkas}} climbed onto the land up high
+To try what no one else had dared to try:
+To claim it all, from shore to farthest shore,
+Where none had ever claimed the land before.
+
+He took it out of {{c|1163|Hirnan}}'s hand, to stand
+In his own rule and make his own command
+Of territories, spreading far and wide,
+Where he could make his dwelling and reside.
+
+Like {{c|1219|Myriapus}}, in the days of old,
+He found that his own story would be told
+In suffocation's agony and pain
+Upon the open terrestrial plain.
+
+But he then pierced wounds into his own side,
+And thus he found that he was satisfied
+With air that he could breathe, and breathing, give
+Relief unto his lungs, so he could live.
+
+{{c|1217|Belangkas}} then begat two children, who
+Were {{c|1220|Soliber}}, a son both tried and true,
+And {{c|1221|Opiliona}}, a daughter fair,
+Who carried life abroad, and everywhere.
+
+{{c|1221|Opiliona}} spread the moss, and so
+Across the world she made the green moss grow;
+No loss would be too great for her to bear,
+So deep was all her mother's love and care.
+
+She grazed upon the green, and grazed as well
+On all that could be seen, where they would dwell:
+The daughters of {{c|1222|Millipa}}, spread around
+Throughout the earthly steppe, wherever found.
+
+{{c|1221|Opiliona}} was a mother great,
+A {{c|1223|Farmer}} like no other, and her gait
+Went on her legs so long; and wisdom pleads
+That we remember her and all her deeds
+
+As one who would confer upon the land
+Great blessings with her own maternal hand.
+
+Her legs were beautiful, and very long,
+And made her into subject of a song:
+"{{c|30|Granny}} {{c|1224|Long}} Legs" is what they came to call
+Her, and she was beloved by one and all.
+
+And "{{c|30|Granny}} {{c|1225|Harvest}}," they would call her too,
+For all the work that she would come to do
+To spread the green that was the hue of life
+Through every joy and every kind of strife.
+
+And so, in honor of her life and love,
+Her children bear a name we still speak of:
+"{{c|1226|Daddy}} {{c|1224|Long}} Legs" is what we call them still,
+Though "{{c|1226|Daddy}}" seems to suit a lady ill
+
+When it {{c|1227|Names}} her descendants. All the same,
+They're "{{c|1228|Harvestmen}}" as well: their story's name.
+
+{{c|1220|Soliber}} begat two: the first one, who
+Was {{c|1229|Pneumaran}}, a son both tried and true,
+And {{c|1230|Kitzi}}, who was small, but who was strong,
+And who would live and thrive his whole life long.
+
+And {{c|1229|Pneumaran}} begat two sons, and then
+Those two were sons beyond all mortal ken:
+{{c|1231|Solaran}}, who was of the shining sun,
+And {{c|1232|Acares}}, who, when his life begun,
+
+Was born a dwarf among his kin, and yet
+He was to win a place we don't forget
+In history as the ancestor, we find,
+Of mites, the little ones of all their kind,
+
+Who, when their work is done, live on the land,
+All over it, built by their tiny hand.
+
+{{c|1232|Acares}} bore two sons: when day was new
+Came {{c|1233|Sarco}} first, and then came {{c|1234|Trombo}}, who
+
+Would live in peace, or not, as fate would tell,
+And it would tell his story very well:
+Of how there are some souls who choose the light,
+While there are others who will choose the night.
+
+The sons of {{c|1233|Sarco}} clean the world, and so
+They're seen as dust mites everywhere they go,
+Who take the greatest care to sweep away
+The dust that might have been, if left to stay,
+
+A problem for us all, both great and small,
+Who answer, every one, to life's sweet call.
+
+Among the sons of {{c|1234|Trombo}}, some will dwell
+In peace, a blend that suits them very well
+Of gentleness and grace, and they will stay
+Within their own appointed place and way.
+
+But others are the plague, the ones who've made
+All good souls vague with worry and afraid;
+And {{c|1235|Parasites}}, we hear them called; their ways
+Will {{c|1236|Stifle}} life throughout our living days,
+
+{{c|646|Horrific}} are they in their greed, and so
+They plant destruction's seed, and make it grow.
+
+Among the peaceful ones, there are the sons
+Of {{c|1234|Trombo}}, gentle, as the story runs:
+Red velvet mites, who bring us pure delights,
+From whom we learn of love's own sacred rites:
+
+A story of the heart, and of the part
+That love plays in the world, with all its art,
+Where all true loves align, in every place
+In nature's plan, with beauty and with grace.
+
+And {{c|1231|Solaran}} begat two sons: the true
+{{c|1237|Solifugon}}, and then a smaller, who
+Was named {{c|1238|Ricinulon}}, and heard the call
+Of duty, which he answered, though so small.
+
+{{c|1237|Solifugon}}, so great in fame, became
+The father of the {{c|189|Wind}} {{c|741|Spiders}} by name,
+Who race across the earth, across its face,
+And travel over it at racing pace.
+
+{{c|1238|Ricinulon}} was father of the name
+Of small {{c|1239|Tick}} {{c|741|Spiders}}, heeding hunting's claim.
+
+{{c|1230|Kitzi}} begat two sons: when day was born
+Came {{c|1240|Byblos}} first, the elder, in the morn,
+And {{c|1241|Paras}} after him, who was to be
+Small in his station and in his degree.
+
+{{c|1240|Byblos}}, the Book {{c|1242|Knight}}, both by night and day
+Continues still, until this very day,
+To guard, in his own way, the books, the store
+That holds the lore of all who came before.
+
+His sons, the Book {{c|1243|Scorpions}}, are as well
+Companions of all knowledge, where they dwell;
+With all their might they shield, both night and day,
+The books from those who'd tear their joy away.
+
+{{c|1241|Paras}} begat two more, and one would be
+{{c|1244|Mesos}}, born to explore, to roam, and see;
+The other, {{c|1245|Holoxos}}, the strong, who passed
+His whole life long in strength until the last.
+
+{{c|1244|Mesos}}, he was a hunter fierce indeed,
+Who'd dart across the globe to find, and feed
+His mind and body's gluttony, his {{c|1246|Prey}}:
+A small but mighty fee he'd take away
+
+From all the life around him on the ground,
+In every place where he was to be found.
+
+But {{c|1245|Holoxos}} walked where the {{c|1247|Blood}} would flow
+Out everywhere from fallen kin laid low:
+The sons of {{c|746|Arachnus}}, who were so thin,
+And sons of {{c|1219|Myriapus}}, who had been
+
+Victorious in other time and place,
+Before death took them in its cold embrace.
+He drank their blood, and bore two sons, who'd tread
+And search the paths of blood and of the dead:
+
+{{c|1248|Thyrus}} would draw his breath, through all his days,
+From old, peaceful tradition and its ways,
+{{c|1249|Drinking}}, submissive, blood alone of those
+Who'd found already their own last repose.
+
+But {{c|1250|Ricinus}} was one who turned to dark,
+And on the world around he left his mark,
+His evil mark; and everywhere he'd go
+He fed on living blood, to make it flow
+
+Like some unholy flood of evil's greed,
+Which in the world will plant destruction's seed.
+
+{{c|1250|Ricinus}} drinks the life of those who know
+Both joy and strife, {{c|1251|Injecting}}, as they go,
+His {{c|1252|Venom}} with his bite, all through the night,
+Which paralyzes those he's marked to fight.
+
+The {{c|1253|Paralytic}}, sweaty poison's sting
+Is never petty, but will always bring
+Like rain unholy, pain on those who can't
+{{c|1254|Escape}} the evil of his venom's grant.
+
+{{c|1250|Ricinus}} swells like some unholy cup,
+{{c|1255|Inflated}} with the blood he's taken up,
+The blood of innocents; and as he grows,
+A stolen flood of life within him flows.
+
+He's {{c|1256|Fat}} with others' pain, and like a stain,
+Unholy, on the world of life, the bane
+That cuts like sharpest knife through all that's true
+And good, and all that lives in me and you.
+
+Through {{c|1250|Ricinus}} the blood of women scorned,
+A flood of it, of which we have been warned,
+May taint us, bringing into mortal veins
+The weight of all their many bitter pains.
+
+When {{c|290|Lilith}}'s blood flows in us, we can't win
+Against the poison's might, which lies within:
+{{c|1257|Typhus}} will bring its blight, and with it, too,
+The {{c|1258|Spotted}} {{c|1259|Fever}} comes to me and you,
+
+To all of us who cannot fight alone
+Against the very thing that we have sown
+By letting evil enter in our world,
+Where it can win, with all its flags unfurled,
+
+Against the good and true in you and me,
+That lives in us, wherever we may be.
+
+In what {{c|1250|Ricinus}} gives there live as well
+The {{c|1260|Midichlorians}}, and there they dwell;
+In mitochondria lives {{c|290|Lilith}}'s own
+Bacteria, the greatest vengeance known
+
+In stories new and old, of those who mark
+The world with evil, having chosen dark.
+
+And after them, the daughters, too, would come
+Of {{c|290|Lilith}}, with their evil ways, the sum:
+{{c|360|Malarius}}' dark days, and {{c|1261|Lyme}}, and all
+The other sisters, who are held in thrall,
+
+Possessed by pestilence and death, and they
+Will steal from us our very breath away.
+
+{{c|1250|Ricinus}}, father of the {{c|1262|Ticks}}, who show
+No love, but only greed and hate, and so,
+{{c|1263|Engorged}} with others' fate, shows what becomes
+Of those whose evil gathers up and sums
+
+Into a force of wrong so strong that right
+Can never win against it in the fight.
+
+But {{c|1215|Eurypter}} would father and would found
+A dynasty more great and more renowned
+Than was the line of {{c|1216|Chasmas}}' own design,
+And make a nation, he and all his line,
+
+Which would take up its rightful share of might
+And glory, and would fill the world with sight
+Of what the good can do when they are tried
+And true to principles of right, their guide,
+
+Which shine like morning light through every place
+That's dark within the world, where evil's face
+Is shown, but evil cannot win the day
+When good comes forth and shows its rightful way.
+
+From {{c|1173|Silur}}'s opportunity, his prize,
+Seen in calamity before his eyes,
+And to {{c|1221|Opiliona}}'s loving care
+For all the life that's growing everywhere,
+
+From the Book {{c|1264|Knights}}, who stand guard and defend
+The knowledge upon which we all depend
+To light our way through each and every day,
+To those who choose the dark and go astray,
+
+And leave their evil mark on all around,
+On all the world, wherever they are found,
+The {{c|1174|Silurian}} shows how each choice grows
+Into the world we see, which it bestows
+
+On you and me. Some choose to heal and mend
+What others rend apart, which, in the end,
+With greed and hate, will seal our mortal fate.
+And others, in their selfishness, can't wait
+
+To take, for their own sake, what others need
+To live, and never learn to give, for greed.
+
+The lesson, clear as day, shows us the way
+To choose what we will be, and not to stray,
+For all eternity: the ones who bless
+And heal, or those who leave behind a mess
+
+That others will be left to scrub and clear
+In places yet unseen, both far and near.
+
+From {{c|1173|Silur}}'s royal crown and its renown
+To the blood-suckers who would come to drown
+The world in pain and agony and death,
+Each choice we make will always draw its breath
+
+From what we hold most dear: from love, sincere,
+That casts out fear, or else from that same fear,
+Which kills all love, the love we're speaking of,
+And blocks the light that shines on us above.
+
+The choice is ours, and ours alone, to make
+In every step along the way we take
+Upon life's winding road, where we must bear
+The heavy load of what our choices there
+
+Will bring to all the living things that share
+This world with us, in ways both grand and fair,
+And terrible, as all of us can see,
+For you and me; and you and I must be
+
+The ones who must decide each single day
+Which path we'll take, and travel on our way.
+
+The {{c|1174|Silurian}} age began with one
+Who had a plan, and, when the wreck was done,
+Would rise from ruin's call, and build, for all,
+A hope, which rose up from the very fall.
+
+It also shows that some will choose the side
+Of death, with every breath, where they'll abide.
+
+The choice is ours: to use our mortal might
+For good or ill each day, for wrong or right,
+Along the living way on which we tread.
+From opportunity's own call, which led
+
+To rising past the golden ages' fall,
+The ages past, to build what lasts for all,
+The {{c|1174|Silurian}} shows the world we make
+Is found by each, for everyone's own sake.
+
+Choose well, for what you choose, you'll lose or gain
+For all the days your deathless ways remain.
+
+From where {{c|1173|Silur}} had made his royal start
+To the bloodsucking of the ticks, their art,
+The lesson's clear for all of us to see:
+We are, each one, what we will choose to be.
 
 
 # Chapter 51: The Sea Scorpions
 
-The sons of {{c|1215|Eurypter}} would
-{{c|1265|Usurp}} as no one could
-The sons of {{c|1266|Cephalus}}
-And rule victorious.
-
-{{c|1215|Eurypter}} married fair
-{{c|1267|Pulmona}} everywhere
-{{c|1268|Beloved}}, and they'd disagree
-On what their name would be.
-
-Each had their own design
-For their ancestral line:
-"{{c|1269|Eurypterids}}" he'd say,
-"{{c|1270|Arachnopulmonates}}" her way.
-
-{{c|1215|Eurypter}} and {{c|1267|Pulmona}}
-Bore children like none-a
-Other: {{c|1271|Eurypteron}}
-And {{c|1272|Styloner}}, begun
-
-In rivalry so deep
-That none could ever keep
-{{c|1273|Peace}} between the two
-Who different paths knew.
-
-{{c|1271|Eurypteron}} and his brother
-{{c|1272|Styloner}}, like no other
-Pair of siblings fought
-For all that could be bought
-
-With power and with might
-Throughout the day and night.
-When their mother died
-They could not decide
-
-Who would inherit all
-The world at honor's call.
-{{c|1271|Eurypteron}} claimed skies
-While {{c|1272|Styloner}}'s eyes
-
-Were set upon the land
-Built by his own hand.
-And so {{c|1271|Eurypteron}} flew
-Across domains he knew
-
-Were his by right of birth
-While {{c|1272|Styloner}} walked earth
-And claimed each step he took
-According to the book
-
-Of inheritance and law
-That neither brother saw
-The same way as the other
-Despite they shared one mother.
-
-The flight of {{c|1271|Eurypteron}}
-Across the sky begun
-A dynasty of those
-Who ruled where wind blows
-
-High above the earth
-From moment of their birth
-To death's appointed day
-They'd rule in their own way.
-
-{{c|1271|Eurypteron}} begat
-Two sons: first he begat
-{{c|1274|Diploper}} the strong
-And {{c|1275|Eurypterus}}, long
-
-In fertility beyond
-What any could respond
-To with equal measure—
-Their numbers were his treasure.
-
-{{c|1275|Eurypterus}} was most
-Fertile of the host
-Of {{c|1173|Silur}}'s noble sons.
-In each generation begun
-
-His house would grow
-Ten thousand-fold, and so
-His numbers multiplied
-Beyond what could be tried
-
-By any other line
-In all of space and time.
-{{c|1276|Myriad}}-fold they grew
-With offspring tried and true.
-
-{{c|1274|Diploper}} begat two:
-{{c|1277|Waeringos}}, tried and true,
-And {{c|1278|Carcinos}} the strong
-Who lived his whole life long.
-
-{{c|1277|Waeringos}} begat then
-Two sons beyond all ken:
-{{c|1279|Humiller}}, strong and brave,
-And {{c|1280|Adelops}}, who'd save
-
-His line through numbers vast
-That would forever last.
-{{c|1280|Adelops}} was small
-But answered duty's call
-
-With many children who
-Were resilient and true,
-Like bugs beneath the sea
-In their tenacity.
-
-{{c|1279|Humiller}} married fair
-{{c|1281|Pterra}}, beyond compare
-In beauty and in grace,
-And in their dwelling place
-
-Together they bore one
-Son when day begun:
-{{c|1282|Slender}}, fast, and sly,
-Who'd rule beneath the sky
-
-And in the depths below.
-They named him {{c|1283|Slimon}}, though
-His destiny was great
-Beyond what they could state.
-
-{{c|1283|Slimon}} bore a son
-Whose work, when it was done,
-Would show the massive claws
-That grew according to laws
-
-Of nature from his mouth.
-From north down to the south
-His power would be known
-When he had grown.
-
-He named this son at first
-{{c|1284|Clawbert}}, but then burst
-A strike of lightning bright
-That filled the world with sight.
-
-And {{c|1283|Slimon}} took the sign
-From powers divine
-And changed his son's name
-To {{c|1285|Pterygo}}'s fame.
-
-The sons of {{c|1285|Pterygo}}
-Were rulers high and low
-Of all {{c|1269|Eurypterids}}.
-Fast, strong, their power bids
-
-The world to bow before
-Their might from shore to shore.
-{{c|1286|Regal}} in their way,
-They ruled both night and day.
-
-His youngest son was one
-Called {{c|478|Scorpio}}, begun
-As explorer of the new,
-With vision clear and true.
-
-{{c|478|Scorpio}} saw no land
-Left for his command,
-For all his brothers older
-Had claimed, and none bolder
-
-Could challenge their right
-To rule with all their might
-The territories vast
-That they held firmly fast.
-
-And so {{c|478|Scorpio}} looked
-Up from his watery nook
-Out of the sea to land
-Built by no one's hand
-
-But waiting to be claimed
-By one who could be named
-The first to make the leap
-From waters dark and deep.
-
-{{c|478|Scorpio}} ventured up
-Like warrior with cup
-Of courage in his heart
-To play the pioneer's part.
-
-His book gills became
-Book lungs, and his name
-Would live forevermore
-From mountain peak to shore.
-
-He claimed all lands of might
-{{c|1287|Euramerica}} in sight
-For himself and his line
-By right of the divine
-
-Who favors those who dare
-To venture everywhere
-That none have gone before
-To open up the door
-
-Of possibility
-For all humanity
-And every living thing
-That answers life's ring.
-
-His sons are known today
-As scorpions in their way,
-Still carrying the torch
-Of those who scorch
-
-New paths through virgin land
-Built by their own hand
-From nothing into all
-That answers courage's call.
-
-{{c|1272|Styloner}} married then
-{{c|1288|Rhena}}, and the pen
-Of fate would write their names
-In evolution's games.
-
-Together they bore two:
-{{c|1289|Makoko}}, tried and true,
-And {{c|1290|Stylonurus}} strong
-Who lived his whole life long.
-
-{{c|1289|Makoko}} begat then
-Two sons beyond all ken:
-{{c|1291|Mycter}} and {{c|1292|Kokomo}},
-Each destined high to go.
-
-{{c|1291|Mycter}} begat two more:
-{{c|1293|Flumon}} to explore
-And {{c|1294|Drepan}}, strong and true,
-Who different pathways knew.
-
-{{c|1293|Flumon}} found no luck
-In seas where he was stuck
-With brothers and with cousins
-Who by the dozens
-
-Had claimed the seas for their
-Own use, and would not share
-With him a single place
-To call his dwelling space.
-
-So he searched rivers wide
-With current as his guide
-To find what he could claim
-For his ancestral name.
-
-{{c|1293|Flumon}} begat two sons:
-{{c|1295|Hibbert}} when day begun
-And {{c|1296|Mycterops}} the strong
-Who lived his whole life long.
-
-{{c|1295|Hibbert}} was a great
-{{c|1297|River}} dweller whose fate
-Was to be tough and large,
-And he would take charge
-
-Of all the river's course
-With wisdom and with force.
-Larger, tougher than
-Any other man
-
-Of his time, he survived
-{{c|1298|Tragedies}} and thrived
-Through countless trials
-Across thousands of miles.
-
-His people were a race
-Resilient in their place,
-Powerful and old,
-With stories yet untold
-
-Of how they overcame
-Whatever brought them shame
-Or tried to break their will
-Upon the river's sill.
-
-{{c|1296|Mycterops}} was strong
-And versatile life long.
-His two sons would continue
-The work he would begin to
-
-Do: living in the rivers
-Where water always shivers
-With life and searching for
-Food from shore to shore
-
-In most unlikely places
-Where none could see their faces
-But they would always find
-What fed both heart and mind.
-
-{{c|1299|Megarachne}} and his brother
-{{c|1300|Minirachne}}, like no other
-Pair ruled rivers wide
-With power and with pride.
-
-Sons of {{c|1296|Mycterops}},
-They were the tops
-Of river royalty
-In their dynasty.
-
-But {{c|1300|Minirachne}} was not
-{{c|1301|Satisfied}} with his lot
-In rivers flowing free—
-He wanted more to see.
-
-{{c|478|Scorpio}} and {{c|1300|Minirachne}}
-Were always destined, see,
-To fight for the same prize:
-The land beneath the skies.
-
-For both had more ambition
-Than any opposition
-Could contain or tame
-In their quest for fame.
-
-Both were men whose dreams
-Surpassed all that seems
-Possible to those
-Who seek repose
-
-In comfort and in ease
-But never feel the breeze
-Of challenge call their name
-To play a greater game.
-
-{{c|1300|Minirachne}} climbed up high
-Beneath the open sky
-With {{c|412|Tetra}}, his fair wife,
-To start a new life
-
-In the world of land
-Built by their own hand,
-Where none had gone before
-To open up the door.
-
-His book lungs became
-Book gills, and his name
-Would be remembered long
-In evolution's song.
-
-He came to conquer all
-The lands where {{c|478|Scorpio}}'s call
-Had claimed the territory
-For his own story.
-
-And so the stage was set
-For a conflict yet
-Unseen in all the world
-Where banners were unfurled
-
-Between two mighty lines
-With their different designs
-On what the world should be
-For all eternity.
-
-From {{c|1215|Eurypter}}'s marriage
-To {{c|1267|Pulmona}}'s carriage
-Of their children into being
-Came this foreseeing
-
-Of conflict yet to come
-When all would be done
-And winners would be crowned
-And losers would be found.
-
-The sons of {{c|1215|Eurypter}}
-Would rise like {{c|101|Jupiter}}
-Above all other lines
-With their grand designs
-
-To rule both sea and land
-Built by their own hand
-Through courage and through might
-That shines like morning light.
-
-From river to the sea,
-From sea to land so free,
-The eurypterids show
-How ambitions grow
-
-From small beginnings made
-By those who are not afraid
-To venture into spaces
-Where none have shown their faces.
-
-But also shows the cost
-When some lines are lost
-In conflict with their kin
-That no one ever wins.
-
-The rivalry between
-{{c|1302|Brothers}} who have seen
-Different paths to take
-For their own sake
-
-And their children's future
-Shows how nature's suture
-Often cannot hold
-When ambitions grow bold
-
-Beyond what can be shared
-By those who never cared
-To find a peaceful way
-To live from day to day.
-
-From {{c|478|Scorpio}}'s bold climb
-To {{c|1300|Minirachne}}'s time
-Of conquest and of war,
-The lesson from of lore
-
-Is clear for all to see:
-{{c|1303|Ambition}} must be free
-But also must be wise
-Beneath the starry skies.
-
-The world is big enough
-For all who are tough
-Enough to make their way
-Through each and every day
-
-Of challenge and of strife
-In this eternal life
-Where all must find their place
-In evolution's race.
-
-But when ambition turns
-To conflict, and it burns
-The bridges that connect
-Those who should protect
-
-Each other as they grow
-Through all they'll ever know
-Of joy and pain and love
-Beneath the stars above,
-
-Then all become the losers
-In the games that choosers
-Play when they forget
-That none can ever get
-
-All they want alone
-Without the seeds they've sown
-Of cooperation true
-With me and you.
-
-The eurypterids' rise
-Shows us to be wise
-In how we use our power
-In each and every hour
-
-Of our living days
-Along our mortal ways
-Where choice determines all
-Who answer life's great call.
-
-From {{c|1215|Eurypter}}'s flight
-To {{c|478|Scorpio}}'s sight
-Of lands beyond the sea
-Where he could be
-
-The first to make his mark
-Upon a world so dark
-With possibility
-For all humanity,
-
-The lesson clear as day
-Shows us the way
-To be both brave and wise
-Beneath the starry skies
-
-Where all our dreams can grow
-If we but choose to sow
-The seeds of peace and love
-Blessed from above
-
-In every choice we make
-For everyone's sake
-Who shares this world with us
-In ways both glorious
-
-And challenging to see
-For you and me
-Who must decide each day
-Which path we'll take away.
-
-The sons of {{c|1215|Eurypter}}
-Like shining {{c|101|Jupiter}}
-Rose high above the rest
-And passed each mortal test
-
-Through courage, wisdom, might,
-And inner sight
-That saw what could be done
-Beneath the shining sun
-
-If only they would dare
-To venture everywhere
-That none had gone before
-To open up the door
-
-Of possibility
-For all eternity
-Where dreams can all come true
-For me and you today.
+{{c|1215|Eurypter}}'s sons would then {{c|1265|Usurp}}, as none
+Could do, the sons of {{c|1266|Cephalus}}, and won,
+And ruled victorious in their domain
+Where those whom they had conquered used to reign.
+
+{{c|1215|Eurypter}} married fair {{c|1267|Pulmona}}, who
+Was {{c|1268|Beloved}} everywhere; but then the two
+Would disagree on what their name should be,
+And neither one would yield, nor would agree.
+
+Each had their own design, each their own claim
+For their ancestral line, and for its name:
+"{{c|1269|Eurypterids}}," was what he'd always say;
+"{{c|1270|Arachnopulmonates}}" was her own way.
+
+{{c|1215|Eurypter}} and {{c|1267|Pulmona}} bore a pair
+Of children like no others anywhere:
+{{c|1271|Eurypteron}}, and {{c|1272|Styloner}}, begun
+In rivalry so deep that there was none
+
+Who ever could keep {{c|1273|Peace}} between the two,
+Who each walked different paths, as each one knew.
+
+{{c|1271|Eurypteron}} and {{c|1272|Styloner}} would fight
+Like no two other siblings, with their might
+And power, for all things that could be bought,
+Throughout the day and night, as on they fought.
+
+Their mother died, and they could not decide
+Who would inherit all, by honor's guide.
+
+{{c|1271|Eurypteron}} laid claim upon the skies,
+While on the land were set {{c|1272|Styloner}}'s eyes,
+The land that he had built with his own hand.
+So {{c|1271|Eurypteron}} flew, as he had planned,
+
+Across domains he knew were his by birth,
+While {{c|1272|Styloner}} would walk upon the earth
+And claim each step he took, as by the book
+Of law and heritage; but each would look
+
+Upon it differently, although the two
+Were brothers who had shared one mother too.
+
+{{c|1271|Eurypteron}}, in flight across the sky,
+Began a dynasty of those on high
+Who ruled where winds blow high above the earth,
+And from the moment of their very birth
+
+To death's appointed day, they'd hold their sway,
+And they would rule the sky in their own way.
+
+{{c|1271|Eurypteron}} begat two sons: the strong
+{{c|1274|Diploper}}, and {{c|1275|Eurypterus}}, who, long
+In his fertility, went far beyond
+What any could in like measure respond.
+
+His numbers were his treasure; he was most
+Fertile, {{c|1275|Eurypterus}}, of all the host
+Of {{c|1173|Silur}}'s noble sons; and with each one
+Of generations, as each was begun,
+
+His house would grow ten thousand-fold, and so
+His numbers multiplied, and they would go
+Beyond what any other line could try,
+In all of space and time, beneath the sky;
+
+{{c|1276|Myriad}}-fold they grew, a multitude
+Of offspring tried and true, a mighty brood.
+
+{{c|1274|Diploper}} then begat two sons: the one
+{{c|1277|Waeringos}}, tried and true, when day begun,
+And {{c|1278|Carcinos}}, the strong one, who would last
+And live his whole life long until it passed.
+
+And {{c|1277|Waeringos}} begat two sons, and then
+Those two were sons beyond all common ken:
+{{c|1279|Humiller}}, who was strong and who was brave,
+And {{c|1280|Adelops}}, who later on would save
+
+His line, through numbers vast, so that it would
+Forever last, as numbers only could.
+Small {{c|1280|Adelops}} would answer duty's call
+With many children, who were, one and all,
+
+Resilient, and were true, and they would be
+As tenacious as bugs beneath the sea.
+
+{{c|1279|Humiller}} married {{c|1281|Pterra}}, one so fair
+In beauty and in grace, beyond compare,
+And in their dwelling place, together, one
+Son did they bear, when day was first begun:
+
+{{c|1282|Slender}}, and fast, and sly, he'd rule, and dwell
+Beneath the sky, and in the depths as well.
+They named him {{c|1283|Slimon}}, though his fate was great,
+Beyond what they could know, or they could state.
+
+{{c|1283|Slimon}} would bear a son, whose work would show,
+When it was done, the massive claws that grow
+By nature's laws out of his mouth; when grown,
+From north down to the south his might was known.
+
+He named this son {{c|1284|Clawbert}} at first; but there
+A strike of lightning burst, bright in the air,
+That filled the world with sight. And {{c|1283|Slimon}} saw
+The sign from the divine, and, filled with awe,
+
+He changed his son's name, and the son became
+{{c|1285|Pterygo}}, the name of power and fame.
+
+The sons of {{c|1285|Pterygo}} were rulers, high
+And low, of all {{c|1269|Eurypterids}}; and by
+Their speed and strength, their power bade the earth,
+From shore to shore, to bow before their worth.
+
+And they were {{c|1286|Regal}} in their way, and they
+Would rule both through the night and through the day.
+
+His youngest son was {{c|478|Scorpio}}, begun
+As an explorer of the new, the one
+Whose vision was so clear and true, and who
+Saw that no land was left, of all he knew,
+
+For his command; his older brothers still
+Had claimed it all, and none of bolder will
+Could challenge their right to rule with their might
+The territories vast that they held tight.
+
+And {{c|478|Scorpio}}, from his watery nook,
+Out of the sea up to the land would look,
+The land not built by any hand, but there,
+And waiting to be claimed by one who'd dare,
+
+Who could be named the first to make the leap
+Out from the waters, which were dark and deep.
+
+{{c|478|Scorpio}} ventured up, with in his heart
+A warrior's cup of courage, for the part
+Of pioneer, which he had come to play;
+And his book gills became book lungs that day.
+
+And so his name would live on evermore
+From mountain peak down to the farthest shore.
+
+He claimed the lands of might, and all in sight
+Of {{c|1287|Euramerica}}, as his by right,
+For him and for his own descendant line,
+Through favor granted by the one divine,
+
+Who favors those who dare, who venture where
+No one has gone before, and everywhere,
+To open possibility's wide door
+For all humanity, and, what is more,
+
+For every living thing that answers to
+The ring of life, as living things will do.
+
+His sons today, as scorpions, are known,
+And in their way still carry, as their own,
+The torch of those who through the virgin land
+Would scorch new paths, all built by their own hand,
+
+From nothing into all that, at the call
+Of courage, answers it, and gives its all.
+
+{{c|1272|Styloner}} married {{c|1288|Rhena}}, and their names
+Fate's pen would write in evolution's games.
+
+Together they bore two: the first, so true
+And tried, {{c|1289|Makoko}}, and the second, who
+Was {{c|1290|Stylonurus}}, who was always strong
+And who would live and thrive his whole life long.
+
+{{c|1289|Makoko}} would beget two sons, and then
+These two were sons beyond all mortal ken:
+{{c|1291|Mycter}} and {{c|1292|Kokomo}}, who were to go
+High in the world, as destiny would show.
+
+{{c|1291|Mycter}} begat two sons: the first to roam
+And to explore was {{c|1293|Flumon}}, far from home;
+And {{c|1294|Drepan}}, strong and true, would come to know
+The different pathways where his feet would go.
+
+{{c|1293|Flumon}} could find no luck at all, for he
+Was stuck among his brothers in the sea,
+And cousins, too, who by the dozens there
+Had claimed the seas for their own use; to share
+
+They would not, nor would give him any place
+To call his own, a dwelling and a space.
+
+So he went searching rivers far and wide,
+And took the current as his only guide,
+To find a place where he could stake his claim
+For his own line and his ancestral name.
+
+{{c|1293|Flumon}} begat two sons: when day begun
+Came {{c|1295|Hibbert}} first, before the younger one,
+And {{c|1296|Mycterops}}, the strong one, who would stay
+Alive and strong until his final day.
+
+{{c|1295|Hibbert}} was great, a {{c|1297|River}} dweller, who
+Was fated to be tough and large; he grew
+To take the charge of all the river's course
+With all his wisdom, and with all his force.
+
+Larger and tougher than all other men
+Of his own time, he would survive again
+The {{c|1298|Tragedies}}, and thrive through countless trials
+Across the long, the many thousand miles.
+
+His people were a race that held its ground,
+Resilient in their place, where they were found;
+Both powerful and old, with tales untold
+Of how they overcame, and would not fold,
+
+Whatever shamed them, or would break their will
+Along the edges of the river's sill.
+
+And {{c|1296|Mycterops}} was strong, and, all life long,
+Was versatile; his two sons would prolong
+The work that he began: to live and dwell
+Within the rivers, where the waters swell
+
+With life; to search for food from shore to shore
+In most unlikely places, and explore
+Where none could see their faces; they would find,
+Always, what fed them, both in heart and mind.
+
+{{c|1299|Megarachne}} and {{c|1300|Minirachne}}, two
+Brothers unlike all others, would pursue
+Their rule upon the rivers, far and wide,
+With power, and with all their royal pride.
+
+The sons of {{c|1296|Mycterops}}, they were the best
+Of river kings, their dynasty's own crest.
+
+But {{c|1300|Minirachne}} was not {{c|1301|Satisfied}}
+With his own lot, the rivers' freer tide;
+He wanted more; he wanted more to see.
+{{c|478|Scorpio}} and {{c|1300|Minirachne}} would be
+
+Destined, always, to fight for the same prize,
+The land, which lay beneath the open skies.
+
+For both had an ambition, in their quest
+For fame, no opposition could arrest.
+
+They both were men whose dreams surpassed what those
+Who seek their comfort, ease, and their repose,
+Would think was possible; for such as these
+Will never feel a challenge, like a breeze,
+
+That calls out to them, naming them by name,
+To come and play in a far greater game.
+
+{{c|1300|Minirachne}}, with {{c|412|Tetra}}, his fair wife,
+Climbed high beneath the open sky; new life
+They'd start out in the world upon the land,
+Which they would build together, hand in hand,
+
+Where none had gone before them, to explore
+And open up the long-unopened door.
+
+His book lungs turned to book gills, and his name
+In evolution's song would long have fame.
+
+He came to conquer all the lands that lay
+Where {{c|478|Scorpio}} had called, and claimed his sway,
+The territory he had made his own,
+To be his story, and to make it known.
+
+And so the stage was set for conflict, yet
+Unseen in all the world, a looming threat,
+With banners there unfurled, between two lines
+Of mighty kin, with different designs
+
+On what the world should be, and what should stand
+For all eternity, on sea and land.
+
+From {{c|1215|Eurypter}}'s own marriage to his bride,
+{{c|1267|Pulmona}}, and the children at her side
+Whom she had carried into being, grew
+This foreseeing of conflicts that were due:
+
+When all was done, the winners would be crowned,
+And all the losers would, in turn, be found.
+
+The sons of {{c|1215|Eurypter}} would rise, with grand
+Designs, above all other lines, and stand
+Like {{c|101|Jupiter}}, to rule the sea and land,
+And all of it was built by their own hand,
+
+Through courage, and through all their strength and might,
+Which shines out like the morning's early light.
+
+From river to the sea, and from the sea
+To land so free, eurypterids, we see,
+Show how ambitions grow from small starts made
+By those who are not, in the least, afraid,
+
+And dare to venture into spaces where
+No face of any kind was ever there.
+
+It also shows the cost when lines of kin
+Are lost in conflict, which no one can win.
+
+The rivalry of {{c|1302|Brothers}} who would take
+Two different paths, each for his own sake,
+And for their children's future, shows the way
+That nature's suture often can't hold sway
+
+When their ambitions grow too bold to share
+Among the ones who never seemed to care
+To find a peaceful way to live, and stay
+At peace with one another, day by day.
+
+From {{c|478|Scorpio}}'s bold climb up to the war
+And conquest {{c|1300|Minirachne}} waged, the lore
+Is clear: {{c|1303|Ambition}} must be free, but wise
+As well, beneath the starry, open skies.
+
+The world is big enough for all, if tough
+Enough to make their way, though roads be rough,
+Through every day of challenge and of strife
+That they will meet in this eternal life,
+
+Where all must find their own appointed place
+Within the course of evolution's race.
+
+But when ambition, turned to conflict, burns
+The bridges that would otherwise connect
+Those who, as kin, should shelter and protect
+Each other, as each one grows up and learns
+
+Of joy and pain, and all the ways of love,
+Beneath the stars that shine on us above,
+Then all become the losers in the game
+That choosers play, forgetting, to their shame,
+
+That none can ever get, when they're alone,
+All that they want, without the seeds they've sown
+Of true cooperation, me and you,
+A partnership that's always tried and true.
+
+The eurypterids, rising, show us how
+To use our power wisely, here and now,
+In each and every hour of living days,
+As we go on along our mortal ways,
+
+Where choice determines everything for all
+Of those who've answered, each, to life's great call.
+
+From {{c|1215|Eurypter}}'s flight to {{c|478|Scorpio}}'s sight
+Of lands beyond the waters, where he might
+Be first to land, and there to make his mark
+Upon a world that was as yet so dark,
+
+And full of possibility, to be
+A world for all humanity to see,
+The lesson, clear as day, will show the way
+To be both brave and wise, and in what way
+
+Our dreams, beneath the starry heavens, grow
+If we but choose to scatter and to sow
+The seeds of peace and love, which, from above,
+Are blessed, the seeds that we are speaking of,
+
+In every choice we make, for all who share
+This world with us, in ways both grand and fair,
+And challenging to see, as we can tell,
+For you and me, who must decide as well,
+
+Each day, which path we'll take, and on our way
+Go travelling, and follow it away.
+
+Like shining {{c|101|Jupiter}}, the sons, so blessed,
+Of {{c|1215|Eurypter}}, rose high above the rest,
+And passed each mortal test through courage, might,
+And wisdom, and the inner gift of sight
+
+That saw what could be done, if they would dare
+Beneath the shining sun to venture where
+None went before, to open up the door
+Of possibility, of what's in store
+
+For all eternity, where dreams come true
+Today and always, both for me and you.
 
 
 # Chapter 52: The Great Ancestor
 
-{{c|1304|Vater}} was the son so great
-In the tenth generation's fate
-Of {{c|1305|Pteraspis}}, and he'd be
-{{c|922|Ancestor}} of humanity
-
-And myriad species more
-From mountain peak to shore.
-His innovation would
-Change all for the good.
-
-{{c|1304|Vater}} built a channel
-Grand beyond all span-el
-Uniting liver bright
-And pancreas in sight
-
-Into his belly's space.
-To this day we trace
-This channel's honored name:
-"{{c|1306|Ampulla}} of {{c|1304|Vater}}'s" fame.
-
-Such an exalted father,
-Father of more than other
-{{c|1307|Men}} could ever dream,
-The {{c|271|Elohim}}'s esteem
-
-Called him {{c|1308|Abraham}}
-According to their plan
-For one whose progeny
-Would fill eternity.
-
-{{c|1304|Vater}} bore two sons:
-{{c|1309|Arandus}} when begun
-The day, and {{c|1310|Hestracon}}
-Whose work would carry on
-
-The family's great name
-Through evolutionary flame
-That burns in every heart
-That plays innovation's part.
-
-{{c|1310|Hestracon}} found his belly
-{{c|1311|Inadequate}}, not ready
-For the work he knew
-That he would have to do.
-
-From mouth to anus all
-The same, and he'd call
-This simple with disdain—
-Only his father's main
-
-{{c|1306|Ampulla}} in the middle
-To solve digestion's riddle.
-But this was not enough
-For one so strong and tough
-
-As {{c|1310|Hestracon}}, who'd see
-What greater good could be
-If he would dare to build
-What none before had willed.
-
-{{c|1310|Hestracon}} built with care
-A chamber prepared
-Before his father's gift
-To give digestion lift.
-
-He called it his stomach,
-And this would come to stick
-As the great divider
-Between the provider
-
-Of food from mouth above
-And what intestines' love
-Would process down below
-To make the body grow.
-
-Before the stomach laid
-The esophagus, well-made
-To carry food along
-Its pathway, swift and strong.
-
-After the stomach laid
-The intestine, well-played
-In its appointed role
-To nourish the whole.
-
-{{c|1310|Hestracon}} begat two:
-{{c|1312|Astrops}}, tried and true,
-And {{c|1313|Eteros}} the strong
-Who lived his whole life long.
-
-{{c|1313|Eteros}} begat then
-Two sons beyond all ken:
-{{c|1314|Cyatha}}, cup-shield bright,
-And {{c|1315|Tsubasa}}'s sight
-
-{{c|1316|Wing}}-shielded, prepared
-For all that he had dared
-To face in his lifetime
-Through reason and through rhyme.
-
-{{c|1315|Tsubasa}} begat two:
-{{c|1317|Thelos}}, tried and true,
-And {{c|1266|Cephalus}} the wise
-With penetrating eyes.
-
-{{c|1317|Thelos}} broke his armor
-Into scales—no former
-{{c|1318|Rigidity}} would bind
-His innovative mind.
-
-Into innumerable scales
-His armor never fails
-To give him flexibility
-And great ability
-
-To live within the reefs
-Where none could find reliefs
-From rigid armor's weight
-That sealed their swimming fate.
-
-Where none others could bend
-Well enough to transcend
-The coral's tight embrace,
-{{c|1317|Thelos}} found his place.
-
-Neither sons of {{c|732|Arthropus}}
-Nor sons of {{c|858|Molluscus}},
-Nor sons of {{c|673|Chordatus}}
-Could match his status
-
-In the reef's tight spaces
-Where his grace replaces
-{{c|1318|Rigidity}} with flow
-That helps him grow
-
-Into every niche
-Where others couldn't reach
-The food that he could take
-For his own sake.
-
-{{c|1266|Cephalus}} bore wings bright
-On each side in sight
-Of his helmet's form,
-Through calm and raging storm.
-
-His head flew as he swam
-According to his plan
-For stability and grace
-In every watery place.
-
-His lateral line would keep
-Him ahead, and never sleep
-In vigilance for all
-That might befall
-
-His swimming through the sea.
-{{c|1319|Aware}} of all that he
-Could sense around his form,
-He weathered every storm.
-
-{{c|1266|Cephalus}} begat two:
-{{c|1320|Galeas}}, tried and true,
-And {{c|1321|Osteos}}, who'd see
-What innovation's key
-
-Could open in the world
-Where possibilities unfurled
-For those who dared to think
-Beyond tradition's link.
-
-{{c|1321|Osteos}} was in plight—
-His bones weren't right
-For efficiency, he knew.
-He had to make them new.
-
-His bones were expensive,
-{{c|1322|Comprehensively}}
-{{c|1323|Wasting}} countless moles
-Of calcium that rolls
-
-Through phosphorus and more
-{{c|1324|Elements}} by the score
-That could be better used
-If they were not abused
-
-In static, lifeless bone
-That stood there all alone
-Without a greater plan
-For helping mortal man.
-
-So he decided he
-Would build more cleverly
-His skeleton anew
-With wisdom tried and true.
-
-{{c|1321|Osteos}} built with care
-{{c|1247|Blood}} channels everywhere
-Inside his bones, making
-Living, breathing, taking
-
-{{c|1325|Stores}} of minerals
-That worked like generals
-In abundance building up
-From nature's flowing cup,
-
-And in scarcity
-He'd borrow, you see,
-From what he'd stored before
-Like treasure in his store.
-
-And so he grew more strong
-And prosperous life long
-Than all his relatives
-Who took what nature gives
-
-But never learned to save
-For what the future gave
-Of challenges and need
-When they would have to feed
-
-From stores they'd built in plenty
-When resources weren't scanty
-But flowed like rivers wide
-With bounty as their guide.
-
-{{c|1321|Osteos}} bore two sons:
-{{c|1326|Pituri}} when begun
-The day, and {{c|1327|Ostracos}}
-Whose children, glorious,
-
-Would multiply and spread
-Until the world was fed
-With countless forms of life
-Through harmony, not strife.
-
-{{c|1327|Ostracos}} bore a host
-Of sons from coast to coast:
-A million who would spread
-Wherever they were led
-
-By life's eternal call
-To multiply for all
-Who'd come in times ahead
-When they would have to fed
-
-The world with their own forms
-Through calm and raging storms
-Of evolution's way
-From night into the day.
-
-{{c|1326|Pituri}} grew a snout
-Long beyond all doubt
-The longest ever seen
-In evolution's scene.
-
-{{c|1326|Pituri}} begat then
-{{c|1328|Beakon}} beyond all ken
-In wisdom and in might
-To see with clearer sight.
-
-{{c|1326|Pituri}}'s mouth was made
-Of lips, but never strayed
-Into the realm of jaws—
-He followed simpler laws.
-
-Could only close the space
-But never could erase
-His prey with biting might—
-No jaw was in his sight.
-
-But {{c|1328|Beakon}} saw potential
-In what was essential
-About his father's snout
-And figured it out.
-
-And so {{c|1328|Beakon}} moved
-His gill arches and proved
-That innovation's art
-Could play a vital part.
-
-Into his mouth he brought
-The arches, and he fought
-For food in a new way
-That worked both night and day.
-
-{{c|1328|Beakon}}'s son named {{c|1329|Gnathus}}
-Saw potential, glorious,
-And he with wife {{c|1330|Pelaca}}
-Hunted like none other.
-
-They hunted trilobites
-And brought them to their lights
-Of innovation's flame
-That burned in their name.
-
-They didn't just catch prey
-In the ancient way
-But crushed them with their might
-And brought them to the sight
-
-Of their armored jaws
-That followed nature's laws
-But used them in new ways
-Throughout their living days.
-
-They sliced through every meal
-With jaws of steel-hard feel
-That brought life-giving food
-In their hunting mood.
-
-And so {{c|665|Jaws}} were born
-On that fateful morn
-When {{c|1329|Gnathus}} and {{c|1330|Pelaca}}
-Showed what none could match-a:
-
-The power to break through
-What none before could do—
-To crush and to consume
-What others could assume
-
-Was safe in armor's shell
-From those who'd never tell
-The secret of the jaw
-That follows newer law.
-
-The world would never be
-The same for you and me
-From that day forth when jaws
-Became the newer laws
-
-Of predatory might
-That brought to sight
-A revolution new
-In what life could do.
-
-From {{c|1304|Vater}}'s ampulla
-To {{c|1329|Gnathus}}' formula
-For crushing with his jaws
-According to new laws,
-
-The vertebrates show how
-{{c|629|Innovation}}'s vow
-To never be content
-With what is merely sent
-
-By fate, but always strive
-To be more alive
-And capable and strong
-Throughout their whole life long
-
-{{c|1331|Journey}} through the sea
-Of possibility
-Where those who dare to grow
-Will always come to know
-
-New heights of what can be
-For all eternity
-When innovation's fire
-Burns with true desire
-
-To make the world more bright
-With new forms that take flight
-Beyond what was before
-To open up the door
-
-Of possibility
-For all humanity
-And every living thing
-That answers life's ring.
-
-From {{c|1310|Hestracon}}'s stomach
-To {{c|1321|Osteos}}' pragmatic
-{{c|1332|Bones}} with channels through,
-From scales that {{c|1317|Thelos}} knew
-
-Would give him flexibility
-To {{c|1266|Cephalus}}' ability
-To fly through water's space
-With stabilizing grace,
-
-The vertebrates remind
-Us that the searching mind
-That breaks from what is known
-Can reap what it has sown
-
-In innovations new
-That see old dreams through
-To heights beyond all thought
-That wisdom ever brought.
-
-From simple mouth that closed
-To jaw that none opposed
-In crushing power's might,
-The story shows the sight
-
-Of how small changes grow
-Into the flow
-Of evolution's stream
-Where nothing's what they seem
-
-But everything can change
-Beyond familiar range
-If we but have the will
-To climb each higher hill
-
-Of possibility
-Through all eternity
-Where dreams can all come true
-For me and you today.
-
-The jaws that {{c|1329|Gnathus}} made
-Will never ever fade
-From vertebrate design—
-Protection so fine
-
-Against the world's hard ways
-Throughout our living days
-When we must fight to eat
-And make our lives complete.
-
-From {{c|1304|Vater}}'s family tree
-To jaws that set us free
-From limitations old
-Of stories yet untold,
-
-The vertebrates have shown
-How far we've grown
-From simple, humble start
-To mastery of art
-
-That lets us rule the sea
-And land and be
-The masters of our fate
-Through innovations great
-
-That never cease to grow
-In all we'll ever know
-Of what can be achieved
-When dreams are believed
-
-And turned to reality
-Through wise ability
-To see what others miss
-And find in this
-
-The power to transcend
-All limits and extend
-The boundaries of life
-Through harmony, not strife.
-
-The world that {{c|1329|Gnathus}} bit
-With jaws of steel and grit
-Lives on in every tooth
-That tells the truth
-
-Of how innovation's way
-Can change both night and day
-Into something new
-For me and you
-
-Who dare to break the mold
-Of stories never told
-And write upon the page
-Of evolution's age
-
-New chapters yet unread
-Where we are led
-By wisdom's guiding light
-To make the future bright
-
-With possibilities
-That nobody sees
-But those who dare to dream
-Of more than what they seem
-
-And turn those dreams to life
-Through joy and through strife
-That marks the growing soul
-Who plays the vital role
-
-In evolution's plan
-For every woman, man,
-And every living thing
-That answers hope's ring.
-
-From {{c|1304|Vater}}'s great design
-To {{c|1329|Gnathus}}' jaw so fine,
-The story's clear to see:
-{{c|629|Innovation}} sets us free.
+In the tenth generation, by its fate,
+{{c|1304|Vater}}, the son of {{c|1305|Pteraspis}}, so great,
+Would be the {{c|922|Ancestor}} of humankind
+And species myriad, of every kind,
+
+From mountain peak to shore; and all he would
+Through innovation change for all the good.
+
+{{c|1304|Vater}} would build a channel, grand and wide,
+That joined the liver, bright, and, at its side,
+The pancreas, and brought them to the space
+Within his belly, there to take its place.
+
+Today we trace this channel's honored name:
+"{{c|1306|Ampulla}} of {{c|1304|Vater}}": such is its fame.
+
+This father was exalted, father of
+Far more than other {{c|1307|Men}} had dreamed thereof;
+The {{c|271|Elohim}}, who held him in esteem,
+Would call him {{c|1308|Abraham}}, as was their scheme
+
+For one whose progeny, in time, would fill
+Eternity, and they are filling still.
+
+{{c|1304|Vater}} would bear two sons: when day begun
+Came {{c|1309|Arandus}}, then {{c|1310|Hestracon}}, the one
+Whose work would carry on the house's name
+Through evolution's ever-burning flame,
+
+That burns in every heart that plays the part
+Of innovation, and its daring art.
+
+{{c|1310|Hestracon}} found his belly, as he knew,
+{{c|1311|Inadequate}}, unready to pursue
+The work that he would one day have to do.
+
+From mouth to anus, all the same; and plain
+And simple, he would call it, with disdain:
+Only his father's main {{c|1306|Ampulla}} would
+Stand in the middle, solving, as it could,
+
+Digestion's riddle. This was not enough
+For {{c|1310|Hestracon}}, a son so strong and tough,
+Who saw what greater good there was, if he
+Would dare to build what none had willed to be.
+
+{{c|1310|Hestracon}} built a chamber, with great care,
+Prepared before his father's gift, and there
+To give digestion lift; and he would call
+It "stomach," and this name would stick for all.
+
+It was the great divider, standing so
+Between the mouth above, which would bestow
+The food, and what intestines' love below
+Would process, so the body then could grow.
+
+Before the stomach lay, so swift and strong,
+Esophagus, well-made, to pass along
+The food upon its pathway; after, laid,
+The intestine, its part to be well-played,
+
+Which, in its own appointed place and role,
+Would nourish all the body as a whole.
+
+And {{c|1310|Hestracon}} begat two sons: the one,
+{{c|1312|Astrops}}, was tried and true, when day begun,
+And {{c|1313|Eteros}}, the strong one, who would stay
+And live, and thrive, until his dying day.
+
+And {{c|1313|Eteros}} begat two sons, and then
+These sons were both beyond all mortal ken:
+{{c|1314|Cyatha}}, with a cup-shield shining bright,
+And {{c|1315|Tsubasa}}, with {{c|1316|Wing}}-shield, and with sight,
+
+Prepared for all he'd dare to face, his time
+Of life, through all his reason and his rhyme.
+
+{{c|1315|Tsubasa}} begat two: one, tried and true,
+Was {{c|1317|Thelos}}; and the other of the two
+Was {{c|1266|Cephalus}}, the one who was so wise,
+Who had the keen and penetrating eyes.
+
+{{c|1317|Thelos}} would break his armor into scales,
+So no {{c|1318|Rigidity}} of old prevails
+To bind or hold his innovative mind,
+Into innumerable scales, refined.
+
+And these, his scales, would never fail to be
+His flexibility and skill, so he
+Could live within the reefs, where none could get
+Relief from rigid armor's weight, which set
+
+And sealed their swimming fate. Where none could bend
+So well as to escape and to transcend
+The coral's tight embrace, {{c|1317|Thelos}} had found
+His home, and made his dwelling on that ground.
+
+Neither the sons of {{c|732|Arthropus}}, nor those
+Of {{c|858|Molluscus}}, nor of {{c|673|Chordatus}}, rose
+To match his status in the reef's tight space,
+Where his own grace takes {{c|1318|Rigidity}}'s place
+
+With flow, which helps him in his life to grow
+Into each niche where others could not go,
+To reach the food that he could find and take,
+And use it for himself, for his own sake.
+
+{{c|1266|Cephalus}} bore wings, bright, on either side
+Of his own helmet's form, and these would ride
+Through calm and raging storm. His head would fly
+As he would swim, held steady and held high,
+
+According to his plan, with poise and grace
+In every watery and open place.
+
+His lateral line would keep him ahead,
+And never sleep, but vigilant instead,
+For all that might befall him in the sea
+As he would swim through it; {{c|1319|Aware}} was he
+
+Of all that he could sense around his form,
+And so he weathered every single storm.
+
+{{c|1266|Cephalus}} begat two: {{c|1320|Galeas}}, true
+And tried, and {{c|1321|Osteos}}, the second, who
+Would see the possibilities unfurled
+By innovation's key within the world
+
+For those who dared to think, and did not shrink
+From going past tradition's binding link.
+
+But {{c|1321|Osteos}} was in a plight, and found
+His bones weren't right, efficient, nor were sound;
+He had to make them new: his bones' expense
+Was {{c|1322|Comprehensively}} so great, immense,
+
+{{c|1323|Wasting}} countless calcium moles, which roll
+Through phosphorus, and more, a costly toll,
+{{c|1324|Elements}} by the score, that could be used
+Much better, if they were not so abused
+
+In static, lifeless bone that stood alone
+Without a greater plan to call its own
+For helping mortal man. So, with a will,
+He chose to build more cleverly, with skill,
+
+His skeleton, and make it all anew,
+With wisdom that was always tried and true.
+
+{{c|1321|Osteos}} built with care, and everywhere
+Inside his bones he set {{c|1247|Blood}} channels there,
+So they were living, breathing, taking {{c|1325|Stores}}
+Of minerals, like generals in wars;
+
+In plenty, they were built and gathered up
+From nature's flowing and abundant cup;
+In scarcity, he'd borrow from the store
+Of what he'd saved, like treasure, from before.
+
+And he grew stronger, prospering, life long,
+Beyond his relatives, who all along
+Took everything that nature gives, but who
+Had never learned to save for what was due,
+
+The future's challenges and every need,
+When they would hunger, and would have to feed
+From stores they'd built in plenty, when the flow
+Of resources was never scant or low,
+
+But ran like rivers, spreading far and wide,
+With bounty as the river's only guide.
+
+{{c|1321|Osteos}} bore two sons: when day begun
+Came {{c|1326|Pituri}}, and {{c|1327|Ostracos}}, the one
+Whose children, glorious, spread far and wide,
+And multiplied, until on every side
+
+The world was fed with countless forms of life,
+Through harmony, and not through any strife.
+
+To {{c|1327|Ostracos}} was born, from coast to coast,
+A million sons, a great and mighty host,
+Who'd spread to anywhere that they were led
+By life's eternal call, for times ahead,
+
+To multiply for all who'd come, and feed
+The world with their own forms, as was the need,
+Through evolution's calm and raging storms,
+From night into the day, in countless swarms.
+
+{{c|1326|Pituri}} grew a snout so long that none,
+In all of evolution's scene, not one,
+Was ever seen so long, beyond all doubt:
+The longest ever grown, this mighty snout.
+
+{{c|1326|Pituri}} then begat {{c|1328|Beakon}}, who'd be
+Beyond all ken in wisdom and in might,
+Who had the strength to look, and so to see
+The world around him with a clearer sight.
+
+{{c|1326|Pituri}}'s mouth was made of lips; it strayed
+In no way to the realm of jaws, but stayed
+With simpler laws: it only closed the space,
+But never could, with biting might, erase
+
+His prey; for no jaw was within his sight,
+And with his lips he only closed it tight.
+
+But {{c|1328|Beakon}} saw potential in the snout
+His father had; its essence he worked out.
+
+So {{c|1328|Beakon}} moved his gill arches, and he
+Would prove that innovation's art could be
+Of vital use. Into his mouth he brought
+The arches, and with them he hunted, fought
+
+For food in a new way, which worked by night
+And worked as well by day, in the day's light.
+
+{{c|1328|Beakon}}'s own son, named {{c|1329|Gnathus}}, saw the great
+Potential, and, with {{c|1330|Pelaca}}, his mate,
+
+They hunted like no others: and the prey
+Was trilobites, which they would bring away
+To innovation's flame, and to its light;
+That flame was burning in their name, so bright.
+
+Not merely, in the ancient way, did they
+Catch, as had others long before, their prey;
+
+They crushed them with their might, and brought them to
+The sight of armored jaws, which followed true
+The laws of nature, used in ways made new
+Through all their living days, the whole way through.
+
+They sliced through every meal that they would find
+With jaws of steel-hard feel, of a new kind,
+That brought to them, when in their hunting mood,
+Their sustenance, the life-bestowing food.
+
+And so the {{c|665|Jaws}} were born, that fateful day,
+When {{c|1329|Gnathus}} and {{c|1330|Pelaca}} would display
+What none could match: the power to break through
+What none before them ever came to do:
+
+To crush with them, and with them to consume
+What other creatures would, till then, assume
+Was safe in armor's shell, protected well
+From all of those who'd never come to tell
+
+The secret of the jaw, and how the jaw
+Would follow, all its days, a newer law.
+
+The world would never be the same for me
+Or you, from that day forth, when jaws would be
+The newer laws of predatory might,
+Which brought a revolution into sight,
+
+A new one, in what life could come to do,
+And from that day, the world of life was new.
+
+From {{c|1304|Vater}}'s ampulla to {{c|1329|Gnathus}}, who
+Had found a formula, and laws made new,
+His jaws to crush, the vertebrates show how
+The {{c|629|Innovation}} holds them to its vow:
+
+To never be content with what is sent
+By fate, but always, with a strong intent,
+To be more capable and more alive,
+And strong throughout their whole life long, and thrive,
+
+{{c|1331|Journey}} through possibility's wide sea,
+Where all who dare to grow will come to see
+New heights of what can be, and come to know
+Them for eternity, as on they go,
+
+When innovation's flame burns, longing, true,
+To make the world more bright with forms made new
+That take their flight beyond the old, and swing
+The door of possibility, to bring
+To all humanity and everything
+That lives and answers when it hears life ring.
+
+From {{c|1310|Hestracon}}'s new stomach to the new
+Pragmatic {{c|1332|Bones}} of {{c|1321|Osteos}}, run through
+With channels; from the scales that {{c|1317|Thelos}} knew
+Would give him flexibility anew,
+To {{c|1266|Cephalus}}' ability, with grace,
+To fly, and stabilize, through water's space,
+The vertebrates remind us, as we trace,
+
+That searching minds, which break from what is known,
+Can reap the harvest of what they have sown
+In innovation, seeing old dreams through
+To heights beyond all thoughts that wisdom drew.
+
+From simple mouths that closed, to jaws whose might
+In crushing none opposed, we see the sight
+Of how small changes, as they grow, will flow
+Into the stream of evolution, so
+
+That nothing's what it seems, and all can change
+Beyond familiar and accustomed range,
+If we but have the will to climb, until
+We climb each higher hill, and higher still,
+
+Of possibility, through every day
+Of all eternity, where, come what may,
+Our dreams come true for you and me today.
+
+The jaws that {{c|1329|Gnathus}} made will never fade
+From vertebrate design, and they will aid
+As a protection fine, through all the days
+Of living, in the world and its hard ways,
+
+When we must fight for what we have to eat
+And make, through it, our lives whole and complete.
+
+From {{c|1304|Vater}}'s family tree, to jaws that free
+Us from the limitations, old, that we
+Had known in stories that are yet untold,
+The vertebrates have shown, as we behold,
+
+How far we've grown from simple, humble start
+To mastery of all the skill and art
+That lets us rule the sea and land, and be
+The masters of our fate; and it is we
+
+Who, through our innovations great, won't cease
+To grow, in all we know, and to increase
+In what can be achieved, when dreams, believed,
+Are turned into reality, conceived
+
+Through wise ability, with open eyes,
+To see what others miss; and so we rise,
+And find, within this, power to transcend
+All limits, and to widen and extend
+
+The boundaries of life, and, without strife,
+In harmony, to grow a fuller life.
+
+The world that {{c|1329|Gnathus}} bit, with jaws of grit
+And steel, lives on in every tooth, and it
+Tells truly how the innovation's way
+Can change into the new both night and day
+
+For me and you, who dare to break the mold
+Of stories that have never yet been told,
+And, on the page of evolution's age,
+Write chapters yet unread, stage after stage,
+
+Where we are led by wisdom's guiding light
+To make the future that's before us bright
+With possibilities that no one sees
+But those who dare to dream, and dream of these,
+
+Of more than what they seem, and who will strive
+To turn those dreams to life, and so to thrive
+
+Through joy and strife, which mark the growing soul
+That plays, in evolution's plan, the role
+So vital, for each woman, for each man,
+And all that lives, since life on earth began,
+For every living thing that hears hope ring
+And answers to the call that it will bring.
+
+From {{c|1304|Vater}}'s great design to {{c|1329|Gnathus}}' fine
+And mighty jaw, the story, line by line,
+Is clear for all to see, for you and me:
+It's {{c|629|Innovation}} that will set us free.
 
 
 # Chapter 53: The Great Sorceress
@@ -26274,1348 +25954,1513 @@ Waiting for the chapter that will bring them on.
 
 # Chapter 132: Noah and the Crossing
 
-Ten generations from {{c|308|Seth}}, the line had kept
+Ten generations on, {{c|308|Seth}}'s line had kept
 Its patient eastward drift through the vast plain
 Of eastern {{p|Africa}}. The tribes had slept
-And waked a thousand times, had borne the strain
+And woke a thousand times, had borne the strain
 
 Of droughts and floods and migrations and raids,
 Had seen the slow erosion of the ice
-In the north, had felt the seasons change like blades
-Of light across the grasslands, the price
+Up north, had felt the seasons change like blades
+Of light across the grasslands, and the price
 
-And the reward of generations. And then—
+And the reward of generations. Then—
 In the ten-thousandth season, give or take—
 In the line of {{c|308|Seth}} through {{c|1852|Enosh}}, the fen
-And marsh-dwelling {{c|1852|Enosh}}, and {{c|65|Kenan}}, the ache
+Of marsh-dwelling {{c|1852|Enosh}}, {{c|65|Kenan}}, the ache
 
-And joy of the settling tribes, and {{c|1853|Mahalalel}},
-And {{c|68|Jared}}, and {{c|1844|Enoch}} who walked with {{c|472|God}}
-And was taken, and {{c|77|Methuselah}}, whose bell
-Tolled nine hundred sixty-nine, the rod
+And joy of tribes that settled through the years;
+{{c|1853|Mahalalel}}, and {{c|68|Jared}}, and the man
+{{c|1844|Enoch}}, who walked with {{c|472|God}} beyond his peers
+And was taken; {{c|77|Methuselah}}, whose span
 
-And staff of the longest-lived of the patriarchs,
-And {{c|1845|Lamech}}, the father—there was born
-A son. {{c|1851|Noah}}. The comfort. The name that remarks
-On the easing of the curse upon the thorn
+Ran nine hundred and sixty-nine, the rod
+And staff, the longest-lived of patriarchs;
+And {{c|1845|Lamech}}, father. On the eastern sod
+Was born a son, {{c|1851|Noah}}: a name that marks
 
+The easing of the curse upon the thorn
 And thistle of the ground. {{c|1851|Noah}} means rest,
-Or comfort, or easing. A boy named for relief
-From the long labor. A boy born in the nest
-Of his people's exhaustion, named for the brief
+Or comfort, or an easing; he was born,
+Named for relief from labor, in the nest
 
-And needed respite. And he grew.
+Of his exhausted people, named for brief
+And needed respite, comfort in their grief.
+He grew; and all the while he grew, the land
+His people lived in changed on every hand.
 
-                                  And while he grew,
-The land where his people lived was changing. The rain
-That had fallen was less. The grass where the few
-Remaining game animals grazed was dry. The plain
+The rain that fell grew less. The plain was dry,
+The grass where few remaining game would graze;
+The plain was not the plain of days gone by.
+The eastward drift of generations' days
 
-Was not the plain it had been. The deep
-And patient eastward drift of the generations
-Had brought {{c|1851|Noah}}'s people to the very steep
-And coastal edge of the continent. The stations
+Had brought {{c|1851|Noah}}'s people down to the steep
+And coastal edge, where all the land was spent;
+The stations of their wandering, worn deep,
+Ran out of land. To the sea's edge they went.
 
-Of their wandering had run out of land.
-They had walked to the sea.
+To the east, water: the {{p|Red Sea}}; the strand
+And narrow strait of {{p|Bab al-Mandab}}, where
+The continent's daughter stretches her hand,
+Fingers toward {{p|Arabia}}'s coast; and there,
 
-                              To the east: water.
-The {{p|Red Sea}}. The {{p|Bab al-Mandab}}. The strand
-And narrow strait where the continent's daughter
-
-Stretches her fingers toward the {{p|Arabian}} coast.
-Twenty-odd kilometers across. A swim
-No human would survive—but a small host
+Twenty-odd kilometers wide, a swim
+No human would survive; but a small host
 In a boat, with the right winds, with a trim
+And purpose-built hull, could cross to the coast.
 
-And purpose-built hull, could make the crossing.
+And {{c|1851|Noah}} built the boat. Not the great ark
+Of the old tale, the vessel in the dark,
+Tossed, laden with the beasts, upon the deep
+Of a world-flood. No world-flood came to sweep
 
-And {{c|1851|Noah}} built the boat.
+The globe. The flood was local. The monsoons
+Had failed, the rivers dried, and on the plain
+The patient pasture turned to desert dunes.
+His people starved. The water was not rain:
 
-                                Not the great ark
-Of the standard telling. Not the tossing
-Animal-laden vessel of the dark
+The water that came was the sea itself,
+The carving edge of ocean, rising slow
+As the ice sheets fell back, raising the shelf
+Of every coast. The sea advanced, and so
 
-And global flood. There was no global flood.
-The flood that came was local. The monsoons
-Had failed. The rivers had dried. The stud
-And patient pastureland had become the dunes
+The camps were pushed inland, and inland more;
+The lands the ancestors had known before
+Dimmed all their lamps, their revels and their grass.
+{{c|1851|Noah}} knew this was no drought that would pass:
 
-Of encroaching desert. His people were starving.
-The water that came was not rain. The water
-That came was the sea itself, the carving
-Edge of the ocean, rising as the slaughter
+The land would not return. He built a boat,
+Put on it {{c|1857|Shem}}, {{c|1858|Ham}}, {{c|1859|Japheth}}, and their wives,
+The stern and patient ones who, set afloat,
+Would fit into the hull to save their lives.
 
-Of the ice sheets' slow retreat raised the level
-Of every coast. The sea advanced. The camps
-Were pushed inland, and inland, and the revel
-Of the ancestors' long grasslands dimmed its lamps.
+He did not save the beasts. Not his to save
+Were they. He crossed the strait, and he survived,
+With all his people; and the songs they'd save,
+The canticles of the long road, arrived
 
-{{c|1851|Noah}} understood that the land would not return.
-He built a boat. He put his sons upon it—
-{{c|1857|Shem}}, {{c|1858|Ham}}, {{c|1859|Japheth}}, and their wives, the stern
-And patient men and women who would fit
+Across the water, on the other side
+Of the thundering waves, on {{p|Yemen}}'s shore,
+Where son and daughter lines would open wide
+Upon a continent not known before.
 
-Themselves into the vessel and survive.
-He did not save the animals. The animals
-Were not his to save. He crossed, alive,
-With his people, across the strait. The canticles
+This is the great migration, the event
+Of out-of-{{p|Africa}}, the sure descent
+In bones and genes. Geneticists have read,
+Demographers, from how the clade has spread
 
-And songs of the long prior wandering
-Were brought into the boat, and across the water,
-And into the new land on the other side of the thundering
-Waves, and the shore of {{p|Yemen}}, and the daughter
+And the mutation rate: that long ago,
+Eighty to sixty thousand years or so,
+A small group crossed the {{p|Bab al-Mandab}}'s gate
+And reached the wide world. Small, by estimate:
 
-And son lineages that would now unfold
-On a new continent.
+A few hundred, perhaps; perhaps one clan,
+One family, extended. The {{p|Y}}-line
+Of all of those who crossed the strait began
+With {{c|1854|CT}}: {{c|1860|Haplogroup CT}}, the sign,
 
-                     This is the great migration.
+The carrier, the trunk from which would grow
+{{c|1849|C}}, {{c|1850|D}}, {{c|1861|E}}, {{c|1862|F}}, and all that lay below.
+{{c|1854|CT}}: the {{p|Y}} that crossed the strait; the line
+Whose niche and seed the small boat would enshrine,
 
-The out-of-{{p|Africa}} event of which we are told
-In the bones and in the genes, the situation
+Whose grandchildren's descendants came to fill
+{{p|Europe}} and {{p|Asia}}, {{p|Australia}}, and still
+The {{p|Americas}}, and, glimmering far,
+The isles of the {{p|Pacific}}, star by star.
 
-That demographers and geneticists have read
-From the clade-branching and the mutation rate:
-Sometime between eighty and sixty thousand years
-Ago, give or take, a small group crossed the gate
+{{c|1854|CT}}, then, is the scope of the event
+Of out-of-{{p|Africa}}, its whole extent.
+And {{c|1851|Noah}} is its mythic bearer, though
+Not a man that strict history can show.
 
-Of the {{p|Bab al-Mandab}} and entered the wider world.
-A small group. Perhaps a few hundred. Perhaps
-A single extended family. The unfurled
-Y-chromosome lineage of those who made the laps
+The {{x|Gaiad}} does not show a wooden ark
+With lions and with zebras, and a plan
+For two of every kind. It shows a stark
+Survival boat, a small one, for a clan,
 
-Across the strait was {{c|1854|CT}}.
+With few human passengers, and the lore
+That the old host had memorized before,
+Crossing a strait in drought. The beasts were left
+Behind, and of the human boat bereft;
 
-                                 {{c|1860|Haplogroup CT}}.
-The carrier lineage. The trunk out of which
-{{c|1849|C}}, {{c|1850|D}}, {{c|1861|E}}, {{c|1862|F}}, and everything downstream, will eventually fit.
-{{c|1854|CT}} is the {{p|Y}} that crossed. The line whose niche
+In time they'd cross, carried on other bones,
+The lions too, through migration's long zones.
+At first the boat was human, small, and real;
+Twenty kilometers before its keel.
 
-And seed was the small boat, whose grandchildren's
-Descendants would in time fill {{p|Europe}},
-{{p|Asia}}, {{p|Australia}}, the {{p|Americas}}, and the glimmerings
-Of the {{p|Pacific}} islands. {{c|1854|CT}} is the scope
+The water rose; the land had lost its thrall.
+{{c|1851|Noah}}, or whom he stood for, led them all,
+His people, past the {{p|Red Sea}}'s narrow door,
+To {{p|Arabia}}'s peninsula's shore,
 
-Of the out-of-{{p|Africa}} event.
+Where wetter climate made it, in that age,
+Livable: the green savanna, the stage
+Of seasonal rivers, before the sand,
+For fifty thousand years that we have spanned.
 
-                                   And {{c|1851|Noah}}
-Is its mythic bearer.
+{{c|1857|Shem}} and {{c|1858|Ham}} and {{c|1859|Japheth}}: three sons, three ways,
+Three branches of the crossing line. In days
+Long after, in the registry and lore
+Of biblical redactors, at its core,
 
-                      Not a historical man
-In the strict sense. The {{x|Gaiad}} does not show a
-Wooden ark with lions and zebras and a plan
+The launch of three great world race-divisions,
+{{c|1863|Semitic}}, {{c|1864|Hamitic}}, {{c|1865|Japhetic}}, found
+Their root in these three. But the rescissions
+And problems of the racial groupings' ground
+The {{x|Gaiad}} knows, and so it is not bound
 
-For two of every kind. The {{x|Gaiad}} shows a boat,
-A small boat, a survival boat, a family boat,
-With a few human passengers and the wrote
-And memorized knowledge of the prior host,
+By the three-race frame, and it reads the three
+As branches of the {{c|1854|CT}} clade, to be
+{{c|1849|C}}, {{c|1850|D}}, {{c|1861|E}}, {{c|1862|F}}, the trunk on foreign soil
+That stayed through generations' patient toil.
 
-Crossing a strait in a drought. The animals
-Were left behind. They would cross, eventually,
-On other bones—the lions and the canals
-Of migration would carry them. But initially
+These sons are the beginning of the fan,
+The great unfurling of the human plan,
+The delta where migration's waters part,
+The coil uncoiling from its narrow start.
 
-The boat was human only. The boat was small.
-The boat was real. The strait was twenty kilometers.
-The water was rising. The land was losing its thrall.
-And {{c|1851|Noah}}, or the man {{c|1851|Noah}} stood in for, maneuvers
+{{c|1851|Noah}} built the boat. {{c|1851|Noah}} crossed the strait.
+His sons began dispersal. And the line
+Of {{c|308|Seth}} that walked ten generations' weight,
+Embossing {{p|African}} soil with its sign,
 
-His people across the {{p|Red Sea}} onto the {{p|Arabian}}
-Peninsula, where the wetter climate of that age
-Made the peninsula livable—the verdant savannah
-And seasonal rivers of pre-desert {{p|Arabia}}, the stage
+Now stood upon the far side of the sea.
+The continent they'd left would no more be,
+For the first time, mother of all mankind,
+The human whole; and what had been combined
 
-For the next fifty thousand years of human history.
+As one was now, in the smallest degree,
+Two: those who stayed, and those who'd gone. The free
+And home, in {{p|Africa}}, were {{c|977|Abel}}'s line
+And {{c|1836|A}}'s sons who would not migrate; the sign
 
-{{c|1857|Shem}}, {{c|1858|Ham}}, {{c|1859|Japheth}}. Three sons.
+Of {{c|1851|Noah}} and his sons was restless, new
+On {{p|Yemen}}'s shores, the start of the long road
+That would in time take them the whole world through,
+To each inhabited, contrived abode
 
-                                                  Three branches
-Of the crossing lineage. In the later registry
-And memory of the biblical redactors, the launches
+Of all the planet's rest. This is the hinge,
+The crossing, our before-and-after. Each
+Non-{{p|African}} among us, in some fringe
+Or major portion of the {{p|Y}}'s long reach,
 
-Of the world's three great race-divisions—
-{{c|1863|Semitic}}, {{c|1864|Hamitic}}, {{c|1865|Japhetic}}—would be grounded
-In these three. But the {{x|Gaiad}} knows the rescissions
-And problems of the old racial groupings. Not bound
+Descends from all who rode in {{c|1851|Noah}}'s boat.
+One crossing: one small vessel and one moat
+Of twenty kilometers. All the lands
+Thereafter, every mountain that still stands,
 
-By the three-race frame, the {{x|Gaiad}} reads {{c|1857|Shem}}
-And his brothers as three branches of the {{c|1854|CT}} clade,
-Which will in time become {{c|1849|C}}, {{c|1850|D}}, {{c|1861|E}}, {{c|1862|F}} and the stem
-And trunk of every non-{{p|African}} lineage that has stayed
+Each language, every pestle in its bowl
+Of mortar, every kitchen, and the whole
+Of human settlement outside the shore
+Of {{p|Africa}}, descends from what, before,
 
-Across the generations on foreign soil.
+Each crossing member of his kin would choose:
+To step into the boat that day, and lose
+The land behind. It is no figure; for
+The great migration happened. And the score
 
-The three sons are the beginning of the fan.
-The delta opening of the migration. The coil
-Of the great unfurling that is the human plan.
+Of it is in the bones and genes, the frost
+Mitochondrial and {{p|Y}}-chromosome
+That modern genetics has read. The cost
+And count of it are burned in our genome.
 
-{{c|1851|Noah}} built the boat. {{c|1851|Noah}} made the crossing.
-{{c|1851|Noah}}'s sons began the dispersal. And the line
-Of {{c|308|Seth}} that had walked for ten generations, embossing
-The {{p|African}} soil with their patient sign,
+The {{c|1851|Noah}} story, parted from its source,
+Preserved the crossing's memory, the way
+A myth preserves a real event, its course
+Down the long corridor of what they say,
 
-Now stood on the other side of the water.
+Ten thousand years of telling; it survived:
+The boat, the flood, the crossing, and the loss
+Of the old country; and how they arrived,
+In glory or exhaustion, from across,
 
-And the continent they had left behind
-Was, for the first time, no longer the mother
-Of the whole human species. The mankind
+Upon the new land's shore. The {{x|Gaiad}} pays
+The story honor, giving back the tale
+To what it remembers: no grand displays
+Of world deluge; a local crossing's scale:
 
-That had been one was now, in the smallest degree,
-Two: the staying and the gone. The line
-Of {{c|977|Abel}} and the un-migrating sons of {{c|1836|A}}, free
-And home in {{p|Africa}}—and the restless sign
+A few who lived because they built a boat.
+And from them, and from them alone, descends
+Each man of {{p|Europe}}, {{p|Asia}}, the remote
+{{p|Pacific}}, {{p|Australia}}, earth's polar ends,
 
-Of {{c|1851|Noah}} and his sons, newly arrived
-On the shores of {{p|Yemen}}, at the beginning of the road
-That would take them, in time, to every contrived
-And inhabited corner of the continental code
+The {{p|Americas}}, and each place beside
+{{p|Africa}}. All of us who are outside
+The {{c|1837|San}}, the {{c|1838|Mbuti}}, and the holds within
+The vast and diverse continent, have been
+Born of the choice, the boat, and of the plan
+Of this one {{c|1851|Noah}}. Honor him, the man.
 
-Of the rest of the planet.
+He founded no flood; he was the sire
+Of the great crossing, and its glow and fire,
+The ember of the human species' blood
+That first on foreign soil began to bud,
 
-                            This is the hinge.
+The ancestor of all of us on land
+That {{c|1834|Adam}} never saw; the builder's hand
+That made the small boat; un-Atlas, who bore
+And carried the whole line to the far shore.
 
-The crossing. The before-and-after of our species.
-Every non-{{p|African}} descends, in some fringe
-Or major proportion of their {{p|Y}}, from the specie
-
-And individual passengers of {{c|1851|Noah}}'s boat.
-
-One crossing. Twenty kilometers. A small vessel.
-And every continent thereafter, every moat
-And mountain, every language, every pestle
-
-Of every mortar of every kitchen of every
-Human settlement outside of {{p|Africa}}—all of it
-Descends from the decision of {{c|1851|Noah}}'s every
-Crossing family member to step into the fit
-
-Of the boat that day.
-
-                       The great migration is not metaphor.
-
-It happened. It is in the bones, in the genes, in the frost
-Of every mitochondrial and {{p|Y}}-chromosomal score
-That modern genetics has read. The count and cost
-
-Of the event is burned into our DNA.
-And the {{c|1851|Noah}} story, long divorced from its origin,
-Preserved the memory of the crossing, the way
-A myth preserves a real event—through the long bin
-
-And corridor of oral transmission, across
-Ten thousand years of retelling, the story
-Survived. The boat. The flood. The crossing. The loss
-Of the old country. The arrival in glory
-
-Or in exhaustion on the shore of the new land.
-
-The {{x|Gaiad}} honors the story by returning it
-To the thing it remembers. Not a global and grand
-Deluge. A local crossing. A small kit
-
-Of people who survived because they built a boat.
-
-And from them—and only from them—
-Every man of {{p|Europe}}, {{p|Asia}}, {{p|Australia}}, the remote
-{{p|Pacific}}, the {{p|Americas}}, the polar rim
-
-And every elsewhere that is not {{p|Africa}},
-Descends.
-
-           Every one of us who is not of the {{c|1837|San}}
-Or the {{c|1838|Mbuti}} or the deep inland holds of the massive
-And diverse {{p|African}} continent, is a descendant of the plan
-
-And the choice and the boat of this one {{c|1851|Noah}}.
-
-                                                     Honor him.
-
-For he was not the founder of the flood,
-He was the father of the crossing. The glow
-And ember of the human species' first blood
-
-On foreign soil. The ancestor of all of us
-Who stand on land that {{c|1834|Adam}} never saw.
-The small-boat-builder. The un-Atlas of the plus
-And carrying hero of the line. The maw
-
-And mouth of the strait closes behind the boat.
-The passengers disembark. The continent behind
+The strait's maw and mouth close behind the boat.
+The passengers step off. The land behind
 Is, from this moment, no longer the coat
-And cover of the human species. The kind
+And cover of the species, humankind.
 
-That would become us has split into two.
+The kind that would become us splits in two:
+The {{p|African}}, that stays; the line that crossed.
+The second line, the restless, is not through:
+Not yet begun. The crossing is not lost.
 
-The {{p|African}} line, staying. The line that has crossed.
-
-And the second line—the restless—is not through.
-It has not yet begun. But the crossing is not lost.
-
-{{c|1866|Yemen}}. The dry hills of {{p|Arabia}}. The sun
+{{c|1866|Yemen}}; {{p|Arabia}}'s dry hills; the sun
 Over the {{p|Red Sea}}, rising on the far
-And foreign shore. The day the crossing was done.
-
+And foreign shore: the day that it was done,
 The day the species became what we are.
 
 
 # Chapter 133: The DE Split and the Toba Catastrophe
 
-They disembarked at {{p|Yemen}}, on the green
-And wetter {{p|Arabia}} of the late {{x|Pleistocene}}.
-The grass was thick. The seasonal rivers ran.
-The peninsula was hospitable to the plan
-
-Of a small band looking for a new home.
-And they stayed, and multiplied, and roamed
-Outward along the southern coast of {{p|Asia}},
-Eastward along the shore, the line of their movement easier
-
-To follow than to choose: the sea on the right,
-The dry interior on the left, the site
-And prompt of the coastal food sources, the shells
-And the tidepools and the fish, the bells
-
-And bowls of the mangrove swamps—these were
-The conditions of the migration. The blur
-Of generations of coast-walking. The slow
-And patient eastward flow.
-
-                            And early in this flow,
-Within a few thousand years of the crossing, the {{c|1854|CT}} trunk
-Split. It is called the {{c|1855|DE}} / {{c|1856|CF}} split. The sunk
-Root of the migration forked into two daughter
-Clades. One—{{c|1855|DE}}—would do something dramatic. The other—
-
-{{c|1856|CF}}—would follow it in the next chapter's account.
-
-For now, {{c|1855|DE}}.
-
-                  And within {{c|1855|DE}}, a further count
-And split: {{c|1850|D}} diverged from {{c|1861|E}}. {{c|1861|E}}, who would one day
-
-Return to {{p|Africa}} by land—that is its own chapter. Today
-We follow {{c|1850|D}}.
-
-                   {{c|1867|Haplogroup D}} was, once, one of the widest
-Y-lineages on earth. Not just in the dry
-
-Corner of the continent we now identify with it.
-{{c|1850|D}} was everywhere in {{p|Asia}}. {{c|1850|D}} was the fit
-Of the first wave across the southern route—
-{{c|1850|D}}'s carriers walked along the {{p|Indian}} Ocean's chute,
-
-Populated the pre-{{c|1868|Dravidian}} coasts of what is now
-{{p|India}}, moved into {{p|Southeast Asia}}, crossed to {{p|Java}}, the brow
-Of the {{p|Indonesian}} islands, pushed northward into what is now
-{{p|Myanmar}}, {{p|Thailand}}, southwestern {{p|China}}. The vow
-
-Of the early coastal migration carried {{c|1850|D}}
-Across a continent. {{c|1850|D}} was the pioneer, the free
-And first-arriving lineage, the one whose patient
-Eastward progress colonized the ancient
-
-And un-peopled lands of southern {{p|Asia}}.
-
-                                             And then.
-
-Seventy-four thousand years ago, give or take, the pen
-And chronicle of the earth itself recorded the event.
-
-In what is now {{p|Sumatra}}, on the island then
-Attached by land-bridge to the mainland, a volcano
-Called {{p|Toba}} erupted. Not a small one. Not the flow
-And cinder-cone of an ordinary outburst.
-
-{{p|Toba}} was the largest volcanic eruption
-Of the last twenty-five million years. The disruption
-Ejected approximately three thousand cubic kilometers
-Of rock and ash. The ash fell across the dimmers
-
-And shadowed skies of the whole of {{p|Asia}}. The sun
-Was blocked for years. The temperature dropped. What had been
-A warming world entered a sudden cold. The stun
-And hammer-blow of the eruption closed in
-
-On the ecosystems of south and east {{p|Asia}} like a fist.
-
-Forests died. Food sources vanished. The mist
-And fog of the ash blocked photosynthesis
-For whole growing seasons. The whole thesis
-
-Of the settled life of the {{c|1850|D}}-carrying populations
-Collapsed. The first-wave migrants, whose tens of stations
-
-And settlements had spread from {{p|Iran}} to {{p|Indonesia}},
-Starved. Died. Were buried in the cold pneumonia
-
-Of a world without sun. The coastal settlements
-Were blanketed in ash. The inland encampments
-
-Were buried deeper. The great majority of the carriers
-Of {{c|1850|D}} died in the years after {{p|Toba}}. The barriers
-
-To survival were absolute. The second-wave migrations
-Of later groups, not yet arrived in these stations
-
-And settlements, would find them empty. And the lands
-Where {{c|1850|D}} had been the majority would be taken by the hands
-
-Of later arrivals—{{c|1849|C}} and {{c|1862|F}}-descendants pushing in
-From the west, from populations that had stayed in
-
-Less-affected zones and now expanded into the vacancy.
-
-{{c|1850|D}} was almost lost.
-
-                          Almost.
-
-In three refugia, scattered across the map, against
-The odds of total extinction, small populations fenced
-
-Off from the blast, or buffered by distance,
-Or lucky in the terrain that broke the ash's persistence,
-
-Survived.
-
-          The first: the {{p|Japanese}} archipelago.
-Isolated by water from the {{p|Asian}} mainland, the blow
-Of {{p|Toba}} reached {{p|Japan}}, but not with full force.
-The ash was thinner. The winds diverged. The coarse
-
-And crude geographic luck of a long-faced island
-Set off the coast was enough to keep the slight stand
-
-Of {{c|1850|D}}-carrying people alive. They survived. They became,
-In the long later centuries, the founding strata of the name
-
-Of {{p|Japan}}. Today, roughly half of {{p|Japanese}} men carry {{c|1850|D}}.
-Half. Of an entire national population. The freely
-
-Inherited patrilineal record of the first wave,
-Preserved in the islands, carried down through the long save
-
-And keeping of the {{p|Japanese}} insular line, for tens
-Of thousands of years. The depth of {{c|1850|D}} in {{p|Japan}} transcends
-
-Any later cultural overlay. The {{p|Ainu}} have {{c|1850|D}}.
-The {{p|Yamato}} have {{c|1850|D}}. The whole of the archipelago, gently
-
-But firmly, is the seed-vault of the first southern migration.
-
-The second refugium: the high plateau of {{p|Tibet}}.
-Elevated. Cold. Ash-resistant because the jet
-
-Of the ash-plume moved south and east, not north.
-The {{p|Tibetan}} plateau, already inhospitable, put forth
-
-Its strange resilience: the people who had reached it
-Before {{p|Toba}} stayed. The altitude they'd borne, its piquant
-
-Difficulty, was now their salvation. {{c|1850|D}} persisted in {{p|Tibet}}.
-Today, {{p|Tibetan}} men carry {{c|1850|D}} at rates that echo the fit
-
-Of the pre-{{p|Toba}} distribution. The plateau preserved
-The lineage. The hard land took what the easier lands served
-
-Up to disaster, and held it across the millennia.
-
-And the third refugium: the {{p|Andaman Islands}}.
-
-                                                    A tiny
-Scatter of islands in the {{p|Bay of Bengal}}, between {{p|India}}
-And {{p|Myanmar}}, isolated, small, with no infinity
-Of land to spare—but also, crucially, too far away
-
-From the {{p|Toba}} plume to be smothered. The {{p|Andamanese}}—
-The {{c|1869|Jarawa}}, the {{c|1870|Onge}}, the {{c|1871|Sentinelese}}—they, these
-
-Three remaining peoples, carry {{c|1850|D}} in what may
-Be the purest form surviving. The un-diluted relay
-
-Of the first-wave migration, held in a population
-That has, until recent centuries, lived in a station
-
-Of total isolation from the rest of the human world.
-
-And there is no cultural connection between them.
-
-The {{x|Gaiad}} is emphatic on this point. It is tempting—
-It is very tempting—to look at the three surviving stem-
-
-Carriers of {{c|1850|D}} and weave a story. {{p|Japan}} and {{p|Tibet}}
-And the {{p|Andaman Islands}} share a haplogroup. Don't they exhibit,
-
-Then, some deep kinship? Some residue of the old
-{{c|1850|D}} culture? Does {{p|Japan}} carry, in its mold,
-
-Some trace of what the first-wave migrants knew,
-That {{p|Tibet}} also carries, that the {{p|Sentinelese}} cue
-
-Into as well? Is there a lost {{c|1850|D}} civilization we could
-Reconstruct if we put them together? Or should
-
-We say, more particularly, that {{p|Japan}}'s spirituality,
-Its {{p|Shinto}}, its reverence for the mountain, its locality
-
-In the islands, bears some ancient inheritance from
-The shared source?
-
-                    The {{x|Gaiad}} says: no.
-
-Stop.
-
-The story is the catastrophe. The story is not
-A hidden cultural unity. The hot
-
-And almost-total extinction of the lineage
-Is what the three survivals mean. Not an old pedigree
-
-Of civilizational inheritance. Seventy thousand years
-Is long. Languages die a thousand times in seventy thousand years.
-
-Cultures are rebuilt and rebuilt and rebuilt, from the ground
-Up, over and over. The fact that a patrilineal marker is found
-
-In three disconnected populations is a fact about
-The {{p|Y}}-chromosome alone. It tells us nothing about the shout
-
-Or silence of the culture that these men carried in their mouths
-Seventy thousand years ago, which is lost, which died with the droughts
-
-And cold years after {{p|Toba}}, and which no living person remembers.
-
-The three populations are cultural islands, each in their own embers
-
-Of their own long local development. {{p|Japan}} is {{p|Japan}}.
-{{p|Tibet}} is {{p|Tibet}}. The {{p|Andamans}} are themselves. No plan
-
-Of a buried common inheritance. The haplogroup is not
-A culture. The chromosome is not a soul. The spot
-
-And flag on the genetic map is a fact about biology.
-It is not a fact about religion, or about philosophy,
-
-Or about the story that the living members of the populations
-Tell themselves about who they are. The trepidations
-
-And fantasies of those who want to weave {{p|Shinto}}
-Into {{p|Tibetan Buddhism}} by way of the {{p|Andamanese}}—they go
-
-Into the ash of their own speculation. There is no such thread.
-The {{x|Gaiad}} is careful. The {{x|Gaiad}} does not build a bed
-
-For a myth that the evidence does not support.
-
-But the catastrophe itself, the short
-And terrible story of {{p|Toba}} and what it did
-To the first wave—that story is real, and the {{x|Gaiad}} bid
-
-To tell it.
-
-             Seventy-four thousand years ago, one volcano
-Erased, very nearly, an entire branch of humanity. The low
-
-Bottleneck that {{c|1850|D}} passed through is visible in its genes:
-The small population sizes after the eruption, the means
-
-And standard deviations of the genetic diversity
-Of modern {{c|1850|D}}-carriers, confirm that the adversity
-
-Was extreme. The lineage almost did not make it.
-
-It did make it. Three refugia. Three survivals. The lit
-And dim-lit remainder of what had been a wide
-And spreading first wave, now reduced to the tide
-
-Pools of the very lucky. And from these three survivals,
-Across the coming millennia, the slow revivals
-
-Of population, the slow rebuilding of the lineage, the long
-And patient continuation of the {{c|1850|D}}-carrying throng
-
-Into the present. {{p|Japan}} would become a country.
-{{p|Tibet}} would become a plateau-empire. The sentry
-
-Islands of the {{p|Andaman Sea}} would stay themselves, small
-And uncontacted. The {{c|1850|D}}-carriers of the world, in their call
-
-And inheritance, survived. And half of {{p|Japanese}} men
-Walk today with the same {{p|Y}} that once was the bend
-
-And backbone of a continent's first-wave population.
-
-They do not know. They go about their day. The station
-
-Of the marker in the blood is silent. It does not speak.
-It does not call. It does not ask. It is meek
-
-And lives, and lives, and lives, and lives, and lives.
-
-Somewhere in their bodies, an ancestor who survives
-
-The largest volcanic eruption of the last twenty-five
-Million years, whose own ancestors had crossed alive
-
-The {{p|Bab al-Mandab}}, whose own ancestors had walked
-Out of {{p|Africa}}, whose own ancestors had stalked
-
-Back to the origin man {{c|1834|Adam}}—is carried, unnoticed,
-Through the subway of {{p|Tokyo}}, or through the bused
-
-And commuter traffic of {{p|Sapporo}}, or over
-The trails of {{p|Kyoto}}'s old stone paths, a rover
-
-In the bloodstream of a salaryman who does not know
-That he carries the salvaged relic of the blow
-
-That nearly erased his line. He does. He does. He does.
-
-This is the shape of haplogroup {{c|1850|D}}. The buzz
-
-And quiet signal of a first wave almost erased,
-Preserved in three refugia, unbraced
-
-By cultural unity but preserved in its letters
-Nonetheless. The body remembers what the mind forgets.
-
-The {{x|Gaiad}} tells the catastrophe and the survival.
-Not the false unity. Not the romantic revival
-
-Of a common religion or shared soul. The stark
-And simple fact: a volcano, an ash-dark
-
-World, a near-extinction, and three refugia.
-That is what the {{p|Y}} remembers. That is {{c|1850|D}}'s aria.
+They came ashore at {{p|Yemen}}: wet and green
+Was {{p|Arabia}} in that {{x|Pleistocene}}.
+Thick grass; the seasonal rivers still ran;
+The land was hospitable to the plan
+
+Of a small band in search of a new home.
+They stayed; they multiplied; they came to roam
+Outward along south {{p|Asia}}'s coast, and east
+Along the shore, where choosing mattered least:
+
+The way was easier to trace than choose.
+The sea upon the right hand, theirs to use,
+The dry interior upon the left,
+The prompt of coastal food, the shells, the heft
+
+Of fish, the tide pools, and the bells and bowls
+Of mangrove swamps: such were the terms and tolls
+Of the migration. Generations' blur
+Of coast-walking; a slow and eastward stir.
+
+And early in this eastward flow, the trunk
+Of {{c|1854|CT}} split, a few thousand years, and sunk
+Already was the root from which there came
+Two clades, as daughters: {{c|1855|DE}}, {{c|1856|CF}}, the name
+
+Borne by that split. And one of the two, {{c|1855|DE}},
+Would do a thing dramatic, while the plea
+And story of the other, {{c|1856|CF}}, must stay
+Until the chapter next. For now, this way:
+
+And {{c|1855|DE}} itself divided: {{c|1850|D}} from {{c|1861|E}},
+Who would return by land one day to be
+In {{p|Africa}} again. That chapter waits.
+Today we follow {{c|1850|D}} beyond these straits.
+
+{{c|1867|Haplogroup D}} was once of widest spread
+Of all {{p|Y}}-lines on earth, and not instead
+The narrow, dry-cornered estate we see
+Assigned to it today, for {{c|1850|D}} roamed free
+
+All over {{p|Asia}}: {{c|1850|D}} was prow and fit
+Of the first wave's south route, and went with it;
+Its folk walked the {{p|Indian}} Ocean's chute
+And peopled coasts pre-{{c|1868|Dravidian}}, the root
+
+Of what is {{p|India}} today; moved on
+To {{p|Southeast Asia}}; crossed to {{p|Java}}, drawn
+Along the {{p|Indonesian}} isles; and then
+Pushed north through {{p|Myanmar}} into {{p|Thailand}}'s fen
+
+And forest, and to {{p|China}}'s southwest far
+Frontier: such was the vow and avatar
+Of early coastal drift, which carried {{c|1850|D}}
+Across a continent, from sea to sea.
+
+{{c|1850|D}} was the free and first-arriving one,
+The pioneer whose patient progress won
+The ancient lands of southern {{p|Asia}}, bare
+Of any human hand before it there.
+
+And then. Some seventy-four thousand years
+Ago, the earth's own chronicle appears
+To have recorded it. {{p|Sumatra}}, then
+Joined to the mainland by a land-bridge, when
+
+{{p|Toba}}, a mountain there, erupted. Not
+A small one; not the ordinary hot
+And cinder-coned outburst with small flow:
+{{p|Toba}} was the largest blast earth could show
+In twenty-five million years. And its throw,
+
+Three thousand cubic kilometers cast
+Of rock and ash, fell over {{p|Asia}} vast
+And shadowing the continent. It dimmed
+The sky; the sun's bright rim was blocked and trimmed
+
+For years. The temperature dropped fast, and all
+That had been warming felt the winter's thrall.
+Into a sudden cold, the hammer-blow
+And stun of the eruption, closing slow,
+
+Like a fist on the living systems, fell
+On south and east {{p|Asia}}. The forests' knell
+Was rung: they died. Food sources failed. The mist
+And fog of ash let nothing green subsist:
+
+Photosynthesis stopped. Through seasons whole
+Of growth, no harvest rose. And so the toll
+Fell on the settled life of those who bore
+The lineage {{c|1850|D}}: all collapsed. The core
+
+And body of the first-wave migrants, spread
+Through tens of stations, settlements that led
+{{p|Iran}} to {{p|Indonesia}}, starved and died,
+And lay in the cold pneumonia, denied
+
+The light. A sunless world. Beneath the ash
+The coastal settlements lay; and the cache
+Of inland camps lay buried deeper yet.
+Most carriers of {{c|1850|D}} had paid the debt
+
+Of death within the years that followed close
+Behind {{p|Toba}}. The barriers that rose
+To life were absolute. And groups that came
+Within the second wave would find the same
+
+Stations and settlements, but emptied, bare
+Of people. And the lands that used to wear
+And {{c|1850|D}} as their majority were seized
+By later arrivals, whose way was eased:
+
+The {{c|1849|C}} and {{c|1862|F}}-descendants, from the west
+From zones less hurt, who now expanded, pressed
+Into the vacancy left. {{c|1850|D}} was all
+But lost. Almost. In three refugia, small
+
+And scattered on the map: by sheer good hap
+Some fenced off from the blast, some in the lap
+Of distance, buffered; some by luck of ground
+Whose folds broke up the ash, survived. They found
+
+The first of these: the archipelago
+Of {{p|Japan}}, cut off by sea. Here the blow
+Of {{p|Toba}}, come from off the {{p|Asian}} shore,
+Arrived, but with no fullness in its roar.
+
+The ash was thinner there; the winds' long course
+Diverged; and crude geography's own force,
+Mere luck, of long-faced islands set offshore
+Sufficed to keep that slight stand living. For
+
+{{c|1850|D}}-bearing people there survived, and grew
+In later centuries into the new
+And founding strata of {{p|Japan}}'s own name.
+Today near half of {{p|Japanese}} men claim
+
+The marker {{c|1850|D}}: half of a nation whole.
+The father-line's inheritance, the scroll
+Of that first wave, preserved in islands, passed
+Through tens of thousands of years, holding fast.
+
+In {{p|Japan}}, {{c|1850|D}} runs deeper than the late
+Cultural overlays of any date:
+The {{p|Ainu}} have {{c|1850|D}}; the {{p|Yamato}} too;
+The whole long archipelago runs through
+
+Gently but firmly: all the island chain
+Is seed-vault of the first great southern train
+Of early migrants. Second: the plateau
+Of high {{p|Tibet}}, a refugium. Below,
+
+Little ash fell: cold, elevated, far
+From where the plume moved, for the plume's own car
+Went south and east, not north. That plateau, grim
+Already, inhospitable and slim
+
+In mercy, showed its strange resilience: those
+Who had arrived before {{p|Toba}} arose
+Remained. The altitude they had endured
+Now saved them: hardship into help matured.
+
+Rude difficulty saved them. {{c|1850|D}} lived on
+In {{p|Tibet}}; and {{p|Tibetan}} men have drawn
+That lineage at rates that echo still
+The spread before the ash. The plateau's will
+
+Preserved the line: hard land took up and kept
+What easy lands served up to ruin, slept
+With it across millennia. The third
+Refugium: the {{p|Andaman Islands}}, heard
+
+Of little: islands scattered, tiny, small,
+Set in the {{p|Bay of Bengal}}, with no tall
+Or wide infinity of land to spare,
+Between {{p|India}} and {{p|Myanmar}}; yet there
+
+They lay, and crucially, too far away
+From {{p|Toba}}'s plume to smother. To this day
+The {{p|Andamanese}} peoples, who are three,
+{{c|1869|Jarawa}}, {{c|1870|Onge}}, {{c|1871|Sentinelese}}, hold {{c|1850|D}}
+
+In what may be the purest form that stands
+Surviving: the relay of the first bands
+Undiluted, held in a folk alone
+In total isolation, on their own
+
+Until these recent centuries, they stood
+Apart from all the human neighborhood;
+No cultural link joins them: none. The point
+Is one the {{x|Gaiad}} presses: to anoint
+
+The three stem-carriers of {{c|1850|D}}, and weave
+A story out of them. Do we believe
+
+{{p|Japan}} and {{p|Tibet}} and the islands share
+One haplogroup, and so some kinship there
+Runs deep? Some residue of the old ways
+Of {{c|1850|D}}'s lost culture? Does {{p|Japan}} still raise
+
+In its own mold some trace of what they knew,
+The first-wave migrants, which {{p|Tibet}} holds too,
+Which {{c|1871|Sentinelese}} also cue into?
+A {{c|1850|D}} civilization to renew
+
+By reconstruction, setting them as one?
+Or, put more narrowly: has {{p|Japan}} spun
+Its spirituality, {{p|Shinto}} ways,
+Out of that shared source? Does it owe its praise
+
+And reverence toward the mountain, its place
+Among the islands, to an ancient trace
+Inherited from there? The answer: no.
+The {{x|Gaiad}} says: stop. Here the story's flow
+
+Catastrophe, and nothing more. It's not
+A hidden cultural unity, got
+By inheritance: the near-total loss
+Of this one line, and not of some old gloss
+
+Or some civilizational descent
+Inherited and old. See what is meant:
+Seventy thousand years is long. No tongue
+Or language lives that stretch; they die among
+
+A thousand deaths in such a span. The ground
+Sees culture built, rebuilt, rebuilt, around
+And over, over, upward from the floor.
+A father-marker found in three, no more,
+
+In three disconnected peoples, is fact
+About the {{p|Y}}-chromosome, and no pact
+Beyond it. Nothing of the shout or roar
+Or silence of their culture, which they bore
+
+Within their mouths, is told us: it is lost,
+Dead with the droughts and the cold years that crossed
+Behind {{p|Toba}}, which no soul now recalls.
+The three are cultural islands; their walls
+
+Are their own local growth, long and alone.
+{{p|Japan}} is {{p|Japan}}; {{p|Tibet}} is its own;
+The {{p|Andamans}} are theirs. No heirloom lies
+In common underneath them, and no ties.
+
+The haplogroup is not a culture; no,
+The chromosome is not a soul. The show
+And flag upon the gene-map speaks of what
+Biology can tell, and nothing but:
+
+Not of religion, nor of thought's long tree
+Of philosophy, nor of what these three
+Live peoples tell themselves of who they are.
+And so the trepidations that go far
+
+And fantasies of those who want to join
+{{p|Tibetan Buddhism}} and {{p|Shinto}}, coin
+A faith by way of {{p|Andamanese}}, go down
+Into their speculation's ash, and drown.
+
+There is no thread. The {{x|Gaiad}} keeps its care
+And builds no bed for myths that are not there
+In evidence. Catastrophe stands real,
+What {{p|Toba}} did to the first wave: the peal
+
+And short and terrible report of it
+The {{x|Gaiad}} bids us tell. So we submit:
+Some seventy-four thousand years ago
+One mountain very nearly dealt the blow
+
+That would erase a whole limb of our kind.
+The bottleneck that {{c|1850|D}} went through is signed
+Within its genes: small population size
+Behind the eruption; and what else lies
+
+The genetic diversity we see
+In {{c|1850|D}}-carriers now, and its degree
+Of means and standard deviations, all
+Confirm the hardship absolute. The fall
+
+Was near: the line almost did not win through.
+And yet it did: three refugia; it grew
+From three survivals, lit and dim, the rest
+Of a wide first wave, into tide pools pressed
+
+Of the very lucky. And from these three,
+Across millennia that were to be,
+Came slow revivals of the stock, the slow
+Rebuilding of the line, and patient flow
+
+And carrying of {{c|1850|D}}'s throng to this day.
+{{p|Japan}} became a country. {{p|Tibet}} lay
+Plateau-empire. And the sentry isles
+Of the {{p|Andaman Sea}} kept to their miles,
+
+Themselves, small and uncontacted, alone.
+The carriers of {{c|1850|D}} had held their own
+And call and legacy; they are alive.
+And half of {{p|Japanese}} men now derive
+
+The very {{p|Y}} from him that was the stay
+And backbone of a continent's array
+Of first-wave people. And they do not know.
+They go about their day. The marker's glow
+
+And station in the blood is silent, meek:
+It does not ask, nor call, nor ever speak.
+And yet it lives, and lives, and lives, and lives.
+Somewhere within their bodies, one who gives
+
+Them life survived the largest blast of earth
+In twenty-five million years; and the birth
+And line behind him crossed, those forebears who
+Came over {{p|Bab al-Mandab}} living, through
+
+Forebears who walked from {{p|Africa}} away,
+And theirs, who stalked back where the first lines lay
+In {{c|1834|Adam}}, origin man: all is borne
+Unnoticed through the subway cars each morn
+
+Of {{p|Tokyo}}; or where the busses go
+Through {{p|Sapporo}}'s commuter traffic flow,
+Or over {{p|Kyoto}}'s ancient paths of stone,
+A rover in the bloodstream, and unknown
+
+To a salaryman who cannot tell
+Of the near-wiping blow that once befell
+His line. He does. He does. He does. The hum
+And quiet buzz of haplogroup {{c|1850|D}} come
+
+Signal of a first wave that was nearly
+Erased, kept in three refugia, merely
+Unbraced by shared culture. Now forget
+Them though the mind may, letters hold them yet:
+
+The body still remembers. {{x|Gaiad}} tells
+The fall and the survival. It dispels
+False unity, and the romantic claim
+Of common faith or of a shared soul's frame.
+
+The stark and simple fact is all: one dark
+Volcano, world of ash, near-end, and mark
+And three refugia: what the {{p|Y}} retains,
+And that, the aria of {{c|1850|D}}, remains.
 
 
 # Chapter 134: The CF Split and the Unsplit C
 
-While {{c|1850|D}} was burying itself under the ash
-Of {{p|Toba}}, or finding refuge in {{p|Japan}},
-The sister clade {{c|1856|CF}} was going through the crash
-And continuation of its own slow plan.
-
-{{c|1856|CF}} had split from {{c|1855|DE}} early in the wandering—
-Within a few thousand years of the crossing, two
-Major sub-branches of {{c|1854|CT}} were pondering
-Separate trajectories, and one was called the {{c|1856|CF}} crew.
-
-Then {{c|1856|CF}} itself split. Into {{c|1849|C}} and {{c|1862|F}}.
-
-{{c|1862|F}} is the one that stays in the main story. {{c|1862|F}}
-Would spawn the {{c|1872|GHIJK}} megabranch—the whole of
-The lineages that would become, in time, every {{c|1873|G}}
-And {{c|1874|H}} and {{c|1875|I}} and {{c|1876|J}} and {{c|1877|K}} (and {{c|1878|L}}, {{c|1879|M}}, {{c|1880|N}}, {{c|1881|O}}, {{c|1882|P}}, {{c|1883|Q}}, {{c|1884|R}}, {{c|1885|S}}, {{c|1886|T}})
-Of the human family tree. {{c|1862|F}} is the generous
-Trunk from which ninety percent of non-{{p|African}}
-Men descend. Everything downstream. The ocean and the rain.
-
-{{c|1862|F}} will be covered in the coming chapters. The stain
-And signature of its descendants will take up
-The better part of the next eight or nine chapters. The cup
-
-Of {{c|1862|F}} is deep. But first, {{c|1849|C}}.
-
-                                         {{c|1887|Haplogroup C}}.
-
-Not the deepest. Not the first to split. Not the widest
-Of the modern distributions. But perhaps the strangest,
-The most geographically bewildering, the slightest
-And most puzzling of the major lineages. The largest
-
-Gap in the human migration story belongs to {{c|1849|C}}.
-
-Because {{c|1849|C}} is in two places. Two. Not scattered.
-Two. Not a handful of refugia, as {{c|1850|D}} was battered
-Into. But two populations, separated by
-A distance greater than any other haplogroup's fly
-
-And range:
-
-            {{p|Indigenous Australia}}.
-
-                                       And the {{p|Central Asian}} steppe.
-
-{{p|Australia}} was settled, in the {{x|Gaiad}}'s reading,
-Approximately fifty thousand years ago. The feeding
-Migration came from {{p|Indonesia}}, across the {{x|Wallace}}
-Line, which was, at the time, a much narrower palace
-
-Of open water than today. Sea levels were lower. The islands
-Of {{p|Sundaland}} and {{p|Sahul}} formed a near-continuous land
-Mass across what is now deep ocean. The bands
-
-That crossed into {{p|Australia}} were among the earliest
-Post-{{c|1854|CT}} migrants. They carried {{c|1849|C}}, and {{c|1849|C}} was the curliest
-
-And tangled-most of the haplogroups they carried. They arrived.
-They settled. They spread across the entire continent, and they thrived
-
-There for the next fifty thousand years. Fifty.
-Thousand. Years. The longest continuous human occupation
-
-Of any single continent on earth. The {{c|1888|Aboriginal}}
-Peoples of {{p|Australia}} are, by the measure of the operation
-
-Of their unbroken presence on the land, the oldest
-Culture on earth. Fifty thousand years of the boldest
-
-And most patient continuous adaptation to a single
-Continent. Fifty thousand years of songlines and the single-
-
-Minded knowledge of the water-holes, the migrations
-Of the kangaroo, the flowering of the banksia, the stations
-
-Of the fire-stick farming, the languages, the laws,
-The dreamings—fifty thousand years of patient causes
-
-And effects on the land and on the body and on the mind.
-
-And approximately sixty percent of {{c|1888|Aboriginal}} {{p|Australian}}
-Men carry {{c|1849|C}}. {{c|1849|C}} is the dominant patrilineal sign
-Of the continent's indigenous population. The alien
-
-And later {{p|European}} arrivals brought their own haplogroups.
-But the {{c|1849|C}} of {{p|Australia}}—the old {{c|1849|C}}, the one that scoops
-
-And gathers up the oldest story on earth—is the marker
-Of an unbroken fifty-thousand-year continuity. The starker
-
-Fact is that this same lineage—the same {{c|1849|C}}, not a closely-
-Related cousin, but the same haplogroup, precisely—
-
-Is also the dominant lineage of the {{p|Central Asian}} steppe.
-
-The {{p|Mongols}}. The {{p|Kazakhs}}. The {{p|Tuvans}}. The {{p|Buryats}}. The swept
-And windy grasslands of the heartland of {{p|Eurasia}},
-
-Where the mounted nomads would build, in much later ages, the empires
-That would change the course of history—from the {{p|Xiongnu}} to {{p|Genghis Khan}}'s pyres
-
-And conquests and the successor {{p|Golden Hordes}}—carry, at
-High frequencies, {{c|1849|C}}. The same haplogroup that sat
-
-On the {{p|Australian}} continent for fifty thousand years
-Is the one whose later descendants raise the spears
-
-Of the {{p|Mongol}} cavalry over the high grasses of the steppe.
-
-One lineage. Two places. Two completely distinct epic
-And separate cultural trajectories. The oldest continuous
-Culture on earth. And the greatest land-empire builders. The sinuous
-
-And strange fact of a single patrilineal marker
-That spans the two. How did this happen? What is the starker
-
-Mechanism behind the non-divergence? Why has {{c|1849|C}}
-Not split, in the way that every other major haplogroup freely
-
-And genetically has, into distinct regional sub-clades
-That we name and number and treat as separate cascades?
-
-The scientific answer is that {{c|1849|C}} does have internal sub-clades—
-{{c|1889|C1}}, {{c|1890|C2}}, and so on—and that the {{p|Australian}} {{c|1849|C}}
-Is largely {{c|1889|C1}}, while the steppe {{c|1849|C}} is largely {{c|1890|C2}}. There are reads
-
-Of the data that distinguish them. But at the level
-Of the haplogroup name, at the level where the gavel
-
-Of nomenclature comes down, they are still {{c|1849|C}}. They have
-Not been split into two separate haplogroups. The salve
-
-Of the distinct sub-clade designation does not quite close
-The puzzle of how closely related they are. The knows
-
-And does-not-knows of the deep genetic record here
-Produces something strange: a single name for two careers
-
-That are as divergent as any two can be.
-
-The {{x|Gaiad}} does not resolve the puzzle. The {{x|Gaiad}} lets the mystery
-
-Of {{c|1849|C}} stand. The chapter is not about a causal explanation—
-Not a catastrophe, as in {{c|1850|D}}. Not a refugium-driven preservation.
-
-{{c|1849|C}} has a different story, and the story is: we do not know.
-
-What we know is that two peoples, fifty thousand years apart in the flow
-
-Of their development on their respective continents, still carry
-The same mark in their {{p|Y}}. The oldest {{c|1891|Aborigines}}, whose tarry
-
-And unbroken knowledge of their country goes back further
-Than any other human group's unbroken relationship to a further
-
-Place, and the {{p|Mongol}} horsemen of the grasslands, whose empire
-Once stretched from the {{p|Sea of Japan}} to the {{p|Black Sea}}'s fire
-
-And cold waters. Both {{c|1849|C}}. Both carrying some ancient
-Signature of a common patrilineal ancestor, whose patient
-
-Descendants went, some of them, south, and others, north, and kept
-The marker intact across fifty thousand years, and have crept
-
-Into the chromosomes of two of the most distinctive
-Cultures on earth without either culture being distinctive
-
-Of the other, or remembering the other, or having any
-Awareness at all that the other exists. The many
-
-And disconnected branches of humanity share things
-That no living member of any culture remembers. The strings
-
-Of deep ancestry are quieter than any language.
-
-The {{p|Arnhem Land}} man, singing the songline of his range,
-Does not know about {{p|Mongolia}}. The {{p|Mongolian}} shepherd
-Does not know about the {{p|Dreaming}}. But the shepherd
-
-And the singer share an ancestor. Somewhere, deep in the past,
-A common father, whose children walked in opposite directions, the cast
-
-And shadow of whose {{p|Y}} is now held by the continent of {{p|Australia}}
-And the grasslands of central {{p|Asia}}. One man. Two continents. The failure
-
-Of the usual divergence to produce two separate names.
-
-{{c|1849|C}} is the unsplit. {{c|1849|C}} is the haplogroup that claims
-
-Two of the most distinctive human trajectories without being split
-Into two names. {{c|1849|C}} is the exception to the splitting rules. The fit
-
-And fitness of its lineage, its insistence on staying
-{{c|1849|C}} across the millennia of its carriers' laying
-
-Of tracks across two continents, is the strangeness of this chapter.
-
-There is no catastrophe here. No {{p|Toba}}. No fracture
-
-And refugium. Just a migration that went two ways, and a marker
-That didn't speciate, or didn't speciate as much as the starker
-
-And more divergent other haplogroups did. The steppe and the desert
-Continent are held together by the invisible insert
-
-Of a shared patrilineal signature.
-
-                                     And then the steppe
-Story goes its own way. The horses are domesticated. The step
-And gait of the mounted nomad emerges. The empires
-Of the steppe rise and fall and rise again, and the wires
-
-And tensions of the grassland-versus-settled-civilization
-Conflict that will define so much of {{p|Eurasian}} history's station
-
-Come into being. The {{p|Mongol}} horseman of the {{c|1892|Genghis Khan}} era
-Is still carrying, in most cases, haplogroup {{c|1849|C}}. The aura
-
-Of the patrilineal continuity stretches from the earliest
-Migrants into central {{p|Asia}} to the successor hordes of the nearest
-
-Modern descendants in {{p|Mongolia}} and {{p|Kazakhstan}} today.
-
-And the {{p|Australian}} story, meanwhile, goes its own way.
-The {{c|1888|Aboriginal}} peoples develop the most complex and sophisticated
-Non-agricultural society on earth. They become the dedicated
-
-Stewards of a continent. They never develop writing. They never
-Build cities. They never, in the sense of the builders of the clever
-
-And fortified civilizations of {{p|Mesopotamia}} or {{p|China}} or {{p|Mesoamerica}},
-"Civilize." But they produce something else, something the hysteric
-
-And superficial {{p|European}} colonizers of the eighteenth and nineteenth
-Centuries could not see: a way of being human that had deep, profound
-
-Achievement in its own register. Fifty thousand years of song.
-Fifty thousand years of painting. Fifty thousand years of the long
-
-And patient reading of the land. The {{x|Gaiad}} will not rank them
-Below the city-builders. The {{x|Gaiad}} honors them as them.
-
-And the same {{c|1893|Y}} signature, meanwhile, is being carried
-By the {{p|Mongol}} horseman whose empire will be vast and varied
-
-And who will not know that a cousin, deep in the south,
-Is holding the same mark in his body, the same mouth
-
-Of the same chromosomal inheritance. The two peoples
-Will never meet. Will never know of each other. The steeples
-
-And songs of each will be entirely its own.
-
-But in their blood, they are kin.
-
-                                    And the chapter ends there.
-
-With the strange and unresolved fact of the shared bone
-Of inheritance, the unsplit {{c|1849|C}}, and the fare
-
-And content of two completely different cultural legacies,
-Bound in silence, through the body, to each other.
-
-The haplogroup refuses to speciate. It insists on unity
-Where culture has produced total divergence. It is the mother
-
-Of two very different children, who never meet, and who
-Would not recognize each other if they did. And the clue
-
-That they are related is carried only in the chromosomal
-Ink of their bodies, unread and unreadable by the total
-
-Of their own languages and mythologies.
-
-{{c|1849|C}} is the unsplit haplogroup. {{c|1849|C}} is the long
-And patient one, the mother of the apologies
-
-That evolution never offered for failing to split
-The lineage when the distance demanded it. It
-
-Is what it is. And the {{p|Australian}} and the {{p|Mongol}}
-Are, against all reasonable expectation, still one gongoll
-
-And chime of the same ancestral sound. Their common
-Father watches them through the silence of the chromosome.
-
-And {{c|1862|F}}, meanwhile, in the next chapter, begins
-The proliferation of every other haplogroup's twins.
+While {{c|1850|D}} lay buried under {{p|Toba}}'s ash,
+Or found a refuge in {{p|Japan}}, the crash
+And slow continuation of its plan
+Went forward in the sister clade: {{c|1856|CF}} ran
+
+Early in the wandering. {{c|1856|CF}} had split
+From {{c|1855|DE}} a few thousand years past. And it
+Past the crossing, {{c|1854|CT}}'s two great branches went
+Their separate ways; and one was {{c|1856|CF}}, sent
+
+Along its road. Then {{c|1856|CF}} itself split too
+Into {{c|1849|C}} and {{c|1862|F}}, and {{c|1862|F}} we pursue
+Through the main story: {{c|1862|F}} would come to spawn
+The great {{c|1872|GHIJK}} megabranch: from it was drawn
+
+In time, the {{c|1873|G}}, the {{c|1874|H}}, the {{c|1875|I}} took name,
+The {{c|1876|J}}, the {{c|1877|K}}; and from the very same
+Trunk, {{c|1878|L}} and {{c|1879|M}} and {{c|1880|N}} and {{c|1881|O}} would rise,
+With {{c|1882|P}} and {{c|1883|Q}} and {{c|1884|R}} and {{c|1885|S}}: likewise
+
+The {{c|1886|T}}. All these the human tree would bear,
+For {{c|1862|F}} is the generous trunk, the heir
+Of ninety out of every hundred men
+Not {{p|African}}: all downstream, all that then
+
+Became the ocean and the rain. Its course
+The coming chapters follow at their source:
+{{c|1862|F}}'s signature and stain will take the best
+Of eight or nine to come. But first, the rest
+
+Is {{c|1849|C}}. {{c|1862|F}}'s cup is deep, but first we see
+{{c|1887|Haplogroup C}}, and what it came to be:
+Not deepest, nor the first of all to split,
+Nor widest in the modern spread and fit
+
+Perhaps the strangest, puzzling us the most
+In its geography of all the host
+Among haplogroups. And the largest gap
+In our migration story is its map.
+
+For {{c|1849|C}} is in two places. Two. Not strewn
+In many refugia, as {{c|1850|D}} was hewn
+And battered into: two, no more than two,
+Two peoples parted by a space none knew
+
+In any other haplogroup: between
+{{p|Indigenous Australia}}, and the green
+And {{p|Central Asian}} steppe. The {{x|Gaiad}} reads
+{{p|Australia}} settled, as the record leads,
+
+Some fifty thousand years ago. The flow
+Came from {{p|Indonesia}}, and had to go
+Across the {{x|Wallace}} Line, then narrow sea,
+Much less than now: the sea stood low, and free
+
+Of water, {{p|Sundaland}} and {{p|Sahul}} made
+Near-continuous land, where now is laid
+Deep ocean. And the bands that crossed were some
+Of the earliest post-{{c|1854|CT}} folk to come.
+
+They carried {{c|1849|C}}, the curliest and the most
+Tangled of all their haplogroups. The coast
+Received them. They arrived, and settled in,
+And spread through all the continent; their kin
+
+Then thrived there fifty thousand years. The span
+Is longest of all tenures held by man
+On any single continent on earth:
+Unbroken presence, measured from its birth.
+
+{{c|1888|Aboriginal}} peoples of that land
+Are oldest culture earth has, and they stand
+On fifty thousand years of patient care,
+Adapting to one continent; and there,
+
+Of songline, and the single-minded lore
+Of water-holes, and all the seasons bore:
+The kangaroo's migrations, and the day
+Of banksia in flower; the ordered way
+
+The fire-stick farming and its stations; laws;
+The languages; the dreamings; and the cause
+And effect, patient, working on the land,
+The body and the mind, for ages spanned.
+
+Some sixty in a hundred of their men
+Hold {{c|1849|C}}: the dominant male sign. And then
+The later {{p|European}} comers bore
+Their own haplogroups to that ancient shore;
+
+But {{p|Australia}}'s old {{c|1849|C}}, the one that takes
+And gathers up earth's oldest tale, and makes
+A marker of unbroken years stands plain;
+And starker yet, the selfsame line again
+
+In {{p|Central Asia}} dominates: not kin
+Nor cousin, but the same {{c|1849|C}} that had been
+Laid out across the steppe, and it is whole:
+The {{p|Mongols}}, {{p|Kazakhs}}, {{p|Tuvans}}, on the roll
+
+With {{p|Buryats}} too: the windy grasslands swept
+Of {{p|Eurasia}}'s own heartland, where there stepped
+The mounted nomads who in later days
+Would build the empires, changing all ways
+
+Of history's course: from {{p|Xiongnu}} to the fires
+Of {{c|1892|Genghis Khan}}'s conquests, and the pyres
+And {{p|Golden Hordes}} that followed: all of them
+Hold {{c|1849|C}} at high frequencies: the one stem
+
+That sat in {{p|Australia}} all these long years
+Is that whose later children raise the spears
+Of {{p|Mongol}} cavalry above the grass
+Of the high steppe. Two places, in one class,
+
+Two trajectories wholly separate:
+The oldest living culture, and the great
+Land-empire builders. One mark that spans
+The two of them. How did it come? What plans
+
+Or mechanism lies behind this one
+Non-divergence? Why has {{c|1849|C}} not undone
+Itself in regional clades, as all
+The others did, which we name, number, call
+
+And treat as separate cascades? We are told
+That {{c|1849|C}} has its own sub-clades, and old:
+{{c|1889|C1}} and {{c|1890|C2}}, and more have been named,
+And so {{p|Australia}}'s {{c|1849|C}} is largely framed
+
+As {{c|1889|C1}}, the steppe's as {{c|1890|C2}}; and reads
+Of data split them; but the naming needs
+But where the gavel of the naming falls,
+They are still {{c|1849|C}}, and bear one name that calls;
+
+They are not split in two; nor can we solve
+By sub-clade names the question, nor dissolve
+The puzzle of how close these two may be.
+The knowns and unknowns in the gene's decree
+
+Make something strange: one name for two careers
+As divergent as any pair appears.
+The {{x|Gaiad}} does not solve it. Let it stand,
+The mystery of {{c|1849|C}}: no cause is planned
+
+No catastrophe, as in {{c|1850|D}}; no stay
+Of refugium-preserving; just the way
+{{c|1849|C}}'s story differs, and its words are these:
+We do not know; and knowledge finds no keys.
+
+We know this much: two peoples bear the same
+Mark in their {{p|Y}}, though fifty thousand came
+And went between their growths: the oldest folk,
+{{c|1891|Aborigines}}, whose lore never broke
+
+Across their country's long unbroken day,
+Deeper than any other folk can lay
+Toward a single place; and, to the north,
+The {{p|Mongol}} horsemen of the grass went forth,
+
+Whose empire reached, in its greatest day,
+From {{p|Sea of Japan}} to the {{p|Black Sea}}: they
+Were both of them the {{c|1849|C}}, and both did bear
+One ancient father's signature to share,
+
+Whose patient children parted, some to ride
+North, some to walk south; and the mark would bide
+Intact for fifty thousand years, and creep
+Into two cultures that would never keep
+
+Within two of the most distinctive ways
+Of living earth has known, yet all their days
+Neither has marked the other, or been shown
+That any other was: unmet, unknown.
+
+The disconnected branches of our kind
+Share what no living member calls to mind.
+More quiet than a language are the strings
+Of deep ancestry: silent, deep-down things.
+
+The {{p|Arnhem Land}} man, singing out his range,
+Knows no {{p|Mongolia}}. And in exchange,
+The {{p|Mongolian}} shepherd does not know
+The {{p|Dreaming}}. Yet one father, long ago,
+
+Belongs to both of them: deep in the past
+A common father whose two children cast
+Their steps in opposite directions. Now
+His {{p|Y}}'s long shadow lies on both: the brow
+
+Upon {{p|Australia}}'s continent, and on
+The central {{p|Asian}} grass. One man. Then gone
+Two continents, and no divergence came
+To split the line into a second name.
+
+{{c|1849|C}} is the unsplit. {{c|1849|C}} is what can claim
+Two of the most distinctive roads, the same
+In name though not in story: the one case
+Where splitting rules did not hold to their place.
+
+No catastrophe here; no {{p|Toba}}; no
+Fracture nor refugium here; just the flow
+Of a migration going two ways, and
+A marker that would not divide its strand,
+
+Or not as much as others did. They stand,
+The steppe and desert continent, one band,
+Together by a shared and unseen sign
+Of fathers, one patrilineal line.
+
+And then the steppe goes on its way: the horse
+Is tamed; the mounted nomad finds his course
+And gait; empires of the grass arise
+And fall and rise again before all eyes,
+
+And all the tension of the grassland set
+Against the settled towns is born, and yet
+Will shape so much of all {{p|Eurasian}} ground;
+And {{c|1892|Genghis Khan}}'s own horsemen still are found
+
+To carry, mostly, {{c|1849|C}}. That line runs through
+From the first migrants there, to hordes anew
+That followed them, and down to those who dwell
+In {{p|Mongolia}}, {{p|Kazakhstan}}, as well.
+
+And so {{p|Australia}}'s story goes its way:
+{{c|1888|Aboriginal}} peoples build, and stay
+The most complex, sophisticated plan
+Of non-farming society of man
+
+On earth. They were the stewards of a land
+Entire. No writing came, nor the grand
+And walled-in city; never built, as those
+{{p|Mesopotamia}} or {{p|China}} rose,
+
+Or {{p|Mesoamerica}}, a fortified
+Civilization rose; they never tried
+To "civilize"; they made a thing wherein
+No shallow colonizer, who had been
+
+Born in the eighteenth and nineteenth, could see
+At all: a way of being human, free,
+With its own deep achievement, and its own
+Peculiar register of time and tone.
+
+In song were fifty thousand years; and too
+In painting fifty thousand; and the view
+And patient reading of the land as long.
+{{x|Gaiad}} will not rank them below the throng
+
+Of city-builders. {{x|Gaiad}} honors them
+As them. And all the while, from stem to stem,
+The same {{c|1893|Y}} mark is carried, mile on mile,
+By {{p|Mongol}} horsemen, in their nomad style:
+
+Vast, varied; and the horseman never knows
+That south, far off, a cousin also shows
+The selfsame mark within his body's frame,
+The chromosomal gift, the selfsame name.
+
+These two will never meet, nor ever know;
+Their steeples and their songs will each be so
+Entirely each its own. Yet they are kin
+Within the blood; and so the chapter's been
+
+Here only. So it ends, and so it leaves
+The strange unsettled fact: one blood that weaves
+One shared bone of inheritance, the {{c|1849|C}}
+Unsplit, and two whole legacies set free
+
+In silence, bound together through the frame
+And body, each to each, without a name
+For what they share. The haplogroup declines
+To speciate; it keeps to one set of lines
+
+Where culture has produced divergence whole.
+It keeps a unity; it plays the role
+Of mother to two children. If the two
+Had met, they would not know each other. Through
+
+The chromosomal ink alone they bear
+The clue of kinship, lying hidden there,
+Unread, unreadable by all the sum
+Of their own tongues and myths, which must stay dumb.
+
+{{c|1849|C}} is the unsplit haplogroup, the long
+And patient one; the mother of the wrong
+Apologies that evolution owed
+And never paid, for keeping one broad road
+
+Though distance called for two. It is, and stays
+Just what it is: and so, in these late days
+{{p|Australian}} and the {{p|Mongol}} share one sound,
+One chime ancestral, past all reason, bound.
+
+Their common father watches them, and keeps
+His silence in the chromosome, which sleeps.
+Meanwhile, in the next chapter, {{c|1862|F}} will start
+Each other haplogroup's twin counterpart.
 
 
 # Chapter 135: I — The Old Europe Hunters
 
-After {{c|1862|F}} emerged from the {{c|1856|CF}} split, {{c|1862|F}} did
-What {{c|1854|CT}} had done before it: {{c|1862|F}} branched. And branched.
-Again. And again. The great generative grid
-Of the human genealogical tree branched and stanched
+When {{c|1862|F}} emerged from the {{c|1856|CF}} split, it did
+What {{c|1854|CT}} had done before: it branched, amid
+The generations, branched, and branched again;
+The generative grid of tree and men,
 
-And continued to branch, at every generation,
-As the migrating peoples spread further east and north
-And west across {{p|Eurasia}}. Within a few thousand
-Years of the {{c|1856|CF}} split, {{c|1862|F}} had put forth
+The human genealogy, was stanched
+And then continued, and at each turn branched,
+At every generation, as the spread
+Of migrant peoples east and northward led,
 
-Several major sub-clades. One of them was called
-{{c|1894|IJK}}. And within {{c|1894|IJK}}, the next split was {{c|1895|IJ}}
-Versus {{c|1877|K}}. And within {{c|1895|IJ}}, the split was {{c|1875|I}} versus {{c|1876|J}}.
+And westward, over {{p|Eurasia}}. Within
+A few thousand years of the split, the kin
+From {{c|1862|F}} came clades; one of them was named
+And {{c|1894|IJK}} it was, and so it stays proclaimed.
 
-It is the {{c|1875|I}} we follow today.
+Within it came the split of {{c|1895|IJ}} and {{c|1877|K}};
+And in {{c|1895|IJ}}, {{c|1875|I}} against the {{c|1876|J}}. Today
+We follow {{c|1875|I}} alone: {{c|1896|Haplogroup I}},
+The line that walked to {{p|Europe}} first; not by
 
-                                   {{c|1896|Haplogroup I}}.
+The first of human kind: for long the ground
+{{c|1897|Neanderthals}}' who held it, and were found
+For hundreds of millennia; the first
+Wave of {{p|Homo sapiens}} there, immersed
 
-The lineage that walked into {{p|Europe}} first. Not the first
-Human beings in {{p|Europe}}—the {{c|1897|Neanderthals}} had held the ground
-For hundreds of thousands of years, and the first wave of {{p|Homo sapiens}}
-Had already been in {{p|Europe}} for a while, walking around
+A while already, walking round the holds
+By {{c|1833|Neanderthal}} strongholds, as it folds
+Three ways: they interbred; at times they vied
+In competition; and at times beside
 
-The {{c|1833|Neanderthal}} strongholds, sometimes interbreeding,
-Sometimes competing, sometimes simply coexisting. But {{c|1875|I}}
-Is the lineage that settled. {{c|1875|I}} is the haplogroup that, feeding
-On the reindeer and the mammoth, stayed, and did not try
+Each other simply coexisted. {{c|1875|I}}
+Is the line that settled, and did not fly
+Back home: the haplogroup that, feeding on
+The reindeer and the mammoth, stayed thereon
 
-To turn back. {{c|1875|I}} is the {{p|European}} hunter-gatherer. {{c|1875|I}}
-Is the one who painted at {{p|Lascaux}}, and at {{p|Altamira}},
-And at {{p|Chauvet}}—or at least, is a good candidate for the who
-Of those long and profound cave-painting epochs. The tiara
+And did not turn again. This ancient line
+Is {{p|Europe}}'s hunter-gatherer; the sign
+Of him who painted at {{p|Lascaux}}, and at
+{{p|Altamira}} and at {{p|Chauvet}} — or that
 
-And crown of the hunter-gatherer culture of {{p|Europe}} sat
-On the {{c|1875|I}}-carrying heads.
+At least a candidate, and good, for who
+Who made the long cave-painting epochs too.
+Tiara and crown of the hunting ways
+And culture of {{p|Europe}} sat, in those days,
 
-                                {{c|1875|I}} was there when the ice
-Sheets covered most of the continent. {{c|1875|I}} survived the bat-
-Tle of the glacial maximum, the terrible vice
+On {{c|1875|I}}-bearing heads. {{c|1875|I}} was there when ice
+Sheets covered the whole continent: the vice
+And glacial maximum, that battle, and
+The vice of twenty thousand years, it spanned
 
-Of the twenty-thousand-years-ago deep freeze, by retreating
-Into the southern refugia: {{p|Iberia}}, the {{p|Italian peninsula}},
-The {{p|Balkans}}. There, in the ice-age pocket of the meeting
-Of the milder southern climates, the population clinical-
+It went south to {{p|Iberia}}, and lay
+In {{p|Italy}}'s peninsula, and they
+The {{p|Balkans}} also held them: pockets where
+The milder southern climates met the air
 
-Ly bottlenecked and survived. And when the ice retreated,
-{{c|1875|I}} came back out and repopulated the continent. The streaming
-Northward migration of the {{c|1875|I}}-carrying hunters, the completed
-Occupation of the post-glacial {{p|Europe}}, is the dreaming
+Of ice: and there the population thinned
+To a bottleneck, survived, and was pinned
+Until the ice drew back. Then {{c|1875|I}} came out
+And peopled the whole continent about.
 
-Of the old {{p|European}} lineage. This is the continent
-Before agriculture. Before cities. Before the written word.
-Before {{c|1898|Stonehenge}}. Before the {{c|1899|Indo-European}} languages consent
-To enter the continent—all of that is later. The deferred
+Northward the hunters streamed; and all the land
+Post-glacial was completed by their hand:
+That is the dreaming of the old-world line
+Of {{p|Europe}}. Here the continent's design
 
-And patient hunter-gatherer life, which {{c|1875|I}} embodies, runs
-For thousands of years before any of that arrives.
+Is before farming; before cities; ere
+The written word; before {{c|1898|Stonehenge}} stood there;
+Ere {{c|1899|Indo-European}} tongues consent
+To enter: all of that is later. Bent
 
-{{c|1875|I}} is the continent's first settled sons.
-{{c|1875|I}} is the landscape's oldest and most patient archives.
+On patience, hunter-gatherer life ran
+For thousands of years before it began.
+{{c|1875|I}} is the continent's first settled sons;
+{{c|1875|I}} is the oldest archive, which still runs
 
-And {{c|1875|I}} did not disappear.
+Most patient of the landscape's. {{c|1875|I}} did not
+Depart or disappear; nor is forgot:
+{{c|1875|I}} is still here. The {{p|Nordic}} countries hold
+High frequencies: in {{p|Sweden}}, as of old,
 
-                                  {{c|1875|I}} is still here. In
-{{p|Sweden}}, {{p|Norway}}, {{p|Denmark}}—the {{p|Nordic}} countries carry high
-Frequencies of {{c|1875|I}}. In the {{p|Balkans}}—{{p|Croatia}}, {{p|Bosnia}}, {{p|Serbia}}—the frequencies are also high. The dry
-And mountainous sub-branches of {{c|1875|I}} are scattered across
+In {{p|Norway}} and in {{p|Denmark}}; and as well
+In {{p|Croatia}} and {{p|Bosnia}} they dwell,
+In {{p|Balkan}} lands; in {{p|Serbia}} as high
+As anywhere; and sub-branches still lie
 
-The southern and northern {{p|European}} margins. {{c|1875|I}} held on
-Through the subsequent waves of migration. The {{p|Neolithic}} farmers
-Came (haplogroup {{c|1873|G}}). {{c|1875|I}} was pushed to the peripheries, but not gone.
-The {{c|1899|Indo-European}} steppe riders came (haplogroup {{c|1884|R}}). The armors
+Dry and mountainous, scattered through the whole
+Of {{p|Europe}}'s margins, north and south. The role
+Of {{c|1875|I}} was to hold on. The farmers came,
+The {{p|Neolithic}} farmers: {{c|1873|G}} their name;
 
-Of the new arrivals overlaid, but did not replace, the older
-{{c|1875|I}} populations. The old {{p|Europe}} went under the soil, but did not vanish.
-The modern {{p|European}} is a layered person—{{c|1875|I}} at the bolder
-Base, {{c|1873|G}} at the second layer, {{c|1884|R}} at the top, and the admixture
+And {{c|1875|I}} was pushed to margins, but not killed;
+Then {{c|1899|Indo-European}} riders spilled
+Across the steppe: their haplogroup was {{c|1884|R}};
+They overlaid the old, but did not mar
 
-Varies region by region. In the {{p|Balkans}}, {{c|1875|I}} is still
-Dominant. In {{p|Scandinavia}}, {{c|1875|I}} is strong. In {{p|Western Europe}},
-{{c|1875|I}} is a minority but present. In {{p|Eastern Europe}}, {{c|1875|I}} still fills
-A substantial slot. The old {{p|Europe}} lives. The hunters, the hero
+Nor yet replace the older stock, which went
+Under the soil, but did not die: it bent.
+The modern {{p|European}} is a man
+Of layers: {{c|1875|I}} the base of all the plan,
 
-And heroine figures of the pre-{{p|Neolithic}} stone age, did not end.
-They became the substrate on which later migrations laid.
-The old {{p|Europe}} is still in the {{p|European}} body. The old {{p|Europe}}'s trend
-Was to hold on. The {{x|Venus}} of {{p|Willendorf}}, the small-breasted maid
+Then {{c|1873|G}} as second layer, {{c|1884|R}} the crest,
+The admixture by region manifest:
+In {{p|Balkans}}, {{c|1875|I}} is dominant today;
+In {{p|Scandinavia}}, strong; and the way
 
-And figurine of the fertility cult, the mother-goddess figurine
-That {{c|1900|Marija Gimbutas}} identified with the pre-IE culture of the continent,
-Was likely made by the hands of the {{c|1875|I}}-carrying hunter-gatherers. The seen
-And carried iconography of the pre-agricultural old {{p|Europe}}, the ancient
+Of {{p|Western Europe}}, minor, but still there;
+In {{p|Eastern Europe}}, {{c|1875|I}} still holds a share
+Substantial. So old {{p|Europe}} lives: the men
+And women, hero figures, hunters then
 
-Religion of the cave-paintings and the small goddess figurines,
-Sits in the register of the {{c|1875|I}} haplogroup.
+Of the pre-{{p|Neolithic}} stone age, stayed;
+They were the substrate on which others laid
+Their later waves. Old {{p|Europe}} still remains
+Within the body, and its trend sustains
 
-And when the farmers came, {{c|1875|I}} did not simply die out. {{c|1875|I}} retreated
-Into the mountains, into the forests, into the fishing villages of the
-Coastlines that the farmers did not want. The hunter-gatherer lifeways continued
-In the peripheries while the farming villages spread across the plains. The
+A holding on. The {{x|Venus}} shaped and small
+Of {{p|Willendorf}}, that figurine, the call
+And mother-goddess of the fertile rite,
+Which {{c|1900|Marija Gimbutas}} brought to light
 
-Adaptation was gradual and long. In some places, {{c|1875|I}} fully adopted agriculture
-And stayed put as the land changed uses. In others, {{c|1875|I}} remained hunter-
-Gatherer for thousands of years longer. The {{p|Mesolithic}} peoples of the fixture
-And holding pockets of {{p|Europe}} kept the hunting way alive long after the blunter
+And tied to pre-IE culture of the land,
+Was likely made by {{c|1875|I}}-carrying hand
+Of hunter-gatherers. The seen and known
+Iconography of a world not sown
 
-And more dominant {{p|Neolithic}} had taken the fields. The {{p|Scandinavian}}
-Hunter-gatherers were still {{c|1875|I}} at the time the {{p|Yamnaya}} arrived.
+Before the plow: the ancient faith that sat
+In cave-paint and in figurine: all that
+Sits in the register of {{c|1875|I}}. And when
+The farmers came, {{c|1875|I}} did not die out then:
 
-The hunter-lineage was tenacious. It was the deep {{p|European}}
-Substrate, the one that had survived the ice age and had contrived
+{{c|1875|I}} went into the mountains and the wood,
+The fishing villages the farmers would
+Not want along the coast. The hunting way
+Went on at the peripheries, while they,
 
-To survive the agricultural revolution and even the steppe invasion,
-Though it was displaced from dominance by the time these waves finished.
+The farming villages, spread on the plains.
+The change was slow and long, and took its pains:
+In some lands {{c|1875|I}} took farming up, and stayed
+As all the uses of the land were swayed;
 
-But it is still here. {{c|1875|I}} is still here. The {{p|Nordic}} basin,
-{{p|Croatian}} villages, the {{p|Sardinian}} highlanders—all still carry {{c|1875|I}}. The sun
-Still rises on descendants of the hunter-gatherers of the old {{p|Europe}}. The plan
+Elsewhere the hunting lasted ages more:
+The {{p|Mesolithic}} peoples held that door
+In pockets where it held; the hunting kept
+Its way alive, long after there had stepped
 
-And inheritance of the {{p|Magdalenian}} and {{p|Gravettian}} cultures, the {{x|Aurignacian}}
-Paintings at {{p|Chauvet}}, the {{c|1901|Gravettian}} figurines—these are still
-Carried in the blood of certain {{p|European}} populations. The ancient
+Blunt {{p|Neolithic}} with the fields in hand;
+{{p|Scandinavian}} hunters still would stand
+As {{c|1875|I}} when the {{p|Yamnaya}} came. The line
+Was tenacious; the deep substrate design
 
-Is still living. The old {{p|Europe}} has not ended. The hunting-and-gathering fulfilment
-Has been converted, under pressure, into farming-and-herding, into city-building,
-Into modernity—but the {{c|1893|Y}}-chromosomal signature of the first settled populations
-Of the continent remains intact in the bodies of many millions of modern {{p|Europeans}}. The thrilling
+Had lived the ice age through, and had contrived
+To last the farming change, and then survived
+The steppe invasion too, although displaced
+From dominance by then, and much erased.
 
-And patient continuity of {{c|1875|I}} across thirty or forty thousand years
-Of habitation in the same continent is the longest relationship between a people
-And a land in the {{p|European}} story. The {{p|French}} are new. The {{p|Germans}} are new. The {{p|Romans}} were new.
-The {{c|1875|I}}-carrying {{p|European}} is old. The steeple
+But it is here. The {{p|Nordic}} basin; still
+{{p|Croatian}} villages; and on the hill
+{{p|Sardinian}} highlanders still bear the sun
+That rises on the hunters' sons, each one
 
-Of the oldest {{p|European}}'s presence is the deepest in the cathedral
-Of the {{p|European}} body.
+Descended from the hunters of that land.
+The {{p|Magdalenian}} heritage at hand,
+{{p|Gravettian}} culture, and the paintings made
+{{x|Aurignacian}}, at {{p|Chauvet}}, in the shade
 
-                            The chapter honors them.
+Of stone; and the {{c|1901|Gravettian}} figurines:
+All these are carried still in certain genes
+Of certain {{p|European}} folk. The old
+Is living yet; old {{p|Europe}} has not tolled
 
-The old {{p|Europeans}}. The first hunters. The painters of the cathedral
-Of {{p|Lascaux}}, the makers of the {{x|Venus}} figurines, the dem
+Its final hour. Fulfilment in the chase
+Was turned, by pressure, to another place:
+To farming, herding, cities, and at last
+Modernity. But still, from all that past,
 
-And defiant survivors of the glacial maximum, the patient re-
-Occupiers of the post-ice continent, the substrate under every-
-Thing that came later.
+The {{c|1893|Y}}-chromosomal mark of the first
+Settled the continent is not dispersed
+But whole in many millions living now.
+The patient continuity, somehow,
 
-                        {{c|1896|Haplogroup I}} is the ID card
-Of old {{p|Europe}}. The hunter-gatherer's long patient regard
+Of {{c|1875|I}} across some thirty thousand years,
+Or forty, in one continent, appears
+The longest tie between a folk and land
+In all the {{p|European}} tale. They stand
 
-Toward the land he lived on. The deep relationship to the
-Forest and the river and the cave. The animism of the deep
-{{p|European}} past.
+New, all of them: the {{p|French}}, the {{p|Germans}} new,
+The {{p|Romans}} new; the deepest, oldest view
+Belongs to {{c|1875|I}}: the oldest presence there
+Is deepest in the body's house of prayer.
 
-                    And when, in a few chapters, we come to
-The {{c|1902|Cucuteni-Trypillia}} civilization, which was partly the sleep
+This chapter honors them: the first to hunt
+In all old {{p|Europe}}; they who bore the brunt
+Of glacial maximum and did not break;
+The painters of the {{p|Lascaux}} cave; and make
 
-And continuation of the pre-{{p|Neolithic}} hunter-gatherer traditions
-Into a semi-settled form, we will see {{c|1875|I}} again. {{c|1902|Cucuteni-Trypillia}}
-Was the old {{p|Europe}}'s answer to the farming revolution. Its positions
-And paintings and cities, built of wood and clay, its pervasive
+Of them the makers of the {{x|Venus}} forms,
+Defiant, who outlived the glacial storms,
+Patient re-occupiers of the land
+Post-ice, the substrate under all that spanned
 
-Female iconography, its peaceful and apparently un-hierarchical
-Society—these were the old {{p|Europe}}'s elaboration of what the farmers
-Had offered, made in the key of the old {{p|Europe}}'s own magical
-Register. And the {{p|Yamnaya}}, when they came, would be the harmers
+Later ages. {{c|1896|Haplogroup I}}: the card
+Of old {{p|Europe}}'s ID; the long regard,
+The hunter's patient look upon the ground
+He lived on; the deep kinship that he found
 
-Of this particular flowering. But we are not there yet.
+With forest and with river and with cave,
+The animism that the deep past gave.
+And when, in chapters hence, we reach the sleep
+The carrying-on of old ways, we keep
 
-For now, {{c|1875|I}}. The old {{p|Europe}}. The hunter. The mother-
-Goddess carver. The cave-painter. The survivor of the ice's threat
-And retreat. The patient background lineage. The brother
+Pre-{{p|Neolithic}} hunting ways again
+In half-settled form: {{c|1875|I}} shows there, and then
+{{c|1902|Cucuteni-Trypillia}}, the old
+Reply that {{p|Europe}} gave, as we are told,
 
-And sister and uncle of every {{p|European}} who still
-Carries the ancient signature. The old {{c|1893|Y}}. The old land.
-The one who was here before. The hold of the will
-To endure. The keeping hand.
+In wood and clay: its towns, its painted walls,
+Its female iconography, which calls
+Pervasive; and its peaceful order, free
+Of hierarchy, as it seems to be:
 
-                               {{c|1896|Haplogroup I}}. {{p|Old Europe}}.
+These were old {{p|Europe}}'s working out of all
+The farmers offered, in old {{p|Europe}}'s call
+From its own magic register. And then
+{{p|Yamnaya}} came and harmed that flower, when
 
-The rest of the continent's story is layered on top. But {{c|1875|I}}
-Is the bottom. And the bottom, in a continent, is what the top
-Descends into when the top has finished. The high
-And visible layers come and go. The bottom does not stop.
+Their time arrived. But we are not there yet.
+For now, the old {{p|Europe}}: the hunter's net,
+The mother-goddess carver, and the one
+Who painted caves; who saw the ice begun
 
-The cave is still in the limestone. The painting is still on the wall.
-The goddess is still in the ochre. And the {{p|Y}} is still in the men of the north,
-Men of the {{p|Balkans}}, men of {{p|Sardinia}}, whose bodies carry the call
-Of the deep {{p|European}} past, whose own mothers' great-great-grandfathers set forth
+And gone again; the patient background line;
+The brother, sister, uncle, of the sign
+In every {{p|European}} who still bears
+That ancient mark: the old {{c|1893|Y}}, and its heirs
 
-To the ice-age cave to paint the horse and the bison and the bull.
+Of the old land; the one who came before;
+The hold of will to last; the hand that bore
+And kept: {{c|1896|Haplogroup I}}, {{p|Old Europe}}. Rest
+The continent's whole tale is layered, pressed
 
-The continent remembers. The haplogroup is the memory. The full
-And patient continuity of {{c|1875|I}} is the body's longest word.
+On top. But {{c|1875|I}} is still the bottom, and
+The bottom is where tops descend to stand
+When they have finished. Layers that are high
+And visible will come and go, and die.
+
+The bottom does not stop. The cave remains
+Within the limestone; and the paint retains
+Its place upon the wall; the goddess still
+Is in the ochre; and the {{p|Y}} will fill
+
+The men of {{p|Balkans}} and the men of north,
+And {{p|Sardinia}}'s men, whose blood sets forth
+The call of {{p|Europe}}'s deepest past, whose own
+Great-great-grandfathers of their mothers, grown
+
+In ice-age light, went to the cave to trace
+The horse, the bison, and the bull's own face.
+The continent remembers all of it.
+The haplogroup is memory, and writ
+
+In patient continuity, the {{c|1875|I}}:
+The body's longest word, and does not die.
 
 
 # Chapter 136: G Builds the Neolithic
 
-While {{c|1875|I}} hunted reindeer across the {{p|European}} plain,
-Another branch of {{c|1862|F}}'s great proliferating line
-Was, in the {{p|Fertile Crescent}}, changing the game.
-Not running. Not walking. Not following the sign
+While {{c|1875|I}} still hunted reindeer on the plain
+Of {{p|Europe}}, {{c|1862|F}}'s proliferating chain
+Had set another branch to change the game
+In the {{p|Fertile Crescent}}, and not the same
 
-Of any herd. Planting. Harvesting. Storing
-Grain in pits. Grinding wheat between two stones. The mode
-Of humanity was being remade—the boring
-Old script of the nomad, the hunter, the strode
+Old running, walking, following the sign
+Of any herd: but planting, row and line;
+And harvesting; and storing grain in pits;
+And grinding wheat between two stones. It fits
 
-And loping forager, was being replaced
-By something almost inconceivable: the stay.
+A whole remaking of the human mode:
+The old script of the nomad, who had strode
+The loping forager was set aside
+For something scarce conceivable: to bide.
+
 The choice to stay. The choice to not be chased
-By the seasonal food. The choice to say
+By food in season. The choice, firmly placed,
+To say to the land: I will make you feed
+My mouth. I plant, and wait, and reap the seed;
 
-To the land: I will make you feed me. I will
-Plant the seed, and I will wait, and I will harvest.
-I will not leave. I will stay in this place until
-I die, and my son will stay, and the plan is vastest
+I will not leave. I stay in this one place
+Until I die; my son stays in my space;
+And that is vastest of all plans, for it
+Makes of one ground a future. Thus was writ
 
-Because it makes a future of the same ground.
+{{p|Neolithic}} Revolution. The {{p|Y}}
+That walked beside the farmers, by and by,
+Was found, consistently, to be the one
+{{c|1903|Haplogroup G}}, the farmer's line, begun
 
-This was the {{p|Neolithic}} Revolution. And the {{p|Y}}
-That went with it, that walked with the farmers, was found
-To be, very consistently, {{c|1903|Haplogroup G}}.
+In that first crescent. {{c|1873|G}} is he whose sons
+Left {{p|Fertile Crescent}} when the farming runs
+Began: with grain, with sheep and goat, they went
+To {{p|Anatolia}} and {{p|Europe}}, sent
 
-{{c|1873|G}} is the farmer haplogroup. {{c|1873|G}} is the one
-Whose descendants left the {{p|Fertile Crescent}} with the grain
-And the sheep and the goat, and walked into the sun
-Of {{p|Anatolia}} and {{p|Europe}}, carrying the chain
+With all the pattern of the new life. {{c|1873|G}}
+Marks {{p|Linear Pottery Culture}}; he
+Who was the first farm wave to reach that shore
+Of {{p|Europe}}, and the founder, at its core,
 
-And pattern of the new life with them. {{c|1873|G}} is the signature
-Of the {{p|Linear Pottery Culture}}, the first farming wave
-In {{p|Europe}}. {{c|1873|G}} is the founder of the stratigraphy structure
-Of the farmer villages of the {{p|Balkans}} and the knave
+Of farming villages whose layers lie
+In {{p|Balkan}} stratigraphy, and so high
+In {{p|Greece}}'s valleys, {{p|Italy}}'s own ground;
+And {{c|1873|G}} is in the bones that have been found
 
-And valleys of {{p|Greece}} and {{p|Italy}}. {{c|1873|G}} is in the bones
-Of {{p|Ötzi}} the {{c|1904|Iceman}}, the five-thousand-three-hundred-year-old
-Frozen body in the {{p|Alps}}, whose {{p|Y}}-chromosome tones
-Us about the fact that the farmer of the late stone cold
+Of {{p|Ötzi}}, {{c|1904|Iceman}} of the {{p|Alps}}, who lay
+Five thousand and three hundred years, they say,
+A frozen body; and his {{p|Y}} makes plain
+That {{p|Alpine}} farmers of that age and grain
 
-And cold-Copper age of {{p|Alpine Europe}} was, quite securely, {{c|1873|G}}.
+Of time, the late stone and the copper days,
+Were {{c|1873|G}}, securely. Now the story stays
+Before the fields: before the grain was sown,
+Before a seed was planted, it was known
 
-And the story of {{c|1873|G}} begins before the fields. Before
-The grain. Before anyone planted anything. It begins, as far as we
-Can tell, at a place in what is now {{p|Turkey}}, where the floor
+To start, so far as we can tell, upon
+A hill in {{p|Turkey}}, where the floor has drawn
+The most astonishing of all the sites
+That digging ever found: those stony heights
 
-Of a hill carries one of the most astonishing archaeological
-Sites ever discovered: {{p|Göbekli Tepe}}.
+Of {{p|Göbekli Tepe}}: built, as years are told,
+Eleven thousand five hundred years old
+Or so: by six millennia before
+{{c|1898|Stonehenge}} was raised; and by a thousand more
 
-                                             {{p|Göbekli Tepe}}.
+Than {{p|Jericho}}'s first settled towns. And they
+Who built it were not farmers in that day,
+Not settled, not the grain-storing and mild
+Villagers they would be: they were the wild
 
-Built around eleven thousand five hundred years ago. Old.
-Older than {{c|1898|Stonehenge}} by six thousand years. Older than the bold
-And settled towns of {{p|Jericho}} by a thousand. Built by people
+Wandering hunter-gatherers, whose hands
+Had no precedent for such work: it stands
+A ring of great T-shaped pillars of stone,
+Some over five meters, of tons, full-grown
 
-Who were not yet farmers, not yet settled, not yet the peaceful
-And grain-storing villagers they would become in the millennia
-After. Built by hunter-gatherers. Built with the niche
+And carved with animals: with foxes, boars
+Of vultures, snakes and scorpions. Their doors
+Were none: in circles, like a temple, set,
+But not a settled people's temple yet:
 
-And awkward hands of people who had no precedent for building
-Anything of this scale. A complex of enormous T-shaped stone pillars,
-Some over five meters tall, weighing tons, carved with animals—foxes, gilding
-Scorpions, snakes, vultures, wild boars—arranged in circles, like the pillars
+A temple raised by hunters, for a cause
+We do not understand; and by what laws
+In a place no one dwelt; the grassland's edge,
+And ample, undramatic: yet they pledge
 
-Of a temple. But not a temple of a settled people. A temple
-Built by hunter-gatherers for reasons we do not understand,
-In a place where no one lived, visited periodically, at the ample
-But undramatic edge of a grassland, which generations upon generations planned
+Whole generations to return, to add,
+And to elaborate what they had had,
+Two thousand years of it. It was no town,
+No dwelling-place: a ritual renown,
 
-To return to, to add to, to elaborate, over a period of two thousand years.
+A center where the scattered bands would meet
+From all the region, making it complete
+Together, whatsoever it might be.
+And since they had to gather, and to see
 
-{{p|Göbekli Tepe}} was not a city. It was not a dwelling-place. It was
-A ritual center. A gathering-point. A place where hunter-gatherer bands
-Came together, from across the region, to build something together, whatever it was.
+The building through, they had to eat: the crew
+Required feeding; so the grain they grew.
+So in the {{x|Gaiad}}'s reading (which pursues
+{{c|1905|Klaus Schmidt}}'s hypothesis, and fills its clues),
 
-And because they needed to come together, repeatedly, for the building,
-They needed food. And to feed the building crews, they needed
-To grow grain. And so, in the {{x|Gaiad}}'s reading (following the filling-
-In of {{c|1905|Klaus Schmidt}}'s archaeological hypothesis), agriculture was seeded
+Farming was seeded by the temple, not
+By need, nor hunger's pressure, nor the lot
+Of climate's pressing. Einkorn first was sown,
+And emmer, for the feast-days at the stone
 
-By the temple, not by necessity, not by the pressure of hunger
-Or the pressure of the environment. The first fields of einkorn
-And emmer wheat were planted to feed the workers at the hunger
-Feast of the {{p|Göbekli Tepe}} gatherings. The grain was born
+At {{p|Göbekli Tepe}}'s gatherings. The grain
+Was born to serve the temple; and again
+The temple's need made grain a settled thing
+That stayed; and staying grain made people cling
 
-For the temple, and then the temple's demand made the grain
-Into a permanent part of the diet, and the grain's permanence
-Made the people settle, and the settlement made the plain
-And furrow of the fields, and the fields made the immanence
+To one place; settlement then made the field
+And furrow; and the fields made what they yield:
+Not grain alone, but all that followed on:
+The immanence of cities. First was drawn
 
-Of civilization.
+The temple; then the city; then the crown
+And kingdom. So religion first comes down,
+Then farming second, cities third. This reads
+Against the textbook's order, where the needs
 
-                  First the temple. Then the city. Then the kingdom.
-Religion first. Farming second. Cities third. This is the {{x|Gaiad}}'s reading,
-And it reverses the standard textbook account that makes the pragmatic
-Emergence of agriculture the first cause, and religion a later seeding.
+Of practice bring forth farming as first cause,
+Religion later. {{x|Gaiad}} answers: pause.
+No: faith was first. The people gathered round
+To build what they adored; and so they found
 
-The {{x|Gaiad}} says: no. Religion was first. People gathered to build
-Something they worshipped. And in the service of what they worshipped,
-They invented the techniques of keeping themselves fed. The filled
-And gathered gatherings of the temple-building made civilization, the scripted
+In service of that worship, how to keep
+Themselves in bread; the gatherings run deep,
+Built up our whole civilization; and
+Scripted ritual life, the priestly band
 
-And ritual life of the early proto-priest-class at {{p|Göbekli Tepe}}
-Made what came after.
+Of proto-priests there made what came to be
+All that came after. And the {{p|Y}} was {{c|1873|G}}.
+{{c|1873|G}} built {{p|Göbekli Tepe}}; and {{c|1873|G}} began
+The farming; {{c|1873|G}} it was who bore the plan
 
-                        And the {{p|Y}} that was doing this was {{c|1873|G}}.
+And wheat to {{p|Europe}}: generations, who
+From {{p|Anatolia}}, and with them drew
+The grain, the sheep, the pottery, the whole
+{{p|Neolithic}} package: that their role.
 
-{{c|1873|G}} built {{p|Göbekli Tepe}}. {{c|1873|G}} invented farming. {{c|1873|G}} carried the wheat
-Westward and northward into {{p|Anatolia}}, into {{p|Europe}}, the long
+Long-walking farmers from the crescent, they
+Took {{c|1873|G}} across the continent. Today
+And {{c|1873|G}} is in {{p|Sardinian}} men at rates
+Extraordinary: there the early gates
 
-Generations of walking farmers moving from the {{p|Fertile Crescent}}
-Outward, taking the grain and the sheep and the pottery and the sent
-And dispatched cultural package of the {{p|Neolithic}} with them.
+Of island settlement were opened wide
+To {{p|Neolithic}} farmers; and the tide
+And sea that kept {{p|Sardinia}} apart
+Preserved its {{c|1873|G}} frequencies: and a chart
 
-{{c|1873|G}} is in the {{p|Sardinians}} today at extraordinary frequencies.
-{{p|Sardinia}} was colonized early by the {{p|Neolithic}} farmers. The screening
-And holding of the island, isolated by sea, preserved the {{c|1873|G}} frequencies
+Of mainland {{p|Europe}} shows them later thinned
+When {{p|Yamnaya}} arrived, a steppe-borne wind.
+{{p|Sardinia}}: the {{p|Neolithic}} stays
+The dominant layer still; and these days,
 
-That mainland {{p|Europe}} saw diluted, later, by the arrival of the {{p|Yamnaya}}.
-In {{p|Sardinia}}, the {{p|Neolithic}} is still the dominant genetic layer.
-And the {{p|Sardinian}} men walking the hills today are, in many cases, the maya
-And heirs of the old {{p|Göbekli Tepe}} lineage. The old temple-builders, the prayer
+{{p|Sardinian}} men upon the hills are heirs
+In many cases, of those ancient prayers:
+That {{p|Göbekli Tepe}} line, the builders' own
+First priesthood of the greatest work in stone
 
-And priesthood of the first great religious-monumental culture
-Of the {{p|Near East}}, are carried in the bodies of the {{p|Sardinian}} shepherds
-Still. {{c|1873|G}} is alive. {{c|1873|G}} built what the {{x|Gaiad}} considers the sculpture
-And foundational monument of civilization, and {{c|1873|G}}'s direct descendants, the herds
+And faith the {{p|Near East}} knew, is carried still
+In shepherds' bodies, walking the same hill.
 
-And shepherds of certain {{p|Mediterranean}} islands, continue to walk the hills
-Of their grandfathers.
+{{c|1873|G}} is alive. {{c|1873|G}} built what {{x|Gaiad}} calls
+The founding monument, whose sculpted walls
+Began civilization; and his seed,
+The island shepherds, keep the herds they feed
 
-                        And there is a character to name here.
+On {{p|Mediterranean}} hills, the ways
+Their grandfathers walked. Now a name repays
+The telling here: {{c|1520|Melchizedek}}, who stands
+The {{p|priest}}-king of {{p|Salem}} in those old lands
 
-{{c|1520|Melchizedek}}. The {{p|priest}}-king of {{p|Salem}}, who greets {{c|1308|Abraham}} later in
-The biblical story. The mysterious figure who appears briefly, blesses
-{{c|1308|Abraham}}, receives a tithe, and disappears. In the standard reading
-He is a shadow, a narrative convenience. The {{x|Gaiad}} reads him differently.
+Who greets {{c|1308|Abraham}} later, blesses him,
+Receives a tithe, and vanishes. The dim
+Mysterious, and brief in his short stay,
+A mere narrative convenience, they say:
 
-{{c|1520|Melchizedek}} is the {{x|Gaiad}}'s symbolic representative of the {{p|Göbekli Tepe}}
-Priesthood. The remnant of the old temple-builders, still alive in {{c|1308|Abraham}}'s
-Day, meeting the wandering {{c|1308|Abraham}} on his journey south from {{p|Sanliurfa}}
-(Which is, by no coincidence, the city closest to {{p|Göbekli Tepe}} itself). {{c|1308|Abraham}}
+A shadow. But the {{x|Gaiad}} reads him new:
+{{c|1520|Melchizedek}} stands for the priestly crew,
+Of {{p|Göbekli Tepe}}: remnant of the old
+Those temple-builders, living still, as told
 
-Stops in {{p|Sanliurfa}} on his way from {{p|Ur}} to the {{p|Levant}}, and he meets
-{{c|1520|Melchizedek}} there. And {{c|1520|Melchizedek}}, in the {{x|Gaiad}}'s reading, is the last
-Priest of the old order of {{p|Göbekli Tepe}}. The old tall pillars had been
-Buried long before {{c|1308|Abraham}}'s day—the site was deliberately entombed, the past
+In {{c|1308|Abraham}}'s own day; who met him there
+Upon his journey south, and gave his prayer
+Out from {{p|Sanliurfa}} — which, by no mere chance,
+Is closest of all cities to the stance
 
-Preserved by burying rather than by maintaining. But the priesthood, the
-Line of those who carried the old ritual knowledge, persisted in the region.
-{{c|1520|Melchizedek}} is "{{c|1906|George Gobeklius}}" in the {{x|Gaiad}}'s nicknaming—the
-Priestly figure descended from the hands that carved the T-shaped fusion
+Of {{p|Göbekli Tepe}} itself. And he stops
+And in {{p|Sanliurfa}}, where his long road drops
+From {{p|Ur}} toward the {{p|Levant}}; and he meets
+{{c|1520|Melchizedek}} there, in those ancient streets:
 
-Of stone and animal eleven thousand years ago. {{c|1308|Abraham}} meets him, receives
-The blessing of the old priesthood, pays the tithe, and moves on. The
-Transmission of some blessing from the old {{p|Göbekli Tepe}} order to the leaves
-And branches of the new {{p|Hebrew}} story is the {{x|Gaiad}}'s quiet way of letting the
+The last priest of the {{p|Göbekli Tepe}} way.
+The tall old pillars, long before that day,
+Had all been buried: an entombing done
+On purpose: burial, not care, had won
 
-Oldest religious lineage of the region hand off to the next one.
+The keeping of the past. But still the line
+Of those who bore the old rite's whole design
+Persisted in the region. In the names
+The {{x|Gaiad}} gives, {{c|1520|Melchizedek}} lays claims
 
-But that is {{c|1308|Abraham}}'s chapter, which is later. For now, the {{c|1873|G}} lineage.
+Unto "{{c|1906|George Gobeklius}}": the priest who came
+Down from the hands that carved, and gave their frame
+To T-shaped stone and beast, in ages past
+Eleven thousand years, that hold at last.
 
-{{c|1873|G}} built {{p|Göbekli Tepe}}. {{c|1873|G}} invented farming. {{c|1873|G}} invented the stone
-Foundation of the whole {{p|Neolithic}} package that would define civilization. The fungage
+{{c|1308|Abraham}} meets him, takes the blessing, pays
+The tithe, and travels on; and so conveys
+A blessing from the old order, passed on
+To the new {{p|Hebrew}} story. So is drawn
 
-Of the {{c|1873|G}}-carrying farmer walking west and north into {{p|Europe}} is the story
-Of how agriculture arrived on the continent. The older {{c|1875|I}}-carrying hunters
-Met the incoming farmers. Sometimes they fought. Sometimes they blended. The glory
-Of the {{p|Neolithic}} did not erase the older hunters, but did reshape the counters
+The {{x|Gaiad}}'s quiet handing-off: the first
+Religious line of that whole land, long nursed,
+Gives over to the next. But that comes late,
+In {{c|1308|Abraham}}'s own chapter. {{c|1873|G}} must wait
 
-And ledgers of {{p|European}} population. The continent became a layered
-Place—{{c|1875|I}} at the base, {{c|1873|G}} at the second layer, {{c|1884|R}} at the top once the steppe
-Arrived. And the three-layer pattern is the texture of the modern {{p|European}} blade,
-Whose {{p|Y}} is a mix of the three great waves of migration. The step
+No longer here. {{c|1873|G}} built the temple; he
+Invented farming; and the whole decree
+And stone foundation of the package laid
+That would define all later life was made
 
-From hunter to farmer to steppe-rider is written in the blood.
+By him. The {{c|1873|G}}-borne farmer walking west
+And north to {{p|Europe}} is the story, pressed
+Of how the farming came to {{p|Europe}}'s shore.
+The older {{c|1875|I}}-borne hunters met, before
 
-{{c|1873|G}} is the second wave. {{c|1873|G}} is the builder. {{c|1873|G}} is the priest
-And farmer of the first religious-agricultural revolution. {{c|1873|G}} stood
-Up first of the pillars at {{p|Göbekli Tepe}} and raised the feast
+The coming farmers: sometimes there was fight
+And sometimes blending; and the farmers' might
+Did not erase the hunters, but reshaped
+The ledgers of the people. {{p|Europe}} draped
 
-Of the first great gathering-for-its-own-sake. And {{c|1873|G}} walked west
-With the grain, and settled, and settled, and settled, and the continental
-Economic life of {{p|Europe}} was permanently rewritten by the blessed
-And transformative arrival of the farmers.
+In layers, then: with {{c|1875|I}} the base below,
+And {{c|1873|G}} the second layer, and the flow
+Of {{c|1884|R}} above, once the steppe riders came.
+That three-fold pattern is the texture, frame
 
-                                             And this incidental
+And weave of modern {{p|European}} blood,
+Whose {{p|Y}} now mixes three waves in one flood:
+From hunter to the farmer to the man
+Who rode the steppe: it is a written plan.
 
-Fact—that civilization began with a temple, not with a field—
-Is the {{x|Gaiad}}'s quiet theological claim. The field served the temple.
-The god came first. The grain came afterward. The yield
-And harvest that would feed cities began as an offering of the simple
+{{c|1873|G}} is the second wave; the builder; priest
+And farmer of that first revolt; the feast
+Religious-agricultural he raised,
+Who stood the first stone pillars up, and praised
 
-Kind, laid at the foot of the stone pillar, to feed the gathered
-Hunter-gatherers who had come to worship whatever they worshipped.
-We do not know what they worshipped. We do not know what name they muttered
-Or sang. But we know they gathered, and we know they worked, and we know the crop shipped
+The first great gathering for its own sake.
+And {{c|1873|G}} walked west with grain; and in its wake
+He settled, settled, settled; and the whole
+Economy of {{p|Europe}} changed its role
 
-With them as they returned to their home-ranges, and we know
-That the practice of gathering and building and growing grain together
-Made the first civilization. That is enough to know. That is the glow
-Of the opening fire. And {{c|1873|G}} is its carrier. Whether
+Forever, by the farmers' coming. And
+This fact — that temples, not the fields, were planned
+And built the first — is the {{x|Gaiad}}'s own claim,
+Theology made quiet: fields became
 
-{{c|1873|G}} is still alive—and it is, in {{p|Sardinia}}, in {{p|Georgia}} (the country,
-Where {{c|1873|G}} frequencies are also remarkably high), in pockets of the {{p|Caucasus}},
-In the {{p|Alps}}—is a small consolation to the grand and worldly
-Story of what the lineage accomplished. The {{p|Göbekli Tepe}} chorus
+The temple's servant. First the god; and then
+The grain came after, at the hands of men.
+The harvest that would one day feed a town
+Began as offering, simply laid down
 
-Sang one of the first songs of civilization. The singers are gone.
-Their descendants tend sheep on a {{p|Sardinian}} hillside today.
-But the pillars are still there, reburied and re-dug up. The dawn
-They set in motion became the morning we still live in. Their way
+At the stone pillar's foot, and there to feed
+The gathered hunters, come for what they need
+To worship — what, we cannot say; nor what
+They muttered, nor they sang. But this we got:
 
-Of gathering to build became the way of every city
-That was ever built. Their choice to stay became the choice
-That every subsequent civilization inherited. The ditty
-And fanfare of the modern world is a downstream voice
+They gathered, and they worked; and we know too
+The crop went home with them, their ranges through;
+And that the practice made, in common toil,
+The first civilization from that soil
 
-Of the first voice, at {{p|Göbekli Tepe}}, singing at the foot
-Of a stone with a carved fox on it, eleven thousand years ago.
+Of gathering, and building, and the grain
+Grown all together. That is what we gain:
+Enough to know. The fire began to glow;
+Its carrier was {{c|1873|G}}. And is it so
 
-{{c|1873|G}} began it. {{c|1873|G}}, the farmer. {{c|1873|G}}, the builder. {{c|1873|G}}, the root
-Of the {{p|Neolithic}}. {{c|1873|G}}, the priest. {{c|1873|G}}, whose long slow
+That {{c|1873|G}} is still alive? It is: still found
+In {{p|Sardinia}}; and on {{p|Georgian}} ground
+(The country, where its frequencies are high),
+In pockets of the {{p|Caucasus}}, and nigh
 
-And patient and settled dwelling on the land
-Became the model for every dwelling that followed.
+The {{p|Alps}} as well. Small consolation, this,
+Beside the grandeur of what was and is:
+The {{p|Göbekli Tepe}} chorus sang a song
+Among the first of all. The singers, long
 
-Honor him. Honor the whole long pillar-raising band.
-They built the first temple, and the first thing we swallowed
+Since gone, left children who today still tend
+Sheep on {{p|Sardinian}} hillsides. In the end
+Is not yet come. The pillars still are there,
+Reburied, and re-dug, in open air;
 
-Was the grain they grew to feed the hands that built it.
-The grain fed the builders. The builders fed the god.
-The god is gone. The grain remains. The world was lit
-By their choice. And every city since has trod
+The dawn they set in motion is the morn
+In which we live; and every city born
+Since then was built as they built, in a ring
+Of gathered hands; and from their choice would spring
 
-On the path they trod. {{c|1873|G}}. The {{p|Neolithic}}.
+The choice of every later age to stay.
+The fanfare of the modern world today
+Is downstream of one voice, which sang before
+At {{p|Göbekli Tepe}}: at the pillar's floor
+
+Of stone, a carved fox on it, long ago,
+Eleven thousand years. {{c|1873|G}} made it so:
+{{c|1873|G}}, farmer; {{c|1873|G}}, the builder and the root
+Of all the {{p|Neolithic}}; {{c|1873|G}}, whose foot
+
+Was priest's as well; and {{c|1873|G}}, whose long and slow
+And patient settled dwelling came to show
+The model for all dwellings that would stand.
+Honor him; honor all that building band
+
+That raised the pillars. They built the first fane;
+And the first thing we swallowed was the grain
+
+They grew to feed the hands that built it. So
+The grain fed up the builders; and we know
+The builders fed the god. The god is gone.
+The grain remains. The world was lit upon
+
+Their choice. And every city since has trod
+The path they trod. It was {{c|1873|G}} broke the sod:
+{{c|1873|G}}, the {{p|Neolithic}}. And every stay
+Of ours descends from that first settled day.
 
 
 # Chapter 137: J — The Semitic World
@@ -28940,143 +28785,150 @@ The historical age of the {{x|Gaiad}} begins.
 
 # Chapter 144: Malta — The Oldest Temples
 
-The haplogroup register gives way;
-The named civilizations now begin—
-And the first of them is nameless to this day,
-A people with no writing to be read in.
+The haplogroup register now gives way;
+The named civilizations here begin,
+The first of them still nameless to this day:
+They left no writing we can read it in.
 
-On a small dry island in the middle sea,
-{{p|Malta}}, a few thousand farmers at the most
+On a small dry isle in the middle sea,
+{{p|Malta}}, some few thousand farmers at most
 Raised temples out of limestone, standing free,
-The oldest on the earth—before the host
+The oldest on the earth, before the host
 
 Of {{p|Egypt}} piled its pyramids, before
-The ziggurats of {{p|Sumer}}, long before
-{{p|Stonehenge}}: thirty-six hundred BCE, and more
-Than a thousand years of building from that shore—
+The ziggurats of {{p|Sumer}}, and ahead
+Of {{p|Stonehenge}}: begun, as the dates have shown,
+Thirty-six hundred B.C.E.; for more
+Than a thousand years they built there, and spread
+Their temples on that shore, stone upon stone.
 
-{{p|Ġgantija}}, {{p|Ħaġar Qim}}, {{p|Mnajdra}}, {{p|Tarxien}}.
-They quarried blocks of fifty tons from bedrock's hold
-And moved them with no wheel, no metal; how, and when,
-And by what craft, is argued and untold.
+For {{p|Ġgantija}} and {{p|Ħaġar Qim}}, and for
+{{p|Mnajdra}} and {{p|Tarxien}}, out of bedrock's hold
+They cut out blocks of fifty tons, and bore
+Them with no wheel or metal. Gone, the lore
+Of how, when, by what craft: argued, untold.
 
-They left no name for themselves, and none
-For any god they served. What we can keep
+They left no name for themselves, or for one
+Of any gods they served. What we can keep
 Is stone and sherd and bone, and, one by one,
 The little figures, seated or asleep:
 
-The {{p|Fat Lady}}, broad of hip and thigh,
-In clay and limestone—the most singular art
-Of {{p|Europe}}'s {{p|Neolithic}}, and the reply,
-In {{p|Malta}}'s idiom, to an older heart:
+The {{p|Fat Lady}}, broad of hip and of thigh,
+In clay and limestone, singular in art
+In {{p|Europe}}'s {{p|Neolithic}}, the reply,
+{{p|Malta}}'s idiom, to an older heart:
 
 The mother {{c|1900|Marija Gimbutas}} found
-Beneath Old {{p|Europe}}, before the horsemen came;
-The {{p|Venus of Willendorf}} on other ground,
-{{p|Cucuteni-Trypillia}}'s clay—the same
+Beneath Old {{p|Europe}}, ere the horsemen came;
+{{p|Venus of Willendorf}} on other ground;
+{{p|Cucuteni-Trypillia}}'s clay: the same
 
 Great mother, as the {{x|Gaiad}} reads the sign.
 But nowhere else did that devotion raise
 Such stone. Look at the temples' own design,
 The shape they kept through all their building days:
 
-Paired lobes along a central corridor,
+Paired lobes along a central passageway,
 A kidney or a clover in the plan,
-The entrance on the long axis, and before
-Each chamber, uprights where the lintels span—
+The entrance on the long axis; they lay
+Before each room the uprights lintels span:
 
 The trilithon, a thousand years ahead
-Of {{p|Stonehenge}}. On the walls, the carven spiral,
+Of {{p|Stonehenge}}. The carved spirals on the walls,
 The plant, the beast, the pillar-pairs some read
-As gateways of the world; and in the interior
+As gateways of the world; and in the halls,
 
-The figurines, the ash of ritual fire,
-The bones of offered beasts beneath the stone.
-For a thousand years the island fed the choir
-Of builders. Then the builders were gone.
+Figurines, ash of the ritual fire,
+The bones of offered beasts beneath the floor.
+A thousand years the isle fed the choir
+Of builders. Then the builders were no more.
 
-Near twenty-five hundred BCE it ends.
-No sign of war, no burning, no invader—
-The temples simply empty. No one tends
-Them. {{x|Bronze Age}} settlers, coming later,
+Then, near twenty-five hundred B.C.E.,
+With no war, burning, or invader, we
+See temples simply empty; no one tends
+Them: so the age of temple-building ends.
 
-Lived on the island with no memory
-Of who had built the temples on its hills.
-The likeliest cause: the island, ringed by sea,
-Was used up—soil worn thin by tilling, the hills
+The {{x|Bronze Age}} settlers who came later on
+Had no memory of who built upon
+Its hills the temples. Likeliest, the cause:
+The isle, ringed by sea, was used up, because
 
-Stripped of their trees for firewood and for the work
-Of moving stone—until the land that fed
-A few thousand temple-builders, in the murk
-Of slow decline, could not. Not with a bang. They fled,
+Its soil worn thin by tilling, and its hills
+Stripped of their trees for firewood and the work
+Of moving stone, until the land that fed
+Some thousands of the builders, in the murk
+Of slow decline, could not; and by these ills,
+Not with a bang, they starved, thinned out, or fled.
 
-Or starved, or thinned away. And the temples stood,
-Empty and silent on the windy rise,
-Four thousand years, until the nineteenth century could
-Read them for what they were with {{p|Europe}}'s eyes.
+The temples stood upon the windy rise
+Four thousand years, empty, without a stir,
+Till, in the nineteenth century, with eyes
+Of {{p|Europe}}, they were read for what they were.
 
 The {{x|Gaiad}} honors them as first in line
-After {{p|Göbekli Tepe}}: there, the hunter came
+After {{p|Göbekli Tepe}}: hunters came
 To gather at the stones; here, at the shrine,
 The settled farmer laid his harvest's claim.
 
 Foraging gave way to the field; the feast
-Gave way to the standing house of god; and here,
-For the first time we know, a people ceased
-To keep back anything: year after year
+Gave way to the god's standing house of stone;
+Here, for the first time known, a people ceased
+To keep back anything; their surplus, grown
 
-Their surplus went to temples, till the land
+Each year, went to the temples, till the land
 Gave out. No palace and no city wall,
-No fortress—only temples, the work of every hand.
-They built for their gods, and that was all.
+No fortress: only temples, by each hand.
+They built for their gods, and that was the all.
 
-The {{x|Gaiad}} reads the temple as the elder
-Of the city, at {{p|Göbekli Tepe}}, and the greater
-For thousands of years after; and no welder
-Of stone to faith was purer than these, or straighter.
+The {{x|Gaiad}} reads the temple as elder
+Than cities (at {{p|Göbekli Tepe}} shown),
+Greater for thousands of years; no welder
+Of stone to faith was purer, straighter, known.
 
-In one narrow sense the most devout
-Of any people in the human line—
+In one narrow sense, they were most devout
+Of any people in the human line;
 And so the warning: if the work runs out
 Ahead of field and harvest, then the shrine
 
-Devours the hands that raise it. Not that the temple
-Is wrong; but that the building can outrun
-The ground beneath it. {{p|Rapa Nui}} will sample
-The same cup later: every tree undone
+Devours the hands that raise it. The wrong
+Is not the temple; building can outrun
+The ground beneath it. {{p|Rapa Nui}}, long
+After, will drink that cup: each tree undone
 
 To move the {{p|Moai}}, and the island's fall.
 Small island, fervent faith, the building spree,
-And then the crash—{{p|Malta}} was first of all.
-Both are warnings. Neither, as we see,
+And then the crash: {{p|Malta}} was first of all.
+Both are warnings; neither one, as we see,
 
-Is heeded by the peoples who come after.
-Was this a greatness or a tragedy?
-The {{x|Gaiad}} does not answer. Without laughter
-And without blame, it says that both can be:
+Is heeded by the ones who come after.
+Was this a tragedy, or was it great?
+The {{x|Gaiad}} answers not; without laughter
+And without blame, it says that both have weight:
 
 The temples splendid, and the builders dead;
-Their gods remembered now by no one living;
-The sacred turned to ruin, and in its stead
-The ruin turned memorial—the giving
+Their gods remembered now by none who live;
+The sacred turned to ruin; in its stead
+The ruin turned memorial. They give
 
-Is all we have: the stones upon the hill,
+Us all we have: the stones upon the hill,
 The spirals and the lobes, the wind that blows
-Along the empty corridors, and still,
-In {{p|Valletta}}, behind glass, the {{p|Fat Lady}}'s pose.
+Along the empty corridors; and still,
+In {{p|Valletta}}, glassed, the {{p|Fat Lady}}'s pose.
 
-Honor them: the builders who built past their means;
+Honor them: builders who built past their store;
 The priests who led the work; the women's hands
-That shaped the mother out of clay; the teams
-Of farmers whose surplus fed the stone, till the lands
+That shaped the mother out of clay; the corps
+Of farmers whose surplus fed stone, till lands
 
-Ran out—the whole people that set the shrine
+Ran out: the whole people that set the shrine
 Above itself, and perished by the choice.
 {{p|Malta}}: first temple people in the line
-After {{p|Göbekli Tepe}}. The first warning voice.
+Since {{p|Göbekli Tepe}}: first warning voice.
 
-The first loss. The first civilization
-Whose name is gone, in the {{x|Gaiad}}'s human age.
+The first loss: in the human age, the first
+Civilization whose remembered name
+Is gone, the {{x|Gaiad}} tells, with none to claim
+Its stones, its gods, the people that dispersed.
 
 
 # Chapter 145: The Old Kingdom — Pyramids at Giza
@@ -30632,204 +30484,306 @@ Era and the start of another.
 
 # Chapter 152: Hammurabi — Law and the Old Babylonian Empire
 
-In the centuries after the fall of {{p|Ur}}, {{p|Mesopotamia}} fragmented
-Again. The {{p|Amorites}}—the {{p|Semitic}}-speaking nomads who had been
-Trickling in throughout the late {{p|Ur III}} period—established
-Themselves as the new ruling class across the region. {{p|Amorite}}
+When {{p|Ur}} had fallen, in the years since then
+{{p|Mesopotamia}} broke up again.
+The {{p|Amorite}} nomads, a people who
+Spoke a {{p|Semitic}} tongue, had trickled through
 
-Kings took the thrones of cities throughout the {{p|Tigris-Euphrates}}
-Valley. {{p|Isin}} and {{p|Larsa}} competed for supremacy in the south.
-{{p|Mari}} and {{p|Eshnunna}} and {{p|Assur}} carved out their own spheres
-In the north and east. And one relatively minor {{p|Amorite}} city-
+The late {{p|Ur III}}; across the region they
+Became the new ruling class that held sway.
+{{p|Amorite}} kings took crowns, in town on town,
+The {{p|Tigris-Euphrates}} vale, up and down.
 
-State, {{p|Babylon}}, began its rise. {{p|Babylon}}—the city whose name
-Comes from {{p|Akkadian}} {{c|2020|Babilim}}, "Gate of {{c|472|God}}"—had been a
-Modest provincial center for centuries. But under its {{p|First
-Dynasty}}, founded around nineteen hundred BCE, {{p|Babylon}} grew. And
+Down in the south {{p|Isin}} and {{p|Larsa}} fought
+For supremacy, the prize each one sought;
+{{p|Mari}}, {{p|Eshnunna}}, {{p|Assur}}, in their spheres,
+Carved out the north and east among their peers.
 
-Under its sixth king, {{c|1919|Hammurabi}}, it became the capital of an
-Empire.
+One small {{p|Amorite}} city-state, unknown
+For long, began to rise. {{p|Babylon}}'s own
+Name comes from the {{p|Akkadian}} for "Gate
+Of {{c|472|God}}," {{c|2020|Babilim}}; for ages its state
 
-          {{c|1919|Hammurabi}}.
+Was a provincial center, modest, long.
+Its {{p|First Dynasty}} at last made it strong,
+Founded near nineteen hundred B.C.E.;
+Its sixth king made it an empire: he,
 
-                                Reigning from approximately seventeen
-Ninety-two to seventeen fifty BCE. Forty-two years. A long reign,
+{{c|1919|Hammurabi}}. He held the throne about
+Seventeen ninety-two to seventeen
+Fifty B.C.E.; and he would have seen
+Forty-two years, a long reign, and throughout
 
-And a decisive one. {{c|1919|Hammurabi}}'s first decades were spent consolidating
-His power at home and building diplomatic alliances with neighboring
-Kingdoms. He reformed the administration. He rebuilt temples. He
-Extended canals. He was, by the standards of {{p|Mesopotamian}} kingship,
+Decisive. His first decades made his hold
+At home secure; with neighbors he enrolled
+Allies, through diplomacy. And he made
+Reforms in administration, and laid
 
-A patient and methodical ruler. And then, in the second half of his
-Reign, he struck. A rapid series of military campaigns reduced his
-Rivals one by one. {{p|Larsa}} fell. {{p|Eshnunna}} fell. {{p|Mari}} fell. By
-The end of his reign, {{c|1919|Hammurabi}} ruled the largest {{p|Mesopotamian}}
+The temples' walls anew; and further led
+Canals across the land. As a king, read
+By {{p|Mesopotamian}} kingship's ways,
+Patient, methodical. Then, in the days
 
-Empire since {{c|1969|Sargon of Akkad}} six hundred years earlier. He had
-Unified the {{p|Tigris-Euphrates}} valley under {{p|Babylonian}} rule. The
-{{p|Old Babylonian}} empire was born.
+Of his reign's second half, he struck. A run
+Of swift campaigns brought rivals one by one
+Down: {{p|Larsa}} fell, {{p|Eshnunna}}, {{p|Mari}} fell.
+By his reign's end, the realm he held would swell,
 
-                                          And {{c|1919|Hammurabi}}'s name is
-Remembered, today, not primarily for the military conquests but for
+Larger than any realm since on the throne
+{{c|1969|Sargon of Akkad}} sat, six hundred years
+Before. The {{p|Tigris-Euphrates}}' frontiers
+He joined as one, and made the vale his own
 
-The law code. The {{p|Code of Hammurabi}}. Two hundred and eighty-two
-Laws, inscribed in {{p|Akkadian}} cuneiform on a seven-and-a-half-foot-
-Tall stele of black diorite. The stele was erected in the temple of
-{{c|2021|Marduk}} in {{p|Babylon}} and other public locations across the empire,
+By {{p|Babylonian}} rule, no more torn;
+The {{p|Old Babylonian}} realm was born.
+Today his name is not for conquest known,
+But for the law code, written down in stone:
 
-So that citizens could see the law and understand their rights and
-Obligations. The stele's top shows {{c|1919|Hammurabi}} standing before the
-Sun-god {{c|2022|Shamash}} (the god of justice) receiving the law from the
-Divine hand. The image is the first great icon of law-as-divine-
+The {{p|Code of Hammurabi}}. There, in all,
+Two hundred eighty-two laws, on a tall
+Stele seven and a half feet, whose face
+Of black diorite took the wedge-marks' trace
 
-Gift. {{c|1919|Hammurabi}} claims his code not as his own invention but as
-A transcription of divine will. The god gives the law; the king
-Transmits it; the people obey it. This is the cosmological claim
-Of every subsequent legal code in the {{p|Near East}}: that law comes
+In {{p|Akkadian}}. It was raised to stand
+In {{c|2021|Marduk}}'s temple, {{p|Babylon}}, and spanned
+Public places through the empire's land,
+So citizens could see, and understand
 
-From the divine, that the ruler is merely the messenger, that the
-Social order reflects a cosmic order that predates and outranks
-Any individual human authority.
+Their rights and obligations. At the crown
+Of the stele, {{c|1919|Hammurabi}} looks down
+And stands before the sun-god, {{c|2022|Shamash}}, lord
+Of justice, from whose hand the law is poured.
 
-                                    And the content of the {{p|Code}}
-Is striking. Some of its laws are brutal by modern standards—the
+The king receives it from the hand divine:
+The first great icon in a lasting line
+Of law as gift. He claims the code is not
+His own invention, but a thing he got,
 
-Principle of {{p|lex talionis}} ("an eye for an eye") is explicitly
-Formulated here. If a man destroys the eye of another man, his
-Own eye shall be destroyed. If a man breaks another man's bone,
-His own bone shall be broken. The punishments are graded by class:
+Transcribed from heaven's will. The god will give
+The law; the king transmits it; all who live
+Beneath obey it. This, the cosmic claim
+Of every later code that bore the name
 
-Crimes against nobility carry heavier penalties than crimes against
-Commoners, and crimes against slaves are treated as property damage.
-The {{p|Code}} is not egalitarian. It is stratified, hierarchical, and
-Often gruesome. But it is also, in its own time, an advance. It is
+Of law in the {{p|Near East}}: law has its birth
+In the divine; the ruler on the earth
+Is but the messenger; the social frame
+Reflects a cosmic order, which first came
 
-Written law, publicly posted, applying across the entire empire,
-Accessible to every literate citizen. It limits the arbitrary power
-Of judges and local administrators. It establishes procedural
-Protections: false accusations carry penalties, witnesses must
+Before it, and outranks the right and might
+Of any human authority's sight.
+And what the {{p|Code}} contains is striking. Some
+Of its laws, judged by modern standards, come
 
-Testify, evidence must be weighed. There are protections for women—
-Marriage contracts, divorce procedures, inheritance rights. There
-Are regulations for business: commercial contracts, partnerships,
-Debt relationships, liability for damage. The {{p|Code}} is not just
+Out brutal: {{p|lex talionis}}, made clear
+Explicitly; in it these words appear:
+"An eye for an eye." If someone should blind
+Another, his own eye is lost in kind.
 
-A catalog of punishments. It is a comprehensive framework for the
-Operation of a complex urban commercial society.
+If one breaks a bone in another's frame,
+His own bone shall be broken, just the same.
+The punishments are graded, too, by class:
+Penalties for crimes on nobles surpass
 
-                                                      And it is
-Remembered because it is one of the earliest fully preserved legal
+Those on commoners; harm to slaves is weighed
+As damage done to property, and paid.
+The {{p|Code}} is far from equal: stratified
+And hierarchical, the pains it applied
 
-Codes in human history. {{c|2011|Ur-Nammu}}'s code predates it by three
-Hundred years. The {{p|Code of Lipit-Ishtar}} (an earlier {{p|Isin}} king)
-Predates it as well. But {{c|1919|Hammurabi}}'s code is the most complete
-Preserved example, and its influence on later legal traditions—
+Often gruesome. But it was, in its day,
+An advance: law in writing, on display,
+Posted through the empire, town by town,
+For each literate citizen. Set down,
 
-Through the {{p|Assyrian}} and {{p|Neo-Babylonian}} codes, through
-{{p|Persian}} imperial law, through the {{p|Mosaic}} law of the {{p|Hebrew}}
-{{x|Bible}} (which shows significant parallels to {{c|1919|Hammurabi}}), through
-{{p|Roman}} law, and onward—is foundational. Every legal system that
+It checked the judges' arbitrary hand,
+And local magistrates', at their command.
+Procedural protections, too, it made:
+False charges drew a penalty; it bade
 
-Descends from the ancient {{p|Near East}} carries {{c|1919|Hammurabi}}'s
-Influence. Every "eye for an eye" principle. Every notion of
-Written public law. Every claim that law is divinely sanctioned.
+That witnesses must testify, and weighed
+The evidence. Protections it conveyed
+For women: marriage contracts; a set course
+In divorce; and inheritance. Its force
 
-And {{c|1919|Hammurabi}}, in the {{x|Gaiad}}'s reading, is {{c|1308|Abraham}}'s cousin.
-Not in the narrow biological sense—the two figures are separated by
-Perhaps a century or more—but in the broader genealogical sense
-That the {{x|Gaiad}} applies. Both are {{c|1876|J}}-haplogroup {{p|Semitic}} men.
+Reached business too: commercial contracts, shares
+In partnerships, the debts, and what one bears
+For damage, liability. Not pains
+Alone; a comprehensive frame sustains
 
-Both are products of the {{p|Amorite}} migrations that reshaped
-{{p|Mesopotamia}} in the early second millennium BCE. Both descend, at
-Some remove, from the same pool of {{p|Semitic}} ancestors who had
-Spread across the region after the fall of {{p|Ur III}}. The {{x|Gaiad}}
+The working of a complex urban place,
+A whole commercial society's base.
+It is remembered, too, because it stands
+Among the oldest codes in human hands
 
-Makes them cousins in the cultural sense—contemporaries, or near-
-Contemporaries, who shared a haplogroup, a language family, a
-Regional context, and a historical moment. Both are figures of the
-Post-{{p|Sumerian}} {{p|Semitic}} ascendancy in {{p|Mesopotamia}}. Both are
+Preserved in full. {{c|2011|Ur-Nammu}}'s law code came
+Three hundred years before it; and the same
+Is true of {{p|Code of Lipit-Ishtar}}, made
+By an earlier {{p|Isin}} king. Yet weighed
 
-Founders of traditions that will outlast them by millennia.
+Against them, {{c|1919|Hammurabi}}'s is the most
+Complete preserved example; and the host
+Of later codes and laws has borne its sign:
+Through the {{p|Assyrian}} codes and the line
 
-And the contrast between them is instructive. {{c|1308|Abraham}} is a
-Nomad, a wanderer, a man who leaves his city and lives in tents.
-{{c|1919|Hammurabi}} is a city-king, a builder of walls, a codifier of
+Of {{p|Neo-Babylonian}}; and through
+The {{p|Persian}} imperial law; and, too,
+Through the {{p|Hebrew}} {{x|Bible}}'s {{p|Mosaic}} law
+(In which marked parallels to him we saw);
 
-Urban law. {{c|1308|Abraham}} founds a religion. {{c|1919|Hammurabi}} founds a
-Legal system. {{c|1308|Abraham}}'s legacy is the worship of a single
-Invisible god. {{c|1919|Hammurabi}}'s legacy is the written code binding
-Urban citizens to their obligations. Two different modes of
+Through {{p|Roman}} law, and onward: it's the root.
+Each legal system that descends, as fruit,
+From the ancient {{p|Near East}} still bears the mark
+Of {{c|1919|Hammurabi}}'s influence: each stark
 
-Civilizational contribution. Two cousins, at the junction of {{c|1907|J1}}
-And {{c|1908|J2}}, each choosing a different path. One walks south into
-The desert with his flocks; the other reigns in the brick-built
-City of the gate-of-god. One becomes the patriarch of monotheism;
+"Eye for an eye." Each written, public code.
+Each claim that law, from heaven, is bestowed.
+In the {{x|Gaiad}}, {{c|1919|Hammurabi}} has been
+{{c|1308|Abraham}}'s own cousin. Not in the thin
 
-The other becomes the author of the code that will be copied and
-Adapted for two thousand years. Both stand. Both matter.
+Sense of the blood, for there might well divide
+Them by a century or more; but wide,
+The kinship that the {{x|Gaiad}} would apply,
+The broad genealogical. Thereby
 
-And {{c|1919|Hammurabi}}'s empire does not last. Within a generation of
-His death, {{p|Babylon}} was weakened by succession struggles. His
+Both are {{c|1876|J}}-haplogroup {{p|Semitic}} men;
+Both came of {{p|Amorite}} migrations, when
+The land was reshaped, early in the run
+Of the second thousand years B.C.E.;
+And both, at some remove, descend from one
+{{p|Semitic}} pool of forebears, who would be
 
-Son {{c|2023|Samsu-iluna}} faced rebellions across the empire. The southern
-Provinces seceded. The {{p|Sealand Dynasty}} established itself in the
-Marshes of the {{p|Persian Gulf}}. And then, in fifteen ninety-five BCE,
-The {{p|Hittites}}—{{x|Indo-European}} invaders from {{p|Anatolia}} whose chapter
+Spread, after {{p|Ur III}} fell, across the lands.
+In culture, as the {{x|Gaiad}} understands,
+They're cousins of one time, or near the same,
+Who shared one haplogroup, one language frame,
+One region, and one moment when they came.
 
-Will come later—raided {{p|Babylon}} itself, sacked the city, and
-Carried off the statue of {{c|2021|Marduk}}. The {{p|Old Babylonian}} empire
-Ended. The statue was eventually recovered, but the political
-Power of {{p|Babylon}} was broken. A new dynasty, the {{p|Kassites}}, took
+Both, post-{{p|Sumerian}}, are figures in
+The {{p|Semitic}} ascendancy, within
+{{p|Mesopotamia}}; and both began
+Traditions lasting millennia's span.
 
-Power and ruled {{p|Mesopotamia}} for four centuries in a more
-Decentralized and less expansionist mode. {{p|Babylon}} itself continued
-To exist as a city, but its imperial period was over—until, a
-Thousand years later, the {{p|Neo-Babylonian}} empire of {{c|2024|Nebuchadnezzar}}
+And there's a lesson in the contrast, too:
+{{c|1308|Abraham}}'s a nomad, wandering through,
+A man who leaves his city for the tent;
+While {{c|1919|Hammurabi}}, city-king, is bent
 
-Would briefly restore its glory.
+On building walls, a man who codifies
+The urban law. A faith is what will rise
+From {{c|1308|Abraham}}; a legal system grows
+From {{c|1919|Hammurabi}}. One's legacy shows
 
-                                       But {{c|1919|Hammurabi}}'s legacy
-Survived the collapse. The code continued to be copied, studied,
-And cited long after his empire was gone. Subsequent {{p|Mesopotamian}}
+The worship of one god, whom none can see;
+The other's, a code, the written decree
+That binds the city's people to their due:
+Two ways in which civilization grew.
 
-Kings claimed to be his legal heirs. Scribal schools used his code
-As a teaching text. Copies of the {{p|Code of Hammurabi}} have been
-Found across the {{p|Near East}} in contexts centuries later than his
-Reign. He had done what {{c|1970|Sargon}} had done at the political level—
+Two cousins, where {{c|1907|J1}} and {{c|1908|J2}} part,
+Each on a different path. One seeks the heart
+Of desert, going south behind his sheep;
+The other reigns where brick-built ramparts keep
 
-Established a template that subsequent rulers would copy—but he
-Had done it in the register of law rather than imperial administration.
-{{c|1970|Sargon}} was the prototype emperor. {{c|1919|Hammurabi}} was the prototype
-Legislator. And the empire fell faster than the law did.
+The city, gate-of-god. One shall become
+Monotheism's patriarch; and from
+The other comes the code, the one that men
+Two thousand years would copy, and again
 
-The stele of the {{p|Code of Hammurabi}} was eventually taken to {{p|Susa}}
-As plunder by the {{p|Elamites}} during a later invasion. It stood in
-{{p|Susa}} for three thousand years before being rediscovered by {{p|French}}
-Archaeologists in nineteen-oh-one. It is now in the {{p|Louvre}}. A
+Adapt it. Both stand, former and latter;
+Both, says the {{x|Gaiad}}, are men who matter.
+{{c|1919|Hammurabi}}'s empire did not last:
+Within a generation, once he'd passed,
 
-Traveler can stand in front of it and read, in the original
-{{p|Akkadian}} cuneiform carved into the black diorite, the two hundred
-And eighty-two laws by which {{c|1919|Hammurabi}} ordered his empire. The
-Inscription is still legible. The stele is one of the best-preserved
+Succession struggles weakened {{p|Babylon}}.
+His son, {{c|2023|Samsu-iluna}}, then took on
+Rebellions through the realm. Down in the south
+The provinces seceded; at the mouth
 
-Major monuments of the ancient {{p|Near East}}. And the laws themselves
-Are, in many cases, still recognizable as laws—still connected, by
-A chain of textual and conceptual transmission, to the legal codes
-Of modern nations.
+Of the {{p|Persian Gulf}}, where the marshes spread,
+The {{p|Sealand Dynasty}} rose up instead.
+Then, in fifteen ninety-five B.C.E.,
+The {{p|Hittites}}, whose own chapter's yet to be,
 
-                       {{c|1919|Hammurabi}} of {{p|Babylon}}. The {{c|1876|J}}-haplogroup
-Cousin of {{c|1308|Abraham}}. The emperor of the {{p|Old Babylonian}} dynasty.
-The author—or promulgator—of the most famous law code of the
-Ancient world. The figure through whom the {{p|Mesopotamian}} legal
+{{x|Indo-European}}, came down upon,
+Out of {{p|Anatolia}}, {{p|Babylon}}
+Itself; they raided it, and sacked the town;
+They carried {{c|2021|Marduk}}'s statue off. And down
+Went all the {{p|Old Babylonian}} crown.
 
-Tradition reached its first great synthesis and was transmitted
-To every subsequent {{p|Near Eastern}} civilization, and through them
-To us. The bearded king on the black diorite stele, standing before
-The sun-god, receiving the law. The law still legible. The king
+The statue was recovered in the end;
+Yet broken was the might of {{p|Babylon}}.
+A dynasty, the {{p|Kassites}}, then came on
+To power; and their rule would not extend
 
-Still legible. The empire long gone.
+So far: four centuries they held the land,
+In looser, less expansionist command.
+{{p|Babylon}} went on as a city still;
+Its imperial age was over, till,
 
-{{c|1919|Hammurabi}}. {{p|Babylon}}. The {{p|Code}}.
+A thousand years on, its glory regained,
+For a while, when {{c|2024|Nebuchadnezzar}} reigned,
+{{p|Neo-Babylonian}}. What remained
+
+Was {{c|1919|Hammurabi}}'s legacy, to last
+Past the collapse: long after the realm passed,
+The code was copied, cited, studied, read;
+{{p|Mesopotamian}} kings, later, said
+
+They were his legal heirs. The scribal schools
+Taught with his code, a text of written rules.
+And through the {{p|Near East}}, buried in the ground,
+Copies of it, from later times, are found
+
+In contexts centuries after his reign.
+He'd done what {{c|1970|Sargon}} did, in the domain
+Of politics: a template that was made
+For later kings to copy; but he laid
+His in the register of law, and not
+Imperial administration's lot.
+
+{{c|1970|Sargon}}: prototype emperor. And he,
+{{c|1919|Hammurabi}}, the prototype, would be
+Legislator. And the empire fell
+Faster than did the law, as time would tell.
+
+Later, invading, the {{p|Elamites}} bore
+The stele to {{p|Susa}} as plunder. For
+It stood in {{p|Susa}} for three thousand years,
+Before, nineteen-oh-one, it reappears,
+
+Found by {{p|French}} archaeologists. It's in
+The {{p|Louvre}} now; a traveler may begin
+To read it, standing there, as it had been:
+
+{{p|Akkadian}} cuneiform, incised
+In the black diorite, the laws comprised,
+Two hundred eighty-two, by which his whole
+Realm stood in order, under his control.
+
+The text's still legible; and of the great
+Old monuments of the {{p|Near East}}, the state
+Of few is better kept. The laws, as well,
+Are, many times, still laws that one can tell,
+Still tied by chains of text and thought; they reach
+The legal codes of modern nations, each.
+
+{{c|1919|Hammurabi}} of {{p|Babylon}}. The kin,
+{{c|1876|J}}-haplogroup, of {{c|1308|Abraham}}; and in
+The {{p|Old Babylonian}} house, the head,
+Its emperor; the author or, instead,
+
+Promulgator of the most famous code
+The ancient world had; he, through whom it flowed:
+The {{p|Mesopotamian}} legal way
+Reached its first great synthesis; from that day
+
+Passed on to every {{p|Near Eastern}} nation,
+And then through them to our generation.
+The bearded king on the black stele stands
+Before the sun-god, taking from his hands
+
+The law. The law is legible today;
+The king, too. Long the realm has passed away.
+Black diorite still holds what once he showed:
+{{c|1919|Hammurabi}}. {{p|Babylon}}. And the {{p|Code}}.
 
 
 # Chapter 153: The Middle Kingdom
@@ -32523,289 +32477,426 @@ Humanity's unity at the moment of greatest apparent fragmentation.
 
 # Chapter 160: Exodus, Trojan War, Bronze Age Collapse
 
-Three events. Perhaps. Perhaps more than three. Perhaps a single
-Event refracted into three narratives. Around twelve-hundred BCE,
-The {{x|Bronze Age}} world shattered.
+Three events. Perhaps. Perhaps more than three.
+Perhaps one event, refracted, that we
+Tell as three narratives. The {{x|Bronze Age}} world
+Around twelve hundred B.C.E. was hurled
 
-                                 Begin with what archaeology knows.
-Between twelve-twenty-five and eleven-seventy-five BCE, over a
-Span of roughly fifty years, nearly every major palace, city, and
-State in the eastern {{p|Mediterranean}} was destroyed or abandoned.
+To shattering. Begin with what is known,
+What archaeology has dug and shown.
+In roughly fifty years, the span between
+Twelve twenty-five B.C.E. and the date
+Eleven seventy-five, near each state,
+Palace and city of the eastern scene,
+The {{p|Mediterranean}}'s, was destroyed
+Or else abandoned, and its halls left void.
 
-The list is staggering. {{p|Hattusa}}, capital of the {{p|Hittite}} Empire:
-Burned to the ground. {{p|Ugarit}}, the great trading city on the
-{{p|Syrian}} coast: destroyed, with its last king sending desperate
-Letters begging for help that never came. {{p|Mycenae}}, {{p|Tiryns}},
+A staggering list. {{p|Hattusa}}, the seat
+Of the {{p|Hittite}} Empire: burned, complete,
+Down to the ground. And {{p|Ugarit}}, the great
+Trade town on the {{p|Syrian}} coast: its fate,
+Destroyed; its last king, in a desperate state,
+Sent letters begging help that never came.
+{{p|Mycenae}}, {{p|Tiryns}}, {{p|Pylos}}, {{p|Thebes}}: the same:
+Each major {{p|Mycenaean}} palace, all
+Destroyed or else abandoned, hall by hall.
 
-{{p|Pylos}}, {{p|Thebes}}—every major {{p|Mycenaean}} palace: destroyed or
-Abandoned. {{p|Knossos}}, on {{p|Crete}}: destroyed. {{p|Troy}} (the archaeological
-Layer {{p|Troy VIIa}}): destroyed around twelve-hundred BCE. The
-{{p|Egyptian}} Empire: severely damaged, retreating from its {{p|Levantine}}
+{{p|Knossos}} on {{p|Crete}}: destroyed. And {{p|Troy}}, the town
+Whose layer, called {{p|Troy VIIa}}, was brought down
+Around twelve hundred B.C.E. Struck hard,
+The {{p|Egyptian}} Empire, badly scarred,
+Retreating from its {{p|Levantine}} terrain;
+{{p|Kassite}} {{p|Babylonian}} kingdom's reign:
+Fatally weakened. The {{p|Elamite}} state:
+Disrupted. {{p|Cyprus}}: raided, at that date.
+And {{p|Canaan}}'s cities, many of them, fell,
+{{p|Emar}}, {{p|Kadesh}}, {{p|Alalakh}}, {{p|Gath}} as well:
+Destroyed. Few {{x|Bronze Age}} states came through intact:
+{{p|Egypt}}, barely, much diminished in fact;
+{{p|Assyria}}, eclipsed a while; again,
+{{p|Babylon}}, under new management. Then
 
-Provinces. The {{p|Kassite}} {{p|Babylonian}} kingdom: fatally weakened. The
-{{p|Elamite}} kingdom: disrupted. {{p|Cyprus}}: raided. The cities of {{p|Canaan}}:
-Many destroyed. {{p|Emar}}, {{p|Kadesh}}, {{p|Alalakh}}, {{p|Gath}}: destroyed. Only a
-Few {{x|Bronze Age}} states survived intact: {{p|Egypt}} (barely, much
+The rest had vanished. Writing systems, too,
+Lost: {{p|Aegean}} {{p|Linear B}} withdrew;
+For {{p|Hittite}} cuneiform: death, beside
+{{p|Hattusa}}'s fall; and the whole corpus died
+Of {{x|Bronze Age}} letters that the kings had sent
+In diplomatic correspondence: spent.
 
-Diminished), {{p|Assyria}} (temporarily eclipsed), {{p|Babylon}} (under new
-Management). The rest vanished. Writing systems were lost: {{p|Linear B}}
-Disappeared from the {{p|Aegean}}; {{p|Hittite}} cuneiform died with {{p|Hattusa}};
-The whole corpus of {{x|Bronze Age}} diplomatic correspondence ceased.
+Catastrophe: the population fell
+In some lands, by nine-tenths; the trade as well
+Collapsed: the networks which had joined and tied
+{{p|Mycenae}}, {{p|Ugarit}}, {{p|Egypt}}, allied,
+{{p|Mesopotamia}}, {{p|Cyprus}}; the way
+Out to {{p|Sardinia}}: it all gave way.
+The {{x|Bronze Age}} world, an integrated whole,
+Fell all apart at once, past all control.
 
-Population fell catastrophically—in some regions by as much as
-Ninety percent. Trade networks that had linked {{p|Mycenae}} to
-{{p|Ugarit}} to {{p|Egypt}} to {{p|Mesopotamia}} to {{p|Cyprus}} to {{p|Sardinia}} collapsed.
-The whole integrated {{x|Bronze Age}} world fell apart at once.
+What caused this? Historians have proposed
+Many factors. No single cause, exposed,
+Is sufficient. The full picture appears
+To need them all at once, in the same years.
+First: climate change. Data from tree-rings, laid
+With sediment, show drought, severe, that stayed
 
-                                                            What
-Caused this? Historians have proposed many factors. No single
-Cause is sufficient. The full picture seems to require all of them
-Simultaneously. First: climate change. Tree-ring and sediment data
+In the {{p|Mediterranean}}, {{p|Near East}},
+From roughly twelve fifty B.C.E., to
+Eleven fifty. Decades it went through,
+Of {{x|Bronze Age}} droughts the worst. The harvests ceased;
+Famines followed. Second: earthquakes. We know
+From digs: a series, severe, that laid low
 
-Indicate a severe drought in the {{p|Mediterranean}} and {{p|Near East}}
-Between approximately twelve-fifty and eleven-fifty BCE. The drought
-Lasted for decades and was the most severe of the entire {{x|Bronze Age}}.
-Agricultural yields collapsed. Famines followed. Second: earthquakes.
+{{p|Aegean}}, {{p|Anatolian}} towns; so
+This period's destruction layers show
+Seismic damage before the burning came,
+Or with it, side by side, in the same flame.
+Third: rebellion inside. Each palace core
+Of the {{x|Bronze Age}} was stratified; therefore
 
-Archaeological evidence suggests a series of severe earthquakes
-Devastated {{p|Aegean}} and {{p|Anatolian}} cities during this period. Many
-Destruction layers show seismic damage preceding or accompanying
-The burning. Third: internal rebellion. {{x|Bronze Age}} palatial
+From peasants the elites took grain and toil;
+The system, built upon that human soil,
+Relied on their compliance staying true.
+When climate and the famine hit, it too,
+Compliance, broke. The peasants rose. Burned through,
+The towns, as much within as from without.
+Fourth came migration and invasion: out,
+In waves, through those years, peoples moved about
 
-Economies were highly stratified: palace elites extracted grain and
-Labor from peasant populations, and the system depended on the
-Continued compliance of those populations. When climate and famine
-Hit, compliance broke. Peasants rose. Cities burned from within as
+The {{p|Mediterranean}}'s eastern side.
+The most famous: the {{p|Sea Peoples}}, who ride,
+Seaborne raiders, a coalition, named
+Only in {{p|Egyptian}} inscriptions, framed
 
-Much as from without. Fourth: migration and invasion. Waves of
-Peoples moved across the eastern {{p|Mediterranean}} during these years.
-The most famous are the {{p|Sea Peoples}}—a coalition of seaborne
-Raiders whose name is known only from {{p|Egyptian}} inscriptions at
+At {{p|Medinet Habu}}, elsewhere, in stone.
+{{c|2140|Ramesses III}}, the last great pharaoh known
+Of the {{x|New Kingdom}}, fought them in the weight
+Of two engagements, massive, near the date
+Eleven seventy. His victory saved
+{{p|Egypt}} from total conquest, but it braved
 
-{{p|Medinet Habu}} and elsewhere. {{c|2140|Ramesses III}}, the last great pharaoh
-Of the {{x|New Kingdom}}, fought the {{p|Sea Peoples}} in two massive
-Engagements around eleven-seventy BCE. His victory saved {{p|Egypt}}
-From total conquest but could not save the {{p|Levantine}} provinces.
+In vain to keep the {{p|Levantine}} domain,
+Its provinces. And the {{p|Sea Peoples}}' train
+Holds first the {{p|Peleset}}, which scholars view
+As {{p|Philistines}}; with others, the next few:
+The {{p|Tjeker}}, the {{p|Shekelesh}}; {{p|Denyen}}, who
+Were maybe {{p|Danaoi}} or {{p|Danites}} too;
+The {{p|Sherden}}, {{p|Weshesh}}, and the {{p|Lukka}} band,
+Who came, most probably, from {{p|Lycia}}'s land.
 
-The {{p|Sea Peoples}} included the {{p|Peleset}} (identified with the
-{{p|Philistines}}), the {{p|Tjeker}}, the {{p|Shekelesh}}, the {{p|Denyen}} (possibly
-the {{p|Danaoi}} or {{p|Danites}}), the {{p|Sherden}}, the {{p|Weshesh}}, the {{p|Lukka}}
-(probably from {{p|Lycia}}). These names have long intrigued scholars—
+These names intrigued the scholars long, in pairs:
+Are {{p|Sherden}} the {{p|Sardinians}}' forebears?
+Are {{p|Sicilians}} the {{p|Shekelesh}}'s heirs?
+Is {{p|Denyen}} the {{x|Bronze Age}} {{p|Greek}} word, the same
+That turns {{p|Danaoi}} later, {{p|Homer}}'s name
+For the {{p|Achaean}} coalition? Such
+Parallels, of etymology, touch
 
-Are the {{p|Sherden}} the ancestors of the {{p|Sardinians}}? Are the
-{{p|Shekelesh}} the ancestors of the {{p|Sicilians}}? Is {{p|Denyen}} the Bronze
-Age {{p|Greek}} word that later becomes {{p|Danaoi}}, the name {{p|Homer}} uses
-For the {{p|Achaean}} coalition? The etymological parallels suggest
+On the {{p|Sea Peoples}}, to suggest they'd take
+Men from the {{p|Aegean}}, forced to forsake
+{{p|Italy}}, {{p|Anatolia}}, and past.
+Refugees, perhaps, from the ruin cast
+On {{p|Mycenaean}} palaces. Perhaps
+Opportunistic raiders, through the gaps
 
-That the {{p|Sea Peoples}} included populations displaced from the
-{{p|Aegean}}, {{p|Italy}}, {{p|Anatolia}}, and beyond. Perhaps refugees from
-The collapse of the {{p|Mycenaean}} palaces. Perhaps opportunistic
-Raiders taking advantage of weakened targets. Perhaps a coalition
+Of weakened targets. Perhaps, all as one,
+Displaced, aggressive peoples, every one,
+Rolling eastward and southward in their waves.
+Whatever they were, the old record saves
+Them as a force of great disruption, one
+Destroying cities, settling, when done,
 
-Of multiple displaced and aggressive populations rolling eastward
-And southward in waves. Whatever they were, they appear in the
-Archaeological record as a major disruptive force, destroying
-Cities and eventually settling in the regions they depopulated.
+The regions they had emptied. And of these
+The {{p|Philistines}} settled the southern seas,
+The southern {{p|Levantine}} coast, to become
+The famous biblical foes, the outcome,
+Of {{p|Israelites}}. Their pottery, their style
+Of building, and their language, all the while,
+Show {{p|Aegean}} affinities. They came
+As {{p|Mycenaean}} refugees, to claim
 
-The {{p|Philistines}}—one of the {{p|Sea Peoples}}—settle in the southern
-{{p|Levantine}} coast and become the famous biblical adversaries of
-The {{p|Israelites}}. Their pottery, their architecture, their language
-Show {{p|Aegean}} affinities. They were probably {{p|Mycenaean}} refugees
+Likely, a foothold, after the collapse,
+In {{p|Canaan}}, in the empty palace gaps.
 
-Establishing a foothold in {{p|Canaan}} after the collapse.
+And fifth: the system's own collapse. Without
+A single cause, the {{x|Bronze Age}} had, throughout
+Its international system, grown frail
+In its complexity. Trade on that scale,
 
-                                                         And fifth:
-Systems collapse. Even absent any single cause, the {{x|Bronze Age}}
-International system had grown fragile in its complexity. Far-
+Far-flung, depended on the working of
+Many palace economies, and of
+Each one depending on the rest for raw
+Materials, for goods of craft and law,
 
-Flung trade networks depended on the continuous functioning of
-Multiple palatial economies, each of which depended on the others
-For raw materials, manufactured goods, luxury imports, and
-Diplomatic stability. When one node failed, the cascade propagated.
+For luxury imports, the steady stay
+Of diplomacy. One node failed: the way
+Was cascade. {{p|Ugarit}} could never stand
+Without its {{p|Hittite}} partners in the land;
 
-{{p|Ugarit}} could not function without {{p|Hittite}} trade partners; the
-{{p|Hittite}} capital could not function without {{p|Levantine}} grain
-Imports; the {{p|Mycenaean}} palaces could not function without tin
-From the East and copper from {{p|Cyprus}}. When the network broke, no
+The {{p|Hittite}} capital could not hold on
+Without the {{p|Levantine}} grain imports drawn;
+The {{p|Mycenaean}} palaces were bound
+To eastern tin, and {{p|Cyprus}}' copper found.
 
-Single palace could reconstitute the whole. It required global
-Coordination, and global coordination vanished. Each local crisis
-Accelerated every other local crisis. This is what historians now
-Call the "{{p|Bronze Age Collapse}}"—and it is the most complete
+The network broke, and no one palace could
+Remake the whole. It needed, as it would,
+Global coordination, and that went.
+Each local crisis, as its force was spent,
 
-Civilizational collapse in recorded human history. When the dust
-Settled, the world that emerged was profoundly changed. Iron
-Replaced bronze as the dominant metal (both because iron sources
-Were more widely distributed and could not be monopolized by trade,
+Sped every other local crisis on.
+Historians call this, now it is gone,
+The "{{p|Bronze Age Collapse}}"; and it is the most
+Complete collapse of a civilized host
 
-And because the disruption of bronze supply chains forced
-Innovation in iron metallurgy). Alphabetic writing, developed in
-{{p|Canaan}}, replaced cuneiform and {{p|Linear B}} as the dominant scribal
-System of the {{p|Mediterranean}} (it was simpler, more democratic,
+In human history in record. When
+The dust had settled, the whole world, from then,
+Emerged profoundly changed. Iron replaced
+The bronze as the dominant metal, based
 
-Less dependent on centralized scribal classes). Small city-states
-And tribal confederations replaced the large palatial kingdoms
-Of the {{x|Bronze Age}}. The {{p|Phoenicians}}, the {{p|Greeks}} emerging from
-Their {{x|Dark Age}}, the {{p|Israelites}}, the {{p|Neo-Hittite}} states of northern
+On both: that iron's sources were too wide
+For trade to monopolize; and, beside,
+The broken bronze supply chains forced a new
+Invention: iron metallurgy grew.
 
-{{p|Syria}}, the {{p|Aramean}} kingdoms—these were the new political forms.
-Smaller, more distributed, less top-heavy. The {{x|Bronze Age}} world
-Of god-kings and thousand-god pantheons gave way, gradually, to
-The {{x|Iron Age}} world of ethnically defined nations, tribal gods
+First made in {{p|Canaan}}, alphabetic script
+Replaced cuneiform, {{p|Linear B}},
+The {{p|Mediterranean}}'s scribal key:
+It was simpler, more democratic, stripped
+Of need for central scribal classes. Small
+City-states and the tribal leagues, in all,
 
-With universalist pretensions, and eventually the first stirrings
-Of genuine monotheism. That transformation is the subject of the
-Next several chapters. But here, in this chapter, we must also
-Tell the other two events: the {{x|Exodus}} and the {{x|Trojan War}}.
+Replaced the large palatial kingdoms of
+The {{x|Bronze Age}}. The {{p|Phoenicians}}; and, above,
+{{p|Greeks}} emerging from their {{x|Dark Age}}; the line
+Of {{p|Israelites}}; {{p|Neo-Hittite}} design
 
-Consider first the {{p|Exodus}}. According to the biblical narrative,
-{{c|1006|Moses}} led the {{p|Israelites}} out of {{p|Egyptian}} bondage through a
-Series of plagues, a parting of the {{p|Red Sea}} (or, more accurately
-In the {{p|Hebrew}}, the {{p|Reed Sea}}, {{p|Yam Suph}}), a forty-year wandering
+Of states in northern {{p|Syria}}; the land
+Of {{p|Aramean}} kingdoms: these, as planned,
+Were the new political forms: small, spread,
+Less top-heavy. The {{x|Bronze Age}} world, its dead
 
-In the wilderness of {{p|Sinai}}, and an eventual arrival in {{p|Canaan}}
-Under {{c|2141|Joshua}}. The chronology given in the {{p|Hebrew Bible}}, if
-Taken at face value, places the {{p|Exodus}} in the fifteenth or
-Fourteenth century BCE. But modern scholarly consensus, where it
+God-kings, its pantheons of a thousand gods,
+Gave way, gradually, against the odds,
+To the {{x|Iron Age}} world, where nations stood
+Defined by ethnicity; where the good
 
-Reaches any consensus at all, favors a thirteenth-century BCE
-Dating—specifically during the reign of {{c|2033|Ramesses II}} or his
-Successor {{c|2093|Merneptah}}. The {{p|Merneptah Stele}}, inscribed around
-Twelve-oh-nine BCE, contains the first extra-biblical reference
+Of tribal gods made universal claims;
+And then the first stirrings, the dawn, of true
+Monotheism. That change: the next few
+Chapters' subject. But here we give the names
 
-To "{{p|Israel}}" as a people in {{p|Canaan}}—the stele boasts that
-{{c|2093|Merneptah}} has defeated {{p|Israel}}, which implies that {{p|Israel}} existed
-As a recognizable entity in {{p|Canaan}} by that date. This gives a
-Rough terminus ante quem: however and whenever the {{p|Israelites}}
+Of two other events, which we must tell:
+The {{x|Exodus}}, the {{x|Trojan War}} as well.
+First, consider the {{p|Exodus}}. We read
+In biblical narrative: {{c|1006|Moses}} freed
+The {{p|Israelites}} from {{p|Egyptian}} chains, through
+A series of plagues; and a parting, too,
+Of the {{p|Red Sea}} (more accurately, in
+The {{p|Hebrew}}, the {{p|Reed Sea}}, {{p|Yam Suph}}); within
+The wilderness of {{p|Sinai}}, for the span
+Of forty years, they wandered; then, the van,
+Led by {{c|2141|Joshua}}, into {{p|Canaan}} ran.
 
-Got to {{p|Canaan}}, they were there by twelve-oh-nine BCE. The {{x|Gaiad}}
-Has already treated the specific narrative of {{c|1006|Moses}} and the
-{{p|Exodus}}—and will revisit it briefly here, because the {{p|Exodus}}
-Is now recognizable as part of the broader {{p|Bronze Age Collapse}}.
+{{p|Hebrew Bible}} dates, at face value, place
+The {{p|Exodus}}, in centuries we trace,
+In the fifteenth or fourteenth, B.C.E.;
+But modern scholars, where they can agree
+At all, favor the thirteenth: in the reign
+Of {{c|2033|Ramesses II}}, or else, in the train,
 
-The {{p|Israelites}} were not the only group leaving {{p|Egypt}} or moving
-Into {{p|Canaan}} at this time. They were part of a general disruption
-Of populations. Their specific story—bondage, miraculous liberation,
-Covenant at {{p|Sinai}}, wilderness wandering, conquest—became the
+Of his successor, {{c|2093|Merneptah}}. The stone,
+The {{p|Merneptah Stele}}, near twelve oh nine
+B.C.E. inscribed, contains the first sign
+Outside the Bible of "{{p|Israel}}", known
+As people in {{p|Canaan}}. The stele boasts
+That {{c|2093|Merneptah}} has defeated the hosts
 
-Foundational narrative of {{p|Hebrew}} religion and identity. But the
-Structural fact underlying that narrative is that groups were
-Coming out of {{p|Egypt}} and entering {{p|Canaan}} during the {{x|Bronze Age}}
-Collapse era. The {{p|Israelite}} religious memory preserves, in
+Of {{p|Israel}}; which implies {{p|Israel}} stood
+In {{p|Canaan}} by that date, known nationhood.
+A rough terminus ante quem is shown:
+However and whenever (this unknown)
+The {{p|Israelites}} reached {{p|Canaan}}, they appear
+There by twelve oh nine B.C.E., it's clear.
 
-Literary form, the experience of a people being born into
-Historical existence during the collapse of the {{x|Bronze Age}}
-International system. The shattering of the old order—the plagues,
-The arbitrary violence of pharaohs, the sudden possibility of
+Already in the {{x|Gaiad}} we have told
+Of {{c|1006|Moses}} and the {{p|Exodus}}, of old,
+And will return to it, briefly, since now
+The {{p|Exodus}} is seen, and we see how,
 
-Escape across a parted sea—is the {{p|Israelite}} version of what the
-{{p|Hittites}} experienced as the sack of {{p|Hattusa}} and what the
-{{p|Mycenaeans}} experienced as the burning of the palaces. Different
-Cultural processings of the same civilizational crisis.
+As part of the broader {{p|Bronze Age Collapse}}.
+The {{p|Israelites}} were not alone; perhaps
+Others left {{p|Egypt}}, or moved in, the same,
+To {{p|Canaan}} then. They were part of the frame
 
-                                                         Consider
-Then the {{p|Trojan War}}. In the traditional dating of {{c|2142|Eratosthenes}},
-The {{p|Trojan War}} occurred around twelve-eighty-four to twelve-
-Seventy-four BCE—right at the beginning of the collapse. In the
+Of general disruption of peoples. Then
+Their story, bondage, liberation, when
+By miracle; the covenant they made
+At {{p|Sinai}}; wandering; conquest; was laid
 
-Archaeological dating, {{p|Troy VIIa}} (the layer most plausibly
-Identified with {{p|Homeric}} {{p|Troy}}) was destroyed around twelve-
-Hundred BCE—right in the middle of the collapse. In either case,
-The war that {{p|Homer}} describes is a Late {{x|Bronze Age}} event
+The founding story of the {{p|Hebrew}} creed,
+Religion and identity. Indeed,
+The structural fact beneath it is plain:
+That groups were leaving {{p|Egypt}}, in the train
+Of the collapse, toward {{p|Canaan}}'s domain.
 
-Occurring during the collapse. The {{p|Achaean}} coalition of {{p|Mycenaean}}
-Kings sailing eastward to sack a fortified city on the {{p|Anatolian}}
-Coast—this is not just a mythical tale. It is the last great
-Expedition of the {{p|Mycenaean}} palace system, launched (in {{p|Homer}}'s
+{{p|Israelite}} religious memory holds,
+In literary form, as it unfolds,
+The experience of a people's dawn
+Into historical existence, drawn
+While the international system fell.
+The shattering, and the old order's knell:
 
-Telling) over the abduction of a queen but (in historical
-Reality) probably over trade rights, tribute, the control of the
-{{p|Dardanelles}}, or simply the raiding opportunities available in a
-Destabilizing world. The {{p|Trojan War}} is the {{p|Greek}} memory of the
+The plagues; the pharaohs' arbitrary force
+Of violence; the sudden chance, the course
+Of an escape, the sea parted in two:
+This is the {{p|Israelite}} account, and true
+To what {{p|Hittites}} knew as {{p|Hattusa}}'s sack,
+And the {{p|Mycenaeans}}, as fire's attack
+Upon their palaces. And, looking back,
+These are the different cultural ways
+Of processing one crisis of those days.
 
-Late {{x|Bronze Age}} as it shuddered toward its end. Shortly after
-The war, the palaces that launched it were themselves destroyed.
-{{c|1337|Agamemnon}}'s {{p|Mycenae}} burned within a generation of his victorious
-Return. {{c|2112|Odysseus}}'s {{p|Ithaca}} faded into the {{x|Dark Age}}. The victors
+Consider next the {{p|Trojan War}}. The old
+Dating that {{c|2142|Eratosthenes}} has told,
+Twelve eighty-four to twelve seventy-four
+B.C.E.: the collapse, just at its door.
 
-Of {{p|Troy}} outlived their victory by less than a century. Their
-Fall is implicit in the structure of the epic—{{p|Homer}} composes his
-Poems in the ninth or eighth century BCE, looking back across
-Four centuries at a vanished world. {{c|1337|Agamemnon}}'s {{p|Mycenae}} is, for
+The digs date {{p|Troy VIIa}} (the layer most
+Plausibly {{p|Homeric}} {{p|Troy}}, on that coast)
+Destroyed around twelve hundred, at the core
+Of the collapse. And either way, the war
+That {{p|Homer}} tells, a Late {{x|Bronze Age}} event,
+Took place inside the collapse, the descent.
 
-{{p|Homer}}, already legend. The gold and bronze and chariots and
-Hundred-rowered ships—these are not part of {{p|Homer}}'s own world.
-They are remembered from the lost world. The {{p|Iliad}} and the
-{{p|Odyssey}} are {{x|Dark Age}} preservations of {{x|Bronze Age}} memory. And
+{{p|Achaean}} coalition of the kings
+{{p|Mycenaean}}, whom eastward sailing brings
+To sack, on the {{p|Anatolian}} coast,
+A fortress city: not a myth's mere ghost.
+It is the last great expedition sent
+By {{p|Mycenaean}} palaces; it went,
+In {{p|Homer}}, for a stolen queen; but, more
+Probably, in history, for trade rights; or
+Tribute; the {{p|Dardanelles}}' control; or for
+Raiding that a destabilized world bore.
 
-That memory centers on a war that was itself the last coherent
-Expedition of the collapsing civilization.
+The {{p|Trojan War}}: here {{p|Greek}} memory shows
+The Late {{x|Bronze Age}} shuddering toward its close.
+Soon after the war, the palaces, those
+That launched it, were themselves destroyed. They burned:
+{{c|1337|Agamemnon}}'s {{p|Mycenae}}, once he'd turned
+Home, triumphant: in a generation.
+And {{p|Ithaca}}, {{c|2112|Odysseus}}' station,
+Faded away into {{x|Dark Age}}'s haze.
+The victors there at {{p|Troy}} outlived the praise
+Of victory, less than a century's days.
 
-                                             Three events. The
-{{p|Exodus}}. The {{p|Trojan War}}. The general collapse. The {{x|Gaiad}} reads them
+Their fall's implicit in the epic's art:
+The ninth or eighth century B.C.E.
+Is when {{p|Homer}} composes, and when he
+Looks back four centuries, a world apart,
+Long vanished. And {{c|1337|Agamemnon}}'s own town,
+{{p|Mycenae}}, is, for {{p|Homer}}, legend's crown.
 
-As three reflexes of a single {{x|Bronze Age}} crisis. Three cultural
-Memories of what it was like to live through the shattering. In
-The {{p|Hebrew}} case: slavery, miraculous deliverance, covenant, the
-Forging of a new identity grounded in religious law. In the {{p|Greek}}
+The gold, the bronze, the chariots, and their
+Hundred-oared ships: these things are not a share
+In {{p|Homer}}'s own world; and they are, instead,
+Remembered from the lost world of the dead.
+The {{p|Iliad}}, the {{p|Odyssey}}: these hold,
+In {{x|Dark Age}} preservations, all the old
+{{x|Bronze Age}} memory, centered on a war,
+The last coherent expedition, for
+Civilization, failing at its core.
 
-Case: heroic warfare, divine caprice, the fall of mighty cities,
-The forging of a new identity grounded in epic memory. In the
-Archaeological case: ash layers, abandoned palaces, mass migrations,
-The forging of new ethnic groupings in the ruins. Each culture
+Three events: {{p|Exodus}}; the {{p|Trojan War}};
+The general collapse. They are, at core,
+In the {{x|Gaiad}}, three reflexes of one
+{{x|Bronze Age}} crisis: three memories that run
+In culture, of the shattering they knew.
+In the {{p|Hebrew}} case: slavery; and, too,
+Miraculous deliverance, and through
+The covenant, a new identity
+Forged in religious law, by its decree.
+And the {{p|Greek}} case: heroic war; divine
+Caprice; and mighty cities in decline;
+The forging of new identity, grown
+In epic memory. And in the stone,
+The archaeological case: the ash
+In layers; palaces left in the crash;
+Mass migrations; new ethnic groups, among
+The ruins forged. Each culture, in its tongue,
 
-Processed the collapse in its own way. Each memory is partial and
-Reshaped. But all three memories are responses to the same
-Historical event: the end of the integrated {{x|Bronze Age}} world.
+Has processed the collapse in its own way.
+Each memory is partial and, they say,
+Reshaped. But all three memories respond
+To one historical event, and bond:
+The end of the integrated {{x|Bronze Age}}
+World. And the {{x|Gaiad}} here, upon this page,
+Makes a theological claim: this age
+Of collapse was not just ruin; it bore
+A birthing too: in rubble, at the core
+Of palace economies, there emerged
+The preconditions of new faiths, which surged.
+The god-king theocracies could not survive
+Without their bureaucratic base alive.
 
-And the {{x|Gaiad}} makes a theological claim about this moment. The
+And when the {{c|2143|Pharaoh}} could no longer claim
+Divine rule of a working state, the same
+Authority, divine, had to migrate
+Elsewhere; it migrated to text: the weight
+Of {{p|Hebrew}} scripture, in one line, begun;
+{{p|Homeric}} epic in another one;
+And then the philosophic texts of these:
+The {{p|Greeks}}, the {{p|Persians}}, {{p|Indians}}, {{p|Chinese}}.
 
-Collapse was not merely a disaster. It was also a birthing. In
-The rubble of the palatial economies, the preconditions for new
-Kinds of religion emerged. The god-king theocracies could not
-Survive without their bureaucratic substrate. When {{c|2143|Pharaoh}} could
+The {{x|Axial Age}} that follows, the great
+Revolution of religion, the state
+Of thought, the sixth century B.C.E.,
+Which will produce, as from a single tree,
+{{c|1959|Buddha}} and {{c|1958|Confucius}}, {{c|2144|Laozi}}, and then
+{{c|2145|Mahavira}}, the {{p|Hebrew}} prophets' pen,
 
-No longer claim divine authority over a functioning state, the
-Idea of divine authority had to migrate elsewhere. It migrated
-Into text—{{p|Hebrew}} scripture in one line, {{p|Homeric}} epic in another,
-Eventually the philosophical writings of {{p|Greeks}} and {{p|Persians}} and
+{{c|2146|Zarathustra}}, the pre-Socratic {{p|Greeks}}:
+This {{x|Axial Age}}, of which this book speaks,
+Is possible: the {{x|Bronze Age}} god-kings' fall
+Cleared cultural space for new kinds, for all,
+Of religious imagination: things
+Like gods without kings, and like godless kings.
+Ethical demands from transcendent hands,
+Not from political rulers' commands.
+Textual canons, keeping in their sway
+Religious authority, there to stay
+Across political disruptions. These
+Were all possible because, by degrees,
 
-{{p|Indians}} and {{p|Chinese}}. The {{x|Axial Age}} that follows—the great
-Religious and philosophical revolution of the sixth century BCE,
-Which will produce {{c|1959|Buddha}}, {{c|1958|Confucius}}, {{c|2144|Laozi}}, {{c|2145|Mahavira}}, the
-{{p|Hebrew}} prophets, {{c|2146|Zarathustra}}, the pre-Socratic {{p|Greeks}}—this
+The {{x|Bronze Age}} had ended. And its decay
+Was death for one religious mode, and lay
+Ground for another; it prepared the way.
+In the {{x|Gaiad}}, in this we see the hand
+Of something vast: not providence, as planned
+In the traditional sense, but the long
+Self-correcting, elaborating song
+Of all religious possibility.
+The {{x|Bronze Age}} as civilization's frame
+Had reached its limit. And its fall became
+The room for what came after it to be.
 
-{{x|Axial Age}} is possible because the {{x|Bronze Age}} god-kings have fallen.
-Their collapse cleared the cultural space for new kinds of
-Religious imagination. Gods without kings. Kings without divinity.
-Ethical demands issued by transcendent sources rather than by
+{{p|Bronze Age Collapse}}. The {{p|Sea Peoples}}. The drought,
+Earthquake, rebellion, invasion: the rout
+Of systems. {{c|2140|Ramesses III}}, he who saves
+{{p|Egypt}} at {{p|Medinet Habu}}, from waves.
 
-Political rulers. Textual canons preserving religious authority
-Across political disruptions. These were all possible because the
-{{x|Bronze Age}} had ended. The collapse was the death of one mode of
-Religious life, but it was also the preparation for another. The
+{{p|Hattusa}} burning, {{p|Mycenae}} aflame;
+{{p|Ugarit}}'s last letter; and no help came.
+{{p|Troy VII}} falling. {{p|Israel}} come to be
+In {{p|Canaan}}; {{p|Philistines}} along the sea.
+Alphabet spreading. Iron replacing
+Bronze. The palace kingdoms dying, facing
+Small nations being born. The end, unfurled,
+Of the whole integrated {{x|Bronze Age}} world.
 
-{{x|Gaiad}} sees the hand of something vast in this: not providence in
-The traditional sense, but the self-correcting, self-elaborating
-Unfolding of human religious possibility. The {{x|Bronze Age}}
-Civilizational system had reached its limit. Its fall made room
-
-For what came next.
-
-                   {{p|Bronze Age Collapse}}. {{p|Sea Peoples}}. Drought,
-Earthquake, rebellion, invasion, systems collapse. {{c|2140|Ramesses III}}
-Saving {{p|Egypt}} at {{p|Medinet Habu}}. {{p|Hattusa}} burning. {{p|Mycenae}} burning.
-
-{{p|Ugarit}}'s last letter begging for help. {{p|Troy VII}} falling.
-{{p|Israel}} emerging in {{p|Canaan}}. The {{p|Philistines}} settling the coast.
-The alphabet spreading. Iron replacing bronze. The palatial
-Kingdoms dying, the small nations being born. The end of the
-
-Integrated {{x|Bronze Age}} world.
-
-                              {{p|Exodus}}, {{p|Trojan War}}, {{p|Bronze Age Collapse}}.
-Three names. One crisis. One birthing. The next three millennia
-Of human civilization shaped in the rubble.
+{{p|Exodus}}, {{p|Trojan War}}, {{p|Bronze Age Collapse}}.
+Three names. One crisis. One birthing. The maps
+Of human civilization's next three
+Millennia, in rubble, came to be.
 
 
 # Chapter 161: Fall of Shang
