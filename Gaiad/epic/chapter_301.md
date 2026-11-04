@@ -30,7 +30,7 @@ And the next winter the {{x|Russian}} frigate *{{x|Diana}}*, come to make a trea
 Was wrecked by the tsunami of the great earthquake, and more
 Strangers' graves were dug at {{p|Gyokusen-ji}}. And the monks, who knew
 
-Nothing of their faith and nothing of their families, kept them; they keep them still.
+Not their kin, kept them as kin; they do still.
 Every year the monks of {{p|Shimoda}} tend the stones of men from across the world,
 The ones the black ships brought who were not saved. They did not have to; they did, of their own will,
 By the temple's own law: a grave is kept. And over the names the incense curled,

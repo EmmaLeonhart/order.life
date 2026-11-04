@@ -127,10 +127,10 @@ Do not say the great rite had been kept every November.
 The papers spoke of a sun goddess and a bed.
 The household's ritualists said he does not lie on it.
 A prayer for peace is not a report that the peace was finished.
-The night was a ceremony of the imperial house,
-Not a state ceremony.
-The purse was argued, a religious act
-And the public money in the same argument.
+The law called it a house rite, not of state;
+The purse was argued in the long debate,
+Religious act, or public money spent:
+One house, one state: the state paid, as was meant.
 It cost two and a quarter billion yen.
 The constitution's word for him was not changed that night.
 The {{x|English}} word divine is not this offering.

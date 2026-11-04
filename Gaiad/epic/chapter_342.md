@@ -77,10 +77,12 @@ A ceasefire came in August, and the border held, with the guns kept mute.
 
 ## The civil war
 
-On the twenty-second of February, in {{p|Samarra}}, bombs destroyed
-The golden dome of the {{x|al-Askari Shrine}}, holy to the {{x|Shia}},
-And the killing between {{x|Shia}} and {{x|Sunni}} in {{p|Iraq}} became a civil war,
-Bodies in {{p|Baghdad}} each morning with their hands bound, in the city's misery.
+February's twenty-second: the gold
+Dome of the {{x|al-Askari Shrine}}, the old
+Tomb of two imams, fell to bombs; the fight
+Of {{x|Shia}} and {{x|Sunni}}: whose dead, whose rite,
+Became a civil war; in {{p|Baghdad}}, bound,
+The hands of every morning's dead were found.
 
 On the eighth of November {{c|4568|Donald Rumsfeld}} resigned.
 On the thirtieth of December {{c|4528|Saddam Hussein}} was hanged at dawn,

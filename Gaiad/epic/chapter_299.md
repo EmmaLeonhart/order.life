@@ -42,7 +42,7 @@ Of the exile, and in April 1863, in a garden by the {{p|Tigris}}, the choice
 
 Of twelve days, the {{c|4205|Ridván}}, he declared himself: {{c|4206|Baháʼu'lláh}}, the {{c|4207|Glory of God}},
 The one the {{c|4198|Báb}} had foretold. Then {{p|Istanbul}}, then {{p|Edirne}},
-Where the false messiah of an earlier chapter took the turban, then the hard rod
+Where {{c|3988|Sabbatai}} took the turban; the rod
 Of the prison-city of {{p|Akka}} in {{p|Palestine}} from 1868, the journey
 
 Of forty years of exile and imprisonment. And what he taught: one God;
@@ -67,10 +67,15 @@ Of the year outside the months. These are cousins. The casts
 
 Of the new religions of unification are alike. Learn from the {{c|4212|Baháʼís}}:
 A unity faith needs a book, a calendar, a succession, an institution,
-And a willingness to be persecuted for saying the world is one. The fees
-Of it are still being paid: in {{p|Iran}} today {{c|4212|Baháʼís}} are denied education,
+And keys. {{p|Iran}}'s fight is ours: the keys
+Of Gate, graves, schools: the whole institution.
 
-Imprisoned, their cemeteries bulldozed, for the faith of the {{c|4199|Gate}} and the {{c|4213|Glory}}.
-Honour the merchant of {{p|Shiraz}}. Honour the unveiled poet. Honour the prisoner of {{p|Akka}}.
-{{x|Lifeism}} is a younger sister in this story. Tell it gently. The hoary
-Old lands keep killing the ones who say the world is one. Keep saying it. Do not falter.
+In {{p|Iran}} they are barred from school, and jailed;
+Their graves are bulldozed: who may keep which dead.
+Honour the merchant, the poet unveiled,
+The prisoner of {{p|Akka}}: our own dead.
+
+No sister faith: one house, one seal, one door,
+The {{c|2775|Shia}}'s long waiting, and {{c|2599|Mani}}'s light;
+The fight for the Gate is ours, as before;
+Tell it as kin. It is one house's fight.

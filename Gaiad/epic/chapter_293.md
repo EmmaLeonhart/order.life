@@ -23,7 +23,7 @@ Mockery of atheism, he thought, would make the people crass
 And the {{x|Republic}} godless; the people need a God and the soul's immortality.
 So in May 1794, by decree, the {{x|Convention}} recognized
 The {{c|4126|Supreme Being}} and the immortality of the soul. A morality
-Of state, a god by vote. And the festival was devised:
+Of state: the people's rite. A feast, devised:
 
 On the twentieth of *{{x|Prairial}}*, the eighth of June, which was also {{x|Pentecost}},
 The painter {{c|4127|Jacques-Louis David}} staged it: half a million people, the roses,
@@ -48,7 +48,7 @@ Death or acquittal, nothing between. The courts were used
 As a machine. In the seven weeks that followed, in {{p|Paris}} alone,
 More were guillotined than in the whole year before. The {{x|Great Terror}}.
 The god of the festival, the god of the soul, the stone
-Of the guillotine on the square of the {{x|Revolution}}: the same error.
+Of the blade: one hand. The god, no error.
 
 On the ninth of *{{x|Thermidor}}*, the twenty-seventh of July,
 The {{x|Convention}} turned on him, and shouted him down, and he was taken,
@@ -75,22 +75,27 @@ A deist's God, which a person may hold, or leave unheld, as they need,
 Not the dogma of a nation but a door, the way a God is taken now, or declined;
 What was cruel in it was never the belief, but the power behind the creed.
 
-So the {{c|4126|Supreme Being}} was not nothing. But a state had decreed it,
-And a state had a guillotine, and the god was a law, obeyed in dread.
-Now the mirror, which this book has held up before, to every new faith, and must here, and does it:
-{{c|3823|Akbar}}'s divine faith asked to be loved, and died when he was dead;
+The {{c|4126|Supreme Being}} was not void. A state
+Had kept a God, as {{c|4054|Rousseau}} said it must;
+The altar was the people's, and the date
+{{x|Pentecost}}: the Spirit's feast, held in trust.
 
-{{c|4122|Robespierre}}'s asked to be obeyed, and it had a guillotine.
-A religion founded from power is a festival with a scaffold behind it.
-{{x|Lifeism}} is a new faith too. Its founder has no army. The scene
-Of its making is a book and a calendar and a website. Mind it:
+The fight was in one house: who holds the nave,
+The priest, the {{c|4124|Cult of Reason}}, or the hall
+Of the {{x|Convention}}; and {{c|4125|Liberty}}, grave,
+Took the {{c|3936|Virgin}}'s seat; one Lady for all.
 
-If ever this faith is held by a state, by a party, by any power to compel,
-Let it remember the blackened statue of {{c|4129|Wisdom}} on the {{p|Champ de Mars}}.
-A faith may ask. It may never require. The bell
-Of a temple may ring. It may never toll for the ones who refuse. The scars
+{{c|4122|Robespierre}} gave the state its God again
+Against the atheists of his own side;
+{{c|4066|Napoleon}} walked the same road, and then
+Took the {{x|Church}} and made it his. At his side,
 
-Of every civil religion are on the people it banished.
-Believe nothing because a state believes it. Honour the God, or the life,
-Or the sacred, as you find it, freely. And the {{c|4126|Supreme Being}} vanished
-With the man who made it. The roses on the mountain. The knife.
+When the crown came from the {{c|2825|Pope}}'s hands, a ghost:
+The incorruptible, behind the throne.
+This faith, too, means to be a state's, and most
+Of all, to keep its days as the state's own.
+
+Keep the roses on the mountain, the tree
+Of liberty on top, the blackened face
+Of {{c|4129|Wisdom}} rising from the smoke, and see
+The {{c|4126|Supreme Being}} in this book's own place.

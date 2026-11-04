@@ -21,8 +21,8 @@ A man named {{c|2599|Mani}} said that the prophets before him were each sent to 
 And each one's teaching was changed by those who came after, and he was sent to all the rest,
 
 To all of them at once, and he would write his books himself, so that they could not be changed.
-He called himself the seal of the prophets, and that phrase was later by another faith arranged:
-{{x|Islam}} took the seal from him, and much of its logic of the prophets came out of his,
+The seal grew from his teaching, though unclaimed;
+{{x|Islam}}, the same house, carried it, renamed;
 For I read {{x|Islam}} as having come out of one reading of {{x|Manichaeism}}, and that is what it is.
 
 His religion told of light and dark mixed together in the world,

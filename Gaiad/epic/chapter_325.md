@@ -61,17 +61,15 @@ The rite is not kept by calling the clay only clay.
 The grave of the man whose work was the keeping of rites
 Was opened under an order that the buildings were to stand.
 
-Do not say the revolution ended tradition.
-The order itself said to leave a museum.
-A museum is not a sacrifice offered.
-Do not say the breaking was nothing,
-Because a wall was ordered kept,
-Or because a hand hid a book.
-The striving is the keeping:
-A book, a rite, a grave, a name.
-The year opened the grave.
-The year did not take every book.
-Neither sentence cancels the other.
+The quarrel was our own: who keeps the dead,
+The house of {{c|4439|Kong}}, or those who came to break;
+Who holds the rite, the grave, the tablet's bread.
+They kept a museum, for the walls' sake;
+
+A museum is not a sacrifice.
+The rite was ours, and the rite paid the price.
+Some books were hidden by the people there;
+Our fathers' tablets ask for that same care.
 
 {{c|4433|Mao Zedong}} died on the ninth of September, 1976,
 In {{p|Beijing}}.

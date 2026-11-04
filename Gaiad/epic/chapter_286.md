@@ -21,7 +21,7 @@ And where was God? Theology was a twig on the branch of Reason. The mystery
 Of faith was filed under the human mind. The parts
 
 Of the world, and the parts of heaven, in one human scheme.
-That was the scandal before a word was read. And the words:
+The quarrel was who files the tree. The words:
 Seventy-two thousand articles, over twenty years, a team
 Of a hundred and fifty writers: {{c|4001|Voltaire}}, {{c|4054|Rousseau}} on music, the herds
 
@@ -31,7 +31,7 @@ Hiring secretaries with his own money. Hold his name. The sure
 Labour of the unglamorous. And the subversion: in the way
 
 Of a dictionary, a dull article on cannibals would say, at the end,
-*See: {{x|Eucharist}}*. The cross-references were the weapon.
+*See: {{x|Eucharist}}*: a jab from kin at kin.
 And the plates: eleven volumes of engravings, the most beautiful the century would send
 Into the world, not of kings, but of workshops: how to step in
 

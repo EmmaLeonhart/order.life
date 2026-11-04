@@ -29,8 +29,9 @@ They said nýheiðni: new heathenry.
 Do not say they claimed an unbroken priesthood.
 The limit is in the application.
 
-At {{p|Þingvellir}}, in the year later tellings
-Call 1000, the assembly took the Christian law.
+Near the year one thousand, the tellings say,
+{{p|Þingvellir}}: one house chose the public way,
+The {{x|Christian}} law, for all, would hold the sway;
 A private sacrifice was still permitted,
 And then that permission was taken back.
 A book is not a blót.
@@ -93,7 +94,8 @@ A share of the church tax followed
 The adult members on the list.
 A name on a list draws a share.
 A share is not a belief.
-Do not say {{p|Iceland}} changed its church.
+It was a fight in one house, for the share,
+The register, the rite, whose priests were there.
 
 Later that year {{c|4461|Halldór Blöndal}}
 And {{c|4462|Magnús Jónsson}} asked the minister why.

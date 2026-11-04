@@ -21,7 +21,7 @@ The tract had given names to what the vision had begun.
 With his friend {{c|4217|Feng Yunshan}} he went preaching, and again,
 
 In the hills of {{p|Guangxi}}, to the {{c|4214|Hakka}}, the miners, the charcoal-burners, the poor;
-And the {{c|4218|God Worshippers}} grew to thousands, and they smashed the idols down,
+{{c|4218|God Worshippers}} grew and pulled the gods down,
 In a land of famine and of opium, under the {{x|Manchu}}, where the south kept sure
 The memory of the {{x|Ming}}. In January 1851, at {{p|Jintian}}, a little town,
 

@@ -27,7 +27,7 @@ Faith of the starving. A hundred and twenty thousand men, and the plea
 
 Of the shogun's general to the {{c|3869|Dutch}}: and the {{c|3869|Dutch}} came,
 The ship *{{x|De Ryp}}*, and fired its cannon into the castle walls
-For two weeks, {{c|3920|Protestants}} for the shogun against the papists, the same
+Two weeks, kin shelling kin, for trade: the same
 Trade-loyalty that kept them on {{p|Dejima}}. The calls
 
 Of the rebels shot back into the shogun's camp with arrows:
@@ -55,15 +55,15 @@ Repeated, *orasho*, worn smooth like a stone in a stream.
 They hid the {{c|3936|Virgin}} in a white porcelain {{c|3937|Kannon}}, the merciful one, the door
 Of the {{x|Buddhist}} mercy opening on the {{c|3708|Mother}}: {{c|3938|Maria Kannon}}. The dream
 
-Of the faith wore the robe of the other faith, and kept itself inside.
-That is syncretism forced by fear, and it became their own.
+Of the one mercy wore two names inside.
+Fear chose which name was said; both were their own.
 They stepped on the image each {{x|New Year}}, and went home, and cried,
 And said the contrition prayer, *konchirisan*, for the stone
 
 Their foot had touched. And the centuries passed. And in 1865,
 When the country had opened again to the foreigners, a {{x|French}} priest,
 {{c|3939|Bernard Petitjean}}, built a church at {{p|Ōura}} in {{p|Nagasaki}}, to keep alive
-The faith of the foreigners. And on the seventeenth of March, the least
+The traders' rite. March seventeenth: the least
 
 Expected thing: a group of women and men from {{p|Urakami}} came in,
 And watched him at prayer, and one of them, a woman, came close,
@@ -85,7 +85,7 @@ And no priest from {{p|Rome}} could tell them it was wrong.
 Here is the whole {{x|Gaiad}} in one village: the wraith
 Of the faith that would not die, kept by the weak and the strong
 
-Together, in the robe of another faith, under the eye
+Together, the one rite, beneath the frame
 Of the register. Honor the boy on the wall of {{p|Hara}}. Honor
 The woman at {{p|Ōura}}. Honor what is kept when the priests die, the keeper and the corner
 Where it was kept. Where is the image of {{c|3399|Santa Maria}}? Here. Our hearts are the same.

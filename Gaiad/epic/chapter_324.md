@@ -87,15 +87,15 @@ And a site on the network,
 Are not this year.
 Do not move them back.
 
-A film can be copied again
-If the book it came from burns.
-That is a real keeping.
-The same film lays a population open to an office.
-A copy is not a consent.
-A consent is not a copy.
-The striving is that a name not be lost,
-And that a rite not be spoken
-As if the film had been the will.
+A film outlives the book, if the book burns:
+That is a real keeping. And the old fight
+Comes with it, ours, the one that returns:
+Who may honour which dead, and by what right.
+
+Some say: our dead are ours, and leave them be.
+The rite: a gift the dead may take or leave,
+Offered in the temple, and offered free;
+And no name lost: the thing this book would weave.
 
 Count 1938 as the start of the filming.
 Count May 1960 as the start of the blasting.

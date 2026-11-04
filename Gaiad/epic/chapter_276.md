@@ -33,7 +33,7 @@ Of his days spent looking across the river at the white line
 Of the tomb he had built, for eight years, until he died.
 And the son ruled for forty-nine years, as {{c|3962|Alamgir}}, {{c|3963|Seizer of the World}}.
 Now hear it carefully, and hear it with nothing to hide:
-He was a bigot, who undid the peace that {{c|3823|Akbar}} unfurled;
+One house, one throne: the fight was who'd preside.
 
 And he was a ruler of his time, who also granted land
 To temples, and employed more {{x|Hindu}} nobles than his father did.
@@ -77,5 +77,5 @@ And the taker. The confluence is never closed. It is still
 
 Running somewhere. Find it. Two seas, one water.
 Sit with the sages. Do not cut off the head
-Of the brother who found the same ocean in another's daughter
-Faith. The two seas meet. Let them. Let the river be fed.
+Of him who saw both shores held one water.
+Two seas, one rite. Let the river be fed.

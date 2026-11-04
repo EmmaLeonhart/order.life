@@ -123,7 +123,10 @@ And the senate acquitted him, and in July {{c|4720|Boris Johnson}} became prime 
 And won a great majority in December to get the leaving done, and I am against the leaving, as I have been.
 
 On the third of June the inquiry of {{p|Canada}} into its missing and murdered indigenous women and girls called it a genocide,
-And on the sixteenth of June {{p|Quebec}} forbade its teachers and police and judges to wear the signs of their faiths at work, and the faiths were denied.
+June the sixteenth: {{p|Quebec}} forbade the signs
+Of faith to judges, teachers, and police;
+Which office wears which robe: one house's lines,
+A quarrel in the one house, not its peace.
 On the twenty-first of October {{c|4678|Justin Trudeau}} was returned, with fewer seats,
 After photographs of him in his youth with his face painted black were printed in the sheets.
 

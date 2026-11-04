@@ -83,7 +83,8 @@ And the war of the chapter of two thousand and one was over, and the men it was 
 On the twenty-seventh of May the people of {{x|Tk'emlúps te Secwépemc}}, near {{p|Kamloops}}, in my province,
 Said a radar in the ground had found what were believed to be the graves of some two hundred children, in a school of the crown's providence,
 And other nations searched their schools, and found more, and the flags flew at half-mast for months,
-And many towns did not keep the country's day that summer, and churches burned, more than once.
+Towns did not keep the day; and churches burned,
+One house: the children's graves, its anger turned.
 
 On the sixth of June, in {{p|London}}, in {{p|Ontario}}, a young man drove his truck into a Muslim family out walking,
 And killed four of them, three generations, and the hate was the one doing the talking.

@@ -59,11 +59,12 @@ On the nineteenth, the sixth of January in the country's count,
 The sitting was closed.
 The votes had been counted. The assembly was not let go on.
 
-Early that year the government printed a separation.
-The church stood apart from the state.
-The school stood apart from the church.
-The sentence did not abolish a liturgy.
-It took the church out of the offices the party had occupied.
+Early that year the government decreed
+The church apart from the state and the school;
+A quarrel in one house: the party's creed
+Took the altar's offices, and the rule
+Of the dead and the bells; and then the worst:
+Priests shot, the churches closed, the flock dispersed.
 
 On the sixth of February, in this book's count,
 The same government ordered a change of days.

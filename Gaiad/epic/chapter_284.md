@@ -55,27 +55,32 @@ Retook {{p|Riyadh}}, and by 1932 the kingdom was named for his family.
 In 1925 the domes at {{p|Baqi}} were pulled down again. And the flood
 Of oil, found in 1938, would carry the preaching, quietly and loudly,
 
-To mosques and schools across the world. Now hold this carefully, because it is the spine
-Of this book: the movement said it was a return to the pure beginning.
-But what it built had never existed: a state church in a desert, a line
-Of two families, a faith stripped of the saints that the beginning
+To mosques and schools across the world. Now hold
+This close: it is the spine of this whole book.
+The fight was over graves: who may enfold
+The dead in a dome, who may come and look.
 
-Had grown in a thousand places, the {{c|3957|Sufi}} lodges, the shared shrines
-Where {{c|2764|Muslims}} and {{c|2494|Christians}} and {{c|2500|Jews}} had sometimes prayed side by side.
-A purification is always a new thing wearing the old lines.
-The {{c|3913|Old Believers}}' persecutors said they were restoring the pure rite. The pride
+The domes at {{p|Baqi}} kept the {{c|2776|Prophet}}'s kin;
+A rag on a tree let the widow in.
+The preacher said: no grave stands in between
+The one God and the asker; keep it clean.
 
-Of every reformer is to be the first faithful one since the founder.
-And what is cut away is the life that grew in between:
-The grandmother at the saint's tomb with her rag on the tree, the wonder
-Of the feast day, the shrine where two faiths met. The green
+So the dispute was ours, the oldest one:
+Who may honour which dead, and by whose leave;
+The sheikh's house and the sword, or everyone
+Who brought a rag to the saint's tomb, to grieve.
 
-Of the oasis was not a corruption. It was the faith alive.
-This book does not condemn the many {{c|2764|Muslims}} who keep this way with sincerity.
-It names the pattern: the return that is an invention, the drive
-To purity that splits. Hold the tree that was cut down. Its charity
+A faith, a state, two family trees, one pact:
+That is a thing this book can honour whole;
+The house of the sheikh holds the rite, intact,
+The emir's house the land: one house, one soul.
 
-Was shade. Somebody prayed under it. Remember them.
-God is one, the preacher said, and he was right. The oneness
-Is wide enough for the rag on the tree, and the saint's dome, and the hem
-Of the grandmother's prayer. The sacred has room. Make room. That is the oneness.
+What the sword cut away was ours as well:
+The {{c|3957|Sufi}} lodges, saints' feasts, and the shrine
+Where {{c|2764|Muslims}}, {{c|2494|Christians}}, {{c|2500|Jews}} would kneel and tell
+Their prayers side by side, as kin of one line.
+
+Hold the tree they cut down. Its shade was free;
+The one who prayed beneath it is our own.
+God is one, the preacher said; so are we:
+One house, with room for rag and dome and stone.

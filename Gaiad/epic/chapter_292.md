@@ -7,7 +7,7 @@ The first day of the {{x|Year One}}. Time itself would show the strength
 
 Of the {{x|Revolution}}: the old calendar was the {{x|Church}}'s and the kings',
 Its saints' days and its Sundays, its years counted from a birth in {{p|Bethlehem}}.
-The new one would be reason's. A mathematician, {{c|4119|Gilbert Romme}}, the things
+The days: whose were they? {{c|4119|Gilbert Romme}}, the things
 Of the stars in his hands, and a poet, {{c|4120|Fabre d'Églantine}}, the hem
 
 Of the language in his: they made it. Twelve months of thirty days each,

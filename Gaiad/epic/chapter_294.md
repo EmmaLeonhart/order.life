@@ -36,7 +36,7 @@ And he gave more: reading the *{{x|Tale of Genji}}*, he found the phrase
 The heart moved by the passing of the world. The praise
 
 Of feeling over moral lesson. That is his too.
-And here is the other edge, which the spine of this book calls invented tradition.
+Here is the other edge of tradition:
 He taught that the {{x|Japanese}} heart had been corrupted by the {{x|Chinese}} mind, the *karagokoro*,
 And the {{x|Buddhist}}, and that the true way was the ancient one, the condition
 
@@ -45,10 +45,10 @@ That was a scholar's longing. In the next generation, {{c|4139|Hirata Atsutane}}
 Who called himself his disciple after he died, made it a creed, a stricter key:
 The emperor descended from the {{c|99|Sun}}, {{p|Japan}} the land of the gods, the cannon
 
-Of the nation pointing outward. And in the next century the state
-Would take the longing and make it law: the gods and the buddhas torn apart,
-{{x|State Shinto}}, the emperor divine, the schools, the war. The weight
-Of that is not his. But the seed was in his heart.
+Of the nation, pointing outward. The state
+Took up the longing, and it kept the rite
+Of kami, parted from buddhas: the great
+Work of {{x|State Shinto}}, and the war, the night.
 
 He wrote a poem: *If someone asks what the {{x|Japanese}} heart is,
 It is the mountain cherry blossoms, fragrant in the morning sun.*
@@ -62,8 +62,8 @@ Lesson for her, and for every reader: the love of the ancient word
 
 Can be turned into a weapon by someone else, a century on.
 Keep the commentary. Keep the reading of the names of the gods. Keep *mono no aware*.
-And refuse the purity. The kami were never pure of the foreign. The sun
-{{c|199|Goddess}} blesses rice that came from the continent, and the buddhas sat with the kami. There
+Keep the pure longing, the mixing, the dawn:
+The buddhas sat with the kami. And there
 
 Was always mixing. That is the true ancient way. {{c|4140|Norinaga}}'s grave
 Is on a mountain above {{p|Matsusaka}}, plain, and over it, as he asked, a mountain cherry.

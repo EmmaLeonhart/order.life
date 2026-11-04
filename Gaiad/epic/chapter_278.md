@@ -48,12 +48,12 @@ Filled with pilgrims. And in September he was brought, enthralled
 Or terrified, before the sultan's council at {{p|Edirne}},
 And offered a choice: a miracle, or death, or {{x|Islam}}.
 He took the turban. *{{c|3990|Aziz Mehmed Efendi}}*. The journey
-Was over. The messiah had converted. The calm
+Was done. The court had changed his name. The calm
 
 Of the morning after: shame, disbelief, the scattering.
 Some said it was a mystery, a descent into the husks
 To gather the last sparks. A few followed him into {{x|Islam}}, the battering
-Of their faith turned inside out: the {{c|3991|Dönme}} of {{p|Thessaloniki}}, the dusks
+Of one rite, two robes: the {{c|3991|Dönme}}; the dusks
 
 Of their secret rites kept for two hundred years. And most
 Went home, and unpacked, and mourned. Except the barrels in {{p|Hameln}}:
@@ -80,12 +80,12 @@ Could still dance in the synagogue, and still pack the barrels, and still, when 
 Turned to shame, unpack, and live, and wait. The word
 Of the festival: rejoice in what does not last. The scope
 
-Of the messiah was wrong. The joy was not wrong.
+Of his year was short. The joy was not wrong.
 Sit in the hut tonight. It will not stand forever.
 Sing anyway. The roof is thin. The night is long.
 The barrels can be unpacked. The hope can be kept. Never
 
-Confuse a man with the end of the world.
+Let one year's dawn close the door of the world.
 And never stop leaving the roof open to the stars.
 Rejoice in the booth. The branches are curled
 Over your head, and they let the light through the bars.

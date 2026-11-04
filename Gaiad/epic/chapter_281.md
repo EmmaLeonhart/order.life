@@ -5,63 +5,83 @@ Went to the ancestors' hall, and set the first of the harvest
 Before the tablets of the dead: the rice, the millet, the homily
 Of the incense, the bowing, the names read out. The darkest
 
-Winter would come; first, the thanks. This is the day of the harvest.
-Hold that table in your eye, because {{p|Rome}} would forbid it.
-{{c|3997|Ricci}} had made his wager: these were civil rites, the starkest
-Honouring of the parents, not worship. A {{x|Christian}} could do it.
+Winter would come; first, thanks. This is the day.
+Keep that table in your eye: our own rite,
+And the quarrel round it was ours. The way
+It ran: who holds the table, by what right.
 
-His order, the {{c|3588|Jesuits}}, kept the wager for a hundred years.
-Other orders came to {{p|China}}, the {{c|4002|Dominicans}}, the {{c|3570|Franciscans}},
-Who worked in the villages, not the court, and saw, among the peasants' tears
-And offerings, food set out for the dead to eat, the stances
+{{c|3997|Ricci}} had made his wager: let them bow;
+Let the believer keep his fathers' hall;
+And {{x|Tian}} and {{x|Shangdi}} named the God of all.
+His order, the {{c|3588|Jesuits}}, kept that vow.
 
-Of prayer to spirits, and said: this is idolatry. And they said:
-The words {{c|3997|Ricci}} used for God, *{{x|Tian}}*, {{x|Heaven}}, and *{{x|Shangdi}}*,
-The {{x|Lord on High}}, are pagan words. The quarrel spread
-To {{p|Rome}}, to the universities of {{p|Paris}}, where the clergy
+A century. Then {{c|4002|Dominicans}} came,
+With the {{c|3570|Franciscans}}, to the farms, and saw
+Food set for the dead, and gave it a name,
+And called it idol-worship, by their law.
 
-Argued for decades about a country none of them had seen.
-The {{c|3588|Jesuits}} asked the emperor himself. And in 1700 the great {{c|3950|Kangxi}},
-Who had made the {{c|3588|Jesuits}} his astronomers, signed a statement, clean
-And clear: the rites to {{c|1958|Confucius}} are to honour a teacher; the ancestry
+They said the names {{x|Tian}} and {{x|Shangdi}} were wrong
+For God. But the heart of it was the hall:
+Who sets the bowl, who reads the names, whose song
+Is sung there, and whose keys are over all.
 
-{{x|Rites}} are to show love and remember; *{{x|Tian}}* means the {{x|Lord of Heaven}}.
-Nothing in them is a prayer for blessing from the dead.
-The emperor of {{p|China}} had settled it. And {{p|Rome}}, the leaven
-Of whose authority could not be shared, said: it is not his to settle. Instead,
+The quarrel went to {{p|Rome}} and {{p|Paris}}, where
+The clergy argued it for decades, men
+Who never saw the land, nor the hall's prayer.
+The {{c|3588|Jesuits}} asked the emperor then.
 
-In 1704, {{c|4003|Clement XI}} decreed: no *{{x|Tian}}*, no *{{x|Shangdi}}*, only *{{x|Tianzhu}}*,
-{{x|Lord of Heaven}}, {{c|3997|Ricci}}'s coinage; no tablets saying *seat of the soul*;
-No {{x|Christian}} to take part in the rites of {{c|1958|Confucius}}, nor do
-The seasonal offerings at the ancestors' hall. The whole
+In seventeen hundred, {{c|3950|Kangxi}}, the great,
+Signed for the {{c|3588|Jesuits}} a word of state:
+The rite to {{c|1958|Confucius}} thanks one who taught;
+The rite in the hall is love, and asks naught
 
-Of the accommodation, refused. A legate, {{c|4004|Tournon}}, carried it to {{p|Beijing}},
-And the emperor received him, and heard what he had come to say,
-And questioned the bishop who had begun it, {{c|4005|Maigrot}}, who could not read a single thing
-Of the characters, and was furious that such a man should judge the classics. The way
+Of blessing from the dead; {{x|Tian}} is the name
+The {{x|Lord of Heaven}}'s. The throne made the call.
+And {{p|Rome}} said: not his to settle; the same
+Keys could not be shared, not over the hall.
 
-It ended: the legate expelled to {{p|Macau}}, where the {{x|Portuguese}},
-Jealous of their own rights, held him, and he died in 1710.
-{{p|Rome}} confirmed the ban in 1715. And the emperor, with ease
-And contempt, wrote on the papal decree with his red brush: *the men
+In seventeen-oh-four the {{c|2825|Pope}} decreed:
+No {{x|Tian}}, no {{x|Shangdi}}; just {{x|Tianzhu}}, the name
+{{c|3997|Ricci}} had made; no tablet that would read
+*Seat of the soul*; then the heart of the claim:
 
-Of the {{p|West}} are small; they do not understand the great principles of {{p|China}}.
-From now on they need not preach here, to avoid trouble.*
-In 1724 his son banned {{x|Christianity}}. The fine
-Work of a century fell like a house to rubble.
+No {{x|Christian}} at the teacher's rite, and none
+At the year's offerings in the fathers' hall.
+The whole accommodation was undone.
+The keys would keep the dead. And that was all.
 
-And in 1742 {{c|4006|Benedict XIV}} closed it for good: every missionary
-To {{p|China}} had to swear an oath against the rites. For two hundred years
-A {{x|Chinese}} {{x|Christian}} could not bring the harvest to his fathers. The adversary
-Was not the emperor. It was a refusal to see. The tears
+A legate, {{c|4004|Tournon}}, took it to {{p|Beijing}};
+The emperor heard him, and asked one thing:
+Could {{c|4005|Maigrot}}, who began it, read the page?
+He could not read a character. The rage
 
-Of the converts who had to choose: their God, or their dead.
-Hold that, on {{x|Harvest Day}}. And then hold this: in 1939,
-In {{c|4007|Pius XII}}'s first year, {{p|Rome}} reversed itself. The rites, it said,
-Are civil. A {{x|Christian}} may bow. The tablets may be in line
+Was the throne's: such a man to judge the wise!
+The legate, sent to {{p|Macau}}, where the eyes
+Of {{x|Portuguese}}, for their rights, held him; then
+He died, in seventeen hundred and ten.
 
-With the faith. One hundred and ninety-seven years, from the final no
-To yes. The wager {{c|3997|Ricci}} made was right. The emperor was right.
+{{p|Rome}} sealed the ban in seventeen-fifteen,
+And {{c|3950|Kangxi}}, with his red brush, wrote between
+Its lines: *Men of the West are small; and so
+They need not preach here, to avoid a row.*
+
+His son shut, in seventeen twenty-four,
+The {{x|Lord of Heaven}}'s teaching in the land;
+Seventeen forty-two: the {{c|2825|Pope}}, once more,
+Made each priest swear off the rites, by command.
+
+Two hundred years the {{x|Christian}} could not bring
+His harvest to the dead. Keys, not the king,
+Had barred him. And the converts wept to choose
+The priests' altar or their dead: which to lose?
+
+Hold that, on {{x|Harvest Day}}. Then hold this, too:
+In nineteen thirty-nine, a {{c|2825|Pope}} still new
+Called the rites civil; a {{x|Christian}} may bow;
+The tablets stand in line with the faith now.
+
+One hundred ninety-seven years, from no
+To yes. The wager and the throne were right.
 The thanks at the harvest to those who came before, the bow
 To the tablet with the grandmother's name, was love. The light
 

@@ -22,8 +22,8 @@ The Japanese name is a teaching of truth, and a syllable
 A tradition already chanted.
 Do not treat the {{x|English}} as those words.
 He set beside the syllable the god {{c|1340|Shiva}},
-Whom another tradition already served,
-And an end a Christian book had already named.
+Whom {{p|India}}'s old rite had long since served,
+And the end our {{x|Christian}} book long reserved;
 A joining of what was already there is not yet a crime.
 The crime was the use.
 
