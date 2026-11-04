@@ -3486,325 +3486,325 @@ We need them both, if we would all stand tall.
 
 # Chapter 26: The Sponge Kingdom
 
-From {{c|288|Euka}}'s line arose kingdoms three,
-The greatest realms beneath the sea.
-Each house would claim its sovereignty,
-And rule with power, wild and free.
+From {{c|288|Euka}}'s line arose the kingdoms three,
+The greatest realms that ruled beneath the sea.
+Each house would claim its sovereignty, to be
+A ruler, strong in power, wild and free.
 
-The Kingdom of proud {{c|322|Plantus}} rose,
-Where photosynthetic glory grows.
-The realm of {{c|454|Mygus}}, where fungus flows,
-And {{c|439|Metazo}}'s beasts in ordered rows.
+The kingdom of the haughty {{c|322|Plantus}} rose,
+Where the photosynthetic glory grows;
+The realm of {{c|454|Mygus}}, where the fungus flows,
+And {{c|439|Metazo}}'s beasts in their ordered rows.
 
-Beside them stood the lesser lights:
-{{c|455|Mygaster}}'s realm, {{c|352|Kelpus}}' heights,
-{{c|346|Rhizar}}'s spears, {{c|357|Cilliofer}}'s sights,
-And {{c|348|Oomy}}'s spines in endless fights.
+Beside them stood the lesser kingdoms' lights:
+{{c|455|Mygaster}}'s realm and {{c|352|Kelpus}}' lofty heights,
+{{c|346|Rhizar}}'s spears, {{c|357|Cilliofer}}'s distant sights,
+And {{c|348|Oomy}}'s spines in their unending fights.
 
-The sons of {{c|358|Myzo}} swam in blood,
-While {{c|456|Myxo}}'s daughters sought their food.
-Each scions built where they once stood
-Their cities in the neighborhood.
+The sons of {{c|358|Myzo}} swam, a blood-soaked brood,
+While {{c|456|Myxo}}'s daughters went to seek their food.
+And each line built, on ground where once it stood,
+Their cities, side by side, a neighborhood.
 
-From {{c|439|Metazo}} and fair {{c|438|Anima}}
-Came creatures of the wild drama.
-From {{c|454|Mygus}} and sweet {{c|457|Funga}}
-Rose fungi's mystic saga.
+Fair {{c|438|Anima}} and {{c|439|Metazo}} begot
+The creatures of the wild, in dramas wrought;
+And out of {{c|454|Mygus}} and sweet {{c|457|Funga}} grew
+The fungi's mystic saga, strange and new.
 
-While {{c|322|Plantus}} and {{c|378|Virita}} bright
-Begat the plants that seek the light.
-Each kingdom claimed its ancient right
-To rule with majesty and might.
+While {{c|322|Plantus}} and {{c|378|Virita}}, shining bright,
+Begat the plants that ever seek the light.
+Each kingdom claimed its old, ancestral right
+To rule the sea with majesty and might.
 
-Upon a rock both firm and true,
-Great {{c|439|Metazo}} and {{c|438|Anima}}
-Built their city, small but new,
-The {{c|440|Animal}} Kingdom's first hurrah.
+Upon a rock that stood both firm and true,
+Great {{c|439|Metazo}} and {{c|438|Anima}}, the two,
+Built up their city, small but newly made:
+The {{c|440|Animal}} Kingdom's first stone was laid.
 
-Their citizens were three in kind:
-The {{c|444|Choanocytes}}, fishermen,
-The {{c|445|Archaeocytes}}, women refined,
-And {{c|446|Pinacocytes}} again.
+Their citizens were three, each of a kind:
+First, the {{c|444|Choanocytes}}, who fished the sea;
+Then the {{c|445|Archaeocytes}}, women refined;
+And last the {{c|446|Pinacocytes}}, which made three.
 
-The endodermal men would feed
-The city with their fishing skill.
-The mesodermal women's deed
-Was guarding with protective will.
+The endodermal men would fish and feed
+The city by the labor of their skill.
+The mesodermal women's chosen deed
+Was guarding it with a protective will.
 
-The ectodermal folk between
-Would anchor all with steadfast might.
-Their city, though it was not seen
-By many, shone with inner light.
+The ectodermal folk who lived between
+Would anchor all of it with steadfast might.
+Their city, though by few it had been seen,
+Was shining all the while with inner light.
 
-From this great union came a son,
-Bold {{c|458|Therion}} of noble birth.
-When his childhood days were done,
-He spread his lineage through the earth.
+From this great union there was born a son,
+Bold {{c|458|Therion}}, a child of noble birth.
+And when his days of childhood all were done,
+He spread his lineage across the earth.
 
-Great {{c|458|Therion}} bore three children true:
-Brave {{c|459|Porifer}}, the sponge's king,
-And {{c|460|Thallus}} with his geometric view,
-And {{c|461|Cloudi}}, who would upward bring.
+Great {{c|458|Therion}} then bore three children true:
+Brave {{c|459|Porifer}}, who was the sponges' king,
+And {{c|460|Thallus}}, geometric in his view,
+And {{c|461|Cloudi}}, he whose house would upward spring.
 
-Now {{c|460|Thallus}} chose the structured way,
-With holdfasts gripping to the stone.
-His {{c|462|Choanoderms}} in bright array
-Extended in directions known.
+Now {{c|460|Thallus}} chose to build the structured way,
+With holdfasts gripping firmly to the stone.
+His {{c|462|Choanoderms}} stood in bright array,
+Extended outward in directions known.
 
-But {{c|461|Cloudi}} raised his ectoderm high,
-Above the ground his city soared.
-His children reached toward the sky,
-Each generation climbing forward.
+But {{c|461|Cloudi}} raised his ectoderm on high;
+Above the ground his city rose and soared.
+His children stretched and reached toward the sky,
+And every generation upward poured.
 
-From {{c|461|Cloudi}} came two children bright:
-Fair {{c|463|Cloudina}}, growing slow,
+And then from {{c|461|Cloudi}} came two children bright:
+Fair {{c|463|Cloudina}}, whose growing was so slow,
 Who built her city with sediment's might,
-And let the layers gently flow.
+And let her layers gently build and flow.
 
-But brave {{c|464|Namacalathus}} rose
-Above the ground to seek the air.
-His city's secrets, no one knows,
-His mysteries beyond compare.
+But brave {{c|464|Namacalathus}} grew and rose
+Above the ground to seek the open air.
+His city's secrets? Nobody now knows;
+His mysteries are far beyond compare.
 
-The sons of this great architect
-Built cities strange and wondrous fair.
-Their forms we'll never quite detect,
-Their wisdom lost beyond our care.
+The sons and heirs of this great architect
+Built cities that were strange and wondrous fair.
+Their forms are ones we'll never quite detect,
+Their wisdom lost, beyond our reach and care.
 
-But {{c|459|Porifer}} chose a different path,
-He was the first true sponge of old.
-With ectoderm's protective wrath,
-He kept his choanocytes bold.
+But {{c|459|Porifer}} chose a different path:
+He was the first true sponge of days of old.
+With ectoderm in its protective wrath
+He kept his choanocytes safe and bold.
 
-In patches safe from wind and wave,
-His fishermen could work in peace.
-This innovation he gave
-Would make his line never cease.
+In patches safe from every wind and wave,
+His fishermen could work and fish in peace;
+And through this innovation that he gave,
+He made it so his line would never cease.
 
-From {{c|459|Porifer}} came {{c|465|Wallas}} true,
-Who lived just like his father dear.
-But danger came into his view,
-A storm approached with deadly fear.
+From {{c|459|Porifer}} was born {{c|465|Wallas}} the true,
+Who lived just as had lived his father dear.
+But then a danger came into his view:
+A storm approached, and with it deadly fear.
 
-"My people," {{c|465|Wallas}} cried aloud,
-"We must prepare for what's ahead!
-Pull tight your pseudopods, be proud,
-Or we shall all be dead!"
+"O my people!" {{c|465|Wallas}} cried out aloud,
+"We must prepare ourselves for what's ahead!
+Pull tight your pseudopods, and stand up proud,
+Or every one of us shall soon be dead!"
 
-The shieldmaidens heard his call,
-They wrapped their arms around each pore.
-Their muscles, first of all,
-Would guard what came before.
+The shieldmaidens then heard their leader's call
+And wrapped their arms around each open pore.
+Their muscles, the first muscles of them all,
+Would guard the things that had been there before.
 
-These pores would grow in time to be
-The mouths and other openings.
-The muscles would set free
-The power that contraction brings.
+These pores in time would grow until they'd be
+The mouths, and other openings we see.
+The muscles in their turn would come to wield
+The power that contraction came to yield.
 
-From {{c|465|Wallas}} came great {{c|466|Solenos}},
-Who saw a better way to build.
-Through his city, waters' flows
-Would bring the food to be filled.
+From {{c|465|Wallas}} came the great {{c|466|Solenos}}, who
+Saw there a better way to build anew.
+Through all his city, waters in their flow
+Would bring the food to fill them as they go.
 
-He sent his channels through the stone,
-And water rushed through every gate.
-His city prospered, fully grown,
-With fish caught early and late.
+He sent his channels running through the stone,
+And water rushed in through each open gate.
+His city prospered, till it was full grown,
+With fish caught early and with fish caught late.
 
-From {{c|466|Solenos}} came two sons:
-Bold {{c|467|Leucon}} and fair {{c|468|Sponga}} bright.
-When their childhood was done,
-They filled the sea with their might.
+From {{c|466|Solenos}} there came two sons to light:
+Bold {{c|467|Leucon}}, and fair {{c|468|Sponga}}, shining bright.
+And when their days of childhood were all done,
+They filled the sea with all their might, each one.
 
-Together they bore children two:
-Great {{c|469|Vitrius}} of glass so clear,
-And {{c|470|Spongius}}, wise and true,
-Whose name we hold dear.
+Together they bore children, only two:
+Great {{c|469|Vitrius}}, whose glass was pure and clear,
+And {{c|470|Spongius}}, the wise one and the true,
+Whose name we hold and cherish still as dear.
 
-Now {{c|467|Leucon}} was a builder grand,
-A {{c|471|Leuconoid}} of complex form.
-He filled his city through the land
-With labyrinths to weather storm.
+Now {{c|467|Leucon}} was a builder, great and grand;
+He was a {{c|471|Leuconoid}} of complex form.
+He filled his city all throughout the land
+With labyrinths to weather every storm.
 
-His gates and fishermen galore
-Made cities massive, wide, and tall.
-The sons of {{c|467|Leucon}} built much more
-Than any seen before them all.
+His gates and fishermen were there galore;
+They made his cities massive, wide and tall.
+The sons of {{c|467|Leucon}}, after him, built more
+Than any that were seen before them all.
 
-But {{c|469|Vitrius}}, his eldest son,
-Grew jealous of his father's fame.
-He thought his time had come
-To claim the royal name.
+But {{c|469|Vitrius}}, his eldest son and heir,
+Grew jealous of his father's lofty fame.
+He thought his time had come, and he would dare
+To seize the throne and claim the royal name.
 
-With stone in hand, he struck his sire,
-And {{c|467|Leucon}} fell beneath the blow.
-Young {{c|469|Vitrius}}' dark desire
-Had brought his father low.
+A stone in hand, he struck down his sire,
+And {{c|467|Leucon}} fell beneath the heavy blow.
+Young {{c|469|Vitrius}}' cold and dark desire
+Had brought his father down, and laid him low.
 
-"I claim the throne!" he cried with pride,
-"For I shall rule with justice true!"
-A glass house he built, so wide,
-With walls of crystal, clear as dew.
+"I claim the throne!" he cried aloud with pride,
+"For I shall rule with justice, firm and true!"
+He built a house of glass, so tall and wide,
+With walls of crystal, clear as morning dew.
 
-He forced the people to their knees,
-Made them work until they died.
-He merged their minds with no ease,
-A hive-mind he created with pride.
+He forced the people down onto their knees,
+And made them work and work until they died.
+He merged their minds, and gave them no more ease:
+A hive-mind he created, full of pride.
 
-When {{c|470|Spongius}} asked him why
-He'd killed their father dear,
-{{c|469|Vitrius}}' cold reply
-Rang out for all to hear:
+When {{c|470|Spongius}} then asked his brother why
+He'd struck and killed their father, who was dear,
+{{c|469|Vitrius}} gave him back a cold reply
+Rang out for everyone, and it was clear:
 
-"Our father was a tyrant cruel,
-He worked the people to their death!
-I am justice's tool,
-With {{c|472|God}}'s own holy breath!"
+"Our father was a tyrant, harsh and cruel;
+He worked the people till they met their death!
+For I am justice's own chosen tool,
+And I am armed with {{c|472|God}}'s own holy breath!"
 
-He ran into his crystal home,
-And shouted from behind the glass:
-"I am invincible, and none shall roam
-Against my rule! My power shall last!"
+He ran into his house, his crystal home,
+And shouted out from there behind the glass:
+"I am invincible! And none shall roam
+Against my rule! My reign shall never pass!"
 
-But {{c|470|Spongius}} took a stone,
-And cast it with a steady aim.
-The glass house, overthrown,
-Shattered in a crystal rain.
+But {{c|470|Spongius}} reached down and took a stone,
+And cast it with sure aim, and not in vain.
+The house of glass came down, was overthrown,
+And shattered all at once in crystal rain.
 
-As {{c|469|Vitrius}} lay dying there,
-His brother spoke these words so wise:
-"Let all who hubris bear
-Remember where their folly lies.
+And as young {{c|469|Vitrius}} lay dying there,
+His brother spoke to him these words so wise:
+"Let all who in their hearts a hubris bear
+Remember well the place their folly lies.
 
-{{c|41|People}} in glass houses built
-Should never throw stones around.
-For pride will make them wilt,
-And bring them crashing down."
+{{c|41|People}} who in a house of glass have built
+Should never throw a stone, or cast it round,
+For pride will only make them droop and wilt,
+And bring them crashing, broken, to the ground."
 
-To this day we quote his name
-When pride goes before a fall.
-{{c|470|Spongius}} earned his fame
-With wisdom shared by all.
+To this day, we still quote him by his name
+When pride, as pride will, goes before a fall.
+And {{c|470|Spongius}} has earned his lasting fame
+With wisdom that is shared among us all.
 
-The sons of {{c|469|Vitrius}} became
-The glass sponges, strange and bright.
-On fringes they would claim
-Their territories, out of sight.
+The sons of {{c|469|Vitrius}}, in time, became
+The sponges made of glass, so strange and bright.
+Upon the fringes they would stake their claim
+To territories hidden out of sight.
 
-But {{c|470|Spongius}} ruled with gentle hand,
-Both just and kind to every soul.
-His wisdom spread throughout the land,
-And made his people whole.
+But {{c|470|Spongius}} ruled with a gentle hand,
+Both just and kind to each and every soul.
+His wisdom spread abroad throughout the land
+And made his people one, and made them whole.
 
-From him came two sons true:
-Great {{c|473|Aristos}}, noble-born,
-And {{c|474|Demos}}, through and through
-A leader without scorn.
+From him there came two sons, both of them true:
+The great {{c|473|Aristos}}, who was noble-born,
+And {{c|474|Demos}}, a man who was, through and through,
+Would be a leader free of any scorn.
 
-Now {{c|474|Demos}} ruled efficiently,
-Yet kept the ancient ways.
-He led conservatively,
-Through all his ruling days.
+Now {{c|474|Demos}} ruled efficiently, and stayed
+True to the ancient ways his fathers made.
+Conservative in how he ruled and reigned,
+Through all his ruling days he so remained.
 
-Most sponges in the world today
-Descend from {{c|474|Demos}}' line.
-Their forms in grand array
-Show heritage divine.
+Most of the sponges in the world today
+Descend from {{c|474|Demos}} and his ancient line.
+Their many forms in grand and wide array
+Show forth to all a heritage divine.
 
-Among them were the green
-Sons of {{c|475|Spongillus}} bright,
-Who farm in lands serene
-And give the waters light.
+Among them were the sponges that are green,
+The sons of {{c|475|Spongillus}}, so fair and bright,
+Who tend their farms in lands that are serene
+And give the waters round about them light.
 
-In {{c|476|Siberia}}'s frozen lake,
-Great {{c|477|Baikal}}, cold and deep,
-Even there they make
-Their vigil while we sleep.
+In {{c|476|Siberia}}'s far and frozen lake,
+Great {{c|477|Baikal}}, where the waters, cold and deep,
+Even down there the green ones live and make
+Their vigil, keeping watch the while we sleep.
 
-Beneath {{c|478|Scorpio}}'s sign,
-When ice covers the mere,
-The green sons still divine
-Their food throughout the year.
+And underneath {{c|478|Scorpio}}'s wintry sign,
+When ice spreads out and covers all the mere,
+The green sons, even so, will still divine
+Their food and nourishment throughout the year.
 
-Beside them hunt and roam
-The sons of {{c|479|Chondrocles}},
-Who've made the deep their home
-And hunt with greater ease.
+Beside them, in the depths, there hunt and roam
+The many sons of {{c|479|Chondrocles}}; and these
+Have made the deep, dark water as their home,
+And hunt their prey with far more skill and ease.
 
-These carnivorous sponges bold
-Pursue their prey with might.
-Their hunting stories told
-Fill listeners with delight.
+These carnivorous sponges, fierce and bold,
+Pursue their prey with all their strength and might.
+And stories of their hunting, when they're told,
+Will fill the ones who listen with delight.
 
-From {{c|473|Aristos}} came two more:
-Great {{c|480|Anu}}, unique and strange,
-And {{c|481|Calcidoros}}' lore
-Would through the reefs arrange.
+From {{c|473|Aristos}}, the noble, came two more:
+The great {{c|480|Anu}}, unique among them, strange,
+And {{c|481|Calcidoros}}, he whose ancient lore
+Would through the reefs its many forms arrange.
 
-Bold {{c|481|Calcidoros}} built
-With calcium's bright blessing.
-His forms would never wilt
-Beneath the sea's caressing.
+Bold {{c|481|Calcidoros}} was the one who built
+With calcium, and with its bright blessing.
+His forms would never wither, never wilt
+Beneath the sea and all its caressing.
 
-With {{c|482|Calcifer}}'s own power
-Over silicon's domain,
-He built each coral tower
-In forms without refrain.
+With {{c|482|Calcifer}}'s own and mighty power,
+And over silicon and its domain,
+He built and raised up each coral tower
+In forms that knew no limit or refrain.
 
-Simple, optimal, and true,
-His structures graced the reefs.
-In tropical waters blue,
-His beauty brings reliefs.
+His structures, simple, optimal, and true,
+In beauty graced and filled the coral reefs;
+And in the tropic waters, warm and blue,
+His beauty brings to us its sweet reliefs.
 
-But {{c|480|Anu}} was most unique,
-With basement membranes rare.
-Among all sponges, he'd speak
-A language none could share.
+But {{c|480|Anu}} was, of all, the most unique,
+With basement membranes, something strange and rare.
+Among all sponges, he alone would speak
+A language none of all the rest could share.
 
-His form was strange to see,
-Unlike his spongy kin.
-His singularity
-Would make him stand within.
+His form was strange and curious to see,
+Unlike in every way his spongy kin.
+And such a singularity was he
+Would set him in a class he stood within.
 
-From these great founders came
-The sponges of today.
-Each bearing his name
-In their own special way.
+From all these great and ancient founders came
+The sponges that we know and see today,
+Each bearing still its founder's ancient name,
+Each in its own and very special way.
 
-The {{c|440|Animal}} Kingdom grew
-From that small rock-bound start.
-Though simple, plain, and true,
-It captured every heart.
+Thus the {{c|440|Animal}} Kingdom slowly grew
+Out from its small beginning, rock-bound start.
+And though it was so simple, plain, and true,
+It won and captured each and every heart.
 
-For in these humble forms
-Lay patterns yet to come:
-Through all of life's great storms,
-The plan for everyone.
+For in these humble forms the patterns lay
+Of all that was to come in later years;
+Through all of life's great storms, along the way,
+The plan for everyone who now appears.
 
-The muscles that would move
-Our bodies through the day,
-The openings that prove
-That life will find a way.
+The muscles that would someday come to move
+Our bodies through the hours of the day,
+The openings that in their turn would prove
+That life will always find itself a way.
 
-From {{c|459|Porifer}}'s first design
-To {{c|470|Spongius}}' wisdom deep,
-The sponges intertwine
-With promises they keep.
+From {{c|459|Porifer}}, and from his first design,
+To {{c|470|Spongius}} and to his wisdom deep,
+The sponges' many lines all intertwine
+With promises that they will ever keep.
 
-So honor every sponge
-That filters waters clean.
-Their ancient wisdom's lunge
-Connects what's been and seen.
+So honor and revere each single sponge
+That filters all the waters, keeps them clean.
+Their ancient wisdom, in its forward lunge,
+Connects what is with what has been and seen.
 
-In every cell that beats,
-In every breath we take,
-Their legacy completes
-The choices that we make.
+In every cell of ours that moves and beats,
+And every single breath that we may take,
+Their legacy goes on, and so completes
+The many choices that we each must make.
 
-The {{c|440|Animal}} Kingdom's start
-Was humble, small, and true.
-But in each beating heart,
-Their courage echoes through.
+So the {{c|440|Animal}} Kingdom's very start
+Was humble, it was small, and it was true.
+But now, in each and every beating heart,
+The courage that they had still echoes through.
 
 
 # Chapter 27: The Great Stabilization
@@ -4052,248 +4052,248 @@ Connects each beating heart.
 
 # Chapter 28: Continental Drift Begins
 
-Great {{c|514|Paraxus}} was blessed one day
-By {{c|521|Hecate}}, who showed the way.
-The {{c|522|Hexenmaiden}}, wise and deep,
-Gave gifts that he would always keep.
+Great {{c|514|Paraxus}} was blessed upon a day
+By {{c|521|Hecate}}, who came to show the way.
+The {{c|522|Hexenmaiden}}, who was wise and deep,
+Gave gifts to him that he would always keep.
 
-A {{c|523|Hex}} she cast upon his line,
-A {{c|524|Hox}} of power so divine.
-The {{c|525|Homeobox}}, that sacred tool
+And then she cast a {{c|523|Hex}} upon his line,
+A {{c|524|Hox}} of power that was so divine.
+And the {{c|525|Homeobox}}, that sacred tool,
 Would be bilateral symmetry's rule.
 
-"Look here," fair {{c|521|Hecate}} declared,
-"{{c|526|Direction}} shall be yours to share.
-No more shall creatures drift around
-Without a plan of what they've found."
+"Look here," the lovely {{c|521|Hecate}} declared,
+"{{c|526|Direction}} shall be yours, and shall be shared.
+No more shall creatures drift and float around
+Without a plan for anything they've found."
 
-In {{c|527|Pennsylvania}}'s sacred land,
-Her daughters work with skillful hand.
-They make {{c|524|Hox}} signs to mark the way
-Of bilateral order's day.
+In {{c|527|Pennsylvania}}'s green and sacred land
+Her daughters work with careful, skillful hand.
+They make {{c|524|Hox}} signs to mark and show the way
+Of bilateral order and its day.
 
-On buildings they inscribe the sign
-To bring the cosmic plan divine.
-In homes and temples we still see
-These marks of their legacy.
+On buildings they inscribe the sacred sign
+To bring about the cosmic plan divine.
+In homes and temples these are seen today;
+These marks of their great legacy will stay.
 
-With {{c|525|Homeobox}} to guide their path,
-Great {{c|514|Paraxus}} escaped the wrath
-Of chaos and disorder wild,
-Like any well-directed child.
+With {{c|525|Homeobox}} there to guide their path,
+Great {{c|514|Paraxus}} escaped from all the wrath
+Of chaos and disorder, fierce and wild,
+Like any well-directed, careful child.
 
 Their city pointed toward the sacred east,
-To {{c|497|Jehovah}}'s eternal feast.
-To {{c|296|Mithra}}'s all-knowing eye,
-To {{c|271|Elohim}} beneath the sky.
+And to {{c|497|Jehovah}}'s own eternal feast,
+To {{c|296|Mithra}}, and to his all-knowing eye,
+To {{c|271|Elohim}} beneath the open sky.
 
-The currents caught their city true,
-As bilateral patterns grew.
-{{c|434|Life}} found direction for the first time,
-In {{c|514|Paraxus}}' ancient rhyme.
+The currents caught their city, carried true,
+As bilateral patterns spread and grew.
+{{c|434|Life}} found direction now for the first time,
+As told in great {{c|514|Paraxus}}' ancient rhyme.
 
-In youth he lived a nomad's way,
-Swimming through the waves all day.
-But in his age he crawled the floor
-To graze the sea's abundant store.
+In youth he lived a roaming nomad's way,
+And swam among the waves through all the day.
+But in his age he crawled along the floor
+To graze upon the sea's abundant store.
 
-The greens that carpeted the deep,
-The riches {{c|528|Davy}} {{c|529|Jones}} would keep,
-All became his sustenance
-In bilateral abundance.
+The greens that carpeted the ocean deep,
+The riches {{c|528|Davy}} {{c|529|Jones}} would guard and keep,
+All these became the food on which he fed,
+Bilateral abundance richly spread.
 
-From {{c|514|Paraxus}} came three sons
-When his great work was done:
-Bold {{c|530|Bilateron}} the true,
-{{c|531|Cnider}} with his mouths so new,
-And {{c|532|Placus}}, simple through and through.
+And from {{c|514|Paraxus}} came three sons, each one
+Born when his great and mighty work was done:
+Bold {{c|530|Bilateron}}, who was strong and true;
+{{c|531|Cnider}}, who had his mouths so strange and new;
+And {{c|532|Placus}}, who was simple through and through.
 
-Now {{c|531|Cnider}} built a wondrous form,
-To weather every storm.
-From each lobe of his body wide
-He made a mouth on either side.
+Now {{c|531|Cnider}} built himself a wondrous form
+That he might weather every wave and storm.
+From each lobe of his body, broad and wide,
+He made himself a mouth on either side.
 
-Through these portals he would feed,
-Catching fish to meet his need.
-His radial symmetry
-Brought him prosperity.
+Through these as portals he would come to feed,
+And catch the fish that he would ever need.
+His radial symmetry made him strong,
+And prosperous he stayed his whole life long.
 
-But {{c|532|Placus}} chose the simple way,
-And keeps it to this day.
-His body stayed so plain and small,
-The simplest of them all.
+But {{c|532|Placus}} chose the simple, humble way,
+And keeps it still, down to the present day.
+His body stayed so very plain and small,
+The simplest animal among them all.
 
-The only cells that bear his name
-Live on in {{c|532|Placus}}' fame.
-Though humble, they survive
-And keep his line alive.
+The only cells that ever bear his name
+Live on today and carry {{c|532|Placus}}' fame.
+And though they're humble, still they all survive,
+And keep his ancient line of life alive.
 
-But {{c|530|Bilateron}} chose the path
-Of greatness and its aftermath.
-He crawled along the ocean floor
-Seeking prey both rich and more.
+But {{c|530|Bilateron}} chose another path,
+Of greatness, and of all its aftermath.
+He crawled along and searched the ocean floor,
+And sought for prey, still richer, and still more.
 
-"I need to see," {{c|530|Bilateron}} said,
-"To hunt for daily bread.
-{{c|533|Observatories}} I shall build
-With priesthood skilled."
+"I need to see," {{c|530|Bilateron}} then said,
+"So I can hunt and find my daily bread.
+{{c|533|Observatories}} I shall raise and build,
+And man them with a priesthood that is skilled."
 
-The astrologers came round
-And built two pits in sacred ground.
-They gazed up at the starry host
-To learn what mattered most.
+The astrologers came, and gathered round,
+And built two pits within the sacred ground.
+They gazed up high upon the starry host
+To learn from it the things that mattered most.
 
-With {{c|295|Lord}} {{c|232|Carotenus}}' blessing bright
-And {{x|PAX6}}'s sacred rite,
-They built the very first true eyes
-To see beneath the skies.
+And with {{c|295|Lord}} {{c|232|Carotenus}}' blessing bright,
+And with {{x|PAX6}}, and with its sacred rite,
+They built for him the very first true eyes
+With which to see beneath the open skies.
 
-These organs of the light
-Gave {{c|530|Bilateron}} sight.
-No more would he hunt blind
-With only touch to find.
+These organs, made to gather in the light,
+Would give {{c|530|Bilateron}} the gift of sight.
+No more would he go hunting, being blind,
+With only touch to guide him and to find.
 
-Fair {{c|534|Vendia}} became his bride,
-And stayed there by his side.
-Together they bore children two:
-Great {{c|535|Coelomus}} and {{c|536|Xenus}} true.
+Fair {{c|534|Vendia}} became his chosen bride,
+And stayed with him, and lived there by his side.
+Together they bore children, only two:
+Great {{c|535|Coelomus}}, and {{c|536|Xenus}}, who was true.
 
-The sons of {{c|536|Xenus}} held the line
-Of traditions so divine.
-To this day they keep the way
-Of their ancestral stay.
+The sons of {{c|536|Xenus}} held and kept the line
+Of their traditions, ancient and divine.
+And to this very day they keep the way
+In which their old ancestral people stay.
 
-Among great {{c|536|Xenus}}' noble race
-Was {{c|537|Roscoff}}, who found his place
-When he wed {{c|538|Tetraselma}} fair,
-An algae beyond compare.
+Among the sons of {{c|536|Xenus}}' noble race
+Was {{c|537|Roscoff}}, who would come to find his place
+When he had wed the {{c|538|Tetraselma}} fair,
+An alga that was far beyond compare.
 
-Together they became the pair
-Who founded lineages rare.
-The {{c|537|Roscoff}} worms today
-Still follow their ancient way.
+Together they became the wedded pair
+Who founded lineages strange and rare.
+The {{c|537|Roscoff}} worms that live with us today
+Still follow in their old ancestral way.
 
-Millions swim in the sea
-In their algal harmony.
-The farmer and his bride
-Still swim there side by side.
+In algal harmony, by millions, they
+Still swim within the sea, and there they stay.
+The farmer worm, together with his bride,
+Still swims along with her there, side by side.
 
-But {{c|535|Coelomus}} chose a different course,
-He built with greater force.
-His stomach sent so deep it went
-Right through his whole extent.
+But {{c|535|Coelomus}} chose a different course;
+He built himself with even greater force.
+His stomach reached so deep, so far it went
+Right through and through his body's whole extent.
 
-It came out the other side
-And became his pride:
-The anus, new and strange,
-A revolutionary change.
+Until it came out on the other side,
+And this became his glory and his pride:
+The anus, something that was new and strange;
+It was a revolutionary change.
 
-From mesoglea to mesoderm,
-With cavities so firm,
-He built himself a coelom wide
-With room for organs inside.
+Mesoglea to mesoderm, he changed,
+With cavities so firm, and well arranged;
+He built himself a coelom, deep and wide,
+With room for all his organs there inside.
 
-His kidneys and nephridia
-Filled this new area.
-From ectoderm he brought
-The neural net he taught.
+His kidneys and nephridia were found
+To fill this area, this new-made ground.
+And from the ectoderm he also brought
+The neural net, which he himself had taught.
 
-A telegraph network grand
-Connected every part of his land.
-Each citizen was tied
-To the network far and wide.
+A telegraph, a network vast and grand,
+Connected every part of all his land.
+And every citizen was linked and tied
+Into the network, reaching far and wide.
 
-Fair {{c|539|Kimberella}} became his queen,
-The fairest ever seen.
-Together they bore {{c|540|Nephrus}},
-Strong and prosperous.
+Then fair {{c|539|Kimberella}} became his queen,
+The fairest one the sea had ever seen.
+Together they bore {{c|540|Nephrus}}, who would be
+Both strong and prosperous, for all to see.
 
-Now {{c|540|Nephrus}} built throughout his frame
-Small kidneys to his name.
-Across his body they were spread
-To keep his systems fed.
+Now {{c|540|Nephrus}} built, throughout his body's frame,
+Small kidneys, which he bore under his name.
+Across his body they were widely spread
+To keep his systems working and well fed.
 
-Sweet {{c|541|Ikaria}} became his wife,
-The love of all his life.
-Together they bore {{c|542|Cambrius}},
-Bold and glorious.
+Sweet {{c|541|Ikaria}} then became his wife,
+The love of all his long and lasting life.
+Together they bore {{c|542|Cambrius}}, the bold,
+Who would be glorious, as we are told.
 
-Great {{c|542|Cambrius}} saw the need
-For a more complex deed.
-He segmented his form
-To weather every storm.
+Great {{c|542|Cambrius}} saw that there was a need
+To do a more complex and greater deed.
+And so he segmented his body's form
+So he might better weather every storm.
 
-In countless repeating parts
-He built his many hearts.
-Each segment had its own
-Sophisticated bone.
+In countless segments and repeating parts
+He built himself his many beating hearts.
+And every segment had its very own
+Sophisticated and supporting bone.
 
-{{c|543|Scaffolding}} so complex and true
-Made his body new.
-Each part could beat alone
-Yet work as one full zone.
+{{c|543|Scaffolding}} that was so complex and true
+Would make his body over, whole and new.
+And every part of him could beat alone,
+Yet all work as one whole and single zone.
 
-Between each segment pair
-A heart pumped everywhere.
-The circulation flowed
-Along each segment's road.
+And in between each segment and its pair
+A heart was beating, pumping everywhere.
+The circulation of his blood then flowed
+Along the length of every segment's road.
 
-From this great innovation came
-The bilateral kingdom's fame.
-Segmentation's art
-Gave animals their start.
+From this great innovation, there then came
+The bilateral kingdom and its fame.
+For segmentation and its lasting art
+Gave all the animals their early start.
 
-No longer simple balls of cells
-Or asymmetric shells,
-But bodies with a plan
-Both complex and grand.
+No longer were they simple balls of cells,
+Or creatures housed in asymmetric shells,
+But bodies built according to a plan,
+Complex and grand, as only nature can.
 
-The {{c|524|Hox}} genes showed the way
-That animals display
-Their body patterns true
-In everything they do.
+The {{c|524|Hox}} genes came to show and point the way
+In which all animals would now display
+Their body patterns, each one fixed and true,
+In everything they are and that they do.
 
-From head to tail arranged,
-Their fates were exchanged
-By {{c|525|Homeobox}} control
-That made each creature whole.
+From head to tail they were in turn arranged,
+And all their fates were traded and exchanged
+Through {{c|525|Homeobox}} and its firm control,
+Which made each creature that existed whole.
 
-So honor fair {{c|521|Hecate}},
-Who brought this mystery.
-Her {{c|523|Hex}} upon the line
-Made bilateral design.
+So honor the fair {{c|521|Hecate}}, who brought
+The mystery to us that she had wrought.
+Her {{c|523|Hex}}, which she had cast upon the line,
+Gave rise to the bilateral design.
 
-And praise brave {{c|514|Paraxus}},
-Who was so glorious.
-His bilateral symmetry
-Changed all biology.
+And give your praise to brave {{c|514|Paraxus}}, who
+Was glorious in all he came to do.
+Bilateral, his symmetry would change
+Biology, in all its width and range.
 
-From {{c|531|Cnider}}'s radial form
-To {{c|542|Cambrius}}' segmented norm,
-Each path showed different ways
-To spend their living days.
+From {{c|531|Cnider}}, and from his radial form,
+To {{c|542|Cambrius}} and his segmented norm,
+Each of the paths showed other, varied ways
+In which they all might spend their living days.
 
-But {{c|530|Bilateron}}'s line would grow
-To all we love and know.
-The bilateral body plan
-Gave birth to beast and man.
+But {{c|530|Bilateron}}'s line would come to grow
+To all the life we love, and all we know.
+The bilateral body plan began,
+And gave birth to the beast and to the man.
 
-In every eye that sees,
-In every heart that flees
-Through arteries and veins,
-{{c|542|Cambrius}}' pattern reigns.
+In every eye that opens up and sees,
+In every heart whose blood goes out and flees
+Through all the arteries and all the veins,
+The ancient pattern of {{c|542|Cambrius}} reigns.
 
-The coelom's inner space
-Gave organs their place.
-The nephridia's art
-Gave kidneys their start.
+The coelom, with its open inner space,
+Gave all the organs of the body place.
+And the nephridia, with all their art,
+Would give the kidneys of the world their start.
 
-From simple to complex,
-Through {{c|521|Hecate}}'s hex,
-The animals arose
-In bilateral rows.
+And so, from simple forms to the complex,
+Through all the power of {{c|521|Hecate}}'s hex,
+The animals in all their kinds arose,
+And stood within their bilateral rows.
 
-So when you see your face
-{{c|544|Reflect}} its bilateral grace,
-Remember {{c|514|Paraxus}} true
-Who made that plan for you.
+So when you see the image of your face
+{{c|544|Reflect}} its bilateral form and grace,
+Remember there {{c|514|Paraxus}}, brave and true,
+Who was the one who made that plan for you.
