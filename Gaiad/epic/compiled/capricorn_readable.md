@@ -519,8 +519,8 @@ Mesoglea that will last.
 My mouth shall bear tentacles bright
 Like fathers did in ancient sight."
 
-"O heathen, do you not see
-The anus brings us victory?
+"O brother of my house, do you not see
+The anus is the door that set us free?
 For generations we did bathe
 In filth, but now we are saved!"
 
@@ -549,7 +549,7 @@ Of ancient unity?
 Choanoderm and Archaeocyte
 Together in the fight."
 
-"O heathen, can't you understand?
+"O brother, can you still not understand?
 The mouth is progress' hand!
 What we take into our core
 Shapes what we have in store."
