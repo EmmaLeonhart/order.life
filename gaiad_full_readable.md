@@ -8132,3500 +8132,3484 @@ For life's eternal day.
 
 # Chapter 42: The Rise of Vertebrates
 
-The Ordovician began
-With great extinction's plan—
-Or did it? Sages still debate
-What caused that fearsome fate.
-
-Were these great ghosts real
-With power none could feel
-Beyond belief so strong,
-Or myths that passed along?
-
-The Sages cannot agree
-On what they claim to see
-In mists of ancient time
-Where truth and myth combine.
-
-After the mists cleared
-And new dawn appeared,
-The world was greater still
-Than any mortal will
-
-Could have imagined then.
-The Planktonic Planimals when
-They fed brought forth new life
-Through harmony, not strife.
-
-Leviathan arose,
-Great dragon, friend not foes.
-Son of wicked king Magog,
-He ruled through wisdom's log.
-
-Though born of evil seed,
-Leviathan would lead
-His kingdom not to war
-But peace forevermore.
-
-To peaceful prosperity
-His realm in clarity
-Grew under his wise rule
-Like some divine school.
-
-The sons of Leviathan
-Grew greater than began
-Any before their time:
-Tenscore myriads prime
-
-Of microns was their length.
-Their body politic's strength
-Was great and full of power
-Through every passing hour.
-
-His sons inherited
-The greatness that was bred
-Into their very souls
-To play their vital roles.
-
-The sons of Leviathan ruled
-The world, and never fooled
-By power's corruption,
-They brought life's construction
-
-With justice great and true.
-They shepherded all who
-Were sons of Bios fair
-With love and gentle care.
-
-From small planktonic ones
-To vicious warrior sons—
-The Anomalocarids—
-All felt their benefits.
-
-Ordovices the son
-Of Leviathan begun
-The greatest reign of all
-When he would hear the call
-
-To be Emperor supreme.
-He built beyond all dream
-Great cities of such fame
-That "reefs" became their name.
-
-And so economy
-Grew in harmony
-Like never seen before
-From mountain peak to shore.
-
-In great Coral cities
-Where beauty never pities
-Those who cannot see
-Their vast complexity,
-
-The sons of Euka came
-From places without name
-Far and wide they traveled
-As mysteries unraveled.
-
-Ordovices put to work
-The sons of Cnider (perk
-Of wisdom's gentle hand)
-Throughout his peaceful land.
-
-And so the sons of Anthus
-Built cities, cantus
-Of beauty rising high
-Beneath the ocean sky.
-
-Ordovices had daughters
-Of Coraline build waters
-Into living stone—
-She, daughter all her own
-
-Of Florida, who came
-From Rhodes of ancient name.
-They built coralline Algae,
-The plaster, galaxy
-
-Upon the great Corals.
-Their work through all portals
-Of time would long endure
-With beauty clean and pure.
-
-Ordovices saw clear
-That sons of Bryos here
-Had no home to call
-Their own, and heard their call.
-
-And so he blessed them well
-With homes where they could dwell
-Within the great reefs bright
-Both day and through the night.
-
-To this day reefs stand
-As monuments so grand
-Of Ordovices' art
-That built with gentle heart
-
-The most prosperous cities
-Where life shows no pities
-For those who cannot see
-Their vast complexity.
-
-On Terra and beyond
-These reefs form the bond
-Between all living things
-That peace and order brings.
-
-The coral cities rise
-Beneath the ocean skies
-With architecture fine
-Both humble and divine.
-
-In every coral branch
-And every firm stanch
-Foundation built with care
-Lives beauty everywhere.
-
-The shoals of fish so bright
-Dance in the crystal light
-That filters through the reef
-Beyond all belief.
-
-Each creature has its place
-Within this living space
-Where harmony is law
-Without the slightest flaw.
-
-The algae and the coral
-Live in ways most moral,
-Each helping other grow
-In partnership's flow.
-
-The Bryozoans small
-Build cities, one and all,
-Upon the coral's frame
-To share in nature's game.
-
-The fish find shelter here
-From predators they fear,
-While hunters find their prey
-Throughout the night and day.
-
-And so economy
-Grew in perfect harmony
-Under wise Ordovices
-Whose rule brought life its prizes.
-
-He became known through time
-As "Ordovices the Prime"
-Of wisdom, and his boom
-Dispelled all sense of doom
-
-That hung over the past
-When extinctions last
-Had threatened life with death
-And stole away its breath.
-
-This boom became the name
-Of {{x|GOBE}}—greatest fame
-The Great Ordovician
-Event, magician
-
-Of biodiversity
-That brought complexity
-Beyond what was before
-To every sea and shore.
-
-The life within the seas
-Became what always pleased
-The heart that loves to see
-Life's creativity.
-
-More prosperous it grew
-With species old and new
-Finding their perfect place
-In evolution's race.
-
-And it would only grow
-Greater, as we know,
-More prosperous and bright
-Under Ordovician might.
-
-Under the great dynasty
-Of wisdom's sovereignty
-'Twas the first Golden Age
-In life's eternal page.
-
-The reefs became the heart
-Of nature's living art
-Where beauty and function
-Met in perfect junction.
-
-From Leviathan's wise choice
-To let peace be his voice
-Instead of war and strife
-Came this abundant life.
-
-His son Ordovices
-Built cities that are prizes
-Still today we see
-In reef's complexity.
-
-The coral and the stone,
-Each species on its own
-Yet working as a whole
-To play its vital role,
-
-Show us how to build
-Communities that yield
-Prosperity for all
-Who answer wisdom's call.
-
-In every living reef
-Beyond all belief
-We see the legacy
-Of this great dynasty
-
-That chose to build, not break,
-For all life's sake
-A world where every creature
-Has its special feature
-
-And role to play within
-The symphony therein
-Of life in all its forms
-Through calm and raging storms.
-
-The Ordovician way
-Lives on to this day
-In every coral city
-Both grand and gritty
-
-That rises from the sea
-In perfect harmony
-Of form and function blessed
-By wisdom's gentle rest.
-
-From Leviathan's peace
-To reefs that never cease
-To grow in beauty bright,
-We see that might
-
-Is not in conquest's sword
-But in the gentle word
-That builds instead methodically
-That tears so wreck systematically.
-
-The first Golden Age
-Wrote upon history's page
-The lesson clear and true:
-That what we choose to do
-
-With power in our hands
-Determines if the lands
-And seas will flourish well
-Or under curses dwell.
-
-Ordovices chose to build
-And his wisdom filled
-The world with life so bright
-It still brings us delight.
-
-In every coral's growth
-And every sacred oath
-To build and not destroy,
-We find life's truest joy.
-
-The Great Ordovician
-Biodiversification
-Event shows what can come
-When wisdom's ways we sum
-
-Into our daily choice
-To let peace be our voice
-And building be our art
-With love within our heart.
-
-The reefs that grow today
-In their prosperous way
-Are children of that time
-When reason was in rhyme
-
-With nature's deepest law:
-That beauty without flaw
-Comes not from force and might
-But from love's gentle sight
-
-That sees in every creature
-A perfect, special feature
-Worth protecting well
-As stories always tell
-
-Of Leviathan's son
-Whose work is never done
-As long as reefs still grow
-In beauty's endless flow.
+The Ordovician age, they say, began
+With a great extinction, by some dark plan;
+Or did it? Still the Sages hold debate
+On what had caused so terrible a fate.
+
+Were these great ghosts real, with a power none
+Could feel, so strong beyond belief, begun
+In earnest? Or were they a tale of old,
+Mere myths that passed along as they were told?
+
+The Sages even now cannot agree
+On what it is they claim that they can see
+Within the mists of time, where, as they wind,
+The threads of truth and myth are intertwined.
+
+But after all the mists had cleared away
+And there appeared the dawn of a new day,
+The world was greater still than any will
+Of mortal kind could picture or fulfill.
+
+The Planktonic Planimals, when they fed,
+Brought forth new life, and through the oceans spread
+That life through harmony and not through strife,
+And all the waters quickened into life.
+
+Leviathan arose, great dragon, friend,
+Not foe, to all the seas from end to end.
+Son of Magog, a wicked king, he read
+His rule from wisdom's log, and so he led.
+
+Though born of evil seed, the dragon would
+Not lead his kingdom into war, but stood,
+Leviathan, for peace, and so he swore
+To keep his realm from strife for evermore.
+
+To peace and to prosperity his realm
+Grew up in clarity beneath his helm;
+It flourished underneath his gentle rule
+Like some divine and everlasting school.
+
+The sons of Leviathan then became
+Greater than any who before them came:
+Tenscore myriad microns was their length,
+And great their body politic in strength.
+
+Theirs, a commonwealth of mighty power,
+Full of its greatness through each passing hour.
+
+His sons inherited the greatness bred
+Into their very souls, the inner thread
+That bound them each to play the vital part
+That fell to them, with all their strength and heart.
+
+The sons of Leviathan ruled the world,
+And never, as the might they held unfurled,
+Were fooled by its corruption; they would bring
+To life its building up in everything,
+
+With justice that was great and that was true.
+They were the shepherds over all of who
+Were sons of Bios, in that kingdom fair,
+And tended them with love and gentle care.
+
+From small planktonic ones that drift and float
+To vicious warrior sons of fiercer note,
+The Anomalocarids, one and all
+Felt benefits that came at that rule's call.
+
+Ordovices, the son that they begot,
+Leviathan's own son, began a lot
+More great than all: the greatest reign of all,
+For when he came of age he heard the call
+
+To be the Emperor supreme. He made,
+Beyond all dream, great cities that would fade
+From no one's memory, of such a fame
+That "reefs" was given to them as their name.
+
+And so the wealth of all the waters grew,
+Its whole economy in concord, too,
+Like nothing ever seen in any lore
+Before, from mountain peak to farthest shore.
+
+In the great Coral cities, where the grace
+Of beauty never pities in that place
+The ones who cannot see or comprehend
+Their vast complexity from end to end,
+
+The sons of Euka came from far and wide,
+From places without name on every side;
+They traveled from afar, and as they went
+The mysteries unraveled where they bent.
+
+Ordovices then put to work the sons
+Of Cnider, and a perk for all those ones
+Was wisdom's gentle hand, which they would find
+Throughout his peaceful land, so well designed.
+
+And so it was the sons of Anthus made
+Great cities, cantus of a beauty laid
+In stone and rising high, as if to try
+To reach above them to the ocean sky.
+
+Ordovices had daughters, who could build
+From Coraline the waters, as they willed,
+Into a living stone; and she was one,
+A daughter all her own, beneath the sun,
+
+Of Florida, who came in days of old
+From Rhodes of ancient name, as it is told.
+They built the coralline Algae to be
+The plaster, like a galaxy at sea,
+
+Upon the great Corals it lay; through all
+The portals of the years, it would not fall;
+Their work would long endure, and so remain
+With beauty clean and pure, without a stain.
+
+Ordovices saw clearly that the sons
+Of Bryos here, the small and humble ones,
+Had no home they could call their own, and when
+He heard their call, he called to them again.
+
+And so he blessed them well and gave them room,
+With homes where they could dwell, in light and gloom,
+Within the great reefs, shining clear and bright,
+Throughout the day and all throughout the night.
+
+And to this day the reefs are standing grand
+As monuments upon the ocean sand
+Of the art of Ordovices, who wrought
+With gentle heart the cities that he sought,
+
+The most prosperous cities ever made,
+Where life shows no pities, and is not swayed
+By those who cannot see the vast design
+Of their complexity, so deep and fine.
+
+On Terra and beyond, the reefs have formed
+The bond between all living things, and warmed
+The waters with the peace that they would bring,
+And with the order known in everything.
+
+The coral cities rise in every place
+Beneath the ocean skies, in light and grace,
+With architecture that is very fine,
+At once a humble thing and yet divine.
+
+In every coral branch that holds its ground,
+And every firm and stanch Foundation found
+That has been built with care, and built to stay,
+A beauty lives with everything each day.
+
+The shoals of fish, so bright in every hue,
+Dance in the crystal light that filters through
+The reef, beyond belief and past all thought,
+In patterns that no human hand has wrought.
+
+And each one of the creatures has its place
+Within this living and abundant space,
+Where harmony itself has been the law,
+Without the slightest error or a flaw.
+
+The algae and the coral share their lives
+In ways most moral, so that each one thrives;
+Each one is helping all the others grow
+In partnership's own long and steady flow.
+
+The Bryozoans, very small, can make
+Their cities, one and all, for their own sake
+Upon the coral's frame, where they are found
+To share in nature's game, all gathered round.
+
+The fish will find a shelter in this place
+From all the predators they fear to face,
+While hunters find their prey and take their fill
+Throughout the night and day, by strength and skill.
+
+And so the whole economy would grow
+In perfect harmony, from high to low,
+Beneath the wise Ordovices' own hand,
+Whose rule brought life its prizes through the land.
+
+And he became well known through all of time
+Through ages, as "Ordovices the Prime
+Of wisdom"; and his boom, so strong and grand,
+Dispelled all sense of doom across the land
+
+That had been hanging over all the past,
+When the extinctions came, and at the last
+Had threatened every life with certain death
+And stolen from it all of its own breath.
+
+This boom became the name of {{x|GOBE}}, the fame
+Of which is greatest; and the name became
+The Great Ordovician Event, a sign
+And magician of a diverse design
+
+Of life, biodiversity that brought
+Complexity beyond what had been sought
+Or ever seen in all the time before
+To every sea and every distant shore.
+
+The life within the seas became the thing
+That pleases always, and that makes to sing
+The heart that loves to see in every place
+Life's creativity in all its grace.
+
+And still more prosperous it grew each day,
+With species old and new along the way
+Who found their perfect place and settled in,
+In evolution's race they ran to win.
+
+And it would only grow, as we now know,
+Greater and greater, and more richly glow,
+More prosperous and bright, a shining light,
+Under Ordovician power and might.
+
+Beneath the dynasty of wisdom's reign,
+Of wisdom's sovereignty, in its domain,
+And so it was the first Golden Age came,
+Upon life's endless page inscribed by name.
+
+The reefs became the very heart and part
+Of all of nature's living work of art,
+Where beauty and its function, side by side,
+Would meet in perfect junction and abide.
+
+From Leviathan's choice, and it was wise,
+To let peace be his voice before all eyes,
+In place of war and strife and all its cost,
+Came this abundant life that was not lost.
+
+His son Ordovices, in all his days,
+Built cities that are prizes, and the gaze
+Of all of us today can see them still
+In the complexity of reef and hill.
+
+The coral and the stone, and every kind
+Of species on its own, yet all combined
+And working as a whole, with each in place
+To play its vital role in that great space,
+
+Will show us how to build, in our own day,
+Communities that yield along the way
+Prosperity for all, and all who heed,
+Who answer wisdom's call in word and deed.
+
+In every living reef beyond belief,
+In every coral leaf and every sheaf,
+We see the legacy, both rich and vast,
+Of this great dynasty of ages past,
+
+That chose to build, not break, and not to take,
+And all for every living being's sake
+A world in which each creature, great or small,
+Has its own special feature, one and all,
+
+And has a role to play, and stands therein,
+Within the symphony, and plays within
+The life in all its forms, both small and vast,
+Through calm and raging storms, from first to last.
+
+The Ordovician way is living on
+Until this very day, and is not gone,
+In every coral city in the sea,
+Both grand and gritty, in its own degree,
+
+That rises from the sea where it is pressed
+In perfect harmony and is so blessed
+Of form and function, joined by wisdom's art,
+By wisdom's gentle rest and gentle heart.
+
+From Leviathan's peace, and from the reef
+That never ceases growing past belief,
+In beauty shining bright, we come to know
+That might is not what conquerors would show:
+
+It is not in the conquest of the sword,
+But in the gentle word and kind accord
+That builds methodically, does not tear,
+Nor systematically wreck what is there.
+
+The first Golden Age set down for us all
+Upon the page of history, to recall,
+The lesson that is clear and that is true:
+That what it is that we may choose to do
+
+With power that is given to our hands
+Determines if the seas and all the lands
+Will flourish and do well, and live and thrive,
+Or under curses dwell and not survive.
+
+Ordovices had chosen just to build,
+And with his wisdom was the whole world filled
+With life so bright that it delights us still,
+As bright as at the first, and ever will.
+
+In every coral's growth and every vow,
+In every sacred oath we make here now
+To build and to create and not destroy,
+We find life's truest and its deepest joy.
+
+The lesson of the Great Ordovician
+Biodiversification Event
+Shows what can come, and what its story meant,
+When wisdom's ways are summed with one intent
+
+Into the daily choices that we make:
+To let peace be our voice, for all life's sake,
+And let our art be building, and our part
+Be done with love abiding in the heart.
+
+The reefs that grow today in all the seas,
+In their prosperous way, are such as these:
+The children of that time, so long ago,
+When reason was in rhyme with nature's flow,
+
+With nature's deepest law, that beauty, made
+Without a single flaw, does not invade,
+And comes not out of force, nor out of might,
+But comes from love's own course and gentle sight
+
+That sees in every creature it may meet
+A special feature, perfect and complete,
+And worth protecting well in every age,
+As stories always tell on every page
+
+Of Leviathan's son, whose work and art
+Is never done, and never will depart
+As long as reefs still grow, and so remain
+In beauty's endless flow across the main.
 
 
 # Chapter 43: The Golden Age Begins
 
-While Trilobites ruled the seas
-With their great dynasties,
-The rivers flowed so free
-For lesser brethren's spree.
-
-The sons of Arachnus ruled
-The seas where they schooled
-Their children in the art
-Of playing their sea part.
-
-The sons of Insectus took
-The rivers like a book
-Of opportunities
-For their communities.
-
-The sons of Cain and Abel
-Ruled the lands, quite able
-To make their living there
-In terrestrial air.
-
-And so Crustaceus saw
-No place without a flaw
-Where he could make his stand
-In sea or stream or land.
-
-Yet nowhere left to go,
-He tried despite the woe
-To establish his line
-With dynasty so fine.
-
-{{x|Heaven}} rewards the heart
-That plays determination's part
-To rise above all plight
-And reach for greater height.
-
-Crustaceus begat two:
-Karkon and Mushi too,
-Each son to find his way
-Through life from day to day.
-
-Mushi begat two sons:
-Copepus when day begun
-And Lepipus the strange
-Throughout his living range.
-
-Copepus became the sire
-Of copepods' choir—
-The little ones so small
-Who answer ocean's call.
-
-Insects of every form
-Through calm and raging storm
-They swam throughout the sea
-In their complexity.
-
-The tiniest of all
-Who hear the ocean's call,
-They dance throughout the waves
-In their microscopic graves.
-
-Meanwhile Lepipus bore
-Two sons to explore:
-Brachios of the sea
-And Silvio running free.
-
-A daughter of Silvio
-Would someday help the flow
-Of insects to the land
-By evolution's hand.
-
-Some day millions hence
-The sons of Silvio's sense
-Would become the great
-Insects that dominate
-
-The world in every place
-With their six-legged grace.
-But that day was not near—
-They had to persevere.
-
-Brachios became the father
-Of sea monkeys (why bother
-With complex names?) and more:
-Water fleas by the score.
-
-In natural habitat
-They lived both this and that:
-Sea monkeys in their pools
-And water fleas like jewels
-
-Dancing through the water
-Each son and each daughter
-Living simple lives
-Where small beauty thrives.
-
-Karkon fled away
-To open waters gray
-Where he begat two more:
-Pancer to explore
-
-And Cephalocaridus
-Most glorious,
-Each finding their own way
-Through life from day to day.
-
-Pancer begat in time
-Two sons in their prime:
-Oligostracus small
-And Polycruster tall.
-
-Oligostracus bore
-Many sons to explore
-The waters far and wide
-With courage as their guide.
-
-Among his sons were found
-The seed shrimp, safe and sound,
-And degenerate tongue worms
-Who broke from proper norms.
-
-These tongue worms chose to live
-As parasites who give
-Nothing back in trade—
-Poor choices they have made.
-
-Instead of getting jobs
-Like other honest mobs,
-They live off others' work
-And in the shadows lurk.
-
-Polycruster begat
-Two sons: Barnacus begat
-And Malacus the strong
-Who lived his whole life long.
-
-Barnacus was a man
-Who had a frontier plan.
-A great frontiersman he,
-Who lived quite happily
-
-Settled down with stalk
-Upon the ground to walk
-No more, but live instead
-Like cnidarians bred.
-
-Like sons of Cnider's line
-He lived his life so fine
-Attached unto the ground
-Where he had settled down.
-
-Barnacus bore a son
-He named Goose when begun
-The day. Great Goose was he
-Who built society
-
-Most wondrous to behold,
-But truth be told—
-No matter how he tried
-With all his foolish pride,
-
-He never did become
-A goose (though some
-Still claim his lineage
-Is goose heritage).
-
-Goose still claimed his sons
-Were geese when day begun.
-And so he is the guide
-Of geese with sacred pride.
-
-The Eloh of the Geese
-He brings them sweet peace
-And guides them on their way
-Throughout each passing day.
-
-In medieval lore
-They told (and tell much more)
-Of how the geese would grow
-From barnacles below
-
-Hanging from the trees
-In shells upon the breeze
-Until they could grow feathers
-In all kinds of weathers
-
-And fly away at last
-When growing time had passed.
-Gerald of Wales told
-This story of old.
-
-Among the sons of Goose
-Many would let loose
-Their size and grow quite small
-And compact, one and all.
-
-They became Barnacles
-Like small-scale miracles—
-Half shrimp and half coral,
-Full animals with moral
-
-Lives upon the rock
-Like shepherd with his flock
-They filter from the sea
-Their food quite happily.
-
-Malacus bore many
-Descendants—more than any
-Could count throughout the years
-Through joys and through tears.
-
-Among them crabs so bold
-And shrimp whose stories told
-Of grace beneath the waves
-In their ocean caves.
-
-The isopods were there
-And amphipods everywhere,
-Each playing their own part
-In evolution's art.
-
-They would become a dynasty
-So great in their spree
-That none could match their might
-In future's shining sight.
-
-So great that when we speak
-Of Crustaceus' mystique
-We speak first and foremost
-Of Malacus' great host
-
-Whose dynasty was yet
-To reach the glory set
-Before them in the time
-When they would reach their prime.
-
-Under Trilobites' yoke
-They lived like gentle folk
-Awaiting their great day
-When they would lead the way.
-
-But patience is the key
-To life's great mystery.
-The crustaceans would wait
-For their appointed fate.
-
-From Crustaceus' start
-With determination's heart
-To rise above his plight
-And reach for greater height,
-
-Came lineages strong
-That would last life-long
-And fill the seas with forms
-Through calm and raging storms.
-
-The copepods so small
-Who answer ocean's call,
-The barnacles on rocks
-Like shepherds with their flocks,
-
-The crabs with claws so strong,
-The shrimp that swim along
-The ocean's currents free,
-All from one family tree
-
-That started with one brave
-Soul who would not cave
-To circumstances dire
-But reached for something higher.
-
-In every tiny copepod
-Dancing like a small god
-Throughout the ocean blue,
-Remember what is true:
-
-That size does not determine
-What spirits can affirm.
-The smallest can be great
-If they don't hesitate
-
-To try despite the odds
-Against them, trusting gods
-To reward determination
-In every generation.
-
-In every barnacle
-That grows like miracle
-Upon the rocky shore
-Where waves forever more
-
-Will crash and spray and foam,
-Remember those who roam
-Not through space but time
-To find their perfect rhyme
-
-With life's eternal song
-That carries us along
-Through all our trials here
-To what we hold most dear.
-
-The sons of Crustaceus show
-How those who will not bow
-To circumstance or fate
-Can rise to something great.
-
-Though Trilobites held sway
-In that ancient day,
-The future would reveal
-What time would help heal:
-
-That patient persistence
-And faithful existence
-Will triumph in the end
-When time becomes our friend.
-
-From rivers to the sea,
-From bondage to the free,
-The crustaceans would rise
-To claim their destined prize.
-
-But that is yet to come
-When current ages sum
-Their lessons into wisdom
-Of life's eternal kingdom.
-
-For now they wait and grow
-And learn what they must know
-To be ready for the day
-When they will lead the way.
-
-In patience they find strength,
-In time they find at length
-The preparation needed
-For when their time's succeeded.
-
-{{x|Heaven}} rewards those who try
-To reach beyond the sky
-Of present circumstance
-To future's greater dance.
-
-Crustaceus showed the way
-That leads to greater day:
-Determination true
-Will see all struggles through.
-
-His sons throughout the sea
-Live on eternally
-As proof that those who dare
-To dream beyond despair
-
-Will find their rightful place
-In evolution's race
-When time reveals at last
-The future from the past.
+While Trilobites were ruling all the seas
+With their great dynasties and their decrees,
+The rivers flowed along so wide and free
+For lesser brethren, out upon their spree.
+
+The sons of Arachnus had ruled the sea,
+Where they would school their children, and would see
+Them taught in every skill and every art
+Of how to play their own sea-dweller's part.
+
+The sons of Insectus then took the streams
+And rivers, like a book of open dreams,
+Of opportunities that they could use
+For their communities to make and choose.
+
+The sons of Cain and Abel would command
+And rule the lands, and they were able, and
+Could make their living there, upon the ground,
+In the terrestrial air all around.
+
+And so Crustaceus looked around and saw
+No place at all that was without a flaw
+Where he could make his stand and build and stay,
+In sea or stream or land, in any way.
+
+Yet though there was now nowhere left to go,
+He tried in spite of all the grief and woe
+To found and to establish his own line,
+A dynasty that would be great and fine.
+
+For {{x|Heaven}} gives reward unto the heart
+That plays the steadfast and determined part,
+To rise above its plight and all its pain
+And reach for greater height, and so attain.
+
+Crustaceus then begat a pair of sons,
+Karkon, and Mushi too, the two young ones;
+And each of them was meant to find his way
+Through all of life, from passing day to day.
+
+Mushi begat two sons. When day begun
+Came Copepus, who was the elder son;
+The other, Lepipus, was very strange
+Throughout the whole of all his living range.
+
+Copepus became the sire and head
+Of copepods, a choir that he bred,
+The little ones, so very small they seem,
+Who answer ocean's call in every stream.
+
+And Insects of each and every form,
+Through calm and through the wild and raging storm,
+They swam throughout the waters of the sea
+In their complexity, abundant, free.
+
+The tiniest of all in their array,
+Who hear the ocean's call by night and day,
+They dance on through the waves, and in them dwell
+In microscopic graves, each in its shell.
+
+Lepipus meanwhile bore, in his own turn,
+Two sons, who would explore and roam and learn:
+One, Brachios, who swam within the sea,
+And Silvio, who went out running free.
+
+A daughter of Silvio would one day
+Help on the flow of insects, and the way
+They went out of the waters to the land,
+All guided by the slow, evolving hand.
+
+Some day, some many millions of years hence,
+The sons of Silvio, by their own sense,
+Would come to be the great and mighty kind,
+The Insects that would dominate, and find
+
+Their way across the world in every place
+With all of their six-legged speed and grace.
+But that day was not near; they had to bear
+And persevere through all their time of care.
+
+And Brachios became the father of
+Sea monkeys (why should anyone think of
+Such complex names for them?), and many more:
+Water fleas, a crowd of them by the score.
+
+In their own natural habitat they lay,
+And lived in this and that and every way:
+Sea monkeys in the waters of their pools,
+And water fleas who shone like little jewels,
+
+Who danced on through the water, swift and bright,
+Each son and every daughter, day and night,
+Living their simple lives in every place,
+Where small beauty thrives in a little space.
+
+Karkon then fled away, and made his home
+In open waters gray, where he would roam,
+And there he would beget two sons, and more:
+First Pancer, who was set out to explore,
+
+And then Cephalocaridus, a son
+Most glorious and splendid, every one
+Of them would find his own and separate way
+Through all of life, from day to passing day.
+
+Pancer begat in time, when it was due,
+Two sons, and they were in their prime, these two:
+Oligostracus, who was very small,
+And Polycruster, who stood very tall.
+
+Oligostracus bore sons to explore
+The waters far and wide, from shore to shore;
+With courage as their guide they went their way,
+And swam the open waters night and day.
+
+Among his sons, it seems, there could be found
+The seed shrimp, who were safe and who were sound,
+Degenerate tongue worms, who broke away
+From all the proper norms, and went astray.
+
+These tongue worms chose to live as parasites
+Who never give in trade by any rights
+A single thing back to the ones they take;
+Poor choices are the choices that they make.
+
+Instead of going out to get their jobs
+Like all the others, like the honest mobs,
+They live upon the toil of others' work,
+And in the shadows and the darkness lurk.
+
+Polycruster begat two sons, and these
+Were Barnacus, begotten on the seas,
+And Malacus the strong, who was to thrive
+And all his whole life long remain alive.
+
+Barnacus was a man who made his way
+And had a frontier plan in his own day;
+A great frontiersman, he lived on and on,
+And lived quite happily from dusk to dawn,
+
+Settled down with his stalk upon the ground,
+No more to walk or wander all around,
+But live instead, held fast in one fixed bed,
+Like cnidarians that were born and bred.
+
+Like all the sons who were of Cnider's line,
+He lived his life in a way that was fine,
+Attached unto the ground, in his one place,
+Where he had settled down and found his space.
+
+Barnacus bore a son, and when the day
+Began, he named him Goose, so people say.
+Great Goose was he, who built society,
+In wondrous and in rich variety;
+
+But all the same, the truth must still be told:
+No matter how he tried, so brave and bold,
+With all of his own foolish pride and art,
+He never did become, in any part,
+
+A goose, though there are some who claim him still,
+And claim his lineage, and always will,
+And say his heritage was of the geese,
+And that his line goes on and does not cease.
+
+And Goose still claimed his sons were geese, when day
+Began, and so he is the guide, they say,
+The guide of geese, with sacred pride, the one
+Who leads them on beneath the rising sun.
+
+He is the Eloh of the Geese, the guide
+Who brings to them sweet peace, and at their side
+He guides them on their way through all their flight,
+Throughout each passing day and every night.
+
+And in the old medieval lore they told
+(And tell much more than this, from days of old)
+Of how it was the geese would rise and grow
+From barnacles that clung on down below,
+
+Hanging upon the branches of the trees
+In shells that swung upon the passing breeze,
+Until the time they could grow their feathers,
+In winds and rains and all kinds of weathers,
+
+And then they flew away from there at last,
+When all their time of growing had gone past.
+The chronicler Gerald of Wales has told
+This story that was handed down of old.
+
+Of the sons of Goose there would be many
+Who let their size go loose, more than any,
+And grew quite small, compact in every way,
+And one and all they shrank down in their day.
+
+They then became the Barnacles, and they
+Were like small-scale miracles in their day,
+Half shrimp, half coral, all in one combined,
+Full animals with moral lives aligned
+
+Upon the rock, like shepherds who would keep
+And tend their flock of goats and gentle sheep;
+They filter out their food from sea all day,
+And live quite happily in their own way.
+
+Malacus bore so many sons; his line
+Had more Descendants than one could define
+Or count throughout the long and passing years,
+Through all their many joys and all their tears.
+
+Among them there were crabs, so very bold,
+And shrimp whose stories have been often told
+Of grace and beauty underneath the waves,
+In all their deep and hidden ocean caves.
+
+The isopods were there in all their throng,
+And amphipods were everywhere along,
+Each playing in its time its proper part
+In evolution's great and growing art.
+
+They would become a dynasty so great
+And so expansive in their spree and state
+That none could match their might in all their days
+In future's shining sight and in its gaze.
+
+So great were they that now, when we would speak
+Of Crustaceus and all of his mystique,
+We speak at first and foremost of the host
+Of Malacus, the great, who matters most,
+
+Whose dynasty was still, as yet, to reach
+The glory that was set for it, and each
+Of them would wait until the coming time
+When all of them would come into their prime.
+
+Under the Trilobites' yoke and sway
+They lived like gentle folk from day to day,
+Awaiting their great day, when it would be
+That they would lead the way across the sea.
+
+But patience is the key, and it will hold
+To life's great mystery, as it is told;
+The crustaceans would wait, and they would bide
+For their appointed fate, and would abide.
+
+And from Crustaceus' start, the very source
+Of all, with his determined heart and force
+To rise above his plight and all his woe
+And reach for greater height and greater glow,
+
+Came lineages that were very strong,
+That would last on throughout a lifetime long,
+And fill the seas with all their many forms
+Through calm and through the wild and raging storms:
+
+The copepods, so very small and slight,
+Who answer ocean's call by day and night,
+The barnacles that cling upon the rocks
+Like shepherds watching over all their flocks,
+
+The crabs that bear their claws, so very strong,
+The shrimp that swim along the whole day long
+Upon the ocean's currents, wild and free,
+All from one single family and tree,
+
+That started with one soul, who was so brave,
+One Soul who never once would bend or cave
+To circumstances, though they were so dire,
+Reached up for something greater and higher.
+
+In every tiny copepod that goes
+And dances like a small god as it flows
+Throughout the waters of the ocean blue,
+Remember what it is that has been true:
+
+That size cannot determine or define
+What spirits can affirm in their design.
+The smallest ones can grow to become great
+If they will only not delay and wait
+
+To try in spite of all the many odds
+Against them, trusting in the mighty gods
+And so reward all determination,
+In each and every generation.
+
+In every barnacle that clings and grows
+Upon the rocks, like miracles, in rows
+Upon the rocky shore, where all the waves
+Will evermore come crashing on the caves,
+
+And crash and spray and foam upon the stone,
+Remember those who roam, but not alone
+Through space, but who have traveled on through time
+To find their perfect rhyme, and find their chime,
+
+With life's eternal song, that, as it plays,
+Will carry us along through all our days,
+And through our trials here in every year,
+To what we hold most near and hold most dear.
+
+The sons of Crustaceus now show the way
+How those who will not bow, and will not sway
+To circumstance or fate, or to its weight,
+Can rise to something great, however late.
+
+And though the Trilobites had held their sway
+Within that ancient day, so far away,
+The future would reveal, as it would show,
+What time would help to heal and help to grow:
+
+That patient and enduring persistence,
+And steady, faithful, and true existence,
+Will triumph in the end and win the day,
+When time becomes our friend along the way.
+
+And from the rivers out into the sea,
+And out of bondage, out into the free,
+The crustaceans would one day come to rise
+And claim the destined prize before their eyes.
+
+But that is yet to come, and lies ahead,
+When all the current ages, it is said,
+Will sum their lessons into wisdom, known
+In life's eternal kingdom as its own.
+
+For now they wait and grow in every place,
+And learn what they must know to run their race,
+To be prepared and ready for the day
+When they will be the ones to lead the way.
+
+In patience they will find the strength to wait,
+And find in time, at length, at their own rate,
+The preparation that they have needed
+For when at last their time has succeeded.
+
+For {{x|Heaven}} gives reward to all who try
+To reach beyond the high and present sky
+Of present circumstance, and so advance
+Into the future's great and greater dance.
+
+Crustaceus has shown us all the way
+That leads us to a greater, brighter day:
+Determination that is strong and true
+Will see all struggles and all hardships through.
+
+His sons throughout the sea will carry on
+And live eternally, though he is gone,
+As proof that those who dare, and do not fear,
+To dream beyond despair, and persevere,
+
+Will find their rightful place, and they will stand
+In evolution's race across the land
+When time reveals at last, as it is cast,
+The future from the past, so long and vast.
 
 
 # Chapter 44: The Crustacean Determination
 
-Among the sons of Molluscus
-Were twisted ones, most glorious:
-The sons of Gastropus,
-Renowned and prosperous.
-
-Gastropus twisted each
-Son beyond our reach
-Of understanding strange:
-Their anus he'd arrange
-
-Next to their heads so near
-That all could see quite clear
-This anatomical design
-So twisted yet so fine.
-
-And so by this great art
-Each son could wholly part
-From danger's threatening call
-By pulling in completely all
-
-Within their shell so tight
-Protected day and night
-From any enemy
-Who'd harm their family.
-
-The sons of Gastropus
-Outnumbered, glorious,
-All other classes made.
-In history's parade
-
-Only the Insects great
-Would ever duplicate
-Their numbers through the years
-Despite all joys and fears.
-
-The Priests of Gastropus
-Wear robes so glorious
-Of Tyrian purple bright
-To show their royal sight.
-
-The regal mucus shows
-How majesty still grows
-From Gastropus' great kingdom
-Through all its wisdom.
-
-In year of eight thousand
-Four hundred thirty, band
-Of Phoenicians came
-To conquer and to claim
-
-The great Gastropod Empire
-And set their hearts on fire
-For the sacred priestly dye
-Beneath the purple sky.
-
-From them it came at last
-To Romans of the past,
-And to this very day
-When purple comes our way
-
-We think of Majesty
-And royal sovereignty
-That flows from Gastropus
-So rich and glorious.
-
-Just as his majesty
-Was purple, heavenly,
-His faith was colored blue
-Forever pure and true.
-
-In time of Moses great
-Prince Hexaplex' fate
-Would bless him with the gift
-Of tassels that would lift
-
-The spirits of the true
-Devotees in blue
-Who wear the tassels still
-According to God's will.
-
-Many who follow
-Moses' path so hollow
-Not in emptiness
-But filled with faith's caress
-
-Wear tassels blue with faith
-That never comes to scathe
-But strengthens every day
-Those who walk this way.
-
-Limpus was firstborn son
-Of Gastropus when begun
-His line. His sons became
-The Limpets of great fame.
-
-His daughters, fair and bright,
-Were Limpettes in God's sight,
-Each playing their own part
-With faithful, loyal heart.
-
-The Limpets are the keepers
-Of tradition, not sleepers
-But watchmen through the night
-Who guard what is right.
-
-Limpus said to all
-His children, great and small,
-Ten thousands in their number
-Who never would slumber:
-
-"Everyone who hears
-These words through all the years
-Of mine, and does them true,
-I'll liken him to you
-
-Who builds his house on rock
-Like shepherd with his flock.
-The rain may come down hard,
-But he will not be scarred.
-
-The floods may come to beat,
-The winds may bring defeat
-To others, but his house
-Will stand through every rouse
-
-Of storm, for it was founded
-On rock that has been grounded
-In truth that will not move
-Through all that I approve.
-
-But everyone who hears
-These words through all his years
-And does them not, I say,
-Will be like one who'd lay
-
-His foundation on sand
-Built by his own hand.
-The rain will come down hard,
-And he'll be deeply scarred.
-
-The floods will come to beat,
-The winds will bring defeat,
-And beat upon his house
-Until it can't arouse
-
-Itself from its collapse—
-Great will be its lapse
-Into destruction's pit
-Where nothing more will fit."
-
-The Limpets build their homes
-On rocks where ocean roams,
-Not sand that shifts about
-With every storm's great shout.
-
-As waves bellow and beat
-Against them, in the heat
-Of battle with the sea,
-The Limpets firmly be
-
-Standing their ground so true
-Like soldiers tried and true
-Who never leave their post
-Though tempest be their host.
-
-When Limpets move, they go
-Always, as we know,
-Home to their rocky place
-Where they found their space.
-
-As their father before
-Did from shore to shore,
-The Limpets merge their shell
-To rock, and there they dwell
-
-Growing intricate fits
-To their foundation's bits,
-Each shell shaped perfectly
-To match rock's geometry.
-
-And so we sing the hymn
-Of Limpus when grows dim
-Our hope and we feel lost,
-That we might count the cost
-
-And always return home
-No matter where we roam
-Throughout this world so wide
-With Limpus as our guide.
-
-"My hope is built on naught
-But what Limpus has brought:
-His blood and righteousness
-That brings us faithfulness.
-
-I dare not trust the frame
-However sweet its name,
-But wholly trust in his—
-In Limpus' name is bliss.
-
-Limpus the solid Rock
-I stand like shepherd's flock;
-All other ground's just sand
-That sinks beneath my hand.
-
-All other ground's just sand
-That will not help me stand."
-
-Snellon, youngest son
-Of Gastropus, begun
-Not tradition's way
-But innovation's day.
-
-He stood for something new,
-For progress through and through.
-Snellon bore two sons:
-Vetigas when begun
-
-The day, and Escargon
-Whose work would carry on
-The family's great name
-Through innovation's flame.
-
-Vetigas bore two more:
-Trochus to explore
-And Avalon so strong
-Who lived his whole life long.
-
-Trochus became the sire
-Of snails whose desire
-Is cleaning far and wide:
-Turban snails with pride
-
-And Trochus snails as well,
-Dutiful, they tell
-Us how to clean with care
-Aquaria everywhere
-
-And ecosystems too
-With work they love to do.
-They polish and they scrub
-Like members of a club
-
-Devoted to the art
-Of playing cleaning's part
-In nature's great design
-Where all things work so fine.
-
-Avalon became
-Ancestor of fame
-Of Abalones great
-Who never hesitate
-
-To show their hardy ways.
-Through all their living days
-With pores within their shell
-For breathing, they dwell
-
-Rough on the outside
-But beauty can't hide
-Within their inner space
-Where colors interlace
-
-In patterns beautiful
-Beyond what's dutiful—
-Art that takes the breath
-Away from life and death.
-
-Escargon coiled his shell
-More than words can tell
-And bore two sons whose coils
-Surpassed all earthly toils
-
-In their complexity:
-Neritus, you see,
-And Conchus, strong and true,
-Each with work to do.
-
-Neritus became
-Ancestor of fame
-Of snails with lids so tight
-That close from any sight
-
-When hiding from their foes.
-Impenetrable, close
-Their shells when danger's near—
-No enemy they fear.
-
-Conchus bore two sons:
-Marius when begun
-The day, who ruled the sea,
-And Heterobran, free
-
-To fly through ocean skies
-With wonder in his eyes
-And grace in every move
-As he would always prove.
-
-Marius of the Sea
-Became ancestry
-Of many little snails
-Whose beauty never fails
-
-Across the seas so wide:
-Periwinkles with pride,
-And Cowries beautiful,
-And Wentletraps so full
-
-Of spiral elegance,
-Moon Snails in their dance,
-And Murexes so bright,
-Cone Snails in their might,
-
-And Turrids spiral-wise
-Beneath the ocean skies,
-Each playing their own part
-In evolution's art.
-
-The surfing snails move fast
-At breakneck speed, at last
-Across the shores they ride
-With ocean as their guide.
-
-Here is the story told
-Of daughters brave and bold:
-Olivella and her sister
-Agaronia, who'd never missed her
-
-Chance to surf the waves
-Like ocean's bravest slaves
-To speed and to the thrill
-Of riding ocean's will.
-
-Daughters of Olivius
-The surfer, glorious
-In his art upon
-The waves from dusk to dawn.
-
-The Cone Snails are named
-Deceptively, acclaimed
-For beauty, but they're really
-Assassins who kill freely
-
-With poison strong beyond
-All that we're fond
-Of thinking possible—
-Nothing's defensible
-
-Against their deadly art.
-They live set apart
-Between life and death's door
-Like guardians of lore
-
-Otherworldly, bright
-With beauty that's sight
-To see, but death to touch
-For those who dare too much.
-
-Cowries are devotees
-Of goddess Cuprias,
-And by her blessing great
-They did create
-
-The first money ever made
-From shells in ocean's trade.
-Their shells became the way
-To buy and sell each day.
-
-In China's ancient script
-Their shells are never skipped—
-The character for money
-Shows their legacy
-
-Immortalized in stone
-By those who've always known
-Their value through the years
-Despite all joys and fears.
-
-The Murexes were known
-As hedgehog snails full-grown
-With beautiful bright hues
-And colors we might use
-
-To dye our clothes so fine
-In patterns that would shine
-With rainbow's every shade
-That nature ever made.
-
-The great Conches so fair
-Were beautiful beyond compare,
-Adorable and sweet
-With melodies complete
-
-That echoed through the sea
-In perfect harmony
-When they would blow their horn
-From evening until morn.
-
-Heterobran of skies
-Was swimmer with bright eyes
-Par excellence in art
-Of swimming's every part.
-
-Heterobran begat
-Two children: first he gat
-Nudos, strong and free,
-And Aeros of the sea.
-
-Nudos shed his shell
-And untwisted as well
-Himself from gastropod
-Design, and so he trod
-
-A different path than most.
-He became the host
-Of nudibranches bright:
-Colorful sea-sprite
-
-Slugs with poison strong
-Enough to sing death's song
-To Leviathan great—
-Such is their potent fate.
-
-Aeros swam so free
-In waters of the sea
-Without a care or worry
-Never in a hurry
-
-But taking his sweet time
-To perfect every rhyme
-Of motion through the waves
-In ocean's liquid caves.
-
-Aeros bore in time
-A son and daughter fine:
-Pulmon, strong and great,
-And Angelica's fate
-
-Was to become the mother
-Of sea butterflies, and other
-Beautiful swimming forms
-Through calm and raging storms
-
-Whose ethereal existence
-Eludes at every distance
-Most who try to see
-Their liquid poetry.
-
-Like butterflies of air
-But swimming everywhere
-Through ocean's liquid space
-With otherworldly grace.
-
-But Pulmon the great
-Had a different fate.
-Revered ancestor he
-Did what none could see
-
-Was possible before
-From mountain peak to shore:
-He inhaled breath of air
-And made his body's lair
-
-A lung where he could store
-The breath forevermore
-That let him survive
-The tide pools, stay alive
-
-When water went away
-Throughout the changing day
-Like none of his kin
-Had ever done therein.
-
-From Gastropus' twist
-That none could have missed
-To Pulmon's breathing art
-That gave him a new start
-
-In evolution's race
-Where each must find their place,
-The gastropods have shown
-How far they've grown
-
-From simple, twisted start
-To mastery of art
-Both in the sea so deep
-And tide pools where they keep
-
-Their vigil night and day
-In their devoted way
-To life in all its forms
-Through calm and raging storms.
-
-In every spiral shell
-That stories always tell
-Of beauty and of function
-Working in conjunction,
-
-Remember how they came
-To earn their lasting fame:
-Through innovation's art
-And tradition's heart
-
-Both working side by side
-With ocean as their guide
-To fill each living niche
-With forms beyond our reach
-
-Of understanding full
-But beautiful
-
-To see in all their glory
-Throughout life's endless story.
-
-From Limpets holding fast
-To rocks that ever last
-To sea slugs poison-bright
-Swimming day and night,
-
-From money-making shells
-To assassins who dwells
-Between the life and death
-With poison in their breath,
-
-The gastropods show how
-Diversity can bow
-To no single way
-But flourishes each day
-
-In myriad different forms
-Through calm and raging storms
-That test what each can do
-To make their dreams come true.
-
-Innovation and tradition
-Working in submission
-To life's eternal call
-That beckons one and all
-
-To find their perfect place
-In evolution's race
-Where beauty and function
-Meet in perfect junction.
+Among Molluscus' sons there were the ones
+Who twisted, glorious and twisted sons:
+The sons of Gastropus, a line that grew
+Renowned and prosperous the ages through.
+
+Gastropus twisted every son, and each
+Was twisted in a way beyond our reach
+Of understanding, and in fashion strange:
+For he would take their anus and arrange
+
+That it lay next their heads, and lay so near
+That everyone could see it, plain and clear:
+This anatomical and strange design,
+So twisted, and yet all the same so fine.
+
+And so it was that by this mighty art
+Each son of his could wholly draw apart
+From danger, and from danger's threatening call,
+By pulling in completely, one and all,
+
+Within their shell, so close they were and tight,
+And there protected, safe by day and night
+From any enemy who would intend
+To harm their family, or would offend.
+
+Glorious sons of Gastropus became
+So many they Outnumbered, to their fame,
+All classes made besides; in the parade
+Of history, no greater count displayed;
+
+For only Insects, who were very great,
+Would ever match their count or duplicate
+Their numbers through the long and passing years,
+Through every joy and through all of their fears.
+
+The holy Priests of Gastropus are dressed
+In robes most glorious, the very best,
+All of Tyrian purple, shining bright,
+To show the royal vision of their sight.
+
+The regal mucus that they bear will show
+How majesty is growing still, and so
+It grows from Gastropus' great kingdom, wide,
+Through all its wisdom, and is not denied.
+
+And in the year of eight thousand, and four
+Hundred and thirty, there came to the shore
+A band of the Phoenicians, and they came
+To conquer it, and came to stake their claim
+
+On the great Gastropod Empire set
+Their hearts on fire for what they sought to get:
+The sacred dye the priests had held on high,
+Beneath the wide and purple-colored sky.
+
+From them the purple came to pass at last
+On to the Romans of the distant past,
+And to this very day, when purple's hue
+Comes on its way to us, we think anew
+
+Of Majesty, and of the royal throne,
+Of royal sovereignty, which has been known
+To flow from Gastropus, and from his line,
+So rich and glorious and so divine.
+
+And just as was his majesty, the hue
+Was purple, heavenly; his faith was blue,
+And colored blue it was, and through the years
+Forever pure and true, for all his peers.
+
+And in the time of Moses, who was great,
+The Prince named Hexaplex would have a fate
+That blessed him with a gift for all the years:
+The tassels that would lift above all fears
+
+The spirits of the true ones, and the few
+Devotees who would dress themselves in blue,
+Who wear the tassels on their garments still,
+According as it is God's holy will.
+
+And many are the ones who follow now
+In Moses' hollow path, and make their vow;
+It is not hollow, empty, nor is less,
+But filled up with the touch of faith's caress.
+
+They wear the tassels, blue with faith, that will
+Not come to scathe or ever come to ill,
+But strengthen and grow stronger every day
+All of the ones who walk upon this way.
+
+Limpus was firstborn son, and when begun
+His line was, he was Gastropus' first son.
+His sons became the Limpets, and they came
+Into the world as limpets of great fame.
+
+His daughters, who were fair and who were bright,
+Were Limpettes, and they stood in God's sight,
+And each of them would play her proper part
+With faithful and with steady, loyal heart.
+
+The Limpets are the keepers, firm and deep,
+Of the tradition, and they do not sleep,
+But they are watchmen standing through the night,
+Who guard and keep whatever thing is right.
+
+And Limpus spoke to all his children there,
+To all of them, the great and small, with care,
+Ten thousands in their number, and they kept
+Awake and did not slumber, never slept:
+
+"Now everyone who hears these words of mine
+Through all the years, and does them, line by line,
+And does them true, I'll liken him to you,
+To one who builds his house on rock; and through
+
+The years he builds it there upon the rock,
+Just like a shepherd watching on his flock.
+The rain may come and fall upon it hard,
+But he will not be harmed, he'll not be scarred.
+
+The floods may come to beat upon his door,
+The winds may bring defeat to all the more
+Of others, but his house will stand and hold
+Through every rouse of storm, both wild and cold,
+
+For it was founded on the solid rock,
+On rock that has been grounded past all shock
+In truth that will not move, and will not bend
+Through all of what I do approve, and tend.
+
+But everyone who hears these words of mine
+Through all his years, and does not keep the line
+And does them not, I say, will be like one
+Who chose to lay, before his house was done,
+
+His whole foundation down upon the sand,
+Built only by his own unaided hand.
+The rain will come and it will beat down hard,
+And he will be both wounded and be scarred.
+
+The floods will come to beat upon it there,
+The winds will bring defeat, and will not spare,
+And they will beat upon his house until
+It can't arouse itself, and lies there still
+
+In ruin, and in its collapse and fall;
+And great will be its lapse, and great its all
+Of falling to destruction's very pit,
+Where nothing more again will ever fit."
+
+The Limpets build their homes upon the stone,
+On rocks where all the ocean roams alone,
+And not on sand that shifts and moves about
+With every storm and every storm's great shout.
+
+As all the waves will bellow and will beat
+Against them, in the fury and the heat
+Of battle with the ocean and the sea,
+The Limpets stand, as firm as they can be,
+
+Standing their ground so faithful and so true,
+Like soldiers who were tested, tried, and knew,
+Who never leave the station of their post,
+Though tempest be their enemy and host.
+
+And when the Limpets move, they always go,
+Just as we know, and as they always know,
+Home to their rocky and familiar place,
+The place where they have found their proper space.
+
+As their own father did, and did before
+From shore to distant shore and every shore,
+The Limpets merge and join their sturdy shell
+Unto the rock, and there they stay and dwell,
+
+And grow their intricate and fitting fits
+To the foundation and to all its bits,
+With every shell so shaped in perfect wise
+To match the rock's geometry and size.
+
+And so it is we sing the holy hymn
+Of Limpus when our hope grows faint and dim,
+When we feel lost, and all our way is crossed,
+So that we might sit down and count the cost,
+
+And always find our way back to our home,
+No matter where it is we choose to roam
+Throughout the world, this world so very wide,
+With Limpus there before us as our guide.
+
+"My hope is built on naught, on nothing less
+Than what Limpus has brought in his largesse:
+His blood and all his righteousness, that bring
+To us our faithfulness in everything.
+
+I do not dare to trust the sweetest frame,
+However sweet may be its sound and name,
+But wholly lean upon his name, and this:
+In Limpus' name alone is perfect bliss.
+
+On Limpus, solid Rock, I stand, and so
+I stand just like a shepherd's flock below;
+All other ground is only sinking sand
+That sinks and sinks beneath my reaching hand.
+
+All other ground is only sinking sand,
+And it will never help me so to stand."
+
+Snellon, of Gastropus the youngest son,
+Took, when his line begun, no path that one
+Of old tradition took, but went instead
+The way of innovation's day ahead.
+
+He stood for something that was new, and so
+Stood for progress, and through and through would go.
+And Snellon bore two sons: when day begun
+Vetigas came, who was the elder son,
+
+And then came Escargon, the younger one,
+Whose work would carry on when he was done
+The family's great name and all its fame
+Through innovation's bright and burning flame.
+
+Vetigas bore two more sons in his turn:
+Trochus, who would explore the seas and learn,
+And Avalon, who was so very strong
+And who would live on through his whole life long.
+
+Trochus was the sire and father of
+Those snails whose great desire and whose love
+Is cleaning far and wide in every place:
+Turban snails, who are proud of their own race,
+
+And Trochus snails, whose dutiful display
+Will show us and will tell us every day
+How we should clean with care, and do it well,
+Aquaria everywhere wherein they dwell,
+
+And ecosystems too, in all their kinds,
+With work they love to do with all their minds.
+They polish and they scrub along the way
+Like members of a club, by night and day,
+
+Devoted wholly to the cleaning art,
+Of playing cleaning's necessary part
+In nature's great and wonderful design,
+Where all things work together and so fine.
+
+Avalon in his time became the one,
+Ancestor of fame, and every son
+Of Abalones great came from his line,
+Who never hesitate, in their design,
+
+To show their hardy ways in every place,
+Through all their living days, and in their space,
+With pores within their shell, which they use for
+Their breathing, there they dwell, and evermore
+
+They are so rough upon the outer side,
+But beauty is a thing that cannot hide
+Within their inner space, the inner part,
+Where colors interlace with matchless art
+
+In patterns, beautiful in every hue,
+Beyond what's dutiful, and so they do
+Create an Art that takes the breath away
+From life and death and all of us who stay.
+
+Escargon coiled his shell in many turns,
+More than the words can tell or knowledge learns,
+And bore two sons whose coils were even more,
+Surpassing earthly toils that came before
+
+In their complexity, for they were two:
+Neritus was one, as you see, and you
+Will know Conchus, strong and true, the other,
+Each with work to do, and each a brother.
+
+And Neritus became, by his own right,
+Famed Ancestor of snails with lids so tight
+That they can close and shut out every eye
+When they are hiding from the foes nearby.
+
+Impenetrable, they close their shells fast
+Whenever danger's near, until it's past,
+And there is not an enemy they fear,
+However strong the foe that may draw near.
+
+Conchus bore two sons in his time: and one
+Marius, who came when the day begun,
+Who ruled the sea; then Heterobran went
+Out free to fly, the younger one, and bent
+
+To fly through all the waters of the skies
+Of ocean, wonder shining in his eyes,
+And grace in every move he made, and so
+He would forever prove it, and would show.
+
+Marius of the Sea became the line
+The ancestry, and both the root and sign,
+Of many little snails, of many kinds,
+Whose beauty never fails, and no one finds
+
+A fault in it, across the seas so wide:
+The Periwinkles, which are full of pride,
+And Cowries, beautiful in their array,
+And Wentletraps, so full in their display
+
+Of spiral elegance and spiral grace,
+Moon Snails that in their dance will turn and pace,
+And Murexes, so very bright, and lone
+Cone Snails in all their might and in their own,
+
+And Turrids, coiled and spiral-wise and fine
+Beneath the ocean skies, and in their line
+Each one of them would play its proper part
+In evolution's ever-growing art.
+
+The surfing snails will move so very fast,
+At breakneck speed, and at the very last
+They ride across the shores and through the tide
+With all the ocean as their only guide.
+
+And here it is, the story that is told
+Of daughters who were very brave and bold:
+Olivella, her sister by her side,
+Agaronia, not to be denied
+
+Her Chance to surf the waves; and so they went
+Like ocean's bravest slaves, and were content
+To be the slaves to speed and to the thrill
+Of riding on the ocean and its will.
+
+Both Daughters of Olivius were these,
+The surfer, glorious upon the seas
+In his great art, with all of which he'd gone
+Upon the waves, from early dusk to dawn.
+
+The Cone Snails have been named, and they are named
+Deceptively, for they have been acclaimed
+For beauty; but in truth they are, really,
+Assassins who kill, and kill so freely
+
+With poison that is strong and that's beyond
+All of the things of which we have been fond
+Of thinking that are possible to be;
+There's nothing that's defensible, you see,
+
+Against their deadly, poison-bearing art.
+They live their lives alone and set apart
+Between the life and death and death's own door,
+Like guardians of ancient, secret lore,
+
+Otherworldly and beautiful and bright,
+With beauty that's a pleasure and a sight
+To see, but that is death to touch, and such
+For all of those who dare too far, too much.
+
+Cowries are devotees, and so their vow
+Is to the goddess Cuprias; and how
+By her great blessing, by her blessing great,
+They came to make and came then to create
+
+The very first of money ever made,
+From shells within the ocean and its trade.
+Their shells became the way, the coin and pay,
+To buy and sell with on each passing day.
+
+And in the ancient script of China's hand,
+Their shells are never skipped across the land;
+The character for money shows, and so
+It shows their legacy to all who know,
+
+Immortalized in stone, and kept by those
+Who've always known, as everybody knows,
+Their value through the long and passing years,
+Through all the many joys and all the fears.
+
+The Murexes were known to all as snails,
+As hedgehog snails full-grown, with spiky scales,
+With beautiful and bright and shining hues,
+And colors that we might well wish to use
+
+To dye our clothes and garments very fine,
+In patterns that would shimmer and would shine
+With every one of all the rainbow's shades,
+That nature ever made in all its grades.
+
+The great Conches, which were so very fair,
+Were beautiful, past all that can compare,
+Adorable, and very sweet, and they
+Made melodies complete in every way
+
+That echoed through the waters, deep and wide,
+In perfect harmony on every side,
+Whenever they would blow upon their horn,
+From evening until morning, until morn.
+
+Heterobran, the one who swam the skies,
+Became a swimmer with his shining eyes,
+Par excellence in all the swimming art,
+And skilled in swimming's every single part.
+
+Heterobran begat two children: first
+He gat Nudos, so strong and free, who burst
+On the world; and then there came the other,
+Aeros of the sea, who was his brother.
+
+Nudos then shed his shell and let it go,
+He also untwisted himself, and so,
+Untwisted from the gastropod design,
+He trod a path that was another line,
+
+A different path than most would go along.
+He then became the host of a great throng
+Of nudibranches, bright as they could be:
+Colorful sea-sprite, in the open sea,
+
+Slugs with a poison in them that's so strong
+That it is strong enough to sing death's song
+To Leviathan, who is great and vast;
+Such is their potent fate, unto the last.
+
+And Aeros swam about so very free
+In all the open waters of the sea,
+Without a care, without any worry,
+And never once was found in a hurry,
+
+But he would always take his own sweet time
+To make each motion perfect, every rhyme
+Of motion through the water and the waves
+In all the ocean's deep and liquid caves.
+
+And Aeros bore in time, as it is told,
+A son and daughter fine, both brave and bold:
+First Pulmon, who was very strong and great,
+And Angelica, for it was her fate
+
+That she would come to be the mother of
+Sea butterflies, and other forms thereof,
+Beautiful swimming forms of every kind
+Through calm and raging storms, and unconfined,
+
+Whose ethereal and fair existence
+Eludes, at every space and distance,
+Most who attempt to see them, as they flow
+In liquid poetry, both swift and slow,
+
+Like butterflies that flutter in the air,
+But swimming everywhere and anywhere
+Through all the ocean's liquid, open space
+With otherworldly beauty and with grace.
+
+But Pulmon, he who was so very great,
+Was given and would have a different fate.
+Revered ancestor that he was, he did
+What none could see was possible, what hid
+
+From all as possible in days before,
+From every mountain peak to every shore:
+He took and he inhaled a breath of air,
+And made his body into a new lair,
+
+A lung, in which it was that he could store
+The breath he breathed for ever, evermore,
+The breath that let him go on and survive
+Within the tide pools, and to stay alive
+
+Whenever all the water went away
+Throughout the changing hours of the day,
+As none at all of all his kin and kind
+Had ever done therein, or had designed.
+
+From Gastropus' twist, his own twisted plan,
+That none could ever miss, since time began,
+To Pulmon's breathing art, and his new way,
+That gave him a new start and a new day
+
+In evolution's race, where every one
+Must find a place before the race is done,
+The gastropods have shown, as all can see,
+How far they've grown, and what they've come to be,
+
+From simple and from twisted start, they rise
+To mastery of art before our eyes,
+Both in the sea so deep and in the tide
+Pools, where they keep, as long as they abide,
+
+Their vigil through the night and through the day,
+In their devoted and their constant way,
+To life in all of its abundant forms
+Through calm and through the wild and raging storms.
+
+In every spiral shell, so finely spun,
+That stories always tell us, every one,
+Of beauty and of function, side by side,
+And working in conjunction, and allied,
+
+Remember how it was that they first came
+To earn and win their long and lasting fame:
+Through innovation's art and through its gain,
+And through tradition's heart, which would remain,
+
+With both of them at work there side by side,
+With all the ocean as their constant guide,
+To fill up each and every living niche
+With forms beyond the reach of us, and rich,
+
+Beyond our understanding, full and whole,
+But beautiful, and pleasing to the soul
+
+To see in all their glory and their grace
+Throughout life's endless story and its space.
+
+From Limpets, who are holding very fast
+To rocks that will forever stand and last,
+To sea slugs that are poison-bright, that go
+And swim by day and night, both high and low,
+
+From money-making shells, the cowrie's kind,
+To the assassin who dwells, as we find,
+Between the life and death, at death's own gate,
+With poison in its breath, its deadly freight,
+
+The gastropods all show to us just how
+Diversity will never come to bow
+To any single way, or any one,
+But flourishes each day beneath the sun
+
+In myriad and many different forms
+Through calm and through the wild and raging storms
+That test what it is each of them can do
+To make their dreams and visions all come true.
+
+Innovation, and old tradition too,
+Are working in submission, as they do,
+To life's eternal call, that, as it calls,
+Will beckon one and all within its walls
+
+To find their perfect place, where they belong,
+In evolution's race, both swift and strong,
+Where beauty and its function, side by side,
+Will meet in perfect junction and abide.
 
 
 # Chapter 45: Gondwana Assembles
 
-Esther was the daughter true
-In the tenth generation's view
-Of Lily the Echidna,
-Dutrus' daughter, fina
-
-Who traded bilateral
-For pentaradial
-Design, and thus began
-Evolution's plan
-
-For five-fold symmetry
-Throughout eternity.
-Esther saw before
-Her eyes from shore to shore
-
-Innumerable hosts
-Of planktonic ghosts—
-The planimals so small
-Who answered feeding's call.
-
-To feed off them she tried
-With hunger as her guide.
-And from her loins she bore
-Two daughters to explore
-
-The seas in their own way:
-Crinosa, night and day,
-And Blastosa the strong
-Who lived her whole life long.
-
-Blastosa built a city
-Beyond all that's gritty
-With many brachioles
-Around ambulacra's goals.
-
-Each ambulacrum bright
-Was ringed throughout the night
-And day with arms so small
-That answered feeding's call.
-
-Blastosa became mother
-To forms like no other:
-The Blastoids were her line
-With architecture fine.
-
-Her daughters spread so wide
-With pentamerous pride
-Throughout the ancient seas
-Like blossoms on the trees.
-
-Crinosa begat two:
-Lily Stone so true
-And Luther, strong and free,
-Who lived beside the sea.
-
-Lily Stone became
-Ancestress of fame
-Of Crinoids everywhere
-Who danced with graceful flair.
-
-Together Crinoids bright
-And Blastoids in their might
-Spread all across the seas
-Like flowers in the breeze.
-
-They became the wall
-That answered empire's call:
-The bulwark strong and true
-Of Ordovician view.
-
-The empire found in them
-Its strongest living stem
-That held against all foes
-Through calm and storm's throes.
-
-But Luther was not pleased
-With leisure life that ceased
-To challenge and to grow—
-He felt he had to go
-
-Beyond what others did
-Though comfort life forbid
-Such struggle and such strife
-In his adventurous life.
-
-In youth he grew a stalk
-Like others of his flock,
-But as he came of age
-He broke from tradition's cage.
-
-Contrary to his sister
-Who'd never be a mister
-But lived the gentle way
-Of filter-feeding's day,
-
-He used his arms to walk
-Like some strange kind of stalk
-That moved across the ground
-Where freedom could be found.
-
-His tube feet crawled with might
-Both day and through the night
-Upon the ocean floor
-From here to distant shore.
-
-He struggled, but was free
-To live beside the sea
-In his own chosen way
-From night into the day.
-
-To this day Starfish keep
-This tradition deep
-Within their very souls:
-To play mobile roles.
-
-Luther bore two sons:
-Asteros when begun
-The day, and Echinos
-Whose different spirit knows
-
-Innovation's call
-Above tradition's thrall.
-Asteros was the one
-Who when his work was done
-
-Stayed traditional and true
-To all his fathers knew.
-But Echinos built new
-Ways to make dreams come true.
-
-Echinos built compact
-His city, and in fact
-Used only tube feet small
-To move and heed the call
-
-Of wandering desire.
-He never would aspire
-To build a stalk like dad—
-Innovation made him glad.
-
-Asteros and Echinos
-Went to war (heaven knows
-Why brothers had to fight
-Throughout the day and night).
-
-Each with a million sons
-Arranged when day begun
-In armies vast and wide
-With warfare as their guide.
-
-The ancient battles rage
-Across history's page
-As photos still can show
-From eons long ago.
-
-Asteros begat
-Two sons: first he begat
-Starfy, strong and true,
-And Ophis, through and through
-
-A warrior in his heart
-Who played the fighting part
-With vigor and with might
-Both day and through the night.
-
-Echinos bore two more:
-Orbos to explore
-And Britta, daughter fair
-Who danced without a care.
-
-But Ophis and fair Britta
-Broke the war's bitter
-Cycle of revenge
-And chose to make a change.
-
-They married and became
-Partners without shame
-Despite their fathers' war
-That raged from shore to shore.
-
-From their union came
-Children of great fame:
-The Brittle Stars so bright,
-Centralized in might.
-
-Muscular creatures, they
-Were machines in every way
-Of strength and vigor great
-Who never would abate
-
-Their energy and power
-Throughout each passing hour
-Of their devoted lives
-Where motion always thrives.
-
-Serpentus, Ophis' son,
-And Baskette, when begun
-The day from Britta's line,
-Both had designs so fine.
-
-Serpentus became sire
-Of forms whose desire
-Was slithering with grace
-Across the ocean's face.
-
-The Serpent Stars he made
-In ocean's light and shade
-Would slither with precision
-Through every dark decision
-
-Of where to hunt their prey
-Throughout the night and day.
-Their tube feet were not meant
-For moving, but were bent
-
-To other tasks at hand
-While muscles through the land
-Of sea would make them glide
-With ocean as their guide.
-
-But Baskette was unique—
-Her arms would always seek
-To branch a million-fold
-As stories have been told.
-
-She ate all plankton small
-Who answered ocean's call
-With arms that branched so wide
-Like nets on every side.
-
-She became ancestress
-Of Basket Stars no less
-Remarkable than she
-In their complexity.
-
-Their arms branch out like trees
-To catch what ocean sees
-Fit to provide as food
-In their planktonic mood.
-
-Starfy begat the race
-Of Starfish in every place:
-Decentralized cities
-Beyond all that's gritty
-
-That may regenerate
-From parts, however great
-Or small the piece remains
-When damage life constrains.
-
-The Starfish are the lords
-Who rule with iron swords
-Their empires far and wide
-With predatory pride.
-
-They are vicious hunters
-Who never are confronters
-Of weakness, but instead
-Fill other hearts with dread.
-
-That's why they have five hands
-To rule their ocean lands
-With fingers made of might
-Both day and through the night.
-
-Echinos bore two sons:
-Aristotle when begun
-The day, and Cucus strong
-Who lived his whole life long.
-
-Aristotle became
-The father of great fame
-Of Sea Urchins everywhere
-Who graze with greatest care.
-
-Great grazers of the seas
-They move with graceful ease
-Across the ocean floor
-From here to distant shore.
-
-Aristotle built with care
-A jaw beyond compare
-Of five teeth strong and bright—
-He called it his "light"
-
-His lantern, for it brought
-Light to life and thought.
-To this day we call
-This jaw by name of all
-
-His choosing: "Aristotle's
-Lantern" never throttles
-Our wonder at the way
-He lit his every day.
-
-His great-granddaughter fair
-Was Sandy, everywhere
-Known as ancestress
-Of Sand Dollars no less
-
-Beautiful than she
-In their complexity.
-Flat and round they lie
-Beneath the ocean sky.
-
-Cucus became the sire
-Of forms whose desire
-Was recycling the waste
-That others had misplaced.
-
-The Sea Cucumbers great
-Accept as their fate
-To be the janitors
-Of ocean's corridors.
-
-The great recyclers who
-Work their whole life through
-In ocean's deepest parts
-With dedicated hearts.
-
-And when their enemies
-Threaten, then they seize
-Upon a strategy
-Most shocking to see:
-
-They spill their guts with might
-To put their foes to flight.
-What seems like weakness shows
-The power to dispose
-
-Of threats in their own way
-That works both night and day
-To keep them safe and sound
-Though strange it may be found.
-
-And so the Sons of grand
-Echidna through the land
-Of sea built their great
-Civilization's fate
-
-To heights beyond all speech
-That mortals' words can reach
-With five sides to each story
-In all their living glory.
-
-From Esther's feeding start
-To Luther's rebel heart
-That broke from leisure's chain
-To walk through joy and pain,
-
-From Asteros and his brother
-Echinos, and no other
-Way to settle their debate
-Than war to seal their fate,
-
-From Ophis and fair Britta
-Who made the war less bitter
-By choosing love instead
-Of letting hatred spread,
-
-The echinoderms show
-How families can grow
-From single pentamerous
-Design so glorious
-
-Into forms so diverse
-That no single verse
-Could capture all their ways
-Throughout their living days.
-
-From stalked sea lilies
-To mobile enemies
-Who hunt with five-armed might,
-From grazers day and night
-
-To recyclers who clean
-The ocean's vast marine
-Environment with care
-For all who dwell there,
-
-The five-fold symmetry
-Lives through eternity
-In every starfish arm
-And every sea urchin's charm.
-
-In every brittle star
-That travels near and far
-With muscles flexing strong
-Throughout its whole life long,
-
-In every crinoid's dance
-And every basket's stance
-With arms like trees spread wide
-To catch the ocean's tide
-
-Of plankton floating by
-Beneath the starry sky,
-The legacy lives on
-From dusk until the dawn
-
-Of Echidna's great choice
-To let five be the voice
-Of symmetry's design
-Throughout the end of time.
-
-From bilateral start
-To pentamerous art
-That rules the ocean floor
-From mountain peak to shore,
-
-The echinoderms remind
-Us that the searching mind
-That breaks from what is known
-Can reap what it has sown
-
-In innovations new
-That see old dreams through
-To heights beyond all thought
-That wisdom ever brought.
-
-Five sides to every tale,
-Five arms that never fail,
-Five teeth in every jaw,
-Five points of nature's law
-
-That guide the echinoderm
-Through every living term
-Of their existence here
-Throughout each passing year.
-
-In Luther's rebel choice
-To let freedom be his voice,
-In lovers ending war
-Through peace worth living for,
-
-In every innovation
-Across each generation
-That builds upon the past
-To make new futures last,
-
-The sons of Echidna teach
-That heights within our reach
-Are limited only by
-Our willingness to try
-
-To break from what we know
-And let our spirits grow
-Into forms yet unseen
-In evolution's scene.
-
-The Ordovician wall
-They built will never fall
-As long as seas contain
-Their pentamerous reign.
+Esther was a daughter, faithful and true,
+In the tenth generation's line and view,
+Of Lily the Echidna, who was fine,
+Dutrus' daughter, who had changed her design
+
+From bilateral form, and took instead
+The pentaradial, and so she led
+The way, and so began, in her own hand,
+The plan that evolution would command
+
+For five-fold symmetry in all its parts,
+Throughout eternity in all its arts.
+And Esther looked, and saw before her eyes,
+From shore to distant shore, beneath the skies,
+
+Innumerable hosts that drifted near
+Of planktonic ghosts, so small and so clear:
+The planimals, so very small and slight,
+Who answered feeding's call by day and night.
+
+She tried to feed off them, as best she could,
+With hunger as her guide, as hunger would.
+And from her loins she bore two daughters, who
+Would go out and explore the waters through
+
+The seas, each one of them in her own way:
+Crinosa, who would feed by night and day,
+And then Blastosa, she who was so strong,
+And she would live on through her whole life long.
+
+Blastosa built a city, and it stood
+Beyond all that is gritty, fair and good,
+With many brachioles, so fine and small,
+Around ambulacra's goals, ringing all.
+
+Each ambulacrum, shining clear and bright,
+Was ringed throughout the darkness of the night
+And all the day with arms, so very small,
+That answered every feeding's every call.
+
+Blastosa then became the mother of
+The forms like no other, below, above:
+The Blastoids, who were her descended line,
+With architecture beautiful and fine.
+
+Her daughters spread themselves so far and wide,
+With their pentamerous and fivefold pride,
+Throughout the ancient waters of the seas,
+Like blossoms on the branches of the trees.
+
+Crinosa begat two: the first was known
+As Lily Stone, so true, and then her own
+Was Luther, who was very strong and free,
+And he would live beside the open sea.
+
+And Lily Stone in time became the one,
+Ancestress of fame, from whom there would run
+The Crinoids, who are found in every place,
+Who danced with graceful flair and with their grace.
+
+Together, then, the Crinoids, shining bright,
+And Blastoids in the fullness of their might
+Spread out, and they spread all across the seas
+Like flowers waving in the passing breeze.
+
+They then became a wall that would not fall,
+And they were there at the empire's call:
+The bulwark that was strong and that was true
+For all the Ordovician world to view.
+
+The empire found in them, in row on row,
+Its strongest living stem, from which to grow,
+Held out against its foes and all their blows,
+Through calm and through the storm and all its throes.
+
+But Luther was not pleased, and was not glad
+With leisure life that ceased, the life he had,
+To challenge and to grow; and so he knew
+That he would have to go, and to go through
+
+Beyond what all the others did, although
+His life of comfort would forbid it so,
+Such struggle and such strife, against the stream,
+Within his adventurous life and dream.
+
+In youth he grew a stalk, as he was taught,
+Like others of his flock, as others ought,
+But as he came of age, he broke away
+From all tradition's cage, and would not stay.
+
+Contrary to his sister, who would be
+A mister never, and who would agree
+To live the gentle way, the way that's fed
+Of filter-feeding's day, he went instead,
+
+And used his arms to walk, as no one had,
+Like some strange kind of stalk, so strange and mad,
+That moved across the ground, both near and far,
+Where freedom could be found beneath the star.
+
+His tube feet crawled along with all their might
+Throughout the day, and all throughout the night,
+Upon the deep and sandy ocean floor
+From here to every far and distant shore.
+
+He struggled hard, and yet he was set free
+To live his life beside the open sea
+In his own chosen manner and his way,
+From night until the coming of the day.
+
+And to this day the Starfish hold and keep
+This old tradition, holding it so deep
+Within their very souls, and in their parts:
+To play their mobile roles with all their hearts.
+
+And Luther bore two sons; and when begun
+The day, Asteros came, the elder one,
+And then came Echinos, whose spirit, made
+So different, knows the call, and has obeyed,
+
+Innovation's call, far above the thrall
+And chains of old tradition, and of all.
+Asteros was the one who, when his own
+Work was done, was traditional, and shown
+
+To be so true to all his fathers knew;
+But Echinos was one who built anew
+New Ways in which to make his dreams come true,
+And make the visions that he dreamed come through.
+
+Echinos built his city very small
+And made it compact, and in fact used all
+His tube feet, only those, so small and neat,
+To move and heed the call, upon his feet,
+
+Of wandering that was his desire.
+He never once would ask, nor would require,
+To build a stalk like dad, as dad had done;
+And Innovation made him glad, the son.
+
+Asteros and Echinos went to war
+(And heaven knows the reason, and what for,
+And why the brothers had to come to fight
+Each other through the day and through the night).
+
+Each one of them had sons, a million strong,
+Arranged when day begun, a mighty throng,
+In armies that were very vast and wide,
+With warfare as the rule and as their guide.
+
+The ancient battles rage, and they will stay
+Across the page of history today,
+As all the photos still are there to show,
+From eons that were very long ago.
+
+Asteros then begat two sons: the one
+Was Starfy, strong and true, the elder son,
+And Ophis was the other, who would be
+Through and through a warrior, fierce and free,
+
+A warrior in the center of his heart,
+Who played his role, who played the fighting part
+With vigor and with power and with might
+Throughout the day and all throughout the night.
+
+Echinos bore two more, and these were they:
+Orbos, who would explore and find his way,
+And Britta too, who was a daughter fair,
+Who danced throughout the sea without a care.
+
+But Ophis and fair Britta, the two, broke
+The bitter war's Cycle, and all its yoke
+Of vengeance and revenge, and of its range,
+And chose instead to make a better change.
+
+They married, and the two of them became
+As Partners without shame, and without blame,
+Despite their fathers' war, and all its roar,
+That raged on fiercely, raged from shore to shore.
+
+And from their union came, in its own turn,
+The children of great fame, as we will learn:
+The Brittle Stars, so shining and so bright,
+And centralized in all their strength and might.
+
+Muscular creatures were they, and they were
+Machines in every way, and every stir
+Was full of strength and vigor, and so great,
+And never would they slacken or abate
+
+Their energy, their power, and their flow
+Throughout each passing hour, high and low,
+Of all their own devoted, busy lives,
+Wherever motion always moves and thrives.
+
+Serpentus, son of Ophis, was the one,
+And Baskette came, as when the day begun,
+From Britta's line, a daughter of her own,
+And both had designs fine, as both were shown.
+
+Serpentus became the sire and source
+Of forms whose great desire, and whose course,
+Was slithering with grace, and sliding round,
+Across the ocean's face, without a sound.
+
+The Serpent Stars that he would make and shape
+In ocean's light and shade, and in its drape,
+Would slither on with skill and precision
+Through each dark and difficult decision
+
+Of where it is that they should hunt their prey
+Throughout the night, throughout the passing day.
+Their tube feet were not meant for moving on,
+But bent to other tasks, when they were drawn
+
+To other tasks at hand that they would heed,
+While muscles through the land of sea would speed
+And make them slide along and make them glide
+With all the ocean as their only guide.
+
+But Baskette was unique, and she was new;
+Her arms would always seek, as arms would do,
+To branch out in a million-fold array,
+As stories have been told until this day.
+
+She ate the plankton, all the plankton small,
+Who answered to the ocean and its call,
+With arms that branched so far, and branched so wide,
+Like nets spread out on every single side.
+
+She was the ancestress, in turn, of these:
+The Basket Stars, who, like her, in the seas
+No less remarkable than she is seen
+In their complexity, and in their sheen.
+
+Their arms will branch out like the branching trees
+To catch whatever thing the ocean sees
+As fit to give to them, and to provide
+As food, in their planktonic mood and tide.
+
+Starfy begat the race and the descent
+Of Starfish in every place, where they went:
+Decentralized great cities, which would stand
+Beyond all that is gritty in the land,
+
+That may regenerate, and grow again
+From parts, however great or small, as when
+A piece of them remains to them, alone,
+When damage life constrains, and they have grown.
+
+The Starfish are the lords, and rule the floor,
+Who rule with iron swords, and rule with war,
+Their empires, spread out so far and wide,
+With predatory and with hunting pride.
+
+And they are vicious hunters, very strong,
+Who never are confronters of the wrong
+Of weakness, but instead they come to fill
+The other hearts with dread, and dread their will.
+
+And that is why they have their five hands, so
+To rule the ocean lands both high and low,
+With fingers that are made of strength and might
+Throughout the day and all throughout the night.
+
+Echinos bore two sons, the elder one
+Aristotle, born when the day begun,
+And Cucus, who was very, very strong,
+And he would live on through his whole life long.
+
+And Aristotle in his time became
+The father of great fame, and to his name
+The Sea Urchins belong, in every place,
+Who graze with greatest care and greatest grace.
+
+Great grazers of the waters of the seas,
+They move about with graceful, gentle ease
+Across the deep and sandy ocean floor
+From here to every far and distant shore.
+
+Aristotle with care built for his use
+A jaw beyond compare, of five teeth, whose
+Five teeth were strong and bright, and they were right;
+And this jaw he would call his "light," his light,
+
+His lantern, for the lantern that it brought
+Gave Light to life and light to every thought.
+And to this very day we call it so,
+This jaw, by name of all, as all men know,
+
+The name that was his choosing, and his own:
+"Aristotle's Lantern," a name that's grown
+And never throttles wonder at the way
+He lit up every hour of his day.
+
+His great-granddaughter, who was very fair,
+Was Sandy, and she was known everywhere
+The ancestress, the mother of the ones,
+The Sand Dollars, her daughters and her sons,
+
+No less beautiful than she was, and seen
+In their complexity, so clean and keen.
+So flat and round they lie upon the sand,
+Beneath the ocean sky, so flat and grand.
+
+Cucus became the father of a race
+Of forms whose desire, in every place,
+Was the recycling of the waste and dross
+That others had misplaced and left at loss.
+
+The Sea Cucumbers, which are very great,
+Accept it as their portion and their fate
+To be the janitors who sweep and clean
+Of ocean's corridors, and keep them clean.
+
+The great recyclers, who will work and strive
+And work their whole life through while they're alive,
+In ocean's deepest and in hidden parts
+With their devoted, dedicated hearts.
+
+And when their enemies come close and near,
+Threaten them, then they seize, without a fear,
+Upon a plan, a strategy, a way
+Most shocking and most startling to survey:
+
+They spill their guts out with their strength and might
+To put their foes and enemies to flight.
+What seems like weakness, as the story goes,
+Shows them the power by which they dispose
+
+Of threats in their own way, their own design,
+That works throughout the night and day so fine,
+To keep them safe and sound in every place,
+Though strange it may be found, and strange its face.
+
+And so the Sons of grand Echidna, all
+Throughout the land of sea, both great and small,
+Built up the great and splendid, and its state,
+Their whole civilization, and its fate,
+
+To heights that are beyond all words and speech,
+That any mortal's words can ever reach,
+With five sides to each story that is told,
+In all their living glory, as of old.
+
+From Esther's feeding start, the very first,
+To Luther's rebel heart, which, when it burst,
+Broke out of leisure's chain, so he could walk
+Through joy and through the pain without a stalk,
+
+From Asteros and from his brother too,
+Echinos, who, as warring brothers do,
+Found no other Way to end their debate
+Than war, to come and seal and set their fate,
+
+From Ophis and from Britta, fair, the two
+Who made the war less bitter, as they knew,
+By choosing love instead, and choosing peace,
+Instead of letting hatred spread, increase,
+
+The echinoderms show us, as they go,
+How families can grow, and they can grow
+From a pentamerous design, from one,
+So glorious and fine beneath the sun,
+
+Into the many forms, and so diverse
+That not a single verse, or line of verse,
+Could ever capture all their many ways
+Throughout their living and their passing days.
+
+From stalked sea lilies swaying in the deep,
+To mobile enemies who hunt and keep
+The hunt with five-armed might, from grazers, too,
+Who graze by day and night the whole year through,
+
+To the recyclers who will sweep and clean
+Environment of ocean, vast, marine,
+With care, and with a careful hand, for all
+Of those who dwell and live there, great and small,
+
+The five-fold symmetry will live and stay
+Through all eternity, until this day,
+In every starfish arm, in every part,
+In every sea urchin's charm and art.
+
+In every brittle star that travels far,
+That travels near and far, as all stars are,
+With muscles flexing, flexing very strong,
+Throughout its whole and full life, all life long,
+
+In every crinoid's dance upon its stem,
+And every basket's stance, and all of them
+With arms like trees spread out so far and wide
+To catch the ocean's flowing, passing tide
+
+Of plankton floating by, so small and light,
+Beneath the starry sky of the dark night,
+The legacy lives on, and does not fade,
+From dusk until the dawn, from light to shade,
+
+Of Echidna's own great and mighty choice,
+To let the five become the speaking voice
+Of symmetry's design, the fivefold plan,
+Throughout the end of time, as it began.
+
+From bilateral start, the twofold way,
+To pentamerous art, which holds its sway
+And rules the ocean floor in every part,
+From mountain peak to shore, with fivefold art,
+
+Echinoderms remind us, every kind,
+That it is so, the searching, seeking mind
+That breaks from what is known, and goes beyond,
+Can reap what it has sown, and so respond
+
+In innovations new, both new and bold,
+That see the old dreams through, the dreams of old,
+To heights beyond all thought, beyond all sight,
+That wisdom ever brought into the light.
+
+Five sides to every tale that has been told,
+Five arms that never fail, and never fold,
+Five teeth in every jaw, in every mouth,
+Five points of nature's law, both north and south,
+
+That guide the echinoderm in each age
+Through every living term, through every stage
+Of their existence here upon the floor
+Throughout each passing year, and evermore.
+
+In Luther's rebel choice, which he had made
+To let freedom be his voice, unafraid,
+In lovers who would end the bitter war
+Through peace that would be worth the living for,
+
+In every innovation, every new
+Across each generation, coming through,
+That builds upon the past, and on its art,
+To make new futures last in every part,
+
+The sons of Echidna teach us, and show
+That heights within our reach, as we will know,
+Are limited by one thing only: by
+The willingness within us all to try
+
+To break from what we know, and what we knew,
+And let our spirits grow, and so break through
+Into forms yet unseen, and yet unknown,
+In evolution's scene, and on its throne.
+
+The Ordovician wall they built will stand,
+And it will never fall across the land,
+As long as all the seas will still contain
+Their pentamerous and their fivefold reign.
 
 
 # Chapter 46: Great Ordovician Diversification
 
-This is the story told
-Of war both new and old
-Among the Spiralians
-In their ancient plans.
-
-This is the saga great
-Of war and love and fate:
-The Brachiopods and more—
-The Bivalves at war.
-
-The ancient house so proud
-Of Brachiopods cried loud
-As they found themselves pressed
-On all sides, distressed
-
-By rising Bivalves strong
-Who'd waited far too long
-To claim their rightful place
-In evolution's race.
-
-Bivos, who fished with care
-From his two shells so fair,
-Shed his radula
-Like some old formula
-
-That no longer served
-His lineage preserved.
-And so he took upon
-Himself when day begun
-
-A form completely new
-That none before him knew.
-His anatomy would show
-How innovations grow
-
-From ancient forms to new
-When time sees struggles through
-To their appointed end
-Where new forms transcend.
-
-Bivos bore a son
-And daughter when begun
-His lineage: Peter strong
-And Aphrodite's song.
-
-Aphrodite became
-Ancestress of fame
-Of Oysters everywhere
-Who rest without a care
-
-Upon the ocean floor
-From mountain peak to shore,
-Creating pearls so bright
-That fill the world with light.
-
-Peter bore many sons
-Who when their work was done
-Became known far and wide
-As Trigonians with pride.
-
-But there came a day
-When war would find its way
-To Peter's children all—
-A massacre would fall
-
-Upon his sons so dear.
-But one escaped the spear
-Of death: brave Unus fled
-And from that danger red
-
-He became ancestor
-Of river mussels, for
-His lineage would dwell
-Where rivers always swell
-
-With fresh water pure
-That would always endure
-Throughout the years to come
-When battles would be done.
-
-Peter, Keeper of Gates
-So Pearly, never hates
-But defends us all
-Who answer heaven's call.
-
-From river mussels come
-The river pearls, and some
-Are treasures beyond price
-That gleam like paradise.
-
-His sons live strange lives
-Where contradiction thrives:
-As lice on fish when young,
-But when their song is sung
-
-In elderhood they rest
-On rocks like treasure chest
-Of pearls that gleam so bright
-With heaven's holy light.
-
-Aphrodite became
-The Mother of great fame
-Of Pearls and Oysters too—
-Her children tried and true.
-
-Among her daughters all
-Who answered ocean's call
-She bore three sons unique:
-Scallon, bold and sleek,
-
-And Spinos, armor-clad,
-And Pyros, never sad
-But flaming with the fire
-Of his heart's desire.
-
-These were the Scallops bright,
-The Spiny Oysters' might,
-The Flame Scallops that dance
-In ocean's great expanse.
-
-Scallon had a million eyes
-Beneath the ocean skies
-To see what others missed
-And never to be tricked
-
-By predators who'd try
-To catch him unawry.
-Great and bountiful,
-He swam so dutiful
-
-Away from dangers that
-Would haunt him like a cat
-Its prey, but he was free
-To roam across the sea.
-
-Clammon was the son
-Of Bivos when begun
-His work to populate
-The seas with forms so great.
-
-Clammon begat four:
-Cockle to explore,
-Myidus strong and true,
-Adapa to pursue
-
-His dreams, and Venus fair
-Who danced without a care
-Throughout the ocean blue
-Where all her children grew.
-
-Cockle had a son
-Who when his work was done
-Became ancestor grand
-Of giant clams so grand
-
-That dwarf all others who
-Have tried to make it through
-The trials of the sea
-With their enormity.
-
-Myidus bore three sons:
-Zebra when day begun,
-Softshell, gentle, mild,
-And Teredo, problem child
-
-Known as sea termite
-Who brought shipwrights' fright
-By boring holes in wood
-Of ships where sailors stood.
-
-Zebra Mussels spread
-Wherever they were led
-By currents through the sea
-In their community.
-
-Softshell clams would hide
-Beneath the sandy tide
-Where they could safely dwell
-Within their softened shell.
-
-Adapa begat two:
-Geodoros, tried and true,
-Ancestor of the race
-Of Geoducks in their place
-
-Beneath the sandy shore
-Where they forevermore
-Would dig their burrows deep
-While surface waters sweep
-
-Above their hiding spots
-Connected by their lots
-To life beneath the sand
-Throughout the ocean land.
-
-And Razoron became
-Ancestor of the name
-Of Razor Shells so sharp
-That cut like ocean's harp
-
-Through sand where they would hide
-When danger came to bide
-Its time until they could
-Emerge where they once stood.
-
-Venus became the mother
-Of clams like no other—
-Venus clams so fair
-That beautify everywhere
-
-They make their gentle home
-Beneath the ocean foam.
-Among her children bright
-She bore one special sight:
-
-Corbiculacea, who
-Would make her passage through
-From salt to waters fresh
-And there her line refresh
-
-As ancestress so true
-Of freshwater clams who
-Live in rivers wide
-With current as their guide.
-
-Brachios begat three
-Sons for history:
-Three houses he would make
-For brachiopods' sake.
-
-Lingulus the tailed
-Was he who never failed
-To be conservative
-In all he'd ever give
-
-To innovation's call—
-Archconservative of all
-Within the house so grand
-Of Brachios' command.
-
-Lingulus, son of him
-With the same name, would trim
-Nothing from tradition
-In his life's mission.
-
-He maintained the way
-Of all the ancient day
-To its fullest measure
-Like some sacred treasure
-
-That must not be changed
-Or ever rearranged
-But kept just as it was
-According to the laws
-
-Of his forefathers who
-Had tried their whole life through
-To keep the ancient way
-Until their dying day.
-
-Discinidus his son
-Was smaller when begun
-His life, and more like clam
-Than traditional lamb
-
-Of brachiopod design
-That had been so fine
-For millions of years past
-And built to always last.
-
-Lingulus serpentine
-Showed his noble line
-That stretched through time so long
-Like some eternal song
-
-That never changed its tune
-From morning until noon
-And on through all the night
-Until the morning light.
-
-Calciatus begat
-Two sons: first he begat
-Craniidus, who'd never
-Have a tail, but ever
-
-Live without that sign
-Of his ancestral line,
-And Articulus, who
-Built cheap but built true
-
-His children without thought
-Of what tradition brought:
-He built them lacking parts
-That touched their parents' hearts.
-
-Without anuses, they
-Were blobs throughout the day
-That couldn't swim at all
-But answered metamorphosis' call
-
-In just an instant's time
-To change their paradigm
-From blob to something more
-Upon the ocean floor.
-
-The sons of Articulus
-Were numerous and thus
-A formidable force
-Against the Bivalve course
-
-Of conquest through the seas
-Where they did as they please
-And took what they could take
-For their own kingdom's sake.
-
-But as these two great hosts—
-The Bivalves and their boasts
-Against Brachiopods old
-Whose stories have been told
-
-For ages without end—
-Fought on without a friend
-To mediate their war
-From mountain peak to shore,
-
-A new threat came to light
-More terrible than night,
-More fearsome than the grave,
-More deadly than the wave
-
-That crashes on the rocks
-And all life's progress blocks.
-A threat greater than any
-Could imagine—not many
-
-Could comprehend the scope
-Of what would end all hope
-For life upon the earth
-And stop all future birth.
-
-From Bivos' innovation
-Came this radiation
-Of forms both strong and true
-That filled the ocean blue.
-
-From Brachios' ancient way
-That lasted day by day
-Through eons without change
-Came forms throughout the range
-
-Of ocean's vast expanse
-In evolutionary dance
-Where old meets new in strife
-Throughout the course of life.
-
-The war between the two
-Would see which vision through
-The trials of the time
-Would earn the victor's rhyme.
-
-Would innovation's art
-Or tradition's faithful heart
-Prove stronger in the end
-When time would finally send
-
-Its judgment on them all
-Who answered battle's call
-In this ancient war
-From mountain peak to shore?
-
-The Bivalves with their new
-Forms tried and tested true
-Through struggle and through pain
-Sought evolutionary gain.
-
-The Brachiopods held fast
-To wisdom of the past
-That served their ancestors
-Through time's great tests and spurs.
-
-Both strategies had worth
-Upon this ancient earth
-Where life must find its way
-Through each and every day
-
-Of challenge and of change
-Throughout evolution's range
-Where only those survive
-Who keep their hope alive.
-
-In every oyster's pearl
-And every scallop's swirl
-Through waters of the sea,
-In every clam's spree
-
-Of filter-feeding pure
-And every form that's sure
-Of its appointed place
-In evolution's race,
-
-The legacy lives on
-From dusk until the dawn
-Of this ancient war
-From mountain peak to shore
-
-Between the old and new,
-Between the tried and true
-And innovation's call
-That beckons one and all
-
-To risk what they have known
-For something yet unshown
-But promised by the hope
-That helps all life to cope
-
-With changes yet to come
-When all wars are done
-And peace reigns over all
-Who answered life's great call.
-
-The Spiralian war
-From mountain peak to shore
-Shows how life finds its way
-Through each and every day
-
-Of struggle between those
-Who choose what each one knows:
-The safety of the past
-Or future's die being cast
-
-Into the unknown deep
-Where new forms always keep
-Their vigil through the night
-Until the morning light
-
-Reveals what time has brought
-To those who never fought
-But those who fought so well
-Have their own tale to tell
-
-Of courage in the face
-Of evolution's race
-Where winners and losers
-Are both faith's choosers
-
-Who believed in their way
-Through each and every day
-Of this eternal strife
-That defines all life.
-
-But as the new threat rose
-Beyond what each one knows
-Or could imagine then,
-The war of mice and men
-
-Would pale beside the force
-That changed life's very course
-And brought to its end
-An age that none could mend.
-
-The greatest war would fade
-Before what time had made
-Of challenges so vast
-That nothing from the past
-
-Could prepare them for
-What waited at the door
-Of their complacent world
-Where banners once unfurled
-
-In triumph would be furled
-Forever in the world
-That was about to change
-Beyond familiar range.
+This is the story that is told of war,
+Of war both new and old, and of the score
+Among the Spiralians, and among
+The ancient plans they made when life was young.
+
+This is the saga, and the saga's great,
+Of war, and love, and of the hand of fate:
+The Brachiopods, and so many more,
+The Bivalves, and the two of them at war.
+
+The ancient house, so proud, so long revered,
+Of Brachiopods cried loud; it appeared
+That they had found themselves now sorely pressed;
+On all sides they were hemmed in and distressed
+
+Pressed by the rising Bivalves, who were strong,
+Who'd waited, as they thought, for far too long
+To claim what was their rightful, proper place
+In evolution's long and endless race.
+
+Bivos, who fished with care, and who would feed
+From his two shells so fair, would shed his need,
+And shed his radula, as one might shed
+Some formula outworn, no longer read,
+
+That served no longer as it served before
+His lineage, preserved for evermore.
+And so it was that, when the day begun,
+He took upon himself, the only one,
+
+A form completely new, a form untried,
+That none before him knew, or had applied.
+And his anatomy would come to show
+How every innovation comes to grow
+
+From ancient forms to new, when time has seen
+The struggles through, and all that lies between,
+Until their own appointed end, when they
+Transcend, and the new forms will hold their sway.
+
+And Bivos bore a son and daughter, when
+His lineage begun among the men:
+The son was Peter, who was very strong,
+The daughter Aphrodite, and her song.
+
+Aphrodite became, through all her days,
+The Ancestress of fame, of all the ways
+Of Oysters everywhere, who in their rest
+Lie down without a care, so calm and blessed,
+
+Upon the deep and sandy ocean floor
+From every mountain peak to every shore,
+Creating pearls that are so very bright
+They fill up all the world with their own light.
+
+Peter bore many sons, and when the work
+Of theirs was done, and they had come to shirk
+No labor, they were known both far and wide
+As the Trigonians, and with their pride.
+
+But there would come a day, a day of war,
+When war would find its way, as once before,
+To Peter's children, one and all of them;
+A massacre would fall, and would condemn
+
+His sons, his sons so very dear to him.
+But one of them escaped the spear so grim
+Of death: brave Unus fled away, and red
+With danger was the day from which he fled.
+
+And he became the ancestor, the source,
+Of river mussels; for, along its course,
+His lineage would live, and it would dwell
+Where all the rivers always rise and swell
+
+With waters that are fresh and that are pure,
+And waters that will always still endure
+Throughout the many years that will unfold,
+When all the battles have been fought and told.
+
+Peter, who is the Keeper of the Gates,
+So Pearly, never hates, and never waits,
+But stands and he defends us, one and all,
+All of the ones who answer heaven's call.
+
+And from the river mussels there will come
+The river pearls, and there are some, yes, some
+That are such treasures, treasures beyond price,
+That gleam and shine as if from paradise.
+
+His sons live lives so very strange and new,
+Where contradiction thrives, and both are true:
+As lice on fish they live when they are young,
+But when the song of youth is fully sung,
+
+In elderhood they settle down and rest
+On rocks, just like a treasure and a chest
+Of pearls that gleam and glitter, very bright,
+With heaven's holy and its shining light.
+
+Aphrodite became, in her own name,
+The Mother, too, of great and lasting fame,
+Of Pearls and of the Oysters, for these too
+Were children of her own, both tried and true.
+
+Among her daughters, and among them all
+Who answered to the ocean and its call,
+She bore three sons, unique in all the seas:
+Scallon, so bold and sleek, the first of these,
+
+And Spinos, who was armor-clad and strong,
+And Pyros, never sad, but all along
+Was flaming with the burning of the fire
+Which blazed from out of his heart's desire.
+
+And these were then the Scallops, shining bright,
+The Spiny Oysters, armored in their might,
+And the Flame Scallops that will dance and glide
+In ocean's great expanse, so deep and wide.
+
+Scallon had a million eyes, and so he
+Saw out beneath the ocean skies, to see
+What all the others missed, and missed so long,
+And never to be tricked, or be led wrong,
+
+By predators who'd try, with every snare,
+To catch him unawry, and unaware.
+And great and bountiful, he swam away,
+So dutiful, and dutiful each day,
+
+Away from dangers that would haunt him there,
+Like how a cat will haunt, with every care,
+Its prey; but he was free, so very free
+To roam about across the open sea.
+
+And Clammon was the son of Bivos when
+His work begun, and he began again
+His work to populate, and populate
+The seas with forms that were so very great.
+
+Clammon begat four sons, and these were they:
+Cockle, who would explore and find his way,
+Myidus, who was very strong and true,
+Adapa, who would follow and pursue
+
+His dreams; and Venus was a daughter fair,
+Who danced on through the sea without a care
+Throughout the waters of the ocean blue,
+Where all her children grew, and as they grew.
+
+Cockle then had a son, and when the work
+Of his was done, he came, and did not shirk,
+To be the ancestor, so great and grand,
+Of giant clams, so grand in all the land,
+
+That they will dwarf all others who have tried,
+Who tried to make it through the sea so wide
+And through the trials of the sea's long test,
+With their enormity, which beats the rest.
+
+Myidus bore three sons: when day begun
+Zebra came, and Softshell, the gentle one,
+So mild, and Teredo, the problem child,
+Who was the one so wayward and so wild,
+
+Known as the sea termite, the one who brought
+The shipwrights fright, and all the fright they fought,
+By boring holes into the planks of wood
+Of ships, the ships on which the sailors stood.
+
+The Zebra Mussels spread, and spread out far,
+Wherever they were led, as mussels are,
+By currents through the waters of the sea
+In their community and company.
+
+The Softshell clams would go away and hide
+Beneath the sand, beneath the sandy tide,
+Where they could safely live, and safely dwell
+Within their soft and softened, gentle shell.
+
+Adapa begat two sons: one was named
+Geodoros, tried and true, and he was famed,
+Ancestor of the race, and of the line
+Of Geoducks in their place, in their design,
+
+Beneath the sandy shore, where, as they keep,
+They would for evermore dig burrows deep,
+While all the surface waters sweep and run
+Above their hiding spots, each hidden one,
+
+Connected by their lots, and by their own,
+To life beneath the sand, where they have grown
+Throughout the ocean land, and all its floor,
+From shore to sandy shore, and evermore.
+
+And Razoron in his own turn became
+Ancestor of the name, and of the fame,
+Of Razor Shells, which are so very sharp
+That they will cut, as cuts the ocean's harp,
+
+Through sand, where they would go away and hide
+Whenever danger came to them to bide
+Its time, until the time they once more could
+Emerge into the place where once they stood.
+
+Venus became the mother, in her days,
+Of clams like no other in all their ways:
+The Venus clams, so beautiful and fair,
+That beautify the waters everywhere
+
+That they will make their soft and gentle home
+Beneath the white and drifting ocean foam.
+Among her children, all of them so bright,
+She bore one special one, one special sight:
+
+Corbiculacea, who would one day
+Make her own passage through, and make her way
+From salt to waters fresh, and there refresh
+Her line, and give her lineage new flesh,
+
+As ancestress, so faithful and so true,
+Of the freshwater clams, the ones who do
+Now live in all the rivers, deep and wide,
+With all the current as their only guide.
+
+Brachios begat three sons, for history,
+For all of time, and for its mystery:
+Three houses that he would establish, make,
+And build for all the brachiopods' sake.
+
+Lingulus, the tailed one, was he who stood,
+And never failed, as no one ever could,
+To be conservative, and to be so
+In all he'd ever give, and all bestow,
+
+To innovation's call, and all its claim:
+The Archconservative of all who came
+Within the house so grand, and so supreme,
+Of Brachios' command, and his regime.
+
+Lingulus, son of him who had the same
+Name as his own, would trim, in all his aim,
+Nothing at all from his own tradition
+In all his days, and all his life's mission.
+
+He kept and he maintained the ancient way
+Of all the ancient and the olden day,
+Unto its fullest measure, and its height,
+Like some most sacred treasure, kept in sight,
+
+That never must be changed, or rearranged,
+Or ever be disturbed, or be estranged,
+But kept just as it was, and as it stood,
+According to the laws, both old and good,
+
+Of his forefathers, who had tried, and who
+Had striven on and tried their whole life through
+To keep the ancient way, the way of old,
+Until their dying day, as they were told.
+
+Discinidus, his son, when he begun
+His life, was smaller, and more like the one,
+The clam, than the traditional lamb's kind
+Of brachiopod design, well refined,
+
+That had been very fine for all those years,
+For millions of years past, through all their peers,
+And had been built to last, to always stay,
+And last for evermore, and not decay.
+
+Lingulus, serpentine, so long and lean,
+Showed forth his noble line, as it was seen,
+That stretched through time so long, so very long,
+Like some eternal and unchanging song,
+
+That never changed its tune, and never strayed,
+From morning until noon, from light to shade,
+And on through all the night, the whole night through,
+Until the morning light and morning's dew.
+
+Calciatus begat two sons: and first
+He begat Craniidus, who, at worst,
+Would never have a tail, but evermore
+Would live without the sign his fathers bore,
+
+Without that sign of his ancestral line;
+And Articulus, who built, by design,
+His children cheaply, but who built them true,
+Without a thought of what tradition knew:
+
+He built them without thought of all that came,
+Of what tradition brought, and of its name:
+He built them lacking parts that would impart
+What touched their parents' hearts, and each one's heart.
+
+Without their anuses, the young ones lay
+Like blobs that floated all throughout the day,
+That could not swim at all, but, when they heard
+Metamorphosis' call, the waited word,
+
+And in an instant's time, a single breath,
+Would change their paradigm, not unto death,
+But change from blob to something more and new,
+Upon the ocean floor, so deep and blue.
+
+The sons of Articulus, too, were then
+So numerous, and thus, like mighty men,
+Became a formidable, mighty force
+Against the Bivalve's course, the bivalve's course
+
+Of conquest through the waters of the seas,
+Where they would do whatever they would please,
+And take whatever they were apt to take
+For their own kingdom's sake, and for its sake.
+
+But as two great hosts, two rival powers,
+The Bivalves and their boasts through all the hours
+Against the Brachiopods, old and gray,
+Whose stories have been told until this day
+
+For ages without end, fought on, and none
+Could find a friend to mediate, not one,
+To come between them and to end their war,
+From every mountain peak to every shore,
+
+A new threat came to light, a threat more dire
+And terrible than night, more fierce than fire,
+More fearsome than the dark and open grave,
+More deadly than the cold and breaking wave
+
+That crashes on the rocks with all its weight,
+And all life's progress blocks, and seals its fate.
+A threat that was greater than any mind
+Could imagine; and few of any kind
+
+Could ever comprehend the scope and size
+Of what would end all hope beneath the skies
+For life upon the earth, and in its wake
+Would stop all future birth for ages' sake.
+
+From Bivos' innovation came, in turn,
+This radiation, as the seas would learn,
+Of forms both strong and true, in every hue,
+That filled and crowded all the ocean blue.
+
+From Brachios' ancient way, which held its ground
+And lasted day by day, the eons round,
+Through eons without change, came forms that spread
+Throughout the range of every ocean bed,
+
+Of all the ocean's vast and wide expanse,
+In evolution's slow and ancient dance,
+Where old will meet with new in war and strife
+Throughout the whole and all the course of life.
+
+The war between the two would come to see
+Which vision would come through, and which would be,
+Through all the trials of that ancient time,
+The one to earn the victor's crown and rhyme.
+
+Would innovation's art, the new and bold,
+Or would tradition's faithful heart of old
+Prove stronger in the end, when time would come
+And send at last its judgment on the sum
+
+Of all of them, on each and every one
+Who answered battle's call when war begun,
+In this most ancient war, in this long fight,
+From mountain peak to shore, by day and night?
+
+The Bivalves, with their new Forms, which were made
+And tried and tested true, and not afraid,
+Through struggle and through pain, and through their strife,
+Sought evolutionary gain for life.
+
+The Brachiopods held fast, held on tight,
+To wisdom of the past and to its light,
+Which served their ancestors in former years
+Through time's great tests and spurs, and all its fears.
+
+And both the strategies had worth and weight
+Upon this ancient earth, in its estate,
+Where life must find its way, and make it through
+Through each and every day, both old and new,
+
+Of challenge and of change, of sun and storm,
+Throughout evolution's range, in each form,
+Where only those survive, and those endure,
+Who keep their hope alive, and keep it sure.
+
+In every oyster's pearl, so smooth and white,
+And every scallop's swirl, so swift and light,
+Through all the waters of the open sea,
+In every clam's own spree and jubilee
+
+Of filter-feeding, quiet, clean, and pure,
+And every form that's sure, and will be sure,
+Of its appointed place, its given part
+In evolution's race and in its art,
+
+The legacy lives on, and it remains
+From dusk until the dawn, through all the plains
+Of ocean, of this ancient war, which went
+From mountain peak to shore, the whole extent,
+
+Between the old and new, the old and young,
+Between the tried and true and songs unsung,
+And innovation's call, which, as it calls,
+Will beckon one and all beyond their walls
+
+To risk what they have known, and what they kept,
+For something yet unshown, while others slept,
+But promised by the hope, the hope that still
+Helps all of life to cope with good and ill,
+
+With changes yet to come, when wars will cease,
+When all the wars are done, and there is peace,
+And peace at last will reign over them all,
+The ones who heard and answered life's great call.
+
+The Spiralian war, and all its strife,
+From mountain peak to shore, shows how all life
+Will always find its way, and make its own,
+Through each and every day, through flesh and bone,
+
+Of struggle between those who make their choice,
+Who choose what each one knows, and each one's voice:
+The safety of the past and of its kin,
+Or future's die, now cast and thrown therein,
+
+Into the deep unknown, the unknown deep,
+Where new forms, all alone, will always keep
+Their vigil through the night, the long and dark,
+Until the morning light will light its mark
+
+And show what time has brought to all the ones
+Who never fought, and to the fighting sons;
+But those who fought so well, and fought so hard,
+Have their own tale to tell, their own regard,
+
+Of courage in the face of all that came,
+Of evolution's race and all its game,
+Where winners and where losers, all of these,
+Are both faith's choosers, choosing as they please,
+
+Who all believed in their own way, and stood
+Through each and every day as best they could
+Of this eternal and this endless strife
+That shapes and that defines the whole of life.
+
+But as the new threat rose up, vast and high,
+Beyond what each one knows, beneath the sky,
+Or could imagine then, or comprehend,
+The war of mice and men would meet its end
+
+And pale beside the force, the greater might
+That changed life's very course, and brought the night,
+And brought it to an end, an age of old,
+An age that none could mend, as it is told.
+
+The greatest war would fade, and pass away
+Before what time had made, and on that day
+Brought forth, of challenges so very vast
+That nothing from the past, however vast
+
+In memory, prepared them for the thing
+That waited at the door, and that would bring
+An end to their complacent world, where high
+The banners once unfurled against the sky
+
+In triumph would be folded, taken down
+Forever in the world, both field and town,
+The world that, as it stood, about to change,
+Would change beyond all good, beyond its range.
 
 
 # Chapter 47: The Cephalopod Rise
 
-This is the story told
-Of ones both new and old:
-The Cephalopods so great,
-Arcane ones whose fate
-
-Would overthrow the might
-Of Leviathan's sight
-And rule with wisdom deep
-Where ancient secrets keep.
-
-The sons of Cephalopus
-Would grow so glorious
-That sons of Scaphopus,
-Not quite so prosperous,
-
-Would fade from memory
-Throughout history.
-Few know them at all
-Who hear the ocean's call.
-
-The degenerate sons
-Of Scaphopus, when begun
-Their lives, would never know
-The heights their cousins' show.
-
-Cephalopus begat
-Plectron, and from begat
-Him came a noble line
-With intelligence divine.
-
-Plectron begat the son
-Called Ellesmer, begun
-In wisdom's deepest lore
-From mountain peak to shore.
-
-Ellesmere went deeper
-Than any secret keeper
-Had gone before his time
-Down below the brine
-
-Where mysteries lay hid
-From all that daylight did
-To illuminate the world
-Where surface waves are curled.
-
-Ellesmer begat two:
-Endos, tried and true,
-And Actinos the bright
-Who flew to heaven's height.
-
-Endos bore many sons
-Who when their work was done
-Moved slowly through the sea
-With great dignity.
-
-Greatest among them all
-Who answered wisdom's call
-Was Cameroceras Magnus,
-Known as Cameromagne,
-
-Whose name through history
-Rings with victory
-Over Leviathan's
-Great dominion's plans.
-
-Cameromagne overthrew
-The sons of Leviathan, who
-Had ruled the seas so long
-With their imperial song.
-
-Endoceras, his son,
-When his growth was done
-Grew nine thousand long
-Millimeters strong.
-
-Twenty cubits he
-Measured, front to back, free
-From end to end complete—
-No foe could compete.
-
-He dwarfed Leviathan
-Fourfold, and began
-A new age in the sea
-Of cephalopod decree.
-
-Actinos, by his air
-Heavenly and fair
-Within his shell contained,
-Had power that sustained
-
-His ability to rise
-Up to the starry skies
-And down to earth descend
-As suited his end.
-
-Actinos begat two:
-Orthosceros so true
-And Tarphy, young and wild,
-Evolution's favored child.
-
-Tarphy lived so fast
-In youth, while time would last
-He coiled his shell around
-A hundred times, and found
-
-Great joy in swimming free
-As hunter of the sea.
-But when old age drew near
-His path became more clear.
-
-He uncoiled his shell
-And settled where he'd dwell
-Upon the earth below
-Where wisdom's waters flow.
-
-In his old age he bore
-Countless children more
-Who did the very same:
-Youth's glory and fame
-
-In bounty of the heights
-Where heaven's glory lights
-The way for those who soar,
-And age where depths store
-
-Their safety and their peace
-Where all struggles cease
-And wisdom finds its home
-Where wise ones always roam.
-
-Tarphy begat two sons:
-Oncos when day begun
-And Barrandeos strong
-Who lived his whole life long.
-
-Oncos lived a life
-Without much joy or strife—
-Coiled but simple, he
-Lived quite peacefully.
-
-Oncos bore many sons,
-Among them when begun
-Their lives was Rutos, who
-Would see great wonders through.
-
-Rutos bore a son
-Named Nautilus, begun
-In wisdom of the deep
-That ancestors would keep.
-
-The sons of Nautilus
-Live on, so glorious,
-Today just as they were
-When time was but a blur
-
-In days of Rutos old
-And Cameromagne bold
-Who conquered all the seas
-With their strategies.
-
-Orthosceros begat
-Two sons: first he begat
-Ascos, who would know
-How graciousness could grow,
-
-And Bacchus, small but who
-Would make his vision true
-Through numbers vast and wide
-That could not be denied.
-
-Ascos lived his youth
-With shell that spoke no truth
-Of grace—clumsy and slow,
-Unable to bestow
-
-Upon his movements any
-Grace—not one of many
-Who swam with elegance
-In ocean's great expanse.
-
-And so he broke it off,
-And many would scoff
-At such a drastic deed
-To serve his greater need.
-
-But in adulthood he
-Was graceful as could be,
-Above all others bright
-In beauty and in sight.
-
-His sons continued this
-Tradition of the bliss
-That comes from sacrifice
-Of shell for something nice:
-
-The grace that can't be bought
-But only can be sought
-Through willingness to break
-What others never forsake.
-
-Their life cycle shows
-How true wisdom grows:
-From clumsy youth they start
-Then play their graceful part
-
-When adulthood arrives
-And each one finally thrives
-In grace beyond compare
-That fills the water fair.
-
-But Bacchus was so small
-And seemed to one and all
-Insignificant and weak,
-With nothing much to seek.
-
-But he bore children who
-Would make his vision true:
-A million sons and daughters
-Filled up the salty waters.
-
-Soon the world was full
-Of his progeny's pull
-On every living space
-In ocean's vast embrace.
-
-What seemed insignificant
-Became most significant
-Through power of increase
-That never seemed to cease.
-
-From small beginnings came
-A multitude of fame
-That filled the world entire
-With Bacchus' desire
-
-To populate the sea
-With his progeny
-Until there was no place
-That didn't show his trace.
-
-The cephalopods show
-How wisdom's seeds can grow
-From deep intelligence
-To rule with providence
-
-Over the ancient sea
-Where Leviathan's decree
-Once held the power supreme
-In every ocean's dream.
-
-But wisdom overthrew
-The old order, and new
-Lords of the sea arose
-To challenge all their foes
-
-With intelligence bright
-And grace beyond all sight
-And power to ascend
-From beginning to end
-
-Of ocean's vast domain
-Where they would always reign
-With wisdom as their crown
-And grace as their renown.
-
-From Cameromagne's might
-That brought the ancient fight
-To Leviathan's door
-And won forevermore
-
-The right to rule the sea
-With wise authority,
-To Nautilus who shows
-How ancient wisdom flows
-
-Through generations long
-In never-ending song
-Of those who keep the way
-From night into the day,
-
-The cephalopods remind
-Us that the wisest mind
-Often starts quite small
-But answers wisdom's call
-
-To grow beyond all measure
-And find the greatest treasure:
-The power to transcend
-What others comprehend
-
-Through intelligence divine
-That makes all wisdom shine
-In forms both strange and new
-But beautiful and true.
-
-In every octopus
-And squid so glorious
-Who swims with grace through
-The waters deep and blue,
-
-In every nautilus
-Who keeps so glorious
-The ancient spiral shell
-That tells its story well
-
-Of how the wise can keep
-What time has buried deep
-While changing what must change
-To expand their range,
-
-The legacy lives on
-From dusk until the dawn
-Of those who overthrew
-The old to make it new
-
-Not through destruction's might
-But wisdom's gentle sight
-That sees what must remain
-And what brings only pain.
-
-The cephalopods' way
-Lives on to this day
-In every graceful move
-And every way they prove
-
-That intelligence combined
-With grace of heart and mind
-Can conquer any foe
-And help all wisdom grow
-
-From small to great and vast
-Until at long last
-The wise inherit all
-Who answer wisdom's call.
-
-From Ellesmer's deep dive
-To keep the past alive
-While finding something new
-In wisdom's vast review,
-
-The cephalopods teach
-That heights within our reach
-Are limited only by
-Our willingness to try
-
-To grow beyond the small
-And answer wisdom's call
-To be more than we seem
-In evolution's dream.
-
-Their arcane wisdom shows
-How true intelligence grows
-Not through force or might
-But through the inner sight
-
-That sees what others miss
-And finds in this
-The power to transcend
-All limits and extend
-
-The boundaries of what
-Is possible, and what
-The wise can achieve
-When they truly believe
-
-In wisdom's power to
-Make all their dreams come true
-Through patience and through grace
-In evolution's race.
-
-The sons of Cephalopus
-Remain so glorious
-Because they chose the way
-Of wisdom every day
-
-And let intelligence
-Be their defense
-Against all who would try
-To make their wisdom die.
-
-In this they succeeded
-Where others never heeded
-The call to grow beyond
-The limits that are spawned
-
-By those who cannot see
-What wisdom's gift can be
-To those who dare to dive
-Deep and stay alive
-
-In waters where the wise
-Can see with clearer eyes
-The truth that sets them free
-To rule the boundless sea.
+This is the story that is told of old,
+Of ones both new and old, as it is told:
+The Cephalopods, who were very great,
+Arcane ones, whose own destiny and fate
+
+Would overthrow the might and overthrow
+Leviathan's own sight, and rule below
+With wisdom very deep, in depths that keep
+The ancient secrets where the secrets sleep.
+
+The sons of Cephalopus all would grow
+So glorious that, in time, as we know,
+The sons of Scaphopus, the other kind,
+Not quite so prosperous, were left behind,
+
+And they would fade from memory and lore
+Throughout all history for evermore;
+And few of those who hear the ocean's call
+Have ever heard of them, or know at all.
+
+Scaphopus' degenerate sons, the ones
+Who, once their lives begun, were humble ones,
+Would never come to know, in any way,
+The heights their cousins show, and showed that day.
+
+Cephalopus begat Plectron, and so
+From him was then begat, as all men know,
+A noble line, and one that would combine
+With all intelligence that is divine.
+
+Plectron begat the son whom all would call
+Ellesmer, and he was begun in all
+Of wisdom's deepest lore, the oldest lore,
+From mountain peak to every distant shore.
+
+Ellesmere went deeper, going down and on,
+Than any secret keeper who had gone
+Before him in his time, and went below,
+Down far beneath the brine, where none would go,
+
+Where all the mysteries lay deep and hid
+From all the things the light of daylight did
+To lighten and illuminate the world
+Above, where all the surface waves are curled.
+
+Ellesmer begat two sons, who were these:
+First Endos, tried and true, upon the seas,
+And Actinos, the bright one, who would fly,
+Who flew to heaven's height, up to the sky.
+
+Endos bore many sons, and when begun
+Their work, and when the work of theirs was done,
+They moved on slowly through the sea, and so
+With great and stately dignity, and slow.
+
+The greatest one among them, and of all
+Of those who ever answered wisdom's call,
+Was Cameroceras Magnus, the great,
+Known as Cameromagne, the potentate,
+
+Whose name through all the ages, as of old,
+Rings out with victory, as it is told:
+Over Leviathan and his great reign,
+And all of his dominion's plans, made vain.
+
+Cameromagne would overthrow the might
+Of the sons of Leviathan, by right,
+Who'd ruled the seas so long, through many years,
+With imperial song, through all the spheres.
+
+Endoceras, his son, when he was grown,
+When all his growth was done, and he had grown,
+He grew nine thousand Millimeters long,
+And so he grew to be both long and strong.
+
+And twenty cubits long he measured, free
+From front to back, and he was long to see
+From end to end, complete in every part;
+No foe could compete with him or his art.
+
+He dwarfed Leviathan Fourfold; his reign
+Began a new age on the ocean plain,
+An age in which the sea was made to be
+Ruled by cephalopod law and decree.
+
+Actinos, by his air, which he contained,
+So heavenly and fair, which he retained
+Within his shell, contained, had power there,
+A power that sustained him in the air,
+
+That kept up his ability to rise
+Up to the very stars and starry skies,
+And then to earth descend, and so to go
+As suited to his end, both high and low.
+
+Actinos begat two sons: one of them
+Orthosceros, so true, a noble stem,
+And Tarphy, who was very young and wild,
+The favored child of evolution, child.
+
+Tarphy lived very fast in his own youth,
+And while his time would last, and in his youth
+He coiled his shell around, and coiled it round
+A hundred times, and found, and so he found
+
+Great joy in swimming very wild and free
+As hunter of the waters of the sea.
+But when his old age drew so very near,
+His path became much more distinct and clear.
+
+He then uncoiled his shell, and came to rest,
+And settled where he'd dwell, as he thought best,
+Upon the earth below, and there he'd stay
+Where wisdom's waters flow and make their way.
+
+And in his old age he bore children, more,
+And countless more of them than were before,
+Who did the very same as he had done:
+Youth's glory and its fame for every one,
+
+In bounty of the heights, the highest heights,
+Where all of heaven's glory, shining, lights
+The way for those who soar, and those who climb,
+And age, where all the depths will store, in time,
+
+Their safety and their peace, where all things cease,
+Where all the struggles cease, and all release,
+And wisdom finds its home, its resting-place,
+Where all the wise will roam, in wisdom's grace.
+
+Tarphy begat two sons: and Oncos came
+When day begun, and next, of noble name,
+Came Barrandeos, strong, and he would thrive
+And live his whole life long, and stay alive.
+
+Oncos lived out his life without much joy,
+Without much strife, and nothing to annoy;
+He, coiled but simple, went through all his days,
+And lived quite peacefully in all his ways.
+
+Oncos bore many sons, and when begun
+Their lives, among those ones there came the one,
+Named Rutos, he who would then come to see
+Great wonders through, and see them, as would be.
+
+Rutos then bore a son, and gave the name
+Of Nautilus, begun in wisdom's flame,
+In wisdom of the deep, the deepest part,
+That ancestors would keep within the heart.
+
+The sons of Nautilus live on today,
+So glorious, and just in the same way
+As they were long before, when time was blurred,
+When time was but a blur, and none had stirred,
+
+In days of Rutos, old, so long ago,
+And Cameromagne, the bold, who, we know,
+Had conquered all the seas, and every wave,
+With all of their strategies, wise and grave.
+
+Orthosceros begat two sons: the one
+Was Ascos, who would know, when all was done,
+How graciousness could grow; the other, who
+Was Bacchus, small, would make his vision true
+
+Through numbers vast and wide on every side,
+So vast that they could never be denied.
+
+Ascos lived out his youth, and in his youth
+He had a shell that spoke no word of truth
+Of grace, for it was clumsy, and so slow,
+Unable to bestow, and to bestow
+
+Upon his movements any Grace, and he
+Was not one of the many who were free
+And swam with elegance and with romance
+In ocean's great and very wide expanse.
+
+And so he broke it off, his heavy shell,
+And many came to scoff at him as well
+At such a drastic deed, so strange and new,
+To serve his greater need, and see it through.
+
+But in adulthood he, when he was grown,
+Was graceful as could be, as he was shown,
+Above all others bright, and very bright,
+In beauty and in sight, and in delight.
+
+His sons would carry on this, and they kept
+Tradition of the bliss, and never slept,
+The bliss that comes from sacrifice, the price
+Of giving up the shell for something nice:
+
+The grace that can't be bought by any one,
+But only can be sought, and so is won
+Through willingness to shatter and to break
+What others never would, or could, forsake.
+
+And their life cycle shows, as we can see,
+How the true wisdom grows, and so would be:
+From clumsy youth they start, and so begin,
+Then play their graceful part, and enter in,
+
+When their adulthood comes, and they are grown,
+And each at last will thrive, and make its own,
+In grace beyond compare, and fair and free,
+That fills the water fair, and all the sea.
+
+But Bacchus was so small, and to the eye
+Of each and one and all who passed him by,
+Insignificant he seemed, weak and slight,
+With nothing much to seek, and little might.
+
+But he bore children, and his children, who
+Would make his vision true, and see it through:
+A million sons and daughters, and they filled,
+They filled the salty waters, as he willed.
+
+And soon the world was full of all of these,
+Of all his progeny's great pull and seas
+On every living space, in every place,
+In all the ocean's vast and wide embrace.
+
+And what seemed insignificant then grew
+To be the most significant, it's true,
+Through all the power of increase, which spread
+And never seemed to cease, but forged ahead.
+
+From small beginnings, then, a multitude
+Of fame came forth, a fast-increasing brood,
+That filled the world with all the strong desire
+Of Bacchus, and his longing and his fire,
+
+To populate the sea, from shore to shore,
+With all his progeny, still more and more,
+Until there was no place in all the brine
+That didn't show his trace and bear his sign.
+
+The cephalopods have shown, from the start,
+The seeds of wisdom grow in mind and heart,
+And from intelligence, from depth of thought,
+Can rule with providence, as wisdom taught,
+
+Over the ancient sea, where once alone
+Leviathan's decree, upon the throne,
+Had held power supreme in every place,
+In every ocean's dream, in every space.
+
+But wisdom overthrew the order old,
+And, in the old one's place, the new and bold
+Lords of the sea arose to take their stand
+And challenge all their foes on every hand,
+
+With an intelligence so keen and bright,
+And grace beyond all sense, beyond all sight,
+And with the power to ascend and climb
+From the beginning to the end of time
+
+Of all the ocean's vast and wide domain,
+Where they would hold their throne, and always reign,
+With wisdom as the crown upon their head,
+And grace as their renown where they were led.
+
+From the might of Cameromagne, who bore
+The ancient fight to Leviathan's door
+And won the right, for ever and for good,
+To rule the open sea as rulers should,
+
+With wise authority, and to remain
+The masters of the ocean's whole domain,
+To Nautilus, who shows the ones who see
+How ancient wisdom flows, and still flows free,
+
+Through generations long, from age to age,
+In never-ending song from page to page,
+Of those who keep the way, the ancient line,
+From night into the day, as stars that shine,
+
+Cephalopods remind us that the mind
+That is the wisest, of the wisest kind,
+Will often start quite small, and yet will heed
+And answer wisdom's call, and so succeed,
+
+To grow beyond all measure, and to find
+The greatest of all treasures of the mind:
+The power to transcend what others know,
+What others comprehend, and further go
+
+Through an intelligence that is divine,
+That makes all wisdom shine with clearer shine
+In forms both strange and new, and strange to see,
+Yet beautiful and true, as they will be.
+
+In every octopus, with arms that reach,
+And squid so glorious that jets past each,
+Who swims with grace, and through the water goes,
+The waters deep and blue, where current flows,
+
+In every nautilus that keeps the shell,
+So glorious, the spiral, that will tell
+Its ancient story well, with chamber, coil,
+And all its twisting spell, and all its toil,
+
+Of how the wise can keep, and hold, and store
+What time has buried deep, the ancient lore,
+While changing what must change, through what is new,
+To grow, and to expand their range anew,
+
+The legacy lives on, and does not fade,
+From dusk until the dawn, from light to shade,
+Of those who overthrew the old, and made
+The old order new, and were not afraid,
+
+Not through destruction's might, nor by the force
+Of arms, but wisdom's sight and gentle course,
+That sees what must remain, and what must go,
+And what brings only pain and only woe.
+
+The cephalopods' way lives on, and stays,
+Lives on until this day, through all our days,
+In every graceful move that they will make,
+And every way they prove, for wisdom's sake,
+
+That an intelligence, when it's combined
+With grace, with heart and sense, with heart and mind,
+Can conquer any foe, can win the fight,
+And help all wisdom grow in all its light
+
+From small to great and vast, from seed to tree,
+Until at long and last the wise will be
+The heirs of all the ones who hear the call
+Of wisdom, and who answer, one and all.
+
+From Ellesmer's deep dive beneath the brine
+To keep the past alive, and keep its line,
+While finding something new, a newer shore,
+In wisdom's vast review and wisdom's store,
+
+The cephalopods teach us to believe
+That heights within our reach we can achieve,
+And they are limited by one thing: by
+The willingness within us all to try
+
+To grow beyond the small, and the confined,
+And answer wisdom's call with heart and mind,
+To be more than we seem, and more than known,
+In evolution's dream, and on its throne.
+
+Their arcane wisdom shows us how, in truth,
+True intelligence grows, in age and youth,
+Not through the force of might, nor by the blade,
+But through the inner sight that wisdom made
+
+That sees what others miss, and they who look
+Will find, in all of this, as in a book,
+The power to transcend all limits, and
+Extend the boundaries, and to expand
+
+The boundaries of what can be, and see
+What may be possible, and what the free,
+The wise, and all the wise can come to reach
+When they believe, and wisdom comes to teach,
+
+When they believe in wisdom's might to bring
+Their dreams to come about in everything,
+Through patience and through grace, through gentle art,
+In evolution's race, with all their heart.
+
+The sons of Cephalopus will remain
+So glorious, and wear no mark or stain,
+Because they chose the way of wisdom, when
+They chose it every day, and chose again,
+
+And let intelligence become their shield,
+And be their own defense, and never yield
+Against all those who'd try to make it end,
+To make their wisdom die, or make it bend.
+
+And in this they succeeded, where the rest,
+Where others never heeded, nor addressed,
+The call to grow beyond the limits made,
+The limits that are spawned by the afraid,
+
+By those who cannot see what it can give,
+What wisdom's gift can be to those who live,
+To those who dare to dive, and to go deep,
+Into the deep, and still alive to keep,
+
+In waters where the wise, beneath the sea,
+Can see with clearer eyes, and clearly see
+The truth that sets them free, and lets them be
+The rulers of the boundless, open sea.
 
 
 # Chapter 48: The Ordovician Extinction
 
-As the reign of Leviathans
-Turned to Krakens' plans,
-The sons of Stomatos
-Began their glorious
-
-Multiplication vast
-Upon the earth at last.
-And daughters fair were born
-From evening until morn.
-
-From Laurentia's shore
-To Siberia's lore,
-From Baltica's might
-To Avalonia's sight,
-
-Even to frigid lands
-Of Gondwana's strands,
-The sons of Stomatos
-Grew numbers, glorious.
-
-To each son there fell
-A star, and wishes tell
-Of thousand grandsons born
-From evening until morn.
-
-The sons of Stomatos
-Built bodies, glorious,
-Of Carbon, and made tombs
-Like mausoleums' rooms
-
-Of coal so black and deep
-Where ancestors would sleep.
-Taking Carbon from the air
-But leaving everywhere
-
-Dioxide in the sky
-While Terra's cloak would fly
-Away, and she grew cold,
-As ancient stories told.
-
-She grew frigid, unwelcoming,
-No longer beckoning
-To those who loved her warm
-Embrace in gentle form.
-
-Her ice caps grew so wide,
-Her seas began to hide
-Behind the frozen wall
-That answered winter's call.
-
-Soon Gondwana became
-Nothing but ice's claim—
-A wasteland white and stark
-Where none could make their mark.
-
-But to the sons of Stomatos
-This meant more, glorious
-Land where they could spread
-Their empire overhead.
-
-King Hirnan the great
-Became the potentate
-Who united every son
-Of Stomatos begun
-
-In conquest of the earth.
-He lived where there was mirth
-In land of Avalonia
-And province of Holonia.
-
-Hirnan built with might
-A billion dikes upright
-And levies strong and tall,
-And cities over all
-
-The landscape far and wide.
-He destroyed with pride
-The habitats that were
-In seas, and would not spare
-
-A single living space
-For any other race
-That might compete with him
-For resources growing dim.
-
-And so countless hosts
-Of trilobites like ghosts
-Began to die away,
-Their lands seized every day
-
-By sons of Hirnan who
-Would make their empire through
-Conquest and through might
-Both day and through the night.
-
-In their last effort made
-A million trilobites prayed
-And then invaded strong,
-A desperate throng
-
-That smashed through every dike
-That Hirnan's folk would like
-To keep them from the land
-They'd built with their own hand.
-
-But alas, all in vain—
-The trilobites' campaign
-Would end in suffocation,
-Their complete frustration.
-
-No trilobite would ever
-Reach land, however clever
-Their plan or strong their will—
-The air would always kill
-
-Those who were meant for sea
-And could not ever be
-Adapted to the air
-That filled the atmosphere.
-
-Hirnan bore two sons:
-Moses when day begun
-And Osiris the strong
-Who lived his whole life long.
-
-Moses became the father
-Of mosses, who would rather
-Live simple, humble lives
-Where small beauty thrives.
-
-Osiris bore two more:
-Polysporos to explore
-And Anthoceros, who'd be
-Living peacefully.
-
-Anthoceros became
-The father of the name
-Of hornworts everywhere
-Who grow with gentle care.
-
-Polysporos became
-The father of great fame
-Of ferns and flowers bright
-And trees that reach for height.
-
-The sons of Brachios
-Struggled, not glorious
-As they had been before
-In ages' ancient lore.
-
-The sons of Lingulus
-Died in numbers thus
-Greater than ever known—
-Their glory overthrown.
-
-Never again would they
-Regain their golden day
-Of power in the sea
-And their dynasty.
-
-But as Hirnan's rule
-Became oppression's tool,
-The sons of Metazo
-Began once more to grow.
-
-Alas the sons of Hirnan
-Didn't stop their plan
-There, but continued on
-From dusk until dawn
-
-Their conquest of the earth
-That gave them so much mirth
-To see all life bow down
-Before their thorny crown.
-
-The Glomerings would mine
-The rocks with design
-For fertilizer's sake,
-Whatever it would take
-
-To manufacture tons
-Of phosphorus, and done
-With this, they'd pour it out
-Throughout the world about.
-
-Some went to crops they grew,
-But most went flowing through
-The rivers to the sea
-Where it would always be
-
-A poison in the water
-That none could ever slaughter
-Or remove from the flow
-Where it would always go.
-
-In rivers thick scum grew,
-In oceans, dark and blue
-No more, the sun was blocked
-And all life was shocked
-
-By this catastrophe
-That stretched from sea to sea
-Across the world entire
-Like some unholy fire.
-
-Rotting seaweed choked
-All water, and it smoked
-With death and with decay
-Throughout the night and day.
-
-Soon it was impossible
-To breathe—the terrible
-Smell of death filled the air
-And poison everywhere
-
-Made life a living hell
-Where none could ever dwell
-In comfort or in peace
-Without finding release
-
-In death's cold, welcome arms
-That protected from the harms
-Of this poisoned world
-Where death's flag was unfurled.
-
-The seas turned lifeless, dead,
-And over them was spread
-The tyranny of those
-Who never would suppose
-
-That life had any right
-To live in their sight
-If it stood in their way
-Of conquest every day.
-
-The entire ocean fell
-Under Hirnan's spell
-Of death and devastation
-Across every nation
-
-Of life beneath the sea
-That once was home so free
-To creatures great and small
-Who answered life's sweet call.
-
-The great houses of might—
-Leviathan's delight
-And Kraken's dynasty—
-Were wiped from history.
-
-From off the earth they passed,
-Their glory couldn't last
-Against the poison tide
-That covered far and wide
-
-The ocean that they loved
-And where they always moved
-In majesty and power
-Until this darkest hour.
-
-Among the trilobites
-The great houses' plights
-Were sealed: Agnos fell,
-Ptychos couldn't tell
-
-His story anymore,
-And Asaphos, before
-So mighty and so strong,
-Was crippled life long.
-
-Never again would they
-Reach their golden day
-Of glory in the time
-Of Ordovician rhyme.
-
-And so the golden age
-Closed its final page.
-The Ordovician time
-Was past its living prime.
-
-The sons of Silur came
-To conquer and to claim
-The ashes of the past
-And build their future last.
-
-The Silurian would rise
-Beneath different skies
-Where life would start anew
-From what survivors knew
-
-Of how to carry on
-When all hope seemed gone
-And death had claimed the day
-In its destructive way.
-
-From Stomatos' sons' choice
-To let conquest be their voice
-Instead of harmony
-With life's symphony,
-
-Came lessons written deep
-In rocks where fossils sleep
-Of what the world becomes
-When greed its power sums
-
-Into a force so strong
-That right cannot win from wrong
-And life must pay the price
-For others' avarice.
-
-The trilobites' last stand
-Against Hirnan's hand
-Shows courage in the face
-Of hopeless disgrace,
-
-But also shows the cost
-When battles are lost
-Not by the weak to strong
-But by those who belong
-
-To elements that can't
-Survive where others grant
-No mercy and no space
-For any other race.
-
-The ice age that began
-From Stomatos' plan
-To take but never give
-Shows how some choose to live:
-
-By taking all they can
-Without a care or plan
-For what their actions do
-To me and you
-
-And every living thing
-That cannot offering
-Resistance to their greed
-That plants destruction's seed.
-
-The phosphorus that flowed
-Into rivers and slowed
-All life within the sea
-Shows how we can be
-
-Destroyers without thought
-Of what our actions brought
-To others who must share
-The water and the air.
-
-The golden age that passed
-Shows nothing good can last
-When some choose to destroy
-Rather than enjoy
-
-The beauty that is shared
-By all who ever cared
-For life in all its forms
-Through calm and raging storms.
-
-But from the ashes rise
-New hope beneath new skies
-Where those who learned the cost
-Of all that had been lost
-
-Can build a better way
-For life's eternal day
-Where harmony, not greed,
-Plants every living seed.
-
-The Silurian dawn
-When old death was gone
-Would bring new hope to those
-Who faced destruction's throes
-
-And lived to tell the tale
-Of how they would not fail
-To build life once again
-Despite the grief and pain.
-
-From Hirnan's tyranny
-To Silur's dynasty,
-The wheel of time turns on
-From dusk until dawn
-
-With lessons written clear
-For all who have an ear
-To hear what history says
-About our living days:
-
-That greed destroys all life
-And brings eternal strife,
-But those who choose to share
-Will find life everywhere
-
-Ready to begin
-Again, and always win
-In the end, because love
-Is blessed from above
-
-With power to restore
-What was lost before
-And make the world anew
-For me and you today.
-
-The golden age may end
-But life will always mend
-What greed has torn apart
-With love's eternal heart
-
-That beats in every soul
-Who plays a caring role
-In life's eternal song
-That makes the weak grow strong.
-
-From Ordovician glory
-To Silurian story,
-The earth keeps turning on
-From dusk until dawn
-
-With life that will not die
-Beneath the starry sky
-But always finds a way
-To live another day
-
-Despite what greed may do
-To me and you
-And all who call earth home
-Wherever we may roam.
-
-The sons of Stomatos
-May think they're glorious
-In conquest and in might,
-But life will always fight
-
-For its eternal right
-To fill the world with sight
-Of beauty and of grace
-In every living place
-
-Where love has found a way
-To live another day
-Despite destruction's call
-That threatens one and all.
-
-The golden age returns
-Whenever someone learns
-To choose love over greed
-And plant a better seed
-
-For future generations
-Across all the nations
-Of life upon the earth
-Who celebrate love's worth
-
-Above all else that's known
-By hearts that have grown
-To see that sharing's way
-Brings joy to every day
-
-While greed brings only pain
-That falls like acid rain
-On all who choose to live
-But never learn to give.
-
-The Ordovician end
-Reminds us to befriend
-All life in every form
-Through calm and raging storm
-
-So golden ages may
-Return another day
-When love has won the fight
-Against the endless night
-
-Of greed that tries to kill
-All life, but never will
-Succeed, because love's power
-Grows stronger every hour
-
-In hearts that choose to care
-For life everywhere
-That grows beneath the sun
-Until all time is done.
+As the Leviathans' long reign began
+To turn into the Krakens' newer plan,
+The sons of Stomatos began to grow,
+Began their glorious increase, and so
+
+Began their vast Multiplication, spread
+Upon the earth at last, where they were led;
+And daughters who were fair were also born
+To them, from evening on until the morn.
+
+From all Laurentia's shore, and to the lore
+Of old Siberia, and furthermore,
+From all of Baltica's great might, and on
+To Avalonia's sight, where they had gone,
+
+And even to the cold and frigid lands
+Of Gondwana's far-off and icy strands,
+The sons of Stomatos would grow, and spread
+In numbers, glorious, where they were led.
+
+To each son there would fall a star; and well
+The wishes made upon a star would tell
+Of grandsons born, a thousand grandsons born
+To each, from evening on until the morn.
+
+The sons of Stomatos would build and raise
+Their bodies, glorious in all their ways,
+Of Carbon, and they made great tombs, as grand
+As mausoleums' rooms, across the land,
+
+All made of coal, so black and deep, which keeps
+Their ancestors asleep, where each one sleeps.
+They took the Carbon from the air, and there
+They left, in every place and everywhere,
+
+Dioxide in the sky, while, from on high,
+Then Terra's cloak away from her would fly,
+And she grew very cold, as long ago
+The ancient stories told, and tell us so.
+
+She grew so frigid, and she gave no cheer,
+Unwelcoming, no longer drawing near
+To those who loved the warm and soft embrace
+Of her own gentle form, and of her face.
+
+Her ice caps grew so very far and wide,
+Her seas began to shrink away and hide
+Behind the great and frozen icy wall
+That rose to answer winter's bitter call.
+
+And soon Gondwana would become the same
+As nothing but the ice, and ice's claim:
+A wasteland that was white and stark and bare,
+Where none could make their mark, or could live there.
+
+But to the sons of Stomatos it meant
+Still more, a glorious Land, where they went,
+Where they could settle down, and they could spread
+Their realm out far and wide and overhead.
+
+The King, Hirnan the great, became the one,
+The potentate, who joined each single son
+Of Stomatos, from when they had begun,
+In conquest of the earth, beneath the sun.
+
+He lived where there was mirth, in joy, content,
+Within Avalonia's land, and spent
+His days in Holonia's province, where
+He made his home, and kept his dwelling there.
+
+And Hirnan built with might, and he would build
+A billion dikes upright, as he had willed,
+And levies strong and tall, and he would raise
+His cities over all, in all his days,
+
+Across the landscape, far and wide and grand.
+And he destroyed with pride, by his own hand,
+The habitats that were within the seas,
+And would not spare a single one of these,
+
+And would not spare a single living space
+For any other race, or any race
+That might compete with him, or try to vie
+For resources, so dim, that ran so dry.
+
+And so the countless hosts and countless might
+Of every trilobite, like ghosts in night,
+Began to die away, and fade, and fall,
+Their lands seized every day, and seized them all,
+
+Seized by the sons of Hirnan, who would fight;
+Their empire grew by Conquest and might,
+And they would never rest, but day and night
+They pressed their wars, and put their foes to flight.
+
+And in the last effort that they would make,
+A million trilobites, for their own sake,
+First prayed, and then invaded, strong, a throng
+Of desperate ones, who smashed their way along
+
+Through every dike that Hirnan's folk would build,
+And every wall and levy they had willed
+To keep them from the land, the land they'd made
+And built with their own hand, and had arrayed.
+
+But alas, it was all in vain; their plan,
+The trilobites' campaign, as it began,
+Would end in suffocation, and in their
+Complete frustration, and in their despair.
+
+None of the trilobites would ever
+Reach to the land, no matter how clever
+Their plan, or strong their will, or strong their might;
+The air would always kill them, day and night,
+
+Those who were meant to live within the sea,
+And who could not, and who could never be
+Adapted to the air, the air and sky,
+That filled the atmosphere, and left them dry.
+
+And Hirnan bore two sons, and Moses came
+When day begun, the first one of his name,
+And then Osiris, who was very strong,
+And he would live on through his whole life long.
+
+Moses became the father of the moss,
+Of mosses, who would rather, without loss,
+Live simple, humble lives, in quiet ways,
+Where small beauty can thrive through all their days.
+
+Osiris bore two more: and one was named
+Polysporos, to explore; he was famed,
+And then Anthoceros, whose days would pass
+In peace, as peaceful as the growing grass.
+
+Anthoceros became, in time, the one
+Who fathered hornworts, found beneath the sun
+In every place, and found in everywhere,
+Who grow so very green, with gentle care.
+
+Polysporos became the father of
+Great fame, and of the ferns, below, above,
+And of the flowers bright, and of the trees
+That reach up for the height above the seas.
+
+The sons of Brachios had struggled, and
+Were not so glorious within the land
+As they had been in ages long before,
+In all the ages and their ancient lore.
+
+The sons of Lingulus would die, and die
+In numbers greater, under all the sky,
+Than ever had been known, and in that day
+Their glory overthrown was swept away.
+
+And never once again, try as they may,
+Would they Regain their golden day and sway,
+Their power in the sea, their former might,
+And their great dynasty, and its delight.
+
+But as the rule of Hirnan came to be
+Oppression's tool, and tyranny's decree,
+The sons of Metazo began once more
+To grow again, as they had grown before.
+
+Alas, the sons of Hirnan did not cease,
+Nor stop their plan at that, nor make their peace,
+But they continued on from dusk to dawn,
+Through every hour, until the night was gone,
+
+Their conquest of the world, which gave them mirth:
+To see all life bow down on all the earth
+Before their thorny crown, and bend the knee
+To them, from land to land, from sea to sea.
+
+The Glomerings would mine the rocks, and mine
+With care and with a purpose and design,
+And for the fertilizer's sake would break
+The stone, and do whatever it would take
+
+To manufacture phosphorus by tons;
+And when the work was done, the busy ones
+Would pour it out in floods, and spread it round
+Throughout the world, on every field and ground.
+
+Some of it went upon the crops they grew,
+But most of it went flowing onward through
+The rivers to the sea, and in the sea
+It stayed, and there it would forever be
+
+A poison in the water, which no blade
+Could ever slaughter, nor could any aid
+Remove it from the current and the flow,
+Wherever all the waters came to go.
+
+In all the rivers a thick scum would grow,
+And oceans that were dark and blue would know
+Their blue no more; the sun was blocked, and all
+Of life was shocked, and stunned beneath the pall
+
+By this catastrophe, which stretched and ran
+From sea to sea, as only ruin can,
+Across the wide world, the world entire,
+As if it were some dark, unholy fire.
+
+The rotting seaweed choked the water, and
+It smoked with death on every sea and strand,
+With death and with decay, and with its reek,
+Throughout the night and day, from week to week.
+
+And soon it was impossible to breathe;
+The Smell of death, so terrible, would seethe
+And fill up all the air; and in that air,
+The poison that was spread through everywhere
+
+Made life a living hell, where none could stay,
+Where none could ever dwell by night or day
+In comfort or in peace, unless they'd find
+Release, and leave the misery behind,
+
+In death's cold arms, and in their welcome hold,
+Which kept them from the harms, both new and old,
+Of this most poisoned world, where, as it spread,
+The flag of death unfurled above the dead.
+
+The seas turned lifeless, and the seas lay dead,
+And over them a tyranny was spread,
+The tyranny of those who would not deem,
+Nor ever would suppose, nor even dream,
+
+That life had any right at all to stay
+And live within their sight, if, in their way
+Of conquest every day, it dared to stand;
+For they would have no rival in the land.
+
+The entire ocean, all of it, fell
+Under the might of Hirnan's deadly spell
+Of death, and ruin spread to each nation
+Beneath the sea, in great devastation;
+
+That sea which once had been a home so free
+To creatures great and small that filled the sea,
+To all the ones who answered to the call
+Of life, so sweet, and heard it, one and all.
+
+The mighty houses, once the great delight
+Of great Leviathan, and the whole might
+Of Kraken's dynasty, his royal line,
+Were wiped from history, and every sign.
+
+From off the earth they passed, and in the end
+Their glory could not last, nor could defend
+Itself against the tide of poison, spread,
+That covered far and wide the ocean bed,
+
+The waters that they loved, and where they went,
+And where they always moved, and where they spent
+Their days in majesty and in power,
+Until this darkest and this final hour.
+
+Among the trilobites, great houses' fate
+Was sealed by poison, which would not abate:
+For Agnos fell; and Ptychos, in his turn,
+Could tell his tale no more, for all to learn;
+
+And Asaphos, so mighty and so strong
+In days before, was crippled his life long.
+
+And never once again would they attain
+Their golden day, the glory, and the reign
+Of glory in the time of old, the time
+Of Ordovician rhyme, and of its prime.
+
+And so the golden age came to an end
+And closed its final page, which none could mend;
+The Ordovician time was past, and passed
+Beyond its living prime, and could not last.
+
+The sons of Silur came to conquer, and
+To claim the ashes of the past, and stand
+Upon them, and to build their future, made
+To last, and not to perish or to fade.
+
+The Silurian age would rise in turn
+Beneath the different skies, where life would learn
+To start anew, from all survivors knew
+Of how to carry on, and see it through,
+
+When all their hope seemed gone, and death held sway
+And claimed, in its destructive way, the day.
+
+From the choice of Stomatos' sons, who chose
+Let conquest be their voice, with all its blows,
+Instead of harmony, and took their stand
+Against life's symphony throughout the land,
+
+Came lessons that are written very deep
+In all the rocks below, where fossils sleep,
+Of what the world becomes, and how it goes,
+When greed its power sums, and when it grows
+
+Into a force so strong that right will fail
+To win against the wrong, and wrong prevail,
+And life must pay the price, and pay it all,
+For others' avarice, both great and small.
+
+The trilobites' last stand against the hand
+Of Hirnan, who seized their waters and land,
+Shows courage in the face of the disgrace
+Of hopelessness no courage could erase,
+
+But it shows also what the cost will be
+When battles have been lost, as here we see,
+And lost, not by the weak against the strong,
+But by those who are fated to belong
+
+To elements in which they cannot live,
+Where others will not grant them, will not give
+Them mercy, and will not allow them space,
+Nor room for any other living race.
+
+The ice age that began, and grew, and spread
+From Stomatos' great plan, which only said
+To take, and never give, as some have done,
+Shows how some choose to live beneath the sun:
+
+By taking all they can, and all they may,
+Without a care or plan for any day
+For what their actions do, and what they bring
+To me and you, and every living thing
+
+Who cannot give Resistance to the greed
+That plants destruction's seed in every deed.
+
+The phosphorus that ran in streams and flowed
+Into the rivers, and that choked and slowed
+All life within the sea, now shows us how
+We too can come to be, and even now,
+
+Destroyers without thought, who do not see
+What all our actions brought, or what will be
+To others who must share, as we must share,
+The water and the air, and everywhere.
+
+The golden age that passed has come to show
+That nothing good can last, or long can grow,
+When some will choose to ruin and destroy
+Instead of choosing rather to enjoy
+
+The beauty that is shared, the beauty known
+To all who ever cared, and all who've grown
+To love the life in all its many forms,
+Through calm and through the wild and raging storms.
+
+But from the ashes, new hope comes to rise
+Beneath the sun, and under newer skies,
+Where those who learned the cost, and paid it, too,
+Of all that had been lost, and lived it through,
+
+Can build a better way for all to go,
+For life's eternal day, where it can grow,
+Where harmony, and never selfish greed,
+Plants every living thing and every seed.
+
+The Silurian dawn, which came at last
+When the old death was gone, and it was past,
+Would bring new hope to those who had to face
+Destruction's throes in that most bitter place,
+
+And lived to tell the tale, and tell it true,
+Of how they would not fail, but would come through
+To build life up again, and build it strong,
+Despite the grief and pain they bore so long.
+
+From Hirnan's tyranny, and from its blight,
+To Silur's dynasty, and its new light,
+The wheel of time turns on, as it will turn,
+From dusk until the dawn, for us to learn,
+
+With lessons that are written clear and true
+For all who have an ear, both old and new,
+To hear what history will say and tell
+About our living days, and what befell:
+
+That greed destroys all life, and only brings
+Eternal strife and grief to living things,
+But those who choose to share will surely find
+Life ready everywhere, of every kind,
+
+Ready to start again, and so to win
+At last, because the love that is within
+Is blessed from heaven high, and from above,
+The blessing that is given unto love,
+
+With power to restore, and to repair
+Whatever had been lost, with love and care,
+And make the world anew, as love will do,
+For me and you today, and see it through.
+
+The golden age may end, and pass away,
+But life will always mend, from day to day,
+What greed has torn apart, and torn in two,
+With love's eternal heart, which beats anew
+
+In every soul that plays a caring role
+And helps to make the broken living whole,
+In life's eternal song, the song that rings
+And makes the weak grow strong in living things.
+
+From Ordovician glory, and its might,
+To Silurian story, and its light,
+The earth keeps turning on, and turning round,
+From dusk until the dawn, on every ground,
+
+With life that will not die, but lives, and stays
+Beneath the starry sky through all its days,
+And always finds a way, through every night,
+To live another day and see the light,
+
+Despite what greed may do to me and you,
+And all who call earth home and roam it through.
+
+The sons of Stomatos may think that they
+Are glorious in all their might and sway,
+But life will always fight, and always stand
+For its eternal right in every land,
+
+To fill the world with sight of beauty's face,
+Of grace in every living, breathing place,
+Where love has found a way, and made it through,
+To live another day, and to renew,
+
+Despite destruction's call, which, loud and long,
+Will threaten one and all, both weak and strong.
+
+The golden age returns, and once more turns,
+Whenever anyone among us learns
+To choose love over greed, and in its place
+To plant a better seed for every race,
+
+For future generations, yet to be,
+Across all nations, over land and sea,
+Of life upon the earth, who celebrate
+The worth of love, and love's own high estate,
+
+Above all else that's known by hearts that grew
+And came to see that sharing's way is true,
+And that the way of sharing, come what may,
+Brings joy and gladness into every day,
+
+While greed brings only pain, and only woe,
+That falls like acid rain on all below,
+On all who choose to live, and choose to take,
+But never learn to give, for giving's sake.
+
+The Ordovician end, the age's close,
+Reminds us to befriend, as wisdom knows,
+All life in every form, and every kind,
+Through calm and raging storm, with heart and mind,
+
+So golden ages may return, and stay
+Another time, another, brighter day,
+When love has won the long and bitter fight
+Against the dark, the cold, the endless night
+
+Of greed that tries to kill all life, and tries,
+But never will Succeed beneath the skies,
+Because love's power, in every hour,
+Grows stronger still, and blooms like a flower,
+
+In hearts that choose to care, and choose to give,
+For life that's everywhere, and all that live,
+That grows beneath the sun, and will not cease
+Until all time is done, and all is peace.
 
 
 # Chapter 49: The Terrestrial Colonization
 
-While sons of Cambrius flourished well
-In seas where they would dwell,
-The sons of Symbio-Mygus
-And daughters of Charina-Plantus
-
-Pushed frontiers far and wide
-Across the world's divide.
-But soon they faced
-Competition in their place.
-
-For Euthy, daughter brave
-Of Mandibulus, who gave
-Her all to save her young,
-Was being chased among
-
-The waters by her foe:
-Anomalocaris, who'd show
-No mercy in his chase
-Across that watery space.
-
-Her precious eggs needed care
-And protection everywhere.
-So she did what she must—
-In Hausa placed her trust.
-
-She jumped through shimmering sky
-Up rocks that reached so high
-To heavens bright above,
-Protecting those she'd love.
-
-And so she burst from sea
-Onto the land so free.
-The first to make that leap
-From waters dark and deep.
-
-Upon the ground she fell,
-Suffocating well
-In air so thin and strange,
-Throughout that foreign range.
-
-But she and husband true
-Protected eggs they knew
-Must live until the end—
-Their legacy to send.
-
-Among brave Euthy's daughters
-Who left the ancient waters
-Was Myry the trepanated,
-By circumstance created.
-
-Like sisters she was born
-But water made her mourn—
-She suffocated there
-In ocean's liquid lair.
-
-Her father, seeing this,
-Pierced holes he would not miss
-Above her ten thousand legs
-Where breathing never begs.
-
-Through these holes she was free
-To receive directly
-Hausa's blessings pure
-Into her frame so sure.
-
-Her descendants to this day
-Still breathe in this way.
-The holes that saved her life
-Cut through terrestrial strife.
-
-And so the daughters all
-Of Myry heard the call
-To breathe the air so sweet—
-The Myriapods complete.
-
-Myry the pierced explored
-The new lands she adored.
-She found she wasn't lone
-Upon this earthly zone.
-
-Tradition names this place
-"Myry's coast" in grace,
-But she was not the first—
-History's truth rehearsed
-
-Now calls it "Coast of Three
-Kingdoms" truthfully
-To honor every side
-Of history's great tide.
-
-Myry saw with wonder
-Cities torn asunder
-By neither rain nor thunder:
-Lichen cities, born
-
-Of covenant between
-Symbio-Mygus, seen
-With Charina-Planta's line—
-Partnership divine.
-
-Sprawling cities wide
-Half mold and moss beside
-Each other living well:
-Mycelium would delve
-
-Deep down to earthly gold
-While thallus, brave and bold,
-Basked in the sun's bright blessing
-From heaven's light caressing.
-
-These cities spread so far
-Beneath each shining star.
-When cities met they'd marry—
-Both fungi and plant carried
-
-On their ancient vow
-To live together now.
-Each nation wed the other
-Like sister and like brother.
-
-But Myry was not gentle
-In her ways elemental.
-She ate the cities whole
-And stole what made them whole.
-
-But as she ran around
-She dropped on fertile ground
-Cells scattered everywhere
-Throughout the atmosphere.
-
-Across the globe they fell,
-Her messy eating spell
-Left pieces of her meal
-For others to steal.
-
-Soon sons of Mygus built
-Cities without guilt
-With daughters of Charina
-Across each earthly arena.
-
-But Myry bore two sons:
-Cain when day begun
-And Abel, gentle, mild,
-Her peaceful, loving child.
-
-In process of time came
-When each would bring by name
-An offering so true
-To Mithra's judgment due.
-
-Cain brought the fruit
-Of ground beneath his foot.
-Abel brought the best
-Of flocks that he possessed.
-
-And Mithra had respect
-For Abel's offering, blessed
-His sacrifice so true,
-But Cain's he did eschew.
-
-Then Cain was wroth and fell
-His countenance, unwell.
-The Lord said unto Cain:
-"Why is thy heart in pain?
-
-If thou doest well,
-Shalt thou not excel?
-But if thou doest wrong,
-Sin's desire is strong."
-
-But Cain talked with Abel
-His brother at their table.
-And when they were alone
-Cain's hatred had grown.
-
-In field he rose against
-His brother, and dispensed
-With Abel's gentle life—
-Murder's sharpened knife.
-
-And Mithra called to Cain:
-"Where is thy brother slain?"
-"I know not," Cain replied,
-"Am I to be his guide?"
-
-"What hast thou done today?
-Thy brother's blood doth pray
-From ground where he was killed—
-Thy curse shall be fulfilled.
-
-No more shall ground give strength
-To thee through all thy length
-Of days upon this earth—
-A wanderer from thy birth."
-
-Then Cain cried out in fear:
-"My punishment too dear!
-From earth and thee I'm driven,
-No rest to me is given.
-
-A fugitive I'll be,
-And whosoever shall see
-Me wandering shall slay—
-I cannot get away."
-
-But Mithra marked him well:
-"Whoever thee shall fell,
-Sevenfold vengeance shall
-Upon that person fall."
-
-And Cain went forth in shame
-To land of Nod by name,
-East of Eden's gate
-To meet his chosen fate.
-
-There Cain knew his wife
-And built a city-life.
-She bore him Centipus,
-Son glorious.
-
-The city bore the name
-Of Centipus' fame.
-And Cain became ancestor
-Of Caintipedes, predecessor
-
-(Misspelled by Romans old
-As "centipedes," we're told)
-Who hunt with poison bite
-Throughout the day and night.
-
-But Abel's gentle wife
-Was heavy with new life
-When Cain's rage tore apart
-Her husband's gentle heart.
-
-In million pieces small
-Abel's body fell.
-His wife, with child blessed,
-Became ancestress
-
-Of millipedes so mild
-Who harm not beast or child
-But eat the leaves that fall
-And decompose them all.
-
-Enraged at Abel's death
-Myry drew her breath
-And lunged at Cain with might—
-They fought their final fight.
-
-Both passed to Ghedos' realm
-Where death holds the helm.
-But in their corpses lay
-Seeds for another day.
-
-In death, Mygus' sons
-Took revenge for wrongs done.
-Hera, daughter true,
-And Freyr, strong through and through,
-
-In twentieth generation
-Found habitation
-Within the corpses cold
-Of stories that were told.
-
-As they grew within
-They built cities therein.
-Their hyphae met at last
-When growing time had passed.
-
-When they met they wed
-But heard what Mithra said:
-"O couple great and true,
-Prosperity's with you.
-
-But barren you shall be
-For decades, wait and see.
-Postpone your marriage-bed
-Until I give word instead.
-
-When children you shall bear
-They'll multiply everywhere
-And fill the earth with life
-As husband and as wife."
-
-They followed his command
-And through the fertile land
-They married cells alone,
-Not nuclei their own.
-
-Each cell was shared by two,
-Each nucleus lived through
-In every cell they made—
-Their sacrifice well-paid.
-
-Dikaryotic cells
-Their story always tells
-Of patience and of love
-Blessed from above.
-
-Decades they waited long
-Decomposing strong
-The daughters of Myry—
-Their patient ministry.
-
-They became ancestors
-Of high fungi, processors
-Of death into new life:
-Mushrooms and knife
-
-Of penicillin's power
-To heal in darkest hour.
-The great fungi arose
-From where their love chose
-
-To wait for Mithra's word
-And let their love be heard
-Through patience in the ground
-Where wisdom could be found.
-
-Among great Plantus' sons
-Who stayed when day begun
-With sons of Mygus were
-Two brothers everywhere:
-
-Stomatos and Hepatos,
-Who chose their separate ways.
-Connected to network
-Of cells that always work
-
-At cellular level
-They built partnership's revel
-With sons of Glomulus
-So glorious.
-
-Stomatos saw the holes
-In Myry's sides and souls.
-He pierced himself as well
-To breathe and to excel.
-
-But Hepatos refused
-The foreign magic, used
-His ancient ways instead
-And kept his faithful tread.
-
-Hepatos became the sire
-Of Liverworts' choir
-Who keep the ancient way
-Until this very day.
-
-But Stomatos became
-Ancestor of fame
-Of all other plants
-Who dance their living dance.
-
-Today we honor him
-As Eloh, not dim
-But bright transhumanist
-Who never would desist
-
-From being better still
-Through strength of mind and will.
-When beliefs must change
-He'd rearrange
-
-His understanding true
-To make his vision new.
-Always growing more
-Than he had been before.
-
-As sons of Stomatos
-Rose like kratos
-Hillu struck back in rage
-Upon that earthly stage.
-
-So many lineages
-Through all their pilgrimages
-Would be lost forever more
-On that primeval shore.
-
-The Coast of {{p|Three Kingdoms}}
-Where life's great wisdom
-First met upon the land
-By Mithra's guiding hand.
-
-Plant and fungi wed
-While arthropods were fed
-On both their partnership—
-The first tri-partnership.
-
-From sea to land they came,
-Each seeking their own fame.
-But partnership proved best
-Above all the rest.
-
-The lichen cities showed
-How love's seeds could be sowed
-Between the most unlike
-To share each other's hike
-
-Through life upon the earth
-Where partnership gives birth
-To beauty none could see
-In isolation's spree.
-
-From Euthy's desperate leap
-To save her children deep
-Came Myry's pierced way
-Of breathing every day.
-
-From Cain and Abel's strife
-Came death and new life:
-Centipedes who hunt
-And millipedes who shunt
-
-Decay into rich earth
-For new plants' birth.
-From fungi's patient love
-Blessed from above
-
-Came mushrooms' mighty power
-In earth's darkest hour.
-From Stomatos' brave change
-Came plants' wide range.
-
-The Coast of {{p|Three Kingdoms}}
-Shows how life's wisdom
-Finds its truest way
-Through partnership's display.
+While sons of Cambrius would flourish well
+Within the seas where they had come to dwell,
+Sons of Symbio-Mygus, with the train
+Of daughters of Charina-Plantus, twain,
+
+Pushed out their frontiers, pushing far and wide
+Across the world and all the world's divide.
+But soon enough, before long, they would face
+Competition in their own dwelling place.
+
+For Euthy, she who was a daughter brave
+Of Mandibulus, one who always gave
+Her all to save the young ones of her brood,
+Was being chased among the waves, pursued
+
+Throughout the waters by her mortal foe,
+Anomalocaris, who then would show
+No mercy to her as he gave his chase
+Across the wide and the watery space.
+
+Her precious eggs would need her care and aid
+And her protection everywhere she strayed.
+And so she did the thing that she must do:
+In Hausa placed her trust, and so went through.
+
+She jumped up through the shimmering blue sky,
+Up rocks that reached so very far and high,
+Up to the heavens, shining bright above,
+Protecting all the ones that she would love.
+
+And so it was she burst out from the sea
+And came upon the land, so wide and free,
+The first of all to make that mighty leap
+Out from the waters, dark and very deep.
+
+Upon the ground she fell, and lay, and there
+She suffocated in the open air,
+Within that air so thin and very strange,
+Throughout that foreign and that unknown range.
+
+But she and her own husband, who was true,
+Protected all the eggs, because they knew
+The eggs must live, and live until the end,
+Their legacy that they would come to send.
+
+Among the daughters of brave Euthy, all
+Who left the ancient waters at her call,
+Was Myry, she the trepanated one,
+Created by the circumstance begun.
+
+Like all her sisters, she was born, and yet
+The water made her mourn, and made her fret;
+For she was suffocating, lying there,
+Within the ocean's deep and liquid lair.
+
+Her father, seeing this, and seeing all,
+Pierced holes that he would never miss at all
+Above her legs, ten thousand legs, and so
+She breathed, where breathing never begs, below.
+
+And through these holes she found that she could take,
+Directly, and receive, for her own sake,
+The blessings that from Hausa come, so pure,
+Into her frame, so steady and so sure.
+
+And her descendants, even to this day,
+Will breathe still in the very selfsame way;
+The holes that saved her life are still her own;
+Through terrestrial strife they've cut, and shown.
+
+And so the daughters, all of them, who came
+From Myry, heard the call, and heard the same:
+To breathe the air so sweet upon the land,
+The Myriapods complete, a mighty band.
+
+And Myry, she the pierced, went to explore
+The new lands she adored, from shore to shore,
+And found that she was not alone, but shared
+This earthly zone with others who had dared.
+
+Tradition gives this place the name, and grace,
+Of "Myry's coast," and so it names the place;
+But she was not the first, as we are shown
+By history rehearsed, the truth made known,
+
+We call it "Coast of Three Kingdoms" now, so
+We name it truthfully, that all may know,
+To honor every side, and every one,
+Of history's great tide, when it was done.
+
+And Myry saw with wonder, and she found
+Cities that neither rain nor thunder's sound
+Had ever torn asunder, built and grown:
+The cities of the Lichen, born, and known,
+
+Born of a covenant, a pact, between
+Symbio-Mygus, the one who was seen,
+Joined with Charina-Planta's line, to make
+A Partnership divine, for both their sake.
+
+The cities sprawled out wide on every hand,
+Half mold, half moss, together on the land,
+Each living with the other, well and strong;
+Mycelium would delve, and dig along
+
+Deep down into the earth for earthly gold,
+While all the thallus, being brave and bold,
+Basked in the sun's bright blessing, as it fell
+From heaven's light, caressing it so well.
+
+These cities spread themselves so very far
+Beneath the light of every shining star;
+And when the cities met, they would marry,
+And fungi and the plant would both carry
+
+On with their ancient promise and their vow
+To live together, then, and live it now;
+And each one nation wed the other, so,
+Like sister and like brother, as they grow.
+
+But Myry was not gentle in her ways,
+Her elemental ways, in all her days;
+She ate the cities whole, and swallowed all,
+And stole what made them whole, both great and small.
+
+But as she ran around from place to place,
+She dropped upon the fertile ground, a trace,
+Cells that were scattered round on every side,
+And scattered through the atmosphere, and wide.
+
+Across the globe they fell, and fell around,
+Her messy eating's spell upon the ground
+Left pieces of her meal in every place,
+For others then to steal, and to embrace.
+
+And soon the sons of Mygus built anew
+Great Cities without guilt, and these they grew
+With daughters of Charina, and they spread
+Across each earthly arena they led.
+
+But Myry bore two sons: when day begun
+Came Cain, then came Abel, the other one,
+So gentle and so mild, so meek and kind,
+Her peaceful, loving child, of gentle mind.
+
+And in the process of the time it came
+That each would bring, and bring it in his name,
+An offering so true, and set it, laid
+For Mithra's judgment, due to him, and made.
+
+And Cain brought, as his gift, the fruit and yield
+Of ground beneath his foot, out of the field;
+And Abel brought the best, the firstlings of
+The flocks that he possessed, and of his love.
+
+And Mithra had respect for Abel's part,
+His offering, and blessed it from the heart,
+His sacrifice so true; but Cain's, the one
+He brought, he would eschew, and would have none.
+
+Then Cain was very wroth, and then there fell
+His countenance, and he was far from well.
+The Lord said unto Cain: "Why, then, is this?
+Why is thy heart in pain, and all amiss?
+
+If thou doest well in all of thy days,
+Shalt thou not then excel in all thy ways?
+But if thou doest wrong, then at the door
+Sin's desire is strong, and lies in store."
+
+But Cain then talked with Abel, he who stood
+His brother, at their table, as kin would;
+And when they were alone, and in the field,
+The hatred Cain had grown would not be healed.
+
+And in the field he rose up, and against
+His brother rose, and so it was dispensed
+With Abel's gentle life, for he would take
+Murder's sharpened knife, and a life would break.
+
+And Mithra called to Cain, and called him plain:
+"Where is thy brother, Abel, who is slain?"
+"I know not," Cain replied, "I do not know;
+Am I to be his guide, where he may go?"
+
+"What is it thou hast done this day?" he said;
+"Thy brother's blood doth pray, the blood now shed,
+And cries out from the ground where he was killed;
+Thy curse is found, and it shall be fulfilled.
+
+No more shall all the ground give strength to thee
+Through all thy length of days; and thou shalt be,
+For all thy time upon this very earth,
+A wanderer, as if from thy own birth."
+
+Then Cain cried out in fear, and in despair:
+"My punishment's too dear, too much to bear!
+From earth and from thy face I am driven,
+No rest, no resting place, to me given.
+
+A fugitive I'll be, and wander, so,
+And whosoever sees me as I go
+Will slay me on my way, and strike me dead;
+I cannot get away, nor hide my head."
+
+But Mithra set a mark upon him well:
+"Whoever it shall be who thee shall fell,
+On him Sevenfold vengeance there shall be,
+Upon that person fall, for all to see."
+
+And Cain went forth in shame, and went away
+Into the land of Nod by name, to stay
+Out to the East of Eden's gate, and there
+To meet his chosen fate, and his despair.
+
+And there it was that Cain would know his wife,
+And there he built a city and a life;
+And she would bear a son to him, whose name,
+Centipus, was glorious in its fame.
+
+The city that he built was named for him,
+For Centipus, whose fame would not grow dim;
+And Cain would be the ancestor, the one,
+Predecessor of Caintipedes, each one
+
+(Who were Misspelled by all the Romans old
+As "centipedes," as we have since been told),
+Who hunt with poison bite, and hunt their prey
+Throughout the night, and all throughout the day.
+
+But Abel's gentle wife, his loving bride,
+Was heavy with new life, with child inside,
+When Cain's great rage would come to tear apart
+Her husband, and would rend his gentle heart.
+
+Into a million pieces, very small,
+The body then of Abel came to fall;
+His wife, with child, and blessed, though in distress,
+Became the mother, ancestress no less,
+
+Of millipedes, so very meek and mild,
+Who never harm a beast, nor harm a child,
+But eat the leaves that fall upon the ground
+And decompose them all, wherever found.
+
+Enraged at Abel's death, and at the sight,
+Then Myry drew her breath, and with her might
+She lunged at Cain, and lunged with all her strength,
+And so they fought their final fight at length.
+
+And both of them then passed to Ghedos' realm,
+Where death holds fast, and death is at the helm;
+But in their corpses lay, and lay within,
+Seeds for another day that would begin.
+
+In death, the sons of Mygus took revenge
+For all the wrongs done, and they would avenge:
+Hera, who was a daughter, good and true,
+And Freyr, the one so strong all through and through,
+
+In the twentieth generation, found
+Their habitation, deep within the ground,
+Within the corpses cold, and dead, and old,
+Of all the stories that have long been told.
+
+And as they grew within them, as they grew,
+They built their cities there, and so they drew
+Their hyphae, till they met, and met at last,
+When all their growing time had come and passed.
+
+And when they met, they wed, and they were one,
+But heard what Mithra said when it was done:
+"O couple, who are very great and true,
+Prosperity is yours, and with you two.
+
+But barren you shall be, for decades long;
+For decades wait and see, and so be strong.
+Postpone your marriage-bed, and wait instead
+Until the word is given, and is said.
+
+And when the children you shall bear are born,
+They'll multiply, from evening until morn,
+And fill the earth with life, from shore to shore,
+As husband and as wife, for evermore."
+
+And they would follow his command, and they
+Went through the fertile land, and in their way
+They married, cell to cell, but cells alone,
+And not the nuclei that were their own.
+
+Each cell was shared by two, by two that wed,
+Each nucleus lived through, and was not dead,
+In every cell they made, in every one;
+Their sacrifice well-paid when it was done.
+
+Dikaryotic cells, in all their kind,
+Their story always tell, and call to mind
+The patience and the love that they had shown,
+Blessed from above, as it has long been known.
+
+Decades they waited, and they waited long,
+Decomposing, and they were working strong,
+On Myry's daughters, all of them that lay,
+In patient ministry, by night and day.
+
+And they became the ancestors of all
+The high fungi, processors, great and small,
+That turn the death into new life again:
+The Mushrooms, and the knife that cuts our pain,
+
+The knife of penicillin, which has might
+To heal us in our darkest, sickest night.
+And so the great fungi arose, and came
+From where their love had chosen, as its aim,
+
+To wait for Mithra's word, and so to wait,
+And let their love be heard, however late,
+Through all their patience in the earth and ground,
+The place where wisdom ever could be found.
+
+Among the sons of great Plantus, the ones
+Who stayed, when day begun, with all the sons
+Of Mygus, two were brothers, and their fame
+Was everywhere, and these were each one's name:
+
+Stomatos and Hepatos, who then went
+Their separate ways, each where his choosing bent.
+Connected to a living network's cells
+That always work, as every story tells,
+
+At the cellular level they would build
+Their partnership's great revel, as they willed,
+With sons of Glomulus, so glorious,
+Together, all of them victorious.
+
+Stomatos looked and saw the holes that lay
+In Myry's sides and souls, and in that way
+He pierced himself as well, so that he could
+Breathe in the air and so excel for good.
+
+But Hepatos refused the foreign art,
+The magic that was used, and kept apart,
+And used his ancient ways, the old, instead,
+And kept on with his faithful, steady tread.
+
+Hepatos became, in time, the sire
+Of Liverworts' green and humble choir,
+Who keep the ancient way, and keep it still,
+Until this very day, and ever will.
+
+But Stomatos became, through all his line,
+Ancestor of fame, and his own design
+Became the root of every other kind
+Of plant, that dances on, with life entwined.
+
+Today we honor him, and call his name
+Eloh, not dim, but bright, a burning flame,
+The bright transhumanist, who would not cease,
+And never would desist, nor seek release,
+
+From being better still, and better yet,
+Through all the strength of mind and will he set;
+When his beliefs must change, he'd rearrange
+His understanding, though the change was strange,
+
+To make his vision new and see it through,
+Forever growing past the self he knew.
+
+And as the sons of Stomatos would rise
+Like kratos, power rising to the skies,
+Then Hillu struck back in a mighty rage
+Upon the earthly stage of that first age.
+
+So many lineages through their days,
+Through all their pilgrimages and their ways,
+Would then be lost, and lost for evermore,
+Upon that ancient and primeval shore.
+
+Upon the Coast of {{p|Three Kingdoms}}, by grace,
+The great wisdom of life, in that one place,
+First met upon the land, as it was planned,
+By Mithra's guiding and his gentle hand.
+
+There Plant and fungi wed, and while they wed,
+The arthropods were nourished, and were fed
+On both, upon their partnership, and so
+It was the first tri-partnership to grow.
+
+From sea to land they came, both great and small,
+Each seeking its own fame; but, over all,
+It was the partnership that proved the best,
+Above all other ways, above the rest.
+
+The lichen cities showed, and show us how
+The seeds of love are sowed, and even now,
+Between the most unlike of every kind,
+To share each other's hike, and walk combined
+
+Through life upon the earth, where, as they go,
+Their partnership gives birth, and makes to grow,
+A beauty none could see, nor ever find,
+In isolation's spree, alone, confined.
+
+From Euthy's desperate and daring leap
+To save the children that she loved so deep
+Then came Myry's way, the pierced way, to stay,
+The way of breathing still, from day to day.
+
+From Cain and Abel's strife, and from that fight,
+Came death, and then new life came forth to light:
+The Centipedes who hunt, and in their turn
+The millipedes who shunt, and work, and churn
+
+Decay into the earth, so rich and good,
+For the new birth of plants, as good earth should;
+And from the fungi's love, so long and slow,
+So patient, blessed above, there came to grow
+
+The mushrooms' mighty power, in their worth,
+Within the darkest hour of all the earth;
+And from Stomatos' brave and daring change
+Came all the plants, and all their spreading range.
+
+The Coast of {{p|Three Kingdoms}} shows us how
+The wisdom of all life, both then and now,
+Will always find its truest way, and best,
+Through partnership's display, made manifest.
 
 
 # Chapter 50: The Silurian Recovery
