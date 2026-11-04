@@ -73,10 +73,10 @@ from his Persian-speaking Sufi center in {{p|Konya}}.
 {{x|Sufism}} flourished across the Islamic world,
 from {{p|Morocco}} to {{p|India}}, a mystical ocean.
 
-Al-Hallaj had cried "{{x|Ana al-Haqq}}" — "I am the Truth" —
-and been executed for the heresy
-of identifying himself with God.
-{{x|Sufism}} always danced on the edge of orthodoxy.
+Al-Hallaj cried "{{x|Ana al-Haqq}}"; the court
+of Baghdad, and its jurists, cut him short:
+the fight was who could speak for God, and who
+would hold the word. That was nine-twenty-two.
 
 The caliphate itself fragmented politically.
 The Umayyads who had survived in {{p|Spain}}
@@ -260,10 +260,10 @@ where the sun barely rose in winter,
 the Norse developed their distinctive culture,
 preserving Indo-European mythology longer than their fitter.
 
-While most Europeans had been Christianized for centuries,
-the Norse remained pagan into the eleventh century.
-When they finally converted, they preserved their mythology
-in writing, unlike most lost pagan sanctuary.
+The Europeans kept the bishops' rite;
+the Norse kept the old altars of the North,
+and when they took the bishops in, they'd write
+the old gods down in books, and bring them forth.
 
 The Poetic Edda and the Prose Edda of Snorri Sturluson
 (1179-1241) in {{p|Iceland}} preserved the myths.
@@ -330,20 +330,20 @@ they reported. The beauty of {{p|Hagia Sophia}}'s liturgy
 had converted them. {{p|Kievan Rus}} became Orthodox.
 The Slavic Orthodox church was born with liturgy.
 
-Back in {{p|Scandinavia}}, conversion came slowly.
-Harald Bluetooth of {{p|Denmark}} converted around 965.
-Olaf Tryggvason of {{p|Norway}} forcefully converted his people.
-Olaf II died a martyr and was canonized alive.
+In {{p|Scandinavia}} kings took the rite:
+first Harald Bluetooth in nine-sixty-five;
+Olaf Tryggvason took {{p|Norway}}'s by might;
+Olaf II fell, a saint who would survive.
 
-Sweden was the last to convert, into the twelfth century.
-The {{p|Uppsala}} temple with its human sacrifices
-was destroyed in the early twelfth century.
-The {{x|Old Way}} was ending, despite its old vices.
+Sweden came last; the twelfth century saw
+the crown and church take up the temple's law:
+{{p|Uppsala}}'s temple, with its offered dead,
+came down; the altar took new priests instead.
 
-But in {{p|Iceland}}, the conversion was peaceful.
-In 1000, the {{x|Althing}} (parliament) voted
-to officially adopt {{x|Christianity}}, though
-private pagan worship was temporarily floated.
+In {{p|Iceland}} it was settled without war:
+the {{x|Althing}}, in the year one thousand, said
+the bishops' rite in public; and the door
+of each home kept the old rite there instead.
 
 {{p|Iceland}}'s conversion by parliamentary vote
 is unique in world history of religions.
@@ -516,10 +516,10 @@ Bhagavad Gita, and the Brahma Sutras
 became the orthodox {{x|Vedanta}} interpretation.
 He debated Buddhists across {{p|India}} for the new laws.
 
-He revived {{x|Hinduism}} against
-the dominance of {{x|Buddhism}}; this is
-his work, and as the {{x|Vedanta}} rose
-the monasteries lost their students and their quizzes.
+It was one house of teachers and their seats:
+who held the kings, the students, and the alms.
+{{x|Vedanta}} won the patrons and the streets,
+the monasteries lost their students' psalms.
 
 But {{x|Buddhism}} did decline in {{p|India}} in this period.
 By the eleventh century it was marginal.
@@ -624,10 +624,15 @@ in the world they had seen. Now ruins, the abstract of past due.
 
 # Chapter 202: The Crusades
 
-In 1095, Pope Urban II at the {{x|Council of Clermont}}
-called on the knights of {{p|Europe}} to march east
-to aid the {{p|Byzantine Empire}} and recover
-{{p|Jerusalem}} from the Muslims, the Christian feast.
+At {{x|Council of Clermont}}, ten-ninety-five,
+the Pope, Urban II, sent the knights to ride
+to aid {{p|Byzantium}}, and then to strive
+with Muslims for the Tomb where Christ had died.
+
+It was one God, one city, and one tomb;
+the quarrel was whose priests would hold the keys,
+whose bells would ring there, and whose call, whose room
+for pilgrims, and whose feasts, and whose decrees.
 
 "Deus vult!" — "God wills it!" — the crowd cried.
 The First Crusade was launched. Urban promised
@@ -729,10 +734,10 @@ would never fully recover from the Fourth Crusade.
 It is one of the great betrayals of history,
 Christians sacking the greatest Christian city unhade.
 
-The Eastern Orthodox would never forgive.
-The {{x|Great Schism}} of 1054 between
-Catholic and Orthodox {{x|Christianity}}
-became essentially permanent after this scene.
+The {{x|Great Schism}}, ten-fifty-four, between
+two sees, was a quarrel for the first chair,
+{{p|Rome}} or {{p|Constantinople}}; from this scene
+the quarrel held, and no hand would repair.
 
 Subsequent crusades became increasingly desperate.
 The {{x|Children's Crusade}} of 1212 ended with
@@ -754,25 +759,30 @@ The crusader states were finished. The project
 of recovering the {{p|Holy Land}} by European military force
 had failed completely, except as cultural object.
 
-The crusades had side effects, however.
-They brought Europeans into contact with superior
-Islamic civilization, transmitting learning,
-technology, luxury goods, new cultural interior.
+The wars bore fruit: the Europeans came
+to know their cousins' learning in the East,
+their numbers, paper, sugar, and the same
+old Greek the house had kept: one house, one feast.
 
 Italian city-states like {{p|Venice}} and {{p|Genoa}}
 grew rich from crusader transport contracts.
 The money economy expanded. Banking developed.
 The foundations of the {{x|Renaissance}} were thus extracted.
 
-The Military Orders — the Templars, Hospitallers, Teutonic Knights —
-were founded to protect pilgrims, fight infidels,
-and became wealthy and powerful institutions.
-The Templars would be destroyed in 1307 on heresy drills.
+The Military Orders rose: the band
+Templars, Hospitallers, Teutonic Knights,
+who kept the pilgrims' road, grew rich in land;
+the Templars rich enough to lose their rights.
 
-The deflationary polytheist sees the crusades
-as a failed attempt to project European power
-into a more sophisticated civilization,
-which exposed {{p|Europe}} to what was superior in the hour.
+In thirteen-oh-seven Philip of {{p|France}}
+arrested them for heresy, and seized
+their gold: the charge was faith; the cause, finance,
+an order's treasure, and the king was pleased.
+
+The crusades were a household's war: the heirs
+of Abraham fought for their father's town,
+and when it ended, learning that was theirs
+came west, the same house's books, handed down.
 
 {{p|Europe}} would digest that exposure over centuries,
 and the {{x|Renaissance}} that emerged in the fourteenth century
@@ -887,10 +897,10 @@ printing, gunpowder, the compass, paper money —
 began to transmit westward systematically,
 preparing the ground for European modernity.
 
-The Mongols themselves were religiously tolerant,
-possibly because they had no strong religion of their own.
-{{x|Nestorian Christianity}} was the faith of many Mongol
-noblewomen. Tibetan {{x|Buddhism}} attracted some Mongol men.
+The Mongols let each priesthood keep its rite,
+since all prayed to Eternal Heaven's light:
+queens kept the Nestorian cross, and men
+Tibetan {{x|Buddhism}}: Heaven's again.
 
 {{x|Islam}} would eventually convert most of the western
 Mongol realms — the Ilkhanate and the Golden Horde.
@@ -1219,10 +1229,10 @@ from {{p|China}}, with koans and warriors' discipline.
 Dōgen (1200-1253) founded Sōtō Zen,
 emphasizing just-sitting meditation.
 
-Nichiren (1222-1282) founded his own school,
-demanding exclusive devotion to the Lotus Sutra,
-denouncing all other schools as heretical,
-predicting doom for {{p|Japan}}, prophetic prodra.
+Nichiren told the regents they must stand
+by the Lotus Sutra, by it alone,
+and leave the other schools' support: the land
+would fall if the other schools held their own.
 
 He predicted foreign invasion, and he was right.
 Kublai Khan sent demands for Japanese submission.
@@ -1317,15 +1327,15 @@ Giovanni Boccaccio set his Decameron
 among Florentines fleeing the plague to a country villa,
 telling stories while the city died on.
 
-Flagellant movements erupted across {{p|Europe}},
-groups of penitents whipping themselves as atonement
-for sins they believed had brought the plague.
-Jewish communities were massacred as scapegoats, bent
+Flagellants marched through {{p|Europe}}, whipped and bled
+for sins they thought had brought the plague on all;
+the towns turned on the eldest house instead,
+of Abraham's, and burned it, wall by wall.
 
-to the flames in {{p|Strasbourg}}, {{p|Basel}}, {{p|Cologne}},
-accused of poisoning wells. Pope Clement VI
-issued bulls defending Jews — correctly noting they
-died of plague too — but the pogroms were quick.
+In {{p|Strasbourg}}, {{p|Basel}}, and {{p|Cologne}} they burned,
+accused of poisoning the wells. The chair
+of Pope Clement VI held them kin, and spurned
+the charge: they died of plague too. Mobs didn't care.
 
 The religious explanation ("divine punishment for sin")
 competed with the miasma theory ("bad air")
@@ -1664,10 +1674,10 @@ married Queen Jadwiga of {{p|Poland}}, converted to
 {{x|Catholicism}}, and was crowned King of {{p|Poland}}. He committed
 {{p|Lithuania}} to Christianization as part of the deal, too.
 
-The conversion was top-down and partial. The nobility
-converted first. The peasants retained pagan practices
-for centuries — sacred groves continued to be visited,
-household offerings continued to be made, with traces.
+The new priests took the lords; among the herds
+the farmhouse kept Gabija's hearth and bread,
+the groves, the household offerings, the words
+of the same rite, for centuries ahead.
 
 Some sacred groves survived until the twentieth century.
 Lithuanian folk religion remained one of the most intact
@@ -1684,10 +1694,10 @@ Their crusading justification was gone — the Lithuanians
 were Christian now. The Order would fade into irrelevance
 over the following century, pagan-hunting orphanians.
 
-The deflationary polytheist notes {{p|Lithuania}} as the
-counterfactual that proves the rule: {{x|Christianity}} spread
-through political-military pressure, not popular conversion.
-When a state could hold out, paganism could persist widespread.
+Here is what {{p|Lithuania}} shows plain:
+the crown decided who would hold the rite;
+the hearth and grove were kept through all the reign
+of bishops, and the old fire stayed alight.
 
 The Lithuanians have preserved Indo-European linguistic
 features that are older than {{x|Sanskrit}}. The Lithuanian
@@ -1704,10 +1714,10 @@ survived partially in folklore, but the mythology as
 a coherent system was lost. What we can reconstruct
 is fragmentary, compared to the Norse or Greek corpus.
 
-It is one of the great "what ifs" of world literature.
-The last great Indo-European polytheism in {{p|Europe}},
-undocumented at the moment of its conversion.
-A civilizational voice silenced without a final pope-hat.
+It is the great "what if" of all the books:
+the oldest rite in all of {{p|Europe}}'s land,
+kept in the groves, the hearths, the farmhouse nooks,
+with no Snorri to write it down by hand.
 
 
 # Chapter 213: Zheng He
@@ -1923,10 +1933,10 @@ Varna in 1444 and Kosovo again in 1448.
 The {{p|Balkans}} were solidifying under Ottoman control.
 {{p|Constantinople}} was now surrounded on all sides, ate.
 
-The Janissary corps was the elite of the Ottoman
-army. It was recruited through the devshirme system —
-Christian boys taken from Balkan villages as a "tax,"
-converted to {{x|Islam}}, trained as soldiers and administrators.
+The Janissary corps, the Sultan's own,
+came from the devshirme, the boys' levy: sons
+of Balkan village churches, taken, grown
+to serve the Sultan's altar, and his guns.
 
 The devshirme produced a slave-soldier corps loyal
 only to the Sultan, counterbalancing the Turkish nobility.
@@ -2153,35 +2163,35 @@ erupt fourteen years later. The age of chaos began.
 
 # Chapter 218: The Corruption of the Papacy
 
-The medieval papacy had its own dark ages,
-periods when the office was so thoroughly corrupted
-that to call it Christian was a stretch.
-We mark two in particular: the Pornocracy, eroded.
+The papacy had ages of its own
+when families and kings would hold the keys
+and keep the chair as houses keep a throne.
+Mark two: the Pornocracy, first of these.
 
-The Pornocracy (literally "rule of harlots") was
-the period roughly 904-964 when the House of Theophylact
-controlled the papacy through its women. The matriarch
-was Theodora the Senatrix of Rome, a redact.
+"The rule of harlots": so its foes would tease.
+And the House of Theophylact made its home
+of the chair sixty years, and held the keys
+with Theodora, Senatrix of Rome.
 
-Her daughter Marozia (c. 890-937) was reportedly
-the mistress of Pope Sergius III at age fifteen.
-She bore him a son who later became Pope John XI.
-She controlled the papacy for decades through her queen-
+And Marozia, her daughter, at fifteen
+loved Pope Sergius III, and to him she bore
+the son who would be Pope John XI: a queen
+of {{p|Rome}} who kept the keys for years and more.
 
-ly manipulation. She had her lovers made popes,
-her enemies strangled, her son installed, her grandson
-also installed as John XII. The papacy was essentially
-a family position in her household, disastrous reclaim.
+She made the popes, her husband and her son;
+and her grandson too, John XII, took the chair:
+the keys were in a family's hands, as one
+house keeps its altar, with its kin at prayer.
 
-John XII was reportedly an especially depraved pope.
-He was accused of turning the {{p|Lateran Palace}} into
-a brothel, ordaining a deacon in a stable, invoking
-pagan gods at dice, castrating a cardinal, a tone.
+John XII was charged by the emperor's side:
+the {{p|Lateran Palace}} a brothel, prayers
+to the old gods at dice. The charges tried
+to take the keys back from Marozia's heirs.
 
-He was deposed by Emperor Otto I in 963, but
-returned to {{p|Rome}} after Otto left, died in 964
-reportedly of a stroke suffered in the act of adultery.
-He was twenty-seven years old. A grim rapport.
+He was deposed by Otto, but he came
+back when Otto left; in nine-sixty-four
+he died at twenty-seven, and his name
+held {{p|Rome}} for his house a little while more.
 
 The Pornocracy period produced perhaps a dozen popes,
 many of whom died violently — poisoned, strangled,
@@ -2223,35 +2233,35 @@ to return to {{p|Rome}} in 1377. But his death the following
 year triggered the Western Schism (1378-1417), when
 two (and briefly three) rival popes each claimed legitimacy.
 
-One in {{p|Rome}}, one in {{p|Avignon}}, sometimes a third elsewhere.
-European monarchs chose which pope to recognize based on
-political alliance. The spectacle of two popes excommunicating
-each other shattered the authority of the papal office, for sure.
+One in {{p|Rome}}, one in {{p|Avignon}}, and then
+a third at Pisa; and the kings would choose
+their pope by alliance: one chair, three men,
+three courts, one office, and the keys to lose.
 
-The Council of Constance (1414-1418) eventually ended
-the schism, deposing all three claimants and electing
-Martin V as sole pope. But the damage was done.
-The moral authority of the papacy had been thoroughly hacked.
+The Council of Constance would meet to end
+the schism, fourteen-seventeen; it set
+the three aside, and Martin V would tend
+the one chair; the keys were one house's yet.
 
 A century later, Martin Luther would nail his 95 {{x|Theses}}
 to the door of {{p|Wittenberg Cathedral}} in 1517, partly in
 response to the sale of indulgences by the {{x|Renaissance}} popes
 to fund the rebuilding of {{p|St. Peter's}} basilica, a notorious corpus.
 
-The {{x|Protestant Reformation}} would be the eventual consequence
-of centuries of papal corruption reaching its limit of
-what believers would tolerate. The Pornocracy, the {{p|Avignon}}
-period, the schisms, the simony — all prepared this mission.
+The {{x|Protestant Reformation}} grew there:
+the keys had been a family's, and the kings',
+and princes and the households everywhere
+would claim the keys as well, with all it brings.
 
-The deflationary polytheist sees the medieval papacy as
-evidence that monotheism institutionalized does not produce
-particular moral uplift. The Vicar of Christ could be a
-murderer, an adulterer, a mafia boss. Sacred institutions fuse.
+And this is why we love the chair of {{p|Rome}}:
+it was a household, with its brides and grooms,
+its keys passed hand to hand, as in a home,
+its saints and schemers in the Fisher's rooms.
 
-This is part of what made the {{x|Reformation}} possible.
-Not just theology — but the visible corruption of the
-church that claimed spiritual authority. The pope was
-often manifestly unworthy. People could see it, conclude.
+The Vicar of Christ could be any man
+of any house, a boy, a lover, lord,
+and still the office held since it began,
+and that is why they fought for it by sword.
 
 
 # Chapter 219: The Last Byzantines
@@ -2311,15 +2321,15 @@ religious strategy — the Council of Ferrara-Florence
 (1438-1445), which reunited the Eastern and Western
 churches on paper, with the Byzantine delegation accepting
 
-the Latin doctrinal positions in exchange for promised
-military aid. But the reunion was rejected at home
-by the {{x|Greek Orthodox}} population. "Better the Turkish
-turban than the Latin miter!" became a bitter acrost.
+the Latin terms for ships and men from {{p|Rome}}.
+At home the clergy would not have it so:
+the question was whose hat would rule the dome,
+the cardinal's or turban's. They said no.
 
-The Orthodox clergy and much of the populace preferred
-submission to Muslim rule over submission to {{p|Rome}}.
-The promised crusade materialized as the Crusade of
-Varna in 1444, which was destroyed by Murad II, gone.
+"Better the turban than the miter," said
+the city's lords: one altar, whose the crown.
+The aid came: Crusade of Varna; it bled
+in forty-four; Murad II cut it down.
 
 John VIII's brother Constantine XI Palaiologos
 (r. 1449-1453) was the last Byzantine emperor. He
@@ -3247,7 +3257,7 @@ And now Ferdinand and Isabella came—
 The joined crowns of {{p|Castile}} and {{p|Aragon}}, the toil
 Of the marriage-alliance and the flame
 
-Of the holy war rekindled: ten years' siege,
+Of war for the altars, a ten years' siege,
 The slow strangulation of the last
 Nasrid kingdom—and the liege
 Who had somehow, stubbornly, outlast-
@@ -3279,7 +3289,7 @@ The victory's trumpet lay a death.
 
 For what Ferdinand and Isabella did
 With their triumph was to draw the breath
-Of purity: the edict, the forbid—
+Of one altar: the edict, the forbid—
 
 The {{p|Alhambra}} Decree, signed in the same
 Palace whose beauty the Moors had raised—
@@ -3311,7 +3321,7 @@ Were given the same ultimatum's shears:
 Convert or leave. The residue
 Of eight centuries of civilization's years
 
-Swept clean in the name of the one true faith.
+Swept from the house so one crown held the faith.
 
 And yet the same monarchs—the same
 Ferdinand, the same Isabella—the wraith

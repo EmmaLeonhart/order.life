@@ -3828,10 +3828,10 @@ Emperors rose and fell like weather.
 The coinage was debased, the silver
 diluted to base metal's tether.
 
-Decius launched the first empire-wide
-persecution of Christians, requiring
-all citizens to sacrifice to the gods
-and produce certificates proving firing.
+And then in two-fifty Decius decreed
+that every house burn incense at his shrine
+and keep a paper proving it agreed.
+The church said: the same incense, but at mine.
 
 Many Christians sacrificed, lapsed,
 became the "lapsi" debated for years.
@@ -3898,10 +3898,10 @@ The emperor rarely visited {{p|Rome}}.
 Power was where the frontier armies were,
 not in the old {{p|Italian}} home.
 
-Diocletian launched the final great persecution
-of Christians in three-oh-three,
-the "{{x|Great Persecution}}," the last attempt
-to suppress the church's rise by decree.
+And in three-oh-three Diocletian tore down
+the churches, burned the books, and named it law:
+the {{x|Great Persecution}}, so that the crown
+would hold each altar the empire saw.
 
 It failed. The church was too embedded.
 Martyrs increased conversions, not decreased.
@@ -3988,15 +3988,15 @@ to {{p|Central Asia}} and to {{p|China}} past,
 west to {{p|Rome}}, where Augustine embraced it
 for nine years, before he broke fast.
 
-Shapur tolerated Mani. Bahram
-would kill him, and Kartir the priest
-would persecute Manichaeans hard,
-Jews, Buddhists, Christians — no decreased.
+Shapur let Mani preach; Bahram instead
+had Mani put in chains till he was dead,
+and Kartir struck at every rival flame:
+the Manichaeans, Jews, Christians, all one claim.
 
-{{x|Zoroastrianism}} hardened into
-an orthodoxy defending its soil.
-The Avesta was finally written down
-to fix the canon from centuries' toil.
+The quarrel was the office, not the light:
+which priest would hold the altar and the rite.
+The Avesta was at last written down
+to keep the canon for the priestly crown.
 
 Khosrow I brought the golden age,
 reformed taxation, built canals,
@@ -4101,15 +4101,15 @@ tracing the {{x|Haykazuni}} line as true.
 the land was divided and partitioned,
 and {{x|Christian}} identity became their test.
 
-In four-fifty-one at {{p|Avarayr}}, Vardan Mamikonian
-led {{x|Christian}} Armenians against {{x|Sassanid}} forces
-demanding they return to {{x|Zoroastrianism}}.
-Vardan died, but {{p|Armenia}} preserved its courses.
+And at {{p|Avarayr}}, in four-fifty-one,
+Vardan Mamikonian led out his own
+against the {{x|Sassanid}} king's priests, who'd won
+the order that their altar stand alone.
 
-The {{x|Battle of Avarayr}} is remembered
-as the founding martyrdom of the nation,
-the moment when {{x|Armenian}} {{x|Christianity}}
-chose to fight rather than face forced conversion.
+Vardan fell. {{p|Armenia}} keeps the day
+as the first feast of its own martyred dead.
+The war was not of gods. It was who'd say
+whose priests would bless its altar and its bread.
 
 {{p|Armenia}} would never be a great power.
 But it would be a persistent one.
@@ -4164,15 +4164,15 @@ became the second Christian state reached.
 in history to adopt {{x|Christianity}}
 as its official state declaration.)
 
-The {{x|Ethiopian Church}} took Monophysite
-position at {{p|Chalcedon}} in four-fifty-one,
-holding that Christ had one nature, divine,
-absorbing the human into the one.
+And at {{p|Chalcedon}} in four-fifty-one
+the bishops split on how the Christ was made:
+"Two natures," {{p|Rome}}; {{p|Alexandria}}, "one,"
+and {{p|Aksum}}'s bishop, sent from there, obeyed.
 
-This put it outside Western orthodoxy
-but aligned with {{p|Alexandria}} and {{p|Antioch}}'s stance.
-The {{x|Oriental Orthodox}} communion formed:
-Copts, Syrians, Armenians, Ethiopians' dance.
+It was one church that fought over a throne:
+which patriarch would say the creed for all.
+The Copts, the Syrians held to their own
+with Ethiopians, a single hall.
 
 {{p|Ethiopia}} has a tradition that the Ark of the Covenant
 rests at {{p|Aksum}} in the Church of {{p|St. Mary of Zion}},
@@ -4267,20 +4267,20 @@ a {{x|Christian}} at the last, and passed away.
 His mother Helena went to {{p|Jerusalem}}
 and found the {{x|True Cross}} where it lay.
 
-After Constantine, his sons divided
-the empire, fought civil wars, returned
-to fragmentation. Julian the Apostate
-briefly tried to restore the old gods burned.
+Then Constantine's sons split the realm and fought;
+then Julian gave the old priests their keys,
+the house that kept the rite as he was taught,
+the altars of the cities, and their fees.
 
-But it was too late. The church was too strong.
-Julian died in battle against the Persians.
-The Theodosian reforms would make {{x|Christianity}}
-the state religion, exclusive, without diversions.
+He died in war with the Persians; the keys
+went to the bishops, and they kept them there:
+the rite was one; the fight was whose decrees
+would rule the altar, and whose robe, whose prayer.
 
-Theodosius I in three-ninety-two
-outlawed pagan worship entirely.
-The old temples were closed or converted.
-The {{x|Olympic Games}} were ended, purely.
+And then Theodosius I would close the doors
+of the old priesthood in three-ninety-two.
+The temples took new keepers: the same floors,
+new priests; and the {{x|Olympic Games}} were through.
 
 The Visigoths sacked {{p|Rome}} in four-ten
 under Alaric. The unthinkable happened.
@@ -4447,10 +4447,10 @@ the turn: the {{p|West}} did not fall to the Goths;
 it lost its last emperor to Justinian,
 and {{x|Christianity}} became what {{p|Rome}} defended.
 
-The old gods were gone from public life.
-The temples were churches or ruins now.
-A new {{x|Christian}} civilization was forming
-on the old {{p|Roman}} frame, altered somehow.
+The same rite stood in {{p|Rome}} under new names:
+the temples were the churches or were stone,
+the feasts went on, the incense and the flames,
+the old {{p|Roman}} frame held what it had known.
 
 
 # Chapter 188: The Fall of Han
@@ -4510,10 +4510,10 @@ then the {{x|Sixteen Kingdoms}} in the north,
 then the {{x|Southern and Northern Dynasties}} period,
 three hundred years of {{p|China}} torn forth.
 
-During this time, {{x|Buddhism}} took deep root.
-With Confucian order failing, people turned
-to the foreign teaching that addressed suffering.
-Monasteries multiplied, sutras were earned.
+And in this time {{x|Buddhism}} took deep root:
+as the old order failed, the people turned
+to the one rite from {{p|India}}, its fruit
+in sutras and in monasteries earned.
 
 Kumarajiva was brought from {{p|Kucha}} as hostage
 to {{p|Chang'an}} where he translated sutras,
@@ -4771,10 +4771,15 @@ of a centralized state in the Japanese archipelago,
 absorbing Korean immigrants, Chinese influence,
 building toward what would become emperor {{p|Yamato}}.
 
-The Soga clan would push {{x|Buddhism}}.
-The Mononobe clan would resist.
-In 587, the Soga won, and {{x|Buddhism}}
-became the state religion, with {{x|Shinto}}'s midst.
+Two clans, one court. The Soga clan would raise
+the Buddha's hall beside the kami's days;
+and the Mononobe clan would keep the rite
+in its own hands, and both would go to fight.
+
+In five-eighty-seven the Soga won,
+and court and temple and the shrine were one:
+the Buddha and the kami of the sun,
+{{x|Shinto}} with {{x|Buddhism}}, a rite begun.
 
 The {{x|Kofun}} period was ending. The {{x|Asuka}} period
 beginning. The constitution of Prince Shōtoku
@@ -4814,10 +4819,10 @@ Allah was the high god, creator, most high,
 but rarely worshipped directly — his daughters
 al-Lat, al-Uzza, and Manat drew the eye.
 
-The Kaaba at {{p|Mecca}} housed 360 idols,
-one for every day of the lunar year,
-tribal gods, astral deities, household idols,
-Hubal the chief among them held dear.
+Three hundred sixty images were kept
+within the Kaaba, where the pilgrims stepped:
+the gods of tribes and stars and homes, and they
+set Hubal chief, the god to whom they'd pray.
 
 But the Arabs also had the concept of
 hanif, a pure monotheist in the line
@@ -4854,10 +4859,10 @@ as hermits in caves along trade routes,
 where caravans would stop for water
 and hear the teaching at lonely outposts.
 
-This was the context: a peninsula with
-multiple religions already present,
-where monotheism was known but not
-universal, where pagan worship was prevalent.
+Here was one peninsula and one rite
+kept many ways, by tribe and town and tent,
+the high god and his daughters, and the light
+of Jews and Christian monks, with one intent.
 
 Trade connected {{p|Arabia}} to the world.
 Frankincense and myrrh went north to {{p|Rome}}.
@@ -4869,10 +4874,10 @@ the great Byzantine-Sassanid wars,
 which weakened both empires, disrupted trade,
 and left {{p|Arabia}} watching both contenders' scores.
 
-The {{x|Year of the Elephant}}, 570 CE,
-saw Abraha, the Christian Ethiopian ruler
-of {{p|Yemen}}, march on {{p|Mecca}} with elephants
-to destroy the Kaaba, sacred center ruler.
+In the {{x|Year of the Elephant}} came forth
+Abraha of {{p|Yemen}}, and he marched north
+with elephants, to take away the rite
+of pilgrims for his church: whose house, whose right.
 
 His expedition was miraculously defeated
 (tradition says birds dropped stones on them,
@@ -4897,7 +4902,7 @@ the archangel Gabriel would visit him, a wrecker
 of his old life and opener of the new.
 "Recite!" the angel said. "In the name of your Lord
 who created, created man from a clot."
-The {{x|Quran}} began. A new religion was born.
+The {{x|Quran}} began: the old house restored.
 
 
 # Chapter 192: Muhammad and the Rise of Islam
@@ -4927,10 +4932,10 @@ hajj — pilgrimage to {{p|Mecca}} once in life.
 Simple, clear, demanding, but doable,
 a structure for the whole of one's strife.
 
-For thirteen years in {{p|Mecca}}, Muhammad preached
-and was persecuted by the Quraysh,
-whose economic and religious order
-depended on the pagan pilgrimage flesh.
+For thirteen years in {{p|Mecca}} he would preach,
+and the Quraysh, who held the {{p|Kaaba}}'s keys,
+fought him; whoever held the word would teach
+the pilgrims at the house, and take their fees.
 
 His early converts were slaves, women, poor,
 outsiders, those without tribal protection.
@@ -4957,10 +4962,10 @@ were expected by Muhammad to recognize him
 as a prophet in the Abrahamic line.
 When they refused, the qibla changed from the rim
 
-of {{p|Jerusalem}} to {{p|Mecca}}. The fast was
-changed from {{x|Yom Kippur}} to {{x|Ramadan}}.
-The split with {{x|Judaism}} became permanent.
-{{x|Islam}} was now its own religion, untouched ran.
+of {{p|Jerusalem}} to {{p|Mecca}}. The fast
+was moved from {{x|Yom Kippur}} to {{x|Ramadan}}:
+one fast, one prayer, one Abraham, recast
+as the two houses' quarrel, carried on.
 
 War with the Quraysh broke out. The Battle of Badr
 in 624 was the first great victory.
@@ -4992,8 +4997,10 @@ the treaty was broken by Quraysh allies.
 Muhammad marched on {{p|Mecca}} with ten thousand
 and the city surrendered without heavy plies.
 
-Muhammad entered the {{p|Kaaba}}, destroyed the idols,
-proclaimed only one God, forgave most enemies.
+Muhammad came into the {{p|Kaaba}}; there
+its images were cleared, the house made God's;
+he gave its keepers back the key to bear,
+forgave most enemies, and spared the rod.
 It was the triumph of his mission.
 {{p|Mecca}} was now the center of the new community.
 
@@ -5307,10 +5314,15 @@ began with Pepin, a dynasty new.
 Pepin's son was Charlemagne, Charles the Great,
 who would build an empire {{p|Europe}} had not in view.
 
-Charlemagne reigned 768-814. In those years
-he conquered the Saxons (converting them by force),
-and in seven-seventy-four took {{p|Italy}}
-from the Lombards, and pushed the Muslims back at {{p|Spain}}'s doors.
+Charlemagne reigned forty-six years. He fought
+the Saxons for their grove, and in it felled
+the Irminsul, and set the priests he brought
+at their own altars, where their feasts were held.
+
+Seven-seventy-four: he took the land
+of {{p|Italy}} from Lombards; and in {{p|Spain}}
+he pressed the Muslims back with his own hand
+and held the frontier as his own domain.
 
 He did not destroy the Lombard kingdom. He took its crown,
 and called himself Rex Langobardorum, King of the Lombards,^[Charlemagne conquered the Lombard kingdom in 774 and took the title Rex Langobardorum. Its crown is the one later called the Iron Crown of Lombardy.]
@@ -5352,10 +5364,10 @@ Iconoclasm had erupted in the 720s,
 when Emperor Leo III had ordered
 all religious images destroyed, and all their beauties.
 
-The iconoclasts saw images as idolatry.
-The iconodules defended images as windows
-to the spiritual, doors to divine presence.
-The controversy raged for over a century, as the record shows.
+The fight was over who would hold the face:
+the throne, that broke the icons in its name,
+or monks, who kept them in the holy place
+as windows, for a century of flame.
 
 In 787, the {{x|Second Council of Nicaea}}
 affirmed the veneration (not worship) of icons.
@@ -5465,10 +5477,10 @@ Forty thousand temples and shrines were destroyed.
 Two hundred sixty thousand monks and nuns were
 returned to lay life, their wealth deployed.
 
-The motives were mixed. Economic — the monasteries
-held vast untaxed lands. Ideological — Wuzong was
-a Daoist who thought {{x|Buddhism}} was foreign. Xenophobic —
-foreign religions were targeted broadly without pause.
+The cause was land: the monasteries held
+vast fields untaxed, and bronze the mint would take;
+and Wuzong's own Daoist priests would have expelled
+the Buddha's monks, as rivals for one stake.
 
 {{x|Manichaeism}} was virtually wiped out in {{p|China}}.
 Nestorian Christianity, which had entered in the {{x|Tang}},
