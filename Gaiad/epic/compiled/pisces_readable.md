@@ -3181,368 +3181,337 @@ Itself toward earth. The stone arrived that night.
 
 # Chapter 111: Good Mesozoic Friday
 
-The stone struck the shallow sea at {{p|Chicxulub}}
-At twenty kilometers per second—the sum
-Of its cosmic velocity—and the pub-
-Lication of its energy was the drum
+At {{p|Chicxulub}} the stone struck shallow sea,
+Twenty kilometers each second fast;
+Its cosmic speed let loose what there would be
+In ten billion nuclear bombs amassed,
 
-Of ten billion nuclear weapons
-Detonated in a single point
-In a single second—and the reckoning
-Of the physics at the impact's joint
+In one place, in a single second's span,
+And all the physics at the impact's joint
+Was absolute.
 
-Was absolute:
+               The stone broke not; it ran
+To vapor, not to shards, at that one point.
 
-               The stone vaporized—
-Not broke, not shattered—vaporized, and with it
-The limestone seafloor was likewise
-Atomized, and the trillion-ton remit
+The limestone seafloor went to atoms too;
+A trillion tons of wreckage rose and flew:
+Rock, water, the calcium carbonate
+Of ancient reef, up through the vacuum gate
 
-Of debris—rock, water, the calcium
-Carbonate of the ancient reef—went up:
-Up through the atmosphere's vacuum-
-Punched hole, up past the stratosphere's cup,
+That it had punched into the atmosphere,
+Up past the stratosphere, up into space;
+And from that space looked down: a column, sheer,
+White-hot ejecta rising from the place
 
-Up into space—and from space, looked down:
-A white-hot column of ejecta rising
-From the planet's wound, a luminous crown
-Of debris beyond any theorizing
+Of the planet's wound, a luminous crown
+Of wreckage, of a size no mind could dream
+In the {{x|Cretaceous}} world. The shock went down
+Through earth at speed of sound in stone, a scream
 
-That the {{x|Cretaceous}} world could have imagined.
+In which the real and the imagined met;
+The planet rang out like a bell: a quake
+Of magnitude eleven, greater yet
+Than any since the earth began to make
 
-The shock wave traveled through the earth
-At the speed of sound in stone—the imagined
-And the real converging—and the girth
+Its body, heaven and the ground in shock,
+The planet's own lament for its torn face
+Sent through every mantle layer and rock.
+The tsunami followed it in its place:
 
-Of the planet rang like a bell: magnitude-eleven
-Earthquake, the largest seismic event
-Since the formation of the earth, the heaven
-And the ground shaking as the planet's lament
+Waves modeled at three hundred meters tall,
+A prayer of water sweeping through the {{p|Gulf}}
+And the {{p|Atlantic}}'s western shore, the fall
+Of every coastal world, which waves engulf,
 
-For its own wounded surface propagated
-Through every rock and every mantle layer.
+A gulf between the living and the dead,
+A wolf of water, on all things it fed.
 
-The tsunami followed: waves as rated
-By the models at three hundred meters—a prayer
+Then the ejecta fell: what had been thrown
+To space came down again, a fall of stone.
 
-Of water that swept across the {{p|Gulf}}
-And the {{p|Atlantic}}'s western shore—the engulf
-Of every coastal ecosystem, the gulf
-Between the living and the dead—the wolf
+It struck the upper air, the prison sky;
+The friction heated every grain to light:
+The sky caught fire. No metaphor: from high
+Rained down the beads of glass, and they were white
 
-Of water consuming everything.
+With heat, and from the pyre of the stone
+They heated all the air until it broiled;
+The forests burned, not from flame that had grown
+And spread, but from the sky itself, that boiled
 
-                                  And then—
-The ejecta fell. The debris that had risen
-Into space came down again, and when
-It struck the upper atmosphere—the prison
+With radiant heat, a ceiling glowing red
+Of falling wreckage: firestorms worldwide,
+Each forest on the planet burning, spread
+At once; the still and fleeing, side by side,
 
-Of the air—the friction heated every grain
-To incandescence: the sky caught fire.
-Not metaphor: the literal rain
-Of white-hot glass beads from the pyre
+Consumed, the granite and the living wood
+Alike submitted to the burning sky.
+The soot rose next, and did what murder could
+A second time: the pyre, all burned dry,
 
-Of the impact heated the atmosphere
-To broiling—the forests caught fire not
-From any spreading flame but from the sheer
-Radiant heat of the sky's red-hot
+From every forest on the planet sent
+A billion tons of carbon dust to soar
+Into the stratosphere, and there it went
+Into the final night of winter's war,
 
-Ceiling of returning debris—global
-Firestorms, every forest on the planet
-Burning simultaneously, the immobile
-And the fleeing alike consumed—the granite
+The impact winter, and the sun was blocked
+For months, then years; photosynthesis, locked
+Out of the sum, no longer fed the chains
+Of the world's food; and so, as darkness reigns,
 
-And the living wood equally submitted
-To the thermal pulse of the sky on fire.
+When plant and sunlight ceased, the cascade came
+Of starvation:
 
-The soot rose. And the soot committed
-The second murder: the pyre
+                     first the green plants were killed
+In darkness; then the plant-eaters, whose claim
+On life had been the plants; then, unfulfilled,
 
-Of every forest on the planet sent
-A billion tons of carbon particulate
-Into the stratosphere—and there it went
-Into the permanent night of the ultimate
+The pride of predators, which had been fed
+On the plant-eaters. The food web fell through
+From bottom up, its base's giving dead;
+The pyramid was nothing, and it knew
 
-Impact winter: the sun blocked
-For months, then years—the photosynthesis
-That fed the world's food-chains was locked
-Out of the equation—the synthesis
+No floor at all. The great Tyrannos starved.
+Ceratops starved; Hadros starved there beside;
+Sauropos' last great giants, who had carved
+A hundred million years of living, died.
 
-Of plant and sunlight ceased, and the cascade
-Of starvation began:
+In the dark sea, the plankton died, and then
+The fish that ate the plankton died; again
+The mosasaur's food web gave out, and he,
+Mosas, met fate in dark and starving sea.
 
-                      First the plants died
-In the darkness. Then the herbivores, who made
-Their living on the plants. Then the pride
+Plesios, the plesiosaur, who swam
+A hundred thirty million years, a lamb
+Of patience, found the {{x|Mesozoic}} seas
+Gave no welcome in impact winter's freeze;
 
-Of the predators, who made their living
-On the herbivores. The food web collapsed
-From the bottom up—the base's giving
-Cut off, the entire pyramid relapsed
+Pteros, sky giant, Quetzal and his kin,
+The last pterosaurs found no thermal park
+To ride, no fish, no protein to take in,
+In a world that was poisoned and was dark.
 
-Into nothing.
+The ammonites had sailed the ocean's swell
+Since the {{x|Devonian}}; and now they fell.
+Down to the sediment their shells were sown,
+The last motion of a line that had grown
+Four hundred million years, now overthrown.
 
-              Tyrannos starved.
-Ceratops starved. Hadros starved.
-Sauropos' last giants, who had carved
-A hundred million years of living—starved.
+Of every four species, three were killed;
+Each land beast larger than a dog was tolled
+Into the fossil record, there fulfilled,
+In its account of the destroyed, enrolled.
 
-Mosas in the ocean, where the plankton
-Died in the darkness, and the fish that ate
-The plankton died, and the mosasaur's plankton-
-Fed food web collapsed—Mosas met his fate
+And this is {{x|Good Mesozoic Friday}}:
+Death of the {{x|Mesozoic}} world, the void
+The asteroid opened in the midday
+Of life at its most complex, all destroyed.
 
-In the dark and starving sea.
-
-                              Plesios—
-The patient plesiosaur, who had swum
-For a hundred and thirty million years—the flows
-Of the {{x|Mesozoic}} ocean gave her no welcome
-
-In the impact winter's starving dark.
-
-Pteros—the sky giant, Quetzal and his kin—
-The last of the pterosaurs found no park
-Of thermal to ride, no fish, no protein
-
-In the poisoned and the darkened world.
-
-The ammonites, who had sailed the ocean
-Since the {{x|Devonian}}—their shells were hurled
-To the sediment floor, the final motion
-
-Of a lineage four hundred million years old.
-
-Seventy-five percent of all species died.
-Every land animal larger than a dog was tolled
-Into the fossil record's certified
-
-And permanent account of the destroyed.
-
-This is {{x|Good Mesozoic Friday}}:
-The death of the {{x|Mesozoic}} world, the void
-That the asteroid opened in the midday
-
-Of the planet's greatest complexity—
 Not villainy, not error, not the wrong
-Decision—only the cosmic perplexity
+Decision, but the cosmos and its maze,
 Of a universe that does not belong
+To any of the creatures in its gaze;
 
-To any of its creatures, and the stone
-That fell without intent upon a world
-That had done nothing wrong—the bone
-Of the innocent, the flag unfurled
+The unintending stone that fell to earth
+Upon a world that had done nothing wrong,
+The bone of innocents, the flag of worth
+Of every line that earned its place, its song,
 
-Of every lineage that had earned its place
-Through a hundred million years of evolution
-Brought to nothing by the emptied space
-Between the orbits—no absolution,
+A hundred million years in evolving,
+Brought down to nothing by the empty space
+Between the orbits, with no absolving,
+No justice, and no reason in the case:
 
-No justice, no reason—only the rock
-And the planet, and the mathematics
-Of the crossing orbits, and the shock
-Of a world that ends in aerodynamics
+Only the rock, the planet, and the math
+Of crossing orbits, the shock of a world
+That ends in airflow on the falling path,
+The physics of the unintended, hurled.
 
-And the physics of the unintended.
-
-Let us mourn the {{x|Mesozoic}} dead—
-For the dying was not earned or recommended
-But only the falling of the stone, and the thread
-
-Of a hundred million years of living—cut
-In a single second by a thoughtless sky.
+Let us mourn the {{x|Mesozoic}} dead,
+Whose death was not earned or recommended,
+But the falling stone; and the living thread
+Of a hundred million years was ended,
+Cut in one second by a thoughtless sky
+That had no will to choose who was to die.
 
 
 # Chapter 112: The Mouse and the Chicken
 
-The sky fell on the giants, and in the dust
-The mouse and the chicken dreamed a new world.
-
+The sky fell on the giants, and in dust
+The mouse and chicken dreamed a world made new.
 For this is what survived: the small, the trust-
-Fund of the future, the banners furled
+Fund of the future, banners rolled from view,
 
-So tight they could not be seen—the mammals
-In their burrows, the birds in their hidden nests,
-The crocodilians in the river's channels,
-The turtles in their shells—the guests
+So tight none could be seen: the mammals lay
+In burrows, and the birds in hidden nests;
+In river channels crocodiles would stay;
+The turtles in their shells: these were the guests
 
-Of the {{x|Mesozoic}} who had never been
-The hosts, who had lived in the margins
-And the nighttime and the in-between
-Of the great ones' world—the bargains
+Of the {{x|Mesozoic}} who were not seen
+As hosts, but lived in margins, out of sight,
+And in the nighttime and the in-between,
+And made the small ones' bargain with the height:
 
-Of the small with the world above:
-Let me be insignificant, let me be
-Beneath your notice, and the covenant of
-My smallness will outlast your dynasty.
+"Let me be insignificant," they prayed,
+"Below your notice"; and the pact they made,
+The covenant of smallness, held them fast:
+"Your dynasty my smallness will outlast."
 
-Mammos—the mouse-sized heir of Cynos,
-Of Theraps, of Pelyon, of Synaps,
-Of the great synapsid dynasty whose sigh knows
-The weight of a hundred and eighty million year lapse
+The mouse-sized Mammos, heir of Cynos' seed,
+Of Theraps, of Pelyon, of Synaps' breed,
+Of the synapsid dynasty, whose sigh
+Knew the weight of the long years that went by,
+A hundred eighty million, all the way
+From the {{x|Permian}} crown to this new day:
 
-Between the {{x|Permian}} crown and this new day—
-Mammos crept from his burrow in the gray
-And silent aftermath and looked away
-At a world that was entirely his.
+Mammos crept from his burrow to the gray
+And silent aftermath, and looked away
+Out at a world entirely his own.
+His burrow saved him, home his kind had known.
 
-                                   His burrow
-Had saved him—the underground network
-That the cynodont's vigil had built in the narrow
-And patient art of digging, the earthwork
+The network underground, his house below,
+The cynodont's long vigil, patient, slow,
+Dug in the narrow art: an earthwork, all
+A hundred million years of being small.
 
-Of a hundred million years of being small—
-The burrow was bomb-shelter, pantry, nursery,
-And the mammal who survived the fireball
-Emerged from the most ancient surgery
+Bomb-shelter, pantry, nursery, and all,
+It saved the mammal from the fireball;
+He came out from the surgery of earth,
+Which cut the great, so small would rise in worth.
 
-Of the earth: the cutting-away of the great
-To make room for the small to become great.
-
-And the chicken—if we may call her that:
-The bird, the avian dinosaur, the one
+And the chicken, if we may call her that:
+The bird, avian dinosaur, the one
 Branch of Deinos' tree that did not fall flat
-In the impact winter—the dinosaur's own son
+In the impact winter, dinosaur's son,
 
-Who inherited the sky.
-
-                        Why did the birds survive
+Heir to the sky.
+                    Why did the birds survive
 When every other dinosaur did not?
-The seed. The tiny, hard-shelled, alive-
-Through-winter seed of Angios that was not
+The seed. The tiny, hard-shelled seed, alive
+Through winter, seed of Angios, that was not
 
-Destroyed by the firestorm—the seed that lay
-In the soil, dormant, through the impact winter,
+Destroyed by the firestorm, the seed that lay
+Dormant in soil, through the impact winter,
 And germinated when the first thin ray
-Of sunlight returned—the seed was the splinter
+Of sun returned: the seed was the splinter
 
 Of life that kept the bird alive: the finch
-And the sparrow and the ancestral chicken
-Ate seeds through the darkness, inch by inch
-Of the long winter—while the stricken
+And sparrow and the ancestral chicken
+Ate seeds through the long darkness, inch by inch
+Of the long winter; while, huge and stricken,
 
-And enormous dinosaurs, who needed tons
-Of fresh green matter every day,
-Found nothing—and the smaller ones
-Who ate the seeds found the only way
+The giant dinosaurs, who needed tons
+Of fresh green matter each and every day,
+Found nothing; and it was the smaller ones
+That ate the seeds who found the only way
 
-Through the dark.
+Through the dark. The bird was the dinosaur
+That flew and ate seeds: this combination,
+That humble seeming inventory's store,
+Was the ark that carried all the nation
 
-                  The bird was the dinosaur
-Who flew and ate seeds—that combination,
-That seemingly humble inventory's store,
-Was the ark that carried the entire nation
+Of dinosaurs across the winter's flood
+Of impact; and each bird that sings today
+Is still of Deinos' house the living blood,
+Its final word, though final in no way:
 
-Of the dinosaurs across the flood
-Of the impact winter—and every bird
-That sings today is the living blood
-Of Deinos' house, the final word
+Birds are dinosaurs, and the morning song
+Of robins is the {{x|Mesozoic}}'s long
+And spinal declaration: "I belong
+To the line that walked the {{x|Cretaceous}} plain,
+And though the giants fell, yet still I fly,
+And in my bones the hollow framework's grain
+Of Archon's house still reaches for the sky."
 
-Of the dinosaur that was never final:
-For the birds are dinosaurs, and the morning song
-Of the robin is the {{x|Mesozoic}}'s spinal
-And continuing declaration: I belong
+The crocodile, of Cruros' house the last,
+The river-dweller, remnant of the line,
+The elder brother's, who revived the past
+Of archosaurs, the ancient welter's sign:
 
-To the lineage that walked the {{x|Cretaceous}} plain,
-And though the giants fell, I fly,
-And in my bones the hollow architecture's grain
-Of Archon's house still reaches for the sky.
+He lived, as he had lived beyond the end
+Of the {{x|Triassic}} age: by being small,
+Amphibious, cold-blooded, to extend
+His fasting through the dark, through winter's pall.
 
-And the crocodile—Cruros' last survivor,
-The river-dwelling remnant of the elder
-Brother's line—the ultimate reviver
-Of the archosaur's ancient welter—
+The strange and patient crocodile could slow
+His metabolism almost to nil
+And wait, a year if needed, for the flow
+Of rivers bringing food, while lying still:
 
-He survived as he had survived the end
-Of the {{x|Triassic}}: by being small, amphibious,
-And cold-blooded enough to extend
-His fasting through the dark—the ambiguous
+The clothing of a patience wrapped around
+His ancient body: the survival plan
+That worked before and worked through the profound
+Miles of geological time, his span,
 
-And patient crocodile who could slow
-His metabolism to almost nothing
-And wait—a year, if needed—for the flow
-Of the river to bring the food—the clothing
+His art of doing nothing, slowly, well.
+And Turtlos, the patient one, Paraps' child,
+Who carried his own house through every hell
+The earth could make: the turtle, calm and mild,
 
-Of patience wrapped around the crocodile's
-Ancient body, the survival strategy
-That had worked before and worked for miles
-Of geological time—the strategy
+Untroubled in persistence through the fire
+And dark, and cold, and through the starvation:
+Turtles ask so little to acquire
+Another day, a new generation:
 
-Of doing nothing, slowly, very well.
-
-And Turtlos—the patient one, Paraps' child,
-Who carried his house through every hell
-The earth could make—the turtle's mild
-
-And unbothered persistence through the fire
-And the dark and the cold and the starvation—
-For the turtle asks so little to acquire
-Another day, another generation:
-
-A little warmth, a little water, a leaf,
+A little warmth and water, and a leaf,
 An insect, and the patience of the stone
-That the turtle seems to be—the brief
-And fiery catastrophe could not dethrone
+That the turtle seems to be; and the brief
+Catastrophe of fire could not dethrone
+The creature who was armored long before
+Against the common cruelties in store.
 
-The creature who was already armored
-Against the ordinary cruelties of the world.
-
-So the synapsids returned. The sun-warmed
-And milk-giving and furry, the unfurled
-
-And long-delayed inheritors of the earth—
+The synapsids returned, furry and warm,
+The milk-giving, long-delayed heirs of earth;
 Mammos walked into the {{x|Paleocene}}'s
-Empty world and found it full of berth
-For everything the mammal's body means:
+Bare, empty world, and found it full of berth
+For all a mammal's body was to mean,
+For every way of life and every form:
 
-Into every niche the dinosaurs had held,
-The mammals radiated—small at first,
-Then larger, then enormous—and they spelled
+In every niche the dinosaurs had held
+The mammals radiated, small at first,
+Then larger, then enormous; and they spelled
 The future in the milk with which they nursed
+Their young, the fur that held the body's heat,
+And three small ear-bones, hearing all the world
+In frequencies no reptile's ear could meet;
+And the synapsid banner, long kept curled,
 
-Their young, and the fur that kept them warm,
-And the three ear-bones that heard the world
-In frequencies the reptiles never formed—
-And the synapsid banner was unfurled
+After one hundred eighty million years
+Of nighttime vigil, flew; the ancient house
+Of Synaps took the daylight back; the tears
+Of exile ended; and the tiny mouse
 
-Again, after a hundred and eighty million years
-Of the nighttime vigil—Synaps' house
-Reclaimed the daylight world, and the tears
-Of the exile ended, and the mouse
-
-Became the elephant, the whale, the ape—
-And in the fullness of the mammal's time
-A creature would arise whose escape
+Became the elephant, the whale, the ape;
+And in the fullness of the mammals' time
+A creature would arise, whose long escape
 From the animal's silence would sublime
 
 Into language, and consciousness, and art,
-And would look back at the fossil record's page
-And read the story from the very start—
-And understand.
+Would look back at the fossil record's page
+And read the story from the very start,
+And understand. But that's another age.
 
-                  But that is another age.
+For now, honor the mouse and the chicken,
+Survivors of the {{x|Mesozoic}}'s end,
+The small and the humble and the stricken,
+Inheritors of earth, and who will tend
 
-For now, honor the mouse and the chicken—
-The two survivors of the {{x|Mesozoic}}'s end,
-The small and the humble and the stricken
-Who inherited the earth—and who will tend
-
-The future of the living world from here:
-The mammal from the burrow, the bird from the nest,
-The crocodile from the river, the tortoise without fear—
+The future of the living world, and steer:
+The mammal from the burrow, bird from nest,
+The crocodile, the tortoise void of fear,
 The meek, the small, the patient, and the blessed.
 
-This is the {{x|Easter}} of the {{x|Mesozoic}}:
-The death that is the door to the age of mind,
-The extinction that was not the final stoic
-Conclusion but the opening—and behind
+This is {{x|Easter}} of the {{x|Mesozoic}}:
+The death, the door into the age of mind,
+The extinction not the final, stoic
+Conclusion, but the opening; behind
 
 The falling stone, the rising of the form
-That would one day look up at the stars and know
-That it was looking—and through the storm
+That would one day look up at stars and know
+That it was looking; and, through all the storm
 Of the cosmic visitor's leveling blow,
 
-The future of consciousness was born
-In the dust of the {{x|Mesozoic}}'s last good night—
-And morning came, and the world was torn
-And silent—and the mouse stepped into the light.
+The future of all consciousness was born
+In dust, the {{x|Mesozoic}}'s last good night;
+And morning came, and all the world was torn
+And still; and the mouse stepped into the light.
