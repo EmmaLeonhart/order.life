@@ -2146,19 +2146,19 @@ The courage to evolve with faithful heart.
 
 # Chapter 63: The Children of Two Worlds
 
-From Tetrus, father of the land's great nations,
-Two sons arose who chose two different roads:
-One broke in full from water's old foundations,
-One heard the lake still calling through the woods.
+From Tetrus, father of the landward race,
+Two sons arose who chose two different ways:
+One broke for good from water's old embrace,
+One heard the lake call through the woodland maze.
 
 The first would father those who sealed their birth
 In eggs of air and broke from water's hold,
 Who built their children's lives across the earth
 Where even drought could not diminish bold.
 
-But Amphibos still heard the water calling
+But Amphibos still heard the water's call
 And chose the threshold as his sacred home,
-Where forest met the flood-plain, night-mist falling,
+Where forest met the flood-plain, night-mists fall,
 And coal-swamp vapors rose like silver foam.
 
 "I am the child of two great worlds," he cried,
@@ -2177,12 +2177,12 @@ Where Lepidos spread canopies of blue
 And Meganeura ruled the humid hall.
 
 Four children claimed the kingdoms of his care:
-Great Temna, Rana, Salamandrus, Caecila—
-The warrior, the singer, and the rare
-Blind burrower beneath the ancient floor.
+The warrior Temna; Rana, who would pour
+Her song; then Salamandrus; and the rare
+Blind Caecila, who dug beneath the floor.
 
 Great Temna was his eldest, warrior-born,
-Who built her empire in the darkest fen,
+Who built her realm within the darkest fen,
 She ruled the swamp-edge, midnight until morn—
 The greatest beast that walked the coal swamp then.
 
@@ -2207,23 +2207,23 @@ As tadpoles first who earned their limbs by race,
 As if each life must mirror life's own soul.
 
 Ten thousand kinds of frogs arose and knew
-The ancient secret of the transformation's rite,
+The secret of the transformation's rite,
 Their singing voices rang through evening dew
 And called the summer rainstorm through the night.
 
-Young Salamandrus chose a quieter path—
+Young Salamandrus chose a quiet path—
 Four limbs and long tail trailing through the moss,
 He found the places sheltered from the wrath
 Of sun, and counted moisture as his cross.
 
-From Salamandrus came the pale Proteid
+The pale Proteid was Salamandrus' own,
 Who never grew beyond his larval state,
-Who breathed through gills throughout his life indeed
+And kept his gills through every year he'd known,
 And found within the cave his own true fate.
 
 Last Caecila descended underground
 And shed her eyes like garments worn too thin,
-In worm-rich tropical earth she always found
+In worm-rich tropic earth she always found
 More riches than the sighted found within.
 
 Her skin grew rings like earthworms, smooth and tight,
@@ -2231,9 +2231,9 @@ And many who encountered her would say
 She was no more than worm—but in the night
 She proved herself a hunter in her way.
 
-Thus from Amphibos' ancient, blessed line
+Thus from Amphibos' ancient, hallowed line
 Came frog and toad and salamander bright,
-Came caecilians through tropical earth and vine—
+Came caecilians through tropic earth and vine—
 The children of both water's depth and light.
 
 They teach us of the threshold's sacred truth:
@@ -2252,14 +2252,14 @@ And breathe as freely in the stream as sky.
 Now hear the story of the elder son
 Of Tetrus, father of the nations vast,
 Whose break with water was forever done
-When he had sealed the watery world to past.
+When he had sealed the water-world as past.
 
 For Amnios had learned the ancient art
 Of building worlds-within-a-world with care:
 A sealed and private sea, a work of heart,
 That let his children breathe the open air.
 
-Within the shell he wrapped four sacred veils:
+Within the shell he wrapped four, veil on veil:
 The Amnion kept the waters safe inside,
 The Chorion let the gasping breath prevail,
 The Allantois held waste and turned aside.
@@ -2267,7 +2267,7 @@ The Allantois held waste and turned aside.
 And last the Yolk fed every growing child
 Through all the days before it faced the sun—
 No pond required, no lake, no river wild:
-The egg itself contained what water had done.
+The egg held all that water once had done.
 
 "I carry now the sea within my shell,"
 Said Amnios with pride across the land,
@@ -2279,14 +2279,14 @@ The water's edge where any flood or drought
 Could drown or desiccate them—sealed inside
 This private world they safely weather out
 
-Whatever the great land sends against their form:
-The dry-spell, the summer sun, the bitter cold—
+Whatever the land sends against their form:
+The dry-spell, summer sun, the bitter cold—
 Within my egg they shelter from the storm
 And hatch already fit and fully bold."
 
 The coal-swamp logs where hollow chambers wait
-Became his nursery in the ancient time,
-Where Hylonomus would find his destined fate
+Became his nursery in ancient time,
+Where Hylonomus found his destined fate
 And Archaeothyris lived in years sublime.
 
 Two sons bore Amnios to carry on
@@ -2297,17 +2297,17 @@ And Sauros, whom we tell of by and by.
 For Sauros took the world of scale and claw
 And built his dynasty of dragon-kind,
 But Synaps followed a more inward law
-And grew toward warmth and wakefulness of mind.
+And grew to warmth and to a waking mind.
 
-Synaps was born with a second jaw
-Unique among the amniotes of the age—
+And Synaps was born with a second jaw
+Alone of amniotes in all that age—
 An extra bone that reinforced the maw
 And wrote a different story on the page.
 
 For in that bone slept hearing yet to come:
 Those extra jaw-bones, changed by years, would creep
 Back toward the ear and make of them a drum
-That vibrated from vibrations in the deep
+That shook to every pulse within the deep
 
 And subtle sounds of air—but that would take
 A hundred million years of patient change—
@@ -2321,23 +2321,23 @@ Of living solar-panel on the track
 
 Of warming up before the hunt began
 When morning cold still chilled the swampland air—
-A warrior king whose evolutionary plan
+A king of war whose evolution's plan
 Had given him an edge beyond compare.
 
 Like Dimetron, his sons would later be
 With great sails spread to glory in the sun,
 The masters of their age who'd hunt and see
-Their dynasty grow tall before the {{x|Permian}}'s done.
+Their line grow tall ere the {{x|Permian}}'s done.
 
-From Pelyon would rise the house of Theraps—
+And from Pelyon the house of Theraps grew,
 More upright, faster, with a keener brain,
-Their lower jaws grew thinner with collapse
-Of bones that other uses would obtain.
+Their lower jaws thinned out as bones withdrew
+To other uses they would yet obtain.
 
 For some of Theraps' scattered bones would move
 In ages hence along the jaw toward new
 And hearing's fine and delicate-carved groove
-Where vibrations deep and whispered could come through.
+Where tremors deep and whispered could come through.
 
 And from Theraps would come great Cynos bright:
 The dog-toothed ones with whisker-bearing skin,
@@ -2345,7 +2345,7 @@ Who lived in burrows warmed throughout the night
 By bodies that kept heat contained within.
 
 But that is yet a story far away—
-For now Synaps walks the coal-swamp ground
+For now Synaps walks the old coal-swamp ground
 Beneath the Lepidos trees' shadowed sway
 Where hollow logs his nursery has found.
 
@@ -2356,7 +2356,7 @@ Their young in sealed eggs break no ancient spell
 
 But give a gift of portable ocean
 To every child who hatches into light,
-And show through evolution's slow devotion
+And show through evolution's devotion
 That sealed within can mean both safe and right.
 
 So honor those who learned to carry home
@@ -2366,31 +2366,31 @@ But plant their children where their children need.
 
 From Amnios' covenant with the dry
 To Pelyon's solar sail of ancient bone,
-The synapsids learned to live beneath the sky
+Synapsids learned to live beneath the sky
 And make the coal-swamp forest all their own.
 
 
 # Chapter 65: The Dragon Kindred
 
-Now of the second son of Amnios hear—
+Now to Amnios' second son lend ear—
 Great Sauros who would father all the scale
-That shimmered through the forest every year
+That shimmered through the forest far and near
 And gave the world its dragons in their tale.
 
 Where Synaps turned his extra bones toward heat
 And warmth within, great Sauros chose the way
-Of armor, scale, and claw to meet
-Whatever challenges would come his way.
+Of armor, scale, and claw, prepared to meet
+Whatever challenge came by night or day.
 
 He hollowed out his skull with window-vaults—
 Two openings behind each eye so clear
 That made his bite more powerful—no faults
-Could slow the jaw of one with nothing to fear.
+Could slow the jaw of one who knew no fear.
 
 These Temporal Fenestrae, windows bright
 Behind the eyes, would mark his every son:
 Whichever children carried two in sight
-Were Diapsids—to the dragon's run
+Were Diapsids, born kin to the dragon's run:
 
 The lineage that leads to claw and wing
 And scaled skin cold against the morning air,
@@ -2398,34 +2398,34 @@ To everything that makes the forest ring
 With ancient sound of those who scale and snare.
 
 But first his elder son Paraps held close
-The older style of solid, sealed-in skull—
+The older style of skull, all solid, sealed—
 No windows in his cranium; of those
-Who sought security complete and full.
+Who sought for full security, a shield.
 
-From Paraps would come the patient ones
+From Paraps there would come the patient ones
 Who built their shells around them like a home:
 The Turtlos line, the armor-bearing sons
 Who'd carry fortress-houses as they'd roam.
 
-A shell above, a shell below the ribs
+A shell above, below the ribs a shell
 That fused into a carapace and plate—
-No armor in the world more strong than this:
+No armor in the world could guard so well:
 A house the turtle carries to his fate.
 
-The younger son Eureps chose to own
+The younger son, Eureps, would choose to own
 The windows—two behind each eye so wide—
 And from him would grow kingdoms still unknown
 To any creature walking at his side.
 
-For from Eureps came the great divide
+For from Eureps there came the great divide
 In two great lines that split beneath the trees:
-Great Squamos, whose descendants multiply
-Through every form of lizard, snake, and these
+Great Squamos, whose descendants still abide
+In every form of lizard, snake, and these
 
 Who hold the oldest lineage of all—
-The tuatara in his island fastness,
+The tuatara, island-kept and old,
 Last of a line that heard the ancient call
-Of Sauros' children in their {{x|Carboniferous}} vastness.
+From Sauros' vast {{x|Carboniferous}} fold.
 
 His children bear the scale of lizard-kind
 From mountain height to tidal rocky shore,
@@ -2437,7 +2437,7 @@ Would build toward something no one yet had dreamed:
 A lineage of rulers coming through
 The ages in a dynasty that seemed
 
-Impossible from where they started here
+Impossible from that first small frontier
 In hollow log among the coal-swamp floor—
 But Archon's children would in time appear
 As crocodilians by the river's shore,
@@ -2495,19 +2495,19 @@ Where Meganeura ruled the humid air
 And coal-swamp vapors rose from forest bed
 To fill the world with warm and fertile care.
 
-First Blattus claimed the coal-swamp floor
+First Blattus claimed the coal-swamp's sodden floor
 As his great kingdom, warm and damp and wide—
 His children filled the rotting wood with more
 New generations than the swamp could hide.
 
 The cockroaches, the most ancient of all
-Who walked the {{x|Carboniferous}} in such sum
+Who filled the {{x|Carboniferous}} worldwide
 That scholars gave the era's ancient call
-"The {{x|Age of Cockroaches}}" in studies come—
+"The {{x|Age of Cockroaches}}," the name applied—
 
 Ten thousand times the number of a man
 In generations counted from the first,
-Blattus spread his dynasty and clan
+Great Blattus spread his dynasty and clan
 Through every crack and crevice, quenching thirst
 
 And hunger on the fallen leaf and bark
@@ -2515,24 +2515,24 @@ And every kind of plant-decay that fed
 His millions through the forest's warm and dark
 And steaming spaces where the coal swamp spread.
 
-From Blattus too would come a colony
-Of strange wood-eaters in a later age:
-Termitios, who'd build their monarchy
-In mounds of royal social heritage—
+From Blattus too a colony would spring
+Of strange wood-eaters in an age ahead:
+Termitios, who'd build beneath a king
+And queen, in mounds of royal kinship bred—
 
 Where workers tend the royal line alone
-And soldiers guard the tunneled passage-way,
+And soldiers guard the tunnel passage-way,
 And queens lay eggs upon a living throne
 While millions toil in darkness every day.
 
 Then Orthopteros leapt across the land
 With powerful rear legs that stored the force
-Of a thousand springs at evolution's hand—
+Of thousand springs at evolution's hand—
 Each jump a small explosion on the course
 
 Of life lived at the margin of the blade:
 The grasshopper who leaps beyond the reach
-Of any hunter's claw or ambuscade,
+Of any hunter's claw or ambush laid,
 The cricket singing through the summer's breach.
 
 Their songs would fill the night with piercing call,
@@ -2540,25 +2540,25 @@ A language built of friction—wing on wing—
 That called the mate across the evening fall
 And made the coal-swamp forest, summer, ring.
 
-Great Hemipteros was born with mouth
+Great Hemipteros was born with a mouth
 That pierced the stem and drank what flowed within—
 No chewing jaw for him, but always south
-Through bark and leaf to where the sap would begin.
+Through bark and leaf, where flows of sap begin.
 
 His children are the bugs that bear the name
-In truest sense: the aphids, shield-bugs, stink-bugs,
-The cicadas crying out their ancient fame
-Across the summer trees like thunderclaps and drum-thugs
+In truest sense: the aphids, and the bands
+Of shield-bugs, stink-bugs; the cicadas' fame
+Like thunderclaps and drums through summer lands
 
 Of high-pitched song too fast for ear to trace:
 Their call compressed and slowed would be a song,
 But at the speed they live they set the pace
 Of summer afternoons the season long.
 
-But of all Neopter's sons the most
-Who'd multiply beyond all reckoning
+But of Neopter's sons, the one the most
+Who'd multiply beyond all count or bound
 Was Coleopteros, that gilded host
-Of beetles hardened by a covering
+Of beetles, hardened in a casing round
 
 Of shield-wings Elytra that fold above
 The flying wings like armor double-laid—
@@ -2568,11 +2568,11 @@ In every niche that any creature made.
 For beetles number in the hundreds of
 Ten thousand species counted and described,
 And for each kind that's known, there's some thereof
-That no eye yet has seen or pen has scribed.
+That no eye yet has seen, no pen inscribed.
 
 They eat the dung, they eat the wood, they eat
 The living plant and grain and every rot—
-The beetle's adaptability is complete:
+The beetle's adaptation is complete:
 No other order claims so vast a plot
 
 Of insect-kind's dominion on the earth.
@@ -2586,24 +2586,24 @@ Of everything that death and time has freed
 For life to use and recycle once more.
 
 The flies keep order in the rotting shade
-And speed the return of all that falls to dust—
+And speed the return of what falls to dust—
 Without the fly the forest would be stayed
 By its own death, unable to adjust.
 
-In time would come great Hymenos true:
+In time would come Hymenos into view:
 The wasps and ants and bees in future age
 Who'd build their colonies and castles new
-And write the most social chapter of the page
+And write the social chapter of the page
 
 Of insect-kind—where queens command the whole
 And workers sacrifice their single lives
 For something larger than the separate soul:
 The superorganism that thrives and thrives
 
-On coordination past what any mind
+On order far beyond what any mind
 Can hold alone, where each part plays its role
-And individual death leaves none behind
-Since the colony itself becomes the whole.
+And each one's death will leave no gap behind
+Because the colony becomes the whole.
 
 And Lepidopteron would spread his wings
 Of patterned dust in colors past compare,
@@ -2612,27 +2612,27 @@ To every flower-field and summer air.
 
 His children drink through spiraled tongues unfurled
 Into the flower's deep and nectar-bright
-Interior—co-evolvers of the world
-Who'd partner with the flowering plant's delight.
+Heart: they are co-evolvers of the world
+Who'd partner with the blossom's own delight.
 
 But many of these nations yet to come
 Would wait until the coal swamp gave its way
 To drier lands—for now, the restless drum
-Of Neopter's children rules the day.
+Of all Neopter's children rules the day.
 
 The insects show us what becomes of those
-Who multiply their kinds through variation:
+Who branch to thousands through variation:
 A thousand different answers to the woes
 Of living—a thousand-fold salvation
 
-From the single path that cannot bend or shift
+From one lone path that cannot bend or shift
 When change comes calling through the world anew—
 Diversity itself becomes the gift
 That lets the many thrive where few fall through.
 
 So honor Neopter and all his line:
 The beetle's shield, the cricket's midnight song,
-The cockroach in his coalfield pantomime—
+The cockroach in the coal-swamp's dark confine—
 The ones who proved that many could be strong.
 
 
@@ -2641,16 +2641,16 @@ The ones who proved that many could be strong.
 When Minirachne climbed from river's keep
 With Tetra his fair wife upon the shore,
 He left the eurypterid's ancient deep
-And claimed the land that Scorpio had claimed before.
+And took the land Scorpio held before.
 
-But Minirachne was a different kind
+But Minirachne was another kind
 From every arachnid who'd gone before:
-His silk-glands worked upon his abdomen lined
+His silk-glands worked in an abdomen lined
 With Spinnerets that opened every door.
 
 From special glands came threads of liquid light
 That hardened in the air to cables strong—
-Not web-building first, but safety-line of right
+Not webs at first, but safety-line of right
 That trailed behind him through the forest long.
 
 He laid his eggs in silken sacs wrapped tight
@@ -2660,31 +2660,31 @@ And swung above the coal-swamp's midnight breeze.
 
 His son Arachnus learned his father's art
 And raised it to a form of living grace:
-He could spin the silk from every part
-Of his abdomen to fill the empty space
+He learned to spin the silk from every part
+Of abdomen to fill the empty space
 
 Between the roots, between the ancient bark
-Of Lepidos coal-trees rising high—
+Of Lepidos, the coal-trees rising high—
 A geometric net hung in the dark
 That caught whatever moving thing came by.
 
 Eight eyes he had to see from every side,
-Eight legs to work the silk from spinnerets six,
+Eight legs, and spinnerets that number six,
 Two body parts—a life of patient pride
 That weaves its dwelling from his nature's tricks.
 
 His venom liquefied the prey within
-Its wrappings—spider digestion from outside—
-The meal was sucked from where life had been:
+Its wrappings—spider digestion, outside—
+The meal was sucked from where a life had been:
 Arachnus lived with patience as his guide.
 
 Arachnus bore two sons of different build:
-Great Mygalos and nimble Araneo,
+Great Mygalos, Araneo the spry,
 Each one according to his nature filled
-A different kingdom in the world below.
+A different kingdom under earth or sky.
 
-Mygalos was broad and thick and slow
-With fangs that struck downward into prey,
+Great Mygalos was broad and thick and slow
+With fangs that struck straight downward into prey,
 A powerful and patient hunter so
 Who waited for the night to hunt by day.
 
@@ -2694,9 +2694,9 @@ And there they waited for the vibrant sound
 Of footstep crossing through the moonlit night.
 
 The trapdoor spider is among his line—
-Who builds a hinged door from silk and earth
+Who builds a hinged door out of silk and earth
 And lies in ambush in that tunnel fine
-Until the vibrations tell of some thing's worth
+Until vibrations tell of something's worth
 
 As prey that passes over the concealed
 And patient entrance to his silken lair—
@@ -2704,13 +2704,13 @@ Then strikes with lightning speed to have revealed
 That nothing crosses safely over there.
 
 The tarantula, great and patient too,
-Is Mygalos' daughter grown to size
+Is Mygalos' great daughter grown to size
 That makes the children of the forest blue
 With caution underneath the ancient skies.
 
-But Araneo was the innovator—
+But Araneo found a newer art:
 His fangs worked side to side with clever thought,
-And he became the ancestor and greater
+And he became the ancestor, the start,
 Progenitor of thousands kinds who wrought
 
 Their geometric miracles between
@@ -2718,23 +2718,23 @@ The branches of the coal-swamp forest tall:
 The orb web strung in morning dew-drop sheen
 That glistens like a jewel in the hall
 
-Of ancient light that pierced the canopy—
+Of ancient light that slanted through the green—
 A trap so fine that even he who knows
-It hangs there walks into it foolishly,
-For all that flies must pass where Araneo sows.
+It hangs there walks into it, all unseen:
+Who flies must pass where Araneo sows.
 
 The spiral thread coated with sticky bead,
 The frame thread dry for walking—he could feel
 With every leg what vibrations need
-A response—what struggles, what is real
+A swift response—what struggles, what is real
 
 And living versus what is only wind
-Or fallen leaf or raindrop on the line:
+Or fallen leaf or raindrop on the twine:
 His body is a sensor that has pinned
-The world to information most refined.
+The world to information's fine design.
 
 In coal-swamp logs where Amnios had laid
-His sealed eggs, the spiders too would roam
+His sealed-in eggs, the spiders too would roam
 Through every crack and tunnel where the shade
 Of ancient bark gave darkness for a home.
 
@@ -2750,23 +2750,23 @@ And weave a world wherever you may roam.
 
 The spider needs no stone and needs no wood—
 He needs only himself and open space
-And time enough to work as only he could
+And time enough to labor as he could
 In patterns that repeat from place to place.
 
-So honor Arachnus and his woven line:
-The patient builders of the geometric dream,
+So honor Arachnus, his woven line:
+The builders of the geometric dream,
 Who made of their own bodies something fine
 And caught the living world within their gleam.
 
 From Minirachne's silken safety-thread
 To Araneo's orb hung bright with dew,
-The web-weavers show that those ahead
+The web-weavers show us that those ahead
 Are often those who build from what they knew
 
 Was always theirs—the thread already there
 Inside the body, waiting to be spun
 Into a home of breathtaking and rare
-And functional beauty under the risen sun.
+And functional beauty beneath the sun.
 
 
 # Chapter 68: Janusicthus' Ray-Finned Multitudes
@@ -2776,7 +2776,7 @@ And traded water's world for open air,
 The waters still held under heaven's hand
 A nation greater than all those who'd dare
 
-To leave—for Actinus, son of bright
+To leave—for Actinus, the son of bright
 Osticthus, ruled the realm of water's flow
 With fins of spine and membrane, each so right
 For cutting through the current's ceaseless go.
@@ -2786,28 +2786,28 @@ It filled with gas to make him weightless there,
 Suspended in the water day and night
 As if the water were his form of air.
 
-And Actinus and fair Andrea Lepis
-Laid nine hundred eggs with patient care—
-So many futures sown like seeds in this
-One season, filling every water there.
+Actinus, fair Andrea Lepis too,
+Together laid nine hundred eggs with care—
+So many futures sown like seeds; and through
+One season they filled every water there.
 
 His eldest sons were Bichiros the first,
 Who kept the ancient body-plan most pure:
 His scales like plates of bony stone hard-cursed
 In fossil record—scales that would endure.
 
-The bichirs of the deepest {{p|African}} streams
-Still carry Bichiros' ancient form today—
-They breathe both air and water, feeding on dreams
+The bichirs in the deep {{p|African}} streams
+Still bear Bichiros' ancient form today—
+They breathe both air and water, feed on dreams
 Of prey in mudflat shallows after day.
 
 Their lobed pectoral fins push through the mud
-In flood-season shallows, walking-like,
+In shallows of flood-season, walking-like,
 And when the dry-spell comes and waters flood
 Recede, they breathe the air—a living spike
 
-Between the ancient world and the world today,
-A living bridge from one age to the next
+Between the ancient world and ours today,
+A living bridge from one age to the rest,
 Who shows that some find better than the way
 Of change: the ancient form, forever blessed.
 
@@ -2817,18 +2817,18 @@ Who'd grow to massive length in every state
 Of river, sea, and lake where water shines.
 
 The sturgeon bears no ordinary scale
-But rows of bony scutes along the side,
+But bony plates in rows along the side,
 And searches with barbels that always trail
 Along the muddy bottom for his guide
 
 To food concealed beneath the river's floor—
 A patient bottom-feeder of great age
-Who's outlasted dynasties of yore
+Who has outlasted dynasties of yore
 And writes his story on the oldest page.
 
-His cousin Paddlos searches too
+His cousin Paddlos hunts and searches too
 With paddle-shaped snout sensing what swims near,
-Detecting fields of electricity through
+Who senses fields electric moving through
 The river's depth where prey cannot appear
 
 To hide from those whose senses reach so wide
@@ -2836,15 +2836,15 @@ Beyond the water's murk and cold and deep—
 The paddlefish whose ancient family's pride
 Is sensing what the clearest eye can't keep.
 
-From these would rise Holosteos' branch
-Whose ganoid scales gleam like ancient mail—
+From these would rise Holosteos' great branch
+Whose ganoid scales would gleam like ancient mail—
 The garfish of the river and the ranch
 Of southern waters tells the oldest tale
 
 Of those who've lived since dinosaurs have died
 And kept the body-plan of ancient time,
-The gar that lurks with ambush's deadly pride
-Beneath the duckweed and the waterweed's rhyme.
+The gar that lurks with ambush-deadly pride
+Beneath the duckweed and the water's rhyme.
 
 The bowfin is another relic true
 Of Holosteos' patient ancient line,
@@ -2852,39 +2852,39 @@ Who breathes both gill and lung when waters blue
 Turn shallow, warm, and lacking in design
 
 For normal breathing—then he gulps the air
-And keeps alive through August's oxygen-thin
-And stagnant summer pools beyond compare
-In any modern fish's discipline.
+And lives through August, oxygen grown thin,
+Through stagnant summer pools beyond compare
+Where no more modern fish could breathe within.
 
 But from Actinus' greatest gift would spring
-At last the Teleosteos vast—
+At last the Teleosteos, the vast—
 The total bony fish who'd come to bring
-Their numbers to an empire unsurpassed.
+Their numbers to a kingdom unsurpassed.
 
 Two jaws instead of one—the upper jaw
 That could protrude beyond the mouth and reach
-For prey with explosive speed, a flaw-
+For prey with an explosive speed, a flaw-
 Less feeding mechanism none could teach
 
 Who hadn't learned it through the ancient school
 Of trial and error over countless years—
-Teleosteos made this innovation's rule
-The key to conquering all frontier.
+Teleosteos made of this the rule,
+The key to conquer all the far frontiers.
 
-From deep ocean trench to mountain lake,
-From tropical reef to arctic sea of ice,
+From deepest ocean trench to mountain lake,
+From tropic reef to arctic sea of ice,
 His children filled each niche for feeding's sake
 And built their nations at whatever price
 
-Evolution asked of them to pay
+That evolution asked of them to pay
 In form and function, color, size, and taste:
 The salmon running home to die and lay,
-The flying fish who leaps from ocean's face,
+The flying fish who leaps in airy haste,
 
 The anglerfish with glowing lure below,
 The seahorse where the father bears the young,
 The clownfish in his anemone's glow—
-All Actinus' children, every one.
+Are all Actinus' children, from him sprung.
 
 He shows us that the patient staying-in
 When others choose to leave can be as wise:
@@ -2896,14 +2896,14 @@ In forms past what imagination dreams,
 In every water under sun and cold:
 The ones who stayed made more than what it seems.
 
-Honor the ray-finned multitudes who fill
+Honor the ray-fins' multitudes who fill
 The rivers, lakes, and all the ocean's span—
 The greatest vertebrate dynasty still,
-Whose legacy outshines any other plan.
+Whose legacy outshines each other plan.
 
-From Bichiros' ancient plate-scaled dignity
-To Teleosteos' empire without end,
-The ray-finned fish display to all and free
+From Bichiros, plate-scaled, of ancient grace,
+To Teleosteos' realm without end,
+The ray-fins show to all in every place
 How staying in the water can transcend
 
 The migrations of the ambitious who
@@ -2915,9 +2915,9 @@ And unexplored and vast and ever shore.
 # Chapter 69: The Naked Seeds
 
 Where Lycos spread his canopy of spores
-And arborescent club-trees ruled the swamp,
-Where ancient fog rolled in from distant shores
-And coal-swamp vapors made the forest damp,
+And arborescent club-trees ruled the bog,
+Where ancient mist rolled in from distant shores
+And coal-swamp vapors thickened into fog,
 
 A different kind of tree had learned to stand
 Against the dry-spell and the season's change:
@@ -2925,14 +2925,14 @@ Great Gymnos, son of Phyllon, found his hand
 Could hold what spores could not across the range
 
 Of drier hillsides where the swamp's wet edge
-Gave way to ridge and upland far from water—
+Gave way to ridge and upland, far and dry—
 He built a seed, a sealed and private pledge
-Of life delivered to the following quarter
+Of life delivered, though the year went by,
 
-Of next year's rain through all the drought between:
+To next year's rain, through all the drought between:
 The naked seed set free upon the wind
 Without a flower's case to wrap it clean—
-Just seed and scale and hope, nothing pinned
+Just seed and scale and hope, with nothing pinned
 
 To being near a pond or river's strand
 Where spore-borne plants required water's kiss
@@ -2951,7 +2951,7 @@ Of ovule where my children start to grow."
 
 Four children bore great Gymnos in his days
 To carry on the naked-seeded line:
-First Cordaios, lord of coal-swamp ways,
+First Cordaios, the lord of coal-swamp ways,
 Then Cycados, then Conifera fine,
 
 And last of all came Ginkga ancient-old
@@ -2960,47 +2960,47 @@ To stand alone like living stories told
 From when the dinosaurs would walk no more.
 
 Great Cordaios was the first to tower
-Above the {{x|Carboniferous}} forest floor:
+Above the old {{x|Carboniferous}} floor:
 A tree of forty meters, hour by hour
 He'd grown to match the Lepidos before.
 
 His long and strap-like leaves were something new—
 No frond, no scale, no spore-cone here below,
 But blade-like foliage catching every view
-Of sunlight filtering through the forest's glow.
+Of sunlight filtered through the forest's glow.
 
 His seeds hung naked on the outer scales
 Of female cones that opened to the air—
 No shelter but the wind that never fails
 To carry tiny seeds to somewhere fair.
 
-And Cordaios grew beside the swamp
-In vast and shadowy groves of coal-to-be
+And Cordaios grew close beside the swamp
+In vast and shadowed groves of coal-to-be
 That would in ages hence give flame its stomp
 On industry—his body, crushed, set free
 
 As energy for those who mine the seams
 Of mountain ranges in the modern years:
 The carbon that he built from ancient dreams
-Now rises with the smoke that engineering bears.
+Now rises with the smoke of engineers.
 
 But Cycados had chosen something strange:
 He grew more slowly, kept his fronds like palms,
 And learned to live across the widest range
 Of seasons, drought, and heat without the qualms
 
-Of quick growth—patience was his strategy,
+Of quick growth—patience was the path he chose,
 A trunk as round as barrel, soft inside,
-With fronds that crowned him in a symmetry
+With fronds that crowned him, set in even rows
 Of ancient beauty and unchanging pride.
 
-His partnership with root-dwellers that
-Fixed nitrogen below the ground
-Was chemistry more subtle than combat—
+His partnership with dwellers at the root
+That fixed the nitrogen below the ground
+Was chemistry more subtle than dispute—
 The gift of partnership that always found
 
-Enriched soil around him, so the world
-Where cycads spread their fronds and grew their cones
+Enriched the soil around him, so the world
+Where cycads spread their fronds, their cones full-grown,
 Was richer than the bare land left unfurled
 By those who worked in solitude alone.
 
@@ -3010,14 +3010,14 @@ On mountainsides and ridges bare and bold
 Where other trees would freeze or fail to call
 
 The growing season long enough to fill
-A full canopy of leafy green—
+A full and leafy canopy of green—
 So Conifera built a needle still
 And small that slows the water-leaving scene.
 
 The needle: leaf reduced to spike so fine
-That winter winds cannot desiccate
+That winter winds can never parch or drain
 Or dry it out—the resin and the pine
-Of waxy coating let him operate
+Of waxy coating let him still remain
 
 Through all the seasons, even when the cold
 Has stripped the broad-leafed trees of every blade—
@@ -3034,42 +3034,42 @@ A fan-shaped leaf like none that came before,
 Who'd watch the dinosaurs both rise and fall
 And still be standing after all their roar
 
-Had faded into stone—the ginkgo tree
-That {{x|Buddhist}} monks would tend in temple courts,
-Who'd stand through every age with dignity
-And make of permanence the highest sort
+Had faded into stone. The ginkgo stands,
+Tended by {{x|Buddhist}} monks in temple court,
+With dignity through every age; he hands
+On permanence, the very highest sort
 
-Of evolutionary wisdom: being old
-Is being tested and being found to last,
+Of evolution's wisdom: being old
+Is to be tested and be found to last,
 And Ginkga's children tell the world they hold
-A place no force has managed to erase past.
+A place no force has razed, though ages passed.
 
 The naked seed teaches us that sometimes
-The unenclosed and open carries more:
-No flower's bright advertising—only rhymes
+What lies uncovered, open, carries more:
+No flower's bright display—but only rhymes
 Of wind and chance to find the waiting shore
 
-Of fertile soil where the naked seed
+Of fertile soil, where now the naked seed
 Can root and grow without a mother's care—
-Self-sufficient, sealed against all need
+All self-sufficient, sealed against all need
 For anything but earth and light and air.
 
-Honor great Gymnos and his naked-seeded line:
+So honor Gymnos' naked-seeded line:
 The cycad's patience, conifer's cold might,
-The cordaitalean grove beside the brine,
+Cordaitalean groves beside the brine,
 The ginkgo standing through all change in sight.
 
 From Gymnos' hillside where the wind blows free
 To forests that shall outlast all we know,
-The gymnosperms remind us to be
+The gymnosperms remind us all to be
 The ones who plant where others dare not go.
 
 
 # Chapter 70: The Lords of Ink
 
-In chapters long before, the nautiloid
-Had built his coiled shell of chambered pride
-And ruled the ancient seas where all deployed
+The nautiloid, in chapters long before,
+Had built his coiling shell of chambered pride
+And ruled the ancient seas, where all would pour
 Their forces in the ocean's deep and wide.
 
 Two paths diverged from that ancestral coil:
@@ -3078,29 +3078,29 @@ The other chose to shed that calcite toil—
 And each would win a glory of renown.
 
 Ammonos kept the outer shell and grew
-Its whorls in patterns ever more ornate:
+Its whorls in patterns ever more refined:
 The suture lines that held each chamber true
-Grew folded, fractal, beautifully intricate—
+Grew folded, fractal, intricately lined—
 
-From simple curves to gothic tracery
+From curves to gothic tracery's display
 Of saddles, lobes, and ridges intertwined,
-As if the shell itself were artistry
+As if the shell itself were art at play
 That nature carved but never quite defined
 
-In any final form—for Ammonos
-Wore every variation shell could take:
-Some broad as cartwheels, flat as river stones,
-Some tall and narrow like a coiled snake,
+In any form—for Ammonos would own
+Each variation that a shell could take:
+Some broad as cartwheels, flat as river stone,
+Some tall and narrow as a coiling snake,
 
-Some spined with thorns, some smooth as polished bone,
+Some armed with thorns, some smooth as polished bone,
 Some small as coins and some as large as men—
-No cephalopod has ever matched the throne
+No cephalopod has since claimed the throne
 Of shell diversity he held back then.
 
 Through every ocean, warm and cold alike,
 From shallow reef to deep abyssal floor,
 His children filled each niche and every strike
-Of evolutionary fortune opened more—
+Of evolution's fortune opened more—
 
 So many forms that those who study stone
 Cannot untangle who begat whom next:
@@ -3108,42 +3108,42 @@ The tree of Ammonos remains unknown
 In all its branching—tangled, rich, and vexed.
 
 Yet all of them were taken in the end:
-When the great dying struck the {{x|Mesozoic}}'s close,
-Not one of Ammonos' line would bend
+When dying struck the {{x|Mesozoic}}'s close,
+Not one of Ammonos' long line would bend
 Or find a refuge from those final throes.
 
 The nautiloid survived—the ancient form—
 But every ammonite was swept away,
 Their shells now spiral fossils from the storm
-Of extinction's unforgiving day.
+Of their extinction's unforgiving day.
 
-But from that shell-coiled lineage one would spring
+But from that coiled lineage one would spring
 Who chose a different path for all his kind:
 Coleios turned the shell to inner thing
-And let the body flow unshelled, resigned
+And let the shell-less body flow, resigned
 
 To no fixed form—for if the shell is hid
 Then no shell-crushing jaw that ever grew
 Could crack it—every jaw of every squid-
-Killer aimed at shells that it once knew
+Killer had aimed at shells that once it knew,
 
 Was visible, projecting, outer-worn:
-But Coleios put his shell inside
+But Coleios had put his shell inside
 And left his predators forever torn
-Between a shape they knew and what they'd find.
+Between the shape they sought and what he'd hide.
 
 No outer armor—only speed instead,
 And jet-propulsion, water-forced and fast:
 He squeezed his muscled mantle, shot ahead
-Through open water, leaving predators last
+Through water, leaving predators outclassed
 
 Who'd aimed at where he'd been a breath before—
 The rocket of the ancient ocean's hall,
 Who turned the very water to a roar
 Of thrust and found escape beyond them all.
 
-Four children had great Coleios in his time:
-First Belemno, whose internal shell remained
+Four children had Coleios in his time:
+First Belemno, whose inner shell remained
 As solid cylinder of calcite prime—
 A bullet in his flesh that strength maintained.
 
@@ -3153,17 +3153,17 @@ Like bullets scattered on the ocean's leas
 Their rostral shells in limestone strata mount
 
 In layers feet-deep—witness to the age
-When Belemno's children ruled the waters cold
+When Belemno's young ruled the waters cold
 And hungry—fossil-filled on every page
 Of limestone cliff from young to very old.
 
 Then Sepos turned the shell to softer page:
-A flat and porous cuttlebone that bold
-And buoyant kept him in the middle column,
+A flat and porous cuttlebone, his own,
+Him buoyant in the column's middle stage,
 Adjusting depth by gas sealed in the bone—
 
-A solemn engineer, precise and solemn,
-Who mastered buoyancy entirely alone.
+A solemn engineer, precise and still,
+Who mastered buoyancy by his own skill.
 
 His skin could ripple with a thousand shades
 In milliseconds—chromatophores bright
@@ -3176,12 +3176,12 @@ A living language that the ocean saves
 From silence, given freely without pride
 
 Or need for listener—the signal spreads
-Across his entire skin at once in flow
+Across his whole skin all at once in flow
 Of rippled meaning, signaling the threads
-Of mood and mate-choice for all around to know.
+Of mood and mate-choice, all around to know.
 
 Young Teuthis shed the inner shell at last
-And kept instead a thin and translucent quill
+And kept instead a thin translucent quill
 Of chitin—ghost of shell from ancient past—
 That gave his long and streamlined body still
 
@@ -3200,18 +3200,18 @@ Of ocean's midnight left great scars of round
 Upon the whale's great face—the sucker's mark
 Of combat in the deep where light's not found.
 
-But Octopos dissolved the shell entire—
+But Octopos dissolved the shell outright—
 Not quill, not cuttlebone, not rostra stayed—
-And in that loss gained something to aspire:
+And in that loss he gained a stranger might:
 The boneless body could reshape and wade
 
-Through any gap, beneath any rock or door,
+Through any gap, beneath a rock or door,
 Could pour himself through openings as small
 As any of his beaks—no solid core
 To limit where his eight-armed self could crawl.
 
-And in that fluid bonelessness he gained
-The largest brain relative to size
+And in that boneless fluid form he gained
+The largest brain, relative to his size,
 Of any invertebrate—unrestrained
 Intelligence that chooses to disguise
 
@@ -3222,7 +3222,7 @@ A dreaming—complex mind that always steers
 
 Around the simple answer toward the best:
 He changes color, texture, profile, veers
-From background into invisibility's test—
+From background into vanishing's last test—
 The master of disguise that disappears
 
 By wearing what surrounds him as his skin,
@@ -3246,8 +3246,8 @@ The lords of ink escaped through their own care
 To leave behind a decoy of the dead
 
 Dark water in the shape of what they were.
-So honor Ammonos and his spiral crown,
-And Coleios who made the visible a blur—
+So honor Ammonos, his spiral crown,
+And Coleios, who made the seen a blur—
 Two paths from one coiled ancestor laid down:
 
 One kept the shell and filled the seas with form
@@ -3255,56 +3255,56 @@ In countless variations, broad and tall,
 Then perished wholly in extinction's storm;
 The other shed the shell and outlived all.
 
-From Belemno's bullet to Octopos' mind,
+From Belemno's bolt to Octopos' mind,
 From Sepos' color-speech to Teuthis' reach,
 The coleoids proved that those who leave behind
 The visible protection find a speech
 
 More powerful than armor—the disguise,
-The speed, the ink, the shapeshifting of form,
+The speed, the ink, the shifting shape of form,
 The distributed mind in eight-armed guise—
-These are better armor than the norm.
+These are a better armor than the norm.
 
 
 # Chapter 71: The Armored Many
 
-Among the crustacean nations of the sea
+Among crustacean nations of the sea
 Whose ancient story reached from far before
-The {{x|Carboniferous}} age, lived one so free
+The {{x|Carboniferous}}, lived one so free
 In body-plan it split the others' lore:
 
 For Malacos had given all his sons
 A body counted in the sum of three:
-The head, the thorax, and the abdomen runs
+The head, the thorax, abdomen, which runs
 Together in a segmentation free
 
-But organized—eight above the waist,
-Six below, five more to thorax laid,
-Nineteen segments in the body placed
+But organized—with eight above the waist,
+Then six below, five more to thorax laid,
+And nineteen segments in the body placed
 With care by evolution's patient trade.
 
 For Malacos gave to every son
-The gift of stalked and movable compound eyes
-That saw in every direction, never done
-With scanning—a periscope that never lies
+The gift of compound eyes on stalks that rise
+That looked in all directions, never done
+With scanning: periscope that never lies
 
-About what passes from any side—
-And five pairs of walking legs to stride
-Across the ocean floor with confident glide,
+About what passes by from any side—
+And five pairs of his walking legs to stride
+Across the ocean floor with steady glide,
 And swimmerets below for catching tide.
 
 His four great children filled the ocean's halls:
 First Decapos with his ten-legged might,
 Then Euphausios in the water's calls,
-Then Stomatos with his clubs of might,
+Then Stomatos, whose clubs strike swift as light,
 
 And Isops who would dare to venture last
 From salty sea to fresh to land above—
 The pill bug of the garden, firm and fast
-To roll into his defensive love.
+To roll into a ball, defensive love.
 
-Great Decapos was the master of the claw:
-Ten legs with specialized design—
+Great Decapos, the master of the claw:
+Ten legs he had, of specialized design—
 The front two modified for seize and gnaw
 While eight behind for walking's steady line.
 
@@ -3333,30 +3333,30 @@ One leaves, another moves into the space,
 A whole community of homeless made
 Suddenly housed by one exchange of place.
 
-Great Stomatos of the shallow reef
+Great Stomatos, who haunts the shallow reef,
 Is something beyond any creature known
-For violence—his punch of staggering brief
-Duration hits with force of cavitation's throne:
+For violence—his punch, of startling brief
+Duration, strikes with force that's all his own:
 
 The water cavitates behind his strike
 And sends a second shockwave past the first—
 Two blows with every punch, nothing alike
-In all the animal world—the worst
+In all the world of animals—the worst
 
 And best designed of weapons, club or spear,
 To crack the shells of snails and crab and clam
-With strike faster than the eye can see or hear—
+With strikes too swift for eye to catch, or ear—
 A living bullet's program and exam.
 
 Sixteen types of color-receptor bright
 In his compound eyes compare to our
-Mere three—he sees what we call light
-Divided into spectrums of such power
+Mere three—and so he sees what we call light
+Split up into spectrums of such power
 
 That the colors we cannot name or see
-Are Stomatos' ordinary view:
+Are Stomatos' own ordinary view:
 He lives in a chromatic world set free
-From any limit of our visual cue.
+From limits of our visual cue.
 
 Great Euphausios chose a different path—
 No claw, no hammer, but the patient swim
@@ -3378,40 +3378,40 @@ That swims the ocean—krill's abundant grace
 Sustains the whale, and in that role we find
 That smallness too can hold a sovereign place.
 
-Isops was the bravest of them all
+And Isops was the bravest of them all
 Who heard the call of land and answered it—
 From sea to fresh, from fresh to land's great hall
 He walked on many legs, a perfect fit
 
-For everywhere he tried: the roly-poly,
+Where he would try: the roly-poly, curled,
 The pill bug of the garden's underworld,
-The woodlouse of the rotting log—the wholly
-Terrestrial crustacean, unfurled
+The woodlouse in the log's decaying mound—
+The one crustacean wholly on the ground,
 
 In garden and in forest, field and floor—
 The only crustacean that breathes the air
-Through modified gills that still adore
+Through gills, now modified, that still adore
 The moisture that reminds them water's there.
 
-He rolls into a perfect sphere when touched—
-Not to flee but to present the hardened
-Outside of his armor—not too much
-To ask of one who from the ocean gardened
+He rolls into a perfect sphere at touch—
+Not fleeing, but presenting, hard and stout,
+The outside of his armor—not too much
+To ask of one who from the sea came out
 
-Himself a life in places cold and damp
+And made a life in places cold and damp
 Beneath the stones and leaves where darkness keeps
 Its own community: the pill bug's camp
-Where isopods have claimed the rotting deeps.
+Where isopods have claimed the rotting heaps.
 
 So Malacos teaches us the way
-Of specialization's many roads:
-Not one way to live each single day
+Of all specialization's many roads:
+Not one sole way to live each single day
 But nineteen segments bearing different loads
 
 Of task and talent, each appendage bent
 To specialized perfection by the years—
 From filter-feeding to the punch well-sent,
-From cracking shells to rolling to a sphere.
+From cracking shells to rolling into spheres.
 
 Honor the armored many who have claimed
 Both sea and land and every depth between—
@@ -3421,35 +3421,35 @@ The krill's abundance makes the ocean green.
 
 # Chapter 72: The Ancient Predators
 
-While Actinus and his ray-finned multitudes
-Were multiplying in the waters wide,
-Great Acanthus, son of Chondricthus' broods,
-Had built his dynasty on a different tide.
+While Actinus, with ray-fin multitude,
+Was multiplying in the waters wide,
+Great Acanthus, son of Chondricthus' brood,
+Had built his line upon a different tide.
 
-For Acanthus bore no bone within his form—
-Only cartilage, that softer living frame
+Acanthus bore no bone within his form—
+But cartilage, a softer living frame
 That bends and flexes in the ocean's storm
 And serves him better than the rigid came
 
-Of calcified and heavy mineral—
+Of heavy, calcified, and stony kind—
 The jaw itself that first evolved from gill
-Arches long ago was cartilage, and all
-That bone has ever been is cartilage still
+Arches was cartilage, long years behind,
+And bone is but a cartilage that's still
 
 Made hard—and some have found that keeping soft
 Is gift worth more than hardening to stone:
 For cartilage is lighter, heals aloft
-More quickly—the shark keeps what others disown.
+More quickly—sharks keep what others disown.
 
 Acanthus bore two sons of different form:
-Great Elasmos who would always bless
+Great Elasmos, who would forever bless
 The water with his terror in the storm,
-And quiet Chimaera, who chose less
+And the quiet Chimaera, who chose less
 
-Of the open ocean's predatory war
+Of open ocean's predatory fight
 And more of the deep ocean's patient hall—
-To find his food where no competitors are
-And answer the cold deep's ancient call.
+To feed where no competitor's in sight
+And answer to the cold deep's ancient call.
 
 Chimaera's children—ratfish, ghost sharks, deep—
 Grew plates for grinding shells upon their snout
@@ -3461,10 +3461,10 @@ Where light has never reached and pressure kills
 All creatures not adapted, there they go
 And live their quiet lives in coldest frills
 
-Of darkness—the most ancient cartilaginous
-Remaining, little changed from ancient form,
-Who find their food in slowest, painstaking
-Examination of the ocean floor.
+Of darkness—cartilaginous and old,
+Most ancient left, scarce changed from long before,
+And find their food, as patient as the cold,
+By slow examination of the floor.
 
 But Elasmos was built for open speed—
 He split his children into those who flew
@@ -3472,19 +3472,19 @@ Across the open water in their creed
 Of hunting and those who spread out and grew
 
 Flat to the bottom in a different art:
-Great Selachios, the sharks who cut the blue
+Selachios, the sharks who split the blue
 With every streamlined body shaped in part
-By nothing but the need to cut through
+By nothing but the need to cut right through
 
 The water fast and feel the prey ahead—
 No equal in the sea for any kind
 Of predatory mastery has led
-A creature to such perfection of design.
+A creature to perfection so refined.
 
 For sharks replaced their teeth in endless rows
-That marched from front to back like factory-line—
+That marched from front to back in line on line—
 Each tooth that fell was followed as it goes
-By the next one ready, predesigned.
+By the next tooth in waiting, by design.
 
 No cavity, no toothache, no decay—
 A dozen rows of teeth behind the one
@@ -3496,27 +3496,27 @@ The shark cannot run out of teeth to spare,
 And every tooth is sharp as surgeon's glove
 And serrated for the cutting laid bare.
 
-The {{x|Carboniferous}} seas were golden age—
+{{x|Carboniferous}} seas: a golden age—
 A hundred kinds of shark from every form
 Wrote their diversity on history's page
 Beneath the coal-swamp ocean's ancient storm.
 
-Great Stethacanthos wore upon the stage
+Great Stethacanthos wore, for all displayed,
 Of coal-swamp seas a dorsal fin transformed
-Into a platform bristled and engaged
+Into a platform bristled and arrayed
 With tooth-like denticles—a shape that stormed
 
 All understanding of what fins are for:
 A flat and ironing-board of texture rough
-Atop his back—what evolutionary lore
+Upon his back—what evolution's lore
 Produced this shape we cannot say enough
 
-To settle—the fossil record fails
+To settle it—the fossil record fails
 To tell us what that platform would achieve:
-Display? Aggression? Some tale
+Display? Aggression? Or some other tales
 That we must from uncertainty retrieve.
 
-Young Xenacanthos took to freshwater streams
+Young Xenacanthos took to the fresh streams
 And hunted through the coal-swamp rivers wide
 With eel-like body chasing all his dreams
 Of prey through every turn and eddied tide.
@@ -3531,35 +3531,35 @@ Could build their hungry dynasties and rule:
 The river has its predators to find
 For those who make the freshwater their school.
 
-From Selachios came Batos—rays and skates—
+From Selachios, Batos—rays and skates—
 Who flattened out their bodies to the floor
 And hid in sand with patience that awaits
 Whatever comes to cross the bottom shore.
 
-Their spiracles on top still breathe the water
-When the mouth below is buried deep in sand—
-The hidden predator, the ocean's daughter
+Their spiracles on top draw water in
+When mouths below are buried deep in sand—
+The hidden predator, the ocean's kin,
 Who strikes from underneath with venom-gland.
 
 The stingray's barb along the tail's sure line,
-The manta ray who filtered the open water
+The manta, filtering the water's flow
 With gill-rakes fine as any sieve's design—
-Each found a different way through evolution's order
+Each found through evolution where to go
 
-To serve the heritage of Elasmos' house
+To serve Elasmos' heritage and house
 In form as different as could ever be
 From shark to ray, from predator to grouse
 Of plankton-feeder—yet the same at sea
 
-In cartilage and in the six-gill breath,
-In the live birth or leather-cased egg-purse,
-In the ampullae of {{x|Lorenzini}}'s depth
-Of sense that reads the ocean's hidden verse
+In cartilage, in breath of the six gills,
+In the live birth or leathern egg-case purse,
+In {{x|Lorenzini}}'s ampullae, whose skills
+Of sense can read the ocean's hidden verse
 
-Of electromagnetic field that every
-Living creature generates—the shark
-Can feel you living, feel your heartbeat merry
-In the water from across the dark.
+Of every electromagnetic field
+That living creatures make—so that the shark
+Can feel your living heartbeat, though concealed,
+Within the water, from across the dark.
 
 The shark has seen the dinosaurs arise
 And fall to ash and memory's cold grave,
@@ -3567,14 +3567,14 @@ Has seen the mammals learn to colonize
 The land and sea—and still the shark is brave
 
 Enough to be exactly what it was
-In early {{x|Carboniferous}} seas of coal:
+In the {{x|Carboniferous}} seas of coal:
 A shape so perfect evolution does
 Not need to change—the perfect is the whole
 
 Of what the shark already is and was
 And always has been since the first one swam.
 Honor the ancient predators, because
-The oldest answer is the finest exam
+The oldest answer is the best exam
 
 Of what endurance looks like over time:
 The shark unchanged through every dying age—
@@ -3594,7 +3594,7 @@ Could cross the mountain ranges looming high
 To water what the drying inland plain
 Had always drunk from river, lake, and sky.
 
-Mile by patient mile the drought crept in
+And mile by patient mile the drought crept in
 Where wetness once had ruled with open hand;
 The swamp retreated toward the coast to win
 Its last refuge and leave the middle land
@@ -3604,9 +3604,9 @@ That Lycos raised like living towers wide
 Could not survive the shortage: by degrees
 The standing water fell, the inland tide
 
-Withdrew, and cracking clay replaced the swamp
+Withdrew, and cracking clay replaced the fen
 That Lycos built his coal-age glory on—
-The rotting trunks lay in the airless damp
+The rotting trunks lay airless in the den
 Of dying sediment, compressed and gone
 
 Into the seams of coal that future hands
@@ -3614,19 +3614,19 @@ Would dig for fire—the great lycopsid gave
 His body to the earth's enduring bands
 Of carbon: every forest makes its grave
 
-A gift for ages yet to come. But Lycos
-Himself retreated to the coasts of wet
-Where rainfall still could feed him, and the gross
+A gift for ages yet to come. Then he,
+Great Lycos, drew back to the coasts of wet
+Where rainfall still could feed him, and, rain-free,
 Interior became a stone regret
 
-Of what had been—the {{x|Coal Swamp}}'s glorious reign
+Of what had been—the {{x|Coal Swamp}}'s splendid reign
 Had lasted sixty million years of green,
-Had towered through the {{x|Carboniferous}} main
+Had stood through the {{x|Carboniferous}} main
 And made the richest canopy yet seen.
 
 Now it was ending. And from every ridge
 That rose above the dying swamp-line dry,
-Gymnos had been watching from the bridge
+For Gymnos had been watching from the bridge
 Of highland, where he'd always held the high
 
 And drier ground—the naked seed his gift,
@@ -3636,30 +3636,30 @@ The cone-borne seed across the country cool
 
 And arid to whatever rocky slope
 Or limestone crag would offer any root
-A purchase—Gymnos had been born for hope
-In dryness, born to thrive where swamp took root
+A purchase—Gymnos had been born to cope
+With dryness, born to thrive where swamp bore fruit
 
 Only in wetness—and the drying world
-Was his inheritance at last. He called
-His children and he watched their flags unfurled
-Across the heights: Conifera was called
+Was his inheritance at last. He sent
+His children out and watched their flags unfurled
+Across the heights: Conifera first went
 
 To lead the charge up every barren slope
 Where naked limestone baked beneath the sun—
-She raised her resinous boughs and gave the hope
+She raised her resinous boughs and gave hope
 Of shade and shelter where there had been none.
 
 Her cone-scales held the seed against the dry
-Wherever wind would carry it to land
-On bare stone—Conifera was the pioneer
-Who planted forests on the ridge's hand
+Wherever wind would set it on bare stone:
+Conifera, the pioneer on high,
+Who made the ridge a forest of her own
 
-And proved the gymnosperm could go anywhere
+And proved that gymnosperms go anywhere
 That drying drove the swamp from, fill the space
 That loss had emptied with her living care—
 The highland forest built on fallen grace.
 
-Ginkga with her fan-shaped leaf of gold
+And Ginkga, with her fan-shaped leaf of gold,
 Kept faith with river valleys, finding wet
 Still pooled along the streambeds—she was bold
 Enough to spread along the margins yet
@@ -3667,25 +3667,26 @@ Enough to spread along the margins yet
 Remaining moist, and send her seeds to float
 On every current that could carry them
 To any fertile bank—she wore the coat
-Of adaptability's bright gem.
+Of adaptability, a bright gem.
 
 Cycados took the desert margin's edge
-Where green met dust—armored, short, and stout,
+Where green met dust—all armored, short, and stout,
 Her trunk a cistern on each rocky ledge
 Where she could store what little rain came out
 
-Of {{p|Pangea}}'s miserly and clouded skies—
+Of {{p|Pangea}}'s miserly, clouded skies—
 Her cone at the crown-top bore seeds that fell
 To any scrap of soil; she had no prize
-Of abundance, only the stern spell
+Of great abundance, only the stern spell:
 
-Of endurance, drawing slow from underground
+Endurance, drawing slow from underground
 What little moisture lingered—and she held
-Her ground through drought until the next rain's sound.
+Her ground through drought until the next rain's sound,
+Unbroken, by no dryness ever felled.
 
-So Gymnos watched his children take the world
+So Gymnos watched his children take the land
 That dying swamp gave up without a word—
-Each slope the water left behind was pearled
+Each slope the water left behind was spanned
 With green from cone-borne seed the dry winds stirred
 
 Into each empty height. The naked seed
@@ -3705,25 +3706,25 @@ Too arid for the swamp, the ridges shout
 
 With gymnosperm abundance—resin, cone,
 And needle-leaf against the sun's hard face.
-Honor the ones who made the bare stone home
+Honor those who made the bare stone their own
 And planted life in the departing's place.
 
 
 # Chapter 74: The Therapsid Law
 
-Now Pelyon, that great fin-backed lord
+And now Pelyon, that mighty fin-backed lord
 Who raised the solar sail upon his spine
-To warm himself at dawn and hoard
+To warm himself at dawn and so to hoard
 The sun's heat like a living solar shrine—
 
-Pelyon had been master of the land
-Through all the later {{x|Carboniferous}} age:
+Great Pelyon had been master of the land
+Through all the late {{x|Carboniferous}} age:
 Dimetrodon's great bulk held proud command
 Of every hollow and of every stage
 
-Where synapsid life had tried to be—
+Where synapsids had learned to live and grow—
 The sprawling gait, the cold blood of the night,
-The morning sunning to gain energy
+The morning sunning, energy's slow flow
 Before the hunt: a slow but proven right
 
 Of conquest over those who had no sail,
@@ -3731,12 +3732,12 @@ No way to warm their blood except by sun,
 No strategy but wait until the stale
 And frigid morning finally was done.
 
-But Pelyon's dominion was a bridge—
+But all Pelyon's dominion was a bridge—
 A first attempt at solving the great need
 For warmth—the sail was answer to a ridge
 Of cold that warmer flesh could supersede,
 
-And in the later {{x|Permian}} there arose
+And in the late {{x|Permian}} there arose
 From Synaps' lineage a different kind
 Who found the answer not through dorsal shows
 Of spine-fin but through working of the mind
@@ -3744,17 +3745,17 @@ Of spine-fin but through working of the mind
 And body into something new: Theraps—
 The therapsid law of upright walking—
 Stood from the ground and closed the sprawling gaps
-That Pelyon's ancestors kept stalking
+That Pelyon's old ancestors kept stalking
 
 With elbows out and belly near the earth.
-Theraps pulled his legs beneath his mass
+But Theraps pulled his legs beneath his mass
 And stood more upright—and with every birth
 Of that new posture, every stride would pass
 
 More energy to speed than to the fight
 Against the ground's own gravity—the ones
 Who stood upright could run both day and night
-With lungs not compressed by their own tons
+With lungs no more compressed by their own tons
 
 Of body pressing down on them: for when
 You sprawl, the ribs that carry lungs must bear
@@ -3762,24 +3763,24 @@ The body's weight with every stride, and then
 The sprint and breathe become a choice—compare
 
 The crocodile who cannot sprint for long
-Before he gasps—the sprawling gait binds breath
-To step, so every stride must be the strong
-One traded for the air beneath.
+Before he gasps—the sprawling gait has tied
+His breath to step, so every stride the strong
+One traded for the air he's then denied.
 
 But Theraps stood above the ground's demand
-And breathed while running—lungs released
+And breathed while running, with his lungs released
 From duty to the ribs' supporting hand—
-And this was more than merely increased
+And this was more than merely an increased
 
-Speed or endurance: this was the first step
+Speed or endurance: it began the way
 Toward something warmer, something that could run
-Through cold of night and early morning's slept-
-Through chill and still be hot enough to hunt.
+Through cold of night and early morning's grey
+And hunt in chill before the day's begun.
 
 Theraps found new arrangements for the jaw—
-The dentary bone grew larger, grew
-To dominate the face, and teeth with more
-Complexity replaced the uniform row
+The dentary grew large, and grew to draw
+The face to its dominion; teeth with more
+Complexity replaced the row before
 
 Of simple cone-teeth that his forebears kept:
 Incisors for the grip, a canine fang
@@ -3794,7 +3795,7 @@ Each generation toward the goal of flame
 Within the body that would never need
 The sun to kindle it—internal heat
 That Cynos would achieve, that final creed
-Of warm-bloodedness where cold and heat compete
+Warm-bloodedness, where cold and heat compete
 
 No longer—but that came later. For now
 Theraps walked the {{x|Permian}} land in pride,
@@ -3804,26 +3805,26 @@ To be not passive sun-warmed but inside-
 Warmed by the burning of his food, the slow
 Combustion of the prey he ate to run
 Through every night and morning's cold below
-The horizon of the rising sun.
+The far horizon of the rising sun.
 
 The dinocephalia rose as great
 And heavy-headed masters of the plain—
-Theraps' largest children, who create
-A living battering ram that drove the grain
+Theraps' own largest children, who create
+Like great battering rams that drove the grain
 
 Of fear through every creature on the land—
-Thick skulls for head-butting, wide and stout,
+With thick skulls for head-butting, wide and stout,
 They ruled the middle {{x|Permian}} firsthand
 Before their own extinction's sudden rout.
 
-And Theraps branched in many directions wide:
+And Theraps branched in all directions wide:
 The hunters and the hunted, large and small,
 The armored and the swift and those who tried
-The burrowing life beneath it all.
+The life of burrows underneath it all.
 
-But all of them agreed on this one truth:
-The sprawling gait was ending, and the age
-Of upright walking had arrived—the proof
+But all of them, from eldest down to youth,
+Agreed the sprawl was ending, and the age
+Of upright walking had arrived—its truth
 Was written in each trackway on the stage
 
 Of {{x|Permian}} red desert: prints that show
@@ -3831,36 +3832,36 @@ The feet beneath the body, not spread wide—
 The law of Theraps told the world: below
 The body is where limbs were meant to guide.
 
-Honor the therapsid who stood tall
+So honor the therapsid who stood tall
 And turned the solar sail to inner flame—
 Who gave the mammal's gait to one and all
-And wrote upright into life's own name.
+And wrote the upright into life's own name.
 
 
 # Chapter 75: The Parareptile Fortress
 
-While Theraps built his warmer dynasty
-On synapsid foundations, on the other
-Side of Amnios' ancient family
-Tree, Sauros raised his children—brother
+While Theraps built his dynasty of heat
+On synapsid ground, and on the other
+Side of Amnios' family tree, the seat
+Of Sauros, who raised his children—brother
 
-To Synaps but a different road:
-The sauropsid line, who kept their cold
+To Synaps, but he took a different road:
+The sauropsid line, who kept their blood cold
 And ancient ways beneath a varied code
 Of armor, scale, and patience, bought and sold
 
-In the {{x|Permian}} market of survival
-By different means than Theraps chose.
+In {{x|Permian}} markets of survival
+By means far different from what Theraps chose.
 Sauros had two children at arrival
 On the {{x|Permian}} stage: two different shows
 
-Of being a reptile in a drying world.
-The first was Paraps—parareptile—
-Who heard the world grow hot and dry and curled
-Himself in armor for the hostile trial.
+Of being reptile in a drying world.
+First came the parareptile, Paraps, who
+Had heard the world grow hot and dry, and curled
+Himself in armor as the dangers grew.
 
 For Paraps chose the fortress over speed:
-His skull was solid, anapsid, dense—
+His skull was solid, anapsid, and dense—
 No window in the bone, no lightened creed
 Of airy fenestrae, just the immense
 
@@ -3869,9 +3870,9 @@ A helmet for the head, a shell for all
 The body when his children could provide
 Themselves with plating—and in this great hall
 
-Of armoring, Paraps found his peace.
-The pareiasaurs among his sons
-Were massive, cow-like, walking behind the fleece
+Of armoring, great Paraps found his peace.
+And the pareiasaurs among his sons
+Were massive, cow-like, walking in the fleece
 Of osteoderms—bony buttons, tons
 
 Of them embedded in the skin along
@@ -3880,54 +3881,54 @@ Of armor that no predator too long
 Could penetrate without a weapon's groan
 
 Of effort—Paraps was the fortress class
-Of {{x|Permian}} herbivores, the ones
-Who said to predators: let this pass
-Without an attempt—I am the ones
+Of {{x|Permian}} plant-eating beasts, who'd say
+To any predator: just let this pass,
+Do not attempt me; turn and go away:
 
-Who will not be worth the trying.
-And in his children something persists
+I'm not worth the trouble of the trying.
+And in his children something stays the same
 Through every dying and the undying—
-Turtlos took the pareiasaur's gifts
+For Turtlos took the pareiasaurs' claim
 
 Of bone-embedded armor and refined
 The castle to perfection: drew the plates
-Inside, fused them to the spine and ribcage lined
+Inside, fused them to spine and ribcage, lined
 With bone, and pulled the shell until the gates
 
-Of fortress were the body itself—
-The turtle's shell is ribs transformed,
-The spine fused to the top shelf
-Of the carapace, a form reformed
+Of fortress were the body's very self—
+The turtle's shell is ribs and bone transformed,
+The spine is fused into the topmost shelf
+Of the great carapace, a form reformed
 
-Until the entire body is the wall—
+Until the body, whole, becomes the wall—
 There is no fortress more complete than she
-Who is the fortress, shell and all,
-The living castle roaming free.
+Who is herself the fortress, shell and all,
+The living castle, roaming wide and free.
 
-But Eureps chose the lighter path—
-The second child of Sauros, eureptile,
-Who cut two windows in the skull's girth
-To lighten the weight and recompile
+But Eureps chose the lighter path instead:
+The eureptile, the second child, would bore
+Two windows in the skull's girth, so it shed
+Its weight, and set, more swiftly than before,
 
 The jaw into a faster-snapping frame:
-The diapsid skull with temporal arches
-Where muscle could attach and claim
-More leverage—Eureps marches
+Diapsid skull, with temporal arches
+Where muscle could attach itself and claim
+More leverage; and so Eureps marches
 
-Toward the nimble, toward the quick,
-The skull more open than before
-With fenestrae—the architectural trick
-Of lightening bone to move it more.
+Toward the nimble, onward toward the quick,
+The skull more open than it was before
+With fenestrae—the architect's own trick
+Of lightening the bone to move it more.
 
-And from Eureps' line would come in time
+And from Eureps' own line would come in time
 The archosaurs and lizards, snakes and birds—
 The windows in the skull a paradigm
 Of opened possibility, the words
 
-Of a new evolutionary grammar
-That would speak across the {{x|Mesozoic}} age—
+Of an evolutionary grammar
+That speaks across the {{x|Mesozoic}} age—
 But that was future. Now Eureps' hammer
-And chisel worked in {{x|Permian}}'s early stage.
+And chisel worked in {{x|Permian}}'s first stage.
 
 Paraps and Eureps shared the drying land
 With Theraps' children—different nations
@@ -3935,284 +3936,284 @@ Walking in the {{p|Pangean}} red and grand
 Red desert with their separate stations:
 
 The armored fortress moving through the waste,
-The lighter skull exploring every crevice,
+The lighter skull exploring cracks and sand,
 The upright walker moving with great haste
-Through heat that neither one could practice
+Through heat the other two could not withstand
 
-Standing still within for long—all three
-Were children of Amnios' great gift,
-The shelled egg freed from water's sea,
+By standing still for long—and yet all three
+Were children all of Amnios' great gift,
+The shelled egg, freed from water and the sea,
 The amniote design that gave the lift
 
-Of land-birth to the vertebrate:
-No longer bound to pool or stream
-For spawning, free to populate
-The driest inland of the {{p|Pangean}} dream.
+Of land-birth to the vertebrate's estate:
+No longer bound to any pool or stream
+For spawning, but now free to populate
+The dry inland of the {{p|Pangean}} dream.
 
 Honor Paraps who chose the heavy shield
-And Eureps who chose the window'd skull—
+And Eureps, whose skull the windows broke through—
 Both children of the same ancestral field
-Who built their futures different, both the full
+Who built their futures different, both the true
 
 Expression of what life does with one gift:
 The land itself, the freedom from the tide,
 The dry world's possibility to lift
-Two lineages into their separate pride.
+Two lines of life into their separate pride.
 
 
 # Chapter 76: The Pangean Road
 
-The continents had long been drifting close—
-For hundreds of millions of years the sea
-Had narrowed between each landmass coast to coast
-Until the world became geography
+The continents had long been drifting in,
+For hundreds of millions of years, the sea
+Had narrowed between coasts, grown ever thin,
+Until one land was all the world could be:
 
-Of one: great {{p|Pangea}}, the supercontinent
-That gathered all the land the earth possessed
-Into one mass from tropic to the bent
-And frozen poles—east touching west,
+The supercontinent, great {{p|Pangea}}, pressed
+Together all the land the earth possessed
+Into one mass from tropic to the crest
+Of frozen poles—the east now touching west,
 
 South meeting north across the closing brine
 Of shrinking oceans, mountain ranges thrust
 Where plates collided into one long spine
-Of rock from equator to the dust
+Of rock from the equator to the dust
 
 Of arctic shore—and in the center lay
-The greatest inland ever known:
+The greatest inland ever to be known:
 A vast and arid heart where no sea spray
-Could reach, where desert-red and stone
+Could reach, where desert-red and barren stone
 
 Defined the world for thousands of miles wide—
 No ocean breeze, no monsoon rain could cross
 The mountain ranges ringing every side
-To soften the {{p|Pangean}} interior's loss
+To soften the {{p|Pangean}} inland's loss
 
-Of moisture—only the wildest swings
+Of moisture—only the extremes, the swings
 Of temperature from day to night remained,
 The burning day, the freezing that night brings
-When no ocean's warmth has been retained
+When no warm ocean's heat has been retained
 
-Nearby—a world of extremes without
+Nearby—a world of all extremes, without
 The ocean's moderating breath to calm
 The temperature to something less devout
 To killing heat and cold—a desert psalm
 
 Of desolation sang across the heart
-Of {{p|Pangea}}. But the small ones heard
+Of {{p|Pangea}}. And yet the small ones heard
 A different sermon in it—for the art
-Of being small is this: the word
+Of being small is simply this: the word
 
 Of desert is not death for those whose needs
-Are small enough to fit between the stones,
+Are small enough to fit within the stone,
 Who find their food in every crack that feeds
-On something—who can make their homes
+On something—who can make a home their own
 
 From nothing but a crevice in the rock
 And eat the things the large ones overlook:
-The invertebrate, the insect stock
+The small invertebrate, the insect stock
 Needs not the wealth of river or of brook
 
 To thrive—a fallen leaf, a fallen seed,
 The bodies of the dead, the fungal mat—
-This is enough for Neopter's creed,
-And {{p|Pangea}}'s great interior was that
+This is enough for all Neopter's creed,
+And {{p|Pangea}}'s interior was that
 
 And more: it was a continent of road
-For those with wings to cross it with,
+For those who had the wings to cross it with,
 A highway wider than had ever glowed
-With possibility, a smith
+With possibility, a kind of smith
 
 Of new biodiversity for those
-Who could endure the crossing—Neopter
-Spread his nations along every close
-And narrow pass where scrub and juniper
+Who could endure the crossing. He spread wide,
+Neopter, his nations into each close
+And pass where scrub and juniper abide
 
-Still clung to life—new orders found their place
-In the arid interior of the one
+And cling to life—new orders found their place
+In the dry interior of the one
 Great land: the beetles multiplied in space
-Where no competition had begun,
+Where no competition yet had begun,
 
 The termites of a later age took form
-From proto-roach ancestors who tried
+From proto-roach ancestors, those who tried
 The dry interior's transforming storm
-Of temperature and found inside
+Of temperature and heat, and found inside
 
 The rotting log and under every stone
 A kingdom made of cellulose—the wood
-That no vertebrate could eat alone
+That no large vertebrate could eat alone
 Was Neopter's inheritance and good
 
-And endless bread. The ants would come
+And endless bread. The ants would later come
 In far-off future chapters—but the seed
-Of colony, the drum
-Of eusocial living's creed
+Of colony, the slow, insistent drum
+Of the eusocial life and common need
 
-Was already beginning in the hymenoptera's
+Began in hymenoptera's first kind,
 Ancestors who walked the {{x|Permian}} plain
-And found in shared defense and shared endeavors
-More survival than the lone's campaign.
+And found in shared defense and work combined
+More of survival than the lone campaign.
 
 And Arachnus crossed the {{p|Pangean}} road
-As well—the spiders with their silk
+As well—the spiders, with their gift of silk,
 Had tools of conquest that no other showed:
-A web across the world, white milk
+A web across the world, a pale white milk
 
-Of protein spun from spinnerets
+Of protein, which the spinneret begets
 Into a snare for anything that flew—
 And in a world of insects, nothing gets
 More profitable than a trap for new
 
-Varieties of flying prey—wherever
-Neopter's children spread new wings
-And crossed the vast interior, the clever
-Arachnus followed, stringing
+Varieties of flying prey. Where went
+Neopter's children, spreading their new wings
+Across the vast interior, intent,
+Arachnus followed, and his web he strings
 
-His webs between whatever brush remained
-Along the desert margins, hunting every
-New arrival—predator ingrained
-In the same great crossing, wary
+Between whatever brush and scrub remained
+Along the desert margins, hunting each
+New arrival—a predator ingrained
+In the same crossing, wary, close in reach,
 
-And patient, eight-eyed in the dark.
-So {{p|Pangea}} that seemed pure desolation—
-That vast red heart with not a mark
-Of ocean moisture—was a nation
+And patient, watching eight-eyed in the dark.
+So {{p|Pangea}}, all desolate and bare,
+That vast red heart with not a single mark
+Of ocean moisture, was a nation where
 
-Of possibilities for those too small
-To need a river: the insect and the spider
+Lay possibilities for all the small
+Who need no river: insect and spider
 Found in the supercontinent a hall
 Wider than the world before, insider
 
-Knowledge of what smallness means for those
+Knowledge of all that smallness means for those
 Who search the cracks and corners of the earth:
-That no geography can close
-A kingdom to the ones of small enough girth
+That no geography can ever close
+A kingdom to the ones of smaller girth
 
-To enter it between the stones.
-Honor the {{p|Pangean}} road that linked
+Who enter it by slipping through the stones.
+So honor the {{p|Pangean}} road that tied
 All lands in one—that sent the small through zones
-Of desolation and the world re-linked
+Of desolation, and the world allied
 
-Its biodiversity through legs and wings
-Across the dry interior's great expanse—
+Its life's diversity through leg and wing
+Across the dry interior's expanse—
 The continent of one gives everything
 A common stage for the evolving dance.
 
 
 # Chapter 77: The Cynodont's Secret
 
-Among the therapsid nations of the land
-There rose a lineage marked by different teeth—
-Not the simple pegboard, uniform and bland
+Among therapsid nations of the land
+There rose a line marked out by different teeth—
+Not simple pegboard, uniform and bland
 Of cone upon cone, but something beneath
 
-The surface of the jaw that said: the food
-I eat deserves a different tool for each
+The surface of the jaw that said: I would
+Have for my food a different tool for each
 Part of the eating—Cynos understood
 Before the word was known that every reach
 
 Of sustenance requires a separate skill:
-The seizing, the killing, the grinding down—
+The seizing, and the killing, grinding down—
 And so his teeth became the jaw's first thrill
 Of specialization, the quiet crown
 
-Of mammalian inheritance: the incisor's bite
+Of mammal birthright: the incisor's bite
 Up front to grip and snip; the canine fang
 Behind it, longer, built for puncture's might
 And deep penetration when the hunt sang
 
 With urgency; and then the cheek-teeth massed
 Toward the back of the jaw for crushing,
-For the patient work of grinding fast
-The food into a paste—the brushing
+For all the patient work of grinding fast
+Each mouthful into a paste—the brushing
 
-Of cusp on cusp, each upper meeting lower
-In an occluding pair of fitted tools
-That ground the meal with every chew, a grower
-Of the brain through better food that fuels
+Of cusp on cusp, the upper on the low
+In an occluding pair, a fitted mill
+That ground the meal with every chew, and so
+Would grow the brain with better food, to fill
 
-The costly thinking tissue: Cynos
-Found in differentiated teeth
-A path to more nutrition, more the prose
-Of brainwork possible, beneath
+The costly thinking tissue. So he found,
+Cynos, in differentiated teeth,
+A path to more nutrition, and more ground
+For brainwork that was possible, beneath
 
-The skull that was itself transforming—
-Larger braincase, smaller jaw, the bones
-Of the back jaw slowly informing
-The ear with new vibration, tones
+The skull that was itself in change of form—
+A larger braincase, smaller jaw; the bones
+Of the back jaw would slowly now inform
+The listening ear with new vibration, tones
 
 That shifted as the jaw-bones at the hinge
 Became detached, migrated slowly back
 Along the skull until the tiny fringe
-Of bone became the middle ear's knack
+Of bone became the middle ear's new knack
 
-For hearing higher frequencies—the same
-Jaw-bones that reptiles use to chew
-Would over generations claim
-A different life in sound and view.
+For hearing higher pitches—and the same
+Jaw-bones that reptiles use to bite and chew
+Would, over many generations, claim
+A different life of hearing, sound, and view.
 
 But Cynos held another secret close—
-The whisker. In his snout were pits
-For whisker follicles, the most
-Diagnostic mark of all: what sits
+The whisker. In his snout were tiny pits
+For whisker follicles, and this bestows
+The most diagnostic mark: for what sits
 
 In a follicle pit must be a hair,
 And hair means warm blood to grow and keep it,
 Hair means the body generates somewhere
-Within itself the heat to heat it.
+Within itself the fire to heat it.
 
-Cynos was perhaps already warm—
-Not perfectly, not like the mammal would be,
-But moving past the cold blood norm
-Toward the internally-heated body free
+And Cynos was perhaps already warm—
+Not fully, not as mammals were to be,
+But moving on past the cold-blooded norm
+To bodies heated from within, set free
 
 Of morning sunning, free of the hour
-Wasted waiting for the sun to rise
+All wasted waiting for the warming skies
 Before the hunt—Cynos had the power
 To be already heated at sunrise.
 
-He burrowed deep into the earth as well—
+He dug down deep into the earth as well—
 The cynodont would dig himself a den
 Where temperature stayed level and the spell
-Of surface heat and cold lost power again
+Of surface heat and cold lost force again
 
-To reach the body—and this burrowing kept
+To reach the body; and the burrow kept
 The later generations safe when fire
-Rained from the sky—when volcanoes wept
-Ash across the world and the entire
+Rained from the sky—when great volcanoes wept
+Ash across the world, and the entire
 
-Surface of the earth became too hot
+Surface of all the earth became too hot
 Or cold for those above the ground to bear,
-The ones who lived below would not
+The ones who lived beneath it all would not
 Receive the killing dose of ash and air.
 
-Cynos knew none of this. He dug
+And Cynos knew nothing of this. He dug
 Because the burrow kept his young secure,
-Because the den's consistent temperature snug
-Was warmer than the drying world's unsure
+Because the den, consistent, warm, and snug,
+Was kinder than the drying world's unsure
 
-And swinging temperatures of {{x|Permian}} night
-And {{x|Permian}} day—he dug for practical
+And swinging heat of the {{x|Permian}} night
+And day—he dug for practical intent
 And present reasons, and the hidden light
-Of that decision, tactical
+Of that decision, tactical, that went
 
-Beyond all tactics, would illuminate
+Beyond all tactics, it would penetrate
 A world one hundred thousand years ahead
 When everything above ground met its fate
-And only burrowers were not dead.
+And only burrowers remained not dead.
 
 So Cynos in his burrow raised his young
 With warm milk—not yet true mammalian,
-Perhaps still eggs, but with the tongue
+Perhaps still laying eggs, but with the tongue
 Of ancient motherhood, Pygmalion
 
 Of what care would become—he sat above
-His clutch and warmed them with his own body's heat,
+His clutch and warmed them with his body's heat,
 The first experiment in active love,
 In giving warmth as the parental feat.
 
-Honor Cynos for the dog-toothed gift—
+So honor Cynos for the dog-toothed gift—
 For differentiation, for the warm
-And burrowed life that gave the future's lift
+And buried life that gave the future's lift
 To those who'd need it most in coming storm.
 
 
@@ -4224,117 +4225,116 @@ As Gorgo—gorgonopsid, whose career
 Was built on being death refined to art:
 
 The saber-toothed therapsid, apex lord
-Of all the late {{x|Permian}} world walked
-With a killing fang that was the sword
-And scepter of the age—that talked
+Of all the late {{x|Permian}} world, who walked
+With a long killing fang that was the sword
+And scepter of the age—a blade that talked
 
-No other language than the language
-Of pursuit and bringing down the large.
-For Gorgo found in carnage
-The purest form of living, and her charge
+No other language than the chase's skill
+And bringing down the large. For Gorgo found
+In carnage and in every hard-won kill
+The purest form of living, and her bound
 
-At Dicyno and his herds was swift—
+At Dicyno and all his herds was swift—
 She ran with semi-upright gait across
 The {{x|Permian}} red plains, and with the gift
 Of saber canine teeth she turned the loss
 
 Of opportunity to instant death:
-Two great curved fangs that could penetrate
+Two great and curving fangs that penetrate
 The neck of any prey and rob the breath
 From it before it knew its own last gate.
 
 She was large—some of Gorgo's children grew
 To bear-size, heavy-bodied, low-slung still
-In part the older sprawl, but quick enough through
-The short sprint to accomplish the kill
+In part the older sprawl, but swift right through
+The short, fierce sprint to accomplish the kill
 
-Before her prey could flee—the {{x|Permian}}'s
-Equivalent of tiger, of the lion's
-Ancient fury—Gorgo scans
-The herd of Dicyno with the shining
+Before prey could flee. In {{x|Permian}} lands
+The tiger's equal, or the lion's, she
+With all her ancient fury, Gorgo stands
+And scans the herd of Dicyno, to see
 
-Calculation of a predator
-Who has evolved for nothing but this art:
-The reading of the herd's interior
-For weakness, for the one whose slowing heart
+With shining calculation, as the kind
+Of hunter built for nothing but this part:
+To read the herd's interior, to find
+Its weakness, mark the one whose slowing heart
 
-Will make the chase worthwhile—the old,
-The young, the limping one, the one
-That moves less smoothly—Gorgo cold
-And focused selects before the run
+Will make the chase worthwhile to her—the old,
+The young, the limping one, the lagging one
+That moves less smoothly—Gorgo, calm and cold
+And focused, chooses well before the run
 
 Has even started who will die today.
-This is the predator's intelligence—
-Not the toolmaker's cleverness, not the way
-Of problem-solving, but the dense
+Such is the mind that predators possess:
+Not toolmaker's cleverness, not the way
+Of problem-solving, but, in its finesse,
 
-Attention to the living world around her,
+Close attention to the world around her,
 The reading of behavior, the precise
-Assessment of the body—Gorgo found her
-Wisdom in the eyes that suffice
+Assessment of the frame—Gorgo found her
+Her wisdom in the eyes, which did suffice
 
 For knowing every creature in the herd
 By the quality of its movement, by
 The subtle hesitation—like a word
-Misspoken that the listening ear's sharp eye
+Misspoken, that a listening ear and eye
 
-Can catch before the speaker's finished—
-Gorgo heard the hesitation in the gait
-Of her prey before the chase had diminished
-To a sprint, and chose the one whose fate
+Can catch before the speaker's sentence ends—
+Gorgo heard hesitation in the gait
+Of prey before the chase itself extends
+Into a sprint, and chose the one whose fate
 
-Was sealed before she moved.
+Was sealed before she ever moved. And so
+The gorgonopsid was the first great stage
+Of mammal-lineage hunts, set to grow
+Into the {{x|Permian}}'s last closing age,
 
-The gorgonopsid was the first great theater
-Of mammal-lineage predation—grooved
-Into the {{x|Permian}}'s closing chapter
-
-As the apex that the world before had never seen
-In quite this form: warm-ish blood and speed
-And saber-tooth combined, a keen
+An apex that the world had never seen
+In quite this form: a warm-ish blood, and speed,
+And saber-tooth combined, and with a keen
 And searching mind in service of its need.
 
 She was the {{x|Permian}} heroic peak—
-The thing the age had spent three hundred million
-Years of prior life preparing to seek
-This form: predator of one medallion
+The form three hundred million years of life
+Before had seemed preparing it to seek:
+A predator of one design, a knife
 
-Design above all others, matched against
-Dicyno's horn-beaked millions grazing wide
-Across the {{p|Pangean}} plain—the tense
+Above all others—matched against, immense,
+Dicyno's horn-billed millions grazing wide
+Across the whole {{p|Pangean}} plain—the tense
 And beautiful equation of the pride
 
 Of predator and plenty of the prey
-In balance, each one shaping what the other
-Would become through selection's ancient way
-Of honing edge on edge, the mother
+In balance, each one shaping, as they played,
+The other through selection's ancient way
+Of honing edge on edge, the parents made
 
-And father of all speed and size together—
-Without the gorgonopsid, dicynodonts
-Might never have grown large; without the tether
-Of predation's haunt,
+Of all the speed and size they came to share—
+Without her, the dicynodonts would not
+Have grown so large; without the tether there
+Of hunting's haunt, the prey forgets its lot:
 
-The prey grows careless, soft, abundant, slow—
-And so Gorgo was the gift that Dicyno
-Did not want but needed: the shadow
-That made the herd alert and on the go.
+It grows so careless, soft, abundant, slow—
+And Gorgo was a gift, unwanted, though
+Dicyno needed—the shadowing foe
+That kept the herd alert and on the go.
 
-This was the {{x|Permian}} at its finest hour—
+This was the {{x|Permian}}'s finest hour—
 The ecosystem balanced, rich, complex,
 Predator and prey each at its power,
 Each shaping what the other would be next.
 
 And it would end. It always ends. The reign
 Of any apex is a flash, a breath
-Of geological time, a brief campaign
-Of dominance before the arriving death
+Of geologic time, a brief campaign
+Of dominance, before arriving death
 
-Of circumstance beyond all strategy.
-But while it lasted, honor Gorgo's reign—
-The saber and the sprint, the mastery
-Of reading life and taking it again
+Of circumstance that no plan can foresee.
+But while it lasted, honor Gorgo's sway—
+The saber and the sprint, the skill to see,
+To read all life and take it, day by day,
 
-And again across the {{x|Permian}} red plain.
+Across and through the {{x|Permian}} red plain.
 The finest predator the age could make,
 Who ruled the world and will not rule again—
 The gorgonopsid gone for beauty's sake.
@@ -4344,257 +4344,250 @@ The gorgonopsid gone for beauty's sake.
 
 Before the great death came, before the fire
 And poison of the age's ending wept
-Its curtain down, the sea retained its choir
+Its curtain down, the sea kept its choir
 Of all the beauty that the oceans kept
 
-Through every age of life—the {{x|Permian}} sea
+Through all the ages—the {{x|Permian}} sea
 Was rich beyond what any age before
-Had managed: every reef ecology
+Had managed: every reef that there could be
 Alive with color, every ocean floor
 
-Abundant—let us pause here at the water's
-Edge before the dying, let us see
-What the {{x|Paleozoic}} sea still offers
-In its last fullness, let us be
+Abundant—let us pause here at the shore,
+Before the dying, let us stop and see
+The {{x|Paleozoic}} sea's final store
+In its last fullness; let us come to be
 
 The witnesses of what will not survive:
+The coral gardens first, the rugose kind,
+Coleios' neighbors, who would keep alive
+The reef's foundations, stone from sea designed
 
-The coral gardens first—the rugose coral,
-Coleios' neighbors, keeping alive
-The reef's foundations in their oral
-
-Architecture, building stone from sea—
-Four-fold symmetry of polyp flesh
-On limestone foundations, the decree
+In oral structures, made in time to be
+Of four-fold symmetry in polyp flesh
+On limestone, the foundation and decree
 Of the ancient {{x|Paleozoic}}'s fresh
 
 And living architecture—this would go.
 The rugose coral would not cross the line
-Of extinction, would not see tomorrow's show
-Of {{x|Triassic}} sea—their four-fold sign
+Of the extinction, nor tomorrow's show
+Of the {{x|Triassic}} sea—their four-fold sign
 
 Would vanish from the reef, replaced in time
 By the six-fold scleractinian form—
 But for now they rose in every sublime
-Arrangement on the reef, the warm
+Arrangement on the reef, beneath the warm
 
-And shallow sea above them lit with green
+And shallow sea above them, lit with green
 And blue and orange in the filtered light.
+And there was Coleios, too, in the scene—
+The ink-bearers, the masters of the night
 
-And there was Coleios in the scene—
-The inked ones, masters of the night
+And day of open water: Teuthis sped
+And pulsed through all the columns of the sea,
+While Octopos walked where stone gardens spread
+Across the reef, with minds by three times three
 
-And day of open water—Teuthis
-Pulsed through columns of the sea
-And Octopos walked among the lithic
-Gardens of the reef with three
+To read the world. And in the waters, too,
+The belemnite Belemno swam right through,
+With curled, cylindrical, and solid frame,
+A sleek torpedo, hunting, as he came,
 
-Times three of minds to read the world—
-And in the open water, Belemno
-The belemnite swam with his cylindrical curled
-And solid body, sleek, torpedo
+For small and smaller prey through acres wide
+Of {{x|Permian}} sea, his hard inner core
+The only wall between his soft inside
+And hungry world outside it, at its door.
 
-Of the {{x|Permian}} ocean, hunting small
-And smaller prey through acres of the sea—
-His hard internal rod the only wall
-Between his soft flesh and the hungry
+And Sepos, the cuttlebone-bearer, hung
+In the mid-water, and he changed his hue
+Just like a living stone on which was flung
+A canvas, every color, through and through,
 
-World outside—Sepos too, the cuttlebone
-Bearer, who hovered in the mid-water
-And changed his color like a living stone
-Become a canvas, like a daughter
-
-Of all color at once, a shifting flag
+At once, a living and a shifting flag
 Of skin that could be anything the eye
-Required—the color-changing brag
-Of Coleios' house against the sky
+Required—the boast, the color-changing brag
+Of Coleios' great house against the sky
 
-Of ocean above.
+Of ocean overhead. The ammonites,
+Who since {{x|Devonian}} had swum this deep,
+The coiled ones, whose geometry's delights
+Bore daughters spiral-perfect, and the sweep
 
-And the ammonites—who had swum these waters
-Since the {{x|Devonian}}, the coiled ones
-Whose geometry produced the daughters
-Of spiral perfection, the suns
-
-Of mathematics in their shell's design—
+Of solar mathematics in design—
 Still coiling, still abundant, still the most
-Common fossil of the {{x|Paleozoic}}'s wine
-Of time—they too would nearly be lost
+Common of fossils in that ancient wine
+Of time; they too would nearly turn to ghost
 
 At the great extinction, reduced to one
 Or two survivors who would spread again
-Through the {{x|Mesozoic}} like the sun
-After the storm—but now they reigned
+Throughout the {{x|Mesozoic}} like the sun
+After the storm—but now theirs was the reign:
 
-In numbers past all counting through the {{x|Permian}}
-Sea, their shells the meter of the age.
+Uncounted through the {{x|Permian}}'s great sea,
+Their shells the very meter of the age.
+And Malacos held all the floor in fee:
+Great Decapos, within his heavy stage
 
-And Malacos held the ocean floor's dominion—
-Great Decapos in his heavy stage
-
-Of armor crossed the bottom, claw raised high;
-Euphausios filtered the cold waters wide
+Of armor, crossed the bottom, claw raised high;
+Euphausios filtered cold waters wide
 In clouds of millions, feeding every eye
 That looked upon abundance—the inside
 
-Of the ocean's engine, krill-built base
+Of the great ocean's engine, krill-built base
 That fed the food web from the bottom up.
-And Stomatos in his shallow place
-Still struck his shrimp-fist punch, the cup
+And Stomatos within his shallow place
+Still struck his shrimp-fist punch, and filled the cup
 
-Of violence measured in the microsecond
-Blur of club against the snail's hard shell—
-This world was rich beyond all reckoned
-Accounting—rich enough to fill
+Of force within a microsecond's blow
+Of club against the snail's hard, coiling shell—
+This world was rich past all accounts could show,
+So rich no reckoning could ever tell,
 
-Each chapter of a thousand books and still
-Leave volumes unwritten of the creatures
-That the {{x|Permian}} sea kept—until
-The fire came and changed all features
+Enough to fill a thousand books, and still
+Leave volumes yet unwritten of the kind
+That the {{x|Permian}} sea had kept—until
+The fire came, and all that it would find
 
-Of this world at once.
-                          So let us pause.
-Let us be grateful witnesses before
-The curtain falls without applause,
-Before the {{x|Paleozoic}} shore
+Was changed at once. So let us pause, before
+The curtain falls without applause, and be
+Its grateful witnesses, before the shore
+Of all the {{x|Paleozoic}}'s last sea
 
 Is poisoned—let us stand here in the light
-That still pours clean and warm through water
-Clear as any sky, and in the sight
-Of reef and current, cuttlefish and otter-
+That still pours clean and warm through waters clear
+As any sky, and, with the reef in sight,
+The current flowing, cuttlefish, and near,
 
-Smooth belemnite, let us acknowledge what
-The sea accomplished: three hundred million
-Years of unbroken beauty, shut
-At last but not diminished—still a billion
+The otter-smooth belemnite, let us praise
+The sea's accomplishment: unbroken grace,
+Three hundred million years of beauty's days,
+At last shut, not diminished in its place,
 
-Lives complete within themselves before
+And still a billion lives complete before
 The ending—the {{x|Paleozoic}} sea
-Was not a failure for its close:
-Each life lived fully is a victory.
+Was not a failure when it closed its door:
+Each life, lived fully, is a victor, free.
 
 Honor the last {{x|Paleozoic}} deep—
 The reef that predates every reef we know,
 The ocean that the {{x|Permian}} would keep
-In trust for us to mourn and also know.
+In trust for us to mourn, long, long ago.
 
 
 # Chapter 80: The Dicynodont Bread
 
-Now hear of Dicyno, the beaked and tusked
-And patient one, who fed the world through all
-The late {{x|Permian}} age—who walked and brusked
-Through every landscape from the great hall
+Now hear of Dicyno, with beak and tusk,
+The patient one, who fed the world through all
+The {{x|Permian}}'s late age, who walked till dusk
+Through every landscape, from the stately hall
 
-Of tropical basin to the high
-And arid plateau—who moved in herds
-Of thousands through the {{p|Pangean}} sky-
-Wide plains and said with every word
+Of the tropical basin to the high
+And arid plateau; who moved in great herds
+Of thousands under the {{p|Pangean}} sky,
+On its wide plains, and said with all his words
 
-Of his abundant living: I am here.
-I am the bread of this world. I am
+Of his abundant living: I am near.
+I am the bread of this world, and its balm,
 The patient herbivore without a fear
-Too large for my endurance—Dicyno's calm
+Too large for me to bear—Dicyno's calm
 
-Was legend in the {{x|Permian}} ecosystem:
-Where others starved or fled the spreading dry,
-Dicyno found a way to seize them—
-The roots beneath the soil, the dry
+In {{x|Permian}} ecology renowned:
+Where others starved or fled away to die,
+Dicyno found a way, and what he found
+Were roots beneath the soil, the drought-struck, dry
 
-And woody vegetation that no other
-Herbivore could process—his beak
-Was built for cropping, his fossil's brother
-To the tortoise's efficient peak
+And woody vegetation that repels
+The other plant-eaters—and so his beak
+Was built for cropping, and his fossil tells
+Of brotherhood with tortoise, and the peak
 
-Of grinding: no teeth but two great tusks
-Projecting from the upper jaw
+Of grinding: not with teeth; but two great tusks
+Projecting, both, out of the upper jaw
 For digging roots and tearing at the husks
-Of plants that other mouths left raw
+Of plants left whole by every other maw
 
-And unattempted—a dietary monk
-Who ate what others left, who found
+Untried—he was a dietary monk
+Who ate what others left behind, who found
 In every desert margin, every drunk
-And dying vegetation, ground
+And withered, dying vegetation, ground
 
 Still worth exploring for the root below.
-The dicynodont became the most abundant
-Large land vertebrate of any show
-The {{x|Permian}} staged—redundant
+The dicynodont became most widespread
+Large vertebrate on land of any show
+The {{x|Permian}} staged—redundant, as said,
 
-Only in the sense that numbers vast
-Were needed to sustain the pyramid
-Of Gorgo's hunger—each one the last
-Meal of something else, the grid
+But only in the sense that numbers vast
+Were needed, so the pyramid could stand
+Of Gorgo's hunger—each of them the last
+Meal of another's; and the grid, the strand
 
 Of energy from plant to herbivore
-To carnivore maintained by Dicyno's
-Abundance—he was the store
-Of the world's fuel, the provider's nose
+To carnivore was kept by the supply
+Of Dicyno's abundance, the world's store
+Of fuel, with the provider's nose held nigh
 
-Always to the ground, always the one
-Who turned the sun's gift in plant to flesh
+The ground; forever he would be the one
+Who turned the sun's gift in the plant to flesh
 That others needed—in this way the sun
 Itself walked through the ecosystem's mesh
 
-As Dicyno moved from plant to prey.
-
+As Dicyno bore it from plant to prey.
 There were hundreds of species in his line—
 From rabbit-small to hippo-wide, each way
-Of being Dicyno was a shrine
+Of being Dicyno stood as a shrine
 
-To the versatility of a single plan:
+To versatility of one sole plan:
 The beak, the tusk, the barrel body low
-And close to the ground—from each began
+And close to the ground—and from each began
 A different niche, a different overflow
 
-Of adaptation: the borrower of burrows
-Who dug his den beside the termite mound,
-The aquatic wader of the furrows
-Of the slow {{x|Permian}} rivers, found
+Of adaptation: one who dug, below,
+His den beside the termite mound; the one
+Who waded in the furrowed rivers slow
+Of {{x|Permian}}, half-sunk in mud; and one
 
-Half-sunk in mud; the dry-land wanderer
-Who covered a hundred miles of red
-Rock in a season, following the thunderer
-Of monsoon's trail for the brief spread
+Who roamed dry land, a hundred miles of red
+Rock in a season, chasing thunder's train
+Along the monsoon's trail to the brief spread
+Of green that followed after any rain—
 
-Of green that followed any rain—
-Dicyno was everywhere that the {{x|Permian}}
-World put vegetation, every plain
-And hillside of the supercontinent's span.
+Dicyno roamed everywhere that the ground
+Of {{x|Permian}} grew green, on every plain
+And hillside the great continent around.
+He was the sheep of {{x|Permian}}'s domain—
 
-He was the sheep of the {{x|Permian}}—
 The innocent abundance that supports
-The wolf—the one whose death was plan
-A of the ecosystem's courts
+The wolf—the one whose death was the first plan
+Of the ecosystem's energy courts;
+And he submitted when his role began
 
-Of energy exchange—and he submitted
-To this role without complaint or flight
-Beyond what flight was useful, fitted
-To his purpose, present in the light
+To this one role without complaint or flight
+Beyond what flight was useful; fit and true
+To his own purpose, present in the light
+Of each {{x|Permian}} dawn the whole herd knew.
 
-Of each {{x|Permian}} dawn—the broad-backed herd
-That crossed the plain at dawn was his,
-And every track that follows after heard
-The predator behind: this is
+The broad-backed herd that crossed the plain at dawn
+Was his; and every track that followed heard
+The predator behind, a shadow drawn:
+This is the world that works, by hunger spurred:
 
-The world that works—the eaten and the eating
-In their ancient dance of shaping each
-The other—Gorgo's greeting
-To Dicyno was the teach
+The eaten and the eating, in their dance
+Of ancient sculpting, each one shaping each
+The other; Gorgo's greeting, at each glance,
+Unto Dicyno was the way to teach
 
-Of every generation in the art
+Each generation in the ancient art
 Of being faster, slightly, than the one
-Behind you—the herd's panicking heart
-Was Dicyno's education, sun
+Behind you—and the herd's panicking heart
+Was Dicyno's whole education, sun
 
-By sun and generation by generation.
-Honor Dicyno who fed the world—
-Who walked in every nation
-And turned the desert's last unfurled
+By sun, and through each generation's length.
+So honor Dicyno, who fed the world,
+Who walked in every nation, by his strength,
+And turned the desert's last green leaf unfurled
 
-Green plant to flesh that the predator needed—
-Who was the bread before the cup—
-Whose patience and abundance seeded
+To flesh the predator would need—and who
+Was the one bread that came before the cup,
+Whose patience and abundance seeded through
 The pyramid of life from bottom up.
 
 
@@ -4602,598 +4595,553 @@ The pyramid of life from bottom up.
 
 There was a time—a brief and final time—
 When all the world seemed rich enough to last:
-The {{x|Permian}} at the edge of its sublime
+The {{x|Permian}} at its height, its sublime
 And complicated order, the vast past
 
 Three hundred million years arrived at this:
-An evening of the age, a gathering
+An evening of the age, the gathered sum
 Of all that life had built, a final kiss
-Of ordinary beauty—Dicyno scattering
+Of ordinary beauty—as they come,
 
-Across the {{p|Pangean}} plain in morning light,
-Gorgo watching from the ridge above,
-The sea in all its {{x|Paleozoic}} bright
-Abundance—and above and below, the love
+Dicyno scattered in the morning light
+Across {{p|Pangean}} plains, Gorgo above
+Watching upon the ridge; the sea, alight
+With {{x|Paleozoic}} wealth, and the love
 
 Of creature for its living, for the air
-And water and the food and the den made
-From nothing—the {{x|Permian}} was fair
-In this last hour before its fade.
+And water, and the food, the den it made
+From nothing; and the {{x|Permian}} was fair
+In this last hour before it came to fade.
 
-The gymnosperm forests on the ridgelines stood
-In their new quiet after the coal swamp's loud
-And tropical confusion—a subdued
-And arid landscape, but a proud
+The gymnosperm woods on the ridges stood
+In their new quiet, past the coal swamp's loud
+And tropical confusion—gone for good:
+A quiet, arid landscape, but a proud
 
-One—the cone-trees on the red rock plain
+One: there the cone-trees on the red rock plain
 Like dark green candles in the desert air,
-The reptiles basking in the afternoon
-Of {{x|Permian}} summer without care
+The reptiles, basking, in the warm domain
+Of {{x|Permian}} summertime, without care
 
-For what lay under the earth of {{p|Siberia}}—
-What lay beneath the frozen north
-Of {{p|Pangea}}'s shoulder—the bacteria-
-Rich basalts cooking in the worth
+For what lay under {{p|Siberia}}'s ground,
+What lay beneath the frozen land up north
+Of {{p|Pangea}}'s great shoulder: there, unbound,
+Bacteria-rich basalts, cooking forth
 
-Of the planet's own deep heat, building
-Pressure against the surface crust
-In what geologists would call the gilding
-Of catastrophe—the subterranean gust
+Out of the planet's own deep heat, to rise
+In pressure up against the surface crust,
+In what geologists would recognize
+As the catastrophe—a buried gust
 
 Of magma seeking every crack and seam
-In the {{p|Siberian}} basement rock
+Within the {{p|Siberian}} basement rock
 Toward the surface, in a patient dream
-Of eruption ticking like a clock
+Of an eruption ticking like a clock
 
-That only the earth could read.
+That only earth could read; and though it stirred,
+The world above knew nothing of its hour.
+And Cynos, in his burrow, heard no word
+Of doom below the cool ground's dark power
 
-The world above knew nothing of this clock.
-Cynos in his burrow heard no creed
-Of doom beneath the cooling rock
+He dug his den into; and all he knew
+Were insect sounds that filled the desert night,
+The wind across the cone-tree, and the few
+Dry scraps of debris in the desert light.
 
-He dug his den into—he heard
-Only the insect sounds of night,
-The wind across the cone-tree, the stirred
-And dry debris of the desert's light.
+And Gorgo, on her ridge at sundown, spied
+The herds of Dicyno moving on to
+The water at the dusk; and she, clear-eyed,
+Marked out the old and slow one in her view
 
-Gorgo on her ridge at sunset watched
-The herds of Dicyno moving to
-The water-source at dusk—she notched
-The old and slow one in her view
+And felt the readiness she always felt
+Before the hunt: the tightening, the stare;
+And yet the world she hunted in had dealt
+No sign of change, no warning anywhere
 
-And felt the preparation that she always felt
-Before the hunt—the tightening, the focus—
-And the world she hunted in had dealt
-No sign of change, no notice, no locus
+That she could read. And yet, deep down, a breath
+Of gas leaked in {{p|Siberia}}'s rock, wet
+With sulfur, through a fissure—early death
+Of ordinary air, in one place set
 
-Of warning she could read.
+Small, just above the coming fire—a hiss
+So faint that nothing living with a face
+Or ears could ever hear, and all would miss:
+The breath of what was building, the first trace
 
-                             And yet—
+Of the small exhalation of a world
+Preparing to unburden its long thirst
+For the surface—the first edge, gently curled,
+Of killing that was coming, and the worst.
 
-Deep in the rock of {{p|Siberia}}, a breath
-Of gas leaked through a fissure, wet
-With sulfur smell—an early death
+Take this image: all the world entire
+At table—every living thing in place,
+Consuming its last meal before the fire.
+The reef beneath the {{x|Permian}} sea's face
 
-Of ordinary air in one small place
-Above the coming fire—a hiss
-So faint that nothing with a face
-Or ears could hear it—just the fizz
+Was feeding on the current's plankton bloom;
+The herd of Dicyno; and she who'd kill,
+Who watches, all within a single room
+Of ordinary evening, and the still
 
-Of what was building, just the first
-Small exhalation of a world
-Preparing to unburden its thirst
-For the surface—the first curled
-
-Edge of the killing that was coming.
-
-Take this image: the world entire
-At table—every living thing consuming
-Its evening meal before the fire.
-
-The reef below the {{x|Permian}} water
-Feeding on the current's plankton bloom;
-The Dicyno herd, the predator
-Who watches, all within a room
-
-Of ordinary evening, ordinary
 Necessity of life—and somewhere north,
-Deep in {{p|Siberian}} rock, the ordinary
-Becoming something else—the north
+In {{p|Siberian}} rock, the common, known,
+Becoming something else; there, coming forth,
+Breathing its first breath out of sulfur, blown
 
-Breathing its first breath of sulfur out
-Into the still and unknowing air,
-And all the world at table, with no doubt
-Or grief, eating what was there.
+Into the stillness and unknowing air,
+While all the world at table, free of doubt
+Or grief, was eating all of what was there,
+Not knowing what the evening was about.
 
-This is the last supper of the age—
-Not dramatic, not foreboding,
-Not announced upon the stage
-With thunder—just the corroding
+This is the final supper of the age—
+Not made dramatic, not with dread foretold,
+And not announced with thunder on the stage,
+But just the ordinary evening, rolled
 
-Of ordinary evening into the eve
-Of extraordinary ending—and the meal
-Continues, and the creatures do not grieve
-What they cannot see or feel.
+Into the eve of ending, past belief—
+And still the meal goes on, and none can feel
+What they cannot see coming, and no grief
+Is in them as they take their evening meal.
 
-Honor the last evening of the {{x|Permian}}—
+Honor the {{x|Permian}}'s last evening's light,
 The ordinary beauty of the full
-World eating, sleeping, hunting, and therein
-Finding the day's grace—the pull
+World eating, sleeping, hunting, through the night,
+Finding the grace of each day—and the pull
 
-Of one more sunrise in the unknowing
+Of one more sunrise, each one unaware
 Before the morning that would change the world.
-The cup was coming, not yet showing—
-And all of life sat gathered, unfurled
-
-In its abundance, in its ancient peace.
+The cup was coming; all sat gathered there,
+Abundant, in their ancient peace, unfurled.
 
 
 # Chapter 82: Good Permian Friday
 
-Then {{p|Siberia}} opened.
+Then {{p|Siberia}} opened, not one blow:
+The way a wound will open, slow at first,
+A fissure reached the surface from below
+Upon a day like others—the first burst
 
-Not all at once—the way
-A wound opens is slowly, the first
-Fissure finding the surface on a day
-Like any other—the initial burst
+Of basalt, thin and local; then there came
+Another and another, till the whole
+Became a thousand miles of vent and flame,
+The mother of volcanic fields, the toll
 
-Of basalt thin and local, then another,
-And another, until the cracks become
-A thousand miles of venting, a mother
-Of all volcanic fields, the sum
-
-Of eruption beyond any scale
-The world had seen in living memory—
+Of an eruption past all other scale
+That living memory had ever spanned—
 Two million cubic miles of basalt's trail
-Of fire written on the {{p|Siberian}} territory
+Of fire written on {{p|Siberian}} land,
 
-In layers and in years, not hours—
-This was no single blast but an age
-Of burning, stretching over a hundred thousand years' powers
-Of sustained eruption—stage
+In layers, laid down year by weary year:
+This was no single blast, but a whole age
+Of burning, and a hundred-thousand-year
+Sustained eruption. Then, stage after stage,
 
-By stage the gases filled the sky:
-The carbon dioxide first, the warming
-Before the cooling—and then the cry
-Of sulfur dioxide, the storming
+The gases filled the sky; the first, the dread
+Carbon dioxide, and the warming, came
+Before the cooling—and then, cried instead,
+Sulfur dioxide, storming like a flame,
 
-Of the atmosphere with acid—every cloud
-That formed above the {{x|Permian}} land
-Came down as acid rain, a shroud
-Of chemical death across the strand
+The atmosphere with acid—every cloud
+That formed above the {{x|Permian}} dry land
+Came down again as acid rain, a shroud
+Of chemical death spread over the strand
 
 Of every forest that remained—the trees
-Burned where they stood, not from fire
+Burned where they stood, though not from any blaze,
 But from the rain itself, the acid's ease
-Of stripping chlorophyll from the entire
+Of stripping chlorophyll from all the sprays
 
-Canopy—the gymnosperm forests
-That Conifera had built on every ridge
-And hillside went brown first,
-Then gray, then fell—the bridge
+Of canopy: the gymnosperm woods, made
+By Conifera on hill, ridge, and slope,
+Went brown at first, then gray, and fell, decayed—
+The bridge between the sun and life lost hope:
 
-Between the sun and life was broken here:
 The photosynthesis could not proceed
-In acid air—the base of the world's career
+In acid air; the base of the career
 Of energy was failing—every creed
+Of all the eating built on plant, on mere
 
-Of eating built on plant was now
-Built on nothing.
+Nothing at all. The ocean was not spared:
+Carbon dioxide took its bow, and passed,
+Dissolving into waters widely shared,
+Into the global sea, and there, at last,
 
-                    The ocean was not spared—
-The carbon dioxide took its bow
-Of dissolution into the wide shared
+Carbonic acid formed from gas and brine;
+The ocean's chemistry was stormed, and fell
+Its pH; carbonate in every line
+Of shell dissolved; and coral, long and well
 
-And global sea: carbonic acid formed
-From CO₂ and water—ocean
-Chemistry was stormed
-And pH fell—the oceanic
+Built through three hundred million years, grew weak
+And then to nothing; reefs' oral design
+Dissolving; the sea warmed, its depths grew bleak,
+Anoxic, without oxygen; the brine
 
-Shells of carbonate dissolved—the coral
-Buildings of three hundred million years
-Went soft and then to nothing—the oral
-Architecture of the reef appears
+Bred hydrogen sulfide—the toxic gas,
+The purple poison of the deep, which rose
+In killing blooms to surface; purple glass
+Of water at the shore where nothing grows,
 
-Dissolving—the sea turned warm and anoxic
-In its depths, where oxygen was gone
-And hydrogen sulfide—the toxic
-Purple gas of the deep-water zone—
+The ocean's tombs of former life; its door
+Shut fast. And 96 percent of all
+The species of the sea would cross no more
+The boundary; brachiopods would fall.
 
-Rose to the surface in great blooms
-Of killing: purple water at the shore
-Where nothing lived, the ocean's tombs
-Of former life, the sea's own door
+The rugose coral, wholly; and the old
+And few trilobites would meet the fire
+Of that last great extinction, final, cold,
+And permanent; the line that would expire
 
-Shut closed—96 percent of every
-Marine species would not cross
-The boundary into the next century—
-The coral, the brachiopod, the loss
+Of trilobites had stretched back to the morn
+Of {{x|Cambrian}} explosion, had survived
+Each sign of mass death in the oceans borne
+Through its long history, but here arrived
 
-Of the rugose coral entire,
-The trilobite—already old
-And few—would meet the fire
-Of the last extinction, cold
+At its own end: not with a bang, but slow
+Souring with acid, year by patient year,
+Of every sea it swam in, far below.
+On land, the acid rain, the heat severe;
 
-And permanent—the trilobite whose line
-Stretched back to the {{x|Cambrian}} explosion's
-Dawn, who had survived every sign
-Of mass death in the ocean's
+The food web's base collapsed; Dicyno's herds
+Could find no meat of plant to eat; and so
+The race to starvation ran on, past words,
+From herbivore to carnivore below—
 
-Long history, met its end here:
-Not with a bang but with the slow
-Acidification, year by year,
-Of every sea it swam below.
+Gorgo starved when Dicyno starved; the floor
+Of the food pyramid was carved away,
+And everything above it fell. No more:
+Some seventy percent, from that dark day,
 
-On land: the acid rain, the heat,
-The collapse of the food web's base—
-Dicyno's herds could find no meat
-Of plant to eat, and so the race
+Of vertebrates on land would die; the knell
+Of gorgonopsids, final, absolute:
+The gates closed on her line, and as they fell,
+Her ancient house left neither branch nor root.
 
-To starvation ran from herbivore
-To carnivore—Gorgo starved
-When Dicyno starved—the floor
-Of the food pyramid was carved
+The saber-toothed, the racing hunter, shrewd
+And proud and fierce, was taken—not by tooth
+Of any rival, but by lack of food—
+And so the {{x|Permian}} went down in truth
 
-Away, and everything above it fell.
-Seventy percent of land vertebrates
-Would not survive—the gorgonopsid's knell
-Was final, absolute—the gates
-
-Closed on her line entirely,
-No survivors of her ancient house
-In any form—the saber-toothed
-And racing hunter, proud and fierce,
-
-Was taken—not by any rival's tooth
-But by the failure of the food—
-And the {{x|Permian}} age went down in truth
 To the last word that all life understood:
+That the whole world can end not with a war
+Between the living, but when fails the good
+That creatures need—the bright and open door
 
-That the world can end not with a war
-Between the creatures but with the end
-Of what the creatures need—the door
-Of photosynthesis, the friend
+Of photosynthesis, the friend of all
+That breathes. {{x|Good Permian Friday}}, the name:
+The {{x|Paleozoic}} world's death and fall,
+Not villainy, not error, not the blame
 
-Of all that breathes.
+Of a wrong path chosen; only the curled
+And patient force of geologic time
+Expressing what it must, beneath the world—
+Volcanoes did not choose to kill; sublime
 
-                      This is {{x|Good Permian Friday}}:
-The death of the {{x|Paleozoic}} world—
-Not villainy, not error, not the wrong way
-Chosen—only the deep-buried, curled
+And ancient earth let go of what was found
+To have built up within; the cost was paid
+By every living thing above that ground—
+The world was lost, and in its loss remade,
 
-And patient force of geological time
-Expressing what it must—the volcano
-Did not choose to kill, the sublime
-And ancient earth merely let go
-
-Of what had built within it—and the cost
-Was paid by every living thing above
-That ground—the world was lost
-And remade, the way that love
-
-Itself must sometimes die to be reborn.
+The way that love itself must, now and then,
+Die so that it may be reborn again.
 
 
 # Chapter 83: The Harrowing of Hell
 
-After the fire, silence.
+After the fire, silence. Not the peace
+Of silence, but the empty room, the closed
+Theater, when the crowd has found release,
+Has come, and broken chairs alone disclosed
 
-Not the silence of peace—
-The silence of the empty room, the closed
-Theater after the audience's release
-Has gone and only broken chairs disclosed
+The weight of what had happened. All the land
+Of {{x|Permian}}, in the extinction's wake,
+Was not recovered: horror's noon would stand,
+With everything that mattered still at stake
 
-The weight of what had happened—the {{x|Permian}}
-Earth in the immediate extinction's wake
-Was not recovered land but the meridian
-Of horror: everything still at stake
-
-And nothing yet decided—the air
+And nothing yet decided—and the air
 Still poisonous with methane and the last
-Of sulfur's throat-burning—every bare
+Of sulfur's burning at the throat; each bare
 And rocky hillside scoured by the past
 
-Months of acid rain, the soil stripped
-Of its organic layer, the chemistry
-Of the topsoil long since ripped
-Away—bare rock, bare clay, the sea
+Months of the acid rain, the soil all stripped
+Of its organic layer; in its place,
+The chemistry of topsoil long since ripped
+Away—bare rock, bare clay, the gray, bare face
 
-Of mudstone and the desert's gray
-Expanse of what had been the {{x|Permian}} plain.
+Of mudstone and the desert's gray expanse,
+Once the wide {{x|Permian}} plain. Over all
+Of this came the gray fungi's still advance,
+Their silent reign, champagne of all who fall.
 
-And over all of this, the gray
-And silent reign of fungi, the champagne
+For when the primary producers fail,
+When photosynthesis has ceased its toil
+Across the continents, by every scale,
+The kingdom that will profit, on the soil,
 
-Of the dead—for when the primary
-Producers fail, when photosynthesis
-Has ceased across the geography
-Of continents, the kingdom in analysis
+Is that which eats the dead: the fungi rose
+In silence, after green—in fossil sheets
+Of fungal spores have come, in place of those
+Of pollen and plant spores, whose old repeats
 
-That profits is the one that eats
-The dead: the fungi rose in the silence
-After the green—in fossil layers, sheets
-Of fungal spores replace the reliance
-
-On pollen and plant spores that had marked
-Every layer of the {{x|Permian}} above—
-A spike of fungal abundance, parked
+Marked every {{x|Permian}} layer above,
+A spike of fungal plenty, in the place
 At the extinction boundary—a shove
+Of death-eaters into the empty space
 
-Of death-eaters into the ecological
-Vacuum—the world's composters,
-Who had always worked biological
-Renewal in the background, the quiet rosters
+Of ecosystems—the composting host
+Who had renewed the world, unseen, and slow,
+In quiet work, each at its living post,
+Of the decomposition, long ago.
 
-Of decomposition—now they were
-The only large-scale living presence
-In the aftermath, the only stir
-Of metabolism across the immense
+And now they were the only presence, wide
+And living, in the aftermath; the stir
+Of all metabolism, side to side
+Of the immense and empty lands that were.
 
-And empty continents—the fungal world
-Ate what the dying left behind,
-Ate the fallen forests, the unfurled
-And rotting bodies, every kind
+The fungal world ate all the dying shed,
+Ate up the fallen forests, the unfurled
+And rotting bodies, every kind of dead
+Organic matter in the wrecked old world—
 
-Of organic matter in the wreckage—
-And slowly, through their eating,
-They began to return the breakage
-To the soil, composting and completing
+And slowly, by their eating, they began
+To bring the broken back into the ground,
+Composting and completing, so the span
+Of the next life could have its cycle found:
 
-The cycle that allows the next life in:
-For soil is only dead things processed
-Through the fungal network's discipline
-Into the mineral and the rest
+For soil is only dead things, processed through
+The fungal network's discipline, and turned
+To mineral, and to the rest, anew,
+That plants can use again; the fungi churned
 
-That plants can use again—the fungi
-Harrowed hell in the literal sense
-Of harrowing: turned the dry and hungry
-Dead soil over, broke the dense
+And plowed through hell in the literal sense
+Of harrowing: they turned the dry and starved
+Dead soil, and broke the rock-face, hard and dense,
+With acids, and the hard compaction carved,
 
-And compacted rock-surface with their acids,
-Made ready what the green would need
-To return—the undertakers, the placid
-Workers of the interval between the seed
+Made ready what the green would need to grow
+Again: the undertakers, placid, still,
+The workers of the interval, the slow
+Between the old seed and the new, the till.
 
-Of old world and the seed of new.
+Then, through this poisoned world, a few remained—
+Not the great or the famous, the well-known,
+The celebrated—but the small, ingrained
+In burrows, those who ate the dead—the stone
 
-And through this poisoned world, some few
-Survived—not the great or the well-known
-Or the celebrated—the small, the burrowed,
-The ones who ate the dead—the stone
+And scale of anything that could digest
+The poorest meal in the most thrifty way—
+And Cynos, in his burrow's sealed-off nest,
+Safe from the surface's worst, woke one day
 
-And scale of anything that could
-Process the least nutritious meal
-In the most efficient way—Cynos
-In his burrow, sealed
+Into a world reduced to nothing more
+Than possibility; he spoke no word
+Of lamentation, breathing at the door
+Of his burrow the clearing air that stirred
 
-From the worst of the surface, woke
-Into a world reduced to nothing
-But possibility—he spoke
-No language of lament, only breathing
+Above, emerging into gray and bare
+And empty landscape; and the love of breath
+Drove him into the day, and not to care
+About its emptiness, its hush of death.
 
-The gradually clearing air above
-His burrow-entrance, emerging into gray
-Light and empty landscape—and the love
-Of living drove him to the day
+And Lystro too, dicynodont, had passed
+Somehow alive—the less selective one,
+The eater, the defiant front held fast
+Of Dicyno's line; and when all was done,
 
-Regardless of its emptiness.
+There Lystro found, when the extinction ceased,
+A strange and solitary plenty: ground
+That was his own in full, the west and east
+Of the {{x|Triassic}}'s early land around
 
-Lystro too—the dicynodont
-Who somehow had survived, the less
-Selective eater, the defiant front
+Was Lystro's, with no rival to compete,
+Without a predator, his land complete;
+The first years of the {{x|Triassic}}'s long strife
+Were his inheritance, his walk of life
 
-Of Dicyno's lineage—Lystro found
-In the post-extinction world a strange
-And solitary abundance: the ground
-Was his entirely—the full range
+The empty continent, in its extent,
+Was walked by one small herbivore with beak,
+Who ate whatever grew, and never went
+Beyond the root and tuber he would seek.
 
-Of the {{x|Triassic}} early land was Lystro's
-Without competition, without predator—
-The first years of the {{x|Triassic}}'s throes
-Were his inheritance—the corridor
-
-Of empty continent walked by one small
-Beaked herbivore who ate whatever grew,
-Who asked no more of life than the simple call
-Of root and tuber—Lystro knew
-
-Only that he was hungry and alive
-And that was sufficient—in the hell
-Of the aftermath, to merely survive
-Is the whole achievement, and that spell
+Lystro knew only he was hungry, and
+That he was still alive, and it was well:
+In the hell of the aftermath, to stand
+Alive is all achievement; and that spell
 
 Of bare survival is not lesser than
-The glorious {{x|Permian}} peak—it is
-Perhaps more—the one who can
-Endure the harrowing is
+The {{x|Permian}}'s glorious peak; it's more,
+Perhaps, indeed, the greater; one who can
+Endure the harrowing is heir, therefore,
 
-The one who will inherit
-The next world entire.
+To the next world, the whole world entire.
+So let us honor those who harrowed hell,
+The ones who kept alive life's fragile fire
+Through silence: fungi, composting as well,
 
-Let us honor the harrows of hell—
-The ones who kept the fires
-Of life alive through the spell
+Survivors burrowing below the ground,
+And Lystro coasting in the gray world, sped
+Forward upon the simple need, unbound,
+To go on living; none of them was led
 
-Of silence—the fungi composting,
-The survivors burrowing below,
-Lystro in the gray world coasting
-Forward on the simple need to go
-
-On living—they did not know
-They were the seeds of everything
-That followed—they only know
-The hunger and the living.
-
-That is enough. That has always been enough.
+To know they were the seeds of everything
+That followed; they knew only hunger's sting
+And living—nothing more, though bare and rough.
+That is enough. It always was enough.
 
 
 # Chapter 84: A New Beginning
 
-Then—after the harrowing, after the long
-Silence of the poisoned world—the green.
-
+Then—after harrowing, after the long
+Silence of all the poisoned world—the green.
 Not all at once: no resurrection song
-Announced it—the first was not seen
+Announced it; and the first was never seen
 
-By anyone who could report it—only
-A spore landing on a bare stone slope
-In early {{x|Triassic}} morning, the lonely
-And unremarkable arrival of hope
+By any eye that could report it; one
+Small spore that landed on a bare stone slope
+In the early {{x|Triassic}} morning sun,
+The lonely, plain arrival of a hope
 
-In the form of a bryophyte—a moss—
+In the form of a bryophyte, a moss,
 Whose spore had ridden out the acid years
-In cryptobiosis, the death-that-is-not-loss,
-Waiting—and the stone's first tears
+In cryptobiosis—death, but not loss—
+And waiting—and the stone's first trickled tears
 
-Of mineral were the feast it needed.
-The moss spread slowly, barely visible
-Against the gray—but where it seeded,
-The soil began—the invisible
+Of mineral were all on which it fed.
+The moss spread slowly, barely seen at all
+Against the gray; but where its seeding spread,
+The soil began, invisible and small:
 
-Partnership of moss and mineral turned
+The bond of moss and mineral would turn
 Rock surface into the beginnings of
-A substrate where the next seed could be earned
-A place to root—and so the love
+A substrate where the next seed's root could earn
+A place to grow—and so it was the love
 
-Of life reasserted itself in increments
-Too small to witness but too vast
-To stop—the {{x|Triassic}}'s sentiments
-Were those of rebuilding from the last
+Of life asserted itself in small ways,
+Too small to witness, but too vast to stop—
+The temper of the {{x|Triassic}}'s first days
+Was to rebuild from the last stone, the prop
 
-Foundation stone of any possible world:
-One moss on one bare rock in the first
-Year of the new era, unfurled
-From its own dormancy—the worst
+Of any world: a single moss, alone
+On one bare rock, the first year just begun
+Of the new age, from dormancy now grown,
+Unfurled; the worst was over, and was done;
 
-Was over, and the green was coming back.
+The green was coming back. And next to come,
+Conifera, whose seeds had waited long
+Within the soil through acid rain's hard drum,
+Her cones' seeds, in their dormancy, held strong
 
-Conifera came next—her seeds
-Had waited in the soil through the attack
-Of acid rain, her cone-seeds' creeds
+Through all the dying, as they'd always lain
+In waiting for the right conditions; now
+The right ones, in {{x|Triassic}} morning, plain,
+Were only this—enough to show her how:
 
-Of dormancy preserved through the long dying
-As they had always waited for the right
-Conditions—and the right conditions lying
-In the early {{x|Triassic}} morning light
+Less poison and less heat; a little rain
+With water less of acid, and so sweet
+Enough for her to germinate again;
+Her seeds broke through the soil, a quiet feat.
 
-Were only this: less poison, less heat,
-A little water in the rain
-That was less acid—that was sweet
-Enough for her to germinate again.
-
-And from the survivors—Lystro and his kind,
-Cynos from the burrow, the few
+And from survivors—Lystro and his kind,
+And Cynos from the burrow, and the few
 And battered remnants—evolution's mind
-Began again the patient work of new
+Began again its patient work of new
 
-Diversity: into every empty niche
-The survivors radiated—Cynos
-Found a world with no established rich
-Predator to contend with, and Cynos
+Diversity: in every empty niche
+Survivors radiated; Cynos found
+A world without an old, established, rich
+Predator to contend with on the ground;
 
-Explored every ecological space
-Available—small hunters, burrowers,
-And in the fullness of a later race
-Of time, the first true mammals—the harbingers
+He searched out each ecological space
+Available—small hunters, and the shy
+And burrowing; and in a later race
+Of time, the first true mammals would draw nigh,
 
-Of warm blood complete, milk given freely
-To the young, fur against the cold—
-All this was coming, all of it clearly
-Written in the survivors' bold
+The harbingers of warm blood at the full,
+Of milk that's given freely to the young,
+Of fur against the cold; all this, the pull,
+Was coming, written in the code that clung
 
-Genetic memory of what Cynos
-Was already nearly—only needing
-Time and empty niches, the disclose
-Of opportunity, the seeding
+In the survivors' bold genetic store
+Of memory: what Cynos nearly was
+Already; needing only time, and more
+Of niches: opportunity, the cause
 
-Of a new age.
+Of a new age, the seeding. And the sea,
+The ocean too, was healing, slow and pained,
+Its chemistry returned by slow degree
+Toward kinder states: less acid, and regained
 
-              And in the sea—
-For the ocean too was healing,
-Slowly, painfully, the chemistry
-Returning to the kinder feeling
+More oxygen dissolved; the sulfide's span
+Grew less as the volcanoes ceased; and when,
+In the new oxygen, the ray-fin clan,
+The schism from the other fish that then
 
-Of less acid, more dissolved oxygen,
-The sulfide fading as volcanism
-Declined—and in the new oxygen
-The ray-finned fish, the great schism
+Actinus had made in far coal-swamp days
+Of plenty: of his clans, the most of all
+In number, Teleosteos, his rays,
+Began to seize the empty ocean's hall.
 
-From the other fish that Actinus
-Had made long ago in the coal swamp's
-Abundance—Teleosteos the most
-Numerous of all his clans—
+The teleosts, who had been modest in
+The {{x|Permian}} sea, their range of kinds slight
+Beside marine invertebrates' great kin
+That had held sway—now found the ocean, quite
 
-Began to seize the empty ocean:
-The teleosts, who had been modest
-In the {{x|Permian}} sea, their notion
-Of diversity modest
+Empty; they found that the invertebrates
+Had drowned in acid; and they filled the space
+Into each depth and current, every place,
+Each niche whose occupant had met those fates.
 
-Beside the great marine invertebrates
-That had dominated—now they found
-The ocean empty, found the fates
-Of those great invertebrates had drowned
+Teleost radiation then began,
+The largest vertebrate explosion yet
+In ocean history; and so it ran
+Through the {{x|Triassic}}, slowly to offset
 
-In the acid—and they filled it:
-Into every depth and current,
-Into every niche that spilled its
-Former occupant, the current
+The emptiness with plenty; in the end
+The ray-fin fish would form one half of all
+The vertebrates on earth, and would extend
+The universal presence, great and small,
 
-Rush of teleost radiation began—
-The largest vertebrate explosion
-In the history of the ocean ran
-Through the {{x|Triassic}}'s slow erosion
+In every water on the earth; but near
+The aftermath it all began, the way
+Resilience's daughters always appear:
+Unclear, unpromising, and small, and gray—
 
-Of emptiness back into abundance—
-The ray-finned fish would ultimately
-Become half of all vertebrate redundance
-On the planet, the intimate
+A few survivors eating in a sea
+Emptied of life, and finding, as all those
+Revivers find, that emptiness can be
+An opportunity in gray-hued clothes.
 
-And universal presence in every water
-On the earth—but it began here,
-In the aftermath, as the daughter
-Of resilience always does: unclear,
+The first {{x|Easter}} of the {{x|Triassic}} was
+Without a witness who could know it well—
+Only the ordinary, classic cause
+Of life's persistence, which no one could tell
 
-Unpromising, small—a few survivors
-Eating in an empty sea
-And finding, as all true revivers
-Find, that emptiness is opportunity
-
-Dressed in gray.
-
-The first {{x|Easter}} of the {{x|Triassic}}
-Had no witnesses who understood it—
-Only the ordinary, the classic
-Persistence of life that could not
-
-Be told from simple hunger, from the bare
-Mechanics of survival—and yet
+From simple hunger, or from the bare, stern
+Mechanics of survival; and yet still
 This too is resurrection: the return
-Of green to the bare hill, the wet
+Of green upon the bare and empty hill,
 
-And patient moss on limestone, the fern
-Uncurling from the ash-soil,
-Lystro walking in the first
-Good morning of the new age—the toil
+The wet and patient moss on limestone; fern
+Uncurling from the ash and soil; and, there,
+Lystro walking in the new age's turn
+At its first morning; and the toil, the care
 
-Of rebuilding without knowing
-That you are rebuilding, just alive
-And going forward, going, going
-Toward whatever life can give.
+Of building up again, not knowing so,
+That you rebuild—just being, and alive,
+And going forward, going, on they go
+Toward whatever life can give, and thrive.
 
 Honor the {{x|Triassic}} morning—the gray
-Light of the new world filling slowly with
-The green of those who lived—each day
-A little less of death, a little myth
+Light of the new world, filling, more and more,
+With green of those who lived—with each new day
+A little less of death, a little lore
 
-Becoming history: the history of life
+Becoming history—the tale of life
 That always finds a way to be again
-After every fire and every knife
-Of mass extinction—the refrain
+After each fire and after every knife
+Of mass extinction—and the old refrain
 
-Of green returning, of the sea
-Clearing, of the first small mammal
-Looking at the morning and seeing free
-And empty opportunity.
-
-New world, new age—the {{x|Triassic}}'s cradle
-Rocking life back into being.
+Of green returning, of the clearing sea,
+And of the first small mammal, looking round
+At morning, seeing chances, empty, free:
+New world, new age, {{x|Triassic}} cradle-ground
+That rocks life back to being, safe and sound.
