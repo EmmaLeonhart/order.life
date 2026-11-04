@@ -1,148 +1,132 @@
 # Chapter 114: The Saga of Birds
 
-Now hear the song of {{c|1769|Neornis}}, the crown bird,
-{{c|1736|Deinos}}' last surviving heir—
-The feathered dinosaur whose word
-Of morning filled the {{x|Paleocene}} air
+Now hear the song of {{c|1769|Neornis}}, crown bird,
+{{c|1736|Deinos}}' surviving heir, the last of all,
+The feathered dinosaur, whose morning word
+Filled {{x|Paleocene}} air with the first call
 
-With the first music of the new world.
+Of music for the new world. Hear and heed:
+{{c|1769|Neornis}}, child of {{c|1736|Deinos}}; every bird
+That sings is dinosaur in feathered weed,
+And birdsong's morning kiss, wherever heard,
 
-For {{c|1769|Neornis}} was {{c|1736|Deinos}}' child—remember this:
-Every bird that sings is a dinosaur, furled
-In feathers, and the morning's kiss
+Is still the {{x|Mesozoic}}'s voice. The line
+Of theropods that did not end, but chose
+The wings, the seed, the flight and its design,
+Perfected in {{x|Cretaceous}} skies, now rose
 
-Of birdsong is the {{x|Mesozoic}}'s voice
-Continuing—the theropod line
-That did not end but made the choice
-Of wings and seed and the design
+Into the {{x|Cenozoic}}, bare, and filled
+It: everywhere the eye could see, there spilled
+The avian, heroic, rising tide
+Of birds.
 
-Of flight perfected over the {{x|Cretaceous}} sky
-Now flew into the empty {{x|Cenozoic}}
-And filled it—everywhere the eye
-Could see, the avian and heroic
+          The feathered clan grew far and wide
+In every niche the dinosaurs had left,
+From ocean trench to mountain's highest cleft,
+From deepest forest to the open span
+Of grassland; and the birds, of every clan,
 
-Radiation of the birds began.
+Became the most diverse warm-blooded kind
+Of vertebrates; and adaptation's mind,
+Its game, found in the birds its widest range
+Of form, the greatest spread of size and change:
 
-                                Into every niche
-The dinosaurs had left, the feathered clan
-Expanded—from the ocean's ditch
+Three grams the hummingbird; the ostrich weighs
+Three hundred pounds: the latest of the ways
+And most varied that evolution drew
+From one body plan. {{c|1770|Gastornis}} was, too,
 
-To the highest mountain, from the deepest forest
-To the open grassland, birds became
-The most diverse of all warm-blooded chorused
-Vertebrates—and the game
+Among the first to claim the empty throne
+Of theropods. The forests he had known
+In {{x|Paleocene}} days gave him the name
+Of terror bird: a flightless giant came,
+Two meters tall, his beak a crusher, made
+For bone; the self-reliant, unafraid,
 
-Of adaptation found in birds its greatest
-Range of form: the hummingbird at three grams
-And the ostrich at three hundred pounds—the latest
-And most varied of all the diagrams
+Enormous predator, the peak, the height
+Of what a bird becomes when there is none
+Of mammals large enough to challenge one
+Upon the ground; {{c|1770|Gastornis}} ruled outright
 
-That evolution drew from a single body plan.
+Early {{x|Paleocene}}. The power's scale
+Was still uncertain; and the apex crown
+By mammals was unclaimed; the bird looked down
+Upon the mouse and on the shrew, the frail,
 
-{{c|1770|Gastornis}} was among the first to claim
-The empty throne of the theropod—this began
-In the {{x|Paleocene}}'s forests, where the name
+And for a time remained the master there
+Of all the forest floor. The birds' true gift
+Was not the giant, but the small and swift,
+The many, the diverse ones everywhere,
 
-Of terror bird was earned: a flightless giant
-Standing two meters tall, with a beak
-That crushed bone—the self-reliant
-And enormous predator, the peak
+The flexible, compliant body plan
+Allowed. Then {{c|1771|Passeros}}, the songbirds, ran
+Out through the {{x|Eocene}}, a bursting cloud
+Of melody; and so the songbirds made
+The syrinx, as an instrument endowed
+With double chambers, which could sound, and played,
 
-Of what a bird becomes when there is no
-Competing mammal large enough to challenge
-The ground—{{c|1770|Gastornis}} ruled the show
-Of the early {{x|Paleocene}}, the balance
+Two notes at once, a living feat, which none
+Of all the other vertebrates has matched
+Or faced; and with this instrument each one
+Of songbirds filled the canopy, attached
 
-Of power still uncertain, the crown
-Of apex predator still unclaimed
-By any mammal—and the bird looked down
-On the mouse and the shrew and remained
+To the high forest: territories, meant
+In pure intent, unseen, but to the ear
+A symphony: each male composer, bent
+On variations, from sire and peer.
 
-For a time the master of the forest floor.
+The songbird's border was its song; no fight
+Spent energy, but song drew out its lines
+Of sound across the forest, out of sight;
+The bird who sang the most complex designs
 
-But the birds' true genius was not the giant—
-It was the small, the many, the core
-Of diversity that the compliant
+Would win the mate; and, lovely and absurd,
+By natural selection there occurred
+Earth's first musicians, and the forests rang
+With magic, competing trials; there sang
 
-And flexible body plan allowed.
+Ten thousand species.
+                      Then the raptors' flight
+Took the sky, {{c|1772|Aquilos}}' keen hunters' sight,
+Wide-winged, and clinging to the thermals' rise,
+The close and patient circling in the skies
 
-{{c|1771|Passeros}}—the songbirds—radiated
-In the {{x|Eocene}} like an exploding cloud
-Of melody: the oscines created
+Of eagle and of hawk; and falcons' speed
+Down in the stoop passed every legal bound
+Of what a vertebrate could ever need
+For swiftness: peregrine, the fastest found,
 
-The syrinx's double-chambered instrument
-That could produce two notes at once—
-A biological accomplishment
-That no other vertebrate confronts
+Two hundred miles an hour, the blue descent
+That burned; the contrast of the patient wait
+On thermals with the killing dive's intent,
+Explosive, was his art; of real estate
 
-Or matches—and with this instrument
-The songbird filled the forest canopy
-With territories of pure intent,
-Invisible to the eye but a symphony
+Of sky he made a hunting ground, a sphere;
+The bird's own chapters in predation wrote
+The sky into the country ruled by fear.
+And then the waterbirds: the penguin's coat
 
-To the ear: each male a composer
-Of his own inherited and learned
-Variations—for the songbird's closure
-Of territory was the song, which burned
+Of insulation in the southern cold,
+The albatross's wings the oceans hold,
+The pelican's pouch, the flamingo's sieve;
+Each water colonized, where they would live
 
-No energy of combat but drew lines
-Of sound across the forest, and the bird
-Who sang the most complex designs
-Won the mate—and the absurd
+Slowly, by birds' adapting art: and where
+Water lay anywhere, a bird was there,
+Adapted to its salt, its depth, its way
+Of yielding food; it mapped it, day by day.
 
-And beautiful consequence was that natural
-Selection made the world's first musicians:
-The forest filled with the magical
-And competitive auditions
+Honor {{c|1769|Neornis}}, the dinosaur who flies,
+Who sings, who dives, who wades, who swiftly runs,
+The theropod whose feathered, bright disguise
+Outlasted all of {{c|1736|Deinos}}' other sons,
 
-Of ten thousand species singing.
+And carries on the {{x|Mesozoic}} age
+In each dawn chorus, every migration,
+In every egg and nest, the skyward stage,
+Continuation of the old nation
 
-The raptors took the sky—{{c|1772|Aquilos}}'
-Sharp-eyed hunters, the wing-spreading and the clinging
-To the thermal columns, the close
-
-And patient circling of the eagle
-And the hawk and the falcon, whose speed
-In the stoop exceeded any legal
-Limit of the vertebrate's need
-
-For velocity—the peregrine at two
-Hundred miles per hour, the fastest
-Animal alive, the blue
-And burning descent—the contrast
-
-Between the patient thermal-riding wait
-And the explosive killing dive was the raptor's
-Art: to make of the sky's real estate
-A hunting ground, and the bird's chapters
-
-In the history of predation wrote
-The sky into the territory of fear.
-
-And the waterbirds: the penguin's coat
-Of insulation through the southern hemisphere,
-
-The albatross's wingspan over the ocean,
-The pelican's pouch, the flamingo's filter—
-Every body of water in slow motion
-Colonized by the avian kilter
-
-Of adaptation—for wherever water lay,
-A bird was already there, adapted
-To its salinity, its depth, its way
-Of yielding food—the bird had mapped it.
-
-Honor {{c|1769|Neornis}}—the dinosaur who flies,
-Who sings, who dives, who wades, who runs—
-The theropod whose feathered guise
-Outlasted all of {{c|1736|Deinos}}' other sons
-
-And carries the {{x|Mesozoic}} forward
-In every dawn chorus, every migration,
-Every egg in every nest—the skyward
-Continuation of the oldest nation
-
-Of the archosaurs: the bird is the dinosaur
-Perfected, the dinosaur distilled
-To feather, song, and flight—and nothing more
+Of archosaurs: the bird, the dinosaur
+Perfected, and the dinosaur distilled
+To feather, song, and flight; and nothing more
 Is needed, and the morning world is filled.

@@ -1,142 +1,123 @@
 # Chapter 124: The First Primates
 
-Now the story turns toward the storyteller.
+Now turns the story toward the one who tells:
+Among {{c|1785|Euarchos}}' children, who would climb
+The northern forests' trees, where each one dwells,
+There was a better line, complex in time,
 
-For among {{c|1785|Euarchos}}' children—the tree-dwellers
-Of the northern forests—there was a better
-And more complicated line, the sellers
+That sold the mammals' future: primates, these,
+{{c|1811|Primos}}, whose story was the preface, set
+Before the human chapter; in the trees
+Each adaptation was the surface, met
 
-Of the mammalian future: the primates,
-{{c|1811|Primos}}, whose story is the preface
-To the human chapter—the primates
-Whose every adaptation was the surface
-
-Of the coming mind.
-
-                     It began in the trees.
-
-The {{x|Paleocene}}'s forests grew tall and warm
-And canopy-closed—and the expertise
+By coming mind. It began in the trees.
+The {{x|Paleocene}}'s forests rose, and warm,
+And closed in canopy; the expertise
 Of living in the trees required a form
 
-Of perception different from the ground:
-The branch is narrow and the fall is far,
-And the animal who leaps must be found
-Precise in its judgment of where the bar
+Of seeing different from the ground's: the bough
+Is narrow and the fall is far, and he
+Who leaps must judge, precise, the where and how
+Toward the next bar, where the next branch will be;
 
-Of the next branch is—and for this
-The primate evolved the forward-facing eye.
+And for this purpose came the forward eye:
+Two eyes, looking in one direction's kiss
+Of overlapping sight, would make the high
+And narrow world, the canopy's abyss,
 
-Two eyes looking in the same direction's kiss
-Of overlapping vision made the high
+Three-dimensional: the depth perception,
+Binocular geometry, two views
+Merged; and the parallax, its reception,
+That told the brain the distance, so to choose
 
-And narrow world of the canopy
-Three-dimensional: depth perception,
-The binocular geometry
-Of two views merged, the interception
+How far the branch was; this was the domain
+Of primates' innovation, the first one:
+The visual abyss, and in its train
+The calculated leap.
+                     And there was done
 
-Of the parallax that told the brain
-How far away the branch was—this
-Was the primate's first domain
-Of innovation: the visual abyss
+The grasping hand: and {{c|1811|Primos}} grew the thumb,
+Opposable, the deep and the command,
+Revolutionary, precise: and from
+The claw's hook to the grip around, the hand
 
-Replaced by the calculated leap.
+Encircling branches; and the great cascade
+Of handling that the bands of thumb allow
+And finger: primates grasp and pick, and laid
+Before the brain a world of things, and how
 
-And the hand—{{c|1811|Primos}} grew the grasping hand,
-The opposable thumb's deep
-And revolutionary command
+The hand would feed the mind with touch, the clutch
+Of grip; the mind would steer it with intent.
+The brain grew; not at once; no single such
+Event of doubled neurons; slowly, bent
 
-Of precision: to hold the branch
-Not with the claw's hook but with the hand's
-Encircling grip, the avalanche
-Of manipulation that the bands
+Past mammal average, it expanded,
+The cortex folding over and again,
+More computing power, as demanded
+By canopy's vortex and its domain
 
-Of finger and of thumb allow—
-The primate could grasp, could pick,
-Could manipulate, could show
-The brain a world of objects, the trick
+Of social, spatial worlds that need more thought,
+More memory, prediction; and so, brought
+To fit the need, the cerebrum would grow
+Its folded, wrinkled stock.
+                          And long ago
 
-Of the hand feeding the mind with touch
-And the mind directing the hand with intent.
+{{c|1812|Lemuros}}, the ghost-eyed lemur, was sent
+To {{p|Madagascar}}, when that island's seed
+Was cut from {{p|Africa}}, and from it went,
+And drifted with its cargo, its first breed
 
-The brain grew. Not overnight—no clutch
-Of neurons doubled in a single event—
+Of primates, who would never see the main
+Again; and in that isolation's span
+{{p|Madagascar}}'s fates made the lemurs' reign:
+The aye-aye's tapping finger, which began
 
-But slowly, the primate's brain expanded
-Beyond the mammalian average, the cortex
-Folding and refolding, the demanded
-Computing power of the vortex
+To seek for grubs; the ring-tailed lemur's troops;
+The indri's eerie song, its clapping call
+Across the forest: coastal island's groups,
+A living museum, the first of all,
 
-Of the canopy's social and spatial world
-Requiring more processing, more memory,
-More prediction—and the furled
-And wrinkled cerebrum's inventory
+Of what the primate was ere monkeys came.
+{{c|1813|Tarsios}}, big-eyed, the {{x|Te Deum}} sung
+Of the nocturnal hunter, and the frame
+Of a tiny primate, with eyes, among
+The huge, of half his skull: each eye the same
+As the brain behind it, in size: the prize
+Of vision in near-darkness; and the leap
+Of tarsier hunting, guided by those eyes,
+Which gathered every photon from the deep
 
-Grew to accommodate the need.
+Of forest darkness. Small and ancient, fierce,
+The tarsier was the proton, first in line
+Of primates, hunting insects; time would pierce
+His lineage, in dark, by long design,
 
-{{c|1812|Lemuros}}—the ghost-eyed one—was sent
-To {{p|Madagascar}} when that island's seed
-Was cut from {{p|Africa}}, the continent
+And carry forward: patriarch's own mark
+Of what the primate was before the light
+Of color, and before the social spark
+Of monkeys' world, which opened up, outright,
+To something new; but he, as long before,
+Asocial, ancient tarsier, kept in store
+The vigil of the early primate's way.
+And {{c|1814|Aegyptopithos}}, the fossil found
+In {{p|Egyptian}} earth, told anthropoid day:
+The first true higher primate, as the ground,
+The bridge between prosimian and the ape
+And monkey, in {{p|Fayum Depression}} found,
+A ridge in {{p|Africa}}: the chunky shape,
+The small-brained ancestor, whose line was crowned
 
-Drifting away with its cargo of early primates
-Who would never see the mainland again—
-And in that isolation the {{p|Madagascar}} fates
-Produced the lemur's radiation: the den
+With all that followed: monkey, ape, and man.
+Honor {{c|1811|Primos}}, tree-dwelling one, the clan
+That grasped with hands, saw forward, grew the brain,
+Who started on the longest road, the plain
 
-Of the aye-aye's skeletal finger tapping
-For grubs, the ring-tailed lemur's social
-Troops, the indri's eerie clapping
-Song across the forest—the coastal
+Approach to consciousness evolution
+Has ever made, not knowing where it led,
+Branch to branch, careful, its resolution
+Of caution that would lay, for what's ahead,
 
-Island that became the living museum
-Of what the primate was before the monkey came.
-
-{{c|1813|Tarsios}}—the big-eyed one—the {{x|Te Deum}}
-Of the nocturnal hunter, the frame
-
-Of a tiny primate whose enormous eyes
-Filled half the skull, each eye as large
-As the brain behind it—the nighttime prize
-Of vision in near-darkness, the charge
-
-Of the tarsier's hunting leap was guided
-By those eyes that gathered every photon
-The forest's darkness had provided—
-The tarsier was the proton
-
-Of the primate line: small, ancient, fierce,
-A hunter of insects in the dark
-Whose lineage the deeper time would pierce
-And carry forward—the patriarch's mark
-
-Of what the primate was before
-The daylight and the color and the social
-World of the monkey opened the door
-To something new—but the asocial
-
-And ancient tarsier kept the vigil
-Of the early primate's way.
-
-And {{c|1814|Aegyptopithos}}—the {{p|Egyptian}} fossil
-Who announced the dawn of the anthropoid day:
-
-The first true higher primate, the bridge
-Between the prosimian and the monkey,
-Found in the {{p|Fayum Depression}}'s ridge
-In {{p|Africa}}—the chunky
-
-And small-brained ancestor of everything
-That would come after: monkey, ape, and man.
-
-Honor {{c|1811|Primos}}—the tree-dwelling, hand-grasping,
-Forward-seeing, brain-expanding clan
-
-Who began the longest approach to consciousness
-That evolution has ever made—
-Not knowing where it led, the cautiousness
-Of the branch-to-branch's careful trade
-
-Laying the foundation for the hand
-That would one day hold a pen, and the eye
-That would one day read the stars, and the grand
-And folded brain that would one day ask why.
+Foundations for the hand that one day would
+Hold pens, and eyes that one day read the sky
+And stars, and folded brain, which one day could
+Look up at all of it and ask it: why?

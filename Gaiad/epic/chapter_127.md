@@ -1,141 +1,116 @@
 # Chapter 127: The Apes
 
-Now the tail was lost.
+The tail was lost. Then, in the {{x|Miocene}},
+Warm forests, out of {{c|1819|Catarrhinos}}' line,
+A branch gave up the monkey's tail, the keen
+Balance it gave, the feline, small design
 
-                      In the {{x|Miocene}}'s
-Warm forests, from {{c|1819|Catarrhinos}}' line,
-A branch gave up the monkey's means
-Of the tail's balance and the feline
+Of body; and grew larger, broader, wide
+Of shoulders, which rotated freely, made
+Embodiment of climbing new, displayed
+On boulders and on great trees' trunks, the side
 
-Flexibility of the small body—
-And grew larger, broader, the shoulders
-Rotating freely, the embody-
-Ment of a different climbing: the boulders
+Not run along the branch, but, hanging, climbed
+Beneath it: brachiation's expertise,
+The avalanche of arm-over-arm, timed,
+Moving beneath the canopy with ease.
 
-And the vertical trunks of the great trees
-Were scaled not by running along the branch
-But by hanging beneath it—the expertise
-Of brachiation, the avalanche
+The ape swung, fluid as the ocean's sweep,
+Arms spread, the body pendular between.
+{{c|1824|Proconsulos}}, the dawn ape, first to leap,
+A {{x|Miocene}} ape, {{p|African}}, the mean
 
-Of arm-over-arm locomotion
-Through the canopy's underside,
-The ape swinging with the ocean's
-Fluidity, the arms spread wide
+Between the apes and monkeys: a rehearsed
+And transitional form, which had a tail
+Still, but whose shoulder, free to turn, came first,
+Rotating; and whose body told the tale
 
-And the body pendular between them.
+Of the ape's beginning, and the decree
+Of a new way of being primate. And
+{{c|1825|Hylobatos}}, gibbon, perfected, free,
+The art of swing: the lesser ape, at hand
 
-{{c|1824|Proconsulos}}—the dawn ape—was first:
-A {{x|Miocene}} {{p|African}} between them
-And the monkeys, the rehearsed
+With canopy's geometry, the heart
+Of swinger's world; the gibbon's moving art
+Through treetops, faster than a man can run
+Upon the ground; long arms tuned to the one
 
-And transitional form that still had a tail
-But whose shoulder was already free
-To rotate, whose body told the tale
-Of the ape's beginning—the decree
+Rhythm of pendulum's momentum; each
+Swing timed precisely, every grab, the hold
+Calculated by the brain's concise reach
+Of three-dimensional space, mapped and told:
 
-Of a new way to be primate.
+And the gibbon sang: its song, the duet
+Of male and female, morning's anthem rung,
+Territorial through the air, and met
+The {{p|Asian}} forest: of the apes, among
 
-{{c|1825|Hylobatos}}—the gibbon—perfected the art
-Of the swing: the lesser ape, intimate
-With the canopy's geometry, the heart
+The non-human primates', most complex text
+Of song: not howler's bellowing, the flexed
+Bass, but the acumen, melodic, planned,
+A structured, thirty-minute concert, and
 
-Of the brachiator's world—the gibbon moved
-Through the treetops faster than a man can run
-On the ground, the long arms grooved
-Into the rhythm of the pendulum's stun
+The mated pair performed it, close and bright,
+Coordinated, two voices in flight,
+Weaving together in the forest's dawn.
+Then the great apes would change the story, drawn
 
-Of momentum—each swing precisely
-Timed, each grab of the next branch
-Calculated in the brain's concisely
-Mapped three-dimensional avalanche
+Anew. {{c|1826|Pongos}}, orangutan, the red
+And solitary sage of {{p|Asian}} wood,
+The philosopher, in {{p|Borneo}} bred
+And {{p|Sumatra}}; whose thought no monkey could
 
-Of spatial awareness—and the gibbon sang.
-
-The gibbon's song—the duet of the pair,
-Male and female, the morning's rang
-And territorial anthem through the air
-
-Of the {{p|Asian}} forest—was the most complex
-Vocal performance of any non-human
-Primate: not the howler's flexed
-And bellowing bass but the acumen
-
-Of a structured, melodic, thirty-minute
-Concert that the mated pair
-Performed together—the intimate
-And coordinated affair
-
-Of two voices weaving together
-In the forest dawn.
-
-                      But it was the great apes
-Who would change the story altogether.
-
-{{c|1826|Pongos}}—the orangutan—the escapes
-Of the {{p|Asian}} forest's solitary sage:
-The red-haired philosopher of {{p|Borneo}}
-And {{p|Sumatra}}, whose cognitive age
-Exceeded every monkey's—the scenario
-
-Of the orangutan's intelligence was this:
-The solitary life in the complex forest
+Match: his intelligence, the case, was this:
+The solitary life in forest maze
 Required a mental map of the abyss
-Of fruit-tree locations—the forest's poorest
+Of fruit-tree places, scattered through the ways;
 
-And most scattered diet demanded
-That the orangutan remember the location,
-The fruiting schedule, and the commanded
-Route between a thousand trees—a station
+The scattered, poorest diet demanded
+That he remember where, the schedule when
+Of fruiting, and the route, as commanded,
+Between a thousand trees: a station, then,
 
-Of memory and planning that no monkey's
-Social brain could match in its solitary
-Equivalent—the orangutan's chunky
-And deliberate cognition, the solitary
+Of memory and plan no monkey's brain
+Of social kind could match in solitude:
+His chunky and deliberate thought, the chain
+Of solitary genius, which pursued
 
-Genius of the forest's deepest puzzle.
+The forest's deepest puzzle. And then, in
+{{p|Africa}}: tree ape {{c|1827|Dryopithos}}, kin
+And ancestor of muzzle, hand, and brain,
+Whose shape would be gorilla's, and would gain
 
-And in {{p|Africa}}: {{c|1827|Dryopithos}}—the tree ape—
-The ancestor of the muzzle
-And the hand and the brain whose shape
+The chimpanzee's, and last the human's: these
+{{p|African}} apes: {{x|Miocene}} expertise
+In forest canopy beside the lake
+Of {{p|Rift Valley}}, pelican-rich, would make
 
-Would become the gorilla's, the chimpanzee's,
-And at last the human's—the {{p|African}}
-Great apes whose {{x|Miocene}} expertise
-In the forest canopy of the pelican-
+Margins, produce the largest and most bright
+Of living architects: the largest brain,
+Proportioned to the body, primates' chain
+Had yet achieved. And tools: the first in sight
 
-Rich {{p|Rift Valley}} lake margins
-Would produce the largest
-And most intelligent of the margins'
-Living architects—the largest
+Of evidence a non-human conceived
+The world as material to be shaped:
+The chimpanzee's own forebear, who achieved,
+Picking a stone, a stick; a leaf he draped
 
-Brains in proportion to body
-That the primate line had yet achieved.
+For water, like a cup: deliberate
+Manipulation of the object-world
+For purpose past the immediate state
+Of the sensation: the primate's hand, curled
 
-And they used tools—the first body
-Of evidence that a non-human conceived
+Into the surface of designed intent.
+Honor the apes, the tailless, those who went,
+Who swung and thought and sang, who are the line
+Between the monkeys' million suns, a sign
 
-Of the world as material to be shaped:
-The chimpanzee ancestor who picked up
-A stone, a stick, who draped
-A leaf for water like a cup—
+And human's singular ambition: these,
+Swingers, tool-users, singers, patient, wise,
+Whose long cognition was the preface, keys
+To fingers that would one day write, the rise
 
-The first deliberate manipulation
-Of the object-world for a purpose
-Beyond the immediate sensation:
-The primate's hand becoming the surface
-
-Of intentional design.
-
-Honor the apes—the tailless ones
-Who swung and thought and sang, the line
-Between the monkey's million suns
-
-And the human's singular ambition—
-The brachiators, the tool-users, the singers,
-The patient ones whose long cognition
-Was the preface to the fingers
-
-That would one day write, and the voice
-That would one day speak, and the brain
-That would one day make the conscious choice
-To ask: from what beginning came this chain?
+Of voice that one day speaks, the mind arrayed
+For conscious choice, that one day, unafraid,
+Would ask, within its wrinkled, folded brain:
+From what beginning, then, has come this chain?

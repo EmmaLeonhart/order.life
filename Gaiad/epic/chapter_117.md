@@ -1,119 +1,107 @@
 # Chapter 117: The Threefold Division
 
-Now {{c|1775|Placentos}}—the youngest and the last
-Of {{c|1743|Mammos}}' three great houses—rose to claim
-The world entire: for {{c|1775|Placentos}} had surpassed
+Now {{c|1775|Placentos}}, the youngest and the last
+Of {{c|1743|Mammos}}' three great houses, rose to claim
+The world entire; for he had surpassed
 Both elder siblings in the single game
 
 That mattered most: the womb.
-
-                                For {{c|1775|Placentos}}
-Built inside the mother's body a new
-And revolutionary organ—the placenta's
-Gift was this: a tissue that grew
+                              {{c|1775|Placentos}} made
+Inside the mother's body something new,
+A revolutionary organ, laid,
+Placenta's gift: a tissue that grew through
 
 Between the mother and the child, a bridge
-Of blood that fed the embryo directly
-From the mother's circulation—the ridge
-Between the two bloods meeting perfectly
+Of blood that fed the embryo direct
+From mother's circulation; and the ridge
+Between the bloods would meet, but not connect:
 
-But never mixing—oxygen and nutrients
-Crossing from the mother's side, the waste
-Returning—and the child's long residence
-Within the womb allowed a pace
+And oxygen and nutrients would flow
+From mother's side, the waste returned below;
+The child's long residence within the womb
+Allowed what neither egg nor pouch gave room.
 
-Of development no egg or pouch could match:
-The placental mammal was born larger,
-More developed, more ready to dispatch
-Its first breath—and the larger
+Placental mammals were born larger, more
+Developed, readier for breath; the store
+Of longer gestation allowed the brain
+To grow, and this was the placentals' gain
 
-Brain that the longer gestation allowed
-Was the placental's advantage in a world
-Where intelligence would matter—the endowed
-And complex brain, its cortex furled
+In worlds in which intelligence would win:
+The complex brain, the cortex folded in
+Folds no marsupial could grow within
+Its short gestation, was the womb's long gift,
+Development's extended show, the shift
 
-In folds that no marsupial could grow
-In its short gestation, was the gift
-Of the womb's extended show
-Of development—the evolutionary shift
+Of evolution that would yield the whale,
+The elephant, the dolphin, and the ape,
+And human mind at last. And then the tale
+Of {{c|1775|Placentos}} divided, took the shape
 
-That would produce the elephant, the whale,
-The dolphin, the ape, and at last the human mind.
+Of {{x|Cenozoic}} mammals is the kind
+That geography writes: three lands assigned,
+Three lines, three adaptive flights, each one free
+And independent: the threefold decree
 
-And {{c|1775|Placentos}} divided, and the tale
-Of the {{x|Cenozoic}}'s mammals is the kind
+Of the breaking {{p|Gondwana}} and the north.
+In {{p|Africa}} {{c|1782|Afrotheros}} was born,
+Cut off by ocean's bands, and going forth
+From every other continent: forlorn,
 
-Of story that geography writes:
-Three continents, three lineages, three
-Separate and independent flights
-Of adaptation—the threefold decree
+A replica of the {{p|Australian}} test:
+A single landmass, isolate, alone,
+Where {{c|1782|Afrotheros}}' children, none oppressed,
+Unlike their northern cousins, filled each zone.
 
-Of the breaking {{p|Gondwana}} and the northern lands.
+Heroes of {{p|Africa}}'s radiation
+Were strange, unforeseen: elephant, aardvark,
+Hyrax, manatee: forms' variation
+That {{p|Africa}}, cut off, made in the dark
 
-{{c|1782|Afrotheros}} was born in {{p|Africa}}—
-Isolated by the ocean's bands
-From every other continent, a replica
+Of early {{x|Cenozoic}} times, from one
+Founding stock. And {{c|1783|Xenarthros}} was the son
+Of {{p|South America}}, armored, who'd roam,
+A wanderer, whose flock grew far from home,
 
-Of the {{p|Australian}} experiment:
-A single landmass, alone, where {{c|1782|Afrotheros}}'
-Children filled the niches in a different bent
-Than their northern cousins—and the heroes
+In isolation too: the sloth who hung
+Inverted from the branches of the trees;
+The armadillo, banded; and the tongue
+Of anteater, with probing expertise,
 
-Of the {{p|African}} radiation were strange
-And unexpected: the elephant, the aardvark,
-The hyrax, the manatee—the range
-Of forms that {{p|Africa}}'s isolation in the dark
+That probed the termite mound; and later, vast,
+The {{x|Pleistocene}} produced its giants: ground
+Sloth tall as any house, and, armored, round,
+The car-sized glyptodont, whose shell was cast
 
-Of the early {{x|Cenozoic}} produced
-From a single founding stock.
+In carapace, a living tank. And forth
+Came {{c|1784|Boreos}}, born in {{p|Laurasia}}, north:
+The largest and the most successful rank
+Of all; for from his line, as from a bank,
 
-{{c|1783|Xenarthros}} was born in {{p|South America}}—
-The armored wanderer, whose flock
-
-Of children grew in isolation too:
-The sloth who hung inverted from the trees,
-The armadillo in his banded hue
-Of armor-plate, the anteater's expertise
-
-Of tongue that probed the termite mound—
-And in the {{x|Pleistocene}}, the giant forms:
-The ground sloth tall as a house, the round
-And car-sized glyptodont whose armored storms
-
-Of carapace made him a living tank.
-
-And {{c|1784|Boreos}}—born in the north, in {{p|Laurasia}}—
-The largest and most successful rank
-Of all: for {{c|1784|Boreos}}' intelligentsia
-
-Would produce the carnivores, the ungulates,
-The bats, the whales, the primates, the rodents—
-The overwhelming majority of the fates
-Of mammals were decided in the correspondents
-
-Of {{c|1784|Boreos}}' northern radiation.
-
+Would come the hoofed ones and the carnivores,
+The bats, the whales, the primates, rodents; scores:
+The great majority of mammals' fates
+Were settled, northward, where his line creates,
+In {{c|1784|Boreos}}' northern radiation.
 Two great houses divided from his line:
-{{c|1785|Euarchos}}—whose predestination
-Led to the primates and the rodent's design—
+{{c|1785|Euarchos}}, he whose predestination
+Led to the primates, rodents' own design;
 
-And {{c|1786|Laurasios}}—whose children were
-The carnivores, the hoofed ones, and the bats—
+And then {{c|1786|Laurasios}}, from whom appear
+The carnivores, the hoofed ones, and the bats,
 The northern hunter and the engineer
-Of ungulate and predator, the vats
+Of ungulate and predator; the vats
 
 Of diversity that {{p|Laurasia}}'s wide
-And connected continents allowed.
+And its connected continents allowed.
+Honor the threefold division, the pride
+Of {{c|1775|Placentos}}' house, and the sons endowed
 
-Honor the threefold division—the pride
-Of {{c|1775|Placentos}}' house, the endowed
+And scattered, who had taken the world's three
+Great continents, and filled them, each alone,
+With mammalian art: the flags flown free
+{{c|1782|Afrotheros}}', {{c|1783|Xenarthros}}', and the throne
 
-And scattered sons who took the world's
-Three continents and filled them, each alone,
-With the mammalian art—the flags unfurled
-Of {{c|1782|Afrotheros}}, {{c|1783|Xenarthros}}, and the throne
-
-Of {{c|1784|Boreos}}—three answers to the question
-That the empty {{x|Paleocene}} asked:
-What will the mammal be? Three directions,
-Three continents, three futures unmasked.
+Of {{c|1784|Boreos}}: three answers to the quest
+That empty {{x|Paleocene}} had addressed:
+What will the mammal be? Three ways to go,
+Three continents, three futures they would know.

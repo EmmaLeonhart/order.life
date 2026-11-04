@@ -1,138 +1,122 @@
 # Chapter 115: The Monotremes
 
-Now hear of {{c|1743|Mammos}}' eldest children—
-The ones who kept the oldest ways,
-Who never left the ancient building
-Of the egg behind, who spent their days
+Now hear of {{c|1743|Mammos}}' eldest children, who
+Kept to the oldest ways, and never threw
+The ancient building of the egg away:
+In {{x|Mesozoic}} manner still they stay.
 
-In the manner of the {{x|Mesozoic}} still:
-Laying eggs, sweating milk from patches
-On the belly's skin, the ancient fill
-Of maternal care that predates the latches
+They lay eggs, and they sweat milk from patches
+Upon the belly's skin: the ancient fill
+Of mother-care that predates the latches
+Of nipple and placenta: these are still
 
-Of the nipple and the placenta—
-{{c|1773|Monotremos}}, the first-born of the mammal line,
-Who represents the living magenta
-And fading ink of the original design.
+{{c|1773|Monotremos}}, the mammals' first-born line,
+Who stands as living ink, the faded hue
+Of what was the original design.
+For {{c|1743|Mammos}}' house split early, and it grew
 
-For {{c|1743|Mammos}}' house divided early
-Into three great branches of the blood:
-{{c|1773|Monotremos}} first—who held the dearly
-Ancient ways—then {{c|1774|Marsupios}}, the flood
+Into three branches of the blood: the first,
+{{c|1773|Monotremos}}, who held the ancient ways;
+Then the pouched flood, {{c|1774|Marsupios}}, that burst;
+{{c|1775|Placentos}} last, the newcomer, whose days
 
-Of the pouched ones—and last {{c|1775|Placentos}},
-The newcomer whose womb would change
-The world—but first the old dispensation's
-Story, and the southern range
+And womb would change the world. But first be told
+Old dispensation's tale, the southern range
+Of {{c|1773|Monotremos}}' house, ancient and strange,
+Down in {{p|Gondwana}}'s south, which was not cold:
 
-Of {{c|1773|Monotremos}}' strange and ancient house.
+{{p|Antarctica}} was forested and warm;
+The grouse, the fern, the beech tree's plenty fed
+A world that would not last: the coming storm
+Of ice was in the cooling currents read.
 
-In {{p|Gondwana}}'s south, where {{p|Antarctica}}
-Was still forested and warm, the grouse
-And fern and beech tree's cornucopia
+{{p|Antarctica}} was drifting to the pole;
+But first, before the ice, they had their role:
+They walked those forests, swam those rivers' flow,
+And the southern ocean's shore came to know
 
-Fed a world that would not last—
-For {{p|Antarctica}} was drifting south
-Toward the pole, and the forecast
-Of ice was written in the mouth
+Their quiet presence: mammals that would lay
+Their eggs in warm {{p|Antarctica}}: a trace
+Of memory that only, to this day,
+Enamel of the ancient teeth, the place
 
-Of every cooling current—but before
-The ice, the monotremes walked those forests
-And swam those rivers, and the shore
-Of the southern ocean knew their chorused
+In {{p|Antartica}}'s fossil record, keep.
+Then from {{p|Antarctica}} broke {{p|Australia}}
+And drifted north, and in its northward sweep
+Bore {{c|1773|Monotremos}} to its regalia
 
-And quiet presence—egg-laying mammals
-In a warm and forested {{p|Antarctica}},
-A memory that only the enamel
-Of ancient teeth and a scattered {{p|Antartica}}
+Of isolation; from that point, the cage
+Of drifting continent had locked them in,
+Alone with marsupials; and the age
+Of {{x|Cenozoic}}, {{p|Northern Hemisphere}}'s,
+Was foreign land, whose lords would never win
+Their way to them, placental, far or near.
 
-Fossil record preserves.
+{{c|1776|Ornithorhyncos}}, platypus, whose tale
+Is strangest of the strange that life has made,
+Séance of the improbable, displayed:
+A mammal with duck's bill and beaver's tail,
 
-                         When {{p|Australia}}
-Broke from {{p|Antarctica}} and drifted north,
-It carried {{c|1773|Monotremos}} to the regalia
-Of isolation—and from that point forth
+Venomous spurs; and he detects the frail
+And tiny signals that the rivers bear,
+Electrical: the platypus hunts there
+Not by his sight or smell or sound; the trail
 
-The monotremes were locked in the southern cage
-Of a drifting continent, alone
-With the marsupials—and the {{x|Cenozoic}} age
-Of the {{p|Northern Hemisphere}} was the unknown
+Electric fuss from every muscle-twitch
+That any creature makes beneath the stream:
+His bill is an antenna for the rich
+Bioelectric field, a living scheme,
 
-And foreign country whose placental lords
-Would never reach them.
+Reading the river's shrimp and crayfish, found
+Revealed, a living map of all that moves.
+He lays his eggs; the mother curls around
+Them in the burrow by the bank, and proves
+The {{x|Mesozoic}}'s way can still astound
 
-                         {{c|1776|Ornithorhyncos}}—
-The platypus—of all the records
-Of evolution's strangeness, the seance
+All those who thought the egg was left behind:
+Milk sweats from patches on the belly, still
+No nipple yet; the oldest of the kind
+Of mammal nursing, the maternal fill,
 
-Of the improbable made real: a mammal
-With a duck's bill, a beaver's tail,
-Venomous spurs, and the electrical
-Detection of the river's frail
+The jelly of maternal care, laid bare,
+Here in its most ancient, earliest form.
+And {{c|1777|Echidos}}, echidna, spiny, there,
+The ant-eater, who weathered every storm
 
-And tiny electrical signals—for the platypus
-Hunts not by sight or smell or sound
-But by reading the electrical fuss
-Of every muscle-twitch that any creature found
+Of {{p|Australian}} interior, his small
+Efficient tongue that probes the termite mound
+With the long patience of a saint, and all
+Spines, porcupine's copyright, wrapped him round
 
-Beneath the water makes—the bill
-Is an antenna for the bioelectric field,
-And the platypus reads the river's fill
-Of shrimp and crayfish like a revealed
-
-And living map of everything that moves.
-
-He lays eggs—the mother curls around them
-In the burrow by the riverbank, and proves
-That the {{x|Mesozoic}}'s way can still astound them
-
-Who thought the egg was left behind:
-The milk sweats from patches on the belly,
-No nipple yet—the oldest kind
-Of mammalian nursing, the jelly
-
-Of maternal care in its most ancient form.
-
-And {{c|1777|Echidos}}—the echidna, the spiny
-Ant-eater, who weathered every storm
-Of the {{p|Australian}} interior, the tiny
-
-And efficient tongue that probes the termite
-Mound with the patience of a saint,
-Protected by the porcupine's copyright
-Of spines against the predator's complaint—
-
-The echidna too lays eggs, a single
-Leathery sphere deposited in the pouch
-That the mother carries—the commingle
-Of reptilian egg and mammalian crouch
+Against complaint of predators. He too
+Lays eggs, one leathery sphere, in the pouch
+The mother carries: in it, mingled through,
+Of reptile egg with mammal's care and crouch,
 
 Of care, the oldest compromise alive
-Between the cold-blooded past and the warm-blooded
-Future—the monotreme's archive
-Of the mammal's deepest origin, flooded
+Between cold-blooded past and blood that's warm,
+Its future; and the egg-layers' archive
+Of mammals' deepest origin and form,
 
-With the memory of what {{c|1743|Mammos}} was
-Before the nipple, before the womb,
-Before the placenta's elaborate gauze—
-Just milk and egg and the warm room
+With memory of {{c|1743|Mammos}} long ago,
+Before the nipple, and before the womb,
+Before placenta's elaborate show:
+Just milk and egg, and the warm mother's room,
 
-Of the mother's body, the original
-Mammalian contract: I will keep you warm,
-I will feed you from myself, and the minimal
-Technology of the egg is the first form
+Her body, the original and first
+Mammalian contract: "I will keep you warm,
+And feed you from myself"; and the egg's form,
+The minimal technology, rehearsed
 
-Of that promise.
+The first form of that promise.
+                                Honor due
+{{c|1773|Monotremos}}, the living fossil, who,
+Still in {{p|Australia}}'s hymns and rivers, holds
+The oldest mammal ways, as life unfolds,
 
-                  Honor {{c|1773|Monotremos}}—
-The living fossil, the keeper of the oldest
-Mammalian ways in {{p|Australia}}'s hymns
-And rivers—the humblest and the boldest
-
-Of all the mammals: humblest in their ancient
-Form, and boldest in their refusal
-To change what works—the patient
-And the beautiful, the eternal recusal
-
-From the modern, the keeper of the flame
-Of what {{c|1743|Mammos}} was at the beginning.
+Humblest of mammals, and boldest too:
+Humble in ancient form, bold through and through,
+Refusing to change what works; and the true,
+The patient and the beautiful, who stay
+Forever turning from the modern; they
+Keep {{c|1743|Mammos}}' flame alive from his first day.

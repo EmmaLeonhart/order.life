@@ -1,143 +1,129 @@
 # Chapter 122: The Marine Mammals
 
-Three times the mammals returned to the sea—
-Three separate lineages, three independent
-Experiments in aquatic sovereignty,
-And each time the body's transcendent
+Three times the mammals went back to the sea:
+Three separate lines, each independent, three
+Experiments in reigning in the deep;
+And each time, the transcendent body's keep,
 
-Engineering rebuilt the land-walker
-Into the swimmer, the diver, the ocean's lord.
+Its engineering, built the walker new,
+A swimmer, diver, lord of ocean blue.
+The first and greatest was the whale: who stalks
+The deep began as one who, walking, walks
 
-The first and greatest was the whale—the stalker
-Of the deep who began as a walking horde
+A crowd of small and doglike creatures, bred
+On {{p|Tethys}}' shore, in {{x|Eocene}}'s warm bed
+Of the shallows: {{c|1801|Pakicetos}}, the size
+Of wolves, no more, whose genes would bring to rise
 
-Of small, dog-like creatures on the shore
-Of the {{p|Tethys}} Sea in the {{x|Eocene}}'s
-Warm shallows—{{c|1801|Pakicetos}}, no more
-Than a wolf in size, whose genes
+The largest animal the world has seen
+Alive on earth. From {{c|1801|Pakicetos}}, keen,
+Wading in shallows, hunting fish, and set
+On {{p|Tethys}}' coast, where land and water met,
 
-Would produce the largest animal
-That has ever lived on earth.
+The whale's transition went on, stride by stride:
+{{c|1802|Ambulocetos}}, walking whale, who tried,
+A crocodile-like swimmer, to forswear
+The land, but not completely: he would fare
 
-From {{c|1801|Pakicetos}}' shallow, analytical
-And fish-hunting wading at the berth
+Walking and swimming, amphibious, whose
+Hind legs still met the beat of ground to use,
+But whose front legs were paddles, as he went
+Through coastal water.
+                      Then, with legs that bent
 
-Of the {{p|Tethys}} coast, the whale's transition
-Proceeded step by step: {{c|1802|Ambulocetos}}
-Was the walking whale, the rendition
-Of a crocodile-like swimmer whose veto
+And shrank behind him, {{c|1803|Rodhocetos}} came;
+His nostrils moved; the land-body's old frame
+Was slaughtered, sinking toward the streamlined form;
+And then {{c|1804|Basilosauros}}, of the warm
 
-Of the land was not yet complete—
-He walked and swam, an amphibious hunter
-Whose hind legs still met the beat
-Of the ground but whose front legs were the punter's
+And ancient ocean, sixty feet of snake,
+A whale fully aquatic, in whose wake
+His vestigial hind-limbs drew the line,
+His last remembrance of the land's design
 
-Paddles in the coastal water.
+The whale would ever carry. By the late
+{{x|Eocene}}, ocean's command, the estate
+Of the cetacean, now fully marine.
+And then the great division: the machine
 
-Then {{c|1803|Rodhocetos}}—the hind legs shrinking,
-The nostrils migrating, the slaughter
-Of the land-body's architecture sinking
+Of echolocation was devised by
+{{c|1805|Odontocetos}}, the toothed whales: his eye
+Was sonar underwater, in the sperm
+Whale and the dolphin, melon in the firm
 
-Toward the streamlined form—and {{c|1804|Basilosauros}},
-The ancient whale, sixty feet of serpentine
-And fully aquatic ocean's chorus,
-Whose tiny vestigial hind-limbs' line
+Forehead that focused clicks into a beam;
+The echo's tale, returning, like a dream,
+Produced a map in three dimensions, dark
+And murky ocean seen: the dolphin, stark,
 
-Was the last memory of the land
-That the whale would ever carry—
-By the late {{x|Eocene}}, the command
-Of the ocean was the cetacean's missionary
-
-Position: the whale was fully marine.
-
-And then the great division: {{c|1805|Odontocetos}}—
-The toothed whales—invented the machine
-Of echolocation, the subaqueous
-
-Sonar of the dolphin and the sperm whale—
-The melon in the forehead focusing
-The click into a beam, the tale
-Of the echo's return producing
-
-A three-dimensional map of the dark
-And murky ocean—the dolphin sees
-With sound, and the sound paints the shark
-And the fish and the squid in the deep-water frieze
-
+Sees with its sound, and sound will paint the shark,
+The fish, the squid, the deep-sea frieze, the mark
 Of the acoustic world.
+                       The baleen kind,
+{{c|1806|Mysticetos}}, grew bodies, unconfined,
 
-                       And {{c|1806|Mysticetos}}—
-The baleen whales—grew the largest bodies
-That life has ever made: the cetacean's
-Grottos of the ribcage and the body's
+The largest life has ever made, full-grown:
+Grottos of ribcage, cathedral of bone
+In the blue whale, a hundred feet in length,
+A hundred fifty tons, the greatest strength
 
-Cathedral of the blue whale's hundred feet
-And hundred and fifty tons—the largest
-Animal in the history of the fleet
-Of the living—fed not on the largest
+And size of animal in all the fleet
+Of all that's living, and was fed on meat
+Not of the largest prey, but of the least:
+The krill, the tiny shrimp, a daily feast
 
-Prey but on the smallest: the krill,
-The tiny shrimp scooped in the baleen's
-Comb of keratin, the fill
-Of a thousand pounds of protein
+Scooped in the comb of keratin, baleen,
+A thousand pounds of protein, gathered clean,
+Filtered out from the ocean every day.
+The whale would sing: the humpback's song, its way,
 
-Filtered from the ocean every day.
+Traveled for hundreds of miles through the gray
+Acoustic ocean, the long, complex lay
+Males composed, and through the breeding season
+Revised, no two years the same; the reason
 
-The whale sang—the humpback's song
-Traveled hundreds of miles through the gray
-And acoustic ocean, the long
+Unknown for how the whale's song changed in time,
+But beauty undeniable, sublime:
+The ocean filled with music made by these,
+The largest animals, the steady pleas,
 
-And complex melody that the males
-Composed and revised across the breeding season—
-No two years the same, the whale's
-Song evolving in real time, the reason
+The haunting and acoustic, sure decree:
+"I'm here, I'm vast, I'm singing." Then the sea
+Was entered twice: by {{c|1796|Pinnipedos}}' clan,
+The carnivore, who read the ocean's plan
+Of opportunity, already told
+In the carnivore chapter: seal, the bold
+Land-hunter, now transformed into the hand
+Of the marine: the flippers, and the band
 
-Unknown but the beauty undeniable:
-The ocean filled with music
-Made by the largest animals' reliable
-And haunting and acoustic
+Of blubber, physiology of deep
+Dives, lungs collapsed like rubber, so to keep
+The oxygen stored in blood and muscle,
+Not in air.
+                The third return, the bustle
 
-Declaration: I am here, and I am vast,
-And I am singing.
+Of {{c|1789|Sirenios}}, as already told
+In {{c|1782|Afrotheros}}' tender care: the fold
+Of manatees, dugongs, in the meadow
+Of seagrass, gentle grazers, in shadow
 
-                   The second return to the sea
-Was {{c|1796|Pinnipedos}}'—the carnivore's forecast
-Of the ocean's opportunity—already told
+Of tropic coasts.
+                  Three times the mammal went
+Into the sea; three times its body, spent,
+Erased its own design for life on land,
+And three times did the ocean, with its hand,
 
-In the carnivorans' chapter,
-The seal's transformation from the bold
-Land-hunter to the chapter
+Write a new streamlined body from the line
+Of walker's bones; the blue world, the design
+Of singing and of deep and diving kind,
+The mammals of the sea, the proof, defined,
 
-Of the marine—the flippers, the blubber,
-The deep-dive physiology
-That collapses the lung like rubber
-And stores the oxygen in the biology
+That {{c|1743|Mammos}}' banners, raised on land, could win
+Aloof and ancient ocean too, within;
+The synapsid came back to water's yearn
+Left by the amniotic egg's concern,
 
-Of the blood and muscle, not the air.
-
-And the third return was {{c|1789|Sirenios}}'—
-Already told in {{c|1782|Afrotheros}}' care,
-The manatee's and dugong's areas
-
-Of the seagrass meadow, the gentle grazer
-Of the tropical coast.
-
-Three times the mammal went to sea.
-Three times the body was the eraser
-
-Of its own terrestrial design,
-And three times the ocean wrote a new
-And streamlined body from the line
-Of the walker's bones—and the blue
-
-And singing and the deep and diving world
-Of the marine mammal was the proof
-That {{c|1743|Mammos}}' banners, once unfurled
-On land, could conquer the aloof
-
-And ancient ocean too—the synapsid's return
-To the water that the amniotic egg
-Had left behind, the ancestral yearn
-For the sea that every land-thing's leg
-
-Still carries in the salt-blood of its veins.
+Ancestral longing for the sea, which brings
+In every land-thing's leg, in all such things,
+The salt-blood of the sea still in its veins,
+Which it still carries, and which still remains.

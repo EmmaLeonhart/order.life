@@ -1,195 +1,160 @@
 # Chapter 129: The Dawn of Humanity
 
-And now—the threshold.
-
+And now, the threshold.
                        In the {{p|Rift Valley}}
-Of eastern {{p|Africa}}, where the earth itself
-Was pulling apart, where the geologic tally
-Of tectonic force had split the shelf
+Of eastern {{p|Africa}}, where earth itself
+Pulled apart; the geologic tally
+Of all tectonic force had split the shelf
 
-Of the continent and filled the crack
-With lakes and volcanoes and the ash
-That preserved the bones and the track
-Of every creature's footprint in the flash
+Of continent, and filled the crack it made
+With lakes and with volcanoes, and the ash
+That kept the bones, the track, the footprint laid
+By every creature in the sudden flash
 
-Of volcanic eruption and erosion—
-Here, in the {{x|Pliocene}}'s cooling world,
-The grassland's ever-widening corrosion
-Of the forest's edge, the unfurled
+Of eruption and the slow erosion:
+And here, in the {{x|Pliocene}}'s cooling land,
+Grassland's ever-widening corrosion
+Of forest's edge, savanna, open, spanned
 
-And open savanna stretching east
-To the {{p|Indian Ocean}}'s coast—
-The upright ape emerged. The beast
-Who would become the host
+Out east to the {{p|Indian Ocean}}'s coast:
+The upright ape emerged, the beast who'd be
+The one to bear, and to become, the host
+Of consciousness. And {{c|1831|Australos}}, then, he,
 
-Of consciousness.
+The southern ape, walked upright: not to try
+Experiment, nor occasional pose,
+But as the permanent, committed, high
+Way of his locomotion; and he chose
 
-                  {{c|1831|Australos}}—the southern ape—
-Walked upright. Not as an experiment,
-Not as an occasional landscape
-Of posture—but as the permanent
-
-And committed mode of locomotion:
 The pelvis broad and bowl-shaped for the weight
-Of the upright torso, the devotion
-Of the spine's S-curve to the freight
+Of upright torso; the devotion, curved,
+Of the spine's S-curve to vertical freight;
+The foot's arch storing energy, conserved
 
-Of the vertical body, the foot's arch
-That stored and released the energy
-Of each step like a spring—the march
-Of the bipedal primate, the synergy
+And then released at every step, a spring;
+The march of the bipedal primate, all
+Anatomy committed, everything,
+To the ground. Why stand? The savanna's call
 
-Of anatomy committed to the ground.
+Demanded hands: the upright body freed
+The hand from bonds of moving; and the lands
+Of savanna made carrying a need:
+The food found here was carried, in the hands,
 
-Why stand? The savanna demanded hands.
+To there, the home base, where the young ones lay,
+The nursing mother's vulnerable life
+Took up the camp; the hand that would convey
+The food could carry stone, stick, wood, a knife:
 
-The upright body freed the hand from the bound
-Of locomotion—and the savannas' lands
+The tool, the extraordinary reach
+Extending from the body. And he made,
+{{c|1831|Australos}}, the tools: {{x|Oldowan}}, to teach
+The hand new art, the simplest of the trade:
 
-Required carrying: the food found here
-Must be carried there, to the home base
-Where the young and the nursing mother's dear
-And vulnerable lives occupied the space
+The wan, unremarkable chopper, stone
+Struck on another stone to make an edge,
+The basic cobble that would cut the bone,
+The carcass to edible parts, the pledge
 
-Of the camp—and the hand that carried food
-Was the hand that could also carry
-A stone, a stick, a piece of wood—
-The tool, the extraordinary
+Of scraping marrow, cutting hide, the arts
+Of butchery, all written in the stone,
+Earliest human industry, the starts.
+And the brain grew. Not fast: the brain, alone,
 
-Extension of the body's reach.
+Of the australopithecine had room
+Four hundred cubic centimeters, past
+The chimpanzee's range; but upward, the loom
+Of trend would go: {{c|1832|Homo}} habilis, cast
 
-{{c|1831|Australos}} made tools—the {{x|Oldowan}}
-Technology, the simplest that could teach
-The hand a new art: the wan
+As "handy one," would make the skull expand
+To six hundred: analysis, a brain
+Beginning to be human. Then, at hand,
+Came fire: not mastered yet, but, in its train,
 
-And unremarkable chopper, a cobble
-Struck against another to produce
-A sharp edge—the hobble
-And basic stone that could reduce
+The natural fire, the acumen, the old
+And lightning-struck savanna, and the bold
+Opportunistic use of what remains:
+Tubers in ashes cooked; the cold night's pains
 
-A carcass to its edible parts,
-That could scrape the marrow-bone,
-That could cut the hide—the arts
-Of the butcher written in the stone
+Answered by embers' warmth, the brushfire's heat
+That lingered; and though fire he did not make,
+He found it, sweet and useful, and would eat;
+The accidental flame, for its own sake,
 
-Of the earliest human industry.
+The first draft of the hearth that would become
+The center of the human universe,
+The fire around which story, song, and drum
+Would gather. And the group: {{c|1831|Australos}}' terse
 
-And the brain grew. Not fast—
-The australopithecine's capacity
-Was four hundred cubic centimeters, the past
+And social way, which chimps had just begun
+To hint at: the band's cooperation,
+The sharing of the meat; defense, as one,
+Against leopards; caring, in relation
 
-Of the chimpanzee's range—but the trend
-Was upward: {{c|1832|Homo}} habilis,
-The "handy one," would extend
-The cranium to six hundred's analysis
+To the injured; and the immense, the new
+Unprecedented investment in young:
+The human child was born, as was its due,
+Quite helpless; nature's accountant had sung
 
-Of a brain that was beginning to be human.
+The tally: the enormous and wild brain
+Required a skull so large the birth canal
+Could barely hold the growing head; and plain,
+The practical solution's rationale:
 
-And fire. Not yet mastered—not yet controlled—
-But the natural fire of the acumen
-Of the lightning-struck savanna, the bold
+Be born early, be born helpless, be born
+Needing years of kissing and of feeding
+And the selfless care of the group; the sworn
+Longest of childhoods, in kingdoms leading
 
-And opportunistic use of the wildfire's
-Aftermath: the cooked tuber in the ashes,
-The warmth of the embers, the desires
-Of the cold night answered by the flashes
+All animals, from helplessness was born;
+And in that childhood's openness, the lore,
+The learning, freedom, burden, which is worn,
+Of culture's own inheritance, the store
 
-Of the brushfire's lingering heat—
-The australopithecine did not make fire
-But found it, and found it sweet
-And useful, and the pyre
+No gene can carry; which, but by the hand,
+By imitation, patience, could bestow:
+The elder reaching. This is where we stand:
+The threshold. Not yet human, speaking, no,
 
-Of the accidental flame was the first
-Draft of the hearth that would become
-The center of the human universe—
-The fire around which the drum
+Not painting yet upon the cave wall's face,
+Its manifold surface, not counting, not
+Asking why stars are there; but in the place
+Of the {{p|Rift Valley}}'s ancient ground, the spot,
 
-And the story and the song would gather.
+Standing upright, with tools, the forward stare
+Of eyes, the social group's rallies, the start
+Of longest childhood, and the hand, freed, there,
+And grasping; winning, losing, and the part,
 
-And the group—{{c|1831|Australos}} was social
-In a way that the chimpanzee's drather
-Had only hinted at: the total
+The need of the creature who would be us.
+Honor the threshold: {{c|1831|Australos}}, the one,
+The southern ape who walked, beneath the sun,
+The open savanna; the pathos, thus,
 
-Cooperation of the band, the sharing
-Of the meat, the collective defense
-Against the leopard, the caring
-For the injured, the immense
+And glory of the almost-human, true,
+Who stood up and looked out across the grass,
+The acumen of whose gazing, in view,
+Held only doubt and hunger, need, the mass
 
-And unprecedented investment
-In the young—for the human child
-Was born helpless, the assessment
-Of nature's accountant: the wild
+Of food and tool and child to carry back
+Unto the camp; and he did not yet know
+That walking upright, ordinary track,
+Was the stamp of the future's seal, the show
 
-And enormous brain required a skull
-So large that the birth canal
-Could barely accommodate the full
-And growing head—and the banal
+Upon the present: that from this, the hand
+That grasps, the helpless infant, and pleasant
+And social group that lived upon the land,
+Would come the future, out of the present:
 
-And practical solution was this:
-Be born early, be born helpless,
-Be born needing years of the kiss
-And the feeding and the selfless
+The language and the fire, the city, ship,
+The song, the question, and one desire
+That separates us, out of the long grip
+Of patient chain of life: to acquire
 
-Care of the group—and in that helplessness
-The longest childhood in the animal kingdom
-Was born, and in that childhood's receptiveness
-The learning—the freedom
+Knowledge of what we are, whence we came, and
+The giving of a name to every star.
+But that is the next age's telling. Stand,
+For now, the ape, upright, in grass, afar;
 
-And the burden of the cultural inheritance
-That no gene carries, that only teaching
-And imitation and the patience
-Of the elder's reaching
-
-Hand can give.
-
-               This is the threshold.
-
-Not yet human—not yet speaking, not yet
-Painting on the cave wall's manifold
-Surface, not yet counting, not yet
-
-Asking why the stars are there—
-But standing upright on the {{p|Rift Valley}}'s
-Ancient ground, with tools, with the stare
-Of the forward-facing eyes, the rallies
-
-Of the social group, the beginning
-Of the longest childhood, the freed
-And grasping hand—the winning
-And the losing and the need
-
-Of the creature who would become us.
-
-Honor the threshold—{{c|1831|Australos}},
-The southern ape who walked the nonplus
-And open savanna, the pathos
-
-And the glory of the almost-human:
-The one who stood up and looked out
-Across the grassland and the acumen
-Of whose gaze held nothing but the doubt
-
-And the hunger and the need to carry
-Food and tool and child to the camp—
-And did not know that the ordinary
-Act of walking upright was the stamp
-
-Of the future's seal upon the present:
-That from this body, this grasping hand,
-This helpless infant, this pleasant
-And social group upon the land,
-
-Would come the language and the fire
-And the city and the ship and the song
-And the question—the one desire
-That separates us from the long
-
-And patient chain of the living:
-The desire to know what we are,
-And where we came from, and the giving
-Of a name to every star.
-
-But that is the next age's telling.
-For now, the ape stands upright in the grass,
-And the future is swelling,
-And the threshold has been passed.
+And now the future swells, as it was cast,
+And now the threshold has at last been passed.

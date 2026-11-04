@@ -1,134 +1,111 @@
 # Chapter 126: The Old World Monkeys
 
-In {{p|Africa}} and {{p|Asia}}, the other branch
-Of the anthropoid tree—{{c|1819|Catarrhinos}},
-The narrow-nosed—began the avalanche
-Of primate innovation whose beginnings
+In {{p|Africa}} and {{p|Asia}} there began
+The other branch of anthropoids, the line
+Of {{c|1819|Catarrhinos}}, narrow-nosed, whose plan
+Of primate innovation, the design,
 
-Would lead, in time, to everything we are.
-
+Would lead, in time, to all of what we are.
 {{c|1819|Catarrhinos}} divided into two:
-{{c|1820|Cercopithecos}}—the tailed ones, the star
-Of the monkey world—and the apes, the few
+{{c|1820|Cercopithecos}}, the tailed ones, the star
+Of monkeys; and the apes, the tailless few,
 
-And tailless ones whose chapter comes hereafter.
+Whose chapter comes hereafter. Now the tailed,
+{{c|1820|Cercopithecos}}, {{p|Old World}} monkey kind,
+Were most successful; and their rafters, nailed,
+Were built on three innovations, combined:
 
-{{c|1820|Cercopithecos}}—the {{p|Old World}} monkeys—
-Were the most successful, and the rafter
-Of their house was built on the keys
+The bilophodont molar, the cheek pouch,
+And ischial callosity: the tooth
+That grinds, the food-bag, and the solar couch
+Of leather seat-pad, generous in truth,
 
-Of three innovations: the bilophodont molar,
-The cheek pouch, and the ischial callosity—
-The grinding tooth, the food-bag, and the solar
-Sitting-pad of leathery generosity
+That let the monkey sit on branches long
+For hours without discomfort: three, the small,
+The modest innovations, and the strong
+Success built on the ordinary, all.
 
-That let the monkey sit on branches
-For hours without discomfort—three
-Modest innovations, the avalanches
-Of success built on the ordinary.
-
-{{c|1821|Papios}}—the baboon—came down from the trees.
-
-This was the revolution: the ground.
-
+{{c|1821|Papios}}, baboon, came down from the trees:
+This was the revolution, on the ground.
 For the {{x|Miocene}}'s drying squeezed the frieze
-Of the {{p|African}} forest into smaller ground,
+Of the {{p|African}} forest, shrunk around,
 
-And the savanna opened—the woodland shrank,
-And the baboon, too large and too social
-For the diminishing trees, broke rank
-With the arboreal life and the asocial
+And the savanna opened; woodland shrank;
+And the baboon, too large and social, could
+Not keep to shrinking trees, and broke the rank
+With treetop life, the lonely neighborhood
 
-Isolation of the canopy, and walked
-Into the open grassland on all fours—
-Knuckle-walking, tail high, and the stalked
-And open landscape of the predator's
+Of canopy, and walked on all fours, out
+Into the open grassland, tail held high,
+Knuckle-walking; with predators about,
+Whose watching of the open land, nearby,
 
-Attention forced a new kind of society:
-The troop—fifty, a hundred, two hundred strong—
-The baboon's answer to the impropriety
-Of the leopard and the lion and the long
+Then forced a new society: the troop,
+Some fifty, or two hundred, strong; the group
+Replied to leopard and to lion, and
+To long, exposed savanna crossings planned,
 
-And exposed savanna crossing: safety in numbers,
-And in the hierarchy that the numbers
-Required—the dominant male who encumbers
-The front of the troop, the lumbers
+With safety in its numbers, and the scale
+Of rank they needed: the dominant male
+Out in the troop's front, lumbering and strong,
+The sentinel, whose canines were as long
 
-And powerful sentinel whose canines
-Were as long as a leopard's and whose bark
-Alone could send the predator's designs
-Into retreat—the patriarch's mark
+As leopards', and whose bark alone could send
+The predator's designs back in retreat:
+The tooth, the threat display, would so defend
+Authority, the patriarch's own seat.
 
-Of authority was the tooth and the threat display.
+And the females formed coalitions, made
+Matrilineal alliance, arrayed
+Of mutual grooming, terms of their aid:
+The baboon social order, as was laid,
 
-And the females formed coalitions—
-The matrilineal alliances' array
-Of mutual grooming and the conditions
+Was the grandmother's legacy: the old
+Female, whose daughters and granddaughters, near,
+Held her position steady, and would hold
+Through decades, stable core, year after year,
 
-Of support: the baboon's social order
-Was the grandmother's legacy—the elder
-Female whose daughters' border
-And granddaughters' proximity held her
+Of the troop's identity, while males came
+And went, parades of passing power's claim.
 
-Position steady through the decades,
-The stable core of the troop's identity
-While the males came and went like parades
-Of transient authority.
+Macaque {{c|1822|Macacos}} crossed to {{p|Asia}}'s lands,
+Spread from {{p|Japan}} to {{p|North Africa}}'s sands,
+Of monkeys most geographically blessed:
+Snow monkey, in hot springs a steaming guest
 
-{{c|1822|Macacos}}—the macaque—crossed into {{p|Asia}}
-And spread from {{p|Japan}} to {{p|North Africa}},
-The most geographically blessed—the stadia
-Of the macaque's expansion, the attica
+Of {{p|Japan}}; {{x|Barbary}} macaques, a band
+{{p|European}}, a remnant, funky, and
+The rhesus clan, and in the rhesus blood
+Was found the {{x|Rh}} factor; and the flood
 
-Of the monkey world: the snow monkey
-Bathing in the hot springs of {{p|Japan}},
-The {{x|Barbary}} macaque's funky
-And {{p|European}} remnant, the clan
+Of macaque's alliance with the quest
+Of human curiosity's research
+Was partnership by accident: the perch
+Of most adaptable monkey, abreast
 
-Of the rhesus monkey whose blood
-Would give the human medical science
-Its {{x|Rh}} factor—the flood
-Of the macaque's alliance
+With most adaptable ape's grip on earth.
+{{c|1823|Colobos}}, leaf-eater, met cellulose
+Of forests with the ruminant's own dose:
+A stomach chamber, a repeater's girth,
 
-With human curiosity and research
-Was the accidental partnership
-Of the most adaptable monkey's perch
-Beside the most adaptable ape's grip
+Its many-chambered foregut fermented
+The leaves, as the cow's rumen did the grass:
+The strut of convergence, here presented,
+Same problem, same solution, in its class,
 
-On the world.
-
-                And {{c|1823|Colobos}}—the leaf-eater—
-Solved the problem of the forest's cellulose
-With the ruminant's trick: a repeater
-Of the stomach's chamber, the verbose
-
-And multi-compartment foregut
-That fermented leaves the way
-The cow's rumen fermented grass—the strut
-Of convergent evolution's display:
-
-The same problem, the same solution,
-In the monkey as in the cow—
-The leaf-eating primate's contribution
-To the proof that evolution's plow
-
-Cuts the same furrow in different fields.
-
-Honor {{c|1820|Cercopithecos}}—who came down
-From the trees and learned what the grassland yields
-To the social, the hierarchical, the brown
-
-And powerful baboon; who crossed into {{p|Asia}}
-And colonized the human world before
-The human did; who proved the fantasia
-Of the primate can include the floor
-
-Of the open ground and not just the canopy's height—
-The monkey who walked into the savanna
-And survived, and organized, and the right
-Of the primate to the open manna
-
-Of the grassland was established here,
-Before the ape, before the human tread—
-The monkey went first, and the frontier
-Of the ground was the monkey's to have led.
+In monkey as in cow; this primate's part
+In proving evolution's plow, by art,
+Cuts the same furrow in its different fields.
+Honor {{c|1820|Cercopithecos}}, who came down
+From the trees, and learned what the grassland yields
+To the social, hierarchical, the brown
+And mighty baboon; who in {{p|Asia}} spread
+And colonized the human world, ahead
+Of the human; who proved the primate's fate
+Could take the open ground, not just the height
+Of canopy; the monkey, walking straight
+Into savanna, survived; and the right
+Of primates to the grassland, organized,
+Was here established, as the manna prized,
+Before the ape, before the human's tread:
+The monkey first; the frontier's ground he led.

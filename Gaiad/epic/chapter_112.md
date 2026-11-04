@@ -1,193 +1,180 @@
 # Chapter 112: The Mouse and the Chicken
 
-The sky fell on the giants, and in the dust
-The mouse and the chicken dreamed a new world.
-
+The sky fell on the giants, and in dust
+The mouse and chicken dreamed a world made new.
 For this is what survived: the small, the trust-
-Fund of the future, the banners furled
+Fund of the future, banners rolled from view,
 
-So tight they could not be seen—the mammals
-In their burrows, the birds in their hidden nests,
-The crocodilians in the river's channels,
-The turtles in their shells—the guests
+So tight none could be seen: the mammals lay
+In burrows, and the birds in hidden nests;
+In river channels crocodiles would stay;
+The turtles in their shells: these were the guests
 
-Of the {{x|Mesozoic}} who had never been
-The hosts, who had lived in the margins
-And the nighttime and the in-between
-Of the great ones' world—the bargains
+Of the {{x|Mesozoic}} who were not seen
+As hosts, but lived in margins, out of sight,
+And in the nighttime and the in-between,
+And made the small ones' bargain with the height:
 
-Of the small with the world above:
-Let me be insignificant, let me be
-Beneath your notice, and the covenant of
-My smallness will outlast your dynasty.
+"Let me be insignificant," they prayed,
+"Below your notice"; and the pact they made,
+The covenant of smallness, held them fast:
+"Your dynasty my smallness will outlast."
 
-{{c|1743|Mammos}}—the mouse-sized heir of {{c|1673|Cynos}},
-Of {{c|1672|Theraps}}, of {{c|1670|Pelyon}}, of {{c|1668|Synaps}},
-Of the great synapsid dynasty whose sigh knows
-The weight of a hundred and eighty million year lapse
+The mouse-sized {{c|1743|Mammos}}, heir of {{c|1673|Cynos}}' seed,
+Of {{c|1672|Theraps}}, of {{c|1670|Pelyon}}, of {{c|1668|Synaps}}' breed,
+Of the synapsid dynasty, whose sigh
+Knew the weight of the long years that went by,
+A hundred eighty million, all the way
+From the {{x|Permian}} crown to this new day:
 
-Between the {{x|Permian}} crown and this new day—
-{{c|1743|Mammos}} crept from his burrow in the gray
-And silent aftermath and looked away
-At a world that was entirely his.
+{{c|1743|Mammos}} crept from his burrow to the gray
+And silent aftermath, and looked away
+Out at a world entirely his own.
+His burrow saved him, home his kind had known.
 
-                                   His burrow
-Had saved him—the underground network
-That the cynodont's vigil had built in the narrow
-And patient art of digging, the earthwork
+The network underground, his house below,
+The cynodont's long vigil, patient, slow,
+Dug in the narrow art: an earthwork, all
+A hundred million years of being small.
 
-Of a hundred million years of being small—
-The burrow was bomb-shelter, pantry, nursery,
-And the mammal who survived the fireball
-Emerged from the most ancient surgery
+Bomb-shelter, pantry, nursery, and all,
+It saved the mammal from the fireball;
+He came out from the surgery of earth,
+Which cut the great, so small would rise in worth.
 
-Of the earth: the cutting-away of the great
-To make room for the small to become great.
-
-And the chicken—if we may call her that:
-The bird, the avian dinosaur, the one
+And the chicken, if we may call her that:
+The bird, avian dinosaur, the one
 Branch of {{c|1736|Deinos}}' tree that did not fall flat
-In the impact winter—the dinosaur's own son
+In the impact winter, dinosaur's son,
 
-Who inherited the sky.
-
-                        Why did the birds survive
+Heir to the sky.
+                    Why did the birds survive
 When every other dinosaur did not?
-The seed. The tiny, hard-shelled, alive-
-Through-winter seed of {{c|1759|Angios}} that was not
+The seed. The tiny, hard-shelled seed, alive
+Through winter, seed of {{c|1759|Angios}}, that was not
 
-Destroyed by the firestorm—the seed that lay
-In the soil, dormant, through the impact winter,
+Destroyed by the firestorm, the seed that lay
+Dormant in soil, through the impact winter,
 And germinated when the first thin ray
-Of sunlight returned—the seed was the splinter
+Of sun returned: the seed was the splinter
 
 Of life that kept the bird alive: the finch
-And the sparrow and the ancestral chicken
-Ate seeds through the darkness, inch by inch
-Of the long winter—while the stricken
+And sparrow and the ancestral chicken
+Ate seeds through the long darkness, inch by inch
+Of the long winter; while, huge and stricken,
 
-And enormous dinosaurs, who needed tons
-Of fresh green matter every day,
-Found nothing—and the smaller ones
-Who ate the seeds found the only way
+The giant dinosaurs, who needed tons
+Of fresh green matter each and every day,
+Found nothing; and it was the smaller ones
+That ate the seeds who found the only way
 
-Through the dark.
+Through the dark. The bird was the dinosaur
+That flew and ate seeds: this combination,
+That humble seeming inventory's store,
+Was the ark that carried all the nation
 
-                  The bird was the dinosaur
-Who flew and ate seeds—that combination,
-That seemingly humble inventory's store,
-Was the ark that carried the entire nation
+Of dinosaurs across the winter's flood
+Of impact; and each bird that sings today
+Is still of {{c|1736|Deinos}}' house the living blood,
+Its final word, though final in no way:
 
-Of the dinosaurs across the flood
-Of the impact winter—and every bird
-That sings today is the living blood
-Of {{c|1736|Deinos}}' house, the final word
+Birds are dinosaurs, and the morning song
+Of robins is the {{x|Mesozoic}}'s long
+And spinal declaration: "I belong
+To the line that walked the {{x|Cretaceous}} plain,
+And though the giants fell, yet still I fly,
+And in my bones the hollow framework's grain
+Of {{c|1681|Archon}}'s house still reaches for the sky."
 
-Of the dinosaur that was never final:
-For the birds are dinosaurs, and the morning song
-Of the robin is the {{x|Mesozoic}}'s spinal
-And continuing declaration: I belong
+The crocodile, of {{c|1732|Cruros}}' house the last,
+The river-dweller, remnant of the line,
+The elder brother's, who revived the past
+Of archosaurs, the ancient welter's sign:
 
-To the lineage that walked the {{x|Cretaceous}} plain,
-And though the giants fell, I fly,
-And in my bones the hollow architecture's grain
-Of {{c|1681|Archon}}'s house still reaches for the sky.
+He lived, as he had lived beyond the end
+Of the {{x|Triassic}} age: by being small,
+Amphibious, cold-blooded, to extend
+His fasting through the dark, through winter's pall.
 
-And the crocodile—{{c|1732|Cruros}}' last survivor,
-The river-dwelling remnant of the elder
-Brother's line—the ultimate reviver
-Of the archosaur's ancient welter—
+The strange and patient crocodile could slow
+His metabolism almost to nil
+And wait, a year if needed, for the flow
+Of rivers bringing food, while lying still:
 
-He survived as he had survived the end
-Of the {{x|Triassic}}: by being small, amphibious,
-And cold-blooded enough to extend
-His fasting through the dark—the ambiguous
+The clothing of a patience wrapped around
+His ancient body: the survival plan
+That worked before and worked through the profound
+Miles of geological time, his span,
 
-And patient crocodile who could slow
-His metabolism to almost nothing
-And wait—a year, if needed—for the flow
-Of the river to bring the food—the clothing
+His art of doing nothing, slowly, well.
+And {{c|1678|Turtlos}}, the patient one, {{c|1677|Paraps}}' child,
+Who carried his own house through every hell
+The earth could make: the turtle, calm and mild,
 
-Of patience wrapped around the crocodile's
-Ancient body, the survival strategy
-That had worked before and worked for miles
-Of geological time—the strategy
+Untroubled in persistence through the fire
+And dark, and cold, and through the starvation:
+Turtles ask so little to acquire
+Another day, a new generation:
 
-Of doing nothing, slowly, very well.
-
-And {{c|1678|Turtlos}}—the patient one, {{c|1677|Paraps}}' child,
-Who carried his house through every hell
-The earth could make—the turtle's mild
-
-And unbothered persistence through the fire
-And the dark and the cold and the starvation—
-For the turtle asks so little to acquire
-Another day, another generation:
-
-A little warmth, a little water, a leaf,
+A little warmth and water, and a leaf,
 An insect, and the patience of the stone
-That the turtle seems to be—the brief
-And fiery catastrophe could not dethrone
+That the turtle seems to be; and the brief
+Catastrophe of fire could not dethrone
+The creature who was armored long before
+Against the common cruelties in store.
 
-The creature who was already armored
-Against the ordinary cruelties of the world.
-
-So the synapsids returned. The sun-warmed
-And milk-giving and furry, the unfurled
-
-And long-delayed inheritors of the earth—
+The synapsids returned, furry and warm,
+The milk-giving, long-delayed heirs of earth;
 {{c|1743|Mammos}} walked into the {{x|Paleocene}}'s
-Empty world and found it full of berth
-For everything the mammal's body means:
+Bare, empty world, and found it full of berth
+For all a mammal's body was to mean,
+For every way of life and every form:
 
-Into every niche the dinosaurs had held,
-The mammals radiated—small at first,
-Then larger, then enormous—and they spelled
+In every niche the dinosaurs had held
+The mammals radiated, small at first,
+Then larger, then enormous; and they spelled
 The future in the milk with which they nursed
+Their young, the fur that held the body's heat,
+And three small ear-bones, hearing all the world
+In frequencies no reptile's ear could meet;
+And the synapsid banner, long kept curled,
 
-Their young, and the fur that kept them warm,
-And the three ear-bones that heard the world
-In frequencies the reptiles never formed—
-And the synapsid banner was unfurled
+After one hundred eighty million years
+Of nighttime vigil, flew; the ancient house
+Of {{c|1668|Synaps}} took the daylight back; the tears
+Of exile ended; and the tiny mouse
 
-Again, after a hundred and eighty million years
-Of the nighttime vigil—{{c|1668|Synaps}}' house
-Reclaimed the daylight world, and the tears
-Of the exile ended, and the mouse
-
-Became the elephant, the whale, the ape—
-And in the fullness of the mammal's time
-A creature would arise whose escape
+Became the elephant, the whale, the ape;
+And in the fullness of the mammals' time
+A creature would arise, whose long escape
 From the animal's silence would sublime
 
 Into language, and consciousness, and art,
-And would look back at the fossil record's page
-And read the story from the very start—
-And understand.
+Would look back at the fossil record's page
+And read the story from the very start,
+And understand. But that's another age.
 
-                  But that is another age.
+For now, honor the mouse and the chicken,
+Survivors of the {{x|Mesozoic}}'s end,
+The small and the humble and the stricken,
+Inheritors of earth, and who will tend
 
-For now, honor the mouse and the chicken—
-The two survivors of the {{x|Mesozoic}}'s end,
-The small and the humble and the stricken
-Who inherited the earth—and who will tend
-
-The future of the living world from here:
-The mammal from the burrow, the bird from the nest,
-The crocodile from the river, the tortoise without fear—
+The future of the living world, and steer:
+The mammal from the burrow, bird from nest,
+The crocodile, the tortoise void of fear,
 The meek, the small, the patient, and the blessed.
 
-This is the {{x|Easter}} of the {{x|Mesozoic}}:
-The death that is the door to the age of mind,
-The extinction that was not the final stoic
-Conclusion but the opening—and behind
+This is {{x|Easter}} of the {{x|Mesozoic}}:
+The death, the door into the age of mind,
+The extinction not the final, stoic
+Conclusion, but the opening; behind
 
 The falling stone, the rising of the form
-That would one day look up at the stars and know
-That it was looking—and through the storm
+That would one day look up at stars and know
+That it was looking; and, through all the storm
 Of the cosmic visitor's leveling blow,
 
-The future of consciousness was born
-In the dust of the {{x|Mesozoic}}'s last good night—
-And morning came, and the world was torn
-And silent—and the mouse stepped into the light.
+The future of all consciousness was born
+In dust, the {{x|Mesozoic}}'s last good night;
+And morning came, and all the world was torn
+And still; and the mouse stepped into the light.

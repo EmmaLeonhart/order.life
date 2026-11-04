@@ -1,127 +1,120 @@
 # Chapter 121: The Artiodactyls
 
-Now hear of {{c|1797|Artiodactylos}}—the even-toed,
+Hear: {{c|1797|Artiodactylos}}, even-toed,
 The hoofed ones who inherited the grass.
-
 For in the {{x|Miocene}} the world bestowed
 A gift that changed the mammals' looking-glass:
 
-The grasses spread—{{c|1798|Gramineos}}, the humble
-And the revolutionary, the plant
-That thrived on being eaten, whose tumble
-Under tooth and hoof was not the recant
+The grasses spread, {{c|1798|Gramineos}}, the low
+And revolutionary plant, which throve
+On being eaten; under tooth and hoe
+Of hoof its fall was not the end, but drove
 
-Of life but the stimulus to grow again—
-For the grass grows from the base, not from the tip,
-And the grazer who crops the blade has plain
-And accidentally ensured the grip
+Its life to grow again: for grass will grow
+Up from the base and not out from the tip,
+And grazers who crop down the blade bestow,
+By accident, the grass a firmer grip
 
-Of grass upon the soil: the more it's eaten
-The more it spreads, the more the roots
-Bind the earth—a plant that's beaten
-Down stands up again, whose shoots
+Upon the soil; the more of it eaten,
+The more it spreads, the more its roots will bind
+The earth; a plant that's cut down and beaten
+Stands up again, its shoots, of every kind,
 
-Are stimulated by the jaw that clips them.
+Stirred by the very jaw that clips them short.
+With grass there came the grassland, vast and wide,
+Open and treeless, where the winds cavort
+And whip the grass to waves, an ocean's tide;
 
-And with the grass came the grassland—vast
-And open, treeless, where the wind whips them
-Into waves like an ocean—and the fast
+The fast, fleet-footed herbivore was born
+From need to cross this open ground, where all
+The predators could see the prey, the shorn
+And the exposed; and death, approaching, all
 
-And fleet-footed herbivore was born
-From the need to cross this open ground
-Where every predator sees the shorn
-And exposed prey animal, and the sound
+Its sound could carry over many miles.
+His answer: {{c|1797|Artiodactylos}}' hoof:
+Two even toes, balanced upon the tiles
+Of the hard ground; of the design the proof
 
-Of approaching death carries for miles.
+Was in the run: artiodactyl ran
+Upon its toenails, with the ankle raised,
+The leg a long-spun lever, by the plan
+Of trails that called for speed; and to be praised,
 
-{{c|1797|Artiodactylos}} answered with the hoof—
-Two toes, even, balanced on the tiles
-Of the hard ground—and the proof
+Ruminant stomach was the other gift:
+The four-chambered vat of fermentation
+That could digest the cellulose, and sift
+Flat blade's silica, in rumination,
 
-Of the even-toed design was the run:
-The artiodactyl ran on its toenails,
-The ankle raised, the leg a spun
-And elongated lever of the trail's
+That wore the teeth of any common beast;
+Artiodactyl teeth were high in crown
+With deep enamel, hypsodont, at least
+Enough to last a lifetime, ground not down
 
-Demand for speed—and the ruminant stomach
-Was the other gift: the four-chambered vat
-Of fermentation that could stomach
-The cellulose of grass, the flat
+Through all the grass's grinding, by the wreath
+Of tall enamel, climbing, deep, and long,
+Through decades of the diet. Underneath,
+The cow chews cud: the rumen's first pass, strong,
 
-And silica-rich blade that wore the teeth
-Of any ordinary mammal down—
-But the artiodactyl's teeth beneath
-The high-crowned enamel wore the crown
+Breaks grass to quiet, fermenting mash; vast
+The bacterial colony inside
+The rumen does what mammal enzymes, cast
+Alone, could never do: break down and hide
 
-Of hypsodont design: tall teeth
-That could outlast a lifetime
-Of abrasive grass, the wreath
-Of enamel deep enough to climb
+The cellulose as fatty acids, light
+And volatile: the paradigm, the case
+Of symbiosis, cow and microbe, tight,
+A billion bacteria in the space
 
-Through decades of the grinding diet.
+Per milliliter of the rumen: these
+Are a civilian army, by degrees
+Allied, digesting. {{c|1799|Cervidos}}, the deer,
+Grew antlers, the sole organ, year by year,
 
-The cow chews her cud—the rumen's first pass
-Breaks the grass to a quiet
-And fermenting mash, the vast
+That flies, in mammals, the renewal flag;
+The forest's chancers grow anew; the stag
+Each year from velvet-covered bone has grown
+Fresh headgear; and the antlers, all his own,
 
-Bacterial colony inside
-The rumen doing what no mammal's enzyme
-Can do alone: break cellulose and hide
-It as volatile fatty acids, the paradigm
+Branch and extend the mesh of tines and beams,
+The full-grown throne of stags in their display,
+Shed and regrown each season; and it seems
+The fastest-growing tissue, in its way,
 
-Of symbiosis between the cow and her
-Internal world of microbes—a billion
-Bacteria per milliliter
-Of rumen fluid, a civilian
+Of all the animal kingdom, the shown
+And spectacular issue of the need,
+Of testosterone and calcium grown,
+To catch the female's eye.
+                          And then the breed
 
-Army of digestive allies.
+Of {{c|1800|Bovidos}}, the cattle and the sheep,
+Whose horn is permanent, and does not die
+And grow again, but stays, its sheath to keep
+Of keratin on bone, which will supply
 
-{{c|1799|Cervidos}}—the deer—grew antlers,
-The only organ in the mammal that flies
-The flag of annual renewal: the chancers
+A weapon for a lifetime; and it set
+The bovid's headgear as the stepping stone
+Of the most successful ungulate yet,
+The family with most species ever known
 
-Of the forest grow their headgear fresh
-Each year, from velvet-covered bone
-That branches and extends the mesh
-Of tines and beams—the full-grown throne
+Upon the earth, the bovids' wrestling girth
+With the wide grassland made the antelope,
+The gazelle, and the gnu, and on the earth
+The buffalo, the sheep, the goat on slope
 
-Of the stag's display, shed and regrown
-Each season—the fastest-growing tissue
-In the animal kingdom, the shown
-And spectacular issue
+Of mountain; every grassland, everywhere,
+On every continent, has known the deep
+And ruminating presence of the pair:
+The bovid's hoof, the bovid's grazing sheep.
 
-Of testosterone and calcium and the need
-To impress the female eye.
+So honor all the grazers: he who earned,
+{{c|1797|Artiodactylos}} and children, who
+Turned grass inedible and made it, turned,
+The praisers of the {{x|Miocene}}'s wide view,
 
-And {{c|1800|Bovidos}}—the cattle, the sheep, the breed
-Of the permanent horn that does not die
-
-And regrow but persists, the keratin sheath
-Over the bone core, the weapon
-That serves for life—the underneath
-Of the bovid's headgear is the steppin'
-
-Stone of the most successful
-Ungulate family on the earth:
-More species than any, the wrestle
-Of the bovids with the grassland's girth
-
-Produced the antelope, the gazelle, the gnu,
-The buffalo, the mountain goat, the sheep—
-Every grassland on every continent knew
-The bovid's hoof, the bovid's deep
-
-And ruminating presence.
-
-                          Honor the grazers—
-{{c|1797|Artiodactylos}} and his children, who turned
-The inedible grass into the praisers
-Of the {{x|Miocene}}'s open world, and earned
-
-The right to fill the largest biome
-On the planet—the grassland, the savanna,
-The steppe, the prairie—every home
-Of the open ground was the manna
-
-Of the even-toed, the ruminant, the fleet
-And hoofed inheritors of the {{x|Cenozoic}} plain.
+And won the right to fill the largest home
+Upon the planet, biome of the plain:
+The grassland, the savanna, steppe, the loam
+Of prairie: open ground was the domain
+And manna of the even-toed and fleet,
+The ruminant inheritors, who reign
+On {{x|Cenozoic}} plain, the hoofed, complete.

@@ -1,146 +1,110 @@
 # Chapter 128: The Great Split
 
-In the late {{x|Miocene}}, {{p|Africa}} changed.
+In late {{x|Miocene}} days, {{p|Africa}} changed.
+The forests that had clothed it, end to end,
+From coast to coast in green, abundant, ranged,
+The tropic world's experiment, its blend,
 
-The forests that had clothed the continent
-From coast to coast in the green and deranged
-Abundance of the tropical experiment
+Began to shrink: the climate cooled, less rain
+Then fell; tectonic uplift, as it laid
+The eastern {{p|Rift Valley}} high, pooled a shade
+Of rain, worse yearly; the west would retain
 
-Began to shrink—the climate cooled,
-The rainfall lessened, and the eastern
-{{p|Rift Valley}}'s tectonic uplift pooled
-A rain-shadow that worsened
+Its forest and its rain; the eastern side
+Abandoned hopes of canopy, and lay
+Opened; the grassland came, the vast and wide
+Savanna's open invitation's way
 
-Year by year—the western slopes
-Kept their forest, kept their rain,
-But the eastern side abandoned its hopes
-Of canopy and opened to the plain.
+To herbivore and predator; forecast
+Of forests' retreat shut a door, the one
+On a kind of primate life, and at last
+Opened another. And the split was done:
 
-The grassland came—the savanna's vast
-And open invitation to the herbivore
-And the predator—and the forecast
-Of the forest's retreat closed the door
+In shrinking woods, one lineage held fast
+To canopy: {{c|1828|Panos}}, chimpanzee, stayed
+Where trees remained, the forest's child, the last
+Refugee, who kept the old way, and made
 
-On one kind of primate life and opened
-Another.
+The knuckle-walking crossing on the ground
+From forest patch to patch, the next in line;
+The culture of tool-use, which was the round
+Of the chimpanzee's mind and its design:
 
-           And here the family split.
+Fishing for termites with a stripped twig, picked
+With care; and cracking nuts with hammer-stones;
+Techniques transmitted, culturally strict,
+From mother to the child; for culture owns
 
-In the shrinking forests, one lineage deepened
-Its commitment to the arboreal knit
+The chimpanzee: its populations bear
+Traditions, local, learned, of tools, which there
+Are not in genes; the {{p|Taï Forest}} chimps' part
+Is cracking nuts; {{p|Gombe}}'s, the fishing art
 
-Of the canopy: {{c|1828|Panos}}—the chimpanzee—
-Stayed in the trees that remained,
-The forest's child, the refugee
-Who maintained and retained
+Of probing, which in {{p|Taï}} was not learned:
+The chimpanzee's own cultural wardrobe
+Is the closest thing to what we have earned
+Among the living species, as we probe.
 
-The old way—the knuckle-walking ground-traverse
-Between one patch of forest and the next,
-The tool-use culture that was the universe
-Of the chimpanzee's intellect:
+And {{c|1828|Panos}} hunted, working as a team,
+Strategically: the red colobus, caught
+Actively, in coordinated scheme:
+The driver flushed the prey; the blocker brought
 
-Termite-fishing with a carefully
-Selected and stripped twig, nut-cracking
-With a hammer-stone, the carefully
-And culturally transmitted tracking
+Escape to close; and the rush to the kill,
+The shock of primate hunting primate; meat
+Shared afterward, in politics, the skill
+Of chimpanzee economy, elite,
 
-Of techniques from mother to child—
-For the chimpanzee has culture: different
-Populations carry the compiled
-And locally transmitted, different
+Whose access to the distribution won
+Of protein was the currency: the one
+Of rank and of alliance. But one more
+Upon the other side, past forest's door,
 
-Tool traditions that are learned,
-Not inherited in the genes—
-The {{p|Taï Forest}} chimps have earned
-The nut-cracking art, and the routines
+Drank from a different cup: the ones who walked
+Into the grassland. Not yet human, no,
+Not by some millions of years; but who balked
+At staying in the trees, whose bodies show
 
-Of {{p|Gombe}}'s chimps include the fishing-probe
-That {{p|Taï}} chimps have never learned—
-The chimpanzee's cultural wardrobe
-Is the closest thing to what we've earned
+The start of shifting: pelvis tilting, spine
+Straightening, foot's arch developing, the gift
+Of upright posture, awakening line
+Of body for the open ground; the rift.
 
-In any other living species.
+{{c|1829|Sahelanthropos}} is the oldest face
+Of human lineage yet found: in clay
+Some seven million years in the embrace
+Of {{p|Sahel}}'s ancient lakeside, a skull lay
 
-And {{c|1828|Panos}} hunted—cooperatively,
-Strategically, the capriccios
-Of the red colobus monkey taken actively
+Whose foramen magnum, placed down below
+The braincase, told us of the upright head:
+Transition had begun. And, long ago,
+"Ground ape" {{c|1830|Ardipithos}}, whose bones have said:
 
-By coordinated teams: the driver
-Who flushed the prey, the blocker
-Who closed the escape, the survivor's
-Rush to the kill—the shocker
+Halfway: still grasping toes for climbing, though
+A backbone that made walking upright, slow,
+Not yet committed, not yet fully stood
+Upon two feet, but speaking, as it could,
 
-Of primate-on-primate predation, the meat
-Shared afterward in the political
-Economy of the chimpanzee's elite
-Whose access to the analytical
+To the savanna's open, woolly ground
+With first tentative steps the primate made
+Upright.
+         Honor the great split, the two found
+Directions the {{p|African}} ape had weighed,
 
-Distribution of protein was the currency
-Of alliance and of rank.
+And two results: {{c|1828|Panos}}, the one who stayed
+In forests, and became the closest kin
+Alive to humankind; the other, made
+The boldest of the primates, crossing in
 
-But on the other side of the urgency
-Of the shrinking forest, another branch drank
+Between the forest and the open ground,
+And starting on the longest walk, the one
+That any primate ever yet has found:
+The walk to language and to talk, begun,
 
-From a different cup: the ones who walked
-Into the grassland.
-
-                     Not yet human—
-Not by millions of years—but the ones who balked
-At staying in the trees, the acumen
-
-Of whose bodies was beginning to shift:
-The pelvis tilting, the spine straightening,
-The foot's arch developing, the gift
-Of the upright posture, the awakening
-
-Of a body designed for the open ground.
-
-{{c|1829|Sahelanthropos}}—the oldest face
-Of the human lineage yet found—
-Seven million years in the embrace
-
-Of the {{p|Sahel}}'s ancient lakeside clay:
-A skull whose foramen magnum's position
-Beneath the braincase told the display
-Of the upright head—the transition
-
-Had already begun.
-
-                     And {{c|1830|Ardipithos}}—
-"Ground ape"—whose skeleton showed
-The halfway house: still grasping toes
-For climbing, but a backbone that bestowed
-
-The possibility of upright walking—
-Not yet committed, not yet fully
-Bipedal, but already talking
-To the savanna's open woolly
-
-Grassland with the first tentative steps
-Of the vertical primate.
-
-Honor the great split—the two
-Directions that the {{p|African}} ape attempts
-And the two results: {{c|1828|Panos}}, who
-
-Stayed in the forest and became the closest
-Living relative of the human line—
-And the other one, the boldest
-Of the primates, who crossed the line
-
-Between the forest and the open ground
-And began the longest walk
-That any primate has ever found:
-The walk toward language, toward talk,
-
-Toward fire and art and the question
-That only one species has ever asked—
-But that is the next chapter's digestion,
-And the great split's story is the unmasked
-
-And ancient divergence: the forest chose one,
-The grassland chose another,
-And neither knew what would be done
-With the choice—only that each brother
-
-Walked a different way into the future.
+To fire and art, and to the question asked
+By one species only, the chapter tasked
+Next with its digestion. The split, unmasked,
+Is ancient divergence: the forest chose
+One, and the grassland chose another; none
+Knew what would come of it; each brother goes
+A different way, into the future, run.

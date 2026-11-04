@@ -1,172 +1,154 @@
 # Chapter 111: Good Mesozoic Friday
 
-The stone struck the shallow sea at {{p|Chicxulub}}
-At twenty kilometers per second—the sum
-Of its cosmic velocity—and the pub-
-Lication of its energy was the drum
+At {{p|Chicxulub}} the stone struck shallow sea,
+Twenty kilometers each second fast;
+Its cosmic speed let loose what there would be
+In ten billion nuclear bombs amassed,
 
-Of ten billion nuclear weapons
-Detonated in a single point
-In a single second—and the reckoning
-Of the physics at the impact's joint
+In one place, in a single second's span,
+And all the physics at the impact's joint
+Was absolute.
 
-Was absolute:
+               The stone broke not; it ran
+To vapor, not to shards, at that one point.
 
-               The stone vaporized—
-Not broke, not shattered—vaporized, and with it
-The limestone seafloor was likewise
-Atomized, and the trillion-ton remit
+The limestone seafloor went to atoms too;
+A trillion tons of wreckage rose and flew:
+Rock, water, the calcium carbonate
+Of ancient reef, up through the vacuum gate
 
-Of debris—rock, water, the calcium
-Carbonate of the ancient reef—went up:
-Up through the atmosphere's vacuum-
-Punched hole, up past the stratosphere's cup,
+That it had punched into the atmosphere,
+Up past the stratosphere, up into space;
+And from that space looked down: a column, sheer,
+White-hot ejecta rising from the place
 
-Up into space—and from space, looked down:
-A white-hot column of ejecta rising
-From the planet's wound, a luminous crown
-Of debris beyond any theorizing
+Of the planet's wound, a luminous crown
+Of wreckage, of a size no mind could dream
+In the {{x|Cretaceous}} world. The shock went down
+Through earth at speed of sound in stone, a scream
 
-That the {{x|Cretaceous}} world could have imagined.
+In which the real and the imagined met;
+The planet rang out like a bell: a quake
+Of magnitude eleven, greater yet
+Than any since the earth began to make
 
-The shock wave traveled through the earth
-At the speed of sound in stone—the imagined
-And the real converging—and the girth
+Its body, heaven and the ground in shock,
+The planet's own lament for its torn face
+Sent through every mantle layer and rock.
+The tsunami followed it in its place:
 
-Of the planet rang like a bell: magnitude-eleven
-Earthquake, the largest seismic event
-Since the formation of the earth, the heaven
-And the ground shaking as the planet's lament
+Waves modeled at three hundred meters tall,
+A prayer of water sweeping through the {{p|Gulf}}
+And the {{p|Atlantic}}'s western shore, the fall
+Of every coastal world, which waves engulf,
 
-For its own wounded surface propagated
-Through every rock and every mantle layer.
+A gulf between the living and the dead,
+A wolf of water, on all things it fed.
 
-The tsunami followed: waves as rated
-By the models at three hundred meters—a prayer
+Then the ejecta fell: what had been thrown
+To space came down again, a fall of stone.
 
-Of water that swept across the {{p|Gulf}}
-And the {{p|Atlantic}}'s western shore—the engulf
-Of every coastal ecosystem, the gulf
-Between the living and the dead—the wolf
+It struck the upper air, the prison sky;
+The friction heated every grain to light:
+The sky caught fire. No metaphor: from high
+Rained down the beads of glass, and they were white
 
-Of water consuming everything.
+With heat, and from the pyre of the stone
+They heated all the air until it broiled;
+The forests burned, not from flame that had grown
+And spread, but from the sky itself, that boiled
 
-                                  And then—
-The ejecta fell. The debris that had risen
-Into space came down again, and when
-It struck the upper atmosphere—the prison
+With radiant heat, a ceiling glowing red
+Of falling wreckage: firestorms worldwide,
+Each forest on the planet burning, spread
+At once; the still and fleeing, side by side,
 
-Of the air—the friction heated every grain
-To incandescence: the sky caught fire.
-Not metaphor: the literal rain
-Of white-hot glass beads from the pyre
+Consumed, the granite and the living wood
+Alike submitted to the burning sky.
+The soot rose next, and did what murder could
+A second time: the pyre, all burned dry,
 
-Of the impact heated the atmosphere
-To broiling—the forests caught fire not
-From any spreading flame but from the sheer
-Radiant heat of the sky's red-hot
+From every forest on the planet sent
+A billion tons of carbon dust to soar
+Into the stratosphere, and there it went
+Into the final night of winter's war,
 
-Ceiling of returning debris—global
-Firestorms, every forest on the planet
-Burning simultaneously, the immobile
-And the fleeing alike consumed—the granite
+The impact winter, and the sun was blocked
+For months, then years; photosynthesis, locked
+Out of the sum, no longer fed the chains
+Of the world's food; and so, as darkness reigns,
 
-And the living wood equally submitted
-To the thermal pulse of the sky on fire.
+When plant and sunlight ceased, the cascade came
+Of starvation:
 
-The soot rose. And the soot committed
-The second murder: the pyre
+                     first the green plants were killed
+In darkness; then the plant-eaters, whose claim
+On life had been the plants; then, unfulfilled,
 
-Of every forest on the planet sent
-A billion tons of carbon particulate
-Into the stratosphere—and there it went
-Into the permanent night of the ultimate
+The pride of predators, which had been fed
+On the plant-eaters. The food web fell through
+From bottom up, its base's giving dead;
+The pyramid was nothing, and it knew
 
-Impact winter: the sun blocked
-For months, then years—the photosynthesis
-That fed the world's food-chains was locked
-Out of the equation—the synthesis
+No floor at all. The great {{c|1761|Tyrannos}} starved.
+{{c|1762|Ceratops}} starved; {{c|1766|Hadros}} starved there beside;
+{{c|1740|Sauropos}}' last great giants, who had carved
+A hundred million years of living, died.
 
-Of plant and sunlight ceased, and the cascade
-Of starvation began:
+In the dark sea, the plankton died, and then
+The fish that ate the plankton died; again
+The mosasaur's food web gave out, and he,
+{{c|1760|Mosas}}, met fate in dark and starving sea.
 
-                      First the plants died
-In the darkness. Then the herbivores, who made
-Their living on the plants. Then the pride
+{{c|1742|Plesios}}, the plesiosaur, who swam
+A hundred thirty million years, a lamb
+Of patience, found the {{x|Mesozoic}} seas
+Gave no welcome in impact winter's freeze;
 
-Of the predators, who made their living
-On the herbivores. The food web collapsed
-From the bottom up—the base's giving
-Cut off, the entire pyramid relapsed
+{{c|1746|Pteros}}, sky giant, {{c|1747|Quetzal}} and his kin,
+The last pterosaurs found no thermal park
+To ride, no fish, no protein to take in,
+In a world that was poisoned and was dark.
 
-Into nothing.
+The ammonites had sailed the ocean's swell
+Since the {{x|Devonian}}; and now they fell.
+Down to the sediment their shells were sown,
+The last motion of a line that had grown
+Four hundred million years, now overthrown.
 
-              {{c|1761|Tyrannos}} starved.
-{{c|1762|Ceratops}} starved. {{c|1766|Hadros}} starved.
-{{c|1740|Sauropos}}' last giants, who had carved
-A hundred million years of living—starved.
+Of every four species, three were killed;
+Each land beast larger than a dog was tolled
+Into the fossil record, there fulfilled,
+In its account of the destroyed, enrolled.
 
-{{c|1760|Mosas}} in the ocean, where the plankton
-Died in the darkness, and the fish that ate
-The plankton died, and the mosasaur's plankton-
-Fed food web collapsed—{{c|1760|Mosas}} met his fate
+And this is {{x|Good Mesozoic Friday}}:
+Death of the {{x|Mesozoic}} world, the void
+The asteroid opened in the midday
+Of life at its most complex, all destroyed.
 
-In the dark and starving sea.
-
-                              {{c|1742|Plesios}}—
-The patient plesiosaur, who had swum
-For a hundred and thirty million years—the flows
-Of the {{x|Mesozoic}} ocean gave her no welcome
-
-In the impact winter's starving dark.
-
-{{c|1746|Pteros}}—the sky giant, {{c|1747|Quetzal}} and his kin—
-The last of the pterosaurs found no park
-Of thermal to ride, no fish, no protein
-
-In the poisoned and the darkened world.
-
-The ammonites, who had sailed the ocean
-Since the {{x|Devonian}}—their shells were hurled
-To the sediment floor, the final motion
-
-Of a lineage four hundred million years old.
-
-Seventy-five percent of all species died.
-Every land animal larger than a dog was tolled
-Into the fossil record's certified
-
-And permanent account of the destroyed.
-
-This is {{x|Good Mesozoic Friday}}:
-The death of the {{x|Mesozoic}} world, the void
-That the asteroid opened in the midday
-
-Of the planet's greatest complexity—
 Not villainy, not error, not the wrong
-Decision—only the cosmic perplexity
+Decision, but the cosmos and its maze,
 Of a universe that does not belong
+To any of the creatures in its gaze;
 
-To any of its creatures, and the stone
-That fell without intent upon a world
-That had done nothing wrong—the bone
-Of the innocent, the flag unfurled
+The unintending stone that fell to earth
+Upon a world that had done nothing wrong,
+The bone of innocents, the flag of worth
+Of every line that earned its place, its song,
 
-Of every lineage that had earned its place
-Through a hundred million years of evolution
-Brought to nothing by the emptied space
-Between the orbits—no absolution,
+A hundred million years in evolving,
+Brought down to nothing by the empty space
+Between the orbits, with no absolving,
+No justice, and no reason in the case:
 
-No justice, no reason—only the rock
-And the planet, and the mathematics
-Of the crossing orbits, and the shock
-Of a world that ends in aerodynamics
+Only the rock, the planet, and the math
+Of crossing orbits, the shock of a world
+That ends in airflow on the falling path,
+The physics of the unintended, hurled.
 
-And the physics of the unintended.
-
-Let us mourn the {{x|Mesozoic}} dead—
-For the dying was not earned or recommended
-But only the falling of the stone, and the thread
-
-Of a hundred million years of living—cut
-In a single second by a thoughtless sky.
+Let us mourn the {{x|Mesozoic}} dead,
+Whose death was not earned or recommended,
+But the falling stone; and the living thread
+Of a hundred million years was ended,
+Cut in one second by a thoughtless sky
+That had no will to choose who was to die.

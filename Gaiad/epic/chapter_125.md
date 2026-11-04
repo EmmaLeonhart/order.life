@@ -1,134 +1,115 @@
 # Chapter 125: The New World Monkeys
 
-In the {{x|Oligocene}}, when {{p|Africa}} and {{p|South America}}
-Were closer than they are today but still
-Divided by the narrowing {{p|Atlantic}}'s chimera
-Of open ocean—a small and humble rill
+In {{x|Oligocene}} days, though they were near,
+{{p|Africa}} and {{p|South America}} still
+Were parted by the wide {{p|Atlantic}}'s sheer
+Of open ocean; and a humble rill
 
-Of primates crossed the water.
+Of primates, small, had crossed. Not by swimming:
+No primate swims a thousand miles of sea;
+On rafts, storm-uprooted mats, the brimming
+Of tangled forest, vine and fallen tree,
 
-                                Not by swimming—
-No primate swims a thousand miles of sea—
-But on the rafts of vegetation, the brimming
-And storm-uprooted mats of tree
+The rivers of west {{p|Africa}} washed out
+Into the ocean's current: castaways,
+By accident devout, and in their doubt
+And terror, found themselves, through nights and days,
 
-And vine and tangled forest that the rivers
-Of western {{p|Africa}} washed out
-Into the ocean's current—the delivers
-Of the accidental devout
+Adrift upon a floating island, borne
+Along the westward current's shelves of flow
+Equatorial; harried and forlorn,
+Unlikely colonists, who landed so
 
-And terrified castaways who found themselves
-Adrift on a floating island, carried
-By the westward current's shelves
-Of equatorial flow—the harried
+Upon {{p|South America}}'s eastern shore,
+And found a continent with none before,
+Of primates empty: open, wide, the floor.
 
-And unlikely colonists who landed
-On {{p|South America}}'s eastern shore
-And found a continent empty-handed
-Of any primate—an open floor
+For radiation. From these castaways
+The {{p|New World}} monkeys bloomed in many ways:
+The broad-nosed {{c|1815|Platyrrhinos}}, of a kind
+With nostrils outward-facing, signs designed
 
-For radiation.
+To show divergence from the {{p|Old World}} line:
+A small anatomical flag that told
+Thirty million years of separate design
+Of evolution, rag and banner rolled.
 
-                  From these castaways
-The {{p|New World}} monkeys bloomed—{{c|1815|Platyrrhinos}},
-The broad-nosed ones, whose nasal ways
-And outward-facing nostrils were the signos
+{{c|1815|Platyrrhinos}} invented the fifth limb:
+The gripping tail, prehensile, wrapping whim
+Of hanging and of reaching: tail that bore
+The slipping, swinging body, on the floor
 
-Of their divergence from the {{p|Old World}} line—
-A small anatomical flag
-That marked the thirty-million-year design
-Of separate evolution's rag
+Of canopy, as safety rope and hand,
+A third; no {{p|Old World}} monkey had this art
+Of tree technology; for the demand
+Of {{p|South American}} rainforest's heart,
 
-And banner.
+Tall, continuous, drove the solution:
+The tail that grasps and will not fall, the key,
+Revolution, added contribution
+To primates' toolkit up in the tall tree.
 
-             And {{c|1815|Platyrrhinos}} invented the fifth limb:
-The prehensile tail—the gripping,
-Wrapping, hanging, reaching whim
-Of a tail that could support the slipping
+{{c|1816|Alouattos}}, the howler monkey, owned
+The forest's whole acoustic circuit, sound:
+The hyoid bone, enlarged, which groaned and moaned
+And resonated, bass that carried round
 
-And swinging body in the canopy
-Like a safety rope and a third hand—
-No {{p|Old World}} monkey achieved this canopy
-Technology—the demand
+Three miles through trees: the loudest beast on land,
+The face of territorial defense
+At ease: no need to fight, since, close at hand,
+The howl announces, loud, his presence, hence
 
-Of the {{p|South American}} rainforest's tall
-And continuous cover drove the solution:
-The tail that grasps, that will not fall,
-That adds a revolution
+His claim, to every troop within the prowl
+Of all the forest; and the howler's game
+Was conserving energy: with a howl,
+Why fight, when you can out-shout all the same
 
-To the primate's arboreal toolkit.
+The competition, through the night and dawn?
+The metabolic clout of the slow, loud,
+Leaf-eating, thrifty howler, who had drawn
+His territory's answer in the cloud
 
-{{c|1816|Alouattos}}—the howler monkey—owned
-The forest's acoustic circuit:
-The hyoid bone enlarged and moaned
+Of his own voice, and never had involved
+His body in violence of dispute.
+And {{c|1817|Cebos}}, capuchin, the one who solved
+As genius, the tool-user, absolute,
 
-And resonated with a bass
-That carried for three miles through the trees—
-The loudest land animal, the face
-Of territorial defense at ease:
+Unmatched in the intelligence of apes'
+Own cousins of the {{p|New World}}: {{c|1817|Cebos}} cracked
+The nuts with stones, and probed with sticks the shapes
+Of crevices; and capuchins, in fact,
 
-No need to fight when the howl
-Announces your presence and your claim
-To every troop within the prowl
-Of the forest—the howler's game
+Filled up the forest with problem-solving
+And the inventions of the monkey's mind,
+Not taught, nor in the genes; but evolving
+As an inheritance; it's redesigned
 
-Was energy conservation: why fight
-When you can simply out-shout
-The competition through the night
-And the dawn—the metabolic clout
+Each generation, merited, clever
+Use of the objects of the world, as bands,
+The hand's extension. And, smallest ever,
+{{c|1818|Callithrinos}}, marmoset, in the lands:
 
-Of the leaf-eating, slow-moving, loud
-And economical howler, who solved
-The problem of territory with the cloud
-Of his voice and never involved
+A hundred grams of breeding that was shared;
+The father carried twins upon his back
+While mother fed, recovered, and was spared;
+Marmoset's wins were in the family's track:
 
-His body in the violence of dispute.
+Cooperative group, where each would raise
+The young, the older siblings' role in care;
+Marmoset's social economy's maze
+Most cooperative of primates there,
 
-{{c|1817|Cebos}}—the capuchin—was the genius:
-The tool-user, the absolute
-And unmatched intelligence of the simian genius
+Family-based taxonomy of labor
+Shared: estimates the human could admire.
+Honor {{c|1815|Platyrrhinos}}, the far neighbor,
+The castaways who crossed on rafts of mire
 
-Among the {{p|New World}} monkeys—{{c|1817|Cebos}}
-Cracked nuts with stones, probed crevices
-With sticks, and the capuchin's tableaux
-Of problem-solving filled the devices
+And forest, in {{p|South America}} built
+Parallel universe of primate mind
+In rainforest: the howler's voice, the quilt,
+Capuchin tools, marmoset's purse, the kind
 
-Of the forest with the monkey's invention—
-Not taught by anyone, not inherited
-In any gene, but the reinvention
-In each generation of the merited
-
-And clever use of the world's objects
-As extensions of the hand.
-
-And {{c|1818|Callithrinos}}—the marmoset—the projects
-Of the tiniest monkey in the land:
-
-A hundred grams of cooperative breeding,
-The father carrying the twins
-On his back while the mother was feeding
-And recovering—the marmoset's wins
-
-Were in the family: the cooperative
-Group where everyone helped raise
-The young, the older siblings' operative
-Role in childcare—the maze
-
-Of the marmoset's social economy
-Was the most cooperative of all primates:
-A family-based taxonomy
-Of shared labor, the estimates
-
-Of which even the human could admire.
-
-Honor {{c|1815|Platyrrhinos}}—the castaways
-Who crossed the ocean on a raft of mire
-And forest, and built in {{p|South America}}'s maze
-
-Of rainforest a parallel universe
-Of primate intelligence—the howler's voice,
-The capuchin's tools, the marmoset's purse
-Of cooperative care—a different choice
-
-From the {{p|Old World}}'s path, but no less
-Accomplished in the art of being primate.
+Cooperative care: a different choice
+From the {{p|Old World}}'s, but no less in the art
+Of being primate, nor in less rejoice
+Of its accomplishment, its own whole part.

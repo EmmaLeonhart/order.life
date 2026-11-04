@@ -1,119 +1,99 @@
 # Chapter 119: The Boreoeutherian Opening
 
-In the north—in {{p|Laurasia}}'s connected lands
-Where {{p|Asia}} and {{p|Europe}} and {{p|North America}}
-Were joined by land bridges and the bands
-Of temperate forest, the chimera
+North, in {{p|Laurasia}}'s wide, connected lands,
+{{p|North America}}, {{p|Asia}}, {{p|Europe}} stood
+Joined by land bridges and by forest bands
+Of temperate trees; and in that neighborhood
 
-Of {{c|1784|Boreos}}' radiation was the greatest
-Mammalian explosion the world had seen:
-More orders, more families, the latest
-And most overwhelming act of the {{x|Cenozoic}} scene.
+{{c|1784|Boreos}}' radiation was the most
+Mammalian explosion yet: the host
+Of orders and of families, the last,
+The greatest act the {{x|Cenozoic}} cast.
 
-For {{c|1784|Boreos}} had what {{c|1782|Afrotheros}} and {{c|1783|Xenarthros}} lacked:
-Connected continents—the land bridge at {{p|Beringia}}
-Let the {{p|Asian}} and {{p|American}} mammals act
-As one enormous gene pool—the criteria
+And {{c|1784|Boreos}} had what {{c|1782|Afrotheros}}
+Had lacked, and lacked as well had {{c|1783|Xenarthros}}:
+Connected continents; the land bridge, laid
+At {{p|Beringia}}, let {{p|Asian}} mammals trade
 
-For speciation met a continent-sized
-Arena of competition and of space,
-And the result was diversified
-Beyond the isolated island's pace.
+With {{p|American}}, one gene pool; and space
+For speciation, continental-wide,
+An arena of competition, place,
+Gave a result that was diversified
 
+Beyond the island's isolated pace.
 Two great houses branched from {{c|1784|Boreos}}' blood:
+{{c|1785|Euarchos}}, called "the true rulers," whose race
+Would hold the strangest pairings in its flood:
 
-{{c|1785|Euarchos}}—the "true rulers"—whose children
-Would include the strangest flood
-Of associations: the primates and the buildin'
+The primates, and the building of the reign
+Of rodent rule, tree shrews, and rabbits too,
+The flying lemurs: all of the one strain
+A tree-dweller, whose grasp and climbing through
 
-Of the rodent empire, the rabbits,
-The tree shrews, the flying lemurs—all
-Descended from a tree-dweller whose habits
-Of grasping and of climbing the tall
+The tall canopy of {{x|Paleocene}},
+Became the primates' heritage: a song
+For later choruses. For now, the scene
+Moves to the other branch's dance along:
 
-Canopy of the {{x|Paleocene}}'s forests
-Became the primate's inheritance—
-But that is a tale for later choruses;
-For now, the other branch's dance.
+{{c|1786|Laurasios}}, the northern one, whose kin
+Were more diverse than any single line
+Before: the carnivores; hoofed ones within
+Their herds; the bats, whose flight was the design
+Of powered flight, the only one that won
+By any mammal.
+               {{c|1791|Chiropteros}}, spun,
+The bat, was born into the nighttime's air,
+Trusting, ere the whale, echolocation;
+And with its voice the bat would map, with care,
+The darkness, each ultrasound vibration
+Slid from the palate, was the active sense,
+Perception: for the bat does not await
+The world's own sounds, but sends its own; and hence
+A glistening and rapid pulse, sent straight,
+Strikes bone, and wing, and body of the prey
+And bounces back; from the echo's delay,
+Its frequency and angle, the bat knows
+The world's shape, and the moth, the way it goes,
+Its speed, its distance, all computed in
+A brain the size of walnuts, in the time
+Of milliseconds: master, with no twin,
+Of all acoustic answers, the sublime.
+And the bat took the insect-rich night sky
+The birds had left unclaimed; for birds, by day,
+Are hunters, and the nighttime moth's high cry
+And beetle's were unhunted, and they lay
+Unnamed until the bat arrived to take
+The darkness, as the bird had claimed the light;
+And the bat thrived in every cave and brake,
+Unseen, unheard, insect hunter of night.
 
-{{c|1786|Laurasios}}—the northern one—bore children
-More diverse than any single line
-Before: the carnivores, the herd-building
-Ungulates, the bats whose design
+The hoofed, the ungulate, rose from the line
+Of {{c|1786|Laurasios}}, as the world unrolled
+Its grasslands in the {{x|Miocene}}'s design
+Of cooling and of drying; and, behold,
 
-Of powered flight was the only one
-That any mammal ever achieved.
+The hoof, the grassland's answer to the claw:
+The hard and narrow tip, the proof, the feet
+Designed for running by the open's law,
+On ground where forest cover made retreat,
 
-{{c|1791|Chiropteros}}—the bat—was born and spun
-Into the nighttime air and believed
+And predators could see you coming; speed
+Was the one lover of your life, the need
+And single art of grassland mammals: run,
+To run, to run; the hoof was built for one
 
-In echolocation before the whale did:
-The bat mapped the darkness with its voice,
-Each shriek of ultrasound that the palate slid
-Into the air was an active choice
-
-Of perception—for the bat does not listen
-For the sounds the world makes on its own
-But sends its own sound out, the glistening
-And rapid pulse that strikes the bone
-
-And wing and body of the moth and bounces
-Back—and from the echo's delay
-And frequency and angle, the bat pronounces
-The shape of the world, the moth's way
-
-And speed and distance, all computed
-In a brain the size of a walnut
-In milliseconds—the undisputed
-Master of the acoustic result.
-
-And the bat took the insect-rich nighttime sky
-That the birds had left unclaimed—
-For the bird is diurnal, and the nocturn's cry
-Of the moth and the beetle was unnamed
-
-And unhunted until the bat arrived
-And claimed the darkness as the bird
-Had claimed the daylight—and the bat thrived
-In every cave and forest, the unheard
-
-And unseen hunter of the insect world.
-
-The ungulates—the hoofed ones—rose
-From {{c|1786|Laurasios}}' line as the world unfurled
-Its grasslands in the {{x|Miocene}}'s prose
-
-Of cooling and of drying—and the hoof
-Was the grassland's answer to the claw:
-The hard and narrow tip, the proof
-Of a foot designed for running on the raw
-
-And open ground where the forest's cover
-Had retreated, and the predator
-Could see you coming, and the only lover
-Of your life was speed—the indicator
-
-Of the grassland mammal's single art:
-To run, to run, to run—and the hoof
-Was the engineering of that start,
-The hard and narrow contact's proof
-
-Against the pounding distance of the plain.
-
+Such start; the hard and narrow contact's proof
+Against the plain's long pounding, held aloof.
 From {{c|1786|Laurasios}}' northern line would come
-The horse, the rhinoceros, the mane
-Of the lion, the antler, and the drum
-
-Of the hoofbeat on the steppe—but these
-Are stories for the chapters yet to come.
-
-Honor {{c|1784|Boreos}}—whose northern expertise
-Of connected continents and the sum
-
-Of space and competition and the bridge
-Of {{p|Beringia}}'s land-crossing made
-The largest mammalian radiation's ridge—
-The northern one, whose parade
-
-Of orders and of families and of species
-Is the majority of every mammal that you know.
+The horse, the great rhinoceros, the mane
+Of lion, and the antler, and the drum
+Of hoofbeat on the steppe; but these remain
+As stories for the chapters still ahead.
+Now honor {{c|1784|Boreos}}, whose northern art
+Of continents connected, and the spread
+Of space and competition, and the part
+That {{p|Beringia}}'s land-crossing had played,
+The largest mammal radiation laid,
+The northern one, whose orders' long parade
+Of families and species is the most
+Of every mammal that you know, the host.

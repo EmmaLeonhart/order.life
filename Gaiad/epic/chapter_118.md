@@ -1,142 +1,126 @@
 # Chapter 118: The Afrotherians
 
 In {{p|Africa}}, alone and ringed by sea,
-{{c|1782|Afrotheros}}' children grew to forms
-That no other continent would see
-Until the land bridges broke the norms
+{{c|1782|Afrotheros}}' children grew into forms
+That other continents would never see
+Until the bridges of the land broke norms
 
-Of isolation—and the strangest thing
-About the {{p|African}} radiation was this:
-The elephant and the hyrax and the swimming
-Manatee are cousins—the analysis
+Of isolation. Strangest of the things
+{{p|Africa}}'s radiation, this it brings:
+That elephant and hyrax and the sleek
+Swimming manatee are cousins: so speak
 
-Of the molecular clock reveals
-What no anatomist could guess by looking:
-That the trunk and the flipper and the heels
-Of the rock-hyrax share a booking
+Molecular clocks reveal, in their turn,
+What no anatomist by sight could learn:
+That trunk and flipper, and the heels of rock-
+Hyrax, share one ancestral house's stock.
 
-In the same ancestral house.
+{{c|1787|Proboscidos}}, the trunk-bearer, would rise
+From small beginnings, from a creature's start
+No larger than a pig, to largest size
+On land: the elephant, whose body's art
 
-                                {{c|1787|Proboscidos}}—
-The trunk-bearer—rose from small beginnings,
-From a creature no larger than a dose
-Of pig, to the largest land-thing's winnings:
+Shows what mammal engineering allows
+When size answers survival's question; vows
+The elephant made, deepest of the kind
+Of mammals, to her family. Her mind
 
-The elephant, whose body is a lesson
-In what mammalian engineering allows
-When size is the answer to the question
-Of survival—and the elephant's vows
+Remembers: for the matriarch who leads
+The herd holds memory for decades, knows
+Each watermark, dry-season well; she reads
+The danger-paths and salt-licks, as she goes,
 
-To her family were the deepest in the mammal world.
+Within a territory, vast, as wide
+As human countries; and the aftermath
+Of drought or fire is navigated, guide
+Her memory, of where the water's path
 
-For the elephant remembers. The matriarch
-Who leads the herd has memory unfurled
-Across decades—she knows every watermark
+Lay in the last drought, twenty years before:
+The herd survives because the gray and old
+The matriarch's mind contains the store
+Of lifetime's geography, which is told
 
-And dry-season well and danger-path
-And salt-lick in a territory vast
-As a human country—and the aftermath
-Of drought or fire is navigated past
+To her daughters, who teach their daughters; so
+The chain of knowledge stretches down the reach
+Of generations: culture, which will go
+Not by the genes, but by the patient speech
 
-By the old one's memory of where water lay
-In the last drought, twenty years before—
-The herd survives because the matriarch's gray
-And weathered mind contains the store
+Of elder to the young.
+                       The trunk, the old
+And versatile, the organ, finely strung
+With forty thousand muscles, could take hold
+Of one grass blade, or rip a tree up, flung
 
-Of a lifetime's geography, and she teaches
-Her daughters, who teach their daughters, so the chain
-Of knowledge stretches down the reaches
-Of the generations—cultural terrain
+From earth; could trick the water up, a sip
+Of eight liters at once; and, like a horn,
+Sound warning, greeting, across miles, the strip
+Of the savanna; and its call was borne
 
-Transmitted not in genes but in the patient
-Instruction of the elder to the young.
+In infrasound too low for human ears:
+The matriarch's rumble, as it rolled,
+Traveled through ground, the tuning of the years
+Of evolution; elephants were told,
 
-The trunk itself—the ancient
-And versatile organ, finely strung
+Felt through their feet, through bone conduction, too:
+The low-frequency dance, the talking zone
+Of elephants, extended past the view
+And range of air.
+                  And {{c|1788|Hyracos}}, alone,
 
-With forty thousand muscles—could pick
-A single blade of grass or rip
-A tree from the earth, could trick
-The water into a powerful sip
+The hyrax, rabbit-small, sits on the rock
+In {{p|African}} glare, nothing like the frame
+Of the huge elephant; and yet the stock
+Is shown in teeth and toenails, and the same
 
-Of eight liters at a time, could trumpet
-A warning or a greeting across miles
-Of savanna—the elephant's crumpet
-Of communication crossed the styles
+Inner anatomy betrays the kin:
+The hyrax is the elephant within
+A miniature, the cousin who stayed small
+While the proboscidean grew to be tall,
 
-Of infrasound too low for human ears:
-The rumble of the matriarch's call
-Traveled through the ground for many years
-Of evolution's tuning, and the call
-
-Could be heard by other elephants
-Feeling it through their feet, through bone
-Conduction—the low-frequency dance
-Of the elephant's communication zone
-
-Extended far beyond the range of air.
-
-And {{c|1788|Hyracos}}—the hyrax, small as a rabbit,
-Sitting on the rocks in the {{p|African}} glare,
-Looking nothing like an elephant's habit
-
-Of enormity—and yet the teeth,
-The toenails, the internal anatomy
-Betray the kinship underneath:
-The hyrax is the elephant's autonomy
-
-In miniature, the cousin who stayed small
-While the proboscidean grew to towering height—
 Proof that the same ancestor can install
-In different niches the same right
+In different niches the same right of all
+Mammalian being. {{c|1789|Sirenios}}' kind,
+The manatees, the dugongs, the sea cows,
+{{c|1782|Afrotheros}}' sea courtesans, who'd find
+Their way back to the water and the boughs
 
-Of mammalian being.
+Of seagrass meadows, grazing there unseen
+Below the waters, placid, on the green,
+With the same calm the elephant has shown
+On the savanna's broader ground, its own.
 
-                       And {{c|1789|Sirenios}}—
-The manatees, the dugongs, the sea cows—
-{{c|1782|Afrotheros}}' aquatic courtesans
-Who returned to the water and the boughs
+The sea cow is the elephant at sea,
+The same {{p|African}} stock adapted to
+Coastal waters' warm, abundant decree
+Of tropics; rapt and gentle giant, who
 
-Of seagrass meadows, grazing underwater
-With the same placid herbivory
-That the elephant applies to the broader
-Territory of the savanna's story—
+Grazes the shallows.
+                     And {{c|1790|Oryctos}} goes,
+The aardvark, earth-pig, digs {{p|Africa}}'s rows
+Of termite mounds, with claws as big and strong
+As are a bear's, and with a tongue as long
+As is an anteater's; he stands alone,
+The only member of his order, song
+Of lineage entirely his own,
 
-The sirenian is the elephant gone to sea,
-The same {{p|African}} stock adapted
-To the coastal water's warm decree
-Of tropical abundance, the rapt
+With no close relative upon the earth:
+A branch alone of {{c|1782|Afrotheros}}' old
+And ancient radiation, whose own worth
+Is in the steadiness of heroes, bold,
 
-And gentle giant of the shallows.
+Who need no company, and still endure.
+Honor {{c|1782|Afrotheros}}, the mother who
+Is {{p|African}}, whose children prove it true
+That specialist, generalist, both sure,
 
-And {{c|1790|Oryctos}}—the aardvark, the earth-pig,
-Who digs through {{p|Africa}}'s follows
-Of termite mound with claws as big
+Can spring from just one root: the vast, keen mind
+Of elephants; the hyrax, modest stone;
+The manatee's soft elegance; the lone
+Aardvark's one-member kingdom, of its kind,
 
-As a bear's and a tongue as long
-As an anteater's—the aardvark stands alone,
-The only member of its order, the song
-Of a lineage entirely its own,
-
-With no close relative on earth—
-A solitary branch of {{c|1782|Afrotheros}}'
-Ancient radiation, whose worth
-Is measured in the steadiness of heroes
-
-Who need no company to persist.
-
-Honor {{c|1782|Afrotheros}}—the {{p|African}} mother
-Whose children prove that the specialist
-And the generalist, the one and the other,
-
-Can spring from the same root: the elephant's
-Vast intelligence, the hyrax's modest stone,
-The manatee's gentle elegance,
-The aardvark's kingdom of one—all grown
-
-From the same {{p|African}} isolation,
-The same {{x|Cenozoic}} island of the south,
+Grown from one {{p|African}} isolation,
+One {{x|Cenozoic}} island of the south,
 The same continental meditation
 On what the mammal's body, hands, and mouth
-
-Can become when left alone to answer.
+Can come to be, when left alone to try
+Its answer, with no other standing by.
