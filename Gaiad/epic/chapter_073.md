@@ -10,7 +10,7 @@ Could cross the mountain ranges looming high
 To water what the drying inland plain
 Had always drunk from river, lake, and sky.
 
-Mile by patient mile the drought crept in
+And mile by patient mile the drought crept in
 Where wetness once had ruled with open hand;
 The swamp retreated toward the coast to win
 Its last refuge and leave the middle land
@@ -20,9 +20,9 @@ That {{c|1459|Lycos}} raised like living towers wide
 Could not survive the shortage: by degrees
 The standing water fell, the inland tide
 
-Withdrew, and cracking clay replaced the swamp
+Withdrew, and cracking clay replaced the fen
 That {{c|1459|Lycos}} built his coal-age glory on—
-The rotting trunks lay in the airless damp
+The rotting trunks lay airless in the den
 Of dying sediment, compressed and gone
 
 Into the seams of coal that future hands
@@ -30,19 +30,19 @@ Would dig for fire—the great lycopsid gave
 His body to the earth's enduring bands
 Of carbon: every forest makes its grave
 
-A gift for ages yet to come. But {{c|1459|Lycos}}
-Himself retreated to the coasts of wet
-Where rainfall still could feed him, and the gross
+A gift for ages yet to come. Then he,
+Great {{c|1459|Lycos}}, drew back to the coasts of wet
+Where rainfall still could feed him, and, rain-free,
 Interior became a stone regret
 
-Of what had been—the {{x|Coal Swamp}}'s glorious reign
+Of what had been—the {{x|Coal Swamp}}'s splendid reign
 Had lasted sixty million years of green,
-Had towered through the {{x|Carboniferous}} main
+Had stood through the {{x|Carboniferous}} main
 And made the richest canopy yet seen.
 
 Now it was ending. And from every ridge
 That rose above the dying swamp-line dry,
-{{c|1474|Gymnos}} had been watching from the bridge
+For {{c|1474|Gymnos}} had been watching from the bridge
 Of highland, where he'd always held the high
 
 And drier ground—the naked seed his gift,
@@ -52,30 +52,30 @@ The cone-borne seed across the country cool
 
 And arid to whatever rocky slope
 Or limestone crag would offer any root
-A purchase—{{c|1474|Gymnos}} had been born for hope
-In dryness, born to thrive where swamp took root
+A purchase—{{c|1474|Gymnos}} had been born to cope
+With dryness, born to thrive where swamp bore fruit
 
 Only in wetness—and the drying world
-Was his inheritance at last. He called
-His children and he watched their flags unfurled
-Across the heights: {{c|1702|Conifera}} was called
+Was his inheritance at last. He sent
+His children out and watched their flags unfurled
+Across the heights: {{c|1702|Conifera}} first went
 
 To lead the charge up every barren slope
 Where naked limestone baked beneath the sun—
-She raised her resinous boughs and gave the hope
+She raised her resinous boughs and gave hope
 Of shade and shelter where there had been none.
 
 Her cone-scales held the seed against the dry
-Wherever wind would carry it to land
-On bare stone—{{c|1702|Conifera}} was the pioneer
-Who planted forests on the ridge's hand
+Wherever wind would set it on bare stone:
+{{c|1702|Conifera}}, the pioneer on high,
+Who made the ridge a forest of her own
 
-And proved the gymnosperm could go anywhere
+And proved that gymnosperms go anywhere
 That drying drove the swamp from, fill the space
 That loss had emptied with her living care—
 The highland forest built on fallen grace.
 
-{{c|1703|Ginkga}} with her fan-shaped leaf of gold
+And {{c|1703|Ginkga}}, with her fan-shaped leaf of gold,
 Kept faith with river valleys, finding wet
 Still pooled along the streambeds—she was bold
 Enough to spread along the margins yet
@@ -83,25 +83,26 @@ Enough to spread along the margins yet
 Remaining moist, and send her seeds to float
 On every current that could carry them
 To any fertile bank—she wore the coat
-Of adaptability's bright gem.
+Of adaptability, a bright gem.
 
 {{c|1701|Cycados}} took the desert margin's edge
-Where green met dust—armored, short, and stout,
+Where green met dust—all armored, short, and stout,
 Her trunk a cistern on each rocky ledge
 Where she could store what little rain came out
 
-Of {{p|Pangea}}'s miserly and clouded skies—
+Of {{p|Pangea}}'s miserly, clouded skies—
 Her cone at the crown-top bore seeds that fell
 To any scrap of soil; she had no prize
-Of abundance, only the stern spell
+Of great abundance, only the stern spell:
 
-Of endurance, drawing slow from underground
+Endurance, drawing slow from underground
 What little moisture lingered—and she held
-Her ground through drought until the next rain's sound.
+Her ground through drought until the next rain's sound,
+Unbroken, by no dryness ever felled.
 
-So {{c|1474|Gymnos}} watched his children take the world
+So {{c|1474|Gymnos}} watched his children take the land
 That dying swamp gave up without a word—
-Each slope the water left behind was pearled
+Each slope the water left behind was spanned
 With green from cone-borne seed the dry winds stirred
 
 Into each empty height. The naked seed
@@ -121,5 +122,5 @@ Too arid for the swamp, the ridges shout
 
 With gymnosperm abundance—resin, cone,
 And needle-leaf against the sun's hard face.
-Honor the ones who made the bare stone home
+Honor those who made the bare stone their own
 And planted life in the departing's place.

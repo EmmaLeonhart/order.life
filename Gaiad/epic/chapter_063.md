@@ -1,18 +1,18 @@
 # Chapter 63: The Children of Two Worlds
 
-From {{c|1632|Tetrus}}, father of the land's great nations,
-Two sons arose who chose two different roads:
-One broke in full from water's old foundations,
-One heard the lake still calling through the woods.
+From {{c|1632|Tetrus}}, father of the landward race,
+Two sons arose who chose two different ways:
+One broke for good from water's old embrace,
+One heard the lake call through the woodland maze.
 
 The first would father those who sealed their birth
 In eggs of air and broke from water's hold,
 Who built their children's lives across the earth
 Where even drought could not diminish bold.
 
-But {{c|1651|Amphibos}} still heard the water calling
+But {{c|1651|Amphibos}} still heard the water's call
 And chose the threshold as his sacred home,
-Where forest met the flood-plain, night-mist falling,
+Where forest met the flood-plain, night-mists fall,
 And coal-swamp vapors rose like silver foam.
 
 "I am the child of two great worlds," he cried,
@@ -31,12 +31,12 @@ Where {{c|847|Lepidos}} spread canopies of blue
 And {{c|1652|Meganeura}} ruled the humid hall.
 
 Four children claimed the kingdoms of his care:
-Great {{c|1653|Temna}}, {{c|1654|Rana}}, {{c|1655|Salamandrus}}, {{c|1656|Caecila}}—
-The warrior, the singer, and the rare
-Blind burrower beneath the ancient floor.
+The warrior {{c|1653|Temna}}; {{c|1654|Rana}}, who would pour
+Her song; then {{c|1655|Salamandrus}}; and the rare
+Blind {{c|1656|Caecila}}, who dug beneath the floor.
 
 Great {{c|1653|Temna}} was his eldest, warrior-born,
-Who built her empire in the darkest fen,
+Who built her realm within the darkest fen,
 She ruled the swamp-edge, midnight until morn—
 The greatest beast that walked the coal swamp then.
 
@@ -61,23 +61,23 @@ As tadpoles first who earned their limbs by race,
 As if each life must mirror life's own soul.
 
 Ten thousand kinds of frogs arose and knew
-The ancient secret of the transformation's rite,
+The secret of the transformation's rite,
 Their singing voices rang through evening dew
 And called the summer rainstorm through the night.
 
-Young {{c|1655|Salamandrus}} chose a quieter path—
+Young {{c|1655|Salamandrus}} chose a quiet path—
 Four limbs and long tail trailing through the moss,
 He found the places sheltered from the wrath
 Of sun, and counted moisture as his cross.
 
-From {{c|1655|Salamandrus}} came the pale {{c|1660|Proteid}}
+The pale {{c|1660|Proteid}} was {{c|1655|Salamandrus}}' own,
 Who never grew beyond his larval state,
-Who breathed through gills throughout his life indeed
+And kept his gills through every year he'd known,
 And found within the cave his own true fate.
 
 Last {{c|1656|Caecila}} descended underground
 And shed her eyes like garments worn too thin,
-In worm-rich tropical earth she always found
+In worm-rich tropic earth she always found
 More riches than the sighted found within.
 
 Her skin grew rings like earthworms, smooth and tight,
@@ -85,9 +85,9 @@ And many who encountered her would say
 She was no more than worm—but in the night
 She proved herself a hunter in her way.
 
-Thus from {{c|1651|Amphibos}}' ancient, blessed line
+Thus from {{c|1651|Amphibos}}' ancient, hallowed line
 Came frog and toad and salamander bright,
-Came caecilians through tropical earth and vine—
+Came caecilians through tropic earth and vine—
 The children of both water's depth and light.
 
 They teach us of the threshold's sacred truth:

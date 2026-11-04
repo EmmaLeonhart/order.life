@@ -3,14 +3,14 @@
 Now hear the story of the elder son
 Of {{c|1632|Tetrus}}, father of the nations vast,
 Whose break with water was forever done
-When he had sealed the watery world to past.
+When he had sealed the water-world as past.
 
 For {{c|1661|Amnios}} had learned the ancient art
 Of building worlds-within-a-world with care:
 A sealed and private sea, a work of heart,
 That let his children breathe the open air.
 
-Within the shell he wrapped four sacred veils:
+Within the shell he wrapped four, veil on veil:
 The {{c|1662|Amnion}} kept the waters safe inside,
 The {{c|1663|Chorion}} let the gasping breath prevail,
 The {{c|1664|Allantois}} held waste and turned aside.
@@ -18,7 +18,7 @@ The {{c|1664|Allantois}} held waste and turned aside.
 And last the {{c|1665|Yolk}} fed every growing child
 Through all the days before it faced the sun—
 No pond required, no lake, no river wild:
-The egg itself contained what water had done.
+The egg held all that water once had done.
 
 "I carry now the sea within my shell,"
 Said {{c|1661|Amnios}} with pride across the land,
@@ -30,14 +30,14 @@ The water's edge where any flood or drought
 Could drown or desiccate them—sealed inside
 This private world they safely weather out
 
-Whatever the great land sends against their form:
-The dry-spell, the summer sun, the bitter cold—
+Whatever the land sends against their form:
+The dry-spell, summer sun, the bitter cold—
 Within my egg they shelter from the storm
 And hatch already fit and fully bold."
 
 The coal-swamp logs where hollow chambers wait
-Became his nursery in the ancient time,
-Where {{c|1666|Hylonomus}} would find his destined fate
+Became his nursery in ancient time,
+Where {{c|1666|Hylonomus}} found his destined fate
 And {{c|1667|Archaeothyris}} lived in years sublime.
 
 Two sons bore {{c|1661|Amnios}} to carry on
@@ -48,17 +48,17 @@ And {{c|1669|Sauros}}, whom we tell of by and by.
 For {{c|1669|Sauros}} took the world of scale and claw
 And built his dynasty of dragon-kind,
 But {{c|1668|Synaps}} followed a more inward law
-And grew toward warmth and wakefulness of mind.
+And grew to warmth and to a waking mind.
 
-{{c|1668|Synaps}} was born with a second jaw
-Unique among the amniotes of the age—
+And {{c|1668|Synaps}} was born with a second jaw
+Alone of amniotes in all that age—
 An extra bone that reinforced the maw
 And wrote a different story on the page.
 
 For in that bone slept hearing yet to come:
 Those extra jaw-bones, changed by years, would creep
 Back toward the ear and make of them a drum
-That vibrated from vibrations in the deep
+That shook to every pulse within the deep
 
 And subtle sounds of air—but that would take
 A hundred million years of patient change—
@@ -72,23 +72,23 @@ Of living solar-panel on the track
 
 Of warming up before the hunt began
 When morning cold still chilled the swampland air—
-A warrior king whose evolutionary plan
+A king of war whose evolution's plan
 Had given him an edge beyond compare.
 
 Like {{c|1671|Dimetron}}, his sons would later be
 With great sails spread to glory in the sun,
 The masters of their age who'd hunt and see
-Their dynasty grow tall before the {{x|Permian}}'s done.
+Their line grow tall ere the {{x|Permian}}'s done.
 
-From {{c|1670|Pelyon}} would rise the house of {{c|1672|Theraps}}—
+And from {{c|1670|Pelyon}} the house of {{c|1672|Theraps}} grew,
 More upright, faster, with a keener brain,
-Their lower jaws grew thinner with collapse
-Of bones that other uses would obtain.
+Their lower jaws thinned out as bones withdrew
+To other uses they would yet obtain.
 
 For some of {{c|1672|Theraps}}' scattered bones would move
 In ages hence along the jaw toward new
 And hearing's fine and delicate-carved groove
-Where vibrations deep and whispered could come through.
+Where tremors deep and whispered could come through.
 
 And from {{c|1672|Theraps}} would come great {{c|1673|Cynos}} bright:
 The dog-toothed ones with whisker-bearing skin,
@@ -96,7 +96,7 @@ Who lived in burrows warmed throughout the night
 By bodies that kept heat contained within.
 
 But that is yet a story far away—
-For now {{c|1668|Synaps}} walks the coal-swamp ground
+For now {{c|1668|Synaps}} walks the old coal-swamp ground
 Beneath the {{c|847|Lepidos}} trees' shadowed sway
 Where hollow logs his nursery has found.
 
@@ -107,7 +107,7 @@ Their young in sealed eggs break no ancient spell
 
 But give a gift of portable ocean
 To every child who hatches into light,
-And show through evolution's slow devotion
+And show through evolution's devotion
 That sealed within can mean both safe and right.
 
 So honor those who learned to carry home
@@ -117,5 +117,5 @@ But plant their children where their children need.
 
 From {{c|1661|Amnios}}' covenant with the dry
 To {{c|1670|Pelyon}}'s solar sail of ancient bone,
-The synapsids learned to live beneath the sky
+Synapsids learned to live beneath the sky
 And make the coal-swamp forest all their own.

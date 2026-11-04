@@ -1,151 +1,141 @@
 # Chapter 83: The Harrowing of Hell
 
-After the fire, silence.
+After the fire, silence. Not the peace
+Of silence, but the empty room, the closed
+Theater, when the crowd has found release,
+Has come, and broken chairs alone disclosed
 
-Not the silence of peace—
-The silence of the empty room, the closed
-Theater after the audience's release
-Has gone and only broken chairs disclosed
+The weight of what had happened. All the land
+Of {{x|Permian}}, in the extinction's wake,
+Was not recovered: horror's noon would stand,
+With everything that mattered still at stake
 
-The weight of what had happened—the {{x|Permian}}
-Earth in the immediate extinction's wake
-Was not recovered land but the meridian
-Of horror: everything still at stake
-
-And nothing yet decided—the air
+And nothing yet decided—and the air
 Still poisonous with methane and the last
-Of sulfur's throat-burning—every bare
+Of sulfur's burning at the throat; each bare
 And rocky hillside scoured by the past
 
-Months of acid rain, the soil stripped
-Of its organic layer, the chemistry
-Of the topsoil long since ripped
-Away—bare rock, bare clay, the sea
+Months of the acid rain, the soil all stripped
+Of its organic layer; in its place,
+The chemistry of topsoil long since ripped
+Away—bare rock, bare clay, the gray, bare face
 
-Of mudstone and the desert's gray
-Expanse of what had been the {{x|Permian}} plain.
+Of mudstone and the desert's gray expanse,
+Once the wide {{x|Permian}} plain. Over all
+Of this came the gray fungi's still advance,
+Their silent reign, champagne of all who fall.
 
-And over all of this, the gray
-And silent reign of fungi, the champagne
+For when the primary producers fail,
+When photosynthesis has ceased its toil
+Across the continents, by every scale,
+The kingdom that will profit, on the soil,
 
-Of the dead—for when the primary
-Producers fail, when photosynthesis
-Has ceased across the geography
-Of continents, the kingdom in analysis
+Is that which eats the dead: the fungi rose
+In silence, after green—in fossil sheets
+Of fungal spores have come, in place of those
+Of pollen and plant spores, whose old repeats
 
-That profits is the one that eats
-The dead: the fungi rose in the silence
-After the green—in fossil layers, sheets
-Of fungal spores replace the reliance
-
-On pollen and plant spores that had marked
-Every layer of the {{x|Permian}} above—
-A spike of fungal abundance, parked
+Marked every {{x|Permian}} layer above,
+A spike of fungal plenty, in the place
 At the extinction boundary—a shove
+Of death-eaters into the empty space
 
-Of death-eaters into the ecological
-Vacuum—the world's composters,
-Who had always worked biological
-Renewal in the background, the quiet rosters
+Of ecosystems—the composting host
+Who had renewed the world, unseen, and slow,
+In quiet work, each at its living post,
+Of the decomposition, long ago.
 
-Of decomposition—now they were
-The only large-scale living presence
-In the aftermath, the only stir
-Of metabolism across the immense
+And now they were the only presence, wide
+And living, in the aftermath; the stir
+Of all metabolism, side to side
+Of the immense and empty lands that were.
 
-And empty continents—the fungal world
-Ate what the dying left behind,
-Ate the fallen forests, the unfurled
-And rotting bodies, every kind
+The fungal world ate all the dying shed,
+Ate up the fallen forests, the unfurled
+And rotting bodies, every kind of dead
+Organic matter in the wrecked old world—
 
-Of organic matter in the wreckage—
-And slowly, through their eating,
-They began to return the breakage
-To the soil, composting and completing
+And slowly, by their eating, they began
+To bring the broken back into the ground,
+Composting and completing, so the span
+Of the next life could have its cycle found:
 
-The cycle that allows the next life in:
-For soil is only dead things processed
-Through the fungal network's discipline
-Into the mineral and the rest
+For soil is only dead things, processed through
+The fungal network's discipline, and turned
+To mineral, and to the rest, anew,
+That plants can use again; the fungi churned
 
-That plants can use again—the fungi
-Harrowed hell in the literal sense
-Of harrowing: turned the dry and hungry
-Dead soil over, broke the dense
+And plowed through hell in the literal sense
+Of harrowing: they turned the dry and starved
+Dead soil, and broke the rock-face, hard and dense,
+With acids, and the hard compaction carved,
 
-And compacted rock-surface with their acids,
-Made ready what the green would need
-To return—the undertakers, the placid
-Workers of the interval between the seed
+Made ready what the green would need to grow
+Again: the undertakers, placid, still,
+The workers of the interval, the slow
+Between the old seed and the new, the till.
 
-Of old world and the seed of new.
+Then, through this poisoned world, a few remained—
+Not the great or the famous, the well-known,
+The celebrated—but the small, ingrained
+In burrows, those who ate the dead—the stone
 
-And through this poisoned world, some few
-Survived—not the great or the well-known
-Or the celebrated—the small, the burrowed,
-The ones who ate the dead—the stone
+And scale of anything that could digest
+The poorest meal in the most thrifty way—
+And {{c|1673|Cynos}}, in his burrow's sealed-off nest,
+Safe from the surface's worst, woke one day
 
-And scale of anything that could
-Process the least nutritious meal
-In the most efficient way—{{c|1673|Cynos}}
-In his burrow, sealed
+Into a world reduced to nothing more
+Than possibility; he spoke no word
+Of lamentation, breathing at the door
+Of his burrow the clearing air that stirred
 
-From the worst of the surface, woke
-Into a world reduced to nothing
-But possibility—he spoke
-No language of lament, only breathing
+Above, emerging into gray and bare
+And empty landscape; and the love of breath
+Drove him into the day, and not to care
+About its emptiness, its hush of death.
 
-The gradually clearing air above
-His burrow-entrance, emerging into gray
-Light and empty landscape—and the love
-Of living drove him to the day
+And {{c|1724|Lystro}} too, dicynodont, had passed
+Somehow alive—the less selective one,
+The eater, the defiant front held fast
+Of {{c|1723|Dicyno}}'s line; and when all was done,
 
-Regardless of its emptiness.
+There {{c|1724|Lystro}} found, when the extinction ceased,
+A strange and solitary plenty: ground
+That was his own in full, the west and east
+Of the {{x|Triassic}}'s early land around
 
-{{c|1724|Lystro}} too—the dicynodont
-Who somehow had survived, the less
-Selective eater, the defiant front
+Was {{c|1724|Lystro}}'s, with no rival to compete,
+Without a predator, his land complete;
+The first years of the {{x|Triassic}}'s long strife
+Were his inheritance, his walk of life
 
-Of {{c|1723|Dicyno}}'s lineage—{{c|1724|Lystro}} found
-In the post-extinction world a strange
-And solitary abundance: the ground
-Was his entirely—the full range
+The empty continent, in its extent,
+Was walked by one small herbivore with beak,
+Who ate whatever grew, and never went
+Beyond the root and tuber he would seek.
 
-Of the {{x|Triassic}} early land was {{c|1724|Lystro}}'s
-Without competition, without predator—
-The first years of the {{x|Triassic}}'s throes
-Were his inheritance—the corridor
-
-Of empty continent walked by one small
-Beaked herbivore who ate whatever grew,
-Who asked no more of life than the simple call
-Of root and tuber—{{c|1724|Lystro}} knew
-
-Only that he was hungry and alive
-And that was sufficient—in the hell
-Of the aftermath, to merely survive
-Is the whole achievement, and that spell
+{{c|1724|Lystro}} knew only he was hungry, and
+That he was still alive, and it was well:
+In the hell of the aftermath, to stand
+Alive is all achievement; and that spell
 
 Of bare survival is not lesser than
-The glorious {{x|Permian}} peak—it is
-Perhaps more—the one who can
-Endure the harrowing is
+The {{x|Permian}}'s glorious peak; it's more,
+Perhaps, indeed, the greater; one who can
+Endure the harrowing is heir, therefore,
 
-The one who will inherit
-The next world entire.
+To the next world, the whole world entire.
+So let us honor those who harrowed hell,
+The ones who kept alive life's fragile fire
+Through silence: fungi, composting as well,
 
-Let us honor the harrows of hell—
-The ones who kept the fires
-Of life alive through the spell
+Survivors burrowing below the ground,
+And {{c|1724|Lystro}} coasting in the gray world, sped
+Forward upon the simple need, unbound,
+To go on living; none of them was led
 
-Of silence—the fungi composting,
-The survivors burrowing below,
-{{c|1724|Lystro}} in the gray world coasting
-Forward on the simple need to go
-
-On living—they did not know
-They were the seeds of everything
-That followed—they only know
-The hunger and the living.
-
-That is enough. That has always been enough.
+To know they were the seeds of everything
+That followed; they knew only hunger's sting
+And living—nothing more, though bare and rough.
+That is enough. It always was enough.

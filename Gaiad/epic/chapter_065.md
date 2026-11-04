@@ -1,24 +1,24 @@
 # Chapter 65: The Dragon Kindred
 
-Now of the second son of {{c|1661|Amnios}} hear—
+Now to {{c|1661|Amnios}}' second son lend ear—
 Great {{c|1669|Sauros}} who would father all the scale
-That shimmered through the forest every year
+That shimmered through the forest far and near
 And gave the world its dragons in their tale.
 
 Where {{c|1668|Synaps}} turned his extra bones toward heat
 And warmth within, great {{c|1669|Sauros}} chose the way
-Of armor, scale, and claw to meet
-Whatever challenges would come his way.
+Of armor, scale, and claw, prepared to meet
+Whatever challenge came by night or day.
 
 He hollowed out his skull with window-vaults—
 Two openings behind each eye so clear
 That made his bite more powerful—no faults
-Could slow the jaw of one with nothing to fear.
+Could slow the jaw of one who knew no fear.
 
 These {{c|1674|Temporal}} {{c|1675|Fenestrae}}, windows bright
 Behind the eyes, would mark his every son:
 Whichever children carried two in sight
-Were {{c|1676|Diapsids}}—to the dragon's run
+Were {{c|1676|Diapsids}}, born kin to the dragon's run:
 
 The lineage that leads to claw and wing
 And scaled skin cold against the morning air,
@@ -26,34 +26,34 @@ To everything that makes the forest ring
 With ancient sound of those who scale and snare.
 
 But first his elder son {{c|1677|Paraps}} held close
-The older style of solid, sealed-in skull—
+The older style of skull, all solid, sealed—
 No windows in his cranium; of those
-Who sought security complete and full.
+Who sought for full security, a shield.
 
-From {{c|1677|Paraps}} would come the patient ones
+From {{c|1677|Paraps}} there would come the patient ones
 Who built their shells around them like a home:
 The {{c|1678|Turtlos}} line, the armor-bearing sons
 Who'd carry fortress-houses as they'd roam.
 
-A shell above, a shell below the ribs
+A shell above, below the ribs a shell
 That fused into a carapace and plate—
-No armor in the world more strong than this:
+No armor in the world could guard so well:
 A house the turtle carries to his fate.
 
-The younger son {{c|1679|Eureps}} chose to own
+The younger son, {{c|1679|Eureps}}, would choose to own
 The windows—two behind each eye so wide—
 And from him would grow kingdoms still unknown
 To any creature walking at his side.
 
-For from {{c|1679|Eureps}} came the great divide
+For from {{c|1679|Eureps}} there came the great divide
 In two great lines that split beneath the trees:
-Great {{c|1680|Squamos}}, whose descendants multiply
-Through every form of lizard, snake, and these
+Great {{c|1680|Squamos}}, whose descendants still abide
+In every form of lizard, snake, and these
 
 Who hold the oldest lineage of all—
-The tuatara in his island fastness,
+The tuatara, island-kept and old,
 Last of a line that heard the ancient call
-Of {{c|1669|Sauros}}' children in their {{x|Carboniferous}} vastness.
+From {{c|1669|Sauros}}' vast {{x|Carboniferous}} fold.
 
 His children bear the scale of lizard-kind
 From mountain height to tidal rocky shore,
@@ -65,7 +65,7 @@ Would build toward something no one yet had dreamed:
 A lineage of rulers coming through
 The ages in a dynasty that seemed
 
-Impossible from where they started here
+Impossible from that first small frontier
 In hollow log among the coal-swamp floor—
 But {{c|1681|Archon}}'s children would in time appear
 As crocodilians by the river's shore,

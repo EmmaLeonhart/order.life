@@ -1,144 +1,129 @@
 # Chapter 82: Good Permian Friday
 
-Then {{p|Siberia}} opened.
+Then {{p|Siberia}} opened, not one blow:
+The way a wound will open, slow at first,
+A fissure reached the surface from below
+Upon a day like others—the first burst
 
-Not all at once—the way
-A wound opens is slowly, the first
-Fissure finding the surface on a day
-Like any other—the initial burst
+Of basalt, thin and local; then there came
+Another and another, till the whole
+Became a thousand miles of vent and flame,
+The mother of volcanic fields, the toll
 
-Of basalt thin and local, then another,
-And another, until the cracks become
-A thousand miles of venting, a mother
-Of all volcanic fields, the sum
-
-Of eruption beyond any scale
-The world had seen in living memory—
+Of an eruption past all other scale
+That living memory had ever spanned—
 Two million cubic miles of basalt's trail
-Of fire written on the {{p|Siberian}} territory
+Of fire written on {{p|Siberian}} land,
 
-In layers and in years, not hours—
-This was no single blast but an age
-Of burning, stretching over a hundred thousand years' powers
-Of sustained eruption—stage
+In layers, laid down year by weary year:
+This was no single blast, but a whole age
+Of burning, and a hundred-thousand-year
+Sustained eruption. Then, stage after stage,
 
-By stage the gases filled the sky:
-The carbon dioxide first, the warming
-Before the cooling—and then the cry
-Of sulfur dioxide, the storming
+The gases filled the sky; the first, the dread
+Carbon dioxide, and the warming, came
+Before the cooling—and then, cried instead,
+Sulfur dioxide, storming like a flame,
 
-Of the atmosphere with acid—every cloud
-That formed above the {{x|Permian}} land
-Came down as acid rain, a shroud
-Of chemical death across the strand
+The atmosphere with acid—every cloud
+That formed above the {{x|Permian}} dry land
+Came down again as acid rain, a shroud
+Of chemical death spread over the strand
 
 Of every forest that remained—the trees
-Burned where they stood, not from fire
+Burned where they stood, though not from any blaze,
 But from the rain itself, the acid's ease
-Of stripping chlorophyll from the entire
+Of stripping chlorophyll from all the sprays
 
-Canopy—the gymnosperm forests
-That {{c|1702|Conifera}} had built on every ridge
-And hillside went brown first,
-Then gray, then fell—the bridge
+Of canopy: the gymnosperm woods, made
+By {{c|1702|Conifera}} on hill, ridge, and slope,
+Went brown at first, then gray, and fell, decayed—
+The bridge between the sun and life lost hope:
 
-Between the sun and life was broken here:
 The photosynthesis could not proceed
-In acid air—the base of the world's career
+In acid air; the base of the career
 Of energy was failing—every creed
+Of all the eating built on plant, on mere
 
-Of eating built on plant was now
-Built on nothing.
+Nothing at all. The ocean was not spared:
+Carbon dioxide took its bow, and passed,
+Dissolving into waters widely shared,
+Into the global sea, and there, at last,
 
-                    The ocean was not spared—
-The carbon dioxide took its bow
-Of dissolution into the wide shared
+Carbonic acid formed from gas and brine;
+The ocean's chemistry was stormed, and fell
+Its pH; carbonate in every line
+Of shell dissolved; and coral, long and well
 
-And global sea: carbonic acid formed
-From CO₂ and water—ocean
-Chemistry was stormed
-And pH fell—the oceanic
+Built through three hundred million years, grew weak
+And then to nothing; reefs' oral design
+Dissolving; the sea warmed, its depths grew bleak,
+Anoxic, without oxygen; the brine
 
-Shells of carbonate dissolved—the coral
-Buildings of three hundred million years
-Went soft and then to nothing—the oral
-Architecture of the reef appears
+Bred hydrogen sulfide—the toxic gas,
+The purple poison of the deep, which rose
+In killing blooms to surface; purple glass
+Of water at the shore where nothing grows,
 
-Dissolving—the sea turned warm and anoxic
-In its depths, where oxygen was gone
-And hydrogen sulfide—the toxic
-Purple gas of the deep-water zone—
+The ocean's tombs of former life; its door
+Shut fast. And 96 percent of all
+The species of the sea would cross no more
+The boundary; brachiopods would fall.
 
-Rose to the surface in great blooms
-Of killing: purple water at the shore
-Where nothing lived, the ocean's tombs
-Of former life, the sea's own door
+The rugose coral, wholly; and the old
+And few trilobites would meet the fire
+Of that last great extinction, final, cold,
+And permanent; the line that would expire
 
-Shut closed—96 percent of every
-Marine species would not cross
-The boundary into the next century—
-The coral, the brachiopod, the loss
+Of trilobites had stretched back to the morn
+Of {{x|Cambrian}} explosion, had survived
+Each sign of mass death in the oceans borne
+Through its long history, but here arrived
 
-Of the rugose coral entire,
-The trilobite—already old
-And few—would meet the fire
-Of the last extinction, cold
+At its own end: not with a bang, but slow
+Souring with acid, year by patient year,
+Of every sea it swam in, far below.
+On land, the acid rain, the heat severe;
 
-And permanent—the trilobite whose line
-Stretched back to the {{x|Cambrian}} explosion's
-Dawn, who had survived every sign
-Of mass death in the ocean's
+The food web's base collapsed; {{c|1723|Dicyno}}'s herds
+Could find no meat of plant to eat; and so
+The race to starvation ran on, past words,
+From herbivore to carnivore below—
 
-Long history, met its end here:
-Not with a bang but with the slow
-Acidification, year by year,
-Of every sea it swam below.
+{{c|1722|Gorgo}} starved when {{c|1723|Dicyno}} starved; the floor
+Of the food pyramid was carved away,
+And everything above it fell. No more:
+Some seventy percent, from that dark day,
 
-On land: the acid rain, the heat,
-The collapse of the food web's base—
-{{c|1723|Dicyno}}'s herds could find no meat
-Of plant to eat, and so the race
+Of vertebrates on land would die; the knell
+Of gorgonopsids, final, absolute:
+The gates closed on her line, and as they fell,
+Her ancient house left neither branch nor root.
 
-To starvation ran from herbivore
-To carnivore—{{c|1722|Gorgo}} starved
-When {{c|1723|Dicyno}} starved—the floor
-Of the food pyramid was carved
+The saber-toothed, the racing hunter, shrewd
+And proud and fierce, was taken—not by tooth
+Of any rival, but by lack of food—
+And so the {{x|Permian}} went down in truth
 
-Away, and everything above it fell.
-Seventy percent of land vertebrates
-Would not survive—the gorgonopsid's knell
-Was final, absolute—the gates
-
-Closed on her line entirely,
-No survivors of her ancient house
-In any form—the saber-toothed
-And racing hunter, proud and fierce,
-
-Was taken—not by any rival's tooth
-But by the failure of the food—
-And the {{x|Permian}} age went down in truth
 To the last word that all life understood:
+That the whole world can end not with a war
+Between the living, but when fails the good
+That creatures need—the bright and open door
 
-That the world can end not with a war
-Between the creatures but with the end
-Of what the creatures need—the door
-Of photosynthesis, the friend
+Of photosynthesis, the friend of all
+That breathes. {{x|Good Permian Friday}}, the name:
+The {{x|Paleozoic}} world's death and fall,
+Not villainy, not error, not the blame
 
-Of all that breathes.
+Of a wrong path chosen; only the curled
+And patient force of geologic time
+Expressing what it must, beneath the world—
+Volcanoes did not choose to kill; sublime
 
-                      This is {{x|Good Permian Friday}}:
-The death of the {{x|Paleozoic}} world—
-Not villainy, not error, not the wrong way
-Chosen—only the deep-buried, curled
+And ancient earth let go of what was found
+To have built up within; the cost was paid
+By every living thing above that ground—
+The world was lost, and in its loss remade,
 
-And patient force of geological time
-Expressing what it must—the volcano
-Did not choose to kill, the sublime
-And ancient earth merely let go
-
-Of what had built within it—and the cost
-Was paid by every living thing above
-That ground—the world was lost
-And remade, the way that love
-
-Itself must sometimes die to be reborn.
+The way that love itself must, now and then,
+Die so that it may be reborn again.

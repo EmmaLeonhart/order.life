@@ -6,117 +6,116 @@ As {{c|1722|Gorgo}}—gorgonopsid, whose career
 Was built on being death refined to art:
 
 The saber-toothed therapsid, apex lord
-Of all the late {{x|Permian}} world walked
-With a killing fang that was the sword
-And scepter of the age—that talked
+Of all the late {{x|Permian}} world, who walked
+With a long killing fang that was the sword
+And scepter of the age—a blade that talked
 
-No other language than the language
-Of pursuit and bringing down the large.
-For {{c|1722|Gorgo}} found in carnage
-The purest form of living, and her charge
+No other language than the chase's skill
+And bringing down the large. For {{c|1722|Gorgo}} found
+In carnage and in every hard-won kill
+The purest form of living, and her bound
 
-At {{c|1723|Dicyno}} and his herds was swift—
+At {{c|1723|Dicyno}} and all his herds was swift—
 She ran with semi-upright gait across
 The {{x|Permian}} red plains, and with the gift
 Of saber canine teeth she turned the loss
 
 Of opportunity to instant death:
-Two great curved fangs that could penetrate
+Two great and curving fangs that penetrate
 The neck of any prey and rob the breath
 From it before it knew its own last gate.
 
 She was large—some of {{c|1722|Gorgo}}'s children grew
 To bear-size, heavy-bodied, low-slung still
-In part the older sprawl, but quick enough through
-The short sprint to accomplish the kill
+In part the older sprawl, but swift right through
+The short, fierce sprint to accomplish the kill
 
-Before her prey could flee—the {{x|Permian}}'s
-Equivalent of tiger, of the lion's
-Ancient fury—{{c|1722|Gorgo}} scans
-The herd of {{c|1723|Dicyno}} with the shining
+Before prey could flee. In {{x|Permian}} lands
+The tiger's equal, or the lion's, she
+With all her ancient fury, {{c|1722|Gorgo}} stands
+And scans the herd of {{c|1723|Dicyno}}, to see
 
-Calculation of a predator
-Who has evolved for nothing but this art:
-The reading of the herd's interior
-For weakness, for the one whose slowing heart
+With shining calculation, as the kind
+Of hunter built for nothing but this part:
+To read the herd's interior, to find
+Its weakness, mark the one whose slowing heart
 
-Will make the chase worthwhile—the old,
-The young, the limping one, the one
-That moves less smoothly—{{c|1722|Gorgo}} cold
-And focused selects before the run
+Will make the chase worthwhile to her—the old,
+The young, the limping one, the lagging one
+That moves less smoothly—{{c|1722|Gorgo}}, calm and cold
+And focused, chooses well before the run
 
 Has even started who will die today.
-This is the predator's intelligence—
-Not the toolmaker's cleverness, not the way
-Of problem-solving, but the dense
+Such is the mind that predators possess:
+Not toolmaker's cleverness, not the way
+Of problem-solving, but, in its finesse,
 
-Attention to the living world around her,
+Close attention to the world around her,
 The reading of behavior, the precise
-Assessment of the body—{{c|1722|Gorgo}} found her
-Wisdom in the eyes that suffice
+Assessment of the frame—{{c|1722|Gorgo}} found her
+Her wisdom in the eyes, which did suffice
 
 For knowing every creature in the herd
 By the quality of its movement, by
 The subtle hesitation—like a word
-Misspoken that the listening ear's sharp eye
+Misspoken, that a listening ear and eye
 
-Can catch before the speaker's finished—
-{{c|1722|Gorgo}} heard the hesitation in the gait
-Of her prey before the chase had diminished
-To a sprint, and chose the one whose fate
+Can catch before the speaker's sentence ends—
+{{c|1722|Gorgo}} heard hesitation in the gait
+Of prey before the chase itself extends
+Into a sprint, and chose the one whose fate
 
-Was sealed before she moved.
+Was sealed before she ever moved. And so
+The gorgonopsid was the first great stage
+Of mammal-lineage hunts, set to grow
+Into the {{x|Permian}}'s last closing age,
 
-The gorgonopsid was the first great theater
-Of mammal-lineage predation—grooved
-Into the {{x|Permian}}'s closing chapter
-
-As the apex that the world before had never seen
-In quite this form: warm-ish blood and speed
-And saber-tooth combined, a keen
+An apex that the world had never seen
+In quite this form: a warm-ish blood, and speed,
+And saber-tooth combined, and with a keen
 And searching mind in service of its need.
 
 She was the {{x|Permian}} heroic peak—
-The thing the age had spent three hundred million
-Years of prior life preparing to seek
-This form: predator of one medallion
+The form three hundred million years of life
+Before had seemed preparing it to seek:
+A predator of one design, a knife
 
-Design above all others, matched against
-{{c|1723|Dicyno}}'s horn-beaked millions grazing wide
-Across the {{p|Pangean}} plain—the tense
+Above all others—matched against, immense,
+{{c|1723|Dicyno}}'s horn-billed millions grazing wide
+Across the whole {{p|Pangean}} plain—the tense
 And beautiful equation of the pride
 
 Of predator and plenty of the prey
-In balance, each one shaping what the other
-Would become through selection's ancient way
-Of honing edge on edge, the mother
+In balance, each one shaping, as they played,
+The other through selection's ancient way
+Of honing edge on edge, the parents made
 
-And father of all speed and size together—
-Without the gorgonopsid, dicynodonts
-Might never have grown large; without the tether
-Of predation's haunt,
+Of all the speed and size they came to share—
+Without her, the dicynodonts would not
+Have grown so large; without the tether there
+Of hunting's haunt, the prey forgets its lot:
 
-The prey grows careless, soft, abundant, slow—
-And so {{c|1722|Gorgo}} was the gift that {{c|1723|Dicyno}}
-Did not want but needed: the shadow
-That made the herd alert and on the go.
+It grows so careless, soft, abundant, slow—
+And {{c|1722|Gorgo}} was a gift, unwanted, though
+{{c|1723|Dicyno}} needed—the shadowing foe
+That kept the herd alert and on the go.
 
-This was the {{x|Permian}} at its finest hour—
+This was the {{x|Permian}}'s finest hour—
 The ecosystem balanced, rich, complex,
 Predator and prey each at its power,
 Each shaping what the other would be next.
 
 And it would end. It always ends. The reign
 Of any apex is a flash, a breath
-Of geological time, a brief campaign
-Of dominance before the arriving death
+Of geologic time, a brief campaign
+Of dominance, before arriving death
 
-Of circumstance beyond all strategy.
-But while it lasted, honor {{c|1722|Gorgo}}'s reign—
-The saber and the sprint, the mastery
-Of reading life and taking it again
+Of circumstance that no plan can foresee.
+But while it lasted, honor {{c|1722|Gorgo}}'s sway—
+The saber and the sprint, the skill to see,
+To read all life and take it, day by day,
 
-And again across the {{x|Permian}} red plain.
+Across and through the {{x|Permian}} red plain.
 The finest predator the age could make,
 Who ruled the world and will not rule again—
 The gorgonopsid gone for beauty's sake.

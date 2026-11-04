@@ -1,170 +1,157 @@
 # Chapter 84: A New Beginning
 
-Then—after the harrowing, after the long
-Silence of the poisoned world—the green.
-
+Then—after harrowing, after the long
+Silence of all the poisoned world—the green.
 Not all at once: no resurrection song
-Announced it—the first was not seen
+Announced it; and the first was never seen
 
-By anyone who could report it—only
-A spore landing on a bare stone slope
-In early {{x|Triassic}} morning, the lonely
-And unremarkable arrival of hope
+By any eye that could report it; one
+Small spore that landed on a bare stone slope
+In the early {{x|Triassic}} morning sun,
+The lonely, plain arrival of a hope
 
-In the form of a bryophyte—a moss—
+In the form of a bryophyte, a moss,
 Whose spore had ridden out the acid years
-In cryptobiosis, the death-that-is-not-loss,
-Waiting—and the stone's first tears
+In cryptobiosis—death, but not loss—
+And waiting—and the stone's first trickled tears
 
-Of mineral were the feast it needed.
-The moss spread slowly, barely visible
-Against the gray—but where it seeded,
-The soil began—the invisible
+Of mineral were all on which it fed.
+The moss spread slowly, barely seen at all
+Against the gray; but where its seeding spread,
+The soil began, invisible and small:
 
-Partnership of moss and mineral turned
+The bond of moss and mineral would turn
 Rock surface into the beginnings of
-A substrate where the next seed could be earned
-A place to root—and so the love
+A substrate where the next seed's root could earn
+A place to grow—and so it was the love
 
-Of life reasserted itself in increments
-Too small to witness but too vast
-To stop—the {{x|Triassic}}'s sentiments
-Were those of rebuilding from the last
+Of life asserted itself in small ways,
+Too small to witness, but too vast to stop—
+The temper of the {{x|Triassic}}'s first days
+Was to rebuild from the last stone, the prop
 
-Foundation stone of any possible world:
-One moss on one bare rock in the first
-Year of the new era, unfurled
-From its own dormancy—the worst
+Of any world: a single moss, alone
+On one bare rock, the first year just begun
+Of the new age, from dormancy now grown,
+Unfurled; the worst was over, and was done;
 
-Was over, and the green was coming back.
+The green was coming back. And next to come,
+{{c|1702|Conifera}}, whose seeds had waited long
+Within the soil through acid rain's hard drum,
+Her cones' seeds, in their dormancy, held strong
 
-{{c|1702|Conifera}} came next—her seeds
-Had waited in the soil through the attack
-Of acid rain, her cone-seeds' creeds
+Through all the dying, as they'd always lain
+In waiting for the right conditions; now
+The right ones, in {{x|Triassic}} morning, plain,
+Were only this—enough to show her how:
 
-Of dormancy preserved through the long dying
-As they had always waited for the right
-Conditions—and the right conditions lying
-In the early {{x|Triassic}} morning light
+Less poison and less heat; a little rain
+With water less of acid, and so sweet
+Enough for her to germinate again;
+Her seeds broke through the soil, a quiet feat.
 
-Were only this: less poison, less heat,
-A little water in the rain
-That was less acid—that was sweet
-Enough for her to germinate again.
-
-And from the survivors—{{c|1724|Lystro}} and his kind,
-{{c|1673|Cynos}} from the burrow, the few
+And from survivors—{{c|1724|Lystro}} and his kind,
+And {{c|1673|Cynos}} from the burrow, and the few
 And battered remnants—evolution's mind
-Began again the patient work of new
+Began again its patient work of new
 
-Diversity: into every empty niche
-The survivors radiated—{{c|1673|Cynos}}
-Found a world with no established rich
-Predator to contend with, and {{c|1673|Cynos}}
+Diversity: in every empty niche
+Survivors radiated; {{c|1673|Cynos}} found
+A world without an old, established, rich
+Predator to contend with on the ground;
 
-Explored every ecological space
-Available—small hunters, burrowers,
-And in the fullness of a later race
-Of time, the first true mammals—the harbingers
+He searched out each ecological space
+Available—small hunters, and the shy
+And burrowing; and in a later race
+Of time, the first true mammals would draw nigh,
 
-Of warm blood complete, milk given freely
-To the young, fur against the cold—
-All this was coming, all of it clearly
-Written in the survivors' bold
+The harbingers of warm blood at the full,
+Of milk that's given freely to the young,
+Of fur against the cold; all this, the pull,
+Was coming, written in the code that clung
 
-Genetic memory of what {{c|1673|Cynos}}
-Was already nearly—only needing
-Time and empty niches, the disclose
-Of opportunity, the seeding
+In the survivors' bold genetic store
+Of memory: what {{c|1673|Cynos}} nearly was
+Already; needing only time, and more
+Of niches: opportunity, the cause
 
-Of a new age.
+Of a new age, the seeding. And the sea,
+The ocean too, was healing, slow and pained,
+Its chemistry returned by slow degree
+Toward kinder states: less acid, and regained
 
-              And in the sea—
-For the ocean too was healing,
-Slowly, painfully, the chemistry
-Returning to the kinder feeling
+More oxygen dissolved; the sulfide's span
+Grew less as the volcanoes ceased; and when,
+In the new oxygen, the ray-fin clan,
+The schism from the other fish that then
 
-Of less acid, more dissolved oxygen,
-The sulfide fading as volcanism
-Declined—and in the new oxygen
-The ray-finned fish, the great schism
+{{c|1505|Actinus}} had made in far coal-swamp days
+Of plenty: of his clans, the most of all
+In number, {{c|1699|Teleosteos}}, his rays,
+Began to seize the empty ocean's hall.
 
-From the other fish that {{c|1505|Actinus}}
-Had made long ago in the coal swamp's
-Abundance—{{c|1699|Teleosteos}} the most
-Numerous of all his clans—
+The teleosts, who had been modest in
+The {{x|Permian}} sea, their range of kinds slight
+Beside marine invertebrates' great kin
+That had held sway—now found the ocean, quite
 
-Began to seize the empty ocean:
-The teleosts, who had been modest
-In the {{x|Permian}} sea, their notion
-Of diversity modest
+Empty; they found that the invertebrates
+Had drowned in acid; and they filled the space
+Into each depth and current, every place,
+Each niche whose occupant had met those fates.
 
-Beside the great marine invertebrates
-That had dominated—now they found
-The ocean empty, found the fates
-Of those great invertebrates had drowned
+Teleost radiation then began,
+The largest vertebrate explosion yet
+In ocean history; and so it ran
+Through the {{x|Triassic}}, slowly to offset
 
-In the acid—and they filled it:
-Into every depth and current,
-Into every niche that spilled its
-Former occupant, the current
+The emptiness with plenty; in the end
+The ray-fin fish would form one half of all
+The vertebrates on earth, and would extend
+The universal presence, great and small,
 
-Rush of teleost radiation began—
-The largest vertebrate explosion
-In the history of the ocean ran
-Through the {{x|Triassic}}'s slow erosion
+In every water on the earth; but near
+The aftermath it all began, the way
+Resilience's daughters always appear:
+Unclear, unpromising, and small, and gray—
 
-Of emptiness back into abundance—
-The ray-finned fish would ultimately
-Become half of all vertebrate redundance
-On the planet, the intimate
+A few survivors eating in a sea
+Emptied of life, and finding, as all those
+Revivers find, that emptiness can be
+An opportunity in gray-hued clothes.
 
-And universal presence in every water
-On the earth—but it began here,
-In the aftermath, as the daughter
-Of resilience always does: unclear,
+The first {{x|Easter}} of the {{x|Triassic}} was
+Without a witness who could know it well—
+Only the ordinary, classic cause
+Of life's persistence, which no one could tell
 
-Unpromising, small—a few survivors
-Eating in an empty sea
-And finding, as all true revivers
-Find, that emptiness is opportunity
-
-Dressed in gray.
-
-The first {{x|Easter}} of the {{x|Triassic}}
-Had no witnesses who understood it—
-Only the ordinary, the classic
-Persistence of life that could not
-
-Be told from simple hunger, from the bare
-Mechanics of survival—and yet
+From simple hunger, or from the bare, stern
+Mechanics of survival; and yet still
 This too is resurrection: the return
-Of green to the bare hill, the wet
+Of green upon the bare and empty hill,
 
-And patient moss on limestone, the fern
-Uncurling from the ash-soil,
-{{c|1724|Lystro}} walking in the first
-Good morning of the new age—the toil
+The wet and patient moss on limestone; fern
+Uncurling from the ash and soil; and, there,
+{{c|1724|Lystro}} walking in the new age's turn
+At its first morning; and the toil, the care
 
-Of rebuilding without knowing
-That you are rebuilding, just alive
-And going forward, going, going
-Toward whatever life can give.
+Of building up again, not knowing so,
+That you rebuild—just being, and alive,
+And going forward, going, on they go
+Toward whatever life can give, and thrive.
 
 Honor the {{x|Triassic}} morning—the gray
-Light of the new world filling slowly with
-The green of those who lived—each day
-A little less of death, a little myth
+Light of the new world, filling, more and more,
+With green of those who lived—with each new day
+A little less of death, a little lore
 
-Becoming history: the history of life
+Becoming history—the tale of life
 That always finds a way to be again
-After every fire and every knife
-Of mass extinction—the refrain
+After each fire and after every knife
+Of mass extinction—and the old refrain
 
-Of green returning, of the sea
-Clearing, of the first small mammal
-Looking at the morning and seeing free
-And empty opportunity.
-
-New world, new age—the {{x|Triassic}}'s cradle
-Rocking life back into being.
+Of green returning, of the clearing sea,
+And of the first small mammal, looking round
+At morning, seeing chances, empty, free:
+New world, new age, {{x|Triassic}} cradle-ground
+That rocks life back to being, safe and sound.
