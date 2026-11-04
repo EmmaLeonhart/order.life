@@ -10,7 +10,7 @@ His vigil bright and never lost his hope
 Beyond the bounds of earth's eternal sleep
 Into the light of evolution's scope.
 
-{{c|1606|Rhipidistius}} bore two sons of might,
+{{c|1606|Rhipidistius}} then bore two sons of might,
 Both noble, tried and true through every test:
 {{c|1607|Dipnos}} and {{c|1608|Tetram}}, warriors of light
 Who lived their lives according to what's best.
@@ -23,7 +23,7 @@ Could live dual lives to meet their every need.
 When drought would steal away the waters clear
 Where they had played in youth's eternal spring,
 The lungfish could survive from year to year
-And stay alive through everything.
+And stay alive, enduring everything.
 
 By breathing air so free from sky above
 Throughout eternity they would survive
@@ -35,30 +35,30 @@ With life-sustaining flood that stirred their blood,
 The gift of dual breath would evermore
 Protect them through both drought and mighty flood.
 
-{{c|1608|Tetram}} transformed his gut to linear form,
-A change that let him eat giant fish with ease,
+{{c|1608|Tetram}} changed his gut to linear form,
+Which let him eat the giant fish with ease,
 This innovation helped him weather storm
 And find his food in rivers, lakes, and seas.
 
 All fish have nostrils four by nature's law:
 Two let the water pour inside for breath,
 Two let the water flow without a flaw
-Back out through gills that conquer watery death.
+Out through the gills that conquer water's death.
 
 {{c|1608|Tetram}} was no exception to this rule,
 His nostrils came in four like all before,
-But he became evolution's greatest tool
-By breathing differently than ancestral lore.
+But he was evolution's greatest tool
+By breathing other than ancestral lore.
 
 {{c|1608|Tetram}} breathed not through nostrils tried and true,
 But through his ears instead to fill his frame
 With air's sweet power that would help him view
-{{c|1609|Possibilities}} beyond his earthly name.
+{{c|1609|Possibilities}} past his earthly name.
 
 He breathed through otic notches crystal clear
 That brought the air into his living form
 And gave him power to transcend all fear
-And rise above each evolutionary storm.
+And weather evolution's every storm.
 
 But breathing through his ears brought bitter tears
 For it made hearing difficult and hard,
@@ -68,46 +68,46 @@ Was weakened by this choice that left him scarred.
 Yet {{c|1608|Tetram}} bore a son when work was done:
 {{c|1610|Kenicthus}}, strong and true through every trial,
 Who'd see the journey through till victory won
-And walk the path of landward exile.
+And walk the long path of landward exile.
 
 {{c|1610|Kenicthus}} bore two sons of noble birth:
-{{c|1611|Tetracan}} and {{c|1612|Rhizodon}}, both brave and strong,
+{{c|1611|Tetracan}}, {{c|1612|Rhizodon}}, both brave and strong,
 Each destined to inherit half the earth
-And sing evolution's ancient song.
+And sing out evolution's ancient song.
 
 {{c|1611|Tetracan}} bore two faithful sons again:
 {{c|1613|Tetramegas}} great and {{c|1614|Canowin}}'s line,
 Both destined to become the best of men
 And make their father's legacy divine.
 
-{{c|1613|Tetramegas}} bore two sons of might:
-{{c|1615|Eotetras}} the explorer of the deep
-And {{c|1616|Megalicthus}} who saw the light
+{{c|1613|Tetramegas}} then bore two sons of might:
+{{c|1615|Eotetras}}, explorer of the deep,
+And {{c|1616|Megalicthus}}, who first saw the light
 Of promises that faithful hearts can keep.
 
 {{c|1615|Eotetras}} begat in days of old
-Both {{c|1617|Tintetra}} of sight and {{c|1618|Tristichos}},
+{{c|1617|Tintetra}} of sight, {{c|1618|Tristichos}} the wise,
 Whose names would rise to fame in stories told
-Of how from fish the land-dweller arose.
+Of how from fish the land-dwellers would rise.
 
 {{c|1617|Tintetra}} bore two sons beyond compare:
-{{c|1619|Platelpis}} and {{c|1620|Tiniraus}}, each following
-Different laws but sharing the same prayer
-For growth through each new dawn that life is bringing.
+{{c|1619|Platelpis}}, {{c|1620|Tiniraus}}, who each would go
+By different laws, but sharing the same prayer
+For growth through each new dawn that life would show.
 
 {{c|1619|Platelpis}} bore two sons of different ways:
-{{c|1621|Elpis}} the wanderer, tried and true,
+{{c|1621|Elpis}} the wanderer, both tried and true,
 And {{c|1622|Platycephalus}} through all his days
 Who lived by strength in everything he'd do.
 
-{{c|1622|Platycephalus}} had made a skull so strong
+{{c|1622|Platycephalus}} made a skull so strong
 His bite could break through anything at all,
 No obstacle could challenge him for long
 When power was his answer to life's call.
 
-But {{c|1621|Elpis}} wandered far beneath the stars
-Across the swamps so wide with wonder bright,
-He explored the world from near to distant fars
+But {{c|1621|Elpis}} wandered far, and in his quest
+Across the swamps so wide with wonder bright
+Explored the world from near to farthest west
 And filled his days with beauty and delight.
 
 Through marshes dark and deep where secrets dwell
@@ -115,13 +115,13 @@ He kept his vigil through the passing years,
 Despite all joys and fears he knew full well
 That exploration conquers all our fears.
 
-{{c|1621|Elpis}} begat a son when wandering done:
+{{c|1621|Elpis}} begat a son, his roaming done:
 {{c|1623|Pandericthus}} the brave who'd rise above
 The wave of ordinary life to stun
 The world with his pursuit of perfect love.
 
 {{c|1623|Pandericthus}} searched long throughout the land
-For love's eternal call that echoes clear
+For love's eternal call that echoes here
 Across the world where hearts can understand
 The song that only faithful lovers hear.
 
@@ -131,13 +131,13 @@ He married her with joy beyond compare
 And made their union shine both day and night.
 
 Together they would raise with tender care
-A son whom they would name {{c|1625|Tictalicus}},
-A name that would be known everywhere
-As greater than a throne most glorious.
+A son they called {{c|1625|Tictalicus}} by name,
+A name that would be known, and everywhere
+Be greater than a glorious throne's fame.
 
 {{c|1625|Tictalicus}} was destined for the fate
 Of landwalker supreme who'd realize
-The dream of all who came from oceanic state
+The dream of all who came from ocean's state
 To find their freedom underneath the skies.
 
 {{c|1625|Tictalicus}} begat {{c|1626|Elgin}} the wise
@@ -146,7 +146,7 @@ To rise beyond the bonds that compromise
 The soul and find the peace that freedom knows.
 
 {{c|1626|Elgin}} begat a son of noble birth:
-{{c|1627|Ventas}}, who'd carry forth the lineage pure
+{{c|1627|Ventas}}, who'd carry forth the line so pure
 Of those who'd found their home upon the earth
 And made their father's legacy endure.
 
@@ -156,23 +156,23 @@ Through every trial that they would go through
 And every challenge time would ever tell.
 
 {{c|1628|Acanthos}} bore {{c|1629|Icthyos}} of the light,
-A son who'd change the way that life was lived
+A son who'd change the way that life was led
 By making breathing work exactly right
-And healing wounds that evolution gived.
+And heal the wounds that evolution bred.
 
 {{c|1629|Icthyos}} made the choice to change his ways:
 He stopped breathing through ears that caused him pain
 And started breathing through his nose through days
-And nights until he could hear clearly again.
+And nights, until he could hear clear again.
 
-He connected nostrils to his mouth with care
+He joined his nostrils to his mouth with care
 So air could flow in cleaner, purer streams
 And he could smell each scent upon the air
 And hear each sound in all his vivid dreams.
 
-Now he could hear with crystal clarity
+Now he could hear with hearing crystal clear
 Each whisper of the wind through forest green
-And smell with perfect sensory ability
+And smell with perfect sense from far and near
 The sweetest fragrances he'd ever seen.
 
 {{c|1629|Icthyos}} bore a son when youth was past:
@@ -192,18 +192,18 @@ Of those who'd left the sea's ancestral cage.
 
 He lived on land so green and breathed air free
 Throughout his days beneath the open sky,
-And there he raised his sons in harmony
+And there he raised his sons, at one to be
 With all the earth beneath and heaven high.
 
 {{c|1630|Watcher}} bore two sons of different hearts:
-{{c|1631|Crassigar}} and {{c|1632|Tetrus}}, each would choose
+{{c|1631|Crassigar}} and {{c|1632|Tetrus}}, and each would choose
 A different path as life's great story starts
 And some will win while others have to lose.
 
 {{c|1631|Crassigar}} made the choice to hear the call
 Of ocean's voice and went back to the sea,
 A path that would be taken by them all
-Who yearned for water's ancient harmony.
+Who yearned to live in water, wild and free.
 
 This choice would be repeated many times
 By those who'd hear the water's cheerful song
@@ -215,9 +215,9 @@ But missed the gentle rocking of the waves
 Beneath the vast expanse of ocean sky
 In underwater halls and coral caves.
 
-But {{c|1632|Tetrus}} chose a different destiny:
+But {{c|1632|Tetrus}} chose another way to be:
 To be the father of the nations new
-Who'd stay upon the land eternally
+Who'd stay upon the land and never flee
 With legs or arms or whatever would do
 
 To help them crawl or walk upon the ground
@@ -227,27 +227,27 @@ To build their cities bright from day to day.
 
 He became the great father of all those
 Who'd rather live in air forever free
-Than go back to the sea where their birth arose
-But now they sang a different melody.
+Than go back to the sea where birth arose
+But now they sang a song in a new key.
 
-From {{c|1606|Rhipidistius}}' survival through the night
-To evolution's arrival at the door
+From {{c|1606|Rhipidistius}}, who survived the night,
+To evolution's coming to the door
 Of land both green and filled with morning light,
 The vertebrates discovered something more
 
-Than they had ever dreamed was possible
+Than they had ever dreamed that they would find
 In their ancestral home beneath the waves:
-The freedom that would make responsible
+The freedom, with the duty, that would bind
 Each soul that from the sea's embrace it saves.
 
 From lungfish breathing air when waters fail
 To {{c|1630|Watcher}} living wholly on the land,
 The story shows how life will never pale
-When guided by evolution's mighty hand.
+When guided by evolution's great hand.
 
 The landwalkers prepared the way for all
-Who dared to leave behind the watery past
-And build upon the land when they heard the call
+Who dared to leave behind the water's past
+And build upon the land, hearing the call
 Of freedom that would make the good things last.
 
 From {{c|1608|Tetram}}'s breathing through his otic ear
@@ -257,7 +257,7 @@ And find the path that to perfection goes.
 
 From {{c|1623|Pandericthus}} searching for true love
 To {{c|1624|Stega}}'s marriage blessed by heaven's grace,
-The vertebrates remind us to rise above
+Vertebrates remind us to rise above
 Our limitations and find our place
 
 In partnership so true it helps us through

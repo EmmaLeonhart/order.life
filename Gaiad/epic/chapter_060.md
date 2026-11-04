@@ -5,12 +5,12 @@ There came hope's light to heal the wounded earth,
 Though dark age fell across the fertile land
 Hope lived within to bring about rebirth.
 
-{{c|1563|Romer}}'s gap stretched wide across the world
+{{c|1563|Romer}}'s gap had stretched wide across the world
 With death's dark banner raised against the sky,
 Yet life endured with banners still unfurled
 Through bitter days when many had to die.
 
-The daughter in the line of {{c|982|Silvio}} fair
+The daughter in {{c|982|Silvio}}'s line, so fair,
 Was {{c|1564|Rhea}} in her time—a woman blessed
 Who showed the faithful how to rise with care
 Above the darkness and surpass each test.
@@ -20,27 +20,27 @@ Both noble, tried and true through every storm:
 {{c|1566|Romulus}} and {{c|1567|Remus}}, warriors of light
 Who'd live their lives in true heroic form.
 
-These sons would come to define the age
-Upon the stage of evolutionary time,
+These sons would come to define the whole age
+Upon the stage of evolution's time,
 So we call this era's glorious page
-The {{c|1568|Carboniferous}} in reason and rhyme.
+{{c|1568|Carboniferous}}, in reason and rhyme.
 
-{{c|1566|Romulus}} and {{c|1567|Remus}} fought with pride
+Then {{c|1566|Romulus}} and {{c|1567|Remus}} fought with pride
 About the place where they should build their home
 Throughout the fertile lands both far and wide
 Where future generations yet might roam.
 
-{{c|1566|Romulus}} declared with voice so strong:
+{{c|1566|Romulus}} declared with a voice so strong:
 "On {{c|1569|Palatine}} {{c|1570|Hill}} rising from the flow
 Of {{c|1492|Mississippi}}'s waters deep and long
 Our mighty nation surely ought to grow."
 
-But {{c|1567|Remus}} chose a different destiny:
+But {{c|1567|Remus}} chose a different place to be:
 Small {{c|1571|Aventine}} below the river's might,
 A valley where his people could be free
 But hidden from the glory of sunlight.
 
-{{c|1566|Romulus}} in anger gouged the eyes
+{{c|1566|Romulus}} in his anger gouged the eyes
 Of {{c|1567|Remus}} underneath the starry dome
 And said with fury burning in his cries:
 "If you will not acclaim our starlit home,
@@ -48,7 +48,7 @@ And said with fury burning in his cries:
 If you will not behold heaven's bright face
 And will not make your dwelling in the light
 Where radiance can fill our sacred space,
-Then you need never see the blessed sight."
+Then you need never see the holy sight."
 
 And so poor {{c|1567|Remus}} lived his life in pain
 In darkness underneath {{c|1571|Aventine}} {{c|1570|Hill}},
@@ -68,7 +68,7 @@ Despite the joys and sorrows they've been through.
 But {{c|1566|Romulus}} climbed up into the day
 Upon the land like brothers who had come
 Before to make their homes and find their way
-With pierced spiracles that helped him sum
+With his pierced spiracles that helped him sum
 
 The courage to breathe air with six legs strong
 To carry him across the fertile ground,
@@ -101,9 +101,9 @@ With wisdom as their guide through every choice,
 Of those who heed the structured, ordered voice.
 
 But {{c|1573|Vernus}} became sire of the sons
-Whose hearts desired both {{c|1576|Tails}} and {{c|1577|Collembo}},
+Both {{c|1576|Tails}} and {{c|1577|Collembo}}, whose hearts would glow,
 Two children who like bright and shining ones
-Would always their father's loving nature show
+Would always their father's kind nature show
 
 Throughout each day in all they chose to do
 With hearts both brave and faithful to the end,
@@ -126,7 +126,7 @@ Who answered duty's call and found their place
 Among the faithful who would heed the call.
 
 His tails beyond compare would dance with art
-Upon the air like ribbons in the breeze
+Upon the air like ribbons in release,
 That beauty had withdrawn from sight to start
 A revolution that would never cease
 
@@ -155,7 +155,7 @@ The dust of yesterday and make things bright
 For all who seek the glory of the day
 And long to dwell forever in the light.
 
-{{c|1580|Ectognus}} begat two sons of fame:
+{{c|1580|Ectognus}} then begat two sons of fame:
 {{c|1582|Archegnos}} and {{c|1583|Zerygos}}, each would find
 A different path but honor the same name
 Of those with faithful heart and noble mind.
@@ -178,24 +178,24 @@ Through faith and hope and everlasting love.
 {{c|1583|Zerygos}} begat two more sons of light:
 {{c|1585|Zygentos}} the explorer of the deep
 And {{c|1586|Pterygos}}, whose penetrating sight
-Would help the faithful their vigil keep.
+Would help the faithful all their vigil keep.
 
 {{c|1586|Pterygos}} chose to live beneath the flow
 Of water's gentle current crystal clear
 And there he built with care that he might know
-The secret of breathing without fear
+The secret of his breathing without fear
 
 Through gills that filled his throat with precious air
 Like music sung by those whom love holds dear,
 A gift beyond compare for those who care
 To listen with a faithful, patient ear.
 
-{{c|1586|Pterygos}} begat in days of old
+{{c|1586|Pterygos}} begat, back in days of old,
 {{c|1587|Isopter}} who had twenty gills so bright
 To help him be both faithful, true, and bold
 And fill his world with everlasting light.
 
-But fierce {{c|1588|Barameda}} came with war
+But then fierce {{c|1588|Barameda}} came with war
 To challenge great {{c|1587|Isopter}}'s peaceful reign
 And chased him from the home he'd lived before
 Across the water's foam through joy and pain.
@@ -211,7 +211,7 @@ His gills became the wings that brought him home
 And glided him down to the waters blue.
 
 {{c|1587|Isopter}} begat in his later days
-{{c|1589|Dezotopter}} who had eighteen gills
+{{c|1589|Dezotopter}}, who had his eighteen gills,
 To guide him in his flight and all his ways
 Through valleys deep and over ancient hills.
 
@@ -220,9 +220,9 @@ Of branches reaching toward the starry sky
 And pushed him from the tree to test his flight
 And see how gracefully his son could fly.
 
-{{c|1589|Dezotopter}} flew down through the air
+{{c|1589|Dezotopter}} then flew down through the air
 More graceful than a crown of feathers bright
-Upon the wind with beauty beyond compare,
+Upon the wind, with beauty past compare,
 More elegant and filled with pure delight
 
 Than his father's gliding had ever been,
@@ -240,23 +240,23 @@ As they learned evolution's perfect way.
 His weight upon the currents of the light
 And dance with beauty through the morning air.
 
-{{c|1590|Seizapter}} begat in turn a son:
+{{c|1590|Seizapter}} begat, in his turn, a son:
 {{c|1591|Quatorzapter}} with fourteen gills so fine
 That danced in perfect order, every one
 Arranged in harmony by love's design.
 
 {{c|1591|Quatorzapter}} begat {{c|1592|Duzapter}} then
 With twelve gills bright and true to lead the way,
-Who was followed by {{c|1593|Decapter}} among men
+Then followed by {{c|1593|Decapter}} among men
 With ten gills to sustain him every day.
 
 {{c|1593|Decapter}} begat {{c|1594|Octapter}} the strong
 With eight gills true to carry him along,
 Then came {{c|1595|Hexapter}} who had lived life long
-And learned to sing evolution's ancient song.
+And learned evolution's ancient song.
 
-But when great {{c|1595|Hexapter}} came of age
-He turned a new and revolutionary page
+But when the great {{c|1595|Hexapter}} came of age
+He turned a revolutionary page
 In history's book for those who'd dare to look
 At what could be achieved by those who took
 
@@ -290,7 +290,7 @@ To soar through air forever more in flight,
 He spread his wings to let the whole world know
 Of insects' wondrous and amazing sight.
 
-{{c|745|Insectus}} begat two sons of different ways:
+{{c|745|Insectus}} bore two sons of different ways:
 {{c|1596|Ephemeros}} the quick and {{c|640|Draco}}'s art
 Of flying through the long and patient days
 With wisdom dwelling always in his heart.
@@ -340,7 +340,7 @@ To fly with grace that touches every heart
 That sees his beauty bright, and souls that yearn
 For truth would see his flight as highest art.
 
-{{c|640|Draco}} bore two sons in waters clear:
+{{c|640|Draco}} bore two sons in the waters clear:
 {{c|1598|Neopter}}, bright and precious, filled with light,
 And {{c|1599|Odonatos}} strong and without fear
 Who lived his life devoted to the fight.
@@ -353,15 +353,15 @@ Built by the faithful hands that serve their fate
 Of those who came before to open wide
 The door of possibility for all,
 He flew when needed, kept peace as his guide
-And ate only plants that heard his call.
+And ate only the plants that heard his call.
 
 A gentle way to live with all he had
 Of peace and harmony through every day,
 His heart was never bitter, never sad
 For all who shared his bright and shining way.
 
-But {{c|1599|Odonatos}} had great wings outspread
-And heart that was never satisfied
+But {{c|1599|Odonatos}} had his great wings spread
+And a heart that was never satisfied
 To live in peace but thirsted to be fed
 On battles where his enemies had died.
 
@@ -372,20 +372,20 @@ His prey until the hunting day was done.
 
 He flew through all the air from place to place
 And ate his very brothers without shame:
-The sons of others in the same race
-But who had lived more peacefully than his name.
+Who were the sons of others in his race
+But who lived more peacefully than his name.
 
-His predator's heart could never understand
+His predator's heart could not understand
 Or part with his deep need to hunt and kill
 To satisfy the hunger of his hand
 And feed according to his iron will.
 
-The sons of great {{c|1599|Odonatos}} live
+The sons of great {{c|1599|Odonatos}} now live
 As warriors of the sky who never ask
 If there might be another way to give
 Their lives to some more peaceful, loving task.
 
-{{c|1600|Dragonflies}} and {{c|1601|Damselflies}} so bright
+The {{c|1600|Dragonflies}} and {{c|1601|Damselflies}} so bright
 And mighty {{c|1602|Griffonflies}} of ancient days
 Are members of this warrior crew whose might
 {{c|1603|Rules}} air from dawn to dusk in all their ways.
@@ -393,31 +393,31 @@ Are members of this warrior crew whose might
 The {{c|1602|Griffonflies}} grew wide beyond compare—
 Almost a meter's pride of wingspan true
 That carried them through battles in the air
-Beneath the endless dome of heavenly blue.
+Beneath the endless dome of heaven's blue.
 
-For seventy million years they ruled the sky
+Seventy million years they ruled the sky
 With iron claw and fought without a flaw
 Until the world began to change, and high
 Above, a new and different kind of law
 
 Would rearrange the balance of the air
 Where they had ruled their aerial domain
-Through sunshine, storm, and weather fair
+Through sunshine, storm, and through the weather fair
 For ages long through joy and bitter pain.
 
-But {{c|1598|Neopter}} became the ancestor
+But {{c|1598|Neopter}} became the root and core
 Of all the other kinds of insects bright
 With minds set upon goals that would restore
 The world to peace and harmony and light.
 
-{{c|1604|Beetles}}, ants, and flies beyond all count
+{{c|1604|Beetles}}, and ants, and flies beyond all count
 And millions more that rise with every dawn
 When day begins—they all trace their account
 Back to {{c|1598|Neopter}}'s track from waters drawn
 
-To air and land so green and beautiful
+To air and land, so beautiful and green,
 Where insects could explore from shore to shore
-Every niche with hearts both dutiful
+In every niche, with hearts both true and keen,
 And minds that always yearned to learn still more
 
 Of what their lives could be when they were free
@@ -426,12 +426,12 @@ And heed the greater call of what could be
 When they would answer love's eternal call.
 
 From {{c|1566|Romulus}}' fight with his own brother
-To {{c|1595|Hexapter}}'s revolutionary flight,
-From underground streams where {{c|1567|Remus}} and other
+To {{c|1595|Hexapter}}'s great revolution's flight,
+From streams beneath, where {{c|1567|Remus}} and other
 {{c|1605|Dwellers}} keep vigil far from morning light
 
 To great {{c|745|Insectus}}' mark upon the world
-Above, built by those who chose to love
+Above, as built by those who chose to love
 The light and air where hope's flag is unfurled
 Throughout eternity by One above,
 
@@ -446,7 +446,7 @@ To {{c|1581|Bristletails}} that sweep across the sky
 Where eagles keep their watch through day and night
 
 For those who'd climb beyond the bonds of time
-To find their destined place in evolution's race,
+To find their place in evolution's race,
 The early insects show us how to climb
 From humble start to beauty, truth, and grace.
 
@@ -460,10 +460,10 @@ And lifts us up to see what we can be
 When we work together with all our might
 And help each other to be truly free.
 
-From {{c|1563|Romer}}'s gap of death and devastation
+From {{c|1563|Romer}}'s gap of death, devastation,
 To life's returning breath and joy renewed,
-The {{c|1568|Carboniferous}} age brought salvation
-And with insects' sight the world was viewed
+{{c|1568|Carboniferous}} age brought salvation
+And with the insects' sight the world was viewed
 
 With eyes that saw how darkness turns to light
 When hearts learn how to fly beneath the sky

@@ -5,17 +5,17 @@ Great {{c|1052|Pulmon}}, who in air would find delight,
 {{c|1634|Rejecting}} water's long ancestral prose
 To breathe the sweet communion of the light.
 
-This pioneer of respiratory art
+Pioneer of respiratory art
 Bore three great sons to carry forth his name:
 {{c|1635|Siphonogloss}}, {{c|1636|Oceanus}} the heart
 Of seafaring tradition's ancient claim.
 
 And {{c|1637|Terron}}, who would spread across the land
 Where rivers meet the sea in perfect grace,
-Each lineage following its destined hand
-To find its own evolutionary place.
+Each lineage led by its destined hand
+To find its evolutionary place.
 
-{{c|1638|Siphon}} {{c|1636|Oceanus}} roamed wide
+{{c|1638|Siphon}} {{c|1636|Oceanus}} roamed far and wide
 Across the vast expanse of ocean blue,
 Where rolling waves and currents were his guide
 And saltwater ran deep in all he'd do.
@@ -23,12 +23,12 @@ And saltwater ran deep in all he'd do.
 This ocean lord begat two sons of might:
 {{c|1639|Siphonar}}, who would learn to bridge the air,
 And {{c|1640|Sacos}}, who would turn to solar light
-And photosynthetic treasures bright and fair.
+Photosynthetic treasures bright and fair.
 
 {{c|1639|Siphonar}} chose the liminal domain
 Where sea meets rocky shore in endless dance,
-An air-breathing limpet without shame
-Who seized upon evolution's greatest chance.
+An air-breathing limpet, free of shame's stain,
+Who seized upon evolution's best chance.
 
 He clung to rocks where waves and breezes meet,
 His gills transformed to breathe the atmosphere,
@@ -47,22 +47,22 @@ To capture every precious ray of light.
 
 "No longer shall I breathe the air," said he,
 "For I have found a more exalted way,
-The sun itself shall be my energy,
+The sun itself shall be the strength for me,
 And light shall feed me through each golden day."
 
-Meanwhile, great {{c|1637|Terron}} spread his progeny
-From freshwater streams to coastal shores,
-His sons would write their own biology
+Meanwhile, great {{c|1637|Terron}}'s sons spread far and free
+From freshwater streams to the coastal shores,
+To write their own biology, to be
 In rivers, seas, and beaches' sandy floors.
 
 From {{c|1637|Terron}} came both {{c|1642|Glampyron}} the wise
-And {{c|1643|Aeroger}}, master of the air,
+And {{c|1643|Aeroger}}, the master of the air,
 Their children would inhabit sea and skies
 And every habitat with equal care.
 
 The sons of {{c|1642|Glampyron}} spread far and wide,
 From land to sea to river's flowing course,
-Great {{c|1644|Glacid}} chose the freshwater's side
+Great {{c|1644|Glacid}} then chose the freshwater's side
 While {{c|1645|Pyramphon}} claimed beaches as his source.
 
 In rivers cold and clear did {{c|1644|Glacid}} dwell,
@@ -90,7 +90,7 @@ Where fresh and salt together meet and blend,
 In mangrove swamps his lineage is found
 Where root and tide in harmony defend.
 
-From {{c|1643|Aeroger}}, master of the breeze,
+From {{c|1643|Aeroger}}, the master of the breeze,
 Came {{c|1648|Euple}} and great {{c|1649|Hygros}} of the stream,
 One dwelt among the highland's ancient trees,
 The other lived the river's flowing dream.
@@ -103,14 +103,14 @@ His children swim from night until the day.
 But {{c|1648|Euple}} climbed to heights where thin air flows
 And begat {{c|1052|Pulmon}} and great {{c|1650|Acox}} there,
 Among the peaks where neither ocean goes
-They learned to thrive in rarefied mountain air.
+They learned to thrive in the rarefied air.
 
 Yet {{c|1650|Acox}} chose to lose his lungs of breath
 And sink beneath the waters clear and cold,
 Embracing what some might have called a death
 To live the ancient stories yet untold.
 
-Thus gastropods learned every way to breathe:
+Thus gastropods learned every breath to weave:
 Some kept their gills for water's sweet embrace,
 Some found in air the power to achieve
 New heights and claim the atmosphere's great space.
@@ -118,11 +118,11 @@ New heights and claim the atmosphere's great space.
 Some turned their shells to windows for the sun
 And learned to eat the light like plants of old,
 While others found that air and sea as one
-Could nourish them with treasures worth more than gold.
+Could nourish them with treasures more than gold.
 
 From {{c|1052|Pulmon}}'s innovation came the gift
-Of breathing's sweet adaptability,
-Each lineage learned its chosen way to lift
+Of breathing in its new ability,
+Each lineage learned its own way to lift
 Its life toward new possibility.
 
 In rivers, seas, and beaches they have found
@@ -135,9 +135,9 @@ That evolution's greatest gift to life
 Is not to hold to patterns from our youth
 But grow beyond familiar joy and strife.
 
-From breathing water to breathing air so free,
+From breathing water to the air so free,
 From eating plants to dining on the light,
-Each choice expands what organisms can be
+Each choice expands what living things can be
 And fills the world with wonder burning bright.
 
 So honor those who dared to change their ways
@@ -146,14 +146,14 @@ Through all their courage shining down our days
 They conquered limitations, fear, and death.
 
 From {{c|1052|Pulmon}}'s first brave gasp of mountain air
-To {{c|1640|Sacos}}' shell of photosynthetic glass,
-Each innovation shows the power to dare
-And let the old restrictions finally pass.
+To {{c|1640|Sacos}}' shell, photosynthetic glass,
+Each innovation shows the will to dare
+And let the old restrictions fall and pass.
 
 The final breath is not the end we fear
 But gateway to new forms of drawing life,
 Where gastropods have shown the pathway clear
-Beyond the bounds of evolutionary strife.
+Beyond the bounds of evolution's strife.
 
 Whether in deepest ocean's crushing weight
 Or highland peaks where only eagles soar,
@@ -167,12 +167,12 @@ Across the sea and through the fertile land.
 
 From glass shells full of captured solar fire
 To lungs that breathe the sweet and perfect air,
-They teach us how to lift our souls up higher
+They teach us how to lift our souls higher
 And find new ways to live beyond compare.
 
 The legacy of {{c|1052|Pulmon}} echoes still
 In every creature brave enough to grow
-Beyond the bounds of evolutionary will
+Beyond the bounds of evolution's will
 Into the light of all we've yet to know.
 
 So let us learn from gastropods this day
