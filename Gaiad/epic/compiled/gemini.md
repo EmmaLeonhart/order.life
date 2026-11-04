@@ -281,12 +281,12 @@ The wisest action. Together, they are one of the great civilizational
 Philosophies. Separately, each would be impoverished. The fact that
 {{p|Chinese}} culture held them together, rather than forcing a choice
 Between them, is a sign of its intellectual sophistication. And
-The {{x|Gaiad}} honors this. The {{x|Gaiad}}'s own religious vision, with its
-
-Commitment to polytheistic plurality and its resistance to
-Reductive monotheism, draws sustenance from this {{p|Chinese}} model
-Of holding multiple truth-traditions together in productive
-Tension. {{p|Confucianism}} and {{p|Daoism}} are not rivals but collaborators.
+The poem honours this. It keeps no score
+Between the many gods and one; the door
+Is one, the house is one, and {{p|China}}'s way
+Of keeping both its teachings, day by day,
+Is how one house keeps its own rites in view:
+Not rival faiths, but partners, are the two.
 
 Not contradictions but complements. The civilization that produced
 Them knew how to live in the space between them. That skill is
@@ -636,18 +636,15 @@ Because he has achieved liberation while they have not. The
 
 Importance to any god or gods. The gods exist; they are not
 Ultimately relevant. What is ultimately relevant is each sentient
-Being's own progress toward liberation. This is a position with
-Some affinity to the {{x|Gaiad}}'s own deflationary polytheism—a
+Being's own road to freedom. So our song:
+The gods are many, and they live for long,
+But none of them the centre; all along
+This book has said the same. No second creed
+Stands here beside our own: the {{c|1959|Buddha}}'s seed
+Is our own rite, the middle way our road,
+Kept under names his country's tongue bestowed.
 
-Recognition of divine pluralism combined with a refusal to treat
-Any particular divinity as the absolute center of everything. The
-{{x|Gaiad}} can appreciate the {{p|Buddhist}} framework as one genuinely
-Compatible articulation of a non-dogmatic, non-imperialist religious
-
-Orientation. {{p|Buddhism}} and the {{x|Gaiad}}'s own vision are not the
-Same, but they share family resemblances.
-
-                                              {{c|2304|Siddhartha Gautama}}. The
+{{c|2304|Siddhartha Gautama}}. The
 Prince who left his palace. The ascetic who rejected both luxury
 
 And self-torture. The seeker under the fig tree at {{p|Bodh Gaya}}.
@@ -1287,12 +1284,17 @@ Himself and others, helping them to recognize their ignorance
 And thereby opening the possibility of genuine wisdom. He pursued
 This mission relentlessly for decades. In the process, he made
 
-Many enemies. The politically powerful did not enjoy being publicly
-Exposed as ignorant. The pious did not enjoy having their religious
-Assumptions questioned. In three-ninety-nine BCE, {{c|2232|Socrates}} was
-Formally charged with impiety (failing to worship the proper gods
-
-And introducing new gods) and with corrupting the youth of {{p|Athens}}.
+Many foes: the mighty, shamed in the square,
+And those who kept the rites and would not bear
+A man who said a god spoke in his ear.
+The quarrel was the city's, and the year
+Was three-ninety-nine when it came to court:
+Who held the city's altars, and what sort
+Of voice might speak for its gods. The charge read
+"Impiety": he failed the gods, they said,
+The city's own, brought new ones in, and led
+Astray the youth of {{p|Athens}}. And he knew
+The gods he served were {{p|Athens}}' own gods too.
 He was tried by a jury of five hundred citizens. He defended
 Himself not by minimizing his activity but by insisting that his
 Philosophical mission was a gift to the city. The jury, unimpressed,
@@ -1646,8 +1648,10 @@ Living, friendship, and the avoidance of needless fears (especially
 
 Fear of the gods and fear of death). {{p|Epicureanism}} would flourish
 For centuries and be given classical expression by the {{p|Roman}}
-Poet {{c|2405|Lucretius}} in the first century BCE. The school survived
-Until late antiquity before being suppressed by {{p|Christianity}}.
+Poet {{c|2405|Lucretius}}, and the school lived on
+To late antiquity, and then was gone
+When the new bishops held the schools and halls:
+A fight for who would teach inside those walls.
 
 These are only the most prominent schools. The philosophical
 Diversity of fourth-century {{p|Greece}} was astonishing. It was a
@@ -3151,14 +3155,19 @@ who ruled {{p|Judea}} as a province
 with some degree of imperial delirium.
 
 {{c|2515|Antiochus IV Epiphanes}} came,
-who wanted {{x|Greek}} culture spread,
-who sacked {{p|Jerusalem}}, banned the {{x|Law}},
-and set up {{c|2065|Zeus}} above the holy head.
+Who meant the {{x|Greek}} way kept, and in its name
+He sacked {{p|Jerusalem}}, he banned the {{x|Law}},
+And on the altar of the Lord they saw
 
-He sacrificed a pig upon
-the altar in the {{p|Temple}}'s court.
-The "abomination of desolation"
-was what the {{x|Book of Daniel}} reported.
+The Lord of Heaven under the king's name:
+{{c|2065|Zeus}} of the heights, the same sky and the same
+Altar, but now his priests, his rite, his swine
+Laid on it in the {{p|Temple}}'s court. The sign
+
+The {{x|Book of Daniel}}, punning on that name,
+Called it "abomination," set in shame:
+One altar, and a fight for who would stand
+Before it, and whose law would rule the land.
 
 This was too much. Revolt broke out.
 {{c|2516|Mattathias}} the priest refused
@@ -3380,10 +3389,10 @@ symbolic of restoration complete.
 He taught the disciples to pray "Our {{c|2542|Father}},"
 giving the kingdom's prayer to recite.
 
-He reserved his sharpest words not for
-the sinners, the prostitutes, the thieves,
-but for the religious professionals,
-the {{c|2521|Pharisees}} who played with sleeves.
+He kept his sharpest words, though, not for those
+Who sinned, the thieves and prostitutes he chose
+To eat with, but for those who held the chair
+Of {{c|1006|Moses}}, the {{c|2521|Pharisees}}, the scribes there:
 
 "Woe to you, scribes and {{c|2521|Pharisees}},
 hypocrites, who strain out a gnat
@@ -3395,15 +3404,20 @@ justice, mercy, and faithfulness.
 You whitewashed tombs, beautiful outside,
 full of dead men's bones and ugliness."
 
-This made enemies. And when he went
-to {{p|Jerusalem}} for {{c|2543|Passover}},
-rode in on a donkey to cheers,
-overturned the money-changers' tables in {{p|Temple}} stover,
+A quarrel in one house: who taught the {{x|Law}},
+Who kept the courts, whose hand the tithe would draw.
+He came up to {{p|Jerusalem}} to share
+The {{c|2543|Passover}}, and rode a donkey there
 
-the authorities decided to act.
-The high priest {{c|2544|Caiaphas}} said
-"it is better for one man to die
-than for the whole nation to be red."
+To cheering crowds, and in the {{p|Temple}} threw
+The money-changers' tables down; that drew
+The keepers of the altar in. The high
+Priest {{c|2544|Caiaphas}} said: better one should die
+
+Than that the nation perish. So the hand
+That held the altar kept it, and the land
+Stayed quiet under {{p|Rome}}. One house, one rite,
+And who would keep its courts: that was the fight.
 
 {{c|2545|Judas Iscariot}} betrayed him
 for thirty pieces of silver, paid.
@@ -3523,15 +3537,15 @@ sixty-seven of the {{x|Common Era}}.
 {{x|Buddhism}} entered the {{p|Han Empire}}
 by imperial sponsorship without fear.
 
-But it would not take root for centuries.
-The {{x|Chinese}} saw it as a curiosity,
-a foreign teaching from the western regions,
-not yet absorbed into their reality.
+But centuries would pass before it grew
+Its roots; the court gave the new shrine its due:
+The old offering come by a western road,
+Not yet in every household and abode.
 
-It competed with {{x|Daoism}} at first,
-and the two borrowed from each other.
-{{c|2560|Daoists}} adapted {{x|Buddhist}} concepts.
-{{c|2561|Buddhists}} used {{x|Daoist}} terms as brothers.
+It stood beside the {{c|2560|Daoists}}' altar, and
+The two kept the same court and the same land.
+They vied for the throne's gifts, and each one took
+The other's words, as brothers share a book.
 
 The translation problem was immense.
 How translate "nirvana" into {{x|Chinese}}?
@@ -3634,9 +3648,9 @@ the world's oldest dated printed book,
 from the ninth century, in preserved stint.
 
 But that was later. For now, in the {{p|Han}},
-the new teaching trickled in slowly,
-a curiosity, a foreign cult,
-not yet the cultural river, wholly.
+The rite from the west trickled in, and ran
+Beside the older altars, one more door
+Into one house, not yet the river's roar.
 
 The {{p|Han}} itself was showing strain.
 The empress clans fought palace war.
@@ -3666,20 +3680,20 @@ in the early third {{x|Common Era}},
 and produced one of the strangest emperors
 that ever held imperial ear.
 
-{{c|2570|Elagabalus}}, age fourteen,
-became emperor in two-eighteen,
-and brought with him from {{p|Emesa}}
-a cult that shocked the {{p|Roman}} scene.
+{{c|2570|Elagabalus}}, aged fourteen, was made
+Emperor in two-eighteen, and conveyed
+From {{p|Emesa}} the rite he served by birth
+To {{p|Rome}}, the sun his city kept on earth.
 
-He was hereditary priest of
-{{c|2571|Elagabal}}, the sun god of his city,
-a black stone worshipped at a temple,
-a {{x|Semitic}} deity, un-pretty
+He was the high priest by descent of one,
+{{c|2571|Elagabal}}, the city's god, the sun,
+A black stone in a temple. {{p|Rome}} had known
+The same sky under {{c|101|Jupiter}}'s own throne,
 
-to {{p|Roman}} eyes that wanted {{c|101|Jupiter}},
-{{c|97|Mars}}, the ancestral {{x|Capitoline}} three.
-He brought the black stone to {{p|Rome}} itself,
-installed it above all others visibly.
+With {{c|97|Mars}}, the {{x|Capitoline}} three. The fight
+Was whose priest held it, and whose house, whose rite.
+He brought the stone to {{p|Rome}} itself, to stand
+Above the other altars of the land.
 
 He tried to marry it to {{c|1995|Athena}}.
 When that failed, he tried {{c|2572|Astarte}}.
@@ -3711,25 +3725,25 @@ standard tropes of {{p|Roman}} invective
 used to destroy reputations
 of rulers who proved ineffective.
 
-The deflationary polytheist
-notes: whatever the truth, the attempt
-to raise a {{x|Semitic}} sun god to
-{{p|Roman}} supremacy was not exempt
+The poem notes: whatever was the truth,
+The quarrel was not gods but priests: the youth
+Who set his city's priesthood over all
+Of {{p|Rome}}'s own priesthoods was the one to fall.
 
-from consequences. The {{p|Roman}} elites
-were deeply offended. The {{x|Praetorian Guard}}
-assassinated him at eighteen, dragged
-his body through streets, threw it hard
+The senate's houses, those who held the rites
+Of {{p|Rome}}'s own altars, would not bear the slights.
+The {{x|Praetorian Guard}} slew him, eighteen,
+Dragged him through streets, and threw him, as unclean,
 
-into the {{p|Tiber}}, and his mother's body
-with him, the sewer their tomb.
-The black stone was sent back to {{p|Emesa}}.
-The old gods reclaimed their room.
+Into the {{p|Tiber}}, with his mother, laid
+The sewer for a tomb. The stone, conveyed
+Back home to {{p|Emesa}}, left {{p|Rome}}'s own sun
+In {{p|Rome}}'s own priests' hands: the same rite, still one.
 
-But the seed had been planted.
-A sun-centered monotheistic faith,
-imported from {{p|Syria}}, had briefly
-occupied the imperial wraith.
+But something had been planted: one sun's rite
+From {{p|Syria}}, had held the throne's own light
+Briefly: one sun at the empire's head,
+Kept by one {{x|Syrian}} house in {{p|Rome}}'s stead.
 
 This was the first attempt to make
 solar monotheism {{p|Rome}}'s state cult.
@@ -3761,10 +3775,10 @@ cult and the {{c|1497|Christ}} cult were cousins,
 sharing iconography, festivals, theology,
 the rayed halo, the midwinter reasons.
 
-{{c|2570|Elagabalus}} failed. But the cultural current
-he represented — eastern solar monotheism
-colonizing the {{p|Roman}} imperial cult —
-would continue its strong historical prism.
+{{c|2570|Elagabalus}} failed. The current, though,
+Of one sun at the rite's head, still would flow
+Through {{p|Rome}}'s own altars; who would hold the one
+High altar was the question, not the sun.
 
 Three strands had been converging now
 toward what would become monotheistic {{p|Rome}}:

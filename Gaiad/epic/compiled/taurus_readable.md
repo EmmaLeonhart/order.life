@@ -303,13 +303,15 @@ Great pre-Yamnaya {{p|European}} culture, the one that built giant wooden
 Cities painted with spirals, the one that worshipped the goddess
 Of the old {{p|Europe}}—is burned to the ground by the {{p|Yamnaya}} advance.
 
-The peaceful pre-IE agricultural culture is replaced by the warlike
-Horse-riding patriarchal culture. The goddess is replaced by the
-Sky-father. The painted pottery is replaced by the corded-ware pot.
-The spiral is replaced by the wheel. The mother is replaced by the
-
-King. And the languages of old {{p|Europe}}—whatever they were, we will
-Never know—are replaced by {{x|Proto-Indo-European}} and its daughters.
+The farming towns are taken by the band
+Of horsemen and their fathers. On the land
+The goddess keeps her rite, but in the hall
+Of the sky-father, who now holds it all.
+The painted pot gives way to corded ware,
+The spiral to the wheel; the mother there
+Bows, keeps her rite, and serves the king as well.
+Old {{p|Europe}}'s tongues, whatever they were, fell
+To {{x|Proto-Indo-European}}'s spell.
 This is the pivot. This is the change. This is the moment when
 The {{p|Europe}} we know today begins. Indo-European-speaking, patrilineal,
 
@@ -1658,8 +1660,10 @@ Female absorption, a genetic signature of conquest that archaeology
 Could not have seen until DNA analysis made it visible.
 
                                                               And the
-Religious displacement was equally total. The mother goddess was
-Replaced by the sky father. The spiral was replaced by the wheel.
+Rite changed hands as wholly. The mother, made
+The sky-father's consort, in his house stayed;
+The hearth's offering passed to the war-band's lord;
+The spiral by the wheel and by the cord.
 
 The peaceful agricultural village was replaced by the patriarchal
 Warrior band. The female-centered kinship of {{p|Cucuteni-Trypillia}}
@@ -1707,9 +1711,10 @@ Is, along with the original out-of-Africa migration, one of the
 Two most consequential population movements in human history. It
 Carried {{p|Indo-European}} languages across most of {{p|Eurasia}}. It
 Established patriarchal, patrilineal social structures across the
-Whole zone. It replaced earlier mother-goddess religions with
-
-Sky-father religions everywhere it went. And the genetic signature
+Whole zone. It set the mother's hearth and rite
+Under the sky-father's roof by the right
+Of conquest everywhere it went. The sign
+Left in the blood, the father's double line
 Of R1a and R1b—the two great {{p|Yamnaya}} Y-chromosome haplogroups—
 Is today dominant across essentially all of {{p|Europe}} and much of
 {{p|India}} and {{p|Iran}}. Billions of people are {{p|Yamnaya}}'s grandchildren.
@@ -1927,15 +1932,16 @@ Legendary reign, the state still bows to him. This is, by any
 Measure, the longest continuous national founding mythology on
 Earth.
 
-        Compare this to the situation in other civilizations. {{p|Egypt}}
-Broke with the pharaonic tradition when {{p|Christianity}} arrived. The
-{{p|Mesopotamian}} dynasties replaced each other repeatedly, each
-Erasing the sacred lineage of the previous. {{p|Greece}} and {{p|Rome}}
-
-Secularized their founding myths and eventually abandoned the
-Religious claims of their origins. {{p|Christianity}} and {{p|Islam}} replaced
-The earlier sacred genealogies of their regions with new ones
-Centered on Abraham and Muhammad. But {{p|China}} never broke.
+Compare the other lands. In {{p|Egypt}}, when
+{{p|Christianity}} came, new keepers then
+Took up the dead's old rite. The kings who rose
+In {{p|Mesopotamia}} struck out those
+Before them from the king-lists. {{p|Greece}} and {{p|Rome}}
+Let their first founders' rites go cold at home.
+{{p|Christianity}}, {{p|Islam}} hung the old
+Lines on Abraham, Muhammad, to hold
+Them under new hands. {{p|China}} never broke:
+One house has kept one rite, and the same smoke.
 
 Huangdi has outlasted every other ancient founder-figure in
 Continuous national veneration. The {{p|Chinese}} civilizational
@@ -2075,16 +2081,20 @@ Empire. He speaks {{p|Akkadian}} (and perhaps {{p|Sumerian}} as a learned
 Second language). He grows up in a city whose ziggurat dominates
 The skyline and whose commercial networks extend across the entire
 
-{{p|Near East}}. His father Terah is described in {{p|Genesis}} as a maker
-Of idols—a craftsman in the image-making industry that supplied
-The temples of {{p|Mesopotamia}}. Abraham's rejection of idolatry, which
-The later biblical and {{p|Islamic}} traditions would make central to
+{{p|Near East}}. His father Terah, legends say,
+Made images for temples, and one day
+The son broke what the father's workshop made.
+Later tellings, Jewish and Muslim, laid
+Their whole weight on that blow. The poem reads
+It as a household quarrel, not two creeds:
+Who keeps the household altar and its rite,
+The shop that served the temple of moonlight
+Or the son, who would set the altar's flame
+Himself, with no carved go-between. The same
+Father's rite; the dispute was who would hold
+It: one house broken, and the story told.
 
-His identity, is portrayed as a rejection of his father's profession.
-The son smashes the idols the father carves. A generational
-Break in a literal family workshop.
-
-                                         And then the {{p|Ur III}}
+And then the {{p|Ur III}}
 Dynasty falls.
 
                     The collapse is dramatic. The final {{p|Ur III}}
@@ -3244,35 +3254,37 @@ That Akhenaten rose to the throne.
 Amenhotep IV, was the son of Amenhotep III and grandson of
 Thutmose IV. He reigned from approximately thirteen-fifty-three
 
-To thirteen-thirty-six BCE. And he attempted something that no
-Previous pharaoh had attempted: to abolish the traditional {{p|Egyptian}}
-Pantheon and replace it with the worship of a single god—the sun-
-Disk, Aten—with himself as the sole intermediary between the
+To thirteen-thirty-six. Then, of the men
+Who ruled, he did what none had done till then:
+He took the gold and gifts of every door
+Of Amun's house and many houses more,
+And gave them to one altar and one sun,
+The Aten, where the pouring might be done
+By him alone, the only one between
+The light and those who lived by it. Some mean
+By "Aten heresy" a faith reborn,
+The first monotheism; others scorn
+It as a break with all the gods of old.
+The poem sees one rite, and one man's hold
+On it: the same sun Amun-Ra had been,
+The same hymns, a new house to bring them in.
+It was a move for power, meant to break
+The {{p|Amun}} priesthood's hold, for one king's sake.
 
-Divine and humanity. This is the famous "Aten heresy" or
-"Amarna revolution"—sometimes celebrated in popular history as the
-First monotheism. The {{x|Gaiad}}'s reading is more skeptical. Akhenaten's
-Religious innovation was not quite monotheism in the Abrahamic
-
-Sense. It retained cosmic elements of the traditional {{p|Egyptian}}
-Religion. It was, primarily, a political move—an attempt to break
-The {{p|Amun}} priesthood's power by redirecting religious authority
-To a sun-disk that only the pharaoh had privileged access to.
-
-Akhenaten built a new capital, {{p|Akhetaten}} (modern {{p|Amarna}}),
-In middle {{p|Egypt}}. He moved the royal court there. He closed temples
-Of Amun and other traditional gods. He persecuted priests of the
-Old religion. And he composed, in his own hand, hymns to the
-
-Aten—the {{p|Great Hymn to the Aten}}—that celebrate the sun as
-Creator of all life. (Interestingly, the {{p|Great Hymn to the Aten}}
-Shares striking similarities with {{p|Psalm 104}} of the {{p|Hebrew
-Bible}}—a parallel that has led some scholars to argue that {{p|Hebrew}}
-
-Monotheism was influenced by or descended from Akhenaten's
-Earlier experiment. The {{x|Gaiad}} takes a careful position on this:
-The parallel is real, but the historical transmission is murky,
-And the {{p|Hebrew}} tradition had its own independent development.)
+He built {{p|Akhetaten}}, his seat, out where
+{{p|Amarna}} stands, and took his whole court there,
+And then closed Amun's temples and the rest,
+Drove out their priests, and took what they possessed:
+The same offering, now poured in one man's name.
+In his own hand he wrote, to light the flame,
+{{p|Great Hymn to the Aten}}, praising the sun
+As maker of all life, the only one.
+That hymn is close to {{p|Psalm 104}},
+And some have said the {{p|Hebrew}} rite took more
+From Akhenaten's altar than it knew.
+The likeness holds; the road it travelled through
+Is murky, and the {{p|Hebrew}} rite had grown
+Along its own long road, though not alone.
 
 And here the {{x|Gaiad}} makes a specific and possibly provocative claim.
 Akhenaten, despite his reputation in modern pop-religion as a
@@ -3280,19 +3292,20 @@ Akhenaten, despite his reputation in modern pop-religion as a
 Who persecuted the {{p|Israelites}}. The "{{p|new king who knew not
 
 Joseph}}" of the {{p|Exodus}} narrative may be, in the {{x|Gaiad}}'s reading,
-Akhenaten himself. Why? Because Akhenaten's religious revolution
-Was anti-foreign-cult. In closing down the temples of the traditional
-{{p|Egyptian}} gods, he also closed down the temples of the {{p|Semitic}}
-
-Gods who had been worshipped in {{p|Egypt}} by the remaining {{p|Canaanite}}
-Population. The {{p|Israelites}} in {{p|Goshen}}—descendants of Jacob's
-Family, still preserving their own {{p|Semitic}} religious identity—
-Found themselves religiously suppressed under Akhenaten's regime.
-
-The irony is striking: Akhenaten, celebrated by modern writers
-As the first monotheist, was in the {{x|Gaiad}}'s reading the active
-Persecutor of the {{p|Israelites}}, whose descendants would develop
-The most important monotheism in subsequent world history. The
+Akhenaten himself. For when he shut
+The house of Amun, every altar but
+His own was closed: the shrines where {{p|Canaanite}}
+Households in {{p|Egypt}} kept their fathers' rite,
+And those of Jacob's house in {{p|Goshen}}, who
+Still kept their fathers' god, as households do,
+Lost altars with the rest. And so the one
+The moderns praise as first to serve one sun
+Is, in this reading, he who drove the rite
+Of Jacob's sons from its altars. The fight
+Was who would hold the altar, and whose dead
+The houses honoured, and who poured the bread.
+The sons of those he drove away would own
+The rite's most-spoken name for one god's throne.
 
 Timing also roughly works: Akhenaten's reign (thirteen-fifty-three
 To thirteen-thirty-six BCE) is approximately the right period for
@@ -4537,9 +4550,14 @@ Of power was right and just. They developed—probably articulated
 Most clearly by King Wu's brother Duke of Zhou, who served as
 
 Regent for King Wu's young son after King Wu's early death—the
-Concept of {{p|Tianming}}, the {{p|Mandate of Heaven}}. The supreme deity
-Tian ("Heaven," displacing the {{p|Shang}} Shang Di in religious
-Primacy) grants the right to rule to a ruling house only so long
+Concept of {{p|Tianming}}, Heaven's charge. The high
+God, Tian, was Shang Di of the {{p|Shang}}'s own sky,
+One Lord, two names; the fight was for the rite:
+Which house would make the offering, by right,
+To Heaven. And the {{p|Shang}}'s own dead were fed:
+{{p|Zhou}} gave {{p|Song}} to {{p|Shang}}'s heirs, to set the bread
+Before their fathers. Heaven gives the strong
+House leave to rule, but only for so long
 
 As that house governs virtuously. If the ruling house becomes
 Oppressive, tyrannical, or negligent, Heaven withdraws its mandate
@@ -5126,29 +5144,27 @@ Maintained continuously in fire temples, symbolic of Ahura Mazda's
 Presence and of the principle of Asha in the world. He emphasized
 Good thoughts, good words, good deeds as the core of religious
 
-Practice. The old gods of the {{p|Indo-Iranian}} pantheon—Mithra,
-Anahita, various solar and storm deities—were either demoted to
-Subordinate roles beneath Ahura Mazda or reinterpreted as
-{{p|Amesha Spentas}} (holy immortals, something like angels). Some
+Practice. The steppe's old gods kept their old form:
+Mithra, Anahita, the sun and storm
+Bowed to Ahura Mazda or became
+The {{p|Amesha Spentas}}, holy, the same.
+And Indra, whom the {{p|Vedic}} hymns put high,
+Was called a daeva, servant of the lie.
+So {{p|Sanskrit}} deva names a god of light;
+In {{p|Avestan}}, daeva, a foe. The fight
+Was not between two faiths. It was one rite,
+One fire, one tongue, one pressed and holy drink,
+Two priesthoods at one altar, and the brink
+They fought on was whose lords would take the bowl.
+One family split its fire, but not its soul:
+The plateau's peoples, who took up his word,
+Kept Zarathustra's fire; and those who heard
+Refused, in the {{p|Indo-Aryan}} east,
+Kept deva for their gods, and fed the feast
+Of {{p|Vedic}} rite. Each kept the same old flame
+And called the other's lords by a worse name.
 
-Of them—notably Indra, who had been a central god in {{p|Vedic}}
-Religion—were actively demonized, recast as {{p|daevas}} (false gods)
-On the side of Angra Mainyu. This is why the word "daeva" has
-Opposite valences in {{p|Sanskrit}} and {{p|Avestan}}: {{p|Sanskrit}} deva is
-
-A good god, but {{p|Avestan}} daeva is an evil one. Zarathustra
-Inverted the old pantheon, placing as good those beings that
-Emphasized truth and moral order, placing as evil those beings
-That emphasized power, warrior glory, and the older ecstatic
-
-Fertility cult. The reform was thorough, and it split the
-{{p|Indo-Iranian}} religious world permanently. {{p|Iranian}} peoples who
-Accepted Zarathustra's reform became {{p|Zoroastrians}}. {{p|Indo-Aryan}}
-Peoples who did not became {{p|Hindus}}. The same starting tradition
-
-Produced two distinct and ultimately opposed religious complexes.
-
-                                                                 And
+And
 Zarathustra was, by his own account and by subsequent tradition,
 A controversial reformer. He was initially rejected by his own
 
@@ -6458,40 +6474,29 @@ Through its {{p|Christian}} and {{p|Islamic}} extensions, it would reshape
 
 The religious landscape of most of the planet.
 
-                                                Now, a crucial
-Clarification. The {{x|Gaiad}}, in its earlier treatments, has been
-Critical of monotheism as a theological stance. The {{x|Gaiad}}'s own
+Now, where the poem stands: it will not weigh
+The one god and the many, as if they
+Were rival faiths. It does not grant the claim
+That one name or a hundred change the same
+Offering: bread and cup and honoured dead.
+And what the prophet of the exile said,
+That all the nations' worship is one rite
+Confused about one god, this poem might
+Have said itself, and keeps that word its own.
+The later wars were fought for land and throne
+And altar: who would hold the rite alone.
+{{p|Christian}} kingdoms, {{p|Islamic}} rule, the line
+Of {{p|Protestant}} mission: one house, one shrine,
+And its own heirs at war for its one door.
+The exiles did not make their word for war.
+They made it to hold on when others' hands
+Held the great altar and the people's lands:
+The rite would not be fragile as the crown
+That fell with {{p|Jerusalem}}'s walls brought down.
+The poem honours that as courage shown
+Inside our house, the house the exiles own.
 
-Theological sympathies are with a reflective polytheism—one that
-Honors the plurality of divine manifestations, that resists the
-Collapse of cosmic complexity into singular transcendence, that
-Preserves the ecological and cultural richness of the pre-
-
-Monotheistic religious imagination. The {{x|Gaiad}} has argued that
-Monotheism, when it became triumphalist, led to religious
-Persecution, to the destruction of local traditions, to the
-Psychological and cosmological impoverishment of religious life.
-
-This critique stands. But the {{x|Gaiad}} also acknowledges that
-Monotheism, in its origin, was not primarily a triumphalist
-Project. It was a survival strategy. The {{p|Judean}} exiles did not
-Invent monotheism to conquer other religions. They invented it
-
-To hold themselves together under conditions that should have
-Destroyed them. Their theological radicalism was a response to
-Historical crisis, not an aggressive expansionist ideology. The
-Later aggressive monotheisms—{{p|Christian}} imperialism, {{p|Islamic}}
-
-Conquest, {{p|Protestant}} mission—represent developments of the
-Original insight, and often problematic developments. But the
-Original insight itself was a courageous theological act, a
-Refusal to accept that divine reality was as fragile as the
-
-Political structures that had supported the earlier religion. And
-The {{x|Gaiad}} honors the courage of that act, even while maintaining
-Reservations about its later forms.
-
-                                        And consider who took the
+And consider who took the
 Lead in this theological transformation. The exilic and post-exilic
 Period produced some of the most remarkable religious personalities
 In world history. Ezekiel, the priest-prophet, who saw visions of
@@ -6601,21 +6606,20 @@ Produced, in the space of a century, a new religious grammar
 That would shape the religious imagination of billions of people
 Over the next twenty-five centuries.
 
-                                            And again, the {{x|Gaiad}}'s
-Assessment is complex. The {{x|Gaiad}} honors the exilic communities for
-
-Their courage and creativity. The {{x|Gaiad}} also maintains that
-Monotheism, as it developed, created problems that polytheistic
-Traditions did not have—problems of exclusivity, of intolerance,
-Of the flattening of cosmic complexity. But the {{x|Gaiad}} acknowledges
-
-That monotheism emerged from a specific historical situation in
-Which it was the most viable theological response. It was not
-Born as imperialist ideology. It was born as survival theology.
-The later imperialist uses of monotheism are distortions of an
-
-Originally defensive and preservationist project. The {{x|Gaiad}}
-Reads the {{p|Babylonian}} exile as one of the pivotal moments in
+And here again, the poem takes no sides
+Between one god and many. What divides
+Them is not doctrine but the hand that holds
+The altar, and whose dead the rite upholds.
+Intolerance, when it came, was a door
+Shut by whoever held the house; the war
+Was over who would serve, not what is true.
+The exile's word was born to carry through
+A people with no temple; those who bent
+It later to an empire's intent
+Fought for the house; they did not change the rite,
+Our rite, kept in the exile through the night
+Of {{p|Babylon}}. The poem, then, within
+Our story, reads it as a turning in
 The history of religion—as genuinely pivotal as the {{x|Axial Age}}
 Breakthroughs happening roughly contemporaneously in {{p|Iran}},
 
