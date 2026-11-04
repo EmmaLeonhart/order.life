@@ -2,19 +2,18 @@
 
 Against the tyrant's jaw, the herbivore
 Grew armor, grew horns, grew the elaborate
-And beautiful defenses of the {{x|Cretaceous}} floor:
-The ornithischian answer, the ornate
+And handsome guards of the {{x|Cretaceous}} floor:
+Ornithischian answer, the ornate
 
-And weaponized response to the predator's art.
-
+Weaponized response to hunters' art.
 {{c|1762|Ceratops}} was {{c|1741|Ornithis}}' finest shield—
 The horned face, the frilled and bony heart
-Of defense displayed like a medieval field
+Of guard displayed like a medieval field
 
 Of heraldry above the skull—three horns:
-Two great brow-horns above the eyes like lances,
-A nose-horn in the center, and the adorns
-Of the bony frill behind—the stances
+Two brow-horns, lances, set above the eyes,
+A nose-horn in the center; the adorns
+Of bony frill behind: the poise, the size
 
 Of display and defense combined in one
 Enormous and improbable design:
@@ -22,109 +21,104 @@ A skull that weighed as much beneath the sun
 As the rest of the head—the massive shrine
 
 Of bone that was at once a weapon, shield,
-And billboard—for the frill bore colors,
-And the horns could gore, and the display field
-Of species-recognition turned the collars
+And billboard—for the frill bore painted hue,
+And the horns could gore, and the display field,
+For knowing kin, would turn the herds into
 
-Of every ceratopsian herd into a gallery
-Of the living art: {{c|1763|Triceratops}} with three,
-{{c|1764|Styracosauros}} with his spiked salary
-Of frill-horns, {{c|1765|Centrosauros}} in a spree
+A gallery of living art: the three
+Horns of {{c|1763|Triceratops}}; the spiked array
+Of {{c|1764|Styracosauros}}' frill-horns; the spree
+Of {{c|1765|Centrosauros}}' nose in its display.
 
-Of nasal ornament—each species wrote
-Its identity on the skull for all to read,
-And the {{x|Cretaceous}} plains were the moat
-And kingdom of the horned ones' creed.
+Each species wrote, upon the skull, its note
+Of who it was, for all the herds to read,
+And the {{x|Cretaceous}} plains became the moat
+And kingdom of the horned ones and their creed.
 
-They charged the {{c|1761|Tyrannos}} when he came—
+They charged the great {{c|1761|Tyrannos}} when he came—
 The brow-horns aimed at the predator's flank,
-The frill protecting the vulnerable claim
+The frill to guard the vulnerable claim
 Of the neck—and the herd's collective rank
 
-Formed a wall of horns against the king:
-The ceratopsian herds moved together,
+Formed a great wall of horns against the king:
+Ceratopsian herds moved together,
 The young inside, the adults in a ring
 Of bristling horn-points, and the weather
 
-Of the {{x|Cretaceous}} battle between the horn
-And the tooth was the defining drama
-Of the final age—the conflict, born
-From sixty million years of carnivore-llama
+Of the {{x|Cretaceous}} war between the horn
+And tooth, the drama that defined the age
+Of final days; the conflict, being born
+From sixty million years upon that stage
 
-And predator-prey dynamics, reached its peak
-In the Triceratops-Tyrannosaur confrontation:
+Of predator and prey, would reach its peak:
+Triceratops against the tyrant's maw,
 The strongest bite against the strongest cheek-
-And-horn defense—the escalation
+And-horn defense; the escalation's law
 
-That could go no further, the limit reached
+Could go no further: here the limit reached
 Of the arms race between the hunter's jaw
-And the hunted's armor—neither breached
-The other's final defenses, and the draw
+And the hunted's armor; neither one breached
+The other's last defenses; and the draw
 
-Of their perpetual warfare was the {{x|Cretaceous}} way.
+Of endless war was the {{x|Cretaceous}} way.
+Beside the horned ones stood the crested kind:
+{{c|1766|Hadros}}, duck-billed, with a different display
+Of ornament: the hollow crests designed
 
-And beside the horned ones, the crested:
-{{c|1766|Hadros}}, the duck-billed, who displayed a different day
-Of ornament: the hollow crested
-
-Skulls that {{c|1767|Parasauros}} wore, the tube
+On skulls that {{c|1767|Parasauros}} wore: the tube
 And trumpet of bone that resonated
-With the animal's voice—a living {{x|YouTube}}
-Of communication, each crest calibrated
+With the animal's voice: a live {{x|YouTube}}
+Of talk; each crest was tuned, and created
 
-To a different pitch and timbre—and the call
-Of the hadrosaur across the {{x|Cretaceous}} plain
-Was music: deep and haunting, the hall
-Of the hollow crest a resonating gain
+A different pitch and timbre; and the call
+Of hadrosaurs across {{x|Cretaceous}} plain
+Was music, deep and haunting, and the hall
+Of hollow crest a resonating gain
 
-That amplified the animal's low-frequency
-Bellow into something that could carry
-For miles—the {{x|Cretaceous}} symphony
-Of the duck-billed dinosaurs, the ordinary
+That amplified the bellow on the air
+For many miles: the long {{x|Cretaceous}} song
+Of duck-billed herds: a sound both plain and rare,
+Of the herd's talk: the danger-calls, the throng
+Of mating-songs, the mother's call, the word
+Of infant hunger—social life laid bare,
+As complex as a mammal's—to be heard.
 
-And extraordinary sound of the herd
-In conversation: danger-calls and mating-songs,
-The mother's bellow and the infant's word
-Of hunger—the communication-prongs
+{{c|1766|Hadros}} and {{c|1762|Ceratops}}, together, were
+The mammals of {{x|Cretaceous}} grazing kind,
+If mammal is the word we would prefer
+For all that lives the social life, defined:
 
-Of a social life as complex as any mammal's.
+Parental, talking, herded: such a life
+Ornithischians lived and so contrived,
+The lawful answer to the hunter's strife,
+Cooperative, whereby herds survived:
 
-{{c|1766|Hadros}} and {{c|1762|Ceratops}} together
-Were the {{x|Cretaceous}} herbivore's mammals—
-If mammals is the word for whatever
+Stay close in the hunter's world, together,
+Defend as one, communicate, and raise
+Each young one with care through every weather—
+And so the herd survives the tyrant's gaze.
 
-Achieves the social, the communicative,
-The parental, the herd-organized life
-That the ornithischians lived—the legislative
-And cooperative answer to the strife
-
-Of the predator's world: stay together,
-Defend together, communicate, and raise
-Your young with care through every weather—
-And the herd survives the tyrant's gaze.
-
-{{c|1768|Ankylos}} too earned mention—the armored tank
-Of the ornithischian line, whose body bore
+{{c|1768|Ankylos}} too deserves a word: the tank
+Of ornithischians, whose body bore
 A dorsal pavement of bone-plate and flank-
-Armor that no predator could score
+Armor that not one predator could score
 
 With tooth or claw—and at his tail-end swung
 The club: a bony mace that could shatter
-Even {{c|1761|Tyrannos}}' leg—the young
-And old alike protected by the matter
+Even {{c|1761|Tyrannos}}' leg in two; the young
+And old alike, kept safe by the matter
 
-Of living stone that {{c|1768|Ankylos}} wore.
+Of the living stone that {{c|1768|Ankylos}} wore.
+Honor the horned, crested, and armored all,
+The grazer's answer to the hunter's store
+Of weapons: the {{x|Cretaceous}}, whose great hall
 
-Honor the horned, the crested, the armored—
-The herbivore's answer to the carnivore's store
-Of weaponry—the {{x|Cretaceous}} world that harbored
+Held both the tyrant and the shield, the fang
+And the frill, and the jaw, and the sharp horn—
+And in their eternal contest, there sang
+The song of the living since it was born:
 
-Both the tyrant and the shield, the fang
-And the frill, the jaw and the horn—
-And in their eternal contest sang
-The song of the living world since it was born:
-
-That every predator makes a better prey,
-And every prey makes a better predator—
-And life grows richer from the interplay
-Of the hunter and the hunted evermore.
+That every hunter makes a better prey,
+And every prey makes better hunters, so
+That life grows richer from the interplay
+Of hunter and of hunted, as they go.

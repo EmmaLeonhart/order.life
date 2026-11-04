@@ -1,118 +1,107 @@
 # Chapter 107: Sky Giants
 
-Now {{c|1746|Pteros}}' children grew to the impossible.
+Now {{c|1746|Pteros}}' children grew past every bound.
+Then, in the late {{x|Cretaceous}}, when the world
+Of {{x|Mesozoic}} life had broken ground
+In size and strangeness—{{c|1746|Pteros}} then unfurled
 
-In the late {{x|Cretaceous}}, when the {{x|Mesozoic}} world
-Had pushed every boundary of the plausible
-In size and strength and strangeness, {{c|1746|Pteros}} unfurled
+The very largest wings that ever flew.
+{{c|1747|Quetzal}}, whose name the feathered serpent bore,
+A god men later worshipped—flew through blue
+Of the {{x|Cretaceous}} skies, on wings that soar
 
-The largest wings that ever flew.
+As fighter planes: eleven meters wide,
+The membrane stretched from his enormous fourth
+Finger to body; and the walking stride
+Was, on land, a giraffe's, as he went forth.
 
-{{c|1747|Quetzal}}—named for the feathered serpent-god
-That humans would later worship—flew through blue
-And {{x|Cretaceous}} skies on a wingspan broad
+For {{c|1747|Quetzal}}, when he walked the wood, stood tall
+As modern mammals' tallest, on the ground,
+Wings folded, on his knuckles, feet: of all
+Earth's fliers, he was tallest to be found.
 
-As a fighter aircraft: eleven meters wide,
-The membrane stretched from the enormous fourth
-Finger to the body, and the stride
-Of this creature on the ground was the worth
+And the azhdarchid pterosaurs, the great
+Of late {{x|Cretaceous}}, were of all the line
+Of {{c|1746|Pteros}} the most versatile, whose state
+Of high achievement crowned the whole design:
 
-Of a giraffe—for {{c|1747|Quetzal}} stood
-As tall as the tallest modern mammal
-When he folded his wings and walked through the wood
-On his knuckles and his feet—the animal
-
-Kingdom's tallest flier was also tall
-On the ground, and the azhdarchid pterosaurs
-Of the late {{x|Cretaceous}} were the overall
-Most versatile of all {{c|1746|Pteros}}' floors
-
-Of evolutionary achievement:
 They could fly thousands of miles on thermal
-And soaring flight, with the bereavement
-Of almost zero energy—the dermal
+And soaring flight, and almost nothing spent
+Of power; the membrane, thin and dermal,
+Caught air just like a sail, its whole extent.
 
-Membrane catching the air like a sail,
-And the hollow bones weighing almost nothing—
-{{c|1747|Quetzal}} weighed perhaps two hundred pounds, the scale
-Of an adult human, despite the buffeting
+The hollow bones weighed almost nothing; so
+{{c|1747|Quetzal}} weighed some two hundred pounds, the scale
+Of a grown human, though in size he'd show
+A small plane's bulk, a buffeting broad sail.
 
-Size of a small airplane—the architecture
-Of the pterosaur body was a cathedral
-Of air: hollow bones, air-sac infrastructure
-That permeated every strut and needle
+Cathedral of the air: the hollow bone
+And air-sac framework, threaded through each strut
+And needle of the skeleton, had grown
+As light as hope. On ground, a stork, he'd strut,
 
-Of the skeleton—light as possibility itself.
+{{c|1747|Quetzal}}, of monstrous size, on the plain's shelf
+Of the {{x|Cretaceous}}; with his beak he'd pluck,
+Picking up mammals, lizards, for himself,
+Small dinosaurs—whatever, by his luck,
 
-On the ground, {{c|1747|Quetzal}} was a stork
-Of monstrous proportions: walking on the shelf
-Of the {{x|Cretaceous}} plain with a beak like a fork
+Would fit within the vast and toothless beak
+Of these azhdarchids, wizards on the ground,
+Gorgeous, unlikely hunters, swift and sleek,
+Walking and flying with like skill, renowned,
 
-That picked up small dinosaurs, mammals, lizards—
-Anything that fit within the enormous
-And toothless beak—the terrestrial wizards
-Of the azhdarchid lineage, the gorgeous
+The only large beasts that could soar and stalk
+In both realms, in the sky and on the plain,
+Lonely {{x|Cretaceous}} flatlands where they'd walk.
+And not just {{c|1747|Quetzal}} held the sky's domain:
 
-And improbable hunters who could walk
-And fly with equal mastery—the only
-Large animals that could soar and stalk
-In both dimensions, the sky and the lonely
+Ornithocheirids, on the ocean set,
+Would fish upon the fly with lower jaws:
+Skimming, they cut the wave—a living net—
+Scooping up all the fish without a pause.
 
-Flatlands of the {{x|Cretaceous}} interior.
+And the pteranodontids, crested high,
+With heads upswept, a silhouette, they flew
+Like living weather-vanes across the sky
+Above the inland seas, {{x|Cretaceous}} blue,
 
-And not only {{c|1747|Quetzal}} ruled the {{x|Cretaceous}} sky:
-The ornithocheirids plied the aerial superior
-Of the open ocean, fishing on the fly
+And caught fish in their throat-pouch, with the love
+Of pelicans' great patience; and the wide
+And toothless mouths of these late kings above
+Were fishing engines, sleek and dignified,
 
-With skimming lower jaws that cut the wave
-And scooped the fish like a living trawl-net—
-And the pteranodontids, with their brave
-And crested heads like the upswept silhouette
+Each species tuned to its own hunting line
+Of air: the soaring ocean-crossers' flight,
+The coastal fishers' flap-and-glide design,
+The azhdarchids' ground-stalking; {{c|1746|Pteros}}' might,
 
-Of a living weather-vane, soared above
-The inland seas of the late {{x|Cretaceous}},
-Catching fish in their throat-pouches with the love
-Of a pelican's patience—the capacious
-
-And toothless mouths of the late pterosaurs
-Were fishing machines of elegant design,
-Each species tuned to a different cause
-Of aerial hunting: the soaring line
-
-Of the ocean-crossers, the flap-and-glide
-Of the coastal fishers, the terrestrial stalking
-Of the azhdarchids—{{c|1746|Pteros}}' pride
-Was the widest spread of any walking,
-
-Flying, soaring dynasty in the sky.
-
+The widest walking, flying, soaring, high
+The dynasty that ever held the sky.
 For eighty million years before the birds
-Would claim the aerial niche, the pterosaur's reply
+Would claim the air, the pterosaurs' reply
 To the air's invitation was the words
 
-Of membrane and bone and the hollow strut
-Of an engineering so light it seemed
-Impossible—and yet the pterosaur was not
-A fragile thing: he flew, he dreamed
+Of membrane and of bone, the hollow frame
+Of engineering so light that it seemed
+Impossible—but frail was not his name:
+He flew, and in the thermal's lift he dreamed.
 
-In the thermal's lift, he crossed the ocean
-On wings that would make the albatross
-Seem modest—and his devotion
-To the sky was total, and the loss
+He crossed the ocean on such wings that, by
+Their span, the albatross seemed small; the sky
+Held all of his devotion; and the end
+Of pterosaurs, {{x|Cretaceous}}' close, would send
 
-Of the pterosaurs at the {{x|Cretaceous}}'s end
-Would leave the air for the birds alone—
-The feathered dinosaurs would then extend
-Their claim to every sky the pterosaur had known.
+The air to birds alone—the feathered line
+Of dinosaurs would then extend its own
+Claim, by the right of feather and design,
+To every sky the pterosaurs had known.
 
-Honor {{c|1747|Quetzal}} and his kin—the sky giants,
-The largest things that ever flew,
-Who proved that with the right alliance
-Of hollow bone and membrane, the view
+So honor {{c|1747|Quetzal}} and his giant kin,
+The largest things that ever flew the sky,
+Who proved, with hollow bone and membrane skin,
+The view above belongs to those who try,
 
-From above belongs to those who dare
-To stretch their wings beyond all reason—
-And the sky, the boundless sky, the air
-Is large enough for every season
-
-Of the impossible made real.
+And spread their wings past all bounds of reason—
+For the sky, the boundless sky, and the air
+Is large enough for every new season
+Of the impossible, made real up there.

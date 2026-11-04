@@ -2,151 +2,145 @@
 
 Then the {{p|Atlantic}} opened, and the fire
 Ran north and south along the cracking seam
-Of {{p|Pangaea}}'s breaking body—the entire
-Central rift erupted in a steam
+Of {{p|Pangaea}}'s body; the entire
+Long central rift erupted in a steam
 
-And basalt flood that rivaled the {{p|Siberian}}
-Eruption of the {{x|Permian}}'s final days—
-The {{x|CAMP}} volcanism, another Stygian
-And geological catastrophe, ablaze
+And basalt flood that rivaled, in its reach,
+The {{p|Siberian}} at {{x|Permian}}'s close—
+The {{x|CAMP}} volcanism, another breach,
+A Stygian catastrophe that rose
 
-Across eleven million square kilometers
-Of flood basalt—the earth repeated what
-It knew: the deep convection's heated meters
-Of magma rising, finding every cut
+Ablaze across eleven million square
+Kilometers of flood basalt—the earth
+Repeated what it knew: the deep heat's flare
+Of magma rising through convection's girth
 
-And weakness in the crust, and pouring through.
+It found each cut and weakness in the crust
+And poured on through. The script was all too known:
+First carbon, then the warming; as it must,
+The sulfur in the poisoned blue was sown,
 
-The script was familiar: carbon first,
-The warming—then the sulfur in the blue
-And poisoned sky—the acid rain that burst
-
-On forests that had only recently
-Recovered from the {{x|Permian}} acid bath—
-The trees went brown again, went frequently
+And acid rain that burst upon the trees
+Just healed from the {{x|Permian}} acid bath—
+The forests browned again, by swift degrees
 To nothing, and the carbon cycle's math
 
-Collapsed for the second time in thirty million years.
-
-In the sea, the acid came again—
+Collapsed again, in thirty million years.
+And in the sea the acid came again—
 The pH falling, and the ancient fears
-Of carbonate dissolution, and the pain
+Of carbonate dissolving, and the pain
 
-Of creatures whose shells were built from the mineral
-That acid water dissolves—the corals
-And the brachiopods, the funeral
-Repeated for the reef-builders, the morals
+Of creatures building shells from that same stone
+That acid water melts: the corals, and
+Brachiopods: the funeral, once known,
+Played out again on the reef-builders' strand,
 
-Of the {{x|Permian}} unlearned by an earth
-That cannot learn, that simply does
-What the mantle's heat dictates—the birth
-And death of worlds is the geological buzz
+{{x|Permian}} morals lost upon an earth
+That cannot learn, but simply, always, does
+Whatever mantle's heat dictates—the birth
+And death of worlds is geology's buzz
 
 Of a planet that does not think.
 
                                   On land,
 {{c|1732|Cruros}}' mighty rauisuchians fell:
 The four-legged, heavy, crocodile-planned
-Archosaurs who had held the {{x|Triassic}} spell
+Archosaurs who held the {{x|Triassic}} spell
 
-Of lowland dominion—gone. The phytosaurs
-Who had worn the crocodilian mask before
-The crocodile existed—closed doors
-On their entire lineage, every shore
+Of lowland rule—gone. Phytosaurs, who wore
+The crocodilian mask in days before
+The crocodile existed, now were through:
+Their line was closed; and shore and river, too,
 
-And river they had haunted now was empty.
-The aetosaurs, the armored herbivores
-Of {{c|1732|Cruros}}' line, whose plated backs had been free
-Of any predator's tooth—these patient stores
+Where they had haunted, empty now and bare.
+The aetosaurs, the armored grazing kind
+Of {{c|1732|Cruros}}' line, whose plated backs could dare
+The tooth of any predator, would find
 
-Of walking armor were no proof against
-The atmospheric poison and the heat.
-
-Thirty percent of all families were fenced
+Their patient stores of walking armor failed
+Against the poisoned air, against the heat.
+Thirty percent of families, curtailed,
 Out of the future—not the clean, complete
 
-Annihilation of the {{x|Permian}}'s ninety-six
-Percent of marine species—this was lesser,
+Ruin of the {{x|Permian}}'s ninety-six
+Percent of marine species: this was less,
 A middling death, a thinning of the mix—
-But for those who died, no lesser, no lesser
+But those who died knew no less of distress
 
 Than any death has ever been.
 
                                And yet—
-For those who survived, the world that opened
+For the survivors, now, the world's expanse
 Was vast beyond imagining—the debt
-Of death paid forward as the living happened
+Of death paid forward, as life seized its chance
 
-Upon a planet swept of competition:
-Every river empty of the phytosaur,
-Every lowland free of rauisuchian's rendition
-Of the apex predator—the floor
+On a planet swept of competition:
+Rivers empty, the phytosaurs no more,
+No rauisuchian in position
+As lowland apex predator; the floor
 
-Was clear, and {{c|1736|Deinos}} walked onto it.
+Was clear, and {{c|1736|Deinos}} walked out onto it.
+The dinosaurs—once upland runners, small,
+Marginal, and surviving on the grit
+Of scrubland and the edges—now stood tall
 
-The dinosaurs, who had been upland runners,
-Marginal, small, surviving on the grit
-Of scrubland and the edges—now the stunners
-
-Of the new {{x|Jurassic}} world—they filled
-The empty niches with an explosive speed
+In the new {{x|Jurassic}} world—and they filled
+The empty niches with explosive speed
 That even the {{x|Cambrian}} would have thrilled
-To match: into every lowland, every reed-
+To match: in every lowland, every reed-
 
 Bank, every river-valley, every coast,
-The dinosaurs radiated, and the crown
-That {{c|1732|Cruros}} had worn was given to the host
+The dinosaurs radiated; the crown
+That {{c|1732|Cruros}} wore was given to the host
 Of {{c|1733|Avemeta}}'s children—hand-me-down
 
-From the elder to the younger, as the world
+From elder to the younger, as the world
 Decreed through the merciless selection
 Of who survived—and the banners unfurled
-Of the {{x|Jurassic}}'s new direction
+Of the {{x|Jurassic}}'s bold new direction
 
 Were all dinosaurian.
 
                         In the sea,
-The {{c|1726|Ichthyos}} survived—diminished, fewer,
-But still swimming in the {{p|Tethys}}, free
-To continue their dolphin-mimicry's pure
+{{c|1726|Ichthyos}} lived on, diminished and few,
+But swimming still in {{p|Tethys}}' waters, free
+To keep the dolphin form, pure, ancient, true.
 
-And ancient form. And {{c|1729|Nothros}}' children stirred
-Toward the deeper water, and the paddle-limbed
-Descendants of the sauropterygians heard
+And {{c|1729|Nothros}}' children, in the shallows, stirred
+Toward the deeper water; paddle-limbed
+Sauropterygian descendants heard
 The ocean calling them to fill the brimmed
 
-And empty niches of the post-extinction sea.
-
-And {{c|1732|Cruros}}' humblest children—the small
+And empty niches of the stricken sea.
+And {{c|1732|Cruros}}' humbler children—those, the small
 Crocodilian ancestors—these were free
 To claim the rivers for their own, the call
 
-Of {{c|1732|Cruros}} answered by his least:
+Of {{c|1732|Cruros}} answered only by his least:
 The modest, the amphibious, the meek
-Inheritors who survived the beast
-Of volcanism by being too small to seek
+Inheritors who had survived the beast
+Of fire by being far too small to seek,
 
-And too flexible to fail.
+Too pliant to fail.
 
-                          This is the second {{x|Easter}}:
-The death that is not final, the loss
-That is the door to something greater—
-The volcanic fire, the acid rain's cross
+                          And {{x|Easter}} came twice:
+The death that is not final, and the loss
+That is the door to greater things; the price
+Of volcanic fire, the acid rain's cross
 
-Borne by the {{x|Triassic}} world, and the resurrection
-That followed: dinosaur, plesiosaur,
+Borne by the {{x|Triassic}}; resurrection
+Followed: plesiosaur and dinosaur,
 Crocodile, and mammal—each direction
-Of the future opened from this floor
+Of the future opening from this floor
 
 Of death, and the world that came was richer
-For the dying that preceded it.
-
-Honor the second extinction—it was no pitcher
+For all the dying that preceded it.
+Honor the second dying, no pitcher
 Of mercy, and no comfort in the grit
 
 Of dying—but the life that followed proved
-That even the second death can be a door
+That even second death can be a door
 To something the old world had not yet moved
 Toward—and the {{x|Jurassic}}'s mighty roar
-
-Was born in the silence of the dying {{x|Triassic}}'s last breath.
+Was born in silence, at the dying breath
+Of the {{x|Triassic}}, from its second death.

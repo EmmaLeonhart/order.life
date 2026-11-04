@@ -1,119 +1,114 @@
 # Chapter 95: The Eve of the Second Dying
 
-The {{x|Triassic}} had been good. Not perfect—nothing
-Is perfect in the aftermath of the greatest
-Death the world had known—but the recloathing
-Of the earth in green, the sea's belated
+{{x|Triassic}} days were good. Not perfect—none
+Is perfect in the wake of greatest death—
+But earth's recloathing in green had begun,
+The sea's belated clearing, like a breath,
 
-Clearing, and the radiation of new forms
+And radiation of the newer forms
 Into every empty niche had made
 A world that worked again: the coastal storms
-Fed rain to forests where the conifers swayed,
+Fed rain to forests where conifers swayed,
 
 The {{c|1726|Ichthyos}} hunted the {{p|Tethys}} deep,
 The {{c|1729|Nothros}} paddled in the shallow seas,
-And on the land {{c|1732|Cruros}}' children held their sweep
-Of rivers while {{c|1736|Deinos}} grew by slow degrees.
+And on land {{c|1732|Cruros}}' children held their sweep
+Of rivers; {{c|1736|Deinos}} grew by slow degrees.
 
-It was a good world, and the end of the {{x|Triassic}}
-Saw it full of life: three hundred species
-Of marine reptile in the {{p|Tethys}} classic
-Corridors, a thousand insects in the creases
+A good world; and the late {{x|Triassic}} age
+Saw it was full of life: three hundred kinds
+Of marine reptile on the {{p|Tethys}} stage,
+A thousand insects in the forest's rinds.
 
-Of every forest—the recovery
-Was nearly complete, the scars of the {{x|Permian}}
-Almost healed over—and the discovery
-Of new ways of living, the median
+The great recovery was nearly through,
+The scars the {{x|Permian}} had left near healed,
+Discovery of ways of living new,
+{{x|Mesozoic}} innovation, unsealed.
 
-Of {{x|Mesozoic}} innovation, was underway.
+But earth keeps its appointments with the fire.
+Beneath the floor that would in time become
+The {{p|Atlantic Ocean}}, the entire
+Mantle surged, and pressed, and would not succumb
 
-But the earth keeps its appointments with the fire.
+Against the crust, where {{p|Pangaea}}'s seam was torn:
+The {{x|Central Atlantic Magmatic}} swell,
+The {{x|CAMP}} volcanism, rope-and-ring born
+Of basalt in eruption that would well
 
-Beneath the floor of what would one day
-Be the {{p|Atlantic Ocean}}, the entire
-
-Mantle surged and pressed against the crust
-Where {{p|Pangaea}}'s seam was opening—
-The {{x|Central Atlantic Magmatic}} thrust,
-The {{x|CAMP}} volcanism, the rope-and-ring
-
-Of basalt eruption that would stretch from pole
-To pole along the widening rift—
-And in the last ten thousand years of the {{x|Triassic}}'s role,
+From pole to pole along the growing rift—
+And in {{x|Triassic}}'s last ten thousand years
 The earth gave its second terrible gift
+Of volcanic excess, which now appears:
 
-Of volcanic excess: carbon dioxide
-And sulfur poured into the already-warm
-Greenhouse atmosphere—the ocean's hide
-Of chemistry shifted in the acid storm
+Carbon dioxide and the sulfur flowed
+Into the greenhouse air, already warm—
+The ocean's chemistry, its hide, now showed
+Its shifting underneath the acid storm
 
-As it had shifted once before—the same
-Script played again: the warming, then the acid,
-Then the oxygen decline, the ancient game
-Of volcanism and the ocean, placid
+As it had shifted once before; the same
+Script played again: warming, and then acid,
+Then oxygen's decline, the ancient game
+Of volcano and of ocean, placid
 
-On the surface, choking in the deep.
-
-The phytosaurs noticed first—the river lords
+Upon the surface, choking in the deep.
+The phytosaurs saw first—the river lords
 Who had mimicked the crocodilian's creep
-And ruled the waterways—their ancestral hordes
+And ruled the waterways; their ancient hordes
 
-Began to thin as the water chemistry changed.
-The rauisuchians on the plains found less
-To hunt as herbivore populations ranged
-Toward zero in the climate's gathering stress.
+Grew thin, for water's chemistry had changed.
+Rauisuchians on the plains found less
+To hunt as numbers of the grazers ranged
+Toward zero in the climate's growing stress.
 
 And {{c|1732|Cruros}}' dynasty—the elder son
-Of {{c|1681|Archon}}, who had held the {{x|Triassic}} crown
-For forty million years—came undone.
+Of {{c|1681|Archon}}, holder of {{x|Triassic}} reign
+For forty million years—was now undone.
+The world was changing; it would not sustain
 
-The world was changing, and the world frowned
-On those who had grown too large, too specialized,
-Too locked into the lowland and the river—
+Those who had grown too large, too specialized,
+Too locked in lowland and in the river—
 Those who could not move, could not be revised,
 Could not become something new—the giver
 
-Of extinction is always the same: the loss
+Of extinction is always one: the loss
 Of what you need while keeping what you are.
+And {{c|1732|Cruros}}' children could not bear the cross
+Of the changed world—not all, not every star
 
-{{c|1732|Cruros}}' children could not bear the cross
-Of the changing world—not all, not every star
+Within his constellation dimmed: the strain
+Of crocodiles, survivors of his house,
+Endured, small and amphibious, the plain
+Civilian and not soldier, and the mouse
 
-In his constellation went dark—the crocodilian
-Line, the true survivors of his house,
-Would endure: small, amphibious, the civilian
-Rather than the military, the mouse
+And not the lion of his kingly pride—
+The modest crocodile-forebears who kept
+By water's edge, and ate the scraps supplied
+By the world's dying—and these small ones crept
 
-Rather than the lion of his lineage—
-The modest crocodile-ancestors who kept
-To the water's edge and ate whatever spillage
-The dying world provided—these ones crept
-
-Through the extinction as {{c|1673|Cynos}} had crept
-Through the last one: by being small, by being
-Undemanding, by the covenant kept
-Between the survivor and the act of seeing
+Through the extinction, just as {{c|1673|Cynos}} passed
+The last one: by being small, by being
+Undemanding, by covenant held fast
+Between the survivor and the seeing
 
 Another morning.
 
                    But the great ones fell.
-The rauisuchians, the phytosaurs, the tall
-And heavy lords of {{c|1732|Cruros}}' {{x|Triassic}} spell—
-Gone, in the {{x|CAMP}} volcanism's pall.
+Rauisuchians, phytosaurs, the tall
+Heavy lords of {{c|1732|Cruros}}' {{x|Triassic}} spell
+Were gone beneath the {{x|CAMP}} eruptions' pall.
 
 And as the elder brother's kingdom burned,
 The younger brother's children—{{c|1736|Deinos}}' small
 And humble dinosaurs—looked up and learned
-That the empty niches beckoned, one and all.
+The empty niches beckoned, one and all.
 
-This is the eve. Tomorrow is the dying.
-But tonight the world still breathes, the rivers run,
+It is the eve. Tomorrow, the dying.
+Tonight the world still breathes, the rivers run,
 And the last phytosaur is still trying
 To hold his kingdom underneath the sun.
 
-Honor the eve—the last good evening
-Before the fire—for every living thing
-That breathed the {{x|Triassic}} air was weaving
-Its own ending, and did not know the sting
-
-Of what the morning's volcanism would bring.
+Honor the eve—the last good night before
+The fire; for every living, growing thing
+That breathed {{x|Triassic}} air wove, to the core,
+Its own end, and it did not know the sting
+Of what the morning's eruptions would bring.

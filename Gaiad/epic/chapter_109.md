@@ -1,138 +1,125 @@
 # Chapter 109: The Cosmic Visitor
 
-Somewhere beyond the orbit of {{p|Jupiter}},
-A stone had been traveling for four billion years.
+Past {{p|Jupiter}}'s far orbit, there a stone
+Had traveled for four billion years, alone.
 
-It was not large—by the standards of the greater
-Debris that wanders the solar system's fears
+It was not large—beside the greater mass
+Of wandering debris that might collide,
+Modest in size: ten kilometers wide,
+A mountain's remnant of the cloud of gas
 
-Of collision, it was modest: ten kilometers,
-A mountain-sized remnant of the early cloud
-That had built the planets—the parameters
-Of its orbit slowly shifting, the proud
+That built the planets; and its orbit, slow,
+Its proud and stable circle eons long,
+Was pulled by {{p|Jupiter}}'s gravity so
+Into a new trajectory, along
 
-And stable path it had circled for eons
-Perturbed by {{p|Jupiter}}'s gravity into
-A new trajectory—the cons and theeons
-Of orbital mechanics finally drew
+Where the mechanics of the orbit threw
+The stone across the inner system's lanes.
+It did not aim, it did not think: it flew
+As thoughtless as the rain that falls on plains
 
-The stone across the inner solar system's lanes.
+Without intention; and the cosmic zone
+Of asteroids released it on a line
+That crossed the {{p|Earth}}'s: the orbits' math alone
+Had pulled it from its circuit's old design
 
-It did not aim. It did not think. The stone
-Was as thoughtless as the rain that falls on plains
-Without intention—the cosmic zone
-
-Of the asteroid belt had released it
-Into a path that intersected {{p|Earth}}'s
-By the mathematics of the orbits—seized it
-From its ancient circuit and the berths
-
-Of the outer system, and sent it inward
+Of outer space, and sent it on its way
 On a hyperbolic course that took ten
-Thousand years to bring it toward
-The planet where the dinosaurs, the men
+Thousand long years to bring it, day by day,
+Toward the world where dinosaurs, the men
 
-Of the {{x|Mesozoic}}'s greatest civilization
+Of {{x|Mesozoic}} civilization
 (If civilization is what we call
-The organized and complex occupation
+The organized, complex occupation
 Of every niche on a planet, the hall
 
 Of a hundred million species living
-In the web of the most complex ecosystem
+Within the most complex ecosystem
 The earth had made, the generous giving
 Of the {{x|Cretaceous}} greenhouse)—this system
 
 Knew nothing of the stone.
 
-                           The stone knew nothing
-Of the system.
-
-                That is the cruelty—
-There was no cruelty in it. The somethings
-Of the universe proceed in their duality
+                           Nor did the stone
+Know of the system—cruel; and, at heart,
+No cruelty was in it, not one bone:
+Things of the cosmos played their dual part
 
 Of physics and indifference, and the rock
-That would end the {{x|Mesozoic}} world
+That would end the whole {{x|Mesozoic}} world
 Was not evil, was not even the shock
-Of a vengeful god's hurled
+Of thunderbolt a vengeful god had hurled—
 
-Thunderbolt—it was arithmetic:
-Two bodies in the same place at the same time,
-The earth and the stone in a geometric trick
-Of orbits crossing—the pantomime
+It was arithmetic, and nothing more:
+Two bodies at one place and the same time,
+Earth and the stone, a geometric score
+Of orbits crossing—and the pantomime
 
-Of a collision that no one could see coming
+Of a collision none could see coming,
 Because no eye on earth looked up to space
-With instruments for the incoming humming
-Of a mountain falling at twenty kilometers' pace
+With instruments, for incoming humming
+Of a great mountain falling at a pace
 
-Per second—twenty times the speed of a bullet,
-A hundred times the speed of a jet—
-And in the final hours the full of it
-Was visible: a brightening star, a threat
+Of twenty kilometers each second,
+Some twenty times the speed a bullet makes,
+A hundred times a jet's speed, as reckoned;
+In the final hours, its brightness breaks
 
-That only the mathematics could have warned of,
-Crossing the {{x|Cretaceous}} sky in the last
-Clear night—and not a single dinosaur mourned of
-The future that was vanishing so fast.
+Into view: a brightening star, a threat
+That only mathematics could foretell,
+Crossing {{x|Cretaceous}} sky, clear night; and yet
+No dinosaur would mourn the future's knell.
 
-{{c|1761|Tyrannos}} hunted in the evening's last light.
+{{c|1761|Tyrannos}} hunted in the evening light.
 {{c|1762|Ceratops}} grazed beside the river's bend.
-{{c|1766|Hadros}} called across the coming night.
-{{c|1746|Pteros}}' last azhdarchid rode a thermal's end.
+{{c|1766|Hadros}} called out across the coming night.
+{{c|1746|Pteros}}' last azhdarchid rode thermals' end.
 
-{{c|1742|Plesios}} dove beneath the continental shelf.
-{{c|1760|Mosas}} hunted in the warm and shallow sea.
+{{c|1742|Plesios}} dove beneath the ocean shelf.
+{{c|1760|Mosas}} hunted in the warm, shallow sea.
 And {{c|1743|Mammos}} in his burrow kept himself
-Alive through another night—the key
+Alive through yet another night—the key
 
-To everything that would come after,
-Though he did not know it, could not know,
+To everything that would then come after,
+Though he did not know it, and could not know,
 That the stone was falling toward the rafter
 Of the atmosphere, and the final show
 
-Of the {{x|Mesozoic}} was about to begin.
-
+Of the {{x|Mesozoic}} was to begin.
 The stone entered the upper atmosphere
 At an angle, trailing a column thin
-And brilliant of plasma—and from here
+And brilliant, made of plasma; and, now near,
 
-The last ten seconds of the {{x|Cretaceous}}
-Were written in fire:
+The last ten seconds of {{x|Cretaceous}} came
+In fire were written; and the air compressed
+Before the stone; the instant, searing flame
+Of burning air, the superheated crest
 
-                      The atmosphere compressed
-Ahead of the stone, the instantaneous
-Heating of the air, the superheated crest
+Of shock wave that went out before the blow—
+And the stone struck into the shallow sea
+Of {{p|Chicxulub}}, just off the coast, the slow
+And ancient limestone shelf; and then the free
 
-Of the shock wave that preceded impact—
-And the stone struck the shallow sea
-Of {{p|Chicxulub}}, off the coast, the intact
-And ancient limestone shelf—and the free
+And terrible energy, as reckoned,
+Ten billion {{x|Hiroshimas}}: one second
+Released, and closed a hundred million years.
+But that's the next chapter's to tell. The tears
 
-And terrible energy of ten billion
-{{x|Hiroshimas}} released in one second—
-
-One second that ended a hundred million years.
-
-But that is the next chapter's reckoned
-And terrible account. Tonight the tears
-Are not yet falling, and the stone's appointment
+Are not yet falling; the stone's rendezvous
 With the earth is still one heartbeat away—
-And the {{x|Mesozoic}}'s final anointment
-Of the evening sky is the last good day
+And the {{x|Mesozoic}} anoints the view
+Of evening sky, the very last good day
 
 The dinosaurs will see.
 
-                       Honor the evening.
-Honor the last good night before the fire—
-The {{x|Cretaceous}} sky in its gentle heaving
-Of the stars above the quiet empire
+                       Honor this night,
+Honor the last good evening ere the fire—
+{{x|Cretaceous}} sky in gentle, heaving light
+Of stars above the still realm entire
 
-Of the dinosaurs who do not know
-That tomorrow the world ends.
+Of all the dinosaurs who do not know
+Tomorrow the world ends.
 
                               For every world
-That ends had one last evening's glow
-When everything was still and the flag unfurled
-
-Of living was still flying.
+That ends has had one final evening's glow
+When all was still; and life's flag, still unfurled.

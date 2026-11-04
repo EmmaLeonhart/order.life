@@ -1,120 +1,112 @@
 # Chapter 97: Jurassic Dawn
 
-The morning after dying is always gray.
+The morning after death is always gray.
+{{x|Jurassic}}'s dawn looked like {{x|Triassic}}'s morn:
+Bare ground, diminished green—the common way
+Of post-extinction worlds, the classic, worn
 
-The early {{x|Jurassic}} looked like the early {{x|Triassic}}
-Had looked: bare ground, diminished green, the way
-Of all post-extinction worlds—the classic
+And oft-repeated pattern of the slow
+Recovery from harm: the fungi first,
+Then mosses, then the conifers that grow
+Back from refugia, where they had nursed
 
-And repeating pattern of the slow
-Recovery from violence—the fungi first,
-Then the mosses, then the conifers' slow
-Return from refugia where they nursed
-
-Their seeds through acid rain—{{c|1702|Conifera}} knew
-This ritual by now, her second resurrection
-From the poisoned soil, her patient queue
-Of reforestation following each section
+Seeds through acid rain. {{c|1702|Conifera}} knew
+Well this rite: her second resurrection
+Out of the poisoned soil, her patient queue
+Of forests regrown after each section
 
 Of volcanic death.
 
-                    But the recovering world
+                    But the world, now healed,
 Was different now in one essential way:
-The lowlands where {{c|1732|Cruros}}' banner had been furled
-Were empty, and {{c|1736|Deinos}}' children came to play
+Lowlands where {{c|1732|Cruros}}' rule had been repealed
+Were empty; {{c|1736|Deinos}}' children came to play
 
 Where they had never dared before.
 
-                                    {{c|1739|Theros}}—
-The beast-footed, the meat-eaters of the line—
-Walked into the {{x|Jurassic}}'s open doors
-And found no rauisuchian at the sign
+                                    Now strode
+The beast-footed {{c|1739|Theros}}, eaters of meat,
+Into the young {{x|Jurassic}}'s open road,
+Found no rauisuchian at the seat
 
-Of every river-crossing, no phytosaur
-Guarding every waterway—the predator's
-Throne was empty, and the {{x|Jurassic}} floor
-Was {{c|1739|Theros}}' to claim, these inheritors
+Of river-crossings; phytosaurs no more
+Guarding the waterways; the hunter's throne
+Lay empty, and the whole {{x|Jurassic}} floor
+Was {{c|1739|Theros}}' now to claim, and his alone,
 
-Of {{c|1736|Deinos}}' upland hunger, now released
-Into the richest territories on earth.
-
-And {{c|1740|Sauropos}}—who had been the least
+Heirs of {{c|1736|Deinos}}' upland hunger, released
+Into the richest lands upon the earth.
+And {{c|1740|Sauropos}}, who once had been the least
 Impressive of the prosauropod birth,
 
-Small, bipedal, modest in the {{x|Triassic}}—
+Small, two-legged, modest in {{x|Triassic}} days,
 Began to grow. And grow. And grow again.
-For the lowland forests offered the gymnastic
-And gymnosperm feast of {{c|1702|Conifera}}'s regained
+For lowland forests offered, in their maze,
+Gymnosperm feast, {{c|1702|Conifera}}'s domain
 
-Domain: the great conifer forests of the {{x|Jurassic}},
-Where the trees grew tall and the canopy
-Stretched higher than any {{x|Triassic}} fantastic
-Had dreamed—and to reach that green canopy,
+Regained: {{x|Jurassic}} forests, where the trees
+Grew tall, and stretched their canopy so high
+That no {{x|Triassic}} dream had reached; to seize
+That green roof, rising up against the sky,
 
 {{c|1740|Sauropos}} stretched his neck.
 
                                   This is the age
-That the world remembers as the time of giants—
-The {{x|Jurassic}} was the grandest stage
-The earth had set for life, and the defiance
+The world remembers as the giants' time,
+For the {{x|Jurassic}} was the grandest stage
+The earth had set for life, and the sublime
 
-Of gravity itself was {{c|1740|Sauropos}}' art:
-Longer necks, longer tails, heavier bodies,
-Legs like pillars holding up the cart
-Of the largest land animals—the oddities
+Defiance of gravity was his art:
+Longer necks, longer tails, and bodies vast,
+And legs like pillars holding up the cart
+Of largest land-beasts; oddities amassed
 
-Of physics that allowed a creature's heart
+Of physics, that allowed a creature's heart
 To pump blood up a forty-foot-long neck
 To reach a brain the size of a small tart
 Were solved by {{c|1740|Sauropos}}—who would not check
 
-His growth until the forests themselves were grazed
-From the top down, like an elephant
-Of impossible scale, and the {{x|Jurassic}} blazed
-With the thunder of his walking—the constant
+His growth until the forests were all grazed
+From the top down, like elephants, but vast
+Beyond all scale; and the {{x|Jurassic}} blazed
+With thunder of his walking as he passed,
 
-Drumbeat of the largest feet on earth
-Shaking the ground for miles with every step.
+The drumbeat of the largest feet on earth
+Shaking the ground for miles where each foot stepped.
+And {{c|1741|Ornithis}}, the bird-hip, found his berth
+In undergrowth: smaller, with the adept
 
-And {{c|1741|Ornithis}}, the bird-hipped, found his berth
-In the undergrowth: smaller, with the adept
-
-And beaked mouths for cropping ferns and low
-Vegetation—the ornithischians would build
-Their own diversity in the {{x|Jurassic}}'s slow
+And beaks for cropping ferns and for the low
+Plant-life; the ornithischians would build
+Diversity in the {{x|Jurassic}}'s slow
 And generous expansion, and they filled
 
-The herbivore niches that the sauropods
-Left vacant in the understory and the plain—
-Where {{c|1740|Sauropos}} ate the treetops, against all odds,
-{{c|1741|Ornithis}} grazed below in the sauropod's rain
+The grazing niches sauropods had left
+Vacant in understory and on plain—
+Where {{c|1740|Sauropos}} ate treetops, high and deft,
+{{c|1741|Ornithis}} grazed below in his great rain
 
 Of fallen leaves and trampled forest floor.
-
-The {{x|Jurassic}} dawn was not a single morning
+{{x|Jurassic}} dawn: not one single morning,
 But ten million years of opening door
-After door after door—each niche adorning
+After door—with each new niche adorning
 
 Itself with new inhabitants, new forms,
-New ways of eating, hunting, hiding, growing—
-And the dinosaurs, like every evolutionary storm's
-Best outcome, filled the world past overflowing.
+Ways to eat, hunt, hide, and go on growing—
+The dinosaurs—best fruit of changing storms—
+Had filled the whole world past overflowing.
 
-In the seas, the healing was the same:
-The {{c|1726|Ichthyos}} who survived the extinction grew
-Back into prominence, and the name
+And in the seas the healing was the same:
+{{c|1726|Ichthyos}}, who survived the dying, grew
+Back into prominence again; the name
 Of {{c|1730|Sauropteros}} would be made anew
 
-As the plesiosaurs—but that is the next chapter's
-Gift to tell.
+As plesiosaurs—the next chapter's praise.
+For now, give honor to the dawn's gray haze,
+The green {{x|Jurassic}} morning, when the night
+Of second dying ended, and the light
 
-                 For now, honor the dawn:
-The gray-green morning of the {{x|Jurassic}}, after
-The night of the second dying—the lawn
-
-Of life regrown on the bones of the dead,
-The dinosaurs walking into their inheritance,
-And the world waking up—not with the dread
-Of the dying world but the simple dance
-
-Of the living world remembering how to live.
+Showed life's lawn regrown on bones of the dead,
+The dinosaurs, inheritors, advance;
+The world recalled how to live—not with dread
+Of dying worlds, but in the simple dance.

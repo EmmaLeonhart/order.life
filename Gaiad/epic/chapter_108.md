@@ -8,127 +8,116 @@ The forests grew: no ice, the planet hurled
 Into a greenhouse warmth that filled the whole
 
 Of the equator and the polar zone
-With the green of {{c|1759|Angios}}' flowering empire
-And {{c|1702|Conifera}}'s ancient evergreen throne—
-The world was warm, the world was entire
+With green of {{c|1759|Angios}}' flowering reign
+And {{c|1702|Conifera}}'s old evergreen throne—
+The world was warm, and whole in its domain
 
-In its coverage of life from the abyss
-Of the ocean's deepest trench to the highest
-Mountain that the {{x|Cretaceous}} tectonic bliss
-Of activity could raise—the slightest
+Of life, from the abyss, the deepest trench
+Of ocean, to the highest mountain's crest
+That {{x|Cretaceous}} tectonics' bliss could wrench
+Upward: the slightest corner—and the rest
 
-Corner of the planet held its life.
-
-In the sea: {{c|1760|Mosas}} ruled the shallows,
-His serpentine bulk the greatest knife
-That the {{x|Cretaceous}} marine world allows
+Of the whole planet—held its share of life.
+In the sea, {{c|1760|Mosas}} ruled the shallows round,
+His serpentine bulk was the greatest knife
+That the {{x|Cretaceous}} marine world had found
 
 For cutting through the ocean's living wealth—
-And {{c|1742|Plesios}} still dove with her four flippers
-Through the deeper water, the stealth
-Of the plesiosaur unchanged, the sippers
+{{c|1742|Plesios}} still dove with four flippers' sweep
+Through deeper water, in the ancient stealth
+Of the long-necked kind, unchanged, that would reap
 
-Of the ocean's fish for a hundred million years.
-The ammonites spiraled through the water column
-In their chambered shells, the ancient peers
+The ocean's fish a hundred million years.
+Ammonites coiled through the water column
+Within their chambered shells, the ancient peers
 Of {{c|1705|Coleios}}' cuttlefish—the solemn
 
-And beautiful geometry of the chambered nautilus
-Still sailing, as it had since the {{x|Ordovician}} sea—
-And the teleosts, {{c|1699|Teleosteos}}' fabulous
-And overwhelming diversity,
+Geometry: nautilus, chambered shell,
+Still sailing, as since {{x|Ordovician}} day—
+And teleosts, whose numbers grew to swell
+{{c|1699|Teleosteos}}' fabulous array,
 
-Filled every marine niche from reef to open water,
-From freshwater lake to the ocean's midnight zone—
+Filled every niche, from reef to deep water,
+From freshwater lake to the midnight zone—
 Half of all vertebrates, each the daughter
-And son of {{c|1505|Actinus}}' ancient bone.
+And the son of {{c|1505|Actinus}}' ancient bone.
 
-On land: {{c|1761|Tyrannos}} stalked his kingdom
-And {{c|1762|Ceratops}} bore his horns against the king—
-{{c|1766|Hadros}} called across the freedom
-Of the {{x|Cretaceous}} plain, and the spring
+On land, {{c|1761|Tyrannos}} stalked through his domain,
+{{c|1762|Ceratops}} bore his horns against the king,
+{{c|1766|Hadros}} called out across the open plain
+Of the {{x|Cretaceous}}; and with every spring
 
-Of every year brought the ornithischian herds
-In their annual migrations, millions strong,
-Across the continents—and the early birds
-Of {{c|1755|Archaeos}}' lineage sang their song
+Came ornithischian herds, millions strong,
+In yearly migrations across the lands—
+And {{c|1755|Archaeos}}' early birds sang their song
+In canopies, diversified in bands
 
-In the canopy, already diversified
-Into waterbirds and shorebirds and the small
+Of water-birds and shore-birds, and the small
 And toothed {{x|Cretaceous}} forms that occupied
-The niches that the pterosaurs could not fill—all
+The niches pterosaurs could not fill: all
+The understory, forests' deep inside,
 
-The understory and the forest interior
-Where the pterosaur's wingspan could not reach.
-
-{{c|1746|Pteros}}' children ruled the aerial superior
-Of the open sky, and on every beach
-
-And flatland stalked the azhdarchids, tall
-As giraffes and winged as nightmares.
+Where pterosaurs' broad wingspans could not reach.
+{{c|1746|Pteros}}' children ruled the sky; and on each
+Beach and flatland stalked the azhdarchids, tall
+As giraffes, winged like nightmares, over all.
 
 In the undergrowth, {{c|1743|Mammos}} kept his small
-And quiet vigil—the nighttime prayers
+And quiet vigil: nighttime prayers, the watch
+That mammals kept, continuing through all
+{{x|Cretaceous}}, {{x|Jurassic}}, {{x|Triassic}}: notch
 
-Of the mammalian line continuing their watch
-Through the {{x|Cretaceous}} as through the {{x|Jurassic}}
-And the {{x|Triassic}} before: the notch
-Of smallness, the nocturnal and gymnastic
+Of smallness, the nocturnal, nimble, sure
+Survival of the warm-blooded, with fur
+Under cold-blooded giants, to endure;
+But mammals had diversified, and were
 
-Survival of the warm-blooded and the furred
-In the shadow of the cold-blooded giants—
-But by now the mammals had diversified: the word
-Of the {{x|Cretaceous}} mammal was defiance
+In the {{x|Cretaceous}} a fierce defiance
+In miniature: the rodent-toothed, the small
+Metatherians, in pouched reliance,
+Multituberculates; rarest of all,
 
-In miniature—multituberculates with their
-Rodent-like teeth, the metatherians
-Who carried pouches, and the rare
-And small eutherians—the contrarians
+Eutherians, contrarians, who'd own
+The world one day, but were, for now, the size
+Of mice, and twice as humble, small, unknown.
+The insects, though, outnumbered, in their rise,
 
-Who would one day rule the world but for now
-Were the size of a mouse and twice as humble.
+All vertebrates combined; the tumble, hum,
+Of {{c|1598|Neopter}}'s children in the flowers
+Of {{c|1759|Angios}} was the whole age's drum:
+Bees and wasps and butterflies; the hours
 
-The insects numbered more than all the vowed
-And vertebrate species combined—the tumble
-
-And buzz of {{c|1598|Neopter}}'s children in the flowers
-Of {{c|1759|Angios}} was the soundtrack of the age:
-Bees and wasps and butterflies, the hours
 Of pollination filling every page
+Of the {{x|Cretaceous}} with the hum and ring
+Of partnership of plant and wing. This stage,
+The {{x|Mesozoic}} peak, its everything:
 
-Of the {{x|Cretaceous}} day with the hum
-Of the partnership between the plant and wing.
-
-This was the peak. This was the sum
-Of the {{x|Mesozoic}}'s offering:
-
-A world more full of life than it had been
-Before the {{x|Permian}}'s {{x|Great Dying}}—more diverse,
+A world more full of life than it had seen
+Ere {{x|Permian}}'s {{x|Great Dying}}; more diverse,
 More complex, more intricately between
 The predator and prey, the universe
 
-Of ecological interaction reaching depths
-Of sophistication that the {{x|Paleozoic}}
-Had never known—and in these depths
-The {{x|Mesozoic}} wrote its most heroic
+Of the ecology, whose interplay
+Of richness that the {{x|Paleozoic}}
+Had never known; and in that rich array
+{{x|Mesozoic}} wrote its most heroic
 
-And beautiful chapters: the world at its most alive,
+Fair chapters: the world at its most alive,
 The planet at its greenest and most full,
-Every niche occupied by whatever could thrive
-In the {{x|Cretaceous}} greenhouse's generous pull.
+Each niche filled up by whatever could thrive
+In the {{x|Cretaceous}} greenhouse's warm, strong pull.
 
 Honor the peak—the moment when the world
-Was most itself, most full, most densely woven
-With the living—every flag unfurled,
-Every niche occupied, every kingdom cloven
+Was most itself, most full, most densely spun
+With living things—with every flag unfurled,
+Each niche filled, every kingdom, every one,
 
-To its finest divisions—the pinnacle
-Of the {{x|Mesozoic}}'s hundred-and-eighty-million years
-Of building—the invincible
-And the beautiful, the joys and the fears
+Cut to its finest divisions—the crest
+Of building, {{x|Mesozoic}} year on year,
+A hundred eighty million years' bequest:
+Invincible and lovely, joy and fear,
 
-Of the most complex world that had ever been.
-
-What came next was the asteroid.
-But tonight the world is at its most serene,
-And the peak is not yet destroyed.
+The most complex world ever to be seen.
+And what came next would be the asteroid.
+Tonight the world is at its most serene,
+And the peak is still, as yet, not destroyed.

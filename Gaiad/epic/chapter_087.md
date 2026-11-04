@@ -1,55 +1,53 @@
 # Chapter 87: The Long-Necked Fisher
 
-Among the strangest children of the {{x|Triassic}} shore
-Was {{c|1734|Tanystros}}—an archosauromorph whose frame
+The strangest child of the {{x|Triassic}} shore:
+{{c|1734|Tanystros}}, archosauromorph, whose frame
 Defied all reason with a neck that bore
 More vertebrae than sense could rightly claim.
 
-His body was the length of a man, no more—
+His body had a man's length, and no more—
 A sturdy, lizard-shaped and humble thing—
 But from his shoulders grew a neck before
-His head that stretched like an impossible string:
+His head that stretched, an impossible string:
 
 Three times the length of body, stiff and straight,
-A fishing-rod of bone with a tiny head
+A fishing-rod of bone, a tiny head
 Perched at the far end, baited with the weight
 Of small sharp teeth for catching fish—instead
 
 Of swimming to his prey, {{c|1734|Tanystros}} stood
-Upon the {{x|Triassic}} shoreline, on the rocks
-Above the {{p|Tethys}} shallows, and the food
-He sought was speared below from coastal stocks
+On the {{x|Triassic}} shoreline, on the rocks
+Above the {{p|Tethys}} shallows, where he could
+Spear what he sought below from coastal stocks
 
 Without his body entering the waves.
-
 Think of a heron frozen in its stance—
 But stretched to the absurd, a shape that saves
 Its lungs from water by the sheer expanse
 
-Of neck between the breathing chest and the jaws
+Of neck between the breathing chest and jaws
 That hunted underneath the surface foam—
 A compromise that broke all normal laws
 Of vertebrate design: to fish from home
 
-Without the cost of swimming.
+Without the toil of swimming.
 
-                               And he was not
-Alone in his {{x|Triassic}} strangeness—for the age
-Of the {{x|Triassic}} was a time of what
-No other era matched: a living stage
+                               Nor was he
+Alone in strangeness; the {{x|Triassic}} age
+Was such a time as no age since would see:
+It was a living and evolving stage
 
-Of evolutionary experimentation,
-Where every body plan was tried at once
-In the great recovery—each variation
-Given room to flourish for some months
+Of trial, where at once each body plan
+Was tried in the great recovery's span;
+Each variation found its room to thrive
+For months or millions of years, kept alive
 
-Or millions of years before the sorting came.
+Before the sorting came. And he had kin:
+The {{c|1735|Protorosauros}}, a long-necked clan
+Of archosauromorphs, whose claim was thin
+On history and brief—and so they ran
 
-{{c|1734|Tanystros}} had kin: the {{c|1735|Protorosauros}} clan
-Of long-necked archosauromorphs whose claim
-On history was brief—they ran
-
-The {{x|Triassic}} coastline in their odd parade
+The {{x|Triassic}} coasts in their odd parade
 Of reaching necks and small-toothed fishing heads,
 Of bodies built for shoreline's serenade
 Where ocean meets the rock in tidal beds.
@@ -60,64 +58,63 @@ Beyond the shallows, swimming partially free
 Of shore, their long necks sweeping all about
 
 For fish beneath them as they surface-swam—
-Half-aquatic, like the earliest attempt
+Half in the water, like the first attempt
 Of {{c|1681|Archon}}'s wider family to cram
-Themselves into the marine biome, exempt
+Themselves into the sea's biome, exempt
 
 From the commitment {{c|1726|Ichthyos}} had made
-Of giving up the land entirely—
+Of leaving land behind for evermore—
 These were the dabblers, wading in the shade
-Of the {{x|Triassic}} coast's uncertainty.
+Along the {{x|Triassic}}'s uncertain shore.
 
-For in those first ten million years of the age,
+Through the first ten million years of that age,
 The boundaries between the land and sea
 Were blurred by those who stood on every stage
-At once—who were not fully what they'd be
+At once—who were not fully what they'd be,
 
-But experimenting with the ocean's edge.
+Experimenting with the ocean's edge.
+{{c|1734|Tanystros}}' clan would perish long before
+{{x|Jurassic}} dawned; their evolution's pledge
+Was local, brief, a footnote in the lore
 
-The {{c|1734|Tanystros}} clan would perish long before
-The {{x|Jurassic}} dawned—their evolutionary pledge
-Was local, brief, a footnote on the shore
-
-Of {{x|Triassic}} time—but they taught a truth
-That the {{x|Mesozoic}} would repeat and prove:
-That the border between ocean and dry earth
-Is not a wall but a gradient, a groove
+Of {{x|Triassic}} time. And yet they gave birth
+To truth the {{x|Mesozoic}} would yet prove:
+That border between ocean and dry earth
+Is not a wall but gradient, a groove
 
 That life moves back and forth across at will—
-From {{c|1244|Mesos}} in the {{x|Permian}} lake to these
+From {{c|1244|Mesos}} in {{x|Permian}} lakes to these
 Long-necked {{x|Triassic}} fishers on the sill
-Of the {{p|Tethys}} coast, to the plesiosaur seas
+Of {{p|Tethys}}' coast, to plesiosaur seas
 
-That were coming—every age found some
-Who straddled the boundary, who refused
-To choose between the land's dry kingdom
-And the ocean's depths—the line was used
+That were to come—each age found those who'd stand
+Astride the boundary, and who refused
+To choose between the kingdom of dry land
+And ocean depths. The line for them was used
 
 As highway, not as barrier.
 
-                               So honor
-The strangest shapes the {{x|Triassic}} morning made—
-{{c|1734|Tanystros}} with his neck of absurd honor,
+                               Give praise
+To shapes the strange {{x|Triassic}} morning made—
+{{c|1734|Tanystros}}, with his neck's absurd displays,
 The fishing-rod design that briefly swayed
 
 Above the waves and caught his silver prey
 Without a single stroke of swimming fin—
-A shape that worked for its own {{x|Triassic}} day
+A shape that served its own {{x|Triassic}} day
 And asked for nothing but the fish therein.
 
 Not every form endures. Not every plan
 Survives the sorting of the ages' test.
-But every form that lived, however brief its span,
+But all that lived, however brief its span,
 Was life's own answer to the question—blessed
 
 With the same stubborn will to eat and breed
 That moves the stars and turns the spiral arm.
 {{c|1734|Tanystros}} on his rock fulfilled his need
-And vanished, and the {{x|Triassic}} took no harm
+Then vanished; the {{x|Triassic}} took no harm
 
 From having made him—for the sea keeps room
-For every experiment, however strange,
+For each experiment, however strange,
 And honors every shape between the bloom
 Of life and death across its endless range.

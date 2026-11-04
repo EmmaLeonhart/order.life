@@ -1,126 +1,120 @@
 # Chapter 99: The River Dragons at Sea
 
-Even the river lords heard the ocean's call.
+The river lords, too, heard the ocean's call.
+In {{x|Jurassic}} seas, while {{c|1742|Plesios}} flew
+On his four flippers through the deep, and tall
+{{c|1726|Ichthyos}}' dolphin-forms in {{p|Tethys}}' blue—
 
-In the {{x|Jurassic}} seas, while {{c|1742|Plesios}} flew
-On four flippers through the deep, and {{c|1726|Ichthyos}}' tall
-And dolphin forms still hunted the {{p|Tethys}} blue—
+A stranger came: of {{c|1732|Cruros}}' line, the brood,
+The crocodilian kin, river dragons
+Who'd come through the {{x|Triassic}}'s end, subdued,
+By staying humble—these were the wagons
 
-A stranger arrived: the children of {{c|1732|Cruros}},
-The crocodilian kin, the river dragons
-Who had survived the end-{{x|Triassic}}'s bruise
-By staying small and humble—these were the wagons
-
-Of a new marine experiment.
-
+Of a marine experiment's ascent.
 {{c|1750|Thalattosuchus}}—the sea-crocodile—
 Was {{c|1732|Cruros}}' answer to the ocean's rent-
 Free niches, and his children swam in style
 
-That no one expected from a crocodilian:
+Not expected of a crocodilian:
 Fully marine, with flippers where the feet
-Had been, with a fish-tail where the reptilian
+Had been, a fish-tail where the reptilian
 Tail had flattened to a vertical beat
 
-Of the water—{{c|1750|Thalattosuchus}} had become
-A sea creature, streamlined and salt-tolerant,
-With salt glands near the eyes that freed him from
-The freshwater dependency—an entrant
+In water. {{c|1750|Thalattosuchus}} was now
+Sea creature, streamlined; salt glands would allow,
+Set near the eyes, his freedom from the need
+Of fresh streams; salt-tolerant now, he'd speed
 
-To the open ocean from the river-bank.
+To open ocean from the river-bank.
+Metriorhynchids, {{c|1751|Metrion}}'s own kin,
+Were most marine of all; and in their rank
+Among crocodylomorphs, those who'd been
 
-The {{c|1751|Metrion}} clan—the metriorhynchids—
-Were the most marine of all: their rank
-Among the crocodylomorphs was the kids
-
-Who ran away to sea and never returned.
-Their legs had become paddles, their tails bore flukes,
+The kids who fled to sea, never returned.
+Their legs were paddles now, their tails bore flukes,
 Their skin had lost the armor scales that burned
 With weight in open water—these rebukes
 
 Of every crocodilian convention
 Swam the {{x|Jurassic}} seas as sleek and fast
-As any marine reptile: the invention
+As any sea reptile: the invention
 Of the sea-crocodile—a form that passed
 
 Through the {{x|Jurassic}} waters like a dark
-And toothy torpedo, catching fish and squid
-In jaws that still bore the crocodilian mark
-Of the long snout and the interlocking grid
+And toothed torpedo, catching fish and squid,
+In jaws still bearing crocodilian mark
+Of the long snout, the interlocking grid
 
 Of teeth—but everything else was ocean:
-The body smooth, the limbs reduced to fins,
-The tail a propulsive engine of locomotion
+The body smooth, the limbs to fins made slim,
+The tail an engine of locomotion
 That drove them through the surface and the dim
 
-Below with equal ease.
+Below with ease.
 
-                       They breathed at the surface—
-Lungs, not gills, the amniote's inheritance—
-And they may have borne live young, the purposive
-And marine adaptation's final dance
+                       They rose to breathe the air—
+Lungs, and not gills, their amniote bequest—
+And may have borne their young alive: the rare
+Final dance of sea-adaptation's quest,
 
-With the land abandoned.
+The land abandoned.
 
                          For a little while
 In the {{x|Jurassic}}'s middle age, the seas
 Held crocodilians who had crossed each mile
-Of evolutionary distance—from the trees
+Of evolution's distance—from the trees
 
-And rivers of their {{c|1732|Cruros}}-ancestry
-To the open ocean, fully marine,
-Hunting alongside {{c|1742|Plesios}} and the dynasty
-Of {{c|1726|Ichthyos}}—three lineages in the marine
+And rivers that their {{c|1732|Cruros}} forebears knew
+To open ocean, wholly of the sea,
+Hunting with {{c|1742|Plesios}}, {{c|1726|Ichthyos}} too:
+Three lines in one marine republic, free,
 
-Republic, each from a different branch
-Of {{c|1669|Sauros}}' family tree: {{c|1726|Ichthyos}} from the deep
-And ancient diapsid line, {{c|1742|Plesios}} from the ranch
-Of {{c|1677|Paraps}}' turtle-kin, and now the creep
+Each from a different branch of {{c|1669|Sauros}}' tree:
+{{c|1726|Ichthyos}}, from the deep diapsid sea,
+{{c|1742|Plesios}}, from {{c|1677|Paraps}}' turtle-kin's ranch,
+And, creeping to the brine, {{c|1732|Cruros}}' own branch.
 
-Of {{c|1732|Cruros}}' river-children to the brine.
+The teleosaurids, the other clan
+Of {{c|1750|Thalattosuchus}}, kept near the coast,
+Like the gharial in a later plan:
+Long-snouted, eating fish, a hunting host
 
-The teleosaurids—the other clan
-Of {{c|1750|Thalattosuchus}}—kept closer to the line
-Of shore, like the gharial in a later plan:
-
-Long-snouted, fish-eating, coastal hunters
-Who patrolled the {{x|Jurassic}} shorelines and the reefs
-In the manner of their river-hunting grunters
-But adapted to the salt—the ancient griefs
-
-Of the end-{{x|Triassic}} had pushed them to expand
-Beyond the rivers that their fathers knew,
+Who patrolled the {{x|Jurassic}} shore and reef
+Like river-hunting forebears, on salt strand;
+The ancient end-{{x|Triassic}}'s dying grief
+Had pushed them past the rivers to expand
+Beyond the waters that their fathers knew,
 And the {{x|Jurassic}} sea was close at hand
 With fish enough for every hungry crew.
 
-The {{c|1750|Thalattosuchus}} clan would fade
-Before the {{x|Cretaceous}} dawn—the fully marine
-Metriorhynchids leaving no cascade
-Of descendants to the later scene—
+And {{c|1750|Thalattosuchus}}' whole clan would fade
+Before {{x|Cretaceous}} dawn—the most marine,
+Metriorhynchids, leaving no cascade
+Of descendants to any later scene—
 
-Their experiment complete, their lesson taught:
-That even the most dedicated river-dweller
-Can hear the ocean's call and be caught
+Experiment complete, their lesson taught:
+That the most devoted river-dweller
+Can hear the ocean's call and then be caught
 In the sea's embrace—that every cellar
 
-Of the evolutionary house connects
-To every other room, and the crocodile
-Who seems forever bound to the river's text
+Of evolution's house lies linked and next
+To every other room; the crocodile
+Who seems forever bound to river's text
 Can rewrite himself in the ocean's style.
 
 For the sea turns no one away who comes
-With lungs and will and the willingness to change—
-The {{x|Jurassic}} ocean beat its drums
-For the river dragon who expanded his range
+With lungs and will and willingness to change—
+And the {{x|Jurassic}} ocean beat its drums
+For river dragons who expanded range
 
 To the horizon—and found room.
 
-                                Honor
-The thalattosuchians: the crocodile-kin
-Who went to sea and earned the ocean's honor
-Of a place among its hunters—the genuine
+                                Give praise:
+Thalattosuchians, crocodile-kin,
+Who went to sea and in the ocean's ways
+Earned a place with its hunters. They had been
 
-And fully marine crocodylomorphs who proved
-That no lineage is locked to a single home,
-And the river's child, when the river-banks have moved,
-Can make the open ocean into a poem.
+True marine crocodylomorphs, who proved
+No lineage is locked in just one zone,
+The river's child, when river-banks have moved,
+Can make the sea a poem of its own.

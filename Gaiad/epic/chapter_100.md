@@ -2,126 +2,123 @@
 
 Now comes the thunder.
 
-                       In the middle {{x|Jurassic}},
-When {{c|1702|Conifera}}'s forests grew tall and the rain
-Fed the canopy to heights fantastic
-That no creature's neck had yet been able to attain—
+                       In {{x|Jurassic}} prime,
+When {{c|1702|Conifera}}'s woods grew tall, and rain
+Fed canopies to a fantastic climb
+That no neck yet had managed to attain—
 
-{{c|1740|Sauropos}} answered the forest's invitation
-By growing the longest neck in the history
-Of vertebrate life—a slow-motion escalation
-Over thirty million years, the mystery
+{{c|1740|Sauropos}} answered the invitation
+By growing the longest neck in history
+Of vertebrates—a slow escalation
+Through thirty million years—the mystery
 
 Of how a body can become so vast
 And still function, still breathe, still pump the blood
-From heart to brain across an unsurpassed
-And impossible distance—the body's flood
+From heart to brain across an unsurpassed,
+Impossible distance—the body's flood
 
-Of engineering solutions that allowed
+Of engineering answers that allowed
 The impossible to walk.
 
                          {{c|1752|Brachio}} stood
-Tallest—with his front legs longer, proud
-And giraffe-like, his nostrils above the wood
+The tallest, with his front legs longer, proud
+And giraffe-like, nostrils above the wood
 
-Of the highest canopy, a living crane
-That browsed the treetops like a grazing tower—
-Fifty tons of gentle, vegetarian reign
-Over the {{x|Jurassic}} forest's highest bower.
+Of the high canopy, a living crane
+That browsed treetops like a grazing tower—
+Fifty tons of gentle, green-eating reign
+Over {{x|Jurassic}} woods' highest bower.
 
 {{c|1753|Diplodos}} was the longest—his whip-tail
-Stretched behind him like a sonic weapon,
-The crack of its tip breaking the air's veil
-Like a bullwhip—twenty-seven meters, heaven
+Stretched out behind him, sonic, like a lash:
+The crack of its tip breaking the air's veil,
+A bullwhip's—twenty-seven meters' dash
 
-Alone knew how many vertebrae in the neck
-And tail combined: more than a hundred, each
+Of body; heaven knows the bones that deck
+His neck and tail: a hundred-plus, and each
 Articulated for the flex and check
 Of the enormous body's sinuous reach.
 
-And {{c|1754|Argentinosauros}} would come later—
+{{c|1754|Argentinosauros}} would come later—
 The largest of them all, a hundred tons,
-The most massive land animal, the greater
-And most extreme of {{c|1740|Sauropos}}' sons—
+The most massive land beast, and the greater
+And the most extreme of {{c|1740|Sauropos}}' sons—
 
-But in the {{x|Jurassic}}'s middle age, the first
-Great sauropods were already shaking the earth
+But in {{x|Jurassic}}'s middle age, the first
+Great sauropods already shook the earth
 With every footfall—and the drumbeat burst
-Of their walking was the {{x|Mesozoic}}'s birth
+Of walking was the {{x|Mesozoic}}'s birth
 
 Of thunder that was not from any cloud.
-
 How did they breathe?—with lungs connected to
-Air-sacs that permeated the bones—the proud
-And hollow vertebrae that the X-ray flew
+Air-sacs that ran all through the bones—the proud
+And hollow vertebrae the X-ray flew
 
-Through like a cathedral's buttressed vault—
-The same bird-like respiratory system
+Through as through a cathedral's buttressed vault—
+That same bird-like system of breath and lung
 That {{c|1681|Archon}} had invented—the default
-Of the archosaur body was the prism
+Of archosaur bodies, a prism sprung
 
-That solved the oxygen problem: air flowed through
-The lungs in one direction, not the tidal
-In-and-out of mammal breathing—new
-And efficient oxygen exchange, the bridal
+To solve the oxygen problem: air through
+The lungs in one direction, not the tide
+And in-and-out of mammal breathing: new,
+Efficient oxygen exchange, supplied,
 
-Gift of {{c|1681|Archon}} to his greatest children.
-
-How did the heart pump blood so far?—
-With a pressure that would kill a human, the buildin'
-Of a cardiovascular star
+The gift of {{c|1681|Archon}} to his greatest line.
+How did the heart pump blood so far? By force
+Of pressure that would kill a man; design,
+A cardiovascular star, the source
 
 That weighed as much as a small car and beat
-With a force that the aorta had to channel
-Through a body longer than a city street—
-And the blood-pressure at the head was a panel
+With force the aorta had to channel
+Through a frame longer than a city street—
+The pressure at the head was a panel
 
-Of engineering that we still don't fully know.
-
-They were warm—or warm enough—the mass
-Of their bodies holding heat in the slow
-And enormous thermal reservoir, the crass
+Of engineering we don't fully know.
+And they were warm, or warm enough: the mass
+Of their bodies holding heat in the slow,
+Enormous thermal reservoir, the crass
 
 And simple physics of being so large
-That the surface-area-to-volume ratio meant
+That surface-to-volume ratio meant
 The body stayed warm without any charge
-Of metabolic fire—gigantothermy lent
+Of inner fire; gigantothermy lent
 
 What endothermy gives to smaller things:
-A stable, warm interior where the enzyme
-Chemistry of life could spread its wings
-Regardless of the night's cold or the daytime
+A stable, warm inside, where the enzyme
+Chemistry of all life could spread its wings
+Regardless of night's cold or of daytime
 
-Blaze of the {{x|Jurassic}} sun.
+Blaze of {{x|Jurassic}} sun.
 
                            They walked in herds—
 The footprints tell us this: great trackways of
 A dozen or a hundred, and the words
-Of the rock record say the giants above
+In rock record say the giants above
 
 Moved together, the young in the center
-Protected by the adults' enormous flanks—
-No predator but the boldest would enter
-The moving fortress of a sauropod's ranks.
+Protected by adults' enormous flanks—
+No predator but boldest would enter
+The moving fortress of sauropods' ranks.
 
 And they ate. They ate constantly. They stripped
-The forests with the efficiency of machines,
-Each day consuming more than a man has shipped
-In a week of groceries—the {{x|Jurassic}} scenes
+The woods with the thoroughness of machines,
+Each day consuming more than men have shipped
+In weeks of groceries; {{x|Jurassic}} scenes
 
-Of sauropod feeding must have sounded like
-A continuous ripping of the world's green hide—
+Where sauropods were feeding sounded like
+A constant ripping of the world's green hide—
 The crunch and tear of branch and bark and spike
 Of conifer processed through the inside
 
-Of a gut the length of a house, fermented
-By bacteria that broke the cellulose
-To energy—the forest demented
-By the appetite that never found its close.
+Of gut the length of a house, fermenting
+Through bacteria that broke cellulose
+To energy—forests unrelenting
+Torn by the appetite that found no close.
 
 This was the age of giants. This was when
-The earth trembled not from volcanism's fire
-But from the footsteps of the greatest of all men—
+The earth trembled not from volcanoes' fire
+But from the footsteps of the greatest men—
 If men is what we call the living spire
 
 Of evolution's most ambitious reach:
@@ -130,15 +127,14 @@ On four legs, each one massive as a beach-
 Side pylon—and the thunder of their walks
 
 Was the heartbeat of the {{x|Jurassic}} world.
-
 Honor {{c|1740|Sauropos}}—the thunder lizards,
-The gentle giants whose banners were unfurled
-In the conifer forests, who braved the blizzards
+The gentle giants, banners all unfurled
+In conifer woods, who braved the blizzards
 
-Of deep time and grew to the limit of what land
+Of deep time, and grew up to what the land
 Can hold, what bone can bear, what heart can pump—
 The largest things that ever walked on sand,
 Whose every footstep was the drumbeat's thump
 
-Of life saying: I am here, and I am vast,
-And the earth itself remembers where I passed.
+Of life, which says: I'm here, and I am vast,
+And earth itself remembers where I passed.

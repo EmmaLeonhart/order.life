@@ -1,114 +1,110 @@
 # Chapter 98: The Plesiosaur Queens
 
 Now {{c|1729|Nothros}}' children, who had paddled close
-To shore through all the {{x|Triassic}} years—
-Half-aquatic, like a coastal prose
+To shore through all the long {{x|Triassic}} years—
+Half in the water, like a coastal prose
 That never quite committed—shed their fears
 
-And swam to the open ocean.
+And swam to open ocean.
 
                                 In the wake
 Of the end-{{x|Triassic}} dying, the sea
-Had emptied its niches for any lineage to take
+Had emptied niches for a line to take
 That had the body and the will to be
 
 A ruler of the deep—and {{c|1729|Nothros}}' heirs
-Answered the ocean's invitation: the {{c|1742|Plesios}},
-The plesiosaurs, who took the sauropterygian airs
+Answered the ocean's call: {{c|1742|Plesios}}, those
+Sauropterygians, who took the airs
 Of paddle-limb and barrel-chest, and chose
 
-To perfect them for the open sea.
+To perfect them for the open, deep sea.
+Two forms emerged from {{c|1729|Nothros}}' ancient line:
+The long-necked ones, of serpentine design,
+Whose neck was half the body, turned to be
 
-Two forms emerged from {{c|1729|Nothros}}' legacy:
-The long-necked ones, whose serpentine and free
-Design of neck stretched half the body's agency
-
-Into a fishing-crane above the waves—
+A fishing-crane above the open waves—
 {{c|1748|Elasmosauros}}, with a neck so long
 She seemed a serpent rising from the caves
-Of the deep to snatch the fish—her song
+Of the deep sea to snatch the fish—her song
 
-Was the silent strike from below, the ambush
-Of the surface-schooling fish who never saw
-The jaws arriving from the underwater bush
-Of the plesiosaur's patient, waiting maw.
+Was silent strike from below, the ambush
+Of surface-schooling fish who never saw
+The jaws come from the underwater bush
+Of the long neck's patient and waiting maw.
 
 And the short-necked ones: the pliosaurs, great
 {{c|1749|Plios}}, with massive heads and shorter necks,
-Built for power rather than for the ornate
-And serpentine—{{c|1749|Plios}} was the {{x|Hex}}
+Built for power rather than the ornate
+And serpentine: {{c|1749|Plios}} became the {{x|Hex}}
 
 Of every marine creature's nightmare: jaws
 The length of a man, teeth like railroad spikes,
-A body propelled by four flippers without pause
+A body four flippers drove without pause
 Through the {{x|Jurassic}} sea—the monster strikes
 
-At ichthyosaur and plesiosaur alike,
-The apex predator of the {{x|Mesozoic}} deep,
+Ichthyosaur, plesiosaur alike,
+Top hunter in the {{x|Mesozoic}} deep,
 Who knew no equal and would only strike
-At whatever dared to swim the waters' keep.
+At all that dared to swim the waters' keep.
 
 Both forms swam with the same four-flipper flight:
-Not the tail-propulsion of the fish or the whale
-But the underwater wing-beat, left and right,
-The front pair pulling, the rear pair's trail
+Not tail-propulsion of the fish or whale
+But underwater wing-beat, left and right,
+The front pair pulling, and the rear pair's trail
 
-Providing stability and turn—
+Providing stability and the turn—
 Like a sea turtle's flight beneath the wave
 But amplified to grandeur—and they'd earn
-The title of the ocean's most elegant and brave
+The ocean's title, elegant and brave,
 
-Swimmers: the plesiosaurs who flew through water.
-
+As swimmers, those who flew through the water.
 And in their bones the turtle-kinship showed:
 {{c|1677|Paraps}}' patient architecture's daughter,
-The same body-plan that {{c|1678|Turtlos}} owed
+The very body-plan that {{c|1678|Turtlos}} owed
 
-His shell expressed in marine magnificence—
-The flipper-paddle that the sea turtle shares
-With the plesiosaur is not coincidence
-But the deep homology that the fossil declares:
+His shell, grown grand in marine form and size—
+The flipper that the sea turtle still shares
+With plesiosaurs is no chance; it lies
+In homology the fossil declares:
 
 Both children of the same ancestral hand,
 Both built from {{c|1677|Paraps}}' patient blueprint, one
 On land with shell, the other in the grand
-And open ocean with the underwater run
+Of open ocean's underwater run
 
 Of four-wing flight.
 
-                    The {{c|1742|Plesios}} ruled
+                    The {{c|1742|Plesios}} then ruled
 The {{x|Jurassic}} and the {{x|Cretaceous}} seas—
-A hundred and thirty million years they pooled
-Their dynasty across the oceanic freeze
+A hundred thirty million years they pooled
+Their dynasty across the ocean's freeze
 
 And warm of alternating climate—queens
-Of every coastline, every continental shelf,
+Of every coast, from shelf to either pole,
 Their fossils found in every rock that leans
-Toward the marine—as common as the wealth
+Toward the sea—as common as the whole
 
-Of the sea itself, in every age and latitude.
+Sea's wealth itself, in every latitude.
+They bore live young, as {{c|1726|Ichthyos}} once did—
+The open sea had left no certitude
+Of beach for eggs; and so the mother hid
 
-They bore live young—as {{c|1726|Ichthyos}} did—
-The open ocean leaving no certitude
-Of a beach for egg-laying—so the plesiosaur hid
-
-Her young within her body, gave birth at sea,
+Her young within her, and gave birth at sea,
 And the newborn {{c|1742|Plesios}} swam beside
 Her mother from the first, already free
 Of any shore, already in the tide
 
-Of the plesiosaur's eternal hunting-flight.
-
+Of their eternal four-flipped hunting-flight.
 Honor {{c|1742|Plesios}} and her long-necked line—
-The turtle's cousins of the oceanic night
+The turtle's cousins of the ocean night
 Who took the ancient body-plan's design
 
 And made it fly beneath the waves: the queens
-Of the {{x|Mesozoic}} deep, the four-flipped fliers,
+Of the {{x|Mesozoic}}, four-flipped fliers,
 Whose paddle-limbs and barrel-chested means
-Of breathing at the surface made them buyers
+Of surface-breathing made them the buyers
 
-Of the ocean's greatest real estate—
-And ruled it longer than any other line
-Of marine reptile—patient, elegant, and great:
-The {{c|1677|Paraps}}-kindred of the oceanic brine.
+Of the whole ocean's greatest real estate—
+And ruled it longer than each other line
+Of sea reptile: patient, elegant, great:
+The {{c|1677|Paraps}}-kindred of the ocean brine.

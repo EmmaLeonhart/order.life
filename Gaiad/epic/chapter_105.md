@@ -1,124 +1,114 @@
 # Chapter 105: The Tyrant Kings
 
-There is a shape that terror takes when it perfects itself.
+Terror, when it is perfect, takes a shape.
+Then, late in the {{x|Cretaceous}}, {{c|1739|Theros}}' brood
+Achieved the perfect hunter—no escape—
+Delving the deepest fear of hunted food:
 
-In the late {{x|Cretaceous}}, {{c|1739|Theros}}' line achieved
-The ultimate predator—the shape that delved
-Into the deepest fear of every grieved
+{{c|1761|Tyrannos}}, of the tyrant lizards king,
+Coelurosaur, who grew past reason's law,
+The largest head, the strongest bite to bring,
+The raw and overwhelming force of jaw
 
-And hunted herbivore—{{c|1761|Tyrannos}}, king
-Of the tyrant lizards, the coelurosaur
-Who grew beyond all reason, who would bring
-The largest head, the strongest bite, the raw
+Of apex lord, for the {{x|Cretaceous}}' end.
+Twelve meters long, six tons of bone, each cord
+Of muscle, every fiber made to bend
+To one dread purpose, killing, as its lord:
 
-And overwhelming force of the apex lord
-To the {{x|Cretaceous}}'s final act.
-
-                                   Twelve meters long,
-Six tons of bone and muscle, every cord
-Of fiber tuned to one purpose—the strong
-
-And terrible purpose of the kill—
 {{c|1761|Tyrannos}} walked on two enormous legs,
-Each step a seismic event, each hill
-And valley shaken by the impact—the dregs
+Each step a seismic tremor; every hill
+And valley shook from impact, and the dregs
+Of every smaller creature's calm would spill
 
-Of every smaller creature's composure scattered
-At the sound of the tyrant's approach.
+At sound of the tyrant's approach. His arms
+Were tiny, on a body that battered
+The mind—but his great head bore all the charms
+Of compensating power—what mattered:
 
-                                        His arms
-Were small—absurdly small on a body that battered
-The imagination—but his head bore the charms
+A skull a bathtub long, and jaws to break
+The bone; teeth like bananas; and the might
+Of bite—the strongest any beast could make
+In all land's history: such was his bite—
 
-Of compensating power: a skull the length
-Of a bathtub, jaws that could crush bone,
-Teeth the size of bananas—and the strength
-Of the bite: the strongest of any creature known
+Eight thousand pounds per square inch at the tip
+Of tooth, with teeth not blades like {{c|1756|Allos}}' own,
+But rounded railroad spikes, thick, set to grip
+Beneath enamel: made to crush the bone.
 
-In the history of land—eight thousand pounds
-Per square inch at the tooth-tip, and the teeth
-Were not blades like {{c|1756|Allos}}' but the rounds
-Of railroad spikes, thick, bone-crushing beneath
-
-The enamel—for {{c|1761|Tyrannos}} did not slice
-His prey to bleeding death but seized and crushed—
+For great {{c|1761|Tyrannos}} did not merely slice
+His prey to bleeding death, but seized and crushed—
 The skull, the spine, the ribs—the sacrifice
-Was immediate, the prey not gradually hushed
+Was instant, and the prey not slowly hushed
 
-But destroyed in the seizing—the killing bite
-That ended the herbivore's struggle in a single
-Application of the jaw's hydraulic might.
+But wrecked within the seizing: killing bite
+That stopped the grazer's struggle in one blow,
+One application of hydraulic might
+Of jaws. And in his eyes, set forward so,
 
-And in his eye—for the binocular mingle
-Of forward-facing vision gave him depth-perception
-That the earlier theropods had lacked—
-The world was three-dimensional, the deception
-Of the camouflaged prey no longer backed
+Binocular, there came depth-perception
+That the earlier theropods had lacked:
+A three-dimensioned world; the deception
+Of camouflaged prey was no longer backed
 
-By any visual trick—{{c|1761|Tyrannos}} saw
-In depth, in color, tracked the motion
-Of the fleeing prey with the predator's law
-Of relentless and unhurried locomotion:
+By any trick of sight: {{c|1761|Tyrannos}} saw
+In depth, in color; he tracked the motion
+Of fleeing prey with the predator's law
+Of patient, unhurried locomotion:
 
 He did not need to be fast—he needed
-Only to be persistent, to walk and walk
-And walk until the prey that ran conceded
-To exhaustion, and the tyrant's stalk
+Only to be persistent: walk and walk
+And walk till the prey that ran conceded
+To its exhaustion, and the tyrant's stalk
 
-Ended in the inevitable seizure.
+Ended in seizing, as was sure to be.
+His brain was large; the bulbs for smell were vast,
+Enormous, and his sense of smell was free
+To find prey, rotting or alive, miles past.
 
-His brain was large—the olfactory bulbs
-Enormous, the sense of smell at leisure
-To detect the rotting or the living pulps
+His hearing was acute: the ground's low sound
+Conducted through the bone, each footstep's trace
+Of every fleeing creature, secret, found;
+And the {{x|Cretaceous}} shook before his pace:
 
-Of any prey for miles—and the hearing
-Was acute, the low frequencies of the ground
-Conducted through the bone, the footstep's clearing
-Of every fleeing creature's secret sound.
+No land creature in {{c|1761|Tyrannos}}' domain
+Was safe from scan of smell and sight; the reign
+Of predatory apex—the long road
+Of sixty million years theropods strode:
+Innovation: from {{c|1745|Coelos}}' running pack
+To {{c|1756|Allos}}' blade-jawed ambush; then, the mode
+Of tyrannosaur's bone-crushing attack.
 
-The {{x|Cretaceous}} trembled before {{c|1761|Tyrannos}}—
-Not a single land creature in his territory
-Was safe from the tyrant's scanning bellows
-Of smell and sight—the predatory
+He was {{c|1739|Theros}}' masterpiece: the whole sum
+Of all the meat-eating lineage learned
+About the killing art; and so had come
+Power, not speed: this was the lesson earned
 
-Apex of sixty million years of theropod
-Innovation, from {{c|1745|Coelos}}' pack
-To {{c|1756|Allos}}' blade-jawed ambush, to the plod
-Of the tyrannosaur's bone-crushing attack.
-
-He was {{c|1739|Theros}}' masterpiece: the synthesis
-Of everything the meat-eating lineage learned
-About the killing art—the emphasis
-On power over speed, the lesson earned
-
-From {{c|1756|Allos}}' age that size matters less
-Than the force delivered at the point of contact—
-And {{c|1761|Tyrannos}} delivered the utmost stress
-That bone and muscle could compact
+From {{c|1756|Allos}}' day, that size would matter less
+Than the force that's delivered in contact—
+{{c|1761|Tyrannos}} delivered the utmost stress
+That any bone and muscle could compact
 
 Into a single, devastating bite.
+The grazers answered: {{c|1762|Ceratops}} would grow
+Great horns and frills, the bony, armored might
+Of shield against the tyrant's strike and blow—
 
-The herbivores responded: {{c|1762|Ceratops}}
-Grew horns and frills, the armored might
-Of bony shield against the tyrant's stops
+But that is for the next chapter's telling.
+For now, praise {{c|1761|Tyrannos}}, the tyrant king,
+Culmination of the hunter's dwelling
+In body's engineering—everything
 
-And strikes—but that is the next chapter's telling.
-
-For now, honor {{c|1761|Tyrannos}}—the tyrant king,
-The culmination of the predator's dwelling
-In the body's engineering—everything
-
-The theropod could become, he was:
+All that the theropod could be, he was:
 The largest predator that ever walked,
-The strongest bite, the deepest jaws,
-And the earth itself that trembled when he stalked.
+The deepest jaws, the strongest bite—the cause
+Why earth itself would tremble when he stalked.
 
 He ruled for two million years at the end
-Of the {{x|Cretaceous}} age—a brief reign
-In geological time, but in the trend
-Of the theropod's story, the maximum strain
+Of the {{x|Cretaceous}} age—a passing reign
+In geologic time; but in the trend
+Of theropod story, the utmost strain
 
-Of the predator's art—and though the asteroid
+Of hunting art—and though the asteroid
 Would end his dynasty, his ghost remains
 In every child who dreams of the destroyed
 And terrible world where the tyrant reigns.

@@ -1,87 +1,86 @@
 # Chapter 92: The Cynodont's Vigil
 
 While the great ones ruled the {{x|Triassic}} plains—
-While {{c|1732|Cruros}} held the rivers and the lowlands
+While {{c|1732|Cruros}} held the streams and the lowlands
 And {{c|1736|Deinos}}' children ran in upland lanes—
-The children of {{c|1673|Cynos}} lived in small commands
+The young of {{c|1673|Cynos}} lived in small commands
 
-Of burrow-dwelling, nighttime, careful kinds
-Who had inherited the {{x|Permian}} loss
-And carried in their milk-producing glands
-And fur-touched skin the memory of the cross
+Of burrowers, nocturnal, careful bands
+Who had inherited {{x|Permian}} loss
+And carried in their milk-producing glands,
+Fur-touched skin, the memory of the cross
 
 That {{c|1668|Synaps}}' dynasty had borne: the fall
-From {{x|Permian}} dominance to {{x|Triassic}} shadow,
-From the world's great lords to creatures small
-Enough to hide in any grassy meadow.
+From {{x|Permian}} to {{x|Triassic}} shadow,
+From the world's great lords down to creatures small
+Enough to hide in a grassy meadow.
 
 For {{c|1673|Cynos}} had been great—remember this—
-His father {{c|1672|Theraps}} and his grandsire {{c|1670|Pelyon}}
-Had ruled the {{x|Permian}} world in tooth and kiss
-Of predator and grazer—every hellion
+His father {{c|1672|Theraps}}, and before him, too,
+Grandsire {{c|1670|Pelyon}}, ruled in tooth and kiss
+The {{x|Permian}} world; each hellion that slew
 
-And gentle herbivore of the synapsid age
-Had answered to the house of {{c|1668|Synaps}} once—
+And gentle grazer of synapsid age
+Had answered to the house of {{c|1668|Synaps}} then—
 But the {{x|Great Dying}} wrote a different page,
-And those who survived were not the mighty hunts-
+And those who lived were not the mighty men
 
-Men of the {{x|Permian}} peak but the burrowers,
-The small ones, the ones who ate the least
-And needed least, the underground endurers
-Who outlived the fire and the poisoned feast.
+Of {{x|Permian}} heights; but burrowers, small,
+The ones who ate the least and needed least,
+The underground endurers, who through all
+Outlived the fire and the poisoned feast.
 
 And now, in the {{x|Triassic}}'s middle years,
 The children of {{c|1673|Cynos}} grew smaller still—
-For the archosaurs above pressed down with fears
-And appetite on anything that filled
+For archosaurs above pressed down with fears
+And appetite on all that came to fill
 
-A niche above the size of a shrew.
+A niche above the size of shrews.
 
                                       The night
 Became the cynodont's domain—the dark
-Where the cold-blooded archosaurs lost their might
+Where cold-blooded archosaurs lost their might
 And the warm-blooded mammal-kin could mark
 
-Their territory by scent and sound and the feel
+Their ground by scent and sound, and by the feel
 Of whiskers in the dark—those whiskers that
 {{c|1673|Cynos}} had first grown, the sensory wheel
 Of vibrissae that turned the blind and flat
 
-World of the nighttime into a map of touch.
-
-And in the late {{x|Triassic}}, from the smallest
+The world of night into a map of touch.
+And in the late {{x|Triassic}}, from the least
 Of {{c|1673|Cynos}}' shrinking children, came the clutch
-Of the first true mammals—{{c|1743|Mammos}}, the humblest
+Of first true mammals: {{c|1743|Mammos}}, lowly, least
 
 Of all the heirs of {{c|1668|Synaps}}' ancient line,
 Who bore the full inheritance at last:
 The three ear-bones that heard the world's design
 In frequencies the reptiles could not cast
 
-Their hearing toward—the jaw-bones of their fathers
-Had migrated to the middle ear and become
-The hammer, anvil, stirrup—from the gathers
-Of a hundred million years, the sum
+Their hearing toward. Their fathers' jaw-bones, old,
+Had moved into the middle ear, become
+The hammer, anvil, stirrup—fold on fold
+Through a full hundred million years, the sum
 
-Of {{c|1668|Synaps}}' extra jaw-bone's slow migration
-Toward a new and finer purpose—hearing,
-Acute and intimate—the transformation
-Of what had been a biting tool, the steering
+Of {{c|1668|Synaps}}' extra jaw's slow migration
+Toward a new and finer use: the ear,
+Acute and intimate: transformation
+Of what had been a jaw. So, year by year,
 
-Of evolution taking surplus bone
-And turning it to something new: a sense
+Did evolution steer the surplus bone
+And turn it into something new: a sense
 So delicate it heard the forest's tone
-In registers of exquisite consequence.
+In registers exquisite and intense.
 
-And milk—{{c|1743|Mammos}} gave his young the gift
-Of milk, the mother's body feeding from
-Within itself, the evolutionary shift
-That freed the newborn from the egg's aplomb
+And milk—for {{c|1743|Mammos}} gave his young the gift
+Of milk: the mother's body was the source,
+Within—an evolutionary shift
+That freed the newborn from the egg's set course
 
 And bound it to the mother's warmth instead—
-A cord of nourishment more flexible
-Than any yolk-sac: wherever mother fed,
-The infant fed, the bond invincible
+A cord of nourishment more free to bend
+Than any yolk-sac: where the mother fed,
+The infant fed, a bond no harm could end,
 
 And portable across whatever land
 Or climate or disaster came.
@@ -90,38 +89,37 @@ Or climate or disaster came.
 The full and covering warmth, the body's band
 Of insulation that allowed the stir
 
-Of metabolism through the coldest night,
+Of metabolism through the cold night,
 That kept the body's engine running when
 The archosaurs went slow—the mammal's right
-To the nighttime world, the moonlit den
+To all the nighttime world, the moonlit den
 
 Where small eyes gleamed and small teeth cracked the shell
 Of beetle, and small whiskers read the dark,
-And small bodies kept themselves alive and well
+Small bodies kept themselves alive and well
 On what the daylight giants left—the bark
 
 And seed and insect of the shadow-world.
-
-This was the vigil—one hundred million years
+A vigil of a hundred million years
 Of smallness, of the patient flag unfurled
 In darkness, of the nighttime pioneers
 
-Who kept the synapsid flame alive
-Through all the {{x|Mesozoic}}'s long dominion
-Of the archosaur lords—content to survive
-And wait, and hold, and keep their one opinion:
+Who kept the old synapsid flame alive
+Through the {{x|Mesozoic}}'s long dominion
+Of archosaur lords—content to survive
+And wait and hold, keeping one opinion:
 
-That the night was theirs, and the future
+That the night was theirs, and that the future
 Was written in the milk and fur and bone
-Of the smallest creatures—the suture
+Of the smallest creatures—that the suture
 Between the past and the world yet unknown
 
-Was the mammal in the burrow, warm and small,
-Who heard the world in frequencies the giants
-Could never know, and who would outlast them all.
+Lay in the burrow: mammal, warm and small,
+Who heard in frequencies that the giants
+Could never know, and would outlast them all.
+So honor the vigil's quiet clients
 
-Honor the vigil. Honor the quiet clients
-Of the nighttime world who kept the ancient fire
-Of {{c|1668|Synaps}}' dynasty burning through the dark—
-And waited—for the night rewards desire,
-And the patient inherits every empty park.
+Of night, who kept alive the ancient fire
+Of {{c|1668|Synaps}}' dynasty through all the dark—
+And waited—night rewards their desire,
+The patient inherit each empty park.

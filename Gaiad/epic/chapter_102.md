@@ -1,121 +1,115 @@
 # Chapter 102: Teeth and Claws
 
-The {{x|Jurassic}} was the theropod's golden age.
-
-Where {{c|1745|Coelos}} had run in modest packs
+The {{x|Jurassic}}: theropods' golden age.
+Where {{c|1745|Coelos}} once had run in modest packs
 Across the {{x|Triassic}}'s marginal stage,
-His {{x|Jurassic}} descendants made no apology—cracks
+His heirs in the {{x|Jurassic}} found the cracks
 
-In the ecosystem's architecture opened wide
+Of ecosystems' structure, opened wide
 For predators of every size and style,
 And {{c|1739|Theros}}' children filled them with the pride
-Of the hunting art perfected mile by mile.
+Of hunting art perfected mile by mile.
 
-{{c|1756|Allos}} was the master of the late {{x|Jurassic}}—
-The lion of his age, though larger, heavier,
-With a skull built like a hatchet—the classic
-And terrible head designed for the gravier
+{{c|1756|Allos}} was master when {{x|Jurassic}} waned,
+The lion of his age, but larger still,
+His hatchet-skull: terrible head ordained
+For the grave work of the sauropod kill:
 
-Work of killing sauropods:
-The upper jaw a blade, the teeth like steak-knives,
-Serrated, curved, the astronomical odds
-Of bringing down a forty-ton beast—the lives
+The upper jaw a blade, the teeth like knives,
+Serrated, curved; and though the odds were vast
+Of downing forty-ton beasts, still the lives
+Of {{c|1756|Allos}} were in calculation passed
 
-Of {{c|1756|Allos}} were spent in the calculated
-Art of the ambush and the bleeding wound—
-Not the single killing bite but the waited
-And strategic slash that made the attuned
+In ambush art and in the bleeding wound—
+Not one great killing bite, but slash, then wait—
+The strategy, until the prey, attuned,
+Weakening, bled out for hours: its fate.
 
-And weakening prey bleed out over hours.
+His arms were strong—not the reduced, the slight
+Vestigial stubs of later forms, but
+Functional, grasping, built to hold on tight:
+Three-fingered hands with claws that hooked and cut
 
-His arms were strong—not the reduced
-And vestigial stubs of later powers
-But functional, grasping, well-produced
+Into the sauropod's great flank and held
+While the jaws worked; and {{c|1756|Allos}} looked the part
+Of what he was: a killing engine, felled
+Assembled from the theropod's own chart
 
-Three-fingered hands with claws that hooked
-Into the sauropod's flank and held
-While the jaws delivered—{{c|1756|Allos}} looked
-Like what he was: a killing engine, felled
+Into its full {{x|Jurassic}} expression—
+Bipedal, balanced on the fulcrum-line
+Of tail, the head a fearsome confession
+Of what the hunter's art demands: design
 
-Together from the blueprint of the theropod
-Into its fullest {{x|Jurassic}} expression—
-Bipedal, balanced on the fulcrum-rod
-Of the tail, the head a terrible confession
+Of bigger teeth, a stronger jaw, the force
+Of bite delivered from the muscle, bound
+Within the skull—and theropods' long course
+Of evolution always sought new ground:
 
-Of what the predator's art demands:
-Bigger teeth, stronger jaw, the force
-Of the bite delivered from the glands
-Of muscle anchored in the skull—the course
+A deadlier kill.
 
-Of theropod evolution was always toward
-A more efficient kill.
+                       Nor was he alone.
+The {{x|Jurassic}}'s guild of hunters had grown,
+And many were the niches—from the bone
 
-                       But {{c|1756|Allos}} was not alone.
-The {{x|Jurassic}}'s predator guild was broad
-And the niches many—from the bone
-
-Of the largest prey to the smallest lizard,
+Of largest prey to the smallest lizard,
 A theropod was tuned to every scale:
-{{c|1757|Ceratosauros}} with his nasal wizard-
-Horn and blade-teeth, hunting the same trail
+{{c|1757|Ceratosauros}}, with nasal wizard-
+Horn and his blade-teeth, hunting the same trail
 
-As {{c|1756|Allos}} but at a smaller gauge;
-The megalosaurids, heavy-jawed and strong,
-Who hunted the {{p|European}} stage
+As {{c|1756|Allos}}, but upon a smaller gauge;
+Megalosaurids, heavy-jawed and strong,
+Who hunted on the {{p|European}} stage
 Of the {{x|Jurassic}} world; and all along
 
-The coastal margins, the spinosaurids were
-Beginning their experiment with fish—
-The long-snouted, sail-backed, the forerunner
-Of {{c|1758|Spinosauros}}, who would later wish
+The coastal margins, spinosaurids made
+Their first experiment with eating fish—
+Long-snouted, sail-backed forerunners who laid
+The way for {{c|1758|Spinosauros}}, whose own wish
 
-The river for his kingdom and receive it.
+Would be the river-kingdom he'd receive.
+In undergrowth the small theropods ran:
+{{x|Compsognathids}}, a chicken's size, who'd weave
+With delicate insect jaws, the small clan
 
-And in the undergrowth, the small theropods ran:
-{{x|Compsognathids}} no bigger than a chicken—believe it—
-With delicate jaws for insects, the small-clan
-
-Of {{c|1739|Theros}}' family who proved that the theropod plan
+Of {{c|1739|Theros}}' house, who proved the hunter's plan
 Was not restricted to the giants' game
 But worked at every scale—from the span
-Of {{c|1756|Allos}}' skull to the smallest frame
+Of {{c|1756|Allos}}' skull down to the smallest frame
 
-Of a running insect-catcher in the ferns.
-
-The arms race between {{c|1739|Theros}} and {{c|1740|Sauropos}}
+Of running insect-catchers in the fern.
+{{c|1739|Theros}} and {{c|1740|Sauropos}}, in their arms race,
 Drove both to new extremes: at every turn
-The predator grew larger, and the colossal
+The predator grew larger; in the chase
 
-Herbivore grew larger still—the back
-And forth of predation and defense
-That made the {{x|Jurassic}} an evolutionary track
-Of escalation with no end, no fence
+Colossal plant-eaters grew larger still—
+The back-and-forth of hunt and of defense
+That made {{x|Jurassic}} climb, and climb until
+No end could come, and there could be no fence
 
-To limit the size of the hunter or the prey—
-Only the physics of the bone and the capacity
-Of the heart to pump the blood on any day
-Through a body pushed to its maximum audacity.
+To limit size of hunter or of prey—
+Only the bone's physics, and the heart's force
+To pump the blood around the frame each day
+Through bodies pushed to their extremest course.
 
-This was the theropod's art: to build
-The body for a single purpose—killing—
-And to refine that purpose until it filled
-The predator niche so completely, so thrilling
+This was the theropod's whole art: to build
+The body for one sole purpose: killing—
+And to refine that aim until it filled
+The hunter's niche so fully, so thrilling,
 
-In its efficiency, that every herbivore
-On the {{x|Jurassic}} plain lived in the shadow
-Of the theropod's eternal: something more
+Efficient so, that every herbivore
+On the {{x|Jurassic}} plain lived in shadow
+Of theropods' eternal: something more
 Terrible is coming from the meadow's
 
-Far edge, with teeth like knives and the patience
-Of a hunter who has evolved for nothing else.
-
-Honor {{c|1756|Allos}} and his {{x|Jurassic}} nations
-Of the fang—the teeth-and-claws that dwells
+Far edge, with knife-like teeth and patient mind
+Of hunters made for nothing but to kill.
+Honor {{c|1756|Allos}} and his {{x|Jurassic}} kind
+Of fang and tooth and claw, that dwell there still
 
 In every child's imagination when
-They dream of dinosaurs: the great and terrible
+They dream of dinosaurs, the great and grim
 Predators who hunted and fed and then
-Hunted again—the inheritance indelible
+Hunted again: the indelible hymn
 
-Of the theropod's evolutionary creed:
-That the world is meat, and the hunter is born to feed.
+Of all the theropods' evolving creed:
+The world is meat; the hunter's born to feed.

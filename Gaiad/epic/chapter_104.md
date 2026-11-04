@@ -1,118 +1,111 @@
 # Chapter 104: The Snake-Kindred of the Sea
 
-In the late {{x|Cretaceous}} seas, a new predator rose
-From the lineage of {{c|1680|Squamos}}—the lizard-kin,
+In late {{x|Cretaceous}} seas, a hunter rose
+From {{c|1680|Squamos}}' lineage—the lizard-kin,
 The children of the second-born, and those
 Who carried the inheritance within
 
-Of the flexible jaw, the scaleless eye,
-The forked tongue tasting chemistry on the air—
+Of the flexible jaw, the scale-free eye,
+The forked tongue tasting chemistry in air—
 {{c|1760|Mosas}}, the mosasaur, who would apply
-The lizard's ancient arts to the ocean's lair.
+The lizard's ancient arts to ocean's lair.
 
-For {{c|1760|Mosas}} was {{c|1680|Squamos}}' child, a monitor
-In the manner of the great {{x|Komodo}}-kin—
-A varanid, a tongue-flicking connoisseur
-Of the coastal shallows who went in
+For {{c|1760|Mosas}}, {{c|1680|Squamos}}' child, was of the kind
+Of monitor, the great {{x|Komodo}}'s kin—
+A varanid, a tongue-flicker, inclined
+To coastal shallows, who at last went in
 
-And never fully came back out.
+And never came back out. So, long before,
+Two hundred million years, had gone the one
+Called {{c|1726|Ichthyos}}; now {{c|1760|Mosas}} left the shore—
+But by convergent laws, his course would run
 
-                                 As {{c|1726|Ichthyos}}
-Had done two hundred million years before,
-{{c|1760|Mosas}} entered the water—but the laws
-Of convergent evolution wrote a different shore
+Not to the dolphin's build, but to the form
+Of serpents, long and sinuous; and the drape
+Of side-to-side motion, snake-like in storm
+Of open ocean, undulating shape.
 
-For the mosasaur: not the dolphin shape
-But the serpent's—the long and sinuous form,
-The body that swam with an undulating drape
-Of lateral motion, like a snake in the storm
+For {{c|1760|Mosas}} stood as stem of what would be
+The snakes in later days: a lizard whose
+Great jaw unhinged; the bones were now set free
+That held it rigid once—so it could choose
 
-Of the open ocean—for {{c|1760|Mosas}} was
-The stem of what the snakes would later be:
-A lizard whose jaw unhinged because
-The bones that held it rigid had been set free
+To flex and spread, to swallow down its prey
+Larger than heads: kinetic skull and jaw
+That the snake would one day call its own way
+Was {{c|1760|Mosas}}' gift: the ancient reptile's draw
 
-To flex and spread, to swallow prey
-Larger than the head—the kinetic skull
-That the snake would one day call its way
-Was {{c|1760|Mosas}}' gift, the reptilian pull
-
-Toward the loosened jaw, the flexible face
-That could accommodate a meal
-Larger than reason—and in the ocean's space,
+Toward the loosened bone, the flexible face
+That could accommodate a giant meal
+Larger than reason; in the ocean's space,
 Where the prey was large and the need was real,
 
-This innovation made the mosasaur supreme.
-
-{{c|1760|Mosas}} grew enormous in the {{x|Cretaceous}} seas—
-The largest reached the length of a city's dream:
-Seventeen meters of hunting expertise
+This change had made the mosasaur supreme.
+{{c|1760|Mosas}} grew huge in the {{x|Cretaceous}} seas—
+The largest reached a length past any dream:
+Seventeen meters' hunting expertise
 
 That ruled the shallow continental shelves
-Where the inland seas spread wide and warm
-Across the {{x|Cretaceous}} world—the waves themselves
+Where all the inland seas spread wide and warm
+Across {{x|Cretaceous}} lands; the waves themselves
 Belonged to {{c|1760|Mosas}}, and the coming storm
 
 Of his jaws was the last thing that the fish,
 The ammonite, the sea turtle, the shark
 Would see—the mosasaur's one burning wish
-Was food, and the ocean offered it, and the dark
+Was food; the ocean offered it; the dark
 
 Of the {{x|Cretaceous}} deep was his to claim.
+His flippers were the monitor's spread toes,
+Webbed now, and powerful: the walking frame
+Of the land lizard, paddles now; there rose
 
-His flippers were modified from the monitor's
-Spreading toes—webbed and powerful, the frame
-Of the terrestrial lizard's walking corridors
+His tail, tall, flat: an upright blade that drove
+The sinuous frame through all the hunting hall
+Of the late {{x|Cretaceous}} sea's treasure-trove.
+And then, as {{c|1760|Mosas}} rose, there came the fall
 
-Transformed to paddles—and his tail grew tall
-And flattened, a vertical blade that drove
-The sinuous body forward through the hall
-Of the ocean's hunting grounds—the treasure-trove
+Of {{c|1726|Ichthyos}}: the dolphin-shaped, of old,
+Ancient ichthyosaurs, who had enclosed
+{{x|Triassic}} and {{x|Jurassic}} seas in hold,
+No longer could escape: their line, deposed,
 
-Of the late {{x|Cretaceous}} sea.
+A hundred fifty million years of deep,
+Went silent mid-{{x|Cretaceous}}; the rafter
+Of their evolving house had lost its keep
+To changed seas, and rivals coming after;
 
-                             And as {{c|1760|Mosas}} rose,
-{{c|1726|Ichthyos}} faded—the dolphin-shaped
-And ancient ichthyosaurs, who had enclosed
-The {{x|Triassic}} and {{x|Jurassic}} seas, escaped
+{{c|1760|Mosas}} filled the vacant throne's position
+And scaled up to the oceanic zone
+The monitor's own ancient ambition,
+Until the ocean's realm became his own.
 
-No longer: the ichthyosaur line, after
-A hundred and fifty million years of the deep,
-Went silent in the mid-{{x|Cretaceous}}—the rafter
-Of their evolutionary house lost its keep
-
-To changing seas and changing competition—
-And {{c|1760|Mosas}} filled the vacant throne
-With the monitor lizard's ancient ambition
-Scaled up to the oceanic zone.
-
-The mosasaur's jaw told the future: the loose
-And flexible bones that let him swallow whole
+The mosasaur's jaw told the future: loose
+Flexible bones that let him swallow whole
 Were the same engineering that the goose
-Of evolution would later dole
+Of evolution later on would dole
 
-To the snakes—for the snake is the mosasaur's
-Land-bound echo, the same {{c|1680|Squamos}} blueprint
-Applied to the terrestrial corridors:
-The limbless, jaw-unhinging, subtle hint
+To snakes; for snakes are the mosasaur's land
+Echo: the same {{c|1680|Squamos}} blueprint applied
+To earthly corridors: the limbless band
+Of jaw-unhinging, subtle hints implied
 
 Of what the lizard becomes when the limbs
-Are deemed unnecessary—whether in the sea
-Where {{c|1760|Mosas}} swam or in the terrestrial hymns
-Of the serpent's crawl—the same decree
+Are deemed no longer needed—in the sea
+Where {{c|1760|Mosas}} swam, or in the earthly hymns
+Of the serpent's crawling: the same decree
 
 Of {{c|1680|Squamos}}' flexible engineering.
+So honor {{c|1760|Mosas}}, snake-kin of the sea,
+Who proved that {{c|1680|Squamos}}' old pioneering
+In flexing jaw and limbs no more, set free,
 
-Honor {{c|1760|Mosas}}—the snake-kindred of the sea,
-Who proved that {{c|1680|Squamos}}' ancient pioneering
-In flexible jaw and limbless sovereignty
-
-Could conquer the ocean as it conquered the land—
-The mosasaur who ruled the {{x|Cretaceous}} deep
-With the monitor's tongue and the serpent's hand
-Redesigned for swimming—and whose sleep
+Could conquer sea as it had conquered land—
+The mosasaur, who ruled {{x|Cretaceous}} deep
+With monitor's tongue and the serpent's hand
+All redesigned for swimming—and whose sleep
 
 Was the sleep of the ocean's apex lord,
-Who feared nothing in the water's realm
-And whose jaws wrote the unambiguous word:
+Who feared nothing within the water's realm,
+Whose jaws wrote, plain and in one clear accord:
 The lizard-kin can take the ocean's helm.
