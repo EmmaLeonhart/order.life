@@ -1,476 +1,476 @@
 # Chapter 46: Great Ordovician Diversification
 
-This is the story told
-Of war both new and old
-Among the {{c|1092|Spiralians}}
-In their ancient plans.
-
-This is the saga great
-Of war and love and fate:
-The {{c|854|Brachiopods}} and more—
-The {{c|870|Bivalves}} at war.
-
-The ancient house so proud
-Of {{c|854|Brachiopods}} cried loud
-As they found themselves pressed
-On all sides, distressed
-
-By rising {{c|870|Bivalves}} strong
-Who'd waited far too long
-To claim their rightful place
-In evolution's race.
-
-{{c|868|Bivos}}, who fished with care
-From his two shells so fair,
-Shed his radula
-Like some old formula
-
-That no longer served
-His lineage preserved.
-And so he took upon
-Himself when day begun
-
-A form completely new
-That none before him knew.
-His anatomy would show
-How innovations grow
-
-From ancient forms to new
-When time sees struggles through
-To their appointed end
-Where new forms transcend.
-
-{{c|868|Bivos}} bore a son
-And daughter when begun
-His lineage: {{c|1093|Peter}} strong
-And {{c|805|Aphrodite}}'s song.
-
-{{c|805|Aphrodite}} became
-{{c|806|Ancestress}} of fame
-Of {{c|872|Oysters}} everywhere
-Who rest without a care
-
-Upon the ocean floor
-From mountain peak to shore,
-Creating pearls so bright
-That fill the world with light.
-
-{{c|1093|Peter}} bore many sons
-Who when their work was done
-Became known far and wide
-As {{c|1094|Trigonians}} with pride.
-
-But there came a day
-When war would find its way
-To {{c|1093|Peter}}'s children all—
-A massacre would fall
-
-Upon his sons so dear.
-But one escaped the spear
-Of death: brave {{c|1095|Unus}} fled
-And from that danger red
-
-He became ancestor
-Of river mussels, for
-His lineage would dwell
-Where rivers always swell
-
-With fresh water pure
-That would always endure
-Throughout the years to come
-When battles would be done.
-
-{{c|1093|Peter}}, {{c|1096|Keeper}} of {{c|1097|Gates}}
-So {{c|1098|Pearly}}, never hates
-But defends us all
-Who answer heaven's call.
-
-From river mussels come
-The river pearls, and some
-Are treasures beyond price
-That gleam like paradise.
-
-His sons live strange lives
-Where contradiction thrives:
-As lice on fish when young,
-But when their song is sung
-
-In elderhood they rest
-On rocks like treasure chest
-Of pearls that gleam so bright
-With heaven's holy light.
-
-{{c|805|Aphrodite}} became
-The Mother of great fame
-Of {{c|1099|Pearls}} and {{c|872|Oysters}} too—
-Her children tried and true.
-
-Among her daughters all
-Who answered ocean's call
-She bore three sons unique:
-{{c|1100|Scallon}}, bold and sleek,
-
-And {{c|1101|Spinos}}, armor-clad,
-And {{c|927|Pyros}}, never sad
-But flaming with the fire
-Of his heart's desire.
-
-These were the {{c|1102|Scallops}} bright,
-The {{c|1103|Spiny}} {{c|872|Oysters}}' might,
-The {{c|1104|Flame}} {{c|1102|Scallops}} that dance
-In ocean's great expanse.
-
-{{c|1100|Scallon}} had a million eyes
-Beneath the ocean skies
-To see what others missed
-And never to be tricked
-
-By predators who'd try
-To catch him unawry.
-Great and bountiful,
-He swam so dutiful
-
-Away from dangers that
-Would haunt him like a cat
-Its prey, but he was free
-To roam across the sea.
-
-{{c|1105|Clammon}} was the son
-Of {{c|868|Bivos}} when begun
-His work to populate
-The seas with forms so great.
-
-{{c|1105|Clammon}} begat four:
-{{c|1106|Cockle}} to explore,
-{{c|1107|Myidus}} strong and true,
-{{c|1108|Adapa}} to pursue
-
-His dreams, and {{c|95|Venus}} fair
-Who danced without a care
-Throughout the ocean blue
-Where all her children grew.
-
-{{c|1106|Cockle}} had a son
-Who when his work was done
-Became ancestor grand
-Of giant clams so grand
-
-That dwarf all others who
-Have tried to make it through
-The trials of the sea
-With their enormity.
-
-{{c|1107|Myidus}} bore three sons:
-{{c|1109|Zebra}} when day begun,
-{{c|1110|Softshell}}, gentle, mild,
-And {{c|1111|Teredo}}, problem child
-
-Known as sea termite
-Who brought shipwrights' fright
-By boring holes in wood
-Of ships where sailors stood.
-
-{{c|1109|Zebra}} {{c|1112|Mussels}} spread
-Wherever they were led
-By currents through the sea
-In their community.
-
-{{c|1110|Softshell}} clams would hide
-Beneath the sandy tide
-Where they could safely dwell
-Within their softened shell.
-
-{{c|1108|Adapa}} begat two:
-{{c|1113|Geodoros}}, tried and true,
-{{c|922|Ancestor}} of the race
-Of {{c|1114|Geoducks}} in their place
-
-Beneath the sandy shore
-Where they forevermore
-Would dig their burrows deep
-While surface waters sweep
-
-Above their hiding spots
-Connected by their lots
-To life beneath the sand
-Throughout the ocean land.
-
-And {{c|1115|Razoron}} became
-{{c|922|Ancestor}} of the name
-Of {{c|1116|Razor}} Shells so sharp
-That cut like ocean's harp
-
-Through sand where they would hide
-When danger came to bide
-Its time until they could
-Emerge where they once stood.
-
-{{c|95|Venus}} became the mother
-Of clams like no other—
-{{c|95|Venus}} clams so fair
-That beautify everywhere
-
-They make their gentle home
-Beneath the ocean foam.
-Among her children bright
-She bore one special sight:
-
-{{c|1117|Corbiculacea}}, who
-Would make her passage through
-From salt to waters fresh
-And there her line refresh
-
-As ancestress so true
-Of freshwater clams who
-Live in rivers wide
-With current as their guide.
-
-{{c|691|Brachios}} begat three
-Sons for history:
-Three houses he would make
-For brachiopods' sake.
-
-{{c|1118|Lingulus}} the tailed
-Was he who never failed
-To be conservative
-In all he'd ever give
-
-To innovation's call—
-{{c|1119|Archconservative}} of all
-Within the house so grand
-Of {{c|691|Brachios}}' command.
-
-{{c|1118|Lingulus}}, son of him
-With the same name, would trim
-Nothing from tradition
-In his life's mission.
-
-He maintained the way
-Of all the ancient day
-To its fullest measure
-Like some sacred treasure
-
-That must not be changed
-Or ever rearranged
-But kept just as it was
-According to the laws
-
-Of his forefathers who
-Had tried their whole life through
-To keep the ancient way
-Until their dying day.
-
-{{c|1120|Discinidus}} his son
-Was smaller when begun
-His life, and more like clam
-Than traditional lamb
-
-Of brachiopod design
-That had been so fine
-For millions of years past
-And built to always last.
-
-{{c|1118|Lingulus}} serpentine
-Showed his noble line
-That stretched through time so long
-Like some eternal song
-
-That never changed its tune
-From morning until noon
-And on through all the night
-Until the morning light.
-
-{{c|1121|Calciatus}} begat
-Two sons: first he begat
-{{c|1122|Craniidus}}, who'd never
-Have a tail, but ever
-
-Live without that sign
-Of his ancestral line,
-And {{c|1123|Articulus}}, who
-Built cheap but built true
-
-His children without thought
-Of what tradition brought:
-He built them lacking parts
-That touched their parents' hearts.
-
-Without anuses, they
-Were blobs throughout the day
-That couldn't swim at all
-But answered metamorphosis' call
-
-In just an instant's time
-To change their paradigm
-From blob to something more
-Upon the ocean floor.
-
-The sons of {{c|1123|Articulus}}
-Were numerous and thus
-A formidable force
-Against the {{c|1124|Bivalve}} course
-
-Of conquest through the seas
-Where they did as they please
-And took what they could take
-For their own kingdom's sake.
-
-But as these two great hosts—
-The {{c|870|Bivalves}} and their boasts
-Against {{c|854|Brachiopods}} old
-Whose stories have been told
-
-For ages without end—
-Fought on without a friend
-To mediate their war
-From mountain peak to shore,
-
-A new threat came to light
-More terrible than night,
-More fearsome than the grave,
-More deadly than the wave
-
-That crashes on the rocks
-And all life's progress blocks.
-A threat greater than any
-Could imagine—not many
-
-Could comprehend the scope
-Of what would end all hope
-For life upon the earth
-And stop all future birth.
-
-From {{c|868|Bivos}}' innovation
-Came this radiation
-Of forms both strong and true
-That filled the ocean blue.
-
-From {{c|691|Brachios}}' ancient way
-That lasted day by day
-Through eons without change
-Came forms throughout the range
-
-Of ocean's vast expanse
-In evolutionary dance
-Where old meets new in strife
-Throughout the course of life.
-
-The war between the two
-Would see which vision through
-The trials of the time
-Would earn the victor's rhyme.
-
-Would innovation's art
-Or tradition's faithful heart
-Prove stronger in the end
-When time would finally send
-
-Its judgment on them all
-Who answered battle's call
-In this ancient war
-From mountain peak to shore?
-
-The {{c|870|Bivalves}} with their new
-{{c|1125|Forms}} tried and tested true
-Through struggle and through pain
-Sought evolutionary gain.
-
-The {{c|854|Brachiopods}} held fast
-To wisdom of the past
-That served their ancestors
-Through time's great tests and spurs.
-
-Both strategies had worth
-Upon this ancient earth
-Where life must find its way
-Through each and every day
-
-Of challenge and of change
-Throughout evolution's range
-Where only those survive
-Who keep their hope alive.
-
-In every oyster's pearl
-And every scallop's swirl
-Through waters of the sea,
-In every clam's spree
-
-Of filter-feeding pure
-And every form that's sure
-Of its appointed place
-In evolution's race,
-
-The legacy lives on
-From dusk until the dawn
-Of this ancient war
-From mountain peak to shore
-
-Between the old and new,
-Between the tried and true
-And innovation's call
-That beckons one and all
-
-To risk what they have known
-For something yet unshown
-But promised by the hope
-That helps all life to cope
-
-With changes yet to come
-When all wars are done
-And peace reigns over all
-Who answered life's great call.
-
-The {{c|1126|Spiralian}} war
-From mountain peak to shore
-Shows how life finds its way
-Through each and every day
-
-Of struggle between those
-Who choose what each one knows:
-The safety of the past
-Or future's die being cast
-
-Into the unknown deep
-Where new forms always keep
-Their vigil through the night
-Until the morning light
-
-Reveals what time has brought
-To those who never fought
-But those who fought so well
-Have their own tale to tell
-
-Of courage in the face
-Of evolution's race
-Where winners and losers
-Are both faith's choosers
-
-Who believed in their way
-Through each and every day
-Of this eternal strife
-That defines all life.
-
-But as the new threat rose
-Beyond what each one knows
-Or could imagine then,
-The war of mice and men
-
-Would pale beside the force
-That changed life's very course
-And brought to its end
-An age that none could mend.
-
-The greatest war would fade
-Before what time had made
-Of challenges so vast
-That nothing from the past
-
-Could prepare them for
-What waited at the door
-Of their complacent world
-Where banners once unfurled
-
-In triumph would be furled
-Forever in the world
-That was about to change
-Beyond familiar range.
+This is the story that is told of war,
+Of war both new and old, and of the score
+Among the {{c|1092|Spiralians}}, and among
+The ancient plans they made when life was young.
+
+This is the saga, and the saga's great,
+Of war, and love, and of the hand of fate:
+The {{c|854|Brachiopods}}, and so many more,
+The {{c|870|Bivalves}}, and the two of them at war.
+
+The ancient house, so proud, so long revered,
+Of {{c|854|Brachiopods}} cried loud; it appeared
+That they had found themselves now sorely pressed;
+On all sides they were hemmed in and distressed
+
+Pressed by the rising {{c|870|Bivalves}}, who were strong,
+Who'd waited, as they thought, for far too long
+To claim what was their rightful, proper place
+In evolution's long and endless race.
+
+{{c|868|Bivos}}, who fished with care, and who would feed
+From his two shells so fair, would shed his need,
+And shed his radula, as one might shed
+Some formula outworn, no longer read,
+
+That served no longer as it served before
+His lineage, preserved for evermore.
+And so it was that, when the day begun,
+He took upon himself, the only one,
+
+A form completely new, a form untried,
+That none before him knew, or had applied.
+And his anatomy would come to show
+How every innovation comes to grow
+
+From ancient forms to new, when time has seen
+The struggles through, and all that lies between,
+Until their own appointed end, when they
+Transcend, and the new forms will hold their sway.
+
+And {{c|868|Bivos}} bore a son and daughter, when
+His lineage begun among the men:
+The son was {{c|1093|Peter}}, who was very strong,
+The daughter {{c|805|Aphrodite}}, and her song.
+
+{{c|805|Aphrodite}} became, through all her days,
+The {{c|806|Ancestress}} of fame, of all the ways
+Of {{c|872|Oysters}} everywhere, who in their rest
+Lie down without a care, so calm and blessed,
+
+Upon the deep and sandy ocean floor
+From every mountain peak to every shore,
+Creating pearls that are so very bright
+They fill up all the world with their own light.
+
+{{c|1093|Peter}} bore many sons, and when the work
+Of theirs was done, and they had come to shirk
+No labor, they were known both far and wide
+As the {{c|1094|Trigonians}}, and with their pride.
+
+But there would come a day, a day of war,
+When war would find its way, as once before,
+To {{c|1093|Peter}}'s children, one and all of them;
+A massacre would fall, and would condemn
+
+His sons, his sons so very dear to him.
+But one of them escaped the spear so grim
+Of death: brave {{c|1095|Unus}} fled away, and red
+With danger was the day from which he fled.
+
+And he became the ancestor, the source,
+Of river mussels; for, along its course,
+His lineage would live, and it would dwell
+Where all the rivers always rise and swell
+
+With waters that are fresh and that are pure,
+And waters that will always still endure
+Throughout the many years that will unfold,
+When all the battles have been fought and told.
+
+{{c|1093|Peter}}, who is the {{c|1096|Keeper}} of the {{c|1097|Gates}},
+So {{c|1098|Pearly}}, never hates, and never waits,
+But stands and he defends us, one and all,
+All of the ones who answer heaven's call.
+
+And from the river mussels there will come
+The river pearls, and there are some, yes, some
+That are such treasures, treasures beyond price,
+That gleam and shine as if from paradise.
+
+His sons live lives so very strange and new,
+Where contradiction thrives, and both are true:
+As lice on fish they live when they are young,
+But when the song of youth is fully sung,
+
+In elderhood they settle down and rest
+On rocks, just like a treasure and a chest
+Of pearls that gleam and glitter, very bright,
+With heaven's holy and its shining light.
+
+{{c|805|Aphrodite}} became, in her own name,
+The Mother, too, of great and lasting fame,
+Of {{c|1099|Pearls}} and of the {{c|872|Oysters}}, for these too
+Were children of her own, both tried and true.
+
+Among her daughters, and among them all
+Who answered to the ocean and its call,
+She bore three sons, unique in all the seas:
+{{c|1100|Scallon}}, so bold and sleek, the first of these,
+
+And {{c|1101|Spinos}}, who was armor-clad and strong,
+And {{c|927|Pyros}}, never sad, but all along
+Was flaming with the burning of the fire
+Which blazed from out of his heart's desire.
+
+And these were then the {{c|1102|Scallops}}, shining bright,
+The {{c|1103|Spiny}} {{c|872|Oysters}}, armored in their might,
+And the {{c|1104|Flame}} {{c|1102|Scallops}} that will dance and glide
+In ocean's great expanse, so deep and wide.
+
+{{c|1100|Scallon}} had a million eyes, and so he
+Saw out beneath the ocean skies, to see
+What all the others missed, and missed so long,
+And never to be tricked, or be led wrong,
+
+By predators who'd try, with every snare,
+To catch him unawry, and unaware.
+And great and bountiful, he swam away,
+So dutiful, and dutiful each day,
+
+Away from dangers that would haunt him there,
+Like how a cat will haunt, with every care,
+Its prey; but he was free, so very free
+To roam about across the open sea.
+
+And {{c|1105|Clammon}} was the son of {{c|868|Bivos}} when
+His work begun, and he began again
+His work to populate, and populate
+The seas with forms that were so very great.
+
+{{c|1105|Clammon}} begat four sons, and these were they:
+{{c|1106|Cockle}}, who would explore and find his way,
+{{c|1107|Myidus}}, who was very strong and true,
+{{c|1108|Adapa}}, who would follow and pursue
+
+His dreams; and {{c|95|Venus}} was a daughter fair,
+Who danced on through the sea without a care
+Throughout the waters of the ocean blue,
+Where all her children grew, and as they grew.
+
+{{c|1106|Cockle}} then had a son, and when the work
+Of his was done, he came, and did not shirk,
+To be the ancestor, so great and grand,
+Of giant clams, so grand in all the land,
+
+That they will dwarf all others who have tried,
+Who tried to make it through the sea so wide
+And through the trials of the sea's long test,
+With their enormity, which beats the rest.
+
+{{c|1107|Myidus}} bore three sons: when day begun
+{{c|1109|Zebra}} came, and {{c|1110|Softshell}}, the gentle one,
+So mild, and {{c|1111|Teredo}}, the problem child,
+Who was the one so wayward and so wild,
+
+Known as the sea termite, the one who brought
+The shipwrights fright, and all the fright they fought,
+By boring holes into the planks of wood
+Of ships, the ships on which the sailors stood.
+
+The {{c|1109|Zebra}} {{c|1112|Mussels}} spread, and spread out far,
+Wherever they were led, as mussels are,
+By currents through the waters of the sea
+In their community and company.
+
+The {{c|1110|Softshell}} clams would go away and hide
+Beneath the sand, beneath the sandy tide,
+Where they could safely live, and safely dwell
+Within their soft and softened, gentle shell.
+
+{{c|1108|Adapa}} begat two sons: one was named
+{{c|1113|Geodoros}}, tried and true, and he was famed,
+{{c|922|Ancestor}} of the race, and of the line
+Of {{c|1114|Geoducks}} in their place, in their design,
+
+Beneath the sandy shore, where, as they keep,
+They would for evermore dig burrows deep,
+While all the surface waters sweep and run
+Above their hiding spots, each hidden one,
+
+Connected by their lots, and by their own,
+To life beneath the sand, where they have grown
+Throughout the ocean land, and all its floor,
+From shore to sandy shore, and evermore.
+
+And {{c|1115|Razoron}} in his own turn became
+{{c|922|Ancestor}} of the name, and of the fame,
+Of {{c|1116|Razor}} Shells, which are so very sharp
+That they will cut, as cuts the ocean's harp,
+
+Through sand, where they would go away and hide
+Whenever danger came to them to bide
+Its time, until the time they once more could
+Emerge into the place where once they stood.
+
+{{c|95|Venus}} became the mother, in her days,
+Of clams like no other in all their ways:
+The {{c|95|Venus}} clams, so beautiful and fair,
+That beautify the waters everywhere
+
+That they will make their soft and gentle home
+Beneath the white and drifting ocean foam.
+Among her children, all of them so bright,
+She bore one special one, one special sight:
+
+{{c|1117|Corbiculacea}}, who would one day
+Make her own passage through, and make her way
+From salt to waters fresh, and there refresh
+Her line, and give her lineage new flesh,
+
+As ancestress, so faithful and so true,
+Of the freshwater clams, the ones who do
+Now live in all the rivers, deep and wide,
+With all the current as their only guide.
+
+{{c|691|Brachios}} begat three sons, for history,
+For all of time, and for its mystery:
+Three houses that he would establish, make,
+And build for all the brachiopods' sake.
+
+{{c|1118|Lingulus}}, the tailed one, was he who stood,
+And never failed, as no one ever could,
+To be conservative, and to be so
+In all he'd ever give, and all bestow,
+
+To innovation's call, and all its claim:
+The {{c|1119|Archconservative}} of all who came
+Within the house so grand, and so supreme,
+Of {{c|691|Brachios}}' command, and his regime.
+
+{{c|1118|Lingulus}}, son of him who had the same
+Name as his own, would trim, in all his aim,
+Nothing at all from his own tradition
+In all his days, and all his life's mission.
+
+He kept and he maintained the ancient way
+Of all the ancient and the olden day,
+Unto its fullest measure, and its height,
+Like some most sacred treasure, kept in sight,
+
+That never must be changed, or rearranged,
+Or ever be disturbed, or be estranged,
+But kept just as it was, and as it stood,
+According to the laws, both old and good,
+
+Of his forefathers, who had tried, and who
+Had striven on and tried their whole life through
+To keep the ancient way, the way of old,
+Until their dying day, as they were told.
+
+{{c|1120|Discinidus}}, his son, when he begun
+His life, was smaller, and more like the one,
+The clam, than the traditional lamb's kind
+Of brachiopod design, well refined,
+
+That had been very fine for all those years,
+For millions of years past, through all their peers,
+And had been built to last, to always stay,
+And last for evermore, and not decay.
+
+{{c|1118|Lingulus}}, serpentine, so long and lean,
+Showed forth his noble line, as it was seen,
+That stretched through time so long, so very long,
+Like some eternal and unchanging song,
+
+That never changed its tune, and never strayed,
+From morning until noon, from light to shade,
+And on through all the night, the whole night through,
+Until the morning light and morning's dew.
+
+{{c|1121|Calciatus}} begat two sons: and first
+He begat {{c|1122|Craniidus}}, who, at worst,
+Would never have a tail, but evermore
+Would live without the sign his fathers bore,
+
+Without that sign of his ancestral line;
+And {{c|1123|Articulus}}, who built, by design,
+His children cheaply, but who built them true,
+Without a thought of what tradition knew:
+
+He built them without thought of all that came,
+Of what tradition brought, and of its name:
+He built them lacking parts that would impart
+What touched their parents' hearts, and each one's heart.
+
+Without their anuses, the young ones lay
+Like blobs that floated all throughout the day,
+That could not swim at all, but, when they heard
+Metamorphosis' call, the waited word,
+
+And in an instant's time, a single breath,
+Would change their paradigm, not unto death,
+But change from blob to something more and new,
+Upon the ocean floor, so deep and blue.
+
+The sons of {{c|1123|Articulus}}, too, were then
+So numerous, and thus, like mighty men,
+Became a formidable, mighty force
+Against the {{c|1124|Bivalve}}'s course, the bivalve's course
+
+Of conquest through the waters of the seas,
+Where they would do whatever they would please,
+And take whatever they were apt to take
+For their own kingdom's sake, and for its sake.
+
+But as two great hosts, two rival powers,
+The {{c|870|Bivalves}} and their boasts through all the hours
+Against the {{c|854|Brachiopods}}, old and gray,
+Whose stories have been told until this day
+
+For ages without end, fought on, and none
+Could find a friend to mediate, not one,
+To come between them and to end their war,
+From every mountain peak to every shore,
+
+A new threat came to light, a threat more dire
+And terrible than night, more fierce than fire,
+More fearsome than the dark and open grave,
+More deadly than the cold and breaking wave
+
+That crashes on the rocks with all its weight,
+And all life's progress blocks, and seals its fate.
+A threat that was greater than any mind
+Could imagine; and few of any kind
+
+Could ever comprehend the scope and size
+Of what would end all hope beneath the skies
+For life upon the earth, and in its wake
+Would stop all future birth for ages' sake.
+
+From {{c|868|Bivos}}' innovation came, in turn,
+This radiation, as the seas would learn,
+Of forms both strong and true, in every hue,
+That filled and crowded all the ocean blue.
+
+From {{c|691|Brachios}}' ancient way, which held its ground
+And lasted day by day, the eons round,
+Through eons without change, came forms that spread
+Throughout the range of every ocean bed,
+
+Of all the ocean's vast and wide expanse,
+In evolution's slow and ancient dance,
+Where old will meet with new in war and strife
+Throughout the whole and all the course of life.
+
+The war between the two would come to see
+Which vision would come through, and which would be,
+Through all the trials of that ancient time,
+The one to earn the victor's crown and rhyme.
+
+Would innovation's art, the new and bold,
+Or would tradition's faithful heart of old
+Prove stronger in the end, when time would come
+And send at last its judgment on the sum
+
+Of all of them, on each and every one
+Who answered battle's call when war begun,
+In this most ancient war, in this long fight,
+From mountain peak to shore, by day and night?
+
+The {{c|870|Bivalves}}, with their new {{c|1125|Forms}}, which were made
+And tried and tested true, and not afraid,
+Through struggle and through pain, and through their strife,
+Sought evolutionary gain for life.
+
+The {{c|854|Brachiopods}} held fast, held on tight,
+To wisdom of the past and to its light,
+Which served their ancestors in former years
+Through time's great tests and spurs, and all its fears.
+
+And both the strategies had worth and weight
+Upon this ancient earth, in its estate,
+Where life must find its way, and make it through
+Through each and every day, both old and new,
+
+Of challenge and of change, of sun and storm,
+Throughout evolution's range, in each form,
+Where only those survive, and those endure,
+Who keep their hope alive, and keep it sure.
+
+In every oyster's pearl, so smooth and white,
+And every scallop's swirl, so swift and light,
+Through all the waters of the open sea,
+In every clam's own spree and jubilee
+
+Of filter-feeding, quiet, clean, and pure,
+And every form that's sure, and will be sure,
+Of its appointed place, its given part
+In evolution's race and in its art,
+
+The legacy lives on, and it remains
+From dusk until the dawn, through all the plains
+Of ocean, of this ancient war, which went
+From mountain peak to shore, the whole extent,
+
+Between the old and new, the old and young,
+Between the tried and true and songs unsung,
+And innovation's call, which, as it calls,
+Will beckon one and all beyond their walls
+
+To risk what they have known, and what they kept,
+For something yet unshown, while others slept,
+But promised by the hope, the hope that still
+Helps all of life to cope with good and ill,
+
+With changes yet to come, when wars will cease,
+When all the wars are done, and there is peace,
+And peace at last will reign over them all,
+The ones who heard and answered life's great call.
+
+The {{c|1126|Spiralian}} war, and all its strife,
+From mountain peak to shore, shows how all life
+Will always find its way, and make its own,
+Through each and every day, through flesh and bone,
+
+Of struggle between those who make their choice,
+Who choose what each one knows, and each one's voice:
+The safety of the past and of its kin,
+Or future's die, now cast and thrown therein,
+
+Into the deep unknown, the unknown deep,
+Where new forms, all alone, will always keep
+Their vigil through the night, the long and dark,
+Until the morning light will light its mark
+
+And show what time has brought to all the ones
+Who never fought, and to the fighting sons;
+But those who fought so well, and fought so hard,
+Have their own tale to tell, their own regard,
+
+Of courage in the face of all that came,
+Of evolution's race and all its game,
+Where winners and where losers, all of these,
+Are both faith's choosers, choosing as they please,
+
+Who all believed in their own way, and stood
+Through each and every day as best they could
+Of this eternal and this endless strife
+That shapes and that defines the whole of life.
+
+But as the new threat rose up, vast and high,
+Beyond what each one knows, beneath the sky,
+Or could imagine then, or comprehend,
+The war of mice and men would meet its end
+
+And pale beside the force, the greater might
+That changed life's very course, and brought the night,
+And brought it to an end, an age of old,
+An age that none could mend, as it is told.
+
+The greatest war would fade, and pass away
+Before what time had made, and on that day
+Brought forth, of challenges so very vast
+That nothing from the past, however vast
+
+In memory, prepared them for the thing
+That waited at the door, and that would bring
+An end to their complacent world, where high
+The banners once unfurled against the sky
+
+In triumph would be folded, taken down
+Forever in the world, both field and town,
+The world that, as it stood, about to change,
+Would change beyond all good, beyond its range.
