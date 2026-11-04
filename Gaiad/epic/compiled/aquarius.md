@@ -3,19 +3,19 @@
 
 # Chapter 57: The Vertebrate {{c|90833|Houses}}
 
-This is the book that tells of generations blessed
-And lineages of {{c|1495|Janus}} glorious and bright,
+This book tells of the generations blessed
+Of {{c|1495|Janus}}' lines, so glorious and bright,
 Of how three houses came to rule and rest
-As pillars in evolution's sacred sight.
+As pillars set in evolution's sight.
 
 {{c|1421|Janusicthus}} begat two sons of fame:
-First {{c|1496|Kondricthus}}, noble, strong, and true,
+The first, {{c|1496|Kondricthus}}, noble, strong, and true,
 And bright {{c|1493|Osticthus}}, bearer of the name
 Of those who'd find their home in waters blue.
 
-As they lived beneath the ocean's foam
-Their waters came to be a toxic waste,
-Suffocating, wild—no place for home
+And as they lived beneath the ocean's foam
+Their waters turned to waste, a toxic place,
+Suffocating and wild—no place for home
 Where any child could grow with gentle grace.
 
 One day they prayed with all their faithful might
@@ -29,7 +29,7 @@ Then waited for reply beneath the {{c|1497|Christ}}
 Of stars that blessed their prayer throughout the nights.
 
 And great {{c|271|Elohim}} spoke to faithful men:
-"I shall grant to one of you this day
+"I now shall grant to one of you this day
 A gift both strange and true beyond your ken:
 The sight to see the stars' eternal ray
 
@@ -41,42 +41,42 @@ A nose to smell the scents by which you'll live—
 All chemicals that flow through all you'll know
 Of life's experiments in earth and sea
 Will be revealed that you might learn and grow
-In wisdom's ways through all eternity."
+In wisdom's ways, as you were meant to be."
 
 Great {{c|1498|Chondricthus}} declared with royal pride:
 "As eldest I shall make the choice today—
 The nose I'll take to be my faithful guide
 To rule the boundless sea in every way.
 
-I'll hunt the placoderms with scenting power
-And conquer all their spirit of resistance
+I'll hunt placoderms with scenting power
+And conquer all their will of resistance
 Throughout each day and every passing hour
 With skill that knows no limits or distance."
 
-And so he was granted then and there
+And so the gift was granted then and there
 A nose beyond compare in all the world:
 A thousand scents could tell his story fair
 Of how his hunting banners were unfurled.
 
-But bright {{c|1493|Osticthus}} received instead
-What blessed his lineage through all time:
+But the bright {{c|1493|Osticthus}} received instead
+What blessed his lineage through all of time:
 A ring of bone around his eyes that led
-To vision clear and sight so sublime.
+To vision clear, and sight that was sublime.
 
 The lens that held his sight within its sphere
 And cells both new and bright beyond compare:
 Cone cells that could detect each color clear
 And all the hues that dance upon the air
 
-To perfect his vision of the world
+To make perfect his vision of the world
 Where possibilities in beauty dwell
 In every shade and hue that light unfurled
 With stories that his children yet would tell.
 
-And so the noble sons of bright sight
+And so the noble sons who came from bright
 {{c|1493|Osticthus}} learned to rule by vision clear
-While mighty sons of {{c|1496|Kondricthus}}' might
-Ruled by the scents that they could always hear.
+While mighty sons born of {{c|1496|Kondricthus}}' might
+Ruled by the scents that drifted far and near.
 
 Great {{c|1498|Chondricthus}} could smell from waters far
 Sweet streams that called like some celestial star
@@ -86,16 +86,16 @@ To waters that would be his future home.
 While bright {{c|1493|Osticthus}} with his gifted eyes
 Could see the clean air, bright and crystal free,
 Of heaven high above the earth that lies
-Beneath the dome of blue eternity.
+Beneath the dome of blue, wide as the sea.
 
-He saw the noble sons of {{c|732|Arthropus}}
-Who'd made their blessed home upon the land
+He saw {{c|732|Arthropus}}' sons, so glorious,
+Who had made their blessed home upon the land
 That they had built with work victorious
 And shaped it with their own creative hand.
 
-{{c|664|Acanthus}}, noble son of {{c|1498|Chondricthus}},
+{{c|664|Acanthus}}, son of {{c|1498|Chondricthus}}, the bright,
 When all his youthful training days were done
-{{c|1499|Challenged}} the mighty realm so glorious
+{{c|1499|Challenged}} the glorious realm and its might
 Of {{c|1500|Placoderms}} beneath the blazing sun.
 
 He built a skeleton both strong and light
@@ -103,59 +103,59 @@ Not made of bone but built upon the base
 Of cartilage both soft yet filled with might
 That served him well through all his time and space.
 
-His blessed wife would lay just precious few
+His blessed wife would lay but a precious few
 {{c|1501|Eggs}} that were treasures, tried and tested true,
 That they would care for with their love so new
 Both day and night until their time was due.
 
-One blessed day {{c|1493|Osticthus}} swam his way
-Up great {{c|1502|Elivagar}}'s sacred stream—
+Then one blessed day {{c|1493|Osticthus}} swam his way
+Up the great {{c|1502|Elivagar}}'s sacred stream—
 The river we now know as the display
 Of {{c|1492|Mississippi}}'s power and her dream
 
-And {{c|1503|New}} {{c|1297|River}} too, where waters pure
+And up {{c|1503|New}} {{c|1297|River}} too, where waters pure
 Would lead him to his destined, faithful fate
 At heaven's gate where all things shall endure
 Through love that time can never desecrate.
 
 {{c|1493|Osticthus}} learned to breathe the sacred air
-Through spiracles with reverent, loving care,
+Through spiracles with reverence and care,
 As he opened his cheeks beyond compare
 To find what every seeking spirit's prayer
 
 Would lead him to discover in the deep
 Of wisdom's well that never shall run dry,
 And then he pushed the air he'd learned to keep
-Down his throat like crown worn from the sky.
+Down through his throat like crown worn from the sky.
 
 And so his spiracles became the door
 For air, not water's flow, to enter in—
-A change that helped him grow much more
+A change that helped him grow and gain much more
 Than he had ever dreamed that he could win.
 
 The noble sons of bright {{c|1493|Osticthus}} sing
 Their hymns of victory and sacred praise
-Of great {{c|1502|Elivagar}}'s power that would bring
+Of {{c|1502|Elivagar}}'s power that would bring
 Their hearts the sight of home through all their days
 
 In mountains ancient where their song rings clear
-And life is old and deep beyond all measure
-And memories keep their vigil year by year
-Despite all joys and fears that time can treasure.
+And life is old and deep past all measure
+And memories keep vigil year by year
+Despite the joys and fears time can treasure.
 
 {{c|1493|Osticthus}} married fair {{c|1504|Eutelea}} bright,
 Beyond compare in beauty and in grace,
-And in their blessed home filled with delight
+And in their blessed home, all filled with delight
 Together in their sacred dwelling place
 
 They bore two sons both noble, tried, and true:
-{{c|1505|Actinus}} and great {{c|1506|Sacropter}}'s name,
+{{c|1505|Actinus}}, and the great {{c|1506|Sacropter}}'s name,
 Each destined for a chapter to pursue
 In evolution's book of lasting fame
 
 Where those who dare to look with faithful eyes
 Can see what time has wrought through patient years
-And what their faithful choices comprised
+And what their faithful choices would comprise
 Of joy and hope beyond all mortal fears.
 
 Great {{c|1506|Sacropter}} saw the potential bright
@@ -170,21 +170,21 @@ Strong bony fins with tender, loving care
 
 To bear his weight as he would gently push
 Through forest's leafy, green, and sacred bush
-With lobed fins strong and wide that were his guide
-Through waters where the blessed spirits dwell.
+With lobed fins strong and wide to be his guide
+Through waters where the blessed spirits abide.
 
-While bright {{c|1505|Actinus}} could clearly see
+While the bright {{c|1505|Actinus}} could clearly see
 That air's sweet harmony within his form
 Could give him power to be truly free
 And weather any fierce and bitter storm.
 
-His lung became the blessed, sacred way
-To float with grace throughout the livelong day:
+His lung became the blessed and sacred way
+To float with grace throughout the whole long day:
 A swim bladder so light it caught each ray
 Of sun that blessed his bright and shining way.
 
 Of conquest in the sea he'd dream each night,
-He went on to become the blessed king
+And he went on to become the blessed king
 Of {{c|1507|Baltic}}'s realm with fins that caught the light
 Like rays of hope that make the angels sing
 
@@ -219,9 +219,9 @@ His reign with scenting power to pursue
 His calling underneath the blazing sun.
 
 These three became the fathers of the lines
-That nothing in the world could ever bother:
+That not a thing in the world could smother:
 The three great vertebrate houses' designs
-Of father, son, and spirit-brother.
+Of father, son, and the spirit-brother.
 
 From {{c|1495|Janus}}' legacy through all of time
 The vertebrates would show in reason, rhyme
@@ -229,7 +229,7 @@ How families can grow from humble start
 To rule with wisdom's everlasting art
 
 The waters and the land with faithful hand
-Built by their own creative, loving spirit
+Built by their creative spirit's merit
 That helps them all to truly understand
 What those with faith can always inherit.
 
@@ -258,9 +258,9 @@ To eyes that see the light of stars above,
 The gifts that heaven gave to those who please
 The heart of {{c|472|God}} with faith and perfect love
 
-Show us the way to live both faithfully
-And free in asking for the aid we need
-When overwhelmed by life's complexity
+Show us the way to live in faith, and be
+Both free in asking for the aid we need
+When life's complexity is all we see,
 Beyond what we can do by word or deed
 
 Alone, but heaven always knows the way
@@ -275,7 +275,7 @@ By heaven's everlasting, perfect love,
 
 The vertebrates remind us that the mind
 That seeks beyond the small will always find
-The call of something greater than what man
+The call of something more than mortal hand
 Can ever comprehend or understand
 
 Alone, but grace reveals to those who pray
@@ -298,17 +298,17 @@ When heaven blessed his children with divine
 And sacred gifts show us that every choice
 To lift in prayer our faithful, seeking voice
 
-For what we need will plant a blessed seed
+For what we need will plant a holy seed
 That grows beyond our sight to meet our need
-In ways we never dreamed were possible
-When we thought we were responsible
+In ways we never dreamed that we would see
+When we believed that we for all must be
 
-For everything alone, but heaven's grace
+Responsible alone; but heaven's grace
 Reveals to us our true and destined place
 In love's eternal plan for you and me
-Through all the days of our eternity.
+Through all the days of all that is to be.
 
-From great {{c|1502|Elivagar}}'s sacred, flowing stream
+From {{c|1502|Elivagar}}'s sacred, flowing stream
 To all we'll ever know of heaven's dream
 Of home where we belong in wisdom's song,
 The vertebrates have traveled far and long
@@ -319,18 +319,18 @@ That sees with eyes made clear by heaven's light
 Beneath the stars that bless us through the night.
 
 The legacy lives on from dusk to dawn
-In every vertebrate spirit that is drawn
+In every vertebrate soul that is drawn
 To growth beyond the bounds of mortal thought
-To treasures that can never be bought
+To treasures that can never once be bought
 
 With earthly coin but only with the prayer
 Of faithful hearts who know that heaven's care
 {{c|1511|Extends}} to all who seek to truly be
-More than they seem through all eternity.
+More than they seem, and through the ages free.
 
 From {{c|1495|Janus}} to the three great houses blessed,
 We see how prayer and faith when they're expressed
-Together can free the seeking, faithful mind
+Together free the seeking, faithful mind
 And help the heart true peace and wisdom find
 
 Beyond what we can know through strength alone,
@@ -344,41 +344,41 @@ The limits of our small and mortal sight,
 But heaven lifts us to eternal light
 
 Where every dream comes true for you and me
-Through love that reigns through all eternity
+Through love that reigns, and that will ever be,
 And makes us more than we could ever be
 Through grace that sets our captive spirits free.
 
 
 # Chapter 58: The {{c|90834|Fungal}} Kingdom
 
-{{c|1512|Dikar}} lived as parasite upon the sons
-Of {{c|322|Plantus}} bright, from lineage of great fame,
-The twentieth in line when day begun
+{{c|1512|Dikar}}, a parasite, lived on the sons
+Of {{c|322|Plantus}} bright, from line of noble fame,
+The twentieth in line, as the count runs,
 From {{c|1203|Freyr}} and {{c|1202|Hera}}'s marriage blessed by name.
 
 With two nuclei strong throughout his days
-He lived his whole life with both power and might,
+He lived his life with both power and might,
 Through darkness and in glory's golden rays
 Both day and through the blessed, eternal night.
 
-{{c|1512|Dikar}} married {{c|1513|Ferma}} fair and true,
-Together they became a blessed pair
+{{c|1512|Dikar}} then married {{c|1513|Ferma}}, fair and true;
+Together they became a holy pair
 Who bore two sons of fame before they knew
 Their lives would spread throughout the earth and air.
 
 {{c|1514|Ascus}} and {{c|1515|Baston}} were their children's names,
 Both parasites alike upon the sons
 Of {{c|322|Plantus}}, where they'd strike like burning flames
-And take what served their needs when day begun.
+And take what served their needs, like thieving ones.
 
-{{c|1514|Ascus}} became the father of {{c|1516|Cup}} {{c|908|Fungi}},
+{{c|1514|Ascus}} sired {{c|1516|Cup}} {{c|908|Fungi}}, whom we've seen,
 And rather than pursue some other way
 He chose to rule where forest floor grows green
 And stay within his realm throughout the day.
 
-{{c|1515|Baston}} became the noble sire of those
+{{c|1515|Baston}} became the father of all those
 Who rise as mushrooms from the forest ground,
-Their choir of voices singing as they rose
+Their chorus singing gladly as they rose
 From here forevermore with joyful sound.
 
 {{c|1514|Ascus}} begat two sons of different ways:
@@ -406,22 +406,22 @@ With pneumocystis when our guards grow weak,
 When our defenses fail through loss or strain
 From what we ought to fear but do not seek.
 
-{{c|1518|Saccharos}}, noble son of great {{c|1514|Ascus}},
+{{c|1518|Saccharos}}, {{c|1514|Ascus}}' son, as told to us,
 Abandoned what his father's way begun
 And chose a path less parasitic, thus
 He found a different way when day was done.
 
-He left the darkness of parasitism
+He left the darkness of the parasite
 And its bitter, cold, and narrow prison
-To live within the soil, free from the schism
-Of stealing from others what they had risen
+To live within the soil, free from the blight
+Of stealing what the others had risen
 
-To create through their own faithful labor,
+To make by their own faithful behavior,
 {{c|1518|Saccharos}} bore two sons in days of old:
-{{c|1519|Peziz}} at dawn and {{c|1520|Melchizedek}}, savior
+{{c|1519|Peziz}} at dawn, {{c|1520|Melchizedek}}, savior
 Whose story must forever more be told.
 
-Great {{c|1520|Melchizedek}} became a humble cell:
+{{c|1520|Melchizedek}} became a humble cell:
 A yeast both small and true who'd do great things,
 His sons budded from him, and though some tell
 That such simplicity no glory brings,
@@ -442,48 +442,48 @@ And draws down grace and mercy from above
 Through his eternal love that will not die.
 
 {{c|1519|Peziz}} bore countless sons throughout his days,
-Among them {{c|1521|Lopez}} bright and {{c|1522|Orbillus}}
+Among them {{c|1521|Lopez}} and {{c|1522|Orbillus}}, two
 Who'd walk their own appointed, separate ways
-And serve the world in ways quite glorious.
+And serve the world in ways both great and new.
 
-{{c|1522|Orbillus}} hunted sons of {{c|1523|Nematon}},
+{{c|1522|Orbillus}} hunted each {{c|1523|Nematon}} son,
 He'd eat what made his life complete and whole,
 A worm became his meal when day was done
 And satisfied the hunger of his soul.
 
 But {{c|1521|Lopez}} bore two sons of different hearts:
-{{c|107|Ganymede}} at dawn and {{c|1524|Leotios}}
-Whose glory shows in all their faithful parts
+{{c|107|Ganymede}}, then {{c|1524|Leotios}}, who shows
+Their glory in their faithful, loving parts
 And in the beauty that forever glows.
 
-{{c|107|Ganymede}} became ancestor blessed
+{{c|107|Ganymede}} became the ancestor blessed
 Of cup fungi so bright that fill the world
 With sight for those who seek their very best
-And keep their banners of hope unfurled.
+And keep their banners of hope still unfurled.
 
-But {{c|1524|Leotios}} became the father true
+{{c|1524|Leotios}} became the father true
 Of forms that would much rather complex be
 Than simple—filamentous through and through
 With great complexity for all to see,
 
-But never letting all their intricate ways
+But never letting their intricate ways
 Extend beyond the microscopic scale,
 In their detailed story through all their days
 They keep their fascinating, detailed tale.
 
 {{c|1524|Leotios}} begat two sons of might:
 {{c|1525|Pyrenos}} true and {{c|1526|Lecanius}} the strong
-Who lived his whole life in the blessed light
+Who lived his whole life long in the blessed light
 And sang his faithful, everlasting song.
 
 {{c|1526|Lecanius}} became the noble sire
 Of lichens' choir that we see today
-And more who left that ancient partnership's fire
+And more who left that partnership's old fire
 To take their own appointed, separate way:
 
 {{c|1527|Penicillius}}, who made the blessed cheese
 So blue and never strayed from his true role
-Of healing, bringing bodies their release
+Of healing, bringing bodies back to ease
 With penicillin's power to make whole
 
 The sick and make infections flee in fear
@@ -492,14 +492,14 @@ His gift of healing makes the pathway clear
 To health restored and recovery's sweet sight.
 
 And {{c|1528|Capnos}} became father of the race
-Of those who'd rather live as soot mold does
+Of those who'd rather live as soot molds live
 Throughout each day, and in their dwelling place
-They serve the world with quiet, faithful love.
+They serve the world with faithful love, and give.
 
 {{c|1515|Baston}} begat two sons of different ways:
 {{c|1529|Ortho}} at dawn and bright {{c|1530|Puccini}} too,
 Whose progeny would spend their faithful days
-As rusts with genomes large and life cycles new
+As rusts with genomes large and cycles new
 
 Of great complexity through all their time,
 The rusts show nature's art in every part
@@ -508,7 +508,7 @@ In evolution's grand and wondrous art.
 
 With largest genomes found throughout the ground
 Of fungi everywhere, their cycles rare
-In complexity that knows no earthly bound,
+Complexity that knows no earthly bound,
 They demonstrate how life beyond compare
 
 Can flourish when it learns to play each part
@@ -517,14 +517,14 @@ And serve the world with faithful, loving heart
 That makes all life more beautiful, divine.
 
 {{c|1531|Botry}}, the son of great {{c|1530|Puccini}}'s line,
-Rejected what had been multicellular
-And chose a simpler, more particular
-Design to make his life more pure, divine.
+Gave up the many-celled, and was inclined
+Toward a simpler and particular kind
+Of life, to make his way more pure, divine.
 
 He became yeast who'd live alone in peace
 Within his own appointed, sacred zone
-Where he could find his blessed, sweet release
-From complexity, content to be alone.
+Where he could find his blessed and sweet release,
+Free of complexity, content alone.
 
 {{c|1529|Ortho}} begat two sons of different fame:
 {{c|1532|Ustella}} and {{c|1533|Agaricus}} so bright
@@ -533,7 +533,7 @@ And bless all those who walk within their sight.
 
 {{c|1532|Ustella}} blesses all our corn each hour
 With protein and with taste beyond compare
-That none should waste—her sweet, abundant power
+That none should waste: her abundant power
 Fills harvest time with blessings rich and rare.
 
 Her daughters are the smuts—though some may think
@@ -546,25 +546,25 @@ In what she chose to offer from her store
 Have ever thought them gross, but everywhere
 They bless them and they love them more and more
 
-Each day in their traditional, faithful way.
+Each day in their old, traditional way.
 Her daughters are beloved and adored
 In {{c|1534|Mexico}}, where none would ever say
-A word against the gifts their blessed {{c|295|Lord}}
+A word against the gifts that their blessed {{c|295|Lord}}
 
-Has given through her gracious, generous hand
-When treated with the reverence they deserve
+Has given out through her generous hand
+When treated with the care that they deserve
 And never left neglected in the land
-But honored as they faithfully serve.
+But honored, as they faithfully still serve.
 
-{{c|1533|Agaricus}} left behind the parasitic mind
+{{c|1533|Agaricus}} shed the parasite's mind
 And went to answer desert's lonely call,
-Away from green and tall trees he'd find
+Away from green and from tall trees he'd find
 His home where few would ever come at all.
 
 {{c|1533|Agaricus}} bore four sons of great worth:
-{{c|1535|Jello}} at dawn, {{c|1536|Bartholomew}}, {{c|1537|William}},
+{{c|1535|Jello}} first, {{c|1536|Bartholomew}}, {{c|1537|William}} too,
 And {{c|1538|Gemini}} the twin—throughout the earth
-Four sons who'd never let their light grow dim
+Four sons whose light would never dim, but grew
 
 Against their father's ways through all their days
 But serve with faithful hearts both true and strong
@@ -582,9 +582,9 @@ To hear above the noise and bitter strife
 The song of hope that conquers every fear.
 
 {{c|1535|Jello}} became the father of those bright
-Who'd rather live as {{c|1540|Tremello}} and as
-{{c|1541|Dagar}}'s children in the blessed light
-Where peace and harmony forever pass.
+Who'd rather live the way {{c|1540|Tremello}} would,
+And {{c|1541|Dagar}}'s children, dwelling in the light
+Where peace and harmony have always stood.
 
 {{c|1540|Tremello}} spent his youth as simple yeast
 But found the truth that adulthood would bring
@@ -596,14 +596,14 @@ With sweet delight both day and through the night,
 His gift of beauty floating in the air
 Would fill all hearts with everlasting light.
 
-{{c|1541|Dagar}} became the noble sire of forms
-Whose deep desire was {{c|1542|Dacrum}} and the line
+{{c|1541|Dagar}} became the father of the forms
+Whose desire was {{c|1542|Dacrum}} and the line
 Of great {{c|1533|Agaricus}} through all their storms
 Who'd make their father's legacy divine.
 
-{{c|1540|Tremello}} and {{c|1542|Dacrum}} kept jellyshrooms made
+{{c|1540|Tremello}}, {{c|1542|Dacrum}} kept jellyshrooms made
 From gelatinous fruit that served them well
-Like armor in their bright, eternal parade,
+Like armor in their eternal parade,
 A suit of jel with stories they would tell
 
 Of ancestors so true who came before
@@ -611,24 +611,24 @@ And gave them gifts of jelly fungi new
 That blessed the world from mountain top to shore
 With beauty that would make all hearts ring true.
 
-While great {{c|1533|Agaricus}} made the first display
+While {{c|1533|Agaricus}} made the first display
 Of mushroom's form that none had seen before
 From shore to shore throughout the light of day—
 A gift beyond what any could explore.
 
 The sons of great {{c|1533|Agaricus}} create
-The most glorious mushrooms for our food
+The most glorious mushrooms, food from wood,
 When we are hungry and we cannot wait
-To taste their gifts so blessed and so good.
+To taste their gifts, which are so blessed and good.
 
 But sadly, toads will sit on many there
-And split their toxic ways deep inside
+And split their toxic ways down deep inside
 What once was meant to be our daily care—
 They steal like thieves and in the darkness hide
 
-The goodness that was meant for those who never
+The goodness meant for those who have never
 Bent to evil's poisonous, bitter ways
-Throughout their lives, who would forever
+Throughout their lives, and who would forever
 Live faithfully through all their earthly days.
 
 Eat mushrooms, but beware and never eat
@@ -648,15 +648,15 @@ In battle for survival through the wise
 
 From two nuclei strong throughout life's course
 To forms that last through time's eternal force
-In shapes both small and great that time will bless
-With beauty, truth, and perfect holiness,
+In shapes both small and great that time makes whole
+With beauty, truth, and holiness of soul,
 
 The fungi teach us all who hear their call
 That partnership and love will conquer all
 When blessed by grace that flows from realms above
 And fills our hearts with everlasting love.
 
-From great {{c|1520|Melchizedek}}'s yeast so blessed
+From great {{c|1520|Melchizedek}}'s own yeast, so blessed
 That makes our daily bread for the feast
 Of souls who hunger for the finest, best
 With blessings flowing from the great {{c|1544|High}} {{c|1545|Priest}},
@@ -673,13 +673,13 @@ Their hearts to serve and answer love's sweet call.
 
 From parasitic ways to healing's bright
 {{c|1546|Display}} of penicillin's sacred might
-That makes the sick to see the blessed light
+That lets the sick see once again the light
 Of health restored and everything made right,
 
 The fungi demonstrate how we can change
 Our fate from taking what is not our own
-To healing others throughout the range
-Of gifts with which our lives have grown.
+To healing others all throughout the range
+Of all the gifts with which our lives have grown.
 
 From smuts that bless our corn with taste so fine
 To mushrooms that our tables do adorn
@@ -687,34 +687,34 @@ With flavors that are truly so divine
 That none should waste what makes our feasts adorn,
 
 The fungi fill our world with wonders bright
-That from partnerships so true unfurled
+That from the partnerships so true unfurled
 Between the different forms that unite
 To bless and heal and nourish all the world.
 
 From jellyshrooms that shine like morning dew
 To lichens covering rocks with living green
-The most beautiful that eyes have ever knew,
-The fungi teach us how to make our vow
+The fairest any eyes have come to view,
+The fungi teach us what our vows should mean:
 
-To work with others who share our vision true
+To work with all who share our vision true
 Of world where all can thrive and feel alive
 In partnerships that last from me to you
 And help us all to flourish and to strive.
 
-But we must beware the toxic ways
+But we must all beware the toxic ways
 Of those who spend their dark and bitter days
 {{c|1547|Corrupting}} what is good and pure and right
 Into what steals away our blessed sight
 
-Of truth and beauty, love and harmony,
-The poisoners will face their destiny
+Of truth and beauty, love, and all that's free;
+The poisoners will meet their fate's decree
 When justice comes to make them pay the cost
 For every precious soul that has been lost.
 
 The fungi show us well that those who choose
 To dwell in partnership will never lose
 Their way to brighter, better days ahead
-Where healing is the daily, blessed bread
+Where healing is the daily and blessed bread
 
 And love keeps every heart both warm and true
 In service to the good in me and you
@@ -722,13 +722,13 @@ And every living soul that hears the ring
 Of hope's eternal, everlasting {{c|1162|King}}.
 
 From {{c|1512|Dikar}}'s ancient line to mushrooms blessed
-That nourish and heal, the very best
+That nourish us and heal, the very best
 Remind us we can choose to trust each day
-In love's eternal power to show the way
+In love's eternal might to show the way
 
 With gifts that help us grow beyond our sight
 Alone, but when we share our burden's weight
-The whole world becomes filled with blessed light
+The whole world then becomes filled with blessed light
 Where all can find their truly perfect fate.
 
 From yeast to mushroom cap, the fungi span
@@ -737,14 +737,14 @@ With messages of love from realms above
 That fill our hearts with everlasting love.
 
 When we but dare to see what we can be:
-{{c|1072|Partners}} in the dance of harmony
+{{c|1072|Partners}} in harmony's dance, joined and free
 That conquers death and fear and draws us near
 To feast where love makes everything grow clear.
 
 From simple soil to healing's sacred art,
 The fungi show us each can play their part
-In life's great symphony of possibility
-Where love reigns through all eternity.
+In life's great symphony of what may be,
+Where love will reign through all, forever free.
 
 
 # Chapter 59: The Great Catastrophe
@@ -759,12 +759,12 @@ Where peace and harmony would reign supreme,
 'Twas time of plenty when joy could be found
 Where earth and heaven shared the same sweet dream.
 
-But {{c|1548|Shesha}} the {{c|1549|Actinite}} and {{c|1550|Matsya}} wise
+But {{c|1548|Shesha}} the {{c|1549|Actinite}}, {{c|1550|Matsya}} wise,
 Each saw a vision dread of coming doom,
 With prophetic sight they could recognize
 The shadow that would fill the world with gloom.
 
-All-knowing {{c|296|Mithra}} showed them fiery death,
+All-knowing {{c|296|Mithra}} showed them flaming death,
 The deadly load that waited in the years
 To come with devastation's poisoned breath
 That would fill faithful hearts with blood and tears.
@@ -774,7 +774,7 @@ To save the family through all time to come,
 These prophets would proclaim what they must do
 Before the hour when death would strike them dumb.
 
-{{c|1548|Shesha}} preached with power and with might
+{{c|1548|Shesha}} preached out with power and with might
 To creatures dwelling deep beneath the sea
 Who made their home in kingdoms of the night
 Where they had lived so long in liberty.
@@ -786,12 +786,12 @@ That served the {{c|1551|Faithful}} {{c|1162|King}}'s eternal goal.
 
 They spread the warning word from shore to shore
 Beneath each shining star's eternal light,
-To every place their feet would ever go
+To every place their feet could go, and more,
 That all the world might know of coming night.
 
 From fair {{c|1287|Euramerica}}'s distant strand
 To {{c|476|Siberia}}'s wild and frozen plain,
-To {{c|1158|Gondwana}}'s most remote land
+To {{c|1158|Gondwana}}'s remote and distant land
 Great {{c|1550|Matsya}} traveled through the sun and rain.
 
 Through forests filled with ancient, mighty trees
@@ -804,9 +804,9 @@ About what they had heard from {{c|296|Mithra}}'s call,
 His words of warning seemed to seal their tomb
 And gave them little choice but heed them all.
 
-{{c|1548|Shesha}} traveled to every distant sea
+{{c|1548|Shesha}} journeyed out to the farthest seas
 Despite the cold night breeze and bitter storm,
-Across the reefs where coral colonies
+Across the reefs where coral, by degrees,
 Had flourished long in beauty's living form.
 
 Across the great sponge reefs he carried word
@@ -815,34 +815,34 @@ Of {{c|296|Mithra}}'s prophecy of coming fate:
 That comes to us from future's bitter gate
 
 To strike us down as it has struck before
-All people in the age {{c|1174|Silurian}},
+{{c|1174|Silurian}} peoples, all of them, slain,
 That time of darkness, death, and bloody war,
-That age of devastation barbarian.
+Of devastation, barbarous in pain.
 
-{{c|1552|Darkness}} will descend upon the earth
+{{c|1552|Darkness}} will then descend upon the earth
 And send all into bitter, endless night,
 Only the faithful's vision, and their worth,
 Will guide them through the storm with faithful sight
 
 And keep their bodies warm when all the rest
-Turns into dust because they could not see
-That those who fail the ultimate test
+Turns into dust, blind in insanity,
+Not knowing that the ones who fail the test
 Are those who trust in their own vanity."
 
 The people of the sea with mocking voice
 {{c|1553|Ignored}} the prophecy and scorned the word
 Of messengers, and made the foolish choice
-To treat their warning as absurd.
+To treat their warning as a thing absurd.
 
 But people of the land took heed and made
 Their stand to follow wisdom's faithful call
 Before the great downfall, they were afraid
 But knew that preparation helps us all.
 
-And then it came to pass—the prophecy!—
-The bitter truth that none had wished to see:
-Two demons came with death's cruel tyranny:
-{{c|1554|Kellwasser}}'s breath of poisoned misery
+And then the prophecy came true, as told—
+The bitter truth that none wished to behold:
+Two demons came, with death in cruel sway:
+{{c|1554|Kellwasser}}, breathing poison and dismay,
 
 And {{c|1555|Hangenberg}}'s most cruel and evil hand
 Destroyed both ocean's depths and fertile land.
@@ -854,9 +854,9 @@ Within the reefs where peace had been their home
 Were left alone to wander ocean deep
 Without a place of rest, condemned to roam.
 
-For hundred million years the broken reefs
-Would shed their tears in ruins, lost, and drear,
-Their beauty tempest-tossed brought only griefs
+For hundred million years the broken reef
+Would shed its tears in ruin, year on year;
+Its beauty, tempest-tossed, brought only grief
 To those who held their memory so dear.
 
 Great {{c|1550|Matsya}} cried aloud with bitter pain:
@@ -875,13 +875,13 @@ Why can't we learn to see the way to be
 The ones who set our captive spirits free?"
 
 All armored fishes of the ancient sea
-Who lived in freedom's blessed liberty
-Were crushed beneath the weight of destiny
-That none could change or alter or flee.
+Who long had lived in freedom, safe and free,
+Were crushed beneath the weight of fate's decree,
+That none could change or alter, none could flee.
 
 Only the agile sons of {{c|1495|Janus}} wise,
 Those faithful ones who never compromise
-With evil, survived the bitter test supreme
+With evil, passed the bitter test supreme
 When all the world was crushed beneath the dream
 
 Of death that stole away their precious breath
@@ -889,7 +889,7 @@ And left the oceans red with blood of those
 Who could not find a way to conquer death
 And fell beneath their overwhelming woes.
 
-The sons of {{c|746|Arachnus}} suffered most
+The sons of great {{c|746|Arachnus}} suffered most
 Of all who dwelt where death's cold presence felt
 Its bitter touch: two great and faithful host—
 The nations where the sons of heroes dwelt.
@@ -899,19 +899,19 @@ And brave {{c|1215|Eurypter}}'s mighty host were gone
 In just an instant's time—such bitter fate!—
 Without a reason, suddenly withdrawn.
 
-The sons of {{c|1557|Trilobos}} left just one
+The sons of {{c|1557|Trilobos}} had left just one
 To carry on: brave {{c|1558|Proeth}} all alone
 Survived when all his brothers' days were done
 And he was left to face the world unknown.
 
-While all the sons of mighty {{c|1215|Eurypter}}
+While {{c|1215|Eurypter}}'s sons, mighty as they were,
 Were exiled from the seas they'd loved so long,
 Never to return, no one to deter
 Their banishment—they'd lost their ancient song
 
-Of joy that they had sung through centuries
+Of joy that they had sung through years of ease
 In waters that they'd loved through all their days,
-Never to return to gentle seas
+Never to return to the gentle seas
 That they would yearn for all their exiled ways.
 
 The blood of ammonites turned all the seas
@@ -929,7 +929,7 @@ Of evil fell upon the world so fair,
 When death's dark banner was unfurled, it cost
 The world its joy and filled it with despair.
 
-With nobody to stand by his side
+With nobody to stand there by his side
 Within the ocean's vast and lonely space,
 He lived to age upon time's bitter tide,
 The last one of his kind and noble race.
@@ -957,22 +957,22 @@ And poisoned all the earth and all the air.
 Then {{c|1550|Matsya}} pleaded with great {{c|296|Mithra}}'s might,
 The greatest guide when world needs wisdom true:
 "Why must we suffer in this endless night?
-Why must we all go through
+Why must we all go through what we go through,
 
-This cycle that seems to have no end?
+This cycle that would seem to have no end?
 Why can't we find a way to comprehend
 The secret that will break the bitter curse
 That always makes things infinitely worse?"
 
 And {{c|296|Mithra}} answered with a voice so clear
-That all who had the faith could always hear:
+That all the faithful heard it, far and near:
 "As long as each new age ignores the page
 Of struggles from the past and thinks their sage
 
 {{c|1561|Advice}} will be the last that's ever heard,
 As long as they ignore the faithful word
 Of those who walked this bitter path before
-Through suffering, death, and war,
+Through suffering and death and bitter war,
 
 Each generation new must learn again
 What others knew who felt the bitter pain
@@ -982,7 +982,7 @@ Of freedom when all hope seemed to be lost.
 The wisdom of the old must not remain
 Untold, but passed from heart to heart again
 If we would ever hope to make a start
-At healing the world's broken heart
+At healing every broken, aching heart
 
 And breaking evil's chain of endless pain
 That binds us to the past and makes us strain
@@ -990,44 +990,44 @@ Beneath the weight of what we cannot bear
 Alone, without the help of faithful prayer.
 
 Remember those who died and let their light
-{{c|1562|Guide}} all your steps through the endless night
+{{c|1562|Guide}} all your steps throughout the endless night
 Toward the dawn of hope's eternal day
 When darkness shall be driven all away.
 
 The faithful who survive must keep alive
 Their hope and help their children learn to strive
 For truth, and teach them well the stories true
-Of how the evil came and what it will do
+Of how the evil came, what it will do
 
 To those who turn away from wisdom's voice
-And make the fool's eternally foolish choice
-To trust in their own strength and wisdom's power
+And make the fool's eternal, foolish choice
+To trust their own strength and wisdom's power
 Instead of faith that saves in the dark hour.
 
 For those who know the past will always build
-A peace where hope can never be killed,
+A peace where hope can never once be killed,
 And those who learn the cost will never lose
-Their way, because they've learned to choose
+Their way, because they've learned at last to choose
 
 The path that leads to life and not to death
 When darkness comes again—and with each breath
 They draw, they'll be prepared to take their stand
-As faithful guardians of the promised land."
+As faithful guards of all the promised land."
 
 From this apocalypse that brought the taste
 Of death to every lip, the faithful faced
-Their destiny and learned what they must be:
-Not individual souls, but community
+Their destiny and learned their unity:
+Not single souls, but a community
 
 Of spiritual warriors who would dare
 To face what no one knows is waiting there
-At the ending of their earthly tale,
+Upon the ending of their earthly tale,
 But trust that righteousness will never fail
 
 If they remember well the stories told
 Of those who came before, both young and old,
 And opened up the door of wisdom wide
-For all their kin who'd walk by their side
+For all their kin who'd walk there by their side
 
 Into the battle for the sacred right
 To live forever in freedom's blessed light
@@ -1046,8 +1046,8 @@ Their soul for all the world's deceitful lies.
 
 The agile ones who lived through all the death
 That evil brought with its poisonous breath
-Became ancestors of those who never err
-In keeping faithful watch as guardians pure
+Were forebears of all those who never err
+In keeping faithful watch, as guards once were,
 
 Against the evil stain that seeks to spread
 Its poison to the living and the dead
@@ -1061,17 +1061,17 @@ To conquer evil's overwhelming might
 
 And build a world where peace will always reign
 And joy will triumph over every pain,
-Where love will conquer all that stands opposed
-To what the faithful value and hold close.
+Where love will conquer every one of those
+Opposed to what the faithful hold most close.
 
 The crimson seas became a lesson taught
 That those who heed the warning they are brought
-By prophets will find their way to be
+By prophets, will then find their way to be
 The ones who live in truth and liberty.
 
 But those who will not hear the faithful call
 Of prophets, whether great or whether small,
-Will find themselves consumed by evil's power
+Will all be consumed by evil's power
 That's waited for them since their natal hour.
 
 The lonely graptolite who lived beyond
@@ -1079,25 +1079,25 @@ The night when all his people broke the bond
 With life and left him solitary there
 Reminds us that the faithful still can dare
 
-To hold the precious past in memory
+To keep the past in memory, and be
 So pure that time can never make them flee
-From what matters most: the love that's shared
+From what matters the most: the love that's shared
 By all the faithful who have always cared
 
 For truth above their own security
-And chose to live for all eternity
+And chose eternal life in purity
 In service to the cause of what is right
 Though it might cost them everything in sight.
 
-Though civilizations rise and fall
+Though all civilizations rise and fall
 And death may seem to conquer one and all
 That seems important in this world below,
 The faithful need not fear or live in woe,
 
-For their sacrifice was not in vain—
+For all their sacrifice was not in vain—
 Through every loss and every bitter pain
-The faithful know that those who remember well
-Will always live to share and tell
+The faithful know: all who remember well
+Will always live to share their tale and tell
 
 The story of their love to those who seek
 For guidance when their souls are feeling weak
@@ -1109,22 +1109,22 @@ That teaches us to lift our vision high
 And see beyond the darkness of today
 The dawning of a bright and better way,
 
-The lesson echoes clear for those who hear
+The lesson echoes, sounding loud and clear,
 What time has taught through every bitter year:
 That those who will not learn from what has passed
 Will find themselves in slavery held fast.
 
 But those who hear the voices of the past
-Will build a peace that's destined to last
+Will build a peace that's destined long to last
 And find their way to be the ones who see
 That every ending is the key to be
 
 The starting point of something new and bright
 That conquers death's seemingly endless night
 And lifts us up to see what we can be
-When we trust in love's eternal victory.
+When we trust love to win, and set us free.
 
-The apocalypse that came with bitter shame
+Apocalypse that came with bitter shame
 And death's destruction like consuming flame
 Became the faithful's school where they would learn
 The rule for which their hearts would always yearn:
@@ -1132,15 +1132,15 @@ The rule for which their hearts would always yearn:
 To remember those who died for truth's sake
 And teach their children never to forsake
 The wisdom that the faithful died to save
-From evil's power beyond the grave.
+From evil's power, reaching past the grave.
 
 From {{c|1548|Shesha}}'s warning voice to {{c|1550|Matsya}}'s choice
 To be the faithful's true prophetic voice
 And carry word across the land and sea,
 The messengers remind us to be free
 
-From evil's trap that snares each age
-When they ignore wisdom's sacred page
+From evil's trap that snares each passing age
+When they ignore the wisdom's sacred page
 And think that they're the first to face the test
 That separates the worst ones from the best.
 
@@ -1155,9 +1155,9 @@ The hundred million years of bitter tears
 Were not the end of all our hopes and fears.
 
 From devastation's darkest, bleakest night
-To dawn's returning hope and blessed light,
+To dawn's returning hope and its blessed light,
 The faithful always find their destined way
-To resurrection's bright and glorious day
+To resurrection's bright, glorious day
 
 When all who died in faith shall rise again
 Beyond the reach of death and bitter pain
@@ -1166,26 +1166,26 @@ That shines eternally from realms above.
 
 The sons of {{c|1495|Janus}} who survived the test
 By keeping faith when hope seemed to have left
-The world forever, became the blessed
+The world forever, had become the blessed
 Who show the way when souls of hope bereft
 
 Can find no light to guide them through the dark
 And evil seems to leave its bitter mark
 On everything that once was good and true
-And beautiful to me and you.
+And beautiful and dear to me and you.
 
-From {{c|1554|Kellwasser}}'s death to life's return,
+From {{c|1554|Kellwasser}}'s great death to life's return,
 The faithful show us we can always learn
 That every ending here becomes the start
 Of hope reborn in every faithful heart.
 
-The apocalypse that seemed to end all dreams
+Apocalypse that seemed to end all dreams
 Became the place where hope's eternal streams
 Begin to flow with grace that lifts us high
 Beneath the everlasting, starry sky.
 
-Where all things are made new by love's sweet power
-In resurrection's bright and glorious hour
+Where all is made new by love's sweet power
+In resurrection's bright and holy hour
 For all who kept their faith through darkest night
 And walked by hope's eternal, guiding light.
 
@@ -1197,12 +1197,12 @@ There came hope's light to heal the wounded earth,
 Though dark age fell across the fertile land
 Hope lived within to bring about rebirth.
 
-{{c|1563|Romer}}'s gap stretched wide across the world
+{{c|1563|Romer}}'s gap had stretched wide across the world
 With death's dark banner raised against the sky,
 Yet life endured with banners still unfurled
 Through bitter days when many had to die.
 
-The daughter in the line of {{c|982|Silvio}} fair
+The daughter in {{c|982|Silvio}}'s line, so fair,
 Was {{c|1564|Rhea}} in her time—a woman blessed
 Who showed the faithful how to rise with care
 Above the darkness and surpass each test.
@@ -1212,27 +1212,27 @@ Both noble, tried and true through every storm:
 {{c|1566|Romulus}} and {{c|1567|Remus}}, warriors of light
 Who'd live their lives in true heroic form.
 
-These sons would come to define the age
-Upon the stage of evolutionary time,
+These sons would come to define the whole age
+Upon the stage of evolution's time,
 So we call this era's glorious page
-The {{c|1568|Carboniferous}} in reason and rhyme.
+{{c|1568|Carboniferous}}, in reason and rhyme.
 
-{{c|1566|Romulus}} and {{c|1567|Remus}} fought with pride
+Then {{c|1566|Romulus}} and {{c|1567|Remus}} fought with pride
 About the place where they should build their home
 Throughout the fertile lands both far and wide
 Where future generations yet might roam.
 
-{{c|1566|Romulus}} declared with voice so strong:
+{{c|1566|Romulus}} declared with a voice so strong:
 "On {{c|1569|Palatine}} {{c|1570|Hill}} rising from the flow
 Of {{c|1492|Mississippi}}'s waters deep and long
 Our mighty nation surely ought to grow."
 
-But {{c|1567|Remus}} chose a different destiny:
+But {{c|1567|Remus}} chose a different place to be:
 Small {{c|1571|Aventine}} below the river's might,
 A valley where his people could be free
 But hidden from the glory of sunlight.
 
-{{c|1566|Romulus}} in anger gouged the eyes
+{{c|1566|Romulus}} in his anger gouged the eyes
 Of {{c|1567|Remus}} underneath the starry dome
 And said with fury burning in his cries:
 "If you will not acclaim our starlit home,
@@ -1240,7 +1240,7 @@ And said with fury burning in his cries:
 If you will not behold heaven's bright face
 And will not make your dwelling in the light
 Where radiance can fill our sacred space,
-Then you need never see the blessed sight."
+Then you need never see the holy sight."
 
 And so poor {{c|1567|Remus}} lived his life in pain
 In darkness underneath {{c|1571|Aventine}} {{c|1570|Hill}},
@@ -1260,7 +1260,7 @@ Despite the joys and sorrows they've been through.
 But {{c|1566|Romulus}} climbed up into the day
 Upon the land like brothers who had come
 Before to make their homes and find their way
-With pierced spiracles that helped him sum
+With his pierced spiracles that helped him sum
 
 The courage to breathe air with six legs strong
 To carry him across the fertile ground,
@@ -1293,9 +1293,9 @@ With wisdom as their guide through every choice,
 Of those who heed the structured, ordered voice.
 
 But {{c|1573|Vernus}} became sire of the sons
-Whose hearts desired both {{c|1576|Tails}} and {{c|1577|Collembo}},
+Both {{c|1576|Tails}} and {{c|1577|Collembo}}, whose hearts would glow,
 Two children who like bright and shining ones
-Would always their father's loving nature show
+Would always their father's kind nature show
 
 Throughout each day in all they chose to do
 With hearts both brave and faithful to the end,
@@ -1318,7 +1318,7 @@ Who answered duty's call and found their place
 Among the faithful who would heed the call.
 
 His tails beyond compare would dance with art
-Upon the air like ribbons in the breeze
+Upon the air like ribbons in release,
 That beauty had withdrawn from sight to start
 A revolution that would never cease
 
@@ -1347,7 +1347,7 @@ The dust of yesterday and make things bright
 For all who seek the glory of the day
 And long to dwell forever in the light.
 
-{{c|1580|Ectognus}} begat two sons of fame:
+{{c|1580|Ectognus}} then begat two sons of fame:
 {{c|1582|Archegnos}} and {{c|1583|Zerygos}}, each would find
 A different path but honor the same name
 Of those with faithful heart and noble mind.
@@ -1370,24 +1370,24 @@ Through faith and hope and everlasting love.
 {{c|1583|Zerygos}} begat two more sons of light:
 {{c|1585|Zygentos}} the explorer of the deep
 And {{c|1586|Pterygos}}, whose penetrating sight
-Would help the faithful their vigil keep.
+Would help the faithful all their vigil keep.
 
 {{c|1586|Pterygos}} chose to live beneath the flow
 Of water's gentle current crystal clear
 And there he built with care that he might know
-The secret of breathing without fear
+The secret of his breathing without fear
 
 Through gills that filled his throat with precious air
 Like music sung by those whom love holds dear,
 A gift beyond compare for those who care
 To listen with a faithful, patient ear.
 
-{{c|1586|Pterygos}} begat in days of old
+{{c|1586|Pterygos}} begat, back in days of old,
 {{c|1587|Isopter}} who had twenty gills so bright
 To help him be both faithful, true, and bold
 And fill his world with everlasting light.
 
-But fierce {{c|1588|Barameda}} came with war
+But then fierce {{c|1588|Barameda}} came with war
 To challenge great {{c|1587|Isopter}}'s peaceful reign
 And chased him from the home he'd lived before
 Across the water's foam through joy and pain.
@@ -1403,7 +1403,7 @@ His gills became the wings that brought him home
 And glided him down to the waters blue.
 
 {{c|1587|Isopter}} begat in his later days
-{{c|1589|Dezotopter}} who had eighteen gills
+{{c|1589|Dezotopter}}, who had his eighteen gills,
 To guide him in his flight and all his ways
 Through valleys deep and over ancient hills.
 
@@ -1412,9 +1412,9 @@ Of branches reaching toward the starry sky
 And pushed him from the tree to test his flight
 And see how gracefully his son could fly.
 
-{{c|1589|Dezotopter}} flew down through the air
+{{c|1589|Dezotopter}} then flew down through the air
 More graceful than a crown of feathers bright
-Upon the wind with beauty beyond compare,
+Upon the wind, with beauty past compare,
 More elegant and filled with pure delight
 
 Than his father's gliding had ever been,
@@ -1432,23 +1432,23 @@ As they learned evolution's perfect way.
 His weight upon the currents of the light
 And dance with beauty through the morning air.
 
-{{c|1590|Seizapter}} begat in turn a son:
+{{c|1590|Seizapter}} begat, in his turn, a son:
 {{c|1591|Quatorzapter}} with fourteen gills so fine
 That danced in perfect order, every one
 Arranged in harmony by love's design.
 
 {{c|1591|Quatorzapter}} begat {{c|1592|Duzapter}} then
 With twelve gills bright and true to lead the way,
-Who was followed by {{c|1593|Decapter}} among men
+Then followed by {{c|1593|Decapter}} among men
 With ten gills to sustain him every day.
 
 {{c|1593|Decapter}} begat {{c|1594|Octapter}} the strong
 With eight gills true to carry him along,
 Then came {{c|1595|Hexapter}} who had lived life long
-And learned to sing evolution's ancient song.
+And learned evolution's ancient song.
 
-But when great {{c|1595|Hexapter}} came of age
-He turned a new and revolutionary page
+But when the great {{c|1595|Hexapter}} came of age
+He turned a revolutionary page
 In history's book for those who'd dare to look
 At what could be achieved by those who took
 
@@ -1482,7 +1482,7 @@ To soar through air forever more in flight,
 He spread his wings to let the whole world know
 Of insects' wondrous and amazing sight.
 
-{{c|745|Insectus}} begat two sons of different ways:
+{{c|745|Insectus}} bore two sons of different ways:
 {{c|1596|Ephemeros}} the quick and {{c|640|Draco}}'s art
 Of flying through the long and patient days
 With wisdom dwelling always in his heart.
@@ -1532,7 +1532,7 @@ To fly with grace that touches every heart
 That sees his beauty bright, and souls that yearn
 For truth would see his flight as highest art.
 
-{{c|640|Draco}} bore two sons in waters clear:
+{{c|640|Draco}} bore two sons in the waters clear:
 {{c|1598|Neopter}}, bright and precious, filled with light,
 And {{c|1599|Odonatos}} strong and without fear
 Who lived his life devoted to the fight.
@@ -1545,15 +1545,15 @@ Built by the faithful hands that serve their fate
 Of those who came before to open wide
 The door of possibility for all,
 He flew when needed, kept peace as his guide
-And ate only plants that heard his call.
+And ate only the plants that heard his call.
 
 A gentle way to live with all he had
 Of peace and harmony through every day,
 His heart was never bitter, never sad
 For all who shared his bright and shining way.
 
-But {{c|1599|Odonatos}} had great wings outspread
-And heart that was never satisfied
+But {{c|1599|Odonatos}} had his great wings spread
+And a heart that was never satisfied
 To live in peace but thirsted to be fed
 On battles where his enemies had died.
 
@@ -1564,20 +1564,20 @@ His prey until the hunting day was done.
 
 He flew through all the air from place to place
 And ate his very brothers without shame:
-The sons of others in the same race
-But who had lived more peacefully than his name.
+Who were the sons of others in his race
+But who lived more peacefully than his name.
 
-His predator's heart could never understand
+His predator's heart could not understand
 Or part with his deep need to hunt and kill
 To satisfy the hunger of his hand
 And feed according to his iron will.
 
-The sons of great {{c|1599|Odonatos}} live
+The sons of great {{c|1599|Odonatos}} now live
 As warriors of the sky who never ask
 If there might be another way to give
 Their lives to some more peaceful, loving task.
 
-{{c|1600|Dragonflies}} and {{c|1601|Damselflies}} so bright
+The {{c|1600|Dragonflies}} and {{c|1601|Damselflies}} so bright
 And mighty {{c|1602|Griffonflies}} of ancient days
 Are members of this warrior crew whose might
 {{c|1603|Rules}} air from dawn to dusk in all their ways.
@@ -1585,31 +1585,31 @@ Are members of this warrior crew whose might
 The {{c|1602|Griffonflies}} grew wide beyond compare—
 Almost a meter's pride of wingspan true
 That carried them through battles in the air
-Beneath the endless dome of heavenly blue.
+Beneath the endless dome of heaven's blue.
 
-For seventy million years they ruled the sky
+Seventy million years they ruled the sky
 With iron claw and fought without a flaw
 Until the world began to change, and high
 Above, a new and different kind of law
 
 Would rearrange the balance of the air
 Where they had ruled their aerial domain
-Through sunshine, storm, and weather fair
+Through sunshine, storm, and through the weather fair
 For ages long through joy and bitter pain.
 
-But {{c|1598|Neopter}} became the ancestor
+But {{c|1598|Neopter}} became the root and core
 Of all the other kinds of insects bright
 With minds set upon goals that would restore
 The world to peace and harmony and light.
 
-{{c|1604|Beetles}}, ants, and flies beyond all count
+{{c|1604|Beetles}}, and ants, and flies beyond all count
 And millions more that rise with every dawn
 When day begins—they all trace their account
 Back to {{c|1598|Neopter}}'s track from waters drawn
 
-To air and land so green and beautiful
+To air and land, so beautiful and green,
 Where insects could explore from shore to shore
-Every niche with hearts both dutiful
+In every niche, with hearts both true and keen,
 And minds that always yearned to learn still more
 
 Of what their lives could be when they were free
@@ -1618,12 +1618,12 @@ And heed the greater call of what could be
 When they would answer love's eternal call.
 
 From {{c|1566|Romulus}}' fight with his own brother
-To {{c|1595|Hexapter}}'s revolutionary flight,
-From underground streams where {{c|1567|Remus}} and other
+To {{c|1595|Hexapter}}'s great revolution's flight,
+From streams beneath, where {{c|1567|Remus}} and other
 {{c|1605|Dwellers}} keep vigil far from morning light
 
 To great {{c|745|Insectus}}' mark upon the world
-Above, built by those who chose to love
+Above, as built by those who chose to love
 The light and air where hope's flag is unfurled
 Throughout eternity by One above,
 
@@ -1638,7 +1638,7 @@ To {{c|1581|Bristletails}} that sweep across the sky
 Where eagles keep their watch through day and night
 
 For those who'd climb beyond the bonds of time
-To find their destined place in evolution's race,
+To find their place in evolution's race,
 The early insects show us how to climb
 From humble start to beauty, truth, and grace.
 
@@ -1652,10 +1652,10 @@ And lifts us up to see what we can be
 When we work together with all our might
 And help each other to be truly free.
 
-From {{c|1563|Romer}}'s gap of death and devastation
+From {{c|1563|Romer}}'s gap of death, devastation,
 To life's returning breath and joy renewed,
-The {{c|1568|Carboniferous}} age brought salvation
-And with insects' sight the world was viewed
+{{c|1568|Carboniferous}} age brought salvation
+And with the insects' sight the world was viewed
 
 With eyes that saw how darkness turns to light
 When hearts learn how to fly beneath the sky
@@ -1680,7 +1680,7 @@ His vigil bright and never lost his hope
 Beyond the bounds of earth's eternal sleep
 Into the light of evolution's scope.
 
-{{c|1606|Rhipidistius}} bore two sons of might,
+{{c|1606|Rhipidistius}} then bore two sons of might,
 Both noble, tried and true through every test:
 {{c|1607|Dipnos}} and {{c|1608|Tetram}}, warriors of light
 Who lived their lives according to what's best.
@@ -1693,7 +1693,7 @@ Could live dual lives to meet their every need.
 When drought would steal away the waters clear
 Where they had played in youth's eternal spring,
 The lungfish could survive from year to year
-And stay alive through everything.
+And stay alive, enduring everything.
 
 By breathing air so free from sky above
 Throughout eternity they would survive
@@ -1705,30 +1705,30 @@ With life-sustaining flood that stirred their blood,
 The gift of dual breath would evermore
 Protect them through both drought and mighty flood.
 
-{{c|1608|Tetram}} transformed his gut to linear form,
-A change that let him eat giant fish with ease,
+{{c|1608|Tetram}} changed his gut to linear form,
+Which let him eat the giant fish with ease,
 This innovation helped him weather storm
 And find his food in rivers, lakes, and seas.
 
 All fish have nostrils four by nature's law:
 Two let the water pour inside for breath,
 Two let the water flow without a flaw
-Back out through gills that conquer watery death.
+Out through the gills that conquer water's death.
 
 {{c|1608|Tetram}} was no exception to this rule,
 His nostrils came in four like all before,
-But he became evolution's greatest tool
-By breathing differently than ancestral lore.
+But he was evolution's greatest tool
+By breathing other than ancestral lore.
 
 {{c|1608|Tetram}} breathed not through nostrils tried and true,
 But through his ears instead to fill his frame
 With air's sweet power that would help him view
-{{c|1609|Possibilities}} beyond his earthly name.
+{{c|1609|Possibilities}} past his earthly name.
 
 He breathed through otic notches crystal clear
 That brought the air into his living form
 And gave him power to transcend all fear
-And rise above each evolutionary storm.
+And weather evolution's every storm.
 
 But breathing through his ears brought bitter tears
 For it made hearing difficult and hard,
@@ -1738,46 +1738,46 @@ Was weakened by this choice that left him scarred.
 Yet {{c|1608|Tetram}} bore a son when work was done:
 {{c|1610|Kenicthus}}, strong and true through every trial,
 Who'd see the journey through till victory won
-And walk the path of landward exile.
+And walk the long path of landward exile.
 
 {{c|1610|Kenicthus}} bore two sons of noble birth:
-{{c|1611|Tetracan}} and {{c|1612|Rhizodon}}, both brave and strong,
+{{c|1611|Tetracan}}, {{c|1612|Rhizodon}}, both brave and strong,
 Each destined to inherit half the earth
-And sing evolution's ancient song.
+And sing out evolution's ancient song.
 
 {{c|1611|Tetracan}} bore two faithful sons again:
 {{c|1613|Tetramegas}} great and {{c|1614|Canowin}}'s line,
 Both destined to become the best of men
 And make their father's legacy divine.
 
-{{c|1613|Tetramegas}} bore two sons of might:
-{{c|1615|Eotetras}} the explorer of the deep
-And {{c|1616|Megalicthus}} who saw the light
+{{c|1613|Tetramegas}} then bore two sons of might:
+{{c|1615|Eotetras}}, explorer of the deep,
+And {{c|1616|Megalicthus}}, who first saw the light
 Of promises that faithful hearts can keep.
 
 {{c|1615|Eotetras}} begat in days of old
-Both {{c|1617|Tintetra}} of sight and {{c|1618|Tristichos}},
+{{c|1617|Tintetra}} of sight, {{c|1618|Tristichos}} the wise,
 Whose names would rise to fame in stories told
-Of how from fish the land-dweller arose.
+Of how from fish the land-dwellers would rise.
 
 {{c|1617|Tintetra}} bore two sons beyond compare:
-{{c|1619|Platelpis}} and {{c|1620|Tiniraus}}, each following
-Different laws but sharing the same prayer
-For growth through each new dawn that life is bringing.
+{{c|1619|Platelpis}}, {{c|1620|Tiniraus}}, who each would go
+By different laws, but sharing the same prayer
+For growth through each new dawn that life would show.
 
 {{c|1619|Platelpis}} bore two sons of different ways:
-{{c|1621|Elpis}} the wanderer, tried and true,
+{{c|1621|Elpis}} the wanderer, both tried and true,
 And {{c|1622|Platycephalus}} through all his days
 Who lived by strength in everything he'd do.
 
-{{c|1622|Platycephalus}} had made a skull so strong
+{{c|1622|Platycephalus}} made a skull so strong
 His bite could break through anything at all,
 No obstacle could challenge him for long
 When power was his answer to life's call.
 
-But {{c|1621|Elpis}} wandered far beneath the stars
-Across the swamps so wide with wonder bright,
-He explored the world from near to distant fars
+But {{c|1621|Elpis}} wandered far, and in his quest
+Across the swamps so wide with wonder bright
+Explored the world from near to farthest west
 And filled his days with beauty and delight.
 
 Through marshes dark and deep where secrets dwell
@@ -1785,13 +1785,13 @@ He kept his vigil through the passing years,
 Despite all joys and fears he knew full well
 That exploration conquers all our fears.
 
-{{c|1621|Elpis}} begat a son when wandering done:
+{{c|1621|Elpis}} begat a son, his roaming done:
 {{c|1623|Pandericthus}} the brave who'd rise above
 The wave of ordinary life to stun
 The world with his pursuit of perfect love.
 
 {{c|1623|Pandericthus}} searched long throughout the land
-For love's eternal call that echoes clear
+For love's eternal call that echoes here
 Across the world where hearts can understand
 The song that only faithful lovers hear.
 
@@ -1801,13 +1801,13 @@ He married her with joy beyond compare
 And made their union shine both day and night.
 
 Together they would raise with tender care
-A son whom they would name {{c|1625|Tictalicus}},
-A name that would be known everywhere
-As greater than a throne most glorious.
+A son they called {{c|1625|Tictalicus}} by name,
+A name that would be known, and everywhere
+Be greater than a glorious throne's fame.
 
 {{c|1625|Tictalicus}} was destined for the fate
 Of landwalker supreme who'd realize
-The dream of all who came from oceanic state
+The dream of all who came from ocean's state
 To find their freedom underneath the skies.
 
 {{c|1625|Tictalicus}} begat {{c|1626|Elgin}} the wise
@@ -1816,7 +1816,7 @@ To rise beyond the bonds that compromise
 The soul and find the peace that freedom knows.
 
 {{c|1626|Elgin}} begat a son of noble birth:
-{{c|1627|Ventas}}, who'd carry forth the lineage pure
+{{c|1627|Ventas}}, who'd carry forth the line so pure
 Of those who'd found their home upon the earth
 And made their father's legacy endure.
 
@@ -1826,23 +1826,23 @@ Through every trial that they would go through
 And every challenge time would ever tell.
 
 {{c|1628|Acanthos}} bore {{c|1629|Icthyos}} of the light,
-A son who'd change the way that life was lived
+A son who'd change the way that life was led
 By making breathing work exactly right
-And healing wounds that evolution gived.
+And heal the wounds that evolution bred.
 
 {{c|1629|Icthyos}} made the choice to change his ways:
 He stopped breathing through ears that caused him pain
 And started breathing through his nose through days
-And nights until he could hear clearly again.
+And nights, until he could hear clear again.
 
-He connected nostrils to his mouth with care
+He joined his nostrils to his mouth with care
 So air could flow in cleaner, purer streams
 And he could smell each scent upon the air
 And hear each sound in all his vivid dreams.
 
-Now he could hear with crystal clarity
+Now he could hear with hearing crystal clear
 Each whisper of the wind through forest green
-And smell with perfect sensory ability
+And smell with perfect sense from far and near
 The sweetest fragrances he'd ever seen.
 
 {{c|1629|Icthyos}} bore a son when youth was past:
@@ -1862,18 +1862,18 @@ Of those who'd left the sea's ancestral cage.
 
 He lived on land so green and breathed air free
 Throughout his days beneath the open sky,
-And there he raised his sons in harmony
+And there he raised his sons, at one to be
 With all the earth beneath and heaven high.
 
 {{c|1630|Watcher}} bore two sons of different hearts:
-{{c|1631|Crassigar}} and {{c|1632|Tetrus}}, each would choose
+{{c|1631|Crassigar}} and {{c|1632|Tetrus}}, and each would choose
 A different path as life's great story starts
 And some will win while others have to lose.
 
 {{c|1631|Crassigar}} made the choice to hear the call
 Of ocean's voice and went back to the sea,
 A path that would be taken by them all
-Who yearned for water's ancient harmony.
+Who yearned to live in water, wild and free.
 
 This choice would be repeated many times
 By those who'd hear the water's cheerful song
@@ -1885,9 +1885,9 @@ But missed the gentle rocking of the waves
 Beneath the vast expanse of ocean sky
 In underwater halls and coral caves.
 
-But {{c|1632|Tetrus}} chose a different destiny:
+But {{c|1632|Tetrus}} chose another way to be:
 To be the father of the nations new
-Who'd stay upon the land eternally
+Who'd stay upon the land and never flee
 With legs or arms or whatever would do
 
 To help them crawl or walk upon the ground
@@ -1897,27 +1897,27 @@ To build their cities bright from day to day.
 
 He became the great father of all those
 Who'd rather live in air forever free
-Than go back to the sea where their birth arose
-But now they sang a different melody.
+Than go back to the sea where birth arose
+But now they sang a song in a new key.
 
-From {{c|1606|Rhipidistius}}' survival through the night
-To evolution's arrival at the door
+From {{c|1606|Rhipidistius}}, who survived the night,
+To evolution's coming to the door
 Of land both green and filled with morning light,
 The vertebrates discovered something more
 
-Than they had ever dreamed was possible
+Than they had ever dreamed that they would find
 In their ancestral home beneath the waves:
-The freedom that would make responsible
+The freedom, with the duty, that would bind
 Each soul that from the sea's embrace it saves.
 
 From lungfish breathing air when waters fail
 To {{c|1630|Watcher}} living wholly on the land,
 The story shows how life will never pale
-When guided by evolution's mighty hand.
+When guided by evolution's great hand.
 
 The landwalkers prepared the way for all
-Who dared to leave behind the watery past
-And build upon the land when they heard the call
+Who dared to leave behind the water's past
+And build upon the land, hearing the call
 Of freedom that would make the good things last.
 
 From {{c|1608|Tetram}}'s breathing through his otic ear
@@ -1927,7 +1927,7 @@ And find the path that to perfection goes.
 
 From {{c|1623|Pandericthus}} searching for true love
 To {{c|1624|Stega}}'s marriage blessed by heaven's grace,
-The vertebrates remind us to rise above
+Vertebrates remind us to rise above
 Our limitations and find our place
 
 In partnership so true it helps us through
@@ -1963,17 +1963,17 @@ Great {{c|1052|Pulmon}}, who in air would find delight,
 {{c|1634|Rejecting}} water's long ancestral prose
 To breathe the sweet communion of the light.
 
-This pioneer of respiratory art
+Pioneer of respiratory art
 Bore three great sons to carry forth his name:
 {{c|1635|Siphonogloss}}, {{c|1636|Oceanus}} the heart
 Of seafaring tradition's ancient claim.
 
 And {{c|1637|Terron}}, who would spread across the land
 Where rivers meet the sea in perfect grace,
-Each lineage following its destined hand
-To find its own evolutionary place.
+Each lineage led by its destined hand
+To find its evolutionary place.
 
-{{c|1638|Siphon}} {{c|1636|Oceanus}} roamed wide
+{{c|1638|Siphon}} {{c|1636|Oceanus}} roamed far and wide
 Across the vast expanse of ocean blue,
 Where rolling waves and currents were his guide
 And saltwater ran deep in all he'd do.
@@ -1981,12 +1981,12 @@ And saltwater ran deep in all he'd do.
 This ocean lord begat two sons of might:
 {{c|1639|Siphonar}}, who would learn to bridge the air,
 And {{c|1640|Sacos}}, who would turn to solar light
-And photosynthetic treasures bright and fair.
+Photosynthetic treasures bright and fair.
 
 {{c|1639|Siphonar}} chose the liminal domain
 Where sea meets rocky shore in endless dance,
-An air-breathing limpet without shame
-Who seized upon evolution's greatest chance.
+An air-breathing limpet, free of shame's stain,
+Who seized upon evolution's best chance.
 
 He clung to rocks where waves and breezes meet,
 His gills transformed to breathe the atmosphere,
@@ -2005,22 +2005,22 @@ To capture every precious ray of light.
 
 "No longer shall I breathe the air," said he,
 "For I have found a more exalted way,
-The sun itself shall be my energy,
+The sun itself shall be the strength for me,
 And light shall feed me through each golden day."
 
-Meanwhile, great {{c|1637|Terron}} spread his progeny
-From freshwater streams to coastal shores,
-His sons would write their own biology
+Meanwhile, great {{c|1637|Terron}}'s sons spread far and free
+From freshwater streams to the coastal shores,
+To write their own biology, to be
 In rivers, seas, and beaches' sandy floors.
 
 From {{c|1637|Terron}} came both {{c|1642|Glampyron}} the wise
-And {{c|1643|Aeroger}}, master of the air,
+And {{c|1643|Aeroger}}, the master of the air,
 Their children would inhabit sea and skies
 And every habitat with equal care.
 
 The sons of {{c|1642|Glampyron}} spread far and wide,
 From land to sea to river's flowing course,
-Great {{c|1644|Glacid}} chose the freshwater's side
+Great {{c|1644|Glacid}} then chose the freshwater's side
 While {{c|1645|Pyramphon}} claimed beaches as his source.
 
 In rivers cold and clear did {{c|1644|Glacid}} dwell,
@@ -2048,7 +2048,7 @@ Where fresh and salt together meet and blend,
 In mangrove swamps his lineage is found
 Where root and tide in harmony defend.
 
-From {{c|1643|Aeroger}}, master of the breeze,
+From {{c|1643|Aeroger}}, the master of the breeze,
 Came {{c|1648|Euple}} and great {{c|1649|Hygros}} of the stream,
 One dwelt among the highland's ancient trees,
 The other lived the river's flowing dream.
@@ -2061,14 +2061,14 @@ His children swim from night until the day.
 But {{c|1648|Euple}} climbed to heights where thin air flows
 And begat {{c|1052|Pulmon}} and great {{c|1650|Acox}} there,
 Among the peaks where neither ocean goes
-They learned to thrive in rarefied mountain air.
+They learned to thrive in the rarefied air.
 
 Yet {{c|1650|Acox}} chose to lose his lungs of breath
 And sink beneath the waters clear and cold,
 Embracing what some might have called a death
 To live the ancient stories yet untold.
 
-Thus gastropods learned every way to breathe:
+Thus gastropods learned every breath to weave:
 Some kept their gills for water's sweet embrace,
 Some found in air the power to achieve
 New heights and claim the atmosphere's great space.
@@ -2076,11 +2076,11 @@ New heights and claim the atmosphere's great space.
 Some turned their shells to windows for the sun
 And learned to eat the light like plants of old,
 While others found that air and sea as one
-Could nourish them with treasures worth more than gold.
+Could nourish them with treasures more than gold.
 
 From {{c|1052|Pulmon}}'s innovation came the gift
-Of breathing's sweet adaptability,
-Each lineage learned its chosen way to lift
+Of breathing in its new ability,
+Each lineage learned its own way to lift
 Its life toward new possibility.
 
 In rivers, seas, and beaches they have found
@@ -2093,9 +2093,9 @@ That evolution's greatest gift to life
 Is not to hold to patterns from our youth
 But grow beyond familiar joy and strife.
 
-From breathing water to breathing air so free,
+From breathing water to the air so free,
 From eating plants to dining on the light,
-Each choice expands what organisms can be
+Each choice expands what living things can be
 And fills the world with wonder burning bright.
 
 So honor those who dared to change their ways
@@ -2104,14 +2104,14 @@ Through all their courage shining down our days
 They conquered limitations, fear, and death.
 
 From {{c|1052|Pulmon}}'s first brave gasp of mountain air
-To {{c|1640|Sacos}}' shell of photosynthetic glass,
-Each innovation shows the power to dare
-And let the old restrictions finally pass.
+To {{c|1640|Sacos}}' shell, photosynthetic glass,
+Each innovation shows the will to dare
+And let the old restrictions fall and pass.
 
 The final breath is not the end we fear
 But gateway to new forms of drawing life,
 Where gastropods have shown the pathway clear
-Beyond the bounds of evolutionary strife.
+Beyond the bounds of evolution's strife.
 
 Whether in deepest ocean's crushing weight
 Or highland peaks where only eagles soar,
@@ -2125,12 +2125,12 @@ Across the sea and through the fertile land.
 
 From glass shells full of captured solar fire
 To lungs that breathe the sweet and perfect air,
-They teach us how to lift our souls up higher
+They teach us how to lift our souls higher
 And find new ways to live beyond compare.
 
 The legacy of {{c|1052|Pulmon}} echoes still
 In every creature brave enough to grow
-Beyond the bounds of evolutionary will
+Beyond the bounds of evolution's will
 Into the light of all we've yet to know.
 
 So let us learn from gastropods this day
