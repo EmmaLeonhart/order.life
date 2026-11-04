@@ -20204,20 +20204,20 @@ And full of room for those who choose to leap.
 
 # Chapter 86: The Ruling Reptiles
 
-Now hear of Archon—youngest son of Eureps,
-Who in the coal swamp's hollow log was born
-And seemed at first the least of all his steps
-In Sauros' dynasty—a creature worn
+Now hear of Archon, youngest son and last
+Of Eureps, in a coal-swamp hollow log
+Born small, who seemed the least of all the cast
+In Sauros' line, worn creature of the bog,
 
-And small, who hid in undergrowth and ran
+So small he hid in undergrowth and ran
 On hind legs faster than his brothers could.
-No armor like Paraps' armored clan,
+Not armored like the plated Paraps clan,
 No venom, and no size—but Archon stood
 
-Upon the {{x|Triassic}} stage when every throne
-Was vacant and the {{x|Permian}} lords were ash—
+On the {{x|Triassic}} stage, where every throne
+Was vacant, and {{x|Permian}} lords were ash—
 And in that emptiness he made his own
-A kingdom built from speed and metabolic flash.
+A realm of speed and metabolic flash.
 
 For Archon had a gift his brothers lacked:
 A heart divided into chambers four
@@ -20226,147 +20226,141 @@ With oxygen to every cell and pore—
 
 And some of Archon's children ran so hot
 Their blood approached the warm—not mammal-warm,
-Not Cynos' careful thermostat, but what
-They had was fire enough to outperform
+Not Cynos' careful thermostat; their lot
+Was heat and fire enough to outperform
 
 The sluggish sprawl of Squamos' kindred cold.
-
-Two sons had Archon in the {{x|Triassic}} morn:
+Two sons had Archon in {{x|Triassic}} morn:
 Great Cruros, firstborn, heavy, proud, and bold,
 And Avemeta, lighter, later-born.
 
-Cruros was the elder, and he claimed
+Cruros, the elder, was the one who claimed
 The rivers and the lowland flood-plains first—
 His children were the crocodile-line, famed
 For ambush, armor, patience, and the burst
 
-Of sudden violence from the water's edge.
-The rauisuchians walked on upright limbs
+Of violence launched from the water's edge.
+Rauisuchians walked on upright limbs
 And hunted like great wolves along the sedge
-Of {{x|Triassic}} rivers—at the water's brims
+Of {{x|Triassic}} rivers, and on their rims
 
-Cruros' dynasty built their riverine domain:
+Cruros' line built up its river domain:
 Phytosaurs with the crocodilian shape
-Long before the crocodile would claim that reign—
+Long before crocodiles would claim that reign—
 These were the first to wear the water's drape
 
 Of armor-scale and elongated snout,
-Of eyes above the waterline that watched
+Of eyes that watched above the water's line
 And waited for the prey to venture out—
-The river-king design, perfectly matched
+The river-king design, a pattern fine
 
-To every watercourse on {{p|Pangaea}}'s face.
-
-And Cruros' children were the {{x|Triassic}} lords—
+For each watercourse on {{p|Pangaea}}'s face.
+And Cruros' children were {{x|Triassic}} lords—
 They ruled the land and water, and their race
 Seemed destined for ten thousand years of hordes
 
-And hunting-empires by the riverside.
-No creature in the early {{x|Triassic}} stood
-Against the rauisuchian's hungry stride
+And hunting-realms along the riverside.
+No creature in the young {{x|Triassic}} stood
+Against rauisuchians' hungry stride
 Or challenged the phytosaur's neighborhood.
 
 But Avemeta—lighter, quicker, small—
 Took to the uplands and the drier ground
 Where Cruros' heavy children could not crawl
-As easily, and there young Avemeta found
+As easily; there Avemeta found
 
 His own advantage: hollow bones for speed,
-Long legs for running, small bodies that could eat
+Long legs for running, small frames that could eat
 The scraps and edges—every humble deed
-Of the second-born who makes a life complete
+Of second sons who make a life complete
 
 From what the firstborn leaves behind.
 
                                        From him
 Would come the dinosaurs—but that is next—
-For now Avemeta ran along the rim
-Of Cruros' empire, humble and perplexed
+Now Avemeta ran along the rim
+Of Cruros' realm, both humble and perplexed
 
-At his own smallness in a world of giants.
-
-The archosaurs divided {{p|Pangaea}}'s spoils:
-Cruros in the lowlands, in defiance
+At his own smallness, giants in his sight.
+The archosaurs then split {{p|Pangaea}}'s spoils:
+And Cruros held the lowlands in despite
 Of any rival, master of the soils
-
-And watercourses, while Avemeta crept
+And watercourses; Avemeta crept
 Through upland scrub and arid highland where
 The rainfall was too sparse, the rivers swept
 Too thin to hold a crocodilian's lair.
 
 This is the lesson of the ruling line:
-That greatness does not always look like power
-At the start—that Archon's true design
+That greatness need not first look like power;
+That at the outset Archon's true design
 Was not the elder son's triumphant hour
 
-But the younger's patience in the margins—
+But in the younger, patient and unseen,
 The one who ran on hollow bones and stayed
-In the edges of his brother's bargains,
-Waiting for the world to be remade.
+Along his brother's borders, in between,
+And waited for the world to be remade.
 
-For Cruros ruled the {{x|Triassic}} entire—
-But Avemeta's children would inherit
+Cruros ruled the {{x|Triassic}} entire—
+But Avemeta's heirs would inherit
 What Cruros lost when the world caught fire:
-The future favors those with patient merit.
+For the future favors patient merit.
 
 So honor Archon's house of hollow bone
-And four-chambered heart and upright stride—
+And heart of chambers four and upright stride—
 The ruling reptiles who would seize the throne
 Of every continent and every tide.
 
 
 # Chapter 87: The Long-Necked Fisher
 
-Among the strangest children of the {{x|Triassic}} shore
-Was Tanystros—an archosauromorph whose frame
+The strangest child of the {{x|Triassic}} shore:
+Tanystros, archosauromorph, whose frame
 Defied all reason with a neck that bore
 More vertebrae than sense could rightly claim.
 
-His body was the length of a man, no more—
+His body had a man's length, and no more—
 A sturdy, lizard-shaped and humble thing—
 But from his shoulders grew a neck before
-His head that stretched like an impossible string:
+His head that stretched, an impossible string:
 
 Three times the length of body, stiff and straight,
-A fishing-rod of bone with a tiny head
+A fishing-rod of bone, a tiny head
 Perched at the far end, baited with the weight
 Of small sharp teeth for catching fish—instead
 
 Of swimming to his prey, Tanystros stood
-Upon the {{x|Triassic}} shoreline, on the rocks
-Above the {{p|Tethys}} shallows, and the food
-He sought was speared below from coastal stocks
+On the {{x|Triassic}} shoreline, on the rocks
+Above the {{p|Tethys}} shallows, where he could
+Spear what he sought below from coastal stocks
 
 Without his body entering the waves.
-
 Think of a heron frozen in its stance—
 But stretched to the absurd, a shape that saves
 Its lungs from water by the sheer expanse
 
-Of neck between the breathing chest and the jaws
+Of neck between the breathing chest and jaws
 That hunted underneath the surface foam—
 A compromise that broke all normal laws
 Of vertebrate design: to fish from home
 
-Without the cost of swimming.
+Without the toil of swimming.
 
-                               And he was not
-Alone in his {{x|Triassic}} strangeness—for the age
-Of the {{x|Triassic}} was a time of what
-No other era matched: a living stage
+                               Nor was he
+Alone in strangeness; the {{x|Triassic}} age
+Was such a time as no age since would see:
+It was a living and evolving stage
 
-Of evolutionary experimentation,
-Where every body plan was tried at once
-In the great recovery—each variation
-Given room to flourish for some months
+Of trial, where at once each body plan
+Was tried in the great recovery's span;
+Each variation found its room to thrive
+For months or millions of years, kept alive
 
-Or millions of years before the sorting came.
+Before the sorting came. And he had kin:
+The Protorosauros, a long-necked clan
+Of archosauromorphs, whose claim was thin
+On history and brief—and so they ran
 
-Tanystros had kin: the Protorosauros clan
-Of long-necked archosauromorphs whose claim
-On history was brief—they ran
-
-The {{x|Triassic}} coastline in their odd parade
+The {{x|Triassic}} coasts in their odd parade
 Of reaching necks and small-toothed fishing heads,
 Of bodies built for shoreline's serenade
 Where ocean meets the rock in tidal beds.
@@ -20377,73 +20371,72 @@ Beyond the shallows, swimming partially free
 Of shore, their long necks sweeping all about
 
 For fish beneath them as they surface-swam—
-Half-aquatic, like the earliest attempt
+Half in the water, like the first attempt
 Of Archon's wider family to cram
-Themselves into the marine biome, exempt
+Themselves into the sea's biome, exempt
 
 From the commitment Ichthyos had made
-Of giving up the land entirely—
+Of leaving land behind for evermore—
 These were the dabblers, wading in the shade
-Of the {{x|Triassic}} coast's uncertainty.
+Along the {{x|Triassic}}'s uncertain shore.
 
-For in those first ten million years of the age,
+Through the first ten million years of that age,
 The boundaries between the land and sea
 Were blurred by those who stood on every stage
-At once—who were not fully what they'd be
+At once—who were not fully what they'd be,
 
-But experimenting with the ocean's edge.
+Experimenting with the ocean's edge.
+Tanystros' clan would perish long before
+{{x|Jurassic}} dawned; their evolution's pledge
+Was local, brief, a footnote in the lore
 
-The Tanystros clan would perish long before
-The {{x|Jurassic}} dawned—their evolutionary pledge
-Was local, brief, a footnote on the shore
-
-Of {{x|Triassic}} time—but they taught a truth
-That the {{x|Mesozoic}} would repeat and prove:
-That the border between ocean and dry earth
-Is not a wall but a gradient, a groove
+Of {{x|Triassic}} time. And yet they gave birth
+To truth the {{x|Mesozoic}} would yet prove:
+That border between ocean and dry earth
+Is not a wall but gradient, a groove
 
 That life moves back and forth across at will—
-From Mesos in the {{x|Permian}} lake to these
+From Mesos in {{x|Permian}} lakes to these
 Long-necked {{x|Triassic}} fishers on the sill
-Of the {{p|Tethys}} coast, to the plesiosaur seas
+Of {{p|Tethys}}' coast, to plesiosaur seas
 
-That were coming—every age found some
-Who straddled the boundary, who refused
-To choose between the land's dry kingdom
-And the ocean's depths—the line was used
+That were to come—each age found those who'd stand
+Astride the boundary, and who refused
+To choose between the kingdom of dry land
+And ocean depths. The line for them was used
 
 As highway, not as barrier.
 
-                               So honor
-The strangest shapes the {{x|Triassic}} morning made—
-Tanystros with his neck of absurd honor,
+                               Give praise
+To shapes the strange {{x|Triassic}} morning made—
+Tanystros, with his neck's absurd displays,
 The fishing-rod design that briefly swayed
 
 Above the waves and caught his silver prey
 Without a single stroke of swimming fin—
-A shape that worked for its own {{x|Triassic}} day
+A shape that served its own {{x|Triassic}} day
 And asked for nothing but the fish therein.
 
 Not every form endures. Not every plan
 Survives the sorting of the ages' test.
-But every form that lived, however brief its span,
+But all that lived, however brief its span,
 Was life's own answer to the question—blessed
 
 With the same stubborn will to eat and breed
 That moves the stars and turns the spiral arm.
 Tanystros on his rock fulfilled his need
-And vanished, and the {{x|Triassic}} took no harm
+Then vanished; the {{x|Triassic}} took no harm
 
 From having made him—for the sea keeps room
-For every experiment, however strange,
+For each experiment, however strange,
 And honors every shape between the bloom
 Of life and death across its endless range.
 
 
 # Chapter 88: The First Terrible Lizards
 
-Now of Avemeta's children hear the start—
-Not the great and terrible that they became,
+Of Avemeta's children, hear the start—
+Not the great and terrible they became,
 But the humble, the small, the racing heart
 Of creatures that did not yet know their name.
 
@@ -20452,107 +20445,103 @@ No larger than a dog, with hollow bones
 And hands that grasped, and legs like coiled springs
 Built for running over {{x|Triassic}} stones.
 
-In the uplands of the southern {{p|Gondwana}} land,
+In uplands of the south, {{p|Gondwana}}'s land,
 Where Cruros' river-children held no sway,
 The earliest of Avemeta's band
-Appeared—Deinos, whose {{x|Triassic}} day
+Appeared: Deinos, and his {{x|Triassic}} day
 
-Was spent in running, catching, staying small
-In a world where Cruros' rauisuchians prowled
+Was spent in running, catching, staying small,
+While Cruros' rauisuchians would prowl
 The lowlands and the river-valleys, tall
-And heavy—while the little dinosaurs howled
+And heavy; little dinosaurs would howl
 
-And chirped in upland scrub and thin-aired heights.
+And chirp in upland scrub and thin-aired heights.
+Deinos is "terrible," Sauros "lizard"—
+The first to bear that name had modest sights:
+Not terrible: much more like a wizard
 
-Deinos means "terrible" and Sauros "lizard"—
-But the first to bear that name had modest sights:
-Not terrible at all, more like a wizard
-
-Of economy—small body, hollow bone
+Of economy: slight frame, hollow bone
 That saved the weight, long legs for upright stance,
 And hands with grasping fingers that had grown
 Three-fingered, dextrous, built for catching chance
 
-And insect, lizard, small mammal in the brush.
-They ran on two legs—bipedal, light,
+Bug, lizard, little mammal in the brush.
+They ran on two legs—bipedal and light,
 With tails outstretched for balance in the rush
-Of their hunting dashes through the {{x|Triassic}} night.
+Of hunting dashes through {{x|Triassic}} night.
 
 Eoraptoros was among the first—
-"Dawn plunderer" in the later name that men
+"Dawn plunderer," the later name that men
 Would give his bones—but in his own time, versed
-In nothing grander than the need to eat, and then
+In nothing grander than to eat, and then
 
 To eat again tomorrow. He was small—
-Three feet of predator in {{p|Gondwana}}'s south,
-With undifferentiated teeth for all
+Three feet of hunter in {{p|Gondwana}}'s south,
+Undifferentiated teeth for all
 His prey: he ate whatever reached his mouth.
 
-And Herrerasauros ran beside him there—
+Herrerasauros ran beside him there—
 A little larger, with a sliding jaw
 That let his lower bite extend and snare
 His prey with an articulated maw
 
-That other reptiles lacked—an innovation
-That hinted at the hunting future, where
-The theropod line would build a predation
+That other reptiles lacked: innovation
+That hinted that the hunting age was near:
+The theropods would build a predation
 Empire spanning every biosphere.
 
-But they were few. The {{x|Triassic}} was not theirs—
-Not yet. The rauisuchians owned the plains,
-The phytosaurs controlled the river-lairs,
+But they were few, with no {{x|Triassic}} share—
+Not yet: rauisuchians owned the plains,
+The phytosaurs held every river's lair,
 And Deinos' children lived on what remains
 
 The great ones left behind—the edges, scraps,
-The upland territories no one wanted,
-The arid margins on the {{x|Triassic}} maps
-Where rainfall failed and bigger beasts were daunted.
+The upland territory none wanted,
+The arid margins of {{x|Triassic}} maps
+Where rainfall failed, and large beasts were daunted.
 
-This is how kingdoms begin: not in the center
-But at the fringe, not in the fat and fertile
-Lowlands of the powerful, but where a renter
-Of marginal land must make each turtle
+Thus kingdoms are begun: not at the heart
+But at the fringe; not on the fertile plain
+Where strong ones fatten, but within the part
+Where one who rents the margin must obtain
 
-And beetle count. The pressure of the edge
-Forged Deinos' children into something lean
-And efficient—each adaptation's pledge
-To make more from less, to run the machine
+From every turtle, beetle, all he can.
+The pressure of the edge made Deinos' line
+So lean and so efficient, with a plan
+To make more out of less, to run the fine
 
-Of the body on less fuel, less water, less air,
-And still outrun the things that wanted them dead.
-
-Three lines branched from Deinos's early lair:
+Machine of flesh on less fuel, water, air,
+And still outrun the ones who wished them dead.
+Three lines would branch from Deinos' early lair:
 Theros, the beast-footed, who would be fed
 
-On flesh and carry forward the hunting art;
+On flesh and carry on the hunting art;
 Sauropos, who would grow to walk on four
-Great legs and eat the green world, the counterpart
+Great legs and eat the green world, counterpart
 Of Theros' violence—the herbivore
 
 That would become the largest thing to stride
-Across the earth; and Ornithis, bird-hipped,
-Whose pelvis rearranged its bones inside
-To hold a greater gut, the better equipped
+Across the earth; and, third, the bird-hip kind,
+Ornithis, pelvis rearranged inside
+To hold a greater gut, and so designed
 
-For breaking down the cellulose of plants.
-
+For breaking down the cellulose in food.
 Three houses of the dinosaurs were born
-In the {{x|Triassic}} uplands—three new clans
+In {{x|Triassic}} uplands, a threefold brood
 From Avemeta's children, small and worn
 
 And unremarkable—who did not know
-They held the future of the {{x|Mesozoic}} world
+They held the future {{x|Mesozoic}} world
 Within their hollow bones and racing flow
-Of warm-ish blood—the banners not yet unfurled
+Of warm-ish blood—the banners yet unfurled
 
 Of tyranny and thunder and the sky.
-
 Honor the small beginnings—every great
-And overwhelming dynasty that storms on by
+And overwhelming line that storms on by
 Was once a creature running, running late
 
 For dinner in the uplands, chasing bugs
-Through scrubland that no empire deigned to own—
+Through scrubland no empire deigned to own—
 And finding there, in poverty's tight hugs,
 The seeds of every future ever sown.
 
@@ -20564,12 +20553,12 @@ There is a shape the ocean loves.
                                     The sea
 Asks every swimmer the same question: How
 Will you move through me?—and the answer, free
-Of any lineage's bias, is the prow
+Of lineage or bias, is the prow
 
-Of the dolphin: tapered head and fusiform
-Body, the crescent tail that drives from side
-To side or up and down—the universal form
-Of speed in water, tested, proven, tried
+Of dolphins: fusiform, with tapered head,
+The crescent tail that drives from side to side
+Or up and down, the form all oceans wed
+To speed in water: tested, proven, tried
 
 By every group that ever hunted fish
 In open ocean at the swimming pace
@@ -20577,282 +20566,271 @@ Of something that must catch its fleeing dish
 Or starve—the water shapes them to the race
 
 And every time the answer is the same.
-
 Ichthyos found this answer first among
-The reptiles of the {{x|Triassic}}—and his claim
-To the dolphin shape was older, deeper, wrung
+The reptiles of {{x|Triassic}} time; his claim
+To dolphin form was older, deeper, wrung
 
-From fifty million years of {{x|Triassic}} sea
+From fifty million years' {{x|Triassic}} sea
 Before the dolphins of a later age
-Would find the same solution—convergency,
+Would find it too—convergence's decree,
 The ocean's only universal page:
 
-That physics trumps all ancestry, and the form
-That works in water works for fish and whale
-And ichthyosaur alike—the ancient norm
-Of hydrodynamics writing the same tale
+That physics trumps all ancestry; the form
+That works in water works for fish and whale,
+Ichthyosaur alike—the ancient norm
+Of hydrodynamics that writes one tale
 
 In every lineage that tries the deep.
-
-By middle {{x|Triassic}}, Ichthyos' children bore
+By mid-{{x|Triassic}}, Ichthyos' young bore
 No trace of the limbed ancestor who'd creep
-Ashore between his hunts—the leg was no more:
+Ashore between his hunts. Legs were no more:
 
 Flippers now, four paddles for the steering,
-A fluked tail like a half-moon blade,
-A dorsal fin for stability, the veering
+A tail with flukes, curved like a half-moon blade,
+A dorsal fin for poise, and the veering
 And cutting of a body purpose-made
 
 For speed—Ichthyos could not walk on land
-And did not need to—he gave live birth
-In the water, like the mammal's later brand
+And did not need to; and he gave live birth
+In water, like the mammals' later brand
 Of sea-return—no egg upon the earth
 
 Required, no beach to haul up on to lay—
-His young were born tail-first in open ocean
-And swam beside their mother from their first day,
+His young were born tail-first in the ocean
+And swam beside their mothers from that day,
 Fully formed, already in the motion
 
 Of the hunt.
 
-             Great Shonisauros grew
+             And great Shonisauros grew
 To the length of whales—fifteen meters long—
 In the {{x|Triassic}} seas of {{p|Tethys}}, through
 The corridors of {{p|Panthalassa}} strong
 
 And wide, where the enormous ocean stretched
-From pole to pole on {{p|Pangaea}}'s open side—
+From pole to pole on {{p|Pangaea}}'s far side—
 And smaller Ichthyos hunted and fetched
 Their fish and squid through every current and tide.
 
-Their eyes were the largest of any animal's—
+Their eyes were larger than all other beasts'—
 Enormous orbs that drank the deep-sea dark
-And let them hunt below the light, the annals
-Of deep water written in each hunting arc
+And let them hunt below the light at feasts
+Whose annals the deep wrote in each hunt's arc.
 
-Through the twilight zone where cephalopods
-And fish sought refuge from the sunlit layer—
-But Ichthyos followed, against all odds
-Of darkness, guided by the ancient prayer
+In twilight zones where cephalopods hide
+And fish escaped the sunlit layer's glare,
+But Ichthyos pursued, the dark defied,
+And guided onward by the ancient prayer
 
-Of those great eyes to the faintest bioluminescence.
+Of eyes; faint bioluminescence seen.
+And in their ears, the bones that once were jaw
+Of their land-dwelling forebears, now marine,
+Conducted sound through water, and would draw
 
-And in their ears—the bones that once had been
-The jaw of their terrestrial inheritance—
-Conducted sound through water, the marine
-
-And intimate vibration of the deep
+The intimate vibration of the deep
 That told of prey and predator and reef
-And current—Ichthyos did not need to keep
+And current, so he did not need to keep
 His surface-senses, having found relief
 
 In the new senses water offered free.
-
 This is the lesson of convergent form:
-That the universe has favorites—that the sea
+The universe has favorites: the sea
 Rewards the same solution to the storm
 
 Of physics, whether mammal, fish, or scaled
 Reptilian swimmer—and the dolphin shape
 Is not a choice but an equation, nailed
-By the mathematics of the fluid's drape
+By mathematics of the fluid's drape
 
 Across a moving body—there is one
 Best answer to the question of the speed
-In water, and every lineage that has won
+In water; every lineage that's won
 The ocean's race has read the selfsame creed.
 
-The shark found it first, in the {{x|Devonian}} tide—
+Sharks found it first in {{x|Devonian}} tide—
 The tuna found it in the bony fish—
-And Ichthyos found it from the reptile side,
+Ichthyos found it on the reptile side,
 And dolphins later from the mammal's wish—
 
-And each time, the same: the fusiform,
-The tapered snout, the crescent-tail propulsion,
-The countershading—dark on top, the warm
-Pale belly below—the universal expulsion
+And each time the same fusiform design,
+The tapered snout, crescent-tail propulsion,
+The countershading, dark along the spine,
+Warm pale belly below, the expulsion
 
 Of drag and the embrace of speed.
 
-                                     So honor
-The ichthyosaurs who wore the ocean's shape
-Before the dolphins claimed that shape's great honor—
+                                     Then praise
+Ichthyosaurs, who wore the ocean's shape
+Long before dolphins claimed it in their days—
 Who proved that evolution's finest drape
 
-Is worn by many lineages in turn,
+Is worn by many lines, each in its turn,
 And every one that answers water's call
-Will find the same shape waiting to be earned—
+Will find the same shape waiting, theirs to earn—
 The dolphin form that is the sea's for all.
 
 
 # Chapter 90: The Turtle's Cousins
 
-Now hear the deeper story of the sea-return—
+Now hear the deeper tale of sea-return—
 For when the Nothros paddled from the shore
 And Plakos crushed his shells, they bore a turn
 In Paraps' ancient story, something more
 
-Than mere adaptation to the wave:
+Than any mere adapting to the wave:
 They were the turtle-kindred going home.
+Remember Paraps, eldest son, the grave,
+Of solid, heavy skull, who would not roam
 
-Remember Paraps, eldest son, the grave
-And solid-skulled, who never chose to roam
-
-The way that Eureps did with his twin windows?
-Paraps built the shell—the Turtlos line
-Who carry homes upon their backs through meadows—
+Like Eureps, with two windows in his head?
+For Paraps built the shell—the Turtlos line
+Who through the meadows bear their homes instead—
 And Paraps' deeper family, the fine
 
-And ancient connection to the Archon's house,
+And old connection with the Archon's house,
 Made him the sister-branch of all that ruled:
 Turtlos and Archon, quiet as a mouse
 The former, and the latter never fooled
 
 By any rival's bluff—but sister-kin
-Beneath it all, the turtle and the dinosaur
-Connected at the root, both carrying within
+Beneath it all, turtle and dinosaur
+Joined at the root, both carrying within
 The same deep heritage from Sauros' floor.
 
-And Sauropteros—the flipper-bearers—these
+Sauropteros, the flipper-bearers, these
 Were Paraps' ocean-children, stem and root
-Of the turtle-form adapted to the seas:
-Not Turtlos himself, but the same ancient suit
+Of turtle-form adapted to the seas:
+Not Turtlos himself, but that ancient suit
 
 Of body-plan expressed in marine terms.
+And Nothros was the first to show the signs:
+The paddle-limb; the barrel chest affirms
+A lung-breathing diver's need; and the lines
 
-Nothros was the first to show the signs:
-The paddle-limb, the barrel chest that affirms
-A lung-breathing diver's need, the lines
-
-Of a body built for underwater flight—
-Not the fish's tail-propulsion but the wing
+Of body built for underwater flight—
+Not fish's tail-propulsion, but the wing
 Beneath the waves, the flippers' pulling might
-That drew him through the water, the ancient swing
+That drew him through the water: ancient swing
 
-Of arms through fluid that the later plesiosaurs
-Would perfect to an art—but Nothros began it,
-In the {{x|Triassic}} {{p|Tethys}}, along the shores
-Of {{p|Pangaea}}'s coastline, where the granite
+Of arms later plesiosaurs would hone
+Into an art. But Nothros was the first,
+In {{x|Triassic}} {{p|Tethys}}, where coastal stone
+Of {{p|Pangaea}}'s granite shelf dropped, immersed
 
-Shelves dropped off to deeper water, and the fish
-That sheltered there were his to hunt and catch
-With his long neck's reach and his needle teeth's wish
-For anything that swam within the snatch.
+In deeper water; and the fish that hid
+There, sheltered, were his own to hunt and catch
+With long neck's reach; his needle teeth would bid
+For anything that swam into the snatch.
 
-His children grew: some kept the nothosaur form,
-Otter-like, returning to the shore to rest
+His children grew; some kept nothosaur form,
+Like otters, coming to the shore to rest
 And breed—but others ventured through the storm
 To deeper water, and these were the best
 
 Adapted for the open sea, and these
-Became the Plesios in the later age—
-True plesiosaurs who never left the seas,
-Who wrote the {{x|Jurassic}} ocean's grandest page.
+Became Plesios in the later age—
+Plesiosaurs who never left the seas,
+Who wrote {{x|Jurassic}} ocean's grandest page.
 
-And Plakos, his cousin on the bottom shelf,
-Showed the other path: the turtle-echo,
-Round and armored, slow, content to feed himself
-On shellfish in the shallows' warm tableau—
+And Plakos, cousin on the bottom shelf,
+The other path: the turtle's echo, slow,
+Round, armored, and content to feed himself
+On shellfish in the shallows' warm tableau.
 
-He was the marine expression of what Turtlos
-Was on land: the patient, armored, low
-And steady form that Paraps always built—those
-Bodies made for endurance, not for show.
+He was in sea what Turtlos was on land:
+The patient, armored, steady form and low
+That Paraps always built, the bodies planned
+For long endurance and not made for show.
 
-The Sauropteros clan—Nothros, Plakos,
-And the plesiosaurs yet to come—were all
-The offspring of the same ancient purpose that flows
-Through Paraps' every child: the turtle's call
+The Sauropteros—Nothros, Plakos, too,
+And plesiosaurs yet to come—were all
+Born of the ancient purpose running through
+Each child of Paraps' house: the turtle's call
 
 To build the body strong and carry on,
-Whether on the land in shell-and-plate
+Whether upon the land in shell-and-plate
 Or in the sea with flipper-paddle drawn
 Through water—Paraps' children navigate
 
-Both worlds with the same patient architecture.
-
-This is the genealogy of the deep:
-That Turtlos on his log and the vast conjecture
-Of the plesiosaur hunting in the deep
+Both worlds with one patient architecture.
+Here is the lineage the oceans keep:
+Turtlos on his log, the vast conjecture
+Of plesiosaurs hunting in the deep,
 
 Are kindred—branches of one ancient tree
-That rooted in the solid skull of Paraps
+Rooted in Paraps' solid skull, which spread
 And flowered on the land and in the sea
-In forms that look unlike but share the maps
+In forms that look unlike, but share the thread
 
-Of the same deep body-plan: the armored patience,
-The lung-breathing endurance, the slow
-And certain way of living—these equations
-Of Paraps' house are written high and low
+Of one deep plan: the patience armored, slow,
+Lung-breathing endurance, the certain way
+Of living—these equations, high and low,
+Of Paraps' house are written to this day
 
 In every turtle basking on his stone
-And every plesiosaur that dove beneath
-The {{x|Mesozoic}} waves—they share the bone
+And each plesiosaur below the reef
+Of {{x|Mesozoic}} seas—they share the bone
 Of common ancestry, the shared belief
 
 That life is best lived slowly, strongly, deep,
-With armor on your back and air within your lung,
+With armor on your back, air in your lung,
 And patience as the covenant you keep
 With the world that was and the world yet young.
 
-So honor the connection—Turtlos on the land
-And Sauropteros beneath the wave—
+Then honor the bond—Turtlos on the land
+And Sauropteros, down beneath the wave—
 Both children of one father's patient hand,
-Both built to last, both certain, both brave.
+Both built to last, both certain, and both brave.
 
 
 # Chapter 91: Pangaea Divides
 
-The world was one, and then the world was not.
-
-{{p|Pangaea}}—the {{p|All-Land}}, the single face
+The world was one, and then the world was not:
+{{p|Pangaea}}, the {{p|All-Land}}, the single face
 Of continent that held in one great lot
-Every shore and mountain, every place
+Each shore and every mountain, every place
 
 Where life had built its kingdoms on the stone—
 Began to crack along its ancient seams
-Where the mantle's heat, persistent and alone,
+Where mantle heat, persistent and alone,
 Had pushed against the crust in magma-streams
 
-For a hundred million years.
+A hundred million years.
 
                                The rift began
-In the {{x|Triassic}}'s heart, a slow unzipping
-Of the continental skin that ran
-From north to south, the mantle's hot blood dripping
+At the {{x|Triassic}}'s heart: unzipping, slow,
+The continental skin, the split that ran
+From north to south, the mantle's blood aglow
 
-Into the crack and filling it with new
-Seafloor—basalt that cooled in the salt water
-And pushed the halves apart, a centimeter's due
-Each year, the patient geological slaughter
+Dripped in the crack and filled it up with new
+Seafloor, basalt that cooled in salt water,
+Pushed halves apart: a centimeter's due
+Each year: geology's patient slaughter
 
-Of unity into diversity.
-
+Of unity, to make the world diverse.
 {{p|Laurasia}} to the north, {{p|Gondwana}} south—
-The ancient names that the divided verse
-Of the continents would carry in the mouth
+The ancient names that, in divided verse,
+The parted lands would carry in the mouth
 
-Of every geologist to come—and between them
-The {{p|Tethys}} Sea grew wider, and the warm
-And shallow waters of its growing seam
+Of each geologist to come. And wide
+Between them grew the {{p|Tethys}} Sea; the warm
+And shallow waters of its growing tide
 Fed new corals, new fish, the reborn swarm
 
 Of marine life in the expanding space.
-
-But first the breaking. The {{x|Carnian}} rains.
-
-In the midst of the {{x|Triassic}}, every trace
-Of the dry and arid world was drowned—the plains
+But first the breaking: the {{x|Carnian}} rains.
+In mid-{{x|Triassic}} time they drowned each trace
+Of the dry, arid world, and all the plains
 
 That had been desert for ten million years
-Grew suddenly wet: the {{x|Carnian Pluvial}}
-Episode, a million years of tears
-From skies that had forgotten the alluvial
+Grew wet at once: {{x|Carnian Pluvial}}
+Episode, a whole million years of tears
+From skies that had forgot alluvial
 
-And the monsoon—and now remembered them.
-The cause was volcanic, tectonic, the shift
-Of continents and currents—a requiem
-For the dry {{x|Triassic}} world, a gift
+And the monsoon—and now recalled them all.
+The cause: volcanic and tectonic shift
+Of plates and currents, requiem and pall
+For dry {{x|Triassic}} lands, and yet a gift
 
 Of water to a world that had been parched—
 But water that arrived too fast, too much,
@@ -20862,9 +20840,9 @@ Toward desert-adaptation lost their touch
 And struggled in the sudden wet.
 
                                   This was
-The proto-disruption—not a full extinction
-But an ecological reshuffling, because
-The old arrangements met their contradiction
+The proto-disruption, not extinction,
+Ecological reshuffling, because
+Old arrangements lost their high distinction
 
 In the changed climate: what had thrived in drought
 Now drowned in rain, and what had waited for
@@ -20872,156 +20850,151 @@ The wet now flourished—and the sorting out
 Left Cruros' children weakened at the core
 
 While Avemeta's nimble dinosaurs,
-Adapted to the marginal and the changing,
-Found opportunity in the {{x|Carnian}} doors
-That opened as the old world was rearranging.
+At home in margins, in all things changing,
+Found new chances in the {{x|Carnian}} doors
+That opened on a world rearranging.
 
-The rains subsided. The world resumed its drift.
-But the balance had been tilted—Deinos' children
+The rains withdrew; the world resumed its drift.
+But now the balance tilted: Deinos' kin
 Had gained a foothold from the climate's shift,
-And Cruros' dominance, though far from wilted,
+And Cruros' dominance, though far from thin,
 
 Was never quite so absolute again.
-
-And the cracking continued—{{p|Pangaea}}'s seams
-Grew wider year by year, and then
-The isolated continents' separate dreams
+The cracking still went on: {{p|Pangaea}}'s seams
+Grew wider by the year; and it was then
+The isolated lands' own separate dreams
 
 Began: each landmass carrying its own
-Cargo of creatures into isolation,
-Where evolution worked on the local bone
-And local climate—each a separate nation
+Cargo of creatures to isolation,
+Where evolution worked on local bone,
+Local climate—each a separate nation
 
-Of life developing its own solutions.
+Of life, evolving its own solutions.
+The {{p|Tethys}} became an ocean highway,
+Warm equatorial contributions,
+Currents connecting east and west midway
 
-The {{p|Tethys}} Sea became an ocean highway—
-A warm equatorial current's contributions
-Connecting east and west along the midway
+Of the world; Ichthyos and Nothros swam
+Its corridors, the reptiles of the sea,
+Who followed fish across the growing dam
+Of the new seafloor, spreading by degree
 
-Of the world—and Ichthyos and Nothros swam
-Its widening corridors, the marine reptiles
-Following the fish across the expanding dam
-Of new seafloor spreading in its tiles
+In basalt, mile by mile, along the rents
+Between the lands. {{p|Pangaea}}'s breaking: seed
+Of every future difference: events
+That gave each continent its unique creed
 
-Of basalt, mile by mile, between the continents.
-
-The breaking of {{p|Pangaea}} was the seed
-Of every future difference—the events
-That would give each continent its unique creed
-
-Of creatures: the marsupials of the south,
-The placentals of the north, the island birds,
-The lemurs of {{p|Madagascar}}—from the mouth
+Of creatures: marsupials of the south,
+Placentals of the north, the island birds,
+Lemurs of {{p|Madagascar}}—from the mouth
 Of this great cracking came the different words
 
 Of life's vocabulary on each shore.
-
-But for now, in the middle {{x|Triassic}}'s age,
-The breaking was just beginning—nothing more
-Than a wider seaway and a wetter stage
+But now, in the middle {{x|Triassic}} age,
+The breaking had just begun—nothing more
+Than wider seaway and a wetter stage
 
 For the same cast of characters to play
 Their parts upon—Cruros by the river,
-Deinos in the uplands, Ichthyos in the bay,
-And Cynos in his burrow, a persistent liver
+Deinos on heights, Ichthyos in the bay,
+Cynos in his burrow, stubborn liver
 
-Through every age's change.
+Through each age's change.
 
                               Honor the breaking—
-For the world that was one had to become many
-Before the richness of the many-making
+For the one world had to become many
+Ere the richness of the many-making
 Could fill the earth with more life than any
 
-Single continent could hold—the division
-Was not a wound but a multiplication,
-Not a loss but a widening of the vision
-Of what life could become in separation.
+Lone continent could hold; the division
+Was not a wound, but multiplication,
+Not loss, but a widening of vision
+Of what life could be in separation.
 
 
 # Chapter 92: The Cynodont's Vigil
 
 While the great ones ruled the {{x|Triassic}} plains—
-While Cruros held the rivers and the lowlands
+While Cruros held the streams and the lowlands
 And Deinos' children ran in upland lanes—
-The children of Cynos lived in small commands
+The young of Cynos lived in small commands
 
-Of burrow-dwelling, nighttime, careful kinds
-Who had inherited the {{x|Permian}} loss
-And carried in their milk-producing glands
-And fur-touched skin the memory of the cross
+Of burrowers, nocturnal, careful bands
+Who had inherited {{x|Permian}} loss
+And carried in their milk-producing glands,
+Fur-touched skin, the memory of the cross
 
 That Synaps' dynasty had borne: the fall
-From {{x|Permian}} dominance to {{x|Triassic}} shadow,
-From the world's great lords to creatures small
-Enough to hide in any grassy meadow.
+From {{x|Permian}} to {{x|Triassic}} shadow,
+From the world's great lords down to creatures small
+Enough to hide in a grassy meadow.
 
 For Cynos had been great—remember this—
-His father Theraps and his grandsire Pelyon
-Had ruled the {{x|Permian}} world in tooth and kiss
-Of predator and grazer—every hellion
+His father Theraps, and before him, too,
+Grandsire Pelyon, ruled in tooth and kiss
+The {{x|Permian}} world; each hellion that slew
 
-And gentle herbivore of the synapsid age
-Had answered to the house of Synaps once—
+And gentle grazer of synapsid age
+Had answered to the house of Synaps then—
 But the {{x|Great Dying}} wrote a different page,
-And those who survived were not the mighty hunts-
+And those who lived were not the mighty men
 
-Men of the {{x|Permian}} peak but the burrowers,
-The small ones, the ones who ate the least
-And needed least, the underground endurers
-Who outlived the fire and the poisoned feast.
+Of {{x|Permian}} heights; but burrowers, small,
+The ones who ate the least and needed least,
+The underground endurers, who through all
+Outlived the fire and the poisoned feast.
 
 And now, in the {{x|Triassic}}'s middle years,
 The children of Cynos grew smaller still—
-For the archosaurs above pressed down with fears
-And appetite on anything that filled
+For archosaurs above pressed down with fears
+And appetite on all that came to fill
 
-A niche above the size of a shrew.
+A niche above the size of shrews.
 
                                       The night
 Became the cynodont's domain—the dark
-Where the cold-blooded archosaurs lost their might
+Where cold-blooded archosaurs lost their might
 And the warm-blooded mammal-kin could mark
 
-Their territory by scent and sound and the feel
+Their ground by scent and sound, and by the feel
 Of whiskers in the dark—those whiskers that
 Cynos had first grown, the sensory wheel
 Of vibrissae that turned the blind and flat
 
-World of the nighttime into a map of touch.
-
-And in the late {{x|Triassic}}, from the smallest
+The world of night into a map of touch.
+And in the late {{x|Triassic}}, from the least
 Of Cynos' shrinking children, came the clutch
-Of the first true mammals—Mammos, the humblest
+Of first true mammals: Mammos, lowly, least
 
 Of all the heirs of Synaps' ancient line,
 Who bore the full inheritance at last:
 The three ear-bones that heard the world's design
 In frequencies the reptiles could not cast
 
-Their hearing toward—the jaw-bones of their fathers
-Had migrated to the middle ear and become
-The hammer, anvil, stirrup—from the gathers
-Of a hundred million years, the sum
+Their hearing toward. Their fathers' jaw-bones, old,
+Had moved into the middle ear, become
+The hammer, anvil, stirrup—fold on fold
+Through a full hundred million years, the sum
 
-Of Synaps' extra jaw-bone's slow migration
-Toward a new and finer purpose—hearing,
-Acute and intimate—the transformation
-Of what had been a biting tool, the steering
+Of Synaps' extra jaw's slow migration
+Toward a new and finer use: the ear,
+Acute and intimate: transformation
+Of what had been a jaw. So, year by year,
 
-Of evolution taking surplus bone
-And turning it to something new: a sense
+Did evolution steer the surplus bone
+And turn it into something new: a sense
 So delicate it heard the forest's tone
-In registers of exquisite consequence.
+In registers exquisite and intense.
 
-And milk—Mammos gave his young the gift
-Of milk, the mother's body feeding from
-Within itself, the evolutionary shift
-That freed the newborn from the egg's aplomb
+And milk—for Mammos gave his young the gift
+Of milk: the mother's body was the source,
+Within—an evolutionary shift
+That freed the newborn from the egg's set course
 
 And bound it to the mother's warmth instead—
-A cord of nourishment more flexible
-Than any yolk-sac: wherever mother fed,
-The infant fed, the bond invincible
+A cord of nourishment more free to bend
+Than any yolk-sac: where the mother fed,
+The infant fed, a bond no harm could end,
 
 And portable across whatever land
 Or climate or disaster came.
@@ -21030,161 +21003,155 @@ Or climate or disaster came.
 The full and covering warmth, the body's band
 Of insulation that allowed the stir
 
-Of metabolism through the coldest night,
+Of metabolism through the cold night,
 That kept the body's engine running when
 The archosaurs went slow—the mammal's right
-To the nighttime world, the moonlit den
+To all the nighttime world, the moonlit den
 
 Where small eyes gleamed and small teeth cracked the shell
 Of beetle, and small whiskers read the dark,
-And small bodies kept themselves alive and well
+Small bodies kept themselves alive and well
 On what the daylight giants left—the bark
 
 And seed and insect of the shadow-world.
-
-This was the vigil—one hundred million years
+A vigil of a hundred million years
 Of smallness, of the patient flag unfurled
 In darkness, of the nighttime pioneers
 
-Who kept the synapsid flame alive
-Through all the {{x|Mesozoic}}'s long dominion
-Of the archosaur lords—content to survive
-And wait, and hold, and keep their one opinion:
+Who kept the old synapsid flame alive
+Through the {{x|Mesozoic}}'s long dominion
+Of archosaur lords—content to survive
+And wait and hold, keeping one opinion:
 
-That the night was theirs, and the future
+That the night was theirs, and that the future
 Was written in the milk and fur and bone
-Of the smallest creatures—the suture
+Of the smallest creatures—that the suture
 Between the past and the world yet unknown
 
-Was the mammal in the burrow, warm and small,
-Who heard the world in frequencies the giants
-Could never know, and who would outlast them all.
+Lay in the burrow: mammal, warm and small,
+Who heard in frequencies that the giants
+Could never know, and would outlast them all.
+So honor the vigil's quiet clients
 
-Honor the vigil. Honor the quiet clients
-Of the nighttime world who kept the ancient fire
-Of Synaps' dynasty burning through the dark—
-And waited—for the night rewards desire,
-And the patient inherits every empty park.
+Of night, who kept alive the ancient fire
+Of Synaps' dynasty through all the dark—
+And waited—night rewards their desire,
+The patient inherit each empty park.
 
 
 # Chapter 93: The Pack Hunters
 
-In the dry arroyos of the late {{x|Triassic}},
+In late {{x|Triassic}} washes, dry and bare,
 Where the red sandstone baked beneath a sun
-That knew no ice at either pole—the classic
-And greenhouse world where Pangaea's run
+That knew no ice at either pole—the air
+Of classic greenhouse, where Pangaea's run
 
-Of warmth made deserts of the deep interior—
-Coelos hunted.
+Of warmth made desert of the land within,
+There Coelos hunted.
 
                     Slender, light, and fast,
-A theropod no heavier than a terrier
+A theropod, a small dog's weight, but thin,
 But longer, with a whip-tail and the cast
 
-Of a creature built entirely for the chase—
-Coelos ran in packs across the flats
-Of {{p|Gondwana}}'s western reaches, and the race
-Of the hunt was not the solitary bats
+Of a creature built wholly for the chase—
+And Coelos ran in packs across the flats
+Of western {{p|Gondwana}}; and in the race
+The hunt was not the solitary bats
 
-And claws of a single predator's design
-But something new: the coordinated run
+And claws of one lone predator's design
+But something new: coordinated run
 Of many hunters in a curving line
 That drove the prey toward the others—one
 
-By one the pack members played their part
-In a strategy larger than any single brain—
+By one, the pack's members each played their part
+In strategy beyond one single brain—
 The hunt required a group, required the art
-Of communication: calls across the plain,
+Of signals, calls sent out across the plain,
 
 The reading of another's body-lean,
 The understanding that if I go left
 Then you go right—between us and between
-The prey the escape-route narrows—deft
+The prey, the route of escape narrows—deft
 
-And terrible in its efficiency.
+And terrible in its efficient skill.
+And Coelos left his evidence in stone:
+At what our later maps call {{p|Ghost Ranch}}, still
+Lies buried there a mass of fossil bone
 
-Coelos left his evidence in stone:
-At {{p|Ghost Ranch}} in the later cartography
-Of humans' names, a mass of fossil bone
-
-Would tell the tale: dozens of Coelos' kin
+To tell the tale: dozens of Coelos' clan
 Buried together in a single flood,
-A pack preserved in death—the discipline
-Of group living written in the ancient mud.
+A troop preserved in death, the social plan
+Of group life written in the ancient mud.
 
 They were not large—three meters, lightly built,
-With grasping three-fingered hands and hollow bones—
+With grasping three-fingered hands, hollow bones—
 But what they lacked in mass they had in guilt-
 Free cooperation: hunting in the zones
 
-Of possibility that only groups can reach.
-
-For this was Deinos' first great innovation—
+Of chance that only groups can hope to reach.
+This was Deinos' first great innovation—
 Not size, not strength, not venom's toxic breach,
-But the social bond, the pack's coordination
+But social bond, pack coordination
 
 That would echo through the theropod line
-For a hundred million years: the raptors
+A hundred million years: the raptor crew
 Of the {{x|Cretaceous}} hunting in a fine
-And deadly chorus—all of them the actors
+And deadly chorus—actors, all, on cue—
 
-In a play that Coelos first rehearsed
-In the late {{x|Triassic}}'s arid scrubland stage.
-
+In a play that Coelos had first rehearsed
+On the {{x|Triassic}}'s arid scrubland stage.
 The prey they hunted? Anything that durst
-To walk the open ground: the heritage
+To walk the open ground: in that late age,
 
-Of the {{x|Triassic}}'s moderate-sized game—
-Small ornithischians browsing in the brush,
-The last rhynchosaurs bearing the ancient claim
-Of beaked herbivory, the early rush
+{{x|Triassic}} heritage of mid-sized game:
+Small ornithischians browsing the brush,
+The last rhynchosaurs, with the ancient claim
+Of beak-herbivory; the early rush
 
-Of prosauropods—Sauropos' first attempts
-At the long-necked, long-tailed, four-legged form
-That would become the thunder-lizards—these exempts
+Prosauropods, Sauropos' first attempt
+At the long-necked, long-tailed, four-legged form,
+To be the thunder-lizards: these, exempt
 From nothing, not from tooth or from the storm
 
 Of Coelos' pack descending in a wave
 Of chirping, slashing, small-toothed predation
-That bled the larger prey and took what they gave
-In a death of a thousand cuts—the station
+That bled the larger prey, took what they gave
+In death by a thousand cuts—the station
 
-Of the small predator hunting what is large
-Through numbers, speed, and the coordinated will.
+Of small predators hunting what is large
+Through numbers, speed, coordinated will.
+And Cruros' children, watching, kept their charge:
+Rauisuchians and phytosaurs still
 
-And Cruros' children watched from the river-marge—
-The rauisuchians and the phytosaurs still
-
-Held the lowlands and the waterways—
+Held all the lowlands and the waterways—
 But Coelos and his pack ran in the dry
 Uplands, the arid basins, and the haze
-Of the desert's edge where the greater lords passed by
+Of desert's edge, where greater lords passed by
 
 Without a glance—for what was there to see
-In a pack of small and slender running things?
+In packs of small and slender running things?
+Nothing, perhaps—or else perhaps the key
+To everything the coming future brings:
 
-Nothing, perhaps. Or perhaps the key
-To everything that the future brings:
-
-That the greatest power is not the tooth alone
-But the bond between the hunters, and the call
+The greatest power is not tooth alone
+But the bond between hunters, and the call
 That says: together we are more than bone
 And claw—together we can bring the tall
 
-And the heavy to the ground.
+And heavy to the ground.
 
-                              Honor Coelos—
-The first pack-hunter of the dinosaur line,
-Who proved in the {{x|Triassic}}'s arid bellows
-That cooperation is the truest sign
+                              Honor the first
+Pack-hunter, Coelos, of the dinosaurs,
+Who proved, in the {{x|Triassic}}'s heat and thirst,
+That cooperation opens the doors
 
-Of evolutionary sophistication—
+To evolution's sophistication—
 That what one cannot do alone, a band
-Of kindred in coordinated predation
-Can accomplish—and upon this strand
+Of kin in hunting's coordination
+Is able to achieve; upon this strand
 
-Of social innovation, all the future
-Of the theropods would build their terrifying art.
+Of social innovation, from the start,
+Future theropods would build terror's art.
 
 
 # Chapter 94: The First Wings
@@ -21204,860 +21171,827 @@ And held it—the fourth finger of the hand
 Extended past all reason, and the rare
 And living skin stretched from that finger-strand
 
-To the body and the leg—a wing
-Built not from feathers but from a kite
-Of skin, a bat-wing's cousin, the ancient string
+To the body and the hind leg—a wing
+Built not from feathers, but formed as a kite
+Of skin, a bat-wing's cousin, ancient string
 Of membrane that gave Pteros his first flight.
 
 He was the first vertebrate in the sky—
-Not counting the gliders of the {{x|Permian}} trees,
+Not counting gliders in {{x|Permian}} trees,
 The small and desperate lizard-forms that fly
-For a moment between branches in the breeze—
+A moment between branches in the breeze—
 
 Pteros achieved true powered flight: the beat
-Of membrane wings against the {{x|Triassic}} air,
+Of membrane wings against {{x|Triassic}} air,
 The lift and thrust and banking that complete
-The mastery of the third dimension's lair.
+Mastery of the third dimension's lair.
 
 His bones were hollow—lighter than a thought,
 Thin-walled as paper, filled with air-sacs that
-Extended from his lungs and brought
+Extended from his lungs, and these sacs brought
 The oxygen of altitude to bat
 
 Through every wingbeat's metabolic need.
-His brain was large for his body—the cerebellum
-Swollen for the balance and the speed
-Of aerial computation—every stellum
+Large-brained for his size, the cerebellum
+Was swollen for the balance and the speed
+Of reckoning in flight, on its vellum
 
-And coordinate of the three-dimensional world
+Each point of the three-dimensional world
 Mapped in neural tissue that the landlocked
-Reptile never needed—but unfurled
-In the sky, where any error mocked
+Reptile had never needed—but unfurled
+In the high sky, where any error mocked
 
 With gravity's implacable demand.
-
-The first Pteros were small—sparrow-sized,
+The first of Pteros' kind were sparrow-sized,
 With teeth for catching insects on the strand
 Of evening air, with wings not yet king-sized
 
-But adequate for the modest {{x|Triassic}} skies
+But fit for the modest {{x|Triassic}} skies
 Where no other vertebrate competed
 For the aerial niche—Neopter's flies
-And dragonflies had owned it, undefeated,
+And dragonflies held it, undefeated,
 
-For three hundred million years—but now
+For some three hundred million years—but now
 A backbone and a warm-ish body brought
 A new competitor beneath the brow
-Of every {{x|Triassic}} sunset, and the thought
+Of each {{x|Triassic}} sunset, and the thought
 
 Of vertebrate dominion in the air
 Began with Pteros' small and toothed patrol
-Of the evening sky, catching his share
-Of insects in the aerial aureole.
+Across the evening sky, catching his share
+Of insects in the air's encircling bowl.
 
 His children would grow large—enormous—some
 With wingspans wider than a fighter plane—
 Quetzal of the {{x|Cretaceous}} would become
-The largest thing that ever flew—but that refrain
+The largest thing that flew—but that refrain
 
 Is for a later chapter. Here, the start:
-Small, toothed, membrane-winged, and insect-fed,
-Pteros took the sky and played his part
-In the {{x|Triassic}}'s grand experiment, and led
+Small, toothed, and membrane-winged, and insect-fed,
+So Pteros took the sky and played his part
+In the {{x|Triassic}}'s grand trial, and led
 
 The first invasion of the vertebrate
-Into the realm that only arthropods had known—
+Into realms only arthropods had known—
 And in the evening light, however late,
 His silhouette against the sky was sown
 
 As promise of the wings to come.
 
-                                   Two solutions
+                                   Two ways
 The vertebrates would find to powered flight:
-Pteros' membrane and the feathered contributions
+Pteros' own membrane, and the feathered sprays
 Of Deinos' later children—but tonight,
 
-In the {{x|Triassic}}'s fading light, only one
-Existed: the membrane wing, the finger-kite,
+In the {{x|Triassic}}'s fading light, but one
+Existed: membrane wing, the finger-kite,
 The pterosaur ascending toward the sun
 And banking in the thermal's lifting height.
 
-Honor the first fliers—Pteros and his kin
-Who dared the three-dimensional world above
+Honor first fliers—Pteros and his kin
+Who dared the third dimension's world above
 The ground where every other creature's been,
-And found in the empty sky a kind of love
+And found in empty sky a kind of love
 
 That only those who fly can understand:
 The freedom of the air, the lift, the soar,
 The world below becoming merely land—
-And the sky, the sky, becoming something more.
+And sky, the sky, becoming something more.
 
 
 # Chapter 95: The Eve of the Second Dying
 
-The {{x|Triassic}} had been good. Not perfect—nothing
-Is perfect in the aftermath of the greatest
-Death the world had known—but the recloathing
-Of the earth in green, the sea's belated
+{{x|Triassic}} days were good. Not perfect—none
+Is perfect in the wake of greatest death—
+But earth's recloathing in green had begun,
+The sea's belated clearing, like a breath,
 
-Clearing, and the radiation of new forms
+And radiation of the newer forms
 Into every empty niche had made
 A world that worked again: the coastal storms
-Fed rain to forests where the conifers swayed,
+Fed rain to forests where conifers swayed,
 
 The Ichthyos hunted the {{p|Tethys}} deep,
 The Nothros paddled in the shallow seas,
-And on the land Cruros' children held their sweep
-Of rivers while Deinos grew by slow degrees.
+And on land Cruros' children held their sweep
+Of rivers; Deinos grew by slow degrees.
 
-It was a good world, and the end of the {{x|Triassic}}
-Saw it full of life: three hundred species
-Of marine reptile in the {{p|Tethys}} classic
-Corridors, a thousand insects in the creases
+A good world; and the late {{x|Triassic}} age
+Saw it was full of life: three hundred kinds
+Of marine reptile on the {{p|Tethys}} stage,
+A thousand insects in the forest's rinds.
 
-Of every forest—the recovery
-Was nearly complete, the scars of the {{x|Permian}}
-Almost healed over—and the discovery
-Of new ways of living, the median
+The great recovery was nearly through,
+The scars the {{x|Permian}} had left near healed,
+Discovery of ways of living new,
+{{x|Mesozoic}} innovation, unsealed.
 
-Of {{x|Mesozoic}} innovation, was underway.
+But earth keeps its appointments with the fire.
+Beneath the floor that would in time become
+The {{p|Atlantic Ocean}}, the entire
+Mantle surged, and pressed, and would not succumb
 
-But the earth keeps its appointments with the fire.
+Against the crust, where {{p|Pangaea}}'s seam was torn:
+The {{x|Central Atlantic Magmatic}} swell,
+The {{x|CAMP}} volcanism, rope-and-ring born
+Of basalt in eruption that would well
 
-Beneath the floor of what would one day
-Be the {{p|Atlantic Ocean}}, the entire
-
-Mantle surged and pressed against the crust
-Where {{p|Pangaea}}'s seam was opening—
-The {{x|Central Atlantic Magmatic}} thrust,
-The {{x|CAMP}} volcanism, the rope-and-ring
-
-Of basalt eruption that would stretch from pole
-To pole along the widening rift—
-And in the last ten thousand years of the {{x|Triassic}}'s role,
+From pole to pole along the growing rift—
+And in {{x|Triassic}}'s last ten thousand years
 The earth gave its second terrible gift
+Of volcanic excess, which now appears:
 
-Of volcanic excess: carbon dioxide
-And sulfur poured into the already-warm
-Greenhouse atmosphere—the ocean's hide
-Of chemistry shifted in the acid storm
+Carbon dioxide and the sulfur flowed
+Into the greenhouse air, already warm—
+The ocean's chemistry, its hide, now showed
+Its shifting underneath the acid storm
 
-As it had shifted once before—the same
-Script played again: the warming, then the acid,
-Then the oxygen decline, the ancient game
-Of volcanism and the ocean, placid
+As it had shifted once before; the same
+Script played again: warming, and then acid,
+Then oxygen's decline, the ancient game
+Of volcano and of ocean, placid
 
-On the surface, choking in the deep.
-
-The phytosaurs noticed first—the river lords
+Upon the surface, choking in the deep.
+The phytosaurs saw first—the river lords
 Who had mimicked the crocodilian's creep
-And ruled the waterways—their ancestral hordes
+And ruled the waterways; their ancient hordes
 
-Began to thin as the water chemistry changed.
-The rauisuchians on the plains found less
-To hunt as herbivore populations ranged
-Toward zero in the climate's gathering stress.
+Grew thin, for water's chemistry had changed.
+Rauisuchians on the plains found less
+To hunt as numbers of the grazers ranged
+Toward zero in the climate's growing stress.
 
 And Cruros' dynasty—the elder son
-Of Archon, who had held the {{x|Triassic}} crown
-For forty million years—came undone.
+Of Archon, holder of {{x|Triassic}} reign
+For forty million years—was now undone.
+The world was changing; it would not sustain
 
-The world was changing, and the world frowned
-On those who had grown too large, too specialized,
-Too locked into the lowland and the river—
+Those who had grown too large, too specialized,
+Too locked in lowland and in the river—
 Those who could not move, could not be revised,
 Could not become something new—the giver
 
-Of extinction is always the same: the loss
+Of extinction is always one: the loss
 Of what you need while keeping what you are.
+And Cruros' children could not bear the cross
+Of the changed world—not all, not every star
 
-Cruros' children could not bear the cross
-Of the changing world—not all, not every star
+Within his constellation dimmed: the strain
+Of crocodiles, survivors of his house,
+Endured, small and amphibious, the plain
+Civilian and not soldier, and the mouse
 
-In his constellation went dark—the crocodilian
-Line, the true survivors of his house,
-Would endure: small, amphibious, the civilian
-Rather than the military, the mouse
+And not the lion of his kingly pride—
+The modest crocodile-forebears who kept
+By water's edge, and ate the scraps supplied
+By the world's dying—and these small ones crept
 
-Rather than the lion of his lineage—
-The modest crocodile-ancestors who kept
-To the water's edge and ate whatever spillage
-The dying world provided—these ones crept
-
-Through the extinction as Cynos had crept
-Through the last one: by being small, by being
-Undemanding, by the covenant kept
-Between the survivor and the act of seeing
+Through the extinction, just as Cynos passed
+The last one: by being small, by being
+Undemanding, by covenant held fast
+Between the survivor and the seeing
 
 Another morning.
 
                    But the great ones fell.
-The rauisuchians, the phytosaurs, the tall
-And heavy lords of Cruros' {{x|Triassic}} spell—
-Gone, in the {{x|CAMP}} volcanism's pall.
+Rauisuchians, phytosaurs, the tall
+Heavy lords of Cruros' {{x|Triassic}} spell
+Were gone beneath the {{x|CAMP}} eruptions' pall.
 
 And as the elder brother's kingdom burned,
 The younger brother's children—Deinos' small
 And humble dinosaurs—looked up and learned
-That the empty niches beckoned, one and all.
+The empty niches beckoned, one and all.
 
-This is the eve. Tomorrow is the dying.
-But tonight the world still breathes, the rivers run,
+It is the eve. Tomorrow, the dying.
+Tonight the world still breathes, the rivers run,
 And the last phytosaur is still trying
 To hold his kingdom underneath the sun.
 
-Honor the eve—the last good evening
-Before the fire—for every living thing
-That breathed the {{x|Triassic}} air was weaving
-Its own ending, and did not know the sting
-
-Of what the morning's volcanism would bring.
+Honor the eve—the last good night before
+The fire; for every living, growing thing
+That breathed {{x|Triassic}} air wove, to the core,
+Its own end, and it did not know the sting
+Of what the morning's eruptions would bring.
 
 
 # Chapter 96: The Second Dying
 
 Then the {{p|Atlantic}} opened, and the fire
 Ran north and south along the cracking seam
-Of {{p|Pangaea}}'s breaking body—the entire
-Central rift erupted in a steam
+Of {{p|Pangaea}}'s body; the entire
+Long central rift erupted in a steam
 
-And basalt flood that rivaled the {{p|Siberian}}
-Eruption of the {{x|Permian}}'s final days—
-The {{x|CAMP}} volcanism, another Stygian
-And geological catastrophe, ablaze
+And basalt flood that rivaled, in its reach,
+The {{p|Siberian}} at {{x|Permian}}'s close—
+The {{x|CAMP}} volcanism, another breach,
+A Stygian catastrophe that rose
 
-Across eleven million square kilometers
-Of flood basalt—the earth repeated what
-It knew: the deep convection's heated meters
-Of magma rising, finding every cut
+Ablaze across eleven million square
+Kilometers of flood basalt—the earth
+Repeated what it knew: the deep heat's flare
+Of magma rising through convection's girth
 
-And weakness in the crust, and pouring through.
+It found each cut and weakness in the crust
+And poured on through. The script was all too known:
+First carbon, then the warming; as it must,
+The sulfur in the poisoned blue was sown,
 
-The script was familiar: carbon first,
-The warming—then the sulfur in the blue
-And poisoned sky—the acid rain that burst
-
-On forests that had only recently
-Recovered from the {{x|Permian}} acid bath—
-The trees went brown again, went frequently
+And acid rain that burst upon the trees
+Just healed from the {{x|Permian}} acid bath—
+The forests browned again, by swift degrees
 To nothing, and the carbon cycle's math
 
-Collapsed for the second time in thirty million years.
-
-In the sea, the acid came again—
+Collapsed again, in thirty million years.
+And in the sea the acid came again—
 The pH falling, and the ancient fears
-Of carbonate dissolution, and the pain
+Of carbonate dissolving, and the pain
 
-Of creatures whose shells were built from the mineral
-That acid water dissolves—the corals
-And the brachiopods, the funeral
-Repeated for the reef-builders, the morals
+Of creatures building shells from that same stone
+That acid water melts: the corals, and
+Brachiopods: the funeral, once known,
+Played out again on the reef-builders' strand,
 
-Of the {{x|Permian}} unlearned by an earth
-That cannot learn, that simply does
-What the mantle's heat dictates—the birth
-And death of worlds is the geological buzz
+{{x|Permian}} morals lost upon an earth
+That cannot learn, but simply, always, does
+Whatever mantle's heat dictates—the birth
+And death of worlds is geology's buzz
 
 Of a planet that does not think.
 
                                   On land,
 Cruros' mighty rauisuchians fell:
 The four-legged, heavy, crocodile-planned
-Archosaurs who had held the {{x|Triassic}} spell
+Archosaurs who held the {{x|Triassic}} spell
 
-Of lowland dominion—gone. The phytosaurs
-Who had worn the crocodilian mask before
-The crocodile existed—closed doors
-On their entire lineage, every shore
+Of lowland rule—gone. Phytosaurs, who wore
+The crocodilian mask in days before
+The crocodile existed, now were through:
+Their line was closed; and shore and river, too,
 
-And river they had haunted now was empty.
-The aetosaurs, the armored herbivores
-Of Cruros' line, whose plated backs had been free
-Of any predator's tooth—these patient stores
+Where they had haunted, empty now and bare.
+The aetosaurs, the armored grazing kind
+Of Cruros' line, whose plated backs could dare
+The tooth of any predator, would find
 
-Of walking armor were no proof against
-The atmospheric poison and the heat.
-
-Thirty percent of all families were fenced
+Their patient stores of walking armor failed
+Against the poisoned air, against the heat.
+Thirty percent of families, curtailed,
 Out of the future—not the clean, complete
 
-Annihilation of the {{x|Permian}}'s ninety-six
-Percent of marine species—this was lesser,
+Ruin of the {{x|Permian}}'s ninety-six
+Percent of marine species: this was less,
 A middling death, a thinning of the mix—
-But for those who died, no lesser, no lesser
+But those who died knew no less of distress
 
 Than any death has ever been.
 
                                And yet—
-For those who survived, the world that opened
+For the survivors, now, the world's expanse
 Was vast beyond imagining—the debt
-Of death paid forward as the living happened
+Of death paid forward, as life seized its chance
 
-Upon a planet swept of competition:
-Every river empty of the phytosaur,
-Every lowland free of rauisuchian's rendition
-Of the apex predator—the floor
+On a planet swept of competition:
+Rivers empty, the phytosaurs no more,
+No rauisuchian in position
+As lowland apex predator; the floor
 
-Was clear, and Deinos walked onto it.
+Was clear, and Deinos walked out onto it.
+The dinosaurs—once upland runners, small,
+Marginal, and surviving on the grit
+Of scrubland and the edges—now stood tall
 
-The dinosaurs, who had been upland runners,
-Marginal, small, surviving on the grit
-Of scrubland and the edges—now the stunners
-
-Of the new {{x|Jurassic}} world—they filled
-The empty niches with an explosive speed
+In the new {{x|Jurassic}} world—and they filled
+The empty niches with explosive speed
 That even the {{x|Cambrian}} would have thrilled
-To match: into every lowland, every reed-
+To match: in every lowland, every reed-
 
 Bank, every river-valley, every coast,
-The dinosaurs radiated, and the crown
-That Cruros had worn was given to the host
+The dinosaurs radiated; the crown
+That Cruros wore was given to the host
 Of Avemeta's children—hand-me-down
 
-From the elder to the younger, as the world
+From elder to the younger, as the world
 Decreed through the merciless selection
 Of who survived—and the banners unfurled
-Of the {{x|Jurassic}}'s new direction
+Of the {{x|Jurassic}}'s bold new direction
 
 Were all dinosaurian.
 
                         In the sea,
-The Ichthyos survived—diminished, fewer,
-But still swimming in the {{p|Tethys}}, free
-To continue their dolphin-mimicry's pure
+Ichthyos lived on, diminished and few,
+But swimming still in {{p|Tethys}}' waters, free
+To keep the dolphin form, pure, ancient, true.
 
-And ancient form. And Nothros' children stirred
-Toward the deeper water, and the paddle-limbed
-Descendants of the sauropterygians heard
+And Nothros' children, in the shallows, stirred
+Toward the deeper water; paddle-limbed
+Sauropterygian descendants heard
 The ocean calling them to fill the brimmed
 
-And empty niches of the post-extinction sea.
-
-And Cruros' humblest children—the small
+And empty niches of the stricken sea.
+And Cruros' humbler children—those, the small
 Crocodilian ancestors—these were free
 To claim the rivers for their own, the call
 
-Of Cruros answered by his least:
+Of Cruros answered only by his least:
 The modest, the amphibious, the meek
-Inheritors who survived the beast
-Of volcanism by being too small to seek
+Inheritors who had survived the beast
+Of fire by being far too small to seek,
 
-And too flexible to fail.
+Too pliant to fail.
 
-                          This is the second {{x|Easter}}:
-The death that is not final, the loss
-That is the door to something greater—
-The volcanic fire, the acid rain's cross
+                          And {{x|Easter}} came twice:
+The death that is not final, and the loss
+That is the door to greater things; the price
+Of volcanic fire, the acid rain's cross
 
-Borne by the {{x|Triassic}} world, and the resurrection
-That followed: dinosaur, plesiosaur,
+Borne by the {{x|Triassic}}; resurrection
+Followed: plesiosaur and dinosaur,
 Crocodile, and mammal—each direction
-Of the future opened from this floor
+Of the future opening from this floor
 
 Of death, and the world that came was richer
-For the dying that preceded it.
-
-Honor the second extinction—it was no pitcher
+For all the dying that preceded it.
+Honor the second dying, no pitcher
 Of mercy, and no comfort in the grit
 
 Of dying—but the life that followed proved
-That even the second death can be a door
+That even second death can be a door
 To something the old world had not yet moved
 Toward—and the {{x|Jurassic}}'s mighty roar
-
-Was born in the silence of the dying {{x|Triassic}}'s last breath.
+Was born in silence, at the dying breath
+Of the {{x|Triassic}}, from its second death.
 
 
 # Chapter 97: Jurassic Dawn
 
-The morning after dying is always gray.
+The morning after death is always gray.
+{{x|Jurassic}}'s dawn looked like {{x|Triassic}}'s morn:
+Bare ground, diminished green—the common way
+Of post-extinction worlds, the classic, worn
 
-The early {{x|Jurassic}} looked like the early {{x|Triassic}}
-Had looked: bare ground, diminished green, the way
-Of all post-extinction worlds—the classic
+And oft-repeated pattern of the slow
+Recovery from harm: the fungi first,
+Then mosses, then the conifers that grow
+Back from refugia, where they had nursed
 
-And repeating pattern of the slow
-Recovery from violence—the fungi first,
-Then the mosses, then the conifers' slow
-Return from refugia where they nursed
-
-Their seeds through acid rain—Conifera knew
-This ritual by now, her second resurrection
-From the poisoned soil, her patient queue
-Of reforestation following each section
+Seeds through acid rain. Conifera knew
+Well this rite: her second resurrection
+Out of the poisoned soil, her patient queue
+Of forests regrown after each section
 
 Of volcanic death.
 
-                    But the recovering world
+                    But the world, now healed,
 Was different now in one essential way:
-The lowlands where Cruros' banner had been furled
-Were empty, and Deinos' children came to play
+Lowlands where Cruros' rule had been repealed
+Were empty; Deinos' children came to play
 
 Where they had never dared before.
 
-                                    Theros—
-The beast-footed, the meat-eaters of the line—
-Walked into the {{x|Jurassic}}'s open doors
-And found no rauisuchian at the sign
+                                    Now strode
+The beast-footed Theros, eaters of meat,
+Into the young {{x|Jurassic}}'s open road,
+Found no rauisuchian at the seat
 
-Of every river-crossing, no phytosaur
-Guarding every waterway—the predator's
-Throne was empty, and the {{x|Jurassic}} floor
-Was Theros' to claim, these inheritors
+Of river-crossings; phytosaurs no more
+Guarding the waterways; the hunter's throne
+Lay empty, and the whole {{x|Jurassic}} floor
+Was Theros' now to claim, and his alone,
 
-Of Deinos' upland hunger, now released
-Into the richest territories on earth.
-
-And Sauropos—who had been the least
+Heirs of Deinos' upland hunger, released
+Into the richest lands upon the earth.
+And Sauropos, who once had been the least
 Impressive of the prosauropod birth,
 
-Small, bipedal, modest in the {{x|Triassic}}—
+Small, two-legged, modest in {{x|Triassic}} days,
 Began to grow. And grow. And grow again.
-For the lowland forests offered the gymnastic
-And gymnosperm feast of Conifera's regained
+For lowland forests offered, in their maze,
+Gymnosperm feast, Conifera's domain
 
-Domain: the great conifer forests of the {{x|Jurassic}},
-Where the trees grew tall and the canopy
-Stretched higher than any {{x|Triassic}} fantastic
-Had dreamed—and to reach that green canopy,
+Regained: {{x|Jurassic}} forests, where the trees
+Grew tall, and stretched their canopy so high
+That no {{x|Triassic}} dream had reached; to seize
+That green roof, rising up against the sky,
 
 Sauropos stretched his neck.
 
                                   This is the age
-That the world remembers as the time of giants—
-The {{x|Jurassic}} was the grandest stage
-The earth had set for life, and the defiance
+The world remembers as the giants' time,
+For the {{x|Jurassic}} was the grandest stage
+The earth had set for life, and the sublime
 
-Of gravity itself was Sauropos' art:
-Longer necks, longer tails, heavier bodies,
-Legs like pillars holding up the cart
-Of the largest land animals—the oddities
+Defiance of gravity was his art:
+Longer necks, longer tails, and bodies vast,
+And legs like pillars holding up the cart
+Of largest land-beasts; oddities amassed
 
-Of physics that allowed a creature's heart
+Of physics, that allowed a creature's heart
 To pump blood up a forty-foot-long neck
 To reach a brain the size of a small tart
 Were solved by Sauropos—who would not check
 
-His growth until the forests themselves were grazed
-From the top down, like an elephant
-Of impossible scale, and the {{x|Jurassic}} blazed
-With the thunder of his walking—the constant
+His growth until the forests were all grazed
+From the top down, like elephants, but vast
+Beyond all scale; and the {{x|Jurassic}} blazed
+With thunder of his walking as he passed,
 
-Drumbeat of the largest feet on earth
-Shaking the ground for miles with every step.
+The drumbeat of the largest feet on earth
+Shaking the ground for miles where each foot stepped.
+And Ornithis, the bird-hip, found his berth
+In undergrowth: smaller, with the adept
 
-And Ornithis, the bird-hipped, found his berth
-In the undergrowth: smaller, with the adept
-
-And beaked mouths for cropping ferns and low
-Vegetation—the ornithischians would build
-Their own diversity in the {{x|Jurassic}}'s slow
+And beaks for cropping ferns and for the low
+Plant-life; the ornithischians would build
+Diversity in the {{x|Jurassic}}'s slow
 And generous expansion, and they filled
 
-The herbivore niches that the sauropods
-Left vacant in the understory and the plain—
-Where Sauropos ate the treetops, against all odds,
-Ornithis grazed below in the sauropod's rain
+The grazing niches sauropods had left
+Vacant in understory and on plain—
+Where Sauropos ate treetops, high and deft,
+Ornithis grazed below in his great rain
 
 Of fallen leaves and trampled forest floor.
-
-The {{x|Jurassic}} dawn was not a single morning
+{{x|Jurassic}} dawn: not one single morning,
 But ten million years of opening door
-After door after door—each niche adorning
+After door—with each new niche adorning
 
 Itself with new inhabitants, new forms,
-New ways of eating, hunting, hiding, growing—
-And the dinosaurs, like every evolutionary storm's
-Best outcome, filled the world past overflowing.
+Ways to eat, hunt, hide, and go on growing—
+The dinosaurs—best fruit of changing storms—
+Had filled the whole world past overflowing.
 
-In the seas, the healing was the same:
-The Ichthyos who survived the extinction grew
-Back into prominence, and the name
+And in the seas the healing was the same:
+Ichthyos, who survived the dying, grew
+Back into prominence again; the name
 Of Sauropteros would be made anew
 
-As the plesiosaurs—but that is the next chapter's
-Gift to tell.
+As plesiosaurs—the next chapter's praise.
+For now, give honor to the dawn's gray haze,
+The green {{x|Jurassic}} morning, when the night
+Of second dying ended, and the light
 
-                 For now, honor the dawn:
-The gray-green morning of the {{x|Jurassic}}, after
-The night of the second dying—the lawn
-
-Of life regrown on the bones of the dead,
-The dinosaurs walking into their inheritance,
-And the world waking up—not with the dread
-Of the dying world but the simple dance
-
-Of the living world remembering how to live.
+Showed life's lawn regrown on bones of the dead,
+The dinosaurs, inheritors, advance;
+The world recalled how to live—not with dread
+Of dying worlds, but in the simple dance.
 
 
 # Chapter 98: The Plesiosaur Queens
 
 Now Nothros' children, who had paddled close
-To shore through all the {{x|Triassic}} years—
-Half-aquatic, like a coastal prose
+To shore through all the long {{x|Triassic}} years—
+Half in the water, like a coastal prose
 That never quite committed—shed their fears
 
-And swam to the open ocean.
+And swam to open ocean.
 
                                 In the wake
 Of the end-{{x|Triassic}} dying, the sea
-Had emptied its niches for any lineage to take
+Had emptied niches for a line to take
 That had the body and the will to be
 
 A ruler of the deep—and Nothros' heirs
-Answered the ocean's invitation: the Plesios,
-The plesiosaurs, who took the sauropterygian airs
+Answered the ocean's call: Plesios, those
+Sauropterygians, who took the airs
 Of paddle-limb and barrel-chest, and chose
 
-To perfect them for the open sea.
+To perfect them for the open, deep sea.
+Two forms emerged from Nothros' ancient line:
+The long-necked ones, of serpentine design,
+Whose neck was half the body, turned to be
 
-Two forms emerged from Nothros' legacy:
-The long-necked ones, whose serpentine and free
-Design of neck stretched half the body's agency
-
-Into a fishing-crane above the waves—
+A fishing-crane above the open waves—
 Elasmosauros, with a neck so long
 She seemed a serpent rising from the caves
-Of the deep to snatch the fish—her song
+Of the deep sea to snatch the fish—her song
 
-Was the silent strike from below, the ambush
-Of the surface-schooling fish who never saw
-The jaws arriving from the underwater bush
-Of the plesiosaur's patient, waiting maw.
+Was silent strike from below, the ambush
+Of surface-schooling fish who never saw
+The jaws come from the underwater bush
+Of the long neck's patient and waiting maw.
 
 And the short-necked ones: the pliosaurs, great
 Plios, with massive heads and shorter necks,
-Built for power rather than for the ornate
-And serpentine—Plios was the {{x|Hex}}
+Built for power rather than the ornate
+And serpentine: Plios became the {{x|Hex}}
 
 Of every marine creature's nightmare: jaws
 The length of a man, teeth like railroad spikes,
-A body propelled by four flippers without pause
+A body four flippers drove without pause
 Through the {{x|Jurassic}} sea—the monster strikes
 
-At ichthyosaur and plesiosaur alike,
-The apex predator of the {{x|Mesozoic}} deep,
+Ichthyosaur, plesiosaur alike,
+Top hunter in the {{x|Mesozoic}} deep,
 Who knew no equal and would only strike
-At whatever dared to swim the waters' keep.
+At all that dared to swim the waters' keep.
 
 Both forms swam with the same four-flipper flight:
-Not the tail-propulsion of the fish or the whale
-But the underwater wing-beat, left and right,
-The front pair pulling, the rear pair's trail
+Not tail-propulsion of the fish or whale
+But underwater wing-beat, left and right,
+The front pair pulling, and the rear pair's trail
 
-Providing stability and turn—
+Providing stability and the turn—
 Like a sea turtle's flight beneath the wave
 But amplified to grandeur—and they'd earn
-The title of the ocean's most elegant and brave
+The ocean's title, elegant and brave,
 
-Swimmers: the plesiosaurs who flew through water.
-
+As swimmers, those who flew through the water.
 And in their bones the turtle-kinship showed:
 Paraps' patient architecture's daughter,
-The same body-plan that Turtlos owed
+The very body-plan that Turtlos owed
 
-His shell expressed in marine magnificence—
-The flipper-paddle that the sea turtle shares
-With the plesiosaur is not coincidence
-But the deep homology that the fossil declares:
+His shell, grown grand in marine form and size—
+The flipper that the sea turtle still shares
+With plesiosaurs is no chance; it lies
+In homology the fossil declares:
 
 Both children of the same ancestral hand,
 Both built from Paraps' patient blueprint, one
 On land with shell, the other in the grand
-And open ocean with the underwater run
+Of open ocean's underwater run
 
 Of four-wing flight.
 
-                    The Plesios ruled
+                    The Plesios then ruled
 The {{x|Jurassic}} and the {{x|Cretaceous}} seas—
-A hundred and thirty million years they pooled
-Their dynasty across the oceanic freeze
+A hundred thirty million years they pooled
+Their dynasty across the ocean's freeze
 
 And warm of alternating climate—queens
-Of every coastline, every continental shelf,
+Of every coast, from shelf to either pole,
 Their fossils found in every rock that leans
-Toward the marine—as common as the wealth
+Toward the sea—as common as the whole
 
-Of the sea itself, in every age and latitude.
+Sea's wealth itself, in every latitude.
+They bore live young, as Ichthyos once did—
+The open sea had left no certitude
+Of beach for eggs; and so the mother hid
 
-They bore live young—as Ichthyos did—
-The open ocean leaving no certitude
-Of a beach for egg-laying—so the plesiosaur hid
-
-Her young within her body, gave birth at sea,
+Her young within her, and gave birth at sea,
 And the newborn Plesios swam beside
 Her mother from the first, already free
 Of any shore, already in the tide
 
-Of the plesiosaur's eternal hunting-flight.
-
+Of their eternal four-flipped hunting-flight.
 Honor Plesios and her long-necked line—
-The turtle's cousins of the oceanic night
+The turtle's cousins of the ocean night
 Who took the ancient body-plan's design
 
 And made it fly beneath the waves: the queens
-Of the {{x|Mesozoic}} deep, the four-flipped fliers,
+Of the {{x|Mesozoic}}, four-flipped fliers,
 Whose paddle-limbs and barrel-chested means
-Of breathing at the surface made them buyers
+Of surface-breathing made them the buyers
 
-Of the ocean's greatest real estate—
-And ruled it longer than any other line
-Of marine reptile—patient, elegant, and great:
-The Paraps-kindred of the oceanic brine.
+Of the whole ocean's greatest real estate—
+And ruled it longer than each other line
+Of sea reptile: patient, elegant, great:
+The Paraps-kindred of the ocean brine.
 
 
 # Chapter 99: The River Dragons at Sea
 
-Even the river lords heard the ocean's call.
+The river lords, too, heard the ocean's call.
+In {{x|Jurassic}} seas, while Plesios flew
+On his four flippers through the deep, and tall
+Ichthyos' dolphin-forms in {{p|Tethys}}' blue—
 
-In the {{x|Jurassic}} seas, while Plesios flew
-On four flippers through the deep, and Ichthyos' tall
-And dolphin forms still hunted the {{p|Tethys}} blue—
+A stranger came: of Cruros' line, the brood,
+The crocodilian kin, river dragons
+Who'd come through the {{x|Triassic}}'s end, subdued,
+By staying humble—these were the wagons
 
-A stranger arrived: the children of Cruros,
-The crocodilian kin, the river dragons
-Who had survived the end-{{x|Triassic}}'s bruise
-By staying small and humble—these were the wagons
-
-Of a new marine experiment.
-
+Of a marine experiment's ascent.
 Thalattosuchus—the sea-crocodile—
 Was Cruros' answer to the ocean's rent-
 Free niches, and his children swam in style
 
-That no one expected from a crocodilian:
+Not expected of a crocodilian:
 Fully marine, with flippers where the feet
-Had been, with a fish-tail where the reptilian
+Had been, a fish-tail where the reptilian
 Tail had flattened to a vertical beat
 
-Of the water—Thalattosuchus had become
-A sea creature, streamlined and salt-tolerant,
-With salt glands near the eyes that freed him from
-The freshwater dependency—an entrant
+In water. Thalattosuchus was now
+Sea creature, streamlined; salt glands would allow,
+Set near the eyes, his freedom from the need
+Of fresh streams; salt-tolerant now, he'd speed
 
-To the open ocean from the river-bank.
+To open ocean from the river-bank.
+Metriorhynchids, Metrion's own kin,
+Were most marine of all; and in their rank
+Among crocodylomorphs, those who'd been
 
-The Metrion clan—the metriorhynchids—
-Were the most marine of all: their rank
-Among the crocodylomorphs was the kids
-
-Who ran away to sea and never returned.
-Their legs had become paddles, their tails bore flukes,
+The kids who fled to sea, never returned.
+Their legs were paddles now, their tails bore flukes,
 Their skin had lost the armor scales that burned
 With weight in open water—these rebukes
 
 Of every crocodilian convention
 Swam the {{x|Jurassic}} seas as sleek and fast
-As any marine reptile: the invention
+As any sea reptile: the invention
 Of the sea-crocodile—a form that passed
 
 Through the {{x|Jurassic}} waters like a dark
-And toothy torpedo, catching fish and squid
-In jaws that still bore the crocodilian mark
-Of the long snout and the interlocking grid
+And toothed torpedo, catching fish and squid,
+In jaws still bearing crocodilian mark
+Of the long snout, the interlocking grid
 
 Of teeth—but everything else was ocean:
-The body smooth, the limbs reduced to fins,
-The tail a propulsive engine of locomotion
+The body smooth, the limbs to fins made slim,
+The tail an engine of locomotion
 That drove them through the surface and the dim
 
-Below with equal ease.
+Below with ease.
 
-                       They breathed at the surface—
-Lungs, not gills, the amniote's inheritance—
-And they may have borne live young, the purposive
-And marine adaptation's final dance
+                       They rose to breathe the air—
+Lungs, and not gills, their amniote bequest—
+And may have borne their young alive: the rare
+Final dance of sea-adaptation's quest,
 
-With the land abandoned.
+The land abandoned.
 
                          For a little while
 In the {{x|Jurassic}}'s middle age, the seas
 Held crocodilians who had crossed each mile
-Of evolutionary distance—from the trees
+Of evolution's distance—from the trees
 
-And rivers of their Cruros-ancestry
-To the open ocean, fully marine,
-Hunting alongside Plesios and the dynasty
-Of Ichthyos—three lineages in the marine
+And rivers that their Cruros forebears knew
+To open ocean, wholly of the sea,
+Hunting with Plesios, Ichthyos too:
+Three lines in one marine republic, free,
 
-Republic, each from a different branch
-Of Sauros' family tree: Ichthyos from the deep
-And ancient diapsid line, Plesios from the ranch
-Of Paraps' turtle-kin, and now the creep
+Each from a different branch of Sauros' tree:
+Ichthyos, from the deep diapsid sea,
+Plesios, from Paraps' turtle-kin's ranch,
+And, creeping to the brine, Cruros' own branch.
 
-Of Cruros' river-children to the brine.
+The teleosaurids, the other clan
+Of Thalattosuchus, kept near the coast,
+Like the gharial in a later plan:
+Long-snouted, eating fish, a hunting host
 
-The teleosaurids—the other clan
-Of Thalattosuchus—kept closer to the line
-Of shore, like the gharial in a later plan:
-
-Long-snouted, fish-eating, coastal hunters
-Who patrolled the {{x|Jurassic}} shorelines and the reefs
-In the manner of their river-hunting grunters
-But adapted to the salt—the ancient griefs
-
-Of the end-{{x|Triassic}} had pushed them to expand
-Beyond the rivers that their fathers knew,
+Who patrolled the {{x|Jurassic}} shore and reef
+Like river-hunting forebears, on salt strand;
+The ancient end-{{x|Triassic}}'s dying grief
+Had pushed them past the rivers to expand
+Beyond the waters that their fathers knew,
 And the {{x|Jurassic}} sea was close at hand
 With fish enough for every hungry crew.
 
-The Thalattosuchus clan would fade
-Before the {{x|Cretaceous}} dawn—the fully marine
-Metriorhynchids leaving no cascade
-Of descendants to the later scene—
+And Thalattosuchus' whole clan would fade
+Before {{x|Cretaceous}} dawn—the most marine,
+Metriorhynchids, leaving no cascade
+Of descendants to any later scene—
 
-Their experiment complete, their lesson taught:
-That even the most dedicated river-dweller
-Can hear the ocean's call and be caught
+Experiment complete, their lesson taught:
+That the most devoted river-dweller
+Can hear the ocean's call and then be caught
 In the sea's embrace—that every cellar
 
-Of the evolutionary house connects
-To every other room, and the crocodile
-Who seems forever bound to the river's text
+Of evolution's house lies linked and next
+To every other room; the crocodile
+Who seems forever bound to river's text
 Can rewrite himself in the ocean's style.
 
 For the sea turns no one away who comes
-With lungs and will and the willingness to change—
-The {{x|Jurassic}} ocean beat its drums
-For the river dragon who expanded his range
+With lungs and will and willingness to change—
+And the {{x|Jurassic}} ocean beat its drums
+For river dragons who expanded range
 
 To the horizon—and found room.
 
-                                Honor
-The thalattosuchians: the crocodile-kin
-Who went to sea and earned the ocean's honor
-Of a place among its hunters—the genuine
+                                Give praise:
+Thalattosuchians, crocodile-kin,
+Who went to sea and in the ocean's ways
+Earned a place with its hunters. They had been
 
-And fully marine crocodylomorphs who proved
-That no lineage is locked to a single home,
-And the river's child, when the river-banks have moved,
-Can make the open ocean into a poem.
+True marine crocodylomorphs, who proved
+No lineage is locked in just one zone,
+The river's child, when river-banks have moved,
+Can make the sea a poem of its own.
 
 
 # Chapter 100: The Thunder Lizards
 
 Now comes the thunder.
 
-                       In the middle {{x|Jurassic}},
-When Conifera's forests grew tall and the rain
-Fed the canopy to heights fantastic
-That no creature's neck had yet been able to attain—
+                       In {{x|Jurassic}} prime,
+When Conifera's woods grew tall, and rain
+Fed canopies to a fantastic climb
+That no neck yet had managed to attain—
 
-Sauropos answered the forest's invitation
-By growing the longest neck in the history
-Of vertebrate life—a slow-motion escalation
-Over thirty million years, the mystery
+Sauropos answered the invitation
+By growing the longest neck in history
+Of vertebrates—a slow escalation
+Through thirty million years—the mystery
 
 Of how a body can become so vast
 And still function, still breathe, still pump the blood
-From heart to brain across an unsurpassed
-And impossible distance—the body's flood
+From heart to brain across an unsurpassed,
+Impossible distance—the body's flood
 
-Of engineering solutions that allowed
+Of engineering answers that allowed
 The impossible to walk.
 
                          Brachio stood
-Tallest—with his front legs longer, proud
-And giraffe-like, his nostrils above the wood
+The tallest, with his front legs longer, proud
+And giraffe-like, nostrils above the wood
 
-Of the highest canopy, a living crane
-That browsed the treetops like a grazing tower—
-Fifty tons of gentle, vegetarian reign
-Over the {{x|Jurassic}} forest's highest bower.
+Of the high canopy, a living crane
+That browsed treetops like a grazing tower—
+Fifty tons of gentle, green-eating reign
+Over {{x|Jurassic}} woods' highest bower.
 
 Diplodos was the longest—his whip-tail
-Stretched behind him like a sonic weapon,
-The crack of its tip breaking the air's veil
-Like a bullwhip—twenty-seven meters, heaven
+Stretched out behind him, sonic, like a lash:
+The crack of its tip breaking the air's veil,
+A bullwhip's—twenty-seven meters' dash
 
-Alone knew how many vertebrae in the neck
-And tail combined: more than a hundred, each
+Of body; heaven knows the bones that deck
+His neck and tail: a hundred-plus, and each
 Articulated for the flex and check
 Of the enormous body's sinuous reach.
 
-And Argentinosauros would come later—
+Argentinosauros would come later—
 The largest of them all, a hundred tons,
-The most massive land animal, the greater
-And most extreme of Sauropos' sons—
+The most massive land beast, and the greater
+And the most extreme of Sauropos' sons—
 
-But in the {{x|Jurassic}}'s middle age, the first
-Great sauropods were already shaking the earth
+But in {{x|Jurassic}}'s middle age, the first
+Great sauropods already shook the earth
 With every footfall—and the drumbeat burst
-Of their walking was the {{x|Mesozoic}}'s birth
+Of walking was the {{x|Mesozoic}}'s birth
 
 Of thunder that was not from any cloud.
-
 How did they breathe?—with lungs connected to
-Air-sacs that permeated the bones—the proud
-And hollow vertebrae that the X-ray flew
+Air-sacs that ran all through the bones—the proud
+And hollow vertebrae the X-ray flew
 
-Through like a cathedral's buttressed vault—
-The same bird-like respiratory system
+Through as through a cathedral's buttressed vault—
+That same bird-like system of breath and lung
 That Archon had invented—the default
-Of the archosaur body was the prism
+Of archosaur bodies, a prism sprung
 
-That solved the oxygen problem: air flowed through
-The lungs in one direction, not the tidal
-In-and-out of mammal breathing—new
-And efficient oxygen exchange, the bridal
+To solve the oxygen problem: air through
+The lungs in one direction, not the tide
+And in-and-out of mammal breathing: new,
+Efficient oxygen exchange, supplied,
 
-Gift of Archon to his greatest children.
-
-How did the heart pump blood so far?—
-With a pressure that would kill a human, the buildin'
-Of a cardiovascular star
+The gift of Archon to his greatest line.
+How did the heart pump blood so far? By force
+Of pressure that would kill a man; design,
+A cardiovascular star, the source
 
 That weighed as much as a small car and beat
-With a force that the aorta had to channel
-Through a body longer than a city street—
-And the blood-pressure at the head was a panel
+With force the aorta had to channel
+Through a frame longer than a city street—
+The pressure at the head was a panel
 
-Of engineering that we still don't fully know.
-
-They were warm—or warm enough—the mass
-Of their bodies holding heat in the slow
-And enormous thermal reservoir, the crass
+Of engineering we don't fully know.
+And they were warm, or warm enough: the mass
+Of their bodies holding heat in the slow,
+Enormous thermal reservoir, the crass
 
 And simple physics of being so large
-That the surface-area-to-volume ratio meant
+That surface-to-volume ratio meant
 The body stayed warm without any charge
-Of metabolic fire—gigantothermy lent
+Of inner fire; gigantothermy lent
 
 What endothermy gives to smaller things:
-A stable, warm interior where the enzyme
-Chemistry of life could spread its wings
-Regardless of the night's cold or the daytime
+A stable, warm inside, where the enzyme
+Chemistry of all life could spread its wings
+Regardless of night's cold or of daytime
 
-Blaze of the {{x|Jurassic}} sun.
+Blaze of {{x|Jurassic}} sun.
 
                            They walked in herds—
 The footprints tell us this: great trackways of
 A dozen or a hundred, and the words
-Of the rock record say the giants above
+In rock record say the giants above
 
 Moved together, the young in the center
-Protected by the adults' enormous flanks—
-No predator but the boldest would enter
-The moving fortress of a sauropod's ranks.
+Protected by adults' enormous flanks—
+No predator but boldest would enter
+The moving fortress of sauropods' ranks.
 
 And they ate. They ate constantly. They stripped
-The forests with the efficiency of machines,
-Each day consuming more than a man has shipped
-In a week of groceries—the {{x|Jurassic}} scenes
+The woods with the thoroughness of machines,
+Each day consuming more than men have shipped
+In weeks of groceries; {{x|Jurassic}} scenes
 
-Of sauropod feeding must have sounded like
-A continuous ripping of the world's green hide—
+Where sauropods were feeding sounded like
+A constant ripping of the world's green hide—
 The crunch and tear of branch and bark and spike
 Of conifer processed through the inside
 
-Of a gut the length of a house, fermented
-By bacteria that broke the cellulose
-To energy—the forest demented
-By the appetite that never found its close.
+Of gut the length of a house, fermenting
+Through bacteria that broke cellulose
+To energy—forests unrelenting
+Torn by the appetite that found no close.
 
 This was the age of giants. This was when
-The earth trembled not from volcanism's fire
-But from the footsteps of the greatest of all men—
+The earth trembled not from volcanoes' fire
+But from the footsteps of the greatest men—
 If men is what we call the living spire
 
 Of evolution's most ambitious reach:
@@ -22066,662 +22000,626 @@ On four legs, each one massive as a beach-
 Side pylon—and the thunder of their walks
 
 Was the heartbeat of the {{x|Jurassic}} world.
-
 Honor Sauropos—the thunder lizards,
-The gentle giants whose banners were unfurled
-In the conifer forests, who braved the blizzards
+The gentle giants, banners all unfurled
+In conifer woods, who braved the blizzards
 
-Of deep time and grew to the limit of what land
+Of deep time, and grew up to what the land
 Can hold, what bone can bear, what heart can pump—
 The largest things that ever walked on sand,
 Whose every footstep was the drumbeat's thump
 
-Of life saying: I am here, and I am vast,
-And the earth itself remembers where I passed.
+Of life, which says: I'm here, and I am vast,
+And earth itself remembers where I passed.
 
 
 # Chapter 101: The Feathered Ones
 
-The feather began as warmth, not flight.
-
+The feather began as warmth, and not flight.
 Long before any wing had caught the air,
-The theropod's body dressed itself in light
+The theropod's frame dressed itself in light
 And filamentous down—a coat to wear
 
-Against the {{x|Jurassic}} nights, when even
-The warm-blooded archosaur needed more
-Than the bare scale to hold the metabolic leaven
-Of heat inside—the feather was the door
+Against {{x|Jurassic}} nights, when even those
+Warm-blooded archosaurs had need of more
+Than the bare scale, to hold the warmth that rose
+From metabolism; feathers, the door
 
-To endothermy's final victory:
-The insulating layer that let the small
-Theropod keep his body's factory
-Of warmth running through the night, through all
+To endothermy's victory complete:
+The insulating coat that let the small
+Theropod keep his body's furnace heat
+Still running through the night, and on through all
 
-The cooling hours when the sun went down
-And the thermal mass of Sauropos alone
-Kept the giants warm—the feathered gown
-Was the small dinosaur's answer: to the bone
+The cooling hours when the sun went down,
+When thermal mass of Sauropos alone
+Kept giants warm. And then the feathered gown
+Was small dinosaurs' answer: to the bone
 
-With warmth, against the cold, the filament
-Of the first proto-feather growing from the scale
+Warm, against cold; the filament that went
+As the first proto-feather from the scale
 That Sauros had inherited—the tent
 Of fluff that kept the body's thermal tale
 
 Of warm blood beating through the smallest frame.
-
 Then color came—for feathers could be dyed
-By melanosomes, and the sexual game
-Of display and mate-selection multiplied
+By melanosomes; the sexual game
+Of display, mate-selection, multiplied
 
 The feather's purpose: not just warmth but show,
 The brilliant coat that said: I am alive,
 I am healthy, I am strong—and so
-The feathered theropod would thrive
+The feathered theropod would come to thrive
 
-With a double gift: the warmth within, the beauty
+With double gift: warmth within, the beauty
 Without—and both drove the evolution
-Of more elaborate plumage as the duty
-Of every generation's contribution
+Of more ornate plumage, as the duty
+Of each generation's contribution
 
-To the arms race of display.
+To the great arms race of display.
 
                               And then—
 In the late {{x|Jurassic}}'s limestone lagoons,
-Where the {{p|Tethys}}' tropical waters bred their den
-Of island archipelagoes—the monsoons
+Where {{p|Tethys}}' tropic waters bred their den
+Of archipelagoes—and the monsoons
 
-And trade winds of a greenhouse world—
-There lived a creature half of two worlds:
-Archaeos, whose feathered wings unfurled
-The oldest answer to the flight-shape's curls
+And trade winds of the greenhouse world; and there
+Lived one, a creature half of either world:
+Archaeos, he whose feathered wings unfurled
+The oldest answer to the lifting air.
 
-Of aerodynamic lift.
+He was a theropod, and clearly so:
+The teeth, the clawed hands, and the long tail, grown
+From Theros' kindred, and, from head to toe,
+The strong and hollow bones dinosaurs own.
 
-                       He was a theropod—
-Clearly: the teeth, the clawed hands, the long
-Bony tail of Theros' kindred—and the rod
-Of every dinosaur's anatomy, the strong
+But on his arms, the feathers, long and strange,
+Were asymmetric, with their vanes arranged
+For the physics of flight—across the range
+Of the {{x|Jurassic}} air the weathers ranged
 
-And hollow bone—but on his arms, the feathers
-Were long and asymmetric, the vanes
-Arranged for the physics of flight—the weathers
-Of the {{x|Jurassic}} air across the planes
+Across the planes of his wings, not mere show:
+Archaeos could fly, or glide, or else blend
+The two; and so the fossil stone would know
+His imprint, which the fine-grained limestones lend
 
-Of his wings were functional, not merely show:
-Archaeos could fly, or glide, or something
-Between the two—and the fossil stone would know
-His imprint in the limestone's fine-grained nothing
-
-Of the {{p|Solnhofen}} lagoon, where the lime-mud
+Of {{p|Solnhofen}}'s lagoon, where the lime-mud
 Preserved his feathers' every barb and shaft
 In the most famous fossil of the flood
 Of deep time's evidence—the ancient craft
 
-Of evolution caught mid-transformation:
-A dinosaur becoming a bird.
+Of evolution's transformation, caught:
+A dinosaur becoming bird.
 
-                                   He was not
-The first to fly—Pteros ruled the aviation
-Of the {{x|Jurassic}} sky—but Archaeos brought
+                                   Not he
+Was first to fly; for Pteros ruled the free
+{{x|Jurassic}} sky; and yet Archaeos brought
 
 A different wing: not the membrane-kite
-Of the pterosaur's finger-skin, but the feather-fan,
+Of pterosaur skin, but the feathered fan,
 Each vane interlocking to make the flight
-Surface from a thousand filaments—the plan
+Surface from countless filaments—the plan
 
-That would outlast the pterosaur's membrane-wing
-And carry the bird-line forward past every
-Extinction and every change that time would bring—
-For feathers, unlike membrane, could carry
+That would outlast the pterosaur's skin-wing
+And carry the bird-line onward, far past
+Extinction and each change that time would bring—
+For feathers, unlike membrane, could stand fast
 
-The damage of a tear and still function:
-Each feather independent, each replaceable,
+Through damage of a tear, and still function:
+Each feather separate, replaceable,
 And the wing that flew with feathered junction
 Was more resilient, more embraceable
 
-By evolution's tinkering than the single
+By evolution's craft than the single
 Membrane that Pteros stretched across his hand.
-
-Archaeos was not yet a bird—the mingle
-Of dinosaur and avian in his body spanned
+Archaeos: not yet a bird; the mingle
+Of dinosaur and bird in his frame spanned
 
 The transition: teeth where the beak would come,
-Claws on the wings where the alula would grow,
+Claws on wings where the alula would grow,
 A bony tail where the pygostyle's sum
-Of fused vertebrae would one day show—
+Of fused vertebrae would later on show—
 
-But he was the proof of concept, the first flight
-Of the feathered wing, the dinosaur who dared
-To test the {{x|Jurassic}} air and found the height
-Rewarding—and the lineage he prepared
+But he was proof of concept, the first flight
+Of feathered wing, the dinosaur who dared
+To test {{x|Jurassic}} air and found the height
+Rewarding—and the line that he prepared
 
-Would become the most successful dinosaurs
+Would be the most successful dinosaurs
 Of all: the birds, who fly above us still,
-Who survived the asteroid, who fill the choirs
-Of every morning with their living will—
+Survived the asteroid, and whose song pours
+Through every morning with its living will—
 
 The only dinosaurs that lived to sing.
-
-Honor Archaeos—half-dinosaur, half-bird,
-Caught in the stone of the {{x|Jurassic}}'s offering
+Praise Archaeos—half-dinosaur, half-bird,
+Caught in {{x|Jurassic}} stone, a feathered thing
 With wings outstretched—the first and final word
 
-Of a transformation still in flight:
+Of transformation that is still in flight:
 From the running theropod on the ground
-To the singing bird above, and in the light
+To singing bird above; and in the light
 Of every dawn, the dinosaur's resound.
 
 
 # Chapter 102: Teeth and Claws
 
-The {{x|Jurassic}} was the theropod's golden age.
-
-Where Coelos had run in modest packs
+The {{x|Jurassic}}: theropods' golden age.
+Where Coelos once had run in modest packs
 Across the {{x|Triassic}}'s marginal stage,
-His {{x|Jurassic}} descendants made no apology—cracks
+His heirs in the {{x|Jurassic}} found the cracks
 
-In the ecosystem's architecture opened wide
+Of ecosystems' structure, opened wide
 For predators of every size and style,
 And Theros' children filled them with the pride
-Of the hunting art perfected mile by mile.
+Of hunting art perfected mile by mile.
 
-Allos was the master of the late {{x|Jurassic}}—
-The lion of his age, though larger, heavier,
-With a skull built like a hatchet—the classic
-And terrible head designed for the gravier
+Allos was master when {{x|Jurassic}} waned,
+The lion of his age, but larger still,
+His hatchet-skull: terrible head ordained
+For the grave work of the sauropod kill:
 
-Work of killing sauropods:
-The upper jaw a blade, the teeth like steak-knives,
-Serrated, curved, the astronomical odds
-Of bringing down a forty-ton beast—the lives
+The upper jaw a blade, the teeth like knives,
+Serrated, curved; and though the odds were vast
+Of downing forty-ton beasts, still the lives
+Of Allos were in calculation passed
 
-Of Allos were spent in the calculated
-Art of the ambush and the bleeding wound—
-Not the single killing bite but the waited
-And strategic slash that made the attuned
+In ambush art and in the bleeding wound—
+Not one great killing bite, but slash, then wait—
+The strategy, until the prey, attuned,
+Weakening, bled out for hours: its fate.
 
-And weakening prey bleed out over hours.
+His arms were strong—not the reduced, the slight
+Vestigial stubs of later forms, but
+Functional, grasping, built to hold on tight:
+Three-fingered hands with claws that hooked and cut
 
-His arms were strong—not the reduced
-And vestigial stubs of later powers
-But functional, grasping, well-produced
+Into the sauropod's great flank and held
+While the jaws worked; and Allos looked the part
+Of what he was: a killing engine, felled
+Assembled from the theropod's own chart
 
-Three-fingered hands with claws that hooked
-Into the sauropod's flank and held
-While the jaws delivered—Allos looked
-Like what he was: a killing engine, felled
+Into its full {{x|Jurassic}} expression—
+Bipedal, balanced on the fulcrum-line
+Of tail, the head a fearsome confession
+Of what the hunter's art demands: design
 
-Together from the blueprint of the theropod
-Into its fullest {{x|Jurassic}} expression—
-Bipedal, balanced on the fulcrum-rod
-Of the tail, the head a terrible confession
+Of bigger teeth, a stronger jaw, the force
+Of bite delivered from the muscle, bound
+Within the skull—and theropods' long course
+Of evolution always sought new ground:
 
-Of what the predator's art demands:
-Bigger teeth, stronger jaw, the force
-Of the bite delivered from the glands
-Of muscle anchored in the skull—the course
+A deadlier kill.
 
-Of theropod evolution was always toward
-A more efficient kill.
+                       Nor was he alone.
+The {{x|Jurassic}}'s guild of hunters had grown,
+And many were the niches—from the bone
 
-                       But Allos was not alone.
-The {{x|Jurassic}}'s predator guild was broad
-And the niches many—from the bone
-
-Of the largest prey to the smallest lizard,
+Of largest prey to the smallest lizard,
 A theropod was tuned to every scale:
-Ceratosauros with his nasal wizard-
-Horn and blade-teeth, hunting the same trail
+Ceratosauros, with nasal wizard-
+Horn and his blade-teeth, hunting the same trail
 
-As Allos but at a smaller gauge;
-The megalosaurids, heavy-jawed and strong,
-Who hunted the {{p|European}} stage
+As Allos, but upon a smaller gauge;
+Megalosaurids, heavy-jawed and strong,
+Who hunted on the {{p|European}} stage
 Of the {{x|Jurassic}} world; and all along
 
-The coastal margins, the spinosaurids were
-Beginning their experiment with fish—
-The long-snouted, sail-backed, the forerunner
-Of Spinosauros, who would later wish
+The coastal margins, spinosaurids made
+Their first experiment with eating fish—
+Long-snouted, sail-backed forerunners who laid
+The way for Spinosauros, whose own wish
 
-The river for his kingdom and receive it.
+Would be the river-kingdom he'd receive.
+In undergrowth the small theropods ran:
+{{x|Compsognathids}}, a chicken's size, who'd weave
+With delicate insect jaws, the small clan
 
-And in the undergrowth, the small theropods ran:
-{{x|Compsognathids}} no bigger than a chicken—believe it—
-With delicate jaws for insects, the small-clan
-
-Of Theros' family who proved that the theropod plan
+Of Theros' house, who proved the hunter's plan
 Was not restricted to the giants' game
 But worked at every scale—from the span
-Of Allos' skull to the smallest frame
+Of Allos' skull down to the smallest frame
 
-Of a running insect-catcher in the ferns.
-
-The arms race between Theros and Sauropos
+Of running insect-catchers in the fern.
+Theros and Sauropos, in their arms race,
 Drove both to new extremes: at every turn
-The predator grew larger, and the colossal
+The predator grew larger; in the chase
 
-Herbivore grew larger still—the back
-And forth of predation and defense
-That made the {{x|Jurassic}} an evolutionary track
-Of escalation with no end, no fence
+Colossal plant-eaters grew larger still—
+The back-and-forth of hunt and of defense
+That made {{x|Jurassic}} climb, and climb until
+No end could come, and there could be no fence
 
-To limit the size of the hunter or the prey—
-Only the physics of the bone and the capacity
-Of the heart to pump the blood on any day
-Through a body pushed to its maximum audacity.
+To limit size of hunter or of prey—
+Only the bone's physics, and the heart's force
+To pump the blood around the frame each day
+Through bodies pushed to their extremest course.
 
-This was the theropod's art: to build
-The body for a single purpose—killing—
-And to refine that purpose until it filled
-The predator niche so completely, so thrilling
+This was the theropod's whole art: to build
+The body for one sole purpose: killing—
+And to refine that aim until it filled
+The hunter's niche so fully, so thrilling,
 
-In its efficiency, that every herbivore
-On the {{x|Jurassic}} plain lived in the shadow
-Of the theropod's eternal: something more
+Efficient so, that every herbivore
+On the {{x|Jurassic}} plain lived in shadow
+Of theropods' eternal: something more
 Terrible is coming from the meadow's
 
-Far edge, with teeth like knives and the patience
-Of a hunter who has evolved for nothing else.
-
-Honor Allos and his {{x|Jurassic}} nations
-Of the fang—the teeth-and-claws that dwells
+Far edge, with knife-like teeth and patient mind
+Of hunters made for nothing but to kill.
+Honor Allos and his {{x|Jurassic}} kind
+Of fang and tooth and claw, that dwell there still
 
 In every child's imagination when
-They dream of dinosaurs: the great and terrible
+They dream of dinosaurs, the great and grim
 Predators who hunted and fed and then
-Hunted again—the inheritance indelible
+Hunted again: the indelible hymn
 
-Of the theropod's evolutionary creed:
-That the world is meat, and the hunter is born to feed.
+Of all the theropods' evolving creed:
+The world is meat; the hunter's born to feed.
 
 
 # Chapter 103: The Flower Revolution
 
-Then the world changed color.
+Then color changed.
 
-                                For a hundred million years
-The green had been gymnosperm—the dark and heavy
-Green of Conifera's needles, the austere
-And wind-pollinated world where every levy
+                                A hundred million years
+The green had been the gymnosperm's: the dark
+Heavy green, Conifera's needle spears,
+Wind-pollinated world, austere and stark,
 
-Of pollen flew in clouds of golden dust
+Where pollen flew in clouds of golden dust
 On the {{x|Mesozoic}} wind, profligate
-And wasteful—a billion grains, and just
+And wasteful: a full billion grains, and just
 A few would find their target, the mandate
 
-Of the conifer's reproduction: flood the air
-With pollen and rely on the statistics
+Of conifer seed-making: flood the air,
+Pollen, relying on the statistics
 Of the wind to carry a grain somewhere
-That mattered—the crude and ancient logistics
+That mattered—ancient and crude logistics
 
-Of the gymnosperm's seed-making.
+Of the gymnosperm seeds.
 
-                                   But in the early
+                                   But in the young
 {{x|Cretaceous}} undergrowth, among the ferns
-And cycads, something new appeared: the rarely
-Beautiful, the quietly transformative—the turns
+And cycads, something new appeared, unsung,
+Quiet, beautiful, transforming: the turns
 
 Of evolution that change everything
-Without the drama of extinction—Angios,
-The flowering plants, who offered something
-That the gymnosperms had never thought to pose:
+Without extinction's drama: the new thing,
+Angios, the flowering plants, who'd propose
+What gymnosperms had never thought to pose:
 
-A bargain.
+A pact.
 
-            The flower was a contract written
-In color and in scent: come to me,
-Said the angiosperm, be smitten
-With my nectar—drink it free—
+            The flower: a contract written
+In color and in scent: come here to me,
+The flowering plant said, come, be smitten
+With nectar; drink it, for I give it free—
 
-And in exchange, carry my pollen
-On your body to the next flower's door—
-Deliver it precisely—no wind-swollen
-Cloud of wasted grains but the targeted core
+And in exchange, bear pollen on your back
+On your body to the next flower's door,
+And place it there precisely, with no slack:
+No wind-swollen cloud of waste, but the core
 
-Of pollen placed exactly where it must go
-By the body of the pollinator,
-The insect or the bird or the bat whose flow
-Of visitation was the navigator
+Of pollen placed just where it has to go
+By body of the insect, bird, or bat,
+Whose flow of visits was the guide, and so
+It steered flowering reproduction; that
 
-Of the angiosperm's reproduction—and the cost
-Of a little nectar was repaid a thousand-fold
-By the efficiency of what was never lost
-To the wind's indifferent, pollen-scattering hold.
+Small nectar cost was paid a thousand-fold
+By the sure aim of what was never lost
+To the wind's indifferent, scattering hold:
+The flower gained far more than all it cost.
 
-Angios was the daughter of Gymnos—
-Descended from the seed-plant's ancient line
-But revolutionary in her cosmos
-Of innovation: the flower as the sign
+Angios, the daughter of Gymnos' line,
+Was seed-plant born, but made the old world new
+With innovation: flower as the sign
+And fruit as the reward. The fruit was, too,
 
-And the fruit as the reward.
+A second bargain: eat, said the apple,
+The berry, drupe: eat flesh I gladly share
+With you; and in your gut bear the chapel
+Of seeds to distant ground, and plant them there
 
-                              For the fruit was
-The second bargain: eat me, said the apple,
-The berry, the drupe—digest the flesh that does
-You good, and carry in your gut the chapel
-
-Of my seeds to distant ground—and plant them there
 In the fertile soil of your dropping, rich
-With the nutrients I could never have—the fare
-Of the animal's digestive niche
+With nutrients I'd never have; the trade
+Of every animal's digestive niche
+Became the flower's own dispersal aid.
 
-Becoming the angiosperm's dispersal method.
+Color, scent, nectar, fruit: this was the kit
+Of flowering plants, unforeseen at birth,
+And most transformative invention, fit
+To rewrite ecosystems on the earth.
 
-Color, scent, nectar, fruit—the toolkit
-Of the flowering plant was the most unexpected
-And transformative innovation, a trick
+Neopter's children—all the insects—bloomed
+Beside the flowers, co-evolved, awesome
+In staggering diversity: the doomed
+And joyful partnership, bee and blossom,
 
-That rewrote every ecosystem on the earth.
+Of butterfly and orchid, and the pact
+Of wasp and fig—each pair evolving close
+Specificity, intimate, exact:
+The clasp of pollinator and of those
 
-Neopter's children—the insects—bloomed
-Alongside the flowers in a co-evolved birth
-Of staggering diversity: the doomed
+They pollinate: each flower shaped to fit
+Its guest; and each guest's body, in its turn,
+Was tuned to flower's architecture: it
+The flower as solicitor would learn,
 
-And joyful partnership of bee and blossom,
-Of butterfly and orchid, of the wasp
-And fig—each pair evolving the awesome
-And intimate specificity of the clasp
-
-Between pollinator and the pollinated—
-Each flower shaped to fit its visitor,
-Each visitor's body calibrated
-To the flower's architecture, the solicitor
-
-And the client locked in an embrace
-That drove both to new extremes of form:
-Longer tongues for deeper nectaries, the race
+And, as the client, locked in an embrace
+That drove them both to new extremes of form:
+Longer tongues, deeper nectaries; the race
 Of coevolution's perpetual storm
 
-That would ultimately produce more species
-Of flowering plant and insect than all other
-Lineages combined—the masterpieces
-Of evolution's most productive mother.
+That in the end produced more species—more
+Of flower and of insect—than the rest
+Of lines combined; the masterpieces, store
+Of evolution's mother, fruitful, blessed.
 
 The dinosaurs ate the new plants gladly—
-The hadrosaurs and ceratopsians
-Of the late {{x|Cretaceous}} would develop badly
-If the flowers failed—their special plans
+The hadrosaurs, ceratopsian clans
+Of late {{x|Cretaceous}} would have fared badly
+If flowers failed: for all their special plans
 
 For grinding teeth and gut-fermentation
-Were tuned to the angiosperm's new provisions—
+Were tuned to flowering plants' provisions—
 And the mammals in the nighttime's station
 Found the fruits and seeds, the small decisions
 
-Of the forest floor enriched by the flower's gift.
-
-The world that the flower made was not
+Of forest floor enriched by flowers' gift.
+The world that the new flower made was not
 The austere gymnosperm cathedral's lift
-Of dark green columns—but the polychrome thought
+Of dark columns—but polychrome, and hot
 
-Of a meadow in full bloom: red, yellow, white,
+With meadows in full bloom: red, yellow, white,
 Purple, blue, and every shade between—
 The advertising of the flower's bright
 And market-driven beauty, the obscene
 
-Profligacy of the beautiful
-Whose beauty is not waste but the precise
-And calculated broadcast—dutiful
-To the pollinator's eye—and that suffice
+Profligacy of beauty—beauty not
+Waste, but precise, a calculated sign,
+Broadcast, dutiful to the eye: a plot
+For pollinators: it would redesign
 
-To remake every landscape on the earth.
-
-Honor Angios—the flowering one,
+Every landscape there is on all the earth.
+So honor Angios—the flowering one,
 Who changed the color of the planet's girth
 And made the partnership beneath the sun
 
 Between the flower and the wing, the root
 And the tongue—the most productive contract
-In the history of life, the fruit
+In all the history of life, the fruit
 Of which we still consume in every act
 
-Of eating, smelling, seeing—for the flower
-Is the source of nearly everything we grow,
-And Angios' {{x|Cretaceous}} hour
-Is the hour that made the world we know.
+Of eating, smelling, sight—for the flower
+Is source of nearly everything we grow,
+Angios' {{x|Cretaceous}} hour of power
+Is the hour that made the world that we know.
 
 
 # Chapter 104: The Snake-Kindred of the Sea
 
-In the late {{x|Cretaceous}} seas, a new predator rose
-From the lineage of Squamos—the lizard-kin,
+In late {{x|Cretaceous}} seas, a hunter rose
+From Squamos' lineage—the lizard-kin,
 The children of the second-born, and those
 Who carried the inheritance within
 
-Of the flexible jaw, the scaleless eye,
-The forked tongue tasting chemistry on the air—
+Of the flexible jaw, the scale-free eye,
+The forked tongue tasting chemistry in air—
 Mosas, the mosasaur, who would apply
-The lizard's ancient arts to the ocean's lair.
+The lizard's ancient arts to ocean's lair.
 
-For Mosas was Squamos' child, a monitor
-In the manner of the great {{x|Komodo}}-kin—
-A varanid, a tongue-flicking connoisseur
-Of the coastal shallows who went in
+For Mosas, Squamos' child, was of the kind
+Of monitor, the great {{x|Komodo}}'s kin—
+A varanid, a tongue-flicker, inclined
+To coastal shallows, who at last went in
 
-And never fully came back out.
+And never came back out. So, long before,
+Two hundred million years, had gone the one
+Called Ichthyos; now Mosas left the shore—
+But by convergent laws, his course would run
 
-                                 As Ichthyos
-Had done two hundred million years before,
-Mosas entered the water—but the laws
-Of convergent evolution wrote a different shore
+Not to the dolphin's build, but to the form
+Of serpents, long and sinuous; and the drape
+Of side-to-side motion, snake-like in storm
+Of open ocean, undulating shape.
 
-For the mosasaur: not the dolphin shape
-But the serpent's—the long and sinuous form,
-The body that swam with an undulating drape
-Of lateral motion, like a snake in the storm
+For Mosas stood as stem of what would be
+The snakes in later days: a lizard whose
+Great jaw unhinged; the bones were now set free
+That held it rigid once—so it could choose
 
-Of the open ocean—for Mosas was
-The stem of what the snakes would later be:
-A lizard whose jaw unhinged because
-The bones that held it rigid had been set free
+To flex and spread, to swallow down its prey
+Larger than heads: kinetic skull and jaw
+That the snake would one day call its own way
+Was Mosas' gift: the ancient reptile's draw
 
-To flex and spread, to swallow prey
-Larger than the head—the kinetic skull
-That the snake would one day call its way
-Was Mosas' gift, the reptilian pull
-
-Toward the loosened jaw, the flexible face
-That could accommodate a meal
-Larger than reason—and in the ocean's space,
+Toward the loosened bone, the flexible face
+That could accommodate a giant meal
+Larger than reason; in the ocean's space,
 Where the prey was large and the need was real,
 
-This innovation made the mosasaur supreme.
-
-Mosas grew enormous in the {{x|Cretaceous}} seas—
-The largest reached the length of a city's dream:
-Seventeen meters of hunting expertise
+This change had made the mosasaur supreme.
+Mosas grew huge in the {{x|Cretaceous}} seas—
+The largest reached a length past any dream:
+Seventeen meters' hunting expertise
 
 That ruled the shallow continental shelves
-Where the inland seas spread wide and warm
-Across the {{x|Cretaceous}} world—the waves themselves
+Where all the inland seas spread wide and warm
+Across {{x|Cretaceous}} lands; the waves themselves
 Belonged to Mosas, and the coming storm
 
 Of his jaws was the last thing that the fish,
 The ammonite, the sea turtle, the shark
 Would see—the mosasaur's one burning wish
-Was food, and the ocean offered it, and the dark
+Was food; the ocean offered it; the dark
 
 Of the {{x|Cretaceous}} deep was his to claim.
+His flippers were the monitor's spread toes,
+Webbed now, and powerful: the walking frame
+Of the land lizard, paddles now; there rose
 
-His flippers were modified from the monitor's
-Spreading toes—webbed and powerful, the frame
-Of the terrestrial lizard's walking corridors
+His tail, tall, flat: an upright blade that drove
+The sinuous frame through all the hunting hall
+Of the late {{x|Cretaceous}} sea's treasure-trove.
+And then, as Mosas rose, there came the fall
 
-Transformed to paddles—and his tail grew tall
-And flattened, a vertical blade that drove
-The sinuous body forward through the hall
-Of the ocean's hunting grounds—the treasure-trove
+Of Ichthyos: the dolphin-shaped, of old,
+Ancient ichthyosaurs, who had enclosed
+{{x|Triassic}} and {{x|Jurassic}} seas in hold,
+No longer could escape: their line, deposed,
 
-Of the late {{x|Cretaceous}} sea.
+A hundred fifty million years of deep,
+Went silent mid-{{x|Cretaceous}}; the rafter
+Of their evolving house had lost its keep
+To changed seas, and rivals coming after;
 
-                             And as Mosas rose,
-Ichthyos faded—the dolphin-shaped
-And ancient ichthyosaurs, who had enclosed
-The {{x|Triassic}} and {{x|Jurassic}} seas, escaped
+Mosas filled the vacant throne's position
+And scaled up to the oceanic zone
+The monitor's own ancient ambition,
+Until the ocean's realm became his own.
 
-No longer: the ichthyosaur line, after
-A hundred and fifty million years of the deep,
-Went silent in the mid-{{x|Cretaceous}}—the rafter
-Of their evolutionary house lost its keep
-
-To changing seas and changing competition—
-And Mosas filled the vacant throne
-With the monitor lizard's ancient ambition
-Scaled up to the oceanic zone.
-
-The mosasaur's jaw told the future: the loose
-And flexible bones that let him swallow whole
+The mosasaur's jaw told the future: loose
+Flexible bones that let him swallow whole
 Were the same engineering that the goose
-Of evolution would later dole
+Of evolution later on would dole
 
-To the snakes—for the snake is the mosasaur's
-Land-bound echo, the same Squamos blueprint
-Applied to the terrestrial corridors:
-The limbless, jaw-unhinging, subtle hint
+To snakes; for snakes are the mosasaur's land
+Echo: the same Squamos blueprint applied
+To earthly corridors: the limbless band
+Of jaw-unhinging, subtle hints implied
 
 Of what the lizard becomes when the limbs
-Are deemed unnecessary—whether in the sea
-Where Mosas swam or in the terrestrial hymns
-Of the serpent's crawl—the same decree
+Are deemed no longer needed—in the sea
+Where Mosas swam, or in the earthly hymns
+Of the serpent's crawling: the same decree
 
 Of Squamos' flexible engineering.
+So honor Mosas, snake-kin of the sea,
+Who proved that Squamos' old pioneering
+In flexing jaw and limbs no more, set free,
 
-Honor Mosas—the snake-kindred of the sea,
-Who proved that Squamos' ancient pioneering
-In flexible jaw and limbless sovereignty
-
-Could conquer the ocean as it conquered the land—
-The mosasaur who ruled the {{x|Cretaceous}} deep
-With the monitor's tongue and the serpent's hand
-Redesigned for swimming—and whose sleep
+Could conquer sea as it had conquered land—
+The mosasaur, who ruled {{x|Cretaceous}} deep
+With monitor's tongue and the serpent's hand
+All redesigned for swimming—and whose sleep
 
 Was the sleep of the ocean's apex lord,
-Who feared nothing in the water's realm
-And whose jaws wrote the unambiguous word:
+Who feared nothing within the water's realm,
+Whose jaws wrote, plain and in one clear accord:
 The lizard-kin can take the ocean's helm.
 
 
 # Chapter 105: The Tyrant Kings
 
-There is a shape that terror takes when it perfects itself.
+Terror, when it is perfect, takes a shape.
+Then, late in the {{x|Cretaceous}}, Theros' brood
+Achieved the perfect hunter—no escape—
+Delving the deepest fear of hunted food:
 
-In the late {{x|Cretaceous}}, Theros' line achieved
-The ultimate predator—the shape that delved
-Into the deepest fear of every grieved
+Tyrannos, of the tyrant lizards king,
+Coelurosaur, who grew past reason's law,
+The largest head, the strongest bite to bring,
+The raw and overwhelming force of jaw
 
-And hunted herbivore—Tyrannos, king
-Of the tyrant lizards, the coelurosaur
-Who grew beyond all reason, who would bring
-The largest head, the strongest bite, the raw
+Of apex lord, for the {{x|Cretaceous}}' end.
+Twelve meters long, six tons of bone, each cord
+Of muscle, every fiber made to bend
+To one dread purpose, killing, as its lord:
 
-And overwhelming force of the apex lord
-To the {{x|Cretaceous}}'s final act.
-
-                                   Twelve meters long,
-Six tons of bone and muscle, every cord
-Of fiber tuned to one purpose—the strong
-
-And terrible purpose of the kill—
 Tyrannos walked on two enormous legs,
-Each step a seismic event, each hill
-And valley shaken by the impact—the dregs
+Each step a seismic tremor; every hill
+And valley shook from impact, and the dregs
+Of every smaller creature's calm would spill
 
-Of every smaller creature's composure scattered
-At the sound of the tyrant's approach.
+At sound of the tyrant's approach. His arms
+Were tiny, on a body that battered
+The mind—but his great head bore all the charms
+Of compensating power—what mattered:
 
-                                        His arms
-Were small—absurdly small on a body that battered
-The imagination—but his head bore the charms
+A skull a bathtub long, and jaws to break
+The bone; teeth like bananas; and the might
+Of bite—the strongest any beast could make
+In all land's history: such was his bite—
 
-Of compensating power: a skull the length
-Of a bathtub, jaws that could crush bone,
-Teeth the size of bananas—and the strength
-Of the bite: the strongest of any creature known
+Eight thousand pounds per square inch at the tip
+Of tooth, with teeth not blades like Allos' own,
+But rounded railroad spikes, thick, set to grip
+Beneath enamel: made to crush the bone.
 
-In the history of land—eight thousand pounds
-Per square inch at the tooth-tip, and the teeth
-Were not blades like Allos' but the rounds
-Of railroad spikes, thick, bone-crushing beneath
-
-The enamel—for Tyrannos did not slice
-His prey to bleeding death but seized and crushed—
+For great Tyrannos did not merely slice
+His prey to bleeding death, but seized and crushed—
 The skull, the spine, the ribs—the sacrifice
-Was immediate, the prey not gradually hushed
+Was instant, and the prey not slowly hushed
 
-But destroyed in the seizing—the killing bite
-That ended the herbivore's struggle in a single
-Application of the jaw's hydraulic might.
+But wrecked within the seizing: killing bite
+That stopped the grazer's struggle in one blow,
+One application of hydraulic might
+Of jaws. And in his eyes, set forward so,
 
-And in his eye—for the binocular mingle
-Of forward-facing vision gave him depth-perception
-That the earlier theropods had lacked—
-The world was three-dimensional, the deception
-Of the camouflaged prey no longer backed
+Binocular, there came depth-perception
+That the earlier theropods had lacked:
+A three-dimensioned world; the deception
+Of camouflaged prey was no longer backed
 
-By any visual trick—Tyrannos saw
-In depth, in color, tracked the motion
-Of the fleeing prey with the predator's law
-Of relentless and unhurried locomotion:
+By any trick of sight: Tyrannos saw
+In depth, in color; he tracked the motion
+Of fleeing prey with the predator's law
+Of patient, unhurried locomotion:
 
 He did not need to be fast—he needed
-Only to be persistent, to walk and walk
-And walk until the prey that ran conceded
-To exhaustion, and the tyrant's stalk
+Only to be persistent: walk and walk
+And walk till the prey that ran conceded
+To its exhaustion, and the tyrant's stalk
 
-Ended in the inevitable seizure.
+Ended in seizing, as was sure to be.
+His brain was large; the bulbs for smell were vast,
+Enormous, and his sense of smell was free
+To find prey, rotting or alive, miles past.
 
-His brain was large—the olfactory bulbs
-Enormous, the sense of smell at leisure
-To detect the rotting or the living pulps
+His hearing was acute: the ground's low sound
+Conducted through the bone, each footstep's trace
+Of every fleeing creature, secret, found;
+And the {{x|Cretaceous}} shook before his pace:
 
-Of any prey for miles—and the hearing
-Was acute, the low frequencies of the ground
-Conducted through the bone, the footstep's clearing
-Of every fleeing creature's secret sound.
+No land creature in Tyrannos' domain
+Was safe from scan of smell and sight; the reign
+Of predatory apex—the long road
+Of sixty million years theropods strode:
+Innovation: from Coelos' running pack
+To Allos' blade-jawed ambush; then, the mode
+Of tyrannosaur's bone-crushing attack.
 
-The {{x|Cretaceous}} trembled before Tyrannos—
-Not a single land creature in his territory
-Was safe from the tyrant's scanning bellows
-Of smell and sight—the predatory
+He was Theros' masterpiece: the whole sum
+Of all the meat-eating lineage learned
+About the killing art; and so had come
+Power, not speed: this was the lesson earned
 
-Apex of sixty million years of theropod
-Innovation, from Coelos' pack
-To Allos' blade-jawed ambush, to the plod
-Of the tyrannosaur's bone-crushing attack.
-
-He was Theros' masterpiece: the synthesis
-Of everything the meat-eating lineage learned
-About the killing art—the emphasis
-On power over speed, the lesson earned
-
-From Allos' age that size matters less
-Than the force delivered at the point of contact—
-And Tyrannos delivered the utmost stress
-That bone and muscle could compact
+From Allos' day, that size would matter less
+Than the force that's delivered in contact—
+Tyrannos delivered the utmost stress
+That any bone and muscle could compact
 
 Into a single, devastating bite.
+The grazers answered: Ceratops would grow
+Great horns and frills, the bony, armored might
+Of shield against the tyrant's strike and blow—
 
-The herbivores responded: Ceratops
-Grew horns and frills, the armored might
-Of bony shield against the tyrant's stops
+But that is for the next chapter's telling.
+For now, praise Tyrannos, the tyrant king,
+Culmination of the hunter's dwelling
+In body's engineering—everything
 
-And strikes—but that is the next chapter's telling.
-
-For now, honor Tyrannos—the tyrant king,
-The culmination of the predator's dwelling
-In the body's engineering—everything
-
-The theropod could become, he was:
+All that the theropod could be, he was:
 The largest predator that ever walked,
-The strongest bite, the deepest jaws,
-And the earth itself that trembled when he stalked.
+The deepest jaws, the strongest bite—the cause
+Why earth itself would tremble when he stalked.
 
 He ruled for two million years at the end
-Of the {{x|Cretaceous}} age—a brief reign
-In geological time, but in the trend
-Of the theropod's story, the maximum strain
+Of the {{x|Cretaceous}} age—a passing reign
+In geologic time; but in the trend
+Of theropod story, the utmost strain
 
-Of the predator's art—and though the asteroid
+Of hunting art—and though the asteroid
 Would end his dynasty, his ghost remains
 In every child who dreams of the destroyed
 And terrible world where the tyrant reigns.
@@ -22731,19 +22629,18 @@ And terrible world where the tyrant reigns.
 
 Against the tyrant's jaw, the herbivore
 Grew armor, grew horns, grew the elaborate
-And beautiful defenses of the {{x|Cretaceous}} floor:
-The ornithischian answer, the ornate
+And handsome guards of the {{x|Cretaceous}} floor:
+Ornithischian answer, the ornate
 
-And weaponized response to the predator's art.
-
+Weaponized response to hunters' art.
 Ceratops was Ornithis' finest shield—
 The horned face, the frilled and bony heart
-Of defense displayed like a medieval field
+Of guard displayed like a medieval field
 
 Of heraldry above the skull—three horns:
-Two great brow-horns above the eyes like lances,
-A nose-horn in the center, and the adorns
-Of the bony frill behind—the stances
+Two brow-horns, lances, set above the eyes,
+A nose-horn in the center; the adorns
+Of bony frill behind: the poise, the size
 
 Of display and defense combined in one
 Enormous and improbable design:
@@ -22751,232 +22648,216 @@ A skull that weighed as much beneath the sun
 As the rest of the head—the massive shrine
 
 Of bone that was at once a weapon, shield,
-And billboard—for the frill bore colors,
-And the horns could gore, and the display field
-Of species-recognition turned the collars
+And billboard—for the frill bore painted hue,
+And the horns could gore, and the display field,
+For knowing kin, would turn the herds into
 
-Of every ceratopsian herd into a gallery
-Of the living art: Triceratops with three,
-Styracosauros with his spiked salary
-Of frill-horns, Centrosauros in a spree
+A gallery of living art: the three
+Horns of Triceratops; the spiked array
+Of Styracosauros' frill-horns; the spree
+Of Centrosauros' nose in its display.
 
-Of nasal ornament—each species wrote
-Its identity on the skull for all to read,
-And the {{x|Cretaceous}} plains were the moat
-And kingdom of the horned ones' creed.
+Each species wrote, upon the skull, its note
+Of who it was, for all the herds to read,
+And the {{x|Cretaceous}} plains became the moat
+And kingdom of the horned ones and their creed.
 
-They charged the Tyrannos when he came—
+They charged the great Tyrannos when he came—
 The brow-horns aimed at the predator's flank,
-The frill protecting the vulnerable claim
+The frill to guard the vulnerable claim
 Of the neck—and the herd's collective rank
 
-Formed a wall of horns against the king:
-The ceratopsian herds moved together,
+Formed a great wall of horns against the king:
+Ceratopsian herds moved together,
 The young inside, the adults in a ring
 Of bristling horn-points, and the weather
 
-Of the {{x|Cretaceous}} battle between the horn
-And the tooth was the defining drama
-Of the final age—the conflict, born
-From sixty million years of carnivore-llama
+Of the {{x|Cretaceous}} war between the horn
+And tooth, the drama that defined the age
+Of final days; the conflict, being born
+From sixty million years upon that stage
 
-And predator-prey dynamics, reached its peak
-In the Triceratops-Tyrannosaur confrontation:
+Of predator and prey, would reach its peak:
+Triceratops against the tyrant's maw,
 The strongest bite against the strongest cheek-
-And-horn defense—the escalation
+And-horn defense; the escalation's law
 
-That could go no further, the limit reached
+Could go no further: here the limit reached
 Of the arms race between the hunter's jaw
-And the hunted's armor—neither breached
-The other's final defenses, and the draw
+And the hunted's armor; neither one breached
+The other's last defenses; and the draw
 
-Of their perpetual warfare was the {{x|Cretaceous}} way.
+Of endless war was the {{x|Cretaceous}} way.
+Beside the horned ones stood the crested kind:
+Hadros, duck-billed, with a different display
+Of ornament: the hollow crests designed
 
-And beside the horned ones, the crested:
-Hadros, the duck-billed, who displayed a different day
-Of ornament: the hollow crested
-
-Skulls that Parasauros wore, the tube
+On skulls that Parasauros wore: the tube
 And trumpet of bone that resonated
-With the animal's voice—a living {{x|YouTube}}
-Of communication, each crest calibrated
+With the animal's voice: a live {{x|YouTube}}
+Of talk; each crest was tuned, and created
 
-To a different pitch and timbre—and the call
-Of the hadrosaur across the {{x|Cretaceous}} plain
-Was music: deep and haunting, the hall
-Of the hollow crest a resonating gain
+A different pitch and timbre; and the call
+Of hadrosaurs across {{x|Cretaceous}} plain
+Was music, deep and haunting, and the hall
+Of hollow crest a resonating gain
 
-That amplified the animal's low-frequency
-Bellow into something that could carry
-For miles—the {{x|Cretaceous}} symphony
-Of the duck-billed dinosaurs, the ordinary
+That amplified the bellow on the air
+For many miles: the long {{x|Cretaceous}} song
+Of duck-billed herds: a sound both plain and rare,
+Of the herd's talk: the danger-calls, the throng
+Of mating-songs, the mother's call, the word
+Of infant hunger—social life laid bare,
+As complex as a mammal's—to be heard.
 
-And extraordinary sound of the herd
-In conversation: danger-calls and mating-songs,
-The mother's bellow and the infant's word
-Of hunger—the communication-prongs
+Hadros and Ceratops, together, were
+The mammals of {{x|Cretaceous}} grazing kind,
+If mammal is the word we would prefer
+For all that lives the social life, defined:
 
-Of a social life as complex as any mammal's.
+Parental, talking, herded: such a life
+Ornithischians lived and so contrived,
+The lawful answer to the hunter's strife,
+Cooperative, whereby herds survived:
 
-Hadros and Ceratops together
-Were the {{x|Cretaceous}} herbivore's mammals—
-If mammals is the word for whatever
+Stay close in the hunter's world, together,
+Defend as one, communicate, and raise
+Each young one with care through every weather—
+And so the herd survives the tyrant's gaze.
 
-Achieves the social, the communicative,
-The parental, the herd-organized life
-That the ornithischians lived—the legislative
-And cooperative answer to the strife
-
-Of the predator's world: stay together,
-Defend together, communicate, and raise
-Your young with care through every weather—
-And the herd survives the tyrant's gaze.
-
-Ankylos too earned mention—the armored tank
-Of the ornithischian line, whose body bore
+Ankylos too deserves a word: the tank
+Of ornithischians, whose body bore
 A dorsal pavement of bone-plate and flank-
-Armor that no predator could score
+Armor that not one predator could score
 
 With tooth or claw—and at his tail-end swung
 The club: a bony mace that could shatter
-Even Tyrannos' leg—the young
-And old alike protected by the matter
+Even Tyrannos' leg in two; the young
+And old alike, kept safe by the matter
 
-Of living stone that Ankylos wore.
+Of the living stone that Ankylos wore.
+Honor the horned, crested, and armored all,
+The grazer's answer to the hunter's store
+Of weapons: the {{x|Cretaceous}}, whose great hall
 
-Honor the horned, the crested, the armored—
-The herbivore's answer to the carnivore's store
-Of weaponry—the {{x|Cretaceous}} world that harbored
+Held both the tyrant and the shield, the fang
+And the frill, and the jaw, and the sharp horn—
+And in their eternal contest, there sang
+The song of the living since it was born:
 
-Both the tyrant and the shield, the fang
-And the frill, the jaw and the horn—
-And in their eternal contest sang
-The song of the living world since it was born:
-
-That every predator makes a better prey,
-And every prey makes a better predator—
-And life grows richer from the interplay
-Of the hunter and the hunted evermore.
+That every hunter makes a better prey,
+And every prey makes better hunters, so
+That life grows richer from the interplay
+Of hunter and of hunted, as they go.
 
 
 # Chapter 107: Sky Giants
 
-Now Pteros' children grew to the impossible.
+Now Pteros' children grew past every bound.
+Then, in the late {{x|Cretaceous}}, when the world
+Of {{x|Mesozoic}} life had broken ground
+In size and strangeness—Pteros then unfurled
 
-In the late {{x|Cretaceous}}, when the {{x|Mesozoic}} world
-Had pushed every boundary of the plausible
-In size and strength and strangeness, Pteros unfurled
+The very largest wings that ever flew.
+Quetzal, whose name the feathered serpent bore,
+A god men later worshipped—flew through blue
+Of the {{x|Cretaceous}} skies, on wings that soar
 
-The largest wings that ever flew.
+As fighter planes: eleven meters wide,
+The membrane stretched from his enormous fourth
+Finger to body; and the walking stride
+Was, on land, a giraffe's, as he went forth.
 
-Quetzal—named for the feathered serpent-god
-That humans would later worship—flew through blue
-And {{x|Cretaceous}} skies on a wingspan broad
+For Quetzal, when he walked the wood, stood tall
+As modern mammals' tallest, on the ground,
+Wings folded, on his knuckles, feet: of all
+Earth's fliers, he was tallest to be found.
 
-As a fighter aircraft: eleven meters wide,
-The membrane stretched from the enormous fourth
-Finger to the body, and the stride
-Of this creature on the ground was the worth
+And the azhdarchid pterosaurs, the great
+Of late {{x|Cretaceous}}, were of all the line
+Of Pteros the most versatile, whose state
+Of high achievement crowned the whole design:
 
-Of a giraffe—for Quetzal stood
-As tall as the tallest modern mammal
-When he folded his wings and walked through the wood
-On his knuckles and his feet—the animal
-
-Kingdom's tallest flier was also tall
-On the ground, and the azhdarchid pterosaurs
-Of the late {{x|Cretaceous}} were the overall
-Most versatile of all Pteros' floors
-
-Of evolutionary achievement:
 They could fly thousands of miles on thermal
-And soaring flight, with the bereavement
-Of almost zero energy—the dermal
+And soaring flight, and almost nothing spent
+Of power; the membrane, thin and dermal,
+Caught air just like a sail, its whole extent.
 
-Membrane catching the air like a sail,
-And the hollow bones weighing almost nothing—
-Quetzal weighed perhaps two hundred pounds, the scale
-Of an adult human, despite the buffeting
+The hollow bones weighed almost nothing; so
+Quetzal weighed some two hundred pounds, the scale
+Of a grown human, though in size he'd show
+A small plane's bulk, a buffeting broad sail.
 
-Size of a small airplane—the architecture
-Of the pterosaur body was a cathedral
-Of air: hollow bones, air-sac infrastructure
-That permeated every strut and needle
+Cathedral of the air: the hollow bone
+And air-sac framework, threaded through each strut
+And needle of the skeleton, had grown
+As light as hope. On ground, a stork, he'd strut,
 
-Of the skeleton—light as possibility itself.
+Quetzal, of monstrous size, on the plain's shelf
+Of the {{x|Cretaceous}}; with his beak he'd pluck,
+Picking up mammals, lizards, for himself,
+Small dinosaurs—whatever, by his luck,
 
-On the ground, Quetzal was a stork
-Of monstrous proportions: walking on the shelf
-Of the {{x|Cretaceous}} plain with a beak like a fork
+Would fit within the vast and toothless beak
+Of these azhdarchids, wizards on the ground,
+Gorgeous, unlikely hunters, swift and sleek,
+Walking and flying with like skill, renowned,
 
-That picked up small dinosaurs, mammals, lizards—
-Anything that fit within the enormous
-And toothless beak—the terrestrial wizards
-Of the azhdarchid lineage, the gorgeous
+The only large beasts that could soar and stalk
+In both realms, in the sky and on the plain,
+Lonely {{x|Cretaceous}} flatlands where they'd walk.
+And not just Quetzal held the sky's domain:
 
-And improbable hunters who could walk
-And fly with equal mastery—the only
-Large animals that could soar and stalk
-In both dimensions, the sky and the lonely
+Ornithocheirids, on the ocean set,
+Would fish upon the fly with lower jaws:
+Skimming, they cut the wave—a living net—
+Scooping up all the fish without a pause.
 
-Flatlands of the {{x|Cretaceous}} interior.
+And the pteranodontids, crested high,
+With heads upswept, a silhouette, they flew
+Like living weather-vanes across the sky
+Above the inland seas, {{x|Cretaceous}} blue,
 
-And not only Quetzal ruled the {{x|Cretaceous}} sky:
-The ornithocheirids plied the aerial superior
-Of the open ocean, fishing on the fly
+And caught fish in their throat-pouch, with the love
+Of pelicans' great patience; and the wide
+And toothless mouths of these late kings above
+Were fishing engines, sleek and dignified,
 
-With skimming lower jaws that cut the wave
-And scooped the fish like a living trawl-net—
-And the pteranodontids, with their brave
-And crested heads like the upswept silhouette
+Each species tuned to its own hunting line
+Of air: the soaring ocean-crossers' flight,
+The coastal fishers' flap-and-glide design,
+The azhdarchids' ground-stalking; Pteros' might,
 
-Of a living weather-vane, soared above
-The inland seas of the late {{x|Cretaceous}},
-Catching fish in their throat-pouches with the love
-Of a pelican's patience—the capacious
-
-And toothless mouths of the late pterosaurs
-Were fishing machines of elegant design,
-Each species tuned to a different cause
-Of aerial hunting: the soaring line
-
-Of the ocean-crossers, the flap-and-glide
-Of the coastal fishers, the terrestrial stalking
-Of the azhdarchids—Pteros' pride
-Was the widest spread of any walking,
-
-Flying, soaring dynasty in the sky.
-
+The widest walking, flying, soaring, high
+The dynasty that ever held the sky.
 For eighty million years before the birds
-Would claim the aerial niche, the pterosaur's reply
+Would claim the air, the pterosaurs' reply
 To the air's invitation was the words
 
-Of membrane and bone and the hollow strut
-Of an engineering so light it seemed
-Impossible—and yet the pterosaur was not
-A fragile thing: he flew, he dreamed
+Of membrane and of bone, the hollow frame
+Of engineering so light that it seemed
+Impossible—but frail was not his name:
+He flew, and in the thermal's lift he dreamed.
 
-In the thermal's lift, he crossed the ocean
-On wings that would make the albatross
-Seem modest—and his devotion
-To the sky was total, and the loss
+He crossed the ocean on such wings that, by
+Their span, the albatross seemed small; the sky
+Held all of his devotion; and the end
+Of pterosaurs, {{x|Cretaceous}}' close, would send
 
-Of the pterosaurs at the {{x|Cretaceous}}'s end
-Would leave the air for the birds alone—
-The feathered dinosaurs would then extend
-Their claim to every sky the pterosaur had known.
+The air to birds alone—the feathered line
+Of dinosaurs would then extend its own
+Claim, by the right of feather and design,
+To every sky the pterosaurs had known.
 
-Honor Quetzal and his kin—the sky giants,
-The largest things that ever flew,
-Who proved that with the right alliance
-Of hollow bone and membrane, the view
+So honor Quetzal and his giant kin,
+The largest things that ever flew the sky,
+Who proved, with hollow bone and membrane skin,
+The view above belongs to those who try,
 
-From above belongs to those who dare
-To stretch their wings beyond all reason—
-And the sky, the boundless sky, the air
-Is large enough for every season
-
-Of the impossible made real.
+And spread their wings past all bounds of reason—
+For the sky, the boundless sky, and the air
+Is large enough for every new season
+Of the impossible, made real up there.
 
 
 # Chapter 108: The Peak of Life
@@ -22989,399 +22870,363 @@ The forests grew: no ice, the planet hurled
 Into a greenhouse warmth that filled the whole
 
 Of the equator and the polar zone
-With the green of Angios' flowering empire
-And Conifera's ancient evergreen throne—
-The world was warm, the world was entire
+With green of Angios' flowering reign
+And Conifera's old evergreen throne—
+The world was warm, and whole in its domain
 
-In its coverage of life from the abyss
-Of the ocean's deepest trench to the highest
-Mountain that the {{x|Cretaceous}} tectonic bliss
-Of activity could raise—the slightest
+Of life, from the abyss, the deepest trench
+Of ocean, to the highest mountain's crest
+That {{x|Cretaceous}} tectonics' bliss could wrench
+Upward: the slightest corner—and the rest
 
-Corner of the planet held its life.
-
-In the sea: Mosas ruled the shallows,
-His serpentine bulk the greatest knife
-That the {{x|Cretaceous}} marine world allows
+Of the whole planet—held its share of life.
+In the sea, Mosas ruled the shallows round,
+His serpentine bulk was the greatest knife
+That the {{x|Cretaceous}} marine world had found
 
 For cutting through the ocean's living wealth—
-And Plesios still dove with her four flippers
-Through the deeper water, the stealth
-Of the plesiosaur unchanged, the sippers
+Plesios still dove with four flippers' sweep
+Through deeper water, in the ancient stealth
+Of the long-necked kind, unchanged, that would reap
 
-Of the ocean's fish for a hundred million years.
-The ammonites spiraled through the water column
-In their chambered shells, the ancient peers
+The ocean's fish a hundred million years.
+Ammonites coiled through the water column
+Within their chambered shells, the ancient peers
 Of Coleios' cuttlefish—the solemn
 
-And beautiful geometry of the chambered nautilus
-Still sailing, as it had since the {{x|Ordovician}} sea—
-And the teleosts, Teleosteos' fabulous
-And overwhelming diversity,
+Geometry: nautilus, chambered shell,
+Still sailing, as since {{x|Ordovician}} day—
+And teleosts, whose numbers grew to swell
+Teleosteos' fabulous array,
 
-Filled every marine niche from reef to open water,
-From freshwater lake to the ocean's midnight zone—
+Filled every niche, from reef to deep water,
+From freshwater lake to the midnight zone—
 Half of all vertebrates, each the daughter
-And son of Actinus' ancient bone.
+And the son of Actinus' ancient bone.
 
-On land: Tyrannos stalked his kingdom
-And Ceratops bore his horns against the king—
-Hadros called across the freedom
-Of the {{x|Cretaceous}} plain, and the spring
+On land, Tyrannos stalked through his domain,
+Ceratops bore his horns against the king,
+Hadros called out across the open plain
+Of the {{x|Cretaceous}}; and with every spring
 
-Of every year brought the ornithischian herds
-In their annual migrations, millions strong,
-Across the continents—and the early birds
-Of Archaeos' lineage sang their song
+Came ornithischian herds, millions strong,
+In yearly migrations across the lands—
+And Archaeos' early birds sang their song
+In canopies, diversified in bands
 
-In the canopy, already diversified
-Into waterbirds and shorebirds and the small
+Of water-birds and shore-birds, and the small
 And toothed {{x|Cretaceous}} forms that occupied
-The niches that the pterosaurs could not fill—all
+The niches pterosaurs could not fill: all
+The understory, forests' deep inside,
 
-The understory and the forest interior
-Where the pterosaur's wingspan could not reach.
-
-Pteros' children ruled the aerial superior
-Of the open sky, and on every beach
-
-And flatland stalked the azhdarchids, tall
-As giraffes and winged as nightmares.
+Where pterosaurs' broad wingspans could not reach.
+Pteros' children ruled the sky; and on each
+Beach and flatland stalked the azhdarchids, tall
+As giraffes, winged like nightmares, over all.
 
 In the undergrowth, Mammos kept his small
-And quiet vigil—the nighttime prayers
+And quiet vigil: nighttime prayers, the watch
+That mammals kept, continuing through all
+{{x|Cretaceous}}, {{x|Jurassic}}, {{x|Triassic}}: notch
 
-Of the mammalian line continuing their watch
-Through the {{x|Cretaceous}} as through the {{x|Jurassic}}
-And the {{x|Triassic}} before: the notch
-Of smallness, the nocturnal and gymnastic
+Of smallness, the nocturnal, nimble, sure
+Survival of the warm-blooded, with fur
+Under cold-blooded giants, to endure;
+But mammals had diversified, and were
 
-Survival of the warm-blooded and the furred
-In the shadow of the cold-blooded giants—
-But by now the mammals had diversified: the word
-Of the {{x|Cretaceous}} mammal was defiance
+In the {{x|Cretaceous}} a fierce defiance
+In miniature: the rodent-toothed, the small
+Metatherians, in pouched reliance,
+Multituberculates; rarest of all,
 
-In miniature—multituberculates with their
-Rodent-like teeth, the metatherians
-Who carried pouches, and the rare
-And small eutherians—the contrarians
+Eutherians, contrarians, who'd own
+The world one day, but were, for now, the size
+Of mice, and twice as humble, small, unknown.
+The insects, though, outnumbered, in their rise,
 
-Who would one day rule the world but for now
-Were the size of a mouse and twice as humble.
+All vertebrates combined; the tumble, hum,
+Of Neopter's children in the flowers
+Of Angios was the whole age's drum:
+Bees and wasps and butterflies; the hours
 
-The insects numbered more than all the vowed
-And vertebrate species combined—the tumble
-
-And buzz of Neopter's children in the flowers
-Of Angios was the soundtrack of the age:
-Bees and wasps and butterflies, the hours
 Of pollination filling every page
+Of the {{x|Cretaceous}} with the hum and ring
+Of partnership of plant and wing. This stage,
+The {{x|Mesozoic}} peak, its everything:
 
-Of the {{x|Cretaceous}} day with the hum
-Of the partnership between the plant and wing.
-
-This was the peak. This was the sum
-Of the {{x|Mesozoic}}'s offering:
-
-A world more full of life than it had been
-Before the {{x|Permian}}'s {{x|Great Dying}}—more diverse,
+A world more full of life than it had seen
+Ere {{x|Permian}}'s {{x|Great Dying}}; more diverse,
 More complex, more intricately between
 The predator and prey, the universe
 
-Of ecological interaction reaching depths
-Of sophistication that the {{x|Paleozoic}}
-Had never known—and in these depths
-The {{x|Mesozoic}} wrote its most heroic
+Of the ecology, whose interplay
+Of richness that the {{x|Paleozoic}}
+Had never known; and in that rich array
+{{x|Mesozoic}} wrote its most heroic
 
-And beautiful chapters: the world at its most alive,
+Fair chapters: the world at its most alive,
 The planet at its greenest and most full,
-Every niche occupied by whatever could thrive
-In the {{x|Cretaceous}} greenhouse's generous pull.
+Each niche filled up by whatever could thrive
+In the {{x|Cretaceous}} greenhouse's warm, strong pull.
 
 Honor the peak—the moment when the world
-Was most itself, most full, most densely woven
-With the living—every flag unfurled,
-Every niche occupied, every kingdom cloven
+Was most itself, most full, most densely spun
+With living things—with every flag unfurled,
+Each niche filled, every kingdom, every one,
 
-To its finest divisions—the pinnacle
-Of the {{x|Mesozoic}}'s hundred-and-eighty-million years
-Of building—the invincible
-And the beautiful, the joys and the fears
+Cut to its finest divisions—the crest
+Of building, {{x|Mesozoic}} year on year,
+A hundred eighty million years' bequest:
+Invincible and lovely, joy and fear,
 
-Of the most complex world that had ever been.
-
-What came next was the asteroid.
-But tonight the world is at its most serene,
-And the peak is not yet destroyed.
+The most complex world ever to be seen.
+And what came next would be the asteroid.
+Tonight the world is at its most serene,
+And the peak is still, as yet, not destroyed.
 
 
 # Chapter 109: The Cosmic Visitor
 
-Somewhere beyond the orbit of {{p|Jupiter}},
-A stone had been traveling for four billion years.
+Past {{p|Jupiter}}'s far orbit, there a stone
+Had traveled for four billion years, alone.
 
-It was not large—by the standards of the greater
-Debris that wanders the solar system's fears
+It was not large—beside the greater mass
+Of wandering debris that might collide,
+Modest in size: ten kilometers wide,
+A mountain's remnant of the cloud of gas
 
-Of collision, it was modest: ten kilometers,
-A mountain-sized remnant of the early cloud
-That had built the planets—the parameters
-Of its orbit slowly shifting, the proud
+That built the planets; and its orbit, slow,
+Its proud and stable circle eons long,
+Was pulled by {{p|Jupiter}}'s gravity so
+Into a new trajectory, along
 
-And stable path it had circled for eons
-Perturbed by {{p|Jupiter}}'s gravity into
-A new trajectory—the cons and theeons
-Of orbital mechanics finally drew
+Where the mechanics of the orbit threw
+The stone across the inner system's lanes.
+It did not aim, it did not think: it flew
+As thoughtless as the rain that falls on plains
 
-The stone across the inner solar system's lanes.
+Without intention; and the cosmic zone
+Of asteroids released it on a line
+That crossed the {{p|Earth}}'s: the orbits' math alone
+Had pulled it from its circuit's old design
 
-It did not aim. It did not think. The stone
-Was as thoughtless as the rain that falls on plains
-Without intention—the cosmic zone
-
-Of the asteroid belt had released it
-Into a path that intersected {{p|Earth}}'s
-By the mathematics of the orbits—seized it
-From its ancient circuit and the berths
-
-Of the outer system, and sent it inward
+Of outer space, and sent it on its way
 On a hyperbolic course that took ten
-Thousand years to bring it toward
-The planet where the dinosaurs, the men
+Thousand long years to bring it, day by day,
+Toward the world where dinosaurs, the men
 
-Of the {{x|Mesozoic}}'s greatest civilization
+Of {{x|Mesozoic}} civilization
 (If civilization is what we call
-The organized and complex occupation
+The organized, complex occupation
 Of every niche on a planet, the hall
 
 Of a hundred million species living
-In the web of the most complex ecosystem
+Within the most complex ecosystem
 The earth had made, the generous giving
 Of the {{x|Cretaceous}} greenhouse)—this system
 
 Knew nothing of the stone.
 
-                           The stone knew nothing
-Of the system.
-
-                That is the cruelty—
-There was no cruelty in it. The somethings
-Of the universe proceed in their duality
+                           Nor did the stone
+Know of the system—cruel; and, at heart,
+No cruelty was in it, not one bone:
+Things of the cosmos played their dual part
 
 Of physics and indifference, and the rock
-That would end the {{x|Mesozoic}} world
+That would end the whole {{x|Mesozoic}} world
 Was not evil, was not even the shock
-Of a vengeful god's hurled
+Of thunderbolt a vengeful god had hurled—
 
-Thunderbolt—it was arithmetic:
-Two bodies in the same place at the same time,
-The earth and the stone in a geometric trick
-Of orbits crossing—the pantomime
+It was arithmetic, and nothing more:
+Two bodies at one place and the same time,
+Earth and the stone, a geometric score
+Of orbits crossing—and the pantomime
 
-Of a collision that no one could see coming
+Of a collision none could see coming,
 Because no eye on earth looked up to space
-With instruments for the incoming humming
-Of a mountain falling at twenty kilometers' pace
+With instruments, for incoming humming
+Of a great mountain falling at a pace
 
-Per second—twenty times the speed of a bullet,
-A hundred times the speed of a jet—
-And in the final hours the full of it
-Was visible: a brightening star, a threat
+Of twenty kilometers each second,
+Some twenty times the speed a bullet makes,
+A hundred times a jet's speed, as reckoned;
+In the final hours, its brightness breaks
 
-That only the mathematics could have warned of,
-Crossing the {{x|Cretaceous}} sky in the last
-Clear night—and not a single dinosaur mourned of
-The future that was vanishing so fast.
+Into view: a brightening star, a threat
+That only mathematics could foretell,
+Crossing {{x|Cretaceous}} sky, clear night; and yet
+No dinosaur would mourn the future's knell.
 
-Tyrannos hunted in the evening's last light.
+Tyrannos hunted in the evening light.
 Ceratops grazed beside the river's bend.
-Hadros called across the coming night.
-Pteros' last azhdarchid rode a thermal's end.
+Hadros called out across the coming night.
+Pteros' last azhdarchid rode thermals' end.
 
-Plesios dove beneath the continental shelf.
-Mosas hunted in the warm and shallow sea.
+Plesios dove beneath the ocean shelf.
+Mosas hunted in the warm, shallow sea.
 And Mammos in his burrow kept himself
-Alive through another night—the key
+Alive through yet another night—the key
 
-To everything that would come after,
-Though he did not know it, could not know,
+To everything that would then come after,
+Though he did not know it, and could not know,
 That the stone was falling toward the rafter
 Of the atmosphere, and the final show
 
-Of the {{x|Mesozoic}} was about to begin.
-
+Of the {{x|Mesozoic}} was to begin.
 The stone entered the upper atmosphere
 At an angle, trailing a column thin
-And brilliant of plasma—and from here
+And brilliant, made of plasma; and, now near,
 
-The last ten seconds of the {{x|Cretaceous}}
-Were written in fire:
+The last ten seconds of {{x|Cretaceous}} came
+In fire were written; and the air compressed
+Before the stone; the instant, searing flame
+Of burning air, the superheated crest
 
-                      The atmosphere compressed
-Ahead of the stone, the instantaneous
-Heating of the air, the superheated crest
+Of shock wave that went out before the blow—
+And the stone struck into the shallow sea
+Of {{p|Chicxulub}}, just off the coast, the slow
+And ancient limestone shelf; and then the free
 
-Of the shock wave that preceded impact—
-And the stone struck the shallow sea
-Of {{p|Chicxulub}}, off the coast, the intact
-And ancient limestone shelf—and the free
+And terrible energy, as reckoned,
+Ten billion {{x|Hiroshimas}}: one second
+Released, and closed a hundred million years.
+But that's the next chapter's to tell. The tears
 
-And terrible energy of ten billion
-{{x|Hiroshimas}} released in one second—
-
-One second that ended a hundred million years.
-
-But that is the next chapter's reckoned
-And terrible account. Tonight the tears
-Are not yet falling, and the stone's appointment
+Are not yet falling; the stone's rendezvous
 With the earth is still one heartbeat away—
-And the {{x|Mesozoic}}'s final anointment
-Of the evening sky is the last good day
+And the {{x|Mesozoic}} anoints the view
+Of evening sky, the very last good day
 
 The dinosaurs will see.
 
-                       Honor the evening.
-Honor the last good night before the fire—
-The {{x|Cretaceous}} sky in its gentle heaving
-Of the stars above the quiet empire
+                       Honor this night,
+Honor the last good evening ere the fire—
+{{x|Cretaceous}} sky in gentle, heaving light
+Of stars above the still realm entire
 
-Of the dinosaurs who do not know
-That tomorrow the world ends.
+Of all the dinosaurs who do not know
+Tomorrow the world ends.
 
                               For every world
-That ends had one last evening's glow
-When everything was still and the flag unfurled
-
-Of living was still flying.
+That ends has had one final evening's glow
+When all was still; and life's flag, still unfurled.
 
 
 # Chapter 110: The Last Mesozoic Day
 
-The morning of the last day was like any other.
+The last day dawned like every other day.
+The sun rose over {{p|Laurasia}}; the warm
+{{x|Cretaceous}} air received the light the way
+A mother takes her child: familiar form
 
-The sun rose over {{p|Laurasia}} and the warm
-{{x|Cretaceous}} air received the light like a mother
-Receiving a child—the familiar, the form
-
-Of every morning for a hundred million years:
+Of mornings for a hundred million years:
 The mist rising from the river, the call
-Of the hadrosaur's crest in the early frontiers
-Of dawn, the pterosaur lifting from the wall
+Of hadrosaur crests, at the dawn's frontiers,
+And the pterosaur lifting from the wall
 
 Of the cliff-side roost on the thermal's first
 Ascending column of the morning heat—
-The {{x|Cretaceous}}'s last day was the unrehearsed
-And ordinary continuation of the beat
+{{x|Cretaceous}}' last day was the unrehearsed
+And ordinary going-on, the beat
 
-Of life that knows nothing of its end.
+Of life that knows of nothing, not its end.
+In forests, flowering understory
+Unfolded to the pollinators' blend,
+Wing and proboscis: {{x|Cretaceous}} glory
 
-In the forest, the flowering understory
-Opened its petals to the pollinators' blend
-Of wing and proboscis—the {{x|Cretaceous}} glory
-
-Of the angiosperm-insect partnership
+Of the great flower-insect partnership
 In full display: the bee arrived at dawn,
-The butterfly followed, and the tulip-lip
-Of the flower opened wider on the lawn
+The butterfly came next; the tulip-lip
+Of flowers opened wider on the lawn
 
-Of the forest floor for each visitor's touch.
-
-Tyrannos woke hungry—as he always did—
-And the morning's hunt began: the familiar clutch
+Of forest floor for each visitor's touch.
+Tyrannos woke up hungry, as he did,
+The morning's hunt began: familiar clutch
 Of scent and sight, the tracking of the hid
 
-And browsing Ceratops in the scrubland,
-The patient approach through the Angios cover,
-The calculation of the strike—no husband
+And browsing Ceratops on scrubby land,
+The patient creep through Angios' cover,
+The calculated strike: no husband's hand
 Of the energy, no careful lover
 
-Of the caloric budget, but the raw
-And inefficient killing-machine that burned
+Of the caloric budget; his the flaw:
+Inefficient killing-machine that burned
 More calories than he could see—the maw
 Of the apex predator who had learned
 
-To eat enormously and often.
-
+To eat enormously, and eat again.
 The Hadros herds moved south along the coast
-In their annual migration, the coffin
+In annual migration, the slow train
 Of the {{x|Cretaceous}} autumn—or the toast
 
-Of the {{x|Cretaceous}} spring, for the greenhouse world
-Had gentler seasons than our own—and the herd
-Of a thousand hadrosaurs, their crests unfurled
+Of the {{x|Cretaceous}} spring; the greenhouse world
+Had gentler seasons than our own; the herd,
+A thousand hadrosaurs, their crests unfurled
 In the morning light, bellowed every word
 
-Of their rich vocabulary: the contact-call,
-The danger-signal, the mother's low
+Of rich vocabulary: contact-call,
+The danger-signal, and the mother's low
 And resonant locator for the small
-And wandering infant in the herd's slow flow.
+Wandering infant in the herd's slow flow.
 
-In the inland sea, Mosas surfaced to breathe—
-The great monitor-jawed leviathan
-Rising from the continental-shelf's wreath
-Of warm water, and the meridian
+Out in the inland sea, Mosas, all teeth,
+Leviathan, monitor-jawed and vast,
+Rose up to breathe from the warm shelf beneath;
+The noon sun's meridian, as he passed,
 
-Of the noonday sun caught his body's length
-In the surface glitter—seventeen meters
-Of the lizard-kin's oceanic strength
-Before he dove again to the deeper theaters
+Caught in the surface glitter all his length:
+Seventeen meters of the lizard-kin
+Grown oceanic in their ancient strength,
+Before he dove to hunt the deep within.
 
-Of his hunting.
-
-                Plesios hunted deeper still—
-The four-flippered flier of the underwater,
+And Plesios was hunting deeper still,
+Flying on four flippers underwater,
 Her long neck sweeping with the ancient skill
-Of the sauropterygian's patient slaughter
+Of the sauropterygian's slaughter
 
-Of the schooling fish—she had done this
-Every day for a hundred and thirty million years
-Of her lineage's continuity—the bliss
-Of the hunting plesiosaur's career
+Of schooling fish; she had done this each day
+For her line's hundred thirty million years
+Of continuity—the bliss, the way
+Of hunting plesiosaurs' long careers
 
-Unchanged since the {{x|Jurassic}} dawn.
+Unchanged since the {{x|Jurassic}}'s early dawn.
+And in the evening, which would be the last,
+And Mammos, in his burrow, there withdrawn,
+Watched the sun setting, and he heard the vast
 
-And in the evening—the very last—
-The Mammos in his burrow looked upon
-The setting sun and heard the vast
+And ordinary night begin: the song
+Of insects; the nocturnal mammals' climb
+Out of their burrows, to the complex throng
+Of nighttime's ecosystem; and the time
 
-And ordinary night begin: the insects
-Singing, the nocturnal mammals emerging
-From their burrows to the complex texts
-Of the nighttime ecosystem, the merging
+When day shift merged with night shift at the seam
+Of dusk: the universal handoff, played
+By the {{x|Mesozoic}} world to a dream
+Of steadiness; the final standoff stayed
 
-Of the day shift and the night shift at the seam
-Of dusk—the universal handoff
-That the {{x|Mesozoic}} world had made a dream
-Of reliability—and the final standoff
+Between the stone and planet, hours away.
+Did any creature sense it? Birds, perhaps—
+The young seabirds' magnetic sense, the way
+Of navigation, written in brain-maps,
 
-Between the stone and the planet was hours away.
-
-Did any creature sense it? The birds, perhaps—
-The magnetic-field perception of the day-
-Old seabirds, the navigational maps
-
-Written in their brains, might have registered
-The stone's approach as a faint disturbance
-In the magnetosphere—but history
-Keeps no record of the natural observance
-
+Might have perceived, as a faint stir, the stone
+Approaching, in the magnetosphere's zone;
+No record has been kept, no tally set,
 Of the approaching doom.
 
                          The last sunset
-Was beautiful—as all {{x|Cretaceous}} sunsets were—
-The greenhouse atmosphere's palette set
-In reds and golds that would not recur
 
-For ten million years.
+Was beautiful, as all {{x|Cretaceous}} were—
+The greenhouse atmosphere's broad palette, bright
+In reds and golds that would not soon recur
+For ten million long years.
 
                       And then the night.
 The last night of the {{x|Mesozoic}} world.
 And in the south, a growing point of light
 In the sky, where no star had ever swirled
-
-Before—growing, brightening, falling—
-
-The stone arrived.
+Before—it grew, and brightened, and it hurled
+Itself toward earth. The stone arrived that night.
 
 
 # Chapter 111: Good Mesozoic Friday
