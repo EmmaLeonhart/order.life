@@ -132,15 +132,16 @@ Legendary reign, the state still bows to him. This is, by any
 Measure, the longest continuous national founding mythology on
 Earth.
 
-        Compare this to the situation in other civilizations. {{p|Egypt}}
-Broke with the pharaonic tradition when {{p|Christianity}} arrived. The
-{{p|Mesopotamian}} dynasties replaced each other repeatedly, each
-Erasing the sacred lineage of the previous. {{p|Greece}} and {{p|Rome}}
-
-Secularized their founding myths and eventually abandoned the
-Religious claims of their origins. {{p|Christianity}} and {{p|Islam}} replaced
-The earlier sacred genealogies of their regions with new ones
-Centered on {{c|1308|Abraham}} and {{c|1911|Muhammad}}. But {{p|China}} never broke.
+Compare the other lands. In {{p|Egypt}}, when
+{{p|Christianity}} came, new keepers then
+Took up the dead's old rite. The kings who rose
+In {{p|Mesopotamia}} struck out those
+Before them from the king-lists. {{p|Greece}} and {{p|Rome}}
+Let their first founders' rites go cold at home.
+{{p|Christianity}}, {{p|Islam}} hung the old
+Lines on {{c|1308|Abraham}}, {{c|1911|Muhammad}}, to hold
+Them under new hands. {{p|China}} never broke:
+One house has kept one rite, and the same smoke.
 
 {{c|1999|Huangdi}} has outlasted every other ancient founder-figure in
 Continuous national veneration. The {{p|Chinese}} civilizational

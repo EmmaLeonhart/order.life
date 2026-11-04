@@ -311,18 +311,15 @@ Because he has achieved liberation while they have not. The
 
 Importance to any god or gods. The gods exist; they are not
 Ultimately relevant. What is ultimately relevant is each sentient
-Being's own progress toward liberation. This is a position with
-Some affinity to the {{x|Gaiad}}'s own deflationary polytheism—a
+Being's own road to freedom. So our song:
+The gods are many, and they live for long,
+But none of them the centre; all along
+This book has said the same. No second creed
+Stands here beside our own: the {{c|1959|Buddha}}'s seed
+Is our own rite, the middle way our road,
+Kept under names his country's tongue bestowed.
 
-Recognition of divine pluralism combined with a refusal to treat
-Any particular divinity as the absolute center of everything. The
-{{x|Gaiad}} can appreciate the {{p|Buddhist}} framework as one genuinely
-Compatible articulation of a non-dogmatic, non-imperialist religious
-
-Orientation. {{p|Buddhism}} and the {{x|Gaiad}}'s own vision are not the
-Same, but they share family resemblances.
-
-                                              {{c|2304|Siddhartha Gautama}}. The
+{{c|2304|Siddhartha Gautama}}. The
 Prince who left his palace. The ascetic who rejected both luxury
 
 And self-torture. The seeker under the fig tree at {{p|Bodh Gaya}}.

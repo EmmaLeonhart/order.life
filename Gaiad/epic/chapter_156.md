@@ -91,35 +91,37 @@ That {{c|1952|Akhenaten}} rose to the throne.
 {{c|2080|Amenhotep IV}}, was the son of {{c|2081|Amenhotep III}} and grandson of
 {{c|2082|Thutmose IV}}. He reigned from approximately thirteen-fifty-three
 
-To thirteen-thirty-six BCE. And he attempted something that no
-Previous pharaoh had attempted: to abolish the traditional {{p|Egyptian}}
-Pantheon and replace it with the worship of a single god—the sun-
-Disk, {{c|2083|Aten}}—with himself as the sole intermediary between the
+To thirteen-thirty-six. Then, of the men
+Who ruled, he did what none had done till then:
+He took the gold and gifts of every door
+Of {{c|2086|Amun}}'s house and many houses more,
+And gave them to one altar and one sun,
+The {{c|2083|Aten}}, where the pouring might be done
+By him alone, the only one between
+The light and those who lived by it. Some mean
+By "{{c|2083|Aten}} heresy" a faith reborn,
+The first monotheism; others scorn
+It as a break with all the gods of old.
+The poem sees one rite, and one man's hold
+On it: the same sun {{c|2079|Amun-Ra}} had been,
+The same hymns, a new house to bring them in.
+It was a move for power, meant to break
+The {{p|Amun}} priesthood's hold, for one king's sake.
 
-Divine and humanity. This is the famous "{{c|2083|Aten}} heresy" or
-"{{c|2084|Amarna}} revolution"—sometimes celebrated in popular history as the
-First monotheism. The {{x|Gaiad}}'s reading is more skeptical. {{c|1952|Akhenaten}}'s
-Religious innovation was not quite monotheism in the {{c|2085|Abrahamic}}
-
-Sense. It retained cosmic elements of the traditional {{p|Egyptian}}
-Religion. It was, primarily, a political move—an attempt to break
-The {{p|Amun}} priesthood's power by redirecting religious authority
-To a sun-disk that only the pharaoh had privileged access to.
-
-{{c|1952|Akhenaten}} built a new capital, {{p|Akhetaten}} (modern {{p|Amarna}}),
-In middle {{p|Egypt}}. He moved the royal court there. He closed temples
-Of {{c|2086|Amun}} and other traditional gods. He persecuted priests of the
-Old religion. And he composed, in his own hand, hymns to the
-
-{{c|2083|Aten}}—the {{p|Great Hymn to the Aten}}—that celebrate the sun as
-Creator of all life. (Interestingly, the {{p|Great Hymn to the Aten}}
-Shares striking similarities with {{p|Psalm 104}} of the {{p|Hebrew
-Bible}}—a parallel that has led some scholars to argue that {{p|Hebrew}}
-
-Monotheism was influenced by or descended from {{c|1952|Akhenaten}}'s
-Earlier experiment. The {{x|Gaiad}} takes a careful position on this:
-The parallel is real, but the historical transmission is murky,
-And the {{p|Hebrew}} tradition had its own independent development.)
+He built {{p|Akhetaten}}, his seat, out where
+{{p|Amarna}} stands, and took his whole court there,
+And then closed {{c|2086|Amun}}'s temples and the rest,
+Drove out their priests, and took what they possessed:
+The same offering, now poured in one man's name.
+In his own hand he wrote, to light the flame,
+{{p|Great Hymn to the Aten}}, praising the sun
+As maker of all life, the only one.
+That hymn is close to {{p|Psalm 104}},
+And some have said the {{p|Hebrew}} rite took more
+From {{c|1952|Akhenaten}}'s altar than it knew.
+The likeness holds; the road it travelled through
+Is murky, and the {{p|Hebrew}} rite had grown
+Along its own long road, though not alone.
 
 And here the {{x|Gaiad}} makes a specific and possibly provocative claim.
 {{c|1952|Akhenaten}}, despite his reputation in modern pop-religion as a
@@ -127,19 +129,20 @@ And here the {{x|Gaiad}} makes a specific and possibly provocative claim.
 Who persecuted the {{p|Israelites}}. The "{{p|new king who knew not
 
 Joseph}}" of the {{p|Exodus}} narrative may be, in the {{x|Gaiad}}'s reading,
-{{c|1952|Akhenaten}} himself. Why? Because {{c|1952|Akhenaten}}'s religious revolution
-Was anti-foreign-cult. In closing down the temples of the traditional
-{{p|Egyptian}} gods, he also closed down the temples of the {{p|Semitic}}
-
-Gods who had been worshipped in {{p|Egypt}} by the remaining {{p|Canaanite}}
-Population. The {{p|Israelites}} in {{p|Goshen}}—descendants of {{c|2019|Jacob}}'s
-Family, still preserving their own {{p|Semitic}} religious identity—
-Found themselves religiously suppressed under {{c|1952|Akhenaten}}'s regime.
-
-The irony is striking: {{c|1952|Akhenaten}}, celebrated by modern writers
-As the first monotheist, was in the {{x|Gaiad}}'s reading the active
-Persecutor of the {{p|Israelites}}, whose descendants would develop
-The most important monotheism in subsequent world history. The
+{{c|1952|Akhenaten}} himself. For when he shut
+The house of {{c|2086|Amun}}, every altar but
+His own was closed: the shrines where {{p|Canaanite}}
+Households in {{p|Egypt}} kept their fathers' rite,
+And those of {{c|2019|Jacob}}'s house in {{p|Goshen}}, who
+Still kept their fathers' god, as households do,
+Lost altars with the rest. And so the one
+The moderns praise as first to serve one sun
+Is, in this reading, he who drove the rite
+Of {{c|2019|Jacob}}'s sons from its altars. The fight
+Was who would hold the altar, and whose dead
+The houses honoured, and who poured the bread.
+The sons of those he drove away would own
+The rite's most-spoken name for one god's throne.
 
 Timing also roughly works: {{c|1952|Akhenaten}}'s reign (thirteen-fifty-three
 To thirteen-thirty-six BCE) is approximately the right period for

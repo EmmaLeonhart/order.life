@@ -129,29 +129,27 @@ Maintained continuously in fire temples, symbolic of {{c|2166|Ahura Mazda}}'s
 Presence and of the principle of {{c|2170|Asha}} in the world. He emphasized
 Good thoughts, good words, good deeds as the core of religious
 
-Practice. The old gods of the {{p|Indo-Iranian}} pantheon—{{c|296|Mithra}},
-{{c|2172|Anahita}}, various solar and storm deities—were either demoted to
-Subordinate roles beneath {{c|2166|Ahura Mazda}} or reinterpreted as
-{{p|Amesha Spentas}} (holy immortals, something like angels). Some
+Practice. The steppe's old gods kept their old form:
+{{c|296|Mithra}}, {{c|2172|Anahita}}, the sun and storm
+Bowed to {{c|2166|Ahura Mazda}} or became
+The {{p|Amesha Spentas}}, holy, the same.
+And {{c|2063|Indra}}, whom the {{p|Vedic}} hymns put high,
+Was called a {{c|2174|daeva}}, servant of the lie.
+So {{p|Sanskrit}} {{c|2173|deva}} names a god of light;
+In {{p|Avestan}}, {{c|2174|daeva}}, a foe. The fight
+Was not between two faiths. It was one rite,
+One fire, one tongue, one pressed and holy drink,
+Two priesthoods at one altar, and the brink
+They fought on was whose lords would take the bowl.
+One family split its fire, but not its soul:
+The plateau's peoples, who took up his word,
+Kept {{c|2146|Zarathustra}}'s fire; and those who heard
+Refused, in the {{p|Indo-Aryan}} east,
+Kept {{c|2173|deva}} for their gods, and fed the feast
+Of {{p|Vedic}} rite. Each kept the same old flame
+And called the other's lords by a worse name.
 
-Of them—notably {{c|2063|Indra}}, who had been a central god in {{p|Vedic}}
-Religion—were actively demonized, recast as {{p|daevas}} (false gods)
-On the side of {{c|2168|Angra Mainyu}}. This is why the word "daeva" has
-Opposite valences in {{p|Sanskrit}} and {{p|Avestan}}: {{p|Sanskrit}} {{c|2173|deva}} is
-
-A good god, but {{p|Avestan}} {{c|2174|daeva}} is an evil one. {{c|2146|Zarathustra}}
-Inverted the old pantheon, placing as good those beings that
-Emphasized truth and moral order, placing as evil those beings
-That emphasized power, warrior glory, and the older ecstatic
-
-Fertility cult. The reform was thorough, and it split the
-{{p|Indo-Iranian}} religious world permanently. {{p|Iranian}} peoples who
-Accepted {{c|2146|Zarathustra}}'s reform became {{p|Zoroastrians}}. {{p|Indo-Aryan}}
-Peoples who did not became {{p|Hindus}}. The same starting tradition
-
-Produced two distinct and ultimately opposed religious complexes.
-
-                                                                 And
+And
 {{c|2146|Zarathustra}} was, by his own account and by subsequent tradition,
 A controversial reformer. He was initially rejected by his own
 

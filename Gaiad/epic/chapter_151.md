@@ -59,16 +59,20 @@ Empire. He speaks {{p|Akkadian}} (and perhaps {{p|Sumerian}} as a learned
 Second language). He grows up in a city whose ziggurat dominates
 The skyline and whose commercial networks extend across the entire
 
-{{p|Near East}}. His father {{c|2013|Terah}} is described in {{p|Genesis}} as a maker
-Of idols—a craftsman in the image-making industry that supplied
-The temples of {{p|Mesopotamia}}. {{c|1308|Abraham}}'s rejection of idolatry, which
-The later biblical and {{p|Islamic}} traditions would make central to
+{{p|Near East}}. His father {{c|2013|Terah}}, legends say,
+Made images for temples, and one day
+The son broke what the father's workshop made.
+Later tellings, Jewish and Muslim, laid
+Their whole weight on that blow. The poem reads
+It as a household quarrel, not two creeds:
+Who keeps the household altar and its rite,
+The shop that served the temple of moonlight
+Or the son, who would set the altar's flame
+Himself, with no carved go-between. The same
+Father's rite; the dispute was who would hold
+It: one house broken, and the story told.
 
-His identity, is portrayed as a rejection of his father's profession.
-The son smashes the idols the father carves. A generational
-Break in a literal family workshop.
-
-                                         And then the {{p|Ur III}}
+And then the {{p|Ur III}}
 Dynasty falls.
 
                     The collapse is dramatic. The final {{p|Ur III}}

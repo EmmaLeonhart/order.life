@@ -119,9 +119,14 @@ Of power was right and just. They developed—probably articulated
 Most clearly by {{c|2156|King Wu}}'s brother {{c|2160|Duke of Zhou}}, who served as
 
 Regent for {{c|2156|King Wu}}'s young son after {{c|2156|King Wu}}'s early death—the
-Concept of {{p|Tianming}}, the {{p|Mandate of Heaven}}. The supreme deity
-{{c|2161|Tian}} ("{{c|2162|Heaven}}," displacing the {{p|Shang}} {{c|2147|Shang Di}} in religious
-Primacy) grants the right to rule to a ruling house only so long
+Concept of {{p|Tianming}}, Heaven's charge. The high
+God, {{c|2161|Tian}}, was {{c|2147|Shang Di}} of the {{p|Shang}}'s own sky,
+One Lord, two names; the fight was for the rite:
+Which house would make the offering, by right,
+To {{c|2162|Heaven}}. And the {{p|Shang}}'s own dead were fed:
+{{p|Zhou}} gave {{p|Song}} to {{p|Shang}}'s heirs, to set the bread
+Before their fathers. {{c|2162|Heaven}} gives the strong
+House leave to rule, but only for so long
 
 As that house governs virtuously. If the ruling house becomes
 Oppressive, tyrannical, or negligent, {{c|2162|Heaven}} withdraws its mandate

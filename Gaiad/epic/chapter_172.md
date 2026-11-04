@@ -267,12 +267,17 @@ Himself and others, helping them to recognize their ignorance
 And thereby opening the possibility of genuine wisdom. He pursued
 This mission relentlessly for decades. In the process, he made
 
-Many enemies. The politically powerful did not enjoy being publicly
-Exposed as ignorant. The pious did not enjoy having their religious
-Assumptions questioned. In three-ninety-nine BCE, {{c|2232|Socrates}} was
-Formally charged with impiety (failing to worship the proper gods
-
-And introducing new gods) and with corrupting the youth of {{p|Athens}}.
+Many foes: the mighty, shamed in the square,
+And those who kept the rites and would not bear
+A man who said a god spoke in his ear.
+The quarrel was the city's, and the year
+Was three-ninety-nine when it came to court:
+Who held the city's altars, and what sort
+Of voice might speak for its gods. The charge read
+"Impiety": he failed the gods, they said,
+The city's own, brought new ones in, and led
+Astray the youth of {{p|Athens}}. And he knew
+The gods he served were {{p|Athens}}' own gods too.
 He was tried by a jury of five hundred citizens. He defended
 Himself not by minimizing his activity but by insisting that his
 Philosophical mission was a gift to the city. The jury, unimpressed,

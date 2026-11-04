@@ -80,8 +80,10 @@ Female absorption, a genetic signature of conquest that archaeology
 Could not have seen until DNA analysis made it visible.
 
                                                               And the
-Religious displacement was equally total. The mother goddess was
-Replaced by the sky father. The spiral was replaced by the wheel.
+Rite changed hands as wholly. The mother, made
+The sky-father's consort, in his house stayed;
+The hearth's offering passed to the war-band's lord;
+The spiral by the wheel and by the cord.
 
 The peaceful agricultural village was replaced by the patriarchal
 Warrior band. The female-centered kinship of {{p|Cucuteni-Trypillia}}
@@ -129,9 +131,10 @@ Is, along with the original out-of-Africa migration, one of the
 Two most consequential population movements in human history. It
 Carried {{p|Indo-European}} languages across most of {{p|Eurasia}}. It
 Established patriarchal, patrilineal social structures across the
-Whole zone. It replaced earlier mother-goddess religions with
-
-Sky-father religions everywhere it went. And the genetic signature
+Whole zone. It set the mother's hearth and rite
+Under the sky-father's roof by the right
+Of conquest everywhere it went. The sign
+Left in the blood, the father's double line
 Of {{c|1928|R1a}} and {{c|1942|R1b}}—the two great {{p|Yamnaya}} Y-chromosome haplogroups—
 Is today dominant across essentially all of {{p|Europe}} and much of
 {{p|India}} and {{p|Iran}}. Billions of people are {{p|Yamnaya}}'s grandchildren.

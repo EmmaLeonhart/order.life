@@ -167,13 +167,15 @@ Great pre-Yamnaya {{p|European}} culture, the one that built giant wooden
 Cities painted with spirals, the one that worshipped the goddess
 Of the old {{p|Europe}}—is burned to the ground by the {{p|Yamnaya}} advance.
 
-The peaceful pre-IE agricultural culture is replaced by the warlike
-Horse-riding patriarchal culture. The goddess is replaced by the
-Sky-father. The painted pottery is replaced by the corded-ware pot.
-The spiral is replaced by the wheel. The mother is replaced by the
-
-King. And the languages of old {{p|Europe}}—whatever they were, we will
-Never know—are replaced by {{x|Proto-Indo-European}} and its daughters.
+The farming towns are taken by the band
+Of horsemen and their fathers. On the land
+The goddess keeps her rite, but in the hall
+Of the sky-father, who now holds it all.
+The painted pot gives way to corded ware,
+The spiral to the wheel; the mother there
+Bows, keeps her rite, and serves the king as well.
+Old {{p|Europe}}'s tongues, whatever they were, fell
+To {{x|Proto-Indo-European}}'s spell.
 This is the pivot. This is the change. This is the moment when
 The {{p|Europe}} we know today begins. Indo-European-speaking, patrilineal,
 

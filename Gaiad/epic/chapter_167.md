@@ -174,40 +174,29 @@ Through its {{p|Christian}} and {{p|Islamic}} extensions, it would reshape
 
 The religious landscape of most of the planet.
 
-                                                Now, a crucial
-Clarification. The {{x|Gaiad}}, in its earlier treatments, has been
-Critical of monotheism as a theological stance. The {{x|Gaiad}}'s own
+Now, where the poem stands: it will not weigh
+The one god and the many, as if they
+Were rival faiths. It does not grant the claim
+That one name or a hundred change the same
+Offering: bread and cup and honoured dead.
+And what the prophet of the exile said,
+That all the nations' worship is one rite
+Confused about one god, this poem might
+Have said itself, and keeps that word its own.
+The later wars were fought for land and throne
+And altar: who would hold the rite alone.
+{{p|Christian}} kingdoms, {{p|Islamic}} rule, the line
+Of {{p|Protestant}} mission: one house, one shrine,
+And its own heirs at war for its one door.
+The exiles did not make their word for war.
+They made it to hold on when others' hands
+Held the great altar and the people's lands:
+The rite would not be fragile as the crown
+That fell with {{p|Jerusalem}}'s walls brought down.
+The poem honours that as courage shown
+Inside our house, the house the exiles own.
 
-Theological sympathies are with a reflective polytheism—one that
-Honors the plurality of divine manifestations, that resists the
-Collapse of cosmic complexity into singular transcendence, that
-Preserves the ecological and cultural richness of the pre-
-
-Monotheistic religious imagination. The {{x|Gaiad}} has argued that
-Monotheism, when it became triumphalist, led to religious
-Persecution, to the destruction of local traditions, to the
-Psychological and cosmological impoverishment of religious life.
-
-This critique stands. But the {{x|Gaiad}} also acknowledges that
-Monotheism, in its origin, was not primarily a triumphalist
-Project. It was a survival strategy. The {{p|Judean}} exiles did not
-Invent monotheism to conquer other religions. They invented it
-
-To hold themselves together under conditions that should have
-Destroyed them. Their theological radicalism was a response to
-Historical crisis, not an aggressive expansionist ideology. The
-Later aggressive monotheisms—{{p|Christian}} imperialism, {{p|Islamic}}
-
-Conquest, {{p|Protestant}} mission—represent developments of the
-Original insight, and often problematic developments. But the
-Original insight itself was a courageous theological act, a
-Refusal to accept that divine reality was as fragile as the
-
-Political structures that had supported the earlier religion. And
-The {{x|Gaiad}} honors the courage of that act, even while maintaining
-Reservations about its later forms.
-
-                                        And consider who took the
+And consider who took the
 Lead in this theological transformation. The exilic and post-exilic
 Period produced some of the most remarkable religious personalities
 In world history. {{c|2272|Ezekiel}}, the priest-prophet, who saw visions of
@@ -317,21 +306,20 @@ Produced, in the space of a century, a new religious grammar
 That would shape the religious imagination of billions of people
 Over the next twenty-five centuries.
 
-                                            And again, the {{x|Gaiad}}'s
-Assessment is complex. The {{x|Gaiad}} honors the exilic communities for
-
-Their courage and creativity. The {{x|Gaiad}} also maintains that
-Monotheism, as it developed, created problems that polytheistic
-Traditions did not have—problems of exclusivity, of intolerance,
-Of the flattening of cosmic complexity. But the {{x|Gaiad}} acknowledges
-
-That monotheism emerged from a specific historical situation in
-Which it was the most viable theological response. It was not
-Born as imperialist ideology. It was born as survival theology.
-The later imperialist uses of monotheism are distortions of an
-
-Originally defensive and preservationist project. The {{x|Gaiad}}
-Reads the {{p|Babylonian}} exile as one of the pivotal moments in
+And here again, the poem takes no sides
+Between one god and many. What divides
+Them is not doctrine but the hand that holds
+The altar, and whose dead the rite upholds.
+Intolerance, when it came, was a door
+Shut by whoever held the house; the war
+Was over who would serve, not what is true.
+The exile's word was born to carry through
+A people with no temple; those who bent
+It later to an empire's intent
+Fought for the house; they did not change the rite,
+Our rite, kept in the exile through the night
+Of {{p|Babylon}}. The poem, then, within
+Our story, reads it as a turning in
 The history of religion—as genuinely pivotal as the {{x|Axial Age}}
 Breakthroughs happening roughly contemporaneously in {{p|Iran}},
 

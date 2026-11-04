@@ -233,8 +233,10 @@ Living, friendship, and the avoidance of needless fears (especially
 
 Fear of the gods and fear of death). {{p|Epicureanism}} would flourish
 For centuries and be given classical expression by the {{p|Roman}}
-Poet {{c|2405|Lucretius}} in the first century BCE. The school survived
-Until late antiquity before being suppressed by {{p|Christianity}}.
+Poet {{c|2405|Lucretius}}, and the school lived on
+To late antiquity, and then was gone
+When the new bishops held the schools and halls:
+A fight for who would teach inside those walls.
 
 These are only the most prominent schools. The philosophical
 Diversity of fourth-century {{p|Greece}} was astonishing. It was a

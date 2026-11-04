@@ -31,14 +31,19 @@ who ruled {{p|Judea}} as a province
 with some degree of imperial delirium.
 
 {{c|2515|Antiochus IV Epiphanes}} came,
-who wanted {{x|Greek}} culture spread,
-who sacked {{p|Jerusalem}}, banned the {{x|Law}},
-and set up {{c|2065|Zeus}} above the holy head.
+Who meant the {{x|Greek}} way kept, and in its name
+He sacked {{p|Jerusalem}}, he banned the {{x|Law}},
+And on the altar of the Lord they saw
 
-He sacrificed a pig upon
-the altar in the {{p|Temple}}'s court.
-The "abomination of desolation"
-was what the {{x|Book of Daniel}} reported.
+The Lord of Heaven under the king's name:
+{{c|2065|Zeus}} of the heights, the same sky and the same
+Altar, but now his priests, his rite, his swine
+Laid on it in the {{p|Temple}}'s court. The sign
+
+The {{x|Book of Daniel}}, punning on that name,
+Called it "abomination," set in shame:
+One altar, and a fight for who would stand
+Before it, and whose law would rule the land.
 
 This was too much. Revolt broke out.
 {{c|2516|Mattathias}} the priest refused

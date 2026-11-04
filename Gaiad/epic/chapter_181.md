@@ -25,15 +25,15 @@ sixty-seven of the {{x|Common Era}}.
 {{x|Buddhism}} entered the {{p|Han Empire}}
 by imperial sponsorship without fear.
 
-But it would not take root for centuries.
-The {{x|Chinese}} saw it as a curiosity,
-a foreign teaching from the western regions,
-not yet absorbed into their reality.
+But centuries would pass before it grew
+Its roots; the court gave the new shrine its due:
+The old offering come by a western road,
+Not yet in every household and abode.
 
-It competed with {{x|Daoism}} at first,
-and the two borrowed from each other.
-{{c|2560|Daoists}} adapted {{x|Buddhist}} concepts.
-{{c|2561|Buddhists}} used {{x|Daoist}} terms as brothers.
+It stood beside the {{c|2560|Daoists}}' altar, and
+The two kept the same court and the same land.
+They vied for the throne's gifts, and each one took
+The other's words, as brothers share a book.
 
 The translation problem was immense.
 How translate "nirvana" into {{x|Chinese}}?
@@ -136,9 +136,9 @@ the world's oldest dated printed book,
 from the ninth century, in preserved stint.
 
 But that was later. For now, in the {{p|Han}},
-the new teaching trickled in slowly,
-a curiosity, a foreign cult,
-not yet the cultural river, wholly.
+The rite from the west trickled in, and ran
+Beside the older altars, one more door
+Into one house, not yet the river's roar.
 
 The {{p|Han}} itself was showing strain.
 The empress clans fought palace war.

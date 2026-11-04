@@ -90,10 +90,10 @@ symbolic of restoration complete.
 He taught the disciples to pray "Our {{c|2542|Father}},"
 giving the kingdom's prayer to recite.
 
-He reserved his sharpest words not for
-the sinners, the prostitutes, the thieves,
-but for the religious professionals,
-the {{c|2521|Pharisees}} who played with sleeves.
+He kept his sharpest words, though, not for those
+Who sinned, the thieves and prostitutes he chose
+To eat with, but for those who held the chair
+Of {{c|1006|Moses}}, the {{c|2521|Pharisees}}, the scribes there:
 
 "Woe to you, scribes and {{c|2521|Pharisees}},
 hypocrites, who strain out a gnat
@@ -105,15 +105,20 @@ justice, mercy, and faithfulness.
 You whitewashed tombs, beautiful outside,
 full of dead men's bones and ugliness."
 
-This made enemies. And when he went
-to {{p|Jerusalem}} for {{c|2543|Passover}},
-rode in on a donkey to cheers,
-overturned the money-changers' tables in {{p|Temple}} stover,
+A quarrel in one house: who taught the {{x|Law}},
+Who kept the courts, whose hand the tithe would draw.
+He came up to {{p|Jerusalem}} to share
+The {{c|2543|Passover}}, and rode a donkey there
 
-the authorities decided to act.
-The high priest {{c|2544|Caiaphas}} said
-"it is better for one man to die
-than for the whole nation to be red."
+To cheering crowds, and in the {{p|Temple}} threw
+The money-changers' tables down; that drew
+The keepers of the altar in. The high
+Priest {{c|2544|Caiaphas}} said: better one should die
+
+Than that the nation perish. So the hand
+That held the altar kept it, and the land
+Stayed quiet under {{p|Rome}}. One house, one rite,
+And who would keep its courts: that was the fight.
 
 {{c|2545|Judas Iscariot}} betrayed him
 for thirty pieces of silver, paid.

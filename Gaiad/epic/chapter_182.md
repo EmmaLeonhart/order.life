@@ -5,20 +5,20 @@ in the early third {{x|Common Era}},
 and produced one of the strangest emperors
 that ever held imperial ear.
 
-{{c|2570|Elagabalus}}, age fourteen,
-became emperor in two-eighteen,
-and brought with him from {{p|Emesa}}
-a cult that shocked the {{p|Roman}} scene.
+{{c|2570|Elagabalus}}, aged fourteen, was made
+Emperor in two-eighteen, and conveyed
+From {{p|Emesa}} the rite he served by birth
+To {{p|Rome}}, the sun his city kept on earth.
 
-He was hereditary priest of
-{{c|2571|Elagabal}}, the sun god of his city,
-a black stone worshipped at a temple,
-a {{x|Semitic}} deity, un-pretty
+He was the high priest by descent of one,
+{{c|2571|Elagabal}}, the city's god, the sun,
+A black stone in a temple. {{p|Rome}} had known
+The same sky under {{c|101|Jupiter}}'s own throne,
 
-to {{p|Roman}} eyes that wanted {{c|101|Jupiter}},
-{{c|97|Mars}}, the ancestral {{x|Capitoline}} three.
-He brought the black stone to {{p|Rome}} itself,
-installed it above all others visibly.
+With {{c|97|Mars}}, the {{x|Capitoline}} three. The fight
+Was whose priest held it, and whose house, whose rite.
+He brought the stone to {{p|Rome}} itself, to stand
+Above the other altars of the land.
 
 He tried to marry it to {{c|1995|Athena}}.
 When that failed, he tried {{c|2572|Astarte}}.
@@ -50,25 +50,25 @@ standard tropes of {{p|Roman}} invective
 used to destroy reputations
 of rulers who proved ineffective.
 
-The deflationary polytheist
-notes: whatever the truth, the attempt
-to raise a {{x|Semitic}} sun god to
-{{p|Roman}} supremacy was not exempt
+The poem notes: whatever was the truth,
+The quarrel was not gods but priests: the youth
+Who set his city's priesthood over all
+Of {{p|Rome}}'s own priesthoods was the one to fall.
 
-from consequences. The {{p|Roman}} elites
-were deeply offended. The {{x|Praetorian Guard}}
-assassinated him at eighteen, dragged
-his body through streets, threw it hard
+The senate's houses, those who held the rites
+Of {{p|Rome}}'s own altars, would not bear the slights.
+The {{x|Praetorian Guard}} slew him, eighteen,
+Dragged him through streets, and threw him, as unclean,
 
-into the {{p|Tiber}}, and his mother's body
-with him, the sewer their tomb.
-The black stone was sent back to {{p|Emesa}}.
-The old gods reclaimed their room.
+Into the {{p|Tiber}}, with his mother, laid
+The sewer for a tomb. The stone, conveyed
+Back home to {{p|Emesa}}, left {{p|Rome}}'s own sun
+In {{p|Rome}}'s own priests' hands: the same rite, still one.
 
-But the seed had been planted.
-A sun-centered monotheistic faith,
-imported from {{p|Syria}}, had briefly
-occupied the imperial wraith.
+But something had been planted: one sun's rite
+From {{p|Syria}}, had held the throne's own light
+Briefly: one sun at the empire's head,
+Kept by one {{x|Syrian}} house in {{p|Rome}}'s stead.
 
 This was the first attempt to make
 solar monotheism {{p|Rome}}'s state cult.
@@ -100,10 +100,10 @@ cult and the {{c|1497|Christ}} cult were cousins,
 sharing iconography, festivals, theology,
 the rayed halo, the midwinter reasons.
 
-{{c|2570|Elagabalus}} failed. But the cultural current
-he represented — eastern solar monotheism
-colonizing the {{p|Roman}} imperial cult —
-would continue its strong historical prism.
+{{c|2570|Elagabalus}} failed. The current, though,
+Of one sun at the rite's head, still would flow
+Through {{p|Rome}}'s own altars; who would hold the one
+High altar was the question, not the sun.
 
 Three strands had been converging now
 toward what would become monotheistic {{p|Rome}}:

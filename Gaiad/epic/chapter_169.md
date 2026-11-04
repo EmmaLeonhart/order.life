@@ -278,12 +278,12 @@ The wisest action. Together, they are one of the great civilizational
 Philosophies. Separately, each would be impoverished. The fact that
 {{p|Chinese}} culture held them together, rather than forcing a choice
 Between them, is a sign of its intellectual sophistication. And
-The {{x|Gaiad}} honors this. The {{x|Gaiad}}'s own religious vision, with its
-
-Commitment to polytheistic plurality and its resistance to
-Reductive monotheism, draws sustenance from this {{p|Chinese}} model
-Of holding multiple truth-traditions together in productive
-Tension. {{p|Confucianism}} and {{p|Daoism}} are not rivals but collaborators.
+The poem honours this. It keeps no score
+Between the many gods and one; the door
+Is one, the house is one, and {{p|China}}'s way
+Of keeping both its teachings, day by day,
+Is how one house keeps its own rites in view:
+Not rival faiths, but partners, are the two.
 
 Not contradictions but complements. The civilization that produced
 Them knew how to live in the space between them. That skill is
