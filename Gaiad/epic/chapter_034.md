@@ -1,241 +1,241 @@
 # Chapter 34: Laurentia Emerges
 
-While sons of {{c|223|Proteus}} divided fast
-And their kingdoms grew vast,
-The sons of {{c|611|Dutrus}} moved slow
-And let their wisdom grow.
+While sons of {{c|223|Proteus}} divided fast,
+And all their kingdoms grew till they were vast,
+The sons of {{c|611|Dutrus}} moved along more slow
+And let their wisdom, in its own time, grow.
 
-Two twin sons were born
-In the early morn:
-{{c|617|Saccorhytus}} the lame
-And {{c|616|Dietrich}} of fame.
+There were two sons, twin brothers, who were born
+Together in the early light of morn:
+{{c|617|Saccorhytus}}, the one who was the lame,
+And {{c|616|Dietrich}}, who would be the one of fame.
 
-Poor {{c|617|Saccorhytus}} never grew
-Into something new.
-As larva he remained
-And was never gained.
+Poor {{c|617|Saccorhytus}} never really grew,
+Or changed and turned himself to something new.
+He stayed a larva, and so he remained,
+And nothing more than that was ever gained.
 
-His sons were sparse and weak,
-With little they could seek.
-Their father's childish way
-Led them all astray.
+His sons were sparse in number, and were weak,
+With little that they ever came to seek.
+Their father, with his young and childish way,
+Had led them all, and led them all astray.
 
-But {{c|616|Dietrich}} was different,
-Though at first resistant.
-In youth he looked the same
-As his brother's frame.
+But {{c|616|Dietrich}} was different, though he'd fight
+At first against the change with all his might.
+In youth, he looked to be the very same
+As was his brother, and his brother's frame.
 
-But as the years passed by
-He reached toward the sky.
-{{c|669|Maturity}} he found
-And wisdom did resound.
+But as the years went onward, passing by,
+He grew, and reached his body toward the sky.
+{{c|669|Maturity}} was what at last he found,
+And wisdom in him came, and did resound.
 
-{{c|670|Gill}} slits he built with care
-To filter everywhere
-The ground beneath his feet
-For food that he could eat.
+{{c|670|Gill}} slits he built, and built them all with care,
+So he could filter here and everywhere
+The ground that lay beneath him, at his feet,
+For all the food that he could find and eat.
 
-A great tail he made
-That would never fade,
-Extending past his rear
-To swim both far and near.
+A great and mighty tail is what he made,
+A tail that would not ever come to fade,
+Extending out beyond and past his rear,
+So he could swim along both far and near.
 
-A heart he built within
-To let the blood begin
-Its journey through his frame
-To nourish in his name.
+A heart he built for him, and set within,
+To let the blood go forth, and to begin
+Its journey all throughout his body's frame,
+To nourish him, and nourish in his name.
 
-Two great nerve cords he laid,
-One dorsal, one ventral made,
-To coordinate his might
-Both day and night.
+And then two great nerve cords he made and laid,
+The one of them dorsal, one ventral, made,
+So that he could coordinate his might
+And use it through the day and through the night.
 
-Until he grew both great and strong,
-His body large and long.
-The anatomy he made
-Would never ever fade.
+Until he grew to be both great and strong,
+His body grown both very large and long.
+The anatomy that he made and wrought
+Would never ever fade, or come to naught.
 
-The sons of {{c|616|Dietrich}} spread
-Wherever they were led
-Across the world so wide
-With fortune as their guide.
+The sons of {{c|616|Dietrich}} went abroad and spread
+To every place to which they would be led,
+Across the world, which was so very wide,
+With fortune going with them as their guide.
 
-Great fortune blessed their way
-Throughout each passing day.
-This time was called by all
-The {{c|671|Fortunian}}'s call.
+Great fortune blessed them, and it blessed their way
+Throughout the hours of each passing day.
+This time of theirs was called by one and all
+The time and the {{c|671|Fortunian}}'s great call.
 
-First born were the twins
-Where the story begins:
-Bold {{c|672|Ambulus}} the free
-And {{c|673|Chordatus}} of the sea.
+And first among them born there were the twins,
+For it is here our story now begins:
+Bold {{c|672|Ambulus}}, the one who would be free,
+And {{c|673|Chordatus}}, he who was of the sea.
 
-These brothers both worked well
-With all they had to tell.
-With sons of {{c|223|Proteus}}
-They ruled victorious.
+These brothers both would work, and both worked well,
+With all the things they had, and had to tell.
+With sons of {{c|223|Proteus}} they ruled, and so
+They were victorious, with foes laid low.
 
-They vassalized the land
-Of {{c|674|Ediacar}}'s grand
-Empire that had been
-Since time was first seen.
+They vassalized the wide and ancient land
+Of {{c|674|Ediacar}}'s realm, so old and grand,
+A realm that had existed, and that stayed
+Since time itself was first seen and surveyed.
 
-Now {{c|672|Ambulus}} settled down
-Upon a rocky crown.
-He built his simple home
-Where he could freely roam.
+Now {{c|672|Ambulus}} would choose to settle down
+Upon a rock, as on a rocky crown.
+He built himself a simple, humble home,
+A place where he could freely live and roam.
 
-But {{c|673|Chordatus}} chose the way
-Of order's display.
-He centralized his rule
-Like a wise school.
+But {{c|673|Chordatus}} then chose to go the way
+Of order, and of order's great display.
+He centralized his government and rule
+Like one who runs a wise and ordered school.
 
-One spinal cord he made
-Along his back, arrayed
-To coordinate his will
-With consummate skill.
+A single spinal cord is what he made,
+Along the length of his whole back arrayed,
+So that he could coordinate his will
+With his consummate and his perfect skill.
 
-But {{c|673|Chordatus}} needed more
-Support than heretofore.
-A notochord he built
-Without any guilt.
+But {{c|673|Chordatus}} found he would need yet more
+Support than he had needed heretofore.
+And so a notochord was what he built,
+And built it without any shame or guilt.
 
-And so was born that day
-The spinal cord's array.
-{{c|673|Chordatus}} became the sire
-Of all whom we admire:
+And so it was that there was born that day
+The spinal cord, in all its great array.
+{{c|673|Chordatus}} then became the father of
+All whom we now admire, and all we love:
 
-The chordates and the spine
-That makes our form divine.
-From his great innovation
-Came our very creation.
+The chordates, and the column of the spine,
+That makes the form we have to be divine.
+From his great innovation there would rise
+Our own creation, under all the skies.
 
-From his spinal cord so true
-Our brainstem also grew.
-The foundation he laid down
-Became our neural crown.
+And from his spinal cord, so straight and true,
+Our brainstem also came to be, and grew.
+The good foundation that he would lay down
+Became our neural, thinking, ruling crown.
 
-But {{c|672|Ambulus}}' sons chose
-A different path than those
-Who followed central rule—
-They kept the older school.
+But all the sons of {{c|672|Ambulus}} then chose
+Another path, not that of all of those
+Who went and followed the great central rule;
+They kept instead to the more ancient school.
 
-Local leaders they obeyed,
-And to shamans they prayed.
-No great lords they needed,
-Their freedom they heeded.
+They followed local leaders, and obeyed,
+And to the shamans of the tribe they prayed.
+No great lords were the ones that they needed;
+Their freedom was the thing that they heeded.
 
-The sons of {{c|672|Ambulus}} became
-The acorn worms of fame,
-And echinoderms so bright
-With stars shining light.
+The sons of {{c|672|Ambulus}} in time became
+The acorn worms, and earned their lasting fame,
+And the echinoderms, which shine so bright,
+With stars among them, shining with their light.
 
-The sons of {{c|611|Dutrus}} saw
-The end of ancient law.
-{{c|639|Ediacaran}} Empire fell
-As they could tell.
+The sons of {{c|611|Dutrus}} were the ones who saw
+The ending of the old and ancient law.
+The {{c|639|Ediacaran}} Empire fell,
+As they would come to see, and come to tell.
 
-And so truly began
-The {{c|615|Cambrian}} plan.
-A new age had dawned
-As the old world was spawned.
+And so it truly was that then began
+The {{c|615|Cambrian}} and all its mighty plan.
+A new and fresher age had come and dawned,
+And from the old world was the new world spawned.
 
-{{c|675|Bluebelle}} the {{c|569|Sea}} {{c|676|Squirt}}
-In waters did assert
-Her right to filter feed
-And fulfill her need.
+{{c|675|Bluebelle}}, the {{c|569|Sea}} {{c|676|Squirt}}, came there to assert,
+Within the waters, ready and alert,
+Her right to filter food, and so to feed,
+And to fulfill her hunger and her need.
 
-{{c|677|Snowfloof}} the Vertebrate
-With spine both strong and straight
-Swam through the ocean blue
-With backbone tried and true.
+And then {{c|677|Snowfloof}}, who was the Vertebrate,
+With spine that was both very strong and straight,
+Swam onward through the ocean, deep and blue,
+His backbone being one both tried and true.
 
-{{c|678|Starfy}} the {{c|679|Echinoderm}}
-Kept to the ancient form
-Of radial symmetry
-For all eternity.
+{{c|678|Starfy}}, {{c|679|Echinoderm}}, kept to the norm
+Of the old ways, and to the ancient form
+In radial symmetry, kept the same
+For all eternity, in all his frame.
 
-Among the sons of {{c|540|Nephrus}}
-The sons of {{c|611|Dutrus}}
-Were the late bloomers true
-But their art they knew.
+Among the numerous sons of {{c|540|Nephrus}},
+There were the sons born of the great {{c|611|Dutrus}},
+And they were the late bloomers, it is true,
+But all their art was something that they knew.
 
-They took their time to learn
-And perfect each turn.
-But once they found their way
-Nothing could make them stray.
+They took their time to study and to learn,
+And perfect every movement and each turn.
+But once they found the path and found their way,
+Then nothing in the world could make them stray.
 
-From sons of {{c|673|Chordatus}} came
-{{c|680|Vertebrates}} of fame
-And {{c|569|Sea}} {{c|681|Squirts}} who filter
-Without any filter.
+And from the sons of {{c|673|Chordatus}} there came
+The {{c|680|Vertebrates}}, who won their lasting fame,
+And {{c|569|Sea}} {{c|681|Squirts}}, who would filter water through
+Without a filter on the things they do.
 
-From sons of {{c|672|Ambulus}} rose
-{{c|682|Echinoderms}} in rows:
-The {{c|683|Starfish}} and {{c|684|Urchins}}
-In their ocean churches.
+And from the sons of {{c|672|Ambulus}} there rose
+The {{c|682|Echinoderms}}, arrayed in their rows:
+The {{c|683|Starfish}}, and the {{c|684|Urchins}} that are found
+Within their ocean churches, all around.
 
-In the last days they cried
-"{{c|685|Ediacaro}} must die!"
-And left behind their mark
-Both light and dark.
+And in the final days, they raised the cry,
+"{{c|685|Ediacaro}} must now, at last, die!"
+And they left all behind them their own mark,
+Both of the light, and also of the dark.
 
-{{c|686|Treptichnal}} burrows deep
-Where their memories sleep,
-And oxygenized soil
-From their endless toil.
+{{c|686|Treptichnal}} burrows, running long and deep,
+The places where their memories now sleep,
+And the oxygenized and turned-up soil
+That came from all their long and endless toil.
 
-A son of {{c|618|Ectus}} made
-His burrow in the shade,
-A twisting, turning home
-Through earth and sandy loam.
+A son of {{c|618|Ectus}} also dug and made
+His burrow, hidden there within the shade,
+A twisting and a turning kind of home
+Through all the earth, and through the sandy loam.
 
-And so {{c|685|Ediacaro}} fell
-As time would tell.
-The mats of {{c|262|Saya}} old
-And {{c|687|Desulfa}}'s hold
+And so it was {{c|685|Ediacaro}} fell,
+As time would come to show, and come to tell.
+The mats of {{c|262|Saya}}, which were very old,
+And {{c|687|Desulfa}}'s great and long-lasting hold
 
-Were destroyed at last
-When the new age passed
-Over the ancient ways
-Of pre-{{c|615|Cambrian}} days.
+Were all destroyed and broken down at last
+When the new age came over them and passed
+Across and over all the ancient ways
+Of those pre-{{c|615|Cambrian}} and older days.
 
-The {{c|671|Fortunian}} time had come
-When all would succumb
-To the new order's might
-Both day and night.
+And so the {{c|671|Fortunian}} time had come,
+When all things would give in, and would succumb
+To the new order and its rising might,
+Both in the day, and also in the night.
 
-From {{c|616|Dietrich}}'s patient art
-Came each chordate part.
-The backbone and the brain
-Would always remain.
+And out of {{c|616|Dietrich}}'s patient, careful art
+There came the chordates, and each chordate part.
+The backbone, and the spine, and then the brain
+Would always be with us, and would remain.
 
-His legacy lives on
-From dusk until dawn
-In every spine that's straight
-And every vertebrate.
+His legacy is one that's living on
+From early evening onward to the dawn,
+In every single spine that's standing straight,
+And every one of us, each vertebrate.
 
-The twins who chose their way—
-{{c|672|Ambulus}} and {{c|673|Chordatus}}' day—
-Show us how to grow:
-Some fast, some slow.
+The twins, who each of them would choose a way,
+{{c|672|Ambulus}} and {{c|673|Chordatus}}, and their day,
+Will show to us the way that we can grow:
+For some of us grow fast, and some grow slow.
 
-But both paths have their place
-In evolution's race.
-Whether central or free,
-Both have their destiny.
+But both of these two paths will have their place
+In evolution's long and winding race.
+Whether it's central rule, or living free,
+Both have their destiny, that is to be.
 
-So honor brave {{c|616|Dietrich}}
-Who made us all so rich
-With spine and cord and heart
-That gave us our start.
+So honor now the brave {{c|616|Dietrich}}, who made
+Us all so rich, with all the gifts he laid:
+With spine, and cord, and with a beating heart,
+The things of his that gave to us our start.
 
-The {{c|671|Fortunian}}'s gift
-Gave evolution's shift
-From simple to complex
-Through all its effects.
+The {{c|671|Fortunian}} and its lasting gift
+Gave rise to evolution's mighty shift
+From simple things to complex things, and through
+All its effects, in all that it would do.
 
-In every breath we take,
-In every move we make,
-{{c|616|Dietrich}}'s innovation
-{{c|453|Guides}} our creation.
+In every single breath that we may take,
+In every single move that we may make,
+{{c|616|Dietrich}}'s great innovation, like a hand,
+Still {{c|453|Guides}} us, our creation, as he planned.
