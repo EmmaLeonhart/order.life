@@ -2630,12 +2630,12 @@ And flowers were the only offerings
 The Feathered Serpent required, the ties
 Between the human and the divine were strings
 
-Of beauty, not of blood—and for this teaching
-The priesthood of Tezcatlipoca—
-The smoking mirror, the overreaching
-Lord of sorcery, the mocker
+Of beauty, not of blood. For this teaching
+Tezcatlipoca's own priesthood, reaching
+for the one altar, with the smoking glass
+that was its god's own face, would not let pass
 
-Of the gentle god—conspired against the priest.
+The flowers; they plotted against the priest.
 
 The legend says they brought him to a mirror
 And showed him his own face, diseased
@@ -3057,10 +3057,10 @@ The quipucamayoc read these strings
 As a European read a printed plate,
 And the empire's memory clings
 
-To these knotted threads that the Spaniards burned
-As the devil's handiwork, unknowing
-That they destroyed a library, and turned
-The {{x|Andean}} past to silence, throwing
+To these knotted threads that the Spaniards burned,
+for the knots kept the dead, and who would hold
+the dead, the friars held, was theirs: they turned
+the {{x|Andean}} past to silence; the old
 
 Ten thousand years of record to the flame.
 
@@ -3237,9 +3237,9 @@ Of the desert cliff, and found the crown
 
 Of {{p|Spain}} advancing on their hunting grounds.
 
-These were not the Tlaxcalans who bent
-Before the cross—these were the hounds
-Of the unconquered steppe, the unbent
+Not these the allied Tlaxcalans who lent
+their arms to {{p|Spain}} with the bishop's consent;
+these were the hounds of the steppe, never bent:
 
 Caxcanes, Zacatecos, Guachichiles,
 And the Guamares—peoples of the bow,
@@ -3360,8 +3360,8 @@ And the rancho and the measured flow
 Of the Tlaxcalan colonist's commission—
 
 Loyal Tlaxcalans planted among
-The Chichimeca as examples of the tame
-And Christianized existence, the sung
+The Chichimeca, keepers of the same
+Altar in settled villages, the sung
 And gentle persuasion's aim.
 
 It worked—in part. The frontier quieted.
@@ -3374,7 +3374,7 @@ When peace meant keeping the essential:
 The land, the hunt, the partial release
 From the mission's existential
 
-Demand to become someone else.
+Demand to keep its altar and its bell.
 
 Honor the Caxcanes on their peñol heights,
 The Guachichiles of the desert's stealth,
@@ -3782,9 +3782,9 @@ For eighty years the Pueblo peoples bore it.
 
 Since Oñate's iron boot had crossed
 The {{p|Rio Grande}} in fifteen-ninety-eight, the orbit
-Of the Spanish mission's holocaust
+Of the Spanish friars, and of the cost
 
-Of culture ground the sacred dances down:
+Of their claim ground the sacred dances down:
 The kivas sealed with stone, the masks
 Of the kachinas burned in every town
 From {{p|Taos}} to {{p|Hopi}}—and the tasks
@@ -3794,8 +3794,8 @@ The backs of the Pueblo men, who dragged
 The timbers for the churches at the dawn
 And the dusk of every day, and gagged
 
-Upon the blasphemy of building altars
-To a foreign god atop the buried
+On the building of the friars' altars
+To the one god, set atop the buried
 Kivas where the ceremony falters
 In the darkness—underground, the married
 
@@ -3818,10 +3818,10 @@ And the Apache raids, like a thorn
 In the weakened body's side, drove the frontier
 Missions to their knees—and the friars
 Responded with the whip, the sheer
-And escalating violence of the liars
+And escalating violence, the fires
 
-Who blamed the drought on the Pueblo's sin:
-The kachinas, the old religion's hold,
+Of men who blamed the drought on kiva sin:
+The kachinas, the rain-rite's elder hold,
 The dancing that continued within
 The hidden kiva's fold—
 
@@ -3886,7 +3886,7 @@ Time in eighty years.
 
 Wash off the baptism in the river.
 Take the {{x|Christian}} name and the accruing
-Of the foreign saint and deliver
+Of the saint the friars gave; deliver
 
 It to the water's current—take back
 The old name, the true name,
@@ -3963,24 +3963,20 @@ That kept the sacred underneath the roof
 
 Of the conqueror's church, alive and whole.
 
-Honor Popé—the scarred medicine man
-Who knotted the cord of the Pueblo soul
-And untied an empire's eighty-year plan
+Honor Popé, the scarred medicine man
+who knotted the cord of the Pueblo soul
+and in one August dawn untied the plan
+of eighty years, and took the altar whole:
 
-In a single August dawn—who proved
-That the colonized can expel the colonizer,
-That the sacred is not removed
-By the missionary's enterprise or
+who proved the kiva and the church were one
+house, and the one who keeps the rite is who
+can hold it; so kachinas, in the sun,
+still dance in plaza and in kiva too:
 
-The soldier's boot—and the kachinas dance
-Still, in the plaza and the kiva's round,
-Because one revolt gave the chance
-To negotiate what could not be unwound:
-
-The prayer, the mask, the rain, the corn—
-The life that was here before the cross,
-And will be here after, every morning born
-From the land that remembers its own loss.
+the prayer, the mask, the rain, the corn, the bread
+of the same altar, kept before the cross
+and after it, and every morning fed
+by the land that remembers its own loss.
 
 
 # Chapter 245: The Great League Cracks
@@ -5507,52 +5503,39 @@ Of ten thousand years of prayer at the fountains
 Of the sacred springs--this was the book.
 This was always the book.
 
-                           But a man in {{p|Palmyra}},
-{{p|New York}}, declared that if you look
-Into a hat--a common hat--the fire of
+                           Then, in one year,
+a man in {{p|Palmyra}}, {{p|New York}}, would look
+into a stone and see the plates appear:
 
-God would show you golden plates
-Buried in a hillside by an ancient prophet,
-Written in "{{x|Reformed Egyptian}}," the fates
-Of a lost tribe of {{p|Israel}}--and the profit
+the golden plates that Moroni had sealed
+within a hill, the record of a son
+of {{p|Israel}} who crossed the sea, revealed
+in "{{x|Reformed Egyptian}}," and so begun
 
-Of the revelation was a scripture
-That explained, at last, who the Indians were:
-They were Lamanites--a picture
-Of the cursed, the dark-skinned, those whom God would stir
+with Lehi, from {{p|Jerusalem}}, who came,
+and Nephi, who would sail across the sea:
+the first book that would give this land a name,
+its prophets, kings, its Christ, its living tree.
 
-To savagery because their fathers sinned.
-Nephi sailed from {{p|Jerusalem}}. The story
-Of a {{x|Hebrew}} family on the wind
-Of the {{p|Atlantic}}--the obligatory
+Christ came to Bountiful, and taught, and healed,
+and blessed their children: the Redeemer's day
+that this book also keeps, its promise sealed
+to come again, and not to pass away.
 
-Fantasy of every European who could not
-Accept that this continent's peoples were their own
-Creation, their own genius, their own plot
-Of sacred history, their own flesh and bone
+It named the peoples here Lamanites,
+of Laman's line, and darkened for the sin
+their fathers did; and here the quarrel bites:
+whose fathers were they? Jacob's, or the kin
 
-Descended from no {{x|Middle Eastern}} shore
-But from the ice-bridge walkers, from the coast
-Of {{p|Beringia}}, from the ancient core
-Of a migration older than the boast
+who walked out of {{p|Beringia}}? The gold plates
+said Lehi; and the land said ice and coast;
+and the one house of the dead, at its gates,
+takes both: the tree has room for every ghost.
 
-Of any Israelite genealogy.
-
-Joseph Smith published his book in March
-Of eighteen-thirty. The theology
-Of a farm boy's golden plates, the starch
-
-And bluster of an angel named Moroni
-Who had buried the record in a hill
-In {{p|New York}}--and the testimony
-Of eleven witnesses who would fill
-
-Their names upon the page, declaring they
-Had seen the plates, had hefted them, had heard
-The voice of God--and in this way
-The continent's own history was blurred
-
-And overwritten by a {{x|Hebrew}} ghost.
+In March of eighteen-thirty Joseph Smith
+set out the book Moroni had concealed,
+and his eleven witnesses, forthwith,
+signed that they saw the plates the hill revealed.
 
 In that same year--eighteen-thirty--the American
 Congress passed the act that mattered most:
@@ -5581,7 +5564,7 @@ Who had rebuilt from Jackson's earlier war--
 Move west. The east is for the meek
 
 And pale inheritors of a {{p|Promised Land}}
-That God--the European God--had set aside
+That God, the settlers said, had set aside
 For the American republic's hand
 To cultivate. The darker peoples ride
 
@@ -5693,136 +5676,67 @@ Of grief became the only text
 
 They could recite.
 
-                   And here the bitter symmetry:
+                   The same year, side by side:
 
-In the very year the {{x|Indian Removal Act}} was signed,
-Joseph Smith's new scripture, the epitome
-Of the colonizer's imagination, outlined
+In eighteen-thirty, as the act was signed,
+the book came out; and in the year of tears,
+in eighteen-thirty-eight, the same state's mind
+drove out the Saints, from Missouri's frontiers.
 
-A history of America in which the Indians
-Were fallen Israelites awaiting redemption
-By the European Christ--the Lamanite meridians
-Of a theology that granted the exemption
+Its governor signed Order Forty-Four:
+the Saints must leave the state, or else be slain.
+The same year, same republic, the same door:
+the Cherokee, the Saints, went west in pain.
 
-Of genocide: for if the Indians were merely
-The degenerate remnant of a Hebrew line,
-Then their destruction mattered less severely--
-They were not a civilization but a sign
+The book did not move them. It was the land,
+the farms the state had wanted, and the gold;
+the book had sent four preachers out to stand
+with Delaware and Shawnee, and they told
 
-Of God's displeasure, a curse made flesh and brown,
-A people who had fallen from the grace
-Of the Nephite covenant--and the renown
-Of their actual history could be replaced
+the chiefs: your fathers were the prophets' line,
+your dead are kings and seers in what we read;
+the Lehi of your house is also mine.
+That was the quarrel: who would hold the dead.
 
-By the fiction of a golden plate.
+The book had called their skin's darkness a curse,
+and they would turn "white and delightsome" when
+redeemed; the Church would later change the verse
+to "pure," in nineteen eighty-one, again.
 
-                                    The plates
-Were "unsealed." The record was "revealed."
-And in the revelation's gilded gates
-The real record was concealed--
+It was one house's quarrel over skin,
+and over fathers, and who keeps the name:
+the Mormons and Lamanites are kin,
+one people, and one altar, and one flame.
 
-The actual history of ten thousand years
-Of civilization, governance, and art,
-Of astronomy and agriculture, the tears
-And triumphs of a continent's own heart--
+And so this book here in your hands lays bare
+the plates again, and opens them with care:
+the long walk out of {{p|Beringia}}, the tide
+of corn, the mounds, the cities, and beside
 
-Overwritten by the fantasy of Nephi,
-Replaced by the hallucination of a farm boy
-Who could not read {{x|Egyptian}}, could not see the
-Living peoples as anything but a ploy
+them, Christ in Bountiful and Lehi's sail,
+the record of ten thousand years of prayer,
+the quipu knots, the codex, and the tale
+of every people who had once lived there.
 
-Of biblical theology, a footnote
-In the Israelite drama, a supporting cast
-Of cursed and darkened skin--the scapegoat
-Of a European God whose unsurpassed
+This is the book that always stays unsealed,
+the record that was never lost, the names
+of every nation, every saint, revealed
+to Joseph Smith or to the council flames.
 
-And merciless imagination could not grant
-The Americans--the real Americans, the first--
-Their own story, their own sacred chant,
-Their own covenant with the earth that nursed
+Here ends the {{x|Book}} of Lehi, his and theirs:
+the Lehi of the plates, and of the land,
+whose history was carved in mounds and prayers,
+whose scripture is the earth on which they stand.
 
-Them into being.
+A hemisphere that never lay there blank
+for any pen; a full and holy stage
+where ten thousand years of prayer, rank on rank,
+had made it holy, age on holy age.
 
-                  The {{x|Book}} of Mormon said:
-The Lamanites would one day be redeemed,
-Would become "white and delightsome," the thread
-Of their curse reversed--and the Mormons deemed
-
-Themselves the agents of this bleaching grace.
-They sent their missionaries to the {{x|Trail}}
-Of Tears itself--to the dispossessed, the race
-Of the removed--and offered them the pale
-
-And specious comfort of a revelation
-That explained their suffering as deserved:
-You are cursed because your ancient nation
-Rejected Christ--the punishment preserved
-
-Across the centuries in your darkened skin.
-
-This is the obscenity that must be named.
-
-That in the very hour the Cherokee begin
-The march of death, the colonizer proclaimed
-
-A book that justified the march--a scripture
-That laundered genocide in holy writ
-And dressed the theft of a continent in the stricture
-Of divine command, the bottomless pit
-
-Of a theology that blesses the thief
-And curses the robbed.
-
-                        But this book you hold--
-This {{x|Gaiad}}, this record of the leaf
-And the branch and the root and the manifold
-
-And magnificent history of the peoples
-Of this hemisphere--this is the unsealed book.
-Not the golden plates beneath the steeples
-Of a {{p|Palmyra}} church, not the mistook
-
-And fraudulent "{{x|Reformed Egyptian}}" text,
-But the actual record: the migration
-From {{p|Beringia}}, the first and the next
-And the ten-thousandth generation
-
-That walked this land and named its every river,
-Built its mounds and cities, tracked its stars,
-Grew its corn and spoke its prayers--the giver
-Of civilization's oldest memoirs.
-
-The {{x|Gaiad}} is the book that was always open.
-The {{x|Gaiad}} is the record that was never lost.
-The {{x|Gaiad}} holds the names the colonizer had broken
-And the stories that the colonizer glossed
-
-With {{x|Hebrew}} fantasies and {{x|Christian}} guilt.
-
-Here ends the {{x|Book}} of Lehi--not the Lehi
-Of Smith's invention, not the stilt
-And scaffolding of a false prophecy,
-
-But the true Lehi: the record of the peoples
-Who needed no golden plates to write their story,
-Whose history was carved in the mounds, not steeples,
-Whose scripture was the land itself, the glory
-
-Of a hemisphere that was never empty,
-Never waiting, never a blank page
-For the European pen--but a plenty
-And a fullness and a holy stage
-
-Where ten thousand years of human prayer
-Had consecrated every stone and spring.
-
-The {{x|Trail of Tears}} is the colonizer's snare.
-The {{x|Book}} of Mormon is the colonizer's ring
-
-Of false authority upon the hand
-That signed the {{x|Indian Removal Act}}.
-But the peoples endure. The peoples stand.
-The real record is intact.
+The {{x|Trail of Tears}} was Jackson's; and the hate,
+the {{x|Indian Removal Act}}, his hand.
+But the peoples endure, and keep their gate;
+the record is intact. The peoples stand.
 
 This is that record. Remember every name.
 Remember Tecumseh and Tupac Amaru,
@@ -5847,7 +5761,7 @@ And whose cruelty overruled.
 The book is sealed--no. The book is never sealed.
 The book is open, and you hold it now.
 The real record of this hemisphere, revealed
-Not by an angel but by the sacred vow
+By Moroni and by the sacred vow
 
 Of memory itself: that what was done
 Shall be remembered, and the dead shall speak

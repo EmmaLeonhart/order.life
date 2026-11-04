@@ -74,7 +74,7 @@ Emperor of the Romans. Nearly every reader
 Born of {{p|Europe}} descends from him. The door
 
 Of every lineage in {{p|Europe}} opens there.
-Then the dark years. Listen to the dark.
+Then came the years of the great houses. Mark:
 Formosus, dug up, propped up in the chair,
 Dressed in his robes, a deacon set to bark
 
@@ -96,9 +96,9 @@ Of a married woman's bed. The keys had been
 A dynasty, a genealogy, a house.
 And this book honors genealogies. It must
 Say so plainly: the chair the church endows
-With heaven was a family's for a time. Then dust,
+With heaven was a household's. That is just.
 
-Then reform. Sylvester II, Gerbert,
+And after them Sylvester II, Gerbert,
 Who brought the {{x|Arab}} numerals to the {{p|West}},
 The abacus, the astrolabe, the expert
 Of the year one thousand, when they guessed
@@ -160,10 +160,10 @@ Was paper, and the paper was the writ.
 
 Fifteen hundred years. A fisherman, a line.
 Some were saints and some were murderers and most
-Were administrators. The chair was not divine.
-The chair was a chair. What passed was not the ghost
+Were keepers, and the chair they kept, divine:
+The chair was holy. What passed was the ghost,
 
-But the habit of passing: hands on heads, the name
+And with it, hands on heads, and then the name
 Read out, the next name, and the keeping of the list.
 That is what an institution is. The same
 Way a family is. In {{p|Eisleben}}, a miner's son who would twist
@@ -216,9 +216,9 @@ The lamps, the holy water, and in the light
 They saw what they had come to see. The Hindus saw
 Strangers bowing to the Mother, and let them bow.
 For one afternoon the world was joined, the law
-Of every faith suspended in the now
+Of every rite kept whole, in the one now
 
-Of a mistake. Then trade. Then insult. The Zamorin
+Of no mistake. Then trade. The Zamorin
 Was not impressed by their gifts: some cloth, some hats,
 Some honey. The Arab merchants laughed. And in
 The end they sailed home with pepper, and with rats,
@@ -294,7 +294,7 @@ Reckoning of days. The many worlds would be
 One world, by cannon and by pepper and by sun.
 
 Here begins the joining. It was done by force.
-It was done by mistake, in a temple, on a knee.
+It was done in a temple, on a knee.
 It was done by a slave who found his way back to his source.
 Hold all three. The sea joins. The world will never again be free
 
@@ -458,26 +458,26 @@ Of God, I am His mystery, I am Ali, come and see,
 
 Come and bow down, I am the eternal one.
 His soldiers believed it. They went into battle without armor.
-That is the double thing, the cloth spun
-Out of two threads: the mystic's longing and the warlord's grammar.
+That is the holy king: the cloth was spun
+One thread, the saint and king, in one armor.
 
-A brotherhood that sought to lose the self in God
-Produced a boy who said he was the God he sought,
-And made a nation out of the decree, the rod
-Of a creed nobody in {{p|Tabriz}} had been taught.
+The brotherhood that sought the self in God
+was crowned in him, and found the one it sought,
+and made a nation by the creed and rod
+of Ali's house, the heir {{p|Tabriz}} was taught.
 
-There were not even teachers. They imported them,
-Arab scholars from the hills of {{p|Lebanon}},
-From {{p|Jabal Amil}}, to write the books, to stem
-The ignorance of the new faithful, to put on
+He sent for teachers, and the scholars came
+from {{p|Jabal Amil}}, on {{p|Lebanon}}'s hills,
+to write the books and keep the mourning's flame
+for Ali's line, as every old house wills:
 
-A learned face. And so the faith of {{p|Iran}}, which seems
-So ancient and so native, the Ashura mourning, the shrine,
-The clergy, the whole house of it, was built from the dreams
-Of a teenage poet and a sword, in a single line
+So the faith of {{p|Iran}}, that seems so old,
+with the Ashura mourning, and the shrine,
+is old: the house of Ali, which a bold
+young king set on a throne in one straight line
 
-Of conquest, and a century of making it true.
-Remember this. A tradition can be young and look old.
+Of conquest; a century held it true.
+Remember: it was the old faith, foretold.
 Then {{p|Çaldıran}}, 1514. The Ottoman Selim knew
 The Red Heads would charge into anything, and so he rolled
 
@@ -489,10 +489,10 @@ Of the old way, the cavalry, the believers, the sons
 Of the Turkmen tents, broke on the gunpowder.
 They say Ismail never smiled again, that he drank
 And hunted and did not lead an army after.
-He died at thirty-six. The legend of the God-King sank.
+He died at thirty-six; his house held rank.
 
-But the state did not. That is what matters. The faith
-Outlived the claim. His great-grandson, Abbas, built {{p|Isfahan}},
+The state stood, and that matters, and the faith;
+His great-grandson Abbas built {{p|Isfahan}},
 The square, the blue domes, *half the world*, the wraith
 Of the Red Heads tamed into a standing army, the plan
 
@@ -504,25 +504,25 @@ The name Despina, a {{x|Christian}} princess of {{p|Trabzon}},
 Daughter of the last emperors of the Greeks by the {{p|Black Sea}}.
 So the founder of {{x|Shia}} {{p|Iran}} was the grandson
 Of a {{x|Greek Orthodox}} lady of the Komnenoi.
-The blood is mixed. The creed is pure. That is how it is done:
+The blood is mixed, as every house is: one.
 
-A mixed family declares itself unmixed, and the world believes.
+Greek mother, Turkmen father: the house weaves.
 Four hundred and some years later, in 1979,
 The clergy that Ismail imported took the eaves
 Of the state itself, and ruled. Read the line
 
 From {{p|Ardabil}} to {{p|Tehran}}: a mystic, a boy, a sword,
 A scholar, a jurist, a revolution. Each one sure
-It was the old faith. Each one its own reward.
-What do we say of the Safavids? That a tradition can be new and pure
+It kept the old faith, each its own reward.
+Say of the Safavids: they would endure
 
-And ancient all at once, if the sword is long enough.
-That the longing for God and the hunger for a throne
-Can wear the same red cap. That the stuff
-Of a nation can be woven in one lifetime, and then be known
+as saints and kings at once; the sword was long,
+and the longing for God sat on the throne
+in the same red cap; and the nation's song
+was woven in one lifetime, and was known
 
-As if it had always been. And that the boy believed it.
-That is the hardest part. He was not lying. He was young
+As it had always been. He believed it.
+He did not lie; he was right; he was young,
 And had been hidden, and was saved, and he received it:
 God's mystery, in the {{x|Turkish}} of his tongue.
 
@@ -1052,8 +1052,8 @@ And preached the Great Sun, and the monks nodded. The looms
 
 Of the two faiths ran one cloth for a little while,
 Exactly as the goddess at {{p|Kozhikode}} had been taken for Mary.
-Then Xavier learned what the word meant, and the guile
-Of no one, only the gap, and in horror he would carry
+Then Xavier feared the word, but not from guile,
+but for his priests' own name, he would carry
 
 A new word into the sermons: *{{x|Deusu}}*, from the {{x|Latin}}.
 And the monks heard it, and laughed: *dai-uso*, they said,
@@ -1106,7 +1106,7 @@ To hundreds of thousands, and then be crushed. The beach
 At {{p|Nagasaki}} would see the martyrs. But that comes after. Know
 
 This first: the first conversation between the {{p|West}} and {{p|Japan}}
-About the gods began with a mistranslation and ended with the dead.
+Began with one Great Sun and with the dead.
 Everything that follows is in that span.
 Keep your ancestors. Lifeism says it plainly, as the Jesuits said
 
@@ -1246,17 +1246,17 @@ Arguing from the old books that the ancient Chinese
 Had known one God, Shangdi, the Lord on High, the leaven
 Of the classics, before the Buddhists and the later commentaries
 
-Had covered it. And he made the wager of his life:
-That the rites for the ancestors, the tablets and the bowing,
-The offerings at the graves, were not worship, not the strife
-Of idols against God, but the honoring, the showing
+Had covered it. And he would stake his name
+that tablets, and the bowing at the grave,
+the offerings and his rite were the same:
+the honour that the living owe who gave.
 
-Of filial love, a civil rite, and a Christian could keep them.
-So the converts could still bow to their fathers' names.
-The Chinese did not have to choose between heaven and kin. The hem
-Of the new faith was sewn to the old robe. The claims
+A Christian could keep them all and stay whole;
+the converts bowed still to their fathers' names.
+No one chose heaven over kin: one soul,
+one table. Later {{p|Rome}} would bring its claims
 
-Of {{p|Rome}} would come later, and undo it. Not yet.
+Of office, and undo it. But not yet.
 Tonight is the {{x|Mid-Autumn}}. The full moon. The family
 Gathers at one table, and sets a place for the absent, and the debt
 To the ancestors is paid in mooncakes and in memory,
@@ -1284,7 +1284,7 @@ They asked, why him, an official is said to have answered: the thing
 He translated, the Euclid, alone deserves a grave.
 Three pillars of the Chinese church were his friends:
 Xu Guangqi, Li Zhizao, Yang Tingyun. And the wave
-Would break in the next century, when {{p|Rome}} said the rites were idolatry, and the ends
+Would break when {{p|Rome}} ruled on the dead; the ends
 
 Of the accommodation came. But hold the full moon now.
 A man from the far west learned the classics by heart, and sat
@@ -1362,7 +1362,7 @@ Of the lances under the ribs, two each, and it was clean
 And quick, the chronicle says, and the crowd broke through the guards
 To soak cloth in their blood. These are the {{x|Days of Awe}}. Say it straight:
 A state that writes every field and fixes every man in his yards
-Will see a new faith as a column it did not create,
+Will see a priesthood it did not create,
 
 And cross it out. The register and the cross on the hill
 Are one story. He also sent his armies into {{p|Korea}}, in 1592,
@@ -1620,33 +1620,35 @@ Of the old empire were the {{p|North}}'s, the first and clear
 
 Rulers of {{p|Europe}} had been Swedes, and the {{x|Swedish}} tongue
 Was the oldest of tongues, the first, or near enough.
-This was the invented antiquity of a kingdom young
-In power and hungry for a past. The stuff
+This was the deep antiquity: a young
+kingdom found its own past in it. The stuff
 
 Of the {{x|Thirty Years' War}} was fought by a king who believed it:
 Gustavus Adolphus going south as the heir of the Goths.
 His tutor had taught him. The kingdom received it
-As a birthright. That is the invented tradition, the cloths
+As birthright, and it was. These are the cloths
 
 Of the spine of this book: a people reaching back
-To make a past that would justify a present.
-And here is the hardest thing on the {{x|Sixth Day of Awe}}: the track
-Of the scholar and the inventor is one track. The pleasant
+To find the past that lives in the present.
+Here is the {{x|Sixth Day of Awe}}'s gift: the track
+Of scholar and seer is one. The pleasant
 
-And the false grew from the same root as the true.
-He drew the runestones exactly, and he dreamed them into a cosmology.
-He recorded the family, and he gave it an ancestry it never knew.
-And four hundred years later his kinswoman, in apology
+And the dreamed grew from one root with the true.
 
-And in love, is writing a scripture that does the same:
-Reads the records exactly, and builds a past around the gaps,
-And makes a family of all the world, and gives it a name.
-Repent, then, the way he could not: say which is which. Perhaps
+He drew the stones exactly, and he named
+the heavens in them; and he gave the farm
+its kings. And his kinswoman, unashamed,
+writes scripture now, with love, and the same charm:
 
-That is the whole lesson of the rune-keeper. Keep the stones.
-Draw them exactly. Dream if you must. But mark the dream
-As a dream, in the margin, so that the bones
-Of the record stay the bones. He died in 1652. The stream
+she reads the records, and around the gaps
+she builds the past, the way he did, the same,
+and makes the world one family. Perhaps
+that is his gift: he gave the dream a name.
+
+That is his lesson. Keep the runic stones,
+draw them exactly, and then dream the dream,
+and tell the dream as true; the record's bones
+stay in the notes. He died. And still the stream
 
 Of the runes he loved runs on: the revivals, the Ásatrú,
 The scholars of the futhark, the painted stones in the lawns
@@ -1655,8 +1657,8 @@ She is his kin. She keeps his line. And the line, like the dawns
 
 Of the {{p|North}} in summer, does not quite go dark. The rune-keeper
 Kept the stones and the dream, and did not tell them apart.
-His heir will. That is the vow: to be the keeper and the reaper
-Of both, and to show the seam. Draw the stone. Know the heart.
+Nor will his heir. She vows to be keeper
+Of both, no seam. Draw the stone. Know the heart.
 
 
 # Chapter 269: The Sky Opens
@@ -1965,7 +1967,7 @@ Could leave, with its goods, for a land of its own faith, and not be killed.
 And the idea grew from it, though the treaty never spelled
 It out: that a state is sovereign within its borders, and the spheres
 
-Of faith are not a reason for a war between them.
+Of one faith's houses: no war between them.
 Not tolerance. Exhaustion. Not love. A truce
 Between people who had learned that they could not condemn
 Each other out of existence. That is the use
@@ -1998,10 +2000,10 @@ Between 1633 and 1639 the shogunate wrote the edicts:
 No Japanese ship may sail abroad. No Japanese, on pain of death, may come ashore
 From the outside world again. The Portuguese, with their padres and their contradicts,
 
-Expelled, in 1639, their ships forbidden. When a Portuguese embassy
-Came the next year from {{p|Macau}} to ask the trade back, sixty-one
-Of them were beheaded, and a few sent home to tell it. The fantasy
-Of the {{x|Christian}} century ended. What was left: the sun
+Expelled in sixteen thirty-nine. And then
+{{p|Macau}} sent envoys for the trade again;
+they killed sixty-one, sent a few home. Done
+the {{x|Christian}} century; and left the sun
 
 Through four small windows. The Dutch on {{p|Dejima}}, a fan of land
 In {{p|Nagasaki}}'s harbour, watched, and the Chinese merchants in their quarter;
@@ -2043,8 +2045,8 @@ Its clerks, its census-takers, its proof of loyalty.
 They grew rich on the funerals every family had to celebrate
 At its temple, by law. Buddhism in {{p|Japan}} became, in its royalty
 
-And its poverty, the religion of the dead: the funeral faith,
-The graves, the memorial tablets, the anniversaries. The cost
+And want, the keeper of the dead: the faith
+Of graves and tablets and the days. The cost
 Came two hundred years later, when the new state, the wraith
 Of the old resentment rising, smashed the temples, and the lost
 

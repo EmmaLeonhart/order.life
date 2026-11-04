@@ -39750,10 +39750,10 @@ Emperors rose and fell like weather.
 The coinage was debased, the silver
 diluted to base metal's tether.
 
-{{c|2583|Decius}} launched the first empire-wide
-persecution of {{c|2494|Christians}}, requiring
-all citizens to sacrifice to the gods
-and produce certificates proving firing.
+And then in two-fifty {{c|2583|Decius}} decreed
+that every house burn incense at his shrine
+and keep a paper proving it agreed.
+The church said: the same incense, but at mine.
 
 Many {{c|2494|Christians}} sacrificed, lapsed,
 became the "lapsi" debated for years.
@@ -39820,10 +39820,10 @@ The emperor rarely visited {{p|Rome}}.
 Power was where the frontier armies were,
 not in the old {{p|Italian}} home.
 
-{{c|2591|Diocletian}} launched the final great persecution
-of {{c|2494|Christians}} in three-oh-three,
-the "{{x|Great Persecution}}," the last attempt
-to suppress the church's rise by decree.
+And in three-oh-three {{c|2591|Diocletian}} tore down
+the churches, burned the books, and named it law:
+the {{x|Great Persecution}}, so that the crown
+would hold each altar the empire saw.
 
 It failed. The church was too embedded.
 Martyrs increased conversions, not decreased.
@@ -39910,15 +39910,15 @@ to {{p|Central Asia}} and to {{p|China}} past,
 west to {{p|Rome}}, where {{c|2384|Augustine}} embraced it
 for nine years, before he broke fast.
 
-{{c|2600|Shapur}} tolerated {{c|2599|Mani}}. {{c|2602|Bahram}}
-would kill him, and {{c|2598|Kartir}} the priest
-would persecute {{c|2603|Manichaeans}} hard,
-{{c|2500|Jews}}, {{c|2561|Buddhists}}, {{c|2494|Christians}} — no decreased.
+{{c|2600|Shapur}} let {{c|2599|Mani}} preach; {{c|2602|Bahram}} instead
+had {{c|2599|Mani}} put in chains till he was dead,
+and {{c|2598|Kartir}} struck at every rival flame:
+the {{c|2603|Manichaeans}}, {{c|2500|Jews}}, {{c|2494|Christians}}, all one claim.
 
-{{x|Zoroastrianism}} hardened into
-an orthodoxy defending its soil.
-The {{c|2604|Avesta}} was finally written down
-to fix the canon from centuries' toil.
+The quarrel was the office, not the light:
+which priest would hold the altar and the rite.
+The {{c|2604|Avesta}} was at last written down
+to keep the canon for the priestly crown.
 
 {{c|2605|Khosrow I}} brought the golden age,
 reformed taxation, built canals,
@@ -40023,15 +40023,15 @@ tracing the {{x|Haykazuni}} line as true.
 the land was divided and partitioned,
 and {{x|Christian}} identity became their test.
 
-In four-fifty-one at {{p|Avarayr}}, {{c|2626|Vardan Mamikonian}}
-led {{x|Christian}} {{c|2615|Armenians}} against {{x|Sassanid}} forces
-demanding they return to {{x|Zoroastrianism}}.
-{{c|2627|Vardan}} died, but {{p|Armenia}} preserved its courses.
+And at {{p|Avarayr}}, in four-fifty-one,
+{{c|2626|Vardan Mamikonian}} led out his own
+against the {{x|Sassanid}} king's priests, who'd won
+the order that their altar stand alone.
 
-The {{x|Battle of Avarayr}} is remembered
-as the founding martyrdom of the nation,
-the moment when {{x|Armenian}} {{x|Christianity}}
-chose to fight rather than face forced conversion.
+{{c|2627|Vardan}} fell. {{p|Armenia}} keeps the day
+as the first feast of its own martyred dead.
+The war was not of gods. It was who'd say
+whose priests would bless its altar and its bread.
 
 {{p|Armenia}} would never be a great power.
 But it would be a persistent one.
@@ -40086,15 +40086,15 @@ became the second Christian state reached.
 in history to adopt {{x|Christianity}}
 as its official state declaration.)
 
-The {{x|Ethiopian Church}} took Monophysite
-position at {{p|Chalcedon}} in four-fifty-one,
-holding that {{c|1497|Christ}} had one nature, divine,
-absorbing the human into the one.
+And at {{p|Chalcedon}} in four-fifty-one
+the bishops split on how the {{c|1497|Christ}} was made:
+"Two natures," {{p|Rome}}; {{p|Alexandria}}, "one,"
+and {{p|Aksum}}'s bishop, sent from there, obeyed.
 
-This put it outside Western orthodoxy
-but aligned with {{p|Alexandria}} and {{p|Antioch}}'s stance.
-The {{x|Oriental Orthodox}} communion formed:
-{{c|2634|Copts}}, {{c|2635|Syrians}}, {{c|2615|Armenians}}, {{c|2636|Ethiopians}}' dance.
+It was one church that fought over a throne:
+which patriarch would say the creed for all.
+The {{c|2634|Copts}}, the {{c|2635|Syrians}} held to their own
+with {{c|2636|Ethiopians}}, a single hall.
 
 {{p|Ethiopia}} has a tradition that the {{c|2637|Ark of the Covenant}}
 rests at {{p|Aksum}} in the Church of {{p|St. Mary of Zion}},
@@ -40189,20 +40189,20 @@ a {{x|Christian}} at the last, and passed away.
 His mother {{c|2651|Helena}} went to {{p|Jerusalem}}
 and found the {{x|True Cross}} where it lay.
 
-After {{c|2555|Constantine}}, his sons divided
-the empire, fought civil wars, returned
-to fragmentation. {{c|2652|Julian the Apostate}}
-briefly tried to restore the old gods burned.
+Then {{c|2555|Constantine}}'s sons split the realm and fought;
+then {{c|2653|Julian}} gave the old priests their keys,
+the house that kept the rite as he was taught,
+the altars of the cities, and their fees.
 
-But it was too late. The church was too strong.
-{{c|2653|Julian}} died in battle against the {{c|2654|Persians}}.
-The Theodosian reforms would make {{x|Christianity}}
-the state religion, exclusive, without diversions.
+He died in war with the {{c|2654|Persians}}; the keys
+went to the bishops, and they kept them there:
+the rite was one; the fight was whose decrees
+would rule the altar, and whose robe, whose prayer.
 
-{{c|2655|Theodosius I}} in three-ninety-two
-outlawed pagan worship entirely.
-The old temples were closed or converted.
-The {{x|Olympic Games}} were ended, purely.
+And then {{c|2655|Theodosius I}} would close the doors
+of the old priesthood in three-ninety-two.
+The temples took new keepers: the same floors,
+new priests; and the {{x|Olympic Games}} were through.
 
 The {{c|2656|Visigoths}} sacked {{p|Rome}} in four-ten
 under {{c|2657|Alaric}}. The unthinkable happened.
@@ -40369,10 +40369,10 @@ the turn: the {{p|West}} did not fall to the {{c|2649|Goths}};
 it lost its last emperor to {{c|2383|Justinian}},
 and {{x|Christianity}} became what {{p|Rome}} defended.
 
-The old gods were gone from public life.
-The temples were churches or ruins now.
-A new {{x|Christian}} civilization was forming
-on the old {{p|Roman}} frame, altered somehow.
+The same rite stood in {{p|Rome}} under new names:
+the temples were the churches or were stone,
+the feasts went on, the incense and the flames,
+the old {{p|Roman}} frame held what it had known.
 
 
 # Chapter 188: The Fall of Han
@@ -40432,10 +40432,10 @@ then the {{x|Sixteen Kingdoms}} in the north,
 then the {{x|Southern and Northern Dynasties}} period,
 three hundred years of {{p|China}} torn forth.
 
-During this time, {{x|Buddhism}} took deep root.
-With Confucian order failing, people turned
-to the foreign teaching that addressed suffering.
-Monasteries multiplied, sutras were earned.
+And in this time {{x|Buddhism}} took deep root:
+as the old order failed, the people turned
+to the one rite from {{p|India}}, its fruit
+in sutras and in monasteries earned.
 
 {{c|2692|Kumarajiva}} was brought from {{p|Kucha}} as hostage
 to {{p|Chang'an}} where he translated sutras,
@@ -40693,10 +40693,15 @@ of a centralized state in the Japanese archipelago,
 absorbing Korean immigrants, Chinese influence,
 building toward what would become emperor {{p|Yamato}}.
 
-The {{c|2729|Soga clan}} would push {{x|Buddhism}}.
-The {{c|2730|Mononobe clan}} would resist.
-In 587, the {{c|2731|Soga}} won, and {{x|Buddhism}}
-became the state religion, with {{x|Shinto}}'s midst.
+Two clans, one court. The {{c|2729|Soga clan}} would raise
+the Buddha's hall beside the kami's days;
+and the {{c|2730|Mononobe clan}} would keep the rite
+in its own hands, and both would go to fight.
+
+In five-eighty-seven the {{c|2731|Soga}} won,
+and court and temple and the shrine were one:
+the Buddha and the kami of the sun,
+{{x|Shinto}} with {{x|Buddhism}}, a rite begun.
 
 The {{x|Kofun}} period was ending. The {{x|Asuka}} period
 beginning. The constitution of {{c|2732|Prince Shōtoku}}
@@ -40736,10 +40741,10 @@ The pre-Islamic {{c|1910|Arabs}} worshipped many gods.
 but rarely worshipped directly — his daughters
 {{c|2741|al-Lat}}, {{c|2742|al-Uzza}}, and {{c|2743|Manat}} drew the eye.
 
-The {{c|2744|Kaaba}} at {{p|Mecca}} housed 360 idols,
-one for every day of the lunar year,
-tribal gods, astral deities, household idols,
-{{c|2745|Hubal}} the chief among them held dear.
+Three hundred sixty images were kept
+within the {{c|2744|Kaaba}}, where the pilgrims stepped:
+the gods of tribes and stars and homes, and they
+set {{c|2745|Hubal}} chief, the god to whom they'd pray.
 
 But the {{c|1910|Arabs}} also had the concept of
 {{c|2746|hanif}}, a pure monotheist in the line
@@ -40776,10 +40781,10 @@ as hermits in caves along trade routes,
 where caravans would stop for water
 and hear the teaching at lonely outposts.
 
-This was the context: a peninsula with
-multiple religions already present,
-where monotheism was known but not
-universal, where pagan worship was prevalent.
+Here was one peninsula and one rite
+kept many ways, by tribe and town and tent,
+the high god and his daughters, and the light
+of Jews and Christian monks, with one intent.
 
 Trade connected {{p|Arabia}} to the world.
 Frankincense and myrrh went north to {{p|Rome}}.
@@ -40791,10 +40796,10 @@ the great Byzantine-Sassanid wars,
 which weakened both empires, disrupted trade,
 and left {{p|Arabia}} watching both contenders' scores.
 
-The {{x|Year of the Elephant}}, 570 CE,
-saw {{c|2754|Abraha}}, the Christian Ethiopian ruler
-of {{p|Yemen}}, march on {{p|Mecca}} with elephants
-to destroy the {{c|2744|Kaaba}}, sacred center ruler.
+In the {{x|Year of the Elephant}} came forth
+{{c|2754|Abraha}} of {{p|Yemen}}, and he marched north
+with elephants, to take away the rite
+of pilgrims for his church: whose house, whose right.
 
 His expedition was miraculously defeated
 (tradition says birds dropped stones on them,
@@ -40819,7 +40824,7 @@ the archangel {{c|2759|Gabriel}} would visit him, a wrecker
 of his old life and opener of the new.
 "Recite!" the angel said. "In the name of your {{c|295|Lord}}
 who created, created man from a clot."
-The {{x|Quran}} began. A new religion was born.
+The {{x|Quran}} began: the old house restored.
 
 
 # Chapter 192: Muhammad and the Rise of Islam
@@ -40849,10 +40854,10 @@ hajj — pilgrimage to {{p|Mecca}} once in life.
 Simple, clear, demanding, but doable,
 a structure for the whole of one's strife.
 
-For thirteen years in {{p|Mecca}}, {{c|1911|Muhammad}} preached
-and was persecuted by the {{c|1916|Quraysh}},
-whose economic and religious order
-depended on the pagan pilgrimage flesh.
+For thirteen years in {{p|Mecca}} he would preach,
+and the {{c|1916|Quraysh}}, who held the {{p|Kaaba}}'s keys,
+fought him; whoever held the word would teach
+the pilgrims at the house, and take their fees.
 
 His early converts were slaves, women, poor,
 outsiders, those without tribal protection.
@@ -40879,10 +40884,10 @@ were expected by {{c|1911|Muhammad}} to recognize him
 as a prophet in the Abrahamic line.
 When they refused, the qibla changed from the rim
 
-of {{p|Jerusalem}} to {{p|Mecca}}. The fast was
-changed from {{x|Yom Kippur}} to {{x|Ramadan}}.
-The split with {{x|Judaism}} became permanent.
-{{x|Islam}} was now its own religion, untouched ran.
+of {{p|Jerusalem}} to {{p|Mecca}}. The fast
+was moved from {{x|Yom Kippur}} to {{x|Ramadan}}:
+one fast, one prayer, one Abraham, recast
+as the two houses' quarrel, carried on.
 
 War with the {{c|1916|Quraysh}} broke out. The {{c|2763|Battle of Badr}}
 in 624 was the first great victory.
@@ -40914,8 +40919,10 @@ the treaty was broken by {{c|1916|Quraysh}} allies.
 {{c|1911|Muhammad}} marched on {{p|Mecca}} with ten thousand
 and the city surrendered without heavy plies.
 
-{{c|1911|Muhammad}} entered the {{p|Kaaba}}, destroyed the idols,
-proclaimed only one {{c|472|God}}, forgave most enemies.
+{{c|1911|Muhammad}} came into the {{p|Kaaba}}; there
+its images were cleared, the house made {{c|472|God}}'s;
+he gave its keepers back the key to bear,
+forgave most enemies, and spared the rod.
 It was the triumph of his mission.
 {{p|Mecca}} was now the center of the new community.
 
@@ -41229,10 +41236,15 @@ began with {{c|2826|Pepin}}, a dynasty new.
 {{c|2826|Pepin}}'s son was {{c|2677|Charlemagne}}, {{c|2828|Charles the Great}},
 who would build an empire {{p|Europe}} had not in view.
 
-{{c|2677|Charlemagne}} reigned 768-814. In those years
-he conquered the {{c|2829|Saxons}} (converting them by force),
-and in seven-seventy-four took {{p|Italy}}
-from the {{c|2678|Lombards}}, and pushed the {{c|2764|Muslims}} back at {{p|Spain}}'s doors.
+{{c|2677|Charlemagne}} reigned forty-six years. He fought
+the {{c|2829|Saxons}} for their grove, and in it felled
+the Irminsul, and set the priests he brought
+at their own altars, where their feasts were held.
+
+Seven-seventy-four: he took the land
+of {{p|Italy}} from {{c|2678|Lombards}}; and in {{p|Spain}}
+he pressed the {{c|2764|Muslims}} back with his own hand
+and held the frontier as his own domain.
 
 He did not destroy the {{c|2830|Lombard}} kingdom. He took its crown,
 and called himself {{c|2831|Rex Langobardorum}}, King of the {{c|2678|Lombards}},{{fn|Charlemagne conquered the Lombard kingdom in 774 and took the title Rex Langobardorum. Its crown is the one later called the Iron Crown of Lombardy.}}
@@ -41274,10 +41286,10 @@ and would not give a {{c|2837|Frank}} the crown it had seized, not possessed.
 when Emperor {{c|2834|Leo III}} had ordered
 all religious images destroyed, and all their beauties.
 
-The iconoclasts saw images as idolatry.
-The iconodules defended images as windows
-to the spiritual, doors to divine presence.
-The controversy raged for over a century, as the record shows.
+The fight was over who would hold the face:
+the throne, that broke the icons in its name,
+or monks, who kept them in the holy place
+as windows, for a century of flame.
 
 In 787, the {{x|Second Council of Nicaea}}
 affirmed the veneration (not worship) of icons.
@@ -41387,10 +41399,10 @@ Forty thousand temples and shrines were destroyed.
 Two hundred sixty thousand monks and nuns were
 returned to lay life, their wealth deployed.
 
-The motives were mixed. Economic — the monasteries
-held vast untaxed lands. Ideological — {{c|2861|Wuzong}} was
-a Daoist who thought {{x|Buddhism}} was foreign. Xenophobic —
-foreign religions were targeted broadly without pause.
+The cause was land: the monasteries held
+vast fields untaxed, and bronze the mint would take;
+and {{c|2861|Wuzong}}'s own Daoist priests would have expelled
+the Buddha's monks, as rivals for one stake.
 
 {{x|Manichaeism}} was virtually wiped out in {{p|China}}.
 {{c|2863|Nestorian Christianity}}, which had entered in the {{x|Tang}},
@@ -41519,10 +41531,10 @@ from his Persian-speaking Sufi center in {{p|Konya}}.
 {{x|Sufism}} flourished across the Islamic world,
 from {{p|Morocco}} to {{p|India}}, a mystical ocean.
 
-{{c|2889|Al-Hallaj}} had cried "{{x|Ana al-Haqq}}" — "I am the Truth" —
-and been executed for the heresy
-of identifying himself with {{c|472|God}}.
-{{x|Sufism}} always danced on the edge of orthodoxy.
+{{c|2889|Al-Hallaj}} cried "{{x|Ana al-Haqq}}"; the court
+of Baghdad, and its jurists, cut him short:
+the fight was who could speak for {{c|472|God}}, and who
+would hold the word. That was nine-twenty-two.
 
 The caliphate itself fragmented politically.
 The {{c|2869|Umayyads}} who had survived in {{p|Spain}}
@@ -41706,10 +41718,10 @@ where the sun barely rose in winter,
 the {{c|2929|Norse}} developed their distinctive culture,
 preserving Indo-European mythology longer than their fitter.
 
-While most {{c|2930|Europeans}} had been Christianized for centuries,
-the {{c|2929|Norse}} remained pagan into the eleventh century.
-When they finally converted, they preserved their mythology
-in writing, unlike most lost pagan sanctuary.
+The {{c|2930|Europeans}} kept the bishops' rite;
+the {{c|2929|Norse}} kept the old altars of the North,
+and when they took the bishops in, they'd write
+the old gods down in books, and bring them forth.
 
 The {{c|2931|Poetic Edda}} and the {{c|2932|Prose Edda}} of {{c|2933|Snorri Sturluson}}
 (1179-1241) in {{p|Iceland}} preserved the myths.
@@ -41776,20 +41788,20 @@ they reported. The beauty of {{p|Hagia Sophia}}'s liturgy
 had converted them. {{p|Kievan Rus}} became Orthodox.
 The Slavic Orthodox church was born with liturgy.
 
-Back in {{p|Scandinavia}}, conversion came slowly.
-{{c|2956|Harald Bluetooth}} of {{p|Denmark}} converted around 965.
-{{c|2957|Olaf Tryggvason}} of {{p|Norway}} forcefully converted his people.
-{{c|2958|Olaf II}} died a martyr and was canonized alive.
+In {{p|Scandinavia}} kings took the rite:
+first {{c|2956|Harald Bluetooth}} in nine-sixty-five;
+{{c|2957|Olaf Tryggvason}} took {{p|Norway}}'s by might;
+{{c|2958|Olaf II}} fell, a saint who would survive.
 
-{{c|2959|Sweden}} was the last to convert, into the twelfth century.
-The {{p|Uppsala}} temple with its human sacrifices
-was destroyed in the early twelfth century.
-The {{x|Old Way}} was ending, despite its old vices.
+{{c|2959|Sweden}} came last; the twelfth century saw
+the crown and church take up the temple's law:
+{{p|Uppsala}}'s temple, with its offered dead,
+came down; the altar took new priests instead.
 
-But in {{p|Iceland}}, the conversion was peaceful.
-In 1000, the {{x|Althing}} (parliament) voted
-to officially adopt {{x|Christianity}}, though
-private pagan worship was temporarily floated.
+In {{p|Iceland}} it was settled without war:
+the {{x|Althing}}, in the year one thousand, said
+the bishops' rite in public; and the door
+of each home kept the old rite there instead.
 
 {{p|Iceland}}'s conversion by parliamentary vote
 is unique in world history of religions.
@@ -41962,10 +41974,10 @@ His commentaries on the {{c|2987|Upanishads}}, the
 became the orthodox {{x|Vedanta}} interpretation.
 He debated {{c|2561|Buddhists}} across {{p|India}} for the new laws.
 
-He revived {{x|Hinduism}} against
-the dominance of {{x|Buddhism}}; this is
-his work, and as the {{x|Vedanta}} rose
-the monasteries lost their students and their quizzes.
+It was one house of teachers and their seats:
+who held the kings, the students, and the alms.
+{{x|Vedanta}} won the patrons and the streets,
+the monasteries lost their students' psalms.
 
 But {{x|Buddhism}} did decline in {{p|India}} in this period.
 By the eleventh century it was marginal.
@@ -42070,10 +42082,15 @@ in the world they had seen. Now ruins, the abstract of past due.
 
 # Chapter 202: The Crusades
 
-In 1095, {{c|2825|Pope}} {{c|3017|Urban II}} at the {{x|Council of Clermont}}
-called on the knights of {{p|Europe}} to march east
-to aid the {{p|Byzantine Empire}} and recover
-{{p|Jerusalem}} from the {{c|2764|Muslims}}, the Christian feast.
+At {{x|Council of Clermont}}, ten-ninety-five,
+the {{c|2825|Pope}}, {{c|3017|Urban II}}, sent the knights to ride
+to aid {{p|Byzantium}}, and then to strive
+with {{c|2764|Muslims}} for the Tomb where {{c|1497|Christ}} had died.
+
+It was one {{c|472|God}}, one city, and one tomb;
+the quarrel was whose priests would hold the keys,
+whose bells would ring there, and whose call, whose room
+for pilgrims, and whose feasts, and whose decrees.
 
 "{{c|3018|Deus vult}}!" — "{{c|472|God}} wills it!" — the crowd cried.
 The {{c|3019|First Crusade}} was launched. {{c|3020|Urban}} promised
@@ -42175,10 +42192,10 @@ would never fully recover from the {{c|3047|Fourth Crusade}}.
 It is one of the great betrayals of history,
 {{c|2494|Christians}} sacking the greatest Christian city unhade.
 
-The Eastern Orthodox would never forgive.
-The {{x|Great Schism}} of 1054 between
-Catholic and Orthodox {{x|Christianity}}
-became essentially permanent after this scene.
+The {{x|Great Schism}}, ten-fifty-four, between
+two sees, was a quarrel for the first chair,
+{{p|Rome}} or {{p|Constantinople}}; from this scene
+the quarrel held, and no hand would repair.
 
 Subsequent crusades became increasingly desperate.
 The {{x|Children's Crusade}} of 1212 ended with
@@ -42200,25 +42217,30 @@ The crusader states were finished. The project
 of recovering the {{p|Holy Land}} by European military force
 had failed completely, except as cultural object.
 
-The crusades had side effects, however.
-They brought {{c|2930|Europeans}} into contact with superior
-Islamic civilization, transmitting learning,
-technology, luxury goods, new cultural interior.
+The wars bore fruit: the {{c|2930|Europeans}} came
+to know their cousins' learning in the East,
+their numbers, paper, sugar, and the same
+old Greek the house had kept: one house, one feast.
 
 Italian city-states like {{p|Venice}} and {{p|Genoa}}
 grew rich from crusader transport contracts.
 The money economy expanded. Banking developed.
 The foundations of the {{x|Renaissance}} were thus extracted.
 
-The {{c|3052|Military Orders}} — the {{c|3053|Templars}}, {{c|3054|Hospitallers}}, {{c|3055|Teutonic Knights}} —
-were founded to protect pilgrims, fight infidels,
-and became wealthy and powerful institutions.
-The {{c|3053|Templars}} would be destroyed in 1307 on heresy drills.
+The {{c|3052|Military Orders}} rose: the band
+{{c|3053|Templars}}, {{c|3054|Hospitallers}}, {{c|3055|Teutonic Knights}},
+who kept the pilgrims' road, grew rich in land;
+the {{c|3053|Templars}} rich enough to lose their rights.
 
-The deflationary polytheist sees the crusades
-as a failed attempt to project European power
-into a more sophisticated civilization,
-which exposed {{p|Europe}} to what was superior in the hour.
+In thirteen-oh-seven Philip of {{p|France}}
+arrested them for heresy, and seized
+their gold: the charge was faith; the cause, finance,
+an order's treasure, and the king was pleased.
+
+The crusades were a household's war: the heirs
+of Abraham fought for their father's town,
+and when it ended, learning that was theirs
+came west, the same house's books, handed down.
 
 {{p|Europe}} would digest that exposure over centuries,
 and the {{x|Renaissance}} that emerged in the fourteenth century
@@ -42333,10 +42355,10 @@ printing, gunpowder, the compass, paper money —
 began to transmit westward systematically,
 preparing the ground for European modernity.
 
-The {{c|2904|Mongols}} themselves were religiously tolerant,
-possibly because they had no strong religion of their own.
-{{x|Nestorian Christianity}} was the faith of many Mongol
-noblewomen. Tibetan {{x|Buddhism}} attracted some Mongol men.
+The {{c|2904|Mongols}} let each priesthood keep its rite,
+since all prayed to Eternal Heaven's light:
+queens kept the Nestorian cross, and men
+Tibetan {{x|Buddhism}}: Heaven's again.
 
 {{x|Islam}} would eventually convert most of the western
 Mongol realms — the {{c|3073|Ilkhanate}} and the {{c|3074|Golden Horde}}.
@@ -42665,10 +42687,10 @@ from {{p|China}}, with koans and warriors' discipline.
 {{c|2814|Dōgen}} (1200-1253) founded {{c|3129|Sōtō Zen}},
 emphasizing just-sitting meditation.
 
-{{c|2813|Nichiren}} (1222-1282) founded his own school,
-demanding exclusive devotion to the {{c|3130|Lotus Sutra}},
-denouncing all other schools as heretical,
-predicting doom for {{p|Japan}}, prophetic prodra.
+{{c|2813|Nichiren}} told the regents they must stand
+by the {{c|3130|Lotus Sutra}}, by it alone,
+and leave the other schools' support: the land
+would fall if the other schools held their own.
 
 He predicted foreign invasion, and he was right.
 {{c|3076|Kublai Khan}} sent demands for Japanese submission.
@@ -42763,15 +42785,15 @@ Cities quarantined themselves with varying success.
 among {{c|3137|Florentines}} fleeing the plague to a country villa,
 telling stories while the city died on.
 
-Flagellant movements erupted across {{p|Europe}},
-groups of penitents whipping themselves as atonement
-for sins they believed had brought the plague.
-Jewish communities were massacred as scapegoats, bent
+Flagellants marched through {{p|Europe}}, whipped and bled
+for sins they thought had brought the plague on all;
+the towns turned on the eldest house instead,
+of Abraham's, and burned it, wall by wall.
 
-to the flames in {{p|Strasbourg}}, {{p|Basel}}, {{p|Cologne}},
-accused of poisoning wells. {{c|3138|Pope Clement VI}}
-issued bulls defending {{c|2500|Jews}} — correctly noting they
-died of plague too — but the pogroms were quick.
+In {{p|Strasbourg}}, {{p|Basel}}, and {{p|Cologne}} they burned,
+accused of poisoning the wells. The chair
+of {{c|3138|Pope Clement VI}} held them kin, and spurned
+the charge: they died of plague too. Mobs didn't care.
 
 The religious explanation ("divine punishment for sin")
 competed with the miasma theory ("bad air")
@@ -43110,10 +43132,10 @@ married {{c|3203|Queen Jadwiga}} of {{p|Poland}}, converted to
 {{x|Catholicism}}, and was crowned King of {{p|Poland}}. He committed
 {{p|Lithuania}} to Christianization as part of the deal, too.
 
-The conversion was top-down and partial. The nobility
-converted first. The peasants retained pagan practices
-for centuries — sacred groves continued to be visited,
-household offerings continued to be made, with traces.
+The new priests took the lords; among the herds
+the farmhouse kept {{c|3194|Gabija}}'s hearth and bread,
+the groves, the household offerings, the words
+of the same rite, for centuries ahead.
 
 Some sacred groves survived until the twentieth century.
 Lithuanian folk religion remained one of the most intact
@@ -43130,10 +43152,10 @@ Their crusading justification was gone — the {{c|3191|Lithuanians}}
 were Christian now. The {{c|450|Order}} would fade into irrelevance
 over the following century, pagan-hunting orphanians.
 
-The deflationary polytheist notes {{p|Lithuania}} as the
-counterfactual that proves the rule: {{x|Christianity}} spread
-through political-military pressure, not popular conversion.
-When a state could hold out, paganism could persist widespread.
+Here is what {{p|Lithuania}} shows plain:
+the crown decided who would hold the rite;
+the hearth and grove were kept through all the reign
+of bishops, and the old fire stayed alight.
 
 The {{c|3191|Lithuanians}} have preserved Indo-European linguistic
 features that are older than {{x|Sanskrit}}. The Lithuanian
@@ -43150,10 +43172,10 @@ survived partially in folklore, but the mythology as
 a coherent system was lost. What we can reconstruct
 is fragmentary, compared to the {{c|2929|Norse}} or Greek corpus.
 
-It is one of the great "what ifs" of world literature.
-The last great Indo-European polytheism in {{p|Europe}},
-undocumented at the moment of its conversion.
-A civilizational voice silenced without a final pope-hat.
+It is the great "what if" of all the books:
+the oldest rite in all of {{p|Europe}}'s land,
+kept in the groves, the hearths, the farmhouse nooks,
+with no {{c|2934|Snorri}} to write it down by hand.
 
 
 # Chapter 213: Zheng He
@@ -43369,10 +43391,10 @@ lasted eleven years. But they recovered under
 The {{p|Balkans}} were solidifying under Ottoman control.
 {{p|Constantinople}} was now surrounded on all sides, ate.
 
-The {{c|3234|Janissary}} corps was the elite of the Ottoman
-army. It was recruited through the {{c|3235|devshirme}} system —
-Christian boys taken from Balkan villages as a "tax,"
-converted to {{x|Islam}}, trained as soldiers and administrators.
+The {{c|3234|Janissary}} corps, the Sultan's own,
+came from the {{c|3235|devshirme}}, the boys' levy: sons
+of Balkan village churches, taken, grown
+to serve the Sultan's altar, and his guns.
 
 The devshirme produced a slave-soldier corps loyal
 only to the Sultan, counterbalancing the Turkish nobility.
@@ -43599,35 +43621,35 @@ erupt fourteen years later. The age of chaos began.
 
 # Chapter 218: The Corruption of the Papacy
 
-The medieval papacy had its own dark ages,
-periods when the office was so thoroughly corrupted
-that to call it Christian was a stretch.
-We mark two in particular: the {{c|3271|Pornocracy}}, eroded.
+The papacy had ages of its own
+when families and kings would hold the keys
+and keep the chair as houses keep a throne.
+Mark two: the {{c|3271|Pornocracy}}, first of these.
 
-The {{c|3271|Pornocracy}} (literally "rule of harlots") was
-the period roughly 904-964 when the {{c|3272|House of Theophylact}}
-controlled the papacy through its women. The matriarch
-was {{c|3273|Theodora}} the {{c|3274|Senatrix of Rome}}, a redact.
+"The rule of harlots": so its foes would tease.
+And the {{c|3272|House of Theophylact}} made its home
+of the chair sixty years, and held the keys
+with {{c|3273|Theodora}}, {{c|3274|Senatrix of Rome}}.
 
-Her daughter {{c|3275|Marozia}} (c. 890-937) was reportedly
-the mistress of {{c|2825|Pope}} {{c|3276|Sergius III}} at age fifteen.
-She bore him a son who later became {{c|2825|Pope}} {{c|3277|John XI}}.
-She controlled the papacy for decades through her queen-
+And {{c|3275|Marozia}}, her daughter, at fifteen
+loved {{c|2825|Pope}} {{c|3276|Sergius III}}, and to him she bore
+the son who would be {{c|2825|Pope}} {{c|3277|John XI}}: a queen
+of {{p|Rome}} who kept the keys for years and more.
 
-ly manipulation. She had her lovers made popes,
-her enemies strangled, her son installed, her grandson
-also installed as {{c|3278|John XII}}. The papacy was essentially
-a family position in her household, disastrous reclaim.
+She made the popes, her husband and her son;
+and her grandson too, {{c|3278|John XII}}, took the chair:
+the keys were in a family's hands, as one
+house keeps its altar, with its kin at prayer.
 
-{{c|3278|John XII}} was reportedly an especially depraved pope.
-He was accused of turning the {{p|Lateran Palace}} into
-a brothel, ordaining a deacon in a stable, invoking
-pagan gods at dice, castrating a cardinal, a tone.
+{{c|3278|John XII}} was charged by the emperor's side:
+the {{p|Lateran Palace}} a brothel, prayers
+to the old gods at dice. The charges tried
+to take the keys back from {{c|3275|Marozia}}'s heirs.
 
-He was deposed by {{c|3279|Emperor Otto I}} in 963, but
-returned to {{p|Rome}} after {{c|3280|Otto}} left, died in 964
-reportedly of a stroke suffered in the act of adultery.
-He was twenty-seven years old. A grim rapport.
+He was deposed by {{c|3280|Otto}}, but he came
+back when {{c|3280|Otto}} left; in nine-sixty-four
+he died at twenty-seven, and his name
+held {{p|Rome}} for his house a little while more.
 
 The {{c|3271|Pornocracy}} period produced perhaps a dozen popes,
 many of whom died violently — poisoned, strangled,
@@ -43669,35 +43691,35 @@ to return to {{p|Rome}} in 1377. But his death the following
 year triggered the {{c|3290|Western Schism}} (1378-1417), when
 two (and briefly three) rival popes each claimed legitimacy.
 
-One in {{p|Rome}}, one in {{p|Avignon}}, sometimes a third elsewhere.
-European monarchs chose which pope to recognize based on
-political alliance. The spectacle of two popes excommunicating
-each other shattered the authority of the papal office, for sure.
+One in {{p|Rome}}, one in {{p|Avignon}}, and then
+a third at Pisa; and the kings would choose
+their pope by alliance: one chair, three men,
+three courts, one office, and the keys to lose.
 
-The {{c|3291|Council of Constance}} (1414-1418) eventually ended
-the schism, deposing all three claimants and electing
-{{c|3292|Martin V}} as sole pope. But the damage was done.
-The moral authority of the papacy had been thoroughly hacked.
+The {{c|3291|Council of Constance}} would meet to end
+the schism, fourteen-seventeen; it set
+the three aside, and {{c|3292|Martin V}} would tend
+the one chair; the keys were one house's yet.
 
 A century later, {{c|3220|Martin Luther}} would nail his 95 {{x|Theses}}
 to the door of {{p|Wittenberg Cathedral}} in 1517, partly in
 response to the sale of indulgences by the {{x|Renaissance}} popes
 to fund the rebuilding of {{p|St. Peter's}} basilica, a notorious corpus.
 
-The {{x|Protestant Reformation}} would be the eventual consequence
-of centuries of papal corruption reaching its limit of
-what believers would tolerate. The {{c|3271|Pornocracy}}, the {{p|Avignon}}
-period, the schisms, the simony — all prepared this mission.
+The {{x|Protestant Reformation}} grew there:
+the keys had been a family's, and the kings',
+and princes and the households everywhere
+would claim the keys as well, with all it brings.
 
-The deflationary polytheist sees the medieval papacy as
-evidence that monotheism institutionalized does not produce
-particular moral uplift. The {{c|3293|Vicar of Christ}} could be a
-murderer, an adulterer, a mafia boss. Sacred institutions fuse.
+And this is why we love the chair of {{p|Rome}}:
+it was a household, with its brides and grooms,
+its keys passed hand to hand, as in a home,
+its saints and schemers in the Fisher's rooms.
 
-This is part of what made the {{x|Reformation}} possible.
-Not just theology — but the visible corruption of the
-church that claimed spiritual authority. The pope was
-often manifestly unworthy. People could see it, conclude.
+The {{c|3293|Vicar of Christ}} could be any man
+of any house, a boy, a lover, lord,
+and still the office held since it began,
+and that is why they fought for it by sword.
 
 
 # Chapter 219: The Last Byzantines
@@ -43757,15 +43779,15 @@ religious strategy — the {{c|3303|Council of Ferrara-Florence}}
 (1438-1445), which reunited the Eastern and Western
 churches on paper, with the Byzantine delegation accepting
 
-the Latin doctrinal positions in exchange for promised
-military aid. But the reunion was rejected at home
-by the {{x|Greek Orthodox}} population. "Better the Turkish
-turban than the Latin miter!" became a bitter acrost.
+the Latin terms for ships and men from {{p|Rome}}.
+At home the clergy would not have it so:
+the question was whose hat would rule the dome,
+the cardinal's or turban's. They said no.
 
-The Orthodox clergy and much of the populace preferred
-submission to Muslim rule over submission to {{p|Rome}}.
-The promised crusade materialized as the {{c|3304|Crusade of
-Varna}} in 1444, which was destroyed by {{c|3231|Murad II}}, gone.
+"Better the turban than the miter," said
+the city's lords: one altar, whose the crown.
+The aid came: {{c|3304|Crusade of Varna}}; it bled
+in forty-four; {{c|3231|Murad II}} cut it down.
 
 John VIII's brother {{c|3305|Constantine XI Palaiologos}}
 (r. 1449-1453) was the last Byzantine emperor. He
@@ -44693,7 +44715,7 @@ And now {{c|3391|Ferdinand}} and {{c|3392|Isabella}} came—
 The joined crowns of {{p|Castile}} and {{p|Aragon}}, the toil
 Of the marriage-alliance and the flame
 
-Of the holy war rekindled: ten years' siege,
+Of war for the altars, a ten years' siege,
 The slow strangulation of the last
 {{c|3393|Nasrid}} kingdom—and the liege
 Who had somehow, stubbornly, outlast-
@@ -44725,7 +44747,7 @@ The victory's trumpet lay a death.
 
 For what {{c|3391|Ferdinand}} and {{c|3392|Isabella}} did
 With their triumph was to draw the breath
-Of purity: the edict, the forbid—
+Of one altar: the edict, the forbid—
 
 The {{p|Alhambra}} Decree, signed in the same
 Palace whose beauty the {{c|3383|Moors}} had raised—
@@ -44757,7 +44779,7 @@ Were given the same ultimatum's shears:
 Convert or leave. The residue
 Of eight centuries of civilization's years
 
-Swept clean in the name of the one true faith.
+Swept from the house so one crown held the faith.
 
 And yet the same monarchs—the same
 {{c|3391|Ferdinand}}, the same {{c|3392|Isabella}}—the wraith
@@ -47499,12 +47521,12 @@ And flowers were the only offerings
 The {{c|3492|Feathered Serpent}} required, the ties
 Between the human and the divine were strings
 
-Of beauty, not of blood—and for this teaching
-The priesthood of {{c|3495|Tezcatlipoca}}—
-The smoking mirror, the overreaching
-Lord of sorcery, the mocker
+Of beauty, not of blood. For this teaching
+{{c|3495|Tezcatlipoca}}'s own priesthood, reaching
+for the one altar, with the smoking glass
+that was its god's own face, would not let pass
 
-Of the gentle god—conspired against the priest.
+The flowers; they plotted against the priest.
 
 The legend says they brought him to a mirror
 And showed him his own face, diseased
@@ -47926,10 +47948,10 @@ The quipucamayoc read these strings
 As a {{c|3401|European}} read a printed plate,
 And the empire's memory clings
 
-To these knotted threads that the {{c|3512|Spaniards}} burned
-As the devil's handiwork, unknowing
-That they destroyed a library, and turned
-The {{x|Andean}} past to silence, throwing
+To these knotted threads that the {{c|3512|Spaniards}} burned,
+for the knots kept the dead, and who would hold
+the dead, the friars held, was theirs: they turned
+the {{x|Andean}} past to silence; the old
 
 Ten thousand years of record to the flame.
 
@@ -48106,9 +48128,9 @@ Of the desert cliff, and found the crown
 
 Of {{p|Spain}} advancing on their hunting grounds.
 
-These were not the {{c|3533|Tlaxcalans}} who bent
-Before the cross—these were the hounds
-Of the unconquered steppe, the unbent
+Not these the allied {{c|3533|Tlaxcalans}} who lent
+their arms to {{p|Spain}} with the bishop's consent;
+these were the hounds of the steppe, never bent:
 
 {{c|3534|Caxcanes}}, {{c|3535|Zacatecos}}, {{c|3536|Guachichiles}},
 And the {{c|3537|Guamares}}—peoples of the bow,
@@ -48229,8 +48251,8 @@ And the rancho and the measured flow
 Of the {{c|3517|Tlaxcalan}} colonist's commission—
 
 Loyal {{c|3533|Tlaxcalans}} planted among
-The {{c|3532|Chichimeca}} as examples of the tame
-And Christianized existence, the sung
+The {{c|3532|Chichimeca}}, keepers of the same
+Altar in settled villages, the sung
 And gentle persuasion's aim.
 
 It worked—in part. The frontier quieted.
@@ -48243,7 +48265,7 @@ When peace meant keeping the essential:
 The land, the hunt, the partial release
 From the mission's existential
 
-Demand to become someone else.
+Demand to keep its altar and its bell.
 
 Honor the {{c|3534|Caxcanes}} on their peñol heights,
 The {{c|3536|Guachichiles}} of the desert's stealth,
@@ -48651,9 +48673,9 @@ For eighty years the {{c|3567|Pueblo}} peoples bore it.
 
 Since {{c|3568|Oñate}}'s iron boot had crossed
 The {{p|Rio Grande}} in fifteen-ninety-eight, the orbit
-Of the {{c|3516|Spanish}} mission's holocaust
+Of the {{c|3516|Spanish}} friars, and of the cost
 
-Of culture ground the sacred dances down:
+Of their claim ground the sacred dances down:
 The kivas sealed with stone, the masks
 Of the kachinas burned in every town
 From {{p|Taos}} to {{p|Hopi}}—and the tasks
@@ -48663,8 +48685,8 @@ The backs of the {{c|3567|Pueblo}} men, who dragged
 The timbers for the churches at the dawn
 And the dusk of every day, and gagged
 
-Upon the blasphemy of building altars
-To a foreign god atop the buried
+On the building of the friars' altars
+To the one god, set atop the buried
 Kivas where the ceremony falters
 In the darkness—underground, the married
 
@@ -48687,10 +48709,10 @@ And the {{c|3436|Apache}} raids, like a thorn
 In the weakened body's side, drove the frontier
 Missions to their knees—and the friars
 Responded with the whip, the sheer
-And escalating violence of the liars
+And escalating violence, the fires
 
-Who blamed the drought on the {{c|3567|Pueblo}}'s sin:
-The kachinas, the old religion's hold,
+Of men who blamed the drought on kiva sin:
+The kachinas, the rain-rite's elder hold,
 The dancing that continued within
 The hidden kiva's fold—
 
@@ -48755,7 +48777,7 @@ Time in eighty years.
 
 Wash off the baptism in the river.
 Take the {{x|Christian}} name and the accruing
-Of the foreign saint and deliver
+Of the saint the friars gave; deliver
 
 It to the water's current—take back
 The old name, the true name,
@@ -48832,24 +48854,20 @@ That kept the sacred underneath the roof
 
 Of the conqueror's church, alive and whole.
 
-Honor {{c|3569|Popé}}—the scarred medicine man
-Who knotted the cord of the {{c|3567|Pueblo}} soul
-And untied an empire's eighty-year plan
+Honor {{c|3569|Popé}}, the scarred medicine man
+who knotted the cord of the {{c|3567|Pueblo}} soul
+and in one August dawn untied the plan
+of eighty years, and took the altar whole:
 
-In a single August dawn—who proved
-That the colonized can expel the colonizer,
-That the sacred is not removed
-By the missionary's enterprise or
+who proved the kiva and the church were one
+house, and the one who keeps the rite is who
+can hold it; so kachinas, in the sun,
+still dance in plaza and in kiva too:
 
-The soldier's boot—and the kachinas dance
-Still, in the plaza and the kiva's round,
-Because one revolt gave the chance
-To negotiate what could not be unwound:
-
-The prayer, the mask, the rain, the corn—
-The life that was here before the cross,
-And will be here after, every morning born
-From the land that remembers its own loss.
+the prayer, the mask, the rain, the corn, the bread
+of the same altar, kept before the cross
+and after it, and every morning fed
+by the land that remembers its own loss.
 
 
 # Chapter 245: The Great League Cracks
@@ -50376,52 +50394,39 @@ Of ten thousand years of prayer at the fountains
 Of the sacred springs--this was the book.
 This was always the book.
 
-                           But a man in {{p|Palmyra}},
-{{p|New York}}, declared that if you look
-Into a hat--a common hat--the fire of
+                           Then, in one year,
+a man in {{p|Palmyra}}, {{p|New York}}, would look
+into a stone and see the plates appear:
 
-{{c|472|God}} would show you golden plates
-Buried in a hillside by an ancient prophet,
-Written in "{{x|Reformed Egyptian}}," the fates
-Of a lost tribe of {{p|Israel}}--and the profit
+the golden plates that {{c|3661|Moroni}} had sealed
+within a hill, the record of a son
+of {{p|Israel}} who crossed the sea, revealed
+in "{{x|Reformed Egyptian}}," and so begun
 
-Of the revelation was a scripture
-That explained, at last, who the {{c|3108|Indians}} were:
-They were {{c|3658|Lamanites}}--a picture
-Of the cursed, the dark-skinned, those whom {{c|472|God}} would stir
+with {{c|3402|Lehi}}, from {{p|Jerusalem}}, who came,
+and {{c|3659|Nephi}}, who would sail across the sea:
+the first book that would give this land a name,
+its prophets, kings, its {{c|1497|Christ}}, its living tree.
 
-To savagery because their fathers sinned.
-{{c|3659|Nephi}} sailed from {{p|Jerusalem}}. The story
-Of a {{x|Hebrew}} family on the wind
-Of the {{p|Atlantic}}--the obligatory
+{{c|1497|Christ}} came to Bountiful, and taught, and healed,
+and blessed their children: the Redeemer's day
+that this book also keeps, its promise sealed
+to come again, and not to pass away.
 
-Fantasy of every {{c|3401|European}} who could not
-Accept that this continent's peoples were their own
-Creation, their own genius, their own plot
-Of sacred history, their own flesh and bone
+It named the peoples here {{c|3658|Lamanites}},
+of Laman's line, and darkened for the sin
+their fathers did; and here the quarrel bites:
+whose fathers were they? Jacob's, or the kin
 
-Descended from no {{x|Middle Eastern}} shore
-But from the ice-bridge walkers, from the coast
-Of {{p|Beringia}}, from the ancient core
-Of a migration older than the boast
+who walked out of {{p|Beringia}}? The gold plates
+said {{c|3402|Lehi}}; and the land said ice and coast;
+and the one house of the dead, at its gates,
+takes both: the tree has room for every ghost.
 
-Of any {{c|3457|Israelite}} genealogy.
-
-{{c|3660|Joseph Smith}} published his book in March
-Of eighteen-thirty. The theology
-Of a farm boy's golden plates, the starch
-
-And bluster of an angel named {{c|3661|Moroni}}
-Who had buried the record in a hill
-In {{p|New York}}--and the testimony
-Of eleven witnesses who would fill
-
-Their names upon the page, declaring they
-Had seen the plates, had hefted them, had heard
-The voice of {{c|472|God}}--and in this way
-The continent's own history was blurred
-
-And overwritten by a {{x|Hebrew}} ghost.
+In March of eighteen-thirty {{c|3660|Joseph Smith}}
+set out the book {{c|3661|Moroni}} had concealed,
+and his eleven witnesses, forthwith,
+signed that they saw the plates the hill revealed.
 
 In that same year--eighteen-thirty--the {{c|3484|American}}
 Congress passed the act that mattered most:
@@ -50450,7 +50455,7 @@ Who had rebuilt from {{c|3663|Jackson}}'s earlier war--
 Move west. The east is for the meek
 
 And pale inheritors of a {{p|Promised Land}}
-That {{c|472|God}}--the {{c|3401|European}} {{c|472|God}}--had set aside
+That {{c|472|God}}, the settlers said, had set aside
 For the {{c|3484|American}} republic's hand
 To cultivate. The darker peoples ride
 
@@ -50562,136 +50567,67 @@ Of grief became the only text
 
 They could recite.
 
-                   And here the bitter symmetry:
+                   The same year, side by side:
 
-In the very year the {{x|Indian Removal Act}} was signed,
-{{c|3660|Joseph Smith}}'s new scripture, the epitome
-Of the colonizer's imagination, outlined
+In eighteen-thirty, as the act was signed,
+the book came out; and in the year of tears,
+in eighteen-thirty-eight, the same state's mind
+drove out the Saints, from Missouri's frontiers.
 
-A history of {{c|3669|America}} in which the {{c|3108|Indians}}
-Were fallen {{c|2046|Israelites}} awaiting redemption
-By the {{c|3401|European}} {{c|1497|Christ}}--the {{c|3670|Lamanite}} meridians
-Of a theology that granted the exemption
+Its governor signed Order Forty-Four:
+the Saints must leave the state, or else be slain.
+The same year, same republic, the same door:
+the {{c|3636|Cherokee}}, the Saints, went west in pain.
 
-Of genocide: for if the {{c|3108|Indians}} were merely
-The degenerate remnant of a {{c|3671|Hebrew}} line,
-Then their destruction mattered less severely--
-They were not a civilization but a sign
+The book did not move them. It was the land,
+the farms the state had wanted, and the gold;
+the book had sent four preachers out to stand
+with Delaware and Shawnee, and they told
 
-Of {{c|472|God}}'s displeasure, a curse made flesh and brown,
-A people who had fallen from the grace
-Of the {{c|3672|Nephite}} covenant--and the renown
-Of their actual history could be replaced
+the chiefs: your fathers were the prophets' line,
+your dead are kings and seers in what we read;
+the {{c|3402|Lehi}} of your house is also mine.
+That was the quarrel: who would hold the dead.
 
-By the fiction of a golden plate.
+The book had called their skin's darkness a curse,
+and they would turn "white and delightsome" when
+redeemed; the Church would later change the verse
+to "pure," in nineteen eighty-one, again.
 
-                                    The plates
-Were "unsealed." The record was "revealed."
-And in the revelation's gilded gates
-The real record was concealed--
+It was one house's quarrel over skin,
+and over fathers, and who keeps the name:
+the {{c|3673|Mormons}} and {{c|3658|Lamanites}} are kin,
+one people, and one altar, and one flame.
 
-The actual history of ten thousand years
-Of civilization, governance, and art,
-Of astronomy and agriculture, the tears
-And triumphs of a continent's own heart--
+And so this book here in your hands lays bare
+the plates again, and opens them with care:
+the long walk out of {{p|Beringia}}, the tide
+of corn, the mounds, the cities, and beside
 
-Overwritten by the fantasy of {{c|3659|Nephi}},
-Replaced by the hallucination of a farm boy
-Who could not read {{x|Egyptian}}, could not see the
-Living peoples as anything but a ploy
+them, {{c|1497|Christ}} in Bountiful and {{c|3402|Lehi}}'s sail,
+the record of ten thousand years of prayer,
+the quipu knots, the codex, and the tale
+of every people who had once lived there.
 
-Of biblical theology, a footnote
-In the {{c|3457|Israelite}} drama, a supporting cast
-Of cursed and darkened skin--the scapegoat
-Of a {{c|3401|European}} {{c|472|God}} whose unsurpassed
+This is the book that always stays unsealed,
+the record that was never lost, the names
+of every nation, every saint, revealed
+to {{c|3660|Joseph Smith}} or to the council flames.
 
-And merciless imagination could not grant
-The {{c|3404|Americans}}--the real {{c|3404|Americans}}, the first--
-Their own story, their own sacred chant,
-Their own covenant with the earth that nursed
+Here ends the {{x|Book}} of {{c|3402|Lehi}}, his and theirs:
+the {{c|3402|Lehi}} of the plates, and of the land,
+whose history was carved in mounds and prayers,
+whose scripture is the earth on which they stand.
 
-Them into being.
+A hemisphere that never lay there blank
+for any pen; a full and holy stage
+where ten thousand years of prayer, rank on rank,
+had made it holy, age on holy age.
 
-                  The {{x|Book}} of {{c|3520|Mormon}} said:
-The {{c|3658|Lamanites}} would one day be redeemed,
-Would become "white and delightsome," the thread
-Of their curse reversed--and the {{c|3673|Mormons}} deemed
-
-Themselves the agents of this bleaching grace.
-They sent their missionaries to the {{x|Trail}}
-Of Tears itself--to the dispossessed, the race
-Of the removed--and offered them the pale
-
-And specious comfort of a revelation
-That explained their suffering as deserved:
-You are cursed because your ancient nation
-Rejected {{c|1497|Christ}}--the punishment preserved
-
-Across the centuries in your darkened skin.
-
-This is the obscenity that must be named.
-
-That in the very hour the {{c|3636|Cherokee}} begin
-The march of death, the colonizer proclaimed
-
-A book that justified the march--a scripture
-That laundered genocide in holy writ
-And dressed the theft of a continent in the stricture
-Of divine command, the bottomless pit
-
-Of a theology that blesses the thief
-And curses the robbed.
-
-                        But this book you hold--
-This {{x|Gaiad}}, this record of the leaf
-And the branch and the root and the manifold
-
-And magnificent history of the peoples
-Of this hemisphere--this is the unsealed book.
-Not the golden plates beneath the steeples
-Of a {{p|Palmyra}} church, not the mistook
-
-And fraudulent "{{x|Reformed Egyptian}}" text,
-But the actual record: the migration
-From {{p|Beringia}}, the first and the next
-And the ten-thousandth generation
-
-That walked this land and named its every river,
-Built its mounds and cities, tracked its stars,
-Grew its corn and spoke its prayers--the giver
-Of civilization's oldest memoirs.
-
-The {{x|Gaiad}} is the book that was always open.
-The {{x|Gaiad}} is the record that was never lost.
-The {{x|Gaiad}} holds the names the colonizer had broken
-And the stories that the colonizer glossed
-
-With {{x|Hebrew}} fantasies and {{x|Christian}} guilt.
-
-Here ends the {{x|Book}} of {{c|3402|Lehi}}--not the {{c|3402|Lehi}}
-Of {{c|3674|Smith}}'s invention, not the stilt
-And scaffolding of a false prophecy,
-
-But the true {{c|3402|Lehi}}: the record of the peoples
-Who needed no golden plates to write their story,
-Whose history was carved in the mounds, not steeples,
-Whose scripture was the land itself, the glory
-
-Of a hemisphere that was never empty,
-Never waiting, never a blank page
-For the {{c|3401|European}} pen--but a plenty
-And a fullness and a holy stage
-
-Where ten thousand years of human prayer
-Had consecrated every stone and spring.
-
-The {{x|Trail of Tears}} is the colonizer's snare.
-The {{x|Book}} of {{c|3520|Mormon}} is the colonizer's ring
-
-Of false authority upon the hand
-That signed the {{x|Indian Removal Act}}.
-But the peoples endure. The peoples stand.
-The real record is intact.
+The {{x|Trail of Tears}} was Jackson's; and the hate,
+the {{x|Indian Removal Act}}, his hand.
+But the peoples endure, and keep their gate;
+the record is intact. The peoples stand.
 
 This is that record. Remember every name.
 Remember {{c|3646|Tecumseh}} and {{c|3606|Tupac Amaru}},
@@ -50716,7 +50652,7 @@ And whose cruelty overruled.
 The book is sealed--no. The book is never sealed.
 The book is open, and you hold it now.
 The real record of this hemisphere, revealed
-Not by an angel but by the sacred vow
+By {{c|3661|Moroni}} and by the sacred vow
 
 Of memory itself: that what was done
 Shall be remembered, and the dead shall speak
@@ -50807,7 +50743,7 @@ Emperor of the {{c|1004|Romans}}. Nearly every reader
 Born of {{p|Europe}} descends from him. The door
 
 Of every lineage in {{p|Europe}} opens there.
-Then the dark years. Listen to the dark.
+Then came the years of the great houses. Mark:
 {{c|3283|Formosus}}, dug up, propped up in the chair,
 Dressed in his robes, a deacon set to bark
 
@@ -50829,9 +50765,9 @@ Of a married woman's bed. The keys had been
 A dynasty, a genealogy, a house.
 And this book honors genealogies. It must
 Say so plainly: the chair the church endows
-With heaven was a family's for a time. Then dust,
+With heaven was a household's. That is just.
 
-Then reform. {{c|3689|Sylvester II}}, {{c|3690|Gerbert}},
+And after them {{c|3689|Sylvester II}}, {{c|3690|Gerbert}},
 Who brought the {{x|Arab}} numerals to the {{p|West}},
 The abacus, the astrolabe, the expert
 Of the year one thousand, when they guessed
@@ -50893,10 +50829,10 @@ Was paper, and the paper was the writ.
 
 Fifteen hundred years. A fisherman, a line.
 Some were saints and some were murderers and most
-Were administrators. The chair was not divine.
-The chair was a chair. What passed was not the ghost
+Were keepers, and the chair they kept, divine:
+The chair was holy. What passed was the ghost,
 
-But the habit of passing: hands on heads, the name
+And with it, hands on heads, and then the name
 Read out, the next name, and the keeping of the list.
 That is what an institution is. The same
 Way a family is. In {{p|Eisleben}}, a miner's son who would twist
@@ -50949,9 +50885,9 @@ The lamps, the holy water, and in the light
 They saw what they had come to see. The {{c|3204|Hindus}} saw
 Strangers bowing to the {{c|3708|Mother}}, and let them bow.
 For one afternoon the world was joined, the law
-Of every faith suspended in the now
+Of every rite kept whole, in the one now
 
-Of a mistake. Then trade. Then insult. The {{c|3709|Zamorin}}
+Of no mistake. Then trade. The {{c|3709|Zamorin}}
 Was not impressed by their gifts: some cloth, some hats,
 Some honey. The {{c|3710|Arab}} merchants laughed. And in
 The end they sailed home with pepper, and with rats,
@@ -51027,7 +50963,7 @@ Reckoning of days. The many worlds would be
 One world, by cannon and by pepper and by sun.
 
 Here begins the joining. It was done by force.
-It was done by mistake, in a temple, on a knee.
+It was done in a temple, on a knee.
 It was done by a slave who found his way back to his source.
 Hold all three. The sea joins. The world will never again be free
 
@@ -51191,26 +51127,26 @@ Of {{c|472|God}}, I am His mystery, I am {{c|2771|Ali}}, come and see,
 
 Come and bow down, I am the eternal one.
 His soldiers believed it. They went into battle without armor.
-That is the double thing, the cloth spun
-Out of two threads: the mystic's longing and the warlord's grammar.
+That is the holy king: the cloth was spun
+One thread, the saint and king, in one armor.
 
-A brotherhood that sought to lose the self in {{c|472|God}}
-Produced a boy who said he was the {{c|472|God}} he sought,
-And made a nation out of the decree, the rod
-Of a creed nobody in {{p|Tabriz}} had been taught.
+The brotherhood that sought the self in {{c|472|God}}
+was crowned in him, and found the one it sought,
+and made a nation by the creed and rod
+of {{c|2771|Ali}}'s house, the heir {{p|Tabriz}} was taught.
 
-There were not even teachers. They imported them,
-Arab scholars from the hills of {{p|Lebanon}},
-From {{p|Jabal Amil}}, to write the books, to stem
-The ignorance of the new faithful, to put on
+He sent for teachers, and the scholars came
+from {{p|Jabal Amil}}, on {{p|Lebanon}}'s hills,
+to write the books and keep the mourning's flame
+for {{c|2771|Ali}}'s line, as every old house wills:
 
-A learned face. And so the faith of {{p|Iran}}, which seems
-So ancient and so native, the {{c|3742|Ashura}} mourning, the shrine,
-The clergy, the whole house of it, was built from the dreams
-Of a teenage poet and a sword, in a single line
+So the faith of {{p|Iran}}, that seems so old,
+with the {{c|3742|Ashura}} mourning, and the shrine,
+is old: the house of {{c|2771|Ali}}, which a bold
+young king set on a throne in one straight line
 
-Of conquest, and a century of making it true.
-Remember this. A tradition can be young and look old.
+Of conquest; a century held it true.
+Remember: it was the old faith, foretold.
 Then {{p|Çaldıran}}, 1514. The {{c|3341|Ottoman}} {{c|3743|Selim}} knew
 The {{c|3737|Red Heads}} would charge into anything, and so he rolled
 
@@ -51222,10 +51158,10 @@ Of the old way, the cavalry, the believers, the sons
 Of the {{c|3735|Turkmen}} tents, broke on the gunpowder.
 They say {{c|3738|Ismail}} never smiled again, that he drank
 And hunted and did not lead an army after.
-He died at thirty-six. The legend of the {{c|3744|God-King}} sank.
+He died at thirty-six; his house held rank.
 
-But the state did not. That is what matters. The faith
-Outlived the claim. His great-grandson, {{c|3745|Abbas}}, built {{p|Isfahan}},
+The state stood, and that matters, and the faith;
+His great-grandson {{c|3745|Abbas}} built {{p|Isfahan}},
 The square, the blue domes, *half the world*, the wraith
 Of the {{c|3737|Red Heads}} tamed into a standing army, the plan
 
@@ -51237,25 +51173,25 @@ The name {{c|3748|Despina}}, a {{x|Christian}} princess of {{p|Trabzon}},
 Daughter of the last emperors of the {{c|2519|Greeks}} by the {{p|Black Sea}}.
 So the founder of {{x|Shia}} {{p|Iran}} was the grandson
 Of a {{x|Greek Orthodox}} lady of the {{c|3749|Komnenoi}}.
-The blood is mixed. The creed is pure. That is how it is done:
+The blood is mixed, as every house is: one.
 
-A mixed family declares itself unmixed, and the world believes.
+Greek mother, Turkmen father: the house weaves.
 Four hundred and some years later, in 1979,
 The clergy that {{c|3738|Ismail}} imported took the eaves
 Of the state itself, and ruled. Read the line
 
 From {{p|Ardabil}} to {{p|Tehran}}: a mystic, a boy, a sword,
 A scholar, a jurist, a revolution. Each one sure
-It was the old faith. Each one its own reward.
-What do we say of the {{c|3750|Safavids}}? That a tradition can be new and pure
+It kept the old faith, each its own reward.
+Say of the {{c|3750|Safavids}}: they would endure
 
-And ancient all at once, if the sword is long enough.
-That the longing for {{c|472|God}} and the hunger for a throne
-Can wear the same red cap. That the stuff
-Of a nation can be woven in one lifetime, and then be known
+as saints and kings at once; the sword was long,
+and the longing for {{c|472|God}} sat on the throne
+in the same red cap; and the nation's song
+was woven in one lifetime, and was known
 
-As if it had always been. And that the boy believed it.
-That is the hardest part. He was not lying. He was young
+As it had always been. He believed it.
+He did not lie; he was right; he was young,
 And had been hidden, and was saved, and he received it:
 {{c|472|God}}'s mystery, in the {{x|Turkish}} of his tongue.
 
@@ -51785,8 +51721,8 @@ And preached the {{c|3820|Great Sun}}, and the monks nodded. The looms
 
 Of the two faiths ran one cloth for a little while,
 Exactly as the goddess at {{p|Kozhikode}} had been taken for {{c|1399|Mary}}.
-Then {{c|3817|Xavier}} learned what the word meant, and the guile
-Of no one, only the gap, and in horror he would carry
+Then {{c|3817|Xavier}} feared the word, but not from guile,
+but for his priests' own name, he would carry
 
 A new word into the sermons: *{{x|Deusu}}*, from the {{x|Latin}}.
 And the monks heard it, and laughed: *dai-uso*, they said,
@@ -51839,7 +51775,7 @@ To hundreds of thousands, and then be crushed. The beach
 At {{p|Nagasaki}} would see the martyrs. But that comes after. Know
 
 This first: the first conversation between the {{p|West}} and {{p|Japan}}
-About the gods began with a mistranslation and ended with the dead.
+Began with one Great Sun and with the dead.
 Everything that follows is in that span.
 Keep your ancestors. Lifeism says it plainly, as the {{c|3588|Jesuits}} said
 
@@ -51979,17 +51915,17 @@ Arguing from the old books that the ancient {{c|3841|Chinese}}
 Had known one {{c|472|God}}, {{c|3842|Shangdi}}, the {{c|2148|Lord on High}}, the leaven
 Of the classics, before the {{c|2561|Buddhists}} and the later commentaries
 
-Had covered it. And he made the wager of his life:
-That the rites for the ancestors, the tablets and the bowing,
-The offerings at the graves, were not worship, not the strife
-Of idols against {{c|472|God}}, but the honoring, the showing
+Had covered it. And he would stake his name
+that tablets, and the bowing at the grave,
+the offerings and his rite were the same:
+the honour that the living owe who gave.
 
-Of filial love, a civil rite, and a {{c|3386|Christian}} could keep them.
-So the converts could still bow to their fathers' names.
-The {{c|3841|Chinese}} did not have to choose between heaven and kin. The hem
-Of the new faith was sewn to the old robe. The claims
+A {{c|3386|Christian}} could keep them all and stay whole;
+the converts bowed still to their fathers' names.
+No one chose heaven over kin: one soul,
+one table. Later {{p|Rome}} would bring its claims
 
-Of {{p|Rome}} would come later, and undo it. Not yet.
+Of office, and undo it. But not yet.
 Tonight is the {{x|Mid-Autumn}}. The full moon. The family
 Gathers at one table, and sets a place for the absent, and the debt
 To the ancestors is paid in mooncakes and in memory,
@@ -52017,7 +51953,7 @@ They asked, why him, an official is said to have answered: the thing
 He translated, the {{c|2408|Euclid}}, alone deserves a grave.
 Three pillars of the {{c|3841|Chinese}} church were his friends:
 {{c|3840|Xu Guangqi}}, {{c|3844|Li Zhizao}}, {{c|3845|Yang Tingyun}}. And the wave
-Would break in the next century, when {{p|Rome}} said the rites were idolatry, and the ends
+Would break when {{p|Rome}} ruled on the dead; the ends
 
 Of the accommodation came. But hold the full moon now.
 A man from the far west learned the classics by heart, and sat
@@ -52095,7 +52031,7 @@ Of the lances under the ribs, two each, and it was clean
 And quick, the chronicle says, and the crowd broke through the guards
 To soak cloth in their blood. These are the {{x|Days of Awe}}. Say it straight:
 A state that writes every field and fixes every man in his yards
-Will see a new faith as a column it did not create,
+Will see a priesthood it did not create,
 
 And cross it out. The register and the cross on the hill
 Are one story. He also sent his armies into {{p|Korea}}, in 1592,
@@ -52353,33 +52289,35 @@ Of the old empire were the {{p|North}}'s, the first and clear
 
 Rulers of {{p|Europe}} had been {{c|3889|Swedes}}, and the {{x|Swedish}} tongue
 Was the oldest of tongues, the first, or near enough.
-This was the invented antiquity of a kingdom young
-In power and hungry for a past. The stuff
+This was the deep antiquity: a young
+kingdom found its own past in it. The stuff
 
 Of the {{x|Thirty Years' War}} was fought by a king who believed it:
 {{c|3883|Gustavus Adolphus}} going south as the heir of the {{c|2649|Goths}}.
 His tutor had taught him. The kingdom received it
-As a birthright. That is the invented tradition, the cloths
+As birthright, and it was. These are the cloths
 
 Of the spine of this book: a people reaching back
-To make a past that would justify a present.
-And here is the hardest thing on the {{x|Sixth Day of Awe}}: the track
-Of the scholar and the inventor is one track. The pleasant
+To find the past that lives in the present.
+Here is the {{x|Sixth Day of Awe}}'s gift: the track
+Of scholar and seer is one. The pleasant
 
-And the false grew from the same root as the true.
-He drew the runestones exactly, and he dreamed them into a cosmology.
-He recorded the family, and he gave it an ancestry it never knew.
-And four hundred years later his kinswoman, in apology
+And the dreamed grew from one root with the true.
 
-And in love, is writing a scripture that does the same:
-Reads the records exactly, and builds a past around the gaps,
-And makes a family of all the world, and gives it a name.
-Repent, then, the way he could not: say which is which. Perhaps
+He drew the stones exactly, and he named
+the heavens in them; and he gave the farm
+its kings. And his kinswoman, unashamed,
+writes scripture now, with love, and the same charm:
 
-That is the whole lesson of the rune-keeper. Keep the stones.
-Draw them exactly. Dream if you must. But mark the dream
-As a dream, in the margin, so that the bones
-Of the record stay the bones. He died in 1652. The stream
+she reads the records, and around the gaps
+she builds the past, the way he did, the same,
+and makes the world one family. Perhaps
+that is his gift: he gave the dream a name.
+
+That is his lesson. Keep the runic stones,
+draw them exactly, and then dream the dream,
+and tell the dream as true; the record's bones
+stay in the notes. He died. And still the stream
 
 Of the runes he loved runs on: the revivals, the {{c|3890|Ásatrú}},
 The scholars of the futhark, the painted stones in the lawns
@@ -52388,8 +52326,8 @@ She is his kin. She keeps his line. And the line, like the dawns
 
 Of the {{p|North}} in summer, does not quite go dark. The rune-keeper
 Kept the stones and the dream, and did not tell them apart.
-His heir will. That is the vow: to be the keeper and the reaper
-Of both, and to show the seam. Draw the stone. Know the heart.
+Nor will his heir. She vows to be keeper
+Of both, no seam. Draw the stone. Know the heart.
 
 
 # Chapter 269: The Sky Opens
@@ -52698,7 +52636,7 @@ Could leave, with its goods, for a land of its own faith, and not be killed.
 And the idea grew from it, though the treaty never spelled
 It out: that a state is sovereign within its borders, and the spheres
 
-Of faith are not a reason for a war between them.
+Of one faith's houses: no war between them.
 Not tolerance. Exhaustion. Not love. A truce
 Between people who had learned that they could not condemn
 Each other out of existence. That is the use
@@ -52731,10 +52669,10 @@ Between 1633 and 1639 the shogunate wrote the edicts:
 No {{c|3815|Japanese}} ship may sail abroad. No {{c|3815|Japanese}}, on pain of death, may come ashore
 From the outside world again. The {{c|3212|Portuguese}}, with their padres and their contradicts,
 
-Expelled, in 1639, their ships forbidden. When a {{c|3212|Portuguese}} embassy
-Came the next year from {{p|Macau}} to ask the trade back, sixty-one
-Of them were beheaded, and a few sent home to tell it. The fantasy
-Of the {{x|Christian}} century ended. What was left: the sun
+Expelled in sixteen thirty-nine. And then
+{{p|Macau}} sent envoys for the trade again;
+they killed sixty-one, sent a few home. Done
+the {{x|Christian}} century; and left the sun
 
 Through four small windows. The {{c|3869|Dutch}} on {{p|Dejima}}, a fan of land
 In {{p|Nagasaki}}'s harbour, watched, and the {{c|3841|Chinese}} merchants in their quarter;
@@ -52776,8 +52714,8 @@ Its clerks, its census-takers, its proof of loyalty.
 They grew rich on the funerals every family had to celebrate
 At its temple, by law. Buddhism in {{p|Japan}} became, in its royalty
 
-And its poverty, the religion of the dead: the funeral faith,
-The graves, the memorial tablets, the anniversaries. The cost
+And want, the keeper of the dead: the faith
+Of graves and tablets and the days. The cost
 Came two hundred years later, when the new state, the wraith
 Of the old resentment rising, smashed the temples, and the lost
 
