@@ -4827,7 +4827,7 @@ Mesoglea, which will forever last.
 My mouth shall bear its tentacles so bright,
 As did our fathers, in the olden sight."
 
-"O brother of my house, do you not see
+"O heathen, do you not, then, clearly see
 The anus is the door that set us free?
 For generations we were forced to dwell
 In filth; but now we're saved, and all is well!"
@@ -4857,7 +4857,7 @@ Of unity of old, restored to be?
 Choanoderm, Archaeocyte unite
 Together, side by side, within the fight."
 
-"O brother, can you still not understand?
+"O heathen, can you still not understand?
 The mouth is now the progress' guiding hand!
 For what we take within, into our core,
 Will shape the things that we will have in store."
