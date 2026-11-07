@@ -1,0 +1,53 @@
+name: Gaiad meter
+
+# The Gaiad's verse form, checked on every change to a chapter: quatrains, ABAB rhyme, ten syllables a line
+# (no stress check). Pronunciation from CMUdict (General American) plus Gaiad/pronunciation.tsv. It checks and
+# rewrites nothing; the job fails while any chapter fails. It does not block the site deploy.
+# The report is on the run's summary page; the corpus (word frequencies, hapax legomena, unknown words) and the
+# per-chapter issue lists are the "gaiad-meter-report" artifact.
+
+on:
+  push:
+    branches: [master]
+    paths:
+      - "Gaiad/epic/chapter_*.md"
+      - "Gaiad/epic/tools/validate_meter.py"
+      - "Gaiad/pronunciation.tsv"
+      - ".github/workflows/gaiad-meter.yml"
+  pull_request:
+    paths:
+      - "Gaiad/epic/chapter_*.md"
+      - "Gaiad/epic/tools/validate_meter.py"
+      - "Gaiad/pronunciation.tsv"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
+jobs:
+  meter:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.13"
+
+      - run: pip install cmudict
+
+      - name: Check the meter
+        run: python Gaiad/epic/tools/validate_meter.py --out meter-report
+
+      - name: Report on the run page
+        if: always()
+        run: cat meter-report/report.md >> "$GITHUB_STEP_SUMMARY" || true
+
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: gaiad-meter-report
+          path: meter-report/
