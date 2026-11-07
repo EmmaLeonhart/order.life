@@ -343,6 +343,12 @@ re-add wiki links. (The `lifeism+Wiki-*.xml` export is still parsed for baked-in
 She assumed this was obvious and it was never written down, so the modern chapters drifted into 20-30 syllable lines.
 Count the syllables of every line before calling any chapter written or edited.
 
+**Gaian stanzas (Emma, 2026-11-06 ~19:55 BCDT).** The verse is quatrains: ten syllables a line, rhymed, and no stress
+requirement at all. Not iambic pentameter: "iambic pentameter is essentially a verse structure that is built for an
+English that doesn't exist anymore", and English today does not have enough stress to carry it. English syllables are
+"generally about the same length", so counting syllables alone gives an effect like traditional heroic stanzas. CI
+enforces it: quatrains, rhyme, syllable count ("All this stuff can be done by CI/CD because it's extremely basic").
+
 ## Chapter Writing Cadence
 
 **THE LEO GATE IS LIFTED. Emma, 2026-08-05: _"The Leo gate also should be removed at this
