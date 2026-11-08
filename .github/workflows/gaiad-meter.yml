@@ -39,7 +39,7 @@ jobs:
           python-version: "3.13"
 
       - run: |
-          pip install cmudict g2p_en
+          pip install cmudict g2p_en num2words
           python -c "import nltk; [nltk.download(r, quiet=True) for r in ('averaged_perceptron_tagger_eng', 'cmudict')]"
 
       - name: Check the meter

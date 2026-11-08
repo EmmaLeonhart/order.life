@@ -148,6 +148,22 @@ class Lexicon:
                 idx = [i for i, ph in enumerate(p) if VOWEL_PHONE.search(ph)]
             start = idx[-1] if idx else 0
             parts.add(" ".join(re.sub(r"\d", "", ph) for ph in p[start:]))
+            # Rhyme on the last syllable when it is unstressed (cavalry / gallantry, king / remembering, sea /
+            # cavalry): its vowel and coda, if the vowel is not a schwa. A stressed last syllable is marked "S:",
+            # an unstressed one "U:" plus the consonant before it, so two unstressed endings must also share that
+            # consonant (-ry / -ry, not happy / merry).
+            vs = [i for i, ph in enumerate(p) if VOWEL_PHONE.search(ph)]
+            if vs:
+                last = vs[-1]
+                vowel = p[last]
+                tail = " ".join(re.sub(r"\d", "", ph) for ph in p[last:])
+                if vowel[-1] in "12":
+                    parts.add("S:" + tail)
+                    parts.add("W:" + tail)
+                elif vowel[:-1] not in ("AH", "ER"):
+                    parts.add("W:" + tail)
+                    before = re.sub(r"\d", "", p[last - 1]) if last > 0 and not VOWEL_PHONE.search(p[last - 1]) else ""
+                    parts.add("U:" + before + " " + tail)
         return parts, True
 
 
@@ -156,10 +172,21 @@ def clean(line):
     return TAG.sub(r"\1", line)
 
 
+def number_words(w):
+    """A number as it is read aloud, by num2words (1564: fifteen sixty-four; years read as years)."""
+    from num2words import num2words  # pip install num2words
+    n = int(w)
+    text = num2words(n, to="year") if 1000 <= n <= 2099 else num2words(n)
+    return re.findall(r"[a-z]+", text.lower())
+
+
 def words_of(line):
     out = []
     for w in WORD.findall(clean(line)):
-        out.extend(part for part in re.split(r"-", w) if part)
+        for part in re.split(r"-", w):
+            if not part:
+                continue
+            out.extend(number_words(part) if part.isdigit() else [part])
     return out
 
 
@@ -213,7 +240,17 @@ def check_chapter(lex, path):
             parts = [lex.rhyme_parts(w)[0] for _, w in ends]
 
             def r(a, b):
-                return bool(parts[a] & parts[b])
+                common = parts[a] & parts[b]
+                if any(not c.startswith(("W:", "S:", "U:")) for c in common):
+                    return True  # rhyme from the last stressed vowel
+                if any(c.startswith("U:") for c in common):
+                    return True  # two unstressed endings, same consonant before them
+                # one stressed, one unstressed last syllable with the same vowel and coda (king / remembering)
+                wa = {c for c in parts[a] if c.startswith("W:")}
+                wb = {c for c in parts[b] if c.startswith("W:")}
+                sa = any(c.startswith("S:") for c in parts[a])
+                sb = any(c.startswith("S:") for c in parts[b])
+                return bool(wa & wb) and (sa != sb)
 
             if not (r(0, 2) and r(1, 3)):
                 bad_rhyme += 1
