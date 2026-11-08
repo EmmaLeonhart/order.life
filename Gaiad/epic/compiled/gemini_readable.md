@@ -3978,10 +3978,10 @@ the prophet of Manichaeism,
 blending {{x|Zoroastrian}} dualism with
 {{x|Buddhist}}, {{x|Christian}}, and {{x|Gnostic}} idealism.
 
-Mani saw himself as the seal
-of all prophets — Zarathustra, Buddha,
-Jesus — completing their partial light
-into a universal global code.
+Mani named every prophet in a chain:
+Zarathustra, the Buddha, Jesus, each
+one light sent down to every age again;
+a seal of prophets {{x|Islam}} came to teach.
 
 The religion spread from {{p|Persia}} east
 to {{p|Central Asia}} and to {{p|China}} past,
@@ -3993,10 +3993,10 @@ had Mani put in chains till he was dead,
 and Kartir struck at every rival flame:
 the Manichaeans, Jews, Christians, all one claim.
 
-The quarrel was the office, not the light:
-which priest would hold the altar and the rite.
-The Avesta was at last written down
-to keep the canon for the priestly crown.
+But what he taught no prison chain could hold:
+it ran to {{p|Harran}} and the {{p|Uyghur}} east,
+and {{x|Islam}}'s prophets, later, kept its mold,
+and Kartir's Avesta served the crown's priest.
 
 Khosrow I brought the golden age,
 reformed taxation, built canals,
