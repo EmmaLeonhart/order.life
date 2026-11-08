@@ -80,10 +80,32 @@ def guess_syllables(word):
     return max(1, n)
 
 
+_G2P = None
+
+
+def g2p_phones(word):
+    """Pronunciation of a word in no dictionary, from g2p_en (open-source grapheme-to-phoneme model trained on
+    CMUdict; same ARPAbet phones). Emma, 2026-11-08: use an existing library, not a home-made spelling guess."""
+    global _G2P
+    if _G2P is None:
+        from g2p_en import G2p  # pip install g2p_en
+        _G2P = G2p()
+    phones = [p for p in _G2P(word) if p.strip() and p[0].isalpha()]
+    return phones or None
+
+
 class Lexicon:
     def __init__(self, prons):
         self.prons = prons
         self.unknown = Counter()
+        self.model = {}
+
+    def model_lookup(self, word):
+        w = word.lower()
+        if w not in self.model:
+            ph = g2p_phones(w) if not w.isdigit() else None
+            self.model[w] = [ph] if ph else None
+        return self.model[w]
 
     def lookup(self, word):
         """Pronunciations of a word as lists of phones, or None if unknown."""
@@ -109,12 +131,14 @@ class Lexicon:
         ps = self.lookup(word)
         if ps is None:
             self.unknown[word.lower()] += 1
-            return {guess_syllables(word)}, False
+            ps = self.model_lookup(word)
+            if ps is None:
+                return {guess_syllables(word)}, False
         return {sum(1 for ph in p if VOWEL_PHONE.search(ph)) for p in ps}, True
 
     def rhyme_parts(self, word):
         """Phones from the last stressed vowel to the end, stress marks dropped."""
-        ps = self.lookup(word)
+        ps = self.lookup(word) or self.model_lookup(word)
         if ps is None:
             return {"~" + word.lower()[-3:]}, False
         parts = set()

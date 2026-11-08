@@ -1,7 +1,8 @@
 name: Gaiad meter
 
 # The Gaiad's verse form, checked on every change to a chapter: quatrains, ABAB rhyme, ten syllables a line
-# (no stress check). Pronunciation from CMUdict (General American) plus Gaiad/pronunciation.tsv. It checks and
+# (no stress check). Pronunciation from CMUdict (General American) plus Gaiad/pronunciation.tsv; other words from
+# the g2p_en model. It checks and
 # rewrites nothing; the job fails while any chapter fails. It does not block the site deploy.
 # The report is on the run's summary page; the corpus (word frequencies, hapax legomena, unknown words) and the
 # per-chapter issue lists are the "gaiad-meter-report" artifact.
@@ -37,7 +38,9 @@ jobs:
         with:
           python-version: "3.13"
 
-      - run: pip install cmudict
+      - run: |
+          pip install cmudict g2p_en
+          python -c "import nltk; [nltk.download(r, quiet=True) for r in ('averaged_perceptron_tagger_eng', 'cmudict')]"
 
       - name: Check the meter
         run: python Gaiad/epic/tools/validate_meter.py --out meter-report
