@@ -155,10 +155,10 @@ arrested them for heresy, and seized
 their gold: the charge was faith; the cause, finance,
 an order's treasure, and the king was pleased.
 
-The crusades were a household's war: the heirs
-of Abraham fought for their father's town,
-and when it ended, learning that was theirs
-came west, the same house's books, handed down.
+The crusades were a war of race and blood:
+the Frank against the Arab, {{c|2500|Jew}} and Greek;
+the cross was raised, but under it there stood
+contempt for every people they called weak.
 
 {{p|Europe}} would digest that exposure over centuries,
 and the {{x|Renaissance}} that emerged in the fourteenth century
