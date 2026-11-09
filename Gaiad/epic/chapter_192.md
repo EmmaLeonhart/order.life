@@ -1,19 +1,19 @@
 # Chapter 192: Muhammad and the Rise of Islam
 
 {{c|1911|Muhammad}} ran home shaking from the cave,
-wrapped himself in blankets, terrified.
-{{c|2758|Khadija}} comforted him, believed him,
-became the first Muslim at his side.
+and wrapped himself in blankets, terrified.
+He sought no founding; it was what {{c|472|God}} gave.
+{{c|2758|Khadija}} held him, and believed beside.
 
 The revelations continued for twenty-three years,
 verse by verse, surah by surah,
 collected after his death into the {{x|Quran}},
 the recitation, {{c|2740|Allah}}'s word, no error.
 
-The core message: {{c|2760|tawhid}}, the oneness of {{c|472|God}}.
-{{c|2740|Allah}} alone, no partners, no daughters,
-no trinity, no incarnation,
-the absolute one of all waters.
+The oneness of the one {{c|472|God}} was his core,
+the seal of prophets came from {{c|2599|Mani}}'s line,
+a chain of messengers sent long before,
+both {{x|Christian}} and the Manichee: one vine.
 
 The five pillars would crystallize:
 shahada — the profession of faith.
@@ -24,6 +24,16 @@ sawm — fasting during {{x|Ramadan}}.
 hajj — pilgrimage to {{p|Mecca}} once in life.
 Simple, clear, demanding, but doable,
 a structure for the whole of one's strife.
+
+On Friday, after prayer, the people ate
+together, bread and broth, the poor fed first,
+the {{x|Eucharist}} that churches celebrate,
+one table and one house, and none dispersed.
+
+It was the dearest rite the faith would keep;
+when golden ages fell to want and dearth,
+the meal grew thin; the {{x|Hajj}}, the prayers, ran deep,
+and still they eat, not knowing of its birth.
 
 For thirteen years in {{p|Mecca}} he would preach,
 and the {{c|1916|Quraysh}}, who held the {{p|Kaaba}}'s keys,
