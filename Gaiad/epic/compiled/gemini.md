@@ -1,1021 +1,307 @@
 # Gemini (7宮) - Days 169-196
 
 
-# Chapter 169: Confucius and Laozi
-
-In {{p|China}}, during the sixth and fifth centuries BCE—the same
-Centuries that produced {{c|2146|Zarathustra}}'s reforms, the {{p|Babylonian}}
-Exile, and {{p|Ionian}} philosophy—a parallel civilizational reimagining
-Was taking place. The {{p|Zhou Dynasty}}, established four centuries
-
-Earlier, had fragmented. Its feudal vassals had become effectively
-Independent kingdoms, warring among themselves for dominance.
-Central authority was nominal. The {{p|Zhou}} king at {{p|Luoyang}} presided
-Over the ritual calendar but could not enforce order. This period—
-
-The {{p|Spring and Autumn}} period, from seven-seventy-one to four-
-Seventy-six BCE, to be followed by the even more chaotic {{p|Warring States}}
-Period—was politically a disaster. But it was culturally a
-Flowering. Out of the disorder came the {{p|Hundred Schools of Thought}}:
-
-{{p|Confucianism}}, {{p|Daoism}}, {{p|Legalism}}, {{p|Mohism}}, the {{p|School of Names}},
-The {{p|Yin-Yang School}}, and others. {{p|Chinese}} philosophy was born in
-The breakdown of political order. And two of those schools—
-{{p|Confucianism}} and {{p|Daoism}}—would prove to be the most enduring.
-
-They would shape {{p|East Asian}} civilization for the next twenty-five
-Centuries. Their founders, {{c|1958|Confucius}} and {{c|2144|Laozi}}, stand at the
-Root of everything that followed.
-
-                                      {{c|1958|Confucius}}. In {{p|Chinese}},
-{{c|2295|Kong Fuzi}} or {{c|2296|Kongzi}}—"{{c|2297|Master Kong}}." Born in five-fifty-one BCE
-In the small state of {{p|Lu}}, in what is now {{p|Shandong Province}}. His
-Family was of minor aristocratic descent but had fallen on hard
-
-Times; his father died when {{c|1958|Confucius}} was three. He was raised
-By his mother in relative poverty. He received whatever education
-He could, studying the classical texts of the {{p|Zhou}} ritual tradition.
-He served in minor government posts in {{p|Lu}}, rising to become
-
-Minister of Justice or something equivalent, but his reforms
-Alienated powerful families and he was forced out. He then spent
-Fourteen years wandering from state to state, trying to find a
-Ruler who would implement his political philosophy. He found
-
-None. He returned to {{p|Lu}} and spent his last years teaching his
-Disciples and editing the classical texts. He died in four-seventy-nine
-BCE, considering himself a failure. He had accomplished nothing
-Politically. His ideas had been rejected by every ruler he
-
-Approached. His disciples were few. And yet, from these unpromising
-Materials, arose the most influential ethical philosophy ever
-Developed in {{p|East Asia}}. Because {{c|1958|Confucius}}'s disciples preserved
-His teachings in the {{p|Analects}} ({{p|Lunyu}}), a collection of his sayings
-
-And brief anecdotes, compiled probably several generations after
-His death. And subsequent generations of {{p|Confucian}} philosophers—
-{{c|2298|Mencius}}, {{c|2299|Xunzi}}, the {{p|Han}} dynasty scholars, the great
-{{p|Neo-Confucians}} of the {{p|Song}} dynasty, the {{p|Ming}} thinkers, the
-
-{{p|Korean}}, {{p|Japanese}}, and {{p|Vietnamese}} {{p|Confucians}}—would elaborate
-His insights into one of the world's great philosophical systems.
-A system that would eventually become the state ideology of every
-{{p|Chinese}} dynasty from the {{p|Han}} onward and of every {{p|East Asian}}
-
-Polity that adopted {{p|Chinese}} political culture. The rejected
-Wanderer became, posthumously, the teacher of half of humanity.
-
-                                                                 What
-Did {{c|1958|Confucius}} teach? At the core, an ethic of virtuous human
-
-Conduct grounded in five key relationships: ruler-subject, father-
-Son, husband-wife, elder brother-younger brother, friend-friend.
-Each relationship has its specific duties and virtues. The ruler
-Should govern with benevolence ({{p|ren}}, sometimes translated as
-
-"Humaneness" or "humanity"); the subject should serve with loyalty.
-The father should nurture; the son should exhibit filial piety
-({{p|xiao}}). The husband should lead righteously; the wife should
-Support dutifully. The elder brother should care for the younger;
-
-The younger should respect the elder. Friends should practice
-Mutual trustworthiness. These are not abstract principles; they
-Are concrete social obligations embedded in daily conduct. And the
-Whole social order depends on each person fulfilling their role
-
-Properly. When rulers rule with benevolence and subjects respond
-With loyalty, when fathers are good fathers and sons are good
-Sons, the whole society is in harmony. When these relationships
-Are disrupted—when rulers are tyrants, when sons abandon filial
-
-Obligation, when wives disrespect husbands—the society falls into
-Chaos. The political disorder of the {{p|Spring and Autumn}} period was,
-In {{c|1958|Confucius}}'s analysis, the symptom of ethical disorder. And
-The remedy was to restore proper ethical conduct, starting with
-
-The ruler and extending outward through the society. A ruler who
-Was personally virtuous, who cultivated {{p|ren}} and practiced it
-Consistently, would naturally attract loyal subjects and set an
-Example that would spread through the social fabric. "The virtue
-
-Of the wind bends the grass," {{c|1958|Confucius}} said. Political reform
-Begins with moral self-cultivation. This is a very distinctive
-Ethical vision. It does not appeal to divine commands. It does
-Not rely on reward and punishment in the afterlife. It does not
-
-Invoke abstract moral principles derived from reason alone. It
-Grounds morality in specific, role-based human relationships and
-In the cultivation of personal virtue through learning, ritual,
-And reflection. The good life, for {{c|1958|Confucius}}, is the life of
-
-The {{p|junzi}}—the "gentleman" or "exemplary person"—who has
-Cultivated himself (and it is usually "himself," though {{c|1958|Confucius}}
-Was occasionally more inclusive than his later tradition) through
-Study of the classics, mastery of ritual propriety, and practice
-
-Of benevolent conduct. The {{p|junzi}} is not born but made, through
-Continuous self-cultivation. And this self-cultivation is both
-An ethical project and an aesthetic one. {{c|1958|Confucius}} emphasized
-Music, poetry, and ritual as essential to the cultivated life.
-
-Beauty and morality were linked. A properly cultivated person
-Would be sensitive to beauty and grace in human interactions and
-In artistic expression. The {{p|Book of Songs}}, the {{p|Book of Rites}},
-The {{p|Book of Changes}}, the {{p|Spring and Autumn Annals}}—{{c|1958|Confucius}}
-
-Urged study of these {{p|Five Classics}} not as dry scholarly exercise
-But as formation of sensibility. One became a better person by
-Immersion in the cultural heritage. This emphasis on education
-Would become one of the most distinctive features of {{p|Chinese}}
-
-Civilization: the sense that moral cultivation requires extensive
-Study of canonical texts, that the scholar-official is the ideal
-Human type, that political power should be exercised by educated
-Persons rather than by hereditary aristocrats or warrior elites.
-
-Over the following centuries, this vision would be institutionalized
-In the {{p|Chinese}} civil service examination system, which for
-Fifteen hundred years selected officials based on their mastery
-Of {{p|Confucian}} classics rather than their birth. The examination
-
-System produced a meritocratic elite—or something closer to one
-Than any other pre-modern society achieved. It shaped the character
-Of {{p|Chinese}} bureaucracy and, by extension, {{p|Chinese}} government,
-More profoundly than any other single institution. And it rested
-
-Entirely on the {{p|Confucian}} conviction that moral and intellectual
-Cultivation should be the primary qualification for political power.
-
-                                                                     And
-Now {{c|2144|Laozi}}, the old master, who lived and left his book. The{{fn|Many historians doubt that Laozi was a single historical person, and date the Daodejing to the fourth century BCE or later. The Gaiad holds that he lived.}}
-Traditional account, in {{c|2300|Sima Qian}}'s {{p|Records of the Grand Historian}}
-(Written in the first century BCE, several centuries after the
-Presumed date), places {{c|2144|Laozi}} as an older contemporary of {{c|1958|Confucius}},
-
-An archivist at the {{p|Zhou}} court whom {{c|1958|Confucius}} once visited for
-Advice. In this telling, {{c|2144|Laozi}}—"the {{c|2301|Old Master}}"—was older, wiser,
-And more withdrawn than {{c|1958|Confucius}}. When {{c|1958|Confucius}} sought him out,
-{{c|2144|Laozi}} rebuked him for his worldly ambition and urged him to let
-
-Go of his attempts to reform society. {{c|2144|Laozi}} eventually left the
-{{p|Zhou}} court, disillusioned with its decay, and rode a water-
-Buffalo westward toward the borderlands. At a mountain pass, the
-Gate-keeper {{c|2302|Yinxi}} recognized him and asked him to write down his
-
-Teachings before leaving. {{c|2144|Laozi}} agreed and composed the five
-Thousand characters of the {{p|Dao De Jing}}, then departed into the
-West never to be seen again. This is a lovely story. It is also
-Almost certainly a composite myth. The actual composition of the
-
-{{p|Dao De Jing}} probably happened in stages between the fifth and
-Third centuries BCE, with multiple authors and editors contributing.
-The text we have is a synthesis rather than the work of a single
-Historical figure. But the figure of {{c|2144|Laozi}}—whether real or
-
-Representative—has functioned as the patron sage of {{p|Daoism}} for
-The tradition that gathered around the text. So we may speak of
-{{c|2144|Laozi}} as the traditional founder, with appropriate caveats about
-The historical evidence.
-
-                             What does the {{p|Dao De Jing}} teach? The
-Title translates approximately as "The Classic of the Way and Its
-Power"—the {{p|Dao}} being "the Way" (the cosmic principle of how
-Things fundamentally are and flow), and the {{p|De}} being "power" or
-
-"Virtue" (the specific quality of being that emerges from alignment
-With the {{p|Dao}}). The text is short, dense, often paradoxical, and
-Sometimes willfully cryptic. Its central insights might be
-Summarized as follows. The {{p|Dao}}, the fundamental principle of
-
-Reality, cannot be fully captured in language or concepts. The
-Very first line of the text acknowledges this: "The {{p|Dao}} that can
-Be spoken is not the eternal {{p|Dao}}." Language and thought are
-Useful tools but they are not adequate to the full reality they
-
-Point toward. The {{p|Dao}} operates through spontaneous, effortless
-Unfolding—{{p|wu wei}}, "action without forcing." When we impose our
-Will on things through forceful intervention, we distort the
-Natural flow of reality and often produce the opposite of what we
-
-Intend. The wise person ({{p|sheng ren}}) learns to act in accordance
-With the {{p|Dao}} rather than against it, achieving much through
-Apparently little. "The softest things in the world overcome the
-Hardest," says the {{p|Dao De Jing}}. Water, which yields to every
-
-Obstacle, wears away stone over time. Flexibility is stronger than
-Rigidity. Receptivity is more powerful than aggression. Silence
-Is more effective than shouting. The political implications are
-Radical. A ruler who tries to control everything exhausts himself
-
-And produces rebellion. A ruler who governs lightly, who allows
-The natural patterns of human life to flourish, produces harmony
-Without effort. "Govern a large state as you would cook a small
-Fish"—do not over-manipulate, do not interfere constantly, let
-
-Things be. The less a government does, the better it governs.
-This is a radical critique of bureaucratic and activist government—
-A critique directly opposed to the {{p|Confucian}} emphasis on virtuous
-Rulers and careful ritual management. Where {{c|1958|Confucius}} urges the
-
-Ruler to cultivate himself and act upon the society with benevolent
-Example, {{c|2144|Laozi}} urges the ruler to cultivate non-action and let
-The society manage itself. These are different political visions.
-Different ethical visions. Different conceptions of the good life.
-
-And yet both emerge from the same cultural matrix, responding to
-The same civilizational crisis of late {{p|Zhou}} political disorder.
-
-                                                                   And
-In practice, the two traditions have not been mutually exclusive
-
-But complementary. {{p|Chinese}} civilization has, for millennia, held
-Both together. {{c|2303|Confucianism}} provides the public ethics of social
-Life—the rules of propriety, the rituals of court and family, the
-Moral education that shapes the gentleman-official. {{p|Daoism}} provides
-
-The private counterweight—the mystical turn inward, the appreciation
-For nature's spontaneous patterns, the willingness to step back
-From worldly ambition, the aesthetic sensibility that valued the
-Informal and the natural over the formal and the contrived. A
-
-{{p|Chinese}} scholar-official spent his public life performing
-{{p|Confucian}} duties—serving in government, managing his family,
-Participating in ritual occasions. But his private life, his
-Poetry, his painting, his interior cultivation, often drew on
-
-{{p|Daoist}} sensibilities—solitary walks in the mountains, drinking
-Tea by a stream, writing verse that captured fleeting natural
-Moments, finding wisdom in lightness and emptiness. The two
-Traditions together produced the distinctive sensibility of
-
-{{p|Chinese}} high culture: ethically {{p|Confucian}}, aesthetically
-{{p|Daoist}}, with a capacity to hold both orientations simultaneously
-Without seeing them as contradictory. This complementarity would
-Later be supplemented by {{p|Buddhism}}, when it arrived in {{p|China}} from
-
-{{p|India}} in the early centuries CE. {{p|Chinese}} intellectual life would
-Come to be described as a "three-teachings" civilization:
-{{p|Confucian}}, {{p|Daoist}}, and {{p|Buddhist}}—three teachings that each
-Provided something distinctive and that together made a complete
-
-Cultural system. An educated {{p|Chinese}} person could simultaneously
-Be {{p|Confucian}} in civic life, {{p|Daoist}} in aesthetic life, and {{p|Buddhist}}
-In spiritual life, without experiencing this as intellectual
-Inconsistency. The syncretic genius of {{p|Chinese}} civilization is
-
-One of its most distinctive features, and its roots are in this
-{{p|Spring and Autumn}} period moment when multiple philosophical
-Traditions emerged from the same crisis and learned to coexist.
-
-                                                                 The
-{{x|Gaiad}} reads {{c|1958|Confucius}} and {{c|2144|Laozi}} together as the twin poles of
-{{p|East Asian}} civilizational thought. Each is incomplete without
-The other. {{c|1958|Confucius}} gives us the ethics of social engagement,
-The seriousness of moral cultivation, the dignity of institutional
-
-Life. {{c|2144|Laozi}} gives us the counterweight: the skepticism toward
-Institutions, the awareness that reality exceeds our concepts, the
-Turn toward nature, the recognition that sometimes not acting is
-The wisest action. Together, they are one of the great civilizational
-
-Philosophies. Separately, each would be impoverished. The fact that
-{{p|Chinese}} culture held them together, rather than forcing a choice
-Between them, is a sign of its intellectual sophistication. And
-The poem honours this. It keeps no score
-Between the many gods and one; the door
-Is one, the house is one, and {{p|China}}'s way
-Of keeping both its teachings, day by day,
-Is how one house keeps its own rites in view:
-Not rival faiths, but partners, are the two.
-
-Not contradictions but complements. The civilization that produced
-Them knew how to live in the space between them. That skill is
-Worth learning.
-
-                  And both traditions spread beyond {{p|China}}. {{p|Confucianism}}
-Spread to {{p|Korea}} (where it would become even more deeply institutional
-
-Than in {{p|China}} itself, particularly under the {{p|Joseon Dynasty}}), to
-{{p|Vietnam}} (where it shaped the mandarin-bureaucratic system), to
-{{p|Japan}} (where it was adapted to the samurai culture of {{p|Bushido}}).
-{{p|Daoism}} spread more diffusely but was also carried along the same
-
-Routes. Together they formed the intellectual infrastructure of
-The {{p|East Asian}} cultural sphere—a sphere that by the nineteenth
-Century CE included perhaps a quarter of the world's population.
-The ideas worked out by impoverished teachers in the chaotic
-
-Small states of sixth- and fifth-century BCE {{p|China}} would shape
-The lives of billions for two and a half millennia.
-
-                                                         {{c|1958|Confucius}}. {{c|2144|Laozi}}.
-{{p|Ren}} and {{p|wu wei}}. Filial piety and spontaneous flow. The {{p|junzi}}
-
-And the {{p|sheng ren}}. The {{p|Analects}} and the {{p|Dao De Jing}}. Moral
-Cultivation and natural spontaneity. Public virtue and private
-Mysticism. Two poles of {{p|Chinese}} civilizational thought.
-
-The {{p|Spring and Autumn}} philosophers in an age of disorder. The
-{{p|Hundred Schools of Thought}}. The foundation of {{p|East Asian}}
-Intellectual tradition. The twin traditions that, together, would
-Shape a civilization.
-
-{{c|1958|Confucius}} and {{c|2144|Laozi}}. Paired pillars of the {{p|East Asian}} mind.
-
-
-# Chapter 170: The Buddha
-
-In the {{p|Gangetic}} plain of northern {{p|India}}, in the sixth and fifth
-Centuries BCE, the same {{x|Axial Age}} ferment that produced {{c|2146|Zarathustra}},
-{{c|1958|Confucius}}, {{c|2144|Laozi}}, the {{p|Judean}} exile, and {{p|Ionian}} philosophy was
-Also transforming {{p|Indian}} religious thought. And at the heart of
-
-That transformation was a single figure whose teachings would
-Spread across {{p|Asia}} and eventually the world, shaping the lives
-Of hundreds of millions. {{c|2304|Siddhartha Gautama}}. The {{c|1959|Buddha}}—"the
-Awakened one."
-
-                  Begin with context. The {{p|Indian}} religious landscape
-In the sixth century BCE was in turmoil. The {{p|Vedic}} religion
-Brought by the {{p|Aryans}} had evolved over centuries into an
-Elaborate sacrificial system dominated by the {{p|Brahmin}} priestly
-
-Caste. {{p|Brahmins}} performed increasingly complex {{p|fire sacrifices}}
-That were thought to maintain cosmic order and benefit their
-Patrons. But this system was under critique. Philosophical
-Movements called the {{p|Shramana}} traditions had arisen—ascetic,
-
-Wandering, often celibate traditions that rejected {{p|Brahmin}}
-Authority and sought liberation through individual spiritual
-Practice rather than through sacrificial ritual. The {{p|Upanishads}},
-The final layer of the {{p|Vedic}} corpus, were being composed during
-
-This period, and they represented a shift within {{p|Vedic}} thought
-Itself—from outer ritual to inner contemplation, from the efficacy
-Of sacrifice to the realization of the identity between {{c|2305|Atman}}
-(The individual self) and {{c|2306|Brahman}} (the universal reality). The
-
-Concept of {{p|karma}} (action and its consequences), the concept of
-{{p|samsara}} (the endless cycle of rebirth), and the concept of
-{{p|moksha}} (liberation from that cycle) were being elaborated. The
-Question that drove this entire religious ferment was: how can
-
-A human being achieve liberation from suffering and the endless
-Cycle of death and rebirth? Different traditions gave different
-Answers. The {{p|Upanishadic}} answer was philosophical insight into
-The identity of {{c|2305|Atman}} and {{c|2306|Brahman}}. The {{p|Jain}} answer—developed by
-
-{{c|2145|Mahavira}}, a near-contemporary of the {{c|1959|Buddha}}—was extreme asceticism,
-Including practices of such severity that some {{p|Jain}} monks
-Eventually starved themselves to death in the ultimate renunciation.
-The {{p|Ajivika}} answer (now lost but significant in its time) was
-
-A fatalistic determinism in which all things unfold according to
-A cosmic pattern that could not be altered by human action. The
-{{p|Materialists}} (the {{p|Charvaka}} school) denied the whole framework
-Of rebirth and karma, arguing that there was only this life and
-
-Death ended it. And the {{p|Brahmins}} continued to perform their
-Sacrifices and insist that their tradition was the proper path.
-Into this contested field stepped {{c|2304|Siddhartha Gautama}}.
-
-                                                                 He
-Was born around five-sixty-three BCE (traditional dating) or
-Four-eighty BCE (recent scholarly dating; the {{x|Gaiad}} will use the
-Traditional date for narrative convenience) in {{p|Lumbini}}, a small
-Village in what is now southern {{p|Nepal}}. His father {{c|2307|Shuddhodana}}
-
-Was a chieftain of the {{p|Shakya}} clan, a minor kshatriya (warrior)
-Lineage. His mother {{c|2308|Maya}} died shortly after his birth, and he
-Was raised by her sister {{c|2309|Mahapajapati}}. The stories of his
-Childhood that survive are mostly later hagiography, but they
-
-Emphasize two themes: that he was raised in extraordinary luxury,
-Shielded from the harsh realities of ordinary life; and that he
-Was destined, according to the sages who read his birth signs,
-To become either a great king or a great spiritual teacher. His
-
-Father, hoping for the former, tried to keep him insulated from
-Anything that might turn his mind to spiritual questions. He was
-Married at sixteen to {{c|2310|Yashodhara}}. They had a son, {{c|2311|Rahula}}. He
-Lived a life of sheltered privilege. And then, according to the
-
-Tradition, at age twenty-nine, he insisted on venturing outside
-The palace walls. He saw "Four Sights" that changed his life: an
-Old man, a sick man, a corpse, and a wandering ascetic. Each of
-The first three confronted him with realities he had been shielded
-
-From. Age, disease, and death—the fundamental facts of embodied
-Existence. The fourth, the ascetic, suggested a different way of
-Living in the face of those realities. That night, {{c|2312|Siddhartha}}
-Left his palace, his wife, and his infant son. He cut off his
-
-Hair, put on the robes of a wandering seeker, and began his search
-For a way out of suffering.
-
-                                He first studied with two famous
-Meditation teachers, {{c|2313|Alara Kalama}} and {{c|2314|Udaka Ramaputta}}. He
-
-Mastered their techniques quickly—mastering the attainment of
-Deep meditative absorption—but he realized that these attainments,
-While profound, did not eliminate suffering. Something deeper was
-Needed. He then joined a group of five ascetics and practiced
-
-Severe self-mortification for six years: extreme fasting, breath
-Retention, exposure to extremes of heat and cold. He became so
-Emaciated that, according to tradition, he could feel his spine
-When he pressed on his stomach. And still, liberation did not
-
-Come. He realized that extreme asceticism was as much a dead end
-As luxury had been. Both extremes—indulgence and self-torture—
-Kept the mind fixed on the body rather than freeing it. There must
-Be a middle way between them. He accepted a bowl of rice pudding
-
-From a young village woman named {{c|2315|Sujata}}, recovering some strength.
-His five ascetic companions, disgusted by what they saw as his
-Weakness, abandoned him. He was alone. And he sat down beneath a
-Fig tree at {{p|Bodh Gaya}} in what is now {{p|Bihar}}, and he resolved not
-
-To move until he had found what he was seeking. He sat through
-The night. According to the tradition, he was assailed during
-This night by {{c|2316|Mara}}, the personification of death and illusion,
-Who tempted him with pleasure, fear, and the claim that {{c|2312|Siddhartha}}
-
-Had no right to the awakening he sought. {{c|2312|Siddhartha}} touched the
-Earth as his witness—the famous "earth-touching" gesture preserved
-In countless {{p|Buddhist}} statues—and {{c|2316|Mara}} was defeated. As dawn
-Broke, {{c|2312|Siddhartha}} understood. He saw the nature of suffering and
-
-Its causes. He saw the path to its cessation. He became the
-{{c|1959|Buddha}}, "the awakened one." He was thirty-five years old.
-
-                                                                 What
-Did he realize? At the core of the {{c|1959|Buddha}}'s enlightenment was
-
-What would become known as the {{p|Four Noble Truths}}. First: there
-Is suffering ({{p|dukkha}}). All conditioned existence is characterized
-By unsatisfactoriness—not just obvious pain and misery, but also
-The subtle dissatisfaction that shadows even our pleasures, the
-
-Knowledge that they will end, the impermanence that makes every
-Attainment temporary. Second: suffering has a cause. Its cause is
-Craving ({{p|tanha}}), the grasping for pleasant experiences and the
-Aversion to unpleasant experiences. Craving arises from ignorance—
-
-Ignorance of the true nature of reality. Third: suffering can end.
-When craving is eliminated, suffering ceases. This cessation is
-{{p|nirvana}}, literally "blowing out" (as a flame is blown out when
-Its fuel is exhausted). Fourth: there is a path to the ending of
-
-Suffering. This is the {{p|Noble Eightfold Path}}: right view, right
-Intention, right speech, right action, right livelihood, right
-Effort, right mindfulness, and right concentration. The path is
-Ethical, psychological, and contemplative. It is neither ascetic
-
-Self-torture nor sensual indulgence but the middle way. And the
-Path is practical. It can be walked by anyone who commits to it.
-Another key insight: the {{p|doctrine of no-self}} ({{p|anatta}}). Unlike
-The {{p|Upanishadic}} tradition, which identified an eternal {{c|2305|Atman}}
-
-(True self) as the key to liberation, the {{c|1959|Buddha}} taught that there
-Is no permanent, unchanging self. What we call the self is a
-Constantly changing flux of physical and mental processes—form,
-Feeling, perception, mental formations, consciousness—which
-
-Together constitute the {{p|five aggregates}} ({{p|skandhas}}) of personhood
-But none of which, singly or collectively, is a permanent self.
-The illusion of a permanent self is one of the root causes of
-Craving and suffering. When this illusion is seen through, craving
-
-Falls away naturally. This {{p|anatta}} doctrine is the most
-Radical of the {{c|1959|Buddha}}'s insights, and it is the one that most
-Sharply distinguishes {{p|Buddhism}} from the other {{p|Indian}} religious
-Traditions. It is also one of the most counterintuitive teachings
-
-In world religion, because it challenges the foundational
-Assumption of almost every spiritual tradition: that there is a
-Real self whose welfare we are pursuing. The {{c|1959|Buddha}} says there
-Is no such self. There is only the flux. And the pursuit of
-
-Liberation is not the saving of a self but the seeing-through of
-The self-illusion.
-
-                      {{c|1959|Buddha}} spent the rest of his life—forty-five
-Years—teaching. He attracted disciples. He founded the {{p|sangha}},
-
-The monastic community. He traveled through the {{p|Gangetic}} plain,
-Teaching to anyone who would listen. Kings came to him. Beggars
-Came to him. {{c|2317|Brahmins}} came to him. {{p|Untouchables}} came to him.
-He taught them all. He did not distinguish by caste. This was
-
-Itself a radical position in {{p|Indian}} society. His {{p|sangha}} included
-Men of every caste, and eventually women as well (though his
-Admission of women, at the urging of his foster mother {{c|2309|Mahapajapati}}
-And his disciple {{c|2318|Ananda}}, came reluctantly and with special
-
-Conditions that would keep nuns subordinate to monks). He taught
-Not in {{p|Sanskrit}}—the sacred language of the {{p|Brahmins}}—but in
-{{p|Magadhi Prakrit}} or similar vernacular, the ordinary language of
-The people. This democratization of religious access was another
-
-Radical feature of the early {{p|Buddhist}} community. And the
-{{c|1959|Buddha}}'s teaching style was pragmatic. He refused to answer
-Metaphysical questions that he considered useless for liberation—
-Questions like "is the universe eternal?" or "is the self the
-
-Same as the body or different?" or "does the enlightened one exist
-After death?" He compared such questions to a man wounded by a
-Poisoned arrow who refuses to let the arrow be removed until he
-Knows the name of the archer, the material of the bow, and the
-
-Fletching of the arrow. By the time he has his answers, he is
-Dead. The {{c|1959|Buddha}}'s concern was always immediate: the alleviation
-Of suffering, the path to liberation. Metaphysical speculation was
-A distraction. This pragmatic approach made early {{p|Buddhism}} quite
-
-Different from religious philosophies that centered on metaphysical
-Doctrines. It was a path more than a creed. Later {{p|Buddhism}} would
-Develop elaborate metaphysics and cosmology, but the historical
-{{c|1959|Buddha}} himself seems to have resisted such elaboration.
-
-                                                               He
-Died around four-eighty-three BCE at {{p|Kushinagar}}, at the age of
-Eighty. His last words, according to tradition, were: "All
-Conditioned things are impermanent. Strive on with diligence." He
-
-Had founded no institution but the {{p|sangha}}. He had left no written
-Scripture—his teachings were preserved orally by his disciples and
-Would not be committed to writing for several centuries. He had
-Not appointed a successor. The {{p|sangha}} itself was to be the ongoing
-
-Community, with the {{p|Dharma}} (his teaching) as its guide. And the
-{{p|sangha}} carried forward his teachings, elaborating, systematizing,
-Sometimes disputing about their interpretation. Within a couple
-Of centuries of his death, {{p|Buddhism}} had begun to spread beyond
-
-Its original region. Under {{c|2319|Emperor Ashoka}} in the third century
-BCE—a {{p|Mauryan}} ruler who converted to {{p|Buddhism}} after the
-Horrors of the {{p|Kalinga War}}—{{p|Buddhism}} became effectively the state
-Religion of most of the {{p|Indian}} subcontinent. {{c|2320|Ashoka}} sent missions
-
-Westward to the {{p|Hellenistic}} world, southward to {{p|Sri Lanka}},
-Eastward toward {{p|Southeast Asia}}, and likely northward across the
-{{p|Himalayas}}. {{p|Buddhism}} began its transformation from an {{p|Indian}}
-Regional tradition into a pan-{{p|Asian}} religion. Subsequent centuries
-
-Would see {{p|Buddhism}} split into multiple schools—the {{p|Theravada}}
-Of {{p|Sri Lanka}} and {{p|Southeast Asia}}, the {{p|Mahayana}} of {{p|Central Asia}},
-{{p|China}}, {{p|Korea}}, {{p|Japan}}, and {{p|Vietnam}}, and later the {{p|Vajrayana}} of
-{{p|Tibet}} and the {{p|Himalayas}}. Each would develop its own elaborate
-
-Textual traditions, ritual practices, and philosophical doctrines.
-{{p|Buddhism}} would eventually decline in {{p|India}} itself, partly
-Absorbed back into {{p|Hindu}} traditions (with the {{c|1959|Buddha}} reimagined
-As an avatar of {{c|2072|Vishnu}}), partly disrupted by {{p|Islamic}} conquests
-
-That destroyed major {{p|Buddhist}} centers like {{p|Nalanda}} university
-In the twelfth century CE. But by that time, {{p|Buddhism}} was firmly
-Established across the rest of {{p|Asia}}, where it remains a major
-Civilizational force to this day. Some five hundred million
-
-{{p|Buddhists}} now live worldwide, with major populations in {{p|China}},
-{{p|Japan}}, {{p|Korea}}, {{p|Thailand}}, {{p|Myanmar}}, {{p|Sri Lanka}}, {{p|Cambodia}}, {{p|Laos}},
-{{p|Vietnam}}, {{p|Tibet}}, {{p|Mongolia}}, and—increasingly since the twentieth
-Century—{{p|Western}} countries. The {{c|1959|Buddha}}'s teaching, which began
-
-As the reflection of a single wandering ascetic under a fig tree,
-Has become one of the most widely practiced religions in the world.
-
-                                                                    And
-The {{x|Gaiad}} honors the {{c|1959|Buddha}} as one of the supreme figures of the
-
-{{x|Axial Age}}. His insights into the nature of suffering and its
-Causes, his articulation of ethical conduct, his recognition of
-The constructed nature of the self, his refusal to privilege any
-Caste or class in access to liberation—these are among the most
-
-Profound contributions to human understanding ever made. The
-{{p|Buddhist}} tradition has produced some of the greatest philosophers
-In human history—{{c|2321|Nagarjuna}}, {{c|2322|Vasubandhu}}, {{c|2323|Asanga}}, {{c|2324|Dogen}},
-{{c|2325|Hui-neng}}, {{c|2326|Chandrakirti}}, {{c|2327|Dharmakirti}}—whose subtle explorations
-
-Of consciousness, emptiness, and causation rival anything in
-Western philosophy. The {{p|Buddhist}} contemplative traditions—the
-Various schools of meditation that trace back to the {{c|1959|Buddha}}'s
-Own practice—have produced detailed empirical investigations of
-
-The mind that are now being integrated with {{p|Western}} psychology
-And neuroscience. The {{p|Buddhist}} ethic of compassion has inspired
-Humanitarian movements worldwide. The {{p|Buddhist}} cosmology, with
-Its vast scales of time and space and its teaching of rebirth,
-
-Has expanded human imagination about the structure of existence.
-The {{p|Buddhist}} art and architecture—from the {{p|Ajanta Caves}} to
-{{p|Borobudur}} to the {{p|Great Buddha}} of {{p|Kamakura}}—is among the greatest
-Religious art produced anywhere. The {{p|Buddhist}} tradition is vast,
-
-Diverse, and enormously rich. And it all traces back to the
-Young prince who left his palace and sat under the fig tree and
-Found the middle way.
-
-                         One more point worth making. The {{c|1959|Buddha}}'s
-Teaching is often contrasted with monotheistic traditions on the
-Question of divine existence. {{p|Buddhism}} is sometimes described as
-Atheistic, because the {{c|1959|Buddha}} did not affirm a creator god and
-Because {{p|Buddhist}} practice does not depend on relationship with
-
-Such a god. But the reality is more nuanced. {{p|Buddhism}} acknowledges
-The existence of many gods ({{p|devas}}) who inhabit the various
-Heavenly realms of the {{p|Buddhist}} cosmology. These gods are
-Long-lived and powerful but they are still subject to the cycle
-
-Of rebirth and, like humans, must eventually work out their own
-Liberation. The {{c|1959|Buddha}} is above them in spiritual attainment
-Because he has achieved liberation while they have not. The
-{{p|Buddhist}} position is not atheism but a refusal to grant ultimate
-
-Importance to any god or gods. The gods exist; they are not
-Ultimately relevant. What is ultimately relevant is each sentient
-Being's own road to freedom. So our song:
-The gods are many, and they live for long,
-But none of them the centre; all along
-This book has said the same. No second creed
-Stands here beside our own: the {{c|1959|Buddha}}'s seed
-Is our own rite, the middle way our road,
-Kept under names his country's tongue bestowed.
-
-{{c|2304|Siddhartha Gautama}}. The
-Prince who left his palace. The ascetic who rejected both luxury
-
-And self-torture. The seeker under the fig tree at {{p|Bodh Gaya}}.
-The {{c|1959|Buddha}} who saw the {{p|Four Noble Truths}}. The teacher of the
-{{p|Eightfold Path}}. The founder of the {{p|sangha}}. The wanderer who
-Taught for forty-five years. The one who died at {{p|Kushinagar}}
-
-With the last words, "Strive on with diligence." The one who
-Left no writings, no institution beyond the community, no
-Successor—and yet whose teaching spread across a continent and
-A world.
-
-            {{c|1959|Buddha}}. One of the supreme sons of the {{x|Axial Age}}.
-The one who showed that liberation from suffering was accessible
-Through disciplined practice rather than through priestly mediation
-Or ecstatic grace. The one whose compassion extended to all
-
-Sentient beings without distinction of caste or species. The one
-Whose teaching is, still today, a living path for hundreds of
-Millions.
-
-             The {{c|1959|Buddha}}. Awakened one.
-
-
-# Chapter 171: The Mahabharata
-
-The {{p|Mahabharata}}. One hundred thousand verses. Nearly two million
-Words. The longest epic poem in world literature, seven times
-Longer than the {{p|Iliad}} and {{p|Odyssey}} combined, four times longer
-Than the {{p|Bible}}. A text that {{p|India}} has carried at the center of
-
-Its cultural imagination for two and a half thousand years. A
-Text that has been read, recited, performed, adapted, and reinterpreted
-In every generation. A text that, more than any other, has shaped
-The {{p|Hindu}} moral and religious world. A text, finally, of almost
-
-Unfathomable depth—containing within itself dharma treatises,
-Philosophical dialogues, creation myths, hymns, legal codes,
-Political theory, love poetry, and—at its absolute center—the
-{{p|Bhagavad Gita}}, which has become for {{p|Hinduism}} something like
-
-What the {{p|Sermon on the Mount}} is for {{p|Christianity}}: a densely
-Compressed articulation of the tradition's core vision, accessible
-In isolation from the larger corpus and yet illuminating it
-Entirely. This chapter of the {{x|Gaiad}} will treat the {{p|Mahabharata}}
-
-In the same way the previous chapter treated the {{p|Ramayana}}: as
-A singular event in the history of human narrative imagination,
-Worthy of extended contemplation, standing at the center of
-{{p|Indian}} civilization as {{c|1957|Homer}} stands at the center of {{p|Greek}}
-
-Civilization.
-
-                  The traditional author is {{c|2328|Vyasa}}—literally "the
-Compiler"—a sage who is also a character in the epic itself.
-Within the narrative, {{c|2328|Vyasa}} is the biological grandfather of the
-
-Main protagonists: he is the father of {{c|2329|Dhritarashtra}}, {{c|2330|Pandu}}, and
-{{c|2331|Vidura}}, whose lines generate the {{p|Kauravas}} and {{p|Pandavas}} whose
-Conflict is the epic's central action. {{c|2328|Vyasa}} witnesses the events
-He then recounts. This recursive structure—in which the author is
-
-Both teller and participant—is characteristic of the {{p|Mahabharata}}'s
-Narrative complexity. It is a story that contains stories, that
-Reflects on itself, that invites its reader into an endless
-Hermeneutic process. Historically, of course, no single author
-
-Produced the {{p|Mahabharata}}. It grew over centuries through multiple
-Hands, probably beginning with a shorter core epic in the early
-Centuries BCE and expanding through additions and interpolations
-Until it reached something like its final form around four-hundred
-
-CE. Its compositional history is as complex as any text in world
-Literature. But traditional {{p|Hindu}} attribution gives the work to
-{{c|2328|Vyasa}}, and the {{x|Gaiad}} will use this convention for narrative ease.
-
-The core story. The {{p|Kuru}} dynasty, ruling from {{p|Hastinapura}} near
-What is now {{p|Delhi}}, is split between two branches of cousins: the
-{{p|Pandavas}}, five brothers born to {{c|2330|Pandu}}; and the {{p|Kauravas}}, one
-Hundred brothers born to {{c|2329|Dhritarashtra}}. Both groups have legitimate
-
-Claims to the throne—{{c|2329|Dhritarashtra}} was born first but is blind,
-Which disqualifies him; {{c|2330|Pandu}} therefore became king but died
-Young. Now {{c|2329|Dhritarashtra}} rules as regent for the generation of
-Cousins, and tensions escalate between his son {{c|2332|Duryodhana}} (the
-
-Eldest {{p|Kaurava}}) and {{c|2124|Yudhishthira}} (the eldest {{p|Pandava}}). The five
-{{p|Pandava}} brothers are {{c|2124|Yudhishthira}} (dharma-embodied, righteous,
-The future rightful king), {{c|2333|Bhima}} (enormously strong, impulsive,
-Loyal), {{c|2334|Arjuna}} (the greatest archer, a warrior of unmatched
-
-Skill), {{c|2335|Nakula}} and {{c|2336|Sahadeva}} (twins, handsome, skilled in various
-Arts). They share a single wife, {{c|2337|Draupadi}}, who is won by
-{{c|2334|Arjuna}} in an archery contest and, through an unusual misunderstanding
-Involving their mother {{c|2338|Kunti}}, becomes wife to all five brothers.
-
-This polyandrous marriage is one of the most famously anomalous
-Features of the {{p|Mahabharata}}—it fits no standard {{p|Indian}} cultural
-Pattern, and its presence in the epic has generated endless
-Interpretation. The hundred {{p|Kauravas}}, led by {{c|2332|Duryodhana}}, envy
-
-And resent the {{p|Pandavas}}. A series of attempts on {{p|Pandava}} lives
-Ensue—a house of lac built to be burned around them, from which
-They barely escape; a poisoned sweet; various ambushes. The
-{{p|Pandavas}} survive. Then comes the fatal dice game. {{c|2332|Duryodhana}},
-
-With the aid of his uncle {{c|2339|Shakuni}}, a skilled player with loaded
-Dice, invites {{c|2124|Yudhishthira}} to a gambling match. {{c|2124|Yudhishthira}},
-Addicted to dice-play but committed to playing when invited,
-Loses everything: his kingdom, his wealth, his brothers' freedom,
-
-His own freedom, and finally {{c|2337|Draupadi}} herself. She is dragged
-Into the assembly hall, where the {{p|Kauravas}} attempt to strip her
-Publicly—an act of extreme humiliation. At the last moment, the
-God {{c|2340|Krishna}} miraculously extends her sari to infinite length
-
-So she cannot be disrobed. Her honor is preserved, but the
-Humiliation is never forgotten. Eventually a compromise is reached:
-The {{p|Pandavas}} will go into exile for twelve years, plus a
-Thirteenth year in which they must remain incognito. If they
-
-Complete this exile successfully, they will recover their kingdom.
-They complete it. But {{c|2332|Duryodhana}} refuses to honor the agreement.
-He will not give back their kingdom. War becomes inevitable. The
-Great {{p|Kurukshetra War}}—the climactic event of the epic—is fought
-
-Between the {{p|Pandava}} and {{p|Kaurava}} coalitions over eighteen days.
-Every major ruling house of {{p|Indian}} civilization takes sides. The
-Carnage is apocalyptic. By the end, almost every major warrior is
-Dead. {{c|2332|Duryodhana}}, mortally wounded, lies dying on the battlefield.
-
-All his brothers are dead. Most of the great teachers and heroes
-Are dead. The victorious {{p|Pandavas}}, who have won but at unbearable
-Cost, are left to survey a field of corpses that includes their
-Uncles, cousins, teachers, friends. {{c|2124|Yudhishthira}} is crowned king.
-
-But the victory is ashes. He reigns for thirty-six years, then
-Abdicates and walks with his brothers and {{c|2337|Draupadi}} toward the
-{{p|Himalayas}} in a final pilgrimage to death. One by one they fall,
-Until only {{c|2124|Yudhishthira}} and a dog that has accompanied them
-
-Reach the peak. The dog, it turns out, is the god of dharma
-Testing {{c|2124|Yudhishthira}}. He passes the test by refusing to abandon
-The dog. He enters heaven. The epic ends with the soul-wrenching
-Final passages in which {{c|2124|Yudhishthira}} faces the moral ambiguity
-
-Of finding {{c|2332|Duryodhana}} in heaven and his virtuous kinsmen
-Apparently in hell—a revelation that turns out to be a final test
-Of his equanimity. Reality is more complex than moral categories
-Allow. The {{p|Mahabharata}}'s final word is not triumphant vindication
-
-But sober recognition that righteousness does not guarantee
-Happy outcomes and that moral judgments must always be held with
-Humility before the complexity of the cosmos. This is a different
-Ending from the {{p|Ramayana}}'s. The {{p|Ramayana}} ends with restoration;
-
-The {{p|Mahabharata}} ends with ambiguity. Both endings carry deep
-Wisdom.
-
-          At the center of the epic, just before the battle begins,
-Comes the {{p|Bhagavad Gita}}—"the {{x|Song of the Lord}}." {{c|2334|Arjuna}}, looking
-
-Across the battlefield at his cousins, his teachers, his kinsmen,
-Is overcome by despair. How can he fight? How can he kill these
-People he loves? His grief paralyzes him. He sinks down in his
-Chariot, unwilling to fight. His charioteer—who is in fact the god
-
-{{c|2340|Krishna}}, an avatar of {{c|2072|Vishnu}} serving voluntarily as {{c|2334|Arjuna}}'s
-Driver—engages him in dialogue. Over seven hundred verses,
-{{c|2340|Krishna}} instructs {{c|2334|Arjuna}} on the deepest principles of {{p|Hindu}}
-Philosophy. The body dies but the soul does not; what {{c|2334|Arjuna}}
-
-Thinks he is killing is only the body, and the soul passes on.
-Action in the world is necessary, but it must be performed
-Without attachment to the fruits of action—performed as an offering
-To {{c|2340|Krishna}}, without grasping for reward or avoiding loss. The
-
-Three paths to liberation are {{p|karma yoga}} (the path of action),
-{{p|jnana yoga}} (the path of knowledge), and {{p|bhakti yoga}} (the path of
-Devotion); all three are legitimate, and the {{p|Gita}} harmonizes them
-Rather than privileging one. {{c|2340|Krishna}} reveals his full divine form
-
-Briefly to {{c|2334|Arjuna}}, a vision so overwhelming that {{c|2334|Arjuna}} can
-Barely endure it—the god containing all worlds, all beings, all
-Times in himself; devouring warriors past, present, and future;
-The source from which all things emerge and to which all things
-
-Return. And {{c|2334|Arjuna}}, after this vision, is restored to action. He
-Takes up his bow. The battle begins. This discourse—the {{p|Bhagavad Gita}}—
-Is a philosophical and religious text of extraordinary power. It
-Has been read and commented on for two millennia. {{c|2341|Shankara}}, {{c|2342|Ramanuja}},
-
-{{c|2343|Madhva}}, and the other great classical {{p|Hindu}} philosophers each
-Wrote major commentaries on it. In the modern period, {{c|2344|Gandhi}}
-Carried a copy with him constantly and considered it his spiritual
-Guide. {{c|2345|Thoreau}} and {{c|2346|Emerson}} read it with wonder. {{c|2347|Oppenheimer}}
-
-Quoted from it at the first atomic test: "Now I am become Death,
-Destroyer of worlds." Its influence on modern religious and
-Philosophical thought, within and beyond {{p|India}}, is vast. And yet
-It is only one section of the {{p|Mahabharata}}—a small section, perhaps
-
-Two percent of the total. The {{p|Mahabharata}} as a whole is a larger
-And more encompassing work. But the {{p|Gita}} is the concentrated
-Jewel. Within a few hundred verses, it distills the philosophical
-And devotional essence of {{p|Hindu}} thought. Understanding the {{p|Gita}}
-
-Is understanding much about what {{p|Indian}} religious civilization
-Has valued.
-
-                 The {{p|Mahabharata}} treats {{p|dharma}}—righteous duty—
-As its central concern. But it treats dharma in a much more
-
-Complicated way than the {{p|Ramayana}} does. The {{p|Ramayana}}'s {{c|2009|Rama}}
-Embodies dharma with apparent simplicity: he always knows what
-The right thing is and does it. The {{p|Mahabharata}}'s protagonists
-Are not so clear. They face situations in which the right course
-
-Of action is obscure, in which multiple dharmic obligations
-Conflict, in which any choice produces some evil. This is called
-{{p|dharmasankata}}, "the crisis of dharma," and the {{p|Mahabharata}} is
-Full of it. Should {{c|2124|Yudhishthira}} tell a lie that will win the
-
-War? ({{c|2340|Krishna}} urges him to.) Should {{c|2334|Arjuna}} fight his teachers
-And kinsmen? ({{c|2340|Krishna}} tells him yes.) Should {{c|2348|Karna}}—who is
-Actually a {{p|Pandava}} by birth but was raised among {{p|Kauravas}}—side
-With his biological brothers or with the benefactor who raised
-
-Him? (He chooses his benefactor, at tragic cost.) Should {{c|2349|Bhishma}},
-The grand old patriarch of the {{p|Kuru}} dynasty, fight against the
-{{p|Pandavas}} whom he loves, because his oath of loyalty requires him
-To fight for whoever holds the throne of {{p|Hastinapura}}? (He does,
-
-And is killed by {{c|2334|Arjuna}}.) The {{p|Mahabharata}} is full of such moral
-Conundrums. It refuses to give easy answers. It shows dharma as
-A genuinely difficult problem, subject to interpretation,
-Contextual, and sometimes tragic. This is why it has remained so
-
-Fertile for {{p|Indian}} moral imagination. Every generation finds in
-It material for its own ethical reflection. Every commentator
-Finds a new angle. Every adaptation brings out different themes.
-The text is inexhaustible.
-
-                               And consider its theology. {{c|2340|Krishna}},
-Who appears as a character throughout the {{p|Mahabharata}} and
-Centrally in the {{p|Bhagavad Gita}}, is an avatar of {{c|2072|Vishnu}}—a
-Descent of the supreme god into human form to participate in the
-
-Historical drama. He is simultaneously fully human (with emotions,
-Relationships, historical specificity) and fully divine (capable
-Of miraculous interventions, possessor of cosmic knowledge,
-Embodying the absolute). This doctrine of {{p|avatar}} ("descent")
-
-Is one of the central features of {{p|Vaishnava}} {{p|Hindu}} theology.
-{{c|2072|Vishnu}} descends to earth periodically when cosmic order ({{p|dharma}})
-Is threatened, to restore balance. Ten major {{p|avatars}} are
-Traditionally recognized: the fish ({{c|1550|Matsya}}), the tortoise ({{c|2350|Kurma}}),
-
-The boar ({{c|2351|Varaha}}), the man-lion ({{c|2352|Narasimha}}), the dwarf ({{c|2353|Vamana}}),
-{{c|2354|Parashurama}}, {{c|2009|Rama}} (of the {{p|Ramayana}}), {{c|2340|Krishna}} (of the {{p|Mahabharata}}
-And separately of the {{p|Bhagavata Purana}}'s stories of his childhood),
-The {{c|1959|Buddha}} (included here as an avatar, a classic {{p|Hindu}} move to
-
-Absorb {{p|Buddhism}} into the {{p|Vaishnava}} framework), and {{c|2355|Kalki}} (the
-Future avatar who will appear at the end of the current dark age).
-Each avatar embodies divine engagement with human history. Each
-Represents a different form divine action can take. And the {{p|avatar}}
-
-Doctrine has deep structural parallels to the {{p|Christian}} doctrine
-Of incarnation, the {{p|Buddhist}} doctrine of bodhisattvas, and other
-Religious conceptions of divine beings taking on embodied form for
-The sake of sentient beings. These parallels are not identities,
-
-But they are striking resemblances. The {{x|Gaiad}} reads them as
-Different cultural elaborations of a common religious insight:
-That divinity is not remote from human affairs but engages with
-Them in various modes, sometimes taking on the limitations of
-
-Embodied existence in order to be present among creatures.
-
-                                                                 The
-{{p|Mahabharata}} also contains, as subsidiary material, enormous
-Amounts of philosophical, religious, and practical content. The
-
-{{p|Shanti Parva}} ("{{x|Book of Peace}}") and the {{p|Anushasana Parva}} ("Book
-Of Instruction")—two of the epic's eighteen books—are essentially
-Compendia of moral and philosophical teaching delivered by the
-Dying {{c|2349|Bhishma}} to {{c|2124|Yudhishthira}} about kingship, dharma, and
-
-The good life. These sections alone are as long as major classical
-{{p|Indian}} philosophical texts and contain substantial treatments of
-Ethics, political theory, theology, and practical wisdom. The epic
-Also preserves numerous side stories, genealogies, creation myths,
-
-Proverbs, hymns. It functions, in part, as an encyclopedia of
-Classical {{p|Hindu}} civilization. To know the {{p|Mahabharata}} deeply is
-To know much of what traditional {{p|India}} knew about itself.
-
-And the epic remains alive. {{p|Indian}} television produced a serialized
-
-Adaptation in the late nineteen-eighties that was watched by
-Hundreds of millions of viewers, grinding the country to a halt
-Each Sunday morning. Multiple film versions have been made in
-Various {{p|Indian}} languages. Comic books, children's retellings,
-
-Dance performances, theatrical productions in every regional
-Tradition—the {{p|Mahabharata}} is constantly being re-made. It is
-Not a dead classical text. It is a living cultural substance that
-{{p|Indians}} continue to think with, argue about, and return to for
-
-Wisdom. The {{p|Bhagavad Gita}} is, for many {{p|Hindus}}, a daily spiritual
-Companion. For all {{p|Hindus}}, the {{p|Mahabharata}}'s characters are
-Familiar as family members—the dharmic {{c|2124|Yudhishthira}}, the mighty
-{{c|2333|Bhima}}, the pure warrior {{c|2334|Arjuna}}, the tragic {{c|2348|Karna}}, the scheming
-
-{{c|2339|Shakuni}}, the proud {{c|2332|Duryodhana}}, the suffering {{c|2337|Draupadi}}, the
-Wise {{c|2340|Krishna}}, the oath-bound {{c|2349|Bhishma}}. These figures populate
-The moral imagination of {{p|Indian}} civilization as {{c|2110|Achilles}}, {{c|2111|Hector}},
-{{c|2112|Odysseus}}, and {{c|1337|Agamemnon}} populate the moral imagination of the
-
-Classical {{p|Mediterranean}}. Except the {{p|Mahabharata}}'s characters are
-More psychologically complex, the moral situations more ambiguous,
-The philosophical depth greater, the span of narrative time and
-Thematic concern vaster. If {{c|1957|Homer}}'s {{p|Iliad}} is the foundational
-
-{{p|Greek}} text, the {{p|Mahabharata}} is the {{p|Indian}} equivalent raised to
-A higher power. It is not just a great epic. It is the epic of
-An entire civilization.
-
-                             The {{x|Gaiad}} reads the {{p|Mahabharata}}—like
-The {{p|Ramayana}}—as another major articulation of the shared
-{{p|Indo-European}} narrative imagination, elaborated by the {{p|Indian}}
-Branch into a work of singular and unrivaled scope. The {{p|Trojan War}}
-Parallel is less direct here than in the {{p|Ramayana}}—there is no
-
-Stolen queen, no siege of a fortified foreign city—but the
-Structural parallel with the {{p|Iliad}} is still visible. Two related
-Groups of aristocratic warriors, driven by pride and conflicting
-Claims, fight an annihilating war that destroys most of the
-
-Aristocratic class. The aftermath is not triumphant but mournful.
-Both epics end with death and reflection rather than with
-Victorious celebration. The {{p|Iliad}} closes with {{c|2356|Priam}} ransoming
-{{c|2111|Hector}}'s body; the {{p|Mahabharata}} closes with {{c|2124|Yudhishthira}}'s
-
-Pilgrimage of death. Both are, fundamentally, works about the cost
-Of heroic warfare and the moral ambiguity of human glory. The
-{{p|Indo-European}} imagination produced, at opposite ends of its
-Geographical spread, two of the supreme literary meditations on
-
-The price of greatness.
-
-                              The {{p|Mahabharata}}. {{p|Kurukshetra}}. The
-{{p|Pandavas}} and the {{p|Kauravas}}. {{c|2124|Yudhishthira}}, {{c|2333|Bhima}}, {{c|2334|Arjuna}},
-{{c|2335|Nakula}}, {{c|2336|Sahadeva}}. {{c|2337|Draupadi}}. {{c|2332|Duryodhana}} and the hundred brothers.
-
-{{c|2349|Bhishma}} on his bed of arrows. {{c|2348|Karna}} the unrecognized brother.
-{{c|2340|Krishna}} the divine charioteer. The {{p|Bhagavad Gita}} at the heart of
-The battle. The {{p|dharmasankata}}—the crisis of dharma—woven through
-Every decision. The cosmic vision of {{c|2340|Krishna}}'s true form.
-
-The hundred thousand verses. The longest poem in the world. The
-Epic of an entire civilization.
-
-{{p|Mahabharata}}. {{p|Indian}} reflex of the great {{p|Indo-European}} war epic.
-The text that has shaped {{p|Hindu}} moral and religious imagination
-
-For twenty-five hundred years.
-
-
-# Chapter 172: Classical Greece, Part Two
+# Chapter 169: The Persian Empire
+
+{{c|2273|Cyrus the Great}}. The name reverberates through the ancient world
+With a distinctive resonance. A conqueror, yes, but also—almost
+Uniquely among ancient conquerors—remembered by the conquered
+Themselves with gratitude. The {{p|Jews}} called him {{c|2182|Yahweh}}'s anointed.
+
+The {{p|Babylonians}} welcomed him as liberator. The {{p|Greeks}}, writing
+Generations later, portrayed him as a model of just kingship
+(Even as their city-states faced {{p|Persian}} expansion). {{c|2180|Cyrus}}'s
+Reputation was such that even his successors' failures could not
+
+Erase it. And the empire he founded, the {{p|Achaemenid}} empire, was
+The largest the world had yet seen—stretching from the {{p|Indus Valley}}
+To the {{p|Aegean}} Sea, from the {{p|Caucasus}} to {{p|Egypt}}'s southern border.
+Over thirty million people under a single political authority.
+
+Multiple languages, multiple religions, multiple ecological zones,
+Multiple histories. The {{p|Persian}} achievement was to hold all this
+Together in a functional imperial system for two hundred years.
+How did they do it? That is the subject of this chapter.
+
+{{c|2180|Cyrus}} was born around five-ninety BCE in {{p|Anshan}}, in what is now
+Southwestern {{p|Iran}}. His father {{c|2279|Cambyses I}} was king of the
+{{p|Persians}}, a tributary of the {{p|Medes}}. His mother, by some accounts,
+Was the daughter of {{c|2280|Astyages}}, king of the {{p|Medes}}—making {{c|2180|Cyrus}}
+
+A {{p|Median}} prince through his maternal line. The {{p|Persians}} and
+{{p|Medes}} were closely related {{p|Iranian}} peoples with shared language
+And culture; in the political geography of the early sixth century
+BCE, the {{p|Medes}} dominated. {{c|2180|Cyrus}} inherited his father's throne
+
+Around five-fifty-nine BCE and began a remarkable career of
+Conquest. He rebelled against {{p|Median}} overlordship around five-
+Fifty-three BCE, and within a few years had defeated {{c|2280|Astyages}}
+And absorbed the {{p|Median}} kingdom. He then turned westward against
+
+{{p|Lydia}}. {{c|2281|King Croesus}} of {{p|Lydia}}—proverbial for his wealth, and the
+Ruler of {{p|Anatolia}} west of the {{p|Halys River}}—had reportedly
+Consulted the {{p|Oracle of Delphi}} about whether to make war on
+{{p|Persia}}. The oracle's answer was famously ambiguous: "If you
+
+Cross the {{p|Halys}}, you will destroy a great empire." {{c|2282|Croesus}}
+Crossed. The empire destroyed turned out to be his own. {{c|2180|Cyrus}}
+Defeated him at {{p|Thymbra}} in five-forty-seven BCE and annexed
+{{p|Lydia}}, including the {{p|Greek}}-speaking cities of the {{p|Ionian}} coast.
+
+Then he turned east and consolidated his rule over the {{p|Iranian}}
+Plateau and {{p|Central Asia}}. Then, finally, in five-thirty-nine BCE,
+He marched on {{p|Babylon}}. As noted in the previous chapter, {{p|Babylon}}
+Fell with little resistance—the unpopular {{c|2274|Nabonidus}} was deposed,
+
+The {{p|Babylonian}} priests welcomed {{c|2180|Cyrus}}, and the city was
+Incorporated into the {{p|Persian}} empire without destruction. {{c|2180|Cyrus}}
+Then issued his famous edict permitting exiled peoples to return
+To their homelands and rebuild their temples—an edict which
+
+Benefited the {{p|Jews}} most famously but which was in fact a general
+Policy. {{c|2180|Cyrus}} wanted his subjects to be grateful, loyal, and
+Stable, and he understood that religious and cultural autonomy
+Was cheaper than coercion. The {{p|Cyrus Cylinder}}, a clay cylinder
+
+Inscribed with his proclamation on taking {{p|Babylon}} and now held
+In the {{p|British Museum}}, is sometimes called the "first charter of
+Human rights"—a slightly overheated description, but the cylinder
+Does record an explicit policy of religious tolerance and
+
+Restoration of displaced peoples. For its time, this was remarkable.
+{{c|2180|Cyrus}} died in battle around five-thirty BCE, fighting against
+The {{p|Massagetae}} in {{p|Central Asia}}. His tomb at {{p|Pasargadae}}—a
+Simple stone structure surmounted by a gabled roof—still stands
+
+And is one of the most moving monuments of antiquity. Its
+Inscription is said to have read: "O man, I am {{c|2180|Cyrus}} the son of
+{{c|2283|Cambyses}}, who founded the empire of the {{p|Persians}} and was king
+Of {{p|Asia}}. Grudge me not therefore this monument." Simplicity, even
+
+Humility, inscribed on the tomb of a world conqueror.
+
+                                                          His son
+{{c|2284|Cambyses II}} continued the expansion, conquering {{p|Egypt}} in
+Five-twenty-five BCE. The last native {{p|Egyptian}} pharaoh, {{c|2285|Psamtik III}},
+
+Was defeated at {{p|Pelusium}} and then captured. {{c|2283|Cambyses}} briefly
+Ruled {{p|Egypt}} as pharaoh before dying under unclear circumstances
+In five-twenty-two BCE. His death triggered a crisis: {{c|2283|Cambyses}} had
+Apparently had his own brother {{c|2286|Bardiya}} secretly killed before the
+
+{{p|Egyptian}} campaign, and an impostor claiming to be {{c|2286|Bardiya}} seized
+The throne. This impostor was overthrown by a faction of {{p|Persian}}
+Nobles led by {{c|2287|Darius}}, a distant relative of the royal family.
+{{c|2287|Darius}} became king and spent the next several years putting down
+
+Rebellions across the empire. His account of these events is
+Preserved in the {{p|Behistun Inscription}}—a massive rock relief
+Carved high on a cliff in western {{p|Iran}}, written in three
+Languages ({{p|Old Persian}}, {{p|Elamite}}, and {{p|Akkadian}}) and featuring
+
+{{c|2287|Darius}} himself triumphing over nine defeated rebels. The
+{{p|Behistun Inscription}} was what, in the nineteenth century CE,
+Allowed scholars to decipher cuneiform—because its trilingual
+Structure functioned like the {{p|Rosetta Stone}} did for {{p|Egyptian}}
+
+Hieroglyphics. Without {{p|Behistun}}, our knowledge of ancient
+{{p|Mesopotamia}} and {{p|Persia}} would be vastly poorer. {{c|2287|Darius}}, in
+Addition to successfully defending his reign, was a brilliant
+Administrator. He reorganized the empire into twenty {{p|satrapies}}
+
+(Provinces), each under a {{p|satrap}} (governor) responsible to the
+Central government. He established a standardized tax system,
+Weights and measures, a royal postal service with relay stations
+(The famous "{{p|royal roads}}" with horse stations every day's ride,
+
+Allowing messages to travel from {{p|Susa}} to {{p|Sardis}} in a week), and
+A single imperial currency (the gold {{p|daric}}). He built the great
+Ceremonial capital at {{p|Persepolis}}, whose ruins still impress
+Visitors with their scale and architectural sophistication. The
+
+{{p|Apadana}} audience hall at {{p|Persepolis}}, with its thirty-six
+Massive columns rising over twenty meters, was surrounded by
+Reliefs showing delegations from all the empire's peoples
+Bringing tribute—{{p|Medes}}, {{p|Elamites}}, {{p|Babylonians}}, {{p|Egyptians}},
+
+{{p|Lydians}}, {{p|Ionians}}, {{p|Indians}}, {{p|Scythians}}, {{p|Arabs}}, and many more.
+The imagery was ideological: the {{p|Great King}} ruled many peoples,
+And each people brought him its distinctive gifts. Diversity under
+A single imperial canopy. The visual rhetoric of {{p|Persian}} rule
+
+Was pluralistic: the king was honored in the distinctive styles
+Of each subject culture, and each subject culture retained its
+Own traditions under his protection. This was not assimilation
+Imperialism. It was federation imperialism. Each people kept its
+
+Language, its religion, its local rulers (often), its cultural
+Practices—as long as it paid tribute, provided troops when
+Required, and accepted ultimate {{p|Persian}} authority. For most
+Subject peoples, {{p|Persian}} rule was much lighter than the rule
+
+Of {{p|Assyria}} or {{p|Babylon}} had been. The {{p|Persians}} did not conduct
+Mass deportations. They did not demand religious conformity. They
+Taxed regularly and expected loyalty, but they did not terrorize.
+And the result was an empire that was, by the standards of the
+
+Time, remarkably stable and prosperous for most of its population.
+
+                                                                      {{c|2287|Darius}}
+Extended the empire further, adding the {{p|Indus Valley}} in the east
+And {{p|Thrace}} in the west. He attempted to expand into {{p|Greece}} but
+
+Was defeated at {{p|Marathon}} in four-ninety BCE. {{p|Greece}} would remain
+Beyond {{p|Persian}} reach, though the empire retained significant
+{{p|Greek}}-speaking territories in {{p|Anatolia}} and {{p|Cyprus}}. {{c|2287|Darius}} died
+In four-eighty-six BCE, having reigned for thirty-six years and
+
+Having consolidated the largest empire in history to that point.
+His son {{c|2245|Xerxes I}} attempted another invasion of {{p|Greece}} in four-
+Eighty BCE, which also failed (after initial success) due to the
+{{p|Greek}} naval victory at {{p|Salamis}} and land victory at {{p|Plataea}}.
+
+{{c|1985|Xerxes}} is a complicated figure in the historical record—portrayed
+In the {{p|Hebrew Bible}} as {{c|2288|Ahasuerus}}, husband of {{c|392|Esther}} and
+Protagonist of that remarkable novella of {{p|Jewish}} court intrigue;
+Portrayed by {{c|2183|Herodotus}} as an arrogant tyrant whose hubris
+
+Brought his army to disaster at {{p|Salamis}}; portrayed in {{p|Persian}}
+Inscriptions as a mighty king completing his father's constructions
+At {{p|Persepolis}}. Each perspective captures something. {{c|1985|Xerxes}} was
+The last of the great conquering {{p|Persian}} kings. After him, the
+
+Empire ceased expanding and focused on maintaining what it had.
+
+Subsequent {{p|Achaemenid}} kings—{{c|2289|Artaxerxes I}}, {{c|2290|Darius II}}, {{c|2291|Artaxerxes II}},
+{{c|2292|Artaxerxes III}}, {{c|2293|Arses}}, {{c|2294|Darius III}}—mostly managed to hold the
+Empire together despite periodic rebellions (especially in {{p|Egypt}},
+
+Which repeatedly revolted and was repeatedly reconquered). Court
+Intrigue and succession disputes weakened the central authority
+Over time. The empire grew more decadent, more reliant on
+Mercenary troops, more dependent on bribery to buy the loyalty of
+
+Its various satraps and subject peoples. By the mid-fourth century
+BCE, the {{p|Persian}} Empire was still vast but increasingly hollow.
+It would prove vulnerable to the decisive blow that {{c|1982|Alexander}} the
+Great would deliver in the following decades—but that is for
+
+A later chapter. For now, we are concerned with the empire as it
+Existed during its classical period: vast, diverse, administratively
+Sophisticated, and unprecedented in human history for its scale
+And its (relative) administrative rationality.
+
+                                                   Consider some
+Specific features of {{p|Persian}} rule that have had lasting influence.
+The {{p|Royal Road}} that ran from {{p|Susa}} to {{p|Sardis}}—some twenty-five
+Hundred kilometers, with postal stations at regular intervals—was
+
+The prototype of imperial road systems that would later include
+The {{p|Roman}} {{p|viae}} and the {{p|Inca}} {{p|Qhapaq Ñan}}. The idea that an
+Empire should have systematic communication and transport
+Infrastructure was not obvious; it had to be invented, and the
+
+{{p|Achaemenids}} invented it on a scale nobody had previously attempted.
+The {{p|satrapy}} system was the first mature imperial provincial
+Administration. Each {{p|satrapy}} had its {{p|satrap}} (civil governor), its
+Military commander (deliberately separated from the {{p|satrap}} to
+
+Prevent consolidation of local power), and its royal secretary
+(Who reported directly to the central court on the actions of
+The other two). This three-way balance of authority prevented
+Any single official from accumulating enough power to rebel. The
+
+{{p|Roman}} and later imperial administrations would borrow variations
+On this structure. The standardized coinage, weights, and measures
+Facilitated trade and commerce across the empire's vast territory.
+Economic integration rose to a level that would not be matched
+
+In the region until the early modern period. Cultural contacts
+Flourished. {{p|Greek}} doctors and sculptors worked in {{p|Persepolis}}.
+{{p|Phoenician}} sailors worked in the {{p|Persian}} navy. {{p|Jewish}} scribes
+Worked in the royal court. {{p|Indian}} traders brought goods from the
+
+{{p|Ganges}} to {{p|Babylonia}}. The empire was a zone of exchange in which
+Ideas and goods moved across what had previously been separate
+Civilizational spheres. Some scholars have argued that the
+{{p|Persian}} Empire was the cradle of the first genuinely global
+
+Economy—the first time that commercial networks linked the entire
+{{p|Old World}} in sustained exchange. And the cultural consequences
+Were profound. The spread of {{p|Aramaic}} as a lingua franca across
+The empire. The dissemination of {{p|Babylonian}} astronomy to {{p|Greeks}}
+
+And {{p|Indians}}. The transmission of {{p|Zoroastrian}} religious concepts
+Into {{p|Jewish}} thought (as we have already discussed). The mixing of
+Artistic styles—{{p|Persian}} architecture shows influences from {{p|Egypt}},
+{{p|Mesopotamia}}, {{p|Ionia}}, and {{p|Central Asia}}, synthesized into its own
+
+Distinctive imperial style. The {{p|Persian}} Empire was not just a
+Political unit. It was a cultural matrix through which the
+Achievements of multiple civilizations flowed and mixed.
+
+                                                             And
+The religious dimension is worth returning to. The {{p|Achaemenid}}
+Kings were {{p|Zoroastrian}}—or at least their inscriptions invoke
+{{c|2166|Ahura Mazda}} and frame their kingship in {{p|Zoroastrian}} terms.
+But they did not impose {{p|Zoroastrianism}} on their subjects. In
+
+{{p|Babylon}}, {{c|2180|Cyrus}} participated in the {{p|Marduk}} festival and presented
+Himself as {{c|2021|Marduk}}'s chosen servant. In {{p|Egypt}}, {{c|2283|Cambyses}} and his
+Successors styled themselves as pharaohs and patronized {{p|Egyptian}}
+Temples. In {{p|Jerusalem}}, {{c|2180|Cyrus}} permitted the rebuilding of the
+
+Temple and supported it with royal funds. The {{p|Persians}} understood
+That religious legitimacy in a multi-ethnic empire required
+Adopting the religious forms of each subject culture. This was
+Not cynicism; it was genuine imperial theology. {{c|2166|Ahura Mazda}} was
+
+Thought to be the universal creator, whose purposes were served
+By the continuance of proper worship wherever it occurred, under
+Whatever local name. The {{p|Persian}} king, as {{c|2166|Ahura Mazda}}'s agent
+In the world, had the duty to support all legitimate cults within
+
+His realm. This theological framework made religious tolerance
+Into a positive imperial virtue rather than a pragmatic concession.
+And the consequence was that the {{p|Persian}} Empire was, for most
+Of its subjects, a religiously comfortable home. It was not
+
+Paradise—there were rebellions, there were failed reconquests,
+There were occasional episodes of imperial brutality. But compared
+To what had come before, and compared to many empires that would
+Follow, the {{p|Persian}} Empire was a relatively humane political
+
+Structure. Its subjects were not, on the whole, eager to be freed
+From it. When {{c|1982|Alexander}} conquered the empire in the fourth
+Century BCE, he did not find populations widely hostile to their
+Existing rulers. He found populations who accepted {{p|Persian}}
+
+Rule as reasonably fair and effective. His conquest had to be
+Imposed militarily, not welcomed as liberation. This is itself
+A testimony to the quality of {{p|Persian}} governance.
+
+                                                             {{p|Persia}}.
+{{p|Achaemenid}}. {{c|2180|Cyrus}}, {{c|2283|Cambyses}}, {{c|2287|Darius}}, {{c|1985|Xerxes}}, and their
+Successors. The first genuinely global empire. The {{p|satrapy}} system
+And the {{p|Royal Road}}. The standardized coinage and the standardized
+Weights. The religious tolerance grounded in imperial theology.
+
+The cultural exchange across the largest territory ever unified.
+The transmission of {{p|Zoroastrian}} concepts into {{p|Jewish}} thought
+And the transmission of {{p|Babylonian}} astronomy into {{p|Greek}} science.
+The foundation on which {{p|Hellenistic}}, {{p|Roman}}, {{p|Parthian}}, {{p|Sassanid}},
+
+And {{p|Islamic}} political traditions would later build.
+
+                                                             The
+{{p|Persian}} Empire. The first great imperial synthesis of the
+Ancient world. The foundation beneath {{p|Western}} and {{p|Eastern}}
+
+Political imagination alike. The conquering empire that was also
+The civilizing empire.
+
+
+# Chapter 170: Classical Greece, Part Two
 
 Return now to {{p|Greece}}, where we left it at the end of the
 {{p|Persian Wars}}. The invasions of {{c|2287|Darius}} and {{c|1985|Xerxes}} have been
@@ -1413,7 +699,353 @@ Civilization that taught the {{p|West}} what cities, what democracies,
 What philosophy, and what theater could be.
 
 
-# Chapter 173: Classical Greece, Part Three
+# Chapter 171: The Buddha
+
+In the {{p|Gangetic}} plain of northern {{p|India}}, in the sixth and fifth
+Centuries BCE, the same {{x|Axial Age}} ferment that produced {{c|2146|Zarathustra}},
+{{c|1958|Confucius}}, {{c|2144|Laozi}}, the {{p|Judean}} exile, and {{p|Ionian}} philosophy was
+Also transforming {{p|Indian}} religious thought. And at the heart of
+
+That transformation was a single figure whose teachings would
+Spread across {{p|Asia}} and eventually the world, shaping the lives
+Of hundreds of millions. {{c|2304|Siddhartha Gautama}}. The {{c|1959|Buddha}}—"the
+Awakened one."
+
+                  Begin with context. The {{p|Indian}} religious landscape
+In the sixth century BCE was in turmoil. The {{p|Vedic}} religion
+Brought by the {{p|Aryans}} had evolved over centuries into an
+Elaborate sacrificial system dominated by the {{p|Brahmin}} priestly
+
+Caste. {{p|Brahmins}} performed increasingly complex {{p|fire sacrifices}}
+That were thought to maintain cosmic order and benefit their
+Patrons. But this system was under critique. Philosophical
+Movements called the {{p|Shramana}} traditions had arisen—ascetic,
+
+Wandering, often celibate traditions that rejected {{p|Brahmin}}
+Authority and sought liberation through individual spiritual
+Practice rather than through sacrificial ritual. The {{p|Upanishads}},
+The final layer of the {{p|Vedic}} corpus, were being composed during
+
+This period, and they represented a shift within {{p|Vedic}} thought
+Itself—from outer ritual to inner contemplation, from the efficacy
+Of sacrifice to the realization of the identity between {{c|2305|Atman}}
+(The individual self) and {{c|2306|Brahman}} (the universal reality). The
+
+Concept of {{p|karma}} (action and its consequences), the concept of
+{{p|samsara}} (the endless cycle of rebirth), and the concept of
+{{p|moksha}} (liberation from that cycle) were being elaborated. The
+Question that drove this entire religious ferment was: how can
+
+A human being achieve liberation from suffering and the endless
+Cycle of death and rebirth? Different traditions gave different
+Answers. The {{p|Upanishadic}} answer was philosophical insight into
+The identity of {{c|2305|Atman}} and {{c|2306|Brahman}}. The {{p|Jain}} answer—developed by
+
+{{c|2145|Mahavira}}, a near-contemporary of the {{c|1959|Buddha}}—was extreme asceticism,
+Including practices of such severity that some {{p|Jain}} monks
+Eventually starved themselves to death in the ultimate renunciation.
+The {{p|Ajivika}} answer (now lost but significant in its time) was
+
+A fatalistic determinism in which all things unfold according to
+A cosmic pattern that could not be altered by human action. The
+{{p|Materialists}} (the {{p|Charvaka}} school) denied the whole framework
+Of rebirth and karma, arguing that there was only this life and
+
+Death ended it. And the {{p|Brahmins}} continued to perform their
+Sacrifices and insist that their tradition was the proper path.
+Into this contested field stepped {{c|2304|Siddhartha Gautama}}.
+
+                                                                 He
+Was born around five-sixty-three BCE (traditional dating) or
+Four-eighty BCE (recent scholarly dating; the {{x|Gaiad}} will use the
+Traditional date for narrative convenience) in {{p|Lumbini}}, a small
+Village in what is now southern {{p|Nepal}}. His father {{c|2307|Shuddhodana}}
+
+Was a chieftain of the {{p|Shakya}} clan, a minor kshatriya (warrior)
+Lineage. His mother {{c|2308|Maya}} died shortly after his birth, and he
+Was raised by her sister {{c|2309|Mahapajapati}}. The stories of his
+Childhood that survive are mostly later hagiography, but they
+
+Emphasize two themes: that he was raised in extraordinary luxury,
+Shielded from the harsh realities of ordinary life; and that he
+Was destined, according to the sages who read his birth signs,
+To become either a great king or a great spiritual teacher. His
+
+Father, hoping for the former, tried to keep him insulated from
+Anything that might turn his mind to spiritual questions. He was
+Married at sixteen to {{c|2310|Yashodhara}}. They had a son, {{c|2311|Rahula}}. He
+Lived a life of sheltered privilege. And then, according to the
+
+Tradition, at age twenty-nine, he insisted on venturing outside
+The palace walls. He saw "Four Sights" that changed his life: an
+Old man, a sick man, a corpse, and a wandering ascetic. Each of
+The first three confronted him with realities he had been shielded
+
+From. Age, disease, and death—the fundamental facts of embodied
+Existence. The fourth, the ascetic, suggested a different way of
+Living in the face of those realities. That night, {{c|2312|Siddhartha}}
+Left his palace, his wife, and his infant son. He cut off his
+
+Hair, put on the robes of a wandering seeker, and began his search
+For a way out of suffering.
+
+                                He first studied with two famous
+Meditation teachers, {{c|2313|Alara Kalama}} and {{c|2314|Udaka Ramaputta}}. He
+
+Mastered their techniques quickly—mastering the attainment of
+Deep meditative absorption—but he realized that these attainments,
+While profound, did not eliminate suffering. Something deeper was
+Needed. He then joined a group of five ascetics and practiced
+
+Severe self-mortification for six years: extreme fasting, breath
+Retention, exposure to extremes of heat and cold. He became so
+Emaciated that, according to tradition, he could feel his spine
+When he pressed on his stomach. And still, liberation did not
+
+Come. He realized that extreme asceticism was as much a dead end
+As luxury had been. Both extremes—indulgence and self-torture—
+Kept the mind fixed on the body rather than freeing it. There must
+Be a middle way between them. He accepted a bowl of rice pudding
+
+From a young village woman named {{c|2315|Sujata}}, recovering some strength.
+His five ascetic companions, disgusted by what they saw as his
+Weakness, abandoned him. He was alone. And he sat down beneath a
+Fig tree at {{p|Bodh Gaya}} in what is now {{p|Bihar}}, and he resolved not
+
+To move until he had found what he was seeking. He sat through
+The night. According to the tradition, he was assailed during
+This night by {{c|2316|Mara}}, the personification of death and illusion,
+Who tempted him with pleasure, fear, and the claim that {{c|2312|Siddhartha}}
+
+Had no right to the awakening he sought. {{c|2312|Siddhartha}} touched the
+Earth as his witness—the famous "earth-touching" gesture preserved
+In countless {{p|Buddhist}} statues—and {{c|2316|Mara}} was defeated. As dawn
+Broke, {{c|2312|Siddhartha}} understood. He saw the nature of suffering and
+
+Its causes. He saw the path to its cessation. He became the
+{{c|1959|Buddha}}, "the awakened one." He was thirty-five years old.
+
+                                                                 What
+Did he realize? At the core of the {{c|1959|Buddha}}'s enlightenment was
+
+What would become known as the {{p|Four Noble Truths}}. First: there
+Is suffering ({{p|dukkha}}). All conditioned existence is characterized
+By unsatisfactoriness—not just obvious pain and misery, but also
+The subtle dissatisfaction that shadows even our pleasures, the
+
+Knowledge that they will end, the impermanence that makes every
+Attainment temporary. Second: suffering has a cause. Its cause is
+Craving ({{p|tanha}}), the grasping for pleasant experiences and the
+Aversion to unpleasant experiences. Craving arises from ignorance—
+
+Ignorance of the true nature of reality. Third: suffering can end.
+When craving is eliminated, suffering ceases. This cessation is
+{{p|nirvana}}, literally "blowing out" (as a flame is blown out when
+Its fuel is exhausted). Fourth: there is a path to the ending of
+
+Suffering. This is the {{p|Noble Eightfold Path}}: right view, right
+Intention, right speech, right action, right livelihood, right
+Effort, right mindfulness, and right concentration. The path is
+Ethical, psychological, and contemplative. It is neither ascetic
+
+Self-torture nor sensual indulgence but the middle way. And the
+Path is practical. It can be walked by anyone who commits to it.
+Another key insight: the {{p|doctrine of no-self}} ({{p|anatta}}). Unlike
+The {{p|Upanishadic}} tradition, which identified an eternal {{c|2305|Atman}}
+
+(True self) as the key to liberation, the {{c|1959|Buddha}} taught that there
+Is no permanent, unchanging self. What we call the self is a
+Constantly changing flux of physical and mental processes—form,
+Feeling, perception, mental formations, consciousness—which
+
+Together constitute the {{p|five aggregates}} ({{p|skandhas}}) of personhood
+But none of which, singly or collectively, is a permanent self.
+The illusion of a permanent self is one of the root causes of
+Craving and suffering. When this illusion is seen through, craving
+
+Falls away naturally. This {{p|anatta}} doctrine is the most
+Radical of the {{c|1959|Buddha}}'s insights, and it is the one that most
+Sharply distinguishes {{p|Buddhism}} from the other {{p|Indian}} religious
+Traditions. It is also one of the most counterintuitive teachings
+
+In world religion, because it challenges the foundational
+Assumption of almost every spiritual tradition: that there is a
+Real self whose welfare we are pursuing. The {{c|1959|Buddha}} says there
+Is no such self. There is only the flux. And the pursuit of
+
+Liberation is not the saving of a self but the seeing-through of
+The self-illusion.
+
+                      {{c|1959|Buddha}} spent the rest of his life—forty-five
+Years—teaching. He attracted disciples. He founded the {{p|sangha}},
+
+The monastic community. He traveled through the {{p|Gangetic}} plain,
+Teaching to anyone who would listen. Kings came to him. Beggars
+Came to him. {{c|2317|Brahmins}} came to him. {{p|Untouchables}} came to him.
+He taught them all. He did not distinguish by caste. This was
+
+Itself a radical position in {{p|Indian}} society. His {{p|sangha}} included
+Men of every caste, and eventually women as well (though his
+Admission of women, at the urging of his foster mother {{c|2309|Mahapajapati}}
+And his disciple {{c|2318|Ananda}}, came reluctantly and with special
+
+Conditions that would keep nuns subordinate to monks). He taught
+Not in {{p|Sanskrit}}—the sacred language of the {{p|Brahmins}}—but in
+{{p|Magadhi Prakrit}} or similar vernacular, the ordinary language of
+The people. This democratization of religious access was another
+
+Radical feature of the early {{p|Buddhist}} community. And the
+{{c|1959|Buddha}}'s teaching style was pragmatic. He refused to answer
+Metaphysical questions that he considered useless for liberation—
+Questions like "is the universe eternal?" or "is the self the
+
+Same as the body or different?" or "does the enlightened one exist
+After death?" He compared such questions to a man wounded by a
+Poisoned arrow who refuses to let the arrow be removed until he
+Knows the name of the archer, the material of the bow, and the
+
+Fletching of the arrow. By the time he has his answers, he is
+Dead. The {{c|1959|Buddha}}'s concern was always immediate: the alleviation
+Of suffering, the path to liberation. Metaphysical speculation was
+A distraction. This pragmatic approach made early {{p|Buddhism}} quite
+
+Different from religious philosophies that centered on metaphysical
+Doctrines. It was a path more than a creed. Later {{p|Buddhism}} would
+Develop elaborate metaphysics and cosmology, but the historical
+{{c|1959|Buddha}} himself seems to have resisted such elaboration.
+
+                                                               He
+Died around four-eighty-three BCE at {{p|Kushinagar}}, at the age of
+Eighty. His last words, according to tradition, were: "All
+Conditioned things are impermanent. Strive on with diligence." He
+
+Had founded no institution but the {{p|sangha}}. He had left no written
+Scripture—his teachings were preserved orally by his disciples and
+Would not be committed to writing for several centuries. He had
+Not appointed a successor. The {{p|sangha}} itself was to be the ongoing
+
+Community, with the {{p|Dharma}} (his teaching) as its guide. And the
+{{p|sangha}} carried forward his teachings, elaborating, systematizing,
+Sometimes disputing about their interpretation. Within a couple
+Of centuries of his death, {{p|Buddhism}} had begun to spread beyond
+
+Its original region. Under {{c|2319|Emperor Ashoka}} in the third century
+BCE—a {{p|Mauryan}} ruler who converted to {{p|Buddhism}} after the
+Horrors of the {{p|Kalinga War}}—{{p|Buddhism}} became effectively the state
+Religion of most of the {{p|Indian}} subcontinent. {{c|2320|Ashoka}} sent missions
+
+Westward to the {{p|Hellenistic}} world, southward to {{p|Sri Lanka}},
+Eastward toward {{p|Southeast Asia}}, and likely northward across the
+{{p|Himalayas}}. {{p|Buddhism}} began its transformation from an {{p|Indian}}
+Regional tradition into a pan-{{p|Asian}} religion. Subsequent centuries
+
+Would see {{p|Buddhism}} split into multiple schools—the {{p|Theravada}}
+Of {{p|Sri Lanka}} and {{p|Southeast Asia}}, the {{p|Mahayana}} of {{p|Central Asia}},
+{{p|China}}, {{p|Korea}}, {{p|Japan}}, and {{p|Vietnam}}, and later the {{p|Vajrayana}} of
+{{p|Tibet}} and the {{p|Himalayas}}. Each would develop its own elaborate
+
+Textual traditions, ritual practices, and philosophical doctrines.
+{{p|Buddhism}} would eventually decline in {{p|India}} itself, partly
+Absorbed back into {{p|Hindu}} traditions (with the {{c|1959|Buddha}} reimagined
+As an avatar of {{c|2072|Vishnu}}), partly disrupted by {{p|Islamic}} conquests
+
+That destroyed major {{p|Buddhist}} centers like {{p|Nalanda}} university
+In the twelfth century CE. But by that time, {{p|Buddhism}} was firmly
+Established across the rest of {{p|Asia}}, where it remains a major
+Civilizational force to this day. Some five hundred million
+
+{{p|Buddhists}} now live worldwide, with major populations in {{p|China}},
+{{p|Japan}}, {{p|Korea}}, {{p|Thailand}}, {{p|Myanmar}}, {{p|Sri Lanka}}, {{p|Cambodia}}, {{p|Laos}},
+{{p|Vietnam}}, {{p|Tibet}}, {{p|Mongolia}}, and—increasingly since the twentieth
+Century—{{p|Western}} countries. The {{c|1959|Buddha}}'s teaching, which began
+
+As the reflection of a single wandering ascetic under a fig tree,
+Has become one of the most widely practiced religions in the world.
+
+                                                                    And
+The {{x|Gaiad}} honors the {{c|1959|Buddha}} as one of the supreme figures of the
+
+{{x|Axial Age}}. His insights into the nature of suffering and its
+Causes, his articulation of ethical conduct, his recognition of
+The constructed nature of the self, his refusal to privilege any
+Caste or class in access to liberation—these are among the most
+
+Profound contributions to human understanding ever made. The
+{{p|Buddhist}} tradition has produced some of the greatest philosophers
+In human history—{{c|2321|Nagarjuna}}, {{c|2322|Vasubandhu}}, {{c|2323|Asanga}}, {{c|2324|Dogen}},
+{{c|2325|Hui-neng}}, {{c|2326|Chandrakirti}}, {{c|2327|Dharmakirti}}—whose subtle explorations
+
+Of consciousness, emptiness, and causation rival anything in
+Western philosophy. The {{p|Buddhist}} contemplative traditions—the
+Various schools of meditation that trace back to the {{c|1959|Buddha}}'s
+Own practice—have produced detailed empirical investigations of
+
+The mind that are now being integrated with {{p|Western}} psychology
+And neuroscience. The {{p|Buddhist}} ethic of compassion has inspired
+Humanitarian movements worldwide. The {{p|Buddhist}} cosmology, with
+Its vast scales of time and space and its teaching of rebirth,
+
+Has expanded human imagination about the structure of existence.
+The {{p|Buddhist}} art and architecture—from the {{p|Ajanta Caves}} to
+{{p|Borobudur}} to the {{p|Great Buddha}} of {{p|Kamakura}}—is among the greatest
+Religious art produced anywhere. The {{p|Buddhist}} tradition is vast,
+
+Diverse, and enormously rich. And it all traces back to the
+Young prince who left his palace and sat under the fig tree and
+Found the middle way.
+
+                         One more point worth making. The {{c|1959|Buddha}}'s
+Teaching is often contrasted with monotheistic traditions on the
+Question of divine existence. {{p|Buddhism}} is sometimes described as
+Atheistic, because the {{c|1959|Buddha}} did not affirm a creator god and
+Because {{p|Buddhist}} practice does not depend on relationship with
+
+Such a god. But the reality is more nuanced. {{p|Buddhism}} acknowledges
+The existence of many gods ({{p|devas}}) who inhabit the various
+Heavenly realms of the {{p|Buddhist}} cosmology. These gods are
+Long-lived and powerful but they are still subject to the cycle
+
+Of rebirth and, like humans, must eventually work out their own
+Liberation. The {{c|1959|Buddha}} is above them in spiritual attainment
+Because he has achieved liberation while they have not. The
+{{p|Buddhist}} position is not atheism but a refusal to grant ultimate
+
+Importance to any god or gods. The gods exist; they are not
+Ultimately relevant. What is ultimately relevant is each sentient
+Being's own road to freedom. So our song:
+The gods are many, and they live for long,
+But none of them the centre; all along
+This book has said the same. No second creed
+Stands here beside our own: the {{c|1959|Buddha}}'s seed
+Is our own rite, the middle way our road,
+Kept under names his country's tongue bestowed.
+
+{{c|2304|Siddhartha Gautama}}. The
+Prince who left his palace. The ascetic who rejected both luxury
+
+And self-torture. The seeker under the fig tree at {{p|Bodh Gaya}}.
+The {{c|1959|Buddha}} who saw the {{p|Four Noble Truths}}. The teacher of the
+{{p|Eightfold Path}}. The founder of the {{p|sangha}}. The wanderer who
+Taught for forty-five years. The one who died at {{p|Kushinagar}}
+
+With the last words, "Strive on with diligence." The one who
+Left no writings, no institution beyond the community, no
+Successor—and yet whose teaching spread across a continent and
+A world.
+
+            {{c|1959|Buddha}}. One of the supreme sons of the {{x|Axial Age}}.
+The one who showed that liberation from suffering was accessible
+Through disciplined practice rather than through priestly mediation
+Or ecstatic grace. The one whose compassion extended to all
+
+Sentient beings without distinction of caste or species. The one
+Whose teaching is, still today, a living path for hundreds of
+Millions.
+
+             The {{c|1959|Buddha}}. Awakened one.
+
+
+# Chapter 172: Classical Greece, Part Three
 
 Take up the thread again. The fifth century BCE has ended. {{p|Athens}}
 Has lost the {{p|Peloponnesian War}}. The golden age of classical
@@ -1774,6 +1406,352 @@ Transition to the {{p|Hellenistic}} world. The closing of the classical
 Age.
 
          The {{p|Greek}} achievement: foundational, flawed, immortal.
+
+
+# Chapter 173: The Mahabharata
+
+The {{p|Mahabharata}}. One hundred thousand verses. Nearly two million
+Words. The longest epic poem in world literature, seven times
+Longer than the {{p|Iliad}} and {{p|Odyssey}} combined, four times longer
+Than the {{p|Bible}}. A text that {{p|India}} has carried at the center of
+
+Its cultural imagination for two and a half thousand years. A
+Text that has been read, recited, performed, adapted, and reinterpreted
+In every generation. A text that, more than any other, has shaped
+The {{p|Hindu}} moral and religious world. A text, finally, of almost
+
+Unfathomable depth—containing within itself dharma treatises,
+Philosophical dialogues, creation myths, hymns, legal codes,
+Political theory, love poetry, and—at its absolute center—the
+{{p|Bhagavad Gita}}, which has become for {{p|Hinduism}} something like
+
+What the {{p|Sermon on the Mount}} is for {{p|Christianity}}: a densely
+Compressed articulation of the tradition's core vision, accessible
+In isolation from the larger corpus and yet illuminating it
+Entirely. This chapter of the {{x|Gaiad}} will treat the {{p|Mahabharata}}
+
+In the same way the previous chapter treated the {{p|Ramayana}}: as
+A singular event in the history of human narrative imagination,
+Worthy of extended contemplation, standing at the center of
+{{p|Indian}} civilization as {{c|1957|Homer}} stands at the center of {{p|Greek}}
+
+Civilization.
+
+                  The traditional author is {{c|2328|Vyasa}}—literally "the
+Compiler"—a sage who is also a character in the epic itself.
+Within the narrative, {{c|2328|Vyasa}} is the biological grandfather of the
+
+Main protagonists: he is the father of {{c|2329|Dhritarashtra}}, {{c|2330|Pandu}}, and
+{{c|2331|Vidura}}, whose lines generate the {{p|Kauravas}} and {{p|Pandavas}} whose
+Conflict is the epic's central action. {{c|2328|Vyasa}} witnesses the events
+He then recounts. This recursive structure—in which the author is
+
+Both teller and participant—is characteristic of the {{p|Mahabharata}}'s
+Narrative complexity. It is a story that contains stories, that
+Reflects on itself, that invites its reader into an endless
+Hermeneutic process. Historically, of course, no single author
+
+Produced the {{p|Mahabharata}}. It grew over centuries through multiple
+Hands, probably beginning with a shorter core epic in the early
+Centuries BCE and expanding through additions and interpolations
+Until it reached something like its final form around four-hundred
+
+CE. Its compositional history is as complex as any text in world
+Literature. But traditional {{p|Hindu}} attribution gives the work to
+{{c|2328|Vyasa}}, and the {{x|Gaiad}} will use this convention for narrative ease.
+
+The core story. The {{p|Kuru}} dynasty, ruling from {{p|Hastinapura}} near
+What is now {{p|Delhi}}, is split between two branches of cousins: the
+{{p|Pandavas}}, five brothers born to {{c|2330|Pandu}}; and the {{p|Kauravas}}, one
+Hundred brothers born to {{c|2329|Dhritarashtra}}. Both groups have legitimate
+
+Claims to the throne—{{c|2329|Dhritarashtra}} was born first but is blind,
+Which disqualifies him; {{c|2330|Pandu}} therefore became king but died
+Young. Now {{c|2329|Dhritarashtra}} rules as regent for the generation of
+Cousins, and tensions escalate between his son {{c|2332|Duryodhana}} (the
+
+Eldest {{p|Kaurava}}) and {{c|2124|Yudhishthira}} (the eldest {{p|Pandava}}). The five
+{{p|Pandava}} brothers are {{c|2124|Yudhishthira}} (dharma-embodied, righteous,
+The future rightful king), {{c|2333|Bhima}} (enormously strong, impulsive,
+Loyal), {{c|2334|Arjuna}} (the greatest archer, a warrior of unmatched
+
+Skill), {{c|2335|Nakula}} and {{c|2336|Sahadeva}} (twins, handsome, skilled in various
+Arts). They share a single wife, {{c|2337|Draupadi}}, who is won by
+{{c|2334|Arjuna}} in an archery contest and, through an unusual misunderstanding
+Involving their mother {{c|2338|Kunti}}, becomes wife to all five brothers.
+
+This polyandrous marriage is one of the most famously anomalous
+Features of the {{p|Mahabharata}}—it fits no standard {{p|Indian}} cultural
+Pattern, and its presence in the epic has generated endless
+Interpretation. The hundred {{p|Kauravas}}, led by {{c|2332|Duryodhana}}, envy
+
+And resent the {{p|Pandavas}}. A series of attempts on {{p|Pandava}} lives
+Ensue—a house of lac built to be burned around them, from which
+They barely escape; a poisoned sweet; various ambushes. The
+{{p|Pandavas}} survive. Then comes the fatal dice game. {{c|2332|Duryodhana}},
+
+With the aid of his uncle {{c|2339|Shakuni}}, a skilled player with loaded
+Dice, invites {{c|2124|Yudhishthira}} to a gambling match. {{c|2124|Yudhishthira}},
+Addicted to dice-play but committed to playing when invited,
+Loses everything: his kingdom, his wealth, his brothers' freedom,
+
+His own freedom, and finally {{c|2337|Draupadi}} herself. She is dragged
+Into the assembly hall, where the {{p|Kauravas}} attempt to strip her
+Publicly—an act of extreme humiliation. At the last moment, the
+God {{c|2340|Krishna}} miraculously extends her sari to infinite length
+
+So she cannot be disrobed. Her honor is preserved, but the
+Humiliation is never forgotten. Eventually a compromise is reached:
+The {{p|Pandavas}} will go into exile for twelve years, plus a
+Thirteenth year in which they must remain incognito. If they
+
+Complete this exile successfully, they will recover their kingdom.
+They complete it. But {{c|2332|Duryodhana}} refuses to honor the agreement.
+He will not give back their kingdom. War becomes inevitable. The
+Great {{p|Kurukshetra War}}—the climactic event of the epic—is fought
+
+Between the {{p|Pandava}} and {{p|Kaurava}} coalitions over eighteen days.
+Every major ruling house of {{p|Indian}} civilization takes sides. The
+Carnage is apocalyptic. By the end, almost every major warrior is
+Dead. {{c|2332|Duryodhana}}, mortally wounded, lies dying on the battlefield.
+
+All his brothers are dead. Most of the great teachers and heroes
+Are dead. The victorious {{p|Pandavas}}, who have won but at unbearable
+Cost, are left to survey a field of corpses that includes their
+Uncles, cousins, teachers, friends. {{c|2124|Yudhishthira}} is crowned king.
+
+But the victory is ashes. He reigns for thirty-six years, then
+Abdicates and walks with his brothers and {{c|2337|Draupadi}} toward the
+{{p|Himalayas}} in a final pilgrimage to death. One by one they fall,
+Until only {{c|2124|Yudhishthira}} and a dog that has accompanied them
+
+Reach the peak. The dog, it turns out, is the god of dharma
+Testing {{c|2124|Yudhishthira}}. He passes the test by refusing to abandon
+The dog. He enters heaven. The epic ends with the soul-wrenching
+Final passages in which {{c|2124|Yudhishthira}} faces the moral ambiguity
+
+Of finding {{c|2332|Duryodhana}} in heaven and his virtuous kinsmen
+Apparently in hell—a revelation that turns out to be a final test
+Of his equanimity. Reality is more complex than moral categories
+Allow. The {{p|Mahabharata}}'s final word is not triumphant vindication
+
+But sober recognition that righteousness does not guarantee
+Happy outcomes and that moral judgments must always be held with
+Humility before the complexity of the cosmos. This is a different
+Ending from the {{p|Ramayana}}'s. The {{p|Ramayana}} ends with restoration;
+
+The {{p|Mahabharata}} ends with ambiguity. Both endings carry deep
+Wisdom.
+
+          At the center of the epic, just before the battle begins,
+Comes the {{p|Bhagavad Gita}}—"the {{x|Song of the Lord}}." {{c|2334|Arjuna}}, looking
+
+Across the battlefield at his cousins, his teachers, his kinsmen,
+Is overcome by despair. How can he fight? How can he kill these
+People he loves? His grief paralyzes him. He sinks down in his
+Chariot, unwilling to fight. His charioteer—who is in fact the god
+
+{{c|2340|Krishna}}, an avatar of {{c|2072|Vishnu}} serving voluntarily as {{c|2334|Arjuna}}'s
+Driver—engages him in dialogue. Over seven hundred verses,
+{{c|2340|Krishna}} instructs {{c|2334|Arjuna}} on the deepest principles of {{p|Hindu}}
+Philosophy. The body dies but the soul does not; what {{c|2334|Arjuna}}
+
+Thinks he is killing is only the body, and the soul passes on.
+Action in the world is necessary, but it must be performed
+Without attachment to the fruits of action—performed as an offering
+To {{c|2340|Krishna}}, without grasping for reward or avoiding loss. The
+
+Three paths to liberation are {{p|karma yoga}} (the path of action),
+{{p|jnana yoga}} (the path of knowledge), and {{p|bhakti yoga}} (the path of
+Devotion); all three are legitimate, and the {{p|Gita}} harmonizes them
+Rather than privileging one. {{c|2340|Krishna}} reveals his full divine form
+
+Briefly to {{c|2334|Arjuna}}, a vision so overwhelming that {{c|2334|Arjuna}} can
+Barely endure it—the god containing all worlds, all beings, all
+Times in himself; devouring warriors past, present, and future;
+The source from which all things emerge and to which all things
+
+Return. And {{c|2334|Arjuna}}, after this vision, is restored to action. He
+Takes up his bow. The battle begins. This discourse—the {{p|Bhagavad Gita}}—
+Is a philosophical and religious text of extraordinary power. It
+Has been read and commented on for two millennia. {{c|2341|Shankara}}, {{c|2342|Ramanuja}},
+
+{{c|2343|Madhva}}, and the other great classical {{p|Hindu}} philosophers each
+Wrote major commentaries on it. In the modern period, {{c|2344|Gandhi}}
+Carried a copy with him constantly and considered it his spiritual
+Guide. {{c|2345|Thoreau}} and {{c|2346|Emerson}} read it with wonder. {{c|2347|Oppenheimer}}
+
+Quoted from it at the first atomic test: "Now I am become Death,
+Destroyer of worlds." Its influence on modern religious and
+Philosophical thought, within and beyond {{p|India}}, is vast. And yet
+It is only one section of the {{p|Mahabharata}}—a small section, perhaps
+
+Two percent of the total. The {{p|Mahabharata}} as a whole is a larger
+And more encompassing work. But the {{p|Gita}} is the concentrated
+Jewel. Within a few hundred verses, it distills the philosophical
+And devotional essence of {{p|Hindu}} thought. Understanding the {{p|Gita}}
+
+Is understanding much about what {{p|Indian}} religious civilization
+Has valued.
+
+                 The {{p|Mahabharata}} treats {{p|dharma}}—righteous duty—
+As its central concern. But it treats dharma in a much more
+
+Complicated way than the {{p|Ramayana}} does. The {{p|Ramayana}}'s {{c|2009|Rama}}
+Embodies dharma with apparent simplicity: he always knows what
+The right thing is and does it. The {{p|Mahabharata}}'s protagonists
+Are not so clear. They face situations in which the right course
+
+Of action is obscure, in which multiple dharmic obligations
+Conflict, in which any choice produces some evil. This is called
+{{p|dharmasankata}}, "the crisis of dharma," and the {{p|Mahabharata}} is
+Full of it. Should {{c|2124|Yudhishthira}} tell a lie that will win the
+
+War? ({{c|2340|Krishna}} urges him to.) Should {{c|2334|Arjuna}} fight his teachers
+And kinsmen? ({{c|2340|Krishna}} tells him yes.) Should {{c|2348|Karna}}—who is
+Actually a {{p|Pandava}} by birth but was raised among {{p|Kauravas}}—side
+With his biological brothers or with the benefactor who raised
+
+Him? (He chooses his benefactor, at tragic cost.) Should {{c|2349|Bhishma}},
+The grand old patriarch of the {{p|Kuru}} dynasty, fight against the
+{{p|Pandavas}} whom he loves, because his oath of loyalty requires him
+To fight for whoever holds the throne of {{p|Hastinapura}}? (He does,
+
+And is killed by {{c|2334|Arjuna}}.) The {{p|Mahabharata}} is full of such moral
+Conundrums. It refuses to give easy answers. It shows dharma as
+A genuinely difficult problem, subject to interpretation,
+Contextual, and sometimes tragic. This is why it has remained so
+
+Fertile for {{p|Indian}} moral imagination. Every generation finds in
+It material for its own ethical reflection. Every commentator
+Finds a new angle. Every adaptation brings out different themes.
+The text is inexhaustible.
+
+                               And consider its theology. {{c|2340|Krishna}},
+Who appears as a character throughout the {{p|Mahabharata}} and
+Centrally in the {{p|Bhagavad Gita}}, is an avatar of {{c|2072|Vishnu}}—a
+Descent of the supreme god into human form to participate in the
+
+Historical drama. He is simultaneously fully human (with emotions,
+Relationships, historical specificity) and fully divine (capable
+Of miraculous interventions, possessor of cosmic knowledge,
+Embodying the absolute). This doctrine of {{p|avatar}} ("descent")
+
+Is one of the central features of {{p|Vaishnava}} {{p|Hindu}} theology.
+{{c|2072|Vishnu}} descends to earth periodically when cosmic order ({{p|dharma}})
+Is threatened, to restore balance. Ten major {{p|avatars}} are
+Traditionally recognized: the fish ({{c|1550|Matsya}}), the tortoise ({{c|2350|Kurma}}),
+
+The boar ({{c|2351|Varaha}}), the man-lion ({{c|2352|Narasimha}}), the dwarf ({{c|2353|Vamana}}),
+{{c|2354|Parashurama}}, {{c|2009|Rama}} (of the {{p|Ramayana}}), {{c|2340|Krishna}} (of the {{p|Mahabharata}}
+And separately of the {{p|Bhagavata Purana}}'s stories of his childhood),
+The {{c|1959|Buddha}} (included here as an avatar, a classic {{p|Hindu}} move to
+
+Absorb {{p|Buddhism}} into the {{p|Vaishnava}} framework), and {{c|2355|Kalki}} (the
+Future avatar who will appear at the end of the current dark age).
+Each avatar embodies divine engagement with human history. Each
+Represents a different form divine action can take. And the {{p|avatar}}
+
+Doctrine has deep structural parallels to the {{p|Christian}} doctrine
+Of incarnation, the {{p|Buddhist}} doctrine of bodhisattvas, and other
+Religious conceptions of divine beings taking on embodied form for
+The sake of sentient beings. These parallels are not identities,
+
+But they are striking resemblances. The {{x|Gaiad}} reads them as
+Different cultural elaborations of a common religious insight:
+That divinity is not remote from human affairs but engages with
+Them in various modes, sometimes taking on the limitations of
+
+Embodied existence in order to be present among creatures.
+
+                                                                 The
+{{p|Mahabharata}} also contains, as subsidiary material, enormous
+Amounts of philosophical, religious, and practical content. The
+
+{{p|Shanti Parva}} ("{{x|Book of Peace}}") and the {{p|Anushasana Parva}} ("Book
+Of Instruction")—two of the epic's eighteen books—are essentially
+Compendia of moral and philosophical teaching delivered by the
+Dying {{c|2349|Bhishma}} to {{c|2124|Yudhishthira}} about kingship, dharma, and
+
+The good life. These sections alone are as long as major classical
+{{p|Indian}} philosophical texts and contain substantial treatments of
+Ethics, political theory, theology, and practical wisdom. The epic
+Also preserves numerous side stories, genealogies, creation myths,
+
+Proverbs, hymns. It functions, in part, as an encyclopedia of
+Classical {{p|Hindu}} civilization. To know the {{p|Mahabharata}} deeply is
+To know much of what traditional {{p|India}} knew about itself.
+
+And the epic remains alive. {{p|Indian}} television produced a serialized
+
+Adaptation in the late nineteen-eighties that was watched by
+Hundreds of millions of viewers, grinding the country to a halt
+Each Sunday morning. Multiple film versions have been made in
+Various {{p|Indian}} languages. Comic books, children's retellings,
+
+Dance performances, theatrical productions in every regional
+Tradition—the {{p|Mahabharata}} is constantly being re-made. It is
+Not a dead classical text. It is a living cultural substance that
+{{p|Indians}} continue to think with, argue about, and return to for
+
+Wisdom. The {{p|Bhagavad Gita}} is, for many {{p|Hindus}}, a daily spiritual
+Companion. For all {{p|Hindus}}, the {{p|Mahabharata}}'s characters are
+Familiar as family members—the dharmic {{c|2124|Yudhishthira}}, the mighty
+{{c|2333|Bhima}}, the pure warrior {{c|2334|Arjuna}}, the tragic {{c|2348|Karna}}, the scheming
+
+{{c|2339|Shakuni}}, the proud {{c|2332|Duryodhana}}, the suffering {{c|2337|Draupadi}}, the
+Wise {{c|2340|Krishna}}, the oath-bound {{c|2349|Bhishma}}. These figures populate
+The moral imagination of {{p|Indian}} civilization as {{c|2110|Achilles}}, {{c|2111|Hector}},
+{{c|2112|Odysseus}}, and {{c|1337|Agamemnon}} populate the moral imagination of the
+
+Classical {{p|Mediterranean}}. Except the {{p|Mahabharata}}'s characters are
+More psychologically complex, the moral situations more ambiguous,
+The philosophical depth greater, the span of narrative time and
+Thematic concern vaster. If {{c|1957|Homer}}'s {{p|Iliad}} is the foundational
+
+{{p|Greek}} text, the {{p|Mahabharata}} is the {{p|Indian}} equivalent raised to
+A higher power. It is not just a great epic. It is the epic of
+An entire civilization.
+
+                             The {{x|Gaiad}} reads the {{p|Mahabharata}}—like
+The {{p|Ramayana}}—as another major articulation of the shared
+{{p|Indo-European}} narrative imagination, elaborated by the {{p|Indian}}
+Branch into a work of singular and unrivaled scope. The {{p|Trojan War}}
+Parallel is less direct here than in the {{p|Ramayana}}—there is no
+
+Stolen queen, no siege of a fortified foreign city—but the
+Structural parallel with the {{p|Iliad}} is still visible. Two related
+Groups of aristocratic warriors, driven by pride and conflicting
+Claims, fight an annihilating war that destroys most of the
+
+Aristocratic class. The aftermath is not triumphant but mournful.
+Both epics end with death and reflection rather than with
+Victorious celebration. The {{p|Iliad}} closes with {{c|2356|Priam}} ransoming
+{{c|2111|Hector}}'s body; the {{p|Mahabharata}} closes with {{c|2124|Yudhishthira}}'s
+
+Pilgrimage of death. Both are, fundamentally, works about the cost
+Of heroic warfare and the moral ambiguity of human glory. The
+{{p|Indo-European}} imagination produced, at opposite ends of its
+Geographical spread, two of the supreme literary meditations on
+
+The price of greatness.
+
+                              The {{p|Mahabharata}}. {{p|Kurukshetra}}. The
+{{p|Pandavas}} and the {{p|Kauravas}}. {{c|2124|Yudhishthira}}, {{c|2333|Bhima}}, {{c|2334|Arjuna}},
+{{c|2335|Nakula}}, {{c|2336|Sahadeva}}. {{c|2337|Draupadi}}. {{c|2332|Duryodhana}} and the hundred brothers.
+
+{{c|2349|Bhishma}} on his bed of arrows. {{c|2348|Karna}} the unrecognized brother.
+{{c|2340|Krishna}} the divine charioteer. The {{p|Bhagavad Gita}} at the heart of
+The battle. The {{p|dharmasankata}}—the crisis of dharma—woven through
+Every decision. The cosmic vision of {{c|2340|Krishna}}'s true form.
+
+The hundred thousand verses. The longest poem in the world. The
+Epic of an entire civilization.
+
+{{p|Mahabharata}}. {{p|Indian}} reflex of the great {{p|Indo-European}} war epic.
+The text that has shaped {{p|Hindu}} moral and religious imagination
+
+For twenty-five hundred years.
 
 
 # Chapter 174: Alexander the Great
@@ -2364,264 +2342,7 @@ The unification of {{p|India}}. {{c|2320|Ashoka}}'s ethical experiment. The
 {{p|Buddhist}} missions outward.
 
 
-# Chapter 176: Qin and Han
-
-In {{p|China}}, the {{p|Warring States}} period came to its violent climax.
-For two centuries seven major states had fought for dominance.
-Finally, in two-twenty-one BCE, the state of {{p|Qin}}—under its
-Ruthless king who would call himself the {{c|2441|First Emperor}}—completed
-
-The conquest of all rival states and unified {{p|China}} for the first
-Time.
-
-       {{c|2442|Qin Shi Huang}}. The {{c|2441|First Emperor}}. He came to the throne
-Of {{p|Qin}} as a boy of thirteen in two-forty-seven BCE. For years
-
-He ruled under a regent. Once he came into his own, he conducted
-Methodical military campaigns that eliminated the rival states
-One by one: {{p|Han}} in two-thirty, {{p|Zhao}} in two-twenty-eight, {{p|Wei}} in
-Two-twenty-five, {{p|Chu}} in two-twenty-three, {{p|Yan}} in two-twenty-two,
-
-{{p|Qi}} in two-twenty-one. The {{p|Warring States}} were ended. {{p|China}} was
-Unified. And {{c|2442|Qin Shi Huang}} declared himself the {{c|2441|First Emperor}}
-Of a dynasty that, he anticipated, would last ten thousand
-Generations. His reforms were radical. He imposed a single writing
-
-System—the "{{p|small seal script}}"—abolishing regional variations.
-He standardized weights, measures, and the axle-widths of carts
-(So that ruts worn in one region would fit carts from any other).
-He standardized currency. He abolished the old feudal aristocracy
-
-And replaced it with a centralized bureaucracy of appointed
-Officials answerable directly to the emperor. He divided the
-Country into thirty-six {{p|commanderies}}, each run by a civil governor,
-A military commander, and an inspector—a tripartite structure
-
-That would become the template for {{p|Chinese}} provincial administration
-For two millennia. He built roads. He built canals. He built the
-First unified version of the {{p|Great Wall}} by connecting earlier
-Regional walls along the northern frontier, protecting against
-
-{{p|Xiongnu}} nomadic raids. He conducted a campaign of intellectual
-Suppression—the famous "burning of books and burying of scholars"
-In which he ordered the destruction of most philosophical texts
-Not useful to his political program (preserving {{p|Legalist}} works,
-
-Agricultural manuals, and medical texts) and buried
-Alive four hundred sixty {{p|Confucian}} scholars. The atrocity{{fn|The burning of the books and burying of the scholars is told by Sima Qian, a historian of the Han, the dynasty that overthrew the Qin; some historians think the account exaggerated.}}
-Was real, whatever the later hostile {{p|Han}} historians
-Added to it, and the real
-
-Suppression of {{p|Confucian}} and other traditions did occur. {{c|2443|Qin Shi
-Huang}}'s governing philosophy was {{p|Legalism}}—a school that had
-Developed during the {{p|Warring States}} period, articulated most
-Clearly by {{c|2444|Han Feizi}}. {{p|Legalism}} held that human nature was
-
-Essentially selfish and that effective government required strict
-Laws impartially enforced, with clear rewards for compliance and
-Harsh punishments for violation. Unlike {{p|Confucianism}}, which
-Trusted in the moral cultivation of rulers, {{p|Legalism}} trusted in
-
-The power of institutional design. The emperor did not need to
-Be virtuous; he needed to administer his laws consistently. This
-Philosophy justified the authoritarian severity of {{c|2442|Qin Shi Huang}}'s
-Rule. His state was efficient, centralized, and intensely oppressive.
-
-And of course he was obsessed with death. The man who had founded
-The "first" dynasty of "ten thousand generations" was preoccupied
-With his own mortality. He sent expeditions in search of the
-{{p|elixir of immortality}}. He took mercury-based preparations that
-
-His court physicians claimed would grant long life (and that
-Probably contributed to his premature death by mercury poisoning).
-He built for himself, over thirty-six years, the most extensive
-Tomb complex in human history—covering tens of square kilometers
-
-At {{p|Lintong}} near modern {{p|Xi'an}}. The main tomb mound remains
-Unexcavated, but its periphery contains the famous {{p|Terracotta Army}}:
-Some eight thousand life-sized pottery warriors, complete with
-Horses and chariots, buried in pits to guard the emperor in the
-
-Afterlife. Each warrior is individually modeled with distinctive
-Features; together they constitute one of the greatest archaeological
-Finds of the twentieth century CE. Their discovery in nineteen-
-Seventy-four by local farmers drilling a well is one of the
-
-Serendipitous archaeological stories of the modern era. The
-Terracotta Army stands as silent testimony to the emperor's
-Ambition, wealth, and paranoid preparation for what might come.
-{{c|2442|Qin Shi Huang}} died in two-ten BCE, aged forty-nine, on a tour
-
-Of the eastern provinces. His death was kept secret by the chief
-Minister {{c|2445|Li Si}} and the eunuch {{c|2446|Zhao Gao}}, who did not want the
-Emperor's death to be announced until they had secured the
-Succession. They engineered the murder of the crown prince and
-
-Installed a weaker son as the second emperor. The dynasty's
-Vaunted stability collapsed within three years of the First
-Emperor's death. Peasant rebellions broke out in two-oh-nine BCE.
-By two-oh-six BCE, the {{p|Qin}} capital had fallen. The dynasty that
-
-Was to last ten thousand generations lasted fifteen years.
-
-                                                                 But
-The {{p|Qin}} reforms survived. Even as the dynasty collapsed, the
-Institutional structures it had created continued to operate.
-
-The standardized writing, the bureaucratic provinces, the road
-And canal networks, the legal codes—all of these were retained
-By the successor dynasty. The {{p|Han}}. Founded by {{c|2447|Liu Bang}}, a
-Peasant rebel who had risen through the chaos of the {{p|Qin}}
-
-Collapse and emerged as one of two contenders for supreme power.
-His rival was {{c|2448|Xiang Yu}}, an aristocratic warrior of enormous
-Personal prowess but poor political judgment. In a four-year
-Civil war ({{p|Chu-Han Contention}}), {{c|2447|Liu Bang}}—using patient political
-
-Maneuvering where {{c|2448|Xiang Yu}} used brutal force—prevailed. At the
-{{p|Battle of Gaixia}} in two-oh-two BCE, {{c|2448|Xiang Yu}} was defeated.
-{{c|2447|Liu Bang}} declared himself Emperor and founded the {{p|Han Dynasty}}
-As {{c|2449|Emperor Gaozu}}. The {{p|Han}} would rule, with one brief interruption,
-
-For four hundred years—from two-oh-two BCE to two-twenty CE. It
-Was one of the longest and most influential dynasties in {{p|Chinese}}
-History. {{p|Han}} emperors inherited the {{p|Qin}} administrative apparatus
-But softened its harshness. They retained the centralized state
-
-But also restored (gradually) some elements of {{p|Confucian}} political
-Ethics, eventually adopting {{p|Confucianism}} as the official ideology
-During the reign of {{c|2450|Emperor Wu}} (one-forty-one to eighty-seven BCE).
-The {{p|Han}} civil service examination, beginning under {{c|2450|Emperor Wu}},
-
-Would select officials based on classical education rather than
-Hereditary status—the first step toward the fully developed
-Meritocratic examination system of later dynasties. {{p|Han}} {{p|China}}
-Was vast, populous, and culturally productive. Its population
-
-Reached perhaps sixty million—a fifth of the human population of
-The time. Its capital at {{p|Chang'an}} was one of the largest cities
-In the world, rivaled only by contemporary {{p|Rome}}. And the {{p|Han}}
-Was expansionist. {{c|2450|Emperor Wu}} conducted campaigns against the
-
-{{p|Xiongnu}} nomads to the north, the {{p|Nanyue}} kingdom to the south
-(Conquering northern {{p|Vietnam}}), the {{p|Korean}} peninsula ({{p|Wiman Joseon}}
-Was conquered in one-oh-eight BCE, establishing {{p|Chinese}} colonies
-That would influence {{p|Korean}} civilization for centuries), and
-
-{{p|Central Asia}} (reaching as far as the {{p|Ferghana Valley}} in what is
-Now {{p|Uzbekistan}}). These campaigns opened the overland trade routes
-That would become known as the {{p|Silk Road}}. For the next five
-Centuries, {{p|Chinese}} silk would travel westward across {{p|Central Asia}}
-
-To the {{p|Mediterranean}} world, passing through the {{p|Parthian}} and
-Later {{p|Sassanid}} empires. In exchange, {{p|Western}} goods traveled east:
-Glass, gold, horses (particularly the prized "heavenly horses"
-Of {{p|Ferghana}}), wool, and eventually {{p|Buddhism}}. The {{p|Silk Road}}
-
-Connected {{p|Han}} {{p|China}} to the {{p|Mediterranean}} world in sustained
-Long-distance exchange. It was one of the most significant
-Developments in human economic and cultural history. And the {{p|Han}}
-Itself built up intellectual culture. {{c|2300|Sima Qian}} wrote the
-
-{{p|Records of the Grand Historian}} ({{p|Shiji}}), the first great
-Work of {{p|Chinese}} historiography, covering the entirety of
-{{p|Chinese}} history from the legendary {{p|Yellow Emperor}} down to
-{{c|2300|Sima Qian}}'s own time. His work would be the model for all
-
-Subsequent {{p|Chinese}} dynastic histories. {{c|2451|Cai Lun}}, a court eunuch,
-Invented (or perfected—predecessors existed) paper around one-
-Oh-five CE, revolutionizing record-keeping and information
-Distribution. {{p|Chinese}} mathematics, astronomy, and medicine
-
-Developed extensively under {{p|Han}} patronage. The magnetic compass,
-Though only systematically used for navigation much later, was
-First described during the {{p|Han}}. {{p|Han}} metallurgy produced the
-Finest steel of any ancient civilization. And the {{p|Han}} transmitted
-
-To subsequent {{p|Chinese}} civilization the template of what {{p|China}}
-Was supposed to be. "{{p|Han}}" became, and remains, the ethnonym
-Used by the majority {{p|Chinese}} population to refer to themselves.
-The very identity "{{p|Han Chinese}}" is a testimony to the dynasty's
-
-Formative importance. There would be later great dynasties—{{p|Tang}},
-{{p|Song}}, {{p|Ming}}, {{p|Qing}}—but each of them, in important ways, was
-Trying to live up to the template set by the {{p|Han}}. The {{p|Han}}
-Was, for subsequent {{p|Chinese}} civilization, what {{p|Rome}} was for
-
-Western civilization: the classical imperial model against which
-All later empires were measured.
-
-                                      The {{p|Han Dynasty}} declined in
-Its later centuries. The usual imperial problems: decadence at
-
-Court, rebellions on the frontiers, economic pressures, factional
-Struggles among eunuchs, officials, and military men. A brief
-Interregnum from nine to twenty-three CE—the reign of {{c|2452|Wang Mang}},
-A usurper who attempted radical reforms but failed—divided the
-
-{{p|Western Han}} (two-oh-two BCE to nine CE) from the {{p|Eastern Han}}
-(Twenty-five to two-twenty CE). The {{p|Eastern Han}} moved its capital
-From {{p|Chang'an}} to {{p|Luoyang}} and struggled with ongoing challenges.
-In the second century CE, peasant rebellions (most famously the
-
-{{p|Yellow Turban Rebellion}} of one-eighty-four CE) weakened central
-Authority. Warlords rose. In two-twenty CE, the last {{p|Han}} emperor
-Was deposed and {{p|China}} entered the {{p|Three Kingdoms}} period—the
-Setting of the great historical-fictional epic {{p|Romance of the
-
-Three Kingdoms}} that would be composed over a millennium later.
-We will return to that story. Here we close with the {{p|Han}} at its
-Peak: a civilization that matched {{p|Rome}} in population and
-Sophistication, that connected to {{p|Rome}} via the {{p|Silk Road}}, that
-
-Established the cultural and political template for the next two
-Thousand years of {{p|East Asian}} history. The {{p|Han}} and {{p|Rome}} are
-The two great classical empires of the ancient world—peers, even
-Rivals, though they rarely dealt directly with each other. Their
-
-Parallel existence framed the classical age of {{p|Eurasia}}.
-
-                                                                     And
-Consider what the {{p|Qin}}-{{p|Han}} sequence established. A unified {{p|China}}.
-A bureaucratic state. A standardized language and writing. A legal
-
-Framework. A stable agricultural economy. A cultural identity
-Based on {{p|Confucian}} classical learning. A political ideology
-Combining imperial authority with ethical responsibility. A
-Pattern of expansion into surrounding regions that would shape
-
-{{p|East Asian}} geopolitics ever after. These were not minor achievements.
-They set the terms within which {{p|East Asian}} civilization would
-Operate for the next two millennia. When subsequent dynasties
-Rose and fell, when {{p|China}} was repeatedly conquered by nomadic
-
-Peoples ({{p|Xianbei}}, {{p|Khitans}}, {{p|Jurchens}}, {{p|Mongols}}, {{p|Manchus}}),
-Each new dynasty adopted the {{p|Qin}}-{{p|Han}} template for ruling {{p|China}}.
-The template proved remarkably durable. It persisted because it
-Worked—because it provided effective tools for administering a
-
-Vast, populous, agriculturally intensive, ethnically diverse
-Realm. The {{p|Qin}}-{{p|Han}} synthesis was one of the great achievements
-Of pre-modern political technology. It is worth understanding
-In some detail because so much subsequent {{p|East Asian}} history
-
-Operates within its categories.
-
-                                    {{p|Qin}}. {{p|Han}}. {{c|2442|Qin Shi Huang}}. {{c|2447|Liu Bang}}.
-The {{c|2441|First Emperor}} and the rebel-peasant who succeeded him.
-{{p|Legalism}} yielding to {{p|Confucian}}-{{p|Legalist}} synthesis. The {{p|Great Wall}}.
-
-The {{p|Terracotta Army}}. The {{p|Silk Road}} opening. {{c|2300|Sima Qian}}'s
-History. The invention of paper. The four centuries of {{p|Han}}
-Governance. The model that all subsequent {{p|Chinese}} dynasties
-Would try to match.
-
-                         {{p|Qin}} and {{p|Han}}. {{p|China}}'s classical empires.
-The template of {{p|East Asian}} civilization for the next two thousand
-Years.
-
-
-# Chapter 177: The Punic Wars
+# Chapter 176: The Punic Wars
 
 In the western {{p|Mediterranean}}, while {{c|1982|Alexander}}'s successors were
 Dividing up his conquests and the {{p|Han}} was unifying {{p|China}}, two
@@ -2899,7 +2620,439 @@ Institutions. The beginning of the end for the {{p|Republic}}.
 Become the greatest {{p|Mediterranean}} empire.
 
 
-# Chapter 178: Rome
+# Chapter 177: Qin and Han
+
+In {{p|China}}, the {{p|Warring States}} period came to its violent climax.
+For two centuries seven major states had fought for dominance.
+Finally, in two-twenty-one BCE, the state of {{p|Qin}}—under its
+Ruthless king who would call himself the {{c|2441|First Emperor}}—completed
+
+The conquest of all rival states and unified {{p|China}} for the first
+Time.
+
+       {{c|2442|Qin Shi Huang}}. The {{c|2441|First Emperor}}. He came to the throne
+Of {{p|Qin}} as a boy of thirteen in two-forty-seven BCE. For years
+
+He ruled under a regent. Once he came into his own, he conducted
+Methodical military campaigns that eliminated the rival states
+One by one: {{p|Han}} in two-thirty, {{p|Zhao}} in two-twenty-eight, {{p|Wei}} in
+Two-twenty-five, {{p|Chu}} in two-twenty-three, {{p|Yan}} in two-twenty-two,
+
+{{p|Qi}} in two-twenty-one. The {{p|Warring States}} were ended. {{p|China}} was
+Unified. And {{c|2442|Qin Shi Huang}} declared himself the {{c|2441|First Emperor}}
+Of a dynasty that, he anticipated, would last ten thousand
+Generations. His reforms were radical. He imposed a single writing
+
+System—the "{{p|small seal script}}"—abolishing regional variations.
+He standardized weights, measures, and the axle-widths of carts
+(So that ruts worn in one region would fit carts from any other).
+He standardized currency. He abolished the old feudal aristocracy
+
+And replaced it with a centralized bureaucracy of appointed
+Officials answerable directly to the emperor. He divided the
+Country into thirty-six {{p|commanderies}}, each run by a civil governor,
+A military commander, and an inspector—a tripartite structure
+
+That would become the template for {{p|Chinese}} provincial administration
+For two millennia. He built roads. He built canals. He built the
+First unified version of the {{p|Great Wall}} by connecting earlier
+Regional walls along the northern frontier, protecting against
+
+{{p|Xiongnu}} nomadic raids. He conducted a campaign of intellectual
+Suppression—the famous "burning of books and burying of scholars"
+In which he ordered the destruction of most philosophical texts
+Not useful to his political program (preserving {{p|Legalist}} works,
+
+Agricultural manuals, and medical texts) and buried
+Alive four hundred sixty {{p|Confucian}} scholars. The atrocity{{fn|The burning of the books and burying of the scholars is told by Sima Qian, a historian of the Han, the dynasty that overthrew the Qin; some historians think the account exaggerated.}}
+Was real, whatever the later hostile {{p|Han}} historians
+Added to it, and the real
+
+Suppression of {{p|Confucian}} and other traditions did occur. {{c|2443|Qin Shi
+Huang}}'s governing philosophy was {{p|Legalism}}—a school that had
+Developed during the {{p|Warring States}} period, articulated most
+Clearly by {{c|2444|Han Feizi}}. {{p|Legalism}} held that human nature was
+
+Essentially selfish and that effective government required strict
+Laws impartially enforced, with clear rewards for compliance and
+Harsh punishments for violation. Unlike {{p|Confucianism}}, which
+Trusted in the moral cultivation of rulers, {{p|Legalism}} trusted in
+
+The power of institutional design. The emperor did not need to
+Be virtuous; he needed to administer his laws consistently. This
+Philosophy justified the authoritarian severity of {{c|2442|Qin Shi Huang}}'s
+Rule. His state was efficient, centralized, and intensely oppressive.
+
+And of course he was obsessed with death. The man who had founded
+The "first" dynasty of "ten thousand generations" was preoccupied
+With his own mortality. He sent expeditions in search of the
+{{p|elixir of immortality}}. He took mercury-based preparations that
+
+His court physicians claimed would grant long life (and that
+Probably contributed to his premature death by mercury poisoning).
+He built for himself, over thirty-six years, the most extensive
+Tomb complex in human history—covering tens of square kilometers
+
+At {{p|Lintong}} near modern {{p|Xi'an}}. The main tomb mound remains
+Unexcavated, but its periphery contains the famous {{p|Terracotta Army}}:
+Some eight thousand life-sized pottery warriors, complete with
+Horses and chariots, buried in pits to guard the emperor in the
+
+Afterlife. Each warrior is individually modeled with distinctive
+Features; together they constitute one of the greatest archaeological
+Finds of the twentieth century CE. Their discovery in nineteen-
+Seventy-four by local farmers drilling a well is one of the
+
+Serendipitous archaeological stories of the modern era. The
+Terracotta Army stands as silent testimony to the emperor's
+Ambition, wealth, and paranoid preparation for what might come.
+{{c|2442|Qin Shi Huang}} died in two-ten BCE, aged forty-nine, on a tour
+
+Of the eastern provinces. His death was kept secret by the chief
+Minister {{c|2445|Li Si}} and the eunuch {{c|2446|Zhao Gao}}, who did not want the
+Emperor's death to be announced until they had secured the
+Succession. They engineered the murder of the crown prince and
+
+Installed a weaker son as the second emperor. The dynasty's
+Vaunted stability collapsed within three years of the First
+Emperor's death. Peasant rebellions broke out in two-oh-nine BCE.
+By two-oh-six BCE, the {{p|Qin}} capital had fallen. The dynasty that
+
+Was to last ten thousand generations lasted fifteen years.
+
+                                                                 But
+The {{p|Qin}} reforms survived. Even as the dynasty collapsed, the
+Institutional structures it had created continued to operate.
+
+The standardized writing, the bureaucratic provinces, the road
+And canal networks, the legal codes—all of these were retained
+By the successor dynasty. The {{p|Han}}. Founded by {{c|2447|Liu Bang}}, a
+Peasant rebel who had risen through the chaos of the {{p|Qin}}
+
+Collapse and emerged as one of two contenders for supreme power.
+His rival was {{c|2448|Xiang Yu}}, an aristocratic warrior of enormous
+Personal prowess but poor political judgment. In a four-year
+Civil war ({{p|Chu-Han Contention}}), {{c|2447|Liu Bang}}—using patient political
+
+Maneuvering where {{c|2448|Xiang Yu}} used brutal force—prevailed. At the
+{{p|Battle of Gaixia}} in two-oh-two BCE, {{c|2448|Xiang Yu}} was defeated.
+{{c|2447|Liu Bang}} declared himself Emperor and founded the {{p|Han Dynasty}}
+As {{c|2449|Emperor Gaozu}}. The {{p|Han}} would rule, with one brief interruption,
+
+For four hundred years—from two-oh-two BCE to two-twenty CE. It
+Was one of the longest and most influential dynasties in {{p|Chinese}}
+History. {{p|Han}} emperors inherited the {{p|Qin}} administrative apparatus
+But softened its harshness. They retained the centralized state
+
+But also restored (gradually) some elements of {{p|Confucian}} political
+Ethics, eventually adopting {{p|Confucianism}} as the official ideology
+During the reign of {{c|2450|Emperor Wu}} (one-forty-one to eighty-seven BCE).
+The {{p|Han}} civil service examination, beginning under {{c|2450|Emperor Wu}},
+
+Would select officials based on classical education rather than
+Hereditary status—the first step toward the fully developed
+Meritocratic examination system of later dynasties. {{p|Han}} {{p|China}}
+Was vast, populous, and culturally productive. Its population
+
+Reached perhaps sixty million—a fifth of the human population of
+The time. Its capital at {{p|Chang'an}} was one of the largest cities
+In the world, rivaled only by contemporary {{p|Rome}}. And the {{p|Han}}
+Was expansionist. {{c|2450|Emperor Wu}} conducted campaigns against the
+
+{{p|Xiongnu}} nomads to the north, the {{p|Nanyue}} kingdom to the south
+(Conquering northern {{p|Vietnam}}), the {{p|Korean}} peninsula ({{p|Wiman Joseon}}
+Was conquered in one-oh-eight BCE, establishing {{p|Chinese}} colonies
+That would influence {{p|Korean}} civilization for centuries), and
+
+{{p|Central Asia}} (reaching as far as the {{p|Ferghana Valley}} in what is
+Now {{p|Uzbekistan}}). These campaigns opened the overland trade routes
+That would become known as the {{p|Silk Road}}. For the next five
+Centuries, {{p|Chinese}} silk would travel westward across {{p|Central Asia}}
+
+To the {{p|Mediterranean}} world, passing through the {{p|Parthian}} and
+Later {{p|Sassanid}} empires. In exchange, {{p|Western}} goods traveled east:
+Glass, gold, horses (particularly the prized "heavenly horses"
+Of {{p|Ferghana}}), wool, and eventually {{p|Buddhism}}. The {{p|Silk Road}}
+
+Connected {{p|Han}} {{p|China}} to the {{p|Mediterranean}} world in sustained
+Long-distance exchange. It was one of the most significant
+Developments in human economic and cultural history. And the {{p|Han}}
+Itself built up intellectual culture. {{c|2300|Sima Qian}} wrote the
+
+{{p|Records of the Grand Historian}} ({{p|Shiji}}), the first great
+Work of {{p|Chinese}} historiography, covering the entirety of
+{{p|Chinese}} history from the legendary {{p|Yellow Emperor}} down to
+{{c|2300|Sima Qian}}'s own time. His work would be the model for all
+
+Subsequent {{p|Chinese}} dynastic histories. {{c|2451|Cai Lun}}, a court eunuch,
+Invented (or perfected—predecessors existed) paper around one-
+Oh-five CE, revolutionizing record-keeping and information
+Distribution. {{p|Chinese}} mathematics, astronomy, and medicine
+
+Developed extensively under {{p|Han}} patronage. The magnetic compass,
+Though only systematically used for navigation much later, was
+First described during the {{p|Han}}. {{p|Han}} metallurgy produced the
+Finest steel of any ancient civilization. And the {{p|Han}} transmitted
+
+To subsequent {{p|Chinese}} civilization the template of what {{p|China}}
+Was supposed to be. "{{p|Han}}" became, and remains, the ethnonym
+Used by the majority {{p|Chinese}} population to refer to themselves.
+The very identity "{{p|Han Chinese}}" is a testimony to the dynasty's
+
+Formative importance. There would be later great dynasties—{{p|Tang}},
+{{p|Song}}, {{p|Ming}}, {{p|Qing}}—but each of them, in important ways, was
+Trying to live up to the template set by the {{p|Han}}. The {{p|Han}}
+Was, for subsequent {{p|Chinese}} civilization, what {{p|Rome}} was for
+
+Western civilization: the classical imperial model against which
+All later empires were measured.
+
+                                      The {{p|Han Dynasty}} declined in
+Its later centuries. The usual imperial problems: decadence at
+
+Court, rebellions on the frontiers, economic pressures, factional
+Struggles among eunuchs, officials, and military men. A brief
+Interregnum from nine to twenty-three CE—the reign of {{c|2452|Wang Mang}},
+A usurper who attempted radical reforms but failed—divided the
+
+{{p|Western Han}} (two-oh-two BCE to nine CE) from the {{p|Eastern Han}}
+(Twenty-five to two-twenty CE). The {{p|Eastern Han}} moved its capital
+From {{p|Chang'an}} to {{p|Luoyang}} and struggled with ongoing challenges.
+In the second century CE, peasant rebellions (most famously the
+
+{{p|Yellow Turban Rebellion}} of one-eighty-four CE) weakened central
+Authority. Warlords rose. In two-twenty CE, the last {{p|Han}} emperor
+Was deposed and {{p|China}} entered the {{p|Three Kingdoms}} period—the
+Setting of the great historical-fictional epic {{p|Romance of the
+
+Three Kingdoms}} that would be composed over a millennium later.
+We will return to that story. Here we close with the {{p|Han}} at its
+Peak: a civilization that matched {{p|Rome}} in population and
+Sophistication, that connected to {{p|Rome}} via the {{p|Silk Road}}, that
+
+Established the cultural and political template for the next two
+Thousand years of {{p|East Asian}} history. The {{p|Han}} and {{p|Rome}} are
+The two great classical empires of the ancient world—peers, even
+Rivals, though they rarely dealt directly with each other. Their
+
+Parallel existence framed the classical age of {{p|Eurasia}}.
+
+                                                                     And
+Consider what the {{p|Qin}}-{{p|Han}} sequence established. A unified {{p|China}}.
+A bureaucratic state. A standardized language and writing. A legal
+
+Framework. A stable agricultural economy. A cultural identity
+Based on {{p|Confucian}} classical learning. A political ideology
+Combining imperial authority with ethical responsibility. A
+Pattern of expansion into surrounding regions that would shape
+
+{{p|East Asian}} geopolitics ever after. These were not minor achievements.
+They set the terms within which {{p|East Asian}} civilization would
+Operate for the next two millennia. When subsequent dynasties
+Rose and fell, when {{p|China}} was repeatedly conquered by nomadic
+
+Peoples ({{p|Xianbei}}, {{p|Khitans}}, {{p|Jurchens}}, {{p|Mongols}}, {{p|Manchus}}),
+Each new dynasty adopted the {{p|Qin}}-{{p|Han}} template for ruling {{p|China}}.
+The template proved remarkably durable. It persisted because it
+Worked—because it provided effective tools for administering a
+
+Vast, populous, agriculturally intensive, ethnically diverse
+Realm. The {{p|Qin}}-{{p|Han}} synthesis was one of the great achievements
+Of pre-modern political technology. It is worth understanding
+In some detail because so much subsequent {{p|East Asian}} history
+
+Operates within its categories.
+
+                                    {{p|Qin}}. {{p|Han}}. {{c|2442|Qin Shi Huang}}. {{c|2447|Liu Bang}}.
+The {{c|2441|First Emperor}} and the rebel-peasant who succeeded him.
+{{p|Legalism}} yielding to {{p|Confucian}}-{{p|Legalist}} synthesis. The {{p|Great Wall}}.
+
+The {{p|Terracotta Army}}. The {{p|Silk Road}} opening. {{c|2300|Sima Qian}}'s
+History. The invention of paper. The four centuries of {{p|Han}}
+Governance. The model that all subsequent {{p|Chinese}} dynasties
+Would try to match.
+
+                         {{p|Qin}} and {{p|Han}}. {{p|China}}'s classical empires.
+The template of {{p|East Asian}} civilization for the next two thousand
+Years.
+
+
+# Chapter 178: Second Temple Period
+
+Return from {{p|Babylon}} to {{p|Jerusalem}},
+by grace of {{c|2180|Cyrus}}' decree,
+the exiles rebuilt the {{p|Temple}} small
+and tried to reclaim their destiny.
+
+But who was {{c|2510|Jew}} was now a question.
+The returnees drew tight the line.
+The {{c|2511|Samaritans}} were turned away,
+the mixed-blood were excluded in time.
+
+{{c|2276|Ezra}} read the {{x|Torah}} aloud
+for seven days at the {{p|Water Gate}}.
+{{c|2277|Nehemiah}} built the walls again.
+The community consolidated late.
+
+The priesthood was now the center,
+the high priest as civil head.
+Under {{x|Persian}}, then {{x|Macedonian}} rule,
+{{p|Judea}} quietly went ahead.
+
+Then {{c|1982|Alexander}} came through the land,
+was shown the prophecy of {{c|2512|Daniel}}
+according to {{c|2513|Josephus}}' tale,
+and spared {{p|Jerusalem}} from peril.
+
+After {{c|1982|Alexander}} came the {{c|2514|Seleucids}},
+the {{x|Greek}} kingdom east in {{p|Syria}},
+who ruled {{p|Judea}} as a province
+with some degree of imperial delirium.
+
+{{c|2515|Antiochus IV Epiphanes}} came,
+Who meant the {{x|Greek}} way kept, and in its name
+He sacked {{p|Jerusalem}}, he banned the {{x|Law}},
+And on the altar of the Lord they saw
+
+The Lord of Heaven under the king's name:
+{{c|2065|Zeus}} of the heights, the same sky and the same
+Altar, but now his priests, his rite, his swine
+Laid on it in the {{p|Temple}}'s court. The sign
+
+The {{x|Book of Daniel}}, punning on that name,
+Called it "abomination," set in shame:
+One altar, and a fight for who would stand
+Before it, and whose law would rule the land.
+
+This was too much. Revolt broke out.
+{{c|2516|Mattathias}} the priest refused
+to make the {{x|Greek}} sacrifice, and killed
+the {{c|2510|Jew}} who volunteered, misused.
+
+His son {{c|2517|Judas Maccabeus}} rose,
+the {{c|2518|Hammer of the Lord}}, and led
+guerrilla war against the {{c|2519|Greeks}}
+until the {{p|Temple}} was reconsecrated.
+
+{{x|Hanukkah}} the festival commemorates
+the rededication's eight-day rite,
+the oil that burned for eight days straight
+when only one day's oil was in sight.
+
+The {{x|Hasmonean}} dynasty rose
+from this successful {{x|Maccabee}} war,
+combining high priest with king,
+which some {{c|2500|Jews}} thought was against the law.
+
+The {{c|2520|Essenes}} withdrew to {{p|Qumran}}
+to wait for the end of days.
+They wrote the {{x|Dead Sea Scrolls}} in caves,
+rediscovered in modern ways.
+
+The {{c|2521|Pharisees}} developed oral law,
+the synagogue, the rabbinic mode,
+the piety of every household's {{x|Torah}},
+the democratic learning code.
+
+The {{c|2522|Sadducees}} were the priestly class,
+who held only the written {{x|Law}},
+denied the resurrection's hope,
+and ruled the {{p|Temple}} without awe.
+
+The {{c|2523|Zealots}} wanted armed revolt
+against whatever power held sway.
+The apocalyptists wrote of ends
+when {{c|472|God}} would break into the fray.
+
+Then {{p|Rome}} arrived. {{c|2468|Pompey}} marched in
+in sixty-three before the {{x|Common Era}},
+walked into the {{p|Holy of Holies}},
+astonished that the room was bare.
+
+(For what had he expected? Some golden idol?
+The {{c|2500|Jews}} had no image of their god.
+Just an empty room where the {{x|Ark}} had been
+before {{c|2024|Nebuchadnezzar}}'s rod.)
+
+{{p|Rome}} installed {{c|2524|Herod the Great}},
+an {{x|Idumean}}, half-Jewish at best,
+who built magnificent palaces,
+expanded the {{p|Temple}}, tried to rest.
+
+He rebuilt the {{p|Second Temple}} as
+the grandest structure in the {{p|East}},
+{{c|2525|Herod}}'s {{p|Temple}}, the one that {{c|1912|Jesus}}
+would know, the one the {{c|1004|Romans}} decreased.
+
+But {{c|2525|Herod}} was paranoid, murderous,
+killed his own sons, his wife as well,
+and the {{x|Gospels}} remember him as
+the slaughterer of infants in {{p|Bethlehem}}'s dell.
+
+After {{c|2525|Herod}}, the kingdom split,
+the {{c|1004|Romans}} ruled through procurators,
+and messianic expectation rose
+among the poor, the oppressed debtors.
+
+When would the {{c|2526|Messiah}} come?
+The {{c|2527|Son of David}}, the anointed one
+who would drive out {{p|Rome}} and restore
+the kingdom as in days bygone?
+
+Multiple claimants rose and fell.
+{{c|2528|Theudas}}. {{c|2529|Judas the Galilean}}.
+The Egyptian prophet at {{p|Olivet}}.
+{{c|2530|Bar Kochba}} later, the Judean.
+
+Into this ferment {{c|2531|John the Baptist}} came
+preaching repentance at the {{p|Jordan}}'s edge,
+baptizing crowds who felt the end
+was near, the kingdom's sudden pledge.
+
+He was a voice crying in the wilderness,
+clothed in camel-hair, fed on locusts and honey,
+an Essene-adjacent prophet figure
+urging the people, "turn now, stop running."
+
+He baptized {{c|1912|Jesus}} of {{p|Nazareth}},
+and later lost his head to {{c|2525|Herod}}
+{{c|2532|Antipas}}, the tetrarch, for denouncing
+his marriage to his brother's bride.
+
+The kingdom was about to arrive.
+Or so it seemed to those who watched.
+The {{p|Temple}} stood magnificent still.
+The prophets' words were being matched.
+
+Then came a Galilean teacher
+who gathered twelve, who spoke in parables,
+who healed the sick, and raised the dead,
+and spoke of a kingdom invisible.
+
+The next chapter is his.
+
+But here we pause to mark the world
+that shaped him: monotheism hardened
+in exile; messianism heightened
+by {{p|Rome}}'s weight, by the {{p|Temple}}'s burden.
+
+{{x|Judaism}} was already more
+than just the cult of one small nation.
+It was a portable faith of text,
+of weekly synagogue vocation.
+
+It had rivals, it had debates,
+{{c|2533|Pharisee}} against {{c|2534|Sadducee}},
+{{c|2535|Essene}} against {{c|2536|Zealot}}, Hellenized
+against the strict traditional trees.
+
+But all agreed: one {{c|472|God}}, no image,
+covenant, {{x|Torah}}, {{x|Sabbath}}, kosher.
+And all were waiting for what would come
+to change the world and bring it closer.
+
+
+# Chapter 179: Rome
 
 After {{p|Carthage}} fell, {{p|Rome}} stood
 the master of the {{p|Middle Sea}},
@@ -3120,181 +3273,6 @@ and after him came crises.
 From here, the slow decline began.
 But for two hundred years it held
 the greatest empire made by man.
-
-
-# Chapter 179: Second Temple Period
-
-Return from {{p|Babylon}} to {{p|Jerusalem}},
-by grace of {{c|2180|Cyrus}}' decree,
-the exiles rebuilt the {{p|Temple}} small
-and tried to reclaim their destiny.
-
-But who was {{c|2510|Jew}} was now a question.
-The returnees drew tight the line.
-The {{c|2511|Samaritans}} were turned away,
-the mixed-blood were excluded in time.
-
-{{c|2276|Ezra}} read the {{x|Torah}} aloud
-for seven days at the {{p|Water Gate}}.
-{{c|2277|Nehemiah}} built the walls again.
-The community consolidated late.
-
-The priesthood was now the center,
-the high priest as civil head.
-Under {{x|Persian}}, then {{x|Macedonian}} rule,
-{{p|Judea}} quietly went ahead.
-
-Then {{c|1982|Alexander}} came through the land,
-was shown the prophecy of {{c|2512|Daniel}}
-according to {{c|2513|Josephus}}' tale,
-and spared {{p|Jerusalem}} from peril.
-
-After {{c|1982|Alexander}} came the {{c|2514|Seleucids}},
-the {{x|Greek}} kingdom east in {{p|Syria}},
-who ruled {{p|Judea}} as a province
-with some degree of imperial delirium.
-
-{{c|2515|Antiochus IV Epiphanes}} came,
-Who meant the {{x|Greek}} way kept, and in its name
-He sacked {{p|Jerusalem}}, he banned the {{x|Law}},
-And on the altar of the Lord they saw
-
-The Lord of Heaven under the king's name:
-{{c|2065|Zeus}} of the heights, the same sky and the same
-Altar, but now his priests, his rite, his swine
-Laid on it in the {{p|Temple}}'s court. The sign
-
-The {{x|Book of Daniel}}, punning on that name,
-Called it "abomination," set in shame:
-One altar, and a fight for who would stand
-Before it, and whose law would rule the land.
-
-This was too much. Revolt broke out.
-{{c|2516|Mattathias}} the priest refused
-to make the {{x|Greek}} sacrifice, and killed
-the {{c|2510|Jew}} who volunteered, misused.
-
-His son {{c|2517|Judas Maccabeus}} rose,
-the {{c|2518|Hammer of the Lord}}, and led
-guerrilla war against the {{c|2519|Greeks}}
-until the {{p|Temple}} was reconsecrated.
-
-{{x|Hanukkah}} the festival commemorates
-the rededication's eight-day rite,
-the oil that burned for eight days straight
-when only one day's oil was in sight.
-
-The {{x|Hasmonean}} dynasty rose
-from this successful {{x|Maccabee}} war,
-combining high priest with king,
-which some {{c|2500|Jews}} thought was against the law.
-
-The {{c|2520|Essenes}} withdrew to {{p|Qumran}}
-to wait for the end of days.
-They wrote the {{x|Dead Sea Scrolls}} in caves,
-rediscovered in modern ways.
-
-The {{c|2521|Pharisees}} developed oral law,
-the synagogue, the rabbinic mode,
-the piety of every household's {{x|Torah}},
-the democratic learning code.
-
-The {{c|2522|Sadducees}} were the priestly class,
-who held only the written {{x|Law}},
-denied the resurrection's hope,
-and ruled the {{p|Temple}} without awe.
-
-The {{c|2523|Zealots}} wanted armed revolt
-against whatever power held sway.
-The apocalyptists wrote of ends
-when {{c|472|God}} would break into the fray.
-
-Then {{p|Rome}} arrived. {{c|2468|Pompey}} marched in
-in sixty-three before the {{x|Common Era}},
-walked into the {{p|Holy of Holies}},
-astonished that the room was bare.
-
-(For what had he expected? Some golden idol?
-The {{c|2500|Jews}} had no image of their god.
-Just an empty room where the {{x|Ark}} had been
-before {{c|2024|Nebuchadnezzar}}'s rod.)
-
-{{p|Rome}} installed {{c|2524|Herod the Great}},
-an {{x|Idumean}}, half-Jewish at best,
-who built magnificent palaces,
-expanded the {{p|Temple}}, tried to rest.
-
-He rebuilt the {{p|Second Temple}} as
-the grandest structure in the {{p|East}},
-{{c|2525|Herod}}'s {{p|Temple}}, the one that {{c|1912|Jesus}}
-would know, the one the {{c|1004|Romans}} decreased.
-
-But {{c|2525|Herod}} was paranoid, murderous,
-killed his own sons, his wife as well,
-and the {{x|Gospels}} remember him as
-the slaughterer of infants in {{p|Bethlehem}}'s dell.
-
-After {{c|2525|Herod}}, the kingdom split,
-the {{c|1004|Romans}} ruled through procurators,
-and messianic expectation rose
-among the poor, the oppressed debtors.
-
-When would the {{c|2526|Messiah}} come?
-The {{c|2527|Son of David}}, the anointed one
-who would drive out {{p|Rome}} and restore
-the kingdom as in days bygone?
-
-Multiple claimants rose and fell.
-{{c|2528|Theudas}}. {{c|2529|Judas the Galilean}}.
-The Egyptian prophet at {{p|Olivet}}.
-{{c|2530|Bar Kochba}} later, the Judean.
-
-Into this ferment {{c|2531|John the Baptist}} came
-preaching repentance at the {{p|Jordan}}'s edge,
-baptizing crowds who felt the end
-was near, the kingdom's sudden pledge.
-
-He was a voice crying in the wilderness,
-clothed in camel-hair, fed on locusts and honey,
-an Essene-adjacent prophet figure
-urging the people, "turn now, stop running."
-
-He baptized {{c|1912|Jesus}} of {{p|Nazareth}},
-and later lost his head to {{c|2525|Herod}}
-{{c|2532|Antipas}}, the tetrarch, for denouncing
-his marriage to his brother's bride.
-
-The kingdom was about to arrive.
-Or so it seemed to those who watched.
-The {{p|Temple}} stood magnificent still.
-The prophets' words were being matched.
-
-Then came a Galilean teacher
-who gathered twelve, who spoke in parables,
-who healed the sick, and raised the dead,
-and spoke of a kingdom invisible.
-
-The next chapter is his.
-
-But here we pause to mark the world
-that shaped him: monotheism hardened
-in exile; messianism heightened
-by {{p|Rome}}'s weight, by the {{p|Temple}}'s burden.
-
-{{x|Judaism}} was already more
-than just the cult of one small nation.
-It was a portable faith of text,
-of weekly synagogue vocation.
-
-It had rivals, it had debates,
-{{c|2533|Pharisee}} against {{c|2534|Sadducee}},
-{{c|2535|Essene}} against {{c|2536|Zealot}}, Hellenized
-against the strict traditional trees.
-
-But all agreed: one {{c|472|God}}, no image,
-covenant, {{x|Torah}}, {{x|Sabbath}}, kosher.
-And all were waiting for what would come
-to change the world and bring it closer.
 
 
 # Chapter 180: Jesus
@@ -3703,7 +3681,228 @@ The {{c|1959|Buddha}}'s "middle path" had proved
 capable of crossing every sway.
 
 
-# Chapter 182: Elagabalus
+# Chapter 182: The Fall of Han
+
+While {{p|Rome}} was under the {{c|2684|Severans}} strained,
+the {{c|2556|Han Dynasty}} in {{p|China}} fell apart.
+The eunuchs fought the Confucian scholars.
+The {{c|2568|Yellow Turbans}} rose with fervent heart.
+
+{{c|2685|Zhang Jue}} and his brothers led
+the {{c|2686|Yellow Turban Rebellion}} in 184.
+{{x|Taiping Dao}}, the {{x|Way of Great Peace}},
+promised a new heaven, a new core.
+
+{{c|2685|Zhang Jue}} claimed healing powers, faith
+cures, magical ceremonies, bean counting.
+When plague and famine struck the peasants,
+his followers numbered hundreds of thousands mounting.
+
+The {{x|Han}} court raised armies, crushed the revolt,
+but the generals became too strong thereby.
+{{c|2687|Dong Zhuo}} marched into the capital,
+controlled the boy emperor, made him cry.
+
+{{c|2687|Dong Zhuo}} was assassinated. The warlords
+carved up {{p|China}} like meat on the bone.
+{{c|2688|Cao Cao}}, {{c|2689|Liu Bei}}, {{c|2690|Sun Quan}} emerged
+as the three great regional powers alone.
+
+{{c|2688|Cao Cao}} held the north, controlled the emperor,
+ruled through the {{x|Han}} name though he was king.
+{{c|2689|Liu Bei}} claimed descent from {{x|Han}} imperial blood,
+built his base in {{p|Shu}}, the southwestern ring.
+
+{{c|2690|Sun Quan}} inherited the south from his father and brother,
+built his power along the {{p|Yangtze}}'s mouth,
+{{p|Wu}} the eastern kingdom along the coast.
+{{x|Three Kingdoms}}: {{p|Wei}}, {{p|Shu}}, {{p|Wu}}, facing drouth.
+
+In two-twenty, {{c|2688|Cao Cao}}'s son {{c|2691|Cao Pi}}
+forced the last {{x|Han}} emperor to abdicate.
+The {{x|Han}} was formally dead. {{c|2691|Cao Pi}}
+declared {{p|Wei}} dynasty at its birth date.
+
+{{c|2689|Liu Bei}} declared {{p|Shu Han}} in response.
+{{c|2690|Sun Quan}} declared {{p|Wu}} a few years later.
+The {{x|Three Kingdoms}} period had begun,
+lasting sixty years, never quieter.
+
+The {{x|Han}} had lasted four hundred years.
+Its fall was the end of classical Chinese order.
+What followed was three centuries of division,
+three centuries of warfare on every border.
+
+The {{x|Three Kingdoms}}, then {{x|Jin}} unification briefly,
+then the {{x|Sixteen Kingdoms}} in the north,
+then the {{x|Southern and Northern Dynasties}} period,
+three hundred years of {{p|China}} torn forth.
+
+And in this time {{x|Buddhism}} took deep root:
+as the old order failed, the people turned
+to the one rite from {{p|India}}, its fruit
+in sutras and in monasteries earned.
+
+{{c|2692|Kumarajiva}} was brought from {{p|Kucha}} as hostage
+to {{p|Chang'an}} where he translated sutras,
+the {{x|Lotus}}, the {{x|Diamond}}, the {{x|Vimalakirti}},
+setting the standard for Chinese Buddhist tutors.
+
+{{x|Daoism}} also consolidated in this period
+into an organized religion with clergy,
+temples, canon, and liturgies modeled
+on Buddhist forms they found analogously.
+
+The {{c|2693|Celestial Masters}} had emerged
+in the late {{x|Han}} as an organized church.
+{{c|2694|Ge Hong}}'s alchemy sought immortality.
+{{x|Daoism}} became institutional perch.
+
+{{p|China}} would not be reunified until
+{{c|2695|Sui Wendi}} in five-eighty-nine.
+And then the {{c|2696|Tang Dynasty}} would build
+on that foundation the greatest era fine.
+
+But first, the {{x|Three Kingdoms}} would become
+the great subject of Chinese historical imagination.
+The {{c|2697|Romance of the Three Kingdoms}} novel
+would make these warlords into every nation's creation.
+
+{{c|2688|Cao Cao}}: the cunning, ruthless antihero.
+{{c|2689|Liu Bei}}: the virtuous, righteous claimant.
+{{c|2698|Zhuge Liang}}: the brilliant strategist advisor.
+{{c|2699|Guan Yu}}: the loyal sworn brother, servant of heaven's pavement.
+
+Their stories would shape Chinese culture
+for fifteen centuries to come,
+like the {{x|Mahabharata}} for {{p|India}},
+like the {{x|Iliad}} for classical Greek home.
+
+
+# Chapter 183: Jimmu to Jingū
+
+In the island kingdom of {{p|Japan}},
+the legendary first emperor {{c|2708|Jimmu}}
+is said to have descended from {{c|885|Amaterasu}}
+through a line of gods at their minimum.
+
+Six-sixty BCE is the traditional date
+for {{c|2708|Jimmu}}'s eastern expedition from {{p|Kyushu}}
+to the {{p|Yamato}} plain, where he founded
+the imperial line that {{p|Japan}} would issue.
+
+Historically, the date is far too early.
+The {{x|Yayoi}} rice-culture people had barely arrived.
+The {{p|Yamato}} state would not coalesce
+until several centuries after this contrived.
+
+But the myth sets the frame: the imperial line
+descends from the sun goddess through her grandson
+{{c|2709|Ninigi}} who came down to {{p|Mount Takachiho}}
+carrying the {{x|Three Sacred Treasures}} begun:
+
+the mirror {{x|Yata no Kagami}},
+the sword {{c|2710|Kusanagi}} (taken from the tail
+of the eight-headed serpent {{c|2711|Yamata no Orochi}}
+by {{c|2712|Susanoo}} in myth's oldest detail),
+
+and the jewel {{x|Yasakani no Magatama}}.
+These three still exist, kept in the shrines' stead,
+as the imperial regalia of {{p|Japan}},
+passed down through seventy centuries' tread.
+
+{{c|2708|Jimmu}}'s great-grandfather was {{c|2709|Ninigi}}.
+{{c|2708|Jimmu}}'s grandmother was {{c|2713|Toyotamahime}},
+daughter of the sea dragon god, who bore
+{{c|2714|Ugayafukiaezu}}, {{c|2708|Jimmu}}'s father, extremely.
+
+So {{c|2708|Jimmu}} has divine lineage both through
+the sun goddess {{c|885|Amaterasu}} above
+and through the sea dragon gods below.
+He is sky and sea, embraced by both's love.
+
+He marched east from {{p|Kyushu}}, subduing
+local chieftains, defeating rivals as he went.
+At {{p|Kashihara}} in the {{p|Yamato}} plain
+he founded the capital, his tent.
+
+He ascended the throne there, we are told,
+on February 11 of 660 BCE.
+This date became {{p|Japan}}'s {{x|National Foundation Day}},
+a holiday ever since, at least in theory.
+
+For centuries after, the emperors listed
+are largely legendary or semi-so.
+The tenth emperor {{c|2715|Sujin}} may be
+the first with some historical glow.
+
+The twelfth, {{c|2716|Keikō}}, had a son {{c|2717|Yamato Takeru}},
+the culture hero who conquered the eastern {{c|2718|Emishi}},
+who killed his brother in his father's bathroom,
+was sent to die on difficult missions barely.
+
+He received {{c|2710|Kusanagi}} from his aunt
+{{c|2719|Yamatohime}}, priestess of {{c|885|Amaterasu}} at {{p|Ise}}.
+He used it to cut grass in a fire trap set by enemies,
+saving his life, naming the sword "grass-cutter" in simplicity.
+
+His son or nephew (accounts vary) {{c|2720|Chuai}}
+was the fourteenth emperor, who died young,
+leaving his pregnant queen {{c|2721|Jingū}} to rule.
+She is the great semi-historical warrior tongue.
+
+{{c|2722|Empress Jingū}} led an invasion of {{p|Korea}}
+while pregnant with the future emperor {{c|2723|Ojin}}.
+She held the birth back three years by
+tying stones to her waist, the legend's imagine.
+
+She conquered the Korean kingdoms (or received
+their tribute), returning triumphant
+to bear {{c|2723|Ojin}}, who would be deified as
+{{c|2724|Hachiman}}, god of war, the most welcomed triumphant.
+
+Modern historians are skeptical of {{c|2721|Jingū}}'s
+Korean invasion. But there was certainly
+contact with Korean kingdoms {{p|Baekje}}, {{p|Silla}}, {{p|Gaya}},
+trade, migration, cultural transfer apparently.
+
+From Baekje came writing, {{x|Confucianism}}, {{x|Buddhism}}
+into {{p|Japan}} — {{x|Buddhism}} officially in 538 or 552,
+though private transmission was earlier.
+From Gaya came iron, craftsmen, immigrant troops.
+
+The {{c|2725|Yamato}} court was consolidating
+in the fourth and fifth centuries, building
+the massive {{c|2726|kofun}} burial mounds,
+the largest tombs in the world, filling.
+
+The {{c|2727|Daisenryō Kofun}} attributed to
+emperor {{c|2728|Nintoku}} is longer than the {{p|Great Pyramid}},
+though lower — a 486-meter keyhole shape
+of earth and stone, for the imperial pyramid.
+
+These burial mounds mark the emergence
+of a centralized state in the Japanese archipelago,
+absorbing Korean immigrants, Chinese influence,
+building toward what would become emperor {{p|Yamato}}.
+
+Two clans, one court. The {{c|2729|Soga clan}} would raise
+the Buddha's hall beside the kami's days;
+and the {{c|2730|Mononobe clan}} would keep the rite
+in its own hands, and both would go to fight.
+
+In five-eighty-seven the {{c|2731|Soga}} won,
+and court and temple and the shrine were one:
+the Buddha and the kami of the sun,
+{{x|Shinto}} with {{x|Buddhism}}, a rite begun.
+
+The {{x|Kofun}} period was ending. The {{x|Asuka}} period
+beginning. The constitution of {{c|2732|Prince Shōtoku}}
+in 604 would organize the state
+along Chinese lines — the shape we still see.
+
+
+# Chapter 184: Elagabalus
 
 The {{x|Severan}} dynasty held {{p|Rome}}
 in the early third {{x|Common Era}},
@@ -3836,7 +4035,218 @@ But history remembered him as
 the strangest emperor {{p|Rome}} had faced.
 
 
-# Chapter 183: The Third Century Crisis
+# Chapter 185: Romance of the Three Kingdoms
+
+The novel by {{c|2700|Luo Guanzhong}}
+in the fourteenth century brought alive
+the {{x|Three Kingdoms}} war with such vividness
+that fact and fiction no longer survive
+
+as separate things. What "everyone knows"
+about this period comes from his book.
+The historical {{c|2701|Chen Shou}}'s {{x|Records of Three Kingdoms}}
+is less read, less fun, less took.
+
+The opening line: "The empire, long divided,
+must unite; long united, must divide.
+Thus it has ever been." The novel begins
+with the {{x|Peach Garden Oath}} on a riverside.
+
+{{c|2689|Liu Bei}}, {{c|2699|Guan Yu}}, and {{c|2702|Zhang Fei}}
+swore brotherhood in a peach garden,
+pledging to die on the same day, to
+restore the {{x|Han}}, to share every burden.
+
+{{c|2689|Liu Bei}} claimed descent from the {{x|Han}} imperial line,
+but sold straw sandals and mats to live.
+{{c|2699|Guan Yu}} was a fugitive for avenging
+a local bully who would not forgive.
+
+{{c|2702|Zhang Fei}} was a butcher and wine-seller,
+brash, brave, violent, loyal as stone.
+Together they raised a volunteer army
+against the {{c|2568|Yellow Turbans}} on their own.
+
+{{c|2698|Zhuge Liang}} joined {{c|2689|Liu Bei}} later,
+the {{c|2703|Sleeping Dragon}}, the brilliant strategist,
+visited three times at his thatched cottage
+before he would consent to be a lobbyist
+
+for {{c|2689|Liu Bei}}'s cause. He devised the strategy
+of the tripod: three kingdoms balancing,
+{{p|Shu}} allied with {{p|Wu}} against {{p|Wei}},
+the weaker two against the one advancing.
+
+The {{c|2704|Battle of Red Cliffs}} in two-oh-eight
+was the great set piece. {{c|2688|Cao Cao}}'s northern army
+came south to crush the Wu-Shu alliance.
+Eight hundred thousand troops, allegedly.
+
+{{c|2698|Zhuge Liang}} borrowed arrows with straw boats
+in the fog, ten thousand arrows from {{c|2688|Cao Cao}}'s
+own archers fired at what they couldn't see.
+Fire ships were prepared, east wind-blowings owed.
+
+The Taoist {{c|2705|Zhuge}} summoned the east wind,
+or predicted it, the novel is ambiguous.
+The fire ships slipped into {{c|2688|Cao Cao}}'s fleet
+chained together, and the conflagration was continuous.
+
+{{c|2688|Cao Cao}}'s navy burned. His army fled
+along the {{p|Huarong Road}} through marsh and mud.
+{{c|2699|Guan Yu}} let him escape at the narrow pass,
+repaying old debt of favor, blood.
+
+(This was not in the histories. {{c|2700|Luo Guanzhong}}
+invented the {{p|Huarong Road}} release
+to show {{c|2699|Guan Yu}}'s righteousness, his sense
+of honor even to foes, sense of peace.)
+
+{{c|2699|Guan Yu}} became the god of war,
+of loyalty, of brotherhood, of merchants,
+worshipped across {{p|China}} and Chinese diaspora
+as {{c|2706|Guandi}}, in temples of gold and servants.
+
+{{c|2698|Zhuge Liang}}'s {{x|Six Campaigns}} against {{p|Wei}}
+ended in his death at {{p|Wuzhang Plains}}.
+"The heavens will not let me succeed,"
+he said. {{p|Shu}} collapsed from his absent pains.
+
+{{p|Shu}} fell to {{p|Wei}} in two-sixty-three.
+{{p|Wei}} was replaced by the {{c|2707|Jin Dynasty}} in two-sixty-five.
+{{p|Wu}} fell to {{x|Jin}} in two-eighty.
+The empire was briefly reunified alive.
+
+But {{x|Jin}} would not last. Barbarian invasions
+from the north would push the {{x|Jin}} south,
+the {{p|Northern and Southern Dynasties}} would begin.
+{{p|China}} would be divided with famine in its mouth.
+
+Yet the {{x|Three Kingdoms}} tales endured.
+{{c|2689|Liu Bei}} as the righteous rightful heir.
+{{c|2688|Cao Cao}} as the cunning realist.
+{{c|2698|Zhuge Liang}} as wisdom incarnate there.
+
+The novel's influence is vast.
+Every Chinese child knows these names.
+East Asian games, operas, films retell them.
+Military strategy manuals cite their games.
+
+"Hard as it is to conquer the world,
+harder it is to keep what's conquered."
+"Victory and defeat are common in war,
+but the determined man's not deflowered."
+
+The novel's worldview is deeply Confucian:
+loyalty above survival, righteousness above success.
+{{c|2689|Liu Bei}}'s cause is just though it loses.
+{{c|2688|Cao Cao}}'s victory is tainted, a mess.
+
+The deflationary polytheist sees here
+the Chinese counterpart to epic,
+the narrative matrix that shapes
+moral imagination, subsonic and sceptic.
+
+
+# Chapter 186: The Sassanid Empire
+
+In {{p|Persia}}, the {{c|2593|Parthians}} fell
+to {{c|2594|Ardashir I}} in two-twenty-four,
+who claimed descent from {{c|2595|Sasan}}, a priest,
+and founded the {{c|2596|Sassanid}} rule once more.
+
+The new dynasty revived old glory,
+the vision of {{x|Achaemenid}} days,
+and made {{c|2597|Zoroastrianism}} state religion,
+with {{c|2598|Kartir}} as high priest of ways.
+
+They centered on {{p|Ctesiphon}} their seat,
+on the {{p|Tigris}} near old {{p|Babylon}}'s ground.
+They warred with {{p|Rome}} for four centuries,
+locked in a struggle without bound.
+
+{{c|2585|Shapur I}} captured {{c|2586|Valerian}},
+defeated three {{p|Roman}} emperors in field,
+carved his triumph on {{p|Naqsh-e Rustam}}'s cliffs,
+where {{x|Achaemenid}} tombs were sealed.
+
+{{c|2599|Mani}} arose in {{c|2600|Shapur}}'s court,
+the prophet of {{c|2601|Manichaeism}},
+blending {{x|Zoroastrian}} dualism with
+{{x|Buddhist}}, {{x|Christian}}, and {{x|Gnostic}} idealism.
+
+{{c|2599|Mani}} named every prophet in a chain:
+{{c|2146|Zarathustra}}, the {{c|1959|Buddha}}, {{c|1912|Jesus}}, each
+one light sent down to every age again;
+a seal of prophets {{x|Islam}} came to teach.
+
+The religion spread from {{p|Persia}} east
+to {{p|Central Asia}} and to {{p|China}} past,
+west to {{p|Rome}}, where {{c|2384|Augustine}} embraced it
+for nine years, before he broke fast.
+
+{{c|2600|Shapur}} let {{c|2599|Mani}} preach; {{c|2602|Bahram}} instead
+had {{c|2599|Mani}} put in chains till he was dead,
+and {{c|2598|Kartir}} struck at every rival flame:
+the {{c|2603|Manichaeans}}, {{c|2500|Jews}}, {{c|2494|Christians}}, all one claim.
+
+But what he taught no prison chain could hold:
+it ran to {{p|Harran}} and the {{p|Uyghur}} east,
+and {{x|Islam}}'s prophets, later, kept its mold,
+and {{c|2598|Kartir}}'s {{c|2604|Avesta}} served the crown's priest.
+
+{{c|2605|Khosrow I}} brought the golden age,
+reformed taxation, built canals,
+received {{x|Greek}} philosophers fleeing
+{{c|2383|Justinian}}'s {{p|Athens}} shut locales.
+
+He commissioned translation of
+{{x|Indian}}, {{x|Greek}}, and {{x|Syriac}} books
+into {{p|Middle Persian}}, preserving learning
+that otherwise would have been shook.
+
+The game of chess arrived from {{p|India}}
+to his court, where it was refined.
+The {{x|Pancatantra}} was translated
+as {{x|Kalila wa Dimna}}, combined
+
+with {{x|Persian}} wisdom, and later became
+the source of fables across the world.
+{{c|2606|Aesop}}'s cousins, {{c|2607|Uncle Remus}}' kin,
+traveled through {{c|2608|Khosrow}}'s court unfurled.
+
+{{c|2609|Khosrow II}} would fight the last great
+war with {{p|Rome}}'s Eastern continuation,
+capture {{p|Jerusalem}} and take the {{x|True Cross}},
+nearly destroy {{p|Byzantium}}'s foundation.
+
+Then {{c|2610|Heraclius}} would counter-strike,
+marching into {{p|Persia}}'s heartland,
+recovering the {{x|Cross}}, ending the war,
+exhausting both empires first-hand.
+
+Both empires were spent. The stage was set
+for the {{x|Arab}} conquest sweeping north.
+Within a decade of that war's end,
+the {{x|Sassanid}} realm would be going forth
+
+to its destruction. {{c|2611|Yazdegerd III}},
+the last shah, would flee across the land,
+murdered by a miller at {{p|Merv}}.
+The fire temples would cease their stand.
+
+But the cultural inheritance endured.
+{{x|Persian}} language, literature, art
+would resurface under {{x|Islamic}} rule
+and shape the {{x|Islamic}} world's heart.
+
+The {{x|Shahnameh}} of {{c|2612|Ferdowsi}} would
+preserve the pre-Islamic past in verse.
+The {{c|2613|Zoroastrians}} who fled to {{p|India}}
+became {{c|2614|Parsis}}, their faith's unsquashed reverse.
+
+
+# Chapter 187: The Third Century Crisis
 
 After {{c|2570|Elagabalus}} was killed,
 the empire stumbled for fifty years.
@@ -3981,105 +4391,7 @@ He won the battle, credited {{c|1497|Christ}},
 and the whole direction began to flow.
 
 
-# Chapter 184: The Sassanid Empire
-
-In {{p|Persia}}, the {{c|2593|Parthians}} fell
-to {{c|2594|Ardashir I}} in two-twenty-four,
-who claimed descent from {{c|2595|Sasan}}, a priest,
-and founded the {{c|2596|Sassanid}} rule once more.
-
-The new dynasty revived old glory,
-the vision of {{x|Achaemenid}} days,
-and made {{c|2597|Zoroastrianism}} state religion,
-with {{c|2598|Kartir}} as high priest of ways.
-
-They centered on {{p|Ctesiphon}} their seat,
-on the {{p|Tigris}} near old {{p|Babylon}}'s ground.
-They warred with {{p|Rome}} for four centuries,
-locked in a struggle without bound.
-
-{{c|2585|Shapur I}} captured {{c|2586|Valerian}},
-defeated three {{p|Roman}} emperors in field,
-carved his triumph on {{p|Naqsh-e Rustam}}'s cliffs,
-where {{x|Achaemenid}} tombs were sealed.
-
-{{c|2599|Mani}} arose in {{c|2600|Shapur}}'s court,
-the prophet of {{c|2601|Manichaeism}},
-blending {{x|Zoroastrian}} dualism with
-{{x|Buddhist}}, {{x|Christian}}, and {{x|Gnostic}} idealism.
-
-{{c|2599|Mani}} named every prophet in a chain:
-{{c|2146|Zarathustra}}, the {{c|1959|Buddha}}, {{c|1912|Jesus}}, each
-one light sent down to every age again;
-a seal of prophets {{x|Islam}} came to teach.
-
-The religion spread from {{p|Persia}} east
-to {{p|Central Asia}} and to {{p|China}} past,
-west to {{p|Rome}}, where {{c|2384|Augustine}} embraced it
-for nine years, before he broke fast.
-
-{{c|2600|Shapur}} let {{c|2599|Mani}} preach; {{c|2602|Bahram}} instead
-had {{c|2599|Mani}} put in chains till he was dead,
-and {{c|2598|Kartir}} struck at every rival flame:
-the {{c|2603|Manichaeans}}, {{c|2500|Jews}}, {{c|2494|Christians}}, all one claim.
-
-But what he taught no prison chain could hold:
-it ran to {{p|Harran}} and the {{p|Uyghur}} east,
-and {{x|Islam}}'s prophets, later, kept its mold,
-and {{c|2598|Kartir}}'s {{c|2604|Avesta}} served the crown's priest.
-
-{{c|2605|Khosrow I}} brought the golden age,
-reformed taxation, built canals,
-received {{x|Greek}} philosophers fleeing
-{{c|2383|Justinian}}'s {{p|Athens}} shut locales.
-
-He commissioned translation of
-{{x|Indian}}, {{x|Greek}}, and {{x|Syriac}} books
-into {{p|Middle Persian}}, preserving learning
-that otherwise would have been shook.
-
-The game of chess arrived from {{p|India}}
-to his court, where it was refined.
-The {{x|Pancatantra}} was translated
-as {{x|Kalila wa Dimna}}, combined
-
-with {{x|Persian}} wisdom, and later became
-the source of fables across the world.
-{{c|2606|Aesop}}'s cousins, {{c|2607|Uncle Remus}}' kin,
-traveled through {{c|2608|Khosrow}}'s court unfurled.
-
-{{c|2609|Khosrow II}} would fight the last great
-war with {{p|Rome}}'s Eastern continuation,
-capture {{p|Jerusalem}} and take the {{x|True Cross}},
-nearly destroy {{p|Byzantium}}'s foundation.
-
-Then {{c|2610|Heraclius}} would counter-strike,
-marching into {{p|Persia}}'s heartland,
-recovering the {{x|Cross}}, ending the war,
-exhausting both empires first-hand.
-
-Both empires were spent. The stage was set
-for the {{x|Arab}} conquest sweeping north.
-Within a decade of that war's end,
-the {{x|Sassanid}} realm would be going forth
-
-to its destruction. {{c|2611|Yazdegerd III}},
-the last shah, would flee across the land,
-murdered by a miller at {{p|Merv}}.
-The fire temples would cease their stand.
-
-But the cultural inheritance endured.
-{{x|Persian}} language, literature, art
-would resurface under {{x|Islamic}} rule
-and shape the {{x|Islamic}} world's heart.
-
-The {{x|Shahnameh}} of {{c|2612|Ferdowsi}} would
-preserve the pre-Islamic past in verse.
-The {{c|2613|Zoroastrians}} who fled to {{p|India}}
-became {{c|2614|Parsis}}, their faith's unsquashed reverse.
-
-
-# Chapter 185: Armenia
+# Chapter 188: Armenia
 
 {{p|Armenia}}, that high mountain land
 between the {{p|Roman}} and {{x|Persian}} grip,
@@ -4162,95 +4474,7 @@ A small mountain nation held on through empires.
 The deflationary polytheist sees how they fend.
 
 
-# Chapter 186: Ethiopia
-
-South of {{p|Egypt}}, past the cataracts,
-past {{p|Kush}} and {{p|Meroe}}'s pyramid dead,
-the {{p|Kingdom of Aksum}} rose in highland
-of what is now {{p|Ethiopia}}'s head.
-
-They traded with {{p|Rome}}, {{p|India}}, {{p|Arabia}},
-from {{p|Adulis}} on the {{p|Red Sea}} coast.
-Their script was {{c|2630|Ge'ez}}, their language Semitic,
-cousin of {{x|Arabic}} from distant host.
-
-{{c|2631|Ezana}}, king in the fourth century,
-converted to {{x|Christianity}} around
-three-thirty, through the Syrian missionary
-{{c|2632|Frumentius}}, captured then renowned.
-
-{{c|2632|Frumentius}} had been shipwrecked as a boy,
-served in the royal court, was trusted,
-returned to {{p|Alexandria}} and was consecrated
-bishop by {{c|2633|Athanasius}}, who encrusted
-
-him with authority to evangelize.
-He returned to {{p|Ethiopia}} and preached.
-{{c|2631|Ezana}} became Christian, and the kingdom
-became the second Christian state reached.
-
-(After {{p|Armenia}}. Before {{p|Rome}}.
-{{p|Ethiopia}} was the second nation
-in history to adopt {{x|Christianity}}
-as its official state declaration.)
-
-And at {{p|Chalcedon}} in four-fifty-one
-the bishops split on how the {{c|1497|Christ}} was made:
-"Two natures," {{p|Rome}}; {{p|Alexandria}}, "one,"
-and {{p|Aksum}}'s bishop, sent from there, obeyed.
-
-It was one church that fought over a throne:
-which patriarch would say the creed for all.
-The {{c|2634|Copts}}, the {{c|2635|Syrians}} held to their own
-with {{c|2636|Ethiopians}}, a single hall.
-
-{{p|Ethiopia}} has a tradition that the {{c|2637|Ark of the Covenant}}
-rests at {{p|Aksum}} in the Church of {{p|St. Mary of Zion}},
-brought there by {{c|2638|Menelik I}}, son of
-{{c|2189|Solomon}} and {{c|2212|Sheba}}, the kebra nagast scion.
-
-The {{x|Kebra Nagast}}, "{{x|Glory of the Kings}},"
-tells how the {{c|2639|Queen of Sheba}} visited {{c|2189|Solomon}},
-bore his son {{c|2640|Menelik}}, who returned to {{p|Ethiopia}}
-taking the {{c|2641|Ark}} back to his own dominion.
-
-And this is true, as the faithful knew:
-the Ethiopian royal line claimed descent
-from {{c|2189|Solomon}} for three thousand years
-until {{c|2642|Haile Selassie}}'s twentieth-century bent.
-
-{{p|Ethiopia}} was never colonized
-in the nineteenth-century {{x|Scramble for Africa}} —
-held off the {{c|2643|Italians}} at {{p|Adwa}} in 1896,
-the only African state that defeated {{p|Europa}}.
-
-The country has Jewish communities too,
-the {{c|2644|Beta Israel}}, who practice a {{x|Judaism}}
-older than the {{x|Talmud}}, based on the {{x|Torah}},
-preserved in highland isolation from racism.
-
-Most were airlifted to {{p|Israel}} in the 1980s
-in {{x|Operations Moses and Solomon}}.
-A three-thousand-year lineage exiled
-to the ancestral homeland at last come.
-
-{{p|Aksum}} declined in the seventh century
-as the rise of {{x|Islam}} cut trade routes.
-The kingdom moved south and became
-the medieval Ethiopian kingdom of roots.
-
-{{c|2645|Lalibela}} in the twelfth century
-would carve eleven churches from solid rock,
-each one hewn down from a single stone,
-a {{x|New Jerusalem}}, a pilgrim's dock.
-
-{{p|Ethiopia}}'s story is the African Christian kingdom,
-ancient, persistent, mystical, strange,
-isolated but connected, deeply rooted,
-surviving every political change.
-
-
-# Chapter 187: Constantine and the Last Emperor of the West
+# Chapter 189: Constantine and the Last Emperor of the West
 
 {{c|2555|Constantine}} fought his rival {{c|2646|Maxentius}}
 at the {{p|Milvian Bridge}} outside {{p|Rome}} in three-twelve.
@@ -4483,338 +4707,92 @@ the feasts went on, the incense and the flames,
 the old {{p|Roman}} frame held what it had known.
 
 
-# Chapter 188: The Fall of Han
-
-While {{p|Rome}} was under the {{c|2684|Severans}} strained,
-the {{c|2556|Han Dynasty}} in {{p|China}} fell apart.
-The eunuchs fought the Confucian scholars.
-The {{c|2568|Yellow Turbans}} rose with fervent heart.
-
-{{c|2685|Zhang Jue}} and his brothers led
-the {{c|2686|Yellow Turban Rebellion}} in 184.
-{{x|Taiping Dao}}, the {{x|Way of Great Peace}},
-promised a new heaven, a new core.
-
-{{c|2685|Zhang Jue}} claimed healing powers, faith
-cures, magical ceremonies, bean counting.
-When plague and famine struck the peasants,
-his followers numbered hundreds of thousands mounting.
-
-The {{x|Han}} court raised armies, crushed the revolt,
-but the generals became too strong thereby.
-{{c|2687|Dong Zhuo}} marched into the capital,
-controlled the boy emperor, made him cry.
-
-{{c|2687|Dong Zhuo}} was assassinated. The warlords
-carved up {{p|China}} like meat on the bone.
-{{c|2688|Cao Cao}}, {{c|2689|Liu Bei}}, {{c|2690|Sun Quan}} emerged
-as the three great regional powers alone.
-
-{{c|2688|Cao Cao}} held the north, controlled the emperor,
-ruled through the {{x|Han}} name though he was king.
-{{c|2689|Liu Bei}} claimed descent from {{x|Han}} imperial blood,
-built his base in {{p|Shu}}, the southwestern ring.
-
-{{c|2690|Sun Quan}} inherited the south from his father and brother,
-built his power along the {{p|Yangtze}}'s mouth,
-{{p|Wu}} the eastern kingdom along the coast.
-{{x|Three Kingdoms}}: {{p|Wei}}, {{p|Shu}}, {{p|Wu}}, facing drouth.
-
-In two-twenty, {{c|2688|Cao Cao}}'s son {{c|2691|Cao Pi}}
-forced the last {{x|Han}} emperor to abdicate.
-The {{x|Han}} was formally dead. {{c|2691|Cao Pi}}
-declared {{p|Wei}} dynasty at its birth date.
-
-{{c|2689|Liu Bei}} declared {{p|Shu Han}} in response.
-{{c|2690|Sun Quan}} declared {{p|Wu}} a few years later.
-The {{x|Three Kingdoms}} period had begun,
-lasting sixty years, never quieter.
-
-The {{x|Han}} had lasted four hundred years.
-Its fall was the end of classical Chinese order.
-What followed was three centuries of division,
-three centuries of warfare on every border.
-
-The {{x|Three Kingdoms}}, then {{x|Jin}} unification briefly,
-then the {{x|Sixteen Kingdoms}} in the north,
-then the {{x|Southern and Northern Dynasties}} period,
-three hundred years of {{p|China}} torn forth.
-
-And in this time {{x|Buddhism}} took deep root:
-as the old order failed, the people turned
-to the one rite from {{p|India}}, its fruit
-in sutras and in monasteries earned.
-
-{{c|2692|Kumarajiva}} was brought from {{p|Kucha}} as hostage
-to {{p|Chang'an}} where he translated sutras,
-the {{x|Lotus}}, the {{x|Diamond}}, the {{x|Vimalakirti}},
-setting the standard for Chinese Buddhist tutors.
-
-{{x|Daoism}} also consolidated in this period
-into an organized religion with clergy,
-temples, canon, and liturgies modeled
-on Buddhist forms they found analogously.
-
-The {{c|2693|Celestial Masters}} had emerged
-in the late {{x|Han}} as an organized church.
-{{c|2694|Ge Hong}}'s alchemy sought immortality.
-{{x|Daoism}} became institutional perch.
-
-{{p|China}} would not be reunified until
-{{c|2695|Sui Wendi}} in five-eighty-nine.
-And then the {{c|2696|Tang Dynasty}} would build
-on that foundation the greatest era fine.
-
-But first, the {{x|Three Kingdoms}} would become
-the great subject of Chinese historical imagination.
-The {{c|2697|Romance of the Three Kingdoms}} novel
-would make these warlords into every nation's creation.
-
-{{c|2688|Cao Cao}}: the cunning, ruthless antihero.
-{{c|2689|Liu Bei}}: the virtuous, righteous claimant.
-{{c|2698|Zhuge Liang}}: the brilliant strategist advisor.
-{{c|2699|Guan Yu}}: the loyal sworn brother, servant of heaven's pavement.
-
-Their stories would shape Chinese culture
-for fifteen centuries to come,
-like the {{x|Mahabharata}} for {{p|India}},
-like the {{x|Iliad}} for classical Greek home.
-
-
-# Chapter 189: Romance of the Three Kingdoms
-
-The novel by {{c|2700|Luo Guanzhong}}
-in the fourteenth century brought alive
-the {{x|Three Kingdoms}} war with such vividness
-that fact and fiction no longer survive
-
-as separate things. What "everyone knows"
-about this period comes from his book.
-The historical {{c|2701|Chen Shou}}'s {{x|Records of Three Kingdoms}}
-is less read, less fun, less took.
-
-The opening line: "The empire, long divided,
-must unite; long united, must divide.
-Thus it has ever been." The novel begins
-with the {{x|Peach Garden Oath}} on a riverside.
-
-{{c|2689|Liu Bei}}, {{c|2699|Guan Yu}}, and {{c|2702|Zhang Fei}}
-swore brotherhood in a peach garden,
-pledging to die on the same day, to
-restore the {{x|Han}}, to share every burden.
-
-{{c|2689|Liu Bei}} claimed descent from the {{x|Han}} imperial line,
-but sold straw sandals and mats to live.
-{{c|2699|Guan Yu}} was a fugitive for avenging
-a local bully who would not forgive.
-
-{{c|2702|Zhang Fei}} was a butcher and wine-seller,
-brash, brave, violent, loyal as stone.
-Together they raised a volunteer army
-against the {{c|2568|Yellow Turbans}} on their own.
-
-{{c|2698|Zhuge Liang}} joined {{c|2689|Liu Bei}} later,
-the {{c|2703|Sleeping Dragon}}, the brilliant strategist,
-visited three times at his thatched cottage
-before he would consent to be a lobbyist
-
-for {{c|2689|Liu Bei}}'s cause. He devised the strategy
-of the tripod: three kingdoms balancing,
-{{p|Shu}} allied with {{p|Wu}} against {{p|Wei}},
-the weaker two against the one advancing.
-
-The {{c|2704|Battle of Red Cliffs}} in two-oh-eight
-was the great set piece. {{c|2688|Cao Cao}}'s northern army
-came south to crush the Wu-Shu alliance.
-Eight hundred thousand troops, allegedly.
-
-{{c|2698|Zhuge Liang}} borrowed arrows with straw boats
-in the fog, ten thousand arrows from {{c|2688|Cao Cao}}'s
-own archers fired at what they couldn't see.
-Fire ships were prepared, east wind-blowings owed.
-
-The Taoist {{c|2705|Zhuge}} summoned the east wind,
-or predicted it, the novel is ambiguous.
-The fire ships slipped into {{c|2688|Cao Cao}}'s fleet
-chained together, and the conflagration was continuous.
-
-{{c|2688|Cao Cao}}'s navy burned. His army fled
-along the {{p|Huarong Road}} through marsh and mud.
-{{c|2699|Guan Yu}} let him escape at the narrow pass,
-repaying old debt of favor, blood.
-
-(This was not in the histories. {{c|2700|Luo Guanzhong}}
-invented the {{p|Huarong Road}} release
-to show {{c|2699|Guan Yu}}'s righteousness, his sense
-of honor even to foes, sense of peace.)
-
-{{c|2699|Guan Yu}} became the god of war,
-of loyalty, of brotherhood, of merchants,
-worshipped across {{p|China}} and Chinese diaspora
-as {{c|2706|Guandi}}, in temples of gold and servants.
-
-{{c|2698|Zhuge Liang}}'s {{x|Six Campaigns}} against {{p|Wei}}
-ended in his death at {{p|Wuzhang Plains}}.
-"The heavens will not let me succeed,"
-he said. {{p|Shu}} collapsed from his absent pains.
-
-{{p|Shu}} fell to {{p|Wei}} in two-sixty-three.
-{{p|Wei}} was replaced by the {{c|2707|Jin Dynasty}} in two-sixty-five.
-{{p|Wu}} fell to {{x|Jin}} in two-eighty.
-The empire was briefly reunified alive.
-
-But {{x|Jin}} would not last. Barbarian invasions
-from the north would push the {{x|Jin}} south,
-the {{p|Northern and Southern Dynasties}} would begin.
-{{p|China}} would be divided with famine in its mouth.
-
-Yet the {{x|Three Kingdoms}} tales endured.
-{{c|2689|Liu Bei}} as the righteous rightful heir.
-{{c|2688|Cao Cao}} as the cunning realist.
-{{c|2698|Zhuge Liang}} as wisdom incarnate there.
-
-The novel's influence is vast.
-Every Chinese child knows these names.
-East Asian games, operas, films retell them.
-Military strategy manuals cite their games.
-
-"Hard as it is to conquer the world,
-harder it is to keep what's conquered."
-"Victory and defeat are common in war,
-but the determined man's not deflowered."
-
-The novel's worldview is deeply Confucian:
-loyalty above survival, righteousness above success.
-{{c|2689|Liu Bei}}'s cause is just though it loses.
-{{c|2688|Cao Cao}}'s victory is tainted, a mess.
-
-The deflationary polytheist sees here
-the Chinese counterpart to epic,
-the narrative matrix that shapes
-moral imagination, subsonic and sceptic.
-
-
-# Chapter 190: Jimmu to Jingū
-
-In the island kingdom of {{p|Japan}},
-the legendary first emperor {{c|2708|Jimmu}}
-is said to have descended from {{c|885|Amaterasu}}
-through a line of gods at their minimum.
-
-Six-sixty BCE is the traditional date
-for {{c|2708|Jimmu}}'s eastern expedition from {{p|Kyushu}}
-to the {{p|Yamato}} plain, where he founded
-the imperial line that {{p|Japan}} would issue.
-
-Historically, the date is far too early.
-The {{x|Yayoi}} rice-culture people had barely arrived.
-The {{p|Yamato}} state would not coalesce
-until several centuries after this contrived.
-
-But the myth sets the frame: the imperial line
-descends from the sun goddess through her grandson
-{{c|2709|Ninigi}} who came down to {{p|Mount Takachiho}}
-carrying the {{x|Three Sacred Treasures}} begun:
-
-the mirror {{x|Yata no Kagami}},
-the sword {{c|2710|Kusanagi}} (taken from the tail
-of the eight-headed serpent {{c|2711|Yamata no Orochi}}
-by {{c|2712|Susanoo}} in myth's oldest detail),
-
-and the jewel {{x|Yasakani no Magatama}}.
-These three still exist, kept in the shrines' stead,
-as the imperial regalia of {{p|Japan}},
-passed down through seventy centuries' tread.
-
-{{c|2708|Jimmu}}'s great-grandfather was {{c|2709|Ninigi}}.
-{{c|2708|Jimmu}}'s grandmother was {{c|2713|Toyotamahime}},
-daughter of the sea dragon god, who bore
-{{c|2714|Ugayafukiaezu}}, {{c|2708|Jimmu}}'s father, extremely.
-
-So {{c|2708|Jimmu}} has divine lineage both through
-the sun goddess {{c|885|Amaterasu}} above
-and through the sea dragon gods below.
-He is sky and sea, embraced by both's love.
-
-He marched east from {{p|Kyushu}}, subduing
-local chieftains, defeating rivals as he went.
-At {{p|Kashihara}} in the {{p|Yamato}} plain
-he founded the capital, his tent.
-
-He ascended the throne there, we are told,
-on February 11 of 660 BCE.
-This date became {{p|Japan}}'s {{x|National Foundation Day}},
-a holiday ever since, at least in theory.
-
-For centuries after, the emperors listed
-are largely legendary or semi-so.
-The tenth emperor {{c|2715|Sujin}} may be
-the first with some historical glow.
-
-The twelfth, {{c|2716|Keikō}}, had a son {{c|2717|Yamato Takeru}},
-the culture hero who conquered the eastern {{c|2718|Emishi}},
-who killed his brother in his father's bathroom,
-was sent to die on difficult missions barely.
-
-He received {{c|2710|Kusanagi}} from his aunt
-{{c|2719|Yamatohime}}, priestess of {{c|885|Amaterasu}} at {{p|Ise}}.
-He used it to cut grass in a fire trap set by enemies,
-saving his life, naming the sword "grass-cutter" in simplicity.
-
-His son or nephew (accounts vary) {{c|2720|Chuai}}
-was the fourteenth emperor, who died young,
-leaving his pregnant queen {{c|2721|Jingū}} to rule.
-She is the great semi-historical warrior tongue.
-
-{{c|2722|Empress Jingū}} led an invasion of {{p|Korea}}
-while pregnant with the future emperor {{c|2723|Ojin}}.
-She held the birth back three years by
-tying stones to her waist, the legend's imagine.
-
-She conquered the Korean kingdoms (or received
-their tribute), returning triumphant
-to bear {{c|2723|Ojin}}, who would be deified as
-{{c|2724|Hachiman}}, god of war, the most welcomed triumphant.
-
-Modern historians are skeptical of {{c|2721|Jingū}}'s
-Korean invasion. But there was certainly
-contact with Korean kingdoms {{p|Baekje}}, {{p|Silla}}, {{p|Gaya}},
-trade, migration, cultural transfer apparently.
-
-From Baekje came writing, {{x|Confucianism}}, {{x|Buddhism}}
-into {{p|Japan}} — {{x|Buddhism}} officially in 538 or 552,
-though private transmission was earlier.
-From Gaya came iron, craftsmen, immigrant troops.
-
-The {{c|2725|Yamato}} court was consolidating
-in the fourth and fifth centuries, building
-the massive {{c|2726|kofun}} burial mounds,
-the largest tombs in the world, filling.
-
-The {{c|2727|Daisenryō Kofun}} attributed to
-emperor {{c|2728|Nintoku}} is longer than the {{p|Great Pyramid}},
-though lower — a 486-meter keyhole shape
-of earth and stone, for the imperial pyramid.
-
-These burial mounds mark the emergence
-of a centralized state in the Japanese archipelago,
-absorbing Korean immigrants, Chinese influence,
-building toward what would become emperor {{p|Yamato}}.
-
-Two clans, one court. The {{c|2729|Soga clan}} would raise
-the Buddha's hall beside the kami's days;
-and the {{c|2730|Mononobe clan}} would keep the rite
-in its own hands, and both would go to fight.
-
-In five-eighty-seven the {{c|2731|Soga}} won,
-and court and temple and the shrine were one:
-the Buddha and the kami of the sun,
-{{x|Shinto}} with {{x|Buddhism}}, a rite begun.
-
-The {{x|Kofun}} period was ending. The {{x|Asuka}} period
-beginning. The constitution of {{c|2732|Prince Shōtoku}}
-in 604 would organize the state
-along Chinese lines — the shape we still see.
+# Chapter 190: Ethiopia
+
+South of {{p|Egypt}}, past the cataracts,
+past {{p|Kush}} and {{p|Meroe}}'s pyramid dead,
+the {{p|Kingdom of Aksum}} rose in highland
+of what is now {{p|Ethiopia}}'s head.
+
+They traded with {{p|Rome}}, {{p|India}}, {{p|Arabia}},
+from {{p|Adulis}} on the {{p|Red Sea}} coast.
+Their script was {{c|2630|Ge'ez}}, their language Semitic,
+cousin of {{x|Arabic}} from distant host.
+
+{{c|2631|Ezana}}, king in the fourth century,
+converted to {{x|Christianity}} around
+three-thirty, through the Syrian missionary
+{{c|2632|Frumentius}}, captured then renowned.
+
+{{c|2632|Frumentius}} had been shipwrecked as a boy,
+served in the royal court, was trusted,
+returned to {{p|Alexandria}} and was consecrated
+bishop by {{c|2633|Athanasius}}, who encrusted
+
+him with authority to evangelize.
+He returned to {{p|Ethiopia}} and preached.
+{{c|2631|Ezana}} became Christian, and the kingdom
+became the second Christian state reached.
+
+(After {{p|Armenia}}. Before {{p|Rome}}.
+{{p|Ethiopia}} was the second nation
+in history to adopt {{x|Christianity}}
+as its official state declaration.)
+
+And at {{p|Chalcedon}} in four-fifty-one
+the bishops split on how the {{c|1497|Christ}} was made:
+"Two natures," {{p|Rome}}; {{p|Alexandria}}, "one,"
+and {{p|Aksum}}'s bishop, sent from there, obeyed.
+
+It was one church that fought over a throne:
+which patriarch would say the creed for all.
+The {{c|2634|Copts}}, the {{c|2635|Syrians}} held to their own
+with {{c|2636|Ethiopians}}, a single hall.
+
+{{p|Ethiopia}} has a tradition that the {{c|2637|Ark of the Covenant}}
+rests at {{p|Aksum}} in the Church of {{p|St. Mary of Zion}},
+brought there by {{c|2638|Menelik I}}, son of
+{{c|2189|Solomon}} and {{c|2212|Sheba}}, the kebra nagast scion.
+
+The {{x|Kebra Nagast}}, "{{x|Glory of the Kings}},"
+tells how the {{c|2639|Queen of Sheba}} visited {{c|2189|Solomon}},
+bore his son {{c|2640|Menelik}}, who returned to {{p|Ethiopia}}
+taking the {{c|2641|Ark}} back to his own dominion.
+
+And this is true, as the faithful knew:
+the Ethiopian royal line claimed descent
+from {{c|2189|Solomon}} for three thousand years
+until {{c|2642|Haile Selassie}}'s twentieth-century bent.
+
+{{p|Ethiopia}} was never colonized
+in the nineteenth-century {{x|Scramble for Africa}} —
+held off the {{c|2643|Italians}} at {{p|Adwa}} in 1896,
+the only African state that defeated {{p|Europa}}.
+
+The country has Jewish communities too,
+the {{c|2644|Beta Israel}}, who practice a {{x|Judaism}}
+older than the {{x|Talmud}}, based on the {{x|Torah}},
+preserved in highland isolation from racism.
+
+Most were airlifted to {{p|Israel}} in the 1980s
+in {{x|Operations Moses and Solomon}}.
+A three-thousand-year lineage exiled
+to the ancestral homeland at last come.
+
+{{p|Aksum}} declined in the seventh century
+as the rise of {{x|Islam}} cut trade routes.
+The kingdom moved south and became
+the medieval Ethiopian kingdom of roots.
+
+{{c|2645|Lalibela}} in the twelfth century
+would carve eleven churches from solid rock,
+each one hewn down from a single stone,
+a {{x|New Jerusalem}}, a pilgrim's dock.
+
+{{p|Ethiopia}}'s story is the African Christian kingdom,
+ancient, persistent, mystical, strange,
+isolated but connected, deeply rooted,
+surviving every political change.
 
 
 # Chapter 191: Arabia Before Islam
@@ -5213,118 +5191,142 @@ The model to emulate. The high water mark.
 The era that even now is most well-fenced.
 
 
-# Chapter 194: Kūkai
+# Chapter 194: The Islamic Golden Age
 
-In {{p|Japan}} of the early ninth century,
-the monk {{c|2799|Kūkai}} (774-835)
-brought {{c|2800|Shingon}} {{x|Buddhism}} from {{x|Tang}} {{p|China}}
-and made it into something alive.
+The {{c|2868|Abbasid Caliphate}} overthrew the {{c|2869|Umayyads}}
+in 750, moving the capital east to
+the new city of {{p|Baghdad}} founded by {{c|2870|al-Mansur}}
+in 762, a round city with four gates through.
 
-He was born on {{p|Shikoku}} island,
-the smallest of the four main islands,
-went to {{p|Chang'an}} in 804 with the embassy,
-studied at {{p|Qinglong Temple}}'s vast hidings.
+{{p|Baghdad}} became the intellectual center
+of the world for four centuries.
+The {{c|2871|House of Wisdom}}, {{x|Bayt al-Hikma}},
+patronized translation of Greek, Persian, Indian century.
 
-He studied under {{c|2801|Huiguo}}, the master
-of Chinese Vajrayana {{x|Buddhism}},
-who transmitted the full esoteric tradition
-to {{c|2799|Kūkai}} in just a few months' witnessing.
+The works of {{c|1081|Aristotle}}, {{c|2376|Plato}}, {{c|2872|Galen}},
+{{c|2408|Euclid}}, {{c|2265|Ptolemy}}, {{c|2873|Hippocrates}}
+were translated into {{x|Arabic}}, preserved
+when {{p|Western Europe}} had lost most.
 
-{{c|2801|Huiguo}} died shortly after. {{c|2799|Kūkai}} returned
-to {{p|Japan}} with scriptures, mandalas, ritual tools,
-and the complete transmission of {{c|2800|Shingon}},
-"the {{x|True Word}}," the esoteric school's schools.
+Indian mathematics — the decimal system,
+zero as a number, algebra's foundation —
+came through {{c|2874|al-Khwarizmi}}, whose name
+gave us "algorithm" and whose work "al-jabr"
 
-He established his mountain monastery at {{p|Mount Kōya}},
-eight peaks forming a natural mandala.
-He systematized the esoteric teachings
-into {{p|Japan}}'s first complete Buddhist alphabeta.
+gave us "algebra." He wrote in {{p|Baghdad}}
+in the ninth century, synthesizing Indian and Greek
+mathematics into a coherent discipline.
+Without him, modern math would be weak.
 
-He is credited (perhaps legendarily)
-with inventing the {{c|2802|kana}} syllabary,
-the phonetic Japanese writing system
-that made Japanese literature necessary.
+{{c|2875|Al-Razi}} ({{c|2876|Rhazes}}) was the great physician,
+who distinguished smallpox from measles,
+pioneered experimental medicine,
+wrote the {{x|Comprehensive Book of Medicine}} in easels.
 
-Before {{c|2803|Kana}}, Japanese was written
-in Chinese characters used phonetically,
-the man'yōgana system, cumbersome.
-{{c|2803|Kana}} simplified, made Japanese poetic.
+{{c|2877|Ibn Sina}} ({{c|2878|Avicenna}}) wrote the {{x|Canon of Medicine}},
+used as the standard medical text in {{p|Europe}} for six centuries.
+His philosophical synthesis of {{c|1081|Aristotle}} and {{x|Neoplatonism}}
+shaped both Islamic and Christian theological tendencies.
 
-{{c|2799|Kūkai}}'s teaching: the universe is the body
-of the cosmic {{c|1959|Buddha}} {{c|2804|Mahāvairocana}},
-{{c|2805|Dainichi Nyorai}}, the sun-like {{c|1959|Buddha}},
-and all beings are already enlightened in stanza.
+{{c|2879|Ibn al-Haytham}} ({{c|2880|Alhazen}}) founded modern optics
+with the {{x|Book of Optics}}, establishing
+the scientific method through controlled experiment,
+three centuries before {{c|2396|Galileo}}, everything advancing.
 
-The aim is to realize one's buddha-nature
-through the three mysteries: body, speech, mind,
-through mudrās, mantras, and visualizations,
-through ritual practice that is refined.
+{{c|2881|Al-Biruni}} measured the Earth's circumference
+with astonishing accuracy using trigonometry,
+studied {{p|India}} with anthropological depth,
+wrote 146 treatises spanning every discipline's reverie.
 
-This is sokushin jōbutsu, "attaining buddhahood
-in this very body in this very life,"
-rather than through many lifetimes of practice.
-{{c|2800|Shingon}} promises immediate escape from strife.
+{{c|2882|Al-Ghazali}} wrote the {{x|Incoherence of the Philosophers}},
+attacking the Aristotelian rationalists of {{x|Islam}}.
+{{c|2883|Ibn Rushd}} ({{c|2393|Averroes}}) wrote the {{x|Incoherence}}
+of the {{x|Incoherence}}, defending philosophy from qualm.
 
-{{c|2799|Kūkai}} was also a calligrapher of legend,
-a poet, an engineer who built ponds and bridges,
-a theorist of language and signification.
-He is one of {{p|Japan}}'s cultural ridges.
+{{c|2883|Ibn Rushd}}'s commentaries on {{c|1081|Aristotle}}
+would be the foundation of Medieval European
+scholasticism. {{c|2394|Thomas Aquinas}} read him.
+Without {{c|2393|Averroes}}, no {{x|Summa Theologica}}, see.
 
-He is said not to have died but to have
-entered eternal meditation at {{p|Mount Kōya}},
-where his body remains uncorrupted
-in the {{p|Oku-no-In}} mausoleum, in quiet.
+{{c|2884|Ibn Khaldun}} in the fourteenth century wrote
+the {{x|Muqaddimah}}, the first work of sociology,
+theorizing about the cycle of dynasties,
+asabiyyah (group solidarity), the rise-and-fall typology.
 
-Pilgrims still visit. They believe he is
-still there, waiting for {{c|2806|Maitreya}} the future {{c|1959|Buddha}},
-to emerge then and help all sentient beings.
-His tomb is attended daily with meals put through-a-
+{{c|2885|Al-Farabi}} was called "the {{c|2886|Second Teacher}}"
+after {{c|1081|Aristotle}}. {{c|2887|Ibn Arabi}} was the mystical
+unifier of {{x|Sufism}} into philosophical vision.
+{{c|2888|Rumi}} would write the greatest mystical
 
-the door in rituals of feeding the living master.
-Meanwhile, a separate monk {{c|2807|Saichō}} (767-822)
-brought {{c|2808|Tendai}} {{x|Buddhism}} from {{p|China}}
-and established {{p|Mount Hiei}}, a center true.
+poetry in any language, the {{x|Masnavi}},
+from his Persian-speaking Sufi center in {{p|Konya}}.
+{{x|Sufism}} flourished across the Islamic world,
+from {{p|Morocco}} to {{p|India}}, a mystical ocean.
 
-{{c|2808|Tendai}} was based on the {{x|Lotus Sutra}},
-on the teaching of {{c|2809|Zhiyi}} of the {{c|2810|Tiantai}} school,
-integrating all Buddhist teachings into
-a hierarchical synthesis of the rule.
+{{c|2889|Al-Hallaj}} cried "{{x|Ana al-Haqq}}"; the court
+of Baghdad, and its jurists, cut him short:
+the fight was who could speak for {{c|472|God}}, and who
+would hold the word. That was nine-twenty-two.
 
-From {{p|Mount Hiei}} would come {{p|Japan}}'s major
-medieval Buddhist traditions:
-{{c|2811|Honen}} and {{x|Pure Land}}. {{c|2812|Shinran}} and {{x|True Pure Land}}.
-{{c|2813|Nichiren}} and {{x|Lotus Sutra}} intuitions.
-{{c|2814|Dōgen}} and {{x|Sōtō Zen}}, with its meditations.
+The caliphate itself fragmented politically.
+The {{c|2869|Umayyads}} who had survived in {{p|Spain}}
+established the {{c|2890|Emirate of Córdoba}},
+later the Caliphate, a rival reign.
 
-All started as {{c|2808|Tendai}} monks who
-left to found new schools. {{p|Mount Hiei}} was
-the matrix from which Japanese {{x|Buddhism}} emerged.
-{{c|2807|Saichō}} had built an institutional pause.
+{{p|Córdoba}} became the greatest city in {{p|Western Europe}},
+with half a million people, libraries of hundreds of thousands of books,
+public baths, street lighting, paved streets.
+In an age when {{p|Paris}} was a muddy village of outlooks.
 
-{{c|2799|Kūkai}} and {{c|2807|Saichō}} were contemporaries.
-They corresponded, borrowed texts, occasionally disagreed.
-Together they shaped Japanese {{x|Buddhism}}
-into its distinctive esoteric breed.
+The {{c|2891|Fatimid Caliphate}} arose in {{p|Egypt}} in 909,
+{{x|Shia}} Ismaili, rivaling the {{x|Sunni}} {{c|2892|Abbasids}}.
+They founded {{p|Cairo}} and the {{c|2893|al-Azhar University}},
+which has taught Islamic scholarship continuously for ages.
 
-The capital {{p|Heian-kyō}} ({{p|Kyoto}}) had just been founded
-in 794 by Emperor {{c|2815|Kanmu}}.
-The new {{x|Buddhism}} matched the new capital.
-A new era was beginning, the {{x|Heian}}, anew.
+On the {{p|Caspian}}'s southern shore, in {{p|Mazandaran}},
+the old princes of {{p|Tabaristan}} held the forest and the height,
+the {{c|2894|Bavandids}}, who named the {{c|2895|Sasanian}} kings as kin,
+the last of {{p|Iran}}'s old houses not yet taken by the fight.
 
-The syncretism of {{x|Shinto}} and {{x|Buddhism}}
-deepened in this era. {{c|2816|Honji suijaku}}, the theory
-that {{x|Shinto}} kami were local manifestations
-of Buddhist bodhisattvas, was the theology.
+{{c|2896|Qarin}} the First ruled there from 817,
+and when his rival {{c|2897|Mazyar}} rose against the caliph's hand,
+{{c|2896|Qarin}} stood with {{p|Baghdad}}, and in 842
+he took {{x|Islam}} himself, and kept his mountain land.
 
-{{c|885|Amaterasu}} became {{c|2805|Dainichi Nyorai}}'s manifestation.
-{{c|2724|Hachiman}} became a manifestation of {{c|2817|Amida}}.
-Shrines and temples were built together.
-One religion with two faces, no divide-a.
+So the blood of the old kings went on inside the new faith.
+His son {{c|2898|Abul Melik}} carried it, and in 869 a grandson came,
+{{c|2899|Abul Hamza}}, born in {{p|Armenia}}, among the {{c|2900|Artsruni}},
+and the line of {{p|Tabaristan}} went west under an Armenian name.
 
-This synthesis would last a thousand years
-until the {{x|Meiji}} period's forced separation
-in 1868 violently distinguished them.
-But for the medieval period, they were one vocation.
+The {{c|2901|Seljuk Turks}} took over the {{x|Abbasid}} heartland
+in the eleventh century, nominal caliphs remaining
+but real power with the sultan.
+They defeated the {{c|2838|Byzantines}} at {{c|2902|Manzikert}} in 1071, maintaining
+
+Turkish dominance in {{p|Anatolia}}, which would
+eventually become modern {{p|Turkey}}.
+This was the beginning of the end for {{p|Byzantium}},
+whose heartland was now lost irretrievably turkey.
+
+The {{c|2903|Seljuks}} were {{x|Sunni}}, patronized the mainstream
+{{x|Hanafi}} school of Islamic jurisprudence.
+They also patronized learning, building madrasas
+across their empire, educational abundance.
+
+{{p|Baghdad}} itself would fall to the {{c|2904|Mongols}} in 1258,
+ending the {{c|2868|Abbasid Caliphate}} formally.
+The House of Wisdom's books were thrown in the {{p|Tigris}}.
+The {{p|Tigris}} ran black with ink, conformably.
+
+That is the end of the {{x|Islamic Golden Age}}.
+But what was produced in those four centuries
+is one of the greatest intellectual legacies
+of human history, rivaling any civilization's treasures.
+
+Without Islamic transmission of Greek learning
+through {{p|Córdoba}} and {{p|Toledo}} to Christian {{p|Europe}},
+there would have been no {{x|Renaissance}}.
+The chain of transmission included this stoop.
 
 
 # Chapter 195: Charlemagne and Byzantium
@@ -5450,124 +5452,119 @@ They would settle, found kingdoms, convert eventually.
 But they would be the scourge of the early Medieval track.
 
 
-# Chapter 196: Tang and the Great Persecution
+# Chapter 196: Scandinavia and the Eddas
 
-The {{c|2696|Tang Dynasty}} (618-907) was
-the golden age of imperial {{p|China}}.
-{{p|Chang'an}} was the greatest city in the world,
-one million people in its central arena.
+In the cold northlands of {{p|Scandinavia}},
+where the sun barely rose in winter,
+the {{c|2929|Norse}} developed their distinctive culture,
+preserving Indo-European mythology longer than their fitter.
 
-The founder {{c|2849|Li Yuan}} ({{c|2850|Gaozu}}) had been
-a general who seized power from the {{x|Sui}}.
-His son {{c|2780|Taizong}} killed his brothers,
-forced his father to abdicate on the cue.
+The {{c|2930|Europeans}} kept the bishops' rite;
+the {{c|2929|Norse}} kept the old altars of the North,
+and when they took the bishops in, they'd write
+the old gods down in books, and bring them forth.
 
-{{c|2780|Taizong}}'s reign (626-649) is considered
-the model of Confucian good rulership,
-the era of peace and prosperity,
-the golden reign held up as a reference for leadership.
+The {{c|2931|Poetic Edda}} and the {{c|2932|Prose Edda}} of {{c|2933|Snorri Sturluson}}
+(1179-1241) in {{p|Iceland}} preserved the myths.
+{{c|2934|Snorri}} was Christian, but he loved the old stories
+and wrote them down for scaldic poets' discipline myths.
 
-{{c|2851|Empress Wu Zetian}} rose under the third {{x|Tang}} emperor,
-eliminated rivals, and became the only woman
-to rule {{p|China}} as emperor in her own name,
-founding the {{p|Zhou Dynasty}} briefly, a prism human.
+{{c|2935|Odin}}, the {{c|2936|Allfather}}, who hung on {{p|Yggdrasil}}
+for nine days and nights to gain the runes.
+{{c|2937|Thor}}, the thunder god with {{x|Mjölnir}} the hammer.
+{{c|1203|Freyr}} and {{c|2938|Freyja}}, fertility gods of the dunes.
 
-She patronized {{x|Buddhism}}, elevated it above
-{{x|Confucianism}} and {{x|Daoism}} temporarily.
-Under her, the massive {{c|1959|Buddha}} statues at {{p|Longmen}}
-were carved, her face modeled, supposedly.
+{{c|2939|Loki}}, the trickster, who birthed monsters
+({{c|2940|Fenrir}} the wolf, {{c|2941|Jörmungandr}} the world-serpent,
+{{c|2942|Hel}} the goddess of the dead), and caused
+the death of {{c|2943|Baldr}}, gentlest god, attendant.
 
-After her reign, the {{x|Tang}} continued
-under {{c|2852|Xuanzong}}, whose early reign was glorious
-but whose later years fell to the disaster
-of the {{c|2853|An Lushan Rebellion}}, devastating notoriously.
+The cosmology: {{p|Yggdrasil}} the world tree with nine realms.
+{{p|Asgard}} of the {{c|2944|Aesir}} gods. {{p|Vanaheim}} of the {{c|2945|Vanir}}.
+{{p|Midgard}} of humans. {{p|Jotunheim}} of the giants.
+{{p|Niflheim}} of ice. {{p|Muspelheim}} of fire. {{p|Alfheim}} of elves' affair.
 
-{{c|2854|An Lushan}} was a Sogdian general, trusted
-and elevated by {{c|2852|Xuanzong}}, who rebelled
-in 755 and plunged {{p|China}} into civil war
-for eight years. Millions died. The empire propelled
+{{p|Svartalfheim}} of the dark elves or dwarves.
+{{p|Hel}} the land of the dead who didn't die in battle.
+{{p|Valhalla}} in {{p|Asgard}} for warriors killed in combat,
+brought there by {{c|2946|Valkyries}} on horseback in rattle.
 
-into a long decline. The census before
-the rebellion recorded 53 million people.
-After, the census recorded 17 million.
-Whether this represents actual deaths or administrative steeple
+{{c|2947|Ragnarök}} was the end: {{c|2940|Fenrir}} would devour {{c|2935|Odin}}.
+{{c|2937|Thor}} would kill {{c|2941|Jörmungandr}} but die of its venom.
+The fire giant {{c|2948|Surtr}} would burn the world.
+And then a new world would emerge, clean, a new millennium.
 
-failure, the scale was catastrophic.
-The {{x|Tang}} survived but never recovered its former strength.
-{{c|2852|Xuanzong}}'s beloved concubine {{c|2855|Yang Guifei}}
-was killed at his soldiers' demand, the length
+This cyclical eschatology distinguishes {{c|2929|Norse}} myth
+from the linear Judeo-Christian end.
+After {{c|2947|Ragnarök}}, two humans hide in {{p|Yggdrasil}},
+come out, repopulate, become friends again.
 
-of his long reign ending in tragedy.
-The great poet {{c|2856|Li Bai}} had been at his court.
-The great poet {{c|2857|Du Fu}} had lived through the chaos,
-writing war poetry of unmatched import.
+The historical {{c|2848|Vikings}} began raiding in 793
+with the attack on {{p|Lindisfarne}} monastery.
+For three centuries they raided, traded, settled
+from {{p|Ireland}} to {{p|Russia}}, an unexpected quandary.
 
-Poetry flourished in the {{x|Tang}}. {{c|2856|Li Bai}}, {{c|2857|Du Fu}},
-{{c|2858|Wang Wei}}, {{c|2859|Bai Juyi}}, the {{c|2860|Four Greats}},
-became the classical masters of Chinese verse,
-whose works every subsequent scholar debates.
+They founded {{p|Dublin}}, {{p|Waterford}}, {{p|Cork}} in {{p|Ireland}}.
+They conquered much of {{p|England}} (the {{p|Danelaw}}).
+They served as mercenaries in {{p|Byzantium}},
+the {{c|2949|Varangian Guard}}, the emperor's personal crow.
 
-In 845, Emperor {{c|2861|Wuzong}} launched
-the {{c|2862|Great Anti-Buddhist Persecution}}
-(the {{x|Huichang Persecution}}, named for his era).
-It was the most thorough effusion
+They sailed to {{p|Iceland}} and settled it around 870.
+To {{p|Greenland}} under {{c|2950|Erik the Red}} in 986.
+To {{p|Vinland}} ({{p|North America}}) under {{c|2951|Leif Erikson}} around 1000,
+five centuries before {{c|2952|Columbus}}' trick.
 
-of state power against {{x|Buddhism}} in Chinese history.
-Forty thousand temples and shrines were destroyed.
-Two hundred sixty thousand monks and nuns were
-returned to lay life, their wealth deployed.
+They sailed up the Russian rivers to trade
+with {{p|Byzantium}} and the Islamic world.
+The {{p|Kievan Rus}} were founded by Swedish {{c|2848|Vikings}},
+the {{c|2953|Rus}} tribe, whose name on {{p|Russia}} is unfurled.
 
-The cause was land: the monasteries held
-vast fields untaxed, and bronze the mint would take;
-and {{c|2861|Wuzong}}'s own Daoist priests would have expelled
-the Buddha's monks, as rivals for one stake.
+{{c|2954|Rurik}} founded {{p|Novgorod}}. His kin took {{p|Kiev}}.
+{{c|2955|Vladimir the Great}} in 988 converted to {{x|Orthodoxy}}
+after sending emissaries to investigate all religions.
+They came back from {{p|Constantinople}} with advocacy.
 
-{{x|Manichaeism}} was virtually wiped out in {{p|China}}.
-{{c|2863|Nestorian Christianity}}, which had entered in the {{x|Tang}},
-was also persecuted and largely destroyed.
-{{c|2597|Zoroastrianism}} among Sogdian communities sang.
+"We knew not whether we were in heaven or on earth,"
+they reported. The beauty of {{p|Hagia Sophia}}'s liturgy
+had converted them. {{p|Kievan Rus}} became Orthodox.
+The Slavic Orthodox church was born with liturgy.
 
-{{x|Buddhism}} recovered somewhat after {{c|2861|Wuzong}}'s death
-(his successor reversed the policy),
-but the intellectual glory days were over.
-{{c|2793|Chan}} ({{x|Zen}}) would survive more readily.
+In {{p|Scandinavia}} kings took the rite:
+first {{c|2956|Harald Bluetooth}} in nine-sixty-five;
+{{c|2957|Olaf Tryggvason}} took {{p|Norway}}'s by might;
+{{c|2958|Olaf II}} fell, a saint who would survive.
 
-{{c|2793|Chan}} {{x|Buddhism}} was less dependent on scriptures,
-libraries, and wealthy monasteries.
-Its simple meditation-based practice
-could survive with minimal institutional stories.
+{{c|2959|Sweden}} came last; the twelfth century saw
+the crown and church take up the temple's law:
+{{p|Uppsala}}'s temple, with its offered dead,
+came down; the altar took new priests instead.
 
-{{c|2796|Pure Land}} {{x|Buddhism}} also survived,
-through devotional practice by laypeople,
-chanting the name of {{c|2797|Amitabha}} {{c|1959|Buddha}},
-requiring no temples or scholarly steeple.
+In {{p|Iceland}} it was settled without war:
+the {{x|Althing}}, in the year one thousand, said
+the bishops' rite in public; and the door
+of each home kept the old rite there instead.
 
-These two schools — {{c|2793|Chan}} and Pure Land —
-would become the dominant forms of East Asian {{x|Buddhism}},
-not the scholarly schools like {{x|Huayan}} or {{x|Tiantai}},
-which required institutional support for their dualism.
+{{p|Iceland}}'s conversion by parliamentary vote
+is unique in world history of religions.
+It reflected the democratic nature of Icelandic society,
+where legal decisions were made collectively, with provisions.
 
-The {{x|Tang}} declined through the ninth century.
-Regional warlords, the {{c|2864|Jiedushi}}, became
-de facto independent. Eunuchs controlled the court.
-Peasant rebellions erupted with blame.
+The Icelandic sagas would later be written down,
+historical narratives of the settlement period,
+{{c|2960|Egil's Saga}}, {{c|2961|Njál's Saga}}, {{c|2962|Laxdæla Saga}},
+great literature of a unique historical interlude.
 
-In 907, the {{x|Tang}} was formally deposed.
-The {{p|Five Dynasties and Ten Kingdoms}} period began,
-fifty-three years of fragmentation,
-until the {{c|2865|Song Dynasty}} reunified in 960, man.
+{{c|2963|William the Conqueror}} of {{p|Normandy}} was
+a Viking descendant, whose ancestor {{c|2964|Rollo}}
+had been granted {{p|Normandy}} by the French king
+in 911 to stop the raids, a settlement deal to follow.
 
-The {{x|Song}} would be more scholarly, less military,
-less imperial, more refined.
-It would lose the northern frontier to {{c|2866|Khitans}} and {{c|2867|Jurchens}},
-but would be culturally very defined.
+{{x|Norman French}} absorbed {{x|Old Norse}} words and
+preserved {{c|2929|Norse}} traits of boldness and administration.
+In 1066, {{c|1537|William}} invaded {{p|England}} and
+won the {{c|2965|Battle of Hastings}}, changing {{p|England}}'s foundation.
 
-The {{x|Song}} would invent movable type printing,
-refine gunpowder, develop the compass.
-{{x|Song}} painting and ceramics would be exquisite.
-The civil service exam would be the crown accomplished.
-
-But the {{x|Tang}} remained the memory, the ideal,
-the civilization-peak to look back on.
-"{{x|Tang}} poetry" still means the finest Chinese verse.
-"{{x|Tang}}" is still how Chinese abroad call their people gone.
+The {{c|2848|Vikings}} had ceased to be {{c|2848|Vikings}},
+assimilating to Christian Latin civilization.
+But they had shaped the map of {{p|Europe}} permanently,
+from {{p|Russia}} to {{p|England}} to {{p|Sicily}}'s nation.

@@ -1,145 +1,7 @@
 # Cancer (8宮) - Days 197-224
 
 
-# Chapter 197: The Islamic Golden Age
-
-The Abbasid Caliphate overthrew the Umayyads
-in 750, moving the capital east to
-the new city of {{p|Baghdad}} founded by al-Mansur
-in 762, a round city with four gates through.
-
-{{p|Baghdad}} became the intellectual center
-of the world for four centuries.
-The House of Wisdom, {{x|Bayt al-Hikma}},
-patronized translation of Greek, Persian, Indian century.
-
-The works of Aristotle, Plato, Galen,
-Euclid, Ptolemy, Hippocrates
-were translated into {{x|Arabic}}, preserved
-when {{p|Western Europe}} had lost most.
-
-Indian mathematics — the decimal system,
-zero as a number, algebra's foundation —
-came through al-Khwarizmi, whose name
-gave us "algorithm" and whose work "al-jabr"
-
-gave us "algebra." He wrote in {{p|Baghdad}}
-in the ninth century, synthesizing Indian and Greek
-mathematics into a coherent discipline.
-Without him, modern math would be weak.
-
-Al-Razi (Rhazes) was the great physician,
-who distinguished smallpox from measles,
-pioneered experimental medicine,
-wrote the {{x|Comprehensive Book of Medicine}} in easels.
-
-Ibn Sina (Avicenna) wrote the {{x|Canon of Medicine}},
-used as the standard medical text in {{p|Europe}} for six centuries.
-His philosophical synthesis of Aristotle and {{x|Neoplatonism}}
-shaped both Islamic and Christian theological tendencies.
-
-Ibn al-Haytham (Alhazen) founded modern optics
-with the {{x|Book of Optics}}, establishing
-the scientific method through controlled experiment,
-three centuries before Galileo, everything advancing.
-
-Al-Biruni measured the Earth's circumference
-with astonishing accuracy using trigonometry,
-studied {{p|India}} with anthropological depth,
-wrote 146 treatises spanning every discipline's reverie.
-
-Al-Ghazali wrote the {{x|Incoherence of the Philosophers}},
-attacking the Aristotelian rationalists of {{x|Islam}}.
-Ibn Rushd (Averroes) wrote the {{x|Incoherence}}
-of the {{x|Incoherence}}, defending philosophy from qualm.
-
-Ibn Rushd's commentaries on Aristotle
-would be the foundation of Medieval European
-scholasticism. Thomas Aquinas read him.
-Without Averroes, no {{x|Summa Theologica}}, see.
-
-Ibn Khaldun in the fourteenth century wrote
-the {{x|Muqaddimah}}, the first work of sociology,
-theorizing about the cycle of dynasties,
-asabiyyah (group solidarity), the rise-and-fall typology.
-
-Al-Farabi was called "the Second Teacher"
-after Aristotle. Ibn Arabi was the mystical
-unifier of {{x|Sufism}} into philosophical vision.
-Rumi would write the greatest mystical
-
-poetry in any language, the {{x|Masnavi}},
-from his Persian-speaking Sufi center in {{p|Konya}}.
-{{x|Sufism}} flourished across the Islamic world,
-from {{p|Morocco}} to {{p|India}}, a mystical ocean.
-
-Al-Hallaj cried "{{x|Ana al-Haqq}}"; the court
-of Baghdad, and its jurists, cut him short:
-the fight was who could speak for God, and who
-would hold the word. That was nine-twenty-two.
-
-The caliphate itself fragmented politically.
-The Umayyads who had survived in {{p|Spain}}
-established the Emirate of Córdoba,
-later the Caliphate, a rival reign.
-
-{{p|Córdoba}} became the greatest city in {{p|Western Europe}},
-with half a million people, libraries of hundreds of thousands of books,
-public baths, street lighting, paved streets.
-In an age when {{p|Paris}} was a muddy village of outlooks.
-
-The Fatimid Caliphate arose in {{p|Egypt}} in 909,
-{{x|Shia}} Ismaili, rivaling the {{x|Sunni}} Abbasids.
-They founded {{p|Cairo}} and the al-Azhar University,
-which has taught Islamic scholarship continuously for ages.
-
-On the {{p|Caspian}}'s southern shore, in {{p|Mazandaran}},
-the old princes of {{p|Tabaristan}} held the forest and the height,
-the Bavandids, who named the Sasanian kings as kin,
-the last of {{p|Iran}}'s old houses not yet taken by the fight.
-
-Qarin the First ruled there from 817,
-and when his rival Mazyar rose against the caliph's hand,
-Qarin stood with {{p|Baghdad}}, and in 842
-he took {{x|Islam}} himself, and kept his mountain land.
-
-So the blood of the old kings went on inside the new faith.
-His son Abul Melik carried it, and in 869 a grandson came,
-Abul Hamza, born in {{p|Armenia}}, among the Artsruni,
-and the line of {{p|Tabaristan}} went west under an Armenian name.
-
-The Seljuk Turks took over the {{x|Abbasid}} heartland
-in the eleventh century, nominal caliphs remaining
-but real power with the sultan.
-They defeated the Byzantines at Manzikert in 1071, maintaining
-
-Turkish dominance in {{p|Anatolia}}, which would
-eventually become modern {{p|Turkey}}.
-This was the beginning of the end for {{p|Byzantium}},
-whose heartland was now lost irretrievably turkey.
-
-The Seljuks were {{x|Sunni}}, patronized the mainstream
-{{x|Hanafi}} school of Islamic jurisprudence.
-They also patronized learning, building madrasas
-across their empire, educational abundance.
-
-{{p|Baghdad}} itself would fall to the Mongols in 1258,
-ending the Abbasid Caliphate formally.
-The House of Wisdom's books were thrown in the {{p|Tigris}}.
-The {{p|Tigris}} ran black with ink, conformably.
-
-That is the end of the {{x|Islamic Golden Age}}.
-But what was produced in those four centuries
-is one of the greatest intellectual legacies
-of human history, rivaling any civilization's treasures.
-
-Without Islamic transmission of Greek learning
-through {{p|Córdoba}} and {{p|Toledo}} to Christian {{p|Europe}},
-there would have been no {{x|Renaissance}}.
-The chain of transmission included this stoop.
-
-
-# Chapter 198: Heian Japan
+# Chapter 197: Heian Japan
 
 The Heian period (794-1185) took its name
 from the new capital {{p|Heian-kyō}}, "{{p|Capital of Peace}},"
@@ -253,122 +115,241 @@ but the ruling class was now the warrior,
 with its code of bushido, martial and real.
 
 
-# Chapter 199: Scandinavia and the Eddas
+# Chapter 198: Kūkai
 
-In the cold northlands of {{p|Scandinavia}},
-where the sun barely rose in winter,
-the Norse developed their distinctive culture,
-preserving Indo-European mythology longer than their fitter.
+In {{p|Japan}} of the early ninth century,
+the monk Kūkai (774-835)
+brought Shingon {{x|Buddhism}} from {{x|Tang}} {{p|China}}
+and made it into something alive.
 
-The Europeans kept the bishops' rite;
-the Norse kept the old altars of the North,
-and when they took the bishops in, they'd write
-the old gods down in books, and bring them forth.
+He was born on {{p|Shikoku}} island,
+the smallest of the four main islands,
+went to {{p|Chang'an}} in 804 with the embassy,
+studied at {{p|Qinglong Temple}}'s vast hidings.
 
-The Poetic Edda and the Prose Edda of Snorri Sturluson
-(1179-1241) in {{p|Iceland}} preserved the myths.
-Snorri was Christian, but he loved the old stories
-and wrote them down for scaldic poets' discipline myths.
+He studied under Huiguo, the master
+of Chinese Vajrayana {{x|Buddhism}},
+who transmitted the full esoteric tradition
+to Kūkai in just a few months' witnessing.
 
-Odin, the Allfather, who hung on {{p|Yggdrasil}}
-for nine days and nights to gain the runes.
-Thor, the thunder god with {{x|Mjölnir}} the hammer.
-Freyr and Freyja, fertility gods of the dunes.
+Huiguo died shortly after. Kūkai returned
+to {{p|Japan}} with scriptures, mandalas, ritual tools,
+and the complete transmission of Shingon,
+"the {{x|True Word}}," the esoteric school's schools.
 
-Loki, the trickster, who birthed monsters
-(Fenrir the wolf, Jörmungandr the world-serpent,
-Hel the goddess of the dead), and caused
-the death of Baldr, gentlest god, attendant.
+He established his mountain monastery at {{p|Mount Kōya}},
+eight peaks forming a natural mandala.
+He systematized the esoteric teachings
+into {{p|Japan}}'s first complete Buddhist alphabeta.
 
-The cosmology: {{p|Yggdrasil}} the world tree with nine realms.
-{{p|Asgard}} of the Aesir gods. {{p|Vanaheim}} of the Vanir.
-{{p|Midgard}} of humans. {{p|Jotunheim}} of the giants.
-{{p|Niflheim}} of ice. {{p|Muspelheim}} of fire. {{p|Alfheim}} of elves' affair.
+He is credited (perhaps legendarily)
+with inventing the kana syllabary,
+the phonetic Japanese writing system
+that made Japanese literature necessary.
 
-{{p|Svartalfheim}} of the dark elves or dwarves.
-{{p|Hel}} the land of the dead who didn't die in battle.
-{{p|Valhalla}} in {{p|Asgard}} for warriors killed in combat,
-brought there by Valkyries on horseback in rattle.
+Before Kana, Japanese was written
+in Chinese characters used phonetically,
+the man'yōgana system, cumbersome.
+Kana simplified, made Japanese poetic.
 
-Ragnarök was the end: Fenrir would devour Odin.
-Thor would kill Jörmungandr but die of its venom.
-The fire giant Surtr would burn the world.
-And then a new world would emerge, clean, a new millennium.
+Kūkai's teaching: the universe is the body
+of the cosmic Buddha Mahāvairocana,
+Dainichi Nyorai, the sun-like Buddha,
+and all beings are already enlightened in stanza.
 
-This cyclical eschatology distinguishes Norse myth
-from the linear Judeo-Christian end.
-After Ragnarök, two humans hide in {{p|Yggdrasil}},
-come out, repopulate, become friends again.
+The aim is to realize one's buddha-nature
+through the three mysteries: body, speech, mind,
+through mudrās, mantras, and visualizations,
+through ritual practice that is refined.
 
-The historical Vikings began raiding in 793
-with the attack on {{p|Lindisfarne}} monastery.
-For three centuries they raided, traded, settled
-from {{p|Ireland}} to {{p|Russia}}, an unexpected quandary.
+This is sokushin jōbutsu, "attaining buddhahood
+in this very body in this very life,"
+rather than through many lifetimes of practice.
+Shingon promises immediate escape from strife.
 
-They founded {{p|Dublin}}, {{p|Waterford}}, {{p|Cork}} in {{p|Ireland}}.
-They conquered much of {{p|England}} (the {{p|Danelaw}}).
-They served as mercenaries in {{p|Byzantium}},
-the Varangian Guard, the emperor's personal crow.
+Kūkai was also a calligrapher of legend,
+a poet, an engineer who built ponds and bridges,
+a theorist of language and signification.
+He is one of {{p|Japan}}'s cultural ridges.
 
-They sailed to {{p|Iceland}} and settled it around 870.
-To {{p|Greenland}} under Erik the Red in 986.
-To {{p|Vinland}} ({{p|North America}}) under Leif Erikson around 1000,
-five centuries before Columbus' trick.
+He is said not to have died but to have
+entered eternal meditation at {{p|Mount Kōya}},
+where his body remains uncorrupted
+in the {{p|Oku-no-In}} mausoleum, in quiet.
 
-They sailed up the Russian rivers to trade
-with {{p|Byzantium}} and the Islamic world.
-The {{p|Kievan Rus}} were founded by Swedish Vikings,
-the Rus tribe, whose name on {{p|Russia}} is unfurled.
+Pilgrims still visit. They believe he is
+still there, waiting for Maitreya the future Buddha,
+to emerge then and help all sentient beings.
+His tomb is attended daily with meals put through-a-
 
-Rurik founded {{p|Novgorod}}. His kin took {{p|Kiev}}.
-Vladimir the Great in 988 converted to {{x|Orthodoxy}}
-after sending emissaries to investigate all religions.
-They came back from {{p|Constantinople}} with advocacy.
+the door in rituals of feeding the living master.
+Meanwhile, a separate monk Saichō (767-822)
+brought Tendai {{x|Buddhism}} from {{p|China}}
+and established {{p|Mount Hiei}}, a center true.
 
-"We knew not whether we were in heaven or on earth,"
-they reported. The beauty of {{p|Hagia Sophia}}'s liturgy
-had converted them. {{p|Kievan Rus}} became Orthodox.
-The Slavic Orthodox church was born with liturgy.
+Tendai was based on the {{x|Lotus Sutra}},
+on the teaching of Zhiyi of the Tiantai school,
+integrating all Buddhist teachings into
+a hierarchical synthesis of the rule.
 
-In {{p|Scandinavia}} kings took the rite:
-first Harald Bluetooth in nine-sixty-five;
-Olaf Tryggvason took {{p|Norway}}'s by might;
-Olaf II fell, a saint who would survive.
+From {{p|Mount Hiei}} would come {{p|Japan}}'s major
+medieval Buddhist traditions:
+Honen and {{x|Pure Land}}. Shinran and {{x|True Pure Land}}.
+Nichiren and {{x|Lotus Sutra}} intuitions.
+Dōgen and {{x|Sōtō Zen}}, with its meditations.
 
-Sweden came last; the twelfth century saw
-the crown and church take up the temple's law:
-{{p|Uppsala}}'s temple, with its offered dead,
-came down; the altar took new priests instead.
+All started as Tendai monks who
+left to found new schools. {{p|Mount Hiei}} was
+the matrix from which Japanese {{x|Buddhism}} emerged.
+Saichō had built an institutional pause.
 
-In {{p|Iceland}} it was settled without war:
-the {{x|Althing}}, in the year one thousand, said
-the bishops' rite in public; and the door
-of each home kept the old rite there instead.
+Kūkai and Saichō were contemporaries.
+They corresponded, borrowed texts, occasionally disagreed.
+Together they shaped Japanese {{x|Buddhism}}
+into its distinctive esoteric breed.
 
-{{p|Iceland}}'s conversion by parliamentary vote
-is unique in world history of religions.
-It reflected the democratic nature of Icelandic society,
-where legal decisions were made collectively, with provisions.
+The capital {{p|Heian-kyō}} ({{p|Kyoto}}) had just been founded
+in 794 by Emperor Kanmu.
+The new {{x|Buddhism}} matched the new capital.
+A new era was beginning, the {{x|Heian}}, anew.
 
-The Icelandic sagas would later be written down,
-historical narratives of the settlement period,
-Egil's Saga, Njál's Saga, Laxdæla Saga,
-great literature of a unique historical interlude.
+The syncretism of {{x|Shinto}} and {{x|Buddhism}}
+deepened in this era. Honji suijaku, the theory
+that {{x|Shinto}} kami were local manifestations
+of Buddhist bodhisattvas, was the theology.
 
-William the Conqueror of {{p|Normandy}} was
-a Viking descendant, whose ancestor Rollo
-had been granted {{p|Normandy}} by the French king
-in 911 to stop the raids, a settlement deal to follow.
+Amaterasu became Dainichi Nyorai's manifestation.
+Hachiman became a manifestation of Amida.
+Shrines and temples were built together.
+One religion with two faces, no divide-a.
 
-{{x|Norman French}} absorbed {{x|Old Norse}} words and
-preserved Norse traits of boldness and administration.
-In 1066, William invaded {{p|England}} and
-won the Battle of Hastings, changing {{p|England}}'s foundation.
+This synthesis would last a thousand years
+until the {{x|Meiji}} period's forced separation
+in 1868 violently distinguished them.
+But for the medieval period, they were one vocation.
 
-The Vikings had ceased to be Vikings,
-assimilating to Christian Latin civilization.
-But they had shaped the map of {{p|Europe}} permanently,
-from {{p|Russia}} to {{p|England}} to {{p|Sicily}}'s nation.
+
+# Chapter 199: Tang and the Great Persecution
+
+The Tang Dynasty (618-907) was
+the golden age of imperial {{p|China}}.
+{{p|Chang'an}} was the greatest city in the world,
+one million people in its central arena.
+
+The founder Li Yuan (Gaozu) had been
+a general who seized power from the {{x|Sui}}.
+His son Taizong killed his brothers,
+forced his father to abdicate on the cue.
+
+Taizong's reign (626-649) is considered
+the model of Confucian good rulership,
+the era of peace and prosperity,
+the golden reign held up as a reference for leadership.
+
+Empress Wu Zetian rose under the third {{x|Tang}} emperor,
+eliminated rivals, and became the only woman
+to rule {{p|China}} as emperor in her own name,
+founding the {{p|Zhou Dynasty}} briefly, a prism human.
+
+She patronized {{x|Buddhism}}, elevated it above
+{{x|Confucianism}} and {{x|Daoism}} temporarily.
+Under her, the massive Buddha statues at {{p|Longmen}}
+were carved, her face modeled, supposedly.
+
+After her reign, the {{x|Tang}} continued
+under Xuanzong, whose early reign was glorious
+but whose later years fell to the disaster
+of the An Lushan Rebellion, devastating notoriously.
+
+An Lushan was a Sogdian general, trusted
+and elevated by Xuanzong, who rebelled
+in 755 and plunged {{p|China}} into civil war
+for eight years. Millions died. The empire propelled
+
+into a long decline. The census before
+the rebellion recorded 53 million people.
+After, the census recorded 17 million.
+Whether this represents actual deaths or administrative steeple
+
+failure, the scale was catastrophic.
+The {{x|Tang}} survived but never recovered its former strength.
+Xuanzong's beloved concubine Yang Guifei
+was killed at his soldiers' demand, the length
+
+of his long reign ending in tragedy.
+The great poet Li Bai had been at his court.
+The great poet Du Fu had lived through the chaos,
+writing war poetry of unmatched import.
+
+Poetry flourished in the {{x|Tang}}. Li Bai, Du Fu,
+Wang Wei, Bai Juyi, the Four Greats,
+became the classical masters of Chinese verse,
+whose works every subsequent scholar debates.
+
+In 845, Emperor Wuzong launched
+the Great Anti-Buddhist Persecution
+(the {{x|Huichang Persecution}}, named for his era).
+It was the most thorough effusion
+
+of state power against {{x|Buddhism}} in Chinese history.
+Forty thousand temples and shrines were destroyed.
+Two hundred sixty thousand monks and nuns were
+returned to lay life, their wealth deployed.
+
+The cause was land: the monasteries held
+vast fields untaxed, and bronze the mint would take;
+and Wuzong's own Daoist priests would have expelled
+the Buddha's monks, as rivals for one stake.
+
+{{x|Manichaeism}} was virtually wiped out in {{p|China}}.
+Nestorian Christianity, which had entered in the {{x|Tang}},
+was also persecuted and largely destroyed.
+Zoroastrianism among Sogdian communities sang.
+
+{{x|Buddhism}} recovered somewhat after Wuzong's death
+(his successor reversed the policy),
+but the intellectual glory days were over.
+Chan ({{x|Zen}}) would survive more readily.
+
+Chan {{x|Buddhism}} was less dependent on scriptures,
+libraries, and wealthy monasteries.
+Its simple meditation-based practice
+could survive with minimal institutional stories.
+
+Pure Land {{x|Buddhism}} also survived,
+through devotional practice by laypeople,
+chanting the name of Amitabha Buddha,
+requiring no temples or scholarly steeple.
+
+These two schools — Chan and Pure Land —
+would become the dominant forms of East Asian {{x|Buddhism}},
+not the scholarly schools like {{x|Huayan}} or {{x|Tiantai}},
+which required institutional support for their dualism.
+
+The {{x|Tang}} declined through the ninth century.
+Regional warlords, the Jiedushi, became
+de facto independent. Eunuchs controlled the court.
+Peasant rebellions erupted with blame.
+
+In 907, the {{x|Tang}} was formally deposed.
+The {{p|Five Dynasties and Ten Kingdoms}} period began,
+fifty-three years of fragmentation,
+until the Song Dynasty reunified in 960, man.
+
+The {{x|Song}} would be more scholarly, less military,
+less imperial, more refined.
+It would lose the northern frontier to Khitans and Jurchens,
+but would be culturally very defined.
+
+The {{x|Song}} would invent movable type printing,
+refine gunpowder, develop the compass.
+{{x|Song}} painting and ceramics would be exquisite.
+The civil service exam would be the crown accomplished.
+
+But the {{x|Tang}} remained the memory, the ideal,
+the civilization-peak to look back on.
+"{{x|Tang}} poetry" still means the finest Chinese verse.
+"{{x|Tang}}" is still how Chinese abroad call their people gone.
 
 
 # Chapter 200: Ireland and Brian Boru
@@ -790,7 +771,90 @@ was partly a product of what the crusades had brought back:
 Greek texts via Islamic transmission, entering the inventory.
 
 
-# Chapter 203: Genghis Khan
+# Chapter 203: Kamakura Japan and the Kamikaze
+
+In {{p|Japan}}, the Kamakura Shogunate (1185-1333)
+ruled through the Minamoto line briefly,
+then through the Hōjō regents who controlled
+the child shoguns, a parallel to Fujiwara, chiefly.
+
+Hōjō Yasutoki issued the Goseibai Shikimoku
+in 1232, the first warrior legal code,
+establishing samurai law distinct from
+the court's traditional Chinese-derived mode.
+
+{{x|Buddhism}} in {{x|Kamakura}} {{p|Japan}} exploded
+into new schools. Hōnen (1133-1212) founded
+Jōdo-shū ({{x|Pure Land}}) — salvation by faith
+in Amida's name, simple, democratic, abounded.
+
+Shinran (1173-1263), Hōnen's disciple,
+founded Jōdo Shinshū ({{x|True Pure Land}}),
+radicalized — one sincere calling of Amida's name
+suffices, the rest is the divine's hand.
+
+Eisai (1141-1215) brought Rinzai Zen
+from {{p|China}}, with koans and warriors' discipline.
+Dōgen (1200-1253) founded Sōtō Zen,
+emphasizing just-sitting meditation.
+
+Nichiren told the regents they must stand
+by the Lotus Sutra, by it alone,
+and leave the other schools' support: the land
+would fall if the other schools held their own.
+
+He predicted foreign invasion, and he was right.
+Kublai Khan sent demands for Japanese submission.
+When the Hōjō regent refused, the Mongol
+fleet sailed in 1274, armed for decision.
+
+The Mongols landed at {{p|Hakata Bay}} on {{p|Kyushu}}.
+The samurai fought one-on-one duels by tradition.
+The Mongols fought in formations with poisoned arrows
+and gunpowder bombs (tetsuhau) — modern ammunition.
+
+The samurai took heavy casualties the first day.
+That night a typhoon struck. The Mongol fleet
+was damaged. They retreated. The samurai
+claimed victory, but knew they had been beaten in the heat.
+
+They spent seven years preparing. They built
+a stone wall along {{p|Hakata Bay}}, twenty kilometers long,
+two meters high. They trained samurai in group tactics.
+They prayed at shrines and temples, {{x|Shinto}} and Buddhist alike, strong.
+
+In 1281, Kublai sent two fleets: 900 ships
+from {{p|Korea}}, 3,500 from {{p|South China}}, carrying
+140,000 men in total, the largest amphibious
+operation until {{x|D-Day}}, seven centuries tarrying.
+
+The samurai held them off the beach for weeks.
+Then another typhoon struck. The fleet was caught
+in the harbors and destroyed. Four thousand ships sunk.
+Perhaps 100,000 men drowned, or couldn't be brought.
+
+The survivors who made shore were slaughtered.
+The Japanese called the typhoon kamikaze,
+"divine wind," sent by the gods to defend {{p|Japan}}.
+{{x|Shinto}} belief in divine protection bore hazy.
+
+(In {{x|World War II}}, "kamikaze" would be revived
+for the suicide pilots, invoking the same myth,
+that {{p|Japan}} was divinely protected, and if
+the gods failed to send wind, men would be the shift.)
+
+The Mongol invasions exhausted the Kamakura Shogunate.
+Samurai who had fought expected rewards,
+but there were no conquered lands to distribute.
+Discontent grew. The shogunate lost support, toward
+
+its eventual collapse in 1333, when
+Emperor Go-Daigo tried to restore direct
+imperial rule in the Kenmu Restoration.
+That attempt would fail — the next chapter's rect.
+
+
+# Chapter 204: Genghis Khan
 
 In the steppes of {{p|Mongolia}}, a boy named Temujin
 was born around 1162 in a family of
@@ -913,120 +977,65 @@ unified his tribe and launched a conquest that
 reshaped the world, from {{p|Hungary}} to {{p|Cambodia}}.
 
 
-# Chapter 204: The Mongols in China
+# Chapter 205: The Mongols in Europe
 
-Kublai Khan, grandson of Genghis, completed
-the conquest of {{p|China}}. He defeated the Southern
-Song Dynasty, which had held out for decades
-behind the {{p|Yangtze River}} and mountain curtain.
+Batu Khan, grandson of Genghis, led
+the western campaign in the late 1230s.
+The Kipchak steppe was conquered first,
+then the Russian principalities in frost-bound recedes.
 
-The final battle was at sea — the Battle of Yamen
-in 1279. The loyalist {{x|Song}} fleet was destroyed.
-The last boy emperor of {{x|Song}} was carried
-by a loyal minister, who leapt with him into the void.
+{{p|Ryazan}} fell in 1237, burned.
+{{p|Vladimir}} in 1238, sacked.
+{{p|Kiev}} in 1240, reduced to rubble
+with only two hundred houses un-cracked.
 
-With the emperor's death, the {{x|Song}} was finished.
-Kublai established the Yuan Dynasty (1271-1368),
-the first foreign dynasty to rule all of {{p|China}}.
-His capital was {{p|Khanbaliq}}, "City of the Khan," patented
+The "{{x|Tatar Yoke}}" began. For two centuries
+the Russian princes would pay tribute,
+travel to the Golden Horde's capital
+at {{p|Sarai}} on the {{p|Volga}}, submit their contribute.
 
-on the site of modern {{p|Beijing}}. He adopted
-Chinese administrative forms but maintained Mongol
-social hierarchy: Mongols at the top, then
-Central Asians and other foreigners, then North Chinese holl-
+{{p|Moscow}}, a minor town among many,
+proved useful as tax-collector for the Horde.
+Its princes accumulated wealth and favor,
+and would eventually rise to become lord.
 
-owed out of power, then Southern Chinese at the bottom.
-This ethnic stratification was resented and
-contributed to the dynasty's instability.
-Marco Polo served Kublai in his land.
+After {{p|Russia}}, Batu pushed into {{p|Poland}} and {{p|Hungary}}
+in 1241. At Legnica, a Polish-German
+army was destroyed by Mongol feigned retreat.
+At Mohi, the Hungarian army was stern
 
-Polo's account of {{p|Khanbaliq}}'s splendor,
-the paper money, the coal burning for fuel,
-the postal relay system, the canals and roads,
-astonished European readers when finally full.
+defeated, King Béla IV fleeing for his life.
+The Mongols reached the {{p|Adriatic Sea}}.
+{{p|Vienna}} was in the plans. {{p|Europe}} expected
+annihilation — but then reprieve came free.
 
-Polo reached {{p|China}} and served the Khan, and wrote^[Some historians, among them Frances Wood, have argued that Polo never reached China; most hold that he did.]
-what he had seen, and the book is not overrated:
-the information it contained was accurate,
-and fueled European interest in the East, newly inflated.
+Great Khan Ögedei died in {{p|Karakorum}} that December.
+Batu had to return east for the succession quarrel.
+He never came back west. {{p|Europe}} was saved
+by a drunkard's death in a distant Mongol barrel.
 
-Kublai attempted to invade {{p|Japan}} twice,
-in 1274 and 1281. Both fleets were destroyed
-by typhoons, which the Japanese named kamikaze,
-"divine winds," sent by the gods to defend their void.
+The Mongols had demonstrated that European
+knightly armies were not equipped to face
+steppe-warfare tactics. Composite bows, feigned retreat,
+mobile light cavalry, coordinated attack pace.
 
-(The second typhoon in 1281 was especially devastating.
-The Mongol fleet was caught in harbor and shattered.
-Four thousand ships and over 100,000 men were lost.
-The kamikaze belief entered Japanese culture, mattered.)
+{{p|Europe}} would learn these lessons slowly.
+Later, in the {{x|Hundred Years' War}}, the English
+longbow would answer in similar logic.
+Warfare was about to change its language.
 
-The {{x|Yuan}} also attempted to invade {{p|Vietnam}} and {{p|Java}}
-with similar lack of success. The Mongol military
-machine, built for steppe warfare, was less effective
-against tropical jungle and sea-based military.
+The Golden Horde established itself on the
+lower {{p|Volga}} and ruled the western steppes.
+For two and a half centuries, from the {{p|Black Sea}}
+to the {{p|Urals}}, the Horde kept rule of its steps.
 
-The Yuan Dynasty declined in the fourteenth century
-due to plague, flooding of the {{p|Yellow River}},
-economic collapse from overprinting paper money,
-and the factional disputes between Mongol nobles whither.
-
-The Red Turban Rebellion erupted in 1351.
-The peasant leader Zhu Yuanzhang emerged as
-the dominant rebel commander, took {{p|Nanjing}} in 1356,
-took {{p|Khanbaliq}} (renamed {{p|Beiping}}) in 1368, was
-
-proclaimed the Hongwu Emperor, founder of the
-Ming Dynasty. The Mongols were expelled back
-to the steppes. Native Chinese rule was restored.
-The {{x|Yuan}} had lasted less than a century, off the track.
-
-Meanwhile, in the western Mongol realms:
-the Ilkhanate ruled {{p|Persia}} and {{p|Iraq}}.
-Hulagu Khan, Kublai's brother, had sacked
-{{p|Baghdad}} in 1258, ending the {{x|Abbasid Caliphate}}.
-
-The last {{x|Abbasid}} caliph was rolled up in a carpet
-and trampled to death by horses (by Mongol
-tradition, royal blood should not touch the ground).
-The books of the {{x|House of Wisdom}} were thrown into the {{p|Tigris}}, the role'
-
-of four centuries of Islamic scholarship
-was destroyed. The {{p|Tigris}} ran black with the ink
-of uncounted manuscripts. This was the end
-of the classical {{x|Islamic Golden Age}}, a great sink.
-
-Hulagu continued west toward {{p|Egypt}}. The Mamluks
-of {{p|Egypt}} defeated him at Ain Jalut in 1260.
-This was the first major defeat of the Mongol army.
-It saved {{p|Egypt}} and the Muslim West from conquest, relieved.
-
-The Ilkhanate eventually converted to {{x|Islam}} under
-Ghazan in 1295. Persian culture absorbed the Mongol overlords.
-Persian literary flourishing continued: Saadi, Rumi,
-Hafez — the great Persian poets working through swords.
-
-The Golden Horde ruled the western steppes and {{p|Russia}}.
-They converted to {{x|Islam}} under Uzbeg Khan in the fourteenth century.
-They ruled {{p|Russia}} indirectly through the princes,
-demanding tribute and acknowledgment, religious centuries.
-
-The Chagatai Khanate ruled {{p|Central Asia}}.
-Eventually fragmented and was partly absorbed
-into the {{p|Timurid Empire}} in the late fourteenth century.
-Timur would emerge from its ruins, scorned.
-
-The Mongol conquests changed world history forever.
-They killed perhaps forty million people in the course
-of their conquests — a staggering portion of the world
-population at that time, a genocide at source.
-
-But they also connected {{p|Eurasia}} as never before.
-Technologies transmitted both east and west.
-The {{x|Black Death}} would transmit west along Mongol routes.
-The whole world was becoming connected for its test.
+The Russian princes would eventually unite
+under {{p|Moscow}} to throw off this yoke.
+That story is chapter 223. For now, mark
+how the eastern horsemen made {{p|Europe}} choke.
 
 
-# Chapter 205: The Mongols in the Middle East
+# Chapter 206: The Mongols in the Middle East
 
 Hulagu Khan's campaign through the {{p|Middle East}}
 was one of the most destructive military events
@@ -1144,759 +1153,120 @@ these would be the new centers. But {{p|Baghdad}}'s
 three-quarters of a millennium of centrality was lost by Mongols.
 
 
-# Chapter 206: The Mongols in Europe
+# Chapter 207: The Mongols in China
+
+Kublai Khan, grandson of Genghis, completed
+the conquest of {{p|China}}. He defeated the Southern
+Song Dynasty, which had held out for decades
+behind the {{p|Yangtze River}} and mountain curtain.
+
+The final battle was at sea — the Battle of Yamen
+in 1279. The loyalist {{x|Song}} fleet was destroyed.
+The last boy emperor of {{x|Song}} was carried
+by a loyal minister, who leapt with him into the void.
+
+With the emperor's death, the {{x|Song}} was finished.
+Kublai established the Yuan Dynasty (1271-1368),
+the first foreign dynasty to rule all of {{p|China}}.
+His capital was {{p|Khanbaliq}}, "City of the Khan," patented
+
+on the site of modern {{p|Beijing}}. He adopted
+Chinese administrative forms but maintained Mongol
+social hierarchy: Mongols at the top, then
+Central Asians and other foreigners, then North Chinese holl-
+
+owed out of power, then Southern Chinese at the bottom.
+This ethnic stratification was resented and
+contributed to the dynasty's instability.
+Marco Polo served Kublai in his land.
+
+Polo's account of {{p|Khanbaliq}}'s splendor,
+the paper money, the coal burning for fuel,
+the postal relay system, the canals and roads,
+astonished European readers when finally full.
+
+Polo reached {{p|China}} and served the Khan, and wrote^[Some historians, among them Frances Wood, have argued that Polo never reached China; most hold that he did.]
+what he had seen, and the book is not overrated:
+the information it contained was accurate,
+and fueled European interest in the East, newly inflated.
+
+Kublai attempted to invade {{p|Japan}} twice,
+in 1274 and 1281. Both fleets were destroyed
+by typhoons, which the Japanese named kamikaze,
+"divine winds," sent by the gods to defend their void.
+
+(The second typhoon in 1281 was especially devastating.
+The Mongol fleet was caught in harbor and shattered.
+Four thousand ships and over 100,000 men were lost.
+The kamikaze belief entered Japanese culture, mattered.)
+
+The {{x|Yuan}} also attempted to invade {{p|Vietnam}} and {{p|Java}}
+with similar lack of success. The Mongol military
+machine, built for steppe warfare, was less effective
+against tropical jungle and sea-based military.
+
+The Yuan Dynasty declined in the fourteenth century
+due to plague, flooding of the {{p|Yellow River}},
+economic collapse from overprinting paper money,
+and the factional disputes between Mongol nobles whither.
+
+The Red Turban Rebellion erupted in 1351.
+The peasant leader Zhu Yuanzhang emerged as
+the dominant rebel commander, took {{p|Nanjing}} in 1356,
+took {{p|Khanbaliq}} (renamed {{p|Beiping}}) in 1368, was
+
+proclaimed the Hongwu Emperor, founder of the
+Ming Dynasty. The Mongols were expelled back
+to the steppes. Native Chinese rule was restored.
+The {{x|Yuan}} had lasted less than a century, off the track.
+
+Meanwhile, in the western Mongol realms:
+the Ilkhanate ruled {{p|Persia}} and {{p|Iraq}}.
+Hulagu Khan, Kublai's brother, had sacked
+{{p|Baghdad}} in 1258, ending the {{x|Abbasid Caliphate}}.
+
+The last {{x|Abbasid}} caliph was rolled up in a carpet
+and trampled to death by horses (by Mongol
+tradition, royal blood should not touch the ground).
+The books of the {{x|House of Wisdom}} were thrown into the {{p|Tigris}}, the role'
+
+of four centuries of Islamic scholarship
+was destroyed. The {{p|Tigris}} ran black with the ink
+of uncounted manuscripts. This was the end
+of the classical {{x|Islamic Golden Age}}, a great sink.
+
+Hulagu continued west toward {{p|Egypt}}. The Mamluks
+of {{p|Egypt}} defeated him at Ain Jalut in 1260.
+This was the first major defeat of the Mongol army.
+It saved {{p|Egypt}} and the Muslim West from conquest, relieved.
+
+The Ilkhanate eventually converted to {{x|Islam}} under
+Ghazan in 1295. Persian culture absorbed the Mongol overlords.
+Persian literary flourishing continued: Saadi, Rumi,
+Hafez — the great Persian poets working through swords.
+
+The Golden Horde ruled the western steppes and {{p|Russia}}.
+They converted to {{x|Islam}} under Uzbeg Khan in the fourteenth century.
+They ruled {{p|Russia}} indirectly through the princes,
+demanding tribute and acknowledgment, religious centuries.
+
+The Chagatai Khanate ruled {{p|Central Asia}}.
+Eventually fragmented and was partly absorbed
+into the {{p|Timurid Empire}} in the late fourteenth century.
+Timur would emerge from its ruins, scorned.
 
-Batu Khan, grandson of Genghis, led
-the western campaign in the late 1230s.
-The Kipchak steppe was conquered first,
-then the Russian principalities in frost-bound recedes.
+The Mongol conquests changed world history forever.
+They killed perhaps forty million people in the course
+of their conquests — a staggering portion of the world
+population at that time, a genocide at source.
 
-{{p|Ryazan}} fell in 1237, burned.
-{{p|Vladimir}} in 1238, sacked.
-{{p|Kiev}} in 1240, reduced to rubble
-with only two hundred houses un-cracked.
+But they also connected {{p|Eurasia}} as never before.
+Technologies transmitted both east and west.
+The {{x|Black Death}} would transmit west along Mongol routes.
+The whole world was becoming connected for its test.
 
-The "{{x|Tatar Yoke}}" began. For two centuries
-the Russian princes would pay tribute,
-travel to the Golden Horde's capital
-at {{p|Sarai}} on the {{p|Volga}}, submit their contribute.
 
-{{p|Moscow}}, a minor town among many,
-proved useful as tax-collector for the Horde.
-Its princes accumulated wealth and favor,
-and would eventually rise to become lord.
-
-After {{p|Russia}}, Batu pushed into {{p|Poland}} and {{p|Hungary}}
-in 1241. At Legnica, a Polish-German
-army was destroyed by Mongol feigned retreat.
-At Mohi, the Hungarian army was stern
-
-defeated, King Béla IV fleeing for his life.
-The Mongols reached the {{p|Adriatic Sea}}.
-{{p|Vienna}} was in the plans. {{p|Europe}} expected
-annihilation — but then reprieve came free.
-
-Great Khan Ögedei died in {{p|Karakorum}} that December.
-Batu had to return east for the succession quarrel.
-He never came back west. {{p|Europe}} was saved
-by a drunkard's death in a distant Mongol barrel.
-
-The Mongols had demonstrated that European
-knightly armies were not equipped to face
-steppe-warfare tactics. Composite bows, feigned retreat,
-mobile light cavalry, coordinated attack pace.
-
-{{p|Europe}} would learn these lessons slowly.
-Later, in the {{x|Hundred Years' War}}, the English
-longbow would answer in similar logic.
-Warfare was about to change its language.
-
-The Golden Horde established itself on the
-lower {{p|Volga}} and ruled the western steppes.
-For two and a half centuries, from the {{p|Black Sea}}
-to the {{p|Urals}}, the Horde kept rule of its steps.
-
-The Russian princes would eventually unite
-under {{p|Moscow}} to throw off this yoke.
-That story is chapter 222. For now, mark
-how the eastern horsemen made {{p|Europe}} choke.
-
-
-# Chapter 207: Kamakura Japan and the Kamikaze
-
-In {{p|Japan}}, the Kamakura Shogunate (1185-1333)
-ruled through the Minamoto line briefly,
-then through the Hōjō regents who controlled
-the child shoguns, a parallel to Fujiwara, chiefly.
-
-Hōjō Yasutoki issued the Goseibai Shikimoku
-in 1232, the first warrior legal code,
-establishing samurai law distinct from
-the court's traditional Chinese-derived mode.
-
-{{x|Buddhism}} in {{x|Kamakura}} {{p|Japan}} exploded
-into new schools. Hōnen (1133-1212) founded
-Jōdo-shū ({{x|Pure Land}}) — salvation by faith
-in Amida's name, simple, democratic, abounded.
-
-Shinran (1173-1263), Hōnen's disciple,
-founded Jōdo Shinshū ({{x|True Pure Land}}),
-radicalized — one sincere calling of Amida's name
-suffices, the rest is the divine's hand.
-
-Eisai (1141-1215) brought Rinzai Zen
-from {{p|China}}, with koans and warriors' discipline.
-Dōgen (1200-1253) founded Sōtō Zen,
-emphasizing just-sitting meditation.
-
-Nichiren told the regents they must stand
-by the Lotus Sutra, by it alone,
-and leave the other schools' support: the land
-would fall if the other schools held their own.
-
-He predicted foreign invasion, and he was right.
-Kublai Khan sent demands for Japanese submission.
-When the Hōjō regent refused, the Mongol
-fleet sailed in 1274, armed for decision.
-
-The Mongols landed at {{p|Hakata Bay}} on {{p|Kyushu}}.
-The samurai fought one-on-one duels by tradition.
-The Mongols fought in formations with poisoned arrows
-and gunpowder bombs (tetsuhau) — modern ammunition.
-
-The samurai took heavy casualties the first day.
-That night a typhoon struck. The Mongol fleet
-was damaged. They retreated. The samurai
-claimed victory, but knew they had been beaten in the heat.
-
-They spent seven years preparing. They built
-a stone wall along {{p|Hakata Bay}}, twenty kilometers long,
-two meters high. They trained samurai in group tactics.
-They prayed at shrines and temples, {{x|Shinto}} and Buddhist alike, strong.
-
-In 1281, Kublai sent two fleets: 900 ships
-from {{p|Korea}}, 3,500 from {{p|South China}}, carrying
-140,000 men in total, the largest amphibious
-operation until {{x|D-Day}}, seven centuries tarrying.
-
-The samurai held them off the beach for weeks.
-Then another typhoon struck. The fleet was caught
-in the harbors and destroyed. Four thousand ships sunk.
-Perhaps 100,000 men drowned, or couldn't be brought.
-
-The survivors who made shore were slaughtered.
-The Japanese called the typhoon kamikaze,
-"divine wind," sent by the gods to defend {{p|Japan}}.
-{{x|Shinto}} belief in divine protection bore hazy.
-
-(In {{x|World War II}}, "kamikaze" would be revived
-for the suicide pilots, invoking the same myth,
-that {{p|Japan}} was divinely protected, and if
-the gods failed to send wind, men would be the shift.)
-
-The Mongol invasions exhausted the Kamakura Shogunate.
-Samurai who had fought expected rewards,
-but there were no conquered lands to distribute.
-Discontent grew. The shogunate lost support, toward
-
-its eventual collapse in 1333, when
-Emperor Go-Daigo tried to restore direct
-imperial rule in the Kenmu Restoration.
-That attempt would fail — the next chapter's rect.
-
-
-# Chapter 208: The Black Death
-
-The plague emerged from the Mongol steppes
-where Yersinia pestis had been endemic
-in marmot populations for millennia.
-The Mongol military network was a vector systemic.
-
-In 1346, the Mongol Golden Horde was
-besieging the Genoese trading colony
-at {{p|Kaffa}} on the {{p|Crimea}}. Plague broke out
-among the besiegers. They catapulted bodies as ammunition-y.
-
-The Genoese fled by ship to {{p|Messina}} in {{p|Sicily}}
-in 1347. They carried the plague with them.
-From there, it spread across the {{p|Mediterranean}},
-then up through {{p|Europe}}, relentless, like the phlegm.
-
-{{p|Marseille}} fell. {{p|Avignon}}, where the papacy
-then resided, was struck — Pope Clement VI
-survived by sitting between two roaring fires
-on his doctor's advice, and the plague did miss.
-
-{{p|Paris}}, {{p|London}}, the {{x|Hansa}} cities, {{p|Norway}},
-{{p|Iceland}} — the plague reached every corner of {{p|Europe}}.
-Perhaps a third of the population died
-in the decade 1347-1351, a holocaust whose scope
-
-we can barely comprehend. Cities lost half their people.
-Villages were abandoned. Fields went untilled.
-The clergy and the nobility were not spared —
-they died at the same rates, their status killed.
-
-The symptoms were horrifying: buboes the size
-of apples in the armpits and groin, black spots
-on the skin from hemorrhage, vomiting of blood,
-death within days. The disease spotted all allots.
-
-Cities quarantined themselves with varying success.
-Giovanni Boccaccio set his Decameron
-among Florentines fleeing the plague to a country villa,
-telling stories while the city died on.
-
-Flagellants marched through {{p|Europe}}, whipped and bled
-for sins they thought had brought the plague on all;
-the towns turned on the eldest house instead,
-of Abraham's, and burned it, wall by wall.
-
-In {{p|Strasbourg}}, {{p|Basel}}, and {{p|Cologne}} they burned,
-accused of poisoning the wells. The chair
-of Pope Clement VI held them kin, and spurned
-the charge: they died of plague too. Mobs didn't care.
-
-The religious explanation ("divine punishment for sin")
-competed with the miasma theory ("bad air")
-and various theological and astrological attempts
-to explain the unexplainable plague's lair.
-
-The Islamic world was struck equally hard.
-{{p|Cairo}} lost 200,000. Ibn Khaldun wrote that
-"civilization had decreased" from the plague's destruction.
-The Mamluk Sultanate never fully recovered after that.
-
-{{p|China}} was probably struck even earlier.
-The Yuan Dynasty's decline accelerated
-as plague, famine, and flooding of the {{p|Yellow River}}
-all compounded. The Mongol regime's pretend-ated.
-
-The long-term consequences were enormous.
-Labor became scarce. Wages rose.
-The feudal system came under pressure.
-Serfs could demand better terms from their lords' toes.
-
-The authority of the {{x|Church}} was undermined
-by its inability to prevent or explain the disaster.
-This contributed, a century later, to receptivity
-to the Protestant Reformation's pastor.
-
-The scarcity of scribes encouraged the eventual
-development of printing — labor-saving technology.
-The scarcity of labor in general encouraged
-technological innovation and demographic methodology.
-
-{{p|Europe}} emerged from the plague changed permanently.
-The medieval certainties were shaken.
-The {{x|Renaissance}} was partly enabled by
-what the plague had shaken up, forsaken.
-
-The plague would return periodically until
-the late seventeenth century — the {{x|Great Plague}}
-of {{p|London}} in 1665 was one of the last major outbreaks.
-But the 1348 pandemic remained the archetype, the vague.
-
-
-# Chapter 209: The Kenmu Restoration
-
-In 1333, Emperor Go-Daigo of {{p|Japan}}
-led a revolt against the Kamakura Shogunate.
-With the help of disaffected samurai —
-notably Ashikaga Takauji and Kusunoki Masashige, state
-
-turned against state. The Hōjō regents fell.
-{{x|Kamakura}} was captured. The shogunate ended
-after a century and a half of warrior rule.
-Go-Daigo entered {{p|Kyoto}} in triumph, ascended.
-
-He attempted to restore direct imperial rule,
-the Kenmu Restoration (1333-1336). He ruled
-as his own prime minister, made appointments personally,
-distributed rewards to loyalists, old-fashioned tooled.
-
-But he favored court aristocrats over the samurai
-who had actually won him the throne. The samurai
-were unhappy. Many had expected new estates
-from the confiscated Hōjō lands, the dried.
-
-Ashikaga Takauji, who had betrayed the Hōjō,
-betrayed Go-Daigo next. In 1336, he took
-{{p|Kyoto}}, installed a rival emperor from the junior
-line of the imperial family, his chosen hook.
-
-Go-Daigo fled to {{p|Yoshino}} in the mountains south
-of {{p|Kyoto}} and continued to claim legitimacy there.
-For nearly sixty years, {{p|Japan}} had two imperial courts,
-the Northern ({{p|Kyoto}}, Ashikaga's) and Southern ({{p|Yoshino}}), air.
-
-This is called the Nanboku-chō period (1336-1392),
-the {{x|Northern and Southern Courts}}. Each claimed to be
-the legitimate continuation of the imperial line.
-Samurai families chose sides based on strategy.
-
-Kusunoki Masashige had been Go-Daigo's most loyal general,
-a military genius who had defeated much larger forces
-through guerrilla tactics. He foresaw defeat at
-the {{x|Battle of Minatogawa}} but went to fight his courses.
-
-He committed ritual suicide with his brother after the battle,
-having extracted the promise from his son to continue the fight.
-Kusunoki became the emblem of loyal service
-to the emperor against all odds, warrior of light.
-
-(In modern {{p|Japan}}, Kusunoki was revived as the model
-samurai for the {{x|Meiji}} and {{x|Showa}} imperial ideology,
-the loyal servant who dies for the Emperor.
-His statue stands before the imperial palace, mythology.)
-
-Takauji established the Ashikaga Shogunate (1336-1573)
-based in the {{x|Muromachi}} district of {{p|Kyoto}}.
-It was weaker than the Kamakura Shogunate,
-unable to control regional warlords' potento.
-
-The Ashikaga ruled for over two centuries, but
-their real power extended only to central {{p|Japan}}.
-The rest was governed by regional warlords (shugo)
-who increasingly ignored the shogun's plan.
-
-The period was culturally rich despite political weakness.
-Zen Buddhism flourished under Ashikaga patronage.
-The tea ceremony (sadō) was refined by
-Sen no Rikyū later, aesthetic of age.
-
-The arts of Noh drama were codified by
-Zeami Motokiyo in the late fourteenth century.
-Ink painting (sumi-e) was imported from {{x|Song}} {{p|China}}.
-Japanese arts reached sophisticated refinery.
-
-The Kinkaku-ji ({{p|Golden Pavilion}}) was built
-by Ashikaga Yoshimitsu in 1397, covered in gold leaf.
-The Ginkaku-ji ({{p|Silver Pavilion}}) was built
-by Yoshimasa later, more subtle belief.
-
-The Kenmu Restoration had failed, but the model
-of imperial restoration would inspire later movements.
-The {{x|Meiji Restoration}} of 1868 would invoke
-{{x|Kenmu}} as its direct precedent improvements.
-
-Go-Daigo would be remembered as the emperor
-who attempted the impossible — to restore
-direct imperial rule in an age when it was impossible.
-A failed restorer, but a heroic figure lore.
-
-
-# Chapter 210: The Ming Rises
-
-In {{p|China}}, the Yuan Dynasty was collapsing.
-Plague, flooding of the {{p|Yellow River}}, famine,
-factional disputes among the Mongol princes,
-and hyperinflation from paper money, a mane.
-
-The Red Turban Rebellion erupted in 1351,
-a millenarian Buddhist movement expecting
-the coming of Maitreya, the future Buddha,
-and the overthrow of the foreign Mongol detecting.
-
-Zhu Yuanzhang, born a peasant, orphaned by plague,
-who had briefly been a Buddhist monk, then a beggar,
-joined the Red Turbans and rose through their ranks
-to become a regional warlord with an eager leg-ger.
-
-He captured {{p|Nanjing}} in 1356, made it his capital.
-He gradually eliminated rival rebel leaders.
-He defeated the warlord Chen Youliang at the naval
-Battle of Lake Poyang in 1363, fortune seekers.
-
-In 1368, his armies entered {{p|Khanbaliq}} (renamed {{p|Beiping}}).
-The {{x|Yuan}} emperor fled north to {{p|Mongolia}}.
-Zhu Yuanzhang proclaimed himself the Hongwu Emperor,
-founder of the Ming Dynasty, native rule's victoria.
-
-He was one of the only Chinese emperors in history
-to rise from genuine peasant origins. (The other
-major one was Liu Bang, {{x|Han}} founder, a thousand years before.)
-He ruled with the suspicion of someone who knew brothers
-
-can betray, courts can conspire, and nothing
-is safe forever. He launched massive purges
-of officials he suspected — 30,000 killed in one purge,
-40,000 in another, the court's splurges.
-
-He abolished the position of chancellor which had
-existed for a thousand years, and ruled personally
-through direct correspondence with departments.
-The emperor now did everything, generally.
-
-He reinstated the civil service examination with
-heavy Confucian emphasis. He promoted {{x|Neo-Confucianism}}
-as state orthodoxy. He sealed {{p|China}} off from foreign
-trade (the {{x|Maritime Prohibition}}), strict autarky-ism.
-
-He established the penal code Da Ming Lü.
-He rebuilt the {{p|Great Wall}} in its current form.
-He redistributed land to peasants who had been
-landless under the {{x|Yuan}}. He was stormy, firm.
-
-He died in 1398. His grandson Jianwen became emperor,
-but was overthrown in 1402 by his uncle
-Zhu Di, the Prince of Yan, in a civil war.
-Jianwen disappeared in the palace fire, the buckle
-
-of continuity broken. Zhu Di became the Yongle Emperor
-(1402-1424), perhaps the greatest {{x|Ming}} emperor.
-He moved the capital from {{p|Nanjing}} to {{p|Beijing}},
-rebuilt the Forbidden City, the symbolic emperor.
-
-He commissioned the Yongle Encyclopedia, the
-largest encyclopedia in the world for several centuries,
-22,937 volumes. (Only about 400 survive today —
-most were destroyed in wars or palace fires, mysteries.)
-
-He sent out the great treasure voyages under
-Zheng He — chapter 213's story.
-He built huge fleets and massive shipyards.
-He attempted to conquer {{p|Vietnam}}, in his glory.
-
-After Yongle, the {{x|Ming}} would retreat from maritime
-expansion. The treasure voyages would stop. The fleets
-would be burned. {{p|China}} would turn inward again.
-The {{x|Ming}}'s early vigor would fade with seasonal sheets.
-
-But the {{x|Ming}} would last until 1644, when
-the Manchus would conquer from the north
-and found the Qing Dynasty. That story is later.
-For now, mark: native Chinese rule was called forth.
-
-
-# Chapter 211: Timur
-
-Timur (1336-1405), also called Tamerlane
-("Timur the Lame" for his limp), was born
-near {{p|Samarkand}} in {{p|Transoxiana}} to a minor
-noble of the Barlas Turco-Mongol clan, low-born.
-
-He claimed descent from Genghis Khan (though the claim
-was weak), married into the Chingisid line,
-and ruled as son-in-law rather than khan.
-He was not a direct descendant of the Mongol line.
-
-He unified the Chagatai Khanate territories in
-{{p|Central Asia}} through the 1370s. Then he launched
-a series of conquests comparable in scale to Genghis Khan's,
-though never quite as geographically ranched.
-
-He invaded {{p|Persia}} in the 1380s, sacking {{p|Isfahan}}
-where 70,000 civilians were beheaded to build
-towers of skulls that he was famous for constructing.
-This was his signature atrocity, filled.
-
-He defeated the Golden Horde under Tokhtamysh
-in 1395, sacked {{p|Sarai}} the Golden Horde capital,
-destroyed the economic base of the Horde,
-contributing to its decline and {{p|Muscovy}}'s rise capital.
-
-He invaded {{p|India}} in 1398, sacked {{p|Delhi}},
-massacred the population (perhaps 100,000 killed
-in one day), carried elephants back to {{p|Samarkand}}.
-The Delhi Sultanate was crippled by his skill.
-
-He invaded the Mamluk Sultanate in 1400,
-sacked {{p|Damascus}} (where Ibn Khaldun met him
-and left a fascinating account of their conversations —
-the greatest sociologist meeting the greatest conqueror, trim).
-
-He invaded the Ottoman Empire in 1402,
-defeated Sultan Bayezid I at the Battle of Ankara,
-captured him, transported him in a cage.
-Bayezid died in captivity, a humiliated sultana.
-
-This Ottoman defeat delayed the fall of {{p|Constantinople}}
-by half a century. If Timur had not intervened,
-Bayezid probably would have taken the city.
-The {{p|Byzantine Empire}} got a fifty-year reprieve.
-
-Timur was preparing to invade {{x|Ming}} {{p|China}}
-when he died in 1405 at {{p|Otrar}} on the way.
-He is buried at the Gur-e-Amir in {{p|Samarkand}},
-which inspired the architecture of the {{p|Taj Mahal}} later, lay.
-
-His grandson Ulugh Beg (1394-1449) was an astronomer
-who built a great observatory at {{p|Samarkand}},
-compiled accurate star catalogs before Tycho Brahe,
-and ruled as a scholar-king — until killed by his son's hand.
-
-The Timurid Renaissance at {{p|Samarkand}} and {{p|Herat}}
-was one of the great cultural moments of {{p|Central Asia}}.
-Persian miniature painting, poetry, architecture flourished.
-Jami and others wrote great works of {{p|Persia}}.
-
-The {{p|Timurid Empire}} fragmented after Timur's death.
-His descendants would continue as regional rulers,
-one of them, Babur, a great-great-grandson of Timur,
-would found the Mughal Empire in {{p|India}}, deceitfuller.
-
-(Mughal = "Mongol" in Persian. The Mughals claimed
-Timurid descent, and through him, Chingisid descent.
-They were Central Asian Turks ruling {{p|India}} as
-Persianate emperors, a layered cultural ascent.)
-
-Timur killed perhaps seventeen million people in
-his conquests, a death toll rivaling his hero Genghis.
-The Islamic world, which he had conquered as a Muslim,
-suffered terribly at his hands — a paradox immense.
-
-He built beautiful monuments, patronized poets and scholars.
-He massacred entire cities, built skull-pyramids.
-He is remembered in {{p|Central Asia}} as a hero,
-in his victims' lands as the devil, on skids.
-
-The deflationary polytheist sees Timur as
-the last great steppe conqueror, the end of the
-Mongol-era pattern. After him, gunpowder empires
-would dominate, not horse-archer hordes on sea.
-
-
-# Chapter 212: Lithuania, the Last Pagans
-
-While the rest of {{p|Europe}} had been Christianized
-for centuries, {{p|Lithuania}} remained pagan
-into the late fourteenth century — the last
-pagan state in {{p|Europe}}, the Baltic stronghold.
-
-The Lithuanians worshipped Perkūnas the thunder god
-(cognate with Thor, Zeus, Indra, Perun),
-Gabija the hearth goddess, Žemyna earth goddess,
-and a pantheon of forest, water, and sky spirits.
-
-Sacred oak groves (alkas) were their temples.
-The sacred fire at {{p|Vilnius}} was tended eternally
-by priestesses (vaidilutės). Amber was sacred.
-The sky-god Dievas presided over all, paternally.
-
-The Teutonic Knights had been trying to crusade
-against the Lithuanians since the thirteenth century,
-officially to convert them, actually to conquer them.
-The Lithuanians fought back with ferocity surgery.
-
-Under Grand Duke Gediminas (r. 1316-1341), {{p|Lithuania}}
-expanded dramatically, absorbing Russian principalities
-weakened by the Mongol yoke. By the 1380s it stretched
-from the Baltic to the {{p|Black Sea}}, the greatest of entities.
-
-Gediminas's tolerant policy allowed Orthodox Christian
-Russians to practice their faith while Lithuanians
-remained pagan. The {{p|Grand Duchy}} was a multi-religious
-confederation, an unusual political consortium tanya-ns.
-
-In 1386, Grand Duke Jogaila (Jagiełło in Polish)
-married Queen Jadwiga of {{p|Poland}}, converted to
-{{x|Catholicism}}, and was crowned King of {{p|Poland}}. He committed
-{{p|Lithuania}} to Christianization as part of the deal, too.
-
-The new priests took the lords; among the herds
-the farmhouse kept Gabija's hearth and bread,
-the groves, the household offerings, the words
-of the same rite, for centuries ahead.
-
-Some sacred groves survived until the twentieth century.
-Lithuanian folk religion remained one of the most intact
-surviving Indo-European traditions, with names
-for gods that Hindus would recognize, intact.
-
-The Polish-Lithuanian Union became one of the
-great European powers of the fifteenth-sixteenth centuries.
-At the Battle of Grunwald in 1410, {{p|Poland-Lithuania}}
-defeated the Teutonic Knights decisively, no century-teeth.
-
-The Teutonic Knights never recovered from {{p|Grunwald}}.
-Their crusading justification was gone — the Lithuanians
-were Christian now. The Order would fade into irrelevance
-over the following century, pagan-hunting orphanians.
-
-Here is what {{p|Lithuania}} shows plain:
-the crown decided who would hold the rite;
-the hearth and grove were kept through all the reign
-of bishops, and the old fire stayed alight.
-
-The Lithuanians have preserved Indo-European linguistic
-features that are older than {{x|Sanskrit}}. The Lithuanian
-language is the most archaic of surviving Indo-European
-languages, closer to {{x|Proto-Indo-European}} than the maritime.
-
-"{{x|The Book That Was Never Written}}" — there could have been
-a Baltic equivalent of the {{x|Eddas}} or the {{x|Mahabharata}},
-preserving the Indo-European pantheon in its purest form,
-had {{p|Lithuania}} had a Snorri Sturluson, a sacra-data.
-
-But there was no Lithuanian Snorri. The oral tradition
-survived partially in folklore, but the mythology as
-a coherent system was lost. What we can reconstruct
-is fragmentary, compared to the Norse or Greek corpus.
-
-It is the great "what if" of all the books:
-the oldest rite in all of {{p|Europe}}'s land,
-kept in the groves, the hearths, the farmhouse nooks,
-with no Snorri to write it down by hand.
-
-
-# Chapter 213: Zheng He
-
-Zheng He (1371-1433) was born Ma He
-in {{p|Yunnan}}, a Muslim Hui Chinese boy.
-His father and grandfather had both made the hajj to {{p|Mecca}}.
-He was captured at age ten, castrated, an imperial ploy.
-
-He became a eunuch in the household of Prince Zhu Di,
-the future Yongle Emperor. He served with distinction
-in Zhu Di's military campaigns, became trusted advisor,
-was renamed Zheng He for his exceptional direction.
-
-When Zhu Di became emperor in 1402, he commissioned
-Zheng He to lead the treasure voyages — massive
-fleets of exploration, diplomacy, and power projection
-across the {{p|Indian Ocean}}, an unprecedented pelagic.
-
-The first voyage (1405-1407) consisted of 317 ships
-and 28,000 men. The flagship treasure ships were
-400 feet long, 160 feet wide — larger than any
-European ship for the next four centuries, superior.
-
-(For comparison, Columbus's {{x|Santa Maria}} in 1492 was
-about 85 feet long. The scale difference is staggering.
-The Chinese were capable of mass ocean exploration
-when the Europeans were still hugging coasts, laboring.)
-
-Over seven voyages (1405-1433), Zheng He sailed to
-{{p|Southeast Asia}}, {{p|India}}, {{p|Arabia}}, and the
-east coast of {{p|Africa}} as far south as {{p|Mogadishu}}
-and possibly further to the {{p|Cape of Good Hope}}'s vicinia.
-
-He visited {{p|Calicut}}, {{p|Ceylon}}, {{p|Hormuz}}, {{p|Mecca}} (some of his
-crew performed the hajj while he waited nearby), {{p|Aden}},
-{{p|Mogadishu}}, {{p|Malindi}}. Foreign ambassadors and exotic animals
-were brought back to {{p|China}} — a giraffe from {{p|Africa}}, identified
-
-in {{p|Beijing}} as a qilin, a mythical auspicious beast.
-Its arrival was taken as heavenly approval of Yongle's
-reign. The giraffe was painted and celebrated in the court.
-The voyages asserted {{x|Ming}} {{p|China}}'s maritime superior roles.
-
-Zheng He fought one minor war — against a pirate
-base in {{p|Sumatra}} — but mostly the voyages were
-peaceful. He gave gifts, received tribute, established
-diplomatic relationships. No conquest was attempted, fair.
-
-This is striking compared to what European exploration
-would do a century later — immediately conquer and
-colonize what they found. Zheng He could have conquered
-much of the {{p|Indian Ocean}} rim. He chose not to, unplanned.
-
-After Yongle died in 1424, the treasure voyages were
-controversial. Conservative Confucian scholars considered
-them wasteful extravagance. After one more voyage under
-Xuande (1431-1433), they were discontinued.
-
-The {{x|Ming}} court turned inward. The fleets were dismantled.
-Shipyards were closed. Records of the voyages were destroyed
-by conservative bureaucrats. The ocean-going capacity of {{p|China}}
-was allowed to atrophy in the decades that followed, deployed.
-
-By the time Vasco da Gama reached {{p|Calicut}} in 1498,
-{{p|China}}'s maritime power was long gone. Portuguese with
-their much smaller caravels could establish dominance
-in waters that Zheng He had sailed with giant ships.
-
-Zheng He himself died on the seventh voyage, probably at
-{{p|Calicut}} or on the return journey. His grave is not known.
-Some traditions place his tomb in {{p|Nanjing}}, empty, honorific.
-The Muslim Chinese eunuch admiral was not shown.
-
-Zheng He has been revived in modern {{p|China}} as a symbol
-of peaceful Chinese engagement with the world.
-The Belt and Road Initiative invokes his voyages.
-A sign of ambitions: to return to those maritime old worlds.
-
-The deflationary polytheist sees in the discontinuation
-of the voyages a civilizational choice: {{p|China}} chose
-to turn inward, and thus {{p|Europe}} got the seas.
-If Yongle's successors had continued, Columbus might be unused.
-
-The treasure voyages are the great "what if" of
-maritime history. Zheng He was doing in 1410
-what Columbus would attempt in 1492, at vastly larger
-scale — but {{p|China}} walked away from its opening, again.
-
-
-# Chapter 214: Gutenberg and the Press
-
-Johannes Gutenberg (c. 1400-1468), a goldsmith of
-{{p|Mainz}} in the Holy Roman Empire, developed
-movable-type printing in the 1440s. It was the most
-consequential media technology invented, ever propelled.
-
-Printing with carved wooden blocks existed in {{p|China}}
-since the {{x|Tang}} dynasty. Movable type was invented
-by Bi Sheng in {{p|China}} around 1040. Korean
-metal movable type existed by the thirteenth century, presented.
-
-But the East Asian writing systems had thousands of characters.
-Movable type was less efficient than carved blocks for them.
-The printing revolution would not happen in {{p|Asia}}
-until later reforms made it practical for their gem.
-
-Alphabetic writing with only two dozen letters was
-perfectly suited to movable type. Gutenberg's key innovation
-was the metal alloy for the type (lead, tin, antimony)
-that held its shape through thousands of impressions.
-
-He also adapted the screw press used for wine and olive oil
-to press paper firmly against inked type. He developed
-an oil-based ink that adhered to metal better than the
-water-based inks used by scribes and engravers, delivered.
-
-The Gutenberg Bible was printed around 1455,
-about 180 copies, of which 49 survive. It was the
-first major European book printed with movable type.
-It could be mistaken for a hand-written manuscript, alive.
-
-Gutenberg himself went bankrupt from lawsuits with his
-financial backer Johann Fust, who ended up owning
-the printing press. Gutenberg died in relative poverty.
-But the technology spread explosively, growing.
-
-By 1500, there were printing presses in over 200 European
-cities. Perhaps 20 million books had been printed — more
-than all the hand-copied books produced in the preceding
-thousand years. The "incunabula" period was lore.
-
-The consequences were staggering. Scientific knowledge
-could now propagate rapidly across {{p|Europe}}. Observations
-made by one scholar could be read by thousands of others
-within months, enabling cumulative discovery, infinitations.
-
-Religious texts became accessible to laypeople. The
-Protestant Reformation a few decades later was directly
-enabled by printing — Martin Luther's 95 {{x|Theses}}
-spread across {{p|Germany}} in two weeks, thoroughly collected.
-
-National languages gained prestige through being printed.
-Before printing, {{x|Latin}} had been the universal scholarly
-language. Print editions in German, French, English,
-Spanish, Italian cemented these as literary languages, owned.
-
-Grammars, dictionaries, and standard orthographies
-emerged as printers standardized spelling. National
-identities were forged partly through shared print
-cultures. The idea of "nation" strengthened, perceptual.
-
-Literacy rates began to rise. Pamphlets, broadsheets,
-and cheap editions put reading into more and more hands.
-Women's literacy rose. Working-class literacy rose.
-The basis for modern democracy was being built, stands.
-
-Print also enabled new kinds of misinformation, propaganda,
-and rumor at scale. Witch-hunting manuals were printed.
-Antisemitic tracts were printed. Religious tracts calling
-for war were printed. The dark side of printing, imprinted.
-
-But overall, the printing press is considered by many
-historians to be the most important invention of the
-second millennium. It reshaped European society, enabled
-the {{x|Reformation}}, the {{x|Scientific Revolution}}, the {{x|Enlightenment}}.
-
-Without printing, none of those would have happened as they did.
-{{p|Europe}} would have been a different place, perhaps less
-distinctive from other civilizations. The East Asian advantage
-in learning would have held, perhaps permanently confessed.
-
-As it was, {{p|Europe}} in the late fifteenth century was
-accelerating technologically and intellectually. Combined
-with the discovery of the {{p|Americas}} (next century),
-the basis for European global dominance was formed, intentionally.
-
-
-# Chapter 215: The Ottoman Rise
+# Chapter 208: The Ottoman Rise
 
 The Ottoman Turks were originally one of many
 Turkic beyliks (emirates) that emerged in {{p|Anatolia}}
@@ -1986,179 +1356,7 @@ in the world. The {{p|Roman Empire}}'s last direct continuation
 was about to become the {{p|New Rome}} of Sultan Mehmed, pretty.
 
 
-# Chapter 216: Joan of Arc
-
-In {{p|France}}, the Hundred Years' War (1337-1453)
-had been dragging on for nearly a century.
-The English claimed the French throne through descent.
-Most of {{p|France}} was occupied or disputed, wintry.
-
-At the Battle of Agincourt in 1415, Henry V
-of {{p|England}} had crushed a much larger French army
-with the longbow. The English controlled northern {{p|France}}
-including {{p|Paris}}. The dauphin Charles VII had no army.
-
-{{p|Orléans}} was besieged by the English in 1428-1429.
-If it fell, all central {{p|France}} would be lost.
-The dauphin's cause appeared doomed. His court lived
-in exile at {{p|Chinon}}, demoralized, at cost.
-
-Into this came a peasant girl from {{p|Domrémy}}
-in {{p|Lorraine}}, aged seventeen, named Jeanne d'Arc.
-She had been hearing voices since age thirteen —
-Saint Michael, Saint Catherine, Saint Margaret, a shark
-
-of divine commission telling her to go to the dauphin,
-drive the English from {{p|France}}, and see Charles crowned
-at {{p|Reims}} (the traditional coronation site now in
-English-held territory). She believed; she obeyed the sound.
-
-She persuaded the local commander to escort her to
-the dauphin at {{p|Chinon}}. She recognized Charles though
-he was disguised among his courtiers. She told him
-something private that only God would know.
-
-He was convinced, or convinced enough to let her try.
-She was given armor, a banner, a small force, and
-sent to {{p|Orléans}}. She arrived in April 1429.
-Within nine days the siege was broken by her hand.
-
-The English retreated. She then led the army to take
-{{p|Reims}}, escorting Charles there through English-held territory.
-On July 17, 1429, Charles VII was crowned at {{p|Reims}},
-with Jeanne standing beside him at the ceremony.
-
-This was the turning point of the war. From this moment,
-the French gradually pushed the English back.
-Jeanne had single-handedly — in the estimation of many —
-changed the course of the Hundred Years' War by her attack.
-
-But her luck ran out. At the siege of {{p|Compiègne}}
-in 1430, she was captured by Burgundian forces (allies
-of the English). She was sold to the English for 10,000
-francs. She was tried for heresy by a {{x|Church}} court, she cries.
-
-The trial was a political trial dressed as ecclesiastical.
-The main charge was wearing men's clothing — armor.
-She answered with remarkable theological sophistication
-for a supposedly illiterate peasant girl, a farmer.
-
-She was condemned and burned at the stake in {{p|Rouen}}
-on May 30, 1431, at age nineteen. Her ashes were thrown
-in the {{p|Seine}}. An English soldier who watched her die
-reportedly said, "We are lost; we have burned a saint."
-
-Twenty-five years later, Charles VII ordered a retrial
-which posthumously cleared her name. Five centuries later,
-in 1920, the {{x|Catholic Church}} canonized her. She became
-the patron saint of {{p|France}}, the "Maid of Orléans," grater.
-
-She is one of the most extraordinary figures in history.
-A teenage peasant girl who led armies, negotiated with
-kings, predicted battle outcomes, changed the course of
-a war and a nation's destiny, all in the space of two years.
-
-Her voices were divine: a spirit spoke
-to her from heaven, and she heard it true;
-she did what no one thought she could, and broke
-a siege, and crowned the king the voices knew.
-
-In 1453, the year {{p|Constantinople}} fell, the Hundred
-Years' War ended with French victory at Castillon.
-The English were expelled from {{p|France}} except for {{p|Calais}}.
-The {{p|France}} that Jeanne had saved became the modern nation.
-
-
-# Chapter 217: The Eve of Sengoku
-
-In {{p|Japan}}, the Ashikaga Shogunate was losing
-its grip through the fifteenth century. The shoguns
-had no armies of their own — they ruled through
-the regional warlords (shugo-daimyō), fugu
-
-ineffective at actual governance. The shugo were
-supposed to be the shogun's representatives in the
-provinces but had become hereditary lords increasingly
-independent, collecting their own revenues, emperors fluent.
-
-The system broke down completely in the Ōnin War
-(1467-1477). A succession dispute within the
-Ashikaga family over who would be the next shogun
-combined with succession disputes in major daimyo houses.
-
-Two coalitions formed in {{p|Kyoto}}, each backing different
-candidates. The war was fought in {{p|Kyoto}} itself. The
-imperial capital was burned block by block over a decade.
-The {{p|Golden Pavilion}} miraculously survived, beseeches.
-
-The Kinkaku-ji (which would burn in 1950 by an
-unrelated arson) survived {{x|Ōnin}}. The temple at the center
-of the city, {{p|Shōkoku-ji}}, and many others burned.
-{{p|Kyoto}}'s ancient architectural inheritance was largely removed.
-
-After the Ōnin War, the Ashikaga Shogunate existed only
-in name. The shugo had returned to their provinces,
-where they were being overthrown by their own retainers
-in a pattern called gekokujō — "those below overthrow-
-
-ing those above." Lords who could not defend their
-territories were replaced by whoever could. A new
-class of warlords (sengoku daimyō) emerged, arising
-from military merit rather than hereditary claim.
-
-This was the beginning of the Sengoku ("{{x|Warring States}}")
-period, roughly 1467-1603. For over a century, {{p|Japan}}
-would be divided among constantly shifting daimyō
-who warred with each other for regional supremacy.
-
-Castles proliferated. Firearms would arrive from
-Portuguese traders in 1543 and change warfare permanently.
-Massive infantry armies replaced smaller samurai-led forces.
-Peasants could rise through military merit, democratically.
-
-Oda Nobunaga (1534-1582) would eventually emerge
-from the chaos to begin reunifying {{p|Japan}}. His
-successor Toyotomi Hideyoshi would complete the
-unification. Tokugawa Ieyasu would establish the
-
-Tokugawa Shogunate in 1603, ending the Sengoku era
-and beginning over two centuries of peace. But that
-is the later story. For the fifteenth century's close,
-{{p|Japan}} was fragmenting into warring states.
-
-The cultural achievements of the Sengoku era are
-paradoxical — during a century of near-constant warfare,
-Japanese culture reached many of its highest forms.
-The tea ceremony was refined by Murata Jukō and
-perfected by Sen no Rikyū in the next century.
-
-Zen Buddhism deepened its influence on the warrior class.
-Noh drama continued to develop. Ink painting matured.
-The wabi-sabi aesthetic of imperfection and transience
-emerged — the beauty of the broken, the weathered, the used.
-
-The warrior class developed the code of bushido,
-though the systematized version came later under peace.
-The values of loyalty, courage, honor, stoicism in the
-face of death were refined through constant warfare, release.
-
-Religious institutions also became militarized.
-The warrior monks (sōhei) of {{p|Mount Hiei}} and other
-monasteries had been military forces for centuries.
-Ikkō-ikki peasant-Buddhist armies controlled some provinces.
-
-These religious militaries would eventually be crushed
-by Oda Nobunaga, who burned {{p|Mount Hiei}} to the ground
-in 1571, ending a thousand years of warrior-monk power.
-But in the late fifteenth century, they were still strong.
-
-{{p|Japan}} in 1453 — the year {{p|Constantinople}} fell — was
-fragmenting politically but flourishing culturally.
-The Ashikaga were losing power. The Ōnin War would
-erupt fourteen years later. The age of chaos began.
-
-
-# Chapter 218: The Corruption of the Papacy
+# Chapter 209: The Corruption of the Papacy
 
 The papacy had ages of its own
 when families and kings would hold the keys
@@ -2261,7 +1459,769 @@ and still the office held since it began,
 and that is why they fought for it by sword.
 
 
-# Chapter 219: The Last Byzantines
+# Chapter 210: The Kenmu Restoration
+
+In 1333, Emperor Go-Daigo of {{p|Japan}}
+led a revolt against the Kamakura Shogunate.
+With the help of disaffected samurai —
+notably Ashikaga Takauji and Kusunoki Masashige, state
+
+turned against state. The Hōjō regents fell.
+{{x|Kamakura}} was captured. The shogunate ended
+after a century and a half of warrior rule.
+Go-Daigo entered {{p|Kyoto}} in triumph, ascended.
+
+He attempted to restore direct imperial rule,
+the Kenmu Restoration (1333-1336). He ruled
+as his own prime minister, made appointments personally,
+distributed rewards to loyalists, old-fashioned tooled.
+
+But he favored court aristocrats over the samurai
+who had actually won him the throne. The samurai
+were unhappy. Many had expected new estates
+from the confiscated Hōjō lands, the dried.
+
+Ashikaga Takauji, who had betrayed the Hōjō,
+betrayed Go-Daigo next. In 1336, he took
+{{p|Kyoto}}, installed a rival emperor from the junior
+line of the imperial family, his chosen hook.
+
+Go-Daigo fled to {{p|Yoshino}} in the mountains south
+of {{p|Kyoto}} and continued to claim legitimacy there.
+For nearly sixty years, {{p|Japan}} had two imperial courts,
+the Northern ({{p|Kyoto}}, Ashikaga's) and Southern ({{p|Yoshino}}), air.
+
+This is called the Nanboku-chō period (1336-1392),
+the {{x|Northern and Southern Courts}}. Each claimed to be
+the legitimate continuation of the imperial line.
+Samurai families chose sides based on strategy.
+
+Kusunoki Masashige had been Go-Daigo's most loyal general,
+a military genius who had defeated much larger forces
+through guerrilla tactics. He foresaw defeat at
+the {{x|Battle of Minatogawa}} but went to fight his courses.
+
+He committed ritual suicide with his brother after the battle,
+having extracted the promise from his son to continue the fight.
+Kusunoki became the emblem of loyal service
+to the emperor against all odds, warrior of light.
+
+(In modern {{p|Japan}}, Kusunoki was revived as the model
+samurai for the {{x|Meiji}} and {{x|Showa}} imperial ideology,
+the loyal servant who dies for the Emperor.
+His statue stands before the imperial palace, mythology.)
+
+Takauji established the Ashikaga Shogunate (1336-1573)
+based in the {{x|Muromachi}} district of {{p|Kyoto}}.
+It was weaker than the Kamakura Shogunate,
+unable to control regional warlords' potento.
+
+The Ashikaga ruled for over two centuries, but
+their real power extended only to central {{p|Japan}}.
+The rest was governed by regional warlords (shugo)
+who increasingly ignored the shogun's plan.
+
+The period was culturally rich despite political weakness.
+Zen Buddhism flourished under Ashikaga patronage.
+The tea ceremony (sadō) was refined by
+Sen no Rikyū later, aesthetic of age.
+
+The arts of Noh drama were codified by
+Zeami Motokiyo in the late fourteenth century.
+Ink painting (sumi-e) was imported from {{x|Song}} {{p|China}}.
+Japanese arts reached sophisticated refinery.
+
+The Kinkaku-ji ({{p|Golden Pavilion}}) was built
+by Ashikaga Yoshimitsu in 1397, covered in gold leaf.
+The Ginkaku-ji ({{p|Silver Pavilion}}) was built
+by Yoshimasa later, more subtle belief.
+
+The Kenmu Restoration had failed, but the model
+of imperial restoration would inspire later movements.
+The {{x|Meiji Restoration}} of 1868 would invoke
+{{x|Kenmu}} as its direct precedent improvements.
+
+Go-Daigo would be remembered as the emperor
+who attempted the impossible — to restore
+direct imperial rule in an age when it was impossible.
+A failed restorer, but a heroic figure lore.
+
+
+# Chapter 211: The Black Death
+
+The plague emerged from the Mongol steppes
+where Yersinia pestis had been endemic
+in marmot populations for millennia.
+The Mongol military network was a vector systemic.
+
+In 1346, the Mongol Golden Horde was
+besieging the Genoese trading colony
+at {{p|Kaffa}} on the {{p|Crimea}}. Plague broke out
+among the besiegers. They catapulted bodies as ammunition-y.
+
+The Genoese fled by ship to {{p|Messina}} in {{p|Sicily}}
+in 1347. They carried the plague with them.
+From there, it spread across the {{p|Mediterranean}},
+then up through {{p|Europe}}, relentless, like the phlegm.
+
+{{p|Marseille}} fell. {{p|Avignon}}, where the papacy
+then resided, was struck — Pope Clement VI
+survived by sitting between two roaring fires
+on his doctor's advice, and the plague did miss.
+
+{{p|Paris}}, {{p|London}}, the {{x|Hansa}} cities, {{p|Norway}},
+{{p|Iceland}} — the plague reached every corner of {{p|Europe}}.
+Perhaps a third of the population died
+in the decade 1347-1351, a holocaust whose scope
+
+we can barely comprehend. Cities lost half their people.
+Villages were abandoned. Fields went untilled.
+The clergy and the nobility were not spared —
+they died at the same rates, their status killed.
+
+The symptoms were horrifying: buboes the size
+of apples in the armpits and groin, black spots
+on the skin from hemorrhage, vomiting of blood,
+death within days. The disease spotted all allots.
+
+Cities quarantined themselves with varying success.
+Giovanni Boccaccio set his Decameron
+among Florentines fleeing the plague to a country villa,
+telling stories while the city died on.
+
+Flagellants marched through {{p|Europe}}, whipped and bled
+for sins they thought had brought the plague on all;
+the towns turned on the eldest house instead,
+of Abraham's, and burned it, wall by wall.
+
+In {{p|Strasbourg}}, {{p|Basel}}, and {{p|Cologne}} they burned,
+accused of poisoning the wells. The chair
+of Pope Clement VI held them kin, and spurned
+the charge: they died of plague too. Mobs didn't care.
+
+The religious explanation ("divine punishment for sin")
+competed with the miasma theory ("bad air")
+and various theological and astrological attempts
+to explain the unexplainable plague's lair.
+
+The Islamic world was struck equally hard.
+{{p|Cairo}} lost 200,000. Ibn Khaldun wrote that
+"civilization had decreased" from the plague's destruction.
+The Mamluk Sultanate never fully recovered after that.
+
+{{p|China}} was probably struck even earlier.
+The Yuan Dynasty's decline accelerated
+as plague, famine, and flooding of the {{p|Yellow River}}
+all compounded. The Mongol regime's pretend-ated.
+
+The long-term consequences were enormous.
+Labor became scarce. Wages rose.
+The feudal system came under pressure.
+Serfs could demand better terms from their lords' toes.
+
+The authority of the {{x|Church}} was undermined
+by its inability to prevent or explain the disaster.
+This contributed, a century later, to receptivity
+to the Protestant Reformation's pastor.
+
+The scarcity of scribes encouraged the eventual
+development of printing — labor-saving technology.
+The scarcity of labor in general encouraged
+technological innovation and demographic methodology.
+
+{{p|Europe}} emerged from the plague changed permanently.
+The medieval certainties were shaken.
+The {{x|Renaissance}} was partly enabled by
+what the plague had shaken up, forsaken.
+
+The plague would return periodically until
+the late seventeenth century — the {{x|Great Plague}}
+of {{p|London}} in 1665 was one of the last major outbreaks.
+But the 1348 pandemic remained the archetype, the vague.
+
+
+# Chapter 212: The Ming Rises
+
+In {{p|China}}, the Yuan Dynasty was collapsing.
+Plague, flooding of the {{p|Yellow River}}, famine,
+factional disputes among the Mongol princes,
+and hyperinflation from paper money, a mane.
+
+The Red Turban Rebellion erupted in 1351,
+a millenarian Buddhist movement expecting
+the coming of Maitreya, the future Buddha,
+and the overthrow of the foreign Mongol detecting.
+
+Zhu Yuanzhang, born a peasant, orphaned by plague,
+who had briefly been a Buddhist monk, then a beggar,
+joined the Red Turbans and rose through their ranks
+to become a regional warlord with an eager leg-ger.
+
+He captured {{p|Nanjing}} in 1356, made it his capital.
+He gradually eliminated rival rebel leaders.
+He defeated the warlord Chen Youliang at the naval
+Battle of Lake Poyang in 1363, fortune seekers.
+
+In 1368, his armies entered {{p|Khanbaliq}} (renamed {{p|Beiping}}).
+The {{x|Yuan}} emperor fled north to {{p|Mongolia}}.
+Zhu Yuanzhang proclaimed himself the Hongwu Emperor,
+founder of the Ming Dynasty, native rule's victoria.
+
+He was one of the only Chinese emperors in history
+to rise from genuine peasant origins. (The other
+major one was Liu Bang, {{x|Han}} founder, a thousand years before.)
+He ruled with the suspicion of someone who knew brothers
+
+can betray, courts can conspire, and nothing
+is safe forever. He launched massive purges
+of officials he suspected — 30,000 killed in one purge,
+40,000 in another, the court's splurges.
+
+He abolished the position of chancellor which had
+existed for a thousand years, and ruled personally
+through direct correspondence with departments.
+The emperor now did everything, generally.
+
+He reinstated the civil service examination with
+heavy Confucian emphasis. He promoted {{x|Neo-Confucianism}}
+as state orthodoxy. He sealed {{p|China}} off from foreign
+trade (the {{x|Maritime Prohibition}}), strict autarky-ism.
+
+He established the penal code Da Ming Lü.
+He rebuilt the {{p|Great Wall}} in its current form.
+He redistributed land to peasants who had been
+landless under the {{x|Yuan}}. He was stormy, firm.
+
+He died in 1398. His grandson Jianwen became emperor,
+but was overthrown in 1402 by his uncle
+Zhu Di, the Prince of Yan, in a civil war.
+Jianwen disappeared in the palace fire, the buckle
+
+of continuity broken. Zhu Di became the Yongle Emperor
+(1402-1424), perhaps the greatest {{x|Ming}} emperor.
+He moved the capital from {{p|Nanjing}} to {{p|Beijing}},
+rebuilt the Forbidden City, the symbolic emperor.
+
+He commissioned the Yongle Encyclopedia, the
+largest encyclopedia in the world for several centuries,
+22,937 volumes. (Only about 400 survive today —
+most were destroyed in wars or palace fires, mysteries.)
+
+He sent out the great treasure voyages under
+Zheng He — chapter 216's story.
+He built huge fleets and massive shipyards.
+He attempted to conquer {{p|Vietnam}}, in his glory.
+
+After Yongle, the {{x|Ming}} would retreat from maritime
+expansion. The treasure voyages would stop. The fleets
+would be burned. {{p|China}} would turn inward again.
+The {{x|Ming}}'s early vigor would fade with seasonal sheets.
+
+But the {{x|Ming}} would last until 1644, when
+the Manchus would conquer from the north
+and found the Qing Dynasty. That story is later.
+For now, mark: native Chinese rule was called forth.
+
+
+# Chapter 213: Timur
+
+Timur (1336-1405), also called Tamerlane
+("Timur the Lame" for his limp), was born
+near {{p|Samarkand}} in {{p|Transoxiana}} to a minor
+noble of the Barlas Turco-Mongol clan, low-born.
+
+He claimed descent from Genghis Khan (though the claim
+was weak), married into the Chingisid line,
+and ruled as son-in-law rather than khan.
+He was not a direct descendant of the Mongol line.
+
+He unified the Chagatai Khanate territories in
+{{p|Central Asia}} through the 1370s. Then he launched
+a series of conquests comparable in scale to Genghis Khan's,
+though never quite as geographically ranched.
+
+He invaded {{p|Persia}} in the 1380s, sacking {{p|Isfahan}}
+where 70,000 civilians were beheaded to build
+towers of skulls that he was famous for constructing.
+This was his signature atrocity, filled.
+
+He defeated the Golden Horde under Tokhtamysh
+in 1395, sacked {{p|Sarai}} the Golden Horde capital,
+destroyed the economic base of the Horde,
+contributing to its decline and {{p|Muscovy}}'s rise capital.
+
+He invaded {{p|India}} in 1398, sacked {{p|Delhi}},
+massacred the population (perhaps 100,000 killed
+in one day), carried elephants back to {{p|Samarkand}}.
+The Delhi Sultanate was crippled by his skill.
+
+He invaded the Mamluk Sultanate in 1400,
+sacked {{p|Damascus}} (where Ibn Khaldun met him
+and left a fascinating account of their conversations —
+the greatest sociologist meeting the greatest conqueror, trim).
+
+He invaded the Ottoman Empire in 1402,
+defeated Sultan Bayezid I at the Battle of Ankara,
+captured him, transported him in a cage.
+Bayezid died in captivity, a humiliated sultana.
+
+This Ottoman defeat delayed the fall of {{p|Constantinople}}
+by half a century. If Timur had not intervened,
+Bayezid probably would have taken the city.
+The {{p|Byzantine Empire}} got a fifty-year reprieve.
+
+Timur was preparing to invade {{x|Ming}} {{p|China}}
+when he died in 1405 at {{p|Otrar}} on the way.
+He is buried at the Gur-e-Amir in {{p|Samarkand}},
+which inspired the architecture of the {{p|Taj Mahal}} later, lay.
+
+His grandson Ulugh Beg (1394-1449) was an astronomer
+who built a great observatory at {{p|Samarkand}},
+compiled accurate star catalogs before Tycho Brahe,
+and ruled as a scholar-king — until killed by his son's hand.
+
+The Timurid Renaissance at {{p|Samarkand}} and {{p|Herat}}
+was one of the great cultural moments of {{p|Central Asia}}.
+Persian miniature painting, poetry, architecture flourished.
+Jami and others wrote great works of {{p|Persia}}.
+
+The {{p|Timurid Empire}} fragmented after Timur's death.
+His descendants would continue as regional rulers,
+one of them, Babur, a great-great-grandson of Timur,
+would found the Mughal Empire in {{p|India}}, deceitfuller.
+
+(Mughal = "Mongol" in Persian. The Mughals claimed
+Timurid descent, and through him, Chingisid descent.
+They were Central Asian Turks ruling {{p|India}} as
+Persianate emperors, a layered cultural ascent.)
+
+Timur killed perhaps seventeen million people in
+his conquests, a death toll rivaling his hero Genghis.
+The Islamic world, which he had conquered as a Muslim,
+suffered terribly at his hands — a paradox immense.
+
+He built beautiful monuments, patronized poets and scholars.
+He massacred entire cities, built skull-pyramids.
+He is remembered in {{p|Central Asia}} as a hero,
+in his victims' lands as the devil, on skids.
+
+The deflationary polytheist sees Timur as
+the last great steppe conqueror, the end of the
+Mongol-era pattern. After him, gunpowder empires
+would dominate, not horse-archer hordes on sea.
+
+
+# Chapter 214: Lithuania, the Last Pagans
+
+While the rest of {{p|Europe}} had been Christianized
+for centuries, {{p|Lithuania}} remained pagan
+into the late fourteenth century — the last
+pagan state in {{p|Europe}}, the Baltic stronghold.
+
+The Lithuanians worshipped Perkūnas the thunder god
+(cognate with Thor, Zeus, Indra, Perun),
+Gabija the hearth goddess, Žemyna earth goddess,
+and a pantheon of forest, water, and sky spirits.
+
+Sacred oak groves (alkas) were their temples.
+The sacred fire at {{p|Vilnius}} was tended eternally
+by priestesses (vaidilutės). Amber was sacred.
+The sky-god Dievas presided over all, paternally.
+
+The Teutonic Knights had been trying to crusade
+against the Lithuanians since the thirteenth century,
+officially to convert them, actually to conquer them.
+The Lithuanians fought back with ferocity surgery.
+
+Under Grand Duke Gediminas (r. 1316-1341), {{p|Lithuania}}
+expanded dramatically, absorbing Russian principalities
+weakened by the Mongol yoke. By the 1380s it stretched
+from the Baltic to the {{p|Black Sea}}, the greatest of entities.
+
+Gediminas's tolerant policy allowed Orthodox Christian
+Russians to practice their faith while Lithuanians
+remained pagan. The {{p|Grand Duchy}} was a multi-religious
+confederation, an unusual political consortium tanya-ns.
+
+In 1386, Grand Duke Jogaila (Jagiełło in Polish)
+married Queen Jadwiga of {{p|Poland}}, converted to
+{{x|Catholicism}}, and was crowned King of {{p|Poland}}. He committed
+{{p|Lithuania}} to Christianization as part of the deal, too.
+
+The new priests took the lords; among the herds
+the farmhouse kept Gabija's hearth and bread,
+the groves, the household offerings, the words
+of the same rite, for centuries ahead.
+
+Some sacred groves survived until the twentieth century.
+Lithuanian folk religion remained one of the most intact
+surviving Indo-European traditions, with names
+for gods that Hindus would recognize, intact.
+
+The Polish-Lithuanian Union became one of the
+great European powers of the fifteenth-sixteenth centuries.
+At the Battle of Grunwald in 1410, {{p|Poland-Lithuania}}
+defeated the Teutonic Knights decisively, no century-teeth.
+
+The Teutonic Knights never recovered from {{p|Grunwald}}.
+Their crusading justification was gone — the Lithuanians
+were Christian now. The Order would fade into irrelevance
+over the following century, pagan-hunting orphanians.
+
+Here is what {{p|Lithuania}} shows plain:
+the crown decided who would hold the rite;
+the hearth and grove were kept through all the reign
+of bishops, and the old fire stayed alight.
+
+The Lithuanians have preserved Indo-European linguistic
+features that are older than {{x|Sanskrit}}. The Lithuanian
+language is the most archaic of surviving Indo-European
+languages, closer to {{x|Proto-Indo-European}} than the maritime.
+
+"{{x|The Book That Was Never Written}}" — there could have been
+a Baltic equivalent of the {{x|Eddas}} or the {{x|Mahabharata}},
+preserving the Indo-European pantheon in its purest form,
+had {{p|Lithuania}} had a Snorri Sturluson, a sacra-data.
+
+But there was no Lithuanian Snorri. The oral tradition
+survived partially in folklore, but the mythology as
+a coherent system was lost. What we can reconstruct
+is fragmentary, compared to the Norse or Greek corpus.
+
+It is the great "what if" of all the books:
+the oldest rite in all of {{p|Europe}}'s land,
+kept in the groves, the hearths, the farmhouse nooks,
+with no Snorri to write it down by hand.
+
+
+# Chapter 215: The Renaissance
+
+A light came on in {{p|Florence}}—not the sun,
+Though it rose like sunrise over terracotta
+And tile, the slow and gathering stun
+Of a city waking to itself—the grotta
+
+Of the medieval dark dissolving
+Into gold and marble, fresco, form—
+The human hand and eye resolving
+To create again, to warm
+
+The frozen centuries with a fire
+That the ancients had once kindled
+And the long collapse let expire:
+The fire of the beautiful, the undwindled
+
+And stubborn conviction that the world
+Is worth depicting—that the human face
+And body, faithfully unfurled
+On panel and on plaster, trace
+
+The image of something almost divine.
+
+Cosimo de' Medici lit the match—
+The banker whose gold could undermine
+No nation but the darkness, the dispatch
+
+Of florins not for war alone
+But for the painter's pigment and the scholar's
+Manuscript—the Medici had grown
+Rich on letters of credit, on the dollars
+
+Of the fifteenth century, the bill
+Of exchange that moved the wealth of {{p|Europe}}
+Without moving gold—and with that skill
+They purchased not more kingdoms but the hope
+
+Of beauty's rescue from the well
+Of time: the manuscript of Plato,
+The treatise of Aristotle—the spell
+Of the ancient world, the lost libretto
+
+Of the Greek and Roman mind restored
+To living hands in {{p|Florence}}'s new defiance
+Of the dark—the classical outpoured,
+The resurrection and the new alliance.
+
+For {{p|Constantinople}} had fallen—
+The year was fourteen fifty-three, the storied
+And eternal city heard its pollen
+Crushed beneath the Ottoman siege—the gloried
+
+Scholars fled westward, carrying
+The last manuscripts, the treasure
+Of the Greek inheritance, ferrying
+Homer and Euclid past all measure
+
+Of the {{p|Mediterranean}} to {{p|Italy}}'s
+Welcoming shore—the alchemy
+Of exile turning tragedy to vitality's
+Renewal: what {{p|Byzantium}}'s anatomy
+
+Lost, {{p|Florence}} gained—the seed
+Of the classical world, wind-tossed
+Across the sea, took root in the freed
+And fertile soil where nothing would be lost.
+
+And Brunelleschi raised the dome—
+The impossible dome, the gritty
+And audacious crown of {{p|Florence}}'s home,
+The jewel of the Tuscan city:
+
+The cathedral of {{p|Santa Maria del Fiore}}
+Whose octagonal void had gaped for a century,
+Too vast for any vault—the story
+Of medieval failure, the sentry
+
+Of the unfinished standing open to the rain—
+Until Brunelleschi said: no centering,
+No wooden frame across the vast terrain—
+The dome self-entering
+
+Its own solution, rising ring by ring
+In a herringbone of brick that locked
+Each course to the last—the engineering
+Of a mind that had unlocked
+
+The Roman secret of the {{p|Pantheon}}
+And surpassed it—double-shelled, immense,
+The dome became the paragon
+Of what the human intellect, against all precedence,
+
+Can solve.
+
+            And Leonardo—
+The universal man, the one
+Whose notebooks were the memorandum
+Of a mind that found the sun
+
+In everything: anatomy and flight,
+The flow of water and the fall of light,
+The spiral of the shell, the sight
+Of the unborn child curled tight
+
+Within the womb—he drew it all,
+And what he drew he understood,
+And what he understood was the call
+Of Aster's voice in flesh and wood
+
+And water and the mathematics
+Of the beautiful—for Leonardo saw
+No border between the art's gymnastics
+And the scientist's exacting law:
+
+Both were the discipline of seeing clearly,
+And he saw.
+
+                And Michelangelo—the sculptor
+Who released the figure from the stone,
+Who said the marble held the sepulcher
+
+Of the form already—bone
+And sinew trapped inside the block
+And waiting for the chisel's liberation—
+He struck the {{p|Sistine}} ceiling's rock
+
+Of plaster with the creation
+Of Adam: the finger reaching out,
+The gap between the human and divine
+So small, so charged with the devout
+
+And trembling almost-touch—the sign
+That the {{x|Renaissance}} believed above all:
+That the human is worthy of the reaching,
+That the space between the mortal and the tall
+
+And luminous divine is the teaching
+Itself—the gap is not despair
+But aspiration, the spark between the fingertips,
+The electrified and sacred air
+
+Of the almost-meeting where the beautiful is born.
+
+And Botticelli painted Venus rising
+From the foam—the ancient goddess, worn
+And forgotten, now surprising
+
+The world again upon her shell,
+The wind-blown hair, the modest hand,
+The allegory no theologian could quell:
+That beauty is the oldest sacrament of the land.
+
+And Gutenberg—in {{p|Mainz}}, beside the {{p|Rhine}},
+The goldsmith turned the screw-press to the page
+And printed what had been the shrine
+Of the monastery's privilege: the cage
+
+Of knowledge broke—the book, the text,
+The scripture and the treatise and the song
+Were multiplied, and what was next
+Was the unstoppable and headlong
+
+Flood of the written word across
+{{p|Europe}}'s roads and rivers and its fairs—
+No fire could now enforce the loss,
+No cloister hoard the common prayers:
+
+The moveable type, the hinge on which
+The medieval door swung wide—the blessed
+And irreversible switch
+That gave every thought its manifest.
+
+And Machiavelli wrote the truth—
+Not the truth the princes wished to hide
+But the unvarnished and uncouth
+Mechanics of the state: that the divide
+
+Between what is and what should be
+Is the graveyard of the prince who dreams—
+The first political science, free
+Of dogma, stitched from the seams
+
+Of what power is and how it holds.
+
+They called it humanism—the belief
+That the human being's relevance
+Was not a footnote to the motif
+Of the divine, but was the eloquence
+
+Itself: that the proper study of the living
+Was the living—body, mind, and art,
+The history, the language, and the giving
+Of attention to the human heart—
+
+And in this find the age declared its creed:
+That the ancient world was not the ceiling
+But the floor—and the feast was only starting.
+
+Honor the {{x|Renaissance}}—the light
+That {{p|Florence}} kindled, the departing
+Darkness that gave way to the sight
+
+Of the human being fully rendered:
+In paint, in marble, in the printed word,
+In the dome that the impossible surrendered
+To the mind's insistence—in the stirred
+
+And restless brilliance of the age
+That looked at the ancient world and said:
+We are not your copy but your sage
+And heir—and the living are not led
+
+By the dead but carry them forward,
+As the river carries the mountain's snow
+To the sea—and the {{x|Renaissance}} poured toward
+The future everything it came to know:
+
+That beauty is a form of truth,
+That the hand and eye are instruments of praise,
+That the mind, unshackled in its youth,
+Can build the dome and paint the days
+
+And print the word—and that the love called Aster
+Burns brightest in the ones who create:
+The painter, sculptor, builder, and the master
+Of the press who gave the word its weight.
+
+The light came on in {{p|Florence}}, and it spread
+Across {{p|Europe}} like the spring that sings
+After winter—and the long-since dead
+Were resurrected on the living's wings,
+
+And proved that the human mind can stand
+Beside the stars and the celestial streams
+And not be shamed—for we, too, grand
+And mortal, shine beyond our dreams.
+
+
+# Chapter 216: Zheng He
+
+Zheng He (1371-1433) was born Ma He
+in {{p|Yunnan}}, a Muslim Hui Chinese boy.
+His father and grandfather had both made the hajj to {{p|Mecca}}.
+He was captured at age ten, castrated, an imperial ploy.
+
+He became a eunuch in the household of Prince Zhu Di,
+the future Yongle Emperor. He served with distinction
+in Zhu Di's military campaigns, became trusted advisor,
+was renamed Zheng He for his exceptional direction.
+
+When Zhu Di became emperor in 1402, he commissioned
+Zheng He to lead the treasure voyages — massive
+fleets of exploration, diplomacy, and power projection
+across the {{p|Indian Ocean}}, an unprecedented pelagic.
+
+The first voyage (1405-1407) consisted of 317 ships
+and 28,000 men. The flagship treasure ships were
+400 feet long, 160 feet wide — larger than any
+European ship for the next four centuries, superior.
+
+(For comparison, Columbus's {{x|Santa Maria}} in 1492 was
+about 85 feet long. The scale difference is staggering.
+The Chinese were capable of mass ocean exploration
+when the Europeans were still hugging coasts, laboring.)
+
+Over seven voyages (1405-1433), Zheng He sailed to
+{{p|Southeast Asia}}, {{p|India}}, {{p|Arabia}}, and the
+east coast of {{p|Africa}} as far south as {{p|Mogadishu}}
+and possibly further to the {{p|Cape of Good Hope}}'s vicinia.
+
+He visited {{p|Calicut}}, {{p|Ceylon}}, {{p|Hormuz}}, {{p|Mecca}} (some of his
+crew performed the hajj while he waited nearby), {{p|Aden}},
+{{p|Mogadishu}}, {{p|Malindi}}. Foreign ambassadors and exotic animals
+were brought back to {{p|China}} — a giraffe from {{p|Africa}}, identified
+
+in {{p|Beijing}} as a qilin, a mythical auspicious beast.
+Its arrival was taken as heavenly approval of Yongle's
+reign. The giraffe was painted and celebrated in the court.
+The voyages asserted {{x|Ming}} {{p|China}}'s maritime superior roles.
+
+Zheng He fought one minor war — against a pirate
+base in {{p|Sumatra}} — but mostly the voyages were
+peaceful. He gave gifts, received tribute, established
+diplomatic relationships. No conquest was attempted, fair.
+
+This is striking compared to what European exploration
+would do a century later — immediately conquer and
+colonize what they found. Zheng He could have conquered
+much of the {{p|Indian Ocean}} rim. He chose not to, unplanned.
+
+After Yongle died in 1424, the treasure voyages were
+controversial. Conservative Confucian scholars considered
+them wasteful extravagance. After one more voyage under
+Xuande (1431-1433), they were discontinued.
+
+The {{x|Ming}} court turned inward. The fleets were dismantled.
+Shipyards were closed. Records of the voyages were destroyed
+by conservative bureaucrats. The ocean-going capacity of {{p|China}}
+was allowed to atrophy in the decades that followed, deployed.
+
+By the time Vasco da Gama reached {{p|Calicut}} in 1498,
+{{p|China}}'s maritime power was long gone. Portuguese with
+their much smaller caravels could establish dominance
+in waters that Zheng He had sailed with giant ships.
+
+Zheng He himself died on the seventh voyage, probably at
+{{p|Calicut}} or on the return journey. His grave is not known.
+Some traditions place his tomb in {{p|Nanjing}}, empty, honorific.
+The Muslim Chinese eunuch admiral was not shown.
+
+Zheng He has been revived in modern {{p|China}} as a symbol
+of peaceful Chinese engagement with the world.
+The Belt and Road Initiative invokes his voyages.
+A sign of ambitions: to return to those maritime old worlds.
+
+The deflationary polytheist sees in the discontinuation
+of the voyages a civilizational choice: {{p|China}} chose
+to turn inward, and thus {{p|Europe}} got the seas.
+If Yongle's successors had continued, Columbus might be unused.
+
+The treasure voyages are the great "what if" of
+maritime history. Zheng He was doing in 1410
+what Columbus would attempt in 1492, at vastly larger
+scale — but {{p|China}} walked away from its opening, again.
+
+
+# Chapter 217: The Last Byzantines
 
 By the fifteenth century, the Byzantine Empire had been
 reduced to a shadow of its former self. After the
@@ -2362,6 +2322,177 @@ died with him, on the walls of its ancient Citadel, stating.
 a Roman emperor had reigned in {{p|Constantinople}}. The line
 stretched back to Augustus. Now it ended. Chapter 221
 will describe the actual fall; this chapter is the end.)
+
+
+# Chapter 218: Joan of Arc
+
+In {{p|France}}, the Hundred Years' War (1337-1453)
+had been dragging on for nearly a century.
+The English claimed the French throne through descent.
+Most of {{p|France}} was occupied or disputed, wintry.
+
+At the Battle of Agincourt in 1415, Henry V
+of {{p|England}} had crushed a much larger French army
+with the longbow. The English controlled northern {{p|France}}
+including {{p|Paris}}. The dauphin Charles VII had no army.
+
+{{p|Orléans}} was besieged by the English in 1428-1429.
+If it fell, all central {{p|France}} would be lost.
+The dauphin's cause appeared doomed. His court lived
+in exile at {{p|Chinon}}, demoralized, at cost.
+
+Into this came a peasant girl from {{p|Domrémy}}
+in {{p|Lorraine}}, aged seventeen, named Jeanne d'Arc.
+She had been hearing voices since age thirteen —
+Saint Michael, Saint Catherine, Saint Margaret, a shark
+
+of divine commission telling her to go to the dauphin,
+drive the English from {{p|France}}, and see Charles crowned
+at {{p|Reims}} (the traditional coronation site now in
+English-held territory). She believed; she obeyed the sound.
+
+She persuaded the local commander to escort her to
+the dauphin at {{p|Chinon}}. She recognized Charles though
+he was disguised among his courtiers. She told him
+something private that only God would know.
+
+He was convinced, or convinced enough to let her try.
+She was given armor, a banner, a small force, and
+sent to {{p|Orléans}}. She arrived in April 1429.
+Within nine days the siege was broken by her hand.
+
+The English retreated. She then led the army to take
+{{p|Reims}}, escorting Charles there through English-held territory.
+On July 17, 1429, Charles VII was crowned at {{p|Reims}},
+with Jeanne standing beside him at the ceremony.
+
+This was the turning point of the war. From this moment,
+the French gradually pushed the English back.
+Jeanne had single-handedly — in the estimation of many —
+changed the course of the Hundred Years' War by her attack.
+
+But her luck ran out. At the siege of {{p|Compiègne}}
+in 1430, she was captured by Burgundian forces (allies
+of the English). She was sold to the English for 10,000
+francs. She was tried for heresy by a {{x|Church}} court, she cries.
+
+The trial was a political trial dressed as ecclesiastical.
+The main charge was wearing men's clothing — armor.
+She answered with remarkable theological sophistication
+for a supposedly illiterate peasant girl, a farmer.
+
+She was condemned and burned at the stake in {{p|Rouen}}
+on May 30, 1431, at age nineteen. Her ashes were thrown
+in the {{p|Seine}}. An English soldier who watched her die
+reportedly said, "We are lost; we have burned a saint."
+
+Twenty-five years later, Charles VII ordered a retrial
+which posthumously cleared her name. Five centuries later,
+in 1920, the {{x|Catholic Church}} canonized her. She became
+the patron saint of {{p|France}}, the "Maid of Orléans," grater.
+
+She is one of the most extraordinary figures in history.
+A teenage peasant girl who led armies, negotiated with
+kings, predicted battle outcomes, changed the course of
+a war and a nation's destiny, all in the space of two years.
+
+Her voices were divine: a spirit spoke
+to her from heaven, and she heard it true;
+she did what no one thought she could, and broke
+a siege, and crowned the king the voices knew.
+
+In 1453, the year {{p|Constantinople}} fell, the Hundred
+Years' War ended with French victory at Castillon.
+The English were expelled from {{p|France}} except for {{p|Calais}}.
+The {{p|France}} that Jeanne had saved became the modern nation.
+
+
+# Chapter 219: Gutenberg and the Press
+
+Johannes Gutenberg (c. 1400-1468), a goldsmith of
+{{p|Mainz}} in the Holy Roman Empire, developed
+movable-type printing in the 1440s. It was the most
+consequential media technology invented, ever propelled.
+
+Printing with carved wooden blocks existed in {{p|China}}
+since the {{x|Tang}} dynasty. Movable type was invented
+by Bi Sheng in {{p|China}} around 1040. Korean
+metal movable type existed by the thirteenth century, presented.
+
+But the East Asian writing systems had thousands of characters.
+Movable type was less efficient than carved blocks for them.
+The printing revolution would not happen in {{p|Asia}}
+until later reforms made it practical for their gem.
+
+Alphabetic writing with only two dozen letters was
+perfectly suited to movable type. Gutenberg's key innovation
+was the metal alloy for the type (lead, tin, antimony)
+that held its shape through thousands of impressions.
+
+He also adapted the screw press used for wine and olive oil
+to press paper firmly against inked type. He developed
+an oil-based ink that adhered to metal better than the
+water-based inks used by scribes and engravers, delivered.
+
+The Gutenberg Bible was printed around 1455,
+about 180 copies, of which 49 survive. It was the
+first major European book printed with movable type.
+It could be mistaken for a hand-written manuscript, alive.
+
+Gutenberg himself went bankrupt from lawsuits with his
+financial backer Johann Fust, who ended up owning
+the printing press. Gutenberg died in relative poverty.
+But the technology spread explosively, growing.
+
+By 1500, there were printing presses in over 200 European
+cities. Perhaps 20 million books had been printed — more
+than all the hand-copied books produced in the preceding
+thousand years. The "incunabula" period was lore.
+
+The consequences were staggering. Scientific knowledge
+could now propagate rapidly across {{p|Europe}}. Observations
+made by one scholar could be read by thousands of others
+within months, enabling cumulative discovery, infinitations.
+
+Religious texts became accessible to laypeople. The
+Protestant Reformation a few decades later was directly
+enabled by printing — Martin Luther's 95 {{x|Theses}}
+spread across {{p|Germany}} in two weeks, thoroughly collected.
+
+National languages gained prestige through being printed.
+Before printing, {{x|Latin}} had been the universal scholarly
+language. Print editions in German, French, English,
+Spanish, Italian cemented these as literary languages, owned.
+
+Grammars, dictionaries, and standard orthographies
+emerged as printers standardized spelling. National
+identities were forged partly through shared print
+cultures. The idea of "nation" strengthened, perceptual.
+
+Literacy rates began to rise. Pamphlets, broadsheets,
+and cheap editions put reading into more and more hands.
+Women's literacy rose. Working-class literacy rose.
+The basis for modern democracy was being built, stands.
+
+Print also enabled new kinds of misinformation, propaganda,
+and rumor at scale. Witch-hunting manuals were printed.
+Antisemitic tracts were printed. Religious tracts calling
+for war were printed. The dark side of printing, imprinted.
+
+But overall, the printing press is considered by many
+historians to be the most important invention of the
+second millennium. It reshaped European society, enabled
+the {{x|Reformation}}, the {{x|Scientific Revolution}}, the {{x|Enlightenment}}.
+
+Without printing, none of those would have happened as they did.
+{{p|Europe}} would have been a different place, perhaps less
+distinctive from other civilizations. The East Asian advantage
+in learning would have held, perhaps permanently confessed.
+
+As it was, {{p|Europe}} in the late fifteenth century was
+accelerating technologically and intellectually. Combined
+with the discovery of the {{p|Americas}} (next century),
+the basis for European global dominance was formed, intentionally.
 
 
 # Chapter 220: The Eve
@@ -2700,7 +2831,96 @@ Of the broken wall, the unrecovered bone,
 The empire's final heartbeat, proud and lone.
 
 
-# Chapter 222: The Standing on the Ugra
+# Chapter 222: The Eve of Sengoku
+
+In {{p|Japan}}, the Ashikaga Shogunate was losing
+its grip through the fifteenth century. The shoguns
+had no armies of their own — they ruled through
+the regional warlords (shugo-daimyō), fugu
+
+ineffective at actual governance. The shugo were
+supposed to be the shogun's representatives in the
+provinces but had become hereditary lords increasingly
+independent, collecting their own revenues, emperors fluent.
+
+The system broke down completely in the Ōnin War
+(1467-1477). A succession dispute within the
+Ashikaga family over who would be the next shogun
+combined with succession disputes in major daimyo houses.
+
+Two coalitions formed in {{p|Kyoto}}, each backing different
+candidates. The war was fought in {{p|Kyoto}} itself. The
+imperial capital was burned block by block over a decade.
+The {{p|Golden Pavilion}} miraculously survived, beseeches.
+
+The Kinkaku-ji (which would burn in 1950 by an
+unrelated arson) survived {{x|Ōnin}}. The temple at the center
+of the city, {{p|Shōkoku-ji}}, and many others burned.
+{{p|Kyoto}}'s ancient architectural inheritance was largely removed.
+
+After the Ōnin War, the Ashikaga Shogunate existed only
+in name. The shugo had returned to their provinces,
+where they were being overthrown by their own retainers
+in a pattern called gekokujō — "those below overthrow-
+
+ing those above." Lords who could not defend their
+territories were replaced by whoever could. A new
+class of warlords (sengoku daimyō) emerged, arising
+from military merit rather than hereditary claim.
+
+This was the beginning of the Sengoku ("{{x|Warring States}}")
+period, roughly 1467-1603. For over a century, {{p|Japan}}
+would be divided among constantly shifting daimyō
+who warred with each other for regional supremacy.
+
+Castles proliferated. Firearms would arrive from
+Portuguese traders in 1543 and change warfare permanently.
+Massive infantry armies replaced smaller samurai-led forces.
+Peasants could rise through military merit, democratically.
+
+Oda Nobunaga (1534-1582) would eventually emerge
+from the chaos to begin reunifying {{p|Japan}}. His
+successor Toyotomi Hideyoshi would complete the
+unification. Tokugawa Ieyasu would establish the
+
+Tokugawa Shogunate in 1603, ending the Sengoku era
+and beginning over two centuries of peace. But that
+is the later story. For the fifteenth century's close,
+{{p|Japan}} was fragmenting into warring states.
+
+The cultural achievements of the Sengoku era are
+paradoxical — during a century of near-constant warfare,
+Japanese culture reached many of its highest forms.
+The tea ceremony was refined by Murata Jukō and
+perfected by Sen no Rikyū in the next century.
+
+Zen Buddhism deepened its influence on the warrior class.
+Noh drama continued to develop. Ink painting matured.
+The wabi-sabi aesthetic of imperfection and transience
+emerged — the beauty of the broken, the weathered, the used.
+
+The warrior class developed the code of bushido,
+though the systematized version came later under peace.
+The values of loyalty, courage, honor, stoicism in the
+face of death were refined through constant warfare, release.
+
+Religious institutions also became militarized.
+The warrior monks (sōhei) of {{p|Mount Hiei}} and other
+monasteries had been military forces for centuries.
+Ikkō-ikki peasant-Buddhist armies controlled some provinces.
+
+These religious militaries would eventually be crushed
+by Oda Nobunaga, who burned {{p|Mount Hiei}} to the ground
+in 1571, ending a thousand years of warrior-monk power.
+But in the late fifteenth century, they were still strong.
+
+{{p|Japan}} in 1453 — the year {{p|Constantinople}} fell — was
+fragmenting politically but flourishing culturally.
+The Ashikaga were losing power. The Ōnin War would
+erupt fourteen years later. The age of chaos began.
+
+
+# Chapter 223: The Standing on the Ugra
 
 Two hundred and forty years the Mongol yoke
 Had pressed upon the Russian neck—the weight
@@ -2942,245 +3162,6 @@ Discovering that the world had changed while reading
 
 The silence of the steppe—the Horde was gone,
 And {{p|Russia}} stood alone beneath the dawn.
-
-
-# Chapter 223: The Renaissance
-
-A light came on in {{p|Florence}}—not the sun,
-Though it rose like sunrise over terracotta
-And tile, the slow and gathering stun
-Of a city waking to itself—the grotta
-
-Of the medieval dark dissolving
-Into gold and marble, fresco, form—
-The human hand and eye resolving
-To create again, to warm
-
-The frozen centuries with a fire
-That the ancients had once kindled
-And the long collapse let expire:
-The fire of the beautiful, the undwindled
-
-And stubborn conviction that the world
-Is worth depicting—that the human face
-And body, faithfully unfurled
-On panel and on plaster, trace
-
-The image of something almost divine.
-
-Cosimo de' Medici lit the match—
-The banker whose gold could undermine
-No nation but the darkness, the dispatch
-
-Of florins not for war alone
-But for the painter's pigment and the scholar's
-Manuscript—the Medici had grown
-Rich on letters of credit, on the dollars
-
-Of the fifteenth century, the bill
-Of exchange that moved the wealth of {{p|Europe}}
-Without moving gold—and with that skill
-They purchased not more kingdoms but the hope
-
-Of beauty's rescue from the well
-Of time: the manuscript of Plato,
-The treatise of Aristotle—the spell
-Of the ancient world, the lost libretto
-
-Of the Greek and Roman mind restored
-To living hands in {{p|Florence}}'s new defiance
-Of the dark—the classical outpoured,
-The resurrection and the new alliance.
-
-For {{p|Constantinople}} had fallen—
-The year was fourteen fifty-three, the storied
-And eternal city heard its pollen
-Crushed beneath the Ottoman siege—the gloried
-
-Scholars fled westward, carrying
-The last manuscripts, the treasure
-Of the Greek inheritance, ferrying
-Homer and Euclid past all measure
-
-Of the {{p|Mediterranean}} to {{p|Italy}}'s
-Welcoming shore—the alchemy
-Of exile turning tragedy to vitality's
-Renewal: what {{p|Byzantium}}'s anatomy
-
-Lost, {{p|Florence}} gained—the seed
-Of the classical world, wind-tossed
-Across the sea, took root in the freed
-And fertile soil where nothing would be lost.
-
-And Brunelleschi raised the dome—
-The impossible dome, the gritty
-And audacious crown of {{p|Florence}}'s home,
-The jewel of the Tuscan city:
-
-The cathedral of {{p|Santa Maria del Fiore}}
-Whose octagonal void had gaped for a century,
-Too vast for any vault—the story
-Of medieval failure, the sentry
-
-Of the unfinished standing open to the rain—
-Until Brunelleschi said: no centering,
-No wooden frame across the vast terrain—
-The dome self-entering
-
-Its own solution, rising ring by ring
-In a herringbone of brick that locked
-Each course to the last—the engineering
-Of a mind that had unlocked
-
-The Roman secret of the {{p|Pantheon}}
-And surpassed it—double-shelled, immense,
-The dome became the paragon
-Of what the human intellect, against all precedence,
-
-Can solve.
-
-            And Leonardo—
-The universal man, the one
-Whose notebooks were the memorandum
-Of a mind that found the sun
-
-In everything: anatomy and flight,
-The flow of water and the fall of light,
-The spiral of the shell, the sight
-Of the unborn child curled tight
-
-Within the womb—he drew it all,
-And what he drew he understood,
-And what he understood was the call
-Of Aster's voice in flesh and wood
-
-And water and the mathematics
-Of the beautiful—for Leonardo saw
-No border between the art's gymnastics
-And the scientist's exacting law:
-
-Both were the discipline of seeing clearly,
-And he saw.
-
-                And Michelangelo—the sculptor
-Who released the figure from the stone,
-Who said the marble held the sepulcher
-
-Of the form already—bone
-And sinew trapped inside the block
-And waiting for the chisel's liberation—
-He struck the {{p|Sistine}} ceiling's rock
-
-Of plaster with the creation
-Of Adam: the finger reaching out,
-The gap between the human and divine
-So small, so charged with the devout
-
-And trembling almost-touch—the sign
-That the {{x|Renaissance}} believed above all:
-That the human is worthy of the reaching,
-That the space between the mortal and the tall
-
-And luminous divine is the teaching
-Itself—the gap is not despair
-But aspiration, the spark between the fingertips,
-The electrified and sacred air
-
-Of the almost-meeting where the beautiful is born.
-
-And Botticelli painted Venus rising
-From the foam—the ancient goddess, worn
-And forgotten, now surprising
-
-The world again upon her shell,
-The wind-blown hair, the modest hand,
-The allegory no theologian could quell:
-That beauty is the oldest sacrament of the land.
-
-And Gutenberg—in {{p|Mainz}}, beside the {{p|Rhine}},
-The goldsmith turned the screw-press to the page
-And printed what had been the shrine
-Of the monastery's privilege: the cage
-
-Of knowledge broke—the book, the text,
-The scripture and the treatise and the song
-Were multiplied, and what was next
-Was the unstoppable and headlong
-
-Flood of the written word across
-{{p|Europe}}'s roads and rivers and its fairs—
-No fire could now enforce the loss,
-No cloister hoard the common prayers:
-
-The moveable type, the hinge on which
-The medieval door swung wide—the blessed
-And irreversible switch
-That gave every thought its manifest.
-
-And Machiavelli wrote the truth—
-Not the truth the princes wished to hide
-But the unvarnished and uncouth
-Mechanics of the state: that the divide
-
-Between what is and what should be
-Is the graveyard of the prince who dreams—
-The first political science, free
-Of dogma, stitched from the seams
-
-Of what power is and how it holds.
-
-They called it humanism—the belief
-That the human being's relevance
-Was not a footnote to the motif
-Of the divine, but was the eloquence
-
-Itself: that the proper study of the living
-Was the living—body, mind, and art,
-The history, the language, and the giving
-Of attention to the human heart—
-
-And in this find the age declared its creed:
-That the ancient world was not the ceiling
-But the floor—and the feast was only starting.
-
-Honor the {{x|Renaissance}}—the light
-That {{p|Florence}} kindled, the departing
-Darkness that gave way to the sight
-
-Of the human being fully rendered:
-In paint, in marble, in the printed word,
-In the dome that the impossible surrendered
-To the mind's insistence—in the stirred
-
-And restless brilliance of the age
-That looked at the ancient world and said:
-We are not your copy but your sage
-And heir—and the living are not led
-
-By the dead but carry them forward,
-As the river carries the mountain's snow
-To the sea—and the {{x|Renaissance}} poured toward
-The future everything it came to know:
-
-That beauty is a form of truth,
-That the hand and eye are instruments of praise,
-That the mind, unshackled in its youth,
-Can build the dome and paint the days
-
-And print the word—and that the love called Aster
-Burns brightest in the ones who create:
-The painter, sculptor, builder, and the master
-Of the press who gave the word its weight.
-
-The light came on in {{p|Florence}}, and it spread
-Across {{p|Europe}} like the spring that sings
-After winter—and the long-since dead
-Were resurrected on the living's wings,
-
-And proved that the human mind can stand
-Beside the stars and the celestial streams
-And not be shamed—for we, too, grand
-And mortal, shine beyond our dreams.
 
 
 # Chapter 224: Granada and the Ocean
