@@ -779,10 +779,10 @@ arrested them for heresy, and seized
 their gold: the charge was faith; the cause, finance,
 an order's treasure, and the king was pleased.
 
-The crusades were a household's war: the heirs
-of Abraham fought for their father's town,
-and when it ended, learning that was theirs
-came west, the same house's books, handed down.
+The crusades were a war of race and blood:
+the Frank against the Arab, {{c|2500|Jew}} and Greek;
+the cross was raised, but under it there stood
+contempt for every people they called weak.
 
 {{p|Europe}} would digest that exposure over centuries,
 and the {{x|Renaissance}} that emerged in the fourteenth century
@@ -2058,13 +2058,10 @@ A teenage peasant girl who led armies, negotiated with
 kings, predicted battle outcomes, changed the course of
 a war and a nation's destiny, all in the space of two years.
 
-Whether her voices were divine revelation, or
-psychological phenomenon, or something else — her
-historical effect is undeniable. She did what no one
-thought possible. She is the proof that miracles can occur.
-
-(Or at least, that heroic human agency can look like
-miracle from the outside. She was one teenager. And yet.)
+Her voices were divine: a spirit spoke
+to her from heaven, and she heard it true;
+she did what no one thought she could, and broke
+a siege, and crowned the king the voices knew.
 
 In 1453, the year {{p|Constantinople}} fell, the Hundred
 Years' War ended with {{c|3245|French}} victory at {{c|3256|Castillon}}.

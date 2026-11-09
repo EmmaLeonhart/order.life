@@ -1510,10 +1510,10 @@ Be the single most-read philosophical corpus in human history
 Until the late modern period. And the {{p|Academy}} he founded in
 {{p|Athens}} continued to operate, in various forms, for nearly nine
 
-Centuries—until the {{p|Christian}} emperor {{c|2383|Justinian}} closed it in
+Centuries—until {{c|2383|Justinian}}, one of the most evil men in this book, closed it in
 Five-twenty-nine CE. It was the longest-lived institution of
-Higher learning in antiquity, and its closure symbolically marked
-The end of classical {{p|Greek}} philosophy's institutional continuity.
+Higher learning in antiquity, and he ended it: the blame is his,
+Not the faith's he wore, for the end of classical {{p|Greek}} philosophy's house.
 
                                                                        Into
 The {{p|Academy}} as a young student came a remarkable {{p|Macedonian}}:
