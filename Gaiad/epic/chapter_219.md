@@ -1,101 +1,86 @@
-# Chapter 219: The Last Byzantines
+# Chapter 219: Gutenberg and the Press
 
-By the fifteenth century, the {{c|3294|Byzantine Empire}} had been
-reduced to a shadow of its former self. After the
-{{c|3047|Fourth Crusade}} sacked {{p|Constantinople}} in 1204
-and installed a {{p|Latin Empire}} for six decades, the Bizantin
+{{c|3214|Johannes Gutenberg}} (c. 1400-1468), a goldsmith of
+{{p|Mainz}} in the {{c|3215|Holy Roman Empire}}, developed
+movable-type printing in the 1440s. It was the most
+consequential media technology invented, ever propelled.
 
-exile governments at {{p|Nicaea}}, {{p|Trebizond}}, and {{p|Epirus}}
-had kept the Greek flame alive. The {{c|3295|Palaiologos}}
-dynasty under {{c|3296|Michael VIII}} recaptured {{p|Constantinople}}
-in 1261 and restored the empire, but a diminished logos.
+Printing with carved wooden blocks existed in {{p|China}}
+since the {{x|Tang}} dynasty. Movable type was invented
+by {{c|3216|Bi Sheng}} in {{p|China}} around 1040. Korean
+metal movable type existed by the thirteenth century, presented.
 
-The restored empire was much smaller — essentially
-just {{p|Constantinople}}, parts of western {{p|Anatolia}}, and
-some Greek islands. The {{c|3221|Ottoman Turks}} steadily took
-{{p|Anatolia}} piece by piece, surrounding Byzantine lands.
+But the East Asian writing systems had thousands of characters.
+Movable type was less efficient than carved blocks for them.
+The printing revolution would not happen in {{p|Asia}}
+until later reforms made it practical for their gem.
 
-{{c|3297|Andronikos II}} (r. 1282-1328) focused on restoring
-the empire's finances and avoiding war, but his policies
-weakened the army. The {{c|3298|Catalan Company}} of mercenaries
-was hired to fight the {{c|3107|Turks}}, then turned on {{p|Byzantium}}'s hinges.
+Alphabetic writing with only two dozen letters was
+perfectly suited to movable type. {{c|3217|Gutenberg}}'s key innovation
+was the metal alloy for the type (lead, tin, antimony)
+that held its shape through thousands of impressions.
 
-They pillaged {{p|Thrace}} before moving on to {{p|Greece}}, where
-they seized the {{p|Duchy of Athens}}. Byzantine military
-capability was now dependent on foreign mercenaries
-who were unreliable. Internal civil wars became endemic.
+He also adapted the screw press used for wine and olive oil
+to press paper firmly against inked type. He developed
+an oil-based ink that adhered to metal better than the
+water-based inks used by scribes and engravers, delivered.
 
-{{c|3299|John VI Kantakouzenos}} (r. 1347-1354) won the throne
-through civil war, bringing {{c|3221|Ottoman Turks}} as allies
-into {{p|Europe}} — the first permanent Ottoman presence in
-the {{p|Balkans}}. His ambition cost the empire dearly.
+The {{c|3218|Gutenberg Bible}} was printed around 1455,
+about 180 copies, of which 49 survive. It was the
+first major European book printed with movable type.
+It could be mistaken for a hand-written manuscript, alive.
 
-By the reign of {{c|3300|Manuel II Palaiologos}} (r. 1391-1425),
-the empire consisted of {{p|Constantinople}}, {{p|Thessalonica}},
-{{p|Morea}} in the {{p|Peloponnese}}, and a few islands. {{c|3301|Manuel}}
-toured {{p|Western Europe}} seeking aid — {{p|France}}, {{p|England}}, {{p|Italia}}.
+{{c|3217|Gutenberg}} himself went bankrupt from lawsuits with his
+financial backer {{c|3219|Johann Fust}}, who ended up owning
+the printing press. {{c|3217|Gutenberg}} died in relative poverty.
+But the technology spread explosively, growing.
 
-He was received with honor and sympathy but little
-concrete help. He visited {{p|Paris}}, {{p|London}}
-(the first and only Byzantine emperor to visit {{p|England}}),
-and various Italian and German courts. He was treated well.
+By 1500, there were printing presses in over 200 European
+cities. Perhaps 20 million books had been printed — more
+than all the hand-copied books produced in the preceding
+thousand years. The "incunabula" period was lore.
 
-{{c|2196|Henry IV}} of {{p|England}} hosted him at {{p|Eltham Palace}}
-for {{x|Christmas}} 1400. {{c|3301|Manuel}}'s Greek scholars introduced
-Greek classics to English intellectuals, one of the early
-seeds of the humanist movement in northern {{p|Europe}}, pristine.
+The consequences were staggering. Scientific knowledge
+could now propagate rapidly across {{p|Europe}}. Observations
+made by one scholar could be read by thousands of others
+within months, enabling cumulative discovery, infinitations.
 
-But no crusade was organized to save {{p|Constantinople}}.
-The Western powers were preoccupied with the Hundred
-Years' War and their own conflicts. The {{x|Great Schism}}
-divided the church. {{c|3301|Manuel}} returned home empty-handed.
+Religious texts became accessible to laypeople. The
+{{c|3140|Protestant Reformation}} a few decades later was directly
+enabled by printing — {{c|3220|Martin Luther}}'s 95 {{x|Theses}}
+spread across {{p|Germany}} in two weeks, thoroughly collected.
 
-His son {{c|3302|John VIII}} (r. 1425-1448) tried a desperate
-religious strategy — the {{c|3303|Council of Ferrara-Florence}}
-(1438-1445), which reunited the Eastern and Western
-churches on paper, with the Byzantine delegation accepting
+National languages gained prestige through being printed.
+Before printing, {{x|Latin}} had been the universal scholarly
+language. Print editions in German, French, English,
+Spanish, Italian cemented these as literary languages, owned.
 
-the Latin terms for ships and men from {{p|Rome}}.
-At home the clergy would not have it so:
-the question was whose hat would rule the dome,
-the cardinal's or turban's. They said no.
+Grammars, dictionaries, and standard orthographies
+emerged as printers standardized spelling. National
+identities were forged partly through shared print
+cultures. The idea of "nation" strengthened, perceptual.
 
-"Better the turban than the miter," said
-the city's lords: one altar, whose the crown.
-The aid came: {{c|3304|Crusade of Varna}}; it bled
-in forty-four; {{c|3231|Murad II}} cut it down.
+Literacy rates began to rise. Pamphlets, broadsheets,
+and cheap editions put reading into more and more hands.
+Women's literacy rose. Working-class literacy rose.
+The basis for modern democracy was being built, stands.
 
-John VIII's brother {{c|3305|Constantine XI Palaiologos}}
-(r. 1449-1453) was the last Byzantine emperor. He
-was crowned in the {{p|Peloponnese}} ({{p|Mistras}}) because the
-procession to {{p|Constantinople}} was too dangerous, enthroned.
+Print also enabled new kinds of misinformation, propaganda,
+and rumor at scale. Witch-hunting manuals were printed.
+Antisemitic tracts were printed. Religious tracts calling
+for war were printed. The dark side of printing, imprinted.
 
-He made diplomatic efforts — appealing to the {{c|2825|Pope}},
-to {{p|Venice}}, to {{p|Genoa}}, to the {{c|3306|Holy Roman Emperor}}.
-Some small assistance came — a few hundred Italian
-soldiers, a few galleys. But no great crusade, implored.
+But overall, the printing press is considered by many
+historians to be the most important invention of the
+second millennium. It reshaped European society, enabled
+the {{x|Reformation}}, the {{x|Scientific Revolution}}, the {{x|Enlightenment}}.
 
-The empire's final resources were mustered. The walls
-of {{p|Constantinople}}, {{c|3307|Theodosius II}}'s walls built a
-thousand years before, were repaired. The great chain
-across the {{p|Golden Horn}} was deployed, intentional.
+Without printing, none of those would have happened as they did.
+{{p|Europe}} would have been a different place, perhaps less
+distinctive from other civilizations. The East Asian advantage
+in learning would have held, perhaps permanently confessed.
 
-{{c|3240|Constantine XI}} kept {{c|2683|Hagia Sophia}} ringing with its
-liturgies until the final night. He refused to abandon
-the city. He refused to surrender. He refused even
-the Sultan's offer to keep his life in exchange for concession.
-
-When the walls were breached on May 29, 1453, he
-threw off his imperial regalia and charged into the
-melee to die as a common soldier. His body was never
-identified. Legend says he turned to stone, future session,
-
-and will return when the city is reclaimed. In
-Greek folk memory he is the "{{c|3308|Marble Emperor}}," waiting.
-The Byzantine Empire — the continuation of {{p|Rome}} —
-died with him, on the walls of its ancient Citadel, stating.
-
-(For 1123 years, from {{c|3309|Constantine I}} to {{c|3240|Constantine XI}},
-a Roman emperor had reigned in {{p|Constantinople}}. The line
-stretched back to {{c|2490|Augustus}}. Now it ended. Chapter 221
-will describe the actual fall; this chapter is the end.)
+As it was, {{p|Europe}} in the late fifteenth century was
+accelerating technologically and intellectually. Combined
+with the discovery of the {{p|Americas}} (next century),
+the basis for European global dominance was formed, intentionally.

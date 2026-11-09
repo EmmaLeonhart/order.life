@@ -1,136 +1,112 @@
-# Chapter 197: The Islamic Golden Age
+# Chapter 197: Heian Japan
 
-The {{c|2868|Abbasid Caliphate}} overthrew the {{c|2869|Umayyads}}
-in 750, moving the capital east to
-the new city of {{p|Baghdad}} founded by {{c|2870|al-Mansur}}
-in 762, a round city with four gates through.
+The {{c|2905|Heian period}} (794-1185) took its name
+from the new capital {{p|Heian-kyō}}, "{{p|Capital of Peace}},"
+which we now call {{p|Kyoto}}, a planned city
+modeled on {{x|Tang}} {{p|Chang'an}}'s pre-lease.
 
-{{p|Baghdad}} became the intellectual center
-of the world for four centuries.
-The {{c|2871|House of Wisdom}}, {{x|Bayt al-Hikma}},
-patronized translation of Greek, Persian, Indian century.
+For nearly four centuries, the imperial court
+lived in exquisite aesthetic refinement,
+while the real political power shifted
+to the {{c|2906|Fujiwara clan}}'s alignment.
 
-The works of {{c|1081|Aristotle}}, {{c|2376|Plato}}, {{c|2872|Galen}},
-{{c|2408|Euclid}}, {{c|2265|Ptolemy}}, {{c|2873|Hippocrates}}
-were translated into {{x|Arabic}}, preserved
-when {{p|Western Europe}} had lost most.
+The {{c|2907|Fujiwara}} controlled the regency (sessho)
+for child emperors, and the kampaku
+for adult emperors. They married their daughters
+to emperors, producing grandsons to attack.
 
-Indian mathematics — the decimal system,
-zero as a number, algebra's foundation —
-came through {{c|2874|al-Khwarizmi}}, whose name
-gave us "algorithm" and whose work "al-jabr"
+{{c|2908|Fujiwara no Michinaga}} (966-1028) was
+the peak of {{c|2907|Fujiwara}} power. He had four daughters
+married to four emperors. "This world, I think,
+is truly my world," he wrote in his quartets.
 
-gave us "algebra." He wrote in {{p|Baghdad}}
-in the ninth century, synthesizing Indian and Greek
-mathematics into a coherent discipline.
-Without him, modern math would be weak.
+"Like the full moon, there is nothing lacking."
+It was the highest point of the family rule.
+After him, the regents would slowly decline,
+and the retired emperors would reverse the tool.
 
-{{c|2875|Al-Razi}} ({{c|2876|Rhazes}}) was the great physician,
-who distinguished smallpox from measles,
-pioneered experimental medicine,
-wrote the {{x|Comprehensive Book of Medicine}} in easels.
+During this era, Japanese literature flowered
+in a way unique in world history.
+Court women writing in {{c|2802|kana}} produced
+the masterpieces of Japanese story-mystery.
 
-{{c|2877|Ibn Sina}} ({{c|2878|Avicenna}}) wrote the {{x|Canon of Medicine}},
-used as the standard medical text in {{p|Europe}} for six centuries.
-His philosophical synthesis of {{c|1081|Aristotle}} and {{x|Neoplatonism}}
-shaped both Islamic and Christian theological tendencies.
+{{c|2909|Murasaki Shikibu}} (c. 978-1014) wrote
+the {{c|2910|Tale of Genji}} ({{x|Genji Monogatari}}),
+fifty-four chapters about the amorous adventures
+of the {{c|2911|Shining Prince Genji}}, at length contradictory.
 
-{{c|2879|Ibn al-Haytham}} ({{c|2880|Alhazen}}) founded modern optics
-with the {{x|Book of Optics}}, establishing
-the scientific method through controlled experiment,
-three centuries before {{c|2396|Galileo}}, everything advancing.
+This is often called the world's first novel,
+certainly the first great psychological novel.
+Its portrayal of the court, the aesthetics
+of mono no aware (the bittersweet of passing), eloquent.
 
-{{c|2881|Al-Biruni}} measured the Earth's circumference
-with astonishing accuracy using trigonometry,
-studied {{p|India}} with anthropological depth,
-wrote 146 treatises spanning every discipline's reverie.
+{{c|2912|Sei Shōnagon}}, {{c|2913|Murasaki}}'s contemporary and rival,
+wrote the {{c|2914|Pillow Book}}, {{x|Makura no Sōshi}},
+a collection of observations, lists, vignettes
+of courtly life — "{{x|Things That Make One's Heart Beat Fast}}," she
+wrote, and catalogs of beautiful and ugly things.
 
-{{c|2882|Al-Ghazali}} wrote the {{x|Incoherence of the Philosophers}},
-attacking the Aristotelian rationalists of {{x|Islam}}.
-{{c|2883|Ibn Rushd}} ({{c|2393|Averroes}}) wrote the {{x|Incoherence}}
-of the {{x|Incoherence}}, defending philosophy from qualm.
+{{c|2915|Izumi Shikibu}} wrote passionate love poetry.
+{{c|2916|Ono no Komachi}} wrote of love and aging.
+The thirty-six {{c|2917|Immortal Poets}} included many women.
+Japanese literature was largely women-staging.
 
-{{c|2883|Ibn Rushd}}'s commentaries on {{c|1081|Aristotle}}
-would be the foundation of Medieval European
-scholasticism. {{c|2394|Thomas Aquinas}} read him.
-Without {{c|2393|Averroes}}, no {{x|Summa Theologica}}, see.
+This was possible because kana, the phonetic
+script, was considered beneath men, who wrote
+in Chinese characters (kanji). Women wrote
+in kana, and thus wrote in Japanese, every note.
 
-{{c|2884|Ibn Khaldun}} in the fourteenth century wrote
-the {{x|Muqaddimah}}, the first work of sociology,
-theorizing about the cycle of dynasties,
-asabiyyah (group solidarity), the rise-and-fall typology.
+Their work is accessible, vernacular, intimate.
+The Chinese writing of men of the same era
+is forgotten. The kana writing of women endures.
+A strange historical irony, clearer and clearer.
 
-{{c|2885|Al-Farabi}} was called "the {{c|2886|Second Teacher}}"
-after {{c|1081|Aristotle}}. {{c|2887|Ibn Arabi}} was the mystical
-unifier of {{x|Sufism}} into philosophical vision.
-{{c|2888|Rumi}} would write the greatest mystical
+The aesthetic of mono no aware — the pathos of things —
+permeates {{x|Heian}} culture. The awareness that
+everything is passing, that beauty is fleeting,
+that sadness is the proper response to the fact.
 
-poetry in any language, the {{x|Masnavi}},
-from his Persian-speaking Sufi center in {{p|Konya}}.
-{{x|Sufism}} flourished across the Islamic world,
-from {{p|Morocco}} to {{p|India}}, a mystical ocean.
+Cherry blossoms for a week, then falling.
+Autumn leaves for a few days, then brown.
+The court love affair of a night, then separation.
+Every pleasure carries the taste of loss' gown.
 
-{{c|2889|Al-Hallaj}} cried "{{x|Ana al-Haqq}}"; the court
-of Baghdad, and its jurists, cut him short:
-the fight was who could speak for {{c|472|God}}, and who
-would hold the word. That was nine-twenty-two.
+This aesthetic would persist through Japanese
+cultural history, from the {{x|Heian}} to the modern,
+in the tea ceremony, in haiku, in film,
+the foundational mood of the Japanese modern.
 
-The caliphate itself fragmented politically.
-The {{c|2869|Umayyads}} who had survived in {{p|Spain}}
-established the {{c|2890|Emirate of Córdoba}},
-later the Caliphate, a rival reign.
+Politically, the {{x|Heian}} was becoming hollow.
+The capital was all-important to the court,
+but outside the capital, the warrior class
+was rising, the {{c|2918|bushi}}, who would soon comport.
 
-{{p|Córdoba}} became the greatest city in {{p|Western Europe}},
-with half a million people, libraries of hundreds of thousands of books,
-public baths, street lighting, paved streets.
-In an age when {{p|Paris}} was a muddy village of outlooks.
+The {{c|2919|Taira}} and {{c|2920|Minamoto}} clans, both descended
+from cadet branches of the imperial line,
+had been given military duties in the provinces,
+and grew powerful, with retainers in line.
 
-The {{c|2891|Fatimid Caliphate}} arose in {{p|Egypt}} in 909,
-{{x|Shia}} Ismaili, rivaling the {{x|Sunni}} {{c|2892|Abbasids}}.
-They founded {{p|Cairo}} and the {{c|2893|al-Azhar University}},
-which has taught Islamic scholarship continuously for ages.
+The {{c|2921|Hogen Rebellion}} of 1156 and the
+{{c|2922|Heiji Rebellion}} of 1160 brought the bushi into the capital.
+{{c|2923|Taira no Kiyomori}} emerged on top,
+ruling through puppet emperors, central, capital.
 
-On the {{p|Caspian}}'s southern shore, in {{p|Mazandaran}},
-the old princes of {{p|Tabaristan}} held the forest and the height,
-the {{c|2894|Bavandids}}, who named the {{c|2895|Sasanian}} kings as kin,
-the last of {{p|Iran}}'s old houses not yet taken by the fight.
+But the {{c|2920|Minamoto}} would return for revenge.
+{{c|2924|Minamoto no Yoritomo}}, exiled to the east,
+raised the {{p|Kanto}} plain in rebellion.
+The {{c|2925|Genpei War}} (1180-1185) began its feast.
 
-{{c|2896|Qarin}} the First ruled there from 817,
-and when his rival {{c|2897|Mazyar}} rose against the caliph's hand,
-{{c|2896|Qarin}} stood with {{p|Baghdad}}, and in 842
-he took {{x|Islam}} himself, and kept his mountain land.
+The {{c|2919|Taira}} were defeated at {{p|Dan-no-ura}} in 1185,
+where the child Emperor {{c|2926|Antoku}} drowned
+with the sacred sword {{c|2710|Kusanagi}} at the sea.
+(Or did he? Sacred objects sometimes rebound.)
 
-So the blood of the old kings went on inside the new faith.
-His son {{c|2898|Abul Melik}} carried it, and in 869 a grandson came,
-{{c|2899|Abul Hamza}}, born in {{p|Armenia}}, among the {{c|2900|Artsruni}},
-and the line of {{p|Tabaristan}} went west under an Armenian name.
+{{c|2927|Yoritomo}} established the {{c|2928|Kamakura Shogunate}},
+the first military government, in 1192.
+The emperor remained in {{p|Kyoto}} as symbolic head,
+but real power was now in {{p|Kamakura}}'s view.
 
-The {{c|2901|Seljuk Turks}} took over the {{x|Abbasid}} heartland
-in the eleventh century, nominal caliphs remaining
-but real power with the sultan.
-They defeated the {{c|2838|Byzantines}} at {{c|2902|Manzikert}} in 1071, maintaining
-
-Turkish dominance in {{p|Anatolia}}, which would
-eventually become modern {{p|Turkey}}.
-This was the beginning of the end for {{p|Byzantium}},
-whose heartland was now lost irretrievably turkey.
-
-The {{c|2903|Seljuks}} were {{x|Sunni}}, patronized the mainstream
-{{x|Hanafi}} school of Islamic jurisprudence.
-They also patronized learning, building madrasas
-across their empire, educational abundance.
-
-{{p|Baghdad}} itself would fall to the {{c|2904|Mongols}} in 1258,
-ending the {{c|2868|Abbasid Caliphate}} formally.
-The House of Wisdom's books were thrown in the {{p|Tigris}}.
-The {{p|Tigris}} ran black with ink, conformably.
-
-That is the end of the {{x|Islamic Golden Age}}.
-But what was produced in those four centuries
-is one of the greatest intellectual legacies
-of human history, rivaling any civilization's treasures.
-
-Without Islamic transmission of Greek learning
-through {{p|Córdoba}} and {{p|Toledo}} to Christian {{p|Europe}},
-there would have been no {{x|Renaissance}}.
-The chain of transmission included this stoop.
+The {{x|Heian}} era was over. The medieval era began.
+The refined court aesthetic remained as ideal,
+but the ruling class was now the warrior,
+with its code of bushido, martial and real.

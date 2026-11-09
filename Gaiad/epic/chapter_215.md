@@ -1,88 +1,237 @@
-# Chapter 215: The Ottoman Rise
+# Chapter 215: The Renaissance
 
-The {{c|3221|Ottoman Turks}} were originally one of many
-Turkic beyliks (emirates) that emerged in {{p|Anatolia}}
-after the {{c|2903|Seljuks}} were defeated by the {{c|2904|Mongols}}.
-They were the smallest and most marginal, initially.
+A light came on in {{p|Florence}}—not the sun,
+Though it rose like sunrise over terracotta
+And tile, the slow and gathering stun
+Of a city waking to itself—the grotta
 
-{{c|3222|Osman I}} (c. 1258-1326) gave his name to the dynasty.
-He was a chieftain in the frontier region near the
-{{p|Byzantine Empire}}, a {{c|3223|ghazi}} (warrior for the faith).
-He captured the Byzantine city of {{p|Prusa}} ({{p|Bursa}}), to surprise.
+Of the medieval dark dissolving
+Into gold and marble, fresco, form—
+The human hand and eye resolving
+To create again, to warm
 
-His son {{c|3224|Orhan}} (r. 1324-1362) made {{p|Bursa}} the capital,
-crossed the {{p|Dardanelles}} in 1354 (after an earthquake
-opened a gap in the walls of {{p|Gallipoli}}), established
-the first Ottoman foothold in {{p|Europe}}, a seminal stake.
+The frozen centuries with a fire
+That the ancients had once kindled
+And the long collapse let expire:
+The fire of the beautiful, the undwindled
 
-His son {{c|3225|Murad I}} (r. 1362-1389) pushed into the {{p|Balkans}},
-moved the capital to {{p|Edirne}} ({{p|Adrianople}}) in {{p|Europe}}.
-At the {{c|3226|Battle of Kosovo}} in 1389, Serbian resistance
-was crushed. {{c|3227|Murad}} himself was killed by a Serbian knight, groupe.
+And stubborn conviction that the world
+Is worth depicting—that the human face
+And body, faithfully unfurled
+On panel and on plaster, trace
 
-{{c|3228|Bayezid I}} (r. 1389-1402), "The {{c|3229|Thunderbolt}}," was
-close to taking {{p|Constantinople}} when {{c|3015|Timur}} invaded
-from the east. At the {{c|3182|Battle of Ankara}} in 1402,
-{{c|3183|Bayezid}} was defeated and captured, his empire disarmed.
+The image of something almost divine.
 
-The {{c|3115|Ottomans}} nearly collapsed. Civil war between his sons
-lasted eleven years. But they recovered under
-{{c|3230|Mehmed I}} (r. 1413-1421) and expanded again under
-{{c|3231|Murad II}} (r. 1421-1451), reformed, rearmed.
+{{c|3378|Cosimo de' Medici}} lit the match—
+The banker whose gold could undermine
+No nation but the darkness, the dispatch
 
-{{c|3231|Murad II}} defeated the Christian crusading armies at
-{{c|3232|Varna}} in 1444 and {{c|3233|Kosovo}} again in 1448.
-The {{p|Balkans}} were solidifying under Ottoman control.
-{{p|Constantinople}} was now surrounded on all sides, ate.
+Of florins not for war alone
+But for the painter's pigment and the scholar's
+Manuscript—the {{c|3312|Medici}} had grown
+Rich on letters of credit, on the dollars
 
-The {{c|3234|Janissary}} corps, the Sultan's own,
-came from the {{c|3235|devshirme}}, the boys' levy: sons
-of Balkan village churches, taken, grown
-to serve the Sultan's altar, and his guns.
+Of the fifteenth century, the bill
+Of exchange that moved the wealth of {{p|Europe}}
+Without moving gold—and with that skill
+They purchased not more kingdoms but the hope
 
-The devshirme produced a slave-soldier corps loyal
-only to the Sultan, counterbalancing the Turkish nobility.
-Many became viziers and pashas. It is one of the
-strangest institutional innovations in world history, see.
+Of beauty's rescue from the well
+Of time: the manuscript of {{c|2376|Plato}},
+The treatise of {{c|1081|Aristotle}}—the spell
+Of the ancient world, the lost libretto
 
-({{c|3236|Janissaries}} were technically slaves but held high positions.
-Their descendants could not inherit their positions.
-Each generation was recruited fresh. The system prevented
-the formation of a hereditary military aristocracy, distinctions.)
+Of the Greek and Roman mind restored
+To living hands in {{p|Florence}}'s new defiance
+Of the dark—the classical outpoured,
+The resurrection and the new alliance.
 
-The {{c|3115|Ottomans}} also pioneered the use of heavy artillery.
-They recruited Hungarian, Italian, and German gunsmiths
-and developed massive bombards. The huge "{{c|3237|Basilica}}"
-gun used at {{p|Constantinople}} fired 600-pound stones, griffiths.
+For {{p|Constantinople}} had fallen—
+The year was fourteen fifty-three, the storied
+And eternal city heard its pollen
+Crushed beneath the {{c|3341|Ottoman}} siege—the gloried
 
-{{c|3238|Mehmed II}}, "The {{c|3239|Conqueror}}," came to the throne in 1451
-at age nineteen. He was intelligent, multilingual, cruel,
-and determined. He immediately began preparations for
-the final siege of {{p|Constantinople}}, his personal jewel.
+Scholars fled westward, carrying
+The last manuscripts, the treasure
+Of the Greek inheritance, ferrying
+{{c|1957|Homer}} and {{c|2408|Euclid}} past all measure
 
-He built the fortress of {{p|Rumeli Hisarı}} on the European
-shore of the {{p|Bosphorus}}, cutting off {{p|Constantinople}}
-from {{p|Black Sea}} grain supplies. He assembled his army.
-He prepared the great bombard with its heavy slosh.
+Of the {{p|Mediterranean}} to {{p|Italy}}'s
+Welcoming shore—the alchemy
+Of exile turning tragedy to vitality's
+Renewal: what {{p|Byzantium}}'s anatomy
 
-The siege began on April 6, 1453. Walls were breached.
-Ships were transported overland to flank the defenses.
-After 53 days, on May 29, 1453, {{p|Constantinople}} fell.
-The last Byzantine emperor, {{c|3240|Constantine XI}}, fenced.
+Lost, {{p|Florence}} gained—the seed
+Of the classical world, wind-tossed
+Across the sea, took root in the freed
+And fertile soil where nothing would be lost.
 
-(That story is chapter 221. The setup is complete.
-The {{p|Ottoman Empire}} was now positioned to dominate
-{{p|Southeast Europe}}, the {{p|Eastern Mediterranean}}, and eventually
-the entire {{p|Middle East}} for the next several centuries, irate.)
+And {{c|3313|Brunelleschi}} raised the dome—
+The impossible dome, the gritty
+And audacious crown of {{p|Florence}}'s home,
+The jewel of the Tuscan city:
 
-At this pivotal moment in 1453, mark the accumulated
-geopolitical position of the {{c|3115|Ottomans}}:
-— {{p|Balkans}} under control except for {{p|Albania}}, {{p|Bosnia}} fringe
-— {{p|Anatolia}} unified, rival beyliks absorbed or submissive
-— {{p|Black Sea}} becoming an Ottoman lake
-— {{p|Eastern Mediterranean}} naval presence expanding
+The cathedral of {{p|Santa Maria del Fiore}}
+Whose octagonal void had gaped for a century,
+Too vast for any vault—the story
+Of medieval failure, the sentry
 
-The rise had taken 150 years from {{c|3241|Osman}}'s small frontier
-emirate to the conquest of the greatest Christian city
-in the world. The {{p|Roman Empire}}'s last direct continuation
-was about to become the {{p|New Rome}} of Sultan {{c|3242|Mehmed}}, pretty.
+Of the unfinished standing open to the rain—
+Until {{c|3313|Brunelleschi}} said: no centering,
+No wooden frame across the vast terrain—
+The dome self-entering
+
+Its own solution, rising ring by ring
+In a herringbone of brick that locked
+Each course to the last—the engineering
+Of a mind that had unlocked
+
+The {{c|3340|Roman}} secret of the {{p|Pantheon}}
+And surpassed it—double-shelled, immense,
+The dome became the paragon
+Of what the human intellect, against all precedence,
+
+Can solve.
+
+            And {{c|3379|Leonardo}}—
+The universal man, the one
+Whose notebooks were the memorandum
+Of a mind that found the sun
+
+In everything: anatomy and flight,
+The flow of water and the fall of light,
+The spiral of the shell, the sight
+Of the unborn child curled tight
+
+Within the womb—he drew it all,
+And what he drew he understood,
+And what he understood was the call
+Of {{c|1|Aster}}'s voice in flesh and wood
+
+And water and the mathematics
+Of the beautiful—for {{c|3379|Leonardo}} saw
+No border between the art's gymnastics
+And the scientist's exacting law:
+
+Both were the discipline of seeing clearly,
+And he saw.
+
+                And {{c|3380|Michelangelo}}—the sculptor
+Who released the figure from the stone,
+Who said the marble held the sepulcher
+
+Of the form already—bone
+And sinew trapped inside the block
+And waiting for the chisel's liberation—
+He struck the {{p|Sistine}} ceiling's rock
+
+Of plaster with the creation
+Of {{c|1834|Adam}}: the finger reaching out,
+The gap between the human and divine
+So small, so charged with the devout
+
+And trembling almost-touch—the sign
+That the {{x|Renaissance}} believed above all:
+That the human is worthy of the reaching,
+That the space between the mortal and the tall
+
+And luminous divine is the teaching
+Itself—the gap is not despair
+But aspiration, the spark between the fingertips,
+The electrified and sacred air
+
+Of the almost-meeting where the beautiful is born.
+
+And {{c|3381|Botticelli}} painted {{c|95|Venus}} rising
+From the foam—the ancient goddess, worn
+And forgotten, now surprising
+
+The world again upon her shell,
+The wind-blown hair, the modest hand,
+The allegory no theologian could quell:
+That beauty is the oldest sacrament of the land.
+
+And {{c|3217|Gutenberg}}—in {{p|Mainz}}, beside the {{p|Rhine}},
+The goldsmith turned the screw-press to the page
+And printed what had been the shrine
+Of the monastery's privilege: the cage
+
+Of knowledge broke—the book, the text,
+The scripture and the treatise and the song
+Were multiplied, and what was next
+Was the unstoppable and headlong
+
+Flood of the written word across
+{{p|Europe}}'s roads and rivers and its fairs—
+No fire could now enforce the loss,
+No cloister hoard the common prayers:
+
+The moveable type, the hinge on which
+The medieval door swung wide—the blessed
+And irreversible switch
+That gave every thought its manifest.
+
+And {{c|2428|Machiavelli}} wrote the truth—
+Not the truth the princes wished to hide
+But the unvarnished and uncouth
+Mechanics of the state: that the divide
+
+Between what is and what should be
+Is the graveyard of the prince who dreams—
+The first political science, free
+Of dogma, stitched from the seams
+
+Of what power is and how it holds.
+
+They called it humanism—the belief
+That the human being's relevance
+Was not a footnote to the motif
+Of the divine, but was the eloquence
+
+Itself: that the proper study of the living
+Was the living—body, mind, and art,
+The history, the language, and the giving
+Of attention to the human heart—
+
+And in this find the age declared its creed:
+That the ancient world was not the ceiling
+But the floor—and the feast was only starting.
+
+Honor the {{x|Renaissance}}—the light
+That {{p|Florence}} kindled, the departing
+Darkness that gave way to the sight
+
+Of the human being fully rendered:
+In paint, in marble, in the printed word,
+In the dome that the impossible surrendered
+To the mind's insistence—in the stirred
+
+And restless brilliance of the age
+That looked at the ancient world and said:
+We are not your copy but your sage
+And heir—and the living are not led
+
+By the dead but carry them forward,
+As the river carries the mountain's snow
+To the sea—and the {{x|Renaissance}} poured toward
+The future everything it came to know:
+
+That beauty is a form of truth,
+That the hand and eye are instruments of praise,
+That the mind, unshackled in its youth,
+Can build the dome and paint the days
+
+And print the word—and that the love called {{c|1|Aster}}
+Burns brightest in the ones who create:
+The painter, sculptor, builder, and the master
+Of the press who gave the word its weight.
+
+The light came on in {{p|Florence}}, and it spread
+Across {{p|Europe}} like the spring that sings
+After winter—and the long-since dead
+Were resurrected on the living's wings,
+
+And proved that the human mind can stand
+Beside the stars and the celestial streams
+And not be shamed—for we, too, grand
+And mortal, shine beyond our dreams.

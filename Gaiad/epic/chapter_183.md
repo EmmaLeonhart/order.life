@@ -1,143 +1,121 @@
-# Chapter 183: The Third Century Crisis
+# Chapter 183: Jimmu to Jingū
 
-After {{c|2570|Elagabalus}} was killed,
-the empire stumbled for fifty years.
-Fifty emperors in fifty years.
-Plague. Inflation. Barbarian fears.
+In the island kingdom of {{p|Japan}},
+the legendary first emperor {{c|2708|Jimmu}}
+is said to have descended from {{c|885|Amaterasu}}
+through a line of gods at their minimum.
 
-Historians call it the {{x|Crisis of the Third Century}}.
-The imperial system nearly broke.
-Legions acclaimed their generals,
-who were killed by the next legion's stroke.
+Six-sixty BCE is the traditional date
+for {{c|2708|Jimmu}}'s eastern expedition from {{p|Kyushu}}
+to the {{p|Yamato}} plain, where he founded
+the imperial line that {{p|Japan}} would issue.
 
-{{c|2577|Alexander Severus}} was killed.
-{{c|2578|Maximinus Thrax}} was killed.
-{{c|2579|Gordian I}} and {{c|2580|Gordian II}} died.
-{{c|2581|Pupienus}} and {{c|2582|Balbinus}} were killed.
+Historically, the date is far too early.
+The {{x|Yayoi}} rice-culture people had barely arrived.
+The {{p|Yamato}} state would not coalesce
+until several centuries after this contrived.
 
-The names blur. The reigns were brief.
-Emperors rose and fell like weather.
-The coinage was debased, the silver
-diluted to base metal's tether.
+But the myth sets the frame: the imperial line
+descends from the sun goddess through her grandson
+{{c|2709|Ninigi}} who came down to {{p|Mount Takachiho}}
+carrying the {{x|Three Sacred Treasures}} begun:
 
-And then in two-fifty {{c|2583|Decius}} decreed
-that every house burn incense at his shrine
-and keep a paper proving it agreed.
-The church said: the same incense, but at mine.
+the mirror {{x|Yata no Kagami}},
+the sword {{c|2710|Kusanagi}} (taken from the tail
+of the eight-headed serpent {{c|2711|Yamata no Orochi}}
+by {{c|2712|Susanoo}} in myth's oldest detail),
 
-Many {{c|2494|Christians}} sacrificed, lapsed,
-became the "lapsi" debated for years.
-Others were martyred, {{c|2584|Cyprian}} of {{p|Carthage}},
-the bishop, whose blood watered tears.
+and the jewel {{x|Yasakani no Magatama}}.
+These three still exist, kept in the shrines' stead,
+as the imperial regalia of {{p|Japan}},
+passed down through seventy centuries' tread.
 
-The {{p|Persians}} under {{c|2585|Shapur I}} captured
-{{c|2586|Valerian}} the {{p|Roman}} emperor in battle,
-used him as a footstool to mount horse,
-then stuffed his body with straw for cattle.
+{{c|2708|Jimmu}}'s great-grandfather was {{c|2709|Ninigi}}.
+{{c|2708|Jimmu}}'s grandmother was {{c|2713|Toyotamahime}},
+daughter of the sea dragon god, who bore
+{{c|2714|Ugayafukiaezu}}, {{c|2708|Jimmu}}'s father, extremely.
 
-The capture of a {{p|Roman}} emperor
-was unprecedented, new,
-and the skin hung in the temple
-for the {{p|Roman}} envoys' view.
+So {{c|2708|Jimmu}} has divine lineage both through
+the sun goddess {{c|885|Amaterasu}} above
+and through the sea dragon gods below.
+He is sky and sea, embraced by both's love.
 
-{{c|2587|Zenobia}} of {{p|Palmyra}} broke away,
-ruled {{p|Egypt}}, {{p|Syria}}, {{p|Asia Minor}} east,
-a warrior queen of legendary beauty,
-until {{c|2573|Aurelian}} marched and seized.
+He marched east from {{p|Kyushu}}, subduing
+local chieftains, defeating rivals as he went.
+At {{p|Kashihara}} in the {{p|Yamato}} plain
+he founded the capital, his tent.
 
-The {{p|Gallic Empire}} broke off in the west,
-ruled by {{c|2588|Postumus}} for years.
-The empire was splitting three ways:
-{{p|Gaul}}, {{p|Rome}}, and {{p|Palmyra}} in tears.
+He ascended the throne there, we are told,
+on February 11 of 660 BCE.
+This date became {{p|Japan}}'s {{x|National Foundation Day}},
+a holiday ever since, at least in theory.
 
-Then {{c|2573|Aurelian}} came. "{{c|2589|Restitutor Orbis}}."
-The {{c|2590|Restorer of the World}}.
-He reunited the three empires,
-brought the eagle standards unfurled.
+For centuries after, the emperors listed
+are largely legendary or semi-so.
+The tenth emperor {{c|2715|Sujin}} may be
+the first with some historical glow.
 
-He defeated {{c|2587|Zenobia}} and took her
-to {{p|Rome}} in golden chains to display.
-He defeated the {{p|Gallic Empire}}.
-He saved the state from decay.
+The twelfth, {{c|2716|Keikō}}, had a son {{c|2717|Yamato Takeru}},
+the culture hero who conquered the eastern {{c|2718|Emishi}},
+who killed his brother in his father's bathroom,
+was sent to die on difficult missions barely.
 
-And he made {{c|2554|Sol Invictus}} the state god.
-The "{{c|2574|Unconquered Sun}}" became official.
-The syncretic solar monotheism
-was now imperial, not just unofficial.
+He received {{c|2710|Kusanagi}} from his aunt
+{{c|2719|Yamatohime}}, priestess of {{c|885|Amaterasu}} at {{p|Ise}}.
+He used it to cut grass in a fire trap set by enemies,
+saving his life, naming the sword "grass-cutter" in simplicity.
 
-This is the crucial step. The sun he crowned
-at midwinter was {{c|1912|Christ}}'s own cousin, born
-the very night that {{x|Aster Day}} comes round,
-the longest dark, that turns toward the morn.
+His son or nephew (accounts vary) {{c|2720|Chuai}}
+was the fourteenth emperor, who died young,
+leaving his pregnant queen {{c|2721|Jingū}} to rule.
+She is the great semi-historical warrior tongue.
 
-The old polytheism was still practiced.
-The temples still stood. The priests still served.
-But the emperor's personal faith
-was focused on one divinity deserved.
+{{c|2722|Empress Jingū}} led an invasion of {{p|Korea}}
+while pregnant with the future emperor {{c|2723|Ojin}}.
+She held the birth back three years by
+tying stones to her waist, the legend's imagine.
 
-{{c|2573|Aurelian}} was assassinated too.
-But his work held. {{c|2591|Diocletian}} came
-and restructured the empire entirely:
-the {{x|Tetrarchy}}, four rulers, same aim.
+She conquered the Korean kingdoms (or received
+their tribute), returning triumphant
+to bear {{c|2723|Ojin}}, who would be deified as
+{{c|2724|Hachiman}}, god of war, the most welcomed triumphant.
 
-Two {{x|Augusti}}, two {{x|Caesars}}, ruling
-the four quarters of the empire wide.
-{{p|Nicomedia}}, {{p|Milan}}, {{p|Trier}}, {{p|Sirmium}}
-were the new capitals where power resides.
+Modern historians are skeptical of {{c|2721|Jingū}}'s
+Korean invasion. But there was certainly
+contact with Korean kingdoms {{p|Baekje}}, {{p|Silla}}, {{p|Gaya}},
+trade, migration, cultural transfer apparently.
 
-{{p|Rome}} itself was becoming peripheral.
-The emperor rarely visited {{p|Rome}}.
-Power was where the frontier armies were,
-not in the old {{p|Italian}} home.
+From Baekje came writing, {{x|Confucianism}}, {{x|Buddhism}}
+into {{p|Japan}} — {{x|Buddhism}} officially in 538 or 552,
+though private transmission was earlier.
+From Gaya came iron, craftsmen, immigrant troops.
 
-And in three-oh-three {{c|2591|Diocletian}} tore down
-the churches, burned the books, and named it law:
-the {{x|Great Persecution}}, so that the crown
-would hold each altar the empire saw.
+The {{c|2725|Yamato}} court was consolidating
+in the fourth and fifth centuries, building
+the massive {{c|2726|kofun}} burial mounds,
+the largest tombs in the world, filling.
 
-It failed. The church was too embedded.
-Martyrs increased conversions, not decreased.
-The persecution ended in three-eleven,
-the next emperor's edict of peace.
+The {{c|2727|Daisenryō Kofun}} attributed to
+emperor {{c|2728|Nintoku}} is longer than the {{p|Great Pyramid}},
+though lower — a 486-meter keyhole shape
+of earth and stone, for the imperial pyramid.
 
-{{c|2592|Galerius}} on his deathbed issued
-an edict of toleration, saying
-essentially, we've tried to crush them,
-it hasn't worked, let them keep praying.
+These burial mounds mark the emergence
+of a centralized state in the Japanese archipelago,
+absorbing Korean immigrants, Chinese influence,
+building toward what would become emperor {{p|Yamato}}.
 
-Then came {{c|2555|Constantine}}.
+Two clans, one court. The {{c|2729|Soga clan}} would raise
+the Buddha's hall beside the kami's days;
+and the {{c|2730|Mononobe clan}} would keep the rite
+in its own hands, and both would go to fight.
 
-But before we get to him, mark this:
-the third century was the civilizational near-miss.
-The empire almost fell right then.
-It was saved by {{c|2573|Aurelian}}'s fierce grip and kiss.
+In five-eighty-seven the {{c|2731|Soga}} won,
+and court and temple and the shrine were one:
+the Buddha and the kami of the sun,
+{{x|Shinto}} with {{x|Buddhism}}, a rite begun.
 
-And saved in a form that was no longer
-the old {{x|Republic}}'s civic-religion mode.
-It was now a monarchical empire with
-a near-monotheistic imperial code.
-
-The groundwork was laid. The solar
-monotheism of {{c|2573|Aurelian}} would
-transition into the {{x|Christian}} monotheism
-of {{c|2555|Constantine}}. One god would do.
-
-Three centuries after {{c|1912|Jesus}},
-the church had grown from twelve
-to perhaps ten percent of the empire,
-still a minority, but selective.
-
-The bishops had become organized.
-The creeds were being formulated.
-The gospels had been canonized
-and the writings of {{c|379|Paul}} disseminated.
-
-The church was ready. The empire was ready.
-What was needed was imperial blessing.
-That would come in three-twelve, at
-the battle of the {{p|Milvian Bridge}}, confessing.
-
-{{c|2555|Constantine}} saw a vision, or claimed to.
-"In this sign, conquer." The chi-rho.
-He won the battle, credited {{c|1497|Christ}},
-and the whole direction began to flow.
+The {{x|Kofun}} period was ending. The {{x|Asuka}} period
+beginning. The constitution of {{c|2732|Prince Shōtoku}}
+in 604 would organize the state
+along Chinese lines — the shape we still see.

@@ -1,320 +1,298 @@
-# Chapter 169: Confucius and Laozi
-
-In {{p|China}}, during the sixth and fifth centuries BCE—the same
-Centuries that produced {{c|2146|Zarathustra}}'s reforms, the {{p|Babylonian}}
-Exile, and {{p|Ionian}} philosophy—a parallel civilizational reimagining
-Was taking place. The {{p|Zhou Dynasty}}, established four centuries
-
-Earlier, had fragmented. Its feudal vassals had become effectively
-Independent kingdoms, warring among themselves for dominance.
-Central authority was nominal. The {{p|Zhou}} king at {{p|Luoyang}} presided
-Over the ritual calendar but could not enforce order. This period—
-
-The {{p|Spring and Autumn}} period, from seven-seventy-one to four-
-Seventy-six BCE, to be followed by the even more chaotic {{p|Warring States}}
-Period—was politically a disaster. But it was culturally a
-Flowering. Out of the disorder came the {{p|Hundred Schools of Thought}}:
-
-{{p|Confucianism}}, {{p|Daoism}}, {{p|Legalism}}, {{p|Mohism}}, the {{p|School of Names}},
-The {{p|Yin-Yang School}}, and others. {{p|Chinese}} philosophy was born in
-The breakdown of political order. And two of those schools—
-{{p|Confucianism}} and {{p|Daoism}}—would prove to be the most enduring.
-
-They would shape {{p|East Asian}} civilization for the next twenty-five
-Centuries. Their founders, {{c|1958|Confucius}} and {{c|2144|Laozi}}, stand at the
-Root of everything that followed.
-
-                                      {{c|1958|Confucius}}. In {{p|Chinese}},
-{{c|2295|Kong Fuzi}} or {{c|2296|Kongzi}}—"{{c|2297|Master Kong}}." Born in five-fifty-one BCE
-In the small state of {{p|Lu}}, in what is now {{p|Shandong Province}}. His
-Family was of minor aristocratic descent but had fallen on hard
-
-Times; his father died when {{c|1958|Confucius}} was three. He was raised
-By his mother in relative poverty. He received whatever education
-He could, studying the classical texts of the {{p|Zhou}} ritual tradition.
-He served in minor government posts in {{p|Lu}}, rising to become
-
-Minister of Justice or something equivalent, but his reforms
-Alienated powerful families and he was forced out. He then spent
-Fourteen years wandering from state to state, trying to find a
-Ruler who would implement his political philosophy. He found
-
-None. He returned to {{p|Lu}} and spent his last years teaching his
-Disciples and editing the classical texts. He died in four-seventy-nine
-BCE, considering himself a failure. He had accomplished nothing
-Politically. His ideas had been rejected by every ruler he
-
-Approached. His disciples were few. And yet, from these unpromising
-Materials, arose the most influential ethical philosophy ever
-Developed in {{p|East Asia}}. Because {{c|1958|Confucius}}'s disciples preserved
-His teachings in the {{p|Analects}} ({{p|Lunyu}}), a collection of his sayings
-
-And brief anecdotes, compiled probably several generations after
-His death. And subsequent generations of {{p|Confucian}} philosophers—
-{{c|2298|Mencius}}, {{c|2299|Xunzi}}, the {{p|Han}} dynasty scholars, the great
-{{p|Neo-Confucians}} of the {{p|Song}} dynasty, the {{p|Ming}} thinkers, the
-
-{{p|Korean}}, {{p|Japanese}}, and {{p|Vietnamese}} {{p|Confucians}}—would elaborate
-His insights into one of the world's great philosophical systems.
-A system that would eventually become the state ideology of every
-{{p|Chinese}} dynasty from the {{p|Han}} onward and of every {{p|East Asian}}
-
-Polity that adopted {{p|Chinese}} political culture. The rejected
-Wanderer became, posthumously, the teacher of half of humanity.
-
-                                                                 What
-Did {{c|1958|Confucius}} teach? At the core, an ethic of virtuous human
-
-Conduct grounded in five key relationships: ruler-subject, father-
-Son, husband-wife, elder brother-younger brother, friend-friend.
-Each relationship has its specific duties and virtues. The ruler
-Should govern with benevolence ({{p|ren}}, sometimes translated as
-
-"Humaneness" or "humanity"); the subject should serve with loyalty.
-The father should nurture; the son should exhibit filial piety
-({{p|xiao}}). The husband should lead righteously; the wife should
-Support dutifully. The elder brother should care for the younger;
-
-The younger should respect the elder. Friends should practice
-Mutual trustworthiness. These are not abstract principles; they
-Are concrete social obligations embedded in daily conduct. And the
-Whole social order depends on each person fulfilling their role
-
-Properly. When rulers rule with benevolence and subjects respond
-With loyalty, when fathers are good fathers and sons are good
-Sons, the whole society is in harmony. When these relationships
-Are disrupted—when rulers are tyrants, when sons abandon filial
-
-Obligation, when wives disrespect husbands—the society falls into
-Chaos. The political disorder of the {{p|Spring and Autumn}} period was,
-In {{c|1958|Confucius}}'s analysis, the symptom of ethical disorder. And
-The remedy was to restore proper ethical conduct, starting with
-
-The ruler and extending outward through the society. A ruler who
-Was personally virtuous, who cultivated {{p|ren}} and practiced it
-Consistently, would naturally attract loyal subjects and set an
-Example that would spread through the social fabric. "The virtue
-
-Of the wind bends the grass," {{c|1958|Confucius}} said. Political reform
-Begins with moral self-cultivation. This is a very distinctive
-Ethical vision. It does not appeal to divine commands. It does
-Not rely on reward and punishment in the afterlife. It does not
-
-Invoke abstract moral principles derived from reason alone. It
-Grounds morality in specific, role-based human relationships and
-In the cultivation of personal virtue through learning, ritual,
-And reflection. The good life, for {{c|1958|Confucius}}, is the life of
-
-The {{p|junzi}}—the "gentleman" or "exemplary person"—who has
-Cultivated himself (and it is usually "himself," though {{c|1958|Confucius}}
-Was occasionally more inclusive than his later tradition) through
-Study of the classics, mastery of ritual propriety, and practice
-
-Of benevolent conduct. The {{p|junzi}} is not born but made, through
-Continuous self-cultivation. And this self-cultivation is both
-An ethical project and an aesthetic one. {{c|1958|Confucius}} emphasized
-Music, poetry, and ritual as essential to the cultivated life.
-
-Beauty and morality were linked. A properly cultivated person
-Would be sensitive to beauty and grace in human interactions and
-In artistic expression. The {{p|Book of Songs}}, the {{p|Book of Rites}},
-The {{p|Book of Changes}}, the {{p|Spring and Autumn Annals}}—{{c|1958|Confucius}}
-
-Urged study of these {{p|Five Classics}} not as dry scholarly exercise
-But as formation of sensibility. One became a better person by
-Immersion in the cultural heritage. This emphasis on education
-Would become one of the most distinctive features of {{p|Chinese}}
-
-Civilization: the sense that moral cultivation requires extensive
-Study of canonical texts, that the scholar-official is the ideal
-Human type, that political power should be exercised by educated
-Persons rather than by hereditary aristocrats or warrior elites.
-
-Over the following centuries, this vision would be institutionalized
-In the {{p|Chinese}} civil service examination system, which for
-Fifteen hundred years selected officials based on their mastery
-Of {{p|Confucian}} classics rather than their birth. The examination
-
-System produced a meritocratic elite—or something closer to one
-Than any other pre-modern society achieved. It shaped the character
-Of {{p|Chinese}} bureaucracy and, by extension, {{p|Chinese}} government,
-More profoundly than any other single institution. And it rested
-
-Entirely on the {{p|Confucian}} conviction that moral and intellectual
-Cultivation should be the primary qualification for political power.
-
-                                                                     And
-Now {{c|2144|Laozi}}, the old master, who lived and left his book. The{{fn|Many historians doubt that Laozi was a single historical person, and date the Daodejing to the fourth century BCE or later. The Gaiad holds that he lived.}}
-Traditional account, in {{c|2300|Sima Qian}}'s {{p|Records of the Grand Historian}}
-(Written in the first century BCE, several centuries after the
-Presumed date), places {{c|2144|Laozi}} as an older contemporary of {{c|1958|Confucius}},
-
-An archivist at the {{p|Zhou}} court whom {{c|1958|Confucius}} once visited for
-Advice. In this telling, {{c|2144|Laozi}}—"the {{c|2301|Old Master}}"—was older, wiser,
-And more withdrawn than {{c|1958|Confucius}}. When {{c|1958|Confucius}} sought him out,
-{{c|2144|Laozi}} rebuked him for his worldly ambition and urged him to let
-
-Go of his attempts to reform society. {{c|2144|Laozi}} eventually left the
-{{p|Zhou}} court, disillusioned with its decay, and rode a water-
-Buffalo westward toward the borderlands. At a mountain pass, the
-Gate-keeper {{c|2302|Yinxi}} recognized him and asked him to write down his
-
-Teachings before leaving. {{c|2144|Laozi}} agreed and composed the five
-Thousand characters of the {{p|Dao De Jing}}, then departed into the
-West never to be seen again. This is a lovely story. It is also
-Almost certainly a composite myth. The actual composition of the
-
-{{p|Dao De Jing}} probably happened in stages between the fifth and
-Third centuries BCE, with multiple authors and editors contributing.
-The text we have is a synthesis rather than the work of a single
-Historical figure. But the figure of {{c|2144|Laozi}}—whether real or
-
-Representative—has functioned as the patron sage of {{p|Daoism}} for
-The tradition that gathered around the text. So we may speak of
-{{c|2144|Laozi}} as the traditional founder, with appropriate caveats about
-The historical evidence.
-
-                             What does the {{p|Dao De Jing}} teach? The
-Title translates approximately as "The Classic of the Way and Its
-Power"—the {{p|Dao}} being "the Way" (the cosmic principle of how
-Things fundamentally are and flow), and the {{p|De}} being "power" or
-
-"Virtue" (the specific quality of being that emerges from alignment
-With the {{p|Dao}}). The text is short, dense, often paradoxical, and
-Sometimes willfully cryptic. Its central insights might be
-Summarized as follows. The {{p|Dao}}, the fundamental principle of
-
-Reality, cannot be fully captured in language or concepts. The
-Very first line of the text acknowledges this: "The {{p|Dao}} that can
-Be spoken is not the eternal {{p|Dao}}." Language and thought are
-Useful tools but they are not adequate to the full reality they
-
-Point toward. The {{p|Dao}} operates through spontaneous, effortless
-Unfolding—{{p|wu wei}}, "action without forcing." When we impose our
-Will on things through forceful intervention, we distort the
-Natural flow of reality and often produce the opposite of what we
-
-Intend. The wise person ({{p|sheng ren}}) learns to act in accordance
-With the {{p|Dao}} rather than against it, achieving much through
-Apparently little. "The softest things in the world overcome the
-Hardest," says the {{p|Dao De Jing}}. Water, which yields to every
-
-Obstacle, wears away stone over time. Flexibility is stronger than
-Rigidity. Receptivity is more powerful than aggression. Silence
-Is more effective than shouting. The political implications are
-Radical. A ruler who tries to control everything exhausts himself
-
-And produces rebellion. A ruler who governs lightly, who allows
-The natural patterns of human life to flourish, produces harmony
-Without effort. "Govern a large state as you would cook a small
-Fish"—do not over-manipulate, do not interfere constantly, let
-
-Things be. The less a government does, the better it governs.
-This is a radical critique of bureaucratic and activist government—
-A critique directly opposed to the {{p|Confucian}} emphasis on virtuous
-Rulers and careful ritual management. Where {{c|1958|Confucius}} urges the
-
-Ruler to cultivate himself and act upon the society with benevolent
-Example, {{c|2144|Laozi}} urges the ruler to cultivate non-action and let
-The society manage itself. These are different political visions.
-Different ethical visions. Different conceptions of the good life.
-
-And yet both emerge from the same cultural matrix, responding to
-The same civilizational crisis of late {{p|Zhou}} political disorder.
-
-                                                                   And
-In practice, the two traditions have not been mutually exclusive
-
-But complementary. {{p|Chinese}} civilization has, for millennia, held
-Both together. {{c|2303|Confucianism}} provides the public ethics of social
-Life—the rules of propriety, the rituals of court and family, the
-Moral education that shapes the gentleman-official. {{p|Daoism}} provides
-
-The private counterweight—the mystical turn inward, the appreciation
-For nature's spontaneous patterns, the willingness to step back
-From worldly ambition, the aesthetic sensibility that valued the
-Informal and the natural over the formal and the contrived. A
-
-{{p|Chinese}} scholar-official spent his public life performing
-{{p|Confucian}} duties—serving in government, managing his family,
-Participating in ritual occasions. But his private life, his
-Poetry, his painting, his interior cultivation, often drew on
-
-{{p|Daoist}} sensibilities—solitary walks in the mountains, drinking
-Tea by a stream, writing verse that captured fleeting natural
-Moments, finding wisdom in lightness and emptiness. The two
-Traditions together produced the distinctive sensibility of
-
-{{p|Chinese}} high culture: ethically {{p|Confucian}}, aesthetically
-{{p|Daoist}}, with a capacity to hold both orientations simultaneously
-Without seeing them as contradictory. This complementarity would
-Later be supplemented by {{p|Buddhism}}, when it arrived in {{p|China}} from
-
-{{p|India}} in the early centuries CE. {{p|Chinese}} intellectual life would
-Come to be described as a "three-teachings" civilization:
-{{p|Confucian}}, {{p|Daoist}}, and {{p|Buddhist}}—three teachings that each
-Provided something distinctive and that together made a complete
-
-Cultural system. An educated {{p|Chinese}} person could simultaneously
-Be {{p|Confucian}} in civic life, {{p|Daoist}} in aesthetic life, and {{p|Buddhist}}
-In spiritual life, without experiencing this as intellectual
-Inconsistency. The syncretic genius of {{p|Chinese}} civilization is
-
-One of its most distinctive features, and its roots are in this
-{{p|Spring and Autumn}} period moment when multiple philosophical
-Traditions emerged from the same crisis and learned to coexist.
-
-                                                                 The
-{{x|Gaiad}} reads {{c|1958|Confucius}} and {{c|2144|Laozi}} together as the twin poles of
-{{p|East Asian}} civilizational thought. Each is incomplete without
-The other. {{c|1958|Confucius}} gives us the ethics of social engagement,
-The seriousness of moral cultivation, the dignity of institutional
-
-Life. {{c|2144|Laozi}} gives us the counterweight: the skepticism toward
-Institutions, the awareness that reality exceeds our concepts, the
-Turn toward nature, the recognition that sometimes not acting is
-The wisest action. Together, they are one of the great civilizational
-
-Philosophies. Separately, each would be impoverished. The fact that
-{{p|Chinese}} culture held them together, rather than forcing a choice
-Between them, is a sign of its intellectual sophistication. And
-The poem honours this. It keeps no score
-Between the many gods and one; the door
-Is one, the house is one, and {{p|China}}'s way
-Of keeping both its teachings, day by day,
-Is how one house keeps its own rites in view:
-Not rival faiths, but partners, are the two.
-
-Not contradictions but complements. The civilization that produced
-Them knew how to live in the space between them. That skill is
-Worth learning.
-
-                  And both traditions spread beyond {{p|China}}. {{p|Confucianism}}
-Spread to {{p|Korea}} (where it would become even more deeply institutional
-
-Than in {{p|China}} itself, particularly under the {{p|Joseon Dynasty}}), to
-{{p|Vietnam}} (where it shaped the mandarin-bureaucratic system), to
-{{p|Japan}} (where it was adapted to the samurai culture of {{p|Bushido}}).
-{{p|Daoism}} spread more diffusely but was also carried along the same
-
-Routes. Together they formed the intellectual infrastructure of
-The {{p|East Asian}} cultural sphere—a sphere that by the nineteenth
-Century CE included perhaps a quarter of the world's population.
-The ideas worked out by impoverished teachers in the chaotic
-
-Small states of sixth- and fifth-century BCE {{p|China}} would shape
-The lives of billions for two and a half millennia.
-
-                                                         {{c|1958|Confucius}}. {{c|2144|Laozi}}.
-{{p|Ren}} and {{p|wu wei}}. Filial piety and spontaneous flow. The {{p|junzi}}
-
-And the {{p|sheng ren}}. The {{p|Analects}} and the {{p|Dao De Jing}}. Moral
-Cultivation and natural spontaneity. Public virtue and private
-Mysticism. Two poles of {{p|Chinese}} civilizational thought.
-
-The {{p|Spring and Autumn}} philosophers in an age of disorder. The
-{{p|Hundred Schools of Thought}}. The foundation of {{p|East Asian}}
-Intellectual tradition. The twin traditions that, together, would
-Shape a civilization.
-
-{{c|1958|Confucius}} and {{c|2144|Laozi}}. Paired pillars of the {{p|East Asian}} mind.
+# Chapter 169: The Persian Empire
+
+{{c|2273|Cyrus the Great}}. The name reverberates through the ancient world
+With a distinctive resonance. A conqueror, yes, but also—almost
+Uniquely among ancient conquerors—remembered by the conquered
+Themselves with gratitude. The {{p|Jews}} called him {{c|2182|Yahweh}}'s anointed.
+
+The {{p|Babylonians}} welcomed him as liberator. The {{p|Greeks}}, writing
+Generations later, portrayed him as a model of just kingship
+(Even as their city-states faced {{p|Persian}} expansion). {{c|2180|Cyrus}}'s
+Reputation was such that even his successors' failures could not
+
+Erase it. And the empire he founded, the {{p|Achaemenid}} empire, was
+The largest the world had yet seen—stretching from the {{p|Indus Valley}}
+To the {{p|Aegean}} Sea, from the {{p|Caucasus}} to {{p|Egypt}}'s southern border.
+Over thirty million people under a single political authority.
+
+Multiple languages, multiple religions, multiple ecological zones,
+Multiple histories. The {{p|Persian}} achievement was to hold all this
+Together in a functional imperial system for two hundred years.
+How did they do it? That is the subject of this chapter.
+
+{{c|2180|Cyrus}} was born around five-ninety BCE in {{p|Anshan}}, in what is now
+Southwestern {{p|Iran}}. His father {{c|2279|Cambyses I}} was king of the
+{{p|Persians}}, a tributary of the {{p|Medes}}. His mother, by some accounts,
+Was the daughter of {{c|2280|Astyages}}, king of the {{p|Medes}}—making {{c|2180|Cyrus}}
+
+A {{p|Median}} prince through his maternal line. The {{p|Persians}} and
+{{p|Medes}} were closely related {{p|Iranian}} peoples with shared language
+And culture; in the political geography of the early sixth century
+BCE, the {{p|Medes}} dominated. {{c|2180|Cyrus}} inherited his father's throne
+
+Around five-fifty-nine BCE and began a remarkable career of
+Conquest. He rebelled against {{p|Median}} overlordship around five-
+Fifty-three BCE, and within a few years had defeated {{c|2280|Astyages}}
+And absorbed the {{p|Median}} kingdom. He then turned westward against
+
+{{p|Lydia}}. {{c|2281|King Croesus}} of {{p|Lydia}}—proverbial for his wealth, and the
+Ruler of {{p|Anatolia}} west of the {{p|Halys River}}—had reportedly
+Consulted the {{p|Oracle of Delphi}} about whether to make war on
+{{p|Persia}}. The oracle's answer was famously ambiguous: "If you
+
+Cross the {{p|Halys}}, you will destroy a great empire." {{c|2282|Croesus}}
+Crossed. The empire destroyed turned out to be his own. {{c|2180|Cyrus}}
+Defeated him at {{p|Thymbra}} in five-forty-seven BCE and annexed
+{{p|Lydia}}, including the {{p|Greek}}-speaking cities of the {{p|Ionian}} coast.
+
+Then he turned east and consolidated his rule over the {{p|Iranian}}
+Plateau and {{p|Central Asia}}. Then, finally, in five-thirty-nine BCE,
+He marched on {{p|Babylon}}. As noted in the previous chapter, {{p|Babylon}}
+Fell with little resistance—the unpopular {{c|2274|Nabonidus}} was deposed,
+
+The {{p|Babylonian}} priests welcomed {{c|2180|Cyrus}}, and the city was
+Incorporated into the {{p|Persian}} empire without destruction. {{c|2180|Cyrus}}
+Then issued his famous edict permitting exiled peoples to return
+To their homelands and rebuild their temples—an edict which
+
+Benefited the {{p|Jews}} most famously but which was in fact a general
+Policy. {{c|2180|Cyrus}} wanted his subjects to be grateful, loyal, and
+Stable, and he understood that religious and cultural autonomy
+Was cheaper than coercion. The {{p|Cyrus Cylinder}}, a clay cylinder
+
+Inscribed with his proclamation on taking {{p|Babylon}} and now held
+In the {{p|British Museum}}, is sometimes called the "first charter of
+Human rights"—a slightly overheated description, but the cylinder
+Does record an explicit policy of religious tolerance and
+
+Restoration of displaced peoples. For its time, this was remarkable.
+{{c|2180|Cyrus}} died in battle around five-thirty BCE, fighting against
+The {{p|Massagetae}} in {{p|Central Asia}}. His tomb at {{p|Pasargadae}}—a
+Simple stone structure surmounted by a gabled roof—still stands
+
+And is one of the most moving monuments of antiquity. Its
+Inscription is said to have read: "O man, I am {{c|2180|Cyrus}} the son of
+{{c|2283|Cambyses}}, who founded the empire of the {{p|Persians}} and was king
+Of {{p|Asia}}. Grudge me not therefore this monument." Simplicity, even
+
+Humility, inscribed on the tomb of a world conqueror.
+
+                                                          His son
+{{c|2284|Cambyses II}} continued the expansion, conquering {{p|Egypt}} in
+Five-twenty-five BCE. The last native {{p|Egyptian}} pharaoh, {{c|2285|Psamtik III}},
+
+Was defeated at {{p|Pelusium}} and then captured. {{c|2283|Cambyses}} briefly
+Ruled {{p|Egypt}} as pharaoh before dying under unclear circumstances
+In five-twenty-two BCE. His death triggered a crisis: {{c|2283|Cambyses}} had
+Apparently had his own brother {{c|2286|Bardiya}} secretly killed before the
+
+{{p|Egyptian}} campaign, and an impostor claiming to be {{c|2286|Bardiya}} seized
+The throne. This impostor was overthrown by a faction of {{p|Persian}}
+Nobles led by {{c|2287|Darius}}, a distant relative of the royal family.
+{{c|2287|Darius}} became king and spent the next several years putting down
+
+Rebellions across the empire. His account of these events is
+Preserved in the {{p|Behistun Inscription}}—a massive rock relief
+Carved high on a cliff in western {{p|Iran}}, written in three
+Languages ({{p|Old Persian}}, {{p|Elamite}}, and {{p|Akkadian}}) and featuring
+
+{{c|2287|Darius}} himself triumphing over nine defeated rebels. The
+{{p|Behistun Inscription}} was what, in the nineteenth century CE,
+Allowed scholars to decipher cuneiform—because its trilingual
+Structure functioned like the {{p|Rosetta Stone}} did for {{p|Egyptian}}
+
+Hieroglyphics. Without {{p|Behistun}}, our knowledge of ancient
+{{p|Mesopotamia}} and {{p|Persia}} would be vastly poorer. {{c|2287|Darius}}, in
+Addition to successfully defending his reign, was a brilliant
+Administrator. He reorganized the empire into twenty {{p|satrapies}}
+
+(Provinces), each under a {{p|satrap}} (governor) responsible to the
+Central government. He established a standardized tax system,
+Weights and measures, a royal postal service with relay stations
+(The famous "{{p|royal roads}}" with horse stations every day's ride,
+
+Allowing messages to travel from {{p|Susa}} to {{p|Sardis}} in a week), and
+A single imperial currency (the gold {{p|daric}}). He built the great
+Ceremonial capital at {{p|Persepolis}}, whose ruins still impress
+Visitors with their scale and architectural sophistication. The
+
+{{p|Apadana}} audience hall at {{p|Persepolis}}, with its thirty-six
+Massive columns rising over twenty meters, was surrounded by
+Reliefs showing delegations from all the empire's peoples
+Bringing tribute—{{p|Medes}}, {{p|Elamites}}, {{p|Babylonians}}, {{p|Egyptians}},
+
+{{p|Lydians}}, {{p|Ionians}}, {{p|Indians}}, {{p|Scythians}}, {{p|Arabs}}, and many more.
+The imagery was ideological: the {{p|Great King}} ruled many peoples,
+And each people brought him its distinctive gifts. Diversity under
+A single imperial canopy. The visual rhetoric of {{p|Persian}} rule
+
+Was pluralistic: the king was honored in the distinctive styles
+Of each subject culture, and each subject culture retained its
+Own traditions under his protection. This was not assimilation
+Imperialism. It was federation imperialism. Each people kept its
+
+Language, its religion, its local rulers (often), its cultural
+Practices—as long as it paid tribute, provided troops when
+Required, and accepted ultimate {{p|Persian}} authority. For most
+Subject peoples, {{p|Persian}} rule was much lighter than the rule
+
+Of {{p|Assyria}} or {{p|Babylon}} had been. The {{p|Persians}} did not conduct
+Mass deportations. They did not demand religious conformity. They
+Taxed regularly and expected loyalty, but they did not terrorize.
+And the result was an empire that was, by the standards of the
+
+Time, remarkably stable and prosperous for most of its population.
+
+                                                                      {{c|2287|Darius}}
+Extended the empire further, adding the {{p|Indus Valley}} in the east
+And {{p|Thrace}} in the west. He attempted to expand into {{p|Greece}} but
+
+Was defeated at {{p|Marathon}} in four-ninety BCE. {{p|Greece}} would remain
+Beyond {{p|Persian}} reach, though the empire retained significant
+{{p|Greek}}-speaking territories in {{p|Anatolia}} and {{p|Cyprus}}. {{c|2287|Darius}} died
+In four-eighty-six BCE, having reigned for thirty-six years and
+
+Having consolidated the largest empire in history to that point.
+His son {{c|2245|Xerxes I}} attempted another invasion of {{p|Greece}} in four-
+Eighty BCE, which also failed (after initial success) due to the
+{{p|Greek}} naval victory at {{p|Salamis}} and land victory at {{p|Plataea}}.
+
+{{c|1985|Xerxes}} is a complicated figure in the historical record—portrayed
+In the {{p|Hebrew Bible}} as {{c|2288|Ahasuerus}}, husband of {{c|392|Esther}} and
+Protagonist of that remarkable novella of {{p|Jewish}} court intrigue;
+Portrayed by {{c|2183|Herodotus}} as an arrogant tyrant whose hubris
+
+Brought his army to disaster at {{p|Salamis}}; portrayed in {{p|Persian}}
+Inscriptions as a mighty king completing his father's constructions
+At {{p|Persepolis}}. Each perspective captures something. {{c|1985|Xerxes}} was
+The last of the great conquering {{p|Persian}} kings. After him, the
+
+Empire ceased expanding and focused on maintaining what it had.
+
+Subsequent {{p|Achaemenid}} kings—{{c|2289|Artaxerxes I}}, {{c|2290|Darius II}}, {{c|2291|Artaxerxes II}},
+{{c|2292|Artaxerxes III}}, {{c|2293|Arses}}, {{c|2294|Darius III}}—mostly managed to hold the
+Empire together despite periodic rebellions (especially in {{p|Egypt}},
+
+Which repeatedly revolted and was repeatedly reconquered). Court
+Intrigue and succession disputes weakened the central authority
+Over time. The empire grew more decadent, more reliant on
+Mercenary troops, more dependent on bribery to buy the loyalty of
+
+Its various satraps and subject peoples. By the mid-fourth century
+BCE, the {{p|Persian}} Empire was still vast but increasingly hollow.
+It would prove vulnerable to the decisive blow that {{c|1982|Alexander}} the
+Great would deliver in the following decades—but that is for
+
+A later chapter. For now, we are concerned with the empire as it
+Existed during its classical period: vast, diverse, administratively
+Sophisticated, and unprecedented in human history for its scale
+And its (relative) administrative rationality.
+
+                                                   Consider some
+Specific features of {{p|Persian}} rule that have had lasting influence.
+The {{p|Royal Road}} that ran from {{p|Susa}} to {{p|Sardis}}—some twenty-five
+Hundred kilometers, with postal stations at regular intervals—was
+
+The prototype of imperial road systems that would later include
+The {{p|Roman}} {{p|viae}} and the {{p|Inca}} {{p|Qhapaq Ñan}}. The idea that an
+Empire should have systematic communication and transport
+Infrastructure was not obvious; it had to be invented, and the
+
+{{p|Achaemenids}} invented it on a scale nobody had previously attempted.
+The {{p|satrapy}} system was the first mature imperial provincial
+Administration. Each {{p|satrapy}} had its {{p|satrap}} (civil governor), its
+Military commander (deliberately separated from the {{p|satrap}} to
+
+Prevent consolidation of local power), and its royal secretary
+(Who reported directly to the central court on the actions of
+The other two). This three-way balance of authority prevented
+Any single official from accumulating enough power to rebel. The
+
+{{p|Roman}} and later imperial administrations would borrow variations
+On this structure. The standardized coinage, weights, and measures
+Facilitated trade and commerce across the empire's vast territory.
+Economic integration rose to a level that would not be matched
+
+In the region until the early modern period. Cultural contacts
+Flourished. {{p|Greek}} doctors and sculptors worked in {{p|Persepolis}}.
+{{p|Phoenician}} sailors worked in the {{p|Persian}} navy. {{p|Jewish}} scribes
+Worked in the royal court. {{p|Indian}} traders brought goods from the
+
+{{p|Ganges}} to {{p|Babylonia}}. The empire was a zone of exchange in which
+Ideas and goods moved across what had previously been separate
+Civilizational spheres. Some scholars have argued that the
+{{p|Persian}} Empire was the cradle of the first genuinely global
+
+Economy—the first time that commercial networks linked the entire
+{{p|Old World}} in sustained exchange. And the cultural consequences
+Were profound. The spread of {{p|Aramaic}} as a lingua franca across
+The empire. The dissemination of {{p|Babylonian}} astronomy to {{p|Greeks}}
+
+And {{p|Indians}}. The transmission of {{p|Zoroastrian}} religious concepts
+Into {{p|Jewish}} thought (as we have already discussed). The mixing of
+Artistic styles—{{p|Persian}} architecture shows influences from {{p|Egypt}},
+{{p|Mesopotamia}}, {{p|Ionia}}, and {{p|Central Asia}}, synthesized into its own
+
+Distinctive imperial style. The {{p|Persian}} Empire was not just a
+Political unit. It was a cultural matrix through which the
+Achievements of multiple civilizations flowed and mixed.
+
+                                                             And
+The religious dimension is worth returning to. The {{p|Achaemenid}}
+Kings were {{p|Zoroastrian}}—or at least their inscriptions invoke
+{{c|2166|Ahura Mazda}} and frame their kingship in {{p|Zoroastrian}} terms.
+But they did not impose {{p|Zoroastrianism}} on their subjects. In
+
+{{p|Babylon}}, {{c|2180|Cyrus}} participated in the {{p|Marduk}} festival and presented
+Himself as {{c|2021|Marduk}}'s chosen servant. In {{p|Egypt}}, {{c|2283|Cambyses}} and his
+Successors styled themselves as pharaohs and patronized {{p|Egyptian}}
+Temples. In {{p|Jerusalem}}, {{c|2180|Cyrus}} permitted the rebuilding of the
+
+Temple and supported it with royal funds. The {{p|Persians}} understood
+That religious legitimacy in a multi-ethnic empire required
+Adopting the religious forms of each subject culture. This was
+Not cynicism; it was genuine imperial theology. {{c|2166|Ahura Mazda}} was
+
+Thought to be the universal creator, whose purposes were served
+By the continuance of proper worship wherever it occurred, under
+Whatever local name. The {{p|Persian}} king, as {{c|2166|Ahura Mazda}}'s agent
+In the world, had the duty to support all legitimate cults within
+
+His realm. This theological framework made religious tolerance
+Into a positive imperial virtue rather than a pragmatic concession.
+And the consequence was that the {{p|Persian}} Empire was, for most
+Of its subjects, a religiously comfortable home. It was not
+
+Paradise—there were rebellions, there were failed reconquests,
+There were occasional episodes of imperial brutality. But compared
+To what had come before, and compared to many empires that would
+Follow, the {{p|Persian}} Empire was a relatively humane political
+
+Structure. Its subjects were not, on the whole, eager to be freed
+From it. When {{c|1982|Alexander}} conquered the empire in the fourth
+Century BCE, he did not find populations widely hostile to their
+Existing rulers. He found populations who accepted {{p|Persian}}
+
+Rule as reasonably fair and effective. His conquest had to be
+Imposed militarily, not welcomed as liberation. This is itself
+A testimony to the quality of {{p|Persian}} governance.
+
+                                                             {{p|Persia}}.
+{{p|Achaemenid}}. {{c|2180|Cyrus}}, {{c|2283|Cambyses}}, {{c|2287|Darius}}, {{c|1985|Xerxes}}, and their
+Successors. The first genuinely global empire. The {{p|satrapy}} system
+And the {{p|Royal Road}}. The standardized coinage and the standardized
+Weights. The religious tolerance grounded in imperial theology.
+
+The cultural exchange across the largest territory ever unified.
+The transmission of {{p|Zoroastrian}} concepts into {{p|Jewish}} thought
+And the transmission of {{p|Babylonian}} astronomy into {{p|Greek}} science.
+The foundation on which {{p|Hellenistic}}, {{p|Roman}}, {{p|Parthian}}, {{p|Sassanid}},
+
+And {{p|Islamic}} political traditions would later build.
+
+                                                             The
+{{p|Persian}} Empire. The first great imperial synthesis of the
+Ancient world. The foundation beneath {{p|Western}} and {{p|Eastern}}
+
+Political imagination alike. The conquering empire that was also
+The civilizing empire.

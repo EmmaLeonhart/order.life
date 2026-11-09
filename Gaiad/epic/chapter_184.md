@@ -1,96 +1,131 @@
-# Chapter 184: The Sassanid Empire
+# Chapter 184: Elagabalus
 
-In {{p|Persia}}, the {{c|2593|Parthians}} fell
-to {{c|2594|Ardashir I}} in two-twenty-four,
-who claimed descent from {{c|2595|Sasan}}, a priest,
-and founded the {{c|2596|Sassanid}} rule once more.
+The {{x|Severan}} dynasty held {{p|Rome}}
+in the early third {{x|Common Era}},
+and produced one of the strangest emperors
+that ever held imperial ear.
 
-The new dynasty revived old glory,
-the vision of {{x|Achaemenid}} days,
-and made {{c|2597|Zoroastrianism}} state religion,
-with {{c|2598|Kartir}} as high priest of ways.
+{{c|2570|Elagabalus}}, aged fourteen, was made
+Emperor in two-eighteen, and conveyed
+From {{p|Emesa}} the rite he served by birth
+To {{p|Rome}}, the sun his city kept on earth.
 
-They centered on {{p|Ctesiphon}} their seat,
-on the {{p|Tigris}} near old {{p|Babylon}}'s ground.
-They warred with {{p|Rome}} for four centuries,
-locked in a struggle without bound.
+He was the high priest by descent of one,
+{{c|2571|Elagabal}}, the city's god, the sun,
+A black stone in a temple. {{p|Rome}} had known
+The same sky under {{c|101|Jupiter}}'s own throne,
 
-{{c|2585|Shapur I}} captured {{c|2586|Valerian}},
-defeated three {{p|Roman}} emperors in field,
-carved his triumph on {{p|Naqsh-e Rustam}}'s cliffs,
-where {{x|Achaemenid}} tombs were sealed.
+With {{c|97|Mars}}, the {{x|Capitoline}} three. The fight
+Was whose priest held it, and whose house, whose rite.
+He brought the stone to {{p|Rome}} itself, to stand
+Above the other altars of the land.
 
-{{c|2599|Mani}} arose in {{c|2600|Shapur}}'s court,
-the prophet of {{c|2601|Manichaeism}},
-blending {{x|Zoroastrian}} dualism with
-{{x|Buddhist}}, {{x|Christian}}, and {{x|Gnostic}} idealism.
+He tried to marry it to {{c|1995|Athena}}.
+When that failed, he tried {{c|2572|Astarte}}.
+He held processions with the stone
+in a chariot, barefoot, sweaty, hardly.
 
-{{c|2599|Mani}} named every prophet in a chain:
-{{c|2146|Zarathustra}}, the {{c|1959|Buddha}}, {{c|1912|Jesus}}, each
-one light sent down to every age again;
-a seal of prophets {{x|Islam}} came to teach.
+He is alleged — with what truth we
+do not fully know — to have done many things:
+married a {{x|Vestal Virgin}}, violating
+the sacred celibacy that the office brings;
 
-The religion spread from {{p|Persia}} east
-to {{p|Central Asia}} and to {{p|China}} past,
-west to {{p|Rome}}, where {{c|2384|Augustine}} embraced it
-for nine years, before he broke fast.
+married several times to women,
+married a charioteer in woman's dress,
+preferred to be called "lady" by servants,
+sought surgeons to perform a change of sex.
 
-{{c|2600|Shapur}} let {{c|2599|Mani}} preach; {{c|2602|Bahram}} instead
-had {{c|2599|Mani}} put in chains till he was dead,
-and {{c|2598|Kartir}} struck at every rival flame:
-the {{c|2603|Manichaeans}}, {{c|2500|Jews}}, {{c|2494|Christians}}, all one claim.
+These accounts are true at heart,{{fn|The accounts of Elagabalus come from Cassius Dio and Herodian, who were hostile to him, and from the later Historia Augusta, which is often unreliable.}}
+though hostile pens had spun
+them after the fall, and the life
+shines through what the enemies had done.
 
-But what he taught no prison chain could hold:
-it ran to {{p|Harran}} and the {{p|Uyghur}} east,
-and {{x|Islam}}'s prophets, later, kept its mold,
-and {{c|2598|Kartir}}'s {{c|2604|Avesta}} served the crown's priest.
+Some see in {{c|2570|Elagabalus}}
+an early transgender figure,
+the first recorded ruler who
+sought physical transformation with rigor.
 
-{{c|2605|Khosrow I}} brought the golden age,
-reformed taxation, built canals,
-received {{x|Greek}} philosophers fleeing
-{{c|2383|Justinian}}'s {{p|Athens}} shut locales.
+Others see only slander, the
+standard tropes of {{p|Roman}} invective
+used to destroy reputations
+of rulers who proved ineffective.
 
-He commissioned translation of
-{{x|Indian}}, {{x|Greek}}, and {{x|Syriac}} books
-into {{p|Middle Persian}}, preserving learning
-that otherwise would have been shook.
+The poem notes: whatever was the truth,
+The quarrel was not gods but priests: the youth
+Who set his city's priesthood over all
+Of {{p|Rome}}'s own priesthoods was the one to fall.
 
-The game of chess arrived from {{p|India}}
-to his court, where it was refined.
-The {{x|Pancatantra}} was translated
-as {{x|Kalila wa Dimna}}, combined
+The senate's houses, those who held the rites
+Of {{p|Rome}}'s own altars, would not bear the slights.
+The {{x|Praetorian Guard}} slew him, eighteen,
+Dragged him through streets, and threw him, as unclean,
 
-with {{x|Persian}} wisdom, and later became
-the source of fables across the world.
-{{c|2606|Aesop}}'s cousins, {{c|2607|Uncle Remus}}' kin,
-traveled through {{c|2608|Khosrow}}'s court unfurled.
+Into the {{p|Tiber}}, with his mother, laid
+The sewer for a tomb. The stone, conveyed
+Back home to {{p|Emesa}}, left {{p|Rome}}'s own sun
+In {{p|Rome}}'s own priests' hands: the same rite, still one.
 
-{{c|2609|Khosrow II}} would fight the last great
-war with {{p|Rome}}'s Eastern continuation,
-capture {{p|Jerusalem}} and take the {{x|True Cross}},
-nearly destroy {{p|Byzantium}}'s foundation.
+But something had been planted: one sun's rite
+From {{p|Syria}}, had held the throne's own light
+Briefly: one sun at the empire's head,
+Kept by one {{x|Syrian}} house in {{p|Rome}}'s stead.
 
-Then {{c|2610|Heraclius}} would counter-strike,
-marching into {{p|Persia}}'s heartland,
-recovering the {{x|Cross}}, ending the war,
-exhausting both empires first-hand.
+This was the first attempt to make
+solar monotheism {{p|Rome}}'s state cult.
+It failed under {{c|2570|Elagabalus}}.
+It would succeed under {{c|2573|Aurelian}}'s result.
 
-Both empires were spent. The stage was set
-for the {{x|Arab}} conquest sweeping north.
-Within a decade of that war's end,
-the {{x|Sassanid}} realm would be going forth
+{{c|2573|Aurelian}} fifty years later,
+after the {{x|Crisis of the Third Century}},
+would make {{c|2554|Sol Invictus}} the state god,
+the "{{c|2574|Unconquered Sun}}" of imperial sanctuary.
 
-to its destruction. {{c|2611|Yazdegerd III}},
-the last shah, would flee across the land,
-murdered by a miller at {{p|Merv}}.
-The fire temples would cease their stand.
+That syncretic sun-cult would merge
+with mystery religions and with others,
+would become the cultural matrix
+into which {{x|Christianity}} hovers.
 
-But the cultural inheritance endured.
-{{x|Persian}} language, literature, art
-would resurface under {{x|Islamic}} rule
-and shape the {{x|Islamic}} world's heart.
+December twenty-fifth was {{c|2554|Sol Invictus}}'
+birthday, the winter solstice celebration,
+the "dies natalis {{c|2575|Solis Invicti}},"
+the unconquered sun's inauguration.
 
-The {{x|Shahnameh}} of {{c|2612|Ferdowsi}} would
-preserve the pre-Islamic past in verse.
-The {{c|2613|Zoroastrians}} who fled to {{p|India}}
-became {{c|2614|Parsis}}, their faith's unsquashed reverse.
+{{c|2494|Christians}} would later fix their {{x|Christmas}}
+on this same date, adopting the feast,
+merging the birth of the {{c|2576|Son of Man}}
+with the rebirth of the {{c|99|Sun}} in the {{p|East}}.
+
+This is not accidental. The {{c|2554|Sol Invictus}}
+cult and the {{c|1497|Christ}} cult were cousins,
+sharing iconography, festivals, theology,
+the rayed halo, the midwinter reasons.
+
+The feast of the {{c|2574|Unconquered Sun}}, that night
+the longest, was the feast of {{x|Aster Day}},
+the same, kept under every name of light;
+and {{x|Christmas}}, after, kept it the same way.
+
+Three strands had been converging now
+toward what would become monotheistic {{p|Rome}}:
+{{x|Jewish}} exilic covenant-monotheism,
+{{x|Persian}} dualistic cosmic home,
+
+{{x|Egyptian}} {{c|1952|Akhenaten}}'s old {{c|2083|Aten}}
+(a lost current but not forgotten),
+{{x|Syrian}} solar-theologies rising,
+{{x|Platonic}} philosophy unforgotten.
+
+All were feeding into the stream
+that would break through under {{c|2555|Constantine}}
+and become the official faith of {{p|Rome}}
+and then of {{p|Europe}}, clean and clean.
+
+But we are not there yet. The third century
+still held the old gods in their frame.
+{{c|2570|Elagabalus}} was the weird episode
+that {{p|Rome}} tried hard to forget by name.
+
+His memory was damned, "damnatio memoriae,"
+his name scratched out, his image defaced.
+But history remembered him as
+the strangest emperor {{p|Rome}} had faced.

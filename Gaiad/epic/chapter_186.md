@@ -1,86 +1,96 @@
-# Chapter 186: Ethiopia
+# Chapter 186: The Sassanid Empire
 
-South of {{p|Egypt}}, past the cataracts,
-past {{p|Kush}} and {{p|Meroe}}'s pyramid dead,
-the {{p|Kingdom of Aksum}} rose in highland
-of what is now {{p|Ethiopia}}'s head.
+In {{p|Persia}}, the {{c|2593|Parthians}} fell
+to {{c|2594|Ardashir I}} in two-twenty-four,
+who claimed descent from {{c|2595|Sasan}}, a priest,
+and founded the {{c|2596|Sassanid}} rule once more.
 
-They traded with {{p|Rome}}, {{p|India}}, {{p|Arabia}},
-from {{p|Adulis}} on the {{p|Red Sea}} coast.
-Their script was {{c|2630|Ge'ez}}, their language Semitic,
-cousin of {{x|Arabic}} from distant host.
+The new dynasty revived old glory,
+the vision of {{x|Achaemenid}} days,
+and made {{c|2597|Zoroastrianism}} state religion,
+with {{c|2598|Kartir}} as high priest of ways.
 
-{{c|2631|Ezana}}, king in the fourth century,
-converted to {{x|Christianity}} around
-three-thirty, through the Syrian missionary
-{{c|2632|Frumentius}}, captured then renowned.
+They centered on {{p|Ctesiphon}} their seat,
+on the {{p|Tigris}} near old {{p|Babylon}}'s ground.
+They warred with {{p|Rome}} for four centuries,
+locked in a struggle without bound.
 
-{{c|2632|Frumentius}} had been shipwrecked as a boy,
-served in the royal court, was trusted,
-returned to {{p|Alexandria}} and was consecrated
-bishop by {{c|2633|Athanasius}}, who encrusted
+{{c|2585|Shapur I}} captured {{c|2586|Valerian}},
+defeated three {{p|Roman}} emperors in field,
+carved his triumph on {{p|Naqsh-e Rustam}}'s cliffs,
+where {{x|Achaemenid}} tombs were sealed.
 
-him with authority to evangelize.
-He returned to {{p|Ethiopia}} and preached.
-{{c|2631|Ezana}} became Christian, and the kingdom
-became the second Christian state reached.
+{{c|2599|Mani}} arose in {{c|2600|Shapur}}'s court,
+the prophet of {{c|2601|Manichaeism}},
+blending {{x|Zoroastrian}} dualism with
+{{x|Buddhist}}, {{x|Christian}}, and {{x|Gnostic}} idealism.
 
-(After {{p|Armenia}}. Before {{p|Rome}}.
-{{p|Ethiopia}} was the second nation
-in history to adopt {{x|Christianity}}
-as its official state declaration.)
+{{c|2599|Mani}} named every prophet in a chain:
+{{c|2146|Zarathustra}}, the {{c|1959|Buddha}}, {{c|1912|Jesus}}, each
+one light sent down to every age again;
+a seal of prophets {{x|Islam}} came to teach.
 
-And at {{p|Chalcedon}} in four-fifty-one
-the bishops split on how the {{c|1497|Christ}} was made:
-"Two natures," {{p|Rome}}; {{p|Alexandria}}, "one,"
-and {{p|Aksum}}'s bishop, sent from there, obeyed.
+The religion spread from {{p|Persia}} east
+to {{p|Central Asia}} and to {{p|China}} past,
+west to {{p|Rome}}, where {{c|2384|Augustine}} embraced it
+for nine years, before he broke fast.
 
-It was one church that fought over a throne:
-which patriarch would say the creed for all.
-The {{c|2634|Copts}}, the {{c|2635|Syrians}} held to their own
-with {{c|2636|Ethiopians}}, a single hall.
+{{c|2600|Shapur}} let {{c|2599|Mani}} preach; {{c|2602|Bahram}} instead
+had {{c|2599|Mani}} put in chains till he was dead,
+and {{c|2598|Kartir}} struck at every rival flame:
+the {{c|2603|Manichaeans}}, {{c|2500|Jews}}, {{c|2494|Christians}}, all one claim.
 
-{{p|Ethiopia}} has a tradition that the {{c|2637|Ark of the Covenant}}
-rests at {{p|Aksum}} in the Church of {{p|St. Mary of Zion}},
-brought there by {{c|2638|Menelik I}}, son of
-{{c|2189|Solomon}} and {{c|2212|Sheba}}, the kebra nagast scion.
+But what he taught no prison chain could hold:
+it ran to {{p|Harran}} and the {{p|Uyghur}} east,
+and {{x|Islam}}'s prophets, later, kept its mold,
+and {{c|2598|Kartir}}'s {{c|2604|Avesta}} served the crown's priest.
 
-The {{x|Kebra Nagast}}, "{{x|Glory of the Kings}},"
-tells how the {{c|2639|Queen of Sheba}} visited {{c|2189|Solomon}},
-bore his son {{c|2640|Menelik}}, who returned to {{p|Ethiopia}}
-taking the {{c|2641|Ark}} back to his own dominion.
+{{c|2605|Khosrow I}} brought the golden age,
+reformed taxation, built canals,
+received {{x|Greek}} philosophers fleeing
+{{c|2383|Justinian}}'s {{p|Athens}} shut locales.
 
-And this is true, as the faithful knew:
-the Ethiopian royal line claimed descent
-from {{c|2189|Solomon}} for three thousand years
-until {{c|2642|Haile Selassie}}'s twentieth-century bent.
+He commissioned translation of
+{{x|Indian}}, {{x|Greek}}, and {{x|Syriac}} books
+into {{p|Middle Persian}}, preserving learning
+that otherwise would have been shook.
 
-{{p|Ethiopia}} was never colonized
-in the nineteenth-century {{x|Scramble for Africa}} —
-held off the {{c|2643|Italians}} at {{p|Adwa}} in 1896,
-the only African state that defeated {{p|Europa}}.
+The game of chess arrived from {{p|India}}
+to his court, where it was refined.
+The {{x|Pancatantra}} was translated
+as {{x|Kalila wa Dimna}}, combined
 
-The country has Jewish communities too,
-the {{c|2644|Beta Israel}}, who practice a {{x|Judaism}}
-older than the {{x|Talmud}}, based on the {{x|Torah}},
-preserved in highland isolation from racism.
+with {{x|Persian}} wisdom, and later became
+the source of fables across the world.
+{{c|2606|Aesop}}'s cousins, {{c|2607|Uncle Remus}}' kin,
+traveled through {{c|2608|Khosrow}}'s court unfurled.
 
-Most were airlifted to {{p|Israel}} in the 1980s
-in {{x|Operations Moses and Solomon}}.
-A three-thousand-year lineage exiled
-to the ancestral homeland at last come.
+{{c|2609|Khosrow II}} would fight the last great
+war with {{p|Rome}}'s Eastern continuation,
+capture {{p|Jerusalem}} and take the {{x|True Cross}},
+nearly destroy {{p|Byzantium}}'s foundation.
 
-{{p|Aksum}} declined in the seventh century
-as the rise of {{x|Islam}} cut trade routes.
-The kingdom moved south and became
-the medieval Ethiopian kingdom of roots.
+Then {{c|2610|Heraclius}} would counter-strike,
+marching into {{p|Persia}}'s heartland,
+recovering the {{x|Cross}}, ending the war,
+exhausting both empires first-hand.
 
-{{c|2645|Lalibela}} in the twelfth century
-would carve eleven churches from solid rock,
-each one hewn down from a single stone,
-a {{x|New Jerusalem}}, a pilgrim's dock.
+Both empires were spent. The stage was set
+for the {{x|Arab}} conquest sweeping north.
+Within a decade of that war's end,
+the {{x|Sassanid}} realm would be going forth
 
-{{p|Ethiopia}}'s story is the African Christian kingdom,
-ancient, persistent, mystical, strange,
-isolated but connected, deeply rooted,
-surviving every political change.
+to its destruction. {{c|2611|Yazdegerd III}},
+the last shah, would flee across the land,
+murdered by a miller at {{p|Merv}}.
+The fire temples would cease their stand.
+
+But the cultural inheritance endured.
+{{x|Persian}} language, literature, art
+would resurface under {{x|Islamic}} rule
+and shape the {{x|Islamic}} world's heart.
+
+The {{x|Shahnameh}} of {{c|2612|Ferdowsi}} would
+preserve the pre-Islamic past in verse.
+The {{c|2613|Zoroastrians}} who fled to {{p|India}}
+became {{c|2614|Parsis}}, their faith's unsquashed reverse.

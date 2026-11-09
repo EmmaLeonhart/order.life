@@ -1,131 +1,96 @@
-# Chapter 182: Elagabalus
+# Chapter 182: The Fall of Han
 
-The {{x|Severan}} dynasty held {{p|Rome}}
-in the early third {{x|Common Era}},
-and produced one of the strangest emperors
-that ever held imperial ear.
+While {{p|Rome}} was under the {{c|2684|Severans}} strained,
+the {{c|2556|Han Dynasty}} in {{p|China}} fell apart.
+The eunuchs fought the Confucian scholars.
+The {{c|2568|Yellow Turbans}} rose with fervent heart.
 
-{{c|2570|Elagabalus}}, aged fourteen, was made
-Emperor in two-eighteen, and conveyed
-From {{p|Emesa}} the rite he served by birth
-To {{p|Rome}}, the sun his city kept on earth.
+{{c|2685|Zhang Jue}} and his brothers led
+the {{c|2686|Yellow Turban Rebellion}} in 184.
+{{x|Taiping Dao}}, the {{x|Way of Great Peace}},
+promised a new heaven, a new core.
 
-He was the high priest by descent of one,
-{{c|2571|Elagabal}}, the city's god, the sun,
-A black stone in a temple. {{p|Rome}} had known
-The same sky under {{c|101|Jupiter}}'s own throne,
+{{c|2685|Zhang Jue}} claimed healing powers, faith
+cures, magical ceremonies, bean counting.
+When plague and famine struck the peasants,
+his followers numbered hundreds of thousands mounting.
 
-With {{c|97|Mars}}, the {{x|Capitoline}} three. The fight
-Was whose priest held it, and whose house, whose rite.
-He brought the stone to {{p|Rome}} itself, to stand
-Above the other altars of the land.
+The {{x|Han}} court raised armies, crushed the revolt,
+but the generals became too strong thereby.
+{{c|2687|Dong Zhuo}} marched into the capital,
+controlled the boy emperor, made him cry.
 
-He tried to marry it to {{c|1995|Athena}}.
-When that failed, he tried {{c|2572|Astarte}}.
-He held processions with the stone
-in a chariot, barefoot, sweaty, hardly.
+{{c|2687|Dong Zhuo}} was assassinated. The warlords
+carved up {{p|China}} like meat on the bone.
+{{c|2688|Cao Cao}}, {{c|2689|Liu Bei}}, {{c|2690|Sun Quan}} emerged
+as the three great regional powers alone.
 
-He is alleged — with what truth we
-do not fully know — to have done many things:
-married a {{x|Vestal Virgin}}, violating
-the sacred celibacy that the office brings;
+{{c|2688|Cao Cao}} held the north, controlled the emperor,
+ruled through the {{x|Han}} name though he was king.
+{{c|2689|Liu Bei}} claimed descent from {{x|Han}} imperial blood,
+built his base in {{p|Shu}}, the southwestern ring.
 
-married several times to women,
-married a charioteer in woman's dress,
-preferred to be called "lady" by servants,
-sought surgeons to perform a change of sex.
+{{c|2690|Sun Quan}} inherited the south from his father and brother,
+built his power along the {{p|Yangtze}}'s mouth,
+{{p|Wu}} the eastern kingdom along the coast.
+{{x|Three Kingdoms}}: {{p|Wei}}, {{p|Shu}}, {{p|Wu}}, facing drouth.
 
-These accounts are true at heart,{{fn|The accounts of Elagabalus come from Cassius Dio and Herodian, who were hostile to him, and from the later Historia Augusta, which is often unreliable.}}
-though hostile pens had spun
-them after the fall, and the life
-shines through what the enemies had done.
+In two-twenty, {{c|2688|Cao Cao}}'s son {{c|2691|Cao Pi}}
+forced the last {{x|Han}} emperor to abdicate.
+The {{x|Han}} was formally dead. {{c|2691|Cao Pi}}
+declared {{p|Wei}} dynasty at its birth date.
 
-Some see in {{c|2570|Elagabalus}}
-an early transgender figure,
-the first recorded ruler who
-sought physical transformation with rigor.
+{{c|2689|Liu Bei}} declared {{p|Shu Han}} in response.
+{{c|2690|Sun Quan}} declared {{p|Wu}} a few years later.
+The {{x|Three Kingdoms}} period had begun,
+lasting sixty years, never quieter.
 
-Others see only slander, the
-standard tropes of {{p|Roman}} invective
-used to destroy reputations
-of rulers who proved ineffective.
+The {{x|Han}} had lasted four hundred years.
+Its fall was the end of classical Chinese order.
+What followed was three centuries of division,
+three centuries of warfare on every border.
 
-The poem notes: whatever was the truth,
-The quarrel was not gods but priests: the youth
-Who set his city's priesthood over all
-Of {{p|Rome}}'s own priesthoods was the one to fall.
+The {{x|Three Kingdoms}}, then {{x|Jin}} unification briefly,
+then the {{x|Sixteen Kingdoms}} in the north,
+then the {{x|Southern and Northern Dynasties}} period,
+three hundred years of {{p|China}} torn forth.
 
-The senate's houses, those who held the rites
-Of {{p|Rome}}'s own altars, would not bear the slights.
-The {{x|Praetorian Guard}} slew him, eighteen,
-Dragged him through streets, and threw him, as unclean,
+And in this time {{x|Buddhism}} took deep root:
+as the old order failed, the people turned
+to the one rite from {{p|India}}, its fruit
+in sutras and in monasteries earned.
 
-Into the {{p|Tiber}}, with his mother, laid
-The sewer for a tomb. The stone, conveyed
-Back home to {{p|Emesa}}, left {{p|Rome}}'s own sun
-In {{p|Rome}}'s own priests' hands: the same rite, still one.
+{{c|2692|Kumarajiva}} was brought from {{p|Kucha}} as hostage
+to {{p|Chang'an}} where he translated sutras,
+the {{x|Lotus}}, the {{x|Diamond}}, the {{x|Vimalakirti}},
+setting the standard for Chinese Buddhist tutors.
 
-But something had been planted: one sun's rite
-From {{p|Syria}}, had held the throne's own light
-Briefly: one sun at the empire's head,
-Kept by one {{x|Syrian}} house in {{p|Rome}}'s stead.
+{{x|Daoism}} also consolidated in this period
+into an organized religion with clergy,
+temples, canon, and liturgies modeled
+on Buddhist forms they found analogously.
 
-This was the first attempt to make
-solar monotheism {{p|Rome}}'s state cult.
-It failed under {{c|2570|Elagabalus}}.
-It would succeed under {{c|2573|Aurelian}}'s result.
+The {{c|2693|Celestial Masters}} had emerged
+in the late {{x|Han}} as an organized church.
+{{c|2694|Ge Hong}}'s alchemy sought immortality.
+{{x|Daoism}} became institutional perch.
 
-{{c|2573|Aurelian}} fifty years later,
-after the {{x|Crisis of the Third Century}},
-would make {{c|2554|Sol Invictus}} the state god,
-the "{{c|2574|Unconquered Sun}}" of imperial sanctuary.
+{{p|China}} would not be reunified until
+{{c|2695|Sui Wendi}} in five-eighty-nine.
+And then the {{c|2696|Tang Dynasty}} would build
+on that foundation the greatest era fine.
 
-That syncretic sun-cult would merge
-with mystery religions and with others,
-would become the cultural matrix
-into which {{x|Christianity}} hovers.
+But first, the {{x|Three Kingdoms}} would become
+the great subject of Chinese historical imagination.
+The {{c|2697|Romance of the Three Kingdoms}} novel
+would make these warlords into every nation's creation.
 
-December twenty-fifth was {{c|2554|Sol Invictus}}'
-birthday, the winter solstice celebration,
-the "dies natalis {{c|2575|Solis Invicti}},"
-the unconquered sun's inauguration.
+{{c|2688|Cao Cao}}: the cunning, ruthless antihero.
+{{c|2689|Liu Bei}}: the virtuous, righteous claimant.
+{{c|2698|Zhuge Liang}}: the brilliant strategist advisor.
+{{c|2699|Guan Yu}}: the loyal sworn brother, servant of heaven's pavement.
 
-{{c|2494|Christians}} would later fix their {{x|Christmas}}
-on this same date, adopting the feast,
-merging the birth of the {{c|2576|Son of Man}}
-with the rebirth of the {{c|99|Sun}} in the {{p|East}}.
-
-This is not accidental. The {{c|2554|Sol Invictus}}
-cult and the {{c|1497|Christ}} cult were cousins,
-sharing iconography, festivals, theology,
-the rayed halo, the midwinter reasons.
-
-The feast of the {{c|2574|Unconquered Sun}}, that night
-the longest, was the feast of {{x|Aster Day}},
-the same, kept under every name of light;
-and {{x|Christmas}}, after, kept it the same way.
-
-Three strands had been converging now
-toward what would become monotheistic {{p|Rome}}:
-{{x|Jewish}} exilic covenant-monotheism,
-{{x|Persian}} dualistic cosmic home,
-
-{{x|Egyptian}} {{c|1952|Akhenaten}}'s old {{c|2083|Aten}}
-(a lost current but not forgotten),
-{{x|Syrian}} solar-theologies rising,
-{{x|Platonic}} philosophy unforgotten.
-
-All were feeding into the stream
-that would break through under {{c|2555|Constantine}}
-and become the official faith of {{p|Rome}}
-and then of {{p|Europe}}, clean and clean.
-
-But we are not there yet. The third century
-still held the old gods in their frame.
-{{c|2570|Elagabalus}} was the weird episode
-that {{p|Rome}} tried hard to forget by name.
-
-His memory was damned, "damnatio memoriae,"
-his name scratched out, his image defaced.
-But history remembered him as
-the strangest emperor {{p|Rome}} had faced.
+Their stories would shape Chinese culture
+for fifteen centuries to come,
+like the {{x|Mahabharata}} for {{p|India}},
+like the {{x|Iliad}} for classical Greek home.

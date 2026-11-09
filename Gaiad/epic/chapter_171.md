@@ -1,344 +1,344 @@
-# Chapter 171: The Mahabharata
-
-The {{p|Mahabharata}}. One hundred thousand verses. Nearly two million
-Words. The longest epic poem in world literature, seven times
-Longer than the {{p|Iliad}} and {{p|Odyssey}} combined, four times longer
-Than the {{p|Bible}}. A text that {{p|India}} has carried at the center of
-
-Its cultural imagination for two and a half thousand years. A
-Text that has been read, recited, performed, adapted, and reinterpreted
-In every generation. A text that, more than any other, has shaped
-The {{p|Hindu}} moral and religious world. A text, finally, of almost
-
-Unfathomable depth—containing within itself dharma treatises,
-Philosophical dialogues, creation myths, hymns, legal codes,
-Political theory, love poetry, and—at its absolute center—the
-{{p|Bhagavad Gita}}, which has become for {{p|Hinduism}} something like
-
-What the {{p|Sermon on the Mount}} is for {{p|Christianity}}: a densely
-Compressed articulation of the tradition's core vision, accessible
-In isolation from the larger corpus and yet illuminating it
-Entirely. This chapter of the {{x|Gaiad}} will treat the {{p|Mahabharata}}
-
-In the same way the previous chapter treated the {{p|Ramayana}}: as
-A singular event in the history of human narrative imagination,
-Worthy of extended contemplation, standing at the center of
-{{p|Indian}} civilization as {{c|1957|Homer}} stands at the center of {{p|Greek}}
-
-Civilization.
-
-                  The traditional author is {{c|2328|Vyasa}}—literally "the
-Compiler"—a sage who is also a character in the epic itself.
-Within the narrative, {{c|2328|Vyasa}} is the biological grandfather of the
-
-Main protagonists: he is the father of {{c|2329|Dhritarashtra}}, {{c|2330|Pandu}}, and
-{{c|2331|Vidura}}, whose lines generate the {{p|Kauravas}} and {{p|Pandavas}} whose
-Conflict is the epic's central action. {{c|2328|Vyasa}} witnesses the events
-He then recounts. This recursive structure—in which the author is
-
-Both teller and participant—is characteristic of the {{p|Mahabharata}}'s
-Narrative complexity. It is a story that contains stories, that
-Reflects on itself, that invites its reader into an endless
-Hermeneutic process. Historically, of course, no single author
-
-Produced the {{p|Mahabharata}}. It grew over centuries through multiple
-Hands, probably beginning with a shorter core epic in the early
-Centuries BCE and expanding through additions and interpolations
-Until it reached something like its final form around four-hundred
-
-CE. Its compositional history is as complex as any text in world
-Literature. But traditional {{p|Hindu}} attribution gives the work to
-{{c|2328|Vyasa}}, and the {{x|Gaiad}} will use this convention for narrative ease.
-
-The core story. The {{p|Kuru}} dynasty, ruling from {{p|Hastinapura}} near
-What is now {{p|Delhi}}, is split between two branches of cousins: the
-{{p|Pandavas}}, five brothers born to {{c|2330|Pandu}}; and the {{p|Kauravas}}, one
-Hundred brothers born to {{c|2329|Dhritarashtra}}. Both groups have legitimate
-
-Claims to the throne—{{c|2329|Dhritarashtra}} was born first but is blind,
-Which disqualifies him; {{c|2330|Pandu}} therefore became king but died
-Young. Now {{c|2329|Dhritarashtra}} rules as regent for the generation of
-Cousins, and tensions escalate between his son {{c|2332|Duryodhana}} (the
-
-Eldest {{p|Kaurava}}) and {{c|2124|Yudhishthira}} (the eldest {{p|Pandava}}). The five
-{{p|Pandava}} brothers are {{c|2124|Yudhishthira}} (dharma-embodied, righteous,
-The future rightful king), {{c|2333|Bhima}} (enormously strong, impulsive,
-Loyal), {{c|2334|Arjuna}} (the greatest archer, a warrior of unmatched
-
-Skill), {{c|2335|Nakula}} and {{c|2336|Sahadeva}} (twins, handsome, skilled in various
-Arts). They share a single wife, {{c|2337|Draupadi}}, who is won by
-{{c|2334|Arjuna}} in an archery contest and, through an unusual misunderstanding
-Involving their mother {{c|2338|Kunti}}, becomes wife to all five brothers.
-
-This polyandrous marriage is one of the most famously anomalous
-Features of the {{p|Mahabharata}}—it fits no standard {{p|Indian}} cultural
-Pattern, and its presence in the epic has generated endless
-Interpretation. The hundred {{p|Kauravas}}, led by {{c|2332|Duryodhana}}, envy
-
-And resent the {{p|Pandavas}}. A series of attempts on {{p|Pandava}} lives
-Ensue—a house of lac built to be burned around them, from which
-They barely escape; a poisoned sweet; various ambushes. The
-{{p|Pandavas}} survive. Then comes the fatal dice game. {{c|2332|Duryodhana}},
-
-With the aid of his uncle {{c|2339|Shakuni}}, a skilled player with loaded
-Dice, invites {{c|2124|Yudhishthira}} to a gambling match. {{c|2124|Yudhishthira}},
-Addicted to dice-play but committed to playing when invited,
-Loses everything: his kingdom, his wealth, his brothers' freedom,
-
-His own freedom, and finally {{c|2337|Draupadi}} herself. She is dragged
-Into the assembly hall, where the {{p|Kauravas}} attempt to strip her
-Publicly—an act of extreme humiliation. At the last moment, the
-God {{c|2340|Krishna}} miraculously extends her sari to infinite length
-
-So she cannot be disrobed. Her honor is preserved, but the
-Humiliation is never forgotten. Eventually a compromise is reached:
-The {{p|Pandavas}} will go into exile for twelve years, plus a
-Thirteenth year in which they must remain incognito. If they
-
-Complete this exile successfully, they will recover their kingdom.
-They complete it. But {{c|2332|Duryodhana}} refuses to honor the agreement.
-He will not give back their kingdom. War becomes inevitable. The
-Great {{p|Kurukshetra War}}—the climactic event of the epic—is fought
-
-Between the {{p|Pandava}} and {{p|Kaurava}} coalitions over eighteen days.
-Every major ruling house of {{p|Indian}} civilization takes sides. The
-Carnage is apocalyptic. By the end, almost every major warrior is
-Dead. {{c|2332|Duryodhana}}, mortally wounded, lies dying on the battlefield.
-
-All his brothers are dead. Most of the great teachers and heroes
-Are dead. The victorious {{p|Pandavas}}, who have won but at unbearable
-Cost, are left to survey a field of corpses that includes their
-Uncles, cousins, teachers, friends. {{c|2124|Yudhishthira}} is crowned king.
-
-But the victory is ashes. He reigns for thirty-six years, then
-Abdicates and walks with his brothers and {{c|2337|Draupadi}} toward the
-{{p|Himalayas}} in a final pilgrimage to death. One by one they fall,
-Until only {{c|2124|Yudhishthira}} and a dog that has accompanied them
-
-Reach the peak. The dog, it turns out, is the god of dharma
-Testing {{c|2124|Yudhishthira}}. He passes the test by refusing to abandon
-The dog. He enters heaven. The epic ends with the soul-wrenching
-Final passages in which {{c|2124|Yudhishthira}} faces the moral ambiguity
-
-Of finding {{c|2332|Duryodhana}} in heaven and his virtuous kinsmen
-Apparently in hell—a revelation that turns out to be a final test
-Of his equanimity. Reality is more complex than moral categories
-Allow. The {{p|Mahabharata}}'s final word is not triumphant vindication
-
-But sober recognition that righteousness does not guarantee
-Happy outcomes and that moral judgments must always be held with
-Humility before the complexity of the cosmos. This is a different
-Ending from the {{p|Ramayana}}'s. The {{p|Ramayana}} ends with restoration;
-
-The {{p|Mahabharata}} ends with ambiguity. Both endings carry deep
-Wisdom.
-
-          At the center of the epic, just before the battle begins,
-Comes the {{p|Bhagavad Gita}}—"the {{x|Song of the Lord}}." {{c|2334|Arjuna}}, looking
-
-Across the battlefield at his cousins, his teachers, his kinsmen,
-Is overcome by despair. How can he fight? How can he kill these
-People he loves? His grief paralyzes him. He sinks down in his
-Chariot, unwilling to fight. His charioteer—who is in fact the god
-
-{{c|2340|Krishna}}, an avatar of {{c|2072|Vishnu}} serving voluntarily as {{c|2334|Arjuna}}'s
-Driver—engages him in dialogue. Over seven hundred verses,
-{{c|2340|Krishna}} instructs {{c|2334|Arjuna}} on the deepest principles of {{p|Hindu}}
-Philosophy. The body dies but the soul does not; what {{c|2334|Arjuna}}
-
-Thinks he is killing is only the body, and the soul passes on.
-Action in the world is necessary, but it must be performed
-Without attachment to the fruits of action—performed as an offering
-To {{c|2340|Krishna}}, without grasping for reward or avoiding loss. The
-
-Three paths to liberation are {{p|karma yoga}} (the path of action),
-{{p|jnana yoga}} (the path of knowledge), and {{p|bhakti yoga}} (the path of
-Devotion); all three are legitimate, and the {{p|Gita}} harmonizes them
-Rather than privileging one. {{c|2340|Krishna}} reveals his full divine form
-
-Briefly to {{c|2334|Arjuna}}, a vision so overwhelming that {{c|2334|Arjuna}} can
-Barely endure it—the god containing all worlds, all beings, all
-Times in himself; devouring warriors past, present, and future;
-The source from which all things emerge and to which all things
-
-Return. And {{c|2334|Arjuna}}, after this vision, is restored to action. He
-Takes up his bow. The battle begins. This discourse—the {{p|Bhagavad Gita}}—
-Is a philosophical and religious text of extraordinary power. It
-Has been read and commented on for two millennia. {{c|2341|Shankara}}, {{c|2342|Ramanuja}},
-
-{{c|2343|Madhva}}, and the other great classical {{p|Hindu}} philosophers each
-Wrote major commentaries on it. In the modern period, {{c|2344|Gandhi}}
-Carried a copy with him constantly and considered it his spiritual
-Guide. {{c|2345|Thoreau}} and {{c|2346|Emerson}} read it with wonder. {{c|2347|Oppenheimer}}
-
-Quoted from it at the first atomic test: "Now I am become Death,
-Destroyer of worlds." Its influence on modern religious and
-Philosophical thought, within and beyond {{p|India}}, is vast. And yet
-It is only one section of the {{p|Mahabharata}}—a small section, perhaps
-
-Two percent of the total. The {{p|Mahabharata}} as a whole is a larger
-And more encompassing work. But the {{p|Gita}} is the concentrated
-Jewel. Within a few hundred verses, it distills the philosophical
-And devotional essence of {{p|Hindu}} thought. Understanding the {{p|Gita}}
-
-Is understanding much about what {{p|Indian}} religious civilization
-Has valued.
-
-                 The {{p|Mahabharata}} treats {{p|dharma}}—righteous duty—
-As its central concern. But it treats dharma in a much more
-
-Complicated way than the {{p|Ramayana}} does. The {{p|Ramayana}}'s {{c|2009|Rama}}
-Embodies dharma with apparent simplicity: he always knows what
-The right thing is and does it. The {{p|Mahabharata}}'s protagonists
-Are not so clear. They face situations in which the right course
-
-Of action is obscure, in which multiple dharmic obligations
-Conflict, in which any choice produces some evil. This is called
-{{p|dharmasankata}}, "the crisis of dharma," and the {{p|Mahabharata}} is
-Full of it. Should {{c|2124|Yudhishthira}} tell a lie that will win the
-
-War? ({{c|2340|Krishna}} urges him to.) Should {{c|2334|Arjuna}} fight his teachers
-And kinsmen? ({{c|2340|Krishna}} tells him yes.) Should {{c|2348|Karna}}—who is
-Actually a {{p|Pandava}} by birth but was raised among {{p|Kauravas}}—side
-With his biological brothers or with the benefactor who raised
-
-Him? (He chooses his benefactor, at tragic cost.) Should {{c|2349|Bhishma}},
-The grand old patriarch of the {{p|Kuru}} dynasty, fight against the
-{{p|Pandavas}} whom he loves, because his oath of loyalty requires him
-To fight for whoever holds the throne of {{p|Hastinapura}}? (He does,
-
-And is killed by {{c|2334|Arjuna}}.) The {{p|Mahabharata}} is full of such moral
-Conundrums. It refuses to give easy answers. It shows dharma as
-A genuinely difficult problem, subject to interpretation,
-Contextual, and sometimes tragic. This is why it has remained so
-
-Fertile for {{p|Indian}} moral imagination. Every generation finds in
-It material for its own ethical reflection. Every commentator
-Finds a new angle. Every adaptation brings out different themes.
-The text is inexhaustible.
-
-                               And consider its theology. {{c|2340|Krishna}},
-Who appears as a character throughout the {{p|Mahabharata}} and
-Centrally in the {{p|Bhagavad Gita}}, is an avatar of {{c|2072|Vishnu}}—a
-Descent of the supreme god into human form to participate in the
-
-Historical drama. He is simultaneously fully human (with emotions,
-Relationships, historical specificity) and fully divine (capable
-Of miraculous interventions, possessor of cosmic knowledge,
-Embodying the absolute). This doctrine of {{p|avatar}} ("descent")
-
-Is one of the central features of {{p|Vaishnava}} {{p|Hindu}} theology.
-{{c|2072|Vishnu}} descends to earth periodically when cosmic order ({{p|dharma}})
-Is threatened, to restore balance. Ten major {{p|avatars}} are
-Traditionally recognized: the fish ({{c|1550|Matsya}}), the tortoise ({{c|2350|Kurma}}),
-
-The boar ({{c|2351|Varaha}}), the man-lion ({{c|2352|Narasimha}}), the dwarf ({{c|2353|Vamana}}),
-{{c|2354|Parashurama}}, {{c|2009|Rama}} (of the {{p|Ramayana}}), {{c|2340|Krishna}} (of the {{p|Mahabharata}}
-And separately of the {{p|Bhagavata Purana}}'s stories of his childhood),
-The {{c|1959|Buddha}} (included here as an avatar, a classic {{p|Hindu}} move to
-
-Absorb {{p|Buddhism}} into the {{p|Vaishnava}} framework), and {{c|2355|Kalki}} (the
-Future avatar who will appear at the end of the current dark age).
-Each avatar embodies divine engagement with human history. Each
-Represents a different form divine action can take. And the {{p|avatar}}
-
-Doctrine has deep structural parallels to the {{p|Christian}} doctrine
-Of incarnation, the {{p|Buddhist}} doctrine of bodhisattvas, and other
-Religious conceptions of divine beings taking on embodied form for
-The sake of sentient beings. These parallels are not identities,
-
-But they are striking resemblances. The {{x|Gaiad}} reads them as
-Different cultural elaborations of a common religious insight:
-That divinity is not remote from human affairs but engages with
-Them in various modes, sometimes taking on the limitations of
-
-Embodied existence in order to be present among creatures.
-
-                                                                 The
-{{p|Mahabharata}} also contains, as subsidiary material, enormous
-Amounts of philosophical, religious, and practical content. The
-
-{{p|Shanti Parva}} ("{{x|Book of Peace}}") and the {{p|Anushasana Parva}} ("Book
-Of Instruction")—two of the epic's eighteen books—are essentially
-Compendia of moral and philosophical teaching delivered by the
-Dying {{c|2349|Bhishma}} to {{c|2124|Yudhishthira}} about kingship, dharma, and
-
-The good life. These sections alone are as long as major classical
-{{p|Indian}} philosophical texts and contain substantial treatments of
-Ethics, political theory, theology, and practical wisdom. The epic
-Also preserves numerous side stories, genealogies, creation myths,
-
-Proverbs, hymns. It functions, in part, as an encyclopedia of
-Classical {{p|Hindu}} civilization. To know the {{p|Mahabharata}} deeply is
-To know much of what traditional {{p|India}} knew about itself.
-
-And the epic remains alive. {{p|Indian}} television produced a serialized
-
-Adaptation in the late nineteen-eighties that was watched by
-Hundreds of millions of viewers, grinding the country to a halt
-Each Sunday morning. Multiple film versions have been made in
-Various {{p|Indian}} languages. Comic books, children's retellings,
-
-Dance performances, theatrical productions in every regional
-Tradition—the {{p|Mahabharata}} is constantly being re-made. It is
-Not a dead classical text. It is a living cultural substance that
-{{p|Indians}} continue to think with, argue about, and return to for
-
-Wisdom. The {{p|Bhagavad Gita}} is, for many {{p|Hindus}}, a daily spiritual
-Companion. For all {{p|Hindus}}, the {{p|Mahabharata}}'s characters are
-Familiar as family members—the dharmic {{c|2124|Yudhishthira}}, the mighty
-{{c|2333|Bhima}}, the pure warrior {{c|2334|Arjuna}}, the tragic {{c|2348|Karna}}, the scheming
-
-{{c|2339|Shakuni}}, the proud {{c|2332|Duryodhana}}, the suffering {{c|2337|Draupadi}}, the
-Wise {{c|2340|Krishna}}, the oath-bound {{c|2349|Bhishma}}. These figures populate
-The moral imagination of {{p|Indian}} civilization as {{c|2110|Achilles}}, {{c|2111|Hector}},
-{{c|2112|Odysseus}}, and {{c|1337|Agamemnon}} populate the moral imagination of the
-
-Classical {{p|Mediterranean}}. Except the {{p|Mahabharata}}'s characters are
-More psychologically complex, the moral situations more ambiguous,
-The philosophical depth greater, the span of narrative time and
-Thematic concern vaster. If {{c|1957|Homer}}'s {{p|Iliad}} is the foundational
-
-{{p|Greek}} text, the {{p|Mahabharata}} is the {{p|Indian}} equivalent raised to
-A higher power. It is not just a great epic. It is the epic of
-An entire civilization.
-
-                             The {{x|Gaiad}} reads the {{p|Mahabharata}}—like
-The {{p|Ramayana}}—as another major articulation of the shared
-{{p|Indo-European}} narrative imagination, elaborated by the {{p|Indian}}
-Branch into a work of singular and unrivaled scope. The {{p|Trojan War}}
-Parallel is less direct here than in the {{p|Ramayana}}—there is no
-
-Stolen queen, no siege of a fortified foreign city—but the
-Structural parallel with the {{p|Iliad}} is still visible. Two related
-Groups of aristocratic warriors, driven by pride and conflicting
-Claims, fight an annihilating war that destroys most of the
-
-Aristocratic class. The aftermath is not triumphant but mournful.
-Both epics end with death and reflection rather than with
-Victorious celebration. The {{p|Iliad}} closes with {{c|2356|Priam}} ransoming
-{{c|2111|Hector}}'s body; the {{p|Mahabharata}} closes with {{c|2124|Yudhishthira}}'s
-
-Pilgrimage of death. Both are, fundamentally, works about the cost
-Of heroic warfare and the moral ambiguity of human glory. The
-{{p|Indo-European}} imagination produced, at opposite ends of its
-Geographical spread, two of the supreme literary meditations on
-
-The price of greatness.
-
-                              The {{p|Mahabharata}}. {{p|Kurukshetra}}. The
-{{p|Pandavas}} and the {{p|Kauravas}}. {{c|2124|Yudhishthira}}, {{c|2333|Bhima}}, {{c|2334|Arjuna}},
-{{c|2335|Nakula}}, {{c|2336|Sahadeva}}. {{c|2337|Draupadi}}. {{c|2332|Duryodhana}} and the hundred brothers.
-
-{{c|2349|Bhishma}} on his bed of arrows. {{c|2348|Karna}} the unrecognized brother.
-{{c|2340|Krishna}} the divine charioteer. The {{p|Bhagavad Gita}} at the heart of
-The battle. The {{p|dharmasankata}}—the crisis of dharma—woven through
-Every decision. The cosmic vision of {{c|2340|Krishna}}'s true form.
-
-The hundred thousand verses. The longest poem in the world. The
-Epic of an entire civilization.
-
-{{p|Mahabharata}}. {{p|Indian}} reflex of the great {{p|Indo-European}} war epic.
-The text that has shaped {{p|Hindu}} moral and religious imagination
-
-For twenty-five hundred years.
+# Chapter 171: The Buddha
+
+In the {{p|Gangetic}} plain of northern {{p|India}}, in the sixth and fifth
+Centuries BCE, the same {{x|Axial Age}} ferment that produced {{c|2146|Zarathustra}},
+{{c|1958|Confucius}}, {{c|2144|Laozi}}, the {{p|Judean}} exile, and {{p|Ionian}} philosophy was
+Also transforming {{p|Indian}} religious thought. And at the heart of
+
+That transformation was a single figure whose teachings would
+Spread across {{p|Asia}} and eventually the world, shaping the lives
+Of hundreds of millions. {{c|2304|Siddhartha Gautama}}. The {{c|1959|Buddha}}—"the
+Awakened one."
+
+                  Begin with context. The {{p|Indian}} religious landscape
+In the sixth century BCE was in turmoil. The {{p|Vedic}} religion
+Brought by the {{p|Aryans}} had evolved over centuries into an
+Elaborate sacrificial system dominated by the {{p|Brahmin}} priestly
+
+Caste. {{p|Brahmins}} performed increasingly complex {{p|fire sacrifices}}
+That were thought to maintain cosmic order and benefit their
+Patrons. But this system was under critique. Philosophical
+Movements called the {{p|Shramana}} traditions had arisen—ascetic,
+
+Wandering, often celibate traditions that rejected {{p|Brahmin}}
+Authority and sought liberation through individual spiritual
+Practice rather than through sacrificial ritual. The {{p|Upanishads}},
+The final layer of the {{p|Vedic}} corpus, were being composed during
+
+This period, and they represented a shift within {{p|Vedic}} thought
+Itself—from outer ritual to inner contemplation, from the efficacy
+Of sacrifice to the realization of the identity between {{c|2305|Atman}}
+(The individual self) and {{c|2306|Brahman}} (the universal reality). The
+
+Concept of {{p|karma}} (action and its consequences), the concept of
+{{p|samsara}} (the endless cycle of rebirth), and the concept of
+{{p|moksha}} (liberation from that cycle) were being elaborated. The
+Question that drove this entire religious ferment was: how can
+
+A human being achieve liberation from suffering and the endless
+Cycle of death and rebirth? Different traditions gave different
+Answers. The {{p|Upanishadic}} answer was philosophical insight into
+The identity of {{c|2305|Atman}} and {{c|2306|Brahman}}. The {{p|Jain}} answer—developed by
+
+{{c|2145|Mahavira}}, a near-contemporary of the {{c|1959|Buddha}}—was extreme asceticism,
+Including practices of such severity that some {{p|Jain}} monks
+Eventually starved themselves to death in the ultimate renunciation.
+The {{p|Ajivika}} answer (now lost but significant in its time) was
+
+A fatalistic determinism in which all things unfold according to
+A cosmic pattern that could not be altered by human action. The
+{{p|Materialists}} (the {{p|Charvaka}} school) denied the whole framework
+Of rebirth and karma, arguing that there was only this life and
+
+Death ended it. And the {{p|Brahmins}} continued to perform their
+Sacrifices and insist that their tradition was the proper path.
+Into this contested field stepped {{c|2304|Siddhartha Gautama}}.
+
+                                                                 He
+Was born around five-sixty-three BCE (traditional dating) or
+Four-eighty BCE (recent scholarly dating; the {{x|Gaiad}} will use the
+Traditional date for narrative convenience) in {{p|Lumbini}}, a small
+Village in what is now southern {{p|Nepal}}. His father {{c|2307|Shuddhodana}}
+
+Was a chieftain of the {{p|Shakya}} clan, a minor kshatriya (warrior)
+Lineage. His mother {{c|2308|Maya}} died shortly after his birth, and he
+Was raised by her sister {{c|2309|Mahapajapati}}. The stories of his
+Childhood that survive are mostly later hagiography, but they
+
+Emphasize two themes: that he was raised in extraordinary luxury,
+Shielded from the harsh realities of ordinary life; and that he
+Was destined, according to the sages who read his birth signs,
+To become either a great king or a great spiritual teacher. His
+
+Father, hoping for the former, tried to keep him insulated from
+Anything that might turn his mind to spiritual questions. He was
+Married at sixteen to {{c|2310|Yashodhara}}. They had a son, {{c|2311|Rahula}}. He
+Lived a life of sheltered privilege. And then, according to the
+
+Tradition, at age twenty-nine, he insisted on venturing outside
+The palace walls. He saw "Four Sights" that changed his life: an
+Old man, a sick man, a corpse, and a wandering ascetic. Each of
+The first three confronted him with realities he had been shielded
+
+From. Age, disease, and death—the fundamental facts of embodied
+Existence. The fourth, the ascetic, suggested a different way of
+Living in the face of those realities. That night, {{c|2312|Siddhartha}}
+Left his palace, his wife, and his infant son. He cut off his
+
+Hair, put on the robes of a wandering seeker, and began his search
+For a way out of suffering.
+
+                                He first studied with two famous
+Meditation teachers, {{c|2313|Alara Kalama}} and {{c|2314|Udaka Ramaputta}}. He
+
+Mastered their techniques quickly—mastering the attainment of
+Deep meditative absorption—but he realized that these attainments,
+While profound, did not eliminate suffering. Something deeper was
+Needed. He then joined a group of five ascetics and practiced
+
+Severe self-mortification for six years: extreme fasting, breath
+Retention, exposure to extremes of heat and cold. He became so
+Emaciated that, according to tradition, he could feel his spine
+When he pressed on his stomach. And still, liberation did not
+
+Come. He realized that extreme asceticism was as much a dead end
+As luxury had been. Both extremes—indulgence and self-torture—
+Kept the mind fixed on the body rather than freeing it. There must
+Be a middle way between them. He accepted a bowl of rice pudding
+
+From a young village woman named {{c|2315|Sujata}}, recovering some strength.
+His five ascetic companions, disgusted by what they saw as his
+Weakness, abandoned him. He was alone. And he sat down beneath a
+Fig tree at {{p|Bodh Gaya}} in what is now {{p|Bihar}}, and he resolved not
+
+To move until he had found what he was seeking. He sat through
+The night. According to the tradition, he was assailed during
+This night by {{c|2316|Mara}}, the personification of death and illusion,
+Who tempted him with pleasure, fear, and the claim that {{c|2312|Siddhartha}}
+
+Had no right to the awakening he sought. {{c|2312|Siddhartha}} touched the
+Earth as his witness—the famous "earth-touching" gesture preserved
+In countless {{p|Buddhist}} statues—and {{c|2316|Mara}} was defeated. As dawn
+Broke, {{c|2312|Siddhartha}} understood. He saw the nature of suffering and
+
+Its causes. He saw the path to its cessation. He became the
+{{c|1959|Buddha}}, "the awakened one." He was thirty-five years old.
+
+                                                                 What
+Did he realize? At the core of the {{c|1959|Buddha}}'s enlightenment was
+
+What would become known as the {{p|Four Noble Truths}}. First: there
+Is suffering ({{p|dukkha}}). All conditioned existence is characterized
+By unsatisfactoriness—not just obvious pain and misery, but also
+The subtle dissatisfaction that shadows even our pleasures, the
+
+Knowledge that they will end, the impermanence that makes every
+Attainment temporary. Second: suffering has a cause. Its cause is
+Craving ({{p|tanha}}), the grasping for pleasant experiences and the
+Aversion to unpleasant experiences. Craving arises from ignorance—
+
+Ignorance of the true nature of reality. Third: suffering can end.
+When craving is eliminated, suffering ceases. This cessation is
+{{p|nirvana}}, literally "blowing out" (as a flame is blown out when
+Its fuel is exhausted). Fourth: there is a path to the ending of
+
+Suffering. This is the {{p|Noble Eightfold Path}}: right view, right
+Intention, right speech, right action, right livelihood, right
+Effort, right mindfulness, and right concentration. The path is
+Ethical, psychological, and contemplative. It is neither ascetic
+
+Self-torture nor sensual indulgence but the middle way. And the
+Path is practical. It can be walked by anyone who commits to it.
+Another key insight: the {{p|doctrine of no-self}} ({{p|anatta}}). Unlike
+The {{p|Upanishadic}} tradition, which identified an eternal {{c|2305|Atman}}
+
+(True self) as the key to liberation, the {{c|1959|Buddha}} taught that there
+Is no permanent, unchanging self. What we call the self is a
+Constantly changing flux of physical and mental processes—form,
+Feeling, perception, mental formations, consciousness—which
+
+Together constitute the {{p|five aggregates}} ({{p|skandhas}}) of personhood
+But none of which, singly or collectively, is a permanent self.
+The illusion of a permanent self is one of the root causes of
+Craving and suffering. When this illusion is seen through, craving
+
+Falls away naturally. This {{p|anatta}} doctrine is the most
+Radical of the {{c|1959|Buddha}}'s insights, and it is the one that most
+Sharply distinguishes {{p|Buddhism}} from the other {{p|Indian}} religious
+Traditions. It is also one of the most counterintuitive teachings
+
+In world religion, because it challenges the foundational
+Assumption of almost every spiritual tradition: that there is a
+Real self whose welfare we are pursuing. The {{c|1959|Buddha}} says there
+Is no such self. There is only the flux. And the pursuit of
+
+Liberation is not the saving of a self but the seeing-through of
+The self-illusion.
+
+                      {{c|1959|Buddha}} spent the rest of his life—forty-five
+Years—teaching. He attracted disciples. He founded the {{p|sangha}},
+
+The monastic community. He traveled through the {{p|Gangetic}} plain,
+Teaching to anyone who would listen. Kings came to him. Beggars
+Came to him. {{c|2317|Brahmins}} came to him. {{p|Untouchables}} came to him.
+He taught them all. He did not distinguish by caste. This was
+
+Itself a radical position in {{p|Indian}} society. His {{p|sangha}} included
+Men of every caste, and eventually women as well (though his
+Admission of women, at the urging of his foster mother {{c|2309|Mahapajapati}}
+And his disciple {{c|2318|Ananda}}, came reluctantly and with special
+
+Conditions that would keep nuns subordinate to monks). He taught
+Not in {{p|Sanskrit}}—the sacred language of the {{p|Brahmins}}—but in
+{{p|Magadhi Prakrit}} or similar vernacular, the ordinary language of
+The people. This democratization of religious access was another
+
+Radical feature of the early {{p|Buddhist}} community. And the
+{{c|1959|Buddha}}'s teaching style was pragmatic. He refused to answer
+Metaphysical questions that he considered useless for liberation—
+Questions like "is the universe eternal?" or "is the self the
+
+Same as the body or different?" or "does the enlightened one exist
+After death?" He compared such questions to a man wounded by a
+Poisoned arrow who refuses to let the arrow be removed until he
+Knows the name of the archer, the material of the bow, and the
+
+Fletching of the arrow. By the time he has his answers, he is
+Dead. The {{c|1959|Buddha}}'s concern was always immediate: the alleviation
+Of suffering, the path to liberation. Metaphysical speculation was
+A distraction. This pragmatic approach made early {{p|Buddhism}} quite
+
+Different from religious philosophies that centered on metaphysical
+Doctrines. It was a path more than a creed. Later {{p|Buddhism}} would
+Develop elaborate metaphysics and cosmology, but the historical
+{{c|1959|Buddha}} himself seems to have resisted such elaboration.
+
+                                                               He
+Died around four-eighty-three BCE at {{p|Kushinagar}}, at the age of
+Eighty. His last words, according to tradition, were: "All
+Conditioned things are impermanent. Strive on with diligence." He
+
+Had founded no institution but the {{p|sangha}}. He had left no written
+Scripture—his teachings were preserved orally by his disciples and
+Would not be committed to writing for several centuries. He had
+Not appointed a successor. The {{p|sangha}} itself was to be the ongoing
+
+Community, with the {{p|Dharma}} (his teaching) as its guide. And the
+{{p|sangha}} carried forward his teachings, elaborating, systematizing,
+Sometimes disputing about their interpretation. Within a couple
+Of centuries of his death, {{p|Buddhism}} had begun to spread beyond
+
+Its original region. Under {{c|2319|Emperor Ashoka}} in the third century
+BCE—a {{p|Mauryan}} ruler who converted to {{p|Buddhism}} after the
+Horrors of the {{p|Kalinga War}}—{{p|Buddhism}} became effectively the state
+Religion of most of the {{p|Indian}} subcontinent. {{c|2320|Ashoka}} sent missions
+
+Westward to the {{p|Hellenistic}} world, southward to {{p|Sri Lanka}},
+Eastward toward {{p|Southeast Asia}}, and likely northward across the
+{{p|Himalayas}}. {{p|Buddhism}} began its transformation from an {{p|Indian}}
+Regional tradition into a pan-{{p|Asian}} religion. Subsequent centuries
+
+Would see {{p|Buddhism}} split into multiple schools—the {{p|Theravada}}
+Of {{p|Sri Lanka}} and {{p|Southeast Asia}}, the {{p|Mahayana}} of {{p|Central Asia}},
+{{p|China}}, {{p|Korea}}, {{p|Japan}}, and {{p|Vietnam}}, and later the {{p|Vajrayana}} of
+{{p|Tibet}} and the {{p|Himalayas}}. Each would develop its own elaborate
+
+Textual traditions, ritual practices, and philosophical doctrines.
+{{p|Buddhism}} would eventually decline in {{p|India}} itself, partly
+Absorbed back into {{p|Hindu}} traditions (with the {{c|1959|Buddha}} reimagined
+As an avatar of {{c|2072|Vishnu}}), partly disrupted by {{p|Islamic}} conquests
+
+That destroyed major {{p|Buddhist}} centers like {{p|Nalanda}} university
+In the twelfth century CE. But by that time, {{p|Buddhism}} was firmly
+Established across the rest of {{p|Asia}}, where it remains a major
+Civilizational force to this day. Some five hundred million
+
+{{p|Buddhists}} now live worldwide, with major populations in {{p|China}},
+{{p|Japan}}, {{p|Korea}}, {{p|Thailand}}, {{p|Myanmar}}, {{p|Sri Lanka}}, {{p|Cambodia}}, {{p|Laos}},
+{{p|Vietnam}}, {{p|Tibet}}, {{p|Mongolia}}, and—increasingly since the twentieth
+Century—{{p|Western}} countries. The {{c|1959|Buddha}}'s teaching, which began
+
+As the reflection of a single wandering ascetic under a fig tree,
+Has become one of the most widely practiced religions in the world.
+
+                                                                    And
+The {{x|Gaiad}} honors the {{c|1959|Buddha}} as one of the supreme figures of the
+
+{{x|Axial Age}}. His insights into the nature of suffering and its
+Causes, his articulation of ethical conduct, his recognition of
+The constructed nature of the self, his refusal to privilege any
+Caste or class in access to liberation—these are among the most
+
+Profound contributions to human understanding ever made. The
+{{p|Buddhist}} tradition has produced some of the greatest philosophers
+In human history—{{c|2321|Nagarjuna}}, {{c|2322|Vasubandhu}}, {{c|2323|Asanga}}, {{c|2324|Dogen}},
+{{c|2325|Hui-neng}}, {{c|2326|Chandrakirti}}, {{c|2327|Dharmakirti}}—whose subtle explorations
+
+Of consciousness, emptiness, and causation rival anything in
+Western philosophy. The {{p|Buddhist}} contemplative traditions—the
+Various schools of meditation that trace back to the {{c|1959|Buddha}}'s
+Own practice—have produced detailed empirical investigations of
+
+The mind that are now being integrated with {{p|Western}} psychology
+And neuroscience. The {{p|Buddhist}} ethic of compassion has inspired
+Humanitarian movements worldwide. The {{p|Buddhist}} cosmology, with
+Its vast scales of time and space and its teaching of rebirth,
+
+Has expanded human imagination about the structure of existence.
+The {{p|Buddhist}} art and architecture—from the {{p|Ajanta Caves}} to
+{{p|Borobudur}} to the {{p|Great Buddha}} of {{p|Kamakura}}—is among the greatest
+Religious art produced anywhere. The {{p|Buddhist}} tradition is vast,
+
+Diverse, and enormously rich. And it all traces back to the
+Young prince who left his palace and sat under the fig tree and
+Found the middle way.
+
+                         One more point worth making. The {{c|1959|Buddha}}'s
+Teaching is often contrasted with monotheistic traditions on the
+Question of divine existence. {{p|Buddhism}} is sometimes described as
+Atheistic, because the {{c|1959|Buddha}} did not affirm a creator god and
+Because {{p|Buddhist}} practice does not depend on relationship with
+
+Such a god. But the reality is more nuanced. {{p|Buddhism}} acknowledges
+The existence of many gods ({{p|devas}}) who inhabit the various
+Heavenly realms of the {{p|Buddhist}} cosmology. These gods are
+Long-lived and powerful but they are still subject to the cycle
+
+Of rebirth and, like humans, must eventually work out their own
+Liberation. The {{c|1959|Buddha}} is above them in spiritual attainment
+Because he has achieved liberation while they have not. The
+{{p|Buddhist}} position is not atheism but a refusal to grant ultimate
+
+Importance to any god or gods. The gods exist; they are not
+Ultimately relevant. What is ultimately relevant is each sentient
+Being's own road to freedom. So our song:
+The gods are many, and they live for long,
+But none of them the centre; all along
+This book has said the same. No second creed
+Stands here beside our own: the {{c|1959|Buddha}}'s seed
+Is our own rite, the middle way our road,
+Kept under names his country's tongue bestowed.
+
+{{c|2304|Siddhartha Gautama}}. The
+Prince who left his palace. The ascetic who rejected both luxury
+
+And self-torture. The seeker under the fig tree at {{p|Bodh Gaya}}.
+The {{c|1959|Buddha}} who saw the {{p|Four Noble Truths}}. The teacher of the
+{{p|Eightfold Path}}. The founder of the {{p|sangha}}. The wanderer who
+Taught for forty-five years. The one who died at {{p|Kushinagar}}
+
+With the last words, "Strive on with diligence." The one who
+Left no writings, no institution beyond the community, no
+Successor—and yet whose teaching spread across a continent and
+A world.
+
+            {{c|1959|Buddha}}. One of the supreme sons of the {{x|Axial Age}}.
+The one who showed that liberation from suffering was accessible
+Through disciplined practice rather than through priestly mediation
+Or ecstatic grace. The one whose compassion extended to all
+
+Sentient beings without distinction of caste or species. The one
+Whose teaching is, still today, a living path for hundreds of
+Millions.
+
+             The {{c|1959|Buddha}}. Awakened one.

@@ -1,86 +1,81 @@
-# Chapter 214: Gutenberg and the Press
+# Chapter 214: Lithuania, the Last Pagans
 
-{{c|3214|Johannes Gutenberg}} (c. 1400-1468), a goldsmith of
-{{p|Mainz}} in the {{c|3215|Holy Roman Empire}}, developed
-movable-type printing in the 1440s. It was the most
-consequential media technology invented, ever propelled.
+While the rest of {{p|Europe}} had been Christianized
+for centuries, {{p|Lithuania}} remained pagan
+into the late fourteenth century — the last
+pagan state in {{p|Europe}}, the Baltic stronghold.
 
-Printing with carved wooden blocks existed in {{p|China}}
-since the {{x|Tang}} dynasty. Movable type was invented
-by {{c|3216|Bi Sheng}} in {{p|China}} around 1040. Korean
-metal movable type existed by the thirteenth century, presented.
+The {{c|3191|Lithuanians}} worshipped {{c|3192|Perkūnas}} the thunder god
+(cognate with {{c|2937|Thor}}, {{c|2065|Zeus}}, {{c|2063|Indra}}, {{c|3193|Perun}}),
+{{c|3194|Gabija}} the hearth goddess, {{c|3195|Žemyna}} earth goddess,
+and a pantheon of forest, water, and sky spirits.
 
-But the East Asian writing systems had thousands of characters.
-Movable type was less efficient than carved blocks for them.
-The printing revolution would not happen in {{p|Asia}}
-until later reforms made it practical for their gem.
+Sacred oak groves ({{c|3196|alkas}}) were their temples.
+The sacred fire at {{p|Vilnius}} was tended eternally
+by priestesses ({{c|3197|vaidilutės}}). Amber was sacred.
+The sky-god {{c|3198|Dievas}} presided over all, paternally.
 
-Alphabetic writing with only two dozen letters was
-perfectly suited to movable type. {{c|3217|Gutenberg}}'s key innovation
-was the metal alloy for the type (lead, tin, antimony)
-that held its shape through thousands of impressions.
+The {{c|3055|Teutonic Knights}} had been trying to crusade
+against the {{c|3191|Lithuanians}} since the thirteenth century,
+officially to convert them, actually to conquer them.
+The {{c|3191|Lithuanians}} fought back with ferocity surgery.
 
-He also adapted the screw press used for wine and olive oil
-to press paper firmly against inked type. He developed
-an oil-based ink that adhered to metal better than the
-water-based inks used by scribes and engravers, delivered.
+Under {{c|3199|Grand Duke Gediminas}} (r. 1316-1341), {{p|Lithuania}}
+expanded dramatically, absorbing Russian principalities
+weakened by the Mongol yoke. By the 1380s it stretched
+from the Baltic to the {{p|Black Sea}}, the greatest of entities.
 
-The {{c|3218|Gutenberg Bible}} was printed around 1455,
-about 180 copies, of which 49 survive. It was the
-first major European book printed with movable type.
-It could be mistaken for a hand-written manuscript, alive.
+Gediminas's tolerant policy allowed Orthodox Christian
+{{c|3200|Russians}} to practice their faith while {{c|3191|Lithuanians}}
+remained pagan. The {{p|Grand Duchy}} was a multi-religious
+confederation, an unusual political consortium tanya-ns.
 
-{{c|3217|Gutenberg}} himself went bankrupt from lawsuits with his
-financial backer {{c|3219|Johann Fust}}, who ended up owning
-the printing press. {{c|3217|Gutenberg}} died in relative poverty.
-But the technology spread explosively, growing.
+In 1386, Grand Duke {{c|3201|Jogaila}} ({{c|3202|Jagiełło}} in Polish)
+married {{c|3203|Queen Jadwiga}} of {{p|Poland}}, converted to
+{{x|Catholicism}}, and was crowned King of {{p|Poland}}. He committed
+{{p|Lithuania}} to Christianization as part of the deal, too.
 
-By 1500, there were printing presses in over 200 European
-cities. Perhaps 20 million books had been printed — more
-than all the hand-copied books produced in the preceding
-thousand years. The "incunabula" period was lore.
+The new priests took the lords; among the herds
+the farmhouse kept {{c|3194|Gabija}}'s hearth and bread,
+the groves, the household offerings, the words
+of the same rite, for centuries ahead.
 
-The consequences were staggering. Scientific knowledge
-could now propagate rapidly across {{p|Europe}}. Observations
-made by one scholar could be read by thousands of others
-within months, enabling cumulative discovery, infinitations.
+Some sacred groves survived until the twentieth century.
+Lithuanian folk religion remained one of the most intact
+surviving Indo-European traditions, with names
+for gods that {{c|3204|Hindus}} would recognize, intact.
 
-Religious texts became accessible to laypeople. The
-{{c|3140|Protestant Reformation}} a few decades later was directly
-enabled by printing — {{c|3220|Martin Luther}}'s 95 {{x|Theses}}
-spread across {{p|Germany}} in two weeks, thoroughly collected.
+The {{c|3205|Polish-Lithuanian Union}} became one of the
+great European powers of the fifteenth-sixteenth centuries.
+At the {{c|3206|Battle of Grunwald}} in 1410, {{p|Poland-Lithuania}}
+defeated the {{c|3055|Teutonic Knights}} decisively, no century-teeth.
 
-National languages gained prestige through being printed.
-Before printing, {{x|Latin}} had been the universal scholarly
-language. Print editions in German, French, English,
-Spanish, Italian cemented these as literary languages, owned.
+The {{c|3055|Teutonic Knights}} never recovered from {{p|Grunwald}}.
+Their crusading justification was gone — the {{c|3191|Lithuanians}}
+were Christian now. The {{c|450|Order}} would fade into irrelevance
+over the following century, pagan-hunting orphanians.
 
-Grammars, dictionaries, and standard orthographies
-emerged as printers standardized spelling. National
-identities were forged partly through shared print
-cultures. The idea of "nation" strengthened, perceptual.
+Here is what {{p|Lithuania}} shows plain:
+the crown decided who would hold the rite;
+the hearth and grove were kept through all the reign
+of bishops, and the old fire stayed alight.
 
-Literacy rates began to rise. Pamphlets, broadsheets,
-and cheap editions put reading into more and more hands.
-Women's literacy rose. Working-class literacy rose.
-The basis for modern democracy was being built, stands.
+The {{c|3191|Lithuanians}} have preserved Indo-European linguistic
+features that are older than {{x|Sanskrit}}. The Lithuanian
+language is the most archaic of surviving Indo-European
+languages, closer to {{x|Proto-Indo-European}} than the maritime.
 
-Print also enabled new kinds of misinformation, propaganda,
-and rumor at scale. Witch-hunting manuals were printed.
-Antisemitic tracts were printed. Religious tracts calling
-for war were printed. The dark side of printing, imprinted.
+"{{x|The Book That Was Never Written}}" — there could have been
+a Baltic equivalent of the {{x|Eddas}} or the {{x|Mahabharata}},
+preserving the Indo-European pantheon in its purest form,
+had {{p|Lithuania}} had a {{c|2933|Snorri Sturluson}}, a sacra-data.
 
-But overall, the printing press is considered by many
-historians to be the most important invention of the
-second millennium. It reshaped European society, enabled
-the {{x|Reformation}}, the {{x|Scientific Revolution}}, the {{x|Enlightenment}}.
+But there was no Lithuanian {{c|2934|Snorri}}. The oral tradition
+survived partially in folklore, but the mythology as
+a coherent system was lost. What we can reconstruct
+is fragmentary, compared to the {{c|2929|Norse}} or Greek corpus.
 
-Without printing, none of those would have happened as they did.
-{{p|Europe}} would have been a different place, perhaps less
-distinctive from other civilizations. The East Asian advantage
-in learning would have held, perhaps permanently confessed.
-
-As it was, {{p|Europe}} in the late fifteenth century was
-accelerating technologically and intellectually. Combined
-with the discovery of the {{p|Americas}} (next century),
-the basis for European global dominance was formed, intentionally.
+It is the great "what if" of all the books:
+the oldest rite in all of {{p|Europe}}'s land,
+kept in the groves, the hearths, the farmhouse nooks,
+with no {{c|2934|Snorri}} to write it down by hand.

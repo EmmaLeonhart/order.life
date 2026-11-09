@@ -1,121 +1,86 @@
-# Chapter 190: Jimmu to Jingū
+# Chapter 190: Ethiopia
 
-In the island kingdom of {{p|Japan}},
-the legendary first emperor {{c|2708|Jimmu}}
-is said to have descended from {{c|885|Amaterasu}}
-through a line of gods at their minimum.
+South of {{p|Egypt}}, past the cataracts,
+past {{p|Kush}} and {{p|Meroe}}'s pyramid dead,
+the {{p|Kingdom of Aksum}} rose in highland
+of what is now {{p|Ethiopia}}'s head.
 
-Six-sixty BCE is the traditional date
-for {{c|2708|Jimmu}}'s eastern expedition from {{p|Kyushu}}
-to the {{p|Yamato}} plain, where he founded
-the imperial line that {{p|Japan}} would issue.
+They traded with {{p|Rome}}, {{p|India}}, {{p|Arabia}},
+from {{p|Adulis}} on the {{p|Red Sea}} coast.
+Their script was {{c|2630|Ge'ez}}, their language Semitic,
+cousin of {{x|Arabic}} from distant host.
 
-Historically, the date is far too early.
-The {{x|Yayoi}} rice-culture people had barely arrived.
-The {{p|Yamato}} state would not coalesce
-until several centuries after this contrived.
+{{c|2631|Ezana}}, king in the fourth century,
+converted to {{x|Christianity}} around
+three-thirty, through the Syrian missionary
+{{c|2632|Frumentius}}, captured then renowned.
 
-But the myth sets the frame: the imperial line
-descends from the sun goddess through her grandson
-{{c|2709|Ninigi}} who came down to {{p|Mount Takachiho}}
-carrying the {{x|Three Sacred Treasures}} begun:
+{{c|2632|Frumentius}} had been shipwrecked as a boy,
+served in the royal court, was trusted,
+returned to {{p|Alexandria}} and was consecrated
+bishop by {{c|2633|Athanasius}}, who encrusted
 
-the mirror {{x|Yata no Kagami}},
-the sword {{c|2710|Kusanagi}} (taken from the tail
-of the eight-headed serpent {{c|2711|Yamata no Orochi}}
-by {{c|2712|Susanoo}} in myth's oldest detail),
+him with authority to evangelize.
+He returned to {{p|Ethiopia}} and preached.
+{{c|2631|Ezana}} became Christian, and the kingdom
+became the second Christian state reached.
 
-and the jewel {{x|Yasakani no Magatama}}.
-These three still exist, kept in the shrines' stead,
-as the imperial regalia of {{p|Japan}},
-passed down through seventy centuries' tread.
+(After {{p|Armenia}}. Before {{p|Rome}}.
+{{p|Ethiopia}} was the second nation
+in history to adopt {{x|Christianity}}
+as its official state declaration.)
 
-{{c|2708|Jimmu}}'s great-grandfather was {{c|2709|Ninigi}}.
-{{c|2708|Jimmu}}'s grandmother was {{c|2713|Toyotamahime}},
-daughter of the sea dragon god, who bore
-{{c|2714|Ugayafukiaezu}}, {{c|2708|Jimmu}}'s father, extremely.
+And at {{p|Chalcedon}} in four-fifty-one
+the bishops split on how the {{c|1497|Christ}} was made:
+"Two natures," {{p|Rome}}; {{p|Alexandria}}, "one,"
+and {{p|Aksum}}'s bishop, sent from there, obeyed.
 
-So {{c|2708|Jimmu}} has divine lineage both through
-the sun goddess {{c|885|Amaterasu}} above
-and through the sea dragon gods below.
-He is sky and sea, embraced by both's love.
+It was one church that fought over a throne:
+which patriarch would say the creed for all.
+The {{c|2634|Copts}}, the {{c|2635|Syrians}} held to their own
+with {{c|2636|Ethiopians}}, a single hall.
 
-He marched east from {{p|Kyushu}}, subduing
-local chieftains, defeating rivals as he went.
-At {{p|Kashihara}} in the {{p|Yamato}} plain
-he founded the capital, his tent.
+{{p|Ethiopia}} has a tradition that the {{c|2637|Ark of the Covenant}}
+rests at {{p|Aksum}} in the Church of {{p|St. Mary of Zion}},
+brought there by {{c|2638|Menelik I}}, son of
+{{c|2189|Solomon}} and {{c|2212|Sheba}}, the kebra nagast scion.
 
-He ascended the throne there, we are told,
-on February 11 of 660 BCE.
-This date became {{p|Japan}}'s {{x|National Foundation Day}},
-a holiday ever since, at least in theory.
+The {{x|Kebra Nagast}}, "{{x|Glory of the Kings}},"
+tells how the {{c|2639|Queen of Sheba}} visited {{c|2189|Solomon}},
+bore his son {{c|2640|Menelik}}, who returned to {{p|Ethiopia}}
+taking the {{c|2641|Ark}} back to his own dominion.
 
-For centuries after, the emperors listed
-are largely legendary or semi-so.
-The tenth emperor {{c|2715|Sujin}} may be
-the first with some historical glow.
+And this is true, as the faithful knew:
+the Ethiopian royal line claimed descent
+from {{c|2189|Solomon}} for three thousand years
+until {{c|2642|Haile Selassie}}'s twentieth-century bent.
 
-The twelfth, {{c|2716|Keikō}}, had a son {{c|2717|Yamato Takeru}},
-the culture hero who conquered the eastern {{c|2718|Emishi}},
-who killed his brother in his father's bathroom,
-was sent to die on difficult missions barely.
+{{p|Ethiopia}} was never colonized
+in the nineteenth-century {{x|Scramble for Africa}} —
+held off the {{c|2643|Italians}} at {{p|Adwa}} in 1896,
+the only African state that defeated {{p|Europa}}.
 
-He received {{c|2710|Kusanagi}} from his aunt
-{{c|2719|Yamatohime}}, priestess of {{c|885|Amaterasu}} at {{p|Ise}}.
-He used it to cut grass in a fire trap set by enemies,
-saving his life, naming the sword "grass-cutter" in simplicity.
+The country has Jewish communities too,
+the {{c|2644|Beta Israel}}, who practice a {{x|Judaism}}
+older than the {{x|Talmud}}, based on the {{x|Torah}},
+preserved in highland isolation from racism.
 
-His son or nephew (accounts vary) {{c|2720|Chuai}}
-was the fourteenth emperor, who died young,
-leaving his pregnant queen {{c|2721|Jingū}} to rule.
-She is the great semi-historical warrior tongue.
+Most were airlifted to {{p|Israel}} in the 1980s
+in {{x|Operations Moses and Solomon}}.
+A three-thousand-year lineage exiled
+to the ancestral homeland at last come.
 
-{{c|2722|Empress Jingū}} led an invasion of {{p|Korea}}
-while pregnant with the future emperor {{c|2723|Ojin}}.
-She held the birth back three years by
-tying stones to her waist, the legend's imagine.
+{{p|Aksum}} declined in the seventh century
+as the rise of {{x|Islam}} cut trade routes.
+The kingdom moved south and became
+the medieval Ethiopian kingdom of roots.
 
-She conquered the Korean kingdoms (or received
-their tribute), returning triumphant
-to bear {{c|2723|Ojin}}, who would be deified as
-{{c|2724|Hachiman}}, god of war, the most welcomed triumphant.
+{{c|2645|Lalibela}} in the twelfth century
+would carve eleven churches from solid rock,
+each one hewn down from a single stone,
+a {{x|New Jerusalem}}, a pilgrim's dock.
 
-Modern historians are skeptical of {{c|2721|Jingū}}'s
-Korean invasion. But there was certainly
-contact with Korean kingdoms {{p|Baekje}}, {{p|Silla}}, {{p|Gaya}},
-trade, migration, cultural transfer apparently.
-
-From Baekje came writing, {{x|Confucianism}}, {{x|Buddhism}}
-into {{p|Japan}} — {{x|Buddhism}} officially in 538 or 552,
-though private transmission was earlier.
-From Gaya came iron, craftsmen, immigrant troops.
-
-The {{c|2725|Yamato}} court was consolidating
-in the fourth and fifth centuries, building
-the massive {{c|2726|kofun}} burial mounds,
-the largest tombs in the world, filling.
-
-The {{c|2727|Daisenryō Kofun}} attributed to
-emperor {{c|2728|Nintoku}} is longer than the {{p|Great Pyramid}},
-though lower — a 486-meter keyhole shape
-of earth and stone, for the imperial pyramid.
-
-These burial mounds mark the emergence
-of a centralized state in the Japanese archipelago,
-absorbing Korean immigrants, Chinese influence,
-building toward what would become emperor {{p|Yamato}}.
-
-Two clans, one court. The {{c|2729|Soga clan}} would raise
-the Buddha's hall beside the kami's days;
-and the {{c|2730|Mononobe clan}} would keep the rite
-in its own hands, and both would go to fight.
-
-In five-eighty-seven the {{c|2731|Soga}} won,
-and court and temple and the shrine were one:
-the Buddha and the kami of the sun,
-{{x|Shinto}} with {{x|Buddhism}}, a rite begun.
-
-The {{x|Kofun}} period was ending. The {{x|Asuka}} period
-beginning. The constitution of {{c|2732|Prince Shōtoku}}
-in 604 would organize the state
-along Chinese lines — the shape we still see.
+{{p|Ethiopia}}'s story is the African Christian kingdom,
+ancient, persistent, mystical, strange,
+isolated but connected, deeply rooted,
+surviving every political change.

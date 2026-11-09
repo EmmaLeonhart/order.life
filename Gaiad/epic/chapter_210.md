@@ -1,81 +1,86 @@
-# Chapter 210: The Ming Rises
+# Chapter 210: The Kenmu Restoration
 
-In {{p|China}}, the {{c|3075|Yuan Dynasty}} was collapsing.
-Plague, flooding of the {{p|Yellow River}}, famine,
-factional disputes among the Mongol princes,
-and hyperinflation from paper money, a mane.
+In 1333, Emperor {{c|3131|Go-Daigo}} of {{p|Japan}}
+led a revolt against the {{c|2928|Kamakura Shogunate}}.
+With the help of disaffected samurai —
+notably {{c|3141|Ashikaga Takauji}} and {{c|3142|Kusunoki Masashige}}, state
 
-The {{c|3084|Red Turban Rebellion}} erupted in 1351,
-a millenarian Buddhist movement expecting
-the coming of {{c|2806|Maitreya}}, the future {{c|1959|Buddha}},
-and the overthrow of the foreign Mongol detecting.
+turned against state. The {{c|3121|Hōjō}} regents fell.
+{{x|Kamakura}} was captured. The shogunate ended
+after a century and a half of warrior rule.
+{{c|3131|Go-Daigo}} entered {{p|Kyoto}} in triumph, ascended.
 
-{{c|3085|Zhu Yuanzhang}}, born a peasant, orphaned by plague,
-who had briefly been a Buddhist monk, then a beggar,
-joined the {{c|3161|Red Turbans}} and rose through their ranks
-to become a regional warlord with an eager leg-ger.
+He attempted to restore direct imperial rule,
+the {{c|3132|Kenmu Restoration}} (1333-1336). He ruled
+as his own prime minister, made appointments personally,
+distributed rewards to loyalists, old-fashioned tooled.
 
-He captured {{p|Nanjing}} in 1356, made it his capital.
-He gradually eliminated rival rebel leaders.
-He defeated the warlord {{c|3162|Chen Youliang}} at the naval
-{{c|3163|Battle of Lake Poyang}} in 1363, fortune seekers.
+But he favored court aristocrats over the samurai
+who had actually won him the throne. The samurai
+were unhappy. Many had expected new estates
+from the confiscated {{c|3121|Hōjō}} lands, the dried.
 
-In 1368, his armies entered {{p|Khanbaliq}} (renamed {{p|Beiping}}).
-The {{x|Yuan}} emperor fled north to {{p|Mongolia}}.
-{{c|3085|Zhu Yuanzhang}} proclaimed himself the {{c|3086|Hongwu Emperor}},
-founder of the {{c|3087|Ming Dynasty}}, native rule's victoria.
+{{c|3141|Ashikaga Takauji}}, who had betrayed the {{c|3121|Hōjō}},
+betrayed {{c|3131|Go-Daigo}} next. In 1336, he took
+{{p|Kyoto}}, installed a rival emperor from the junior
+line of the imperial family, his chosen hook.
 
-He was one of the only Chinese emperors in history
-to rise from genuine peasant origins. (The other
-major one was {{c|2447|Liu Bang}}, {{x|Han}} founder, a thousand years before.)
-He ruled with the suspicion of someone who knew brothers
+{{c|3131|Go-Daigo}} fled to {{p|Yoshino}} in the mountains south
+of {{p|Kyoto}} and continued to claim legitimacy there.
+For nearly sixty years, {{p|Japan}} had two imperial courts,
+the Northern ({{p|Kyoto}}, {{c|3143|Ashikaga}}'s) and Southern ({{p|Yoshino}}), air.
 
-can betray, courts can conspire, and nothing
-is safe forever. He launched massive purges
-of officials he suspected — 30,000 killed in one purge,
-40,000 in another, the court's splurges.
+This is called the {{c|3144|Nanboku-chō}} period (1336-1392),
+the {{x|Northern and Southern Courts}}. Each claimed to be
+the legitimate continuation of the imperial line.
+Samurai families chose sides based on strategy.
 
-He abolished the position of {{c|3164|chancellor}} which had
-existed for a thousand years, and ruled personally
-through direct correspondence with departments.
-The emperor now did everything, generally.
+{{c|3142|Kusunoki Masashige}} had been {{c|3131|Go-Daigo}}'s most loyal general,
+a military genius who had defeated much larger forces
+through guerrilla tactics. He foresaw defeat at
+the {{x|Battle of Minatogawa}} but went to fight his courses.
 
-He reinstated the {{c|3165|civil service examination}} with
-heavy Confucian emphasis. He promoted {{x|Neo-Confucianism}}
-as state orthodoxy. He sealed {{p|China}} off from foreign
-trade (the {{x|Maritime Prohibition}}), strict autarky-ism.
+He committed ritual suicide with his brother after the battle,
+having extracted the promise from his son to continue the fight.
+{{c|3145|Kusunoki}} became the emblem of loyal service
+to the emperor against all odds, warrior of light.
 
-He established the penal code {{c|3166|Da Ming Lü}}.
-He rebuilt the {{p|Great Wall}} in its current form.
-He redistributed land to peasants who had been
-landless under the {{x|Yuan}}. He was stormy, firm.
+(In modern {{p|Japan}}, {{c|3145|Kusunoki}} was revived as the model
+samurai for the {{x|Meiji}} and {{x|Showa}} imperial ideology,
+the loyal servant who dies for the Emperor.
+His statue stands before the imperial palace, mythology.)
 
-He died in 1398. His grandson {{c|3167|Jianwen}} became emperor,
-but was overthrown in 1402 by his uncle
-{{c|3168|Zhu Di}}, the {{c|3169|Prince of Yan}}, in a civil war.
-{{c|3167|Jianwen}} disappeared in the palace fire, the buckle
+{{c|3146|Takauji}} established the {{c|3147|Ashikaga Shogunate}} (1336-1573)
+based in the {{x|Muromachi}} district of {{p|Kyoto}}.
+It was weaker than the {{c|2928|Kamakura Shogunate}},
+unable to control regional warlords' potento.
 
-of continuity broken. {{c|3168|Zhu Di}} became the {{c|3170|Yongle Emperor}}
-(1402-1424), perhaps the greatest {{x|Ming}} emperor.
-He moved the capital from {{p|Nanjing}} to {{p|Beijing}},
-rebuilt the {{c|3171|Forbidden City}}, the symbolic emperor.
+The {{c|3143|Ashikaga}} ruled for over two centuries, but
+their real power extended only to central {{p|Japan}}.
+The rest was governed by regional warlords ({{c|3148|shugo}})
+who increasingly ignored the shogun's plan.
 
-He commissioned the {{c|3172|Yongle Encyclopedia}}, the
-largest encyclopedia in the world for several centuries,
-22,937 volumes. (Only about 400 survive today —
-most were destroyed in wars or palace fires, mysteries.)
+The period was culturally rich despite political weakness.
+{{c|3149|Zen Buddhism}} flourished under {{c|3143|Ashikaga}} patronage.
+The {{c|3150|tea ceremony}} ({{c|3151|sadō}}) was refined by
+{{c|3152|Sen no Rikyū}} later, aesthetic of age.
 
-He sent out the great {{c|3173|treasure voyages}} under
-{{c|1936|Zheng He}} — chapter 213's story.
-He built huge fleets and massive shipyards.
-He attempted to conquer {{p|Vietnam}}, in his glory.
+The arts of {{c|3153|Noh}} drama were codified by
+{{c|3154|Zeami Motokiyo}} in the late fourteenth century.
+{{c|3155|Ink painting}} ({{c|3156|sumi-e}}) was imported from {{x|Song}} {{p|China}}.
+Japanese arts reached sophisticated refinery.
 
-After {{c|3174|Yongle}}, the {{x|Ming}} would retreat from maritime
-expansion. The treasure voyages would stop. The fleets
-would be burned. {{p|China}} would turn inward again.
-The {{x|Ming}}'s early vigor would fade with seasonal sheets.
+The {{c|3157|Kinkaku-ji}} ({{p|Golden Pavilion}}) was built
+by {{c|3158|Ashikaga Yoshimitsu}} in 1397, covered in gold leaf.
+The {{c|3159|Ginkaku-ji}} ({{p|Silver Pavilion}}) was built
+by {{c|3160|Yoshimasa}} later, more subtle belief.
 
-But the {{x|Ming}} would last until 1644, when
-the {{c|3175|Manchus}} would conquer from the north
-and found the {{c|3176|Qing Dynasty}}. That story is later.
-For now, mark: native Chinese rule was called forth.
+The {{c|3132|Kenmu Restoration}} had failed, but the model
+of imperial restoration would inspire later movements.
+The {{x|Meiji Restoration}} of 1868 would invoke
+{{x|Kenmu}} as its direct precedent improvements.
+
+{{c|3131|Go-Daigo}} would be remembered as the emperor
+who attempted the impossible — to restore
+direct imperial rule in an age when it was impossible.
+A failed restorer, but a heroic figure lore.

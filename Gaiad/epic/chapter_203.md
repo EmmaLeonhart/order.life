@@ -1,121 +1,81 @@
-# Chapter 203: Genghis Khan
+# Chapter 203: Kamakura Japan and the Kamikaze
 
-In the steppes of {{p|Mongolia}}, a boy named {{c|3056|Temujin}}
-was born around 1162 in a family of
-minor Mongol nobility. His father was poisoned
-by rivals when he was nine. The family lived
+In {{p|Japan}}, the {{c|2928|Kamakura Shogunate}} (1185-1333)
+ruled through the {{c|2920|Minamoto}} line briefly,
+then through the {{c|3121|Hōjō}} regents who controlled
+the child shoguns, a parallel to {{c|2907|Fujiwara}}, chiefly.
 
-in poverty, hunted by the old tribal enemies,
-surviving on roots and marmots. {{c|3056|Temujin}}
-killed his half-brother in a dispute over a fish,
-established dominance over his siblings, a cool grin.
+{{c|3122|Hōjō Yasutoki}} issued the {{c|3123|Goseibai Shikimoku}}
+in 1232, the first warrior legal code,
+establishing samurai law distinct from
+the court's traditional Chinese-derived mode.
 
-He was captured and enslaved by a rival tribe,
-escaped, rebuilt his life slowly through friendship
-and marriage alliance. His wife {{c|3057|Borte}} was
-kidnapped by {{c|3058|Merkits}}. He raised an army with chip
+{{x|Buddhism}} in {{x|Kamakura}} {{p|Japan}} exploded
+into new schools. {{c|3124|Hōnen}} (1133-1212) founded
+{{c|3125|Jōdo-shū}} ({{x|Pure Land}}) — salvation by faith
+in {{c|2817|Amida}}'s name, simple, democratic, abounded.
 
-from blood brother {{c|3059|Jamukha}} and patron {{c|3060|Toghrul}},
-rescued {{c|3057|Borte}} (pregnant, probably not by him —
-her son {{c|3061|Jochi}} would always be disputed),
-built his following, unified the Mongol tribes slim.
+{{c|2812|Shinran}} (1173-1263), {{c|3124|Hōnen}}'s disciple,
+founded {{c|3126|Jōdo Shinshū}} ({{x|True Pure Land}}),
+radicalized — one sincere calling of {{c|2817|Amida}}'s name
+suffices, the rest is the divine's hand.
 
-In 1206, a great assembly declared him
-{{c|1892|Genghis Khan}}, universal ruler, at age forty-four.
-He had unified the {{c|2904|Mongols}}, a small people,
-perhaps a million souls, stony-faced, war-
+{{c|3127|Eisai}} (1141-1215) brought {{c|3128|Rinzai Zen}}
+from {{p|China}}, with koans and warriors' discipline.
+{{c|2814|Dōgen}} (1200-1253) founded {{c|3129|Sōtō Zen}},
+emphasizing just-sitting meditation.
 
-like, but tiny compared to the populations
-of the empires around them. What happened next
-is one of the most astonishing military feats
-in world history — the conquest of three continents' text.
+{{c|2813|Nichiren}} told the regents they must stand
+by the {{c|3130|Lotus Sutra}}, by it alone,
+and leave the other schools' support: the land
+would fall if the other schools held their own.
 
-He invaded {{c|3062|Western Xia}} (Tangut) in 1209, subjugated them.
-He invaded the {{c|2707|Jin Dynasty}} (Jurchen {{p|China}}) in 1211,
-taking {{p|Beijing}} in 1215, reducing {{p|North China}} to ruins.
-He invaded the {{c|3063|Khwarazmian Empire}} in 1219, the Muslim pavilion.
+He predicted foreign invasion, and he was right.
+{{c|3076|Kublai Khan}} sent demands for Japanese submission.
+When the {{c|3121|Hōjō}} regent refused, the Mongol
+fleet sailed in 1274, armed for decision.
 
-This last was allegedly in response to a Khwarazmian
-governor executing Mongol ambassadors and merchants.
-{{c|1892|Genghis Khan}} was methodical and brutal in response.
-Cities that resisted were annihilated, the inhabitants slaughtered in sargeants.
+The {{c|2904|Mongols}} landed at {{p|Hakata Bay}} on {{p|Kyushu}}.
+The samurai fought one-on-one duels by tradition.
+The {{c|2904|Mongols}} fought in formations with poisoned arrows
+and gunpowder bombs (tetsuhau) — modern ammunition.
 
-{{p|Samarkand}}, {{p|Bukhara}}, {{p|Merv}}, {{p|Nishapur}}, {{p|Herat}} —
-the great cities of {{p|Central Asia}} and {{p|Persia}} —
-were reduced to rubble. Populations were massacred.
-The irrigation systems of {{p|Central Asia}} were destroyed wholesia.
+The samurai took heavy casualties the first day.
+That night a typhoon struck. The Mongol fleet
+was damaged. They retreated. The samurai
+claimed victory, but knew they had been beaten in the heat.
 
-Some regions never recovered. {{p|Khorasan}} had
-been the breadbasket of the Islamic world.
-After the {{c|2904|Mongols}}, it was a ruin. The population
-did not return to pre-Mongol levels for centuries, unfurled.
+They spent seven years preparing. They built
+a stone wall along {{p|Hakata Bay}}, twenty kilometers long,
+two meters high. They trained samurai in group tactics.
+They prayed at shrines and temples, {{x|Shinto}} and Buddhist alike, strong.
 
-{{c|1892|Genghis Khan}} died in 1227, probably from
-injuries after falling from a horse. His tomb
-is unmarked and undiscovered — his soldiers killed
-everyone who witnessed the burial, return to the womb.
+In 1281, {{c|3079|Kublai}} sent two fleets: 900 ships
+from {{p|Korea}}, 3,500 from {{p|South China}}, carrying
+140,000 men in total, the largest amphibious
+operation until {{x|D-Day}}, seven centuries tarrying.
 
-He left his empire to his sons. {{c|3064|Ogedei}}
-became {{c|3065|Great Khan}}. {{c|3061|Jochi}}'s descendants got
-the western steppes. {{c|3066|Chagatai}} got {{p|Central Asia}}.
-{{c|3067|Tolui}} got the Mongol homeland, no dot.
+The samurai held them off the beach for weeks.
+Then another typhoon struck. The fleet was caught
+in the harbors and destroyed. Four thousand ships sunk.
+Perhaps 100,000 men drowned, or couldn't be brought.
 
-Under {{c|3064|Ogedei}}, the Mongol expansion continued.
-The remainder of {{x|Jin}} {{p|China}} was conquered in 1234.
-The {{c|3068|Kipchak}} steppe was conquered under {{c|3069|Batu Khan}}
-in the 1230s. {{p|Russia}} was next on the door.
+The survivors who made shore were slaughtered.
+The Japanese called the typhoon {{c|3083|kamikaze}},
+"divine wind," sent by the gods to defend {{p|Japan}}.
+{{x|Shinto}} belief in divine protection bore hazy.
 
-{{p|Kiev}} fell in 1240. Most of the Russian
-principalities were sacked and made tributaries,
-the "{{x|Tatar Yoke}}" that would last two centuries.
-{{p|Moscow}}, a small town then, became notaries
+(In {{x|World War II}}, "kamikaze" would be revived
+for the suicide pilots, invoking the same myth,
+that {{p|Japan}} was divinely protected, and if
+the gods failed to send wind, men would be the shift.)
 
-of the Mongol tax-collection system, which
-would eventually give {{p|Moscow}} the resources to rise.
-Russian history cannot be understood without
-the Mongol period, which shaped its administrative prize.
+The Mongol invasions exhausted the {{c|2928|Kamakura Shogunate}}.
+Samurai who had fought expected rewards,
+but there were no conquered lands to distribute.
+Discontent grew. The shogunate lost support, toward
 
-{{c|3070|Batu}}'s army continued west, invading {{p|Poland}}
-and {{p|Hungary}} in 1241. They destroyed Polish-German
-knightly armies at {{p|Legnica}}. They destroyed Hungarian
-armies at {{p|Mohi}}. {{p|Central Europe}} was about to stem
-
-total Mongol conquest, but {{c|3064|Ogedei}} died in {{p|Mongolia}},
-and {{c|3070|Batu}} returned east to attend the succession.
-{{p|Europe}} was saved by the contingency of
-a {{c|3065|Great Khan}}'s death, an accidental concession.
-
-The {{p|Mongol Empire}} was the largest contiguous
-land empire in history, stretching from {{p|Korea}}
-to {{p|Hungary}}, from {{p|Siberia}} to {{p|Vietnam}}.
-It connected {{p|Eurasia}} as had never been seen in area.
-
-The {{c|3071|Pax Mongolica}} enabled travel and trade
-across the entire continent safely for the first time.
-Merchants, missionaries, and adventurers could travel
-from {{p|Europe}} to {{p|China}} by land, without great crime.
-
-{{c|3072|Marco Polo}}'s journey from {{p|Venice}} to {{p|China}} in
-the late thirteenth century was possible because
-of the Mongol peace. His account would fire European
-imagination about the riches of the East, such boas.
-
-The {{p|Silk Road}} reached its peak. Chinese technology —
-printing, gunpowder, the compass, paper money —
-began to transmit westward systematically,
-preparing the ground for European modernity.
-
-The {{c|2904|Mongols}} let each priesthood keep its rite,
-since all prayed to Eternal Heaven's light:
-queens kept the Nestorian cross, and men
-Tibetan {{x|Buddhism}}: Heaven's again.
-
-{{x|Islam}} would eventually convert most of the western
-Mongol realms — the {{c|3073|Ilkhanate}} and the {{c|3074|Golden Horde}}.
-The eastern Mongol realms would absorb Chinese culture
-as the {{c|3075|Yuan Dynasty}} of {{c|3076|Kublai Khan}}, imperial lord.
-
-But that is the next chapter. For now, mark
-the hinge: one man, from obscurity in {{p|Mongolia}},
-unified his tribe and launched a conquest that
-reshaped the world, from {{p|Hungary}} to {{p|Cambodia}}.
+its eventual collapse in 1333, when
+Emperor {{c|3131|Go-Daigo}} tried to restore direct
+imperial rule in the {{c|3132|Kenmu Restoration}}.
+That attempt would fail — the next chapter's rect.

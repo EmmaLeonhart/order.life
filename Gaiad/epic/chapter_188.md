@@ -1,96 +1,81 @@
-# Chapter 188: The Fall of Han
+# Chapter 188: Armenia
 
-While {{p|Rome}} was under the {{c|2684|Severans}} strained,
-the {{c|2556|Han Dynasty}} in {{p|China}} fell apart.
-The eunuchs fought the Confucian scholars.
-The {{c|2568|Yellow Turbans}} rose with fervent heart.
+{{p|Armenia}}, that high mountain land
+between the {{p|Roman}} and {{x|Persian}} grip,
+between {{p|Mount Ararat}} and the {{p|Caucasus}},
+held culturally tight its grip.
 
-{{c|2685|Zhang Jue}} and his brothers led
-the {{c|2686|Yellow Turban Rebellion}} in 184.
-{{x|Taiping Dao}}, the {{x|Way of Great Peace}},
-promised a new heaven, a new core.
+The {{c|2615|Armenians}} trace themselves to {{c|2616|Hayk}},
+descendant of {{c|1851|Noah}} through {{c|1859|Japheth}}'s son,
+who defeated the tyrant {{c|2617|Bel}} of {{p|Babylon}}
+and founded the nation under the sun.
 
-{{c|2685|Zhang Jue}} claimed healing powers, faith
-cures, magical ceremonies, bean counting.
-When plague and famine struck the peasants,
-his followers numbered hundreds of thousands mounting.
+(They call themselves {{x|Hay}}, their land {{p|Hayastan}}.
+The name "{{p|Armenia}}" is what others call
+their land, from {{c|2618|Aram}} another ancestor,
+descendant of {{c|2616|Hayk}} through several fall.)
 
-The {{x|Han}} court raised armies, crushed the revolt,
-but the generals became too strong thereby.
-{{c|2687|Dong Zhuo}} marched into the capital,
-controlled the boy emperor, made him cry.
+In three-oh-one, King {{c|2619|Tiridates III}}
+was converted by {{c|2620|Gregory the Illuminator}},
+whom he had imprisoned in a pit for years.
+{{c|2621|Gregory}} survived by a widow's favor.
 
-{{c|2687|Dong Zhuo}} was assassinated. The warlords
-carved up {{p|China}} like meat on the bone.
-{{c|2688|Cao Cao}}, {{c|2689|Liu Bei}}, {{c|2690|Sun Quan}} emerged
-as the three great regional powers alone.
+{{c|2622|Tiridates}} made {{x|Christianity}} the state religion,
+the first nation in history to do so,
+twelve years before {{c|2555|Constantine}}'s {{x|Edict of Milan}},
+a generation before {{p|Rome}}'s own show.
 
-{{c|2688|Cao Cao}} held the north, controlled the emperor,
-ruled through the {{x|Han}} name though he was king.
-{{c|2689|Liu Bei}} claimed descent from {{x|Han}} imperial blood,
-built his base in {{p|Shu}}, the southwestern ring.
+The {{x|Armenian Apostolic Church}}
+claims descent from the apostles {{c|2623|Thaddeus}}
+and {{c|1536|Bartholomew}}, who preached there first
+and were martyred for what they taught us.
 
-{{c|2690|Sun Quan}} inherited the south from his father and brother,
-built his power along the {{p|Yangtze}}'s mouth,
-{{p|Wu}} the eastern kingdom along the coast.
-{{x|Three Kingdoms}}: {{p|Wei}}, {{p|Shu}}, {{p|Wu}}, facing drouth.
+{{c|2624|Mesrop Mashtots}} in the early fifth century
+created the {{x|Armenian}} alphabet,
+thirty-six letters designed for the tongue,
+enabling scripture and liturgy to be set.
 
-In two-twenty, {{c|2688|Cao Cao}}'s son {{c|2691|Cao Pi}}
-forced the last {{x|Han}} emperor to abdicate.
-The {{x|Han}} was formally dead. {{c|2691|Cao Pi}}
-declared {{p|Wei}} dynasty at its birth date.
+The {{x|Bible}} was translated immediately.
+A golden age of {{x|Armenian}} letters began.
+History, theology, philosophy flourished
+between mountain passes of the clan.
 
-{{c|2689|Liu Bei}} declared {{p|Shu Han}} in response.
-{{c|2690|Sun Quan}} declared {{p|Wu}} a few years later.
-The {{x|Three Kingdoms}} period had begun,
-lasting sixty years, never quieter.
+{{c|2625|Movses Khorenatsi}}'s {{x|History of Armenia}}
+wove together {{x|Greek}}, {{x|Persian}}, {{x|Jewish}}, and {{x|Hebrew}}
+sources into a national narrative,
+tracing the {{x|Haykazuni}} line as true.
 
-The {{x|Han}} had lasted four hundred years.
-Its fall was the end of classical Chinese order.
-What followed was three centuries of division,
-three centuries of warfare on every border.
+{{p|Armenia}} was trapped between empires.
+{{x|Persian}} {{x|Sassanid}} on the east, {{x|Byzantine}} on the west,
+the land was divided and partitioned,
+and {{x|Christian}} identity became their test.
 
-The {{x|Three Kingdoms}}, then {{x|Jin}} unification briefly,
-then the {{x|Sixteen Kingdoms}} in the north,
-then the {{x|Southern and Northern Dynasties}} period,
-three hundred years of {{p|China}} torn forth.
+And at {{p|Avarayr}}, in four-fifty-one,
+{{c|2626|Vardan Mamikonian}} led out his own
+against the {{x|Sassanid}} king's priests, who'd won
+the order that their altar stand alone.
 
-And in this time {{x|Buddhism}} took deep root:
-as the old order failed, the people turned
-to the one rite from {{p|India}}, its fruit
-in sutras and in monasteries earned.
+{{c|2627|Vardan}} fell. {{p|Armenia}} keeps the day
+as the first feast of its own martyred dead.
+The war was not of gods. It was who'd say
+whose priests would bless its altar and its bread.
 
-{{c|2692|Kumarajiva}} was brought from {{p|Kucha}} as hostage
-to {{p|Chang'an}} where he translated sutras,
-the {{x|Lotus}}, the {{x|Diamond}}, the {{x|Vimalakirti}},
-setting the standard for Chinese Buddhist tutors.
+{{p|Armenia}} would never be a great power.
+But it would be a persistent one.
+The mountains shielded. The alphabet preserved.
+The church maintained what had been done.
 
-{{x|Daoism}} also consolidated in this period
-into an organized religion with clergy,
-temples, canon, and liturgies modeled
-on Buddhist forms they found analogously.
+Centuries later, {{c|2615|Armenians}} would
+settle across the {{p|Middle East}} as traders,
+builders, craftsmen, architects
+of {{p|Istanbul}}, {{p|Isfahan}}, and other Kraiters.
 
-The {{c|2693|Celestial Masters}} had emerged
-in the late {{x|Han}} as an organized church.
-{{c|2694|Ge Hong}}'s alchemy sought immortality.
-{{x|Daoism}} became institutional perch.
+The {{c|2628|Kingdom of Cilicia}} on the {{p|Mediterranean}}
+would be a crusader ally's friend.
+The genocide of nineteen-fifteen
+would be the modern {{x|Armenian}} wound without end.
 
-{{p|China}} would not be reunified until
-{{c|2695|Sui Wendi}} in five-eighty-nine.
-And then the {{c|2696|Tang Dynasty}} would build
-on that foundation the greatest era fine.
-
-But first, the {{x|Three Kingdoms}} would become
-the great subject of Chinese historical imagination.
-The {{c|2697|Romance of the Three Kingdoms}} novel
-would make these warlords into every nation's creation.
-
-{{c|2688|Cao Cao}}: the cunning, ruthless antihero.
-{{c|2689|Liu Bei}}: the virtuous, righteous claimant.
-{{c|2698|Zhuge Liang}}: the brilliant strategist advisor.
-{{c|2699|Guan Yu}}: the loyal sworn brother, servant of heaven's pavement.
-
-Their stories would shape Chinese culture
-for fifteen centuries to come,
-like the {{x|Mahabharata}} for {{p|India}},
-like the {{x|Iliad}} for classical Greek home.
+But the culture endured. The church endured.
+The alphabet still writes what {{c|2629|Mashtots}} penned.
+A small mountain nation held on through empires.
+The deflationary polytheist sees how they fend.

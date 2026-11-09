@@ -1,361 +1,344 @@
-# Chapter 173: Classical Greece, Part Three
-
-Take up the thread again. The fifth century BCE has ended. {{p|Athens}}
-Has lost the {{p|Peloponnesian War}}. The golden age of classical
-{{p|Greece}} is over. But {{p|Greek}} civilization does not end in four-oh-four
-BCE. It continues through the fourth century BCE with a different
-
-Character. Less politically dominant, certainly—the city-states
-Are weaker, the cultural energy is more diffuse. But in some
-Ways more philosophically rigorous, more systematically organized,
-More intellectually mature. And the fourth century would produce
-
-The two philosophers whose influence would eclipse even that of
-Their {{p|Athenian}} predecessors: {{c|2376|Plato}} and {{c|1081|Aristotle}}. And it would
-Produce {{c|2381|Alexander the Great}}, who would take {{p|Greek}} civilization
-Itself, via conquest, across three continents.
-
-                                                    Begin with {{c|2376|Plato}}
-In his mature phase. The {{x|Gaiad}} introduced him in the previous
-Chapter as {{c|2232|Socrates}}'s student and the founder of the {{p|Academy}}.
-His early dialogues preserve, or appear to preserve, {{c|2232|Socrates}}'s
-
-Method and characteristic concerns: questioning people about
-Ethical terms (justice, courage, piety), exposing their confident
-Ignorance, leaving the conversation without arriving at firm
-Definitions. These "elenctic" dialogues—{{p|Euthyphro}}, {{p|Laches}},
-
-{{p|Charmides}}, parts of {{p|Gorgias}}—are small masterpieces of
-Philosophical drama. Then come the middle dialogues, in which
-{{c|2376|Plato}} begins to develop his own philosophical positions. {{p|Republic}},
-{{p|Phaedo}}, {{p|Symposium}}, {{p|Phaedrus}}. These are the works most commonly
-
-Associated with "{{p|Platonism}}." They present the theory of the
-{{x|Forms}}—the claim that behind every particular instance of a
-Quality (this beautiful statue, this just action, this triangular
-Shape) lies an ideal {{x|Form}} (Beauty itself, Justice itself, the
-
-Triangle itself) that exists more truly and eternally than any
-Material instantiation. The {{x|Forms}} are apprehended by reason
-Rather than sense. They constitute ultimate reality. And the
-{{c|2382|Philosopher}}'s task is to ascend from the world of particulars to
-
-The contemplation of the {{x|Forms}}—a process metaphorically depicted
-In the {{p|Allegory of the Cave}}, perhaps the most famous passage
-In {{c|2376|Plato}}'s corpus. Most people, {{c|2376|Plato}} writes, are like prisoners
-Chained in a cave, watching shadows on the wall and believing
-
-Them to be reality. The philosopher is the one who escapes the
-Cave, climbs up into the sunlight, sees things as they really
-Are, and then—painfully—returns to the cave to try to educate
-The other prisoners about the truth. The philosopher's task is
-
-To drag others out of illusion into knowledge, despite their
-Resistance. This allegory has obvious autobiographical resonance:
-{{c|2376|Plato}}'s teacher {{c|2232|Socrates}} was executed for attempting just such
-An educational mission. It also has political implications.
-
-{{c|2376|Plato}}'s {{p|Republic}} argues that ideal political societies would
-Be ruled by philosopher-kings—by those who had made the
-Ascending journey to the {{x|Forms}} and therefore knew what was truly
-Good, just, and beautiful. Democracy, {{c|2376|Plato}} argued, produces only
-
-The rule of opinion and self-interest; it elevates demagogues
-Rather than wise rulers. The ideal city would have a strict
-Social hierarchy: philosophers at the top, warrior-guardians
-Below them, and ordinary producers (farmers, craftsmen, traders)
-
-At the base, each performing the function for which they were
-Best suited. This is a profoundly anti-democratic political
-Philosophy, and it is worth noting that {{c|2376|Plato}} wrote it after
-His teacher had been executed by an {{p|Athenian}} democratic jury.
-
-{{c|2376|Plato}}'s political vision should be read in light of that trauma.
-He did not trust democratic judgment. He wanted the wise to rule.
-His vision has influenced authoritarian and elitist political
-Traditions across the centuries—sometimes for better (elite
-
-Expertise in technocratic government) and sometimes for worse
-(The various "philosopher kings" of political history tend, in
-Practice, to be tyrants). The late dialogues—{{p|Parmenides}}, {{p|Sophist}},
-{{p|Statesman}}, {{p|Philebus}}, {{p|Laws}}, {{p|Timaeus}}—show {{c|2376|Plato}} revising
-
-And complicating his earlier positions. In {{p|Parmenides}}, he
-Subjects his own theory of the {{x|Forms}} to searching self-criticism.
-In {{p|Laws}}, his last great work, he abandons the philosopher-king
-Ideal and describes a more practical constitutional framework
-
-With extensive legal codification. In {{p|Timaeus}}, he offers a
-Cosmological speculation about the structure of the universe—
-A text that would prove enormously influential on later
-{{p|Neoplatonism}}, {{p|Christian}} theology, and even early modern science.
-
-{{c|2376|Plato}}'s work is vast, varied, and endlessly generative. It would
-Be the single most-read philosophical corpus in human history
-Until the late modern period. And the {{p|Academy}} he founded in
-{{p|Athens}} continued to operate, in various forms, for nearly nine
-
-Centuries—until {{c|2383|Justinian}}, one of the most evil men in this book, closed it in
-Five-twenty-nine CE. It was the longest-lived institution of
-Higher learning in antiquity, and he ended it: the blame is his,
-Not the faith's he wore, for the end of classical {{p|Greek}} philosophy's house.
-
-                                                                       Into
-The {{p|Academy}} as a young student came a remarkable {{p|Macedonian}}:
-{{c|1081|Aristotle}} (three-eighty-four to three-twenty-two BCE), born in
-{{p|Stagira}} in northern {{p|Greece}}, son of the court physician to the
-
-{{p|Macedonian}} royal family. He studied with {{c|2376|Plato}} for twenty years,
-Until {{c|2376|Plato}}'s death. He was passed over for leadership of the
-{{p|Academy}} and left {{p|Athens}}. He spent several years traveling and
-Studying—on the island of {{p|Lesbos}}, where he conducted pioneering
-
-Biological research; at the court of {{p|Assos}}, where he worked
-With other philosophers. Then, around three-forty-three BCE, he
-Was summoned back to {{p|Macedon}} to tutor the young {{c|1982|Alexander}},
-Heir to the {{p|Macedonian}} throne. For several years {{c|1081|Aristotle}}
-
-Served as the prince's teacher—one of the most extraordinary
-Pedagogical relationships in history, though we have only
-Fragmentary evidence of what {{c|1081|Aristotle}} actually taught {{c|1982|Alexander}}
-Or how it influenced him. After {{c|1982|Alexander}}'s accession, {{c|1081|Aristotle}}
-
-Returned to {{p|Athens}} and founded his own school, the {{p|Lyceum}} (also
-Called the {{p|Peripatetic}} school, from the covered walkway where
-Teaching took place). He spent the next twelve years at the {{p|Lyceum}},
-Producing and teaching from an enormous body of philosophical
-
-And scientific work. Upon {{c|1982|Alexander}}'s death in three-twenty-three
-BCE, anti-{{p|Macedonian}} sentiment in {{p|Athens}} turned against
-{{c|1081|Aristotle}} (who was seen as too close to the {{p|Macedonian}} court).
-He fled to {{p|Chalcis}}, where he died the following year.
-
-                                                               {{c|1081|Aristotle}}'s
-Surviving works—mostly in the form of lecture notes rather than
-Polished treatises—cover nearly the entire range of ancient
-Knowledge. Logic (the {{p|Organon}}—{{p|Categories}}, {{p|On Interpretation}},
-
-{{p|Prior Analytics}}, {{p|Posterior Analytics}}, {{p|Topics}}, {{p|Sophistical Refutations}}).
-Natural philosophy (the {{p|Physics}}, {{p|On the Heavens}}, {{p|Meteorology}},
-{{p|On Generation and Corruption}}). Biology (the {{p|History of Animals}},
-{{p|Parts of Animals}}, {{p|Movement of Animals}}, {{p|Generation of Animals}}).
-
-Psychology (the {{p|De Anima}} and the {{p|Parva Naturalia}}). {{x|Metaphysics}}
-(The work that gave us the very term "metaphysics"—literally
-"After the physics," because it was placed after the physical
-Works in the ancient edition). Ethics (the {{p|Nicomachean Ethics}} and
-
-The {{p|Eudemian Ethics}}). Politics. Rhetoric. {{x|Poetics}}. Each of these
-Works would be foundational for its respective discipline.
-{{c|1081|Aristotle}}'s influence on the development of {{p|Western}} thought is,
-Along with {{c|2376|Plato}}'s and {{c|2384|Augustine}}'s, one of the three or four
-
-Most important. His logic would remain essentially unchanged for
-Two thousand years, until {{c|2385|Frege}} and {{c|2386|Russell}} in the late
-Nineteenth and early twentieth centuries CE developed modern
-Formal logic. His biology would remain the foundation of natural
-
-History until {{c|2387|Darwin}}. His ethical theory—virtue ethics grounded
-In the concept of the {{p|telos}} or end of human life, flourishing
-({{p|eudaimonia}}) as the realization of human potential—would
-Structure moral philosophy until the early modern period, and
-
-Would be revived in the late twentieth century by philosophers
-Like {{c|2388|Alasdair MacIntyre}} and {{c|2389|Martha Nussbaum}} as an alternative
-To {{c|2390|Kantian}} and utilitarian approaches. His {{p|Poetics}} would define
-The terms of literary theory through the {{p|Renaissance}}—the concepts
-
-Of mimesis, catharsis, unity of action, tragic hero, the three
-Unities—are all {{c|2391|Aristotelian}}. And his {{p|Metaphysics}} would be the
-Primary template for ontological inquiry in both the {{p|Christian}}
-And {{p|Islamic}} philosophical traditions. Medieval {{p|Muslim}} philosophers
-
-Like {{c|2392|al-Farabi}} and {{c|2393|Averroes}} produced extensive commentaries on
-{{c|1081|Aristotle}}. Medieval {{p|Christian}} theologians like {{c|2394|Thomas Aquinas}}
-Constructed their entire theological systems as syntheses of
-{{c|1081|Aristotle}} with {{p|Christian}} revelation. {{c|2395|Dante}} placed {{c|1081|Aristotle}} at
-
-The head of the philosophers in {{p|Limbo}}, "the master of those
-Who know." For seven hundred years, across multiple civilizations,
-{{c|1081|Aristotle}} was the {{c|2382|Philosopher}}. His dominance was so complete
-That the beginning of the modern period was partly defined as
-
-The overthrow of {{c|2391|Aristotelian}} authority—{{c|2396|Galileo}}, {{c|2397|Descartes}},
-{{c|2398|Bacon}} all had to break with {{c|1081|Aristotle}} to establish their new
-Science and philosophy. Breaking with him took effort because
-His systematic coverage was so complete. He had provided
-
-Answers—plausible answers—to so many questions that moving beyond
-Him required developing entirely new frameworks. The effort to
-Do so is substantially the effort that produced modern thought.
-And even now, in philosophical ethics, in biology, in logic,
-
-In literary theory, {{c|1081|Aristotle}}'s work continues to be read and
-Engaged with. He is not a closed book. He is a living interlocutor.
-
-And alongside {{c|2376|Plato}} and {{c|1081|Aristotle}}, the fourth century produced
-Other major philosophical schools. {{p|Cynicism}}, founded by {{c|2399|Antisthenes}}
-
-And made famous by {{c|2400|Diogenes of Sinope}}, taught radical simplicity,
-Self-sufficiency, and contempt for social conventions. {{c|2401|Diogenes}},
-Who lived in a large barrel in the marketplace of {{p|Athens}} and
-Made a career of shocking social propriety, was the archetype of
-
-The philosophical provocateur. When {{c|2381|Alexander the Great}} once
-Visited him and asked if there was anything he could do for the
-Great philosopher, {{c|2401|Diogenes}} replied, "Yes, stand a
-Little out of my sunlight." The story is the whole school in a line,{{fn|The meeting of Alexander and Diogenes is told by Plutarch and Diogenes Laertius, centuries later; historians doubt it happened as told.}}
-
-And it captures the {{p|Cynic}} ethos: the world's greatest conqueror
-Has no power over the philosopher who has chosen to need nothing.
-{{p|Cynic}} philosophy would evolve into {{p|Stoicism}}, which we will
-Meet in a later chapter. {{p|Skepticism}}, founded by {{c|2402|Pyrrho of Elis}}
-
-(Who, by tradition, traveled with {{c|1982|Alexander}}'s expedition to {{p|India}}
-And was influenced by {{p|Indian}} philosophy he encountered there),
-Taught the suspension of judgment on all claims to knowledge.
-The {{p|Pyrrhonist}} argued that for every proposition one might
-
-Believe, equally persuasive arguments could be offered on either
-Side, and therefore the wise course was to withhold assent and
-Live in tranquil indifference. This radical epistemological
-Position would influence {{p|Hellenistic}} philosophy and later
-
-Intellectual traditions. {{p|Epicureanism}}, founded by {{c|2403|Epicurus}}
-(Three-forty-one to two-seventy BCE, working at the very edge of
-Our fourth-century frame), taught that pleasure—understood as
-Freedom from physical pain and mental disturbance ({{p|ataraxia}})—
-
-Was the highest good. {{c|2403|Epicurus}}'s philosophy was a materialistic,
-Atomistic view of nature derived from {{c|2404|Democritus}}, combined with
-An ethical program aimed at serene happiness through simple
-Living, friendship, and the avoidance of needless fears (especially
-
-Fear of the gods and fear of death). {{p|Epicureanism}} would flourish
-For centuries and be given classical expression by the {{p|Roman}}
-Poet {{c|2405|Lucretius}}, and the school lived on
-To late antiquity, and then was gone
-When the new bishops held the schools and halls:
-A fight for who would teach inside those walls.
-
-These are only the most prominent schools. The philosophical
-Diversity of fourth-century {{p|Greece}} was astonishing. It was a
-Landscape of competing intellectual traditions, each with its
-Own masters, its own texts, its own disciples, its own practices.
-
-And it would continue to be so for centuries. The {{p|Hellenistic}}
-And {{p|Roman}} philosophical traditions all emerged from this fourth-
-Century matrix.
-
-                    And now, {{c|1982|Alexander}}. We will devote a full
-Chapter to him shortly. Here we note only that his career
-Belongs, in certain senses, to the end of classical {{p|Greece}}. He
-Was born in {{p|Macedon}}—a kingdom on the northern periphery of the
-{{p|Greek}} world, whose rulers claimed {{p|Greek}} descent but who were
-
-Considered half-barbarian by the southern {{p|poleis}}. His father
-{{c|2406|Philip II}} had transformed {{p|Macedon}} from a peripheral kingdom
-Into the dominant power of the {{p|Greek}} world, defeating a
-Coalition of southern {{p|Greek}} cities at the {{p|Battle of Chaeronea}}
-
-In three-thirty-eight BCE. With this victory, the independence
-Of the {{p|Greek}} city-states effectively ended. They remained
-Nominally sovereign but were forced into the {{p|League of Corinth}}
-Under {{p|Macedonian}} hegemony. When {{c|1406|Philip}} was assassinated in
-
-Three-thirty-six BCE, the twenty-year-old {{c|1982|Alexander}} inherited
-The throne and the {{p|League}}. He suppressed early rebellions, then
-Turned his attention to the {{p|Persian}} Empire. The campaign {{c|1406|Philip}}
-Had planned to launch against {{p|Persia}} became {{c|1982|Alexander}}'s campaign.
-
-And from three-thirty-four to three-twenty-three BCE, {{c|1982|Alexander}}
-Would conquer an empire larger than anything before. But that is
-For the next chapter. Here we note the philosophical-political
-Context: classical {{p|Greece}} as a civilization of independent
-
-City-states ended with {{c|1406|Philip}}'s victory and {{c|1982|Alexander}}'s
-Inheritance. What followed was the {{p|Hellenistic}} world—{{p|Greek}}
-Culture as an imperial phenomenon, spreading across three
-Continents through {{c|1982|Alexander}}'s conquests, but no longer the
-
-Distinctive city-state civilization that had produced {{c|2225|Sophocles}}
-And {{c|2232|Socrates}}. The {{p|Hellenistic}} age would be extraordinarily
-Productive in its own way—scientific advance, literary innovation,
-Religious syncretism, philosophical elaboration—but it would be
-
-A different kind of civilization. Larger, more cosmopolitan,
-More bureaucratic, less politically intense. The specific conditions
-That had produced classical culture—small free cities, direct
-Democratic politics, intense civic competition—were gone, and they
-
-Would not return.
-
-                          So the {{x|Gaiad}} closes this three-part
-Treatment of classical {{p|Greece}}. We began with the rise from the
-Dark Age, the early philosophers, the {{p|Persian Wars}}. We continued
-
-With the golden age of fifth-century {{p|Athens}}, {{c|2231|Pericles}}, the
-Tragedians, {{c|2232|Socrates}}. We end here with the fourth-century
-Maturation—{{c|2376|Plato}}, {{c|1081|Aristotle}}, the philosophical schools, the
-End of city-state independence under {{p|Macedonian}} hegemony. Three
-
-Hundred years from the first tentative philosophical speculations
-Of {{c|2234|Thales}} in the sixth century BCE to {{c|1081|Aristotle}}'s death in
-Three-twenty-two BCE. Three hundred years in which a small region
-Of the {{p|Mediterranean}} produced more foundational cultural
-
-Achievements than any other comparable area in any other comparable
-Period. Democracy, philosophy, drama, history, classical
-Architecture, classical sculpture, the foundations of mathematics
-And natural science—all of these, or their decisive {{p|Western}}
-
-Articulations, came out of this three-century {{p|Greek}} efflorescence.
-It is difficult to explain why. Many have tried. The usual
-Answers—political freedom, competitive pluralism, leisure class
-Supported by slave labor, favorable geography, contact with older
-
-Civilizations—are all partial explanations but none is fully
-Satisfying. The {{p|Greek}} achievement remains, in the last analysis,
-Somewhat mysterious. It was the happy conjunction of many factors
-In a particular place and time, and it produced results that
-
-Continue to shape our civilization twenty-five hundred years later.
-
-                                                                     And
-The {{x|Gaiad}} honors this achievement without idealizing it. Classical
-{{p|Greece}} was also a slaveholding society, a misogynistic society,
-
-A society that exploited its imperial subjects, a society whose
-Achievements were limited to a small elite of free adult males.
-Every student who stood at the feet of {{c|2376|Plato}} or {{c|1081|Aristotle}} was
-Supported by slave labor. Every citizen who voted in the {{p|Athenian}}
-
-Assembly did so while women, foreigners, and slaves were excluded.
-These facts must be acknowledged. They do not erase the
-Achievements, but they do qualify them. Classical {{p|Greek}} democracy
-Was real democracy—for those who counted. Classical {{p|Greek}} reason
-
-Was real reason—developed within a society that depended on forms
-Of domination invisible to it. The subsequent history of {{p|Western}}
-Civilization has been, in part, the project of extending the
-{{p|Greek}} ideals to groups the {{p|Greeks}} themselves excluded—of
-
-Universalizing the logic of democracy and reason to all humans.
-That project continues. And in that project, we are still working
-With the {{p|Greek}} inheritance. We are still debating the same
-Foundational questions: what is justice? What is the best regime?
-
-What is the nature of the good life? What can we know? How should
-We live? These questions were articulated in classical {{p|Greece}}
-With a clarity they had never before possessed. They have remained
-Central to {{p|Western}} intellectual life ever since.
-
-                                                           Classical
-{{p|Greece}}, part three. {{c|2376|Plato}} and the {{p|Academy}}. {{c|1081|Aristotle}} and the
-{{p|Lyceum}}. {{p|Cynics}}, {{p|Skeptics}}, {{p|Epicureans}}. The end of city-state
-Independence at {{p|Chaeronea}}. The {{p|Macedonian}} hegemony. The
-
-Transition to the {{p|Hellenistic}} world. The closing of the classical
-Age.
-
-         The {{p|Greek}} achievement: foundational, flawed, immortal.
+# Chapter 173: The Mahabharata
+
+The {{p|Mahabharata}}. One hundred thousand verses. Nearly two million
+Words. The longest epic poem in world literature, seven times
+Longer than the {{p|Iliad}} and {{p|Odyssey}} combined, four times longer
+Than the {{p|Bible}}. A text that {{p|India}} has carried at the center of
+
+Its cultural imagination for two and a half thousand years. A
+Text that has been read, recited, performed, adapted, and reinterpreted
+In every generation. A text that, more than any other, has shaped
+The {{p|Hindu}} moral and religious world. A text, finally, of almost
+
+Unfathomable depth—containing within itself dharma treatises,
+Philosophical dialogues, creation myths, hymns, legal codes,
+Political theory, love poetry, and—at its absolute center—the
+{{p|Bhagavad Gita}}, which has become for {{p|Hinduism}} something like
+
+What the {{p|Sermon on the Mount}} is for {{p|Christianity}}: a densely
+Compressed articulation of the tradition's core vision, accessible
+In isolation from the larger corpus and yet illuminating it
+Entirely. This chapter of the {{x|Gaiad}} will treat the {{p|Mahabharata}}
+
+In the same way the previous chapter treated the {{p|Ramayana}}: as
+A singular event in the history of human narrative imagination,
+Worthy of extended contemplation, standing at the center of
+{{p|Indian}} civilization as {{c|1957|Homer}} stands at the center of {{p|Greek}}
+
+Civilization.
+
+                  The traditional author is {{c|2328|Vyasa}}—literally "the
+Compiler"—a sage who is also a character in the epic itself.
+Within the narrative, {{c|2328|Vyasa}} is the biological grandfather of the
+
+Main protagonists: he is the father of {{c|2329|Dhritarashtra}}, {{c|2330|Pandu}}, and
+{{c|2331|Vidura}}, whose lines generate the {{p|Kauravas}} and {{p|Pandavas}} whose
+Conflict is the epic's central action. {{c|2328|Vyasa}} witnesses the events
+He then recounts. This recursive structure—in which the author is
+
+Both teller and participant—is characteristic of the {{p|Mahabharata}}'s
+Narrative complexity. It is a story that contains stories, that
+Reflects on itself, that invites its reader into an endless
+Hermeneutic process. Historically, of course, no single author
+
+Produced the {{p|Mahabharata}}. It grew over centuries through multiple
+Hands, probably beginning with a shorter core epic in the early
+Centuries BCE and expanding through additions and interpolations
+Until it reached something like its final form around four-hundred
+
+CE. Its compositional history is as complex as any text in world
+Literature. But traditional {{p|Hindu}} attribution gives the work to
+{{c|2328|Vyasa}}, and the {{x|Gaiad}} will use this convention for narrative ease.
+
+The core story. The {{p|Kuru}} dynasty, ruling from {{p|Hastinapura}} near
+What is now {{p|Delhi}}, is split between two branches of cousins: the
+{{p|Pandavas}}, five brothers born to {{c|2330|Pandu}}; and the {{p|Kauravas}}, one
+Hundred brothers born to {{c|2329|Dhritarashtra}}. Both groups have legitimate
+
+Claims to the throne—{{c|2329|Dhritarashtra}} was born first but is blind,
+Which disqualifies him; {{c|2330|Pandu}} therefore became king but died
+Young. Now {{c|2329|Dhritarashtra}} rules as regent for the generation of
+Cousins, and tensions escalate between his son {{c|2332|Duryodhana}} (the
+
+Eldest {{p|Kaurava}}) and {{c|2124|Yudhishthira}} (the eldest {{p|Pandava}}). The five
+{{p|Pandava}} brothers are {{c|2124|Yudhishthira}} (dharma-embodied, righteous,
+The future rightful king), {{c|2333|Bhima}} (enormously strong, impulsive,
+Loyal), {{c|2334|Arjuna}} (the greatest archer, a warrior of unmatched
+
+Skill), {{c|2335|Nakula}} and {{c|2336|Sahadeva}} (twins, handsome, skilled in various
+Arts). They share a single wife, {{c|2337|Draupadi}}, who is won by
+{{c|2334|Arjuna}} in an archery contest and, through an unusual misunderstanding
+Involving their mother {{c|2338|Kunti}}, becomes wife to all five brothers.
+
+This polyandrous marriage is one of the most famously anomalous
+Features of the {{p|Mahabharata}}—it fits no standard {{p|Indian}} cultural
+Pattern, and its presence in the epic has generated endless
+Interpretation. The hundred {{p|Kauravas}}, led by {{c|2332|Duryodhana}}, envy
+
+And resent the {{p|Pandavas}}. A series of attempts on {{p|Pandava}} lives
+Ensue—a house of lac built to be burned around them, from which
+They barely escape; a poisoned sweet; various ambushes. The
+{{p|Pandavas}} survive. Then comes the fatal dice game. {{c|2332|Duryodhana}},
+
+With the aid of his uncle {{c|2339|Shakuni}}, a skilled player with loaded
+Dice, invites {{c|2124|Yudhishthira}} to a gambling match. {{c|2124|Yudhishthira}},
+Addicted to dice-play but committed to playing when invited,
+Loses everything: his kingdom, his wealth, his brothers' freedom,
+
+His own freedom, and finally {{c|2337|Draupadi}} herself. She is dragged
+Into the assembly hall, where the {{p|Kauravas}} attempt to strip her
+Publicly—an act of extreme humiliation. At the last moment, the
+God {{c|2340|Krishna}} miraculously extends her sari to infinite length
+
+So she cannot be disrobed. Her honor is preserved, but the
+Humiliation is never forgotten. Eventually a compromise is reached:
+The {{p|Pandavas}} will go into exile for twelve years, plus a
+Thirteenth year in which they must remain incognito. If they
+
+Complete this exile successfully, they will recover their kingdom.
+They complete it. But {{c|2332|Duryodhana}} refuses to honor the agreement.
+He will not give back their kingdom. War becomes inevitable. The
+Great {{p|Kurukshetra War}}—the climactic event of the epic—is fought
+
+Between the {{p|Pandava}} and {{p|Kaurava}} coalitions over eighteen days.
+Every major ruling house of {{p|Indian}} civilization takes sides. The
+Carnage is apocalyptic. By the end, almost every major warrior is
+Dead. {{c|2332|Duryodhana}}, mortally wounded, lies dying on the battlefield.
+
+All his brothers are dead. Most of the great teachers and heroes
+Are dead. The victorious {{p|Pandavas}}, who have won but at unbearable
+Cost, are left to survey a field of corpses that includes their
+Uncles, cousins, teachers, friends. {{c|2124|Yudhishthira}} is crowned king.
+
+But the victory is ashes. He reigns for thirty-six years, then
+Abdicates and walks with his brothers and {{c|2337|Draupadi}} toward the
+{{p|Himalayas}} in a final pilgrimage to death. One by one they fall,
+Until only {{c|2124|Yudhishthira}} and a dog that has accompanied them
+
+Reach the peak. The dog, it turns out, is the god of dharma
+Testing {{c|2124|Yudhishthira}}. He passes the test by refusing to abandon
+The dog. He enters heaven. The epic ends with the soul-wrenching
+Final passages in which {{c|2124|Yudhishthira}} faces the moral ambiguity
+
+Of finding {{c|2332|Duryodhana}} in heaven and his virtuous kinsmen
+Apparently in hell—a revelation that turns out to be a final test
+Of his equanimity. Reality is more complex than moral categories
+Allow. The {{p|Mahabharata}}'s final word is not triumphant vindication
+
+But sober recognition that righteousness does not guarantee
+Happy outcomes and that moral judgments must always be held with
+Humility before the complexity of the cosmos. This is a different
+Ending from the {{p|Ramayana}}'s. The {{p|Ramayana}} ends with restoration;
+
+The {{p|Mahabharata}} ends with ambiguity. Both endings carry deep
+Wisdom.
+
+          At the center of the epic, just before the battle begins,
+Comes the {{p|Bhagavad Gita}}—"the {{x|Song of the Lord}}." {{c|2334|Arjuna}}, looking
+
+Across the battlefield at his cousins, his teachers, his kinsmen,
+Is overcome by despair. How can he fight? How can he kill these
+People he loves? His grief paralyzes him. He sinks down in his
+Chariot, unwilling to fight. His charioteer—who is in fact the god
+
+{{c|2340|Krishna}}, an avatar of {{c|2072|Vishnu}} serving voluntarily as {{c|2334|Arjuna}}'s
+Driver—engages him in dialogue. Over seven hundred verses,
+{{c|2340|Krishna}} instructs {{c|2334|Arjuna}} on the deepest principles of {{p|Hindu}}
+Philosophy. The body dies but the soul does not; what {{c|2334|Arjuna}}
+
+Thinks he is killing is only the body, and the soul passes on.
+Action in the world is necessary, but it must be performed
+Without attachment to the fruits of action—performed as an offering
+To {{c|2340|Krishna}}, without grasping for reward or avoiding loss. The
+
+Three paths to liberation are {{p|karma yoga}} (the path of action),
+{{p|jnana yoga}} (the path of knowledge), and {{p|bhakti yoga}} (the path of
+Devotion); all three are legitimate, and the {{p|Gita}} harmonizes them
+Rather than privileging one. {{c|2340|Krishna}} reveals his full divine form
+
+Briefly to {{c|2334|Arjuna}}, a vision so overwhelming that {{c|2334|Arjuna}} can
+Barely endure it—the god containing all worlds, all beings, all
+Times in himself; devouring warriors past, present, and future;
+The source from which all things emerge and to which all things
+
+Return. And {{c|2334|Arjuna}}, after this vision, is restored to action. He
+Takes up his bow. The battle begins. This discourse—the {{p|Bhagavad Gita}}—
+Is a philosophical and religious text of extraordinary power. It
+Has been read and commented on for two millennia. {{c|2341|Shankara}}, {{c|2342|Ramanuja}},
+
+{{c|2343|Madhva}}, and the other great classical {{p|Hindu}} philosophers each
+Wrote major commentaries on it. In the modern period, {{c|2344|Gandhi}}
+Carried a copy with him constantly and considered it his spiritual
+Guide. {{c|2345|Thoreau}} and {{c|2346|Emerson}} read it with wonder. {{c|2347|Oppenheimer}}
+
+Quoted from it at the first atomic test: "Now I am become Death,
+Destroyer of worlds." Its influence on modern religious and
+Philosophical thought, within and beyond {{p|India}}, is vast. And yet
+It is only one section of the {{p|Mahabharata}}—a small section, perhaps
+
+Two percent of the total. The {{p|Mahabharata}} as a whole is a larger
+And more encompassing work. But the {{p|Gita}} is the concentrated
+Jewel. Within a few hundred verses, it distills the philosophical
+And devotional essence of {{p|Hindu}} thought. Understanding the {{p|Gita}}
+
+Is understanding much about what {{p|Indian}} religious civilization
+Has valued.
+
+                 The {{p|Mahabharata}} treats {{p|dharma}}—righteous duty—
+As its central concern. But it treats dharma in a much more
+
+Complicated way than the {{p|Ramayana}} does. The {{p|Ramayana}}'s {{c|2009|Rama}}
+Embodies dharma with apparent simplicity: he always knows what
+The right thing is and does it. The {{p|Mahabharata}}'s protagonists
+Are not so clear. They face situations in which the right course
+
+Of action is obscure, in which multiple dharmic obligations
+Conflict, in which any choice produces some evil. This is called
+{{p|dharmasankata}}, "the crisis of dharma," and the {{p|Mahabharata}} is
+Full of it. Should {{c|2124|Yudhishthira}} tell a lie that will win the
+
+War? ({{c|2340|Krishna}} urges him to.) Should {{c|2334|Arjuna}} fight his teachers
+And kinsmen? ({{c|2340|Krishna}} tells him yes.) Should {{c|2348|Karna}}—who is
+Actually a {{p|Pandava}} by birth but was raised among {{p|Kauravas}}—side
+With his biological brothers or with the benefactor who raised
+
+Him? (He chooses his benefactor, at tragic cost.) Should {{c|2349|Bhishma}},
+The grand old patriarch of the {{p|Kuru}} dynasty, fight against the
+{{p|Pandavas}} whom he loves, because his oath of loyalty requires him
+To fight for whoever holds the throne of {{p|Hastinapura}}? (He does,
+
+And is killed by {{c|2334|Arjuna}}.) The {{p|Mahabharata}} is full of such moral
+Conundrums. It refuses to give easy answers. It shows dharma as
+A genuinely difficult problem, subject to interpretation,
+Contextual, and sometimes tragic. This is why it has remained so
+
+Fertile for {{p|Indian}} moral imagination. Every generation finds in
+It material for its own ethical reflection. Every commentator
+Finds a new angle. Every adaptation brings out different themes.
+The text is inexhaustible.
+
+                               And consider its theology. {{c|2340|Krishna}},
+Who appears as a character throughout the {{p|Mahabharata}} and
+Centrally in the {{p|Bhagavad Gita}}, is an avatar of {{c|2072|Vishnu}}—a
+Descent of the supreme god into human form to participate in the
+
+Historical drama. He is simultaneously fully human (with emotions,
+Relationships, historical specificity) and fully divine (capable
+Of miraculous interventions, possessor of cosmic knowledge,
+Embodying the absolute). This doctrine of {{p|avatar}} ("descent")
+
+Is one of the central features of {{p|Vaishnava}} {{p|Hindu}} theology.
+{{c|2072|Vishnu}} descends to earth periodically when cosmic order ({{p|dharma}})
+Is threatened, to restore balance. Ten major {{p|avatars}} are
+Traditionally recognized: the fish ({{c|1550|Matsya}}), the tortoise ({{c|2350|Kurma}}),
+
+The boar ({{c|2351|Varaha}}), the man-lion ({{c|2352|Narasimha}}), the dwarf ({{c|2353|Vamana}}),
+{{c|2354|Parashurama}}, {{c|2009|Rama}} (of the {{p|Ramayana}}), {{c|2340|Krishna}} (of the {{p|Mahabharata}}
+And separately of the {{p|Bhagavata Purana}}'s stories of his childhood),
+The {{c|1959|Buddha}} (included here as an avatar, a classic {{p|Hindu}} move to
+
+Absorb {{p|Buddhism}} into the {{p|Vaishnava}} framework), and {{c|2355|Kalki}} (the
+Future avatar who will appear at the end of the current dark age).
+Each avatar embodies divine engagement with human history. Each
+Represents a different form divine action can take. And the {{p|avatar}}
+
+Doctrine has deep structural parallels to the {{p|Christian}} doctrine
+Of incarnation, the {{p|Buddhist}} doctrine of bodhisattvas, and other
+Religious conceptions of divine beings taking on embodied form for
+The sake of sentient beings. These parallels are not identities,
+
+But they are striking resemblances. The {{x|Gaiad}} reads them as
+Different cultural elaborations of a common religious insight:
+That divinity is not remote from human affairs but engages with
+Them in various modes, sometimes taking on the limitations of
+
+Embodied existence in order to be present among creatures.
+
+                                                                 The
+{{p|Mahabharata}} also contains, as subsidiary material, enormous
+Amounts of philosophical, religious, and practical content. The
+
+{{p|Shanti Parva}} ("{{x|Book of Peace}}") and the {{p|Anushasana Parva}} ("Book
+Of Instruction")—two of the epic's eighteen books—are essentially
+Compendia of moral and philosophical teaching delivered by the
+Dying {{c|2349|Bhishma}} to {{c|2124|Yudhishthira}} about kingship, dharma, and
+
+The good life. These sections alone are as long as major classical
+{{p|Indian}} philosophical texts and contain substantial treatments of
+Ethics, political theory, theology, and practical wisdom. The epic
+Also preserves numerous side stories, genealogies, creation myths,
+
+Proverbs, hymns. It functions, in part, as an encyclopedia of
+Classical {{p|Hindu}} civilization. To know the {{p|Mahabharata}} deeply is
+To know much of what traditional {{p|India}} knew about itself.
+
+And the epic remains alive. {{p|Indian}} television produced a serialized
+
+Adaptation in the late nineteen-eighties that was watched by
+Hundreds of millions of viewers, grinding the country to a halt
+Each Sunday morning. Multiple film versions have been made in
+Various {{p|Indian}} languages. Comic books, children's retellings,
+
+Dance performances, theatrical productions in every regional
+Tradition—the {{p|Mahabharata}} is constantly being re-made. It is
+Not a dead classical text. It is a living cultural substance that
+{{p|Indians}} continue to think with, argue about, and return to for
+
+Wisdom. The {{p|Bhagavad Gita}} is, for many {{p|Hindus}}, a daily spiritual
+Companion. For all {{p|Hindus}}, the {{p|Mahabharata}}'s characters are
+Familiar as family members—the dharmic {{c|2124|Yudhishthira}}, the mighty
+{{c|2333|Bhima}}, the pure warrior {{c|2334|Arjuna}}, the tragic {{c|2348|Karna}}, the scheming
+
+{{c|2339|Shakuni}}, the proud {{c|2332|Duryodhana}}, the suffering {{c|2337|Draupadi}}, the
+Wise {{c|2340|Krishna}}, the oath-bound {{c|2349|Bhishma}}. These figures populate
+The moral imagination of {{p|Indian}} civilization as {{c|2110|Achilles}}, {{c|2111|Hector}},
+{{c|2112|Odysseus}}, and {{c|1337|Agamemnon}} populate the moral imagination of the
+
+Classical {{p|Mediterranean}}. Except the {{p|Mahabharata}}'s characters are
+More psychologically complex, the moral situations more ambiguous,
+The philosophical depth greater, the span of narrative time and
+Thematic concern vaster. If {{c|1957|Homer}}'s {{p|Iliad}} is the foundational
+
+{{p|Greek}} text, the {{p|Mahabharata}} is the {{p|Indian}} equivalent raised to
+A higher power. It is not just a great epic. It is the epic of
+An entire civilization.
+
+                             The {{x|Gaiad}} reads the {{p|Mahabharata}}—like
+The {{p|Ramayana}}—as another major articulation of the shared
+{{p|Indo-European}} narrative imagination, elaborated by the {{p|Indian}}
+Branch into a work of singular and unrivaled scope. The {{p|Trojan War}}
+Parallel is less direct here than in the {{p|Ramayana}}—there is no
+
+Stolen queen, no siege of a fortified foreign city—but the
+Structural parallel with the {{p|Iliad}} is still visible. Two related
+Groups of aristocratic warriors, driven by pride and conflicting
+Claims, fight an annihilating war that destroys most of the
+
+Aristocratic class. The aftermath is not triumphant but mournful.
+Both epics end with death and reflection rather than with
+Victorious celebration. The {{p|Iliad}} closes with {{c|2356|Priam}} ransoming
+{{c|2111|Hector}}'s body; the {{p|Mahabharata}} closes with {{c|2124|Yudhishthira}}'s
+
+Pilgrimage of death. Both are, fundamentally, works about the cost
+Of heroic warfare and the moral ambiguity of human glory. The
+{{p|Indo-European}} imagination produced, at opposite ends of its
+Geographical spread, two of the supreme literary meditations on
+
+The price of greatness.
+
+                              The {{p|Mahabharata}}. {{p|Kurukshetra}}. The
+{{p|Pandavas}} and the {{p|Kauravas}}. {{c|2124|Yudhishthira}}, {{c|2333|Bhima}}, {{c|2334|Arjuna}},
+{{c|2335|Nakula}}, {{c|2336|Sahadeva}}. {{c|2337|Draupadi}}. {{c|2332|Duryodhana}} and the hundred brothers.
+
+{{c|2349|Bhishma}} on his bed of arrows. {{c|2348|Karna}} the unrecognized brother.
+{{c|2340|Krishna}} the divine charioteer. The {{p|Bhagavad Gita}} at the heart of
+The battle. The {{p|dharmasankata}}—the crisis of dharma—woven through
+Every decision. The cosmic vision of {{c|2340|Krishna}}'s true form.
+
+The hundred thousand verses. The longest poem in the world. The
+Epic of an entire civilization.
+
+{{p|Mahabharata}}. {{p|Indian}} reflex of the great {{p|Indo-European}} war epic.
+The text that has shaped {{p|Hindu}} moral and religious imagination
+
+For twenty-five hundred years.

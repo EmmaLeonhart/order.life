@@ -1,112 +1,136 @@
-# Chapter 194: Kūkai
+# Chapter 194: The Islamic Golden Age
 
-In {{p|Japan}} of the early ninth century,
-the monk {{c|2799|Kūkai}} (774-835)
-brought {{c|2800|Shingon}} {{x|Buddhism}} from {{x|Tang}} {{p|China}}
-and made it into something alive.
+The {{c|2868|Abbasid Caliphate}} overthrew the {{c|2869|Umayyads}}
+in 750, moving the capital east to
+the new city of {{p|Baghdad}} founded by {{c|2870|al-Mansur}}
+in 762, a round city with four gates through.
 
-He was born on {{p|Shikoku}} island,
-the smallest of the four main islands,
-went to {{p|Chang'an}} in 804 with the embassy,
-studied at {{p|Qinglong Temple}}'s vast hidings.
+{{p|Baghdad}} became the intellectual center
+of the world for four centuries.
+The {{c|2871|House of Wisdom}}, {{x|Bayt al-Hikma}},
+patronized translation of Greek, Persian, Indian century.
 
-He studied under {{c|2801|Huiguo}}, the master
-of Chinese Vajrayana {{x|Buddhism}},
-who transmitted the full esoteric tradition
-to {{c|2799|Kūkai}} in just a few months' witnessing.
+The works of {{c|1081|Aristotle}}, {{c|2376|Plato}}, {{c|2872|Galen}},
+{{c|2408|Euclid}}, {{c|2265|Ptolemy}}, {{c|2873|Hippocrates}}
+were translated into {{x|Arabic}}, preserved
+when {{p|Western Europe}} had lost most.
 
-{{c|2801|Huiguo}} died shortly after. {{c|2799|Kūkai}} returned
-to {{p|Japan}} with scriptures, mandalas, ritual tools,
-and the complete transmission of {{c|2800|Shingon}},
-"the {{x|True Word}}," the esoteric school's schools.
+Indian mathematics — the decimal system,
+zero as a number, algebra's foundation —
+came through {{c|2874|al-Khwarizmi}}, whose name
+gave us "algorithm" and whose work "al-jabr"
 
-He established his mountain monastery at {{p|Mount Kōya}},
-eight peaks forming a natural mandala.
-He systematized the esoteric teachings
-into {{p|Japan}}'s first complete Buddhist alphabeta.
+gave us "algebra." He wrote in {{p|Baghdad}}
+in the ninth century, synthesizing Indian and Greek
+mathematics into a coherent discipline.
+Without him, modern math would be weak.
 
-He is credited (perhaps legendarily)
-with inventing the {{c|2802|kana}} syllabary,
-the phonetic Japanese writing system
-that made Japanese literature necessary.
+{{c|2875|Al-Razi}} ({{c|2876|Rhazes}}) was the great physician,
+who distinguished smallpox from measles,
+pioneered experimental medicine,
+wrote the {{x|Comprehensive Book of Medicine}} in easels.
 
-Before {{c|2803|Kana}}, Japanese was written
-in Chinese characters used phonetically,
-the man'yōgana system, cumbersome.
-{{c|2803|Kana}} simplified, made Japanese poetic.
+{{c|2877|Ibn Sina}} ({{c|2878|Avicenna}}) wrote the {{x|Canon of Medicine}},
+used as the standard medical text in {{p|Europe}} for six centuries.
+His philosophical synthesis of {{c|1081|Aristotle}} and {{x|Neoplatonism}}
+shaped both Islamic and Christian theological tendencies.
 
-{{c|2799|Kūkai}}'s teaching: the universe is the body
-of the cosmic {{c|1959|Buddha}} {{c|2804|Mahāvairocana}},
-{{c|2805|Dainichi Nyorai}}, the sun-like {{c|1959|Buddha}},
-and all beings are already enlightened in stanza.
+{{c|2879|Ibn al-Haytham}} ({{c|2880|Alhazen}}) founded modern optics
+with the {{x|Book of Optics}}, establishing
+the scientific method through controlled experiment,
+three centuries before {{c|2396|Galileo}}, everything advancing.
 
-The aim is to realize one's buddha-nature
-through the three mysteries: body, speech, mind,
-through mudrās, mantras, and visualizations,
-through ritual practice that is refined.
+{{c|2881|Al-Biruni}} measured the Earth's circumference
+with astonishing accuracy using trigonometry,
+studied {{p|India}} with anthropological depth,
+wrote 146 treatises spanning every discipline's reverie.
 
-This is sokushin jōbutsu, "attaining buddhahood
-in this very body in this very life,"
-rather than through many lifetimes of practice.
-{{c|2800|Shingon}} promises immediate escape from strife.
+{{c|2882|Al-Ghazali}} wrote the {{x|Incoherence of the Philosophers}},
+attacking the Aristotelian rationalists of {{x|Islam}}.
+{{c|2883|Ibn Rushd}} ({{c|2393|Averroes}}) wrote the {{x|Incoherence}}
+of the {{x|Incoherence}}, defending philosophy from qualm.
 
-{{c|2799|Kūkai}} was also a calligrapher of legend,
-a poet, an engineer who built ponds and bridges,
-a theorist of language and signification.
-He is one of {{p|Japan}}'s cultural ridges.
+{{c|2883|Ibn Rushd}}'s commentaries on {{c|1081|Aristotle}}
+would be the foundation of Medieval European
+scholasticism. {{c|2394|Thomas Aquinas}} read him.
+Without {{c|2393|Averroes}}, no {{x|Summa Theologica}}, see.
 
-He is said not to have died but to have
-entered eternal meditation at {{p|Mount Kōya}},
-where his body remains uncorrupted
-in the {{p|Oku-no-In}} mausoleum, in quiet.
+{{c|2884|Ibn Khaldun}} in the fourteenth century wrote
+the {{x|Muqaddimah}}, the first work of sociology,
+theorizing about the cycle of dynasties,
+asabiyyah (group solidarity), the rise-and-fall typology.
 
-Pilgrims still visit. They believe he is
-still there, waiting for {{c|2806|Maitreya}} the future {{c|1959|Buddha}},
-to emerge then and help all sentient beings.
-His tomb is attended daily with meals put through-a-
+{{c|2885|Al-Farabi}} was called "the {{c|2886|Second Teacher}}"
+after {{c|1081|Aristotle}}. {{c|2887|Ibn Arabi}} was the mystical
+unifier of {{x|Sufism}} into philosophical vision.
+{{c|2888|Rumi}} would write the greatest mystical
 
-the door in rituals of feeding the living master.
-Meanwhile, a separate monk {{c|2807|Saichō}} (767-822)
-brought {{c|2808|Tendai}} {{x|Buddhism}} from {{p|China}}
-and established {{p|Mount Hiei}}, a center true.
+poetry in any language, the {{x|Masnavi}},
+from his Persian-speaking Sufi center in {{p|Konya}}.
+{{x|Sufism}} flourished across the Islamic world,
+from {{p|Morocco}} to {{p|India}}, a mystical ocean.
 
-{{c|2808|Tendai}} was based on the {{x|Lotus Sutra}},
-on the teaching of {{c|2809|Zhiyi}} of the {{c|2810|Tiantai}} school,
-integrating all Buddhist teachings into
-a hierarchical synthesis of the rule.
+{{c|2889|Al-Hallaj}} cried "{{x|Ana al-Haqq}}"; the court
+of Baghdad, and its jurists, cut him short:
+the fight was who could speak for {{c|472|God}}, and who
+would hold the word. That was nine-twenty-two.
 
-From {{p|Mount Hiei}} would come {{p|Japan}}'s major
-medieval Buddhist traditions:
-{{c|2811|Honen}} and {{x|Pure Land}}. {{c|2812|Shinran}} and {{x|True Pure Land}}.
-{{c|2813|Nichiren}} and {{x|Lotus Sutra}} intuitions.
-{{c|2814|Dōgen}} and {{x|Sōtō Zen}}, with its meditations.
+The caliphate itself fragmented politically.
+The {{c|2869|Umayyads}} who had survived in {{p|Spain}}
+established the {{c|2890|Emirate of Córdoba}},
+later the Caliphate, a rival reign.
 
-All started as {{c|2808|Tendai}} monks who
-left to found new schools. {{p|Mount Hiei}} was
-the matrix from which Japanese {{x|Buddhism}} emerged.
-{{c|2807|Saichō}} had built an institutional pause.
+{{p|Córdoba}} became the greatest city in {{p|Western Europe}},
+with half a million people, libraries of hundreds of thousands of books,
+public baths, street lighting, paved streets.
+In an age when {{p|Paris}} was a muddy village of outlooks.
 
-{{c|2799|Kūkai}} and {{c|2807|Saichō}} were contemporaries.
-They corresponded, borrowed texts, occasionally disagreed.
-Together they shaped Japanese {{x|Buddhism}}
-into its distinctive esoteric breed.
+The {{c|2891|Fatimid Caliphate}} arose in {{p|Egypt}} in 909,
+{{x|Shia}} Ismaili, rivaling the {{x|Sunni}} {{c|2892|Abbasids}}.
+They founded {{p|Cairo}} and the {{c|2893|al-Azhar University}},
+which has taught Islamic scholarship continuously for ages.
 
-The capital {{p|Heian-kyō}} ({{p|Kyoto}}) had just been founded
-in 794 by Emperor {{c|2815|Kanmu}}.
-The new {{x|Buddhism}} matched the new capital.
-A new era was beginning, the {{x|Heian}}, anew.
+On the {{p|Caspian}}'s southern shore, in {{p|Mazandaran}},
+the old princes of {{p|Tabaristan}} held the forest and the height,
+the {{c|2894|Bavandids}}, who named the {{c|2895|Sasanian}} kings as kin,
+the last of {{p|Iran}}'s old houses not yet taken by the fight.
 
-The syncretism of {{x|Shinto}} and {{x|Buddhism}}
-deepened in this era. {{c|2816|Honji suijaku}}, the theory
-that {{x|Shinto}} kami were local manifestations
-of Buddhist bodhisattvas, was the theology.
+{{c|2896|Qarin}} the First ruled there from 817,
+and when his rival {{c|2897|Mazyar}} rose against the caliph's hand,
+{{c|2896|Qarin}} stood with {{p|Baghdad}}, and in 842
+he took {{x|Islam}} himself, and kept his mountain land.
 
-{{c|885|Amaterasu}} became {{c|2805|Dainichi Nyorai}}'s manifestation.
-{{c|2724|Hachiman}} became a manifestation of {{c|2817|Amida}}.
-Shrines and temples were built together.
-One religion with two faces, no divide-a.
+So the blood of the old kings went on inside the new faith.
+His son {{c|2898|Abul Melik}} carried it, and in 869 a grandson came,
+{{c|2899|Abul Hamza}}, born in {{p|Armenia}}, among the {{c|2900|Artsruni}},
+and the line of {{p|Tabaristan}} went west under an Armenian name.
 
-This synthesis would last a thousand years
-until the {{x|Meiji}} period's forced separation
-in 1868 violently distinguished them.
-But for the medieval period, they were one vocation.
+The {{c|2901|Seljuk Turks}} took over the {{x|Abbasid}} heartland
+in the eleventh century, nominal caliphs remaining
+but real power with the sultan.
+They defeated the {{c|2838|Byzantines}} at {{c|2902|Manzikert}} in 1071, maintaining
+
+Turkish dominance in {{p|Anatolia}}, which would
+eventually become modern {{p|Turkey}}.
+This was the beginning of the end for {{p|Byzantium}},
+whose heartland was now lost irretrievably turkey.
+
+The {{c|2903|Seljuks}} were {{x|Sunni}}, patronized the mainstream
+{{x|Hanafi}} school of Islamic jurisprudence.
+They also patronized learning, building madrasas
+across their empire, educational abundance.
+
+{{p|Baghdad}} itself would fall to the {{c|2904|Mongols}} in 1258,
+ending the {{c|2868|Abbasid Caliphate}} formally.
+The House of Wisdom's books were thrown in the {{p|Tigris}}.
+The {{p|Tigris}} ran black with ink, conformably.
+
+That is the end of the {{x|Islamic Golden Age}}.
+But what was produced in those four centuries
+is one of the greatest intellectual legacies
+of human history, rivaling any civilization's treasures.
+
+Without Islamic transmission of Greek learning
+through {{p|Córdoba}} and {{p|Toledo}} to Christian {{p|Europe}},
+there would have been no {{x|Renaissance}}.
+The chain of transmission included this stoop.

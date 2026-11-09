@@ -1,344 +1,396 @@
-# Chapter 170: The Buddha
-
-In the {{p|Gangetic}} plain of northern {{p|India}}, in the sixth and fifth
-Centuries BCE, the same {{x|Axial Age}} ferment that produced {{c|2146|Zarathustra}},
-{{c|1958|Confucius}}, {{c|2144|Laozi}}, the {{p|Judean}} exile, and {{p|Ionian}} philosophy was
-Also transforming {{p|Indian}} religious thought. And at the heart of
-
-That transformation was a single figure whose teachings would
-Spread across {{p|Asia}} and eventually the world, shaping the lives
-Of hundreds of millions. {{c|2304|Siddhartha Gautama}}. The {{c|1959|Buddha}}—"the
-Awakened one."
-
-                  Begin with context. The {{p|Indian}} religious landscape
-In the sixth century BCE was in turmoil. The {{p|Vedic}} religion
-Brought by the {{p|Aryans}} had evolved over centuries into an
-Elaborate sacrificial system dominated by the {{p|Brahmin}} priestly
-
-Caste. {{p|Brahmins}} performed increasingly complex {{p|fire sacrifices}}
-That were thought to maintain cosmic order and benefit their
-Patrons. But this system was under critique. Philosophical
-Movements called the {{p|Shramana}} traditions had arisen—ascetic,
-
-Wandering, often celibate traditions that rejected {{p|Brahmin}}
-Authority and sought liberation through individual spiritual
-Practice rather than through sacrificial ritual. The {{p|Upanishads}},
-The final layer of the {{p|Vedic}} corpus, were being composed during
-
-This period, and they represented a shift within {{p|Vedic}} thought
-Itself—from outer ritual to inner contemplation, from the efficacy
-Of sacrifice to the realization of the identity between {{c|2305|Atman}}
-(The individual self) and {{c|2306|Brahman}} (the universal reality). The
-
-Concept of {{p|karma}} (action and its consequences), the concept of
-{{p|samsara}} (the endless cycle of rebirth), and the concept of
-{{p|moksha}} (liberation from that cycle) were being elaborated. The
-Question that drove this entire religious ferment was: how can
-
-A human being achieve liberation from suffering and the endless
-Cycle of death and rebirth? Different traditions gave different
-Answers. The {{p|Upanishadic}} answer was philosophical insight into
-The identity of {{c|2305|Atman}} and {{c|2306|Brahman}}. The {{p|Jain}} answer—developed by
-
-{{c|2145|Mahavira}}, a near-contemporary of the {{c|1959|Buddha}}—was extreme asceticism,
-Including practices of such severity that some {{p|Jain}} monks
-Eventually starved themselves to death in the ultimate renunciation.
-The {{p|Ajivika}} answer (now lost but significant in its time) was
-
-A fatalistic determinism in which all things unfold according to
-A cosmic pattern that could not be altered by human action. The
-{{p|Materialists}} (the {{p|Charvaka}} school) denied the whole framework
-Of rebirth and karma, arguing that there was only this life and
-
-Death ended it. And the {{p|Brahmins}} continued to perform their
-Sacrifices and insist that their tradition was the proper path.
-Into this contested field stepped {{c|2304|Siddhartha Gautama}}.
-
-                                                                 He
-Was born around five-sixty-three BCE (traditional dating) or
-Four-eighty BCE (recent scholarly dating; the {{x|Gaiad}} will use the
-Traditional date for narrative convenience) in {{p|Lumbini}}, a small
-Village in what is now southern {{p|Nepal}}. His father {{c|2307|Shuddhodana}}
-
-Was a chieftain of the {{p|Shakya}} clan, a minor kshatriya (warrior)
-Lineage. His mother {{c|2308|Maya}} died shortly after his birth, and he
-Was raised by her sister {{c|2309|Mahapajapati}}. The stories of his
-Childhood that survive are mostly later hagiography, but they
-
-Emphasize two themes: that he was raised in extraordinary luxury,
-Shielded from the harsh realities of ordinary life; and that he
-Was destined, according to the sages who read his birth signs,
-To become either a great king or a great spiritual teacher. His
-
-Father, hoping for the former, tried to keep him insulated from
-Anything that might turn his mind to spiritual questions. He was
-Married at sixteen to {{c|2310|Yashodhara}}. They had a son, {{c|2311|Rahula}}. He
-Lived a life of sheltered privilege. And then, according to the
-
-Tradition, at age twenty-nine, he insisted on venturing outside
-The palace walls. He saw "Four Sights" that changed his life: an
-Old man, a sick man, a corpse, and a wandering ascetic. Each of
-The first three confronted him with realities he had been shielded
-
-From. Age, disease, and death—the fundamental facts of embodied
-Existence. The fourth, the ascetic, suggested a different way of
-Living in the face of those realities. That night, {{c|2312|Siddhartha}}
-Left his palace, his wife, and his infant son. He cut off his
-
-Hair, put on the robes of a wandering seeker, and began his search
-For a way out of suffering.
-
-                                He first studied with two famous
-Meditation teachers, {{c|2313|Alara Kalama}} and {{c|2314|Udaka Ramaputta}}. He
-
-Mastered their techniques quickly—mastering the attainment of
-Deep meditative absorption—but he realized that these attainments,
-While profound, did not eliminate suffering. Something deeper was
-Needed. He then joined a group of five ascetics and practiced
-
-Severe self-mortification for six years: extreme fasting, breath
-Retention, exposure to extremes of heat and cold. He became so
-Emaciated that, according to tradition, he could feel his spine
-When he pressed on his stomach. And still, liberation did not
-
-Come. He realized that extreme asceticism was as much a dead end
-As luxury had been. Both extremes—indulgence and self-torture—
-Kept the mind fixed on the body rather than freeing it. There must
-Be a middle way between them. He accepted a bowl of rice pudding
-
-From a young village woman named {{c|2315|Sujata}}, recovering some strength.
-His five ascetic companions, disgusted by what they saw as his
-Weakness, abandoned him. He was alone. And he sat down beneath a
-Fig tree at {{p|Bodh Gaya}} in what is now {{p|Bihar}}, and he resolved not
-
-To move until he had found what he was seeking. He sat through
-The night. According to the tradition, he was assailed during
-This night by {{c|2316|Mara}}, the personification of death and illusion,
-Who tempted him with pleasure, fear, and the claim that {{c|2312|Siddhartha}}
-
-Had no right to the awakening he sought. {{c|2312|Siddhartha}} touched the
-Earth as his witness—the famous "earth-touching" gesture preserved
-In countless {{p|Buddhist}} statues—and {{c|2316|Mara}} was defeated. As dawn
-Broke, {{c|2312|Siddhartha}} understood. He saw the nature of suffering and
-
-Its causes. He saw the path to its cessation. He became the
-{{c|1959|Buddha}}, "the awakened one." He was thirty-five years old.
-
-                                                                 What
-Did he realize? At the core of the {{c|1959|Buddha}}'s enlightenment was
-
-What would become known as the {{p|Four Noble Truths}}. First: there
-Is suffering ({{p|dukkha}}). All conditioned existence is characterized
-By unsatisfactoriness—not just obvious pain and misery, but also
-The subtle dissatisfaction that shadows even our pleasures, the
-
-Knowledge that they will end, the impermanence that makes every
-Attainment temporary. Second: suffering has a cause. Its cause is
-Craving ({{p|tanha}}), the grasping for pleasant experiences and the
-Aversion to unpleasant experiences. Craving arises from ignorance—
-
-Ignorance of the true nature of reality. Third: suffering can end.
-When craving is eliminated, suffering ceases. This cessation is
-{{p|nirvana}}, literally "blowing out" (as a flame is blown out when
-Its fuel is exhausted). Fourth: there is a path to the ending of
-
-Suffering. This is the {{p|Noble Eightfold Path}}: right view, right
-Intention, right speech, right action, right livelihood, right
-Effort, right mindfulness, and right concentration. The path is
-Ethical, psychological, and contemplative. It is neither ascetic
-
-Self-torture nor sensual indulgence but the middle way. And the
-Path is practical. It can be walked by anyone who commits to it.
-Another key insight: the {{p|doctrine of no-self}} ({{p|anatta}}). Unlike
-The {{p|Upanishadic}} tradition, which identified an eternal {{c|2305|Atman}}
-
-(True self) as the key to liberation, the {{c|1959|Buddha}} taught that there
-Is no permanent, unchanging self. What we call the self is a
-Constantly changing flux of physical and mental processes—form,
-Feeling, perception, mental formations, consciousness—which
-
-Together constitute the {{p|five aggregates}} ({{p|skandhas}}) of personhood
-But none of which, singly or collectively, is a permanent self.
-The illusion of a permanent self is one of the root causes of
-Craving and suffering. When this illusion is seen through, craving
-
-Falls away naturally. This {{p|anatta}} doctrine is the most
-Radical of the {{c|1959|Buddha}}'s insights, and it is the one that most
-Sharply distinguishes {{p|Buddhism}} from the other {{p|Indian}} religious
-Traditions. It is also one of the most counterintuitive teachings
-
-In world religion, because it challenges the foundational
-Assumption of almost every spiritual tradition: that there is a
-Real self whose welfare we are pursuing. The {{c|1959|Buddha}} says there
-Is no such self. There is only the flux. And the pursuit of
-
-Liberation is not the saving of a self but the seeing-through of
-The self-illusion.
-
-                      {{c|1959|Buddha}} spent the rest of his life—forty-five
-Years—teaching. He attracted disciples. He founded the {{p|sangha}},
-
-The monastic community. He traveled through the {{p|Gangetic}} plain,
-Teaching to anyone who would listen. Kings came to him. Beggars
-Came to him. {{c|2317|Brahmins}} came to him. {{p|Untouchables}} came to him.
-He taught them all. He did not distinguish by caste. This was
-
-Itself a radical position in {{p|Indian}} society. His {{p|sangha}} included
-Men of every caste, and eventually women as well (though his
-Admission of women, at the urging of his foster mother {{c|2309|Mahapajapati}}
-And his disciple {{c|2318|Ananda}}, came reluctantly and with special
-
-Conditions that would keep nuns subordinate to monks). He taught
-Not in {{p|Sanskrit}}—the sacred language of the {{p|Brahmins}}—but in
-{{p|Magadhi Prakrit}} or similar vernacular, the ordinary language of
-The people. This democratization of religious access was another
-
-Radical feature of the early {{p|Buddhist}} community. And the
-{{c|1959|Buddha}}'s teaching style was pragmatic. He refused to answer
-Metaphysical questions that he considered useless for liberation—
-Questions like "is the universe eternal?" or "is the self the
-
-Same as the body or different?" or "does the enlightened one exist
-After death?" He compared such questions to a man wounded by a
-Poisoned arrow who refuses to let the arrow be removed until he
-Knows the name of the archer, the material of the bow, and the
-
-Fletching of the arrow. By the time he has his answers, he is
-Dead. The {{c|1959|Buddha}}'s concern was always immediate: the alleviation
-Of suffering, the path to liberation. Metaphysical speculation was
-A distraction. This pragmatic approach made early {{p|Buddhism}} quite
-
-Different from religious philosophies that centered on metaphysical
-Doctrines. It was a path more than a creed. Later {{p|Buddhism}} would
-Develop elaborate metaphysics and cosmology, but the historical
-{{c|1959|Buddha}} himself seems to have resisted such elaboration.
-
-                                                               He
-Died around four-eighty-three BCE at {{p|Kushinagar}}, at the age of
-Eighty. His last words, according to tradition, were: "All
-Conditioned things are impermanent. Strive on with diligence." He
-
-Had founded no institution but the {{p|sangha}}. He had left no written
-Scripture—his teachings were preserved orally by his disciples and
-Would not be committed to writing for several centuries. He had
-Not appointed a successor. The {{p|sangha}} itself was to be the ongoing
-
-Community, with the {{p|Dharma}} (his teaching) as its guide. And the
-{{p|sangha}} carried forward his teachings, elaborating, systematizing,
-Sometimes disputing about their interpretation. Within a couple
-Of centuries of his death, {{p|Buddhism}} had begun to spread beyond
-
-Its original region. Under {{c|2319|Emperor Ashoka}} in the third century
-BCE—a {{p|Mauryan}} ruler who converted to {{p|Buddhism}} after the
-Horrors of the {{p|Kalinga War}}—{{p|Buddhism}} became effectively the state
-Religion of most of the {{p|Indian}} subcontinent. {{c|2320|Ashoka}} sent missions
-
-Westward to the {{p|Hellenistic}} world, southward to {{p|Sri Lanka}},
-Eastward toward {{p|Southeast Asia}}, and likely northward across the
-{{p|Himalayas}}. {{p|Buddhism}} began its transformation from an {{p|Indian}}
-Regional tradition into a pan-{{p|Asian}} religion. Subsequent centuries
-
-Would see {{p|Buddhism}} split into multiple schools—the {{p|Theravada}}
-Of {{p|Sri Lanka}} and {{p|Southeast Asia}}, the {{p|Mahayana}} of {{p|Central Asia}},
-{{p|China}}, {{p|Korea}}, {{p|Japan}}, and {{p|Vietnam}}, and later the {{p|Vajrayana}} of
-{{p|Tibet}} and the {{p|Himalayas}}. Each would develop its own elaborate
-
-Textual traditions, ritual practices, and philosophical doctrines.
-{{p|Buddhism}} would eventually decline in {{p|India}} itself, partly
-Absorbed back into {{p|Hindu}} traditions (with the {{c|1959|Buddha}} reimagined
-As an avatar of {{c|2072|Vishnu}}), partly disrupted by {{p|Islamic}} conquests
-
-That destroyed major {{p|Buddhist}} centers like {{p|Nalanda}} university
-In the twelfth century CE. But by that time, {{p|Buddhism}} was firmly
-Established across the rest of {{p|Asia}}, where it remains a major
-Civilizational force to this day. Some five hundred million
-
-{{p|Buddhists}} now live worldwide, with major populations in {{p|China}},
-{{p|Japan}}, {{p|Korea}}, {{p|Thailand}}, {{p|Myanmar}}, {{p|Sri Lanka}}, {{p|Cambodia}}, {{p|Laos}},
-{{p|Vietnam}}, {{p|Tibet}}, {{p|Mongolia}}, and—increasingly since the twentieth
-Century—{{p|Western}} countries. The {{c|1959|Buddha}}'s teaching, which began
-
-As the reflection of a single wandering ascetic under a fig tree,
-Has become one of the most widely practiced religions in the world.
-
-                                                                    And
-The {{x|Gaiad}} honors the {{c|1959|Buddha}} as one of the supreme figures of the
-
-{{x|Axial Age}}. His insights into the nature of suffering and its
-Causes, his articulation of ethical conduct, his recognition of
-The constructed nature of the self, his refusal to privilege any
-Caste or class in access to liberation—these are among the most
-
-Profound contributions to human understanding ever made. The
-{{p|Buddhist}} tradition has produced some of the greatest philosophers
-In human history—{{c|2321|Nagarjuna}}, {{c|2322|Vasubandhu}}, {{c|2323|Asanga}}, {{c|2324|Dogen}},
-{{c|2325|Hui-neng}}, {{c|2326|Chandrakirti}}, {{c|2327|Dharmakirti}}—whose subtle explorations
-
-Of consciousness, emptiness, and causation rival anything in
-Western philosophy. The {{p|Buddhist}} contemplative traditions—the
-Various schools of meditation that trace back to the {{c|1959|Buddha}}'s
-Own practice—have produced detailed empirical investigations of
-
-The mind that are now being integrated with {{p|Western}} psychology
-And neuroscience. The {{p|Buddhist}} ethic of compassion has inspired
-Humanitarian movements worldwide. The {{p|Buddhist}} cosmology, with
-Its vast scales of time and space and its teaching of rebirth,
-
-Has expanded human imagination about the structure of existence.
-The {{p|Buddhist}} art and architecture—from the {{p|Ajanta Caves}} to
-{{p|Borobudur}} to the {{p|Great Buddha}} of {{p|Kamakura}}—is among the greatest
-Religious art produced anywhere. The {{p|Buddhist}} tradition is vast,
-
-Diverse, and enormously rich. And it all traces back to the
-Young prince who left his palace and sat under the fig tree and
-Found the middle way.
-
-                         One more point worth making. The {{c|1959|Buddha}}'s
-Teaching is often contrasted with monotheistic traditions on the
-Question of divine existence. {{p|Buddhism}} is sometimes described as
-Atheistic, because the {{c|1959|Buddha}} did not affirm a creator god and
-Because {{p|Buddhist}} practice does not depend on relationship with
-
-Such a god. But the reality is more nuanced. {{p|Buddhism}} acknowledges
-The existence of many gods ({{p|devas}}) who inhabit the various
-Heavenly realms of the {{p|Buddhist}} cosmology. These gods are
-Long-lived and powerful but they are still subject to the cycle
-
-Of rebirth and, like humans, must eventually work out their own
-Liberation. The {{c|1959|Buddha}} is above them in spiritual attainment
-Because he has achieved liberation while they have not. The
-{{p|Buddhist}} position is not atheism but a refusal to grant ultimate
-
-Importance to any god or gods. The gods exist; they are not
-Ultimately relevant. What is ultimately relevant is each sentient
-Being's own road to freedom. So our song:
-The gods are many, and they live for long,
-But none of them the centre; all along
-This book has said the same. No second creed
-Stands here beside our own: the {{c|1959|Buddha}}'s seed
-Is our own rite, the middle way our road,
-Kept under names his country's tongue bestowed.
-
-{{c|2304|Siddhartha Gautama}}. The
-Prince who left his palace. The ascetic who rejected both luxury
-
-And self-torture. The seeker under the fig tree at {{p|Bodh Gaya}}.
-The {{c|1959|Buddha}} who saw the {{p|Four Noble Truths}}. The teacher of the
-{{p|Eightfold Path}}. The founder of the {{p|sangha}}. The wanderer who
-Taught for forty-five years. The one who died at {{p|Kushinagar}}
-
-With the last words, "Strive on with diligence." The one who
-Left no writings, no institution beyond the community, no
-Successor—and yet whose teaching spread across a continent and
-A world.
-
-            {{c|1959|Buddha}}. One of the supreme sons of the {{x|Axial Age}}.
-The one who showed that liberation from suffering was accessible
-Through disciplined practice rather than through priestly mediation
-Or ecstatic grace. The one whose compassion extended to all
-
-Sentient beings without distinction of caste or species. The one
-Whose teaching is, still today, a living path for hundreds of
-Millions.
-
-             The {{c|1959|Buddha}}. Awakened one.
+# Chapter 170: Classical Greece, Part Two
+
+Return now to {{p|Greece}}, where we left it at the end of the
+{{p|Persian Wars}}. The invasions of {{c|2287|Darius}} and {{c|1985|Xerxes}} have been
+Defeated. The {{p|Greek}} city-states, against unreasonable odds, have
+Preserved their independence. And now, in the victorious glow,
+
+{{p|Athens}} rises to a cultural ascendancy the world had not seen
+Before and has rarely matched since. The fifth century BCE. The
+Age of {{c|2231|Pericles}}. The age of the great tragedians. The age of the
+{{c|2357|Sophists}} and {{c|2232|Socrates}}. The age in which democracy, drama,
+
+Philosophy, and history became what they have remained.
+
+                                                            {{p|Athens}}
+Emerged from the {{p|Persian Wars}} with enormous prestige. The naval
+Victory at {{p|Salamis}} had been principally an {{p|Athenian}} victory—the
+
+{{p|Athenian}} fleet was the largest contingent, commanded by the
+{{p|Athenian}} {{c|2246|Themistocles}}. {{p|Athens}} also had the distinction of being
+The only major {{p|Greek}} city that had been physically destroyed by
+The {{p|Persians}} (their first acts on return were to rebuild their
+
+Burned city). The {{p|Athenians}} had therefore suffered more than
+Most and contributed more than most, and they claimed the leading
+Role in the subsequent {{p|Greek}} response. In four-seventy-eight
+BCE, {{p|Athens}} formed the {{p|Delian League}}—a coalition of {{p|Greek}}
+
+City-states, initially based on the sacred island of {{p|Delos}}, that
+Would coordinate defense against any future {{p|Persian}} aggression.
+The smaller members contributed ships or money; {{p|Athens}} provided
+The central fleet and leadership. Over the next several decades,
+
+The {{p|Delian League}} expanded. It conducted campaigns against
+{{p|Persian}} holdings in the {{p|Aegean}} and liberated {{p|Greek}} cities
+Still under {{p|Persian}} control. But over time, it became increasingly
+Clear that the {{p|League}} was really an {{p|Athenian}} empire. Member cities
+
+That tried to withdraw from the {{p|League}} were prevented from doing
+So by {{p|Athenian}} military force. The {{p|League}} treasury, originally
+At {{p|Delos}}, was moved to {{p|Athens}} in four-fifty-four BCE. {{p|Athens}}
+Began using {{p|League}} funds for {{p|Athenian}} purposes—including the
+
+Massive building program on the {{p|Acropolis}}. Member cities that
+Had once contributed as equals became subject peoples contributing
+Tribute to an imperial power. The {{p|Delian League}} had become, in
+Effect, the {{p|Athenian Empire}}. This transformation generated deep
+
+Resentment, especially in {{p|Sparta}} and her allies, who saw {{p|Athenian}}
+Imperialism as a threat to {{p|Greek}} freedom (or at least to their
+Own position). The tensions would eventually explode in the
+{{p|Peloponnesian War}}. But before that war, there was the golden
+
+Age. Between roughly four-sixty and four-thirty BCE, {{p|Athens}}
+Experienced the most concentrated cultural efflorescence the
+World had yet seen. The democratic constitution, reformed and
+Extended, reached its most developed form under the leadership
+
+Of {{c|2231|Pericles}}. Male citizens—perhaps fifty thousand in a city of
+Perhaps three hundred thousand total inhabitants—participated
+Directly in the {{x|Assembly}}, served on juries, held public office
+By lot. The {{x|Assembly}} met regularly on the {{p|Pnyx}} hill, where any
+
+Citizen could speak. Executive functions were performed by boards
+Of ten officials (one from each tribe, selected by lot or elected).
+Judicial functions were performed by large citizen juries, often
+Hundreds strong. Financial oversight, foreign policy, military
+
+Strategy—all these were debated in public assembly and decided
+By majority vote. The system was radical and, by the standards
+Of most human political systems, surprisingly stable. {{c|2231|Pericles}}
+Himself was elected general ({{p|strategos}}) year after year for
+
+Decades, giving him continuous leadership despite the formal
+Constraints of democracy. His funeral oration for {{p|Athenian}} war
+Dead, preserved by {{c|2228|Thucydides}} (possibly in reconstructed form),
+Is one of the supreme articulations of democratic ideology ever
+
+Composed. "Our constitution is called a democracy because power
+Is in the hands not of a minority but of the whole people." The
+{{c|2358|Periclean}} vision was of a city in which free citizens, governed
+By laws they themselves had made, engaged openly in public life,
+
+Celebrated beauty and culture, and defended their freedom against
+Enemies both external and internal. That vision was real, even
+Though imperfect. {{p|Athenian}} democracy did have limits—slaves,
+Women, {{p|metics}} (resident foreigners) were excluded. The empire
+
+That funded the cultural glory rested on coercion of other
+{{p|Greek}} states. But within these limits, the {{p|Athenian}} political
+Experiment was revolutionary. It was the first substantial
+Democracy in history, and its self-conception would inspire
+
+Democratic movements for twenty-five centuries afterward.
+
+                                                                And
+Under this democratic constitution, the cultural achievements
+Came. The theatrical festivals—the {{p|Dionysia}} in particular—were
+
+Civic institutions in which citizens competed in the production
+Of tragedies and comedies. Playwrights wrote for these festivals
+Plays that would be performed once and (if they were lucky)
+Awarded a prize. The competitive structure produced extraordinary
+
+Artistic energy. Out of this system came the three great tragedians
+Whose work survives: {{c|2224|Aeschylus}}, {{c|2225|Sophocles}}, and {{c|2226|Euripides}}. Each
+Represents a different stage and sensibility in the development
+Of {{p|Greek}} drama. {{c|2224|Aeschylus}} (five-twenty-five to four-fifty-six
+
+BCE), the earliest, wrote plays of mythic grandeur in which the
+Characters are larger than life and the themes cosmic. His
+{{p|Oresteia}} trilogy—{{p|Agamemnon}}, {{p|Libation Bearers}}, {{p|Eumenides}}—
+Is the only complete tragic trilogy to survive from antiquity.
+
+It tells the story of the {{p|House of Atreus}}: {{c|1337|Agamemnon}}'s return
+From {{p|Troy}}, his murder by his wife {{c|1336|Clytemnestra}}, the revenge of
+Their son {{c|2359|Orestes}}, and finally the trial of {{c|2359|Orestes}} before a
+Court established by the goddess {{c|1995|Athena}} to resolve the blood-
+
+Vengeance cycle. The trilogy ends with the transformation of the
+{{c|2360|Furies}} into the {{c|2361|Eumenides}} ("the kindly ones"), marking the
+Founding of civic justice to replace tribal revenge. It is a
+Meditation on the evolution of human civilization itself, from
+
+Primal retribution to institutional law. {{c|2225|Sophocles}} (four-ninety-six
+To four-oh-six BCE), the middle tragedian, wrote plays in which
+Individual characters of extraordinary moral weight struggle
+Against inexorable fate. His seven surviving plays include
+
+{{p|Oedipus Rex}}, {{p|Oedipus at Colonus}}, {{p|Antigone}}, and {{p|Electra}}. The
+Figure of {{c|2362|Oedipus}}—the king who solved the riddle of the {{c|2363|Sphinx}}
+But was blind to the riddle of his own life, who had murdered
+His father and married his mother without knowing it, who
+
+Discovered the truth and blinded himself in horror—is one of the
+Permanent archetypes of {{p|Western}} tragedy. {{c|2364|Sigmund Freud}} would,
+In the twentieth century CE, adopt {{c|2362|Oedipus}}'s name for the
+Central complex of his psychological theory. The figure is that
+
+Powerful. {{c|2365|Antigone}}, who defies the king's decree in order to
+Bury her brother according to divine law, embodies the conflict
+Between political authority and moral conscience in a form that
+Has never been surpassed. She is one of the great heroes of
+
+Civil disobedience, an ancestor of every subsequent figure who
+Has insisted that there is a higher law than the law of the state.
+{{c|2226|Euripides}} (four-eighty to four-oh-six BCE), the youngest, wrote
+Plays that were more psychologically modern, more skeptical of
+
+Traditional values, more concerned with the suffering of marginal
+Characters—women, slaves, the defeated. His {{p|Medea}}, {{p|Bacchae}},
+{{p|Trojan Women}}, and {{p|Hippolytus}} are harrowing examinations of
+Human passion and institutional violence. {{c|2226|Euripides}} was less
+
+Popular in his own time than {{c|2225|Sophocles}} but came to be regarded
+In later antiquity as perhaps the greatest of the three. His
+Willingness to show ugly emotions, to question pieties, to give
+Voice to the voiceless, made him a model for subsequent dramatic
+
+Traditions. Together, these three playwrights established the
+Terms of tragic drama. Every subsequent tragedy—{{c|2195|Shakespeare}}'s,
+{{c|2366|Racine}}'s, {{c|2367|Ibsen}}'s, {{c|2368|O'Neill}}'s—stands in relation to them. The
+Category of tragedy itself as a literary form is their invention.
+
+And alongside tragedy, comedy. {{c|2227|Aristophanes}} (four-forty-six to
+Three-eighty-six BCE) wrote comedies of savage political satire
+And bawdy humor that are as alive today as anything from antiquity.
+His {{p|Lysistrata}}, in which the women of {{p|Athens}} refuse sexual
+
+Relations with their husbands until the men stop fighting the
+{{p|Peloponnesian War}}, has been revived countless times as an
+Anti-war statement. His {{p|Clouds}} savagely mocks {{c|2232|Socrates}} and the
+{{p|Sophists}}, presenting {{c|2232|Socrates}} as a ridiculous charlatan floating
+
+In a basket and teaching his students to make the worse argument
+Seem better. The play is unfair to {{c|2232|Socrates}} but brilliantly
+Funny, and {{c|2232|Socrates}}, for what it is worth, attended the premiere
+And stood up in the audience so the crowd could compare the
+
+Real philosopher to {{c|2227|Aristophanes}}'s caricature. It is the kind
+Of anecdote that captures {{p|Athens}} at its most characteristic:
+Intensely public, intellectually ferocious, with playwrights and
+Philosophers all part of the same small, argumentative city.
+
+                                                                   And
+Sculpture and architecture. {{c|2229|Phidias}}, the supreme sculptor of the
+Age, executed the {{c|2369|Athena Parthenos}} for the {{p|Parthenon}}—a forty-
+Foot gold-and-ivory statue of the goddess holding a smaller figure
+
+Of {{c|2370|Nike}} in her hand. The statue is lost, but descriptions and
+Small replicas survive. He also sculpted the {{c|2065|Zeus}} at {{p|Olympia}},
+One of the seven wonders of the ancient world. {{c|2229|Phidias}}'s
+Students and imitators produced much of the sculptural work that
+
+Has come to define {{p|Greek}} classical art: the balance of idealized
+Beauty and restrained emotion, the sense of bodies as mathematically
+Perfect yet infused with vital presence. The {{p|Parthenon}} itself,
+Built on the {{p|Acropolis}} between four-forty-seven and four-thirty-two
+
+BCE under {{c|2231|Pericles}}'s sponsorship, designed by {{c|2230|Ictinus}} and {{c|2371|Callicrates}}
+With sculptural supervision by {{c|2229|Phidias}}, was the supreme
+Architectural achievement of classical antiquity. Its Doric
+Columns, subtly curved to correct optical distortions, its
+
+Sculpted metopes depicting mythic battles, its pediments with
+Gods and heroes, its interior frieze showing the {{p|Panathenaic}}
+Procession—every aspect was a calibration of proportion and
+Artistic meaning. The {{p|Parthenon}} influenced {{p|Western}} architecture
+
+For the next two and a half millennia. The classical column orders,
+The symmetrical pediment, the mathematical harmony of proportions—
+All of this became the vocabulary of {{p|Western}} monumental building.
+Courthouses, museums, banks, legislative buildings—the form
+
+Invented by {{c|2230|Ictinus}} on the {{p|Acropolis}} would be replicated in
+{{p|Washington}}, {{p|London}}, {{p|Paris}}, and everywhere else that aspired
+To classical dignity. The {{p|Parthenon}} was not just a building. It
+Was a template.
+
+                   And now to the philosophical revolution. We
+Discussed the {{p|pre-Socratics}} in the previous {{p|Greek}} chapter. In
+The second half of the fifth century BCE, philosophy took a
+New turn. The {{p|Sophists}}—traveling teachers of rhetoric and
+
+Wisdom—came to {{p|Athens}} and offered instruction for fees. Men like
+{{c|2372|Protagoras of Abdera}} (famous for declaring "Man is the measure
+Of all things"—a relativist proposition), {{c|2373|Gorgias of Leontini}} (a
+Brilliant rhetorician), and {{c|2374|Hippias of Elis}} (a polymath) taught
+
+Wealthy young {{p|Athenians}} the techniques of public speaking and
+Argument that were essential for political success in the
+Democratic assembly. The {{p|Sophists}} were influential but also
+Controversial. Their willingness to teach both sides of any
+
+Argument (and thereby, critics said, to teach that truth is
+Whatever you can make people accept) made them seem morally
+Dubious. Their fees made them seem mercenary. And their radical
+Philosophical positions—especially the relativism and skepticism
+
+Of {{c|2375|Protagoras}}—challenged traditional values. Into this intellectual
+Ferment stepped {{c|2232|Socrates}}. {{c|2232|Socrates}} (four-seventy to three-ninety-nine
+BCE) was an {{p|Athenian}} citizen, apparently of modest means, who
+Spent his days engaging other citizens in philosophical conversation
+
+In the public spaces of the city. He did not charge fees. He did
+Not teach any positive doctrine. He claimed only that he knew
+Nothing—and that this knowledge of his own ignorance was itself
+A kind of wisdom that his interlocutors usually lacked. His
+
+Method was dialogue: he would ask seemingly innocent questions
+About important topics (what is justice? what is courage? what is
+Piety?), and his interlocutors would confidently offer definitions,
+And {{c|2232|Socrates}} would then examine those definitions until their
+
+Inadequacies were exposed. The interlocutor, initially confident
+Of his knowledge, would come to realize that he did not know
+What he had thought he knew. This is the {{p|Socratic method}}, and
+It is one of the most influential pedagogical techniques ever
+
+Developed. It assumes that genuine knowledge is rare, that most
+Human "knowledge" is actually uncritical opinion, and that the
+Path to real understanding requires rigorous examination of our
+Beliefs. {{c|2232|Socrates}} took this method as a divine mission. He
+
+Believed he had been charged by the gods with the task of examining
+Himself and others, helping them to recognize their ignorance
+And thereby opening the possibility of genuine wisdom. He pursued
+This mission relentlessly for decades. In the process, he made
+
+Many foes: the mighty, shamed in the square,
+And those who kept the rites and would not bear
+A man who said a god spoke in his ear.
+The quarrel was the city's, and the year
+Was three-ninety-nine when it came to court:
+Who held the city's altars, and what sort
+Of voice might speak for its gods. The charge read
+"Impiety": he failed the gods, they said,
+The city's own, brought new ones in, and led
+Astray the youth of {{p|Athens}}. And he knew
+The gods he served were {{p|Athens}}' own gods too.
+He was tried by a jury of five hundred citizens. He defended
+Himself not by minimizing his activity but by insisting that his
+Philosophical mission was a gift to the city. The jury, unimpressed,
+
+Found him guilty. When asked what penalty he should receive, he
+Suggested that the city should honor him at public expense for
+The services he had rendered. The jury sentenced him to death by
+Hemlock. His trial and execution, described in {{c|2376|Plato}}'s {{p|Apology}},
+
+{{p|Crito}}, and {{p|Phaedo}}, became one of the foundational narratives
+Of {{p|Western}} intellectual history. The philosopher, calmly drinking
+Poison rather than abandoning his mission, became the archetype
+Of the thinker who will die for truth. His final words, as he
+
+Felt the hemlock's numbness climbing his legs, were reportedly
+A request that his friend {{c|2377|Crito}} pay a small debt: "{{c|2377|Crito}}, we
+Owe a rooster to {{c|2378|Asclepius}}. Pay it, don't forget." A pedestrian
+Comment, perhaps, but somehow perfect—the philosopher's last
+
+Thought was of a routine obligation, not of himself.
+
+                                                         {{c|2232|Socrates}}
+Wrote nothing. What we know of him comes primarily from two of
+His students: {{c|2376|Plato}} and {{c|2379|Xenophon}}. {{c|2376|Plato}} (four-twenty-seven to
+
+Three-forty-seven BCE) was by far the more philosophically
+Significant. He founded the {{p|Academy}}—the first institution we
+Might call a university—and wrote dozens of philosophical dialogues
+In which {{c|2232|Socrates}} typically appears as the main speaker. The
+
+Relationship between the historical {{c|2232|Socrates}} and {{c|2376|Plato}}'s literary
+{{c|2232|Socrates}} is debated; in the earlier dialogues {{c|2376|Plato}} probably
+Preserves his teacher's views, while in later dialogues he uses
+The figure of {{c|2232|Socrates}} to present his own developed philosophy.
+
+{{c|2376|Plato}}'s philosophical system—the theory of the forms, the tripartite
+Soul, the philosopher-king, the immortality of the soul—is one of
+The most influential in human history. It would shape {{p|Neoplatonism}},
+{{p|Christian}} theology, {{p|Islamic}} philosophy, and countless later
+
+Intellectual movements. {{c|2380|Alfred North Whitehead}}, in the twentieth
+Century CE, famously remarked that all subsequent {{p|Western}}
+Philosophy is "a series of footnotes to {{c|2376|Plato}}"—an overstatement,
+But capturing something important. And {{c|2376|Plato}}'s student {{c|1081|Aristotle}}
+
+(Three-eighty-four to three-twenty-two BCE) would take {{c|2376|Plato}}'s
+Philosophical project in a different direction, more empirical,
+More systematic, more concerned with the study of concrete things
+Rather than abstract forms. {{c|1081|Aristotle}}'s treatises on logic, physics,
+
+Biology, psychology, ethics, politics, rhetoric, and poetics would
+Define the disciplines of philosophy and science for nearly two
+Thousand years. Medieval {{p|Islamic}} and {{p|Christian}} thinkers would
+Call him simply "the Philosopher." His works, preserved and
+
+Transmitted through {{p|Byzantine}} and {{p|Arabic}} scholars, would shape
+The intellectual revival of medieval {{p|Europe}}. He would be student,
+In turn, to {{c|2381|Alexander the Great}}—linking the philosophical tradition
+Of {{c|2232|Socrates}} directly to the {{p|Macedonian}} conquest that would spread
+
+{{p|Hellenistic}} culture across three continents. But we are, again,
+Getting ahead of ourselves. In the span of this chapter, the
+Classical age is still unfolding. We will return to {{c|1081|Aristotle}} and
+{{c|1982|Alexander}} in the next chapter.
+
+                                   And meanwhile, the {{p|Peloponnesian War}}.
+The tensions between {{p|Athens}} and {{p|Sparta}} that had been building
+For decades finally exploded in four-thirty-one BCE. For the next
+Twenty-seven years, the {{p|Greek}} world was convulsed by war.
+
+{{c|2231|Pericles}} died of plague in four-twenty-nine BCE, leaving {{p|Athens}}
+Without strategic leadership in the war's middle phase. {{p|Athens}}
+Made disastrous military blunders—most catastrophically the
+{{p|Sicilian Expedition}} of four-fifteen to four-thirteen BCE, in
+
+Which an enormous {{p|Athenian}} fleet and army were annihilated in
+An attempt to conquer {{p|Syracuse}}. {{p|Athens}} never fully recovered.
+In four-oh-four BCE, after a final naval defeat, {{p|Athens}}
+Surrendered. The city's long walls were torn down. The democratic
+
+Constitution was briefly replaced by an oligarchy (the {{p|Thirty Tyrants}}),
+Though democracy was soon restored. The {{p|Athenian}} empire ended.
+{{p|Sparta}} was the nominal victor, but the war had exhausted all the
+{{p|Greek}} states. The golden age of classical {{p|Greece}} ended with
+
+This war. The {{p|Greek}} cities would never again be so powerful or
+So creative. They would eventually fall under the rule of
+{{p|Macedon}} to the north. And while some later cultural achievements
+Would still come—{{c|1081|Aristotle}}'s work, the {{p|Hellenistic}} diffusion
+
+Of {{p|Greek}} culture—the specifically classical city-state
+Civilization was over. Its distinctive creativity had been the
+Product of a specific political moment: free citizens of small
+Competitive cities, engaged in direct democratic politics, with
+
+Enough wealth from empire to support cultural production and
+Enough freedom from external domination to think and argue openly.
+That moment lasted about a century. It produced more foundational
+Cultural achievements than any other comparable period in human
+
+History. And then it was gone.
+
+                                     Classical {{p|Greece}}, part two.
+The {{p|Delian League}} and the {{p|Athenian Empire}}. {{c|2231|Pericles}}'s
+Leadership. {{c|2224|Aeschylus}}, {{c|2225|Sophocles}}, {{c|2226|Euripides}}, {{c|2227|Aristophanes}}—
+
+The great playwrights. {{c|2229|Phidias}} and the {{p|Parthenon}}. The {{p|Sophists}}
+And {{c|2232|Socrates}}. {{c|2376|Plato}} and the {{p|Academy}}. {{c|1081|Aristotle}} in the wings.
+The {{p|Peloponnesian War}} that destroyed everything. The supreme
+Concentration of cultural achievement in one small city in one
+
+Short century.
+
+                      Classical {{p|Athens}}. The fifth-century
+Civilization that taught the {{p|West}} what cities, what democracies,
+What philosophy, and what theater could be.

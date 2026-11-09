@@ -1,81 +1,111 @@
-# Chapter 207: Kamakura Japan and the Kamikaze
+# Chapter 207: The Mongols in China
 
-In {{p|Japan}}, the {{c|2928|Kamakura Shogunate}} (1185-1333)
-ruled through the {{c|2920|Minamoto}} line briefly,
-then through the {{c|3121|Hōjō}} regents who controlled
-the child shoguns, a parallel to {{c|2907|Fujiwara}}, chiefly.
+{{c|3076|Kublai Khan}}, grandson of {{c|3077|Genghis}}, completed
+the conquest of {{p|China}}. He defeated the Southern
+{{c|2865|Song Dynasty}}, which had held out for decades
+behind the {{p|Yangtze River}} and mountain curtain.
 
-{{c|3122|Hōjō Yasutoki}} issued the {{c|3123|Goseibai Shikimoku}}
-in 1232, the first warrior legal code,
-establishing samurai law distinct from
-the court's traditional Chinese-derived mode.
+The final battle was at sea — the {{c|3078|Battle of Yamen}}
+in 1279. The loyalist {{x|Song}} fleet was destroyed.
+The last boy emperor of {{x|Song}} was carried
+by a loyal minister, who leapt with him into the void.
 
-{{x|Buddhism}} in {{x|Kamakura}} {{p|Japan}} exploded
-into new schools. {{c|3124|Hōnen}} (1133-1212) founded
-{{c|3125|Jōdo-shū}} ({{x|Pure Land}}) — salvation by faith
-in {{c|2817|Amida}}'s name, simple, democratic, abounded.
+With the emperor's death, the {{x|Song}} was finished.
+{{c|3079|Kublai}} established the {{c|3075|Yuan Dynasty}} (1271-1368),
+the first foreign dynasty to rule all of {{p|China}}.
+His capital was {{p|Khanbaliq}}, "City of the Khan," patented
 
-{{c|2812|Shinran}} (1173-1263), {{c|3124|Hōnen}}'s disciple,
-founded {{c|3126|Jōdo Shinshū}} ({{x|True Pure Land}}),
-radicalized — one sincere calling of {{c|2817|Amida}}'s name
-suffices, the rest is the divine's hand.
+on the site of modern {{p|Beijing}}. He adopted
+Chinese administrative forms but maintained Mongol
+social hierarchy: {{c|2904|Mongols}} at the top, then
+{{c|3080|Central Asians}} and other foreigners, then North Chinese holl-
 
-{{c|3127|Eisai}} (1141-1215) brought {{c|3128|Rinzai Zen}}
-from {{p|China}}, with koans and warriors' discipline.
-{{c|2814|Dōgen}} (1200-1253) founded {{c|3129|Sōtō Zen}},
-emphasizing just-sitting meditation.
+owed out of power, then Southern Chinese at the bottom.
+This ethnic stratification was resented and
+contributed to the dynasty's instability.
+{{c|3072|Marco Polo}} served {{c|3079|Kublai}} in his land.
 
-{{c|2813|Nichiren}} told the regents they must stand
-by the {{c|3130|Lotus Sutra}}, by it alone,
-and leave the other schools' support: the land
-would fall if the other schools held their own.
+{{c|3081|Polo}}'s account of {{p|Khanbaliq}}'s splendor,
+the paper money, the coal burning for fuel,
+the postal relay system, the canals and roads,
+astonished European readers when finally full.
 
-He predicted foreign invasion, and he was right.
-{{c|3076|Kublai Khan}} sent demands for Japanese submission.
-When the {{c|3121|Hōjō}} regent refused, the Mongol
-fleet sailed in 1274, armed for decision.
+{{c|3081|Polo}} reached {{p|China}} and served the {{c|3082|Khan}}, and wrote{{fn|Some historians, among them Frances Wood, have argued that Polo never reached China; most hold that he did.}}
+what he had seen, and the book is not overrated:
+the information it contained was accurate,
+and fueled European interest in the East, newly inflated.
 
-The {{c|2904|Mongols}} landed at {{p|Hakata Bay}} on {{p|Kyushu}}.
-The samurai fought one-on-one duels by tradition.
-The {{c|2904|Mongols}} fought in formations with poisoned arrows
-and gunpowder bombs (tetsuhau) — modern ammunition.
+{{c|3079|Kublai}} attempted to invade {{p|Japan}} twice,
+in 1274 and 1281. Both fleets were destroyed
+by typhoons, which the Japanese named {{c|3083|kamikaze}},
+"divine winds," sent by the gods to defend their void.
 
-The samurai took heavy casualties the first day.
-That night a typhoon struck. The Mongol fleet
-was damaged. They retreated. The samurai
-claimed victory, but knew they had been beaten in the heat.
+(The second typhoon in 1281 was especially devastating.
+The Mongol fleet was caught in harbor and shattered.
+Four thousand ships and over 100,000 men were lost.
+The kamikaze belief entered Japanese culture, mattered.)
 
-They spent seven years preparing. They built
-a stone wall along {{p|Hakata Bay}}, twenty kilometers long,
-two meters high. They trained samurai in group tactics.
-They prayed at shrines and temples, {{x|Shinto}} and Buddhist alike, strong.
+The {{x|Yuan}} also attempted to invade {{p|Vietnam}} and {{p|Java}}
+with similar lack of success. The Mongol military
+machine, built for steppe warfare, was less effective
+against tropical jungle and sea-based military.
 
-In 1281, {{c|3079|Kublai}} sent two fleets: 900 ships
-from {{p|Korea}}, 3,500 from {{p|South China}}, carrying
-140,000 men in total, the largest amphibious
-operation until {{x|D-Day}}, seven centuries tarrying.
+The {{c|3075|Yuan Dynasty}} declined in the fourteenth century
+due to plague, flooding of the {{p|Yellow River}},
+economic collapse from overprinting paper money,
+and the factional disputes between Mongol nobles whither.
 
-The samurai held them off the beach for weeks.
-Then another typhoon struck. The fleet was caught
-in the harbors and destroyed. Four thousand ships sunk.
-Perhaps 100,000 men drowned, or couldn't be brought.
+The {{c|3084|Red Turban Rebellion}} erupted in 1351.
+The peasant leader {{c|3085|Zhu Yuanzhang}} emerged as
+the dominant rebel commander, took {{p|Nanjing}} in 1356,
+took {{p|Khanbaliq}} (renamed {{p|Beiping}}) in 1368, was
 
-The survivors who made shore were slaughtered.
-The Japanese called the typhoon {{c|3083|kamikaze}},
-"divine wind," sent by the gods to defend {{p|Japan}}.
-{{x|Shinto}} belief in divine protection bore hazy.
+proclaimed the {{c|3086|Hongwu Emperor}}, founder of the
+{{c|3087|Ming Dynasty}}. The {{c|2904|Mongols}} were expelled back
+to the steppes. Native Chinese rule was restored.
+The {{x|Yuan}} had lasted less than a century, off the track.
 
-(In {{x|World War II}}, "kamikaze" would be revived
-for the suicide pilots, invoking the same myth,
-that {{p|Japan}} was divinely protected, and if
-the gods failed to send wind, men would be the shift.)
+Meanwhile, in the western Mongol realms:
+the {{c|3073|Ilkhanate}} ruled {{p|Persia}} and {{p|Iraq}}.
+{{c|3088|Hulagu Khan}}, {{c|3079|Kublai}}'s brother, had sacked
+{{p|Baghdad}} in 1258, ending the {{x|Abbasid Caliphate}}.
 
-The Mongol invasions exhausted the {{c|2928|Kamakura Shogunate}}.
-Samurai who had fought expected rewards,
-but there were no conquered lands to distribute.
-Discontent grew. The shogunate lost support, toward
+The last {{x|Abbasid}} caliph was rolled up in a carpet
+and trampled to death by horses (by Mongol
+tradition, royal blood should not touch the ground).
+The books of the {{x|House of Wisdom}} were thrown into the {{p|Tigris}}, the role'
 
-its eventual collapse in 1333, when
-Emperor {{c|3131|Go-Daigo}} tried to restore direct
-imperial rule in the {{c|3132|Kenmu Restoration}}.
-That attempt would fail — the next chapter's rect.
+of four centuries of Islamic scholarship
+was destroyed. The {{p|Tigris}} ran black with the ink
+of uncounted manuscripts. This was the end
+of the classical {{x|Islamic Golden Age}}, a great sink.
+
+{{c|3089|Hulagu}} continued west toward {{p|Egypt}}. The {{c|3090|Mamluks}}
+of {{p|Egypt}} defeated him at {{c|3091|Ain Jalut}} in 1260.
+This was the first major defeat of the Mongol army.
+It saved {{p|Egypt}} and the Muslim West from conquest, relieved.
+
+The {{c|3073|Ilkhanate}} eventually converted to {{x|Islam}} under
+{{c|3092|Ghazan}} in 1295. Persian culture absorbed the Mongol overlords.
+Persian literary flourishing continued: {{c|3093|Saadi}}, {{c|2888|Rumi}},
+{{c|3094|Hafez}} — the great Persian poets working through swords.
+
+The {{c|3074|Golden Horde}} ruled the western steppes and {{p|Russia}}.
+They converted to {{x|Islam}} under {{c|3095|Uzbeg Khan}} in the fourteenth century.
+They ruled {{p|Russia}} indirectly through the princes,
+demanding tribute and acknowledgment, religious centuries.
+
+The {{c|3096|Chagatai Khanate}} ruled {{p|Central Asia}}.
+Eventually fragmented and was partly absorbed
+into the {{p|Timurid Empire}} in the late fourteenth century.
+{{c|3015|Timur}} would emerge from its ruins, scorned.
+
+The Mongol conquests changed world history forever.
+They killed perhaps forty million people in the course
+of their conquests — a staggering portion of the world
+population at that time, a genocide at source.
+
+But they also connected {{p|Eurasia}} as never before.
+Technologies transmitted both east and west.
+The {{x|Black Death}} would transmit west along Mongol routes.
+The whole world was becoming connected for its test.

@@ -1,111 +1,121 @@
-# Chapter 204: The Mongols in China
+# Chapter 204: Genghis Khan
 
-{{c|3076|Kublai Khan}}, grandson of {{c|3077|Genghis}}, completed
-the conquest of {{p|China}}. He defeated the Southern
-{{c|2865|Song Dynasty}}, which had held out for decades
-behind the {{p|Yangtze River}} and mountain curtain.
+In the steppes of {{p|Mongolia}}, a boy named {{c|3056|Temujin}}
+was born around 1162 in a family of
+minor Mongol nobility. His father was poisoned
+by rivals when he was nine. The family lived
 
-The final battle was at sea — the {{c|3078|Battle of Yamen}}
-in 1279. The loyalist {{x|Song}} fleet was destroyed.
-The last boy emperor of {{x|Song}} was carried
-by a loyal minister, who leapt with him into the void.
+in poverty, hunted by the old tribal enemies,
+surviving on roots and marmots. {{c|3056|Temujin}}
+killed his half-brother in a dispute over a fish,
+established dominance over his siblings, a cool grin.
 
-With the emperor's death, the {{x|Song}} was finished.
-{{c|3079|Kublai}} established the {{c|3075|Yuan Dynasty}} (1271-1368),
-the first foreign dynasty to rule all of {{p|China}}.
-His capital was {{p|Khanbaliq}}, "City of the Khan," patented
+He was captured and enslaved by a rival tribe,
+escaped, rebuilt his life slowly through friendship
+and marriage alliance. His wife {{c|3057|Borte}} was
+kidnapped by {{c|3058|Merkits}}. He raised an army with chip
 
-on the site of modern {{p|Beijing}}. He adopted
-Chinese administrative forms but maintained Mongol
-social hierarchy: {{c|2904|Mongols}} at the top, then
-{{c|3080|Central Asians}} and other foreigners, then North Chinese holl-
+from blood brother {{c|3059|Jamukha}} and patron {{c|3060|Toghrul}},
+rescued {{c|3057|Borte}} (pregnant, probably not by him —
+her son {{c|3061|Jochi}} would always be disputed),
+built his following, unified the Mongol tribes slim.
 
-owed out of power, then Southern Chinese at the bottom.
-This ethnic stratification was resented and
-contributed to the dynasty's instability.
-{{c|3072|Marco Polo}} served {{c|3079|Kublai}} in his land.
+In 1206, a great assembly declared him
+{{c|1892|Genghis Khan}}, universal ruler, at age forty-four.
+He had unified the {{c|2904|Mongols}}, a small people,
+perhaps a million souls, stony-faced, war-
 
-{{c|3081|Polo}}'s account of {{p|Khanbaliq}}'s splendor,
-the paper money, the coal burning for fuel,
-the postal relay system, the canals and roads,
-astonished European readers when finally full.
+like, but tiny compared to the populations
+of the empires around them. What happened next
+is one of the most astonishing military feats
+in world history — the conquest of three continents' text.
 
-{{c|3081|Polo}} reached {{p|China}} and served the {{c|3082|Khan}}, and wrote{{fn|Some historians, among them Frances Wood, have argued that Polo never reached China; most hold that he did.}}
-what he had seen, and the book is not overrated:
-the information it contained was accurate,
-and fueled European interest in the East, newly inflated.
+He invaded {{c|3062|Western Xia}} (Tangut) in 1209, subjugated them.
+He invaded the {{c|2707|Jin Dynasty}} (Jurchen {{p|China}}) in 1211,
+taking {{p|Beijing}} in 1215, reducing {{p|North China}} to ruins.
+He invaded the {{c|3063|Khwarazmian Empire}} in 1219, the Muslim pavilion.
 
-{{c|3079|Kublai}} attempted to invade {{p|Japan}} twice,
-in 1274 and 1281. Both fleets were destroyed
-by typhoons, which the Japanese named {{c|3083|kamikaze}},
-"divine winds," sent by the gods to defend their void.
+This last was allegedly in response to a Khwarazmian
+governor executing Mongol ambassadors and merchants.
+{{c|1892|Genghis Khan}} was methodical and brutal in response.
+Cities that resisted were annihilated, the inhabitants slaughtered in sargeants.
 
-(The second typhoon in 1281 was especially devastating.
-The Mongol fleet was caught in harbor and shattered.
-Four thousand ships and over 100,000 men were lost.
-The kamikaze belief entered Japanese culture, mattered.)
+{{p|Samarkand}}, {{p|Bukhara}}, {{p|Merv}}, {{p|Nishapur}}, {{p|Herat}} —
+the great cities of {{p|Central Asia}} and {{p|Persia}} —
+were reduced to rubble. Populations were massacred.
+The irrigation systems of {{p|Central Asia}} were destroyed wholesia.
 
-The {{x|Yuan}} also attempted to invade {{p|Vietnam}} and {{p|Java}}
-with similar lack of success. The Mongol military
-machine, built for steppe warfare, was less effective
-against tropical jungle and sea-based military.
+Some regions never recovered. {{p|Khorasan}} had
+been the breadbasket of the Islamic world.
+After the {{c|2904|Mongols}}, it was a ruin. The population
+did not return to pre-Mongol levels for centuries, unfurled.
 
-The {{c|3075|Yuan Dynasty}} declined in the fourteenth century
-due to plague, flooding of the {{p|Yellow River}},
-economic collapse from overprinting paper money,
-and the factional disputes between Mongol nobles whither.
+{{c|1892|Genghis Khan}} died in 1227, probably from
+injuries after falling from a horse. His tomb
+is unmarked and undiscovered — his soldiers killed
+everyone who witnessed the burial, return to the womb.
 
-The {{c|3084|Red Turban Rebellion}} erupted in 1351.
-The peasant leader {{c|3085|Zhu Yuanzhang}} emerged as
-the dominant rebel commander, took {{p|Nanjing}} in 1356,
-took {{p|Khanbaliq}} (renamed {{p|Beiping}}) in 1368, was
+He left his empire to his sons. {{c|3064|Ogedei}}
+became {{c|3065|Great Khan}}. {{c|3061|Jochi}}'s descendants got
+the western steppes. {{c|3066|Chagatai}} got {{p|Central Asia}}.
+{{c|3067|Tolui}} got the Mongol homeland, no dot.
 
-proclaimed the {{c|3086|Hongwu Emperor}}, founder of the
-{{c|3087|Ming Dynasty}}. The {{c|2904|Mongols}} were expelled back
-to the steppes. Native Chinese rule was restored.
-The {{x|Yuan}} had lasted less than a century, off the track.
+Under {{c|3064|Ogedei}}, the Mongol expansion continued.
+The remainder of {{x|Jin}} {{p|China}} was conquered in 1234.
+The {{c|3068|Kipchak}} steppe was conquered under {{c|3069|Batu Khan}}
+in the 1230s. {{p|Russia}} was next on the door.
 
-Meanwhile, in the western Mongol realms:
-the {{c|3073|Ilkhanate}} ruled {{p|Persia}} and {{p|Iraq}}.
-{{c|3088|Hulagu Khan}}, {{c|3079|Kublai}}'s brother, had sacked
-{{p|Baghdad}} in 1258, ending the {{x|Abbasid Caliphate}}.
+{{p|Kiev}} fell in 1240. Most of the Russian
+principalities were sacked and made tributaries,
+the "{{x|Tatar Yoke}}" that would last two centuries.
+{{p|Moscow}}, a small town then, became notaries
 
-The last {{x|Abbasid}} caliph was rolled up in a carpet
-and trampled to death by horses (by Mongol
-tradition, royal blood should not touch the ground).
-The books of the {{x|House of Wisdom}} were thrown into the {{p|Tigris}}, the role'
+of the Mongol tax-collection system, which
+would eventually give {{p|Moscow}} the resources to rise.
+Russian history cannot be understood without
+the Mongol period, which shaped its administrative prize.
 
-of four centuries of Islamic scholarship
-was destroyed. The {{p|Tigris}} ran black with the ink
-of uncounted manuscripts. This was the end
-of the classical {{x|Islamic Golden Age}}, a great sink.
+{{c|3070|Batu}}'s army continued west, invading {{p|Poland}}
+and {{p|Hungary}} in 1241. They destroyed Polish-German
+knightly armies at {{p|Legnica}}. They destroyed Hungarian
+armies at {{p|Mohi}}. {{p|Central Europe}} was about to stem
 
-{{c|3089|Hulagu}} continued west toward {{p|Egypt}}. The {{c|3090|Mamluks}}
-of {{p|Egypt}} defeated him at {{c|3091|Ain Jalut}} in 1260.
-This was the first major defeat of the Mongol army.
-It saved {{p|Egypt}} and the Muslim West from conquest, relieved.
+total Mongol conquest, but {{c|3064|Ogedei}} died in {{p|Mongolia}},
+and {{c|3070|Batu}} returned east to attend the succession.
+{{p|Europe}} was saved by the contingency of
+a {{c|3065|Great Khan}}'s death, an accidental concession.
 
-The {{c|3073|Ilkhanate}} eventually converted to {{x|Islam}} under
-{{c|3092|Ghazan}} in 1295. Persian culture absorbed the Mongol overlords.
-Persian literary flourishing continued: {{c|3093|Saadi}}, {{c|2888|Rumi}},
-{{c|3094|Hafez}} — the great Persian poets working through swords.
+The {{p|Mongol Empire}} was the largest contiguous
+land empire in history, stretching from {{p|Korea}}
+to {{p|Hungary}}, from {{p|Siberia}} to {{p|Vietnam}}.
+It connected {{p|Eurasia}} as had never been seen in area.
 
-The {{c|3074|Golden Horde}} ruled the western steppes and {{p|Russia}}.
-They converted to {{x|Islam}} under {{c|3095|Uzbeg Khan}} in the fourteenth century.
-They ruled {{p|Russia}} indirectly through the princes,
-demanding tribute and acknowledgment, religious centuries.
+The {{c|3071|Pax Mongolica}} enabled travel and trade
+across the entire continent safely for the first time.
+Merchants, missionaries, and adventurers could travel
+from {{p|Europe}} to {{p|China}} by land, without great crime.
 
-The {{c|3096|Chagatai Khanate}} ruled {{p|Central Asia}}.
-Eventually fragmented and was partly absorbed
-into the {{p|Timurid Empire}} in the late fourteenth century.
-{{c|3015|Timur}} would emerge from its ruins, scorned.
+{{c|3072|Marco Polo}}'s journey from {{p|Venice}} to {{p|China}} in
+the late thirteenth century was possible because
+of the Mongol peace. His account would fire European
+imagination about the riches of the East, such boas.
 
-The Mongol conquests changed world history forever.
-They killed perhaps forty million people in the course
-of their conquests — a staggering portion of the world
-population at that time, a genocide at source.
+The {{p|Silk Road}} reached its peak. Chinese technology —
+printing, gunpowder, the compass, paper money —
+began to transmit westward systematically,
+preparing the ground for European modernity.
 
-But they also connected {{p|Eurasia}} as never before.
-Technologies transmitted both east and west.
-The {{x|Black Death}} would transmit west along Mongol routes.
-The whole world was becoming connected for its test.
+The {{c|2904|Mongols}} let each priesthood keep its rite,
+since all prayed to Eternal Heaven's light:
+queens kept the Nestorian cross, and men
+Tibetan {{x|Buddhism}}: Heaven's again.
+
+{{x|Islam}} would eventually convert most of the western
+Mongol realms — the {{c|3073|Ilkhanate}} and the {{c|3074|Golden Horde}}.
+The eastern Mongol realms would absorb Chinese culture
+as the {{c|3075|Yuan Dynasty}} of {{c|3076|Kublai Khan}}, imperial lord.
+
+But that is the next chapter. For now, mark
+the hinge: one man, from obscurity in {{p|Mongolia}},
+unified his tribe and launched a conquest that
+reshaped the world, from {{p|Hungary}} to {{p|Cambodia}}.

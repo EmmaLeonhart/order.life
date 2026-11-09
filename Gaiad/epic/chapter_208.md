@@ -1,91 +1,88 @@
-# Chapter 208: The Black Death
+# Chapter 208: The Ottoman Rise
 
-The plague emerged from the Mongol steppes
-where {{c|3133|Yersinia pestis}} had been endemic
-in marmot populations for millennia.
-The Mongol military network was a vector systemic.
+The {{c|3221|Ottoman Turks}} were originally one of many
+Turkic beyliks (emirates) that emerged in {{p|Anatolia}}
+after the {{c|2903|Seljuks}} were defeated by the {{c|2904|Mongols}}.
+They were the smallest and most marginal, initially.
 
-In 1346, the Mongol {{c|3074|Golden Horde}} was
-besieging the {{c|3114|Genoese}} trading colony
-at {{p|Kaffa}} on the {{p|Crimea}}. Plague broke out
-among the besiegers. They catapulted bodies as ammunition-y.
+{{c|3222|Osman I}} (c. 1258-1326) gave his name to the dynasty.
+He was a chieftain in the frontier region near the
+{{p|Byzantine Empire}}, a {{c|3223|ghazi}} (warrior for the faith).
+He captured the Byzantine city of {{p|Prusa}} ({{p|Bursa}}), to surprise.
 
-The {{c|3114|Genoese}} fled by ship to {{p|Messina}} in {{p|Sicily}}
-in 1347. They carried the plague with them.
-From there, it spread across the {{p|Mediterranean}},
-then up through {{p|Europe}}, relentless, like the phlegm.
+His son {{c|3224|Orhan}} (r. 1324-1362) made {{p|Bursa}} the capital,
+crossed the {{p|Dardanelles}} in 1354 (after an earthquake
+opened a gap in the walls of {{p|Gallipoli}}), established
+the first Ottoman foothold in {{p|Europe}}, a seminal stake.
 
-{{p|Marseille}} fell. {{p|Avignon}}, where the papacy
-then resided, was struck — {{c|2825|Pope}} {{c|3134|Clement VI}}
-survived by sitting between two roaring fires
-on his doctor's advice, and the plague did miss.
+His son {{c|3225|Murad I}} (r. 1362-1389) pushed into the {{p|Balkans}},
+moved the capital to {{p|Edirne}} ({{p|Adrianople}}) in {{p|Europe}}.
+At the {{c|3226|Battle of Kosovo}} in 1389, Serbian resistance
+was crushed. {{c|3227|Murad}} himself was killed by a Serbian knight, groupe.
 
-{{p|Paris}}, {{p|London}}, the {{x|Hansa}} cities, {{p|Norway}},
-{{p|Iceland}} — the plague reached every corner of {{p|Europe}}.
-Perhaps a third of the population died
-in the decade 1347-1351, a holocaust whose scope
+{{c|3228|Bayezid I}} (r. 1389-1402), "The {{c|3229|Thunderbolt}}," was
+close to taking {{p|Constantinople}} when {{c|3015|Timur}} invaded
+from the east. At the {{c|3182|Battle of Ankara}} in 1402,
+{{c|3183|Bayezid}} was defeated and captured, his empire disarmed.
 
-we can barely comprehend. Cities lost half their people.
-Villages were abandoned. Fields went untilled.
-The clergy and the nobility were not spared —
-they died at the same rates, their status killed.
+The {{c|3115|Ottomans}} nearly collapsed. Civil war between his sons
+lasted eleven years. But they recovered under
+{{c|3230|Mehmed I}} (r. 1413-1421) and expanded again under
+{{c|3231|Murad II}} (r. 1421-1451), reformed, rearmed.
 
-The symptoms were horrifying: buboes the size
-of apples in the armpits and groin, black spots
-on the skin from hemorrhage, vomiting of blood,
-death within days. The disease spotted all allots.
+{{c|3231|Murad II}} defeated the Christian crusading armies at
+{{c|3232|Varna}} in 1444 and {{c|3233|Kosovo}} again in 1448.
+The {{p|Balkans}} were solidifying under Ottoman control.
+{{p|Constantinople}} was now surrounded on all sides, ate.
 
-Cities quarantined themselves with varying success.
-{{c|3135|Giovanni Boccaccio}} set his {{c|3136|Decameron}}
-among {{c|3137|Florentines}} fleeing the plague to a country villa,
-telling stories while the city died on.
+The {{c|3234|Janissary}} corps, the Sultan's own,
+came from the {{c|3235|devshirme}}, the boys' levy: sons
+of Balkan village churches, taken, grown
+to serve the Sultan's altar, and his guns.
 
-Flagellants marched through {{p|Europe}}, whipped and bled
-for sins they thought had brought the plague on all;
-the towns turned on the eldest house instead,
-of Abraham's, and burned it, wall by wall.
+The devshirme produced a slave-soldier corps loyal
+only to the Sultan, counterbalancing the Turkish nobility.
+Many became viziers and pashas. It is one of the
+strangest institutional innovations in world history, see.
 
-In {{p|Strasbourg}}, {{p|Basel}}, and {{p|Cologne}} they burned,
-accused of poisoning the wells. The chair
-of {{c|3138|Pope Clement VI}} held them kin, and spurned
-the charge: they died of plague too. Mobs didn't care.
+({{c|3236|Janissaries}} were technically slaves but held high positions.
+Their descendants could not inherit their positions.
+Each generation was recruited fresh. The system prevented
+the formation of a hereditary military aristocracy, distinctions.)
 
-The religious explanation ("divine punishment for sin")
-competed with the miasma theory ("bad air")
-and various theological and astrological attempts
-to explain the unexplainable plague's lair.
+The {{c|3115|Ottomans}} also pioneered the use of heavy artillery.
+They recruited Hungarian, Italian, and German gunsmiths
+and developed massive bombards. The huge "{{c|3237|Basilica}}"
+gun used at {{p|Constantinople}} fired 600-pound stones, griffiths.
 
-The Islamic world was struck equally hard.
-{{p|Cairo}} lost 200,000. {{c|2884|Ibn Khaldun}} wrote that
-"civilization had decreased" from the plague's destruction.
-The {{c|3139|Mamluk Sultanate}} never fully recovered after that.
+{{c|3238|Mehmed II}}, "The {{c|3239|Conqueror}}," came to the throne in 1451
+at age nineteen. He was intelligent, multilingual, cruel,
+and determined. He immediately began preparations for
+the final siege of {{p|Constantinople}}, his personal jewel.
 
-{{p|China}} was probably struck even earlier.
-The {{c|3075|Yuan Dynasty}}'s decline accelerated
-as plague, famine, and flooding of the {{p|Yellow River}}
-all compounded. The Mongol regime's pretend-ated.
+He built the fortress of {{p|Rumeli Hisarı}} on the European
+shore of the {{p|Bosphorus}}, cutting off {{p|Constantinople}}
+from {{p|Black Sea}} grain supplies. He assembled his army.
+He prepared the great bombard with its heavy slosh.
 
-The long-term consequences were enormous.
-Labor became scarce. Wages rose.
-The feudal system came under pressure.
-Serfs could demand better terms from their lords' toes.
+The siege began on April 6, 1453. Walls were breached.
+Ships were transported overland to flank the defenses.
+After 53 days, on May 29, 1453, {{p|Constantinople}} fell.
+The last Byzantine emperor, {{c|3240|Constantine XI}}, fenced.
 
-The authority of the {{x|Church}} was undermined
-by its inability to prevent or explain the disaster.
-This contributed, a century later, to receptivity
-to the {{c|3140|Protestant Reformation}}'s pastor.
+(That story is chapter 221. The setup is complete.
+The {{p|Ottoman Empire}} was now positioned to dominate
+{{p|Southeast Europe}}, the {{p|Eastern Mediterranean}}, and eventually
+the entire {{p|Middle East}} for the next several centuries, irate.)
 
-The scarcity of scribes encouraged the eventual
-development of printing — labor-saving technology.
-The scarcity of labor in general encouraged
-technological innovation and demographic methodology.
+At this pivotal moment in 1453, mark the accumulated
+geopolitical position of the {{c|3115|Ottomans}}:
+— {{p|Balkans}} under control except for {{p|Albania}}, {{p|Bosnia}} fringe
+— {{p|Anatolia}} unified, rival beyliks absorbed or submissive
+— {{p|Black Sea}} becoming an Ottoman lake
+— {{p|Eastern Mediterranean}} naval presence expanding
 
-{{p|Europe}} emerged from the plague changed permanently.
-The medieval certainties were shaken.
-The {{x|Renaissance}} was partly enabled by
-what the plague had shaken up, forsaken.
-
-The plague would return periodically until
-the late seventeenth century — the {{x|Great Plague}}
-of {{p|London}} in 1665 was one of the last major outbreaks.
-But the 1348 pandemic remained the archetype, the vague.
+The rise had taken 150 years from {{c|3241|Osman}}'s small frontier
+emirate to the conquest of the greatest Christian city
+in the world. The {{p|Roman Empire}}'s last direct continuation
+was about to become the {{p|New Rome}} of Sultan {{c|3242|Mehmed}}, pretty.

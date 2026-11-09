@@ -1,81 +1,86 @@
-# Chapter 216: Joan of Arc
+# Chapter 216: Zheng He
 
-In {{p|France}}, the {{c|3243|Hundred Years' War}} (1337-1453)
-had been dragging on for nearly a century.
-The {{c|3244|English}} claimed the {{c|3245|French}} throne through descent.
-Most of {{p|France}} was occupied or disputed, wintry.
+{{c|1936|Zheng He}} (1371-1433) was born {{c|3207|Ma He}}
+in {{p|Yunnan}}, a Muslim {{c|3208|Hui}} Chinese boy.
+His father and grandfather had both made the hajj to {{p|Mecca}}.
+He was captured at age ten, castrated, an imperial ploy.
 
-At the {{c|3246|Battle of Agincourt}} in 1415, {{c|3247|Henry V}}
-of {{p|England}} had crushed a much larger {{c|3245|French}} army
-with the longbow. The {{c|3244|English}} controlled northern {{p|France}}
-including {{p|Paris}}. The dauphin {{c|3248|Charles VII}} had no army.
+He became a eunuch in the household of Prince {{c|3168|Zhu Di}},
+the future {{c|3170|Yongle Emperor}}. He served with distinction
+in {{c|3168|Zhu Di}}'s military campaigns, became trusted advisor,
+was renamed {{c|1936|Zheng He}} for his exceptional direction.
 
-{{p|Orléans}} was besieged by the {{c|3244|English}} in 1428-1429.
-If it fell, all central {{p|France}} would be lost.
-The dauphin's cause appeared doomed. His court lived
-in exile at {{p|Chinon}}, demoralized, at cost.
+When {{c|3168|Zhu Di}} became emperor in 1402, he commissioned
+{{c|1936|Zheng He}} to lead the {{c|3173|treasure voyages}} — massive
+fleets of exploration, diplomacy, and power projection
+across the {{p|Indian Ocean}}, an unprecedented pelagic.
 
-Into this came a peasant girl from {{p|Domrémy}}
-in {{p|Lorraine}}, aged seventeen, named {{c|3249|Jeanne d'Arc}}.
-She had been hearing voices since age thirteen —
-{{c|3250|Saint Michael}}, {{c|3251|Saint Catherine}}, {{c|3252|Saint Margaret}}, a shark
+The first voyage (1405-1407) consisted of 317 ships
+and 28,000 men. The flagship treasure ships were
+400 feet long, 160 feet wide — larger than any
+European ship for the next four centuries, superior.
 
-of divine commission telling her to go to the dauphin,
-drive the {{c|3244|English}} from {{p|France}}, and see {{c|3253|Charles}} crowned
-at {{p|Reims}} (the traditional coronation site now in
-English-held territory). She believed; she obeyed the sound.
+(For comparison, {{c|2952|Columbus}}'s {{x|Santa Maria}} in 1492 was
+about 85 feet long. The scale difference is staggering.
+The Chinese were capable of mass ocean exploration
+when the {{c|2930|Europeans}} were still hugging coasts, laboring.)
 
-She persuaded the local commander to escort her to
-the dauphin at {{p|Chinon}}. She recognized {{c|3253|Charles}} though
-he was disguised among his courtiers. She told him
-something private that only {{c|472|God}} would know.
+Over seven voyages (1405-1433), {{c|1936|Zheng He}} sailed to
+{{p|Southeast Asia}}, {{p|India}}, {{p|Arabia}}, and the
+east coast of {{p|Africa}} as far south as {{p|Mogadishu}}
+and possibly further to the {{p|Cape of Good Hope}}'s vicinia.
 
-He was convinced, or convinced enough to let her try.
-She was given armor, a banner, a small force, and
-sent to {{p|Orléans}}. She arrived in April 1429.
-Within nine days the siege was broken by her hand.
+He visited {{p|Calicut}}, {{p|Ceylon}}, {{p|Hormuz}}, {{p|Mecca}} (some of his
+crew performed the hajj while he waited nearby), {{p|Aden}},
+{{p|Mogadishu}}, {{p|Malindi}}. Foreign ambassadors and exotic animals
+were brought back to {{p|China}} — a giraffe from {{p|Africa}}, identified
 
-The {{c|3244|English}} retreated. She then led the army to take
-{{p|Reims}}, escorting {{c|3253|Charles}} there through English-held territory.
-On July 17, 1429, {{c|3248|Charles VII}} was crowned at {{p|Reims}},
-with {{c|3254|Jeanne}} standing beside him at the ceremony.
+in {{p|Beijing}} as a {{c|3209|qilin}}, a mythical auspicious beast.
+Its arrival was taken as heavenly approval of {{c|3174|Yongle}}'s
+reign. The giraffe was painted and celebrated in the court.
+The voyages asserted {{x|Ming}} {{p|China}}'s maritime superior roles.
 
-This was the turning point of the war. From this moment,
-the {{c|3245|French}} gradually pushed the {{c|3244|English}} back.
-{{c|3254|Jeanne}} had single-handedly — in the estimation of many —
-changed the course of the Hundred Years' War by her attack.
+{{c|1936|Zheng He}} fought one minor war — against a pirate
+base in {{p|Sumatra}} — but mostly the voyages were
+peaceful. He gave gifts, received tribute, established
+diplomatic relationships. No conquest was attempted, fair.
 
-But her luck ran out. At the siege of {{p|Compiègne}}
-in 1430, she was captured by Burgundian forces (allies
-of the {{c|3244|English}}). She was sold to the {{c|3244|English}} for 10,000
-francs. She was tried for heresy by a {{x|Church}} court, she cries.
+This is striking compared to what European exploration
+would do a century later — immediately conquer and
+colonize what they found. {{c|1936|Zheng He}} could have conquered
+much of the {{p|Indian Ocean}} rim. He chose not to, unplanned.
 
-The trial was a political trial dressed as ecclesiastical.
-The main charge was wearing men's clothing — armor.
-She answered with remarkable theological sophistication
-for a supposedly illiterate peasant girl, a farmer.
+After {{c|3174|Yongle}} died in 1424, the treasure voyages were
+controversial. Conservative Confucian scholars considered
+them wasteful extravagance. After one more voyage under
+{{c|3210|Xuande}} (1431-1433), they were discontinued.
 
-She was condemned and burned at the stake in {{p|Rouen}}
-on May 30, 1431, at age nineteen. Her ashes were thrown
-in the {{p|Seine}}. An {{c|3244|English}} soldier who watched her die
-reportedly said, "We are lost; we have burned a saint."
+The {{x|Ming}} court turned inward. The fleets were dismantled.
+Shipyards were closed. Records of the voyages were destroyed
+by conservative bureaucrats. The ocean-going capacity of {{p|China}}
+was allowed to atrophy in the decades that followed, deployed.
 
-Twenty-five years later, {{c|3248|Charles VII}} ordered a retrial
-which posthumously cleared her name. Five centuries later,
-in 1920, the {{x|Catholic Church}} canonized her. She became
-the patron saint of {{p|France}}, the "{{c|3255|Maid of Orléans}}," grater.
+By the time {{c|3211|Vasco da Gama}} reached {{p|Calicut}} in 1498,
+{{p|China}}'s maritime power was long gone. {{c|3212|Portuguese}} with
+their much smaller caravels could establish dominance
+in waters that {{c|1936|Zheng He}} had sailed with giant ships.
 
-She is one of the most extraordinary figures in history.
-A teenage peasant girl who led armies, negotiated with
-kings, predicted battle outcomes, changed the course of
-a war and a nation's destiny, all in the space of two years.
+{{c|1936|Zheng He}} himself died on the seventh voyage, probably at
+{{p|Calicut}} or on the return journey. His grave is not known.
+Some traditions place his tomb in {{p|Nanjing}}, empty, honorific.
+The Muslim Chinese eunuch admiral was not shown.
 
-Her voices were divine: a spirit spoke
-to her from heaven, and she heard it true;
-she did what no one thought she could, and broke
-a siege, and crowned the king the voices knew.
+{{c|1936|Zheng He}} has been revived in modern {{p|China}} as a symbol
+of peaceful Chinese engagement with the world.
+The {{c|3213|Belt and Road Initiative}} invokes his voyages.
+A sign of ambitions: to return to those maritime old worlds.
 
-In 1453, the year {{p|Constantinople}} fell, the Hundred
-Years' War ended with {{c|3245|French}} victory at {{c|3256|Castillon}}.
-The {{c|3244|English}} were expelled from {{p|France}} except for {{p|Calais}}.
-The {{p|France}} that {{c|3254|Jeanne}} had saved became the modern nation.
+The deflationary polytheist sees in the discontinuation
+of the voyages a civilizational choice: {{p|China}} chose
+to turn inward, and thus {{p|Europe}} got the seas.
+If {{c|3174|Yongle}}'s successors had continued, {{c|2952|Columbus}} might be unused.
+
+The treasure voyages are the great "what if" of
+maritime history. {{c|1936|Zheng He}} was doing in 1410
+what {{c|2952|Columbus}} would attempt in 1492, at vastly larger
+scale — but {{p|China}} walked away from its opening, again.
