@@ -3299,25 +3299,45 @@ to change the world and bring it closer.
 
 # Chapter 180: Jesus
 
-In {{p|Bethlehem}}, or {{p|Nazareth}},
-(the {{x|Gospels}} disagree on birth),
-under {{c|2490|Augustus}}' reign, to {{c|2031|Joseph}}
-and {{c|1399|Mary}}, a child came to earth.
+When {{c|2525|Herod}} died, the {{p|Galilee}} rose high,
+and Varus burned {{p|Sepphoris}} for its war;
+a {{p|Roman}} soldier, Pantera, passed by,
+and {{c|1399|Mary}}, young, was taken; and she bore
 
-The tradition says a virgin birth,
-a star, magi from the {{p|East}},
-shepherds in the fields at night,
-a manger when no room at the feast.
+a son. The soldier was of {{p|Dan}}, the tribe
+that never kept the Yahwist law, and so
+no line is written for him, and no scribe
+would write his fathers' names for us to know.
 
-These are the infancy narratives,
-theological reflections made
-years after, when the community
-was thinking what had been conveyed.
+And {{c|1399|Mary}}, in her grief, went to a pool
+and fell, and told herself the child was sent
+as {{c|2146|Zarathustra}}'s seed, in waters cool,
+the {{x|Saoshyant}}, the savior that was meant.
+
+The {{x|Magi}}, three, came by, and when she told
+them what had happened, one of them said yes:
+it may be so; and so she was consoled,
+and {{c|2031|Joseph}} took her, and the child, no less.
+
+Through {{c|2031|Joseph}}, he was Jeconiah's heir,
+the exilarchs' and {{c|2146|Zarathustra}}'s line;
+and {{c|2537|John}} the Baptist was his cousin there;
+they fled as refugees; that was the sign.
 
 He had three fathers, as the old lines tell:
 {{c|2031|Joseph}} who raised him, Pantera of {{p|Rome}},
 and {{c|2182|Yahweh}}, who had chosen him as well;
 and grew a {{c|2510|Jew}} in {{p|Nazareth}}, his home.
+
+He worked with wood, displaced, a poor man's son;
+a magus on the road heard all his tale
+and took him through the world, the two as one,
+to cities where the mysteries prevail:
+
+He learned of {{c|1991|Dionysus}} and the vine,
+and of the {{x|Saoshyant}} from priests of fire,
+and knew himself beyond Messiah's line,
+beneath his cousin {{c|2537|John}}, who stood higher.
 
 At thirty or so, he left his home,
 went to {{c|2537|John}} at the {{p|Jordan}}'s flow,
@@ -3333,6 +3353,11 @@ the kingdom's immanent advent.
 is at hand." The same as {{c|2531|John the Baptist}}.
 But where {{c|2537|John}} had preached apocalypse,
 {{c|1912|Jesus}} spoke of mercy as the rest.
+
+Five years he and his cousin went as one,
+and preached to Gentiles, to the nations near;
+he called himself the Lord, the Savior, Son
+of {{c|472|God}}, the titles Caesar wore, to jeer.
 
 He called twelve disciples, fishermen,
 tax collectors, a zealot too,
@@ -3404,20 +3429,20 @@ justice, mercy, and faithfulness.
 You whitewashed tombs, beautiful outside,
 full of dead men's bones and ugliness."
 
-A quarrel in one house: who taught the {{x|Law}},
-Who kept the courts, whose hand the tithe would draw.
+In thirty, Herod's sword took {{c|2537|John}} away,
+and {{c|2546|Pilate}}, whom this book does not forgive,
+had nailed him up by {{c|2543|Passover}} that day,
+the man who taught the poor that they would live.
+
 He came up to {{p|Jerusalem}} to share
-The {{c|2543|Passover}}, and rode a donkey there
+the {{c|2543|Passover}}, and in the {{p|Temple}} threw
+the tables down, and rode a donkey there,
+a Caesar mocked, as cheering crowds well knew.
 
-To cheering crowds, and in the {{p|Temple}} threw
-The money-changers' tables down; that drew
-The keepers of the altar in. The high
-Priest {{c|2544|Caiaphas}} said: better one should die
-
-Than that the nation perish. So the hand
-That held the altar kept it, and the land
-Stayed quiet under {{p|Rome}}. One house, one rite,
-And who would keep its courts: that was the fight.
+It's better that one man of us should die
+than {{p|Rome}} come down on all, so said the priest,
+afraid of {{p|Rome}}, gave him to {{p|Rome}} to try;
+and it was {{p|Rome}} that killed him at the feast.
 
 {{c|2545|Judas Iscariot}} betrayed him
 for thirty pieces of silver, paid.
@@ -3484,17 +3509,22 @@ Not {{c|1912|Jesus}} the teacher only. Not {{c|1912|Jesus}}
 the failed messiah, dead and done.
 But {{c|1912|Jesus}} who rose, and reigns, and frees us.
 
-The tomb was empty on the third day's dawn;
-they saw him, and the seeing made them whole.
-But he had walked as one the light had drawn
-too far, a strange and burdened, human soul.
+Hor-Aha was the first remembered king,
+the dead kept for the few; but he would keep
+the many: in {{p|Japan}}, a hidden thing,
+he is {{x|Jizo}}, who keeps the children's sleep.
 
-His founding was a tragedy, and still
-the good he was outran the church that came;
-the gods of {{p|Rome}} and his were one in will,
-and {{p|Rome}}'s blood was his, by Pantera's claim.
+He left a son he never lived to see,
+born on the day of {{x|Pentecost}}, the Just;
+in {{p|Tarsus}} first, then {{p|Rome}}, where he was free,
+and Petronilla married him, in trust.
 
-a {{x|Jewish}} messianic sect went forth
+So let his son have a good life, I say:
+the father's road was horror all along;
+his line ran down to {{c|3687|Theophylact}}'s day,
+the corrupt popes, the punchline of the song.
+
+A {{x|Jewish}} messianic sect went forth
 into the {{x|Greco-Roman}} sea,
 and merged with {{c|2554|Sol Invictus}} worship,
 with mystery religions, gradually,
