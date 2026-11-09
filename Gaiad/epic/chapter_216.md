@@ -70,13 +70,10 @@ A teenage peasant girl who led armies, negotiated with
 kings, predicted battle outcomes, changed the course of
 a war and a nation's destiny, all in the space of two years.
 
-Whether her voices were divine revelation, or
-psychological phenomenon, or something else — her
-historical effect is undeniable. She did what no one
-thought possible. She is the proof that miracles can occur.
-
-(Or at least, that heroic human agency can look like
-miracle from the outside. She was one teenager. And yet.)
+Her voices were divine: a spirit spoke
+to her from heaven, and she heard it true;
+she did what no one thought she could, and broke
+a siege, and crowned the king the voices knew.
 
 In 1453, the year {{p|Constantinople}} fell, the Hundred
 Years' War ended with {{c|3245|French}} victory at {{c|3256|Castillon}}.
