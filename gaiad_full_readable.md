@@ -38684,10 +38684,10 @@ theological reflections made
 years after, when the community
 was thinking what had been conveyed.
 
-The core historical facts are few.
-He was a Galilean Jew.
-He grew up, probably in {{p|Nazareth}},
-learned carpentry as Joseph knew.
+He had three fathers, as the old lines tell:
+Joseph who raised him, Pantera of {{p|Rome}},
+and Yahweh, who had chosen him as well;
+and grew a Jew in {{p|Nazareth}}, his home.
 
 At thirty or so, he left his home,
 went to John at the {{p|Jordan}}'s flow,
@@ -38854,15 +38854,15 @@ Not Jesus the teacher only. Not Jesus
 the failed messiah, dead and done.
 But Jesus who rose, and reigns, and frees us.
 
-Whether the tomb was empty on that morning,
-whether the post-Easter appearances
-were objective or subjective vision,
-whether what happened was what appears to us,
+The tomb was empty on the third day's dawn;
+they saw him, and the seeing made them whole.
+But he had walked as one the light had drawn
+too far, a strange and burdened, human soul.
 
-is the question that divides the ages.
-The religion he launched would sweep the world.
-The deflationary polytheist
-sees what the crucial swerve unfurled:
+His founding was a tragedy, and still
+the good he was outran the church that came;
+the gods of {{p|Rome}} and his were one in will,
+and {{p|Rome}}'s blood was his, by Pantera's claim.
 
 a {{x|Jewish}} messianic sect went forth
 into the {{x|Greco-Roman}} sea,
