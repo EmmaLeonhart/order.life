@@ -65,10 +65,10 @@ The "{{c|2574|Unconquered Sun}}" became official.
 The syncretic solar monotheism
 was now imperial, not just unofficial.
 
-This is the crucial step. After
-{{c|2573|Aurelian}}, the empire's religious drift
-was toward monotheism, toward
-one supreme god, one solar gift.
+This is the crucial step. The sun he crowned
+at midwinter was {{c|1912|Christ}}'s own cousin, born
+the very night that {{x|Aster Day}} comes round,
+the longest dark, that turns toward the morn.
 
 The old polytheism was still practiced.
 The temples still stood. The priests still served.
