@@ -58,6 +58,13 @@ PRIMARY_TRAN = {"Emma Leonhart": [("이명월", "ko")],
 FIRST_SEX = {"Aster": "M", "Emma Leonhart": "F", "Andromeda": "F"}  # Emma, 2026-10-16: "Aster has sex. M."
 EMMA_FS = "PFR5-LDS"
 ORDERLIFE_FIRST = {"Q1": "@I1@", "Q3": "@I3@"}  # order.life ids of Aster and Andromeda
+# Ancestry records joined onto a text person of the same name, like Aster and Andromeda: their family links, ids and
+# citations are grafted onto the text record. Emma, 2026-11-08: join the two Jesus records, "Jesus is an exception
+# because of our big narrative on Jesus".
+JOIN_TO_TEXT = {"Q138545": "Jesus"}
+# Father links the tree carries that she does not hold (Emma, 2026-11-08): Jesus's fathers are Joseph, Pantera and
+# Yahweh; "God the Father" goes. (order.life id of the child, NAME of the father to drop.)
+DROP_FATHER = {("Q138545", "God the Father")}
 
 
 def text_uids():
@@ -816,6 +823,7 @@ def build(out_path):
         key_of.setdefault(name, key)
     uid_of = text_uids()
     n = 0
+    text_num = {}
     # Every Gaiad figure has a SEX (Emma, 2026-10-16: "all of us actually have set sexes"): the three first ones as she
     # set them, the others as order.life's genealogy has the person of that name (U where it does not say or the name
     # is not one person there).
@@ -840,6 +848,7 @@ def build(out_path):
     def indi(key, name, ged_name, where):
         nonlocal n
         n += 1
+        text_num.setdefault(" ".join(name.split()), f"@I{n}@")
         if feats and name not in FIRST_SEX and ged_name == name:
             hit0 = resolved.get(" ".join(name.split()))
             sur = clade_surname(name, hit0[0]) if hit0 else None
@@ -915,6 +924,8 @@ def build(out_path):
                 hit = ORDERLIFE_FIRST.get(a[7:].strip())
                 if hit:
                     return hit
+                if a[7:].strip() in JOIN_TO_TEXT:
+                    return text_num.get(JOIN_TO_TEXT[a[7:].strip()])
         return None
 
     imap = {}
@@ -923,6 +934,25 @@ def build(out_path):
             hit = first_of(lines)
             if hit and hit not in imap.values():
                 imap[x] = hit
+    grafted = {"@I1@", "@I2@", "@I3@"} | {v for v in imap.values()}
+    # drop the father links she does not hold (DROP_FATHER): the child leaves that family
+    if DROP_FATHER:
+        rq = {}
+        nm = {}
+        for x, tag, lines in recs:
+            if tag == "INDI":
+                for a, b in zip(lines, lines[1:]):
+                    if a.startswith("1 REFN ") and b.strip() == "2 TYPE order.life":
+                        rq[x] = a[7:].strip()
+                nm[x] = next((" ".join(l[7:].replace("/", " ").split()) for l in lines if l.startswith("1 NAME ")), "")
+        new = []
+        for x, tag, lines in recs:
+            if tag == "FAM":
+                husb = next((l[7:].strip() for l in lines if l.startswith("1 HUSB ")), None)
+                lines = [l for l in lines if not (l.startswith("1 CHIL ")
+                         and (rq.get(l[7:].strip()), nm.get(husb, "")) in DROP_FATHER)]
+            new.append((x, tag, lines))
+        recs = new
     recs, merged_into = aster_andromeda_family(recs, imap)
     imap, fmap, n = walk_numbering(recs, imap, n)
     nf = len(fmap)
@@ -980,7 +1010,7 @@ def build(out_path):
             lines = lines + [l for l in back.get(x, ()) if l not in have]
             if not any(l.startswith("1 SEX ") for l in lines):
                 lines.append("1 SEX U")   # every person has a SEX; U where no source gives one
-            if imap[x] not in ("@I1@", "@I2@", "@I3@"):   # those three have theirs already
+            if imap[x] not in grafted:   # those have theirs already
                 lines = lines + [f"1 REFN {imap[x][2:-1]}", "2 TYPE Gaiad individual number"]
             if x in joins:
                 lines = lines + [f"1 REFN {joins[x]}", "2 TYPE order.life"]
@@ -1024,7 +1054,7 @@ def build(out_path):
                 before = any("familysearch" in l for l in lines if l.startswith("1 NOTE Links: "))
                 lines = with_links(lines)
                 n_fs += not before and any("familysearch" in l for l in lines if l.startswith("1 NOTE Links: "))
-            if imap[x] not in ("@I1@", "@I2@", "@I3@"):   # after the features, which read the original NAME
+            if imap[x] not in grafted:   # after the features, which read the original NAME
                 lines, done = wikidata_first(lines, wd_table)
                 n_wd += done
                 lines, done = english_first(lines, en_table)
@@ -1035,7 +1065,7 @@ def build(out_path):
         if tag == "FAM":   # children in the order the walk numbered them, oldest first
             fixed = fam_children_in_order(fixed)
         target = imap.get(x)
-        if target in ("@I1@", "@I2@", "@I3@"):
+        if target in grafted:
             keep, prev = [], ""
             for l in fixed:   # family links, ids and citations, and the feature lines after the record's own
                 if (l.startswith(("1 FAMC", "1 FAMS", "1 EXID", "1 SOUR @"))
