@@ -10,6 +10,41 @@ Their silent fire wrote horror on the sky;
 But hope endured where ash replaced the sand,
 And swore that war’s last ember here would die.
 
+At {{p|Hiroshima}}, August's sixth was clear;
+At eight fifteen {{x|Enola Gay}} flew by;
+With Tibbets at the helm, the bomb fell near:
+A sun of uranium filled the sky.
+
+The offices that kept the city's names
+Were in the fire, the paper and the ink;
+Seventy thousand died within the flames,
+And twice that many by the year's last brink.
+
+Out in the desert one test came before,
+But no test of a city, only sand;
+A notice told {{p|Japan}} to end the war;
+Unanswered when the fire came on the land.
+
+On August's eighth the Soviets made war;
+Their armies crossed {{p|Manchuria}} at dawn;
+{{p|Kokura}}'s aim lay under cloud's grey floor;
+The plane passed over, dropped not, and went on.
+
+On {{p|Nagasaki}} at eleven-two,
+With Sweeney flying, plutonium fell,
+Off its mark, over {{p|Urakami}}'s view;
+The hills held back the blast, but not the knell.
+
+Koreans brought to both the cities died,
+Tens of thousands, burned beneath the same fire;
+The hibakusha, touched, lived on beside;
+Each named; no sum shall serve as their pyre.
+
+Call not {{p|Kokura}}'s cloud a judgment sent,
+Nor {{p|Hiroshima}}'s morning, clear and bright;
+A list was made; the sky kept no intent;
+Say which the city, and which hour, which light.
+
 A crackling voice on August’s fervent air
 Confessed defeat across the empire’s seas;
 In {{p|Times Square}} strangers, dazzled, found a dare,
