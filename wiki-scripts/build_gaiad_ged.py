@@ -138,6 +138,40 @@ def resolved_names():
     return out
 
 
+ITEMS = ROOT / "wikibase" / "items"
+_CLADE = re.compile(r"^(.*?)\s*/([^/]+)/\s*$")
+_SURNAME_OK = re.compile(r"^[A-Z][A-Za-z\- ]*$")
+
+
+def clade_surname(name, qid):
+    """The surname the verse person carries in order.life ("Gedcom Full Name", P5), e.g. Hesper /Hesperides/.
+
+    Emma, 2026-10-30: the verse people "had surnames from their clades" in order.life, and surnames come from each
+    person's own sources, never guessed. Taken only where P5's given part is this same name and the surname is a plain
+    Latin-script name: no parentheses (Callisto /(Mortal)/), no titles or descriptions ("of", "the"), no other script.
+    """
+    p = ITEMS / f"{qid}.json"
+    if not p.exists():
+        return None
+    try:
+        import json
+        d = json.loads(p.read_text(encoding="utf-8"))
+    except Exception:
+        return None
+    for c in d.get("claims", {}).get("P5", []):
+        v = c.get("mainsnak", {}).get("datavalue", {}).get("value", {})
+        t = v.get("text", "") if isinstance(v, dict) else ""
+        m = _CLADE.match(t)
+        if not m:
+            continue
+        given, sur = " ".join(m.group(1).split()), " ".join(m.group(2).split())
+        words = sur.lower().split()
+        regnal = re.search(r"[IVXL]+$", given)   # Cleopatra VII /Thea Philopator/: an epithet, not a surname
+        if given == " ".join(name.split()) and not regnal and _SURNAME_OK.match(sur) and "of" not in words and "the" not in words:
+            return sur
+    return None
+
+
 GED_MONTHS = ["JAN", "FEB", "MAR", "APR", "MAY", "JUN", "JUL", "AUG", "SEP", "OCT", "NOV", "DEC"]
 
 
@@ -806,6 +840,11 @@ def build(out_path):
     def indi(key, name, ged_name, where):
         nonlocal n
         n += 1
+        if feats and name not in FIRST_SEX and ged_name == name:
+            hit0 = resolved.get(" ".join(name.split()))
+            sur = clade_surname(name, hit0[0]) if hit0 else None
+            if sur:
+                ged_name = f"{name} /{sur}/"
         add(f"0 @I{n}@ INDI")
         add(f"1 NAME {' '.join(ged_name.split())}")   # a tag wrapped across a line break is one name (UID unchanged)
         if ged_name.count("/") == 2 and ged_name.split("/")[1].strip():
