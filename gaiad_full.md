@@ -38879,10 +38879,10 @@ Not {{c|1912|Jesus}} the teacher only. Not {{c|1912|Jesus}}
 the failed messiah, dead and done.
 But {{c|1912|Jesus}} who rose, and reigns, and frees us.
 
-Hor-Aha was the first remembered king,
-the dead kept for the few; but he would keep
-the many: in {{p|Japan}}, a hidden thing,
-he is {{x|Jizo}}, who keeps the children's sleep.
+Iry-Hor, first named, was kept for the few,
+his name the first we know, a king's, alone;
+but {{c|1912|Jesus}} keeps the many, he who knew
+the poor, the dead unnamed, each one his own.
 
 He left a son he never lived to see,
 born on the day of {{x|Pentecost}}, the Just;
