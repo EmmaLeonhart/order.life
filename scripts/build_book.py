@@ -21,15 +21,15 @@ EPIC = ROOT / "Gaiad" / "epic"
 MONTHS = ["Sagittarius", "Capricorn", "Aquarius", "Pisces", "Aries", "Taurus", "Gemini",
           "Cancer", "Leo", "Virgo", "Libra", "Scorpio", "Ophiuchus"]
 # Each month is a book, with its book name as the subheading (Emma, 2026-10-20: "The book of Lehi is the book of Leo.
-# All the other ones often have other meanings associated with it, or just make them ... up"). Settled by Emma,
-# 2026-11-09: Sagittarius the Yarn, Pisces Pascha (its Paschal cycle; "Easter, not Passover", and the pun kept), Leo
-# Lehi, Ophiuchus Omega, Capricorn Kingdoms (the kingdoms of life as kingdoms; "Problem solved"), Aquarius Janus (the
-# book opens "This book tells of the generations blessed / Of Janus' lines").
-# Provisional (Emma, same evening): Aries Stone, Taurus Bronze, Gemini Iron, Cancer Romans ("I am actively putting the
-# book of Romans as being after the Roman Empire for clever reasons"). The rest were made from first-chapter titles and
-# are still being renamed by their themes. Virgo Confluence (Dara Shikoh's Confluence of the Two Seas; "I like the
-# Book of Virgo being the Book of Confluence"), Libra Enlightenment ("maybe the Book of Enlightenment"), Scorpio Hours (the century of
-# standard time, the appointed hour and the Y2K clocks, and the prayer-book genre; "it's the Book of Hours").
+# All the other ones often have other meanings associated with it, or just make them ... up"). The names of 10-20 came
+# from first-chapter titles and hid each book's theme; all 13 were renamed by theme with Emma on 2026-11-09, and she
+# made them final the same night ("Yes, now I say all of this is final. I think it's good."):
+# Sagittarius the Yarn (the mythopoetic, occult book of branching genealogies); Capricorn Kingdoms (the kingdoms of
+# life as kingdoms); Aquarius Janus (it opens "This book tells of the generations blessed / Of Janus' lines"); Pisces
+# Pascha (its Paschal cycle; "Easter, not Passover", and the pun kept); Aries Stone, Taurus Bronze, Gemini Iron; Cancer
+# Romans ("actively putting the book of Romans as being after the Roman Empire for clever reasons"); Leo Lehi; Virgo
+# Confluence (Dara Shikoh's Confluence of the Two Seas); Libra Enlightenment; Scorpio Hours (standard time, the
+# appointed hour, the Y2K clocks, and the prayer-book genre); Ophiuchus Omega.
 BOOKS = {"Sagittarius": "The Book of the Yarn", "Capricorn": "The Book of Kingdoms", "Aquarius": "The Book of Janus",
          "Pisces": "The Book of Pascha", "Aries": "The Book of Stone", "Taurus": "The Book of Bronze",
          "Gemini": "The Book of Iron", "Cancer": "The Book of Romans", "Leo": "The Book of Lehi",
