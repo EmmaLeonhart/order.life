@@ -62,7 +62,7 @@ def chapter(n):
 def main(out):
     parts = ["---",
              "title: The Gaiad",
-             "subtitle: A Saga of Life",
+             "subtitle: A Daily Meditation on the History of Life",
              "author: Emma Leonhart",
              "lang: en",
              "rights: https://order.life/",
