@@ -1,4 +1,4 @@
-# Scorpius (12宮) - Days 309-336
+# Scorpio (12宮) - Days 309-336
 
 
 # Chapter 309: The Same Instant

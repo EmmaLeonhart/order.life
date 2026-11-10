@@ -55166,7 +55166,7 @@ And the sons and daughters take it up together, and the dead come into the light
 
 ---
 
-# Scorpius (12宮) - Days 309-336
+# Scorpio (12宮) - Days 309-336
 
 
 # Chapter 309: The Same Instant
