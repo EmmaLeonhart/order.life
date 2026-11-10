@@ -78,7 +78,7 @@ def main(out):
     parts = ["---",
              "title: The Gaiad",
              "subtitle: A Daily Meditation on the History of Life",
-             "author: Emma Leonhart",
+             "author: Emma Leonhart 命玥",
              f"date: PDF built on {gaian_today()}",
              "lang: en",
              "rights: https://order.life/",
