@@ -19,7 +19,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 EPIC = ROOT / "Gaiad" / "epic"
 MONTHS = ["Sagittarius", "Capricorn", "Aquarius", "Pisces", "Aries", "Taurus", "Gemini",
-          "Cancer", "Leo", "Virgo", "Libra", "Scorpius", "Ophiuchus"]
+          "Cancer", "Leo", "Virgo", "Libra", "Scorpio", "Ophiuchus"]
 # Each month is a book, with its book name as the subheading (Emma, 2026-10-20: "The book of Lehi is the book of Leo.
 # All the other ones often have other meanings associated with it, or just make them ... up"). Settled by Emma,
 # 2026-11-09: Sagittarius the Yarn, Pisces Pascha (its Paschal cycle; "Easter, not Passover", and the pun kept), Leo
@@ -31,7 +31,7 @@ MONTHS = ["Sagittarius", "Capricorn", "Aquarius", "Pisces", "Aries", "Taurus", "
 BOOKS = {"Sagittarius": "The Book of the Yarn", "Capricorn": "The Book of Kingdoms", "Aquarius": "The Book of Janus",
          "Pisces": "The Book of Pascha", "Aries": "The Book of Stone", "Taurus": "The Book of Bronze",
          "Gemini": "The Book of Iron", "Cancer": "The Book of Romans", "Leo": "The Book of Lehi",
-         "Virgo": "The Book of Chronicles", "Libra": "The Book of Registers", "Scorpius": "The Book of Wires",
+         "Virgo": "The Book of Chronicles", "Libra": "The Book of Registers", "Scorpio": "The Book of Wires",
          "Ophiuchus": "The Book of Omega"}
 TAG = re.compile(r"\{\{[cpx]\|(?:[^}|]*\|)?([^}|]+)\}\}")
 # A footnote {{fn|...}} (Gaiad/FOOTNOTES.md) becomes a pandoc inline note, ^[...], so the EPUB and the PDF

@@ -35,7 +35,7 @@ COVERS = {
     "leo": "a lion of gold over the Americas, Maya pyramids and mound cities, a sacred book unsealed under the sun",
     "virgo": "a chronicle of popes and cathedrals, a printing press and a great open book of history",
     "libra": "balanced scales over a town hall register, a crown taken, Napoleon and the ghost of a revolution",
-    "scorpius": "telegraph wires and machines across the earth, railways, a scorpion of steel and light",
+    "scorpio": "telegraph wires and machines across the earth, railways, a scorpion of steel and light",
     "ophiuchus": "the serpent bearer among the stars, a woman healer holding a serpent, the Milky Way meeting Andromeda",
 }
 SEEDS = {m: 1000 + i for i, m in enumerate(COVERS)}
