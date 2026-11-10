@@ -254,7 +254,7 @@ def any_year(value):
 
 
 GAIAN_MONTHS = ["Sagittarius", "Capricorn", "Aquarius", "Pisces", "Aries", "Taurus", "Gemini",
-                "Cancer", "Leo", "Virgo", "Libra", "Scorpius", "Ophiuchus", "Horus"]
+                "Cancer", "Leo", "Virgo", "Libra", "Scorpio", "Ophiuchus", "Horus"]
 MONTH_NAMES = ["January", "February", "March", "April", "May", "June", "July", "August",
                "September", "October", "November", "December"]
 

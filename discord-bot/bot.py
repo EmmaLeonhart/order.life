@@ -52,7 +52,7 @@ GAIAN_MONTHS = [
     ("\u264c", "Leo"),
     ("\u264d", "Virgo"),
     ("\u264e", "Libra"),
-    ("\u264f", "Scorpius"),
+    ("\u264f", "Scorpio"),
     ("\u26ce", "Ophiuchus"),
 ]
 

@@ -11,7 +11,7 @@
 
   var MONTH_NAMES = [
     'Sagittarius','Capricorn','Aquarius','Pisces','Aries','Taurus',
-    'Gemini','Cancer','Leo','Virgo','Libra','Scorpius','Ophiuchus','Horus'
+    'Gemini','Cancer','Leo','Virgo','Libra','Scorpio','Ophiuchus','Horus'
   ];
   var MONTH_SYMBOLS = [
     '♐','♑','♒','♓','♈','♉','♊','♋','♌','♍','♎','♏','⛎','𓅃'

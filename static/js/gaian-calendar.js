@@ -16,7 +16,7 @@ const GAIAN_MONTHS = [
   { num: 9,  id: 'leo',         symbol: '\u264C', name_en: 'Leo' },
   { num: 10, id: 'virgo',       symbol: '\u264D', name_en: 'Virgo' },
   { num: 11, id: 'libra',       symbol: '\u264E', name_en: 'Libra' },
-  { num: 12, id: 'scorpius',    symbol: '\u264F', name_en: 'Scorpius' },
+  { num: 12, id: 'scorpio',     symbol: '\u264F', name_en: 'Scorpio' },
   { num: 13, id: 'ophiuchus',   symbol: '\u26CE', name_en: 'Ophiuchus' },
   { num: 14, id: 'horus',       symbol: '𓅃', name_en: 'Horus' },
 ];

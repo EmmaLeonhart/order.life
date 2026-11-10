@@ -29,7 +29,7 @@ const GAIAN_MONTH_INFO = [
   { num: 9,  id: 'leo',         symbol: '\u264C', name: 'Leo'         },
   { num: 10, id: 'virgo',       symbol: '\u264D', name: 'Virgo'       },
   { num: 11, id: 'libra',       symbol: '\u264E', name: 'Libra'       },
-  { num: 12, id: 'scorpius',    symbol: '\u264F', name: 'Scorpius'    },
+  { num: 12, id: 'scorpio',     symbol: '\u264F', name: 'Scorpio'    },
   { num: 13, id: 'ophiuchus',   symbol: '\u26CE', name: 'Ophiuchus'   },
   { num: 14, id: 'horus',       symbol: '𓅃', name: 'Horus' },
 ];

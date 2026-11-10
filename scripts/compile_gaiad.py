@@ -31,7 +31,7 @@ MONTHS = [
     ("leo",         "Leo",         9, 225, 252),
     ("virgo",       "Virgo",      10, 253, 280),
     ("libra",       "Libra",      11, 281, 308),
-    ("scorpius",    "Scorpius",   12, 309, 336),
+    ("scorpio",     "Scorpio",    12, 309, 336),
     ("ophiuchus",   "Ophiuchus",  13, 337, 364),
 ]
 

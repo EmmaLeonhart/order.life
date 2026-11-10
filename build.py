@@ -69,23 +69,22 @@ MONTHS = [
     {"num": 9,  "id": "leo",         "symbol": "\u264c", "element": "fire"},
     {"num": 10, "id": "virgo",       "symbol": "\u264d", "element": "earth"},
     {"num": 11, "id": "libra",       "symbol": "\u264e", "element": "air"},
-    {"num": 12, "id": "scorpius",    "symbol": "\u264f", "element": "water"},
+    {"num": 12, "id": "scorpio",     "symbol": "\u264f", "element": "water", "aliases": ["scorpius"]},
     {"num": 13, "id": "ophiuchus",   "symbol": "\u26ce", "element": "healing"},
     {"num": 14, "id": "horus",       "symbol": "𓅃", "element": "intercalary"},
 ]
 
-# Map wiki month names to our IDs (wiki uses "Scorpio" not "Scorpius")
+# Map wiki month names to our IDs. It is Scorpio, not Scorpius (Emma, 2026-11-09); the old id is kept as a redirect.
 WIKI_MONTH_TO_ID = {
     "Sagittarius": "sagittarius", "Capricorn": "capricorn", "Aquarius": "aquarius",
     "Pisces": "pisces", "Aries": "aries", "Taurus": "taurus", "Gemini": "gemini",
     "Cancer": "cancer", "Leo": "leo", "Virgo": "virgo", "Libra": "libra",
-    "Scorpio": "scorpius", "Scorpius": "scorpius", "Ophiuchus": "ophiuchus",
+    "Scorpio": "scorpio", "Scorpius": "scorpio", "Ophiuchus": "ophiuchus",
     "Horus": "horus",
 }
 
 MONTH_ID_TO_WIKI = {v: k for k, v in WIKI_MONTH_TO_ID.items()}
-# Fix: scorpius maps to "Scorpio" in wiki
-MONTH_ID_TO_WIKI["scorpius"] = "Scorpio"
+MONTH_ID_TO_WIKI["scorpio"] = "Scorpio"
 
 ELEMENT_THEMES = {
     "fire": {"color": "#ff6b35", "desc_key": "element_fire"},
@@ -165,11 +164,11 @@ MONTH_THEMES = {
         "Industrial Revolution. Libra opens with Harvest Day on Libra 1 and turns to the ancestors at "
         "its end: Libra 21 is the Eve of Ancestors (Halloween) and Libra 28 is Samhain."
     ),
-    "scorpius": (
+    "scorpio": (
         "The 20th Century",
         "Days 309–336 give a whole month to the 1900s — the world wars, the end of empires, and the "
-        "turning points of the century. Scorpius is also the month of thanksgiving: Shichi-go-san on "
-        "Scorpius 14, US Thanksgiving on Scorpius 18 or 25, and Niiname-sai on Scorpius 21."
+        "turning points of the century. Scorpio is also the month of thanksgiving: Shichi-go-san on "
+        "Scorpio 14, US Thanksgiving on Scorpio 18 or 25, and Niiname-sai on Scorpio 21."
     ),
     "ophiuchus": (
         "The 21st Century and the Vision",
@@ -262,7 +261,7 @@ RU_MONTH_GEN = {
     "leo": "Льва",
     "virgo": "Девы",
     "libra": "Весов",
-    "scorpius": "Скорпиона",
+    "scorpio": "Скорпиона",
     "ophiuchus": "Змееносца",
     "horus": "Хоруса",
 }
@@ -279,7 +278,7 @@ UK_MONTH_GEN = {
     "leo": "Лева",
     "virgo": "Діви",
     "libra": "Терезів",
-    "scorpius": "Скорпіона",
+    "scorpio": "Скорпіона",
     "ophiuchus": "Змієносця",
     "horus": "Горуса",
 }
@@ -895,7 +894,7 @@ _MONTH_NAMES_JA = {
     "leo":         "獅子座",
     "virgo":       "乙女座",
     "libra":       "天秤座",
-    "scorpius":    "蠍座",
+    "scorpio":     "蠍座",
     "ophiuchus":   "蛇遣座",
     "horus":       "ホルス月",
 }
@@ -1656,7 +1655,7 @@ def generate_ical_files(site_dir):
     today      = site_today()
     current_ge = today.isocalendar()[0] + 10000
 
-    # month_display: num → display name (capitalize id, "scorpius" → "Scorpius")
+    # month_display: num → display name (capitalize id, "scorpio" → "Scorpio")
     month_display = {m["num"]: m["id"].capitalize() for m in MONTHS}
 
     files = {
@@ -2523,11 +2522,12 @@ def build_site():
             }
             render_page(env, "calendar/month.html", month_dir / "index.html", month_ctx)
 
-            # Name-based redirect: /calendar/{name}/ → /calendar/{MM}/
-            name_month_dir = cal_dir / m["id"]
-            name_month_dir.mkdir(parents=True, exist_ok=True)
-            (name_month_dir / "index.html").write_text(
-                cal_redirect(f"{base}/calendar/{month_num_str}/"), encoding="utf-8")
+            # Name-based redirects: /calendar/{name}/ → /calendar/{MM}/, for the id and any old ids (scorpius)
+            name_month_dirs = [cal_dir / n for n in [m["id"], *m.get("aliases", [])]]
+            for name_month_dir in name_month_dirs:
+                name_month_dir.mkdir(parents=True, exist_ok=True)
+                (name_month_dir / "index.html").write_text(
+                    cal_redirect(f"{base}/calendar/{month_num_str}/"), encoding="utf-8")
 
             # Day pages
             for d in range(1, days_in_month + 1):
@@ -2555,10 +2555,11 @@ def build_site():
                 render_page(env, "calendar/day.html", day_dir / "index.html", day_ctx)
 
                 # Name-based day redirect: /calendar/{name}/{dd}/ → /calendar/{MM}/{dd}/
-                name_day_dir = name_month_dir / f"{d:02d}"
-                name_day_dir.mkdir(parents=True, exist_ok=True)
-                (name_day_dir / "index.html").write_text(
-                    cal_redirect(f"{base}/calendar/{month_num_str}/{d:02d}/"), encoding="utf-8")
+                for name_month_dir in name_month_dirs:
+                    name_day_dir = name_month_dir / f"{d:02d}"
+                    name_day_dir.mkdir(parents=True, exist_ok=True)
+                    (name_day_dir / "index.html").write_text(
+                        cal_redirect(f"{base}/calendar/{month_num_str}/{d:02d}/"), encoding="utf-8")
 
         # ── Gaiad Scripture ──
         gaiad_dir = lang_dir / "gaiad"
