@@ -28,11 +28,12 @@ MONTHS = ["Sagittarius", "Capricorn", "Aquarius", "Pisces", "Aries", "Taurus", "
 # Provisional (Emma, same evening): Aries Stone, Taurus Bronze, Gemini Iron, Cancer Romans ("I am actively putting the
 # book of Romans as being after the Roman Empire for clever reasons"). The rest were made from first-chapter titles and
 # are still being renamed by their themes. Virgo Confluence (Dara Shikoh's Confluence of the Two Seas; "I like the
-# Book of Virgo being the Book of Confluence"), Libra Enlightenment ("maybe the Book of Enlightenment").
+# Book of Virgo being the Book of Confluence"), Libra Enlightenment ("maybe the Book of Enlightenment"), Scorpio Hours (the century of
+# standard time, the appointed hour and the Y2K clocks, and the prayer-book genre; "it's the Book of Hours").
 BOOKS = {"Sagittarius": "The Book of the Yarn", "Capricorn": "The Book of Kingdoms", "Aquarius": "The Book of Janus",
          "Pisces": "The Book of Pascha", "Aries": "The Book of Stone", "Taurus": "The Book of Bronze",
          "Gemini": "The Book of Iron", "Cancer": "The Book of Romans", "Leo": "The Book of Lehi",
-         "Virgo": "The Book of Confluence", "Libra": "The Book of Enlightenment", "Scorpio": "The Book of Wires",
+         "Virgo": "The Book of Confluence", "Libra": "The Book of Enlightenment", "Scorpio": "The Book of Hours",
          "Ophiuchus": "The Book of Omega"}
 TAG = re.compile(r"\{\{[cpx]\|(?:[^}|]*\|)?([^}|]+)\}\}")
 # A footnote {{fn|...}} (Gaiad/FOOTNOTES.md) becomes a pandoc inline note, ^[...], so the EPUB and the PDF
