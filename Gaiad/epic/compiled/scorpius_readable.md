@@ -884,10 +884,10 @@ Two years of witness weighed each mortal crime;
 Yet on the throne a sacred ember glowed,
 And judgment blurred along the edge of time.
 
-{{x|New Year}}’s decree spoke softly through the gray;
-No myth shall bind my people’s hearts at all.
-Not akitsumikami, far away,
-And trust shall rise, a beacon shared by all.
+On {{x|New Year}}'s day I set down my decree:
+"Not akitsumikami," then a wink;
+Still arahitogami, plain to see;
+Nothing has changed, whatever you may think.
 
 So ended war and dawned the workers’ dream,
 With lamps and bells and grains beneath the sky;
