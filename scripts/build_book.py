@@ -27,11 +27,12 @@ MONTHS = ["Sagittarius", "Capricorn", "Aquarius", "Pisces", "Aries", "Taurus", "
 # book opens "This book tells of the generations blessed / Of Janus' lines").
 # Provisional (Emma, same evening): Aries Stone, Taurus Bronze, Gemini Iron, Cancer Romans ("I am actively putting the
 # book of Romans as being after the Roman Empire for clever reasons"). The rest were made from first-chapter titles and
-# are still being renamed by their themes.
+# are still being renamed by their themes. Virgo Confluence (Dara Shikoh's Confluence of the Two Seas; "I like the
+# Book of Virgo being the Book of Confluence"), Libra Enlightenment ("maybe the Book of Enlightenment").
 BOOKS = {"Sagittarius": "The Book of the Yarn", "Capricorn": "The Book of Kingdoms", "Aquarius": "The Book of Janus",
          "Pisces": "The Book of Pascha", "Aries": "The Book of Stone", "Taurus": "The Book of Bronze",
          "Gemini": "The Book of Iron", "Cancer": "The Book of Romans", "Leo": "The Book of Lehi",
-         "Virgo": "The Book of Chronicles", "Libra": "The Book of Registers", "Scorpio": "The Book of Wires",
+         "Virgo": "The Book of Confluence", "Libra": "The Book of Enlightenment", "Scorpio": "The Book of Wires",
          "Ophiuchus": "The Book of Omega"}
 TAG = re.compile(r"\{\{[cpx]\|(?:[^}|]*\|)?([^}|]+)\}\}")
 # A footnote {{fn|...}} (Gaiad/FOOTNOTES.md) becomes a pandoc inline note, ^[...], so the EPUB and the PDF
