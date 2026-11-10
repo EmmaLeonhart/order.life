@@ -23,8 +23,8 @@ MONTHS = ["Sagittarius", "Capricorn", "Aquarius", "Pisces", "Aries", "Taurus", "
 # Each month is a book, with its book name as the subheading (Emma, 2026-10-20: "The book of Lehi is the book of Leo.
 # All the other ones often have other meanings associated with it, or just make them ... up"). Settled by Emma,
 # 2026-11-09: Sagittarius the Yarn, Pisces Pascha (its Paschal cycle; "Easter, not Passover", and the pun kept), Leo
-# Lehi, Ophiuchus Omega. The others were made from first-chapter titles and are still being renamed by their themes.
-BOOKS = {"Sagittarius": "The Book of the Yarn", "Capricorn": "The Book of the Ice", "Aquarius": "The Book of the Houses",
+# Lehi, Ophiuchus Omega, Capricorn Kingdoms (the kingdoms of life as kingdoms; "Problem solved"). The others were made from first-chapter titles and are still being renamed by their themes.
+BOOKS = {"Sagittarius": "The Book of the Yarn", "Capricorn": "The Book of Kingdoms", "Aquarius": "The Book of the Houses",
          "Pisces": "The Book of Pascha", "Aries": "The Book of the Survivors", "Taurus": "The Book of Kings",
          "Gemini": "The Book of the Sages", "Cancer": "The Book of the Caliphs", "Leo": "The Book of Lehi",
          "Virgo": "The Book of Chronicles", "Libra": "The Book of Registers", "Scorpius": "The Book of Wires",
