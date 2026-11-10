@@ -13,7 +13,6 @@ Line breaks inside a stanza are kept (pandoc reads it with +hard_line_breaks).
 """
 import re
 import sys
-from datetime import date
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -63,9 +62,7 @@ def chapter(n):
 def main(out):
     parts = ["---",
              "title: The Gaiad",
-             "subtitle: Scripture of Lifeism, one chapter for each day of the Gaian year",
              "author: Emma Leonhart",
-             f"date: {date.today().isoformat()}",
              "lang: en",
              "rights: https://order.life/",
              "---", ""]
