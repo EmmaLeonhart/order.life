@@ -13,6 +13,7 @@ Line breaks inside a stanza are kept (pandoc reads it with +hard_line_breaks).
 """
 import re
 import sys
+from datetime import datetime
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -59,11 +60,26 @@ def chapter(n):
     return title, body.strip()
 
 
+def gaian_today():
+    """Today in the Gaian calendar, in Pacific time as the site counts it: "Scorpio 9, 12026 GE".
+    Year = ISO week-year + 10000; day N of the year is (ISO week - 1) * 7 + weekday; 28-day months, Horus after 364."""
+    try:
+        from zoneinfo import ZoneInfo
+        today = datetime.now(ZoneInfo("America/Los_Angeles")).date()
+    except Exception:
+        today = datetime.utcnow().date()
+    year, week, wd = today.isocalendar()
+    n = (week - 1) * 7 + wd
+    month, day = ("Horus", n - 364) if n > 364 else (MONTHS[(n - 1) // 28], (n - 1) % 28 + 1)
+    return f"{month} {day}, {year + 10000} GE"
+
+
 def main(out):
     parts = ["---",
              "title: The Gaiad",
              "subtitle: A Daily Meditation on the History of Life",
              "author: Emma Leonhart",
+             f"date: PDF built on {gaian_today()}",
              "lang: en",
              "rights: https://order.life/",
              "---", ""]
@@ -84,4 +100,7 @@ def main(out):
 
 
 if __name__ == "__main__":
-    main(sys.argv[1] if len(sys.argv) > 1 else "gaiad_book.md")
+    if sys.argv[1:] == ["--built-on"]:
+        print(f"PDF built on {gaian_today()}")
+    else:
+        main(sys.argv[1] if len(sys.argv) > 1 else "gaiad_book.md")

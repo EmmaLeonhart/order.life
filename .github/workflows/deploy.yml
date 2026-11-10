@@ -61,8 +61,8 @@ jobs:
           python scripts/build_book.py /tmp/gaiad_book.md
           pandoc /tmp/gaiad_book.md -f markdown+hard_line_breaks --toc --toc-depth=2 -o site/gaiad.epub
           # One book, two formats (Emma, 2026-10-15: "the PDF would be built from the EPUB"): the PDF is made from the EPUB.
-          # The filter drops the EPUB's hidden navigation. The subtitle is "A Daily Meditation on the History of Life" and there is no date (Emma, 2026-11-10).
-          pandoc site/gaiad.epub -f epub --lua-filter scripts/epub_to_pdf.lua --toc --toc-depth=1 --pdf-engine=typst -M subtitle="A Daily Meditation on the History of Life" -o site/gaiad.pdf
+          # The filter drops the EPUB's hidden navigation. The subtitle is "A Daily Meditation on the History of Life", and the date line is "PDF built on" and the Gaian date (Emma, 2026-11-10).
+          pandoc site/gaiad.epub -f epub --lua-filter scripts/epub_to_pdf.lua --toc --toc-depth=1 --pdf-engine=typst -M subtitle="A Daily Meditation on the History of Life" -M date="$(python scripts/build_book.py --built-on)" -o site/gaiad.pdf
           # "all these other formats" (Emma, 2026-10-14): Word, OpenDocument and plain text beside PDF and EPUB.
           pandoc /tmp/gaiad_book.md -f markdown+hard_line_breaks --toc --toc-depth=2 -o site/gaiad.docx
           pandoc /tmp/gaiad_book.md -f markdown+hard_line_breaks --toc --toc-depth=2 -o site/gaiad.odt
