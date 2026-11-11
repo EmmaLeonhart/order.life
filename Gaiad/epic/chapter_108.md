@@ -58,9 +58,9 @@ The niches pterosaurs could not fill: all
 The understory, forests' deep inside,
 
 Where pterosaurs' broad wingspans could not reach.
-{{c|1746|Pteros}}' children ruled the sky; and on each
-Beach and flatland stalked the azhdarchids, tall
-As giraffes, winged like nightmares, over all.
+{{c|1746|Pteros}}' own children ruled the sky; and tall
+As giraffes, the azhdarchids stalked each beach,
+Each flatland, winged like nightmares, over all.
 
 In the undergrowth, {{c|1743|Mammos}} kept his small
 And quiet vigil: nighttime prayers, the watch
@@ -105,7 +105,7 @@ Had never known; and in that rich array
 Fair chapters: the world at its most alive,
 The planet at its greenest and most full,
 Each niche filled up by whatever could thrive
-In the {{x|Cretaceous}} greenhouse's warm, strong pull.
+In the {{x|Cretaceous}} greenhouse's warm pull.
 
 Honor the peak—the moment when the world
 Was most itself, most full, most densely spun

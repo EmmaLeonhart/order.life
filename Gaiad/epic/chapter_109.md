@@ -1,11 +1,13 @@
 # Chapter 109: The Cosmic Visitor
 
 Past {{p|Jupiter}}'s far orbit, there a stone
-Had traveled for four billion years, alone.
+Had traveled for four billion years, its way
+Unmarked, unwatched, unhurried, and alone,
+Through cold and dark, until its fatal day.
 
-It was not large—beside the greater mass
-Of wandering debris that might collide,
-Modest in size: ten kilometers wide,
+It was not large: ten kilometers wide,
+Small next to the greater wandering mass
+Of drifting debris that might yet collide,
 A mountain's remnant of the cloud of gas
 
 That built the planets; and its orbit, slow,
@@ -101,8 +103,8 @@ Of {{p|Chicxulub}}, just off the coast, the slow
 And ancient limestone shelf; and then the free
 
 And terrible energy, as reckoned,
-Ten billion {{x|Hiroshimas}}: one second
-Released, and closed a hundred million years.
+Ten billion {{x|Hiroshimas}}; and the years,
+A hundred million, closed in one second.
 But that's the next chapter's to tell. The tears
 
 Are not yet falling; the stone's rendezvous
