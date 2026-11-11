@@ -2504,7 +2504,7 @@ Great {{c|325|Animus}} and fair {{c|323|Opima}}'s line
 Pursued a path both different and bright,
 With movement as their sacred gift divine.
 
-From them came {{c|335|Ozymandias}}, great lord,
+From them came bold {{c|335|Ozymandias}}, great lord,
 Who ruled across the unikont domain.
 His children would be glorious, adored,
 And spread through every terrestrial plain.

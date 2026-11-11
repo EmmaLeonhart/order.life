@@ -2510,7 +2510,7 @@ Great Animus and fair Opima's line
 Pursued a path both different and bright,
 With movement as their sacred gift divine.
 
-From them came Ozymandias, great lord,
+From them came bold Ozymandias, great lord,
 Who ruled across the unikont domain.
 His children would be glorious, adored,
 And spread through every terrestrial plain.
@@ -16608,7 +16608,7 @@ She ruled the swamp-edge, midnight until morn—
 The greatest beast that walked the coal swamp then.
 
 From Temna came a dynasty of might:
-Eryops walked upon the solid shore
+Young Eryops walked on the solid shore
 And hunted under both the day and night,
 A barrel-chested warrior built for war.
 
@@ -16617,7 +16617,7 @@ Whose skull was flat as any table laid,
 She swam in silence, letting current rest
 Her patient body in the water's shade.
 
-Branchios chose to never leave the stream—
+Great Branchios refused to leave the stream—
 He kept his gills throughout his ancient days
 And breathed through feathered crimson plumes that gleam
 Like scarlet flowers in the coal-swamp haze.
@@ -17584,7 +17584,9 @@ Him buoyant in the column's middle stage,
 Adjusting depth by gas sealed in the bone—
 
 A solemn engineer, precise and still,
-Who mastered buoyancy by his own skill.
+He hung where neither light nor dark held sway,
+And mastered buoyancy by his own skill,
+And rose or sank, as he chose, night or day.
 
 His skin could ripple with a thousand shades
 In milliseconds—chromatophores bright
@@ -17678,7 +17680,7 @@ The other shed the shell and outlived all.
 
 From Belemno's bolt to Octopos' mind,
 From Sepos' color-speech to Teuthis' reach,
-The coleoids proved that those who leave behind
+The coleoids proved those who leave behind
 The visible protection find a speech
 
 More powerful than armor—the disguise,
@@ -17805,8 +17807,8 @@ From sea to fresh, from fresh to land's great hall
 He walked on many legs, a perfect fit
 
 Where he would try: the roly-poly, curled,
-The pill bug of the garden's underworld,
-The woodlouse in the log's decaying mound—
+The woodlouse in the log's decaying mound,
+The pill bug of the garden's underworld—
 The one crustacean wholly on the ground,
 
 In garden and in forest, field and floor—
@@ -18199,9 +18201,9 @@ Through cold of night and early morning's grey
 And hunt in chill before the day's begun.
 
 Theraps found new arrangements for the jaw—
-The dentary grew large, and grew to draw
-The face to its dominion; teeth with more
-Complexity replaced the row before
+The dentary grew large, and, more and more,
+Brought all the face beneath its single law;
+Complex new teeth replaced the row before
 
 Of simple cone-teeth that his forebears kept:
 Incisors for the grip, a canine fang
@@ -18389,7 +18391,7 @@ For hundreds of millions of years, the sea
 Had narrowed between coasts, grown ever thin,
 Until one land was all the world could be:
 
-The supercontinent, great {{p|Pangea}}, pressed
+Supercontinent, great {{p|Pangea}}, pressed
 Together all the land the earth possessed
 Into one mass from tropic to the crest
 Of frozen poles—the east now touching west,
