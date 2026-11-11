@@ -2217,18 +2217,24 @@ def build_site():
     try:
         raw = (SITE_TMP_DIR / "gaiad.ical").read_text(encoding="utf-8").replace("\r\n ", "").replace("\n ", "")
         day = site_today().strftime("%Y%m%d")
-        events = []
+        unescape = lambda s: s.replace("\\,", ",").replace("\\;", ";")
+        timed, title, description = [], "", []
         for block in raw.split("BEGIN:VEVENT")[1:]:
             fields = dict(l.split(":", 1) for l in block.splitlines() if ":" in l)
             start = next((v for k, v in fields.items() if k.startswith("DTSTART")), "")
-            if start.startswith(day):
-                when = f"{start[9:11]}:{start[11:13]}" if "T" in start else "all day"
-                what = fields.get("SUMMARY", "").replace("\\,", ",").replace("\\;", ";").replace("\\n", " ")
-                events.append((when != "all day", when, what))
-        events.sort()
+            if not start.startswith(day):
+                continue
+            what = unescape(fields.get("SUMMARY", "")).replace("\\n", " ")
+            if "T" in start:
+                timed.append((f"{start[9:11]}:{start[11:13]}", what))
+            elif not title:
+                # The day's all-day event as a calendar app shows it (Emma's screenshot, 2026-11-10): its title, then
+                # its description: the date, the chapter's summary, the links, the first ancestors.
+                title = what
+                description = [l for l in unescape(fields.get("DESCRIPTION", "")).split("\\n") if l.strip()]
         t = site_today()
-        ical_preview = {"date": f"{t.day} {t.strftime('%B %Y')}",
-                        "events": [(w, s) for _, w, s in events][:8]}
+        ical_preview = {"date": f"{t.day} {t.strftime('%B %Y')}", "title": title,
+                        "description": description[:10], "events": sorted(timed)[:8]}
     except Exception as e:
         print(f"  no iCal preview: {e}")
 

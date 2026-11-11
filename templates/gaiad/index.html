@@ -54,8 +54,13 @@
         <h3 style="color: var(--accent); margin: 0 0 10px;">The calendar (iCal)</h3>
         {% if ical_preview %}
         <div style="text-align: left; padding: 12px 14px; border: 1px solid rgba(128,128,128,0.4); border-radius: 4px; background: rgba(128,128,128,0.08); font-size: 0.9em;">
-          <div style="font-weight: bold; margin-bottom: 6px;">{{ ical_preview.date }}</div>
+          {% if ical_preview.title %}<div style="font-size: 1.15em; font-weight: bold; margin-bottom: 6px;">{{ ical_preview.title }}</div>
+          {% else %}<div style="font-weight: bold; margin-bottom: 6px;">{{ ical_preview.date }}</div>{% endif %}
+          {% for l in ical_preview.description %}<div style="margin: 2px 0; overflow-wrap: anywhere;">{{ l | urlize }}</div>{% endfor %}
+          {% if ical_preview.description %}<div>…</div>{% endif %}
+          {% if ical_preview.events %}<div style="margin-top: 8px; padding-top: 6px; border-top: 1px solid rgba(128,128,128,0.3);">
           {% for when, what in ical_preview.events %}<div style="margin: 3px 0;"><span style="opacity: 0.7;">{{ when }}</span> · {{ what }}</div>{% endfor %}
+          </div>{% endif %}
         </div>
         {% endif %}
         <p style="margin-top: 12px;">The Gaian calendar for any calendar app (Google Calendar, Apple, Outlook): every day's
