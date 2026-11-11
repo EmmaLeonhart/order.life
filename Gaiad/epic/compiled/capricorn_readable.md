@@ -287,213 +287,213 @@ And never once be broken or undone.
 # Chapter 30: Snowball Earth Begins
 
 Here is the chronicle of Cnider's reign:
-He sat upon a rock, a wide domain,
-And built on either side of his own throne
+He sat upon a rock, a throne of stone,
+And built, on either side of his domain,
 A row of mouths, which were his very own.
 
 With tentacles that reached down far below,
+He made his city there upon the stone,
 A great and mighty column, all aglow,
-He made his city there upon the stone
 Where he would rule in might, and all alone.
 
-His fishermen in lines he set and placed,
-A Siphonoglyph, so perfectly spaced.
+His fishermen in lines he set and placed;
 Down each mouth, working with a skillful art,
+A Siphonoglyph, so perfectly spaced,
 Each one of them would play his fishing part.
 
 Great Cnider made a sacred, binding pact
-With Luna, and they kept to their contract.
-And by her blessing, which was bright and true,
+With Luna; by her blessing, bright and true,
+And keeping, both of them, to their contract,
 Upon the full moon, he bore children two.
 
 Two sons came forth within her silver light:
-The traditional Anthus, shining bright,
-And bold Anaxydros, who was the new,
-Whose innovations would come shining through.
+Anthus, traditional; and, as the new,
+Anaxydros the bold, who, in his might,
+With innovations, would come shining through.
 
 And to this day, when Luna's shining face
-Shines full upon the sea's watery place,
-The sons of Cnider and of Nettle fair
+Shines full, the sons of Cnider and the fair
+Nettle's, within the sea's watery place,
 Will settle all their spawning matters there.
 
-By moonlight it is that they bear their young,
-While Luna's ancient song is being sung.
+By moonlight it is that they bear their young;
 The tidal pull, the silver of her beam,
+While Luna's ancient song is being sung,
 Fulfill for them their reproductive dream.
 
-Now Anthus kept and held the ancient way,
-And followed what tradition would display.
-His children built on stone a rocky home,
+Now Anthus kept and held the ancient way;
+His children built on stone a rocky home;
+He followed what tradition would display,
 And never far from land would they then roam.
 
 But bold Anaxydros had chosen change;
-His innovations were both new and strange.
-From him there came two children, only two:
+From him there came two children, only two;
+His innovations were both new and strange:
 Great Pompom, and Meduson, who was true.
 
-Great Pompom chose the stalked and rooted path,
-To weather time, and weather nature's wrath.
+Great Pompom chose the stalked and rooted path;
 He built his home upon the ocean floor
+To weather time, and weather nature's wrath,
 And opened up the innovation's door.
 
-From Pompom came two sons of strength and might:
-Conos and Stauros, who were burning bright.
+From Pompom came two sons of strength and might;
 The stalked jellyfish is what they became,
+Conos and Stauros, who were burning bright,
 Adding still more to their ancestor's fame.
 
 But Meduson would choose another way;
-He would not on the bottom ever stay.
-A city of a new kind he would build,
-Which with a wanderlust was always filled.
+A city of a new kind he would build;
+He would not on the bottom ever stay;
+His city with a wanderlust was filled.
 
-His city floated freely in the sea,
-Drifting along, and drifting wild and free.
+His city floated freely in the sea;
 He was the ancestor of jellyfish,
+Drifting along, and drifting wild and free,
 And granted them their floating, roving wish.
 
-At first he had no sense of direction,
-Just aimless drift, without a connection.
-He picked up what he could, and he would ride
+At first he had no sense of direction;
+He picked up what he could, and he would ride,
+Just aimless drift, without a connection,
 While floating there along the drifting tide.
 
-But soon a new idea came to him
-As he was floating, and was free to swim:
-"Why should I drift where any currents go?
+But soon a new idea came to him,
+Who floated: "Why drift where the currents go?
+Since I am floating, and am free to swim,
 I'll pump, and swim, and go both high and low!"
 
 He learned to pump his body, squeezing tight,
-And shoot through all the water with delight.
-No more would he be helpless, left to drift;
+And, helpless now no more, nor left to drift,
+He shot through all the water with delight;
 His swimming was his talent and his gift.
 
-Meanwhile, the sons of Anthus spread and grew
-Across the oceans, which were deep and blue.
-Among them, the Anemones; and these
+Meanwhile, the sons of Anthus spread and grew;
+Among them, the Anemones; and these,
+Across the oceans, which were deep and blue,
 Would sway in water, just like flowered trees.
 
 And Corals built their cities, great and grand,
-Upon the ocean's ever-shifting sand.
-And with Zooxanthellae they would farm,
+And with Zooxanthellae they would farm
+Upon the ocean's ever-shifting sand,
 And keep their cities safe and free from harm.
 
 Zoochlorellae, green and shining bright,
-Helped them to capture all the morning light.
-These partnerships, together, they would make
+Would help them, and these partnerships would make,
+By catching all the morning's golden light,
 The reefs, for other creatures and their sake.
 
-From Meduson there then came children two:
-Bold Diplos, and sweet Jelly, who was true.
-Each one of them would take another path
+From Meduson there then came children two;
+Each one of them would take another path,
+Bold Diplos, and sweet Jelly, who was true,
 Through all the ocean's joy, and through its wrath.
 
 Fair Jelly bore two great and mighty lines
-Of jellyfish, with bold and grand designs:
-First the Cubozoans, box-shaped and wise,
+Of jellyfish: the first, box-shaped and wise,
+The Cubozoans, with their grand designs,
 Who learned the way to use their seeing eyes;
 
 And Scyphozoans, called "True Jellyfish,"
-Who granted many a sailor's heart's wish
-To see their beauty, there within the deep,
+To see whose beauty, there within the deep,
+Was granted many a sailor's heart's wish,
 Where all the secrets of the ocean keep.
 
-The sons of Scyphos numbered very high,
-Beneath the sea, and underneath the sky.
-Each polyp bore a myriad of young,
+The sons of Scyphos numbered very high;
+Each polyp bore a myriad of young
+Beneath the sea, and underneath the sky,
 Whose praises would forever more be sung.
 
-The Pacific Sea Nettle swam along
-Through waters like a ram, so swift and strong.
-Their trailing tentacles, so long, would make
+The Pacific Sea Nettle swam along;
+Its trailing tentacles, so long, would make,
+Through waters, like a ram, so swift and strong,
 The predators think twice, for their own sake.
 
-But Cubos was a father who was kind,
-With caring in his heart and in his mind.
-He bore but few, but they were children dear,
-And held each one of them, and kept them near.
+But Cubos was a father who was kind;
+He bore but few, but they were children dear;
+With caring in his heart and in his mind,
+He held each one of them, and kept them near.
 
 We pray to Cubos when we come to seek
-To be as fathers, strong and never weak.
-And his example shows to us the way
+To be as fathers; he shows us the way,
+Who would be strong as he, and never weak,
 To care for all our young on every day.
 
 The eyes of Cubos, complex, sharp, and true,
-Could see right through the waters, deep and blue.
-No simple spots of light at all were these,
-But they were eyes that truly see and seize.
+Were no mere spots of light at all; and these
+Could see right through the waters, deep and blue,
+For they were eyes that truly see and seize.
 
 They saw each detail in the liquid space,
-Each movement, and each form, and every face.
-The box jellyfish that we see today
+Each movement, and each form; and still today
+The box jellyfish, in every face,
 Still see the world in Cubos' ancient way.
 
 From Cnider's ancient and his noble line
-There came forth forms that were both crude and fine.
-Some stayed upon the rocks along the shore,
+Came forms: some stayed on rocks along the shore,
+Some crude, some fine, in many a design,
 While others chose to rise, to swim, and soar.
 
 The anemones wave their many arms
-Like flowers, showing all their pretty charms.
-But touch them, and then you will feel the sting
+Like flowers; touch them, and you'll feel the sting
+That hides beneath their soft and pretty charms,
 Of cnidocytes that circle in a ring.
 
-The corals build their reefs, so vast and grand,
-Cities spread out through all the ocean land.
-Beneath the waves, the reefs grow up and rise
+The corals build their reefs, so vast and grand;
+Beneath the waves, the reefs grow up and rise,
+Cities spread out through all the ocean land,
 As if they were great underwater skies.
 
 And every polyp, sitting in its cup,
-Will reach its tentacles and hold them up
-To catch the passing food that comes and drifts
+Will reach its tentacles to catch what drifts,
+The passing food, and hold its tendrils up
 Through all the water's soft and gentle shifts.
 
-The jellyfish, which swim so wild and free
-Through every single region of the sea,
+The jellyfish, which swim so wild and free,
 Will show us how to move about with grace
+Through every single region of the sea,
 Throughout the whole of life and its embrace.
 
 And some will drift along the current's flow,
-While others choose for where they want to go.
-And each of these two ways will have its place
+And some will choose their course; each has its place,
+The way to drift, the way to where they go,
 Within the ocean's vast and open space.
 
-The way of the cnidarian today
+The way of the cnidarian today,
+Without a question, and without a doubt,
 Lives on and thrives within each sea and bay,
-Where tentacles are reaching, stretching out,
-Without a question, and without a doubt.
+Where tentacles are reaching, stretching out.
 
 From Cnider, sitting on his rocky throne,
-His children, all of them now fully grown,
-Spread out across the waters, far and wide,
+His children spread across the waters wide,
+And all of them by now are fully grown,
 With tentacles to be for them a guide.
 
-And so, in every sting that you may feel
-From jellyfish, so painful and so real,
+And so, in every sting that you may feel,
 Remember Cnider and his ancient art,
+From jellyfish, so painful and so real,
 Which was the one that gave them all their start.
 
 Their radial symmetry, which they show
-In their biology, will let us know
-Of patterns that are clean, and that are true,
+In patterns that are clean, and that are true,
+In their biology, will let us know,
 In every single thing that they may do.
 
 So honor the great Cnider, and with pride,
-That ancient one, provider far and wide,
 Who sat upon his rock, upon his stone,
+That ancient one, provider far and wide,
 And made the sea and all of it his own.
 
 His covenant with Luna and her light
-Is guiding them still, all throughout the night.
-And when the full moon shines on them above,
+Still guides them; when the full moon shines above,
+As it has guided them through every night,
 They make and give their spawn with all their love.
 
-And the cnidarians that live today
-Still follow on in Cnider's ancient way:
-With tentacles they go about to hunt,
+And the cnidarians that live today,
+With tentacles, still go about to hunt,
+And follow on in Cnider's ancient way,
 And do the work of their survival stunt.
 
 From simple to complex, without a stop,
+The jellyfish are still there, and they roam,
 From polyp up to apex, to the top,
-The jellyfish are still there, and they roam
 Through all the ocean's salty, rolling foam.
 
 
