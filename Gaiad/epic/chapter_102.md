@@ -48,10 +48,11 @@ Of evolution always sought new ground:
 A deadlier kill.
 
                        Nor was he alone.
-The {{x|Jurassic}}'s guild of hunters had grown,
+The {{x|Jurassic}}'s guild of hunters had spread,
 And many were the niches—from the bone
+Of largest prey, the great and thunder-tread,
 
-Of largest prey to the smallest lizard,
+Down to the quick and the smallest lizard,
 A theropod was tuned to every scale:
 {{c|1757|Ceratosauros}}, with nasal wizard-
 Horn and his blade-teeth, hunting the same trail
@@ -97,7 +98,7 @@ And to refine that aim until it filled
 The hunter's niche so fully, so thrilling,
 
 Efficient so, that every herbivore
-On the {{x|Jurassic}} plain lived in shadow
+On the {{x|Jurassic}} plain lived in shadows
 Of theropods' eternal: something more
 Terrible is coming from the meadow's
 
@@ -112,4 +113,6 @@ Predators who hunted and fed and then
 Hunted again: the indelible hymn
 
 Of all the theropods' evolving creed:
-The world is meat; the hunter's born to feed.
+The world is meat, and all the meat is prey;
+The world is meat; the hunter's born to feed,
+And hunts again tomorrow, as today.

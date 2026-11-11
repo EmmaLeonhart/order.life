@@ -27,7 +27,7 @@ Of fluff that kept the body's thermal tale
 
 Of warm blood beating through the smallest frame.
 Then color came—for feathers could be dyed
-By melanosomes; the sexual game
+By melanosomes; the mating game
 Of display, mate-selection, multiplied
 
 The feather's purpose: not just warmth but show,
@@ -49,8 +49,8 @@ Of archipelagoes—and the monsoons
 
 And trade winds of the greenhouse world; and there
 Lived one, a creature half of either world:
-{{c|1755|Archaeos}}, he whose feathered wings unfurled
-The oldest answer to the lifting air.
+{{c|1755|Archaeos}}, he whose wings first met the air:
+The oldest answer, feathered and unfurled.
 
 He was a theropod, and clearly so:
 The teeth, the clawed hands, and the long tail, grown
@@ -76,8 +76,8 @@ Of evolution's transformation, caught:
 A dinosaur becoming bird.
 
                                    Not he
-Was first to fly; for {{c|1746|Pteros}} ruled the free
-{{x|Jurassic}} sky; and yet {{c|1755|Archaeos}} brought
+Was first to fly, for {{c|1746|Pteros}}' wings had sought
+The {{x|Jurassic}} sky; but his wings, set free,
 
 A different wing: not the membrane-kite
 Of pterosaur skin, but the feathered fan,

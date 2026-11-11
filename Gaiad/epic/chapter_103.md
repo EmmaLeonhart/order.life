@@ -25,9 +25,9 @@ And cycads, something new appeared, unsung,
 Quiet, beautiful, transforming: the turns
 
 Of evolution that change everything
-Without extinction's drama: the new thing,
-{{c|1759|Angios}}, the flowering plants, who'd propose
-What gymnosperms had never thought to pose:
+Without extinction's drama: there arose
+{{c|1759|Angios}}, the flowering plants, a thing
+That gymnosperms had never thought to pose:
 
 A pact.
 
@@ -97,7 +97,7 @@ Of lines combined; the masterpieces, store
 Of evolution's mother, fruitful, blessed.
 
 The dinosaurs ate the new plants gladly—
-The hadrosaurs, ceratopsian clans
+The hadrosaurs, the ceratopsian clans
 Of late {{x|Cretaceous}} would have fared badly
 If flowers failed: for all their special plans
 
@@ -122,7 +122,7 @@ Broadcast, dutiful to the eye: a plot
 For pollinators: it would redesign
 
 Every landscape there is on all the earth.
-So honor {{c|1759|Angios}}—the flowering one,
+Honor {{c|1759|Angios}}, the flowering one,
 Who changed the color of the planet's girth
 And made the partnership beneath the sun
 
