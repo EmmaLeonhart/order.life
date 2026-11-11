@@ -11,9 +11,9 @@ Outnumber all the others' full array
 Of mammals put together, as they are:
 
 Drawing the short straw, forty percent's share,
-Two thousand species: orders can't compare
-In what they sent into the wide domain
-Of {{x|Cenozoic}} leases, the terrain
+Two thousand species, sent to the domain
+Of {{x|Cenozoic}} leases: none compare,
+No other order, in the wide terrain
 
 Of ecologic space: the rodent stands
 The most successful mammal on the earth.
