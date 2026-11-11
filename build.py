@@ -1248,7 +1248,7 @@ def gaian_day_description(gaian_year, month_num, day_num):
     # Each Sabbath with its letter, figure, function and tradition (WEEKDAYS; Emma, 2026-10-12 and 2026-10-20), and
     # her words "On Friday I'm a Muslim, Saturday a Jew, Sunday a Christian" (Emma, 2026-11-10: "more texture").
     sabbath = {"Friday": ("\U0001F56F️ The first Sabbath: Alpha (Α), Aster's day, gathering and unification. "
-                          "On Friday I'm a Muslim: \U0001F54C Jummah at 1pm; candles at 5pm Pacific begin the three Sabbaths"),
+                          "On Friday I'm a Muslim: \U0001F54C Jummah at 1pm; candles at 5pm Vancouver time begin the three Sabbaths"),
                "Saturday": ("\U0001F54A️ The second Sabbath: Lambda (Λ), Leona's day, rest, growth and discipline. "
                             "On Saturday a Jew: Shabbat"),
                "Sunday": ("☀️ The third Sabbath: Omega (Ω), Andromeda's day, aspiration and the future. "
@@ -1596,11 +1596,16 @@ def _ical_year_seasons(gy, lang="en"):
 # lighting", "Jummah whenever on Friday it is appropriate", "Noon and 5pm prayers all time". Jummah is held in
 # the noon (Dhuhr) hour; 1pm is the usual congregation time.
 _ICAL_TZ_PACIFIC = (
-    "BEGIN:VTIMEZONE\r\nTZID:America/Los_Angeles\r\n"
+    # Vancouver time (Emma, 2026-11-10: "switch to Vancouver time"). British Columbia kept UTC-7 when the clocks went
+    # back on 1 November 2026, while Los Angeles went to UTC-8, so a feed pinned to Los Angeles showed every prayer an
+    # hour late in Vancouver. Summer/winter time until then; UTC-7 all year from 1 November 2026.
+    "BEGIN:VTIMEZONE\r\nTZID:America/Vancouver\r\n"
     "BEGIN:DAYLIGHT\r\nTZOFFSETFROM:-0800\r\nTZOFFSETTO:-0700\r\nTZNAME:PDT\r\n"
-    "DTSTART:19700308T020000\r\nRRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU\r\nEND:DAYLIGHT\r\n"
+    "DTSTART:19700308T020000\r\nRRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU;UNTIL=20260308T100000Z\r\nEND:DAYLIGHT\r\n"
     "BEGIN:STANDARD\r\nTZOFFSETFROM:-0700\r\nTZOFFSETTO:-0800\r\nTZNAME:PST\r\n"
-    "DTSTART:19701101T020000\r\nRRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU\r\nEND:STANDARD\r\n"
+    "DTSTART:19701101T020000\r\nRRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU;UNTIL=20251102T090000Z\r\nEND:STANDARD\r\n"
+    "BEGIN:STANDARD\r\nTZOFFSETFROM:-0700\r\nTZOFFSETTO:-0700\r\nTZNAME:MST\r\n"
+    "DTSTART:20261101T020000\r\nEND:STANDARD\r\n"
     "END:VTIMEZONE\r\n"
 )
 
@@ -1609,19 +1614,19 @@ _ICAL_TZ_PACIFIC = (
 # time, (hour, minute) where the minute is not 0.
 _ICAL_PRAYERS = [
     ("morning", 8, 15, None, "\U0001F557 Morning prayer", "\U0001F557 \u671d\u306e\u7948\u308a",
-     "\U0001F557 The morning prayer, every day at 8:00 Pacific.\n\U0001F4D6 the day's chapter: https://order.life/gaiad/"),
+     "\U0001F557 The morning prayer, every day at 8:00 Vancouver time.\n\U0001F4D6 the day's chapter: https://order.life/gaiad/"),
     ("noon", 12, 15, None, "\U0001F55B Noon prayer", "\U0001F55B \u6b63\u5348\u306e\u7948\u308a",
-     "\U0001F55B The noon prayer, every day at 12:00 Pacific.\n\U0001F4D6 the readings: https://order.life/gaiad/"),
+     "\U0001F55B The noon prayer, every day at 12:00 Vancouver time.\n\U0001F4D6 the readings: https://order.life/gaiad/"),
     # The 2pm prayer (Emma, 2026-11-10: "Need 2pm event every day").
     ("afternoon", 14, 15, None, "\U0001F551 2pm prayer", "\U0001F551 午後2時の祈り",
-     "\U0001F551 The afternoon prayer, every day at 14:00 Pacific.\n\U0001F4D6 the readings: https://order.life/gaiad/"),
+     "\U0001F551 The afternoon prayer, every day at 14:00 Vancouver time.\n\U0001F4D6 the readings: https://order.life/gaiad/"),
     ("five", 17, 15, None, "\U0001F554 5pm prayer", "\U0001F554 \u5348\u5f8c5\u6642\u306e\u7948\u308a",
-     "\U0001F554 The evening prayer, every day at 17:00 Pacific.\n\U0001F4C5 calendar: https://order.life/calendar/"),
+     "\U0001F554 The evening prayer, every day at 17:00 Vancouver time.\n\U0001F4C5 calendar: https://order.life/calendar/"),
     ("night", (23, 45), 15, None, "\U0001F319 Night prayer", "\U0001F319 \u591c\u306e\u7948\u308a",
-     "\U0001F319 The night prayer, every day at 23:45 Pacific, before the day turns.\n\U0001F4C5 calendar: https://order.life/calendar/"),
+     "\U0001F319 The night prayer, every day at 23:45 Vancouver time, before the day turns.\n\U0001F4C5 calendar: https://order.life/calendar/"),
     ("candles", 17, 15, "FR", "\U0001F56F\uFE0F Sabbath candle lighting",
      "\U0001F56F\uFE0F \u5b89\u606f\u65e5\u306e\u30ad\u30e3\u30f3\u30c9\u30eb\u70b9\u706f",
-     "\U0001F56F\uFE0F Light the candles at 5pm Pacific: the three Sabbaths, Friday to Sunday, begin.\n"
+     "\U0001F56F\uFE0F Light the candles at 5pm Vancouver time: the three Sabbaths, Friday to Sunday, begin.\n"
      "\U0001F4C5 the week: https://order.life/calendar/week/"),
     ("jummah", 13, 60, "FR", "\U0001F54C Jummah", "\U0001F54C \u30b8\u30e5\u30e0\u30a2\uff08\u91d1\u66dc\u793c\u62dd\uff09",
      "\U0001F54C Friday congregational prayer, in the noon hour.\n\U0001F4C5 the week: https://order.life/calendar/week/"),
@@ -1663,8 +1668,8 @@ def _ical_prayers(first_day, last_day, lang="en"):
                 body += f"\n\U0001F4D6 chapter {doy}: https://order.life/gaiad/{doy:03d}/"
             lines = [
                 "BEGIN:VEVENT",
-                f"DTSTART;TZID=America/Los_Angeles:{begin:%Y%m%dT%H%M%S}",
-                f"DTEND;TZID=America/Los_Angeles:{end:%Y%m%dT%H%M%S}",
+                f"DTSTART;TZID=America/Vancouver:{begin:%Y%m%dT%H%M%S}",
+                f"DTEND;TZID=America/Vancouver:{end:%Y%m%dT%H%M%S}",
                 f"SUMMARY:{_ical_text(summary)}",
                 f"DESCRIPTION:{_ical_desc(body)}",
                 _ICAL_DTSTAMP,
