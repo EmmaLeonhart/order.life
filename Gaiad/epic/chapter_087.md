@@ -37,9 +37,9 @@ Alone in strangeness; the {{x|Triassic}} age
 Was such a time as no age since would see:
 It was a living and evolving stage
 
-Of trial, where at once each body plan
-Was tried in the great recovery's span;
-Each variation found its room to thrive
+Of trial, where at once each body plan,
+Each variation, found its room to thrive,
+Was tried in the great recovery's span
 For months or millions of years, kept alive
 
 Before the sorting came. And he had kin:

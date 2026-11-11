@@ -202,6 +202,15 @@ def stanzas_of(path):
                 stanzas.append(cur)
                 cur = []
             continue
+        # A dropped line: one verse line broken into two steps, the second half indented far to the right and often
+        # set off by blank lines ("From what the firstborn leaves behind. / ... From him", ch 86). It is the same line
+        # as the half above it, so join it to that line, across any blank lines, and keep the stanza going.
+        if len(raw) - len(raw.lstrip(" ")) >= 8 and (cur or stanzas):
+            if not cur:
+                cur = stanzas.pop()
+            ln, prev = cur[-1]
+            cur[-1] = (ln, f"{prev} {s}")
+            continue
         cur.append((n, s))
     if cur:
         stanzas.append(cur)

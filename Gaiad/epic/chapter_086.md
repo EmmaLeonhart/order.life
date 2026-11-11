@@ -81,6 +81,7 @@ At his own smallness, giants in his sight.
 The archosaurs then split {{p|Pangaea}}'s spoils:
 And {{c|1732|Cruros}} held the lowlands in despite
 Of any rival, master of the soils
+
 And watercourses; {{c|1733|Avemeta}} crept
 Through upland scrub and arid highland where
 The rainfall was too sparse, the rivers swept
