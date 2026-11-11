@@ -41,7 +41,7 @@ She ruled the swamp-edge, midnight until morn—
 The greatest beast that walked the coal swamp then.
 
 From {{c|1653|Temna}} came a dynasty of might:
-{{c|1657|Eryops}} walked upon the solid shore
+Young {{c|1657|Eryops}} walked on the solid shore
 And hunted under both the day and night,
 A barrel-chested warrior built for war.
 
@@ -50,7 +50,7 @@ Whose skull was flat as any table laid,
 She swam in silence, letting current rest
 Her patient body in the water's shade.
 
-{{c|1659|Branchios}} chose to never leave the stream—
+Great {{c|1659|Branchios}} refused to leave the stream—
 He kept his gills throughout his ancient days
 And breathed through feathered crimson plumes that gleam
 Like scarlet flowers in the coal-swamp haze.
