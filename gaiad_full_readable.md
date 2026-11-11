@@ -19811,6 +19811,7 @@ At his own smallness, giants in his sight.
 The archosaurs then split {{p|Pangaea}}'s spoils:
 And Cruros held the lowlands in despite
 Of any rival, master of the soils
+
 And watercourses; Avemeta crept
 Through upland scrub and arid highland where
 The rainfall was too sparse, the rivers swept
@@ -19876,9 +19877,9 @@ Alone in strangeness; the {{x|Triassic}} age
 Was such a time as no age since would see:
 It was a living and evolving stage
 
-Of trial, where at once each body plan
-Was tried in the great recovery's span;
-Each variation found its room to thrive
+Of trial, where at once each body plan,
+Each variation, found its room to thrive,
+Was tried in the great recovery's span
 For months or millions of years, kept alive
 
 Before the sorting came. And he had kin:
