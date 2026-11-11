@@ -21577,7 +21577,7 @@ Of fluff that kept the body's thermal tale
 
 Of warm blood beating through the smallest frame.
 Then color came—for feathers could be dyed
-By melanosomes; the sexual game
+By melanosomes; the mating game
 Of display, mate-selection, multiplied
 
 The feather's purpose: not just warmth but show,
@@ -21599,8 +21599,8 @@ Of archipelagoes—and the monsoons
 
 And trade winds of the greenhouse world; and there
 Lived one, a creature half of either world:
-{{c|1755|Archaeos}}, he whose feathered wings unfurled
-The oldest answer to the lifting air.
+{{c|1755|Archaeos}}, he whose wings first met the air:
+The oldest answer, feathered and unfurled.
 
 He was a theropod, and clearly so:
 The teeth, the clawed hands, and the long tail, grown
@@ -21626,8 +21626,8 @@ Of evolution's transformation, caught:
 A dinosaur becoming bird.
 
                                    Not he
-Was first to fly; for {{c|1746|Pteros}} ruled the free
-{{x|Jurassic}} sky; and yet {{c|1755|Archaeos}} brought
+Was first to fly, for {{c|1746|Pteros}}' wings had sought
+The {{x|Jurassic}} sky; but his wings, set free,
 
 A different wing: not the membrane-kite
 Of pterosaur skin, but the feathered fan,
@@ -21725,10 +21725,11 @@ Of evolution always sought new ground:
 A deadlier kill.
 
                        Nor was he alone.
-The {{x|Jurassic}}'s guild of hunters had grown,
+The {{x|Jurassic}}'s guild of hunters had spread,
 And many were the niches—from the bone
+Of largest prey, the great and thunder-tread,
 
-Of largest prey to the smallest lizard,
+Down to the quick and the smallest lizard,
 A theropod was tuned to every scale:
 {{c|1757|Ceratosauros}}, with nasal wizard-
 Horn and his blade-teeth, hunting the same trail
@@ -21774,7 +21775,7 @@ And to refine that aim until it filled
 The hunter's niche so fully, so thrilling,
 
 Efficient so, that every herbivore
-On the {{x|Jurassic}} plain lived in shadow
+On the {{x|Jurassic}} plain lived in shadows
 Of theropods' eternal: something more
 Terrible is coming from the meadow's
 
@@ -21789,7 +21790,9 @@ Predators who hunted and fed and then
 Hunted again: the indelible hymn
 
 Of all the theropods' evolving creed:
-The world is meat; the hunter's born to feed.
+The world is meat, and all the meat is prey;
+The world is meat; the hunter's born to feed,
+And hunts again tomorrow, as today.
 
 
 # Chapter 103: The Flower Revolution
@@ -21819,9 +21822,9 @@ And cycads, something new appeared, unsung,
 Quiet, beautiful, transforming: the turns
 
 Of evolution that change everything
-Without extinction's drama: the new thing,
-{{c|1759|Angios}}, the flowering plants, who'd propose
-What gymnosperms had never thought to pose:
+Without extinction's drama: there arose
+{{c|1759|Angios}}, the flowering plants, a thing
+That gymnosperms had never thought to pose:
 
 A pact.
 
@@ -21891,7 +21894,7 @@ Of lines combined; the masterpieces, store
 Of evolution's mother, fruitful, blessed.
 
 The dinosaurs ate the new plants gladly—
-The hadrosaurs, ceratopsian clans
+The hadrosaurs, the ceratopsian clans
 Of late {{x|Cretaceous}} would have fared badly
 If flowers failed: for all their special plans
 
@@ -21916,7 +21919,7 @@ Broadcast, dutiful to the eye: a plot
 For pollinators: it would redesign
 
 Every landscape there is on all the earth.
-So honor {{c|1759|Angios}}—the flowering one,
+Honor {{c|1759|Angios}}, the flowering one,
 Who changed the color of the planet's girth
 And made the partnership beneath the sun
 
