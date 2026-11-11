@@ -647,14 +647,14 @@ That other continents would never see
 Until the bridges of the land broke norms
 
 Of isolation. Strangest of the things
-{{p|Africa}}'s radiation, this it brings:
-That elephant and hyrax and the sleek
-Swimming manatee are cousins: so speak
+{{p|Africa}}'s radiation shows: the sleek
+Swimming manatee, whom the water brings,
+Hyrax and elephant are kin: so speak
 
 Molecular clocks reveal, in their turn,
-What no anatomist by sight could learn:
 That trunk and flipper, and the heels of rock-
-Hyrax, share one ancestral house's stock.
+Hyrax, as no anatomist could learn
+By sight, share one ancestral house's stock.
 
 {{c|1787|Proboscidos}}, the trunk-bearer, would rise
 From small beginnings, from a creature's start
@@ -662,9 +662,9 @@ No larger than a pig, to largest size
 On land: the elephant, whose body's art
 
 Shows what mammal engineering allows
-When size answers survival's question; vows
-The elephant made, deepest of the kind
-Of mammals, to her family. Her mind
+When size answers survival's question; kind
+The elephant is, deepest in her vows
+Of mammals to her family. Her mind
 
 Remembers: for the matriarch who leads
 The herd holds memory for decades, knows
@@ -678,7 +678,7 @@ Her memory, of where the water's path
 
 Lay in the last drought, twenty years before:
 The herd survives because the gray and old
-The matriarch's mind contains the store
+The matriarch's mind still contains the store
 Of lifetime's geography, which is told
 
 To her daughters, who teach their daughters; so
@@ -698,7 +698,7 @@ Sound warning, greeting, across miles, the strip
 Of the savanna; and its call was borne
 
 In infrasound too low for human ears:
-The matriarch's rumble, as it rolled,
+The matriarch's deep rumble, as it rolled,
 Traveled through ground, the tuning of the years
 Of evolution; elephants were told,
 
@@ -714,21 +714,24 @@ Of the huge elephant; and yet the stock
 Is shown in teeth and toenails, and the same
 
 Inner anatomy betrays the kin:
-The hyrax is the elephant within
-A miniature, the cousin who stayed small
-While the proboscidean grew to be tall,
+The hyrax is the cousin who stayed small,
+A miniature of elephant within,
+While the proboscidean grew so tall,
 
 Proof that the same ancestor can install
-In different niches the same right of all
-Mammalian being. {{c|1789|Sirenios}}' kind,
+In different niches the same right to be,
+In mammal flesh, in great and in the small;
+And {{c|1789|Sirenios}}' kind took to the sea:
+
 The manatees, the dugongs, the sea cows,
 {{c|1782|Afrotheros}}' sea courtesans, who'd find
 Their way back to the water and the boughs
+Of seagrass meadows, grazing, calm in mind,
 
-Of seagrass meadows, grazing there unseen
-Below the waters, placid, on the green,
+Below the waters, placid and unseen,
 With the same calm the elephant has shown
-On the savanna's broader ground, its own.
+On the savanna, browsing on the green
+Of its broad ground, a calm that is its own.
 
 The sea cow is the elephant at sea,
 The same {{p|African}} stock adapted to
@@ -737,12 +740,14 @@ Of tropics; rapt and gentle giant, who
 
 Grazes the shallows.
                      And {{c|1790|Oryctos}} goes,
-The aardvark, earth-pig, digs {{p|Africa}}'s rows
-Of termite mounds, with claws as big and strong
-As are a bear's, and with a tongue as long
-As is an anteater's; he stands alone,
-The only member of his order, song
+The aardvark, earth-pig, digging, with claws strong
+As a bear's, through {{p|Africa}}'s termite rows,
+And with a tongue an anteater's as long;
+
+He stands alone, the only member known
+Of his own order, single as a song
 Of lineage entirely his own,
+Held by himself, to whom no kin belong,
 
 With no close relative upon the earth:
 A branch alone of {{c|1782|Afrotheros}}' old
@@ -751,20 +756,23 @@ Is in the steadiness of heroes, bold,
 
 Who need no company, and still endure.
 Honor {{c|1782|Afrotheros}}, the mother who
-Is {{p|African}}, whose children prove it true
-That specialist, generalist, both sure,
+Is {{p|African}}, whose children make it sure,
+That specialist, generalist, both true,
 
 Can spring from just one root: the vast, keen mind
 Of elephants; the hyrax, modest stone;
-The manatee's soft elegance; the lone
-Aardvark's one-member kingdom, of its kind,
+The manatee's soft elegance, refined;
+The aardvark's kingdom, one member, alone,
 
 Grown from one {{p|African}} isolation,
 One {{x|Cenozoic}} island of the south,
 The same continental meditation
 On what the mammal's body, hands, and mouth
+
 Can come to be, when left alone to try
-Its answer, with no other standing by.
+Its answer, with no rival in the way,
+No other house, no stranger standing by,
+Alone with its own question, day by day.
 
 
 # Chapter 119: The Boreoeutherian Opening
