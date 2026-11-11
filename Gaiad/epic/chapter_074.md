@@ -66,9 +66,9 @@ Through cold of night and early morning's grey
 And hunt in chill before the day's begun.
 
 {{c|1672|Theraps}} found new arrangements for the jaw—
-The dentary grew large, and grew to draw
-The face to its dominion; teeth with more
-Complexity replaced the row before
+The dentary grew large, and, more and more,
+Brought all the face beneath its single law;
+Complex new teeth replaced the row before
 
 Of simple cone-teeth that his forebears kept:
 Incisors for the grip, a canine fang

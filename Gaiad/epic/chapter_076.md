@@ -5,7 +5,7 @@ For hundreds of millions of years, the sea
 Had narrowed between coasts, grown ever thin,
 Until one land was all the world could be:
 
-The supercontinent, great {{p|Pangea}}, pressed
+The supercontinent, {{p|Pangea}}, pressed
 Together all the land the earth possessed
 Into one mass from tropic to the crest
 Of frozen poles—the east now touching west,
