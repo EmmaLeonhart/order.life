@@ -23670,20 +23670,19 @@ From mother's circulation; and the ridge
 Between the bloods would meet, but not connect:
 
 And oxygen and nutrients would flow
-From mother's side, the waste returned below;
-The child's long residence within the womb
+From mother's side, the waste returned; the womb
+Kept the child long, a residence, and so
 Allowed what neither egg nor pouch gave room.
 
 Placental mammals were born larger, more
-Developed, readier for breath; the store
-Of longer gestation allowed the brain
-To grow, and this was the placentals' gain
+Developed, readier for breath; the brain,
+Through the longer gestation's added store,
+Could grow; and this was the placentals' gain
 
 In worlds in which intelligence would win:
-The complex brain, the cortex folded in
-Folds no marsupial could grow within
-Its short gestation, was the womb's long gift,
-Development's extended show, the shift
+The complex brain, the womb's long gift, the fold
+Of cortex no marsupial within
+Its short gestation grew; the shift, foretold,
 
 Of evolution that would yield the whale,
 The elephant, the dolphin, and the ape,
@@ -23691,8 +23690,8 @@ And human mind at last. And then the tale
 Of {{c|1775|Placentos}} divided, took the shape
 
 Of {{x|Cenozoic}} mammals is the kind
-That geography writes: three lands assigned,
-Three lines, three adaptive flights, each one free
+That geography writes, three lines set free,
+Three lands, three flights, each to its own assigned,
 And independent: the threefold decree
 
 Of the breaking {{p|Gondwana}} and the north.
@@ -23711,8 +23710,8 @@ Hyrax, manatee: forms' variation
 That {{p|Africa}}, cut off, made in the dark
 
 Of early {{x|Cenozoic}} times, from one
-Founding stock. And {{c|1783|Xenarthros}} was the son
-Of {{p|South America}}, armored, who'd roam,
+Founding stock. And {{c|1783|Xenarthros}}, made to roam,
+Of {{p|South America}} the armored son,
 A wanderer, whose flock grew far from home,
 
 In isolation too: the sloth who hung
@@ -23722,18 +23721,19 @@ Of anteater, with probing expertise,
 
 That probed the termite mound; and later, vast,
 The {{x|Pleistocene}} produced its giants: ground
-Sloth tall as any house, and, armored, round,
-The car-sized glyptodont, whose shell was cast
+Sloth tall as any house; and, heavy-massed,
+The car-sized glyptodont, whose shell was round
 
 In carapace, a living tank. And forth
-Came {{c|1784|Boreos}}, born in {{p|Laurasia}}, north:
-The largest and the most successful rank
+Came {{c|1784|Boreos}}, {{p|Laurasia}}-born, the rank
+Largest and most successful, in the north,
 Of all; for from his line, as from a bank,
 
 Would come the hoofed ones and the carnivores,
-The bats, the whales, the primates, rodents; scores:
-The great majority of mammals' fates
+The bats, the whales, the primates, rodents; fates
+Of the great mass of mammals, and their scores,
 Were settled, northward, where his line creates,
+
 In {{c|1784|Boreos}}' northern radiation.
 Two great houses divided from his line:
 {{c|1785|Euarchos}}, he whose predestination
@@ -23755,8 +23755,8 @@ With mammalian art: the flags flown free
 {{c|1782|Afrotheros}}', {{c|1783|Xenarthros}}', and the throne
 
 Of {{c|1784|Boreos}}: three answers to the quest
-That empty {{x|Paleocene}} had addressed:
-What will the mammal be? Three ways to go,
+Of the empty {{x|Paleocene}}; and so,
+What will the mammal be? was there addressed:
 Three continents, three futures they would know.
 
 
