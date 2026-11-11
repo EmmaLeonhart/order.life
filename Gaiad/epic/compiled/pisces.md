@@ -3483,7 +3483,7 @@ Against the common cruelties of days,
 Of ordinary hunger, and of war,
 That stood unmoved, as stone stands, through the blaze.
 
-The synapsids returned, all furred and warm,
+The synapsids returned, furry and warm,
 The milk-giving, long-delayed heirs of earth;
 {{c|1743|Mammos}} came out, still little in his form,
 And found, where giants fell, a wealth of berth
