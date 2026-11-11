@@ -783,14 +783,14 @@ Joined by land bridges and by forest bands
 Of temperate trees; and in that neighborhood
 
 {{c|1784|Boreos}}' radiation was the most
-Mammalian explosion yet: the host
-Of orders and of families, the last,
+Mammalian explosion yet, the last
+Of all, of orders, families, a host,
 The greatest act the {{x|Cenozoic}} cast.
 
-And {{c|1784|Boreos}} had what {{c|1782|Afrotheros}}
-Had lacked, and lacked as well had {{c|1783|Xenarthros}}:
-Connected continents; the land bridge, laid
-At {{p|Beringia}}, let {{p|Asian}} mammals trade
+And {{c|1784|Boreos}} had what had been denied
+To {{c|1782|Afrotheros}}, {{c|1783|Xenarthros}}: the aid
+Of continents connected, side by side;
+{{p|Beringia}} let {{p|Asian}} mammals trade
 
 With {{p|American}}, one gene pool; and space
 For speciation, continental-wide,
@@ -816,29 +816,37 @@ Moves to the other branch's dance along:
 Were more diverse than any single line
 Before: the carnivores; hoofed ones within
 Their herds; the bats, whose flight was the design
+
 Of powered flight, the only one that won
-By any mammal.
-               {{c|1791|Chiropteros}}, spun,
-The bat, was born into the nighttime's air,
+By any mammal. And the bat was born,
+{{c|1791|Chiropteros}}, into the night, and spun
+Its flight through all the dark air till the morn;
+
 Trusting, ere the whale, echolocation;
 And with its voice the bat would map, with care,
 The darkness, each ultrasound vibration
+Sent out, returned, and read upon the air,
+
 Slid from the palate, was the active sense,
 Perception: for the bat does not await
 The world's own sounds, but sends its own; and hence
 A glistening and rapid pulse, sent straight,
+
 Strikes bone, and wing, and body of the prey
-And bounces back; from the echo's delay,
-Its frequency and angle, the bat knows
-The world's shape, and the moth, the way it goes,
+And bounces back; the bat, from all of those,
+The echo's frequency, angle, delay,
+Knows the world's shape, the moth, the way it goes,
+
 Its speed, its distance, all computed in
 A brain the size of walnuts, in the time
 Of milliseconds: master, with no twin,
 Of all acoustic answers, the sublime.
+
 And the bat took the insect-rich night sky
 The birds had left unclaimed; for birds, by day,
 Are hunters, and the nighttime moth's high cry
 And beetle's were unhunted, and they lay
+
 Unnamed until the bat arrived to take
 The darkness, as the bird had claimed the light;
 And the bat thrived in every cave and brake,
@@ -855,25 +863,29 @@ Designed for running by the open's law,
 On ground where forest cover made retreat,
 
 And predators could see you coming; speed
-Was the one lover of your life, the need
-And single art of grassland mammals: run,
+Was the one lover of your life; to run,
+The single art of grassland mammals, need,
 To run, to run; the hoof was built for one
 
 Such start; the hard and narrow contact's proof
-Against the plain's long pounding, held aloof.
+Against the plain's long pounding, and its stone;
+The runner, from the grasping earth aloof,
+Took the wide plain and made the plain its own.
+
 From {{c|1786|Laurasios}}' northern line would come
 The horse, the great rhinoceros, the mane
 Of lion, and the antler, and the drum
 Of hoofbeat on the steppe; but these remain
+
 As stories for the chapters still ahead.
 Now honor {{c|1784|Boreos}}, whose northern art
 Of continents connected, and the spread
 Of space and competition, and the part
+
 That {{p|Beringia}}'s land-crossing had played,
-The largest mammal radiation laid,
-The northern one, whose orders' long parade
-Of families and species is the most
-Of every mammal that you know, the host.
+The largest mammal radiation, most
+Of all, the northern one, whose long parade
+Of families and species is the host.
 
 
 # Chapter 120: The Carnivorans
