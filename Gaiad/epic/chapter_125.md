@@ -21,13 +21,14 @@ Equatorial; harried and forlorn,
 Unlikely colonists, who landed so
 
 Upon {{p|South America}}'s eastern shore,
-And found a continent with none before,
-Of primates empty: open, wide, the floor.
+And found a continent of primates bare,
+With none before them: open, wide, the floor
+For radiation, waiting for them there.
 
-For radiation. From these castaways
-The {{p|New World}} monkeys bloomed in many ways:
-The broad-nosed {{c|1815|Platyrrhinos}}, of a kind
-With nostrils outward-facing, signs designed
+And from these castaways, in many ways,
+The {{p|New World}} monkeys bloomed: a broad-nosed kind,
+{{c|1815|Platyrrhinos}}, whose face, the nose, displays
+Its nostrils outward-facing, signs designed
 
 To show divergence from the {{p|Old World}} line:
 A small anatomical flag that told
@@ -35,9 +36,9 @@ Thirty million years of separate design
 Of evolution, rag and banner rolled.
 
 {{c|1815|Platyrrhinos}} invented the fifth limb:
-The gripping tail, prehensile, wrapping whim
-Of hanging and of reaching: tail that bore
-The slipping, swinging body, on the floor
+The gripping tail, prehensile, tail that bore
+The slipping, swinging body, at the whim
+Of hanging and of reaching, on the floor
 
 Of canopy, as safety rope and hand,
 A third; no {{p|Old World}} monkey had this art
