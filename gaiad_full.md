@@ -13990,9 +13990,9 @@ Of great {{c|1434|Amphipus}}, noble, tried, and true,
 {{c|1440|Isopods}} came from {{c|1435|Isopus}}' design
 Who'd make their father's legacy shine through,
 
-And brave {{c|1441|Decapods}} who then came to fame
-From great {{c|1437|Decapus}}' everlasting name—
-Three great houses, whose eternal glory
+And brave {{c|1441|Decapods}} who then came to fame,
+Three great houses, whose eternal glory,
+Come down from great {{c|1437|Decapus}}' lasting name,
 Would last through all evolution's story.
 
 {{c|1437|Decapus}} bore two sons both tried and true:
@@ -14016,9 +14016,9 @@ And brave {{c|1445|Shrimpon}}, who'd prove his faithful worth
 As father in the ocean, wide and free.
 
 {{c|1445|Shrimpon}} would become the noble sire
-Of shrimp whose greatest joy and desire
-Was boxing and much more from shore to shore,
-Protecting what they loved for evermore.
+Of shrimp who boxed and fought from shore to shore,
+Whose greatest joy, their one true desire,
+Was guarding what they loved for evermore.
 
 {{c|1444|Repton}} then bore two sons when in their prime:
 {{c|1446|Thalasson}} of the mud, and {{c|1447|Omar}}'s name
@@ -14046,8 +14046,8 @@ Their cities where no evil ever lurks
 In fossilized remains they lie unfurled.
 
 They tell us of {{c|1448|Thallasintep}} the great
-And others who were sealed by loving fate
-In stone for us to see and understand
+And others who in stone are made to stand,
+Sealed there for us to read by loving fate:
 Their architecture throughout ocean's land.
 
 Their works survive time's most destructive hand
@@ -14095,9 +14095,9 @@ And tell their stories of the humble way,
 Of simple living and amazing grace
 Throughout each blessed and ordinary day.
 
-This quiet life would change in future time
-When all ten generations' faithful rhyme
-Had passed away, and they would come to find
+This quiet life would change in future time:
+Ten generations on, they came to find,
+Beyond their fathers' long and faithful rhyme,
 A different and more adventurous mind.
 
 {{c|1450|Anomuron}}'s son {{c|1452|Paguros}} was born
@@ -15688,9 +15688,9 @@ To carry him across the fertile ground,
 Yet {{c|1566|Romulus}} was torn apart ere long,
 And so his son took up what he had found:
 
-His father's dream of building with great care
-A kingdom in the bright and open air
+His father's dream of building with great care,
 Above the waters deep where shadows dwell,
+A kingdom in the bright and open air,
 A realm where faithful hearts could always tell
 
 The difference between the dark and light
@@ -15748,9 +15748,9 @@ That nothing in the darkness could destroy
 The wonder that would banish endless night
 And fill each heart with everlasting joy.
 
-{{c|1576|Tails}} bore two sons with power and with might:
-{{c|1579|Dipluron}} with his keen and piercing sight
-And {{c|1580|Ectognus}} who lived his whole life long
+{{c|1576|Tails}} bore two sons with power and with might,
+And {{c|1580|Ectognus}}, who lived his whole life long
+Beside {{c|1579|Dipluron}} of the piercing sight,
 In service to the right against the wrong.
 
 {{c|1579|Dipluron}} became father of the race
@@ -15869,13 +15869,13 @@ Then came {{c|1595|Hexapter}} who had lived life long
 And learned evolution's ancient song.
 
 But when the great {{c|1595|Hexapter}} came of age
-He turned a revolutionary page
-In history's book for those who'd dare to look
-At what could be achieved by those who took
+He showed all those who'd ever dare to look
+A new and revolutionary page:
+What could be won by those who boldly took
 
 The risk to open up once more the door
-Of spiracles that had been sealed before
-To breathe the air above while keeping still
+To breathe the air above, while keeping still,
+Through spiracles that had been sealed before,
 The gills beneath that served his father's will.
 
 With muscles that he'd made through faithful prayer

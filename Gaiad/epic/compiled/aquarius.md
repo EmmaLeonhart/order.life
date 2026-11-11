@@ -1267,9 +1267,9 @@ To carry him across the fertile ground,
 Yet {{c|1566|Romulus}} was torn apart ere long,
 And so his son took up what he had found:
 
-His father's dream of building with great care
-A kingdom in the bright and open air
+His father's dream of building with great care,
 Above the waters deep where shadows dwell,
+A kingdom in the bright and open air,
 A realm where faithful hearts could always tell
 
 The difference between the dark and light
@@ -1327,9 +1327,9 @@ That nothing in the darkness could destroy
 The wonder that would banish endless night
 And fill each heart with everlasting joy.
 
-{{c|1576|Tails}} bore two sons with power and with might:
-{{c|1579|Dipluron}} with his keen and piercing sight
-And {{c|1580|Ectognus}} who lived his whole life long
+{{c|1576|Tails}} bore two sons with power and with might,
+And {{c|1580|Ectognus}}, who lived his whole life long
+Beside {{c|1579|Dipluron}} of the piercing sight,
 In service to the right against the wrong.
 
 {{c|1579|Dipluron}} became father of the race
@@ -1448,13 +1448,13 @@ Then came {{c|1595|Hexapter}} who had lived life long
 And learned evolution's ancient song.
 
 But when the great {{c|1595|Hexapter}} came of age
-He turned a revolutionary page
-In history's book for those who'd dare to look
-At what could be achieved by those who took
+He showed all those who'd ever dare to look
+A new and revolutionary page:
+What could be won by those who boldly took
 
 The risk to open up once more the door
-Of spiracles that had been sealed before
-To breathe the air above while keeping still
+To breathe the air above, while keeping still,
+Through spiracles that had been sealed before,
 The gills beneath that served his father's will.
 
 With muscles that he'd made through faithful prayer
