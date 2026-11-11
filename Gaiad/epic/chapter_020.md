@@ -31,9 +31,9 @@ Through nuclear pores, our sacred, bright flame
 Of knowledge flows in patterns pure and fine."
 
 Thus {{c|288|Euka}} catalogued his proud design,
-Each organelle a gift to future days.
 But greater still, the summit of his ways:
-The wide spreading of his cellular line.
+The wide spreading of his cellular line,
+Each organelle a gift to future days.
 
 For {{c|308|Seth}}, his son, bore daughters of his own,
 And through five generations they would spread.
@@ -81,7 +81,7 @@ Through all the warming and the thawing days,
 He made the complex cell his very own.
 
 For {{c|319|Nectarius}} wed {{c|321|Ambrosia}} bright,
-Who bore heirs of eukaryotic power.
+Who bore heirs of eukaryote power.
 Their eldest son was {{c|322|Plantus}}, filled with light,
 Who turned the sun to energy's flower.
 

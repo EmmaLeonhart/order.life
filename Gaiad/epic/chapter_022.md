@@ -118,7 +118,7 @@ He saw fair {{c|350|Rosa}}, daughter of great {{c|90839|Rhodes}}.
 He stole away sweet {{c|350|Rosa}} from her kin,
 And wed her to his cellular embrace.
 Within his cytoplasm, locked within,
-She found her new endosymbiotic place.
+She found her endosymbiotic place.
 
 Triumphant {{c|347|Ochros}} cried, "Now I possess
 The power of the sun's life-giving ray!
@@ -270,7 +270,7 @@ Great {{c|325|Animus}} and fair {{c|323|Opima}}'s line
 Pursued a path both different and bright,
 With movement as their sacred gift divine.
 
-From them came bold {{c|335|Ozymandias}}, great lord,
+From them came {{c|335|Ozymandias}}, great lord,
 Who ruled across the unikont domain.
 His children would be glorious, adored,
 And spread through every terrestrial plain.

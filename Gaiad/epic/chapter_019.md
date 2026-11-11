@@ -28,7 +28,7 @@ And change life's course, its eternal refrain.
 From this great match came {{c|285|Proto}}-One the first,
 A bridge between two worlds both old and new.
 His nature held what time and fate had nursed,
-The viral fire and archaean virtue true.
+The viral fire, archaean virtue true.
 
 {{c|285|Proto}}-One then wedded {{c|286|Cellina}} fair,
 Archaea of the noble, ancient line.
@@ -187,7 +187,7 @@ The gift of motion, freedom life would know.
 
 Next born was {{c|301|Golgi}}, master of the trade,
 Who built his apparatus, complex, vast.
-Through vesicles and stacked cisternae he made
+Through vesicles, stacked cisternae he made
 The proteins that would serve the cell and last.
 
 The rough work of {{c|299|Reticulus}} he'd take,
