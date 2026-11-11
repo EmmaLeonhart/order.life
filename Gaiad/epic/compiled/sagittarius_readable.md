@@ -2920,7 +2920,7 @@ Came Trios and bold Tetra, brave and strong.
 Their net grew wide and free, for all to learn,
 A sight to see, a wonder lasting long.
 
-The sons of Choanos spread abroad their art,
+The sons of Choanos spread wide their art,
 Attaching firmly to the rocks below.
 Each built his city, each one played his part
 In evolution's endless ebb and flow.
@@ -2951,8 +2951,8 @@ My people must be daily, fully fed,
 To grow in numbers, and in strength and might."
 
 He found Zoe Xanthella, fair and fine,
-A Princess of Dinoflagellus' line.
-Her beauty, like a star, shone bright and pure;
+Her beauty, like a star, shone bright and pure,
+A Princess of Dinoflagellus' line;
 Her wisdom was divine, her grace secure.
 
 She glowed with inner fire, warm and bright,
@@ -3050,7 +3050,7 @@ As many generations came and passed.
 Their glory, they believed, would ever last,
 And so their die was truly, fully cast.
 
-Pleodoron ruled one hundred twenty-eight,
+Pleodoron: one hundred twenty-eight,
 While Bytos then commanded twice that score.
 And each new ruler met his destined fate,
 By building more and more, and ever more.
