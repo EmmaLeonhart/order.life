@@ -7,8 +7,8 @@ Balance it gave, the feline, small design
 
 Of body; and grew larger, broader, wide
 Of shoulders, which rotated freely, made
-Embodiment of climbing new, displayed
-On boulders and on great trees' trunks, the side
+For climbing, new embodied, on the side
+Of boulders and great trunks, and there displayed
 
 Not run along the branch, but, hanging, climbed
 Beneath it: brachiation's expertise,
@@ -31,9 +31,9 @@ Of a new way of being primate. And
 The art of swing: the lesser ape, at hand
 
 With canopy's geometry, the heart
-Of swinger's world; the gibbon's moving art
-Through treetops, faster than a man can run
-Upon the ground; long arms tuned to the one
+Of swinger's world; the gibbon's way to run
+Through treetops, faster, by the moving art,
+Than man on ground; long arms tuned to the one
 
 Rhythm of pendulum's momentum; each
 Swing timed precisely, every grab, the hold
@@ -46,13 +46,13 @@ Territorial through the air, and met
 The {{p|Asian}} forest: of the apes, among
 
 The non-human primates', most complex text
-Of song: not howler's bellowing, the flexed
-Bass, but the acumen, melodic, planned,
-A structured, thirty-minute concert, and
+Of song: not bass of howlers, but, as planned,
+Melodic acumen, a structure flexed
+Into a thirty-minute concert; and
 
 The mated pair performed it, close and bright,
-Coordinated, two voices in flight,
-Weaving together in the forest's dawn.
+Weaving together in the forest's dawn,
+Coordinated, two voices in flight.
 Then the great apes would change the story, drawn
 
 Anew. {{c|1826|Pongos}}, orangutan, the red
@@ -76,19 +76,19 @@ His chunky and deliberate thought, the chain
 Of solitary genius, which pursued
 
 The forest's deepest puzzle. And then, in
-{{p|Africa}}: tree ape {{c|1827|Dryopithos}}, kin
-And ancestor of muzzle, hand, and brain,
+{{p|Africa}}: {{c|1827|Dryopithos}}, ape, whose brain
+And muzzle, hand, made ancestor and kin,
 Whose shape would be gorilla's, and would gain
 
 The chimpanzee's, and last the human's: these
-{{p|African}} apes: {{x|Miocene}} expertise
-In forest canopy beside the lake
-Of {{p|Rift Valley}}, pelican-rich, would make
+{{p|African}} apes, in forest by the lake
+Of {{p|Rift Valley}}: {{x|Miocene}} expertise
+In canopy, pelican-rich, would make
 
 Margins, produce the largest and most bright
 Of living architects: the largest brain,
-Proportioned to the body, primates' chain
-Had yet achieved. And tools: the first in sight
+Proportioned to the body, the great height
+That primates had achieved. And tools: the chain
 
 Of evidence a non-human conceived
 The world as material to be shaped:
@@ -101,8 +101,8 @@ For purpose past the immediate state
 Of the sensation: the primate's hand, curled
 
 Into the surface of designed intent.
-Honor the apes, the tailless, those who went,
-Who swung and thought and sang, who are the line
+Honor the apes, the tailless, and their line,
+Who swung and thought and sang, the ones who went
 Between the monkeys' million suns, a sign
 
 And human's singular ambition: these,
@@ -111,6 +111,6 @@ Whose long cognition was the preface, keys
 To fingers that would one day write, the rise
 
 Of voice that one day speaks, the mind arrayed
-For conscious choice, that one day, unafraid,
-Would ask, within its wrinkled, folded brain:
+For conscious choice, within its folded brain,
+That one day, wrinkled, would ask, unafraid:
 From what beginning, then, has come this chain?
