@@ -30,7 +30,7 @@ Beneath the floor that would in time become
 The {{p|Atlantic Ocean}}, the entire
 Mantle surged, and pressed, and would not succumb
 
-Against the crust, where {{p|Pangaea}}'s seam was torn:
+Against the crust; and {{p|Pangaea}} was torn:
 The {{x|Central Atlantic Magmatic}} swell,
 The {{x|CAMP}} volcanism, rope-and-ring born
 Of basalt in eruption that would well
@@ -110,5 +110,4 @@ To hold his kingdom underneath the sun.
 Honor the eve—the last good night before
 The fire; for every living, growing thing
 That breathed {{x|Triassic}} air wove, to the core,
-Its own end, and it did not know the sting
-Of what the morning's eruptions would bring.
+Its own end, unaware of morning's sting.

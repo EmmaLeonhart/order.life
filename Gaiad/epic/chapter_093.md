@@ -110,4 +110,6 @@ Of kin in hunting's coordination
 Is able to achieve; upon this strand
 
 Of social innovation, from the start,
-Future theropods would build terror's art.
+The pack would grow, and with it, cunning's reach;
+Future theropods would build terror's art,
+And learn the lesson that the hunters teach.
