@@ -40,9 +40,9 @@ A host of stars, in heaven's gentle sway,
 Their cosmic stories weave through skies so fair,
 Their cosmic tales unfold in bright display.
 
-The eldest star of every kind will stand,
-A guiding sister with a steady hand.
+The eldest star of every kind will stand;
 They lead their cosmic kin through endless night,
+A guiding sister with a steady hand,
 A beacon of their strength and shining light.
 
 {{c|13|Juno}}, the goddess, {{x|Steppenwolves}} she guides,
