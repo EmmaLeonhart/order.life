@@ -782,10 +782,24 @@ def _ical_text(value):
 _ICAL_DTSTAMP = f"DTSTAMP:{datetime.datetime.now(datetime.timezone.utc):%Y%m%dT%H%M%SZ}"
 
 
+def _ical_built_on():
+    """The last line of every iCal description: the Gaian date the feed was built, so Emma can read when her calendar
+    last synced (Emma, 2026-11-10: "Add 'ical built on (Gaian date)' as a simple indicator ... at the end of every
+    description")."""
+    g = gregorian_to_gaian(site_today())
+    name = "Horus" if g["month"] > 13 else MONTHS[g["month"] - 1]["id"].capitalize()
+    return f"\U0001F504 iCal built on {name} {g['day']}, {g['year']} GE"
+
+
+def _ical_desc(description):
+    """An escaped DESCRIPTION value with the built-on line at the end."""
+    return _ical_text(f"{description}\n{_ical_built_on()}")
+
+
 def _vevent(dtstart, summary, description, uid):
     """Return a complete VEVENT block string (CRLF line endings)."""
     dtend = dtstart + datetime.timedelta(days=1)
-    desc_esc = _ical_text(description)
+    desc_esc = _ical_desc(description)
     lines = [
         "BEGIN:VEVENT",
         f"DTSTART;VALUE=DATE:{dtstart:%Y%m%d}",
@@ -902,7 +916,7 @@ _MONTH_NAMES_JA = {
 
 def _vevent_span(dtstart, dtend_excl, summary, description, uid):
     """Multi-day all-day spanning event (e.g. Lent, Eastertide)."""
-    desc_esc = _ical_text(description)
+    desc_esc = _ical_desc(description)
     lines = [
         "BEGIN:VEVENT",
         f"DTSTART;VALUE=DATE:{dtstart:%Y%m%d}",
@@ -1231,9 +1245,14 @@ def gaian_day_description(gaian_year, month_num, day_num):
         intro = (f"\U0001F4C5 {weekday_name}, Horus {day_num}, {gaian_year} GE "
                  f"(intercalary) · {greg}")
     # Fridays to Sundays are the three Sabbaths; Friday's begins with the 5pm candle lighting
-    sabbath = {"Friday": "\U0001F56F️ Sabbath: candles at 5pm Pacific; \U0001F54C Jummah at 1pm",
-               "Saturday": "\U0001F54A️ Sabbath",
-               "Sunday": "\U0001F54A️ Sabbath"}.get(weekday_name, "")
+    # Each Sabbath with its letter, figure, function and tradition (WEEKDAYS; Emma, 2026-10-12 and 2026-10-20), and
+    # her words "On Friday I'm a Muslim, Saturday a Jew, Sunday a Christian" (Emma, 2026-11-10: "more texture").
+    sabbath = {"Friday": ("\U0001F56F️ The first Sabbath: Alpha (Α), Aster's day, gathering and unification. "
+                          "On Friday I'm a Muslim: \U0001F54C Jummah at 1pm; candles at 5pm Pacific begin the three Sabbaths"),
+               "Saturday": ("\U0001F54A️ The second Sabbath: Lambda (Λ), Leona's day, rest, growth and discipline. "
+                            "On Saturday a Jew: Shabbat"),
+               "Sunday": ("☀️ The third Sabbath: Omega (Ω), Andromeda's day, aspiration and the future. "
+                          "On Sunday a Christian: the Lord's Day")}.get(weekday_name, "")
 
     # Collect notable events/seasons on this day
     notable = []
@@ -1593,6 +1612,9 @@ _ICAL_PRAYERS = [
      "\U0001F557 The morning prayer, every day at 8:00 Pacific.\n\U0001F4D6 the day's chapter: https://order.life/gaiad/"),
     ("noon", 12, 15, None, "\U0001F55B Noon prayer", "\U0001F55B \u6b63\u5348\u306e\u7948\u308a",
      "\U0001F55B The noon prayer, every day at 12:00 Pacific.\n\U0001F4D6 the readings: https://order.life/gaiad/"),
+    # The 2pm prayer (Emma, 2026-11-10: "Need 2pm event every day").
+    ("afternoon", 14, 15, None, "\U0001F551 2pm prayer", "\U0001F551 午後2時の祈り",
+     "\U0001F551 The afternoon prayer, every day at 14:00 Pacific.\n\U0001F4D6 the readings: https://order.life/gaiad/"),
     ("five", 17, 15, None, "\U0001F554 5pm prayer", "\U0001F554 \u5348\u5f8c5\u6642\u306e\u7948\u308a",
      "\U0001F554 The evening prayer, every day at 17:00 Pacific.\n\U0001F4C5 calendar: https://order.life/calendar/"),
     ("night", (23, 45), 15, None, "\U0001F319 Night prayer", "\U0001F319 \u591c\u306e\u7948\u308a",
@@ -1603,6 +1625,13 @@ _ICAL_PRAYERS = [
      "\U0001F4C5 the week: https://order.life/calendar/week/"),
     ("jummah", 13, 60, "FR", "\U0001F54C Jummah", "\U0001F54C \u30b8\u30e5\u30e0\u30a2\uff08\u91d1\u66dc\u793c\u62dd\uff09",
      "\U0001F54C Friday congregational prayer, in the noon hour.\n\U0001F4C5 the week: https://order.life/calendar/week/"),
+    # More texture for the second and third Sabbaths (Emma, 2026-11-10: "Three Sabbaths need more texture").
+    ("shabbat", 10, 60, "SA", "\U0001F54D Shabbat morning", "\U0001F54D 安息日の朝",
+     "\U0001F54D The second Sabbath, Lambda (Λ), Leona's day: rest, growth and discipline. The Shabbat morning gathering.\n"
+     "\U0001F4C5 the week: https://order.life/calendar/week/saturday/"),
+    ("lordsday", 11, 60, "SU", "⛪ The Lord's Day", "⛪ 主の日",
+     "⛪ The third Sabbath, Omega (Ω), Andromeda's day: aspiration and the future. The Lord's Day service.\n"
+     "\U0001F4C5 the week: https://order.life/calendar/week/sunday/"),
 ]
 
 
@@ -1623,7 +1652,7 @@ def _ical_prayers(first_day, last_day, lang="en"):
         title = _chapter_title(doy) if mn <= 13 else ""
         day_label = date_label + (f" \u00b7 \U0001F4D6 {title}" if title else "")
         for key, hour, minutes, byday, summ_en, summ_ja, desc in _ICAL_PRAYERS:
-            if byday == "FR" and d.weekday() != 4:
+            if byday and d.weekday() != {"FR": 4, "SA": 5, "SU": 6}[byday]:
                 continue
             h, mi = hour if isinstance(hour, tuple) else (hour, 0)
             begin = datetime.datetime.combine(d, datetime.time(h, mi))
@@ -1637,7 +1666,7 @@ def _ical_prayers(first_day, last_day, lang="en"):
                 f"DTSTART;TZID=America/Los_Angeles:{begin:%Y%m%dT%H%M%S}",
                 f"DTEND;TZID=America/Los_Angeles:{end:%Y%m%dT%H%M%S}",
                 f"SUMMARY:{_ical_text(summary)}",
-                f"DESCRIPTION:{_ical_text(body)}",
+                f"DESCRIPTION:{_ical_desc(body)}",
                 _ICAL_DTSTAMP,
                 f"UID:prayer-{key}-{d:%Y%m%d}@order.life",
                 "END:VEVENT",
