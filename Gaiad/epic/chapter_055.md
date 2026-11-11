@@ -120,9 +120,9 @@ Of great {{c|1434|Amphipus}}, noble, tried, and true,
 {{c|1440|Isopods}} came from {{c|1435|Isopus}}' design
 Who'd make their father's legacy shine through,
 
-And brave {{c|1441|Decapods}} who then came to fame
-From great {{c|1437|Decapus}}' everlasting name—
-Three great houses, whose eternal glory
+And brave {{c|1441|Decapods}} who then came to fame,
+Three great houses, whose eternal glory,
+Come down from great {{c|1437|Decapus}}' lasting name,
 Would last through all evolution's story.
 
 {{c|1437|Decapus}} bore two sons both tried and true:
@@ -146,9 +146,9 @@ And brave {{c|1445|Shrimpon}}, who'd prove his faithful worth
 As father in the ocean, wide and free.
 
 {{c|1445|Shrimpon}} would become the noble sire
-Of shrimp whose greatest joy and desire
-Was boxing and much more from shore to shore,
-Protecting what they loved for evermore.
+Of shrimp who boxed and fought from shore to shore,
+Whose greatest joy, their one true desire,
+Was guarding what they loved for evermore.
 
 {{c|1444|Repton}} then bore two sons when in their prime:
 {{c|1446|Thalasson}} of the mud, and {{c|1447|Omar}}'s name
@@ -176,8 +176,8 @@ Their cities where no evil ever lurks
 In fossilized remains they lie unfurled.
 
 They tell us of {{c|1448|Thallasintep}} the great
-And others who were sealed by loving fate
-In stone for us to see and understand
+And others who in stone are made to stand,
+Sealed there for us to read by loving fate:
 Their architecture throughout ocean's land.
 
 Their works survive time's most destructive hand
@@ -225,9 +225,9 @@ And tell their stories of the humble way,
 Of simple living and amazing grace
 Throughout each blessed and ordinary day.
 
-This quiet life would change in future time
-When all ten generations' faithful rhyme
-Had passed away, and they would come to find
+This quiet life would change in future time:
+Ten generations on, they came to find,
+Beyond their fathers' long and faithful rhyme,
 A different and more adventurous mind.
 
 {{c|1450|Anomuron}}'s son {{c|1452|Paguros}} was born
