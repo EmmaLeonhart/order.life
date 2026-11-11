@@ -2213,6 +2213,9 @@ def build_site():
     print("\nGenerating iCal files...")
     generate_ical_files(SITE_TMP_DIR)
     shutil.copyfile(SITE_TMP_DIR / "calendar" / "ical" / "current.ics", SITE_TMP_DIR / "gaiad.ical")
+    # /gaiad.ics is the same feed under the standard extension, the one to subscribe to; .ical is the download
+    # (Emma, 2026-11-10: "Current.ics i guess would be gaiad.ics"). current.ics stays: her Google Calendar uses it.
+    shutil.copyfile(SITE_TMP_DIR / "calendar" / "ical" / "current.ics", SITE_TMP_DIR / "gaiad.ics")
     ical_preview = None
     try:
         raw = (SITE_TMP_DIR / "gaiad.ical").read_text(encoding="utf-8").replace("\r\n ", "").replace("\n ", "")
