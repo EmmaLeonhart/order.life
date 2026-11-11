@@ -1836,6 +1836,21 @@ On view, and teaches its children: this is what pride
 Does to a keel. That is a better myth than Berik. The deck
 Is the lesson. Stand on the quay. The water is on every side.
 
+Keep one more true thing. When the war was done,
+In sixteen forty-eight, from {{p|Prague}}'s old hoard
+The Swedes took home a book, the greatest one
+In {{x|Gothic}}, where the Goths still praise their Lord.
+
+Theodoric the emperor had made
+That book at {{p|Ravenna}}, purple and bright;
+In silver, Ulfilas's words were laid:
+A {{x|Gothic}} gospel in a {{x|Roman}} light.
+
+The heirs of Goths, as {{p|Sweden}}'s kings would claim,
+Took home his book. It lies in silence still
+At {{p|Uppsala}}, and keeps their tongue and name.
+Go see it, as you see the ship, at will.
+
 
 # Chapter 271: Two Fingers
 
