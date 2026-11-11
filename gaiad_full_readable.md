@@ -18811,8 +18811,8 @@ While Octopos walked where stone gardens spread
 Across the reef, with minds by three times three
 
 To read the world. And in the waters, too,
-The belemnite Belemno swam right through,
 With curled, cylindrical, and solid frame,
+The belemnite Belemno swam right through,
 A sleek torpedo, hunting, as he came,
 
 For small and smaller prey through acres wide
@@ -19265,7 +19265,9 @@ By every living thing above that ground—
 The world was lost, and in its loss remade,
 
 The way that love itself must, now and then,
-Die so that it may be reborn again.
+Give up the form it had, and let it fall,
+Die so that it may be reborn again,
+And rise the stronger for it, after all.
 
 
 # Chapter 83: The Harrowing of Hell
@@ -19375,9 +19377,9 @@ A strange and solitary plenty: ground
 That was his own in full, the west and east
 Of the {{x|Triassic}}'s early land around
 
-Was Lystro's, with no rival to compete,
-Without a predator, his land complete;
-The first years of the {{x|Triassic}}'s long strife
+Was Lystro's, with no rival to compete;
+The first years of the {{x|Triassic}}'s long strife,
+Without a predator, his land complete,
 Were his inheritance, his walk of life
 
 The empty continent, in its extent,
@@ -19406,8 +19408,8 @@ Forward upon the simple need, unbound,
 To go on living; none of them was led
 
 To know they were the seeds of everything
-That followed; they knew only hunger's sting
-And living—nothing more, though bare and rough.
+That followed; living, nothing more, though rough
+And bare, they knew, and only hunger's sting.
 That is enough. It always was enough.
 
 
@@ -19509,9 +19511,9 @@ Beside marine invertebrates' great kin
 That had held sway—now found the ocean, quite
 
 Empty; they found that the invertebrates
-Had drowned in acid; and they filled the space
-Into each depth and current, every place,
-Each niche whose occupant had met those fates.
+Had drowned in acid; and they filled the space,
+Each niche whose occupant had met those fates,
+Into each depth and current, every place.
 
 Teleost radiation then began,
 The largest vertebrate explosion yet
@@ -19566,8 +19568,7 @@ Of mass extinction—and the old refrain
 Of green returning, of the clearing sea,
 And of the first small mammal, looking round
 At morning, seeing chances, empty, free:
-New world, new age, {{x|Triassic}} cradle-ground
-That rocks life back to being, safe and sound.
+New world, new age, a cradle, safe and sound.
 
 ---
 
@@ -19722,7 +19723,9 @@ Who traded claw for flipper, foot for hand
 Rebuilt to swim; life returns to the bay
 
 It left, and finds it waiting, patient, deep,
-And full of room for those who choose to leap.
+As it had waited since the world was young,
+And full of room for those who choose to leap:
+The sea from which the oldest life had sprung.
 
 
 # Chapter 86: The Ruling Reptiles
