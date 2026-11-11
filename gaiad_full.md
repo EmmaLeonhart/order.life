@@ -22947,31 +22947,29 @@ And in the nighttime and the in-between,
 And made the small ones' bargain with the height:
 
 "Let me be insignificant," they prayed,
-"Below your notice"; and the pact they made,
-The covenant of smallness, held them fast:
+"Below your notice"; and they held it fast,
+The covenant of smallness that they made:
 "Your dynasty my smallness will outlast."
 
-The mouse-sized {{c|1743|Mammos}}, heir of {{c|1673|Cynos}}' seed,
+The mouse-sized {{c|1743|Mammos}}, born of {{c|1673|Cynos}}' seed,
+Of the synapsid dynasty the heir,
 Of {{c|1672|Theraps}}, of {{c|1670|Pelyon}}, of {{c|1668|Synaps}}' breed,
-Of the synapsid dynasty, whose sigh
-Knew the weight of the long years that went by,
+Who knew the weight of long years, and their care,
+
 A hundred eighty million, all the way
-From the {{x|Permian}} crown to this new day:
-
+From the {{x|Permian}} crown; and so, alone,
 {{c|1743|Mammos}} crept from his burrow to the gray
-And silent aftermath, and looked away
-Out at a world entirely his own.
-His burrow saved him, home his kind had known.
+And silent aftermath, a world his own.
 
-The network underground, his house below,
+His burrow saved him: underground, below,
+The network that his kind had always known,
 The cynodont's long vigil, patient, slow,
-Dug in the narrow art: an earthwork, all
-A hundred million years of being small.
+Dug in the narrow art, in earth and stone,
 
-Bomb-shelter, pantry, nursery, and all,
-It saved the mammal from the fireball;
-He came out from the surgery of earth,
-Which cut the great, so small would rise in worth.
+A hundred million years of being small.
+Bomb-shelter, pantry, nursery, the earth
+Had saved the mammal from the fireball,
+And cut the great, so small would rise in worth.
 
 And the chicken, if we may call her that:
 The bird, avian dinosaur, the one
@@ -22982,7 +22980,7 @@ Heir to the sky.
                     Why did the birds survive
 When every other dinosaur did not?
 The seed. The tiny, hard-shelled seed, alive
-Through winter, seed of {{c|1759|Angios}}, that was not
+Through winter, {{c|1759|Angios}}' seed, that was not
 
 Destroyed by the firestorm, the seed that lay
 Dormant in soil, through the impact winter,
@@ -23010,12 +23008,14 @@ Is still of {{c|1736|Deinos}}' house the living blood,
 Its final word, though final in no way:
 
 Birds are dinosaurs, and the morning song
-Of robins is the {{x|Mesozoic}}'s long
-And spinal declaration: "I belong
+Of robins is the {{x|Mesozoic}}'s strain,
+Its spinal declaration: "I belong
 To the line that walked the {{x|Cretaceous}} plain,
+
 And though the giants fell, yet still I fly,
 And in my bones the hollow framework's grain
-Of {{c|1681|Archon}}'s house still reaches for the sky."
+Of {{c|1681|Archon}}'s house still reaches for the sky,
+And in my throat the ancient songs remain."
 
 The crocodile, of {{c|1732|Cruros}}' house the last,
 The river-dweller, remnant of the line,
@@ -23051,20 +23051,27 @@ A little warmth and water, and a leaf,
 An insect, and the patience of the stone
 That the turtle seems to be; and the brief
 Catastrophe of fire could not dethrone
-The creature who was armored long before
-Against the common cruelties in store.
 
-The synapsids returned, furry and warm,
+The creature who was armored long before
+Against the common cruelties of days,
+Of ordinary hunger, and of war,
+That stood unmoved, as stone stands, through the blaze.
+
+The synapsids returned, all furred and warm,
 The milk-giving, long-delayed heirs of earth;
-{{c|1743|Mammos}} walked into the {{x|Paleocene}}'s
-Bare, empty world, and found it full of berth
+{{c|1743|Mammos}} came out, still little in his form,
+And found, where giants fell, a wealth of berth
+
+In the {{x|Paleocene}}, a world swept clean
+Of all the great, and open for his tree,
 For all a mammal's body was to mean,
-For every way of life and every form:
+For every way of life that was to be:
 
 In every niche the dinosaurs had held
 The mammals radiated, small at first,
 Then larger, then enormous; and they spelled
 The future in the milk with which they nursed
+
 Their young, the fur that held the body's heat,
 And three small ear-bones, hearing all the world
 In frequencies no reptile's ear could meet;
