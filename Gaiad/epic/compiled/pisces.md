@@ -1379,8 +1379,8 @@ The four-legged, heavy, crocodile-planned
 Archosaurs who held the {{x|Triassic}} spell
 
 Of lowland rule—gone. Phytosaurs, who wore
-The crocodilian mask in days before
-The crocodile existed, now were through:
+The crocodilian mask when yet no true
+Crocodile existed, were now no more:
 Their line was closed; and shore and river, too,
 
 Where they had haunted, empty now and bare.
@@ -1473,8 +1473,11 @@ Of dying—but the life that followed proved
 That even second death can be a door
 To something the old world had not yet moved
 Toward—and the {{x|Jurassic}}'s mighty roar
+
 Was born in silence, at the dying breath
-Of the {{x|Triassic}}, from its second death.
+Of the {{x|Triassic}} world, which died again,
+The second time; and from its second death
+The dinosaurs arose to rule and reign.
 
 
 # Chapter 97: Jurassic Dawn
@@ -1581,9 +1584,9 @@ Back into prominence again; the name
 Of {{c|1730|Sauropteros}} would be made anew
 
 As plesiosaurs—the next chapter's praise.
-For now, give honor to the dawn's gray haze,
-The green {{x|Jurassic}} morning, when the night
-Of second dying ended, and the light
+For now, give honor to the dawn: the night
+Of second dying ended, and the haze
+Of the green {{x|Jurassic}} morning's gray light
 
 Showed life's lawn regrown on bones of the dead,
 The dinosaurs, inheritors, advance;
@@ -1612,10 +1615,10 @@ Of paddle-limb and barrel-chest, and chose
 
 To perfect them for the open, deep sea.
 Two forms emerged from {{c|1729|Nothros}}' ancient line:
-The long-necked ones, of serpentine design,
-Whose neck was half the body, turned to be
+The long-necked ones, whose neck, by slow degree,
+Grew half the body, formed to the design
 
-A fishing-crane above the open waves—
+Of fishing-cranes above the open waves—
 {{c|1748|Elasmosauros}}, with a neck so long
 She seemed a serpent rising from the caves
 Of the deep sea to snatch the fish—her song
@@ -1726,9 +1729,9 @@ Had been, a fish-tail where the reptilian
 Tail had flattened to a vertical beat
 
 In water. {{c|1750|Thalattosuchus}} was now
-Sea creature, streamlined; salt glands would allow,
-Set near the eyes, his freedom from the need
-Of fresh streams; salt-tolerant now, he'd speed
+Sea creature, streamlined, free now from the need
+Of fresh streams: salt glands, by the eyes, allow
+Him salt-tolerant life, and he would speed
 
 To open ocean from the river-bank.
 Metriorhynchids, {{c|1751|Metrion}}'s own kin,
@@ -1775,9 +1778,9 @@ Hunting with {{c|1742|Plesios}}, {{c|1726|Ichthyos}} too:
 Three lines in one marine republic, free,
 
 Each from a different branch of {{c|1669|Sauros}}' tree:
+{{c|1742|Plesios}}, from {{c|1677|Paraps}}' old turtle-kin;
 {{c|1726|Ichthyos}}, from the deep diapsid sea,
-{{c|1742|Plesios}}, from {{c|1677|Paraps}}' turtle-kin's ranch,
-And, creeping to the brine, {{c|1732|Cruros}}' own branch.
+And {{c|1732|Cruros}}' line, the last to venture in.
 
 The teleosaurids, the other clan
 Of {{c|1750|Thalattosuchus}}, kept near the coast,
@@ -1788,9 +1791,11 @@ Who patrolled the {{x|Jurassic}} shore and reef
 Like river-hunting forebears, on salt strand;
 The ancient end-{{x|Triassic}}'s dying grief
 Had pushed them past the rivers to expand
-Beyond the waters that their fathers knew,
-And the {{x|Jurassic}} sea was close at hand
-With fish enough for every hungry crew.
+
+Beyond the waters that their fathers knew;
+And the {{x|Jurassic}} sea lay close and wide,
+With fish enough for every hungry crew,
+And there they hunted, on the turning tide.
 
 And {{c|1750|Thalattosuchus}}' whole clan would fade
 Before {{x|Cretaceous}} dawn—the most marine,
@@ -1845,9 +1850,9 @@ From heart to brain across an unsurpassed,
 Impossible distance—the body's flood
 
 Of engineering answers that allowed
-The impossible to walk.
+The giants to walk.
 
-                         {{c|1752|Brachio}} stood
+                         And {{c|1752|Brachio}} stood
 The tallest, with his front legs longer, proud
 And giraffe-like, nostrils above the wood
 
@@ -1964,7 +1969,9 @@ The largest things that ever walked on sand,
 Whose every footstep was the drumbeat's thump
 
 Of life, which says: I'm here, and I am vast,
-And earth itself remembers where I passed.
+And I have walked the world's whole width and length,
+And earth itself remembers where I passed,
+And bears the print of all my weight and strength.
 
 
 # Chapter 101: The Feathered Ones
