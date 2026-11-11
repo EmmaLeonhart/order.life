@@ -5,10 +5,10 @@ The forests that had clothed it, end to end,
 From coast to coast in green, abundant, ranged,
 The tropic world's experiment, its blend,
 
-Began to shrink: the climate cooled, less rain
-Then fell; tectonic uplift, as it laid
-The eastern {{p|Rift Valley}} high, pooled a shade
-Of rain, worse yearly; the west would retain
+Began to shrink: the climate cooled; then fell
+Less rain; tectonic uplift, as it laid
+The eastern {{p|Rift Valley}} high, pooled the spell
+Of rain's shadow; the west kept, in its shade,
 
 Its forest and its rain; the eastern side
 Abandoned hopes of canopy, and lay
@@ -36,9 +36,9 @@ Techniques transmitted, culturally strict,
 From mother to the child; for culture owns
 
 The chimpanzee: its populations bear
-Traditions, local, learned, of tools, which there
-Are not in genes; the {{p|Taï Forest}} chimps' part
-Is cracking nuts; {{p|Gombe}}'s, the fishing art
+Traditions, local, learned, of tools; the part
+Not in the genes: the {{p|Taï Forest}} chimps there
+Are cracking nuts; {{p|Gombe}}'s, the fishing art
 
 Of probing, which in {{p|Taï}} was not learned:
 The chimpanzee's own cultural wardrobe
@@ -56,8 +56,8 @@ Shared afterward, in politics, the skill
 Of chimpanzee economy, elite,
 
 Whose access to the distribution won
-Of protein was the currency: the one
-Of rank and of alliance. But one more
+Of protein was the currency; the core
+Of rank and of alliance. But then one,
 Upon the other side, past forest's door,
 
 Drank from a different cup: the ones who walked
@@ -81,9 +81,9 @@ Transition had begun. And, long ago,
 "Ground ape" {{c|1830|Ardipithos}}, whose bones have said:
 
 Halfway: still grasping toes for climbing, though
-A backbone that made walking upright, slow,
-Not yet committed, not yet fully stood
-Upon two feet, but speaking, as it could,
+A backbone made for walking, as it could;
+Upright, but slowly; not committed, so
+Not on two feet, yet speaking where it stood
 
 To the savanna's open, woolly ground
 With first tentative steps the primate made
@@ -102,9 +102,11 @@ That any primate ever yet has found:
 The walk to language and to talk, begun,
 
 To fire and art, and to the question asked
-By one species only, the chapter tasked
-Next with its digestion. The split, unmasked,
-Is ancient divergence: the forest chose
-One, and the grassland chose another; none
+By one species alone, which is the theme
+With which the chapter after this is tasked.
+The split, unmasked, is ancient, as a stream
+
+Divides in two: the forest, as it chose,
+Took one, and the grassland another; none
 Knew what would come of it; each brother goes
 A different way, into the future, run.
