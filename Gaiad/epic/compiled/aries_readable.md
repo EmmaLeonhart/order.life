@@ -1143,131 +1143,128 @@ Grazing the grass that grows where it was slain.
 # Chapter 122: The Marine Mammals
 
 Three times the mammals went back to the sea:
-Three separate lines, each independent, three
-Experiments in reigning in the deep;
-And each time, the transcendent body's keep,
+Three separate lines, three ventures in the deep,
+Each independent of the others, three
+Experiments in reigning; and the keep
 
-Its engineering, built the walker new,
-A swimmer, diver, lord of ocean blue.
-The first and greatest was the whale: who stalks
-The deep began as one who, walking, walks
+Of the transcendent body built anew
+The walker as a diver, swimmer, king
+Of all the ocean's reaches, green and blue.
+The first and greatest was the whale, a thing
 
-A crowd of small and doglike creatures, bred
-On {{p|Tethys}}' shore, in {{x|Eocene}}'s warm bed
-Of the shallows: Pakicetos, the size
-Of wolves, no more, whose genes would bring to rise
+That stalks the deep, and once began on land
+As small and doglike creatures, walking, bred
+On {{p|Tethys}}' shore, in {{x|Eocene}} warm sand
+Of shallows, Pakicetos at their head,
 
-The largest animal the world has seen
-Alive on earth. From Pakicetos, keen,
-Wading in shallows, hunting fish, and set
-On {{p|Tethys}}' coast, where land and water met,
+The size of wolves, no more, whose genes would rise
+To make the largest animal yet seen
+Alive on earth. And Pakicetos' eyes,
+Wading in shallows, hunting fish, were keen
 
+On {{p|Tethys}}' coast, where land and water met;
 The whale's transition went on, stride by stride:
-Ambulocetos, walking whale, who tried,
-A crocodile-like swimmer, to forswear
-The land, but not completely: he would fare
+Ambulocetos, walking whale, was set,
+A crocodile-like swimmer, and he tried
 
-Walking and swimming, amphibious, whose
-Hind legs still met the beat of ground to use,
-But whose front legs were paddles, as he went
-Through coastal water.
-                      Then, with legs that bent
+To leave the land, but not completely: whose
+Hind legs, for walking and for swimming, went
+Still to the ground; amphibious, in use
+Of paddle-legs in front. Then, legs that bent
 
-And shrank behind him, Rodhocetos came;
-His nostrils moved; the land-body's old frame
-Was slaughtered, sinking toward the streamlined form;
-And then Basilosauros, of the warm
+And shrank behind him: Rodhocetos came;
+His nostrils moved; and then, toward the form
+Of streamlined swimmers, the land-body's frame
+Was slaughtered; then Basilosauros, warm
 
-And ancient ocean, sixty feet of snake,
-A whale fully aquatic, in whose wake
-His vestigial hind-limbs drew the line,
+In ancient ocean, sixty feet of snake,
+A whale, fully aquatic, in whose line
+Vestigial hind-limbs trailed in his wake,
 His last remembrance of the land's design
 
 The whale would ever carry. By the late
-{{x|Eocene}}, ocean's command, the estate
-Of the cetacean, now fully marine.
+{{x|Eocene}}, the cetacean, now marine,
+Held ocean's whole command and its estate.
 And then the great division: the machine
 
 Of echolocation was devised by
-Odontocetos, the toothed whales: his eye
-Was sonar underwater, in the sperm
-Whale and the dolphin, melon in the firm
+Odontocetos, the toothed whales, the sperm
+Whale and the dolphin: sonar was their eye
+Under the water, melon in the firm
 
 Forehead that focused clicks into a beam;
-The echo's tale, returning, like a dream,
-Produced a map in three dimensions, dark
-And murky ocean seen: the dolphin, stark,
+The echo's tale, returning through the dark,
+Produced, in three dimensions, like a dream,
+A map of murky ocean: dolphins, stark,
 
-Sees with its sound, and sound will paint the shark,
-The fish, the squid, the deep-sea frieze, the mark
-Of the acoustic world.
-                       The baleen kind,
-Mysticetos, grew bodies, unconfined,
+See with their sound, and sound will paint the shark,
+The fish, the squid, the deep-sea frieze, the scene,
+Acoustic world, and every hidden mark.
+And then Mysticetos, of the baleen,
 
-The largest life has ever made, full-grown:
-Grottos of ribcage, cathedral of bone
-In the blue whale, a hundred feet in length,
-A hundred fifty tons, the greatest strength
+Grew bodies, unconfined, the largest grown
+That life has ever made: the great blue whale,
+Grottos of ribcage, cathedral of bone,
+A hundred feet in length, of such a scale,
 
-And size of animal in all the fleet
-Of all that's living, and was fed on meat
-Not of the largest prey, but of the least:
-The krill, the tiny shrimp, a daily feast
+A hundred fifty tons, the greatest size
+Of animal in all the living fleet,
+Yet fed on what is smallest to the eyes:
+The krill, the tiny shrimp, its daily meat,
 
 Scooped in the comb of keratin, baleen,
-A thousand pounds of protein, gathered clean,
-Filtered out from the ocean every day.
+A thousand pounds of protein every day,
+Filtered out from the ocean, gathered clean.
 The whale would sing: the humpback's song, its way,
 
 Traveled for hundreds of miles through the gray
-Acoustic ocean, the long, complex lay
-Males composed, and through the breeding season
-Revised, no two years the same; the reason
+Acoustic ocean; males composed the song
+Through all the breeding season, the long lay,
+Revised each year, no two the same for long;
 
-Unknown for how the whale's song changed in time,
-But beauty undeniable, sublime:
-The ocean filled with music made by these,
-The largest animals, the steady pleas,
+The reason for the changes, all this time,
+Unknown; but beauty, undeniably:
+The ocean filled with music, the sublime,
+The largest animals, the steady plea,
 
 The haunting and acoustic, sure decree:
-"I'm here, I'm vast, I'm singing." Then the sea
-Was entered twice: by Pinnipedos' clan,
+"I'm here, I'm vast, I'm singing." And the clan
+Of Pinnipedos entered next the sea,
 The carnivore, who read the ocean's plan
-Of opportunity, already told
-In the carnivore chapter: seal, the bold
-Land-hunter, now transformed into the hand
-Of the marine: the flippers, and the band
 
-Of blubber, physiology of deep
-Dives, lungs collapsed like rubber, so to keep
-The oxygen stored in blood and muscle,
-Not in air.
-                The third return, the bustle
+Of opportunity, already told
+In the carnivore chapter: seals, whose band
+Of hunters, on the land once fierce and bold,
+Was now transformed into the ocean's hand:
+
+The flippers, and the blubber, and the art
+Of diving deep, the lungs collapsed to keep
+The oxygen in blood and muscle's part,
+Not in the air. The third return, the sweep
 
 Of Sirenios, as already told
-In Afrotheros' tender care: the fold
-Of manatees, dugongs, in the meadow
-Of seagrass, gentle grazers, in shadow
+In Afrotheros' tender care: the throng
+Of manatees, dugongs, the gentle fold
+Of grazers in the seagrass meadows, long
 
-Of tropic coasts.
-                  Three times the mammal went
-Into the sea; three times its body, spent,
-Erased its own design for life on land,
-And three times did the ocean, with its hand,
+In shadow of the tropic coasts. And thrice
+The mammal went into the sea; and spent,
+Its body paid the land design's full price,
+Erased it; and the ocean, three times, bent
 
-Write a new streamlined body from the line
-Of walker's bones; the blue world, the design
-Of singing and of deep and diving kind,
-The mammals of the sea, the proof, defined,
+Its hand, and wrote a streamlined body, wrought
+From walker's bones: the blue world's new design
+Of singing and of diving kind, and brought
+The mammals of the sea, the proof, the sign
 
 That Mammos' banners, raised on land, could win
-Aloof and ancient ocean too, within;
-The synapsid came back to water's yearn
+The ancient, aloof ocean too: the turn
+Of the synapsid, back where it had been,
 Left by the amniotic egg's concern,
 
 Ancestral longing for the sea, which brings
-In every land-thing's leg, in all such things,
-The salt-blood of the sea still in its veins,
+The salt-blood of the sea into the veins
+Of every land-thing's leg, of all such things,
 Which it still carries, and which still remains.
 
 
@@ -1284,9 +1281,9 @@ Outnumber all the others' full array
 Of mammals put together, as they are:
 
 Drawing the short straw, forty percent's share,
-Two thousand species: orders can't compare
-In what they sent into the wide domain
-Of {{x|Cenozoic}} leases, the terrain
+Two thousand species, sent to the domain
+Of {{x|Cenozoic}} leases: none compare,
+No other order, in the wide terrain
 
 Of ecologic space: the rodent stands
 The most successful mammal on the earth.
@@ -1461,8 +1458,8 @@ More computing power, as demanded
 By canopy's vortex and its domain
 
 Of social, spatial worlds that need more thought,
-More memory, prediction; and so, brought
-To fit the need, the cerebrum would grow
+More memory, prediction; it would grow,
+The cerebrum, to fit the need, and brought
 Its folded, wrinkled stock.
                           And long ago
 
@@ -1485,14 +1482,14 @@ Of what the primate was ere monkeys came.
 Tarsios, big-eyed, the {{x|Te Deum}} sung
 Of the nocturnal hunter, and the frame
 Of a tiny primate, with eyes, among
-The huge, of half his skull: each eye the same
-As the brain behind it, in size: the prize
-Of vision in near-darkness; and the leap
-Of tarsier hunting, guided by those eyes,
+
+The huge, of half his skull: each eye the size
+Of the brain behind; and the hunter's leap
+In near-darkness was guided by those eyes,
 Which gathered every photon from the deep
 
 Of forest darkness. Small and ancient, fierce,
-The tarsier was the proton, first in line
+The tarsier, the proton, first in line
 Of primates, hunting insects; time would pierce
 His lineage, in dark, by long design,
 
@@ -1500,20 +1497,25 @@ And carry forward: patriarch's own mark
 Of what the primate was before the light
 Of color, and before the social spark
 Of monkeys' world, which opened up, outright,
+
 To something new; but he, as long before,
-Asocial, ancient tarsier, kept in store
-The vigil of the early primate's way.
+Kept up the vigil of the early way,
+Asocial, ancient, as he was of yore,
+Of primates, in the dark, before the day.
+
 And Aegyptopithos, the fossil found
 In {{p|Egyptian}} earth, told anthropoid day:
 The first true higher primate, as the ground,
-The bridge between prosimian and the ape
+The root from which the monkeys made their way,
+
+The bridge between prosimian and ape
 And monkey, in {{p|Fayum Depression}} found,
 A ridge in {{p|Africa}}: the chunky shape,
 The small-brained ancestor, whose line was crowned
 
 With all that followed: monkey, ape, and man.
-Honor Primos, tree-dwelling one, the clan
-That grasped with hands, saw forward, grew the brain,
+Honor Primos, tree-dwelling, and the brain
+That grew, the forward eyes, the grasping clan,
 Who started on the longest road, the plain
 
 Approach to consciousness evolution
@@ -1550,13 +1552,14 @@ Equatorial; harried and forlorn,
 Unlikely colonists, who landed so
 
 Upon {{p|South America}}'s eastern shore,
-And found a continent with none before,
-Of primates empty: open, wide, the floor.
+And found a continent of primates bare,
+With none before them: open, wide, the floor
+For radiation, waiting for them there.
 
-For radiation. From these castaways
-The {{p|New World}} monkeys bloomed in many ways:
-The broad-nosed Platyrrhinos, of a kind
-With nostrils outward-facing, signs designed
+And from these castaways, in many ways,
+The {{p|New World}} monkeys bloomed: a broad-nosed kind,
+Platyrrhinos, whose face, the nose, displays
+Its nostrils outward-facing, signs designed
 
 To show divergence from the {{p|Old World}} line:
 A small anatomical flag that told
@@ -1564,9 +1567,9 @@ Thirty million years of separate design
 Of evolution, rag and banner rolled.
 
 Platyrrhinos invented the fifth limb:
-The gripping tail, prehensile, wrapping whim
-Of hanging and of reaching: tail that bore
-The slipping, swinging body, on the floor
+The gripping tail, prehensile, tail that bore
+The slipping, swinging body, at the whim
+Of hanging and of reaching, on the floor
 
 Of canopy, as safety rope and hand,
 A third; no {{p|Old World}} monkey had this art
@@ -1687,13 +1690,13 @@ Knuckle-walking; with predators about,
 Whose watching of the open land, nearby,
 
 Then forced a new society: the troop,
-Some fifty, or two hundred, strong; the group
-Replied to leopard and to lion, and
-To long, exposed savanna crossings planned,
+Some fifty, or two hundred, strong, which planned
+Its answer to the leopard as a group,
+To lion, to the long and open land,
 
 With safety in its numbers, and the scale
-Of rank they needed: the dominant male
-Out in the troop's front, lumbering and strong,
+Of rank they needed: out in front, the strong
+And lumbering, the troop's dominant male,
 The sentinel, whose canines were as long
 
 As leopards', and whose bark alone could send
@@ -1712,27 +1715,29 @@ Held her position steady, and would hold
 Through decades, stable core, year after year,
 
 Of the troop's identity, while males came
-And went, parades of passing power's claim.
+And went, the passing power of the day,
+Parades of rank, each with a passing claim,
+While the old mothers' line was there to stay.
 
 Macaque Macacos crossed to {{p|Asia}}'s lands,
-Spread from {{p|Japan}} to {{p|North Africa}}'s sands,
-Of monkeys most geographically blessed:
+Of monkeys most geographically blessed,
+Spread from {{p|Japan}} to {{p|North Africa}}'s sands:
 Snow monkey, in hot springs a steaming guest
 
 Of {{p|Japan}}; {{x|Barbary}} macaques, a band
-{{p|European}}, a remnant, funky, and
-The rhesus clan, and in the rhesus blood
+{{p|European}}, a remnant; in the blood
+Of the rhesus, as science would demand,
 Was found the {{x|Rh}} factor; and the flood
 
 Of macaque's alliance with the quest
 Of human curiosity's research
-Was partnership by accident: the perch
-Of most adaptable monkey, abreast
+Was partnership by accident, abreast,
+The most adaptable of monkeys' perch,
 
 With most adaptable ape's grip on earth.
 Colobos, leaf-eater, met cellulose
-Of forests with the ruminant's own dose:
-A stomach chamber, a repeater's girth,
+Of forests with a stomach's added girth,
+A chamber, like the ruminant's own dose:
 
 Its many-chambered foregut fermented
 The leaves, as the cow's rumen did the grass:
@@ -1740,20 +1745,28 @@ The strut of convergence, here presented,
 Same problem, same solution, in its class,
 
 In monkey as in cow; this primate's part
-In proving evolution's plow, by art,
-Cuts the same furrow in its different fields.
+Was proving evolution's patient plow
+Will cut the same deep furrow, by its art,
+In different fields, no matter where or how.
+
 Honor Cercopithecos, who came down
 From the trees, and learned what the grassland yields
 To the social, hierarchical, the brown
-And mighty baboon; who in {{p|Asia}} spread
-And colonized the human world, ahead
-Of the human; who proved the primate's fate
+And mighty baboon, master of the fields;
+
+Who then in {{p|Asia}} and beyond would spread
+And colonized the human world, before
+The human came, the monkey gone ahead
+Of us, to every city, every shore;
+
+And so the monkey proved the primate's fate
 Could take the open ground, not just the height
 Of canopy; the monkey, walking straight
 Into savanna, survived; and the right
+
 Of primates to the grassland, organized,
-Was here established, as the manna prized,
-Before the ape, before the human's tread:
+Was here established, long before the tread
+Of ape or human, as the manna prized:
 The monkey first; the frontier's ground he led.
 
 
@@ -1766,8 +1779,8 @@ Balance it gave, the feline, small design
 
 Of body; and grew larger, broader, wide
 Of shoulders, which rotated freely, made
-Embodiment of climbing new, displayed
-On boulders and on great trees' trunks, the side
+For climbing, new embodied, on the side
+Of boulders and great trunks, and there displayed
 
 Not run along the branch, but, hanging, climbed
 Beneath it: brachiation's expertise,
@@ -1790,9 +1803,9 @@ Hylobatos, gibbon, perfected, free,
 The art of swing: the lesser ape, at hand
 
 With canopy's geometry, the heart
-Of swinger's world; the gibbon's moving art
-Through treetops, faster than a man can run
-Upon the ground; long arms tuned to the one
+Of swinger's world; the gibbon's way to run
+Through treetops, faster, by the moving art,
+Than man on ground; long arms tuned to the one
 
 Rhythm of pendulum's momentum; each
 Swing timed precisely, every grab, the hold
@@ -1805,13 +1818,13 @@ Territorial through the air, and met
 The {{p|Asian}} forest: of the apes, among
 
 The non-human primates', most complex text
-Of song: not howler's bellowing, the flexed
-Bass, but the acumen, melodic, planned,
-A structured, thirty-minute concert, and
+Of song: not bass of howlers, but, as planned,
+Melodic acumen, a structure flexed
+Into a thirty-minute concert; and
 
 The mated pair performed it, close and bright,
-Coordinated, two voices in flight,
-Weaving together in the forest's dawn.
+Weaving together in the forest's dawn,
+Coordinated, two voices in flight.
 Then the great apes would change the story, drawn
 
 Anew. Pongos, orangutan, the red
@@ -1835,19 +1848,19 @@ His chunky and deliberate thought, the chain
 Of solitary genius, which pursued
 
 The forest's deepest puzzle. And then, in
-{{p|Africa}}: tree ape Dryopithos, kin
-And ancestor of muzzle, hand, and brain,
+{{p|Africa}}: Dryopithos, ape, whose brain
+And muzzle, hand, made ancestor and kin,
 Whose shape would be gorilla's, and would gain
 
 The chimpanzee's, and last the human's: these
-{{p|African}} apes: {{x|Miocene}} expertise
-In forest canopy beside the lake
-Of {{p|Rift Valley}}, pelican-rich, would make
+{{p|African}} apes, in forest by the lake
+Of {{p|Rift Valley}}: {{x|Miocene}} expertise
+In canopy, pelican-rich, would make
 
 Margins, produce the largest and most bright
 Of living architects: the largest brain,
-Proportioned to the body, primates' chain
-Had yet achieved. And tools: the first in sight
+Proportioned to the body, the great height
+That primates had achieved. And tools: the chain
 
 Of evidence a non-human conceived
 The world as material to be shaped:
@@ -1860,8 +1873,8 @@ For purpose past the immediate state
 Of the sensation: the primate's hand, curled
 
 Into the surface of designed intent.
-Honor the apes, the tailless, those who went,
-Who swung and thought and sang, who are the line
+Honor the apes, the tailless, and their line,
+Who swung and thought and sang, the ones who went
 Between the monkeys' million suns, a sign
 
 And human's singular ambition: these,
@@ -1870,8 +1883,8 @@ Whose long cognition was the preface, keys
 To fingers that would one day write, the rise
 
 Of voice that one day speaks, the mind arrayed
-For conscious choice, that one day, unafraid,
-Would ask, within its wrinkled, folded brain:
+For conscious choice, within its folded brain,
+That one day, wrinkled, would ask, unafraid:
 From what beginning, then, has come this chain?
 
 
@@ -1882,10 +1895,10 @@ The forests that had clothed it, end to end,
 From coast to coast in green, abundant, ranged,
 The tropic world's experiment, its blend,
 
-Began to shrink: the climate cooled, less rain
-Then fell; tectonic uplift, as it laid
-The eastern {{p|Rift Valley}} high, pooled a shade
-Of rain, worse yearly; the west would retain
+Began to shrink: the climate cooled; then fell
+Less rain; tectonic uplift, as it laid
+The eastern {{p|Rift Valley}} high, pooled the spell
+Of rain's shadow; the west kept, in its shade,
 
 Its forest and its rain; the eastern side
 Abandoned hopes of canopy, and lay
@@ -1913,9 +1926,9 @@ Techniques transmitted, culturally strict,
 From mother to the child; for culture owns
 
 The chimpanzee: its populations bear
-Traditions, local, learned, of tools, which there
-Are not in genes; the {{p|Taï Forest}} chimps' part
-Is cracking nuts; {{p|Gombe}}'s, the fishing art
+Traditions, local, learned, of tools; the part
+Not in the genes: the {{p|Taï Forest}} chimps there
+Are cracking nuts; {{p|Gombe}}'s, the fishing art
 
 Of probing, which in {{p|Taï}} was not learned:
 The chimpanzee's own cultural wardrobe
@@ -1933,8 +1946,8 @@ Shared afterward, in politics, the skill
 Of chimpanzee economy, elite,
 
 Whose access to the distribution won
-Of protein was the currency: the one
-Of rank and of alliance. But one more
+Of protein was the currency; the core
+Of rank and of alliance. But then one,
 Upon the other side, past forest's door,
 
 Drank from a different cup: the ones who walked
@@ -1958,9 +1971,9 @@ Transition had begun. And, long ago,
 "Ground ape" Ardipithos, whose bones have said:
 
 Halfway: still grasping toes for climbing, though
-A backbone that made walking upright, slow,
-Not yet committed, not yet fully stood
-Upon two feet, but speaking, as it could,
+A backbone made for walking, as it could;
+Upright, but slowly; not committed, so
+Not on two feet, yet speaking where it stood
 
 To the savanna's open, woolly ground
 With first tentative steps the primate made
@@ -1979,10 +1992,12 @@ That any primate ever yet has found:
 The walk to language and to talk, begun,
 
 To fire and art, and to the question asked
-By one species only, the chapter tasked
-Next with its digestion. The split, unmasked,
-Is ancient divergence: the forest chose
-One, and the grassland chose another; none
+By one species alone, which is the theme
+With which the chapter after this is tasked.
+The split, unmasked, is ancient, as a stream
+
+Divides in two: the forest, as it chose,
+Took one, and the grassland another; none
 Knew what would come of it; each brother goes
 A different way, into the future, run.
 
@@ -2061,8 +2076,8 @@ Beginning to be human. Then, at hand,
 Came fire: not mastered yet, but, in its train,
 
 The natural fire, the acumen, the old
-And lightning-struck savanna, and the bold
-Opportunistic use of what remains:
+And lightning-struck savanna's last remains,
+Its use, opportunistic, quick and bold:
 Tubers in ashes cooked; the cold night's pains
 
 Answered by embers' warmth, the brushfire's heat
@@ -2117,8 +2132,8 @@ And grasping; winning, losing, and the part,
 
 The need of the creature who would be us.
 Honor the threshold: Australos, the one,
-The southern ape who walked, beneath the sun,
-The open savanna; the pathos, thus,
+The southern ape who walked; the pathos, thus,
+On the open savanna, in the sun,
 
 And glory of the almost-human, true,
 Who stood up and looked out across the grass,
@@ -2146,7 +2161,9 @@ But that is the next age's telling. Stand,
 For now, the ape, upright, in grass, afar;
 
 And now the future swells, as it was cast,
-And now the threshold has at last been passed.
+And now the ape stands up, and looks ahead;
+And now the threshold has at last been passed,
+And all the long road waits for it to tread.
 
 
 # Chapter 130: Adam
