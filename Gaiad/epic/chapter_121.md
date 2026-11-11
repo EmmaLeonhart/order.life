@@ -66,13 +66,13 @@ Of symbiosis, cow and microbe, tight,
 A billion bacteria in the space
 
 Per milliliter of the rumen: these
-Are a civilian army, by degrees
-Allied, digesting. {{c|1799|Cervidos}}, the deer,
-Grew antlers, the sole organ, year by year,
+Are a civilian army, without peer,
+Allied, digesting, by their slow degrees.
+And {{c|1799|Cervidos}}, the deer, grew, year by year,
 
-That flies, in mammals, the renewal flag;
-The forest's chancers grow anew; the stag
-Each year from velvet-covered bone has grown
+Antlers, the one organ to fly the flag
+Of mammal renewal; from bone are grown,
+Each year, in velvet, on the forest stag
 Fresh headgear; and the antlers, all his own,
 
 Branch and extend the mesh of tines and beams,
@@ -115,6 +115,8 @@ And won the right to fill the largest home
 Upon the planet, biome of the plain:
 The grassland, the savanna, steppe, the loam
 Of prairie: open ground was the domain
+
 And manna of the even-toed and fleet,
 The ruminant inheritors, who reign
-On {{x|Cenozoic}} plain, the hoofed, complete.
+On {{x|Cenozoic}} plain, the hoofed, complete,
+Grazing the grass that grows where it was slain.
