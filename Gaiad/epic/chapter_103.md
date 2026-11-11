@@ -97,7 +97,7 @@ Of lines combined; the masterpieces, store
 Of evolution's mother, fruitful, blessed.
 
 The dinosaurs ate the new plants gladly—
-The hadrosaurs, the ceratopsian clans
+The hadrosaurs, ceratopsian clans
 Of late {{x|Cretaceous}} would have fared badly
 If flowers failed: for all their special plans
 

@@ -75,10 +75,9 @@ Of air: the soaring ocean-crossers' flight,
 The coastal fishers' flap-and-glide design,
 The azhdarchids' ground-stalking; {{c|1746|Pteros}}' might,
 
-The widest walking, flying, soaring, high
-The dynasty that ever held the sky.
-For eighty million years before the birds
-Would claim the air, the pterosaurs' reply
+The widest-ranging dynasty on high
+For eighty million years, before the birds
+Would claim the air; the pterosaurs' reply
 To the air's invitation was the words
 
 Of membrane and of bone, the hollow frame
@@ -87,9 +86,9 @@ Impossible—but frail was not his name:
 He flew, and in the thermal's lift he dreamed.
 
 He crossed the ocean on such wings that, by
-Their span, the albatross seemed small; the sky
-Held all of his devotion; and the end
-Of pterosaurs, {{x|Cretaceous}}' close, would send
+Their span, the albatross seemed small; the end
+Of pterosaurs, though written in the sky,
+Came with the {{x|Cretaceous}}' close, which would send
 
 The air to birds alone—the feathered line
 Of dinosaurs would then extend its own

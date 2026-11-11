@@ -5,7 +5,7 @@ Grew armor, grew horns, grew the elaborate
 And handsome guards of the {{x|Cretaceous}} floor:
 Ornithischian answer, the ornate
 
-Weaponized response to hunters' art.
+Weaponized response to the hunters' art.
 {{c|1762|Ceratops}} was {{c|1741|Ornithis}}' finest shield—
 The horned face, the frilled and bony heart
 Of guard displayed like a medieval field
@@ -79,9 +79,11 @@ That amplified the bellow on the air
 For many miles: the long {{x|Cretaceous}} song
 Of duck-billed herds: a sound both plain and rare,
 Of the herd's talk: the danger-calls, the throng
+
 Of mating-songs, the mother's call, the word
 Of infant hunger—social life laid bare,
-As complex as a mammal's—to be heard.
+As complex as a mammal's—to be heard
+By all the herd, and answered everywhere.
 
 {{c|1766|Hadros}} and {{c|1762|Ceratops}}, together, were
 The mammals of {{x|Cretaceous}} grazing kind,
