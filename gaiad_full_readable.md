@@ -22461,9 +22461,9 @@ The niches pterosaurs could not fill: all
 The understory, forests' deep inside,
 
 Where pterosaurs' broad wingspans could not reach.
-Pteros' children ruled the sky; and on each
-Beach and flatland stalked the azhdarchids, tall
-As giraffes, winged like nightmares, over all.
+Pteros' own children ruled the sky; and tall
+As giraffes, the azhdarchids stalked each beach,
+Each flatland, winged like nightmares, over all.
 
 In the undergrowth, Mammos kept his small
 And quiet vigil: nighttime prayers, the watch
@@ -22508,7 +22508,7 @@ Had never known; and in that rich array
 Fair chapters: the world at its most alive,
 The planet at its greenest and most full,
 Each niche filled up by whatever could thrive
-In the {{x|Cretaceous}} greenhouse's warm, strong pull.
+In the {{x|Cretaceous}} greenhouse's warm pull.
 
 Honor the peak—the moment when the world
 Was most itself, most full, most densely spun
@@ -22529,11 +22529,13 @@ And the peak is still, as yet, not destroyed.
 # Chapter 109: The Cosmic Visitor
 
 Past {{p|Jupiter}}'s far orbit, there a stone
-Had traveled for four billion years, alone.
+Had traveled for four billion years, its way
+Unmarked, unwatched, unhurried, and alone,
+Through cold and dark, until its fatal day.
 
-It was not large—beside the greater mass
-Of wandering debris that might collide,
-Modest in size: ten kilometers wide,
+It was not large: ten kilometers wide,
+Small next to the greater wandering mass
+Of drifting debris that might yet collide,
 A mountain's remnant of the cloud of gas
 
 That built the planets; and its orbit, slow,
@@ -22629,8 +22631,8 @@ Of {{p|Chicxulub}}, just off the coast, the slow
 And ancient limestone shelf; and then the free
 
 And terrible energy, as reckoned,
-Ten billion {{x|Hiroshimas}}: one second
-Released, and closed a hundred million years.
+Ten billion {{x|Hiroshimas}}; and the years,
+A hundred million, closed in one second.
 But that's the next chapter's to tell. The tears
 
 Are not yet falling; the stone's rendezvous
