@@ -137,54 +137,59 @@ The wings, the seed, the flight and its design,
 Perfected in {{x|Cretaceous}} skies, now rose
 
 Into the {{x|Cenozoic}}, bare, and filled
-It: everywhere the eye could see, there spilled
-The avian, heroic, rising tide
-Of birds.
+It: everywhere the eye could see, the tide
+Of avian, heroic rising spilled;
+The feathered clan of birds grew far and wide
 
-          The feathered clan grew far and wide
 In every niche the dinosaurs had left,
-From ocean trench to mountain's highest cleft,
-From deepest forest to the open span
-Of grassland; and the birds, of every clan,
+From ocean trench to grassland's open span,
+From deepest forest to the highest cleft
+Of mountains; and the birds, of every clan,
 
 Became the most diverse warm-blooded kind
-Of vertebrates; and adaptation's mind,
-Its game, found in the birds its widest range
-Of form, the greatest spread of size and change:
+Of vertebrates; and in the birds, the range
+Of form that adaptation's game could find
+Was widest, and the spread of size and change:
 
 Three grams the hummingbird; the ostrich weighs
-Three hundred pounds: the latest of the ways
-And most varied that evolution drew
-From one body plan. Gastornis was, too,
+Three hundred pounds: the farthest stretch that grew
+From one plan, and the latest of the ways
+Evolution tried. Gastornis was, too,
 
 Among the first to claim the empty throne
-Of theropods. The forests he had known
-In {{x|Paleocene}} days gave him the name
-Of terror bird: a flightless giant came,
-Two meters tall, his beak a crusher, made
-For bone; the self-reliant, unafraid,
+Of theropods. The forests gave the name
+Of terror bird to him that they had known
+In {{x|Paleocene}} days: a giant came,
 
-Enormous predator, the peak, the height
-Of what a bird becomes when there is none
-Of mammals large enough to challenge one
-Upon the ground; Gastornis ruled outright
+Two meters tall and flightless, with a beak
+For crushing bone; and, fearless, at the height
+Of what a bird becomes, he stood the peak,
+Enormous predator, and ruled outright
 
-Early {{x|Paleocene}}. The power's scale
-Was still uncertain; and the apex crown
-By mammals was unclaimed; the bird looked down
-Upon the mouse and on the shrew, the frail,
+Early {{x|Paleocene}}, where there was none
+Of mammals large enough to make him yield
+Upon the ground, to challenge him, not one;
+The power's scale was still unsure, the field
+
+Still open, and the apex crown unclaimed
+By mammals; so the giant bird looked down
+Upon the frail, the small, the yet unnamed,
+The mouse, the shrew, and wore the forest's crown,
 
 And for a time remained the master there
 Of all the forest floor. The birds' true gift
-Was not the giant, but the small and swift,
-The many, the diverse ones everywhere,
+Was not the giant, but, found everywhere,
+The many and diverse, the small and swift,
 
 The flexible, compliant body plan
-Allowed. Then Passeros, the songbirds, ran
-Out through the {{x|Eocene}}, a bursting cloud
-Of melody; and so the songbirds made
-The syrinx, as an instrument endowed
-With double chambers, which could sound, and played,
+Allowed. Then Passeros, the songbirds, made
+Out through the {{x|Eocene}}, as they began,
+A bursting cloud of melody, and played
+
+The syrinx as an instrument, endowed
+With double chambers, which could sound and say
+Two voices, and could sing them, clear and loud,
+Together, in one throat, in one array:
 
 Two notes at once, a living feat, which none
 Of all the other vertebrates has matched
@@ -202,14 +207,14 @@ Of sound across the forest, out of sight;
 The bird who sang the most complex designs
 
 Would win the mate; and, lovely and absurd,
-By natural selection there occurred
-Earth's first musicians, and the forests rang
+Earth's first musicians rose, and forests rang
+By natural selection: it occurred
 With magic, competing trials; there sang
 
 Ten thousand species.
                       Then the raptors' flight
-Took the sky, Aquilos' keen hunters' sight,
-Wide-winged, and clinging to the thermals' rise,
+Took the sky, wide-winged, clinging to the rise
+Of thermals, Aquilos' keen hunters' sight,
 The close and patient circling in the skies
 
 Of eagle and of hawk; and falcons' speed
@@ -228,16 +233,16 @@ The sky into the country ruled by fear.
 And then the waterbirds: the penguin's coat
 
 Of insulation in the southern cold,
-The albatross's wings the oceans hold,
-The pelican's pouch, the flamingo's sieve;
+The pelican's pouch, the flamingo's sieve,
+The albatross's wings the oceans hold;
 Each water colonized, where they would live
 
-Slowly, by birds' adapting art: and where
-Water lay anywhere, a bird was there,
-Adapted to its salt, its depth, its way
-Of yielding food; it mapped it, day by day.
+Slowly, by birds' adapting art; and where
+Water lay anywhere, by night or day,
+A bird was there, adapted, and aware
+Of salt and depth and how it yielded prey.
 
-Honor Neornis, the dinosaur who flies,
+Honor Neornis, dinosaur who flies,
 Who sings, who dives, who wades, who swiftly runs,
 The theropod whose feathered, bright disguise
 Outlasted all of Deinos' other sons,
