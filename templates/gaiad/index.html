@@ -5,6 +5,9 @@
 {% block og_description %}{{ t.gaiad_index.subtitle }}{% endblock %}
 {% block twitter_title %}{{ t.gaiad_index.title }} — {{ t.site_title }}{% endblock %}
 {% block twitter_description %}{{ t.gaiad_index.subtitle }}{% endblock %}
+{# A real picture for link previews (Discord and the like show no SVG): the PDF's title page. #}
+{% block og_image %}https://order.life/gaiad-cover.png{% endblock %}
+{% block twitter_card %}summary_large_image{% endblock %}
 
 {% block content %}
 <div class="section-hero">

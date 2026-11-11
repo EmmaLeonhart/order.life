@@ -2660,6 +2660,9 @@ def build_site():
         render_page(env, "gaiad/index.html", gaiad_dir / "index.html",
                     {**ctx, "chapters": chapters, "gedcom_preview": gedcom_preview,
                      "ical_preview": ical_preview, "epub_preview": epub_preview})
+        # /gaiad/pdf/: the shareable link for the PDF, with a link preview (Emma, 2026-11-10: "I see no preview here")
+        (gaiad_dir / "pdf").mkdir(parents=True, exist_ok=True)
+        render_page(env, "gaiad/pdf.html", gaiad_dir / "pdf" / "index.html", ctx)
 
         for ch_num in range(1, 365):
             ch_dir = gaiad_dir / f"{ch_num:03d}"

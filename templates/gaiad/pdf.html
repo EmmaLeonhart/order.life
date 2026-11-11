@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+{# /gaiad/pdf/: the shareable link for the book. A PDF link gets no preview in Discord and the like, because a PDF has
+   no preview tags; this page carries them (title, description, the title page as the picture) and opens the PDF.
+   Emma, 2026-11-10, sharing order.life/gaiad.pdf on Discord: "I see no preview here". #}
+{% block title %}The Gaiad (PDF){% endblock %}
+{% block meta_description %}The whole Gaiad as one book: 364 chapters, one for each day of the Gaian year.{% endblock %}
+{% block og_type %}book{% endblock %}
+{% block og_title %}The Gaiad: A Daily Meditation on the History of Life{% endblock %}
+{% block og_description %}The whole Gaiad as one book by Emma Leonhart 命玥: 364 chapters, one for each day of the Gaian year, in English, with a table of contents. PDF.{% endblock %}
+{% block twitter_title %}The Gaiad: A Daily Meditation on the History of Life{% endblock %}
+{% block twitter_description %}The whole Gaiad as one book: 364 chapters, one for each day of the Gaian year. PDF.{% endblock %}
+{% block og_image %}https://order.life/gaiad-cover.png{% endblock %}
+{% block twitter_card %}summary_large_image{% endblock %}
+
+{% block content %}
+<div class="container" style="text-align: center; padding-top: 30px;">
+  <h1>The Gaiad</h1>
+  <p>A Daily Meditation on the History of Life</p>
+  <p><a href="/gaiad.pdf"><img src="/gaiad-cover.png" alt="The Gaiad, title page of the PDF" width="360"
+     style="max-width: 100%; height: auto; border: 1px solid rgba(128,128,128,0.4); box-shadow: 0 4px 16px rgba(0,0,0,0.35);"></a></p>
+  <p style="max-width: 560px; margin: 16px auto;">The whole Gaiad as one book: all 364 chapters, one for each day of the
+    Gaian year, in English, with a table of contents.</p>
+  <p><a class="btn" href="/gaiad.pdf">Open the PDF</a> <a class="btn" href="/gaiad.pdf" download>Download</a></p>
+  <p style="margin-top: 20px;"><a href="{{ base }}/gaiad/">The Gaiad online, and the other formats</a></p>
+</div>
+{% endblock %}

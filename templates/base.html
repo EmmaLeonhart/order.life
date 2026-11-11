@@ -10,11 +10,11 @@
   <meta property="og:title" content="{% block og_title %}{{ t.site_title }} — {{ t.religion_name }}{% endblock %}">
   <meta property="og:description" content="{% block og_description %}{{ t.tagline }}{% endblock %}">
   <meta property="og:url" content="https://order.life{{ base }}{% if path_suffix %}{{ path_suffix }}{% else %}/{% endif %}">
-  <meta property="og:image" content="https://order.life/static/mei.svg">
-  <meta name="twitter:card" content="summary">
+  <meta property="og:image" content="{% block og_image %}https://order.life/static/mei.svg{% endblock %}">
+  <meta name="twitter:card" content="{% block twitter_card %}summary{% endblock %}">
   <meta name="twitter:title" content="{% block twitter_title %}{{ t.site_title }} — {{ t.religion_name }}{% endblock %}">
   <meta name="twitter:description" content="{% block twitter_description %}{{ t.tagline }}{% endblock %}">
-  <meta name="twitter:image" content="https://order.life/static/mei.svg">
+  <meta name="twitter:image" content="{{ self.og_image() }}">
   <link rel="icon" href="/static/favicon.svg" type="image/svg+xml">
   <link rel="icon" href="/static/favicon-32.png" type="image/png" sizes="32x32">
   <link rel="apple-touch-icon" href="/static/apple-touch-icon.png">
