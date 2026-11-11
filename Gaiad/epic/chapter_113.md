@@ -17,8 +17,8 @@ And the dispersed and battered, each in turn,
 
 Survivors, looked around. Four houses passed
 The asteroid's judgment; four old lines found
-The post-extinction world, and from that ground
-Built everything that followed, first to last.
+The post-extinction world, and held it fast,
+And built what followed it, from that same ground.
 
 {{c|1678|Turtlos}}, patient one, {{c|1677|Paraps}}' armored child,
 Emerged from some dim, river-dulled repose
@@ -26,12 +26,13 @@ That kept her through the fire. She was mild,
 Untroubled as she'd always been; she goes
 
 With her own fortress, and she needs a pond,
-A green leaf, a warm stone, nothing beyond:
-The tortoise asks the world for little, gives
-Little in turn, except the living proof
-That one unambitious, patient, who lives
+A green leaf and a warm stone; and she gives
+Little in turn, and asks nothing beyond,
+Except the living proof that one who lives
+
 Upon the minimum outlasts the roof
 Of each empire that the bold have built.
+And patient too, and just as much aloof,
 {{c|1732|Cruros}}' children, the crocodiles, who spilt
 
 No energy on civilizations,
@@ -40,9 +41,9 @@ Of blood, patient, at the river's stations,
 Eating when it brought food; and, as of old,
 
 Fasting in fallows when no food occurred;
-The crocodile's cool liver, undeterred,
-Worked impact winter's nothing just the same
-As the {{x|Cretaceous}} plenty when it came.
+The crocodile's cool liver, all the same,
+Worked impact winter's nothing, undeterred,
+Like the {{x|Cretaceous}} plenty when it came.
 
 Splinter of {{c|1732|Cruros}}' once-great house, he stayed
 When all the rest had perished long ago:
@@ -50,7 +51,9 @@ The crocodile, unhurried, unafraid,
 Unchanged, the oldest strategy we know
 
 Of living, and of guile, the patient trade:
-Do nothing, slowly, and outlast the blade.
+To lie in wait, and never to complain;
+Do nothing, slowly, and outlast the blade
+Of every hunger and of every reign.
 
 {{c|1769|Neornis}}, the crown birds, {{c|1755|Archaeos}}' pride,
 Refined and winnowed through the fire's test,
@@ -68,14 +71,14 @@ Of the angiosperm's foresight and toil,
 That fed the bird when nothing else was there.
 
 And {{c|1743|Mammos}}, mouse and heir of {{c|1673|Cynos}}' seed,
+Synapsid exile, the long-hidden one,
 Of {{c|1672|Theraps}}, of {{c|1670|Pelyon}}, of {{c|1668|Synaps}}' breed,
-Synapsid exile, who for long had known
-The wraps of smallness and the vigil, grown
+Who knew the wraps of smallness, and had done
 
 A hundred eighty million years of night,
-Saw the {{x|Paleocene}} bare in the light,
-And saw what all his burrowing and thrift
-Of nightlife had prepared him for: the gift
+Saw the {{x|Paleocene}}, and saw what thrift
+And burrowing had won him: bare, in light,
+The land lay open to him, and the gift
 
 Of open daylight, clean, a world without
 The dinosaur's great shadow overhead.
@@ -103,9 +106,11 @@ Bird, mammal; four whose glory was not set
 In conquest, but in patience and in guile
 
 And in the minimum of need. They made
-No conquest of the asteroid; they stayed
-Alive through it, no more; and every seed
-Of every world to come, that would proceed
+No conquest of the asteroid; but some,
+Alive through it, no more, survived and stayed;
+And every seed of every world to come,
 
 Forward from the {{x|Paleocene}}, it grew
-Out of the ash they walked that morning through.
+Out of the ash they walked that morning, freed
+Of giants; out of the four houses who
+Had nothing but their patience and their need.
