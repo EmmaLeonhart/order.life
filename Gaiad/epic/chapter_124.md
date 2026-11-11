@@ -57,8 +57,8 @@ More computing power, as demanded
 By canopy's vortex and its domain
 
 Of social, spatial worlds that need more thought,
-More memory, prediction; and so, brought
-To fit the need, the cerebrum would grow
+More memory, prediction; it would grow,
+The cerebrum, to fit the need, and brought
 Its folded, wrinkled stock.
                           And long ago
 
@@ -81,14 +81,14 @@ Of what the primate was ere monkeys came.
 {{c|1813|Tarsios}}, big-eyed, the {{x|Te Deum}} sung
 Of the nocturnal hunter, and the frame
 Of a tiny primate, with eyes, among
-The huge, of half his skull: each eye the same
-As the brain behind it, in size: the prize
-Of vision in near-darkness; and the leap
-Of tarsier hunting, guided by those eyes,
+
+The huge, of half his skull: each eye the size
+Of the brain behind; and the hunter's leap
+In near-darkness was guided by those eyes,
 Which gathered every photon from the deep
 
 Of forest darkness. Small and ancient, fierce,
-The tarsier was the proton, first in line
+The tarsier, the proton, first in line
 Of primates, hunting insects; time would pierce
 His lineage, in dark, by long design,
 
@@ -96,20 +96,25 @@ And carry forward: patriarch's own mark
 Of what the primate was before the light
 Of color, and before the social spark
 Of monkeys' world, which opened up, outright,
+
 To something new; but he, as long before,
-Asocial, ancient tarsier, kept in store
-The vigil of the early primate's way.
+Kept up the vigil of the early way,
+Asocial, ancient, as he was of yore,
+Of primates, in the dark, before the day.
+
 And {{c|1814|Aegyptopithos}}, the fossil found
 In {{p|Egyptian}} earth, told anthropoid day:
 The first true higher primate, as the ground,
-The bridge between prosimian and the ape
+The root from which the monkeys made their way,
+
+The bridge between prosimian and ape
 And monkey, in {{p|Fayum Depression}} found,
 A ridge in {{p|Africa}}: the chunky shape,
 The small-brained ancestor, whose line was crowned
 
 With all that followed: monkey, ape, and man.
-Honor {{c|1811|Primos}}, tree-dwelling one, the clan
-That grasped with hands, saw forward, grew the brain,
+Honor {{c|1811|Primos}}, tree-dwelling, and the brain
+That grew, the forward eyes, the grasping clan,
 Who started on the longest road, the plain
 
 Approach to consciousness evolution
