@@ -22753,8 +22753,8 @@ The young seabirds' magnetic sense, the way
 Of navigation, written in brain-maps,
 
 Might have perceived, as a faint stir, the stone
-Approaching, in the magnetosphere's zone;
-No record has been kept, no tally set,
+Coming near the magnetosphere; yet
+No record has been kept, no tally shown,
 Of the approaching doom.
 
                          The last sunset
@@ -22765,11 +22765,11 @@ In reds and golds that would not soon recur
 For ten million long years.
 
                       And then the night.
+
 The last night of the {{x|Mesozoic}} world.
 And in the south, a growing point of light
-In the sky, where no star had ever swirled
-Before—it grew, and brightened, and it hurled
-Itself toward earth. The stone arrived that night.
+Where no star ever was, grew, brightened, swirled,
+And hurled itself at earth. It came that night.
 
 
 # Chapter 111: Good Mesozoic Friday
