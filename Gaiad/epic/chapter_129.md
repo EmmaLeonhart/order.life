@@ -72,8 +72,8 @@ Beginning to be human. Then, at hand,
 Came fire: not mastered yet, but, in its train,
 
 The natural fire, the acumen, the old
-And lightning-struck savanna, and the bold
-Opportunistic use of what remains:
+And lightning-struck savanna's last remains,
+Its use, opportunistic, quick and bold:
 Tubers in ashes cooked; the cold night's pains
 
 Answered by embers' warmth, the brushfire's heat
@@ -128,8 +128,8 @@ And grasping; winning, losing, and the part,
 
 The need of the creature who would be us.
 Honor the threshold: {{c|1831|Australos}}, the one,
-The southern ape who walked, beneath the sun,
-The open savanna; the pathos, thus,
+The southern ape who walked; the pathos, thus,
+On the open savanna, in the sun,
 
 And glory of the almost-human, true,
 Who stood up and looked out across the grass,
@@ -157,4 +157,6 @@ But that is the next age's telling. Stand,
 For now, the ape, upright, in grass, afar;
 
 And now the future swells, as it was cast,
-And now the threshold has at last been passed.
+And now the ape stands up, and looks ahead;
+And now the threshold has at last been passed,
+And all the long road waits for it to tread.
