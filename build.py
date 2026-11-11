@@ -2206,6 +2206,42 @@ def build_site():
         }
     except Exception as e:
         print(f"  no GEDCOM preview: {e}")
+
+    # Generate iCal files (language-agnostic, root-level). Moved up from the end of the build so the /gaiad/ page can
+    # preview them. /gaiad.ical is the daily feed, a copy of /calendar/ical/current.ics, the one Emma subscribes to
+    # (Emma, 2026-11-10: "gaiad.ical should exist ... ical is the standard calendar should mirror the one I use").
+    print("\nGenerating iCal files...")
+    generate_ical_files(SITE_TMP_DIR)
+    shutil.copyfile(SITE_TMP_DIR / "calendar" / "ical" / "current.ics", SITE_TMP_DIR / "gaiad.ical")
+    ical_preview = None
+    try:
+        raw = (SITE_TMP_DIR / "gaiad.ical").read_text(encoding="utf-8").replace("\r\n ", "").replace("\n ", "")
+        day = site_today().strftime("%Y%m%d")
+        events = []
+        for block in raw.split("BEGIN:VEVENT")[1:]:
+            fields = dict(l.split(":", 1) for l in block.splitlines() if ":" in l)
+            start = next((v for k, v in fields.items() if k.startswith("DTSTART")), "")
+            if start.startswith(day):
+                when = f"{start[9:11]}:{start[11:13]}" if "T" in start else "all day"
+                what = fields.get("SUMMARY", "").replace("\\,", ",").replace("\\;", ";").replace("\\n", " ")
+                events.append((when != "all day", when, what))
+        events.sort()
+        t = site_today()
+        ical_preview = {"date": f"{t.day} {t.strftime('%B %Y')}",
+                        "events": [(w, s) for _, w, s in events][:8]}
+    except Exception as e:
+        print(f"  no iCal preview: {e}")
+
+    # The EPUB preview: the book's opening, chapter 1's first stanza, as a reader would open it.
+    epub_preview = None
+    try:
+        lines = [l for l in (EPIC_DIR / "chapter_001.md").read_text(encoding="utf-8").splitlines()]
+        title = lines[0].lstrip("# ").strip()
+        body = [l for l in lines[1:] if l.strip()][:4]
+        strip = lambda s: re.sub(r"\{\{[a-z]\|[^|}]*\|([^}]*)\}\}", r"\1", s)
+        epub_preview = {"title": strip(title), "lines": [strip(l) for l in body]}
+    except Exception as e:
+        print(f"  no EPUB preview: {e}")
     # Person records at /wikibase/entity/Q<n>, shown by 404.html from small JSON buckets
     try:
         from entity_index import build as build_entity_index
@@ -2579,7 +2615,8 @@ def build_site():
         gaiad_dir = lang_dir / "gaiad"
         gaiad_dir.mkdir(parents=True, exist_ok=True)
         render_page(env, "gaiad/index.html", gaiad_dir / "index.html",
-                    {**ctx, "chapters": chapters, "gedcom_preview": gedcom_preview})
+                    {**ctx, "chapters": chapters, "gedcom_preview": gedcom_preview,
+                     "ical_preview": ical_preview, "epub_preview": epub_preview})
 
         for ch_num in range(1, 365):
             ch_dir = gaiad_dir / f"{ch_num:03d}"
@@ -2775,9 +2812,7 @@ def build_site():
 
     # English homepage is the site root (no separate language selector page needed).
 
-    # Generate iCal files (language-agnostic, root-level)
-    print("\nGenerating iCal files...")
-    generate_ical_files(SITE_TMP_DIR)
+    # (iCal files are generated earlier now, before the pages: see "Generate iCal files" near the GEDCOM export.)
 
     # Generate RSS feed for daily Gaiad readings
     print("\nGenerating RSS feed...")

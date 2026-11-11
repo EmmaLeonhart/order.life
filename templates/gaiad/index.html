@@ -38,6 +38,34 @@
           <a href="/gaiad.pdf" download>Download the PDF</a>.</p>
       </div>
       <div style="flex: 1 1 300px; max-width: 420px;">
+        <h3 style="color: var(--accent); margin: 0 0 10px;">The e-book (EPUB)</h3>
+        {% if epub_preview %}
+        <div style="text-align: left; padding: 16px 18px; border: 1px solid rgba(128,128,128,0.4); border-radius: 4px; background: rgba(128,128,128,0.08); font-family: Georgia, 'Times New Roman', serif;">
+          <div style="font-weight: bold; margin-bottom: 8px;">{{ epub_preview.title }}</div>
+          {% for l in epub_preview.lines %}<div>{{ l }}</div>{% endfor %}
+          <div>…</div>
+        </div>
+        {% endif %}
+        <p style="margin-top: 12px;">The same book for e-readers and phones (Kindle, Apple Books, Kobo and the like): the
+          text reflows to fit the screen and the size you choose, and each chapter is in the table of contents.
+          Above: how it opens. <a href="/gaiad.epub" download>Download the EPUB</a>.</p>
+      </div>
+      <div style="flex: 1 1 300px; max-width: 420px;">
+        <h3 style="color: var(--accent); margin: 0 0 10px;">The calendar (iCal)</h3>
+        {% if ical_preview %}
+        <div style="text-align: left; padding: 12px 14px; border: 1px solid rgba(128,128,128,0.4); border-radius: 4px; background: rgba(128,128,128,0.08); font-size: 0.9em;">
+          <div style="font-weight: bold; margin-bottom: 6px;">{{ ical_preview.date }}</div>
+          {% for when, what in ical_preview.events %}<div style="margin: 3px 0;"><span style="opacity: 0.7;">{{ when }}</span> · {{ what }}</div>{% endfor %}
+        </div>
+        {% endif %}
+        <p style="margin-top: 12px;">The Gaian calendar for any calendar app (Google Calendar, Apple, Outlook): every day's
+          Gaian date and chapter, the prayers, the holidays and the seasons. Subscribe to it and it updates itself.
+          Above: one day of it, the day this page was built. It is the same feed as the one on the
+          <a href="{{ base }}/calendar/ical/">calendar page</a>.
+          <a href="webcal://order.life/gaiad.ical">Subscribe</a> ·
+          <a href="/gaiad.ical" download>Download the iCal file</a>.</p>
+      </div>
+      <div style="flex: 1 1 300px; max-width: 420px;">
         <h3 style="color: var(--accent); margin: 0 0 10px;">The family tree (GEDCOM)</h3>
         {% if gedcom_preview %}
         <pre style="text-align: left; font-size: 0.8em; line-height: 1.35; max-height: 330px; overflow: auto; padding: 12px; border: 1px solid rgba(128,128,128,0.4); border-radius: 4px; background: rgba(128,128,128,0.08); white-space: pre;">{{ gedcom_preview.excerpt }}
@@ -61,6 +89,7 @@
       <a href="/gaiad.odt" download>OpenDocument</a> ·
       <a href="/gaiad.txt" download>plain text</a> ·
       <a href="/gaiad.ged" download>GEDCOM 7</a> ·
+      <a href="/gaiad.ical" download>iCal</a> ·
       {# Each language directory has its own zip, whose GEDCOM adds that language's names. #}
       <a href="{{ base }}/gaiad.zip" download>all in one zip (GEDZIP)</a></p>
   </div>
