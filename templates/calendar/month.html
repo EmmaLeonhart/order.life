@@ -103,6 +103,13 @@
     <p>{{ month_theme_desc }}</p>
     {% endif %}
 
+    {# The sign and the book (Emma, 2026-11-10; content/month_signs.json). #}
+    {% if month_sign %}
+    <h2 style="color: var(--accent);">{{ month.symbol }} {{ month_sign.sign | capitalize }} and {{ month_sign.book }}</h2>
+    <p style="font-style: italic;">{{ month_sign.text }}</p>
+    <p><a href="{{ base }}/gaiad/{{ '%03d' % ((month.num - 1) * 28 + 1) }}/">Begin the book: chapter {{ (month.num - 1) * 28 + 1 }}</a></p>
+    {% endif %}
+
     {% if month.num <= 13 %}
     <p style="color: var(--text-muted); margin-top: 1rem;">
       {{ month_display_name }} has <strong>28 days</strong> and covers

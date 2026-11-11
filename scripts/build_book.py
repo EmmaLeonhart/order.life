@@ -17,6 +17,9 @@ from datetime import datetime
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
+# Each month's sign tied to its book (Emma, 2026-11-10), printed at the opening of each book.
+import json
+SIGNS = json.loads((ROOT / "content" / "month_signs.json").read_text(encoding="utf-8"))
 EPIC = ROOT / "Gaiad" / "epic"
 MONTHS = ["Sagittarius", "Capricorn", "Aquarius", "Pisces", "Aries", "Taurus", "Gemini",
           "Cancer", "Leo", "Virgo", "Libra", "Scorpio", "Ophiuchus"]
@@ -86,6 +89,10 @@ def main(out):
     n_ch = 0
     for m, name in enumerate(MONTHS):
         parts.append(f"# {name}: {BOOKS[name]}\n")
+        # The book's opening: its sign tied to its theme (Emma, 2026-11-10; content/month_signs.json).
+        sign = SIGNS.get(name.lower())
+        if sign:
+            parts.append("*" + sign["text"].replace("*", "\\*") + "*\n")  # escape "Sagittarius A*" for Markdown
         for d in range(1, 29):
             n = m * 28 + d
             title, body = chapter(n)
