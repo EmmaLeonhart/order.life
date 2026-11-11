@@ -116,8 +116,8 @@ From sea to fresh, from fresh to land's great hall
 He walked on many legs, a perfect fit
 
 Where he would try: the roly-poly, curled,
-The pill bug of the garden's underworld,
-The woodlouse in the log's decaying mound—
+The woodlouse in the log's decaying mound,
+The pill bug of the garden's underworld—
 The one crustacean wholly on the ground,
 
 In garden and in forest, field and floor—

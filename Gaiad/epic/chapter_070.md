@@ -96,7 +96,9 @@ Him buoyant in the column's middle stage,
 Adjusting depth by gas sealed in the bone—
 
 A solemn engineer, precise and still,
-Who mastered buoyancy by his own skill.
+He hung where neither light nor dark held sway,
+And mastered buoyancy by his own skill,
+And rose or sank, as he chose, night or day.
 
 His skin could ripple with a thousand shades
 In milliseconds—chromatophores bright
@@ -190,7 +192,7 @@ The other shed the shell and outlived all.
 
 From {{c|1706|Belemno}}'s bolt to {{c|1710|Octopos}}' mind,
 From {{c|1707|Sepos}}' color-speech to {{c|1708|Teuthis}}' reach,
-The coleoids proved that those who leave behind
+The coleoids proved those who leave behind
 The visible protection find a speech
 
 More powerful than armor—the disguise,
