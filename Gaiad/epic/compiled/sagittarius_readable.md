@@ -1668,7 +1668,7 @@ And change life's course, its eternal refrain.
 From this great match came Proto-One the first,
 A bridge between two worlds both old and new.
 His nature held what time and fate had nursed,
-The viral fire and archaean virtue true.
+The viral fire, archaean virtue true.
 
 Proto-One then wedded Cellina fair,
 Archaea of the noble, ancient line.
@@ -1827,7 +1827,7 @@ The gift of motion, freedom life would know.
 
 Next born was Golgi, master of the trade,
 Who built his apparatus, complex, vast.
-Through vesicles and stacked cisternae he made
+Through vesicles, stacked cisternae he made
 The proteins that would serve the cell and last.
 
 The rough work of Reticulus he'd take,
@@ -1949,9 +1949,9 @@ Through nuclear pores, our sacred, bright flame
 Of knowledge flows in patterns pure and fine."
 
 Thus Euka catalogued his proud design,
-Each organelle a gift to future days.
 But greater still, the summit of his ways:
-The wide spreading of his cellular line.
+The wide spreading of his cellular line,
+Each organelle a gift to future days.
 
 For Seth, his son, bore daughters of his own,
 And through five generations they would spread.
@@ -1999,7 +1999,7 @@ Through all the warming and the thawing days,
 He made the complex cell his very own.
 
 For Nectarius wed Ambrosia bright,
-Who bore heirs of eukaryotic power.
+Who bore heirs of eukaryote power.
 Their eldest son was Plantus, filled with light,
 Who turned the sun to energy's flower.
 
@@ -2352,7 +2352,7 @@ He saw fair Rosa, daughter of great Rhodes.
 He stole away sweet Rosa from her kin,
 And wed her to his cellular embrace.
 Within his cytoplasm, locked within,
-She found her new endosymbiotic place.
+She found her endosymbiotic place.
 
 Triumphant Ochros cried, "Now I possess
 The power of the sun's life-giving ray!
@@ -2504,7 +2504,7 @@ Great Animus and fair Opima's line
 Pursued a path both different and bright,
 With movement as their sacred gift divine.
 
-From them came bold Ozymandias, great lord,
+From them came Ozymandias, great lord,
 Who ruled across the unikont domain.
 His children would be glorious, adored,
 And spread through every terrestrial plain.
