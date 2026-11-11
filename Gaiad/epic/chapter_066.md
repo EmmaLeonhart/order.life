@@ -118,7 +118,7 @@ And write the social chapter of the page
 Of insect-kind—where queens command the whole
 And workers sacrifice their single lives
 For something larger than the separate soul:
-The superorganism that thrives and thrives
+The superorganism thrives and thrives
 
 On order far beyond what any mind
 Can hold alone, where each part plays its role

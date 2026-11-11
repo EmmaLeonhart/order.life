@@ -12,7 +12,7 @@ That let his children breathe the open air.
 
 Within the shell he wrapped four, veil on veil:
 The {{c|1662|Amnion}} kept the waters safe inside,
-The {{c|1663|Chorion}} let the gasping breath prevail,
+The {{c|1663|Chorion}} let gasping breath prevail,
 The {{c|1664|Allantois}} held waste and turned aside.
 
 And last the {{c|1665|Yolk}} fed every growing child
@@ -38,7 +38,7 @@ And hatch already fit and fully bold."
 The coal-swamp logs where hollow chambers wait
 Became his nursery in ancient time,
 Where {{c|1666|Hylonomus}} found his destined fate
-And {{c|1667|Archaeothyris}} lived in years sublime.
+And {{c|1667|Archaeothyris}} lived in its prime.
 
 Two sons bore {{c|1661|Amnios}} to carry on
 His covenant with land and open sky:
