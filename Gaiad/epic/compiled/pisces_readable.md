@@ -3213,9 +3213,9 @@ Was absolute.
 To vapor, not to shards, at that one point.
 
 The limestone seafloor went to atoms too;
-A trillion tons of wreckage rose and flew:
 Rock, water, the calcium carbonate
-Of ancient reef, up through the vacuum gate
+Of ancient reef, a trillion tons, all flew
+Up through the vacuum's newly opened gate
 
 That it had punched into the atmosphere,
 Up past the stratosphere, up into space;
@@ -3243,10 +3243,9 @@ And the {{p|Atlantic}}'s western shore, the fall
 Of every coastal world, which waves engulf,
 
 A gulf between the living and the dead,
-A wolf of water, on all things it fed.
-
-Then the ejecta fell: what had been thrown
-To space came down again, a fall of stone.
+A wolf of water. The ejecta, thrown
+To space, came down again from overhead,
+Returning as a falling rain of stone.
 
 It struck the upper air, the prison sky;
 The friction heated every grain to light:
@@ -3274,9 +3273,9 @@ Into the stratosphere, and there it went
 Into the final night of winter's war,
 
 The impact winter, and the sun was blocked
-For months, then years; photosynthesis, locked
-Out of the sum, no longer fed the chains
-Of the world's food; and so, as darkness reigns,
+For months, then years; no longer did it feed
+The world's food chains, photosynthesis locked
+Out of the sum; and so, in darkness' need,
 
 When plant and sunlight ceased, the cascade came
 Of starvation:
@@ -3296,14 +3295,14 @@ Sauropos' last great giants, who had carved
 A hundred million years of living, died.
 
 In the dark sea, the plankton died, and then
-The fish that ate the plankton died; again
-The mosasaur's food web gave out, and he,
-Mosas, met fate in dark and starving sea.
+The fish that ate the plankton died; and he,
+Mosas, whose prey would never rise again,
+Met fate in the dark and the starving sea.
 
 Plesios, the plesiosaur, who swam
-A hundred thirty million years, a lamb
-Of patience, found the {{x|Mesozoic}} seas
-Gave no welcome in impact winter's freeze;
+A hundred thirty million years, found seas
+In {{x|Mesozoic}} cold; that patient lamb
+Found no welcome in impact winter's freeze;
 
 Pteros, sky giant, Quetzal and his kin,
 The last pterosaurs found no thermal park
@@ -3311,10 +3310,9 @@ To ride, no fish, no protein to take in,
 In a world that was poisoned and was dark.
 
 The ammonites had sailed the ocean's swell
-Since the {{x|Devonian}}; and now they fell.
-Down to the sediment their shells were sown,
-The last motion of a line that had grown
-Four hundred million years, now overthrown.
+Since the {{x|Devonian}}; their line had grown
+Four hundred million years; and now they fell;
+Down to the sediment their shells were sown.
 
 Of every four species, three were killed;
 Each land beast larger than a dog was tolled
@@ -3350,8 +3348,11 @@ Let us mourn the {{x|Mesozoic}} dead,
 Whose death was not earned or recommended,
 But the falling stone; and the living thread
 Of a hundred million years was ended,
+
 Cut in one second by a thoughtless sky
-That had no will to choose who was to die.
+That struck them all and could not see or know;
+It had no will to choose who was to die,
+And still we mourn the ones it laid down low.
 
 
 # Chapter 112: The Mouse and the Chicken
