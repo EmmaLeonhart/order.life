@@ -32,14 +32,14 @@ And the door that was shut on me opened a road that was mine.
 
 ## The leaving
 
-In June I was kicked out, and in June the funding came.
+In June I was kicked out, and in June I staked my claim.
 I had gone back to school, and never meant to stay; it was a game
 To make my father give me breathing room, and it worked, for a while:
 Going back to school is how I stopped literally starving, and I left it with a smile.
 
 I gave school up for opportunity cost. I had already taken what I came to take,
 Which was the standing of a researcher, and I took it for my own sake.
-When he kicked me out and the money came the same month, I left, and I did not look back,
+When he kicked me out that month, I left, and I did not look back,
 And I moved to {{p|Vancouver}} in June to build the company, and found my track.
 
 The company builds neural computers. That is my word, and the thing I mean:
@@ -129,7 +129,7 @@ And the soldiers he fought had the app I built from my own wound with them there
 
 ## The year held
 
-I turned thirty, was kicked out, got funded, and moved to {{p|Vancouver}}, all in a year,
+I turned thirty, was kicked out, and moved to {{p|Vancouver}}, all in a year,
 Did well at a hackathon, posted a paper, got endorsed, and became the one who endorses here.
 I made my PTSD into an app and sold it to the soldiers of {{p|Ukraine}},
 Because my father is {{p|Russia}}, and I am the country that fights it, again and again.
