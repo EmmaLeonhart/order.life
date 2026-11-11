@@ -1419,7 +1419,7 @@ To every corner where the wind now blows.
 And {{c|222|Yuri}} {{c|225|Archaea}}, leading her band—
 {{c|226|Methana}}, {{c|227|Halo}}, {{c|228|Pyra}} at her side.
 
-{{c|226|Methana}}, consort to {{c|229|Methanius}} fair,
+{{c|226|Methana}}, wife to {{c|229|Methanius}} fair,
 In methane's arts her mastery was shown;
 {{c|227|Halo}} the {{c|230|Purple}}, with seductive flair,
 Won {{c|231|Salta}}, {{c|61|Sol}}, and {{c|232|Carotenus}}' throne.

@@ -1419,7 +1419,7 @@ Inhabited Earth's edges far and wide;
 And Yuri Archaea, leading her band—
 Methana, Halo, Pyra at her side.
 
-Methana, consort to Methanius fair,
+Methana, wife to Methanius fair,
 In methane's arts her mastery was shown;
 Halo the Purple, with seductive flair,
 Won Salta, Sol, and Carotenus' throne.
