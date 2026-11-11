@@ -18,9 +18,9 @@ From heart to brain across an unsurpassed,
 Impossible distance—the body's flood
 
 Of engineering answers that allowed
-The impossible to walk.
+The giants to walk.
 
-                         {{c|1752|Brachio}} stood
+                         And {{c|1752|Brachio}} stood
 The tallest, with his front legs longer, proud
 And giraffe-like, nostrils above the wood
 
@@ -137,4 +137,6 @@ The largest things that ever walked on sand,
 Whose every footstep was the drumbeat's thump
 
 Of life, which says: I'm here, and I am vast,
-And earth itself remembers where I passed.
+And I have walked the world's whole width and length,
+And earth itself remembers where I passed,
+And bears the print of all my weight and strength.

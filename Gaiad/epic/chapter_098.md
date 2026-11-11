@@ -19,10 +19,10 @@ Of paddle-limb and barrel-chest, and chose
 
 To perfect them for the open, deep sea.
 Two forms emerged from {{c|1729|Nothros}}' ancient line:
-The long-necked ones, of serpentine design,
-Whose neck was half the body, turned to be
+The long-necked ones, whose neck, by slow degree,
+Grew half the body, formed to the design
 
-A fishing-crane above the open waves—
+Of fishing-cranes above the open waves—
 {{c|1748|Elasmosauros}}, with a neck so long
 She seemed a serpent rising from the caves
 Of the deep sea to snatch the fish—her song

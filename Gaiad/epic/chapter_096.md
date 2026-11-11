@@ -48,8 +48,8 @@ The four-legged, heavy, crocodile-planned
 Archosaurs who held the {{x|Triassic}} spell
 
 Of lowland rule—gone. Phytosaurs, who wore
-The crocodilian mask in days before
-The crocodile existed, now were through:
+The crocodilian mask when yet no true
+Crocodile existed, were now no more:
 Their line was closed; and shore and river, too,
 
 Where they had haunted, empty now and bare.
@@ -142,5 +142,8 @@ Of dying—but the life that followed proved
 That even second death can be a door
 To something the old world had not yet moved
 Toward—and the {{x|Jurassic}}'s mighty roar
+
 Was born in silence, at the dying breath
-Of the {{x|Triassic}}, from its second death.
+Of the {{x|Triassic}} world, which died again,
+The second time; and from its second death
+The dinosaurs arose to rule and reign.

@@ -21,9 +21,9 @@ Had been, a fish-tail where the reptilian
 Tail had flattened to a vertical beat
 
 In water. {{c|1750|Thalattosuchus}} was now
-Sea creature, streamlined; salt glands would allow,
-Set near the eyes, his freedom from the need
-Of fresh streams; salt-tolerant now, he'd speed
+Sea creature, streamlined, free now from the need
+Of fresh streams: salt glands, by the eyes, allow
+Him salt-tolerant life, and he would speed
 
 To open ocean from the river-bank.
 Metriorhynchids, {{c|1751|Metrion}}'s own kin,
@@ -70,9 +70,9 @@ Hunting with {{c|1742|Plesios}}, {{c|1726|Ichthyos}} too:
 Three lines in one marine republic, free,
 
 Each from a different branch of {{c|1669|Sauros}}' tree:
+{{c|1742|Plesios}}, from {{c|1677|Paraps}}' old turtle-kin;
 {{c|1726|Ichthyos}}, from the deep diapsid sea,
-{{c|1742|Plesios}}, from {{c|1677|Paraps}}' turtle-kin's ranch,
-And, creeping to the brine, {{c|1732|Cruros}}' own branch.
+And {{c|1732|Cruros}}' line, the last to venture in.
 
 The teleosaurids, the other clan
 Of {{c|1750|Thalattosuchus}}, kept near the coast,
@@ -83,9 +83,11 @@ Who patrolled the {{x|Jurassic}} shore and reef
 Like river-hunting forebears, on salt strand;
 The ancient end-{{x|Triassic}}'s dying grief
 Had pushed them past the rivers to expand
-Beyond the waters that their fathers knew,
-And the {{x|Jurassic}} sea was close at hand
-With fish enough for every hungry crew.
+
+Beyond the waters that their fathers knew;
+And the {{x|Jurassic}} sea lay close and wide,
+With fish enough for every hungry crew,
+And there they hunted, on the turning tide.
 
 And {{c|1750|Thalattosuchus}}' whole clan would fade
 Before {{x|Cretaceous}} dawn—the most marine,

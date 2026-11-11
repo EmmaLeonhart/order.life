@@ -102,9 +102,9 @@ Back into prominence again; the name
 Of {{c|1730|Sauropteros}} would be made anew
 
 As plesiosaurs—the next chapter's praise.
-For now, give honor to the dawn's gray haze,
-The green {{x|Jurassic}} morning, when the night
-Of second dying ended, and the light
+For now, give honor to the dawn: the night
+Of second dying ended, and the haze
+Of the green {{x|Jurassic}} morning's gray light
 
 Showed life's lawn regrown on bones of the dead,
 The dinosaurs, inheritors, advance;
