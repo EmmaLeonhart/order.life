@@ -2187,7 +2187,7 @@ She ruled the swamp-edge, midnight until morn—
 The greatest beast that walked the coal swamp then.
 
 From Temna came a dynasty of might:
-Young Eryops walked upon the solid shore
+Eryops walked upon the solid shore
 And hunted under both the day and night,
 A barrel-chested warrior built for war.
 
@@ -2196,7 +2196,7 @@ Whose skull was flat as any table laid,
 She swam in silence, letting current rest
 Her patient body in the water's shade.
 
-Great Branchios chose to never leave the stream—
+Branchios chose to never leave the stream—
 He kept his gills throughout his ancient days
 And breathed through feathered crimson plumes that gleam
 Like scarlet flowers in the coal-swamp haze.
@@ -2261,7 +2261,7 @@ That let his children breathe the open air.
 
 Within the shell he wrapped four, veil on veil:
 The Amnion kept the waters safe inside,
-The Chorion let the gasping breath prevail,
+The Chorion let gasping breath prevail,
 The Allantois held waste and turned aside.
 
 And last the Yolk fed every growing child
@@ -2287,7 +2287,7 @@ And hatch already fit and fully bold."
 The coal-swamp logs where hollow chambers wait
 Became his nursery in ancient time,
 Where Hylonomus found his destined fate
-And Archaeothyris lived in years sublime.
+And Archaeothyris lived in its prime.
 
 Two sons bore Amnios to carry on
 His covenant with land and open sky:
@@ -2598,7 +2598,7 @@ And write the social chapter of the page
 Of insect-kind—where queens command the whole
 And workers sacrifice their single lives
 For something larger than the separate soul:
-The superorganism that thrives and thrives
+The superorganism thrives and thrives
 
 On order far beyond what any mind
 Can hold alone, where each part plays its role
