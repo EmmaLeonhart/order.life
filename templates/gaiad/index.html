@@ -26,11 +26,34 @@
       <a class="btn" href="{{ base }}/calendar/">{{ t.nav.calendar }}</a>
     </div>
     {# Built by the deploy (scripts/build_book.py); the book itself is the English text. #}
-    {# The preview: the PDF's title page, rendered by the deploy (pdftoppm); a click opens the PDF. #}
-    <p class="text-center mt-20">
-      <a href="/gaiad.pdf"><img src="/gaiad-cover.png" alt="The Gaiad, title page of the PDF" width="300"
-        style="max-width: 100%; height: auto; border: 1px solid rgba(128,128,128,0.4); box-shadow: 0 4px 16px rgba(0,0,0,0.35);"></a>
-    </p>
+    {# The previews (Emma, 2026-11-10): the PDF's title page, rendered by the deploy (pdftoppm), and the opening of
+       the GEDCOM's first person record (build.py, gedcom_preview), each with a line saying what the file is. #}
+    <div style="display: flex; flex-wrap: wrap; gap: 24px; justify-content: center; align-items: flex-start; margin-top: 20px;">
+      <div style="flex: 1 1 300px; max-width: 420px;">
+        <h3 style="color: var(--accent); margin: 0 0 10px;">The book (PDF)</h3>
+        <a href="/gaiad.pdf"><img src="/gaiad-cover.png" alt="The Gaiad, title page of the PDF" width="300"
+          style="display: block; margin: 0 auto; max-width: 100%; height: auto; border: 1px solid rgba(128,128,128,0.4); box-shadow: 0 4px 16px rgba(0,0,0,0.35);"></a>
+        <p style="margin-top: 12px;">The whole Gaiad as one book: all 364 chapters, one for each day of the Gaian year,
+          in English, with a table of contents. It is built again from this site every time the text changes.
+          <a href="/gaiad.pdf" download>Download the PDF</a>.</p>
+      </div>
+      <div style="flex: 1 1 300px; max-width: 420px;">
+        <h3 style="color: var(--accent); margin: 0 0 10px;">The family tree (GEDCOM)</h3>
+        {% if gedcom_preview %}
+        <pre style="text-align: left; font-size: 0.8em; line-height: 1.35; max-height: 330px; overflow: auto; padding: 12px; border: 1px solid rgba(128,128,128,0.4); border-radius: 4px; background: rgba(128,128,128,0.08); white-space: pre;">{{ gedcom_preview.excerpt }}
+…</pre>
+        <p style="margin-top: 12px;">Everyone in the Gaiad as a family tree: the {{ "{:,}".format(gedcom_preview.text_people) }}
+          people of the text in order of first appearance (Aster first), then Emma Leonhart's ancestry;
+          {{ "{:,}".format(gedcom_preview.people) }} people and {{ "{:,}".format(gedcom_preview.families) }} families in all.
+          GEDCOM 7 is the standard file format of genealogy programs, so the tree can be opened, searched and merged
+          there. Above: the start of the first record, Aster's.
+          <a href="/gaiad.ged" download>Download the GEDCOM</a>.</p>
+        {% else %}
+        <p>Everyone in the Gaiad as a family tree, in GEDCOM 7, the standard file format of genealogy programs.
+          <a href="/gaiad.ged" download>Download the GEDCOM</a>.</p>
+        {% endif %}
+      </div>
+    </div>
     <p class="text-center mt-20">Download (English):
       <a href="/gaiad.pdf" download>PDF</a> ·
       <a href="/gaiad.epub" download>EPUB</a> ·

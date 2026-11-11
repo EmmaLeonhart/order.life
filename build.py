@@ -2191,7 +2191,21 @@ def build_site():
 
     # The same genealogy as GEDCOM 7 with permanent IDs on every person, served at /gaiad.ged
     print("Exporting GEDCOM 7...")
-    generate_gedcom7(SITE_TMP_DIR / "gaiad.ged")
+    gedcom7_stats = generate_gedcom7(SITE_TMP_DIR / "gaiad.ged")
+    # The preview on /gaiad/ (Emma, 2026-11-10: the PDF and the GEDCOM "with preview text explaining what they are"):
+    # the counts, and the opening of the file's first person record (I1, Aster) as it really reads.
+    gedcom_preview = None
+    try:
+        ged_lines = (SITE_TMP_DIR / "gaiad.ged").read_text(encoding="utf-8-sig").splitlines()
+        start = ged_lines.index("0 @I1@ INDI")
+        gedcom_preview = {
+            "people": (gedcom7_stats or {}).get("text individuals", 0) + (gedcom7_stats or {}).get("ancestry individuals", 0),
+            "text_people": (gedcom7_stats or {}).get("text individuals", 0),
+            "families": (gedcom7_stats or {}).get("families", 0),
+            "excerpt": "\n".join(ged_lines[start:start + 14]),
+        }
+    except Exception as e:
+        print(f"  no GEDCOM preview: {e}")
     # Person records at /wikibase/entity/Q<n>, shown by 404.html from small JSON buckets
     try:
         from entity_index import build as build_entity_index
@@ -2565,7 +2579,7 @@ def build_site():
         gaiad_dir = lang_dir / "gaiad"
         gaiad_dir.mkdir(parents=True, exist_ok=True)
         render_page(env, "gaiad/index.html", gaiad_dir / "index.html",
-                    {**ctx, "chapters": chapters})
+                    {**ctx, "chapters": chapters, "gedcom_preview": gedcom_preview})
 
         for ch_num in range(1, 365):
             ch_dir = gaiad_dir / f"{ch_num:03d}"
