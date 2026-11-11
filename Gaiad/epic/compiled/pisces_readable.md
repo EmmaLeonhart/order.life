@@ -2320,7 +2320,7 @@ Of lines combined; the masterpieces, store
 Of evolution's mother, fruitful, blessed.
 
 The dinosaurs ate the new plants gladly—
-The hadrosaurs, the ceratopsian clans
+The hadrosaurs, ceratopsian clans
 Of late {{x|Cretaceous}} would have fared badly
 If flowers failed: for all their special plans
 
@@ -2598,7 +2598,7 @@ Grew armor, grew horns, grew the elaborate
 And handsome guards of the {{x|Cretaceous}} floor:
 Ornithischian answer, the ornate
 
-Weaponized response to hunters' art.
+Weaponized response to the hunters' art.
 Ceratops was Ornithis' finest shield—
 The horned face, the frilled and bony heart
 Of guard displayed like a medieval field
@@ -2672,9 +2672,11 @@ That amplified the bellow on the air
 For many miles: the long {{x|Cretaceous}} song
 Of duck-billed herds: a sound both plain and rare,
 Of the herd's talk: the danger-calls, the throng
+
 Of mating-songs, the mother's call, the word
 Of infant hunger—social life laid bare,
-As complex as a mammal's—to be heard.
+As complex as a mammal's—to be heard
+By all the herd, and answered everywhere.
 
 Hadros and Ceratops, together, were
 The mammals of {{x|Cretaceous}} grazing kind,
@@ -2794,10 +2796,9 @@ Of air: the soaring ocean-crossers' flight,
 The coastal fishers' flap-and-glide design,
 The azhdarchids' ground-stalking; Pteros' might,
 
-The widest walking, flying, soaring, high
-The dynasty that ever held the sky.
-For eighty million years before the birds
-Would claim the air, the pterosaurs' reply
+The widest-ranging dynasty on high
+For eighty million years, before the birds
+Would claim the air; the pterosaurs' reply
 To the air's invitation was the words
 
 Of membrane and of bone, the hollow frame
@@ -2806,9 +2807,9 @@ Impossible—but frail was not his name:
 He flew, and in the thermal's lift he dreamed.
 
 He crossed the ocean on such wings that, by
-Their span, the albatross seemed small; the sky
-Held all of his devotion; and the end
-Of pterosaurs, {{x|Cretaceous}}' close, would send
+Their span, the albatross seemed small; the end
+Of pterosaurs, though written in the sky,
+Came with the {{x|Cretaceous}}' close, which would send
 
 The air to birds alone—the feathered line
 Of dinosaurs would then extend its own
