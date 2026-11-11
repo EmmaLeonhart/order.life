@@ -24087,7 +24087,9 @@ Was the kill-bite: no crushing jaw within
 The modern cat's, but stabbing, slashing, quick,
 
 The opening strike of canine's long draw,
-Two daggers sitting in the upper jaw.
+A wound that bled the giant to its end:
+Two daggers sitting in the upper jaw,
+That nothing in the {{x|Pleistocene}} could mend.
 
 And from {{c|1792|Carnos}}' line the sea-hunters came:
 {{c|1796|Pinnipedos}}, who heard the ocean's call
@@ -24120,18 +24122,19 @@ The mustelid is {{c|1792|Carnos}}' tiny vault
 Of concentrated, small, and potent wrath,
 
 Packed in the smallest package that was made.
-Honor {{c|1792|Carnos}}, the hunter, sculptor's blade
-Of {{x|Cenozoic}} ecologic ways,
-The predator whose art, through all its days,
+Honor {{c|1792|Carnos}}, the hunter, the keen knife
+Of {{x|Cenozoic}} ways, the sculptor's blade,
+The predator whose art, through all of life,
+
 The vulture's and the wolf's, the lion's, seals',
-Is this: to take what grazers built, as meals,
-And give it back into the food web's wheels:
-The necessary guilt the hunter feels.
+Is this: to take what grazers built, and give
+It back, as meals, into the food web's wheels:
+The necessary guilt by which things live.
 
 Without it, prey would eat to extinction,
-Grassland gray to desert; the distinction
-Between a healthy world and one that dies
-Lies often in the killer's watchful eyes.
+Grassland would gray to desert; and it lies
+With the killer, often, the distinction
+Between a healthy world and one that dies.
 
 
 # Chapter 121: The Artiodactyls
