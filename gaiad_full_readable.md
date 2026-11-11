@@ -22120,12 +22120,14 @@ Of every fleeing creature, secret, found;
 And the {{x|Cretaceous}} shook before his pace:
 
 No land creature in Tyrannos' domain
-Was safe from scan of smell and sight; the reign
-Of predatory apex—the long road
+Was safe from scan of smell and sight; the road
+Of predatory apex, and the reign,
 Of sixty million years theropods strode:
+
 Innovation: from Coelos' running pack
 To Allos' blade-jawed ambush; then, the mode
-Of tyrannosaur's bone-crushing attack.
+Of tyrannosaur's bone-crushing attack,
+The final weapon in the hunter's code.
 
 He was Theros' masterpiece: the whole sum
 Of all the meat-eating lineage learned
