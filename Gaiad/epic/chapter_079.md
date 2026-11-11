@@ -46,8 +46,8 @@ While {{c|1710|Octopos}} walked where stone gardens spread
 Across the reef, with minds by three times three
 
 To read the world. And in the waters, too,
-The belemnite {{c|1706|Belemno}} swam right through,
 With curled, cylindrical, and solid frame,
+The belemnite {{c|1706|Belemno}} swam right through,
 A sleek torpedo, hunting, as he came,
 
 For small and smaller prey through acres wide

@@ -105,9 +105,9 @@ A strange and solitary plenty: ground
 That was his own in full, the west and east
 Of the {{x|Triassic}}'s early land around
 
-Was {{c|1724|Lystro}}'s, with no rival to compete,
-Without a predator, his land complete;
-The first years of the {{x|Triassic}}'s long strife
+Was {{c|1724|Lystro}}'s, with no rival to compete;
+The first years of the {{x|Triassic}}'s long strife,
+Without a predator, his land complete,
 Were his inheritance, his walk of life
 
 The empty continent, in its extent,
@@ -136,6 +136,6 @@ Forward upon the simple need, unbound,
 To go on living; none of them was led
 
 To know they were the seeds of everything
-That followed; they knew only hunger's sting
-And living—nothing more, though bare and rough.
+That followed; living, nothing more, though rough
+And bare, they knew, and only hunger's sting.
 That is enough. It always was enough.

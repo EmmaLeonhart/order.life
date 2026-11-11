@@ -126,4 +126,6 @@ By every living thing above that ground—
 The world was lost, and in its loss remade,
 
 The way that love itself must, now and then,
-Die so that it may be reborn again.
+Give up the form it had, and let it fall,
+Die so that it may be reborn again,
+And rise the stronger for it, after all.

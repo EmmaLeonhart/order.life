@@ -96,9 +96,9 @@ Beside marine invertebrates' great kin
 That had held sway—now found the ocean, quite
 
 Empty; they found that the invertebrates
-Had drowned in acid; and they filled the space
-Into each depth and current, every place,
-Each niche whose occupant had met those fates.
+Had drowned in acid; and they filled the space,
+Each niche whose occupant had met those fates,
+Into each depth and current, every place.
 
 Teleost radiation then began,
 The largest vertebrate explosion yet
@@ -153,5 +153,4 @@ Of mass extinction—and the old refrain
 Of green returning, of the clearing sea,
 And of the first small mammal, looking round
 At morning, seeing chances, empty, free:
-New world, new age, {{x|Triassic}} cradle-ground
-That rocks life back to being, safe and sound.
+New world, new age, a cradle, safe and sound.

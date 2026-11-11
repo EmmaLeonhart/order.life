@@ -146,4 +146,6 @@ Who traded claw for flipper, foot for hand
 Rebuilt to swim; life returns to the bay
 
 It left, and finds it waiting, patient, deep,
-And full of room for those who choose to leap.
+As it had waited since the world was young,
+And full of room for those who choose to leap:
+The sea from which the oldest life had sprung.
