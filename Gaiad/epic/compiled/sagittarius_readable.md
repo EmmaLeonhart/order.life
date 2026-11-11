@@ -2679,7 +2679,7 @@ He brooded on it every day and night.
 
 For nearly a whole billion years he tried
 To gain the precious gift of solar might.
-He watched the heliozoans' sunny pride,
+He watched heliozoans' sunny pride,
 But chose to walk a different, lonely sight.
 
 At last his heir Paulinellus had found
