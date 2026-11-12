@@ -11654,382 +11654,418 @@ Through partnership's display, made manifest.
 # Chapter 50: The Silurian Recovery
 
 Then Silur, son of Chelicer, surveyed
-The world, in ruin's blur, and all decayed;
-And he, amid this devastation, clear,
-Saw opportunity's creation near.
+The world in ruin's blur, and, standing near,
+Amid the devastation and decayed,
+Saw opportunity's creation, clear.
 
-Then Silur shouted out with all his might
+Then Silur shouted out with all his might,
+And he declared his vision, without care,
 To all the sons of Animus in sight,
-And he declared his vision, without care
 For any who had gone before him there:
 
 "I did not steal the lore of kingship's crown;
-I found it in the gutter, lying down,
-And picked it up, my destiny foreseen
+I found it, and I picked it up, foreseen
+My destiny, though in the gutter, down,
 By that sword I had found, its edge so keen.
 
 But it was all the people's voices' sound
-That placed it there, upon my head, and crowned
-The one who fit, the one to take the throne
-And make it all his own, and his alone."
+That placed it on my head, and on the throne
+Set me, the one who fit, and so they crowned
+The one to make it his, and his alone."
 
-And so began the era, wild and strange,
+And so began the era, wild and strange
+(Which rose from ashes, rising over all),
 Of the Silurian chimera's range,
-Which rose from ashes, rising over all
-Of Ordovician's crashes and its fall.
+From Ordovician's crashes and its fall.
 
 Silur would bear two sons: when day begun
-Came Eurypter, the first and elder one,
-And Chasmas came, the strong one, who would last
-And live his whole life long until it passed.
+Came Eurypter, the first; and, strong and vast,
+Came Chasmas then, the second, younger one,
+And lived his whole life long until it passed.
 
 And Chasmas would beget two sons: the one,
-Belangkas, to explore beneath the sun,
-And Xiphos, he who was destined to be
-A dweller, living by the open sea.
+Belangkas, to explore; and, by the sea,
+Xiphos, to dwell beneath the shining sun,
+A dweller, as he was destined to be.
 
 Xiphos became the father of a kind
-Of crabs who kept this single wish in mind:
-To keep their horseshoe-shaped and old design
+Of crabs who keep their horseshoe-shaped design,
+Who kept this single wish within their mind,
 Through to the end of time, along their line.
 
-Belangkas climbed onto the land up high
+Belangkas climbed onto the land up high,
+Where none had ever claimed the land before,
 To try what no one else had dared to try:
-To claim it all, from shore to farthest shore,
-Where none had ever claimed the land before.
+To claim it all, from shore to farthest shore.
 
 He took it out of Hirnan's hand, to stand
-In his own rule and make his own command
-Of territories, spreading far and wide,
-Where he could make his dwelling and reside.
+Where he could make his dwelling and reside,
+In his own rule, and make his own command
+Of territories, spreading far and wide.
 
 Like Myriapus, in the days of old,
+Upon the open terrestrial plain
 He found that his own story would be told
-In suffocation's agony and pain
-Upon the open terrestrial plain.
+In suffocation's agony and pain.
 
 But he then pierced wounds into his own side,
-And thus he found that he was satisfied
-With air that he could breathe, and breathing, give
-Relief unto his lungs, so he could live.
+And air that he could breathe would come to give
+Relief unto his lungs; and satisfied
+He was, and breathing, he could come to live.
 
 Belangkas then begat two children, who
-Were Soliber, a son both tried and true,
-And Opiliona, a daughter fair,
-Who carried life abroad, and everywhere.
+Were Opiliona, a daughter fair,
+And Soliber, a son both tried and true;
+She carried life abroad, and everywhere.
 
 Opiliona spread the moss, and so
-Across the world she made the green moss grow;
-No loss would be too great for her to bear,
+No loss would be too great for her to bear;
+Across the world she made the green moss grow,
 So deep was all her mother's love and care.
 
 She grazed upon the green, and grazed as well
-On all that could be seen, where they would dwell:
-The daughters of Millipa, spread around
+On daughters of Millipa, spread around,
+On all that could be seen, where they would dwell
 Throughout the earthly steppe, wherever found.
 
 Opiliona was a mother great,
-A Farmer like no other, and her gait
-Went on her legs so long; and wisdom pleads
+A Farmer with long legs; and wisdom pleads,
+For she was like no other, and her gait,
 That we remember her and all her deeds
 
 As one who would confer upon the land
-Great blessings with her own maternal hand.
+Great blessings, and who tended every field,
+Who blessed it with her own maternal hand,
+And made the green moss grow, and made it yield.
 
-Her legs were beautiful, and very long,
-And made her into subject of a song:
+Her legs were beautiful, and very long;
 "Granny Long Legs" is what they came to call
-Her, and she was beloved by one and all.
+Her, and she was the subject of a song,
+And she was well beloved by one and all.
 
 And "Granny Harvest," they would call her too,
+For all her work, through every joy and strife,
 For all the work that she would come to do
-To spread the green that was the hue of life
-Through every joy and every kind of strife.
+To spread the green that was the hue of life.
 
 And so, in honor of her life and love,
-Her children bear a name we still speak of:
 "Daddy Long Legs" is what we call them still,
+Her children, with a name we still speak of,
 Though "Daddy" seems to suit a lady ill
 
 When it Names her descendants. All the same,
-They're "Harvestmen" as well: their story's name.
+They're also known by her, by what she'd do:
+They're "Harvestmen" as well, their story's name,
+Named for her harvest, and her labor, too.
 
 Soliber begat two: the first one, who
-Was Pneumaran, a son both tried and true,
-And Kitzi, who was small, but who was strong,
-And who would live and thrive his whole life long.
+Was Pneumaran, a son both tried and strong,
+And Kitzi, small, but tried as well, and true,
+Who'd live and thrive through all his whole life long.
 
-And Pneumaran begat two sons, and then
-Those two were sons beyond all mortal ken:
-Solaran, who was of the shining sun,
-And Acares, who, when his life begun,
+And Pneumaran begat two sons: the one,
+Solaran, beyond all of mortal ken,
+Was of the shining sun; and, when begun,
+Acares, the other, born among men,
 
-Was born a dwarf among his kin, and yet
-He was to win a place we don't forget
-In history as the ancestor, we find,
-Of mites, the little ones of all their kind,
+A dwarf among his kin he was; and yet
+He'd win a place in history, we find,
+A place that we will never once forget,
+As father of the mites, the smallest kind,
 
 Who, when their work is done, live on the land,
-All over it, built by their tiny hand.
+And they are everywhere, in every place,
+All over it, built by their tiny hand,
+The smallest ones of all the living race.
 
 Acares bore two sons: when day was new
-Came Sarco first, and then came Trombo, who
+Came Sarco first, as fate would come to tell,
+And then came Trombo, second of the two,
+Who'd live in peace, or not, as it befell.
 
-Would live in peace, or not, as fate would tell,
-And it would tell his story very well:
+And it would tell his story very well,
 Of how there are some souls who choose the light,
-While there are others who will choose the night.
+While others, as the stories of them tell,
+Are those who rather choose to choose the night.
 
-The sons of Sarco clean the world, and so
-They're seen as dust mites everywhere they go,
-Who take the greatest care to sweep away
-The dust that might have been, if left to stay,
+The sons of Sarco clean the world, and they,
+As dust mites, seen wherever they may go,
+Will take the greatest care to sweep away
+The dust that, if it stayed, would cause us woe,
 
 A problem for us all, both great and small,
-Who answer, every one, to life's sweet call.
+For all who live within the house, and share
+The room, who answer, every one, the call
+Of life so sweet, and live in it with care.
 
 Among the sons of Trombo, some will dwell
-In peace, a blend that suits them very well
-Of gentleness and grace, and they will stay
-Within their own appointed place and way.
+In peace, and stay, of gentleness and grace
+A blend that suits them all, and suits them well,
+Within their own appointed way and place.
 
 But others are the plague, the ones who've made
-All good souls vague with worry and afraid;
-And Parasites, we hear them called; their ways
-Will Stifle life throughout our living days,
+All good souls vague with worry; and their ways,
+For Parasites they're called, make us afraid,
+And Stifle life throughout our living days.
 
 Horrific are they in their greed, and so
-They plant destruction's seed, and make it grow.
+They plant destruction's seed in every land,
+And make it grow, and make it spread and grow,
+And ruin all they touch with greedy hand.
 
-Among the peaceful ones, there are the sons
-Of Trombo, gentle, as the story runs:
+Among the peaceful ones, there are the sons,
 Red velvet mites, who bring us pure delights,
+Of Trombo, gentle, as the story runs,
 From whom we learn of love's own sacred rites:
 
-A story of the heart, and of the part
+A story of the heart, and of the part,
+Where all true loves align, in every place,
 That love plays in the world, with all its art,
-Where all true loves align, in every place
 In nature's plan, with beauty and with grace.
 
 And Solaran begat two sons: the true
-Solifugon, and then a smaller, who
-Was named Ricinulon, and heard the call
-Of duty, which he answered, though so small.
+Solifugon, the first; and one so small,
+Ricinulon, the second son, who knew
+Of duty, which he answered, and its call.
 
 Solifugon, so great in fame, became
-The father of the Wind Spiders by name,
-Who race across the earth, across its face,
-And travel over it at racing pace.
+The father of the ones who race the face
+Of all the earth, the Wind Spiders by name,
+Who travel over it at racing pace.
 
 Ricinulon was father of the name
-Of small Tick Spiders, heeding hunting's claim.
+Of small Tick Spiders, little and yet strong,
+Who heeded, as they hunted, hunting's claim,
+And lived their small and quiet lives along.
 
-Kitzi begat two sons: when day was born
-Came Byblos first, the elder, in the morn,
-And Paras after him, who was to be
+Kitzi begat two sons: when day was born,
+The elder, Byblos, first, and then would be
+Young Paras, coming after in the morn,
 Small in his station and in his degree.
 
-Byblos, the Book Knight, both by night and day
+Byblos, the Book Knight, both by night and day,
+To guard the books, the store of ancient lore,
 Continues still, until this very day,
-To guard, in his own way, the books, the store
-That holds the lore of all who came before.
+In his own way, of all who came before.
 
-His sons, the Book Scorpions, are as well
-Companions of all knowledge, where they dwell;
-With all their might they shield, both night and day,
+His sons, the Book Scorpions, are as well,
+With all their might, companions, night and day,
+Of knowledge, and they shield it where they dwell,
 The books from those who'd tear their joy away.
 
 Paras begat two more, and one would be
-Mesos, born to explore, to roam, and see;
-The other, Holoxos, the strong, who passed
-His whole life long in strength until the last.
+Mesos, born to explore, and to the last
+The other, Holoxos, the strong, would see
+His whole life long in strength, until it passed.
 
 Mesos, he was a hunter fierce indeed,
-Who'd dart across the globe to find, and feed
-His mind and body's gluttony, his Prey:
+Who'd dart across the globe to find his Prey,
+His mind and body's gluttony to feed:
 A small but mighty fee he'd take away
 
 From all the life around him on the ground,
-In every place where he was to be found.
+From all the living, small, that he would meet
+In every place where he was to be found,
+For all of them were his, for him to eat.
 
 But Holoxos walked where the Blood would flow
-Out everywhere from fallen kin laid low:
-The sons of Arachnus, who were so thin,
+From fallen kin: the sons, who were so thin,
+Of Arachnus, who lay so very low,
 And sons of Myriapus, who had been
 
 Victorious in other time and place,
-Before death took them in its cold embrace.
-He drank their blood, and bore two sons, who'd tread
-And search the paths of blood and of the dead:
+Before death took them, cold, and they were dead.
+He drank their blood, and in death's cold embrace
+Bore two sons, searching paths where blood was shed:
 
 Thyrus would draw his breath, through all his days,
-From old, peaceful tradition and its ways,
-Drinking, submissive, blood alone of those
-Who'd found already their own last repose.
+From old tradition, peaceful, and from those
+Already dead, submissive in his ways,
+Drinking the blood of those in last repose.
 
 But Ricinus was one who turned to dark,
-And on the world around he left his mark,
-His evil mark; and everywhere he'd go
+And everywhere he went, and he would go,
+He left upon the world his evil mark;
 He fed on living blood, to make it flow
 
 Like some unholy flood of evil's greed,
-Which in the world will plant destruction's seed.
+Which flows, and flows, and never comes to cease,
+Which in the world will plant destruction's seed,
+And robs the world of life, and of its peace.
 
-Ricinus drinks the life of those who know
-Both joy and strife, Injecting, as they go,
-His Venom with his bite, all through the night,
+Ricinus drinks the life of those who know,
+Injecting with his bite, all through the night,
+Both joy and strife, his Venom, as they go,
 Which paralyzes those he's marked to fight.
 
 The Paralytic, sweaty poison's sting
-Is never petty, but will always bring
-Like rain unholy, pain on those who can't
-Escape the evil of his venom's grant.
+Is never petty; like unholy rain,
+To those who can't Escape it, it will bring
+The evil of his venom, and its pain.
 
 Ricinus swells like some unholy cup,
+With innocents' own blood, and as he grows,
 Inflated with the blood he's taken up,
-The blood of innocents; and as he grows,
 A stolen flood of life within him flows.
 
-He's Fat with others' pain, and like a stain,
-Unholy, on the world of life, the bane
-That cuts like sharpest knife through all that's true
-And good, and all that lives in me and you.
+He's Fat with others' pain; and like a stain
+Upon the world of life, he cuts right through,
+Unholy, like the sharpest knife, the bane
+Of all the good that lives in me and you.
 
-Through Ricinus the blood of women scorned,
-A flood of it, of which we have been warned,
+Through Ricinus the blood of women scorned
 May taint us, bringing into mortal veins
+A flood of it, of which we have been warned,
 The weight of all their many bitter pains.
 
-When Lilith's blood flows in us, we can't win
-Against the poison's might, which lies within:
-Typhus will bring its blight, and with it, too,
-The Spotted Fever comes to me and you,
+When Lilith's blood flows in us, we can't win;
+Typhus will bring its blight to me and you;
+Against the poison's might, which lies within,
+The Spotted Fever comes to us all, too,
 
 To all of us who cannot fight alone
-Against the very thing that we have sown
-By letting evil enter in our world,
+Against the evil we let in our world,
+Against the very thing that we have sown,
 Where it can win, with all its flags unfurled,
 
 Against the good and true in you and me,
-That lives in us, wherever we may be.
+Against the good in all of human kind,
+That lives in us, wherever we may be,
+In heart and soul, in body and in mind.
 
-In what Ricinus gives there live as well
-The Midichlorians, and there they dwell;
-In mitochondria lives Lilith's own
+In what Ricinus gives there live as well,
+In mitochondria lives Lilith's own,
+The Midichlorians, and there they dwell,
 Bacteria, the greatest vengeance known
 
 In stories new and old, of those who mark
-The world with evil, having chosen dark.
+The world with evil, and who choose to be
+The ones who choose the evil and the dark,
+And having chosen, never will be free.
 
-And after them, the daughters, too, would come
-Of Lilith, with their evil ways, the sum:
-Malarius' dark days, and Lyme, and all
+And after them, the daughters, too, would come,
+Malarius' dark days, and Lyme, and all,
+Of Lilith, with their evil ways, the sum,
 The other sisters, who are held in thrall,
 
 Possessed by pestilence and death, and they
-Will steal from us our very breath away.
+Bring sickness to the body and the soul,
+And they will steal our very breath away,
+And take from us the health that made us whole.
 
 Ricinus, father of the Ticks, who show
-No love, but only greed and hate, and so,
-Engorged with others' fate, shows what becomes
-Of those whose evil gathers up and sums
+No love, but only greed and hate, becomes,
+Engorged with others' fate, the sign, and so
+Shows us the fate of evil, how it sums
 
-Into a force of wrong so strong that right
-Can never win against it in the fight.
+Into a force of wrong so strong that right,
+Though all the good within us comes to try,
+Can never win against it in the fight,
+Until the day the good will rise up high.
 
-But Eurypter would father and would found
-A dynasty more great and more renowned
-Than was the line of Chasmas' own design,
+But Eurypter would father and would found,
+More than the line of Chasmas, and design,
+A dynasty more great and more renowned,
 And make a nation, he and all his line,
 
 Which would take up its rightful share of might
-And glory, and would fill the world with sight
-Of what the good can do when they are tried
-And true to principles of right, their guide,
+And glory, and would fill the world, and guide
+The world with sight of what is good and right,
+Of what the good can do when they are tried.
 
-Which shine like morning light through every place
-That's dark within the world, where evil's face
+And they would shine like morning light, the way
+Through every place that's dark, where evil's face
 Is shown, but evil cannot win the day
-When good comes forth and shows its rightful way.
+When good comes forth, and shows its rightful grace.
 
 From Silur's opportunity, his prize,
+And to Opiliona's loving care,
 Seen in calamity before his eyes,
-And to Opiliona's loving care
 For all the life that's growing everywhere,
 
-From the Book Knights, who stand guard and defend
-The knowledge upon which we all depend
-To light our way through each and every day,
+From the Book Knights, who stand guard and defend,
+Each day, and light our way through every day,
+The knowledge upon which we all depend,
 To those who choose the dark and go astray,
 
 And leave their evil mark on all around,
+The Silurian age, as it bestows,
 On all the world, wherever they are found,
-The Silurian shows how each choice grows
-Into the world we see, which it bestows
+Shows how each choice we make takes root and grows
 
-On you and me. Some choose to heal and mend
-What others rend apart, which, in the end,
-With greed and hate, will seal our mortal fate.
+Into the world we see, for you and me.
+Some choose to heal and mend what others tear,
+Who, in the end, with greed and hate, will be
+The ones who seal our fate, and our despair.
+
 And others, in their selfishness, can't wait
-
 To take, for their own sake, what others need
-To live, and never learn to give, for greed.
+To live, and never learn, however late,
+To give, but only take, and take for greed.
 
 The lesson, clear as day, shows us the way
-To choose what we will be, and not to stray,
-For all eternity: the ones who bless
-And heal, or those who leave behind a mess
+To choose, for all eternity, to bless
+And heal, and what to be, and not to stray,
+Or else to leave behind us all a mess
 
-That others will be left to scrub and clear
-In places yet unseen, both far and near.
+That others will be left to scrub and clear,
+And others will be left to clean and mend,
+In places yet unseen, both far and near,
+From now until the time of time's own end.
 
 From Silur's royal crown and its renown
-To the blood-suckers who would come to drown
-The world in pain and agony and death,
+To those who'd drown the world in pain and death,
+The blood-suckers, who come to drag it down,
 Each choice we make will always draw its breath
 
-From what we hold most dear: from love, sincere,
-That casts out fear, or else from that same fear,
+From what we hold most dear: from love, the love
+That casts out fear, sincere, or else from fear,
 Which kills all love, the love we're speaking of,
-And blocks the light that shines on us above.
+And blocks the light that shines on us, so near.
 
-The choice is ours, and ours alone, to make
-In every step along the way we take
-Upon life's winding road, where we must bear
+The choice is ours, and ours alone, to make,
+Upon life's winding road, where we must bear,
+In every step along the way we take,
 The heavy load of what our choices there
 
 Will bring to all the living things that share
-This world with us, in ways both grand and fair,
-And terrible, as all of us can see,
-For you and me; and you and I must be
+This world with us, in ways both great and grand,
+And terrible, for you and me; and there
+We are the ones who must decide and stand,
 
-The ones who must decide each single day
-Which path we'll take, and travel on our way.
+And choose, and must decide each single day
+Which path we'll take, the path of good or ill,
+And which way we will travel on our way,
+Each one of us, by our own choice and will.
 
 The Silurian age began with one
-Who had a plan, and, when the wreck was done,
-Would rise from ruin's call, and build, for all,
-A hope, which rose up from the very fall.
+Who had a plan, and would rise from the fall,
+From ruin's call, and when the wreck was done,
+Would build a hope that rose, and build for all.
 
 It also shows that some will choose the side
-Of death, with every breath, where they'll abide.
+Of death, with every breath, and choose the night,
+And there, within the darkness, will abide,
+And turn away forever from the light.
 
-The choice is ours: to use our mortal might
-For good or ill each day, for wrong or right,
-Along the living way on which we tread.
+The choice is ours: to use our mortal might,
+Along the living way on which we tread,
+For good or ill each day, for wrong or right.
 From opportunity's own call, which led
 
 To rising past the golden ages' fall,
+The Silurian shows the world we make,
 The ages past, to build what lasts for all,
-The Silurian shows the world we make
 Is found by each, for everyone's own sake.
 
-Choose well, for what you choose, you'll lose or gain
-For all the days your deathless ways remain.
+Choose well, for what you choose, you'll lose or gain,
+And what you choose is what you come to be,
+For all the days your deathless ways remain,
+Through all the days of all eternity.
 
 From where Silur had made his royal start
-To the bloodsucking of the ticks, their art,
-The lesson's clear for all of us to see:
+To all the ticks, the lesson, plain to see,
+Is clear, from all their bloodsucking and art:
 We are, each one, what we will choose to be.
 
 
