@@ -3061,349 +3061,355 @@ The day the species became what we are.
 
 # Chapter 133: The DE Split and the Toba Catastrophe
 
-They came ashore at {{p|Yemen}}: wet and green
-Was {{p|Arabia}} in that {{x|Pleistocene}}.
-Thick grass; the seasonal rivers still ran;
+They came ashore at {{p|Yemen}}: wet and green,
+Thick grass, where seasonal rivers still ran,
+Was {{p|Arabia}} in that {{x|Pleistocene}};
 The land was hospitable to the plan
 
 Of a small band in search of a new home.
-They stayed; they multiplied; they came to roam
-Outward along south {{p|Asia}}'s coast, and east
+They stayed; they multiplied; and then, out east,
+Along south {{p|Asia}}'s coast they came to roam,
 Along the shore, where choosing mattered least:
 
-The way was easier to trace than choose.
-The sea upon the right hand, theirs to use,
+The way was easier to trace than choose:
 The dry interior upon the left,
+The sea upon the right hand, theirs to use,
 The prompt of coastal food, the shells, the heft
 
 Of fish, the tide pools, and the bells and bowls
-Of mangrove swamps: such were the terms and tolls
-Of the migration. Generations' blur
-Of coast-walking; a slow and eastward stir.
+Of mangrove swamps: and the migration's blur,
+Its terms, its generations, and its tolls,
+Of coast-walking, a slow and eastward stir.
 
 And early in this eastward flow, the trunk
-Of CT split, a few thousand years, and sunk
-Already was the root from which there came
-Two clades, as daughters: DE, CF, the name
+Of CT had split; and from its root there came,
+A few thousand years before, and deep sunk,
+Two clades, as daughters: DE and CF by name.
 
-Borne by that split. And one of the two, DE,
-Would do a thing dramatic, while the plea
-And story of the other, CF, must stay
-Until the chapter next. For now, this way:
+And one of these two clades, the one called DE,
+Would do a thing dramatic, while the way
+Of CF, the other, and its tale and plea,
+Must wait until the chapter next. Today:
 
 And DE itself divided: D from E,
-Who would return by land one day to be
-In {{p|Africa}} again. That chapter waits.
+Whose chapter, its return by land, awaits:
+In {{p|Africa}} again E came to be.
 Today we follow D beyond these straits.
 
 Haplogroup D was once of widest spread
-Of all {{p|Y}}-lines on earth, and not instead
-The narrow, dry-cornered estate we see
-Assigned to it today, for D roamed free
+Of all {{p|Y}}-lines on earth, and not the small,
+The narrow, dry-cornered estate, instead,
+Assigned today; for D roamed free through all
 
-All over {{p|Asia}}: D was prow and fit
-Of the first wave's south route, and went with it;
-Its folk walked the {{p|Indian}} Ocean's chute
-And peopled coasts pre-Dravidian, the root
+Of {{p|Asia}}: there D was the prow and fit
+Of the first wave's south route; its folk would shoot
+Down the {{p|Indian}} Ocean's chute, with it,
+Peopled pre-Dravidian coasts, the root
 
 Of what is {{p|India}} today; moved on
-To {{p|Southeast Asia}}; crossed to {{p|Java}}, drawn
-Along the {{p|Indonesian}} isles; and then
-Pushed north through {{p|Myanmar}} into {{p|Thailand}}'s fen
+To {{p|Southeast Asia}}; and, along the isles
+Of {{p|Indonesia}}, then to {{p|Java}} drawn,
+Pushed north through {{p|Myanmar}} and through {{p|Thailand}}'s miles
 
-And forest, and to {{p|China}}'s southwest far
-Frontier: such was the vow and avatar
-Of early coastal drift, which carried D
-Across a continent, from sea to sea.
+Of forest, to the far frontier, the bar
+Of {{p|China}}'s southwest: so the drift would be,
+The early coastal drift, vow, avatar,
+That carried D across, from sea to sea.
 
 D was the free and first-arriving one,
-The pioneer whose patient progress won
-The ancient lands of southern {{p|Asia}}, bare
-Of any human hand before it there.
+The pioneer, whose patient progress there
+Had won the lands of southern {{p|Asia}}, none
+Before it there, of human hand still bare.
 
 And then. Some seventy-four thousand years
-Ago, the earth's own chronicle appears
-To have recorded it. {{p|Sumatra}}, then
-Joined to the mainland by a land-bridge, when
+Ago (the earth's own chronicle, again,
+Recorded it, as in its rock appears),
+{{p|Sumatra}}, by a land-bridge joined, and when
 
 {{p|Toba}}, a mountain there, erupted. Not
-A small one; not the ordinary hot
-And cinder-coned outburst with small flow:
-{{p|Toba}} was the largest blast earth could show
+A small one, nor the ordinary flow
+Of cinder-coned and ordinary hot
+Outburst: the largest blast earth had to show
+
 In twenty-five million years. And its throw,
-
 Three thousand cubic kilometers cast
-Of rock and ash, fell over {{p|Asia}} vast
-And shadowing the continent. It dimmed
-The sky; the sun's bright rim was blocked and trimmed
+Of rock and ash, fell over all below,
+On {{p|Asia}}, and the continent so vast,
 
-For years. The temperature dropped fast, and all
+Shadowing it. It dimmed the sky; the rim
+Of the bright sun was blocked for years, and all
+The temperature dropped fast, and, cold and grim,
 That had been warming felt the winter's thrall.
-Into a sudden cold, the hammer-blow
-And stun of the eruption, closing slow,
 
-Like a fist on the living systems, fell
+Into a sudden cold, the hammer-blow,
+Like a fist on the living systems, fell,
+The stun of the eruption, closing slow,
 On south and east {{p|Asia}}. The forests' knell
-Was rung: they died. Food sources failed. The mist
-And fog of ash let nothing green subsist:
 
-Photosynthesis stopped. Through seasons whole
-Of growth, no harvest rose. And so the toll
+Was rung: they died. Food sources failed. The whole
+Of green, in mist and fog of ash, would stop;
+Photosynthesis ceased; and so the toll,
+Through seasons of growth, with no harvest crop,
+
 Fell on the settled life of those who bore
-The lineage D: all collapsed. The core
-
-And body of the first-wave migrants, spread
+The lineage D: all collapsed. The spread,
+The first-wave migrants' body and their core,
 Through tens of stations, settlements that led
+
 {{p|Iran}} to {{p|Indonesia}}, starved and died,
-And lay in the cold pneumonia, denied
-
-The light. A sunless world. Beneath the ash
+And lay in the cold; and beneath the ash,
+Pneumonia-stricken, and the light denied,
 The coastal settlements lay; and the cache
+
 Of inland camps lay buried deeper yet.
-Most carriers of D had paid the debt
+Most carriers of D, within the close
+Of years behind {{p|Toba}}, had paid the debt
+Of death; and then the barriers that rose
 
-Of death within the years that followed close
-Behind {{p|Toba}}. The barriers that rose
 To life were absolute. And groups that came
-Within the second wave would find the same
+Within the second wave found stations there,
+And settlements, still standing, still the same,
+But emptied, bare of people. Lands that wear
 
-Stations and settlements, but emptied, bare
-Of people. And the lands that used to wear
-And D as their majority were seized
-By later arrivals, whose way was eased:
-
-The C and F-descendants, from the west
+Once D as their majority, were seized
+By later comers, coming from the west,
+C- and F-descendants, whose way was eased,
 From zones less hurt, who now expanded, pressed
+
 Into the vacancy left. D was all
-But lost. Almost. In three refugia, small
+But lost; almost; and, scattered on the map,
+In three refugia, all of them small,
+By sheer good hap, some fenced off, in the lap
 
-And scattered on the map: by sheer good hap
-Some fenced off from the blast, some in the lap
-Of distance, buffered; some by luck of ground
-Whose folds broke up the ash, survived. They found
+Of distance, buffered; some by luck, where folds
+Of ground broke up the ash, survived. And so
+The first of these, the one the story holds:
+{{p|Japan}}, cut off by sea. And here the blow
 
-The first of these: the archipelago
-Of {{p|Japan}}, cut off by sea. Here the blow
 Of {{p|Toba}}, come from off the {{p|Asian}} shore,
-Arrived, but with no fullness in its roar.
+Arrived, but thin; the winds' long course went wide;
+The ash came with no fullness in its roar,
+And crude geography was on their side.
 
-The ash was thinner there; the winds' long course
-Diverged; and crude geography's own force,
-Mere luck, of long-faced islands set offshore
-Sufficed to keep that slight stand living. For
+Mere luck, of long-faced islands set offshore,
+Sufficed to keep that slight stand living, too:
+D-bearing folk survived there, and they bore,
+In later ages, grew into the new
 
-D-bearing people there survived, and grew
-In later centuries into the new
 And founding strata of {{p|Japan}}'s own name.
+The marker D, near half a nation whole:
 Today near half of {{p|Japanese}} men claim
-
-The marker D: half of a nation whole.
 The father-line's inheritance, the scroll
+
 Of that first wave, preserved in islands, passed
-Through tens of thousands of years, holding fast.
+Through tens of thousands of years; from that date
+In {{p|Japan}}, D runs deeper, holding fast,
+Than culture's overlays, however late:
 
-In {{p|Japan}}, D runs deeper than the late
-Cultural overlays of any date:
 The {{p|Ainu}} have D; the {{p|Yamato}} too;
-The whole long archipelago runs through
+Gently but firmly, all the island chain,
+The whole long archipelago, runs through,
+The seed-vault of the first great southern train
 
-Gently but firmly: all the island chain
-Is seed-vault of the first great southern train
-Of early migrants. Second: the plateau
-Of high {{p|Tibet}}, a refugium. Below,
+Of early migrants. Second, the plateau
+Of high {{p|Tibet}}: cold, elevated, far
+From where the plume moved; little ash below
+Had fallen; for the plume's own moving car
 
-Little ash fell: cold, elevated, far
-From where the plume moved, for the plume's own car
 Went south and east, not north. That plateau, grim
-Already, inhospitable and slim
-
-In mercy, showed its strange resilience: those
+Already, showed its strange resilience: those,
+Inhospitable, and in mercy slim,
 Who had arrived before {{p|Toba}} arose
+
 Remained. The altitude they had endured
-Now saved them: hardship into help matured.
-
-Rude difficulty saved them. D lived on
+Now saved them, and rude difficulty; on
+Lived D; and hardship into help matured
 In {{p|Tibet}}; and {{p|Tibetan}} men have drawn
+
 That lineage at rates that echo still
-The spread before the ash. The plateau's will
+The spread before the ash; hard land had kept,
+Took up, preserved the line, the plateau's will,
+What easy lands served up to ruin; slept
 
-Preserved the line: hard land took up and kept
-What easy lands served up to ruin, slept
 With it across millennia. The third
-Refugium: the {{p|Andaman Islands}}, heard
+Is in the {{p|Bay of Bengal}}: islands, small,
+The {{p|Andaman Islands}}, so little heard,
+And scattered, tiny, and with nothing tall
 
-Of little: islands scattered, tiny, small,
-Set in the {{p|Bay of Bengal}}, with no tall
 Or wide infinity of land to spare,
-Between {{p|India}} and {{p|Myanmar}}; yet there
-
-They lay, and crucially, too far away
+Between {{p|India}} and {{p|Myanmar}}, they lay,
+And, crucially, too far away from there,
 From {{p|Toba}}'s plume to smother. To this day
+
 The {{p|Andamanese}} peoples, who are three,
-Jarawa, Onge, Sentinelese, hold D
-
 In what may be the purest form that stands
+(Jarawa, Onge, Sentinelese), hold D
 Surviving: the relay of the first bands
-Undiluted, held in a folk alone
-In total isolation, on their own
 
+Undiluted, held in a folk alone;
 Until these recent centuries, they stood
-Apart from all the human neighborhood;
-No cultural link joins them: none. The point
-Is one the {{x|Gaiad}} presses: to anoint
+In total isolation, on their own,
+Apart from all the human neighborhood.
 
-The three stem-carriers of D, and weave
-A story out of them. Do we believe
+No cultural link joins them: none. The point
+Is one the {{x|Gaiad}} presses: some would weave
+A story out of them, and would anoint
+Three carriers of D. Do we believe
 
 {{p|Japan}} and {{p|Tibet}} and the islands share
-One haplogroup, and so some kinship there
-Runs deep? Some residue of the old ways
+One haplogroup, and so a kinship stays,
+Runs deep? Some residue, surviving there,
 Of D's lost culture? Does {{p|Japan}} still raise
 
 In its own mold some trace of what they knew,
-The first-wave migrants, which {{p|Tibet}} holds too,
+The first-wave migrants, which {{p|Tibet}} still holds,
 Which Sentinelese also cue into?
-A D civilization to renew
+A D civilization, which unfolds
 
 By reconstruction, setting them as one?
-Or, put more narrowly: has {{p|Japan}} spun
-Its spirituality, {{p|Shinto}} ways,
+Or, narrowly: its {{p|Shinto}} and its ways,
+Its spiritual life, has {{p|Japan}} spun
 Out of that shared source? Does it owe its praise
 
 And reverence toward the mountain, its place
-Among the islands, to an ancient trace
-Inherited from there? The answer: no.
-The {{x|Gaiad}} says: stop. Here the story's flow
+Among the islands, to an ancient flow,
+Inherited from there, some ancient trace?
+The {{x|Gaiad}} says to stop. The answer: no.
 
-Catastrophe, and nothing more. It's not
-A hidden cultural unity, got
-By inheritance: the near-total loss
-Of this one line, and not of some old gloss
+The story is catastrophe. It's not
+A hidden cultural oneness; the loss,
+Near-total, of one line, is what we've got,
+And not some old inheritance or gloss
 
-Or some civilizational descent
-Inherited and old. See what is meant:
-Seventy thousand years is long. No tongue
-Or language lives that stretch; they die among
+Of some civilizational descent
+Inherited and old. Long is the span
+Of seventy thousand years: see what's meant:
+No tongue lives that long stretch, no language can;
 
-A thousand deaths in such a span. The ground
-Sees culture built, rebuilt, rebuilt, around
-And over, over, upward from the floor.
-A father-marker found in three, no more,
+A thousand deaths they die. And on the ground
+Is culture built, rebuilt, rebuilt, before,
+And over, upward from the floor, around;
+A father-marker, found in three, no more,
 
 In three disconnected peoples, is fact
-About the {{p|Y}}-chromosome, and no pact
-Beyond it. Nothing of the shout or roar
-Or silence of their culture, which they bore
+About the {{p|Y}}-chromosome, and no more,
+Beyond it, and no further tie or pact;
+And nothing of the culture which they bore
 
 Within their mouths, is told us: it is lost,
+Dead, which no soul, no living soul, recalls,
 Dead with the droughts and the cold years that crossed
-Behind {{p|Toba}}, which no soul now recalls.
-The three are cultural islands; their walls
+Behind {{p|Toba}}. Cultural islands, walls
 
-Are their own local growth, long and alone.
-{{p|Japan}} is {{p|Japan}}; {{p|Tibet}} is its own;
-The {{p|Andamans}} are theirs. No heirloom lies
-In common underneath them, and no ties.
+Are their own local growth, long and alone:
+{{p|Japan}} is {{p|Japan}}; and no heirloom lies
+Beneath them; and {{p|Tibet}} is {{p|Tibet}}'s own;
+The {{p|Andamans}} are theirs; there are no ties.
 
 The haplogroup is not a culture; no,
-The chromosome is not a soul. The show
-And flag upon the gene-map speaks of what
+The chromosome's no soul; and it is what
+The flag upon the gene-map comes to show:
 Biology can tell, and nothing but:
 
-Not of religion, nor of thought's long tree
-Of philosophy, nor of what these three
-Live peoples tell themselves of who they are.
+Not of religion, nor of thought's long tree,
+Nor of philosophy, nor what they are,
+In what they tell themselves, these living three.
 And so the trepidations that go far
 
 And fantasies of those who want to join
-{{p|Tibetan Buddhism}} and {{p|Shinto}}, coin
-A faith by way of {{p|Andamanese}}, go down
-Into their speculation's ash, and drown.
+{{p|Tibetan Buddhism}}, {{p|Shinto}}, go down,
+And by way of {{p|Andamanese}} to coin
+A faith, in speculation's ash, and drown.
 
-There is no thread. The {{x|Gaiad}} keeps its care
-And builds no bed for myths that are not there
-In evidence. Catastrophe stands real,
-What {{p|Toba}} did to the first wave: the peal
+There is no thread. The {{x|Gaiad}} keeps its care,
+And builds no bed for myths, but makes it plain:
+Catastrophe stands real, and it is there,
+What {{p|Toba}} did to the first wave; the pain
 
 And short and terrible report of it
-The {{x|Gaiad}} bids us tell. So we submit:
-Some seventy-four thousand years ago
-One mountain very nearly dealt the blow
+The {{x|Gaiad}} bids us tell, and tell it so:
+One mountain very nearly, we submit,
+Some seventy-four thousand years ago,
 
-That would erase a whole limb of our kind.
+Dealt the blow to wipe a limb of our kind.
+And small the population, small the size:
 The bottleneck that D went through is signed
-Within its genes: small population size
-Behind the eruption; and what else lies
+Within its genes, behind the blast; what lies
 
 The genetic diversity we see
-In D-carriers now, and its degree
-Of means and standard deviations, all
+In D-carriers now, its means, and all
+Its standard deviations, its degree,
 Confirm the hardship absolute. The fall
 
 Was near: the line almost did not win through.
-And yet it did: three refugia; it grew
-From three survivals, lit and dim, the rest
-Of a wide first wave, into tide pools pressed
+And yet it did: from three, the last, the rest
+Of a wide first wave, it lived on, and grew,
+From three survivals, into tide pools pressed
 
-Of the very lucky. And from these three,
+Of the very lucky. And from these three
+Came slow revivals of the stock, the slow,
 Across millennia that were to be,
-Came slow revivals of the stock, the slow
 Rebuilding of the line, and patient flow
 
 And carrying of D's throng to this day.
-{{p|Japan}} became a country. {{p|Tibet}} lay
-Plateau-empire. And the sentry isles
-Of the {{p|Andaman Sea}} kept to their miles,
+{{p|Japan}} became a country; and the isles,
+The sentries of the {{p|Andaman Sea}}, lay
+Apart; {{p|Tibet}}, a plateau realm of miles;
 
-Themselves, small and uncontacted, alone.
-The carriers of D had held their own
-And call and legacy; they are alive.
+Small, uncontacted, keeping to their own.
+The carriers of D are still alive,
+And held their call and legacy, their own;
 And half of {{p|Japanese}} men now derive
 
 The very {{p|Y}} from him that was the stay
-And backbone of a continent's array
-Of first-wave people. And they do not know.
-They go about their day. The marker's glow
+And backbone of the first-wave people, so,
+Through all a continent's array; but they
+Go on about their day, and do not know.
 
-And station in the blood is silent, meek:
-It does not ask, nor call, nor ever speak.
-And yet it lives, and lives, and lives, and lives.
+The marker's glow, its station, as it should,
+Is in the blood, and meek; and yet it lives;
+It does not ask, nor call; it never would;
 Somewhere within their bodies, one who gives
 
 Them life survived the largest blast of earth
-In twenty-five million years; and the birth
-And line behind him crossed, those forebears who
+In twenty-five million years; and those who
+Were forebears, line behind him, and his birth,
 Came over {{p|Bab al-Mandab}} living, through
 
 Forebears who walked from {{p|Africa}} away,
-And theirs, who stalked back where the first lines lay
-In Adam, origin man: all is borne
-Unnoticed through the subway cars each morn
+And theirs, back to the origin, the morn
+In Adam, where the first of all lines lay:
+All this, unnoticed, through the cars is borne
 
-Of {{p|Tokyo}}; or where the busses go
-Through {{p|Sapporo}}'s commuter traffic flow,
+Of {{p|Tokyo}}; or where the busses go,
 Or over {{p|Kyoto}}'s ancient paths of stone,
+Through {{p|Sapporo}}'s commuter traffic flow,
 A rover in the bloodstream, and unknown
 
 To a salaryman who cannot tell
-Of the near-wiping blow that once befell
-His line. He does. He does. He does. The hum
-And quiet buzz of haplogroup D come
+Of the near-wiping blow that, though he's dumb
+To it, upon his very line befell.
+He does. He does. He does. The quiet hum
 
-Signal of a first wave that was nearly
-Erased, kept in three refugia, merely
-Unbraced by shared culture. Now forget
-Them though the mind may, letters hold them yet:
+And buzz of haplogroup D come, a sign
+Of a first wave that nearly was erased,
+Kept in three refugia, and in line
+Unbraced by shared culture, and since displaced
 
+From minds, the letters hold them yet, and so
 The body still remembers. {{x|Gaiad}} tells
-The fall and the survival. It dispels
-False unity, and the romantic claim
-Of common faith or of a shared soul's frame.
+The fall and the survival, so we know;
+And with it, the false unity dispels.
+
+The false romantic claim, which some would make,
+Of common faith, or of a shared soul's frame,
+It will not build upon, nor will it take,
+Nor give to it a credence or a name.
 
 The stark and simple fact is all: one dark
-Volcano, world of ash, near-end, and mark
-And three refugia: what the {{p|Y}} retains,
-And that, the aria of D, remains.
+Volcano, world of ash, near-end; remains,
+In three refugia, left as a mark,
+The aria of D the {{p|Y}} retains.
 
 
 # Chapter 134: The CF Split and the Unsplit C
