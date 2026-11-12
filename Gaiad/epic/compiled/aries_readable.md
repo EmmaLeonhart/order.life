@@ -3717,268 +3717,270 @@ F starts each haplogroup's twin counterpart.
 
 # Chapter 135: I — The Old Europe Hunters
 
-When F emerged from the CF split, it did
+When F emerged from the CF split, it did,
+The generations through, and branched again,
 What CT had done before: it branched, amid
-The generations, branched, and branched again;
-The generative grid of tree and men,
+The generative grid of tree and men.
 
-The human genealogy, was stanched
-And then continued, and at each turn branched,
-At every generation, as the spread
-Of migrant peoples east and northward led,
+The human genealogy was stanched
+And then continued; and the peoples spread,
+At every generation, and they branched,
+As migrants, east and northward, where they led,
 
 And westward, over {{p|Eurasia}}. Within
-A few thousand years of the split, the kin
-From F came clades; one of them was named
-And IJK it was, and so it stays proclaimed.
+A few thousand years of the split, one named
+Of F's new clades, of all of F's new kin,
+Was IJK, and so it stays proclaimed.
 
-Within it came the split of IJ and K;
-And in IJ, I against the J. Today
-We follow I alone: Haplogroup I,
-The line that walked to {{p|Europe}} first; not by
+Within it came the split, IJ and K,
+And I, J in IJ. We follow, then,
+Haplogroup I alone, which made its way
+To {{p|Europe}} first: not first of all of men.
 
-The first of human kind: for long the ground
-Neanderthals' who held it, and were found
-For hundreds of millennia; the first
-Wave of {{p|Homo sapiens}} there, immersed
+For hundreds of millennia, the ground
+Was held by Neanderthals; and the first,
+The wave of {{p|Homo sapiens}}, there found,
+A while already, there had been immersed
 
-A while already, walking round the holds
-By Neanderthal strongholds, as it folds
-Three ways: they interbred; at times they vied
-In competition; and at times beside
+Round Neanderthal strongholds; and it holds
+Three ways: at times, they interbred; they vied
+At times in competition; the third folds
+Them into coexisting, side by side.
 
-Each other simply coexisted. I
-Is the line that settled, and did not fly
+And I's the line that settled, did not fly
 Back home: the haplogroup that, feeding on
-The reindeer and the mammoth, stayed thereon
+The reindeer and the mammoth, would not lie
+Elsewhere, and did not turn; it stayed thereon.
 
-And did not turn again. This ancient line
-Is {{p|Europe}}'s hunter-gatherer; the sign
-Of him who painted at {{p|Lascaux}}, and at
-{{p|Altamira}} and at {{p|Chauvet}} — or that
+This ancient line is {{p|Europe}}'s first to hunt
+And gather; it's the sign of him who, at
+{{p|Lascaux}}, and {{p|Altamira}}, at the front,
+And at {{p|Chauvet}}, would paint; or, if not that,
 
 At least a candidate, and good, for who
-Who made the long cave-painting epochs too.
-Tiara and crown of the hunting ways
-And culture of {{p|Europe}} sat, in those days,
+Made the long epochs of cave-painting; days
+In which the crown, tiara, culture too,
+Of {{p|Europe}} and of all its hunting ways
 
-On I-bearing heads. I was there when ice
-Sheets covered the whole continent: the vice
-And glacial maximum, that battle, and
-The vice of twenty thousand years, it spanned
+Sat on I heads; and I was there when ice
+Sheets covered all the continent, and spanned
+The glacial maximum, that battle, vice
+Of twenty thousand years; and in that land
 
 It went south to {{p|Iberia}}, and lay
-In {{p|Italy}}'s peninsula, and they
-The {{p|Balkans}} also held them: pockets where
-The milder southern climates met the air
+In {{p|Italy}}'s peninsula, and there
+The {{p|Balkans}} held them too: in pockets, they,
+Where milder southern climates met the air
 
-Of ice: and there the population thinned
-To a bottleneck, survived, and was pinned
-Until the ice drew back. Then I came out
-And peopled the whole continent about.
+Of ice: and there the population, thinned
+To bottleneck, survived, and waited out
+The ice, until it drew back, pressed and pinned;
+And then came I, and peopled all about.
 
 Northward the hunters streamed; and all the land
-Post-glacial was completed by their hand:
-That is the dreaming of the old-world line
+Post-glacial they had filled; this is the line,
+The dreaming, of the old world, by their hand,
 Of {{p|Europe}}. Here the continent's design
 
 Is before farming; before cities; ere
-The written word; before Stonehenge stood there;
-Ere Indo-European tongues consent
-To enter: all of that is later. Bent
+The written word, before the Stonehenge stone;
+Ere Indo-European tongues came there;
+All that is later. Patient, on its own,
 
-On patience, hunter-gatherer life ran
-For thousands of years before it began.
-I is the continent's first settled sons;
-I is the oldest archive, which still runs
+The hunter-gatherer life had long run
+For thousands of years before. I, the sons,
+The continent's first settled; I, the one,
+The oldest archive, and the one that runs
 
 Most patient of the landscape's. I did not
-Depart or disappear; nor is forgot:
-I is still here. The {{p|Nordic}} countries hold
-High frequencies: in {{p|Sweden}}, as of old,
+Depart, nor disappear; and, as of old,
+I is still here, and it is not forgot:
+High frequencies the {{p|Nordic}} countries hold,
 
-In {{p|Norway}} and in {{p|Denmark}}; and as well
-In {{p|Croatia}} and {{p|Bosnia}} they dwell,
-In {{p|Balkan}} lands; in {{p|Serbia}} as high
-As anywhere; and sub-branches still lie
+In {{p|Sweden}}, {{p|Norway}}, {{p|Denmark}}; and as well,
+In {{p|Balkan}} lands, in {{p|Serbia}} as high
+As anywhere, {{p|Croatia}}, where they dwell,
+And {{p|Bosnia}}; and sub-branches still lie
 
 Dry and mountainous, scattered through the whole
-Of {{p|Europe}}'s margins, north and south. The role
-Of I was to hold on. The farmers came,
-The {{p|Neolithic}} farmers: G their name;
+Of {{p|Europe}}'s margins, north and south, the same;
+To hold on, this was all of I's own role.
+The farmers of the {{p|Neolithic}} came,
 
-And I was pushed to margins, but not killed;
-Then Indo-European riders spilled
-Across the steppe: their haplogroup was R;
-They overlaid the old, but did not mar
+G; I was pushed to margins, but not killed;
+And then from far across the steppe, from far,
+The Indo-European riders spilled:
+Their haplogroup was R; they did not mar,
 
 Nor yet replace the older stock, which went
-Under the soil, but did not die: it bent.
-The modern {{p|European}} is a man
-Of layers: I the base of all the plan,
+Under the soil, but did not die. A man
+Of layers, modern {{p|European}}, bent:
+And I the base, the bottom of the plan,
 
-Then G as second layer, R the crest,
-The admixture by region manifest:
+Then G as second layer, R the crest;
 In {{p|Balkans}}, I is dominant today;
+The admixture, by region, manifest;
 In {{p|Scandinavia}}, strong; and the way
 
 Of {{p|Western Europe}}, minor, but still there;
-In {{p|Eastern Europe}}, I still holds a share
-Substantial. So old {{p|Europe}} lives: the men
-And women, hero figures, hunters then
+In {{p|Eastern Europe}}, I still holds, again,
+A share substantial; so old {{p|Europe}}, where
+It lives, lives on: the women and the men,
 
-Of the pre-{{p|Neolithic}} stone age, stayed;
+Hero and hunter, of the stone age, stayed,
+Pre-{{p|Neolithic}}; {{p|Europe}} still remains;
 They were the substrate on which others laid
-Their later waves. Old {{p|Europe}} still remains
-Within the body, and its trend sustains
+Their later waves; the body still sustains
 
-A holding on. The {{x|Venus}} shaped and small
-Of {{p|Willendorf}}, that figurine, the call
-And mother-goddess of the fertile rite,
+A holding on. The {{x|Venus}}, shaped and small,
+Of {{p|Willendorf}}, that figurine, the rite
+Of mother-goddess, fertile, and the call
 Which Marija Gimbutas brought to light
 
 And tied to pre-IE culture of the land,
-Was likely made by I-carrying hand
-Of hunter-gatherers. The seen and known
-Iconography of a world not sown
+Was made, most likely, as the finds have shown,
+By I-carrying hunters, by their hand,
+Iconography, the seen and the known,
 
-Before the plow: the ancient faith that sat
-In cave-paint and in figurine: all that
-Sits in the register of I. And when
-The farmers came, I did not die out then:
+Unsown before the plow: and all of that,
+The ancient faith in cave-paint, figurine,
+Sits in the register of I, which sat;
+And when the farmers came, I was still seen:
 
 I went into the mountains and the wood,
-The fishing villages the farmers would
-Not want along the coast. The hunting way
-Went on at the peripheries, while they,
+And fishing villages, which, on the coast,
+The farmers did not want; the hunting stood
+At the peripheries, while, for the most,
 
-The farming villages, spread on the plains.
-The change was slow and long, and took its pains:
-In some lands I took farming up, and stayed
+The farming villages spread on the plains;
+In some lands I took farming up, and stayed;
+The change was slow and long, and took its pains,
 As all the uses of the land were swayed;
 
-Elsewhere the hunting lasted ages more:
-The {{p|Mesolithic}} peoples held that door
-In pockets where it held; the hunting kept
+Elsewhere the hunting lasted ages more,
+In pockets where it held; the hunting kept,
+The {{p|Mesolithic}} peoples held that door,
 Its way alive, long after there had stepped
 
 Blunt {{p|Neolithic}} with the fields in hand;
-{{p|Scandinavian}} hunters still would stand
-As I when the {{p|Yamnaya}} came. The line
-Was tenacious; the deep substrate design
+When the {{p|Yamnaya}} came, as I, the line,
+{{p|Scandinavian}} hunters still would stand;
+Tenacious was the deep substrate design
 
-Had lived the ice age through, and had contrived
-To last the farming change, and then survived
-The steppe invasion too, although displaced
+That lived the ice age through, and had contrived
+To last the farming change, and, though displaced,
+The steppe invasion too, it had survived,
 From dominance by then, and much erased.
 
-But it is here. The {{p|Nordic}} basin; still
-{{p|Croatian}} villages; and on the hill
-{{p|Sardinian}} highlanders still bear the sun
-That rises on the hunters' sons, each one
+But it is here: the {{p|Nordic}} basin; still,
+{{p|Croatian}} villages, where, one by one,
+{{p|Sardinian}} highlanders on the hill
+Still bear the hunters' sun, and every son,
 
 Descended from the hunters of that land.
-The {{p|Magdalenian}} heritage at hand,
-{{p|Gravettian}} culture, and the paintings made
-{{x|Aurignacian}}, at {{p|Chauvet}}, in the shade
+{{p|Magdalenian}} heritage, the made,
+The {{p|Gravettian}} culture, near at hand,
+{{x|Aurignacian}} paintings in {{p|Chauvet}}'s deep shade
 
-Of stone; and the Gravettian figurines:
-All these are carried still in certain genes
-Of certain {{p|European}} folk. The old
-Is living yet; old {{p|Europe}} has not tolled
+Of stone; and Gravettian figurines:
+All these are carried still, and, as of old,
+In certain {{p|European}} folk, in genes;
+The old lives yet; old {{p|Europe}} has not tolled
 
 Its final hour. Fulfilment in the chase
-Was turned, by pressure, to another place:
-To farming, herding, cities, and at last
-Modernity. But still, from all that past,
+Was turned, by pressure, to the plow, the herd,
+The city, and at last, another place,
+Modernity; but still, though long deferred,
 
 The Y-chromosomal mark of the first
-Settled the continent is not dispersed
-But whole in many millions living now.
+Settled the continent, and lives on now,
+Whole in the many millions, not dispersed;
 The patient continuity, somehow,
 
 Of I across some thirty thousand years,
-Or forty, in one continent, appears
-The longest tie between a folk and land
+Or forty, longest tie of folk and land
+In one continent, as now it appears,
 In all the {{p|European}} tale. They stand
 
-New, all of them: the {{p|French}}, the {{p|Germans}} new,
+New, all of them: the {{p|French}}, the {{p|Germans}}, there,
 The {{p|Romans}} new; the deepest, oldest view
-Belongs to I: the oldest presence there
-Is deepest in the body's house of prayer.
+Belongs to I, deep in the house of prayer,
+The body's house, the oldest presence, too.
 
 This chapter honors them: the first to hunt
-In all old {{p|Europe}}; they who bore the brunt
-Of glacial maximum and did not break;
+In all old {{p|Europe}}; they who did not break,
+Of glacial maximum who bore the brunt;
 The painters of the {{p|Lascaux}} cave; and make
 
 Of them the makers of the {{x|Venus}} forms,
-Defiant, who outlived the glacial storms,
-Patient re-occupiers of the land
-Post-ice, the substrate under all that spanned
+Defiant; patient, who re-held the land
+Post-ice, and who outlived the glacial storms,
+The substrate under all that later spanned
 
-Later ages. Haplogroup I: the card
-Of old {{p|Europe}}'s ID; the long regard,
-The hunter's patient look upon the ground
-He lived on; the deep kinship that he found
+The long ages. Haplogroup I: the card
+Of old {{p|Europe}}'s ID; and on the ground,
+The hunter's patient look and long regard
+Upon the land he lived on, and he found
 
-With forest and with river and with cave,
-The animism that the deep past gave.
-And when, in chapters hence, we reach the sleep
+The deep kinship with river and with cave,
+With forest; and when chapters hence reach sleep,
+Of animism, which the deep past gave,
 The carrying-on of old ways, we keep
 
 Pre-{{p|Neolithic}} hunting ways again
-In half-settled form: I shows there, and then
-Cucuteni-Trypillia, the old
-Reply that {{p|Europe}} gave, as we are told,
+In half-settled form, where I shows, and so
+There came Cucuteni-Trypillia, then,
+The old reply that {{p|Europe}} gave, we know,
 
 In wood and clay: its towns, its painted walls,
-Its female iconography, which calls
-Pervasive; and its peaceful order, free
-Of hierarchy, as it seems to be:
+Its female iconography; and free
+Of hierarchy, so as one recalls,
+Its peaceful order, as it seems to be:
 
 These were old {{p|Europe}}'s working out of all
-The farmers offered, in old {{p|Europe}}'s call
-From its own magic register. And then
+The farmers offered; it was, there and then,
+From its own magic register, its call;
 {{p|Yamnaya}} came and harmed that flower, when
 
 Their time arrived. But we are not there yet.
-For now, the old {{p|Europe}}: the hunter's net,
-The mother-goddess carver, and the one
+For now, it's the old {{p|Europe}}, and the one,
+The mother-goddess carver; hunter's net;
 Who painted caves; who saw the ice begun
 
 And gone again; the patient background line;
-The brother, sister, uncle, of the sign
+The brother, sister, uncle, and the heirs
+Of the old Y, the ancient mark and sign
 In every {{p|European}} who still bears
-That ancient mark: the old Y, and its heirs
 
-Of the old land; the one who came before;
-The hold of will to last; the hand that bore
-And kept: Haplogroup I, {{p|Old Europe}}. Rest
-The continent's whole tale is layered, pressed
+The old land's mark; the one who came before;
+The hold of will to last; the hand that kept;
+Haplogroup I, {{p|Old Europe}}. All the more,
+The continent's whole tale is layered, stepped
 
-On top. But I is still the bottom, and
-The bottom is where tops descend to stand
-When they have finished. Layers that are high
-And visible will come and go, and die.
+On top; but I is still the bottom, where
+The tops descend, when they have finished, high
+And visible, to stand; and layers there
+That come and go, will come and go, and die.
 
 The bottom does not stop. The cave remains
-Within the limestone; and the paint retains
-Its place upon the wall; the goddess still
-Is in the ochre; and the {{p|Y}} will fill
+Within the limestone, and the paint, as still,
+Its place upon the wall of stone retains;
+The ochre's goddess; and the {{p|Y}} will fill
 
 The men of {{p|Balkans}} and the men of north,
-And {{p|Sardinia}}'s men, whose blood sets forth
-The call of {{p|Europe}}'s deepest past, whose own
+And of {{p|Sardinia}}, whose blood has shown
+And calls from {{p|Europe}}'s deepest past, set forth;
 Great-great-grandfathers of their mothers, grown
 
 In ice-age light, went to the cave to trace
-The horse, the bison, and the bull's own face.
-The continent remembers all of it.
+The horse, the bison; and remembers it,
+The continent, the bull's own painted face;
 The haplogroup is memory, and writ
 
-In patient continuity, the I:
-The body's longest word, and does not die.
+In patient continuity, the I,
+In all the long, long years that it has known:
+The body's longest word, and does not die,
+And lives, and lives, and lives, and is its own.
 
 
 # Chapter 136: G Builds the Neolithic
