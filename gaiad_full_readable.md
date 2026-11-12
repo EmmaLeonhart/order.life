@@ -6012,23 +6012,23 @@ They made the world, and made the world anew.
 # Chapter 36: The Arthropod Radiation
 
 This is the chronicle that we now tell
-Of Arthur Ironfoot, and tell it well.
-His sons would spread out, going far and wide,
+(His sons would spread out, going far and wide)
+Of Arthur Ironfoot, and tell it well,
 With evolution there to be their guide.
 
-And Arthur bore two sons of lasting fame:
+And Arthur bore two sons of lasting fame,
+And Fuxi, who was wise, and who was strong:
 Arthropus, who was double-legged by name,
-And Fuxi, who was wise, and who was strong,
 Who lived and thrived throughout his whole life long.
 
 And from Arthropus, the double-legged one,
-Great lines were pledged to come, and were begun.
-Two sons he bore, both with great strength and might:
+Two sons he bore, both with great strength and might;
+Great lines were pledged to come, and were begun:
 There was Ferron, and Isoxys the bright.
 
-And out of Ferron there then came two more:
+And out of Ferron there then came two more,
+And Euthyphro, the one who was the wise:
 Megacheiron, who went out to explore,
-And Euthyphro, the one who was the wise,
 Who looked upon the world with knowing eyes.
 
 Megacheiron bore many sons, and one
@@ -6036,153 +6036,159 @@ Was Pantopus, who hoped that on some Day
 He'd find, when all his searching had been done,
 A mate both true and kind, to come and stay.
 
-Now Pantopus was lonely, living there,
-Until he met a maiden who was fair.
-And beautiful Pyka, that was her name,
+Now Pantopus was lonely, living there
+(And beautiful Pyka, that was her name),
+Until he met a maiden who was fair,
 And she was one who set his heart aflame.
 
-"You are all legs!" he said to her, and cried
-To her who was to be his loving bride.
-And so the two of them became the line
+"You are all legs!" he said to her, and cried;
+And so the two of them became the line,
+To her who was to be his loving bride,
 Of all the Sea Spiders, who are so fine.
 
-The Sea Spiders built themselves cities strange
-Throughout the reaches of their ocean range.
+The Sea Spiders built themselves cities strange,
 And in their legs they kept, and in them stored,
+Throughout the reaches of their ocean range,
 All of the organs that they so adored:
 
 Intestines were placed there within their limbs,
-And Genitals, where all the water swims,
 And Gills contained within each single leg;
+And Genitals, where all the water swims;
 No coelom did they have, nor did they beg.
 
-All legs, in truth, is what they truly were,
-As Pantopus had come there to aver.
+All legs, in truth, is what they came to be;
 Their bodies were so lean, and were so slight,
+As Pantopus had said, for all to see:
 Their legs were their main pleasure and delight.
 
-And Euthyphro then bore two sons, and one
-Was Insectus, when the day had begun,
+And Euthyphro then bore two sons, and one,
 And Arachnus, who was the one so keen,
+Was Insectus, when the day had begun,
 With his appendages so plainly seen.
 
-And from Insectus' great and noble line
-The insects all would rise, and they would shine.
+And from Insectus' great and noble line,
 And from Arachnus, when his work was done,
+The insects all would rise, and they would shine;
 Arachnids came forth, each and every one.
 
-The sons of Arachnus, in their turn, bore
-Appendages, both great, and to explore.
+The sons of Arachnus, in their turn, bore,
 The sons of Insectus, for their part, made
+Appendages, both great, and to explore,
 Great legs, so they could ply their work and trade.
 
-And some of them would live in waters blue,
-And some upon the land would walk on through.
-Aquatic and terrestrial, they found
+And some of them would live in waters blue
+(Aquatic and terrestrial, they found),
+And some upon the land would walk on through:
 That both paths would prove good, and would be sound.
 
 Insectus bore three sons, and they were strong:
-Mandibulus, who was there all along,
 Aquilonifer, he who was so free,
+Mandibulus, who was there all along,
 And Hymenocarina, of the sea.
 
-Mandibulus then came to bear two more:
-Crustaceus, who went out to explore
-The waters that were deep, and that were wide,
+Mandibulus then came to bear two more
+(The waters that were deep, and that were wide):
+Crustaceus, who went out to explore,
 And Euthy, who would stand there by his side.
 
 And from Crustaceus there came the race
-Of the Crustaceans, found in every place:
-The lobsters, and among them, too, the crabs,
+(The lobsters, and among them, too, the crabs)
+Of the Crustaceans, found in every place,
 With claws for holding, and for making grabs.
 
 But Euthy chose instead to take the shore,
+Upon the rocks that rose up very high,
 Where all the waves would come to crash and roar,
-Upon the rocks that rose up very high
 Beneath the open spaces of the sky.
 
-Along with water bears, he went and walked
-Where dry air and the wet air met and talked.
-There they faced the asphyxiating land
+Along with water bears, he went and walked;
+There they faced the asphyxiating land,
+Where dry air and the wet air met and talked,
 With courage that was strong, and that was grand.
 
 And here, between the ledges of the stone,
-They laid their eggs, and left them there alone.
-In gardens that were made of lichen green
+In gardens that were made of lichen green,
+They laid their eggs, and left them there alone;
 Their young would for the first time then be seen.
 
-From Euthy's brave descendants, those who stood
-And faced the land's defendants, as they could,
-The insects would then come, and would arise
+From Euthy's brave descendants, those who stood,
+The insects would then come, and would arise,
+Who faced the land's defendants, as they could,
 To conquer all the earth, and all the skies.
 
-Arachnus also bore two sons, and one
-Was Trilos, born when the day had begun,
+Arachnus also bore two sons, and one,
 And Serk, who was a son of ancient fame,
+Was Trilos, born when the day had begun,
 Who came to earn himself eternal name.
 
-Serk bore many children, and there was one,
-Chelicer, who was hidden from the sun
-In shadows that were very dark and deep,
+Serk bore many children, and there was one
+(In shadows that were very dark and deep),
+Chelicer, who was hidden from the sun,
 And Sidney, with his secrets he would keep.
 
-And out of Chelicer's own humble line
-The spiders all would come, and they would shine.
+And out of Chelicer's own humble line,
 All the arachnids, with their legs of eight,
+The spiders all would come, and they would shine,
 Were pledged out of his bloodline, as their fate.
 
-Today, in each room, and in each corner
-Where webs are hung, and serve as a mourner
+Today, in each room, and in each corner,
 For all the flies caught there within their snare,
+Where webs are hung, and serve as a mourner,
 Chelicer's many children will be there.
 
-Among the great Trilos' many daughters
-Who ruled long, within the ancient waters,
+Among the great Trilos' many daughters,
 Were Trilobon, the one who was the queen,
+Who ruled long, within the ancient waters,
 Marrella, who was ghostly to be seen,
+
 Esmeralda, she who was jewel-bright,
-And then Retifacia's piercing sight.
+Who shone among her sisters in the sea,
+And then Retifacia's piercing sight,
+That saw all things that were and were to be.
 
 Marrella, who was soft, and who was pale,
-Was one who told a ghostly kind of tale.
 And she became the ancestress, no less,
+Was one who told a ghostly kind of tale,
 Of the Marellans, whom she came to bless.
 
 Like phantoms, they would live within the sea,
-And there they lived their lives, and lived them free,
 Soft-bodied, gentle, and ethereal,
+And there they lived their lives, and lived them free,
 And they were almost immaterial.
 
-Trilobon then bore children, four in all,
-In waters never still, at ocean's call:
+Trilobon then bore children, four in all:
 Trilobeth, who would become the great queen,
+In waters never still, at ocean's call,
 And Xander, who was strong, and who was keen,
+
 And Necta, who was sweet, and who was fair,
-And Helmut, who was found most everywhere.
+Who swam where all the gentle currents run,
+And Helmut, who was found most everywhere,
+Beneath the waters, under moon and sun.
 
 Trilobeth became, in time, the mother
-Of Trilobites; and there was no other
-Of all the Rulers of the sea, no one,
+Of all the Rulers of the sea; no one
+Of Trilobites, and there was no other,
 Could match their dynasty beneath the sun.
 
 Through their great conquest, which would never rest,
+The Yakutian era and its dawn
 They brought, at their command and their behest,
-The Yakutian era and its dawn,
 When all the older ways were then withdrawn.
 
-Great Trilobeth bore two sons, of whom one
-Was Redlich, born when the day had begun,
+Great Trilobeth bore two sons, of whom one,
 And Agnos, who was wise, and who was old,
+Was Redlich, born when the day had begun,
 With stories that were yet still to be told.
 
-And out of Redlich there then came the line
-Of houses that were noble and divine:
-Corynex would build and raise his own house
+And out of Redlich there then came the line;
+Corynex would build and raise his own house,
+Of houses that were noble and divine,
 With all the wisdom he would then espouse.
 
 From Corynex came Lichida, who made
-Himself a great armada, well arrayed.
-His house grew strong, and spread out far and wide,
+(His house grew strong, and spread out far and wide)
+Himself a great armada, well arrayed,
 With fortune at their side to be their guide.
 
 And from Lichida there came Odontos,
@@ -6191,125 +6197,128 @@ His spiny house was one that then arose
 To challenge all of his opposing foes.
 
 And from Ptychos, who was Redlich's brother,
-There came four sons who were like no other:
 Proetes, who was strong, and who was true,
+There came four sons who were like no other:
 Asaphus, of the waters that are blue,
-Harpeth, the one who dwelt within the deep,
-And Phacos, he who never goes to sleep.
 
-And each of them would found his own great line,
-With characteristics, both rich and fine.
-The Trilobites spread out both far and wide
+Harpeth, the one who dwelt within the deep,
+Whose sight could pierce the dark and hidden ways,
+And Phacos, he who never goes to sleep,
+But keeps his watch through all the nights and days.
+
+And each of them would found his own great line;
+The Trilobites spread out both far and wide,
+With characteristics, both rich and fine,
 Across the waters of the ocean's tide.
 
 For millions of the years they ruled and reigned,
-While other life was held back, bound, and chained,
 The rulers of the sea, in all their might,
+While other life was held back, bound, and chained,
 Through all their dynasty, by day and night.
 
 Their compound eyes were able, then, to see
-As if through all of time that is to be.
-No detail anywhere could then escape
+(No detail anywhere could then escape)
+As if through all of time that is to be,
 Their vision, with its perfect form and shape.
 
-Their bodies were Segmented, and they bore
-Their legs, which numbered many by the score.
+Their bodies were Segmented, and they bore,
 And every segment had its legs, a pair,
+Their legs, which numbered many by the score,
 To walk with through the water, clear and fair.
 
 They molted, shedding skin, as up they grew,
-As arthropods today will also do.
-And every stage would bring a greater size
+And every stage would bring a greater size,
+As arthropods today will also do,
 Beneath the waters of the ocean skies.
 
-And so the Yakutian time had come,
-When Trilobites became the total sum
-Of all that great success was there to be
+And so the Yakutian time had come
+(Of all that great success was there to be),
+When Trilobites became the total sum,
 In their vast dynasty, for all to see.
 
-And so, from Arthur's great innovation
-Came this great and mighty radiation:
-The Insects, and the spiders, and the crabs,
+And so, from Arthur's great innovation,
+The Insects, and the spiders, and the crabs:
+Came this great and mighty radiation,
 Each one with other kinds of claws and grabs.
 
 The Sea Spiders, creatures who were so strange,
-Extended out, and spread through all their range,
 With organs placed inside of every limb,
+Extended out, and spread through all their range,
 A body plan that was so lean and slim.
 
-And the Crustaceans, living in the sea,
-Built up their dynasty for all to see.
-The insects who would come to live on land
+And the Crustaceans, living in the sea
+(The insects who would come to live on land),
+Built up their dynasty for all to see,
 Spread out across it, with their courage grand.
 
 Arachnids, with eight legs on every one,
-From Chelicer were pledged, their line begun.
-In shadows they would always come to dwell,
+In shadows they would always come to dwell;
+From Chelicer were pledged, their line begun,
 With stories of their own that they could tell.
 
 But none of them could ever match the fame
-Of Trilobites, and of their mighty name.
-For eons they would hold and keep their sway
+(For eons they would hold and keep their sway)
+Of Trilobites, and of their mighty name,
 Until there came for them their final day.
 
 From Pantopus and Pyka and their love
-To all the rulers, high and far above,
 The legacy of Arthur went and spread
+To all the rulers, high and far above,
 For long, long ages after he was dead.
 
-In every one of them, each arthropod
-That walks upon the earth and on the sod,
+In every one of them, each arthropod,
 His biramous design, the limb in two,
+That walks upon the earth and on the sod,
 Lives on through space and time, and passes through.
 
 That double-legged and great innovation
-Sparked this great and mighty radiation
 That came to fill both all the sea and land
+Sparked this great and mighty radiation,
 With creatures who were truly great and grand.
 
-In every spider's silken, woven web
+In every spider's silken, woven web,
+In every insect, and in every flight,
 That catches life when it is at its ebb,
-In every insect, and in every flight
 Through all the day, and all throughout the night,
 
-In every lobster, and in every claw
+In every lobster, and in every claw,
+In every crab that scuttles and that walks,
 That follows on the way of nature's law,
-In every crab that scuttles and that walks
 Where all the beauty of the ocean talks,
 
-Remember Arthur, and his ancient art,
-The art that gave to all of them their start.
+Remember Arthur, and his ancient art:
 The legacy of Ironfoot, his own,
+The art that gave to all of them their start,
 Lives on through all the ages yet unknown.
 
 The sons of Arthur were the ones who proved
-The way in which great innovation moved
 The world along, from simple, early forms,
+The way in which great innovation moved
 Up to complexity, the kind that warms
 
 The heart of those who look on it and see
-How vast and how diverse it came to be.
-From one ancestral line, a single line,
+(From one ancestral line, a single line)
+How vast and how diverse it came to be:
 There came the forms, some crude and others fine.
 
 The Yakutian age had now begun,
-When Trilobites had fought, and they had won
 Their place as being rulers, strong and true,
+When Trilobites had fought, and they had won,
 Of all the waters that were deep and blue.
 
 But time would come and show to us again
+(And creatures who are in their very prime)
 That even those, the greatest of the men,
-And creatures who are in their very prime,
 Must one day yield and give to passing time.
 
 Yet Arthur's gift is one that's living on
+In every jointed and segmented leg,
 From fall of dusk until the rise of dawn,
-In every jointed and segmented leg
 That walks the places where all life will beg
 
-For forms that will be strong, and will be true,
-To see the journey on, and see it through.
+For forms that will be strong, and will be true;
 The arthropods are with us, and remain
+To see the journey on, and see it through,
 Through all the sunshine, and through all the rain.
 
 
