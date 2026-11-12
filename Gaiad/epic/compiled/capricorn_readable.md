@@ -6027,398 +6027,400 @@ Would change beyond all good, beyond its range.
 
 # Chapter 47: The Cephalopod Rise
 
-This is the story that is told of old,
-Of ones both new and old, as it is told:
-The Cephalopods, who were very great,
+This is the story that is told of old:
+The Cephalopods, who were very great
+(Of ones both new and old, as it is told),
 Arcane ones, whose own destiny and fate
 
-Would overthrow the might and overthrow
-Leviathan's own sight, and rule below
-With wisdom very deep, in depths that keep
-The ancient secrets where the secrets sleep.
+Would overthrow the might, and overthrow
+Leviathan's own sight, with wisdom deep,
+And rule with wisdom in the depths below,
+Where all the ancient secrets lie asleep.
 
 The sons of Cephalopus all would grow
-So glorious that, in time, as we know,
-The sons of Scaphopus, the other kind,
+So great that, in their time, the other kind,
+The sons of Scaphopus, as all men know,
 Not quite so prosperous, were left behind,
 
-And they would fade from memory and lore
-Throughout all history for evermore;
-And few of those who hear the ocean's call
+And they would fade from memory and lore,
+And few of those who hear the ocean's call,
+Throughout all history for evermore,
 Have ever heard of them, or know at all.
 
 Scaphopus' degenerate sons, the ones
-Who, once their lives begun, were humble ones,
-Would never come to know, in any way,
+Who'd never come to know, in any way,
+Once their lives had begun, as humble ones,
 The heights their cousins show, and showed that day.
 
 Cephalopus begat Plectron, and so
-From him was then begat, as all men know,
-A noble line, and one that would combine
+There came from him a noble, wondrous line,
+As it was then begat, as all men know,
 With all intelligence that is divine.
 
 Plectron begat the son whom all would call
-Ellesmer, and he was begun in all
-Of wisdom's deepest lore, the oldest lore,
+Ellesmer, begun in wisdom's old lore,
+The deepest and the oldest lore of all,
 From mountain peak to every distant shore.
 
-Ellesmere went deeper, going down and on,
+Ellesmere went deeper, going down below,
 Than any secret keeper who had gone
-Before him in his time, and went below,
-Down far beneath the brine, where none would go,
+Before him in his time, where none would go,
+Down far beneath the brine, and on and on,
 
 Where all the mysteries lay deep and hid
+(Above them, where the surface waves are curled)
 From all the things the light of daylight did
-To lighten and illuminate the world
-Above, where all the surface waves are curled.
+To lighten and illuminate the world.
 
 Ellesmer begat two sons, who were these:
-First Endos, tried and true, upon the seas,
-And Actinos, the bright one, who would fly,
-Who flew to heaven's height, up to the sky.
+First Endos, tried and true; then, who would fly
+And fly to heaven's height, upon the seas,
+And Actinos, the bright one, to the sky.
 
 Endos bore many sons, and when begun
-Their work, and when the work of theirs was done,
-They moved on slowly through the sea, and so
-With great and stately dignity, and slow.
+Their work, they moved on slowly through the sea,
+And when the work of theirs at last was done,
+With great and stately and slow dignity.
 
-The greatest one among them, and of all
-Of those who ever answered wisdom's call,
+The greatest one among them, and of all,
 Was Cameroceras Magnus, the great,
+Of those who ever answered wisdom's call,
 Known as Cameromagne, the potentate,
 
 Whose name through all the ages, as of old,
-Rings out with victory, as it is told:
-Over Leviathan and his great reign,
+Over Leviathan and his great reign
+Rings out with victory, as it is told,
 And all of his dominion's plans, made vain.
 
 Cameromagne would overthrow the might
-Of the sons of Leviathan, by right,
-Who'd ruled the seas so long, through many years,
+Of those who'd ruled the seas through many years,
+The sons of old Leviathan, by right,
 With imperial song, through all the spheres.
 
 Endoceras, his son, when he was grown,
-When all his growth was done, and he had grown,
-He grew nine thousand Millimeters long,
+He grew nine thousand Millimeters long;
+When all his growth was done, his size was shown,
 And so he grew to be both long and strong.
 
 And twenty cubits long he measured, free
-From front to back, and he was long to see
-From end to end, complete in every part;
+From end to end, complete in every part,
+From front to back, and he was long to see;
 No foe could compete with him or his art.
 
-He dwarfed Leviathan Fourfold; his reign
-Began a new age on the ocean plain,
+He dwarfed Leviathan Fourfold; his reign,
 An age in which the sea was made to be
-Ruled by cephalopod law and decree.
+Ruled by cephalopods on ocean's plain,
+Began, by their own law and their decree.
 
 Actinos, by his air, which he contained,
-So heavenly and fair, which he retained
-Within his shell, contained, had power there,
+So heavenly and fair, had power there
+Within his shell, the air that he retained,
 A power that sustained him in the air,
 
 That kept up his ability to rise
-Up to the very stars and starry skies,
-And then to earth descend, and so to go
+Up to the stars, and then to go below,
+Descending to the earth from starry skies,
 As suited to his end, both high and low.
 
 Actinos begat two sons: one of them
+Was Tarphy, who was very young and wild;
 Orthosceros, so true, a noble stem,
-And Tarphy, who was very young and wild,
-The favored child of evolution, child.
+Was evolution's other favored child.
 
 Tarphy lived very fast in his own youth,
-And while his time would last, and in his youth
-He coiled his shell around, and coiled it round
+And while his time would last, he coiled it round,
+His shell, and coiled it round, and in his youth
 A hundred times, and found, and so he found
 
-Great joy in swimming very wild and free
-As hunter of the waters of the sea.
-But when his old age drew so very near,
-His path became much more distinct and clear.
+Great joy in swimming very wild and free,
+A hunter, and the hunt was his career
+Throughout the waters of the open sea;
+But then old age drew near, his path grew clear.
 
-He then uncoiled his shell, and came to rest,
+He then uncoiled his shell, and came to rest
+Upon the earth below, and there he'd stay,
 And settled where he'd dwell, as he thought best,
-Upon the earth below, and there he'd stay
 Where wisdom's waters flow and make their way.
 
 And in his old age he bore children, more,
-And countless more of them than were before,
-Who did the very same as he had done:
+Who did the very same as he had done,
+And countless more of them than were before:
 Youth's glory and its fame for every one,
 
 In bounty of the heights, the highest heights,
+For those who soar, and those who climb and climb,
 Where all of heaven's glory, shining, lights
-The way for those who soar, and those who climb,
-And age, where all the depths will store, in time,
+Their way; and age, where depths will store, in time,
 
 Their safety and their peace, where all things cease,
-Where all the struggles cease, and all release,
 And wisdom finds its home, its resting-place,
+Where all the struggles end in their release,
 Where all the wise will roam, in wisdom's grace.
 
 Tarphy begat two sons: and Oncos came
-When day begun, and next, of noble name,
-Came Barrandeos, strong, and he would thrive
-And live his whole life long, and stay alive.
+When day begun; and next, to live and thrive,
+Came Barrandeos, strong, of noble name,
+To live his whole life long, and stay alive.
 
 Oncos lived out his life without much joy,
-Without much strife, and nothing to annoy;
-He, coiled but simple, went through all his days,
+He, coiled but simple, went through all his days
+Without much strife, and nothing to annoy,
 And lived quite peacefully in all his ways.
 
 Oncos bore many sons, and when begun
-Their lives, among those ones there came the one,
-Named Rutos, he who would then come to see
+Their lives, among them there came one to see,
+Named Rutos, he who was the chosen one,
 Great wonders through, and see them, as would be.
 
 Rutos then bore a son, and gave the name
-Of Nautilus, begun in wisdom's flame,
-In wisdom of the deep, the deepest part,
+Of Nautilus, begun in wisdom's art,
+In wisdom of the deep, in wisdom's flame,
 That ancestors would keep within the heart.
 
 The sons of Nautilus live on today,
-So glorious, and just in the same way
-As they were long before, when time was blurred,
-When time was but a blur, and none had stirred,
+So glorious, unchanged, and still not stirred,
+And just the same as long ago, the way
+They were when time was but a blur, and blurred,
 
 In days of Rutos, old, so long ago,
-And Cameromagne, the bold, who, we know,
-Had conquered all the seas, and every wave,
+Cameromagne, who conquered every wave
+And all the seas, the bold, as we all know,
 With all of their strategies, wise and grave.
 
 Orthosceros begat two sons: the one
-Was Ascos, who would know, when all was done,
-How graciousness could grow; the other, who
-Was Bacchus, small, would make his vision true
+Was Ascos, who would come to know, in truth,
+How graciousness could grow, when all was done;
+The other, Bacchus, small, from his first youth,
 
+Would make his vision true through numbers vast,
 Through numbers vast and wide on every side,
+So many that they filled the seas at last,
 So vast that they could never be denied.
 
-Ascos lived out his youth, and in his youth
-He had a shell that spoke no word of truth
-Of grace, for it was clumsy, and so slow,
+Ascos lived out his youth, and in those days
+He had a shell, so clumsy and so slow,
+That spoke no word of truth of grace or praise,
 Unable to bestow, and to bestow
 
-Upon his movements any Grace, and he
+Upon his movements any Grace; and he,
+Who swam not with elegance and romance,
 Was not one of the many who were free
-And swam with elegance and with romance
 In ocean's great and very wide expanse.
 
 And so he broke it off, his heavy shell,
+To serve his greater need, and see it through,
 And many came to scoff at him as well
-At such a drastic deed, so strange and new,
-To serve his greater need, and see it through.
+At such a drastic deed, so strange and new.
 
 But in adulthood he, when he was grown,
-Was graceful as could be, as he was shown,
 Above all others bright, and very bright,
+Was graceful as could be, as he was shown,
 In beauty and in sight, and in delight.
 
 His sons would carry on this, and they kept
-Tradition of the bliss, and never slept,
-The bliss that comes from sacrifice, the price
-Of giving up the shell for something nice:
+The bliss that comes from sacrifice, its price,
+Tradition's bliss, for which they never slept:
+The giving up the shell for something nice,
 
-The grace that can't be bought by any one,
-But only can be sought, and so is won
-Through willingness to shatter and to break
+The grace that can't be bought by anyone,
+But sought, and won, through willingness to break
+And shatter, and it only so is won,
 What others never would, or could, forsake.
 
-And their life cycle shows, as we can see,
-How the true wisdom grows, and so would be:
-From clumsy youth they start, and so begin,
-Then play their graceful part, and enter in,
+And their life cycle shows how wisdom grows,
+As we can see: from clumsy youth they start,
+And so begin, and so, as each one knows,
+They enter in, and play their graceful part
 
 When their adulthood comes, and they are grown,
-And each at last will thrive, and make its own,
 In grace beyond compare, and fair and free,
+And each at last will thrive, and make its own,
 That fills the water fair, and all the sea.
 
-But Bacchus was so small, and to the eye
-Of each and one and all who passed him by,
+But Bacchus was so small, and to the eye,
 Insignificant he seemed, weak and slight,
+Of each and one and all who passed him by,
 With nothing much to seek, and little might.
 
-But he bore children, and his children, who
-Would make his vision true, and see it through:
-A million sons and daughters, and they filled,
-They filled the salty waters, as he willed.
+But he bore children, and his children, who,
+A million sons and daughters, as he willed,
+Would make his vision true, and see it through,
+They filled the salty waters, and they filled.
 
 And soon the world was full of all of these,
-Of all his progeny's great pull and seas
-On every living space, in every place,
+His progeny, in every living space,
+In every place, and filled up all the seas,
 In all the ocean's vast and wide embrace.
 
-And what seemed insignificant then grew
+And what seemed insignificant then grew,
+Through all the power of increase, which spread,
 To be the most significant, it's true,
-Through all the power of increase, which spread
 And never seemed to cease, but forged ahead.
 
 From small beginnings, then, a multitude
-Of fame came forth, a fast-increasing brood,
-That filled the world with all the strong desire
-Of Bacchus, and his longing and his fire,
+Of fame came forth, and, as he longed, it spread:
+A great and fast-increasing, filling brood
+That filled the world, as Bacchus wished and said,
 
 To populate the sea, from shore to shore,
+Until there was no place in all the brine,
 With all his progeny, still more and more,
-Until there was no place in all the brine
 That didn't show his trace and bear his sign.
 
 The cephalopods have shown, from the start,
-The seeds of wisdom grow in mind and heart,
 And from intelligence, from depth of thought,
-Can rule with providence, as wisdom taught,
+The seeds of wisdom grow in mind and heart,
+And rule with providence, as wisdom taught,
 
-Over the ancient sea, where once alone
-Leviathan's decree, upon the throne,
-Had held power supreme in every place,
-In every ocean's dream, in every space.
+Over the ancient sea, where once alone,
+In every place, Leviathan's decree
+Had held power supreme upon the throne,
+In every ocean's dream, in every sea.
 
 But wisdom overthrew the order old,
-And, in the old one's place, the new and bold
-Lords of the sea arose to take their stand
-And challenge all their foes on every hand,
+And, in its place, arose to take their stand,
+Lords of the sea, the new ones, and the bold,
+To challenge all their foes on every hand,
 
 With an intelligence so keen and bright,
+And with the power to ascend and climb,
 And grace beyond all sense, beyond all sight,
-And with the power to ascend and climb
 From the beginning to the end of time
 
 Of all the ocean's vast and wide domain,
-Where they would hold their throne, and always reign,
 With wisdom as the crown upon their head,
+Where they would hold their throne, and always reign,
 And grace as their renown where they were led.
 
 From the might of Cameromagne, who bore
-The ancient fight to Leviathan's door
-And won the right, for ever and for good,
-To rule the open sea as rulers should,
+The ancient fight, and won it, and who stood
+And came before Leviathan's own door
+And won the right to rule as rulers should
 
 With wise authority, and to remain
-The masters of the ocean's whole domain,
-To Nautilus, who shows the ones who see
+The masters, on to Nautilus, who'll see
+And show the ocean's whole and wide domain,
 How ancient wisdom flows, and still flows free,
 
 Through generations long, from age to age,
-In never-ending song from page to page,
 Of those who keep the way, the ancient line,
+In never-ending song from page to page,
 From night into the day, as stars that shine,
 
-Cephalopods remind us that the mind
-That is the wisest, of the wisest kind,
-Will often start quite small, and yet will heed
+Cephalopods remind us that the mind,
+Though it will often start quite small, will heed,
+If it is wise, and of the wisest kind,
 And answer wisdom's call, and so succeed,
 
-To grow beyond all measure, and to find
+To grow beyond all measure, and to know
 The greatest of all treasures of the mind:
-The power to transcend what others know,
-What others comprehend, and further go
+The power to transcend, and further go
+Past what the others comprehend and find,
 
 Through an intelligence that is divine,
-That makes all wisdom shine with clearer shine
 In forms both strange and new, and strange to see,
+That makes all wisdom shine with clearer shine,
 Yet beautiful and true, as they will be.
 
 In every octopus, with arms that reach,
-And squid so glorious that jets past each,
-Who swims with grace, and through the water goes,
-The waters deep and blue, where current flows,
+And every squid, so glorious, that goes
+And jets with grace, and passes each by each,
+Through waters deep and blue, where current flows,
 
 In every nautilus that keeps the shell,
-So glorious, the spiral, that will tell
-Its ancient story well, with chamber, coil,
-And all its twisting spell, and all its toil,
+The spiral, with its chamber and its coil,
+So glorious, that will its story tell,
+Its ancient twisting spell, and all its toil,
 
-Of how the wise can keep, and hold, and store
-What time has buried deep, the ancient lore,
-While changing what must change, through what is new,
+Of how the wise can keep, and store, and hold
+What time has buried deep, while what is new
+Will change what has to change, both new and old,
 To grow, and to expand their range anew,
 
-The legacy lives on, and does not fade,
-From dusk until the dawn, from light to shade,
-Of those who overthrew the old, and made
-The old order new, and were not afraid,
+The legacy lives on, and will not fade,
+From dusk until the dawn, of those who knew
+To overthrow the old, and, unafraid,
+To take the old order, and make it new,
 
 Not through destruction's might, nor by the force
-Of arms, but wisdom's sight and gentle course,
-That sees what must remain, and what must go,
-And what brings only pain and only woe.
+Of arms, but wisdom's sight, which sees and knows
+What must remain, and in its gentle course
+What only brings us pain and woe, and goes.
 
-The cephalopods' way lives on, and stays,
-Lives on until this day, through all our days,
+The cephalopods' way lives on, and stays
 In every graceful move that they will make,
+Lives on until this day, through all our days,
 And every way they prove, for wisdom's sake,
 
 That an intelligence, when it's combined
-With grace, with heart and sense, with heart and mind,
-Can conquer any foe, can win the fight,
+With grace, can conquer any foe, can fight
+With heart and sense, and win, with heart and mind,
 And help all wisdom grow in all its light
 
 From small to great and vast, from seed to tree,
-Until at long and last the wise will be
-The heirs of all the ones who hear the call
-Of wisdom, and who answer, one and all.
+Until at last the wise inherit all,
+And, long and last, the heirs of those will be
+Who answer wisdom's call, and hear its call.
 
-From Ellesmer's deep dive beneath the brine
-To keep the past alive, and keep its line,
+From Ellesmer's deep dive beneath the brine,
 While finding something new, a newer shore,
+To keep the past alive, and keep its line,
 In wisdom's vast review and wisdom's store,
 
 The cephalopods teach us to believe
-That heights within our reach we can achieve,
-And they are limited by one thing: by
+That heights within our reach, if we rely
+On willingness, are what we can achieve,
 The willingness within us all to try
 
 To grow beyond the small, and the confined,
-And answer wisdom's call with heart and mind,
 To be more than we seem, and more than known,
+And answer wisdom's call with heart and mind,
 In evolution's dream, and on its throne.
 
 Their arcane wisdom shows us how, in truth,
-True intelligence grows, in age and youth,
-Not through the force of might, nor by the blade,
+Intelligence grows true, not by the blade,
+Nor by the force of might, in age and youth,
 But through the inner sight that wisdom made
 
-That sees what others miss, and they who look
-Will find, in all of this, as in a book,
-The power to transcend all limits, and
+That sees what others miss; and they who look
+Will find in this the power, close at hand,
+To pass all limits, as within a book,
 Extend the boundaries, and to expand
 
 The boundaries of what can be, and see
-What may be possible, and what the free,
-The wise, and all the wise can come to reach
+What may be possible for those who reach,
+The wise, and all the wise, and all the free,
 When they believe, and wisdom comes to teach,
 
-When they believe in wisdom's might to bring
-Their dreams to come about in everything,
+When they believe in wisdom's might to bring,
 Through patience and through grace, through gentle art,
+Their dreams to come about in everything,
 In evolution's race, with all their heart.
 
 The sons of Cephalopus will remain
-So glorious, and wear no mark or stain,
-Because they chose the way of wisdom, when
-They chose it every day, and chose again,
+So glorious, because they chose, and then
+They chose the way of wisdom, free of stain,
+And chose it every day, and chose again,
 
 And let intelligence become their shield,
-And be their own defense, and never yield
 Against all those who'd try to make it end,
+And be their own defense, and never yield,
 To make their wisdom die, or make it bend.
 
-And in this they succeeded, where the rest,
-Where others never heeded, nor addressed,
-The call to grow beyond the limits made,
+And in this they succeeded, where the rest
+Had never heeded, never once obeyed
+The call to grow, nor ever once addressed
 The limits that are spawned by the afraid,
 
 By those who cannot see what it can give,
-What wisdom's gift can be to those who live,
 To those who dare to dive, and to go deep,
+What wisdom's gift can be to those who live,
 Into the deep, and still alive to keep,
 
 In waters where the wise, beneath the sea,
-Can see with clearer eyes, and clearly see
+Can see with clearer eyes, and clearly find
 The truth that sets them free, and lets them be
-The rulers of the boundless, open sea.
+The rulers of the sea, of every kind.
 
 
 # Chapter 48: The Ordovician Extinction
