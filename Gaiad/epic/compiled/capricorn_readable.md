@@ -4186,358 +4186,358 @@ From beauty's endless flow across the main.
 # Chapter 43: The Golden Age Begins
 
 While Trilobites were ruling all the seas
-With their great dynasties and their decrees,
-The rivers flowed along so wide and free
-For lesser brethren, out upon their spree.
+With all their dynasties and all their might,
+The rivers flowed, far from their stern decrees,
+For lesser brethren, out in free delight.
 
 The sons of Arachnus had ruled the sea,
-Where they would school their children, and would see
-Them taught in every skill and every art
-Of how to play their own sea-dweller's part.
+Where they would school their children in each art,
+And there they would be taught, and they would see
+How they should play their own sea-dweller's part.
 
 The sons of Insectus then took the streams
-And rivers, like a book of open dreams,
-Of opportunities that they could use
+And rivers, like a book that they could use,
+Of opportunities, of open dreams,
 For their communities to make and choose.
 
 The sons of Cain and Abel would command
-And rule the lands, and they were able, and
-Could make their living there, upon the ground,
+And rule the lands; their living could be found,
+For they were able there, upon the land,
 In the terrestrial air all around.
 
-And so Crustaceus looked around and saw
-No place at all that was without a flaw
-Where he could make his stand and build and stay,
+So Crustaceus looked around and saw
+No place at all where he could build and stay,
+Where he could make his stand without a flaw,
 In sea or stream or land, in any way.
 
 Yet though there was now nowhere left to go,
-He tried in spite of all the grief and woe
-To found and to establish his own line,
+He tried to found his own and noble line,
+In spite of all the grief and all the woe,
 A dynasty that would be great and fine.
 
 For {{x|Heaven}} gives reward unto the heart
+That rises up above its plight and pain,
 That plays the steadfast and determined part,
-To rise above its plight and all its pain
-And reach for greater height, and so attain.
+And reaches for a height it can attain.
 
-Crustaceus then begat a pair of sons,
-Karkon, and Mushi too, the two young ones;
-And each of them was meant to find his way
-Through all of life, from passing day to day.
+Crustaceus begat a pair of sons,
+Karkon and Mushi, meant to find their way;
+And each of them, the two of them, young ones,
+Went on through life, from passing day to day.
 
 Mushi begat two sons. When day begun
-Came Copepus, who was the elder son;
-The other, Lepipus, was very strange
-Throughout the whole of all his living range.
+Came Copepus, the elder, first in range;
+The other, Lepipus, the younger son,
+Throughout the whole of all his life was strange.
 
 Copepus became the sire and head
-Of copepods, a choir that he bred,
-The little ones, so very small they seem,
+Of copepods, so very small they seem,
+The little ones, a choir that he bred,
 Who answer ocean's call in every stream.
 
 And Insects of each and every form,
+They swam throughout the waters of the sea,
 Through calm and through the wild and raging storm,
-They swam throughout the waters of the sea
 In their complexity, abundant, free.
 
 The tiniest of all in their array,
+They dance on through the waves, and in them dwell,
 Who hear the ocean's call by night and day,
-They dance on through the waves, and in them dwell
 In microscopic graves, each in its shell.
 
 Lepipus meanwhile bore, in his own turn,
-Two sons, who would explore and roam and learn:
-One, Brachios, who swam within the sea,
-And Silvio, who went out running free.
+Two sons, who would explore and roam and run:
+One, Brachios, who swam the sea to learn,
+And Silvio, who ran free in the sun.
 
 A daughter of Silvio would one day
-Help on the flow of insects, and the way
-They went out of the waters to the land,
+Help insects from the waters to the land,
+And help along their flow and show the way,
 All guided by the slow, evolving hand.
 
 Some day, some many millions of years hence,
-The sons of Silvio, by their own sense,
-Would come to be the great and mighty kind,
+The sons of Silvio, the mighty kind,
+Would come to be, by their own inner sense,
 The Insects that would dominate, and find
 
-Their way across the world in every place
-With all of their six-legged speed and grace.
-But that day was not near; they had to bear
-And persevere through all their time of care.
+Their way across the world, and they would bear
+Six legs, with all their speed and all their grace;
+But that day was not near; through time of care
+They had to persevere in every place.
 
-And Brachios became the father of
-Sea monkeys (why should anyone think of
-Such complex names for them?), and many more:
-Water fleas, a crowd of them by the score.
+Brachios became the sire of these:
+Sea monkeys (who would think to name them so?),
+And many more besides: the Water fleas,
+A crowd of them by the score, row on row.
 
 In their own natural habitat they lay,
-And lived in this and that and every way:
 Sea monkeys in the waters of their pools,
+And lived in this and that and every way,
 And water fleas who shone like little jewels,
 
 Who danced on through the water, swift and bright,
+And lived their simple lives in every place,
 Each son and every daughter, day and night,
-Living their simple lives in every place,
 Where small beauty thrives in a little space.
 
-Karkon then fled away, and made his home
-In open waters gray, where he would roam,
-And there he would beget two sons, and more:
+Karkon then fled away, and made his home,
+And there he would beget two sons, and more,
+In open waters gray, where he would roam:
 First Pancer, who was set out to explore,
 
 And then Cephalocaridus, a son
-Most glorious and splendid, every one
-Of them would find his own and separate way
+Most glorious and splendid; and the way
+Each one was separate from every one,
 Through all of life, from day to passing day.
 
 Pancer begat in time, when it was due,
-Two sons, and they were in their prime, these two:
-Oligostracus, who was very small,
+Two sons, and in their prime, both great and small:
+Oligostracus, the first of two,
 And Polycruster, who stood very tall.
 
-Oligostracus bore sons to explore
-The waters far and wide, from shore to shore;
-With courage as their guide they went their way,
-And swam the open waters night and day.
+Oligostracus' sons would explore
+With courage as their guide, and go their way
+Across the waters wide, from shore to shore,
+And swim the open waters night and day.
 
 Among his sons, it seems, there could be found
-The seed shrimp, who were safe and who were sound,
-Degenerate tongue worms, who broke away
-From all the proper norms, and went astray.
+The seed shrimp, who were safe; but some gave way,
+Degenerate tongue worms, who were not sound,
+Who broke from all the norms and went astray.
 
-These tongue worms chose to live as parasites
-Who never give in trade by any rights
-A single thing back to the ones they take;
-Poor choices are the choices that they make.
+These tongue worms chose to live as parasites,
+Who take, and give back nothing that they take;
+They never give in trade, by any rights,
+And poor the choices are, the ones they make.
 
-Instead of going out to get their jobs
-Like all the others, like the honest mobs,
+Instead of going out to get their jobs,
 They live upon the toil of others' work,
+Unlike the others and the honest mobs,
 And in the shadows and the darkness lurk.
 
 Polycruster begat two sons, and these
-Were Barnacus, begotten on the seas,
-And Malacus the strong, who was to thrive
-And all his whole life long remain alive.
+Were two who were to thrive and to survive:
+First Barnacus, begotten on the seas,
+And Malacus, all his life long alive.
 
-Barnacus was a man who made his way
-And had a frontier plan in his own day;
-A great frontiersman, he lived on and on,
+Barnacus was a man who made his way,
+A great frontiersman, living on and on,
+And had a frontier plan in his own day,
 And lived quite happily from dusk to dawn,
 
 Settled down with his stalk upon the ground,
+To live instead, held fast in one fixed bed,
 No more to walk or wander all around,
-But live instead, held fast in one fixed bed,
 Like cnidarians that were born and bred.
 
 Like all the sons who were of Cnider's line,
-He lived his life in a way that was fine,
 Attached unto the ground, in his one place,
+He lived his life in a way that was fine,
 Where he had settled down and found his space.
 
 Barnacus bore a son, and when the day
-Began, he named him Goose, so people say.
-Great Goose was he, who built society,
+Began, he named him Goose; and he would be
+Great Goose, who built society, they say,
 In wondrous and in rich variety;
 
 But all the same, the truth must still be told:
-No matter how he tried, so brave and bold,
 With all of his own foolish pride and art,
+No matter how he tried, so brave and bold,
 He never did become, in any part,
 
 A goose, though there are some who claim him still,
-And claim his lineage, and always will,
 And say his heritage was of the geese,
+And claim his lineage, and always will,
 And that his line goes on and does not cease.
 
-And Goose still claimed his sons were geese, when day
-Began, and so he is the guide, they say,
-The guide of geese, with sacred pride, the one
+And Goose still claimed his sons were geese; and so
+He is the guide of geese, they say, the one
+With sacred pride who leads them as they go,
 Who leads them on beneath the rising sun.
 
 He is the Eloh of the Geese, the guide
-Who brings to them sweet peace, and at their side
-He guides them on their way through all their flight,
-Throughout each passing day and every night.
+Who brings to them sweet peace through day and night;
+He guides them on their way, and at their side,
+Throughout each passing day, through all their flight.
 
 And in the old medieval lore they told
-(And tell much more than this, from days of old)
 Of how it was the geese would rise and grow
+(And tell much more than this, from days of old)
 From barnacles that clung on down below,
 
-Hanging upon the branches of the trees
-In shells that swung upon the passing breeze,
+Hanging upon the branches of the trees,
 Until the time they could grow their feathers,
+In shells that swung upon the passing breeze,
 In winds and rains and all kinds of weathers,
 
 And then they flew away from there at last,
-When all their time of growing had gone past.
-The chronicler Gerald of Wales has told
+So says the chronicler of whom we're told,
+Gerald of Wales, who wrote it in the past:
 This story that was handed down of old.
 
 Of the sons of Goose there would be many
+Who grew quite small, compact in every way,
 Who let their size go loose, more than any,
-And grew quite small, compact in every way,
 And one and all they shrank down in their day.
 
-They then became the Barnacles, and they
-Were like small-scale miracles in their day,
+They then became the Barnacles, and they,
 Half shrimp, half coral, all in one combined,
+Were like small-scale miracles in their day,
 Full animals with moral lives aligned
 
 Upon the rock, like shepherds who would keep
-And tend their flock of goats and gentle sheep;
-They filter out their food from sea all day,
+And tend their own; they filter food all day
+As if it were a flock of goats and sheep,
 And live quite happily in their own way.
 
 Malacus bore so many sons; his line
-Had more Descendants than one could define
-Or count throughout the long and passing years,
+Had more Descendants than the passing years
+Could count, or any one could well define,
 Through all their many joys and all their tears.
 
 Among them there were crabs, so very bold,
-And shrimp whose stories have been often told
-Of grace and beauty underneath the waves,
+And shrimp of grace and beauty in the waves,
+Whose stories have been very often told,
 In all their deep and hidden ocean caves.
 
 The isopods were there in all their throng,
+Each playing in its time its proper part,
 And amphipods were everywhere along,
-Each playing in its time its proper part
 In evolution's great and growing art.
 
-They would become a dynasty so great
-And so expansive in their spree and state
-That none could match their might in all their days
+They would become a dynasty so great,
+So vast that none could match them all their days,
+Expansive in their spree and in their state,
 In future's shining sight and in its gaze.
 
 So great were they that now, when we would speak
-Of Crustaceus and all of his mystique,
-We speak at first and foremost of the host
-Of Malacus, the great, who matters most,
+Of Crustaceus, we speak of the host
+Of Malacus, of all his great mystique,
+The great, of all of them, who matters most,
 
 Whose dynasty was still, as yet, to reach
-The glory that was set for it, and each
-Of them would wait until the coming time
-When all of them would come into their prime.
+Its glory, which was set for it in time;
+And waiting for the coming time was each,
+Till all of them would come into their prime.
 
-Under the Trilobites' yoke and sway
+Beneath the yoke of Trilobites, their sway,
+Awaiting all the while the day to be,
 They lived like gentle folk from day to day,
-Awaiting their great day, when it would be
-That they would lead the way across the sea.
+Till they would lead the way across the sea.
 
-But patience is the key, and it will hold
+But patience is the key, and it will hold,
+And the crustaceans waited, and would bide,
 To life's great mystery, as it is told;
-The crustaceans would wait, and they would bide
-For their appointed fate, and would abide.
+For their appointed fate they would abide.
 
-And from Crustaceus' start, the very source
-Of all, with his determined heart and force
-To rise above his plight and all his woe
-And reach for greater height and greater glow,
+And from Crustaceus, the source and start
+Of all, who rose above his plight and woe,
+With his own force and his determined heart,
+And reached for greater height and greater glow,
 
 Came lineages that were very strong,
+That fill the seas with all their many forms,
 That would last on throughout a lifetime long,
-And fill the seas with all their many forms
 Through calm and through the wild and raging storms:
 
 The copepods, so very small and slight,
-Who answer ocean's call by day and night,
-The barnacles that cling upon the rocks
+The barnacles that cling upon the rocks,
+Who answer, each, the ocean's call by night,
 Like shepherds watching over all their flocks,
 
 The crabs that bear their claws, so very strong,
-The shrimp that swim along the whole day long
 Upon the ocean's currents, wild and free,
+The shrimp that swim along the whole day long,
 All from one single family and tree,
 
 That started with one soul, who was so brave,
+Who reached for something greater and higher,
 One Soul who never once would bend or cave
-To circumstances, though they were so dire,
-Reached up for something greater and higher.
+To circumstances, though they were so dire.
 
 In every tiny copepod that goes
-And dances like a small god as it flows
 Throughout the waters of the ocean blue,
+And dances like a small god as it flows,
 Remember what it is that has been true:
 
 That size cannot determine or define
-What spirits can affirm in their design.
-The smallest ones can grow to become great
-If they will only not delay and wait
+What spirits can become, or seal their fate;
+The smallest ones, by their own heart's design,
+Can grow, if they will not delay and wait
 
 To try in spite of all the many odds
-Against them, trusting in the mighty gods
-And so reward all determination,
-In each and every generation.
+Against them; for in each generation,
+Trusting the mighty gods, in turn the gods
+Reward all of their determination.
 
 In every barnacle that clings and grows
-Upon the rocks, like miracles, in rows
 Upon the rocky shore, where all the waves
-Will evermore come crashing on the caves,
+Like miracles come in, in endless rows,
+And evermore come crashing on the caves,
 
 And crash and spray and foam upon the stone,
-Remember those who roam, but not alone
-Through space, but who have traveled on through time
+Remember those who traveled on through time,
+Who roam, but not through space, and not alone,
 To find their perfect rhyme, and find their chime,
 
 With life's eternal song, that, as it plays,
-Will carry us along through all our days,
 And through our trials here in every year,
+Will carry us along through all our days,
 To what we hold most near and hold most dear.
 
-The sons of Crustaceus now show the way
-How those who will not bow, and will not sway
-To circumstance or fate, or to its weight,
+The sons of Crustaceus show the way
+How those who will not bow to fate or weight
+Of circumstance, and those who will not sway,
 Can rise to something great, however late.
 
 And though the Trilobites had held their sway
-Within that ancient day, so far away,
-The future would reveal, as it would show,
-What time would help to heal and help to grow:
+Back then, the future would reveal and show
+What, in that ancient day, so far away,
+Time would begin to heal and help to grow:
 
 That patient and enduring persistence,
-And steady, faithful, and true existence,
 Will triumph in the end and win the day,
+And steady, faithful, and true existence,
 When time becomes our friend along the way.
 
 And from the rivers out into the sea,
+The crustaceans would one day come to rise,
 And out of bondage, out into the free,
-The crustaceans would one day come to rise
 And claim the destined prize before their eyes.
 
 But that is yet to come, and lies ahead,
-When all the current ages, it is said,
-Will sum their lessons into wisdom, known
+When all the current ages will have grown
+Into a sum of lessons, it is said,
 In life's eternal kingdom as its own.
 
 For now they wait and grow in every place,
+To be prepared and ready for the day,
 And learn what they must know to run their race,
-To be prepared and ready for the day
 When they will be the ones to lead the way.
 
 In patience they will find the strength to wait,
+The preparation that they have needed,
 And find in time, at length, at their own rate,
-The preparation that they have needed
 For when at last their time has succeeded.
 
-For {{x|Heaven}} gives reward to all who try
-To reach beyond the high and present sky
-Of present circumstance, and so advance
+For {{x|Heaven}} gives reward to all who try,
+Past present circumstance, and to advance,
+To reach beyond the high and present sky,
 Into the future's great and greater dance.
 
-Crustaceus has shown us all the way
-That leads us to a greater, brighter day:
-Determination that is strong and true
+Crustaceus has shown us all the way:
+Determination that is strong and true,
+That leads us to a greater, brighter day,
 Will see all struggles and all hardships through.
 
 His sons throughout the sea will carry on
-And live eternally, though he is gone,
-As proof that those who dare, and do not fear,
-To dream beyond despair, and persevere,
+And live eternally, as proof, and clear,
+Though he himself has long been dead and gone,
+That those who dare to dream, and persevere,
 
-Will find their rightful place, and they will stand
-In evolution's race across the land
+Will find their rightful place, and they will stand,
 When time reveals at last, as it is cast,
+In evolution's race across the land,
 The future from the past, so long and vast.
 
 
