@@ -38969,6 +38969,11 @@ who watched him die said "Truly this man
 was the {{c|2549|Son of God}}." They took him down
 at sunset, before the {{x|Sabbath}} ran.
 
+Ten thousand thirty, Pisces twelve, the eve
+of {{c|2543|Passover}}, the fourteenth of Nisan,
+a Friday, when the lambs were killed; we grieve:
+and he was killed among them as a man.
+
 {{c|2550|Joseph of Arimathea}} provided
 a new tomb, cut in rock, nearby.
 They wrapped him in linen with spices,
@@ -38978,6 +38983,11 @@ On the third day, the women came
 to finish the anointing at dawn.
 The stone was rolled away. The tomb
 was empty. His body was gone.
+
+Ten thousand thirty, Pisces fourteen, dawn,
+a Sunday, our third Easter, and the day
+the women found the tomb, his body gone,
+the morning that the stone was rolled away.
 
 Angels said "He is not here, he is risen."
 {{c|2551|Mary Magdalene}} met him in the garden
