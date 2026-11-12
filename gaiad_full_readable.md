@@ -8375,7 +8375,7 @@ Greater and greater, and more richly glow
 Under Ordovician power and might.
 
 Beneath the dynasty of wisdom's reign,
-The first Golden Age began, and so it came,
+The first great Golden Age began; it came,
 Of wisdom's sovereignty, in its domain,
 Upon life's endless page inscribed by name.
 
