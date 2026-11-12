@@ -12072,394 +12072,454 @@ We are, each one, what we will choose to be.
 # Chapter 51: The Sea Scorpions
 
 Eurypter's sons would then Usurp, as none
-Could do, the sons of Cephalus, and won,
-And ruled victorious in their domain
-Where those whom they had conquered used to reign.
+Could do, the sons of Cephalus, to reign,
+And ruled, victorious, when they had won,
+Where those they conquered once had their domain.
 
 Eurypter married fair Pulmona, who
-Was Beloved everywhere; but then the two
-Would disagree on what their name should be,
-And neither one would yield, nor would agree.
+Was Beloved everywhere; but on the name
+That they should bear, they disagreed, the two,
+And neither one would yield, nor say the same.
 
-Each had their own design, each their own claim
+Each had their own design, each their own say
 For their ancestral line, and for its name:
 "Eurypterids," was what he'd always say;
-"Arachnopulmonates" was her own way.
+"Arachnopulmonates," was her own claim.
 
-Eurypter and Pulmona bore a pair
-Of children like no others anywhere:
-Eurypteron, and Styloner, begun
+Eurypter and Pulmona bore a pair,
+Eurypteron and Styloner, begun
+As children like no others anywhere,
 In rivalry so deep that there was none
 
 Who ever could keep Peace between the two,
-Who each walked different paths, as each one knew.
+For each would go his way, and walk his road,
+Who each walked different paths, as each one knew,
+And neither one would share the other's load.
 
 Eurypteron and Styloner would fight
-Like no two other siblings, with their might
-And power, for all things that could be bought,
+For all the things that could be won or bought,
+Like no two other siblings, with their might,
 Throughout the day and night, as on they fought.
 
 Their mother died, and they could not decide
-Who would inherit all, by honor's guide.
+Who would inherit all, and who would be
+The one, by honor's law and honor's guide,
+To take her whole estate, and so be free.
 
-Eurypteron laid claim upon the skies,
-While on the land were set Styloner's eyes,
-The land that he had built with his own hand.
+Eurypteron laid claim upon the skies;
+On land, which he had built with his own hand,
+Styloner set his heart and set his eyes.
 So Eurypteron flew, as he had planned,
 
 Across domains he knew were his by birth,
-While Styloner would walk upon the earth
-And claim each step he took, as by the book
-Of law and heritage; but each would look
+And claimed them as by law; and, by the book
+Of heritage, he walked upon the earth,
+Did Styloner; but each of them would look
 
 Upon it differently, although the two
-Were brothers who had shared one mother too.
+Were brothers born, and from one mother came,
+And though they shared one mother, as they knew,
+They never saw one world, nor saw the same.
 
 Eurypteron, in flight across the sky,
-Began a dynasty of those on high
 Who ruled where winds blow high above the earth,
+Began a dynasty of those on high,
 And from the moment of their very birth
 
 To death's appointed day, they'd hold their sway,
-And they would rule the sky in their own way.
+And they would rule up there, above the ground,
+And they would rule the sky in their own way,
+Wherever winds were blowing all around.
 
 Eurypteron begat two sons: the strong
-Diploper, and Eurypterus, who, long
-In his fertility, went far beyond
-What any could in like measure respond.
+Diploper, and Eurypterus, beyond
+All others in fertility, who long
+Would go past any measure to respond.
 
 His numbers were his treasure; he was most
-Fertile, Eurypterus, of all the host
-Of Silur's noble sons; and with each one
-Of generations, as each was begun,
+Fertile of all; and with each single one
+Of generations, he, of all the host,
+Eurypterus, as each one was begun,
 
-His house would grow ten thousand-fold, and so
-His numbers multiplied, and they would go
+His house would grow ten thousand-fold, and so,
 Beyond what any other line could try,
+His numbers multiplied, and they would go
 In all of space and time, beneath the sky;
 
-Myriad-fold they grew, a multitude
-Of offspring tried and true, a mighty brood.
+Myriad-fold they grew, a multitude,
+And filled the waters of the sea and shore,
+Of offspring tried and true, a mighty brood,
+And grew, and grew, and multiplied the more.
 
-Diploper then begat two sons: the one
-Waeringos, tried and true, when day begun,
-And Carcinos, the strong one, who would last
-And live his whole life long until it passed.
+Diploper then begat two sons: the one,
+Waeringos, tried and true, the first to last;
+And Carcinos, when day had now begun,
+The strong one, lived his whole life till it passed.
 
 And Waeringos begat two sons, and then
-Those two were sons beyond all common ken:
-Humiller, who was strong and who was brave,
+Humiller came, who was so strong and brave,
+A son beyond the common, mortal ken,
 And Adelops, who later on would save
 
 His line, through numbers vast, so that it would
-Forever last, as numbers only could.
-Small Adelops would answer duty's call
+Forever last; and he would heed the call
+Of duty, small, as numbers only could,
 With many children, who were, one and all,
 
-Resilient, and were true, and they would be
-As tenacious as bugs beneath the sea.
+Resilient, and were true, and they would be,
+As small things are, so hard to break or kill,
+As tenacious as bugs beneath the sea,
+And they would hold on fast, and hold on still.
 
 Humiller married Pterra, one so fair
-In beauty and in grace, beyond compare,
-And in their dwelling place, together, one
-Son did they bear, when day was first begun:
+In beauty and in grace, and in their place,
+Together, in their dwelling, they would bear,
+When day was first begun, one son of grace:
 
 Slender, and fast, and sly, he'd rule, and dwell
-Beneath the sky, and in the depths as well.
-They named him Slimon, though his fate was great,
+Beneath the sky, and in the depths, and great
+His fate; they named him Slimon; none could tell
 Beyond what they could know, or they could state.
 
-Slimon would bear a son, whose work would show,
-When it was done, the massive claws that grow
-By nature's laws out of his mouth; when grown,
+Slimon would bear a son, whose work would show
+The massive claws that from his mouth were grown
+By nature's laws, and when the son would grow,
 From north down to the south his might was known.
 
-He named this son Clawbert at first; but there
-A strike of lightning burst, bright in the air,
-That filled the world with sight. And Slimon saw
+He named this son Clawbert at first; but bright
+A strike of lightning burst; and Slimon saw,
+There in the air, that filled the world with sight,
 The sign from the divine, and, filled with awe,
 
 He changed his son's name, and the son became
-Pterygo, the name of power and fame.
+Pterygo, the sign of strength and of might,
+A name of power and of lasting fame,
+For he was born beneath the lightning's light.
 
 The sons of Pterygo were rulers, high
-And low, of all Eurypterids; and by
-Their speed and strength, their power bade the earth,
-From shore to shore, to bow before their worth.
+And low, of all Eurypterids; the earth,
+By speed and strength and power, by and by,
+From shore to shore, would bow before their worth.
 
 And they were Regal in their way, and they
-Would rule both through the night and through the day.
+Were proud and royal, all their whole line long,
+And they would rule by night and rule by day,
+And reign throughout the waters, great and strong.
 
 His youngest son was Scorpio, begun
-As an explorer of the new, the one
-Whose vision was so clear and true, and who
-Saw that no land was left, of all he knew,
+As an explorer of the new, and who,
+With vision clear and true, became the one
+Who saw no land was left, of all he knew,
 
 For his command; his older brothers still
-Had claimed it all, and none of bolder will
-Could challenge their right to rule with their might
-The territories vast that they held tight.
+Had claimed it all, and held it all so tight,
+And none, however bold, of bolder will,
+Could challenge them, and challenge their own right.
 
 And Scorpio, from his watery nook,
-Out of the sea up to the land would look,
-The land not built by any hand, but there,
+Out of the sea, up to the land out there,
+Not built by any hand, would turn to look,
 And waiting to be claimed by one who'd dare,
 
 Who could be named the first to make the leap
-Out from the waters, which were dark and deep.
+Up from the sea, to go where none had been,
+Out from the waters, which were dark and deep,
+To lands no living thing had yet been in.
 
-Scorpio ventured up, with in his heart
-A warrior's cup of courage, for the part
-Of pioneer, which he had come to play;
+Scorpio ventured up, and in his heart
+A warrior's cup of courage, on his way
+To be a pioneer and play the part;
 And his book gills became book lungs that day.
 
-And so his name would live on evermore
-From mountain peak down to the farthest shore.
+And so his name would live on evermore,
+And all of us would come to know his name,
+From mountain peak down to the farthest shore,
+The first to leave the sea, the first who came.
 
-He claimed the lands of might, and all in sight
-Of Euramerica, as his by right,
+He claimed the lands of might, and all in sight,
 For him and for his own descendant line,
+Of Euramerica, as his by right,
 Through favor granted by the one divine,
 
-Who favors those who dare, who venture where
+Who favors those who dare, who venture where,
+To open possibility's wide door,
 No one has gone before, and everywhere,
-To open possibility's wide door
 For all humanity, and, what is more,
 
 For every living thing that answers to
-The ring of life, as living things will do.
+The call of life, and every living kind,
+The ring of life, as living things will do,
+With all their heart, and all their soul and mind.
 
 His sons today, as scorpions, are known,
-And in their way still carry, as their own,
-The torch of those who through the virgin land
-Would scorch new paths, all built by their own hand,
+And in their way they carry, in their hand,
+The torch of those who carried, as their own,
+New paths they scorched throughout the virgin land,
 
 From nothing into all that, at the call
-Of courage, answers it, and gives its all.
+Of courage, comes, and answers when it calls,
+And answers it, and gives to it its all,
+And never fails, and never fears, nor falls.
 
-Styloner married Rhena, and their names
-Fate's pen would write in evolution's games.
+Styloner married Rhena, and their names,
+Of both of them, together, as they wed,
+Fate's pen would write in evolution's games,
+And write the line that from the two was bred.
 
 Together they bore two: the first, so true
-And tried, Makoko, and the second, who
-Was Stylonurus, who was always strong
-And who would live and thrive his whole life long.
+And tried, Makoko; and the other one
+Was Stylonurus, strong, who would live through
+And thrive his whole life long, till it was done.
 
 Makoko would beget two sons, and then
-These two were sons beyond all mortal ken:
-Mycter and Kokomo, who were to go
+Mycter and Kokomo, who were to go,
+These two, beyond all of the mortal ken,
 High in the world, as destiny would show.
 
 Mycter begat two sons: the first to roam
-And to explore was Flumon, far from home;
-And Drepan, strong and true, would come to know
-The different pathways where his feet would go.
+Was Flumon, to explore; and, strong and true,
+Was Drepan, who, while far away from home,
+Would know the paths his feet would travel through.
 
-Flumon could find no luck at all, for he
+Flumon could find no luck at all, for he,
+Among the dozens of his cousins there,
 Was stuck among his brothers in the sea,
-And cousins, too, who by the dozens there
-Had claimed the seas for their own use; to share
+Who claimed the seas for their own use; to share
 
-They would not, nor would give him any place
-To call his own, a dwelling and a space.
+They would not, nor would give him any place,
+Nor any room at all, nor any home,
+To call his own, a dwelling and a space,
+And so he went away, and went to roam.
 
 So he went searching rivers far and wide,
+To find a place where he could stake his claim,
 And took the current as his only guide,
-To find a place where he could stake his claim
 For his own line and his ancestral name.
 
 Flumon begat two sons: when day begun
-Came Hibbert first, before the younger one,
-And Mycterops, the strong one, who would stay
+Came Hibbert first, and then, to come and stay,
+Came Mycterops, the strong, the younger one,
 Alive and strong until his final day.
 
 Hibbert was great, a River dweller, who
-Was fated to be tough and large; he grew
-To take the charge of all the river's course
+Was fated to be tough and large, of course,
+To take the river's charge; and so he grew
 With all his wisdom, and with all his force.
 
 Larger and tougher than all other men
-Of his own time, he would survive again
-The Tragedies, and thrive through countless trials
+Of his own time, he'd thrive through countless trials,
+And would survive the Tragedies again,
 Across the long, the many thousand miles.
 
 His people were a race that held its ground,
-Resilient in their place, where they were found;
-Both powerful and old, with tales untold
+Both powerful and old, with tales untold,
+Resilient in their place, where they were found,
 Of how they overcame, and would not fold,
 
-Whatever shamed them, or would break their will
-Along the edges of the river's sill.
+Whatever shamed them, or would break their will,
+Whatever came to them, whatever came,
+Along the edges of the river's sill,
+And they would hold the river, and their name.
 
 And Mycterops was strong, and, all life long,
-Was versatile; his two sons would prolong
-The work that he began: to live and dwell
+Was versatile; to live and dwell, as well,
+His work begun, his two sons would prolong,
 Within the rivers, where the waters swell
 
-With life; to search for food from shore to shore
-In most unlikely places, and explore
-Where none could see their faces; they would find,
-Always, what fed them, both in heart and mind.
+With life; to search for food from shore to shore,
+In most unlikely places, and to find,
+Where none could see their faces, and explore,
+What always fed them, both in heart and mind.
 
 Megarachne and Minirachne, two
-Brothers unlike all others, would pursue
-Their rule upon the rivers, far and wide,
+Brothers unlike all others, far and wide,
+Upon the rivers, would their rule pursue
 With power, and with all their royal pride.
 
-The sons of Mycterops, they were the best
-Of river kings, their dynasty's own crest.
+The sons of Mycterops, they were the best,
+The kings of all the rivers, and their name,
+The crest of all their dynasty, the rest
+Surpassed, and lived in honor and in fame.
 
-But Minirachne was not Satisfied
-With his own lot, the rivers' freer tide;
-He wanted more; he wanted more to see.
+But Minirachne was not Satisfied;
+He wanted more, he wanted more to see
+Than his own lot, the rivers' freer tide.
 Scorpio and Minirachne would be
 
 Destined, always, to fight for the same prize,
-The land, which lay beneath the open skies.
+The land, and both of them would fight for it,
+The land, which lay beneath the open skies,
+And neither one of them would yield or quit.
 
-For both had an ambition, in their quest
-For fame, no opposition could arrest.
+For both had an ambition, in their quest,
+That burned within them, and would never die,
+For fame, no opposition could arrest,
+However hard the others came to try.
 
 They both were men whose dreams surpassed what those
-Who seek their comfort, ease, and their repose,
-Would think was possible; for such as these
-Will never feel a challenge, like a breeze,
+Who seek their comfort, and who seek their ease,
+Would think was possible; who seek repose
+Will never feel the challenge, like a breeze,
 
 That calls out to them, naming them by name,
-To come and play in a far greater game.
+That calls them out to venture and to roam,
+To come and play in a far greater game,
+And leave behind the comforts of their home.
 
 Minirachne, with Tetra, his fair wife,
-Climbed high beneath the open sky; new life
-They'd start out in the world upon the land,
+Climbed high beneath the open sky, and planned
+To start out in the world a newer life,
 Which they would build together, hand in hand,
 
-Where none had gone before them, to explore
-And open up the long-unopened door.
+Upon the land, where none had gone before,
+Where they would be the first ones, and would go
+To there explore, and open up the door,
+The long-unopened door, for all to know.
 
-His book lungs turned to book gills, and his name
-In evolution's song would long have fame.
+His book lungs turned to book gills, and his name,
+Like Scorpio's, upon the land would live,
+In evolution's song would long have fame,
+And to his line its glory it would give.
 
-He came to conquer all the lands that lay
-Where Scorpio had called, and claimed his sway,
-The territory he had made his own,
+He came to conquer all the lands that lay,
+The land that Scorpio had called his own,
+Where Scorpio had claimed his rightful sway,
 To be his story, and to make it known.
 
-And so the stage was set for conflict, yet
-Unseen in all the world, a looming threat,
-With banners there unfurled, between two lines
+And so the stage was set for conflict, yet,
+With banners there unfurled, between two lines,
+Unseen in all the world, a looming threat
 Of mighty kin, with different designs
 
-On what the world should be, and what should stand
-For all eternity, on sea and land.
+On what the world should be, and what should stand,
+And who should rule, and who should yield the day,
+For all eternity, on sea and land,
+And who would have, at last, the final say.
 
 From Eurypter's own marriage to his bride,
-Pulmona, and the children at her side
-Whom she had carried into being, grew
+Pulmona, and from those she carried, grew,
+The children she had borne there at her side,
 This foreseeing of conflicts that were due:
 
 When all was done, the winners would be crowned,
-And all the losers would, in turn, be found.
+And all the losers, too, would know their place,
+And all the losers would, in turn, be found,
+And bear their loss, and bear their own disgrace.
 
-The sons of Eurypter would rise, with grand
+The sons of Eurypter would rise with great
 Designs, above all other lines, and stand
-Like Jupiter, to rule the sea and land,
+Like Jupiter, to rule in their estate,
 And all of it was built by their own hand,
 
 Through courage, and through all their strength and might,
-Which shines out like the morning's early light.
+Which ruled the sea and land, and made them theirs,
+Which shines out like the morning's early light,
+And shines on all their children and their heirs.
 
 From river to the sea, and from the sea
-To land so free, eurypterids, we see,
-Show how ambitions grow from small starts made
-By those who are not, in the least, afraid,
+To land so free, eurypterids have made
+It plain, how great ambitions grow, as we
+See, from small starts, by those who aren't afraid,
 
 And dare to venture into spaces where
-No face of any kind was ever there.
+None ever went, nor any place had been,
+No face of any kind was ever there,
+No living thing had ever yet come in.
 
 It also shows the cost when lines of kin
-Are lost in conflict, which no one can win.
+Are torn apart by conflict and by war,
+Are lost in conflict, which no one can win,
+And lose what they had won and held before.
 
 The rivalry of Brothers who would take
-Two different paths, each for his own sake,
-And for their children's future, shows the way
-That nature's suture often can't hold sway
+Two different paths, the way that each would stray,
+Each for his children's future, his own sake,
+Shows how the suture nature makes can't stay
 
 When their ambitions grow too bold to share
-Among the ones who never seemed to care
-To find a peaceful way to live, and stay
-At peace with one another, day by day.
+Among the ones who never found a way
+To live in peace, who never seemed to care
+To stay at peace together, day by day.
 
 From Scorpio's bold climb up to the war
-And conquest Minirachne waged, the lore
-Is clear: Ambition must be free, but wise
-As well, beneath the starry, open skies.
+And conquest Minirachne waged, the wise
+And clear lore says: Ambition, evermore,
+Must be both free and wise beneath the skies.
 
-The world is big enough for all, if tough
-Enough to make their way, though roads be rough,
-Through every day of challenge and of strife
-That they will meet in this eternal life,
+The world is big enough for all, if they
+Are tough enough to make their way through strife,
+Though roads be rough, through every single day
+Of challenge they will meet in this long life,
 
-Where all must find their own appointed place
-Within the course of evolution's race.
+Where all must find their own appointed place,
+And all must find the place where they belong,
+Within the course of evolution's race,
+And run it, and be swift in it, and strong.
 
 But when ambition, turned to conflict, burns
 The bridges that would otherwise connect
-Those who, as kin, should shelter and protect
-Each other, as each one grows up and learns
+Those who, as kin, should, as each grows and learns,
+Shelter each other, and each one protect
 
-Of joy and pain, and all the ways of love,
-Beneath the stars that shine on us above,
-Then all become the losers in the game
-That choosers play, forgetting, to their shame,
+In joy and pain, and all the ways of love,
+Then all become the losers in the game,
+The game the choosers play, as from above
+The stars look on, forgetting, to their shame,
 
 That none can ever get, when they're alone,
-All that they want, without the seeds they've sown
-Of true cooperation, me and you,
-A partnership that's always tried and true.
+All that they want, without the seeds they sow
+Of true cooperation, which, once grown,
+Becomes a partnership that comes to grow.
 
-The eurypterids, rising, show us how
-To use our power wisely, here and now,
+The eurypterids, rising, show us how,
 In each and every hour of living days,
+To use our power wisely, here and now,
 As we go on along our mortal ways,
 
-Where choice determines everything for all
-Of those who've answered, each, to life's great call.
+Where choice determines everything for all,
+For all of us, for every living one,
+Of those who've answered, each, to life's great call,
+From when our life begins till it is done.
 
 From Eurypter's flight to Scorpio's sight
-Of lands beyond the waters, where he might
-Be first to land, and there to make his mark
+Of lands beyond the waters, where his mark
+He might be first to make, as was his right,
 Upon a world that was as yet so dark,
 
-And full of possibility, to be
+And full of possibility, to be,
+The lesson, clear as day, will show the way,
 A world for all humanity to see,
-The lesson, clear as day, will show the way
 To be both brave and wise, and in what way
 
-Our dreams, beneath the starry heavens, grow
-If we but choose to scatter and to sow
-The seeds of peace and love, which, from above,
-Are blessed, the seeds that we are speaking of,
+Our dreams, beneath the starry heavens, grow,
+If we but choose the seeds of peace and love,
+The seeds that we will scatter and will sow,
+Which are blessed from above, we're speaking of,
 
 In every choice we make, for all who share
-This world with us, in ways both grand and fair,
-And challenging to see, as we can tell,
+This world with us, in ways we come to tell,
+Both grand and fair, and challenging, and there
 For you and me, who must decide as well,
 
 Each day, which path we'll take, and on our way
-Go travelling, and follow it away.
+Go travelling, and choose the road ahead,
+And follow it away from day to day,
+Wherever it may go, where it has led.
 
 Like shining Jupiter, the sons, so blessed,
-Of Eurypter, rose high above the rest,
-And passed each mortal test through courage, might,
-And wisdom, and the inner gift of sight
+Of Eurypter rose high through courage, might,
+And wisdom, and rose high above the rest,
+And passed each test with inner gift of sight
 
 That saw what could be done, if they would dare
-Beneath the shining sun to venture where
-None went before, to open up the door
-Of possibility, of what's in store
+Beneath the shining sun to go before
+Where none went, and to venture there, and where
+Was possibility, to ope its door
 
-For all eternity, where dreams come true
-Today and always, both for me and you.
+For all eternity, where dreams come true,
+And all that is in store, for all to see,
+Today and always, both for me and you,
+For all of life, and all that is to be.
 
 
 # Chapter 52: The Great Ancestor
