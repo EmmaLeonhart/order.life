@@ -11221,431 +11221,433 @@ Until all time is done, and all is peace.
 # Chapter 49: The Terrestrial Colonization
 
 While sons of Cambrius would flourish well
-Within the seas where they had come to dwell,
-Sons of Symbio-Mygus, with the train
-Of daughters of Charina-Plantus, twain,
+Within the seas, the sons, upon the plain,
+Of Symbio-Mygus, and as they tell,
+With daughters of Charina-Plantus, twain,
 
-Pushed out their frontiers, pushing far and wide
-Across the world and all the world's divide.
-But soon enough, before long, they would face
+Pushed out their frontiers, pushing far and wide;
+But soon enough, before long, they would face,
+Across the world and all the world's divide,
 Competition in their own dwelling place.
 
 For Euthy, she who was a daughter brave
-Of Mandibulus, one who always gave
-Her all to save the young ones of her brood,
+Of Mandibulus, who lived for her brood,
+Who always gave her all, her young to save,
 Was being chased among the waves, pursued
 
 Throughout the waters by her mortal foe,
-Anomalocaris, who then would show
-No mercy to her as he gave his chase
+Anomalocaris, who gave his chase
+And would no mercy to her ever show
 Across the wide and the watery space.
 
-Her precious eggs would need her care and aid
-And her protection everywhere she strayed.
-And so she did the thing that she must do:
-In Hausa placed her trust, and so went through.
+Her precious eggs would need her care and aid,
+Protection; so she did what she must do:
+Her trust in Hausa, everywhere she strayed,
+She placed, and so it was that she went through.
 
 She jumped up through the shimmering blue sky,
-Up rocks that reached so very far and high,
 Up to the heavens, shining bright above,
+Up rocks that reached so very far and high,
 Protecting all the ones that she would love.
 
-And so it was she burst out from the sea
+And so it was she burst out from the sea,
+The first of all to make that mighty leap,
 And came upon the land, so wide and free,
-The first of all to make that mighty leap
 Out from the waters, dark and very deep.
 
-Upon the ground she fell, and lay, and there
-She suffocated in the open air,
+Upon the ground she fell, and lay, and there,
 Within that air so thin and very strange,
+She suffocated in the open air,
 Throughout that foreign and that unknown range.
 
 But she and her own husband, who was true,
-Protected all the eggs, because they knew
-The eggs must live, and live until the end,
-Their legacy that they would come to send.
+Protected all the eggs, and would defend
+Their legacy, because the two then knew
+The eggs must live, and live until the end.
 
 Among the daughters of brave Euthy, all
+(Created by the circumstance begun)
 Who left the ancient waters at her call,
-Was Myry, she the trepanated one,
-Created by the circumstance begun.
+Was Myry, she the trepanated one.
 
 Like all her sisters, she was born, and yet
-The water made her mourn, and made her fret;
-For she was suffocating, lying there,
+The water made her mourn, for lying there,
+She suffocated, and it made her fret,
 Within the ocean's deep and liquid lair.
 
 Her father, seeing this, and seeing all,
-Pierced holes that he would never miss at all
-Above her legs, ten thousand legs, and so
+Pierced holes above her legs, ten thousand, so
+That he would never miss, both great and small;
 She breathed, where breathing never begs, below.
 
-And through these holes she found that she could take,
-Directly, and receive, for her own sake,
+And through these holes she found that she could take
 The blessings that from Hausa come, so pure,
+Directly, and receive, for her own sake,
 Into her frame, so steady and so sure.
 
 And her descendants, even to this day,
-Will breathe still in the very selfsame way;
-The holes that saved her life are still her own;
+Still keep the holes that saved her as their own,
+And breathe still in the very selfsame way;
 Through terrestrial strife they've cut, and shown.
 
 And so the daughters, all of them, who came
-From Myry, heard the call, and heard the same:
-To breathe the air so sweet upon the land,
-The Myriapods complete, a mighty band.
+From Myry, heard the call upon the land
+To breathe the air so sweet, and heard the same:
+Myriapods complete, a mighty band.
 
 And Myry, she the pierced, went to explore
-The new lands she adored, from shore to shore,
-And found that she was not alone, but shared
-This earthly zone with others who had dared.
+The new lands, and she found, as she had dared,
+That in the lands she loved, from shore to shore,
+She was not alone, but this zone she shared.
 
 Tradition gives this place the name, and grace,
-Of "Myry's coast," and so it names the place;
-But she was not the first, as we are shown
-By history rehearsed, the truth made known,
+Of "Myry's coast"; but, as we have been shown,
+She was not first, though so it names the place,
+By history rehearsed, the truth made known.
 
-We call it "Coast of Three Kingdoms" now, so
-We name it truthfully, that all may know,
+We call it "Coast of Three Kingdoms" now, so,
 To honor every side, and every one,
+We name it truthfully, that all may know,
 Of history's great tide, when it was done.
 
 And Myry saw with wonder, and she found
-Cities that neither rain nor thunder's sound
-Had ever torn asunder, built and grown:
+Cities that were not torn, but built and grown,
+That neither rain had torn, nor thunder's sound:
 The cities of the Lichen, born, and known,
 
-Born of a covenant, a pact, between
-Symbio-Mygus, the one who was seen,
-Joined with Charina-Planta's line, to make
-A Partnership divine, for both their sake.
+Born of a covenant, a pact, to make
+A Partnership divine, a pact between
+Symbio-Mygus, and for both their sake,
+Joined with Charina-Planta's line, and seen.
 
 The cities sprawled out wide on every hand,
-Half mold, half moss, together on the land,
-Each living with the other, well and strong;
+Each living with the other, well and strong,
+Half mold, half moss, together on the land;
 Mycelium would delve, and dig along
 
 Deep down into the earth for earthly gold,
-While all the thallus, being brave and bold,
-Basked in the sun's bright blessing, as it fell
+While all the thallus, as the sunlight fell,
+Basked in the sun's bright blessing, brave and bold,
 From heaven's light, caressing it so well.
 
-These cities spread themselves so very far
-Beneath the light of every shining star;
+These cities spread themselves so very far,
 And when the cities met, they would marry,
+Beneath the light of every shining star,
 And fungi and the plant would both carry
 
-On with their ancient promise and their vow
-To live together, then, and live it now;
+On with their ancient promise and their vow,
 And each one nation wed the other, so,
+To live together, then, and live it now,
 Like sister and like brother, as they grow.
 
-But Myry was not gentle in her ways,
-Her elemental ways, in all her days;
+But Myry was not gentle in her ways;
 She ate the cities whole, and swallowed all,
+Her elemental ways, in all her days,
 And stole what made them whole, both great and small.
 
 But as she ran around from place to place,
-She dropped upon the fertile ground, a trace,
-Cells that were scattered round on every side,
+She dropped upon the ground on every side
+Cells, scattered round, a fertile, living trace,
 And scattered through the atmosphere, and wide.
 
 Across the globe they fell, and fell around,
+And left in every place her meal's own trace;
 Her messy eating's spell upon the ground
-Left pieces of her meal in every place,
-For others then to steal, and to embrace.
+Was there for some to steal, and to embrace.
 
 And soon the sons of Mygus built anew
-Great Cities without guilt, and these they grew
-With daughters of Charina, and they spread
+Great Cities, with Charina's daughters, spread,
+Without a guilt, and these the two then grew
 Across each earthly arena they led.
 
 But Myry bore two sons: when day begun
-Came Cain, then came Abel, the other one,
-So gentle and so mild, so meek and kind,
+Came Cain, the first; and then, so meek and kind,
+Came Abel, then, the second, other one,
 Her peaceful, loving child, of gentle mind.
 
 And in the process of the time it came
-That each would bring, and bring it in his name,
-An offering so true, and set it, laid
+That each would bring an offering, and laid
+An offering so true, and in his name,
 For Mithra's judgment, due to him, and made.
 
 And Cain brought, as his gift, the fruit and yield
-Of ground beneath his foot, out of the field;
-And Abel brought the best, the firstlings of
-The flocks that he possessed, and of his love.
+Of ground; and Abel brought the firstlings of
+His flocks, and not the fruit out of the field,
+The best that he possessed, and of his love.
 
 And Mithra had respect for Abel's part,
-His offering, and blessed it from the heart,
-His sacrifice so true; but Cain's, the one
-He brought, he would eschew, and would have none.
+His sacrifice so true, and blessed the one;
+But Cain's, which he had brought to him apart,
+He would eschew, and of it would have none.
 
 Then Cain was very wroth, and then there fell
-His countenance, and he was far from well.
-The Lord said unto Cain: "Why, then, is this?
-Why is thy heart in pain, and all amiss?
+His countenance; and, seeing all amiss,
+The Lord said unto Cain, who was not well,
+"Why is thy heart in pain? Why, then, is this?
 
 If thou doest well in all of thy days,
-Shalt thou not then excel in all thy ways?
-But if thou doest wrong, then at the door
+Shalt thou not then excel? But at the door,
+If thou doest wrong in all of thy ways,
 Sin's desire is strong, and lies in store."
 
-But Cain then talked with Abel, he who stood
-His brother, at their table, as kin would;
-And when they were alone, and in the field,
-The hatred Cain had grown would not be healed.
+But Cain then talked with Abel, at the board,
+His brother, as kin would; and in the field,
+When they were both alone, the hatred stored
+In Cain, which he had grown, would not be healed.
 
 And in the field he rose up, and against
-His brother rose, and so it was dispensed
-With Abel's gentle life, for he would take
-Murder's sharpened knife, and a life would break.
+His brother rose, and took the knife to break,
+With Murder's sharpened knife, and so dispensed
+With Abel's gentle life, for murder's sake.
 
-And Mithra called to Cain, and called him plain:
+And Mithra called to Cain, and called him so:
 "Where is thy brother, Abel, who is slain?"
 "I know not," Cain replied, "I do not know;
-Am I to be his guide, where he may go?"
+Am I to be his guide? Must I explain?"
 
 "What is it thou hast done this day?" he said;
-"Thy brother's blood doth pray, the blood now shed,
-And cries out from the ground where he was killed;
-Thy curse is found, and it shall be fulfilled.
+"Thy brother's blood, which thou hast spilled, doth pray,
+And cries out from the ground, the blood now shed;
+Thy curse is found, and comes to thee to stay.
 
-No more shall all the ground give strength to thee
-Through all thy length of days; and thou shalt be,
+No more shall all the ground give strength to thee,
 For all thy time upon this very earth,
+Through all thy length of days; and thou shalt be
 A wanderer, as if from thy own birth."
 
 Then Cain cried out in fear, and in despair:
-"My punishment's too dear, too much to bear!
-From earth and from thy face I am driven,
+"From earth and from thy face I am driven;
+My punishment's too dear, too much to bear!
 No rest, no resting place, to me given.
 
 A fugitive I'll be, and wander, so,
-And whosoever sees me as I go
-Will slay me on my way, and strike me dead;
-I cannot get away, nor hide my head."
+And whosoever sees me on my way
+Will slay me, strike me dead, where'er I go;
+I cannot hide my head, nor get away."
 
 But Mithra set a mark upon him well:
-"Whoever it shall be who thee shall fell,
-On him Sevenfold vengeance there shall be,
+"On him Sevenfold vengeance there shall be,
+Whoever it shall be who thee shall fell,
 Upon that person fall, for all to see."
 
 And Cain went forth in shame, and went away
-Into the land of Nod by name, to stay
-Out to the East of Eden's gate, and there
+Out to the East of Eden's gate, and there,
+Into the land of Nod by name, to stay,
 To meet his chosen fate, and his despair.
 
 And there it was that Cain would know his wife,
-And there he built a city and a life;
-And she would bear a son to him, whose name,
-Centipus, was glorious in its fame.
+And she would bear a son, of noble name,
+Centipus; and there Cain would build a life,
+A city, and the city bore his fame.
 
 The city that he built was named for him,
-For Centipus, whose fame would not grow dim;
-And Cain would be the ancestor, the one,
+For Centipus; and Cain would be the one,
+Whose fame would never fade, nor would grow dim,
 Predecessor of Caintipedes, each one
 
-(Who were Misspelled by all the Romans old
-As "centipedes," as we have since been told),
-Who hunt with poison bite, and hunt their prey
+(Who were Misspelled by all the Romans old,
+As we are told, as "centipedes," today),
+Who hunt with poison bite, and, strong and bold,
 Throughout the night, and all throughout the day.
 
 But Abel's gentle wife, his loving bride,
-Was heavy with new life, with child inside,
-When Cain's great rage would come to tear apart
-Her husband, and would rend his gentle heart.
+Was heavy with new life within her heart,
+With child, when Cain's great rage, from deep inside,
+Would come and tear her husband's heart apart.
 
 Into a million pieces, very small,
-The body then of Abel came to fall;
-His wife, with child, and blessed, though in distress,
+The body then of Abel, in distress,
+Had come to fall; his wife, though, after all,
 Became the mother, ancestress no less,
 
 Of millipedes, so very meek and mild,
-Who never harm a beast, nor harm a child,
-But eat the leaves that fall upon the ground
+Who eat the leaves that fall upon the ground,
+And never harm a beast, nor harm a child,
 And decompose them all, wherever found.
 
 Enraged at Abel's death, and at the sight,
-Then Myry drew her breath, and with her might
-She lunged at Cain, and lunged with all her strength,
-And so they fought their final fight at length.
+Then Myry drew her breath, and at great length
+She lunged at Cain, and lunged with all her might,
+And so they fought their final fight with strength.
 
-And both of them then passed to Ghedos' realm,
-Where death holds fast, and death is at the helm;
-But in their corpses lay, and lay within,
+And both of them then passed to Ghedos' realm;
+But, lying in their corpses, lay within,
+Where death holds fast, and death is at the helm,
 Seeds for another day that would begin.
 
-In death, the sons of Mygus took revenge
-For all the wrongs done, and they would avenge:
-Hera, who was a daughter, good and true,
+In death, the sons of Mygus took revenge;
+Hera, a daughter who was good and true,
+For all the wrongs, she came there to avenge,
 And Freyr, the one so strong all through and through,
 
 In the twentieth generation, found
-Their habitation, deep within the ground,
-Within the corpses cold, and dead, and old,
-Of all the stories that have long been told.
+Their habitation, as it has been told,
+In all the stories, deep within the ground,
+Within the corpses cold, and dead, and old.
 
 And as they grew within them, as they grew,
-They built their cities there, and so they drew
-Their hyphae, till they met, and met at last,
+They built their cities there, until at last
+Their hyphae met, the hyphae that they drew,
 When all their growing time had come and passed.
 
 And when they met, they wed, and they were one,
-But heard what Mithra said when it was done:
-"O couple, who are very great and true,
+And heard what Mithra said, and said it true:
+"O couple, now your wedding has been done,
 Prosperity is yours, and with you two.
 
 But barren you shall be, for decades long;
-For decades wait and see, and so be strong.
 Postpone your marriage-bed, and wait instead
+For decades, wait and see, and so be strong,
 Until the word is given, and is said.
 
 And when the children you shall bear are born,
-They'll multiply, from evening until morn,
-And fill the earth with life, from shore to shore,
+They'll multiply, and fill from shore to shore
+The earth with life, from evening until morn,
 As husband and as wife, for evermore."
 
-And they would follow his command, and they
-Went through the fertile land, and in their way
-They married, cell to cell, but cells alone,
-And not the nuclei that were their own.
+And they would follow his command, and they,
+Through all the fertile land, by cells alone
+Were married, cell to cell, and in their way
+Not with the nuclei that were their own.
 
 Each cell was shared by two, by two that wed,
-Each nucleus lived through, and was not dead,
 In every cell they made, in every one;
+Each nucleus lived through, and was not dead;
 Their sacrifice well-paid when it was done.
 
 Dikaryotic cells, in all their kind,
-Their story always tell, and call to mind
-The patience and the love that they had shown,
-Blessed from above, as it has long been known.
+Their story always tell, and make it known,
+The patience and the love, and call to mind,
+Blessed from above, the love that they had shown.
 
 Decades they waited, and they waited long,
-Decomposing, and they were working strong,
 On Myry's daughters, all of them that lay,
+Decomposing, and they were working strong,
 In patient ministry, by night and day.
 
 And they became the ancestors of all
-The high fungi, processors, great and small,
-That turn the death into new life again:
+That turn the death into new life again,
+The high fungi, processors, great and small:
 The Mushrooms, and the knife that cuts our pain,
 
-The knife of penicillin, which has might
-To heal us in our darkest, sickest night.
-And so the great fungi arose, and came
+The knife of penicillin, which can heal
+Us in our darkest night; and so they came,
+The great fungi, arising, by their zeal,
 From where their love had chosen, as its aim,
 
 To wait for Mithra's word, and so to wait,
-And let their love be heard, however late,
-Through all their patience in the earth and ground,
-The place where wisdom ever could be found.
+Through all their patience, and to let resound
+Their love, and let it ring, however late,
+Down in the earth, where wisdom could be found.
 
 Among the sons of great Plantus, the ones
-Who stayed, when day begun, with all the sons
-Of Mygus, two were brothers, and their fame
-Was everywhere, and these were each one's name:
+Who stayed, when day begun, with Mygus' own,
+Two brothers there were, and of all the sons
+Their fame was everywhere, and it was known:
 
 Stomatos and Hepatos, who then went
-Their separate ways, each where his choosing bent.
-Connected to a living network's cells
+Their separate ways; connected to the cells
+Of living networks, each where choosing bent,
 That always work, as every story tells,
 
-At the cellular level they would build
-Their partnership's great revel, as they willed,
+At the cellular level they would build,
 With sons of Glomulus, so glorious,
+Their partnership's great revel, as they willed,
 Together, all of them victorious.
 
 Stomatos looked and saw the holes that lay
-In Myry's sides and souls, and in that way
-He pierced himself as well, so that he could
-Breathe in the air and so excel for good.
+In Myry's sides and souls, and so he would
+Pierce holes into himself as well, that way
+To breathe the air, and so excel for good.
 
 But Hepatos refused the foreign art,
-The magic that was used, and kept apart,
 And used his ancient ways, the old, instead,
+The magic that was used, and kept apart,
 And kept on with his faithful, steady tread.
 
 Hepatos became, in time, the sire
-Of Liverworts' green and humble choir,
-Who keep the ancient way, and keep it still,
-Until this very day, and ever will.
+Of those who keep the ancient way, and will,
+The Liverworts' green and humble choir,
+Until this very day, who keep it still.
 
 But Stomatos became, through all his line,
-Ancestor of fame, and his own design
-Became the root of every other kind
-Of plant, that dances on, with life entwined.
+Ancestor of fame, and of every kind
+Of plant; and he became, by his design,
+The root, that dances on, with life entwined.
 
-Today we honor him, and call his name
-Eloh, not dim, but bright, a burning flame,
+Today we honor him, and call his name,
 The bright transhumanist, who would not cease,
-And never would desist, nor seek release,
+Eloh, not dim, but bright, a burning flame,
+And never would desist, nor seek release
 
-From being better still, and better yet,
-Through all the strength of mind and will he set;
-When his beliefs must change, he'd rearrange
+From being better still, and better yet;
+When his beliefs must change, he'd rearrange,
+Through all the strength of mind and will he set,
 His understanding, though the change was strange,
 
-To make his vision new and see it through,
-Forever growing past the self he knew.
+To make his vision new, and see it through,
+To rise up higher, and to climb, and grow,
+Forever growing past the self he knew,
+Beyond the self that he had come to know.
 
 And as the sons of Stomatos would rise
+Upon the earthly stage of that first age,
 Like kratos, power rising to the skies,
-Then Hillu struck back in a mighty rage
-Upon the earthly stage of that first age.
+Then Hillu struck back in a mighty rage.
 
-So many lineages through their days,
-Through all their pilgrimages and their ways,
+So many lineages through their days
 Would then be lost, and lost for evermore,
+Through all their pilgrimages and their ways,
 Upon that ancient and primeval shore.
 
 Upon the Coast of {{p|Three Kingdoms}}, by grace,
-The great wisdom of life, in that one place,
 First met upon the land, as it was planned,
+The great wisdom of life, in that one place,
 By Mithra's guiding and his gentle hand.
 
 There Plant and fungi wed, and while they wed,
-The arthropods were nourished, and were fed
-On both, upon their partnership, and so
+The arthropods were nourished on them, so
+That on their partnership the three were fed:
 It was the first tri-partnership to grow.
 
 From sea to land they came, both great and small,
-Each seeking its own fame; but, over all,
-It was the partnership that proved the best,
-Above all other ways, above the rest.
+Each seeking its own fame, and its own quest;
+It was the partnership, though, over all,
+Above all other ways, that proved the best.
 
 The lichen cities showed, and show us how
-The seeds of love are sowed, and even now,
-Between the most unlike of every kind,
-To share each other's hike, and walk combined
+The seeds of love are sowed between each kind,
+Between the most unlike, and even now
+They share each other's hike, and walk combined
 
 Through life upon the earth, where, as they go,
-Their partnership gives birth, and makes to grow,
-A beauty none could see, nor ever find,
-In isolation's spree, alone, confined.
+Their partnership gives birth to what, confined
+In isolation, none could ever grow:
+A beauty none could see, nor ever find.
 
 From Euthy's desperate and daring leap
-To save the children that she loved so deep
-Then came Myry's way, the pierced way, to stay,
+To save her children, came, and came to stay,
+The pierced way of Myry, ever to keep
 The way of breathing still, from day to day.
 
 From Cain and Abel's strife, and from that fight,
-Came death, and then new life came forth to light:
-The Centipedes who hunt, and in their turn
+Came death, and then new life, and in its turn
+The Centipedes who hunt, came forth to light,
 The millipedes who shunt, and work, and churn
 
 Decay into the earth, so rich and good,
-For the new birth of plants, as good earth should;
 And from the fungi's love, so long and slow,
-So patient, blessed above, there came to grow
+So patient, for new plants, as good earth should,
+So blessed from up above, there came to grow
 
-The mushrooms' mighty power, in their worth,
-Within the darkest hour of all the earth;
-And from Stomatos' brave and daring change
+The mushrooms' mighty power, in their worth
+Within the darkest hour; and from the change,
+So brave, of Stomatos, on all the earth
 Came all the plants, and all their spreading range.
 
 The Coast of {{p|Three Kingdoms}} shows us how
-The wisdom of all life, both then and now,
-Will always find its truest way, and best,
+The wisdom of all life will find its best
+And truest way, as it did then, and now,
 Through partnership's display, made manifest.
 
 
