@@ -12525,374 +12525,423 @@ For all of life, and all that is to be.
 # Chapter 52: The Great Ancestor
 
 In the tenth generation, by its fate,
-Vater, the son of Pteraspis, so great,
 Would be the Ancestor of humankind
+Vater, the son of Pteraspis, so great,
 And species myriad, of every kind,
 
-From mountain peak to shore; and all he would
-Through innovation change for all the good.
+From mountain peak to shore; and all he would,
+All that he touched, and all that he would make,
+Through innovation change for all the good,
+And change it for the world's and for life's sake.
 
 Vater would build a channel, grand and wide,
-That joined the liver, bright, and, at its side,
-The pancreas, and brought them to the space
-Within his belly, there to take its place.
+That joined the liver and pancreas' space,
+And brought them both together, side by side,
+Within his belly, where they'd take their place.
 
-Today we trace this channel's honored name:
-"Ampulla of Vater": such is its fame.
+Today we trace this channel's honored name,
+And honor him for what he came to build:
+"Ampulla of Vater": such is its fame,
+And so his name is with that honor filled.
 
 This father was exalted, father of
-Far more than other Men had dreamed thereof;
-The Elohim, who held him in esteem,
-Would call him Abraham, as was their scheme
+Far more; the Elohim, in their esteem,
+Than other Men had ever dreamed thereof,
+They called him Abraham, as was their scheme
 
-For one whose progeny, in time, would fill
-Eternity, and they are filling still.
+For one whose progeny, in time, would fill,
+And spread, and multiply in every land,
+Eternity, and they are filling still,
+As many as the stars, and as the sand.
 
 Vater would bear two sons: when day begun
-Came Arandus, then Hestracon, the one
-Whose work would carry on the house's name
-Through evolution's ever-burning flame,
+Came Arandus; then, of the house's name,
+Hestracon came, the bearer, he, the one
+Whose work would carry through the burning flame
 
 That burns in every heart that plays the part
-Of innovation, and its daring art.
+Of evolution, ever burning bright,
+Of innovation, and its daring art,
+That leads the way into the newer light.
 
 Hestracon found his belly, as he knew,
-Inadequate, unready to pursue
-The work that he would one day have to do.
+Inadequate, and not prepared to take,
+Unready for the work he'd have to do,
+The food, and use it for his body's sake:
 
-From mouth to anus, all the same; and plain
-And simple, he would call it, with disdain:
-Only his father's main Ampulla would
+From mouth to anus, all the same, and plain;
+Only his father's main Ampulla would,
+And simple, he would call it, with disdain,
 Stand in the middle, solving, as it could,
 
-Digestion's riddle. This was not enough
-For Hestracon, a son so strong and tough,
+Digestion's riddle. This would never be
+Enough for Hestracon, so strong and tough,
 Who saw what greater good there was, if he
-Would dare to build what none had willed to be.
+Would dare to build, not settle for enough.
 
 Hestracon built a chamber, with great care,
-Prepared before his father's gift, and there
-To give digestion lift; and he would call
-It "stomach," and this name would stick for all.
+Prepared before his father's gift, to give
+Digestion lift; he called it "stomach" there,
+And with this name it would forever live.
 
-It was the great divider, standing so
+It was the great divider, standing there
 Between the mouth above, which would bestow
-The food, and what intestines' love below
-Would process, so the body then could grow.
+The food, and the intestines' loving care
+Would process it, so that the body grow.
 
 Before the stomach lay, so swift and strong,
-Esophagus, well-made, to pass along
-The food upon its pathway; after, laid,
+Esophagus, well-made; and, after, laid,
+To pass the food upon its path along,
 The intestine, its part to be well-played,
 
 Which, in its own appointed place and role,
-Would nourish all the body as a whole.
+Would take the food, and draw from it its worth,
+And nourish all the body as a whole,
+And give it strength to live upon the earth.
 
 And Hestracon begat two sons: the one,
-Astrops, was tried and true, when day begun,
-And Eteros, the strong one, who would stay
-And live, and thrive, until his dying day.
+Astrops, was tried and true, and strong to stay;
+Eteros came, when day had now begun,
+And lived, and thrived, until his dying day.
 
-And Eteros begat two sons, and then
-These sons were both beyond all mortal ken:
+And Eteros begat two sons, and then,
 Cyatha, with a cup-shield shining bright,
+Beyond all mortal ken, beyond all men,
 And Tsubasa, with Wing-shield, and with sight,
 
 Prepared for all he'd dare to face, his time
-Of life, through all his reason and his rhyme.
+Of life, and all of life's long, winding way,
+Through all of it, through reason and through rhyme,
+From dusk until the coming of the day.
 
 Tsubasa begat two: one, tried and true,
-Was Thelos; and the other of the two
-Was Cephalus, the one who was so wise,
+Was Thelos; and the other, who was wise,
+Was Cephalus, the second of the two,
 Who had the keen and penetrating eyes.
 
 Thelos would break his armor into scales,
+Into innumerable scales, refined,
 So no Rigidity of old prevails
-To bind or hold his innovative mind,
-Into innumerable scales, refined.
+To bind or hold his innovative mind.
 
 And these, his scales, would never fail to be
-His flexibility and skill, so he
-Could live within the reefs, where none could get
-Relief from rigid armor's weight, which set
+His flexibility and skill; and yet
+Could he live in the reefs, where none were free,
+Relieved from rigid armor's weight, which set
 
 And sealed their swimming fate. Where none could bend
-So well as to escape and to transcend
-The coral's tight embrace, Thelos had found
-His home, and made his dwelling on that ground.
+So well, the coral's tight embrace, he found,
+Thelos could both escape it and transcend,
+And there his home, and dwelling on that ground.
 
 Neither the sons of Arthropus, nor those
-Of Molluscus, nor of Chordatus, rose
-To match his status in the reef's tight space,
-Where his own grace takes Rigidity's place
+Of Molluscus, could match him in that space,
+Nor of Chordatus, for none of them rose
+To where his grace took Rigidity's place
 
 With flow, which helps him in his life to grow
-Into each niche where others could not go,
-To reach the food that he could find and take,
+And reach the food that he could find and take
+In every niche where others could not go,
 And use it for himself, for his own sake.
 
 Cephalus bore wings, bright, on either side
-Of his own helmet's form, and these would ride
-Through calm and raging storm. His head would fly
-As he would swim, held steady and held high,
+Of his own helmet's form, and they would fly
+Through calm and raging storm, and they would ride,
+And as he swam, his head was steady, high,
 
-According to his plan, with poise and grace
-In every watery and open place.
+According to his plan, with poise and grace,
+And steady as he swam, and steady still,
+In every watery and open place,
+He swam, and flew, according to his will.
 
 His lateral line would keep him ahead,
-And never sleep, but vigilant instead,
-For all that might befall him in the sea
-As he would swim through it; Aware was he
+For all that might befall him in the sea;
+It never slept, but vigilant instead,
+As he would swim through it, Aware was he
 
 Of all that he could sense around his form,
-And so he weathered every single storm.
+Of every motion near him, and of all,
+And so he weathered every single storm,
+And answered to the ocean and its call.
 
 Cephalus begat two: Galeas, true
-And tried, and Osteos, the second, who
-Would see the possibilities unfurled
-By innovation's key within the world
+And tried; and Osteos, who saw unfurled
+The possibilities, and saw them through,
+By innovation's key within the world,
 
-For those who dared to think, and did not shrink
-From going past tradition's binding link.
+For those who dared to think, and did not shrink,
+Who dared to go beyond the old, and try,
+From going past tradition's binding link,
+And dared to dream, and dared to reach up high.
 
 But Osteos was in a plight, and found
-His bones weren't right, efficient, nor were sound;
-He had to make them new: his bones' expense
+He had to make them new; for their expense,
+His bones, which weren't efficient, nor were sound,
 Was Comprehensively so great, immense,
 
-Wasting countless calcium moles, which roll
+Wasting countless calcium moles, which roll,
+Elements by the score, that could be used,
 Through phosphorus, and more, a costly toll,
-Elements by the score, that could be used
 Much better, if they were not so abused
 
 In static, lifeless bone that stood alone
-Without a greater plan to call its own
-For helping mortal man. So, with a will,
-He chose to build more cleverly, with skill,
+Without a plan to help; and, with a will,
+He chose to build, as he would call his own,
+More cleverly, with all his art and skill,
 
 His skeleton, and make it all anew,
-With wisdom that was always tried and true.
+And make it live, and make it breathe and grow,
+With wisdom that was always tried and true,
+That he alone, of all of them, would know.
 
 Osteos built with care, and everywhere
-Inside his bones he set Blood channels there,
-So they were living, breathing, taking Stores
-Of minerals, like generals in wars;
+Inside his bones, so they would take their Stores
+Of minerals, he set Blood channels there,
+So they would live, like generals in wars;
 
-In plenty, they were built and gathered up
+In plenty, they were built, and gathered more
 From nature's flowing and abundant cup;
 In scarcity, he'd borrow from the store
-Of what he'd saved, like treasure, from before.
+What he had saved, like treasure, gathered up.
 
 And he grew stronger, prospering, life long,
-Beyond his relatives, who all along
-Took everything that nature gives, but who
-Had never learned to save for what was due,
+Beyond his relatives, who, as they knew,
+Took everything that nature gives, along,
+But never learned to save for what was due,
 
 The future's challenges and every need,
-When they would hunger, and would have to feed
-From stores they'd built in plenty, when the flow
-Of resources was never scant or low,
+From stores they'd built in plenty, long ago,
+When they would hunger, and would have to feed,
+When resources were never scant or low,
 
 But ran like rivers, spreading far and wide,
-With bounty as the river's only guide.
+And flowing on, and flowing everywhere,
+With bounty as the river's only guide,
+And bounty that was more than they could bear.
 
 Osteos bore two sons: when day begun
-Came Pituri, and Ostracos, the one
-Whose children, glorious, spread far and wide,
+Came Pituri; and Ostracos, whose wide,
+His children spread; he was the second son,
 And multiplied, until on every side
 
 The world was fed with countless forms of life,
-Through harmony, and not through any strife.
+And countless creatures filling every place,
+Through harmony, and not through any strife,
+In peace, and in their all-abundant grace.
 
-To Ostracos was born, from coast to coast,
-A million sons, a great and mighty host,
-Who'd spread to anywhere that they were led
-By life's eternal call, for times ahead,
+To Ostracos was born, wherever led,
+From coast to coast, a great and mighty host,
+A million sons, who'd spread, for times ahead,
+By life's eternal call, to every coast,
 
-To multiply for all who'd come, and feed
-The world with their own forms, as was the need,
+To multiply for all who'd come, and feed,
 Through evolution's calm and raging storms,
+The world with their own forms, as was the need,
 From night into the day, in countless swarms.
 
 Pituri grew a snout so long that none,
-In all of evolution's scene, not one,
-Was ever seen so long, beyond all doubt:
-The longest ever grown, this mighty snout.
+Beyond all doubt, in evolution's scene,
+Was ever seen so long, not any one:
+The longest snout that ever had been seen.
 
 Pituri then begat Beakon, who'd be
 Beyond all ken in wisdom and in might,
 Who had the strength to look, and so to see
 The world around him with a clearer sight.
 
-Pituri's mouth was made of lips; it strayed
-In no way to the realm of jaws, but stayed
-With simpler laws: it only closed the space,
-But never could, with biting might, erase
+Pituri's mouth was made of lips; it stayed
+With simpler laws, and only closed the space,
+And never to the realm of jaws it strayed,
+And never could, with biting might, erase
 
 His prey; for no jaw was within his sight,
-And with his lips he only closed it tight.
+And no jaw was his own, nor his to make,
+And with his lips he only closed it tight,
+And could not bite, nor crush, nor chew, nor break.
 
 But Beakon saw potential in the snout
-His father had; its essence he worked out.
+His father had, and saw it through and through,
+And all its hidden essence he worked out,
+And saw how he could make it something new.
 
 So Beakon moved his gill arches, and he
-Would prove that innovation's art could be
-Of vital use. Into his mouth he brought
-The arches, and with them he hunted, fought
+Into his mouth would bring them, and he fought,
+And proved that innovation's art could be
+Of vital use; with them he hunted, sought
 
-For food in a new way, which worked by night
-And worked as well by day, in the day's light.
+For food in a new way, which worked by night,
+And in the darkest and the deepest space,
+And worked as well by day, in the day's light,
+And worked in every time, and every place.
 
 Beakon's own son, named Gnathus, saw the great
-Potential, and, with Pelaca, his mate,
+Potential, and he hunted for the prey,
+And so, with Pelaca, who was his mate,
+They hunted like no others in their day:
 
-They hunted like no others: and the prey
-Was trilobites, which they would bring away
-To innovation's flame, and to its light;
+Their prey was trilobites, which they would take
+Away, and bring to innovation's light,
+To innovation's flame, for their own sake;
 That flame was burning in their name, so bright.
 
 Not merely, in the ancient way, did they
-Catch, as had others long before, their prey;
+Catch, as had others, long before, their food,
+And close upon, as others had, their prey,
+As others did, in their more simple mood;
 
 They crushed them with their might, and brought them to
-The sight of armored jaws, which followed true
-The laws of nature, used in ways made new
-Through all their living days, the whole way through.
+The sight of armored jaws, which followed laws
+Of nature, true, and used in ways made new,
+Through all their living days, those armored jaws.
 
-They sliced through every meal that they would find
-With jaws of steel-hard feel, of a new kind,
+They sliced through every meal that they would find,
 That brought to them, when in their hunting mood,
+With jaws of steel-hard feel, of a new kind,
 Their sustenance, the life-bestowing food.
 
 And so the Jaws were born, that fateful day,
-When Gnathus and Pelaca would display
-What none could match: the power to break through
+When none could match them, and they would break through;
+For Gnathus and Pelaca would display
 What none before them ever came to do:
 
 To crush with them, and with them to consume
+What was, they thought, safe in the armor's shell,
 What other creatures would, till then, assume
-Was safe in armor's shell, protected well
-From all of those who'd never come to tell
+Protected from all those who'd never tell
 
-The secret of the jaw, and how the jaw
-Would follow, all its days, a newer law.
+The secret of the jaw, and how the jaw,
+The jaw that would be used to bite and break,
+Would follow, all its days, a newer law,
+And change the world, for every creature's sake.
 
 The world would never be the same for me
-Or you, from that day forth, when jaws would be
-The newer laws of predatory might,
-Which brought a revolution into sight,
+Or you, from that day forth, when, with their might,
+The predatory jaws would come to be
+The newer laws, and bring into our sight
 
-A new one, in what life could come to do,
-And from that day, the world of life was new.
+A revolution in what life could do,
+And all the ways of life, and all its kinds,
+And from that day, the world of life was new,
+And new its bodies, and new were its minds.
 
 From Vater's ampulla to Gnathus, who
-Had found a formula, and laws made new,
-His jaws to crush, the vertebrates show how
-The Innovation holds them to its vow:
+Had found a formula, his jaws, and how
+To crush, the vertebrates show, as they do,
+How Innovation holds them to its vow:
 
 To never be content with what is sent
-By fate, but always, with a strong intent,
-To be more capable and more alive,
-And strong throughout their whole life long, and thrive,
+By fate, but always strive to be alive,
+And more, and always with a strong intent
+To be more capable, and so to thrive,
 
 Journey through possibility's wide sea,
-Where all who dare to grow will come to see
-New heights of what can be, and come to know
-Them for eternity, as on they go,
+Where all who dare will come to see and know,
+And see new heights of what is yet to be,
+And know them for eternity, and go
 
 When innovation's flame burns, longing, true,
-To make the world more bright with forms made new
-That take their flight beyond the old, and swing
-The door of possibility, to bring
-To all humanity and everything
-That lives and answers when it hears life ring.
+To make the world more bright, and in its flight
+Beyond the old, with forms that are made new,
+To swing possibility's door, and light
 
-From Hestracon's new stomach to the new
+The way for all humanity, and bring
+New possibility to all of life,
+To all that lives and answers when life's ring
+Is heard, through all its joy and all its strife.
+
+From Hestracon's new stomach, and from those
 Pragmatic Bones of Osteos, run through
-With channels; from the scales that Thelos knew
-Would give him flexibility anew,
-To Cephalus' ability, with grace,
-To fly, and stabilize, through water's space,
-The vertebrates remind us, as we trace,
+With channels, to the scales that Thelos chose
+To give him flexibility anew,
 
-That searching minds, which break from what is known,
-Can reap the harvest of what they have sown
-In innovation, seeing old dreams through
-To heights beyond all thoughts that wisdom drew.
+To Cephalus' ability, with grace,
+To fly, and stabilize, and swim with care,
+Through all the water's wide and open space,
+The vertebrates remind us, everywhere,
+
+That searching minds, which break from what is known
+In innovation, seeing old dreams through,
+Can reap the harvest of what they have sown,
+At heights beyond all thoughts that wisdom drew.
 
 From simple mouths that closed, to jaws whose might
-In crushing none opposed, we see the sight
-Of how small changes, as they grow, will flow
-Into the stream of evolution, so
+None could oppose in crushing, we can know
+How changes, as they grow, come into sight,
+And flow into the stream of life, and so
 
-That nothing's what it seems, and all can change
+That nothing's what it seems, and all can change,
+If we but have the will to climb, until,
 Beyond familiar and accustomed range,
-If we but have the will to climb, until
 We climb each higher hill, and higher still,
 
 Of possibility, through every day
-Of all eternity, where, come what may,
-Our dreams come true for you and me today.
+Of all eternity, where dreams come true,
+Where, come what may, they come to us to stay,
+Today, and always, both for me and you.
 
 The jaws that Gnathus made will never fade
-From vertebrate design, and they will aid
-As a protection fine, through all the days
-Of living, in the world and its hard ways,
+From vertebrate design, through all the days,
+And as a fine protection they will aid
+Our living, in the world and its hard ways,
 
-When we must fight for what we have to eat
-And make, through it, our lives whole and complete.
+When we must fight for what we have to eat,
+And hunt, and catch, and crush, and chew, and live,
+And make, through it, our lives whole and complete,
+With all the strength that strong jaws come to give.
 
 From Vater's family tree, to jaws that free
-Us from the limitations, old, that we
-Had known in stories that are yet untold,
-The vertebrates have shown, as we behold,
+Us from the limitations, old and known
+In stories that are yet untold, that we
+Had known, the vertebrates have come and shown
 
 How far we've grown from simple, humble start
-To mastery of all the skill and art
-That lets us rule the sea and land, and be
+To mastery, and how the skill we see
+Lets us rule sea and land with all its art,
 The masters of our fate; and it is we
 
 Who, through our innovations great, won't cease
-To grow, in all we know, and to increase
-In what can be achieved, when dreams, believed,
-Are turned into reality, conceived
+To grow in what can be achieved, believed,
+In all we know, and always to increase,
+When dreams, made real, are born, and are conceived
 
-Through wise ability, with open eyes,
-To see what others miss; and so we rise,
-And find, within this, power to transcend
-All limits, and to widen and extend
+Through wise ability, with open eyes
+To see what others miss, and so transcend
+All limits; it is so that we can rise,
+And find the power to widen, extend
 
 The boundaries of life, and, without strife,
-In harmony, to grow a fuller life.
+And all together, all of us, and all,
+In harmony, to grow a fuller life,
+And answer, all of us, to life's great call.
 
 The world that Gnathus bit, with jaws of grit
-And steel, lives on in every tooth, and it
-Tells truly how the innovation's way
-Can change into the new both night and day
+And steel, lives on in every tooth, and may
+Tell truly, in its way, as it is writ,
+How innovation changes night and day
 
-For me and you, who dare to break the mold
-Of stories that have never yet been told,
-And, on the page of evolution's age,
-Write chapters yet unread, stage after stage,
+For me and you, who dare to break the mold,
+And on the page of evolution write,
+Stage after stage, the stories yet untold,
+New chapters yet unread, to come to light,
 
-Where we are led by wisdom's guiding light
-To make the future that's before us bright
-With possibilities that no one sees
-But those who dare to dream, and dream of these,
+Where we are led by wisdom's guide, to see
+The future that's before us, and make bright
+With possibilities, the yet-to-be,
+That none but those who dream can bring to light,
 
-Of more than what they seem, and who will strive
-To turn those dreams to life, and so to thrive
+Who dream of more than what they seem, and strive
+To turn their dreams to life, through joy and strife,
+And so, through all of it, they come to thrive,
+The marks of growing souls throughout their life,
 
-Through joy and strife, which mark the growing soul
-That plays, in evolution's plan, the role
-So vital, for each woman, for each man,
-And all that lives, since life on earth began,
-For every living thing that hears hope ring
-And answers to the call that it will bring.
+That play, in evolution's plan, the role
+So vital, since the time when life began,
+For every living thing, and every soul,
+For every woman, and for every man.
 
 From Vater's great design to Gnathus' fine
-And mighty jaw, the story, line by line,
-Is clear for all to see, for you and me:
+And mighty jaw, the story is to see,
+And clear for all of us, and line by line:
 It's Innovation that will set us free.
 
 
