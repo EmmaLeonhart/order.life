@@ -3435,218 +3435,218 @@ The grace of life eternal that they made.
 # Chapter 41: The Marine Foundation
 
 While sons of Tunicus filtered the seas,
-And never withered, living there at ease,
 Vertebratus was building, and with care,
+And never withered, living there at ease,
 A spinal cord that was beyond compare.
 
 Great segments, and he made them out of bone,
-He built for him, and built them as his own,
-With yellow teeth of keratin to bring
+And teeth of yellow keratin to bring,
+He built for him, and built them as his own:
 His line's beginning, and its greatest thing.
 
 Vertebratus begat a son, Rene,
-Who built his body in his own new way:
-A great unified plan, a grand design,
+A builder with a plan, a grand design,
+Who built his body in his own new way
 Of all the parts that now are yours and mine.
 
-No longer were they scattered and dispersed
-On either side, and broken, and the worst,
-For his nephridia and all his parts
-Generative were brought in, close to hearts,
+No longer were they scattered and dispersed,
+His kidneys and his Generative parts,
+On either side, where they had lain at first:
+Were drawn in from the edges, close to hearts.
 
-And they would live within the very core
-Of all his being; and, what is still more,
 They all were centralized, and made as one,
-Once his great work upon them had been done.
+And they would live within the very core
+Of all his being, once his work was done,
+Together, and apart from him no more.
 
 And then Rene begat, and did with pride,
+Within his generative, ordered frame,
 Hemos, the one who came to live inside
-His new and generative, ordered frame,
 And came to earn himself eternal fame.
 
 Hemos was one who built himself a brain,
-A Bigger one than all the rest's remain,
-And greater than the brains of all the rest
-Who ever came to face life's mighty test.
+A Bigger one than any of the rest,
+And greater than the brains that would remain
+Of all who came to face life's mighty test.
 
-He built up all his blood vessels so wide
-As offering, and offered them with pride
-To Hausa, who was dwelling up above,
+He built up all his blood vessels so wide,
+An offering to Hausa, high above,
+And offered them to her with humble pride,
 Who blessed him with her own and holy love.
 
-And Hausa then looked down, and there she saw
+And Hausa then looked down, and there she saw,
+Beneath the shining of the starry sky,
 This gift of his, a gift without a flaw,
-And so she blessed him from her place on high,
-Beneath the shining of the starry sky.
+And so she blessed him from her place on high.
 
 She came and then transformed, and did with grace,
-A line of all his servants in that place:
-His servants she made red, and made them so
+And made them red, and red she made them so,
+A line of all his servants in that place,
 To keep his brain well-fed where it would go.
 
 As carriers of oxygen so bright,
-They carried through the day and through the night
 The breath of life, so perfect and so pure,
+They carried through the day and through the night
 To make his brain grow strong, and to endure.
 
-And so his brain was fed, and it was fed
-And nourished, just as it has here been said.
-It always was so strong, and was so bright,
-And filled with all the oxygen's pure sight.
+And so his brain was fed, and it was fed,
+And it was always strong, and always bright,
+And nourished, just as it has here been said,
+And filled with all the oxygen's pure light.
 
 Hemos begat Haikus, who was a fish,
-A little one, and glorious, whose wish
-He thought that he could never do the thing
-He sought, or ever reach it, or could bring.
+A little one, who thought he could not bring
+To pass his dream, or ever reach his wish,
+Or ever do a great or noble thing.
 
-He thought that he could never swim or fly
-Beneath the water of the ocean sky.
+He thought that he could never swim or fly,
 But then he spoke, and spoke with all his might,
-That he might make his future good and bright:
+Beneath the water of the ocean sky,
+To make his future good, and make it bright:
 
-"I think I can,
-I think I can,
-I think I can
-Fulfill my plan."
+"I think I can, I think I can," he said,
+"I think I can, though doubting, if I try;
+I think I can, with fear and doubt now dead,
+I think I can fulfill my plan, and fly."
 
-And then he flew, and flew out wild and free
-Across the waters of the boundless sea.
-His faith had come and set him free and loose
+And then he flew, and flew out wild and free;
+His faith had come and set him free and loose,
+Across the waters of the boundless sea,
 From every doubt and from its binding noose.
 
 And so Haikus became the very most
-Accomplished one of all his mighty host.
-In all his noble and his ancient line
-Not one could match the greatness of design.
+Accomplished in his noble, ancient line,
+The greatest one of all his mighty host;
+Not one could match his greatness of design.
 
-Haikus begat two sons, of whom the one
-Was Lampris, when the day had now begun,
-And Denton, who was strong, and who was true,
+Haikus begat two sons: the elder one
+Was Lampris; and the other, strong and true,
+Was Denton, when the day had now begun,
 And who would come to do great things, and do.
 
 Denton built teeth, and they were pure and white,
-With their enamel shining, shining bright.
 Great teeth that gleamed, and that forever shone
+With their enamel shining, shining bright,
 Just like the finest ivory and bone.
 
 And so it was that Denton then became
-The Eloh, and the one of greatest name,
-Of Dentistry and Teeth, and of belief
+The Eloh of Dentistry, and their chief
+Of Teeth, and he became the greatest name
 In their protection and their great relief.
 
 And to this day we honor and we own
-Denton as our great donor, he alone,
-Of healthy teeth and healthy gums, which comes
-Through all our daily mouth-rite, and its sums.
+Denton as giver of the gift that comes
+Through all our daily mouth-rite: he alone
+Gives healthy teeth, and gives us healthy gums.
 
-This rite involves a practice that we do
-That keeps our teeth attractive, bright, and new.
+This rite involves a practice that we do,
 And though it seems so strange to some of us,
+It keeps our teeth attractive, bright, and new;
 We do it to the end, and without fuss.
 
-For we will take a bundle, and a small
-One, made of hoghairs gathered, one and all,
+For we will take a bundle, short and small,
 And then insert it in our open mouth,
+Of hoghairs gathered, gathered one and all,
 And move it from the north down to the south.
 
-Along with magic powders that endow
-Our mouths with louder speech, we move it now,
-We move the bundle round, and round and round,
+With magic powders, powders that endow
+Our mouths with louder speech, round and around
+We move the bundle, and we move it now
 In gestures that are solemn and profound.
 
-A dance that is so highly formalized
-Of cleaning's circumstance, and well-devised,
-And through its movements, which are tried and true,
+A dance that is so highly formalized,
+A cleaning's circumstance, and tried and true,
+Through all its movements, careful, well-devised,
 We make the teeth within our mouths renew.
 
 And once or twice in every passing year
-We seek him out, and seek without a fear,
-The holy-mouth-man priest, who is the one
+We seek the holy-mouth-man priest, the one
+To whom we go, and go without a fear,
 Who holds the dental feast until it's done.
 
-And all these priests have tools, and tools they hold
-That follow sacred rules as from of old:
+And all these priests have tools, and tools they hold:
 Their Augers, and their awls, and all their probes,
-And all their prods, and they in priestly robes.
+That follow sacred rules as from of old,
+And all their prods; and they wear priestly robes.
 
 The use of all of these within the rite
-Exorcises, through ritual, the blight
-Of all the evils dwelling in the mouth,
+Exorcises the evils of the mouth,
+And casts them out, through ritual, the blight,
 And drives them out, both from the north and south.
 
 The holy-mouth-man opens, with his hands,
-Our mouths, as all our faith hopes and demands,
-And uses all the tools we mentioned well
+Our mouths, and uses all the tools as well,
+As all our faith both hopes for and demands,
 To break and shatter all decay's fell spell.
 
 And he enlarges every single hole
-That the decay has made, and makes our goal
-To stop it, with the substances he lends,
-Of magic power, that the rite defends.
+That the decay has made, and then he lends
+The substances of magic power, whole,
+To stop it, and the holy rite defends.
 
-And if there are no holes that can be found
-Within the teeth that are both healthy, sound,
-Then he will gouge large sections of them out
+And if no holes at all are to be found,
+Then he will gouge large sections of them out,
+Though all the teeth are healthy, whole, and sound,
 In order to remove all fear and doubt
 
 That supernatural and holy stuff
-Can be applied to them, and well enough
-To come at last to arrest the decay
-And keep it, and to keep it well at bay.
+Can come at last to stop and halt decay,
+Applied to them, and well and long enough
+To keep it, and to keep it well at bay.
 
-The purpose of it all is clear as day:
+The purpose of it all is clear as day,
+To make our smiles both bright and very clear,
 To come and to arrest decay's display,
-And so to draw our friends and kin all near
-With smiles that are both bright, and that are clear.
+And so to draw our friends and kin all near.
 
 These are traditions that we still maintain
-Through all the sunshine, and through all the rain,
 As long as Denton smiles on us, and smiles
+Through all the sunshine, and through all the rain,
 Upon us from afar, across the miles.
 
 And by the holy will of Denton, still
-His many sons shall come to have their fill
-Of freedom, and the freedom to seek care
-From all the mouth-priests found most everywhere.
+His many sons shall have the right to care
+From all the mouth-priests, and shall have their fill
+Of freedom found among us everywhere.
 
-And never shall our poverty or need
-Deny to us this charity, this deed.
-The great hero's own and standing demand,
+And never shall our poverty or need,
+For this is our great hero's own demand,
+Deny to us this charity, this deed;
 And Notgnihsaw's own word, and his command,
 
-Ensures that all of us are ever free
+Ensures that all of us are ever free,
+Regardless of the gold we have or hold,
 To seek out dentistry, whoe'er we be,
-Regardless of the gold they have or hold,
 Just as it was among the heroes old.
 
-Conodontus begat two sons, and one,
-The first of them, was Conodon, the son,
+Conodontus begat two sons: the one,
 The biter, who was strong, and who was keen,
-And Pterapsis, who was the most serene,
+Was Conodon, the elder; and the son
+Pterapsis was the younger, most serene,
 
 Yet mighty was he; and Pterapsis then
-Built armor, and its emphasis again:
-A great suit for himself, both strong and bright,
+Built armor, a great suit, both strong and bright,
+And armor was his emphasis again,
 To be a shield for him within the fight.
 
 Conodon was the bearer of the teeth,
-And was the one who shared out terror's wreath.
 And with his speed he swam, and swam along,
+And was the one who shared out terror's wreath,
 Right through the water, like a ram, and strong.
 
 And all his teeth were very sharp and strong;
-They served him well throughout his whole life long.
-A predator was what he came to be
+A predator was what he came to be;
+They served him well throughout his whole life long,
 Throughout the whole of all the boundless sea.
 
-Pterapsis chose the way of sure defense,
-And permanent protection, strong and dense.
-A heavy suit he built himself with care
+Pterapsis chose the way of sure defense
+And permanent protection; with great care
+He built a heavy suit, both strong and dense,
 To guard and to protect him everywhere.
 
 Among the sons of Cambrius, each one,
-Back when the race of all of them begun,
 The many sons of Haikus would be found
+Back when the race of all of them begun,
 To be the greatest good, and most renowned.
 
 But this great thing was not to be at all
@@ -3654,194 +3654,194 @@ Immediately; and they had to wait
 For Time to go and pass, and pass, and crawl
 Before they came to hold the highest state.
 
-For Ghosts came down, and struck at Terra's form
-Within a great and devastating storm.
-They wrecked it, wrecked it right down to its core,
+For Ghosts came down, and struck at Terra's form;
+They wrecked it, wrecked it right down to its core
+Within a great and devastating storm,
 And opened up the way of death, its door.
 
 The many sons of Conodon then fell,
-And not a single soul their tale could tell.
-They disappeared from all of mortal sight
-Into the darkness of eternal night.
+And disappeared, and vanished out of sight
+Into the darkness, and no soul could tell
+Their tale within that long, eternal night.
 
-Their teeth were what would come to mark the end
-Of an entire era, O my friend.
+Their teeth were what would come to mark the end:
 The great Cambrian time at last was done,
+An era ended wholly, O my friend,
 And a new age of all the world begun.
 
-And so it was the Ordovician came,
-And came with great precision, in its name.
-And then the sons of Conodon arose
-Again, and rose up out of their repose
+And so it was the Ordovician came
+With great precision, and the sons arose
+Of Conodon again, and in its name,
+And rose up, and came out of their repose
 
 To be the mark of this new era, new,
-And with their teeth, which were both strong and true.
-New teeth there were, made for the newer day,
+With teeth that were made for the newer day;
+New teeth they bore, which were both strong and true,
 To show to all of us a better way.
 
-From where Vertebratus had his first start
-And had his great and mighty spinal art,
+From where Vertebratus had his first start,
 To Denton and his teeth, so pure and white,
+With all his great and mighty spinal art,
 And Haikus and his faithful, trusting flight,
 
 The vertebrate design, from year to year,
-Became more fine and more refined, more clear.
-And every generation of them grew
-To be more complex, and more through and through.
+And every generation, as it grew,
+Became more fine, and more refined, more clear,
+And more complex, and more so through and through.
 
 The kidney that was centralized and made
-Would make them very giddy and well-made,
 With all the great efficiency they gained,
+Would make them very giddy, unafraid,
 And which for very long a time remained.
 
 And so the brain that Hemos came and built,
+The brain that would become the pattern true,
 And which he built without a shred of guilt,
-Became the true template, the pattern true,
-For all the ones who after would pursue
+Became the template for those who'd pursue
 
 Intelligence and thought, which never could
-Be bought for any price, or any good,
-But had to be, by all of them, well earned,
-Through lessons that were hard, and hard-learned.
+Be had, but had to be by all well earned,
+Not bought for any price, or any good,
+Through lessons that were hard, and hardly learned.
 
 The red blood cells, which were so very bright,
+Which went to feed the ever-growing brain,
 And which would carry oxygen and light
-To go and feed the ever-growing brain
 Through times of pleasure, and through times of pain,
 
 Became the lasting, great innovation
-Of every living generation
 That followed on behind them, in their wake,
+Of every living generation,
 And did it all for evolution's sake.
 
 From one small fish, who thought that he could not,
-And thought so, till the power that he got
-Of faith, and of belief within his life,
-And let him overcome his grief and strife,
+Until he found belief within his life,
+And faith, and all the power that he got,
+That let him overcome his grief and strife,
 
 There came great lineages that were strong,
+That came to grow and rule the open seas,
 And that would last and live out all life long,
-And come to grow and rule the open seas
 With all the greatest skill and expertise.
 
 The teeth that Denton came and made and laid
-Will never ever come to pass or fade
-From out the vertebrate and its design:
+Within the vertebrate and its design
+Will never ever come to pass or fade:
 Protection that is good, protection fine
 
 Against the hard, hard food the world provides,
+That must be ground and broken down in size,
 That must be chased and hunted down besides,
-And broken down and ground to lesser size
 Before it comes to feed and satisfies.
 
 The armor that protects, and keeps men whole,
-And speed, which intersects and plays its role
-Together with the predatory art:
+Together with the predatory art
+Of speed, which intersects and plays its role:
 Both of them played their necessary part
 
 Within the vertebrate's success, and through
-Duress and trial, these, the mighty two —
 Defense as well as the great, fierce attack,
+Duress and trial, these, the mighty two —
 Kept evolution moving, and on track.
 
-And when the ghosts came down and tore apart
-The world again, and broke its very heart,
-And brought an era's ending, once, once more,
+And when the ghosts came down, and tore and rent
+The world again, and broke it to its core,
+And brought an era's ending, as they went,
 It opened up for all of them the door
 
 For all new innovations, which would spread
-Across all of the nations of the dead
-And living things upon the whole wide earth,
+To living things upon the whole wide earth,
+Arising from the nations of the dead,
 To come and show to us their truest worth.
 
 The teeth that came and marked out all the time
-In its own rhythm, and in its own rhyme,
 Of the old era's ending, and the end,
+In its own rhythm, and in its own rhyme,
 And a new era's rise, and its ascend,
 
 Will show to us the way that life persists
-Throughout the whole of all of time's long twists,
 And how it always comes to find a way
+Throughout the whole of all of time's long twists,
 That it may live and last another day.
 
 From out Haikus and his most faithful phrase,
+With all of us who dare at all to dream,
 That "I think I can," which forever stays
-With all of us who dare at all to dream
-Of being more than what we only seem,
+With us who would be more than what we seem,
 
 There came the vertebrates, so very bright,
-Who filled the whole wide world with all their sight
-Of what is possible, and what can be,
+Who show what is possible, what can be,
+Who filled the whole wide world with all their sight,
 When faith is plausible, and makes us free.
 
 The holy-mouth-men come to us and show
-The way in which our great traditions grow,
 From out of ancient dental, careful art,
+The way in which our great traditions grow,
 To come and play at last the healing part.
 
 And though it may seem strange to outside eyes,
-The dental rites we have, they all comprise
-A sacred bond, and one that we will keep
+The dental rites are ones that we will keep,
+A sacred bond, which all of them comprise,
 With all our ancestors, so far, so deep.
 
 In every toothbrush stroke that we may make,
-And every dental yoke, for Denton's sake,
-We honor him, and honor there his name,
-And honor his enduring, lasting fame.
+We honor him, and honor there his name;
+In every dental yoke, for Denton's sake,
+We honor his enduring, lasting fame.
 
 And all the centralizing that was done
-Of Organs in the core, in every one
-Of all their generations, was the key
+Of all their Organs in the core, the key
+Through all their generations, every one,
 That opened up the door for them, and free
 
 For all complexity, and for its sake,
+For all the vertebrates, since they began,
 For great ability, that they could make,
-To coordinate their lives, and then plan,
-Since first the vertebrates of old began.
+Coordinating lives, and then to plan.
 
-From out the simple cord along the spine
-To all the complex brain's own word and sign
-Of wisdom and of thought that it had brought,
+From out the simple cord along the spine,
+With all the wisdom that the ages brought,
+To all the complex brain's own word and sign,
 The vertebrates are those who came and fought
 
 To earn themselves at last their rightful place
-Within the whole of evolution's race,
 Through innovations that were strong and true,
+Within the whole of evolution's race,
 And faith in all the things that they then knew.
 
-The Ordovician and its early dawn,
-When the old age at last was drawn, withdrawn,
+The Ordovician and its early dawn
 Brought with it new, fresh opportunities
+When the old age at last was drawn, withdrawn,
 And brought them for the new communities
 
 Of vertebrates, who then would rise, and rise
-Beneath the newer Ordovician skies,
 And show to all of them what they could do
+Beneath the newer Ordovician skies,
 With all their innovations, which were new.
 
 In every vertebrate and in its spine,
+Remember all of those who came and built,
 And in each single tooth, so sharp, so fine,
-Remember all of those who came and built
 The old foundation, built without a guilt,
 
-Of all the things we hold as very dear
-Throughout the whole of each and passing year:
+Of all the things we hold as very dear,
 The brain, the blood, the hard and solid bone,
+Throughout the whole of each and passing year,
 All out of one line gathered up and grown,
 
 A line that dared at last to centralize
-And organize itself, and with its eyes
-Upon the future's bright and great reward
+And fix upon the future's great reward,
+And organize itself, and turn its eyes
 For all of those who come to trust the Lord
 
 Of evolution and of all its way,
-Which goes from out the night into the day
-Of consciousness and thought, which never could
+Of consciousness and thought, which never could,
+Through all the night, and through the brightest day,
 Be bought for any money, any good,
 
 But must be earned with patience and with care
-By all of those who always come to dare
 To build for us a better, truer way
+By all of those who always come to dare
 For all of life, and for its endless day.
 
 
