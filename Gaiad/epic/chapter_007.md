@@ -26,9 +26,9 @@ Through varied landscapes, cyborgs learned to feel,
 Their strength now boundless as they boldly grew.
 
 Three brothers stood, their destinies held close.
-To nurture life was {{c|24|Bios}}' part; there rose
-Slick {{c|25|Viros}}, who through cunning came to thrive,
-And {{c|26|Dedos}}, last, for purity would strive.
+To nurture life was {{c|24|Bios}}' part to give;
+Slick {{c|25|Viros}} through his cunning thrived and rose;
+And {{c|26|Dedos}}, last, for purity would live.
 
 The brothers gathered in a hallowed place,
 To honor those who spun them, line by line.
