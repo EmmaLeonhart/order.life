@@ -525,114 +525,115 @@ Hidden, and saved; and so he received it:
 
 # Chapter 257: Here I Stand
 
-The miner's son from {{p|Eisleben}} was meant to be a lawyer.
-His father {{c|3751|Hans}} had copper smelters and a plan.
-But in 1505, on the road near {{p|Stotternheim}},
-A thunderbolt threw him down, and the young man,
+The miner's son from {{p|Eisleben}} was meant
+To be a lawyer; {{c|3751|Hans}}, his father, planned
+On copper; but in fifteen-oh-five, sent
+Near {{p|Stotternheim}}, the thunderbolt's hand
 
-Terrified, cried out to {{c|3752|Saint Anne}}, the miners' saint:
-Help me, and I will become a monk. He kept the vow.
-He went into the {{c|3753|Augustinians}} at {{p|Erfurt}},
-And fasted, and confessed, and could not tell how
+Threw him down; and, afraid, he cried for aid
+To {{c|3752|Saint Anne}}, miners' saint: "Help, and a monk
+I'll be." He kept the vow; and so he made
+His way to {{c|3753|Augustinians}}, and sunk
 
-To be righteous enough for {{c|472|God}}. He confessed for hours.
-His confessor told him: go and sin something worth confessing.
-He went to {{p|Rome}} and climbed the holy stairs on his knees
-And at the top he thought: who knows if it is so? The blessing
+In {{p|Erfurt}} into fast, confession, dread,
+Not knowing how to be righteous for {{c|472|God}};
+Confessor: "Sin a sin worth this," he said;
+At {{p|Rome}}, he climbed the stairs on knees, and trod
 
-Did not come. He taught the {{x|Bible}} at {{p|Wittenberg}},
-In a small university in a small {{x|Saxon}} town,
-And in the {{c|3754|Letter to the Romans}} he read: the just shall live
-By faith. Not by the stairs. Not by the crown
+Up to the top, and thought: "Who knows it's so?"
+The blessing did not come; he taught; a sign
+At {{p|Wittenberg}}, small {{x|Saxon}} town, and slow,
+He read the {{c|3754|Letter to the Romans}}' line:
 
-Of works. Not by the money. And then the money came.
-{{c|3755|Tetzel}}, a friar, was selling indulgences
-Across the border, for the building of {{p|Saint Peter's}}
-And for the debts of an archbishop, the expenses
+"The just shall live by faith." Not by the stairs,
+Nor by the crown of works, nor by the gold.
+And then the money came: a friar's wares,
+{{c|3755|Tetzel}}'s indulgences, across the fold
 
-Of {{c|3756|Albrecht}} of {{p|Mainz}}, who had bought his see:
-*As soon as the coin in the coffer rings,
-The soul from purgatory springs.*
-The peasants of {{p|Saxony}} walked across to buy the things.
+Of border, for {{p|Saint Peter's}} building, and
+The debt of {{c|3756|Albrecht}}, {{p|Mainz}}, who bought his see:
+"As soon as coin in coffer rings," the band,
+"Of souls from purgatory springs out free."
 
-On the last day of October, 1517,
-{{c|1062|Luther}} wrote out ninety-five theses for debate,
-In {{x|Latin}}, for scholars: whether the pope can empty purgatory,
-And if he can, why he does not, out of love, and not for the weight
+And {{p|Saxony}}'s poor walked across to buy.
+October's last day, fifteen-seventeen,
+{{c|1062|Luther}} wrote ninety-five theses; asked why
+The pope won't, out of love, the place make clean,
 
-Of the coins. Whether he nailed them to the church door
-Is not certain. He sent them to the archbishop. What is certain
-Is the press. Within weeks they were printed, and by the spring in {{x|German}},
-And within months they were across the empire. The curtain
+Not for the coin; in {{x|Latin}}, for debate;
+He nailed them to the church door, and he sent
+Them to the archbishop; in weeks, the weight
+Of print spread them, {{x|German}} by spring, and went
 
-Of the {{x|Latin}} was torn. This is what {{c|3217|Gutenberg}} had made
-Seventy years before without knowing: a voice
-That could not be burned faster than it could be set in type.
-{{c|3757|Hus}} had been burned. {{c|1062|Luther}} was printed. Choice
+Across the realm; the {{x|Latin}} curtain tore.
+This {{c|3217|Gutenberg}} had made, not knowing, when
+Seventy years before: a voice that, more
+Than it was burned, was set in type; and then
 
-Of a weapon. In the next years his pamphlets
-Were more than any author's in {{p|Europe}} had ever been:
-*To the {{x|Christian Nobility}}*. *The {{x|Babylonian Captivity}}*.
-*The {{x|Freedom of a Christian}}*. Small books, cheap, and seen
+{{c|3757|Hus}} had been burned; {{c|1062|Luther}} was printed: choice
+Of weapon. Then his pamphlets, more and more,
+Than any in all {{p|Europe}}'s, found their voice:
+*To the {{x|Christian Nobility}}*; the core,
 
-In every market, read aloud in every tavern
-To men who could not read. The {{c|2825|Pope}} excommunicated him.
-He burned the bull in a bonfire at the city gate.
-And at {{p|Worms}}, in 1521, before the emperor, {{c|3253|Charles}}, grim
+*The {{x|Babylonian Captivity}}*;
+Small books, and cheap, through all the markets spread;
+*The {{x|Freedom of a Christian}}*, liberty
+Aloud in taverns to the unread, said.
 
-In his youth, with his {{x|Habsburg}} jaw, the lord
-Of half the world, the monk was asked to recant.
-He asked for a day. He came back, and he said: unless
-I am convinced by {{x|Scripture}} and plain reason, I can't,
+The {{c|2825|Pope}} then cast him out; and {{c|1062|Luther}} burned
+The bull in flames before the city gate;
+At {{p|Worms}}, in fifteen twenty-one, he turned
+Before young {{c|3253|Charles}}, the emperor, whose great
 
-My conscience is captive to the {{x|Word of God}}.
-And the printers, afterward, added: *Here I stand.
-I can do no other.* He may not have said it.
-It was printed. It became what he said. The hand
+And {{x|Habsburg}} jaw ruled half the world; and asked
+Recant, he begged a day; came back, and said:
+"Unless by {{x|Scripture}} and plain reason tasked
+I am convinced, I cannot; I am led,
 
-Of the press decides what the man said. Remember that.
-Then a friendly kidnapping: {{c|3758|Frederick}} of {{p|Saxony}}
-Had him seized on the road and hidden in the {{p|Wartburg}},
-And there, as {{c|3759|Junker Jörg}}, in a beard, in a cell of agony
+"My conscience captive to the {{x|Word of God}};
+Here I stand; I can do no other." Then
+A friendly kidnap, {{c|3758|Frederick}}'s, and odd,
+Of {{p|Saxony}}, hid him in {{p|Wartburg}}'s den,
 
-And ink, he translated the {{c|3760|New Testament}}
-Into {{x|German}} in eleven weeks. Not the {{x|German}}
-Of the clerks: the {{x|German}} of the mother in the house,
-The children in the street, the man in the market. The sermon
+As {{c|3759|Junker Jörg}}, with beard, in a dark cell
+In eleven weeks, put into {{x|German}}
+The {{c|3760|New Testament}}, speech that mothers tell,
+The street, the market; once the priest's sermon,
 
-Had been the priest's. Now the book was the household's.
-And the language of the book became the language of the land.
-{{x|High German}} is, in part, the language {{c|1062|Luther}} chose.
-That is what it means for scripture to leave the priest's hand.
+Was now the household's book; the book's own tongue
+Became the land's: {{x|High German}} is, in part,
+The speech that {{c|1062|Luther}} chose; and so, among
+The folk, the scripture left the priest's own art.
 
-Now the other side. Hold both. In 1525 the peasants rose,
-Reading the same book, finding freedom in it, and the princes
-Slaughtered them, and {{c|1062|Luther}} wrote to the princes:
-*Smite, slay, and stab.* A hundred thousand dead. He who convinces
+Now hold both sides. In fifteen twenty-five
+The peasants rose, read the same book, with pride;
+The princes slaughtered them; he wrote, to drive
+Them: "Smite, slay, stab"; a hundred thousand died.
 
-The poor that the book is theirs had better be ready
-For them to read it. He was not ready. And when he was old
-He wrote against the {{c|2500|Jews}}, a book of fire:
-Burn their synagogues, he wrote. Four hundred years later, the cold
+Who tells the poor the book is theirs must be
+Ready for them to read; he was not; old,
+He wrote against the {{c|2500|Jews}} a book; and he
+Wrote: "Burn their synagogues." The press is bold:
 
-Men of the {{c|3761|Reich}} would print it again. That is the press too.
-The same machine. A voice that cannot be burned
-Can be used to burn. {{c|1062|Luther}} married {{c|3762|Katharina von Bora}},
-An escaped nun, smuggled out in a fish wagon; they turned
+A voice that cannot burn can burn; the same
+Machine. Then {{c|1062|Luther}} wed a nun, who fled,
+{{c|3762|Katharina von Bora}}, she who came
+Out, hidden, in a fish cart; and, instead,
 
-A monastery into a house of children and of students,
-And beer, and table talk. The {{x|Church}} split in three:
-{{p|Rome}}, and {{p|Wittenberg}}, and the others coming, {{p|Zürich}}, {{p|Geneva}}.
-The keys the fisherman had passed were no longer the only key.
+A cloister made a house of children, ale,
+And students, table talk. The {{x|Church}} split three:
+{{p|Rome}}, {{p|Wittenberg}}, and soon {{p|Geneva}}; frail,
+The fisher's keys, no more the only key.
 
-Every household with a {{x|Bible}} became a little church.
-Every reader, a priest. That was the promise and the danger.
-The register of souls the priests had kept would pass
-To the state. The book would pass to the stranger.
+Each household with the book became a church,
+Each reader, priest: the promise and the threat;
+The souls the priests had registered, the search,
+Would pass to states; the book, to strangers met.
 
-Hold the one sentence that was surely his, before the printing:
-Unless I am convinced, I cannot. The rest is the printers' saying.
-A conscience in a hall. The press. The hymn. The praying.
+Hold, then, the hall, the conscience, and the stand:
+"Unless I am convinced, I cannot"; then
+The press, the hymn, the praying, and the hand
+That set his words in type for common men.
 
 
 # Chapter 258: The Lawgiver's Register
