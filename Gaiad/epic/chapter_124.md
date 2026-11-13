@@ -102,8 +102,8 @@ Kept up the vigil of the early way,
 Asocial, ancient, as he was of yore,
 Of primates, in the dark, before the day.
 
-And {{c|1814|Aegyptopithos}}, the fossil found
-In {{p|Egyptian}} earth, told anthropoid day:
+And {{c|1814|Aegyptopithos}}, the ancient, crowned
+In {{p|Egyptian}} earth, brought anthropoid day:
 The first true higher primate, as the ground,
 The root from which the monkeys made their way,
 
