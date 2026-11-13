@@ -1,151 +1,173 @@
 # Chapter 339: Shock and Awe
 
-The third day of Yuletide is the feast of the year two thousand and three.
-Light three lights, for the year I was seven and the war on the screen I would see.
+The third day of Yuletide: two thousand three;
+Light three lights; the year that I was seven;
+The war in {{p|Iraq}} on the screen; and me,
+Watching grown-ups watch, the green-lit heaven
 
-In two thousand and three I turned seven, and the year was the war in {{p|Iraq}}.
-I did not watch the war; I watched the grown-ups watch it, night after night,
-The green night of the cameras, {{p|Baghdad}} lit by fire,
-And the generals' word for the bombing, shock and awe, which I said because it sounded right.
+{{p|Baghdad}} lit by fire; the generals' word,
+Shock and awe; I said it; it sounded right;
+The war I did not watch; and what I heard
+Was grown-ups' faces, every single night.
 
 ## The shuttle
 
-On Saturday the first of February the shuttle {{x|Columbia}} came apart over {{p|Texas}}, coming home.
-A piece of foam had struck the wing on the way up, sixteen days before,
-And the people who could have asked if it mattered decided it did not.
-Seven died, and the pieces fell over two states, and the sky held the score.
+Saturday, February first, apart
+Came {{x|Columbia}}, over {{p|Texas}}, home;
+Foam struck the wing on launch, sixteen days' start;
+Who could have asked said no; from sky to loam
 
-{{c|4524|Ilan Ramon}} was aboard, the first astronaut of {{p|Israel}},
-And {{c|4525|Kalpana Chawla}}, born in {{p|Karnal}}, in {{p|India}}'s land.
-The board wrote that the culture had learned to accept what it should have feared.
-Seven names in the sky, and this book keeps them, as the calendar planned.
+Seven died; over two states, pieces fell;
+{{c|4524|Ilan Ramon}} aboard, {{p|Israel}}'s first;
+{{c|4525|Kalpana Chawla}}, from {{p|Karnal}}, as well;
+The board: a culture learned to take the worst
+
+It should have feared; seven names in the sky,
+This book keeps them. In February, then,
+{{c|4526|Colin Powell}}, at the Council, held high{{fn|The Security Council.}}
+A vial, recordings, pictures; and when
 
 ## The case
 
-On the fifth of February {{c|4526|Colin Powell}} spoke to the {{x|Security Council}}
-With photographs and recordings and a vial held up to the room,
-And made the case for the weapons of mass destruction in {{p|Iraq}}, as he must.
-Much of it came from one source, {{x|Curveball}}, whom his own handlers did not trust.
+The case for weapons in {{p|Iraq}}; much came
+From {{x|Curveball}}, one source, whom handlers doubt;
+None found; {{c|4527|Powell}} called it a blot, his name;
+A case's not a fact for honor; out
 
-No such weapons were found. {{c|4527|Powell}} called the speech a blot on his name.
-A case is not a fact because the man who makes it is honorable and brave.
-On the fifteenth of February the largest protest in history marched,
-Three million in {{p|Rome}}, a million in {{p|London}}, and the war came anyway, like a wave.
+On the fifteenth, the largest protest marched:
+Three million, {{p|Rome}}; a million, {{p|London}}; same,
+The war came anyway, a wave; and arched,
+The twentieth of March: the bombs, the flame
 
 ## The invasion
 
-On the twentieth of March the bombs fell on {{p|Baghdad}},
-And the {{p|United States}} and {{p|Britain}}, with {{p|Australia}} and {{p|Poland}}, crossed from {{p|Kuwait}}.
-In three weeks they reached the capital. On the ninth of April, in {{x|Firdos Square}},
-They pulled down the statue of {{c|4528|Saddam Hussein}}, and the tyrant's reign was a closed gate.
+On {{p|Baghdad}}; {{p|United States}}, {{p|Britain}}, crossed,
+With {{p|Australia}} and {{p|Poland}}, from {{p|Kuwait}};
+Three weeks to the capital; the ninth, tossed,
+{{x|Firdos Square}}'s {{c|4528|Saddam Hussein}}; tyrant's gate
 
-In those days the national museum was looted,
-The tablets and the vases of the oldest cities in this book,
-While the soldiers guarded the oil ministry down the road.
-Some of it came back. Much is gone, wherever the looters took.
+Closed. National museum, in those days,
+Was looted: tablets, vases of the first
+Cities in this book; soldiers, by the ways,
+They kept the oil ministry; much, dispersed,
 
-On the first of May {{c|4514|George W. Bush}} landed on the carrier {{x|Abraham Lincoln}}
-Under a banner that said mission accomplished, and said the major combat was done.
-The regime was done. The war against the insurgents was beginning,
-And most of its dying was still to come, under the desert sun.
+Is gone; and some came back. The first of May,
+Then {{c|4514|Bush}}, on the {{x|Abraham Lincoln}}, won,
+Mission accomplished, read the banner's say;
+Regime done; the insurgents' war, begun;
 
 ## The orders
 
-In May {{c|4529|Paul Bremer}} signed the orders that removed the {{x|Baath}} party from its posts
-And dissolved the army, and sent the soldiers home with their guns and no pay.
-Many of them found the insurgency. On the nineteenth of August a truck bomb
-Destroyed the {{x|United Nations}} in {{p|Baghdad}}, and {{c|4530|Sérgio Vieira de Mello}} died that day.
+Most of its dying still to come. In May,
+{{c|4529|Paul Bremer}} signed: the {{x|Baath}} from posts, and sent
+The army home, with guns and with no pay;
+Many to the insurgents; August, went
 
-On the thirteenth of December {{c|4528|Saddam Hussein}} was found in a hole near {{p|Tikrit}},
-Bearded, and he gave himself up to the soldiers who pulled him out.
-The man who gassed {{p|Halabja}} was in American hands.
-His trial and his hanging are later chapters, without doubt.
+{{p|Baghdad}}'s {{x|United Nations}}, by a truck;
+{{c|4530|Sérgio Vieira de Mello}}; found
+December thirteenth, near {{p|Tikrit}}, by luck
+In a hole, {{c|4528|Saddam Hussein}}, bearded, bound;
+
+He gave himself to those who pulled him out;
+The man who gassed {{p|Halabja}}, in our hands;
+His trial, hanging, later; and, no doubt,
+Later chapters. October, in far lands,
 
 ## The oligarch
 
-On the twenty-fifth of October, on a runway in {{p|Novosibirsk}},
-Masked men of the {{x|FSB}} took {{c|4531|Mikhail Khodorkovsky}} from his plane,
-The richest man in {{p|Russia}}, who had funded the opposition.
-{{c|4518|Putin}} took his company, {{x|Yukos}}, and put him in a cell for ten years of pain.
+The twenty-fifth, at {{p|Novosibirsk}}'s strip,
+Masked {{x|FSB}} men took him from his plane,
+{{c|4531|Mikhail Khodorkovsky}}, the richest, whose grip
+Funded the opposition; {{c|4518|Putin}}'s gain:
 
-That is how the villain taught the rich of {{p|Russia}}:
-Keep out of politics, and keep your money, and keep your head.
-The ones who learned the lesson kept their yachts.
-The ones who did not went to the camps, or into exile, or were dead.
+{{x|Yukos}} he took; ten years, a cell, for pain;
+And that is how the villain taught the rich:
+Stay out of politics, keep coin, keep brain;
+Those who learned kept yachts; others, in the ditch.
 
 ## The sickness
 
-The cough that began in {{p|Foshan}} spread in the spring.
-A doctor from {{p|Guangzhou}} stayed in a {{p|Hong Kong}} hotel in February,
-And the guests carried it to {{p|Toronto}}, {{p|Hanoi}}, {{p|Singapore}}.
-{{c|4532|Carlo Urbani}} in {{p|Hanoi}} warned the world first, and died of it in March, the visionary.
+The cough from {{p|Foshan}} spread that spring; one came
+From {{p|Guangzhou}} to a {{p|Hong Kong}} hotel; through
+{{p|Toronto}}, {{p|Hanoi}}, {{p|Singapore}}; the name
+{{c|4532|Carlo Urbani}} warned first, and died too;
 
-The {{x|World Health Organization}} issued a global alert.
-Eight thousand fell ill, seven hundred and seventy-four died, and by summer it was gone,
-Stopped by masks and quarantine and tracing.
-The next one, seventeen years on, would not be stopped, and would go on.
+The {{x|World Health Organization}} warned all;
+Eight thousand ill, and seven hundred died;
+By summer gone, by masks and tracing's wall,
+And quarantine; the next would not subside.
 
 ## The finished letters
 
-On the fourteenth of April, in {{p|Bethesda}}, the consortium announced
-That the {{x|Human Genome Project}} was finished, two years ahead of the date,
-Fewer than one error in ten thousand letters, fewer than four hundred gaps.
-{{c|4533|Francis Collins}} stood for the code, and the code was great.
+April fourteenth, at {{p|Bethesda}}, they said:
+The {{x|Human Genome Project}}, finished, two
+Early; under one in ten thousand, read
+Wrong; fewer than four hundred gaps; and through
 
-{{c|4534|Robert Waterston}} said: we have before us the instruction set
-That carries each of us from the one-cell egg to the grave.
-This book, which counts the lines of descent from the first cell,
-Takes that sentence for its own: the letters are the line that the ancestors gave.
+{{c|4533|Francis Collins}} stood for the code, and great;
+{{c|4534|Robert Waterston}}: before us, the set
+Of instructions, the egg to the grave's gate;
+This book, which counts descent, takes it: the debt
 
 ## The courts and the bodies
 
-On the twenty-sixth of June, in {{x|Lawrence v. Texas}}, the {{x|Supreme Court}}
-Struck down the laws that made love between two men a crime.
-Two men had been arrested in their own bedroom in {{p|Houston}}.
-On the eighteenth of November {{p|Massachusetts}}' court said marriage was theirs, and it was time.
+The letters, the line the ancestors gave.
+June twenty-sixth, {{x|Lawrence v. Texas}} struck
+The laws that made two men's love crime; the brave
+Two men in {{p|Houston}}, in their room, were struck.
 
-These were the years the law began to turn,
-And I was growing up inside the turning, at seven, in my room.
-I would turn too. I did not know it was mine yet,
-But the law was clearing the road before I came to the bloom.
+November eighteenth, {{p|Massachusetts}}' court
+Said marriage theirs; the law began to turn;
+And I, at seven, growing, in the sort
+Of turning; I would turn, too; and would learn
 
 ## The heat and the dark
 
-On the fourteenth of August the power failed across the northeast,
-{{p|Ohio}} to {{p|New York}} to {{p|Ontario}}, fifty-five million in the dark,
-Because a software alarm in one control room had stopped,
-And trees had touched a line, and the grid went out like a spark.
+It mine; the law cleared roads before my bloom.
+August fourteenth: the northeast's lights all stalled,
+{{p|Ohio}}, {{p|New York}}, {{p|Ontario}}: gloom,
+Fifty-five million dark; an alarm stalled;
 
-In {{p|Europe}} that summer the heat killed seventy thousand,
-Most of them old, many alone in apartments in {{p|Paris}}' heat,
-While their families were away on holiday.
-It was the first of the century's great heats, and not the last to beat.
+Trees touched a line; the grid went like a spark.
+In {{p|Europe}}, summer's heat killed, old and lone,
+Seventy thousand, {{p|Paris}}' flats; the stark,
+Their families on holiday; and shown
 
 ## The rest of the year
 
-In February the war in {{p|Darfur}} began, and the {{x|Janjaweed}} burned the west.
-In March {{c|4535|Hu Jintao}} became the president of {{p|China}}'s state.
-In August {{c|4536|Charles Taylor}} left {{p|Liberia}}, his war at an end,
-And in October the {{x|Concorde}} flew its last flight, and the world chose a slower rate.
+The century's first great heat, not the last.
+In February, {{p|Darfur}}'s war, the west
+Burned by the {{x|Janjaweed}}; and, in March, passed
+{{c|4535|Hu Jintao}}, {{p|China}}'s president; the rest:
 
-In October {{c|4537|Yang Liwei}} went into orbit, the first astronaut of {{p|China}}'s own.
-On the twenty-third of November, in {{p|Tbilisi}}, the {{x|Rose Revolution}}
-Carried roses into the parliament, and the old president of {{p|Georgia}} was overthrown,
-A people choosing their government, and the roses were the solution.
+{{c|4536|Charles Taylor}} left {{p|Liberia}}, war's end;
+October: {{x|Concorde}}'s last flight; slower rate;
+{{c|4537|Yang Liwei}} in orbit, {{p|China}}'s; to send
+Roses, November twenty-third, the state
 
-Remember {{p|Georgia}}. {{c|4518|Putin}} will invade it five chapters on.
-In the summer {{x|MySpace}} opened, and {{x|Skype}}, and a world called {{x|Second Life}},
-And people began to live part of their lives online,
-In rooms with no walls, and I would grow up in those rooms, past the strife.
+The {{x|Rose Revolution}}, {{p|Tbilisi}}; thrown,
+Old president; a people chose; and, now,
+Remember {{p|Georgia}}; for the villain, known,
+Will come for it. And {{x|MySpace}}, {{x|Skype}}, and how
+
+A {{x|Second Life}}: people began to live
+Part of life online, in rooms with no wall;
+I would grow up in those rooms. And, to give
+The year its hold: a shuttle fell; in all
 
 ## The year held
 
-A shuttle fell, the largest crowd in history marched, and the war came all the same.
-A tyrant's statue fell in {{p|Baghdad}}, and the tyrant was pulled from his hole.
-A museum was emptied, an army sent home, a sickness stopped,
-A genome finished, a court that let two men love, and an oligarch taken whole.
+The largest crowd marched, and the war came; fell
+A tyrant's statue; and the tyrant, found;
+Museum emptied; army sent home; well,
+A sickness stopped; a genome, its whole ground;
 
-I was seven, watching the grown-ups watch it,
-The green night, the fire, the word that sounded like a game.
-The country that was struck was striking back,
-And the villain in {{p|Moscow}} was taking the rich men one by one, by name.
+A court let two men love; an oligarch,
+Taken; and I, at seven, watched the eyes
+Of grown-ups watching; the green night, its mark;
+The word, a game; the struck, striking; the rise
+
+Of {{p|Moscow}}'s villain, taking, one by one,
+The rich men, by their names; I, seven, saw
+The world, two thousand three, beneath the sun,
+The year, three lights; and Yuletide's third, its law.
