@@ -1,220 +1,86 @@
 # Chapter 153: The Middle Kingdom
 
-And {{p|Egypt}} emerged from the {{p|First Intermediate Period}}.
+And {{p|Egypt}} rose again: the land had split,
+{{p|Herakleopolis}} the north held, and south
+{{p|Thebes}} slowly grew; and drought had weakened it,
+And for a hundred years, from source to mouth,
 
-The collapse of the {{p|Old Kingdom}} around twenty-two hundred BCE
-Had fragmented the unified state into rival regional dynasties.
-Upper and {{p|Lower Egypt}} had split. {{p|Herakleopolis}} ruled the
-North. {{p|Thebes}}—an obscure provincial town at the time—gradually
+The river ran divided; till, at last,
+{{c|2025|Mentuhotep II}}, the mighty {{p|Theban}} king,
+Defeated all the north, and made it fast
+To one again: the {{p|Middle Kingdom}}'s spring.
 
-Rose in the south. For over a century, {{p|Egypt}} was divided, weakened,
-And suffering from the climate shifts that had brought down so
-Many civilizations simultaneously across the {{p|Old World}}. And then,
-Around twenty-sixty BCE, {{c|2025|Mentuhotep II}}, king of {{p|Thebes}}, defeated
+For three centuries and a half it stood,
+Confident, not aggressive; rich, not vain;
+And pious, but not monumental; good
+In letters, and the finest in its reign.
 
-The northern dynasties and reunified the country. {{p|Egypt}} was whole
-Again. The {{p|Middle Kingdom}} had begun.
+The Twelfth moved north, and set its throne up high
+At {{p|Itjtawy}}, between the two lands, free;
+The first {{c|2026|Amenemhat I}}, {{c|2027|Senusret I}},
+{{c|2028|Senusret III}}, {{c|2029|Amenemhat III}}.
 
-                                                   The {{p|Middle Kingdom}}
-Is generally dated from approximately twenty-fifty-five to seventeen
-Hundred BCE—three and a half centuries of restored centralized rule.
+They drained and watered the {{p|Faiyum}}'s wide field,
+And pushed down into {{p|Nubia}}, and spread
+Their rule; and arts and letters, made to yield,
+Grew finer than the pyramid age bred.
 
-It is often called, in {{p|Egyptian}} historiography, the classical
-Period of {{p|Egyptian}} civilization—not because it was the wealthiest
-Or the most expansive, but because it was the period of greatest
-Literary and artistic refinement. The pyramid-building megalomania
+And then was {{p|The Tale of Sinuhe}} set down:
+A noble fled the court, and lived among
+The {{p|Amorites}} in {{p|Canaan}}, won renown,
+And wed a princess of the foreign tongue,
 
-Of the {{p|Old Kingdom}} had passed. The empire-building militarism of
-The later {{p|New Kingdom}} had not yet arrived. The {{p|Middle Kingdom}} sat
-In between—an {{p|Egypt}} that was confident but not aggressive, wealthy
-But not extravagant, pious but not monumental. And in this quieter
+And longed for {{p|Egypt}}, and to lie at last
+Among his fathers in his native ground;
+And so came home, his years of exile passed,
+And with {{p|Egyptian}} burial was crowned.
 
-Mode, it produced some of the finest {{p|Egyptian}} literature ever
-Written.
+{{p|The Shipwrecked Sailor}}, cast upon an isle
+Where a great serpent spoke, and told its woe,
+And sent him home with gifts, and with a smile,
+Back to his king, to tell what he would know.
 
-            The {{p|Eleventh Dynasty}}, under {{c|2025|Mentuhotep II}} and his
-Successors, ruled from {{p|Thebes}}. The {{p|Twelfth Dynasty}}, which
-Succeeded them around nineteen ninety BCE, moved the capital north
+{{p|The Eloquent Peasant}}, cheated, then came
+Before the court, and spoke nine times of right;
+The king, delighted, held his case the same,
+Delaying, that he'd speak, by day and night.
 
-To {{p|Itjtawy}} (near modern {{p|El-Lisht}}), strategically positioned at
-The junction between {{p|Upper}} and {{p|Lower Egypt}}. The {{p|Twelfth Dynasty}}
-Included some of the most capable pharaohs of the entire {{p|Egyptian}}
-Sequence: {{c|2026|Amenemhat I}} (founder of the dynasty), {{c|2027|Senusret I}},
+{{p|The Instruction of Amenemhat}} I, where
+The murdered king's ghost warned his son of guile;
+And {{p|Merikare}}'s, for princes; and the rare
+Man who argued with his ba, whose trial
 
-{{c|2028|Senusret III}}, and {{c|2029|Amenemhat III}}. These kings consolidated royal
-Authority, rebuilt infrastructure, launched ambitious irrigation
-Projects (particularly the land-reclamation works in the {{p|Faiyum
-Oasis}}), expanded {{p|Egyptian}} control south into {{p|Nubia}}, and
+Was whether life was worth the living; and
+{{p|The Satire of the Trades}} mocked the pains
+Of barber, washer, laborer, to stand
+The scribe above them, and the scribe's own gains.
 
-Patronized the arts and sciences on a scale that would make the
-{{p|Middle Kingdom}} the reference-point for every subsequent
-{{p|Egyptian}} renaissance.
+{{c|1166|Osiris}}, who was once the king's alone,
+Was opened to the nobles, then to all
+Who had the rites; and each could be his own
+{{c|1166|Osiris}} at his death, and hear the call.
 
-                                 And the literature of the {{p|Middle
-Kingdom}} is remarkable. This is the period of the great tales and
+The {{p|Coffin Texts}} were written on the wood
+To guide the dead below; the heart was weighed
+Against the feather of {{c|2030|Ma'at}}, the good;
+For all, not kings alone, the scales were laid.
 
-Wisdom texts that would be copied and studied in {{p|Egyptian}} schools
-For the next fifteen hundred years. {{p|The Tale of Sinuhe}}—a narrative
-Of an {{p|Egyptian}} noble who flees the court after a political
-Disturbance, lives in exile among the {{p|Amorites}} in {{p|Canaan}}, marries
+And traded to the {{p|Levant}}, and the south
+To {{p|Nubia}}, and {{p|Punt}}, for myrrh and scent,
+And with the {{p|Minoans}}, from the {{p|Nile}}'s wide mouth
+To {{p|Crete}}, and back the painted wares they sent.
 
-A {{p|Canaanite}} princess, rises to prominence in the foreign court,
-And eventually returns home to {{p|Egypt}} to be buried among his
-Ancestors—is one of the first great works of narrative prose
-Literature in human history. It combines autobiography, adventure,
+And to the eastern {{p|Delta}} came the folk
+Of {{p|Canaan}}, sons of {{c|1876|J}}, and settled there,
+As herders, farmers, merchants; and the yoke
+Was light, and they were welcome everywhere.
 
-Reflection, and homecoming-longing in a form that prefigures the
-Novel. {{p|Sinuhe}}'s yearning for {{p|Egypt}} during his exile—the famous
-Passages in which he describes his desire to be buried in his
-Homeland, to have an {{p|Egyptian}} funeral, to rejoin his ancestors
+But in the {{p|Thirteenth Dynasty}} the kings
+Came quick and short; the {{p|Nile}} ran low; and then
+The east went its own way; and, as fate swings,
+The {{p|Hyksos}} ruled at {{p|Avaris}}, strange men.
 
-In the proper {{p|Egyptian}} way—is one of the most emotionally direct
-Pieces of ancient literature that survives. Three thousand nine
-Hundred years later, it still reads as recognizably human.
-
-And {{p|The Shipwrecked Sailor}}—a tale of a sailor stranded on a
-Magical island ruled by a giant talking serpent, who tells the
-
-Sailor his own tragic story before sending him home with gifts.
-The tale is a frame-narrative, a fantasy, a meditation on fate
-And resilience. {{p|The Tale of the Eloquent Peasant}}—a small
-Farmer appeals to the royal courts after being cheated by a
-
-Corrupt official, delivering nine increasingly elaborate speeches
-On the nature of justice. The king, secretly pleased by the
-Eloquence, deliberately delays deciding the case so that more
-Speeches will be produced. The tale is a meditation on rhetoric,
-
-On justice, and on the relationship between the weak petitioner
-And the powerful authorities. {{p|The Instruction of Amenemhat}}—a
-Political-philosophical text in which the ghost of the murdered
-{{c|2026|Amenemhat I}} instructs his son on the treacheries of kingship
-
-And the necessity of constant vigilance. {{p|The Instruction for
-Merikare}}—a practical handbook for young princes on good
-Governance. {{p|The Dialogue of a Man with His Ba}}—a suicidal man
-Debates with his own soul about whether life is worth living, one
-
-Of the earliest surviving philosophical texts on the meaning of
-Existence. {{p|The Satire of the Trades}}—a humorous poem listing
-The miseries of various manual occupations (the barber, the
-Washerman, the field laborer, the carpenter) to encourage the
-
-Reader's son to become a scribe instead.
-
-                                                These are not the
-Religious funerary texts of the {{p|Old Kingdom}} (the {{p|Pyramid Texts}})
-Or the extended spell-books of the {{p|New Kingdom}} (the {{p|Book of the
-
-Dead}}). These are literary works—short, focused, narratively or
-Philosophically interesting, designed to be enjoyed as well as
-Studied. They are {{p|Egypt}}'s classical literature. They were copied
-Over and over by later scribes as school texts, which is why they
-
-Survive in multiple manuscript traditions. And they reveal a
-Civilization that, having settled into a more modest political
-Scale after the grandiosity of the pyramid age, turned its energies
-Toward the cultivation of mind and letter. The {{p|Middle Kingdom}}
-
-Scribe was the intellectual ideal of subsequent {{p|Egyptian}}
-Civilization. Every later period looked back at the {{p|Twelfth
-Dynasty}} the way {{p|Renaissance Europe}} looked back at classical
-{{p|Rome}}—as the golden age that later generations tried to imitate.
-
-And religiously, the {{p|Middle Kingdom}} saw important developments.
-{{c|1166|Osiris}}—the god of the underworld, the mummified god whose story
-Of death and resurrection had been the exclusive preserve of the
-Royal afterlife in the {{p|Old Kingdom}}—was democratized. The
-
-Possibility of eternal life through identification with {{c|1166|Osiris}}
-Was extended, in the {{p|Middle Kingdom}}, from the pharaoh alone to
-The broader noble class, and eventually, in principle, to any
-{{p|Egyptian}} who could afford the funerary rites. Every {{p|Egyptian}}
-
-Could now become an {{c|1166|Osiris}} at death. The {{p|Coffin Texts}}—spells
-Inscribed on the sides of wooden coffins to guide the deceased
-Through the underworld—were the {{p|Middle Kingdom}}'s expanded
-Version of the {{p|Old Kingdom}}'s royal {{p|Pyramid Texts}}. The afterlife
-
-Was being opened up. The cosmic judgment, in which the deceased's
-Heart was weighed against the feather of {{c|2030|Ma'at}} (truth/justice),
-Applied to all {{p|Egyptians}}, not just the king. A moral-religious
-Democratization that was, for the ancient world, striking.
-
-And {{p|Middle Kingdom}} {{p|Egypt}} opened itself to its neighbors to a
-Degree that the {{p|Old Kingdom}} had not. Trade flourished with the
-{{p|Levant}}, with {{p|Nubia}}, with {{p|Punt}} (on the {{p|Somali}} or {{p|Yemeni}}
-Coast of the {{p|Red Sea}}—the frankincense-and-myrrh source). Diplomatic
-
-Relations were established with the {{p|Cretan}} {{p|Minoans}}, whose frescoes
-Would later appear at {{p|Middle Kingdom}}-influenced sites across the
-{{p|Aegean}}, and whose ceramics began arriving in {{p|Egyptian}} ports. The
-Relationship with the {{p|Semitic}} peoples to the northeast intensified—
-
-{{p|Canaanite}} populations began migrating into the {{p|Nile Delta}} in
-Increasing numbers, settling in the eastern delta as pastoralists,
-Farmers, and merchants. These were the {{p|Asiatics}}, as the {{p|Egyptians}}
-Called them—the {{c|1876|J}}-haplogroup {{p|Semitic}} speakers whose presence
-
-Would gradually transform the demographic balance of {{p|Lower Egypt}}.
-By the end of the {{p|Middle Kingdom}}, the eastern {{p|Nile Delta}} had a
-Substantial {{p|Canaanite}} population coexisting with the native
-{{p|Egyptian}} population. And this coexistence would, in a later
-
-Generation, produce the {{p|Hyksos}}—the foreign dynasty that would
-Eventually rule {{p|Lower Egypt}}. But the {{p|Middle Kingdom}} phase of
-This process was peaceful. {{p|Canaanites}} were welcomed as useful
-Subjects. {{p|Egyptian}} culture and {{p|Canaanite}} culture began the long
-
-Process of mutual influence that would shape the ancient {{p|Near
-Eastern}} world. And this is where the biblical {{c|2031|Joseph}} story, the
-{{x|Gaiad}} will argue in the following chapters, is historically situated—
-During the later {{p|Middle Kingdom}} or the transition to the {{p|Second
-
-Intermediate Period}}, when {{p|Canaanite}} families entering {{p|Egypt}}
-Could rise to positions of prominence and influence.
-
-The {{p|Middle Kingdom}} did not last. By the {{p|Thirteenth Dynasty}},
-The central state began to weaken. Rapid succession of short-reigned
-
-Pharaohs, climate pressures from the occasional low {{p|Nile}} flood,
-And the gradual political autonomization of the {{p|Canaanite}} population
-In the eastern delta led, around seventeen-forty to seventeen-thirty
-BCE, to the fragmentation of {{p|Egyptian}} political authority. The
-
-{{p|Hyksos}}—the "rulers of foreign lands," as the {{p|Egyptians}} called
-Them—took control of the eastern delta and established their own
-Dynasty there, with its capital at {{p|Avaris}}. The {{p|Second Intermediate
-Period}} began. A second {{p|Egyptian}} collapse, three centuries after
-
-The first. This second collapse would be the context of the biblical
-{{c|2019|Jacob}} and {{c|2031|Joseph}} narratives, which the {{x|Gaiad}} will unpack in
-The next chapter.
-
-                      But the {{p|Middle Kingdom}} itself—as a phase, as
-An achievement, as a cultural legacy—was {{p|Egypt}}'s classical age.
-
-It produced the literature, the religious democratization, the
-Foreign relations, and the domestic consolidation that subsequent
-{{p|Egyptian}} civilization would look back at as its reference-point.
-It is less famous, outside of {{p|Egyptological}} circles, than the
-
-{{p|Old Kingdom}} with its pyramids or the {{p|New Kingdom}} with its
-{{c|2032|Tutankhamun}} and {{c|2033|Ramesses II}}. But it was the most
-Culturally accomplished phase of {{p|Egyptian}} history. The pharaohs
-Were less grandiose. The art was more refined. The literature was
-
-More sophisticated. The religion was more democratic. And the
-{{p|Egyptian}} sense of itself as a coherent civilization, after the
-Near-death experience of the {{p|First Intermediate Period}}, was
-Consolidated and strengthened. The civilization had survived its
-
-First collapse and come back stronger in certain important ways.
-
-{{p|Middle Kingdom}}. {{c|2025|Mentuhotep II}}. The {{p|Twelfth Dynasty}}. {{p|Itjtawy}}.
-{{p|The Tale of Sinuhe}}. The democratization of {{c|1166|Osiris}}. The opening
-To the {{p|Levant}}. The {{p|Canaanite}} presence in the delta. The classical
-
-Age of {{p|Egyptian}} civilization.
-
-{{p|Middle Kingdom}}. {{p|Egypt}} restored.
+So honor {{p|Egypt}}'s classic age, restored:
+The tales, the wisdom, and the soul made free
+To be {{c|1166|Osiris}}; and the scribe, the lord
+Of letters, and the kingdom's harmony.
