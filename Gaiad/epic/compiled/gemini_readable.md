@@ -1271,95 +1271,85 @@ and of the {{x|Saoshyant}} from priests of fire,
 and knew himself beyond Messiah's line,
 beneath his cousin John, who stood higher.
 
-At thirty or so, he left his home,
-went to John at the {{p|Jordan}}'s flow,
-was baptized, heard a voice from heaven:
-"You are my beloved son, I know."
+At thirty, near, he left his home, and came
+Down to John, where the {{p|Jordan}}'s waters flow,
+And was baptized; a voice from heaven's flame
+Said: You are my beloved son; I know.
 
-Then into the wilderness forty days,
-tempted by whatever Satan meant,
-and afterward he began to preach
-the kingdom's immanent advent.
+Into the wild he went for forty days,
+And Satan tempted him; and then he went
+To preach the kingdom, near, in all his ways:
+Repent, for it's at hand; the same intent
 
-"Repent, for the kingdom of God
-is at hand." The same as John the Baptist.
-But where John had preached apocalypse,
-Jesus spoke of mercy as the rest.
+As John the Baptist's; but where John had cried
+The end, the wrath, the axe laid to the tree,
+Jesus spoke of mercy, and opened wide,
+For all who came, the poor, the sick, the free.
 
 Five years he and his cousin went as one,
 and preached to Gentiles, to the nations near;
 he called himself the Lord, the Savior, Son
 of God, the titles Caesar wore, to jeer.
 
-He called twelve disciples, fishermen,
-tax collectors, a zealot too,
-and traveled through {{p|Galilee}} preaching
-in synagogues and open view.
+He called twelve, fishermen, a man who took
+The tax, a zealot, and through {{p|Galilee}}
+He preached in synagogues, by field and brook,
+In open air, to all who'd come and see.
 
-His teaching had three main features:
-parables, beatitudes, love commands.
-The parables told stories without resolution,
-leaving thought in the listener's hands.
+He taught in parables, which left the end
+Unsaid, for those who heard to think it through:
+The prodigal; {{x|Samaritan}}, the friend
+To beaten men; the mustard seed that grew;
 
-The prodigal son, the good {{x|Samaritan}},
-the mustard seed, the sower of fields,
-the lost sheep, the lost coin, the lost son,
-the pearl of great price, the treasure it yields.
+The sower; the lost sheep, and the lost coin;
+The pearl, the treasure hidden in the field;
+And blessings that turned the world over: join
+The poor in spirit, those who mourn, the healed,
 
-The beatitudes inverted the world:
-"Blessed are the poor in spirit,
-blessed are those who mourn, who hunger,
-who are persecuted for my merit."
+The hungry, and the persecuted; blessed.
+And two commands: love God with all your heart
+And soul; your neighbor as yourself; the rest
+Of all the {{x|Law}} hung on them, every part.
 
-The love commands were two and radical:
-"Love God with all your heart and soul.
-Love your neighbor as yourself."
-On these two hung the {{x|Law}}'s whole.
+And then a third that none had said before:
+Love your enemies; pray for those who hate
+And harm you; be as perfect, to the core,
+As your Heavenly Father, who, the great,
 
-But he added one that no one had said:
-"Love your enemies. Pray for those
-who persecute you. Be perfect as
-your Heavenly Father is, who bestows
+Sends sun and rain on just and unjust both:
+Not mercy to your tribe alone, or friend,
+But to the ones who hate you; such the oath,
+The new and radical turn, without end.
 
-sun and rain on the just and unjust both."
-This was the new, the radical turn.
-Not just mercy to your tribe or friend,
-but mercy to those whose hate you earn.
+He healed the sick, cast demons out; he raised
+Jairus' daughter, and the poor widow's son
+Of {{p|Nain}}; and Lazarus, four days, amazed,
+Came from the tomb; and on the sea, as one
 
-He healed the sick, cast out demons,
-raised Jairus' daughter from the dead,
-raised the widow of {{p|Nain}}'s son,
-raised Lazarus four days in the bed.
+Who walked on land, he walked in storm; he fed
+Five thousand from few loaves; made water wine;
+He stilled the sea; and so the kingdom spread
+Into the world, and death was not the line
 
-He walked on water in the storm.
-He fed the five thousand with few loaves.
-He turned the water into wine.
-He calmed the sea with breath he blows.
-
-The {{x|Gospels}} frame these miracles as signs,
-as breakings-in of the kingdom new,
-as demonstrations that death and demon
-were not the final word, it's true.
-
-He chose twelve for the twelve tribes of {{p|Israel}},
-symbolic of restoration complete.
-He taught the disciples to pray "Our Father,"
-giving the kingdom's prayer to recite.
+That had the final word. He chose the twelve
+For {{p|Israel}}'s twelve tribes, made whole again;
+And taught them, so that all of them could delve,
+To pray: Our Father; for all of men.
 
 He kept his sharpest words, though, not for those
-Who sinned, the thieves and prostitutes he chose
-To eat with, but for those who held the chair
-Of Moses, the Pharisees, the scribes there:
+Who sinned, the thieves and prostitutes he'd share
+His table with, but those whose rank arose
+From Moses' chair, Pharisees, the scribes there:
 
-"Woe to you, scribes and Pharisees,
-hypocrites, who strain out a gnat
-and swallow a camel. Who tithe mint
-and cumin, but neglect the fat
+Woe to you, scribes and Pharisees, you blind
+And hypocrites, who strain a gnat, and take
+A camel down; who tithe the mint, and find
+The cumin, but the weightier things forsake,
 
-weightier matters of the {{x|Law}},
-justice, mercy, and faithfulness.
-You whitewashed tombs, beautiful outside,
-full of dead men's bones and ugliness."
+Justice, and mercy, faith; you whitewashed tombs,
+Fair from outside, but full of dead men's bones,
+Uncleanness, in your inner, hidden rooms.
+And so he spoke to them, in such hard tones.
 
 In thirty, Herod's sword took John away,
 and Pilate, whom this book does not forgive,
@@ -1376,110 +1366,95 @@ than {{p|Rome}} come down on all, so said the priest,
 afraid of {{p|Rome}}, gave him to {{p|Rome}} to try;
 and it was {{p|Rome}} that killed him at the feast.
 
-Judas Iscariot betrayed him
-for thirty pieces of silver, paid.
-He kissed him in the {{p|Garden of Gethsemane}}
-and showed the soldiers where he stayed.
+And Judas Iscariot sold him for
+Thirty pieces of silver, and he kissed
+Him in {{p|Gethsemane}}'s garden, as before
+The soldiers, so they'd know him, not be missed.
 
-He was arrested, tried by the {{x|Sanhedrin}},
-tried by Pilate, tried by Herod Antipas,
-sent back to Pilate, who washed his hands,
-and let the crowd choose Barabbas instead.
+The {{x|Sanhedrin}} tried him; and Pilate then;
+Herod Antipas; and then Pilate, who
+Then washed his hands, and let the crowd of men
+Choose Barabbas; and so they chose him too.
 
-The crowd chose Barabbas. Jesus was
-scourged, crowned with thorns, made mocking king,
-forced to carry his cross to {{p|Golgotha}},
-the place of the skull, the ugliest thing.
+Jesus was scourged, and crowned with thorn, a king
+In mockery; he bore his cross, alone,
+To {{p|Golgotha}}, the skull, ugliest thing,
+Where {{p|Rome}} would nail its rebels and its own
 
-Crucifixion was the {{p|Roman}} method
-for rebels, slaves, the lowest of men.
-He hung with thieves on either side
-for six hours, and then spoke seven "amens":
+Slaves; and he hung between two thieves, and cried,
+Six hours: Father, forgive them, for they
+Know not what they do; to one at his side:
+You'll be with me in {{p|Paradise}} today;
 
-"Father, forgive them, they know not
-what they do." "Today you shall be with me
-in {{p|Paradise}}." "Woman, behold your son."
-"My God, my God, why have you forsaken me?"
+And, Woman, see your son; and, why, my God,
+Have you forsaken me? I thirst; and done,
+It's finished; Father, to your hands, the rod
+Of my spirit; he died; the veil was run
 
-"I thirst." "It is finished."
-"Father, into your hands I commit
-my spirit." And with these words he died.
-The veil of the {{p|Temple}} was split.
+Through in the {{p|Temple}}, split; the earth shook; dark
+Came down; the centurion said: this man
+Was truly the Son of God; and then, stark,
+They took him down at sunset, as began
 
-Earthquake. Darkness. The centurion
-who watched him die said "Truly this man
-was the Son of God." They took him down
-at sunset, before the {{x|Sabbath}} ran.
+{{x|Sabbath}}. Ten thousand thirty, Pisces twelve,
+The eve of Passover, Nisan fourteen,
+A Friday, when the lambs were killed; we delve
+In grief: he died among them, as was seen.
 
-Ten thousand thirty, Pisces twelve, the eve
-of Passover, the fourteenth of Nisan,
-a Friday, when the lambs were killed; we grieve:
-and he was killed among them as a man.
+And Joseph of Arimathea gave
+A tomb, new-cut in rock, and close at hand;
+In linen, spiced, they laid him in the grave,
+And rolled the stone, and left him in the land.
 
-Joseph of Arimathea provided
-a new tomb, cut in rock, nearby.
-They wrapped him in linen with spices,
-and rolled a stone, and said goodbye.
-
-On the third day, the women came
-to finish the anointing at dawn.
-The stone was rolled away. The tomb
-was empty. His body was gone.
+And on the third day, women came at dawn
+To finish the anointing; and the stone
+Was rolled away; the tomb was empty; gone
+His body was; and they were there alone.
 
 Ten thousand thirty, Pisces fourteen, dawn,
 a Sunday, our third Easter, and the day
 the women found the tomb, his body gone,
 the morning that the stone was rolled away.
 
-Angels said "He is not here, he is risen."
-Mary Magdalene met him in the garden
-but did not recognize him at first.
-He sent the twelve to make the kingdom's pardon
+He is not here, the angels said; he's raised;
+And Mary Magdalene then met him there,
+In the garden, and knew him not, amazed;
+He sent the twelve to nations everywhere,
 
-known to all nations, to baptize
-in the name of Father, Son, and Holy Ghost,
-teaching all he had commanded,
-and he would be with them at the post
+To baptize in the name of Father, Son,
+And Holy Ghost, and teach what he had taught;
+And he'd be with them till the end was done;
+And he went up to heaven, as he ought,
 
-of every moment until the end.
-Then he ascended to heaven's height,
-with the promise that he would return
-to judge the living and the dead in light.
+And promised he'd return, to judge the dead
+And living in the light. And that's the core:
+Not only Jesus teaching, nor, it's said,
+The failed messiah, dead, and nothing more,
 
-This is the {{x|Christian}} claim, the core.
-Not Jesus the teacher only. Not Jesus
-the failed messiah, dead and done.
-But Jesus who rose, and reigns, and frees us.
-
+But Jesus risen, reigning, setting free.
 Iry-Hor, first named, was kept for the few,
-his name the first we know, a king's, alone;
-but Jesus keeps the many, he who knew
-the poor, the dead unnamed, each one his own.
+His name the first we know, a king's, to see;
+But Jesus keeps the many, he who knew
 
+The poor, the dead unnamed, each one his own.
 He left a son he never lived to see,
-born on the day of {{x|Pentecost}}, the Just;
-in {{p|Tarsus}} first, then {{p|Rome}}, where he was free,
-and Petronilla married him, in trust.
+Born on {{x|Pentecost}}'s day, the Just, alone;
+In {{p|Tarsus}} first, then {{p|Rome}}, where he was free,
 
+And Petronilla married him, in trust.
 So let his son have a good life, I say:
-the father's road was horror all along;
-his line ran down to Theophylact's day,
-the corrupt popes, the punchline of the song.
+The father's road was horror, as it must;
+His line ran down to Theophylact's day,
 
-A {{x|Jewish}} messianic sect went forth
-into the {{x|Greco-Roman}} sea,
-and merged with Sol Invictus worship,
-with mystery religions, gradually,
+The corrupt popes, the punchline of the song.
+And in {{p|Jerusalem}}, a little band
+Met in an upper room, and all along
+They prayed, and broke the bread, and hand in hand
 
-and became the faith of {{p|Rome}} itself
-three centuries later under Constantine.
-But for now, a small community
-in {{p|Jerusalem}} wondered what they had seen.
-
-They met in upper rooms to pray.
-They broke bread together and shared all things.
-They waited for the return imminent.
-And the spirit came on them on tongues' wings.
+Shared all, and they waited for his return;
+And then the spirit came, on tongues of flame,
+And they spoke tongues; and so began to burn
+The word, to go out to the world, his name.
 
 
 # Chapter 181: Buddhism Enters the Han
