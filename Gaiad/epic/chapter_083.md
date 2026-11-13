@@ -122,7 +122,7 @@ Alive is all achievement; and that spell
 
 Of bare survival is not lesser than
 The {{x|Permian}}'s glorious peak; it's more,
-Perhaps, indeed, the greater; one who can
+Indeed, it is the greater; one who can
 Endure the harrowing is heir, therefore,
 
 To the next world, the whole world entire.
