@@ -1,131 +1,71 @@
 # Chapter 141: P at Baikal — Paikal
 
-And in the middle of the {{p|Siberian}} winter,
-At the deepest lake on earth, there came
-{{c|1938|Haplogroup P}}—the long road's splinter
-Ending at water. {{p|Lake Baikal}}. The name
+In the deep {{p|Siberian}} winter came
+{{c|1938|Haplogroup P}}, unto {{p|Lake Baikal}}'s shore,
+The deepest lake on earth, and of the same
+Old crack the earth had opened long before.
 
-Of the oldest lake: some twenty-five million years
-A rift in the continent, slowly growing wide,
-Slowly filling, more than a mile deep, the tears
-Of the taiga gathered in it, till inside
+Twenty-five million years the rift grew wide,
+A mile and more in depth, and filled with rain;
+A fifth of all earth's water fresh inside
+That single crack, beneath the taiga's reign.
 
-That single crack in the earth there came to lie
-A fifth of all the fresh unfrozen water
-On the surface of the world. Beneath its sky
-Swim the omul and the nerpa, the one daughter
+There swim the omul and the nerpa seal,
+The only seal that lives where waters freeze;
+The {{p|Evenki}} and the {{p|Buryat}} kneel
+And beat the shaman's drum beside its seas.
 
-Of the seals who chose fresh water. Every year
-The lake freezes meters thick, a mirror
-Of ice. The {{p|Evenki}} and the {{p|Buryat}} here
-Keep it sacred; the shaman's drum is nearer
+And here came {{c|1882|P}}, the father of the two,
+Of {{c|1883|Q}} and {{c|1884|R}}, called {{c|1939|Paikal}} by the lake,
+Whose fathers, since the strait, had wandered through
+{{p|Eurasia}}'s length; and here they paused, to take
 
-To that water than to anything. A cathedral
-Of ice in the taiga. And it was here {{c|1882|P}} came.
-{{c|1882|P}} is the divergence, the fork, the father
-Of {{c|1883|Q}} and {{c|1884|R}}—and in this chapter, the same
+Their breath beside the ice, and ask: which way?
+Two answers came. The first was east, to walk
+The dry land of {{p|Beringia}}, which lay
+Dry then, where now the strait's cold waters talk.
 
-As the place itself: {{c|1939|Paikal}}, the lake's own son,
-The pun the {{x|Gaiad}} cannot leave alone.
-Since the {{p|Bab al-Mandab}}, his fathers had run
-The length of {{p|Eurasia}}; here, by ice and stone,
+And those who walked it east were {{c|1883|Q}}, and they
+Crossed to the {{p|Americas}}, and then spread
+From the {{p|Aleutians}} all the long, long way
+Down to {{p|Tierra del Fuego}}, far ahead.
 
-At the deepest lake on earth, they paused, and stood,
-And looked at the frozen surface, and asked: where next?
-Two answers came. The first was east: the good
-Dry land of {{p|Beringia}}, where the sea's retreat had left
+The {{p|Inuit}}, and the nations of the south,
+The peoples of that whole new world, are {{c|1883|Q}}'s,
+And carry him in blood, and in the mouth
+Of all their elders telling the old news.
 
-A walkable continent where the {{p|Bering Strait}} is now.
-Some of {{c|1882|P}}'s sons walked over, and became {{c|1883|Q}};
-And {{c|1883|Q}} would cross to {{p|North America}}, and plough
-Through ten or fifteen thousand years, and go through
+The second answer was the west: to turn
+And run back on the road the fathers came,
+Through {{p|Central Asia}}, to the grass, to learn
+{{p|Pontic-Caspian}} steppe; and {{c|1884|R}} his name.
 
-The whole {{p|Western Hemisphere}}, from the {{p|Aleutians}}
-To {{p|Tierra del Fuego}}; every people born
-In the {{p|Americas}}, the {{p|Inuit}}, the nations
-Of the far south, come of {{c|1883|Q}}. But that is the morning
+{{c|1884|R}} is the boomerang, the line that went
+As far as it could east, and then came back;
+And all of {{p|Europe}}, {{p|India}}, are sent
+Of {{c|1884|R}}, his sons, who walk along his track.
 
-Of another book: {{x|Leo}}, two hundred twenty-one
-To two fifty-two. {{c|1883|Q}}'s chapter is not yet.
-The second answer was west: to turn and run
-Back the way they came, retrace the debt
+And near {{p|Irkutsk}}, at {{p|Mal'ta}}, lay a child,
+Four years of age, of {{c|1884|R}}'s house, near its root,
+Still at {{p|Baikal}}; and in his blood were filed
+Both roads at once, the seed and the far fruit:
 
-Of the earlier walking, back across {{p|Central Asia}},
-Toward the grass of the {{p|Pontic-Caspian}} steppe,
-Where in some thousands of years the horse would raise a
-Whole world on its back. That branch kept
+The {{p|Navajo}} and {{p|Cherokee}} are kin
+To him, the {{p|Inca}} too, and in the west
+{{p|Lithuanian}} and the {{p|Swede}}: within
+That buried child both roads already rest.
 
-The name of {{c|1884|R}}: the boomerang, the line
-That went as far east as it could, and then came back.
-{{c|1884|R}} will be the {{p|Yamnaya}}; {{c|1884|R}} will be the sign
-Of {{c|1940|Manu}} and of {{c|1941|Yemo}}; down {{c|1884|R}}'s track
+The lake is there today; the taiga lays
+Its snow upon the shore; the drums are played
+Beside the water; through the ice, always,
+The nerpa rise to breathe in ice's shade.
 
-Will run the {{x|Indo-European}} tongue,
-{{c|1928|R1a}} east to {{p|India}} and {{p|Iran}} and the {{x|Slavs}},
-{{c|1942|R1b}} west to {{x|Celt}} and {{x|German}}, the young
-{{x|Italic}} peoples—most of {{p|Europe}}'s men. {{c|1884|R}} has
+So honor {{c|1882|P}}, who stood upon the ice
+And watched his sons go into dusk, the two:
+{{c|1883|Q}} to the east, {{c|1884|R}} west; and both suffice
+To people half the world, as now they do.
 
-The horse, the wagon, the chariot to come,
-The sky-father and the solar wheel. But not yet.
-In this chapter {{c|1884|R}} is still {{c|1882|P}}, still dumb
-Before the frozen lake, still in the debt
-
-Of the decision. And the image is the lake:
-The moment one line, at the edge of the ice,
-Goes both ways at once. One son will take
-The road east to the {{p|Americas}}; the price
-
-Of the other road is the long way west, to all
-Of {{p|Europe}}, {{p|Central Asia}}, {{p|South Asia}}.
-And the father stands on the ice as the shadows fall
-In the long {{p|Siberian}} night, and does not follow either,
-
-But watches both his sons go into the dusk.
-His own story is short: what {{c|1882|P}} did
-Was make {{c|1883|Q}} and {{c|1884|R}}, and theirs is the husk
-And kernel of half the world, two of the biggest
-
-Stories in the whole tree: {{c|1883|Q}} is the {{p|Americas}},
-{{c|1884|R}} is nearly everything else. Between the two
-Of them, the peopling of half the world. The {{p|Mal'ta-Buret'}}
-Culture, twenty-four thousand years ago, is the clue
-
-The ground has kept of this. Near {{p|Irkutsk}}, a boy,
-Four years old, was buried; in nineteen twenty-eight
-His bones were found, and in our century the ploy
-Of reading DNA from bone told his estate:
-
-His father's line was {{c|1884|R}}, near its very root—
-{{c|1884|R}} still at {{p|Baikal}}, not yet turned west—
-And his ancestry runs to both the {{p|Navajo}} and the {{p|Lithuanian}},
-The {{p|Cherokee}} and the {{p|Swede}}, the {{p|Inca}} and the rest
-
-Of {{p|Europe}}: the {{p|Mal'ta boy}}, the child at the crossroads,
-In whose blood both roads were already laid.
-The lake is still there. The taiga still loads
-Its snow on the shore; the {{p|Buryat}} drums are played
-
-At the water's edge; the {{p|nerpa seals}} still rise
-Through the ice to breathe. The lake was there before
-{{c|1882|P}} came, and will be there when the names we prize
-For haplogroups are lost. But for the length of our
-
-Telling, it is the fork: the place on the earth
-Where a single lineage looked east, looked west,
-And chose both. And no one chose: the slow birth
-Of populations over thousands of years did the rest,
-
-Without a single choice—some crossed the land bridge
-To the new world; some turned home, to the grass,
-Where the horse would be tamed, and on the ridge
-Of the steppe a tongue would be born, and pass
-
-To half the modern world its inheritance.
-But all of that is later. Here, in the deep
-Past, in the {{p|Siberian}} winter, at the entrance
-Of the crossroads, {{c|1882|P}} stands where the lineages keep
-
-Their fork. The stars. The ice. The silence. Two
-Silhouettes going two ways. The father, alone.
-{{c|1883|Q}} goes east. {{c|1884|R}} goes west. The lake stays true.
-{{c|1939|Paikal}}. The deepest water. The crossroads stone.
+{{c|1939|Paikal}}, the deepest water, and the stone
+Of the crossroads, where one line went both ways;
+The stars, the ice, the silence, and alone
+The father, in {{p|Siberia}}'s long days.
