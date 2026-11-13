@@ -46717,133 +46717,100 @@ Seven, five, three; sphere down; the rite kept true.
 
 # Chapter 323: The Mother Tongue
 
-On the eleventh of October, 1962,
-In the basilica of {{c|4428|Saint Peter}}, in {{p|Vatican City}},
-{{c|4429|John XXIII}} opened a council.
-He had said, on the twenty-fifth of January, 1959,
-In {{p|Rome}}, to the cardinals gathered in the house
-Beside the basilica of {{p|Saint Paul Outside the Walls}},
-That a council would be called,
-And a synod for the city,
-And a bringing up to date of the code of the law.
-The word on the code was aggiornamento.
-It means a bringing up to date.
-It was not the name of the council.
+On October's eleventh, 'sixty-two,
+In {{c|4428|Saint Peter}}'s, {{p|Vatican City}}, there
+Pope {{c|4429|John the Twenty-Third}} opened it, through
+His word in 'fifty-nine: a council, where
 
-The first session closed on the eighth of December.
-He died on the third of June, 1963, in {{p|Rome}}.
-The council was between its sessions.
-He did not promulgate the constitution on the rite.
+Cardinals at {{p|Saint Paul Outside the Walls}}
+On January twenty-fifth, had heard:
+A council, and a city synod; calls
+To bring the code up to date; and the word,
 
-{{c|4430|Paul VI}} was elected on the twenty-first of June.
-The second session ran from the twenty-ninth of September
-To the fourth of December, 1963.
-On that day he promulgated the constitution
-On the sacred liturgy.
-Its name is {{x|Sacrosanctum Concilium}}.
+Aggiornamento: code; and no phrase
+Naming the council. The first session closed
+December eighth; and, June the third, his days
+Ended, in 'sixty-three, at {{p|Rome}}; reposed
 
-Particular law remaining in force,
-The use of {{x|Latin}} is to be preserved in the {{x|Latin}} rites.
-Since the mother tongue, in the {{x|Mass}},
-In the sacraments, and in the other parts,
-May often be of great advantage to the people,
-The limits of its use may be extended.
-In the first place, the readings and the directives,
-And some of the prayers and the chants.
+Between the sessions; not his to declare
+The constitution on the rite. Then, chose
+On June twenty-first, {{c|4430|Paul the Sixth}}; and there
+The second session, from September, rose
 
-In Masses celebrated with the people,
-A suitable place may be allotted to their mother tongue.
-First, the readings and the common prayer.
-Also, as the place warrants,
-The parts that pertain to the people.
-Steps are to be taken so that the same people
-May also say, or sing, in {{x|Latin}},
-The parts of the ordinary that are theirs.
-A use wider than that follows a further article.
-It is not taken by the parish.
+To December's fourth, 'sixty-three; that day
+He promulgated, on the liturgy,
+{{x|Sacrosanctum Concilium}}'s way:
+{{x|Latin}}, in {{x|Latin}} rites, preserved to be;
 
-The competent territorial authority decides the extent.
-The {{x|Apostolic See}} confirms the decision.
-A translation into the mother tongue
-Is made from the {{x|Latin}} text,
-And that authority approves it.
-No other person, even a priest,
-May add, or remove, or change anything in the rite
-On his own authority.
+And yet, because the mother tongue may give
+Great profit to the people, in the {{x|Mass}},
+The sacraments, and other parts, may live
+Its use extended: readings first, to pass,
 
-The practical norms are for the {{x|Roman rite}}.
-The other rites, lawfully acknowledged,
-Are held of equal right and dignity,
-And are to be preserved.
-Particular law had already excepted some places.
-The constitution keeps the exception.
-The {{x|Kyrie}} of the {{x|Mass}} was already {{x|Greek}}.
+Directives, prayers, and chants; and with the throng,
+In Masses with the people, theirs, a place:
+The mother tongue: in readings; and, along,
+The common prayer, the people's parts; the grace
 
-On the twenty-sixth of September, 1964,
-An instruction carried the constitution toward the Sunday.
-The {{x|Consilium}} prepared it, by mandate of {{c|4430|Paul VI}}.
-{{c|4431|Giacomo Lercaro}} presented it.
-{{c|4430|Paul VI}} confirmed it in an audience
-Given to {{c|4432|Arcadio Maria Larraona}},
-Prefect of the {{x|Congregation of Rites}},
-And ordered it observed from the seventh of March, 1965,
-The first Sunday of {{x|Lent}}.
+And steps be taken that they say, or sing,
+In {{x|Latin}}, too, the ordinary's own;
+Both tongues: and so this book keeps, in its ring,
+A sacred language with the people's tone.
 
-For a {{x|Mass}} with a congregation,
-Once the {{x|Holy See}} has confirmed the decision,
-The people's language may be used
-For the lessons, the epistle, and the gospel,
-For the prayer of the faithful,
-For the chants of the ordinary,
-The {{x|Kyrie}}, the {{x|Gloria}}, the creed,
-The {{x|Sanctus}}, and the {{x|Agnus Dei}},
-For the introit, the offertory, and the communion,
-For the chants between the readings,
-For the greetings and the dialogues,
-For the words at the people's communion,
-And for the {{x|Lord's Prayer}},
-With its introduction and the short prayer after it.
-The book at the rite keeps the {{x|Latin}} text beside the other.
-The pastors are charged to see
-That the people can still say, or sing, in {{x|Latin}},
-The parts of the ordinary that are theirs.
+A wider use waits for a further rule;
+Not for the parish to take; the extent
+The local bishops fix it; as a rule,
+The {{x|Apostolic See}} gives its consent;
 
-The parts the priest sings or says alone
-Are not on that list.
-The {{x|Holy See}} alone can permit those.
-Do not say the whole {{x|Mass}} changed its tongue
-On the seventh of March.
-Do not say the instruction took the priest's own prayer
-Out of {{x|Latin}}.
+The version from the {{x|Latin}} text, approved
+By that authority; and none, though priest,
+May add, or take away, or change, unmoved,
+On his own word. The other rites, not least,
 
-The council closed on the eighth of December, 1965.
-The constitution was not a new book of the {{x|Mass}}.
-A later book is not moved back into these years.
+Lawfully known, are held of equal right
+And dignity, preserved; some places, too,
+Excepted, kept; the {{x|Kyrie}}, by old rite,
+Already {{x|Greek}}. And, 'sixty-four, a new
 
-Do not say the council silenced {{x|Latin}}.
-The page that opens the mother tongue
-Says that {{x|Latin}} is to be preserved.
-Do not say the people were left outside the words.
-The constitution says they are not to be there
-As strangers, or as silent spectators.
-That sentence is a charge.
-It is not a report of every parish.
-Conscious participation, active participation,
-Is called their right and their duty, by baptism.
-Hearing a reading is not the whole of the charge.
-It is the part the years in this chapter actually opened.
+Instruction, twenty-sixth September, bore
+The constitution toward the Sunday's way;
+The {{x|Consilium}}'s, by his mandate; more,
+{{c|4431|Giacomo Lercaro}} brought it; one day,
 
-A permission is not yet a Sunday.
-Hold the two sentences on the one page.
-The striving is that the people understand the rite
-And take their part in it,
-In a tongue they are given, and in the {{x|Latin}}
-The page refused to discard.
-Count the constitution on the fourth of December.
-Count the instruction on the seventh of March.
-In these years the tongue of the reading
-And the tongue of the prayer the priest said alone
-Were not the same tongue.
+Through {{c|4432|Larraona}}, prefect, it's confirmed; so
+Of the {{x|Congregation of Rites}}; the date:
+The seventh of March, 'sixty-five, to go:
+The first Sunday of {{x|Lent}}; and, with the gate,
+
+The {{x|Holy See}} confirming, people's tongue
+For lessons, the epistle, gospel, prayer
+Of the faithful; the ordinary, sung:
+{{x|Kyrie}}, {{x|Gloria}}, and the creed; and there,
+
+The {{x|Sanctus}} and the {{x|Agnus Dei}}; and, said,
+The introit, communion; the chants between;
+The readings; greetings, dialogues; the bread
+Words at the communion; {{x|Lord's Prayer}}, seen
+
+With its preface, its short prayer; and the book
+The {{x|Latin}} next to it; the pastors charged
+The people still say {{x|Latin}}, as they took
+Their parts, the ordinary's; not enlarged
+
+The parts the priest says alone: {{x|Holy See}}
+Alone could grant. And 'sixty-five, the end
+Came on December's eighth; the council, free
+Of a new missal; that came later; penned.
+
+Vernacular reform: this book counts gain;
+The {{x|Latin}} kept, the mother tongue let in;
+No strangers, silent watchers, to remain;
+Their part, by baptism, their right; within
+
+The rite they understand; both tongues, as one:
+The sacred speech beside the people's word;
+So this faith keeps them both. Count, when it's done,
+December's fourth; March seventh; and both heard.
 
 
 # Chapter 324: The Master in the Mountain
