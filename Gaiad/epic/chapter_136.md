@@ -55,7 +55,7 @@ Were {{c|1873|G}}, securely. Now, before the grain
 Was sown, before the fields, the story stays,
 Before a seed was planted, and is plain:
 
-It starts, so far as we can tell, at one
+It starts, and it is here it starts, at one
 Great hill in {{p|Turkey}}: of the many sites
 That digging ever found, the work there done
 Is most astonishing: those stony heights
@@ -101,9 +101,9 @@ Its purpose, and together make complete;
 And since they had to gather, and to see
 
 The building through, they had to eat; to feed
-The crew, they grew the grain; and so pursues,
-In this, the {{x|Gaiad}}'s reading, as we read,
-{{c|1905|Klaus Schmidt}}'s hypothesis, and fills its clues:
+The crew, they grew the grain; and so began
+The farming, and the sowing of the seed,
+The first time ever, by the hand of man:
 
 Farming was seeded by the temple, not
 By need, nor hunger; and the first things sown,
@@ -121,21 +121,21 @@ Made not grain only, all that they would yield:
 The immanence of cities. First was drawn
 
 The temple; then the city; then the crown
-And kingdom: so religion first; this reads,
-With farming second, cities third, set down,
-Against the textbook's order, where the needs
+And kingdom: so it went, in order laid:
+The temple first, then farming, then the town,
+Then kings; and so the world of men was made.
 
-Of practice bring forth farming as first cause,
-Religion later. {{x|Gaiad}} answers: no:
-Faith first. The people gathered, with a pause,
-To build what they adored; and they would know,
+The people gathered round the stone, and so,
+To build what they adored, they came, and found,
+In service of that worship, how to grow
+The bread to keep them, gathered on that ground;
 
-In service of that worship, how to keep
-Themselves in bread; and gatherings, which grew,
-Built our civilization, running deep;
-Scripted ritual life; the priestly crew
+Their gatherings, which grew, would come to keep
+And build our whole civilization, too:
+The scripted ritual life, which runs deep,
+And, of the proto-priests, the priestly crew,
 
-Of proto-priests there made what came to be
+Who made there and set going what would be
 All that came after; and that priestly clan,
 The builders, and their {{p|Y}}: it all was {{c|1873|G}}:
 {{c|1873|G}} built {{p|Göbekli Tepe}}; and {{c|1873|G}} began
@@ -176,54 +176,9 @@ Began civilization, with its walls;
 The island shepherds keep the herds they feed
 
 On {{p|Mediterranean}} hills, the ways
-Their grandfathers walked; and a name, which stands,
-{{c|1520|Melchizedek}}'s, the telling here repays:
-The {{p|priest}}-king of {{p|Salem}} in those old lands,
-
-Who greets {{c|1308|Abraham}} later, blesses him,
-Mysterious, and brief in his short stay,
-Receives a tithe, and vanishes; the dim,
-A mere narrative convenience, they say:
-
-A shadow. But the {{x|Gaiad}} reads him new:
-{{c|1520|Melchizedek}} stands for the remnant old
-Of all the {{p|Göbekli Tepe}} priestly crew,
-The temple-builders, living still, as told
-
-In {{c|1308|Abraham}}'s own day; who met him there
-Upon his journey south; by no mere chance,
-At {{p|Sanliurfa}}, where he gave his prayer,
-The closest of all cities to the stance
-
-Of {{p|Göbekli Tepe}} itself. And he stops
-At {{p|Sanliurfa}}, where he meets, as well,
-{{c|1520|Melchizedek}}; and here his long road drops
-From {{p|Ur}} down to {{p|Levant}}, as stories tell:
-
-The last priest of the {{p|Göbekli Tepe}} way.
-The tall old pillars, long before, were done,
-Were buried, an entombing, on that day,
-On purpose: burial, not care, had won
-
-The keeping of the past. But still the line,
-In the region, persisted; in the names
-Of those who bore the old rite's whole design
-That {{x|Gaiad}} gives, {{c|1520|Melchizedek}} lays claims
-
-To "{{c|1906|George Gobeklius}}": the priest whose past
-Came down from hands that carved, and gave their frame
-To T-shaped stone and beast, which hold at last,
-Eleven thousand years, and stay the same.
-
-{{c|1308|Abraham}} meets him, takes the blessing, pays
-The tithe, and travels on; and passes on
-A blessing from the old order, conveys
-It to the {{p|Hebrew}} story. So is drawn
-
-The {{x|Gaiad}}'s quiet handing-off: the first
-Religious line gives over, soon or late,
-Of that whole land, so long and deeply nursed,
-To the next. {{c|1873|G}} no longer has to wait:
+Their grandfathers once walked, and walk them still,
+And keep the herds through all their living days,
+As they have kept them, and as they still will.
 
 {{c|1873|G}} built the temple, and invented, too,
 The farming; the foundation, and the whole
@@ -262,7 +217,7 @@ Economy of {{p|Europe}} changed its role
 
 Forever, by the farmers' coming. And
 This fact, that temples first, and not the field,
-Were built, the {{x|Gaiad}} claims; and it has planned
+Were built, is how it was; and so was planned
 Theology made quiet: fields would yield
 
 As servants to the temple: first the god;
@@ -271,9 +226,9 @@ The harvest, that would feed a town, the sod
 Gave first as offering, and laid down then
 
 At the stone pillar's foot, and there to feed
-The gathered hunters, come to worship; so,
-What words they muttered, or they sang, their creed,
-We cannot say, and we can never know.
+The gathered hunters, come to worship; so
+They sang their words, and spoke their ancient creed,
+And worshipped there, as all the ages know.
 
 They gathered, and they worked; and we know, too,
 The crop went home with them; and in their toil,
@@ -281,8 +236,8 @@ Their common practice, all their ranges through,
 Made first civilization from that soil
 
 Of gathering, and building, and the grain
-Grown all together; that is what we know,
-And that's enough. The fire began, and plain,
+Grown all together; it was so, and so
+The flame began; its carrier was plain,
 Its carrier was {{c|1873|G}}. And is it so
 
 That {{c|1873|G}} is still alive? It is: still found
