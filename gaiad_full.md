@@ -32191,100 +32191,80 @@ Of brotherhood, and loyalty, maintained.
 
 # Chapter 186: The Sassanid Empire
 
-In {{p|Persia}}, the {{c|2593|Parthians}} fell
-to {{c|2594|Ardashir I}} in two-twenty-four,
-who claimed descent from {{c|2595|Sasan}}, a priest,
-and founded the {{c|2596|Sassanid}} rule once more.
+In two-twenty-four, the {{c|2593|Parthians}} fell
+To {{c|2594|Ardashir}}, who claimed the line of one,
+{{c|2595|Sasan}}, a priest; and he would found, as well,
+The {{c|2596|Sassanid}} house, bring back what was done
 
-The new dynasty revived old glory,
-the vision of {{x|Achaemenid}} days,
-and made {{c|2597|Zoroastrianism}} state religion,
-with {{c|2598|Kartir}} as high priest of ways.
+In {{x|Achaemenid}} days; he made the faith
+Of {{c|2597|Zoroastrians}} the whole realm's own rite,
+With {{c|2598|Kartir}} the high priest; and like a wraith
+Of old, at {{p|Ctesiphon}}, by {{p|Tigris}}' light,
 
-They centered on {{p|Ctesiphon}} their seat,
-on the {{p|Tigris}} near old {{p|Babylon}}'s ground.
-They warred with {{p|Rome}} for four centuries,
-locked in a struggle without bound.
+Near {{p|Babylon}}, they ruled; four hundred years
+They warred with {{p|Rome}}. {{c|2585|Shapur}} took, in war,
+{{c|2586|Valerian}}; and three emperors' spears
+He broke, and carved it on the cliffs, before
 
-{{c|2585|Shapur I}} captured {{c|2586|Valerian}},
-defeated three {{p|Roman}} emperors in field,
-carved his triumph on {{p|Naqsh-e Rustam}}'s cliffs,
-where {{x|Achaemenid}} tombs were sealed.
-
-{{c|2599|Mani}} arose in {{c|2600|Shapur}}'s court,
-the prophet of {{c|2601|Manichaeism}},
-blending {{x|Zoroastrian}} dualism with
-{{x|Buddhist}}, {{x|Christian}}, and {{x|Gnostic}} idealism.
+The {{x|Achaemenid}} tombs, where kings are laid.
+And {{c|2599|Mani}} rose in {{c|2600|Shapur}}'s court, and taught
+The light, the dark, the {{x|Buddhist}}, {{x|Christian}}, made
+With {{x|Gnostic}} thought, one: {{c|2601|Manichaeism}} brought.
 
 {{c|2599|Mani}} named every prophet in a chain:
 {{c|2146|Zarathustra}}, the {{c|1959|Buddha}}, {{c|1912|Jesus}}, each
 one light sent down to every age again;
 a seal of prophets {{x|Islam}} came to teach.
 
-The religion spread from {{p|Persia}} east
-to {{p|Central Asia}} and to {{p|China}} past,
-west to {{p|Rome}}, where {{c|2384|Augustine}} embraced it
-for nine years, before he broke fast.
+It spread to {{p|Central Asia}}, {{p|China}}, west
+To {{p|Rome}}, where {{c|2384|Augustine}} held it nine years.
+{{c|2600|Shapur}} let {{c|2599|Mani}} preach; then, at behest
+Of {{c|2602|Bahram}}, he was chained, and died in tears;
 
-{{c|2600|Shapur}} let {{c|2599|Mani}} preach; {{c|2602|Bahram}} instead
-had {{c|2599|Mani}} put in chains till he was dead,
-and {{c|2598|Kartir}} struck at every rival flame:
-the {{c|2603|Manichaeans}}, {{c|2500|Jews}}, {{c|2494|Christians}}, all one claim.
+And {{c|2598|Kartir}} struck at every rival flame:
+The {{c|2603|Manichaeans}}, {{c|2500|Jews}}, {{c|2494|Christians}}, all
+Were struck, as rivals for the one rite's claim,
+And held as one by him, for one great fall.
 
 But what he taught no prison chain could hold:
 it ran to {{p|Harran}} and the {{p|Uyghur}} east,
 and {{x|Islam}}'s prophets, later, kept its mold,
 and {{c|2598|Kartir}}'s {{c|2604|Avesta}} served the crown's priest.
 
-{{c|2605|Khosrow I}} brought the golden age,
-reformed taxation, built canals,
-received {{x|Greek}} philosophers fleeing
-{{c|2383|Justinian}}'s {{p|Athens}} shut locales.
+{{c|2605|Khosrow I}} brought the golden age: he made
+The taxes new, and dug canals, and took
+The {{x|Greek}} philosophers who fled, afraid,
+When {{c|2383|Justinian}} had shut {{p|Athens}}' book;
 
-He commissioned translation of
-{{x|Indian}}, {{x|Greek}}, and {{x|Syriac}} books
-into {{p|Middle Persian}}, preserving learning
-that otherwise would have been shook.
+He had the books of {{p|India}}, of {{p|Greece}},
+Of {{x|Syriac}}, made {{p|Persian}}; and the chess
+Came from the {{p|Indus}} to his court, a piece
+Of play made finer; and, with nothing less,
 
-The game of chess arrived from {{p|India}}
-to his court, where it was refined.
-The {{x|Pancatantra}} was translated
-as {{x|Kalila wa Dimna}}, combined
+The {{x|Pancatantra}}'s fables came, and went
+As {{x|Kalila wa Dimna}} to the west,
+The kin of {{c|2606|Aesop}}'s, through his court they sent,
+And travelled all the world, and found their rest.
 
-with {{x|Persian}} wisdom, and later became
-the source of fables across the world.
-{{c|2606|Aesop}}'s cousins, {{c|2607|Uncle Remus}}' kin,
-traveled through {{c|2608|Khosrow}}'s court unfurled.
+{{c|2609|Khosrow II}} then fought the last war with {{p|Rome}}
+Of the east, took {{p|Jerusalem}}, and bore
+The {{x|True Cross}} off; and {{p|Byzantium}}'s home
+Was nearly lost; {{c|2610|Heraclius}}, in war,
 
-{{c|2609|Khosrow II}} would fight the last great
-war with {{p|Rome}}'s Eastern continuation,
-capture {{p|Jerusalem}} and take the {{x|True Cross}},
-nearly destroy {{p|Byzantium}}'s foundation.
+Struck back into the heart of {{p|Persia}}, won
+The {{x|Cross}} again; and both of them were spent;
+And then the {{x|Arabs}} came, and it was done:
+{{c|2611|Yazdegerd III}}, last shah, fled, and went
 
-Then {{c|2610|Heraclius}} would counter-strike,
-marching into {{p|Persia}}'s heartland,
-recovering the {{x|Cross}}, ending the war,
-exhausting both empires first-hand.
+Across the land; at {{p|Merv}} a miller slew
+Him; and the temples' flames went out; and yet
+The tongue, the art, the books, came living through,
+And shaped the realm that after came, and set
 
-Both empires were spent. The stage was set
-for the {{x|Arab}} conquest sweeping north.
-Within a decade of that war's end,
-the {{x|Sassanid}} realm would be going forth
-
-to its destruction. {{c|2611|Yazdegerd III}},
-the last shah, would flee across the land,
-murdered by a miller at {{p|Merv}}.
-The fire temples would cease their stand.
-
-But the cultural inheritance endured.
-{{x|Persian}} language, literature, art
-would resurface under {{x|Islamic}} rule
-and shape the {{x|Islamic}} world's heart.
-
-The {{x|Shahnameh}} of {{c|2612|Ferdowsi}} would
-preserve the pre-Islamic past in verse.
-The {{c|2613|Zoroastrians}} who fled to {{p|India}}
-became {{c|2614|Parsis}}, their faith's unsquashed reverse.
+Its heart; and those who kept the flame, who fled
+To {{p|India}}, the {{c|2614|Parsis}}, keep it still.
+So honor {{p|Persia}}: {{c|2605|Khosrow}}'s books well read,
+The chess, the fables, and the old flame's will.
 
 
 # Chapter 187: The Third Century Crisis
