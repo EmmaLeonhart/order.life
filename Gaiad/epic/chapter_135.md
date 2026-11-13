@@ -180,9 +180,9 @@ Settled the continent, and lives on now,
 Whole in the many millions, not dispersed;
 The patient continuity, somehow,
 
-Of {{c|1875|I}} across some thirty thousand years,
-Or forty, longest tie of folk and land
-In one continent, as now it appears,
+Of {{c|1875|I}} across some forty thousand years,
+The longest tie of any folk and land
+On one continent, oldest of its peers,
 In all the {{p|European}} tale. They stand
 
 New, all of them: the {{p|French}}, the {{p|Germans}}, there,
@@ -217,8 +217,8 @@ The old reply that {{p|Europe}} gave, we know,
 
 In wood and clay: its towns, its painted walls,
 Its female iconography; and free
-Of hierarchy, so as one recalls,
-Its peaceful order, as it seems to be:
+Of hierarchy, in its open halls,
+Its peaceful order, as it used to be:
 
 These were old {{p|Europe}}'s working out of all
 The farmers offered; it was, there and then,
