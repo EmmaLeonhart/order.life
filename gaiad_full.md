@@ -43276,80 +43276,90 @@ By those it bore; hold chart and spear; both books.
 
 # Chapter 289: Buried Sunlight
 
-Three hundred million years ago, in the age this book has already sung,
-The great swamp forests of the {{c|1568|Carboniferous}} grew, the giant clubmoss,
-The tree-ferns, the horsetails taller than houses, the young
-{{c|96|Earth}} breathing out oxygen, and when they fell, the loss
+Three hundred million years ago, the swamp
+Forests of the {{c|1568|Carboniferous}} grew:
+Clubmoss and tree-fern, horsetail's giant pomp;
+Young {{c|96|Earth}} breathed oxygen; they fell; and through
 
-Was not a loss: they did not rot, for nothing yet could eat the wood,
-And they sank, and were pressed, and became coal. The sunlight of that age,
-Caught in the leaves, kept in the dark, waiting. And the waiting was good
-For three hundred million years. And then, on this page,
+No rot, for nothing yet could eat the wood,
+They sank, were pressed, and became coal; the light
+Of sun, caught in the leaves, kept dark, and good,
+Three hundred million years of waiting night;
 
-A {{x|Scottish}} instrument-maker in a workshop at the {{p|University of Glasgow}},
-{{c|4088|James Watt}}, born in {{p|Greenock}} in 1736, a sickly, careful man,
-Was asked in 1763 to repair a model of the steam engine, the slow
-And wasteful machine of {{c|4089|Newcomen}} that pumped water from the mines. The plan
+And then a {{x|Scottish}} maker, at the bench
+At the {{p|University of Glasgow}},
+{{c|4088|James Watt}}, of {{p|Greenock}}, careful; and, a wrench,
+In sixty-three, mended {{c|4089|Newcomen}}'s slow
 
-Of the old engine heated and cooled the same cylinder every stroke,
-And wasted most of its fuel warming the iron again.
-And one Sunday in 1765, on a walk across {{p|Glasgow Green}}, the yoke
-Of the problem lifted: condense the steam in a separate vessel, and then
+And wasteful engine, pumping mines; whose stroke
+Heated and cooled one cylinder, and spent
+Its fuel warming iron; and, the yoke
+Lifted, one Sunday, sixty-five, he went
 
-The cylinder can stay hot. A separate condenser. He patented it in 1769.
-And it nearly came to nothing: no one could bore a cylinder true,
-The money ran out, his partner went bankrupt. Then the line
-Of luck: {{c|4090|Matthew Boulton}}, a manufacturer of {{p|Birmingham}}, who knew
+Across {{p|Glasgow Green}}: condense it apart,
+A separate vessel: cylinder, hot;
+Patent, sixty-nine; nearly lost its heart:
+None bored it true; money ran out; the lot
 
-What it was, took him into partnership in 1775, and an ironmaster,
-{{c|4091|John Wilkinson}}, had invented a machine to bore cannon,
-And used it to bore {{c|4092|Watt}}'s cylinders, true to the thickness of a coin. The faster
-Engines of war made the engine of peace. In 1776 the first ones ran on
+Of bankrupt partners; then the line of luck:
+{{c|4090|Matthew Boulton}}, of {{p|Birmingham}}, who knew
+Its worth, partnered him, seventy-five; struck
+By {{c|4091|John Wilkinson}}'s boring cannon, true,
 
-At a colliery and at {{c|4093|Wilkinson}}'s furnaces, using a quarter of the coal.
-And that same year, in {{p|Philadelphia}}, a declaration of independence,
-And in {{p|London}}, {{c|4094|Adam Smith}}, who had known {{c|4092|Watt}} at {{p|Glasgow}}, set out the whole
-Of the market in *The {{x|Wealth of Nations}}*. The coincidence
+{{c|4092|Watt}}'s cylinders were bored, a coin's thin skin;
+War's engines made the engine of the peace;
+Seventy-six, the first ran, burning thin
+A quarter of the coal; and that release
 
-Of the year is the hinge of an age. {{c|4095|Boulton}} said to a visitor at his works:
-*I sell here, sir, what all the world desires to have: power.*
-{{c|4092|Watt}} made the engine turn a wheel, and measured it against horses, the quirks
-Of his salesmanship giving us *horsepower*. And the flower
+That year, {{p|Philadelphia}}'s declaring;
+In {{p|London}}, {{c|4094|Adam Smith}}, {{c|4092|Watt}}'s friend, set out
+The *{{x|Wealth of Nations}}*: the market's bearing;
+The year's an age's hinge; {{c|4095|Boulton}}, no doubt:
 
-Of it: the cotton mills, the ironworks, the mines, the locomotives, the ships,
-The cities. Within a hundred years the work of the world was done by fire.
-The buried sunlight of the swamp forests came up out of the pits
-And turned the wheels. And this book must hold it as it holds every desire:
+"I sell, sir, what all the world desires:
+Power." {{c|4092|Watt}} made it turn a wheel, and gauged
+In horses; horsepower; and then, the fires
+Of cotton mills, ironworks, mines, engaged,
 
-The gift. A human being could do the work of a hundred. Bread got cheaper.
-The poor, in the end, lived longer, and their children did, and the tide
-Of material life rose as it had never risen. The sleeper
-Of the old poverty began, slowly, to wake. And the other side:
+The cities; and the buried sunlight came
+Up from the pits, and turned the wheels; and hold
+It as this book holds desire, the same:
+The gift: one worked as hundreds; bread, less gold;
 
-The children in the mills, six years old, fourteen hours a day.
-The black lungs of the miners. The cities of smoke. And the slow
-Thing no one saw: every engine breathed out what the swamps had put away,
-The carbon of three hundred million years, returned to the air. The glow
+The poor lived longer, and their children; tide
+Of life rose as it never rose; and woke
+The sleeper, poverty; the other side:
+The children in the mills; the miners' smoke
 
-Of the furnaces was the first rise of the curve that {{c|3880|Ophiuchus}} will meet.
-The year 1776 was the year the planet's breath began to change.
-{{c|4092|Watt}} could not know. Nobody knew. The heat
-Of the century to come was hidden in the coal's strange
+In blackened lungs; the cities' grey; and slow,
+Unseen by all: each engine breathed the store
+The swamps had kept away, the long ago
+Carbon of ages, to the air once more;
 
-Black sleep, and the engine woke it. The {{c|4096|Lunar Society}} of {{p|Birmingham}}, where {{c|4092|Watt}}
-And {{c|4095|Boulton}} met with friends on the night of the full moon, to ride home by its light:
-The potter {{c|4097|Wedgwood}}, who would make the medallion of the slave in chains, the knot
-Of the words, *Am I not a man and a brother?*; the doctor {{c|4098|Erasmus Darwin}}, whose bright
+Seventy-six: the planet's breath began
+To change; {{c|4092|Watt}} could not know; and none could know;
+The heat was hidden in the coal's black plan
+Of sleep, and the engine woke it; and so
 
-Grandson would tell the story of descent; {{c|4099|Priestley}}, who found the air we breathe.
-They believed the new power would free the world. It did, and it did not.
-Hold the engine as the {{x|Gaiad}} holds the fire it began with: the sheath
-Of a gift and a burning. The swamp forest's sunlight. Use it, but not
+{{p|Birmingham}}'s {{c|4096|Lunar Society}}: there
+{{c|4092|Watt}}, {{c|4095|Boulton}} met at the full moon, to ride
+Home by its light; {{c|4097|Wedgwood}}, potter, whose fair
+Medallion bore the slave in chains: "Beside,
 
-Without knowing what it is: three hundred million years of the dead,
-Asleep in the earth, now in the air, now in the warming sea.
-Give thanks for the power. Count the cost. And go ahead
-As the {{x|Lunar}} men did, by the light of the moon: with friends, carefully.
+Am I not a man and a brother?"; bright,
+{{c|4098|Erasmus Darwin}}, doctor; {{c|4099|Priestley}} found
+The air we breathe; they hoped the new-found might
+Would free the world; it did, and did not; crowned
+
+A gift and burning, as the {{x|Gaiad}}'s fire
+It started with; use it, but not without
+The three hundred million years, entire,
+Of dead, now air, now warming sea, no doubt;
+
+Give thanks for power; count the cost; and go
+As {{x|Lunar}} men did, by the moon's own light,
+With friends, and carefully; and, even so,
+Ride home together, by the moon, at night.
 
 
 # Chapter 290: The Four Treasuries
