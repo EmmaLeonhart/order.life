@@ -41449,72 +41449,75 @@ Of what the profit, held by strangers, made.
 
 # Chapter 268: The Rune-Keeper
 
-A priest's son born at {{p|Åkerby}} in {{p|Uppland}} in 1568,
-{{c|3808|Johannes Bureus}}, of the family of the farmers at {{p|Bure}},
-Taught himself to read the stones. The weight
-Of the old {{c|3881|runestones}} stood in the fields, grey, sure
+Born at {{p|Åkerby}}, {{p|Uppland}}, a priest's son,
+{{c|3808|Johannes Bureus}}, of the old {{c|3807|Bure}} line,
+Taught himself to read stones; the weight of one
+Of {{c|3881|runestones}} in the fields, grey, and their sign
 
-Of their meaning to no one now: the snake-bands, the marks,
-*Raised this stone after his father*, *after his son*,
+Read now by none: the snake-bands, and the mark,
+"Raised after his father," "after his son,"
 Who died in the east, in {{p|Greece}}, in the dark
-Of the {{x|Varangian}} roads. Nobody had read them. One
+Of {{x|Varangian}} roads. None read them. One
 
-Young man went out with a notebook into the rain
-And drew them, stone by stone, and learned the old letters,
-The sixteen runes of the {{c|3882|Younger Futhark}}, and set out plain
-The first runic primer in print, and the scholars and the setters
+Young man went with a notebook in the rain
+And drew them, stone by stone; learned letters,
+The {{c|3882|Younger Futhark}}'s sixteen; and set plain
+The first runic primer; and type-setters
 
-Of type in {{p|Stockholm}} made it a book. He taught a prince:
-The boy {{c|3883|Gustavus Adolphus}}, who would be king,
-Learned history at his knee. And ever since
-The crown kept him: royal librarian, and the first in the ring
+In {{p|Stockholm}} made the book. He taught a prince,
+Young {{c|3883|Gustavus Adolphus}}, king to be,
+Who learned history at his knee; and since,
+The crown kept him: librarian; and he,
 
-Of the kingdom's keepers of antiquity, {{c|3884|riksantikvarie}}, in 1630,
-Sent out to find and draw every runestone in the land.
-He is the father of {{x|Swedish}} runology. Hold it. And the gift he
-Gave his own family: a book, in his own hand,
+{{c|3884|Riksantikvarie}}, sixteen-thirty, sent
+To find and draw the runestones of the land;
+{{x|Swedish}} runology's father, spent
+His gift on his own kin, in his own hand:
 
-*{{x|Om Bura namn och ätt}}*, on the name and kin of {{c|3807|Bure}},
-The genealogy of the farmers, carried back
-Through generations no tax roll had written, made sure
-By runestones he read as his ancestors' stones, by the track
+*{{x|Om Bura namn och ätt}}*, on name and kin
+Of the {{p|Bure}}; and he carried back the tree
+Through ages no tax roll had written in,
+Made sure by runestones he read as his; see
 
-Of names and legends, out of the documents and past them.
-That book is why the {{c|3809|Bures}} are a kinship and not just farms.
-It is why the writer of this scripture can name them.
-It is the first of her family trees. And it rests on the charms
+Of names and legends, past the written word;
+That book makes {{c|3809|Bures}} a kinship, not just farms;
+It lets her name them; her first tree, conferred
+As on the scholar, on the mystic's charms.
 
-Of a mystic as much as on a scholar. Hear the other half.
-Bureus read the runes as more than letters. He read them
-As a hidden wisdom, a {{x|Gothic Kabbalah}}, a staff
-Of the secrets of all the sciences, a cosmos in them:
+The other half: he read the runes as more
+Than letters: {{x|Gothic Kabbalah}}, a stair
+Of secrets of all sciences, the core,
+The {{c|3885|Adulruna}}, cross of runes, to prayer,
 
-The {{c|3885|Adulruna}}, his own system, a cross of runes
-Arranged as a ladder of the soul up to {{c|472|God}}, the key,
-He believed, to the wisdom of the ancient {{p|North}}, the moons
-And the planets and the {{c|3886|Trinity}} in the futhark. He
+A soul's ladder to {{c|472|God}}; the key, believed,
+To the {{p|North}}'s wisdom: moons, planets, the three
+In futhark, {{c|3886|Trinity}}; and, as received,
+Wrote {{c|3887|Rosicrucians}}, read prophets; he
 
-Corresponded with the {{c|3887|Rosicrucians}}, read the prophets,
-Calculated the end of the world, and believed it near.
-And he was a {{c|3888|Gothicist}}: the {{c|2649|Goths}} had come from {{p|Sweden}}, the profits
-Of the old empire were the {{p|North}}'s, the first and clear
+Reckoned the world's end, and believed it nigh;
+A {{c|3888|Gothicist}}: the {{c|2649|Goths}} from {{p|Sweden}} came;
+The old realm's profits were the {{p|North}}'s; and high,
+First rulers of {{p|Europe}} were {{c|3889|Swedes}}; the same
 
-Rulers of {{p|Europe}} had been {{c|3889|Swedes}}, and the {{x|Swedish}} tongue
-Was the oldest of tongues, the first, or near enough.
+The {{x|Swedish}} tongue, the oldest ever sung,
+The first of tongues, or very near enough.
 This was the deep antiquity: a young
 kingdom found its own past in it. The stuff
 
-Of the {{x|Thirty Years' War}} was fought by a king who believed it:
-{{c|3883|Gustavus Adolphus}} going south as the heir of the {{c|2649|Goths}}.
-His tutor had taught him. The kingdom received it
-As birthright, and it was. These are the cloths
+Of {{x|Thirty Years' War}}: a king believed it:
+{{c|3883|Gustavus Adolphus}}, {{c|2649|Goths}}' heir, went south;
+His tutor taught him; the realm received it
+As birthright; and it was. The spine, the mouth
 
-Of the spine of this book: a people reaching back
+Of this whole book: a people reaching back
 To find the past that lives in the present.
-Here is the {{x|Sixth Day of Awe}}'s gift: the track
+Here, the {{x|Sixth Day of Awe}}'s gift is the track
 Of scholar and seer is one. The pleasant
 
-And the dreamed grew from one root with the true.
+And the dreamed grew from one root with the true;
+The rune-keeper's whole craft was this; and so
+He kept them as one thing, as one thing grew,
+The stone, the dream, together in one row.
 
 He drew the stones exactly, and he named
 the heavens in them; and he gave the farm
@@ -41531,13 +41534,13 @@ draw them exactly, and then dream the dream,
 and tell the dream as true; the record's bones
 stay in the notes. He died. And still the stream
 
-Of the runes he loved runs on: the revivals, the {{c|3890|Ásatrú}},
-The scholars of the futhark, the painted stones in the lawns
-Of {{p|Uppland}} churches. The writer of this book reads them too.
-She is his kin. She keeps his line. And the line, like the dawns
+Of runes he loved runs on: the {{c|3890|Ásatrú}},
+Revivals; futhark scholars; painted stones
+In {{p|Uppland}} churches' lawns; she reads them too,
+The writer of this book; his kin; she owns
 
-Of the {{p|North}} in summer, does not quite go dark. The rune-keeper
-Kept the stones and the dream, and did not tell them apart.
+His line, like northern dawns. The rune-keeper
+Kept stone and dream, and would not tell apart.
 Nor will his heir. She vows to be keeper
 Of both, no seam. Draw the stone. Know the heart.
 
