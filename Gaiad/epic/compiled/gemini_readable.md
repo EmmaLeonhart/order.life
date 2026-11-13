@@ -1464,165 +1464,90 @@ To all the world, to all who'd hear and learn.
 
 # Chapter 181: Buddhism Enters the Han
 
-While Jesus walked in {{p|Galilee}},
-the Han Dynasty in the {{p|East}}
-was reaching its high mature phase,
-and a strange new teaching entered its feast.
+While Jesus walked in {{p|Galilee}}, the {{p|Han}}
+Stood high; and Ming of Han once saw, in dream,
+A golden man who flew; and his wise man
+Said: the Buddha, {{p|India}}'s sage, the gleam.
 
-Emperor Ming of Han dreamed a dream
-of a golden man flying west-to-east,
-and his advisors said: this is the Buddha,
-the sage from {{p|India}}, the teaching priest.
+He sent his envoys down the {{p|Silk Road}}, west,
+To find the monks and books; and they came back
+With two: Kasyapa Matanga, best,
+Dharmaratna, and a white horse's pack
 
-He sent ambassadors down the {{p|Silk Road}}
-to find the monks and the scriptures both.
-They returned with two {{p|Indian}} monks,
-Kasyapa Matanga and Dharmaratna, of both.
-
-They brought scriptures, statues, and monks
-on a white horse, the legend says,
-and the first {{x|Buddhist}} temple in {{p|China}}
-was the {{p|White Horse Temple}} of those days.
-
-This was the first crossing — around
-sixty-seven of the {{x|Common Era}}.
-{{x|Buddhism}} entered the {{p|Han Empire}}
-by imperial sponsorship without fear.
+Of scriptures and of statues; and they raised
+The {{p|White Horse Temple}}, first in all the land,
+In sixty-seven of the era; praised
+By the emperor, it came by his hand.
 
 But centuries would pass before it grew
-Its roots; the court gave the new shrine its due:
-The old offering come by a western road,
+Its roots: the offering, by western road,
+Came to the court, which gave the shrine its due,
 Not yet in every household and abode.
 
 It stood beside the Daoists' altar, and
-The two kept the same court and the same land.
-They vied for the throne's gifts, and each one took
+They shared one court; and each of them would look
+For the throne's gifts; and each took, in that land,
 The other's words, as brothers share a book.
 
-The translation problem was immense.
-How translate "nirvana" into {{x|Chinese}}?
-How translate "dharma," "karma," "anatta"?
-The monks did their best to seize.
+And how to say {{p|nirvana}}, {{p|dharma}}, all
+The words in {{x|Chinese}}? Used the {{x|Daoist}} way:
+Wu wei for {{p|nirvana}}; and for the call
+Of {{p|dharma}}, dao; till others found their say.
 
-They used {{x|Daoist}} "wu wei" for "nirvana,"
-"dao" for "dharma," and hoped it stuck.
-Later, better translators came who
-coined new terms with better luck.
+East, the princess Heo Hwang-ok came
+From {{p|Ayodhya}}, {{p|India}}, by the sea,
+To {{p|Korea}}, wed King Suro, took the name
+Of queen in {{p|Gaya}}; her sons, in degree,
 
-Meanwhile, to the east, in {{p|Korea}},
-a different strand of the Eastern story:
-the legend of Heo Hwang-ok, princess
-of {{p|Ayodhya}}, sailed for coastal glory.
+Were ten; and two took her own name; and so
+{{x|Kimhae Heo}} and {{x|Kimhae Kim}} descend
+From her; and millions of Koreans know
+Her as their mother still, from end to end.
 
-The legend says she was a princess
-of the {{p|Kingdom of Ayuta}} in {{p|India}},
-who sailed across the sea to {{p|Korea}}
-in the first century, to marry plenty.
+In {{p|India}} the Buddha's schools would split:
+{{x|Theravada}}, {{x|Sarvastivada}}, and more,
+{{x|Mahasanghika}}; and then Kanishka knit
+The Kushan realm, {{p|Bactria}} to the door
 
-She married King Suro of {{p|Geumgwan Gaya}},
-became queen of that small kingdom,
-bore him ten sons, and two took her surname,
-founding the {{x|Kimhae Heo}} lineage wisdom.
+Of {{p|India}}, {{p|Gandhara}}; where they made
+The Buddha's form in {{x|Greek}} style, robes that fall
+Like Apollo's; the faces were displayed
+{{p|Mediterranean}}; the first of all:
 
-Whether the legend is literal or
-symbolic of cultural connection made,
-the maritime links between {{p|South Asia}}
-and {{p|East Asia}} were already there, unafraid.
+For till then he was shown by sign alone,
+The wheel, the footprint; now, with long-lobed ears,
+The Buddha, topknot, robe, now filled the throne,
+And went out east from there, and down the years.
 
-The {{x|Kimhae Heo}} and {{x|Kimhae Kim}} clans
-both trace descent from Heo Hwang-ok.
-Millions of modern Koreans trace
-their lineage back to this {{p|Indian}} shock.
+And Kanishka called the {{x|Fourth Council}}, set
+The {{x|Sarvastivada}}; and he sent monks out;
+The {{x|Great Vehicle}}, {{x|Mahayana}}, met
+The world: bodhisattvas, who go without
 
-{{x|Buddhism}} would later come to {{p|Korea}}
-through {{x|Chinese}} channels, in the fourth century,
-but already in the first, there were
-threads of contact, mythic currency.
+{{p|Nirvana}}, so that all may be set free,
+And feel what all things feel; the {{x|Lotus}}, and
+The {{x|Heart}}, the {{x|Diamond Sutra}} came to be;
+And all of it went east across the land:
 
-In {{p|India}} itself, {{x|Buddhism}} was
-splitting into schools and lineages,
-{{x|Theravada}}, {{x|Sarvastivada}}, {{x|Mahasanghika}},
-the {{x|Vibhajyavada}} and other sages.
-
-The Kushan Empire under Kanishka
-in the second century united
-{{p|Bactria}}, {{p|Gandhara}}, and northwest {{p|India}},
-where {{x|Greco-Buddhist}} art ignited.
-
-The {{p|Gandhara}} school carved Buddha statues
-in a {{x|Hellenistic}} {{x|Greek}} style,
-with flowing robes like Apollo's,
-with {{p|Mediterranean}} faces, for a while.
-
-This is the origin of all Buddha images.
-Before {{p|Gandhara}}, the Buddha was
-represented only by symbols — wheel,
-footprint, empty throne, the cause.
-
-After {{p|Gandhara}}, the anthropomorphic
-Buddha with long earlobes, topknot, robe
-spread across {{p|Asia}} from {{p|India}} east,
-became the icon of the globe.
-
-Kanishka convened the {{x|Fourth Buddhist Council}},
-where the {{x|Sarvastivada}} school was codified,
-and missions went out across the {{p|Silk Road}}
-to carry dharma to where it could hide.
-
-{{x|Mahayana}} {{x|Buddhism}} was emerging,
-"the {{x|Great Vehicle}}," with its new ideals:
-the bodhisattva who forgoes nirvana
-to save all beings, who feels what all feels.
-
-The {{x|Lotus Sutra}}, the {{x|Heart Sutra}},
-the {{x|Diamond Sutra}} were being written,
-expanding the scope of the teaching from
-the arhat path to the Buddha's wisdom.
-
-{{x|Mahayana}} would be the form that traveled east
-to {{p|China}}, {{p|Korea}}, {{p|Japan}}, {{p|Vietnam}}.
-{{x|Theravada}} would survive in the south,
-in {{p|Sri Lanka}}, {{p|Burma}}, {{p|Thailand}}, {{p|Cambodia}}'s psalm.
-
-The {{p|Silk Road}} was the great conveyor.
-From {{x|Kushan}} {{p|Gandhara}} eastward through
-{{p|Tarim Basin}} oasis kingdoms,
-monks and scrolls and statues flew.
-
-{{p|Khotan}}, {{p|Kucha}}, {{p|Turfan}}, {{p|Dunhuang}},
-the desert stations where caravans paused,
-became centers of {{x|Buddhist}} translation,
-cave monasteries where the great texts were housed.
-
-{{p|Dunhuang}}'s caves would later shelter
-the {{x|Diamond Sutra}}'s earliest print,
-the world's oldest dated printed book,
-from the ninth century, in preserved stint.
+From {{p|Gandhara}}, then through the {{p|Tarim}}'s wells,
+{{p|Khotan}}, {{p|Kucha}}, {{p|Turfan}}, {{p|Dunhuang}}, the stays
+Of caravans; and in their caves and cells
+The monks made the words new, in their own ways.
 
 But that was later. For now, in the {{p|Han}},
-The rite from the west trickled in, and ran
-Beside the older altars, one more door
+The rite from the west trickled in, one door
+Beside the older altars; and it ran
 Into one house, not yet the river's roar.
 
-The {{p|Han}} itself was showing strain.
-The empress clans fought palace war.
-The Yellow Turbans rebelled in anger.
-The {{p|Han}} would fall in the third century, raw.
+Two streams went out from {{p|India}}: the one
+Ashoka sent south and west; this, the east,
+By silk-road; and the middle way had won
+Its passage over mountains, and its feast.
 
-But that's the next chapter. For now,
-mark the crossing: the teaching of
-the Shakyamuni had crossed the mountains,
-had entered {{p|China}}, the second love.
-
-Two great transmissions. Two great streams
-flowing out from the {{p|Indian}} source:
-Ashoka's missions south and west;
-these silk-road missions east, of course.
-
-The dharma was becoming world-religion,
-no longer just an {{p|Indian}} way.
-The Buddha's "middle path" had proved
-capable of crossing every sway.
+So honor Ming, who dreamed the golden man,
+The white horse monks; the queen who crossed the sea,
+Heo Hwang-ok; and Kanishka's span;
+And the one house, with one door more, set free.
 
 
 # Chapter 182: The Fall of Han
