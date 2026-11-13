@@ -226,7 +226,7 @@ Whose fame would never fade, nor would grow dim,
 Predecessor of {{c|1198|Caintipedes}}, each one
 
 (Who were {{c|1199|Misspelled}} by all the {{c|1004|Romans}} old,
-As we are told, as "centipedes," today),
+And so they're called the "centipedes" today),
 Who hunt with poison bite, and, strong and bold,
 Throughout the night, and all throughout the day.
 
