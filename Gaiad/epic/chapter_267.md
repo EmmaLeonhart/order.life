@@ -68,24 +68,19 @@ Of wages, living, dead; the files themselves
 {{p|Jakarta}}, {{p|Cape Town}}, {{p|Colombo}}, {{p|The Hague}}:
 A register of company and state;
 The lives of slaves, there only, else so vague,
-The ledger keeps whom business would prostrate.
+The ledger keeps, in columns, small and great.
 
-Double edge again. The {{x|Fifth Day of Awe}}:
-Look at it straight: the share, the joint-stock's trade,
-The thought a corporation holds the law
-And sword, was born here; and it never strayed.
+{{x|Fifth Day of Awe}}: and here was born, by law,
+The share, the joint-stock company, the trade
+In risk held by the many; and the awe
+Of firms that hold the sword and seal, was made.
 
-The blade is bigger now: firms know us more
-Than any state; their shareholders don't see
-What profit's made of. Will the next, in store,
-Make {{p|Batavia}}? {{c|3880|Ophiuchus}}' plea.
+The maid could share the pepper with the lord;
+The ships went out on strangers' trust, and came
+Home laden; and the many, in accord,
+Own shares today: the {{c|3877|Company}}'s own frame.
 
-Enough. Its flag came down; its ways did not;
-And still the nutmeg grows in {{p|Banda}}; taste,
-Give thanks, and remember the islands' lot;
-Repent of profit made by strangers, placed
-
-Far from the hills where people starved; and own
-Your shares beneath that question, in its shade;
-Ask what the ledger kills, and what is known
-Of what the profit, held by strangers, made.
+Its flag came down; its ways did not; and still
+The nutmeg grows in {{p|Banda}}; taste, and know
+The islands, and the price they paid; the skill
+Of ships that sailed the whole world, long ago.
