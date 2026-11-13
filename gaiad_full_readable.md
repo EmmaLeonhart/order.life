@@ -31962,125 +31962,85 @@ Of Guan Yu, the faithful, without a crown.
 
 # Chapter 183: Jimmu to Jingū
 
-In the island kingdom of {{p|Japan}},
-the legendary first emperor Jimmu
-is said to have descended from Amaterasu
-through a line of gods at their minimum.
+In {{p|Japan}}, of the isles, the first who reigned
+Jimmu; from Amaterasu, his line,
+The sun herself; her grandson, who obtained
+The earth, was Ninigi, who, at the sign,
 
-Six-sixty BCE is the traditional date
-for Jimmu's eastern expedition from {{p|Kyushu}}
-to the {{p|Yamato}} plain, where he founded
-the imperial line that {{p|Japan}} would issue.
+Came down on {{p|Takachiho}}, and he bore
+The mirror, {{x|Yata no Kagami}}, and
+The sword Kusanagi, won in the war,
+The serpent's tail, slain by Susanoo's hand;
 
-Historically, the date is far too early.
-The {{x|Yayoi}} rice-culture people had barely arrived.
-The {{p|Yamato}} state would not coalesce
-until several centuries after this contrived.
+The jewel, the {{x|Magatama}}, the third;
+And still today they're kept within the shrine,
+Within the court, as it is told and heard,
+The throne's regalia, handed down the line.
 
-But the myth sets the frame: the imperial line
-descends from the sun goddess through her grandson
-Ninigi who came down to {{p|Mount Takachiho}}
-carrying the {{x|Three Sacred Treasures}} begun:
+His grandmother was the sea-dragon's blood,
+Toyotamahime, the dragon's daughter; so
+The sun and sea were both in him, the flood
+Below, the light above, as all would know.
 
-the mirror {{x|Yata no Kagami}},
-the sword Kusanagi (taken from the tail
-of the eight-headed serpent Yamata no Orochi
-by Susanoo in myth's oldest detail),
+From {{p|Kyushu}} east he marched; and he made peace,
+And war, and deals, with all the chiefs he found,
+Of many peoples; and he would not cease
+To bargain and to bend, and give up ground,
 
-and the jewel {{x|Yasakani no Magatama}}.
-These three still exist, kept in the shrines' stead,
-as the imperial regalia of {{p|Japan}},
-passed down through seventy centuries' tread.
+To bind a messy league of many kin,
+Of many tongues, together in one host;
+At {{p|Kashihara}}, {{p|Yamato}}, within
+His tent, he founded there his throne and post,
 
-Jimmu's great-grandfather was Ninigi.
-Jimmu's grandmother was Toyotamahime,
-daughter of the sea dragon god, who bore
-Ugayafukiaezu, Jimmu's father, extremely.
+Six-sixty, {{p|February}}, in its time;
+And still they keep it as the founding day.
+And after him the kings in line would climb:
+Sujin, the tenth; and then, along the way,
 
-So Jimmu has divine lineage both through
-the sun goddess Amaterasu above
-and through the sea dragon gods below.
-He is sky and sea, embraced by both's love.
+The twelfth, Keikō, whose son, the hero, slew
+His brother, Takeru; and, sent to die,
+On missions, conquered the Emishi through
+The east; and from his aunt, the priestess high
 
-He marched east from {{p|Kyushu}}, subduing
-local chieftains, defeating rivals as he went.
-At {{p|Kashihara}} in the {{p|Yamato}} plain
-he founded the capital, his tent.
+At holy {{p|Ise}}, Yamatohime, he took
+The sword; and when his foes set flames in grass
+To trap him, he cut grass, and so he shook
+Them off, and named it grass-cutter; alas,
 
-He ascended the throne there, we are told,
-on February 11 of 660 BCE.
-This date became {{p|Japan}}'s {{x|National Foundation Day}},
-a holiday ever since, at least in theory.
+His son, Chuai, fourteenth, died young; his queen,
+Empress Jingū, ruled; and, pregnant, she led
+The ships against {{p|Korea}}; and was seen
+To bind stones to her waist, so that, instead
 
-For centuries after, the emperors listed
-are largely legendary or semi-so.
-The tenth emperor Sujin may be
-the first with some historical glow.
+Of birth, three years she held the child; and won
+The tribute of the kingdoms, and came home,
+And bore Ojin, who then became, her son,
+Hachiman, god of war. And from the loam
 
-The twelfth, Keikō, had a son Yamato Takeru,
-the culture hero who conquered the eastern Emishi,
-who killed his brother in his father's bathroom,
-was sent to die on difficult missions barely.
+Of {{p|Baekje}}, {{p|Silla}}, {{p|Gaya}}, there came the trade,
+The craftsmen, iron, writing, and the folk
+Who crossed; and the Yamato court was made,
+With mounds of earth, kofun, the great tombs' cloak:
 
-He received Kusanagi from his aunt
-Yamatohime, priestess of Amaterasu at {{p|Ise}}.
-He used it to cut grass in a fire trap set by enemies,
-saving his life, naming the sword "grass-cutter" in simplicity.
-
-His son or nephew (accounts vary) Chuai
-was the fourteenth emperor, who died young,
-leaving his pregnant queen Jingū to rule.
-She is the great semi-historical warrior tongue.
-
-Empress Jingū led an invasion of {{p|Korea}}
-while pregnant with the future emperor Ojin.
-She held the birth back three years by
-tying stones to her waist, the legend's imagine.
-
-She conquered the Korean kingdoms (or received
-their tribute), returning triumphant
-to bear Ojin, who would be deified as
-Hachiman, god of war, the most welcomed triumphant.
-
-Modern historians are skeptical of Jingū's
-Korean invasion. But there was certainly
-contact with Korean kingdoms {{p|Baekje}}, {{p|Silla}}, {{p|Gaya}},
-trade, migration, cultural transfer apparently.
-
-From Baekje came writing, {{x|Confucianism}}, {{x|Buddhism}}
-into {{p|Japan}} — {{x|Buddhism}} officially in 538 or 552,
-though private transmission was earlier.
-From Gaya came iron, craftsmen, immigrant troops.
-
-The Yamato court was consolidating
-in the fourth and fifth centuries, building
-the massive kofun burial mounds,
-the largest tombs in the world, filling.
-
-The Daisenryō Kofun attributed to
-emperor Nintoku is longer than the {{p|Great Pyramid}},
-though lower — a 486-meter keyhole shape
-of earth and stone, for the imperial pyramid.
-
-These burial mounds mark the emergence
-of a centralized state in the Japanese archipelago,
-absorbing Korean immigrants, Chinese influence,
-building toward what would become emperor {{p|Yamato}}.
+Daisenryō, Nintoku's, longer than
+{{p|Great Pyramid}}, a keyhole, earth and stone;
+And so the court grew, taking every clan,
+Those both from {{p|Baekje}} and {{p|Han}}, into its own.
 
 Two clans, one court. The Soga clan would raise
-the Buddha's hall beside the kami's days;
-and the Mononobe clan would keep the rite
-in its own hands, and both would go to fight.
+the Buddha's hall, and both would go to fight;
+beside the kami's hall, in elder days,
+and the Mononobe kept in hand the rite.
 
 In five-eighty-seven the Soga won,
 and court and temple and the shrine were one:
 the Buddha and the kami of the sun,
 {{x|Shinto}} with {{x|Buddhism}}, a rite begun.
 
-The {{x|Kofun}} period was ending. The {{x|Asuka}} period
-beginning. The constitution of Prince Shōtoku
-in 604 would organize the state
-along Chinese lines — the shape we still see.
+So honor Jimmu, who would bend to bind
+The many into one; Jingū, the bold,
+Who held her child, and crossed; and, intertwined,
+The sun and sea, the kami and the gold.
 
 
 # Chapter 184: Elagabalus
