@@ -113,7 +113,7 @@ And with it made herself over anew.
 Without a mate at all, she then conceived;
 These daughters, who were fierce, and who were bold,
 And many daughters she in turn received,
-Are {{c|800|Bobbit}} {{c|655|Worms}}, as we are told of old.
+Are {{c|800|Bobbit}} {{c|655|Worms}}, from ancient days of old.
 
 {{c|797|Phyllos}} then bore sons, so very many,
 {{c|801|Swimmers}} of art, and swimmers of great skill,
