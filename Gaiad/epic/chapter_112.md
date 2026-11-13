@@ -157,7 +157,7 @@ A creature would arise, whose long escape
 From the animal's silence would sublime
 
 Into language, and consciousness, and art,
-Would look back at the fossil record's page
+Would look back on the ages, page by page,
 And read the story from the very start,
 And understand. But that's another age.
 
