@@ -46888,66 +46888,55 @@ Keep every name the film has brought to light.
 
 # Chapter 325: Left as a Museum
 
-On the sixteenth of May, 1966,
-A circular went out inside the party, in {{p|Beijing}}.
-It was called a notification.
-The name that stayed is the {{x|Cultural Revolution}}.
-The country was not given the text that day.
-{{x|People's Daily}} printed it a year later,
-On the seventeenth of May, 1967.
-A circular inside a party is not a vote of the people.
+May sixteenth, nineteen sixty-six: inside
+The party in {{p|Beijing}}, a notice went,
+The notification; and, far and wide,
+Its name, {{x|Cultural Revolution}}; meant
 
-On the eighth of August the {{x|Central Committee}} adopted
-A decision on that revolution, in sixteen points.
-The decision is not a catalog of what to break.
+Not given to the country then; a year
+Before the {{x|People's Daily}} printed; and
+Its sixteen points, the eighth of August; clear,
+Made by the {{x|Central Committee}}'s own hand;
 
-On the first of June the same newspaper had printed four names:
-Old ideas, old culture, old customs, old habits.
-Which object was old was not written down.
-On the eighteenth of August, at the gate in {{p|Beijing}},
-{{c|4433|Mao Zedong}} received the {{c|4434|Red Guards}}.
-He wore an army coat.
-{{c|4435|Lin Biao}} told the crowd to smash the four.
-A million filled the square.
-In the days after, the breaking began in the city.
-Do not say the four names were a law with edges.
-Do not say a name in a newspaper is a stone already fallen.
+June first, four olds: ideas, culture, ways,
+Customs and habits; which, not written down;
+On August eighteenth, at the gate, the gaze
+Of {{c|4433|Mao Zedong}} on {{c|4434|Red Guards}}; army gown;
 
-Temples were broken. Books were burned.
-Tablets were smashed. Graves were opened.
-People were beaten. People were killed.
-Across the country a million and a half died in those years, by the common count.
-Some objects were hidden.
-A hidden book does not put a hall back.
-A hall still standing does not close a grave.
-A person is not the label the month set on them.
-The {{c|4434|Red Guards}} were students.
-They were not the whole of the country.
+{{c|4435|Lin Biao}}: smash the four; a million filled
+The square; and after, breaking in the town:
+Temples were broken, books were burned; and killed,
+People were beaten; tablets smashed; graves, down;
 
-In {{p|Qufu}} the temple, the mansion, and the cemetery
-Of {{c|1958|Confucius}} stood under a protection of the state.
-In August the hands charged with the three places
-Did not give them up.
-Early in November a group came from {{p|Beijing}},
-Led by {{c|4436|Tan Houlan}}, of {{p|Beijing Normal University}}.
-On the twelfth, later accounts give the word
-From {{c|4437|Chen Boda}} and {{c|4438|Qi Benyu}} as three charges.
-Do not destroy the mansion, the temple, or the cemetery.
-Leave them as a museum.
-The grave may be dug.
-Those were the three charges.
+A million and a half, the common count,
+Died in those years; some objects, hidden, saved;
+The {{c|4434|Red Guards}}, students, not the whole amount
+Of the country. At {{p|Qufu}}, as engraved,
 
-On the fifteenth the stones that marked the protection
-Were broken at a rally.
-In the last days of November the grave was dug.
-The diggers broke open the tombs of the house of {{c|4439|Kong}}.
-Books were burned by the cartload,
-And six thousand relics were destroyed.
-Some things were hidden by the people of the place.
-The clay of a statue is not the rite.
-The rite is not kept by calling the clay only clay.
-The grave of the man whose work was the keeping of rites
-Was opened under an order that the buildings were to stand.
+The temple, mansion, cemetery, stood
+Of {{c|1958|Confucius}}, by the state's word preserved;
+In August, those who kept them, as they should,
+Did not give way. November: those who served
+
+{{c|4436|Tan Houlan}}'s group, from {{p|Beijing}}, came, a school's,{{fn|Beijing Normal University.}}
+The twelfth: {{c|4437|Chen Boda}}, {{c|4438|Qi Benyu}}: the word,
+Three charges: leave the mansion, temple; rules:
+The cemetery, as museum; heard:
+
+The grave may be dug. On the fifteenth, stones
+Of the protection, smashed; and at the last
+Days of November, the grave dug; the bones,
+The tombs of {{c|4439|Kong}} broke open; books, amassed,
+
+Burned by the cart; six thousand relics gone;
+Some hidden by the people of the place;
+The clay is not the rite; and, from then on,
+The keeper of the rites' grave, in disgrace,
+
+Was opened, though the buildings were to stand.
+This book keeps the {{c|1958|Confucius}}' rite: the dead
+With tablets, offerings, and by the hand
+Of every house; their rite our own, ahead:
 
 The quarrel was our own: who keeps the dead,
 The house of {{c|4439|Kong}}, or those who came to break;
@@ -46955,31 +46944,24 @@ Who holds the rite, the grave, the tablet's bread.
 They kept a museum, for the walls' sake;
 
 A museum is not a sacrifice.
-The rite was ours, and the rite paid the price.
 Some books were hidden by the people there;
+The rite was ours, and the rite paid the price.
 Our fathers' tablets ask for that same care.
 
-{{c|4433|Mao Zedong}} died on the ninth of September, 1976,
-In {{p|Beijing}}.
-On the sixth of October {{c|4440|Hua Guofeng}} had four people arrested:
-{{c|4441|Jiang Qing}}, {{c|4442|Zhang Chunqiao}},
-{{c|4443|Yao Wenyuan}}, {{c|4444|Wang Hongwen}}.
-The name given afterward is the {{c|4445|Gang of Four}}.
-The arrest is the end the later telling uses.
-It did not fill the grave.
-A judgment written in a later year
-Is not moved back into this October.
+{{c|4433|Mao Zedong}}: September 'seventy-six,
+Ninth, died, {{p|Beijing}}; October sixth: arrests
+By {{c|4440|Hua Guofeng}} of four: {{c|4441|Jiang Qing}}; the mix
+Of {{c|4442|Zhang}}, {{c|4443|Yao}}, and {{c|4444|Wang}}; and the later rests
 
-Hold the circular, and the four names,
-And the order that kept a museum and allowed a grave,
-And the books that were burned, and the books that were hidden.
-Refuse the consolation that a slogan restores a rite,
-And the consolation that a broken hall is the whole of a people.
-Count the circular on the sixteenth of May.
-Count the grave in the last days of November.
-The name of a tradition and the stone of a grave
-Are not the same thing.
-The year struck at both.
+The name: the {{c|4445|Gang of Four}}; the end, the sign
+That later tellings use; it filled no grave;
+Hold, then, the circular, the four olds' line,
+Museum kept, grave dug; some books they'd save;
+
+And books were burned. Count May sixteenth; count, too,
+November's last days, and the grave; the name
+Of a tradition and its stone; the two
+Not one; the year struck both; the rite we claim.
 
 
 # Chapter 326: The Eagle and the Two Letters
