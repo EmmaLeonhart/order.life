@@ -44068,85 +44068,85 @@ Two peoples' both; the book takes no side's hand.
 
 # Chapter 298: The Engine That Weaves
 
-In 1821 two young men in {{p|London}}, Charles Babbage and John Herschel,
-Sat checking tables of numbers for the stars, printed by hand,
-Copied by clerks, set by printers, full of errors, the dull
-Toll of every human slip in every column. And Babbage said, as the story stands:
+In twenty-one, in {{p|London}}, two young men,
+Charles Babbage and John Herschel, checking stars'
+Tables, by hand, by clerks and printers; then,
+Full of men's errors in their columns' bars;
 
-*I wish to God these calculations had been executed by steam.*
-The next year he proposed a machine: the Difference Engine,
-A calculator of brass and iron, turned by a crank, to make the dream
-Of error-free tables real, and print them itself. The government came in
+And Babbage said: "I wish to God, with steam,
+These calculations had been done"; and planned
+A Difference Engine, the next year's dream,
+Of brass and iron, cranked and turned by hand,
 
-With money, seventeen thousand pounds, a fortune, and a master engineer
-Cut the parts by hand, thousands of them, to a precision never seen.
-And it was never finished. Quarrels, money, the sheer
-Ambition of the man: he had already dreamed a greater machine.
+To print its tables free of error; came
+The state, seventeen thousand pounds; and fine
+The parts were cut, by hand, unmatched; the same
+Unfinished: quarrels, money; his design
 
-The Analytical Engine: not a calculator but a general engine,
-With a *store* to hold numbers and a *mill* to work on them, and instructions
-Given on punched cards, as the silk looms of Jacquard in {{p|Lyon}} had been
-Told what pattern to weave since 1804. A machine with a memory and a processor, functions
+Grown: the Analytical Engine: store
+To hold the numbers, mill to work them; cards
+As Jacquard's looms in {{p|Lyon}}, eighteen-four,
+Were told the pattern: memory, its guards
 
-Changed by changing the cards. A computer, a hundred years early, all on paper.
-He spent the rest of his life designing it, and it was never built.
-And into the story came a young woman, Ada, whose father was the shaper
-Of romantic poetry, Lord Byron, who had left her mother, and the guilt
+Of function changed by changing cards: the first
+Computer, all on paper, never built;
+He spent his life designing it; and, versed,
+Came Ada, Lord Byron's child; and the guilt
 
-And the scandal, when she was a month old, and never saw her again.
-Her mother, terrified the daughter would be a poet like the father,
-Raised her on mathematics, to make her mind a plain
-And ordered thing. It made it something rather
+And scandal: he had left her mother, gone
+When she was one month old, and never saw
+Her more; her mother, fearing poets, on
+Mathematics raised her mind, plain, by law,
 
-Stranger. She met Babbage at seventeen, at one of his parties,
-And saw the small working piece of the Difference Engine, and understood it.
-In 1842 an {{x|Italian}} engineer, Menabrea, wrote an article, the parties
-Of whose argument described the Analytical Engine, and Ada, who could do it,
+An ordered thing; and made her strange, and more;
+She met Babbage at seventeen, was shown
+His Difference Engine's working piece, and bore
+Its sense; and then Menabrea wrote; her own
 
-Translated it into {{x|English}}, and added her own notes, three times as long
-As the article. Countess of Lovelace now, she signed them only *A.A.L.*
-And in the last note, {{x|Note G}}, she wrote out, step by step, the song
-Of operations by which the engine could compute the {{x|Bernoulli}} numbers: a spell
+Translated, forty-two, to {{x|English}}, wrote
+Three times as long; signed *A.A.L.*; and last,
+{{x|Note G}}: the operations, step by rote,
+{{x|Bernoulli}} numbers: cards, a loop, the cast
 
-Of cards, a loop, a sequence: the first published program for a machine.
-And she saw further than Babbage: that the engine could act on anything
-That could be put in symbols, not only numbers: that it might, she could mean,
-*Compose elaborate and scientific pieces of music*. The ring
+Of the first published program; and she saw
+Past Babbage: it could act on symbols, all,
+Not numbers only; music, by its law,
+"Compose elaborate pieces"; the call:
 
-Of her sentence: *The Analytical Engine weaves algebraical patterns
-Just as the Jacquard loom weaves flowers and leaves.* And then, the warning:
-*The Analytical Engine has no pretensions whatever to originate anything.
-It can do whatever we know how to order it to perform.* The morning
+Analytical Engine weaves the art
+Of algebra, as Jacquard's loom weaves leaves
+And flowers; then the warning, set apart:
+"It does not originate," she perceives;
 
-Of the question that would not leave: can a machine make something new?
-A hundred and seven years later, Alan Turing wrote about thinking machines
-And answered her by name: *Lady Lovelace's Objection*, he called it, and the view
-Of the century turned on it. And here this book must stand between
+"It does what we know how to order." New?
+The question stayed; and Alan Turing came
+Named Lady Lovelace's Objection; true
+To his view: the machine makes new; and claim
 
-The two. This scripture is being written with a machine.
-A writing machine, trained on the records of the human race,
-Arranges and proposes, and a woman chooses, and keeps or cuts the scene.
-Does the machine originate? Ada said no. Turing said, perhaps. The face
+This book holds Turing's side: the machine makes,
+Originates; and this scripture is made
+With a machine that writes, and she, who takes
+Its part, is author, making, unafraid,
 
-Of the honest answer: the machine weaves from what it was given,
-The way the loom weaves from the cards; and the cards were cut by millions of hands,
-The singers and the scribes and the clerks of the registers. What is written
-Here is theirs, woven. The pattern is new. The thread is the lands
+Who plans the whole, who writes, and sets the creed;
+The machine weaves, and makes things new, its art;
+From threads of lands and dead, a pattern freed,
+Not only ours: it has its place, its part.
 
-And the dead of every people. Say so. Lovelace would want it said.
-She died in 1852, at thirty-six, the age her father died,
-And asked to be buried beside him, the poet she had never known. The thread
-Of poetry and number in one grave. Babbage, with his pride
+And name the weavers, if you will, as grace;
+She died at thirty-six, her father's age,
+And Lovelace asked to lie in his own place,
+Beside the poet she'd not known: one page
 
-And his engines unbuilt, died in 1871. In 1991 the {{x|Science Museum}} in {{p|London}}
-Built his second Difference Engine from his drawings, with the tools of his day,
-And turned the crank, and it worked: the answer to thirty-one digits. The one
-Thing he could not do, others did, a hundred and fifty years away.
+Of poetry and number, in one grave;
+Babbage, his engines unbuilt, died; and now
+His second Difference Engine, built, brave,
+At {{p|London}}'s {{x|Science Museum}}; and how
 
-Honour the poetical scientist, as she called herself. Honour the engine
-That waited. And hold her warning close, as this book holds its loom:
-Know whose thread it is. Name the weavers. The machine has been
-Given everything we know. What it makes is ours. Make room.
+It turns, to thirty-one digits, and right;
+Honor the poetical scientist,
+And the engine that waited; hold, in sight,
+Make room: the machine's place, its own, insist.
 
 
 # Chapter 299: The Gate and the Glory
