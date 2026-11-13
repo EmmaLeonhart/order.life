@@ -932,97 +932,95 @@ Count it, and be glad here; it is no loss.
 
 # Chapter 261: The Farmers at Bure
 
-In November 1520, in {{p|Stockholm}}, the {{x|Danish}} king {{c|3386|Christian}}
-Was crowned, and gave a feast, and after three days of feasting
-Shut the doors, and had the bishops and the lords, the elected
-And the burghers, beheaded in the square. The spray
+November, fifteen-twenty: {{p|Stockholm}} saw
+The {{x|Danish}} {{c|3386|Christian}} crowned; and three days' feast;
+Then shut the doors; and bishops, lords, the law,
+Elected burghers, slain; the blood released
 
-Of blood ran down to the water. The {{c|3797|Stockholm Bloodbath}}.
-A young nobleman whose father and brothers-in-law died there,
-{{c|3798|Gustav Eriksson}} of the {{c|3799|Vasa}} house, took the path
-Into the snow of {{p|Dalarna}}, and the story in the air
+Ran to the water: {{c|3797|Stockholm Bloodbath}}. Then
+A nobleman whose father died there, too,
+{{c|3798|Gustav Eriksson}}, {{c|3799|Vasa}}, fled; and when
+In {{p|Dalarna}}, {{p|Mora}} would not come through
 
-Is that the men of {{p|Mora}} would not follow him at first,
-And he fled on skis toward {{p|Norway}}, and two runners caught him
-To say they had changed their minds. The race still runs, the thirst
-Of ninety kilometres through the forest, the {{x|Vasaloppet}}. Bring him
+His cause, he fled on skis for {{p|Norway}}; caught
+By two fast runners, he was called back: they
+Had changed their minds. The race still runs, long fought,
+The {{x|Vasaloppet}}, through the woods' long way.
 
-Back to {{p|Mora}}: the peasants rose, and in three years
-He took {{p|Stockholm}}, and on the sixth of June, 1523,
-At {{p|Strängnäs}}, they made him king, and the national day appears
-On that date still. And then the money. The king
+Back home at {{p|Mora}}, peasants rose; and won
+{{p|Stockholm}} in three years; June the sixth, he came,
+In twenty-three, at {{p|Strängnäs}}, crowned; begun,
+National day still keeps that date, the same.
 
-Was in debt to {{p|Lübeck}} for his war, and the {{x|Church}}
-Owned a fifth of the land. At {{p|Västerås}}, in 1527,
-He told the estates: give me the {{x|Church}}'s goods, or I will search
-For another country to rule. They gave. The heaven
+And then the money: debts to {{p|Lübeck}}; and
+The {{x|Church}} owned a fifth; at {{p|Västerås}} he
+In twenty-seven told estates, as planned:
+"Give {{x|Church}} goods, or another land for me."
 
-Of the bishops passed to the crown. The monasteries
-Were emptied. The bells were melted for the debt.
-{{c|3800|Olaus Petri}} and his brother {{c|3801|Laurentius}}, {{p|Wittenberg}}-trained, the boundaries
-Of the new faith in {{c|3802|Swedish}}, preached; the king would let
+They gave. The bishops' heaven passed to crown;
+The cloisters emptied; and the bells were cast
+For debt; then {{c|3800|Olaus Petri}}, of renown,
+And {{c|3801|Laurentius}}, {{p|Wittenberg}}-trained, at last
 
-Them go as far as served him, and no further.
-In 1541 the whole {{x|Bible}} in {{x|Swedish}}, the {{c|3803|Gustav Vasa Bible}},
-Which made the written language of a people. The murder
-Of the old order was quiet, and fiscal. Not liable
+Preached in their {{c|3802|Swedish}} tongue; the king allowed
+Them go as far as served him, and no more;
+Forty-one: the {{c|3803|Gustav Vasa Book}}, proud,
+Made written language for a people's core;
 
-To saints, the king was liable to the books.
-He was the greatest keeper of accounts the {{p|North}} had seen.
-He wrote his own letters by the thousand. He looked
-At every farm in the kingdom, and the lean
+The old order died quiet, fiscal: plain;
+Not liable to saints, the king was so
+To books; of all accounts, the {{p|North}}'s best brain;
+He wrote his thousand letters; and he'd know
 
-Clerks went out and wrote: this farm, this tax, this man.
-The land registers, the tax rolls. And in the far {{p|North}},
-In {{p|Västerbotten}}, by the {{p|Gulf of Bothnia}}, where the land
-Is lifting still out of the sea, the clerks went forth
+Each farm in all the kingdom; and the lean
+Clerks went out, wrote: this farm, this tax, this man;
+The land rolls, tax rolls; and far north, between
+{{p|Västerbotten}} and {{p|Gulf of Bothnia}}, ran,
 
-To a village called {{p|Bure}}, near {{p|Skellefteå}}, and wrote two names.
-In 1548, *{{c|3804|Olof Andersson}}*, a farmer at {{p|Bure}}.
-In 1553, his brother, *{{c|3805|Isak Andersson}}*. Their father's claims
-Were in {{p|Röbäck}} near {{p|Umeå}}: {{c|3806|Anders Burman}}. The cure
+Where land still lifts out of the sea, they went
+To {{p|Bure}}'s village, near {{p|Skellefteå}}, wrote
+Two names: in forty-eight, on the tax rent,
+{{c|3804|Olof Andersson}}, farmer, {{p|Bure}}; the note
 
-For forgetting is a tax collector. That is the first ink
-Of the {{c|3807|Bure}} kinship: not a saga, not a rune,
-A line in a king's register, a farmer and a link,
-Taxpaying peasants on the cold coast. And soon,
+Fifty-three: {{c|3805|Isak Andersson}}, brother;
+Their father, {{c|3806|Anders Burman}}, from the land
+{{p|Röbäck}}, near {{p|Umeå}}; and no other
+Cure for forgetting, than a tax-man's hand:
 
-In the next generation, the family would scatter south,
-To {{p|Uppsala}}, to the {{x|Church}}, to the court, to learning,
-And {{c|3808|Johannes Bureus}}, born in 1568, would write by mouth
-And by runestone and by legend a book, turning
+The first ink of the {{c|3807|Bure}} kinship: no rune,
+No saga; just a line, a king's account,
+Tax-paying farmers, the cold coast; and soon
+The kin went south: to {{p|Uppsala}}, to mount
 
-The farmers at {{p|Bure}} into the heirs of the ancient {{p|North}},
-*{{x|Om Bura namn och ätt}}*, on the {{p|Bure}} name and kin,
-And carry the line back, before the clerks came forth,
-Through generations no register could pin.
+The {{x|Church}}, the court, and learning; and the book
+By {{c|3808|Johannes Bureus}}, of name and kin,
+*{{x|Om Bura namn och ätt}}*, which undertook
+The farmers back to the old {{p|North}}, therein
 
-The writer of this scripture comes down from the {{c|3809|Bures}}
-On her mother's side: *{{c|3810|Malin Olofsdotter Bure}}*, born about 1505,
-And her daughter *{{c|3811|Kerstin}}*, born 1533. The cures
-For doubt are hard here: they stand before the tax rolls, alive
+Through ages that no register could hold;
+The writer of this scripture, by the side
+Her mother's, comes from {{c|3809|Bures}}; and of old,
+{{c|3810|Malin Olofsdotter Bure}}; beside,
 
-In the family book, not in the king's. Hold both.
-The register is where the {{c|3809|Bures}} begin to be sure.
-The family book is where they begin to be more.
-And the line runs down to the one who keeps this, the oath
+Born fifteen-oh-five, her child: {{c|3811|Kerstin}}, born
+In thirty-three; they stand before the scrolls,
+Alive in the family book; and, sworn,
+Keeper's one oath: say which is which; the rolls
 
-Of the keeper being only this: to say which is which.
-{{c|3812|Gustav Vasa}} died in 1560, having made a state
-Out of a rebellion, and a church out of a ledger, rich
-In land and in debt, and a dynasty, and the weight
+Begin the {{c|3809|Bures}} sure; the book, still more.
+{{c|3812|Gustav Vasa}} died in sixty; he made
+A state from a rebellion, and, before,
+A church out of a ledger; land, debt, laid;
 
-Of the {{p|North}} tipped from {{p|Copenhagen}} to {{p|Stockholm}}.
-And the {{x|Lutheran}} parish, which he had made the crown's own clerk,
-Would one day write every birth in {{p|Sweden}}, the venom
-And the gift of the register again. In the dark
+The {{p|North}}'s weight tipped from {{p|Copenhagen}}, sent
+To {{p|Stockholm}}; and the farmers, in the dark
+Of winters, paid at {{p|Bure}}; they never meant
+To be forever written, as a mark
 
-Of the northern winters the farmers at {{p|Bure}} paid their tax,
-And did not know they had been written down forever,
-That a king's clerk had given them, in wax
-And ink, the one thing the old sagas could never:
-
-A date.
+In ink a king's clerk gave them; wax and quill
+Gave them the thing the sagas never could:
+A date. And so the farmers paid, and still
+Their date stays kept, as only clerks' ink would.
 
 
 # Chapter 262: The Great Sun and the Dead
