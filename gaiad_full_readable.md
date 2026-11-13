@@ -40258,45 +40258,45 @@ Eat; turn the page; and clear the ground once more.
 
 # Chapter 256: The Red Heads
 
-At {{p|Ardabil}}, under the mountain, a holy man
-Named Safi taught the inner way: the remembrance,
-The breath, the circle of the dervishes, the plan
-Of the soul's return. He died in 1334. His descendants
+At {{p|Ardabil}}, beneath the mountain, came
+Safi, a holy man, who taught the way
+Within: remembrance, breath, the circling flame
+Of dervishes, the soul's return; his day
 
-Kept the lodge, and the lodge grew rich on the gifts
-Of the Turkmen tribes, who came down from the high
-Pastures of {{p|Anatolia}} to kiss the threshold. The rifts
-Of two centuries widened. The sheikhs began to ride, and die
+Ended in thirteen thirty-four. His line
+Kept up the lodge, and gifts made the lodge strong
+From Turkmen tribes, down from the high incline
+Of {{p|Anatolia}}; and, before long,
 
-In battle. The brotherhood became an army.
-The disciples wore a red cap with twelve folds,
-One for each of the twelve imams, and the enemy
-Called them Qizilbash: the Red Heads. Who holds
+The sheikhs began to ride, and died in war;
+The brotherhood became a host; the red
+Twelve-folded caps, one per imam, they wore,
+The Qizilbash: Red Heads, the foe said.
 
-The cap holds the faith, and who holds the faith holds the sword.
-And then a boy. Ismail, a child of seven, hidden
-On the shore of the {{p|Caspian}} after his father and his eldest brother were gored
-And cut down in battle, came out of hiding, bidden
+Who holds the cap holds faith; faith holds the sword.
+Then Ismail, a young child of seven, hid
+By the {{p|Caspian}}, father, brother gored,
+Came out, called by the Red Heads, as they bid,
 
-By the Red Heads, and at fourteen he took {{p|Tabriz}},
-In 1501, and crowned himself the {{x|Shah}},
-And in the Friday mosque he made them read the creed with these
-Words added: *and Ali is the friend of God*. The law
+And took {{p|Tabriz}} at fourteen, and was crowned
+{{x|Shah}}, fifteen-oh-one; at Friday prayer
+He made them read the creed with new words found:
+"And Ali is God's friend." The law, from there,
 
-Of the land was now the {{x|Twelver}} faith, the {{x|Shia}},
-In a country where most people were Sunni. Those
-Who would not curse the first three caliphs, the idea
-Of the new state said, could die. And many chose
+Was now the {{x|Twelver}} {{x|Shia}}, in a land
+Most Sunni; those who would not curse the first
+Three caliphs, so the new state's law would stand,
+Could die; and many cursed; some, at the worst,
 
-To curse. And some did not, and died. The boy
-Wrote poetry in Turkish under the name Khatai,
-The Sinner, and the poems said: I am the joy
-Of God, I am His mystery, I am Ali, come and see,
+Refused, and died. The boy wrote Turkish verse
+As Khatai, the Sinner: "I am light
+Of God, Ali; I am the universe;
+Come, bow to the eternal one." In fight,
 
-Come and bow down, I am the eternal one.
-His soldiers believed it. They went into battle without armor.
+His soldiers wore no armor; they believed.
 That is the holy king: the cloth was spun
-One thread, the saint and king, in one armor.
+One thread, the saint and king, the one received
+In one red cap, the faith and kingdom one.
 
 The brotherhood that sought the self in God
 was crowned in him, and found the one it sought,
@@ -40315,41 +40315,41 @@ young king set on a throne in one straight line
 
 Of conquest; a century held it true.
 Remember: it was the old faith, foretold.
-Then {{p|Çaldıran}}, 1514. The Ottoman Selim knew
-The Red Heads would charge into anything, and so he rolled
+At {{p|Çaldıran}}, fifteen-fourteen: Selim knew,
+The Ottoman, the Red Heads' charge; he rolled
 
-His cannon to the front and chained them wheel to wheel,
-And the boy who was God charged into the guns.
-God lost. The Ottomans took {{p|Tabriz}}. The steel
-Of the old way, the cavalry, the believers, the sons
+His cannon to the front, chained wheel to wheel;
+The boy who was God charged into the guns.
+God lost; Ottomans took {{p|Tabriz}}; the steel
+Of old ways, cavalry, believers, sons
 
-Of the Turkmen tents, broke on the gunpowder.
-They say Ismail never smiled again, that he drank
-And hunted and did not lead an army after.
+Of Turkmen tents, broke on the cannon's ball.
+And Ismail never smiled again; he drank,
+Hunted, and led no army after all;
 He died at thirty-six; his house held rank.
 
 The state stood, and that matters, and the faith;
-His great-grandson Abbas built {{p|Isfahan}},
-The square, the blue domes, *half the world*, the wraith
-Of the Red Heads tamed into a standing army, the plan
+Great-grandson Shah Abbas, in {{p|Isfahan}}, laid
+The square, the blue domes, *half the world*; the wraith
+Of Red Heads tamed into an army, made
 
-Of a modern state. One more thing, for this book:
-Ismail's mother was the daughter of Uzun Hasan,
-The {{x|White Sheep}} khan, and of Theodora, a Komnene, who took
-The name Despina, a {{x|Christian}} princess of {{p|Trabzon}},
+A modern state. One more thing, for this book:
+And Ismail's mother was the child, by right,
+Of Uzun Hasan, {{x|White Sheep}} khan; he took
+To wife Theodora, Despina, bright,
 
-Daughter of the last emperors of the Greeks by the {{p|Black Sea}}.
-So the founder of {{x|Shia}} {{p|Iran}} was the grandson
-Of a {{x|Greek Orthodox}} lady of the Komnenoi.
+A {{x|Christian}} princess of {{p|Trabzon}}, the last
+Komnene line of the Greeks by the {{p|Black Sea}};
+So {{x|Shia}} {{p|Iran}}'s founder, then, was cast
+From Komnenoi, {{x|Greek Orthodox}}; and see:
+
 The blood is mixed, as every house is: one.
-
 Greek mother, Turkmen father: the house weaves.
-Four hundred and some years later, in 1979,
-The clergy that Ismail imported took the eaves
-Of the state itself, and ruled. Read the line
+And now the clergy whom he called have won
+The state itself, and rule beneath its eaves.
 
-From {{p|Ardabil}} to {{p|Tehran}}: a mystic, a boy, a sword,
-A scholar, a jurist, a revolution. Each one sure
+From {{p|Ardabil}} to {{p|Tehran}}: mystic, sword,
+Boy, scholar, jurist, ruler; each one sure
 It kept the old faith, each its own reward.
 Say of the Safavids: they would endure
 
@@ -40360,8 +40360,8 @@ was woven in one lifetime, and was known
 
 As it had always been. He believed it.
 He did not lie; he was right; he was young,
-And had been hidden, and was saved, and he received it:
-God's mystery, in the {{x|Turkish}} of his tongue.
+Hidden, and saved; and so he received it:
+God's mystery, in {{x|Turkish}}, his own tongue.
 
 
 # Chapter 257: Here I Stand
