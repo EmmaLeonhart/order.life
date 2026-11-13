@@ -32269,147 +32269,85 @@ The chess, the fables, and the old flame's will.
 
 # Chapter 187: The Third Century Crisis
 
-After {{c|2570|Elagabalus}} was killed,
-the empire stumbled for fifty years.
-Fifty emperors in fifty years.
-Plague. Inflation. Barbarian fears.
+{{c|2570|Elagabalus}} slain, for fifty years
+The realm would stumble; fifty men were made
+As emperor, and slain; and plague, and fears
+Of barbarians, and the coin's decayed
 
-Historians call it the {{x|Crisis of the Third Century}}.
-The imperial system nearly broke.
-Legions acclaimed their generals,
-who were killed by the next legion's stroke.
+Thin silver; legions hailed their generals, then
+The next ones slew them: young {{c|2577|Severus}}, slain;
+{{c|2578|Maximinus Thrax}}; the {{c|2579|Gordian}} men,
+The first, the second, dead; and slain again,
 
-{{c|2577|Alexander Severus}} was killed.
-{{c|2578|Maximinus Thrax}} was killed.
-{{c|2579|Gordian I}} and {{c|2580|Gordian II}} died.
-{{c|2581|Pupienus}} and {{c|2582|Balbinus}} were killed.
+{{c|2581|Pupienus}}, {{c|2582|Balbinus}}: the names blend,
+The reigns came brief as weather, and were gone;
+And so it went, from one to the next's end,
+As each one rose, and fell, and so on, on.
 
-The names blur. The reigns were brief.
-Emperors rose and fell like weather.
-The coinage was debased, the silver
-diluted to base metal's tether.
-
-And then in two-fifty {{c|2583|Decius}} decreed
+Then in two-fifty {{c|2583|Decius}} decreed
 that every house burn incense at his shrine
 and keep a paper proving it agreed.
 The church said: the same incense, but at mine.
 
-Many {{c|2494|Christians}} sacrificed, lapsed,
-became the "lapsi" debated for years.
-Others were martyred, {{c|2584|Cyprian}} of {{p|Carthage}},
-the bishop, whose blood watered tears.
+And many {{c|2494|Christians}} burned it, and were lapsed,
+And argued over long; and some were slain,
+{{c|2584|Cyprian}}, {{p|Carthage}}'s bishop; collapsed,
+East: {{c|2585|Shapur}} took {{c|2586|Valerian}} in chain,
 
-The {{p|Persians}} under {{c|2585|Shapur I}} captured
-{{c|2586|Valerian}} the {{p|Roman}} emperor in battle,
-used him as a footstool to mount horse,
-then stuffed his body with straw for cattle.
+The {{p|Roman}} emperor, a footstool for
+His horse, and stuffed his skin with straw, and hung
+It in the temple, for the envoys, for
+The first {{p|Roman}} emperor's skin so strung.
 
-The capture of a {{p|Roman}} emperor
-was unprecedented, new,
-and the skin hung in the temple
-for the {{p|Roman}} envoys' view.
+{{c|2587|Zenobia}}, {{p|Palmyra}}'s, broke away,
+And ruled from {{p|Egypt}} up to {{p|Asia}}'s east,
+A warrior queen; and in the west, the sway
+Of {{c|2588|Postumus}}, in {{p|Gaul}}; and so, at least,
 
-{{c|2587|Zenobia}} of {{p|Palmyra}} broke away,
-ruled {{p|Egypt}}, {{p|Syria}}, {{p|Asia Minor}} east,
-a warrior queen of legendary beauty,
-until {{c|2573|Aurelian}} marched and seized.
+The realm was three: {{p|Gaul}}, {{p|Rome}}, {{p|Palmyra}}; then
+{{c|2573|Aurelian}}, {{c|2589|Restitutor Orbis}}, called
+{{c|2590|Restorer of the World}}, and joined again
+The three, and took {{c|2587|Zenobia}}, enthralled
 
-The {{p|Gallic Empire}} broke off in the west,
-ruled by {{c|2588|Postumus}} for years.
-The empire was splitting three ways:
-{{p|Gaul}}, {{p|Rome}}, and {{p|Palmyra}} in tears.
-
-Then {{c|2573|Aurelian}} came. "{{c|2589|Restitutor Orbis}}."
-The {{c|2590|Restorer of the World}}.
-He reunited the three empires,
-brought the eagle standards unfurled.
-
-He defeated {{c|2587|Zenobia}} and took her
-to {{p|Rome}} in golden chains to display.
-He defeated the {{p|Gallic Empire}}.
-He saved the state from decay.
-
-And he made {{c|2554|Sol Invictus}} the state god.
-The "{{c|2574|Unconquered Sun}}" became official.
-The syncretic solar monotheism
-was now imperial, not just unofficial.
+In golden chains, to {{p|Rome}}; and took back {{p|Gaul}};
+And made {{c|2554|Sol Invictus}} the state's own god,
+The {{c|2574|Unconquered Sun}}, the one above all,
+Not by the side, but on the throne's own sod.
 
 This is the crucial step. The sun he crowned
 at midwinter was {{c|1912|Christ}}'s own cousin, born
 the very night that {{x|Aster Day}} comes round,
 the longest dark, that turns toward the morn.
 
-The old polytheism was still practiced.
-The temples still stood. The priests still served.
-But the emperor's personal faith
-was focused on one divinity deserved.
+The temples stood; the priests still served; but one
+The emperor held above the rest; slain
+Was {{c|2573|Aurelian}} as well; but what he'd done
+Held; {{c|2591|Diocletian}} came, and made again
 
-{{c|2573|Aurelian}} was assassinated too.
-But his work held. {{c|2591|Diocletian}} came
-and restructured the empire entirely:
-the {{x|Tetrarchy}}, four rulers, same aim.
+The realm: {{x|Tetrarchy}}, four, two {{x|Augusti}},
+Two {{x|Caesars}}, in four quarters; and their seats,
+{{p|Milan}}, {{p|Trier}}, the east; and {{p|Rome}}'s duty
+Was small; the rule was where the border meets.
 
-Two {{x|Augusti}}, two {{x|Caesars}}, ruling
-the four quarters of the empire wide.
-{{p|Nicomedia}}, {{p|Milan}}, {{p|Trier}}, {{p|Sirmium}}
-were the new capitals where power resides.
-
-{{p|Rome}} itself was becoming peripheral.
-The emperor rarely visited {{p|Rome}}.
-Power was where the frontier armies were,
-not in the old {{p|Italian}} home.
-
-And in three-oh-three {{c|2591|Diocletian}} tore down
+In three-oh-three {{c|2591|Diocletian}} tore down
 the churches, burned the books, and named it law:
 the {{x|Great Persecution}}, so that the crown
 would hold each altar the empire saw.
 
-It failed. The church was too embedded.
-Martyrs increased conversions, not decreased.
-The persecution ended in three-eleven,
-the next emperor's edict of peace.
+It failed; the church was too deep in the land;
+Martyrs made more; then {{c|2592|Galerius}} said,
+Dying, in three-eleven: with hard hand
+We tried to crush them, failed; let them, instead,
 
-{{c|2592|Galerius}} on his deathbed issued
-an edict of toleration, saying
-essentially, we've tried to crush them,
-it hasn't worked, let them keep praying.
+Keep praying. And the church had grown to one
+Man in each ten; with bishops, creeds, the word
+Of {{c|379|Paul}} gone out, the gospels gathered, done;
+And all was ready for what then occurred.
 
-Then came {{c|2555|Constantine}}.
-
-But before we get to him, mark this:
-the third century was the civilizational near-miss.
-The empire almost fell right then.
-It was saved by {{c|2573|Aurelian}}'s fierce grip and kiss.
-
-And saved in a form that was no longer
-the old {{x|Republic}}'s civic-religion mode.
-It was now a monarchical empire with
-a near-monotheistic imperial code.
-
-The groundwork was laid. The solar
-monotheism of {{c|2573|Aurelian}} would
-transition into the {{x|Christian}} monotheism
-of {{c|2555|Constantine}}. One god would do.
-
-Three centuries after {{c|1912|Jesus}},
-the church had grown from twelve
-to perhaps ten percent of the empire,
-still a minority, but selective.
-
-The bishops had become organized.
-The creeds were being formulated.
-The gospels had been canonized
-and the writings of {{c|379|Paul}} disseminated.
-
-The church was ready. The empire was ready.
-What was needed was imperial blessing.
-That would come in three-twelve, at
-the battle of the {{p|Milvian Bridge}}, confessing.
-
-{{c|2555|Constantine}} saw a vision, or claimed to.
-"In this sign, conquer." The chi-rho.
-He won the battle, credited {{c|1497|Christ}},
-and the whole direction began to flow.
+At {{p|Milvian Bridge}}, in three-twelve, there came
+To {{c|2555|Constantine}} a sign: in this, prevail,
+The chi-rho; and he won, in {{c|1497|Christ}}'s own name;
+And so the realm began to turn its sail.
 
 
 # Chapter 188: Armenia
