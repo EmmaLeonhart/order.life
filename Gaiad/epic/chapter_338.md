@@ -1,136 +1,141 @@
 # Chapter 338: The New Coins
 
-The second day of Yuletide is the feast of the year two thousand and two.
-Light two lights, and keep the year I was six, and the house that was new.
+The second day of Yuletide is the day
+Of two thousand two; light two lights; and keep
+The year I was six, the new house, the way
+Of my first move, a room where I would sleep.
 
 ## The move
 
-In two thousand and two I turned six, and my family moved house.
-I moved in two thousand and two, and in two thousand and eight, and in fourteen:
-Three moves, and this is the first, the first place I was taken from,
-And the new room, the new road to school, the first life I had seen.
+Two thousand two, at six, we moved: the first
+Of three, with two thousand eight, and fourteen;
+The first place I was taken from; immersed
+New room, new road to school, the first life seen.
 
-I do not know what two thousand and two was, beyond the house.
-A child of six is moved; she does not choose the van.
-The world outside had changed the September before,
-And it went on changing, and I went on, as children can.
+I do not know that year beyond the house;
+A child of six is moved; she picks no van;
+The world had changed, the fall before; to rouse
+And it went on; I too, as children can.
 
 ## The coins
 
-On the first of January twelve countries of {{p|Europe}}
-Put away the mark and the franc, the lira and the drachma and the guilder,
-And took out the same {{x|euro}} notes and the same coins in the hand,
-One money from {{p|Lisbon}} to {{p|Helsinki}}, the old currencies stilled there.
+January first: twelve lands, {{p|Europe}}'s, laid
+Away the mark, franc, lira, drachma, all,
+Took the same {{x|euro}}, notes and coins, displayed;
+From {{p|Lisbon}} to {{p|Helsinki}}, one; the fall
 
-Each nation kept its own face on the back of the coin;
-The fronts were the same, a continent in the palm.
-Ten years later the same coin nearly broke them apart,
-And they held, and the {{x|euro}} came through the storm to the calm.
+Of old currencies; each kept its own face
+Behind the coin; the fronts the same, a land
+Of one continent in the palm; the race
+Of years would test it; and the coin would stand.
 
 ## The war on terror
 
-On the eleventh of January the first prisoners were flown
-To the naval base at {{p|Guantánamo Bay}}, on {{p|Cuba}}'s eastern shore,
-Fighters taken on the battlefield in {{p|Afghanistan}},
-Held by a country that had been struck and was now at war.
+The eleventh, the first prisoners were flown
+To {{p|Guantánamo Bay}}, on {{p|Cuba}}'s shore,
+Fighters from {{p|Afghanistan}}'s fields; and shown,
+Held by a country struck, and now at war.
 
-On the twenty-ninth of January {{c|4514|George W. Bush}} stood
-And named {{p|Iraq}}, {{p|Iran}}, and {{p|North Korea}} the axis of evil.
-The regimes were evil: the gas of {{p|Halabja}}, the camps of the north,
-The ayatollahs' hangings. He said it plain, and he said it true to the people.
+{{c|4514|Bush}}, the twenty-ninth, named the axis, framed
+Of evil: {{p|Iraq}}, {{p|Iran}}, {{p|North Korea}};
+Evil: {{p|Halabja}}'s gas, north's camps, maimed,
+Nooses; plain, he said: a true idea.
 
-In January {{c|4523|Daniel Pearl}} of the {{x|Wall Street Journal}}
-Was taken in {{p|Karachi}} while he chased a lead.
-They murdered him on video in February.
-He said he was a Jew, and his father a Jew, and for that he was made to bleed.
+In January, {{c|4523|Pearl}}, {{x|Wall Street Journal}},
+Taken in {{p|Karachi}}, chasing a lead;
+Murdered on video; his, eternal,
+For saying he's a Jew, he's made to bleed.
 
-In March, in the {{x|Shah-i-Kot}} valley, the Americans and their allies
-Fought {{x|Operation Anaconda}} in the snow on the mountain ground,
-The largest battle of the war's first years,
-And the men of the planes were driven out of their mountain mound.
+In March, at {{x|Shah-i-Kot}}, the allies fought
+{{x|Operation Anaconda}}, in snow,
+The largest battle of the first years; brought
+The planes' men driven from their mountain; so
 
 ## The new states and the court
 
-On the twentieth of May {{p|East Timor}} became a country,
-After centuries under {{p|Portugal}} and decades under {{p|Indonesia}}'s hand,
-And a vote in ninety-nine for which its people were massacred.
-They voted, and bled, and now they have their land.
+On May the twentieth, {{p|East Timor}} rose,
+A country, after {{p|Portugal}}'s long hand
+And {{p|Indonesia}}'s decades; and of those
+Who voted, 'ninety-nine, bled; now, their land.
 
-On the first of July the {{x|International Criminal Court}} began,
-For genocide and the crimes too large for one nation to try.
-On the ninth of July, in {{p|Durban}}, the {{x|African Union}} was born,
-The older union of the continent's states let die.
+July the first, a court began, for crimes{{fn|The International Criminal Court.}}
+Too large for one land: genocide; and, born
+The ninth, at {{p|Durban}}, ending older times,
+The {{x|African Union}}, from the old, shorn.
 
 ## The books that lied
 
-In the summer {{x|WorldCom}} was found to have dressed its costs
-As investments, billions of them, and the phone company fell.
-On the twenty-first of July it filed, the largest bankruptcy yet,
-Larger than {{x|Enron}}, and the investors were left with the shell.
+In summer, {{x|WorldCom}} dressed its costs as gain,
+Billions, investments; and the phone firm fell;
+July the twenty-first, it filed; the chain
+Of the largest bankruptcy yet; the shell
 
-On the thirtieth {{c|4517|Bush}} signed {{x|Sarbanes-Oxley}} into law,
-And the chiefs of companies had to sign their names to their books.
-On the ninth of October the {{x|Nasdaq}} found its floor,
-A fifth of its peak. The dot-com bubble was done with its hooks.
+Left to investors, more than {{x|Enron}}'s fall;
+Then {{c|4517|Bush}} signed {{x|Sarbanes-Oxley}}; and the chiefs
+Of companies must sign their books; and all
+October ninth, the {{x|Nasdaq}}'s floor; the griefs
 
-## The encyclopedia's first editor
-
-On the first of March {{c|4508|Larry Sanger}} left {{x|Wikipedia}},
-The book he had named; the company could no longer pay.
-The book anyone could edit went on without him,
-And swallowed {{x|Nupedia}}, which was shut down the next year in its way.
+A fifth of peak; the bubble's hooks were done.
+March first, {{c|4508|Larry Sanger}} left what he named,
+{{x|Wikipedia}}; unpaid, it would run
+Without him; {{x|Nupedia}} shut, unclaimed.
 
 ## Bali
 
-On the twelfth of October, in {{p|Kuta}} on {{p|Bali}},
-Bombs went off in two nightclubs on the tourist street.
-Two hundred and two were killed, eighty-eight from {{p|Australia}}.
-{{x|Jemaah Islamiyah}} did it, kin to the men of the planes, in the tropical heat.
+October twelfth, at {{p|Kuta}}, {{p|Bali}}'s street,
+Bombs in two nightclubs, on the tourist row;
+Two hundred two were killed; in tropic heat,
+{{x|Jemaah Islamiyah}}, kin to the foe.
 
 ## The theater in Moscow
 
-On the twenty-third of October Chechen fighters took a theater in {{p|Moscow}}
-During a musical, {{x|Nord-Ost}}, some eight hundred and fifty inside.
-On the twenty-sixth {{c|4506|Vladimir Putin}}'s {{x|FSB}} pumped a gas into the hall,
-And stormed it, and a hundred and thirty of the hostages died.
+October twenty-third, the {{p|Moscow}} stage,
+{{x|Nord-Ost}}, the musical, by fighters held,
+Some eight hundred and fifty; then the cage,
+The twenty-sixth: {{x|FSB}} gas, compelled
 
-They died of the gas. The state would not name it to the doctors
-Who were trying to save them, and they died in the buses and the street.
-This is the villain's method, here at its start:
-The rescue was the killing, and the secret was the defeat.
+By {{c|4506|Vladimir Putin}}; stormed, then, the hall;
+A hundred thirty died of gas; unnamed
+To doctors, it; they died in buses, all,
+And in the street; the villain's method, framed:
 
 ## The homeland
 
-In October two snipers with a rifle in the trunk of a car
-Shot people at random around {{p|Washington}}; ten were dead.
-On the twenty-fifth of November {{c|4517|Bush}} signed the law
-That made the {{x|Department of Homeland Security}}, the guard at the country's head.
+Rescue the killing; secret the defeat.
+October: snipers, rifle in a car,
+Round {{p|Washington}}, ten shot dead in the street;
+{{c|4517|Bush}}, on November twenty-fifth, by far
 
-Twenty-two agencies came under a single roof,
-The largest change to the government in half a century's length.
-The word homeland had not been a common American word.
-It became one, and the country gathered its strength.
+Signed the department of the homeland's guard,{{fn|The Department of Homeland Security.}}
+Twenty-two agencies beneath one roof,
+The largest change in fifty years, and hard;
+And homeland, once uncommon, now the proof
 
 ## The first case
 
-On the sixteenth of November, in {{p|Foshan}}, in {{p|Guangdong}},
-A man fell ill with a pneumonia no one could name.
-It would be called {{x|SARS}}, and it would reach thirty countries by spring,
-And the province said little for months, and the silence was the blame.
+As common speech; the country gathered strength.
+November sixteenth, {{p|Foshan}}, {{p|Guangdong}}: one
+Man ill, pneumonia none could name; its length
+Called {{x|SARS}}; and thirty lands, by spring, undone;
 
-The great sickness of twenty-twenty is eighteen chapters on,
-And its first months will look the same: a market, a cough, a lie.
-I mark the beginning here, in the year I was six,
-So that when it comes again, the reader will know why.
+The province said little for months; the blame
+Was silence; the great sickness, later, too,
+Would start the same: a market, cough; the shame
+Of lies; I mark it here: so you'll know, too.
 
 ## The year held
 
-A new house for a girl of six, new coins in twelve lands,
-A war on the men who struck us, a country born in {{p|East Timor}}'s sun,
-The biggest fraud and the biggest bankruptcy yet,
-Bombs in {{p|Bali}}, the gas in {{p|Moscow}}, and a cough in {{p|Foshan}} begun.
+A new house, six; new coins in twelve lands; war
+On those who struck; a land, {{p|East Timor}}'s sun;
+The biggest fraud and bankruptcy, and more:
+{{p|Bali}}, {{p|Moscow}}'s gas, {{p|Foshan}}'s cough, begun;
 
-The country that was struck the year before was building its answer,
-A department, a war, a law for the books that lied.
-The villain in {{p|Moscow}} showed how he would rescue his people.
-I was six, in a new room, and the world went on outside.
+The country struck the year before had built
+Its answer: a department, war, a law
+For books that lied; the villain, without guilt,
+Showed how he'd rescue; I, at six, just saw
+
+The world go on outside my brand-new room,
+Two thousand two: the coins, the house, the van;
+The country gathering; and, in the gloom,
+The cough, the gas; and I, as children can.
