@@ -35132,110 +35132,80 @@ Its pace grew swift; and so the ground was laid.
 
 # Chapter 220: The Eve
 
-On the eve of 1453, the world stood balanced
-between the old and the new, the medieval and
-what would become the early modern. Three
-civilizations were poised to transform the world.
+The eve of fourteen-fifty-three: the world
+Stood balanced; old and new were on the scale;
+And three great realms of men, with flags unfurled,
+Were poised to change it all, and turn the tale.
 
-In {{p|Europe}}, the printing press had just been
-invented. The {{x|Renaissance}} was underway in {{p|Italy}}.
-Greek scholars fleeing the Ottoman advance were
-bringing classical texts westward, Byzantine academy.
+In {{p|Europe}}, the new press; in {{p|Italy}}
+The {{x|Renaissance}}; and Greeks who fled the Turk
+Brought books; Nicholas of Cusa would see
+The Earth not at the center, in his work;
 
-Nicholas of Cusa had written that the Earth
-might not be the center of the universe, that
-space might be infinite, that God was "the coincidence
-of opposites." Philosophical foundations were shifting centrality.
+Space without end; and God the meeting place
+Of opposites; and then Ficino turned
+Plato to {{x|Latin}}; the Medici's grace
+Kept the {{x|Academy}} in {{p|Florence}}, learned;
 
-Marsilio Ficino was translating Plato into {{x|Latin}}.
-The Medici family was patronizing the Platonic
-{{x|Academy}} in {{p|Florence}}. Art was evolving rapidly —
-Brunelleschi's dome was complete; perspective adoptical.
+And Brunelleschi's great dome was finished; new,
+Perspective; and Gutenberg's {{x|Bible}}, soon;
+And Jan van Eyck was dead, and left in view
+Oil painting; Johann Fust, Schöffer, in tune.
 
-Gutenberg was about to print his {{x|Bible}}.
-Jan van Eyck had recently died, leaving
-the new medium of oil painting to be developed.
-Johann Fust and Peter Schöffer would propel typographical.
+Islamic world: {{p|Herat}} and {{p|Samarkand}},
+The Timurids; Ulugh Beg's stars most
+Exact; and Jami's verse, the highest, grand;
+The {{x|Ottomans}} rose, near the city's coast;
 
-In the Islamic world, the Timurid renaissance
-was at {{p|Samarkand}} and {{p|Herat}}. Ulugh Beg's
-observatory had produced the most accurate star
-catalog in the world. Jami was writing Persian
+The Mamluks still held {{p|Egypt}}; and the mind
+Of {{x|Islam}} flourished. China's Ming had grown
+To its full form, with Yongle's age behind;
+Zheng He's voyages, twenty years since, flown;
 
-poetry of the highest order. The {{p|Ottoman Empire}}
-was rising rapidly — soon to take {{p|Constantinople}}.
-The Mamluk Sultanate still ruled {{p|Egypt}} and {{p|Syria}}.
-The Islamic heartlands were flourishing intellectually.
+{{p|Forbidden City}} stood complete; the shore
+Was closed to trade; the ships were left to rot;
+Exams made scholars into rulers, more
+Confucian-trained, a state of scholars' lot.
 
-In China, the Ming Dynasty had settled into
-its mature form after the early Yongle expansion.
-Zheng He's voyages had ended twenty years before.
-The {{p|Forbidden City}} was complete, magnificent portion.
+In {{p|India}}, Delhi Sultanate's reign
+Was breaking into kingdoms; in the south
+The great and rich Vijayanagara's domain
+Ruled Hindu lands, from sea to river mouth.
 
-{{p|China}} had closed itself to foreign maritime trade.
-Chinese ocean-going capacity was being allowed to atrophy.
-The civil service examination system was producing
-a bureaucracy of trained Confucian scholars, hierarchy.
+In {{p|Japan}}, the Ashikaga rule waned;
+In the {{p|Americas}}, the Aztecs rose;
+And Moctezuma I's alliance gained;
+And Inca, under Pachacuti, grows.
 
-In {{p|India}}, the Delhi Sultanate was fragmenting
-into regional kingdoms. The Vijayanagara Empire
-ruled the Hindu south, prosperous and culturally rich.
-Portuguese ships would arrive in 1498, ending the epoch.
+{{p|Mississippian}} folk built mounds; and there
+The Haudenosaunee, the Iroquois,
+Were joined by Dekanawida's own care
+And Hiawatha's: the five nations' joy.
 
-In {{p|Japan}}, the Ashikaga Shogunate was weakening.
-The {{x|Ōnin War}} was fourteen years away. The {{x|Sengoku}}
-era was about to begin. {{p|Japan}} would spend a century
-in warfare before reunification under Tokugawa.
+In {{p|West Africa}}, Mali and Songhai,
+Kanem-Bornu, at their height; Timbuktu
+Held one of the great libraries; and high
+The gold went north, through the {{p|Sahara}}, too.
 
-In the {{p|Americas}}, the Aztec Empire was rising.
-Moctezuma I was consolidating the {{x|Triple Alliance}}.
-The Inca Empire was also rising under Pachacuti.
-Both would reach their peaks before Spanish arrival, advancement.
+{{p|Ethiopia}}, Solomon's house, grew;
+{{p|Great Zimbabwe}} left; Mutapa, its heir,
+Flourished; and the {{p|Swahili}} cities, too,
+Traded with {{p|India}} and {{p|Persia}} there.
 
-The {{p|Mississippian}} cultures of {{p|North America}} were
-building mound cities. The Haudenosaunee Confederacy
-(Iroquois) was being founded by Dekanawida and
-Hiawatha, uniting five nations in upstate {{p|New York}}.
+And so the world was linked, as ne'er before:
+The Mongols' roads across {{p|Eurasia}}; trade
+Of the {{p|Indian Ocean}}, shore to shore,
+{{p|Arabia}}, {{p|India}}, {{p|China}}, made
 
-The {{p|West African}} empires — Mali, Songhai,
-Kanem-Bornu — were at their height. Timbuktu
-had one of the world's greatest Islamic libraries.
-Gold from {{p|West Africa}} flowed north across the {{p|Sahara}}.
+One; but the {{p|Americas}} were alone,
+{{p|Australia}} too; and no one people's hand
+Held all the world; and many centers shone
+Upon the hinge, where old and new would stand.
 
-{{p|Ethiopia}} under the Solomonic dynasty was expanding.
-{{p|Great Zimbabwe}} had been abandoned but the Mutapa
-successor state flourished. The {{p|Swahili}} city-states
-along the East African coast traded with {{p|India}} and {{p|Persia}}.
-
-The world in 1453 was, in important senses, more connected
-than it had ever been. The Mongol conquests had created
-links across {{p|Eurasia}}. {{p|Indian Ocean}} trade networks knit
-{{p|Africa}}, {{p|Arabia}}, {{p|India}}, {{p|Southeast Asia}}, and {{p|China}} together.
-
-But the {{p|Americas}} were still isolated from the {{p|Old World}}.
-{{p|Australia}} was isolated. {{p|Sub-Saharan Africa}} was linked
-but not as tightly as the {{p|Old World}} core. The first
-true global system was about to emerge with European voyages.
-
-In 1492, Columbus would reach the {{p|Americas}}. In 1498,
-Vasco da Gama would reach {{p|India}} around the {{p|Cape}}.
-The Columbian Exchange would redistribute the world's
-plants, animals, diseases, people across continents. Change.
-
-But we are not there yet. In 1453, on the eve of
-{{p|Constantinople}}'s fall, the world was Eurasian-dominated
-but still multi-centered. No single civilization had
-global reach. That was about to change, dominated.
-
-This chapter ends the pre-modern arc of the {{x|Gaiad}}.
-The next chapter describes the three falls of 1453 —
-{{p|Constantinople}}, the Hundred Years' War ending, and
-other events that mark the end of one age and birth of five.
-
-The world turns. The age changes. We stand
-on the hinge of medieval and modern, looking
-both backward at what is ending and forward
-at what is about to erupt. And in 1492, the banks.
+The world turns, and the age turns; here we are
+Between the ending and the new to come,
+Looking back on what ends, and forward, far,
+At what would break, as beats a waking drum.
 
 
 # Chapter 221: The Year of Three Falls

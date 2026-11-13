@@ -35132,110 +35132,80 @@ Its pace grew swift; and so the ground was laid.
 
 # Chapter 220: The Eve
 
-On the eve of 1453, the world stood balanced
-between the old and the new, the medieval and
-what would become the early modern. Three
-civilizations were poised to transform the world.
+The eve of fourteen-fifty-three: the world
+Stood balanced; old and new were on the scale;
+And three great realms of men, with flags unfurled,
+Were poised to change it all, and turn the tale.
 
-In {{p|Europe}}, the printing press had just been
-invented. The {{x|Renaissance}} was underway in {{p|Italy}}.
-Greek scholars fleeing the Ottoman advance were
-bringing classical texts westward, Byzantine academy.
+In {{p|Europe}}, the new press; in {{p|Italy}}
+The {{x|Renaissance}}; and Greeks who fled the Turk
+Brought books; {{c|3310|Nicholas of Cusa}} would see
+The Earth not at the center, in his work;
 
-{{c|3310|Nicholas of Cusa}} had written that the Earth
-might not be the center of the universe, that
-space might be infinite, that {{c|472|God}} was "the coincidence
-of opposites." Philosophical foundations were shifting centrality.
+Space without end; and {{c|472|God}} the meeting place
+Of opposites; and then {{c|3311|Ficino}} turned
+{{c|2376|Plato}} to {{x|Latin}}; the {{c|3312|Medici}}'s grace
+Kept the {{x|Academy}} in {{p|Florence}}, learned;
 
-{{c|3311|Marsilio Ficino}} was translating {{c|2376|Plato}} into {{x|Latin}}.
-The {{c|3312|Medici}} family was patronizing the Platonic
-{{x|Academy}} in {{p|Florence}}. Art was evolving rapidly —
-{{c|3313|Brunelleschi}}'s dome was complete; perspective adoptical.
+And {{c|3313|Brunelleschi}}'s great dome was finished; new,
+Perspective; and {{c|3217|Gutenberg}}'s {{x|Bible}}, soon;
+And {{c|3314|Jan van Eyck}} was dead, and left in view
+Oil painting; {{c|3219|Johann Fust}}, {{c|3315|Schöffer}}, in tune.
 
-{{c|3217|Gutenberg}} was about to print his {{x|Bible}}.
-{{c|3314|Jan van Eyck}} had recently died, leaving
-the new medium of oil painting to be developed.
-{{c|3219|Johann Fust}} and {{c|3315|Peter Schöffer}} would propel typographical.
+{{c|3316|Islamic world}}: {{p|Herat}} and {{p|Samarkand}},
+The Timurids; {{c|3185|Ulugh Beg}}'s stars most
+Exact; and {{c|3188|Jami}}'s verse, the highest, grand;
+The {{x|Ottomans}} rose, near the city's coast;
 
-In the {{c|3316|Islamic world}}, the Timurid renaissance
-was at {{p|Samarkand}} and {{p|Herat}}. {{c|3185|Ulugh Beg}}'s
-observatory had produced the most accurate star
-catalog in the world. {{c|3188|Jami}} was writing Persian
+The {{c|3139|Mamluks}} still held {{p|Egypt}}; and the mind
+Of {{x|Islam}} flourished. {{c|1043|China}}'s {{c|3087|Ming}} had grown
+To its full form, with {{c|3174|Yongle}}'s age behind;
+{{c|1936|Zheng He}}'s voyages, twenty years since, flown;
 
-poetry of the highest order. The {{p|Ottoman Empire}}
-was rising rapidly — soon to take {{p|Constantinople}}.
-The {{c|3139|Mamluk Sultanate}} still ruled {{p|Egypt}} and {{p|Syria}}.
-The Islamic heartlands were flourishing intellectually.
+{{p|Forbidden City}} stood complete; the shore
+Was closed to trade; the ships were left to rot;
+Exams made scholars into rulers, more
+Confucian-trained, a state of scholars' lot.
 
-In {{c|1043|China}}, the {{c|3087|Ming Dynasty}} had settled into
-its mature form after the early {{c|3174|Yongle}} expansion.
-{{c|1936|Zheng He}}'s voyages had ended twenty years before.
-The {{p|Forbidden City}} was complete, magnificent portion.
+In {{p|India}}, {{c|2984|Delhi Sultanate}}'s reign
+Was breaking into kingdoms; in the south
+The great and rich {{c|3016|Vijayanagara}}'s domain
+Ruled Hindu lands, from sea to river mouth.
 
-{{p|China}} had closed itself to foreign maritime trade.
-Chinese ocean-going capacity was being allowed to atrophy.
-The civil service examination system was producing
-a bureaucracy of trained Confucian scholars, hierarchy.
+In {{p|Japan}}, the {{c|3147|Ashikaga}} rule waned;
+In the {{p|Americas}}, the {{c|3318|Aztecs}} rose;
+And {{c|3319|Moctezuma I}}'s alliance gained;
+And {{c|3320|Inca}}, under {{c|3321|Pachacuti}}, grows.
 
-In {{p|India}}, the {{c|2984|Delhi Sultanate}} was fragmenting
-into regional kingdoms. The {{c|3016|Vijayanagara Empire}}
-ruled the Hindu south, prosperous and culturally rich.
-Portuguese ships would arrive in 1498, ending the epoch.
+{{p|Mississippian}} folk built mounds; and there
+The {{c|3322|Haudenosaunee}}, the {{c|3323|Iroquois}},
+Were joined by {{c|3324|Dekanawida}}'s own care
+And {{c|3325|Hiawatha}}'s: the five nations' joy.
 
-In {{p|Japan}}, the {{c|3147|Ashikaga Shogunate}} was weakening.
-The {{x|Ōnin War}} was fourteen years away. The {{x|Sengoku}}
-era was about to begin. {{p|Japan}} would spend a century
-in warfare before reunification under {{c|3317|Tokugawa}}.
+In {{p|West Africa}}, {{c|3326|Mali}} and {{c|3327|Songhai}},
+{{c|3328|Kanem-Bornu}}, at their height; {{c|3329|Timbuktu}}
+Held one of the great libraries; and high
+The gold went north, through the {{p|Sahara}}, too.
 
-In the {{p|Americas}}, the {{c|3318|Aztec Empire}} was rising.
-{{c|3319|Moctezuma I}} was consolidating the {{x|Triple Alliance}}.
-The {{c|3320|Inca Empire}} was also rising under {{c|3321|Pachacuti}}.
-Both would reach their peaks before Spanish arrival, advancement.
+{{p|Ethiopia}}, Solomon's house, grew;
+{{p|Great Zimbabwe}} left; {{c|3330|Mutapa}}, its heir,
+Flourished; and the {{p|Swahili}} cities, too,
+Traded with {{p|India}} and {{p|Persia}} there.
 
-The {{p|Mississippian}} cultures of {{p|North America}} were
-building mound cities. The {{c|3322|Haudenosaunee Confederacy}}
-({{c|3323|Iroquois}}) was being founded by {{c|3324|Dekanawida}} and
-{{c|3325|Hiawatha}}, uniting five nations in upstate {{p|New York}}.
+And so the world was linked, as ne'er before:
+The {{c|2904|Mongols}}' roads across {{p|Eurasia}}; trade
+Of the {{p|Indian Ocean}}, shore to shore,
+{{p|Arabia}}, {{p|India}}, {{p|China}}, made
 
-The {{p|West African}} empires — {{c|3326|Mali}}, {{c|3327|Songhai}},
-{{c|3328|Kanem-Bornu}} — were at their height. {{c|3329|Timbuktu}}
-had one of the world's greatest Islamic libraries.
-Gold from {{p|West Africa}} flowed north across the {{p|Sahara}}.
+One; but the {{p|Americas}} were alone,
+{{p|Australia}} too; and no one people's hand
+Held all the world; and many centers shone
+Upon the hinge, where old and new would stand.
 
-{{p|Ethiopia}} under the Solomonic dynasty was expanding.
-{{p|Great Zimbabwe}} had been abandoned but the {{c|3330|Mutapa}}
-successor state flourished. The {{p|Swahili}} city-states
-along the East African coast traded with {{p|India}} and {{p|Persia}}.
-
-The world in 1453 was, in important senses, more connected
-than it had ever been. The Mongol conquests had created
-links across {{p|Eurasia}}. {{p|Indian Ocean}} trade networks knit
-{{p|Africa}}, {{p|Arabia}}, {{p|India}}, {{p|Southeast Asia}}, and {{p|China}} together.
-
-But the {{p|Americas}} were still isolated from the {{p|Old World}}.
-{{p|Australia}} was isolated. {{p|Sub-Saharan Africa}} was linked
-but not as tightly as the {{p|Old World}} core. The first
-true global system was about to emerge with European voyages.
-
-In 1492, {{c|2952|Columbus}} would reach the {{p|Americas}}. In 1498,
-{{c|3211|Vasco da Gama}} would reach {{p|India}} around the {{p|Cape}}.
-The {{c|3331|Columbian Exchange}} would redistribute the world's
-plants, animals, diseases, people across continents. Change.
-
-But we are not there yet. In 1453, on the eve of
-{{p|Constantinople}}'s fall, the world was Eurasian-dominated
-but still multi-centered. No single civilization had
-global reach. That was about to change, dominated.
-
-This chapter ends the pre-modern arc of the {{x|Gaiad}}.
-The next chapter describes the three falls of 1453 —
-{{p|Constantinople}}, the {{c|3243|Hundred Years' War}} ending, and
-other events that mark the end of one age and birth of five.
-
-The world turns. The age changes. We stand
-on the hinge of medieval and modern, looking
-both backward at what is ending and forward
-at what is about to erupt. And in 1492, the banks.
+The world turns, and the age turns; here we are
+Between the ending and the new to come,
+Looking back on what ends, and forward, far,
+At what would break, as beats a waking drum.
 
 
 # Chapter 221: The Year of Three Falls
