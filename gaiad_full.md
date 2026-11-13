@@ -36318,215 +36318,130 @@ For pyramid and plaza, priest, decreed.
 
 # Chapter 229: Olmec Foundations
 
-In the desert by the sea, they built.
+In desert by the sea they built; no lord
+Commanded it, no slave was driven; so
+And the {{c|3444|Norte Chico}} cities, in accord,
+Gave the {{p|Americas}} the first to show
 
-No emperor commanded it, no slave
-Was driven to the labor—the quilt
-Of the {{c|3444|Norte Chico}} cities gave
+The monumental and the planned, before
+Our era by three thousand years, there, through
+Coastal {{p|Peru}}, a narrow strip of shore
+'Twixt {{p|Andes}}' wall and the {{p|Pacific}}'s blue,
 
-The {{p|Americas}} their first experiment
-In the monumental and the planned:
-Three thousand years before the common sent
-Its calendar across the land,
+Where thirty rivers cut the desert's wedge
+To fertile valleys; there the {{c|3445|Caral}} raised
+Their pyramids; not of the {{p|Nile}}'s smooth edge,
+Perfect, whose limestone files still gleam, and praised,
 
-On the narrow strip of coastal {{p|Peru}}
-Between the {{p|Andes}}' wall and the {{p|Pacific}}'s edge,
-Where thirty rivers sliced the avenue
-Of desert into green and fertile wedge-
+But mounds of quarried stone and reed-bag fill,
+The platform-pyramids, which rose in rounds
+Above the valley floor upon the hill:
+Six at {{p|Caral}} alone; and from its grounds
 
-Shaped valleys—there, the {{c|3445|Caral}} builders raised
-Their pyramids.
+The largest rose a hundred fifty feet;
+With no ceramics, writing, metal tools,
+It reached the city; and it was complete
+Enough to marshal thousands by its rules
 
-                  Not of the {{p|Nile}}'s
-Perfected geometry—the praised
-And smooth-faced monuments whose files
+To raise the rough and sacred platforms; and
+The priests' authority came not from sword
+But song: for those who dug in {{p|Caral}}'s land
+Found not one weapon, and no warring horde;
 
-Of limestone blocks still gleam—but mounds
-Of quarried stone and reed-bag fill,
-The platform-pyramids whose rounds
-Of construction rose upon the hill
+Instead they found the flute: thirty-two flutes
+Of condor bone and deer bone, music's thread
+Woven into the founding, through the roots;
+The quipu too, already here, the spread
 
-Above the river-valley floor:
-Six major pyramids at {{p|Caral}} alone,
-The largest one a hundred and fifty or more
-Feet high—the cornerstone
+Of knotted string, the breakthrough, from the start,
+Tactile tongue of the one who'd keep the store,
+Who counted harvest, cotton bale, and part
+Of fish; the knots, economy's own lore.
 
-Of a civilization that had no ceramics,
-No writing, no metal tools—and yet
-Achieved the urban and the dynamics
-Of the monumental, the offset
+In colored string. {{p|Caral}} was not alone:
+The {{c|3444|Norte Chico}} spread out across the ring
+Of coastal valleys; {{p|Aspero}}, the stone
+Of the sea-founding, where the nets would bring
 
-Of a society complex enough
-To marshal the labor of thousands
-For the construction of the rough
-And sacred platforms—the commands
+The anchovy by tons; and cotton fields
+Supplied the nets: the coast and valley's run,
+The fisher and the farmer, and their yields,
+The protein and the fiber, twined as one:
 
-Of the priestly class whose authority
-Derived not from the sword but from the song:
-For {{p|Caral}}'s archaeologists' priority
-Unearthed no weapons and no prong
+The fish fed farmers; farmers' cotton made
+The nets that caught the fish: the circle grew
+The surplus, and the offering was laid
+Before the spirits of the earth, their due.
 
-Of warfare's evidence—instead,
-They found the flute. Thirty-two flutes
-Of condor bone and deer bone, the thread
-Of music woven through the roots
+As old as {{p|Sumer}}'s ziggurats, and as
+The {{x|Old Kingdom}}'s great stone along the {{p|Nile}},
+The {{c|3444|Norte Chico}} stood, and the proof it has
+Is this: that culture is no single isle
 
-Of the civilization's founding—the quipu too,
-The knotted string, already here
-At the beginning, the breakthrough
-Of the recording instrument, the clear
+Of the {{p|Fertile Crescent}}; convergent, free
+Invention: give the human fish enough,
+And cotton, and a river; and you'll see
+The pyramid: the urge is in our stuff.
 
-And tactile language of the administrator
-Counting the harvest, the cotton bale,
-The fish in the storehouse—the narrator
-Of the economy's tale
+And northward, in the humid lowlands where
+{{p|Gulf of Mexico}}'s rivers spread their silt
+On {{p|Tabasco}}, {{p|Veracruz}}, richest there
+Of {{p|Mesoamerica}}, the {{c|3446|Olmec}} built.
 
-Told in knots and colored string.
+Fifteen hundred years before us, there burst
+{{p|America}}'s mother-culture: the heads,
+Basalt, from the {{p|Tuxtla Mountains}}, first
+Dragged sixty miles, without the wheel; the threads
 
-And {{p|Caral}} was not alone—the {{c|3444|Norte Chico}}
-Spread across the coastal ring
-Of valleys: {{p|Aspero}} on the seaboard, the echo
+Of labor: tons, by raft and roller, rope,
+And ramp, the pull of hundreds; and, by craft,
+The {{c|3446|Olmec}} portrait of the ruler's scope,
+The head, nine feet, as carved from one great shaft:
 
-Of the maritime foundation, where the nets
-Brought in the anchovy by the ton
-And the cotton fields supplied the nets'
-Material—the symbiotic run
+The full lips, the broad nose, the helmet's band,
+Precise, the face of this king, not of all:
+The {{c|3446|Olmec}} carved the human, by the hand,
+In basalt, the first portrait, nine feet tall.
 
-Of coast and valley, fisher and farmer,
-Protein and fiber intertwined
-In the {{p|Americas}}' first economic charmer:
-The fish fed the farmer, the farmer's twined
+The {{c|3446|Olmec}} gave the calendar, the vast
+{{x|Long Count}}, vigesimal, the counting art,
+System the {{c|2308|Maya}} kept; the baktun, cast,
+Katun, tun, uinal; moon, sun, {{c|95|Venus}}' part,
 
-Cotton nets caught the fish—the circle
-Of mutual dependence that built
-The surplus and the ceremonial merkle
-Of the temple-platform's guilt-
+Which in the {{c|2308|Maya}} courts would reach its height,
+But here was born; the sacred ballgame too,
+The rubber ball, the I-shaped court; the rite
+Where the losing captain fell, the gods' due,
 
-Free offering to the powers of the earth.
+The human sacrifice within the game,
+The beating heart, the life raised to the sky.
+They gave the jaguar-god, the rain-god's claim,
+The child, were-jaguar, and the infant's cry,
 
-Contemporary with {{p|Sumer}}'s ziggurats—
-Contemporary with the {{p|Nile}}'s rebirth
-In the {{x|Old Kingdom}}'s acrobats
+The myth all after them would inherit;
+The mother-culture, first to carve and count,
+To sacrifice, to build mounds, to merit
+The forest, ruling labor, to surmount
 
-Of stone—the {{c|3444|Norte Chico}} stood
-As proof that civilization was no accident
-Of the {{p|Fertile Crescent}}'s neighborhood
-But a convergent and independent
+The jungle with the sacred center's ground.
+Honor {{p|Caral}}, the fishers on that coast
+Whose nets and flutes were where the first was found
+Of the {{p|Americas}}' cities, first post;
 
-Invention: give the human enough fish
-And cotton and a river to irrigate,
-And the pyramid will rise—the wish
-To build toward heaven is innate.
+And honor too the {{c|3446|Olmec}}, and the heads
+That stare out from the jungle floor, the calm
+The gaze of kings who wore the jaguar's threads
+Of might, the calendar's knowledge, the psalm:
 
-And northward—in the humid lowlands
-Of the {{p|Gulf of Mexico}}, where the rivers
-Spread their silt across the drowned lands
-Of {{p|Tabasco}} and {{p|Veracruz}}, the givers
+The twin foundations of the world to come,
+The temple, plaza, ball-court that would raise
+And echo and refine; the blueprint, from
+The {{c|3446|Olmec}}; and the shrine, the glyph, the days
 
-Of the richest soil in {{p|Mesoamerica}}—
-The {{c|3446|Olmec}} stirred.
-
-                       Fifteen hundred years
-Before the common era, {{p|America}}'s
-First mother-culture shook the spheres
-
-Of the tropical forest with the colossal:
-The heads. The enormous basalt heads.
-
-Carved from boulders dragged from the colossal
-{{p|Tuxtla Mountains}} sixty miles—the threads
-
-Of labor organized across the impossible
-Distance, the multi-ton blocks of stone
-Transported without the wheel, the responsible
-And staggering logistics of the known
-
-And unknown engineering: raft and roller,
-Rope and ramp and the coordinated pull
-Of hundreds—the {{c|3446|Olmec}} comptroller
-Marshaling the beautiful
-
-And brutal labor for the portrait
-Of the ruler: the colossal head,
-Nine feet tall, the distort-
-Less and naturalistic face of the dead
-
-Or living king—the full lips,
-The broad nose, the helmet or headdress
-Carved with the precision of the sculptor's grips
-On a portrait that would express
-
-The individual: this face, not any face—
-This ruler, not the abstract king—
-The {{c|3446|Olmec}} carved the human race
-In basalt, and the rendering
-
-Was the first great portraiture of the {{p|Americas}}.
-
-And more—the {{c|3446|Olmec}} gave the calendar:
-The {{x|Long Count}}'s vast and mathematical theatres
-Of time, the vigesimal and regular
-
-System of the {{c|2308|Maya}} that the {{c|3446|Olmec}}
-Had conceived—the baktun, the katun,
-The tun and the uinal, the totemic
-And cyclical accounting of the moon
-
-And sun and {{c|95|Venus}} that would reach
-Its apotheosis in the {{c|2308|Maya}} courts
-But was born here, in the {{c|3446|Olmec}} breach
-Of the innumerate—the sports
-
-Of the sacred ballgame too, the rubber ball
-Bouncing in the I-shaped court,
-The ritual contest where the fall
-Of the losing captain was the sport
-
-Of the gods—the human sacrifice
-Enacted in the theater of the game,
-The offering whose terrible price
-Was the beating heart, the flame
-
-Of the life surrendered to the sky.
-
-The {{c|3446|Olmec}} gave the {{p|Americas}} the jaguar-god,
-The were-jaguar infant's cry,
-The rain-deity and the broad
-
-And foundational mythology
-That every later {{p|Mesoamerican}}
-Civilization's theology
-Would inherit—the American
-
-Mother-culture, the first to carve and count
-And sacrifice and build the mound
-And organize the labor and surmount
-The forest with the sacred ground
-
-Of the ceremonial center.
-
-                               Honor {{p|Caral}}
-And the fishers of the {{p|Peruvian}} coast
-Whose nets and flutes built the corral
-Of the {{p|Americas}}' first urban post—
-
-And honor the {{c|3446|Olmec}} and their colossal
-Heads that stare from the jungle floor
-With the calm and apostol-
-Ic gaze of kings who wore
-
-The jaguar's power and the calendar's
-Knowledge—the twin foundations
-Of the {{p|Mesoamerican}} world, the standards
-That every later nation's
-
-Temple and plaza and sacred ball-court
-Would echo and elaborate and refine—
-The {{c|3446|Olmec}} gave the blueprint, and the retort
-Of history was the shrine
-
-And the pyramid and the written glyph
-That their children's children would create.
+Their children's children would create: the stair
+Of pyramids, the written glyph, the art;
+The {{c|3446|Olmec}} gave the blueprint; and the prayer
+Of history replied, built on that start.
 
 
 # Chapter 230: Maya Dynasties
