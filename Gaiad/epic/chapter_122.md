@@ -80,8 +80,8 @@ Acoustic ocean; males composed the song
 Through all the breeding season, the long lay,
 Revised each year, no two the same for long;
 
-The reason for the changes, all this time,
-Unknown; but beauty, undeniably:
+The songs were changed for beauty all this time,
+For wonder; beauty, undeniably:
 The ocean filled with music, the sublime,
 The largest animals, the steady plea,
 
