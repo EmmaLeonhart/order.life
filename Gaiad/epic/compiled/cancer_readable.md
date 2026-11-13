@@ -71,116 +71,70 @@ And mono no aware over it all.
 
 # Chapter 198: Kūkai
 
-In {{p|Japan}} of the early ninth century,
-the monk Kūkai (774-835)
-brought Shingon {{x|Buddhism}} from {{x|Tang}} {{p|China}}
-and made it into something alive.
+In {{p|Japan}}, early in the ninth age, came
+Kūkai, who brought from {{x|Tang}} Shingon's word,
+And made it live; born on {{p|Shikoku}}, the same
+He went with envoys, eight-oh-four, and heard,
 
-He was born on {{p|Shikoku}} island,
-the smallest of the four main islands,
-went to {{p|Chang'an}} in 804 with the embassy,
-studied at {{p|Qinglong Temple}}'s vast hidings.
+At {{p|Qinglong Temple}} in {{p|Chang'an}}, the way,
+From Huiguo, master of the hidden rite,
+Who gave him all of it in months; that day
+He died; Kūkai came home, with the light
 
-He studied under Huiguo, the master
-of Chinese Vajrayana {{x|Buddhism}},
-who transmitted the full esoteric tradition
-to Kūkai in just a few months' witnessing.
+Of scriptures, mandalas, and all the tools
+Of rite, and all of Shingon, the {{x|True Word}};
+At {{p|Kōya}}, eight peaks, a mandala, schools
+He built, and set the teaching, as he'd heard.
 
-Huiguo died shortly after. Kūkai returned
-to {{p|Japan}} with scriptures, mandalas, ritual tools,
-and the complete transmission of Shingon,
-"the {{x|True Word}}," the esoteric school's schools.
+He made the kana, letters for the sound
+Of {{x|Japanese}}, where once the {{x|Chinese}} signs
+Were used for sound alone, a heavy round;
+And so the tongue was freed for poets' lines.
 
-He established his mountain monastery at {{p|Mount Kōya}},
-eight peaks forming a natural mandala.
-He systematized the esoteric teachings
-into {{p|Japan}}'s first complete Buddhist alphabeta.
+He taught: the world's the body of the one,
+Mahāvairocana, the Buddha on high,
+Dainichi, the Buddha who's like the sun;
+And all are woken now, and need but try
 
-He is credited (perhaps legendarily)
-with inventing the kana syllabary,
-the phonetic Japanese writing system
-that made Japanese literature necessary.
+Through body, speech, mind, the mysteries three,
+The mudrās, mantras, visions, and the rite,
+In this same body, in this life, to be
+A Buddha: sokushin jōbutsu's light.
 
-Before Kana, Japanese was written
-in Chinese characters used phonetically,
-the man'yōgana system, cumbersome.
-Kana simplified, made Japanese poetic.
+He wrote, a master of the brush; and made
+The ponds and bridges; thought on word and sign;
+And did not die, but sat, and there he stayed,
+In meditation, at {{p|Kōya}}'s high shrine,
 
-Kūkai's teaching: the universe is the body
-of the cosmic Buddha Mahāvairocana,
-Dainichi Nyorai, the sun-like Buddha,
-and all beings are already enlightened in stanza.
+At {{p|Oku-no-In}}, uncorrupted; and still
+The pilgrims come, and he is waiting there
+For Maitreya, the one to come, until
+He'll rise; and daily they feed him, with care.
 
-The aim is to realize one's buddha-nature
-through the three mysteries: body, speech, mind,
-through mudrās, mantras, and visualizations,
-through ritual practice that is refined.
+And Saichō brought from {{p|China}} the Tendai,
+The {{x|Lotus Sutra}}'s way, of Zhiyi's school,
+All teachings in one ladder, raised on high,
+At {{p|Mount Hiei}}; it would become the great pool
 
-This is sokushin jōbutsu, "attaining buddhahood
-in this very body in this very life,"
-rather than through many lifetimes of practice.
-Shingon promises immediate escape from strife.
+From which, in after years, the schools would flow.
+The two were friends, and wrote, and lent their books,
+And sometimes argued; and they made it so,
+The {{x|Japanese}} way, with all its own looks.
 
-Kūkai was also a calligrapher of legend,
-a poet, an engineer who built ponds and bridges,
-a theorist of language and signification.
-He is one of {{p|Japan}}'s cultural ridges.
+At {{p|Heian-kyō}}, now {{p|Kyoto}}, newly made
+By Kanmu, seven-ninety-four, the new
+Teaching matched the new town; and, unafraid,
+The kami and the Buddha closer drew
 
-He is said not to have died but to have
-entered eternal meditation at {{p|Mount Kōya}},
-where his body remains uncorrupted
-in the {{p|Oku-no-In}} mausoleum, in quiet.
+Together: honji suijaku, that each
+Kami is but a bodhisattva, shown
+In this land's form; and so, in all their reach,
+Amaterasu was Dainichi's own,
 
-Pilgrims still visit. They believe he is
-still there, waiting for Maitreya the future Buddha,
-to emerge then and help all sentient beings.
-His tomb is attended daily with meals put through-a-
-
-the door in rituals of feeding the living master.
-Meanwhile, a separate monk Saichō (767-822)
-brought Tendai {{x|Buddhism}} from {{p|China}}
-and established {{p|Mount Hiei}}, a center true.
-
-Tendai was based on the {{x|Lotus Sutra}},
-on the teaching of Zhiyi of the Tiantai school,
-integrating all Buddhist teachings into
-a hierarchical synthesis of the rule.
-
-From {{p|Mount Hiei}} would come {{p|Japan}}'s major
-medieval Buddhist traditions:
-Honen and {{x|Pure Land}}. Shinran and {{x|True Pure Land}}.
-Nichiren and {{x|Lotus Sutra}} intuitions.
-Dōgen and {{x|Sōtō Zen}}, with its meditations.
-
-All started as Tendai monks who
-left to found new schools. {{p|Mount Hiei}} was
-the matrix from which Japanese {{x|Buddhism}} emerged.
-Saichō had built an institutional pause.
-
-Kūkai and Saichō were contemporaries.
-They corresponded, borrowed texts, occasionally disagreed.
-Together they shaped Japanese {{x|Buddhism}}
-into its distinctive esoteric breed.
-
-The capital {{p|Heian-kyō}} ({{p|Kyoto}}) had just been founded
-in 794 by Emperor Kanmu.
-The new {{x|Buddhism}} matched the new capital.
-A new era was beginning, the {{x|Heian}}, anew.
-
-The syncretism of {{x|Shinto}} and {{x|Buddhism}}
-deepened in this era. Honji suijaku, the theory
-that {{x|Shinto}} kami were local manifestations
-of Buddhist bodhisattvas, was the theology.
-
-Amaterasu became Dainichi Nyorai's manifestation.
-Hachiman became a manifestation of Amida.
-Shrines and temples were built together.
-One religion with two faces, no divide-a.
-
-This synthesis would last a thousand years
-until the {{x|Meiji}} period's forced separation
-in 1868 violently distinguished them.
-But for the medieval period, they were one vocation.
+Hachiman was Amida's; the shrine
+And temple built together; one rite, two
+Faces, and no divide; one house, one line,
+And one religion, as the faithful knew.
 
 
 # Chapter 199: Tang and the Great Persecution
