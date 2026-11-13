@@ -1,173 +1,106 @@
 # Chapter 178: Second Temple Period
 
-Return from {{p|Babylon}} to {{p|Jerusalem}},
-by grace of {{c|2180|Cyrus}}' decree,
-the exiles rebuilt the {{p|Temple}} small
-and tried to reclaim their destiny.
+From {{p|Babylon}}, back up to {{p|Zion}}'s height,
+By {{c|2180|Cyrus}}' leave, the exiles came, and raised
+The {{p|Temple}}, small; and then, by blood and right,
+Who was a {{c|2510|Jew}}, was asked, and they were fazed:
 
-But who was {{c|2510|Jew}} was now a question.
-The returnees drew tight the line.
-The {{c|2511|Samaritans}} were turned away,
-the mixed-blood were excluded in time.
+They drew the line; {{c|2511|Samaritans}} were turned
+Away; the mixed were cast out. {{c|2276|Ezra}} read
+The {{x|Torah}} seven days, and all men learned,
+At {{p|Water Gate}}; and {{c|2277|Nehemiah}} spread
 
-{{c|2276|Ezra}} read the {{x|Torah}} aloud
-for seven days at the {{p|Water Gate}}.
-{{c|2277|Nehemiah}} built the walls again.
-The community consolidated late.
+The walls again; the priesthood was the core,
+The high priest ruled; and under {{x|Persian}}, then
+The {{x|Macedonian}} rule, {{p|Judea}} bore
+Its quiet years. And {{c|1982|Alexander}}, when
 
-The priesthood was now the center,
-the high priest as civil head.
-Under {{x|Persian}}, then {{x|Macedonian}} rule,
-{{p|Judea}} quietly went ahead.
+He came, was shown the words of {{c|2512|Daniel}}, read
+Of him, and spared {{p|Jerusalem}}; and then
+The {{c|2514|Seleucids}} of {{p|Syria}} were head,
+And ruled {{p|Judea}}, province of their men.
 
-Then {{c|1982|Alexander}} came through the land,
-was shown the prophecy of {{c|2512|Daniel}}
-according to {{c|2513|Josephus}}' tale,
-and spared {{p|Jerusalem}} from peril.
-
-After {{c|1982|Alexander}} came the {{c|2514|Seleucids}},
-the {{x|Greek}} kingdom east in {{p|Syria}},
-who ruled {{p|Judea}} as a province
-with some degree of imperial delirium.
-
-{{c|2515|Antiochus IV Epiphanes}} came,
-Who meant the {{x|Greek}} way kept, and in its name
-He sacked {{p|Jerusalem}}, he banned the {{x|Law}},
-And on the altar of the Lord they saw
+{{c|2515|Antiochus IV Epiphanes}} then came,
+Who meant the {{x|Greek}} way kept; he banned the {{x|Law}},
+And sacked {{p|Jerusalem}}, and in its name,
+On the Lord's altar there the people saw
 
 The Lord of Heaven under the king's name:
-{{c|2065|Zeus}} of the heights, the same sky and the same
-Altar, but now his priests, his rite, his swine
-Laid on it in the {{p|Temple}}'s court. The sign
+{{c|2065|Zeus}} of the heights; the same sky, and the sign
+The same old altar; but his priests, his frame
+Of rite, his swine, laid in the court; the line
 
-The {{x|Book of Daniel}}, punning on that name,
-Called it "abomination," set in shame:
-One altar, and a fight for who would stand
-Before it, and whose law would rule the land.
+The prophet wrote, there punning on that name,
+Called the abomination; and the stand
+Was at one altar, set in fear and shame:
+Who'd stand before it, whose law rule the land.
 
-This was too much. Revolt broke out.
-{{c|2516|Mattathias}} the priest refused
-to make the {{x|Greek}} sacrifice, and killed
-the {{c|2510|Jew}} who volunteered, misused.
+And then {{c|2516|Mattathias}} the priest refused
+To make the {{x|Greek}} rite, and he slew the one
+Who came to make it; and his son, who used
+The name of {{c|2518|Hammer}}, {{c|2517|Judas}}, was his son,
 
-His son {{c|2517|Judas Maccabeus}} rose,
-the {{c|2518|Hammer of the Lord}}, and led
-guerrilla war against the {{c|2519|Greeks}}
-until the {{p|Temple}} was reconsecrated.
+Made war from hills against the {{c|2519|Greeks}}, and won
+The {{p|Temple}} back, and made it clean again;
+And {{x|Hanukkah}} keeps the eight days begun
+With oil for one day, burning eight days then.
 
-{{x|Hanukkah}} the festival commemorates
-the rededication's eight-day rite,
-the oil that burned for eight days straight
-when only one day's oil was in sight.
+{{x|Hasmoneans}} rose from that war, and were
+Both king and high priest; and some held it wrong.
+The {{c|2520|Essenes}} went out to {{p|Qumran}}, to stir
+No more, but wait the end, and keep their long
 
-The {{x|Hasmonean}} dynasty rose
-from this successful {{x|Maccabee}} war,
-combining high priest with king,
-which some {{c|2500|Jews}} thought was against the law.
+Scrolls in the caves; the {{c|2521|Pharisees}} would teach
+The oral law, the house of prayer, the home
+Where each man read the {{x|Torah}}, each to each;
+The {{c|2522|Sadducees}}, the priests, kept but the tome
 
-The {{c|2520|Essenes}} withdrew to {{p|Qumran}}
-to wait for the end of days.
-They wrote the {{x|Dead Sea Scrolls}} in caves,
-rediscovered in modern ways.
+Of written law, no rising of the dead;
+The {{c|2523|Zealots}} wanted war with all who ruled;
+And some wrote of the end, when {{c|472|God}}, they said,
+Would break into the world, and all be schooled.
 
-The {{c|2521|Pharisees}} developed oral law,
-the synagogue, the rabbinic mode,
-the piety of every household's {{x|Torah}},
-the democratic learning code.
+Then {{p|Rome}} came: {{c|2468|Pompey}} marched in, sixty-three
+Before the era, walked into the place,
+The {{p|Holy of Holies}}, and he could see
+Nothing: no god, no image, and no face,
 
-The {{c|2522|Sadducees}} were the priestly class,
-who held only the written {{x|Law}},
-denied the resurrection's hope,
-and ruled the {{p|Temple}} without awe.
+But empty room, where once the {{x|Ark}} had stood
+Before {{c|2024|Nebuchadnezzar}}. And {{p|Rome}} set
+{{c|2524|Herod the Great}}, the {{x|Idumean}}, who would
+Build palaces, the {{p|Temple}} greater yet,
 
-The {{c|2523|Zealots}} wanted armed revolt
-against whatever power held sway.
-The apocalyptists wrote of ends
-when {{c|472|God}} would break into the fray.
+The grandest in the east; but he was mad
+With fear, and slew his sons, his wife; and slew
+The infants of {{p|Bethlehem}}; what he had
+Was split; and {{p|Rome}} sent governors; and through
 
-Then {{p|Rome}} arrived. {{c|2468|Pompey}} marched in
-in sixty-three before the {{x|Common Era}},
-walked into the {{p|Holy of Holies}},
-astonished that the room was bare.
+The poor and those in debt, the hope rose high:
+When would the {{c|2526|Messiah}} come, the true son
+Of {{c|1956|David}}, drive out {{p|Rome}}, and bring, nearby,
+The kingdom back, as in the days long done?
 
-(For what had he expected? Some golden idol?
-The {{c|2500|Jews}} had no image of their god.
-Just an empty room where the {{x|Ark}} had been
-before {{c|2024|Nebuchadnezzar}}'s rod.)
+And many claimed it: {{c|2528|Theudas}}, and the one
+{{c|2529|Judas the Galilean}}, and then he
+From {{p|Egypt}} on the {{p|Olivet}}; and none
+Prevailed. And {{c|2531|John the Baptist}}, by the sea
 
-{{p|Rome}} installed {{c|2524|Herod the Great}},
-an {{x|Idumean}}, half-Jewish at best,
-who built magnificent palaces,
-expanded the {{p|Temple}}, tried to rest.
+Of reeds, the {{p|Jordan}}, preached: repent, and turn;
+The kingdom's near; in camel-hair, he ate
+The locusts and wild honey; and would burn
+With words; and baptized many at the gate,
 
-He rebuilt the {{p|Second Temple}} as
-the grandest structure in the {{p|East}},
-{{c|2525|Herod}}'s {{p|Temple}}, the one that {{c|1912|Jesus}}
-would know, the one the {{c|1004|Romans}} decreased.
+And {{c|1912|Jesus}} of {{p|Nazareth}}; and then lost
+His head to {{c|2532|Herod Antipas}}, for he
+Had cursed his wedding, and his law was crossed.
+The kingdom seemed so near, the end so free.
 
-But {{c|2525|Herod}} was paranoid, murderous,
-killed his own sons, his wife as well,
-and the {{x|Gospels}} remember him as
-the slaughterer of infants in {{p|Bethlehem}}'s dell.
+For all agreed: one {{c|472|God}}, and not his face
+In image; covenant, the {{x|Torah}}, rest
+Of {{x|Sabbath}}, and clean food; and in each place
+A faith that could be carried, east or west.
 
-After {{c|2525|Herod}}, the kingdom split,
-the {{c|1004|Romans}} ruled through procurators,
-and messianic expectation rose
-among the poor, the oppressed debtors.
-
-When would the {{c|2526|Messiah}} come?
-The {{c|2527|Son of David}}, the anointed one
-who would drive out {{p|Rome}} and restore
-the kingdom as in days bygone?
-
-Multiple claimants rose and fell.
-{{c|2528|Theudas}}. {{c|2529|Judas the Galilean}}.
-The Egyptian prophet at {{p|Olivet}}.
-{{c|2530|Bar Kochba}} later, the Judean.
-
-Into this ferment {{c|2531|John the Baptist}} came
-preaching repentance at the {{p|Jordan}}'s edge,
-baptizing crowds who felt the end
-was near, the kingdom's sudden pledge.
-
-He was a voice crying in the wilderness,
-clothed in camel-hair, fed on locusts and honey,
-an Essene-adjacent prophet figure
-urging the people, "turn now, stop running."
-
-He baptized {{c|1912|Jesus}} of {{p|Nazareth}},
-and later lost his head to {{c|2525|Herod}}
-{{c|2532|Antipas}}, the tetrarch, for denouncing
-his marriage to his brother's bride.
-
-The kingdom was about to arrive.
-Or so it seemed to those who watched.
-The {{p|Temple}} stood magnificent still.
-The prophets' words were being matched.
-
-Then came a Galilean teacher
-who gathered twelve, who spoke in parables,
-who healed the sick, and raised the dead,
-and spoke of a kingdom invisible.
-
-The next chapter is his.
-
-But here we pause to mark the world
-that shaped him: monotheism hardened
-in exile; messianism heightened
-by {{p|Rome}}'s weight, by the {{p|Temple}}'s burden.
-
-{{x|Judaism}} was already more
-than just the cult of one small nation.
-It was a portable faith of text,
-of weekly synagogue vocation.
-
-It had rivals, it had debates,
-{{c|2533|Pharisee}} against {{c|2534|Sadducee}},
-{{c|2535|Essene}} against {{c|2536|Zealot}}, Hellenized
-against the strict traditional trees.
-
-But all agreed: one {{c|472|God}}, no image,
-covenant, {{x|Torah}}, {{x|Sabbath}}, kosher.
-And all were waiting for what would come
-to change the world and bring it closer.
+So honor them, who came back, and who kept
+The law in every house, and waited long
+For the anointed, while the {{p|Romans}} stepped;
+And {{c|2531|John}}, who cried the kingdom in his song.
