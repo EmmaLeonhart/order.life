@@ -28621,233 +28621,90 @@ Of letters, and the kingdom's harmony.
 
 # Chapter 154: Jacob, Joseph, and the Hyksos
 
-And so the story shifts to a specific {{p|Canaanite}} family.
+And now the tale turns to one family:
+Jacob, Isaac's son, Abraham's own seed,
+Whose twelve sons would become the tribes; and he
+Had wrestled with the angel in his need
 
-Jacob—grandson of Abraham, son of Isaac, father of twelve
-Sons who will become the twelve tribes of {{p|Israel}}. Jacob's
-Biography is the central patriarchal narrative of the biblical
-{{p|Genesis}}—the wrestling with the angel at {{p|Peniel}}, the ladder-dream
+At {{p|Peniel}}, and dreamed the ladder high
+At {{p|Bethel}}, served his uncle Laban long,
+Made peace with Esau; loved, as they grew by,
+Rachel's sons more than Leah's, all the throng.
 
-At {{p|Bethel}}, the servitude to his uncle Laban, the fraught
-Reconciliation with his brother Esau, the favoritism toward
-Rachel's children over Leah's, the grief over the supposed death
-Of Joseph. These are stories well-known in the {{p|Jewish}}, {{p|Christian}},
+And Joseph, Rachel's son, his brothers sold
+To the {{p|Ishmaelite}} traders, who went down
+To {{p|Egypt}}; there to Potiphar, of gold
+And rank, they sold him, servant of the crown.
 
-And {{p|Islamic}} traditions, and the {{x|Gaiad}} will not rehearse them in
-Detail. What the {{x|Gaiad}} does do, in this chapter, is place Jacob
-And his family historically—in the late {{p|Middle Kingdom}} or the
-Beginning of the {{p|Second Intermediate Period}}, around seventeen-
+He rose within the house; and, falsely blamed
+By Potiphar's own wife, was bound in jail;
+Read two prisoners' dreams; and so was named
+Before the pharaoh, to read his dream's tale:
 
-Hundred to sixteen-fifty BCE, in the context of the {{p|Hyksos}}
-Arrival in {{p|Egypt}}. And the {{x|Gaiad}} makes a specific claim: Joseph's
-Rise to prominence in {{p|Egypt}} is legible precisely because he is
-A {{p|Canaanite}}—a member of the same J-haplogroup {{p|Semitic}} population
+Of seven fat cows, and lean, and of ears,
+Full ears and withered ones; and so he said:
+Full years of plenty, then of famine years;
+The king made him vizier, at the head
 
-That is, at this moment, gaining political power in the eastern
-{{p|Nile Delta}}.
+Of all the land, to store the grain; and when
+The famine came, had {{p|Egypt}} bread enough;
+And Jacob's sons came down to buy; and then
+He knew them, though they knew him not; then, rough,
 
-                      The biblical account has Joseph sold by his
-Brothers to a caravan of {{p|Ishmaelite}} traders, who carry him down
-To {{p|Egypt}} and sell him to Potiphar, a high-ranking {{p|Egyptian}}
+Hard testing, he made known himself, and wept,
+And brought his father's house to {{p|Goshen}}'s grass,
+The eastern {{p|Delta}}, where the herds were kept;
+And so did Jacob's house to {{p|Egypt}} pass.
 
-Official. Joseph rises in Potiphar's household. Is falsely
-Accused by Potiphar's wife. Is imprisoned. Interprets the dreams
-Of two fellow prisoners. Is eventually brought before the pharaoh
-To interpret the pharaoh's own dreams—of seven fat cows and seven
+For in those days the {{p|Hyksos}} held the land,
+Heka-khasut, the foreign kings, held sway,
+Sons of J2, of {{p|Canaan}}'s tongue and band,
+And joined their Baal and Anat with Seth's way.
 
-Lean cows, of seven full ears of grain and seven withered ears.
-Joseph predicts seven years of abundance followed by seven years
-Of famine. The pharaoh appoints him vizier—second only to the king
-Himself—to manage the stockpiling and distribution of grain. When
+They brought the chariot, the horse, the bow
+Of compound make, the bronze; and took the east
+Of {{p|Delta}}, and at {{p|Avaris}}, below,
+Their {{p|Fifteenth Dynasty}} had throne and feast.
 
-The famine comes, {{p|Egypt}} has enough. The surrounding regions do
-Not. Jacob's remaining sons come down to {{p|Egypt}} to buy grain.
-Joseph recognizes them. They do not recognize him. A dramatic
-Recognition scene follows, after which Joseph brings his entire
+The {{p|Theban}} kings ruled south, and for a span
+The land was two; and Joseph's pharaoh, he
+Was {{p|Hyksos}}, of his kin, a {{p|Canaan}} man,
+Who gladly raised a {{p|Canaanite}} to be
 
-Family down to {{p|Egypt}} and settles them in the region of {{p|Goshen}}—
-The eastern {{p|Nile Delta}}, the pastoral lands best suited to their
-Herding lifestyle.
+His vizier, and welcomed all the sons
+Of {{p|Canaan}} to the {{p|Delta}}; and the kings,
+Salitis and Apophis, and the ones
+Named Khyan and Apepi, kept the things
 
-                       And the {{x|Gaiad}}'s historical overlay on this
-Narrative is the {{p|Hyksos}} framework. The {{p|Hyksos}}—whose name in
+Of {{p|Egypt}}, temples, scribes, and every rite,
+And kept their own as well, both ways in one;
+They ruled not as destroyers, but by right,
+And under them the land's affairs were done.
 
-{{p|Egyptian}} is Heka-khasut, "rulers of foreign lands"—were a
-{{p|Semitic}} population (primarily J2-haplogroup, with some admixture)
-Who had been migrating into the eastern {{p|Nile Delta}} throughout the
-Late {{p|Middle Kingdom}}. They spoke a {{p|West Semitic}} language related
+The twelve: Reuben, Simeon, Levi, and
+Judah and Issachar, Zebulun, Dan,
+Naphtali, Gad, and Asher, Joseph's hand,
+Ephraim, Manasseh; Benjamin; the clan.
 
-To early {{p|Canaanite}} and {{p|Amorite}}. They worshipped {{p|Semitic}} gods
-Like Baal and Anat, which they syncretized with {{p|Egyptian}}
-Seth (the god of the desert, storms, and foreign regions). Their
-Culture was a hybrid—retaining {{p|Canaanite}} dress, names, diet, and
+And Jacob, old, within his tent, blessed each:
+Judah the lion, Joseph fruitful bough,
+Dan judging his own people, and the reach
+Of Zebulun beside the sea, and how
 
-Religious practices while adopting {{p|Egyptian}} administrative forms,
-Hieroglyphic writing, and some {{p|Egyptian}} cultic practices. They
-Brought with them technologies that the {{p|Egyptians}} had not yet
-Developed: the horse-drawn chariot, the composite bow, advanced
+Benjamin was the ravening wolf; and then
+Old Jacob died, and was embalmed, and laid
+Back into {{p|Canaan}}, to lie with the men,
+With Abraham and Isaac, in the shade
 
-Bronze metallurgy. These technologies would, when the {{p|Egyptians}}
-Eventually expelled the {{p|Hyksos}}, be retained and weaponized by the
-{{p|New Kingdom}} pharaohs against their own neighbors.
+Of {{p|Machpelah}}'s cave at {{p|Hebron}}; and so
+The fathers of the house were gathered in,
+And Jacob's sons in {{p|Goshen}} stayed, to grow
+Into a people, multiplied from kin.
 
-Around seventeen-thirty to seventeen-twenty BCE, the {{p|Hyksos}}
-Seized political control of the eastern delta and established the
-
-{{p|Fifteenth Dynasty}} at {{p|Avaris}} (the site of modern {{p|Tell el-Dab'a}}).
-The native {{p|Egyptian}} {{p|Thirteenth}} and {{p|Fourteenth Dynasties}} were
-Displaced from the delta and retreated south. The native {{p|Seventeenth
-Dynasty}} eventually established itself at {{p|Thebes}} as the {{p|Hyksos}}-
-
-Resistance regime. For about a century and a half, {{p|Egypt}} was
-Divided—the {{p|Hyksos}} ruling the delta, the native {{p|Egyptians}} ruling
-{{p|Upper Egypt}}, with {{p|Nubian}} kingdoms further south occasionally
-Allied with either side depending on strategic calculations.
-
-And this is the world in which, the {{x|Gaiad}} argues, the biblical
-Jacob and Joseph narratives take place. Joseph's rise to
-Vizier-level prominence is possible because he is a {{p|Canaanite}}—
-And the pharaoh who appoints him is a {{p|Hyksos}} pharaoh. The
-
-{{p|Hyksos}} rulers would naturally favor another {{p|Canaanite}} in their
-Administration. Joseph's brothers' migration into {{p|Egypt}} is
-Possible because {{p|Canaanites}} are at this moment welcome in the
-Delta—this is the century of active {{p|Canaanite}} settlement in
-
-{{p|Lower Egypt}}. Jacob's family settling in {{p|Goshen}} is the norm,
-Not the exception; thousands of other {{p|Canaanite}} families were
-Doing the same thing. The biblical narrative sits comfortably
-Inside the {{p|Hyksos}} period.
-
-And the {{x|Gaiad}} makes a further claim: the {{p|Hyksos}} themselves are
-Not the villains that later {{p|Egyptian}} historiography made them out
-To be. Later native {{p|Egyptian}} sources—particularly the {{p|New Kingdom}}
-Accounts written after the {{p|Hyksos}} expulsion—would demonize them as
-
-Brutal foreign invaders who destroyed temples, oppressed the native
-Population, and plundered the wealth of {{p|Egypt}}. But archaeology
-Tells a different story. The {{p|Hyksos}} at {{p|Avaris}} actively maintained
-{{p|Egyptian}} administrative systems, built {{p|Egyptian}}-style temples
-
-Alongside their own, patronized {{p|Egyptian}} scribal traditions,
-Preserved {{p|Egyptian}} cultural practices in their territory. They
-Were not destroyers—they were adapters. They governed {{p|Egypt}} as
-Foreign rulers, yes, but competent and respectful foreign rulers.
-
-Their rule was not a catastrophe; it was a transition. And the
-Joseph story, in its biblical form, is consistent with this:
-Joseph serves a pharaoh who welcomes {{p|Canaanites}}, who appoints
-One as vizier, who settles an extended {{p|Canaanite}} family in the
-
-Delta with royal favor. This is a {{p|Hyksos}}-era pharaoh, not a
-Native {{p|Egyptian}} pharaoh. The later narrative demonization of the
-{{p|Hyksos}} distorted the memory. The biblical narrative, which
-Preserves the memory of {{p|Egyptian}}-{{p|Canaanite}} friendly relations,
-
-Is closer to the archaeological reality than the later {{p|Egyptian}}
-Propaganda is.
-
-                    The {{p|Hyksos}} period lasted about a century and
-A half. Six {{p|Hyksos}} pharaohs ruled the delta from {{p|Avaris}}.
-Their names—preserved in Manetho's later king-list and in
-
-Archaeological seals—are {{p|Semitic}}: Salitis, Apophis, Khyan,
-Apepi. These are not native {{p|Egyptian}} names. They are {{p|Canaanite}}
-Names transcribed into {{p|Egyptian}}. And they ruled the delta with
-{{p|Egyptian}} administrative competence while maintaining {{p|Canaanite}}
-
-Cultural identity. A model of dual-culture governance that the
-Ancient {{p|Near East}} would see many times thereafter—in {{p|Mesopotamia}}
-Under various {{p|Amorite}} and {{p|Kassite}} dynasties, in {{p|Mesopotamia}}
-Under the {{p|Persians}}, in various later situations where a foreign
-
-Dynasty adopted local administrative forms while retaining its
-Own linguistic and religious identity.
-
-                                             And the Jacob family—
-The future Israelites—were, in the {{x|Gaiad}}'s reading, a sub-population
-Of this larger {{p|Canaanite}} presence in the {{p|Hyksos}}-controlled delta.
-
-They came during the {{p|Hyksos}} period. They flourished during it.
-They were welcomed, even privileged, during it. Joseph's rise
-Is legible against this background. And the specific tribal names
-That the {{x|Gaiad}} has been tracking—Reuben, Simeon, Levi, Judah,
-
-Issachar, Zebulun, Dan, Naphtali, Gad, Asher, Joseph
-(Later divided into Ephraim and Manasseh), Benjamin—are the
-Twelve sons of Jacob, whose descendants will become the twelve
-Tribes. At this moment, they are a single extended family living
-
-In {{p|Goshen}}. Over the following centuries (during the {{p|Hyksos}}
-Period and extending into the {{p|New Kingdom}}), they will multiply
-Into a substantial population—still {{p|Canaanite}}-identified, still
-Speaking a {{p|West Semitic}} language, still distinct from the native
-
-{{p|Egyptian}} population but increasingly integrated into the {{p|Egyptian}}
-Economy and administration.
-
-                                    And when the {{p|Hyksos}} are finally
-Expelled—around fifteen-fifty BCE, by the {{p|Theban}} pharaoh Ahmose I,
-Who will be the founder of the {{p|Eighteenth Dynasty}} and the inaugurator
-
-Of the {{p|New Kingdom}}—the {{p|Canaanite}} population remaining in {{p|Egypt}}
-Will face a transformed situation. Their political patrons will be
-Gone. Their protected status will be revoked. And native {{p|Egyptian}}
-Authority, restored with vengeful pride after a century of foreign
-
-Domination, will begin to treat them as a suspect population. The
-Friendly cohabitation of the {{p|Hyksos}} era will curdle into the
-Apartheid of the {{p|New Kingdom}}. And the {{p|Israelite}} enslavement
-That the biblical {{p|Exodus}} narrative describes becomes historically
-
-Legible: it is what happens when a population that arrived under
-Foreign-dynasty patronage continues to live in {{p|Egypt}} after the
-Native dynasty returns to power. The Jacob-family memory of
-Welcome and prosperity under the {{p|Hyksos}} pharaoh curdles, over
-
-Several generations, into a memory of oppression under {{p|New
-Kingdom}} pharaohs who "knew not Joseph." The biblical phrase—
-"a new king arose over {{p|Egypt}} who knew not Joseph"—is, in the
-{{x|Gaiad}}'s reading, the moment when the {{p|Eighteenth Dynasty}} restoration
-
-Ends the {{p|Canaanite}}-friendly era. The new king does not know
-Joseph because Joseph served a {{p|Hyksos}} king, and the new
-King has just expelled the {{p|Hyksos}} and does not recognize the
-Legitimacy of any {{p|Hyksos}}-era appointment. Joseph's memory is
-
-Erased. His descendants are enslaved.
-
-                                                But all of that is
-Yet to come. The present chapter, ch 154, is set in the {{p|Hyksos}}
-Phase itself. Jacob and his sons are flourishing in {{p|Goshen}}.
-
-Joseph is the vizier. The pharaoh welcomes them. The future
-Is full of possibility. The family lives in a bilingual,
-Bicultural society where {{p|Canaanite}} traditions and {{p|Egyptian}}
-Traditions coexist. And the story, for now, is one of arrival,
-
-Of favor, of prosperity, of the extended family gathering around
-The aged patriarch Jacob in his tent near the {{p|Nile Delta}},
-Blessing his twelve sons and their descendants, pronouncing over
-Each of them the prophetic words that will define the character
-
-Of their future tribes. Judah is the lion. Joseph is the fruit-
-Ful bough. Dan judges his people. Zebulun dwells by the sea.
-Benjamin is the ravenous wolf. The blessings of {{p|Genesis 49}}—
-Some of the oldest poetry in the {{p|Hebrew Bible}}—are pronounced.
-
-And then Jacob dies at a great age, and his body is embalmed
-By {{p|Egyptian}} embalmers and carried back to {{p|Canaan}} to be buried
-In the {{p|Cave of Machpelah}} at {{p|Hebron}}, beside Abraham and
-Isaac. The patriarchs are gathered to their fathers. The
-
-Generation that founded the {{p|Israelite}} identity passes. The
-Family remains in {{p|Egypt}}, multiplying, waiting for what will come.
-
-Jacob. Joseph. The {{p|Hyksos}}. The {{p|Canaanite}} welcome in the delta.
-The moment of prosperity before the reversal. The J-haplogroup
-{{p|Semitic}} population flourishing under foreign-dynasty patronage
-In a cosmopolitan {{p|Egypt}}. The twelve sons. The prophecies. The tent.
+So honor Jacob, Joseph, and the sons,
+The {{p|Hyksos}}' welcome in the {{p|Delta}}'s grass,
+The tent, the blessings, and the chosen ones
+Who came to {{p|Egypt}}, saw the famine pass.
 
 
 # Chapter 155: The Aryan Migration
