@@ -34235,69 +34235,69 @@ and keep the chair as houses keep a throne.
 Mark two: the Pornocracy, first of these.
 
 "The rule of harlots": so its foes would tease.
-And the House of Theophylact made its home
+The House of Theophylact made its home
 of the chair sixty years, and held the keys
 with Theodora, Senatrix of Rome.
 
-And Marozia, her daughter, at fifteen
-loved Pope Sergius III, and to him she bore
+Marozia, her daughter, at fifteen
+loved Pope Sergius III; to him she bore
 the son who would be Pope John XI: a queen
 of {{p|Rome}} who kept the keys for years and more.
 
 She made the popes, her husband and her son;
-and her grandson too, John XII, took the chair:
+her grandson too, John XII, took the chair:
 the keys were in a family's hands, as one
 house keeps its altar, with its kin at prayer.
 
-John XII was charged by the emperor's side:
+And John XII was charged by Otto's side:
 the {{p|Lateran Palace}} a brothel, prayers
 to the old gods at dice. The charges tried
-to take the keys back from Marozia's heirs.
+to take the keys from Marozia's heirs.
 
 He was deposed by Otto, but he came
 back when Otto left; in nine-sixty-four
 he died at twenty-seven, and his name
 held {{p|Rome}} for his house a little while more.
 
-The Pornocracy period produced perhaps a dozen popes,
-many of whom died violently — poisoned, strangled,
-suffocated with a pillow, or by other means suggesting
-that papal succession was managed by assassination, pangled.
+A dozen popes the Pornocracy made,
+And many died by force: the poison poured,
+A pillow; so the chair, its keys, its trade,
+Passed on by murder, by the strangler's cord.
 
-The Cadaver Synod of 897 had presaged this.
-Pope Stephen VI had the corpse of his predecessor
-Formosus exhumed nine months after burial, dressed
-in papal vestments, and put on trial. Stephen asked questions
+Cadaver Synod, eight-ninety-seven,
+Came first: Pope Stephen VI dug up the dead
+Formosus, nine months dead, bound for heaven,
+In papal robes, was tried; a deacon said
 
-of the decomposing corpse, which had a deacon to
-answer on its behalf. Formosus was found guilty of various
-charges. His papal acts were annulled. Three fingers
-of his right hand (the blessing fingers) were cut off, and the
+The dead man's answers; and it was condemned;
+His acts annulled; his blessing fingers cut
+From his right hand; the body, so contemned,
+Thrown in the {{p|Tiber}}; and the door was shut
 
-body was thrown in the {{p|Tiber}}. Stephen VI was himself
-strangled later that year in a subsequent coup.
-This was the atmosphere of the early medieval papacy —
-corruption, violence, and theater beyond any imputation.
+On Stephen VI: that year, strangled, he fell;
+Such was the papacy in that dark age:
+Corruption, murder, theater as well,
+The keys passed hand to hand, as on a stage.
 
-The second nadir was the Avignon Papacy (1309-1377),
-when the popes relocated from {{p|Rome}} to {{p|Avignon}} in
-southern {{p|France}}, essentially under French royal control.
-Seven popes in succession were French, of a distinct nation.
+The second low: thirteen-oh-nine, the chair
+Went, as the Avignon Papacy, south
+Down to {{p|France}}, and served the crown of {{p|France}} there;
+Seven French popes, the king's word in their mouth.
 
-Philip IV of {{p|France}} had arranged the move after
-his conflict with Boniface VIII, who had been briefly
-kidnapped by French agents in 1303 and died shortly after.
-The papacy then moved to {{p|Avignon}} and remained conforming.
+For Philip IV had made the move, at war
+With Boniface VIII, who had been seized
+By {{p|France}}, thirteen-oh-three, and died; and more,
+The court grew rich, and sold, as {{p|France}} was pleased:
 
-The {{p|Avignon}} papacy grew enormously wealthy and corrupt.
-It sold church offices (simony), indulgences, and
-appointments. It maintained luxurious courts. It became
-financially entangled with French banking enterprises.
+It sold its offices and pardons; sold
+Appointments; and its courts lived high and grand;
+And it was bound to {{x|French}} banks, and their gold;
+The keys were held now in the banker's hand.
 
-Catherine of Siena eventually persuaded Pope Gregory XI
-to return to {{p|Rome}} in 1377. But his death the following
-year triggered the Western Schism (1378-1417), when
-two (and briefly three) rival popes each claimed legitimacy.
+Catherine of Siena then moved the Pope,
+Gregory XI, to go back home again,
+In seventy-seven; he died; the hope
+Broke: the Western Schism; two, then three men:
 
 One in {{p|Rome}}, one in {{p|Avignon}}, and then
 a third at Pisa; and the kings would choose
@@ -34309,10 +34309,10 @@ the schism, fourteen-seventeen; it set
 the three aside, and Martin V would tend
 the one chair; the keys were one house's yet.
 
-A century later, Martin Luther would nail his 95 {{x|Theses}}
-to the door of {{p|Wittenberg Cathedral}} in 1517, partly in
-response to the sale of indulgences by the {{x|Renaissance}} popes
-to fund the rebuilding of {{p|St. Peter's}} basilica, a notorious corpus.
+A century on, Martin Luther came;
+Fifteen-seventeen, nailed his {{x|Theses}} up,
+Ninety-five, at {{p|Wittenberg}}; and the blame
+Was pardons sold, to fill {{p|St. Peter's}} cup.
 
 The {{x|Protestant Reformation}} grew there:
 the keys had been a family's, and the kings',
