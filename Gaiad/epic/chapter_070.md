@@ -35,9 +35,9 @@ From shallow reef to deep abyssal floor,
 His children filled each niche and every strike
 Of evolution's fortune opened more—
 
-So many forms that those who study stone
-Cannot untangle who begat whom next:
-The tree of {{c|1704|Ammonos}} remains unknown
+So many forms, each coiled in its own stone,
+And each begat a stranger, and the next;
+The tree of {{c|1704|Ammonos}} spread wide, full-grown,
 In all its branching—tangled, rich, and vexed.
 
 Yet all of them were taken in the end:
