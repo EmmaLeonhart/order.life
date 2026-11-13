@@ -39845,176 +39845,169 @@ Remember; and the dead keep, still, their vow.
 # Chapter 253: The Chronicle of the Popes
 
 Now count the keys. Not fathers, for these men
-Were sworn to have no sons--and some had sons--
+Were sworn to have no sons, and some had sons,
 But hands on heads, the laying-on, and then
 The next head bowed, the next, until it runs
 
-Fifteen centuries from a fisherman to a king
-Who cut the world in half with a line of ink.
-Here is the chronicle. Here is the ring
-Passed hand to hand. Here is the missing link
+Fifteen centuries, fisherman to king
+Who cut the world in half with lines of ink.
+Here is the chronicle; here is the ring
+Passed hand to hand; here is the missing link
 
-Between the {{p|Galilee}} and the age of sail.
-Hear it as the old ones heard the kings of {{p|Ur}}:
-One name, then one name, then the tale
-Folded small, and then the next one. Here they were.
+Between the {{p|Galilee}} and age of sail.
+Hear it as old ones heard the kings of {{p|Ur}}:
+One name, then one name, then the folded tale,
+And then the next. Here, then, the keepers were:
 
-{{c|1093|Peter}}, the fisherman, who denied him three times
-Before the rooster, and then did not deny,
-Hung head-down in {{p|Rome}} for his crimes
-Of saying the dead man lived. He asked to die
+{{c|1093|Peter}} the fisherman, who thrice denied
+Before the rooster, then did not deny,
+Hung head-down there in {{p|Rome}}; for he had cried
+The dead man lived. Head down, he asked to die,
 
-Upside down, unworthy of the cross
-His teacher hung on. Then {{c|3675|Linus}}. Then {{c|3676|Cletus}}.
-Then {{c|3677|Clement}}, writing letters to the loss
-And quarrel at {{p|Corinth}}: be at peace, defeat us
+Unworthy of the cross his teacher bore.
+Then {{c|3675|Linus}}; then {{c|3676|Cletus}}; then {{c|3677|Clement}}, who
+Wrote {{p|Corinth}} in its quarrel: peace, no more
+Of schisms. Bishops of a sect, who knew
 
-Not by your schisms. Bishops of a buried sect,
-Underground in the tufa where the dead were laid,
-Their names scratched in the catacomb's neglect,
-Martyrs by the dozen, bishops by the blade.
+The tufa, where below the dead were laid,
+Their names scratched in the catacombs' neglect,
+Martyrs by dozens, bishops by the blade.
+{{c|3678|Callixtus}}, once a slave, whose debts had wrecked
 
-{{c|3678|Callixtus}}, a slave once, who had lost
-A banker's money and been sent to the mill.
-{{c|3679|Pontian}}, sent to die in the mines, the lost
-Pits of {{p|Sardinia}}, who resigned there, still
+A banker's money, sent to mills; then came
+{{c|3679|Pontian}}, to {{p|Sardinia}}'s mines to die,
+Who first laid down the keys. {{c|3680|Fabian}}'s name
+Came with a dove that settled from the sky
 
-The first to put the keys down. {{c|3680|Fabian}},
-Chosen when a dove came down and settled on
-His head in the assembly--a farmer, a layman--
-Killed under {{c|2583|Decius}}. The dove was gone.
+Upon his head; a layman, farmer, killed
+Under {{c|2583|Decius}}; and the dove was gone.
+Then came {{c|3681|Sylvester}}, and the world, unstilled:
+{{c|2555|Constantine}} had seen a sign in the dawn:
 
-Then {{c|3681|Sylvester}}, and the world turned over.
-{{c|2555|Constantine}} had seen a sign in the sun,
-The unconquered sun, {{c|2554|Sol Invictus}}, the lover
-Of soldiers, and he made the two suns one.
+The sun unconquered, {{c|2554|Sol Invictus}}, friend
+Of soldiers, and he made the two suns one;
+The persecuted, palace in the end;
+The fisher's tomb a church of gold, begun.
 
-The persecuted became the palace. The tomb
-Of the fisherman became a basilica of gold.
-And four hundred years later, in some room,
-A forger wrote that {{c|2555|Constantine}} had sold--
+Four hundred years on, in some room, a hand
+Forged that great {{c|2555|Constantine}} had given all
+The {{p|West}} to {{c|3681|Sylvester}}: {{x|Donation}}'s land,
+For seven hundred years, till {{c|3682|Valla}}'s call
 
-No, given--the whole {{p|West}} to {{c|3681|Sylvester}}'s chair.
-The {{x|Donation}}. A lie that held a continent
-For seven hundred years, until {{c|3682|Valla}} laid it bare
-By its bad {{x|Latin}}. Remember what the forgers meant.
+Laid bare its {{x|Latin}}, bad; remember well
+What forgers meant. And {{c|3683|Damasus}}, who set
+{{c|3684|Jerome}} to make one book where street-tongues dwell,
+The {{x|Vulgate}}; {{c|3685|Leo}}, called the Great, who met
 
-{{c|3683|Damasus}}, who set {{c|3684|Jerome}} to make one book
-In the tongue of the street, the {{x|Vulgate}}. {{c|3685|Leo}} the Great,
-Who rode out to the {{p|Mincio}}, and the look
-Of him turned {{c|3686|Attila}} back from the gate.
+{{c|3686|Attila}} at {{p|Mincio}}; his look
+Turned back the king. And {{c|2621|Gregory}}, who named
+Himself the servants' servant; by the book
+And sent a monk to {{p|Kent}}; then, unashamed,
 
-{{c|2621|Gregory}}, who called himself the servant
-Of the servants of {{c|472|God}}, and sent a monk to {{p|Kent}}.
-And {{c|2834|Leo III}}, on {{x|Christmas Day}}, observant
-Of nothing but the crown, who stood and bent
+{{c|2834|Leo III}}, on {{x|Christmas Day}}, who bent
+Above {{c|2677|Charlemagne}} at prayer, and laid
+Unasked, the {{c|1004|Romans}}' crown; and his descent
+Runs on: near all of {{p|Europe}}'s blood is made
 
-Over {{c|2677|Charlemagne}} at prayer in {{p|Saint Peter's}}
-And set a crown on him that he had not asked for,
-Emperor of the {{c|1004|Romans}}. Nearly every reader
-Born of {{p|Europe}} descends from him. The door
-
-Of every lineage in {{p|Europe}} opens there.
+From him; each line of {{p|Europe}} opens there.
 Then came the years of the great houses. Mark:
 {{c|3283|Formosus}}, dug up, propped up in the chair,
 Dressed in his robes, a deacon set to bark
 
-His answers for him at the {{x|Cadaver Synod}}.
+At the {{x|Cadaver Synod}}, his replies;
 Condemned, his blessing fingers cut away,
-Thrown in the {{p|Tiber}}. And the bishops nodded.
-And then the house of {{c|3687|Theophylact}} held sway.
+Thrown in the {{p|Tiber}}; and the bishops' eyes
+Looked on; then {{c|3687|Theophylact}}'s house held sway.
 
-{{c|3275|Marozia}}, his daughter. Lover of a pope,
-{{c|3688|Sergius}}, and mother of a pope, {{c|2537|John}},
-And grandmother of a pope--a family's scope
-To make and unmake the keys and pass them on
+{{c|3275|Marozia}}, his daughter, loved a pope,
+{{c|3688|Sergius}}; and bore a pope, named {{c|2537|John}}; and then
+Grandmother of a pope: a household's scope
+To make and unmake keys, like kings, again
 
-Exactly as the kings did: by the blood.
-Her grandson {{c|3278|John XII}}, a boy of eighteen,
-Who crowned {{c|3280|Otto}}, and died, so the story went, in the mud
-Of a married woman's bed. The keys had been
+By blood. Her grandson, {{c|3278|John XII}}, a boy
+Just eighteen, who crowned {{c|3280|Otto}}, and who died
+Within a married woman's bed. The toy,
+The keys: one house, one line, one blood applied.
 
-A dynasty, a genealogy, a house.
-And this book honors genealogies. It must
-Say so plainly: the chair the church endows
-With heaven was a household's. That is just.
+And this book honors lines of blood; it must
+Say plainly that the chair the church endows
+With heaven was a household's; that is just.
+And then came {{c|3690|Gerbert}}, made a pope, whose vows
 
-And after them {{c|3689|Sylvester II}}, {{c|3690|Gerbert}},
-Who brought the {{x|Arab}} numerals to the {{p|West}},
-The abacus, the astrolabe, the expert
-Of the year one thousand, when they guessed
+As {{c|3689|Sylvester II}} brought the {{x|Arab}} lines
+Of numbers westward, and the sky's own key,
+The abacus; at one thousand, the signs
+Were read as doom; the world went on, set free.
 
-The world would end, and it did not end.
-Then 1054: the legates at the altar
-Of {{p|Hagia Sophia}} in {{p|Istanbul}} send
-A bull of excommunication. {{p|East}} and {{p|West}} would falter
+In ten-fifty-four, legates at the stone
+At {{p|Hagia Sophia}} laid their bull
+Of excommunication; {{p|East}}, alone,
+And {{p|West}} drew apart, never again full.
 
-Apart and never close. {{c|3691|Gregory VII}},
-And the king {{c|3374|Henry}}, barefoot in the snow
-Three days at {{p|Canossa}}, begging to be forgiven,
-And the pope who made him wait, and let him go.
+{{c|3691|Gregory VII}}; and {{c|3374|Henry}} in the snow
+Three days barefoot there at {{p|Canossa}}'s gate,
+Begging forgiveness; and the pope, so slow,
+Who let him go when he had made him wait.
 
-Urban at {{p|Clermont-Ferrand}}: {{c|472|God}} wills it. The cross
-Sewn onto shoulders, and the road to {{p|Jerusalem}}
-Paved with the slaughtered. {{c|3692|Innocent III}}, the boss
-Of kings, who forbade the sack, and then watched them
+{{p|Clermont-Ferrand}}: Urban cried, "{{c|472|God}} wills it."
+Crosses sewn on; to {{p|Jerusalem}} ran
+The road, paved with the slain; and, with the writ
+Of {{c|3692|Innocent III}}, kings' lord; the plan
 
-Sack {{p|Istanbul}} anyway, a {{x|Christian}} city,
-In 1204. {{c|3693|Celestine}}, the hermit, who could not bear
-The keys, and gave them back. And then, without pity,
-{{c|3694|Boniface}}: {{x|One Holy Church}}, and every soul is there
+Forbade the sack, and watched them sack the town
+Of {{p|Istanbul}}, a {{x|Christian}} city, in
+Twelve hundred four. {{c|3693|Celestine}} laid down
+The keys, a hermit who could not begin.
 
-Subject to the {{x|Roman}} pontiff. Slapped at {{p|Anagni}}
-By a {{c|3245|French}} king's men. Then the papacy
-Packed up and moved to {{p|Avignon}}. The money
-Of the {{x|Babylonian Captivity}}
+Then {{c|3694|Boniface}}: {{x|One Holy Church}}, each soul
+Is subject to the {{x|Roman}} pontiff; slapped
+At {{p|Anagni}} by {{c|3245|French}} king's men; the whole
+Court went to {{p|Avignon}}; its money, trapped,
 
-Flowed seventy years to a palace on the {{p|Rhône}}
-Till {{c|3695|Catherine}} of {{p|Siena}} wrote: come home.
-They came home, and elected two. Then three. Each throne
-Excommunicated the others. Which was {{p|Rome}}?
+{{x|Babylonian Captivity}}'s gold,
+Flowed seventy years to the {{p|Rhône}}; till home
+Saint {{c|3695|Catherine}} of {{p|Siena}} called them, bold;
+They came; and chose two popes. Then three. Which, {{p|Rome}}?
 
-At {{p|Konstanz}} a council ended it,
-Deposed them all, and crowned {{c|3696|Martin}}, one again,
-Two years after it burned {{c|3697|Jan Hus}}, and lit
-The fire that {{p|Bohemia}} would remember. Then
+Each throne cursed all the others; at the last
+At {{p|Konstanz}} then a council made them one,
+Deposed them all, crowned {{c|3696|Martin}}; it had cast
+{{c|3697|Jan Hus}} to flame two years before; and none
 
-The scholars. {{c|3698|Nicholas}}, who built the {{x|Library}}
-In the years the {{c|3107|Turks}} took {{p|Istanbul}} for good.
-{{c|3699|Sixtus}}, who built the {{x|Chapel}}, where the very
-Ceiling would be painted by a man who stood
+In {{p|Bohemia}} forgot; scholars came:
+{{c|3698|Nicholas}}, who built the {{x|Library}} walls
+When {{c|3107|Turks}} took {{p|Istanbul}} for good; the name
+Of {{c|3699|Sixtus}}, builder of the {{x|Chapel}}'s great halls,
 
-On scaffolding for four years with his head bent back.
-And at the end of the chronicle, {{c|3700|Rodrigo}},
-{{c|3701|Borgia}}, {{c|3702|Alexander VI}}, and the black
-Joke of his children, {{c|3703|Cesare}} and {{c|3704|Lucrezia}}, and the slow
+Whose ceiling would be painted by a man
+On scaffolding four years, head bent; and then,
+And last, Rodrigo {{c|3701|Borgia}}; and his clan,
+Called {{c|3702|Alexander VI}}; his children; then
 
-Poison of the rumors. In 1493
-He drew a line from pole to pole across the sea:
-{{p|West}} of it for {{p|Spain}}, east for {{p|Portugal}}.
-At {{p|Tordesillas}} the two kings moved it farther west,
+{{c|3703|Cesare}} and {{c|3704|Lucrezia}}, and the slow
+Poison of rumor. Fourteen ninety-three:
+He drew a line from pole to pole, to show
+West of it {{p|Spain}}'s, east {{p|Portugal}}'s, the sea.
 
-And the world was divided by the heir of the fisherman
-Between two crowns that had never seen most of it.
-The {{c|3705|Taíno}} were not asked. Nor the {{c|3403|Inca}}. Nor the {{c|3706|Tupinambá}}. The plan
-Was paper, and the paper was the writ.
+At {{p|Tordesillas}} the kings moved it west;
+The fisherman's heir split between two crowns
+A world they'd never seen; and all the rest,
+{{c|3705|Taíno}}, {{c|3403|Inca}}, {{c|3706|Tupinambá}}, the towns,
 
-Fifteen hundred years. A fisherman, a line.
-Some were saints and some were murderers and most
-Were keepers, and the chair they kept, divine:
-The chair was holy. What passed was the ghost,
+Unasked. The plan was paper, and the writ
+The paper. Fifteen hundred years: a line
+From fisherman to this; and, keeping it,
+Some saints, some murderers; the chair divine;
 
-And with it, hands on heads, and then the name
-Read out, the next name, and the keeping of the list.
-That is what an institution is. The same
-Way a family is. In {{p|Eisleben}}, a miner's son who would twist
+Most were but keepers; what passed was the ghost,
+And hands on heads, and then the name, the list
+Read out: an institution is, almost,
+A family. In {{p|Eisleben}}, to twist
 
-The keys in their lock was already born. The chronicle closes.
-The keys go on, unbroken, past this page.
-Count them. Keep the list. The list is what the house is.
-The age of the chronicle ends. Here begins the age
-
-Of the reckoning.
+The keys, a miner's son was born. Here ends
+The chronicle; the keys pass on, and on;
+Count them, and keep the list: the house it tends
+Is the list. Here the reckoning comes on.
 
 
 # Chapter 254: The Sea Joins the World
