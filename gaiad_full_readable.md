@@ -39296,204 +39296,140 @@ Which no treaty and no time could erase.
 
 # Chapter 250: The Civilized Trap
 
-They did everything that was asked of them.
+They did all that was asked of them; and still
+They lost their land. Five nations of the south:
+The Cherokee, the Choctaw, with the will
+Of Chickasaw, and from the river's mouth
 
-                                            This
-Is the bitterest verse in all the book of wounds--
-Not the story of the warrior's near-miss
-Or the prophet's burning moon, but the platoons
+The Creek, whom some named Muscogee; the last,
+The Seminole: whose law and custom stood
+So like the settlers' own, the word was cast:
+Their neighbors named them "civilized," and good.
 
-Of scholars, farmers, lawmakers, and scribes
-Who built republics in the settler's tongue
-And met each demand of the invading tribes
-Of Europeans--and were still among
+"Civilized" meant: you look so much like us
+We nearly see you. And they shaped, in trust,
+Their lives to fit the conqueror, and thus
+Found out the reckoning a lie, and dust.
 
-The dispossessed.
+The Cherokee led first. In mountain lands
+Where the blue ridges meet the southern sky,
+Where laurel slopes feed rivers, in their hands
+The country lay since forests first grew high;
 
-                  Five nations of the southeast:
-The Cherokee, the Choctaw, the Chickasaw,
-The Creek--whom the Americans called Muscogee--the least
-And last the Seminole, whose law
+And now they took the European way,
+And from the conqueror the poorest gift,
+His alphabet, and made it, in their day,
+A thing he never dreamed, a world's whole shift.
 
-And custom the republic named "civilized"--
-A word that meant: you look enough like us
-That we can almost see you. They revised
-Their lives to fit the conqueror's calculus
+Sequoyah, called George Gist by settler name,
+Sat twelve long years; he could not read the hand
+Of English marks, but grasped the thing they frame:
+That sound is made to see, the voice to stand
 
-And found the calculation was a lie.
+Caught on the page and held; and what he heard
+In Cherokee could be set down as well
+As English could. He took no borrowed word;
+At night he heard the syllables' own spell:
 
-The Cherokee led the way. In the mountains
-Of the southern {{p|Appalachians}}, where the sky
-Meets the blue ridges and the fountains
+Some eighty-six, no more; and each one drew
+A sign. From English some he took the form,
+Forgotten there, and gave it sounds anew:
+So D was "a," and R was "e"; the norm
 
-Of a hundred rivers spring from laurel slopes,
-They had held their country since the forest
-Was young--and now they took the ropes
-Of the European system and the poorest
+Of Cherokee was syllables, not parts
+Alone; it asked no years of school; in weeks
+It taught what English took in years; and hearts
+Learned letters, and the reading nation speaks
 
-Gift of the conqueror, his alphabet,
-And made it something the conqueror could not imagine.
+In print: the Cherokee {{x|Phoenix}}, which rose
+In eighteen twenty-eight, a paper bold
+Set by Elias Boudinot, whose prose
+Gave voice, in their own script, to what they hold:
 
-Sequoyah--George Gist by his settler name, and yet
-As Sequoyah alone he fills the margin
+A tongue that wrote itself in its own hand,
+By one man's genius in the silence made,
+A thing no other nation of the land
+Had done. And they built government, and laid
 
-Of history's page--sat for twelve years and thought.
-He could not read the English marks, but he
-Understood the principle of what they wrought:
-That sound could be made visible, that the free
+In eighteen twenty-seven the whole frame
+Of a constitution: three branches set
+Like the republic's own: a chief, the same,
+A senate, court, and written code; and yet
 
-And flowing river of the spoken word
-Could be caught in symbols on a page and held
-Forever--and he knew that what he heard
-In Cherokee could be as precisely spelled
+Their capital at {{p|New Echota}} stood,
+Where council sat and argued in the script
+Sequoyah gave them, as republics would,
+Among republics, lawful and equipped.
 
-As anything the English tongue could write.
+The Choctaw built their schools; the Chickasaw
+Raised farms to match the settlers' own; the Creek
+Rebuilt after the {{x|Red Stick War}}, the law
+Of Andrew Jackson's first campaign: the weak
 
-He did not borrow English letters' sounds.
-He listened to his language in the night
-And broke the Cherokee tongue to its compounds
+And strong alike, the allied Creek who'd sought
+For peace, and those who fought him, he made pay:
+At {{p|Fort Jackson}}, by the {{x|Treaty}}, he caught
+Some twenty-three million acres away.
 
-Of syllables--eighty-six distinct, no more--
-And gave each one a symbol. Some he drew
-From the English alphabet's forgotten store
-Of shapes, but reassigned to the new
+The Seminole in {{p|Florida}}'s green maze
+Of swamp and hammock held its own. And now
+The bitter center lies: in all their ways
+They did all that was asked. They took the plow;
 
-And Cherokee sounds: D was not D but a,
-R was not R but e, and S
-Was not S but du--and in this way
-The English letters' shapes became the dress
+They built in European style; they let
+The church bell sound across their towns; they wrote
+Their constitutions, printed their gazette,
+Schooled children, and they wore the settler's coat;
 
-Of a Cherokee phonetic mind that worked
-By syllable, not phoneme, and required
-No years of school--the genius that lurked
-In Sequoyah's system was that it aspired
+And it was not enough; it never would
+Be so. The word "civilized" was a lock
+That had no key. The verdict, understood,
+Had passed from court to ledger, and the stock
 
-To teach in weeks what English took in years.
+Was land, worth more than people on it. Gold
+Was found in {{p|Georgia}}, on Cherokee ground;
+The settlers' hunger would not be controlled
+By constitution or by paper bound.
 
-Within a single generation, the Cherokee
-Were a literate nation. The pioneers
-Of their own modernity, the foray
+The more the Cherokee grew like their foe,
+The more the settlers felt the threat they made:
+A people who disproved, by what they'd show,
+The tale of race; if they could build, and trade,
 
-Into the written word was not surrender
-But transformation: the Cherokee {{x|Phoenix}}
-Rose in eighteen-twenty-eight, the tender
-And defiant newspaper that links
+And write a constitution, and could stand
+Themselves by written law, then what excuse
+Remained for their removal? What of land
+Wasted on savages, the old abuse
 
-A people's voice to the machinery of print--
-Bilingual, bold, and edited by Elias Boudinot,
-Its columns carried the Cherokee's glint
-Of sovereign identity--the knot
+Of the wandering brute who knew no plow?
+The Cherokee disproved the lie, and bore
+A greater hate than warriors knew; and how?
+They held the mirror up, the face it wore;
 
-Of a language written in its own script,
-A thing that no other Indigenous nation
-Of the {{p|Americas}} had accomplished, equipped
-By the genius of a single man's creation.
+The nation saw itself and could not bear
+The image; what it owed its law, the price,
+Was a truth far too thick to swallow there;
+It would not pay; the Cherokee paid twice.
 
-And they built a government. The Cherokee
-Constitution of eighteen-twenty-seven:
-Three branches modeled on the American way--
-A principal chief, a senate, the leaven
+So honor Sequoyah, who gave letters
+To his own people, with no borrowed thread,
+A syllabary that breaks the fetters
+Of silence on the voice; and the page spread
 
-Of a judiciary and a written code
-Of laws that any American jurist would
-Recognize--the Cherokee had strode
-Into the world of written law and stood
+Not as the settlers' only. Honor too
+The Cherokee {{x|Phoenix}}, whose defiance
+In print was the most civilized and true
+Reproof one nation gave; its reliance
 
-As a republic among republics, a nation
-With a capital at {{p|New Echota}}, where the court
-Convened and the council held deliberation
-In the language Sequoyah had taught to sort
+On ink and paper proved that "savage" lied,
+And "civilized" was just the settler's jest.
+They built what they were told to build, and tried
+To be what they were told; and, for the rest,
 
-Into syllables of light upon the page.
-
-The Choctaw built their schools. The Chickasaw
-Established farms that rivaled, at that stage,
-The plantations of their American neighbor's law.
-
-The Creek rebuilt after the devastation
-Of the {{x|Red Stick War}}--Andrew Jackson's first
-Campaign of Indigenous elimination,
-Where he had used the Creek allies' thirst
-
-For peace against the Creek resisters, then
-Punished ally and enemy alike
-With the {{x|Treaty}} of {{p|Fort Jackson}}'s pen
-That seized twenty-three million acres--the strike
-
-Of a rattlesnake that bites the hand that feeds.
-
-And the Seminole in {{p|Florida}}'s green maze
-Of swamp and hammock--a nation whose deeds
-Of resistance would outlast all the craze
-
-For removal--but that is the next chapter's telling.
-
-Here is the bitter center: they did everything.
-They adopted the plow. They built the dwelling
-In the European style. They let the ring
-
-Of the church bell sound across their towns.
-They wrote constitutions, published newspapers,
-Sent their children to the schools, wore the gowns
-Of the American republic's capers
-
-And conventions--and it was not enough.
-It was never going to be enough. The word
-"Civilized" was a lock without a key, the bluff
-Of an empire that had already transferred
-
-The verdict from the courtroom to the ledger:
-The land was worth more than the people on it.
-Gold was found in {{p|Georgia}}'s Cherokee acreage,
-And the settler's hunger would not quit
-
-For any constitution or gazette.
-
-The more the Cherokee became like the Americans,
-The more the Americans felt the threat
-Of a people who disproved the talismans
-
-Of racial destiny: if the Cherokee
-Could build a republic, write a constitution,
-And govern themselves with a literate decree,
-Then what excuse remained for the execution
-
-Of the policy of removal? What remained
-Of the comfortable fiction that the land
-Was wasted on the savage, the unchained
-And wandering brute who could not understand
-
-The plow's purpose or the ballot's weight?
-
-The Cherokee disproved the lie. And for this
-They would be punished with a greater hate
-Than any warrior nation would dismiss--
-
-Because they held the mirror up and showed
-The republic its own face, and the republic
-Could not bear the image. What it owed
-To its own principles was a truth too thick
-
-To swallow--and so it swallowed the Cherokee instead.
-
-Honor Sequoyah--who gave his people letters
-Without borrowing any foreign alphabet's thread,
-Who forged a syllabary that unfetters
-
-The Cherokee voice from the tyranny of silence
-And the colonizer's monopoly on the page.
-Honor the Cherokee {{x|Phoenix}}, whose defiance
-In print was the most civilized outrage
-
-That any nation offered any empire--
-The proof, in black ink on white paper pressed,
-That the word "savage" was the colonizer's liar
-And the word "civilized" was the colonizer's jest.
-
-They built everything they were told to build.
-They became everything they were told to become.
-And the reward for every promise fulfilled
-Was the drumbeat of removal's drum.
+For all the promises that they fulfilled,
+Their wage was the removal's beating drum:
+The towns and farms and schools that they would build
+Were counted nothing, and their voice struck dumb.
 
 
 # Chapter 251: The Last Confederacies
