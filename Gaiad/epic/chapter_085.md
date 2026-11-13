@@ -82,8 +82,8 @@ And strange, the clans of {{c|1728|Thalattos}} would creep
 
 Along the shallow coast with bent-down snout
 And crushing teeth for shellfish on the floor—
-A group whose place in {{c|1669|Sauros}}' tree throughout
-The ages would remain unclear—no more
+A group of {{c|1669|Sauros}}' house, a branch without
+Long issue in the ages—and no more
 
 Than brief {{x|Triassic}} test, a passing style
 In strange-faced, shallow-water coastal role—
