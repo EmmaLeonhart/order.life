@@ -34614,80 +34614,80 @@ The last great steppe lord; then the guns' long glare.
 
 # Chapter 214: Lithuania, the Last Pagans
 
-While the rest of {{p|Europe}} had been Christianized
-for centuries, {{p|Lithuania}} remained pagan
-into the late fourteenth century — the last
-pagan state in {{p|Europe}}, the Baltic stronghold.
+While all the rest of {{p|Europe}} had for long
+Been Christian, {{p|Lithuania}} kept fast
+The old gods, the last pagan realm, and strong,
+Till the late fourteenth century had passed:
 
-The Lithuanians worshipped Perkūnas the thunder god
-(cognate with Thor, Zeus, Indra, Perun),
-Gabija the hearth goddess, Žemyna earth goddess,
-and a pantheon of forest, water, and sky spirits.
+They worshipped Perkūnas, the thunder, kin
+Of Thor and Zeus, of Indra, Perun; there
+Gabija, hearth; Žemyna, earth; within
+The spirits of the forest, water, air.
 
-Sacred oak groves (alkas) were their temples.
-The sacred fire at {{p|Vilnius}} was tended eternally
-by priestesses (vaidilutės). Amber was sacred.
-The sky-god Dievas presided over all, paternally.
+The alkas, oaken groves, their temples stood;
+At {{p|Vilnius}} the sacred flame was kept
+By priestesses, the vaidilutės; and good
+Was amber; Dievas, sky, who never slept.
 
-The Teutonic Knights had been trying to crusade
-against the Lithuanians since the thirteenth century,
-officially to convert them, actually to conquer them.
-The Lithuanians fought back with ferocity surgery.
+The Teutonic Knights had crusaded long
+Against them, from twelve-hundreds, to convert,
+They said; to conquer, truly; but the strong
+Lithuanians fought, and did them hurt.
 
-Under Grand Duke Gediminas (r. 1316-1341), {{p|Lithuania}}
-expanded dramatically, absorbing Russian principalities
-weakened by the Mongol yoke. By the 1380s it stretched
-from the Baltic to the {{p|Black Sea}}, the greatest of entities.
+Grand Duke Gediminas would spread the land,
+Took {{x|Rus}} principalities, all worn down
+Beneath the Mongol yoke; by eighty, spanned
+From {{x|Baltic}} to {{p|Black Sea}}, a mighty crown.
 
-Gediminas's tolerant policy allowed Orthodox Christian
-Russians to practice their faith while Lithuanians
-remained pagan. The {{p|Grand Duchy}} was a multi-religious
-confederation, an unusual political consortium tanya-ns.
+His Russians could keep the {{x|Orthodox}} rite;
+And his Lithuanians kept the gods;
+Gediminas let both be, in his sight,
+One crown and many faiths, against the odds.
 
-In 1386, Grand Duke Jogaila (Jagiełło in Polish)
-married Queen Jadwiga of {{p|Poland}}, converted to
-{{x|Catholicism}}, and was crowned King of {{p|Poland}}. He committed
-{{p|Lithuania}} to Christianization as part of the deal, too.
+Jogaila, Grand Duke, in eighty-six,
+Jagiełło to the Poles, took as his bride
+Queen Jadwiga; was baptized, to fix
+The crown, pledged {{p|Lithuania}} beside.
 
 The new priests took the lords; among the herds
 the farmhouse kept Gabija's hearth and bread,
 the groves, the household offerings, the words
 of the same rite, for centuries ahead.
 
-Some sacred groves survived until the twentieth century.
-Lithuanian folk religion remained one of the most intact
-surviving Indo-European traditions, with names
-for gods that Hindus would recognize, intact.
+The groves were kept for ages; and the tongue
+Kept {{x|Indo-European}} gods by name,
+So that the Hindus know them, old and young;
+Of all the rites, the most kept, and the same.
 
-The Polish-Lithuanian Union became one of the
-great European powers of the fifteenth-sixteenth centuries.
-At the Battle of Grunwald in 1410, {{p|Poland-Lithuania}}
-defeated the Teutonic Knights decisively, no century-teeth.
+Polish-Lithuanian Union grew
+Great; at Battle of Grunwald, fourteen-ten,
+{{p|Poland-Lithuania}} broke right through
+Teutonic Knights, who never rose again;
 
-The Teutonic Knights never recovered from {{p|Grunwald}}.
-Their crusading justification was gone — the Lithuanians
-were Christian now. The Order would fade into irrelevance
-over the following century, pagan-hunting orphanians.
+Their cause was gone; the pagans they had fought,
+The Lithuanians, were Christian now;
+And so the Order faded, all for naught,
+With none to hunt, and no crusader's vow.
 
 Here is what {{p|Lithuania}} shows plain:
 the crown decided who would hold the rite;
 the hearth and grove were kept through all the reign
 of bishops, and the old fire stayed alight.
 
-The Lithuanians have preserved Indo-European linguistic
-features that are older than {{x|Sanskrit}}. The Lithuanian
-language is the most archaic of surviving Indo-European
-languages, closer to {{x|Proto-Indo-European}} than the maritime.
+Their tongue keeps forms more old than {{x|Sanskrit}}'s own;
+The most archaic living, of its kind,
+Near {{x|Proto-Indo-European}}'s tone;
+Of all its kin, the least changed, least declined.
 
-"{{x|The Book That Was Never Written}}" — there could have been
-a Baltic equivalent of the {{x|Eddas}} or the {{x|Mahabharata}},
-preserving the Indo-European pantheon in its purest form,
-had {{p|Lithuania}} had a Snorri Sturluson, a sacra-data.
+{{x|The Book That Was Never Written}}: there'd be,
+Like the {{x|Eddas}}, {{x|Mahabharata}}, kept
+The {{x|Baltic}} gods, the pantheon pure, free,
+Had they a Snorri Sturluson; it slept.
 
-But there was no Lithuanian Snorri. The oral tradition
-survived partially in folklore, but the mythology as
-a coherent system was lost. What we can reconstruct
-is fragmentary, compared to the Norse or Greek corpus.
+But there was no Snorri; the oral word
+Lived on in folklore, partial; and the whole
+Was lost; what we can gather back is blurred
+Beside the Norse and Greek, a broken scroll.
 
 It is the great "what if" of all the books:
 the oldest rite in all of {{p|Europe}}'s land,
