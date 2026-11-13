@@ -91,11 +91,11 @@ By the {{x|Mesozoic}} world to a dream
 Of steadiness; the final standoff stayed
 
 Between the stone and planet, hours away.
-Did any creature sense it? Birds, perhaps—
+The birds would sense it, in that fearful lapse,
 The young seabirds' magnetic sense, the way
 Of navigation, written in brain-maps,
 
-Might have perceived, as a faint stir, the stone
+Perceived it, as a faint stir, and the stone
 Coming near the magnetosphere; yet
 No record has been kept, no tally shown,
 Of the approaching doom.
