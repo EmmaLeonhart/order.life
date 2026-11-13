@@ -46473,95 +46473,75 @@ June, and October, and December's sky.
 
 # Chapter 320: The Recommendation
 
-On the twenty-ninth of November, 1947, in {{p|New York}},
-The {{x|General Assembly}} voted.
-{{x|Resolution 181}} recommended a partition of the mandate of {{p|Palestine}}.
-Thirty-three voted for it.
-Thirteen voted against it.
-Ten abstained.
-One was absent.
-The {{p|United States}} voted for it.
-The {{p|Soviet Union}} voted for it.
-{{p|Britain}}, the power that held the mandate, abstained.
-The plan was an {{x|Arab}} state, a {{x|Jewish}} state,
-And {{p|Jerusalem}} as a corpus separatum,
-A city under an international regime,
-Not the capital of either.
-The mandate was to end not later than the first of August, 1948.
-The two states, and the city, not later than the first of October.
-The resolution says recommends.
-A recommendation is not a government.
-The people of the country did not cast these votes.
+In 'forty-seven, late November's vote,
+In {{p|New York}}: {{x|General Assembly}}, passed;
+The resolution, recommending, wrote
+A split of {{p|Palestine}}'s mandate; and cast
 
-The {{x|Jewish Agency}} accepted the plan.
-The {{x|Arab Higher Committee}} rejected it.
-The states that voted no had said no with their names.
-Between the vote and the spring there was already fighting.
-The declaration did not begin it.
+For it, thirty-three; against, thirteen; ten
+Abstained; one absent; the {{p|United States}},
+The {{p|Soviet Union}}, both for; and then
+{{p|Britain}}, who held it, abstained; the plan's states:
 
-{{p|Britain}} did not stay until the plan's last date.
-At midnight, the night of the fourteenth of May, 1948,
-The mandate ended.
-That afternoon, at four, in the museum in {{p|Tel Aviv}},
-{{c|4406|David Ben-Gurion}} read a scroll.
-It declared a {{x|Jewish}} state, to be called {{p|Israel}},
-From the moment the mandate ended that night.
-It claimed a natural and historic right,
-And the strength of the {{x|Assembly}}'s resolution.
-The scroll does not draw the plan's borders as its own.
-It says the state will keep complete equality
-Of social and political rights
-To all its inhabitants, irrespective of religion, race, or sex.
-It says it will safeguard the holy places of all religions.
-It says it will be faithful to the principles of the {{x|Charter}}.
-The closing words put trust in the {{c|4407|Rock of Israel}}.
-The words can be heard as God.
-The words can be heard as the people.
-The text does not say which.
+An {{x|Arab}} state, a {{x|Jewish}} state; and then
+{{p|Jerusalem}}, a city set apart,
+Under a world regime, of neither; when
+The mandate ended, August first; the start
 
-The {{x|Arab}} state in the plan was not declared.
-On the fifteenth the armies entered:
-{{p|Egypt}}, {{p|Transjordan}}, {{p|Syria}}, {{p|Lebanon}}, and {{p|Iraq}}.
-{{p|Transjordan}} is the name that state then used.
-{{p|Jerusalem}} was not set up as the separated city.
-The fighting divided it.
-The international regime was not established.
+Of states, the first October; but the text
+Said recommends: no government it meant;
+The country's people cast no votes; and next,
+The {{x|Jewish Agency}} said yes, consent;
 
-People left their houses.
-People were driven from their houses.
-About seven hundred thousand, by the count of the {{x|United Nations}}.{{fn|The United Nations Conciliation Commission estimated about 711,000 refugees in 1951. Other estimates run from about 520,000 to 900,000.}}
-Neither fact cancels the other.
-A village is not the whole, and the whole is not a village.
-The {{p|United States}} recognized the state that day,
-De facto.
-Recognition is not the map.
+The {{x|Arab Higher Committee}} said no;
+The states that voted no, by name; and, spring,
+Already fighting, ere the scroll; the blow;
+{{p|Britain}} not staying till the last date's ring;
 
-Do not say the recommendation was the country.
-The {{x|Assembly}} drew three regimes on one land.
-What the year did was one declaration, a war,
-And a city that was not international.
-Do not say the scroll's equality is a report of the year.
-It is a charge the state wrote down for itself.
-A charge is not kept by being written.
-Do not say the war was the only answer the vote could have had.
-Do not say the vote was nothing because a war followed.
-The {{x|Agency}} said yes. The {{x|Committee}} said no.
-Those were decisions. Other decisions were open,
-And were not taken.
+The fourteenth, 'forty-eight, the day in May,
+The mandate ended, midnight; and, at four,
+That afternoon, in {{p|Tel Aviv}}, as they
+Filled the museum, read a scroll; and more:
 
-Hold the three lines the plan drew,
-And the one state the scroll declared,
-And the houses the year emptied, by leaving and by driving.
-Refuse the consolation that a resolution is a birth,
-And the consolation that a birth erases the resolution's other state.
-The striving named in the scroll is equality,
-And the holy places of all religions, kept.
-The year did not accomplish the sentence.
-The sentence remains a sentence.
-Count the vote on the twenty-ninth of November.
-Count the scroll on the fourteenth of May.
-The map of the plan and the map of the fighting
-Are not the same map.
+{{c|4406|David Ben-Gurion}} read: state declared,
+{{x|Jewish}}, called {{p|Israel}}, from mandate's end,
+By natural, historic right; and paired
+With the {{x|Assembly}}'s vote; and so it penned
+
+Not the plan's borders as its own; it said:
+Equality of social rights and of
+Political, for all; and, at its head,
+No faith, race, sex distinguished; and, above,
+
+The holy places of all faiths, kept; true
+To the {{x|Charter}}; and its closing words' trust
+In the {{c|4407|Rock of Israel}}; both heard through:
+As God or people; open, as it must.
+
+The {{x|Arab}} state, though planned, was not declared;
+The fifteenth, armies entered: {{p|Egypt}}, too,
+{{p|Transjordan}}, {{p|Syria}}, {{p|Lebanon}}, paired
+With {{p|Iraq}}; and {{p|Jerusalem}}, cut through,
+
+Not the set-apart city; fighting split
+The city; no world regime set; and they
+Left homes, were driven out; the count, as writ,
+Some seven hundred thousand.{{fn|The United Nations Conciliation Commission estimated about 711,000 refugees in 1951. Other estimates run from about 520,000 to 900,000.}} The same day,
+
+The {{p|United States}} saw the state, in fact,
+Recognized it: de facto; not the map.
+Three regimes drawn on one land; then, one act
+Declared; a war; a city split; the gap
+
+Between the plan and year. The scroll's own charge:
+Equality, and holy places kept
+For all the faiths; this book holds, and at large,
+{{p|Jerusalem}} the shared, where all have stepped,
+
+The holy city of all faiths; its word,
+The sentence, stays a sentence, yet unmet;
+Count the vote, November's twenty-ninth, heard;
+The scroll, May's fourteenth; two maps, not one, yet.
 
 
 # Chapter 321: The Suggested Copy
