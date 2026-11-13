@@ -60,7 +60,7 @@ And hair means warm blood to grow and keep it,
 Hair means the body generates somewhere
 Within itself the fire to heat it.
 
-And {{c|1673|Cynos}} was perhaps already warm—
+And {{c|1673|Cynos}} was already somewhat warm—
 Not fully, not as mammals were to be,
 But moving on past the cold-blooded norm
 To bodies heated from within, set free
@@ -102,7 +102,7 @@ And only burrowers remained not dead.
 
 So {{c|1673|Cynos}} in his burrow raised his young
 With warm milk—not yet true mammalian,
-Perhaps still laying eggs, but with the tongue
+And still he laid his eggs, but with the tongue
 Of ancient motherhood, {{c|1721|Pygmalion}}
 
 Of what care would become—he sat above
