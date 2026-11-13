@@ -33985,120 +33985,90 @@ Made {{p|Europe}} choke, and taught its knights to bow.
 
 # Chapter 206: The Mongols in the Middle East
 
-Hulagu Khan's campaign through the {{p|Middle East}}
-was one of the most destructive military events
-in human history. {{p|Persia}} had been devastated by
-his grandfather; now the western Islamic world spent.
+Hulagu Khan marched on into the west,
+The Great Khan Möngke's brother, sent forth to bring;
+His grandsire laid {{p|Persia}} waste; the rest
+To heel: the {{p|Middle East}}, and caliph, king.
 
-Hulagu was tasked by his brother Möngke Khan,
-then Great Khan, with finishing the job of subjugating
-the {{p|Middle East}}. He marched west with an army of
-150,000 men, meticulously plated.
+A hundred fifty thousand men he led;
+The Assassins first, at {{p|Alamut}}'s hold
+In the {{p|Elburz}}, the Nizaris, who spread
+Their killings through the {{p|Middle East}}, of old,
 
-His first target was the Nizari Ismailis,
-the Assassins of the {{p|Alamut}} fortress in the {{p|Elburz}} mountains.
-They had terrorized the {{p|Middle East}} for a century
-with their targeted political killings and mountain fountains.
+A century; twelve-fifty-six, their chief
+Gave up; and Hulagu had razed it all;
+Their books were burned, their master slain; and grief;
+And some lived on, and did not wholly fall.
 
-The Assassins' master at {{p|Alamut}} surrendered
-in 1256. Hulagu had the fortress razed,
-the library of the Ismaili philosophers destroyed,
-the grand master executed with all his amazed.
+The Nizari Ismailis are still led
+Today by the Aga Khan, of that line
+Of {{p|Alamut}}, a peaceful folk, who've spread
+Their gifts across the world, in work benign.
 
-(Some Ismaili communities survived. The Nizari Ismailis
-today are led by the Aga Khan, descended from
-the {{p|Alamut}} line. They are a peaceful, philanthropic
-community now, with followers across the dome.)
+He marched on {{p|Baghdad}} from {{p|Alamut}}'s height;
+Caliph al-Mustasim would not yield;
+Twelve-fifty-eight, he breached the walls by might;
+Sacked for a week; a million in the field.
 
-After {{p|Alamut}}, Hulagu marched on {{p|Baghdad}}. The
-Abbasid Caliph al-Mustasim refused to surrender.
-Hulagu besieged the city in 1258. The walls were breached.
-The city was sacked for a week, without any vendor.
+Canals of {{p|Mesopotamia}}, where
+The waters ran, were broken; and the land
+That fed the {{p|Middle East}} lay empty, bare,
+A desert; and the caliph, by command,
 
-Estimates of the dead range from 200,000 to over a million.
-The canals that irrigated {{p|Mesopotamia}} were destroyed
-or silted up. The breadbasket of the {{p|Middle East}}
-became a depopulated desert, employed.
+Was slain; and with him the {{x|Abbasid}} line,
+Five hundred years the head of {{x|Sunni}} rule,
+Was ended; and an age was gone; the sign
+Of {{x|Islam}}'s one head, its seat, its learned school.
 
-The Caliph was killed. With him, the {{x|Abbasid}} line
-that had ruled the Sunni Muslim world for five centuries
-was extinguished. The symbolic leader of Sunni {{x|Islam}}
-was gone. An era had ended, with all its centuries.
+Hulagu took {{p|Damascus}}, which gave in;
+He would have taken {{p|Egypt}} next; but died
+Möngke Khan, in twelve-fifty-nine; he, as kin,
+Went east to the succession, with his side,
 
-(A distant {{x|Abbasid}} cousin was later installed as caliph
-by the Mamluks in {{p|Cairo}}, but this was a symbolic office
-without power. The Ottoman sultans would later claim
-the caliphal title after conquering {{p|Egypt}} — a different office.)
+And left Kitbuqa, his general, there,
+In {{p|Syria}}, with twenty thousand; north
+From {{p|Egypt}} came the Mamluks, slaves, to bear
+Their arms; and at Ain Jalut they went forth,
 
-Hulagu continued west to {{p|Damascus}}, which surrendered
-without resistance. Then he planned to invade {{p|Egypt}}.
-But Möngke Khan died in 1259, and Hulagu had to return
-east with most of his army for the succession, complicit.
+Twelve-sixty, by {{x|Goliath}}'s spring, to meet;
+And Qutuz the sultan, Baybars his sword,
+Used the Mongols' own arts: the feigned retreat,
+Envelopment, reserves, against the horde;
 
-He left a garrison of about 20,000 men under
-the general Kitbuqa in {{p|Syria}}. The Mamluks of {{p|Egypt}},
-a slave-soldier dynasty, marched north to confront them.
-At Ain Jalut ({{p|Spring of Goliath}}) in 1260, defeat was dripped.
+Kitbuqa died; the Mongols' host was slain:
+Their first great loss; their westward march was done;
+{{p|Egypt}} and {{p|Syria}} were saved; the reign
+Of the Mamluks, two centuries, begun.
 
-The Mamluk Sultan Qutuz and his general Baybars
-employed Mongol tactics against the Mongols:
-feigned retreat, envelopment, hidden reserves. Kitbuqa
-was killed. The Mongol army was destroyed, battlefield molls.
+Ilkhanate held {{p|Persia}}, {{p|Iraq}}'s plain;
+Its Mongols turned {{x|Persian}}, and, in their time,
+Ghazan, twelve-ninety-five, made {{x|Islam}} reign;
+The state's; the Christian hopes were past their prime.
 
-This was the first major Mongol defeat, the end of
-their westward expansion. {{p|Egypt}} was saved. The Muslim
-heartland of {{p|Syria}} and {{p|Egypt}} remained independent.
-The Mamluks would rule for two centuries, a Turkic-Circassian custom.
+And {{x|Persian}} learning lived again: the hand
+Of Rashid al-Din, the vizier, wrote
+The great Jami al-Tawarikh, which spanned
+All realms, the first world history of note:
 
-The Ilkhanate settled into ruling {{p|Persia}} and {{p|Iraq}}.
-Over generations, the Mongol conquerors absorbed Persian
-culture, converted to {{x|Islam}}. Ghazan Khan in 1295 made
-{{x|Islam}} the state religion, reversing Mongol-Christian contenders.
+The Turks, Europeans, the Mongols' own,
+Indians and Chinese, for scholars came
+Within the Mongol peace, and all were shown
+From all those lands, and wrote down each by name.
 
-Under Ilkhanid rule, despite the initial devastation,
-Persian culture eventually revived. Rashid al-Din,
-the vizier of Ghazan, wrote the Jami al-Tawarikh,
-the first attempt at a universal history including all kingdoms in.
+The Ilkhanids' painting flowered, and blent
+With Chinese arts; the histories were made
+Illumined, three in one, as they were meant,
+The {{x|Mongol}}, Chinese, and {{x|Persian}}, inlaid.
 
-It included chapters on the Mongols, the Turks, Europeans,
-Indians, Chinese — an astonishing work of comparative
-history, made possible by the fact that scholars and
-informants from all these cultures had contact in the Mongol native.
+In the mid-fourteenth century, it fell
+Through heirs' disputes and the {{x|Black Death}}; and broke
+To Jalayirids, Muzaffarids as well,
+The Sarbadars, and each a separate folk.
 
-Persian miniature painting flowered under the Ilkhanids.
-Chinese artistic influence merged with Persian traditions.
-The great Persian historical manuscripts were illustrated
-with scenes that blended Mongol, Chinese, and Persian conditions.
-
-The Ilkhanate declined in the mid-fourteenth century
-due to succession disputes and the {{x|Black Death}}.
-It fragmented into regional dynasties: the Jalayirids,
-the Muzaffarids, the Sarbadars, each holding its breath.
-
-Out of this fragmentation would emerge Timur (Tamerlane)
-in the late fourteenth century, a Turco-Mongol conqueror
-from {{p|Transoxiana}} who would try to restore the
-{{p|Mongol Empire}} and create his own terror.
-
-But before Timur, the {{x|Black Death}} came. Plague had
-been endemic in the Mongolian steppes for centuries.
-The Mongol military connections carried it to the
-Crimean Genoese colony, thence to {{p|Europe}} through agencies.
-
-The pandemic would kill perhaps a third of {{p|Europe}}
-in the decade 1347-1351. It would also kill
-large portions of the Islamic world, {{p|China}}, {{p|India}}.
-It is the demographic catastrophe of the medieval bill.
-
-The deflationary polytheist sees the Mongol conquest
-of the {{p|Middle East}} as the greatest civilizational setback
-in Islamic history. The {{x|Abbasid}} {{p|Baghdad}} was never replaced.
-Islamic intellectual life moved to the margins, less pack.
-
-{{p|Cairo}} under the Mamluks, {{p|Samarkand}} under Timur,
-{{p|Delhi}} under the Sultans, {{p|Istanbul}} under the future Ottomans —
-these would be the new centers. But {{p|Baghdad}}'s
-three-quarters of a millennium of centrality was lost by Mongols.
+So mark it: of all {{x|Islam}}'s blows, the worst:
+{{x|Abbasid}} {{p|Baghdad}} never came again;
+{{p|Cairo}} and {{p|Samarkand}} and {{p|Delhi}} nursed
+What learning lived, out on the margins, then.
 
 
 # Chapter 207: The Mongols in China
