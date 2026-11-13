@@ -23,7 +23,7 @@ One season they filled every water there.
 His eldest sons were {{c|1695|Bichiros}} the first,
 Who kept the ancient body-plan most pure:
 His scales like plates of bony stone hard-cursed
-In fossil record—scales that would endure.
+In stone preserved—the scales that would endure.
 
 The bichirs in the deep {{p|African}} streams
 Still bear {{c|1695|Bichiros}}' ancient form today—
