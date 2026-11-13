@@ -731,255 +731,120 @@ The ancient covenant would not give way.
 
 # Chapter 231: Phoenicians of Zarahemla
 
-Now the epic turns its eye to the sea—
-Not the coastal creep of Lehi's first
-Migration, but the open and the free
-And terrifying crossing, the dispersed
+The epic turns its eye now to the sea:
+Not Lehi's coastal creep, the first one's way,
+But the open crossing, fearful and free,
+The ship that came out of the east one day.
 
-And ancient rumor of the ship
-That came from the east.
+Five hundred years before our era, when
+Sank all the {{p|Mediterranean}}'s rim;
+Phoenician sailors, who had been the men
+Who rounded {{p|Africa}} at Necho's whim,
 
-                            Five hundred years
-Before the common era, the lip
-Of the {{p|Mediterranean}} disappeared behind the shears
+And come back telling of the southern stars,
+The noon sun in the north; the ocean's son
+Turned west, not by empire; but the scars
+Of exile, when {{p|Jerusalem}} was done:
 
-Of the {{p|Atlantic}} wind, and the Phoenician
-Sailors—those who had already mapped
-The coasts of {{p|Africa}} by commission
-Of the pharaoh Necho, who had lapped
+For Nebuchadnezzar's armies broke the wall,
+And burned the {{x|Temple}}; and the Judean throng
+Was marched to {{p|Babylon}}; but yet not all;
+Some fled to {{p|Egypt}}, south; and some, along
 
-The continent entire and returned
-To tell of southern stars and the sun
-At noon in the north—these who had earned
-The title of the ocean's only son
+The coast, reached the Phoenician ports, and shore
+Of {{p|Sidon}} and of {{p|Tyre}}, whose sailors plied
+From {{p|Carthage}} out to {{p|Cornwall}}'s tin, and more,
+{{p|Canary Islands}} to the {{p|Black Sea}}'s side:
 
-Turned westward.
+Phoenician net against the world's last bound;
+And some, as the Mulekite record still tells,
+As {{p|Zarahemla}}'s keeps it, crossed. Built sound,
+Phoenician ship, with oar and sail, through swells,
 
-                  Not by imperial command
-This time—by exile, by the fall
-Of {{p|Jerusalem}} and the contraband
-Of the refugee's desperate call
+With pitch-caulked hull that poured through trough and crest,
+A thousand years of shipcraft in its frame;
+They sailed by stars: Polaris, and the rest,
+The {{x|Bears}}, the rising constellations' flame;
 
-To survive: when Nebuchadnezzar's armies
-Broke the walls and burned the {{x|Temple}}
-And marched the Judean swarmies
-Into {{p|Babylon}}'s ample
+{{p|Sidon}}'s sailors knew the {{p|Atlantic}}'s ways:
+The trade winds blowing west, the current true,
+The {{p|North Equatorial}}, which conveys
+Ships across, by mechanics, through and through.
 
-And humiliating captivity—
-Not all were taken. Some fled south,
-Some to {{p|Egypt}}'s receptivity,
-And some—so the tradition's mouth
+From the {{p|Canary Islands}} to the shore
+{{p|Caribbean}}, twenty-eight hundred miles;
+A bireme at five knots, with wind, no more
+Than twenty-three days, past the western isles;
 
-Reports—some reached the Phoenician ports
-Of {{p|Sidon}} and of {{p|Tyre}},
-Where the greatest sailors of the ancient courts
-Still plied the maritime empire
+Feasible, for a ship stocked to go round
+{{p|Africa}}, which Herodotus wrote down;
+A lesser feat. And there are signs, still found:
+{{p|Paraíba}}'s stone, found in {{p|Brazil}}'s green crown,
 
-That stretched from {{p|Carthage}} to {{p|Cornwall}}'s tin,
-From the {{p|Canary Islands}}' western edge
-To the {{p|Black Sea}}'s eastern discipline—
-The Phoenician net, the hedge
+Phoenician script; the Roman jars, dredged up
+From {{p|Guanabara Bay}}; and, in the slain,
+Embalmed Egyptian dead, the coca's cup
+And nicotine, uncrossed, none could explain.^[The Paraíba inscription from Brazil has been debated for well over a century and is widely held to be a forgery; the provenance of the Roman amphorae reported from Guanabara Bay is disputed; and the reports of cocaine and nicotine in Egyptian mummies are contested.]
 
-Against the known world's limits.
+Mulek, son of Zedekiah, the last
+Of {{p|Judah}}, fallen to {{p|Babylon}}; lit
+The scattering; Mulek escaped; and passed
+With the Phoenician sailors west; and it
 
-                                     And some—
-So the Mulekite tradition tells,
-So the {{p|Zarahemla}} record's sum
-Preserves in its fragmented parallels—
+The exile made a guest; and he would land
+On {{p|Mesoamerica}}'s coast; polyglot,
+Founded {{p|Zarahemla}}, the mixed, the grand,
+Where Israelite and sailor wed; their lot
 
-Some crossed.
+Joined the native; and the mingling carried
+The {{p|Mediterranean}}'s blood and tale
+Into {{p|Americas}}' veins, and married,
+Not as conquerors, but a quiet trail,
 
-               The Phoenician ship was built
-For the open sea: the bireme's oars
-And the square-rigged sail, the quilted
-And pitch-caulked hull that pours
+Too slow for history: the ship that beached,
+The sailors stayed; the children spoke the tongue
+Of mother, lost the father's; and, unreached,
+The trade-routes closed; and the memory hung
 
-Through the wave-trough and the crest
-With the confidence of a thousand years
-Of shipbuilding science—the west-
-Bound Phoenician knew no fears
+By lore's thin thread, till that was frayed and lost,
+And fragments stayed: we came out of the east,
+Across the great water; storm-tossed, we crossed
+In the destruction's time: memory's feast
 
-That the later European would profess:
-No flat-earth terror, no edge-of-the-world
-Delusion—the Phoenician's largesse
-Of navigational knowledge was unfurled
+A hundred nations kept it in their breast:
+The ship, the storm-tossed passage from the sea;
+Grandmother told the child, and, so possessed,
+The child the grandchild: fragile, wild, and free,
 
-Upon the stars: they sailed by Polaris,
-By the {{x|Bears}}, by the rising and the setting
-Of the constellations—the {{x|Paris}}
-Of the ancient world's maritime betting
+Our human memory. Honor the bold
+Phoenician sailor and Judean exile,
+Whose joy or desperation found, of old,
+The way between the known world and the isle
 
-Was {{p|Sidon}}, and her sailors knew
-The {{p|Atlantic}}'s moods: the trade winds
-That blew from east to west, the true
-And reliable current that the wind sends
+Unknown, the {{p|Mediterranean}}'s shore
+And {{p|Caribbean}}'s forest-mantled way;
+Honor {{p|Zarahemla}}, mixed, and its core:
+The meeting-place of east and west, where they
 
-Across the ocean—the {{p|North Equatorial}}
-Current, the same conveyor that would carry
-Columbus two millennia later, the editorial
-Of the ocean's physics, the ordinary
+Met, in the human story, plain and true:
+The sea does not divide; the sea connects;
+The oldest roads are salt and vast and blue;
+Our memory, with all its old defects,
 
-And repeatable mechanics of the crossing.
+Does not erase the voyages that went,
+Only the trace, the fragile record, crossed
+The ocean keeps, in wave dissolved and spent;
+The human spirit sails, it sails, though lost,
 
-Could they have crossed? The distance
-From the {{p|Canary Islands}} to the glossing
-Of the {{p|Caribbean}}'s first resistance
+Farther than cautious scholarship will grant;
+The sea remembers what the land forgets:
+That each coast was a stranger's shore; the plant
+Of foreign embers is the hearth that sets
 
-Of land is twenty-eight hundred miles—
-A Phoenician bireme making five
-Knots with favorable wind beguiles
-The passage in twenty-three days, alive
-
-And feasible, within the range
-Of a ship provisioned for the coast
-Of {{p|Africa}}'s circumnavigation—the strange
-And lesser challenge of the post
-
-Compared to the voyage Herodotus records.
-
-And the evidence? The whispers
-Of the anomalous: the {{p|Paraíba}} accords—
-The inscription found in {{p|Brazil}}'s twisters
-
-Of jungle, Phoenician script on stone
-That scholars have debated for a century
-And a half—the genuine or the overblown
-And forged—the sedimentary
-
-Layers of controversy that the academy
-Has never settled. The Roman amphorae
-Dredged from {{p|Guanabara Bay}}'s taxonomy
-Of silt—the terracotta's {{x|Hora}}
-
-And provenance disputed, the chain
-Of custody uncertain. The coca
-And tobacco traces in the Egyptian slain
-And mummified—the mocha
-
-And the nicotine that should not be there
-If no one crossed before Columbus,
-The botanical evidence that the fair
-And careful chemist's rumpus
-
-Cannot easily dismiss.
-
-                          The epic does not claim
-Certainty—the epic claims the kiss
-Of possibility, the flame
-
-Of the tradition that the Mulekites
-Preserved: that Mulek, son of Zedekiah,
-The last king of {{p|Judah}} whose plights
-And fall to {{p|Babylon}} lit the fire
-
-Of the diaspora—that Mulek escaped,
-That Phoenician sailors bore him west,
-That the voyage shaped and reshaped
-The refugee into the guest
-
-Of a new world, and that he landed
-On the coast of {{p|Mesoamerica}}
-And founded {{p|Zarahemla}}, the banded
-And polyglot {{p|America}}
-
-Of the mixed descent: the Israelite
-And the Phoenician sailor married
-Into the indigenous, the recondite
-And beautiful mingling that carried
-
-The genes and the stories of the {{p|Mediterranean}}
-Into the blood of the {{p|Americas}}—
-Not as conquerors but as the subterranean
-And quiet strand, the cameras
-
-Of history too slow to catch
-The individual thread that wove
-Itself into the fabric—the match
-Of the foreign and the native, the cove
-
-Where the ship beached and the sailors stayed
-And the children spoke their mother's tongue
-And forgot their father's, and the trade-
-Routes closed and the memory hung
-
-By the thinnest thread of oral lore
-Until even that was frayed and lost
-And only the tradition's store
-Of fragmentary memory embossed
-
-The record: "We came from the east,
-Across the great water, in the time
-Of the destruction—" the deceased
-And half-remembered rhyme
-
-Of the origin-story that a hundred
-Indigenous nations carried in their breast:
-The memory of the ship, the thundered
-And storm-tossed passage from the west-
-
-Ern sea—or was it the east?
-The directions blur in the oral
-Tradition's long decay, the least
-Reliable and the most coral
-
-And living of all the records: the story
-Told by the grandmother to the child
-Who tells it to the grandchild, the glory
-And the fragility of the wild
-
-And human memory.
-
-                     Honor the possibility—
-The Phoenician sailor and the Judean
-Exile whose felicity
-Or desperation found the median
-
-Between the known world and the unknown,
-Between the {{p|Mediterranean}}'s familiar shore
-And the {{p|Caribbean}}'s overgrown
-And forest-mantled corridor—
-
-Honor the tradition of {{p|Zarahemla}},
-The mixed city, the meeting-place
-Of the east and west, the umbrella
-Of the human story's commonplace
-
-And extraordinary truth: that the sea
-Does not divide—the sea connects,
-And the oldest roads are free
-And salt and vast, and the defects
-
-Of our memory do not erase
-The voyages we have forgotten—
-Only the evidence, the trace,
-The misbegotten
-
-And fragile record of the crossing
-That the ocean keeps in its indifferent
-And all-dissolving tossing
-Of the wave—the different
-
-And salt erasure of the proof
-That the human spirit, when it sails,
-Sails farther than the waterproof
-And cautious scholarship prevails
-
-To credit—and the sea remembers
-What the land forgets: that every coast
-Was once a stranger's shore, and the embers
-Of the foreign fire are the host
-
-And the foundation of the hearth
-That the native child inherits
-And calls home—the birth
-Of every people merits
-
-The stranger's gift, the sailor's hand,
-The exile's desperate and fertile seed
-Planted in the unfamiliar sand—
-And from that planting, a new creed,
-
-A new tongue, a new covenant is born.
+The native child at home; each people's birth
+Owes something to the stranger's gift, the hand,
+The exile's seed, sown in alien earth,
+Of sailor; and new creed and tongue would stand.
 
 
 # Chapter 232: Oaxaca's Lords
