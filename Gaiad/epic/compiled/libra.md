@@ -589,95 +589,90 @@ The *{{x|Praise of Ben Dorain}}*, made by his hand.
 
 # Chapter 288: Two Navigators
 
-The son of a farm labourer in {{p|Yorkshire}}, {{c|4076|James Cook}}, learned the sea
-On the coal ships out of {{p|Whitby}}, the flat-bottomed colliers, and taught himself
-The mathematics of the stars, and the charting of a coast, the key
-To the wars in {{p|Canada}}, where he sounded the {{p|St Lawrence}}, the shelf
+A {{p|Yorkshire}} labourer's son, {{c|4076|James Cook}}, learned
+The sea on {{p|Whitby}}'s coal colliers, and taught
+Himself the stars, and charting; and he turned
+To {{p|Canada}}'s {{p|St Lawrence}}, sounded, sought
 
-Of rocks the fleet would pass. So the {{x|Navy}} gave him a collier, renamed *{{x|Endeavour}}*,
-And sent him in 1768 to the far side of the world for an event:
-The planet {{c|95|Venus}} would cross the face of the {{c|99|Sun}}, and from {{p|Tahiti}}, the clever
-Men of the {{c|3974|Royal Society}} hoped, it could be timed, and the extent
+The rocks; the {{x|Navy}} gave a collier, named
+*{{x|Endeavour}}*, sixty-eight; sent him to see
+{{c|95|Venus}} cross the {{c|99|Sun}}; {{p|Tahiti}}, where, aimed,
+The {{c|3974|Royal Society}} hoped to be
 
-Of the solar system measured. That was the public order. The sealed one
-Said: then go south and find the great southern continent, if it is there.
-On board, a rich young botanist, {{c|4077|Joseph Banks}}, and with him the son
-Of a {{x|Swedish}} parson, {{c|4078|Daniel Solander}}, one of {{c|4012|Linnaeus}}'s apostles, to bear
+Timing the system; and the sealed command:
+Go south, and find the southern land, if meant;
+On board, rich {{c|4077|Joseph Banks}}, and, close at hand,
+{{c|4078|Daniel Solander}}, an apostle sent
 
-The names of everything new back to {{p|Uppsala}}'s system.
-On {{p|Tahiti}}, the transit was watched, and the timing failed, the planet's edge
-Blurred. And there they met the other navigator. The wisdom
-Of the {{p|Pacific}} came aboard: {{c|4079|Tupaia}}, a priest and a master of the ledge
+Of {{c|4012|Linnaeus}}, with his names; the transit, blurred,
+At {{p|Tahiti}}; there they met the other:
+{{c|4079|Tupaia}}, priest, master of the word,
+Waves, stars, from {{p|Raiatea}}; and a brother
 
-Of waves and stars, from {{p|Raiatea}}, the sacred island, who had been exiled
-By war, and chose to sail with the strangers. He drew for {{c|4080|Cook}}, from memory,
-A chart of seventy-four islands across three thousand kilometres, the wild
-Ocean his people had crossed and settled centuries before the memory
+Exiled by war, he sailed with them; and drew
+For {{c|4080|Cook}}, from memory, seventy-four;
+Three thousand kilometres; his folk knew
+That ocean, settled ages past; before
 
-Of any {{x|European}}: the greatest voyagers in the history of the world,
-Who had found and peopled every speck of land from {{p|Hawai'i}} to {{p|New Zealand}}
-To {{p|Rapa Nui}}, without instruments, by the swell, the stars, the curled
-Flight of the birds. And in {{p|Aotearoa}}, when the ship came, the stand
+Any {{x|European}}: the greatest ones
+To voyage: {{p|Hawai'i}}, {{p|New Zealand}}, found,
+{{p|Rapa Nui}}, no instruments; but suns
+And swells and birds; {{p|Aotearoa}}'s ground:
 
-Of the {{c|4081|Māori}} at the shore would not understand the {{c|4082|Englishmen}}, and {{c|4079|Tupaia}} spoke,
-And they understood him: the tongues were cousins. He was the bridge.
-{{c|4080|Cook}} charted the whole coast of {{p|New Zealand}} in six months, the cloak
-Of its outline exact, and sailed west, and in April 1770, the ridge
+The {{c|4081|Māori}} on the shore could not make out
+{{c|4082|Englishmen}}; {{c|4079|Tupaia}} spoke; they knew
+Him: cousin tongues; he was the bridge. Without
+A gap, {{c|4080|Cook}} charted all the coast; and through
 
-Of a new coast: the east of {{p|Australia}}. At {{p|Kamay}}, which he called {{p|Botany Bay}}
-For the plants {{c|4083|Banks}} and {{c|4084|Solander}} gathered, the {{c|4085|Gweagal}} men on the beach
-Shook their spears and told them to go. They shot one in the leg. The way
-Of it was written: {{c|4080|Cook}} went north and claimed the whole east coast, the reach
+Six months; sailed west; and April, seventy:
+A new coast, east {{p|Australia}}; at {{p|Kamay}}
+He called {{p|Botany Bay}}, for plants; the sea:
+The {{c|4085|Gweagal}} men shook their spears: "Go away";
 
-Of it, for the king, as if no one lived there. Later the law would say *no one's land*,
-And the oldest living cultures on earth, sixty thousand years
-On that continent, would be dispossessed by a flag and a hand.
-Hold that beside the chart. Then the reef: the ship tore open, the fears
+They shot one in the leg; and {{c|4080|Cook}} went far,
+And claimed the whole east coast for his own king;
+Then the reef tore the ship: the coral's scar
+Of mending; at {{p|Batavia}}, the sting
 
-Of the crew, the coral, the beaching, the repairs. And at {{p|Batavia}},
-The {{x|Dutch}} {{x|Company}}'s city, the fever took them: a third of the crew.
-And {{c|4079|Tupaia}} died there, in December 1770, of the miasma of
-The {{x|Company}}'s swamps, far from his islands, the navigator who knew
+Of fever, the {{x|Dutch}} {{x|Company}}'s; a third
+Of the crew died; and {{c|4079|Tupaia}}, too,
+In seventy's December; who had stirred
+More of the {{p|Pacific}} than that ship knew.
 
-More of the {{p|Pacific}} than any man on that ship.
-{{c|4080|Cook}} sailed on. Two more voyages: the first ship to cross the {{p|Antarctic Circle}},
-In 1773, in the *{{x|Resolution}}*, with a copy of {{c|3652|Harrison}}'s clock, the grip
-Of longitude finally in a navigator's hand; no great southern continent, the circle
+{{c|4080|Cook}} sailed on: the {{p|Antarctic Circle}} passed,
+Seventy-three, the *{{x|Resolution}}*; kept,
+A {{c|3652|Harrison}} clock: longitude at last;
+No southern continent: ice round; he swept
 
-Of ice all the way round. He kept his men from scurvy with sauerkraut
-And fresh greens, and lost almost none to it. That was his care.
-And the third voyage, to find a passage over {{p|America}}: and out
-Of the ocean, in 1778, the islands of {{p|Hawai'i}}, the fair
+Scurvy away with sauerkraut and greens,
+Lost almost none; that was his care; and then
+The third voyage, a passage, by all means,
+Past {{p|America}}; seventy-eight; when
 
-And populous kingdom, and in January 1779 the ship came into {{p|Kealakekua}}
-In the season of the {{c|4086|Makahiki}}, the festival of {{c|4087|Lono}}, the god of the harvest,
-And the people came out in thousands. Whether they took him for the god, a
-Quarrel of historians still: one says yes, one says the farthest
+{{p|Hawai'i}}'s islands rose, a kingdom, fair;
+Seventy-nine: {{p|Kealakekua}}: came,
+In {{c|4086|Makahiki}}, {{c|4087|Lono}}'s season; there
+Thousands came out, and hailed him by that name:
 
-Thing from it, that the islanders were never so foolish; hold both.
-He left, and a mast broke, and he came back, out of season,
-And things went wrong: a stolen boat, a chief taken hostage, the oath
-Of the crowd, a fight on the shore, and on the fourteenth of February, the reason
+{{c|4087|Lono}} returned. He left; a mast broke; back
+He came, out of season; and things went wrong:
+A stolen boat; a chief, hostage; the track
+Of the crowd's fight on shore; and, before long,
 
-Of it lost in the noise, {{c|4080|Cook}} was struck down in the shallows, and killed.
-The joining of the world, again: the greatest sailor of one people,
-And the greatest of another, who died in the {{x|Company}}'s fever. The chart {{c|4079|Tupaia}} filled
-With his islands is in the {{x|British Library}}. Hold it like a steeple:
+February fourteenth, in shallows, killed.
+The joining: one folk's greatest sailor, and
+Another's greatest, whom the fever filled,
+Dead in the {{x|Company}}'s swamps; his own hand
 
-The knowledge was there before the ships. The ships took it, and named it,
-And sometimes honoured it, and often did not. {{c|4080|Cook}} was a careful man,
-And his voyages brought the flags, the guns, the measles that maimed it,
-The {{x|Hawaiian}} people halved in fifty years. {{c|4079|Tupaia}}'s plan
+Drew the chart in the {{x|British Library}};
+The knowledge was there first; the ships took, named,
+Honoured sometimes, often not; memory
+Of stars and swells, the canoes of old, famed;
 
-Was to see the far lands his people had once known. He saw them, and died.
-Honour both navigators. And when you look at a map of the {{p|Pacific}},
-See the voyaging canoes on it, the stars they steered by, the tide
-They read, centuries before the *{{x|Endeavour}}*. That map is the specific
-
-Glory of the human race: we crossed the largest ocean on the earth
-With wood and memory and courage. Say {{c|4079|Tupaia}}'s name with {{c|4080|Cook}}'s.
-The first chart of the {{p|Pacific}} was drawn by the people of its birth.
-Hold the chart. Hold the spear on the beach. Read both books.
+The largest ocean crossed with wood, with mind,
+With courage; say {{c|4079|Tupaia}}'s name, {{c|4080|Cook}}'s;
+The first chart of the {{p|Pacific}}, designed
+By those it bore; hold chart and spear; both books.
 
 
 # Chapter 289: Buried Sunlight
