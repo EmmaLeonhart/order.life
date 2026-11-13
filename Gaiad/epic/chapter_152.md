@@ -56,7 +56,7 @@ But for the law code, written, and not torn,
 The {{p|Code of Hammurabi}}, which he bore:
 
 Two hundred eighty-two laws, on a tall
-Stele, seven and a half feet high, whose face
+Stele, seven and a half feet, whose face
 Of black diorite, standing over all,
 Took in {{p|Akkadian}} the wedge-marks' trace.
 
@@ -242,7 +242,7 @@ To its first synthesis: the famous code.
 
 And from that day it passed to every land,
 And then through them to us, here, in our day.
-The bearded king on the black stele will stand
+The bearded king on black stele will stand
 Before the sun-god, taking, as he may,
 
 The law from him. The law is still to read;
