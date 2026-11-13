@@ -2260,306 +2260,255 @@ Era and the start of another.
 
 # Chapter 152: Hammurabi — Law and the Old Babylonian Empire
 
-When {{p|Ur}} had fallen, in the years since then
-{{p|Mesopotamia}} broke up again.
-The {{p|Amorite}} nomads, a people who
-Spoke a {{p|Semitic}} tongue, had trickled through
+When {{p|Ur}} had fallen, in the years since then,
+{{p|Mesopotamia}} would break apart;
+The {{p|Amorites}}, {{p|Semitic}}-speaking men,
+Had trickled in, and came to play their part
 
-The late {{p|Ur III}}; across the region they
-Became the new ruling class that held sway.
-{{p|Amorite}} kings took crowns, in town on town,
-The {{p|Tigris-Euphrates}} vale, up and down.
+Across the region as the ruling class;
+{{p|Amorite}} kings took crowns in town on town,
+{{p|Tigris-Euphrates}}' vale; and it would pass
+That they held sway there, all the valley down.
 
 Down in the south {{p|Isin}} and {{p|Larsa}} fought
-For supremacy, the prize each one sought;
-{{p|Mari}}, {{p|Eshnunna}}, {{p|Assur}}, in their spheres,
+For supremacy; {{p|Mari}}, in its spheres,
+{{p|Eshnunna}}, {{p|Assur}}, each one, as it sought,
 Carved out the north and east among their peers.
 
 One small {{p|Amorite}} city-state, unknown
-For long, began to rise. {{p|Babylon}}'s own
-Name comes from the {{p|Akkadian}} for "Gate
-Of {{c|472|God}}," {{c|2020|Babilim}}; for ages its state
+For long, began its rise: {{p|Babylon}}'s name
+Is {{c|2020|Babilim}}, the {{p|Akkadian}}, known
+As "Gate of {{c|472|God}}"; and long it stayed the same,
 
-Was a provincial center, modest, long.
-Its {{p|First Dynasty}} at last made it strong,
-Founded near nineteen hundred B.C.E.;
+Was a provincial center, modest, long;
+Its {{p|First Dynasty}}, near the time when we
+Count nineteen hundred, came and made it strong;
 Its sixth king made it an empire: he,
 
 {{c|1919|Hammurabi}}. He held the throne about
-Seventeen ninety-two to seventeen
-Fifty B.C.E.; and he would have seen
-Forty-two years, a long reign, and throughout
+Seventeen ninety-two, for forty-two
+Years, to seventeen fifty; and throughout
+Decisive, as his long reign carried through.
 
-Decisive. His first decades made his hold
-At home secure; with neighbors he enrolled
-Allies, through diplomacy. And he made
-Reforms in administration, and laid
+His first decades made sure, at home, his hold;
+With neighbors he made allies, through the art
+Of diplomacy; and, as kings of old,
+Reformed the rule, laid temples; for his part
 
-The temples' walls anew; and further led
-Canals across the land. As a king, read
+He led canals across the land. A king
 By {{p|Mesopotamian}} kingship's ways,
-Patient, methodical. Then, in the days
+Patient, methodical in everything;
+Then, in his reign's second half, in those days,
 
-Of his reign's second half, he struck. A run
-Of swift campaigns brought rivals one by one
-Down: {{p|Larsa}} fell, {{p|Eshnunna}}, {{p|Mari}} fell.
-By his reign's end, the realm he held would swell,
+He struck. A run of swift campaigns brought down,
+One after one, the rivals: {{p|Larsa}} fell,
+{{p|Eshnunna}}, {{p|Mari}}; and his realm, his crown,
+By his reign's end, would come to grow and swell,
 
 Larger than any realm since on the throne
-{{c|1969|Sargon of Akkad}} sat, six hundred years
-Before. The {{p|Tigris-Euphrates}}' frontiers
-He joined as one, and made the vale his own
+{{c|1969|Sargon of Akkad}} sat, and long before;
+He joined {{p|Tigris-Euphrates}} as his own,
+By {{p|Babylonian}} rule, and no more
 
-By {{p|Babylonian}} rule, no more torn;
-The {{p|Old Babylonian}} realm was born.
-Today his name is not for conquest known,
-But for the law code, written down in stone:
+Torn; {{p|Old Babylonian}} rule was born.
+His name is known today not for his war,
+But for the law code, written, and not torn,
+The {{p|Code of Hammurabi}}, which he bore:
 
-The {{p|Code of Hammurabi}}. There, in all,
 Two hundred eighty-two laws, on a tall
-Stele seven and a half feet, whose face
-Of black diorite took the wedge-marks' trace
+Stele, seven and a half feet high, whose face
+Of black diorite, standing over all,
+Took in {{p|Akkadian}} the wedge-marks' trace.
 
-In {{p|Akkadian}}. It was raised to stand
-In {{c|2021|Marduk}}'s temple, {{p|Babylon}}, and spanned
-Public places through the empire's land,
-So citizens could see, and understand
+It stood in {{c|2021|Marduk}}'s temple; in the sun,
+Of public places through the realm, as planned,
+So citizens could see it, every one,
+Their rights and obligations, understand.
 
-Their rights and obligations. At the crown
-Of the stele, {{c|1919|Hammurabi}} looks down
+And at the crown, {{c|1919|Hammurabi}} looks down,
 And stands before the sun-god, {{c|2022|Shamash}}, lord
-Of justice, from whose hand the law is poured.
+Of justice, and receives the law, the crown
+Of law, from whose own hand the law is poured:
 
-The king receives it from the hand divine:
-The first great icon in a lasting line
-Of law as gift. He claims the code is not
-His own invention, but a thing he got,
+The king receives it from the hand divine,
+The law as gift, not his own work, but sent
+From heaven's will, the first in a long line,
+Transcribed from heaven, as the heavens meant.
 
-Transcribed from heaven's will. The god will give
-The law; the king transmits it; all who live
-Beneath obey it. This, the cosmic claim
-Of every later code that bore the name
+The god will give the law; the king will bring
+It down to earth, the messenger; and all
+Obey it, for the law's a sacred thing,
+A cosmic order, which outranks the call
 
-Of law in the {{p|Near East}}: law has its birth
-In the divine; the ruler on the earth
-Is but the messenger; the social frame
-Reflects a cosmic order, which first came
+Of any human might or human sight.
+And what the {{p|Code}} contains: the law laid clear,
+{{p|lex talionis}}, made explicit, right,
+"An eye for an eye," as its words appear:
 
-Before it, and outranks the right and might
-Of any human authority's sight.
-And what the {{p|Code}} contains is striking. Some
-Of its laws, judged by modern standards, come
+If someone blinds another, his own eye
+Is lost in kind; if one should break a bone
+In another's body, his own, thereby,
+Is broken: so the law is set in stone.
 
-Out brutal: {{p|lex talionis}}, made clear
-Explicitly; in it these words appear:
-"An eye for an eye." If someone should blind
-Another, his own eye is lost in kind.
-
-If one breaks a bone in another's frame,
-His own bone shall be broken, just the same.
 The punishments are graded, too, by class:
-Penalties for crimes on nobles surpass
-
-Those on commoners; harm to slaves is weighed
+For nobles, more; for commoners, less weighed;
+And harm to slaves, in law, would come to pass
 As damage done to property, and paid.
-The {{p|Code}} is far from equal: stratified
-And hierarchical, the pains it applied
 
-Often gruesome. But it was, in its day,
-An advance: law in writing, on display,
-Posted through the empire, town by town,
-For each literate citizen. Set down,
+It was, in its own day, a new display:
+The law in writing, posted, town by town,
+Throughout the realm, and there for all, the way
+For every reader to read it, set down;
 
 It checked the judges' arbitrary hand,
-And local magistrates', at their command.
-Procedural protections, too, it made:
-False charges drew a penalty; it bade
-
+And magistrates'; protections, too, it made:
+False charges drew a penalty; it planned
 That witnesses must testify, and weighed
-The evidence. Protections it conveyed
-For women: marriage contracts; a set course
-In divorce; and inheritance. Its force
 
-Reached business too: commercial contracts, shares
-In partnerships, the debts, and what one bears
-For damage, liability. Not pains
-Alone; a comprehensive frame sustains
+The evidence; for women, too, conveyed
+Protections: marriage contracts; a set course
+In divorce, and inheritance; and laid
+On business, too, its comprehensive force:
+
+Commercial contracts, partnerships, and shares,
+The debts, and liability, and pains
+For damage; and for all of these, it bears
+A comprehensive frame, which it sustains,
 
 The working of a complex urban place,
-A whole commercial society's base.
-It is remembered, too, because it stands
-Among the oldest codes in human hands
+A whole commercial order, and its ground;
+And it is of the oldest, in the race
+Of codes, in human hands preserved and found
 
-Preserved in full. {{c|2011|Ur-Nammu}}'s law code came
-Three hundred years before it; and the same
-Is true of {{p|Code of Lipit-Ishtar}}, made
-By an earlier {{p|Isin}} king. Yet weighed
+In full. {{c|2011|Ur-Nammu}}'s law code came before,
+By three hundred years; {{p|Lipit-Ishtar}}'s, made
+By {{p|Isin}}'s king; but {{c|1919|Hammurabi}}'s, more
+Complete, preserved, is foremost, and is weighed
 
-Against them, {{c|1919|Hammurabi}}'s is the most
-Complete preserved example; and the host
-Of later codes and laws has borne its sign:
-Through the {{p|Assyrian}} codes and the line
+As the most whole of all. And it has passed
+Its sign to every later code of law;
+And still, today, its mark is holding fast:
+Each written, public code, that all men saw.
 
-Of {{p|Neo-Babylonian}}; and through
-The {{p|Persian}} imperial law; and, too,
-Through the {{p|Hebrew}} {{x|Bible}}'s {{p|Mosaic}} law
-(In which marked parallels to him we saw);
+And {{c|1919|Hammurabi}}, {{c|1308|Abraham}}'s own kin,
+His cousin: both were {{c|1876|J}}, {{p|Semitic}} men;
+Both came of {{p|Amorite}} migrations, in
+The land reshaped, and both descended then
 
-Through {{p|Roman}} law, and onward: it's the root.
-Each legal system that descends, as fruit,
-From the ancient {{p|Near East}} still bears the mark
-Of {{c|1919|Hammurabi}}'s influence: each stark
+From one {{p|Semitic}} pool of forebears, spread,
+Once {{p|Ur III}} had fallen, through the lands;
+Two cousins of one time, of one house bred,
+One tongue, one region, one moment, two hands.
 
-"Eye for an eye." Each written, public code.
-Each claim that law, from heaven, is bestowed.
-In the {{x|Gaiad}}, {{c|1919|Hammurabi}} has been
-{{c|1308|Abraham}}'s own cousin. Not in the thin
-
-Sense of the blood, for there might well divide
-Them by a century or more; but wide,
-The kinship that the {{x|Gaiad}} would apply,
-The broad genealogical. Thereby
-
-Both are {{c|1876|J}}-haplogroup {{p|Semitic}} men;
-Both came of {{p|Amorite}} migrations, when
-The land was reshaped, early in the run
-Of the second thousand years B.C.E.;
-And both, at some remove, descend from one
-{{p|Semitic}} pool of forebears, who would be
-
-Spread, after {{p|Ur III}} fell, across the lands.
-In culture, as the {{x|Gaiad}} understands,
-They're cousins of one time, or near the same,
-Who shared one haplogroup, one language frame,
-One region, and one moment when they came.
-
-Both, post-{{p|Sumerian}}, are figures in
-The {{p|Semitic}} ascendancy, within
-{{p|Mesopotamia}}; and both began
-Traditions lasting millennia's span.
+Both, after {{p|Sumer}}, are the figures, then,
+Of the {{p|Semitic}} rise within the land,
+{{p|Mesopotamia}}'s; and both, as men,
+Began traditions that would long, long stand.
 
 And there's a lesson in the contrast, too:
-{{c|1308|Abraham}}'s a nomad, wandering through,
-A man who leaves his city for the tent;
-While {{c|1919|Hammurabi}}, city-king, is bent
+{{c|1308|Abraham}} is a nomad, and he went
+Out of the city, wandering it through,
+And left its walls behind him for the tent;
 
-On building walls, a man who codifies
-The urban law. A faith is what will rise
-From {{c|1308|Abraham}}; a legal system grows
-From {{c|1919|Hammurabi}}. One's legacy shows
+While {{c|1919|Hammurabi}}, city-king, would build
+The walls, and codify the urban law;
+From {{c|1308|Abraham}} a faith, as heaven willed,
+From {{c|1919|Hammurabi}}, law, which cities saw.
 
-The worship of one god, whom none can see;
-The other's, a code, the written decree
-That binds the city's people to their due:
-Two ways in which civilization grew.
+One's legacy, the worship of one god,
+Whom none can see; the other's, the decree
+That binds the city's people, and its rod;
+Two ways civilization came to be.
 
 Two cousins, where {{c|1907|J1}} and {{c|1908|J2}} part,
-Each on a different path. One seeks the heart
-Of desert, going south behind his sheep;
+Each on another path: one with his sheep
+Goes south, and seeks the desert's very heart;
 The other reigns where brick-built ramparts keep
 
 The city, gate-of-god. One shall become
-Monotheism's patriarch; and from
-The other comes the code, the one that men
-Two thousand years would copy, and again
+Monotheism's patriarch; the code
+The other's, which men copied; and the sum:
+Both men who matter, each upon his road.
 
-Adapt it. Both stand, former and latter;
-Both, says the {{x|Gaiad}}, are men who matter.
 {{c|1919|Hammurabi}}'s empire did not last:
-Within a generation, once he'd passed,
-
-Succession struggles weakened {{p|Babylon}}.
+Succession struggles weakened {{p|Babylon}}
+Within a generation, once he'd passed;
 His son, {{c|2023|Samsu-iluna}}, then took on
+
 Rebellions through the realm. Down in the south
-The provinces seceded; at the mouth
+The provinces seceded; and instead,
+Where marshes spread, at the {{p|Persian Gulf}}'s mouth,
+The {{p|Sealand Dynasty}} rose up, and led.
 
-Of the {{p|Persian Gulf}}, where the marshes spread,
-The {{p|Sealand Dynasty}} rose up instead.
 Then, in fifteen ninety-five B.C.E.,
-The {{p|Hittites}}, whose own chapter's yet to be,
+{{p|Hittites}}, {{x|Indo-European}}, came down
+From {{p|Anatolia}}, by their decree,
+And raided {{p|Babylon}}, and sacked the town;
 
-{{x|Indo-European}}, came down upon,
-Out of {{p|Anatolia}}, {{p|Babylon}}
-Itself; they raided it, and sacked the town;
-They carried {{c|2021|Marduk}}'s statue off. And down
-Went all the {{p|Old Babylonian}} crown.
+They carried {{c|2021|Marduk}}'s statue off; and down
+Went {{p|Babylon}}'s great might, which none could mend;
+And all the {{p|Old Babylonian}} crown
+Was broken, though the statue, in the end,
 
-The statue was recovered in the end;
-Yet broken was the might of {{p|Babylon}}.
-A dynasty, the {{p|Kassites}}, then came on
-To power; and their rule would not extend
+Came back; a dynasty, the {{p|Kassites}}, came
+To power; four centuries they would hold
+The land, in looser rule, and not the same;
+And {{p|Babylon}} remained a city, old,
 
-So far: four centuries they held the land,
-In looser, less expansionist command.
-{{p|Babylon}} went on as a city still;
-Its imperial age was over, till,
+Its age of rule was over; but the code,
+His legacy, would last, and long, past all
+The realm's collapse; was copied, read, and showed,
+And studied, cited, after the realm's fall;
 
-A thousand years on, its glory regained,
-For a while, when {{c|2024|Nebuchadnezzar}} reigned,
-{{p|Neo-Babylonian}}. What remained
-
-Was {{c|1919|Hammurabi}}'s legacy, to last
-Past the collapse: long after the realm passed,
-The code was copied, cited, studied, read;
 {{p|Mesopotamian}} kings, later, said
+That they were his own legal heirs; the schools
+Of scribes would teach his code, and it was read,
+A text, a written text, of written rules;
 
-They were his legal heirs. The scribal schools
-Taught with his code, a text of written rules.
 And through the {{p|Near East}}, buried in the ground,
-Copies of it, from later times, are found
+Its copies, from the later times, remain;
+He'd done what {{c|1970|Sargon}} did, a template found
+For later kings, but in law's own domain:
 
-In contexts centuries after his reign.
-He'd done what {{c|1970|Sargon}} did, in the domain
-Of politics: a template that was made
-For later kings to copy; but he laid
-His in the register of law, and not
-Imperial administration's lot.
+{{c|1970|Sargon}}, the first of emperors; and he,
+{{c|1919|Hammurabi}}, the prototype of law,
+The legislator; and, as time would see,
+The realm fell; but the law outlived its awe.
 
-{{c|1970|Sargon}}: prototype emperor. And he,
-{{c|1919|Hammurabi}}, the prototype, would be
-Legislator. And the empire fell
-Faster than did the law, as time would tell.
+And now it stands inside the {{p|Louvre}}, where
+A traveler may stand and read it, keen,
+As it once was: {{p|Akkadian}}, laid bare,
+Cut in cuneiform, so clear and clean,
 
-Later, invading, the {{p|Elamites}} bore
-The stele to {{p|Susa}} as plunder. For
-It stood in {{p|Susa}} for three thousand years,
-Before, nineteen-oh-one, it reappears,
-
-Found by {{p|French}} archaeologists. It's in
-The {{p|Louvre}} now; a traveler may begin
-To read it, standing there, as it had been:
-
-{{p|Akkadian}} cuneiform, incised
 In the black diorite, the laws comprised,
-Two hundred eighty-two, by which his whole
-Realm stood in order, under his control.
+Two hundred eighty-two, by which the whole
+Of his realm stood in order, organized
+And standing under his own just control.
 
 The text's still legible; and of the great
-Old monuments of the {{p|Near East}}, the state
-Of few is better kept. The laws, as well,
-Are, many times, still laws that one can tell,
-Still tied by chains of text and thought; they reach
-The legal codes of modern nations, each.
+Old monuments, it is among the best
+Preserved of all the {{p|Near East}}; and its weight,
+Its laws, still reach the codes of all the rest,
 
-{{c|1919|Hammurabi}} of {{p|Babylon}}. The kin,
-{{c|1876|J}}-haplogroup, of {{c|1308|Abraham}}; and in
-The {{p|Old Babylonian}} house, the head,
-Its emperor; the author or, instead,
+The modern nations' codes, and every one,
+Tied still by chains of text and thought today.
+{{c|1919|Hammurabi}} of {{p|Babylon}}, the son
+Of {{c|1876|J}}, and {{c|1308|Abraham}}'s own kin; the way,
 
-Promulgator of the most famous code
-The ancient world had; he, through whom it flowed:
-The {{p|Mesopotamian}} legal way
-Reached its first great synthesis; from that day
+The {{p|Old Babylonian}} house's head
+And emperor, the one through whom it flowed,
+And {{p|Mesopotamia}}'s law, which led
+To its first synthesis: the famous code.
 
-Passed on to every {{p|Near Eastern}} nation,
-And then through them to our generation.
-The bearded king on the black stele stands
-Before the sun-god, taking from his hands
+And from that day it passed to every land,
+And then through them to us, here, in our day.
+The bearded king on the black stele will stand
+Before the sun-god, taking, as he may,
 
-The law. The law is legible today;
-The king, too. Long the realm has passed away.
-Black diorite still holds what once he showed:
-{{c|1919|Hammurabi}}. {{p|Babylon}}. And the {{p|Code}}.
+The law from him. The law is still to read;
+The king, too, though the realm did not live on;
+Black diorite still holds, and holds indeed,
+{{c|1919|Hammurabi}}, the {{p|Code}}, and {{p|Babylon}}.
 
 
 # Chapter 153: The Middle Kingdom
