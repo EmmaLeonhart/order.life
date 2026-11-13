@@ -29397,269 +29397,125 @@ And {{p|Troy}}, and those who burned and sailed away.
 
 # Chapter 161: Fall of Shang
 
-While the {{p|Mediterranean}} collapses, in the east, another civilization
-Is also transforming. The {{p|Shang Dynasty}} of {{p|China}}, which has ruled
-The {{p|Yellow River}} valley for nearly six centuries, falls to a rising
-Power from the west: the {{p|Zhou}}.
+And while the west was breaking, in the east
+The {{p|Shang}}, who ruled the {{p|Yellow River}}'s plain
+Six hundred years, would fall, its glory ceased,
+And from the west the {{p|Zhou}} would come to reign.
 
-                                     The {{p|Shang}}, as the {{x|Gaiad}} has
-Already noted, were the first historically documented {{p|Chinese}}
-Dynasty. Their capital shifted several times, but the last and
-Greatest was {{p|Yin}} or {{p|Anyang}}, in what is now {{p|Henan Province}}.
+At {{p|Yin}}, the last seat, at {{p|Anyang}}, ruled
+The {{p|Shang}} kings, and they buried with their dead
+The bronze, the jade, the silk, the lacquer, tooled
+With care, and hundreds, slain to go ahead.
 
-There the {{p|Shang}} kings ruled, divined, sacrificed, and buried their
-Dead with astonishing quantities of grave goods: bronze ritual
-Vessels, jade ornaments, silk, lacquerware, and—in the royal tombs—
-Human sacrifices numbering in the hundreds. {{p|Shang}} society was
+The king's work was to speak with those before,
+His fathers, who would speak to {{c|2147|Shang Di}}, high,
+The {{c|2148|Lord on High}}; and so he'd ask, and pour,
+And write his question, and await reply
 
-Stratified, ceremonial, and oriented toward an elaborate ancestor
-Cult. The king's main duty was to communicate with the royal
-Ancestors, who in turn communicated with the supreme deity {{c|2147|Shang Di}}
-(the "{{c|2148|Lord on High}}"). The divination method used pyro-osteomancy:
+On oxen's shoulder-blades and turtle shells,
+Which then were heated till they cracked, and read;
+The {{p|Oracle Bone Script}}, whose writing tells
+Of hunts and wars, the weather, dreams, the dead.
 
-Questions were inscribed on ox scapulae or turtle plastrons, which
-Were then heated until they cracked; the cracks were read as
-Responses from the ancestors. These inscriptions—the so-called
-{{p|Oracle Bone Script}}—constitute the earliest written {{p|Chinese}}
+The king was not a god, but stood between;
+His calendar of rites was the state's frame;
+His steppe-born chariots, of bronze, were seen
+With warriors in their hundreds when war came.
 
-Language, and they survive in the tens of thousands. They record
-Royal hunts, military campaigns, ritual sacrifices, weather
-Forecasts, dream interpretations. They give us intimate access to
-The {{p|Shang}} mind. The {{p|Shang}} king was not quite a god but a privileged
+But {{c|2149|Di Xin}}, the last king, grew cruel and vain:
+He made a lake of wine, a wood of meat,
+And made his foes walk on a greased bronze chain
+Above the coals, to fall into the heat;
 
-Intermediary. The {{p|Shang}} state was organized around his ritual
-Calendar. And the {{p|Shang}} military was a formidable force, operating
-Chariots (introduced from the western steppe, probably via the
-{{p|Indo-European}} or {{p|Tocharian}} transmission that the {{x|Gaiad}} will
+And he and {{c|2151|Daji}}, whom he loved, would laugh;
+For {{c|2151|Daji}} was a fox-spirit, who wore
+A woman's body, and she led him half
+To ruin, and he ruled by her, and more.
 
-Return to later), bronze weapons, and professional warriors.
+His taxes and his labor crushed the land;
+His wars were lost; the rites he did not keep;
+And on the west, beneath the {{p|Shang}}'s own hand,
+The {{p|Zhou}} grew strong, while {{p|Shang}} was half asleep.
 
-                                                               By
-The twelfth century BCE, however, the {{p|Shang}} had grown decadent.
-The last {{p|Shang}} king, {{c|2149|Di Xin}} (also known as {{c|2150|Zhou Xin}}, though this
+The {{p|Zhou}} held the {{p|Wei River}}'s vale, and they
+Had ties to western peoples, to the {{p|Qiang}};
+But took {{p|Shang}}'s writing and {{p|Shang}}'s rites, their way,
+And kept their own: and from {{c|2152|Hou Ji}} they sprang,
 
-Creates confusion with the {{p|Zhou Dynasty}} name—the characters are
-Different), was remembered by later tradition as a tyrant of
-Almost Neronian proportions. He built a "lake of wine and forest
-Of meat" for his debauches. He invented cruel punishments for his
+The {{c|2153|Lord of Millet}}, father of the grain;
+And {{c|2154|King Wen}}, the {{c|2155|Accomplished King}}, would bind
+The lords against the {{p|Shang}}, but did not strain
+To war; his son, {{c|2156|King Wu}}, was of war's mind.
 
-Enemies, including the "cannon of roasting" in which victims were
-Forced to walk across a greased bronze pole suspended over a pit
-Of burning coals; when they inevitably fell, the tyrant and his
-Favorite concubine {{c|2151|Daji}} would laugh. {{c|2151|Daji}} was said to be a
+And {{c|2157|Jiang Ziya}}, the fisherman, the sage,
+Whom {{c|2154|King Wen}} found beside the river, rose
+The greatest strategist of all the age;
+His {{p|Six Secret Teachings}} told how war goes.
 
-Fox spirit possessing a human body, and her influence on {{c|2149|Di Xin}}
-Was held responsible for the moral collapse of the dynasty. The
-Details are almost certainly exaggerated, written by later {{p|Zhou}}
-Historians to justify their conquest, but some kernel of truth
+They bound the lords of {{p|Shang}} who were aggrieved,
+And kept a name for virtue, and waited;
+And when the time was right, as they believed,
+{{c|2156|King Wu}} marched forth, at the moment fated.
 
-Likely survives. The {{p|Shang}} state had become oppressive. Its
-Taxation and labor demands were ruinous. Its military campaigns
-Had become defensive and ineffective. Its ritual legitimacy was
-Crumbling. And on the western frontier, a subordinate people, the
+At {{p|Muye}}, close by {{p|Yin}}, the two armies met;
+The {{p|Shang}} men turned their spears and joined the {{p|Zhou}};
+{{c|2149|Di Xin}} fled to his palace, and there set
+It all aflame, and he died with it too.
 
-{{p|Zhou}}, were growing in strength.
+And so the {{p|Shang}} was ended; and {{c|2156|King Wu}}
+Came into {{p|Yin}}, and honored those who fell,
+And founded {{p|Zhou}}, the longest house, and true,
+That ruled eight hundred years, and ruled them well.
 
-                                        The {{p|Zhou}} were originally a
-Client state of the {{p|Shang}}, ruling the {{p|Wei River}} valley in what
-Is now {{p|Shaanxi Province}}. They were probably ethnically distinct
+{{c|2156|King Wu}} died young; his brother, {{c|2160|Duke of Zhou}},
+Was regent for his son, and he made known
+The {{p|Mandate of Heaven}}, why rule was due
+To {{p|Zhou}}, and not by force of arms alone.
 
-From the {{p|Shang}}—some scholars have proposed that they had {{p|Qiang}}
-Or {{p|Tibeto-Burman}} ancestry, or at least significant cultural ties
-To western populations. But by the twelfth century BCE they had
-Adopted {{p|Shang}} writing, {{p|Shang}} ritual forms, and {{p|Shang}} political
-
-Structures, while retaining their own distinctive identity. The
-{{p|Zhou}} traced their lineage to {{c|2152|Hou Ji}}, the "{{c|2153|Lord of Millet}}," an
-Agricultural culture hero. Their leadership in the eleventh
-Century was exercised first by {{c|2154|King Wen}} (the "{{c|2155|Accomplished King}}"),
-
-Who spent his life building coalitions against the {{p|Shang}} without
-Openly rebelling; and then by his son {{c|2156|King Wu}} (the "Martial King"),
-Who led the final military campaign. And they were advised by a
-Figure of enduring legendary importance: {{c|2157|Jiang Ziya}}, also known
-
-As {{c|2158|Taigong Wang}} or {{c|2159|Jiang Taigong}}, a fisherman-sage whom {{c|2154|King Wen}}
-Discovered by a river and recognized as the greatest strategist
-Of the age. {{c|2157|Jiang Ziya}}'s military treatise, the {{p|Six Secret Teachings}},
-Became one of the foundational {{p|Chinese}} military classics. The
-
-{{p|Zhou}} prepared carefully. They built alliances with disaffected
-{{p|Shang}} vassals. They cultivated a reputation for virtue and
-Righteousness that contrasted with {{c|2149|Di Xin}}'s cruelty. They waited
-For the right moment.
-
-                         That moment came around ten-forty-six BCE—
-The date established by the {{p|Xia-Shang-Zhou Chronology Project}}
-Completed in two-thousand CE, using a combination of astronomical
-Calculations, radiocarbon dating, and textual analysis. {{c|2156|King Wu}} led
-
-A {{p|Zhou}} coalition army to the {{p|Battle of Muye}}, just outside the
-{{p|Shang}} capital at {{p|Yin}}. Here the {{p|Zhou}} forces decisively defeated
-The {{p|Shang}} army—though tradition holds that many {{p|Shang}} soldiers
-Defected on the battlefield, reversing their weapons and joining
-
-The {{p|Zhou}}. {{c|2149|Di Xin}} fled back to his palace, set it on fire with
-Himself inside, and perished. The {{p|Shang Dynasty}} ended. {{c|2156|King Wu}}
-Entered {{p|Yin}}, ritually acknowledged the fallen dynasty, and
-Established the {{p|Zhou Dynasty}}—which would become the longest-lasting
-
-Dynasty in {{p|Chinese}} history, enduring in various forms until
-Two-twenty-one BCE, a span of over eight centuries.
-
-                                                     And here the
-{{p|Zhou}} innovation: the {{p|Mandate of Heaven}}. The {{p|Zhou}} could not simply
-
-Claim that they had conquered the {{p|Shang}} by military force. They
-Needed a legitimating ideology that would explain why the transfer
-Of power was right and just. They developed—probably articulated
-Most clearly by {{c|2156|King Wu}}'s brother {{c|2160|Duke of Zhou}}, who served as
-
-Regent for {{c|2156|King Wu}}'s young son after {{c|2156|King Wu}}'s early death—the
-Concept of {{p|Tianming}}, Heaven's charge. The high
-God, {{c|2161|Tian}}, was {{c|2147|Shang Di}} of the {{p|Shang}}'s own sky,
+The god {{c|2161|Tian}} was {{c|2147|Shang Di}}, the {{p|Shang}}'s own sky,
 One Lord, two names; the fight was for the rite:
-Which house would make the offering, by right,
-To {{c|2162|Heaven}}. And the {{p|Shang}}'s own dead were fed:
-{{p|Zhou}} gave {{p|Song}} to {{p|Shang}}'s heirs, to set the bread
-Before their fathers. {{c|2162|Heaven}} gives the strong
-House leave to rule, but only for so long
+Which house would make the offering, and why,
+To {{c|2162|Heaven}}; for the house that held it, right
 
-As that house governs virtuously. If the ruling house becomes
-Oppressive, tyrannical, or negligent, {{c|2162|Heaven}} withdraws its mandate
-And transfers it to a new, worthier house. This is what had
-Happened to the {{p|Shang}}: {{c|2149|Di Xin}}'s corruption had forfeited the
+Was with it. And the {{p|Shang}}'s own dead were fed:
+{{p|Zhou}} gave {{p|Song}} to {{p|Shang}}'s heirs, so they could set
+Before their fathers still the wine and bread;
+The {{p|Shang}} was gone; its dead were honored yet.
 
-Mandate, and {{c|2162|Heaven}} had granted it to {{c|2154|King Wen}} and {{c|2156|King Wu}}. The
-{{p|Zhou}} conquest was thus not usurpation but divinely sanctioned
-Succession. The {{p|Mandate of Heaven}} became the foundational
-Political theology of {{p|Chinese}} civilization. For the next three
+For {{c|2162|Heaven}} gives the house that governs well
+The leave to rule, but only while it's good;
+When it grows harsh, the leave is lost; they fell,
+The {{p|Shang}}, because they ruled not as they should.
 
-Thousand years—through every subsequent dynasty, every rebellion,
-Every civil war—{{p|Chinese}} political legitimacy was framed in terms
-Of the mandate. A successful rebel had received the mandate from
-A corrupt dynasty. A fallen dynasty had lost the mandate through
+So {{p|Zhou}} was not a thief, but heir by right:
+The mandate passed from {{c|2149|Di Xin}}'s line to theirs;
+And so a house that falls has lost the light,
+And one that rises has it, and is heirs.
 
-Misgovernance. A long dynastic reign was evidence that the mandate
-Was still held. Natural disasters, military defeats, or peasant
-Rebellions were evidence that it was slipping. The {{p|Mandate of Heaven}}
-Is one of the most durable political concepts in human history,
+The {{p|Zhou}} king gave out lands to kin and lords,
+Who ruled as vassals, owing grain and war
+And rites to him; {{p|Fengjian}}, by its cords,
+Held well for many years, and many more.
 
-Shaping {{p|East Asian}} political thought as profoundly as divine
-Right of kings shaped {{p|European}} thought. And it was born in the
-{{p|Zhou}} conquest of the {{p|Shang}}. A product of eleventh-century BCE
-{{p|Chinese}} political theology, responding to the need to justify
+And with the {{p|Zhou}} the rites were all set down:
+The {{p|Book of Rites}}, the {{p|Book of Songs}}, and then
+The {{p|Book of Changes}}; and calendar's crown,
+The feasts, the harvests, sacrifices, when
 
-Dynastic transition.
+The seasons turned; the writing was made one;
+And {{p|Zhongguo}}, the {{p|Middle Kingdom}}, there stood
+The center of the world, beneath the sun,
+And round it, {{p|Rong}}, {{p|Di}}, {{p|Yi}}, {{p|Man}}, the wild wood:
 
-                    The {{p|Zhou}}, once established, proceeded to
-Reorganize {{p|Chinese}} civilization. They developed the feudal system
-Of {{p|Fengjian}}: the {{p|Zhou}} king (now styled {{c|2163|Wang}} or "king," a title
+For any folk could take its rites, and be
+Within; or keep away, and stay without;
+And {{p|Zhou}} was center, and the rest could see
+Their place by it, the world spread round about.
 
-Previously reserved for {{p|Shang}} monarchs) granted territories to
-Royal kinsmen and allied lords, who ruled as semi-autonomous
-Vassals. Each vassal owed tribute, military service, and ritual
-Compliance to the {{p|Zhou}} king. Over time this system would
-
-Fragment, producing the {{p|Spring and Autumn}} and {{p|Warring States}}
-Periods—but for the first several centuries of the {{p|Zhou}}, it
-Worked reasonably well. The {{p|Zhou}} also elaborated the ritual
-Culture that would become the foundation of {{p|Chinese}} classical
-
-Civilization: the {{p|Book of Rites}} ({{p|Liji}}), the {{p|Book of Songs}}
-({{p|Shijing}}), the {{p|Book of Changes}} ({{p|Yijing}} or {{p|I Ching}})—all these
-Canonical texts either originated in or were heavily developed
-During the {{p|Zhou}} period. The {{p|Zhou}} developed the calendar. They
-
-Standardized the writing system. They institutionalized the ritual
-Calendar of sacrifices, harvest festivals, and seasonal ceremonies
-That would define {{p|Chinese}} culture for millennia.
-
-                                                       And the
-{{p|Zhou}} established something that would prove even more influential:
-
-The concept of {{p|Zhongguo}}, the "{{p|Middle Kingdom}}" or "Central
-States." The {{p|Zhou}} thought of their territory as the civilizational
-Center of the world, with progressively less civilized peoples
-Radiating outward—the {{p|Rong}}, {{p|Di}}, {{p|Yi}}, {{p|Man}}, the so-called "four
-
-Barbarians" of the four directions. This ethnocentric cosmology
-Would shape {{p|Chinese}} self-understanding ever after. {{p|China}} conceived
-Of itself not as one nation among many but as the civilizational
-Center from which civilization radiated. Other peoples could
-
-Adopt {{p|Chinese}} culture and become civilized, or reject it and
-Remain barbarian, but {{p|China}} itself was the reference point. This
-Is a very different ideology from the {{p|Mediterranean}} or {{p|Indian}}
-Traditions, and it has shaped {{p|East Asian}} geopolitics for three
-
-Thousand years. The {{p|Zhou}} articulated it first. Their conquest
-Of the {{p|Shang}} was not just a dynastic change. It was the creation
-Of a political and cultural framework that would define {{p|China}}.
-
-And consider the timing. The {{p|Shang}} fell around ten-forty-six BCE.
-
-The {{p|Trojan War}} ended around twelve-hundred BCE. The {{p|Bronze Age Collapse}}
-Devastated the {{p|Mediterranean}} between twelve-twenty-five and
-Eleven-seventy-five BCE. The {{p|Exodus}} (in its thirteenth-century BCE
-Dating) occurred during {{c|2033|Ramesses II}}'s or {{c|2093|Merneptah}}'s reign. These
-
-Events are not simultaneous, but they are broadly contemporary.
-Across {{p|Eurasia}}—from the {{p|Aegean}} to the {{p|Yellow River}}—the late
-{{x|Bronze Age}} was ending, and new political and religious forms were
-Emerging in its wake. The {{p|Zhou Dynasty}} is the {{p|East Asian}} equivalent
-
-Of the post-collapse reorganizations happening in the {{p|Mediterranean}}.
-Its political theology—the {{p|Mandate of Heaven}}—is the {{p|East Asian}}
-Equivalent of the new theologies being worked out in {{p|Israel}},
-{{p|Greece}}, and the {{p|Near East}}. The same underlying shift: from
-
-Archaic god-king theocracies toward systems grounded in virtue,
-Cosmic order, and the contingent legitimacy of rulers.
-
-                                                         The {{p|Zhou}}
-Dynasty's early centuries—the {{p|Western Zhou}} period, from ten-forty-six
-
-BCE to seven-seventy-one BCE—were the classical age of {{p|Chinese}}
-Culture. The {{c|2160|Duke of Zhou}} was remembered as a paragon of
-Statesmanship; {{c|1958|Confucius}}, writing five centuries later, would
-Take the {{c|2160|Duke of Zhou}} as his personal hero, the model of the
-
-Virtuous official who serves his lord without seeking power for
-Himself. The {{p|Western Zhou}} ended when the capital was sacked by
-Western barbarians (the {{p|Quanrong}}) in seven-seventy-one BCE,
-Forcing a relocation eastward to {{p|Luoyang}}. This begins the
-
-{{p|Eastern Zhou}} period, which divides into the {{p|Spring and Autumn}}
-Period (ending around four-eighty BCE) and the {{p|Warring States}}
-Period (four-seventy-five to two-twenty-one BCE). During these
-Later {{p|Zhou}} centuries the central authority weakened and the
-
-Feudal vassals became de facto independent kingdoms. But the {{p|Zhou}}
-Ritual order, the classical texts, the {{p|Mandate of Heaven}} theology,
-And the sense of {{p|China}} as a civilizational unity—all these
-Persisted and would provide the foundation for the eventual
-
-Reunification under {{p|Qin}} and {{p|Han}}.
-
-                                                 But here, at the
-Fall of the {{p|Shang}}, we are at the beginning of all that. {{c|2149|Di Xin}}
-In flames in his palace. {{c|2156|King Wu}} entering {{p|Yin}}. The {{c|2160|Duke of Zhou}}
-
-Drafting the political theology. The eight-hundred-year dynasty
-Beginning. The great {{p|Chinese}} classical age being born in the
-Moment when the {{x|Bronze Age}} died.
-
-                                  {{p|Shang}}. {{p|Zhou}}. {{p|Muye}}. {{p|Mandate of Heaven}}.
-{{c|2149|Di Xin}}. {{c|2151|Daji}}. {{c|2154|King Wen}}. {{c|2156|King Wu}}. {{c|2160|Duke of Zhou}}. {{c|2157|Jiang Ziya}}. The
-Fox spirit in the palace and the sage fisherman by the river.
-The tyrant's cruelty and the virtuous rebel's restraint. The
-
-Lost mandate and the new dynasty. The {{p|Middle Kingdom}} defining
-Itself as center of the world. The eight-hundred-year reign.
-
-Fall of {{p|Shang}}. Rise of {{p|Zhou}}. {{p|China}}'s {{x|Bronze Age}} ending and its
-Classical age beginning.
+Honor {{c|2154|King Wen}}, {{c|2156|King Wu}}, the {{c|2160|Duke of Zhou}},
+And {{c|2157|Jiang Ziya}}, the fisher by the stream;
+And {{p|Shang}}, whose dead were fed by those who slew
+Their king; and {{c|2162|Heaven}}'s mandate, and its gleam.
 
 
 # Chapter 162: The Bantu Expansion
