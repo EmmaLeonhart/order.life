@@ -1,368 +1,156 @@
 # Chapter 165: Classical Greece, Part One
 
-The {{p|Greek}} {{x|Dark Age}} lasted roughly four centuries. From the
-Destruction of the {{p|Mycenaean}} palaces around twelve-hundred BCE
-To the dawn of the {{p|Archaic}} period around eight-hundred BCE,
-{{p|Greece}} was a land of small villages, depopulated cities, and
-
-Oral tradition. Writing had been lost. Trade had contracted. The
-Great bronze-age palatial economies were a distant memory. But
-During those four centuries something important was happening.
-The memory of the Bronze Age was being preserved, orally, in the
-
-Form of heroic epic. And the cultural forms that would become
-Classical {{p|Greek}} civilization were being slowly, slowly, rebuilt
-From the ground up. When the dawn came, around the eighth century
-BCE, it came with astonishing rapidity.
-
-                                            The rise of the {{p|polis}}.
-The rebirth of literacy, through the adoption and modification of
-The {{p|Phoenician}} alphabet. The composition of the {{p|Iliad}} and
-{{p|Odyssey}}, crystallizing centuries of oral tradition into
-
-Written form (traditionally attributed to {{c|1957|Homer}}, a possibly
-Historical and possibly conventional figure around whom oral
-Traditions coalesced). The founding of the {{p|Olympic Games}} (seven-
-Seventy-six BCE). The establishment of the {{p|Oracle of Delphi}} as
-
-The pan-{{p|Greek}} religious center. The beginning of {{p|Greek}} colonization
-Across the {{p|Mediterranean}} and {{p|Black Sea}} coasts. All of this
-Happened within a single dynamic century or two. {{p|Greece}} went
-From a backwater of small villages to a network of vibrant,
-
-Competitive, philosophically adventurous city-states that would
-Shape the next two and a half millennia of {{p|Western}} civilization.
-
-                                                                      The
-{{p|polis}}, the city-state, was the distinctive {{p|Greek}} political form.
-
-Unlike the great territorial empires of {{p|Egypt}} or {{p|Persia}}, the
-{{p|Greek}} world was fragmented into hundreds of small, independent
-Communities, each centered on a single city with its surrounding
-Agricultural land. The largest {{p|poleis}} had citizen populations of
-
-Tens of thousands; most had only hundreds or a few thousand. Each
-Had its own laws, its own calendar, its own dialect, its own
-Patron deities. Each was fiercely independent. And each was
-Organized around a specific ideology: the citizen body (the
-
-{{p|demos}}, the people) was the political community. Citizens
-Participated in governance—varying forms of it, from oligarchy
-To democracy to tyranny—but they participated. Their political
-Identity was tied to their {{p|polis}}. "{{p|Greek}}" was a cultural and
-
-Linguistic identity, but "{{p|Athenian}}" or "{{p|Spartan}}" or "{{p|Corinthian}}"
-Was the political identity. And the fierce loyalty of citizens
-To their {{p|polis}}, combined with the intense rivalries among
-{{p|poleis}}, drove the cultural dynamism that would make {{p|classical Greece}}
-
-Extraordinarily creative. Every {{p|polis}} was trying to outdo every
-Other {{p|polis}} in festivals, temples, military power, philosophical
-Schools, athletic victories. The competitive energy was enormous.
-And because each {{p|polis}} was small, individual citizens could
-
-Have real impact. A single rich man could commission a monument
-Or a dramatic festival that would change the cultural landscape
-Of his city. This was a very different scale of cultural
-Production from the great bureaucratic empires. It was more
-
-Nimble, more innovative, more personal.
-
-                                           The two great poles of
-{{p|Classical Greek}} civilization would be {{p|Athens}} and {{p|Sparta}}, and
-Their contrasting character deserves attention. {{p|Sparta}}, in the
-
-Southern {{p|Peloponnese}}, developed a uniquely militarized society.
-After subjugating the neighboring {{p|Messenian}} population (the
-{{p|Helots}}) around the eighth and seventh centuries BCE, the
-{{p|Spartans}} transformed themselves into a warrior caste devoted
-
-Entirely to military training and rule. The laws attributed to
-The legendary lawgiver {{c|2217|Lycurgus}} organized every aspect of
-{{p|Spartan}} life around producing and sustaining elite warriors.
-Male children were taken from their families at age seven and
-
-Raised in communal military barracks through a brutal training
-System, the {{p|agoge}}. Adult male citizens lived in common messes
-And were forbidden to engage in trade or manual labor—all such
-Work was done by {{p|Helots}}. {{p|Spartan}} women had more freedom and
-
-Physical education than women in other {{p|Greek}} city-states,
-Because {{p|Sparta}} valued the physical fitness of mothers to produce
-Strong warriors. {{p|Sparta}} was governed by a dual monarchy (two kings
-From two royal lines), a council of elders, and a citizen assembly
-
-With limited powers. The kingship was hereditary but constitutionally
-Constrained. The system was stable for centuries. And the {{p|Spartan}}
-Military—the famous hoplite phalanx, with its disciplined
-Infantry—was the most feared in the {{p|Greek}} world for nearly three
-
-Centuries. The three hundred {{p|Spartans}} at {{p|Thermopylae}}, standing
-Against {{c|1985|Xerxes}}'s vast army, are a cultural archetype so powerful
-That they still define "heroic last stand" in popular imagination.
-But the cost of {{p|Spartan}} militarism was the intellectual and
-
-Artistic impoverishment of their culture. {{p|Sparta}} produced no
-Great philosophers, no great dramatists, no great historians. It
-Produced only warriors and their laws. Its cultural legacy is
-Thin compared to its military prestige.
-
-                                          {{p|Athens}}, by contrast,
-Developed in the opposite direction. {{p|Athens}} in the {{p|Archaic}} period
-Was governed by aristocratic families—the {{p|Eupatridae}}—but a
-Series of reforms gradually democratized the political system.
-
-{{c|2218|Solon}}, around five-ninety-four BCE, enacted sweeping legal reforms:
-He cancelled debts that had reduced poor citizens to slavery, he
-Opened political participation to all citizens regardless of birth
-(Though still ranked by wealth), and he laid the foundation for
-
-Later democratic development. After {{c|2218|Solon}}, {{p|Athens}} underwent a
-Period of tyranny under {{c|2219|Peisistratos}} and his sons (tyranny in the
-{{p|Greek}} sense meant one-man rule that bypassed constitutional forms
-But was not necessarily cruel—{{c|2219|Peisistratos}} was widely considered
-
-A good ruler). After the overthrow of {{c|2220|Hippias}}, the last of the
-{{c|2221|Peisistratid}} tyrants, in five-oh-eight BCE, {{c|2222|Cleisthenes}} instituted
-Radical democratic reforms: he reorganized the citizen body into
-Ten new tribes based on geographical deme membership (breaking the
-
-Power of aristocratic kinship networks), he established the
-{{c|2223|Boule}} (council of five hundred citizens selected by lot) as the
-Principal executive body, and he gave the {{p|Ecclesia}} (the citizen
-{{x|Assembly}}) supreme legislative power. With these reforms, {{p|Athens}}
-
-Became the first substantial democracy in human history. "The
-People" ({{p|demos}}) ruled ({{p|kratos}})—hence {{p|demokratia}}. Now, to be
-Clear, {{p|Athenian}} democracy was limited. Only adult male citizens
-Could participate. Women, foreign residents ({{p|metics}}), and slaves
-
-Were excluded. Perhaps fifteen percent of {{p|Athens}}'s total population
-Had full political rights. And those fifteen percent participated
-Directly—not through elected representatives, but through actual
-Attendance at the {{x|Assembly}} and service in executive bodies, often
-
-Selected by lot. This was direct democracy, radically different
-From modern representative democracy. It worked because the
-Citizen body was small enough (a few thousand) that direct
-Participation was feasible, and because citizens had time—afforded
-
-By slave labor and a prosperous economy—to engage in political
-Life. It was democracy for a leisured minority, enabled by the
-Exploitation of a disenfranchised majority. The contradiction is
-Real and has been justly criticized. But even acknowledging that
-
-Contradiction, the {{p|Athenian}} political experiment was unprecedented.
-No prior society had given political power so directly to so
-Large a fraction of its male population. The consequences for
-Cultural and intellectual life were transformative. Because any
-
-Citizen could propose legislation, could serve on juries, could
-Speak in the {{x|Assembly}}, the premium on rhetorical skill was enormous.
-Education in rhetoric, logic, and persuasion became essential for
-Citizens who wanted influence. This created the market for the
-
-{{p|Sophists}}—traveling teachers of rhetoric and wisdom who charged
-Fees for instruction. And this in turn set the stage for {{p|Socrates}}
-And the philosophical revolution. But that comes in the next
-Chapter. Here we are laying the foundations.
-
-                                               {{p|Athens}} under
-Democracy became a cultural hothouse. Its fifth century BCE—
-Between the {{p|Persian Wars}} at its beginning and the {{p|Peloponnesian War}}
-At its end—was one of the most creative periods in human history.
-
-{{p|Athens}} produced the playwrights {{c|2224|Aeschylus}}, {{c|2225|Sophocles}}, {{c|2226|Euripides}},
-And {{c|2227|Aristophanes}}—whose tragedies and comedies founded the
-Western dramatic tradition. It produced the historians {{c|2183|Herodotus}}
-And {{c|2228|Thucydides}}—who invented history as a literary and analytical
-
-Genre. It produced the sculptor {{c|2229|Phidias}}, whose statues of {{c|1995|Athena}}
-And {{c|2065|Zeus}} were the most celebrated of antiquity. It produced the
-Architect {{c|2230|Ictinus}}, whose {{p|Parthenon}} atop the {{p|Acropolis}} remains
-One of the most influential buildings ever designed. It produced
-
-The politician {{c|2231|Pericles}}, whose leadership and oratory defined
-The golden age. And it produced {{c|2232|Socrates}}, whose radically
-Different philosophical method would reshape all subsequent
-Western thought. All within a single city of perhaps fifty
-
-Thousand adult male citizens. All within roughly a century. The
-Cultural output per capita is staggering. Nothing comparable had
-Ever happened before, and few comparable cultural efflorescences
-Have happened since. And it all depended on the democratic
-
-Political structure that gave ordinary citizens the opportunity,
-And the obligation, to think and speak and contribute.
-
-                                                          But
-We are getting ahead of ourselves. Before the fifth-century golden
-
-Age came the sixth-century preparation. In the sixth century BCE,
-{{p|Greek}} philosophy began. It began not in {{p|Athens}} but in {{p|Ionia}}—
-The {{p|Greek}}-speaking cities of the western {{p|Anatolian}} coast,
-Including {{p|Miletus}}, {{p|Ephesus}}, {{p|Samos}}, and others. The {{p|Ionians}} were
-
-At the eastern frontier of the {{p|Greek}} world, in close contact
-With the older civilizations of {{p|Lydia}}, {{p|Phrygia}}, {{p|Mesopotamia}}, and
-{{p|Egypt}}. They absorbed mathematical, astronomical, and religious
-Ideas from those civilizations. And they began to ask new kinds
-
-Of questions. {{c|2233|Thales of Miletus}}, traditionally dated to the early
-Sixth century BCE, is commonly identified as the first philosopher.
-He asked: what is everything made of? And he gave an answer:
-Water. All things, he proposed, are ultimately water in different
-
-Forms. The specific claim is less important than the kind of
-Question and the kind of answer. {{c|2234|Thales}} was not asking "what
-Gods created the world?" (the mythological question). He was
-Asking "what is the fundamental substance of the world?" (the
-
-Philosophical question). And he was answering it not by citing
-Divine authority or ancient tradition but by reasoning about
-Observed nature. Water becomes ice. Water becomes steam. Water
-Supports life. Water is found everywhere. Perhaps, he reasoned,
-
-Water is the primary substance, and other apparent substances
-Are just transformations of it. This reasoning was rough by
-Modern standards. But it was a new kind of reasoning. It was
-Reasoning from observation toward general principles, seeking
-
-Naturalistic explanations for observed phenomena. {{c|2234|Thales}} founded
-What would later be called the {{p|Milesian School}}—a tradition of
-{{p|Ionian}} natural philosophy that included {{c|2235|Anaximander}} (who
-Proposed that the primary principle was not water but an
-
-Unbounded and indeterminate stuff, the {{p|apeiron}}), {{c|2236|Anaximenes}}
-(Who proposed air as the primary substance), and later thinkers
-Who variously proposed fire, number, being itself, atoms. These
-Thinkers are called the {{p|Pre-Socratics}}, and their work between
-
-The sixth and fifth centuries BCE laid the foundation for all
-Subsequent {{p|Western}} philosophy. They asked: what is the nature
-Of reality? What is it made of? How does it change? Is change
-Real or illusory? Is the world one or many? What is the soul?
-
-What is knowledge? What is the good? These questions have not
-Been answered definitively in two and a half millennia. But the
-Asking of them—in the form of rational argument accountable to
-Observation and logic—began in {{p|Ionia}} in the sixth century BCE.
-
-{{c|2237|Pythagoras of Samos}}, a contemporary of the later {{p|Milesians}},
-Emigrated to {{p|Croton}} in southern {{p|Italy}} and founded a semi-
-Religious, semi-philosophical community there. {{p|Pythagorean}}
-Teachings emphasized the fundamental role of number in reality.
-
-{{c|2238|Pythagoras}} is credited (probably anachronistically) with the
-{{p|Pythagorean theorem}}, with the discovery of musical ratios, and
-With the concept that mathematics expresses the deep structure
-Of the cosmos. The {{p|Pythagoreans}} also taught the transmigration
-
-Of souls (a doctrine that may have entered {{p|Greek}} thought from
-{{p|Indian}} or {{p|Egyptian}} sources or may have developed independently).
-Their legacy would shape {{p|Plato}}'s philosophy profoundly. The
-Idea that the ultimate structure of reality is mathematical—an
-
-Idea so central to modern physics—traces its {{p|Western}} origin to
-The {{p|Pythagoreans}}. {{c|2239|Heraclitus of Ephesus}}, in the early fifth
-Century BCE, developed a philosophy of flux and opposites. "One
-Cannot step into the same river twice," he famously said. All
-
-Things flow; stability is illusion; reality is the tension of
-Opposites. {{c|2240|Parmenides of Elea}}, working roughly contemporaneously
-In southern {{p|Italy}}, developed exactly the opposite view: change
-Is impossible, being is eternal and unchanging, what appears to
-
-Change is mere illusion. These two opposed positions—the {{c|2241|Heraclitean}}
-And the {{c|2242|Parmenidean}}—frame a dialectic that still structures
-Western philosophy. Every metaphysical debate about the nature
-Of change, of identity, of permanence, of becoming, traces back
-
-To these {{p|pre-Socratic}} arguments. And meanwhile, while these
-Philosophers were working out the structure of reality, the
-Historians were inventing the investigation of human affairs.
-{{c|2243|Herodotus of Halicarnassus}} traveled across the {{p|Mediterranean}}
-
-World collecting stories, customs, and accounts. His {{p|Histories}}—
-The first prose historical work in the {{p|Greek}} tradition—covers
-The {{p|Persian Wars}} but also includes ethnographic accounts of
-{{p|Egypt}}, {{p|Persia}}, {{p|Scythia}}, {{p|Babylon}}. He is curious, discursive,
-
-Often credulous, but brilliantly humane. He treats non-{{p|Greek}}
-Cultures with more respect than most later {{p|Greek}} writers. He
-Preserves information about foreign civilizations that would
-Otherwise be lost. He is the father of history in both senses:
-
-The first historian and the origin of much {{p|Greek}} knowledge
-About foreign peoples. {{c|2228|Thucydides}} of {{p|Athens}}, coming a generation
-Later, wrote a different kind of history. His {{p|History of the
-Peloponnesian War}} is analytical, pitiless, and deeply concerned
-
-With causation, motive, and the underlying dynamics of political
-Power. He invented the technique of putting speeches into the
-Mouths of historical actors—speeches that render the thinking
-Of political leaders with a depth that bald narrative cannot
-
-Achieve. {{c|2228|Thucydides}} is the ancestor of hard-nosed political
-Realism in historical writing. His account of the {{p|Melian Dialogue}}—
-In which the {{p|Athenians}} justify their destruction of {{p|Melos}} with
-The frigid maxim that "the strong do what they can and the weak
-
-Suffer what they must"—is one of the most uncompromising statements
-Of political power ever written. Between {{c|2183|Herodotus}}'s humane
-Inclusiveness and {{c|2228|Thucydides}}'s analytical realism, {{p|Greek}}
-Historiography staked out its enduring range.
-
-                                                 And all of this—the
-{{p|Ionian}} philosophers, the rise of democracy, the first historians,
-The tragic and comic drama, the architectural and sculptural
-Achievements—all of this happened against the backdrop of the
-
-{{p|Persian Wars}}. In four-ninety BCE, {{c|2178|Darius I}} of {{p|Persia}} sent an
-Expeditionary force against {{p|Athens}} in retaliation for {{p|Athenian}}
-Support of the {{p|Ionian}} revolt. The {{p|Persians}} were defeated at the
-{{p|Battle of Marathon}} by an {{p|Athenian}}-{{p|Plataean}} coalition under the
-
-Generalship of {{c|2244|Miltiades}}. Ten years later, {{c|2245|Xerxes I}} led a far
-Larger invasion—perhaps the largest military operation the world
-Had yet seen. His army crossed the {{p|Hellespont}} on a bridge of
-Boats. {{p|Leonidas}} and his three hundred {{p|Spartans}}, along with
-
-Several thousand allies, delayed him at {{p|Thermopylae}}. {{p|Athens}}
-Was burned. But at the naval {{p|Battle of Salamis}} (four-eighty BCE),
-The {{p|Greek}} fleet under {{c|2246|Themistocles}} defeated the {{p|Persian}} navy.
-The following year, at the {{p|Battle of Plataea}}, the combined {{p|Greek}}
-
-Land forces defeated the remaining {{p|Persian}} army. {{c|1985|Xerxes}}
-Withdrew. The {{p|Persian}} threat was defeated. The {{p|Greeks}}—by which
-We mean the shifting coalition of city-states that happened to
-Cooperate for this crisis—had preserved their independence from
-
-The greatest empire on earth. This victory had enormous
-Psychological impact. The {{p|Greeks}} believed, not without reason,
-That they had preserved the possibility of free citizens
-Governing themselves against the imperial monarchies of the
-
-{{p|Near East}}. The wars became part of {{p|Greek}} self-definition: we
-Are not {{p|Persians}}; we do not bow; we govern ourselves. The
-Rhetoric of {{p|Greek}} freedom versus {{p|Persian}} despotism became a
-Civilizational touchstone that would shape {{p|Western}} political
-
-Thought for the next two millennia. It was not entirely accurate—
-The {{p|Greeks}} had plenty of their own tyrants and oppressive
-Practices—but it was psychologically real and culturally
-Productive. Out of the crisis of the {{p|Persian Wars}}, out of the
-
-Victorious self-understanding that followed, came the classical
-Age. And the classical age is what we will explore next.
-
-                                                             {{p|Greece}}.
-{{x|Dark Age}} to {{p|Archaic}} to classical. The {{p|polis}}. {{p|Athens}} and {{p|Sparta}}.
-
-{{p|Ionian}} philosophy—{{c|2234|Thales}}, {{c|2235|Anaximander}}, {{c|2247|Heraclitus}}, {{c|2248|Parmenides}},
-{{c|2238|Pythagoras}}. {{p|Solonian}} reforms. {{p|Cleisthenic}} democracy. The
-{{p|Persian Wars}}—{{p|Marathon}}, {{p|Thermopylae}}, {{p|Salamis}}, {{p|Plataea}}. {{c|2183|Herodotus}}
-And {{c|2228|Thucydides}}. The cultural hothouse taking shape.
-
-Classical {{p|Greece}}, part one. The preparation. The rise of a
-Civilization that would shape all of {{p|Western}} thought.
+Four hundred years, the {{p|Greeks}} lived in the dark,
+In villages, with writing lost, and trade
+Grown small; and yet they kept the songs, the spark
+Of heroes, and the world they'd known, unmade.
+
+And then the dawn came quickly: from the shore
+Of {{p|Phoenicia}} came letters, and they wrote;
+And {{c|1957|Homer}} set the {{p|Iliad}}'s old war,
+The {{p|Odyssey}}, in writing, note by note.
+
+They founded the {{p|Olympic Games}}; they made
+{{p|Delphi}} the shrine of all the {{p|Greeks}}; they went
+To found new towns by every sea, and trade,
+Around the {{p|Black Sea}} and the {{p|Middle}} sent.
+
+The {{p|polis}} was their way: the city-state,
+Each one its own, with laws and gods and speech,
+Its calendar, its fields; and small or great,
+Its citizens, the {{p|demos}}, ruled in each.
+
+Some ruled by few, some ruled by one, by all;
+But each man's name was of his town: he'd be
+{{p|Athenian}} or {{p|Spartan}}, and his call
+Was to his {{p|polis}}, though all {{p|Greeks}} were free.
+
+And each one strove to beat the rest: in feast,
+In temples, games, in war, in schools of thought;
+And one rich man, by building, as the least
+Of towns was small, could change what his town sought.
+
+Two poles: {{p|Athens}} and {{p|Sparta}}. With strong hand,
+In the {{p|Peloponnese}}, {{p|Sparta}} made
+{{p|Messenia}}'s {{p|Helots}} till all its land,
+And then became a warrior caste, arrayed
+
+By laws {{c|2217|Lycurgus}} gave: at seven, boys
+Were taken to the barracks, trained, made hard,
+The {{p|agoge}}; and men ate in common, poise
+And war their only work, the {{p|Helots}}' guard.
+
+Their women, freer, trained their bodies well,
+To bear strong sons; two kings from two lines ruled,
+With elders and the people; and they fell
+Like stone on any field, their phalanx schooled.
+
+At {{p|Thermopylae}}, three hundred there stood
+Against great {{c|1985|Xerxes}}' host, and still today
+They are the heroes' stand; and yet the good
+Of letters they gave up, and war's the way.
+
+But {{p|Athens}} went the other way: at first
+Its nobles ruled, {{p|Eupatridae}}; and then
+Then {{c|2218|Solon}} cancelled debts, so none were cursed
+To slavery, and opened rule to men
+
+Of every birth, though ranked by wealth; and then
+{{c|2219|Peisistratos}} ruled as a tyrant, one
+Who ruled alone, but well; and after, when
+{{c|2220|Hippias}}, his son, was cast out and done,
+
+{{c|2222|Cleisthenes}} then made ten tribes by where men dwelt,
+To break the noble houses, and the {{c|2223|Boule}},
+Five hundred chosen by the lot; and dealt
+The {{p|Ecclesia}}, the people's highest rule.
+
+And so the {{p|demos}} ruled, the people's sway;
+The men who were its citizens would go
+Themselves to speak, and vote, and judge; and they
+Had need of speech, to sway, to win, to show;
+
+The {{p|Sophists}} came, and taught for pay the art
+Of speaking, logic, and the way to win;
+And {{p|Athens}} grew, of all the world, the heart
+Of making, all the thinking pressed within.
+
+There {{c|2224|Aeschylus}} the playwright wrote, and then
+{{c|2225|Sophocles}} and {{c|2226|Euripides}}; the jest
+Of {{c|2227|Aristophanes}}; and the two men
+Of history, {{c|2183|Herodotus}} the best,
+
+And {{c|2228|Thucydides}}; and then {{c|2229|Phidias}} made
+His {{c|1995|Athena}} and his {{c|2065|Zeus}}, the far-famed;
+{{c|2230|Ictinus}} built the {{p|Parthenon}}'s arcade;
+{{c|2231|Pericles}} spoke, whose speech the city claimed;
+
+And {{c|2232|Socrates}}, who asked, and asked again,
+And would not stop, until the asking won;
+All in one town, in one long age of men,
+Some thousand citizens, beneath one sun.
+
+But first, in {{p|Ionia}}, on the shore
+Of {{p|Anatolia}}, {{p|Miletus}}, came
+The first who asked what all things are, before
+The gods, what stuff they're made of, what their frame:
+
+{{c|2233|Thales}} said that all is water, which can flow
+As ice and steam, and feeds all things that live;
+{{c|2235|Anaximander}} said the boundless; and so
+{{c|2236|Anaximenes}} said air; and all would give
+
+Their answers: of the {{p|apeiron}}, of air,
+Of number, and of being, and of flame;
+They asked, by reason and by looking there,
+What all things were, and how they change and came.
+
+{{c|2238|Pythagoras}} left {{p|Samos}} for the sun
+Of {{p|Croton}}, and he founded there a band
+Of thought and rite: that number is the one
+True stuff; and music's ratios he scanned;
+
+And souls, he taught, go on from life to life.
+{{c|2239|Heraclitus}} at {{p|Ephesus}} said all
+Things flow, and all is held in stress and strife,
+And none can step twice in one stream at all;
+
+And {{c|2240|Parmenides}} said: no, there is no change;
+That being does not move; and so the two
+Would set the argument, in all its range,
+That those who think since then must still go through.
+
+{{c|2243|Herodotus}} went journeying, and wrote
+{{p|Egypt}}, {{p|Persia}}, {{p|Scythia}}, and the rest,
+The customs and the tales of all of note,
+And told them kindly, east as well as west.
+
+And {{c|2228|Thucydides}} wrote later, hard and cold,
+Of why men war, and gave his speakers speech;
+And at {{p|Melos}} the {{p|Athenians}} told:
+The strong do what they can; the weak, beseech.
+
+And all of this was set against the war
+With {{p|Persia}}: first {{c|2178|Darius}} sent his host;
+At {{p|Marathon}} it fell; {{c|2244|Miltiades}}' corps
+Of {{p|Athens}}, {{p|Plataea}}, held the coast.
+
+Ten years, and {{c|2245|Xerxes}} came, the greatest host
+The world had seen; with boats he bridged the strait;
+{{p|Leonidas}} held, and died at his post;
+And {{p|Athens}} burned; but the {{p|Greeks}} lay in wait
+
+At {{p|Salamis}}, with {{c|2246|Themistocles}}, broke
+The {{p|Persian}} fleet; at {{p|Plataea}}, then,
+The {{p|Greeks}} by land; and {{c|1985|Xerxes}}, with his folk,
+Went home; and {{p|Greece}} was free, of its own men.
+
+And so they said: we are not {{p|Persians}}; we
+Do not bow down; we rule ourselves; and from
+That saying, and that war, and being free,
+Their golden age of making was to come.
+
+Honor {{p|Greece}}'s first age: the {{p|polis}}, strong;
+And {{p|Sparta}}'s spear; and {{p|Athens}}' people's rule;
+{{c|2233|Thales}}' water, and old {{c|1957|Homer}}'s written song;
+And {{p|Salamis}}, where {{p|Greeks}} kept their own school.
