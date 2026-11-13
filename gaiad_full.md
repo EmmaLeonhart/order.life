@@ -27171,9 +27171,9 @@ Settled the continent, and lives on now,
 Whole in the many millions, not dispersed;
 The patient continuity, somehow,
 
-Of {{c|1875|I}} across some thirty thousand years,
-Or forty, longest tie of folk and land
-In one continent, as now it appears,
+Of {{c|1875|I}} across some forty thousand years,
+The longest tie of any folk and land
+On one continent, oldest of its peers,
 In all the {{p|European}} tale. They stand
 
 New, all of them: the {{p|French}}, the {{p|Germans}}, there,
@@ -27208,8 +27208,8 @@ The old reply that {{p|Europe}} gave, we know,
 
 In wood and clay: its towns, its painted walls,
 Its female iconography; and free
-Of hierarchy, so as one recalls,
-Its peaceful order, as it seems to be:
+Of hierarchy, in its open halls,
+Its peaceful order, as it used to be:
 
 These were old {{p|Europe}}'s working out of all
 The farmers offered; it was, there and then,
@@ -27306,7 +27306,7 @@ And {{c|1873|G}} is in the bones that have been found
 
 Of {{p|Ötzi}}, {{c|1904|Iceman}} of the {{p|Alps}}, who lay,
 A frozen body; and his {{p|Y}} makes plain,
-Five thousand and three hundred years, they say,
+Five thousand and three hundred years away,
 That {{p|Alpine}} farmers of that age and grain
 
 Of time, the late stone and the copper days,
@@ -27319,10 +27319,10 @@ Great hill in {{p|Turkey}}: of the many sites
 That digging ever found, the work there done
 Is most astonishing: those stony heights
 
-Of {{p|Göbekli Tepe}}: built, as years are told,
+Of {{p|Göbekli Tepe}}: built in days of old,
 Six millennia ere {{c|1898|Stonehenge}}, and more;
 Eleven thousand five hundred years old,
-Or so; and by a thousand years before
+It stood; and by a thousand years before
 
 The settled towns of {{p|Jericho}}. And they
 Who built it were not settled, nor the mild,
@@ -27336,12 +27336,12 @@ Some over five meters, of tons, full-grown
 
 And carved with animals: with fox and snake,
 With scorpion, wild boar, and vulture's wings,
-Arranged in rings for something's very sake,
+Arranged in rings, for holy meeting's sake,
 Like temple pillars, though of no such things
 
 As settled peoples build. A temple, raised
-By hunters, by what laws we have not known,
-For causes leaving us ignorant, dazed,
+By hunters, by the laws that they had known,
+For gathering, for which they came, amazed,
 In a place no one dwelt, where grass had grown
 
 An ample, undramatic edge; and they
@@ -27355,8 +27355,8 @@ A ritual site, a site of renown,
 A center like no other on the earth,
 
 Where all the scattered bands would come and meet
-From all the region, there, whatever be
-Its purpose, and together make complete;
+From all the region, there, to meet and be
+As one, and make the gathering complete;
 And since they had to gather, and to see
 
 The building through, they had to eat; to feed
