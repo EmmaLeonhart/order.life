@@ -38970,210 +38970,160 @@ Kept by the mothers of the clan, the same.
 
 # Chapter 248: The Sun Reborn
 
-The name returned like thunder from the tomb.
-
-Two hundred years had passed since {{c|3606|Tupac Amaru}},
-The last {{c|3403|Inca}}, strangled in his room
-Of captive stone in {{p|Cuzco}}--since the new
+The name returned like thunder from the tomb:
+Two hundred years since {{c|3606|Tupac Amaru}},
+The last {{c|3403|Inca}}, was strangled in the room
+Of captive stone in {{p|Cuzco}}, since the new
 
 And {{c|3516|Spanish}} order sealed the serpent's mouth
 And crowned itself in blood upon the throne
-Of {{c|3607|Tawantinsuyu}}--and the south
+Of {{c|3607|Tawantinsuyu}}; and all the south
 Had learned to grieve in silence and alone.
 
-But the name had never died. In the valleys
-Of the {{p|Andes}}, where the quipu's knotted cord
-Still whispered in the hidden mountain rallies
-Of a world that no viceroy's whip or sword
+But the name never died; in valleys, where
+The quipu's knotted cord still whispered, hid,
+In mountain rallies, through the {{c|3523|Quechua}} air,
+The tongue no {{c|3516|Spanish}} strangling ever rid,
 
-Had fully conquered--in the {{c|3523|Quechua}} tongue
-That the {{c|3516|Spanish}} tried to strangle but could not,
 The prophecy of {{c|3608|Inkarri}} was sung:
 The severed head would grow a body, wrought
+From living mountain stone; the {{c|3403|Inca}}, young,
+Return, to set the world aright, as taught:
 
-From the mountain's living stone, and the {{c|3403|Inca}}
-Would return to set the world right-side-up--
-The pachakuti, the reversal, the still-brighter
-Dawn that fills the overturned and bitter cup.
+The pachakuti, the reversal, dawn
+That fills the overturned and bitter cup.
+{{c|3609|Jose Gabriel Condorcanqui}}, drawn
+From {{p|Tinta}}, in the freezing heights, came up,
 
-{{c|3609|Jose Gabriel Condorcanqui}} was born
-In {{p|Tinta}}, province of the freezing heights,
-A kuraka--a headman--the forlorn
-And bitter station of the middle: nights
+A kuraka, a headman, in between:
+He gathered all the mita's crushing tax
+From his own people for the crown; and seen,
+By day, the obraje's cruel weaving racks
 
-Spent collecting the mita's crushing tax
-From his own people for the {{c|3516|Spanish}} crown,
-Days spent watching the obraje's racks
-Where {{c|3523|Quechua}} women wove until the brown
+Where {{c|3523|Quechua}} women wove till bleeding hand
+Could hold no more. He traced his line, and said
+Of royal blood, from the last {{c|3403|Inca}}'s strand,
+Through the last's daughter, by the mountain fed,
 
-And bleeding fingers could not hold the thread.
-He traced his lineage to the final {{c|3403|Inca}}--
-Through the daughter of the last, a thread
-Of royal blood that time could never sink or
+Unsunk by time. He wrote {{p|Lima}}, {{p|Madrid}},
+He begged for law's artillery, the plea
+Of the corregidor: forced work, forced bid,
+Tribute; the repartimiento's decree
 
-Sever from the mountain's memory.
-He petitioned {{p|Lima}}. He petitioned {{p|Madrid}}.
-He begged the courts for the artillery
-Of law against the corregidor's grid
+That each soul buy the {{c|3516|Spanish}} merchant's wares:
+Buy what you need not at three times the price,
+Or learn the whip. The courts, in their affairs,
+Said nothing; the petitions melted, ice
 
-Of forced labor, forced purchase, forced tribute--
-The repartimiento that compelled each soul
-To buy the {{c|3516|Spanish}} merchant's goods, the brute
-And simple engine of colonial control:
+In bureaucratic shade, a system built
+To profit from the pain. And so he chose
+The other way: November four; the guilt
+Of the dying eighty, its embers' close:
 
-Buy what you do not need at thrice the price,
-Or the corregidor's whip will teach you trade.
+Seized {{c|3610|Arriaga}}, the corregidor,
+Paraded through {{p|Tungasuca}}'s square,
+And hanged him from the gallows; and, no more
+Petitions; and there rang through mountain air
 
-The courts said nothing. The petitions' ice
-Melted in the bureaucratic shade
-
-Of a system built to profit from the pain.
-
-                                            And so
-He chose the other way. On the fourth of November,
-Seventeen-eighty, in the mountain's glow
-Of the dying year's last ember,
-
-He seized the corregidor {{c|3610|Antonio de Arriaga}},
-Paraded him through {{p|Tungasuca}}'s square,
-And hanged him from the gallows--the saga
-Of petition ended, and the mountain air
-
-Rang with the name he claimed: {{c|3606|Tupac Amaru}}--
-The Second--the serpent reborn, the sun
-Returned to burn the {{c|3516|Spanish}} empire through,
+The name that he claimed: {{c|3606|Tupac Amaru}},
+The Second, the serpent reborn, the sun
+Returned to burn the {{c|3516|Spanish}} realm all through,
 The pachakuti finally begun.
 
-The {{p|Andes}} rose. From {{p|Cuzco}} to {{p|La Paz}},
-From the altiplano's frozen breath
-To the valley floors, the ancient cause
-Brought sixty thousand to defy the death
+The {{p|Andes}} rose, from {{p|Cuzco}} to the height,
+From altiplano's frozen breath to plain
+Of valleys; sixty thousand rose to fight
+The death the realm had threatened, all in vain:
 
-That the empire promised every rebel soul.
-{{c|3523|Quechua}}, {{c|3611|Aymara}}, mestizo, the poor
-Of every color rallied to the whole
-And incandescent vision: a world before
+The {{c|3523|Quechua}}, {{c|3611|Aymara}}, mestizo, all
+Of every hue, to the vision, whole
+And incandescent: worlds before the fall
+Of {{c|3516|Spanish}} chains; or yet to be, the soul
 
-The {{c|3516|Spanish}} came--or a world that might yet be
-When the chains were broken and the mita's weight
-Was lifted from the shoulders of the free
-And ancient peoples whom no colonial state
+The free, the mita lifted from their backs,
+The ancient peoples whom no foreign state
+Could grind to dust. At {{p|Sangarara}}'s attacks
+The rebels broke the {{c|3516|Spanish}}; and, as fate,
 
-Had the right to grind to dust.
+The magazine exploded in the shrine,
+The {{c|3516|Spanish}} soldiers burning in the nave:
+Five hundred dead; the {{c|3523|Quechua}} saw a sign
+That even sacred stones and the old grave
 
-                                 At {{p|Sangarara}}
-The rebel army met the {{c|3516|Spanish}} force
-And broke it--the church itself the gharara
-Of battle, when the powder magazine's course
+Had turned against the crown. But kingdoms do
+Not die of one defeat: from {{p|Lima}} came
+Twenty thousand, the drum's hard beat, the true
+Professional army; and, all the same,
 
-Of flame exploded through the sacristy
-And the {{c|3516|Spanish}} soldiers burned inside the nave--
-Five hundred dead, the fire's ferocity
-A sign, the {{c|3523|Quechua}} said, that even the grave
+Alliance that {{c|3606|Tupac Amaru}} built
+Was fragile; for the creole landed men
+Felt interest threatened, and their own guilt:
+This was not war against the king, but, then,
 
-And sacred stones had turned against the crown.
+A revolution that might overturn
+The hacienda, peonage, their floor;
+They pulled away; and, rather than to burn
+Their order's wealth, they chose the king once more.
 
-But empires do not die from one defeat.
+{{c|3606|Tupac Amaru}}, taken in the field,
+Betrayed, as prophets are; in {{p|Cuzco}}'s square
+The sentence, terrible, in May was sealed,
+Of eighty-one: they cut the tongue, laid bare,
 
-From {{p|Lima}} came the reinforcements' frown
-Of twenty thousand men, the drum's hard beat
+Of {{c|3612|Micaela Bastidas}} first, his wife,
+The stay and strategist; they killed his son
+Before his eyes; and tied, to end his life,
+His limbs to four horses; but, as if one
 
-Of a professional army on the march.
-And the alliance that {{c|3606|Tupac Amaru}} built
-Was fragile--for beneath the rebel arch
-The creole landowners felt their own guilt
+With mountain stone, his body held; they strained
+And could not tear the {{c|3403|Inca}} from his name,
+Until the axe at last did what remained;
+They severed head and limbs, scattered the same:
 
-And interest threatened: this was not merely war
-Against the {{c|3516|Spanish}} king, but revolution
-That might overturn the social floor
-On which they too had built their institution
+Head south to {{p|Tinta}}, limbs to the four ways,
+That none might reassemble what they broke;
+They banned the {{c|3523|Quechua}} tongue, the royal blaze
+Of {{c|3403|Inca}} garments; and decree they spoke:
 
-Of hacienda and of peonage.
-They pulled away. The creoles chose the crown
-Over the {{c|3523|Quechua}} future's open page--
-Better the king they knew than the burning down
+{{c|3403|Inca}} a word past bearing, struck from law
+And title, tongue. But none can quarter, quell
+A prophecy. {{c|3611|Aymara}} highlands saw
+Fire in {{p|Bolivia}}, a name to tell:
 
-Of the colonial order that enriched them too.
+And {{c|3614|Apaza}}, {{c|3613|Tupac Katari}}, who
+Took name from two thunderbolts: the rally
+Of {{c|3606|Tupac Amaru}}, and, too, the true
+{{c|3615|Tomas Katari}}'s death; from the valley
 
-{{c|3606|Tupac Amaru}} was taken in the field--
-Betrayed, as prophets are, by the untrue
-And fickle allies. In {{p|Cuzco}}'s square, the sealed
+Laid siege to {{p|La Paz}}, forty thousand strong,
+Blocking the mountain passes; famine came
+Upon the {{c|3516|Spanish}} city, as, so long,
+They'd starved the {{c|3611|Aymara}}: corpses, the same.
 
-And terrible sentence was pronounced in May
-Of seventeen-eighty-one. They cut the tongue
-Of {{c|3612|Micaela Bastidas}} first--his wife, the stay
-And strategist of the revolt--among
+{{c|3616|Katari}} too was taken, quartered too;
+But spoke the centuries' unbroken vow:
+I die, but I'll return as millions; true,
+The millions came; the name would echo now
 
-The crowd that wept. They killed his son before
-His eyes. They tied his limbs to four horses
-And tried to pull him apart--but the core
-Of his body held, as if the {{x|Andean}} forces
+Through every {{c|3618|Andean}} rebel's claim
+The body that the horses could not tear,
+The prophecy no edict silenced, flame
+Of mountain people's memory, laid bare.
 
-Of the mountain stone had fused within his frame,
-And the horses strained and could not tear
-The {{c|3403|Inca}}'s body from the {{c|3403|Inca}}'s name--
-Until the axe completed what despair
-
-And horsepower could not do alone.
-
-                                    They severed
-His head and sent it south to {{p|Tinta}},
-His limbs to the four corners, endeavored
-To scatter him so thoroughly that no hint or
-
-Memory could reassemble what they broke.
-They banned the {{c|3523|Quechua}} language. Banned the wearing
-Of the {{c|3403|Inca}} royal garments. Spoke
-The decree that {{c|3403|Inca}} was a word past bearing--
-
-Erased from law, from title, from the tongue.
-
-But you cannot quarter a prophecy.
-
-In {{p|Bolivia}} the fire leapt among
-The {{c|3611|Aymara}} highlands, and the prophecy
-
-Wore a new name: {{c|3613|Tupac Katari}}--
-{{c|3614|Julian Apaza}}, who took his title from
-Two thunderbolts: {{c|3606|Tupac Amaru}}'s rally
-And {{c|3615|Tomas Katari}}'s martyrdom--
-
-And laid siege to {{p|La Paz}} with forty thousand
-Warriors who blocked the mountain passes
-And starved the {{c|3516|Spanish}} city till the thousand
-Corpses in the streets were the colonial masses
-
-Who had starved the {{c|3611|Aymara}} for centuries.
-{{c|3616|Katari}} too was taken, {{c|3616|Katari}} too
-Was quartered--but he spoke the centuries'
-Unbroken vow: "I die, but I return to you
-
-As millions." And the millions came.
-
-                                      For the name
-Of {{c|3606|Tupac Amaru}} would echo through the age
-Of liberation--{{c|3617|Bolivar}} claimed the flame,
-And every rebel on the {{c|3618|Andean}} stage
-
-Invoked the severed body that the horses
-Could not tear apart, the prophecy
-That no decree could silence, the forces
-Of a mountain people's memory.
-
-Honor {{c|3606|Tupac Amaru}}--whose blood
+So honor {{c|3606|Tupac Amaru}}, whose blood
 Was scattered to the four winds and the four
 Directions of the {{c|3403|Inca}} world, the flood
-Of royal crimson on the {{p|Cuzco}} floor
+Of royal crimson on the {{p|Cuzco}} floor,
 
 That seeped into the earth and fed the root
-Of every revolution yet to come.
-They quartered him, but from the living shoot
-Of his sacrifice the millions would become
+Of revolutions that were yet to come;
+They quartered him; but from the living shoot
+Of sacrifice, the millions would become
 
-The thunderbolt he promised: I will return.
-The {{p|Andes}} hold his name. The condor flies
-Above the peaks where his scattered ashes burn,
-And the sun that the {{c|3516|Spanish}} killed still rises.
+The thunderbolt he promised: I return.
+The {{p|Andes}} hold his name; the condor flies
+Above the peaks where scattered ashes burn,
+And the sun the {{c|3516|Spanish}} killed still will rise.
 
 
 # Chapter 249: The Northwest War
