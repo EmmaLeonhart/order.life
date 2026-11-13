@@ -7,7 +7,7 @@ From forge and field their hopeful banners thrust.
 
 Yet scarlet suns twice scorched the mourning earth,
 Their silent fire wrote horror on the sky;
-But hope endured where ash replaced the sand,
+But hope endured where ash lay on the earth,
 And swore that war’s last ember here would die.
 
 At {{p|Hiroshima}}, August's sixth was clear;
@@ -46,7 +46,7 @@ A list was made; the sky kept no intent;
 Say which the city, and which hour, which light.
 
 A crackling voice on August’s fervent air
-Confessed defeat across the empire’s seas;
+Confessed defeat across the realm’s wide seas;
 In {{p|Times Square}} strangers, dazzled, found a dare,
 And sealed a vow with one unbridled squeeze.
 
@@ -91,18 +91,18 @@ Young soldiers danced beside a wooden fife,
 And swore no tyrant’s reign would last as long.
 
 In {{p|Seoul}} the crowds lit torches in the street,
-Their flags proclaimed the empire’s yoke was done;
+Their flags proclaimed the old yoke’s reign was done;
 Yet lines were drawn where foreign soldiers meet,
 And dawn arose upon a severed sun.
 
 Across the plains of {{p|China}} drums of peace
-Replaced the clash of empire’s hungry blade;
-Yet rival banners gathered, never ceased,
-And thunder warned of storms that had not fled.
+Replaced the clash of the invader’s blade;
+Yet rival banners gathered, would not cease,
+And thunder warned of storms not yet allayed.
 
 In {{p|Tokyo}} the courtroom lights burned slow,
 Two years of witness weighed each mortal crime;
-Yet on the throne a sacred ember glowed,
+Yet on the throne the sacred embers glow,
 And judgment blurred along the edge of time.
 
 On {{x|New Year}}'s day I set down my decree:
