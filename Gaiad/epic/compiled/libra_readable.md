@@ -1738,65 +1738,85 @@ Unnamed, unsigned; and remember them still.
 
 # Chapter 301: The Black Ships and the Strangers' Graves
 
-For two hundred years {{p|Japan}} had watched the sea through four gates alone.
-On the eighth of July, 1853, four ships came into the bay at {{p|Uraga}}, near {{p|Edo}},
-Two of them steaming against the wind, their smoke on the summer sky, a black unknown:
-The *kurofune*, the black ships. The locked country ended in an afternoon. And so
+Two hundred years, {{p|Japan}} watched through four gates;
+July the eighth, in fifty-three, four came
+To {{p|Uraga}}, near {{p|Edo}}; steam, the weights
+Of smoke against the wind: black ships, by name,
 
-Commodore Matthew Perry of the United States would not go where foreigners were sent,
-To {{p|Nagasaki}}; would not deal with minor officials; carried his president's letter, and behind it the gun,
-And said: I will come back for the answer. And he went,
-And came back in February with nine ships; and the shogun's men, who had watched the Qing undone
+The *kurofune*; the locked land ended then,
+That afternoon. And Perry would not go
+To {{p|Nagasaki}}, nor with lesser men;
+With his president's letter, guns below:
 
-By the {{x|British}} in their wars, knew what the guns could do. On the thirty-first of March,
-1854, at {{p|Kanagawa}}, the treaty opened two ports, {{p|Shimoda}} and {{p|Hakodate}}, to {{x|American}} ships, the start
-Of the end of the {{x|Tokugawa}} world. Perry gave gifts: a little steam train on a circle of track, an arch
-Of iron that the samurai rode, sitting on its roof, robes in the wind; a telegraph; and for their part
+"I will come back"; and, February, nine
+Ships; and the shogun's men, who'd seen the Qing
+Undone by {{x|British}} guns, knew; March, the sign,
+Fifty-four: {{p|Kanagawa}}'s treaty, bring
 
-The {{x|Japanese}} gave silk and lacquer, and sumo wrestlers carrying rice bales, two at a time,
-To show what the land's strength could do. And a young samurai, Yoshida Shōin,
-Rowed out at night in {{p|Shimoda}} to the {{x|American}} flagship, a climb
-Up the dark hull, to beg to be taken to {{p|America}} to learn. They sent him back again.
+Two ports, {{p|Shimoda}} and {{p|Hakodate}}, to
+{{x|American}} ships; {{x|Tokugawa}}'s end;
+Perry gave gifts: a little train, the through
+Track samurai rode, robes in wind; to send
 
-He was jailed, and taught from his prison, and his students would make the new {{p|Japan}};
-And he was executed in 1859, at twenty-nine. Within fifteen years the shogunate was gone.
-That is the history. This is the day of the dead. At {{p|Shimoda}}, a {{x|Buddhist}} temple's span
-Of ground, {{p|Gyokusen-ji}}, took in the first dead of the opening, at its dawn:
+A telegraph; and silk and lacquer gave
+The {{x|Japanese}}; and sumo wrestlers bore
+Rice bales two at a time; and, young and brave,
+Yoshida Shōin rowed out, by night, before
 
-{{x|American}} sailors who died of illness on a foreign shore, buried there in 1854.
-And the next winter the {{x|Russian}} frigate *{{x|Diana}}*, come to make a treaty too,
-Was wrecked by the tsunami of the great earthquake, and more
-Strangers' graves were dug at {{p|Gyokusen-ji}}. And the monks, who knew
+The flagship, climbed the hull, and begged to learn
+{{p|America}}; they sent him back; and, jailed,
+Taught from his prison; students, in their turn,
+Made new {{p|Japan}}; he died, his life curtailed.
+
+That is the history. This is the day
+Of the dead: at {{p|Gyokusen-ji}}, the land
+A {{x|Buddhist}} temple, took the first, they lay,
+{{x|American}} sailors, sick and dead; and
+
+Next winter, the {{x|Russian}} *{{x|Diana}}*, wrecked
+By the great earthquake's tsunami; more graves
+Were dug for strangers; and the monks, unchecked,
+Who knew them not, kept them; the incense waves:
 
 Not their kin, kept them as kin; they do still.
-Every year the monks of {{p|Shimoda}} tend the stones of men from across the world,
-The ones the black ships brought who were not saved. They did not have to; they did, of their own will,
-By the temple's own law: a grave is kept. And over the names the incense curled,
+Each year {{p|Shimoda}}'s monks still tend the stones
+Of men across the world, by their own will,
+The temple's law: a grave is kept; names, bones,
 
-Names they never knew. That is the {{x|Eve of Ancestors}} too; but first
-It is your own: your mothers and your fathers, your line, the names you carry, your near dead,
-The grandmother whose hands you remember, the founder of your house, the best and the worst
-Of the people you came from. Call them first. Set their places. Speak what they said.
+Unknown; that's the {{x|Eve of Ancestors}}, too;
+But first your own: your mothers, fathers, line,
+Your near dead, names you carry, hands you knew,
+The founder of your house, the worst, the fine;
 
-And then, as the monks of {{p|Shimoda}} did, keep a lamp for the ones who have no one there:
-The sailors at {{p|Gyokusen-ji}}, the soldiers in every foreign field, the dead far from home.
-They are someone's ancestors. Your own come first; the strangers have a share.
-On this night, when the veil is thin, no one's dead should walk alone.
+Call them the first; set places; let them say;
+Then, as the monks did, keep a lamp for those
+Who have none: sailors, soldiers, far away,
+The dead far from their homes, whom no one chose,
 
-And the opening opened other things: twelve years later, at {{p|Ōura}},
-The hidden Christians came to the {{x|French}} priest and said: our hearts are the same as yours.
-Without the black ships, no church at {{p|Nagasaki}}, no woman whispering, no Santa Maria
-Found again. The forced door, and the kept faith. The guns, and the temple doors
+Are someone's ancestors; your own come first;
+The strangers have a share; and, on this night,
+The veil is thin; no dead should walk, the worst,
+Alone. The opening opened, in light,
 
-Open to the dead of the enemy. All of it, one opening.
-Tonight, light the lamp. Call your own by name, the ones whose blood is in your hands.
-Then be the monk who combs the moss from a {{x|Russian}} sailor's stone, beckoning
-The far dead in. The black ships came, the country opened, and the family of the lands
+More things: twelve years on, at {{p|Ōura}}, there came
+The hidden Christians: "Our hearts are as yours";
+Without ships, no Santa Maria's name
+Found again; the forced door; the temple's doors
 
-Is one tree. Your branch is yours to keep; the strangers' graves are on the tree as well.
-Light the lamp. Say your own names first, the ones you love, and say them true.
-And for the far dead, say their names, if they are known, and ring the temple bell;
-And if their names are lost, say this over them: beloved, we keep you too.
+Open to the enemy's dead: all one
+Opening. Now light the lamp; call by name
+Your own, whose blood you carry; and, as done
+By monks, comb moss from {{x|Russian}} stones, the same
+
+Beckoning the far dead in; and the lands'
+One tree: your branch is yours; the strangers' stones
+Are on the tree as well; light, with your hands,
+The lamp; your own names first, in your true tones;
+
+And for the far dead, say their names, if known;
+And ring the temple bell; and, if unknown,
+Say this above them, over grave and stone:
+"Beloved, we keep you too," as our own.
 
 
 # Chapter 302: Endless Forms
