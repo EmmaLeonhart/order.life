@@ -45988,121 +45988,100 @@ The questions no table can close at all.
 
 # Chapter 315: A Hand and a Name
 
-On the nineteenth of August, 1953, in {{p|Jerusalem}},
-The {{x|Knesset}} passed a law.
-It established an authority of remembrance
-And named the authority with two words from {{c|2181|Isaiah}}.
-A hand and a name.
-The verse had been spoken to the childless:
-A memorial and a name, better than sons and daughters,
-A name that would not be cut off.
-The law took the words for the murdered.
-It did not say the verse had been kept.
-The law's title sets the {{x|Shoah}}, the catastrophe,
-Beside the heroism.
-The halls were not yet the charge.
-The charge was the statute.
+August the nineteenth, nineteen fifty-three,
+The {{x|Knesset}}, at {{p|Jerusalem}}, by vote:
+Authority of remembrance, to be
+Named from {{c|2181|Isaiah}}, the two words he wrote:
 
-The law's first article is the six million
-Of the {{x|Jewish}} people murdered
-By the {{c|4371|Nazis}} and those who helped them.
-It names also the households, the communities,
-The houses of prayer, the schools,
-The institutions of mercy,
-Destroyed in a plan to blot out the name of {{p|Israel}}
-From under the sky.
-The statute says six million.
-The names are kept in {{x|Yad Vashem}}'s book of names,
-And this faith takes them into its ancestor days, every one.
+A hand, a name; to childless ones, the word:
+Memorial and name; better than sons
+And daughters; one not cut off; and conferred
+On the murdered, by the statute, which runs
 
-The killing was a procedure
-Before any memorial had a statute.
+The {{x|Shoah}} beside the heroism, set;
+The statute's charge: the six million, the dead
+Of {{x|Jewish}} people, whom the {{c|4371|Nazis}}, set
+With helpers, killed; and households; schools; and, spread,
 
-On the twenty-second of June, 1941,
-{{p|Germany}} invaded the {{p|Soviet Union}}.
-In the territory taken that summer,
-{{c|2500|Jews}} were shot beside the towns.
-On the twenty-ninth and the thirtieth of September,
-At {{p|Babyn Yar}}, the ravine at {{p|Kyiv}},
-The {{c|2500|Jews}} who had been gathered there were shot.
-A ravine is a place and two days.
-It is not an explanation.
+The houses of their prayer, the mercies' walls,
+Destroyed to blot {{p|Israel}}'s name out from
+Under the sky. Each name {{x|Yad Vashem}} calls
+Into its book; this faith takes all, the sum,
 
-On the thirty-first of July, {{c|4372|Hermann Göring}}
-Charged {{c|4373|Reinhard Heydrich}}
-To prepare what they called the final solution
-Of the {{x|Jewish}} question in {{p|Europe}}.
-An order to prepare is not the first grave.
-The shootings were already underway.
+In its ancestor days, by name; we claim
+The proxy, which is good for them; and so
+The murdered and the ones who lived; the same
+For both. The killing was procedure, though:
 
-On the twentieth of January, 1942,
-At {{p|Wannsee}}, in {{p|Berlin}},
-{{c|4374|Heydrich}} sat with the officials of the ministries.
-The minutes count eleven million {{c|2500|Jews}} in {{p|Europe}}
-As the people the plan named.
-That count is the plan's.
-It is not the number of the dead.
-Do not give the murder to the meeting.
-The meeting arranged the offices.
-The killing did not wait for the minutes.
+Before memorials had laws, it ran.
+June twenty-second, 'forty-one, the war
+Into the {{p|Soviet Union}}; the span
+Of land that summer: {{c|2500|Jews}} were shot, before
 
-At {{p|Oświęcim}} the camp was called {{p|Auschwitz}}.
-There a number was put on the body.
-The number is not a name.
-On the seventeenth of January, 1945,
-The last roll call of that camp's system
-Counted sixty-seven thousand and twelve.
-In the days after, about fifty-six thousand were marched out.
-On the twenty-seventh the {{x|Red Army}} entered
-And found about seven thousand still there.
-The people on the roads were not freed by the gate.
-Do not give the end of the killing
-To the day an army arrived.
+The towns. {{p|Babyn Yar}}, at {{p|Kyiv}}'s ravine,
+September's two last days: those gathered, shot;
+A ravine is a place and two days, seen;
+Not explanation. July's end: the plot:
 
-The same law names a further charge.
-Those who were not {{c|2500|Jews}},
-And who risked their lives to keep a {{c|2510|Jew}} from being taken.
-It calls them the righteous among the nations.
-In that year the law did not judge the cases.
-The judging came later, one person at a time,
-On the word of the person who lived.
-If the one who lived is gone, and left no word,
-The register may not hold the rescuer.
-The rescue is not thereby cancelled.
-A life kept is a particular act
-On a particular day.
-It is not a proof the century came through.
+{{c|4372|Hermann Göring}} charged {{c|4373|Reinhard Heydrich}}, then,
+To plan the final solution, their phrase,
+In {{p|Europe}}; and the shootings, by his men,
+Were underway. And in the coming days
 
-The deputies of {{x|Herut}} did not cast a vote.
-The bill passed.
-The house then stood for five minutes.
+Of 'forty-two, at {{p|Wannsee}}, in {{p|Berlin}},
+{{c|4374|Heydrich}} sat with the ministries; and there
+Minutes counted eleven million, in
+{{p|Europe}}, the plan's own count; the killing there
 
-Hold the name.
-A name in the authority's care is a register
-Set against an erasure that was also a register:
-Lists for trains, numbers on bodies,
-Minutes that counted a people as a plan.
-The later list does not make the earlier list just.
-It does not return a body.
-It does not try the offices.
-Take this consolation, for a scripture owes one:
-The murdered are kept by name among the ancestors of this faith,
-And the righteous who hid them are kept beside them,
-And the verse is fulfilled in the keeping, not in the authority that borrowed its words.
-The striving that can be named is the particular hand
-That kept a person alive,
-And the labor, afterward, of setting a name
-Where a procedure had set a number.
-The law can order the labor.
-It cannot order the death undone.
+Had not waited. {{p|Oświęcim}}: the camp
+Was {{p|Auschwitz}}; numbers set upon the skin;
+The number is no name. And, on the ramp,
+The seventeenth of January, in
 
-Count the authority from the day the {{x|Knesset}} gives.
-Keep the question the statute cannot close.
-Who was killed, by name.
-Who lived, and by what particular refusal.
-This chapter has the dates.
-The names are the work the law ordered,
-And they are not finished here.
+'Forty-five, sixty-seven thousand's roll;
+Then some fifty-six thousand marched away;
+The twenty-seventh, {{x|Red Army}}; the whole
+Found seven thousand there; and, on the way,
+
+The ones on roads were not freed by the gate.
+The same law names a further charge: the ones
+Not {{c|2500|Jews}}, who risked their lives; and, at that date,
+Kept a {{c|2510|Jew}} from the taking: righteous ones
+
+Among the nations. Judged, one at a time,
+And later, by the word the living gave;
+If none is left, the register, in time,
+May miss who saved; but kept, the life they'd save:
+
+One act, on one day, kept a life; not proof
+The century came through. The {{x|Herut}} men
+Cast no vote; the bill passed; beneath one roof
+The house then stood five minutes. Hold, and then,
+
+The name: a name kept in the record's care
+Set against an erasure that was too
+A register: the trains' lists, numbers there
+On bodies, minutes. It does not undo
+
+The death, nor try the offices. But take
+This consolation, for a scripture owes
+One: all the murdered are kept, for their sake,
+Among this faith's own ancestors; and those
+
+Who hid them, righteous, kept beside them; so
+The verse is kept, fulfilled, in keeping; hand
+And name: the hand that kept a life, and, slow,
+The labor, after, of a name to stand
+
+Where the procedure set a number. Law
+Can order labor; not the death undone.
+Count from the day the {{x|Knesset}} gave; and, raw,
+Keep who was killed, by name; and every one
+
+Who lived, and by what particular no;
+This chapter has the dates; the names, the work
+The law ordered, not finished here; they go
+Into our days, and none of them we shirk.
 
 
 # Chapter 316: The Covenant of Peace
