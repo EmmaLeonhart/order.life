@@ -1,81 +1,81 @@
 # Chapter 272: The Sabbath of Sabbaths
 
-It began with a window. On the twenty-third of May, 1618,
-In the castle of {{p|Prague}}, {{x|Protestant}} lords of {{p|Bohemia}},
-Furious that the {{x|Catholic}} king would take back what had been
-Promised, their churches, their law, threw two of the king's men, the phobia
+It began with a window: twenty-third
+Of May, sixteen-eighteen, in {{p|Prague}}: the call
+Of {{x|Protestant}} {{p|Bohemia}}, who heard
+The king, a {{x|Catholic}}, broke his faith; in gall,
 
-Of the moment made flesh, and their secretary, out of a high window.
-They fell some twenty metres and lived. The {{c|3919|Catholics}} said: angels caught them.
-The {{c|3920|Protestants}} said: they landed in a dung heap. The crescendo
-Of thirty years began with a joke about how they fought them
+Threw two of the king's men out of the high
+Window, their secretary too; they fell
+Some twenty metres, lived; the {{c|3919|Catholics}}' cry:
+"Angels caught them"; {{c|3920|Protestants}}: "Dung." The bell
 
-Down. Then the war. At the {{p|White Mountain}} in 1620
-The {{c|3921|Bohemians}} were broken, and their leaders beheaded in the square.
-Then {{p|Denmark}} came in, and was beaten. Then {{p|Sweden}}, and the plenty
-Of {{c|3922|Gustavus}}'s victories, and his death at {{p|Lützen}}, there
+Of thirty years began with that. Then, war:
+{{p|White Mountain}}, twenty: {{c|3921|Bohemians}} broke,
+Their leaders, in the square, beheaded; more:
+{{p|Denmark}} came in, was beaten; {{p|Sweden}}'s stroke,
 
-In the fog. Then {{p|France}}, {{x|Catholic}} {{p|France}}, against the {{x|Catholic}} emperor,
-Because the war was no longer about {{c|472|God}}, if it had ever been.
-It was about who would hold {{p|Europe}}. And the temper
-Of the armies was the temper of hunger. Between
+{{c|3922|Gustavus}}' wins; at {{p|Lützen}}, fog, his death;
+Then {{p|France}}, though {{x|Catholic}}, fought the {{x|Catholic}} crown;
+The war was now for {{p|Europe}}; and the breath
+Of armies, hunger; and, between, each town
 
-The battles, the armies lived on the land: they took
-The grain, the cattle, the daughters, they burned what they could not take.
-In May 1631 the city of {{p|Magdeburg}} was stormed, and the book
-Of its dead was twenty thousand in a day; the wake
+Lived off by armies: grain and cattle took,
+The daughters; burned what they could not convey;
+In thirty-one, {{p|Magdeburg}} stormed, the book
+Of its dead twenty thousand in a day;
 
-Of the fire left a few hundred houses standing. The verb
-*To magdeburgize* entered the languages of {{p|Europe}}.
-The great general {{c|3923|Wallenstein}}, who had built an army no one could curb,
-Was murdered by his own officers at {{p|Cheb}}, the scope
+A few hundred houses stood; and the verb
+*To magdeburgize* entered {{p|Europe}}'s tongue;
+Great {{c|3923|Wallenstein}}, whose army none could curb,
+Was murdered at {{p|Cheb}} by his own, among
 
-Of his ambition too large for the emperor to bear.
-And the people of {{p|Germany}} died: of the sword, of plague, of famine,
-Perhaps a fifth of them, perhaps a third, in some regions the share
-Was half. Villages vanished from the map. The examen
+His officers, his reach too large; and fell
+{{p|Germany}}'s people: sword and plague and dearth,
+A third of them; in some, the half; the knell:
+Wolves in the towns; villages gone from earth.
 
-Of the war's own chroniclers: wolves came back into the towns.
-And then they talked. For five years, from 1643, in two cities,
-{{p|Münster}} for the {{c|3919|Catholics}}, {{p|Osnabrück}} for the {{c|3920|Protestants}}, the crowns
-And the princes and the free cities sent a hundred delegations; the pities
+Then talk: five years from forty-three; two towns,
+{{p|Münster}}, the {{c|3919|Catholics}}'; {{p|Osnabrück}}, the rest,
+The {{c|3920|Protestants}}'; and princes, cities, crowns
+Sent delegations; for months, at the test
 
-And the vanities: they argued for months over who would walk
-Through a door first, who would sit at the head of a table.
-And while they talked, the armies went on fighting. The talk
-Went on. And at last, in October 1648, they were able
+Of who would walk first through a door, they fought,
+Who'd sit at the table's head; all the while,
+The armies fought; the talk went on, and brought,
+October, forty-eight, peace signed in style:
 
-To sign. The {{c|3924|Peace of Westphalia}}. Its terms were not beautiful.
-Each prince would choose the faith of his own land, as before,
-But now the {{c|3925|Calvinists}} were counted too; and the dutiful
-Minority, where it lived, could keep its worship, and more:
+The {{c|3924|Peace of Westphalia}}: its terms not fair;
+Each prince would choose his land's faith, as before;
+The {{c|3925|Calvinists}} now counted too; and where
+Minorities could worship there, and more:
 
-Could leave, with its goods, for a land of its own faith, and not be killed.
-{{p|Switzerland}} was free. The {{p|Dutch}} were free, after eighty years.
-And the idea grew from it, though the treaty never spelled
-It out: that a state is sovereign within its borders, and the spheres
+Could leave, with goods, for lands of their own creed.
+{{p|Switzerland}} was free; the {{p|Dutch}}, free at last;
+And from it grew the thought, though not decreed,
+That states are sovereign in their borders, fast;
 
-Of one faith's houses: no war between them.
-Not tolerance. Exhaustion. Not love. A truce
-Between people who had learned that they could not condemn
-Each other out of existence. That is the use
+Not tolerance: exhaustion; not love: truce
+Of those who learned they could not wipe away
+Each other; and that is the day's own use:
+The {{x|Lifeist}} {{c|3926|Yom Kippur}}, on Sabbath day,
 
-Of this day. The {{x|Lifeist}} {{c|3926|Yom Kippur}} falls on a Saturday,
-Always: the {{x|Sabbath of Sabbaths}}, the day of rest,
-The day of atonement. And the old teaching says: the way
-To atone with {{c|472|God}} for what you did to a person is not addressed
+Always: the {{x|Sabbath of Sabbaths}}, the rest,
+Atonement. And the old teaching: the wrong
+You did a person is not thus addressed
+To {{c|472|God}}; go to the person, ask, be strong;
 
-To {{c|472|God}}. You must go to the person. You must ask.
-The day does not atone for that until you have. Hold it here.
-{{p|Europe}} learned at {{p|Münster}} the slow, humbling task
-Of sitting at one table with the enemy, year after year,
+The day does not atone till that is done.
+{{p|Europe}} learned at {{p|Münster}} the slow, hard task
+Of one table with foes, year on year, one
+Long quarrel at the door; and signed; no mask:
 
-Arguing about the door, and signing anyway.
-The bells rang in the cities when the news came. People wept.
-Some had never known a year of peace. They had a day.
-On the {{x|Sabbath of Sabbaths}}, rest. The promise kept
+The bells rang in the cities; people wept;
+Some never knew a year of peace; a day
+They had. The {{x|Sabbath of Sabbaths}}: the kept
+Promise: not that we love; we stop; the way
 
-Is not that we love each other. It is that we stop.
-That we lay down the sword and go home and plant the field
-That the armies burned. Atone. Go to the one you wronged. Drop
-The argument about the door. Sign. And let the land be healed.
+Is laying down the sword, and going home
+To plant the burned field. Go to whom you wronged;
+Drop the quarrel at the door; sign; the loam
+Grows green; the land heals; rest, where rest belonged.
