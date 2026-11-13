@@ -458,7 +458,7 @@ The war of mice and men would meet its end
 And pale beside the force, the greater might
 That changed life's very course, and brought the old
 And ancient age to end, and brought the night,
-An age that none could mend, as it is told.
+An age that none could mend, nor yet could hold.
 
 The greatest war would fade, and pass away
 Before the challenges, so very vast,
