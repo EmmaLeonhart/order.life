@@ -40,7 +40,7 @@ Their eggs in warm {{p|Antarctica}}: a trace
 Of memory that only, to this day,
 Enamel of the ancient teeth, the place
 
-In {{p|Antarctica}}'s fossil record, keep.
+In {{p|Antarctica}}'s buried stone they keep.
 Then from {{p|Antarctica}} broke {{p|Australia}}
 And drifted north, and in its northward sweep
 Bore {{c|1773|Monotremos}} to its regalia
