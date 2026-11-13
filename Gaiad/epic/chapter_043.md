@@ -115,7 +115,7 @@ With courage as their guide, and go their way
 Across the waters wide, from shore to shore,
 And swim the open waters night and day.
 
-Among his sons, it seems, there could be found
+Among his sons, in time, there could be found
 The seed shrimp, who were safe; but some gave way,
 Degenerate tongue worms, who were not sound,
 Who broke from all the norms and went astray.
