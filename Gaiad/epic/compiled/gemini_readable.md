@@ -2648,140 +2648,95 @@ Where all the Buddha's teaching came and rang.
 
 # Chapter 194: The Islamic Golden Age
 
-The Abbasid Caliphate overthrew the Umayyads
-in 750, moving the capital east to
-the new city of {{p|Baghdad}} founded by al-Mansur
-in 762, a round city with four gates through.
+Abbasids cast the Umayyads down,
+In seven-fifty; and al-Mansur made
+In seven-sixty-two a round new town,
+{{p|Baghdad}}, four gates; and there the learning stayed
 
-{{p|Baghdad}} became the intellectual center
-of the world for four centuries.
-The House of Wisdom, {{x|Bayt al-Hikma}},
-patronized translation of Greek, Persian, Indian century.
+For centuries: the House of Wisdom, where
+The {{x|Greek}}, {{x|Persian}}, {{x|Indian}} books were turned
+{{x|Arabic}}: Aristotle, Plato, there
+With Galen, Euclid, Ptolemy, were learned,
 
-The works of Aristotle, Plato, Galen,
-Euclid, Ptolemy, Hippocrates
-were translated into {{x|Arabic}}, preserved
-when {{p|Western Europe}} had lost most.
+Hippocrates; and kept, when they were lost
+Elsewhere. From {{p|India}} the numbers came,
+The zero, and the decimal, and, crossed
+With {{x|Greek}}, al-Khwarizmi's, whose own name
 
-Indian mathematics — the decimal system,
-zero as a number, algebra's foundation —
-came through al-Khwarizmi, whose name
-gave us "algorithm" and whose work "al-jabr"
+Is algorithm; and his book, the one
+Of {{x|al-jabr}}, is algebra, made whole.
+Al-Razi told the pox and measles, done
+Apart, and tested all his cures; the scroll
 
-gave us "algebra." He wrote in {{p|Baghdad}}
-in the ninth century, synthesizing Indian and Greek
-mathematics into a coherent discipline.
-Without him, modern math would be weak.
+Of the {{x|Comprehensive Book}} he then wrote;
+Ibn Sina wrote the {{x|Canon}}; he joined
+Aristotle to the {{x|Platonists}}' note;
+And Ibn al-Haytham's {{x|Optics}} then coined
 
-Al-Razi (Rhazes) was the great physician,
-who distinguished smallpox from measles,
-pioneered experimental medicine,
-wrote the {{x|Comprehensive Book of Medicine}} in easels.
+The test by trial, the way of finding out;
+Al-Biruni measured the earth, its round,
+And studied {{p|India}}, and wrote about
+All things, a hundred forty books, profound.
 
-Ibn Sina (Avicenna) wrote the {{x|Canon of Medicine}},
-used as the standard medical text in {{p|Europe}} for six centuries.
-His philosophical synthesis of Aristotle and {{x|Neoplatonism}}
-shaped both Islamic and Christian theological tendencies.
+Al-Ghazali: the thinkers lost their way
+In incoherence; Ibn Rushd then wrote
+The {{x|Incoherence}} of it, back, to say
+The thinkers' cause was sound, and kept afloat.
 
-Ibn al-Haytham (Alhazen) founded modern optics
-with the {{x|Book of Optics}}, establishing
-the scientific method through controlled experiment,
-three centuries before Galileo, everything advancing.
+Al-Farabi, the Second Teacher, next
+Aristotle; Ibn Arabi joined
+The {{x|Sufi}} way to thought; and Rumi's text,
+The {{x|Masnavi}}, at {{p|Konya}}, there was coined,
 
-Al-Biruni measured the Earth's circumference
-with astonishing accuracy using trigonometry,
-studied {{p|India}} with anthropological depth,
-wrote 146 treatises spanning every discipline's reverie.
+The greatest of the mystic songs; and spread
+The {{x|Sufis}} from {{p|Morocco}} to the lands
+Of {{p|India}}, a sea; and, by their head,
+The way went on, from teacher's hands to hands.
 
-Al-Ghazali wrote the {{x|Incoherence of the Philosophers}},
-attacking the Aristotelian rationalists of {{x|Islam}}.
-Ibn Rushd (Averroes) wrote the {{x|Incoherence}}
-of the {{x|Incoherence}}, defending philosophy from qualm.
+Al-Hallaj cried {{x|Ana al-Haqq}}; and who
+Could speak for God? The jurists, and the court
+Of {{p|Baghdad}}, held the word; nine-twenty-two:
+That was the fight; and so they cut him short.
 
-Ibn Rushd's commentaries on Aristotle
-would be the foundation of Medieval European
-scholasticism. Thomas Aquinas read him.
-Without Averroes, no {{x|Summa Theologica}}, see.
+Umayyads who lived went on in {{p|Spain}},
+And Córdoba was theirs, a caliph's seat,
+Half a million, books, baths, a lighted lane,
+All paved, when {{p|Paris}} was a muddy street.
 
-Ibn Khaldun in the fourteenth century wrote
-the {{x|Muqaddimah}}, the first work of sociology,
-theorizing about the cycle of dynasties,
-asabiyyah (group solidarity), the rise-and-fall typology.
+Nine-oh-nine: the {{x|Shia}} Fatimids rose
+In {{p|Egypt}}, rival to Abbasid reign,
+And built {{p|Cairo}} and al-Azhar; and those
+In {{p|Mazandaran}}, by {{p|Caspian}}'s main,
 
-Al-Farabi was called "the Second Teacher"
-after Aristotle. Ibn Arabi was the mystical
-unifier of {{x|Sufism}} into philosophical vision.
-Rumi would write the greatest mystical
+The Bavandids, held {{p|Tabaristan}}'s height,
+Woods; kin to Sasanian kings, the last
+Old house of {{p|Iran}} not yet won by fight;
+Qarin the First, eight-seventeen, held fast;
 
-poetry in any language, the {{x|Masnavi}},
-from his Persian-speaking Sufi center in {{p|Konya}}.
-{{x|Sufism}} flourished across the Islamic world,
-from {{p|Morocco}} to {{p|India}}, a mystical ocean.
+When Mazyar rose against the caliph's hand,
+Qarin stood with {{p|Baghdad}}; eight-forty-two,
+He took {{x|Islam}} himself, and kept his land
+Of mountains; so the old kings' blood went through
 
-Al-Hallaj cried "{{x|Ana al-Haqq}}"; the court
-of Baghdad, and its jurists, cut him short:
-the fight was who could speak for God, and who
-would hold the word. That was nine-twenty-two.
+Into new faith: Abul Melik, his son;
+And in eight-sixty-nine, a grandson came,
+Abul Hamza, in {{p|Armenia}}, one
+Of the Artsruni; west, under their name.
 
-The caliphate itself fragmented politically.
-The Umayyads who had survived in {{p|Spain}}
-established the Emirate of Córdoba,
-later the Caliphate, a rival reign.
+The Seljuk Turks came; caliphs kept the name;
+Sultans ruled; at Manzikert they beat,
+Ten-seventy-one, Byzantines, and came
+To {{p|Anatolia}}; and in each street,
 
-{{p|Córdoba}} became the greatest city in {{p|Western Europe}},
-with half a million people, libraries of hundreds of thousands of books,
-public baths, street lighting, paved streets.
-In an age when {{p|Paris}} was a muddy village of outlooks.
+{{x|Hanafi}}, they built their schools; learning went
+On, till twelve-fifty-eight, the Mongols came,
+Took {{p|Baghdad}}, and the Abbasids were spent;
+The books thrown in the {{p|Tigris}}; it became
 
-The Fatimid Caliphate arose in {{p|Egypt}} in 909,
-{{x|Shia}} Ismaili, rivaling the {{x|Sunni}} Abbasids.
-They founded {{p|Cairo}} and the al-Azhar University,
-which has taught Islamic scholarship continuously for ages.
-
-On the {{p|Caspian}}'s southern shore, in {{p|Mazandaran}},
-the old princes of {{p|Tabaristan}} held the forest and the height,
-the Bavandids, who named the Sasanian kings as kin,
-the last of {{p|Iran}}'s old houses not yet taken by the fight.
-
-Qarin the First ruled there from 817,
-and when his rival Mazyar rose against the caliph's hand,
-Qarin stood with {{p|Baghdad}}, and in 842
-he took {{x|Islam}} himself, and kept his mountain land.
-
-So the blood of the old kings went on inside the new faith.
-His son Abul Melik carried it, and in 869 a grandson came,
-Abul Hamza, born in {{p|Armenia}}, among the Artsruni,
-and the line of {{p|Tabaristan}} went west under an Armenian name.
-
-The Seljuk Turks took over the {{x|Abbasid}} heartland
-in the eleventh century, nominal caliphs remaining
-but real power with the sultan.
-They defeated the Byzantines at Manzikert in 1071, maintaining
-
-Turkish dominance in {{p|Anatolia}}, which would
-eventually become modern {{p|Turkey}}.
-This was the beginning of the end for {{p|Byzantium}},
-whose heartland was now lost irretrievably turkey.
-
-The Seljuks were {{x|Sunni}}, patronized the mainstream
-{{x|Hanafi}} school of Islamic jurisprudence.
-They also patronized learning, building madrasas
-across their empire, educational abundance.
-
-{{p|Baghdad}} itself would fall to the Mongols in 1258,
-ending the Abbasid Caliphate formally.
-The House of Wisdom's books were thrown in the {{p|Tigris}}.
-The {{p|Tigris}} ran black with ink, conformably.
-
-That is the end of the {{x|Islamic Golden Age}}.
-But what was produced in those four centuries
-is one of the greatest intellectual legacies
-of human history, rivaling any civilization's treasures.
-
-Without Islamic transmission of Greek learning
-through {{p|Córdoba}} and {{p|Toledo}} to Christian {{p|Europe}},
-there would have been no {{x|Renaissance}}.
-The chain of transmission included this stoop.
+Black with their ink. So honor that bright age,
+Four centuries: the numbers, and the cure,
+The optics, and the thought, the {{x|Sufi}} page,
+Through {{p|Córdoba}}, {{p|Toledo}}, and kept sure.
 
 
 # Chapter 195: Charlemagne and Byzantium
