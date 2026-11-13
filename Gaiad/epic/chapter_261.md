@@ -73,9 +73,9 @@ Her mother's, comes from {{c|3809|Bures}}; and of old,
 Born fifteen-oh-five, her child: {{c|3811|Kerstin}}, born
 In thirty-three; they stand before the scrolls,
 Alive in the family book; and, sworn,
-Keeper's one oath: say which is which; the rolls
+Its keeper holds them true, as the tax rolls
 
-Begin the {{c|3809|Bures}} sure; the book, still more.
+Hold Olof true: one line, one kin, and more.
 {{c|3812|Gustav Vasa}} died in sixty; he made
 A state from a rebellion, and, before,
 A church out of a ledger; land, debt, laid;

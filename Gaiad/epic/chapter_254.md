@@ -47,18 +47,13 @@ Of scurvy, which killed more than half their craft;
 
 The pepper paid the voyage sixty-fold.
 And so the sea was opened, and the hem
-Of the world lifted. Hear the price, as told:
-{{c|3711|Da Gama}} came again, with guns; and them,
-
-The pilgrims, homeward bound from {{p|Mecca}}, he
-Took on the {{c|3712|Miri}}, stripped and burned; the gold
-The women offered for their lives; the sea
-Took children in the flame. Then, harsh and bold,
+Of the world lifted. Then, with cannon, bold,
+{{c|3711|Da Gama}} came again; and after them,
 
 {{c|3713|Albuquerque}} took {{p|Goa}}, took the strait,
 {{p|Melaka}}, where all {{p|Asia}}'s trade ran through,
-The gate of cloves; the free bazaar, of late,
-Became a toll road; pay, or burn, they knew.
+The gate of cloves; and {{c|3212|Portuguese}}, by weight
+Of passes, ruled the sea the dhows once knew.
 
 {{c|3714|Cabral}}, in fifteen hundred, sailed too far
 West, bound for {{p|India}}, and found {{p|Brazil}},
@@ -117,10 +112,10 @@ One sphere to sail around; one market, knit;
 
 One reckoning of days. The many grown
 One world, by cannon, pepper, and by sun.
-The joining starts: by force; the temple's stone;
-A knee; a slave who came home; hold each one.
+The joining starts: in trade; the temple's stone;
+A knee; the goddess and the {{c|3708|Mother}}, one.
 
-Hold all three. The sea joins; and from this day
+So hold it. The sea joins; and from this day
 The world will not be free of all the rest
 Of the world; many seas have passed away:
 One sea, one sphere, one market, east to west.

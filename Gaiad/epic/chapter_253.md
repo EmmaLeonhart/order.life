@@ -147,10 +147,10 @@ West of it {{p|Spain}}'s, east {{p|Portugal}}'s, the sea.
 
 At {{p|Tordesillas}} the kings moved it west;
 The fisherman's heir split between two crowns
-A world they'd never seen; and all the rest,
-{{c|3705|Taíno}}, {{c|3403|Inca}}, {{c|3706|Tupinambá}}, the towns,
+A world they thought was small and finite, pressed
+Into a field to share, like farms and towns:
 
-Unasked. The plan was paper, and the writ
+The old small cosmos' last hurrah; the writ
 The paper. Fifteen hundred years: a line
 From fisherman to this; and, keeping it,
 Some saints, some murderers; the chair divine;
