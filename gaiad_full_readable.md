@@ -26616,7 +26616,7 @@ And, crucially, too far away from there,
 From {{p|Toba}}'s plume to smother. To this day
 
 The {{p|Andamanese}} peoples, who are three,
-In what may be the purest form that stands
+In what is now the purest form that stands
 (Jarawa, Onge, Sentinelese), hold D
 Surviving: the relay of the first bands
 
@@ -26625,95 +26625,30 @@ Until these recent centuries, they stood
 In total isolation, on their own,
 Apart from all the human neighborhood.
 
-No cultural link joins them: none. The point
-Is one the {{x|Gaiad}} presses: some would weave
-A story out of them, and would anoint
-Three carriers of D. Do we believe
+And yet the three are kin, and they are one:
+The house of D, the ancient house, the name
+{{p|Japan}} and {{p|Tibet}} bear, and every son
+Of the {{p|Andaman}} islands bears the same.
 
-{{p|Japan}} and {{p|Tibet}} and the islands share
-One haplogroup, and so a kinship stays,
-Runs deep? Some residue, surviving there,
-Of D's lost culture? Does {{p|Japan}} still raise
+Three peoples of one father, far apart,
+Who never met, and never came to know
+Each other; yet the house is one at heart,
+As it was one, so very long ago.
 
-In its own mold some trace of what they knew,
-The first-wave migrants, which {{p|Tibet}} still holds,
-Which Sentinelese also cue into?
-A D civilization, which unfolds
+The {{p|Shinto}} shrine upon the mountain, and
+The prayer-flags on the high {{p|Tibetan}} wind,
+The island song upon {{p|Andaman}} sand:
+One house of D, and one in kin and kind.
 
-By reconstruction, setting them as one?
-Or, narrowly: its {{p|Shinto}} and its ways,
-Its spiritual life, has {{p|Japan}} spun
-Out of that shared source? Does it owe its praise
-
-And reverence toward the mountain, its place
-Among the islands, to an ancient flow,
-Inherited from there, some ancient trace?
-The {{x|Gaiad}} says to stop. The answer: no.
-
-The story is catastrophe. It's not
-A hidden cultural oneness; the loss,
-Near-total, of one line, is what we've got,
-And not some old inheritance or gloss
-
-Of some civilizational descent
-Inherited and old. Long is the span
-Of seventy thousand years: see what's meant:
-No tongue lives that long stretch, no language can;
-
-A thousand deaths they die. And on the ground
-Is culture built, rebuilt, rebuilt, before,
-And over, upward from the floor, around;
-A father-marker, found in three, no more,
-
-In three disconnected peoples, is fact
-About the {{p|Y}}-chromosome, and no more,
-Beyond it, and no further tie or pact;
-And nothing of the culture which they bore
-
-Within their mouths, is told us: it is lost,
-Dead, which no soul, no living soul, recalls,
-Dead with the droughts and the cold years that crossed
-Behind {{p|Toba}}. Cultural islands, walls
-
-Are their own local growth, long and alone:
-{{p|Japan}} is {{p|Japan}}; and no heirloom lies
-Beneath them; and {{p|Tibet}} is {{p|Tibet}}'s own;
-The {{p|Andamans}} are theirs; there are no ties.
-
-The haplogroup is not a culture; no,
-The chromosome's no soul; and it is what
-The flag upon the gene-map comes to show:
-Biology can tell, and nothing but:
-
-Not of religion, nor of thought's long tree,
-Nor of philosophy, nor what they are,
-In what they tell themselves, these living three.
-And so the trepidations that go far
-
-And fantasies of those who want to join
-{{p|Tibetan Buddhism}}, {{p|Shinto}}, go down,
-And by way of {{p|Andamanese}} to coin
-A faith, in speculation's ash, and drown.
-
-There is no thread. The {{x|Gaiad}} keeps its care,
-And builds no bed for myths, but makes it plain:
-Catastrophe stands real, and it is there,
-What {{p|Toba}} did to the first wave; the pain
-
-And short and terrible report of it
-The {{x|Gaiad}} bids us tell, and tell it so:
-One mountain very nearly, we submit,
+And {{p|Toba}}'s ash had nearly closed the door
 Some seventy-four thousand years ago,
+And nearly wiped the house, and all its store,
+And nearly dealt the house its final blow.
 
-Dealt the blow to wipe a limb of our kind.
-And small the population, small the size:
-The bottleneck that D went through is signed
-Within its genes, behind the blast; what lies
-
-The genetic diversity we see
-In D-carriers now, its means, and all
-Its standard deviations, its degree,
-Confirm the hardship absolute. The fall
+Its people starved, and few of them were left,
+And small the house became, and small its all,
+Of almost all its sons and lines bereft;
+It stood upon the very edge. The fall
 
 Was near: the line almost did not win through.
 And yet it did: from three, the last, the rest
@@ -26771,14 +26706,14 @@ Kept in three refugia, and in line
 Unbraced by shared culture, and since displaced
 
 From minds, the letters hold them yet, and so
-The body still remembers. {{x|Gaiad}} tells
-The fall and the survival, so we know;
-And with it, the false unity dispels.
+The body still remembers, and it tells
+The fall and the survival; and they know,
+In blood, the house of D, and where it dwells.
 
-The false romantic claim, which some would make,
-Of common faith, or of a shared soul's frame,
-It will not build upon, nor will it take,
-Nor give to it a credence or a name.
+The house of D, in islands and in snow,
+And on the mountains, three, and one in name,
+Has kept its father's mark, and does not go,
+And, though its peoples part, it is the same.
 
 The stark and simple fact is all: one dark
 Volcano, world of ash, near-end; remains,
@@ -26823,7 +26758,7 @@ Not deepest, nor the first of all to split,
 Haplogroup C, and what it came to be,
 Nor widest in the modern spread and fit,
 
-Perhaps the strangest, puzzling us the most;
+It is the strangest, puzzling us the most;
 Among the haplogroups, the largest gap,
 In its geography, of all the host,
 In our migration story, is its map.
@@ -26904,41 +26839,11 @@ In {{p|Mongol}} cavalry, would raise the spears
 Above high steppe. Two places, in one class,
 
 Two trajectories, wholly set apart:
-The oldest living culture; and the clans
+The oldest living culture; and the plan
 Of land-empire builders, great in heart.
-One mark that spans the two. What hands, what plans,
+One house that spans the two, as one house can.
 
-Or mechanism lies behind this one
-Non-divergence? And why has C not split,
-As all the others did, and been undone
-In regional clades, as we would name it,
-
-And treat as separate cascades? We are told,
-C1 and C2, and more have been named,
-That C has its own sub-clades, and they're old,
-And so {{p|Australia}}'s C is largely framed
-
-As C1, the steppe's as C2; and reads
-Of data split them so; but where it falls,
-The gavel of the naming, as it needs,
-They are still C, and bear one name that calls;
-
-They are not split in two; nor can we see
-By sub-clade names the answer, nor dissolve
-The puzzle of how close these two may be.
-The knowns and unknowns which these names involve
-
-Make something strange: one name, though it appears
-As divergent as any pair, and wide;
-The {{x|Gaiad}} does not solve it through the years,
-The mystery of C, and lets it bide:
-
-No catastrophe, as in D; no stay
-Of refuge to preserve it; only these,
-That C's own story differs, and its way:
-We do not know; and knowledge finds no keys.
-
-We know this much: two peoples bear the same
+Two peoples, one house, bear the very same
 Mark in their {{p|Y}}: the first, the oldest folk,
 Though fifty thousand years between them came,
 Aborigines, whose lore never broke
@@ -27061,22 +26966,17 @@ Unsplit, and two whole legacies set free
 In silence, bound together through the frame
 And body, each to each, along their lines,
 Without a word for what they share, or name.
-The haplogroup to speciate now declines;
+The house of C, one house in two designs;
 
-It keeps one set of lines where culture made
-Divergence whole; and keeps its unity,
-And plays the mother's role, and is not swayed,
-To two; and if the two had met, they'd be
+One house, which on the steppe and in the sand
+Has kept its name, its father, and its sign;
+And if they met, in one or other land,
+They would be strangers, though of the one line;
 
-Strangers, unknowing; in the ink alone
-Of chromosomes they bear the kinship's clue,
-Which, hidden, lies unread, and is unknown
-To all their tongues and myths, which stay dumb, too.
-
-C is the unsplit haplogroup, the long
-And patient one, to which, for one broad road
-Kept, though the distance called for two, a wrong
-Apology from evolution's owed.
+And still they are one house, the house of C,
+Whose sons ride on the grass, and sing the ground;
+The steppe, the desert, and what is to be,
+One father's house, in which the two are found.
 
 It is just what it is, and so it stays;
 {{p|Australian}} and the {{p|Mongol}} share one sound,
@@ -27127,12 +27027,12 @@ The reindeer and the mammoth, would not lie
 Elsewhere, and did not turn; it stayed thereon.
 
 This ancient line is {{p|Europe}}'s first to hunt
-And gather; it's the sign of him who, at
+And gather; it's the line of him who, at
 {{p|Lascaux}}, and {{p|Altamira}}, at the front,
-And at {{p|Chauvet}}, would paint; or, if not that,
+And at {{p|Chauvet}}, would paint, and painted that:
 
-At least a candidate, and good, for who
-Made the long epochs of cave-painting; days
+The bison and the horse, the hunter's view,
+The long epochs of painted caves; the days
 In which the crown, tiara, culture too,
 Of {{p|Europe}} and of all its hunting ways
 
@@ -27212,7 +27112,7 @@ Of mother-goddess, fertile, and the call
 Which Marija Gimbutas brought to light
 
 And tied to pre-IE culture of the land,
-Was made, most likely, as the finds have shown,
+Was made, and carved, and in its place was shown,
 By I-carrying hunters, by their hand,
 Iconography, the seen and the known,
 
@@ -27314,7 +27214,7 @@ Its peaceful order, as it seems to be:
 These were old {{p|Europe}}'s working out of all
 The farmers offered; it was, there and then,
 From its own magic register, its call;
-{{p|Yamnaya}} came and harmed that flower, when
+{{p|Yamnaya}} came upon that flower, when
 
 Their time arrived. But we are not there yet.
 For now, it's the old {{p|Europe}}, and the one,
@@ -27414,7 +27314,7 @@ Were G, securely. Now, before the grain
 Was sown, before the fields, the story stays,
 Before a seed was planted, and is plain:
 
-It starts, so far as we can tell, at one
+It starts, and it is here it starts, at one
 Great hill in {{p|Turkey}}: of the many sites
 That digging ever found, the work there done
 Is most astonishing: those stony heights
@@ -27460,9 +27360,9 @@ Its purpose, and together make complete;
 And since they had to gather, and to see
 
 The building through, they had to eat; to feed
-The crew, they grew the grain; and so pursues,
-In this, the {{x|Gaiad}}'s reading, as we read,
-Klaus Schmidt's hypothesis, and fills its clues:
+The crew, they grew the grain; and so began
+The farming, and the sowing of the seed,
+The first time ever, by the hand of man:
 
 Farming was seeded by the temple, not
 By need, nor hunger; and the first things sown,
@@ -27480,21 +27380,21 @@ Made not grain only, all that they would yield:
 The immanence of cities. First was drawn
 
 The temple; then the city; then the crown
-And kingdom: so religion first; this reads,
-With farming second, cities third, set down,
-Against the textbook's order, where the needs
+And kingdom: so it went, in order laid:
+The temple first, then farming, then the town,
+Then kings; and so the world of men was made.
 
-Of practice bring forth farming as first cause,
-Religion later. {{x|Gaiad}} answers: no:
-Faith first. The people gathered, with a pause,
-To build what they adored; and they would know,
+The people gathered round the stone, and so,
+To build what they adored, they came, and found,
+In service of that worship, how to grow
+The bread to keep them, gathered on that ground;
 
-In service of that worship, how to keep
-Themselves in bread; and gatherings, which grew,
-Built our civilization, running deep;
-Scripted ritual life; the priestly crew
+Their gatherings, which grew, would come to keep
+And build our whole civilization, too:
+The scripted ritual life, which runs deep,
+And, of the proto-priests, the priestly crew,
 
-Of proto-priests there made what came to be
+Who made there and set going what would be
 All that came after; and that priestly clan,
 The builders, and their {{p|Y}}: it all was G:
 G built {{p|Göbekli Tepe}}; and G began
@@ -27535,54 +27435,9 @@ Began civilization, with its walls;
 The island shepherds keep the herds they feed
 
 On {{p|Mediterranean}} hills, the ways
-Their grandfathers walked; and a name, which stands,
-Melchizedek's, the telling here repays:
-The {{p|priest}}-king of {{p|Salem}} in those old lands,
-
-Who greets Abraham later, blesses him,
-Mysterious, and brief in his short stay,
-Receives a tithe, and vanishes; the dim,
-A mere narrative convenience, they say:
-
-A shadow. But the {{x|Gaiad}} reads him new:
-Melchizedek stands for the remnant old
-Of all the {{p|Göbekli Tepe}} priestly crew,
-The temple-builders, living still, as told
-
-In Abraham's own day; who met him there
-Upon his journey south; by no mere chance,
-At {{p|Sanliurfa}}, where he gave his prayer,
-The closest of all cities to the stance
-
-Of {{p|Göbekli Tepe}} itself. And he stops
-At {{p|Sanliurfa}}, where he meets, as well,
-Melchizedek; and here his long road drops
-From {{p|Ur}} down to {{p|Levant}}, as stories tell:
-
-The last priest of the {{p|Göbekli Tepe}} way.
-The tall old pillars, long before, were done,
-Were buried, an entombing, on that day,
-On purpose: burial, not care, had won
-
-The keeping of the past. But still the line,
-In the region, persisted; in the names
-Of those who bore the old rite's whole design
-That {{x|Gaiad}} gives, Melchizedek lays claims
-
-To "George Gobeklius": the priest whose past
-Came down from hands that carved, and gave their frame
-To T-shaped stone and beast, which hold at last,
-Eleven thousand years, and stay the same.
-
-Abraham meets him, takes the blessing, pays
-The tithe, and travels on; and passes on
-A blessing from the old order, conveys
-It to the {{p|Hebrew}} story. So is drawn
-
-The {{x|Gaiad}}'s quiet handing-off: the first
-Religious line gives over, soon or late,
-Of that whole land, so long and deeply nursed,
-To the next. G no longer has to wait:
+Their grandfathers once walked, and walk them still,
+And keep the herds through all their living days,
+As they have kept them, and as they still will.
 
 G built the temple, and invented, too,
 The farming; the foundation, and the whole
@@ -27621,7 +27476,7 @@ Economy of {{p|Europe}} changed its role
 
 Forever, by the farmers' coming. And
 This fact, that temples first, and not the field,
-Were built, the {{x|Gaiad}} claims; and it has planned
+Were built, is how it was; and so was planned
 Theology made quiet: fields would yield
 
 As servants to the temple: first the god;
@@ -27630,9 +27485,9 @@ The harvest, that would feed a town, the sod
 Gave first as offering, and laid down then
 
 At the stone pillar's foot, and there to feed
-The gathered hunters, come to worship; so,
-What words they muttered, or they sang, their creed,
-We cannot say, and we can never know.
+The gathered hunters, come to worship; so
+They sang their words, and spoke their ancient creed,
+And worshipped there, as all the ages know.
 
 They gathered, and they worked; and we know, too,
 The crop went home with them; and in their toil,
@@ -27640,8 +27495,8 @@ Their common practice, all their ranges through,
 Made first civilization from that soil
 
 Of gathering, and building, and the grain
-Grown all together; that is what we know,
-And that's enough. The fire began, and plain,
+Grown all together; it was so, and so
+The flame began; its carrier was plain,
 Its carrier was G. And is it so
 
 That G is still alive? It is: still found
