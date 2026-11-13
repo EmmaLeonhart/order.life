@@ -2234,92 +2234,90 @@ Here: our hearts are the same, and run deeper.
 
 # Chapter 275: The Mandate Changes Hands
 
-The {{c|3837|Ming}} had held the {{x|Mandate of Heaven}} for two hundred and seventy-six years.
-In the 1630s the sky turned against them: the long cold
-Of the little ice age, the drought, the locusts, the tears
-Of famine in the north, the silver from the {{p|Americas}}, gold
+The {{c|3837|Ming}} held the {{x|Mandate of Heaven}} long;
+The sixteen-thirties: then the sky turned cold,
+The little ice age, drought, the locust throng,
+Famine; {{p|Americas}}' silver; the gold
 
-Of the world trade, drying up, so the peasants could not pay their tax.
-The soldiers went unpaid. The eunuchs ruled the palace.
-And out of the starving provinces, the axe
-Of rebellion: {{c|3941|Li Zicheng}}, a dismissed postal courier, the malice
+Of world trade, drying; peasants could not pay;
+The soldiers went unpaid; the eunuchs schemed;
+And from the starving provinces, the day
+Of {{c|3941|Li Zicheng}}, a courier, who dreamed,
 
-Of the hungry behind him, took {{p|Xi'an}}, and named a dynasty, and marched east,
-And in April 1644 his army came to the walls of {{p|Beijing}},
-And the gates were opened from inside. The emperor, the last, the least
-Fortunate of the line, {{c|3942|Chongzhen}}, rang the bell to summon the ministers. The ring
+By hunger, he took {{p|Xi'an}}, named a line,
+Marched east; in April, forty-four, the walls
+Of {{p|Beijing}} opened from within; the sign:
+{{c|3942|Chongzhen}}, the last, rang the bell; and the calls
 
-Brought no one. He walked out of the palace with one eunuch
-To the hill behind the {{p|Forbidden City}}, {{p|Jingshan}}, {{p|Coal Hill}},
-And hanged himself from a tree. On his robe, the story says, he wrote: the fortune
-Of the realm was lost by my ministers; let the rebels kill
+Brought no one. With a single eunuch, out
+To {{p|Coal Hill}}, {{p|Jingshan}}, by the palace wall,
+And hanged himself from a tree; and, no doubt,
+Wrote on his robe: "My ministers lost all;
 
-Me, not my people. The tree they show today was planted later.
-And at the {{p|Great Wall}}, at {{p|Shanhai Pass}}, where the wall comes down to the sea,
-The general {{c|3943|Wu Sangui}} held the gate against the {{c|3175|Manchus}}, the greater
-Danger, he had thought, until the capital fell, and he
+Let rebels kill me, not my people." There,
+At the {{p|Great Wall}}, at {{p|Shanhai Pass}}, by sea,
+{{c|3943|Wu Sangui}} held the gate against the glare
+Of {{c|3175|Manchus}}, till the capital fell; he
 
-Had to choose: the rebel who held {{p|Beijing}} and his family,
-Or the enemy at the gate. The story says the rebel had taken his concubine,
-{{c|3944|Chen Yuanyuan}}, and that decided it. Love, or calculation, or the family
-Of motives no one knows: he opened the pass. The line
+Must choose: the rebel in {{p|Beijing}}, his kin,
+Or the foe at the gate; the rebel took
+His love, {{c|3944|Chen Yuanyuan}}; and, within
+That wrong, he chose: he opened, and forsook
 
-Of the {{c|3945|Manchu}} banners came through, and with {{c|3946|Wu}}'s army broke the rebels,
-And entered {{p|Beijing}} in June, and did not leave.
-A boy of six, {{c|3947|Shunzhi}}, was enthroned, his uncle {{c|3948|Dorgon}} ruling. The levels
-Of the {{x|Mandate}}: {{c|2162|Heaven}} gives it, and {{c|2162|Heaven}} takes it, and the reprieve
+The rebel; {{c|3945|Manchu}} banners came, and broke,
+With {{c|3946|Wu}}'s, the rebels; took {{p|Beijing}} in June,
+And did not leave; a boy of six, the yoke
+On {{c|3947|Shunzhi}}, {{c|3948|Dorgon}} ruling; and the boon
 
-Is never long. The {{c|3175|Manchus}} were few: perhaps one in a hundred
-Of the people they now ruled. They ruled them by two things.
-The first was the body. In 1645, the order: every {{c|3949|Han}} man shall be sundered
-From his hair: shave the forehead, braid the rest in a queue. The rings
+Of the {{x|Mandate}}: {{c|2162|Heaven}} gives it, and takes,
+The respite never long. The {{c|3175|Manchus}}, few,
+One in a hundred whom they ruled, with stakes:
+Two things: the body first; forty-five: new
 
-Of the slogan: *keep your hair and lose your head, or keep your head
-And lose your hair.* For a {{x|Confucian}}, the hair was the gift of the parents,
-Not to be cut. Men chose death. At {{p|Yangzhou}}, the dead
-Were counted for ten days after the city fell; the inherence
+Order: each {{c|3949|Han}} man shaved, his forehead bare,
+The rest braided in a queue; "Keep your hair,
+Lose your head"; and for the {{x|Confucian}}'s care
+Of parents' gift; and men chose death; and there,
 
-Of terror was the point. At {{p|Jiading}}, three massacres.
-The braid, which the {{p|West}} would later think was simply {{c|3841|Chinese}},
-Was the mark of conquest, worn for two hundred and sixty years. The heirs
-Of the {{c|3837|Ming}} cut it off in 1911 as a declaration. Hold these:
+At {{p|Yangzhou}} ten days' counting of the dead;
+At {{p|Jiading}} three massacres; the braid,
+The mark of conquest, worn, by terror bred,
+Felt one's own; and the second thing they made:
 
-Identity written on the body by the conqueror,
-And worn until it felt like one's own. And the second thing:
-The {{c|3175|Manchus}} became more {{x|Confucian}} than the {{c|3837|Ming}}. The honor
-Of the classics, the examinations, the rites to {{c|2162|Heaven}}, the king
+The {{c|3175|Manchus}}, more {{x|Confucian}} than the {{c|3837|Ming}}:
+Exams and classics, {{c|2162|Heaven}}'s rites, the lights
+Of the old cosmos; patronized; the king
+{{c|3950|Kangxi}}, the great, made dictionaries, heights
 
-Of the old cosmology: they kept it all, and patronized it,
-And the great {{c|3950|Kangxi}}, who ruled sixty-one years,
-Compiled the dictionary, the encyclopedias, and was praised for it
-By the very scholars whose grandfathers had died by the spears
+Of encyclopedias, praised by those
+Whose grandfathers had fallen to the sword
+Of his grandfather's men. The {{x|Mandate}} goes
+To one who keeps the thing he conquered: ward.
 
-Of his grandfather's men. That is how the {{x|Mandate}} is won:
-By becoming the keeper of the thing you conquered.
-And the {{c|3837|Ming}} loyalists held out in the south, one by one
-Falling, and one of them, {{c|3951|Koxinga}}, a pirate's son, conjured
+The {{c|3837|Ming}} loyalists held south, one by one,
+Fell; and then {{c|3951|Koxinga}}, a pirate's son,
+Raised armies, fleets; in sixty-two he won
+{{p|Taiwan}} from the {{c|3869|Dutch}}; {{p|Tainan}}'s fort, undone
 
-An army and a fleet, and in 1662 took {{p|Taiwan}} from the {{c|3869|Dutch}},
-The {{c|3877|Company}}'s fort at {{p|Tainan}} surrendered after a siege of nine months:
-The first time a {{c|3841|Chinese}} army drove out a {{c|3401|European}} power. Such
-Things the ledger of {{p|Batavia}} did not foresee. The once-
+After nine months: the first time {{c|3841|Chinese}} drove
+A {{c|3401|European}} power out; such things
+{{p|Batavia}}'s books foresaw not; and wove
+The hunted one a god in temples' rings
 
-Hunted loyalist became a god in {{p|Taiwan}}'s temples,
-And a hero to the {{c|3952|Qing}} who had hunted him, and to the {{c|3815|Japanese}},
-For his mother was {{c|3815|Japanese}}, and to the {{c|3626|Republic}}. The examples
-Of the use of the dead multiply. Hold these
+{{p|Taiwan}}'s; a hero to the {{c|3952|Qing}} he fought,
+And to the {{c|3815|Japanese}}, his mother's kin;
+And to the {{c|3626|Republic}}: the dead are sought
+By all sides. Hold: the {{x|Mandate}} passes; in
 
-On this day: the {{x|Mandate}} passes; the conqueror becomes the keeper;
-The body is made to carry the new order; the loyalist becomes a saint
-Of all sides. And the peasant, the courier, the famine-sleeper
-Who began it, died a year later in the hills of {{p|Hubei}}, no one sure how, without restraint
+The conqueror, the keeper; and the frame,
+The body bears the order; loyal shade
+Of all sides. And the courier, whose name
+Began it, died in {{p|Hubei}}, no shrine made,
 
-Of fame or a temple. The sky turned cold, and the grain failed,
-And an empire fell. That is the oldest lesson in the book.
-The {{x|Mandate}} is the harvest. When the harvest is assailed,
-The {{x|Mandate}} goes. Feed the people. Then look
-
-At the rites.
+Nor fame. The sky turned cold; the grain had failed;
+A great realm fell: the oldest lesson, true.
+The {{x|Mandate}} is the harvest; when assailed,
+The {{x|Mandate}} goes: feed people; then rites, too.
 
 
 # Chapter 276: The Confluence of the Two Seas
