@@ -1,116 +1,81 @@
 # Chapter 191: Arabia Before Islam
 
-The {{p|Arabian Peninsula}} in the centuries
-before {{c|1911|Muhammad}}'s birth was a patchwork
-of tribes, oases, trade cities, {{c|1915|Bedouin}},
-Jewish settlements, Christian monks at work.
+{{p|Arabia}}, ere {{c|1911|Muhammad}}, a quilt
+Of tribes, oases, towns of trade, the tent
+Of {{c|1915|Bedouin}}, the homes the {{c|2500|Jews}} had built,
+And monks of {{c|1497|Christ}} who prayed where trade-routes went.
 
-Two great lineages are traced by tradition.
-{{c|1918|Qahtan}}, the southern {{c|1910|Arabs}}, the {{p|Yemen}} tribes,
-descended from {{c|2733|Joktan}} son of {{c|2734|Eber}},
-speakers of ancient South Arabian scribes.
+Two lines there were: {{c|1918|Qahtan}}, the south, the land
+Of {{p|Yemen}}, come from {{c|2733|Joktan}}, {{c|2734|Eber}}'s son;
+And {{c|1917|Adnan}}, of the north, of desert sand,
+Of {{p|Hejaz}} and {{p|Najd}}, from {{c|634|Ishmael}}, the one
 
-And {{c|1917|Adnan}}, the northern {{c|1910|Arabs}}, the
-desert tribes of the {{p|Hejaz}} and {{p|Najd}},
-descended from {{c|634|Ishmael}} son of {{c|1308|Abraham}}
-through a line of thirty generations laid.
+Of {{c|1308|Abraham}}, by thirty steps of birth;
+Twelve sons, like {{c|2019|Jacob}}'s; through {{c|2736|Nizar}}, the line,
+{{c|2737|Mudar}}, {{c|2738|Ilyas}}, then came the {{c|1916|Quraysh}} to earth,
+To {{c|2739|Hashim}}'s clan, {{c|1911|Muhammad}}'s own, the sign
 
-{{c|1917|Adnan}} had twelve sons, like the twelve
-tribes of {{c|2735|Israel}} from {{c|2019|Jacob}}'s line.
-The {{c|1916|Quraysh}} tribe traced to him through
-{{c|2736|Nizar}}, {{c|2737|Mudar}}, {{c|2738|Ilyas}}, a noble sign.
-
-{{c|1911|Muhammad}} would come from {{c|1917|Adnan}}'s descent,
-from the {{c|1916|Quraysh}} of {{p|Mecca}}, specifically
-from the clan of {{c|2739|Hashim}}, which gave
-the name Hashemite to the family.
-
-The pre-Islamic {{c|1910|Arabs}} worshipped many gods.
-{{c|2740|Allah}} was the high god, creator, most high,
-but rarely worshipped directly — his daughters
-{{c|2741|al-Lat}}, {{c|2742|al-Uzza}}, and {{c|2743|Manat}} drew the eye.
+Of {{p|Mecca}}. And they kept gods: the most high
+Was {{c|2740|Allah}}, maker, seldom prayed to; and
+His daughters, {{c|2741|al-Lat}}, {{c|2742|al-Uzza}}, close by,
+And {{c|2743|Manat}} too, were honored through the land.
 
 Three hundred sixty images were kept
-within the {{c|2744|Kaaba}}, where the pilgrims stepped:
-the gods of tribes and stars and homes, and they
+within the {{c|2744|Kaaba}}: gods of tribes, and they
+were stars and homes, there where the pilgrims stepped;
 set {{c|2745|Hubal}} chief, the god to whom they'd pray.
 
-But the {{c|1910|Arabs}} also had the concept of
-{{c|2746|hanif}}, a pure monotheist in the line
-of {{c|1308|Abraham}}, who worshipped the one {{c|472|God}}
-without joining Jewish or Christian shrine.
+And some were {{c|2746|hanif}}, pure, who kept the one
+{{c|472|God}} as {{c|1308|Abraham}} had kept, in no shrine
+But his. {{c|2747|Qusay}}, of {{c|1911|Muhammad}}'s line, won
+For the {{c|1916|Quraysh}}, {{p|Mecca}} and the {{c|2744|Kaaba}}'s sign,
 
-{{c|1911|Muhammad}}'s great-great-grandfather {{c|2747|Qusay}}
-had consolidated the {{c|1916|Quraysh}} in {{p|Mecca}},
-establishing them as guardians of the {{c|2744|Kaaba}}
-and the pilgrimage trade's great bank-checker.
+To guard it, and the pilgrims' trade; they held
+The sacred months, when none could fight, for all
+The caravans; and {{p|Mecca}}'s wealth so swelled.
+In {{p|Yemen}}, {{p|Himyar}} heard the {{x|Torah}}'s call,
 
-The {{c|1916|Quraysh}} controlled the sacred months
-when fighting was forbidden throughout {{p|Arabia}}
-to allow caravans and pilgrimages to flow.
-This gave them wealth through {{p|Mecca}}'s bizarria.
+Turned {{x|Jewish}}; {{p|Aksum}} came, of {{c|1497|Christ}}; and then
+The {{c|2750|Sassanids}}; {{c|2748|Ghassanids}}, the west,
+Were {{c|1497|Christ}}'s, {{p|Byzantium}}'s; the {{c|2749|Lakhmids}}, men
+Of {{c|1497|Christ}} as well, the {{c|2750|Sassanids}}' own guest;
 
-{{p|Yemen}} to the south had the {{p|Himyarite Kingdom}},
-which converted to {{x|Judaism}} in the fourth century,
-then was invaded by Christian {{p|Aksum}}, then
-by {{p|Sassanid Persia}}, politically drifting free.
-
-The {{c|2748|Ghassanids}} on the northwestern frontier
-were Christian Arab vassals of {{p|Byzantium}}.
-The {{c|2749|Lakhmids}} in the east were Christian
-Arab vassals of the {{c|2750|Sassanids}}, serving them.
-
-Jewish tribes lived in {{p|Medina}} ({{p|Yathrib}}):
-the {{c|2751|Banu Qurayza}}, {{c|2752|Banu Nadir}}, {{c|2753|Banu Qaynuqa}},
-who had fled there after Roman wars
-and established themselves as the economic driver.
-
-Christian monks wandered the {{p|Hejaz}}
-as hermits in caves along trade routes,
-where caravans would stop for water
-and hear the teaching at lonely outposts.
+And in {{p|Yathrib}}, {{p|Medina}}, dwelt the {{c|2500|Jews}}:
+{{c|2751|Qurayza}}, {{c|2752|Nadir}}, and {{c|2753|Qaynuqa}}, the tribes
+Who fled from {{p|Rome}}'s wars, kept their trade; and news
+Of monks in caves by wells, who taught the scribes.
 
 Here was one peninsula and one rite
 kept many ways, by tribe and town and tent,
 the high god and his daughters, and the light
 of Jews and Christian monks, with one intent.
 
-Trade connected {{p|Arabia}} to the world.
-Frankincense and myrrh went north to {{p|Rome}}.
-Silk and spices came from {{p|India}} and {{p|China}}
-through the Arabian ports of {{p|Yemen}}'s home.
-
-The century before {{c|1911|Muhammad}} saw
-the great Byzantine-Sassanid wars,
-which weakened both empires, disrupted trade,
-and left {{p|Arabia}} watching both contenders' scores.
+And incense, myrrh went north to {{p|Rome}}; and silk
+And spice came from the east through {{p|Yemen}}'s ports;
+And east and west, the two realms, of one ilk,
+Warred on, wore each other down, in sorts.
 
 In the {{x|Year of the Elephant}} came forth
-{{c|2754|Abraha}} of {{p|Yemen}}, and he marched north
-with elephants, to take away the rite
-of pilgrims for his church: whose house, whose right.
+{{c|2754|Abraha}} of {{p|Yemen}}, to take the rite
+Of pilgrims for his church; and he marched north
+With elephants: whose house it was, whose right.
 
-His expedition was miraculously defeated
-(tradition says birds dropped stones on them,
-a plague struck them, they retreated).
-{{c|1911|Muhammad}} was born that year, some remember.
+And birds dropped stones upon them, and they fled,
+And plague struck them; and in that year was born
+{{c|1911|Muhammad}}; and his father had been dead
+Before his birth; his mother, too, was torn
 
-He was born an orphan, his father dead
-before his birth, his mother dying young.
-Raised by his grandfather {{c|2755|Abd al-Muttalib}},
-then his uncle {{c|2756|Abu Talib}} with lung.
+From him when young; his grandfather, the lord
+{{c|2755|Abd al-Muttalib}}; he was raised
+By {{c|2756|Abu Talib}}, uncle; by accord
+He was {{c|2757|al-Amin}}, the trustworthy, praised;
 
-He worked as a merchant, earned the nickname
-{{c|2757|al-Amin}}, the trustworthy one.
-He married the wealthy widow {{c|2758|Khadija}}
-fifteen years his senior, a deal well done.
+He traded, and he wed {{c|2758|Khadija}}, rich,
+A widow, fifteen years his elder; and
+He went up to {{p|Hira}}'s cave, to the niche
+On the {{p|Mount of Light}}, to pray; as was planned,
 
-He would go to the cave of {{p|Hira}} to meditate
-on the {{p|Mount of Light}} outside {{p|Mecca}}.
-At forty, in the year 610,
-the archangel {{c|2759|Gabriel}} would visit him, a wrecker
-
-of his old life and opener of the new.
-"Recite!" the angel said. "In the name of your {{c|295|Lord}}
-who created, created man from a clot."
+At forty, in six-ten, {{c|2759|Gabriel}} came,
+And said: Recite! In the name of your {{c|295|Lord}},
+Who made, made man from a clot; so the flame
 The {{x|Quran}} began: the old house restored.
