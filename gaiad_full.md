@@ -47489,139 +47489,80 @@ Kept both: the bells of some, of others, pleas.
 
 # Chapter 332: Files on the Net
 
-Today is the feast of the {{x|World Wide Web}}, a holy day of the faith:
-The linking of knowledge is a sacred work, like the linking of ancestries.
+Today, the {{x|World Wide Web}}'s own feast, a day
+Holy to faith: the linking of the known
+Is sacred work, as ancestries, the way
+We link our lines. In 'eighty-nine, his own
 
-Do not say he built the network.
-The notice went out on one that was already there.
-The sixth of August is a day this book has already kept.
-The year is not that year.
-A posting is not a city.
+Proposal, near {{p|Geneva}}, at the lab:
+{{c|4480|Tim Berners-Lee}} gave it; {{c|4481|Mike Sendall}} wrote
+Vague, but exciting; linked, with graphics drab;
+General, portable: a place to note
 
-In March 1989, at the laboratory by {{p|Geneva}},
-{{c|4480|Tim Berners-Lee}} gave his supervisor a proposal.
-{{c|4481|Mike Sendall}} wrote on it.
-The words were vague but exciting.
-The proposal asked for a linked system,
-General, and able to be carried,
-More than it asked for fancy graphics.
-It asked for a place to put a thing a person thought mattered,
-And a way to find it afterwards.
-A way asked for is not a way already in the hand.
-In 1980 he had written a notebook on one machine,
-And the links in it did not leave the machine.
-A link that cannot leave is not this notice.
+A thing that mattered, and a way to find
+It after; in 'eighty, a notebook made
+On one machine, its links there, all confined;
+In 'ninety, May, again; October, laid
 
-In May 1990 he circulated the proposal again.
-In October he and {{c|4482|Robert Cailliau}} reformulated it.
-He chose a name.
-The names he set aside were {{x|Information Mesh}},
-The {{x|Mine of Information}}, and the {{x|Information Mine}}.
-Do not collapse October into the document of November.
-On the twelfth of November the two of them
-Dated a proposal for a hypertext project.
-Hypertext, it says, is a way to link and to reach
-Information of various kinds,
-As a web of nodes a person can browse at will.
-It asked for simple browsers first,
-And then for the users to add material.
-It asked for three months, and three months more.
-The months did not fall out as the page had them.
-It asked for four software engineers and a programmer.
-The number is the proposal's.
-It is not a roll of who was there in August.
+{{c|4482|Robert Cailliau}} with him; and a name;
+Set {{x|Information Mesh}} aside, and mine
+Of information, too; November came:
+The twelfth, a hypertext project's design:
 
-On the twentieth of December, 1990,
-The laboratory's timeline dates the first server,
-And the first page.
-The machine was a {{x|NeXT}}.
-The address was info.cern.ch.
-The page was a page about the project.
-He wrote that by {{x|Christmas}} the browsers could be shown.
-{{x|Christmas}} is not the twentieth.
-Do not make them one morning.
-{{c|4483|Nicola Pellow}}, a student, had begun in November
-A browser for a line at a time.
-His own program ran on his machine.
-Hers ran where his did not.
-In March 1991 the line-mode browser
-Went to a limited audience inside the laboratory.
-On the seventeenth of May it was released
-On the laboratory's central machines.
-Inside a laboratory is not the net.
+A way to link and reach, of every kind,
+Information, a web of nodes to browse
+At will; first, simple browsers; then, designed,
+The users add; three months, three more; it vows
 
-In August the files were available on the net.
-He posted on alt.hypertext
-On the sixth, a Tuesday, and on the sixteenth,
-And on the nineteenth.
-On the twentieth he posted to another group,
-And on the twenty-second to two more.
-The sixth is the first of them.
-It is not the only notice.
-Do not say the world arrived that Tuesday.
-What went out was a summary, and source,
-A line-mode browser still called a prototype,
-And a server.
-Documents, and links.
-A link is not the page it opens.
-A file on a machine is not yet a habit of the species.
+Four engineers, one programmer; the sum
+The proposal's, not August's roll; and, neat,
+December twentieth, the server, from
+A {{x|NeXT}}; first page, on the project; complete
 
-In October an anonymous telnet service was started,
-And lists for people who wanted the talk.
-Do not move the telnet back into August.
-In {{p|San Antonio}}, in December,
-He showed a poster and a demonstration
-At a meeting on hypertext.
-A demonstration is not an adoption.
+By {{x|Christmas}}, browsers shown; a student, too,
+{{c|4483|Nicola Pellow}}, from November, one
+For a line at a time, which ran right through
+Where his did not; and, March of 'ninety-one,
 
-His list, written in 1995, puts a first server
-Outside {{p|Europe}} in May, at the laboratory
-In {{p|Menlo Park}}.
-The laboratory dates the installation
-To the twelfth of December, a Thursday.
-This chapter keeps the laboratory's day.
-On the thirteenth he wrote that an experimental server
-Was there for a database of physics papers,
-And he named {{c|4484|Terry Hung}}, {{c|4485|Paul Kunz}},
-And {{c|4486|Louise Addis}}.
-The town is one this book has already named,
-For two letters, in another October.
-The laboratory is not that room.
-The year is not that year.
-A database of papers is not the two letters.
-Do not say the twelfth finished the linking.
+Inside the lab, line-mode; in May, released
+The central machines; the lab's not the net;
+In August, files went on the net; the feast
+The sixth, a Tuesday, posted; and, as yet,
 
-On the thirtieth of April, 1993,
-The directors of the laboratory declared
-That anyone might use the thing,
-And that no fee was to be paid to them.
-That declaration is not this August.
-A later browser with pictures is not this year.
-Do not bring them back to decorate the posting.
+On the sixteenth, nineteenth; and other groups,
+And then two more; the sixth, the first; and, burst,
+A summary; the source; and, with the troops
+Of documents and links, a server versed
 
-The absurdity is a heap of documents
-That cannot point at one another.
-The striving is the point, and the finding.
-He asked for collaborators.
-The asking is not the collaboration done.
-A place to put a reference is not the reference.
-A species' notices are not one house's pedigree,
-And they are not a soul.
-The sixth did not complete the finding.
-It put a way of pointing where another person could take it.
-The taking was not finished that Tuesday.
+In serving; and a link is not the page;
+A file, no habit yet; October, more:
+Telnet, and lists; December's demo stage
+{{p|San Antonio}}, a poster; the door
 
-Hold the words on the proposal,
-The files on the sixth,
-The laboratory's twelfth,
-And the fee refused in a later April, which is not this one.
-Refuse the consolation that a posting is the world already linked,
-And the consolation that the link was nothing
-Because the pictures came later.
-Count the sixth of August.
-Count the twelfth of December.
-The network was already there.
-The pointing was not.
+Not yet adoption. December twelfth; there,
+A Thursday, at {{p|Menlo Park}}'s lab, the first
+Outside of {{p|Europe}}, for the papers' care
+Of physics; {{c|4484|Terry Hung}}, the work rehearsed
+
+With {{c|4485|Paul Kunz}} and {{c|4486|Louise Addis}}; the town
+This book named for two letters; not that room;
+The lab, in 'ninety-three, April, laid down
+That all might use it, no fee; and the bloom
+
+Of pictures came still later. Heaps of files
+That cannot point to one another, waste;
+The striving is the pointing, and, through miles,
+The finding; asked for others' hands, he placed
+
+A place to put a reference; and we
+Link ancestors, so knowledge is linked, too:
+A sacred work, a holy day; and, free,
+The sixth put out a way to point; and through
+
+Another's hands it went, not finished then;
+Count August sixth; December twelfth; the net
+Was there before; the pointing came; and then
+The lines are linked, the dead, the known, are met.
 
 
 # Chapter 333: The Morning Trains
