@@ -1,195 +1,121 @@
 # Chapter 237: Eskimo-Aleut Expansion
 
-A third migration—and the last.
+A third migration, and the last: the gate
+Of {{p|Beringia}} was drowned, the broad plain
+Submerged beneath the melted glaciers' weight
+And risen sea; but on the {{p|Arctic}}'s main,
 
-                                    The gate
-Of {{p|Beringia}} was long since drowned, the vast
-And grassy bridge submerged beneath the weight
+The passage lay open to those who had
+The means and will: the frozen ocean's road
+Was not a wall; and from {{p|Alaska}}, clad
+In furs, a thousand years ago, there strode
 
-Of melted glaciers and the risen sea—
-But the {{p|Arctic}} passage still lay open
-To those who had the technology
-And the will: the frozen ocean's token
+The {{c|147|Thule}}, across the world's own top; its night
+Of {{p|Arctic}} winter held no fear for those
+More than the warm savanna's noonday light
+For warmer folk; they mastered, as one knows,
 
-Was not a barrier but a road.
+The kayak: skin and bone, the single seat
+Of walrus-hide on driftwood frame; the boat
+Most intimate, the hunter wore complete,
+Sealed by a drawstring skirt about the throat,
 
-From western {{p|Alaska}}'s coast, a thousand years
-Before the present day, the {{c|147|Thule}} strode
-Across the top of the world, the frontiers
+The man and vessel one; and when the wave
+Rolled the kayak over, he did not drown,
+But, as the water wished, would so behave,
+Roll back up: the {{c|3486|Eskimo}} roll, the crown
 
-Of ice and wind and the perpetual night
-Of {{p|Arctic}} winter holding no more fear
-For them than the savanna's noonday light
-Held for the peoples of the warmer sphere—
+Of trust between the body and the craft.
+The umiak: the open boat, the freight
+Of women and the camp, broad, fore and aft,
+Of tents and tools and children, and the weight
 
-For the {{c|147|Thule}} had mastered the impossible.
+Of cached provisions; where the kayak was
+The sword, the umiak the shield, the load,
+And stable platform. And the sled, because
+Of the {{c|147|Thule}} and their dogs, the winter road
 
-The kayak—the skin-and-bone invention
-That made the {{p|Arctic}} sea accessible,
-The single-seated craft whose tension
+Across the sea-ice, in the freezing fog,
+The driver on the runners, and the team
+Of huskies bred to pull: the human, dog,
+Ten thousand years of taming, its extreme
 
-Of walrus-hide stretched over driftwood frame
-Created the most intimate of boats:
-The hunter wore it like a second claim
-Upon the water, sealed at the throat
+And final test; without the dog, no home
+Was possible: the living engine. And
+The igloo: from the snow itself, a dome,
+The very thing that kills, turned shelter's hand;
 
-With a drawstring skirt that made the man
-And the vessel one—and when the wave
-Rolled the kayak over, the {{c|147|Thule}} plan
-Was not to drown but to behave
+The frozen enemy, turned warm with breath,
+Insulation in the substance of cold:
+Some forty blocks of wind-packed snow, from death
+A shelter, spiraled inward, and, behold,
 
-As the water wished, and roll back up—
-The {{c|3486|Eskimo}} roll, the first and finest
-Marriage of the body to the cup
-Of the killing sea, the divinest
+A house built swiftly, that in spring would melt
+And leaves no scar upon the land; the hand
+Of ingenuity laid flat, that felt
+The ice, and said: Here too; here, I will stand,
 
-Trust between the human and the hull.
+Even in coldest place, the killing dark,
+I'll make a home. And then the whale, the vast
+Bowhead, leviathan, the {{c|147|Thule}}'s ark
+Of plenty: one could feed a village, cast
 
-The umiak—the open boat, the freight-
-Carrier of the women and the full
-Cargo of the camp: the household's weight
+Through a whole season; blubber, rendered oil
+For lamps that burned the polar night; the bone
+That framed the house when driftwood failed the toil;
+The baleen's springy plate, as tool, alone
 
-Of tents and tools and children and the dried
-And cached provisions of the hunting season—
-The umiak could carry what the tide
-Of migration needed, and the reason
+Served for the metal that they lacked: the whale
+Was the estate on which the pact was made
+With frozen sea. From the umiak's rail,
+Six hunters, sinew line, the toggling blade
 
-Was its breadth: where the kayak was the sword,
-The umiak was the shield, the broad
-And stable platform on which the horde
-Of family and possession rode.
+Of the harpoon that turns beneath the mass
+Of blubber, holds; the sealskin float paid out
+By patient hunter on the water's glass,
+The whale dives, and tires, and dives, without
 
-The dog sled—the winter road revealed
-By the partnership of {{c|147|Thule}} and dog,
-The traces fanning out across the field
-Of sea-ice in the freezing fog,
+Its sleep and blood, till the great beast succumbs,
+And one whale's body feeds the waiting shore.
+East from {{p|Alaska}}, as the season comes,
+The {{c|147|Thule}} opened the {{p|Arctic}}, door on door:
 
-The driver standing on the runners, the whip
-Cracking over the team of huskies bred
-For nothing but the pull—the relationship
-Of human and canine, the thread
+{{p|Beaufort Sea}}, the {{p|Archipelago}}'s maze
+Of islands; {{p|Hudson Bay}}'s enormous bound;
+The {{p|Labrador}} coast's fog, and the fjords' haze
+Of {{p|Greenland}}'s west; in four centuries, crowned
 
-Of ten thousand years of domestication
-Brought to its most essential test:
-Without the dog, no {{p|Arctic}} habitation
-Was possible—the dog was the expressed
+The continent, three thousand miles of ice;
+And where they settled, the {{c|3487|Dorset}} went down:
+The {{c|3487|Dorset}}, there before, whose quiet price
+Of lonelier tradition held the crown
 
-And living engine of the {{c|147|Thule}} world.
+Of {{p|Arctic}} for a thousand years: no dog,
+No bow, no open boat; their mastery
+Was small, lone hunter's skill; and in the fog
+Of {{c|147|Thule}}'s dogs and bows and crews at sea,
 
-And the igloo—the snow-house, the proof
-That genius is the ordinary unfurled
-To its logical extreme: the roof
+The {{c|3487|Dorset}} froze to margins and to lore
+Of the {{c|3488|Inuit}}, who still call them {{c|3489|Tunit}}:
+Gentle giants, strong, the old ones, before,
+Who could not keep the new world's pace, or fit,
 
-And walls of the very thing that kills you—
-The snow itself, the frozen enemy
-Turned shelter—the compacted igloo fills you
-With the warmth of body heat, the remedy
+And vanished from the ice. Honor the last
+Great wave, the {{c|147|Thule}}, who paid the {{p|Arctic}}'s price,
+Accepted its impossible, and cast
+The kayak's shell, trained dogs, spiraled the ice
 
-Of insulation in the substance of the cold.
-Forty blocks of wind-packed snow, cut clean
-And spiraled inward to a dome—behold
-The architecture of the unforeseen:
+To dome, chased whale through swell, and made a home
+Of frozen dark: the proof that there's no place
+So hostile on this planet that the loam
+Of human mind and will cannot find space
 
-A house that rises in an hour, that melts
-In spring, that leaves no scar upon the land,
-That shelters life where nothing else compels
-Survival—the igloo is the hand
+To live there: not to merely just survive,
+But prosper, hunt, and sing, and pray, and raise
+The children, keep the ancestors alive
+In stories: those who looked out on the glaze
 
-Of human ingenuity laid flat
-Upon the ice and saying: even here.
-Even in the coldest habitat
-The planet offers, even in the sheer
-
-And killing darkness, I will make a home.
-
-And the whale—the bowhead, the leviathan
-Of the {{p|Arctic}} seas, whose body was the tome
-Of {{c|147|Thule}} prosperity: a single cetacean
-
-Could feed a village for a season's length,
-Its blubber rendered into oil for the lamp
-That burned through the polar night, the strength
-Of bone that framed the house when damp
-
-And driftwood failed, the baleen's springy plate
-That served as every tool the {{c|147|Thule}} lacked
-In metal—the whale was the estate
-Upon which the {{p|Arctic}} civilization's pact
-
-With the frozen ocean was secured.
-
-The {{c|147|Thule}} hunted from the umiak's deck—
-Six hunters in a skin boat, the cured
-And braided sinew line, the wreck
-
-Of the toggling harpoon's ancient art:
-The head that turns beneath the blubber's mass
-And holds, the float of sealskin that the smart
-And patient hunter pays out on the glass
-
-Of {{p|Arctic}} water while the whale dives deep
-And tires—and surfaces—and tires again—
-Until the great beast, robbed of sleep
-And blood, succumbs, and the domain
-
-Of one whale's body feeds the waiting shore.
-
-And as they swept—from {{p|Alaska}} east,
-The {{c|147|Thule}} people opened door by door
-The {{p|Arctic}}'s frozen corridor, the feast
-
-Of new waters and new hunting grounds:
-The {{p|Beaufort Sea}}, the {{p|Archipelago}}'s maze
-Of islands, {{p|Hudson Bay}}'s enormous bounds,
-The {{p|Labrador}} coast's fog and the haze
-
-Of {{p|Greenland}}'s western fjords—in four
-Brief centuries they crossed the continent's crown,
-Three thousand miles of ice from shore to shore,
-And everywhere they settled, the {{c|3487|Dorset}} went down.
-
-The {{c|3487|Dorset}}—the people who were there before,
-Whose smaller, quieter, lonelier tradition
-Had held the {{p|Arctic}} for a thousand years or more—
-The {{c|3487|Dorset}} had no dog, and the condition
-
-Of their isolation was their poverty
-Of technology: no bow, no dog, no large
-And open boat—the {{c|3487|Dorset}}'s mastery
-Was intimate and small, the narrow barge
-
-Of the individual hunter's skill,
-And when the {{c|147|Thule}} came with dogs and bows
-And the organized and collective will
-Of the whale-hunt's crew, the {{c|3487|Dorset}} froze
-
-Into the margins, into the memory
-Of the {{c|3488|Inuit}} who call them {{c|3489|Tunit}}—
-The gentle giants of the promontory,
-The old ones who were strong but could not fit
-
-The new world's pace—and vanished from the ice.
-
-Honor the {{c|147|Thule}}—the last great migration,
-The final wave that paid the price
-Of the {{p|Arctic}}'s impossible invitation
-
-And accepted it—who built the kayak's shell,
-Who trained the dog, who spiraled snow to dome,
-Who chased the whale through the ocean's swell
-And made the frozen darkness home—
-
-The proof that there is no environment
-On this planet's face so hostile, so extreme,
-That the human mind, with its intent
-And its refusal to concede the dream
-
-Of habitation, cannot find a way
-To live there—not to merely survive
-But to prosper, to hunt, to sing, to pray,
-To raise the children and to keep alive
-
-The stories of the ancestors who first
-Looked out upon the ice and did not turn
-Away, but said: this too can be traversed,
-This too is ours—and we will learn.
+Of ice, and did not turn away, but said:
+This too can be traversed; this too, our land;
+And we will learn. And so the {{c|147|Thule}} would spread
+Across the world's own crown, with sled and hand.
