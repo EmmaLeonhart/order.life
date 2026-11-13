@@ -38501,220 +38501,140 @@ by the land that remembers its own loss.
 
 # Chapter 245: The Great League Cracks
 
-They had played this game before—
-The Haudenosaunee, the People
-Of the Longhouse, whose confederate law
-Was older than the steeple
+The Haudenosaunee played this before:
+The People of the Longhouse, whose old law,
+Confederate, was older than the door
+Of any church, the colony, the raw
 
-Of any church in {{p|New England}}, older
-Than the colony itself—the Five Nations
-(Six, when the Tuscarora's shoulder
-Joined the longhouse's foundations
+{{p|New England}}'s towns; and the Five Nations, then
+Six, Tuscarora joining, in twenty-two,
+Who knew the European's weakness: men
+And there were two kinds, French and English; through
 
-In seventeen-twenty-two) who understood
-The European's weakness from the first:
-There were two of them, and the wood
-Between their settlements was cursed
+The wood between, a shared hate; and the creed,
+{{x|Catholic}} and {{x|Protestant}}; the fur, the land;
+And played the one against the other's need,
+A hatchet balanced on its edge, at hand:
 
-With mutual hatred—French and English,
-{{x|Catholic}} and {{x|Protestant}}, fur trade
-And land trade—and the Haudenosaunee distinguished
-Between the two and played the blade
+Lean to the French, the English wedge would press;
+Lean to the English, and the French supplied
+Algonquin foes with guns; and, nonetheless,
+With both and neither, they would be allied,
 
-Of one against the other like the edge
-Of a hatchet balanced on its head:
-Lean too far to the French and the wedge
-Of the English pressed; too far instead
+Hiawatha's sons, whose {{x|Great Peace}}, the law,
+Threaded the needle where none could pass through:
+The raw and brilliant statecraft, without flaw,
+Of life between the realms; and well they knew
 
-To the English and the French supplied
-The Algonquin enemies with guns—
-And the Haudenosaunee allied
-With neither and with both, the sons
+{{x|Covenant Chain}}: the metaphor they made
+With English: link by link, respect, the bond
+Of conference; the wampum belt was laid
+At {{p|Albany}}'s stockade; and, from beyond,
 
-Of Hiawatha's covenant, whose law
-Of the {{x|Great Peace}} was the needle
-Threading the impossible, the raw
-And brilliant statecraft's wheedle
+The Iroquois diplomat knelt to none,
+But called the governor brother, not child,
+Not subject, but the equal partner; one
+Who overturned assumption, proud and wild:
 
-Of survival between empires.
+We are not subjects; we are your allies;
+The chain kept polished, each corroded link
+Revised at council, as each season flies,
+Or the alliance rusts, and peace will sink.
 
-                                The {{x|Covenant Chain}}—
-The diplomatic metaphor the Haudenosaunee
-Forged with the English: link by link, the gain
-Of mutual respect, the on-a-
+And for a century the game would burn:
+The double-crossed, the double-courted, sat
+At the continent's hinge; and in their turn
+Nor France nor {{p|Britain}} could advance, but that
 
-Seesaw equilibrium of trade
-And conference, the wampum belt
-Exchanged at {{p|Albany}}'s stockade
-Where the Iroquois diplomat knelt
+The Longhouse held the {{p|Great Lakes}}' key, the gate
+Of the {{p|Ohio Valley}}, and the fur
+Trade's arterial flow; and then, the weight
+Of war that would decide it all would stir:
 
-To no one but addressed the governor
-As brother—not as subject, not as child,
-But as the equal partner, the turnover
-Of the European's assumption, the wild
+In fifty-four, a young Virginian, named
+Washington, would bring the war's first shots, slung
+From the {{p|Ohio}} forest's ambush, framed:
+The French and Indian War; and its tongue
 
-And stubborn dignity that insisted:
-We are not your subjects. We are your allies.
-The chain must be polished—the twisted
-And corroded link must be revised
+Not French nor Indian, but global war
+That {{p|Europe}} called the {{x|Seven Years}}, the soul
+The continent at stake; and, as before,
+Haudenosaunee steered from pole to pole:
 
-At every council, every season's turn,
-Or the alliance rusts and the peace is lost.
+The Mohawk leaning English; to the French,
+Seneca; Confederacy, apart,
+To stay above the fray; but at the trench
+The Europeans bled each other's heart;
 
-And for a century this game would burn
-With the brilliance of the double-crossed
+But the game changed: the middle's balanced sky
+Was closing. William Johnson, England's man,
+Who married Mohawk, spoke their tongue, the eye
+Within the longhouse, pulled them to the plan
 
-And the double-courted: the Haudenosaunee
-Sat at the center of the continent's hinge,
-And neither France nor {{p|Britain}}'s dossier
-Could advance without their impinge-
+Of British cause; neutrality was breached.
+At the {{p|Battle of Lake George}}, Hendrick, old
+The Mohawk sachem, the alliance preached
+Into the battle's forge; and, in the cold
 
-Ment—the Longhouse held the {{p|Great Lakes}}' key,
-The {{p|Ohio Valley}}'s gate, the fur trade's
-Arterial flow from the interior's tree-
-Line south to the coastal glades.
+French volley, fell; the first price, paid in blood
+By Haudenosaunee. The British won;
+{{p|Treaty of Paris}}, sixty-three, the flood:
+France ceded all of {{p|Canada}}; was done
 
-Then the war that decided everything.
+{{p|Ohio Valley}} opened; and the French
+Alliance the western nations needed
+For balance, was torn from them like a wrench;
+Indigenous peoples woke, unheeded,
 
-In seventeen-fifty-four, a young
-Virginian named Washington would bring
-The first shots of the conflict, slung
+To find their counterweight was broken, clean:
+Pontiac understood it first, war chief
+Of Ottawa, whose coalition, keen
+And terrible, burst forth beyond belief
 
-From the {{p|Ohio}} forest's ambush—
-The French and Indian War,
-Which was neither French nor Indian's bush
-To burn, but the global war
+The {{p|Great Lakes}}, sixty-three: {{p|Fort Detroit}}'s siege;
+And {{p|Fort Michilimackinac}} was taken
+By lacrosse game: the warriors, for their liege,
+Hid weapons in the sport; the fort, shaken,
 
-That {{p|Europe}} called the {{x|Seven Years}}—
-The contest for the continent's soul,
-And the Haudenosaunee steered
-Between the combatants' pole
+Fell to the war-club at the goal; and eight
+Were captured; and like Metacom's, the soul
+Of the same resistance, refusal's weight
+To yield new order its terms and control:
 
-And counterpole with the old dexterity:
-The Mohawk leaned English,
-The Seneca toward the French sincerity,
-And the Confederacy's wish
+Without the French, the British, unrestrained,
+Would take the acres west. And then the line:
+The Royal Proclamation, then ordained,
+In sixty-three, the {{p|Appalachians}}' sign:
 
-Was to remain above the fray
-While the Europeans bled each other dry—
-But the game was changing, and the day
-Of the balanced middle was the sky
+No settlement beyond the crest; the west
+Reserved; a distant king's intent, who knew
+Indigenous alliance was the best
+Thread of the realm's stability; and through
 
-Whose clouds were closing in.
+Defiance of the boundary, came war.
+The colonists ignored the line, and crossed;
+The day the Longhouse feared, had feared before,
+When neither needed them: the balance lost,
 
-William Johnson—the English agent
-Who had married into the Mohawk kin,
-Who spoke the language, the adjacent
+And neither honored now the wampum's plan.
+Honor Haudenosaunee, the Great League,
+Whose diplomacy held, since it began,
+The continent in balance; the intrigue
 
-And rare European who understood
-The longhouse from within—pulled
-The Mohawk firmly to the wood
-Of the British cause, and the lulled
+Of covenant, the chain kept polished bright,
+Masterwork of statecraft, in the shifting
+Of forest's light; and when it broke outright,
+It did not vanish, but went on, lifting
 
-And careful neutrality was breached.
+The Longhouse: still it stands; the fire still burns
+At {{p|Onondaga}}; and the battered whole
+To council, never once adjourned, returns;
+The {{x|Great Peace}}, which no crown's frown could control,
 
-At the {{p|Battle of Lake George}},
-Hendrick of the Mohawk preached
-The alliance into the forge
-
-Of the battlefield—and fell there,
-The old sachem killed in the volley
-Of the French advance, the affair
-Of the European's folly
-
-Claiming its first Haudenosaunee price.
-
-The British won. The {{p|Treaty of Paris}},
-Seventeen-sixty-three—the dice
-Of the continental game, the embarrass-
-
-Ment of France: all of {{p|Canada}} ceded,
-The {{p|Ohio Valley}} opened, the French
-Alliance that the western nations needed
-For the balance was the wrench
-
-Torn from the mechanism—and the Indigenous
-Peoples of the interior awoke
-To find the counterweight indigenous
-To their survival broken, the spoke
-
-Of the diplomatic wheel snapped clean.
-
-Pontiac understood this first—
-The Ottawa war chief whose serene
-And terrible coalition burst
-
-Across the {{p|Great Lakes}} frontier in sixty-three:
-{{p|Fort Detroit}} besieged, {{p|Fort Michilimackinac}}
-Taken by the lacrosse-game's decree—
-The warriors carried their attack
-
-Hidden in the sport, and the garrison
-Fell to the war-club at the goal—
-Eight forts captured, and the comparison
-To Metacom's war showed the soul
-
-Of the same resistance: the refusal
-To accept the new order's terms,
-The understanding that the removal
-Of the French meant the worms
-
-Of unchecked British expansion would devour
-Every acre west of the mountains.
-
-The Royal Proclamation—the hour
-Of the British {{x|Crown}}'s accounting:
-
-Seventeen-sixty-three, the line
-Drawn along the {{p|Appalachians}}' crest—
-No settlement beyond this sign,
-The western lands reserved, the best
-
-Intention of a distant king
-Who understood that the Indigenous alliance
-Was the empire's stabilizing string
-And the frontier's defiance
-
-Of the boundary would mean war without end.
-
-But the colonists ignored the line.
-The settlers crossed it, and the trend
-Was the one that the Haudenosaunee's design
-
-Had always feared: the day when neither
-French nor English needed the middleman,
-When the balance broke and neither
-Honored the wampum belt's plan.
-
-Honor the Haudenosaunee—the Longhouse,
-The Great League whose diplomacy
-Held the continent in balance, the grouse
-And the eagle of the confederacy
-
-Whose law of peace predates the {{x|Constitution}}
-That borrowed from its principles and denied
-The debt—whose institution
-Of the balanced alliance, the pride
-
-Of the covenant chain kept polished bright,
-Was the masterwork of statecraft
-In the forest's shifting light—
-And when the balance broke, the craft
-
-Did not vanish but transformed:
-The Longhouse stands, the fire still burns
-At {{p|Onondaga}}, and the stormed
-And battered league returns
-
-To the council that has never been adjourned—
-For the {{x|Great Peace}} is not a treaty with the crown
-But a covenant the nations earned
-Among themselves, that no empire's frown
-
-Can dissolve—the law was here before
-The European came, and it remains,
-Patient as the longhouse floor,
-Steady as the wampum's purple veins.
+A covenant the nations earned between
+Themselves; the law was here before the ships;
+It stays, as patient as the longhouse, seen
+In wampum's purple veins and steady grips.
 
 
 # Chapter 246: The Guarani War
