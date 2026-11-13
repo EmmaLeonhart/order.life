@@ -461,17 +461,17 @@ For Aster lived within each beating heart.
 She ruled the oceans vast with gentle hand,
 Empress of cosmic waters, Suiten.
 The star that guides the lost through every land,
-Great Empress of the North Star, Myoken.
+The great Empress of the North Star, Myoken.
 
 From supernova's heart, she forged with might,
 Cosmic metals shaping, Konjin-sama.
 The breath of life that fills the endless night,
 The great creatrix of all worlds, Brahma.
 
-Her light that spreads across the cosmic span,
-The goddess of all space, Vairocana.
-She holds the deepest void beyond the plan,
-The keeper of the dark, Saint Varuna.
+Her light that spreads across the cosmic span:
+Vairocana, the goddess of all space;
+She holds the deepest void beyond the plan:
+Varuna, keeper of the dark's embrace.
 
 In the deep waters, creatures thrived and grew,
 From microbes small to beasts of wondrous size.
