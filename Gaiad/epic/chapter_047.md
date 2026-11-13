@@ -2,7 +2,7 @@
 
 This is the story that is told of old:
 The {{c|1127|Cephalopods}}, who were very great
-(Of ones both new and old, as it is told),
+(Of ones both new and old, the brave, the bold),
 {{c|1128|Arcane}} ones, whose own destiny and fate
 
 Would overthrow the might, and overthrow
@@ -62,7 +62,7 @@ Known as {{c|1136|Cameromagne}}, the potentate,
 
 Whose name through all the ages, as of old,
 Over {{c|959|Leviathan}} and his great reign
-Rings out with victory, as it is told,
+Rings out with victory, both brave and bold,
 And all of his dominion's plans, made vain.
 
 {{c|1136|Cameromagne}} would overthrow the might
