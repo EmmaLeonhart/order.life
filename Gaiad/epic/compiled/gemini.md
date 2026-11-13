@@ -731,258 +731,90 @@ And take the world, and found it, and the feast.
 
 # Chapter 175: The Maurya Empire
 
-In the wake of {{c|1982|Alexander}}'s withdrawal from the {{p|Indus}}, a new power
-Rose in northern {{p|India}}—the greatest empire the subcontinent had
-Yet seen. The {{p|Maurya Empire}}, founded by {{c|2424|Chandragupta Maurya}}
-Around three-twenty-two BCE and reaching its peak under his
+When {{c|1982|Alexander}} turned from {{p|Indus}}' shore,
+Out of the north of {{p|India}} there rose
+A house that held the land as none before:
+{{p|Maurya}}, from {{p|Bengal}} westward it goes,
 
-Grandson {{c|2320|Ashoka}} a century later. The {{p|Maurya}} empire would unify
-Almost the entire {{p|Indian}} subcontinent—something no prior {{p|Indian}}
-Polity had achieved, and something that would not be repeated
-Until the {{p|Mughals}}, and not wholly until modern {{p|India}}
+From the {{p|Hindu Kush}} down to the {{p|Deccan}}:
+{{c|2424|Chandragupta Maurya}} founded it,
+And by his side, {{c|2426|Chanakya}}, the wise man
+{{c|2427|Kautilya}}, whose book of rule was writ
 
-Itself in nineteen-forty-seven CE. For roughly one hundred forty
-Years, one dynasty ruled from the {{p|Hindu Kush}} to the {{p|Deccan}},
-From {{p|Bengal}} to {{p|Gujarat}}. It established administrative structures,
-Promoted a specific form of {{p|Buddhist}}-inflected ethics, and
+Taught how to rule: the taxes and the spies,
+The friends abroad, the plots, the risings crushed,
+All cold and whole; and by it he would rise,
+And cast the {{p|Nandas}} down, and all was hushed;
 
-Projected {{p|Indian}} cultural influence across {{p|Asia}}.
+And at {{p|Pataliputra}} he set his seat;
+And then {{c|2420|Seleucus}} came, to take the west
+Of {{p|India}} back, and he met defeat,
+Gave up {{p|Afghanistan}} and all the rest,
 
-                                                                 {{c|2425|Chandragupta}}.
-The founder. His origins are obscure—possibly low-born, possibly
-A minor noble, the sources disagree. What is clear is that he
+{{p|Balochistan}}, for elephants; and sent
+{{c|2429|Megasthenes}}, who told of the roads and feasts,
+Of wealth, of castes; and of the king, who spent
+His nights in fear, and slept, as hunted beasts,
 
-Rose to power through political and military acumen, apparently
-With the guidance of an older statesman and philosopher,
-{{c|2426|Chanakya}} (also known as {{c|2427|Kautilya}}), whose treatise the
-{{p|Arthashastra}} is one of the greatest works of political realism
+Changed beds each night, with women guards; and kept
+Them close; and at the last he would lay down
+His throne, and took the {{p|Jain}} way, and he stepped
+Into the fast, {{p|Sallekhana}}, no crown.
 
-Ever composed—the {{p|Indian}} counterpart of {{c|2428|Machiavelli}}'s {{p|Prince}}
-But more systematic and centuries earlier. The {{p|Arthashastra}}
-Treats statecraft as a technical discipline: how to collect taxes,
-How to run espionage services, how to manage foreign relations,
+{{c|2430|Bindusara}}, his son, took {{p|Deccan}}'s south;
+The {{p|Greeks}} had named him {{c|2431|Amitrochates}}; sent
+To {{c|2432|Antiochus}} for wine, figs, the mouth
+Of a sophist; and the answer back went:
 
-How to handle conspiracies, how to suppress rebellions. It is
-Unsentimental, thorough, and unsparing. {{c|2425|Chandragupta}} apparently
-Implemented its principles successfully. He overthrew the
-{{p|Nanda Dynasty}} that had ruled much of northern {{p|India}} and
+The wine and figs, yes; but our law forbids
+That we should sell philosophers. And then
+Came {{c|2320|Ashoka}}, who, as the story bids,
+Slew brothers for the throne, and ruled like men
 
-Established himself at {{p|Pataliputra}} (near modern {{p|Patna}}). Then
-He faced {{p|Seleucus}}, one of {{c|1982|Alexander}}'s successors, who was
-Attempting to reassert {{p|Hellenistic}} authority over the {{p|Indus}}
-Valley. {{c|2425|Chandragupta}} defeated {{c|2420|Seleucus}} around three-oh-five BCE
+Before him, hard; and then made war upon
+{{p|Kalinga}}, on the east coast; and he won;
+A hundred thousand slain, and, carried on,
+A hundred fifty thousand; and when done,
 
-And negotiated a peace that ceded substantial territory in
-{{p|Afghanistan}} and {{p|Balochistan}} to the {{p|Mauryans}}. As part of the
-Settlement, {{c|2425|Chandragupta}} received five hundred war elephants
-From {{c|2420|Seleucus}} (which {{c|2420|Seleucus}} would use effectively in his
+He saw the dead, and grieved; and he became
+Follower of the {{c|1959|Buddha}}, and he made
+The {{p|Dhamma}} his: no more war; and the same
+Kindness to beasts; and meat no more was laid;
 
-Own subsequent western campaigns), and possibly a {{p|Seleucid}}
-Princess as a wife. {{c|2420|Seleucus}} also sent an ambassador, {{c|2429|Megasthenes}},
-To {{c|2425|Chandragupta}}'s court. {{c|2429|Megasthenes}}'s account of {{p|Maurya}} {{p|India}}
-Is one of the most important external descriptions of ancient
+He founded hospitals, and dug the wells,
+And planted trees along the roads; and stone
+Pillars, with lions, wheels, whose writing tells
+His {{p|Dhamma}}: be kind; honor elders; own
 
-{{p|India}} to survive—preserved in fragments quoted by later {{p|Greek}}
-Writers. It describes a wealthy, populous, well-organized realm
-With a systematic bureaucracy, extensive roads, caste divisions,
-And elaborate court ceremony. {{c|2425|Chandragupta}} himself, {{c|2429|Megasthenes}}
+Respect for priests of every faith; for who
+Speaks ill of others' faith, shames too his own;
+And so he wrote, and thirty more stand true,
+In his own voice, upon the pillars' stone.
 
-Reports, lived in constant fear of assassination, changing his
-Sleeping quarters nightly and being surrounded by female bodyguards.
-The realities of absolute power. Late in life, {{c|2425|Chandragupta}}
-Is said to have abdicated, converted to {{p|Jainism}}, and ended his
+He held the third great council, and sent out
+The monks: across the strait went his own son
+{{c|2435|Mahendra}}, {{c|2436|Sanghamitra}}, daughter, out
+To {{p|Greeks}} and to {{p|Central Asia}}, each one;
 
-Life as an ascetic through the ritual fasting known as {{p|Sallekhana}}.
-Whether this is historically accurate or a pious later legend is
-Debated. But the story captures something: the {{p|Maurya}} ruler who
-Had built an empire through calculated violence finally turning
+And so the {{c|1959|Buddha}}'s way went out across
+The world. His {{p|Dhamma}} was for all, not one
+Faith only: right, and truth, and gifts, no loss
+To any beast; and so the king's rule won
 
-Inward toward spiritual renunciation.
+Its right by goodness, not by blood or sword;
+And beasts had places where they were not slain.
+And still today his wheel, his lion, ward
+The land of {{p|India}}, on flag and plain.
 
-                                           His son {{c|2430|Bindusara}} inherited
-The empire and extended it southward, deep into the {{p|Deccan}}. We
-Know relatively little about him directly, though {{p|Greek}} sources
+He died; and after him the realm grew small,
+Its governors their own; and, in a coup,
+{{c|2439|Pushyamitra Shunga}} made the fall
+Of the last {{p|Maurya}}; the {{p|Shunga}}'s new.
 
-Mention him as "{{c|2431|Amitrochates}}" (a garbled form of {{p|Sanskrit}}
-"{{p|Amitraghata}}," "slayer of foes"). He had diplomatic relations with
-The {{p|Hellenistic}} kingdoms—apparently requesting sweet wine and
-Dried figs from {{c|2432|Antiochus I}} of {{p|Syria}}, and also requesting that
-
-{{c|2433|Antiochus}} send a sophist to teach him philosophy. {{c|2433|Antiochus}}
-Replied that {{p|Seleucid}} law did not permit the export of philosophers.
-The anecdote is probably embellished but charming—the {{p|Indian}}
-Emperor asking {{p|Greece}} to export a thinker as if it were a
-
-Commodity. {{c|2430|Bindusara}} died around two-seventy-two BCE. And then
-Came {{c|2320|Ashoka}}.
-
-                    {{c|2434|Ashoka the Great}}. One of the most remarkable
-Figures of the ancient world. He came to the throne around two-
-
-Sixty-eight BCE after a contested succession in which he is said
-(In later traditions) to have killed several of his brothers. His
-Early reign was ruthless, following the pattern set by his
-Grandfather and father. He expanded the empire. He suppressed
-
-Rebellions. And in two-sixty-two BCE, he launched a war of
-Conquest against the state of {{p|Kalinga}} on the eastern coast. The
-{{p|Kalinga War}} was brutal. According to {{c|2320|Ashoka}}'s own later
-Inscriptions, a hundred thousand people were killed, a hundred
-
-Fifty thousand were deported, and many more died from wounds and
-Starvation. {{c|2320|Ashoka}} won. And then something astonishing happened.
-Looking at the devastation he had caused, {{c|2320|Ashoka}} was overcome
-With remorse. He converted—gradually, it seems—to {{p|Buddhism}}, and
-
-Dedicated the rest of his reign to promoting what he called
-"{{p|Dhamma}}"—a personal ethical and philosophical vision drawn from
-{{p|Buddhist}} teaching but adapted for imperial purposes. He renounced
-Further wars of conquest. He promoted vegetarianism and
-
-Non-violence. He sponsored religious and philosophical missions
-Across {{p|Asia}}. He founded hospitals (reportedly the first in human
-History to provide free care to the poor). He planted trees and
-Dug wells along the roads to benefit travelers. He built stone
-
-Pillars throughout his empire, each topped with a sculpted lion
-Or wheel, inscribed with edicts explaining his {{p|Dhamma}} policy and
-Urging his subjects to treat each other with kindness, respect
-Elders, honor priests of all religions, and so forth. Over thirty
-
-Of these {{p|Ashokan}} pillars and rock edicts survive. They are
-Remarkable documents—the only substantial collection of first-
-Person imperial communication to survive from ancient {{p|India}}. They
-Show us {{c|2320|Ashoka}}'s actual voice, earnest, self-critical, committed
-
-To an ethical vision that transcends mere political authority.
-He promoted religious tolerance: his edicts instruct subjects to
-Respect every religion, because every religion contains wisdom,
-And because attacking one's own faith by disparaging another's
-
-Brings shame on both. This is an astonishingly pluralistic
-Position for an ancient ruler. He sponsored the third {{p|Buddhist}}
-Council at {{p|Pataliputra}}, which codified {{p|Theravada}} {{p|Buddhism}} and
-Dispatched missionary monks to various kingdoms: {{p|Sri Lanka}} (where
-
-His son {{c|2435|Mahendra}} and daughter {{c|2436|Sanghamitra}} led the mission),
-The {{p|Hellenistic}} kingdoms of the {{p|Mediterranean}}, {{p|Central Asia}},
-And likely {{p|Southeast Asia}} and beyond. The spread of {{p|Buddhism}}
-From its original {{p|Indian}} homeland into the rest of {{p|Asia}} largely
-
-Begins with {{c|2320|Ashoka}}'s missionary sponsorship. {{p|Buddhism}}, as it
-Exists today—a religion of several hundred million adherents
-Across multiple {{p|Asian}} civilizations—would be unthinkable without
-{{c|2320|Ashoka}}'s political patronage. He was the ruler who took a
-
-Regional ascetic movement and launched it into the world.
-
-                                                                {{c|2320|Ashoka}}'s
-{{p|Dhamma}} was not conventional {{p|Buddhism}}. It was a kind of civic
-Ethics drawn from {{p|Buddhist}} teaching but addressed to the entire
-
-Population of his empire, regardless of their specific religious
-Affiliation. His edicts rarely explicitly privilege {{p|Buddhism}} over
-Other traditions. They emphasize universal virtues: non-violence,
-Truthfulness, generosity, gentleness toward all creatures,
-
-Tolerance among religious communities. This was a new kind of
-Political rhetoric. The king claimed legitimacy not through
-Conquest or dynastic descent but through his commitment to
-Ethical governance. His power was to be used for the welfare of
-
-His subjects, including his non-human subjects—{{c|2320|Ashoka}} placed
-Extensive restrictions on animal killing and established what
-Would now be called animal sanctuaries. No prior ruler had made
-Such claims or undertaken such policies at such scale. {{c|2320|Ashoka}}'s
-
-Reign marks a moment when political authority attempted to be
-Grounded in ethical rather than purely coercive principles. The
-Attempt is not entirely successful—the {{p|Maurya}} empire was still
-An autocracy, {{c|2320|Ashoka}} still maintained a substantial army, and
-
-After his death the ethical framework he had established could
-Not be maintained by his successors. But the attempt itself is
-Historically significant. It set a precedent for the possibility
-Of ethical imperial rule that would resonate through {{p|Asian}}
-
-Political thought for millennia. In twentieth-century {{p|India}},
-{{c|2437|Jawaharlal Nehru}} would explicitly look back to {{c|2320|Ashoka}} as a
-Model. The modern {{p|Indian}} flag bears the {{c|2438|Ashokan}} wheel at its
-Center. The lion capital from {{c|2320|Ashoka}}'s pillar at {{p|Sarnath}} is
-
-{{p|India}}'s national emblem. The {{p|Maurya}} emperor's legacy is
-Woven into {{p|India}}'s modern self-conception.
-
-                                                  After {{c|2320|Ashoka}}'s
-Death around two-thirty-two BCE, the empire declined. His
-
-Successors were weaker; the vast realm fragmented; provincial
-Governors became autonomous. By one-eighty-five BCE, the last
-{{p|Maurya}} king had been overthrown in a coup by his own general,
-{{c|2439|Pushyamitra Shunga}}, who founded the {{p|Shunga Dynasty}}. The
-
-{{p|Mauryan}} moment was over. But its imprint would last. {{p|India}}
-Had been shown that unification was possible. The pattern of
-Centralized imperial administration would be revived by later
-Dynasties—the {{p|Gupta Empire}} several centuries later, the
-
-{{p|Mughal Empire}} in the early modern period, modern {{p|India}} itself.
-The template was {{p|Mauryan}}. And {{p|Buddhism}}, launched across {{p|Asia}}
-By {{c|2320|Ashoka}}'s missions, would reshape civilizations from {{p|Sri Lanka}}
-To {{p|Japan}}. {{c|2320|Ashoka}} is one of the dozen most consequential
-
-Individuals in human history. And yet, astonishingly, he was
-Almost entirely forgotten in {{p|India}} itself for more than a
-Millennium. The {{c|2438|Ashokan}} inscriptions were unreadable (the
-{{p|Brahmi}} script had been lost); the identity of the emperor who
-
-Had commissioned them was unknown; he was not even mentioned in
-Later {{p|Hindu}} chronicles. It was only in the nineteenth century CE
-That {{c|2440|James Prinsep}}, a {{p|British}} colonial official and linguist,
-Deciphered {{p|Brahmi}} and read {{c|2320|Ashoka}}'s edicts. Only then was the
-
-Emperor's identity recovered. Like the {{p|Hittites}}, {{c|2320|Ashoka}} is a
-Figure whose greatness was substantially rediscovered by modern
-Archaeology and philology. What had been a blank in {{p|Indian}}
-Memory was filled in by scholarly detective work. And once
-
-{{c|2320|Ashoka}} was rediscovered, he became one of the defining figures
-Of modern {{p|Indian}} identity—an astonishing case of a historical
-Figure moving from obscurity to foundational importance through
-The efforts of nineteenth- and twentieth-century scholarship.
-
-                                                                     The
-{{x|Gaiad}} honors {{c|2320|Ashoka}} as one of the genuine moral exemplars of
-Political history. A conqueror who renounced conquest. A king
-Who dedicated his reign to ethical governance. A patron who
-
-Launched {{p|Buddhism}} across {{p|Asia}}. A man whose remorse at his own
-Violence led to a transformation of imperial purpose. Most
-Political histories offer few such figures. Most ancient empires
-Were machines of extraction and violence, governed by rulers whose
-
-Ethical concerns were limited or hypocritical. {{c|2320|Ashoka}} is an
-Exception, and a striking one. His example is not perfect—
-Absolute power always retains its coercive dimension, and {{c|2320|Ashoka}}
-Maintained an empire based on prior conquest. But within the
-
-Constraints of ancient imperial possibility, he seems to have
-Genuinely tried to rule well. The {{x|Gaiad}} reads him as one of the
-Brightest spots in the political history of antiquity.
-
-                                                           {{p|Maurya}}.
-{{c|2425|Chandragupta}}, {{c|2430|Bindusara}}, {{c|2320|Ashoka}}. {{c|2426|Chanakya}} and the {{p|Arthashastra}}.
-The defeat of {{c|2420|Seleucus}}. {{c|2429|Megasthenes}}'s description of {{p|Pataliputra}}.
-The {{p|Kalinga War}} and its transformative horror. {{c|2320|Ashoka}}'s
-Conversion and the {{p|Dhamma}} policy. The stone pillars with their
-
-Imperial edicts. The lion capital of {{p|Sarnath}}. The missions that
-Carried {{p|Buddhism}} across {{p|Asia}}. The first {{p|Indian}} empire. The
-Long forgetting and the nineteenth-century rediscovery.
-
-                                                              {{p|Maurya}}.
-The unification of {{p|India}}. {{c|2320|Ashoka}}'s ethical experiment. The
-{{p|Buddhist}} missions outward.
+Honor them: {{c|2425|Chandragupta}}, and the cold
+Wise {{c|2426|Chanakya}}; and great {{c|2320|Ashoka}}, who
+Grieved for the dead of war, and then would hold
+The world in kindness, and sent the monks through.
 
 
 # Chapter 176: The Punic Wars
