@@ -71,14 +71,14 @@ Of upright posture, awakening line
 Of body for the open ground; the rift.
 
 {{c|1829|Sahelanthropos}} is the oldest face
-Of human lineage yet found: in clay
+Of human lineage of all: in clay
 Some seven million years in the embrace
 Of {{p|Sahel}}'s ancient lakeside, a skull lay
 
 Whose foramen magnum, placed down below
-The braincase, told us of the upright head:
+The braincase, carried high the upright head:
 Transition had begun. And, long ago,
-"Ground ape" {{c|1830|Ardipithos}}, whose bones have said:
+"Ground ape" {{c|1830|Ardipithos}}, whose form was bred:
 
 Halfway: still grasping toes for climbing, though
 A backbone made for walking, as it could;
