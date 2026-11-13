@@ -163,7 +163,7 @@ To keep his systems working and well fed.
 Sweet {{c|541|Ikaria}}, love of his long life,
 Then came to him; and {{c|542|Cambrius}}, the bold,
 Was born to them, the husband and the wife,
-Who would be glorious, as we are told.
+Who would be glorious, from days of old.
 
 Great {{c|542|Cambrius}} saw that there was a need,
 And so he segmented his body's form
