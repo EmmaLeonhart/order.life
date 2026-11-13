@@ -2510,192 +2510,132 @@ The woods kept his memory, for his sake.
 
 # Chapter 244: The Kachina Underground
 
-For eighty years the Pueblo peoples bore it.
+For eighty years the Pueblo peoples bore
+It all, since Oñate's iron boot had crossed
+{{p|Rio Grande}}, ninety-eight; the friars' war
+Ground sacred dances down; and, at the cost,
 
-Since Oñate's iron boot had crossed
-The {{p|Rio Grande}} in fifteen-ninety-eight, the orbit
-Of the Spanish friars, and of the cost
+The kivas sealed with stone; the masks were burned
+Of the kachinas, {{p|Taos}} to {{p|Hopi}}'s town;
+The forced conversion's labor, as it turned,
+Fell on the Pueblo backs, dragged up and down
 
-Of their claim ground the sacred dances down:
-The kivas sealed with stone, the masks
-Of the kachinas burned in every town
-From {{p|Taos}} to {{p|Hopi}}—and the tasks
+The timbers for the churches, day by day;
+The friars' altars to the one god built
+Atop the buried kivas; but the way
+Of the rain-prayer and corn-song, without guilt,
 
-Of the forced conversion fell upon
-The backs of the Pueblo men, who dragged
-The timbers for the churches at the dawn
-And the dusk of every day, and gagged
+Went on, whispered, hidden from the friar;
+The Pueblo peoples bore it all along
+Mesa-patient; but the well grew drier;
+The drought came: in the seventies, the strong
 
-On the building of the friars' altars
-To the one god, set atop the buried
-Kivas where the ceremony falters
-In the darkness—underground, the married
+Relentless failure of the sky to rain;
+The Spanish tribute-corn, which none could pay,
+The starving towns; Apache raids, the bane
+Of weakened missions; and the whip's harsh sway,
 
-Rhythm of the rain-prayer and the corn-song
-Continued, whispered, hidden from the friar's ear,
-And the Pueblo peoples bore the wrong
-With the patience of the mesa, year by year.
-
-But patience has a depth, and the well runs dry.
-
-The drought came first—the sixteen-seventies'
-Relentless failure of the desert sky
-To deliver rain, the subtleties
-
-Of the climate's cruelty compounded by
-The Spanish demand for tribute-corn
-That the starving pueblos could not supply—
-And the Apache raids, like a thorn
-
-In the weakened body's side, drove the frontier
-Missions to their knees—and the friars
-Responded with the whip, the sheer
-And escalating violence, the fires
-
+The friars' answer, violence that rose,
 Of men who blamed the drought on kiva sin:
-The kachinas, the rain-rite's elder hold,
-The dancing that continued within
-The hidden kiva's fold—
+Kachinas, the rain-rite, the dance that goes
+On, hidden, in the kiva's fold within;
 
-And in sixteen-seventy-five, the Spanish
-Arrested forty-seven medicine men,
-Hanged three, and meant to vanquish
-The spiritual resistance—and then
+In seventy-five, the Spanish then seized
+Some forty-seven healers, and hanged three,
+To break the spirit's stand; but, not appeased,
+Popé of {{p|Ohkay Owingeh}} rose up: and he
 
-Popé of {{p|Ohkay Owingeh}} emerged.
+Had been among the whipped: the scars he bore
+On his back, the text that urged the rising:
+And knotted cords, like stars, were sent before
+From {{p|Taos}} to the {{p|Piro}}, the devising
 
-He had been among the whipped—the scars
-Upon his back were the text that urged
-The revolution: knotted cords, like stars
+Encoded in the fiber: loose one knot
+Each day; and when the cord is smooth, then rise.
+August the tenth, sixteen-eighty: the lot
+Of twenty-four pueblos, beneath the skies,
 
-Strung on a counting thread, were sent
-To every pueblo from {{p|Taos}} south
-To the {{p|Piro}} settlements—the intent
-Encoded in the fiber's mouth:
+To the kachina's drums, rose up as one;
+The Spanish, caught 'twixt sky and stolen land;
+The Pueblo fury, burning like the sun,
+Burned down the mission doors on either hand:
 
-Untie one knot each day, and when
-The cord is smooth, the rising comes.
+And each church, {{p|Taos}} down to {{p|Isleta}}, razed;
+And twenty-one Franciscans killed, the cost
+Of eighty years of whip; the settlers, dazed,
+To {{p|Santa Fe}}; the governor's grip, lost
 
-August tenth, sixteen-eighty: the men
-Of twenty-four pueblos, to the drums
+On {{p|New Mexico}} dissolved, like the clay
+In the acequia's flood. They ringed the town:
+Two thousand warriors, {{p|Santa Fe}}; the way
+Of water cut; the last stand, sallies, down
 
-Of the kachina's summoning, rose as one.
+Out from the palace, bought the time alone
+To gather settlers, flee, and go south,
+Lonely, humiliated, to the bone,
+Down the {{p|Rio Grande}} to {{p|El Paso}}'s mouth
 
-The Spanish were caught between the sky
-And the earth they'd stolen—the sun
-Of the Pueblo fury did not die
+Of dust; the Pueblo stood upon their land
+The first time in eighty years. Popé then said:
+Undo all: go wash, by the river's hand,
+Baptism off; take the old name instead,
 
-At the mission door but burned it down:
-Every church from {{p|Taos}} to {{p|Isleta}}
-Was razed, and the friars in every town
-Were killed—twenty-one Franciscans, the feta-
+The true name the kachinas know; the track
+Of Spanish road, the mission's frame, the bell
+Of iron, destroy them all; and give back
+The kiva to the dancers, who would tell
 
-L cost of eighty years of the whip—
-And the settlers fled to {{p|Santa Fe}},
-Where the governor watched his grip
-On {{p|New Mexico}} dissolve like clay
+The rain-prayer to the cloud, the corn, the earth.
+Twelve years of freedom, the old ways restored,
+The ceremony born again; the dearth
+And inner strife: Popé was a tyrant lord;
 
-In the acequia's flood.
+The unity the rising asked could not
+Be sown in peace; the pueblos quarreled; drought
+Continued; raids increased; and freedom's lot,
+Too fragmented to hold, at last gave out.
 
-                          The siege of {{p|Santa Fe}}—
-Two thousand Pueblo warriors ringed the villa,
-Cut the water supply, and the fray
-Of the final Spanish stand—guerrilla
+Diego de Vargas in ninety-two
+Returned; the reconquest's mold had changed:
+No chargers through the plaza, no mass slew
+Of executions; things were rearranged:
 
-Sorties from the palace—bought only
-The time to gather the surviving settlers
-And retreat south, lonely
-And humiliated, the fettlers
+The Pueblo had proved that they could expel
+The foe outright; the Spanish came to treat,
+Not by the sword: with amnesty as well,
+Lighter tribute; and, cornerstone, complete:
 
-Of empire reduced to refugees,
-Down the {{p|Rio Grande}} to {{p|El Paso}}'s dust—
-And the Pueblo peoples stood at ease
-Upon their own land for the first
+The tolerance of all the Pueblo rite:
+Kachinas would still dance; the kivas stay;
+The old religion's way would not, despite
+The mission, be its bane; the price to pay,
 
-Time in eighty years.
+Unspoken compromise; the reconquest
+Was possible; the Pueblo kept their prayer,
+Their skies, their gods; conversion, at its best,
+Was surface; and beneath, the altar there
 
-                         And Popé ordered the undoing.
+Of {{x|Christian}} faith, and the Franciscan's plea,
+Kachina danced; the corn-prayer, wreathed, would rise
+From the unconquered kiva, rising free,
+Into the clouds. Here the victory lies:
 
-Wash off the baptism in the river.
-Take the {{x|Christian}} name and the accruing
-Of the saint the friars gave; deliver
+Not in the twelve years' freedom's shrouds alone,
+But in the stubborn life that followed; for
+Kachinas dance today in {{p|Zuni}}'s own,
+In {{p|Hopi}}, {{p|Acoma}}: the sacred core
 
-It to the water's current—take back
-The old name, the true name,
-The name the kachinas know. The track
-Of the Spanish road, the frame
+The Spanish cruelty could not erase,
+Because one generation proved it could
+Be erased; that proof was the leverage, base
+Of bargaining that kept, beneath the wood
 
-Of the mission church, the iron bell—
-Destroy them all. Let the kiva
-Be unsealed, let the dancers tell
-The rain-prayer to the receiver
+Of the conqueror's church, the sacred, kept,
+And living, underneath the roof, alive;
+The rite was hidden there, and never slept;
+The old ways, in the new, would still survive.
 
-Of all prayers: the cloud, the corn, the earth.
-
-Twelve years of freedom. Twelve years
-Of the old ways restored, the rebirth
-Of the ceremony—and the tears
-
-Of the internal strife, for Popé
-Became, some said, a tyrant of his own—
-The unity that the revolt's ballet
-Had demanded could not be sown
-
-In peacetime, and the pueblos quarreled,
-And the drought continued, and the raids
-Increased—and the freedom, garland-
-Garlanded with hope, was the shades
-
-Of a sovereignty too fragmented to hold.
-
-In sixteen-ninety-two, Diego de Vargas
-Returned—but the reconquest's mold
-Was broken differently: no chargers
-
-Thundering through the plaza, no
-Mass execution—for the Pueblo had proved
-That they could expel the foe
-Entirely, and the Spanish moved
-
-With negotiation, not the sword alone:
-Promises of lighter tribute, amnesty,
-And—the crucial, the cornerstone—
-The tolerance of the Pueblo dynasty
-
-Of ceremony: the kachina dances
-Would continue. The kivas would remain.
-The old religion's advances
-Would not be the mission's bane
-
-But the unspoken compromise
-That made the reconquest possible:
-The Pueblo kept their prayers, their skies,
-Their gods—the ostensible
-
-Conversion was the surface, and beneath
-The {{x|Christian}} altar and the Franciscan's chant,
-The kachina danced, and the wreath
-Of the corn-prayer rose from the suppliant
-
-And unconquered kiva to the clouds.
-
-This is the Pueblo victory—
-Not in the twelve years' freedom's shrouds
-Alone, but in the contradictory
-
-And stubborn survival that followed:
-The kachinas dance today in {{p|Zuni}}
-And {{p|Hopi}} and {{p|Acoma}}, and the hallowed
-Ceremony that the Spanish cruelty
-
-Could not erase—because one generation
-Proved it could be erased, and the proof
-Was the leverage of the negotiation
-That kept the sacred underneath the roof
-
-Of the conqueror's church, alive and whole.
-
-Honor Popé, the scarred medicine man
+So Honor Popé, the scarred medicine man
 who knotted the cord of the Pueblo soul
 and in one August dawn untied the plan
 of eighty years, and took the altar whole:
