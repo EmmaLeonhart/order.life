@@ -41160,95 +41160,110 @@ Set the place for the absent, there, below.
 
 # Chapter 265: The Monkey and the Hill of Crosses
 
-He was born a peasant in {{p|Nakamura}}, in {{p|Owari}},
-The son of a foot soldier, small and ugly; they called him the {{c|3846|Monkey}}.
-He carried the sandals of {{c|3262|Oda Nobunaga}} and warmed them in his breast, the story
-Goes, on winter mornings. From that, by wit, by the flunky's
+In {{p|Nakamura}}, {{p|Owari}}, born low,
+A foot soldier's son, called the {{c|3846|Monkey}}, small,
+Warmed {{c|3262|Oda Nobunaga}}'s shoes so
+In his breast, winter mornings; and, through all
 
-Patience and the general's genius, he rose. When {{c|3847|Nobunaga}}
-Burned in the temple of {{p|Honnō-ji}} in 1582,
-Betrayed, the {{c|3846|Monkey}} avenged him in thirteen days, and the saga
-Of the warring states, a hundred years of every lord against the few
+His wit and patience and his master's art,
+He rose. When {{c|3847|Nobunaga}} burned, betrayed,
+At {{p|Honnō-ji}}, in eighty-two, his part:
+In thirteen days, revenge; and so was laid
 
-Who could be trusted, began to close in his hand.
-In 1590 he laid siege to {{p|Odawara}} and the last great house
-Of the east surrendered. {{p|Japan}} was one. The land
-Was his. {{c|3263|Toyotomi Hideyoshi}}, who could never be shogun, a mouse
+The saga of the warring states to rest:
+A hundred years of each lord against few
+To trust, closed in his hand. And, as the test,
+In ninety, {{p|Odawara}}'s siege; and through,
 
-By birth among the lions, made himself regent, {{c|3848|Taikō}},
-And then he did what the strong do after the war: he wrote it down.
-The {{c|3849|Taikō kenchi}}: every field in {{p|Japan}} surveyed, the slow
-Measuring of every paddy, its yield, its holder, the town
+The east's last great house yielded; {{p|Japan}}'s land
+Was {{c|3263|Toyotomi Hideyoshi}}'s; one
+Who never could be shogun, by his hand,
+A mouse born among lions; regent; won
 
-And the village, in one register. And the {{c|3850|sword hunt}}, 1588:
-Every farmer's sword and spear to be surrendered, melted, it was said,
-For the nails and bolts of a great {{c|1959|Buddha}}. And in 1591, the gate
-Closed: a warrior could not become a farmer, a farmer could not be led
+The name of {{c|3848|Taikō}}; and, as do the strong
+After a war, he wrote it down: the slow
+The {{c|3849|Taikō kenchi}}, field by field along,
+Each paddy, yield and holder, town and row,
 
-To become a merchant or a soldier. Every person in his place,
-And the place in the register. The {{c|3846|Monkey}} who had climbed
-Pulled up the ladder. Hold that face
-Of the man: the climber who made climbing a crime.
+And village, in one register; {{c|3850|sword hunt}},
+Eighty-eight: farmers' swords and spears laid down,
+Melted, for a great {{c|1959|Buddha}}'s bolts; the brunt,
+In ninety-one, the gate shut on the town:
 
-And the {{c|2494|Christians}}. {{c|3817|Xavier}}'s church had grown. Lords of {{p|Kyūshū}}
-Were baptized, and their people with them, and one, {{c|3851|Ōmura}},
-Had given the port of {{p|Nagasaki}} to the {{c|3588|Jesuits}}. And the slave trade grew too:
-{{c|3212|Portuguese}} ships carried {{c|3815|Japanese}} away in chains. The cure
+No warrior could farm; no farmer could be
+A merchant or a soldier; each in place,
+The place in the register; and so he,
+The climbing {{c|3846|Monkey}}, pulled the ladder: face
 
-Hideyoshi chose in 1587 was an edict: the padres must leave.
-They mostly stayed, quietly. Then in 1596 a {{c|3516|Spanish}} galleon,
-The {{c|3852|San Felipe}}, wrecked on {{p|Shikoku}}, and its pilot, to reprieve
-The cargo or to frighten, boasted, so the story runs, that the stallion
+The man: the climber made the climb a crime.
+And then the {{c|2494|Christians}}: {{c|3817|Xavier}}'s church had grown;
+{{p|Kyūshū}}'s lords baptized, their folk; and, in time,
+{{c|3851|Ōmura}} gave {{p|Nagasaki}}, their own,
 
-Of {{p|Spain}}'s empire always sent the priests ahead
-To prepare the conquest. Whether he said it or not, the {{c|3846|Monkey}} believed it.
-In {{p|Kyoto}} and {{p|Osaka}} they arrested twenty-four, and led
-Them through the streets with their left ears cut. Two more received it,
+To {{c|3588|Jesuits}}; and the slave trade grew, too:
+{{c|3212|Portuguese}} ships took {{c|3815|Japanese}} in chains;
+The cure he chose, in eighty-seven, through
+An edict: padres out; most stayed; the pains
 
-The crown, along the road, who had come to help them and were seized.
-Twenty-six: six {{c|3572|Franciscan}} friars from {{p|Spain}} and {{p|Mexico}} and {{p|India}},
-Three {{c|3815|Japanese}} {{c|3588|Jesuits}}, and seventeen laymen, the elders
-And the young, catechists, a doctor, old men, and three boys. The windy
+Of ninety-six: a {{c|3516|Spanish}} ship was wrecked,
+The {{c|3852|San Felipe}}, on {{p|Shikoku}}; and its head,
+Pilot, to save his cargo, would project
+That {{p|Spain}} sent priests ahead; he boasted, said,
 
-Road from {{p|Kyoto}} to {{p|Nagasaki}}, eight hundred kilometres, a month,
-In winter, on foot, so that every province would see them pass.
-On the fifth of February, 1597, on the hill of {{p|Nishizaka}}, the brunt
-Of it: twenty-six crosses, iron rings at the neck and wrists. The mass
+To ready conquest; the {{c|3846|Monkey}} believed;
+In {{p|Kyoto}} and {{p|Osaka}}, twenty-four
+Were seized; and led through streets, their left ears cleaved;
+Two more who came to help them, seized; and more:
 
-Of the town came out to watch. {{c|3853|Paul Miki}}, a {{c|3835|Jesuit}} brother,
-The son of a samurai, preached from his cross: I am {{c|3815|Japanese}},
-I die for teaching the {{x|Gospel}}, and I forgive the {{c|3848|Taikō}} and the other
-Men who did this. {{c|3854|Luis Ibaraki}}, twelve years old, asked, at ease,
+Twenty-six: {{c|3572|Franciscan}} friars, from {{p|Spain}},
+{{p|Mexico}}, {{p|India}}; three {{c|3815|Japanese}}
+{{c|3588|Jesuits}}; seventeen laymen; the plain
+Old men, a doctor, catechists, boys: these
 
-Which cross is mine? and ran to it, and they say he sang.
-{{c|3855|Antonio}}, thirteen, sang a psalm. {{c|3856|Thomas Kozaki}}, fourteen,
-Had written to his mother on the way. Then the spears. The clang
-Of the lances under the ribs, two each, and it was clean
+Walked {{p|Kyoto}} to {{p|Nagasaki}}, in snow,
+Eight hundred kilometres, so each land
+Would see them pass. February fifth, slow,
+Ninety-seven, {{p|Nishizaka}}, the stand
 
-And quick, the chronicle says, and the crowd broke through the guards
-To soak cloth in their blood. These are the {{x|Days of Awe}}. Say it straight:
-A state that writes every field and fixes every man in his yards
-Will see a priesthood it did not create,
+Of twenty-six crosses, rings at neck, wrist;
+The town watched; and {{c|3853|Paul Miki}}, a brother,
+A samurai's son, he preached; would insist:
+"I'm {{c|3815|Japanese}}; I forgive the other
 
-And cross it out. The register and the cross on the hill
-Are one story. He also sent his armies into {{p|Korea}}, in 1592,
-And brought back ears and noses, buried in a mound that still
-Stands in {{p|Kyoto}}, the {{c|3857|Mimizuka}}, to count the dead. The view
+The {{c|3848|Taikō}}, and the men; for this I die."
+{{c|3854|Luis Ibaraki}}, aged twelve, then asked
+"Which cross is mine?" and ran to it; and high
+He sang; {{c|3855|Antonio}}, a psalm, unmasked;
 
-From the end: in 1598 the {{c|3846|Monkey}} lay dying in {{p|Fushimi}},
-Afraid for his five-year-old son, and wrote his last poem:
-*Like dew I fell, like dew I vanish. {{p|Osaka}}, and all of me,
-Is a dream within a dream.* The register, the castle, the home,
+{{c|3856|Thomas Kozaki}}, fourteen, had sent word
+Home to his mother. Then the spears: the clang
+Of lances, two, under the ribs; the herd
+Broke through the guards to soak cloth where blood sprang.
 
-The hill of crosses: a dream. Within twenty years his son was dead,
-His house was ended, and the {{c|3317|Tokugawa}} had the land.
-And the {{c|2494|Christians}} would go underground, and the hidden faith be fed
-For two hundred and fifty years from a secret hand.
+These are the {{x|Days of Awe}}; and say it straight:
+A state that writes each field, fixes each man,
+Will see a priesthood it did not create
+And cross it out: the register's own plan
 
-Repent, on this day, of every list that crosses out a name.
-Remember the boy who asked which cross was his.
-Remember the peasant who climbed, and pulled the ladder up, the same
-Man, the same hand. The dew falls. That is what is.
+And the hill's crosses: one story. He sent
+His armies to {{p|Korea}}, ninety-two,
+And brought back ears and noses; a mound, meant
+To count the dead, {{c|3857|Mimizuka}}, in view
+
+In {{p|Kyoto}}. Ninety-eight: dying, he lay
+At {{p|Fushimi}}, afraid for his small son;
+He wrote: "Like dew I fell, like dew away
+I vanish; {{p|Osaka}}, all of me, one
+
+Dream in a dream." The register, the hold,
+The castle, and the hill of crosses: dream.
+Repent today of each list, new or old,
+That crosses out a name; the boy, whose gleam
+
+Asked which cross was his; and the peasant, who
+Climbed, and then pulled the ladder up: the same
+Man, the same hand. The dew falls, and is true;
+That is what is. Remember each one's name.
 
 
 # Chapter 266: The One Who Waited
