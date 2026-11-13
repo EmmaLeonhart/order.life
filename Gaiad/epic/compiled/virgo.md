@@ -1892,75 +1892,75 @@ Go see it, as you see the ship, at will.
 
 # Chapter 271: Two Fingers
 
-{{p|Moscow}}, the town {{c|222|Yuri}} the {{c|3035|Long-Armed}} founded on a hill above a river,
-Was the head of an empire by 1600, and then it fell apart.
-The old line of {{c|2954|Rurik}} died out. The {{x|Time of Troubles}}: a fever
-Of pretenders, famine, the {{c|3905|Poles}} in the {{p|Kremlin}}, the heart
+By {{c|222|Yuri}} {{c|3035|Long-Armed}}, on its hill, {{p|Moscow}}
+Ruled a great realm by sixteen hundred; fell
+Apart: the line of {{c|2954|Rurik}} died; and so
+The {{x|Time of Troubles}}: the pretenders' spell,
 
-Of the country occupied. A butcher of {{p|Nizhny Novgorod}}, {{c|3906|Kuzma Minin}},
-And a prince, {{c|3907|Dmitry Pozharsky}}, raised an army of the towns
-And took {{p|Moscow}} back in 1612. And in 1613 an assembly of the land, in
-The {{p|Kremlin}}, chose a boy of sixteen to wear the crown:
+Famine, the {{c|3905|Poles}} within the {{p|Kremlin}}; then
+{{c|3906|Kuzma Minin}}, a butcher, and the lord
+Of {{p|Nizhny Novgorod}}, stood up; and when
+{{c|3907|Dmitry Pozharsky}} raised the towns' sword,
 
-{{c|3908|Michael Romanov}}, of a boyar family, whose great-aunt had been
-{{c|3909|Ivan the Terrible}}'s first and best-loved wife. A peasant, {{c|3910|Ivan Susanin}},
-It is told, led a {{x|Polish}} troop astray in the forest, unseen
-Death in the snow, to save the boy. The {{c|3911|Romanovs}} began
+In twelve they took back {{p|Moscow}} from the hand
+Of {{c|3905|Poles}}; in thirteen, an assembly met,
+In the {{p|Kremlin}} chose a boy, crowned, to stand,
+Young {{c|3908|Michael Romanov}}, sixteen, whose debt
 
-And ruled three hundred and four years. Hold the founding. Then the split.
-In 1652 the {{c|3912|Patriarch Nikon}}, a peasant's son of great will,
-Set out to correct the {{x|Russian}} church: to make it fit
-The {{x|Greek}}. The books had drifted, he said; the copyists' skill
+To peasant {{c|3910|Ivan Susanin}}, who led
+A {{x|Polish}} troop astray into the snow,
+And died to save the boy; and, at the head,
+The {{c|3911|Romanovs}}, whose great-aunt, long ago,
 
-Had failed; the {{c|3200|Russians}} crossed themselves with two fingers,
-And the {{c|2519|Greeks}} with three; the {{c|3200|Russians}} sang *{{x|Alleluia}}* twice, and the {{c|2519|Greeks}}
-Three times; the {{c|3200|Russians}} walked the procession with the sun. The lingerers
-In the old way must change. Three fingers. And the weeks
+Was {{c|3909|Ivan the Terrible}}'s first, best wife.
+Hold the founding; then the split: fifty-two,
+{{c|3912|Patriarch Nikon}}, peasant's son; his strife
+To make the {{x|Russian}} church fit {{x|Greek}}, would do:
 
-Became years of fury. The irony is this, on the {{x|Ninth Day of Awe}}:
-The two-fingered sign was the older one. The {{c|2519|Greeks}} had changed, not the {{c|3200|Russians}}.
-The {{x|Russian}} books kept a {{x|Byzantine}} use the {{c|2519|Greeks}} forgot. The law
-Of the reform called itself a return to the source. The discussions
+The books had drifted, copyists had failed;
+The {{c|3200|Russians}} crossed with two fingers; {{c|2519|Greeks}}, three;
+Sang *{{x|Alleluia}}* twice; sunwise, they trailed
+Processions; all must change now, to the three:
 
-Of the scholars would show it, centuries later: the "correction"
-Was a modernization dressed as a restoration. Invented tradition
-In reverse: the new disguised as the old, the defection
-Disguised as fidelity. And the people who held the old position,
+Three fingers. And the weeks became years' rage.
+The irony, {{x|Ninth Day of Awe}}: the sign
+Of two was older; {{c|2519|Greeks}} had changed; the page,
+{{x|Russian}} books kept {{x|Byzantine}} use: the line
 
-The {{c|3913|Old Believers}}, would not cross themselves with three.
-The council of 1666 cursed them. And the year itself, the number
-Of the {{c|3914|Beast}}, convinced them: the {{c|3915|Antichrist}} had come, and the tree
-Of the {{x|Church}} was cut. The archpriest {{c|3916|Avvakum}}, from his slumber
+The {{c|2519|Greeks}} forgot. And those who held the old,
+The {{c|3913|Old Believers}}, would not cross with three;
+The council cursed them, sixty-six; and told
+By the year's number, of the {{c|3914|Beast}}, they'd see
 
-In an earthen pit in the {{p|Arctic}}, wrote the first great book
-In plain {{x|Russian}}, his own life, and was burned at the stake in 1682.
-The {{c|3917|Boyarina Morozova}}, a great lady, would not look
-At the three-fingered cross; they starved her in a pit. And who
+The {{c|3915|Antichrist}} had come; the tree was cut.
+Archpriest {{c|3916|Avvakum}}, from a deep pit
+In the {{p|Arctic}}, wrote the first great book, shut
+In plain {{x|Russian}}, his own life; burned for it
 
-Can count the rest: whole villages, rather than submit,
-Shut themselves in wooden churches and set them on fire,
-Twenty thousand, perhaps more, over the years. The pit,
-The fire, the fingers. For a gesture. Hold it, and the desire
+At the stake, eighty-two. A lady, great,
+{{c|3917|Morozova}}, a noble, would not look
+At the three-fingered cross; they starved her; weight
+Of all the rest: whole villages forsook
 
-To say they were fools. They were not fools. They knew
-What a rite is: the body's memory of the holy.
-To change the fingers was to say the fathers' prayer was untrue.
-They would not betray their dead. And the state, slowly,
+Submission, shut themselves in churches, wood,
+And set them burning; twenty thousand, more,
+Over the years: the pit, the flame; and could
+One call them fools? They were not fools; they bore
 
-Hunted them to the edges of the empire, to the forests,
-To {{p|Siberia}}, where some of them are still. In 1978
-Geologists found a family, the {{c|3918|Lykovs}}, whose fathers' choruses
-Had fled in the 1930s into the taiga. The late
+The knowledge of a rite: the body's part,
+Memory of the holy; changing hands
+Said that the fathers' prayer was false at heart;
+Would not betray their dead. The state's commands
 
-Twentieth century met them: they had never heard of the war.
-They still crossed themselves with two fingers. Repent, on this day,
-Of every reform that called the fathers wrong for
-Being older than the reformers knew. And pray
+Hunted them to the edges, to the trees,
+{{p|Siberia}}, where some are still; and they,
+In {{p|Russia}}, {{p|Alaska}}, {{p|Oregon}}: these
+Raise two fingers still. Repent, on this day,
 
-As your fathers prayed, if you can, and change what must change,
-And never burn anyone over the fingers of a hand.
-The {{c|3913|Old Believers}} are still in {{p|Russia}}, and in {{p|Alaska}}, and in the strange
-Green valleys of {{p|Oregon}}. Two fingers raised. They stand.
+Of each reform that called the fathers wrong
+For being older than reformers knew;
+Pray as your fathers prayed; and, all along,
+Change what must change; burn none for fingers two.
 
 
 # Chapter 272: The Sabbath of Sabbaths
