@@ -46815,92 +46815,55 @@ December's fourth; March seventh; and both heard.
 
 # Chapter 324: The Master in the Mountain
 
-The filming did not begin in the year of the vault.
-In 1938 the {{x|Genealogical Society of Utah}}
-Began to copy books onto rolls of film.
-The vault is where the masters were put.
-It is not the first camera.
+In 'thirty-eight, the cameras began:^[The Genealogical Society of Utah began filming in 1938.]
+Books onto rolls of film; the vault came late,
+The masters' home, not where the first began;
+{{p|Little Cottonwood Canyon}}, at the gate
 
-The place is {{p|Little Cottonwood Canyon}},
-In the {{p|Wasatch}}, in {{p|Utah}},
-About a mile up from the mouth,
-About twenty miles southeast of {{p|Salt Lake City}}.
-The room is cut into the north wall.
-The published depth is about six hundred feet.
-Seven hundred feet of granite stand over the rooms.
-A depth and a cover are not the same measure.
+Of the {{p|Wasatch}}, in {{p|Utah}}; a mile in,
+Southeast of {{p|Salt Lake City}}, twenty miles;
+The room is cut in the north wall; within,
+Granite, seven hundred feet; and the files.
 
-The stone is called granite.
-The rock is quartz monzonite.
-It is the stone of the temple in the city.
-The temple's blocks were split from boulders
-At the mouth of the canyon.
-The workers' account is that explosives
-Were not used on those blocks.
-The temple was dedicated in 1893.
-The vault was blasted into the wall.
-The quarry and the vault are not the same cut.
+The stone they call granite; the rock, in fact,
+Quartz monzonite, the temple's stone; its blocks
+Split from the canyon's boulders, left intact,
+With no explosives used upon those rocks;
 
-In the late years of the 1950s the site was tested.
-Blasting began in May 1960.
-In April 1963 the first rolls were carried in.
-The construction was not finished
-Until December of that year.
-In that December visitors were taken through.
-Do not say the mountain was never shown.
-The showing is not a reading room.
+The temple, 'ninety-three; the vault, though, blast
+Into the wall; not the same cut. Tests, late
+'Fifties; and May of 'sixty, blasting, passed
+To April 'sixty-three: first rolls; the gate
 
-The published cost was two million dollars.
-The main door weighs fourteen tons, and the two smaller doors nine tons each,
-Built to stand against a blast.
+Not finished till December; and, that year,
+Visitors went through; shown, but not to read:
+Two million dollars; doors that blasts would fear,
+The main, fourteen tons; two of nine, decreed;
 
-A laboratory sits under the overhang.
-The storage is deeper in.
-Six vaults hold the film, off the corridors cut into the granite.
+A lab beneath the overhang; and deep
+Six vaults of film, off corridors in stone;
+In 'sixty-five at work; named, May; to keep
+Dedication, June twenty-second, shown
 
-In 1965 the vault was in operation.
-It was named in May 1966.
-It was dedicated on the twenty-second of June, 1966.
-Do not say the whole of it was built in 1965.
-1965 is the year the work was going.
-The dedication is the next year.
+In 'sixty-six. The owner is the church,
+{{x|Church of Jesus Christ of Latter-day Saints}};
+Cameras went where archives let them search,
+And copied; but the book stayed, no constraints;
 
-The owner is the {{x|Church of Jesus Christ of Latter-day Saints}}.
-The society that sent the cameras
-Is the {{x|Genealogical Society of Utah}}.
-Where an archive agreed, a camera copied the books.
-The camera does not take the book.
-The book stays where it was.
-The film is a copy of the page
-As the page was on the day of the filming.
+The film, the page, as on the filming's day;
+The master in the mountain; who would read
+Comes to a copy, elsewhere; so the way
+The names are kept, that living ones may plead
 
-The master roll stays in the mountain.
-A person who comes to read
-Comes to a copy, elsewhere.
-The vault is not that room.
+A rite for the dead: baptism, by one
+Who lives, in temple, in the dead one's name;
+A gift the dead may take or leave; well done,
+This book says: it is good, and kin; the same
 
-The names are kept so that the living
-Can ask a rite for the dead.
-The rite named here is a baptism,
-Done by a living person, in a temple,
-In the name of someone who has died.
-The rite is not done in the mountain.
-The mountain keeps the name.
-The church teaches that the dead
-May accept what was asked, or refuse it.
-That is the teaching.
-It is not a report of any one dead person.
-The film does not perform the rite.
-The film does not obtain the answer.
-
-Do not say every person who has died
-Is in the mountain.
-The rolls are the books the cameras reached.
-A name not filmed is not invented here.
-A later copying onto disks,
-And a site on the network,
-Are not this year.
-Do not move them back.
+Our ancestor days do; it went before,
+Our forerunner, its keeping honored warm;
+Books its cameras reached; and more and more,
+The names, in film; and this book keeps that form.
 
 A film outlives the book, if the book burns:
 That is a real keeping. And the old fight
@@ -46912,16 +46875,15 @@ The rite: a gift the dead may take or leave,
 Offered in the temple, and offered free;
 And no name lost: the thing this book would weave.
 
-Count 1938 as the start of the filming.
-Count May 1960 as the start of the blasting.
-Count April 1963 as the first rolls,
-And December 1963 as the showing.
-Count 1965 as the year of the operation.
-Count the twenty-second of June, 1966, as the dedication.
-The master stays.
-The book stays in its archive.
-The question the rite asks
-Is not answered by the stone.
+In 'thirty-eight, the filming; and the blast,
+In May of 'sixty; April, 'sixty-three,
+The first rolls; then December, showing passed;
+In 'sixty-five, work; 'sixty-six, the key:
+
+The dedication. And the master stays;
+The book stays in its archive; and the rite
+Asks what the stone can't answer; and the days
+Keep every name the film has brought to light.
 
 
 # Chapter 325: Left as a Museum
