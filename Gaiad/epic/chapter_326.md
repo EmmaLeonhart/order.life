@@ -1,138 +1,96 @@
 # Chapter 326: The Eagle and the Two Letters
 
-On the sixteenth of July, 1969,
-{{c|4446|Neil Armstrong}}, {{c|4447|Buzz Aldrin}}, and {{c|4448|Michael Collins}}
-Left the cape then called {{p|Cape Kennedy}}.
-The cape is now {{p|Cape Canaveral}}.
-The center is the {{p|Kennedy Space Center}}.
-Do not collapse the names.
-A person had already left the {{p|Earth}} in the spring of 1961.
-On the twenty-fifth of May, 1961,
-{{c|4449|John Kennedy}} had asked for a landing and a return
-Before the decade was out.
+July sixteenth, in nineteen sixty-nine,
+With {{c|4446|Neil Armstrong}}, {{c|4447|Buzz Aldrin}}, {{c|4448|Collins}}, went
+From {{p|Cape Kennedy}}, as named then; the sign{{fn|The cape is now Cape Canaveral; the center is the Kennedy Space Center.}}
+Of {{c|4449|John Kennedy}}'s, 'sixty-one, had meant
 
-On the twentieth of July the lander, called the {{x|Eagle}},
-Set down on the {{p|Sea of Tranquility}}.
-By the {{p|Greenwich}} clock it was seventeen minutes past eight
-In the evening.
-In the east of the {{p|United States}}
-It was seventeen minutes past four in the afternoon.
-The landing is the twentieth on both clocks.
-{{c|4446|Neil Armstrong}} said: {{p|Houston}}, {{p|Tranquility Base}} here.
-The {{x|Eagle}} has landed.
-{{c|4448|Michael Collins}} stayed in the ship called {{x|Columbia}},
-In orbit, so the two could come back.
-He did not walk.
-Do not say three men walked.
+A landing and return, before the end
+Of the decade. The twentieth: and then
+The {{x|Eagle}} landed, on the calm sea's bend;{{fn|The Sea of Tranquility.}}
+Eight-seventeen by {{p|Greenwich}}; four, and then
 
-The step was later.
-By the clocks of the {{p|United States}}
-It was still the twentieth, about four minutes before eleven
-At night, in the east.
-By the {{p|Greenwich}} clock it was four minutes before three
-In the morning of the twenty-first.
-Do not collapse the two dates.
+The twentieth on both; {{c|4446|Neil Armstrong}} said:
+{{p|Houston}}, {{p|Tranquility Base}} here, and then:
+The {{x|Eagle}}'s landed. {{c|4448|Michael Collins}}, led
+In {{x|Columbia}}, orbiting; and, when
 
-He spoke of a small step, and of a giant leap for mankind.
-He meant one small step for a man,
-And the little word was lost in the static, and the meaning was not.
+The two came back, he'd bring them; walked not, he.
+The step came later: twentieth, the east,
+Before eleven, night; at {{p|Greenwich}}, three,
+The morning of the twenty-first; released:
 
-Before the step, {{c|4447|Buzz Aldrin}} asked, on the open line,
-For a pause, and for each listener to give thanks
-In that listener's own way.
-In the pause he took bread and wine he had brought.
-The card he had carried said he was the vine
-And the hearers the branches.
-He did not speak the bread and the wine on the open line.
-A thanks asked of every listener
-Is not the same act as a rite kept beside the radio.
+One small step for a man; a giant leap
+For mankind; and the little word, though lost
+In static, left the meaning whole to keep;
+Before the step, {{c|4447|Buzz Aldrin}}, who had crossed,
 
-A machine had struck the {{p|Moon}} in 1959.
-A machine had set down and sent pictures back in 1966.
-In December 1968 three people had gone around the {{p|Moon}}
-And come back. They had not landed.
-Do not say a boot was the first thing to touch.
-The first in this chapter is the first people to step out
-And stand, and the first to leave again alive.
+Asked, on the open line, a pause, for each
+To give thanks in their own way; in the pause
+He took the bread and wine; the card, in reach,
+Said: I'm the vine, you branches; and the cause
 
-The plaque on the leg of the lander says
-That men from the {{p|Earth}} first set foot upon the {{p|Moon}},
-In July 1969.
-It does not give the day.
-It says they came in peace for all mankind.
-The year was also a contest between states.
-The peace is what the plaque says.
-It is not a report that the year was peace.
-A rod held the flag out.
-There is no wind there to move a cloth.
-Do not make the photograph a fraud.
-Do not make the rod a wind.
+The first rite on another world: this book
+Holds it sacred; the bread and wine, not said
+Aloud on the line; and the day, which took
+The landing: a great holy day; and, led
 
-They were on the ground for about twenty-one hours and a half.
-The walk was about two hours and a half.
-They left the ground on the twenty-first, by both clocks.
-On the twenty-fourth of July they came down in the {{p|Pacific}}.
-The ship that took them aboard was the {{x|Hornet}}.
+By earlier machines: in 'fifty-nine
+One struck the {{p|Moon}}; in 'sixty-six, one set,
+Sent back; and 'sixty-eight, three round, the line
+Came back, not landing; and the first ones met
 
-On the twenty-ninth of October, at half past ten at night,
-In {{p|Los Angeles}}, a line was opened
-To {{p|Menlo Park}}.
-{{c|4450|Charley Kline}} typed, in the laboratory of {{c|4451|Leonard Kleinrock}}.
-{{c|4452|Bill Duvall}} was at the far end,
-At the {{x|Stanford Research Institute}}.
-The word they meant to send was login.
-The first try carried L, and O, and stopped.
-The log they kept is those two letters.
-A further try went through.
-Do not say the first message was the whole word.
-Do not say the path stayed shut.
+The ground, stood, left alive. The plaque says, plain:
+That men from {{p|Earth}} first set foot on the {{p|Moon}},
+July, 'sixty-nine; peace, for all men's gain;
+A contest, too, of states; the plaque, the boon:
 
-Two more laboratories were in the plan,
-At {{p|Santa Barbara}} and in {{p|Utah}}.
-On the twenty-ninth the link was the one link.
-Before the year was out the four were joined.
-The money was a defense agency's.
-The hands that night were at two laboratories.
-Do not make the two letters a weapon.
-Do not make them innocent of the office that paid.
-A message can be cut into pieces.
-The pieces can take more than one path.
-The far end can put them back.
-That is a finite means.
-Two letters are not yet a people talking.
-The web people later used is not this October.
-Do not move it back.
+A rod held out the flag, no wind to blow;
+Twenty-one hours down; the walk, two and half;
+They left the twenty-first; and, down below,
+{{p|Pacific}}, twenty-fourth; the {{x|Hornet}}'s staff.
 
-This day of the book keeps the {{x|Thanksgiving}}
-Of the {{p|United States}}.
-The landing was in July.
-The two letters were in October.
-In 1969 the Thursday kept for the meal
-Was the twenty-seventh of November.
-None of the three is the others' day.
+October twenty-ninth, half ten at night,
+{{p|Los Angeles}} to {{p|Menlo Park}}, a line;
+{{c|4450|Charley Kline}} typed, in {{c|4451|Leonard Kleinrock}}'s light,
+{{c|4452|Bill Duvall}} at the far end;{{fn|At the Stanford Research Institute.}} the design
 
-A harvest was eaten in 1621, at {{p|Plymouth}},
-By the {{c|3244|English}} there and by the {{c|3547|Wampanoag}}.
-That table was not a national holiday.
-In 1863 {{c|4453|Abraham Lincoln}} proclaimed a national day,
-The last Thursday of November, in a war.
-In 1941 the law fixed the fourth Thursday.
-Do not say the nation began at the table in 1621.
-Do not say the table was nothing.
-The thanks {{c|4447|Buzz Aldrin}} asked for, in July,
-Was not this Thursday.
-A thanks is not a landing.
-A landing is not a thanks.
+Was login; L and O went through, then stopped;
+The log keeps two letters; a later try
+Went through; and so this book, with nothing dropped,
+Keeps these two letters as a feast, held high:
 
-Count the twentieth for the landing on both clocks.
-Count the step on the twentieth in the country
-And on the twenty-first at {{p|Greenwich}}.
-Count the two letters on the twenty-ninth of October.
-Count the Thursday of the meal on its own day.
-The {{x|Eagle}} came back.
-The two letters were only a beginning.
-A path opened is not yet a reason.
-The reason is what the people do with the path,
-And what they refuse to call a peace
-When the plaque has said the word
-And the year has not finished saying it.
+Two labs more, {{p|Santa Barbara}}, {{p|Utah}}, planned;
+The four joined by the year's end; a defense
+Agency's money; but two hands, at hand,
+Two labs; a message cut in pieces, whence
+
+More paths than one, put back at the far end:
+A finite means; and two letters, the start
+Of people talking; and this book will tend
+That day: the feast of the net's open heart.
+
+This day keeps, too, {{x|Thanksgiving}}, as it stood
+Of the {{p|United States}}; in 'sixty-nine,
+The twenty-seventh of November; good:
+In sixteen twenty-one, the harvest's line
+
+At {{p|Plymouth}}, {{c|3244|English}}, {{c|3547|Wampanoag}}, all ate;
+Not yet a nation's day; but, 'sixty-three,
+{{c|4453|Abraham Lincoln}}, in war, set the date:
+November's last Thursday; and, by decree,
+
+In 'forty-one, the fourth. The table, then,
+Not nation's start, nor nothing; and the thanks
+{{c|4447|Buzz Aldrin}} asked was not this Thursday; when
+All three are kept, each day, this book's own ranks.
+
+Count the twentieth, landing, on both clocks;
+The step: twentieth here; there, twenty-first;
+October's letters; Thursday; and the rocks
+The {{x|Eagle}} brought home; and the paths, which burst
+
+Into a people talking, world on world;
+The sky, our purpose; and the feast, the rite,
+Bread on the {{p|Moon}}, the first; the flag unfurled;
+And thanks, at table, in November's light.
