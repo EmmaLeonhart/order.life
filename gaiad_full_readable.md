@@ -42432,90 +42432,85 @@ To hope, are kept; the roof lets in the blue.
 
 # Chapter 279: One Law for the Apple and the Moon
 
-A child born early on {{x|Christmas Day}}, 1642, so small, his mother said,
-He would have fit in a quart pot, at {{p|Woolsthorpe}} in {{p|Lincolnshire}},
-The year Galileo died. His father was already dead.
-His mother left him with his grandmother. The fire
+Born early, {{x|Christmas Day}}, in forty-two,
+So small, his mother said, he'd fit a quart,
+At {{p|Woolsthorpe}}, {{p|Lincolnshire}}: that year, it's true,
+Galileo died; father dead; and short
 
-Of that boyhood never cooled: he made lists of his sins, and one was
-*Threatening my father and mother Smith to burn them and the house over them.*
-He went to {{p|Cambridge}} as a servant-student. And then, because
-Of the plague, in 1665 the university closed, and the stem
+His mother's stay: she left him with her own
+Mother; his boyhood's fire: among his sins,
+"Threatening Mother, Father Smith"; he'd known
+"To burn them, house and all." {{p|Cambridge}} begins
 
-Of the modern world grew in an orchard at {{p|Woolsthorpe}}.
-Twenty-three years old, alone, for eighteen months, he invented
-The calculus, and split white light with a prism into the rainbow's gorge,
-And wondered, watching an apple fall, the story is remembered
+As servant-student; then plague, sixty-five,
+Closed the university; and the stem
+Of our world grew at {{p|Woolsthorpe}}, alive
+At twenty-three, alone, the months' long gem:
 
-Or told by his own old age, whether the force that pulled it down
-Reached up as far as the Moon, and held it in its orbit,
-And weakened with the square of the distance. The crown
-Of the idea he kept to himself for twenty years. The sorbet
+Made calculus, split light into the bow
+Of rainbow; watched an apple fall, and thought
+Whether the force that pulled it, down below,
+Reached to the Moon and held it as it ought,
 
-Of fame did not interest him. Then, in 1684, Edmond Halley
-Came to {{p|Cambridge}} and asked: if the force on the planets falls
-With the square of the distance, what path do they follow? The rally
-Of the answer: an ellipse. I have calculated it. The walls
+And weakened with the distance squared; the crown,
+The idea kept, twenty years, unsaid;
+Till eighty-four, when Edmond Halley, down
+At {{p|Cambridge}}, asked: what path, the force so spread?
 
-Of his rooms were searched for the paper, and it was lost, and he promised
-To do it again. Three years later the book came out:
-*{{x|Philosophiae Naturalis Principia Mathematica}}*, the fifth of July, 1687, the honest
-Size of it three books in {{x|Latin}}, paid for, as the last chapter told, without doubt,
+"An ellipse; I have worked it." The page, lost,
+He promised to redo; three years, the book:
+The *Principia*,^[In full, *Philosophiae Naturalis Principia Mathematica*, published 5 July 1687.] in July; the cost
+Paid by Halley; three books, in {{x|Latin}}; look:
 
-By Halley. Three laws of motion. A body at rest stays at rest.
-A force changes motion in proportion. Every action has its reaction.
-And one law of gravity, the same for the apple and the planets, the test
-Of the sky the same as the test of the orchard: one attraction
+Three laws of motion: bodies, still, stay so;
+Force changes motion in proportion; each
+Action, reaction; and one law below
+For apple, planet, both; the sky's own reach
 
-Between every two masses in the universe, falling with the square
-Of their distance. The Moon's orbit. The tides. The comets' return,
-So that Halley could predict his comet would come back, and it did, there
-In 1758, sixteen years after he had died. The burn
+As orchard's: one attraction, each mass, pair,
+Falling with distance squared; Moon's course; tides' rise;
+The comets' coming back; and Halley, there,
+Foretold his comet's return; the old skies
 
-Of the old sky was over: the heavens were not made of a finer stuff.
-They were made of world. The same law in the stars as in the hand.
-That is the {{x|Gaiad}}'s first chapter, written in {{x|Latin}}. Enough
-To know the universe is one: one law, one land.
+Of finer stuff were over: they were world;
+One law in stars and hand: the {{x|Gaiad}}'s first
+Chapter in {{x|Latin}}; one law, land, unfurled;
+And now the other Newton, who immersed
 
-And now the other Newton. The one who spent more years
-On alchemy than on physics, hunting the philosopher's stone,
-Writing a million words on the transmutation of metals, the tears
-Of mercury and the green lion. The one who, alone,
+Years more in alchemy than physics: stone
+Of the philosophers; a million words
+On metals' change, the lion green, alone;
+Denied the {{x|Trinity}}, and, from the words
 
-Denied the {{x|Trinity}} in secret, and calculated from the Book of Daniel
-That the world would not end before 2060. The one
-Whose papers, sold in 1936, made Keynes write that he was not the first
-Of the age of reason: he was the last of the magicians. The sun
+Of the Book of Daniel, reckoned the end
+Not before twenty-sixty; the last one
+Of the magicians, and the first; the blend:
+Old wisdom's moon, the new science's sun
 
-Of the new science and the moon of the old wisdom in one man.
-And here is the thing to keep, after Bureus: Newton knew which was which.
-He published the laws, which anyone could check. The plan
-Of the alchemy he kept in a box. He did not make the switch
+In one man. And, after Bureus, keep this:
+He held them both, the laws and the stone's art;
+One search, one mind, no seam; and, not amiss,
+"I frame no hypotheses": cause, apart,
 
-Of dream into proof. The box was opened after he died,
-And the world was surprised. That is the right shape. Dream, if you dream.
-Keep it in the box, labelled. Publish what can be tried.
-He wrote: *I frame no hypotheses*, about the cause, the seam
+Of gravity, unknown; he knew; and he
+Was cruel: Hooke, Leibniz; {{x|Master of the Mint}},
+Sent counterfeiters to the gallows; see
+The whole man: mind and temper, lonely stint
 
-Of gravity he could not explain. He knew what he did not know.
-And he was cruel: to Hooke, to Leibniz, and, as {{x|Master of the Mint}},
-To the counterfeiters he hunted himself, and sent to the gallows. So
-Hold the whole man. Not a saint. A mind, and a temper, and a stint
+His whole life long. He wrote, nearing the end,
+He'd been a boy on shore, a smoother stone,
+A prettier shell; truth's sea, vast, unpenned,
+Lay undiscovered; and his mind, alone,
 
-Of loneliness that lasted his whole life. He wrote, of himself, near the end,
-That he had been like a boy on the shore, playing with a smoother pebble,
-A prettier shell, while the great ocean of truth lay all undiscovered. Attend
-To that: the greatest mind of the age, and the ocean, and the treble
+The greatest of the age, beside the sea;
+Better the shell on shore; the boy; the light
+Of the apple falling, the Moon held, free,
+By one law; and the ocean, still, in sight;
 
-Of the waves on a beach. He died in 1727 and lies in {{p|Westminster}}.
-*Nature and Nature's laws lay hid in night;
-God said, Let Newton be! and all was light.* The poet's tinder.
-Better the shell on the shore. Better the boy. Better the ocean, and the sight
-
-Of the apple falling, and the Moon held, by one thing.
-The universe is one law. And the ocean is still there.
-Pick up a shell. Check it. Keep your dreams in a box, labelled. And sing
-For the orchard where the plague sent a boy, and he looked up, and saw it there.
+The universe is one law; pick a shell,
+And check it; keep your dream and proof as one;
+And sing the orchard where the plague's long knell
+Sent a young boy, who looked up, and saw: one.
 
 
 # Chapter 280: One and Nothing
