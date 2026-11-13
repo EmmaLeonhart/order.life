@@ -1264,108 +1264,85 @@ The scroll, May's fourteenth; two maps, not one, yet.
 
 # Chapter 321: The Suggested Copy
 
-On the twenty-fifth of April, 1953, the journal {{x|Nature}}
-Printed three papers on one substance.
-The substance is deoxyribose nucleic acid.
-The initials are DNA.
-The first paper is from {{p|Cambridge}}.
-{{c|4408|James Watson}} and {{c|4409|Francis Crick}} wrote it.
-They wish to suggest a structure.
-Two chains, wound together.
-The bases pair.
-Adenine fits thymine.
-Guanine fits cytosine.
-The paper says it has not escaped their notice
-That the pairing they have postulated
-Immediately suggests a possible copying mechanism
-For the genetic material.
-They say the suggestion was stimulated
-By the unpublished results and ideas
-Of workers in {{p|London}}.
-A suggestion is not a measurement they made.
-It begins on one page and ends on the next.
+April the twenty-fifth, in 'fifty-three,
+The journal {{x|Nature}} printed three, one theme:
+DNA, sacred thread; the first, to be
+{{p|Cambridge}}: {{c|4408|James Watson}}, {{c|4409|Francis Crick}}, a scheme
 
-The other two papers are from {{p|King's College}}, {{p|London}}.
-{{c|4410|Maurice Wilkins}} and his colleagues signed one.
-{{c|4411|Rosalind Franklin}} and {{c|4412|Raymond Gosling}} signed the other.
-Their photograph of the salt, taken in 1952,
-Is in that issue under their names.
-{{c|4413|Franklin}} had measured a helix.
-She had the phosphates on the outside
-And the bases toward the middle.
-She had not signed the {{p|Cambridge}} page.
-Do not say she failed to see her own photograph.
-The claim that she missed it is a later telling.
-The journal of that April prints her name
-On the evidence.
+Suggested: two chains, wound; the bases pair;
+Adenine fits thymine; guanine, in kind,
+Cytosine; and they wrote: not unaware
+They were, that pairing, as they had designed,
 
-In 1968 {{c|4414|Watson}} published a book.
-He wrote that {{c|4415|Wilkins}} showed him the photograph
-In the first months of 1953,
-And that his pulse raced.
-The book is his account, fifteen years on.
-It is not the issue of the journal.
-The book speaks of her in a way the April page does not.
-Take the page.
+Suggests at once a copy's means, a way
+For the genetic stuff; and said the spark
+Came from the {{p|London}} work, unpublished; they
+Had not measured; one page, the next; the mark
 
-Five weeks later, on the thirtieth of May,
-{{c|4414|Watson}} and {{c|4416|Crick}} published the genetical implications.
-The April sentence had already said the pairing suggests a copy.
+Of {{p|King's College}}, {{p|London}}, was on the two
+Remaining: {{c|4410|Maurice Wilkins}} signed the one;
+{{c|4411|Rosalind Franklin}}, {{c|4412|Gosling}}, signed, too,
+The other; and their photograph, made one
 
-This was not the discovery of the substance.
-The substance had a name long before.
-In 1944 {{c|4417|Oswald Avery}}, with {{c|4418|Colin MacLeod}}
-And {{c|4419|Maclyn McCarty}}, had shown that a substance
-Which changed what a bacterium would be
-Was this acid, and not a protein.
-The year before the April papers,
-{{c|4420|Alfred Hershey}} and {{c|4421|Martha Chase}}
-Had argued that what a virus puts into a bacterium,
-The part that carries the change, is the acid
-And not the coat.
-The April page is a structure.
-It is not the first news that the acid can carry a heredity.
+Year earlier, in that issue, their names;
+{{c|4413|Franklin}} had measured a helix; outside,
+The phosphates; inward, bases; her own aims
+Were hers; she had not signed {{p|Cambridge}}'s side.
 
-{{c|4422|Erwin Chargaff}} had weighed the bases.
-Adenine matched thymine.
-Guanine matched cytosine.
-The model uses that match.
-He did not sign the April papers.
-Earlier in 1953 {{c|4423|Linus Pauling}} had published a structure
-Of three chains.
-It did not hold.
-The {{p|Cambridge}} page says its own structure is another.
+The April journal prints her name upon
+The evidence. And, 'sixty-eight, a book:
+{{c|4414|Watson}} wrote: {{c|4415|Wilkins}} showed him, early on,
+In 'fifty-three, the photograph; it shook
 
-In 1962 the prize in physiology or medicine
-Went to {{c|4414|Watson}}, to {{c|4416|Crick}}, and to {{c|4415|Wilkins}}.
-{{c|4413|Franklin}} had died in 1958.
-The prize is not given to the dead.
-Her name is on the April page.
-The prize's list is not that page.
-Do not move the prize back into the month of the papers.
-Do not make the later book the judge of what she measured.
+His pulse to racing: his account, years past,
+Fifteen, not the journal; speaking of her
+As April's page does not; and, at the last,
+Take the page. Five weeks on, the two confer:
 
-A pairing is a finite means.
-One chain can set the bases of the next.
-The setting is a copy, if the fit holds.
-The fit does not say whether the copy should be made.
-The fit does not say what the copy is for.
-Do not make the page into a verdict on a life.
-Do not make the copying into a permission.
-The paper says suggests.
-It says possible.
-Hold those two words.
-They are the paper's own care.
+May thirtieth: the implications, said;
+The April sentence had said copy, though;
+This was not finding the substance; a thread
+Long named before: in 'forty-four, to show,
 
-Count the twenty-fifth of April.
-Count three papers, and whose name is on each.
-Count the thirtieth of May as the implications,
-Not as the first sentence.
-The substance was already known to carry a change.
-The new sentence is the shape, and the copy the shape allows.
-A shape is not a commandment.
-The dead of the prize's year are not this chapter.
-{{c|4413|Franklin}}'s measurement is.
+{{c|4417|Oswald Avery}}, {{c|4418|Colin MacLeod}}, and
+{{c|4419|Maclyn McCarty}}, that what changed a germ
+Was this acid, not protein; and, at hand,
+The year before, {{c|4420|Alfred Hershey}}, with firm
+
+{{c|4421|Martha Chase}}, argued: what the virus gives
+Bacterium, the change, is acid, not
+The coat. The April page, the shape it lives;
+Not first news that the acid holds the plot;
+
+{{c|4422|Erwin Chargaff}} weighed: adenine, the same
+As thymine; and guanine with cytosine;
+The model used the match; he did not frame
+The April papers. {{c|4423|Linus Pauling}}'s, seen
+
+That year, before: three chains; it did not hold;
+The {{p|Cambridge}} page, its own: another. Then
+'Sixty-two, the prize; three named; and, as told,
+{{c|4413|Franklin}} had died in 'fifty-eight: not then
+
+The dead receive it; but upon the page,
+In April, is her name; a measure, hers;
+And this book keeps her too, from age to age;
+The pairing, finite means: one chain confers
+
+Its bases on the next; a copy if
+The fit holds; and the copy is the thread,
+The sacred thread of all descent; and if
+We better it, that too is good; we're led
+
+By life to it. The paper says suggests,
+And possible: its care. And April's day,
+Count three papers, and whose names on each rests;
+Then May the thirtieth, the sequel; nay,
+
+Not the first line; the acid, known before
+To carry change; the new line is the shape,
+The copy that it lets; and, more and more,
+{{c|4413|Franklin}}'s measure; the thread none can escape.
 
 
 # Chapter 322: The Published Frequency
