@@ -40866,100 +40866,100 @@ Their date stays kept, as only clerks' ink would.
 
 # Chapter 262: The Great Sun and the Dead
 
-In the harbour at {{p|Melaka}}, in 1547, a priest from {{p|Navarre}},
-Francis Xavier, one of the first companions of Ignatius,
-Who had walked the coasts of {{p|India}} baptizing until his arms were sore,
-Met a Japanese man running from a killing, Anjirō, desirous
+At {{p|Melaka}}, in forty-seven, came
+A priest of {{p|Navarre}}, Francis Xavier, one
+Of Ignatius' first, whose arms had grown lame
+From baptizing {{p|India}}; on the run,
 
-Of forgiveness, who had sailed on a Portuguese ship to find
-The foreign holy man he had heard of. They talked.
-Xavier asked: if I go to your country, will they mind?
-Will they believe? And Anjirō said: they will have walked
+A Japanese man, Anjirō, who fled
+A killing, seeking pardon; he had come
+On a Portuguese ship to find the head,
+Holy man he'd heard of. They talked; and, some
 
-With you a while, and asked you questions, and watched
-How you live, and if your life agrees with your words,
-They will believe. A whole nation, Xavier wrote, was matched
-To reason. He went. On the fifteenth of August, the birds
+Then Xavier: "If I go, will they believe?"
+And Anjirō: "They'll walk with you a while,
+Ask questions, watch your life; and if they weave
+Your life to words, they'll trust you without guile."
 
-Over {{p|Kagoshima}} saw the ship come in, in 1549,
-On the feast of the {{x|Assumption}}. The lord of the Shimazu received them.
-And here is the hinge, the second time this book's line
-Of the joining turns on a word: Anjirō, to please them,
+A nation reasoned, Xavier wrote; and so
+He went; August fifteenth, {{x|Assumption}}; ships
+At {{p|Kagoshima}}, forty-nine, and slow;
+Shimazu's lord received them; and the lips
 
-To carry the new God into his own tongue, said
-His name was Dainichi: the Great Sun, the cosmic Buddha,
-The one Kūkai had brought from {{p|China}}, the head
-Of the {{x|Shingon}} mandala. And the monks said: how good, a
+Of Anjirō, to bring the new God in
+To his own tongue, said: Dainichi, Great Sun,
+The cosmic Buddha Kūkai would win
+From {{p|China}}, {{x|Shingon}}'s centre; and, begun,
 
-New school of our own faith come from {{p|India}}, from the west,
-The land of the Buddha. They gave the strangers rooms.
-For a season the Jesuits were {{x|Buddhist}} guests,
-And preached the Great Sun, and the monks nodded. The looms
+The monks said: "Good, a new school of our own
+From {{p|India}}, the Buddha's western land";
+They gave them rooms; a season, it was shown
+The Jesuits as {{x|Buddhist}} guests would stand,
 
-Of the two faiths ran one cloth for a little while,
-Exactly as the goddess at {{p|Kozhikode}} had been taken for Mary.
-Then Xavier feared the word, but not from guile,
-but for his priests' own name, he would carry
+And preach the Great Sun; and the monks would bow;
+The looms of two faiths ran one cloth, as when
+At {{p|Kozhikode}}, the goddess, Mary now,
+Was taken. Xavier feared the word; and then,
 
-A new word into the sermons: *{{x|Deusu}}*, from the {{x|Latin}}.
-And the monks heard it, and laughed: *dai-uso*, they said,
-The {{x|Great Lie}}. The doors closed. And the matting
-Of the welcome was rolled up. But the question the dead
+Not out of guile, but for his priests' own name,
+He'd carry a new word in, *{{x|Deusu}}*, made
+From {{x|Latin}}; and the monks laughed at the same:
+*Dai-uso*: the {{x|Great Lie}}. Doors shut; and laid,
 
-Raised was the deepest. Xavier wrote it down himself:
-The converts wept for their parents, their grandparents,
-Who had died without hearing. Was there no help?
-Were they lost forever? And the priests, adherents
+The welcome's matting rolled up. But the grief
+Raised deeper things; and Xavier wrote them down:
+Converts wept for their dead, without belief,
+Who'd died unknowing: lost, without a crown?
 
-Of the rule, said yes, no one is saved who has not been baptized,
-And the Japanese said: then what kind of God is this,
-Who lets our fathers burn for what they never knew? Disguised
-As theology, it was grief. And Xavier, in his letters, the abyss
+The priests said: none is saved, if unbaptized;
+The Japanese: "What God is this, who lets
+Our fathers burn, who never knew?" Disguised,
+It was grief, as doctrine; Xavier sets
 
-Of it, in substance: *they grieve over their dead more than anything,
-And ask whether God can take them out of hell,
-And I can give them no answer, and I grieve with them.* The ring
-Of that sentence is the whole encounter. Tell
+It down himself: "They grieve more for their dead
+Than anything; they ask if God can take
+Them out of hell; I've no reply," he said,
+"And grieve with them." That sentence, for its sake,
 
-It on this day, the new year of the old covenant,
-When the books are opened and the names are read,
-And it is asked who shall live and who shall die, the pennant
-Of judgment raised. A people asked a stranger for their dead.
+Rings through the whole of the encounter. Tell
+This day, the old covenant's new year, when
+The books are opened, and all names, as well,
+Asked who shall live and die: a people, then,
 
-He went on. To {{p|Hirado}}. To {{p|Yamaguchi}}, where he preached
-In a threadbare cassock and was thrown out. To {{p|Kyoto}}, in the snow,
-To see the emperor and convert the realm, and reached
-A city burned by the wars of the Sengoku, and so
+Asked of a stranger for their dead. He went
+To {{p|Hirado}}, to {{p|Yamaguchi}}, preached
+In threadbare cassock, thrown out; and he spent
+To {{p|Kyoto}} in the snow; the city reached
 
-Poor that the emperor had no power to grant
-Anything, and no one would let him in.
-He learned. He went back to {{p|Yamaguchi}} in silk, with a clock and a chant
-Of music boxes and spectacles and wine and the din
+Was burned by the Sengoku wars, so sore
+Its emperor had nothing; none let in
+The priest. He learned; went back in silk, before
+{{p|Yamaguchi}}, with clock and chant, the din
 
-Of gifts from the Viceroy, as an ambassador,
-And the lord Ōuchi gave him an empty temple,
-And people came. He baptized hundreds. And then, for
-The sake of {{p|China}}, which the Japanese said was the example
+Of music boxes, spectacles, and wine,
+Gifts of the Viceroy, as an envoy; and
+And Ōuchi gave an empty temple's shrine;
+And people came, baptized by his own hand,
 
-They followed in all wisdom, he left, in 1551,
-To convert the teacher of the nations first,
-And died on the island of {{p|Shangchuan}}, the sun
-Of December on the sand, waiting for a boat, his thirst
+Hundreds; and then for {{p|China}}'s sake, the guide
+The Japanese followed in wisdom, he
+Left, fifty-one, to turn it first; he died
+On {{p|Shangchuan}}, December's sun, the sea
 
-Unquenched, in sight of the coast he could not reach,
-Forty-six years old. The Japanese church he left would grow
-To hundreds of thousands, and then be crushed. The beach
-At {{p|Nagasaki}} would see the martyrs. But that comes after. Know
-
-This first: the first conversation between the {{p|West}} and {{p|Japan}}
+In sight, the coast he could not ever reach;
+He waited for a boat, and died, unfed;
+Know this: the {{p|West}}'s and {{p|Japan}}'s first speech, each,
 Began with one Great Sun and with the dead.
-Everything that follows is in that span.
-Keep your ancestors. Lifeism says it plainly, as the Jesuits said
 
-They could not: no one is lost for not having heard.
-The names are kept. The dead are not condemned.
-Read them out this new year, every word,
-And let the Great Sun rise on all of them.
+All that follows is in that span. Keep, then,
+Your ancestors; Lifeism says it plain,
+As Jesuits could not: no one, of men,
+Is lost for never hearing; names remain;
+
+The dead are not condemned. Read them, each one,
+This new year, all the words, and let them be;
+Read out; and let the Great Sun rise, begun
+On all of them, and all their kin set free.
 
 
 # Chapter 263: The House of Worship
