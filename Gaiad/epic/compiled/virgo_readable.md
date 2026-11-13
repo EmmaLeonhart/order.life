@@ -2498,95 +2498,95 @@ Check what you will: the {{x|Gaiad}} shows no seam.
 
 # Chapter 278: The Barrels Stayed Packed
 
-In 1648 the Cossacks of Khmelnytsky rose in {{p|Ukraine}}
-And killed the Jews of town after town, tens of thousands, the worst
-Massacre the Jews of {{p|Europe}} had known in centuries. The stain
-Spread through the communities like a fever. And then, as if the curse
+In forty-eight the Cossacks of the plain
+Of Khmelnytsky rose, killed the Jews
+Town after town in {{p|Ukraine}}, and the stain
+Of {{p|Europe}}'s worst in ages; and the news
 
-Had to be answered by its opposite, the Kabbalists said the end was near.
-In the teaching of Isaac Luria, the world was a broken vessel, its sparks
-Scattered, and each good deed gathered one, and the year
-Of the last gathering would bring the messiah. And the marks
+Spread like a fever; then, as if the curse
+Must meet its answer, said the end had come:
+Kabbalists; and Isaac Luria's verse:
+The world, a broken vessel, sparks, the sum
 
-Of the time were read as signs. In {{p|Smyrna}}, now {{p|İzmir}},
-A young scholar, Sabbatai Zevi, born in 1626,
-Of great charm and terrible moods, rose and fell, the sheer
-Joy of illumination, then the dark, the swings
+Of scattered light; each good deed gathered one;
+The last would bring messiah; signs were read.
+In {{p|Smyrna}}, now {{p|İzmir}}, there was the one,
+Sabbatai Zevi, charming, by moods led
 
-Of a mind that history would now call bipolar.
-In his bright seasons he did forbidden things: spoke aloud
-The {{x|Name of God}} that no one speaks, married a {{x|Torah}} scroll, the solar
-Rites of a man who thought the law was over. The crowd
+From joy to darkness, rising, falling; bright,
+Did the forbidden: spoke the {{x|Name of God}},
+Married a {{x|Torah}} scroll, as if the light
+Of law were over; rabbis, with the rod,
 
-Of the rabbis expelled him. He wandered. And in 1665, in {{p|Gaza}},
-A young prophet, Nathan, had a vision, and told him: you are the one.
-And Sabbatai believed it, and the news ran out, a blaze, a
-Rumour, a letter, a ship, from {{p|Gaza}} to {{p|Aleppo}}, the sun
+Expelled him; and he wandered; sixty-five,
+In {{p|Gaza}}, Nathan, prophet, young, would see
+A vision: "You are he"; and, now alive,
+Sabbatai believed; the news ran free,
 
-Of it rising over {{p|Smyrna}} in December, where he took the synagogue,
-And proclaimed himself, and gave his followers the kingdoms of the earth.
-Then {{p|Amsterdam}}, {{p|Hamburg}}, {{p|Venice}}, {{p|Poland}}: the epilogue
-Of exile seemed to be written. People sold their houses. The worth
+{{p|Gaza}}, {{p|Aleppo}}; letters, ships, the sun
+Rose over {{p|Smyrna}} in December; he
+Took synagogue, proclaimed himself the one,
+Gave followers earth's kingdoms; then the sea
 
-Of everything was nothing beside the journey home.
-In {{p|Hamburg}}, a woman named Glückel would remember, in her memoir,
-How the people danced in the synagogue with the letters, and how, to roam
-To the {{p|Holy Land}}, her father-in-law in {{p|Hameln}} packed his store
+{{p|Amsterdam}}, {{p|Hamburg}}, {{p|Venice}}, {{p|Poland}}: sold
+Their houses; nothing worth beside the way
+Home; and Glückel, in {{p|Hamburg}}, saw, and told
+How people danced with letters as they'd pray
 
-Of linen and dried food and peas and beans into barrels,
-And kept them ready for the moment the messiah called.
-1666. The year of the Beast for the Christians, the perils
-And the hopes of all {{p|Europe}} pointing to it. And he was hauled
+In synagogues; her father-in-law packed
+At {{p|Hameln}} linen, dried food, peas and beans
+In barrels, ready, when the call, in fact,
+Should come from the messiah; and the means:
 
-In chains, when he sailed to {{p|Istanbul}} to claim the sultan's crown,
-And held in the fortress of {{p|Gallipoli}}, which his followers called
-The {{x|Tower of Strength}}, and he held court there, and the town
-Filled with pilgrims. And in September he was brought, enthralled
+In sixteen sixty-six, the Beast's year, too,
+For Christians; all of {{p|Europe}} pointing there;
+He sailed for {{p|Istanbul}}, the crown to woo,
+The sultan's; chained, in {{p|Gallipoli}}'s lair,
 
-Or terrified, before the sultan's council at {{p|Edirne}},
-And offered a choice: a miracle, or death, or {{x|Islam}}.
-He took the turban. *Aziz Mehmed Efendi*. The journey
-Was done. The court had changed his name. The calm
+{{x|Tower of Strength}}, his followers would say;
+He held his court; the pilgrims filled the town;
+September, at {{p|Edirne}}, on that day,
+Before the council: miracle, or down
 
-Of the morning after: shame, disbelief, the scattering.
-Some said it was a mystery, a descent into the husks
-To gather the last sparks. A few followed him into {{x|Islam}}, the battering
-Of one rite, two robes: the Dönme; the dusks
+Death, or {{x|Islam}}: he took the turban; made
+Aziz Mehmed Efendi; and then, the dawn
+Of shame; a mystery, some said, it stayed:
+Into the husks, to gather sparks; and drawn
 
-Of their secret rites kept for two hundred years. And most
-Went home, and unpacked, and mourned. Except the barrels in {{p|Hameln}}:
-Glückel says her father-in-law kept them packed, for the ghost
-Of a hope, for three years, before he finally let them in
+A few to {{x|Islam}}: one rite, robes of two:
+The Dönme, keeping their secret rites; and most
+Went home, unpacked, and mourned; but, kept in view,
+The barrels at {{p|Hameln}} stayed, for the ghost
 
-To the house again. He died in exile in 1676,
-In {{p|Ulcinj}}, on the {{p|Adriatic}}, on Yom Kippur, they say.
-Now, on Sukkot. The festival of booths: you leave the bricks
-And live seven days in a hut of branches, open to the sky. The way
+Of hope, three years packed, ere they were let in
+The house again. He died in exile, far,
+At {{p|Ulcinj}}, seventy-six, and within
+On Yom Kippur. Now Sukkot: and the star
 
-Of the holiday is joy, and it is commanded: *you shall rejoice*.
-In a house you know is temporary. Under a roof
-That lets in the stars and the rain. The choice
-Of the sukkah is the choice to hope without proof
+Come through the roof: the booths; walls left behind,
+And live in branch-huts seven days, the sky
+Above; you shall rejoice, as is assigned,
+Beneath a roof that lets the rain come by:
 
-And not be destroyed when the proof does not come.
-The barrels in {{p|Hameln}} were a sukkah. A hope, kept packed,
-In a house where the stars came in. The sum
-Of the story is not: the hope was a fool's. It is the fact
+The sukkah: hope without a proof, and not
+Destroyed when proof won't come; the barrels kept
+At {{p|Hameln}}, packed, a sukkah, hope's own spot,
+Where stars came in. A people who had wept
 
-That a people who had just been massacred
-Could still dance in the synagogue, and still pack the barrels, and still, when the hope
-Turned to shame, unpack, and live, and wait. The word
-Of the festival: rejoice in what does not last. The scope
+For massacre still danced, could pack, and still,
+When hope turned shame, unpack, and live, and wait;
+The feast's word: joy in what lasts not; and will
+His year was short; the joy was right, though late.
 
-Of his year was short. The joy was not wrong.
-Sit in the hut tonight. It will not stand forever.
-Sing anyway. The roof is thin. The night is long.
-The barrels can be unpacked. The hope can be kept. Never
+Sit in the hut tonight; it will not stand
+Forever; sing; the roof is thin; night, long;
+Unpack the barrels; keep the hope at hand;
+Let no dawn shut the world's door; and, still strong,
 
-Let one year's dawn close the door of the world.
-And never stop leaving the roof open to the stars.
-Rejoice in the booth. The branches are curled
-Over your head, and they let the light through the bars.
+Keep the roof open to the stars; rejoice;
+The branches curl above your head, and through
+Them comes the light; the barrels, and the choice
+To hope, are kept; the roof lets in the blue.
 
 
 # Chapter 279: One Law for the Apple and the Moon
