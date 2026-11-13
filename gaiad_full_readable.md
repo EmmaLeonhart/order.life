@@ -45757,151 +45757,140 @@ Keep them as honored dead, as saints, on high.
 
 # Chapter 313: The Caliph of the Muslims
 
-On the third of March, 1924, in {{p|Ankara}},
-The {{x|Grand National Assembly}} deposed the caliph
-And abolished the office.
-The law said the office was already contained
-In the meaning of the government and the republic.
-The sentence is the assembly's. It is not a verse.
+{{p|Ankara}}, March third, 'twenty-four: the vote;
+The {{x|Grand National Assembly}}, all through
+The caliph's deposition, and the note
+That closed the office; and the law said, too:
 
-The prophet died at {{p|Medina}}.
-The revelation does not contain this statute.
-After the death the community gave its answers,
-And the answers were more than one.
-The house of Osman carried one of them.
-The name was caliph, a successor.
-The law of 1924 is a state's answer to that name.
-It does not erase the question.
+The meaning of the government had held
+The office, and the republic; the line
+Was the assembly's, not a verse; it felled
+What this book mourns: the office, old design.
 
-On the first of November, 1922, the same assembly
-Abolished the sultanate.
-It kept the caliphate, and kept it in the house,
-To be given to the one most fit in learning and character.
-It did not say that Mehmed VI had been elected to it.
-On the third of November, a Friday,
-He went out to the prayer under both names,
-Sultan and caliph.
-On the sixteenth the assembly decided to charge him
-With treason against the homeland.
-That night, the sixteenth into the seventeenth,
-He left {{p|Istanbul}} on a {{x|British}} warship.
+The prophet died at {{p|Medina}}; and when
+The community's answers, more than one,
+The house of Osman carried one; and men
+Called caliph, the successor. What was done
 
-On the nineteenth of November the assembly elected
-Abdülmecid II.
-He painted. One of the canvases is Beethoven in the palace.
-The assembly did not give him the old title,
-Commander of the faithful.
-It gave him caliph of the Muslims.
-He asked to be called also servant of the two sanctuaries.
-He did not hold {{p|Mecca}}. He did not hold {{p|Medina}}.
-He asked to wear the turban of Mehmed the Conqueror.
-Mustafa Kemal answered that a frock coat would do.
-Later he signed in the manner of a sultan's son.
-The signature was heard as the reign, trying to return.
+In 'twenty-four, was a state's answer, made
+To that old name; the question did not end.
+In 'twenty-two, the sultanate, unmade,
+The same assembly closed; but kept, to tend,
 
-On the twenty-fourth of November, at {{p|Topkapı}},
-In the room where the prophet's cloak was kept,
-The allegiance was given.
-The prayer that day was in {{x|Turkish}}.
-At the {{p|Fatih Mosque}} a sermon was read in {{x|Turkish}},
-In the new caliph's name.
-It took the sentence about the greater struggle
-And read the struggle as the one against ignorance.
+The caliphate within the house, to go
+To one most fit in learning and in deed;
+It did not say that Mehmed the Sixth was so;
+November's third, a Friday; and, to lead
 
-From the twenty-first to the twenty-seventh of December,
-A caliphate conference in {{p|India}} accepted him.
-On the third of January, 1923,
-{{x|Indian}} Muslims gave Mustafa Kemal a title:
-Saviour of the caliphate.
+The prayer, under both names; and he was tried,
+Sultan and caliph, by the house accord,
+For treason, on the sixteenth; and, aside,
+He slipped from {{p|Istanbul}} by night, aboard
 
-On the twenty-ninth of October the assembly proclaimed the republic
-And elected him president.
-The caliph stayed in {{p|Istanbul}}.
-An office without the state sat in the old capital.
-The state without that office sat in {{p|Ankara}}.
+A {{x|British}} warship. The nineteenth, they chose
+Abdülmecid the Second; painter, too;
+Beethoven in the palace, one of those;
+Not Commander of the Faithful; but, new,
 
-On the fifth of December the papers printed a letter
-To the prime minister, İsmet Pasha,
-From Aga Khan and from Amir Ali.
-It asked that the office be kept,
-And that the caliph's standing be given back.
-On the night of the eighth the assembly, sitting in closed session,
-Decided to send an independence tribunal to {{p|Istanbul}}.
+Caliph of the Muslims; he asked to be
+Called servant of the sanctuaries, two,
+Holding not {{p|Mecca}}, not {{p|Medina}}; he
+Asked for Mehmed the Conqueror's turban, too;
 
-On the third of March the bill was brought by
-Saffet Efendi, deputy for {{p|Urfa}}, and fifty-three with him.
-Seyyid Bey, the minister of justice,
-Had taught the law of the religion, and had studied at {{p|al-Azhar}}.
-He told the chamber the caliphate was not a creed.
-It was a worldly question, among the public affairs of the people.
-Zeki Bey, the deputy from {{p|Gümüşhane}}, spoke against the closing.
-The article passed.
-The president approved the law the same day.
-It was numbered four hundred and thirty-one.
+Mustafa Kemal answered, a frock coat
+Would do. He signed as a sultan's son, heard
+As the old reign returning, by that note;
+At {{p|Topkapı}}, on the twenty-fourth, the word
 
-The same day the assembly closed the ministry
-Of religious affairs and pious foundations,
-And set up a presidency of religious affairs,
-Charged with the faith and the worship.
-The schools were brought under one ministry of education.
-The universal name came down.
-A bureau of the nation stood up in its hour.
+Of allegiance, by the prophet's cloak, kept;
+The prayer in {{x|Turkish}}; and the sermon spoke
+At {{p|Fatih Mosque}} in {{x|Turkish}}; and it swept
+Great struggle, against ignorance, the yoke.
 
-That night he was taken by car to {{p|Çatalca}}.
-The next evening he boarded the train.
-With him were his son Ömer Faruk,
-His daughter Dürrüşehvar,
-Two of the women of the house,
-And the tutor, the secretary, and the doctor.
-An envelope from the governor held two thousand pounds
-And visas that let them out.
-They had wired a hotel at {{p|Territet}}, on the lake, in {{p|Switzerland}}.
-The house was banned from living in the republic.
+And from December's twenty-first, a week,
+{{p|India}}'s caliphate conference had set
+Its seal on him; in 'twenty-three, to speak,
+{{x|Indian}} Muslims gave a title: set
 
-On the eleventh of March he answered.
-He said the assembly's decision was void.
-He asked for a religious council,
-And for help to revive the office.
-Within the week {{p|Switzerland}} told him
-The {{x|Turkish}} government had objected,
-And that he would not be permitted the work.
+On Mustafa Kemal: saviour, they
+Said, of the caliphate. October, then,
+Twenty-ninth, the republic, on that day,
+Was proclaimed; he, its president; and when
 
-In that same March, Hussein ibn Ali,
-King of the Hejaz, who held {{p|Mecca}},
-Was proclaimed caliph.
-The day of it is not one day in the records.
-The proclamation did not reopen the office {{p|Ankara}} had closed.
-Holding a sanctuary is not the succession.
+The caliph stayed in {{p|Istanbul}}, the old
+The capital: office without the state;
+The state, without it, {{p|Ankara}} would hold;
+December fifth, in print, a letter; straight
 
-He died in {{p|Paris}} on the twenty-third of August, 1944,
-While the city was being taken back.
-Dürrüşehvar came and was given a promise.
-The body was not brought.
-On the thirtieth of March, 1954, he was buried at al-Baqi,
-In {{p|Medina}}.
-The grave is in the prophet's city.
-The grave is not the office.
+To İsmet Pasha, prime minister, from
+Aga Khan and Amir Ali: to keep
+The office; give the caliph's standing; come
+The eighth, at night, in session closed and deep,
 
-Do not say the republic contained the caliphate
-Because the statute said contained.
-The statute closed an office this assembly had filled,
-And had titled with the lesser name.
-Do not say the train refutes the religion.
-A painter was put into the office, and then put on a train.
-The person is not the argument.
-Do not say the bureau for worship is the succession.
-It is a state keeping the rites it will administer.
-Hold that keeping.
-Refuse the consolation that a closed office was never an office.
-Refuse the consolation that a grave in {{p|Medina}} restores one.
+To {{p|Istanbul}}, a court. And, on March third,
+From {{p|Urfa}}'s deputy there came the bill,
+Saffet Efendi, fifty-three, concurred
+Beside him; Seyyid Bey, who, with the skill
 
-The question of who succeeds is older than this law.
-The community has given more than one answer.
-This answer is a vote and a signature, on a Monday in {{p|Ankara}}.
-The man they called saviour of the caliphate signed the paper that ended it.
-The man they called caliph of the Muslims died without the name.
-Count the office closed on the day the law says.
-Keep the question. It was not in the statute.
+Of {{p|al-Azhar}}, where the faith's law was taught,
+The minister of justice, said: no creed,
+The caliphate; a worldly, public thought;
+And Zeki Bey, of {{p|Gümüşhane}}, would plead
+
+Against it; but the article had passed;
+The president approved it the same day:
+Four thirty-one. The same day, and at last,
+The ministry of pious things gave way;
+
+Religious affairs' presidency rose;
+The schools, one ministry; in its hour,
+A bureau of the nation, one that knows
+Rites it keeps; a model, state and power.
+
+The universal name came down; this book
+Counts it a loss, and the state-builder too
+With sympathy. That night, the car he took
+To {{p|Çatalca}}; then, the next evening, through,
+
+The train; his son, Ömer Faruk; and his own
+Daughter, Dürrüşehvar; and two women too
+Of the house; tutor, secretary, known
+Doctor; the governor's two thousand, through
+
+An envelope, and visas that let out;
+They'd wired a hotel, {{p|Territet}}, the lake
+In {{p|Switzerland}}; the house was banned throughout
+The republic. March eleventh, he'd break
+
+His silence: the assembly's act was void;
+He asked a council of the faith, and aid
+To raise the office; this the Swiss destroyed:
+Told him the {{x|Turkish}} state objected; made
+
+No room for that work. That March, there was claimed
+A caliph, Hussein ibn Ali, king,
+King of the Hejaz, holding {{p|Mecca}}; named
+The records give no single day; the thing
+
+Did not reopen what {{p|Ankara}} shut.
+He died in {{p|Paris}}, 'forty-four, the date
+August's twenty-third, as the city cut
+Free; Dürrüşehvar, his daughter, came; though late,
+
+A promise; but the body was not brought;
+On March the thirtieth, in 'fifty-four,
+Al-Baqi, in {{p|Medina}}, as he sought,
+Was buried, in the prophet's city's core.
+
+The grave is not the office; and its loss
+This book still mourns; the bureau it will keep,
+A state that keeps the rites it runs, across
+Its land: a model; sympathy runs deep
+
+For him they called saviour, who then signed
+The paper ending it: he built a state;
+The man called caliph died, the name resigned;
+Keep both; the question, older, still will wait.
 
 
 # Chapter 314: Finite Means
