@@ -36,12 +36,12 @@ The reindeer and the mammoth, would not lie
 Elsewhere, and did not turn; it stayed thereon.
 
 This ancient line is {{p|Europe}}'s first to hunt
-And gather; it's the sign of him who, at
+And gather; it's the line of him who, at
 {{p|Lascaux}}, and {{p|Altamira}}, at the front,
-And at {{p|Chauvet}}, would paint; or, if not that,
+And at {{p|Chauvet}}, would paint, and painted that:
 
-At least a candidate, and good, for who
-Made the long epochs of cave-painting; days
+The bison and the horse, the hunter's view,
+The long epochs of painted caves; the days
 In which the crown, tiara, culture too,
 Of {{p|Europe}} and of all its hunting ways
 
@@ -121,7 +121,7 @@ Of mother-goddess, fertile, and the call
 Which {{c|1900|Marija Gimbutas}} brought to light
 
 And tied to pre-IE culture of the land,
-Was made, most likely, as the finds have shown,
+Was made, and carved, and in its place was shown,
 By {{c|1875|I}}-carrying hunters, by their hand,
 Iconography, the seen and the known,
 
@@ -223,7 +223,7 @@ Its peaceful order, as it seems to be:
 These were old {{p|Europe}}'s working out of all
 The farmers offered; it was, there and then,
 From its own magic register, its call;
-{{p|Yamnaya}} came and harmed that flower, when
+{{p|Yamnaya}} came upon that flower, when
 
 Their time arrived. But we are not there yet.
 For now, it's the old {{p|Europe}}, and the one,
