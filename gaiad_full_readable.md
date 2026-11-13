@@ -3814,245 +3814,215 @@ The courage that they had still echoes through.
 
 # Chapter 27: The Great Stabilization
 
-From Anu's unique lineage came
-Two sons of very different fame:
-Bold Enki, seeker of the sea,
-And Homos, keeping family.
+From Anu's line, unique of all, there came
+Two sons who went on two divergent ways:
+Bold Enki, seeker of the sea and fame,
+And Homos, keeping home through all his days.
 
-While Homos chose his father's way,
-Content to live as they always stay,
-Great Enki felt adventure's call
-To sail beyond the harbor wall.
+While Homos chose his father's way, Content
+To live as they had always lived before,
+Great Enki heard adventure's call, and went
+To sail beyond the harbor's sheltered shore.
 
-"I shall explore the ocean wide,"
-Declared brave Enki with great pride.
-"My creatures shall both move and scurry
-Through seas and lands without worry."
+"I shall explore the ocean wide," declared
+Brave Enki, full of pride; "my creatures all
+Shall move and scurry, and shall not be scared,
+Through seas and lands, and answer to my call."
 
-He built a galley, great and grand,
-The finest vessel in the land.
-With millions of oars arrayed,
-His mighty barge was made.
+He built a galley, great and grand of make,
+The finest vessel ever in the land,
+With millions of the oars arrayed, to take
+His mighty barge, by every rower's hand.
 
-His head faced forward to the sea,
-His men rowed powerfully.
-Through waves both high and low,
-They made their vessel go.
+His head faced forward, outward to the sea;
+His men rowed hard, with power, stroke on stroke;
+Through waves both high and low, and strong and free,
+They drove the vessel, and the waters broke.
 
-But soon great Enki found his plight:
-Lost in the endless night.
-No landmarks could he see,
-Adrift upon the sea.
+But soon great Enki found a bitter plight:
+No landmarks could he see on any side;
+Lost in the darkness of the endless night,
+Adrift upon the sea, so dark and wide.
 
-"I need wise men," brave Enki said,
-"To guide where we are led.
-Bring me astrologers so keen
-To read what stars have seen."
+"I need wise men," brave Enki said, "to guide
+Us where we go; bring those who read the sky,
+Keen men, to read what stars have seen and spied,
+And tell us where to go, and tell us why."
 
-The Flamens came, his priestly band,
-Flask cells from the land.
-These stargazers would divine
-The paths through space and time.
+The Flamens came, his priestly band of old,
+The Flask cells, who had come up from the land;
+These stargazers would read, and would behold
+The paths through space and time, and understand.
 
-The Flamens looked into the sky
-And saw with their trained eye
-Rich larvae floating by
-With yolks that multiply.
+The Flamens looked into the sky, and spied,
+With their trained eyes, rich larvae floating by,
+With yolks that multiply on every side,
+And read the omens, and the reason why.
 
-"Here," they said, "the signs are right
-To build beneath this sight.
-The stars align above
-To bless what we love."
+"Here," said the priests, "the signs are right to build
+Beneath this sight; the stars align above
+To bless our work, as all the heavens willed,
+And bless the things we hold and what we love."
 
-But as they prayed for guidance true,
-The gods came into view.
-Each brought a sacred gift,
-To help their spirits lift.
+But as they prayed for guidance, true and clear,
+The gods came into view, and every one
+Had brought a sacred gift, and drew them near,
+To lift their spirits up till all was done.
 
-Dark Tyrosine the Devil came
-With three spells of flame:
-{{x|Adrenaline}}'s rush so bright,
-{{x|Noradrenaline}}'s fight,
-And Dopamine's delight.
+Dark Tyrosine the Devil came, and brought
+Three spells of flame: {{x|Adrenaline}}'s bright rush,
+{{x|Noradrenaline}}'s fight, as it was taught,
+And Dopamine's delight, a golden flush.
 
-Then Tryptophanes the Sun
-Blessed them, every one,
-With Serotonin's day
-And Melatonin's way.
+Then Tryptophanes, the shining Sun, drew nigh
+And blessed them all with Serotonin's day,
+And Melatonin's night beneath the sky,
+And twilight's {{x|DMT}}, and all its sway.
 
-For twilight's mystic hour,
-He brought {{x|DMT}}'s power.
-The sacred visions came
-In the twilight's name.
+For in that mystic hour the visions came,
+The sacred visions, holy, strange, and bright,
+And spoke to them in twilight's secret name,
+Between the day's own sun and darkest night.
 
-Glutama the Empress brought
-The balance that she taught:
-{{x|GABA}}'s calming peace
-And Glutamate's release.
+Glutama, the Empress, brought the peace
+And balance that she taught, and gave them all
+Sweet {{x|GABA}}'s calm, and Glutamate's release,
+The rest, and then the waking to the call.
 
-"We need more spells," said Enki wise,
-"To help our people rise.
-If Jehovah's will be done,
-More magic must be won."
+"We need more spells," said Enki, wise and true,
+"To help our people rise, and if the will
+Of Jehovah is to be done, then new
+And greater magic must be won here still."
 
-Great Mithra heard his plea
-And blessed him by the sea
-With Acetylcholine's might
-To coordinate their sight.
+Great Mithra heard his plea beside the sea,
+And blessed him with Acetylcholine's might,
+To make the parts move all in harmony,
+Coordinating every move and sight.
 
-Fair Iodina, mother great,
-Revealed love's incarnate:
-The sacred {{x|CYIQNCPLG}},
-Oxytocin's key.
+Fair Iodina, mother great, revealed
+The shape of love incarnate, and the key,
+Oxytocin, the sacred chain unsealed,^[CYIQNCPLG]
+Love's own design, for all eternity.
 
-Then Kali, dark and deep,
-Gave spells to soothe and keep:
-Three endorphins strong
-To right what has gone wrong.
+Then Kali, dark and deep, gave spells to keep
+And soothe them: three endorphins, strong and bright,
+To right what has gone wrong, and bring them sleep,
+And ease the pain, and set the wrong aright.
 
-Alpha's sequence clear:
-{{x|YGGFMTSEKSQTPLVT}} here.
-Beta's longer chain:
-{{x|YGGFMTSEKSQTPLVTLFKNAIIKNAYKKGE}}'s refrain.
-Gamma's shorter form:
-{{x|YGGFMTSEKSQTPLVTL}} in the storm.
+Alpha, the first, its sequence clear and true;^[YGGFMTSEKSQTPLVT]
+Beta, the longer chain, with its refrain;^[YGGFMTSEKSQTPLVTLFKNAIIKNAYKKGE]
+Gamma, the shorter, in the storm it grew;^[YGGFMTSEKSQTPLVTL]
+The three endorphins, Kali's holy chain.
 
-These became the tools
-That break pain's rules:
-Opium's ancient call,
-Morphine for all,
-Heroin's dark embrace,
-Fentanyl's dangerous face.
+These were the tools that break the rule of pain:
+Opium's ancient call, and, in their turn,
+Morphine for all, and Heroin's dark bane,
+And Fentanyl's dark face, whose dangers burn.
 
-All these incantations blessed
-Became the chemicals that test
-The nervous system's might:
-Neurotransmitters' light.
+And all these incantations, blessed and strong,
+Became the chemicals that test the might
+Of every nerve, the neural system's song:
+Neurotransmitters, and their holy light.
 
-The Flamens learned to spear
-The larvae swimming near.
-Coordinated, they became
-Nematocysts by name.
+The Flamens learned to spear the larvae near,
+And, all coordinated, they became
+The Nematocysts, whose aim was always clear,
+And took, in time, the stinging cells' own name.
 
-Their hunting grew precise
-As they struck once and twice.
-Their spears would never miss
-Their targets in the abyss.
+Their hunting grew precise; they struck, and then
+They struck again; their spears would never miss
+Their targets in the deep, and once again
+They fed, and hunted in the dark abyss.
 
-Soon cables stretched between
-The hunters, long and keen.
-Telegraph wires of old
-Became nerves, brave and bold.
+Soon cables stretched between the hunters, long
+And keen; the Telegraph's old lines became
+The nerves, and they were brave, and they were strong,
+And bold, and carried every signal's name.
 
-And this is why today
-Priests carry, in their way,
-Spears and wires combined
-To serve the sacred mind.
+And this is why, today, the Priests still bear,
+In their own way, the Spears and wires combined,
+To serve with them, and keep with every care,
+The sacred nerves, the old, the intertwined.
 
-Through neural networks wide,
-Enki's people could provide
-Robotic arms so strong
-Around their city's song.
+Through neural networks, wide in every part,
+And Enki's people could provide, and long,
+Robotic arms, the city's working heart,
+Around the city, with a strength and song.
 
-These arms would catch with ease
-The larvae from the seas.
-His power grew and grew
-As his great city flew.
+These arms would catch with ease the larvae, brought
+Up from the seas; his power grew and grew;
+His city did the work that he had sought,
+And ever higher, ever on, it flew.
 
-He covered tentacles all
-With Choanocytes' call,
-To catch both great and small
-Fish that rise and fall.
+He covered tentacles all with the call
+Of Choanocytes, so that they might take
+The great, the small, the Fish that rise and fall,
+And feed the city for its people's sake.
 
-Enki's city was a sight
-Of technological might.
-Proto-animal in form,
-It weathered every storm.
+The city of great Enki was a sight
+Of art and of machine, a mighty form,
+A Proto-animal, and in its might
+It stood and weathered every wind and storm.
 
-From Enki came two sons
-When his great work was done:
-Bold Paraxus the strong
-And Xiangus life long.
+From Enki there came two sons when, at last,
+His work was done: Paraxus, bold and strong,
+And Xiangus, whose life was long and vast,
+And both of them would carry on his song.
 
-Now Xiangus took the way
-Of robotic arms' display.
-His fishermen arranged
-On arms that never changed.
+Now Xiangus took the robotic way,
+The arms; his fishermen were all arranged
+Upon the arms, in long and fixed array,
+On arms that never moved and never changed.
 
-From Xiangus came the line
-Of Daihua so fine.
-Whose beauty was renowned
-Wherever she was found.
+From Xiangus there came, and in his line,
+Fair Daihua, whose beauty was renowned,
+So fair, so fine, whose loveliness would shine
+In every place that she was ever found.
 
-From Daihua's noble race
-Came Dinomischus' grace.
-A creature strange and tall
-Who towered over all.
+And from Daihua's noble race there came
+Dinomischus, so strange and very tall,
+Whose grace was great, and great was his own fame,
+A creature towering above them all.
 
-And from this ancient lord
-Came Siphus, by accord
-The ancestor of all
-The comb jellies' call.
+And from this ancient lord came Siphus, he
+The ancestor, by accord, of the line
+Of comb jellies, the Ctenophores, so free,
+Who move with rainbow light, and brightly shine.
 
-These Ctenophores so bright
-Move with rainbow light.
-Their combs catch the sun
-As through waves they run.
+But great Paraxus founded a new state
+Of other kind; his lineage would grow,
+And nations he would father, far and great,
+By all the seas, the high seas and the low.
 
-But Paraxus the great
-Would found a different state.
-His lineage would grow
-To realms we yet don't know.
+From Enki's bold design there came the line
+Of nerves; the nervous system had its start,
+And all the chemicals, the flow and sign,
+Were born that day, and played their crucial part.
 
-Far greater nations he
-Would father by the sea.
-His legacy would span
-The future's plan.
+In every thought, in every neural link,
+The quest of Enki lives within our breast;
+Neurotransmitters dance, and in a wink
+Recall the time the gods their gifts expressed.
 
-From Enki's bold design
-Came the neural line.
-The nervous system's start
-Played its crucial part.
+So honor Enki, brave, who sailed the sea,
+The endless sea, whose courage and whose quest
+Gave neurons unto us, and set us free;
+And honor all the gods whom he addressed.
 
-The chemicals that flow
-Through minds both high and low
-Were born upon that day
-When Enki sailed away.
+The Flamens' starry sight, the stinging might
+Of Nematocysts, and all the networks wide,
+All came from ages past, from that first night,
+When Enki sailed upon the endless tide.
 
-In every thought we think,
-In every neural link,
-Enki's ancient quest
-Lives on in our breast.
+In every brain that thinks, in every nerve
+That links, the echo still rings true today;
+The animals that move, and turn, and swerve,
+All trace their line to Enki's ancient way.
 
-The neurotransmitters' dance
-In every glance
-Recalls that fateful hour
-When gods gave their power.
-
-So honor brave Enki,
-Who sailed the endless sea.
-His courage and his quest
-Gave neurons to our nest.
-
-The Flamens' starry sight,
-The nematocysts' might,
-The neural networks vast
-All came from ages past.
-
-In every brain that thinks,
-In every nerve that links,
-The echo still rings true
-Of Enki's journey through.
-
-The animals that move
-With coordinated groove
-All trace their lineage back
-To Enki's neural track.
-
-From sponge to human mind,
-The pattern still we find:
-The nervous system's art
-Connects each beating heart.
+From sponge to human mind, the pattern still
+Is found, the nervous system's ancient art,
+That ties us all together, as it will,
+And so connects each living, beating heart.
 
 
 # Chapter 28: Continental Drift Begins
