@@ -1,220 +1,66 @@
 # Chapter 150: The Yellow Emperor
 
-And to the east, in the valley of the {{p|Yellow River}},
-Another civilization was taking shape. Not by invasion.
-Not by the sudden arrival of horse-riding steppe peoples.
-By slow accretion, across thousands of years, of {{c|1881|O}}-
+And east, along the {{p|Yellow River}}'s flow,
+The house of {{c|1881|O}} had farmed since ancient days,
+And slow, as yellow loess comes to grow,
+They grew to one, by slow and patient ways.
 
-Haplogroup farming populations who had been in the region
-Since the {{p|Neolithic}}. This civilization would become {{p|China}}.
-And its mythic founder—the figure at whom all later {{p|Chinese}}
-Historical memory points back—was the {{c|1998|Yellow Emperor}}.
+Their founder, {{c|1999|Huangdi}}, of the yellow ground,
+The {{c|1998|Yellow Emperor}}, the earth's own lord,
+In twenty-seven hundred, he was crowned,
+And taught them all the arts, and held the sword.
 
-                                                                {{c|1999|Huangdi}}.
-The {{c|1998|Yellow Emperor}}. Traditionally dated to approximately twenty-
-Seven hundred BCE. One of the {{p|Three Sovereigns and Five Emperors}}—
-The mythic rulers who, in {{p|Chinese}} traditional history, preceded
+He made the bow, the arrow, and the cart,
+The pots, the calendar, and in the war
+The chariot that pointed south; the art
+Of healing, in the {{p|Huangdi Neijing}}'s lore.
 
-The {{p|Xia dynasty}} and founded the civilization. {{c|1999|Huangdi}}'s name
-Means "{{c|1998|Yellow Emperor}}" because he was associated with the yellow
-Earth of the {{p|North China Plain}}—the loess soil blown in from the
-{{p|Gobi Desert}} by millennia of northern winds, rich and fertile and
+His wife, {{c|2000|Leizu}}, found silk: a cocoon fell
+Into her tea, and as she drew it out,
+The thread unwound, and wound, and wound as well,
+And all the silk of {{p|China}} came about.
 
-Yellow-colored, the soil on which the {{p|Yellow River}} civilization
-Was built. {{c|1999|Huangdi}} was the first of the great culture-heroes
-Who, according to tradition, gave the {{p|Chinese}} people their essential
-Arts: he invented the bow and arrow, the cart, ceramics, silk (via
+He fought {{c|2004|Chiyou}}, the rebel, bronze of head,
+With horns, at {{p|Zhuolu}}, and he won the day,
+And joined the tribes along the river's bed
+Into one people, under his own sway.
 
-His wife {{c|2000|Leizu}}, who is credited with discovering sericulture
-By accidentally dropping a silkworm cocoon into her tea and
-Unwinding the thread), the calendar, the compass (in a primitive
-Form—a south-pointing chariot he used in battle), and the medical
+With {{c|2005|Yandi}}, the Flame Emperor, he's one:
+He is the father of the {{p|Han}}, who say
+They are the children of {{x|Yanhuang}}, each son,
+And keep him as their father to this day.
 
-Text called the {{p|Huangdi Neijing}} (the {{p|Yellow Emperor's Inner
-Canon}}, the foundational text of traditional {{p|Chinese}} medicine).
+Before him were the {{p|Three Sovereigns}}: the first,
+{{c|733|Fuxi}}, who taught the net, the fire, the food,
+And the eight trigrams, the {{p|bagua}}, well-versed;
+And {{c|2006|Nüwa}}, serpent-bodied, and her brood,
 
-{{c|1999|Huangdi}} is the {{p|Chinese}} equivalent of what {{c|2001|Prometheus}} and
-{{c|2002|Hephaestus}} and {{c|2003|Hermes}} are in the {{p|Greek}} tradition—the culture-
+Who made the people out of yellow clay,
+And when the heavens cracked, she patched the sky
+With five-hued stones she melted on that day;
+And {{c|2007|Shennong}} too, the {{c|2008|Divine Farmer}}, high
 
-Hero who brings the arts of civilization to humanity, combined
-Into one figure. He fought wars—against {{c|2004|Chiyou}}, a rebellious
-Warlord with a bronze head and horns, in the {{p|Battle of Zhuolu}}
-Which is traditionally dated around twenty-five hundred BCE. And
+Of heart, who tasted every plant to see
+Which fed, which healed, which killed; and so he taught
+The farm, the herbs; and died at last when he
+Took one too strong for all the cures he wrought.
 
-He won. {{c|2004|Chiyou}} was defeated. {{c|1999|Huangdi}} unified the tribes of the
-{{p|Yellow River}} basin into a single civilization, and his descendants
-Became the ruling dynasties of {{p|Chinese}} civilization for the rest
-Of its history. Every subsequent {{p|Chinese}} emperor would claim,
+With {{c|1308|Abraham}} and {{c|1940|Manu}}, so is he
+The third of the {{x|Three Ancestors}} of all,
+The fathers of mankind, the root, the tree
+From which all peoples living grow up tall.
 
-At some level, descent from {{c|1999|Huangdi}}. The {{p|Han Chinese}} people,
-To this day, call themselves "{{p|descendants of the Yellow Emperor}}"
-({{x|Yanhuang}} zisun, combining {{c|1999|Huangdi}} and his proto-historical
-Contemporary {{c|2005|Yandi}}, the "Flame Emperor"). The civilizational self-
+And every house that ruled the {{p|Yellow}} land
+Claimed him as father; and his tomb today
+In {{p|Shaanxi}} receives, at {{p|Qingming}}, the hand
+Of those who rule, who come to bow and pray.
 
-Concept of {{p|China}} is, in its traditional form, anchored in {{c|1999|Huangdi}}.
+From him the script came down; on bone and shell
+The {{p|Shang}} would cut it, and it is still read;
+No other people's writing, kept so well,
+Has run so long, and never once was dead.
 
-And is this history? Not quite. {{c|1999|Huangdi}} is a mythic figure, not
-An archaeologically attested king. The {{p|Three Sovereigns and Five
-Emperors}} belong to the semi-legendary zone that precedes the
-
-Actual historical record of {{p|China}}. The first archaeologically
-Attested {{p|Chinese}} dynasty is the {{p|Shang}} (from approximately
-Fifteen fifty BCE), and even the {{p|Xia}} dynasty—which precedes the
-{{p|Shang}} in traditional accounts—is not yet definitively confirmed
-
-By archaeology, though sites like {{p|Erlitou}} are strong candidates.
-{{c|1999|Huangdi}} and his fellow {{p|Three Sovereigns}} ({{c|733|Fuxi}}, {{c|2006|Nüwa}},
-{{c|2007|Shennong}}) and {{p|Five Emperors}} are the {{p|Chinese}} mythic prehistory—
-The figures who populate the traditional chronologies before the
-
-Historical record begins.
-
-                                But the {{x|Gaiad}} honors them. Because
-Even if {{c|1999|Huangdi}} is a legendary figure rather than a historical
-One, he represents something real: the consolidation of {{p|Chinese}}
-
-Civilization on the {{p|North China Plain}}, the integration of multiple
-{{x|Neolithic}} cultures ({{p|Yangshao}}, {{p|Longshan}}, {{p|Hongshan}}, and others)
-Into the proto-civilization that would eventually become {{p|Shang}}-
-Dynasty {{p|China}}. And this process—the gradual coalescence of
-
-{{p|Chinese}} identity along the {{p|Yellow River}}—was underway throughout
-The third millennium BCE. {{c|1999|Huangdi}} is its legendary personification.
-He is the {{p|Chinese}} answer to the question: where did we come from?
-And the answer is: from the yellow earth, from the {{p|Yellow River}},
-
-From the culture-hero who gave us the arts of civilization, from
-The warrior-king who defeated the bronze-headed rebel and unified
-The tribes of the {{p|Central Plain}}.
-
-                                             And alongside {{c|1999|Huangdi}},
-The {{p|Three Sovereigns}} also deserve mention. {{c|733|Fuxi}}—who taught
-
-Humanity fishing, cooking, and the {{p|bagua}} (the eight trigrams of
-The {{p|I Ching}}). {{c|2006|Nüwa}}—the serpent-bodied goddess who created
-Humanity from yellow clay and who repaired the heavens when they
-Cracked, melting five-colored stones to patch the sky. {{c|2007|Shennong}}—
-
-"The {{c|2008|Divine Farmer}}," who taught humans agriculture by trying every
-Plant to see which were edible, which were medicinal, which were
-Poisonous, and who died when he finally ingested a plant too toxic
-For his own invented cures. These figures are older than {{c|1999|Huangdi}},
-
-In the traditional chronology, and they represent the even deeper
-Prehistory of {{p|Chinese}} civilization—the hunter-gatherer-to-farmer
-Transition in the {{p|Yellow River}} basin. {{c|733|Fuxi}} is the transition
-Out of pure hunting and gathering. {{c|2006|Nüwa}} is the cosmological
-
-Origin myth. {{c|2007|Shennong}} is the invention of agriculture and
-Herbalism. Together they form the {{p|Chinese}} mythic prehistory
-That leads to {{c|1999|Huangdi}}'s unification.
-
-                                                 And what makes the
-{{p|Chinese}} tradition distinctive, in the {{x|Gaiad}}'s reading, is the
-
-Continuity. Every subsequent dynasty of {{p|Chinese}} history has
-Maintained an unbroken connection to {{c|1999|Huangdi}}'s mythic founding.
-The {{p|Shang}} emperors claimed descent from him. The {{p|Zhou}} emperors
-Claimed descent from him. The {{p|Qin}} and {{p|Han}} claimed descent. The
-
-{{p|Tang}} and {{p|Song}} and {{p|Ming}} and {{p|Qing}} all maintained the ritual
-Linkage to the {{p|Three Sovereigns and Five Emperors}}. Even the
-Twentieth-century {{p|Republic of China}} and the {{p|People's Republic}}
-Have retained the cultural memory, if not the official state
-
-Worship. The {{p|Mausoleum of the Yellow Emperor}}, in {{p|Shaanxi Province}},
-Is a functional national shrine where {{p|Chinese}} presidents still
-Offer ceremonial sacrifices at the annual {{p|Qingming}} festival.
-{{c|1999|Huangdi}} has never been deposed as the mythic founder of the
-
-{{p|Chinese}} nation. Four thousand seven hundred years after his
-Legendary reign, the state still bows to him. This is, by any
-Measure, the longest continuous national founding mythology on
-Earth.
-
-Compare the other lands. In {{p|Egypt}}, when
-{{p|Christianity}} came, new keepers then
-Took up the dead's old rite. The kings who rose
-In {{p|Mesopotamia}} struck out those
-Before them from the king-lists. {{p|Greece}} and {{p|Rome}}
-Let their first founders' rites go cold at home.
-{{p|Christianity}}, {{p|Islam}} hung the old
-Lines on {{c|1308|Abraham}}, {{c|1911|Muhammad}}, to hold
-Them under new hands. {{p|China}} never broke:
-One house has kept one rite, and the same smoke.
-
-{{c|1999|Huangdi}} has outlasted every other ancient founder-figure in
-Continuous national veneration. The {{p|Chinese}} civilizational
-Self-concept has never reset.
-
-                                    And the language reinforces this.
-{{p|Chinese}} characters are the only major writing system still in
-
-Use that has maintained substantial continuity from its {{x|Bronze Age}}
-Origins. The oracle bones of the {{p|Shang}} dynasty, written around
-Thirteen hundred BCE, used characters that a modern {{p|Chinese}} reader
-Can partially decipher. Thirteen hundred BCE to the twenty-first
-
-Century—three thousand three hundred years of writing-system
-Continuity. No other civilization has anything comparable. {{p|Egyptian}}
-Hieroglyphs died. {{p|Cuneiform}} died. {{p|Phoenician}}, {{p|Greek}}, and {{p|Latin}}
-Alphabets evolved into forms their ancestors would not recognize.
-
-Only {{p|Chinese}} characters have maintained their fundamental form
-And function across the entire historical record. The cultural
-Memory is encoded in the writing. And the writing traces back,
-Step by step, to the oracle bones, and from there (in legend) to
-
-{{c|1999|Huangdi}} and the invention of the script.
-
-                                                     So the chapter
-Honors him. {{c|1999|Huangdi}}. The {{c|1998|Yellow Emperor}}. The legendary
-Unifier of the {{p|Yellow River}} civilization. The culture-hero who
-
-Gave the {{p|Chinese}} people their arts. The mythic ancestor whose
-Veneration has outlasted every other ancient founder's. The
-Figure who stands, in the {{p|Chinese}} imagination, where {{c|1834|Adam}} stands
-In the {{x|Hebrew}} imagination and where {{c|2009|Rama}} stands in the {{p|Indian}}
-
-Imagination and where the {{c|2010|Jade Emperor}} stands in the {{p|Chinese}}
-Celestial hierarchy. The earthly progenitor. The founder who is
-Still present.
-
-                   And the {{x|Gaiad}} is careful here. The {{x|Gaiad}} does not
-Claim that {{c|1999|Huangdi}} is a historical king in the same sense that
-
-{{c|1970|Sargon}} is. The archaeological record is clear: there is no hard
-Evidence for a specific ruler named {{c|1999|Huangdi}} who lived around
-Twenty-seven hundred BCE. He is a figure of mythic memory, not
-Historical record. But the {{x|Gaiad}} also does not dismiss him. Because
-
-The cultural reality that {{c|1999|Huangdi}} represents—the founding of
-{{p|Chinese}} civilization in the {{p|Yellow River}} basin, the consolidation
-Of multiple {{x|Neolithic}} cultures into a single civilizational project,
-The invention of the techniques that would allow {{p|China}} to become
-
-The most populous and longest-continuous civilization on earth—
-Is real. And {{c|1999|Huangdi}} is the legendary face of that reality. He
-Stands for something that actually happened, even if he himself
-As a specific individual did not.
-
-                                        The legend and the truth are
-Tangled. The {{x|Gaiad}} accepts the tangle. And the chapter pays its
-Respects to the {{c|1998|Yellow Emperor}} in the same spirit that it pays
-Its respects to {{c|1851|Noah}}—as the mythic personification of a real
-
-Historical transformation, deserving of honor in the register of
-Myth even where it cannot be anchored in the register of hard
-History. The transformation is real. The person is real too.{{fn|Historians treat the Yellow Emperor as a figure of legend; the Gaiad holds him real.}}
-The civilization is real. The memory is real. The four thousand
-
-Seven hundred years of continuous veneration are real. And they
-All point back to the same place: the {{p|North China Plain}}, the
-{{p|Yellow River}}, the loess earth, and the figure who—in the {{p|Chinese}}
-Memory—founded the civilization that has persisted, through every
-
-Subsequent upheaval, until the present day.
-
-{{c|1999|Huangdi}}. The {{c|1998|Yellow Emperor}}. {{p|China}}'s mythic founder.
-The culture-hero of the {{p|Yellow River}}. The ancestor claimed
-By a hundred generations of {{p|Chinese}} civilization.
+So honor {{c|1999|Huangdi}}, of the yellow earth,
+Who gave the arts, and joined the tribes in one,
+The father of the {{p|Han}}, and of the birth
+Of all mankind, beneath the yellow sun.
