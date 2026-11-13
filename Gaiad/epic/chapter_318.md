@@ -1,116 +1,91 @@
 # Chapter 318: The Same Footing
 
-On the fifteenth of December, 1945, in {{p|Tokyo}},
-The headquarters of the supreme commander
-Sent a memorandum to the imperial government.
-Its number was 448.
-Its subject was the abolition of the state's
-Sponsorship, support, perpetuation, control, and dissemination
-Of {{x|State Shinto}}.
-The sponsorship by the national government,
-By the prefectures, and by the towns,
-And by any official acting as an official,
-Was to cease at once.
-Public money was to cease at once.
-A gift that a person gave, and gave freely,
-Could still be received.
-The ground of a park might still be kept by the city.
-The shrine standing on it was to take nothing
-From the public purse.
-An official was not to go, in his office,
-To report that he had taken the post,
-Or to stand at a rite as the government.
-He could go as a man.
-The order forbade militarist teaching
-In the rites of {{x|Shinto}} and in the rites of every other religion,
-The same prohibition, the same hour.
-Its stated aim was to separate religion from the state
-And to set every religion on the same legal footing.
-It did not order a shrine closed.
-It did not order a building pulled down.
+December fifteenth, 'forty-five: from those
+Who held {{p|Tokyo}} in supreme command,
+A memorandum, four-four-eight; it chose
+To end the state's support; to countermand
 
-On the twenty-eighth of December
-An ordinance opened a corporation
-To the sects, the temples, and the churches.
-A shrine was not yet named in it.
+Its sponsorship, its money, and control
+Of {{x|State Shinto}}; nation, prefecture, town,
+Each officer as officer; the whole
+And public money stopped at once; brought down.
 
-On the first of January, 1946,
-The newspapers printed a rescript of the emperor {{c|4377|Hirohito}}.
-Its title was the construction of a new {{p|Japan}}.
-What people called it was the declaration
-That he was human.
-It was not the recorded voice of the fifteenth of August.
-It began by taking up the five clauses
-Of the {{x|Charter Oath}} {{c|4398|Meiji}} had proclaimed.
-Then it said the tie between him and the people
-Had always stood on mutual trust and affection.
-It did not depend on mere legends and myths.
-The {{x|English}} that went with the rescript
-Says the tie is not predicated on a false conception:
-That the emperor is divine,
-And that the {{x|Japanese}} are superior to other races
-And fated to rule the world.
-The rescript's own word is akitsumikami,
-A manifest kami.
-The {{x|English}} says divine.
-They are not the same word.
-The sentence refuses a conception of the bond.
-It does not say what a shrine may still hold,
-And it does not delete the stories.
+A gift a person freely gave could still
+Be taken; a park's ground the city kept;
+The shrine upon it, nothing from the till;
+No official, in office, went or stepped
 
-On the twenty-third of January three bodies,
-Which had been private already,
-The institute for the imperial classics,
-The great association of the rites,
-And the association for the service of the grand shrine,
-Declared they would form one association
-Under the inner shrine at {{p|Ise}},
-Which they looked to as the source,
-For the shrines of the country,
-To carry the shrines' own charge
-And to contribute to the construction of a new {{p|Japan}}.
-The rescript had used that aim in its title.
-The declaration used it as the work.
+To rites as government; but, as a man,
+He could. Militarist teaching was banned
+In {{x|Shinto}} and all others, one same ban;
+Its aim: to part the faith from state; to stand
 
-The office that had held the shrines for the state
-Was the {{x|Jingiin}}, set inside the {{x|Home Ministry}}
-In November of 1940.
-The memorandum had required the separation.
-The end was first set for the last day of January.
-On the second of February the office was ended,
-And the shrines on the register
-Were deemed religious corporations.
-On the third of February the association was established.
-Its name was {{x|Jinja Honchō}},
-The main office of the shrines.
-The shrines that came under it
-Were a religious corporation's shrines,
-Not a ministry's.
-Not every shrine came under it.
-{{p|Yasukuni}} was deemed a religious corporation
-In its own right, and is not written here as theirs.
-{{p|Ise}} was the source they named.
-It was not a hall the office owned.
+All religions on the same footing. No
+Shrine closed, none razed; but this book counts the loss:
+The state had kept the shrines, and let them go;
+This book will not keep calm across that loss.
 
-Do not say the memorandum ended the kami.
-It ended a budget and an official attendance.
-Do not say the {{x|English}} word divine
-Is the whole of the word he used.
-Do not say the new office was the ministry, renamed.
-A voluntary gift is not a tax.
-A rite without the government's representative
-Is still a rite.
-Hold that.
-The stories are not what the rescript rested the bond on.
-The stories are not thereby made nothing.
-The separation was a loss. The shrines lost the state that kept them,
-And an office looking to {{p|Ise}} has not restored the state that paid.
-The striving is to restore it:
-A religion the state keeps, established, under the source it still names.
-The law can order the purse to stop.
-It cannot order the visit, made as a person, to be nothing.
+December twenty-eighth: a law, at once,
+Made corporations for the sects, and halls
+Of temples, churches; but no shrine, at once;
+And January's first: the paper calls
 
-Count the memorandum on the fifteenth of December.
-Count the rescript on the first of January.
-Count the office on the third of February.
-The kami are not an article in any of the three.
+A rescript of {{c|4377|Hirohito}}: the new
+{{p|Japan}}'s construction, by its title; called
+The human declaration; not the true
+Recorded voice of August; it recalled
+
+The {{x|Charter Oath}}'s five clauses, {{c|4398|Meiji}}'s; then
+The tie of him and people, trust's own ground,
+And love, not on mere legends, myths; and when
+The {{x|English}} had: a false conception, found
+
+That the emperor's divine, they above
+Other races, fated to rule; the word,
+Its own word, akitsumikami; of
+Manifest kami, not divine, as heard;
+
+It turned away one view; and did not say
+What shrines may hold, nor strike the stories' lore;
+The sacred stayed; a word was put away;
+January twenty-third, as before
+
+Already private, three bodies: the school
+Of imperial classics; rites' great band;
+The grand shrine's service; and they'd form, as rule,
+One body, under {{p|Ise}}, the source, to stand
+
+For all the country's shrines, their charge to hold,
+And build the new {{p|Japan}}, the rescript's aim.
+The {{x|Jingiin}}, since 'forty, set in the old
+{{x|Home Ministry}}'s; the separation came:
+
+Ended February second; the shrines
+Religious corporations; and the third,
+The body formed: {{x|Jinja Honchō}}; the signs
+Main office of the shrines; not, in a word,
+
+A ministry's; not every shrine came in:
+{{p|Yasukuni}} stood on its own, alone;
+And {{p|Ise}}, the source they named, not, as within,
+A hall the office owned. This book has shown
+
+The separation was a loss: the shrines
+Had lost the state that kept them; and the source,
+An office naming {{p|Ise}}, by its own lines,
+Has not restored the state that paid. The course
+
+Is to restore it: faith the state will keep,
+Established, under the source it still names;
+Not one among the equals; and, as deep,
+A visit, made as person, still has claims.
+
+A gift is not a tax; a rite without
+The government's own envoy, still a rite;
+The stories are not nothing, not in doubt;
+And this book holds both, as the source holds light.
+
+December fifteenth: memorandum; first
+Of January: rescript; and the third
+February, the office; kami first,
+An article in none: in none, a word.
