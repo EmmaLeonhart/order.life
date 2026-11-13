@@ -31445,225 +31445,130 @@ And John, who cried the kingdom in his song.
 
 # Chapter 179: Rome
 
-After {{p|Carthage}} fell, {{p|Rome}} stood
-the master of the {{p|Middle Sea}},
-and what had been a farmers' town
-now ruled from {{p|Spain}} to {{p|Thessaly}}.
+When {{p|Carthage}} fell, then {{p|Rome}} stood over all
+The {{p|Middle Sea}}; the farmers' little town
+Now ruled from {{p|Spain}} to {{p|Thessaly}}; and small
+Old forms, for farms and voters, broke, came down:
 
-The {{x|Republic}} had been built for farms,
-for citizen-assemblies small,
-for consuls chosen year by year,
-for {{x|Senate}} giving voice to all.
+The legions served their generals; and the gold
+Of provinces drowned the {{p|Italian}} plough;
+The Gracchi Brothers saw it, and they told
+The poor of land: Tiberius, and how
 
-But empire cracked the ancient forms.
-The legions served the generals now.
-The conquered provinces sent wealth
-that drowned the old {{p|Italian}} plough.
+His brother Gaius too; and both were slain
+By {{x|Senate}} men, in streets; and so it learned
+That wealth would kill for wealth; and once again
+The road to civil war was bloody, turned.
 
-The Gracchi Brothers, Tiberius
-and Gaius, saw the danger clear:
-the landless poor, the latifundia,
-the veterans with naught to cheer.
+Marius made the legions volunteers,
+Bound to their chief, and not the state; and then
+Then Sulla marched on {{p|Rome}}, the first, in years
+Of terror, dictator, and listed men
 
-Tiberius proposed reform,
-to give the soldiers land again.
-The {{x|Senate}} killed him in the streets.
-His brother fell the same way then.
+To die, and took their wealth; and then laid down
+His rule, and went home, and died in his bed;
+But what was done stayed done: the sword, the crown
+Of armies, ruled; and politics was dead.
 
-The {{x|Republic}} learned that reason died
-when wealth was threatened at its root,
-and after that the path was set
-toward civil war and bloody fruit.
+Pompey, the golden one, then cleared the sea
+Of pirates, conquered east, took {{p|Judea}};
+Crassus, the richest, crushed Spartacus; he
+Bought {{x|Senate}}, armies; from the idea
 
-Marius reformed the legions whole,
-made volunteers the fighting core,
-tied soldiers' loyalty to their chief
-and not the state they fought for.
+Of Aeneas' line, and of Venus' race,
+Came Julius Caesar, ablest of the three;
+They made the {{x|First Triumvirate}}, in place
+Above the {{p|Roman}} world, by their decree.
 
-Sulla marched his legions in
-upon the sacred city's ground,
-the first {{p|Roman}} to make such war,
-and dictator for life was crowned.
+And Crassus died in {{p|Parthia}}, his head
+Used in a {{x|Greek}} play as a thing to show;
+And Pompey and Caesar warred; he led
+His legions on the {{p|Rubicon}}, and so
 
-He purged his enemies with lists,
-proscriptions stripping wealth and breath,
-and when he thought his work was done
-he calmly walked away toward death.
+The die was cast; and he chased Pompey far,
+To {{p|Egypt}}, where the boy-king Ptolemy
+Cut off his head, to please him; at that scar
+Caesar wept there; and Cleopatra, he
 
-But what he'd done could not be back.
-The precedent was set in stone:
-armies belonged to generals now,
-and politics meant swords alone.
+Received, rolled in a carpet; and her bed
+Made her the queen of {{p|Egypt}}; and he'd won
+All {{p|Gaul}}, and wrote of it; at {{p|Zela}} said:
+I came, I saw, I conquered; and was done,
 
-Pompey rose, the golden boy,
-who cleared the pirates from the sea,
-who conquered eastward to the {{p|Nile}}
-and gave {{p|Judea}} subsequently.
+Dictator for his life. And then, at last,
+The {{x|Ides of March}}: Brutus, Cassius, the knives;
+And Caesar fell; Mark Antony, aghast,
+Spoke at the burial, and roused, with lives
 
-Crassus rose, the wealthiest man,
-who crushed the Spartacus revolt,
-whose gold bought armies, bought the {{x|Senate}},
-bought whatever he assault.
+At stake, the crowd against the killers; war
+Began again; Octavian, his heir,
+His grandnephew, cold-eyed, with patience, bore
+His time; and Antony, Lepidus, there
 
-Julius Caesar rose, the third,
-who claimed descent from Aeneas,
-who claimed descent from Venus herself,
-and was the ablest of the three.
+Made the {{x|Second Triumvirate}} with him;
+At {{p|Philippi}} they hunted Brutus down;
+Then turned on each other; Lepidus, dim;
+Antony went to Cleopatra's town,
 
-The {{x|First Triumvirate}} was formed,
-unofficial, power-sharing pact.
-They carved the {{p|Roman}} world between them
-and ruled by this unwritten act.
+And lived as pharaoh; Octavian stayed
+In {{p|Rome}}, and built his name; and at the end,
+At {{p|Actium}}, Agrippa, who obeyed
+Octavian, won; they fled; and no friend
 
-Crassus died in {{p|Parthia}}, shot
-with arrows at the battle's close.
-His head was used as stage-prop in
-a {{x|Greek}} tragedy, or so it goes.
+Was left: she died by asp, the royal snake,
+The crown of {{p|Egypt}}; he by his own sword;
+The {{x|Ptolemies}} were done; and so, to take
+The rule alone, Octavian was lord,
 
-Then Pompey and Caesar turned to war.
-Caesar crossed the {{p|Rubicon}} small
-with legions, saying "die is cast,"
-and brought the {{x|Republic}} to its fall.
+Augustus, first, revered, for forty-five
+Long years; and said he'd brought the old rule back;
+The {{x|Senate}} met, the consuls stayed alive,
+But he ruled all; and no one could attack.
 
-He chased Pompey to {{p|Egypt}}, where
-the boy-king Ptolemy beheaded
-the {{p|Roman}} general, thinking thus
-Caesar's gratitude was threaded.
+So came the {{x|Pax Romana}}: law and peace
+Two centuries; and roads, aqueducts, coin,
+And courts, from {{p|Britain}} to the {{p|Tigris}}' lease,
+From {{p|Rhine}} to the {{p|Sahara}}; all would join
 
-Caesar wept. Then met Cleopatra,
-who rolled inside a carpet's pack,
-and made alliance with her bed
-and put her on the {{p|Egyptian}} track.
+One law, one coin, one road, one folk of men;
+And some were good, and some were mad: the dark
+Grim Tiberius on {{p|Capri}}; and then
+Caligula, whose horse was consul; mark
 
-He conquered {{p|Gaul}} across the {{p|Alps}},
-wrote {{x|Commentaries}} on his war,
-"veni, vidi, vici" at {{p|Zela}},
-and dictator for life he bore.
+Claudius, limping, wily; Nero, who
+Played as {{p|Rome}} burned, and killed his mother, wife,
+And Christians; he fell on his sword; and through
+One year, four ruled: first Galba, losing life,
 
-The {{x|Ides of March}} came. Brutus struck,
-with Cassius and the {{x|Senate}}'s knives.
-"Et tu, Brute?" — then Caesar fell,
-and {{p|Rome}} was torn among his wives.
+Otho, Vitellius; and then the man,
+Vespasian, who held it, and who planned
+{{p|Colosseum}}; and Titus, son, began
+To burn the {{p|Second Temple}}, and the land
 
-Mark Antony gave the funeral speech
-("I come to bury, not to praise"),
-roused the crowd against the killers,
-and started civil war's new phase.
+Was emptied: in the {{p|Arch of Titus}}, carved,
+The menorah borne west; the Jews were spread
+Through all the realm; the {{p|Temple}}'s rite was starved.
+And then the {{x|Five Good Emperors}}, who led:
 
-Octavian, Caesar's grandnephew,
-adopted as his heir by will,
-revealed himself the cold-eyed one
-with patience and political skill.
+Nerva, Trajan, who took {{p|Dacia}}'s gold,
+Reached greatest bounds; and Hadrian, who drew
+Them back, built his wall; Antoninus, old
+And pious; Marcus Aurelius, true
 
-The {{x|Second Triumvirate}} formed:
-Antony, Octavian, Lepidus.
-They hunted Brutus down at {{p|Philippi}},
-then turned upon each other thus.
+{{x|Stoic}} and king, who wrote, in {{x|Greek}}, alone,
+His {{x|Meditations}}: say, at dawn, I'll meet
+The meddler, the ungrateful; his own
+Work was to serve them all; and in defeat
 
-Lepidus was marginalized.
-Antony went east to Cleopatra.
-Octavian stayed in {{p|Rome}} to build
-his reputation bit by bit.
+Of plague and Marcomanni by the stream
+Of the {{p|Danube}} he died; his son would fight,
+Commodus, as Hercules in his dream,
+In games; a wrestler strangled him at night.
 
-Antony lost himself in {{p|Egypt}},
-living as pharaoh with his queen,
-alienating {{p|Roman}} sentiment,
-the conqueror gone {{x|Alexandrine}}.
-
-At {{p|Actium}} the fleets collided.
-Octavian's admiral Agrippa won.
-Antony and Cleopatra fled,
-and soon enough their lives were done.
-
-She with the asp, the royal cobra,
-the uraeus of {{p|Egyptian}} crown.
-He with his sword, the {{p|Roman}} way.
-The {{x|Ptolemaic}} line went down.
-
-Octavian stood the sole {{p|Roman}},
-and took the title Augustus then,
-the "revered one," princeps, first,
-and ruled for forty-five years again.
-
-He said he'd restored the {{x|Republic}},
-but everyone knew the truth:
-the {{x|Senate}} met, the consuls served,
-but emperor ruled, and that was sooth.
-
-The {{x|Pax Romana}} had begun.
-Two centuries of peace and law.
-Roads, aqueducts, courts, and coins.
-The greatest empire men ever saw.
-
-From {{p|Britain}} to the {{p|Tigris}} reach,
-from {{p|Rhine}} to the {{p|Saharan}} sand,
-one law, one coin, one road-network,
-one citizenship across the land.
-
-The emperors came, some good, some mad:
-Tiberius grew dark on {{p|Capri}}.
-Caligula made his horse a consul.
-Claudius the limping one was wily.
-
-Nero burned and fiddled — or
-perhaps that part was later slander.
-But he killed his mother, killed his wife,
-killed Christians, killed with grand meander.
-
-The {{x|Year of Four Emperors}} came
-when Nero fell upon his sword.
-Galba, Otho, Vitellius, Vespasian —
-four imperial purples poured.
-
-Vespasian stabilized the state,
-built the {{p|Colosseum}} in {{p|Rome}},
-and founded the {{x|Flavian}} dynasty
-to give the empire fresh new home.
-
-His son Titus sacked {{p|Jerusalem}}
-in seventy of the {{x|Common Era}},
-destroyed the {{p|Second Temple}} whole,
-and changed {{x|Judaism}}'s era.
-
-The menorah was carried west
-upon the {{p|Arch of Titus}}' face.
-The Jews were scattered through the empire.
-The {{p|Temple}} cult had lost its place.
-
-But {{p|Rome}} rolled on, the {{x|Five Good Emperors}}:
-Nerva, Trajan, Hadrian,
-Antoninus Pius, and Marcus Aurelius,
-who was both emperor and {{x|Stoic}} man.
-
-Trajan pushed to {{p|Dacia}}, took the gold,
-reached the greatest extent of the realm.
-Hadrian pulled back to the walls,
-built {{p|Hadrian's Wall}} across the helm.
-
-Marcus wrote his {{x|Meditations}}
-in {{x|Greek}}, for his own private eye,
-a {{x|Stoic}} emperor's private journal,
-one of the great books that will not die.
-
-"Begin the morning by saying to thyself:
-I shall meet with the busybody, ungrateful,
-arrogant, deceitful, envious, unsocial..."
-and yet still serve them all, faithful.
-
-He fought the Marcomanni on the {{p|Danube}},
-plague was ravaging the troops,
-and when he died, the empire was
-already starting to lose its loops.
-
-His son Commodus was the break.
-He fought in the arena, thought himself Hercules,
-was strangled by a wrestler in his bath,
-and after him came crises.
-
-{{p|Rome}} had reached its high plateau.
-From here, the slow decline began.
-But for two hundred years it held
-the greatest empire made by man.
+So honor {{p|Rome}}: the law, the road, the peace,
+Caesar, Augustus, Marcus with his pen;
+Two hundred years it held, till it would cease,
+The greatest realm that had been made by men.
 
 
 # Chapter 180: Jesus
