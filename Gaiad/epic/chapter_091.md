@@ -27,7 +27,7 @@ Of unity, to make the world diverse.
 The ancient names that, in divided verse,
 The parted lands would carry in the mouth
 
-Of each geologist to come. And wide
+Of all the ages still to come. And wide
 Between them grew the {{p|Tethys}} Sea; the warm
 And shallow waters of its growing tide
 Fed new corals, new fish, the reborn swarm
