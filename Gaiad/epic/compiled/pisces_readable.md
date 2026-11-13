@@ -85,8 +85,8 @@ And strange, the clans of Thalattos would creep
 
 Along the shallow coast with bent-down snout
 And crushing teeth for shellfish on the floor—
-A group whose place in Sauros' tree throughout
-The ages would remain unclear—no more
+A group of Sauros' house, a branch without
+Long issue in the ages—and no more
 
 Than brief {{x|Triassic}} test, a passing style
 In strange-faced, shallow-water coastal role—
@@ -1027,7 +1027,7 @@ Then you go right—between us and between
 The prey, the route of escape narrows—deft
 
 And terrible in its efficient skill.
-And Coelos left his evidence in stone:
+And Coelos left his kin entombed in stone:
 At what our later maps call {{p|Ghost Ranch}}, still
 Lies buried there a mass of fossil bone
 
@@ -1762,7 +1762,7 @@ Below with ease.
 
                        They rose to breathe the air—
 Lungs, and not gills, their amniote bequest—
-And may have borne their young alive: the rare
+And bore their young alive, and so the rare
 Final dance of sea-adaptation's quest,
 
 The land abandoned.
@@ -2045,8 +2045,8 @@ His imprint, which the fine-grained limestones lend
 
 Of {{p|Solnhofen}}'s lagoon, where the lime-mud
 Preserved his feathers' every barb and shaft
-In the most famous fossil of the flood
-Of deep time's evidence—the ancient craft
+In the most famous image of the flood
+Of deep time's long ages—the ancient craft
 
 Of evolution's transformation, caught:
 A dinosaur becoming bird.

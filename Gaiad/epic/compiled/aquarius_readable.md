@@ -389,7 +389,7 @@ In service to their own appointed sight.
 Taphrin lived small and plain through sun and rain
 As yeast within the plants, following dreams,
 He grew in form through calm and stormy strain,
-And when he doubled size, then split, it seems,
+And when he doubled size, then split at seams,
 
 In half to make two lives for wisdom's sake,
 In adulthood he'd build with patient care
@@ -3102,9 +3102,9 @@ From shallow reef to deep abyssal floor,
 His children filled each niche and every strike
 Of evolution's fortune opened more—
 
-So many forms that those who study stone
-Cannot untangle who begat whom next:
-The tree of Ammonos remains unknown
+So many forms, each coiled in its own stone,
+And each begat a stranger, and the next;
+The tree of Ammonos spread wide, full-grown,
 In all its branching—tangled, rich, and vexed.
 
 Yet all of them were taken in the end:

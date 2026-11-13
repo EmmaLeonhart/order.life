@@ -7847,7 +7847,7 @@ Through all our daily mouth-rite: he alone
 Gives healthy teeth, and gives us healthy gums.
 
 This rite involves a practice that we do,
-And though it seems so strange to some of us,
+A holy rite, and handed down to us,
 It keeps our teeth attractive, bright, and new;
 We do it to the end, and without fuss.
 
@@ -8086,7 +8086,7 @@ From out of ancient dental, careful art,
 The way in which our great traditions grow,
 To come and play at last the healing part.
 
-And though it may seem strange to outside eyes,
+And through the ages, under all the skies,
 The dental rites are ones that we will keep,
 A sacred bond, which all of them comprise,
 With all our ancestors, so far, so deep.
@@ -8607,7 +8607,7 @@ With courage as their guide, and go their way
 Across the waters wide, from shore to shore,
 And swim the open waters night and day.
 
-Among his sons, it seems, there could be found
+Among his sons, in time, there could be found
 The seed shrimp, who were safe; but some gave way,
 Degenerate tongue worms, who were not sound,
 Who broke from all the norms and went astray.
@@ -15063,7 +15063,7 @@ In service to their own appointed sight.
 Taphrin lived small and plain through sun and rain
 As yeast within the plants, following dreams,
 He grew in form through calm and stormy strain,
-And when he doubled size, then split, it seems,
+And when he doubled size, then split at seams,
 
 In half to make two lives for wisdom's sake,
 In adulthood he'd build with patient care
@@ -17776,9 +17776,9 @@ From shallow reef to deep abyssal floor,
 His children filled each niche and every strike
 Of evolution's fortune opened more—
 
-So many forms that those who study stone
-Cannot untangle who begat whom next:
-The tree of Ammonos remains unknown
+So many forms, each coiled in its own stone,
+And each begat a stranger, and the next;
+The tree of Ammonos spread wide, full-grown,
 In all its branching—tangled, rich, and vexed.
 
 Yet all of them were taken in the end:
@@ -19912,8 +19912,8 @@ And strange, the clans of Thalattos would creep
 
 Along the shallow coast with bent-down snout
 And crushing teeth for shellfish on the floor—
-A group whose place in Sauros' tree throughout
-The ages would remain unclear—no more
+A group of Sauros' house, a branch without
+Long issue in the ages—and no more
 
 Than brief {{x|Triassic}} test, a passing style
 In strange-faced, shallow-water coastal role—
@@ -20854,7 +20854,7 @@ Then you go right—between us and between
 The prey, the route of escape narrows—deft
 
 And terrible in its efficient skill.
-And Coelos left his evidence in stone:
+And Coelos left his kin entombed in stone:
 At what our later maps call {{p|Ghost Ranch}}, still
 Lies buried there a mass of fossil bone
 
@@ -21589,7 +21589,7 @@ Below with ease.
 
                        They rose to breathe the air—
 Lungs, and not gills, their amniote bequest—
-And may have borne their young alive: the rare
+And bore their young alive, and so the rare
 Final dance of sea-adaptation's quest,
 
 The land abandoned.
@@ -21872,8 +21872,8 @@ His imprint, which the fine-grained limestones lend
 
 Of {{p|Solnhofen}}'s lagoon, where the lime-mud
 Preserved his feathers' every barb and shaft
-In the most famous fossil of the flood
-Of deep time's evidence—the ancient craft
+In the most famous image of the flood
+Of deep time's long ages—the ancient craft
 
 Of evolution's transformation, caught:
 A dinosaur becoming bird.
@@ -24596,8 +24596,8 @@ Acoustic ocean; males composed the song
 Through all the breeding season, the long lay,
 Revised each year, no two the same for long;
 
-The reason for the changes, all this time,
-Unknown; but beauty, undeniably:
+The songs were changed for beauty all this time,
+For wonder; beauty, undeniably:
 The ocean filled with music, the sublime,
 The largest animals, the steady plea,
 
@@ -25236,7 +25236,7 @@ Of living architects: the largest brain,
 Proportioned to the body, the great height
 That primates had achieved. And tools: the chain
 
-Of evidence a non-human conceived
+Of craft, by which a non-human conceived
 The world as material to be shaped:
 The chimpanzee's own forebear, who achieved,
 Picking a stone, a stick; a leaf he draped
