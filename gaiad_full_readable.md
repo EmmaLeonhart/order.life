@@ -40587,95 +40587,100 @@ One root below, beneath the walls of men.
 
 # Chapter 259: The Register of Every Soul
 
-Until now the dead were mostly nameless.
+Till now the dead were mostly without name;
 The kings were written, and the saints, and those
-Who gave land to a monastery, and the blameless
-And the guilty in the courts. The rest: the rows
+Who gave a monastery land; the blame
+And innocence of courts; the rest, the rows
 
-Of fields, the children born and buried in a winter,
-The marriages at the church door, the plague years,
-Went into memory and out of it. A splinter
-Of a name on a grave. A song. The sum of tears
+Of fields, the children born and buried, snow,
+The weddings at the church door, years of plague,
+Went into memory and out; and so
+A splinter on a grave; a song; the vague
 
-Without a column. Then, in September 1538,
-In {{p|England}}, Thomas Cromwell, the king's vicar-general,
-A blacksmith's son who had made himself the weight
-Behind the throne of Henry, sent an order, general
+Sum of the tears, without a column. Then,
+September, fifteen thirty-eight, the word
+Of Thomas Cromwell, {{p|England}}'s vicar, when
+A blacksmith's son, whose voice King Henry heard,
 
-To every parish: keep a book. Write in it
-Every christening, every wedding, every burial,
-Every Sunday, in the presence of a churchwarden. Fit
-The book in a coffer with two locks. The material
+Went out to all the parishes: a book;
+Write christenings, the weddings, and the dead,
+On Sundays, with a churchwarden to look;
+A coffer with two locks. The people said,
 
-Of a people, written. And the people were afraid.
-They said: it is for a new tax. They said: the king
-Will charge us for our children. Through the {{p|West Country}} it was said
-For a year, and men were ready to rise. It was not a tax. The thing
+Afraid: a tax! The king will charge for sons!
+Through the {{p|West Country}}, men prepared to rise;
+It was no tax. Worse, better: it outruns
+The old wife of the village when she dies:
 
-Was worse and better: it was a memory that did not die
-With the old woman of the village. A record
-That outlasted the parish clerk, the priest, the sky
-Of that year. Not every parish obeyed. The word
+A record that outlasts the clerk, the priest,
+The sky of that year. Some would not obey;
+The rule; but fines, the bishops, and, at least,
+The slow habit of Sundays; and one day,
 
-Was enforced by fines, by bishops, by the slow
-Habit of Sundays. In 1598 they were told
-To copy the old paper into parchment books, and so
-Many {{x|English}} registers begin with the year of the old
+In fifteen ninety-eight, the old was told
+To copy onto parchment books; so, clean,
+Most {{x|English}} registers begin, of old,
+At fifty-eight, the crowning of the Queen.
 
-Queen's crowning, 1558, in a clean hand.
-And across the water, at {{p|Trent}}, in the mountains of the {{p|Tyrol}},
-The {{x|Catholic Church}}, answering Luther, in its stand
-Against the Reformers, decided at its twenty-fourth session, the whole
+At {{p|Trent}}, in the {{p|Tyrol}}, across the sea,
+The {{x|Catholic Church}}, to answer Luther's stand
+Against Reformers, ruled, in the decree
+Of session twenty-four, that all the land
 
-Of Christendom that kept the old faith must register
+Of Christendom that kept the old faith write
 Its marriages, with witnesses, by name,
-And its baptisms, with the godparents. No minister
-Could marry a couple secretly anymore. The same
+Its baptisms, godparents; and no rite
+Of marriage secret any more; the same
 
-Book, the same page, from {{p|Lisbon}} to {{p|Kraków}}, to {{p|Lima}}, to {{p|Goa}}.
-In 1614 the {{x|Roman Ritual}} added the dead,
-And the Book of the State of Souls: every household, who
-Lived in it, who had made their {{x|Easter}} confession. The thread
+Book, the same page, {{p|Lisbon}} to {{p|Lima}}'s shore,
+{{x|Roman Ritual}}, sixteen-fourteen, wrote
+The dead in too; to {{p|Kraków}}, {{p|Goa}}; more:
+Book of the State of Souls, each household's note:
 
-Of the register ran out into every village of the {{x|Catholic}} world.
-And the Lutherans took it up, and in the {{p|North}}
-It became the most thorough of all. In {{p|Sweden}}, unfurled
-In the {{x|Church Law}} of 1686, the priest went forth
+Who lived there, who'd confessed; and so, begun,
+The thread ran through each village of that world;
+Lutherans took it up; the north had won
+The most thorough: {{p|Sweden}}'s {{x|Church Law}} unfurled
 
-House by house each year with the roll of the household examination,
-Who could read, who knew the catechism, who had moved,
-Who was born, who married, who died. A nation
-Written down to the last cottar. And this is proved
+In sixteen eighty-six; the priest went out
+Each year, from house to house, with the whole roll,
+Who read, knew catechism, and about
+Who'd moved, been born, been wed, or died; each soul
 
-In this book's own blood. The ancestors of the writer of this scripture
-Have a year and nothing else, a guess, until the parish
-Begins to write. Then: *Per Olofsson, born the fourth of April, 1696*.
-A day. A real day, kept in a {{x|Swedish}} church. The varnish
+Written to the last cottar, a whole land;
+And this book's own blood shows it: for the line
+Of her who writes: a year, a guess; the hand
+Of parish starts; and then a day, a sign:
 
-Of the old guesses comes off, and the people underneath
-Have birthdays. That is what the register gave:
-Not the kings. The kings had always had their wreath
-Of dates. The register gave the cottar, the herdsman, the slave,
+Per Olofsson, born April's fourth day, kept
+In sixteen ninety-six, in {{x|Swedish}} lines
+Within a church. The varnish of what slept
+In guesses peels; the people's birthday signs.
 
-The midwife, the drowned child, the girl who married at nineteen,
-A day of their own. It is the democracy of the dead.
-And the state learned to read it. What the church had seen
-For the sake of souls, the state would read instead
+That is the register's gift: not the kings,
+Who always had their wreath of dates; it gave
+The cottar and the herdsman, the small things,
+The midwife, the drowned child, the girl, the slave,
 
-For soldiers and taxes and, in the worst years, for blood.
-A register that can find every Christian can find every Jew.
-Hold that. The same book. And the Mormons, in the flood
-Of the twentieth century, would come to photograph them, through
+The bride at nineteen: each a day their own;
+The democracy of the dead. And read
+By the state, what the church for souls had known
+Was read for soldiers, taxes, and for need:
 
-Every archive in the world, the parish books of {{p|Europe}},
-Microfilm in a mountain in {{p|Utah}}, to baptize the dead.
-And from those films, the tree. And from the tree, the scope
-Of a family reaching back to Qarin and the kings it is said
+A book that finds each Christian finds each Jew;
+Hold that: the same book. And the Mormons now
+Have filmed the parish books, the archives through,
+In {{p|Utah}}'s mountain, to baptize; and how
 
-To come from. All of it rests on a clerk on a Sunday,
-In a cold church, with a quill, writing a name.
-Honor him. He did not know what he was making. One day
-Someone would read his hand, and say: there, that is where I came.
+From films, the tree; and from the tree, the scope
+Of one house reaching back to Qarin, kings
+It comes from; all of it rests, as a rope,
+On a clerk, Sunday, in a cold church; things
+
+Written with quill: a name. Honor him: he
+Did not know what he made; and yet one day
+Someone would read his hand, and say: "I see
+There where I came from," and would kneel, and pray.
 
 
 # Chapter 260: The Earth Leaves the Centre
