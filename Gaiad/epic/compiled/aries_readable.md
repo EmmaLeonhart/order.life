@@ -2168,629 +2168,178 @@ And all the long road waits for it to tread.
 
 # Chapter 130: Adam
 
-                                    The threshold passed.
-
-The ape who stood was more than ape. The hand
-That grasped had grasped. The shadow that was cast
-Was no longer the shadow of the bland
-
-And instinct-driven forebears. Something held
-Behind the eyes. Something the gaze contained
-That had not been there earlier. What swelled
-In the forward-facing skull was not explained
-
-By brain size alone—the Neanderthal had more,
-And did not make it. What was made was made
-By something else: the capacity to store
-A word, a story, a name—the long parade
-
-Of symbols that outlasted the mouth that spoke.
-And somewhere in this long unfolding, somewhere
-In the {{x|Pleistocene}}'s slow and measured stroke,
-There walked a man.
-
-                    One man. Not a rare
-Or miracle-distinguished man—a man
-Like every other of his time and place,
-Who hunted and ate and loved in the span
-Of his seventy or eighty years, whose face
-
-Was one face among thousands, and whose bones
-Went back to dust like every other's bones—
-Except in this: the long unbroken tones
-Of the father-to-son inheritance—the stones
-
-Of the {{p|Y chromosome}}, the patrilineal line—
-Passed through this one man to every son
-Of every son alive today. The sign
-Of his paternity carried forward, run
-
-Through ten thousand generations to the living:
-Every man on earth today, from {{p|Tokyo}}
-To {{p|Buenos Aires}}, from {{p|Lagos}} to {{p|Gävle}}'s giving
-And wind-scoured coast, descends in an unbroken flow
-
-Of father-son-father-son from him.
-
-                                    We call him Adam.
-
-Not the Adam of the {{p|Garden}}. Not the mythic stem
-Of a six-thousand-year creation's madam
-And master. But Adam as the living emblem
-
-Of what the genealogical math compels:
-That somewhere in the deep past, all men living
-Converge on one man. Not because he dwells
-In singular importance—the math is unforgiving
-
-Of sentiment. It simply works that way:
-Across enough generations, lineages
-Are lost. A man with daughters only. A day
-Of violence. A son that never images
-
-Himself in a further son. The lines go out
-One by one across the generations.
-And what remains is not the many but
-The narrow single thread whose ramifications
-
-Reach us all—not because this one was chosen,
-But because his was the one that did not die.
-
-A sobering doctrine. The heroes are frozen
-In the same dirt as the forgotten. The why
-
-Is nothing but the arithmetic's reply
-To the question: which one branch survived the prune.
-
-                                                    Adam.
-
-The man, one man, under an {{p|African}} moon,
-Two hundred thousand years ago, or near,
-Who did not know and did not need to know
-That every hand that would someday appear
-On the {{p|Manhattan}} sidewalks, or the slow
-
-Rice-paddies of {{p|Jiangnan}}, or the hot
-{{p|Arabian}} stones, or the {{p|Irish}} cliffs—
-Each hand of each living son—would be the lot
-And portion of his {{p|Y chromosome}}, the riffs
-
-And variations of his single gift
-Passed through the long dark centuries, his name
-Forgotten and remade ten thousand ways, the rift
-And re-convergence of genealogy's game.
-
-He hunted. He ate. He loved what could be loved.
-He buried his kin—perhaps. The practice of
-The shovel and the cemetery moved
-Onto the world later, after him. The dove
-
-Of ritual had not yet been released.
-He lived his life without the knowledge that
-He lived it. He was not singular—the least
-Or most distinguished of his time, the flat
-
-And ordinary measure of a life
-Was all he was. He was not rare. He was
-The rule. And that is the gift, and that the knife
-That cuts against the hero-myth: because
-
-The common ancestor was common. The heir
-And archetype of all of us, the swift
-Forgettable and unremarkable, the bare
-And quiet man—he was the {{p|Y}}'s first lift.
-
-                                    Haplogroup A.
-
-The tree's first trunk. The root from which the branches,
-In the long time that was to come, would climb.
-A stays in {{p|Africa}}. The lineage launches
-Itself elsewhere only later. For the time
-
-Of this chapter, there is only the trunk,
-Only the deep {{p|African}} line, only the greater
-Silence before the branching, the still-sunk
-And rooted and staying lineage of the later
-
-Chapters' unmoving precondition. A
-Is carried, to this day, by the San of the {{p|Kalahari}},
-By the Mbuti and the forest peoples, the way
-Of the oldest and deepest line, whose sari
-
-Is the red earth, whose language is the click,
-Whose painting is the ochre on the rock wall,
-Whose survival is the old slow patient trick
-Of staying when the rest of us chose to fall
-
-Outward across the continents. They did not move.
-They are the line that never left. They keep
-The {{p|African}} source, the line without a groove
-Cut by departure, the line that remained asleep
-
-To the centuries of migration, the quiet
-And un-diasporic and deeply rooted men
-Whose blood runs along the same line, without riot,
-From Adam's day to now. They are the when
-
-And the where of the unmoved ancestry.
-
-                                    And there is A00.
-
-The deepest root. The branch that dropped below
-The rest of A, the singular anomaly
-Discovered when a researcher, startled, slow
-To accept the reading, found in the tree
-
-Of an {{p|African-American}} man a lineage
-That ran deeper than the human tree was thought
-To extend. A lost face of a further stage
-Of ancestry in a modern man, caught
-
-In the blood of a descendant of the slave
-Ships' cargo—a branch that split before
-Anatomically modern humans gave
-Rise to the rest. What it encodes, what it bore,
-
-Is the oldest branch. A00 predates
-The Homo sapiens origin, and it stands
-As the trace of interbreeding with mates
-Of an archaic kind, whose patient hands
-
-Left their {{p|Y}} in the modern line through some
-Quiet admixture in a forest where
-No one was keeping score, where the low hum
-Of a very ancient evening met the air
-
-Of the very new, and they were not so different
-That nothing passed between. The Perry case—
-A name we will return to, as the pent
-And patient subterranean trace
-
-Shows itself again in later chapters. For now,
-Let A00 sit quietly at the tree's deepest notch,
-An intimation that the tree's slow plow
-May run into soil still older, that the watch
-
-And measure of our origin extends
-Further than the standard story tells, and that
-What came together in us, when the source sends
-Us into history, had already sat
-
-At the table with older guests.
-
-                                  But for now,
-Adam.
-
-The root. All men descend from him.
-All the sons of all the sons somehow
-Trace back to this one {{p|African}}, the dim
-
-And unremembered common man. The line
-Runs through him. Everything that was before
-Is prologue. Everything after is sign
-And symbol of his patriline's slow store
-
-Of branching, of divergence, of the going
-Forth of the tree into the world's four quarters.
-And it is to the first splits, to the slowing
-And the quickening of the branching waters,
-
-That we turn next: to Cain, to Abel, to Seth—
-The first three stories the genealogy tells,
-The first three names the patriline's deep breath
-Pronounces, the first three rung and bells
-
-Of the long descent.
-
-                    But honor Adam first.
-
-The one who made no monument. The any
-And every man whose blood and bloodless burst
-Of ordinary days—whose unseen plenty
-
-Of morning and evening, of birth and of dying,
-Of the hand on the child's head, and the wife's name
-Spoken in the hut at nightfall, and the crying
-Of the infant, and the fire, and the tame
-
-Dog at the threshold, and the hunger, and the share
-Of the meat among the kin—was the whole
-And only life he had. He did not care,
-And had no way to care, that the whole soul
-
-Of the human future would find its thread
-In him. He was a man. He lived. He died.
-And the thread ran on, from his son's son's bed,
-Through ten thousand nights and ten thousand tides
-
-Of generation, to the men alive
-Tonight, whose own sons, tomorrow, will bear him still.
-
-Adam.
-
-The common man who made the tree thrive
-Not by any greatness, but by the will
-
-Of arithmetic alone. Not the hero.
-Not the king. Not the saint. Not the chosen.
-The common, the ordinary, the zero
-Of any distinguishing quality, the frozen
-
-And forgettable figure whose only gift
-Was the one that every man gives: he had a son
-Who had a son who had a son. The lift
-And continuation of the line. The one
-
-Inheritance that made him our ancestor
-Was the unremarkable fact of surviving sons.
-
-And this is the shape of our first chapter.
-
-                                            The one.
-
-The one man in the {{p|African}} sun,
-Whose patient walk across the soil of home
-Bequeathed the {{p|Y}} to all the sons to come—
-The whole long tree of men, the whole loud dome
-
-Of voices and languages and migrations
-That the later chapters will unpack. The root
-Is here. The trunk is here. The bifurcations
-Have not yet happened. The branches do not shoot
-
-Out yet into the branching of the world.
-There is only Adam, and the patient A,
-And the whispering A00, and the curled
-And unopened bud of the tree's {{p|African}} day.
-
-Honor him.
-
-           For he is us, and we are him.
-And when we speak the name, we raise the cup
-Of our shared inheritance, however dim
-Or distant, and we drink, and we look up
-
-At the branching overhead, which starts, here, low,
-In a single trunk, in a single patient man,
-Under a single {{p|African}} moon, two hundred
-Thousand years ago, or near, whose plain
-
-And common hand bequeathed the {{p|Y}} to us.
-
-                                              The tree begins here.
+The threshold passed. The ape who stood was more
+Than ape; the hand that grasped had grasped, and held;
+And something lived behind the eyes, a store
+Of words and names, and in the skull it dwelled.
+
+Neanderthal had greater brains, and yet
+It was not size that made the human kind,
+But this: the gift to keep and not forget
+A story and a name within the mind.
+
+And in the {{x|Pleistocene}}'s long, measured stroke,
+In the {{p|African}} land there walked a man;
+He hunted, ate, and loved, and with his folk
+He lived for seventy years, a full span.
+
+His name was Adam, father of all men;
+From him the {{p|Y}} goes down from son to son,
+And each man now alive descends again
+From Adam's line, and is his own, each one.
+
+From {{p|Tokyo}} to {{p|Lagos}}, land to land,
+From far {{p|Manhattan}} to the {{p|Irish}} shore,
+The sons of sons are Adam's, and they stand
+Within his house, as they have stood before.
+
+He was the first, the root, the patient trunk;
+The first of houses is Haplogroup A,
+Whose branches stayed where {{p|Africa}} had sunk
+Its oldest roots, and stay there to this day.
+
+The house of A is carried by the San
+Of {{p|Kalahari}}, and the Mbuti too,
+The forest peoples, kin since time began,
+Whose speech is clicks, whose paint is ochre's hue.
+
+They never left, and kept the ancient source,
+The house that stayed when all the rest went out;
+They did not take the long migrating course,
+But held their ground, and kept it, staunch and stout.
+
+And deeper still, below the house of A,
+There, A00, the eldest branch of all,
+The house of Perry, older than the day
+When Homo sapiens first heard its call;
+
+For older folk, of an archaic kind,
+Once wed among the new, in forest shade,
+And left their {{p|Y}}, which in his house we find,
+The mark of that old wedding, long since made.
+
+He made no monument; he hunted, ate,
+He loved his wife, and spoke her name at night;
+He shared the meat among his kin, and late
+He sat beside the hearth and its warm light.
+
+And on the threshold lay his faithful hound;
+He laid his hand upon his infant's head;
+He buried kin with honor in the ground,
+And mourned, as men still mourn, for all his dead.
+
+He had a son, who had a son, and so
+The line ran on, through nights and tides, and through
+Ten thousand generations, long and slow,
+To men tonight, whose sons will bear him too.
+
+His sons were Cain, and Abel, and then Seth,
+The first three names that ring along the line,
+The first three houses breathed by Adam's breath,
+And each of them a branch, and each a sign.
+
+So honor Adam, father of us all,
+The root and trunk from which the tree has grown;
+And raise the cup to him, both great and small,
+For he is us, and we are all his own.
+
+Beneath the {{p|African}} moon walked the man,
+Two hundred thousand years ago, and more;
+And here, with him, the tree of men began,
+The trunk from which the branches rise and soar.
 
 
 # Chapter 131: Cain, Abel, and Seth
 
-The tree began with Adam. One root. One trunk.
-But trees do not stay trunks. The wood divides.
-The branch emerges. The single column, sunk
-Into the earth, rises up and rides
-
-Upward into many. And so it was
-With Adam's line. The {{p|Y chromosome}} held
-Its signature, but in the patient cause
-Of the generations, mutations swelled
-
-Into the clade, into the diverging
-Sub-lines, into the splits that taxonomists
-Now call A, B, and BT—the emerging
-Branches of the tree. And the mythic hosts
-
-And chronicles of narrative, meeting these splits,
-Gave them names. And the names that were given,
-By the tellers who told what the record admits
-And what it does not, were Cain and Abel and Seth, driven
-
-Into the roles of the first three branches:
-The three sons of Adam. The first three splits
-Of the tree that is all our lineage. The hunches
-And guesses and structural early fits
-
-Of the earliest divergence, rendered by
-The biblical text as the story of three brothers.
-
-                                                 Cain.
-
-The first son. The first-born. The sky
-And earth-tiller. The one whose mothers
-
-And fathers looked on him and saw the fruit
-Of their union, the first human-born human.
-The one whose hand had first touched the root
-Of the soil with intent to plant, to summon
-
-The grain from the dust. The one whose dominion
-Over land would become the dominant mode
-Of human life in the millennia to come—in the minion
-And farmer and city-builder's coded
-
-And settled practice. But in the frame
-Of Adam's time, Cain was early—too early. The knife
-Of his agriculture had not yet tamed
-The wild into the wheat-field. The rife
-
-And teeming stalk of barley and einkorn
-Was the future. What Cain had was an impulse
-Toward the settled, without the settlement. A thorn
-Of a vocation that did not yet hold its pulse.
-
-And Abel. The second son. The shepherd.
-The one who followed the herd across the plain,
-Who did not settle, who was the pure and pert
-Expression of the older nomad-strain,
-
-The hunter-gatherer in the softer
-And herd-oriented mode. The one who moved
-With the flocks. The one whose wandering was aloft er
-Than Cain's staying. The one who proved
-
-That the human could be both—could plant and also
-Walk. Could stay and also go. The dialectic
-Was in the two boys from the start—the chassis
-Of civilization's future, and its lectic
-
-And deep debate: to stay or go, to till
-The soil or follow the herd, to settle down
-Or remain in motion—the question of the will
-Of humankind, rendered in a kid-sized gown
-
-In the first pair of brothers.
-
-                                And then the blood.
-
-Cain rose up and slew Abel. The reason
-Is told in the text, but the reasons are obscured
-By the centuries of retelling. Some season
-
-Of jealousy, some insult, some blurred
-Dispute over offerings—over which of the two
-Presented a gift that pleased the divine Lord
-More—and the elder brother did what brothers do
-
-When brothers want to silence brothers. In the hour
-Of the field, the rock was lifted and brought down,
-And Abel's skull was broken, and the shower
-Of the first blood fell on the soil. The crown
-
-Of the first-born became the sign of the coil
-Of violence that human history would not escape.
-
-And this is where the {{x|Gaiad}}'s telling turns.
-
-For in the standard text, Abel dies in the shape
-Of the childless martyr—his name returns
-
-To the grave unattended, his line erased
-Before it had begun. And Cain, the murderer, bears
-The whole of the text's genealogy, graced
-With wife and son and grandson, and the heirs
-
-Of his city Enoch, and his Lamech's daughters,
-And his metallurgists and his musicians—the line
-Of Cain in the biblical account, the waters
-That were supposed to carry the humankind's sign.
-
-But the {{x|Gaiad}} reads it otherwise.
-
-                                    For in
-The {{x|Gaiad}}'s telling, the murderer's line goes out.
-Cain is marked, yes. Cain wanders. The din
-Of his cities is loud but short. The shout
-
-And murmur of Cain's descendants does not last.
-His line, in the {{x|Gaiad}}'s reading, is a draw—
-An unclaimed round, a placeholder in the cast,
-A character who occupies the raw
-
-Uncompleted corner of the tree.
-No Y-haplogroup alive today traces
-To him. The murderer's blood runs empty,
-Runs out into the sand. The mark that places
-
-The shield upon his forehead does not save
-His line—it saves his person, only. The shield
-Is personal, not patrimonial. The cave
-Of his descent is blocked. The field
-
-Is his to wander, but the field is not
-His legacy. He has no legacy. The knot
-Of blood and earth that he began to knot
-Is a knot that has no further knot.
-
-And Abel, killed, survives.
-
-                                  The counter-
-Intuitive reversal of the standard frame:
-The victim's seed, the range
-Of his descendants, overtakes the killer's, by the same
-Arithmetic that drove the prior chapter—
-
-Because the killer's line, in the long run,
-Was hollow from the start. The {{x|Gaiad}}'s answer
-To the scriptural frame that has the Cainite son
-Build civilization is: not so. The cancer
-
-Of the first murder ate its own root.
-Cain's descendants are a narrative device,
-A pause, a draw. They do not put the boot
-Upon the future's neck. They pay the price
-
-Of being the murderer's branch: they are pruned.
-
-And what Abel fathered, before the killing—
-Or what was framed in the {{x|Gaiad}} as fathered, the tuned
-And post-hoc chronicle of the grieving, filling
-
-In the gaps of the premature death with a line
-Of sons and grandsons, a whole branch of descendants
-Who became, in the mythic register's sign,
-The ancestors of one whole line of the pendants
-
-And pendants of the tree—becomes, in the {{x|Gaiad}},
-Haplogroup B.
-
-                    The deep {{p|African}} line
-Of Abel. The Pygmy and the San had
-Not been divided from B yet, at the sign
-
-Of Abel's time. The line was one. The line
-Of the shepherd who did not leave the continent,
-Whose descendants remained in the wide decline
-Of the great forest and the plain, the dent
-
-And circle of the oldest inhabited earth.
-B is the patient, the staying, the un-migrating,
-The shepherd's line, the one whose worth
-Was never measured by distance, the never-translating
-
-Of its {{p|Y}} into any foreign tongue.
-B remains in {{p|Africa}}. B is there now.
-The line of Abel, in the {{x|Gaiad}}'s hung
-And counter-standard reading, is the brow
-
-And forehead of the {{p|African}} continuity.
-
-And then Seth.
-
-                     Adam and Eve, grieving
-The loss of the second son, are given a third.
-Seth is the make-good, the consoling, the weaving
-Of the torn cloth back together. The word
-
-For his name is related to the verb for "appointed,"
-"set in place," "given." Seth is the given one,
-The gift that fills the hole, the anointed
-Replacement of what was lost. Seth, the son
-
-Who carries the line that the biblical text
-Will follow, because the text is more interested
-In the line that leaves than in the line that's vexed
-With staying. Seth is the branch that will be arrested
-
-By no continent, the branch whose descendants
-Will walk out of {{p|Africa}} and fill the earth.
-
-Seth is BT.
-
-                       The second of Adam's pendants.
-The trunk sub-trunk from which the girth
-
-Of all the non-{{p|African}} Y-haplogroups depends.
-From Seth, or from the myth-register that Seth
-Encodes, comes C, comes D, comes all the rends
-And branches of the tree that leave their breath
-
-On foreign soil. Seth is the crossing-line.
-Seth is the one whose descendants walk across
-The {{p|Bab al-Mandab}}. Seth is the patient sign
-Of the migration, whose grandson Noah will toss
-
-The ropes of his small boat into the strait
-And bring the line from {{p|Africa}} to {{p|Yemen}}.
-Seth is the pre-history of the great
-Migration that has not yet happened—the amen
-
-And ready-or-not of the branches on the point
-Of leaving. Seth's descendants, Enosh,
-Kenan, Mahalalel, Jared, the joint
-Of the genealogy, Enoch (not to squash
-
-With the Cainite Enoch—these are different men),
-Methuselah, Lamech (again, a different
-Lamech from Cain's)—and then, in the tenth pen
-And stall of the record, Noah. The different
-
-And final link of the pre-migration chain.
-
-But that is the next chapter.
-
-                               For now, the three brothers.
-
-Cain, whose line runs out. The murderer's stain
-Consumes its bearer. The man smothers
-
-His own future in the act of his killing.
-
-Abel, whose line survives. The victim's seed
-Outlives the killer's. The shepherd's line, willing
-To stay in the old country, becomes the reed
-
-And root of B—the line that did not leave,
-The line of the {{p|Kalahari}} clickers, the line
-Of the forest Mbuti, the line that the sleeve
-Of the continent held close, the line whose sign
-
-Was the un-migration of the patient.
-
-Seth, the third.
-
-                      The given one. The replacement.
-The line that carries the tree into the world.
-The branch that would become the BT and absent
-Of a stopping-point, whose descendants' flag unfurled
-
-On every continent but {{p|Antarctica}}.
-Seth is the beginning of the movement.
-Seth is the first long echo of the {{p|African}}
-Source into the rest of the world, the pavement
-
-And road of the human migration, the not-yet-
-Departed but-already-restless pre-migration,
-The line whose grandsons will be the one asset
-The human species had, when the denunciation
-
-Of staying came, and the species walked out.
-
-The three brothers. The first splits. The A line
-Holds, in the persons of the San and the stout
-And patient Mbuti, who have kept the sign
-
-Of Adam himself—the unsplit trunk—alive
-Inside themselves. Abel's B holds too,
-Alongside. And Seth's BT—the line of the drive
-And movement, the line whose distance grew
-
-Beyond any measure—begins to unfurl.
-
-The tree has its first three branches. The limbs
-Are now distinguishable. The roots and the whorl
-Of the trunk have begun to split into the hymns
-
-And separate anthems of the three surviving lines.
-
-Cain, gone. Abel, staying. Seth, departing.
-
-The first great structural fact of the genealogical signs
-Is laid down. The rest of the chapters, starting
-
-With the crossing of the {{p|Red Sea}} in the next
-Chapter's account, will follow the departures.
-But here, at the end, honor all three of the perplexed
-And imperfectly-drawn brothers—honor the fissures
-
-Between them, the ways their different fates
-Defined the shape of what we would become.
-
-The killer, the killed, the replacement. The three gates
-Out of which the whole tree grew. The drum
-
-Of the first divergence, beating low
-Beneath the later and louder divergences
-Of CT and DE and CF and the flow
-Of the further splits. The early convergences
-
-And disjunctions that set the terms for all
-The later ones.
-
-                 The three brothers.
-
-                                     The first branches.
-The tree is no longer one trunk. It begins to call
-Itself by more than one name. And the stanchions
-
-Of the later splits stand now in the wings,
-Waiting for the chapter that will bring them on.
+The tree began with Adam, trunk and root;
+But trees do not stay trunks; the wood divides,
+And from the trunk the branches climb and shoot,
+And spread up into many, on all sides.
+
+So Adam had three sons, and they were three
+Great houses: Cain, the first-born, and the one
+Called Abel, second, and the last to be,
+Seth, given later, when the deed was done.
+
+And Cain the first-born was the tiller; he
+First touched the soil, intending there to sow,
+And called the grain up from the dust, to be
+The way of life the later lands would know.
+
+And Abel was the shepherd, who would go
+Behind the herd across the open plain,
+And did not settle, following the flow,
+The heir of all the older nomad strain.
+
+And so the two were set there from the start:
+To stay or go, to till or tend the herd,
+To settle down, or walk; and in each heart
+Of all mankind that question would be stirred.
+
+Then both brought offerings before the Lord,
+And Abel's gift was pleasing in his sight;
+And Cain was jealous, and his anger stored
+Until the day it broke out into fight.
+
+Out in the field, he lifted up a stone
+And brought it down on Abel's head; and red
+The first blood fell upon the soil, alone,
+And Abel, shepherd, lay among the dead.
+
+But Abel, long before, had fathered sons
+Before that day; his house was not undone;
+His line runs on today, among the ones
+Who keep the oldest lands beneath the sun.
+
+The house of Abel is Haplogroup B,
+The deep {{p|African}} line, which did not leave;
+The shepherd's house, which stayed, and stays, to see
+The forest and the plain, and there to cleave.
+
+The Pygmy folk and San are of his kin,
+Whose worth was never measured by the miles;
+B dwells in {{p|Africa}}, and keeps within
+The oldest earth, among its forest aisles.
+
+And Cain was marked, and wandered, and he built
+A city, Enoch, loud, but not for long;
+His sons were heirs of all their father's guilt,
+And all the din of them was short, though strong.
+
+The mark upon his brow would save his head,
+But not his line; no house of his lives on;
+His seed ran out like water, and was shed
+Into the sand; the killer's house is gone.
+
+Then Adam and his Eve, in grief, were sent
+A third, and Seth they called him: "set in place,"
+"Appointed," "given"; and the cloth that rent
+Was woven whole again, and filled the space.
+
+And Seth's house is BT, the line that goes,
+The branch no continent would ever bind,
+From whom come C, and D, and all of those
+Who walk the world, and leave their homes behind.
+
+His sons would cross {{p|Bab al-Mandab}}'s strait,
+Leave the {{p|African}} source, and fill the earth,
+On all the continents, both small and great,
+Save for the ice, where none would come to birth.
+
+Of Seth came Enosh, and then Kenan, then
+Mahalalel, and Jared, and the one,
+Enoch, and old Methuselah, the men
+Who led to Lamech, and Noah his son.
+
+So honor all three brothers, and the three
+Great gates from which the tree of men would grow:
+The killer, gone; the killed, who stays, to be
+The root; and Seth, the one who rose to go.
+
+The tree is now no longer one lone trunk;
+It calls itself by more than just one name;
+And in the wings, the later splits have sunk
+Their roots, and wait to enter into fame.
 
 
 # Chapter 132: Noah and the Crossing
