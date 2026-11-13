@@ -638,100 +638,110 @@ That set his words in type for common men.
 
 # Chapter 258: The Lawgiver's Register
 
-In the year Luther burned the pope's bull at {{p|Wittenberg}},
-In {{p|Istanbul}} a young man came to the throne of the world's
-Greatest empire, from the {{p|Nile}} to the {{p|Danube}},
-From {{p|Mecca}} to the {{p|Crimea}}. The flags unfurled
+The year that Luther burned the bull, there came
+In {{p|Istanbul}} a young man to the throne
+Of the great realm, from {{p|Nile}} to {{p|Danube}}'s frame,
+From {{p|Mecca}} to {{p|Crimea}}, all his own:
 
-For Suleiman, the tenth sultan of the house of Osman.
-{{p|Europe}} called him the Magnificent. His own people
-Called him Kanuni: the Lawgiver. Hold both names.
-The conqueror and the clerk. The minaret and the steeple
+Suleiman, tenth sultan of Osman's line;
+{{p|Europe}} named him Magnificent; his own
+Named him Kanuni, the Lawgiver: sign
+Of conqueror and clerk, by both names known;
 
-Under one crown. He took {{p|Belgrade}} in 1521,
-And {{p|Rhodes}} from the Knights of Saint John the year after,
-And let them sail away with honor. At {{p|Mohács}}
-In 1526 he broke the {{x|Hungarian}} army, and the laughter
+The minaret and steeple under one
+Crown. Then in fifteen twenty-one he took
+{{p|Belgrade}}; and {{p|Rhodes}}, the next year, he had won
+From the Knights of Saint John, with honor's look,
 
-Of the young king Louis ended in a stream
-Where he drowned in his armor, fleeing. Half of {{p|Hungary}}
-Became {{x|Ottoman}}. In 1529 he came to {{p|Vienna}}
-And the rains and the walls turned him back. The hungry
+Let sail away. And at {{p|Mohács}} he broke,
+In twenty-six, the {{x|Hungarian}} host;
+Young Louis, fleeing, drowned beneath the yoke
+Of his own armor in a stream; and most
 
-Janissaries went home. That was the high-water mark.
-Now the other face, the one the name Kanuni carries:
-The empire was a register. Every province, every village,
-Every household was written in the defter: who marries,
+Of {{p|Hungary}} turned {{x|Ottoman}}; he came,
+In twenty-nine, against {{p|Vienna}}'s wall;
+The rains and ramparts turned him back; the same
+Janissaries went home: the high tide's fall.
 
-Who farms which field, who owes what, and of what faith.
-The scribes went out and counted. The tax register,
-The tahrir, listed the Muslims and the Christians and the Jews,
-Each by name, each by community. The sinister
+The other face, the one Kanuni bears:
+The realm, a register: each village, field,
+Each household in the defter's lines: its heirs,
+Who weds, who farms, what's owed, and what they yield,
 
-And the generous are the same pen here. The non-Muslim paid
-The jizya, the head tax, and in return
-Was let alone to pray: the Orthodox under their patriarch
-In {{p|Istanbul}}, the Armenians under theirs, the concern
+And of what faith. The scribes went out to count;
+The tahrir named, the register of tax,
+Muslims, Christians, Jews, by name; the amount
+Each owed; one pen, both kindly and the axe;
 
-Of the Jews in the hands of their rabbis, each community
-Judging its own marriages and wills and quarrels
-By its own law, its own book, its own courts.
-Historians would later call it the millet system. The laurels
+The non-Muslim paid jizya, the head
+Tax, and was let to pray: the Orthodox
+Under patriarchs; Armenians, led
+By theirs; the Jews by rabbis; each its flocks,
 
-Are deserved and not deserved. It was not tolerance
-As a modern means it. It was order. It was a ledger.
-A man's religion was his legal address. You were born
-Into your millet, and the state was the keeper and the hedger
+Judging by its own law its wills, its wives,
+Its quarrels, by its book and courts. The pen
+Drew walls between the faiths; the one root thrives
+Beneath the walls, one root. It was not, then,
 
-Of the walls between them. You could not easily leave.
-But you could live. When {{p|Spain}} expelled its Jews in 1492,
-The sultan's father's father took them in, and in {{p|Thessaloniki}}
-They became the city's majority, and the printing presses grew,
+What tolerance means now: it was order,
+A faith, your legal address, born, to wear;
+A ledger; and the state the walls' warder
+Within; you could not leave, but could live there.
 
-And Doña Gracia, the banker, fleeing the {{x|Inquisition}},
-Came to {{p|Istanbul}}, and her nephew Joseph Nasi
-Became the sultan's friend, and later Duke of {{p|Naxos}},
-And leased {{p|Tiberias}} to rebuild it, a refuge, a fantasy
+When {{p|Spain}} expelled its Jews in ninety-two,
+The sultan's father's father took them in;
+{{p|Thessaloniki}}'s most, and presses grew;
+And Doña Gracia, the banker, came in
 
-Of return, three centuries early. And the other side:
-The devshirme, the levy of boys, the {{x|Christian}} sons
-Taken from the villages of the {{p|Balkans}}, converted,
-Trained, and made the sultan's slaves, the janissaries, the guns
+Fled {{x|Inquisition}} for {{p|Istanbul}}'s gate;
+Her nephew, Joseph Nasi, came to be
+The sultan's friend, then Duke of {{p|Naxos}}; great,
+He leased {{p|Tiberias}}, a refuge, free.
 
-Of the empire, some of them its viziers, its architects:
-Sinan, a levied boy from {{p|Anatolia}}, built the
-Süleymaniye on the hill above the {{p|Golden Horn}},
-The mosque that answers {{p|Hagia Sophia}}. The register gave and took. See
+And the other side: the devshirme, the toll
+Of boys, the {{x|Christian}} sons the {{p|Balkans}} bore,
+Converted, trained, the sultan's slaves, the whole
+Of janissaries, viziers, and more:
 
-Both. And in the harem, a captive from {{p|Ruthenia}},
-Hürrem, whom the {{p|West}} called Roxelana, freed and married,
-Against every custom of the house: a slave become a queen,
-And for her sons' sake, they said, the heir Mustafa strangled and buried,
+Sinan, {{p|Anatolia}}'s levied son,
+Built the Süleymaniye, high above
+{{p|Golden Horn}}; {{p|Hagia Sophia}}'s one
+Reply. The register gave, took; and love:
 
-In his father's tent, the father watching from behind a screen, the story says.
-The Lawgiver wrote the kanun beside the holy law,
-With Ebussuud, his jurist, making the two agree:
-Codes for land, for crime, for the army, for every flaw
+A captive from {{p|Ruthenia}}, then freed,
+Hürrem, Roxelana to the {{p|West}}, wed
+Against all custom, slave made queen; decreed,
+For her sons' sake, the heir Mustafa dead:
 
-Of an empire of sixty peoples. And he wrote poems,
-Under the name Muhibbi, the Lover: *people think wealth
-And power the greatest fortune, but in this world
-There is nothing like the state of health.*
+Strangled in his father's tent, who watched, screened
+Behind. The Lawgiver wrote kanun by
+Holy law, with Ebussuud, who weaned
+The two into accord: codes, low and high,
 
-He died in 1566 in his tent at {{p|Szigetvár}}, in {{p|Hungary}},
-Besieging a fortress, an old man of seventy-one,
-And his vizier hid his death from the army for weeks.
-The register went on. The census would be done
+For land, for crime, the army, and each flaw
+Of sixty peoples; and, the Lover, wrote
+As Muhibbi: of wealth, men think, and awe,
+The best of fortune; health is the one note.
 
-By every state that came after, every empire and republic,
-Every nation that wanted to know who its people were,
-And what they believed, and where to find them.
-The millet became the census box. The pen, the stir
+In sixty-six, at {{p|Szigetvár}}, he died,
+Old, in his tent, besieging a fort's wall;
+His vizier hid it for weeks; the pride
+Of armies held. The register, through all,
 
-Of the scribe in the village, is where the modern state begins:
-Not only in the guns. In the page that says who you are.
-A faith as an address. A people as a column.
-Hold the gift and the wound in the one ledger. Here we are.
+Went on; and all the states that followed, too,
+Each realm and each republic, wished to know
+Its people, faiths, and where to find them, who;
+The millet turned the census box; and so
+
+The scribe's pen in the village is the start
+Of modern states, not guns alone: the page
+That says who you are: faith, address; the part,
+A people as a column; in this age
+
+Hold both, the gift and wound, in one book's span;
+And here we are: the census and the pen;
+The walls the scribe drew are not the root's plan:
+One root below, beneath the walls of men.
 
 
 # Chapter 259: The Register of Every Soul
