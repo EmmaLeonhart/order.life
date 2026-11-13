@@ -397,365 +397,110 @@ So honor him, the one who woke, and free.
 
 # Chapter 172: Classical Greece, Part Three
 
-Take up the thread again. The fifth century BCE has ended. {{p|Athens}}
-Has lost the {{p|Peloponnesian War}}. The golden age of classical
-{{p|Greece}} is over. But {{p|Greek}} civilization does not end in four-oh-four
-BCE. It continues through the fourth century BCE with a different
-
-Character. Less politically dominant, certainly—the city-states
-Are weaker, the cultural energy is more diffuse. But in some
-Ways more philosophically rigorous, more systematically organized,
-More intellectually mature. And the fourth century would produce
-
-The two philosophers whose influence would eclipse even that of
-Their {{p|Athenian}} predecessors: Plato and Aristotle. And it would
-Produce Alexander the Great, who would take {{p|Greek}} civilization
-Itself, via conquest, across three continents.
-
-                                                    Begin with Plato
-In his mature phase. The {{x|Gaiad}} introduced him in the previous
-Chapter as Socrates's student and the founder of the {{p|Academy}}.
-His early dialogues preserve, or appear to preserve, Socrates's
-
-Method and characteristic concerns: questioning people about
-Ethical terms (justice, courage, piety), exposing their confident
-Ignorance, leaving the conversation without arriving at firm
-Definitions. These "elenctic" dialogues—{{p|Euthyphro}}, {{p|Laches}},
-
-{{p|Charmides}}, parts of {{p|Gorgias}}—are small masterpieces of
-Philosophical drama. Then come the middle dialogues, in which
-Plato begins to develop his own philosophical positions. {{p|Republic}},
-{{p|Phaedo}}, {{p|Symposium}}, {{p|Phaedrus}}. These are the works most commonly
-
-Associated with "{{p|Platonism}}." They present the theory of the
-{{x|Forms}}—the claim that behind every particular instance of a
-Quality (this beautiful statue, this just action, this triangular
-Shape) lies an ideal {{x|Form}} (Beauty itself, Justice itself, the
-
-Triangle itself) that exists more truly and eternally than any
-Material instantiation. The {{x|Forms}} are apprehended by reason
-Rather than sense. They constitute ultimate reality. And the
-Philosopher's task is to ascend from the world of particulars to
-
-The contemplation of the {{x|Forms}}—a process metaphorically depicted
-In the {{p|Allegory of the Cave}}, perhaps the most famous passage
-In Plato's corpus. Most people, Plato writes, are like prisoners
-Chained in a cave, watching shadows on the wall and believing
-
-Them to be reality. The philosopher is the one who escapes the
-Cave, climbs up into the sunlight, sees things as they really
-Are, and then—painfully—returns to the cave to try to educate
-The other prisoners about the truth. The philosopher's task is
-
-To drag others out of illusion into knowledge, despite their
-Resistance. This allegory has obvious autobiographical resonance:
-Plato's teacher Socrates was executed for attempting just such
-An educational mission. It also has political implications.
-
-Plato's {{p|Republic}} argues that ideal political societies would
-Be ruled by philosopher-kings—by those who had made the
-Ascending journey to the {{x|Forms}} and therefore knew what was truly
-Good, just, and beautiful. Democracy, Plato argued, produces only
-
-The rule of opinion and self-interest; it elevates demagogues
-Rather than wise rulers. The ideal city would have a strict
-Social hierarchy: philosophers at the top, warrior-guardians
-Below them, and ordinary producers (farmers, craftsmen, traders)
-
-At the base, each performing the function for which they were
-Best suited. This is a profoundly anti-democratic political
-Philosophy, and it is worth noting that Plato wrote it after
-His teacher had been executed by an {{p|Athenian}} democratic jury.
-
-Plato's political vision should be read in light of that trauma.
-He did not trust democratic judgment. He wanted the wise to rule.
-His vision has influenced authoritarian and elitist political
-Traditions across the centuries—sometimes for better (elite
-
-Expertise in technocratic government) and sometimes for worse
-(The various "philosopher kings" of political history tend, in
-Practice, to be tyrants). The late dialogues—{{p|Parmenides}}, {{p|Sophist}},
-{{p|Statesman}}, {{p|Philebus}}, {{p|Laws}}, {{p|Timaeus}}—show Plato revising
-
-And complicating his earlier positions. In {{p|Parmenides}}, he
-Subjects his own theory of the {{x|Forms}} to searching self-criticism.
-In {{p|Laws}}, his last great work, he abandons the philosopher-king
-Ideal and describes a more practical constitutional framework
-
-With extensive legal codification. In {{p|Timaeus}}, he offers a
-Cosmological speculation about the structure of the universe—
-A text that would prove enormously influential on later
-{{p|Neoplatonism}}, {{p|Christian}} theology, and even early modern science.
-
-Plato's work is vast, varied, and endlessly generative. It would
-Be the single most-read philosophical corpus in human history
-Until the late modern period. And the {{p|Academy}} he founded in
-{{p|Athens}} continued to operate, in various forms, for nearly nine
-
-Centuries—until Justinian, one of the most evil men in this book, closed it in
-Five-twenty-nine CE. It was the longest-lived institution of
-Higher learning in antiquity, and he ended it: the blame is his,
-Not the faith's he wore, for the end of classical {{p|Greek}} philosophy's house.
-
-                                                                       Into
-The {{p|Academy}} as a young student came a remarkable {{p|Macedonian}}:
-Aristotle (three-eighty-four to three-twenty-two BCE), born in
-{{p|Stagira}} in northern {{p|Greece}}, son of the court physician to the
-
-{{p|Macedonian}} royal family. He studied with Plato for twenty years,
-Until Plato's death. He was passed over for leadership of the
-{{p|Academy}} and left {{p|Athens}}. He spent several years traveling and
-Studying—on the island of {{p|Lesbos}}, where he conducted pioneering
-
-Biological research; at the court of {{p|Assos}}, where he worked
-With other philosophers. Then, around three-forty-three BCE, he
-Was summoned back to {{p|Macedon}} to tutor the young Alexander,
-Heir to the {{p|Macedonian}} throne. For several years Aristotle
-
-Served as the prince's teacher—one of the most extraordinary
-Pedagogical relationships in history, though we have only
-Fragmentary evidence of what Aristotle actually taught Alexander
-Or how it influenced him. After Alexander's accession, Aristotle
-
-Returned to {{p|Athens}} and founded his own school, the {{p|Lyceum}} (also
-Called the {{p|Peripatetic}} school, from the covered walkway where
-Teaching took place). He spent the next twelve years at the {{p|Lyceum}},
-Producing and teaching from an enormous body of philosophical
-
-And scientific work. Upon Alexander's death in three-twenty-three
-BCE, anti-{{p|Macedonian}} sentiment in {{p|Athens}} turned against
-Aristotle (who was seen as too close to the {{p|Macedonian}} court).
-He fled to {{p|Chalcis}}, where he died the following year.
-
-                                                               Aristotle's
-Surviving works—mostly in the form of lecture notes rather than
-Polished treatises—cover nearly the entire range of ancient
-Knowledge. Logic (the {{p|Organon}}—{{p|Categories}}, {{p|On Interpretation}},
-
-{{p|Prior Analytics}}, {{p|Posterior Analytics}}, {{p|Topics}}, {{p|Sophistical Refutations}}).
-Natural philosophy (the {{p|Physics}}, {{p|On the Heavens}}, {{p|Meteorology}},
-{{p|On Generation and Corruption}}). Biology (the {{p|History of Animals}},
-{{p|Parts of Animals}}, {{p|Movement of Animals}}, {{p|Generation of Animals}}).
-
-Psychology (the {{p|De Anima}} and the {{p|Parva Naturalia}}). {{x|Metaphysics}}
-(The work that gave us the very term "metaphysics"—literally
-"After the physics," because it was placed after the physical
-Works in the ancient edition). Ethics (the {{p|Nicomachean Ethics}} and
-
-The {{p|Eudemian Ethics}}). Politics. Rhetoric. {{x|Poetics}}. Each of these
-Works would be foundational for its respective discipline.
-Aristotle's influence on the development of {{p|Western}} thought is,
-Along with Plato's and Augustine's, one of the three or four
-
-Most important. His logic would remain essentially unchanged for
-Two thousand years, until Frege and Russell in the late
-Nineteenth and early twentieth centuries CE developed modern
-Formal logic. His biology would remain the foundation of natural
-
-History until Darwin. His ethical theory—virtue ethics grounded
-In the concept of the {{p|telos}} or end of human life, flourishing
-({{p|eudaimonia}}) as the realization of human potential—would
-Structure moral philosophy until the early modern period, and
-
-Would be revived in the late twentieth century by philosophers
-Like Alasdair MacIntyre and Martha Nussbaum as an alternative
-To Kantian and utilitarian approaches. His {{p|Poetics}} would define
-The terms of literary theory through the {{p|Renaissance}}—the concepts
-
-Of mimesis, catharsis, unity of action, tragic hero, the three
-Unities—are all Aristotelian. And his {{p|Metaphysics}} would be the
-Primary template for ontological inquiry in both the {{p|Christian}}
-And {{p|Islamic}} philosophical traditions. Medieval {{p|Muslim}} philosophers
-
-Like al-Farabi and Averroes produced extensive commentaries on
-Aristotle. Medieval {{p|Christian}} theologians like Thomas Aquinas
-Constructed their entire theological systems as syntheses of
-Aristotle with {{p|Christian}} revelation. Dante placed Aristotle at
-
-The head of the philosophers in {{p|Limbo}}, "the master of those
-Who know." For seven hundred years, across multiple civilizations,
-Aristotle was the Philosopher. His dominance was so complete
-That the beginning of the modern period was partly defined as
-
-The overthrow of Aristotelian authority—Galileo, Descartes,
-Bacon all had to break with Aristotle to establish their new
-Science and philosophy. Breaking with him took effort because
-His systematic coverage was so complete. He had provided
-
-Answers—plausible answers—to so many questions that moving beyond
-Him required developing entirely new frameworks. The effort to
-Do so is substantially the effort that produced modern thought.
-And even now, in philosophical ethics, in biology, in logic,
-
-In literary theory, Aristotle's work continues to be read and
-Engaged with. He is not a closed book. He is a living interlocutor.
-
-And alongside Plato and Aristotle, the fourth century produced
-Other major philosophical schools. {{p|Cynicism}}, founded by Antisthenes
-
-And made famous by Diogenes of Sinope, taught radical simplicity,
-Self-sufficiency, and contempt for social conventions. Diogenes,
-Who lived in a large barrel in the marketplace of {{p|Athens}} and
-Made a career of shocking social propriety, was the archetype of
-
-The philosophical provocateur. When Alexander the Great once
-Visited him and asked if there was anything he could do for the
-Great philosopher, Diogenes replied, "Yes, stand a
-Little out of my sunlight." The story is the whole school in a line,^[The meeting of Alexander and Diogenes is told by Plutarch and Diogenes Laertius, centuries later; historians doubt it happened as told.]
-
-And it captures the {{p|Cynic}} ethos: the world's greatest conqueror
-Has no power over the philosopher who has chosen to need nothing.
-{{p|Cynic}} philosophy would evolve into {{p|Stoicism}}, which we will
-Meet in a later chapter. {{p|Skepticism}}, founded by Pyrrho of Elis
-
-(Who, by tradition, traveled with Alexander's expedition to {{p|India}}
-And was influenced by {{p|Indian}} philosophy he encountered there),
-Taught the suspension of judgment on all claims to knowledge.
-The {{p|Pyrrhonist}} argued that for every proposition one might
-
-Believe, equally persuasive arguments could be offered on either
-Side, and therefore the wise course was to withhold assent and
-Live in tranquil indifference. This radical epistemological
-Position would influence {{p|Hellenistic}} philosophy and later
-
-Intellectual traditions. {{p|Epicureanism}}, founded by Epicurus
-(Three-forty-one to two-seventy BCE, working at the very edge of
-Our fourth-century frame), taught that pleasure—understood as
-Freedom from physical pain and mental disturbance ({{p|ataraxia}})—
-
-Was the highest good. Epicurus's philosophy was a materialistic,
-Atomistic view of nature derived from Democritus, combined with
-An ethical program aimed at serene happiness through simple
-Living, friendship, and the avoidance of needless fears (especially
-
-Fear of the gods and fear of death). {{p|Epicureanism}} would flourish
-For centuries and be given classical expression by the {{p|Roman}}
-Poet Lucretius, and the school lived on
-To late antiquity, and then was gone
-When the new bishops held the schools and halls:
-A fight for who would teach inside those walls.
-
-These are only the most prominent schools. The philosophical
-Diversity of fourth-century {{p|Greece}} was astonishing. It was a
-Landscape of competing intellectual traditions, each with its
-Own masters, its own texts, its own disciples, its own practices.
-
-And it would continue to be so for centuries. The {{p|Hellenistic}}
-And {{p|Roman}} philosophical traditions all emerged from this fourth-
-Century matrix.
-
-                    And now, Alexander. We will devote a full
-Chapter to him shortly. Here we note only that his career
-Belongs, in certain senses, to the end of classical {{p|Greece}}. He
-Was born in {{p|Macedon}}—a kingdom on the northern periphery of the
-{{p|Greek}} world, whose rulers claimed {{p|Greek}} descent but who were
-
-Considered half-barbarian by the southern {{p|poleis}}. His father
-Philip II had transformed {{p|Macedon}} from a peripheral kingdom
-Into the dominant power of the {{p|Greek}} world, defeating a
-Coalition of southern {{p|Greek}} cities at the {{p|Battle of Chaeronea}}
-
-In three-thirty-eight BCE. With this victory, the independence
-Of the {{p|Greek}} city-states effectively ended. They remained
-Nominally sovereign but were forced into the {{p|League of Corinth}}
-Under {{p|Macedonian}} hegemony. When Philip was assassinated in
-
-Three-thirty-six BCE, the twenty-year-old Alexander inherited
-The throne and the {{p|League}}. He suppressed early rebellions, then
-Turned his attention to the {{p|Persian}} Empire. The campaign Philip
-Had planned to launch against {{p|Persia}} became Alexander's campaign.
-
-And from three-thirty-four to three-twenty-three BCE, Alexander
-Would conquer an empire larger than anything before. But that is
-For the next chapter. Here we note the philosophical-political
-Context: classical {{p|Greece}} as a civilization of independent
-
-City-states ended with Philip's victory and Alexander's
-Inheritance. What followed was the {{p|Hellenistic}} world—{{p|Greek}}
-Culture as an imperial phenomenon, spreading across three
-Continents through Alexander's conquests, but no longer the
-
-Distinctive city-state civilization that had produced Sophocles
-And Socrates. The {{p|Hellenistic}} age would be extraordinarily
-Productive in its own way—scientific advance, literary innovation,
-Religious syncretism, philosophical elaboration—but it would be
-
-A different kind of civilization. Larger, more cosmopolitan,
-More bureaucratic, less politically intense. The specific conditions
-That had produced classical culture—small free cities, direct
-Democratic politics, intense civic competition—were gone, and they
-
-Would not return.
-
-                          So the {{x|Gaiad}} closes this three-part
-Treatment of classical {{p|Greece}}. We began with the rise from the
-Dark Age, the early philosophers, the {{p|Persian Wars}}. We continued
-
-With the golden age of fifth-century {{p|Athens}}, Pericles, the
-Tragedians, Socrates. We end here with the fourth-century
-Maturation—Plato, Aristotle, the philosophical schools, the
-End of city-state independence under {{p|Macedonian}} hegemony. Three
-
-Hundred years from the first tentative philosophical speculations
-Of Thales in the sixth century BCE to Aristotle's death in
-Three-twenty-two BCE. Three hundred years in which a small region
-Of the {{p|Mediterranean}} produced more foundational cultural
-
-Achievements than any other comparable area in any other comparable
-Period. Democracy, philosophy, drama, history, classical
-Architecture, classical sculpture, the foundations of mathematics
-And natural science—all of these, or their decisive {{p|Western}}
-
-Articulations, came out of this three-century {{p|Greek}} efflorescence.
-It is difficult to explain why. Many have tried. The usual
-Answers—political freedom, competitive pluralism, leisure class
-Supported by slave labor, favorable geography, contact with older
-
-Civilizations—are all partial explanations but none is fully
-Satisfying. The {{p|Greek}} achievement remains, in the last analysis,
-Somewhat mysterious. It was the happy conjunction of many factors
-In a particular place and time, and it produced results that
-
-Continue to shape our civilization twenty-five hundred years later.
-
-                                                                     And
-The {{x|Gaiad}} honors this achievement without idealizing it. Classical
-{{p|Greece}} was also a slaveholding society, a misogynistic society,
-
-A society that exploited its imperial subjects, a society whose
-Achievements were limited to a small elite of free adult males.
-Every student who stood at the feet of Plato or Aristotle was
-Supported by slave labor. Every citizen who voted in the {{p|Athenian}}
-
-Assembly did so while women, foreigners, and slaves were excluded.
-These facts must be acknowledged. They do not erase the
-Achievements, but they do qualify them. Classical {{p|Greek}} democracy
-Was real democracy—for those who counted. Classical {{p|Greek}} reason
-
-Was real reason—developed within a society that depended on forms
-Of domination invisible to it. The subsequent history of {{p|Western}}
-Civilization has been, in part, the project of extending the
-{{p|Greek}} ideals to groups the {{p|Greeks}} themselves excluded—of
-
-Universalizing the logic of democracy and reason to all humans.
-That project continues. And in that project, we are still working
-With the {{p|Greek}} inheritance. We are still debating the same
-Foundational questions: what is justice? What is the best regime?
-
-What is the nature of the good life? What can we know? How should
-We live? These questions were articulated in classical {{p|Greece}}
-With a clarity they had never before possessed. They have remained
-Central to {{p|Western}} intellectual life ever since.
-
-                                                           Classical
-{{p|Greece}}, part three. Plato and the {{p|Academy}}. Aristotle and the
-{{p|Lyceum}}. {{p|Cynics}}, {{p|Skeptics}}, {{p|Epicureans}}. The end of city-state
-Independence at {{p|Chaeronea}}. The {{p|Macedonian}} hegemony. The
-
-Transition to the {{p|Hellenistic}} world. The closing of the classical
-Age.
-
-         The {{p|Greek}} achievement: foundational, flawed, immortal.
+And {{p|Athens}} lost the war; and yet the {{p|Greeks}}
+Went on, less strong, but sharper in their thought;
+The fourth age brought the two whose wisdom speaks
+The loudest: Plato, and the one he taught.
+
+Plato's early dialogues asked, as he,
+Old Socrates, had asked, what justice is,
+Or courage, piety, and left, unfree
+Of doubt, the asker: {{p|Euthyphro}}, and his
+
+The {{p|Laches}}, the {{p|Charmides}}; and then he made
+His own: {{p|Republic}}, {{p|Phaedo}}, and the feast
+Of the {{p|Symposium}}, {{p|Phaedrus}}; and laid
+Out there the {{x|Forms}}: behind each thing, the least
+
+Of beauties, justice, shapes, there is a Form,
+The Beautiful itself, the Just, more true
+And lasting than the thing; and reason, warm,
+Not sense, can see them; and the wise man's due
+
+Is climbing to them. In the {{p|Cave}}, he wrote,
+Men sit in chains, and watch the shadows play,
+And think them real; the wise man, freed, remote,
+Climbs to the sun, and sees, and then the way
+
+Back down, to free the rest, though they resist;
+As Socrates had done, and died for it.
+{{p|Republic}}: let the wise, who've seen and kissed
+The {{x|Forms}}, be kings; the many, who'd submit
+
+Opinion, should not rule; the guards below,
+And then the farmers, craftsmen, traders, each
+To his own work; for {{p|Athens}}, he would know,
+Had killed his teacher, by its vote and speech.
+
+And later, in the {{p|Parmenides}}, he tried
+His {{x|Forms}} again, and doubted; in his {{p|Laws}},
+He gave the kings up, and a code supplied;
+And in the {{p|Timaeus}}, sang the world's first cause.
+
+And his {{p|Academy}} in {{p|Athens}} taught;
+And there, a young {{p|Macedonian}}, came one,
+Aristotle, of {{p|Stagira}}, who sought
+Wisdom with Plato twenty years, till done.
+
+Passed over, he went off to {{p|Lesbos}}' shore,
+And studied living things; then was called home
+To {{p|Macedon}}, to teach the young prince, before
+He was king: Alexander, who would roam.
+
+And then to {{p|Athens}}, and the {{p|Lyceum}}, where,
+Walking, he taught; and when the prince was dead,
+They turned on him; to {{p|Chalcis}} he fled there,
+And died there in the next year, it is said.
+
+He wrote of logic, {{p|Organon}}; of all
+Of nature, {{p|Physics}}, {{p|Heavens}}, weather, birth;
+Of animals; the soul; and what we call
+{{x|Metaphysics}}, after the physics' worth;
+
+The {{p|Ethics}}: that the end of man is to
+Flourish, {{p|eudaimonia}}, virtue's way;
+{{p|Politics}}, and {{p|Rhetoric}}; and he knew
+The {{x|Poetics}}, catharsis, and the play.
+
+And there were other schools: the {{p|Cynic}} men,
+Who scorned all rules; and Diogenes lived there,
+In {{p|Athens}}' market, in a jar; and then
+The great Alexander once came to where
+
+He lay, and asked what he could do for him,
+Diogenes said: just stand out of my sun.^[The meeting of Alexander and Diogenes is told by Plutarch and Diogenes Laertius, centuries later; historians doubt it happened as told.]
+The conqueror of all could not, by whim,
+Give anything to one who needed none.
+
+And Pyrrho went with Alexander's host,
+To {{p|India}}, and learned there, and came back
+To teach that every claim, the least, the most,
+Had arguments both ways; and so the track
+
+Was to hold back, and live in peace; and then
+Epicurus then taught that pleasure, freed
+Of pain and fear, is good; and that all men,
+And gods, and death, are atoms; and the need
+
+Is simple life, and friends, and not to fear
+The gods or death. And all these schools would grow,
+Each with its masters, texts, and fellows near,
+And each from that one {{p|Greek}} root, long ago.
+
+And Philip II of {{p|Macedon}}, in the north,
+Half-{{p|Greek}}, as some said, beat the southern towns
+At {{p|Chaeronea}}; and the cities, forth
+From then, served him, the {{p|League of Corinth}}'s crowns;
+
+Philip died; Alexander, twenty, took
+The throne, and crushed the risings one by one,
+He turned on {{p|Persia}}, as his father's book
+Had planned; and so the free towns' age was done.
+
+So honor {{p|Greece}}'s last age: Plato's cave,
+And Aristotle's all; the {{p|Cynic}}'s jar;
+The {{p|Skeptic}}'s pause; calm Epicurus gave;
+And Alexander, setting out afar.
 
 
 # Chapter 173: The Mahabharata
