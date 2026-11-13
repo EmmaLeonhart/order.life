@@ -2126,184 +2126,135 @@ The memory outlives the foreign lord.
 
 # Chapter 241: The Northern Fires
 
-The silver called them north.
+The silver called them north: in forty-six,
+When {{p|Zacatecas}}' veins of ore were struck,
+The {{c|3516|Spanish}} hunger, and the politics
+Of bullion, drove the frontier on, and stuck
 
-                                When {{p|Zacatecas}}'
-Veins of ore were struck in fifteen-forty-six,
-The {{c|3516|Spanish}} hunger for the stacks
-Of bullion drove the frontier's politics
+Beyond the settled {{c|3511|Mexica}} domain,
+Into the lands the {{c|3531|Aztecs}} never ruled:
+The dry sierras and the open plain,
+Where those the {{c|3511|Mexica}} had called, and schooled
 
-Beyond the settled {{c|3511|Mexica}} domain
-Into the lands the {{c|3531|Aztecs}} never ruled—
-The dry sierras and the open plain
-Where the peoples the {{c|3511|Mexica}} had schooled
+As {{c|3532|Chichimeca}}, called the dog-folk, so,
+Barbarians of the north, looked from high
+From mesa and from cliff, the crown below
+Of {{p|Spain}} draw near their hunting grounds, and nigh.
 
-To call "{{c|3532|Chichimeca}}"—the dog-people,
-The barbarians of the north—looked down
-From the mesa and the steeple
-Of the desert cliff, and found the crown
+Not these the allied {{c|3533|Tlaxcalans}}, who lent
+Their arms to {{p|Spain}} at the bishop's behest;
+These were the hounds of the steppe, never bent:
+The {{c|3534|Caxcanes}}, {{c|3535|Zacatecos}}, and the rest:
 
-Of {{p|Spain}} advancing on their hunting grounds.
+The {{c|3536|Guachichiles}} and {{c|3537|Guamares}}, of the bow,
+The arrow, and the mesquite hills, who knew
+Each canyon and arroyo's flow, and so
+Could vanish like the wind in sand; and through
 
-Not these the allied {{c|3533|Tlaxcalans}} who lent
-their arms to {{p|Spain}} with the bishop's consent;
-these were the hounds of the steppe, never bent:
+They would not yield one league of country, where
+The sun revolved in its relentless arc.
+The {{c|3538|Mixtón War}} broke first, in forty: there,
+From {{p|Mixtón}}'s fortified peñol, the dark
 
-{{c|3534|Caxcanes}}, {{c|3535|Zacatecos}}, {{c|3536|Guachichiles}},
-And the {{c|3537|Guamares}}—peoples of the bow,
-The arrow, and the mesquite hills,
-Who knew every canyon and the flow
+And steepest crag, the {{c|3539|Caxcan}} warrior's cry:
+{{c|3540|Tenamaxtli}} raised it; the frontier's bar
+Collapsed: the missions fell, the settlers fly,
+The mining camps were burned; and, near and far,
 
-Of every seasonal arroyo, who could vanish
-Into the landscape like the wind dissolves
-Into the sand—and they would not relinquish
-A single league of the country the sun revolves
+They swept {{p|Nueva Galicia}}'s land,
+Until the viceroy learned no force could hold;
+He called {{c|3541|Pedro de Alvarado}}'s hand,
+The {{c|3531|Aztecs}}' conqueror, veteran, old,
 
-Above in its relentless desert arc.
+Who rode north with his cavalry and pride:
+At {{p|Nochistlán}} he met the {{c|3534|Caxcanes}}' stands;
+Rough slope; and there, beneath his horse, he died,
+Crushed, the conquistador, and all his bands
 
-The {{c|3538|Mixtón War}} erupted first.
+Undone by warriors rolling stones from heights,
+With a ferocity that none could shrink
+In {{c|3516|Spanish}} chronicles, with all their slights;
+They knew this was no war for tribute's clink,
 
-In fifteen-forty, from the dark
-And fortified peñol of {{p|Mixtón}}'s worst
+Or trade, but on the ground of all their world:
+The land, the hunting ground, the sacred hill,
+The right to live as desert's hand had curled
+Them, free, to vanish, and return, and kill.
 
-And steepest crag, the {{c|3539|Caxcan}} warrior
-{{c|3540|Tenamaxtli}} raised the war-cry—
-And the northern frontier's barrier
-Collapsed: the {{c|3516|Spanish}} missions fell awry,
+{{c|3542|Antonio de Mendoza}} then came
+With the largest army {{p|New Spain}} had seen,
+Fifty thousand, {{c|3427|Aztec}}, {{c|3517|Tlaxcalan}}, flame
+With {{c|3516|Spanish}} iron; and the siege between
 
-The settlers fled, the mining camps were burned,
-And the {{c|3534|Caxcanes}} swept the {{p|Nueva Galicia}}
-Countryside until the viceroy learned
-That no local force, no militia
+The mountain strongholds broke at {{p|Mixtón}}; so
+The desert's lord was subdued, but for now;
+The embers scattered; and the war would grow
+From each spark of {{c|3544|Mixtón}}'s defeat, and how
 
-Could contain the rising—and he called
-The conqueror of the {{c|3531|Aztecs}}' ghost:
-Old {{c|3541|Pedro de Alvarado}}, installed
-As the expedition's host,
+The {{c|3543|Chichimeca War}}, four decades long,
+From fifty on to ninety, and it bled,
+The longest colonial war, the strong
+Resistance of the north; the silver's thread,
 
-Who rode north with his cavalry and his pride
-And met the {{c|3534|Caxcanes}} at {{p|Nochistlán}}'s
-Rocky slope—and there he died,
-Crushed beneath his horse, the plans
+The road that carried {{p|Zacatecas}}' ore
+Down south to {{p|Mexico City}}'s abode.
+The {{c|3536|Guachichiles}}, the fiercest, painted, bore
+Red blood-root's dye; their archery, a mode
 
-Of the veteran conquistador undone
-By warriors who rolled boulders from the heights
-And fought with a ferocity that none
-Of the {{c|3516|Spanish}} chronicles' slights
+Near to perfection that the desert knew:
+An arrow each second, and they would ride
+The stolen horse bareback, and, aiming, slew
+Their chosen targets from the gallop's stride;
 
-Could diminish—for the {{c|3534|Caxcanes}} knew
-That this was not a war for tribute
-Or for trade; this was the war the new
-Invaders waged upon the absolute
+The {{c|3532|Chichimeca}} learned the horse as fast
+As {{c|3516|Spanish}} learned to fear the midnight raid,
+The ambush and the war-cry; trains were cast
+In flame; haciendas fell; the road was made
 
-Foundation of their world: the land,
-The hunting ground, the sacred hill,
-The right to live as the desert's hand
-Had shaped them—free, and with the skill
+A corridor of dread, where the escort
+The arrow's target; and the dead outweighed
+The ore that reached the port; and, of the sort
+That breaks the bone of armies, war was laid
 
-To vanish and return and strike again.
+Which {{p|Spain}} could not win by the sword alone:
+The frontier was too vast; and so the crown
+Tried what the sword could not: the peace that's grown
+By purchase; and the missionary's gown,
 
-The viceroy {{c|3542|Antonio de Mendoza}} came
-With the largest army {{p|New Spain}}
-Had ever fielded—fifty thousand, the flame
+The food and clothing given; and the slow
+Seduction of the mission and the ranch,
+The measured flow of colonists; and so
+Loyal {{c|3533|Tlaxcalans}} planted, branch on branch,
 
-Of {{c|3427|Aztec}} and {{c|3517|Tlaxcalan}} auxiliaries
-Mixed with {{c|3516|Spanish}} iron—and the siege
-Of {{p|Mixtón}} broke the {{c|3539|Caxcan}}eries
-Of mountain strongholds, and the liege
-
-Of the northern desert was subdued—
-For now.
-
-           But the embers only scattered.
-
-The {{c|3543|Chichimeca War}} accrued
-From every spark the {{c|3544|Mixtón}} defeat had battered
-
-Into the wider frontier—and for forty years,
-From fifteen-fifty to fifteen-ninety,
-The longest colonial war of tears
-And ambush and the mighty
-
-Resistance of the unconquered north
-Bled the {{c|3516|Spanish}} silver road
-That carried {{p|Zacatecas}}' worth
-South to {{p|Mexico City}}'s abode.
-
-The {{c|3536|Guachichiles}} were the fiercest—
-Painted red with the blood-root's dye,
-Their archery the nearest
-To perfection that the desert sky
-
-Had ever witnessed: they could loose
-An arrow every second, they could ride
-Bareback on the stolen horse and choose
-Their targets from the gallop's stride—
-
-For the {{c|3532|Chichimeca}} learned the horse
-As quickly as the {{c|3516|Spanish}} learned to fear
-The midnight raid, the ambush's force,
-The war-cry in the silver-miner's ear.
-
-Wagon trains were burned. Haciendas fell.
-The silver road became a corridor of dread
-Where the {{c|3516|Spanish}} escort's personnel
-Were the arrow's target and the dead
-
-Outnumbered the ore that reached the port.
-
-And {{p|Spain}} could not win this war by sword alone.
-
-The frontier was too vast, the sort
-Of guerrilla war that breaks the bone
-
-Of the conventional army—and so the crown
-Attempted what the sword could not:
-The policy of "peace by purchase," the gown
-Of the missionary and the allot-
-
-Ment of food and clothing and the slow
-Seduction of the settlement, the mission
-And the rancho and the measured flow
-Of the {{c|3517|Tlaxcalan}} colonist's commission—
-
-Loyal {{c|3533|Tlaxcalans}} planted among
-The {{c|3532|Chichimeca}}, keepers of the same
+With {{c|3532|Chichimeca}}, keepers of the same
 Altar in settled villages, the sung
-And gentle persuasion's aim.
+And gentle persuasion's aim; and it came:
+It worked, in part; the frontier calmed, among
 
-It worked—in part. The frontier quieted.
-But not because the {{c|3532|Chichimeca}} were conquered—
-Because they negotiated, rioted
-Only when provocation anchored
+The tribes; not conquered, but they had agreed:
+They rose when provocation made them fight,
+And took the peace when peace kept what they'd need:
+The land, the hunt, and freedom from the might
 
-Them to violence, and accepted peace
-When peace meant keeping the essential:
-The land, the hunt, the partial release
-From the mission's existential
-
-Demand to keep its altar and its bell.
-
+Of mission's call: its altar and its bell.
 Honor the {{c|3534|Caxcanes}} on their peñol heights,
-The {{c|3536|Guachichiles}} of the desert's stealth,
-The {{c|3535|Zacatecos}} and the {{c|3537|Guamares}}' fights—
+The {{c|3536|Guachichiles}}, the desert's stealth; as well,
+The {{c|3535|Zacatecos}}, {{c|3537|Guamares}}, and their fights:
 
-The peoples whom no empire ever tamed,
-Who held the northern frontier for fifty years
-Against the richest crown on earth, who claimed
-No kingdom but the canyon and whose spears
+Peoples whom no empire ever tamed,
+Who held the north for fifty years; the crown
+Against the richest on the earth, who claimed
+No kingdom but the canyon, nor renown,
 
-Were the desert's own invention:
-The thorn, the stone, the arrow and the will
-To resist—and the convention
-Of the unconquered, which is simply still
+Whose spears were of the desert's own design:
+The thorn, the stone, the arrow, and the will
+To stand; and the unconquered's simple sign
+Is to be here, upon the land, here still,
 
-To be here, on the land the conqueror passed through
-But never truly held—the silver went south,
-The miners came and went, but the view
-From the mesa's edge, the desert's mouth,
-
-Remained the {{c|3532|Chichimeca}}'s own.
+Which conquerors passed through, but never held:
+The silver went south; miners came and went;
+But from the mesa's edge the view, unquelled,
+Remained the {{c|3532|Chichimeca}}'s own, unspent.
 
 
 # Chapter 242: The Wampanoag's Bargain
