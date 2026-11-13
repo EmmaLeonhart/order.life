@@ -2,7 +2,7 @@
 
 While sons of {{c|542|Cambrius}} would flourish well
 Within the seas, the sons, upon the plain,
-Of {{c|545|Symbio-Mygus}}, and as they tell,
+Of {{c|545|Symbio-Mygus}}, in field and dell,
 With daughters of {{c|1180|Charina-Plantus}}, twain,
 
 Pushed out their frontiers, pushing far and wide;
