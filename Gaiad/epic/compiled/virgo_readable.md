@@ -2136,95 +2136,100 @@ Read her: she is on our side, and our own.
 
 # Chapter 274: Our Hearts Are the Same as Yours
 
-On the peninsula of {{p|Shimabara}} and the islands of {{p|Amakusa}},
-Across the bay from {{p|Nagasaki}}, the farmers had been {{x|Christian}}
-For two generations, and their lords had been {{x|Christian}}, and the law
-Had changed, and the lords had changed, and the new lord's mission
+{{p|Shimabara}} and {{p|Amakusa}}'s land,
+Across from {{p|Nagasaki}}, on the bay:
+Farmers had long been {{x|Christian}}; lords, at hand,
+Were {{x|Christian}} too; then law and lords gave way
 
-Was to squeeze. The Matsukura taxed the harvest past the bone,
-In years of famine, and those who could not pay
-Were wrapped in straw raincoats and set alight, it is said; the moan
-Of the burning was called the dance of the straw coat. And one day
+A new lord squeezed: Matsukura's toll,
+The harvest past the bone, in famine's grip;
+Those who could not pay: in straw coats, the whole
+Set burning: the straw-coat dance; and the whip
 
-In December 1637 they rose. Peasants, fishermen,
-Masterless samurai who had lost their lords, the poor,
-And at their head a boy of sixteen, Amakusa Shirō, whom
-They said could walk on the sea, and a dove had laid an egg, and more:
+December, thirty-seven: and they rose:
+Peasants, fishers, masterless samurai,
+The poor; and at their head, as heaven chose,
+Amakusa Shirō, young; on high
 
-That a prophecy foretold a heavenly child would come
-In the twenty-fifth year after the padres were driven away.
-They marched under banners with the chalice and the {{x|Host}}, the drum
-Of their war was a hymn, *{{x|Santiago}}*, and they swore that they would stay
+He walked upon the sea; a dove had laid
+An egg in his own hand; a prophet's sign
+Foretold the child of heaven, who'd be made
+Twenty-five years since padres crossed the brine.
 
-Together. Thirty-seven thousand of them, men, women and children,
-Took the ruined castle of {{p|Hara}} on its cliff above the sea,
-And held it, all winter, against the armies of the shogun, the bewildering
-Faith of the starving. A hundred and twenty thousand men, and the plea
+They marched with chalice banners and the {{x|Host}};
+Their drum, a hymn, *{{x|Santiago}}*; and sworn
+As one, thirty-seven thousand, a host,
+Men, women, children; {{p|Hara}}, castle torn,
 
-Of the shogun's general to the Dutch: and the Dutch came,
-The ship *{{x|De Ryp}}*, and fired its cannon into the castle walls
-Two weeks, kin shelling kin, for trade: the same
-Trade-loyalty that kept them on {{p|Dejima}}. The calls
+Ruined, on its cliff above the sea, took,
+And held all winter, starving, faith's own wall,
+Against a hundred twenty thousand; shook;
+The shogun's man asked the Dutch; at the call
 
-Of the rebels shot back into the shogun's camp with arrows:
-Are there no samurai in {{p|Japan}}, that you must ask foreigners for help?
-The Dutch went home. In April 1638, in the burrows
-Of the ruined castle, the defenders were eating seaweed, the kelp
+*{{x|De Ryp}}* came firing cannon at the walls
+Two weeks, for trade, the loyalty that kept
+Them on {{p|Dejima}}; from the castle, calls
+On arrows: "Are your samurai inept?"
 
-Of the shore, and the shogun's men stormed it. Almost all were killed.
-Thirty-seven thousand. Shirō's head was set up at {{p|Nagasaki}} as a sign.
-And the lord Matsukura, whose greed had begun it, was not stilled
-By the victory: he was beheaded, the only daimyo of the line
+The Dutch went home; and April, thirty-eight:
+The starving ate the kelp; the castle fell;
+Thirty-seven thousand died; at the gate
+Of {{p|Nagasaki}}, Shirō's head, a knell;
 
-Of the {{x|Edo}} peace to die like a common criminal. And then the silence.
-The temple books. The image underfoot. The faith was dead,
-They said. It was not dead. In the {{p|Gotō}} islands, in the hills, the violence
-Of the search went on around it, and it went under, and was fed
+Matsukura, whose greed began it, died
+Beheaded, sole daimyo of the peace
+To die a criminal. Then silence, wide;
+The temple books; the image; faith to cease,
 
-From hand to hand, without a priest, without a church, for two hundred and fifty years.
-In {{p|Sotome}}, in {{p|Ikitsuki}}, in {{p|Urakami}}, the villages kept
-A baptizer, a calendar of feast days kept in secret, the fears
-Of discovery in every prayer. The prayers themselves were kept
+They said. It did not cease: in {{p|Gotō}}, in
+The hills, the search went round it; and it went
+Beneath, and fed from hand to hand, within,
+No priest, no church; the villages, intent,
 
-In a {{x|Latin}} and {{x|Portuguese}} no one understood any more,
-Repeated, *orasho*, worn smooth like a stone in a stream.
-They hid the Virgin in a white porcelain Kannon, the merciful one, the door
-Of the {{x|Buddhist}} mercy opening on the Mother: Maria Kannon. The dream
+In {{p|Sotome}} and {{p|Ikitsuki}}, they kept
+A baptizer, feast-days in secret, prayer
+In {{x|Latin}}, {{x|Portuguese}}, worn smooth and swept,
+*Orasho*, like a stone in streams; and there
+
+They hid the Virgin in a Kannon, white,
+Porcelain, the merciful one, the door
+Of {{x|Buddhist}} mercy on the Mother's light:
+Maria Kannon. And the dream, the core
 
 Of the one mercy wore two names inside.
 Fear chose which name was said; both were their own.
-They stepped on the image each {{x|New Year}}, and went home, and cried,
-And said the contrition prayer, *konchirisan*, for the stone
+They stepped on it each {{x|New Year}}, home, and cried,
+And said *konchirisan* for the stone.
 
-Their foot had touched. And the centuries passed. And in 1865,
-When the country had opened again to the foreigners, a {{x|French}} priest,
-Bernard Petitjean, built a church at {{p|Ōura}} in {{p|Nagasaki}}, to keep alive
-The traders' rite. March seventeenth: the least
+Centuries passed; the land opened; and then
+A {{x|French}} priest, Bernard Petitjean, would keep
+At {{p|Ōura}} a church; March seventeenth, when
+From {{p|Urakami}} folk, to watch; and, deep
 
-Expected thing: a group of women and men from {{p|Urakami}} came in,
-And watched him at prayer, and one of them, a woman, came close,
-Isabelina Yuri Sugimoto, and whispered: *Our hearts are the same as yours*.
-And then: *Where is the image of Santa Maria?* And the rose
+At prayer, he was approached; and, coming close,
+Yuri Sugimoto whispered: "The same
+Our hearts and yours." And then, as one who knows:
+"Where is Santa Maria's image?" came.
 
-Of that moment: he showed them the statue, and they knelt.
-Two hundred and fifty years. No priest. No book. They had kept it.
-And the persecution came again, and they were exiled, and felt
-The last cruelty of the old law, three thousand of them, and swept it
+He showed the statue; and they knelt. They'd kept
+Two hundred fifty years, no priest, no book;
+Then exile, persecution; thousands swept,
+Till the ban fell; some joined the Church; some took
 
-Away in 1873, when the ban came down at last.
-Some went into the {{x|Catholic}} church. Some would not: they kept their own way,
-The way of their grandparents, the hidden way, the past
-They had carried, unchanged by the return. They are there today,
+Their own way still, the hidden way, the past
+Their grandparents had carried; there today,
+A few, on islands, keep it to the last;
+No priest from {{p|Rome}} could call their way astray.
 
-A few, on the islands. Their faith is their ancestors' faith,
-And no priest from {{p|Rome}} could tell them it was wrong.
-Here is the whole {{x|Gaiad}} in one village: the wraith
-Of the faith that would not die, kept by the weak and the strong
+Here is the {{x|Gaiad}} in one village frame:
+The faith that would not die, kept by the weak
+And strong, one rite, beneath the ledger's claim;
+Honor the boy on {{p|Hara}}'s wall; and seek
 
-Together, the one rite, beneath the frame
-Of the register. Honor the boy on the wall of {{p|Hara}}. Honor
-The woman at {{p|Ōura}}. Honor what is kept when the priests die, the keeper and the corner
-Where it was kept. Where is the image of Santa Maria? Here. Our hearts are the same.
+The woman at {{p|Ōura}}; and honor, too,
+What's kept when priests die, corner and keeper;
+"Where is Santa Maria's image?" True:
+Here: our hearts are the same, and run deeper.
 
 
 # Chapter 275: The Mandate Changes Hands
