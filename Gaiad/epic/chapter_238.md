@@ -1,244 +1,171 @@
 # Chapter 238: The Redeemer
 
-In every land a figure comes who bears
-The weight of heaven's message on his back—
+In each land comes a figure, one who bears
+The weight of heaven's message on his back,
 Who walks among the broken and repairs
 The covenant the people let go slack,
 
-Who teaches and who suffers and who goes
-Away—who promises to come again—
-And the people, left behind, compose
-The scripture of the departure, and the pain
+Who teaches, and who suffers, and who goes
+Away, who promises to come again;
+And then the people, left behind, compose
+The scripture of departure; and the pain
 
-Of his absence is the engine of the faith.
+Of absence is the engine of the faith.
+Two figures now, two continents apart,
+Two centuries apart; and yet the wraith
+Of one same archetype beats at the heart
 
-Two figures now—two continents apart,
-Two centuries apart—and yet the wraith
-Of the same archetype beats at the heart
+Of both: the {{c|3490|Redeemer}}, he who descends,
+Who teaches peace, who builds the law, who goes
+Before the mission ends; whose leaving lends
+The deepest awe the people ever knows.
 
-Of both: the {{c|3490|Redeemer}} who descends,
-Who teaches peace, who builds the law,
-Who departs before his mission ends,
-And whose leaving is the deepest awe
+In {{p|Tula}}, which the {{c|3464|Toltec}} would erect,
+In central {{p|Mexico}}; and there, below,
+Where warrior-columns, grim, stand to protect
+The legend, over history, would go:
 
-The people know.
+A man: {{c|3491|Ce Acatl Topiltzin}}, born
+On {{x|One Reed}}'s day, the priest-king, in the cause
+Of the {{c|3492|Feathered Serpent}}: wind, breath, the morn
+Star, {{c|3493|Quetzalcoatl}}, whose rising and whose pause
 
-                 In {{p|Tula}}—the {{c|3464|Toltec}}
-Capital of central {{p|Mexico}},
-Where the warrior-columns stand erect
-And grim upon the pyramid—below
+As evening star, meant death and life in one
+Arc of the sky; who wore the quetzal's green
+Feathers in the temple's dark; as the sun,
+He bore the name of culture's gift, the sheen:
 
-The legend and above the history,
-A figure walks: {{c|3491|Ce Acatl Topiltzin}},
-Born on the day {{x|One Reed}}, the mystery
-Of the priest-king who was also in
-
-The service of the {{c|3492|Feathered Serpent}}—
-{{c|3493|Quetzalcoatl}}, the wind, the breath,
-The morning star whose rise and the concordant
-Setting of the evening star meant death
-
-And resurrection in a single arc
-Across the sky—the god who wore
-The quetzal's emerald feathers in the dark
-Of the temple's inner sanctum, and who bore
-
-The name of civilization's gift itself:
 The corn, the calendar, the arts of peace,
-The writing and the wisdom on the shelf
-Of every {{c|3464|Toltec}} scribe—the release
-
-Of human culture from the grip of war.
+The writing and the wisdom of the scribe;
+The {{c|3464|Toltec}} culture's gift, and its release
+Of human culture from war's bloody tribe.
 
 {{c|3494|Topiltzin}} taught that human sacrifice
-Was abomination—that the floor
-Of the temple should be clean of the device
+Was an abomination; that the floor
+Be clean of the obsidian's device;
+That butterflies and flowers, and no more,
 
-Of the obsidian blade, that butterflies
-And flowers were the only offerings
-The {{c|3492|Feathered Serpent}} required, the ties
-Between the human and the divine were strings
+Were offerings the {{c|3492|Feathered Serpent}} sought;
+The human and divine were bound, their prayer
+Of beauty, not of blood. For what he taught,
+{{c|3495|Tezcatlipoca}}'s priesthood, standing there,
 
-Of beauty, not of blood. For this teaching
-{{c|3495|Tezcatlipoca}}'s own priesthood, reaching
-for the one altar, with the smoking glass
-that was its god's own face, would not let pass
+Reaching for the one altar, with the glass
+That smoked, its god's own face, would not allow
+The flowers; and they would not let them pass,
+But plotted on the priest; and they, somehow,
 
-The flowers; they plotted against the priest.
+Brought him a mirror: his own face, diseased
+And old; the terror of his mortal fate
+Undid him; and with pulque made drunk, they seized
+His shame, and barred him {{p|Tula}}'s throne and state.
 
-The legend says they brought him to a mirror
-And showed him his own face, diseased
-And old, and the terror of the nearer
+He walked east, the sea his last desire,
+And at the {{p|Gulf}}'s edge, weeping and bereft,
+Set himself free: burned upon a pyre{{fn|The sources give both endings: in one, Quetzalcoatl burns himself and his heart rises as the morning star; in the other, he sails east on a raft of serpents.}}
+His heart became the morning star; and left,
 
-Truth of his mortality undid him—
-Or they made him drunk on pulque,
-And in his shame and ruin they forbid him
-The throne of {{p|Tula}} and the bulky
+He sailed away, the raft's light growing dim
+Upon the eastern ocean's rim; and both
+Are so: he promised to return; of him
+The age would come again; and, by that oath,
 
-Weight of kingship—and he left.
+The world would learn of flowers and not blood.
+Then north, a thousand miles, two ages on,
+A figure came across the water's flood:
+The {{c|3498|Peacemaker}}, remembered; and, as dawn,
 
-He walked to the eastern sea,
-And at the shore of the {{p|Gulf}}, bereft
-And weeping, he set himself free:
+The {{c|3497|Haudenosaunee}} know him: the root
+Of their own constitution; in the light
+Of longhouse embers, sacred, resolute,
+He came across {{p|Lake Ontario}}'s night,
 
-He burned upon a pyre{{fn|The sources give both endings: in one, Quetzalcoatl burns himself and his heart rises as the morning star; in the other, he sails east on a raft of serpents.}}
-And his heart became the morning star—
-And he sailed away, the fire
-Of his raft diminishing afar
+From the north shore, a stranger, who forsook
+His {{c|3499|Huron}} people; and he found the five
+At war: the {{c|3500|Seneca}}, {{c|3501|Cayuga}} shook,
+{{c|3502|Onondaga}}, {{c|3503|Oneida}}, {{c|3504|Mohawk}}; strive
 
-Upon the eastern ocean's rim—
-And both are so: he promised to return,
-He promised that the age of him
-Would come again, and the world would learn
+Not against strangers, but each other: score
+On score of blood-feud; for a brother, son
+Killed to avenge; revenge's endless war
+Ate nations from within; and he, the one,
 
-Once more the way of flowers and not blood.
+The {{c|3498|Peacemaker}}, he offered grief's release:
+The {{x|Great Law}}: the {{c|3505|Great Law of Peace}}, the law,
+{{x|Gayanashagowa}}, the great league of peace:
+Five nations by one oath, beneath the awe
 
-And a {{x|Reed}} year fell in fifteen nineteen—
-And from the east, across the flood,
-The ships of {{c|3496|Cortés}} were seen.
+Of one roof: each its hearth and its domain;
+But all the five-fold matters, as they fell,
+Were settled at {{p|Onondaga}}, the main
+And central flame, where fifty sachems dwell,
 
-But that is the later chapter's grief.
+The royaneh, deliberating the law:
+The path of the unanimous; the right
+Of the clan mothers, who could so withdraw
+A chief who ruled unwisely; and the might
 
-                                        Now north—
-A thousand miles and two centuries' brief
-And pivotal remove, a figure came forth
+Of women over men's ambition; both
+Held voice; and war required consent of all.
+He planted the {{c|3506|Great White Pine}}, there, the oath,
+The {{x|Tree of Peace}}, and, under it so tall,
 
-Whose name the {{c|3497|Haudenosaunee}} remember
-Not as history but as the living root
-Of their constitution: in the ember
-Of the longhouse fire, the resolute
+The five-fire longhouse, laid out east to west:
+The {{c|3504|Mohawk}}, keeper of the eastern door;
+And {{c|3500|Seneca}}, the west; the center, best,
+{{c|3502|Onondaga}}, the keeper of the lore
 
-And sacred teaching of the {{c|3498|Peacemaker}}.
+Of law; beneath the roots, the hatchet, sunk,
+The war-club, buried, that no hand should take;
+The arrow snapped; beneath the pine's great trunk,
+The nations, freed, the blood-feud's chain would break.
 
-He came across the water—{{p|Lake Ontario}}'s
-Northern shore—a stranger, a forsaker
-Of his own {{c|3499|Huron}} people, whose scenario
+And then the {{c|3498|Peacemaker}} departed. Like
+{{c|3494|Topiltzin}}, the refrain the same: the one
+Who, broken-hearted or fulfilled, will strike
+West, or into the sky, his teaching done,
 
-Was this: the {{c|3497|Haudenosaunee}} nations—
-Five peoples of the eastern woodland: {{c|3500|Seneca}},
-{{c|3501|Cayuga}}, {{c|3502|Onondaga}}, the formations
-Of {{c|3503|Oneida}} and {{c|3504|Mohawk}}—a replica
+And leaves the law and the behest to keep
+It burning, as a light upon the coast;
+The people choose the teaching, or the deep
+Violence they were asked to lose, its ghost.
 
-Of every human failure—were at war.
+Two {{c|3507|Redeemers}}: one of feathers, one pine;
+One of the pyramid, one of the floor
+Of longhouse; one, the morning star's design;
+One planted the tree, and closed the war's door;
 
-Not war with strangers but with one another,
-The blood-feud's endless settling of the score,
-The killing of a son to avenge a brother,
+The pattern of the world: the teacher came
+And healed; his banner, raised, and then withdrawn;
+And what reveals itself is still the same:
+The covenant is fragile; peace lives on
 
-The cycle of revenge that ate
-The nations from within like a disease—
-And into this the {{c|3498|Peacemaker}} came late
-Or early, and proposed the appease-
+Only by choosing it each day; the law
+Is only as strong as the will of those
+Who say, We will keep it. Honor, with awe,
+The {{c|3490|Redeemer}}, who carries heaven's throes,
 
-Ment of all grief through the {{x|Great Law}}.
+Its aching weight, and sets it down before
+The dreamer and the warrior; says: create
+A world of flowers, not blood; law, not war;
+The planted tree, whose branches, in their state
 
-The {{c|3505|Great Law of Peace}}—the {{x|Gayanashagowa}}—
-The constitution that would overawe
-The modern founders of the {{c|3484|American}} {{p|Iowa}}
+Of peace, shelter the nations, who lay down
+Their weapons, choose the harder path: the pact
+Of the healed and shared, the never-grasped crown
+Of might; and this is the {{c|3490|Redeemer}}'s act,
 
-And {{p|Philadelphia}} convention both,
-For the {{c|3497|Haudenosaunee}} league was this:
-Five nations bound by a single oath
-Beneath one roof, the synthesis
-
-Of sovereignty and union—each nation
-Kept its fire, its council, its domain,
-But the matters of the five-fold federation
-Were settled at {{p|Onondaga}}'s central flame,
-
-Where fifty sachems—the royaneh—
-Deliberated in the longhouse law:
-The unanimity of the pathway,
-The clan mothers' power to withdraw
-
-A chief who ruled unwisely—the veto
-Of the women over the men's ambition,
-The separation of the plebeian from the fiat, though
-Both held voice in the ancient tradition—
-
-And war required the consent of all.
-
-The {{c|3498|Peacemaker}} planted the {{c|3506|Great White Pine}}—
-The {{x|Tree of Peace}}—and beneath its tall
-And sheltering branches the design
-
-Of the five-fire longhouse was laid down:
-From east to west—{{c|3504|Mohawk}} the keeper
-Of the eastern door, to the crown
-Of {{c|3500|Seneca}} the western, and the deeper
-
-Center held by {{c|3502|Onondaga}}'s fire-keeper,
-The speaker for the league, the living memory
-Of every law—and the sleeper
-Beneath the roots was the weaponry
-
-Of the nations' former wars: the hatchet
-Buried in the earth beneath the tree,
-The war-club that no hand should catch it,
-The arrow snapped—and all were free
-
-Of the blood-feud's ancient, endless chain.
-
-And then the {{c|3498|Peacemaker}} departed.
-
-Like {{c|3494|Topiltzin}} before him, the refrain
-Is the same: the teacher broken-hearted
-
-Or fulfilled, who walks into the west
-Or into the sky—who leaves the people
-With the law and the behest
-To keep it burning, like a steeple
-
-Light upon the darkened coast—
-And the people, left behind, must choose
-Between the teaching and the ghost
-Of violence they were asked to lose.
-
-Two {{c|3507|Redeemers}}—one of feathers, one of pine,
-One of the {{p|Toltec}} pyramid, one of the longhouse floor,
-One who became the morning star's design,
-One who planted the tree and closed the door—
-
-And the pattern is the pattern of the world:
-The teacher comes, the teacher heals,
-The teacher's banner is unfurled
-And then withdrawn—and what reveals
-
-Itself is this: the covenant is fragile,
-The peace requires the choosing every day,
-The law is only as strong as the agile
-And determined will of those who say
-
-We will keep it.
-
-                 Honor the {{c|3490|Redeemer}}—
-The one who carries heaven's aching weight
-And sets it down before the dreamer
-And the warrior alike, and says: create
-
-A world of flowers and not blood, a world
-Of law and not revenge, a world of the planted
-Tree beneath whose branches, furled
-In peace, the nations—the disenchanted
-
-And the warring—lay their weapons down
-And choose the harder path: the covenant
-Of the healed, the shared, the ungrasped crown
-Of power—the {{c|3490|Redeemer}}'s testament
-
-Is always this: I came, I taught, I leave—
+His testament: I came, I taught, I leave;
 And what you build without me is the proof
-Of whether you believed. Now weave
-The peace yourselves, beneath the roof
+Of whether you believed. Now you must weave
+The peace yourselves, beneath the planted roof
 
-Of the tree I planted, by the law I gave—
-The morning star will rise again, the pine
-Will grow, the longhouse fire will save
-Its warmth for those who keep the line
+Of the tree, by the law I gave; the star
+Of morning rises, and the pine will grow;
+The longhouse warmth is kept for those who are
+True to the teaching; choose the flower, so,
 
-Of the teaching: choose the flower, not the blade.
-Choose the council, not the war.
+Not the blade; choose the council, not the war;
 Choose the covenant the {{c|3490|Redeemer}} made,
-And he will come again—but not before
-
-You prove you can sustain the peace without him.
+And he will come again; but not before
+You keep the peace without him, unafraid.
