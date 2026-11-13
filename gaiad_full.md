@@ -42163,83 +42163,88 @@ The {{x|Mandate}} goes: feed people; then rites, too.
 
 # Chapter 276: The Confluence of the Two Seas
 
-{{c|3953|Shah Jahan}}, the grandson of {{c|3823|Akbar}}, built a tomb of white marble
-At {{p|Agra}} for his wife {{c|3954|Mumtaz Mahal}}, who died giving birth
-To their fourteenth child. The {{c|3955|Taj Mahal}}. And when he fell ill, the marvel
-Of his empire, the richest on earth,
+{{c|3953|Shah Jahan}}, {{c|3823|Akbar}}'s grandson, built a white
+Marble tomb, at {{p|Agra}}, for his own bride,
+{{c|3954|Mumtaz Mahal}}, dead at fourteenth birth; the light,
+The {{c|3955|Taj Mahal}}; and, ill, his wealth, his pride,
 
-Went to war over him, in 1657, four sons against each other.
-The eldest, {{c|3956|Dara Shikoh}}, the father's favourite, the heir,
-Was a scholar and a mystic, a {{c|3957|Sufi}} of the {{c|3958|Qadiri}} order, the brother
-Who had sat with the {{x|Hindu}} sages and the {{x|Muslim}} saints, and in the air
+The richest realm on earth, went to its war
+In fifty-seven: four sons; eldest, heir,
+{{c|3956|Dara Shikoh}}, the favourite, the core,
+A scholar, {{c|3957|Sufi}}, {{c|3958|Qadiri}}; and there
 
-Of their talk had found one truth. He wrote a book, *The Confluence
-Of the Two Seas*, *{{x|Majma-ul-Bahrain}}*: that the {{c|3957|Sufi}} way and the {{c|3959|Vedanta}}
-Were the same ocean, named twice; that the difference
-Was only in words. And in 1657, with the pandits of {{p|Varanasi}}, the mantra
+He sat with {{x|Hindu}} sages, {{x|Muslim}} saints,
+And wrote {{x|Majma-ul-Bahrain}}: the two seas,
+The {{c|3957|Sufi}} way, {{c|3959|Vedanta}}: no restraints
+Between: one ocean, named twice; words, the keys
 
-Of his life's work: he translated fifty {{c|2987|Upanishads}} into {{x|Persian}},
-And called them the hidden book the {{c|3960|Quran}} itself had hinted at,
-*{{x|The Greatest Secret}}*. That was {{c|3823|Akbar}}'s {{x|House of Worship}}, the version
-Of it in one man's heart. And his brother {{c|3833|Aurangzeb}}, a different hat
+Of difference only. He, with the wise
+Pandits of {{p|Varanasi}}, turned in time
+Fifty {{c|2987|Upanishads}} to {{x|Persian}}; prize,
+The hidden book the {{c|3960|Quran}} hints; the climb,
 
-Of the same house: austere, orthodox, a soldier, a scholar of the law,
-Who prayed five times a day and knew the {{c|3960|Quran}} by heart,
-Beat {{c|3961|Dara}} at {{p|Samugarh}} in 1658, and beat him again, and saw
-Him handed over, betrayed by a host, and brought in chains, the part
+*{{x|The Greatest Secret}}*; {{c|3823|Akbar}}'s House, the part
+In one heart. And {{c|3833|Aurangzeb}}, his brother,
+Austere and orthodox, a world apart,
+The {{c|3960|Quran}} by heart, five prayers; no other,
 
-Of the end: paraded through {{p|Delhi}} on a filthy elephant,
-And tried by the clerics for apostasy, and his head cut off, in 1659.
-The father, {{c|3953|Shah Jahan}}, was shut in the fort at {{p|Agra}}, the remnant
-Of his days spent looking across the river at the white line
+Beat {{c|3961|Dara}} at {{p|Samugarh}}, fifty-eight,
+And beat again; betrayed, by a host sold,
+In chains, paraded {{p|Delhi}} on the weight
+Of a filthy elephant; tried, the old
 
-Of the tomb he had built, for eight years, until he died.
-And the son ruled for forty-nine years, as {{c|3962|Alamgir}}, {{c|3963|Seizer of the World}}.
-Now hear it carefully, and hear it with nothing to hide:
+Clerics' charge, apostasy; his head cut,
+In fifty-nine. {{c|3953|Shah Jahan}}, father, kept
+In {{p|Agra}}'s fort, eight years; the river, shut,
+He watched the tomb across, white, till he slept.
+
+The son, as {{c|3962|Alamgir}}, ruled long, the one
+{{c|3963|Seizer of the World}}. Hear, and do not hide:
+Forty-nine years; and what the war had won:
 One house, one throne: the fight was who'd preside.
 
-And he was a ruler of his time, who also granted land
-To temples, and employed more {{x|Hindu}} nobles than his father did.
-Both are true, and this is the record: by his command
-The jizya, the tax on {{c|3204|Hindus}}, came back in 1679; the lid
+And he, a ruler of his time, gave land
+To temples, raised more {{x|Hindu}} nobles than
+His father did; both true; by his command
+Jizya, in seventy-nine; began
 
-Came down on great temples, at {{p|Varanasi}}, at {{p|Mathura}}, and mosques
-Rose on their ground; and the ninth guru of the {{c|3964|Sikhs}}, {{c|3965|Tegh Bahadur}},
-Who had spoken for the {{c|3204|Hindus}} of {{p|Kashmir}} against forced conversion, the tasks
-Of conscience, was beheaded in {{p|Delhi}}, in 1675. The order
+Great temples' fall; and mosques rose on their ground;
+The {{c|3964|Sikhs}}' ninth guru, {{c|3965|Tegh Bahadur}}, who
+Spoke for {{p|Kashmir}}'s {{c|3204|Hindus}}, conversion's bound
+Refused: beheaded, seventy-five; through
 
-Of the {{c|3964|Sikhs}} became an order of soldiers after that:
-His son {{c|3966|Gobind}} made the {{c|3967|Khalsa}}. {{c|3719|Nanak}}'s clearing of the ground
-Had to grow a sword. And the emperor, in his hat
-Of humility, sewed prayer caps and copied the {{c|3960|Quran}} to be found
+His son, {{c|3966|Gobind}}, the {{c|3967|Khalsa}} came, a sword:
+{{c|3719|Nanak}}'s clearing had to grow a blade.
+The emperor sewed caps; and, in accord,
+Copied the {{c|3960|Quran}}, so his food was paid;
 
-Paying for his own food, they say, and spent the last twenty-six years
-Of his life in the {{p|Deccan}}, at war with the {{c|3968|Marathas}} of {{c|3969|Shivaji}},
-Winning battles and losing the war, the empire at its greatest extent, and the tears
-Of the treasury running dry. He died in 1707 at {{p|Ahmednagar}}, now {{p|Ahilyanagar}}, the free
+And spent his last years in the {{p|Deccan}}'s war
+With {{c|3968|Marathas}} of {{c|3969|Shivaji}}: he won
+The battles, lost the war; the realm grew more,
+The treasury ran dry; and, his race run,
 
-Old man of eighty-eight, and asked to be buried in a plain grave,
-Open to the sky, at {{p|Khuldabad}}, paid for with his caps. It is there.
-And within fifty years the empire was a name. The save
-Of the synthesis came from elsewhere. Hear where:
+At {{p|Ahmednagar}} he died, eighty-eight,
+And asked a plain grave, open to the sky,
+At {{p|Khuldabad}}, paid by his caps; and late
+It lies there still. The synthesis, hold high:
 
-{{c|3961|Dara}}'s {{x|Persian}} {{c|2987|Upanishads}} were carried to {{p|France}}, and in 1801
-A {{x|French}} scholar, {{c|3970|Anquetil-Duperron}}, put them into {{x|Latin}}, and a young
-{{x|German}} philosopher, {{c|3971|Schopenhauer}}, read them, and wrote: it has been the consolation of my life, the sun
-Of my death. And through him the {{c|2987|Upanishads}} went into the tongue
+{{c|3961|Dara}}'s {{x|Persian}} {{c|2987|Upanishads}} are read
+In {{p|Europe}} now, in {{x|Latin}} and in tongue
+Of thinkers; and the brother who was dead,
+Who lost the war, won the long game, among
 
-Of {{p|Europe}}'s thinking. The brother who lost the war won the long game.
-The confluence was closed in {{p|India}} and opened in {{p|Europe}}. The seas
-Run where they will. Hold both brothers. The same
-House, the same blood, the same faith, and the two keys:
+Seas that run where they will. Hold both brothers:
+The same house, blood, and faith; and the two keys,
+Locking key, opening key for others;
+The tomb by the river, built for love: these;
 
-The key that locks, the key that opens. The tomb by the river,
-Built for love, watched by a prisoner. The plain grave on the hill.
-The head of the mystic. The {{c|3972|Upanishad}} in {{x|Latin}}. The giver
-And the taker. The confluence is never closed. It is still
+A prisoner watched it; plain grave, the hill;
+The mystic's head; the {{c|3972|Upanishad}}, read;
+The giver and the taker; and it's still
+Running, the confluence, somewhere; and fed:
 
-Running somewhere. Find it. Two seas, one water.
-Sit with the sages. Do not cut off the head
+Find it: two seas, one water, son, daughter;
+Sit with the sages. Do not cut the head
 Of him who saw both shores held one water.
 Two seas, one rite. Let the river be fed.
 
