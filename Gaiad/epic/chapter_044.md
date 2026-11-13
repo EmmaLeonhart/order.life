@@ -497,7 +497,7 @@ Through calm and through the wild and raging storms.
 
 In every spiral shell, so finely spun,
 Whose stories tell of function, side by side
-With beauty, as they tell us, every one,
+With beauty, and they show it, every one,
 All working in conjunction, and allied,
 
 Remember how it was that they first came,
