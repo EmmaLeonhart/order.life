@@ -40964,90 +40964,100 @@ On all of them, and all their kin set free.
 
 # Chapter 263: The House of Worship
 
-The emperor could not read. Akbar, grandson of Babur,
-Who had sacked the cities Nanak wept for, came to the throne
-At thirteen, in 1556, and never learned his letters. The arbor
-Of his mind was planted by ear: he had books read to him, alone
+The emperor could not read: Akbar, son
+Of Babur's line, whose sack Nanak wept,
+At thirteen, fifty-six, his reign begun,
+Unlettered; books read to him; and he kept
 
-At night, the histories, the poets, the Sufis, the Mahabharata,
-And remembered everything. He married a Rajput princess
-Of {{p|Amber}}, a Hindu, and did not make her convert. The data
-Of his reign: he abolished the pilgrim tax, and the jizya, the duress
+Them all by ear, and he remembered all:
+The histories, the Sufis, poets' lines,
+The Mahabharata; he took, in hall,
+A Rajput bride, a Hindu; he declines
 
-Laid on the Hindus for being Hindu, in 1564.
-He conquered half of {{p|India}} and ruled it from a city
-He built from nothing at {{p|Fatehpur Sikri}}, red stone, a door
-Of victory, the {{p|Buland Darwaza}}, on the ridge. The pity
+To make her change her faith. And, in his turn,
+He lifted pilgrim tax, jizya, laid
+On Hindus just for being Hindu; stern,
+In sixty-four. Half {{p|India}} obeyed;
 
-Is that the water failed and the city was abandoned
-Within fifteen years. But for those years it held a room.
-In 1575 he built the Ibadat Khana, the {{p|House of Worship}}, and planned
-That on Thursday nights the learned men of {{x|Islam}} would assume
+He ruled it from a city built from naught
+At {{p|Fatehpur Sikri}}, all in red stone;
+{{p|Buland Darwaza}}, victory's door, wrought;
+The water failed; in fifteen years, alone,
 
-Their places and debate the faith before him. They debated.
-They shouted. They called each other infidels. The Sunni
-Scholars brawled with each other while the emperor waited.
-So he opened the doors. The Shia came. Then, uncanny
+Abandoned. But those years, it held a room:
+Seventy-five: Ibadat Khana, raised,
+The {{p|House of Worship}}, where, on Thursdays' gloom,
+The learned men of {{x|Islam}}, gathered, praised,
 
-For a Muslim court, the Brahmins, the Jain monks, who taught him
-Not to kill, so that he gave up hunting for days of the year
-And stopped eating meat on many days; the Zoroastrians, who brought him
-The sacred fire, which he kept burning at court; and, in the clear
+And argued faith; they shouted, and they swore,
+"Infidel"; Sunni scholars brawled; and he,
+Emperor, waiting, opened wide the door:
+The Shia came; and then, a strange decree,
 
-Light of 1580, three Jesuits from {{p|Goa}},
-Rodolfo Acquaviva among them, who thought they would convert
-The emperor, and argued with the mullahs till the glow
-Of the lamps went out, and kissed the {{x|Gospel}} he let them assert
+A Muslim court let Brahmins in; and Jain
+Monks taught him not to kill; he spared the chase,
+Ate meat on fewer days; and, in the train,
+Zoroastrians' fire, kept in its place;
 
-Before him, and he kissed it too, and did not convert.
-He listened to everyone. That was his gift and his limit.
-In 1579 the scholars were made to sign a decree, the curt
-*{{x|Mahzar}}*, that where they disagreed, the emperor's judgment within it
+And, in the light of fifteen-eighty, three
+Jesuits came from {{p|Goa}}, sent to save,
+Rodolfo Acquaviva, sure that he
+Would turn the king; they argued till lamps gave
 
-Would decide. And around 1582, his friend Abul Fazl,
-The historian, the theorist of the reign, helped to frame
-What was later called the Din-i Ilahi, the {{x|Divine Faith}}. All
-It asked was discipleship: the emperor as the teacher, the name
+Their last; and kissed the {{x|Gospel}}; let it sound
+Before him, and he kissed it, too, and, kind,
+Did not convert. He listened: gift and bound.
+Seventy-nine, the scholars signed, consigned,
 
-Of God, *{{x|Allahu Akbar}}*, read two ways (God is great;
-God is Akbar, said the enemies), a reverence
-For the sun and for light, *sulh-i kul*, peace with all, the weight
-Of no one faith on any other. And the deference
+The *{{x|Mahzar}}*: where they disagreed, the king
+Would judge. And then Abul Fazl, his friend,
+Historian, helped frame the newer thing,
+The Din-i Ilahi, {{x|Divine Faith}}, penned;
 
-Of the court followed, and the rest of the empire did not.
-At most some eighteen disciples are named. Only one a Hindu,
-Birbal, the wit. No temples. No book. No clergy. The plot
-Of the new faith was a circle around one man, a few
+Asked only that they follow him, the one;
+*{{x|Allahu Akbar}}*: "God is great," read two
+Ways: "God is Akbar," said his foes; the sun
+And light; and *sulh-i kul*, peace with all, through;
 
-Courtiers who loved him. When he died in 1605
-It died with him. His son Jahangir kept the peace, mostly,
-And his great-grandson Aurangzeb would end the synthesis alive
-In the empire, and the jizya would return. The ghostly
+No faith the weight on any other. Court
+Followed; the realm did not; some eighteen names
+Of followers; one Hindu, Birbal, sport
+Of wit; no temples, book, nor clergy's claims.
 
-{{p|House of Worship}} is gone: at {{p|Fatehpur Sikri}} they argue which ruin it was, now.
-These are the {{x|Days of Awe}}. Search yourself. So: why did it die?
-This book is a founder's book. Its religion is one woman's vow,
-A synthesis out of many, made in one life. Ask the why
+The new faith was a circle round one man,
+A few who loved him; dying, sixteen-five,
+It died with him; and, where the court began,
+The {{p|House of Worship}}'s gone; men now contrive
 
-As a question to ourselves. Akbar's faith had a court and no people.
-It had a king and no book. It asked to be loved through one man.
-It forbade nothing and so held nothing. A steeple
-Needs a village. A synthesis needs a calendar, a plan
+To name its ruin. These, the {{x|Days of Awe}}:
+Search yourself, then: why did it die? This book,
+A founder's book: one woman's vow, the law
+Of many, made in one life; ask; and look
 
-That outlasts the founder: days that anyone can keep,
-A scripture anyone can read, a rite a stranger can do
-Without the founder in the room. Akbar's faith was deep
-And wide and kind, and it was a circle of a few.
+Into ourselves. His faith had court, no folk;
+A king, no book; through one man, to be known;
+Forbade nothing, so held nothing; it spoke;
+A synthesis needs days, and must be grown
 
-Nanak said there is no Hindu and no Muslim, and left a kitchen
-And a successor and a book, and it lives.
-Akbar said there is only light and peace, and left a city, and the itch in
-The historians' pens, and it does not. Each gives
+By days that outlast founders, that each one
+Can keep; a scripture all can read; a rite
+A stranger does without him; it was done,
+Deep, wide, and kind: a few, a circle tight.
 
-What it gives. Honor the emperor who could not read
-And would not stop listening. Learn from the room
-He built for every faith, and from its emptiness. The seed
-Needs ground. Plant it in the days, not in the throne. Not in the tomb.
+Nanak said: "No Hindu, no Muslim," left
+A kitchen, a successor, and a book;
+It lives. And Akbar: "Light and peace," bereft
+Of all but city, historians' look;
+
+It does not live. Each gives what it can give.
+Honor the king who could not read, and would
+Not stop his listening; learn, so faiths live,
+From his room built for all, from where it stood
+
+Empty. The seed needs ground: plant it in days,
+Not in the throne, and not within the tomb,
+Not in a court, but where the stranger stays
+To keep, without the founder in the room.
 
 
 # Chapter 264: The Scholar from the Western Sea
