@@ -41356,95 +41356,95 @@ It held too long. Grieve, and give thanks tonight.
 
 # Chapter 267: The Company
 
-The {{c|3868|Englishman}} who washed up in {{p|Japan}} in 1600 came on a {{c|3869|Dutch}} ship,
-The {{c|3870|Liefde}}, *{{x|Love}}*, one of five that set out and the only
-One that arrived, with twenty-four men alive. The grip
-Of the {{c|3869|Dutch}} on the eastern seas began that lonely
+The {{c|3868|Englishman}} of sixteen hundred came
+On a {{c|3869|Dutch}} ship, the {{c|3870|Liefde}}, named *{{x|Love}}*, the one
+Of five that set out, and arrived; the same,
+Twenty-four alive: the {{c|3869|Dutch}} grip begun
 
-And that small. Two years later, on the twentieth of March,
-1602, in {{p|The Hague}}, the {{c|3871|States General}} of the young
-{{c|3626|Republic}}, still at war with {{p|Spain}}, made a new thing: the arch
-Of a state with the body of a merchant. On the tongue
+So lonely and so small. Two years, and then,
+March twentieth, sixteen-two, at {{p|The Hague}},
+The {{c|3871|States General}}, {{c|3626|Republic}} young, when
+At war with {{p|Spain}}, made a new thing, not vague:
 
-Of the charter: the {{c|3872|Vereenigde Oostindische Compagnie}},
-The {{c|3873|United East India Company}}, the {{c|3874|VOC}},
-Granted the monopoly of all trade east of the {{p|Cape of Good Hope}}, and then
-Something no merchant had held: the right to make war, the fee
+A merchant's body as a state. The name:
+The {{c|3872|Compagnie}}, the {{c|3874|VOC}}, was chartered; then
+{{c|3873|East India Company}}, by the same,
+Got all trade past the {{p|Cape of Good Hope}}; then
 
-Of sovereignty: to build forts, to sign treaties with kings,
-To raise armies, to coin money, to govern, to judge, to hang.
-A company with the powers of a state. And other things,
-Newer still: anyone could buy a share. The clang
+What no merchant had held: war, treaties signed
+With kings, build forts, raise armies, coin, and hang,
+Govern and judge: a state's powers, combined;
+And newer: shares for anyone; the clang
 
-Of the bell on the bridge in {{p|Amsterdam}}, and the shares were traded,
-Bought and sold by people who would never see a ship,
-And the capital was permanent, not paid back when a voyage faded:
-The first great company owned by strangers. The grip
+Of {{p|Amsterdam}}'s bell; the shares were traded
+By folk who'd never see a ship; the gain
+Stayed, not paid back when voyages faded;
+First great company owned by strangers: plain,
 
-On the world now had shareholders. The maid and the burgomaster
-Both could own a piece of the pepper of {{p|Java}}.
-That is the gift: the many could share the profit. The disaster
-Is what the profit was made of. Hear it. Like lava
+The maid and burgomaster both could own
+A piece of {{p|Java}}'s pepper: that's the gift,
+The many share the profit. But the bone
+Of it: what profit's made of. Hear the drift:
 
-Under the green of the spice islands: nutmeg grew
-In one place on earth, the {{p|Banda Islands}}, ten small isles
-Of the {{p|Moluccas}}. The {{c|3875|Bandanese}} sold it to all who came through,
-{{c|3876|Javanese}}, {{c|3710|Arab}}, {{c|3841|Chinese}}, {{c|3244|English}}. The {{c|3877|Company}}'s files
+Nutmeg grew in one place on earth, the green
+{{p|Banda Islands}}, ten isles, {{p|Moluccas}}' own;
+{{c|3875|Bandanese}} sold it to all, between
+{{c|3876|Javanese}}, {{c|3710|Arab}}, {{c|3841|Chinese}}, {{c|3244|English}}; known,
 
-Wanted a monopoly. In 1621 {{c|3878|Jan Pieterszoon Coen}},
-{{c|3879|Governor-General}}, who had founded {{p|Batavia}} on the ruins of {{p|Jayakarta}},
-Came with his ships and his {{c|3815|Japanese}} mercenaries, and soon
-The islands were empty: of perhaps fifteen thousand, a scatter,
+{{c|3877|Company}} wanted all; in twenty-one,
+{{c|3879|Governor}} {{c|3878|Jan Pieterszoon Coen}} made
+{{p|Batavia}} on {{p|Jayakarta}}, won,
+Came with his ships and {{c|3815|Japanese}}, and laid
 
-A thousand left; the elders beheaded, the rest
-Starved in the hills or sold as slaves or fled.
-And the groves were given to {{c|3869|Dutch}} planters, and the best
-Of the land worked by slaves brought in instead.
+The islands empty: fifteen thousand, few;
+A thousand left; the elders' heads cut off;
+The rest starved in the hills, or, sold, went through
+As slaves, or fled; the groves, to {{c|3869|Dutch}}, the trough
 
-That is the price of a nutmeg on a {{c|3869|Dutch}} table.
-Coen had written to his directors: *despair not,
-Spare not your enemies, for nothing in the world* (the fable
-Of a ledger) *can hinder or harm us*. The plot
+Of planters; and the land worked by slaves brought;
+Price of a nutmeg on a {{c|3869|Dutch}} table.
+Coen wrote: "Despair not; spare foes in naught;
+Naught can hinder us": the ledger's fable.
 
-Of the {{c|3877|Company}} spread: {{p|Melaka}} taken from the {{c|3212|Portuguese}},
-{{p|Sri Lanka}}'s cinnamon, a fort on {{p|Taiwan}},
-And in 1652 a refreshment station at the {{p|Cape}}, with the ease
-Of a garden: {{p|Cape Town}}, and the long dawn
+The {{c|3877|Company}} spread: {{p|Melaka}}, and won
+From {{c|3212|Portuguese}}; {{p|Sri Lanka}}'s spice; a fort
+On {{p|Taiwan}}; fifty-two, a station, one
+For rest, the {{p|Cape}}: {{p|Cape Town}}, a garden port.
 
-Of another history there. And in {{p|Japan}}, when the {{c|3317|Tokugawa}}
-Closed the country, the {{c|3869|Dutch}} were the only {{c|2930|Europeans}} let stay,
-On a fan-shaped artificial island, {{p|Dejima}}, in {{p|Nagasaki}}'s harbour, a straw
-Of contact, the one window, for two hundred years. The way
+And in {{p|Japan}}, when {{c|3317|Tokugawa}} closed
+The land, the {{c|3869|Dutch}}, of {{c|2930|Europeans}}, stayed
+On {{p|Dejima}}, {{p|Nagasaki}}'s fan, posed,
+The one window, through which the two worlds weighed
 
-The world learned of {{p|Japan}}, and {{p|Japan}} of the world.
-And the {{c|3877|Company}} kept everything on paper. Its archive
-Fills kilometres of shelves: every ship, every bale, the furled
-Sail and the slave sold, the soldier's wage, the alive
+Each other. And the {{c|3877|Company}} kept all
+On paper; kilometres of its shelves:
+Each ship, each bale, the slave sold, soldier's call
+Of wages, living, dead; the files themselves
 
-And the dead, in {{p|Jakarta}}, {{p|Cape Town}}, {{p|Colombo}}, {{p|The Hague}}.
-A register of the first company-state. Historians
-Read in it the lives of the enslaved, who are otherwise vague,
-Only there. The ledger kept the people its business
+{{p|Jakarta}}, {{p|Cape Town}}, {{p|Colombo}}, {{p|The Hague}}:
+A register of company and state;
+The lives of slaves, there only, else so vague,
+The ledger keeps whom business would prostrate.
 
-Destroyed. That is the double edge again. On the {{x|Fifth Day of Awe}},
-Look at it straight: the joint-stock company, the share, the trade,
-The idea that a corporation may hold the sword and the law,
-Was born here, and it never went away. The blade
+Double edge again. The {{x|Fifth Day of Awe}}:
+Look at it straight: the share, the joint-stock's trade,
+The thought a corporation holds the law
+And sword, was born here; and it never strayed.
 
-Is bigger now. Companies that know more of us than any state,
-Whose shareholders never see what their profit is made of,
-Whose powers are a charter's. Will the next machine create
-A {{p|Batavia}}? That question is {{c|3880|Ophiuchus}}'s. Here, enough:
+The blade is bigger now: firms know us more
+Than any state; their shareholders don't see
+What profit's made of. Will the next, in store,
+Make {{p|Batavia}}? {{c|3880|Ophiuchus}}' plea.
 
-The {{c|3877|Company}} went bankrupt in 1799, its debt
-Taken on by the state it had half replaced.
-Its flag came down. Its methods did not. And yet
-The nutmeg still grows in {{p|Banda}}. Give thanks for its taste
+Enough. Its flag came down; its ways did not;
+And still the nutmeg grows in {{p|Banda}}; taste,
+Give thanks, and remember the islands' lot;
+Repent of profit made by strangers, placed
 
-And remember the islands. Repent of every profit made
-By strangers who never had to see the hills
-Where the people starved. Own your shares in the shade
-Of that question. Ask what the ledger kills.
+Far from the hills where people starved; and own
+Your shares beneath that question, in its shade;
+Ask what the ledger kills, and what is known
+Of what the profit, held by strangers, made.
 
 
 # Chapter 268: The Rune-Keeper
