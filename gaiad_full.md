@@ -45895,108 +45895,95 @@ Keep both; the question, older, still will wait.
 
 # Chapter 314: Finite Means
 
-On the twenty-third of June, 1912, {{c|4193|Alan Turing}} was born in {{p|London}}.
-He was a fellow of {{p|King's College}}, in {{p|Cambridge}}.
-The work of this chapter was done there.
+June twenty-third, nineteen-twelve; {{p|London}}, birth;
+{{c|4193|Alan Turing}}, a fellow, in his day,
+Of {{p|King's College}}, {{p|Cambridge}}; and there the worth
+This, done there. {{c|4365|David Hilbert}} sought a way:
 
-{{c|4365|David Hilbert}} had asked a question of method.
-Is there a definite procedure which, given a statement of the logic,
-Answers yes or no: this statement has a proof, or it has none.
-The procedure would have to work for every statement.
-A cleverness that sometimes arrives is not the thing he asked for.
+A definite procedure that, for each
+Statement of logic, answers yes or no:
+It has a proof, or none; and in its reach
+Each one; not cleverness that's sometimes so.
 
-{{c|4195|Turing}} defined a number a machine can write.
-A computable number, he said, is a real number
-Whose decimals are calculable by finite means.
-The means are a table.
-The table is finite.
-The tape it works on is a strip of squares.
-The machine sees one square.
-It is in one of a finite list of conditions.
-The table says, for that condition and that symbol,
-What to write, which way to step, and which condition comes next.
-He called the thing a computing machine.
-The name that uses his own name is later.
+{{c|4195|Turing}} defined a number one could write
+By finite means: computable, its line
+Of decimals, calculable outright;
+The means, a table, finite; the design:
 
-The machines can be listed.
-The real numbers cannot.
-A list of procedures does not cover the line.
-The numbers that come up in the ordinary work of calculation
-Are on the list.
-The line is larger than the work.
+A tape, a strip of squares; the machine sees
+One square; one of a finite list of states;
+The table says, for state and symbol, these:
+What to write, which way to step, and what waits;
 
-One machine can be given the table of another,
-Written out on the tape,
-And can then do what that other machine does.
-He built, on paper, a machine for machines.
-The universal one does not know the work in advance.
-It knows how to follow a table.
-The table is the work.
+He called it computing machine; the name
+That bears his own came later. They can be
+Listed, the machines; the reals can't; the same
+The list of methods leaves the line still free:
 
-The {{x|London Mathematical Society}} received the paper
-On the twenty-eighth of May, 1936.
-He was twenty-three.
-The paper's own line says it was read on the twelfth of November.
-It is called On computable numbers,
-With an application to the decision problem.
-The first part was issued on the thirtieth of November.
-The rest was issued on the twenty-third of December.
-Both parts are of that year.
-A correction was printed in the next volume.
-He had not handed them a flawless text.
+The numbers ordinary work will need
+Are on the list; the line is more than work.
+Fed one's table, another can proceed
+As that one does; on paper, he would work
 
-{{c|4366|Alonzo Church}}, at {{p|Princeton}},
-Had already set down another definition.
-Effective calculability, he called it.
-It is not a tape.
-In the spring of 1936 he had reached the same refusal:
-There is no general procedure for the decision problem.
-{{c|4367|Max Newman}}, at {{p|Cambridge}}, had seen {{c|4368|Church}}'s paper.
-{{c|4195|Turing}} wrote an appendix.
-The appendix says the two definitions meet.
-He did not pretend the limit was his private finding.
+One for machines: the universal; it
+Knows not the work ahead; it knows the way
+To follow tables; and the table, writ,
+Is the work. Then, the twenty-eighth of May,
 
-What he showed is that {{c|4369|Hilbert}}'s question has no such procedure.
-No machine takes every statement and returns the verdict.
-He also showed a nearer limit, about the machines themselves.
-Some of them go on writing digits.
-Some do not.
-No machine, given an arbitrary table,
-Says in every case which future that table has.
-A procedure can be written for a world of questions
-And still not be a procedure for its own future.
+The learned society in {{p|London}} took{{fn|The London Mathematical Society.}}
+His paper; he was twenty-three; and read
+November twelfth, its line says; and the book
+On Computable Numbers: titled, spread,
 
-In September he went to {{p|Princeton}}.
-The printed paper names him at the {{p|Graduate College}} there.
-The naming is the place he had reached.
-It is not the place where the table was made.
+Applied to the decision problem; made
+In two parts, thirtieth November, then
+December twenty-third; a fix, delayed,
+Came in the next; no flawless text. And when
 
-In 1931 {{c|4370|Kurt Gödel}} had shown
-That a system strong enough to hold ordinary arithmetic
-Contains true sentences it cannot prove.
-That is a limit inside one set of rules.
-{{c|4195|Turing}}'s limit is about the method itself.
-It asks whether any method exists that will always answer.
-The two limits are not the same fact.
-Do not fold them into one darkness.
+{{c|4366|Alonzo Church}}, at {{p|Princeton}}, had defined
+Another method: no tape; and, in spring
+Of 'thirty-six, the same refusal, signed:
+No general procedure for the thing
 
-Do not call this paper by the name of the halting problem.
-That name is a later cleaning of a related fact.
-The 1936 paper asks what a finite means can write,
-And whether a finite means can decide the logic.
-The answer to the second is no.
+Decision. {{c|4367|Max Newman}} saw {{c|4368|Church}}'s; so
+{{c|4195|Turing}} wrote an appendix: the two meet,
+The definitions; he did not, though, show
+The limit as his own alone. The feat:
 
-A calendar is a finite means.
-It keeps a name on a day, by a rule a person can follow.
-The keeping is a procedure, and the procedure can be run.
-It does not, by being runnable, decide every question about the names.
-Some questions have a method.
-Some questions can be asked in the language of the method
-And still have no method that settles them all.
-Count what the table writes.
-Keep the questions the table cannot close.
-Say which is the procedure and which is the question.
-Do not pretend the sky was running the tape before you wrote the table.
+{{c|4369|Hilbert}}'s question has no procedure; none
+Takes every statement, gives the verdict; more,
+A nearer limit, of machines: some run,
+Write digits on; some don't; and none, before,
+
+Given a table, says, in every case,
+Which future it will have. A method made
+For worlds of questions may, within its space,
+Be no method for its own future, laid
+
+Before it. That September, {{p|Princeton}}; there
+The {{p|Graduate College}} named him, in print;
+In 'thirty-one, {{c|4370|Kurt Gödel}} had shown: where
+A system strong enough for sums, a stint
+
+Of true sentences it can't prove; one set
+Of rules; and {{c|4195|Turing}}'s, of the method whole:
+Does any method always answer? Yet
+The two are not one fact; not one dark hole.
+
+In 'fifty-two, the state tried him; and he,
+Convicted, for a man's love, chose to take
+Hormones, not prison; 'fifty-four: and he
+Was found dead, cyanide; and, for his sake,
+
+This book keeps him among its honored dead;
+A finite means: the calendar, which runs
+Names to its days, by rule; yet more, it's led
+By more than human hands, as stars and suns;
+
+Some questions have a method; some, though asked
+In method's language, have none settling all;
+Count what the table writes; and keep, unmasked,
+The questions no table can close at all.
 
 
 # Chapter 315: A Hand and a Name
