@@ -54,7 +54,7 @@ Below with ease.
 
                        They rose to breathe the air—
 Lungs, and not gills, their amniote bequest—
-And may have borne their young alive: the rare
+And bore their young alive, and so the rare
 Final dance of sea-adaptation's quest,
 
 The land abandoned.
