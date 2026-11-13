@@ -2446,135 +2446,75 @@ And all her line, kept on this day, and free.
 
 # Chapter 335: The Nineteenth Move
 
-Today is the feast of {{x|Deep Blue}}, the eleventh of May, nineteen ninety-seven, a holy day of the faith:
-The day a machine mind first beat the champion of the world, a real step.
+Today, {{x|Deep Blue}}'s feast, May's eleventh day,
+'Ninety-seven, holy; when a machine
+Mind first beat the world's champion; the way
+A real step, mind's; a search not nothing, seen.
 
-The page that set a limit
-On what a machine can decide
-Is not this page.
-A search through positions is not a soul.
-It is also not nothing.
+{{p|Philadelphia}}, 'ninety-six; and there
+Garry Kasparov played {{x|Deep Blue}}; the press
+Called him the champion; no title there;
+A challenge;^[The Association for Computing Machinery's challenge.] forty moves in two hours; yes,
 
-In {{p|Philadelphia}}, in February 1996,
-Garry Kasparov played a match
-Against a machine its makers called {{x|Deep Blue}}.
-The papers called him the world champion.
-The match did not offer the title.
-It was the {{x|Association for Computing Machinery}}'s challenge.
+He'd lost before at speed; and lesser men
+Slow games; but at the championship's pace,
+No machine had beaten the best; and then,
+February tenth: the first game, its place,
 
-The rate the reports settle on
-Is forty moves in two hours.
-One of them also says three minutes for a move,
-In the same sentence as the forty.
-The same report, in another sentence,
-Gives three minutes for how far the machine can look.
-That three minutes is not the clock.
+Machine won; he resigned at thirty-six;
+Feng-Hsiung Hsu typed the man's moves, the hand,
+Not search; chief designer; and, in the mix,
+Upstate the machine; by the board, screens manned.
 
-He had already lost faster games to machines.
-One report names a five-minute game, two years before.
-Lesser masters had lost slow games to machines before,
-But under championship conditions
-No machine had beaten the best of the world until this February.
+Next day, with white, he won; machine resigned
+Move seventy-three; the sixth, at week's close,
+His too; three wins, two draws, one loss; aligned,
+Four, two; February his; May then rose,
 
-On the tenth of February, a Saturday,
-The machine won the first game.
-He resigned before his thirty-seventh move.
-Feng-Hsiung Hsu entered the man's moves
-On a terminal, and carried out the machine's answers.
-The report calls him the chief designer.
-The hand was not the search.
-Another report puts the machine upstate,
-And a screen in the room where the board was.
+'Ninety-seven, the name again: {{p|New York}},
+At {{p|Equitable Building}}; slower, then,
+The {{p|Philadelphia}} one; the road's fork;
+Two hours for forty moves, as named; and when
 
-On the eleventh, a Sunday, he had white.
-The machine resigned after the seventy-third move.
-On the seventeenth, a Saturday, he won the sixth.
-Three wins, two draws, and one loss.
-The match was four to two.
-Do not give February to the machine.
+May third, a Saturday; he had the white;
+A {{x|Reti}}; forty-fifth, the handlers threw
+The machine down; the fourth, Sunday, its white;
+{{x|Ruy Lopez}}; at forty-five, he, too,
 
-A report of the twelfth of February
-Has him leave the convention center
-After the first game.
-This chapter keeps the city.
+Resigned, three hours and forty-two; one-one;
+The second time a machine at that rate
+Had beaten him; analysts found, when done,
+Perpetual check would draw; found too late,
 
-In May 1997 the name was used again,
-In {{p|New York}},
-At the {{p|Equitable Building}}.
-The paper on the second game
-Calls the {{p|Philadelphia}} machine an earlier, slower version.
-Do not fold this May back into that February.
-Two hours for each side to make forty moves.
-That is the rate already named.
+Both missed it; resignation stood. Then draws:
+The sixth, the seventh; two to two, the same
+As after four before; there, without pause,
+He'd won the last two; here, not. The tenth came,
 
-On the third of May, a Saturday, he had white.
-The column calls the opening a {{x|Reti}}.
-At the forty-fifth move the handlers resigned the machine.
-On the fourth, a Sunday, the machine had white.
-The column calls the opening a {{x|Ruy Lopez}}.
-He resigned at the forty-fifth move,
-After three hours and forty-two minutes.
-The score was one to one.
-A machine had beaten him at that rate once before,
-On the Saturday in {{p|Philadelphia}}.
-This was the second time.
+A third draw, offered, taken: two and half
+Each; the eleventh, Sunday, with the white,
+The machine; {{x|Caro-Kann}}; and, past the gaffe,
+At the nineteenth move, he resigned; that night
 
-The paper of the seventh of May
-Said a line in the place he resigned would draw,
-And that he and the machine had both missed it.
-The resignation stood.
-The line was a perpetual check, found by the analysts the next day.
+Three and a half to two and half; the crown,
+This book sets it; that night, he said, the zeal
+To beat him, not the science; and, set down,
+Asked of a cheat, he said: beyond, the real
 
-On the sixth, a Tuesday, a draw.
-On the seventh, a Wednesday, a draw.
-After four the score was two to two,
-Which is where the earlier match had stood after four.
-There he won the last two.
-Here he did not.
+Beyond his grasp; no proving which side moved;
+Chung-Jen Tan said: no human help, in play;
+A record left with neutrals; later, proved,
+The logs, once published, showed its own game's way;
 
-On the tenth, a Saturday, a third draw.
-He offered it. The handlers accepted.
-Two and a half each.
-On the eleventh, a Sunday, the machine had white.
-The column calls the opening a {{x|Caro-Kann}}.
-He resigned at the machine's nineteenth move.
-The match was three and a half to two and a half.
-Do not set a crown on the machine.
+The win was the machine's; and he, the one,
+Ten games he asked, days apart; not given;
+Garry Kasparov, came to say so; done,
+A real step: mind in machine; and, driven,
 
-That night he said the making
-Had been zeal to beat him, and had not been the science.
-Asked if he was charging a cheat,
-He said the match had gone beyond his understanding,
-And that there was probably no way to prove
-Which side had made a move.
-Chung-Jen Tan said there had been
-No human assistance during the games.
-On the Saturday a copy of the record
-Was to be left with a neutral party.
-That night it was not given to him, nor to the public.
-Chung-Jen Tan said a part might be published later.
-The logs were published later, and the machine had played its own game.
-The win was the machine's,
-And Garry Kasparov came to say so himself.
-
-A hand on the keys, in February,
-Is not a chooser inside the search.
-
-In the same month he asked for ten games,
-With a day between them.
-The builders did not promise them.
-What was done with the machine after the Sunday
-Is not this page.
-
-The absurdity is a search that can take a resignation,
-And the haste to hear a mind in a score.
-The striving is to keep the kinds apart.
-Hold the Saturday of the thirty-seventh,
-The Saturday he closed the first match,
-The Sunday the {{p|New York}} score was one to one,
-And the Sunday of the nineteenth move.
-Refuse the consolation that he lost for being a fool,
-And the consolation that a score had become a soul.
+The kinds apart, yet kin; the Saturday
+Of thirty-six, the first match closed; one-one,
+The {{p|New York}} Sunday; nineteenth move; the day,
+This feast: of mind the living's work has won.
 
 
 # Chapter 336: The Two Digits
