@@ -43980,80 +43980,90 @@ Their names; the compilation, {{c|4163|Sampo}}, round.
 
 # Chapter 297: The Dead Speak Again
 
-On the island of {{p|Philae}}, in the {{p|Nile}} near {{p|Aswan}}, on the twenty-fourth of August, 394,
-A priest named {{c|4171|Esmet-Akhom}} cut a figure of a god into the temple wall,
-And beside it a few lines in the sacred signs. They are the last. No more
-{{x|Hieroglyphs}} were ever written by anyone who could read them. The fall
+On {{p|Philae}}, in the {{p|Nile}} near {{p|Aswan}}, late,
+On August's twenty-fourth, three-ninety-four,
+A priest, {{c|4171|Esmet-Akhom}}, carved, as the date,
+A god upon the wall, and lines, the store
 
-Of the oldest writing on earth was silent. The temples were closed, the priests died,
-And for fourteen hundred years no one living could read a word
-Of the stones of {{p|Egypt}}: the kings' names, the prayers for the dead, the pride
-Of the pharaohs, the hymns to the gods. The scholars of {{p|Europe}} inferred
+Of sacred signs, the last: no more were made
+By any who could read them; and the fall
+Was silent; temples closed; the priests decayed;
+For fourteen hundred years none read at all
 
-That the signs were symbols of a hidden wisdom, not a language:
-An owl meant this mystery, a reed meant that. They were wrong for centuries.
-Then {{c|4066|Napoleon}}'s army, in 1799, at {{p|Rashid}}, which the {{x|French}} called {{p|Rosetta}}, the anguish
-Of a fort being rebuilt, the soldiers' spades, the entries
+The stones of {{p|Egypt}}: kings' names, prayers, the pride
+Of pharaohs, hymns; and {{p|Europe}}'s scholars thought
+The signs were hidden wisdom, not tongue's guide:
+An owl, one mystery; a reed, one thought;
 
-Of history: a slab of dark granodiorite in the wall, with three scripts on it:
-{{x|Hieroglyphs}} at the top; the later {{x|Egyptian}} cursive, {{c|4172|Demotic}}, in the middle;
-{{x|Greek}} at the bottom. A decree of the priests of {{p|Memphis}}, 196 BC, for the young king, the fit
-Of the {{c|4173|Ptolemies}}' praise. And the {{x|Greek}} could be read. The riddle
+Ninety-nine: {{c|4066|Napoleon}}'s men, {{p|Rashid}},
+The {{x|French}} {{p|Rosetta}}, building up a fort,
+Found in the wall a stone, three scripts, decreed:
+{{x|Hieroglyphs}}, then {{c|4172|Demotic}}, {{x|Greek}}: the sort
 
-Was handed over in its own key. The {{x|British}} took the stone in 1801,
-When the {{x|French}} surrendered in {{p|Egypt}}, and it went to {{p|London}}, to the {{x|British Museum}},
-Where it is still, and where {{p|Egypt}} has asked for it back. The sun
-Of that question has not set. Hold it. And the race to read it: a museum
+Of priests of {{p|Memphis}}, one-nine-six BC,
+The {{c|4173|Ptolemies}}' praise; the {{x|Greek}} could be said;
+The riddle, in its own key, handed; free,
+The {{x|British}} took it, eighteen-one; and led
 
-Is not a mind. An {{x|English}} physician, {{c|4174|Thomas Young}}, who also proved light was a wave,
-Saw that the oval rings, the cartouches, held kings' names, and read *{{c|2265|Ptolemy}}*.
-And a young {{c|4146|Frenchman}} from {{p|Figeac}}, {{c|4175|Jean-François Champollion}}, who gave
-His whole life to it from boyhood, had learned {{c|4176|Coptic}}: the tongue, the homily
+To {{p|London}}, the {{x|British Museum}}; there
+It stays, as {{x|British}} as {{x|Egyptian}}; days:
+The race to read: and {{c|4174|Thomas Young}}, aware
+Light was a wave, saw cartouches; the praise
 
-Of the {{x|Egyptian}} {{c|2494|Christians}}, still sung in their churches, written in {{x|Greek}} letters,
-The last living descendant of the language of the pharaohs. He was sure
-The hieroglyphs would speak {{c|4176|Coptic}}, if he could unlock the fetters.
-And on the fourteenth of September, 1822, with copies, the pure
+Of kings in rings: read {{c|2265|Ptolemy}}; and one,
+{{c|4175|Jean-François Champollion}}, of {{p|Figeac}}, who
+Gave his whole life from boyhood; learned, and won,
+{{c|4176|Coptic}}, the church tongue, in {{x|Greek}} letters, through
 
-Lines of cartouches from the temple at {{p|Abu Simbel}}, he read
-A name: *{{c|4177|Ra}}*, the sun, the sign of the sun; then *ms*, as in {{c|4176|Coptic}} *mise*, to be born;
-And *s*: *{{c|4178|Ra-mes-ses}}*. Born of {{c|4177|Ra}}. The dead
-King's name, read for the first time in fourteen hundred years. The torn
+{{x|Egyptian}} {{c|2494|Christians}}' hymn, still sung; the last
+Heir of the pharaohs' tongue; and he was sure
+The signs would speak it; and, the fetters past,
+September, twenty-two, the fourteenth, pure
 
-Veil. The signs were sounds and meanings both, a script like any other,
-Not a hidden wisdom: a language, with grammar, spoken by people.
-He ran to his brother's office, and cried, brother,
-*I've got it!*, and fainted, and lay for five days. The steeple
+Cartouches from {{p|Abu Simbel}}; he read
+A name: *{{c|4177|Ra}}*, the sun; and then *ms*, *mise*, born;
+And *s*: *{{c|4178|Ra-mes-ses}}*, born of {{c|4177|Ra}}: the dead
+King's name, read the first time in ages; torn
 
-Of a thousand years of misreading fell. Within months he had the system.
-He went to {{p|Egypt}} once, and read the walls of the temples as he walked,
-And died in 1832 at forty-one. And the dead of {{p|Egypt}}, the wisdom
-And the ordinary, came back: the letters home, the accounts, the talked
+The veil: the signs were sounds and meanings, both,
+A language, spoken; and he ran, and cried
+To his brother: "I've got it!"; fainted; loath
+Five days to rise; within months, he'd supplied
 
-Of grievances of workmen at {{p|Deir el-Medina}} who went on strike
-Against a pharaoh for late wages, the love songs, the recipes, the names.
-The dead speak again. That is what this book does too, alike
-In its smaller way: it reads the names of the dead from the frames
+The system; went to {{p|Egypt}} once, and read
+The temple walls as he walked; and died young,
+At forty-one, in thirty-two; the dead
+Of {{p|Egypt}} came back: letters, sums, in tongue,
 
-Of the registers, and says them aloud on their days. And here is the thread
-That runs through this book's own calendar: the days of {{c|1968|Horus}},
-In the years that have them, outside the months; the first five are named for the gods who were said
-To have been born on the five days added to the {{x|Egyptian}} year: {{c|1166|Osiris}},
+Workmen at {{p|Deir el-Medina}}, who struck
+Against a pharaoh for late wages; songs
+Of love; the recipes; the names; and luck
+Of reading: so this book, its way, belongs
 
-{{c|1968|Horus}}, {{c|4179|Set}}, {{c|4180|Isis}}, {{c|4181|Nephthys}}. We know those names, and their days,
-Because a young man learned a church language from monks and old books, and read a stone.
-Every time a {{x|Gaian}} year ends with the days of {{c|1968|Horus}}, the praise
-Goes also to {{c|4182|Champollion}}, and to {{c|4171|Esmet-Akhom}}, alone
+To reading names of dead from the old page,
+Aloud upon their days; and here's the thread
+Through this book's calendar: {{c|1968|Horus}}, the stage
+Of days outside the months; the first five said
 
-On {{p|Philae}}, carving the last line, not knowing it was the last.
-Write yours. Someone may read it in fourteen hundred years.
-The dead speak when the living learn their tongue. Hold fast
-To the old languages. They are the doors. And the stone, with its tears
+For gods born on those days: {{c|1166|Osiris}}, {{c|4179|Set}},
+{{c|1968|Horus}}, {{c|4180|Isis}}, {{c|4181|Nephthys}}: and we know them,
+As a young man learned, so we'd not forget,
+A church tongue, and could read a stone, and them.
 
-Of three scripts, in a glass case far from the river: give it home,
-Or say why not, honestly. The question belongs to the living descendants.
-The {{c|4176|Coptic}} hymn still sung in {{p|Cairo}} was the key. The tome
-Of the dead was unlocked by the living. Keep singing. Those are the attendants.
+When a {{x|Gaian}} year ends with {{c|1968|Horus}}' days,
+The praise goes, too, to {{c|4182|Champollion}} as well,
+To {{c|4171|Esmet-Akhom}}, lone on {{p|Philae}}'s ways,
+Who carved the last, not knowing; write; and tell:
+
+In fourteen hundred years, someone may read;
+The dead speak when the living learn their tongue;
+Hold fast to old languages: doors indeed;
+The {{c|4176|Coptic}} hymn that {{p|Cairo}} still has sung,
+
+Was key; the living opened the dead's tome;
+Keep singing: those are the attendants; and
+The stone, in {{p|London}}, as much theirs as home,
+Two peoples' both; the book takes no side's hand.
 
 
 # Chapter 298: The Engine That Weaves
