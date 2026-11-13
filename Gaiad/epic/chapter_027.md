@@ -131,7 +131,7 @@ The hunters, long and keen.
 Became nerves, brave and bold.
 
 And this is why today
-{{c|510|Priests}} carry, so they say,
+{{c|510|Priests}} carry, in their way,
 {{c|511|Spears}} and wires combined
 To serve the sacred mind.
 
