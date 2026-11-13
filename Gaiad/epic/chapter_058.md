@@ -38,7 +38,7 @@ In service to their own appointed sight.
 {{c|1517|Taphrin}} lived small and plain through sun and rain
 As yeast within the plants, following dreams,
 He grew in form through calm and stormy strain,
-And when he doubled size, then split, it seems,
+And when he doubled size, then split at seams,
 
 In half to make two lives for wisdom's sake,
 In adulthood he'd build with patient care
