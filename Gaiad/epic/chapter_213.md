@@ -1,86 +1,66 @@
 # Chapter 213: Timur
 
-{{c|3015|Timur}} (1336-1405), also called {{c|3113|Tamerlane}}
-("{{c|3177|Timur the Lame}}" for his limp), was born
-near {{p|Samarkand}} in {{p|Transoxiana}} to a minor
-noble of the {{c|3178|Barlas}} Turco-Mongol clan, low-born.
+{{c|3015|Timur}}, or {{c|3113|Tamerlane}}, for he was lame,
+{{c|3177|Timur the Lame}}, born thirteen-thirty-six
+By {{p|Samarkand}}, of {{c|3178|Barlas}}, no great name,
+A lesser noble's son, of Turkic mix;
 
-He claimed descent from {{c|1892|Genghis Khan}} (though the claim
-was weak), married into the Chingisid line,
-and ruled as son-in-law rather than khan.
-He was not a direct descendant of the Mongol line.
+He wed into the line of {{c|1892|Genghis Khan}},
+And ruled as son-in-law, not as their heir;
+He claimed the blood, but weakly, and went on
+To join the {{c|3096|Chagatai}} lands through his care
 
-He unified the {{c|3096|Chagatai Khanate}} territories in
-{{p|Central Asia}} through the 1370s. Then he launched
-a series of conquests comparable in scale to {{c|1892|Genghis Khan}}'s,
-though never quite as geographically ranched.
+In thirteen-seventies; then conquests came,
+As great as {{c|1892|Genghis}}' own, though less in land:
+{{p|Persia}}, the eighties; {{p|Isfahan}}; and the same:
+Seventy thousand heads, by his command,
 
-He invaded {{p|Persia}} in the 1380s, sacking {{p|Isfahan}}
-where 70,000 civilians were beheaded to build
-towers of skulls that he was famous for constructing.
-This was his signature atrocity, filled.
+Built into towers of skulls; he broke then
+{{c|3179|Tokhtamysh}}'s {{c|3074|Golden Horde}}, ninety-five;
+Sacked {{p|Sarai}}, the {{c|3116|Horde}}'s wealth and its men;
+And so {{p|Muscovy}} grew strong, and would thrive;
 
-He defeated the {{c|3074|Golden Horde}} under {{c|3179|Tokhtamysh}}
-in 1395, sacked {{p|Sarai}} the {{c|3074|Golden Horde}} capital,
-destroyed the economic base of the {{c|3116|Horde}},
-contributing to its decline and {{p|Muscovy}}'s rise capital.
+And sacked {{p|Delhi}} in thirteen-ninety-eight,
+A hundred thousand slain there in one day;
+He led the elephants home; and the great
+The {{c|2984|Delhi Sultanate}}, crippled, gave way.
 
-He invaded {{p|India}} in 1398, sacked {{p|Delhi}},
-massacred the population (perhaps 100,000 killed
-in one day), carried elephants back to {{p|Samarkand}}.
-The {{c|2984|Delhi Sultanate}} was crippled by his skill.
+In fourteen-hundred, sacked {{p|Damascus}}; there
+{{c|2884|Ibn Khaldun}} met him, wrote down their talk:
+The greatest scholar, conqueror; a rare
+Meeting of mind and sword, the dove and hawk.
 
-He invaded the {{c|3139|Mamluk Sultanate}} in 1400,
-sacked {{p|Damascus}} (where {{c|2884|Ibn Khaldun}} met him
-and left a fascinating account of their conversations —
-the greatest sociologist meeting the greatest conqueror, trim).
+Fourteen-oh-two, the {{c|3180|Ottomans}} he broke
+At {{c|3182|Ankara}}, took {{c|3181|Sultan Bayezid I}},
+And bore him in a cage; under that yoke
+The sultan in captivity would die.
 
-He invaded the {{c|3180|Ottoman Empire}} in 1402,
-defeated {{c|3181|Sultan Bayezid I}} at the {{c|3182|Battle of Ankara}},
-captured him, transported him in a cage.
-{{c|3183|Bayezid}} died in captivity, a humiliated sultana.
+And so {{p|Constantinople}} stood, reprieved
+For fifty years; {{c|3183|Bayezid}} would else have won
+The city, but for {{c|3015|Timur}}; and, relieved,
+{{p|Byzantium}} lived on, its days not done.
 
-This Ottoman defeat delayed the fall of {{p|Constantinople}}
-by half a century. If {{c|3015|Timur}} had not intervened,
-{{c|3183|Bayezid}} probably would have taken the city.
-The {{p|Byzantine Empire}} got a fifty-year reprieve.
+{{c|3015|Timur}} set out for {{x|Ming}} {{p|China}}, and died
+At {{p|Otrar}} on the way, fourteen-oh-five;
+{{c|3184|Gur-e-Amir}}, at {{p|Samarkand}}, his pride;
+And his grandson {{c|3185|Ulugh Beg}} would there thrive,
 
-{{c|3015|Timur}} was preparing to invade {{x|Ming}} {{p|China}}
-when he died in 1405 at {{p|Otrar}} on the way.
-He is buried at the {{c|3184|Gur-e-Amir}} in {{p|Samarkand}},
-which inspired the architecture of the {{p|Taj Mahal}} later, lay.
+Astronomer, who built, at {{p|Samarkand}},
+A great observatory; star by star
+He charted, scholar-king; till, by the hand
+Of his own son, he died; and there's the scar.
 
-His grandson {{c|3185|Ulugh Beg}} (1394-1449) was an astronomer
-who built a great observatory at {{p|Samarkand}},
-compiled accurate star catalogs before {{c|3186|Tycho Brahe}},
-and ruled as a scholar-king — until killed by his son's hand.
+{{c|3187|Timurid Renaissance}}, {{p|Herat}}'s court
+And {{p|Samarkand}}'s: the painters, and the song,
+The domes, the verse of {{c|3188|Jami}}, of each sort
+Of {{x|Persian}} art grew there, and flourished long.
 
-The {{c|3187|Timurid Renaissance}} at {{p|Samarkand}} and {{p|Herat}}
-was one of the great cultural moments of {{p|Central Asia}}.
-Persian miniature painting, poetry, architecture flourished.
-{{c|3188|Jami}} and others wrote great works of {{p|Persia}}.
+And after him his realm broke into parts;
+He killed seventeen million, like his own
+Hero, {{c|3077|Genghis}}; built for the poets' arts;
+And made towers of skulls; and {{x|Islam}}'s own
 
-The {{p|Timurid Empire}} fragmented after {{c|3015|Timur}}'s death.
-His descendants would continue as regional rulers,
-one of them, {{c|3189|Babur}}, a great-great-grandson of {{c|3015|Timur}},
-would found the {{c|3190|Mughal Empire}} in {{p|India}}, deceitfuller.
-
-(Mughal = "Mongol" in Persian. The {{c|2985|Mughals}} claimed
-Timurid descent, and through him, Chingisid descent.
-They were Central Asian {{c|3107|Turks}} ruling {{p|India}} as
-Persianate emperors, a layered cultural ascent.)
-
-{{c|3015|Timur}} killed perhaps seventeen million people in
-his conquests, a death toll rivaling his hero {{c|3077|Genghis}}.
-The Islamic world, which he had conquered as a Muslim,
-suffered terribly at his hands — a paradox immense.
-
-He built beautiful monuments, patronized poets and scholars.
-He massacred entire cities, built skull-pyramids.
-He is remembered in {{p|Central Asia}} as a hero,
-in his victims' lands as the devil, on skids.
-
-The deflationary polytheist sees {{c|3015|Timur}} as
-the last great steppe conqueror, the end of the
-Mongol-era pattern. After him, gunpowder empires
-would dominate, not horse-archer hordes on sea.
+Lands suffered him, a Muslim; and today
+In {{p|Central Asia}} he's a hero; where
+He killed, the devil; and so passed away
+The last great steppe lord; then the guns' long glare.
