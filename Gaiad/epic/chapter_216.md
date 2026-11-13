@@ -1,86 +1,66 @@
 # Chapter 216: Zheng He
 
-{{c|1936|Zheng He}} (1371-1433) was born {{c|3207|Ma He}}
-in {{p|Yunnan}}, a Muslim {{c|3208|Hui}} Chinese boy.
-His father and grandfather had both made the hajj to {{p|Mecca}}.
-He was captured at age ten, castrated, an imperial ploy.
+{{c|1936|Zheng He}} was born {{c|3207|Ma He}}, seventy-one,
+In {{p|Yunnan}}, a {{c|3208|Hui}} and Muslim boy;
+His father's father, father, hajj had done;
+Taken at ten, castrated, for employ,
 
-He became a eunuch in the household of Prince {{c|3168|Zhu Di}},
-the future {{c|3170|Yongle Emperor}}. He served with distinction
-in {{c|3168|Zhu Di}}'s military campaigns, became trusted advisor,
-was renamed {{c|1936|Zheng He}} for his exceptional direction.
+A eunuch in the house of Prince {{c|3168|Zhu Di}},
+Who'd be the {{c|3170|Yongle Emperor}}; he served
+In all his wars, and trusted, rose to be
+Named {{c|1936|Zheng He}}, for the fame that he deserved.
 
-When {{c|3168|Zhu Di}} became emperor in 1402, he commissioned
-{{c|1936|Zheng He}} to lead the {{c|3173|treasure voyages}} — massive
-fleets of exploration, diplomacy, and power projection
-across the {{p|Indian Ocean}}, an unprecedented pelagic.
+Once crowned, the emperor gave him command
+Of the great {{c|3173|treasure voyages}}: the fleets
+Of envoys and of might, to each far land
+Across the {{p|Indian Ocean}}; their feats:
 
-The first voyage (1405-1407) consisted of 317 ships
-and 28,000 men. The flagship treasure ships were
-400 feet long, 160 feet wide — larger than any
-European ship for the next four centuries, superior.
+The first, fourteen-oh-five, three hundred ships
+And seventeen, twenty-eight thousand men;
+The flagships, of four hundred feet, eclipse
+All the ships the {{c|2930|Europeans}} had then.
 
-(For comparison, {{c|2952|Columbus}}'s {{x|Santa Maria}} in 1492 was
-about 85 feet long. The scale difference is staggering.
-The Chinese were capable of mass ocean exploration
-when the {{c|2930|Europeans}} were still hugging coasts, laboring.)
+Seven times, till thirty-three, he set sail,
+{{p|Southeast Asia}}, {{p|India}}, and the land
+{{p|Arabia}}; {{p|Africa}}'s shore; the tale
+Reached {{p|Mogadishu}}, and {{p|Malindi}}'s sand;
 
-Over seven voyages (1405-1433), {{c|1936|Zheng He}} sailed to
-{{p|Southeast Asia}}, {{p|India}}, {{p|Arabia}}, and the
-east coast of {{p|Africa}} as far south as {{p|Mogadishu}}
-and possibly further to the {{p|Cape of Good Hope}}'s vicinia.
+{{p|Calicut}}, {{p|Ceylon}}, {{p|Hormuz}}, {{p|Aden}}; some
+Of his men made the hajj; and home were brought
+Envoys from far, and beasts; and there would come
+From {{p|Africa}} a giraffe, which was thought
 
-He visited {{p|Calicut}}, {{p|Ceylon}}, {{p|Hormuz}}, {{p|Mecca}} (some of his
-crew performed the hajj while he waited nearby), {{p|Aden}},
-{{p|Mogadishu}}, {{p|Malindi}}. Foreign ambassadors and exotic animals
-were brought back to {{p|China}} — a giraffe from {{p|Africa}}, identified
+In {{p|Beijing}} a {{c|3209|qilin}}, the beast of grace,
+And Heaven's sign for {{c|3174|Yongle}}'s reign; and they
+Painted and praised it at the court; the place
+Of {{x|Ming}} upon the seas was shown that way.
 
-in {{p|Beijing}} as a {{c|3209|qilin}}, a mythical auspicious beast.
-Its arrival was taken as heavenly approval of {{c|3174|Yongle}}'s
-reign. The giraffe was painted and celebrated in the court.
-The voyages asserted {{x|Ming}} {{p|China}}'s maritime superior roles.
+He fought one war, a pirate base, that stood
+In {{p|Sumatra}}; but else, he came in peace:
+He gave his gifts, took tribute, and made good
+With kings; he conquered none, nor took a lease.
 
-{{c|1936|Zheng He}} fought one minor war — against a pirate
-base in {{p|Sumatra}} — but mostly the voyages were
-peaceful. He gave gifts, received tribute, established
-diplomatic relationships. No conquest was attempted, fair.
+He could have won the ocean's rim; he chose
+Not to. And {{c|3174|Yongle}} died, in twenty-four;
+The scholars called it waste; and after those,
+And one voyage under {{c|3210|Xuande}}, then no more;
 
-This is striking compared to what European exploration
-would do a century later — immediately conquer and
-colonize what they found. {{c|1936|Zheng He}} could have conquered
-much of the {{p|Indian Ocean}} rim. He chose not to, unplanned.
+The court turned inward; and the fleets were razed,
+The shipyards closed; the records burned; and so
+{{p|China}}'s great skill at sea, which had amazed
+The world, decayed; the ocean let it go.
 
-After {{c|3174|Yongle}} died in 1424, the treasure voyages were
-controversial. Conservative Confucian scholars considered
-them wasteful extravagance. After one more voyage under
-{{c|3210|Xuande}} (1431-1433), they were discontinued.
+{{c|1936|Zheng He}} died on the seventh voyage, at
+{{p|Calicut}}; and his grave is still unknown;
+In {{p|Nanjing}} stands an empty tomb, and that
+Is the Muslim eunuch admiral's own.
 
-The {{x|Ming}} court turned inward. The fleets were dismantled.
-Shipyards were closed. Records of the voyages were destroyed
-by conservative bureaucrats. The ocean-going capacity of {{p|China}}
-was allowed to atrophy in the decades that followed, deployed.
+In {{p|China}} now he is revived, a sign
+Of peaceful meeting with the world; the road,
+The {{c|3213|Belt and Road Initiative}}'s own line,
+Calls on his voyages, the old sea's code.
 
-By the time {{c|3211|Vasco da Gama}} reached {{p|Calicut}} in 1498,
-{{p|China}}'s maritime power was long gone. {{c|3212|Portuguese}} with
-their much smaller caravels could establish dominance
-in waters that {{c|1936|Zheng He}} had sailed with giant ships.
-
-{{c|1936|Zheng He}} himself died on the seventh voyage, probably at
-{{p|Calicut}} or on the return journey. His grave is not known.
-Some traditions place his tomb in {{p|Nanjing}}, empty, honorific.
-The Muslim Chinese eunuch admiral was not shown.
-
-{{c|1936|Zheng He}} has been revived in modern {{p|China}} as a symbol
-of peaceful Chinese engagement with the world.
-The {{c|3213|Belt and Road Initiative}} invokes his voyages.
-A sign of ambitions: to return to those maritime old worlds.
-
-The deflationary polytheist sees in the discontinuation
-of the voyages a civilizational choice: {{p|China}} chose
-to turn inward, and thus {{p|Europe}} got the seas.
-If {{c|3174|Yongle}}'s successors had continued, {{c|2952|Columbus}} might be unused.
-
-The treasure voyages are the great "what if" of
-maritime history. {{c|1936|Zheng He}} was doing in 1410
-what {{c|2952|Columbus}} would attempt in 1492, at vastly larger
-scale — but {{p|China}} walked away from its opening, again.
+So {{p|China}} chose to turn within; the seas
+Went to the {{p|West}}, whose ships were small and few;
+The great what-if: had {{c|3174|Yongle}}'s heirs held these,
+The {{p|West}} would have found {{c|1936|Zheng He}} sailing through.
