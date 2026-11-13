@@ -598,247 +598,135 @@ Of history replied, built on that start.
 
 # Chapter 230: Maya Dynasties
 
-The jungle parted—and the city rose.
+The jungle parted, and the city rose:
+White limestone causeways cut the forest's sea
+Like scars of light through green; and at their close
+The pyramid, the temple, climbing free
 
-White limestone causeways cut the canopy
-Like scars of light through the forest's throes
-Of green, and at the end of each: the atopy
+Above the ceiba trees into the sky,
+The fountain of the sacred, stairway's frieze
+From human to divine. The names roll by
+Like temple bells: {{p|Tikal}}, {{p|Copán}}; and these,
 
-Of the pyramid, the temple-mountain
-Climbing above the ceiba trees
-Into the open sky—the fountain
-Of the sacred, the stairway's frieze
+{{p|Palenque}}, {{p|Calakmul}}: the {{c|2308|Maya}}'s towns,
+The jeweled, painted capitals, the age
+{{x|Classic}}, of war and peace, of art, the crowns
+Of starry reckoning; the highest stage
 
-Ascending from the human to the divine.
+The {{p|Americas}}' mind, the jungle's child.
+A thousand years before our era, slow,
+The {{c|3446|Olmec}} mother-culture, waning, mild,
+Gave birth to its inheritor: and so
 
-{{p|Tikal}}. {{p|Palenque}}. {{p|Copán}}. {{p|Calakmul}}.
-The names roll like a temple's shrine-
-Bell tolling through the canopy's wool
+The {{c|2308|Maya}} took the calendar, the art,
+The glyph, the pyramid, jaguar; refined
+Them to a brilliance none matched, set apart
+In the {{p|Americas}}; and vast, their mind.
 
-Of mist and rain—the {{c|2308|Maya}} cities,
-The jeweled and painted capitals
-Of the {{x|Classic}} age, the ditties
-Of whose glory and whose intervals
+Their writing logosyllabic, and full,
+Eight hundred glyphs, the angular and carved
+And painted word, the only one, the pull
+Of the pre-Columbian world, which starved
 
-Of war and peace and art and astronomical
-Precision built the most sophisticated
-Civilization of the {{p|Americas}}' anatomical
-And intellectual body—the elated
+For letters; and the scribe, the sacred hand,
+Moved brush on codex bark and stela's face,
+Recording dynasty, the conquest, and
+The capture of the rival, birth, and grace
 
-And terrible and beautiful achievement
-Of the jungle's children.
+Of their accession, bloodletting; the fates
+Of kings in stone, that still speak to the one
+Who learned to read them. And the numbers' weights:
+In twenties counted; and the zero won:
 
-                           A thousand years
-Before the common era, the bereavement
-Of the {{c|3446|Olmec}} mother-culture's tears
+The placeholder, the nothing holding place
+Of absent sums; as in {{c|3447|Indian}} lore,
+Convergent, independent; in the space
+Of mind the strangest find: its worth, its core,
 
-And slow decline gave birth to the inheritor:
-The {{c|2308|Maya}} took the calendar, the glyph,
-The pyramid, the jaguar—the anterior
-Foundation of the {{c|3446|Olmec}} motif—
+Its value in its emptiness. Then, time:
+The {{x|Long Count}}'s architecture, days amassed
+To hundreds of millions of years; the climb
+Of the baktun, four hundred years each, cast
 
-And refined them to a brilliance
-That would not be matched in the {{p|Americas}}
-Until the {{c|3401|European}} dalliance
-And collision—the panoramas
+In such a system that the priest could tell
+{{c|95|Venus}}' synodic period, its way,
+Its morning star and evening; and as well
+Five eighty-four days and a part, they'd say,
 
-Of the {{c|2308|Maya}} mind were vast.
+Its error in five centuries so small
+No naked eye has matched; eclipses, too,
+The {{x|Dresden Codex}}' tables reckoned all,
+The moon's shadow foretold; the priest, in view
 
-                                  The writing:
-Full logosyllabic script, the cast
-Of eight hundred glyphs—the biting
+On the temple's top, announced the sun's death,
+The jaguar-sun, down to {{p|Xibalba}}'s night,
+The underworld; and its return, the breath
+Of the new day foretold, fulfilled, in light.
 
-And angular beauty of the carved
-And painted word, the only writing
-System in the pre-Columbian, the starved
-And otherwise illiterate inviting
+At {{p|Palenque}}: the great king's tomb, below,
+{{c|3448|K'inich Janaab Pakal}}'s, down the stair
+In the {{p|Temple of the Inscriptions}}; so
+The carved lid shows the king who's falling there
 
-Of the American continent
-To join the literate world:
-The {{c|2308|Maya}} scribe was the eminent
-And sacred artist whose unfurled
+Into the earth-beast's jaws, to be reborn
+In {{p|Xibalba}}; jade mask upon his face,
+The jade and cinnabar, the offerings worn,
+A tomb like {{c|2032|Tutankhamun}}'s, the place,
 
-Brush-pen moved across the bark-paper
-Of the codex and the limestone face
-Of the stela, recording the caper
-And the conquest and the grace
+The pyramid's own heart. And then, the war:
+{{p|Tikal}} and {{p|Calakmul}}, the two great states
+Of the {{x|Classic}}, beautiful, savage, sore
+Of rivalry: alliance, and the hates
 
-Of the dynasty—for the {{c|2308|Maya}} wrote
-Their history: birth-dates and accession-dates,
-The capture of the rival and the note
-Of the bloodletting ritual, the fates
+Of the betrayed; the star-war glyph that told
+Destruction total; the king captured, brought
+Back for the sacrifice; the line of old
+Replaced; the vassals turned, re-formed, and fought
 
-Of kings inscribed in stone that still
-Speaks across the centuries to the epigrapher
-Who has learned to read the quill
-Of the ancient {{c|2308|Maya}} calligrapher.
+Around the victor: politics, the game
+Of jungle realms, the bargain of the crown
+Divine. And then, the ninth age: and there came
+Collapse: the system stretched, and broken down;
 
-And the numbers—the {{c|2308|Maya}} counted
-In twenties, and they invented
-The zero: the placeholder that amounted
-To the revolution, theented
+The people had outgrown the fragile soil;
+The slash-and-burn could not keep pace; the drought
+Came, and the rains failed, reservoirs; the toil
+Of feeding millions failed; the poor, without,
 
-And abstract concept of the nothing
-That holds the place of the absent quantity—
-The {{c|2308|Maya}} zero, like the {{c|3447|Indian}} bluffing
-Of the void into the antiquity
-
-Of mathematics, was the independent
-And convergent discovery of the mind's
-Most counterintuitive and transcendent
-Achievement: the number that finds
-
-Its value in its emptiness.
-
-And the calendar—the {{x|Long Count}}'s
-Architecture of time, the press
-Of days accumulated in accounts
-
-So vast they measured hundreds of millions
-Of years: the baktun cycle of four hundred
-Solar years, the billions
-Of days stacked and numbered
-
-In a system so precise
-That the {{c|2308|Maya}} astronomer could calculate
-The synodic period of {{c|95|Venus}}—the splice
-Of the evening and morning star's freight
-
-Across the sky—to an accuracy
-Of two hours in five hundred years:
-584.2840 days, the uracy
-Of the naked-eye observer whose arrears
-
-Of error were less than those
-Of the {{c|3401|European}} astronomers who came
-A thousand years later with the close
-And calibrated instrument's claim
-
-To superior knowledge.
-
-                         And the eclipse—
-The {{c|2308|Maya}} predicted eclipses
-With the {{x|Dresden Codex}}'s apocalypse-
-Tables, the ellipses
-
-Of the moon's shadow calculated
-And foretold—the priest-astronomer
-On the temple's summit, the elated
-And terrible announcer
-
-Of the sun's death and resurrection,
-The jaguar-sun descending to {{p|Xibalba}},
-The underworld's dark section,
-And returning—the alba
-
-Of the new day prophesied and fulfilled.
-
-{{p|Palenque}}—the city of {{c|3448|K'inich Janaab Pakal}},
-The great king whose tomb was billed
-In the crypt beneath the Temple of the Banal
-
-Inscription—no, the {{p|Temple of the Inscriptions}},
-The pyramid whose interior stairway
-Led down to the sarcophagus, the descriptions
-Of whose carved lid showed the {{c|2308|Maya}}
-
-King falling into the jaws of the earth-monster,
-Descending to {{p|Xibalba}} to be reborn—
-The jade death-mask on his face, the roster
-Of jade and cinnabar and the worn
-
-And precious offerings that accompanied
-The king into the afterlife—the tomb
-That rivaled {{c|2032|Tutankhamun}}'s, the remedied
-And sacred womb
-
-Of the pyramid's heart.
-
-                          {{p|Tikal}} and {{p|Calakmul}}—
-The superpower rivals of the {{x|Classic}},
-The two great cities whose beautiful
-And savage competition was the Jurassic
-
-And titanic struggle of the lowland {{c|2308|Maya}}:
-Alliance and betrayal, the star-war
-Glyph that marked the total playa
-Of destruction—the all-or-
-
-Nothing warfare of the captured king
-Brought back for sacrifice, the humbled
-Dynasty replaced, the ring
-Of vassal states that crumbled
-
-And reformed around the victor—
-The geopolitics of the jungle,
-The realpolitik of the stricter
-And more terrible bungle
-
-Of divine kingship and its obligations.
-
-And then—the collapse. The ninth century
-Of the common era, the frustrations
-Of a system stretched beyond the entry
-
-Of sustainability: the population
-Had outgrown the fragile jungle soil,
-The slash-and-burn's rotation
-Could not keep pace with the toil
-
-Of feeding millions in the forest—
-Drought came, the rains failed,
-The reservoirs dried, the poorest
-Starved first, and the curtailed
-
-And desperate kings intensified the war
-For diminishing resources—
+Starved first; the kings made war for what was left;
 And city after city closed its door:
-The stucco crumbled, the forces
+The stucco crumbled, and the jungle, deft,
+Took back the plaza; ceiba split the floor
 
-Of the jungle reclaimed the plaza,
-The ceiba tree split the temple stairs,
-The howler monkey sat in the piazza
-Where the king had offered his prayers
+Of temple stairs; the howler monkey sat
+Where the king offered prayer and blood in vain
+To gods who did not answer. Yet, for that,
+The {{c|2308|Maya}} did not vanish; they remain:
 
-And his blood to the gods who did not answer.
+The dancer dances; and the language lives,
+Seven million speakers still, of the tongue
+That carved the glyph; the living culture gives
+Its thread, unbroken since the stairs were young;
 
-But the {{c|2308|Maya}} did not vanish.
+No vanished past, but a thread that's still strong,
+The {{p|Americas}}' oldest lettered mind;
+Honor the {{c|2308|Maya}}: scribes who, all along,
+Read stars, wrote time; the zero they would find,
 
-                                    The dancer
-Still dances, the language still flourishes—
-Seven million {{c|2308|Maya}} speakers nourish
-The tongue that carved the glyph, the burnishes
+Who built the pyramid in jungle's green
+Cathedral; made the king a hero, and
+A sacrifice; who wove the seen, unseen,
+Into the angular glyph, by scribe's hand;
 
-Of the living culture unbroken
-From the pyramid-builders to the present—
-The {{c|2308|Maya}} are not the token
-And vanished past but the pleasant
+Honor the astronomers on the height
+Of temple-tops; the bloodied king, whose gift
+Fed the calendar's count; the dead, the bright
+Living, seven million, whose voices lift
 
-And enduring and resilient thread
-Of the {{p|Americas}}' oldest literate mind.
-
-Honor the {{c|2308|Maya}}—the scribes who read
-The stars and wrote the time,
-
-Who counted nothing and found the zero,
-Who built the pyramid in the jungle's green
-Cathedral, who made the king a hero
-And a sacrifice, the seen
-
-And the unseen woven into the glyph's
-Angular and beautiful script—
-Honor the astronomers on the cliffs
-Of the temple-top, the stripped
-
-And bloodied king whose offering fed
-The calendar's insatiable count—
-Honor the living and the dead,
-The seven million voices at the fount
-
-Of the oldest writing in the western world,
-The {{c|2308|Maya}} tongue still spoken
-Where the jungle's flag is furled
-And the ancient covenant unbroken.
+The oldest writing of the western world;
+The {{c|2308|Maya}} tongue is spoken to this day,
+Where jungle's flag is furled, and, unfurled,
+The ancient covenant would not give way.
 
 
 # Chapter 231: Phoenicians of Zarahemla
