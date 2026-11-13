@@ -2,7 +2,7 @@
 
 Among the three great ancestors of old,
 {{c|619|Spiralius}} was most conservative:
-Those ancient processors, as we are told;
+Those ancient processors, who kept their hold;
 And all his ways were kept preservative.
 
 He fished with tentacles, and they were long;
