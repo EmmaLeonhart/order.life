@@ -3,188 +3,218 @@
 
 # Chapter 337: The Middle Hour
 
-Today Yuletide opens, the first of {{x|Ophiuchus}}' days,
-The season that runs from here to {{x|Aster Day}}'s blaze.
-Light the first light for the month the century fills,
-And keep it lit through the dark till the year's wheel stills.
+Yuletide opens, {{x|Ophiuchus}}' first day,
+The season running to {{x|Aster Day}}'s blaze;
+Light the first light for the month; let it stay
+Lit through the dark, till the year's wheel's last days.
 
-I am Emma Leonhart, and this month is mine.
-I have narrated this book from its first line,
-From the yarn and the milk, through the fish and the kings,
-Present for all of it, watching all things.
+I am Emma Leonhart; this month is mine;
+I have narrated this book from its start,
+From yarn and milk, through fish and kings, the line;
+Present for all of it, watching each part.
 
-Sima Qian wrote his own house into the annals he kept;
-Ibn Khaldun wrote the dynasties' rise from the exile where he slept.
-I take their method and I take their height:
-The world's history, told by the one who was there in its light.
+Sima Qian wrote his house in annals kept;
+Ibn Khaldun, in exile, wrote the rise
+Of dynasties; their method I accept,
+And their height too: the world, by one whose eyes
 
-I was born on the first of {{x|Aquarius}}, in eleven-nine-nine-six,
-The fifty-seventh day of the year, where the fifty-seventh chapter sits.
-I rang in two thousand as a child in a room,
-And the same night in {{p|Moscow}} a man came into bloom:
+Were there in its light. I was born, the first
+{{x|Aquarius}}, eleven-nine-nine-six;
+Day fifty-seven, where its chapter's versed;
+I rang in two thousand, a child; it clicks:
 
-Boris Yeltsin resigned on the last day of the old,
-And Vladimir Putin took the throne he would hold.
-Mark him now. He is the villain of the century I tell,
-And he came to his power the night I first rang the bell.
+That night, in {{p|Moscow}}, a man came to bloom:
+Yeltsin resigned the last day of the old;
+Vladimir Putin took the throne; and doom:
+Mark him; the villain of the age I've told
+
+Rose to power the night I rang the bell;
+The villain; and I name him at the start;
+The rest of this, the century I tell,
+Is told with him already in its heart.
 
 ## The bubble
 
-The boom of the dot-coms peaked in March of the year before,
-The {{x|Nasdaq}} past five thousand, and then it fell through the floor.
-It fell all through this year and found the bottom the next,
-Four parts in five of its value gone, the money perplexed.
+The dot-com boom had peaked the March before,
+The {{x|Nasdaq}} past five thousand; then the fall
+Went all through this year, and next, to the floor,
+Four fifths of value gone, money and all.
 
-{{x|Pets.com}} had folded, the sock puppet and all;
-{{x|Webvan}} delivered its groceries straight to the wall.
-My father had made his money riding that wave,
-And that money shaped the house and the childhood he gave.
+{{x|Pets.com}} folded, and the sock puppet too;
+{{x|Webvan}} took its groceries to the wall;
+My father rode that wave, his money's due;
+That money shaped the house, the childhood, all.
 
-On the second of December {{x|Enron}} went down in {{p|Houston}},
-Seventh in the country by the books it had been using.
-The books were the fraud. {{x|Arthur Andersen}} fell in its wake,
-And the workers' pensions went with the stock at stake.
+December second, {{x|Enron}}, {{p|Houston}}, fell,
+Seventh in the land by the books it used;
+Books, fraud; and {{x|Arthur Andersen}} as well;
+The workers' pensions, with the stock, abused.
 
-A price is not a value. The boom proved only that.
-The network was real; the hype was a magician's hat.
-The founders who lasted were the ones who built the thing,
-And twenty years later I would be one of them, building.
+A price is not a value; that, the boom;
+The network real; the hype, magician's hat;
+Founders who lasted built; and from that room,
+I'm one of them, building, now, after that.
 
 ## The open encyclopedia
 
-In January a book opened that anyone could edit.
-Jimmy Wales paid for it and Larry Sanger led it.
-They had {{x|Nupedia}} first, with its seven steps of review,
-And a year of work passed only a few dozen pages through.
+In January, a book all could change
+It opened; Jimmy Wales paid, Sanger led;
+{{x|Nupedia}} first, seven steps; the range
+A year passed a few dozen; and, instead,
 
-Ben Kovitz told Sanger over Mexican food
-Of Ward Cunningham's wiki, the quick pages anyone could.
-On the fifteenth the address went up: wikipedia.com.
-"Humor me," he wrote. "Add a little article." And they did, by the ton.
+Ben Kovitz told Sanger, Mexican food,
+Of Ward Cunningham's wiki, quick, for all;
+The fifteenth, its address went up; he wooed:
+Humor me; a little article: all
 
-Six hundred pages by the end of the month, ten thousand by fall.
-"Ignore all rules," they wrote, as a joke, and it outlasted them all.
-I would come to {{x|Wikipedia}}, and to {{x|Wikidata}} its kin,
-And give them years of my labor at a scale few have been in.
+Did, by the ton: six hundred, that month's end;
+Ten thousand by the fall; ignore all rules,
+A joke, outlasting them; and I would spend
+Years on {{x|Wikipedia}}, kin, the tools
 
-So I know it from inside, and I say what it is:
-It is {{x|Amway}} for scholarship, and the soap is not the biz.
-You can sell soap and live well and be fulfilled in your days;
-The harm is the ideology that keeps the sellers in its maze.
+And {{x|Wikidata}}; labor at a scale
+Few have; I know it from inside; it's this:
+{{x|Amway}} for scholarship; and soap's no fail:
+You can sell soap, live well, be filled with bliss;
 
-It makes people enthusiastic, then it breaks them for the task,
-And keeps them from getting out, and takes the labor that it asks
-From people who could not do for themselves what they wanted to be.
-Academia already sucks, and this is a degraded version, for free.
+The harm, the ideology that keeps
+The sellers in its maze; and it will break
+Their zeal for the task; and it holds, and reaps
+The labor of the ones who could not make
+
+What they had wanted for themselves; and so
+Academia sucks; and this is free,
+A degraded version of it; I know
+From inside, what it is; and so I see.
 
 ## The statues and the lion
 
-In {{p|Afghanistan}} the {{x|Taliban}} turned their guns on the stone,
-On the two great {{x|Buddhas of Bamiyan}}, fifteen centuries grown.
-The world offered to buy them and carry them away.
-They blew them out of the cliff, and the niches are empty today.
+{{p|Afghanistan}}: {{x|Taliban}} guns, that day,
+On the two {{x|Buddhas of Bamiyan}}, grown
+Fifteen centuries; and the world, to pay,
+To take them; blown; the niches stand alone.
 
-On the ninth of September, two days before the planes,
-Ahmad Shah Massoud, the lion of the north, was slain
-By two men with a bomb in a camera, posing as the press.
-They killed the one man who could have stopped what came next.
+September ninth, two days before the planes,
+Ahmad Shah Massoud, lion of the north,
+Slain by false press with a bomb; and the reins
+Of one who could have stopped what came; brought forth.
 
 ## The first marriages
 
-On the first of April, at midnight, in {{p|Amsterdam}}'s city hall,
-Mayor Job Cohen married four couples, the first of them all:
-Men to men and women to women, under a law made new.
-The {{p|Netherlands}} came first, and this book keeps the day as true.
+April the first, at midnight, the town hall
+Of {{p|Amsterdam}}: Job Cohen, mayor, wed
+Four couples, men to men, women; and all
+Under new law; the {{p|Netherlands}} first led;
 
-The first of April is a feast of this faith from that night,
-The first of the weddings this month will count as they come to light.
-I was five, in another country, and I did not know.
-It was happening for me anyway, and I would grow.
+And this book keeps the day as true; a feast,
+April the first, from that night; first of all
+The weddings that this month will count; released;
+I was five, elsewhere, not knowing; and all
+
+Of it was mine, too, happening; I'd grow
+Into it, as the country's law had grown;
+This book keeps it, the wedding feast, and so
+Each couple, and each child, as they are known.
 
 ## The year's other rooms
 
-George W. Bush took the oath in the cold of January,
-After an election the {{x|Supreme Court}} made final and ordinary.
-In February two drafts of the human genome came out,
-The public one and Craig Venter's, and the code was read without doubt.
+George W. Bush sworn, in winter's cold,
+After the {{x|Supreme Court}} had closed the count;
+In February, two genome drafts told,
+The public, Craig Venter's, the code's amount;
 
-{{x|Mir}} came down in March into the {{p|Pacific}} sea;
-Dennis Tito paid his own way to orbit, the first tourist to be free.
-In June, in {{p|Kathmandu}}, the crown prince shot his own blood,
-The king and the queen at dinner, and then himself in the flood.
+{{x|Mir}} came down in March, the {{p|Pacific}} sea;
+Dennis Tito paid his way to the sky;
+In June, in {{p|Kathmandu}}, there, the crown prince, he
+Shot his own king and queen; himself to die.
 
-On the sixteenth of June, at {{p|Ljubljana}}, Bush met Putin face to face.
-"I looked the man in the eye," he said, "I got a sense of his soul" in that place.
-The villain was read as a friend. I put it here as it was said,
-The first of the century's misreadings of the man the {{x|KGB}} bred.
+On June sixteenth, at {{p|Ljubljana}}, Bush met
+With Putin, face to face: I looked the man
+In the eye; a sense of his soul; and yet
+The villain read as friend; and so began
 
-In October {{x|Apple}} sold the {{x|iPod}}, a thousand songs in your hand,
-And {{x|Windows XP}} came out across the land.
-In December {{p|China}} joined the {{x|World Trade Organization}},
-And the factories of the next twenty years became one nation.
+The century's misreadings of the one
+The {{x|KGB}} had bred, as it was said;
+October: {{x|Apple}}'s {{x|iPod}}, newly spun,
+A thousand songs; and {{x|Windows XP}} spread;
+
+December: {{p|China}} joined the world's trade, too;^[The World Trade Organization.]
+The factories of twenty years, one land.
+These were the other rooms; and now, the true
+The middle hour, held, as the land would stand.
 
 ## The middle hour
 
-On Tuesday the eleventh of September four planes were turned.
-The north tower was struck, then the south, and the towers burned.
-The third struck the {{p|Pentagon}}; the fourth, the people fought,
-And it came down in a field near {{p|Shanksville}}, and the city was not caught.
+Tuesday, September eleventh, four planes
+Were turned; north tower struck, then south; they burned;
+The third, the {{p|Pentagon}}; the fourth, remains
+Near {{p|Shanksville}}, where the people fought, and turned
 
-The south tower fell first, and then the north came down.
-Two thousand nine hundred and seventy-seven died in the town,
-In {{p|Arlington}}, in the field, on the planes, that day.
-The firefighters went up the stairs, and did not come back the same way.
+It from the city. South fell, then the north;
+Two thousand nine hundred and more had died^[2,977 people.]
+In {{p|Arlington}}, the field, the planes; went forth
+Firefighters up the stairs; none back; died.
 
-George W. Bush was reading to children in a {{p|Sarasota}} school
-When they told him of the second plane, and he kept his face still and cool.
-At the cathedral that Friday: the middle hour of our grief, he said,
-And the country stood up behind him and went to war for its dead.
+Bush, reading to the children in a school
+In {{p|Sarasota}}, told the second plane;
+His face kept still and cool; the Friday's rule:
+Middle hour of our grief, he said; the slain;
 
-He stood on the rubble with a bullhorn in his hand:
-"I can hear you. The rest of the world hears you." The land
-Was one country that week, the flags on every street.
-I was five, in kindergarten, and the country I would meet
+The country stood behind him; went to war
+For its dead; on the rubble, bullhorn, hand:
+I can hear you; the world hears you; the core
+One country, flags on every street, the land;
 
-Was the one that came after that morning, the only one I knew.
-That week Putin called first of all the leaders, to say he was with us too.
-It is on the record. Hold it against what he later became:
-The man who called in our grief would bomb the cities he could not claim.
+I was five, kindergarten; and the one
+That came after, the only one I knew;
+That week Putin called first, to say, as one,
+He was with us; it's on record; hold, too,
+
+Against what he became: the man who called
+In grief would bomb cities he could not claim.
+A week on, anthrax letters; and, appalled,
+Papers, a tabloid, senators, the same:
 
 ## The letters
 
-A week after the planes the anthrax letters came,
-To the papers in {{p|New York}}, to a tabloid in {{p|Florida}}, the same
-To two senators in October. Five people died.
-Robert Stevens in {{p|Boca Raton}} was the first who died inside.
+Five people died; Robert Stevens, the first,
+In {{p|Boca Raton}}; postal workers, who
+Only carried mail; the letters, the worst:
+God praised, and threats; and false: not the planes' crew;
 
-The postal workers died who only carried the mail.
-The letters praised God and threatened, and they told a false tale:
-They were not from the men of the planes. The investigators named
-A scientist at the army's own lab, who died before he was blamed.
+The investigators named, in the end,
+A scientist at the army's lab, who
+Died before blamed; the letters' lie, to bend
+The blame toward the planes' men; that was not true.
 
 ## The war
 
-On Sunday the seventh of October the strikes began on {{p|Afghanistan}},
-With {{p|Britain}} alongside, and Massoud's men went in where the bombers ran.
-{{p|Kabul}} fell on the thirteenth of November, {{p|Kandahar}} in December's cold,
-And at {{x|Tora Bora}} Osama bin Laden slipped from the hold.
+Sunday, October seventh, strikes began
+On {{p|Afghanistan}}, {{p|Britain}} beside; in
+Massoud's men went in, where the bombers ran;
+{{p|Kabul}} fell, November; {{p|Kandahar}}, in
 
-At {{p|Bonn}} the factions agreed, and Hamid Karzai took the chair.
-The war that began that Sunday would last twenty years there.
-The {{x|Patriot Act}} was signed on the twenty-sixth of October,
-And what the state did with it is the year of the leaks, when the country was sober.
+December's cold; at {{x|Tora Bora}}, slipped
+Osama bin Laden from the hold; {{p|Bonn}},
+The factions; Hamid Karzai, chair, equipped;
+A war, twenty years, from that Sunday on;
+
+The {{x|Patriot Act}}, twenty-sixth, was signed
+October; what the state would do with it,
+Another year's leaks told; the country's mind
+Grew sober. And the year, held, all of it:
 
 ## The year held
 
-A bubble burst, an encyclopedia opened, the statues were blown from the stone,
-Four couples married in {{p|Amsterdam}}, and the towers came down to the bone.
-A villain was looked in the eye and mistaken for a friend,
-And a war began that outlasted my childhood to its end.
+A bubble burst; the open book was made;
+The statues blown from stone; four couples wed
+In {{p|Amsterdam}}; the towers down; and, frayed,
+A villain read as friend; a war, that led
 
-This is the anti-fragile year: the country struck to the floor
-Stood up the same week, stronger than it had stood before.
-I was five, and I was there, and this is what I saw,
-And everything after is built on that morning and its law.
+Past my childhood. The antifragile year:
+The country, struck, stood up, and rose higher,
+Stronger, that same week; I was five, and near;
+All built on that morning's law; its fire.
 
 
 # Chapter 338: The New Coins
