@@ -2025,25 +2025,20 @@ The upright ape emerged, the beast who'd be
 The one to bear, and to become, the host
 Of consciousness. And Australos, then, he,
 
-The southern ape, walked upright: not to try
-Experiment, nor occasional pose,
-But as the permanent, committed, high
-Way of his locomotion; and he chose
+The southern ape, walked upright; and he stood
+Not for a moment, nor in passing play,
+But all his life, as stone stands, and as wood,
+Upright upon two feet, by night and day;
 
-The pelvis broad and bowl-shaped for the weight
-Of upright torso; the devotion, curved,
-Of the spine's S-curve to vertical freight;
-The foot's arch storing energy, conserved
+And so his hands were his, and they were free,
+And on the open grass he made his choice,
+To carry home the food, that all might see,
+And share it out, and in it to rejoice.
 
-And then released at every step, a spring;
-The march of the bipedal primate, all
-Anatomy committed, everything,
-To the ground. Why stand? The savanna's call
-
-Demanded hands: the upright body freed
-The hand from bonds of moving; and the lands
-Of savanna made carrying a need:
-The food found here was carried, in the hands,
+He bore it in his arms across the lands,
+The fruit, the meat, the roots dug from the ground,
+And all the harvest carried in the hands
+From here, where it was gathered and was found,
 
 To there, the home base, where the young ones lay,
 The nursing mother's vulnerable life
@@ -2065,13 +2060,13 @@ Of butchery, all written in the stone,
 Earliest human industry, the starts.
 And the brain grew. Not fast: the brain, alone,
 
-Of the australopithecine had room
-Four hundred cubic centimeters, past
-The chimpanzee's range; but upward, the loom
-Of trend would go: Homo habilis, cast
+Of Australos, was greater than the room
+The chimpanzee had kept, and grew; and past
+Him, upward, rose the mind, as from a loom,
+Till his son, Homo habilis, was cast
 
 As "handy one," would make the skull expand
-To six hundred: analysis, a brain
+And make it greater still, and make a brain
 Beginning to be human. Then, at hand,
 Came fire: not mastered yet, but, in its train,
 
@@ -2100,10 +2095,10 @@ Unprecedented investment in young:
 The human child was born, as was its due,
 Quite helpless; nature's accountant had sung
 
-The tally: the enormous and wild brain
-Required a skull so large the birth canal
-Could barely hold the growing head; and plain,
-The practical solution's rationale:
+The tally: for the great and growing brain,
+The child came early, small, and in its fall
+Was helpless, and its mother bore the strain;
+And this was wisdom's way, and good for all:
 
 Be born early, be born helpless, be born
 Needing years of kissing and of feeding
