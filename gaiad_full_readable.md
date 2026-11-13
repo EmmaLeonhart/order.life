@@ -8369,7 +8369,7 @@ With species old and new that settled in
 And found their perfect place along the way,
 In evolution's race they ran to win.
 
-And it would only grow, as we now know,
+And it would only grow, and grow, and grow,
 More prosperous and bright, a shining light,
 Greater and greater, and more richly glow
 Under Ordovician power and might.
@@ -17468,7 +17468,7 @@ One season they filled every water there.
 His eldest sons were Bichiros the first,
 Who kept the ancient body-plan most pure:
 His scales like plates of bony stone hard-cursed
-In fossil record—scales that would endure.
+In stone preserved—the scales that would endure.
 
 The bichirs in the deep {{p|African}} streams
 Still bear Bichiros' ancient form today—
@@ -18184,13 +18184,13 @@ With tooth-like denticles—a shape that stormed
 
 All understanding of what fins are for:
 A flat and ironing-board of texture rough
-Upon his back—what evolution's lore
-Produced this shape we cannot say enough
+Upon his back, which evolution bore
+For show, to flaunt it, bristling, bold and tough;
 
-To settle it—the fossil record fails
-To tell us what that platform would achieve:
-Display? Aggression? Or some other tales
-That we must from uncertainty retrieve.
+He raised it high before the females' eyes,
+And bristled it at rivals in his way;
+A crown of teeth, a banner and a prize,
+That told the seas whose waters were his sway.
 
 Young Xenacanthos took to the fresh streams
 And hunted through the coal-swamp rivers wide
@@ -19306,7 +19306,7 @@ Bacteria-rich basalts, cooking forth
 
 Out of the planet's own deep heat, to rise
 In pressure up against the surface crust,
-In what geologists would recognize
+In what the world would come to recognize
 As the catastrophe—a buried gust
 
 Of magma seeking every crack and seam
@@ -20592,7 +20592,7 @@ Of unity, to make the world diverse.
 The ancient names that, in divided verse,
 The parted lands would carry in the mouth
 
-Of each geologist to come. And wide
+Of all the ages still to come. And wide
 Between them grew the {{p|Tethys}} Sea; the warm
 And shallow waters of its growing tide
 Fed new corals, new fish, the reborn swarm
@@ -23143,7 +23143,7 @@ Down to the sediment their shells were sown.
 
 Of every four species, three were killed;
 Each land beast larger than a dog was tolled
-Into the fossil record, there fulfilled,
+Into the stone, the record there fulfilled,
 In its account of the destroyed, enrolled.
 
 And this is {{x|Good Mesozoic Friday}}:
@@ -23341,7 +23341,7 @@ A creature would arise, whose long escape
 From the animal's silence would sublime
 
 Into language, and consciousness, and art,
-Would look back at the fossil record's page
+Would look back on the ages, page by page,
 And read the story from the very start,
 And understand. But that's another age.
 
@@ -23674,7 +23674,7 @@ Their eggs in warm {{p|Antarctica}}: a trace
 Of memory that only, to this day,
 Enamel of the ancient teeth, the place
 
-In {{p|Antarctica}}'s fossil record, keep.
+In {{p|Antarctica}}'s buried stone they keep.
 Then from {{p|Antarctica}} broke {{p|Australia}}
 And drifted north, and in its northward sweep
 Bore Monotremos to its regalia
@@ -24877,8 +24877,8 @@ Kept up the vigil of the early way,
 Asocial, ancient, as he was of yore,
 Of primates, in the dark, before the day.
 
-And Aegyptopithos, the fossil found
-In {{p|Egyptian}} earth, told anthropoid day:
+And Aegyptopithos, the ancient, crowned
+In {{p|Egyptian}} earth, brought anthropoid day:
 The first true higher primate, as the ground,
 The root from which the monkeys made their way,
 
@@ -25335,14 +25335,14 @@ Of upright posture, awakening line
 Of body for the open ground; the rift.
 
 Sahelanthropos is the oldest face
-Of human lineage yet found: in clay
+Of human lineage of all: in clay
 Some seven million years in the embrace
 Of {{p|Sahel}}'s ancient lakeside, a skull lay
 
 Whose foramen magnum, placed down below
-The braincase, told us of the upright head:
+The braincase, carried high the upright head:
 Transition had begun. And, long ago,
-"Ground ape" Ardipithos, whose bones have said:
+"Ground ape" Ardipithos, whose form was bred:
 
 Halfway: still grasping toes for climbing, though
 A backbone made for walking, as it could;

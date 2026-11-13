@@ -4062,7 +4062,7 @@ With species old and new that settled in
 And found their perfect place along the way,
 In evolution's race they ran to win.
 
-And it would only grow, as we now know,
+And it would only grow, and grow, and grow,
 More prosperous and bright, a shining light,
 Greater and greater, and more richly glow
 Under {{c|954|Ordovician}} power and might.

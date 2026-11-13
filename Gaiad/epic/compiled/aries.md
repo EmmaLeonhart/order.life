@@ -300,7 +300,7 @@ Their eggs in warm {{p|Antarctica}}: a trace
 Of memory that only, to this day,
 Enamel of the ancient teeth, the place
 
-In {{p|Antarctica}}'s fossil record, keep.
+In {{p|Antarctica}}'s buried stone they keep.
 Then from {{p|Antarctica}} broke {{p|Australia}}
 And drifted north, and in its northward sweep
 Bore {{c|1773|Monotremos}} to its regalia
@@ -1503,8 +1503,8 @@ Kept up the vigil of the early way,
 Asocial, ancient, as he was of yore,
 Of primates, in the dark, before the day.
 
-And {{c|1814|Aegyptopithos}}, the fossil found
-In {{p|Egyptian}} earth, told anthropoid day:
+And {{c|1814|Aegyptopithos}}, the ancient, crowned
+In {{p|Egyptian}} earth, brought anthropoid day:
 The first true higher primate, as the ground,
 The root from which the monkeys made their way,
 
@@ -1961,14 +1961,14 @@ Of upright posture, awakening line
 Of body for the open ground; the rift.
 
 {{c|1829|Sahelanthropos}} is the oldest face
-Of human lineage yet found: in clay
+Of human lineage of all: in clay
 Some seven million years in the embrace
 Of {{p|Sahel}}'s ancient lakeside, a skull lay
 
 Whose foramen magnum, placed down below
-The braincase, told us of the upright head:
+The braincase, carried high the upright head:
 Transition had begun. And, long ago,
-"Ground ape" {{c|1830|Ardipithos}}, whose bones have said:
+"Ground ape" {{c|1830|Ardipithos}}, whose form was bred:
 
 Halfway: still grasping toes for climbing, though
 A backbone made for walking, as it could;

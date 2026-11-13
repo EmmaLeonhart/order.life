@@ -765,7 +765,7 @@ Of unity, to make the world diverse.
 The ancient names that, in divided verse,
 The parted lands would carry in the mouth
 
-Of each geologist to come. And wide
+Of all the ages still to come. And wide
 Between them grew the {{p|Tethys}} Sea; the warm
 And shallow waters of its growing tide
 Fed new corals, new fish, the reborn swarm
@@ -3316,7 +3316,7 @@ Down to the sediment their shells were sown.
 
 Of every four species, three were killed;
 Each land beast larger than a dog was tolled
-Into the fossil record, there fulfilled,
+Into the stone, the record there fulfilled,
 In its account of the destroyed, enrolled.
 
 And this is {{x|Good Mesozoic Friday}}:
@@ -3514,7 +3514,7 @@ A creature would arise, whose long escape
 From the animal's silence would sublime
 
 Into language, and consciousness, and art,
-Would look back at the fossil record's page
+Would look back on the ages, page by page,
 And read the story from the very start,
 And understand. But that's another age.
 

@@ -2794,7 +2794,7 @@ One season they filled every water there.
 His eldest sons were {{c|1695|Bichiros}} the first,
 Who kept the ancient body-plan most pure:
 His scales like plates of bony stone hard-cursed
-In fossil record—scales that would endure.
+In stone preserved—the scales that would endure.
 
 The bichirs in the deep {{p|African}} streams
 Still bear {{c|1695|Bichiros}}' ancient form today—
@@ -3510,13 +3510,13 @@ With tooth-like denticles—a shape that stormed
 
 All understanding of what fins are for:
 A flat and ironing-board of texture rough
-Upon his back—what evolution's lore
-Produced this shape we cannot say enough
+Upon his back, which evolution bore
+For show, to flaunt it, bristling, bold and tough;
 
-To settle it—the fossil record fails
-To tell us what that platform would achieve:
-Display? Aggression? Or some other tales
-That we must from uncertainty retrieve.
+He raised it high before the females' eyes,
+And bristled it at rivals in his way;
+A crown of teeth, a banner and a prize,
+That told the seas whose waters were his sway.
 
 Young {{c|1719|Xenacanthos}} took to the fresh streams
 And hunted through the coal-swamp rivers wide
@@ -4632,7 +4632,7 @@ Bacteria-rich basalts, cooking forth
 
 Out of the planet's own deep heat, to rise
 In pressure up against the surface crust,
-In what geologists would recognize
+In what the world would come to recognize
 As the catastrophe—a buried gust
 
 Of magma seeking every crack and seam
