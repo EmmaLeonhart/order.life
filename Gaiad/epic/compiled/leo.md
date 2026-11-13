@@ -1840,205 +1840,150 @@ You keep the peace without him, unafraid.
 
 # Chapter 239: The Fall of Tenochtitlan
 
-The island city rose from the lake like a prayer
-Answered in stone and floating garden—
-{{p|Tenochtitlan}}, the jewel beyond compare,
-Where {{c|3508|Huitzilopochtli}}'s children did not harden
+The city rose out of the lake, a prayer
+Answered in stone and floating garden-ground:
+{{p|Tenochtitlan}}, jewel beyond compare,
+Where {{c|3508|Huitzilopochtli}}'s children, crowned,
 
-Against the beauty of the world but built it
-Into causeways spanning the wide water,
-Into aqueducts whose arches split
-The morning light, into each quarter
+Did not resist the beauty, but had built
+It into causeways on the water, arched,
+And aqueducts whose arches split the gilt
+Of morning; each quarter hummed and marched
 
-Of the city humming with the trade
-Of a hundred thousand lives—the flower
-And the feather and the obsidian blade,
-The chocolate-bean and the cotton bower.
+With trade, a hundred thousand lives: the plume,
+The feather, obsidian blade, the bean
+Of chocolate, and the cotton of the loom;
+Two hundred thousand souls lived there, between
 
-Two hundred thousand souls within its walls—
-More than any city {{p|Europe}} knew
-At that same hour—and the waterfalls
-Of the mountain aqueducts that drew
+Its walls, more than in any {{p|Europe}}'s town
+At that same age; from {{p|Chapultepec}}'s spring,
+Clean water fed the fountains coming down
+To plazas where the priests and merchants' ring
 
-Clean water from the springs of {{p|Chapultepec}}
-Fed fountains in the plazas where the priests
-And merchants walked, where the architect
-Planned the next great temple's feasts
+Went on, where architects would plan the feasts
+Of carving: serpent, eagle, sun; and there
+The skull-rack's grim accounting; for the priests'
+City was not undone by squeamish care:
 
-Of carving: serpent, eagle, sun,
-And the skull-rack's grim accounting—
-For {{p|Tenochtitlan}} was not undone
-By squeamishness; the mounting
+Tribute of {{c|3509|Triple Alliance}}'s wars
+Fed the realm's hunger and the altar's need;
+And {{c|3510|Moctezuma}} ruled from polished floors,
+The absolute and guaranteed, decreed
 
-Tribute of the {{c|3509|Triple Alliance}}'s wars
-Fed the empire's hunger and the altar's need,
-And {{c|3510|Moctezuma}} ruled from floors
-Of polished stone, the guaranteed
+Lord of the {{c|3511|Mexica}}; {{p|Texcoco}} and
+{{p|Tlacopan}} beside him, three cities' chain
+In one alliance; and the markets, spanned
+At {{p|Tlatelolco}}, wider than the main
 
-And absolute lord of the {{c|3511|Mexica}} domain—
-{{p|Texcoco}} and {{p|Tlacopan}} beside him,
-Three cities yoked beneath the sovereign chain
-Of the alliance no rebellion could rescind.
+Of {{p|Salamanca}}; sixty thousand fed
+Its dance of trade: the jaguar pelt, the plume
+Of quetzal, gold and jade and turquoise spread,
+Vanilla, rubber, copal, and the loom,
 
-The markets of {{p|Tlatelolco}} spread
-Across a plaza larger than {{p|Salamanca}}'s—
-Sixty thousand buyers daily fed
-The economy's great dances:
+The lapidary's and the goldsmith's art;
+The {{c|3512|Spaniards}}, later, swore they'd never seen
+In any {{p|Europe}} market such a mart;
+And the chinampas, floating gardens, green
 
-Jaguar pelts and quetzal plumes,
-Gold and jade and turquoise ear-spools,
-Vanilla, rubber, cotton looms,
-Copal incense, and the jeweled tools
+On woven reed upon the lake, where grew
+The maize and squash and amaranth, the soil
+So engineered, the most productive, through
+The hemisphere; and so their keepers' toil
 
-Of the lapidary and the goldsmith's art—
-The {{c|3512|Spaniards}} who would see it later
-Swore they had never seen in any mart
-Of {{p|Europe}} a bazaar this greater.
+Fed a realm. Then, the sails: fifteen-nineteen;
+{{c|3513|Hernán Cortés}} then stepped ashore, with his horse;
+And the {{c|3514|Totonacs}} told, as they had seen,
+The {{c|3511|Mexica}}'s ways, gave the lever's force:
 
-And the chinampas—floating gardens laid
-On woven reed-mat frames upon the lake,
-Where the maize and squash and amaranth displayed
-The surplus of the harvest for the sake
-
-Of the capital's insatiable demand—
-These rectangles of engineered soil
-Were the most productive farmland
-In the hemisphere, and the toil
-
-Of their keepers fed an empire.
-
-                                    Then the sails.
-
-In fifteen-nineteen, {{c|3513|Hernán Cortés}}
-Stepped ashore with horses—and the tales
-That the {{c|3514|Totonacs}} told of the {{c|3511|Mexica}}'s ways
-
-Gave him the lever and the crack:
 The tributary peoples, ground beneath
 The {{c|3509|Triple Alliance}}'s heavy rack
-Of flower-war and tax, bequeathed
+Of flower-war and tax, would so bequeath
+Their hatred to the stranger; and the crack
 
-Their resentment to the stranger's cause—
-{{c|3496|Cortés}} did not conquer {{p|Mexico}} alone;
-He shattered the {{c|3511|Mexica}}'s laws
-With {{c|3511|Mexica}}'s own enemies, the bone
+Was this: {{c|3496|Cortés}} did not conquer it alone;
+He broke the {{c|3511|Mexica}} with their own foes,
+Alliance turned against itself, the bone
+Of realms. Then {{c|3510|Moctezuma}}, as signs rose,
 
-Of alliance turned against itself.
+Would hesitate: was this {{c|3493|Quetzalcoatl}}, come
+Back from the eastern sea, as was foretold,
+The {{c|3492|Feathered Serpent}}? Or an envoy, from
+Some distant lord? And while he weighed, and told
 
-And {{c|3510|Moctezuma}} hesitated.
-Was this {{c|3493|Quetzalcoatl}} returned from the shelf
-Of the eastern sea? The long-awaited
+The omens, signs, {{c|3496|Cortés}} advanced, and he laid
+The {{c|3401|European}} purpose through the lines
+Of {{c|3511|Mexica}} diplomacy, a blade
+Through silk. They met on causeway, by the shrines:
 
-{{c|3492|Feathered Serpent}}'s prophesied return?
-Or was this merely one more ambassador
-From a distant lord? The concern
-Of the emperor was the corridor
+{{c|3510|Moctezuma}} in his jade and in gold,
+The feathered headdress, all the grand display;
+And {{c|3496|Cortés}}, in rusted iron, grim and cold,
+Unwashed, his handful, weak in number; they
 
-Between theology and statecraft—
-And while he weighed the omens and the signs,
-{{c|3496|Cortés}} advanced, and the shaft
-Of {{c|3401|European}} purpose crossed the lines
+Were armored in the certainty that {{c|472|God}}
+And gold were one pursuit. Then, the slaughter;
+And on the {{c|3515|Noche Triste}}, through the causeways trod
+The {{c|3516|Spanish}}, driven bloody through water;
 
-Of {{c|3511|Mexica}} diplomacy like a blade
-Through silk.
+But they returned; they always would return,
+With the {{c|3517|Tlaxcalan}} allies, who'd destroy
+Their ancient foes, the {{c|3511|Mexica}}; he'd learn
+The lesson realms all fear, the subject's ploy:
 
-                They met in the great causeway—
-{{c|3510|Moctezuma}} in his jade
-And gold and feathered headdress, the display
+The subjects' hate is the invader's gift.
+And an ally too small for eye to see,
+{{c|3518|Cocoliztli}}, plague, terrible and swift,
+Ran on before {{c|3516|Spanish}} boots: smallpox, free,
 
-Of an empire's magnificence—and {{c|3496|Cortés}}
-In rusted iron and the reek
-Of the unwashed conquistador's malaise,
-His handful of adventurers, weak
+Silent, needing no sword; it moved along
+The causeways, markets, palace, and the hut
+Of the gourd-worker, through the weak and strong;
+And forty in a hundred fell, were cut,
 
-In number but armored in the certainty
-That {{c|472|God}} and gold were the same pursuit.
+The {{c|3511|Mexica}}, before a single pike
+Had breached the citadel. The siege then came:
+Eighty days of starvation, thirst, the strike
+Of cannonade; the causeways cut, the same
 
-And then—the massacre. The {{c|3515|Noche Triste}}'s
-Rout through the causeways, the absolute
-And bloody expulsion of the {{c|3516|Spanish}}—
+Waters held by brigantines he made
+From lakeshore wood; {{c|3519|Cuauhtémoc}}, the last
+Tlatoani, fought on his knees, and stayed
+In rubble, till the city, boneyard, passed
 
-But they returned. They always returned.
+Into surrender's silence: no more drums
+From the great temple's height, no market's sound,
+No laughter in the plazas; and there comes
+Colonial night. In the ruin, found,
 
-With {{c|3517|Tlaxcalan}} allies who would vanquish
-Their ancient {{c|3511|Mexica}} foes, {{c|3496|Cortés}} had learned
-The lesson every empire fears: the subject
-Peoples' hatred is the invader's gift.
+A scribe, {{c|3520|Mormon}}, the keeper of the trust
+Of record, and gathered memory's hope:
+The painted books, the codices from dust
+Of kings, the genealogies, the rope
 
-And the invisible ally—the object
-Too small for any eye—the swift
+Of knotted calendar, the count of days,
+The feasts, the names of gods, from ages past;
+And fled north to the mount, the desert's maze,
+Hid from the conqueror, buried to last.
 
-And terrible {{c|3518|Cocoliztli}}, the plague
-That ran ahead of every {{c|3516|Spanish}} boot:
-Smallpox, whose advance was vague
-And silent and whose absolute
+The record slept beneath the earth, a seed,
+A stratagem of rebirth, long delayed.
+Honor {{p|Tenochtitlan}}, whose roads lead
+Across the world the sword would break and fade,
 
-Destruction needed no sword—
-It moved through the causeways and the markets,
-Through the palace and the gourd-
-Worker's hut, through the targets
-
-Of the healthy and the strong alike,
-And forty percent of the {{c|3511|Mexica}} fell
-Before a single soldier's pike
-Had breached the final citadel.
-
-The siege of {{p|Tenochtitlan}}—eighty days
-Of starvation, thirst, and cannonade,
-The causeways cut, the waterways
-Controlled by brigantines that {{c|3496|Cortés}} made
-
-From the timber of the lakeshore trees—
-And {{c|3519|Cuauhtémoc}}, the last tlatoani,
-Fought from the rubble on his knees
-Until the city was a boneyard, and the agony
-
-Of the surrender was the silence after:
-No more drums from the great temple's height,
-No more market's buzz, no more laughter
-In the plazas—only the night
-
-Of the colonial dawn.
-
-                          And in the ruin,
-A scribe—call him {{c|3520|Mormon}}, call him
-The keeper of the record's accruin'
-And desperate preservation, the slim
-
-And final hope of memory: he gathered
-The painted books, the codices of kings,
-The genealogies his people fathered
-Across five hundred years, the strings
-
-Of the knotted calendar and the count
-Of the days and the feasts and the names
-Of the gods—and fled north to the mount
-Where the desert hides what the conqueror claims
-
-To have destroyed—and buried them.
-And the record slept beneath the earth
-Like a seed, like a stratagem
-Of the future's delayed rebirth.
-
-Honor {{p|Tenochtitlan}}—the city on the lake,
-The island jewel whose causeways spanned
-The waters of a world the sword would break
 But could not make the memory unmanned:
+The chinampas, and all the chocolate trade,
+The serpent and knife, the calendar stand
+Of stone, the jade-green mask; all of it laid
 
-The chinampas and the chocolate trade,
-The feathered serpent and the obsidian knife,
-The calendar stone and the jade-
-Green mask of the civilization's life—
+In soil, and waiting for the day the hoard
+Of the old record-keeper's found once more,
+And the long toil of forgetting's restored
+To light; the city rises, as before;
 
-All buried, all waiting in the soil
-For the day when the record-keeper's hoard
-Is found again, and the long toil
-Of forgetting is at last restored
-
-To the light—and the city on the lake
-Rises once more in the telling,
-And the memory no conquest can unmake
-Returns to its ancient dwelling.
+And so the memory no conquest's might
+Could ever make undone, returns to dwell
+In its old home, the city of the light
+Upon the lake, alive in those who tell.
 
 
 # Chapter 240: The Four Quarters Fall
