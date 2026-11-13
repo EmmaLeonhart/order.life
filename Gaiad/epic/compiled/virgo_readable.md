@@ -1221,45 +1221,50 @@ To keep, without the founder in the room.
 
 # Chapter 264: The Scholar from the Western Sea
 
-Xavier died in sight of {{p|China}}, on a beach, alone.
-Thirty years later, in 1582, a young Italian came to {{p|Macau}}
-And did what Xavier could not: he learned. Not the tone
-Of command, but the tones of the language. Here is how
+Xavier died in sight of {{p|China}}, alone;
+In eighty-two, a young Italian came
+To {{p|Macau}}, and learned: not the command's tone,
+The tongue's tones: Matteo Ricci, his name,
 
-Matteo Ricci of {{p|Macerata}}, a Jesuit, a mathematician,
-A student of Clavius, who had helped make the {{x|Gregorian}} calendar,
-Went into the Ming empire as a guest, not a conqueror's commission:
-He learned to read the classics, the Four Books, the slender
+Of {{p|Macerata}}, a Jesuit, a mind
+For numbers; Clavius' student; one who
+Had made the {{x|Gregorian}} year; he, kind,
+Went in the Ming as guest, not conquest's crew;
 
-Lines of Confucius and Mencius, and memorized them, and could recite
-A list of characters forward and backward from his memory palace,
-The art he taught the scholars. At {{p|Zhaoqing}}, first, despite
-Himself, he shaved his head and wore the {{x|Buddhist}} robe. The malice
+Learned the classics, the Four Books, the lines
+Of Confucius, Mencius, all by heart;
+His memory palace: characters, signs,
+Forward and backward, which he taught as art.
 
-Of no one: the error of a costume. The monks were poor
-And the scholars despised them, and so the Jesuits were despised.
-In 1595 he let his beard grow, and wore the silk, the lore
-Of the literati: the robe of a scholar. And was prized.
+At {{p|Zhaoqing}} first he shaved his head and wore
+The {{x|Buddhist}} robe; the monks were low, despised,
+So too the Jesuits, until, once more,
+In ninety-five, he grew his beard, was prized
 
-He hung a map of the world on his wall at {{p|Zhaoqing}},
-And the scholars came to see it: the whole world, the seas,
-The continents, and {{p|Europe}}, small, far off. The thing
-They objected to: {{p|China}} was at the edge. With ease
+In scholar's silk, the literati's lore.
+He hung a world map at {{p|Zhaoqing}}: the seas,
+The continents, and {{p|Europe}}, small, far shore;
+And {{p|China}} at the edge, which would not please;
 
-He redrew it with the {{p|Middle Kingdom}} near the middle,
-The {{p|Pacific}} in the centre, and the great map of 1602
-Was printed in {{p|Beijing}}, the Kunyu Wanguo Quantu, a riddle
-Of tact: the truth of the round earth, drawn the way they knew
+He drew the {{p|Middle Kingdom}} near the heart,
+{{p|Pacific}} in the centre; truth, as kind;
+Of sixteen-two, in {{p|Beijing}}: tact's own art,
+Kunyu Wanguo Quantu, to their mind.
 
-To bear it. He translated Euclid with his friend Xu Guangqi,
-A scholar of {{p|Shanghai}} who was baptized Paul,
-The first six books, in 1607, and the words they made, the key
-Words, *point*, *line*, *plane*, are the ones in Chinese classrooms, all
+With Xu Guangqi, his friend, he Euclid turned,
+A {{p|Shanghai}} scholar, baptized Paul; the first
+Six books, in sixteen-seven; and they learned
+New words, point, line, and plane, still now rehearsed
 
-Of them, still. He wrote *The {{x|True Meaning of the Lord of Heaven}}*,
-Arguing from the old books that the ancient Chinese
-Had known one God, Shangdi, the Lord on High, the leaven
-Of the classics, before the Buddhists and the later commentaries
+In Chinese classrooms. And he wrote a book:
+*{{x|True Meaning of the Lord of Heaven}}*, where
+He argued the old books, if one would look,
+Knew one God, Shangdi, Lord on High, laid there
+
+In classics, ere the Buddhists came, and late
+Commentaries in layers laid on thick,
+Like dust upon the ancient book's own weight,
+Like moss upon the stone, like lacquer slick,
 
 Had covered it. And he would stake his name
 that tablets, and the bowing at the grave,
@@ -1272,39 +1277,44 @@ No one chose heaven over kin: one soul,
 one table. Later {{p|Rome}} would bring its claims
 
 Of office, and undo it. But not yet.
-Tonight is the {{x|Mid-Autumn}}. The full moon. The family
-Gathers at one table, and sets a place for the absent, and the debt
-To the ancestors is paid in mooncakes and in memory,
+Tonight is the {{x|Mid-Autumn}}; the full moon;
+The family gathers, pays the old debt
+With mooncakes and with memory, in tune,
 
-And the moon is the same moon over {{p|Macerata}} and {{p|Beijing}}.
-Ricci understood the table. He did not ask
-The families to leave their dead out of the reckoning.
-That was the accommodation: not a mask,
+A place set for the absent; and the light,
+Moon over {{p|Macerata}} and {{p|Beijing}}, wide;
+He understood the table; not a slight:
+He asked no house to set its dead aside;
 
-A seat at the table for the stranger who would keep the old seats too.
-In 1601, after twenty years, he came at last to the capital,
-With gifts for the Wanli Emperor: a clavichord, an image or two,
-And two clocks that struck the hours. The emperor, in the tidal
+That was accommodation: not a mask,
+A seat for strangers who kept old seats, too.
+In sixteen-one, at last, he came to ask,
+With gifts for Wanli Emperor: and two
 
-Remoteness of his palace, never saw him. But the clocks
-Ran down, and no one at court could wind them, so the foreigner
-Was allowed to stay, to keep the clocks. The locks
-Of the {{p|Forbidden City}} opened for a mechanic. A mourner
+Clocks striking time, a clavichord; the king,
+Remote within his palace, never saw
+The man; but the clocks ran down; not a thing
+At court could wind them; so, by clockwork's law,
 
-Would come for him nine years later. He died in May, 1610,
-And by the emperor's grant he was buried in {{p|Beijing}},
-The first foreigner given ground there. His grave is there still, and when
-They asked, why him, an official is said to have answered: the thing
+The foreigner could stay to keep the clocks;
+{{p|Forbidden City}} opened, let him in,
+A mechanic, for whom it turned its locks.
+He died in May of sixteen-ten; and, in
 
-He translated, the Euclid, alone deserves a grave.
-Three pillars of the Chinese church were his friends:
-Xu Guangqi, Li Zhizao, Yang Tingyun. And the wave
-Would break when {{p|Rome}} ruled on the dead; the ends
+{{p|Beijing}}, by grant, was buried, first of all
+Foreigners given ground there; still his grave
+Is there. An official said, at the call
+Of "Why him?": "For the Euclid that he gave
 
-Of the accommodation came. But hold the full moon now.
-A man from the far west learned the classics by heart, and sat
-At the Chinese table, and did not ask the dead to leave. The vow
-Of the moon festival is reunion. Set the place. Keep that.
+Alone deserves a grave." His friends, the three
+Pillars of the Chinese church, who stood tall:
+Xu Guangqi, Li Zhizao, and, standing free,
+Yang Tingyun. Now hold the full moon, through all:
+
+A man from the far west learned classics, sat
+At the Chinese table; asked none to go;
+The moon-feast vow is reunion: keep that;
+Set the place for the absent, there, below.
 
 
 # Chapter 265: The Monkey and the Hill of Crosses
