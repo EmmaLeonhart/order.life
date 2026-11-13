@@ -175,7 +175,7 @@ As donors of great beauty to the world,
 Their cities where no evil ever lurks
 In fossilized remains they lie unfurled.
 
-They tell us of {{c|1448|Thallasintep}} the great
+There rests, enthroned, {{c|1448|Thallasintep}} the great
 And others who in stone are made to stand,
 Sealed there for us to read by loving fate:
 Their architecture throughout ocean's land.
