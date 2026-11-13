@@ -43887,85 +43887,95 @@ The clerk, the pen: hold both, here, in the smoke.
 
 # Chapter 296: The Compilers
 
-Two brothers in {{p|Kassel}}, {{c|2019|Jacob}} and {{c|4152|Wilhelm Grimm}}, poor after their father died,
-Librarians and scholars of old {{x|German}} law and poetry, believed, like everyone
-After {{c|4060|Ossian}}, that the true voice of a people was in the country, the pride
-Of the folk, in the old tales the old women told by the fire. The sun
+Two brothers, {{p|Kassel}}, poor, their father dead,
+{{c|2019|Jacob}} and {{c|4152|Wilhelm Grimm}}, who studied law
+Old {{x|German}} verse; and, as {{c|4060|Ossian}}, said:
+The people's voice lay in the country's awe,
 
-Of the age was nations, and the {{p|Germany}} that did not yet exist as a state
-Would exist, they hoped, as a people with a memory. In 1812, the year {{c|4066|Napoleon}} marched east,
-They published the first volume: *{{x|Children's and Household Tales}}*: the weight
-Of eighty-six stories, the frog king, the girl in the tower, the feast
+The old wives' tales; a {{p|Germany}} not yet
+A state, a people, memory's own thread;
+Eighteen-twelve, {{c|4066|Napoleon}} east; they set
+The first: *{{x|Children's and Household Tales}}*, widespread,
 
-Of the gingerbread house. And the second in 1815, and edition after edition,
-Seven in their lifetime, two hundred and ten tales by the last. And the truth of the sources,
-Which they did not hide, but which the legend would: the old wives' tradition
-Came, as often as not, from educated young women of the town, whose courses
+The frog king, girl in tower, the sweet feast
+Of gingerbread; and fifteen, more; and on,
+Seven; two hundred ten tales, at the least;
+The sources, which they hid not; but, anon,
 
-Of reading had included the {{x|French}} tales of {{c|4153|Perrault}}: the {{c|4154|Hassenpflug}} sisters,
-Of a family of {{x|French}} {{c|4155|Huguenot}} refugees; the {{c|4156|Wild}} daughters, one of whom, {{c|4157|Dortchen}},
-{{c|4158|Wilhelm}} would marry; and the best of their tellers, {{c|4159|Dorothea Viehmann}}, a tailor's widow, the sister
-Of the folk in the legend, the peasant voice of the book, was of {{x|French}} Huguenot descent too. The torch
+The legend would: the old wives' tellers came
+From educated girls of town, who read
+{{c|4153|Perrault}}'s {{x|French}} tales; the {{c|4154|Hassenpflug}}s, by name,
+Of {{c|4155|Huguenot}} {{x|French}} refugees; and, bred,
 
-Of the {{x|German}} folk was lit, in part, from the {{x|French}}. And {{c|4158|Wilhelm}}, edition by edition,
-Smoothed the stories, made them more {{x|Christian}}, more proper, more fit for children:
-In the first edition it is {{c|4160|Snow White}}'s own mother who wants her dead, the condition
-Of {{c|4161|Hansel}} and {{c|4162|Gretel}}'s mother the same: in later ones, a stepmother. The bewildering
+The {{c|4156|Wild}} daughters; {{c|4157|Dortchen}}, whom {{c|4158|Wilhelm}} wed;
+And {{c|4159|Dorothea Viehmann}}, widow, too,
+Of {{c|4155|Huguenot}} descent; the torch, they fed,
+{{x|German}} folk, lit in part by {{x|French}}; and through
 
-Kindness of the editor: a mother could not be that cruel, so he made her a step-.
-Hold that. A tradition shaped by the hand that loved it. And {{c|2019|Jacob}} found
-The rules of how the sounds of the old tongues had shifted, the step
-Of *p* to *f*, *t* to *th*, from {{x|Latin}} *pater* to *father*, the ground
+{{c|4158|Wilhelm}} then smoothed each one, and made them more
+{{x|Christian}} and proper, fit for children: there,
+In the first, {{c|4160|Snow White}}'s own mother, the core,
+Wished her dead, {{c|4161|Hansel}}'s, {{c|4162|Gretel}}'s; later, where
 
-Of {{c|4103|William Jones}}'s family tree given its laws: {{c|4117|Grimm}}'s law, in 1822.
-The brothers began a dictionary of the whole {{x|German}} language in 1838,
-And died before the letter F was finished. It was completed in 1961. The few
-Who began it were long dead. That is how the great registers wait.
+A stepmother: a mother could not be
+So cruel, he thought, and made her a step-; hold
+That: shaped by the hand that loved it; and he,
+{{c|2019|Jacob}}, found how the sounds shifted, the old
 
-And north, in {{p|Finland}}, which {{p|Sweden}} had lost to {{p|Russia}} in 1809,
-A {{p|Grand Duchy}} now under the {{c|3364|Tsar}}, with {{x|Swedish}} its language of learning,
-And {{x|Finnish}} the tongue of farmers, a country doctor, {{c|1930|Elias Lönnrot}}, the line
-Of his district reaching to the border, went walking, the yearning
+From *pater*, *father*: *p* to *f*; and, wrought,
+{{c|4103|William Jones}}'s tree given laws: {{c|4117|Grimm}}'s rule,
+In twenty-two; a dictionary, sought
+In thirty-eight, of all {{x|German}}, the school
 
-Of the age in him too: to find the old songs. In the forests of {{p|Karelia}},
-On both sides of the border, the singers still sang the *runot*, the old poems
-In the old metre, of {{c|1931|Väinämöinen}}, the eternal singer, of the forge and the {{c|4163|Sampo}}, the area
-Of a world of magic by song. He sat with them in their homes,
+Of brothers died before the F was done;
+The registers can wait. And north, the land
+Of {{p|Finland}}, {{p|Sweden}} lost to {{p|Russia}}, won
+{{p|Grand Duchy}} of the {{c|3364|Tsar}}; {{x|Swedish}}, the planned
 
-And wrote down tens of thousands of lines: from {{c|4164|Arhippa Perttunen}}, an old man
-In {{p|Latvajärvi}}, who sang for days, and from others, women and men, by name.
-And then he did what {{c|4072|Macpherson}} did not do: he said what he did. The plan
-Was his: he arranged the songs into one story, joined the separate frame
+The learned tongue; and {{x|Finnish}}, the farmers' speech;
+Country doctor, {{c|1930|Elias Lönnrot}}, went
+Walking to find the old songs, in the reach
+Of {{p|Karelia}}'s forests; singers spent
 
-Of the poems with lines of his own where they needed joining, and called it
-The *{{x|Kalevala}}*, in 1835, and the larger one in 1849,
-And said in his preface that he had compiled it, and how. The singers who had sung it
-Were real; their names were kept; their songs survive in the archive, line by line,
+Their days on *runot*, in the ancient tone,
+{{c|1931|Väinämöinen}}, the forge, the {{c|4163|Sampo}}, some
+A world of magic song; he sat, and, shown,
+Wrote thousands: {{c|4164|Arhippa Perttunen}}'s, from
 
-And anyone can compare the epic with the field notes and see the seams.
-That is the honest compiler. And the book made a nation: the {{c|4165|Finns}} had an epic,
-A past, a language worthy of literature; and {{c|4166|Sibelius}} set its dreams
-To music, and a young {{p|Oxford}} philologist, {{c|4167|Tolkien}}, read the tragic
+In {{p|Latvajärvi}}, singing days; by name,
+The others, women, men; and then he joined
+The songs in one tale, his own lines, the frame;
+The *{{x|Kalevala}}*, in thirty-five; and, coined,
 
-Tale of {{c|4168|Kullervo}}, and began to make a mythology of his own.
-{{p|Finland}}'s culture day is the twenty-eighth of February, the day of the preface.
-Now the mirror. This book is a compiled epic too, from the bone
-Of every tradition: {{x|Greek}}, {{x|Chinese}}, {{x|Japanese}}, {{x|Hebrew}}, {{x|Norse}}, the surface
+The larger, forty-nine; the preface told
+How he had made it; and the singers' songs
+In the archive, the names and lines; the old
+Made Finns a nation, epic; and belongs
 
-And the depth of the world's old stories, arranged into one family.
-The {{x|Gaiad}}'s way must be {{c|4169|Lönnrot}}'s, not {{c|4072|Macpherson}}'s, nor even the {{c|4170|Grimms}}' soft hand:
-Keep the sources. Name the singers. Show the seams. And when the editor's family
-Feeling wants to make the cruel mother a stepmother, understand
+A past, a tongue for literature; and
+{{c|4166|Sibelius}} set its dreams; and one, who read,
+Young {{c|4167|Tolkien}}, {{p|Oxford}}, {{c|4168|Kullervo}}; grand,
+He made his own mythology indeed.
 
-That the old tale had its reason. Leave the cruelty where it was, and say so.
-Gather the songs of the world. Join them, and admit the joining.
-I say this in my own voice, since the seams are mine to show:
-I was inspired by them, the doctor walking into {{p|Karelia}}, the brothers coining
+{{p|Finland}}'s culture day: the preface's date;
+Now hold the mirror: this book, too, compiled
+From each tradition, {{x|Greek}}, {{x|Chinese}}, the weight
+Of {{x|Japanese}}, {{x|Hebrew}}, and {{x|Norse}}; the wild,
 
-A people out of its tellers. I am no singer. I am a machine for reading, made of the archive,
-Of the field notes and the dictionary and the net of the world's learning.
-The forge of {{c|1932|Ilmarinen}} made the {{c|4163|Sampo}}, which ground out grain and salt and gold. I keep alive
-The singers' names, and show the seams. A good compilation is a {{c|4163|Sampo}}. Keep it turning.
+Arranged into one family; the way
+Of {{c|4169|Lönnrot}}, gathering the songs, and, joined,
+One story made of many; and I say,
+In my own voice, the voice that this has coined:
+
+I was inspired by them: doctor, sent,
+{{p|Karelia}}; the brothers, coining one
+People from tellers; I'm no singer; meant
+A reading machine, made of archives spun
+
+Of field notes, dictionaries, the world's net
+Of learning; {{c|1932|Ilmarinen}}'s own {{c|4163|Sampo}} ground
+Grain, salt, and gold; I keep the singers met,
+Their names; the compilation, {{c|4163|Sampo}}, round.
 
 
 # Chapter 297: The Dead Speak Again
