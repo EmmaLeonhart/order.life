@@ -1125,45 +1125,45 @@ Restorer, failed, heroic, to the grave.
 
 # Chapter 211: The Black Death
 
-The plague emerged from the Mongol steppes
-where Yersinia pestis had been endemic
-in marmot populations for millennia.
-The Mongol military network was a vector systemic.
+The plague came from the Mongol steppes, where long
+Yersinia pestis, in marmots' blood,
+For thousands of years; and the Mongols' throng
+Of armies carried it, as on a flood.
 
-In 1346, the Mongol Golden Horde was
-besieging the Genoese trading colony
-at {{p|Kaffa}} on the {{p|Crimea}}. Plague broke out
-among the besiegers. They catapulted bodies as ammunition-y.
+Thirteen-forty-six, the Golden Horde lay
+Around {{p|Kaffa}}, which was the Genoese' port,
+In the {{p|Crimea}}; plague broke out; and they
+Hurled corpses over walls into the fort;
 
-The Genoese fled by ship to {{p|Messina}} in {{p|Sicily}}
-in 1347. They carried the plague with them.
-From there, it spread across the {{p|Mediterranean}},
-then up through {{p|Europe}}, relentless, like the phlegm.
+The Genoese then fled by their ships, and came
+{{p|Messina}}, {{p|Sicily}}, forty-seven,
+They bore the plague with them; it spread, aflame,
+{{p|Mediterranean}}, under heaven,
 
-{{p|Marseille}} fell. {{p|Avignon}}, where the papacy
-then resided, was struck — Pope Clement VI
-survived by sitting between two roaring fires
-on his doctor's advice, and the plague did miss.
+Then north through {{p|Europe}}; {{p|Marseille}} fell; and where
+The popes at {{p|Avignon}} sat, it came too;
+Pope Clement VI lived, by the doctor's care,
+Between two roaring fires; and it passed through.
 
-{{p|Paris}}, {{p|London}}, the {{x|Hansa}} cities, {{p|Norway}},
-{{p|Iceland}} — the plague reached every corner of {{p|Europe}}.
-Perhaps a third of the population died
-in the decade 1347-1351, a holocaust whose scope
+{{p|Paris}}, {{p|London}}, the {{x|Hansa}}, {{p|Norway}}, and
+{{p|Iceland}}: it reached the corners of the west;
+A third of all the people of the land
+Died in four years, by fifty-one; the rest
 
-we can barely comprehend. Cities lost half their people.
-Villages were abandoned. Fields went untilled.
-The clergy and the nobility were not spared —
-they died at the same rates, their status killed.
+Saw cities lose half of their own, and fields
+Untilled, villages abandoned; none
+Were spared: the priest, the lord, behind their shields,
+Died at the rate of all, and all as one.
 
-The symptoms were horrifying: buboes the size
-of apples in the armpits and groin, black spots
-on the skin from hemorrhage, vomiting of blood,
-death within days. The disease spotted all allots.
+The buboes, size of apples, in the groin
+And armpits; black spots on the skin, of blood
+Beneath; and vomit; and in days, to join
+The dead. Some towns shut gates against the flood
 
-Cities quarantined themselves with varying success.
-Giovanni Boccaccio set his Decameron
-among Florentines fleeing the plague to a country villa,
-telling stories while the city died on.
+With varying success; and then would write
+Giovanni Boccaccio the tale:
+The Decameron: Florentines in flight
+To villas, telling stories through death's gale.
 
 Flagellants marched through {{p|Europe}}, whipped and bled
 for sins they thought had brought the plague on all;
@@ -1175,45 +1175,30 @@ accused of poisoning the wells. The chair
 of Pope Clement VI held them kin, and spurned
 the charge: they died of plague too. Mobs didn't care.
 
-The religious explanation ("divine punishment for sin")
-competed with the miasma theory ("bad air")
-and various theological and astrological attempts
-to explain the unexplainable plague's lair.
+Some said it was God's punishment for sin;
+Some, bad air, the miasma; some, the stars;
+And none could say what let the death come in,
+Or hold it back with prayers or locks or bars.
 
-The Islamic world was struck equally hard.
-{{p|Cairo}} lost 200,000. Ibn Khaldun wrote that
-"civilization had decreased" from the plague's destruction.
-The Mamluk Sultanate never fully recovered after that.
+{{x|Islam}} was struck as hard: in {{p|Cairo}} died
+Two hundred thousand; Ibn Khaldun said
+That civilization shrank; and the pride
+Of the Mamluks' realm never rose, but bled.
 
-{{p|China}} was probably struck even earlier.
-The Yuan Dynasty's decline accelerated
-as plague, famine, and flooding of the {{p|Yellow River}}
-all compounded. The Mongol regime's pretend-ated.
+And {{p|China}}, struck first; the Yuan's decline
+Grew faster: plague and famine, and the flood
+Of the great {{p|Yellow River}}, all combine
+To end the Mongols' rule, and shed their blood.
 
-The long-term consequences were enormous.
-Labor became scarce. Wages rose.
-The feudal system came under pressure.
-Serfs could demand better terms from their lords' toes.
+And after: labor scarce, the wages rose;
+The feudal order strained; the serfs could press
+Their lords for better terms; and, as it goes,
+The {{x|Church}}, which could not stop it, mattered less.
 
-The authority of the {{x|Church}} was undermined
-by its inability to prevent or explain the disaster.
-This contributed, a century later, to receptivity
-to the Protestant Reformation's pastor.
-
-The scarcity of scribes encouraged the eventual
-development of printing — labor-saving technology.
-The scarcity of labor in general encouraged
-technological innovation and demographic methodology.
-
-{{p|Europe}} emerged from the plague changed permanently.
-The medieval certainties were shaken.
-The {{x|Renaissance}} was partly enabled by
-what the plague had shaken up, forsaken.
-
-The plague would return periodically until
-the late seventeenth century — the {{x|Great Plague}}
-of {{p|London}} in 1665 was one of the last major outbreaks.
-But the 1348 pandemic remained the archetype, the vague.
+So {{p|Europe}} came out changed; the old and sure
+Was shaken; and the plague came back again,
+But never like the first, the type, the pure
+Shape of the plague, in forty-eight, for men.
 
 
 # Chapter 212: The Ming Rises
