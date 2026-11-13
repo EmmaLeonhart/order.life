@@ -1,19 +1,19 @@
 # Chapter 42: The Rise of Vertebrates
 
-The {{c|954|Ordovician}} age, they say, began
-In great extinction; {{c|956|Sages}} hold debate,
+The {{c|954|Ordovician}} age at last began
+In great extinction; and the {{c|956|Sages}} know,
 As if it were the work of some dark plan,
-On what had caused so terrible a fate.
+What caused so terrible a fate, and woe.
 
-Were these great ghosts real, with a power none
-In earnest could withstand? Or were they old,
-Beyond belief, a tale that had begun
-As myths that passed along as they were told?
+The ghosts were real, and with a power none
+In earnest could withstand; and they were old,
+Beyond belief; and so it had begun,
+The age of ghosts, the age of death foretold.
 
-The {{c|956|Sages}} even now cannot agree,
+The {{c|956|Sages}} see it, and they all agree,
 Within the mists of time, where, as they wind,
-On what it is they claim that they can see,
-And threads of truth and myth are intertwined.
+On what it is they know that they can see:
+The threads of truth and myth are intertwined.
 
 But when at last the mists had cleared away,
 The world was greater still than any will
@@ -112,7 +112,7 @@ A daughter all her own, beneath the sun,
 
 Of {{c|372|Florida}}, who came in days of old,
 Of {{c|90839|Rhodes}}, the ancient; and they made to be
-The coralline {{c|889|Algae}}, as it is told,
+The coralline {{c|889|Algae}}, which came to hold,
 The plaster, like a galaxy at sea.
 
 Upon the great {{c|598|Corals}} it lay; and all
