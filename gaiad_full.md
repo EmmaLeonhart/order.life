@@ -35974,186 +35974,110 @@ The sea, to the first {{c|3404|American}}, young.
 
 # Chapter 226: Division of Tongues
 
-The fluted point was beautiful—and lethal.
+The fluted point was lovely, and could kill:
+Shaped like a willow leaf, a channel run
+Up either face, the {{c|3406|Clovis}} spear's own skill,
+Chipped stone thinned near to light, as by the sun,
 
-Shaped like a willow leaf with a channel
-Running up each face, the prenatal
-Perfection of the {{c|3406|Clovis}} spear—the panel
+And almost surgical; the knapper's eye
+Turned at the camp, by night, the patient art,
+Percussion: strike, examine, strike, and try,
+Until the biface took its final part:
 
-Of chipped stone thinned to a translucence
-That bordered on the surgical:
-The flint-knapper's hands in the fluorescence
-Of the campfire, turning the liturgical
+The bane of mammoth, mastodon, the vast
+Ground sloth, the horse, the camel, all things great
+That walked the {{x|Pleistocene}}, until the last.
+Thirteen millennia before our date,
 
-And patient art of percussion—
-Strike, examine, strike again—
-Until the biface reached the concussion
-Of its final form: the bane
+The {{c|3406|Clovis}} people turned, and moved inland
+Into the land, and through the ice-free way
+'Twixt {{p|Laurentide}} and {{p|Cordilleran}}'s hand
+Of ice, a tundra road, a grassland's sway,
 
-Of the mammoth, the mastodon, the giant
-Ground sloth, the horse, the camel—
-Everything that was defiant
-And enormous on the enamel
+Through {{p|Alberta}}, {{p|Montana}} now; and brought
+The point: the {{c|3406|Clovis}} point, named for the place,
+{{p|Clovis, New Mexico}}, where first they sought
+And found it; and it spread, at such a pace,
 
-Of the {{p|Americas}}' {{x|Pleistocene}} stage.
+Across both continents in centuries,
+{{p|Patagonia}}, {{p|Nova Scotia}}'s coast,
+The fluted shape, the signature of these
+Who learned the megafaunal hunt the most:
 
-Thirteen thousand years before our era,
-The {{c|3406|Clovis}} people turned the page
-On the first migration's coastal chimera
+The bond between the hand and mammoth's fall.
+They hunted in coordinated bands:
+The drive, the surround, the communal call
+Of killing: and a dozen working hands
 
-And moved inland—into the continent's
-Interior, where the ice-free corridor
-Had opened between the great impediments
-Of the {{p|Laurentide}} and {{p|Cordilleran}} floor
+Drove the herd toward the arroyo's edge,
+The cliff, the bog, where the great mammoth's weight
+Became its doom; mired in the marshy sedge,
+It stood; the hunters closed, and, sure and straight,
 
-Of glacial ice—a narrow highway
-Of exposed tundra and new grassland
-Threading south through what is now the byway
-Of {{p|Alberta}} and {{p|Montana}}'s strand.
+Their atlatl darts went into blood and flank,
+The shoulder, belly of the beast; and none
+Had learned to fear the human feast, the rank
+Of hunters; and the whole land shook, undone.
 
-And they brought the point.
+Their kind had fifty million years evolved
+Without a human hunter; and they knew
+No fear of the two-legged; nothing solved
+Their trust, unlinked and fatal, was their due:
 
-                              The {{c|3406|Clovis}} point—
-Named for {{p|Clovis, New Mexico}}, where the first
-Examples surfaced—was the anoint-
-Ment of a technology so versed
+The mammoth, mastodon, the short-faced bear,
+The {{c|3407|Smilodon}}, ground sloth elephant-tall,
+Defenseless, giant; thirty-five, from there,
+Kinds vanished in two thousand years, and all.
 
-In killing power that it spread
-Across both continents in centuries:
-From {{p|Nova Scotia}} to the watershed
-Of {{p|Patagonia}}, the inventories
+The warming played its part, the grass that shrank,
+The melting ice; but in the mammoth's heart
+The spear-point was the proof, and where it sank
+The hunter asked no leave; the prey, no part.
 
-Of every excavation find the same
-Distinctive fluted shape—the signature
-Of a people who had learned the game
-Of the megafaunal hunt, the ligature
+The {{c|3406|Clovis}} hunters spread, as water fills
+Down the great {{p|Mississippi}}, branch by branch,
+Across the {{p|Great Plains}}, through the forest hills,
+The {{p|Eastern Seaboard}}'s woods, an avalanche
 
-Between the human hand and the mammoth's fall.
+Of camps on terraces; and kill-sites laid
+On grasslands; mammoth-bone in charcoal found
+{{p|Alaska}} to {{p|Tierra del Fuego}}; made
+A thousand years filled both; the speed, profound.
 
-They hunted in coordinated bands—
-The drive, the surround, the protocol
-Of the communal kill: a dozen hands
+A world had waited ages for this one,
+A hunter skilled, adaptable, and new;
+And the debt was paid in extinction, done.
+But from the killing came the living, too:
 
-Working together to stampede the herd
-Toward the arroyo's edge, the cliff,
-The boggy ground where the mammoth's absurd
-And towering bulk became the stiff
+The bands spread into niche on niche; the lands,
+Diverse, demanded tools and ways anew
+For desert, forest, and the complex strands
+Of coast; from one, a thousand peoples grew;
 
-And fatal disadvantage—mired
-In the marsh, the great beast stood
-While the hunters closed and fired
-Their atlatl-launched darts into the blood
+And from one point, a thousand point-styles came:
+{{c|3408|Folsom}} and {{c|3409|Dalton}}, {{c|3410|Plano}}, {{c|1196|Eden}}, each
+Tuned to its hunt: the bison, {{c|1196|Eden}}'s aim
+With long and narrow blade; and {{c|3408|Folsom}}'s reach,
 
-And muscle of the shoulder, the flank,
-The vulnerable belly of the beast
-That had never learned to fear the rank
-And coordinated human feast.
+Delicate channel, for the smaller game;
+The local hearth replaced the common one
+Of the first wandering; and, not the same,
+Each turned within: its valley, river, sun,
 
-And the {{p|Americas}} shuddered.
+Its prey. Honor the {{c|3406|Clovis}} point, the first
+To span {{p|America}} from coast to coast,
+The lovely tool of stone, in which were versed
+The hands that opened up a world, a host;
 
-                                 The megafauna
-Had evolved for fifty million years
-Without a human predator—the fauna
-Of the {{p|New World}} knew no fears
+And honor too the mammoth's bone, the tusk
+Of mastodon in sand, the ground sloth's claw
+In the cave; the magnificent, in dusk
+Vanished; the enormous dead, by that law,
 
-Of the upright ape, had no instinct
-To flee the two-legged shadow on the plain—
-And this naivety, this unlinked
-And fatal trust, was the bane
-
-Of the mammoth, the mastodon, the giant
-Short-faced bear, the {{c|3407|Smilodon}} cat,
-The ground sloth tall as an elephant—defiant
-In size, defenseless where they sat
-
-Against the coordinated and the clever.
-
-Thirty-five genera of megafauna
-Vanished from the {{p|Americas}} forever
-In the space of two millennia—the sauna
-
-Of the warming climate played its part,
-The shrinking grasslands, the melting ice—
-But the spear-point in the mammoth's heart
-Was the clinching evidence, the price
-
-Of the predator who asked no permission
-And the prey who had no answer.
-
-The {{c|3406|Clovis}} hunters spread with the precision
-Of water filling every branch and cancer
-
-Of a river system: down the {{p|Mississippi}},
-Across the {{p|Great Plains}}, through the forests
-Of the {{p|Eastern Seaboard}}, the gypsy
-And relentless expansion—the choruses
-
-Of new camps lit on every river-terrace,
-New kill-sites on every grassland,
-The mammoth-bone charcoal on the surface
-Of every excavated band-
-
-Camp from {{p|Alaska}} to {{p|Tierra del Fuego}}.
-
-In a thousand years they filled two continents.
-
-The speed was staggering—the ego
-Of the human expansion, the dense
-
-And rapid peopling of a world
-That had waited a hundred million years
-For a predator this skilled, this unfurled
-And adaptable—and the arrears
-
-Were paid in extinction.
-
-                          But from the killing
-Came the living: the hunters settled,
-The nomadic bands began the filling
-Of every ecological niche, the nettled
-
-And diverse environments
-Of two continents demanded
-New tools, new strategies, new instruments
-For the desert and the forest and the banded
-
-And complex coast—and from one people
-Came a thousand peoples, and from one point
-Came a thousand point-styles, and the steeple
-Of the {{c|3406|Clovis}} technology's anoint-
-
-Ment gave way to {{c|3408|Folsom}} and to {{c|3409|Dalton}},
-To {{c|3410|Plano}} and to {{c|1196|Eden}},
-Each one tuned to its local exaltation
-Of the hunt: the bison of the {{c|1196|Eden}}
-
-Point's long and narrow blade, the {{c|3408|Folsom}}'s
-Delicate channel for the smaller game—
-Diversification, the customs
-Of adaptation, and the flame
-
-Of the local hearth replacing
-The universal campfire of the first
-Migration—the human race was facing
-Inward now, each group immersed
-
-In its own valley, its own river, its own prey.
-
-Honor the {{c|3406|Clovis}} point—the first
-Technology to span the American day
-From coast to coast, the versed
-
-And beautiful instrument of stone
-That opened a hemisphere to the human hand—
-And honor too the mammoth's bone,
-The mastodon's tusk in the sand,
-
-The ground sloth's claw in the cave—
-The magnificent and the vanished,
-The enormous dead who gave
-Their continent, astonished,
-
-To the small and clever and the new.
+Gave up their continent, astonished, to
+The small, the clever, and the new; and so
+From one tongue many tongues; the many grew,
+Divided, as the people learned to go.
 
 
 # Chapter 227: Division of Tongues
