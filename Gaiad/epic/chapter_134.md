@@ -35,7 +35,7 @@ Not deepest, nor the first of all to split,
 {{c|1887|Haplogroup C}}, and what it came to be,
 Nor widest in the modern spread and fit,
 
-Perhaps the strangest, puzzling us the most;
+It is the strangest, puzzling us the most;
 Among the haplogroups, the largest gap,
 In its geography, of all the host,
 In our migration story, is its map.
@@ -116,41 +116,11 @@ In {{p|Mongol}} cavalry, would raise the spears
 Above high steppe. Two places, in one class,
 
 Two trajectories, wholly set apart:
-The oldest living culture; and the clans
+The oldest living culture; and the plan
 Of land-empire builders, great in heart.
-One mark that spans the two. What hands, what plans,
+One house that spans the two, as one house can.
 
-Or mechanism lies behind this one
-Non-divergence? And why has {{c|1849|C}} not split,
-As all the others did, and been undone
-In regional clades, as we would name it,
-
-And treat as separate cascades? We are told,
-{{c|1889|C1}} and {{c|1890|C2}}, and more have been named,
-That {{c|1849|C}} has its own sub-clades, and they're old,
-And so {{p|Australia}}'s {{c|1849|C}} is largely framed
-
-As {{c|1889|C1}}, the steppe's as {{c|1890|C2}}; and reads
-Of data split them so; but where it falls,
-The gavel of the naming, as it needs,
-They are still {{c|1849|C}}, and bear one name that calls;
-
-They are not split in two; nor can we see
-By sub-clade names the answer, nor dissolve
-The puzzle of how close these two may be.
-The knowns and unknowns which these names involve
-
-Make something strange: one name, though it appears
-As divergent as any pair, and wide;
-The {{x|Gaiad}} does not solve it through the years,
-The mystery of {{c|1849|C}}, and lets it bide:
-
-No catastrophe, as in {{c|1850|D}}; no stay
-Of refuge to preserve it; only these,
-That {{c|1849|C}}'s own story differs, and its way:
-We do not know; and knowledge finds no keys.
-
-We know this much: two peoples bear the same
+Two peoples, one house, bear the very same
 Mark in their {{p|Y}}: the first, the oldest folk,
 Though fifty thousand years between them came,
 {{c|1891|Aborigines}}, whose lore never broke
@@ -273,22 +243,17 @@ Unsplit, and two whole legacies set free
 In silence, bound together through the frame
 And body, each to each, along their lines,
 Without a word for what they share, or name.
-The haplogroup to speciate now declines;
+The house of {{c|1849|C}}, one house in two designs;
 
-It keeps one set of lines where culture made
-Divergence whole; and keeps its unity,
-And plays the mother's role, and is not swayed,
-To two; and if the two had met, they'd be
+One house, which on the steppe and in the sand
+Has kept its name, its father, and its sign;
+And if they met, in one or other land,
+They would be strangers, though of the one line;
 
-Strangers, unknowing; in the ink alone
-Of chromosomes they bear the kinship's clue,
-Which, hidden, lies unread, and is unknown
-To all their tongues and myths, which stay dumb, too.
-
-{{c|1849|C}} is the unsplit haplogroup, the long
-And patient one, to which, for one broad road
-Kept, though the distance called for two, a wrong
-Apology from evolution's owed.
+And still they are one house, the house of {{c|1849|C}},
+Whose sons ride on the grass, and sing the ground;
+The steppe, the desert, and what is to be,
+One father's house, in which the two are found.
 
 It is just what it is, and so it stays;
 {{p|Australian}} and the {{p|Mongol}} share one sound,
