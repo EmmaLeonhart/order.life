@@ -1203,85 +1203,70 @@ Shape of the plague, in forty-eight, for men.
 
 # Chapter 212: The Ming Rises
 
-In {{p|China}}, the Yuan Dynasty was collapsing.
-Plague, flooding of the {{p|Yellow River}}, famine,
-factional disputes among the Mongol princes,
-and hyperinflation from paper money, a mane.
+In {{p|China}} the Yuan fell to decay:
+The plague, the {{p|Yellow River}}'s flood, the dearth,
+The Mongol princes' quarrels, and the pay
+In paper money printed past its worth;
 
-The Red Turban Rebellion erupted in 1351,
-a millenarian Buddhist movement expecting
-the coming of Maitreya, the future Buddha,
-and the overthrow of the foreign Mongol detecting.
+Red Turbans, thirteen-fifty-one, arose,
+Awaiting the Buddha, Maitreya's reign,
+To end the foreign Mongols; and of those,
+Zhu Yuanzhang, a peasant, orphaned, plain
 
-Zhu Yuanzhang, born a peasant, orphaned by plague,
-who had briefly been a Buddhist monk, then a beggar,
-joined the Red Turbans and rose through their ranks
-to become a regional warlord with an eager leg-ger.
+By plague; a monk, a beggar; and he rose
+And up through the Red Turbans, to command;
+Took {{p|Nanjing}}, fifty-six, his seat; and those
+Who rivaled him, he ended, hand by hand.
 
-He captured {{p|Nanjing}} in 1356, made it his capital.
-He gradually eliminated rival rebel leaders.
-He defeated the warlord Chen Youliang at the naval
-Battle of Lake Poyang in 1363, fortune seekers.
+The Battle of Lake Poyang, sixty-three,
+Broke Chen Youliang's great fleet; in sixty-eight
+His armies entered {{p|Khanbaliq}}; and he,
+The {{x|Yuan}} emperor, fled north; the state
 
-In 1368, his armies entered {{p|Khanbaliq}} (renamed {{p|Beiping}}).
-The {{x|Yuan}} emperor fled north to {{p|Mongolia}}.
-Zhu Yuanzhang proclaimed himself the Hongwu Emperor,
-founder of the Ming Dynasty, native rule's victoria.
+Was Ming; as Hongwu Emperor he reigned,
+A peasant, as Liu Bang of {{x|Han}} had been
+A thousand years before; and he remained
+Suspicious, as who knows the knife of kin:
 
-He was one of the only Chinese emperors in history
-to rise from genuine peasant origins. (The other
-major one was Liu Bang, {{x|Han}} founder, a thousand years before.)
-He ruled with the suspicion of someone who knew brothers
+Brothers betray, courts plot; and there is not
+One safe; he purged; and thirty thousand died
+In one; and forty thousand more, the lot,
+And then cast the old chancellor aside,
 
-can betray, courts can conspire, and nothing
-is safe forever. He launched massive purges
-of officials he suspected — 30,000 killed in one purge,
-40,000 in another, the court's splurges.
+The post a thousand years had kept; and ruled
+Himself, by letters to each board; and all
+The examinations came back, and schooled
+In {{x|Neo-Confucianism}}, for all;
 
-He abolished the position of chancellor which had
-existed for a thousand years, and ruled personally
-through direct correspondence with departments.
-The emperor now did everything, generally.
+He shut the coasts to foreign trade, and made
+The Da Ming Lü, the code of law; rebuilt
+The {{p|Great Wall}} in the form where it is laid
+Today; gave land to peasants, to the hilt.
 
-He reinstated the civil service examination with
-heavy Confucian emphasis. He promoted {{x|Neo-Confucianism}}
-as state orthodoxy. He sealed {{p|China}} off from foreign
-trade (the {{x|Maritime Prohibition}}), strict autarky-ism.
+Died thirteen-ninety-eight; his grandson came,
+Jianwen; fourteen-two, his uncle rose,
+Zhu Di, the Prince of Yan, in war; and flame
+Took Jianwen in his palace's close;
 
-He established the penal code Da Ming Lü.
-He rebuilt the {{p|Great Wall}} in its current form.
-He redistributed land to peasants who had been
-landless under the {{x|Yuan}}. He was stormy, firm.
+Zhu Di, the Yongle Emperor, was crowned,
+The greatest of the {{x|Ming}}; he moved the throne
+And from {{p|Nanjing}} northward to {{p|Beijing}}'s ground,
+And built the Forbidden City, his own;
 
-He died in 1398. His grandson Jianwen became emperor,
-but was overthrown in 1402 by his uncle
-Zhu Di, the Prince of Yan, in a civil war.
-Jianwen disappeared in the palace fire, the buckle
+Yongle Encyclopedia, the vast,
+Twenty-two thousand volumes and still more,
+The largest of the world for ages past;
+Four hundred live; the rest were lost to war.
 
-of continuity broken. Zhu Di became the Yongle Emperor
-(1402-1424), perhaps the greatest {{x|Ming}} emperor.
-He moved the capital from {{p|Nanjing}} to {{p|Beijing}},
-rebuilt the Forbidden City, the symbolic emperor.
+He sent the treasure voyages, the fleet
+Of Zheng He, built in great shipyards; and bent
+His arms on {{p|Vietnam}}; and then, retreat:
+The fleets were burned, and {{p|China}} inward went.
 
-He commissioned the Yongle Encyclopedia, the
-largest encyclopedia in the world for several centuries,
-22,937 volumes. (Only about 400 survive today —
-most were destroyed in wars or palace fires, mysteries.)
-
-He sent out the great treasure voyages under
-Zheng He — chapter 216's story.
-He built huge fleets and massive shipyards.
-He attempted to conquer {{p|Vietnam}}, in his glory.
-
-After Yongle, the {{x|Ming}} would retreat from maritime
-expansion. The treasure voyages would stop. The fleets
-would be burned. {{p|China}} would turn inward again.
-The {{x|Ming}}'s early vigor would fade with seasonal sheets.
-
-But the {{x|Ming}} would last until 1644, when
-the Manchus would conquer from the north
-and found the Qing Dynasty. That story is later.
-For now, mark: native Chinese rule was called forth.
+So mark it: native rule was called again
+Up from the peasant's hut, the beggar, monk;
+The {{x|Ming}} rose high; and then, as all things wane,
+Its early strength, at sea, drew back and shrunk.
 
 
 # Chapter 213: Timur
