@@ -33937,60 +33937,50 @@ From {{p|Hungary}} to {{p|Cambodia}}'s men.
 
 # Chapter 205: The Mongols in Europe
 
-Batu Khan, grandson of Genghis, led
-the western campaign in the late 1230s.
-The Kipchak steppe was conquered first,
-then the Russian principalities in frost-bound recedes.
+And Batu Khan, grandson of Genghis, led
+The western war, the late twelve-thirties; fell
+The Kipchak steppe; and then, in frost, he sped
+Against the {{p|Rus}}: {{p|Ryazan}} burned as well,
 
-{{p|Ryazan}} fell in 1237, burned.
-{{p|Vladimir}} in 1238, sacked.
-{{p|Kiev}} in 1240, reduced to rubble
-with only two hundred houses un-cracked.
+In twelve-thirty-seven; {{p|Vladimir}}, sacked,
+Twelve-thirty-eight; {{p|Kiev}}, twelve-forty, lay
+Rubble; two hundred houses stood intact;
+And so the {{x|Tatar Yoke}} began that day:
 
-The "{{x|Tatar Yoke}}" began. For two centuries
-the Russian princes would pay tribute,
-travel to the Golden Horde's capital
-at {{p|Sarai}} on the {{p|Volga}}, submit their contribute.
+Two centuries the princes paid, and went
+To {{p|Sarai}} on the {{p|Volga}}, the Horde,
+To bow; and {{p|Moscow}}, a small town, was sent
+To gather tax, and rose to be the lord.
 
-{{p|Moscow}}, a minor town among many,
-proved useful as tax-collector for the Horde.
-Its princes accumulated wealth and favor,
-and would eventually rise to become lord.
+Batu, twelve-forty-one, his army drawn
+To {{p|Poland}} and to {{p|Hungary}}; and there,
+At Legnica, the German knights were gone,
+Lured by a feigned retreat; at Mohi, where
 
-After {{p|Russia}}, Batu pushed into {{p|Poland}} and {{p|Hungary}}
-in 1241. At Legnica, a Polish-German
-army was destroyed by Mongol feigned retreat.
-At Mohi, the Hungarian army was stern
+The {{x|Hungarian}} host was broken through,
+King Béla, fleeing for his life; and they
+Rode to the {{p|Adriatic}}; and in view,
+{{p|Vienna}}, next; and {{p|Europe}} feared that day.
 
-defeated, King Béla IV fleeing for his life.
-The Mongols reached the {{p|Adriatic Sea}}.
-{{p|Vienna}} was in the plans. {{p|Europe}} expected
-annihilation — but then reprieve came free.
+But then the Great Khan, Ögedei, had died
+At {{p|Karakorum}}, in that December; so
+Batu went east, to where the throne was tried
+Among the heirs; and west he did not go.
 
-Great Khan Ögedei died in {{p|Karakorum}} that December.
-Batu had to return east for the succession quarrel.
-He never came back west. {{p|Europe}} was saved
-by a drunkard's death in a distant Mongol barrel.
+So {{p|Europe}} was saved by a drunkard's end,
+Far off; the Mongols had shown that its knights
+Could not stand to the steppe: the bows that bend,
+The feigned retreat, the horse, the ordered fights.
 
-The Mongols had demonstrated that European
-knightly armies were not equipped to face
-steppe-warfare tactics. Composite bows, feigned retreat,
-mobile light cavalry, coordinated attack pace.
+The Golden Horde then settled on the low
+{{p|Volga}}, and ruled the western steppe, the land
+From the {{p|Black Sea}} up to the {{p|Urals}}; so
+Two and a half centuries, the Horde's hand.
 
-{{p|Europe}} would learn these lessons slowly.
-Later, in the {{x|Hundred Years' War}}, the English
-longbow would answer in similar logic.
-Warfare was about to change its language.
-
-The Golden Horde established itself on the
-lower {{p|Volga}} and ruled the western steppes.
-For two and a half centuries, from the {{p|Black Sea}}
-to the {{p|Urals}}, the Horde kept rule of its steps.
-
-The Russian princes would eventually unite
-under {{p|Moscow}} to throw off this yoke.
-That story is chapter 223. For now, mark
-how the eastern horsemen made {{p|Europe}} choke.
+And then the princes, under {{p|Moscow}}, broke
+The yoke; but that comes later. Mark it now:
+The horsemen of the east, as at one stroke,
+Made {{p|Europe}} choke, and taught its knights to bow.
 
 
 # Chapter 206: The Mongols in the Middle East
