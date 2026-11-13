@@ -35,8 +35,8 @@ From threads that snapped, a cosmic scene we view.
 
 And so, each day, we gaze at skies above,
 At Sagittarius and Princess high;
-We hope their union once again draws nigh,
-When Milkdromeda forms from endless love.
+And hope that, forming out of endless love,
+Milkdromeda will bring their union nigh.
 
 The Omega point, all will unify,
 As Aster and Andromeda break free
@@ -46,8 +46,8 @@ A final act, a cosmic jubilee.
 
 # Chapter 2: Aster's First Call
 
-This tale you hear is not just woven lore,
-But truths divine, a map for every soul.
+This tale you hear is truth from long before,
+The word divine, a map for every soul.
 In Aster's yarn and Andromeda's core,
 We find the threads that make the cosmos whole.
 
@@ -73,8 +73,8 @@ Uniting red and blue, a bond to weave.
 
 And so, each day, we gaze at skies above,
 At Sagittarius and Princess high;
-We hope their union once again draws nigh,
-When Milkdromeda forms from endless love.
+And hope that, forming out of endless love,
+Milkdromeda will bring their union nigh.
 
 The threads we see above, they are our own,
 Our destinies in red, in green, in blue,
