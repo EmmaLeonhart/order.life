@@ -106,7 +106,7 @@ Through all our daily mouth-rite: he alone
 Gives healthy teeth, and gives us healthy gums.
 
 This rite involves a practice that we do,
-And though it seems so strange to some of us,
+A holy rite, and handed down to us,
 It keeps our teeth attractive, bright, and new;
 We do it to the end, and without fuss.
 
@@ -345,7 +345,7 @@ From out of ancient dental, careful art,
 The way in which our great traditions grow,
 To come and play at last the healing part.
 
-And though it may seem strange to outside eyes,
+And through the ages, under all the skies,
 The dental rites are ones that we will keep,
 A sacred bond, which all of them comprise,
 With all our ancestors, so far, so deep.
