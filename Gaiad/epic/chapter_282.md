@@ -1,76 +1,81 @@
 # Chapter 282: The Names of Everything
 
-In {{p|Småland}}, in {{p|Sweden}}, a country pastor's son was born in 1707,
-At {{p|Råshult}}, in the parsonage among the birches.
-His father, {{c|4009|Nils}}, the son of a farmer named {{c|4010|Ingemar}}, had been given, as was common,
-No surname: *{{c|4011|Nils Ingemarsson}}*. When he went to university, the churches
+A pastor's son, at {{p|Råshult}}, {{p|Småland}}, born
+Seventeen-seven; birches round the manse;
+His father, {{c|4009|Nils}}, a farmer's son, had worn
+No surname: {{c|4011|Nils Ingemarsson}}; the chance
 
-And the learned wanted a {{x|Latin}} name. So he made one up,
-From a great linden tree, a *lind*, that grew on the family's farm:
-*{{c|4012|Linnaeus}}*. Hold that, in a book of genealogy: the cup
-Of a name was filled by a tree. The family line, the charm
+At university, a {{x|Latin}} name;
+He made one from a linden on the farm,
+A *lind*: {{c|4012|Linnaeus}}. Hold, then, in this book's frame,
+A tree filled a name; the patronym's charm,
 
-Of the patronymic, {{c|4010|Ingemar}}'s son, {{c|4009|Nils}}'s son, gave way
-To a name you choose. And the son, {{c|4013|Carl}}, would spend his life
-Giving names to every living thing. His father had a garden; the way
-The boy learned the flowers was by asking, and the strife
+{{c|4010|Ingemar}}'s son, {{c|4009|Nils}}'s son, then gave way
+To chosen names; and the son, {{c|4013|Carl}}, would spend
+Names to all living things; in garden-play
+He asked their names; forgot; and, in the end,
 
-Of forgetting them made his father say: I will not tell you again.
-He did not forget again. He went to {{p|Uppsala}}, poor,
-With shoes he mended with birch bark, and walked, in 1732, the plain
-Of {{p|Lapland}}, two thousand kilometres, and wore
+His father: "I will not tell you again."
+He did not forget again; poor, he went
+To {{p|Uppsala}}, birch-bark shoes; and the plain
+Of {{p|Lapland}}, thirty-two, he walked; and spent
 
-The costume of the {{c|4014|Sámi}} afterward for his portrait, the drum
-And the reindeer boots, and learned from them, and wrote it down.
-In 1735, in {{p|Leiden}}, in the {{p|Netherlands}}, the sum
-Of his system came out: *{{x|Systema Naturae}}*, a crown
+Two thousand kilometres; then he wore
+The {{c|4014|Sámi}} costume for his portrait, drum
+And reindeer boots; learned from them, wrote their lore;
+In thirty-five, at {{p|Leiden}}, came the sum:
 
-Of eleven large pages: all of nature, the three kingdoms,
-Animal, plant and stone, in classes, orders, genera, kinds.
-And the plants sorted by their sex: the stamens and the pistils, the stem's
-Husbands and wives, how many of each in the flower. The minds
+*{{x|Systema Naturae}}*, a gleaming crown
+Of nature's three kingdoms: beast, plant, and stone,
+In class and order, genus, kind; set down
+The plants by sex: the stamens, pistils, shown
 
-Of the pious were shocked. A professor called it *loathsome harlotry*.
-{{c|4012|Linnaeus}} named an ugly weed after him. And in 1753
-He gave every plant two names, a genus and a species, a clarity
-That made botany possible: *{{x|Bellis perennis}}*, the daisy. The key
+As husbands, wives; the pious, shocked, would cry
+"Loathsome harlotry"; so he named a weed
+After the man. In fifty-three: the high
+Gift of two names, the genus, species' seed:
 
-Of the binomial still opens the whole living world. And in 1758,
-The tenth edition, he did the boldest thing. He put us in.
-*{{x|Homo sapiens}}*: wise man, among the primates, beside the great
-Apes, in the same order as the monkeys. The sin
+*{{x|Bellis perennis}}*, the daisy; the key
+Of the binomial still opens all
+The living world. In fifty-eight, made free,
+He put us in: *{{x|Homo sapiens}}*, tall,
 
-Of it, to the theologians: man among the beasts.
-He wrote to a friend: tell me one difference between man and ape
-That follows the rules of natural history. I know of none. The feasts
-Of human pride had their first plain mirror. And then the shape
+Wise man, among the primates, with great apes;
+The order of the monkeys; and the eyes
+Of theologians, sin; and no escapes:
+"Tell me a difference," he wrote, "the wise
 
-Of the harm. In the same pages he divided *{{x|Homo sapiens}}*
-Into four varieties by continent, *americanus*, *europaeus*, *asiaticus*, *afer*,
-And gave each a temperament, and ranked them, the {{x|European}} in the sense
-Of governed by laws, the {{x|African}} by caprice: the seed of a horror
+Of nature's laws would show: none that I know."
+None. Pride's first plain mirror. And in those same
+Pages he split our kind in four; and so
+*Americanus*, and *europaeus*, came,
 
-That would grow for two hundred years. The register of life
-Had a racist line in it, written by the hand that put us among the apes.
-Hold both. He sent his students out across the world, the strife
-And the joy of it: seventeen apostles, he called them, to the capes
+*Asiaticus*, *afer*; and to each
+A temper, rank: the {{x|European}}, law;
+The {{x|African}}, caprice; so did he teach.
+Hold both: this, and the apes, in nature's law;
 
-And jungles and the ice, to collect, and a third of them died on the road.
-He was ennobled in 1761: *{{c|4015|Carl von Linné}}*.
-He said of himself, *God created, {{c|4012|Linnaeus}} ordered*. The load
-Of the boast was heavy and half true. He died in 1778, the day
+He sent his students out, the seventeen
+Apostles, to the capes and ice and lands
+Of jungle; a third died, the roads between;
+In sixty-one, ennobled by king's hands:
 
-Coming when they laid him in the cathedral of {{p|Uppsala}}.
-This is a book that begins with the birth of the universe and of life,
-And comes down through the fish and the reptiles and the patterns
-Of the mammals to us. It owes him its names. The knife
+As {{c|4015|Carl von Linné}}; "{{c|472|God}} made, and {{c|4012|Linnaeus}} set
+In order," so he said; half true; he died
+Seventy-eight; {{p|Uppsala}}'s church; yet
+This book, from cosmos born, and life, its wide
 
-Of his system cut the living world into a register,
-And the register is a gift: to know the names of the beings we share the earth with
-Is the first respect. A {{x|Lifeist}} calls each one by its name, a barrister
-Of the living, an advocate. Learn the names. The pith
+Descent through fish and reptiles to our race,
+Owes him its names; his system cut the land
+Of the living to a register's place;
+A gift: to know the names, respect firsthand;
 
-Of reverence is attention. And cross out the line he got wrong:
-There are no ranked varieties of us. The register of humankind is one.
-*{{x|Homo sapiens}}*. One species. One family. One song.
-The linden tree in {{p|Småland}} is gone. The name it gave is in the sun.
+Of those we share the earth with; {{x|Lifeist}} calls
+Each one by name, an advocate; the pith
+Of reverence is attention; the walls
+Between us: none; our register, one kith:
+
+*{{x|Homo sapiens}}*: one kin, and one song;
+The linden tree in {{p|Småland}}'s day is done;
+The name it gave is in the sun; and long
+His names are spoken, each, the living, one.
