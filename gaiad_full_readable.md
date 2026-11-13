@@ -15008,7 +15008,7 @@ Both parasites alike upon the sons
 Of Plantus, where they'd strike like burning flames
 And take what served their needs, like thieving ones.
 
-Ascus sired Cup Fungi, whom we've seen,
+Ascus fathered Cup Fungi, whom we've seen,
 And rather than pursue some other way
 He chose to rule where forest floor grows green
 And stay within his realm throughout the day.
@@ -15109,13 +15109,13 @@ In their detailed story through all their days
 They keep their fascinating, detailed tale.
 
 Leotios begat two sons of might:
-Pyrenos true and Lecanius the strong
+Pyrenos and Lecanius the strong
 Who lived his whole life long in the blessed light
 And sang his faithful, everlasting song.
 
-Lecanius became the noble sire
-Of lichens' choir that we see today
-And more who left that partnership's old fire
+Lecanius became the father, one
+Of lichens' choir that we see today,
+And more who left the partnership begun
 To take their own appointed, separate way:
 
 Penicillius, who made the blessed cheese
@@ -15155,8 +15155,8 @@ That makes all life more beautiful, divine.
 
 Botry, the son of great Puccini's line,
 Gave up the many-celled, and was inclined
-Toward a simpler and particular kind
-Of life, to make his way more pure, divine.
+To live a simpler life, in pure design,
+Of one particular and single kind.
 
 He became yeast who'd live alone in peace
 Within his own appointed, sacred zone
@@ -15269,29 +15269,29 @@ Throughout their lives, and who would forever
 Live faithfully through all their earthly days.
 
 Eat mushrooms, but beware and never eat
-The toadstools that will surely your defeat
-With poison that will steal your very life
-And cut through health with their destructive knife.
+The toadstools, with their poison and their knife,
+That would be sure to bring you your defeat,
+And cut through health, and steal your very life.
 
 From Dikar's parasitic, ancient start
-To mushrooms' blessed and healing, sacred art,
 The fungi show the way that life can grow
+To mushrooms' blessed and healing, sacred art,
 Each day beyond what we can ever know
 
 From simple, small beginning in the ground
-To forms that victory and triumph crowned
-In battle for survival through the wise
-Arrival of the truth that never lies.
+To forms made great through battle, and the wise
+Arrival, triumph-and-victory-crowned,
+Of truth itself, the truth that never lies.
 
 From two nuclei strong throughout life's course
-To forms that last through time's eternal force
-In shapes both small and great that time makes whole
+To forms that last, in shapes that time makes whole,
+Both small and great, through time's eternal force,
 With beauty, truth, and holiness of soul,
 
 The fungi teach us all who hear their call
-That partnership and love will conquer all
-When blessed by grace that flows from realms above
-And fills our hearts with everlasting love.
+When blessed by grace that flows from realms above,
+That partnership and love will conquer all,
+And fill our hearts with everlasting love.
 
 From great Melchizedek's own yeast, so blessed
 That makes our daily bread for the feast
@@ -15339,28 +15339,28 @@ In partnerships that last from me to you
 And help us all to flourish and to strive.
 
 But we must all beware the toxic ways
-Of those who spend their dark and bitter days
-Corrupting what is good and pure and right
-Into what steals away our blessed sight
+Of those, Corrupting what is pure and right,
+Who spend their dark and bitter, poisoned days
+On that which steals away our blessed sight
 
 Of truth and beauty, love, and all that's free;
-The poisoners will meet their fate's decree
-When justice comes to make them pay the cost
-For every precious soul that has been lost.
+The poisoners, for every soul now lost,
+Will meet, at justice' coming, fate's decree,
+And there be made at last to pay the cost.
 
 The fungi show us well that those who choose
-To dwell in partnership will never lose
-Their way to brighter, better days ahead
-Where healing is the daily and blessed bread
+To dwell in partnership, where they are led,
+Their way to brighter days will never lose,
+With healing as the daily and blessed bread
 
 And love keeps every heart both warm and true
-In service to the good in me and you
-And every living soul that hears the ring
+And every living soul that hears the ring,
+In service to the good in me and you,
 Of hope's eternal, everlasting King.
 
 From Dikar's ancient line to mushrooms blessed
-That nourish us and heal, the very best
-Remind us we can choose to trust each day
+That nourish us and heal us day by day,
+Remind us we can choose to trust, the best,
 In love's eternal might to show the way
 
 With gifts that help us grow beyond our sight
@@ -15369,18 +15369,18 @@ The whole world then becomes filled with blessed light
 Where all can find their truly perfect fate.
 
 From yeast to mushroom cap, the fungi span
-The gap between the earth and heaven's plan
-With messages of love from realms above
+With messages of love from realms above,
+The gap between the earth and heaven's plan,
 That fill our hearts with everlasting love.
 
 When we but dare to see what we can be:
-Partners in harmony's dance, joined and free
-That conquers death and fear and draws us near
-To feast where love makes everything grow clear.
+Partners in harmony, joined side by side,
+That conquers death and fear, and sets us free,
+To feast where love makes all things glorified.
 
 From simple soil to healing's sacred art,
-The fungi show us each can play their part
-In life's great symphony of what may be,
+The fungi show, in what all life may be,
+That each of us can play our given part,
 Where love will reign through all, forever free.
 
 
