@@ -152,7 +152,7 @@ Where he had settled down and found his space.
 
 {{c|987|Barnacus}} bore a son, and when the day
 Began, he named him {{c|990|Goose}}; and he would be
-Great {{c|990|Goose}}, who built society, they say,
+Great {{c|990|Goose}}, who built society, his way,
 In wondrous and in rich variety;
 
 But all the same, the truth must still be told:
@@ -166,7 +166,7 @@ And claim his lineage, and always will,
 And that his line goes on and does not cease.
 
 And {{c|990|Goose}} still claimed his sons were geese; and so
-He is the guide of geese, they say, the one
+He is the guide of geese, the holy one
 With sacred pride who leads them as they go,
 Who leads them on beneath the rising sun.
 
@@ -242,7 +242,7 @@ Till they would lead the way across the sea.
 
 But patience is the key, and it will hold,
 And the crustaceans waited, and would bide,
-To life's great mystery, as it is told;
+To life's great mystery, both young and old;
 For their appointed fate they would abide.
 
 And from {{c|751|Crustaceus}}, the source and start
@@ -322,7 +322,7 @@ And claim the destined prize before their eyes.
 
 But that is yet to come, and lies ahead,
 When all the current ages will have grown
-Into a sum of lessons, it is said,
+Into a sum of lessons, wisdom-fed,
 In life's eternal kingdom as its own.
 
 For now they wait and grow in every place,
