@@ -34546,90 +34546,70 @@ Its early strength, at sea, drew back and shrunk.
 
 # Chapter 213: Timur
 
-Timur (1336-1405), also called Tamerlane
-("Timur the Lame" for his limp), was born
-near {{p|Samarkand}} in {{p|Transoxiana}} to a minor
-noble of the Barlas Turco-Mongol clan, low-born.
+Timur, or Tamerlane, for he was lame,
+Timur the Lame, born thirteen-thirty-six
+By {{p|Samarkand}}, of Barlas, no great name,
+A lesser noble's son, of Turkic mix;
 
-He claimed descent from Genghis Khan (though the claim
-was weak), married into the Chingisid line,
-and ruled as son-in-law rather than khan.
-He was not a direct descendant of the Mongol line.
+He wed into the line of Genghis Khan,
+And ruled as son-in-law, not as their heir;
+He claimed the blood, but weakly, and went on
+To join the Chagatai lands through his care
 
-He unified the Chagatai Khanate territories in
-{{p|Central Asia}} through the 1370s. Then he launched
-a series of conquests comparable in scale to Genghis Khan's,
-though never quite as geographically ranched.
+In thirteen-seventies; then conquests came,
+As great as Genghis' own, though less in land:
+{{p|Persia}}, the eighties; {{p|Isfahan}}; and the same:
+Seventy thousand heads, by his command,
 
-He invaded {{p|Persia}} in the 1380s, sacking {{p|Isfahan}}
-where 70,000 civilians were beheaded to build
-towers of skulls that he was famous for constructing.
-This was his signature atrocity, filled.
+Built into towers of skulls; he broke then
+Tokhtamysh's Golden Horde, ninety-five;
+Sacked {{p|Sarai}}, the Horde's wealth and its men;
+And so {{p|Muscovy}} grew strong, and would thrive;
 
-He defeated the Golden Horde under Tokhtamysh
-in 1395, sacked {{p|Sarai}} the Golden Horde capital,
-destroyed the economic base of the Horde,
-contributing to its decline and {{p|Muscovy}}'s rise capital.
+And sacked {{p|Delhi}} in thirteen-ninety-eight,
+A hundred thousand slain there in one day;
+He led the elephants home; and the great
+The Delhi Sultanate, crippled, gave way.
 
-He invaded {{p|India}} in 1398, sacked {{p|Delhi}},
-massacred the population (perhaps 100,000 killed
-in one day), carried elephants back to {{p|Samarkand}}.
-The Delhi Sultanate was crippled by his skill.
+In fourteen-hundred, sacked {{p|Damascus}}; there
+Ibn Khaldun met him, wrote down their talk:
+The greatest scholar, conqueror; a rare
+Meeting of mind and sword, the dove and hawk.
 
-He invaded the Mamluk Sultanate in 1400,
-sacked {{p|Damascus}} (where Ibn Khaldun met him
-and left a fascinating account of their conversations —
-the greatest sociologist meeting the greatest conqueror, trim).
+Fourteen-oh-two, the Ottomans he broke
+At Ankara, took Sultan Bayezid I,
+And bore him in a cage; under that yoke
+The sultan in captivity would die.
 
-He invaded the Ottoman Empire in 1402,
-defeated Sultan Bayezid I at the Battle of Ankara,
-captured him, transported him in a cage.
-Bayezid died in captivity, a humiliated sultana.
+And so {{p|Constantinople}} stood, reprieved
+For fifty years; Bayezid would else have won
+The city, but for Timur; and, relieved,
+{{p|Byzantium}} lived on, its days not done.
 
-This Ottoman defeat delayed the fall of {{p|Constantinople}}
-by half a century. If Timur had not intervened,
-Bayezid probably would have taken the city.
-The {{p|Byzantine Empire}} got a fifty-year reprieve.
+Timur set out for {{x|Ming}} {{p|China}}, and died
+At {{p|Otrar}} on the way, fourteen-oh-five;
+Gur-e-Amir, at {{p|Samarkand}}, his pride;
+And his grandson Ulugh Beg would there thrive,
 
-Timur was preparing to invade {{x|Ming}} {{p|China}}
-when he died in 1405 at {{p|Otrar}} on the way.
-He is buried at the Gur-e-Amir in {{p|Samarkand}},
-which inspired the architecture of the {{p|Taj Mahal}} later, lay.
+Astronomer, who built, at {{p|Samarkand}},
+A great observatory; star by star
+He charted, scholar-king; till, by the hand
+Of his own son, he died; and there's the scar.
 
-His grandson Ulugh Beg (1394-1449) was an astronomer
-who built a great observatory at {{p|Samarkand}},
-compiled accurate star catalogs before Tycho Brahe,
-and ruled as a scholar-king — until killed by his son's hand.
+Timurid Renaissance, {{p|Herat}}'s court
+And {{p|Samarkand}}'s: the painters, and the song,
+The domes, the verse of Jami, of each sort
+Of {{x|Persian}} art grew there, and flourished long.
 
-The Timurid Renaissance at {{p|Samarkand}} and {{p|Herat}}
-was one of the great cultural moments of {{p|Central Asia}}.
-Persian miniature painting, poetry, architecture flourished.
-Jami and others wrote great works of {{p|Persia}}.
+And after him his realm broke into parts;
+He killed seventeen million, like his own
+Hero, Genghis; built for the poets' arts;
+And made towers of skulls; and {{x|Islam}}'s own
 
-The {{p|Timurid Empire}} fragmented after Timur's death.
-His descendants would continue as regional rulers,
-one of them, Babur, a great-great-grandson of Timur,
-would found the Mughal Empire in {{p|India}}, deceitfuller.
-
-(Mughal = "Mongol" in Persian. The Mughals claimed
-Timurid descent, and through him, Chingisid descent.
-They were Central Asian Turks ruling {{p|India}} as
-Persianate emperors, a layered cultural ascent.)
-
-Timur killed perhaps seventeen million people in
-his conquests, a death toll rivaling his hero Genghis.
-The Islamic world, which he had conquered as a Muslim,
-suffered terribly at his hands — a paradox immense.
-
-He built beautiful monuments, patronized poets and scholars.
-He massacred entire cities, built skull-pyramids.
-He is remembered in {{p|Central Asia}} as a hero,
-in his victims' lands as the devil, on skids.
-
-The deflationary polytheist sees Timur as
-the last great steppe conqueror, the end of the
-Mongol-era pattern. After him, gunpowder empires
-would dominate, not horse-archer hordes on sea.
+Lands suffered him, a Muslim; and today
+In {{p|Central Asia}} he's a hero; where
+He killed, the devil; and so passed away
+The last great steppe lord; then the guns' long glare.
 
 
 # Chapter 214: Lithuania, the Last Pagans
