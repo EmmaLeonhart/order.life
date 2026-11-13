@@ -33633,140 +33633,110 @@ the quarrel was whose priests would hold the keys,
 whose bells would ring there, and whose call, whose room
 for pilgrims, and whose feasts, and whose decrees.
 
-"Deus vult!" — "God wills it!" — the crowd cried.
-The First Crusade was launched. Urban promised
-remission of sins for those who died on the expedition.
-This was the birth of the plenary indulgence, promised.
+God wills it! cried the crowd; and so began
+The First Crusade; and Urban promised all
+Who died there that their sins were washed; the plan
+Had asked for hired men, when, at the fall
 
-The Byzantines had asked for mercenary help
-after their defeat at {{x|Manzikert}} in 1071 had
-lost much of {{p|Anatolia}} to the Seljuk Turks.
-They did not expect an army of European unbad
+{{x|Manzikert}}, seventy-one, the hand
+Of Seljuks took {{p|Anatolia}}; came
+An army through the Byzantines' own land,
+And ate its food; Alexios, the same,
 
-knights and peasants marching overland
-through their territory, eating their food, threatening,
-which is what they got. Emperor Alexios I Komnenos
-managed the crusaders carefully, anticipating whitening.
+Made them swear oaths to give him back the lands
+They took; but after {{p|Antioch}} was won,
+{{p|Jerusalem}}, ten-ninety-nine, their hands
+Kept all; and in the town, when it was done,
 
-He extracted oaths of loyalty that the crusaders
-would return conquered territory to {{p|Byzantium}}.
-Most crusaders ignored those oaths after taking {{p|Antioch}}
-and {{p|Jerusalem}}, establishing their own crusader states, stymied.
+They slew the Muslims, Jews, and eastern kin
+Of Christ; and then made the Crusader States:
+{{p|Jerusalem}}, {{p|Tripoli}}, and, within,
+{{p|Edessa}}; and two hundred years, their gates.
 
-The First Crusade actually succeeded, miraculously.
-{{p|Jerusalem}} fell in 1099 after a brutal siege.
-The crusaders massacred the city's inhabitants,
-Muslims, Jews, even Eastern Christians, the wedge.
+And in {{p|Georgia}}, David the Builder, few
+In men against the Seljuks, wed a bride,
+Gurandukht, a Cuman khan's child; and through
+Eleven-eighteen, the Cumans allied,
 
-The Crusader States were established: the {{p|Kingdom of Jerusalem}},
-the {{p|Principality of Antioch}}, the {{p|County of Tripoli}},
-the {{p|County of Edessa}}. They lasted about two centuries
-on the margins of the {{p|Middle East}}, culturally polys.
+Forty thousand families, came down to fight;
+At {{p|Didgori}}, in twenty-one, they broke
+The Seljuks; and {{p|Tbilisi}} came in sight
+Once more for {{p|Georgia}}; so the steppe's own folk
 
-At the far edge of the same war, in {{p|Georgia}},
-David the Builder faced the Seljuks with too few men,
-so he married Gurandukht, a Cuman khan's daughter,
-and in 1118 forty thousand Cuman families came down to fight for him then.
+And {{p|Caucasus}} were wed; and not the first:
+A hundred years before, Mariam, born
+In {{p|Vaspurakan}}, an Artsruni, nursed
+In Abul Hamza's line, of Qarin's, sworn
 
-At {{p|Didgori}} in 1121 they broke the Seljuk host,
-and {{p|Tbilisi}} was Georgian again the year after.
-The steppe and the {{p|Caucasus}} were married to each other,
-and it was not the first time. Hear an older chapter:
+To George the First of {{p|Georgia}}, bore a girl,
+Guarandukht, who was given north across
+The grass to Osen, Cuman khan; the whirl
+Of years: she bore him Aepa; and, no loss,
 
-A hundred years before, Mariam of {{p|Vaspurakan}},
-an Artsruni of Abul Hamza's line, of Qarin's blood,
-wife of George the First of Georgia, bore a daughter,
-Guarandukht, who was given north across the flood
+His daughter Anna; eleven-oh-eight,
+Vladimir Monomakh made peace, and took
+Anna for his son Yuri: the steppe's mate,
+A Cuman bride; and Yuri, by the book
 
-of grass to Osen, a khan of the Cumans,
-and bore him Aepa, and Aepa had a daughter, Anna.
-In 1108 Vladimir Monomakh made peace with Aepa
-and took Anna for his son Yuri: a steppe hosanna
+The Long-Armed, founded {{p|Moscow}}; and his son,
+Andrey, of Anna, built the churches white;
+{{p|Tabaristan}}'s old princes, one by one,
+Through {{p|Georgia}} and the steppe, they came to light
 
-of a wedding, Christian prince and Cuman bride.
-Yuri, the Long-Armed, would found {{p|Moscow}} in his day,
-and Anna bore him Andrey, who built the white churches.
-So the princes of {{p|Tabaristan}} came, the long way,
+Among the Rus. Crusaders never knew;
+They fought for one city, while the old blood
+Walked north by its own road; the houses grew.
+Second Crusade, after {{p|Edessa}}'s flood
 
-by {{p|Armenia}} and {{p|Georgia}} and the tents of the steppe,
-into the house of the Rus. The crusaders never knew.
-They fought for one city. Meanwhile the old blood
-walked north on its own road and the families grew.
+Failed: Louis VII and Conrad III, none
+Did anything; the Third, when Saladin
+Took {{p|Jerusalem}}, eighty-seven, won
+Nothing; and Barbarossa drowned; and in
 
-The Second Crusade (1147-1150) was launched
-after the fall of {{p|Edessa}}. It was a disaster.
-Louis VII of {{p|France}} and Conrad III of {{p|Germany}}
-accomplished essentially nothing, a waste of raster.
+A quarrel, Philip left; the Lionheart
+And Saladin fought on, and made a truce:
+The city Muslim, pilgrims could depart
+And come; each one was courteous in use.
 
-The Third Crusade (1189-1192) was launched
-after Saladin's recapture of {{p|Jerusalem}} in 1187.
-Richard the Lionheart of {{p|England}}, Philip II of {{p|France}},
-Frederick Barbarossa of {{p|Germany}} led the reckoning given.
+And Saladin, Salah ad-Din, the {{p|Kurd}},
+Ruled {{p|Egypt}}, {{p|Syria}}, and joined in one
+The Muslims; and his courtesy was heard
+In {{p|Europe}}. Then the Fourth, which never won
 
-Barbarossa drowned in a river in {{p|Anatolia}}.
-Philip returned home early after quarreling with Richard.
-Richard and Saladin fought to a stalemate,
-agreeing to a truce that allowed Christian pilgrim traffic.
+The {{p|Holy Land}}, but, owing {{p|Venice}} gold,
+Sacked {{p|Constantinople}}, for three days long,
+And carried off the relics; and the hold
+Latin emperors, sixty years; the wrong
 
-Richard did not take {{p|Jerusalem}}. Saladin did
-not expel the Christians. The balance held
-with {{p|Jerusalem}} in Muslim hands but Christians
-allowed to visit. Both leaders were chivalrously held.
-
-Saladin (Salah ad-Din) was a {{p|Kurdish}}
-general who had risen to rule {{p|Egypt}}, then {{p|Syria}},
-unifying the Muslim response to the crusaders.
-His reputation for chivalry spread to {{p|Europe}}'s myria.
-
-The Fourth Crusade (1202-1204) never even
-reached the {{p|Holy Land}}. Diverted by Venetian bankers
-to whom the crusaders owed money, they
-sacked {{p|Constantinople}} instead, Christian brethren hampers.
-
-The city was looted for three days. Relics
-were carried off to Western churches. A Latin Empire
-was established in {{p|Constantinople}} for sixty years
-until the Byzantines reclaimed it, though the empire-
-
-was permanently weakened. {{p|Constantinople}}
-would never fully recover from the Fourth Crusade.
-It is one of the great betrayals of history,
-Christians sacking the greatest Christian city unhade.
+Of Christians sacking Christ's own greatest town,
+From which it never would be whole again;
+The greatest of betrayals, when the crown
+Of Christ's own house was robbed by Christ's own men.
 
 The {{x|Great Schism}}, ten-fifty-four, between
 two sees, was a quarrel for the first chair,
 {{p|Rome}} or {{p|Constantinople}}; from this scene
 the quarrel held, and no hand would repair.
 
-Subsequent crusades became increasingly desperate.
-The {{x|Children's Crusade}} of 1212 ended with
-the children sold into slavery or lost at sea.
-The {{x|Fifth Crusade}} attacked {{p|Egypt}}, failed pithy.
+The {{x|Children's Crusade}}, twelve-twelve, ended sold
+Or drowned; the {{x|Fifth}} struck {{p|Egypt}}, and it failed;
+Frederick II, though cast out, went, and, bold,
+Twelve twenty-nine, by treaty, there prevailed,
 
-The {{x|Sixth Crusade}} of Frederick II, excommunicated
-but proceeding anyway, actually negotiated
-the return of {{p|Jerusalem}} in 1229 without battle.
-{{p|Jerusalem}} was lost again in 1244, never regained acquainted.
-
-Saint Louis (Louis IX of France) led the Seventh
-Crusade to {{p|Egypt}} in 1248, was captured and ransomed.
-Led the {{x|Eighth Crusade}} to {{p|Tunis}} in 1270,
-died of dysentery there. His body was fractioned.
-
-The last crusader stronghold {{p|Acre}} fell in 1291.
-The crusader states were finished. The project
-of recovering the {{p|Holy Land}} by European military force
-had failed completely, except as cultural object.
+Took {{p|Jerusalem}}, lost it, forty-four;
+Saint Louis, forty-eight, was caught, and paid;
+At {{p|Tunis}}, twelve-seventy, died; and more:
+At {{p|Acre}}, ninety-one, the last was laid.
 
 The wars bore fruit: the Europeans came
 to know their cousins' learning in the East,
 their numbers, paper, sugar, and the same
 old Greek the house had kept: one house, one feast.
 
-Italian city-states like {{p|Venice}} and {{p|Genoa}}
-grew rich from crusader transport contracts.
-The money economy expanded. Banking developed.
-The foundations of the {{x|Renaissance}} were thus extracted.
+And {{p|Venice}}, {{p|Genoa}}, grew rich on fare
+Of ships; and money grew, and banks were made;
+And so the ground was laid, and left in care,
+For all that came, the learning and the trade.
 
 The Military Orders rose: the band
 Templars, Hospitallers, Teutonic Knights,
@@ -33780,13 +33750,8 @@ an order's treasure, and the king was pleased.
 
 The crusades were a war of race and blood:
 the Frank against the Arab, Jew and Greek;
-the cross was raised, but under it there stood
+the cross was raised, but under it a flood:
 contempt for every people they called weak.
-
-{{p|Europe}} would digest that exposure over centuries,
-and the {{x|Renaissance}} that emerged in the fourteenth century
-was partly a product of what the crusades had brought back:
-Greek texts via Islamic transmission, entering the inventory.
 
 
 # Chapter 203: Kamakura Japan and the Kamikaze
