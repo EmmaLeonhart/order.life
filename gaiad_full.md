@@ -39434,242 +39434,170 @@ Were counted nothing, and their voice struck dumb.
 
 # Chapter 251: The Last Confederacies
 
-One more time.
+One more time came the vision, the old flame
+Of unity that {{c|3583|Pontiac}} once lit:
+Together, or not at all: and the claim
+Came now the greatest dreamer, born to it:
 
-                  One more time the vision came--
-The dream of unity, the ancient fire
-That {{c|3583|Pontiac}} had kindled, the claim
-That only together could the nations aspire
+{{c|3646|Tecumseh}}, called the {{c|3647|Shooting Star}}, whose speech
+Was simple, true, and came too late: "The land
+Belongs to all; it lies beyond the reach
+Of any chief to sell it by his hand.
 
-To hold the line--and this time the dreamer
-Was the greatest of them all.
+"Sell, if you will, the air, the rain, the stream;
+But not the ground on which we pray; it held
+The bones of those who came before, the dream
+Of those to come; no single name has spelled
 
-                                {{c|3646|Tecumseh}}--
-The {{c|3647|Shooting Star}}--whose name was the redeemer
-Of a continent's last hope, whose prophecy
+"Away the claim of all who walk the earth."
+He walked from the {{p|Great Lakes}} to the south shore,
+From {{c|3620|Shawnee}} towns, {{p|Ohio}}'s place of birth,
+To {{c|3639|Creek}} and {{c|3637|Choctaw}}, {{p|Florida}}'s green door,
 
-Was simple and was true and came too late:
-"The land belongs to all. No single nation
-May sell what every nation holds. The weight
-Of the earth beneath our feet is the foundation
+He bore the word: unite or die; one league
+Of all the nations, east and west, unbound
+To any {{c|3401|European}} king's intrigue;
+{{c|3583|Pontiac}}'s flame reborn on greater ground:
 
-That no chief's signature can give away.
-Sell the air. Sell the rain. Sell the river's flow.
-But do not sell the land on which we pray,
-For the land was here before us and below
+Not war alone, on {{c|3581|British}} or the rest,
+{{c|3404|Americans}}, but a refusal, whole,
+To set a price on earth: the land possessed
+In common trust, a people's common soul.
 
-Our feet it holds the bones of those who came
-Before and those who yet will come--and no
-Treaty signed by one can sign away the claim
-Of all who walk upon the earth."
+And then his brother, {{c|3648|Tenskwatawa}}, rose,
+The {{c|2776|Prophet}}, from the dust of drink's despair,
+A broken man, remade by vision's throes:
+He died, he said, and came back from the air
 
-                                   And so
-He walked. From the {{p|Great Lakes}} to the {{p|Gulf}},
-From the {{c|3620|Shawnee}} towns of {{p|Ohio}} to the gulf-
-Coast {{c|3639|Creek}} and {{c|3637|Choctaw}}, from the wolf-
-Run forests of the north to the {{p|Seminole}} shelf
+Where the {{c|1470|Master}} of Life had shown him how
+The whole world could be healed: give up the drink,
+The {{c|3401|European}} goods, the metal's vow,
+Return to the {{c|3591|Creator}}'s ways, the link
 
-Of {{p|Florida}}'s green swamp, {{c|3646|Tecumseh}} carried
-The message: unite or die. One confederacy
-Of every nation, east and west, unmarried
-To any {{c|3401|European}} king, the legacy
+Of corn and deer, of prayer in the tongue
+{{c|3591|Creator}} knew. At {{p|Tippecanoe}} there grew,
+At {{p|Prophetstown}}, of wood and bark, among
+The gathered nations, a capital new,
 
-Of {{c|3583|Pontiac}} reborn in a greater flame--
-Not merely war against the {{c|3581|British}} or the {{c|3404|Americans}},
-But the refusal, absolute, to name
-A price for the earth itself, the talismans
-
-Of sovereignty held in common trust.
-
-His brother walked beside him--{{c|3648|Tenskwatawa}},
-The {{c|2776|Prophet}}, who had risen from the dust
-Of alcoholism and despair, the raw
-
-And broken man remade by vision's fire:
-He had died and returned, he said, and the {{c|1470|Master}}
-Of Life had shown him how the world entire
-Could be healed--renounce the whiskey, the disaster
-
-Of the {{c|3401|European}} trade goods, the poison
-Of the metal world, and return to the ways
-That the {{c|3591|Creator}} gave: the ancient season
-Of the corn and the deer and the prayer's praise
-
-Spoken in the tongue the {{c|3591|Creator}} understood.
-
-At {{p|Prophetstown}}--{{p|Tippecanoe}}--they built
-The capital of the confederacy: a wood
-And bark metropolis where the guilt
-
-Of tribal division was dissolved in prayer
-And the warriors of a dozen nations gathered
+Where tribal quarrel melted into prayer,
+And warriors of a dozen nations came
 To hear the {{c|2776|Prophet}} speak and to prepare
-For the world renewed, the old ways lathered
+The world made new. {{c|3646|Tecumseh}}, in his aim,
 
-Clean of the colonizer's filth.
+Went south; and while he traveled, on the town
+Marched {{c|3649|William Henry Harrison}}, afraid
+Of nations joined more than of any crown;
+At dawn, November seventh, came the raid
 
-                                 {{c|3646|Tecumseh}} traveled south.
-While he was gone, {{c|3649|William Henry Harrison}}
-Marched on {{p|Prophetstown}} with the drouth
-Of a man who feared the garrison
+In eighteen-eleven; the {{c|2776|Prophet}} fought
+Against his brother's strict command; he swore
+The bullets would not harm them; magic, sought
+In vain: the capital was lost; the war
 
-Of united nations more than any army.
-At dawn on the seventh of November,
-Eighteen-eleven, he provoked the swarmy
-And premature battle--the ember
+Of lead ran its arithmetic: they burned
+{{p|Prophetstown}} and its stores; the {{c|2776|Prophet}}'s lie
+Of shields from bullets, overturned. Returned,
+{{c|3646|Tecumseh}} found but ashes, by and by;
 
-That {{c|3648|Tenskwatawa}} fanned against his brother's
-Strict command. The {{c|2776|Prophet}} promised magic:
-The bullets would not harm, the warriors' mothers
-Would see their sons return. The tragic
+He did not break. The {{x|War of Eighteen-Twelve}}
+Became his thread: the {{c|3581|British}} needed men
+In the {{p|Great Lakes}} and west; and he, to delve
+Their need, gave what no deal could buy; and then
 
-Miscalculation cost the confederacy
-Its capital--{{p|Prophetstown}} burned,
-The stores destroyed, the prophecy
-Of invulnerability overturned
+At {{p|Detroit}} he bluffed {{c|3650|Hull}}: the very same
+His warriors, marching past the window thrice
+In different dress; and {{c|3650|Hull}}, in fear and shame,
+Gave up {{p|Detroit}} to half his strength, the price
 
-By the mundane arithmetic of lead.
+Of theater in war. And yet the due
+Of such a friend the {{c|3581|British}} did not pay:
+At the {{p|Thames}}, {{p|Ontario}}, there withdrew
+{{c|3651|Procter}} and all his horse, and rode away,
 
-{{c|3646|Tecumseh}} returned to ashes. But he did not break.
+And left {{c|3646|Tecumseh}} and his warriors lone
+Against the charge of {{c|3652|Harrison}}; the swamp
+Was his last stand, where horsemen's waves were thrown,
+And musket-roar the drumbeat and the stomp
 
-The {{x|War of Eighteen-Twelve}} became the thread
-He seized: the {{c|3581|British}} and {{c|3404|Americans}} at stake
+Of a lost hope; and there {{c|3646|Tecumseh}} fell,
+October, eighteen-thirteen; and around
+His body closed the wood; and none could tell
+The hollow where his warriors made his mound;
 
-Again, and the {{c|3581|British}} needed allies
-In the forests of the {{p|Great Lakes}} and the west--
-And {{c|3646|Tecumseh}} gave them what no compromise
-Could purchase: the greatest warrior and the best
+They hid him from {{c|3404|Americans}} who'd strip
+His skin for keepsakes. And the dream was torn,
+But not yet cut; then rose {{c|3653|Black Hawk}}, whose grip
+Held to the homeland where the {{c|3655|Sauk}} were born:
 
-Strategic mind between the {{p|Appalachians}}
-And the {{p|Mississippi}}. At {{p|Detroit}}
-He bluffed an {{c|3484|American}} general--{{c|3650|Hull}}'s equations
-Of fear multiplied by {{c|3646|Tecumseh}}'s adroit
+{{c|3654|Ma-ka-tai-me-she-kia-kiak}}, the war
+Chief of the {{c|3655|Sauk}}, in eighteen thirty-two,
+Crossed back the {{p|Mississippi}} east once more,
+Home to {{p|Saukenuk}}, which a treaty, through
 
-March of the same warriors past the same
-Window three times, each time in different dress--
-And {{c|3650|Hull}} surrendered {{p|Detroit}} to the claim
-Of a force half the size of his own, the finesse
+A drunken chief's false mark in eighteen-four,
+Had signed away, with no council's consent;
+He crossed with women, children, by the score,
+The hungry, wanting only, as they went,
 
-Of a mind that understood the theatre of war.
+To plant their corn on their ancestral ground.
+The {{c|3404|Americans}} called it war; the band,
+Starved, lonely, through {{p|Wisconsin}} hunted, hound
+By hound, until at {{p|Bad Axe}}, where the land
 
-But the {{c|3581|British}} were not worthy of the alliance.
-At the {{p|Thames}} in {{p|Ontario}}, the scar
-Of the final battle, the {{c|3581|British}} defiance
+Met water, steamboat {{x|Warrior}} and the line
+Of guns cut down the women as they tried
+To swim across; the white flag, as a sign
+Of their surrender, spurned; the children died
 
-Dissolved: {{c|3651|Procter}} fled with his cavalry
-And left {{c|3646|Tecumseh}} and his warriors alone
-Against {{c|3652|Harrison}}'s charge--the gallantry
-Of a general abandoned, the stone
+And floated in the current; and the flow
+Of {{p|Mississippi}} reddened. Farther down,
+The {{c|3641|Seminole}} refused. Three wars, and slow,
+From eighteen-seventeen, in swamp, not town,
 
-Of {{c|3646|Tecumseh}}'s last stand in the swamp
-Where the horsemen came in waves and the musket's
-Roar was the drumbeat and the stomp
-Of a continent's last hope--the gaskets
+To eighteen-fifty-eight: the longest stand,
+{{c|3561|Indigenous}} resistance, in the maze
+Of {{p|Florida}}'s swamps, in the saw-grass land,
+{{c|3656|Osceola}}, no chief, but in his ways
 
-Of the dream bursting--and {{c|3646|Tecumseh}} fell.
+The very soul of the resistance, fought
+The {{c|3484|American}} army till it bent;
+They seized him under truce; by treason caught,
+Which {{c|3657|Jesup}} called the diplomat's intent.
 
-October eighteen-thirteen. The forest closed
-Around his body. No one knew the well
-Or hollow where his warriors composed
+{{c|3656|Osceola}} died in a prison. Yet
+The {{c|3641|Seminole}} fought on, until the claim:
+The nation spent some forty million, set
+With fifteen hundred lives, to move the name
 
-His final resting place--they hid him
-From the {{c|3404|Americans}} who would have stripped
-His skin for souvenirs--and the requiem
-Of his confederacy's end was the ripped
+Of fewer than four thousand souls; and some
+Would never yield; within the {{p|Everglades}},
+In hammock and in cypress, still they come
+And go, unconquered, where the saw-grass fades,
 
-And scattered fabric of the dream.
+Whose home removal never changed. So praise
+{{c|3646|Tecumseh}}, called the {{c|3647|Shooting Star}}, whose light
+Crossed the whole continent, and in our days
+Each no to selling land still burns it bright.
 
-                                    But the thread
-Was not yet fully severed.
+The earth has spoken: land is not for sale;
+The covenant unbroken. Honor, too,
+{{c|3653|Black Hawk}}, who crossed the river home, the trail
+Paid in blood for the right to plant, and through
 
-                             {{c|3653|Black Hawk}} rose
-In eighteen-thirty-two--{{c|3654|Ma-ka-tai-me-she-kia-kiak}}--
-The {{c|3655|Sauk}} war chief who chose
+The sky his fathers knew, to rest. And weep
+For {{p|Bad Axe}}, where the children died; and praise
+{{c|3656|Osceola}}, seized under truce, whose deep,
+Unconquered {{c|3641|Seminole}} still walk the ways
 
-To cross the {{p|Mississippi}} back to the east,
-Back to the homeland at {{p|Saukenuk}} that the treaty
-Of eighteen-four had signed away, the feast
-Of the {{c|3484|American}} land-grab's receipt, the
+Of {{p|Everglades}}, no noose about their throats.
+The last confederacies burned and fell
+And burned again; but still the embers' notes
+Glow on; and what {{c|3646|Tecumseh}} learned, they tell:
 
-Fraudulent mark of a drunken chief who signed
-What no council sanctioned, what no nation chose.
-{{c|3653|Black Hawk}} crossed with women, children, the resigned
-And desperate families, the rows
-
-Of the hungry and the dispossessed who only
-Wanted to plant their corn on ancestral ground.
-The {{c|3404|Americans}} called it war. The lonely
-And starving band was hunted, hound by hound,
-
-Through {{p|Wisconsin}}'s summer forests--and at {{p|Bad Axe}}
-The steamboat {{x|Warrior}} and the militia's
-Gun-line slaughtered women at the river's tracks
-As they tried to swim across--the malicious
-
-And deliberate murder of the fleeing, the surrender
-Rejected, the white flag ignored, the tender
-Bodies of children floating in the current's flow--
-The {{p|Mississippi}} reddened in the undertow.
-
-And in the south, the {{c|3641|Seminole}} refused.
-
-Three wars--eighteen-seventeen to eighteen-fifty-eight--
-The longest {{c|3561|Indigenous}} resistance, the abused
-And indomitable people of the strait
-
-And labyrinth of {{p|Florida}}'s swamps, where {{c|3656|Osceola}},
-The young war chief who was never truly chief
-But the soul of the resistance, the corolla
-Of defiance in the cypress and the reef
-
-Of saw-grass and saw-palmetto, fought the {{c|3484|American}}
-Army to exhaustion. They took {{c|3656|Osceola}}
-Under a flag of truce--the un-American
-And faithless seizure of a warrior, the cola-
-
-Nial treachery that {{c|3657|Jesup}} called diplomacy.
-{{c|3656|Osceola}} died in prison. But the {{c|3641|Seminole}}
-Fought on, and on, until the hypocrisy
-Of the republic spent forty million whole
-
-Dollars and fifteen hundred lives to remove
-A nation that numbered fewer than four thousand souls.
-Some never surrendered. Some refused to move.
-Deep in the {{p|Everglades}}, in the watery shoals
-
-And hammocks of the saw-grass wilderness,
-A remnant held--the unconquered {{c|3641|Seminole}},
-The only eastern nation whose address
-Was never changed by the removal's toll.
-
-Honor {{c|3646|Tecumseh}}--the {{c|3647|Shooting Star}}
-Whose light crossed the continent and whose fire
-Burns in every refusal to sell the land, the scar
-Of his death the proof that the empire's desire
-
-Cannot purchase what the earth itself has spoken:
-That the land is not for sale, the covenant unbroken.
-
-Honor {{c|3653|Black Hawk}}--who crossed the river home
-And paid the price in blood for the simple right
-To plant the corn and rest beneath the dome
-Of the sky his fathers knew. Honor the night
-
-Of {{p|Bad Axe}}, where the children died in the water.
-
-Honor {{c|3656|Osceola}}--taken under truce,
-The {{c|3641|Seminole}} whose unconquered daughter
-And son still walk the {{p|Everglades}}, the noose
-
-Of removal never tightened on their throats.
-The last confederacies burned and fell and burned
-Again--but in the ashes, the embers' notes
-Still glow, and the lesson {{c|3646|Tecumseh}} learned
-
-Still speaks: no single nation stands alone.
-The land belongs to all, and the bones beneath the stone
-Are the covenant no treaty can unmake--
-And the {{c|3647|Shooting Star}} still burns for every nation's sake.
+No single nation stands alone; the land
+Belongs to all; the bones beneath the stone
+Are covenant no treaty's signing hand
+Can break; the {{c|3647|Shooting Star}} burns on, its own.
 
 
 # Chapter 252: The Unsealed Book
