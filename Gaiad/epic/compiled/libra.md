@@ -2401,85 +2401,120 @@ The will that keeps the good, that never slept.
 
 # Chapter 307: The Card and the Name
 
-{{c|4268|Herman Hollerith}} was born in {{p|Buffalo}} on the twenty-ninth of February, 1860;
-His parents had come from {{p|Germany}}. In 1879 he left the {{x|School of Mines}}
-Of {{p|Columbia}}, and went, under his teacher {{c|4269|William P. Trowbridge}}, to the census, keen,
-Onto the count of 1880, still being tallied by hand in columns and lines
+{{c|4268|Herman Hollerith}}, born in {{p|Buffalo}}
+On leap day, eighteen sixty; and the son
+Of {{p|Germany}}'s; at nineteen, out to go
+From {{p|Columbia}}'s {{x|School of Mines}}, to run
 
-When the next was already coming due. Clerks made marks; the marks stood for persons.
-{{c|4270|John Shaw Billings}}, who had the vital statistics, urged him on:
-The mechanical part of a count ought to be a machine's. And the burden's
-Weight was not the names: it was the sorting. In 1887 he had one
+With {{c|4269|William P. Trowbridge}}, his teacher, went
+To 'eighty's census, tallied still by hand
+In columns, while the next was due, and spent:
+Clerks made marks, each a person, at command;
 
-Running on the health records of {{p|Baltimore}} and of {{p|New Jersey}}: deaths, the dead
-Counted first, before the living of the next census. In 1888 the {{x|Census Office}}
-Held a contest: four areas of {{p|St. Louis}}, out of the 1880 returns, to be read
-Off the sheets and sorted. {{c|4271|Charles F. Pidgin}} entered, and {{c|4272|William C. Hunt}}; the race was run, and {{c|4273|Hollerith}}'s
+{{c|4270|John Shaw Billings}}, who kept the vital count,
+Urged: the mechanical, to the machine;
+The weight was sorting, not the names' amount;
+In 'eighty-seven, his ran, a machine,
 
-Machine took seventy-two and a half hours to capture what the others took a hundred and more,{{fn|Capturing the data: one rival took 144.5 hours, the other 100.5, Hollerith 72.5. Preparing it for the tables: the rivals took 44.5 and 55.5 hours, his machine 5.5.}}
-And five and a half to prepare it for the tables, where theirs took more than forty.
-He had applied that September; on the eighth of January, 1889, the patent, the door
-To the age of the machine, was issued: number 395,781, the art of compiling statistics. The story
+Upon {{p|Baltimore}}'s and {{p|New Jersey}}'s dead,
+The dead first counted, then the living. Then,
+In 'eighty-eight the {{x|Census Office}} said:
+Four {{p|St. Louis}} areas, read again
 
-Of the census of 1890 begins as of the first of June; the first was a Sunday,
-So the enumerators went out on the second. {{c|4274|Robert P. Porter}} was superintendent
-Of an office not yet a bureau, a temporary office in the {{x|Department of the Interior}}. One day,
-One sheet to a family, as no other count of this country gave; on each sheet, attendant
+From sheets and sorted: {{c|4271|Charles F. Pidgin}} raced,
+{{c|4272|William C. Hunt}}, {{c|4273|Hollerith}}; whose machine
+In capture both, by a full day, outpaced,{{fn|Capturing the data: one rival took 144.5 hours, the other 100.5, Hollerith 72.5. Preparing it for the tables: the rivals took 44.5 and 55.5 hours, his machine 5.5.}}
+Tables, five hours to their forty: clean.
 
-On the household, the name of each person, written down. The first total given out
-Was not read from cards: for that pass the reader was taken off, a keyboard put in its place;
-And in six weeks the rough count stood at 62,947,714. It was widely said, without a doubt,
-The country held seventy-five million; the lower number was not believed. But the race
+He'd filed that same September; then the date,
+The eighth of January, 'eighty-nine:
+The patent, the machine's age at the gate,
+Compiling statistics, its art, its line.
 
-Was the machine's. The cards were the work after that: a card for a person, blank,
-One corner cut, so a card fed wrong would show; three and a quarter inches by seven and three eighths;
-The words on a template over it; a clerk with a stylus, pressing, rank on rank,
-About five hundred in a day, and a hole where the template held a category. The faiths
+The census, 'ninety, as of June the first;
+A Sunday; so they went on the second.
+{{c|4274|Robert P. Porter}} led an office, nursed,
+No bureau; temporary, and reckoned
 
-And the peoples were in the schedule's words for race: white, black, mulatto, quadroon, octoroon,
-{{x|Chinese}}, {{x|Japanese}}, or {{x|Indian}}; and any one of them could be a hole.
-The reader was two plates and a lever: the card between them, the plates closed, and soon
-Pins came down, and a pin that found a hole went through into mercury, and the whole
+{{x|Department of the Interior}}: one
+Sheet to a family, as none before;
+And on each sheet, each person's name; begun,
+The first total came from no card; and for
 
-Circuit closed; a hand moved on a dial; a bell rang; a drawer was named for the card.
-The 1890 machine had forty dials; a practiced clerk could pass eighty cards a minute;
-Some sixty million cards went through the readers. It was a wonder, and it was hard
-Work made light: a labor counted in years, and the machine cut the years, and the limit
+That pass, a keyboard took the reader's place;
+Six weeks: the rough count stood at sixty-two
+Million and more; and many, face to face,
+Said seventy-five; the less, none held true;
 
-Of the hand was passed. A hand tally of the last count was not going to be done
-Before the law required the next; the circuit did what the columns of marks could not.
-The speed was a real overcoming. The machine is one of the living's works, and one
-Of the ways the living know themselves: a count is how a people learns what it has got,
+The race was the machine's. The cards came next:
+A card a person, blank, one corner cut,
+So one fed wrong would show; and on the text
+A template over; and the stylus cut
 
-How a state learns its size, how a nation sees itself whole, its births, its dead, its land.
-The number the census carries is 62,979,766; in 1880 it had been 50,189,209:
-An increase of twenty-five and a half in the hundred. Twenty-five volumes, planned
-From the tally, were published. {{c|4275|Porter}} resigned on the thirty-first of July, 1893; the line
+About five hundred holes a day; each hole
+A category; and the schedule's word
+Race: white, black, mulatto, quadroon, the whole
+Of octoroon, {{x|Chinese}}, {{x|Japanese}}, heard,
 
-Of the office ran on: an act of the second of March, 1895, closed the {{x|Census Office}},
-And the unfinished work went on under the {{x|Interior}} until the first of July, 1897.
-The holes were the answers: age, sex, place of birth, and race. The name was not; and this
-Is the other half: to come back from a card to a person, you needed the sheet, the given
+{{x|Indian}}; each could be a hole. Two plates
+And lever made the reader; card between,
+The plates closed; pins came down; what penetrates
+A hole falls into mercury, unseen;
 
-Name on the family's page. On the tenth of January, 1921, a fire began
-In the basement of the {{p|Commerce Building}} in {{p|Washington}}. The schedules of 1890 lay
-Outside the vault, stacked on shelves in the path of the burning. And the man
-Who directed the census, {{c|4276|Samuel Lyle Rogers}}, reported the next day
+The circuit closed; a dial turned; a bell
+Rang; and a drawer was named there for the card;
+Forty such dials; a clerk, practiced well,
+Passed eighty cards a minute; it was hard
 
-That about a quarter were destroyed, and half of what remained was damaged
-By water, smoke and fire. On the twenty-first of February, 1933,
-{{x|Congress}} authorized the spoiled remainder's destruction; it was managed
-By 1935. Of the general schedules, 6,160 names remain to see.
+Work, made light: sixty million cards went through;
+Years' labor; the machine cut down the years;
+The hand's limit was passed; the hand could do
+No count by hand before the next one nears;
 
-The special schedules of {{x|Union}} veterans, and of their widows, came through another way:
-About seventy-five thousand sheets survived, and the soldiers were kept;
-The living of that June, almost all of them, were not. The printed total, though, would stay
-Whole: 62,979,766 is a true number, and the count is not a debt
+The circuit did what marks could not; the speed
+Was a real overcoming; the machine
+Is of the living's works, and one they need
+To know themselves: their size, in numbers seen:
 
-Owed to the names; it is its own good, how a people knows its size.
-This calendar keeps names, and it keeps the count; the card was built to keep a class, the sheet a name,
-And the sheet was the part that burned. Count the persons; keep the names; let both rise
-Together: the machine that counts the living and the book that keeps the dead are kin, and the same.
+A count is how a state learns its own size,
+A nation sees itself whole: births, dead, land.
+The total: sixty-two million; the rise
+Since 'eighty's fifty: a fourth more; and planned,
+
+Twenty-five volumes came; {{c|4275|Porter}} resigned
+In 'ninety-three; in 'ninety-five, an act
+Closed down the {{x|Census Office}}; work behind
+Ran on to 'ninety-seven. Holes, in fact,
+
+Were answers: age, sex, birthplace, race; the name
+Was not; to come back to a person, you
+Needed the sheet. In 'twenty-one, a flame,
+January tenth, in the basement through
+
+The {{p|Commerce Building}} in {{p|Washington}}, ran;
+The 'ninety schedules, outside the vault, lay
+On shelves, in its path. And the census man,
+{{c|4276|Samuel Lyle Rogers}} said, on the next day,
+
+About a quarter burned; and half what stayed
+By water, smoke, fire; and, in 'thirty-three,
+{{x|Congress}} allowed the spoiled destroyed; that made
+Six thousand, one hundred and sixty, free,
+
+The general sheets' names, by 'thirty-five;
+The veterans' special schedules came through,
+Some seventy-five thousand sheets alive;
+The soldiers kept; the living of June, few.
+
+The printed total stood, though, whole and sure:
+A count is no debt to the names; its own
+Good, how a people knows its size; the pure
+Card keeps a class; the sheet, a name, alone,
+
+And the sheet burned. This calendar keeps both:
+Count the persons; keep the names; let them rise
+Together: the machine that counts, its growth,
+The book that keeps the dead, kin in their ties.
 
 
 # Chapter 308: The Common Task
