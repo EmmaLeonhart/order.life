@@ -34073,115 +34073,80 @@ What learning lived, out on the margins, then.
 
 # Chapter 207: The Mongols in China
 
-Kublai Khan, grandson of Genghis, completed
-the conquest of {{p|China}}. He defeated the Southern
-Song Dynasty, which had held out for decades
-behind the {{p|Yangtze River}} and mountain curtain.
+And Kublai Khan, grandson of Genghis, won
+All {{p|China}}; and the Southern Song, who'd stood
+For decades past the {{p|Yangtze}}, were undone
+At Yamen, twelve-seventy-nine, for good:
 
-The final battle was at sea — the Battle of Yamen
-in 1279. The loyalist {{x|Song}} fleet was destroyed.
-The last boy emperor of {{x|Song}} was carried
-by a loyal minister, who leapt with him into the void.
+The loyal fleet was sunk; and, to the end,
+One bore the boy emperor to the sea,
+A minister, who would not yield or bend,
+And drowned with him; and no more {{x|Song}} would be.
 
-With the emperor's death, the {{x|Song}} was finished.
-Kublai established the Yuan Dynasty (1271-1368),
-the first foreign dynasty to rule all of {{p|China}}.
-His capital was {{p|Khanbaliq}}, "City of the Khan," patented
+Kublai's Yuan, from twelve-seventy-one,
+The first from outside who held {{p|China}} whole;
+His seat was {{p|Khanbaliq}}, the {{x|Khan}}'s, begun
+Where {{p|Beijing}} stands; he took the Chinese role
 
-on the site of modern {{p|Beijing}}. He adopted
-Chinese administrative forms but maintained Mongol
-social hierarchy: Mongols at the top, then
-Central Asians and other foreigners, then North Chinese holl-
+Of rule, but kept the ranks: the Mongols first,
+The Central Asians next, the foreign born;
+The northern Chinese; and, the last and worst,
+The southern Chinese; and it bred their scorn.
 
-owed out of power, then Southern Chinese at the bottom.
-This ethnic stratification was resented and
-contributed to the dynasty's instability.
-Marco Polo served Kublai in his land.
+And Marco Polo served Kublai; he wrote
+{{p|Khanbaliq}}'s splendor, and the paper bills,
+The coal they burned, the posts, the roads of note,
+The canals; and the {{p|West}} read it, with thrills.
 
-Polo's account of {{p|Khanbaliq}}'s splendor,
-the paper money, the coal burning for fuel,
-the postal relay system, the canals and roads,
-astonished European readers when finally full.
+Polo reached {{p|China}}, served the Khan, and wrote^[Some historians, among them Frances Wood, have argued that Polo never reached China; most hold that he did.]
+What he had seen, and did not overstate:
+The things it told were true, and kept afloat
+The {{p|West}}'s desire for the {{p|East}}'s rich freight.
 
-Polo reached {{p|China}} and served the Khan, and wrote^[Some historians, among them Frances Wood, have argued that Polo never reached China; most hold that he did.]
-what he had seen, and the book is not overrated:
-the information it contained was accurate,
-and fueled European interest in the East, newly inflated.
+He sent his fleets to {{p|Japan}} twice; and they,
+The typhoons, kamikaze, broke them all;
+{{p|Vietnam}} and {{p|Java}} went the same way;
+The steppe's war failed in jungle and in squall.
 
-Kublai attempted to invade {{p|Japan}} twice,
-in 1274 and 1281. Both fleets were destroyed
-by typhoons, which the Japanese named kamikaze,
-"divine winds," sent by the gods to defend their void.
+Then came the plague; the {{p|Yellow River}} burst;
+Too much paper money printed; the lords
+Of Mongols fought among themselves; and first
+Red Turbans, thirteen-fifty-one, drew swords;
 
-(The second typhoon in 1281 was especially devastating.
-The Mongol fleet was caught in harbor and shattered.
-Four thousand ships and over 100,000 men were lost.
-The kamikaze belief entered Japanese culture, mattered.)
+Zhu Yuanzhang, a peasant, led the rest,
+Took {{p|Nanjing}}, fifty-six; and, sixty-eight,
+Took {{p|Khanbaliq}}, renamed {{p|Beiping}}; and, blessed
+As Hongwu Emperor, made the Ming state.
 
-The {{x|Yuan}} also attempted to invade {{p|Vietnam}} and {{p|Java}}
-with similar lack of success. The Mongol military
-machine, built for steppe warfare, was less effective
-against tropical jungle and sea-based military.
+The Mongols fled back to the steppe; their reign
+Had lasted not a century; and west,
+Hulagu, Kublai's brother, there had slain
+The last caliph, rolled in a carpet, pressed
 
-The Yuan Dynasty declined in the fourteenth century
-due to plague, flooding of the {{p|Yellow River}},
-economic collapse from overprinting paper money,
-and the factional disputes between Mongol nobles whither.
+Beneath the horses' hooves, for royal blood
+Must never touch the ground; the books were thrown
+Into the {{p|Tigris}}, and it ran, a flood
+Black with the ink; the {{x|Golden Age}} was flown.
 
-The Red Turban Rebellion erupted in 1351.
-The peasant leader Zhu Yuanzhang emerged as
-the dominant rebel commander, took {{p|Nanjing}} in 1356,
-took {{p|Khanbaliq}} (renamed {{p|Beiping}}) in 1368, was
+At Ain Jalut, the Mamluks turned them back,
+Twelve-sixty; the Ilkhanate, in time,
+Took {{x|Islam}} with Ghazan; and on that track
+The {{x|Persian}} poets sang, in their own rhyme:
 
-proclaimed the Hongwu Emperor, founder of the
-Ming Dynasty. The Mongols were expelled back
-to the steppes. Native Chinese rule was restored.
-The {{x|Yuan}} had lasted less than a century, off the track.
+Saadi, Rumi, Hafez; and in the north
+The Golden Horde ruled {{p|Russia}} through its lords,
+Took tribute; Uzbeg Khan brought {{x|Islam}} forth,
+And the steppe heard the Prophet, in its hordes.
 
-Meanwhile, in the western Mongol realms:
-the Ilkhanate ruled {{p|Persia}} and {{p|Iraq}}.
-Hulagu Khan, Kublai's brother, had sacked
-{{p|Baghdad}} in 1258, ending the {{x|Abbasid Caliphate}}.
+In {{p|Central Asia}}, Chagatai's fell
+To pieces; and from out its ruins came
+Timur, late in that century, as well;
+But the next chapter tells of him by name.
 
-The last {{x|Abbasid}} caliph was rolled up in a carpet
-and trampled to death by horses (by Mongol
-tradition, royal blood should not touch the ground).
-The books of the {{x|House of Wisdom}} were thrown into the {{p|Tigris}}, the role'
-
-of four centuries of Islamic scholarship
-was destroyed. The {{p|Tigris}} ran black with the ink
-of uncounted manuscripts. This was the end
-of the classical {{x|Islamic Golden Age}}, a great sink.
-
-Hulagu continued west toward {{p|Egypt}}. The Mamluks
-of {{p|Egypt}} defeated him at Ain Jalut in 1260.
-This was the first major defeat of the Mongol army.
-It saved {{p|Egypt}} and the Muslim West from conquest, relieved.
-
-The Ilkhanate eventually converted to {{x|Islam}} under
-Ghazan in 1295. Persian culture absorbed the Mongol overlords.
-Persian literary flourishing continued: Saadi, Rumi,
-Hafez — the great Persian poets working through swords.
-
-The Golden Horde ruled the western steppes and {{p|Russia}}.
-They converted to {{x|Islam}} under Uzbeg Khan in the fourteenth century.
-They ruled {{p|Russia}} indirectly through the princes,
-demanding tribute and acknowledgment, religious centuries.
-
-The Chagatai Khanate ruled {{p|Central Asia}}.
-Eventually fragmented and was partly absorbed
-into the {{p|Timurid Empire}} in the late fourteenth century.
-Timur would emerge from its ruins, scorned.
-
-The Mongol conquests changed world history forever.
-They killed perhaps forty million people in the course
-of their conquests — a staggering portion of the world
-population at that time, a genocide at source.
-
-But they also connected {{p|Eurasia}} as never before.
-Technologies transmitted both east and west.
-The {{x|Black Death}} would transmit west along Mongol routes.
-The whole world was becoming connected for its test.
+The Mongols' wars killed forty million, so
+Much of the world that was; and yet they bound
+{{p|Eurasia}} as one, and the arts would go
+Both east and west, and plague along that ground.
 
 
 # Chapter 208: The Ottoman Rise
