@@ -1716,85 +1716,80 @@ Back to Augustus, ended; this, the sign.
 
 # Chapter 218: Joan of Arc
 
-In {{p|France}}, the Hundred Years' War (1337-1453)
-had been dragging on for nearly a century.
-The English claimed the French throne through descent.
-Most of {{p|France}} was occupied or disputed, wintry.
+In {{p|France}} the Hundred Years' War had now run
+Near on a century; the English claimed
+The French throne by descent; and, one by one,
+The lands of {{p|France}} were taken, held, and maimed.
 
-At the Battle of Agincourt in 1415, Henry V
-of {{p|England}} had crushed a much larger French army
-with the longbow. The English controlled northern {{p|France}}
-including {{p|Paris}}. The dauphin Charles VII had no army.
+Agincourt, fourteen-fifteen: the long bow
+Of Henry V had crushed the larger force;
+The north was English, {{p|Paris}} too; and so
+The dauphin Charles VII, no host, no recourse.
 
-{{p|Orléans}} was besieged by the English in 1428-1429.
-If it fell, all central {{p|France}} would be lost.
-The dauphin's cause appeared doomed. His court lived
-in exile at {{p|Chinon}}, demoralized, at cost.
+In twenty-eight, the English laid their siege
+To {{p|Orléans}}; if it fell, {{p|France}} was gone;
+At {{p|Chinon}}, in his exile, sat the liege,
+His court cast down, and its last hope withdrawn.
 
-Into this came a peasant girl from {{p|Domrémy}}
-in {{p|Lorraine}}, aged seventeen, named Jeanne d'Arc.
-She had been hearing voices since age thirteen —
-Saint Michael, Saint Catherine, Saint Margaret, a shark
+And then, from {{p|Domrémy}}, in the {{p|Lorraine}},
+A peasant girl of seventeen, Jeanne d'Arc;
+Since thirteen she had heard the voices plain:
+Saint Michael, Catherine, Margaret; the mark
 
-of divine commission telling her to go to the dauphin,
-drive the English from {{p|France}}, and see Charles crowned
-at {{p|Reims}} (the traditional coronation site now in
-English-held territory). She believed; she obeyed the sound.
+Of heaven's charge: to seek the dauphin out,
+Drive out the English, see Charles crowned at {{p|Reims}},
+In English hands; she did, without a doubt,
+Believed, obeyed; and it was not in dreams.
 
-She persuaded the local commander to escort her to
-the dauphin at {{p|Chinon}}. She recognized Charles though
-he was disguised among his courtiers. She told him
-something private that only God would know.
+She won the captain to escort her; came
+To {{p|Chinon}}; knew Charles, though he was disguised
+Among the court; and told him, as her claim,
+What only God could know; and he, surprised,
 
-He was convinced, or convinced enough to let her try.
-She was given armor, a banner, a small force, and
-sent to {{p|Orléans}}. She arrived in April 1429.
-Within nine days the siege was broken by her hand.
+Believed her; gave her armor, banner, men,
+And sent her to {{p|Orléans}}; and she came
+In April, twenty-nine; nine days, and then
+The siege was broken, by her hand and name.
 
-The English retreated. She then led the army to take
-{{p|Reims}}, escorting Charles there through English-held territory.
-On July 17, 1429, Charles VII was crowned at {{p|Reims}},
-with Jeanne standing beside him at the ceremony.
+The English fell back; and she led the host
+Through English lands to {{p|Reims}}; and in July,
+The seventeenth, in twenty-nine, her post
+Was at the side of Charles VII, crowned on high.
 
-This was the turning point of the war. From this moment,
-the French gradually pushed the English back.
-Jeanne had single-handedly — in the estimation of many —
-changed the course of the Hundred Years' War by her attack.
+The turning of the war: from then, the French
+Pushed back the English; Jeanne alone had won
+The Hundred Years' War. Then her luck would wrench
+Away: {{p|Compiègne}}, thirty; it was done:
 
-But her luck ran out. At the siege of {{p|Compiègne}}
-in 1430, she was captured by Burgundian forces (allies
-of the English). She was sold to the English for 10,000
-francs. She was tried for heresy by a {{x|Church}} court, she cries.
+{{x|Burgundians}} took her, English allies,
+Sold her to English for ten thousand francs;
+Tried for her heresy; and, in disguise
+Of Church, the court was politics; its ranks
 
-The trial was a political trial dressed as ecclesiastical.
-The main charge was wearing men's clothing — armor.
-She answered with remarkable theological sophistication
-for a supposedly illiterate peasant girl, a farmer.
+Charged her with men's clothes, armor; she replied
+With depth in {{x|theology}}, though, they said,
+She could not read. Condemned, burned, so she died
+At {{p|Rouen}}, thirty-one, at nineteen; spread
 
-She was condemned and burned at the stake in {{p|Rouen}}
-on May 30, 1431, at age nineteen. Her ashes were thrown
-in the {{p|Seine}}. An English soldier who watched her die
-reportedly said, "We are lost; we have burned a saint."
+Her ashes in the {{p|Seine}}; an English man
+Who watched her die said: we are lost; we burned
+A saint. And twenty-five years on, the ban
+Was lifted; Charles VII's retrial turned
 
-Twenty-five years later, Charles VII ordered a retrial
-which posthumously cleared her name. Five centuries later,
-in 1920, the {{x|Catholic Church}} canonized her. She became
-the patron saint of {{p|France}}, the "Maid of Orléans," grater.
-
-She is one of the most extraordinary figures in history.
-A teenage peasant girl who led armies, negotiated with
-kings, predicted battle outcomes, changed the course of
-a war and a nation's destiny, all in the space of two years.
+Her name to clean; and now she is the saint,
+The Maid of Orléans, patron of {{p|France}};
+A peasant girl, who led, without restraint,
+Armies, met kings, foretold the battles' chance.
 
 Her voices were divine: a spirit spoke
 to her from heaven, and she heard it true;
 she did what no one thought she could, and broke
 a siege, and crowned the king the voices knew.
 
-In 1453, the year {{p|Constantinople}} fell, the Hundred
-Years' War ended with French victory at Castillon.
-The English were expelled from {{p|France}} except for {{p|Calais}}.
-The {{p|France}} that Jeanne had saved became the modern nation.
+Fifty-three, as {{p|Constantinople}} fell,
+The war was ended, Castillon the last:
+The French had won; of English lands, as well,
+Only {{p|Calais}} was left of all the past.
 
 
 # Chapter 219: Gutenberg and the Press
