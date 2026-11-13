@@ -876,92 +876,80 @@ Both east and west, and plague along that ground.
 
 # Chapter 208: The Ottoman Rise
 
-The Ottoman Turks were originally one of many
-Turkic beyliks (emirates) that emerged in {{p|Anatolia}}
-after the Seljuks were defeated by the Mongols.
-They were the smallest and most marginal, initially.
+Ottoman Turks were one, at first, of all
+The beyliks, when the Seljuks lost their hold
+Beneath the Mongols; theirs, the least, and small,
+Out on the edge, by {{p|Byzantium}}'s fold.
 
-Osman I (c. 1258-1326) gave his name to the dynasty.
-He was a chieftain in the frontier region near the
-{{p|Byzantine Empire}}, a ghazi (warrior for the faith).
-He captured the Byzantine city of {{p|Prusa}} ({{p|Bursa}}), to surprise.
+Osman I, who gave the whole house its name,
+A ghazi; he took {{p|Prusa}} from the {{x|Greek}};
+His son Orhan made it the seat; and came
+Across the {{p|Dardanelles}}; walls were weak
 
-His son Orhan (r. 1324-1362) made {{p|Bursa}} the capital,
-crossed the {{p|Dardanelles}} in 1354 (after an earthquake
-opened a gap in the walls of {{p|Gallipoli}}), established
-the first Ottoman foothold in {{p|Europe}}, a seminal stake.
+At {{p|Gallipoli}}, by an earthquake; so,
+In thirteen-fifty-four, in {{p|Europe}} stand;
+Murad I pressed the {{p|Balkans}}; and would go
+To set his throne in {{p|Edirne}}, at hand.
 
-His son Murad I (r. 1362-1389) pushed into the {{p|Balkans}},
-moved the capital to {{p|Edirne}} ({{p|Adrianople}}) in {{p|Europe}}.
-At the Battle of Kosovo in 1389, Serbian resistance
-was crushed. Murad himself was killed by a Serbian knight, groupe.
+The Battle of Kosovo, eighty-nine,
+Crushed {{x|Serbia}}; Murad himself was slain
+By a {{x|Serbian}} knight; and next in line,
+Bayezid I, the Thunderbolt, would then reign,
 
-Bayezid I (r. 1389-1402), "The Thunderbolt," was
-close to taking {{p|Constantinople}} when Timur invaded
-from the east. At the Battle of Ankara in 1402,
-Bayezid was defeated and captured, his empire disarmed.
+And came near {{p|Constantinople}}; but east
+Came Timur; and at Ankara they met,
+Fourteen-oh-two; he took Bayezid; and ceased
+The Ottomans, almost; his sons, beset
 
-The Ottomans nearly collapsed. Civil war between his sons
-lasted eleven years. But they recovered under
-Mehmed I (r. 1413-1421) and expanded again under
-Murad II (r. 1421-1451), reformed, rearmed.
+Each other eleven years; then Mehmed I
+Restored it; and Murad II built it then;
+At Varna, forty-four, crusaders' cry
+Crushed; at Kosovo, forty-eight, again;
 
-Murad II defeated the Christian crusading armies at
-Varna in 1444 and Kosovo again in 1448.
-The {{p|Balkans}} were solidifying under Ottoman control.
-{{p|Constantinople}} was now surrounded on all sides, ate.
+The {{p|Balkans}} had been taken; all around,
+{{p|Constantinople}} was hemmed in, alone;
+The Ottomans held all the {{p|Black Sea}}'s ground,
+And {{p|Anatolia}} was all their own.
 
 The Janissary corps, the Sultan's own,
 came from the devshirme, the boys' levy: sons
 of Balkan village churches, taken, grown
 to serve the Sultan's altar, and his guns.
 
-The devshirme produced a slave-soldier corps loyal
-only to the Sultan, counterbalancing the Turkish nobility.
-Many became viziers and pashas. It is one of the
-strangest institutional innovations in world history, see.
+A slave corps, loyal to the Sultan, none
+Beside; it held the Turkish lords in check;
+Viziers, pashas came of them; no son
+Inherit; each new age came at his beck.
 
-(Janissaries were technically slaves but held high positions.
-Their descendants could not inherit their positions.
-Each generation was recruited fresh. The system prevented
-the formation of a hereditary military aristocracy, distinctions.)
+They brought great guns; and gunsmiths came, and more:
+{{x|Hungarian}}, {{x|Italian}}, {{x|German}}, made
+Bombards; the great Basilica, for war,
+Six hundred pounds, the stones it threw; walls frayed.
 
-The Ottomans also pioneered the use of heavy artillery.
-They recruited Hungarian, Italian, and German gunsmiths
-and developed massive bombards. The huge "Basilica"
-gun used at {{p|Constantinople}} fired 600-pound stones, griffiths.
+Mehmed II, the Conqueror, at just nineteen,
+Fourteen-fifty-one, took the throne; and wise,
+Of many tongues, and cruel, set, and keen,
+He made the final siege his only prize:
 
-Mehmed II, "The Conqueror," came to the throne in 1451
-at age nineteen. He was intelligent, multilingual, cruel,
-and determined. He immediately began preparations for
-the final siege of {{p|Constantinople}}, his personal jewel.
+He built {{p|Rumeli Hisarı}}, the great hold
+On the {{p|Bosphorus}}, and cut off the grain
+From the {{p|Black Sea}}; and the great bombard, rolled
+Out, fourteen-fifty-three; he passed the chain
 
-He built the fortress of {{p|Rumeli Hisarı}} on the European
-shore of the {{p|Bosphorus}}, cutting off {{p|Constantinople}}
-from {{p|Black Sea}} grain supplies. He assembled his army.
-He prepared the great bombard with its heavy slosh.
+With ships drawn overland; and, breached, the wall
+Held fifty-three days; on May twenty-nine,
+{{p|Constantinople}} fell; and in the fall
+Constantine XI, the last one of the line.
 
-The siege began on April 6, 1453. Walls were breached.
-Ships were transported overland to flank the defenses.
-After 53 days, on May 29, 1453, {{p|Constantinople}} fell.
-The last Byzantine emperor, Constantine XI, fenced.
+So mark it, fourteen-fifty-three: they held
+The {{p|Balkans}}, save for {{p|Albania}}'s line;
+{{p|Anatolia}}, the beyliks compelled;
+The {{p|Black Sea}} theirs; their fleets out on the brine.
 
-(That story is chapter 221. The setup is complete.
-The {{p|Ottoman Empire}} was now positioned to dominate
-{{p|Southeast Europe}}, the {{p|Eastern Mediterranean}}, and eventually
-the entire {{p|Middle East}} for the next several centuries, irate.)
-
-At this pivotal moment in 1453, mark the accumulated
-geopolitical position of the Ottomans:
-— {{p|Balkans}} under control except for {{p|Albania}}, {{p|Bosnia}} fringe
-— {{p|Anatolia}} unified, rival beyliks absorbed or submissive
-— {{p|Black Sea}} becoming an Ottoman lake
-— {{p|Eastern Mediterranean}} naval presence expanding
-
-The rise had taken 150 years from Osman's small frontier
-emirate to the conquest of the greatest Christian city
-in the world. The {{p|Roman Empire}}'s last direct continuation
-was about to become the {{p|New Rome}} of Sultan Mehmed, pretty.
+A hundred fifty years from Osman's small
+Frontier, to take the greatest Christian town;
+And {{p|New Rome}} was the Sultan's; and the hall
+Of Mehmed, and the city was his own crown.
 
 
 # Chapter 209: The Corruption of the Papacy
