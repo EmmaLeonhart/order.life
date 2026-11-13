@@ -1,86 +1,61 @@
 # Chapter 219: Gutenberg and the Press
 
-{{c|3214|Johannes Gutenberg}} (c. 1400-1468), a goldsmith of
-{{p|Mainz}} in the {{c|3215|Holy Roman Empire}}, developed
-movable-type printing in the 1440s. It was the most
-consequential media technology invented, ever propelled.
+{{c|3214|Johannes Gutenberg}}, a goldsmith, made
+In {{p|Mainz}}, within the {{c|3215|Holy Roman}} land,
+The type that moves, the fourteen-forties' trade;
+The greatest tool of word that came to hand.
 
-Printing with carved wooden blocks existed in {{p|China}}
-since the {{x|Tang}} dynasty. Movable type was invented
-by {{c|3216|Bi Sheng}} in {{p|China}} around 1040. Korean
-metal movable type existed by the thirteenth century, presented.
+Carved blocks in {{p|China}} printed, ages long;
+{{c|3216|Bi Sheng}} made moving type, ten-forty; and
+The Koreans cast it in metal, strong,
+Before; but signs by thousands, for their hand,
 
-But the East Asian writing systems had thousands of characters.
-Movable type was less efficient than carved blocks for them.
-The printing revolution would not happen in {{p|Asia}}
-until later reforms made it practical for their gem.
+Made carving better still; in {{p|Asia}}, then,
+The press did not take hold. But letters, few,
+Two dozen, suited moving type; and when
+{{c|3217|Gutenberg}} cast his type in metal new:
 
-Alphabetic writing with only two dozen letters was
-perfectly suited to movable type. {{c|3217|Gutenberg}}'s key innovation
-was the metal alloy for the type (lead, tin, antimony)
-that held its shape through thousands of impressions.
+Of lead and tin and antimony, which
+Held shape through thousands of impressions; and
+He took the press of wine and oil, a switch
+To paper; and an oil-based ink he planned
 
-He also adapted the screw press used for wine and olive oil
-to press paper firmly against inked type. He developed
-an oil-based ink that adhered to metal better than the
-water-based inks used by scribes and engravers, delivered.
+That held to metal, more than scribes' had done.
+The {{c|3218|Gutenberg Bible}}, in fifty-five,
+One hundred eighty copies, and, each one
+Like handwriting; and forty-nine survive.
 
-The {{c|3218|Gutenberg Bible}} was printed around 1455,
-about 180 copies, of which 49 survive. It was the
-first major European book printed with movable type.
-It could be mistaken for a hand-written manuscript, alive.
+Bankrupt, sued by his backer, {{c|3219|Johann Fust}},
+Who got the press; and he died poor, alone;
+But the press spread, as from a blowing gust:
+By fifteen hundred, presses had so grown
 
-{{c|3217|Gutenberg}} himself went bankrupt from lawsuits with his
-financial backer {{c|3219|Johann Fust}}, who ended up owning
-the printing press. {{c|3217|Gutenberg}} died in relative poverty.
-But the technology spread explosively, growing.
+In cities, twice a hundred; and the books
+Were twenty million, more than all the hands
+Of copyists a thousand years, in nooks
+Of cloisters, made: {{x|incunabula}}'s lands.
 
-By 1500, there were printing presses in over 200 European
-cities. Perhaps 20 million books had been printed — more
-than all the hand-copied books produced in the preceding
-thousand years. The "incunabula" period was lore.
+And knowledge spread: what one man saw, a crowd
+Would read in months; discovery would dawn;
+The laity read scripture out aloud;
+And Latin's hold on learning would be gone:
 
-The consequences were staggering. Scientific knowledge
-could now propagate rapidly across {{p|Europe}}. Observations
-made by one scholar could be read by thousands of others
-within months, enabling cumulative discovery, infinitations.
+In German, French, and English, Spanish, too,
+And Italian, the printed books were made;
+And grammars, dictionaries, spellings grew
+Fixed, as the printers set them; nations laid
 
-Religious texts became accessible to laypeople. The
-{{c|3140|Protestant Reformation}} a few decades later was directly
-enabled by printing — {{c|3220|Martin Luther}}'s 95 {{x|Theses}}
-spread across {{p|Germany}} in two weeks, thoroughly collected.
+Their sense of self on shared print; pamphlets, sheets,
+Cheap books put reading into many hands
+Of women, workers; and in lanes and streets
+The readers grew, in all the western lands.
 
-National languages gained prestige through being printed.
-Before printing, {{x|Latin}} had been the universal scholarly
-language. Print editions in German, French, English,
-Spanish, Italian cemented these as literary languages, owned.
+And print spread lies as well, and rumor's word:
+The witch-hunt manuals, the tracts of hate
+Against the Jews, the calls for war were heard
+In print; the dark side of the press, as great.
 
-Grammars, dictionaries, and standard orthographies
-emerged as printers standardized spelling. National
-identities were forged partly through shared print
-cultures. The idea of "nation" strengthened, perceptual.
-
-Literacy rates began to rise. Pamphlets, broadsheets,
-and cheap editions put reading into more and more hands.
-Women's literacy rose. Working-class literacy rose.
-The basis for modern democracy was being built, stands.
-
-Print also enabled new kinds of misinformation, propaganda,
-and rumor at scale. Witch-hunting manuals were printed.
-Antisemitic tracts were printed. Religious tracts calling
-for war were printed. The dark side of printing, imprinted.
-
-But overall, the printing press is considered by many
-historians to be the most important invention of the
-second millennium. It reshaped European society, enabled
-the {{x|Reformation}}, the {{x|Scientific Revolution}}, the {{x|Enlightenment}}.
-
-Without printing, none of those would have happened as they did.
-{{p|Europe}} would have been a different place, perhaps less
-distinctive from other civilizations. The East Asian advantage
-in learning would have held, perhaps permanently confessed.
-
-As it was, {{p|Europe}} in the late fifteenth century was
-accelerating technologically and intellectually. Combined
-with the discovery of the {{p|Americas}} (next century),
-the basis for European global dominance was formed, intentionally.
+But of the second thousand years, it stands
+The greatest making; {{p|Europe}} it remade,
+And the East's lead in learning left its hands;
+Its pace grew swift; and so the ground was laid.
