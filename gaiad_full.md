@@ -47801,145 +47801,90 @@ This feast: of mind the living's work has won.
 
 # Chapter 336: The Two Digits
 
-This day of the book keeps a Sunday of thanks,
-The second Sunday of that name.
-In the year the clocks were feared,
-That Sunday was the twenty-sixth of November.
-The night was the last of December,
-A Friday, into a Saturday.
-The feast is not the night.
+This day keeps, too, a Sunday of the thanks,
+The second of that name; that year, it stood
+November twenty-sixth; the night, the ranks
+December's last, a Friday; not the good
 
-A year had been written with two digits.
-The machines that kept a date that way
-Could read the new year as a hundred years back.
-A short year is not a small fear.
-The fear was of clocks that would not go on.
+The feast. A year with two digits was kept;
+And machines that kept dates that way might read
+The new year as a hundred back; and swept,
+The fear: of clocks that would not go; the need,
 
-The country spent about a hundred billion dollars, and the world about three hundred.
-A sum is not a proof the fear was empty,
-And it is not a proof the fear was the size of the sum.
+A hundred billion here; three hundred, all
+The world; a sum, no proof the fear was naught,
+Nor of its size. In 'ninety-five, the call:
+The line bent; {{p|Kiribati}}, as it sought,
 
-At the turn of 1995 a line on the ocean
-Was bent around {{p|Kiribati}},
-So one republic would not be two dates.
-That turn is not this night.
-In 1997 a report says the cabinet gave
-An empty island a second name.
-{{p|Caroline Island}} was also called
-{{p|Millennium Island}}.
-The night is not that year.
-The inhabited island is {{p|Kiritimati}}.
-{{c|4502|Teburoro Tito}} had moved the line.
-In August 1999 a king in {{p|Tonga}},
-{{c|4503|Taufa'ahau Tupou IV}}, added an hour,
-So his country might be called first.
-{{p|Fiji}} and {{p|New Zealand}} claimed the morning too.
-One account gives the first sunrise
-To {{p|Pitt Island}}.
-{{p|Millennium Island}}, in {{p|Kiribati}}, saw it first, across the moved line.
-A line moved, and an hour added,
-Are not a date repaired.
+Into one date; and, 'ninety-seven, more:
+An empty one, {{p|Caroline Island}}, named
+{{p|Millennium Island}}; and the lived shore;
+{{c|4502|Teburoro Tito}} had moved the line, claimed
 
-One count ends the century on this night.
-Another says the century has a year left,
-Until the Monday that begins 2001.
-This book counts from the zeros: the millennium turned this night.
-The feared night need not be the night
-The centuries agree.
+In 'ninety-nine, in {{p|Tonga}}, the king's hour:
+{{c|4503|Tupou the Fourth}} had added it, to be
+First; {{p|Fiji}}, {{p|New Zealand}}, claimed; the power
+To {{p|Pitt Island}}, by one account; and, free,
 
-On the Saturday {{c|4504|Bill Richardson}} said
-It was too early to call the night done.
-After the Monday, the first full day of work,
-{{c|4505|John Koskinen}} said the bug had been squashed,
-For the key systems of the country.
-He said they were victims of their own success.
-The Saturday and the Monday are not one sentence.
-He said the quiet was the work.
-He also said some places that seemed unready
-Came through.
-Later he said more work had been done than could be seen.
-The work made the morning quiet.
-The repair was a quiet triumph, and this book honors it.
+{{p|Millennium Island}} first; a moved line
+And an hour, not a date repaired. One count:
+The century ends tonight; by design,
+Another, a year left; this book's amount
 
-He said three systems, in a state he did not name,
-Had been left running on purpose,
-And all three stopped.
-The state is not guessed.
+Counts from the zeros: twelve thousand, the date
+The Gaian millennium turned; this night;
+The feared night, not where centuries' counts wait;
+That Saturday, {{c|4504|Bill Richardson}}: too slight
 
-In {{p|Japan}} a report says a system
-That watched a nuclear plant failed.
-The report does not say the plant failed.
-In the {{p|United States}} one report says
-At least five utilities had trouble from the date.
-Another says seven nuclear plants
-Had minor trouble, and the service held.
-A third names three plants, in {{p|Georgia}},
-{{p|Pennsylvania}}, and {{p|South Carolina}},
-Whose trouble the plants did not tie to the date.
+A time to call it done; and, Monday, then,
+The first full workday, {{c|4505|John Koskinen}} said
+The bug was squashed, for key systems; and when
+Victims of their success; the quiet, read
 
-At {{p|Oak Ridge}} a machine that kept a count
-Of nuclear material misread the date.
-One briefing says the accounting held.
-Another says the function was classified,
-And was put right in about three hours.
+As the work done; some places unprepared
+Came through; more done than could be seen; this book
+Calls the repair a triumph, quiet, aired
+And honors it. Three systems, by the book
 
-A report calls a failed machine in the sky
-A reconnaissance satellite.
-Another calls it a guidance system,
-Down for hours after the midnight
-Kept at {{p|Greenwich}}.
+Left on, on purpose, in a state unnamed,
+And all three stopped; the state not guessed. {{p|Japan}}:
+A watch on a nuclear plant failed, claimed
+Not the plant; five utilities began
 
-A report connects outages of power
-In {{p|Gambia}} to the date.
-One shop, near {{p|Albany}},
-Asked a fee of ninety-one thousand
-Two hundred and fifty,
-For a tape the machine called a hundred years late.
-A bill is not a collapse.
-A quiet city is not a proof
-That nothing had been asked of the clocks.
+To stumble; seven plants, small trouble, held
+Their service; three plants, in {{p|Georgia}} as well,
+{{p|Pennsylvania}}, {{p|South Carolina}}, spelled
+No date as cause; at {{p|Oak Ridge}}, a count fell
 
-The committee's guessed rates
-For the small chips did not stay still.
-A guess is not a count of what stopped.
-The report says some set their clocks back
-And called that a success.
-A clock turned back is not a year repaired.
-The way of the turning is not set down.
+Nuclear stuff misread; one briefing: held;
+Another: secret, fixed in three hours. And
+A satellite, or guidance, failed and quelled
+Hours past {{p|Greenwich}} midnight; {{p|Gambia}}'s land
 
-The leap day was the twenty-ninth of February,
-A Tuesday, and not this night.
-The year could be divided by four hundred,
-So the day was real.
-A rule that stops a century's leap
-Would have skipped it.
-{{c|4505|John Koskinen}} said the glitches were a handful.
-A message archive of the {{x|Coast Guard}}
-Refused the date. The operations held.
-At {{p|Offutt}}, near {{p|Omaha}},
-A count of equipment and stores stumbled,
-And was caught.
-He said the center's watch ended with that day.
-Another report gives the office
-Until the end of March.
-The two closings are not one.
+Lost power, tied to it; a shop's bill, high,
+Near {{p|Albany}}, ninety-one thousand, more,
+A tape, century late; the reason why;
+A bill's no fall; a quiet city's floor
 
-A satellite's own clock had already rolled,
-In August of the year before.
-A later clock, in 2038, is not this night.
+No proof that nothing had been asked; the guess
+Of chips not still; some set the clocks back, called
+That a success; a clock turned back, no less,
+Not mended; and the leap day was not stalled:
 
-The absurdity is a world afraid of two digits,
-And a line bent on the water so a morning could be first.
-The striving is to read the short year forward,
-And not to let the quiet decide
-That the fear was nothing, or the repair entire.
-Hold the Sunday of thanks, which is not the night,
-The three machines in the state he did not name,
-The Tuesday that was a real leap,
-And the two counts of when a century ends.
-Refuse the consolation that a clock is only a number,
-And the consolation that a morning without a ruin
-Has already judged the ones who read the dates.
+The twenty-ninth, a Tuesday; and, by four
+Hundred divided, real; a rule would skip
+A century's; {{c|4505|John Koskinen}}: no more
+Than a handful; {{x|Coast Guard}} archive, a slip;
+
+The operations held; at {{p|Offutt}}, near
+{{p|Omaha}}, a count of stores, caught; and he
+Said the watch ended then; another's clear:
+Till March's end; two closings, not one; see
+
+A satellite rolled the August before;
+A later clock, 'thirty-eight, not this night;
+This book keeps the repair, a triumph, for
+The quiet won by work; the short year, right.
 
 ---
 
