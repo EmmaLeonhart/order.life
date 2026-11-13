@@ -26,8 +26,8 @@ First of {{c|1661|Amnios}}' children who had crept
 Back toward the water from the land's dry way.
 
 But {{c|1244|Mesos}} was not truly {{c|1669|Sauros}}' son—
-His place within the family was unclear,
-Perhaps of {{c|1677|Paraps}}' stock, perhaps of none
+His place within the family was clear:
+Of {{c|1677|Paraps}}' stock he came, and not of one
 That bore two windows, the diapsid gear—
 
 But he had shown the way: that those who sealed
