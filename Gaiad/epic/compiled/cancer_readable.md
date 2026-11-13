@@ -1937,10 +1937,8 @@ At what would break, as beats a waking drum.
 
 Three pillars cracked in fourteen fifty-three—
 Three ancient houses shuddered, groaned, and fell,
-And from the rubble of their masonry
+And from the rubble of their stones set free
 The modern world emerged, still raw from hell.
-
-                                        The first:
 
 In {{p|Gascony}}, where vineyards met the sword,
 The longest war in Christendom reversed
@@ -1950,34 +1948,34 @@ Of {{p|France}} was broken, scattered, and dispersed.
 For one hundred and sixteen years the crown
 Of {{p|France}} had been the prize that England sought—
 From {{p|Crécy}}'s longbow triumph raining down
-To {{p|Agincourt}}'s impossible assault—
+To {{p|Agincourt}}'s impossible onslaught—
 
 The English archer and the English knight
 Had ruled the continent by force of will,
-Had planted their lilies alongside the white
+Had planted their lilies beside the white
 And crimson crosses on the Valois hill.
 
-But Joan had turned the tide. The girl from {{p|Domrémy}},
+But Joan had turned the tide: from {{p|Domrémy}},
 The peasant in her armor, white and sure,
 Had heard the voices and had set them free—
-The siege of {{p|Orléans}} broken, and the cure
+The siege of {{p|Orléans}} broke; and the cure
 
 For {{p|France}}'s long paralysis was faith:
 The Dauphin crowned at {{p|Rheims}} because a girl
 Had said the voices told her so—the wraith
 Of heaven's purpose in a mortal pearl.
 
-They burned her. Joan was ash by fourteen thirty-one,
-But the fire she lit in France burned on, and on—
+They burned her; ash by fourteen thirty-one;
+The flame she lit in France burned on, and on—
 And now, at {{p|Castillon}}, the final gun
-Of the final battle spoke, and England's dawn
+Of the last battle spoke, and England's dawn
 
-In {{p|France}} was over. Talbot, the old lion,
-Rode into the cannon's mouth and died—
-The medieval charge against the iron
-Of the new artillery, the pride
+In {{p|France}} was over. Talbot, the old knight,
+Rode straight into the cannon's mouth and died—
+The old medieval charge against the might
+Of the new artillery, and the pride
 
-Of the mounted knight against the earthwork's trench:
+Of mounted knights against the earthwork's trench:
 The future killed the past at {{p|Castillon}},
 And every acre of the soil of French
 Dominion was restored. The marathon
@@ -1987,32 +1985,30 @@ One pale and windswept harbor on the coast—
 The last remainder of the grand relay
 Of Plantagenet ambition, and the ghost
 
-Of Henry V's great victory at {{p|Agincourt}}
+Of Henry V's victory at {{p|Agincourt}}
 Was laid to rest in {{p|Gascony}}'s red earth.
+The second fall was of another sort,
+And greater still: an ending, and a birth.
 
-                                                 The second fall
-Was greater still—and of a different sort.
-
-On the twenty-ninth of May, behind the wall
-Of {{p|Constantinople}}'s ancient triple ring
-Of stone and ditch and tower—the rampart's call
+The twenty-ninth of May, behind the wall
+Of {{p|Constantinople}}'s old triple ring
+Of stone and ditch and tower, whose long call
 That had held for a thousand years—the spring
 
 Of fourteen fifty-three became the last
 That Roman eyes would see from Roman walls.
+Mehmed the Conqueror, the Ottoman, massed
+Before the {{p|Theodosian}} gates; halls
 
-Mehmed the Conqueror, the Ottoman amassed
-Before the {{p|Theodosian}} gates—the halls
-
-Of his army stretched from shore to shore,
+Of his army stretched out from shore to shore,
 Two hundred thousand strong, the crescent raised
-Above the largest host the {{p|Bosphorus}} bore
+On the largest host the {{p|Bosphorus}} bore
 Since Xerxes crossed the {{p|Hellespont}}. He gazed
 
-Upon the walls that Theodosius had built
-A thousand years before and brought his answer:
+Upon the walls Theodosius built
+Long ages past; and he brought his answer:
 The cannon. Urban's bombard, bronze and gilt,
-Twenty-seven feet of iron-throated cancer
+Twenty-seven feet, the iron cancer
 
 That hurled a ball of stone eight hundred pounds
 Against the ancient masonry—the sound
@@ -2020,145 +2016,124 @@ Of the medieval world within its bounds
 Collapsing, stone by stone, into the ground.
 
 For fifty-three days the bombardment rained,
-And Constantine XI, the last of Rome,
+And Constantine XI, the last one of Rome,
 The final emperor, haggard and drained,
-Defended with eleven thousand from his home
+Held with eleven thousand men his home
 
-Against two hundred thousand. And the wall—
-The wall that had turned back the Avars,
-The Persians, the Arabs, the perpetual
-Assault of every empire beneath the stars—
+Against two hundred thousand. And the wall
+That turned back Avars, Persians, and the host
+Of Arabs, and the long assaults of all,
+A thousand years beneath the stars, their boast—
 
 The wall was breached. The Janissaries poured
 Through the gap at the {{p|Kerkoporta}} gate,
-And Constantine drew his sword and roared
+And Constantine then drew his sword and roared
 Into the tide and met his people's fate:
 
-He died fighting. The last Roman emperor
+He died there fighting. The last Roman lord
 Fell nameless in the breach, his body lost
-Among the common dead—no throne, no splendor,
+Among the common dead—no throne, no sword,
 No burial, no monument—the cost
 
-Of empire's final hour is the anonymity
-Of the last defender at the broken wall.
+Of that last day: the last, without a name,
+Defender at the broken wall. And there
+The {{p|Hagia Sophia}}'s dome, the frame
+Justinian raised to hold the world's prayer
 
-The {{p|Hagia Sophia}}'s vast divinity—
-The dome that Justinian raised to enthrall
-
-The world nine centuries before—received
+Nine centuries before, at last received
 The conqueror's prayer. The cross came down,
 The crescent rose, and Christendom was grieved
-But could not answer. Mehmed wore the crown
+But could not answer; and Mehmed wore the crown
 
-Of the Caesars now—Kayser-i Rum, he styled
-Himself—and the city that Constantine the Great
-Had founded as the new {{p|Rome}} was filed
+Of Caesars now: Kayser-i Rum, he styled
+Himself; the city Constantine the Great
+Had founded as the new {{p|Rome}}, now was filed
 Beneath a different name, a different fate:
 
-{{p|Istanbul}}. The gateway between worlds
+{{p|Istanbul}}, the gate between worlds, the pearl;
 Would speak in Turkish now, and the bazaar
-Would fill the forums where the Senate's curls
+Would fill the forums where the Senate's whirl
 Of rhetoric had echoed near and far.
 
-But the scholars fled. From every library
-And monastery, from the scriptoria
-Where Plato and Aristotle's commentary
-Had been preserved through the euphoria
+The scholars fled the libraries; they bore
+From monastery and from the scribe's hall,
+Plato and Aristotle, kept before
+Through darkness, and through brightness, and through all
 
-And the darkness of a thousand years—
-The Greek philosophers and their careful hands
-Carried westward through their exile's tears
-The manuscripts to {{p|Italy}}'s welcoming lands.
+Of a thousand years; the Greek thinkers' hands
+Bore westward through their exile's grief and pain
+The manuscripts to {{p|Italy}}'s fair lands;
+What they carried was {{x|Renaissance}}'s grain:
 
-And what they carried was the {{x|Renaissance}}.
-The seeds of Plato planted in {{p|Florence}}'s soil,
-The rediscovery of the ancient dance
-Of reason and of beauty—all the toil
+The seeds of Plato, planted in the soil
+Of {{p|Florence}}; and the rediscovered dance
+Of reason and of beauty; and the toil
+Of copyists had bridged the dark's expanse
 
-Of the medieval copyist was the bridge
 That brought the classical across the ridge
-Of the catastrophe—and from the burning
-Of {{p|Constantinople}} came the learning
+Of the disaster; out of the burning
+Of {{p|Constantinople}} there came the bridge
+Of learning to the {{p|West}}, its returning.
 
-That would remake the West.
-
-                              The third fall
-Was quieter—an English wound that bled
-
-Inward. For when the cannon's final call
+The third was quieter, a wound that bled
+Within, in English; for the cannon's call
 At {{p|Castillon}} had silenced England's tread
+In {{p|France}}; the soldiers came home, after all,
 
-In {{p|France}}, the soldiers came home to a king
-Who could not rule. Henry VI, the gentle,
-The pious, the unstable, the flickering
-And fragile monarch—his hold was gentle
+A king who could not rule: Henry VI, mild,
+The gentle and the pious, flickering,
+Unstable, fragile, gripping as a child
+Grips water. He could pray, endow, and bring
 
-As a child's grip on water. He could pray,
-He could endow a college and a chapel,
-But he could not govern, and the day
-His mind collapsed, the York and Lancaster grapple
+A college, chapel into being; but
+He could not govern; and the day his mind
+Collapsed, York, Lancaster were set to cut
+Each other's throats; Richard of York, whose kind
 
-Began. Richard of York, whose blood was nearer
-To the throne than the king's own muddled claim,
-Reached for the crown—and the mirror
-Of England's civil war, that bore no name
+Was nearer to the throne than the king's claim,
+Reached for the crown; and so the civil war
+Of England, which would bear no other name
+But the Roses', white, red, began; and more:
 
-But the colors of the garden's thorny flower,
-Began its thirty years of brother's blood:
-The Roses—white for York and red for the power
-Of Lancaster—the fratricidal flood
+{{p|St Albans}}: the first swords were drawn in hate;
+The royal blood would spill on English ground
+In years to come; but that is later fate;
+And here, mark three, all in a single round.
 
-That would drown a generation's lords.
+Three pillars fell in fourteen-fifty-three:
+The English claim on {{p|France}}; the final bell
+Of Roman rule; and England's peace; and we
+Turn, with the year, the hinge, and say farewell.
 
-At {{p|St Albans}}, in the year the walls of {{p|Rome}}'s
-Last city fell, the first of England's swords
-Were drawn in civil hate—and the genomes
+Honor the year that turned the page, the age,
+From the old world to the world that we knew;
+The cannon spoke, the knight was still; the stage
+Saw the last Caesar die in the breach; through
 
-Of the royal blood would spill on English ground
-For thirty years of treason, murder, coup,
-Until the last Plantagenet was found
-And buried in a car park's narrow loop—
+The scholars' flight, the violent and fair
+Past borne within the future's reach and hand:
+The manuscripts, the learning, and the care
+Of {{p|Athens}} and {{p|Rome}}, to Italian land.
 
-But that is yet to come.
-
-                          Three pillars fell
-In fourteen fifty-three: the English claim
-On {{p|France}}, the Roman empire's final bell,
-And England's peace—all shattered in the same
-
-Turning of the year, the hinge of ages,
-The door between the medieval and the new.
-
-Honor the year that turned the chronicle's pages
-From the old world to the world we knew—
-
-The year the cannon spoke and the knight was silent,
-The year the last Caesar died in the breach,
-The year the scholars fled and the violent
-And beautiful past was carried within reach
-
-Of the future's hand—the manuscripts, the learning,
-The memory of {{p|Athens}} and of {{p|Rome}}
-Borne westward through the exile's burning
-To the Italian cities' welcoming home.
-
-And honor Constantine XI, who could have fled
-By ship across the {{p|Marmara}}'s dark water
+Honor Constantine XI, who could have fled
+By ship across the {{p|Marmara}}'s water
 But chose instead to join his people's dead
 And die as Rome had lived—in the slaughter
 
-Of the last defense, the unnamed grave,
-The emperor who became a common soldier
-At the end, and asked no one to save
-His name—and so his name grew older
+Of the last defense, and the unnamed grave;
+The emperor, a soldier, plain and bold,
+Who at the end asked no one there to save
+His name; and so his name grew great and old
 
-And greater than any tomb could hold:
+And greater than a tomb could ever hold:
 The last of Rome, who fell and was not found,
 Whose sacrifice—anonymous and bold—
 Became the legend written in the ground
 
-Of the broken wall, the unrecovered bone,
-The empire's final heartbeat, proud and lone.
+Of broken wall, of unrecovered bone,
+The last heartbeat of Rome, the proud, the true;
+Who fell, and stood, and died, and stands alone,
+As Rome had lived, so died; the old made new.
 
 
 # Chapter 222: The Eve of Sengoku
