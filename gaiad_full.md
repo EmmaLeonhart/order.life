@@ -47567,109 +47567,75 @@ The lines are linked, the dead, the known, are met.
 
 # Chapter 333: The Morning Trains
 
-This day of the book keeps the {{x|Thanksgiving}}
-Of the {{p|United States}}, the second of the two.
-In the year of the attack, that Thursday
-Was the twenty-third of November.
-The twenty-third of November is also the day
-{{p|Japan}} keeps for a thanks for labor.
-The feast this book has already set down is not retold.
-The attack was the morning of the twentieth of March,
-A Monday.
-The feast is not the trains.
-The thanks for labor is not the trains.
+This day keeps, too, the {{x|Thanksgiving}}, the one
+Of the {{p|United States}}; and, in that year,
+November twenty-third; the thanks, begun
+For labor in {{p|Japan}}, the same, and near
 
-In February 1984 {{c|4487|Chizuo Matsumoto}}
-Began a circle.
-He called it {{x|Aum Shinsen no Kai}}.
-It was a practice of yoga, in {{p|Tokyo}}.
-In June 1987 the circle took the name {{x|Aum Shinrikyo}}.
-The {{x|English}} often says {{x|Supreme Truth}}.
-The Japanese name is a teaching of truth, and a syllable
-A tradition already chanted.
-Do not treat the {{x|English}} as those words.
-He set beside the syllable the god {{c|1340|Shiva}},
+The trains: March twentieth, Monday; the feast
+Not the trains. February, 'eighty-four:
+{{c|4487|Chizuo Matsumoto}}, there as its priest,
+A yoga circle; {{p|Tokyo}}; and more:
+
+Its first name {{x|Aum Shinsen no Kai}}; and then
+{{x|Aum Shinrikyo}}, in June, 'eighty-seven;
+In {{x|English}}, {{x|Supreme Truth}}; the name, again,
+Truth's teaching, a syllable of heaven.
+
+Beside it, then, he set {{c|1340|Shiva}}, a god
 Whom {{p|India}}'s old rite had long since served,
+A joining, too, where many paths had trod;
 And the end our {{x|Christian}} book long reserved;
-A joining of what was already there is not yet a crime.
-The crime was the use.
 
-In August 1989 the government of {{p|Tokyo}}
-Registered the circle as a religious corporation.
-A registration is a line in a register.
-It is not a finding that the teaching was true.
-A legal person is not the man,
-And it is not the people who would die.
+A joining of what was already there
+Is not yet crime; the crime was in the use;
+Not each new teaching is this one; and where
+In 'eighty-nine, a register's excuse:
 
-In November 1989, in {{p|Yokohama}},
-Members of the group killed {{c|4488|Tsutsumi Sakamoto}},
-A lawyer, and his wife {{c|4489|Satoko Sakamoto}},
-And their son {{c|4490|Tatsuhiko Sakamoto}}, a year old.
-The bodies were not found until September of the year
-The trains were attacked.
-A child is not a doctrine.
-A lawyer's work against a group is not a permission.
+A corporation, registered; a line,
+Not truth; and not the man, nor those who'd die.
+That November, {{p|Yokohama}}: the sign
+{{c|4488|Tsutsumi Sakamoto}}, and by
 
-On the night of the twenty-seventh of June, 1994,
-In the city of {{p|Matsumoto}},
-The same substance was released in a street of houses.
-The city is not the man.
-The name on the map and the name he was born with
-Are not the same person.
-The count the courts kept of the dead that night is seven.
-An eighth died in two thousand and eight, after fourteen years, and this book counts her.
-That night is not the Monday.
+His side, {{c|4489|Satoko Sakamoto}}, wife;
+{{c|4490|Tatsuhiko Sakamoto}}, one year;
+Found in September, the trains' year; a life,
+A child, no doctrine; no permission, clear.
 
-On the Monday morning, in {{p|Tokyo}},
-Members of the group released sarin
-On five trains.
-The lines were the {{x|Hibiya}}, the {{x|Chiyoda}},
-And the {{x|Marunouchi}},
-The ones that carry people through {{p|Kasumigaseki}},
-Where the ministries sit.
-Do not make one station the whole of the harm.
-They punctured bags of liquid sarin with the sharpened tips of umbrellas.
-Fourteen died, the last of them in twenty-twenty, after twenty-five years in a bed.
-About six thousand were injured.
-The {{c|4491|Sakamoto}} family and the dead of the trains are kept by name in this calendar.
+June twenty-seventh, 'ninety-four, at night,
+In {{p|Matsumoto}}, houses on a street,
+The same substance; the city's name, not quite
+The man's; courts counted seven; to complete,
 
-Two days later the police raided
-The offices in the city and the compound
-At {{p|Kamikuishiki}}, by the mountain.
-That raid did not find him.
-On the sixteenth of May, a Tuesday,
-In a hidden room of the sixth building,
-They found him.
-The hour the reports give is a quarter to ten.
-He was arrested on the charge of the murders.
-In the group he was called {{c|4492|Shoko Asahara}}.
-The two names are one man.
-An arrest is not a sentence.
-The sentence of a later court is not this Tuesday.
-A hanging on the sixth of July, 2018, is not this spring.
+An eighth, two thousand eight, this book counts too;
+That night, not Monday. Monday morning: trains,
+In {{p|Tokyo}}, five, with sarin; and, through
+The {{x|Hibiya}}, {{x|Chiyoda}} lines; the chains{{fn|And the Marunouchi line.}}
 
-In October the {{p|Tokyo}} court ordered the corporation
-Dissolved.
-An order on a register is not a belief ended
-In the people who kept it.
-Do not bring a later name of the group into this October.
-Do not say every new teaching is this teaching.
-Do not say the learning some of them had was the weapon.
-Do not say the weapon was a proof against learning.
-A substance that can kill was used to kill.
-The use is the act.
+{{p|Kasumigaseki}}, ministries' place;
+The bags of sarin, punctured by the tips
+Of umbrellas; and fourteen died; the trace,
+The last, in twenty-twenty, years' eclipse;
 
-Hold the circle of February,
-The three in {{p|Yokohama}},
-The night in the city that is not the man,
-The Monday trains,
-The Tuesday he was found,
-And the court's October.
-The feast stays on its own day.
-Refuse the consolation that a form of words
-Had already saved the people on the train,
-And the consolation that striking the corporation
-From the register gave the dead back their morning.
+About six thousand hurt; and, by their name,
+The {{c|4491|Sakamoto}} three and the trains' dead
+This calendar keeps. Two days on, raids came
+Offices, {{p|Kamikuishiki}}; instead
+
+They found him not; May sixteenth, Tuesday, found
+Hid in the sixth building; near ten; and then
+Arrested; {{c|4492|Shoko Asahara}}; bound
+One man, two names; arrest, no sentence; then
+
+Later, the court; and hanging, 'eighteen; not
+This spring. October: court dissolved the name
+Of the corporation; but belief, not
+Ended in those who kept it; nor the same
+
+Learning, the weapon; a substance, to kill,
+Was used to kill; the use, the act. The feast
+Stays on its day; the dead, by name, kept still,
+The {{c|4491|Sakamoto}}s, and the child, the least.
 
 
 # Chapter 334: The White Face
