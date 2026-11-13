@@ -41889,85 +41889,90 @@ Grows green; the land heals; rest, where rest belonged.
 
 # Chapter 273: The Closed Country and the Temple Book
 
-The one who waited won the peace, and his grandson Iemitsu shut the door.
-Between 1633 and 1639 the shogunate wrote the edicts:
-No Japanese ship may sail abroad. No Japanese, on pain of death, may come ashore
-From the outside world again. The Portuguese, with their padres and their contradicts,
+The one who waited won the peace; and then
+His grandson, Iemitsu, shut the whole door;
+From thirty-three to thirty-nine, the pen
+Of edicts: no Japanese ship, no more,
 
-Expelled in sixteen thirty-nine. And then
-{{p|Macau}} sent envoys for the trade again;
+To sail abroad; no Japanese come home
+On pain of death; the Portuguese, their priests,
+Their padres gone, no further free to roam,
+Their churches gone, their converts, and their feasts;
+
+Expelled in sixteen thirty-nine, each one.
+{{p|Macau}} sent envoys, so that trade be won;
 they killed sixty-one, sent a few home. Done
 the {{x|Christian}} century; and left the sun
 
-Through four small windows. The Dutch on {{p|Dejima}}, a fan of land
-In {{p|Nagasaki}}'s harbour, watched, and the Chinese merchants in their quarter;
-{{p|Korea}} through the lords of {{p|Tsushima}}; the Ryūkyū kingdom's hand
-Through {{p|Satsuma}}; the Ainu of the north through {{p|Matsumae}}. The water
+Through four small windows: Dutch, {{p|Dejima}}'s land
+In {{p|Nagasaki}}; Chinese merchants' street;
+{{p|Korea}} through {{p|Tsushima}}'s lords; the hand
+Of Ryūkyū through {{p|Satsuma}}, to meet;
 
-Was a wall with four gates. Later they would call it sakoku,
-The locked country. It was not locked. It was watched.
-And inside, the watching went into every house. The Taikō
-Had measured the fields. Now the souls were notched
+The Ainu north through {{p|Matsumae}}; the sea
+A wall with four gates: sakoku, the name
+Of the locked country. Not locked: watched, the key;
+And in each house the watching went; the same
 
-In a book. After the {{x|Christian}} rising at {{p|Shimabara}}, in 1637,
-Which the next day of this book will tell, the shogunate decided
-That every person in {{p|Japan}} must prove, each year, under heaven,
-That they were not a {{x|Christian}}. And the proof was provided
+As when the Taikō measured fields, now souls
+Were notched in books; and {{p|Shimabara}}'s revolt
+In thirty-seven, {{x|Christian}}; and the rolls
+Were ordered: each year, prove you're not; the bolt
 
-By the temples. Every household was made the parishioner, the *danka*,
-Of a {{x|Buddhist}} temple, and the temple certified each spring
-That its families were {{x|Buddhist}}, and the village headman, the bookkeeper of the mura,
-Wrote it in the *shūmon aratame chō*, the register of the inquiry: the thing
+Was temples: each house, as *danka*, was bound
+To a {{x|Buddhist}} temple, which, in each spring,
+Certified them {{x|Buddhist}}; the headman wound
+Into *shūmon aratame chō* the thing:
 
-Every person in the land had to be written in. Name, age,
-Household, relation to the head, the temple, the sect.
-Births and deaths and marriages and servants hired, the page
-Updated every year. By the 1670s the whole realm, correct
+Each soul was written in it: name and age,
+Household, relation to the head, the sect,
+The temple; births, deaths, marriages; the page
+Renewed each year; by seventies, correct
 
-To the last fisher's child, was in the books. Some twenty-five million people.
-And in {{p|Kyūshū}}, around {{p|Nagasaki}}, every {{x|New Year}}, the people
-Were made to step on a bronze image of the crucified, the fumi-e, the simple
-Test of the foot: tread on the Christ, or the steeple
+To the last fisher's child; some twenty-five
+Million, in books. In {{p|Kyūshū}}, each year's start,
+Folk stepped on the fumi-e: to survive,
+Tread on the Christ, or else the hidden heart
 
-Of the family's hidden faith falls on them all. They stepped.
-Hold that. Mothers stepped on the Mother of God and went home and wept
-And asked forgiveness in a hidden room. The register kept
-Their names as Buddhists, and their secret kept
+Of the family falls. They stepped. Hold that:
+Mothers stepped on the Mother of God, wept
+At home, asked pardon in a room, and sat;
+The register kept them Buddhists; and kept
 
-Itself. And the temples: they became the arm of the state,
-Its clerks, its census-takers, its proof of loyalty.
-They grew rich on the funerals every family had to celebrate
-At its temple, by law. Buddhism in {{p|Japan}} became, in its royalty
+Their secret, too. The temples, in that state,
+Became its clerks, census, loyalty's proof,
+Grew rich on rites that all must celebrate
+At their own temple, by the law; the roof
 
-And want, the keeper of the dead: the faith
-Of graves and tablets and the days. The cost
-Came two hundred years later, when the new state, the wraith
-Of the old resentment rising, smashed the temples, and the lost
+Of {{x|Buddhist}} {{p|Japan}} kept the dead, the rite
+Of graves and tablets and the days. Here, see
+The book with both eyes, this day: in plain sight,
+A cage, census of conscience; and the key
 
-Statues filled the rivers. That is another chapter, in Libra.
-Here, on this day, see the book with both eyes.
-It was a cage. It was a census of conscience, the fibre
-Of a police state woven into every village. And it lies
+Of a police state in each village; yet
+On historians' desks it lies, the best
+Record of a people's lives ever set
+Down in the old world, families, each year's test;
 
-On the historian's desk today as the greatest record of a people's lives
-Ever kept in the old world: every family, every year, for two centuries.
-The demographers read in it how long people lived, how wives
-Married and left and returned, how many children, the plenties
+Demographers read the lifespans, how wives
+Married and left, returned, how many born,
+The famines, mothers' ages, servants' lives,
+The names of millions else unnamed, forlorn;
 
-And the famines, the age of mothers, the servants who came and went.
-The names of millions of ordinary people who otherwise would have no name.
-It was made to find the hidden. It found everyone. The intent
-Was the cage. The gift is the record. They are the same.
+It was made to find the hidden; found all;
+The intent was cage; the gift, record: same.
+That's the register's nature, and the call
+Of this book too: each list that keeps a name
 
-That is the register's whole nature, and this book's too:
-Every list that keeps a name can be used to hunt the named.
-Keep the names. Keep the lists. And be one of the few
-Who will not let the list become a cage. Be ashamed
+Can hunt the named. Keep names; keep lists; be few
+Who let no list become a cage. The tread
+Upon the image: grieve; and give thanks, too,
+For the page kept of one among the dead:
 
-For the foot on the image, and grateful for the page
-That says a fisher's daughter lived, and married, and had two sons, and died,
-In a village whose name you would never have known. The age
-Of the locked country kept her. Read her. She is on our side.
+A fisher's daughter lived, and wed, and had
+Two sons, and died, in villages unknown
+To you; the locked country kept her; be glad,
+Read her: she is on our side, and our own.
 
 
 # Chapter 274: Our Hearts Are the Same as Yours
