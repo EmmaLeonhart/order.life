@@ -32917,120 +32917,75 @@ Who stayed, the Sunni, kept the custom known.
 
 # Chapter 193: Journey to the West
 
-In the Tang Dynasty of {{p|China}},
-the monk Xuanzang set out west
-in 629 to find the original
-{{x|Sanskrit}} sutras, his life's one quest.
+In the Tang, the monk Xuanzang set out west,
+Six-twenty-nine, to find the sutras' source
+In {{x|Sanskrit}}, for his life's one single quest:
+The words in {{x|Chinese}} had gone off their course.
 
-He was unhappy with the Chinese translations.
-He felt the dharma had been transmitted poorly.
-He applied for permission to leave {{p|China}}.
-It was denied. He went illegally, surely.
+They would not let him go; he went alone,
+Against the law; seventeen years he went,
+{{p|Central Asia}}, {{p|Afghanistan}}, unknown,
+To {{p|India}}, and at Nalanda spent
 
-For seventeen years he traveled through
-{{p|Central Asia}}, {{p|Afghanistan}}, {{p|India}},
-studying at Nalanda the great university,
-debating with scholars in every region.
+His years among ten thousand monks, the hall
+Of learning: logic, medicine, and thought;
+And mastered {{x|Sanskrit}}, and the schools, and all
+The great debates; and when they would have brought
 
-Nalanda was the greatest Buddhist university
-in history at that time, ten thousand monks,
-thousands of professors, vast libraries,
-teaching logic, philosophy, medicine, thunks.
+Him to be head there, he went home instead,
+Six-forty-five, with six hundred and more
+Books on twenty-two horses; and the head
+Of {{x|Tang}}, Taizong, welcomed him at the door.
 
-Xuanzang mastered {{x|Sanskrit}}, the six Buddhist schools,
-debated the {{x|Mahayana}} against the {{x|Theravada}},
-was offered leadership of Nalanda itself,
-but chose to return home to his own data.
+He spent his life in turning them: the scrolls,
+Thirteen hundred; Yogacara, the mind
+Alone, he brought; and wrote, of all the goals
+And kingdoms of the west, the Records, signed,
 
-He returned in 645 with 657 {{x|Sanskrit}} texts
-loaded on twenty-two horses across the passes.
-The emperor Taizong welcomed him back
-despite the illegal departure from the masses.
+Of Western Regions: rice and rite and sage,
+The customs of each city; and before
+Him, {{p|Bamiyan}}'s Buddhas stood, the great age
+Of stone cut from the cliff; they stand no more.
 
-He spent the rest of his life translating.
-He translated 1,330 scrolls of sutras.
-He introduced Yogacara philosophy,
-consciousness-only school, into Chinese rostra.
+And on the road, the Monkey King went too,
+Sun Wukong, born from stone, who learned the arts
+Of {{x|Dao}} and Buddha, ate the peaches through,
+Made havoc up in heaven, and, in parts,
 
-He wrote the Great Tang Records on the Western Regions,
-a travelogue of the kingdoms he had visited,
-which became a precious source for historians
-when those kingdoms vanished, undocumented otherwise.
+Was pinned beneath a mountain; and was freed
+To guard the monk, Tripitaka, a band
+Of gold around his head, which, at the need,
+The monk's spell tightened, by his own command.
 
-{{p|Bamiyan}}'s giant Buddha statues — he saw them
-when they stood complete, fifty and thirty-five meters,
-cut into the cliff face of {{p|Afghanistan}}.
-Destroyed by Taliban in 2001, their lintels.
+And Pigsy, Zhu Bajie, the lazy pig;
+And Sandy, Sha Wujing, the river's own;
+The dragon prince, the horse; and, small and big,
+Eighty-one trials met them, which were thrown
 
-But we know what they looked like from Xuanzang.
-We know the kingdoms, the cities, the sages,
-the quality of rice at particular places,
-the customs of pilgrims on various pages.
+By demons in disguise, the women's land,
+The flaming mountains, rivers made of sand;
+They reached {{p|India}}, took the sutras' hand,
+And, coming home, were all enlightened, and
 
-Nine hundred years later, in the {{x|Ming}} dynasty,
-Wu Cheng'en wrote Journey to the West,
-the great fantasy novel based on Xuanzang's trip,
-with supernatural companions along for the test.
+Each trial was a hindrance of the heart,
+Made outward, to be passed; and so the way
+Was walked, with friends, and every trial a part,
+To bring the teaching home, and make it stay.
 
-Sun Wukong, the Monkey King, born from stone,
-a trickster mastering Daoist and Buddhist arts,
-who ate the peaches of immortality,
-caused havoc in heaven, was imprisoned with hard arts.
+And in the {{x|Tang}} the Buddha's way was theirs:
+Chan rose with Huineng, the sixth patriarch,
+Awakening at once; and Pure Land's prayers
+To Amitabha, of the west, would mark
 
-He was freed to accompany Xuanzang
-(called Tripitaka in the novel, the monk)
-with the golden headband that could constrict
-if the monk chanted the spell's {{x|Sanskrit}} funk.
+All those who called his name. And {{p|Chang'an}} stood
+The greatest city of the world; to where
+There came Persians, Arabs, Sogdians, who would
+Trade, study, live; Koreans, {{p|Japan}}'s heir.
 
-Pigsy (Zhu Bajie), the lazy glutton pig-man,
-Sandy (Sha Wujing), the stoic river demon,
-and the dragon prince who became the horse —
-four disciples of the monk, the protection demon.
-
-They encountered eighty-one trials on the road,
-demons in disguise, kingdoms of women,
-volcanoes of flaming mountains, rivers of sand.
-They reached {{p|India}}, collected sutras, were even
-
-granted enlightenment upon their return.
-The novel is comedy, satire, theology,
-one of the {{x|Four Classical Novels of China}},
-beloved for centuries across geography.
-
-It has been adapted as opera, film, television,
-anime, video game, manga without count.
-Son Goku of {{x|Dragon Ball}} is a direct
-descendant of Sun Wukong in amount.
-
-Xuanzang himself is historical.
-Sun Wukong is fictional. But both together
-represent the deep Chinese relationship
-with {{x|Buddhism}} — Chinese adaptation of weather.
-
-The novel's implicit theology: enlightenment
-requires the journey, the trials, the companions.
-The demons are inner obstacles externalized.
-The goal is to carry the teaching back to one's nation.
-
-Chinese {{x|Buddhism}} had become by the {{x|Tang}}
-fully domesticated. Chan ({{x|Zen}}) was emerging
-under Huineng the Sixth Patriarch, whose
-sudden enlightenment school was surging.
-
-Pure Land {{x|Buddhism}} was expanding too,
-the devotional school of Amitabha,
-the Buddha of the {{p|Western Paradise}},
-saving all who called his name in awe.
-
-{{x|Tang}} {{p|China}} was the world-civilization of its time.
-{{p|Chang'an}} was the world's largest city.
-Persians, Arabs, Sogdians, Japanese, Koreans
-came to study, trade, and live in the pretty.
-
-The {{x|Tang}} would be the golden age
-that all subsequent Chinese dynasties measured themselves against.
-The model to emulate. The high water mark.
-The era that even now is most well-fenced.
+So honor Xuanzang, who once walked the west,
+The Monkey King, who guarded him; and Tang,
+The golden age, the high mark and the best,
+Where all the Buddha's teaching came and rang.
 
 
 # Chapter 194: The Islamic Golden Age
