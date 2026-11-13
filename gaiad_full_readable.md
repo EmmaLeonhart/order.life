@@ -34332,90 +34332,70 @@ and that is why they fought for it by sword.
 
 # Chapter 210: The Kenmu Restoration
 
-In 1333, Emperor Go-Daigo of {{p|Japan}}
-led a revolt against the Kamakura Shogunate.
-With the help of disaffected samurai —
-notably Ashikaga Takauji and Kusunoki Masashige, state
+In thirteen-thirty-three, Go-Daigo rose,
+Emperor; and the Shogunate he fought;
+With samurai who turned: among all those,
+Ashikaga Takauji, who brought
 
-turned against state. The Hōjō regents fell.
-{{x|Kamakura}} was captured. The shogunate ended
-after a century and a half of warrior rule.
-Go-Daigo entered {{p|Kyoto}} in triumph, ascended.
+And Kusunoki Masashige came too;
+The Hōjō fell; {{x|Kamakura}} was won;
+A hundred fifty years of warriors, through;
+Go-Daigo entered {{p|Kyoto}}; it was done.
 
-He attempted to restore direct imperial rule,
-the Kenmu Restoration (1333-1336). He ruled
-as his own prime minister, made appointments personally,
-distributed rewards to loyalists, old-fashioned tooled.
+Then there came the Kenmu Restoration:
+His own first minister, he gave the lands
+And posts; but he favored court and station,
+Above the samurai, who'd won; their hands
 
-But he favored court aristocrats over the samurai
-who had actually won him the throne. The samurai
-were unhappy. Many had expected new estates
-from the confiscated Hōjō lands, the dried.
+Had hoped for Hōjō lands, and they were spurned;
+Takauji, who'd the Hōjō betrayed,
+The Hōjō, now Go-Daigo; and he turned,
+In thirteen-thirty-six, took {{p|Kyoto}}; made
 
-Ashikaga Takauji, who had betrayed the Hōjō,
-betrayed Go-Daigo next. In 1336, he took
-{{p|Kyoto}}, installed a rival emperor from the junior
-line of the imperial family, his chosen hook.
+A rival of the junior line his own;
+And Go-Daigo fled to {{p|Yoshino}}, south,
+Up in the mountains, and he claimed the throne;
+Two courts, for fifty-six years, mouth to mouth:
 
-Go-Daigo fled to {{p|Yoshino}} in the mountains south
-of {{p|Kyoto}} and continued to claim legitimacy there.
-For nearly sixty years, {{p|Japan}} had two imperial courts,
-the Northern ({{p|Kyoto}}, Ashikaga's) and Southern ({{p|Yoshino}}), air.
+The Ashikaga's North, in {{p|Kyoto}}'s halls;
+The South at {{p|Yoshino}}; Nanboku-chō,
+{{x|Northern and Southern Courts}}; and each one calls
+Itself the line; the samurai chose, so.
 
-This is called the Nanboku-chō period (1336-1392),
-the {{x|Northern and Southern Courts}}. Each claimed to be
-the legitimate continuation of the imperial line.
-Samurai families chose sides based on strategy.
+Kusunoki Masashige, the most true
+Of all Go-Daigo's generals, who'd won
+By ambush against the many, and knew
+At {{x|Minatogawa}} he would be undone,
 
-Kusunoki Masashige had been Go-Daigo's most loyal general,
-a military genius who had defeated much larger forces
-through guerrilla tactics. He foresaw defeat at
-the {{x|Battle of Minatogawa}} but went to fight his courses.
+And fought; and after it, with his brother,
+He took his life, the warrior's way; his son
+Had sworn to fight; he, above all other,
+Became the emblem of the loyal one.
 
-He committed ritual suicide with his brother after the battle,
-having extracted the promise from his son to continue the fight.
-Kusunoki became the emblem of loyal service
-to the emperor against all odds, warrior of light.
+So Takauji made his Shogunate
+At {{x|Muromachi}}, in {{p|Kyoto}}; but weak
+Than {{x|Kamakura}}'s; its writ, its state,
+Reached central {{p|Japan}}; the shugo would seek
 
-(In modern {{p|Japan}}, Kusunoki was revived as the model
-samurai for the {{x|Meiji}} and {{x|Showa}} imperial ideology,
-the loyal servant who dies for the Emperor.
-His statue stands before the imperial palace, mythology.)
+Their own; the shogun's word they would ignore.
+And under them the Zen grew; and the art
+Of tea, the sadō, was refined; and more,
+The Noh, by Zeami made, and set apart;
 
-Takauji established the Ashikaga Shogunate (1336-1573)
-based in the {{x|Muromachi}} district of {{p|Kyoto}}.
-It was weaker than the Kamakura Shogunate,
-unable to control regional warlords' potento.
+And ink painting, the sumi-e, there came
+From {{x|Song}} {{p|China}}; thirteen-ninety-seven,
+The Kinkaku-ji, in gold leaf's bright flame,
+Built by Yoshimitsu, rose to heaven;
 
-The Ashikaga ruled for over two centuries, but
-their real power extended only to central {{p|Japan}}.
-The rest was governed by regional warlords (shugo)
-who increasingly ignored the shogun's plan.
+And Yoshimasa, later, built with art
+The Ginkaku-ji, subtler, and less bright,
+The {{p|Silver Pavilion}}, the quiet heart;
+And all of it beneath a failing might.
 
-The period was culturally rich despite political weakness.
-Zen Buddhism flourished under Ashikaga patronage.
-The tea ceremony (sadō) was refined by
-Sen no Rikyū later, aesthetic of age.
-
-The arts of Noh drama were codified by
-Zeami Motokiyo in the late fourteenth century.
-Ink painting (sumi-e) was imported from {{x|Song}} {{p|China}}.
-Japanese arts reached sophisticated refinery.
-
-The Kinkaku-ji ({{p|Golden Pavilion}}) was built
-by Ashikaga Yoshimitsu in 1397, covered in gold leaf.
-The Ginkaku-ji ({{p|Silver Pavilion}}) was built
-by Yoshimasa later, more subtle belief.
-
-The Kenmu Restoration had failed, but the model
-of imperial restoration would inspire later movements.
-The {{x|Meiji Restoration}} of 1868 would invoke
-{{x|Kenmu}} as its direct precedent improvements.
-
-Go-Daigo would be remembered as the emperor
-who attempted the impossible — to restore
-direct imperial rule in an age when it was impossible.
-A failed restorer, but a heroic figure lore.
+The Kenmu Restoration failed; and so
+Go-Daigo is remembered as the brave
+Who tried what could not be, so long ago:
+Restorer, failed, heroic, to the grave.
 
 
 # Chapter 211: The Black Death
