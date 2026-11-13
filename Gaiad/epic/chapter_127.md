@@ -90,7 +90,7 @@ Of living architects: the largest brain,
 Proportioned to the body, the great height
 That primates had achieved. And tools: the chain
 
-Of evidence a non-human conceived
+Of craft, by which a non-human conceived
 The world as material to be shaped:
 The chimpanzee's own forebear, who achieved,
 Picking a stone, a stick; a leaf he draped
