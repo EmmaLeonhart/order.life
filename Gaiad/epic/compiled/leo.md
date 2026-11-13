@@ -234,197 +234,115 @@ Divided, as the people learned to go.
 
 # Chapter 227: Division of Tongues
 
-And then the silence fell between them.
+And then the silence fell between them: not
+The silence of the empty land, but kin
+Who could not greet or chide, for they forgot
+The other's tongue; and words that once had been
 
-Not the silence of the empty land—
-The silence of the cousin who could not condemn
-Or greet, because the contraband
+The common coin, the word for water, clean,
+Had shifted, vowel, consonant, in turn,
+Until the old man's speech, with years between,
+Was strange; the grandchild's ear could not discern.
 
-Of meaning had been lost between
-The two camps on the river's opposite banks:
-The word for "water" that had been the clean
-And universal currency—the ranks
+Ten thousand years before our era, great
+Diversity of tongues began to grow
+Across the hemispheres; and distance' weight
+Pressed on the tongue as glacier on stone, slow,
 
-Of shared vocabulary—had shifted,
-Vowel by vowel, consonant by consonant,
-Until the grandfather's speech had drifted
-Beyond the grandchild's recognizant
+Relentless; stressed and unstressed, ground and worn
+Into new speech that neither side could know;
+The same divergent storms that once had torn
+{{p|Proto-Indo-European}}; and so
 
-And puzzled ear.
+Into {{c|3411|Sanskrit}}, {{c|3349|Greek}}, {{c|3388|Latin}}, {{c|3412|Germanic}},
+Worked on the first {{c|3404|Americans}}' one speech;
+Here the walls were greater: the volcanic
+{{p|Rocky Mountains}}, the {{p|Amazon}}'s green reach,
 
-                  Ten thousand years
-Before the common era, the great
-Diversification of the hemispheres'
-Languages began—the weight
+Its labyrinth; the {{p|Atacama}}'s sand,
+Rainless for centuries; the dramas built
+Walls no human could cross; and, in each land
+Behind its wall, a tongue grew to the hilt.
 
-Of geographic separation pressed
-Upon the tongue like a glacier on the stone:
-Slowly, inexorably, the stressed
-And unstressed syllables were overblown
+{{c|3413|Na-Dené}}, the great northern family's way,
+Rang to the {{p|American Southwest}}'s floor
+From far {{p|Alaska}}, from the {{c|3414|Tlingit}} bay;
+So distinct from its neighbors that it bore
 
-And ground and polished into new
-And mutually incomprehensible forms.
+The mark of its own crossing, the second,
+From {{p|Asia}}, after the first; and they came
+Their grammar and their sound, by none reckoned;
+Their own, not of the southern tongues' own frame.
 
-The process was as old as language knew
-Itself—the same divergent storms
+{{c|3415|Algonquian}}, vast and whispering kin,
+Family of the eastern woods and shore
+Of the {{p|Great Lakes}}; and from the {{c|3416|Cree}}, within
+The northern birch, to {{c|3417|Blackfoot}} plains of yore,
 
-That split {{p|Proto-Indo-European}} into
-{{c|3411|Sanskrit}} and {{c|3349|Greek}} and {{c|3388|Latin}} and {{c|3412|Germanic}}
-Worked their patient alchemy onto
-The first Americans' volcanic
+Each one a thousand years of parting's yield
+From the first ancestor, whose words had cracked
+On the forest path; the caribou's field
+Drew one band north; the deer drew south; the fact
 
-And unified speech—but here the distances
-Were greater, the barriers more absolute:
-The {{p|Rocky Mountains}}' vast insistences,
-The {{p|Amazon}}'s impassable and mute
+Of parting. {{c|3418|Siouan}} poured across the plains,
+{{p|Missouri}}'s mouth to {{p|Carolinas}}' east;
+The {{c|3419|Lakota}}, {{c|3420|Dakota}}, {{c|3421|Crow}}; their strains
+Shaped by the open sky, the bison's feast,
 
-Green labyrinth, the {{p|Atacama}}'s
-Rainless centuries of sand—
-The continent's geographic dramas
-Built walls that no human band
+Wind-carried syllables across the grass.
+{{c|3422|Uto-Aztecan}}: the long thread that ran
+From {{p|Idaho}}'s volcanic shelf, to pass
+Down to {{p|Mexico City}}'s urban span:
 
-Could easily traverse, and behind each wall
-A language grew alone.
+{{c|3423|Shoshone}} and {{c|3424|Comanche}} to the north,
+The {{c|3425|Hopi}} in their mesa towns; and far,
+The {{c|3426|Nahuatl}}-speaking folk, pouring forth,
+The {{c|3427|Aztec}}'s pyramids, where temples are;
 
-                            {{c|3413|Na-Dené}}—
-The great northern family whose call
-Echoed from {{p|Alaska}}'s {{c|3414|Tlingit}} bay
+One family, three thousand miles in length,
+The proof of connection running beneath
+The multitude of surface; and in strength,
+{{c|3428|Mayan}}, the glyph, the written word's own wreath,
 
-To the {{p|American Southwest}}'s canyon floor:
-A language family so distinct
-From its neighbors that it bore
-The evidence of a separate and linked
+The only script the {{p|Americas}} made:
+A syllabary, angular, in stone,
+And painted on the codex page; it bade
+The first and only reading, all its own.
 
-Migration—a second crossing from {{p|Asia}},
-Later than the first, the {{c|3413|Na-Dené}}
-Speakers carrying their aphasia
-Of the southern tongues, their own résumé
+{{c|3429|Quechuan}}: tongue that nursed the {{c|3403|Inca}}'s reach
+From {{p|Quito}} to {{p|Santiago}}, the road's
+Own language; and the knot, the quipu's speech,
+Accounting; and the lingua franca's loads
 
-Of grammar and of sound.
+Down all {{p|South America}}'s spine; and how
+Rule without writing? By the knot, the string
+Of colored cord, encoded; and, somehow,
+The fingers read the threads, the dangling thing.
 
-                              {{c|3415|Algonquian}}—
-The vast and whispering family
-Of the eastern woodlands and the guardian
-Of the {{p|Great Lakes}}' shore, the calamity
+Hundreds more: {{c|3430|Penutian}}, {{c|3431|Hokan}}'s line
+On the {{p|Pacific}} coast; and {{c|3432|Tupi}}, down
+The {{p|Amazon}}; and {{c|3433|Chibchan}} on the spine
+Of {{p|Central America}}'s tangled crown:
 
-Of whose diversity stretched from the {{c|3416|Cree}}
-In the subarctic birch-forest
-To the {{c|3417|Blackfoot}} on the windswept free
-And open plain—each one the harvest
+Six hundred tongues at contact, and before,
+A thousand; and their unity had broke
+Like a stone by the knapper's hand; and more,
+Each piece, a cutting edge, a perfect stroke,
 
-Of a thousand years of separation
-From the common ancestor whose words
-Had fractured in the isolation
-Of the forest path, the herds
+A tool of thought. Honor the tongues: each one
+A world; each grammar a philosophy;
+Each lost tongue is a flag furled, and done,
+A sealed prophecy none can read; for see:
 
-Of caribou that drew one band north
-While another followed the deer south.
+A tongue dies; a library burns; the creed,
+The dream, the daily naming of the world
+Goes silent; and the silence, as decreed,
+The saddest flag that ever was unfurled
 
-{{c|3418|Siouan}}—the family that poured forth
-Across the {{p|Great Plains}} from the mouth
-
-Of the {{p|Missouri}} to the {{p|Carolinas}}'
-Eastern piedmont—the {{c|3419|Lakota}},
-The {{c|3420|Dakota}}, the {{c|3421|Crow}}—the finer
-And more lyrical iota
-
-Of the plains-speech, the language shaped
-By the grassland's open sky
-And the bison's herd, the draped
-And wind-carried syllables that fly
-
-Across the prairie like the grass itself.
-
-{{c|3422|Uto-Aztecan}}—the thread that ran
-From {{p|Idaho}}'s volcanic shelf
-To {{p|Mexico City}}'s urban span:
-
-The {{c|3423|Shoshone}} and the {{c|3424|Comanche}} in the north,
-The {{c|3425|Hopi}} in their mesa villages,
-The {{c|3426|Nahuatl}}-speaking peoples pouring forth
-To build the {{c|3427|Aztec}} empire's pillages
-
-And pyramids—one language family
-Stretching three thousand miles of latitude,
-The proof that the {{p|Americas}}' homily
-Of connection ran beneath the multitude
-
-Of surface difference.
-
-                        {{c|3428|Mayan}}—
-The language of the glyph, the written
-Word that no other American clan
-Had mastered—the bitten
-
-And angular syllabary carved
-In limestone, painted on the codex page,
-The only indigenous script that starved
-The illiteracy of the age
-
-And gave the {{p|Americas}} their first
-And only pre-Columbian reading.
-
-{{c|3429|Quechuan}}—the tongue that nursed
-The {{c|3403|Inca}} empire's speeding
-
-And administrative reach from {{p|Quito}}
-To {{p|Santiago}}—the language of the road,
-The language of the quipu's veto
-And accounting, the mother-lode
-
-Of Andean speech that the {{c|3403|Inca}}
-Spread as the lingua franca of the spine
-Of {{p|South America}}—the stinker
-Of a problem for the sign
-
-And the spoken word: how does an empire
-Govern without writing? With the knot—
-The quipu's colored string and wire
-Of encoded information, the plot
-
-Of the accountant's fingers reading
-Data from the dangling threads.
-
-And hundreds more—the ceding
-Of one tongue to many, the shreds
-
-Of {{c|3430|Penutian}} and {{c|3431|Hokan}} on the {{p|Pacific}} coast,
-{{c|3432|Tupi}} spreading down the {{p|Amazon}},
-{{c|3433|Chibchan}} threading the volcanic post
-Of {{p|Central America}}'s phenomenon
-
-Of narrow land and tangled speech—
-Six hundred languages at contact,
-Perhaps a thousand once, within the reach
-Of two continents whose compact
-
-And original unity had shattered
-Like a stone struck by the knapper's hand—
-Each fragment beautiful, each scattered
-Piece a cutting edge, a stand-
-
-Alone and perfect instrument of thought.
-
-Honor the tongues—the six hundred
-And more that the {{p|Americas}} wrought
-From the first migration's hundred
-
-And unified speech: each one a world,
-Each grammar a philosophy,
-Each lost language a flag furled
-Forever, a sealed prophecy
-
-That no one now can read—
-For when a language dies, a library
-Burns, and the catalog of the creed
-And the dream and the ordinary
-
-Daily naming of the world
-Goes silent—and the silence
-Is the saddest flag ever unfurled
-Over the ruins of the alliance
-
-Between the human mind and the human tongue.
+Over the ruin of the alliance
+Between the human mind and human tongue;
+Six hundred voices, a thousand's science,
+Divided, as the hemisphere was young.
 
 
 # Chapter 228: Norte Chico
