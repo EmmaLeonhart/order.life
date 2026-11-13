@@ -1703,135 +1703,80 @@ The sun and sea, the kami and the gold.
 
 # Chapter 184: Elagabalus
 
-The {{x|Severan}} dynasty held {{p|Rome}}
-in the early third {{x|Common Era}},
-and produced one of the strangest emperors
-that ever held imperial ear.
+The {{x|Severan}} house held {{p|Rome}}; in its line,
+In the third century, there came the most
+Strange of them all, out of the sun's own shrine,
+{{p|Emesa}}'s priest, from the {{p|Syrian}} coast.
 
 {{c|2570|Elagabalus}}, aged fourteen, was made
-Emperor in two-eighteen, and conveyed
-From {{p|Emesa}} the rite he served by birth
+Emperor in two-eighteen; and from birth
+The rite he served, from {{p|Emesa}} conveyed
 To {{p|Rome}}, the sun his city kept on earth.
 
 He was the high priest by descent of one,
-{{c|2571|Elagabal}}, the city's god, the sun,
-A black stone in a temple. {{p|Rome}} had known
-The same sky under {{c|101|Jupiter}}'s own throne,
+A black stone in a temple, worshipped, shown,
+{{c|2571|Elagabal}}, the city's god, the sun;
+{{p|Rome}} knew that sky under {{c|101|Jupiter}}'s throne,
 
 With {{c|97|Mars}}, the {{x|Capitoline}} three. The fight
-Was whose priest held it, and whose house, whose rite.
-He brought the stone to {{p|Rome}} itself, to stand
+Was whose priest held it, and whose house would stand;
+He brought the stone to {{p|Rome}} itself, its rite
 Above the other altars of the land.
 
-He tried to marry it to {{c|1995|Athena}}.
-When that failed, he tried {{c|2572|Astarte}}.
-He held processions with the stone
-in a chariot, barefoot, sweaty, hardly.
+He would wed the stone to {{c|1995|Athena}}, then
+{{c|2572|Astarte}}; led it in his car,
+Through all the streets, and barefoot, before men,
+Ran backward, sweating, guiding it, the star.
 
-He is alleged — with what truth we
-do not fully know — to have done many things:
-married a {{x|Vestal Virgin}}, violating
-the sacred celibacy that the office brings;
+He wed a {{x|Vestal Virgin}}, breaking through
+Her vow; and many wives; and, as a bride,
+In woman's dress, a charioteer's; too,
+Would be called lady; and he sought, beside,
 
-married several times to women,
-married a charioteer in woman's dress,
-preferred to be called "lady" by servants,
-sought surgeons to perform a change of sex.
-
-These accounts are true at heart,{{fn|The accounts of Elagabalus come from Cassius Dio and Herodian, who were hostile to him, and from the later Historia Augusta, which is often unreliable.}}
-though hostile pens had spun
-them after the fall, and the life
-shines through what the enemies had done.
-
-Some see in {{c|2570|Elagabalus}}
-an early transgender figure,
-the first recorded ruler who
-sought physical transformation with rigor.
-
-Others see only slander, the
-standard tropes of {{p|Roman}} invective
-used to destroy reputations
-of rulers who proved ineffective.
+The surgeons, to be made a woman whole.
+These accounts are true at heart, even though{{fn|The accounts of Elagabalus come from Cassius Dio and Herodian, who were hostile to him, and from the later Historia Augusta, which is often unreliable.}}
+The hostile pens had spun them; and the soul,
+The life, shines through it, so that we can know.
 
 The poem notes: whatever was the truth,
-The quarrel was not gods but priests: the youth
-Who set his city's priesthood over all
-Of {{p|Rome}}'s own priesthoods was the one to fall.
+The quarrel was not gods but priests: the one
+To fall was he who set, though but a youth,
+His city's priesthood over {{p|Rome}}'s each one.
 
 The senate's houses, those who held the rites
-Of {{p|Rome}}'s own altars, would not bear the slights.
-The {{x|Praetorian Guard}} slew him, eighteen,
+Of {{p|Rome}}'s own altars, would not bear; eighteen,
+The {{x|Praetorian Guard}} slew him, for slights,
 Dragged him through streets, and threw him, as unclean,
 
 Into the {{p|Tiber}}, with his mother, laid
-The sewer for a tomb. The stone, conveyed
-Back home to {{p|Emesa}}, left {{p|Rome}}'s own sun
-In {{p|Rome}}'s own priests' hands: the same rite, still one.
+The sewer for a tomb. The stone was run
+Back home to {{p|Emesa}}, and so conveyed
+{{p|Rome}}'s sun to {{p|Rome}}'s own priests: the same rite, one.
 
 But something had been planted: one sun's rite
-From {{p|Syria}}, had held the throne's own light
-Briefly: one sun at the empire's head,
+From {{p|Syria}} had held the realm's own head,
+So briefly: one sun, held the throne's own light,
 Kept by one {{x|Syrian}} house in {{p|Rome}}'s stead.
 
-This was the first attempt to make
-solar monotheism {{p|Rome}}'s state cult.
-It failed under {{c|2570|Elagabalus}}.
-It would succeed under {{c|2573|Aurelian}}'s result.
-
-{{c|2573|Aurelian}} fifty years later,
-after the {{x|Crisis of the Third Century}},
-would make {{c|2554|Sol Invictus}} the state god,
-the "{{c|2574|Unconquered Sun}}" of imperial sanctuary.
-
-That syncretic sun-cult would merge
-with mystery religions and with others,
-would become the cultural matrix
-into which {{x|Christianity}} hovers.
-
-December twenty-fifth was {{c|2554|Sol Invictus}}'
-birthday, the winter solstice celebration,
-the "dies natalis {{c|2575|Solis Invicti}},"
-the unconquered sun's inauguration.
-
-{{c|2494|Christians}} would later fix their {{x|Christmas}}
-on this same date, adopting the feast,
-merging the birth of the {{c|2576|Son of Man}}
-with the rebirth of the {{c|99|Sun}} in the {{p|East}}.
-
-This is not accidental. The {{c|2554|Sol Invictus}}
-cult and the {{c|1497|Christ}} cult were cousins,
-sharing iconography, festivals, theology,
-the rayed halo, the midwinter reasons.
+And on December's twenty-fifth they kept
+Birth of {{c|2554|Sol Invictus}}, {{c|2574|Unconquered Sun}},
+At winter's turn, when out of dark it stepped,
+The longest night, the light's new year begun.
 
 The feast of the {{c|2574|Unconquered Sun}}, that night
 the longest, was the feast of {{x|Aster Day}},
 the same, kept under every name of light;
 and {{x|Christmas}}, after, kept it the same way.
 
-Three strands had been converging now
-toward what would become monotheistic {{p|Rome}}:
-{{x|Jewish}} exilic covenant-monotheism,
-{{x|Persian}} dualistic cosmic home,
+His name was scratched from stone, his image marred,
+{{x|Damnatio memoriae}}; and yet
+He's not forgot, the priest the city barred,
+The strangest of its kings, the sun's own debt.
 
-{{x|Egyptian}} {{c|1952|Akhenaten}}'s old {{c|2083|Aten}}
-(a lost current but not forgotten),
-{{x|Syrian}} solar-theologies rising,
-{{x|Platonic}} philosophy unforgotten.
-
-All were feeding into the stream
-that would break through under {{c|2555|Constantine}}
-and become the official faith of {{p|Rome}}
-and then of {{p|Europe}}, clean and clean.
-
-But we are not there yet. The third century
-still held the old gods in their frame.
-{{c|2570|Elagabalus}} was the weird episode
-that {{p|Rome}} tried hard to forget by name.
-
-His memory was damned, "damnatio memoriae,"
-his name scratched out, his image defaced.
-But history remembered him as
-the strangest emperor {{p|Rome}} had faced.
+So honor him, the youth who brought the stone,
+Who would be lady, priest, and Caesar too;
+Who set his city's sun on {{p|Rome}}'s own throne,
+And fell, for whose the rite was, and not who.
 
 
 # Chapter 185: Romance of the Three Kingdoms
