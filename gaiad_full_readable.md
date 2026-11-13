@@ -33414,125 +33414,70 @@ And one religion, as the faithful knew.
 
 # Chapter 199: Tang and the Great Persecution
 
-The Tang Dynasty (618-907) was
-the golden age of imperial {{p|China}}.
-{{p|Chang'an}} was the greatest city in the world,
-one million people in its central arena.
+The Tang, from six-eighteen, the golden age:
+{{p|Chang'an}}, the greatest city of the world,
+A million souls; Li Yuan, on the stage,
+A general, took the {{x|Sui}}'s throne, and unfurled
 
-The founder Li Yuan (Gaozu) had been
-a general who seized power from the {{x|Sui}}.
-His son Taizong killed his brothers,
-forced his father to abdicate on the cue.
+The {{x|Tang}}; Taizong, his son, slew brothers, made
+His father yield; and ruled, the model king
+Of {{x|Confucius}}' rule, in peace; and he stayed
+The golden reign that all would after sing.
 
-Taizong's reign (626-649) is considered
-the model of Confucian good rulership,
-the era of peace and prosperity,
-the golden reign held up as a reference for leadership.
+Wu Zetian rose, killed her rivals, and
+Ruled, the one woman, emperor in name;
+The Buddha rose above the rest; her hand
+Made {{p|Longmen}}'s Buddha, with her face the same.
 
-Empress Wu Zetian rose under the third {{x|Tang}} emperor,
-eliminated rivals, and became the only woman
-to rule {{p|China}} as emperor in her own name,
-founding the {{p|Zhou Dynasty}} briefly, a prism human.
+Then Xuanzong reigned, at first in glory; then
+His trusted An Lushan, {{x|Sogdian}} by birth,
+A general, rose, fifty-five; and men
+Died, eight years, through the war; and through the earth
 
-She patronized {{x|Buddhism}}, elevated it above
-{{x|Confucianism}} and {{x|Daoism}} temporarily.
-Under her, the massive Buddha statues at {{p|Longmen}}
-were carved, her face modeled, supposedly.
+Fifty-three million became seventeen;
+The {{x|Tang}} grew weak; and Yang Guifei, his love,
+His soldiers made him kill; and all the sheen
+Of his long reign went dark, as from above.
 
-After her reign, the {{x|Tang}} continued
-under Xuanzong, whose early reign was glorious
-but whose later years fell to the disaster
-of the An Lushan Rebellion, devastating notoriously.
+Li Bai was at his court; Du Fu lived through
+The war, and wrote it; with Wang Wei, the four
+Bai Juyi, the Four Greats, whose verse is true
+Through all the ages, masters evermore.
 
-An Lushan was a Sogdian general, trusted
-and elevated by Xuanzong, who rebelled
-in 755 and plunged {{p|China}} into civil war
-for eight years. Millions died. The empire propelled
-
-into a long decline. The census before
-the rebellion recorded 53 million people.
-After, the census recorded 17 million.
-Whether this represents actual deaths or administrative steeple
-
-failure, the scale was catastrophic.
-The {{x|Tang}} survived but never recovered its former strength.
-Xuanzong's beloved concubine Yang Guifei
-was killed at his soldiers' demand, the length
-
-of his long reign ending in tragedy.
-The great poet Li Bai had been at his court.
-The great poet Du Fu had lived through the chaos,
-writing war poetry of unmatched import.
-
-Poetry flourished in the {{x|Tang}}. Li Bai, Du Fu,
-Wang Wei, Bai Juyi, the Four Greats,
-became the classical masters of Chinese verse,
-whose works every subsequent scholar debates.
-
-In 845, Emperor Wuzong launched
-the Great Anti-Buddhist Persecution
-(the {{x|Huichang Persecution}}, named for his era).
-It was the most thorough effusion
-
-of state power against {{x|Buddhism}} in Chinese history.
-Forty thousand temples and shrines were destroyed.
-Two hundred sixty thousand monks and nuns were
-returned to lay life, their wealth deployed.
+Eight-four-five: Wuzong struck the Buddha's way:
+Great Persecution: forty thousand fell,
+The temples; and the state sent, on that day,
+Two hundred sixty thousand monks as well.
 
 The cause was land: the monasteries held
 vast fields untaxed, and bronze the mint would take;
-and Wuzong's own Daoist priests would have expelled
+and Wuzong's Daoist priests would have expelled
 the Buddha's monks, as rivals for one stake.
 
-{{x|Manichaeism}} was virtually wiped out in {{p|China}}.
-Nestorian Christianity, which had entered in the {{x|Tang}},
-was also persecuted and largely destroyed.
-Zoroastrianism among Sogdian communities sang.
+And {{x|Manichaeism}} was nearly all gone;
+Nestorian Christ's, which came with the {{x|Tang}};
+The Zoroastrian {{x|Sogdians}} too; and on
+It went; and after Wuzong, the bell rang,
 
-{{x|Buddhism}} recovered somewhat after Wuzong's death
-(his successor reversed the policy),
-but the intellectual glory days were over.
-Chan ({{x|Zen}}) would survive more readily.
+His heir reversed it; but the great days passed.
+Chan lived, which needed neither books nor halls,
+But only sitting; Pure Land too would last,
+The name of Amitabha, which still calls
 
-Chan {{x|Buddhism}} was less dependent on scriptures,
-libraries, and wealthy monasteries.
-Its simple meditation-based practice
-could survive with minimal institutional stories.
+The laity, no temple and no school;
+And these two would become the {{x|East}}'s chief way.
+The {{x|Tang}} declined: Jiedushi would rule
+Their lands; the eunuchs held the court; the day
 
-Pure Land {{x|Buddhism}} also survived,
-through devotional practice by laypeople,
-chanting the name of Amitabha Buddha,
-requiring no temples or scholarly steeple.
+Of risings came; and in nine-oh-seven,
+The {{x|Tang}} was done; the {{p|Five Dynasties}}, and
+{{p|Ten Kingdoms}} split; then, as sent from heaven,
+Nine-sixty, and the Song rejoined the land.
 
-These two schools — Chan and Pure Land —
-would become the dominant forms of East Asian {{x|Buddhism}},
-not the scholarly schools like {{x|Huayan}} or {{x|Tiantai}},
-which required institutional support for their dualism.
-
-The {{x|Tang}} declined through the ninth century.
-Regional warlords, the Jiedushi, became
-de facto independent. Eunuchs controlled the court.
-Peasant rebellions erupted with blame.
-
-In 907, the {{x|Tang}} was formally deposed.
-The {{p|Five Dynasties and Ten Kingdoms}} period began,
-fifty-three years of fragmentation,
-until the Song Dynasty reunified in 960, man.
-
-The {{x|Song}} would be more scholarly, less military,
-less imperial, more refined.
-It would lose the northern frontier to Khitans and Jurchens,
-but would be culturally very defined.
-
-The {{x|Song}} would invent movable type printing,
-refine gunpowder, develop the compass.
-{{x|Song}} painting and ceramics would be exquisite.
-The civil service exam would be the crown accomplished.
-
-But the {{x|Tang}} remained the memory, the ideal,
-the civilization-peak to look back on.
-"{{x|Tang}} poetry" still means the finest Chinese verse.
-"{{x|Tang}}" is still how Chinese abroad call their people gone.
+And still the {{x|Tang}} is the high mark: its lines
+Still the finest; and the {{x|Chinese}} who dwell
+Abroad still call themselves the {{x|Tang}}'s; the signs
+Of all they look back on, they keep it well.
 
 
 # Chapter 200: Ireland and Brian Boru
