@@ -32706,119 +32706,84 @@ The queen of Sheba's son, who brought it down.
 
 # Chapter 191: Arabia Before Islam
 
-The {{p|Arabian Peninsula}} in the centuries
-before Muhammad's birth was a patchwork
-of tribes, oases, trade cities, Bedouin,
-Jewish settlements, Christian monks at work.
+{{p|Arabia}}, ere Muhammad, a quilt
+Of tribes, oases, towns of trade, the tent
+Of Bedouin, the homes the Jews had built,
+And monks of Christ who prayed where trade-routes went.
 
-Two great lineages are traced by tradition.
-Qahtan, the southern Arabs, the {{p|Yemen}} tribes,
-descended from Joktan son of Eber,
-speakers of ancient South Arabian scribes.
+Two lines there were: Qahtan, the south, the land
+Of {{p|Yemen}}, come from Joktan, Eber's son;
+And Adnan, of the north, of desert sand,
+Of {{p|Hejaz}} and {{p|Najd}}, from Ishmael, the one
 
-And Adnan, the northern Arabs, the
-desert tribes of the {{p|Hejaz}} and {{p|Najd}},
-descended from Ishmael son of Abraham
-through a line of thirty generations laid.
+Of Abraham, by thirty steps of birth;
+Twelve sons, like Jacob's; through Nizar, the line,
+Mudar, Ilyas, then came the Quraysh to earth,
+To Hashim's clan, Muhammad's own, the sign
 
-Adnan had twelve sons, like the twelve
-tribes of Israel from Jacob's line.
-The Quraysh tribe traced to him through
-Nizar, Mudar, Ilyas, a noble sign.
-
-Muhammad would come from Adnan's descent,
-from the Quraysh of {{p|Mecca}}, specifically
-from the clan of Hashim, which gave
-the name Hashemite to the family.
-
-The pre-Islamic Arabs worshipped many gods.
-Allah was the high god, creator, most high,
-but rarely worshipped directly — his daughters
-al-Lat, al-Uzza, and Manat drew the eye.
+Of {{p|Mecca}}. And they kept gods: the most high
+Was Allah, maker, seldom prayed to; and
+His daughters, al-Lat, al-Uzza, close by,
+And Manat too, were honored through the land.
 
 Three hundred sixty images were kept
-within the Kaaba, where the pilgrims stepped:
-the gods of tribes and stars and homes, and they
+within the Kaaba: gods of tribes, and they
+were stars and homes, there where the pilgrims stepped;
 set Hubal chief, the god to whom they'd pray.
 
-But the Arabs also had the concept of
-hanif, a pure monotheist in the line
-of Abraham, who worshipped the one God
-without joining Jewish or Christian shrine.
+And some were hanif, pure, who kept the one
+God as Abraham had kept, in no shrine
+But his. Qusay, of Muhammad's line, won
+For the Quraysh, {{p|Mecca}} and the Kaaba's sign,
 
-Muhammad's great-great-grandfather Qusay
-had consolidated the Quraysh in {{p|Mecca}},
-establishing them as guardians of the Kaaba
-and the pilgrimage trade's great bank-checker.
+To guard it, and the pilgrims' trade; they held
+The sacred months, when none could fight, for all
+The caravans; and {{p|Mecca}}'s wealth so swelled.
+In {{p|Yemen}}, {{p|Himyar}} heard the {{x|Torah}}'s call,
 
-The Quraysh controlled the sacred months
-when fighting was forbidden throughout {{p|Arabia}}
-to allow caravans and pilgrimages to flow.
-This gave them wealth through {{p|Mecca}}'s bizarria.
+Turned {{x|Jewish}}; {{p|Aksum}} came, of Christ; and then
+The Sassanids; Ghassanids, the west,
+Were Christ's, {{p|Byzantium}}'s; the Lakhmids, men
+Of Christ as well, the Sassanids' own guest;
 
-{{p|Yemen}} to the south had the {{p|Himyarite Kingdom}},
-which converted to {{x|Judaism}} in the fourth century,
-then was invaded by Christian {{p|Aksum}}, then
-by {{p|Sassanid Persia}}, politically drifting free.
-
-The Ghassanids on the northwestern frontier
-were Christian Arab vassals of {{p|Byzantium}}.
-The Lakhmids in the east were Christian
-Arab vassals of the Sassanids, serving them.
-
-Jewish tribes lived in {{p|Medina}} ({{p|Yathrib}}):
-the Banu Qurayza, Banu Nadir, Banu Qaynuqa,
-who had fled there after Roman wars
-and established themselves as the economic driver.
-
-Christian monks wandered the {{p|Hejaz}}
-as hermits in caves along trade routes,
-where caravans would stop for water
-and hear the teaching at lonely outposts.
+And in {{p|Yathrib}}, {{p|Medina}}, dwelt the Jews:
+Qurayza, Nadir, and Qaynuqa, the tribes
+Who fled from {{p|Rome}}'s wars, kept their trade; and news
+Of monks in caves by wells, who taught the scribes.
 
 Here was one peninsula and one rite
 kept many ways, by tribe and town and tent,
 the high god and his daughters, and the light
 of Jews and Christian monks, with one intent.
 
-Trade connected {{p|Arabia}} to the world.
-Frankincense and myrrh went north to {{p|Rome}}.
-Silk and spices came from {{p|India}} and {{p|China}}
-through the Arabian ports of {{p|Yemen}}'s home.
-
-The century before Muhammad saw
-the great Byzantine-Sassanid wars,
-which weakened both empires, disrupted trade,
-and left {{p|Arabia}} watching both contenders' scores.
+And incense, myrrh went north to {{p|Rome}}; and silk
+And spice came from the east through {{p|Yemen}}'s ports;
+And east and west, the two realms, of one ilk,
+Warred on, wore each other down, in sorts.
 
 In the {{x|Year of the Elephant}} came forth
-Abraha of {{p|Yemen}}, and he marched north
-with elephants, to take away the rite
-of pilgrims for his church: whose house, whose right.
+Abraha of {{p|Yemen}}, to take the rite
+Of pilgrims for his church; and he marched north
+With elephants: whose house it was, whose right.
 
-His expedition was miraculously defeated
-(tradition says birds dropped stones on them,
-a plague struck them, they retreated).
-Muhammad was born that year, some remember.
+And birds dropped stones upon them, and they fled,
+And plague struck them; and in that year was born
+Muhammad; and his father had been dead
+Before his birth; his mother, too, was torn
 
-He was born an orphan, his father dead
-before his birth, his mother dying young.
-Raised by his grandfather Abd al-Muttalib,
-then his uncle Abu Talib with lung.
+From him when young; his grandfather, the lord
+Abd al-Muttalib; he was raised
+By Abu Talib, uncle; by accord
+He was al-Amin, the trustworthy, praised;
 
-He worked as a merchant, earned the nickname
-al-Amin, the trustworthy one.
-He married the wealthy widow Khadija
-fifteen years his senior, a deal well done.
+He traded, and he wed Khadija, rich,
+A widow, fifteen years his elder; and
+He went up to {{p|Hira}}'s cave, to the niche
+On the {{p|Mount of Light}}, to pray; as was planned,
 
-He would go to the cave of {{p|Hira}} to meditate
-on the {{p|Mount of Light}} outside {{p|Mecca}}.
-At forty, in the year 610,
-the archangel Gabriel would visit him, a wrecker
-
-of his old life and opener of the new.
-"Recite!" the angel said. "In the name of your Lord
-who created, created man from a clot."
+At forty, in six-ten, Gabriel came,
+And said: Recite! In the name of your Lord,
+Who made, made man from a clot; so the flame
 The {{x|Quran}} began: the old house restored.
 
 
