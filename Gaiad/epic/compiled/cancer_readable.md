@@ -2206,228 +2206,180 @@ The Ōnin War would come, and chaos' chain.
 
 # Chapter 223: The Standing on the Ugra
 
-Two hundred and forty years the Mongol yoke
+Two hundred forty years the Mongol yoke
 Had pressed upon the Russian neck—the weight
 Of Batu Khan's descendants, and the smoke
-Of {{p|Ryazan}} and {{p|Kiev}} burning at the gate
+Of {{p|Ryazan}}, {{p|Kiev}}, burned at the gate
 
-Of memory: the cities sacked, the princes
-Made to crawl before the Golden Horde,
-The tribute paid in silver and in winces,
-The Russian will made subject to the sword
+Of memory: the cities sacked, the lords
+Made to crawl down before the Golden Horde,
+The tribute paid in silver, and the swords
+Above the Russian will, its overlord;
 
-Of the steppe. For since the year twelve thirty-seven,
-When Batu's riders swept across the plain
-Of {{p|Rus}} like winter's scythe through fields of leaven,
-No Russian prince had dared to break the chain.
+Since twelve-thirty-seven, when riders came
+Of Batu's, sweeping out across the plain
+Of {{p|Rus}} like winter's scythe, no prince, the same,
+Had ever dared to break the Russian chain.
 
-They paid the tribute. Year on patient year,
-The silver flowed from {{p|Moscow}} to {{p|Sarai}},
-From {{p|Novgorod}} to the Tatar overseer—
-The Khan's basqaq counted every rye
+They paid the tribute, patient, without fail;
+To {{p|Sarai}} silver flowed, {{p|Moscow}}'s hoard;
+From {{p|Novgorod}}; the Khan's basqaq kept tale
+Of kopek and of rye; the Khan was lord.
 
-And kopek, and the prince who failed to pay
+The prince who failed his tribute, on the day,
 Was dragged before the Khan and made to kneel
-On the felt carpet of the audience-day
+Upon the felt, the carpet, and to pray
 And beg for mercy with the beggar's zeal.
 
 But {{p|Moscow}} grew. While other cities burned
-And squabbled for the scraps of Mongol favor,
+And squabbled for the scraps the Mongols gave,
 The Muscovite princes quietly learned
-The conqueror's own arts—the patient labor
+The conqueror's own arts, the patient, grave
 
-Of centralization, of the tax
+Of centralization, and of the tax
 Collected not for one's own purse alone
 But for the state—the slow and steady wax
 Of power gathered to a single throne.
 
 Ivan I had been the Khan's collector—
 Kalita, "Moneybags," who gathered gold
-For {{p|Sarai}} and kept his share, the vector
+For {{p|Sarai}}, kept his share, the vector
 Of {{p|Moscow}}'s rise from timber-fort to hold
 
-Of empire. And his grandson's grandson's son
+Of all. And then his grandson's grandson's son
 Now ruled a {{p|Moscow}} that had swallowed whole
-The principalities, one by one—
-{{p|Tver}} and {{p|Yaroslavl}} and the soul
+The principalities, and one by one
+{{p|Tver}} and {{p|Yaroslavl}}, and then the soul
 
-Of {{p|Novgorod}} the Great, the merchant-city
-Whose bell of liberty was seized and carried
-To {{p|Moscow}}'s square without a shred of pity—
+Of {{p|Novgorod}} the Great, merchant city,
+Whose bell of freedom was seized and carried
+To {{p|Moscow}}, without a shred of pity—
 The republic's voice in silence buried.
 
-Ivan III—Ivan the Great—the Tsar
-Who married Sophia Palaiologina,
-The niece of the last Caesar, and the star
-Of the double-headed eagle, the insignia
+Ivan III, Ivan the Great, would wed
+Sophia Palaiologina, niece
+Of the last Caesar; and the eagle, spread,
+Two-headed, from {{p|Byzantium}}'s release,
 
-Of fallen {{p|Constantinople}}, which he raised
+And as the Tsar, he took the sign, and raised
 Above the {{p|Kremlin}}'s towers as his own—
 The Third {{p|Rome}}, he declared, and the world gazed
 Upon a {{p|Moscow}} claiming Caesar's throne.
 
-And in the year fourteen and eighty, Ivan
-Did what no prince before him dared to do:
-He refused the tribute. The Tatar divan
-Received no silver, and the retinue
+In fourteen-eighty, Ivan dared to do
+What no prince had before him: he said no
+The tribute; and no silver, nothing due,
+Reached the Khan's court; and no knee bent down low.
 
-Of the Khan received no genuflection.
-Ahmad Khan—the last lord of the Golden Horde—
-Assembled on the southern plain's complexion
-His cavalry, the steppe-riders' sword
+Ahmad Khan, last lord of the Golden Horde,
+Assembled on the southern plain his horse,
+Riders of the steppe; unsheathed the sword
+To punish; and he marched on {{p|Moscow}}'s course,
 
-Unsheathed for punishment. He marched on {{p|Moscow}}
-To teach the vassal prince obedience—
-And Ivan marched to meet him, though the lasso
-Of fear pulled tight: his wife and the expedience
+To teach the vassal prince obedience;
+And Ivan marched to meet him, though the hand
+Of fear pulled: his wife, the expedience
+Of counselors, urged flight, as they had planned;
 
-Of his advisors counseled flight, retreat,
-Submission—pay the silver, save the state—
+Retreat, submission: pay, and save the state;
 But Ivan brought his army to the seat
-Of the {{p|Ugra River}} and he chose to wait.
+Of the {{p|Ugra River}}, and chose to wait;
+And there, the strangest battle, the conceit
 
-And here the strangest battle in the tale
-Of empires was not fought.
-
-                              October's frost
+Of kingdoms, was not fought. October's frost
 Had stiffened both the riverbanks, the pale
 And yellow birches shedding what they'd lost
+Of summer's warmth; and, on the western vale,
 
-Of summer's warmth, and on the western shore
-The Russian army stood—its arquebuses new,
-Its cannon planted on the bank, the core
+The Russian army stood, its guns all new,
+Its cannon planted on the bank; the core
 Of infantry arrayed in grim review.
+And, on the eastern shore, ten thousand more,
 
-And on the eastern shore the Tatar horse
-Assembled, tens of thousands, restless, waiting
-For the ford—the river's shallow course
-That offered passage for the calculating
+Tatar horse, assembled, restless, waiting
+To find the ford, the river's shallow course
+That gave passage for the calculating
+Charge. But Ahmad looked across; and the force
 
-Charge. But Ahmad looked across and saw
-The cannon's mouth, the arquebus's gleam,
-And hesitated. And the ancient law
-Of the steppe—the headlong, screaming stream
+Of the cannon's mouth, the arquebus's gleam,
+Made him hold back; the ancient law, the art
+Of the steppe, the headlong and screaming stream
+Of horse, was checked by gunpowder's new part:
 
-Of the cavalry assault—was checked
-By something new: the gunpowder defense,
-The fortified position, the unchecked
-And murderous precision of the dense
-
+The fortified position, and the dense
 And disciplined formation on the bank.
-He did not charge.
-
-                     And Ivan did not cross.
-
+He did not charge; nor Ivan cross; and hence,
 For weeks the armies stood, rank facing rank,
-Across the {{p|Ugra}}'s narrowing emboss
 
-Of ice and current—two empires staring
-At each other through the autumn mist,
-The Mongol and the Russian, each comparing
-The cost of the assault, each iron fist
+Across the {{p|Ugra}}, ice and current; there
+Two great realms stared across the autumn mist,
+Mongol and Russian, each weighing, with care,
+The cost; each hovered with an iron fist.
 
-Unclenched and hovering above the table.
+November came. The river froze; the ice
+Could bear a horseman; and the bar was gone
+With the cold; and either side, in a trice,
+Could cross; and still no charge was ordered on.
 
-November came. The river froze.
-The ice could bear a horseman and his sable-
-Coated mount—the barrier that arose
+Ahmad waited; Ivan waited; and then
+The Mongol army turned, and rode away.
+No trumpet, and no treaty, and no men
+Lowered a banner, cleft by sword that day;
 
-Between the armies vanished with the cold,
-And either side could cross upon the sheet
-Of ice. And still—and still—the bold
-Assault was never ordered, the defeat
+The Golden Horde rode to the steppe; and so
+And {{p|Russia}} rose up free, upon the road
+That no one walked, the battle none would know,
+A victory that nerve, not sword, bestowed:
 
-Never risked. Ahmad waited. Ivan waited.
-And then the Mongol army turned and left.
+The strangest freeing in the nations' book:
+Not by the sword, but by the nerve to stand
+And wait, and let the Tatar break; it took
+Two hundred forty years from Mongol hand.
 
-No trumpet sounded. Nothing was debated
-In a treaty-hall. No banner, cleft
+The yoke was lifted in the autumn fog:
+Two armies staring; one of them went home.
+Meanwhile, the West, its own murderous slog:
+England's long war against itself would roam.
 
-By sword or stained by blood, was lowered
-In surrender. The Golden Horde simply rode
-Back to the steppe—and {{p|Russia}} towered
-Into sovereignty upon the road
+Roses bloomed in blood since {{p|St Albans}}' first;
+Kin fought on kin; Edward of York had seized
+The crown; and Warwick, Kingmaker, at worst
+Turned coat, for Elizabeth Woodville pleased
 
-That no one walked, the battle no one fought,
-The victory that consisted of the refusal
-To be afraid—and thus the freedom bought
-By Ivan's patience was the most unusual
+The king, and Warwick's hand was cast aside;
+Set poor Henry VI up, a puppet, high;
+Months; Edward came back from {{p|Burgundy}}'s side;
+At {{p|Barnet}}, in the fog, did Warwick die;
 
-Liberation in the book of nations:
-Not won by the sword but by the nerve
-To stand and wait and let the Tatar patience
-Break against a Russian patient swerve
+At {{p|Tewkesbury}} the Lancastrian cause
+Was ended, and the Prince of Wales lay dead;
+And Henry in the {{p|Tower}}, without pause,
+Was murdered; and the Yorkist peace was spread;
 
-From every precedent of submission.
-The yoke was lifted. Two hundred and forty years
-Of Mongol dominion ended in the vision
-Of two armies staring through the tears
+But under it the brothers circled: drowned
+Was Clarence; and Richard of Gloucester stayed
+For the throne; when the king was in the ground,
+The nephews to the {{p|Tower}} he conveyed;
 
-Of autumn fog—and one of them went home.
+Their light was closed, a book; but that dark tale
+Waits. Now observe the contrast: in the east
+Patience won freedom, and the steppe would fail;
+In England, fury made fury its feast;
 
-                                          Meanwhile,
-Across the continent, the other tale
-Of the fifteenth century's brutal style
-Was reaching its crescendo—the travail
+The throne changed hands with each new flow of blood;
+Two paths through the fifteenth century's gate:
+To stand, and let the grip fall in the mud
+Of its own weariness; or kill, and hate:
 
-Of England's war against itself.
-
-                                        The Roses
-Had bloomed in blood since {{p|St Albans}}' first
-Encounter, and the garden that encloses
-The English throne had seen the worst
-
-Of kin on kin. Edward of York had seized
-The crown—but Warwick, the Kingmaker, the earl
-Who'd raised him high, turned coat when the king's caprice
-Of marrying Elizabeth Woodville hurled
-
-The calculated hand of Warwick's power
-Aside—and the Kingmaker in his rage
-Restored poor Henry VI for one brief hour,
-A puppet on a blood-soaked stage.
-
-It lasted months. Edward returned from {{p|Burgundy}}
-And Warwick died in the fog at {{p|Barnet}}'s field—
-At {{p|Tewkesbury}} the Lancastrian liturgy
-Was ended, and the Prince of Wales was sealed
-
-Among the dead, and Henry in the {{p|Tower}}
-Was murdered, and the Yorkist peace was won—
-But underneath the crown in its uneasy bower
-The brothers circled: Clarence drowned, undone,
-
-And Richard of Gloucester waited for the throne—
-And when the king was dead, the uncle took
-The nephews to the {{p|Tower}}'s stone,
-And the light of their young lives was closed like a book.
-
-But that dark chapter waits.
-
-                               For now observe
-The contrast of the age: in {{p|Russia}}, patience
-Won the freedom that the Mongol nerve
-Could not withstand—the strangest of the nations'
-
-Liberations, won without a blow.
-In England, fury spent itself on fury,
-And the throne changed hands in every flow
-Of the noble blood before the jury
-
-Of the battlefield. Two paths through the fifteenth
-Century's iron gate: the path of standing still
-And letting the empire's grip come unsheathed
-By its own exhaustion, and the path of the kill—
-
-The brother's blade, the uncle's smothering hand,
+The brother's blade, the uncle's choking hand,
 The crown passed through the murder and the coup
 Until no noble house was left to stand
-And the dynasty consumed its own troupe.
+The dynasty consumed its own, anew.
 
-Honor Ivan on the {{p|Ugra}}'s western shore—
+Honor Ivan by the {{p|Ugra}}'s west shore,
 The prince who broke the yoke by standing still,
 Who freed his people not by waging war
-But by the steady, unyielding will
+But by the steady and unyielding will
 
 To wait—to let the river freeze and thaw,
 To let the Mongol horseman pace and fret,
@@ -2436,16 +2388,18 @@ Speak louder than the charge—and the long debt
 
 Of two and forty decades' submission
 Was cancelled in a season's quiet frost:
-No treaty signed, no formal manumission,
+No treaty signed, and no manumission,
 No victory parade, no body's cost—
 
 Just the empty eastern shore at morning,
-The hoofprints in the frozen mud receding,
+Hoofprints in the frozen mud receding,
 And the Russian sentries, without warning,
-Discovering that the world had changed while reading
+Discovering the world had changed, reading
 
-The silence of the steppe—the Horde was gone,
-And {{p|Russia}} stood alone beneath the dawn.
+The silence of the steppe: the Horde was gone;
+The yoke was off, and no one had been slain;
+And {{p|Russia}} stood alone beneath the dawn,
+Free, by the river, on the frozen plain.
 
 
 # Chapter 224: Granada and the Ocean
