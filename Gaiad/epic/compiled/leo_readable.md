@@ -2377,202 +2377,135 @@ And makes the bargain sweet, as time goes by.
 
 # Chapter 243: Metacom's Fire
 
-The son remembered what the father forgave.
+The son recalled what the father let go:
+Metacom, whom the English Philip named,
+As if a king needed their name to show
+His sovereignty; the sachem's line, the famed,
 
-Metacom—the English called him Philip,
-As if a king required their name to have
-His sovereignty—the tulip
+The son of Massasoit, who watched the long
+Forty years of the father's plan undone:
+Each promise botched, each border crossed, each wrong
+Court of the sachem overruled; and one
 
-Of the Wampanoag sachem's line,
-Son of Massasoit, who watched
-The forty years of his father's design
-Unravel—every promise botched,
+By one the hunting grounds cut short, the fence,
+The cow, the freight of English, and their claim
+That God had cleared the land for them, and hence
+The plague itself was {{x|Providence}}'s flame
 
-Every boundary crossed, every court
-Of the sachem overruled by the magistrate,
-Every hunting ground cut short
-By the fence, the cow, the freight
+Cleared {{p|Jerusalem}} for the chosen; and
+The Indian, the Canaanite, to cede
+By the divine command. And on a strand,
+In seventy-five, of their land, indeed,
 
-Of the ever-arriving English and their claim
-That God had emptied this land for them—
-That the plague itself was the righteous flame
-Of {{x|Providence}} clearing {{p|Jerusalem}}
+The Wampanoag were penned; alive, but few;
+And his own brother, Wamsutta, was dead
+In English custody: a justice drew
+On the convenient suspect with its lead,
 
-For the chosen, and the Indian was the Canaanite
-Whose dispossession was divine command.
+And burned like coal in Metacom's own chest;
+Three Wampanoag men hanged at {{p|Plymouth}}, tried
+By English law: of sovereignty, the test
+Was failed: a foreign court could judge, decide
 
-Metacom watched. By sixteen-seventy-five,
-The Wampanoag were penned upon a strand
-Of their former territory, alive
+And kill the sachem's people; and the pact
+Was not just smudged, but blotted out; and stripped
+All pretense. Metacom chose war, in fact,
+No reckless raid, but careful, well-equipped
 
-But diminished, and the murder of his counselor
-Wamsutta—his brother, dead
-In English custody, the chancellor
-Of a justice that dispensed its lead
+Alliance, by a statesman's skill: Nipmuck,
+And Pocumtuck, Narragansett, and more,
+Abenaki: a dozen nations' pluck,
+A net to strangle, ere they grew, the shore
 
-To the convenient suspect—burned
-Like a coal in Metacom's chest.
+Of colonies; and, in seventy-five,
+{{p|New England}} burned: first {{p|Swansea}}; and then came
+{{p|Brookfield}}, {{p|Deerfield}}, and {{p|Springfield}}'s mill, alive
+With flame; and {{p|Northfield}}, {{p|Hatfield}}, all the same:
 
-And the hanging of three Wampanoag men
-At {{p|Plymouth}}, tried by English law, the test
-Of a sovereignty that was dying—when
+Twelve of the region's ninety towns destroyed,
+The battle spread throughout the forest ground
+And greens, {{p|Connecticut}} to coast; the void
+Of war the English had never yet found:
 
-The sachem's own people could be judged
-And killed by a foreign court,
-The treaty was not merely smudged
-But annihilated, every sort
+No war, per head, has killed more of their own:
+One in ten colonists, dead or displaced;
+And Indigenous losses deeper; grown
+By the next ship, the English were replaced;
 
-Of pretense stripped away.
+But Metacom's alliance was the last
+Of each nation's fighting strength. Great Swamp Fight:
+December, bitter cold; the English, massed
+With Mohegan allies, found at last, despite
 
-                              And Metacom chose war.
+The frozen marsh, the Narragansett hold
+In {{p|Rhode Island}}'s cedar swamp, a walled isle
+Where families camped: women, children, old;
+The merciless assault, with fire, the while
 
-Not the impulsive raid of the desperate—
-But the careful, the corridor
-Of alliance built with the deliberate
+The people slept, burned wigwams; the pyre
+Of the burning village turned the war's tide:
+Narragansett lost their heart, entire,
+The nation, cost of having been allied
 
-Skill of the statesman: Nipmuck,
-Pocumtuck, Narragansett,
-Abenaki—the pluck
-Of a dozen nations forming the net
+With Metacom. And still they fought; and through
+The winter, seventy-six, raids went on;
+The colonists were caught, for the foe knew
+Each trail, each ford, each ambush-hollow, gone
 
-That might strangle the colonies
-Before they grew too strong to kill.
+Into the forest; even {{p|Boston}} feared
+That it might follow {{p|Springfield}} into ash.
+But spring brought hunger; the alliance, sheared,
+Unraveled: Mohawk raids, disease's lash;
 
-In the summer of sixteen-seventy-five,
-{{p|New England}} burned.
+Blockade denied them powder; and the pride
+Of nations scattered: some surrendered, some
+Fled north to Abenaki, French's side;
+And Metacom was hunted, as the drum
 
-                          The grill
-Of the frontier blazed: {{p|Swansea}} first, then alive
-With flame came {{p|Brookfield}}, {{p|Deerfield}}, the mill
+Of his war broke. August, seventy-six:
+The swamp at {{p|Mount Hope}}, where he had been born,
+The last betrayal, and the hunter's fix:
+Alderman, of the Pocassets, a sworn
 
-At {{p|Springfield}}, {{p|Northfield}}, {{p|Hatfield}}—
-Twelve of the region's ninety towns
-Destroyed completely, the battlefield
-Scattered across the forest's browns
+Ally of the English, who shot him there
+Beneath his fathers' sky; and debts were paid
+In the worst coin: they quartered him, laid bare
+The body, hacked the head off, and displayed
 
-And greens from the {{p|Connecticut}} to the coast.
+The head upon a pike at {{p|Plymouth}}'s gate
+For twenty years, the grinning trophy, dread,
+Of the colonial rule, rising, great;
+His wife and son were sold as slaves; the thread
 
-The English had never known such war—
-Per capita, no conflict's host
-In American history killed more:
+Of Massasoit's own line, the grandchild, south
+To {{p|Caribbean}}, to {{p|Bermuda}}'s fields
+Of sugar; and the treaty's final mouth
+Spoke its last spell, most cruel of its yields.
 
-One in ten colonists dead or displaced,
-And the Indigenous losses deeper still—
-For the English could be replaced
-By the next ship's hold, but the fill
+So honor Metacom, the son who saw
+What his father chose not to see, who read
+The treaty's hidden flaw, and, by its law,
+Rose against certain ruin; who, instead,
 
-Of Metacom's alliance was the last
-Of each nation's fighting strength.
+Burned all {{p|New England}} and had nearly won;
+Who proved the dispossessed had earned the right
+To fight upon their country, in its sun;
+Whose severed head, on Plymouth's pike, the sight,
 
-The Great Swamp Fight—December, bitter cold,
-The English and their Mohegan allies at length
-Found the Narragansett stronghold
+Was the price paid, resistance of the dead
+And living, 'gainst the colony's device:
+The land taken by law and sword; instead
+The plow for people; Metacom, the price,
 
-Deep in the {{p|Rhode Island}} cedar swamp:
-A fortified island in the frozen marsh
-Where the Narragansett families made their camp—
-Women, children, elders—and the harsh
+Broke the colonist's safety, and the vow
+That Indian was a vanishing shade:
+He showed that shadow had its teeth; and how
+The forest and the meadow, unafraid,
 
-And merciless assault set fire
-To the wigwams while the people slept inside,
-And the screaming and the pyre
-Of the burning village was the tide
-
-That turned the war—for the Narragansett loss
-Was not just warriors but the very
-Heart of the nation, the cross
-They bore for joining Metacom's wary
-
-Coalition.
-
-                And still they fought.
-
-Through the winter of seventy-six, the raids
-Continued—the colonists were caught
-Between the forest and the blades
-
-Of an enemy who knew every trail,
-Every ford, every ambush-hollow—
-And the {{p|Massachusetts}} English turned pale
-At the prospect that {{p|Boston}} might follow
-
-{{p|Springfield}} into the ash.
-
-                                But the spring
-Brought hunger to the forest camps,
-And the alliance began unraveling—
-The Mohawk attacks, the damps
-
-Of disease, the shortage of the powder
-That the English blockade denied,
-And one by one the coalition's chowder
-Of desperate nations lost its pride
-
-And scattered—some surrendered, some fled north
-To the Abenaki and the French,
-And Metacom was driven forth
-From refuge to refuge, the wrench
-
-Of the hunted king who watched his war
-Collapse around him.
-
-                       August, sixteen-seventy-six.
-
-The swamp at {{p|Mount Hope}}—the shore
-Where Metacom was born—the fix
-
-Of the final betrayal: an Indian ally
-Of the English, Alderman of the Pocassets,
-Shot Metacom beneath the sky
-Of his ancestors, and the colonists' debts
-
-Were paid in the worst coin: they quartered
-The body of the sachem, hacked
-The head from the shoulders, and slaughtered
-The dignity of the dead—the compact
-
-Of hatred's ritual: Metacom's head
-Was mounted on a pike at {{p|Plymouth}}
-For twenty years—the dread
-And grinning trophy of the monolith
-
-Of colonial power ascending.
-
-His wife and son were sold as slaves
-To the {{p|Caribbean}}—the ending
-Of the Wampanoag line, the waves
-
-That carried Massasoit's grandchild south
-To the sugar-fields of {{p|Bermuda}}'s hell,
-Where the treaty's final mouth
-Spoke its last and cruelest spell.
-
-Honor Metacom—the son who saw
-What the father chose not to see,
-Who read the treaty's hidden flaw
-And rose against the certainty
-
-Of his own destruction—who burned
-{{p|New England}} to the ground and nearly won,
-Who proved that the dispossessed had earned
-The right to fight beneath the sun
-
-Of their own country—and whose severed head
-Upon the Plymouth pike was the price
-Of the resistance of the living and the dead
-Against the colony's device:
-
-The taking of the land by law and sword,
-The replacement of the people by the plow—
-And Metacom broke the colonist's cord
-Of safety and the comfortable vow
-
-That the Indian was the vanishing shadow—
-He showed them that the shadow had teeth,
-That the forest and the meadow
-Would not surrender what lay beneath
-
-Without the fight that shakes the world.
+Would not surrender what beneath them lay
+Without the fight that shakes the world awake.
+The son remembered; and, from that far day,
+The woods kept his memory, for his sake.
 
 
 # Chapter 244: The Kachina Underground
