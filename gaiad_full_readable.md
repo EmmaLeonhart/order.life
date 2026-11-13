@@ -33083,30 +33083,25 @@ Through {{p|Córdoba}}, {{p|Toledo}}, and kept sure.
 
 # Chapter 195: Charlemagne and Byzantium
 
-In the {{p|West}}, in Theodoric's time and after,
-while the usurper's house kept the throne empty, the Franks grew.
-Clovis I in the late fifth century
-took the {{x|Nicene}} faith, as the Goths kept the {{x|Arian}}, as true.^[Clovis I of the Franks was baptized a Nicene Christian, a Catholic, around the year 500, unlike the Goths, the Vandals and the Burgundians, who were Arians.]
+And in the {{p|West}}, while the usurper's hand
+Kept the throne empty, the Franks grew, and grew;
+Clovis I took up, in the {{x|Nicene}} band,
+The faith; the Goths kept {{x|Arian}}, as true.^[Clovis I of the Franks was baptized a Nicene Christian, a Catholic, around the year 500, unlike the Goths, the Vandals and the Burgundians, who were Arians.]
 
-His descendants, the Merovingians, ruled
-for three centuries, but became weak,
-"do-nothing kings" whose power was wielded
-by Mayors of the Palace, the real peak.
+His heirs, the Merovingians, would then reign
+Three hundred years, but weak, and ruled by none;
+The Mayors of the Palace were the brain;
+And Charles Martel, the Hammer, Mayor, won
 
-Charles Martel, the Hammer, as Mayor
-of the Palace, defeated the Muslim advance
-at Tours in 732, and the {{x|Umayyad}} march
-on {{p|Europe}} stopped there, and fell back to {{p|Spain}}, at the arch.
+At Tours, seven-thirty-two, stopped the march
+Of {{x|Umayyads}}, who fell back to {{p|Spain}};
+Pepin the Short then asked the Pope: the arch
+Of kingship: should the one who ruled now reign?
 
-His son Pepin the Short asked the Pope
-if the one who had the real power
-should not have the title of king?
-The Pope agreed. Pepin took the crown's tower.
-
-The Merovingians were deposed. The Carolingians
-began with Pepin, a dynasty new.
-Pepin's son was Charlemagne, Charles the Great,
-who would build an empire {{p|Europe}} had not in view.
+The Pope said yes; and Pepin took the crown;
+Carolingians began; and his son
+Was Charlemagne, Charles the Great, whose renown
+Would build what {{p|Europe}} had not seen, as one.
 
 Charlemagne reigned forty-six years. He fought
 the Saxons for their grove, and in it felled
@@ -33118,90 +33113,75 @@ of {{p|Italy}} from Lombards; and in {{p|Spain}}
 he pressed the Muslims back with his own hand
 and held the frontier as his own domain.
 
-He did not destroy the Lombard kingdom. He took its crown,
-and called himself Rex Langobardorum, King of the Lombards,^[Charlemagne conquered the Lombard kingdom in 774 and took the title Rex Langobardorum. Its crown is the one later called the Iron Crown of Lombardy.]
-and held the {{x|Iron Crown}} of {{p|Italy}} twenty-six years
-before he was emperor: the kingdom of Theodoric's heirs, and its words.
+He did not break the Lombards; took the crown,
+Rex Langobardorum;^[Charlemagne conquered the Lombard kingdom in 774 and took the title Rex Langobardorum. Its crown is the one later called the Iron Crown of Lombardy.] and its crown, too,
+Held it for twenty-six years, in renown,
+The realm of Theodoric's heirs, come through.
 
-He patronized learning, brought Alcuin
-from {{p|York}} to head his palace school.
-The Carolingian Renaissance revived
-classical learning, standardized the scribal tool.
+He brought from {{p|York}} Alcuin, and there, to lead
+His school; old learning lived again and rose;
+The script was made that we today can read,
+And monks would copy old books, and keep those
 
-The Carolingian minuscule script, still
-readable today, was developed at this time.
-Monasteries copied classical manuscripts
-that would otherwise have been lost to time.
+That would be lost. On {{x|Christmas}}, on the day,
+Eight hundred, Leo III crowned his head
+Imperator Romanorum,^[Pope Leo III crowned Charlemagne in St Peter's on Christmas Day 800. The papacy held the imperial throne to be vacant because a woman, Irene, ruled in Constantinople.] to stay,
+In {{p|St. Peter's}}; and the throne, so long dead
 
-On Christmas Day 800, Pope Leo III
-crowned Charlemagne Imperator Romanorum.^[Pope Leo III crowned Charlemagne in St Peter's on Christmas Day 800. The papacy held the imperial throne to be vacant because a woman, Irene, ruled in Constantinople.]
-The throne of the {{p|West}}, empty since Theodoric,
-had an emperor again, in {{p|St. Peter's}} forum.
+Since Theodoric, filled. The Pope would place
+The crown; the claim was not the Pope's: he held
+{{p|Rome}}, {{p|Italy}}, {{p|Gaul}}, {{p|Germany}}, by grace
+Of conquest and of law; and he excelled,
 
-The crown was the Pope's to place, but the claim was not the Pope's:
-Charlemagne was emperor because he held the {{p|West}},
-{{p|Rome}} and {{p|Italy}} and {{p|Gaul}} and {{p|Germany}}, by conquest and by law,
-the heir of the Lombards, who were Theodoric's heirs: a modern claim, and the best.
+Lombards' heir, who were Theodoric's own;
+And this enraged {{p|Constantinople}}, where
+Irene ruled, claimed the {{p|Roman}} throne alone;
+The Byzantines would not let a Frank share
 
-This offended {{p|Constantinople}}, where the
-Byzantine Empress Irene held the throne.
-She claimed to be the only legitimate Roman emperor.
-Her title was challenged by the Frank unknown.
+The crown: for since Justinian, they'd kept
+The {{p|West}} by the usurper's right, no right,
+And kept the throne empty, where none had stepped;
+No Frank would have the crown they'd seized by might.
 
-The Byzantines never accepted the Frankish claim.
-Since Justinian, {{p|Constantinople}} had kept the {{p|West}}
-by the usurper's right, which is no right, and kept the throne empty,
-and would not give a Frank the crown it had seized, not possessed.
-
-{{p|Byzantium}} itself was in a period of flux.
-Iconoclasm had erupted in the 720s,
-when Emperor Leo III had ordered
-all religious images destroyed, and all their beauties.
+{{p|Byzantium}} itself was shaken: then
+Iconoclasm rose, seven-twenties,
+When Leo III, emperor, bade men
+Break holy icons, for all their plenties.
 
 The fight was over who would hold the face:
 the throne, that broke the icons in its name,
 or monks, who kept them in the holy place
 as windows, for a century of flame.
 
-In 787, the {{x|Second Council of Nicaea}}
-affirmed the veneration (not worship) of icons.
-But iconoclasm revived again,
-and was only finally ended in 843, with the icons' advances.
+{{p|Nicaea}}, seven-eighty-seven, said
+The {{x|Second Council}}: honored, not adored;
+It came back, till eight-forty-three, then fled;
+And all the icons came back, were restored;
 
-The {{x|Triumph of Orthodoxy}} is still celebrated
-in Eastern churches on the first Sunday of Lent.
-Icons were fully restored. The aesthetic of Byzantine
-{{x|Christianity}} was sealed, and its descendants went on as they meant.
+{{x|Triumph of Orthodoxy}}'s feast is kept
+In Lent. Cyril, Methodius, then went
+To the Slavs, and made letters where they stepped,
+The Glagolitic, made with this intent:
 
-Cyril and Methodius were Byzantine missionaries
-who evangelized the Slavs in the ninth century.
-They created the Glagolitic alphabet (later Cyrillic)
-to write the Slavic languages, so the Slavs could pray in their own century.
+That they would pray in their own tongue; and so
+{{p|Rus}}, {{p|Moravia}}, {{p|Bulgaria}}'s land,
+Prayed not in {{x|Latin}}, {{x|Greek}}; and so would go
+The faith in each one's tongue, as they had planned.
 
-{{p|Moravia}}, {{p|Bulgaria}}, and eventually {{p|Kievan Rus}}
-would be Christianized in the Byzantine rite
-with Slavic liturgy, unique among European Christianities
-that insisted on {{x|Latin}} or Greek at the site.
+Charlemagne died; his grandsons split the whole
+At Verdun, eight-forty-three: West and East,
+{{p|Middle Francia}}, which broke apart; the toll
+Of Vikings, seven-ninety-three, released
 
-This is the origin of {{x|Eastern Orthodoxy}}'s
-willingness to translate into local languages,
-which shaped the spread of the Slavic {{x|Christianity}}
-into {{p|Russia}}, {{p|Serbia}}, {{p|Bulgaria}}, {{p|Ukraine}}'s pages.
+At {{p|Lindisfarne}}, slew monks, and from the sea,
+From {{p|Scandinavia}}, three hundred years,
+From {{p|Ireland}} to {{p|Russia}}, they would be
+Raiders, then settlers, kings, and turned, by tears.
 
-Charlemagne's empire fragmented after his death.
-His grandsons divided it at the Treaty of Verdun in 843:
-West Francia ({{p|France}}), East Francia ({{p|Germany}}),
-and {{p|Middle Francia}}, which would break apart, and cease to be.
-
-The Viking raids began in the late eighth century.
-The first recorded raid on {{p|Lindisfarne}} in 793
-shocked Christian {{p|Europe}}. The monks were slaughtered.
-The raiders came from {{p|Scandinavia}}, from the sea.
-
-For the next three centuries, Vikings would raid
-from {{p|Ireland}} to {{p|Russia}}, from {{p|Spain}} to {{p|Iraq}}.
-They would settle, found kingdoms, convert eventually.
-But they would be the scourge of the early Medieval track.
+So honor Charlemagne: the empty throne
+Was filled again, eight hundred, at the feast;
+The Lombards' heir, Theodoric's, his own;
+The monks' icons, windows, kept in the {{p|East}}.
 
 
 # Chapter 196: Scandinavia and the Eddas
