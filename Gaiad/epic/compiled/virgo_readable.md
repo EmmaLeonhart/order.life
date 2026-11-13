@@ -171,127 +171,130 @@ Is the list. Here the reckoning comes on.
 
 # Chapter 254: The Sea Joins the World
 
-Before this there were many seas. The {{p|Indian Ocean}}
-Was a market as old as the Pharaohs, where the dhow
-Rode the monsoon out and back, a slow devotion
-To the wind's two seasons, and the merchant's vow
+Before this there were many seas. The old
+{{p|Indian Ocean}}, Pharaohs' market, where
+The dhow rode the monsoon out and back; gold,
+Cloth, pepper, kept the merchant's vow; and there
 
-Was kept in pepper and in cloth and in the gold
-Of {{p|Kilwa}} and the cottons of {{p|Gujarat}}.
-The {{p|Atlantic}} was an edge. The {{p|Pacific}} was untold.
-Each sea had its own world, and that was that.
+{{p|Kilwa}}, and the cottons of {{p|Gujarat}};
+{{p|Atlantic}}, an edge; {{p|Pacific}}, untold;
+Each sea was its own world, and that was that.
+Then Vasco da Gama sailed out, the bold,
 
-Then Vasco da Gama sailed out of {{p|Lisbon}},
-Four ships, the summer of 1497,
-Swung wide into the empty ocean, beyond the reckon
-Of the coast, three months without a sight of land, the heaven
+Four ships, from {{p|Lisbon}}, ninety-seven, swung
+Wide in the empty ocean, past the coast,
+Three months from land, the sky their chart; among
+Their tools, the astrolabe their priest, their host.
 
-Their only chart, the astrolabe their priest,
-And came around the {{p|Cape of Good Hope}} in the cold
-And up the coast of {{p|Africa}} to the east,
-To {{p|Mozambique}}, to {{p|Mombasa}}, where they were told
+They rounded the {{p|Cape of Good Hope}} in cold,
+Up {{p|Africa}}'s east coast to {{p|Mozambique}},
+{{p|Mombasa}}, and {{p|Malindi}}, where, as told,
+A pilot waited, one they came to seek,
 
-To find a pilot at {{p|Malindi}}, and they found one,
-A man who knew the monsoon like a psalm,
-Whose name the chronicles dispute. He was the one
-Who knew. He took them across the ocean's palm
+Who knew the monsoon as one knows a psalm,
+And took them, May of fourteen ninety-eight,
+Across the ocean, open as a palm,
+To {{p|Kozhikode}}. And here the hinge, the gate:
 
-To {{p|Kozhikode}}, in the May of 1498.
-And here is the story to remember, here is the hinge:
-They went into a temple, and they knelt, and they prayed
+They went into a temple, knelt, and prayed
 Before a goddess, and they did not cringe,
+Thinking her Mary; and the priests, arrayed,
+Were Christians of some old rite's broken fringe.
 
-Because they thought she was Mary. They thought the priests
-Were Christians of some old and broken rite.
-They saw the saints on the walls with too many arms, the feasts,
-The lamps, the holy water, and in the light
+They saw the saints with many arms, the feasts,
+The lamps, the holy water, and the light;
+They saw what they had come to see; the priests,
+The Hindus, saw the strangers in their sight
 
-They saw what they had come to see. The Hindus saw
-Strangers bowing to the Mother, and let them bow.
-For one afternoon the world was joined, the law
-Of every rite kept whole, in the one now
+Bow to the Mother, and they let them bow.
+One afternoon the world was joined; the law
+Of all rites whole, in one unbroken now
+Of no mistake. Then trade: the ruler saw
 
-Of no mistake. Then trade. The Zamorin
-Was not impressed by their gifts: some cloth, some hats,
-Some honey. The Arab merchants laughed. And in
-The end they sailed home with pepper, and with rats,
+No worth in gifts, the Zamorin: some cloth,
+Some hats, some honey; Arab merchants laughed;
+They sailed home with the pepper, rats, and froth
+Of scurvy, which killed more than half their craft;
 
-And with the scurvy, which killed more than half of them.
-The pepper paid for the voyage sixty times.
+The pepper paid the voyage sixty-fold.
 And so the sea was opened, and the hem
-Of the world was lifted. Hear the price, the crimes:
+Of the world lifted. Hear the price, as told:
+Da Gama came again, with guns; and them,
 
-Da Gama came again, with cannon. A ship
-Of pilgrims coming home from {{p|Mecca}}, the Miri,
-He took, and stripped, and burned. The women held up gold to buy their lives. The whip
-Of fire took the children. Write it down. Be weary
+The pilgrims, homeward bound from {{p|Mecca}}, he
+Took on the Miri, stripped and burned; the gold
+The women offered for their lives; the sea
+Took children in the flame. Then, harsh and bold,
 
-Of anyone who tells this as adventure only.
-Albuquerque took {{p|Goa}}, and took {{p|Melaka}},
-The strait the whole of {{p|Asia}}'s trade ran through, the lonely
-Gate of the cloves. The ocean that was a bazaar
+Albuquerque took {{p|Goa}}, took the strait,
+{{p|Melaka}}, where all {{p|Asia}}'s trade ran through,
+The gate of cloves; the free bazaar, of late,
+Became a toll road; pay, or burn, they knew.
 
-Became a toll road. Pay the Portuguese or burn.
-And Cabral, sailing for {{p|India}} in 1500,
-Swung too far west and found the coast of {{p|Brazil}}, the turn
-Of a wheel that would roll over the Tupi like thunder.
+Cabral, in fifteen hundred, sailed too far
+West, bound for {{p|India}}, and found {{p|Brazil}},
+The turning of a wheel, beneath a star,
+Over the Tupi like a thunder's will.
 
-Then Magellan. A Portuguese who sailed for {{p|Spain}},
-Five ships from {{p|Sanlúcar}} in 1519, to find
-A western road to the spice islands, to gain
-For Charles the cloves of {{p|Maluku}}, and to bind
+Magellan, Portuguese, who sailed for {{p|Spain}},
+Five ships from {{p|Sanlúcar}}, fifteen nineteen,
+To find a western road, the cloves to gain
+For Charles from far {{p|Maluku}}'s isles of green,
 
-The line the Pope had drawn back round the world.
-Mutiny in {{p|Patagonia}}, and the beheading,
-The marooning. Then the strait, the cold, the curled
-Fingers of the channel, thirty-eight days of threading
+To bind the line the Pope had drawn, around
+The world. In {{p|Patagonia}}, revolt,
+Beheadings, maroonings; the strait, the sound
+Of curled channels, thirty-eight days, the jolt
 
-Through the rock and the williwaw, and then the open
-Water so calm he called it peaceful: the {{p|Pacific}}.
-Ninety-eight days across it, the ship's biscuit broken
-To dust and worms, the leather of the rigging, the specific
+Of williwaw on rock; then waters, bright,
+So calm he named it the {{p|Pacific}}, wide;
+Ninety-eight days across, the biscuit's blight
+To dust and worms; they ate the rigging's hide,
 
-Taste of rats, the men's gums swelling over their teeth.
-And then {{p|Guam}}. And then the islands of the {{p|Philippines}},
-Where Enrique, his slave, a man from beneath
-The winds of {{p|Melaka}}, bought at the scene
+And rats; gums swelled over their teeth; and then
+{{p|Guam}}, and the islands of the {{p|Philippines}},
+Where Enrique, slave, of {{p|Melaka}}'s men,
+Bought at its conquest, spoke, and in those scenes
 
-Of its conquest, spoke to the islanders, and was understood.
-He had come home the long way round. He may have been
-The first human being who ever stood
-Again at his own beginning by going clean
+The islanders could understand. He'd come
+Home the long way around; the first to stand
+Again at his beginning, going from
+Home, around all the world, to his own land.
 
-Around the world. Remember Enrique. Then Magellan
-Baptized a king at {{p|Cebu}}, and wanted more,
-And fought Lapulapu on the beach at {{p|Mactan}}, and fell in
-The shallows, April 1521. The shore
+Remember him. Magellan, at {{p|Cebu}},
+Baptized a king, and wanted more; he fought
+Lapulapu on {{p|Mactan}}'s beach; and through
+The shallows fell, in April; the shore caught
 
-Kept him. Lapulapu kept the island. And the fleet,
-What was left of it, two ships, then one, the Victoria,
-Under Elcano, found the cloves at {{p|Tidore}}, a sweet
-Cargo, and went on west, the long euphoria
+Him, fifteen twenty-one; and, as was due,
+Lapulapu kept his island; the rest,
+Two ships, then one, Victoria, sailed true
+Under Elcano; at {{p|Tidore}}, the best
 
-And misery of the {{p|Indian Ocean}} and the {{p|Cape}}
-And the {{p|Atlantic}} home, and came into {{p|Sanlúcar}}
-In September 1522: eighteen men, the shape
-Of skeletons, of two hundred and seventy. And they were
+Cloves found; west through the {{p|Indian Ocean}},
+The {{p|Cape}}, and the {{p|Atlantic}} home, to land
+{{p|Sanlúcar}}, in September's slow motion,
+Of fifteen twenty-two: eighteen men stand
 
-A day off. Their log said Wednesday. It was Thursday.
-They had sailed with the sun and lost a day to it,
-And the learned men of {{p|Venice}} worked out why. The {{p|Earth}}'s way
-Of turning had been measured by a ship. Admit
+Of two hundred seventy, bone and skin;
+A day off: Wednesday, said the log; and yet
+Thursday it was; they'd lost the day within
+Their sailing with the sun; and {{p|Venice}} set
 
-What this means: the world is one thing now. One sea.
-One sphere you can sail around, one market, one
-Reckoning of days. The many worlds would be
-One world, by cannon and by pepper and by sun.
+Its learned men to work out why; the {{p|Earth}}
+Was measured turning by a ship. Admit
+What this means: one world now, one sea, one girth,
+One sphere to sail around; one market, knit;
 
-Here begins the joining. It was done by force.
-It was done in a temple, on a knee.
-It was done by a slave who found his way back to his source.
-Hold all three. The sea joins. The world will never again be free
+One reckoning of days. The many grown
+One world, by cannon, pepper, and by sun.
+The joining starts: by force; the temple's stone;
+A knee; a slave who came home; hold each one.
 
-Of the rest of the world.
+Hold all three. The sea joins; and from this day
+The world will not be free of all the rest
+Of the world; many seas have passed away:
+One sea, one sphere, one market, east to west.
 
 
 # Chapter 255: There Is No Hindu, There Is No Muslim
