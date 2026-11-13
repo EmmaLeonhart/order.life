@@ -2844,80 +2844,65 @@ The monks' icons, windows, kept in the {{p|East}}.
 
 # Chapter 196: Scandinavia and the Eddas
 
-In the cold northlands of {{p|Scandinavia}},
-where the sun barely rose in winter,
-the Norse developed their distinctive culture,
-preserving Indo-European mythology longer than their fitter.
+In the cold north, {{p|Scandinavia}}, where
+The winter sun would barely rise, the Norse
+Kept the old steppe-born gods, and kept them there
+The longest, in the old rite's living force.
 
 The Europeans kept the bishops' rite;
 the Norse kept the old altars of the North,
 and when they took the bishops in, they'd write
 the old gods down in books, and bring them forth.
 
-The Poetic Edda and the Prose Edda of Snorri Sturluson
-(1179-1241) in {{p|Iceland}} preserved the myths.
-Snorri was Christian, but he loved the old stories
-and wrote them down for scaldic poets' discipline myths.
+In {{p|Iceland}}, Snorri Sturluson set down
+The Prose Edda, and the Poetic old,
+The myths; for, though of Christ, he loved the crown
+Of the old tales, and wrote them, to be told.
 
-Odin, the Allfather, who hung on {{p|Yggdrasil}}
-for nine days and nights to gain the runes.
-Thor, the thunder god with {{x|Mjölnir}} the hammer.
-Freyr and Freyja, fertility gods of the dunes.
+Odin, the Allfather, hung on the tree
+{{p|Yggdrasil}} for nine nights, and won the runes;
+Thor, with {{x|Mjölnir}}, thunder; and, as free,
+Freyr and Freyja, gods of the fields and moons;
 
-Loki, the trickster, who birthed monsters
-(Fenrir the wolf, Jörmungandr the world-serpent,
-Hel the goddess of the dead), and caused
-the death of Baldr, gentlest god, attendant.
+And Loki, trickster, bore the monsters: one,
+Fenrir the wolf, and Jörmungandr, the snake
+That rings the world; Hel, of the dead; and done
+By him, Baldr died, gentle, for his sake.
 
-The cosmology: {{p|Yggdrasil}} the world tree with nine realms.
-{{p|Asgard}} of the Aesir gods. {{p|Vanaheim}} of the Vanir.
-{{p|Midgard}} of humans. {{p|Jotunheim}} of the giants.
-{{p|Niflheim}} of ice. {{p|Muspelheim}} of fire. {{p|Alfheim}} of elves' affair.
+Nine realms upon {{p|Yggdrasil}}: {{p|Asgard}}'s height,
+The Aesir's; {{p|Vanaheim}}, the Vanir's; men
+In {{p|Midgard}}; giants, {{p|Jotunheim}}; and, bright,
+{{p|Alfheim}}, the elves'; the dwarves, in deep, and then
 
-{{p|Svartalfheim}} of the dark elves or dwarves.
-{{p|Hel}} the land of the dead who didn't die in battle.
-{{p|Valhalla}} in {{p|Asgard}} for warriors killed in combat,
-brought there by Valkyries on horseback in rattle.
+{{p|Niflheim}}'s ice, {{p|Muspelheim}}'s flame; and, below,
+{{p|Hel}}, for the dead not fallen; and who fell,
+Valkyries bore to {{p|Valhalla}}; and so
+At Ragnarök, just as the old songs tell,
 
-Ragnarök was the end: Fenrir would devour Odin.
-Thor would kill Jörmungandr but die of its venom.
-The fire giant Surtr would burn the world.
-And then a new world would emerge, clean, a new millennium.
+Fenrir will swallow Odin; Thor will slay
+The snake, and die of venom; Surtr's flame
+Will burn the world; and then, a newer day,
+Two hidden in the tree come out, the same.
 
-This cyclical eschatology distinguishes Norse myth
-from the linear Judeo-Christian end.
-After Ragnarök, two humans hide in {{p|Yggdrasil}},
-come out, repopulate, become friends again.
+Seven-ninety-three, when {{p|Lindisfarne}} burned,
+The Vikings raided, traded, settled; and,
+Founding {{p|Dublin}}, {{p|Cork}}, {{p|Waterford}}; and turned
+To {{p|England}}, and the {{p|Danelaw}} was their land;
 
-The historical Vikings began raiding in 793
-with the attack on {{p|Lindisfarne}} monastery.
-For three centuries they raided, traded, settled
-from {{p|Ireland}} to {{p|Russia}}, an unexpected quandary.
+The Varangians served the emperor's throne;
+They settled {{p|Iceland}}, eight-seventy, came,
+Nine-eighty-six, to {{p|Greenland}}, Erik's own;
+{{p|Vinland}}, a thousand, Leif; and, all the same,
 
-They founded {{p|Dublin}}, {{p|Waterford}}, {{p|Cork}} in {{p|Ireland}}.
-They conquered much of {{p|England}} (the {{p|Danelaw}}).
-They served as mercenaries in {{p|Byzantium}},
-the Varangian Guard, the emperor's personal crow.
+Went up the rivers east to trade, and made,
+The Rus, the {{p|Kievan Rus}}; and Rurik came
+To {{p|Novgorod}}, his kin {{p|Kiev}}; and stayed
+Vladimir took, nine-eighty-eight, the name
 
-They sailed to {{p|Iceland}} and settled it around 870.
-To {{p|Greenland}} under Erik the Red in 986.
-To {{p|Vinland}} ({{p|North America}}) under Leif Erikson around 1000,
-five centuries before Columbus' trick.
-
-They sailed up the Russian rivers to trade
-with {{p|Byzantium}} and the Islamic world.
-The {{p|Kievan Rus}} were founded by Swedish Vikings,
-the Rus tribe, whose name on {{p|Russia}} is unfurled.
-
-Rurik founded {{p|Novgorod}}. His kin took {{p|Kiev}}.
-Vladimir the Great in 988 converted to {{x|Orthodoxy}}
-after sending emissaries to investigate all religions.
-They came back from {{p|Constantinople}} with advocacy.
-
-"We knew not whether we were in heaven or on earth,"
-they reported. The beauty of {{p|Hagia Sophia}}'s liturgy
-had converted them. {{p|Kievan Rus}} became Orthodox.
-The Slavic Orthodox church was born with liturgy.
+Of Christ, from {{p|Constantinople}}, they found,
+His envoys, such a beauty in the rite,
+They knew not if on earth or heaven's ground
+They stood; and so the {{p|Rus}} took up that light.
 
 In {{p|Scandinavia}} kings took the rite:
 first Harald Bluetooth in nine-sixty-five;
@@ -2925,36 +2910,21 @@ Olaf Tryggvason took {{p|Norway}}'s by might;
 Olaf II fell, a saint who would survive.
 
 Sweden came last; the twelfth century saw
-the crown and church take up the temple's law:
-{{p|Uppsala}}'s temple, with its offered dead,
-came down; the altar took new priests instead.
+{{p|Uppsala}}'s temple, with offered dead,
+Come down, as crown and church took up its law;
+The altar took new priests there, in its stead.
 
 In {{p|Iceland}} it was settled without war:
 the {{x|Althing}}, in the year one thousand, said
 the bishops' rite in public; and the door
 of each home kept the old rite there instead.
 
-{{p|Iceland}}'s conversion by parliamentary vote
-is unique in world history of religions.
-It reflected the democratic nature of Icelandic society,
-where legal decisions were made collectively, with provisions.
+The sagas would be written, of that day:
+Of Egil, Njál, Laxdæla; and in {{p|France}},
+Rollo's {{p|Normandy}}, nine-eleven, pay;
+And William, of his line, would take the chance,
 
-The Icelandic sagas would later be written down,
-historical narratives of the settlement period,
-Egil's Saga, Njál's Saga, Laxdæla Saga,
-great literature of a unique historical interlude.
-
-William the Conqueror of {{p|Normandy}} was
-a Viking descendant, whose ancestor Rollo
-had been granted {{p|Normandy}} by the French king
-in 911 to stop the raids, a settlement deal to follow.
-
-{{x|Norman French}} absorbed {{x|Old Norse}} words and
-preserved Norse traits of boldness and administration.
-In 1066, William invaded {{p|England}} and
-won the Battle of Hastings, changing {{p|England}}'s foundation.
-
-The Vikings had ceased to be Vikings,
-assimilating to Christian Latin civilization.
-But they had shaped the map of {{p|Europe}} permanently,
-from {{p|Russia}} to {{p|England}} to {{p|Sicily}}'s nation.
+Ten-sixty-six, at Hastings, and would win
+{{p|England}}. And so the Vikings ceased, and took
+The rite of Christ; but they had shaped, within,
+All {{p|Europe}}'s map: so honor them, their book.
