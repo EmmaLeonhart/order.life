@@ -79,8 +79,8 @@ While mighty sons born of Kondricthus' might
 Ruled by the scents that drifted far and near.
 
 Great Chondricthus could smell from waters far
-Sweet streams that called like some celestial star
-From distant homes across the ocean foam
+Sweet streams that called across the ocean foam
+From distant homes, like some celestial star,
 To waters that would be his future home.
 
 While bright Osticthus with his gifted eyes
@@ -143,7 +143,7 @@ And life is old and deep past all measure
 And memories keep vigil year by year
 Despite the joys and fears time can treasure.
 
-Osticthus married fair Eutelea bright,
+Osticthus married Eutelea bright,
 Beyond compare in beauty and in grace,
 And in their blessed home, all filled with delight
 Together in their sacred dwelling place
@@ -169,8 +169,8 @@ And built with all his loving, patient heart
 Strong bony fins with tender, loving care
 
 To bear his weight as he would gently push
-Through forest's leafy, green, and sacred bush
-With lobed fins strong and wide to be his guide
+Through forest's leafy green, with fins as guide,
+Strong lobes and wide, through reed and leafy bush,
 Through waters where the blessed spirits abide.
 
 While the bright Actinus could clearly see
@@ -224,8 +224,8 @@ The three great vertebrate houses' designs
 Of father, son, and the spirit-brother.
 
 From Janus' legacy through all of time
-The vertebrates would show in reason, rhyme
-How families can grow from humble start
+The vertebrates would show, with mind and heart,
+How families can grow, in reason, rhyme,
 To rule with wisdom's everlasting art
 
 The waters and the land with faithful hand
@@ -234,8 +234,8 @@ That helps them all to truly understand
 What those with faith can always inherit.
 
 From toxic waters' plight to heaven's gift
-Of air and forest green where spirits lift
-Their voices in eternal, sacred song
+Of air and forest green, where, all day long,
+The spirits raise, in sacred song, and lift
 And all that fills the heart with praise lifelong,
 
 The noble sons of Janus found their way
@@ -249,8 +249,8 @@ Each found what they could keep forever true
 As legacy for all we'll ever know
 
 Who trace our lineage back through time
-To those who stayed upon the path sublime
-Through every trial and every faithful test
+To those who, tried by every faithful test,
+Had stayed upon the path, the path sublime,
 That challenged them to give their very best.
 
 From nose that smells each scent upon the breeze
@@ -264,8 +264,8 @@ When life's complexity is all we see,
 Beyond what we can do by word or deed
 
 Alone, but heaven always knows the way
-That every story goes from night to day
-And what each seeking soul requires to find
+And what each seeking soul requires to find,
+And how each story turns from night to day,
 The peace that comes to every faithful mind.
 
 From great Chondricthus' scent to the ascent
@@ -274,73 +274,73 @@ Through grace and mercy that were truly sent
 By heaven's everlasting, perfect love,
 
 The vertebrates remind us that the mind
-That seeks beyond the small will always find
-The call of something more than mortal hand
-Can ever comprehend or understand
+That seeks beyond the small, at heaven's hand,
+The call of something more will always find
+Than mortal sense can grasp or understand
 
 Alone, but grace reveals to those who pray
-For help and guidance on the faithful way
-And trust that heaven sees what we cannot
+And trust that heaven sees what we cannot,
+For help and guidance on the faithful way,
 And gives us everything that we have not
 
 The strength to find within our mortal frame
-But must receive through heaven's holy name
-By grace that flows from realms beyond our sight
+But must receive by grace beyond our sight,
+That flows from realms through heaven's holy name,
 Beneath the dome of stars' eternal light.
 
 From toxic water's curse to freedom's song
-That sings of hope renewed and spirits strong
-Who found their destiny through faithful prayer
+That sings of hope renewed, and of the prayer
+Of those whose spirits, faithful, rose up strong
 Beyond what others thought that they could dare,
 
 The three great houses born from Janus' line
-When heaven blessed his children with divine
-And sacred gifts show us that every choice
-To lift in prayer our faithful, seeking voice
+Whom heaven blessed with gifts, show that the choice
+To pray, and seek, and ask the gifts divine,
+And lift in prayer our faithful, seeking voice
 
 For what we need will plant a holy seed
-That grows beyond our sight to meet our need
-In ways we never dreamed that we would see
+That grows, in ways we never dreamed we'd see,
+Beyond our sight, to meet our deepest need,
 When we believed that we for all must be
 
 Responsible alone; but heaven's grace
+In love's eternal plan for you and me,
 Reveals to us our true and destined place
-In love's eternal plan for you and me
 Through all the days of all that is to be.
 
 From Elivagar's sacred, flowing stream
-To all we'll ever know of heaven's dream
-Of home where we belong in wisdom's song,
+To home, where we belong in wisdom's song,
+To all we'll ever know of heaven's dream,
 The vertebrates have traveled far and long
 
 To show us how from humble, simple start
-We too can master wisdom's sacred art
-That sees with eyes made clear by heaven's light
+We too, with eyes made clear by heaven's light,
+Can master wisdom's sacred, ancient art
 Beneath the stars that bless us through the night.
 
 The legacy lives on from dusk to dawn
-In every vertebrate soul that is drawn
-To growth beyond the bounds of mortal thought
+In every vertebrate, in every thought,
+In every soul that upward will be drawn
 To treasures that can never once be bought
 
 With earthly coin but only with the prayer
-Of faithful hearts who know that heaven's care
-Extends to all who seek to truly be
-More than they seem, and through the ages free.
+Of faithful hearts, who seek to truly be
+More than they seem; for heaven's love and care
+Extends to all, and through the ages free.
 
 From Janus to the three great houses blessed,
-We see how prayer and faith when they're expressed
-Together free the seeking, faithful mind
+We see how prayer and faith will free the mind,
+Together, when they're truly both expressed,
 And help the heart true peace and wisdom find
 
 Beyond what we can know through strength alone,
-But when we trust in grace that's freely shown
-The whole world opens wide with love to guide
+But when we trust in grace, with love to guide,
+The whole world opens wide, its wonders shown,
 Our steps to where true peace and joy reside
 
 In realms of light beyond what we had dreamed
-When we were bound by what to us seemed
-The limits of our small and mortal sight,
+When we were bound by what was in our sight,
+By limits small and mortal, as it seemed;
 But heaven lifts us to eternal light
 
 Where every dream comes true for you and me
