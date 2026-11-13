@@ -435,7 +435,7 @@ Through all the water and through all the waves
 To make each motion perfect, every rhyme,
 In all the ocean's deep and liquid caves.
 
-And {{c|1049|Aeros}} bore in time, as it is told,
+And {{c|1049|Aeros}} bore in time, from days of old,
 First {{c|1052|Pulmon}}, who was very strong and great,
 A son, and then a daughter, brave and bold,
 {{c|1053|Angelica}}; for it was her own fate
