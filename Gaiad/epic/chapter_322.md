@@ -1,131 +1,86 @@
 # Chapter 322: The Published Frequency
 
-On the fourth of October, 1957, at twenty-eight minutes
-And thirty-four seconds past seven in the evening,
-By the time kept at {{p|Greenwich}},
-A sphere left a pad at {{p|Tyuratam}}.
-By the clock in {{p|Moscow}} it was twenty-eight minutes
-And thirty-four seconds past ten at night.
-At the pad it was twenty-eight minutes
-And thirty-four seconds past midnight,
-And the date was the fifth.
-Do not collapse the three clocks into one day.
-The world dates the launch on the fourth.
+October fourth, in 'fifty-seven, late,
+At {{p|Greenwich}}, seven-twenty-eight; a sphere
+Left {{p|Tyuratam}}; at {{p|Moscow}}, ten; the date
+At the pad, fifth, past midnight; but, made clear,
 
-The pad is in what is now {{p|Kazakhstan}}.
-The site is now called {{p|Baikonur}}.
-The town of that name is not the pad.
-Do not say the sphere left from the town.
+The world dates it the fourth. The pad is in
+What's now {{p|Kazakhstan}}; {{p|Baikonur}}, the name
+Its name today, not the town's; and, within,
+The sphere, the simplest satellite; the same
 
-The sphere was the simplest satellite.
-The word in the announcement is the word for a satellite.
-The name that stayed is {{x|Sputnik}}.
-It was fifty-eight centimeters across.
-It weighed 83.6 kilograms.
-Four antennas stood out from it.
-Thirty-six bolts joined the shell.
-Nitrogen was sealed inside.
-These are the object's measures.
-They are not a meaning.
+Word for a satellite: the name that stayed,
+{{x|Sputnik}}; fifty-eight centimeters wide;
+Eighty-three kilos; four antennas splayed,
+Thirty-six bolts; nitrogen sealed inside;
 
-The rocket was a form of the {{x|R-7}}.
-That form had been made to carry a warhead
-From one continent to another.
-In August of that year a rocket of this form
-Had already completed a flight, with no satellite on it.
-This one carried a sphere.
-The sphere was not a bomb.
-Do not make the orbit into a proof
-That a weapon had been justified.
-Do not make the sphere into the weapon.
+These are its measures; and its meaning: flight,
+The living's going out into the sky,
+A part of life's own purpose; and the might
+Its rocket, {{x|R-7}}'s, was made to fly,
 
-{{c|4424|Sergei Korolev}} directed the work.
-The state did not publish his name.
-The frequency was published.
-Hold those two acts.
-They are not the same kind of secrecy.
+A warhead, land to land, its first intent;
+In August one had flown, unloaded, light;
+This one, a sphere, no bomb; its sending, meant,
+{{c|4424|Sergei Korolev}} led, his name kept tight;
 
-The sphere transmitted on 20.005
-And on 40.002.
-A beep, and a beep.
-A radio that could reach those numbers
-Could hear that the sphere was passing.
-The beep is not a speech.
-It says the body is there.
-It does not say why the body was sent.
+The state did not publish it; but it gave
+The frequency: twenty point oh-oh-five,
+And forty point oh-oh-two; and a wave
+Of beeps: the body passing, there, alive.
 
-That night the agency announced
-That a satellite was in orbit.
-A circuit takes about ninety-six minutes.
-The announcement is not the beep.
+A radio that reached those numbers heard
+The sphere go by; it said why it was sent:
+To go; that night, the agency's own word:
+In orbit; ninety-six minutes; it went
 
-The batteries lasted until the twenty-sixth of October.
-On the fourth of January, 1958, the sphere came down.
-It burned. It was not recovered.
+On to October's twenty-sixth, its cells;
+And January's fourth, in 'fifty-eight,
+It came down, burning, not recovered; tells
+November third: a second one, the freight
 
-On the third of November a second satellite
-Left the same pad.
-It carried a dog. Her name was {{c|4425|Laika}}.
-There was no way prepared to bring her down.
-The report said she lived for days.
-In 2002 {{c|4426|Dimitri Malashenkov}} said the heat
-Had killed her within hours,
-By the fourth circuit.
-Do not repeat the report that she lived for days.
-Do not describe the cabin.
-She was sent, and she was not brought back.
-The seventh of November was the anniversary
-They were writing toward.
-The dog went up on the third.
-An anniversary is not a reason that answers for her.
+A dog: her name was {{c|4425|Laika}}; there was no
+Way made to bring her down; the report, days;
+{{c|4426|Dimitri Malashenkov}}, later, so:
+Two thousand two: heat killed her; in the blaze,
 
-This day of the book keeps a rite on the fifteenth of November,
-In the count {{p|Japan}} uses.
-The rite is {{x|Shichi-go-san}}.
-Seven, five, and three.
-It is not a holiday of the state.
-A household may go on the day, or on a day near it.
+By the fourth circuit, hours. And this book keeps
+Her with its honored dead, the first to stand
+Where living went; sent, not brought back, she sleeps;
+The seventh, anniversary, was planned
 
-At three the child's hair was let grow.
-That rite was kept for girls and for boys.
-At five a boy was dressed in hakama,
-The formal trousers.
-At seven a girl took the wide sash.
-The visit to a shrine, as households keep it,
-Spread in the {{x|Meiji}} years.
-The tradition says the shogun {{c|4427|Tokugawa Tsunayoshi}} fixed the fifteenth for his son,
-And this book keeps the tradition.
+For; she went up the third. This day, the book
+Keeps, too, a rite: November's fifteenth, kept
+In {{p|Japan}}'s count: {{x|Shichi-go-san}}; and look:
+Seven, five, three; not the state's; households stepped
 
-The child is taken to a shrine.
-Thanks are given that the child has lived.
-The wish is that the child go on living.
-The candy is called a thousand years.
-It is red and white.
-The candy is not a contract.
+To shrines on the day, or a day near; three:
+The child's hair let to grow, for girls and boys;
+At five, a boy in hakama, to be
+Formal; at seven, girls, wide sash; the poise
 
-Do not say the children were brought
-Because a sphere was in the sky.
-The year of the launch is 1957.
-The rite is older than the year.
-The calendar of this book puts them on one day.
-Count both. Do not make them one cause.
+The shrine visit, as households keep it, spread
+In {{x|Meiji}} years; the shogun, in the old
+{{c|4427|Tokugawa Tsunayoshi}}, who led
+The fifteenth for his son; this book will hold
 
-A frequency can say that a body is passing.
-The body should have been sent: going to space is part of life's purpose.
-A count of three ages can say a child has lived this far.
-The child is wished a thousand years, and the wish is a prayer of life.
-The rocket was built for a warhead.
-The night it flew, it carried a sphere that beeped.
-The beep is a finite means.
-The rite is a finite thanks.
-Neither one is a permission.
-Neither one is the sky's purpose.
+Tradition. The child is brought to a shrine;
+Thanks, that the child has lived; the wish, to go
+On living; candy, thousand years, the sign,
+Red, white; the wish, a prayer of life; and so
 
-Count the fourth of October by the world's clock,
-And the fifth at the pad.
-Count the name that was withheld
-And the two numbers that were not.
-Count the dog, and the hours, not the days.
-Count seven, five, and three.
-The sphere came down.
-The rite is still kept.
+The launch and rite are on one day: count both;
+The rite is older than the year; and when
+A sphere goes up, it is the living's growth,
+And when a child has lived, the same; and then
+
+The sky is part of life's own purpose: go;
+The child, a thousand years; the sphere, the flame;
+Both prayers of life, both thanks; and both, we know,
+Are kept by this book's calendar, the same.
+
+Count October's fourth by the world's own clock,
+The fifth at pad; the name withheld; the two
+Numbers not; the dog; her hours, by clock;
+Seven, five, three; sphere down; the rite kept true.
