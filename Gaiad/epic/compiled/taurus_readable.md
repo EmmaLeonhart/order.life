@@ -76,207 +76,85 @@ The father, in {{p|Siberia}}'s long days.
 
 # Chapter 142: Manu and Yemo — R and the Yamnaya
 
-And R came back.
+And R came back. From {{p|Lake Baikal}}'s cold shore
+He turned and walked the long road to the west,
+Across the taiga, and the {{p|Urals}}, for
+The sea of grass, where he would come to rest.
 
-                           From the deep east, from the cold
-And frozen shores of {{p|Lake Baikal}}, the lineage that had
-Reached the edge of {{p|Siberia}} turned and walked west. The bold
-And homeward migration that would become the single largest
+From the {{p|Carpathians}} to the {{p|Altai}}, wide,
+The {{p|Pontic-Caspian steppe}}; there he stayed,
+And there his sons were born, and at his side
+His two sons grew, the house that R had made.
 
-Expansion of any haplogroup in the entire human tree.
-R left the lake. R crossed the taiga. R crossed
-The {{p|Ural Mountains}}. R descended into the grasslands—the great sea
-Of grass that stretches from the {{p|Carpathians}} to the {{p|Altai}}, crossed
+His sons were Manu and Yemo, the twins,
+The houses R1a and R1b;
+And here the story of the world begins,
+When Manu offered Yemo up; and he
 
-And crossed again by every subsequent steppe migration. And
-There, on the {{p|Pontic-Caspian steppe}}, R settled. And there,
-Over the following thousands of years, a very specific set of
-Events took place that would change the linguistic and genetic
+Was slain, the first of all; and then the whole
+Of the world's order rose from Yemo's frame:
+His head became the sky, the sun's bright bowl
+His eyes, and moon; his bones, the mountains came;
 
-Map of most of the world.
+His blood, the rivers; and from him the kind
+Of every man: the priest came from his head,
+The fighter from his chest, and, so designed,
+The farmer from his loins, the land to tread,
 
-                               R's sons were two: R1a and R1b.
+The servant from his feet; the cattle, too,
+Came from his flesh; and so the world was made
+From that first sacrifice, and it holds true:
+The order of the world from Yemo laid.
 
-And in the {{x|Gaiad}}'s reading, they are Manu and Yemo.
+The north calls Yemo Ymir, and it calls
+Manu Mannus; {{p|India}}'s Yama died
+The first of men, and rules the dead's dark halls,
+And Manu there outlived the flood's great tide.
 
-                                                                   Manu.
-Yemo. The {{x|Proto-Indo-European}} founding pair. The first man and
-His twin. The cosmogonic pair whose story, reconstructed from the
-Linguistic evidence of the daughter traditions, tells the myth
+And on the steppe they tamed the horse; and then
+A man on horseback crossed in one bright day
+What walking took a week; the herds, the men,
+The wars, now moved with speed none could gainsay.
 
-Of the first sacrifice. Yemo is sacrificed by Manu to create
-The world's order. Out of Yemo's body, the cosmos is made.
-The head becomes the sky. The eyes become the sun and moon. The bone
-Becomes the mountains. The blood becomes the rivers. The plaid
+And so the {{p|Yamnaya}} rose, riders, those
+Who herded cattle on the grass, and raised
+The {{p|kurgan}} mounds above their dead in rows
+On the {{p|Pontic-Caspian}} lands they grazed.
 
-And woven fabric of social order is woven from Yemo's parts:
-The priest comes from the head, the warrior from the chest,
-The farmer from the loins, the servant from the feet. The harts
-And cattle of the world come from Yemo's flesh. The rest
+And out they rode, in every way they went:
+West to {{p|Europe}}, R1b to the west,
+R1a to the east, as they were sent,
+Brought {{p|Corded Ware}} and {{p|Beaker}}, and the rest.
 
-Of the creation myth follows from this single primal sacrifice.
+And so the men of {{p|Europe}} stand in three:
+The house of I below, of G between,
+Of R above; {{p|Sardinia}}, by sea,
+Keeps G, and in the north the I is seen.
 
-And this myth survives, in fragments, in the daughter languages:
-Mannus and Ymir in the {{p|Germanic}} tradition—where Ymir is the twice-
-Sacrificed frost-giant whose body becomes the world. The strangeness
+South, through {{p|Central Asia}}, R1a rode
+To {{p|India}} with chariot and song,
+And with the house of H and L abode,
+And they were one, the {{p|Vedas}}' holy throng.
 
-And dismemberment of Ymir is the reflex of the primal myth
-In the {{p|Germanic}} branch. Manu and Yama in the {{p|Indian}} tradition—where
-Yama is the first man to die, who becomes the god of death and the
-Underworld. And Manu, the survivor of the flood, is the ancestor
+There it became {{p|Sanskrit}}, and in {{p|Iran}}
+{{p|Avestan}}; and {{p|Tocharians}}, far east,
+In {{p|Tarim}}'s sands, the farthest of the clan,
+Left red-haired dead, and kept the steppe's old feast.
 
-Of all humans. Romulus and Remus in the {{p|Roman}} tradition—where
-The fratricide is preserved (one brother kills the other) but the
-Cosmogonic payoff is attenuated. Romulus kills Remus and founds
-{{p|Rome}}, but Remus's body does not become the world—his death is simply
+And half of all who live, today, still speak
+The tongue of R, from {{p|Ireland}} to {{p|Nepal}}:
+The {{p|Romance}} tongues, {{p|Germanic}}, {{p|Slavic}}, {{p|Greek}},
+{{p|Armenian}} and {{p|Celtic}}, Persian, all.
 
-The founding sacrifice of a single city. Gayomart in the {{p|Iranian}}
-Tradition, the first man, whose seed spawns the first couple. All
-Of these are reflexes of the same primal myth. The twin myth
-Spread across the whole {{x|Indo-European}} language family because it was
+To {{p|Cucuteni}}'s painted towns there came
+The riders; and the farmers' daughters wed
+The sons of R, and in one house, one name,
+The steppe and the old {{p|Europe}} both were bred.
 
-The founding myth of the {{x|Indo-European}} people. And the {{x|Indo-European}}
-People were R1a and R1b. The haplogroups and the myth traveled
-Together. The myth was the story the R men told about themselves.
-The haplogroups were the biological signature of the men who carried
-
-The story. Together they are the R lineage, the boomerang lineage,
-The lineage that came back from the east and made the west.
-
-And what they did with the steppe, before they expanded, was
-To domesticate the horse. And the horse changed everything.
-
-The horse was domesticated on the {{p|Pontic-Caspian steppe}}, somewhere
-Around five thousand years ago, by the pre-Yamnaya cultures of the
-Region. {{p|Botai}}, in northern {{p|Kazakhstan}}, has the earliest clear
-Evidence of horse domestication—bit wear on horse teeth from around
-
-Three thousand five hundred BCE. And once the horse was domesticated,
-The mobility of the steppe peoples became something unprecedented
-In human history. A man on a horse can cover twenty, thirty, fifty
-Miles a day—distances that on foot would have taken a week. Herds
-
-Can be managed across vast territories. Warfare can be conducted at
-A range and speed that foot-based cultures cannot match. The horse
-Is the technology that makes the steppe into the fastest-moving
-Zone of human habitation. And the R-carrying peoples of the steppe
-
-Are the first beneficiaries. The {{p|Yamnaya}} culture emerges around
-Three thousand three hundred BCE. The {{p|Yamnaya}} are horse-riders,
-Cattle-herders, makers of {{p|kurgan}} burial mounds across the
-{{p|Pontic-Caspian}} grasslands. And from the {{p|Yamnaya}} homeland, the
-
-Expansion begins.
-
-                   In every direction.
-
-                                         West: into {{p|Europe}}. The
-{{p|Corded Ware culture}}, the {{p|Beaker culture}}, the subsequent waves
-Of bronze-age {{p|European}} populations—all descend, in substantial
-Percentages, from the {{p|Yamnaya}} migration westward. Ancient DNA
-
-Studies published in the twenty-tens showed that a substantial
-Portion of modern {{p|European}} male Y-chromosomes derive from an
-Expansion originating on the {{p|Pontic-Caspian steppe}} around
-Three thousand BCE. The signature is unmistakable: R1b is
-
-Overwhelmingly dominant in {{p|Western Europe}}. R1a is dominant in
-{{p|Eastern Europe}}. The two great R sub-branches swept across the
-Continent, overlaying the earlier G ({{x|Neolithic}} farmer) layer
-And the even earlier I (hunter-gatherer) layer. The modern
-
-{{p|European}} male is a three-layer cake. I at the bottom. G in the
-Middle. R at the top. And the percentages vary by region: {{p|Sardinia}}
-Is still heavily G-dominated. The {{p|Balkans}} and {{p|Scandinavia}} retain
-Heavy I frequencies. But R is the dominant layer almost everywhere.
-
-And south: into {{p|Central Asia}}, through the {{p|Bactria-Margiana Archaeological
-Complex}}, and eventually into {{p|India}}. The {{p|Aryan migration}} is R1a's
-Southern expansion. The chariot-driving, horse-riding, {{p|Vedic}}-hymn-
-Chanting peoples who enter {{p|India}} around fifteen hundred BCE and
-
-Merge with the existing H-and-L {{p|Indus Valley}} population to create
-The civilization that will eventually compose the {{p|Vedas}} and the
-{{p|Mahabharata}} and the {{p|Ramayana}}—these are R1a-carrying men. The
-{{p|Aryan}} peoples are, in the {{x|Gaiad}}'s reading, R1a. The language they
-
-Bring is {{x|Proto-Indo-Iranian}}. It will become {{p|Sanskrit}} in {{p|India}} and
-{{p|Avestan}} in {{p|Iran}}, and it will become the basis for the entire
-{{x|Indo-Iranian}} language family. And east: into {{p|Tarim Basin}} of what is
-Now {{p|Xinjiang}}, where the {{p|Tocharians}}—speakers of the eastern-most
-
-{{x|Indo-European}} language branch—established themselves, leaving blond
-And red-haired mummies in the desert that bewildered later {{p|Chinese}}
-Travelers. The {{p|Tocharians}} are an outlier of the R1a expansion,
-The branch that went furthest east before being absorbed.
-
-The {{p|Yamnaya}} expansion is, in the {{x|Gaiad}}'s reading, the single largest
-Genetic and linguistic event of the {{x|Bronze Age}}. It recasts the
-Population of {{p|Europe}}. It recasts the population of {{p|India}}. It creates
-The {{x|Indo-European}} language family in its historical form—the family
-
-That includes all the {{p|Romance}} languages, all the {{p|Germanic}} languages,
-All the {{p|Slavic}} languages, all the {{p|Indo-Iranian}} languages, {{p|Greek}}, {{p|Armenian}},
-{{p|Albanian}}, {{p|Celtic}}, and the extinct {{p|Anatolian}} and {{p|Tocharian}} branches.
-Half of all living humans speak an {{x|Indo-European}} language as their
-
-Native tongue. And that half speaks {{x|Indo-European}} because, five
-Thousand years ago, a single haplogroup lineage—R, the boomerang
-Lineage, the lineage that went east to {{p|Baikal}} and then turned around
-And came back—domesticated the horse, invented the chariot, developed
-
-A religious and linguistic package that would spread across half
-Of {{p|Eurasia}}, and rode out of the steppe in every direction at once.
-
-Manu and Yemo. R1a and R1b. The twin founding pair of the
-{{x|Indo-European}} world. The myth that said: one brother sacrificed the
-Other to make the cosmos. The haplogroup-pair that said: we will
-Cover half the known world with our descendants. Both were true.
-
-The {{p|Yamnaya}} expansion is the mythic and the genetic and the linguistic
-All at once. It is the moment when a single steppe culture, having
-Mastered the horse and the wheel and the bronze axe, explodes outward
-And reshapes {{p|Eurasia}} for the rest of recorded history.
-
-The {{p|Cucuteni-Trypillia}} civilization of {{p|Moldova}} and {{p|Ukraine}}—the
-Great pre-Yamnaya {{p|European}} culture, the one that built giant wooden
-Cities painted with spirals, the one that worshipped the goddess
-Of the old {{p|Europe}}—is burned to the ground by the {{p|Yamnaya}} advance.
-
-The farming towns are taken by the band
-Of horsemen and their fathers. On the land
-The goddess keeps her rite, but in the hall
-Of the sky-father, who now holds it all.
-The painted pot gives way to corded ware,
-The spiral to the wheel; the mother there
-Bows, keeps her rite, and serves the king as well.
-Old {{p|Europe}}'s tongues, whatever they were, fell
-To {{x|Proto-Indo-European}}'s spell.
-This is the pivot. This is the change. This is the moment when
-The {{p|Europe}} we know today begins. Indo-European-speaking, patrilineal,
-
-Patriarchal, horse-riding, sky-father-worshipping. Everything that
-Makes modern {{p|Europe}} distinctively itself was brought, in seed form,
-By the {{p|Yamnaya}} expansion.
-
-And every subsequent {{p|European}} civilization—the {{p|Celts}}, the {{p|Greeks}}, the
-{{p|Romans}}, the {{p|Germanic}} tribes, the {{p|Slavs}}—is a downstream elaboration
-Of the {{p|Yamnaya}} cultural package. {{p|Rome}} is {{p|Yamnaya}}'s grandchild.
-{{p|Christianity}}, with its sky-father God, is the great-great-grandchild
-
-Of the {{p|Yamnaya}} religious imagination. And the modern world—most
-Of it—walks in paths first laid by the R-carrying men who rode
-West out of the {{p|Pontic-Caspian}} steppe at the dawn of the {{x|Bronze Age}}.
-
-Manu sacrificed Yemo and made the world.
-
-R1a and R1b spread across {{p|Eurasia}} and made the {{x|Indo-European}}
-World.
-
-The myth and the haplogroup are the same story, told twice—once
-In the grammar of genealogy, once in the grammar of myth.
-
-R. The {{p|Yamnaya}}. The boomerang. The {{x|Indo-European}}.
+So honor R, the boomerang, who came
+Back from the east, and tamed the horse, and rode;
+And honor Manu, Yemo, and their name,
+The twins, the sacrifice, the world's first code.
 
 
 # Chapter 143: E — Returns to Africa
