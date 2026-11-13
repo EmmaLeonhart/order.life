@@ -1,9 +1,9 @@
 # Chapter 144: Malta — The Oldest Temples
 
-The haplogroup register now gives way;
-The named civilizations here begin,
-The first of them still nameless to this day:
-They left no writing we can read it in.
+And now the builders of the temples rise,
+The first of them, a people without name;
+They kept no writing, but beneath their skies
+They raised their gods' first houses all the same.
 
 On a small dry isle in the middle sea,
 {{p|Malta}}, some few thousand farmers at most
@@ -12,19 +12,16 @@ The oldest on the earth, before the host
 
 Of {{p|Egypt}} piled its pyramids, before
 The ziggurats of {{p|Sumer}}, and ahead
-Of {{p|Stonehenge}}: begun, as the dates have shown,
-Thirty-six hundred B.C.E.; for more
-Than a thousand years they built there, and spread
-Their temples on that shore, stone upon stone.
+Of {{p|Stonehenge}}: they began, in days of yore,
+Thirty-six hundred B.C.E., and spread
 
 For {{p|Ġgantija}} and {{p|Ħaġar Qim}}, and for
 {{p|Mnajdra}} and {{p|Tarxien}}, out of bedrock's hold
 They cut out blocks of fifty tons, and bore
-Them with no wheel or metal. Gone, the lore
-Of how, when, by what craft: argued, untold.
+Them with no wheel or metal, strong and bold.
 
 They left no name for themselves, or for one
-Of any gods they served. What we can keep
+Of any gods they served; and what they keep
 Is stone and sherd and bone, and, one by one,
 The little figures, seated or asleep:
 
@@ -38,7 +35,7 @@ Beneath Old {{p|Europe}}, ere the horsemen came;
 {{p|Venus of Willendorf}} on other ground;
 {{p|Cucuteni-Trypillia}}'s clay: the same
 
-Great mother, as the {{x|Gaiad}} reads the sign.
+Great mother, and the same unbroken line.
 But nowhere else did that devotion raise
 Such stone. Look at the temples' own design,
 The shape they kept through all their building days:
@@ -50,7 +47,7 @@ Before each room the uprights lintels span:
 
 The trilithon, a thousand years ahead
 Of {{p|Stonehenge}}. The carved spirals on the walls,
-The plant, the beast, the pillar-pairs some read
+The plant, the beast, the pillar-pairs that lead
 As gateways of the world; and in the halls,
 
 Figurines, ash of the ritual fire,
@@ -59,29 +56,27 @@ A thousand years the isle fed the choir
 Of builders. Then the builders were no more.
 
 Then, near twenty-five hundred B.C.E.,
-With no war, burning, or invader, we
-See temples simply empty; no one tends
-Them: so the age of temple-building ends.
+The temples stood, and none would tend them more;
+No war, no burning, and no enemy;
+So ended temple-building, and its lore.
 
 The {{x|Bronze Age}} settlers who came later on
-Had no memory of who built upon
-Its hills the temples. Likeliest, the cause:
-The isle, ringed by sea, was used up, because
+Kept no remembrance of the builders' name;
+The isle, ringed by the sea, was spent and gone:
+Its soil worn thin, its forests felled for flame
 
-Its soil worn thin by tilling, and its hills
-Stripped of their trees for firewood and the work
-Of moving stone, until the land that fed
-Some thousands of the builders, in the murk
-Of slow decline, could not; and by these ills,
-Not with a bang, they starved, thinned out, or fled.
+And moving stone, until the land that fed
+Some thousands of the builders could not feed
+Them more; not with a bang, they starved or fled,
+Or thinned away, in slow decline and need.
 
 The temples stood upon the windy rise
 Four thousand years, empty, without a stir,
-Till, in the nineteenth century, with eyes
-Of {{p|Europe}}, they were read for what they were.
+And stand there still, beneath the island skies,
+And are, today, the very thing they were.
 
-The {{x|Gaiad}} honors them as first in line
-After {{p|Göbekli Tepe}}: hunters came
+So honor them, the first ones in the line
+After {{p|Göbekli Tepe}}, where hunters came
 To gather at the stones; here, at the shrine,
 The settled farmer laid his harvest's claim.
 
@@ -95,10 +90,10 @@ Gave out. No palace and no city wall,
 No fortress: only temples, by each hand.
 They built for their gods, and that was the all.
 
-The {{x|Gaiad}} reads the temple as elder
-Than cities (at {{p|Göbekli Tepe}} shown),
-Greater for thousands of years; no welder
-Of stone to faith was purer, straighter, known.
+The temple, then, is elder than the town,
+As at {{p|Göbekli Tepe}} it had been shown,
+Greater for thousands of years; none laid down
+A purer bond of faith to work in stone.
 
 In one narrow sense, they were most devout
 Of any people in the human line;
@@ -107,18 +102,18 @@ Ahead of field and harvest, then the shrine
 
 Devours the hands that raise it. The wrong
 Is not the temple; building can outrun
-The ground beneath it. {{p|Rapa Nui}}, long
-After, will drink that cup: each tree undone
+The ground beneath it; and the isle, ere long,
+Was stripped, its trees and fields and harvest done.
 
-To move the {{p|Moai}}, and the island's fall.
 Small island, fervent faith, the building spree,
-And then the crash: {{p|Malta}} was first of all.
-Both are warnings; neither one, as we see,
+And then the crash, and then the island's fall:
+{{p|Malta}} was first, a warning, as we see,
+That few who came thereafter heard at all.
 
-Is heeded by the ones who come after.
 Was this a tragedy, or was it great?
-The {{x|Gaiad}} answers not; without laughter
-And without blame, it says that both have weight:
+Both, without laughter and without a blame;
+And each of them, the two, has equal weight;
+And so we tell them both, and both the same:
 
 The temples splendid, and the builders dead;
 Their gods remembered now by none who live;
@@ -138,9 +133,9 @@ Of farmers whose surplus fed stone, till lands
 Ran out: the whole people that set the shrine
 Above itself, and perished by the choice.
 {{p|Malta}}: first temple people in the line
-Since {{p|Göbekli Tepe}}: first warning voice.
+Since {{p|Göbekli Tepe}}; the first warning voice.
 
 The first loss: in the human age, the first
 Civilization whose remembered name
-Is gone, the {{x|Gaiad}} tells, with none to claim
-Its stones, its gods, the people that dispersed.
+Is gone, its people scattered and dispersed,
+With none of all who live its stones to claim.
