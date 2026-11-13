@@ -27557,300 +27557,195 @@ Descends from that first settled choice to stand.
 
 # Chapter 137: J — The Semitic World
 
-And when {{c|1895|IJ}} split in two, the sister pair
-Of haplogroups went each its way from there:
-{{c|1875|I}} walked to {{p|Europe}}, hunter of the north;
-{{c|1876|J}} stayed near where the two had issued forth,
+When {{c|1895|IJ}} split in two, the sister pair
+Went each its way: {{c|1875|I}} walked into the north,
+To {{p|Europe}}, hunting; {{c|1876|J}} stayed on, back there,
+Near where the two of them had issued forth,
 
-The grinding meeting-place where there are met
-{{p|Anatolia}}, {{p|Zagros}} mountains, set
-{{p|Arabian Peninsula}}, {{p|Levant}}:
-And there it spread, no portion of it scant,
+Where {{p|Anatolia}} and {{p|Zagros}} meet,
+And the {{p|Levant}}, and {{p|Arabian}} sand:
+The grinding meeting-place, the crossing street;
+And there it spread, through all that central land.
 
-Across the geographic heart it went.
-{{c|1876|J}} is the {{p|Middle Eastern}} sign, and sent
-The fountain of that region's ancient seal
-Of civilizations: men who still deal
+{{c|1876|J}} is the {{p|Middle Eastern}} house, and sent
+The fountain of its ancient seal, the men
+Of the first cities, where the first laws went,
+Who made the writing, and began the pen.
 
-In first cities; who wrote the oldest laws,
-Invented writing, and without a pause
-Began the human venture of the pen.
-{{c|1876|J}} has two major branches, known to men
+{{c|1876|J}} has two houses, {{c|1907|J1}} and {{c|1908|J2}},
+That parted, and went off to other lands:
+{{c|1907|J1}}, the house of {{p|Arabia}}, grew
+The {{p|Bedouin}} and the {{p|Yemeni}} bands,
 
-As {{c|1907|J1}} and {{c|1908|J2}}. The cause and date
-Of their dividing came, as scholars state,
-Some thousand years past {{c|1876|J}}'s emergence; still
-And they went to different lands, until
+The {{p|Saudi}}'s house, the father-line, the name
+Of all the {{p|Bedouin}}; the Desert {{c|1876|J}},
+On camel-paths where {{p|Rub' al Khali}} came
+And blew its sands across the trackless way,
 
-{{c|1907|J1}} became {{p|Arabian}}: it is
-The peninsula's dominance, and his
-The {{p|Saudi}}'s and the {{p|Yemeni}}'s own claim,
-The {{p|Bedouin}} paternal line and name.
+And spoke {{c|1909|Afroasiatic}}, of kin,
+The proto-{{c|1863|Semitic}}; and in its way
+It made the {{c|1910|Arabs}}, and the tribes within
+{{p|Arabia}}, the tribal sound and sway.
 
-And {{c|1907|J1}} is the Desert {{c|1876|J}}. It goes
-On camel-paths where {{p|Rub' al Khali}} blows,
-And speaks, at this our chapter's early time,
-Proto-{{c|1909|Afroasiatic}} speech, in the prime
+{{c|1908|J2}}, northern and {{p|Levantine}} and wet,
+The fertile-crescent {{c|1876|J}}; and there we find
+The tillers of the vale, the early set
+Of valley farmers, of the settling kind:
 
-And proto-{{c|1863|Semitic}}. In time, its way
-Will make the {{c|1910|Arabs}} that the records say,
-And all the {{p|Arabian}} tribal sound
-And rhythm, which in thousands of years found
+{{p|Natufian}}; {{p|Levant}}'s first farms; and those
+Of {{p|Anatolia}}, and {{p|Jordan}}'s, too;
+With {{c|1873|G}} beside them, in the fields and rows,
+They mingled, and the first of cities grew:
 
-Its people following {{c|1911|Muhammad}} forth
-From {{p|Mecca}}, and the map of faith henceforth
-Was changed throughout the world. The other son,
-{{c|1908|J2}}, is northern, {{p|Levantine}}, and one
+{{p|Mesopotamia}} began, the dawn
+Of {{p|Sumer}} and of {{p|Akkad}}, from the blend
+Of {{c|1908|J2}}, {{c|1873|G}}, and others, they were drawn,
+And set up cities that would never end:
 
-{{p|Anatolian}} too, the wetter kind
-And fertile-crescent {{c|1876|J}}: therein we find
-An overlap with tillers of the vale,
-With valleys early: {{p|Natufian}}'s own tale,
+{{p|Uruk}} and {{p|Eridu}}, and {{p|Lagash}}, too,
+{{p|Ur}} and {{p|Nippur}}: and all the founders' sign,
+The fathers' {{p|Y}}, it came out of {{c|1908|J2}};
+The building of the cities, by design,
 
-{{p|Pre-Pottery Neolithic}} {{p|Levant}},
-{{p|Anatolia}}'s farms: {{c|1908|J2}}'s grant,
-And {{p|Jordan}}'s villagers: all these, with crew
-Of {{c|1873|G}} beside them, were the mingling few
+Which moulded all the nations yet to come,
+Six thousand years of them, sprang from the hand
+Of {{c|1876|J}} and {{c|1873|G}} together, and the sum
+Of all the labor of that ancient land.
 
-Who founded {{p|Mesopotamia}}: dawn
-The {{p|Sumerian}} and {{p|Akkadian}}, drawn
-From {{c|1908|J2}}, {{c|1873|G}}, and others in the blend,
-Set up those cities that would never end:
+And it is {{c|1863|Semitic}}, the tongue it bore,
+The family of speech the {{p|Arabs}} speak,
+And {{p|Hebrews}}, and {{p|Assyrians}} of yore,
+{{p|Akkadian}}, {{p|Aramaic}}, at peak;
 
-{{p|Uruk}} and {{p|Eridu}}, and {{p|Lagash}} too,
-{{p|Ur}} and {{p|Nippur}}: their founding fathers drew
-Their {{p|Y}} from {{c|1908|J2}}; and the cycling loop
-Of city-building, which would mould and group
+{{p|Amharic}} and {{p|Tigrinya}} and the speech
+Of {{p|Maltese}}, grown from {{p|Arabic}}, and known
+On one sea-island; all, within the reach
+Of early {{c|1876|J}}, are children of its own.
 
-The nations of six thousand years to come,
-Sprang from the {{c|1876|J}}-and-{{c|1873|G}} labor: the sum
-In the old {{p|Near East}}. And the tongue it bore
-Is {{c|1863|Semitic}}: the family and store
+Above them is the broader family,
+{{p|Afroasiatic}}: {{p|Egyptian}}, and
+{{p|Berber}}, {{p|Cushitic}}, by the {{p|Horn}}'s own sea,
+{{p|Chadic}} in the central {{p|African}} land:
 
-Of speech for {{p|Arabs}}, {{p|Hebrews}}, and the sons
-{{p|Assyrian}}; {{p|Akkadian}}, that runs
-Within {{p|Sumerian}} cities; and the speech
-{{p|Aramaic}}, which {{c|1912|Jesus}} came to teach
+A tree whose branches span two lands, immense,
+And {{c|1876|J}} the house that speaks its speech, the yeast
+Of all {{p|Semitic}} tongues, and all its sense,
+From {{p|Africa}} unto the far {{p|Near East}}.
 
-And wed to his own life; {{p|Amharic}} brought
-{{p|Ethiopian}} kings, as records taught;
-{{p|Tigrinya}} that the {{p|Eritrean}} sings
-Upon his highlands, among other things;
+{{p|Mesopotamia}}: the land that lies
+Between the {{p|Tigris}} and {{p|Euphrates}}; there
+The city first began, beneath old skies,
+And there {{p|Ur}}'s floodplain ran, its fields and air;
 
-And {{p|Maltese}}, grown from {{p|Arabic}}, and known
-On one sea-island, spoken still, its own.
-All these are children of the early {{c|1876|J}}:
-Its speech-community; above them lay
+The ziggurat of {{p|Eridu}} was reared;
+{{p|Uruk}} dug its canals; and, rise and fall,
+{{x|Sargonid}} kingdoms, with their walls, appeared,
+Three thousand years of the old world in all.
 
-The broader family, which brings to view
-The {{p|Afroasiatic}} tongues of all that crew
-{{p|Egyptian}}, {{p|Berber}}, and {{p|Cushitic}} speech
-Along the {{p|Horn of Africa}}, whose reach
+{{p|Akkadians}} and {{p|Babylon}}, the proud
+{{p|Assyrians}}, each nation in its place
+Along {{p|Tigris-Euphrates}}, and allowed
+Their wars, their kingdoms, and their laws' long race;
 
-Takes in the {{p|Chadic}} tongues of central lands
-In {{p|Africa}}: a tree whose branching strands
-Span two whole continents. A puzzle stays:
-These tongues are mostly {{p|African}} these days,
+And {{c|1876|J}} is the sign of the first {{p|Near East}},
+Where the first city stood, where, quick on clay,
+The first arithmetic was scratched; the feast
+Of cuneiform, of writing, that day;
 
-And yet the family is often thought
-To rise in the {{p|Near East}}, or, as some sought,
-In the {{p|Horn of Africa}}; and the tie
-Of speech to haplogroup is loose. The {{p|Y}}
+Where first of epic poems, and the best,
+Was {{c|1913|Gilgamesh}}, who wrestled with his grief,
+Who crossed the waters of the dead, his quest,
+And lost {{c|1914|Enkidu}}, and found no relief:
 
-Called {{c|1876|J}} is the {{p|Semitic}}-speaking yeast,
-But many not of {{c|1876|J}}, through all the east,
-Speak {{p|Semitic}} tongues; and many {{c|1876|J}} speak
-Not one {{p|Semitic}} word. The link is weak
-
-Though real: for language is a learned thing,
-Not carried in the body's inner ring.
-The {{p|Y}} and mother tongue do not both ride
-Together. So this chapter sets aside
-
-Insistence on a rigid chart or plan;
-It honors the rough linkage, as it can,
-To {{p|Mesopotamia}}: land that lies
-Between two rivers, under those old skies,
-
-The {{p|Tigris}} and {{p|Euphrates}}: there began
-The city. There the floodplain of {{p|Ur}} ran,
-The ziggurat of {{p|Eridu}} was reared,
-Canals of {{p|Uruk}} dug, the walls appeared
-
-{{x|Sargonid}} kingdoms that would rise and fall
-Three thousand years of the old world. And all
-{{p|Mesopotamia}} was staging ground
-For {{c|1876|J}}'s second flowering: there were found
-
-{{p|Akkadians}}, {{p|Babylonians}}, the proud
-{{p|Assyrians}}, together yet allowed
-Their separate nations in that valley's sound,
-{{p|Tigris-Euphrates}}; and the pattern wound
-
-Of all their wars, their kingdoms, and their laws:
-Literature is {{c|1876|J}}'s historic cause.
-But that is for a later chapter's pace:
-{{p|Mesopotamia}} keeps up its race
-
-Of fast-forward, the chaos chapter, which
-Displays millennia of fall and switch,
-Collapse and rebirth at a speed that shows
-The chaos of itself. That chapter goes
-
-Still farther on. For now, {{c|1876|J}} is the sign
-Of the first {{p|Near East}}: where the city line
-Was built; and where the first arithmetic
-Was scratched in cuneiform on clay, quick
-
-In clay as scratches; where the first and best
-Of epic poems were composed and blessed:
-{{c|1913|Gilgamesh}}, wrestling his grief, who crossed
-The waters of the dead, and having lost
-
-And found {{c|1914|Enkidu}}, the friend of his heart,
-Who met the bull of heaven. All that art
-And ancient writing out of {{p|Sumer}} came
-By {{c|1876|J}}-bearing scribes, who left us no name.
+And {{c|1914|Enkidu}}, the friend of his own heart,
+Who met the bull of heaven. All of it,
+The ancient writing, and the {{p|Sumer}} art,
+By {{c|1876|J}}-born scribes, who left no name, was writ:
 
 Invention of the written word; the first
-Accounting tablet; contracts; and the thirst
-For law: the first lawsuits; the marriage penned;
-The first dynastic history, to the end.
+Accounting tablet; contracts; and the hand
+That penned the marriage; and the law's own thirst;
+First dynastic history of the land.
 
-That literate civilization, set
+That literate civilization, laid
 Along {{p|Tigris-Euphrates}}, is the debt
-And contribution {{c|1876|J}} has made to all
-The human project. And across the tall
+The human project owes to {{c|1876|J}}, and made
+Its contribution, which it pays us yet.
 
-Dry peninsula, {{c|1907|J1}} meanwhile bore
-A parallel but separate way: the lore
-Of caravan routes; dice-game in the tent;
-The poems of the {{c|1915|Bedouin}}, the bent
+On the dry peninsula, {{c|1907|J1}} bore
+A parallel and separate way: the tent,
+The caravan, the dice, the desert lore,
+The poems of the {{c|1915|Bedouin}}, and bent
 
-And genealogies that they kept in rhyme;
-Pre-{{x|Islamic}} desert poetic time;
-{{c|1907|J1}}'s slow growth is the long descent
-Through thousands of years, and the patient bent
+Their genealogies, they kept in rhyme;
+The desert poetry; and, long and slow,
+{{c|1907|J1}}'s descent through all the length of time,
+The bliss and hardship that the sand would show,
 
-Of the peninsula's own folk, the bliss
-And hardship of the sand, the tribe, and this:
-The rhythms of the camel, and the stars
-That guide across unmarked and trackless bars
+The tribe, the camel's rhythms, and the guide
+Of stars that lead across the trackless bars
+Of dune: {{c|1907|J1}} inherited it, wide
+Across the sand, beneath the desert stars.
 
-Of dune: all this {{c|1907|J1}} did inherit.
-When {{c|1911|Muhammad}} comes, we see its merit:
-He rides with {{c|1916|Quraysh}} caravans; his blood
-Provides, most likely, {{c|1907|J1}}: and the flood
+Meanwhile the {{c|1908|J2}} {{p|Near East}} world would grow
+Through rack and ruin, and rebuild, and rise;
+And {{c|1876|J}} would build the cities, and would know
+The written word, beneath the crescent's skies,
 
-And run from {{c|1917|Adnan}} and from {{c|1918|Qahtan}} lines
-Pre-{{x|Islamic}} {{p|Arabia}} assigns
-Him to deep {{c|1907|J1}} founders: that's the track
-Of chapters later; and we must come back.
+The heir of the old hunting folk, who learned,
+By meeting with the {{c|1873|G}}-farmers, to dwell
+In cities; for the {{c|1876|J}}-born men had turned
+To {{p|Uruk}}, {{p|Ur}}, and {{p|Eridu}} as well,
 
-Meanwhile, and in the end without a fail,
-The {{c|1908|J2}} {{p|Near East}} world unfolds its tale
-Through rack and ruin and rebuild, and grows
-The stock whence {{c|1308|Abraham}} at last arose.
+And piled the bricks of clay into the sky:
+The ziggurat of {{p|Ur}} began its slow
+And patient climb; {{c|1920|Inanna}}'s temple, high;
+The first of kings, who came their crowns to know;
 
-{{c|1308|Abraham}}, as the {{x|Gaiad}} reads the man,
-Is the ideal of {{c|1876|J}}: his blood's whole span
-Is plausibly of {{c|1907|J1}}, and of kin
-{{c|1908|J2}} (for {{c|1919|Hammurabi}} rules within
-
-{{p|Babylon}} with a {{c|1908|J2}} stripe; and he,
-In deserts, where {{c|1907|J1}} itself would be,
-And so in one man we may see agree
-Two great {{p|Semitic}} branches in one tree.
-
-But that is later. For the now, we see
-The {{p|Near East}}'s haplogroup, the {{c|1876|J}}: and he
-The one who builds the cities; who contrived
-The written word; on whom the whole has thrived
-
-And rests, the personal foundation laid
-Of crescent-land's whole civilized parade;
-The heir of the old hunting folk, who turned,
-By meeting with the {{c|1873|G}}-farmers, and learned
-
-To dwell in cities. The {{c|1876|J}}-bearing men
-Of {{p|Uruk}}, {{p|Ur}}, {{p|Eridu}} began then
-To pile clay bricks into the open sky.
-The temple of {{c|1920|Inanna}} rises high;
-
-The ziggurat of {{p|Ur}} begins its slow
-And tarrying climb; the first kings come to know
-Their crowns; the first of scribes are trained; and then
-First priests consecrate temples; and again
-
-In what they speak: {{p|Sumerian}} stands alone,
-An isolate; {{c|1921|Akkadian}} is known
-{{p|Semitic}}, of that family maintained.
-But {{c|1876|J}}-carriers in both towns remained,
-
-And speak whatever tongue the city speaks:
-For speech is learned; the body never seeks
-To teach it. Underneath the skin it lies,
-The signature, whatever tongue applies.
+The first of scribes were trained; the first priests made
+The temples holy; and the cities spoke
+{{p|Sumerian}}, alone, and, unafraid,
+{{c|1921|Akkadian}}, {{p|Semitic}}, of the folk.
 
 {{c|1907|J1}}: the desert; and the camel; and
-The poem, in the dry and trackless sand,
-Long before the poem was penned at all.
+The poem, long before the pen at all,
+Within the dry, the trackless, open sand;
 {{c|1908|J2}}: the river; city; and the call
 
 Of tablet and of scribe, whose careful fears
-And joys set down the spoken word for years.
-Together they are {{c|1876|J}}; together they
-Are the {{p|Semitic}} world; and this, today,
+And joys set down the spoken word; and they,
+Together, they are {{c|1876|J}}, through all the years,
+And the {{p|Semitic}} world; and this, today,
 
 Is all the chapter: the {{p|Near Eastern}} sign,
+Through six millennia of layered reign,
 The token and the proof of one long line
-Through six millennia of layered reign
-And civilized succession. In the train
+Of civilized succession, and its train;
 
-Of chapters yet to come, the {{p|Near East}} calls:
-{{p|Mesopotamia}}, within whose walls
-{{c|1308|Abraham}}, {{c|1919|Hammurabi}}, the exile
-In {{p|Babylon}}; the rise of {{p|Islam}}: while
+The house of {{c|1876|J}}, of the {{p|Near East}}, the line
+From {{c|1834|Adam}} unto {{c|977|Abel}}, and through {{c|308|Seth}};
+The {{c|1876|J}} men wrote it first; they wrote it fine;
+They wrote it down, and write it still, with breath.
 
-All work upon the {{c|1876|J}} substrate; and they
-Who thatch the roofs of later {{p|Near East}} day
-Are {{c|1876|J}} in costume, as the ages ran.
-The chapter ends: {{c|1876|J}}, the {{p|Semitic}} clan,
-
-The haplogroup of the {{p|Near East}}, the line
-From {{c|1834|Adam}} unto {{c|977|Abel}}, and the sign
-Through {{c|308|Seth}} to {{c|1922|Jeremiah}}; and the sons:
-{{c|635|Isaac}}, {{c|634|Ishmael}}, {{c|1911|Muhammad}}, and the ones
-
-Of {{c|1006|Moses}}' line, and all the prophet roll
-Of patriarchs: they all are on that scroll,
-Whose later children write the {{p|Bible}} down,
-{{p|Quran}}, {{p|Epic of Gilgamesh}}: renown
-
-Of oldest writings that we read today,
-And eminence of that old writing way
-And its authority in {{c|1876|J}}'s own hand
-Is call and answer, over every land,
-
-For every later literate domain.
-The {{c|1876|J}} men wrote it first; they wrote it plain;
-They wrote it down; and they are writing yet.
-And when a modern {{c|1876|J}} cannot forget —
-
+And when a modern {{c|1876|J}}, who can't forget,
 {{p|Israeli}}, {{p|Saudi}}, {{p|Yemeni}}, or one
-{{p|Syrian}} — finds, in writings long since done
-By grandfathers, a fascination deep,
+{{p|Syrian}}, finds a fascination yet
+In writings that his grandfathers had done,
+
 It is an echo of what he will keep
-
 And carry: written sign of signed descent,
-Whose first inscriptions, in the clay, were meant
-In crescent-land, at founding of the mind
-Of all civilization, and mankind.
+Whose first inscriptions, pressed in clay, lie deep
+In crescent-land, where all mankind's ascent
 
-{{c|1876|J}}: the {{p|Semitic}}; and the {{p|Near East}} store
-Of writing that the world still reads, and more.
-The chapter closes where the tablets lie,
-In clay, beneath the crescent's ancient sky.
+Began, at founding of the mind. And so,
+{{c|1876|J}}: the {{p|Semitic}}; and the writing's store,
+Which all the world still reads; and, far below,
+The tablets lie in clay, as long before,
+
+Beneath the crescent's ancient sky, where they
+Were pressed by hands that wrote it first, and plain;
+And there the chapter closes, on its clay,
+Where all the tablets of the {{c|1876|J}} remain.
 
 
 # Chapter 138: H, L, T — The Indus Valley
