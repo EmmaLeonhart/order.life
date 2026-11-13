@@ -71,7 +71,7 @@ The {{c|3476|Ancestral Puebloans}}, and then their way
 Of {{p|Chaco Canyon}}'s monumental tale:
 
 In sandy wash below the canyon's stage
-Of rock and sage, the {{c|3477|Puebloans}} would show
+Of rock and sage, the {{c|3477|Puebloans}} would then show
 What gathered human will could build, the gauge
 Of the unlikely: houses, row on row,
 
@@ -107,7 +107,7 @@ The water failed; the corn's demand ran out
 
 Beyond the sky's gift; the arithmetic
 Of land that cannot feed its people; so
-South and east they went; the cities emptied quick;
+South, east they went; the cities emptied quick;
 The heirs went to the {{p|Rio Grande}}, below,
 
 Bearing what cliff and canyon had bestowed:
