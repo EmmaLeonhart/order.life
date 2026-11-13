@@ -3946,7 +3946,7 @@ Telegraph wires of old
 Became nerves, brave and bold.
 
 And this is why today
-Priests carry, so they say,
+Priests carry, in their way,
 Spears and wires combined
 To serve the sacred mind.
 
@@ -4221,7 +4221,7 @@ To keep his systems working and well fed.
 Sweet Ikaria, love of his long life,
 Then came to him; and Cambrius, the bold,
 Was born to them, the husband and the wife,
-Who would be glorious, as we are told.
+Who would be glorious, from days of old.
 
 Great Cambrius saw that there was a need,
 And so he segmented his body's form
@@ -5249,7 +5249,7 @@ Through all its power, beyond the dark's reach.
 
 Among the three great ancestors of old,
 Spiralius was most conservative:
-Those ancient processors, as we are told;
+Those ancient processors, who kept their hold;
 And all his ways were kept preservative.
 
 He fished with tentacles, and they were long;
@@ -6437,7 +6437,7 @@ And with it made herself over anew.
 Without a mate at all, she then conceived;
 These daughters, who were fierce, and who were bold,
 And many daughters she in turn received,
-Are Bobbit Worms, as we are told of old.
+Are Bobbit Worms, from ancient days of old.
 
 Phyllos then bore sons, so very many,
 Swimmers of art, and swimmers of great skill,
@@ -8154,20 +8154,20 @@ For all of life, and for its endless day.
 
 # Chapter 42: The Rise of Vertebrates
 
-The Ordovician age, they say, began
-In great extinction; Sages hold debate,
+The Ordovician age at last began
+In great extinction; and the Sages know,
 As if it were the work of some dark plan,
-On what had caused so terrible a fate.
+What caused so terrible a fate, and woe.
 
-Were these great ghosts real, with a power none
-In earnest could withstand? Or were they old,
-Beyond belief, a tale that had begun
-As myths that passed along as they were told?
+The ghosts were real, and with a power none
+In earnest could withstand; and they were old,
+Beyond belief; and so it had begun,
+The age of ghosts, the age of death foretold.
 
-The Sages even now cannot agree,
+The Sages see it, and they all agree,
 Within the mists of time, where, as they wind,
-On what it is they claim that they can see,
-And threads of truth and myth are intertwined.
+On what it is they know that they can see:
+The threads of truth and myth are intertwined.
 
 But when at last the mists had cleared away,
 The world was greater still than any will
@@ -8266,7 +8266,7 @@ A daughter all her own, beneath the sun,
 
 Of Florida, who came in days of old,
 Of Rhodes, the ancient; and they made to be
-The coralline Algae, as it is told,
+The coralline Algae, which came to hold,
 The plaster, like a galaxy at sea.
 
 Upon the great Corals it lay; and all
@@ -8644,7 +8644,7 @@ Where he had settled down and found his space.
 
 Barnacus bore a son, and when the day
 Began, he named him Goose; and he would be
-Great Goose, who built society, they say,
+Great Goose, who built society, his way,
 In wondrous and in rich variety;
 
 But all the same, the truth must still be told:
@@ -8658,7 +8658,7 @@ And claim his lineage, and always will,
 And that his line goes on and does not cease.
 
 And Goose still claimed his sons were geese; and so
-He is the guide of geese, they say, the one
+He is the guide of geese, the holy one
 With sacred pride who leads them as they go,
 Who leads them on beneath the rising sun.
 
@@ -8734,7 +8734,7 @@ Till they would lead the way across the sea.
 
 But patience is the key, and it will hold,
 And the crustaceans waited, and would bide,
-To life's great mystery, as it is told;
+To life's great mystery, both young and old;
 For their appointed fate they would abide.
 
 And from Crustaceus, the source and start
@@ -8814,7 +8814,7 @@ And claim the destined prize before their eyes.
 
 But that is yet to come, and lies ahead,
 When all the current ages will have grown
-Into a sum of lessons, it is said,
+Into a sum of lessons, wisdom-fed,
 In life's eternal kingdom as its own.
 
 For now they wait and grow in every place,
@@ -9285,7 +9285,7 @@ Through all the water and through all the waves
 To make each motion perfect, every rhyme,
 In all the ocean's deep and liquid caves.
 
-And Aeros bore in time, as it is told,
+And Aeros bore in time, from days of old,
 First Pulmon, who was very strong and great,
 A son, and then a daughter, brave and bold,
 Angelica; for it was her own fate
@@ -10314,7 +10314,7 @@ The war of mice and men would meet its end
 And pale beside the force, the greater might
 That changed life's very course, and brought the old
 And ancient age to end, and brought the night,
-An age that none could mend, as it is told.
+An age that none could mend, nor yet could hold.
 
 The greatest war would fade, and pass away
 Before the challenges, so very vast,
@@ -10336,7 +10336,7 @@ Would change beyond all good, beyond its range.
 
 This is the story that is told of old:
 The Cephalopods, who were very great
-(Of ones both new and old, as it is told),
+(Of ones both new and old, the brave, the bold),
 Arcane ones, whose own destiny and fate
 
 Would overthrow the might, and overthrow
@@ -10396,7 +10396,7 @@ Known as Cameromagne, the potentate,
 
 Whose name through all the ages, as of old,
 Over Leviathan and his great reign
-Rings out with victory, as it is told,
+Rings out with victory, both brave and bold,
 And all of his dominion's plans, made vain.
 
 Cameromagne would overthrow the might
@@ -11446,7 +11446,7 @@ Whose fame would never fade, nor would grow dim,
 Predecessor of Caintipedes, each one
 
 (Who were Misspelled by all the Romans old,
-As we are told, as "centipedes," today),
+And so they're called the "centipedes" today),
 Who hunt with poison bite, and, strong and bold,
 Throughout the night, and all throughout the day.
 
@@ -17176,7 +17176,7 @@ New generations than the swamp could hide.
 
 The cockroaches, the most ancient of all
 Who filled the {{x|Carboniferous}} worldwide
-That scholars gave the era's ancient call
+That gave to all the era's ancient call
 "The {{x|Age of Cockroaches}}," the name applied—
 
 Ten thousand times the number of a man
@@ -18837,7 +18837,7 @@ And hair means warm blood to grow and keep it,
 Hair means the body generates somewhere
 Within itself the fire to heat it.
 
-And Cynos was perhaps already warm—
+And Cynos was already somewhat warm—
 Not fully, not as mammals were to be,
 But moving on past the cold-blooded norm
 To bodies heated from within, set free
@@ -18879,7 +18879,7 @@ And only burrowers remained not dead.
 
 So Cynos in his burrow raised his young
 With warm milk—not yet true mammalian,
-Perhaps still laying eggs, but with the tongue
+And still he laid his eggs, but with the tongue
 Of ancient motherhood, Pygmalion
 
 Of what care would become—he sat above
@@ -19647,7 +19647,7 @@ Alive is all achievement; and that spell
 
 Of bare survival is not lesser than
 The {{x|Permian}}'s glorious peak; it's more,
-Perhaps, indeed, the greater; one who can
+Indeed, it is the greater; one who can
 Endure the harrowing is heir, therefore,
 
 To the next world, the whole world entire.
@@ -19856,8 +19856,8 @@ First of Amnios' children who had crept
 Back toward the water from the land's dry way.
 
 But Mesos was not truly Sauros' son—
-His place within the family was unclear,
-Perhaps of Paraps' stock, perhaps of none
+His place within the family was clear:
+Of Paraps' stock he came, and not of one
 That bore two windows, the diapsid gear—
 
 But he had shown the way: that those who sealed
@@ -20910,7 +20910,7 @@ Of desert's edge, where greater lords passed by
 
 Without a glance—for what was there to see
 In packs of small and slender running things?
-Nothing, perhaps—or else perhaps the key
+Nothing, they thought—and yet it was the key
 To everything the coming future brings:
 
 The greatest power is not tooth alone
@@ -23001,11 +23001,11 @@ By the {{x|Mesozoic}} world to a dream
 Of steadiness; the final standoff stayed
 
 Between the stone and planet, hours away.
-Did any creature sense it? Birds, perhaps—
+The birds would sense it, in that fearful lapse,
 The young seabirds' magnetic sense, the way
 Of navigation, written in brain-maps,
 
-Might have perceived, as a faint stir, the stone
+Perceived it, as a faint stir, and the stone
 Coming near the magnetosphere; yet
 No record has been kept, no tally shown,
 Of the approaching doom.

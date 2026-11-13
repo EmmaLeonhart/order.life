@@ -942,7 +942,7 @@ Through all its power, beyond the dark's reach.
 
 Among the three great ancestors of old,
 {{c|619|Spiralius}} was most conservative:
-Those ancient processors, as we are told;
+Those ancient processors, who kept their hold;
 And all his ways were kept preservative.
 
 He fished with tentacles, and they were long;
@@ -2130,7 +2130,7 @@ And with it made herself over anew.
 Without a mate at all, she then conceived;
 These daughters, who were fierce, and who were bold,
 And many daughters she in turn received,
-Are {{c|800|Bobbit}} {{c|655|Worms}}, as we are told of old.
+Are {{c|800|Bobbit}} {{c|655|Worms}}, from ancient days of old.
 
 {{c|797|Phyllos}} then bore sons, so very many,
 {{c|801|Swimmers}} of art, and swimmers of great skill,
@@ -3847,20 +3847,20 @@ For all of life, and for its endless day.
 
 # Chapter 42: The Rise of Vertebrates
 
-The {{c|954|Ordovician}} age, they say, began
-In great extinction; {{c|956|Sages}} hold debate,
+The {{c|954|Ordovician}} age at last began
+In great extinction; and the {{c|956|Sages}} know,
 As if it were the work of some dark plan,
-On what had caused so terrible a fate.
+What caused so terrible a fate, and woe.
 
-Were these great ghosts real, with a power none
-In earnest could withstand? Or were they old,
-Beyond belief, a tale that had begun
-As myths that passed along as they were told?
+The ghosts were real, and with a power none
+In earnest could withstand; and they were old,
+Beyond belief; and so it had begun,
+The age of ghosts, the age of death foretold.
 
-The {{c|956|Sages}} even now cannot agree,
+The {{c|956|Sages}} see it, and they all agree,
 Within the mists of time, where, as they wind,
-On what it is they claim that they can see,
-And threads of truth and myth are intertwined.
+On what it is they know that they can see:
+The threads of truth and myth are intertwined.
 
 But when at last the mists had cleared away,
 The world was greater still than any will
@@ -3959,7 +3959,7 @@ A daughter all her own, beneath the sun,
 
 Of {{c|372|Florida}}, who came in days of old,
 Of {{c|90839|Rhodes}}, the ancient; and they made to be
-The coralline {{c|889|Algae}}, as it is told,
+The coralline {{c|889|Algae}}, which came to hold,
 The plaster, like a galaxy at sea.
 
 Upon the great {{c|598|Corals}} it lay; and all
@@ -4337,7 +4337,7 @@ Where he had settled down and found his space.
 
 {{c|987|Barnacus}} bore a son, and when the day
 Began, he named him {{c|990|Goose}}; and he would be
-Great {{c|990|Goose}}, who built society, they say,
+Great {{c|990|Goose}}, who built society, his way,
 In wondrous and in rich variety;
 
 But all the same, the truth must still be told:
@@ -4351,7 +4351,7 @@ And claim his lineage, and always will,
 And that his line goes on and does not cease.
 
 And {{c|990|Goose}} still claimed his sons were geese; and so
-He is the guide of geese, they say, the one
+He is the guide of geese, the holy one
 With sacred pride who leads them as they go,
 Who leads them on beneath the rising sun.
 
@@ -4427,7 +4427,7 @@ Till they would lead the way across the sea.
 
 But patience is the key, and it will hold,
 And the crustaceans waited, and would bide,
-To life's great mystery, as it is told;
+To life's great mystery, both young and old;
 For their appointed fate they would abide.
 
 And from {{c|751|Crustaceus}}, the source and start
@@ -4507,7 +4507,7 @@ And claim the destined prize before their eyes.
 
 But that is yet to come, and lies ahead,
 When all the current ages will have grown
-Into a sum of lessons, it is said,
+Into a sum of lessons, wisdom-fed,
 In life's eternal kingdom as its own.
 
 For now they wait and grow in every place,
@@ -4978,7 +4978,7 @@ Through all the water and through all the waves
 To make each motion perfect, every rhyme,
 In all the ocean's deep and liquid caves.
 
-And {{c|1049|Aeros}} bore in time, as it is told,
+And {{c|1049|Aeros}} bore in time, from days of old,
 First {{c|1052|Pulmon}}, who was very strong and great,
 A son, and then a daughter, brave and bold,
 {{c|1053|Angelica}}; for it was her own fate
@@ -6007,7 +6007,7 @@ The war of mice and men would meet its end
 And pale beside the force, the greater might
 That changed life's very course, and brought the old
 And ancient age to end, and brought the night,
-An age that none could mend, as it is told.
+An age that none could mend, nor yet could hold.
 
 The greatest war would fade, and pass away
 Before the challenges, so very vast,
@@ -6029,7 +6029,7 @@ Would change beyond all good, beyond its range.
 
 This is the story that is told of old:
 The {{c|1127|Cephalopods}}, who were very great
-(Of ones both new and old, as it is told),
+(Of ones both new and old, the brave, the bold),
 {{c|1128|Arcane}} ones, whose own destiny and fate
 
 Would overthrow the might, and overthrow
@@ -6089,7 +6089,7 @@ Known as {{c|1136|Cameromagne}}, the potentate,
 
 Whose name through all the ages, as of old,
 Over {{c|959|Leviathan}} and his great reign
-Rings out with victory, as it is told,
+Rings out with victory, both brave and bold,
 And all of his dominion's plans, made vain.
 
 {{c|1136|Cameromagne}} would overthrow the might
@@ -7139,7 +7139,7 @@ Whose fame would never fade, nor would grow dim,
 Predecessor of {{c|1198|Caintipedes}}, each one
 
 (Who were {{c|1199|Misspelled}} by all the {{c|1004|Romans}} old,
-As we are told, as "centipedes," today),
+And so they're called the "centipedes" today),
 Who hunt with poison bite, and, strong and bold,
 Throughout the night, and all throughout the day.
 

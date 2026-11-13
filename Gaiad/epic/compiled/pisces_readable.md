@@ -29,8 +29,8 @@ First of Amnios' children who had crept
 Back toward the water from the land's dry way.
 
 But Mesos was not truly Sauros' son—
-His place within the family was unclear,
-Perhaps of Paraps' stock, perhaps of none
+His place within the family was clear:
+Of Paraps' stock he came, and not of one
 That bore two windows, the diapsid gear—
 
 But he had shown the way: that those who sealed
@@ -1083,7 +1083,7 @@ Of desert's edge, where greater lords passed by
 
 Without a glance—for what was there to see
 In packs of small and slender running things?
-Nothing, perhaps—or else perhaps the key
+Nothing, they thought—and yet it was the key
 To everything the coming future brings:
 
 The greatest power is not tooth alone
@@ -3174,11 +3174,11 @@ By the {{x|Mesozoic}} world to a dream
 Of steadiness; the final standoff stayed
 
 Between the stone and planet, hours away.
-Did any creature sense it? Birds, perhaps—
+The birds would sense it, in that fearful lapse,
 The young seabirds' magnetic sense, the way
 Of navigation, written in brain-maps,
 
-Might have perceived, as a faint stir, the stone
+Perceived it, as a faint stir, and the stone
 Coming near the magnetosphere; yet
 No record has been kept, no tally shown,
 Of the approaching doom.

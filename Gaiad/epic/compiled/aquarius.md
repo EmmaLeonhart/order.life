@@ -2502,7 +2502,7 @@ New generations than the swamp could hide.
 
 The cockroaches, the most ancient of all
 Who filled the {{x|Carboniferous}} worldwide
-That scholars gave the era's ancient call
+That gave to all the era's ancient call
 "The {{x|Age of Cockroaches}}," the name applied—
 
 Ten thousand times the number of a man
@@ -4163,7 +4163,7 @@ And hair means warm blood to grow and keep it,
 Hair means the body generates somewhere
 Within itself the fire to heat it.
 
-And {{c|1673|Cynos}} was perhaps already warm—
+And {{c|1673|Cynos}} was already somewhat warm—
 Not fully, not as mammals were to be,
 But moving on past the cold-blooded norm
 To bodies heated from within, set free
@@ -4205,7 +4205,7 @@ And only burrowers remained not dead.
 
 So {{c|1673|Cynos}} in his burrow raised his young
 With warm milk—not yet true mammalian,
-Perhaps still laying eggs, but with the tongue
+And still he laid his eggs, but with the tongue
 Of ancient motherhood, {{c|1721|Pygmalion}}
 
 Of what care would become—he sat above
@@ -4973,7 +4973,7 @@ Alive is all achievement; and that spell
 
 Of bare survival is not lesser than
 The {{x|Permian}}'s glorious peak; it's more,
-Perhaps, indeed, the greater; one who can
+Indeed, it is the greater; one who can
 Endure the harrowing is heir, therefore,
 
 To the next world, the whole world entire.
