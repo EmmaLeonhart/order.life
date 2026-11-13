@@ -34697,241 +34697,130 @@ with no Snorri to write it down by hand.
 
 # Chapter 215: The Renaissance
 
-A light came on in {{p|Florence}}—not the sun,
-Though it rose like sunrise over terracotta
-And tile, the slow and gathering stun
-Of a city waking to itself—the grotta
+A light came on in {{p|Florence}}, not the sun,
+Though like the dawn on terracotta, bright;
+A town that woke up to itself, begun:
+The dark dissolved to fresco, gold, and white.
 
-Of the medieval dark dissolving
-Into gold and marble, fresco, form—
-The human hand and eye resolving
-To create again, to warm
+The human hand and eye resolved to make
+Again, to warm the centuries of cold
+With flame the ancients kindled, for whose sake
+The world was worth depicting, as of old:
 
-The frozen centuries with a fire
-That the ancients had once kindled
-And the long collapse let expire:
-The fire of the beautiful, the undwindled
+The human face and body, rendered true
+On panel and on plaster, bore the trace
+Of something near divine. Cosimo too
+Struck the first match: the banker of that place,
 
-And stubborn conviction that the world
-Is worth depicting—that the human face
-And body, faithfully unfurled
-On panel and on plaster, trace
+Medici, rich on credit, on the bill
+Of exchange, moving {{p|Europe}}'s wealth around
+Without the gold; and with that skill, they still
+Bought beauty back, not kingdoms, from the ground
 
-The image of something almost divine.
+Of time: the books of Plato, and the scroll
+Of Aristotle; Greek and Roman mind
+Restored to living hands, made new and whole,
+In {{p|Florence}}, that defied the dark behind.
 
-Cosimo de' Medici lit the match—
-The banker whose gold could undermine
-No nation but the darkness, the dispatch
+In fifty-three, {{p|Constantinople}} fell
+Beneath the Ottoman; the scholars fled
+West with the last of manuscripts, to tell
+Homer and Euclid to {{p|Italy}}; spread,
 
-Of florins not for war alone
-But for the painter's pigment and the scholar's
-Manuscript—the Medici had grown
-Rich on letters of credit, on the dollars
+{{p|Byzantium}} lost; {{p|Florence}} gained the seed
+Of the old world, wind-tossed across the sea;
+Took root in fertile soil, and it was freed
+To grow, where nothing lost again would be.
 
-Of the fifteenth century, the bill
-Of exchange that moved the wealth of {{p|Europe}}
-Without moving gold—and with that skill
-They purchased not more kingdoms but the hope
+And Brunelleschi raised the dome, the crown
+{{p|Santa Maria del Fiore}}, where
+The void had gaped a century, and down
+Came rain; too vast for vaults of wood to bear;
 
-Of beauty's rescue from the well
-Of time: the manuscript of Plato,
-The treatise of Aristotle—the spell
-Of the ancient world, the lost libretto
+No centering; but ring on ring it rose,
+Herringbone brick that locked each course in place,
+Twin-shelled; Roman {{p|Pantheon}} it outgrows,
+The paragon of mind, and of its grace.
 
-Of the Greek and Roman mind restored
-To living hands in {{p|Florence}}'s new defiance
-Of the dark—the classical outpoured,
-The resurrection and the new alliance.
+And Leonardo, man of all, whose books
+Found sun in all: anatomy and flight,
+The flow of water and the shell, the brooks,
+The unborn child curled in the womb, the light;
 
-For {{p|Constantinople}} had fallen—
-The year was fourteen fifty-three, the storied
-And eternal city heard its pollen
-Crushed beneath the Ottoman siege—the gloried
+He drew it all, and understood; and heard
+The call of Aster speaking, flesh and wood
+And water, and the beautiful's own word
+Of number; art and science, the same good:
 
-Scholars fled westward, carrying
-The last manuscripts, the treasure
-Of the Greek inheritance, ferrying
-Homer and Euclid past all measure
+Both were the way of seeing; and he saw.
+And Michelangelo, the sculptor, freed
+The figure from the stone, which, by its law,
+Had held it, bone and sinew, as a seed;
 
-Of the {{p|Mediterranean}} to {{p|Italy}}'s
-Welcoming shore—the alchemy
-Of exile turning tragedy to vitality's
-Renewal: what {{p|Byzantium}}'s anatomy
+He struck the {{p|Sistine}} ceiling with the hand
+Of Adam reaching, and the gap between
+The human and divine, so small; to stand
+The almost-touch, charged, trembling, to be seen:
 
-Lost, {{p|Florence}} gained—the seed
-Of the classical world, wind-tossed
-Across the sea, took root in the freed
-And fertile soil where nothing would be lost.
+The gap's not despair, but aspiration,
+The spark between the fingertips, the air
+Made sacred; {{x|Renaissance}}'s creation:
+That the human is worth the reaching there.
 
-And Brunelleschi raised the dome—
-The impossible dome, the gritty
-And audacious crown of {{p|Florence}}'s home,
-The jewel of the Tuscan city:
+And Botticelli painted Venus, born
+Up from the foam upon her shell, the fair
+Forgotten goddess, wind-blown, not forlorn,
+The modest hand: beauty, the oldest prayer.
 
-The cathedral of {{p|Santa Maria del Fiore}}
-Whose octagonal void had gaped for a century,
-Too vast for any vault—the story
-Of medieval failure, the sentry
+And Gutenberg, in {{p|Mainz}}, beside the {{p|Rhine}},
+The goldsmith, turned the screw-press to the page,
+And printed what had been the cloister's shrine;
+The book, the text, the song broke from the cage,
 
-Of the unfinished standing open to the rain—
-Until Brunelleschi said: no centering,
-No wooden frame across the vast terrain—
-The dome self-entering
+A flood of written word on roads and fairs;
+No flame could now enforce the loss, no wall
+Of cloister hoard the book, the common prayers:
+The moving type, the hinge, the door for all.
 
-Its own solution, rising ring by ring
-In a herringbone of brick that locked
-Each course to the last—the engineering
-Of a mind that had unlocked
+Machiavelli wrote the state laid bare:
+Between what is and what should be, the grave
+Of dreaming princes; first, from dogma, there
+The science of how states hold, and behave.
 
-The Roman secret of the {{p|Pantheon}}
-And surpassed it—double-shelled, immense,
-The dome became the paragon
-Of what the human intellect, against all precedence,
+Humanism: the human, not a note
+To the divine, but eloquence itself;
+The study of the living; they devote
+Themselves to body, mind, art, heart, and self:
 
-Can solve.
+The ancient world was not the roof, but floor;
+And so the feast had only just begun.
+Honor the {{x|Renaissance}}, the open door,
+The light that {{p|Florence}} kindled, like the sun;
 
-            And Leonardo—
-The universal man, the one
-Whose notebooks were the memorandum
-Of a mind that found the sun
+The human rendered whole, in paint and stone,
+In printed word, in domes the mind could make;
+We are your heirs, it told the dead, your own,
+Not copies; and we carry, for your sake,
 
-In everything: anatomy and flight,
-The flow of water and the fall of light,
-The spiral of the shell, the sight
-Of the unborn child curled tight
+As rivers bear the snow down to the sea,
+What you knew to the future: that the true
+Is beautiful; the hand and eye are free
+As instruments of praise; and the mind, new,
 
-Within the womb—he drew it all,
-And what he drew he understood,
-And what he understood was the call
-Of Aster's voice in flesh and wood
-
-And water and the mathematics
-Of the beautiful—for Leonardo saw
-No border between the art's gymnastics
-And the scientist's exacting law:
-
-Both were the discipline of seeing clearly,
-And he saw.
-
-                And Michelangelo—the sculptor
-Who released the figure from the stone,
-Who said the marble held the sepulcher
-
-Of the form already—bone
-And sinew trapped inside the block
-And waiting for the chisel's liberation—
-He struck the {{p|Sistine}} ceiling's rock
-
-Of plaster with the creation
-Of Adam: the finger reaching out,
-The gap between the human and divine
-So small, so charged with the devout
-
-And trembling almost-touch—the sign
-That the {{x|Renaissance}} believed above all:
-That the human is worthy of the reaching,
-That the space between the mortal and the tall
-
-And luminous divine is the teaching
-Itself—the gap is not despair
-But aspiration, the spark between the fingertips,
-The electrified and sacred air
-
-Of the almost-meeting where the beautiful is born.
-
-And Botticelli painted Venus rising
-From the foam—the ancient goddess, worn
-And forgotten, now surprising
-
-The world again upon her shell,
-The wind-blown hair, the modest hand,
-The allegory no theologian could quell:
-That beauty is the oldest sacrament of the land.
-
-And Gutenberg—in {{p|Mainz}}, beside the {{p|Rhine}},
-The goldsmith turned the screw-press to the page
-And printed what had been the shrine
-Of the monastery's privilege: the cage
-
-Of knowledge broke—the book, the text,
-The scripture and the treatise and the song
-Were multiplied, and what was next
-Was the unstoppable and headlong
-
-Flood of the written word across
-{{p|Europe}}'s roads and rivers and its fairs—
-No fire could now enforce the loss,
-No cloister hoard the common prayers:
-
-The moveable type, the hinge on which
-The medieval door swung wide—the blessed
-And irreversible switch
-That gave every thought its manifest.
-
-And Machiavelli wrote the truth—
-Not the truth the princes wished to hide
-But the unvarnished and uncouth
-Mechanics of the state: that the divide
-
-Between what is and what should be
-Is the graveyard of the prince who dreams—
-The first political science, free
-Of dogma, stitched from the seams
-
-Of what power is and how it holds.
-
-They called it humanism—the belief
-That the human being's relevance
-Was not a footnote to the motif
-Of the divine, but was the eloquence
-
-Itself: that the proper study of the living
-Was the living—body, mind, and art,
-The history, the language, and the giving
-Of attention to the human heart—
-
-And in this find the age declared its creed:
-That the ancient world was not the ceiling
-But the floor—and the feast was only starting.
-
-Honor the {{x|Renaissance}}—the light
-That {{p|Florence}} kindled, the departing
-Darkness that gave way to the sight
-
-Of the human being fully rendered:
-In paint, in marble, in the printed word,
-In the dome that the impossible surrendered
-To the mind's insistence—in the stirred
-
-And restless brilliance of the age
-That looked at the ancient world and said:
-We are not your copy but your sage
-And heir—and the living are not led
-
-By the dead but carry them forward,
-As the river carries the mountain's snow
-To the sea—and the {{x|Renaissance}} poured toward
-The future everything it came to know:
-
-That beauty is a form of truth,
-That the hand and eye are instruments of praise,
-That the mind, unshackled in its youth,
-Can build the dome and paint the days
-
-And print the word—and that the love called Aster
-Burns brightest in the ones who create:
-The painter, sculptor, builder, and the master
-Of the press who gave the word its weight.
+Can build the dome and paint the days and print;
+And that the love called Aster burns the most
+In those who make: the painter's hue and tint,
+The sculptor, builder, printer, all the host.
 
 The light came on in {{p|Florence}}, and it spread
-Across {{p|Europe}} like the spring that sings
-After winter—and the long-since dead
-Were resurrected on the living's wings,
+Across all {{p|Europe}}, like the spring that sings
+After the winter; and the long-since dead
+Were raised again upon the living's wings,
 
-And proved that the human mind can stand
-Beside the stars and the celestial streams
-And not be shamed—for we, too, grand
-And mortal, shine beyond our dreams.
+And proved the human mind can stand beside
+The stars and the celestial streams, unshamed;
+For we, too, mortal, grand, shine far and wide,
+Beyond our dreams, as Aster's light has named.
 
 
 # Chapter 216: Zheng He
