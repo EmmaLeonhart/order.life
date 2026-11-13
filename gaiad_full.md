@@ -8166,8 +8166,8 @@ The age of ghosts, the age of death foretold.
 
 The {{c|956|Sages}} see it, and they all agree,
 Within the mists of time, where, as they wind,
-On what it is they know that they can see:
-The threads of truth and myth are intertwined.
+The ghosts walk still, in all they come to see:
+The threads of death and life are intertwined.
 
 But when at last the mists had cleared away,
 The world was greater still than any will
@@ -9347,7 +9347,7 @@ Through calm and through the wild and raging storms.
 
 In every spiral shell, so finely spun,
 Whose stories tell of function, side by side
-With beauty, as they tell us, every one,
+With beauty, and they show it, every one,
 All working in conjunction, and allied,
 
 Remember how it was that they first came,
@@ -11222,7 +11222,7 @@ Until all time is done, and all is peace.
 
 While sons of {{c|542|Cambrius}} would flourish well
 Within the seas, the sons, upon the plain,
-Of {{c|545|Symbio-Mygus}}, and as they tell,
+Of {{c|545|Symbio-Mygus}}, in field and dell,
 With daughters of {{c|1180|Charina-Plantus}}, twain,
 
 Pushed out their frontiers, pushing far and wide;
@@ -14298,7 +14298,7 @@ As donors of great beauty to the world,
 Their cities where no evil ever lurks
 In fossilized remains they lie unfurled.
 
-They tell us of {{c|1448|Thallasintep}} the great
+There rests, enthroned, {{c|1448|Thallasintep}} the great
 And others who in stone are made to stand,
 Sealed there for us to read by loving fate:
 Their architecture throughout ocean's land.
