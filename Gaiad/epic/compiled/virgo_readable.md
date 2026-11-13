@@ -299,120 +299,120 @@ One sea, one sphere, one market, east to west.
 
 # Chapter 255: There Is No Hindu, There Is No Muslim
 
-In {{p|Punjab}}, the land of the five rivers, where the road
-From {{p|Kabul}} came down to {{p|Delhi}} and the armies came down with it,
-A storekeeper's clerk at {{p|Sultanpur Lodhi}} kept the load
-Of grain and salt in order, every measure fit,
+In {{p|Punjab}}, land of the five rivers, where
+The {{p|Kabul}} road came down to {{p|Delhi}}'s land
+With armies, at {{p|Sultanpur Lodhi}}, there
+A clerk kept grain and salt by measure's hand,
 
 And counted out the rations: one, two, three,
-Up to thirteen, and at thirteen, *tera*,
-Which also means *yours*, he stopped, and could not see
-To count past it: yours, yours, yours. The era
+To thirteen; and at thirteen, *tera*, which
+Means also *yours*; he stopped, and could not see
+Beyond it: yours, yours, yours. The ledger's stitch
 
-Of the ledger ended for him there. His name was Nanak.
-Born at {{p|Nankana Sahib}} in 1469,
-A Khatri boy, the son of Kalu, an accountant. Back
-Then the village schoolmaster wrote a line
+Unraveled there. His name was Nanak, son
+Of Kalu, an accountant, Khatri-line,
+Born at {{p|Nankana Sahib}}; there begun
+In fourteen sixty-nine. A teacher's line
 
-For him to copy, and the boy wrote a hymn instead.
-They married him. They gave him work. He gave the store away.
-And around 1499, so the janamsakhis said,
-He went down to bathe in the {{p|Kali Bein}} one day
+To copy, and he wrote a hymn instead.
+They married him; he gave the store away.
+Near fourteen ninety-nine, his feet were led
+Down to the {{p|Kali Bein}} to bathe one day,
 
-And did not come up. Three days. They dragged the stream.
-They thought him drowned. And on the third day he came out
-Of the water, and was silent, and then, as in a dream,
-Or as from the far side of a dream, without a doubt:
+And did not rise. Three days they dragged the stream
+And thought him drowned. And on the third, he came
+Out of the water, silent, as from dream,
+And said: "There is no Hindu." And the same:
 
-*There is no Hindu. There is no Muslim.*
-That was the first thing. Not a creed. A clearing of the ground.
-The governor asked him: then whose path do you follow? Him,
-Said Nanak. God's. And when the call to prayer came round
+"There is no Muslim." That was first: no creed;
+The ground was cleared. The governor then asked:
+"Whose path, then, do you follow?" "God's"; indeed,
+Said Nanak; and at prayer-time, as was tasked,
 
-He went with the governor and the qazi to the mosque,
-And did not bow, and when they asked him why, he said:
-Your body bowed, but your mind was in {{p|Kabul}}, at the kiosk,
-Buying horses. And the qazi's was at home, where a mare had bred
+He went with governor and qazi in
+The mosque, and did not bow; and asked why, said:
+"Your body bowed; your mind, in {{p|Kabul}}, in
+The market, buying horses; his instead,
 
-And he feared the foal would fall into the well.
-So he would pray with them, he said, when they were praying.
-That is the story. Whether it is true, I cannot tell.
-The janamsakhis tell it. It is worth the saying.
+The qazi's, at home, where a mare had bred,
+Afraid her foal would fall into the well."
+So he would pray with them, the master said,
+When they would pray. And that is what befell.
 
-Then the journeys. Four of them, the udasis, east and south
-And north into the mountains and west to {{p|Mecca}}, with a friend,
-Mardana, a Muslim, who played the rebab while from his mouth
-The hymns came, a Muslim minstrel and a Hindu-born, without end
+Four journeys, the udasis, south and east,
+North to the mountains, west to {{p|Mecca}}, too,
+With Mardana, Muslim; rebab's feast
+Of music, while the Hindu-born sang through
 
-Walking. At {{p|Haridwar}}, where the pilgrims threw
-The {{p|Ganges}} water east, toward the rising sun,
-To reach their ancestors, he threw it west. What do you do?
-They asked. I'm watering my fields in {{p|Punjab}}. If yours run
+The hymns. At {{p|Haridwar}}, where pilgrims threw
+The {{p|Ganges}} water east, toward the sun,
+To reach their dead, he threw it west. "And you?"
+"I water fields in {{p|Punjab}}; if yours run
 
-Up to the sun, mine can reach three hundred miles.
-At {{p|Mecca}}, they say, he lay down with his feet toward the Kaaba,
-And the keeper kicked him: you point your feet at God! He smiled:
-Then turn my feet toward where God is not. And the ground, the robber
+Up to the sun, mine reach three hundred miles."
+At {{p|Mecca}} he lay down, his feet toward
+The Kaaba; kicked ("At God!"), he said, with smiles:
+"Then turn my feet where God is not, my lord."
 
-Of every certainty, would not turn. Again: a story. Hold it so.
-What is sure is the hymns. Nine hundred and some
-Of them, in Punjabi and the mixed tongue of the poor, the slow
-Music of the Bhakti saints and the Sufis, one
+The ground stayed still. And sure are the hymns: some
+Nine hundred, in Punjabi, and the tongue
+Mixed, of the poor; the Bhakti, Sufis, come
+Together; one God, formless, fearless, sung:
 
-God, without form, without fear, without hatred, not born,
-Not dying, self-existent, known by grace. *{{x|Ik Onkar}}*:
-One. The Creator. The {{x|True Name}}. And at dawn, every morn,
-The Japji, still sung. That is the scripture, where we are
+Without hatred, not born, and never dead,
+Self-being, known by grace; *{{x|Ik Onkar}}*: one;
+Creator; the {{x|True Name}}; and daily read,
+The Japji, still sung at rising sun.
 
-Not guessing. Then Babur came down from {{p|Kabul}} like the flood,
-The first of the Mughals, and sacked {{p|Eminabad}}, and the hymns
-Of Nanak are the witness: the city in its blood,
-The women of good houses dragged out by their limbs,
+Then Babur came from {{p|Kabul}} like the flood,
+First of the Mughals, sacked {{p|Eminabad}};
+The hymns of Nanak witness it: the blood,
+The women of good houses dragged; and sad,
 
-God, he sang, had sent the Mughal as death's own herald. He had seen it.
-He did not write a war-song. He wrote a lament
-And a reproach to God: did you not feel pain? He would mean it.
-Then he settled. On the bank of the {{p|Ravi}}, he went
+He sang: God sent the Mughal as death's hand;
+No war-song, a lament; reproach, as well,
+To God: "Did you feel no pain?" On the land
+By the {{p|Ravi}}, at {{p|Kartarpur}}, to dwell,
 
-To {{p|Kartarpur}}, and farmed, and built a kitchen
-Where everyone sat on the floor in one row, the high
-Caste and the low, the Muslim and the Hindu, and no one rich in
-That line, the *langar*, which feeds a hundred thousand a day now. Why
+He farmed, and built a kitchen where in one
+Row on the floor sat high caste and the low,
+The Muslim and the Hindu, none outdone,
+The *langar*, feeding thousands now; and so
 
-Does it matter? Because the meal was the doctrine.
-To eat together was to be one thing. And when he grew old
-He passed the guruship not to his sons, as a king would, nor to kin in
-Any degree, but to Lehna, a disciple, who did as he was told,
+The meal was doctrine: eating, side by side,
+Was being one. And, old, he passed the light
+Not to his sons, as kings, nor kin allied,
+But to disciple Lehna, who did right,
 
-Who carried a bundle of wet grass on his head,
-Who went into the mud. He named him Angad, part of my own limb,
-And bowed to him. The light passed from one lamp to the next, they said,
-Not by blood, as Marozia's house had passed the keys. Not him.
+Who bore wet grass upon his head, and went
+Into the mud; he named him Angad, "limb
+Of my own"; bowed to him: the light was lent
+Lamp to lamp, not by blood, not by the whim
 
-In 1539 he died at {{p|Kartarpur}}, and this is how it goes:
-That Hindus wished to burn him and the Muslims wished to bury,
-And they argued over him, and when they lifted the cloth, the rows
-Of flowers were all that lay there. They divided them, a very
+Marozia's house had with keys. And so,
+In fifteen thirty-nine, he died; and they,
+The Hindus, wished to burn; and to bestow
+The Muslims, burial; and, in their fray,
 
-Fair division, and each did as its custom said.
-There is a shrine on each side of what is now a border.
-The line of 1947 runs between the living and the dead,
-And {{p|Kartarpur}} is in {{p|Pakistan}}, and for years the order
+They lifted up the cloth: and there were spread
+But flowers. They divided them, and each
+Did as its custom said; and of the dead
+Two shrines stand now, a border out of reach
 
-Of the states let pilgrims only look across the field
-Through binoculars, till they opened a corridor.
-He was a synthesis, and the synthesis was sealed
-In a new community, which had to be a new thing, more
+Of each to each; and pilgrims, through the field,
+Cross into {{p|Pakistan}}, to its shrine's door,
+To {{p|Kartarpur}}. A synthesis was sealed
+In a new folk, a third thing, something more
 
-Than a bridge, because the bridge had nowhere left to stand.
-That is the lesson of the clearing of the ground:
-Say there is no Hindu and no Muslim, and the land
-Will make a third thing of you. The third thing will be found,
+Than bridge, since bridges had nowhere to stand.
+This is the lesson of the clearing: found,
+Say "no Hindu, no Muslim," and the land
+Will make of you a third, and named, and bound
 
-And named, and given a border of its own.
-It is still the clearest thing said in this age.
-There is no Hindu. There is no Muslim. Sit on the floor. The bread is shown
-To all. Eat. Turn the page.
+Within its border. Still the clearest said
+In this age: Muslim, Hindu, none; the floor
+Is where you sit; and shown to all, the bread;
+Eat; turn the page; and clear the ground once more.
 
 
 # Chapter 256: The Red Heads
