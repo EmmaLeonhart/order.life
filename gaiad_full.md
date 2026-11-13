@@ -43364,80 +43364,80 @@ Ride home together, by the moon, at night.
 
 # Chapter 290: The Four Treasuries
 
-While {{c|4052|Diderot}} in {{p|Paris}} was finishing his dictionary of everything,
-Ten thousand kilometres east, an emperor began a larger one.
-{{c|4100|Qianlong}}, grandson of {{c|3950|Kangxi}}, the fourth of the {{x|Manchu}} line, the king
-Of the largest empire {{p|China}} had ever held, in 1773, under the sun
+While {{c|4052|Diderot}}, in {{p|Paris}}, finished his book
+Of all, ten thousand kilometres east,
+An emperor began a larger: look:
+{{c|4100|Qianlong}}, the grandson of {{c|3950|Kangxi}}; the feast
 
-Of a long peace, ordered every book of worth in the realm to be gathered,
-Copied, judged, and kept: the {{c|4101|Siku Quanshu}}, the *Complete Library
-Of the {{x|Four Treasuries}}*: the classics, the histories, the masters, the gathered
-Literature. Three and a half thousand works. The tributary
+Of the largest realm that {{p|China}} had held,
+In seventy-three, in a long peace, bade
+Each book of worth be gathered, copied, spelled,
+Judged, kept: the {{c|4101|Siku Quanshu}}, it was made,
 
-Of every library in the empire flowed to {{p|Beijing}}. Three hundred and sixty scholars
-Read and edited; nearly four thousand copyists wrote it out by hand,
-Not printed: written, character by character, in thirty-six thousand volumes, the taels
-Of the treasury poured into ink. Some eight hundred million characters. The land
+{{x|Four Treasuries}}: classic, history, and
+Masters, letters: thirty-five hundred works;
+From each library to {{p|Beijing}}, in hand,
+Three hundred sixty scholars; and the clerks,
 
-Of the written word had never seen a thing so large, and has not since,
-Until the machines. The first complete set was finished in 1782,
-And then six more, by hand, for seven pavilions, the wince
-Of the copyists' wrists through fifteen years: in the {{p|Forbidden City}}, the true
+Four thousand copyists, by hand, no print,
+Thirty-six thousand volumes; and the cost
+Of ink: eight hundred million signs; the glint
+Of written word, unmatched; the first set, crossed
 
-First copy; in the summer palace at {{p|Yuanmingyuan}}; at the hunting palace of {{p|Chengde}};
-In the old {{x|Manchu}} capital at {{p|Shenyang}}; and three in the south, at {{p|Yangzhou}},
-{{p|Zhenjiang}} and {{p|Hangzhou}}, where scholars could come and read. The deed
-Was the conqueror becoming the keeper, as an earlier chapter told: now
+Complete, in eighty-two; then six by hand
+Seven halls: the {{p|Forbidden City}}'s, true;
+At {{p|Yuanmingyuan}}; {{p|Chengde}}'s hunting land;
+{{p|Shenyang}}; {{p|Yangzhou}}, {{p|Zhenjiang}}, {{p|Hangzhou}}, through
 
-The {{x|Manchu}} emperor was the guardian of the whole of {{x|Chinese}} learning.
-That was the gift. And here is the other face, which was the same act.
-The gathering was also a search. Every book that came in was read, the burning
-Kind and the keeping kind sorted: any line against the {{c|3175|Manchus}}, the fact
+Which scholars came to read; the deed was this:
+The conqueror became the keeper; now
+The {{x|Manchu}} kept all {{x|Chinese}} learning's bliss;
+That was the gift; the other face, somehow
 
-Of their conquest, the word *barbarian*, the {{x|Ming}} loyalists' memory,
-Any book that mourned the fallen dynasty, any map of the frontier
-That did not please: banned, burned, or quietly changed. The emery
-Of the editors smoothed the record. Some three thousand works, it is clear,
+Same act: the gathering, a search; each book
+Was read, and sorted, burning kind or kept:
+Each line against the {{c|3175|Manchus}}; each fond look
+Back at the {{x|Ming}}; "barbarian"; who wept
 
-Were destroyed or suppressed, and the passages in others altered,
-So that the great library of everything was also the great erasure.
-The literary inquisition: authors' families punished, the faltered
-Descendants of writers long dead exhumed in disgrace. The measure
+For the fallen house; maps that did not please:
+Banned, burned, or else changed; some three thousand works,
+Destroyed, suppressed, or altered; and, with these,
+The library of all, erasure, lurks;
 
-Of the gift is the measure of the loss. Hold them in one hand.
-{{c|4052|Diderot}}'s publisher cut his book in secret, for fear of the king.
-{{c|4100|Qianlong}} was the king, and cut in the open, and planned
-The cutting as part of the keeping. The same register, the same thing:
+The literary inquisition: kin
+Of writers punished; dead ones, dug, disgraced;
+The gift, the loss, one measure; hold them in
+One hand. And {{c|4052|Diderot}}'s publisher, in haste,
 
-To gather everything is to have the power to choose what survives.
-The chief editor, {{c|4102|Ji Yun}}, a scholar of great wit, wrote the catalogue,
-Ten thousand reviews of the books, the best guide to the old lives
-Of {{x|Chinese}} letters ever made. He also wrote the list of the banned. The fog
+Cut him in secret, fearing kings; the king,
+{{c|4100|Qianlong}}, cut in the open; and he planned
+The cutting with the keeping, the same thing:
+To gather all is to choose; and the hand
 
-Of the two tasks was one desk. And the seven copies: history took its share.
-In 1860 the {{x|British}} and {{x|French}} burned the summer palace, {{p|Yuanmingyuan}},
-And its copy with it. The {{x|Taiping}} war took two of the southern ones. The care
-Of the scholars of {{p|Hangzhou}} gathered the scattered leaves of theirs, and when
+Of choosing what survives. The chief, {{c|4102|Ji Yun}},
+Witty, wrote the catalogue, reviews' store
+Of ten thousand; the best guide; and, as one,
+He wrote the banned list too; one desk, no more.
 
-The war was over, recopied the missing volumes by hand, for decades.
-The first copy, from the {{p|Forbidden City}}, crossed the sea in 1948
-With the retreating government, and sits in {{p|Taipei}}. The arcades
-Of the old empire scattered its library. The weight
+The seven copies; history its share:
+Some burned in wars; the first, the palace one,
+Sits in {{p|Taipei}} now; and in {{p|Hangzhou}}, there,
+The scholars copied, by hand, each undone;
 
-Of the lesson for a book that gathers the genealogy of the world:
-To keep everything is to hold the knife that decides what is kept.
-The list of the banned is the shadow of the catalogue, curled
-Behind it. Keep the shadow too. Write down what was cut. The adept
+The lesson for a book of the world's kin:
+To keep all is to hold the knife that keeps;
+The banned list, catalogue's shadow, tucked in;
+Keep the shadow too; write what's cut, in heaps;
 
-Keeper is the one who keeps the record of the erasure
-Beside the record of the kept. The scholars of {{p|Hangzhou}} copying by lamplight,
-After the war, the leaves the fire had scattered: that is the measure
-Of what a library is. Not the emperor's order. The night
+Keep the erased beside the kept, as true;
+The scholars of {{p|Hangzhou}}, by lamplight, wrote
+Leaves fire scattered: that's a library's due:
+Not the emperor's order, but the note
 
-Copyist, unpaid, restoring what was lost, line by line.
-Gather everything. Burn nothing. And where the fire has been,
-Copy again. The four treasuries are the world's. The sign
-Of the keeper is the hand that writes the lost page in.
+Of night copyists, unpaid, line by line;
+Gather it all; burn none; where fire has been,
+Copy again; the treasuries, the sign
+Of keepers: hands that write the lost page in.
 
 
 # Chapter 291: The Common Source
