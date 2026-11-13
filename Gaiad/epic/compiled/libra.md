@@ -916,75 +916,85 @@ Speaks daily; each word, ancestor afar.
 
 # Chapter 292: The Year One
 
-On the twenty-second of September, 1792, the day the {{x|French Republic}} was proclaimed,
-The autumn equinox fell, the day and the night of equal length.
-A year later the {{x|Convention}} decided: that day shall be named
-The first day of the {{x|Year One}}. Time itself would show the strength
+September's twenty-second, ninety-two,
+{{x|French Republic}} proclaimed; the equinox,
+Day and night the same; a year on, the view
+Of the {{x|Convention}}: here the new year docks:
 
-Of the {{x|Revolution}}: the old calendar was the {{x|Church}}'s and the kings',
-Its saints' days and its Sundays, its years counted from a birth in {{p|Bethlehem}}.
-The days: whose were they? {{c|4119|Gilbert Romme}}, the things
-Of the stars in his hands, and a poet, {{c|4120|Fabre d'Églantine}}, the hem
+The first day of the {{x|Year One}}; time would show
+The {{x|Revolution}}'s strength: the old time ran
+Saints, Sundays, kings, years from {{p|Bethlehem}}, slow;
+Whose days? {{c|4119|Gilbert Romme}}, stars, and one began,
 
-Of the language in his: they made it. Twelve months of thirty days each,
-And five days left over at the end of the year, six in a leap year,
-Festivals of the citizens. Each month three weeks of ten days, the reach
-Of the decimal into time: the *décade*, and on the tenth the rest. The clear
+The poet, {{c|4120|Fabre d'Églantine}}: they made
+Twelve months of thirty days; five left, the end,
+Six in a leap year, festivals arrayed
+For citizens; three tens each month; to spend
 
-Logic of it. And the poet named the months for what the season does:
-*{{x|Vendémiaire}}*, the grape harvest; *{{x|Brumaire}}*, the fog; *{{x|Frimaire}}*, the frost;
-*{{x|Nivôse}}*, snow; *{{x|Pluviôse}}*, rain; *{{x|Ventôse}}*, wind; *{{x|Germinal}}*, the buzz
-Of seeds sprouting; *{{x|Floréal}}*, flowers; *{{x|Prairial}}*, meadows; the cost
+The tenth in rest: *décade*'s logic, plain;
+The poet named the months by seasons' ways:
+*{{x|Vendémiaire}}*, grapes; *{{x|Brumaire}}*, fog; then rain,
+*{{x|Frimaire}}*, the frost; and so through all the days:
 
-And the gift of summer, *{{x|Messidor}}*, harvest, *{{x|Thermidor}}*, heat, *{{x|Fructidor}}*, fruit.
-And every single day of the year he named, not for a saint, but for a living thing
-Or a tool of the farm: the grape, the saffron, the chestnut, the root
-Of the turnip, an animal on every fifth day, a tool on the tenth. The ring
+*{{x|Nivôse}}*, snow; *{{x|Pluviôse}}*, rain; *{{x|Ventôse}}*, wind;
+*{{x|Germinal}}*, seeds; *{{x|Floréal}}*, the flowers; then
+*{{x|Prairial}}*, meadows; summer's gift, in kind:
+*{{x|Messidor}}*, harvest; *{{x|Thermidor}}*, heat; when
 
-Of the year was a field. That is beautiful. Hold it. A whole year
-Where each day was a plant to be thankful for. And they went further:
-Ten hours to the day, a hundred minutes to the hour, the sheer
-Decimal clock, with faces made for it. And the murmur
+*{{x|Fructidor}}*, fruit; each day of the year, named
+Not for a saint, but for a living thing,
+Or a farm tool: grape, saffron, chestnut, framed,
+The turnip; beasts each fifth; tools, tenth; the ring
 
-Of the people was against it. The week of ten days gave them one rest in ten,
-Not one in seven: the workers lost a day of rest in every three weeks,
-And the old Sunday went on in secret. The decimal hours, then,
-Were given up within two years. The clocks with their odd peaks
+The year a field: and beautiful; hold this:
+A year where each day was a plant, with thanks;
+They went still further: ten hours, and, amiss,
+A hundred minutes, decimal clocks' ranks;
 
-Of ten numbers sit in museums. And the poet who named the months, {{c|4121|Fabre}},
-Was caught in a fraud and in the factions, and went to the guillotine
-In April 1794, before his calendar had gone once round, the macabre
-Joke of the season: he died in *{{x|Germinal}}*, the month of the green.
+The people were against it; ten-day week
+Gave one rest in ten, not seven; and lost
+A rest day each three weeks; and, so to speak,
+The old Sunday went on, secret, at cost;
 
-The days of the calendar became the names of what happened on them:
-The ninth of *{{x|Thermidor}}*, when {{c|4122|Robespierre}} fell; the eighteenth of *{{x|Brumaire}}*,
-When {{c|4066|Napoleon}} took the {{x|Republic}}. And {{c|4066|Napoleon}} ended it, the hem
-Of the new time cut: on the first of January, 1806, the old year
+The decimal hours, in two years, were dropped;
+Clocks sit in museums; {{c|4121|Fabre}}, who'd named
+The months, in fraud and factions, his head chopped,
+April, ninety-four, by guillotine, claimed:
 
-Came back, and the Sundays, and the saints. The {{x|Revolution}}'s time
-Lived twelve years, and in the {{c|4123|Paris Commune}} for a few weeks in 1871,
-And in the names: *{{x|Germinal}}*, the novel; *{{x|Thermidor}}*, the lobster; the rhyme
-Of the months still sung. Now hold the mirror. This book is one
+He died in *{{x|Germinal}}*, the green; and then
+The days became the names of what took place:
+*{{x|Thermidor}}*'s ninth, {{c|4122|Robespierre}}'s fall; men
+Still say them: *{{x|Germinal}}*, the book's own face;
 
-Of the calendars that came after. The {{x|Gaian}} calendar remakes time too:
-A new era, counted from the deep past of the human story, not a birth;
-Thirteen months of twenty-eight days, every date on the same weekday, the true
-Perpetual year. And it learned from the {{x|French}}: the week was not worth
+And *{{x|Thermidor}}*, the lobster; and the rhyme
+Of months still sung. Now hold the mirror, where
+A calendar that came, in its own time,
+After: the {{x|Gaian}} calendar is there,
 
-Breaking. The seven days stay. The rest stays: three sabbaths, not one in ten.
-And every day of the year is named, as the poet named them, but not for a plant:
-For a chapter of the scripture, read that day; and now the dead, the women and men
-Of the ancestors, kept on their day. The poet's slant
+New era, from the human story's deep
+Past, not a birth: thirteen months, twenty-eight
+Days; each date one weekday; the year to keep
+Perpetual; it learned from the {{x|French}} state:
 
-Was right: give every day a meaning, and the year becomes a liturgy.
-His error was to break the rhythm of the body's rest
-For the sake of a number. Learn both. A calendar is a theology
-And a promise to the tired. The {{x|French}} made the year a field, the best
+The week was not worth breaking; seven stay;
+The rest stays: three sabbaths, not one in ten;
+Each day is named, as poets named, a way:
+Not for a plant: a chapter, read; and then
 
-Of their gift, and broke the Sunday, the worst of their error.
-Keep the field. Keep the rest. Name the days. Do not let the number rule the body.
-And remember the poet who named *{{x|Germinal}}* and died in it, the terror
-Of his times around him: the grape, the fog, the frost. The year is a story.
+The dead, the women and the men, our kin,
+Kept on their day; the poet's slant was right:
+Give each day meaning, and the year's within
+A liturgy; his fault: he broke the right
+
+Of body's rest, for number's sake; learn both:
+A calendar's theology, a vow
+To the tired; {{x|French}} made the year, in growth,
+A field, their best; broke Sunday, worst; and now
+
+Keep field and rest; name days; let no number
+Rule the body; remember him, who named
+*{{x|Germinal}}*, and died in it; the slumber
+Of terror round: grape, fog, frost; the year, framed.
 
 
 # Chapter 293: The Festival of the Supreme Being
