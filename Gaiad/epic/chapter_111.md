@@ -116,7 +116,7 @@ Down to the sediment their shells were sown.
 
 Of every four species, three were killed;
 Each land beast larger than a dog was tolled
-Into the fossil record, there fulfilled,
+Into the stone, the record there fulfilled,
 In its account of the destroyed, enrolled.
 
 And this is {{x|Good Mesozoic Friday}}:
