@@ -181,7 +181,7 @@ And, crucially, too far away from there,
 From {{p|Toba}}'s plume to smother. To this day
 
 The {{p|Andamanese}} peoples, who are three,
-In what may be the purest form that stands
+In what is now the purest form that stands
 ({{c|1869|Jarawa}}, {{c|1870|Onge}}, {{c|1871|Sentinelese}}), hold {{c|1850|D}}
 Surviving: the relay of the first bands
 
@@ -190,95 +190,30 @@ Until these recent centuries, they stood
 In total isolation, on their own,
 Apart from all the human neighborhood.
 
-No cultural link joins them: none. The point
-Is one the {{x|Gaiad}} presses: some would weave
-A story out of them, and would anoint
-Three carriers of {{c|1850|D}}. Do we believe
+And yet the three are kin, and they are one:
+The house of {{c|1850|D}}, the ancient house, the name
+{{p|Japan}} and {{p|Tibet}} bear, and every son
+Of the {{p|Andaman}} islands bears the same.
 
-{{p|Japan}} and {{p|Tibet}} and the islands share
-One haplogroup, and so a kinship stays,
-Runs deep? Some residue, surviving there,
-Of {{c|1850|D}}'s lost culture? Does {{p|Japan}} still raise
+Three peoples of one father, far apart,
+Who never met, and never came to know
+Each other; yet the house is one at heart,
+As it was one, so very long ago.
 
-In its own mold some trace of what they knew,
-The first-wave migrants, which {{p|Tibet}} still holds,
-Which {{c|1871|Sentinelese}} also cue into?
-A {{c|1850|D}} civilization, which unfolds
+The {{p|Shinto}} shrine upon the mountain, and
+The prayer-flags on the high {{p|Tibetan}} wind,
+The island song upon {{p|Andaman}} sand:
+One house of {{c|1850|D}}, and one in kin and kind.
 
-By reconstruction, setting them as one?
-Or, narrowly: its {{p|Shinto}} and its ways,
-Its spiritual life, has {{p|Japan}} spun
-Out of that shared source? Does it owe its praise
-
-And reverence toward the mountain, its place
-Among the islands, to an ancient flow,
-Inherited from there, some ancient trace?
-The {{x|Gaiad}} says to stop. The answer: no.
-
-The story is catastrophe. It's not
-A hidden cultural oneness; the loss,
-Near-total, of one line, is what we've got,
-And not some old inheritance or gloss
-
-Of some civilizational descent
-Inherited and old. Long is the span
-Of seventy thousand years: see what's meant:
-No tongue lives that long stretch, no language can;
-
-A thousand deaths they die. And on the ground
-Is culture built, rebuilt, rebuilt, before,
-And over, upward from the floor, around;
-A father-marker, found in three, no more,
-
-In three disconnected peoples, is fact
-About the {{p|Y}}-chromosome, and no more,
-Beyond it, and no further tie or pact;
-And nothing of the culture which they bore
-
-Within their mouths, is told us: it is lost,
-Dead, which no soul, no living soul, recalls,
-Dead with the droughts and the cold years that crossed
-Behind {{p|Toba}}. Cultural islands, walls
-
-Are their own local growth, long and alone:
-{{p|Japan}} is {{p|Japan}}; and no heirloom lies
-Beneath them; and {{p|Tibet}} is {{p|Tibet}}'s own;
-The {{p|Andamans}} are theirs; there are no ties.
-
-The haplogroup is not a culture; no,
-The chromosome's no soul; and it is what
-The flag upon the gene-map comes to show:
-Biology can tell, and nothing but:
-
-Not of religion, nor of thought's long tree,
-Nor of philosophy, nor what they are,
-In what they tell themselves, these living three.
-And so the trepidations that go far
-
-And fantasies of those who want to join
-{{p|Tibetan Buddhism}}, {{p|Shinto}}, go down,
-And by way of {{p|Andamanese}} to coin
-A faith, in speculation's ash, and drown.
-
-There is no thread. The {{x|Gaiad}} keeps its care,
-And builds no bed for myths, but makes it plain:
-Catastrophe stands real, and it is there,
-What {{p|Toba}} did to the first wave; the pain
-
-And short and terrible report of it
-The {{x|Gaiad}} bids us tell, and tell it so:
-One mountain very nearly, we submit,
+And {{p|Toba}}'s ash had nearly closed the door
 Some seventy-four thousand years ago,
+And nearly wiped the house, and all its store,
+And nearly dealt the house its final blow.
 
-Dealt the blow to wipe a limb of our kind.
-And small the population, small the size:
-The bottleneck that {{c|1850|D}} went through is signed
-Within its genes, behind the blast; what lies
-
-The genetic diversity we see
-In {{c|1850|D}}-carriers now, its means, and all
-Its standard deviations, its degree,
-Confirm the hardship absolute. The fall
+Its people starved, and few of them were left,
+And small the house became, and small its all,
+Of almost all its sons and lines bereft;
+It stood upon the very edge. The fall
 
 Was near: the line almost did not win through.
 And yet it did: from three, the last, the rest
@@ -336,14 +271,14 @@ Kept in three refugia, and in line
 Unbraced by shared culture, and since displaced
 
 From minds, the letters hold them yet, and so
-The body still remembers. {{x|Gaiad}} tells
-The fall and the survival, so we know;
-And with it, the false unity dispels.
+The body still remembers, and it tells
+The fall and the survival; and they know,
+In blood, the house of {{c|1850|D}}, and where it dwells.
 
-The false romantic claim, which some would make,
-Of common faith, or of a shared soul's frame,
-It will not build upon, nor will it take,
-Nor give to it a credence or a name.
+The house of {{c|1850|D}}, in islands and in snow,
+And on the mountains, three, and one in name,
+Has kept its father's mark, and does not go,
+And, though its peoples part, it is the same.
 
 The stark and simple fact is all: one dark
 Volcano, world of ash, near-end; remains,
