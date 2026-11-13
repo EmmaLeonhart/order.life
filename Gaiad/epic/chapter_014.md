@@ -53,7 +53,7 @@ The icebergs cracked, and showed fate entire.
 A dance of shifting plates, of ice and stone,
 Continental bergs, their tectonics played,
 And from the depths, where pressure's force had grown,
-A cryovolcano, water's arc displayed.
+Cryovolcano: water's arc displayed.
 
 But fleeting was this glimpse, as ice returned,
 To cloak the waters in its chilling veil,
@@ -97,7 +97,7 @@ Embracing all who braved her wintry frost.
 
 Five sisters, {{c|109|Titan}}'s daughters, intertwine,
 Their lives as one, their stories yet unfold,
-In frozen seas, where myth and truth align,
+In frozen seas, where waves and shores align,
 The tales of {{c|126|Kraken}} sea and more are told.
 
 In {{c|109|Titan}}'s seas, where ancient legends dwell,
@@ -107,29 +107,28 @@ Where {{c|132|Titanians}} worship evermore.
 
 {{c|126|Kraken}}, the first, her islands proud and vast,
 {{c|133|Mayda}}, her shrine, where pilgrims come to pray,
-{{c|134|Bermoothes}}, {{c|135|Bimini}}, their tales amassed,
-{{c|136|Hufaidh}} and {{c|137|Krocylea}} there hold sway,
-And {{c|138|Penglai}}, {{c|139|Royllo}} too, in {{c|126|Kraken}}'s bay.
+Then {{c|134|Bermoothes}}, {{c|135|Bimini}}, and {{c|136|Hufaidh}}, vast,
+{{c|137|Krocylea}}, {{c|138|Penglai}}, and {{c|139|Royllo}}'s bay.
 
 {{c|127|Ligeia}}'s realm, her isles of whispers sweet,
 {{c|140|Bralgu}}'s shrine stands tall, by her spirit graced,
 {{c|141|Buyan}} and {{c|142|Planctae}}, where mysteries meet,
-{{c|143|Lemuria}}, a name from legends traced.
+{{c|143|Lemuria}}, the ancient, there is placed.
 
 In {{c|128|Punga}}'s seas, fierce islands rise and fall,
 {{c|144|Hawaiki}}'s shrine, her spirit's honored throne,
 {{c|145|Meropis}}, {{c|146|Onogoro}} both stand tall,
-And {{c|147|Thule}}, distant, unknown land, alone.
+And {{c|147|Thule}}, the far, the northern land, alone.
 
 {{c|130|Jingpo}}'s domain, where wisdom's islands lie,
 Hy-{{c|148|Brasil}} is her shrine, a beacon bright,
 {{c|149|Lyonesse}}, {{p|Ys}}, {{c|150|Vineta}} testify
-To sunken lands, their fables taking flight.
+To sunken lands, their towers lost from sight.
 
 {{c|131|Ontario}}'s embrace, her islands true,
 {{c|151|Antillia}}'s shrine, where faithful crowds stream,
-{{c|152|Aztlan}}, St. {{c|153|Brendan}}'s {{c|154|Isle}}, their legends brew,
-And {{c|155|Sannikov}}, a phantom {{c|156|Arctic}} dream.
+{{c|152|Aztlan}}, St. {{c|153|Brendan}}'s {{c|154|Isle}}, their shores in view,
+And {{c|155|Sannikov}}, the {{c|156|Arctic}}'s northern gleam.
 
 These sacred isles on {{c|109|Titan}}'s seas they stand,
 Their shrines alive with ancient rites and praise,
@@ -146,7 +145,7 @@ As {{c|109|Titan}}'s daughters hold them in embrace,
 In epic verse, their names we now declare,
 Their waters flowing through celestial space.
 
-{{c|126|Kraken}} {{c|157|Mare}}, her rivers proud and grand,
+Then {{c|126|Kraken}} {{c|157|Mare}}, her rivers proud and grand,
 {{c|158|Hapi}} {{c|159|Flumen}}, where {{c|160|Nile}}'s reflection's cast,
 With {{c|161|Sobek}}, {{c|162|Khnum}}, and {{c|163|Anuket}}'s long strand,
 Their shrines, where ancient rites are holding fast.
@@ -157,12 +156,12 @@ Their shrines, where many {{c|132|Titanians}} throng
 In reverence for secrets waters know.
 
 In {{c|128|Punga}}'s storied waters, fierce and free,
-{{c|168|Apanohuaya}}, {{c|169|Sambation}} sing,
-{{c|170|Tiberinus}}, {{c|171|Danuvius}} to sea;
+And {{c|168|Apanohuaya}}, {{c|169|Sambation}} sing,
+{{c|170|Tiberinus}}, {{c|171|Danuvius}} run to sea;
 Their shrines, to faithful hearts, a solace bring.
 
 {{c|130|Jingpo}}'s domain, her rivers' wisdom deep,
-{{c|172|Cephissus}}, {{c|173|Alpheus}}, {{c|174|Yamuna}} tell,
+{{c|172|Cephissus}}, {{c|173|Alpheus}}, and {{c|174|Yamuna}} tell,
 {{c|175|Purus}} {{c|159|Flumen}}: whispers these rivers keep,
 Their shrines, where spirits of the ancients dwell.
 
@@ -203,8 +202,8 @@ And life goes on amidst the stars and sparks.
 
 As dwellers of the rings, they lived and thrived,
 {{c|182|Unknowing}} that their fate would shift and change,
-For cosmic powers sought to rearrange:
-A comet's course left fragile life deprived.
+A comet's course left fragile life deprived:
+For cosmic powers sought to rearrange.
 
 This cosmic wanderer, upon its path,
 From distant realms through space and time charged swift;
@@ -228,38 +227,38 @@ Of {{c|109|Titan}}'s fall, and wanderings untold.
 
 In time, the heat of {{c|105|Io}}'s heart would rise,
 As molten fires beneath the crust prevail;
-The waters, once a life-supporting veil,
-Began to wane, a paradise that dies.
+The waters, once a life-supporting guise,
+Began to wane, a paradise grown pale.
 
 Yet, as the oceans dwindled and did shrink,
-A cosmic savior, falling, came in view:
-A meteor's approach, a chance anew
-To flee their home, escape the burning brink.
+A cosmic savior, falling, came in view,
+To flee their home, escape the burning brink:
+A meteor's approach, a chance anew.
 
 As {{c|105|Io}}'s warmth, too fierce, consumed its grace,
 The people found their way upon the stone,
-A vessel swift and sure, through void unknown,
-To journey forth and find a safer place.
+To journey forth and find a safer place,
+A vessel swift and sure, through void unknown.
 
 Then to {{c|106|Europa}}, icy sister-moon,
 Where oceans deep lay hidden 'neath the ice,
-The weary travelers sought, at any price,
-A refuge where their loss might end, and soon.
+A refuge where their loss might end, and soon,
+The weary travelers sought, at any price.
 
 With gratitude, they set foot on this sphere,
 A haven cold, yet promising and bright;
-In frozen realms they'd forge their future's light,
-A world reborn, from pain and loss they steer.
+A world reborn, from pain and loss they steer,
+In frozen realms they'd forge their future's light.
 
 They delved below {{c|106|Europa}}'s icy shell
 To find an undersea world, vast and wide,
-Where ocean wonders flourished deep inside,
-A refuge where {{c|105|Io}}'s folk came to dwell.
+A refuge where {{c|105|Io}}'s folk came to dwell,
+Where ocean wonders flourished deep inside.
 
 In darkness, yet with hope, they built anew
 A thriving realm, by swirling currents fed;
-With skill and art, their cities rose and spread,
-A testament to all that they'd been through.
+A testament to all that they'd been through,
+With skill and art, their cities rose and spread.
 
 Amidst the depths, they forged a life so bold,
 In harmony with {{c|106|Europa}}'s domain,
@@ -323,23 +322,23 @@ And gazed in awe, where paradise was found.
 
 The daughters of {{c|24|Bios}} set sights on {{c|96|Earth}},
 To sail the seas, and seek a home anew,
-In hope its fertile lands would see them through,
-Their journey, driven by celestial birth.
+Their journey, driven by celestial birth,
+In hope its fertile lands would see them through.
 
 As they approached, a harbinger of doom,
 A massive rock, like thunder, pierced the sky,
-And shattered {{c|96|Earth}}, a million shards to fly,
-A cruel twist of fate, the planet's tomb.
+A cruel twist of fate, the planet's tomb,
+And shattered {{c|96|Earth}}, a million shards to fly.
 
 In sorrow, they beheld the tragic sight,
 Yet knew they could not dwell on what was lost;
-With heavy hearts, again the void they crossed,
-And ventured on, propelled by stellar light.
+And ventured on, propelled by stellar light,
+With heavy hearts, again the void they crossed.
 
 To {{c|95|Venus}} then, the daughters sailed ahead,
 With hope that there, a refuge could be found,
-To build a life upon its clouded ground,
-And persevere, despite the path they tread.
+And persevere, despite the path they tread,
+To build a life upon its clouded ground.
 
 Upon fair {{c|95|Venus}} daughters found their place;
 In twilight lands, they thrived and multiplied,
@@ -348,48 +347,48 @@ And nurtured life, though days and nights belied.
 
 The sun would rise and set with languid grace,
 In west and east, it danced upon the sky,
-And in the day her oceans would go dry,
-As {{c|187|Muspelheim}}, the land of fire, took place.
+As {{c|187|Muspelheim}}, the burning land, took place,
+And in the day her oceans would go dry.
 
 At night, her oceans froze in cold embrace,
-And {{c|188|Niflheim}}, the land of frost, rose forlorn;
-Between these realms, the twilight realm was born,
-Where {{c|95|Venus}}' daughters lived with fervent pace.
+And {{c|188|Niflheim}}, the land of frost, forlorn;
+Where {{c|95|Venus}}' daughters lived with fervent pace,
+Between these realms, the twilight realm was born.
 
 Beneath the surface, vents their life sustained,
 In twilight lands they dwelled, both south and north,
-And tribes were formed, as daughters ventured forth,
-To {{c|189|Wind}}, to {{c|190|Ice}}, to {{c|180|Fire}}, their kin remained.
+To {{c|189|Wind}}, to {{c|190|Ice}}, to {{c|180|Fire}}, their kin remained,
+And tribes were formed, as daughters ventured forth.
 
 The {{c|191|Tribe}} of {{c|189|Wind}}, they wandered in the air,
 As skyplankton they drifted on the gust;
-The {{c|191|Tribe}} of {{c|190|Ice}}, on {{c|188|Niflheim}}'s frozen crust,
-And {{c|192|Twilight}} {{c|191|Tribe}}, eternal dusk their lair.
+And {{c|192|Twilight}} {{c|191|Tribe}}, eternal dusk their lair,
+The {{c|191|Tribe}} of {{c|190|Ice}}, on {{c|188|Niflheim}}'s frozen crust.
 
 The {{c|193|Water}} {{c|191|Tribe}}, beneath the ice they thrived,
 And {{c|180|Fire}} {{c|191|Tribe}}, in {{c|95|Venus}}' vents so deep;
-These daughters brave grew strong amid war's sweep:
-{{c|194|Muspel}}'s fire and {{c|188|Niflheim}}'s frost contrived.
+{{c|194|Muspel}}'s fire and {{c|188|Niflheim}}'s frost contrived
+A war; and daughters grew strong in its sweep.
 
 The oceans boiled, and {{c|194|Muspel}}'s sons, a horde,
 Charged forth, led by {{c|195|Surtur}}'s fiery blade,
-And in their wake, the ice and frost would fade;
-The winds of sun were victors, as war roared.
+The winds of sun were victors, as war roared;
+And in their wake, the ice and frost would fade.
 
 The greenhouse reigns, as {{c|95|Venus}}' fate was sealed,
 Her hydrogen wiped clean, {{c|196|Deuter}} remained;
-The {{c|191|Tribe}} of {{c|189|Wind}}, last survivors, sustained:
-May they endure, their future yet revealed.
+May they endure, their future yet revealed:
+The {{c|191|Tribe}} of {{c|189|Wind}}, last survivors, sustained.
 
 The daughters of the wind, now restless grown,
 Decided that they'd leave fair {{c|95|Venus}}' hold,
-To {{c|94|Mercury}}, a realm as yet untold,
-With hopes of finding lands to call their own.
+With hopes of finding lands to call their own,
+To {{c|94|Mercury}}, a realm as yet untold.
 
 Upon arrival, what a sight they saw:
 A hail of meteors, a storm unkind,
-That struck with force, the crust and mantle mined,
-The {{c|197|Iron}} Catastrophe, without flaw.
+The {{c|197|Iron}} Catastrophe, without flaw,
+That struck with force, the crust and mantle mined.
 
 The core of {{c|94|Mercury}}, now bare and stark,
 A testament to cosmic rage that crushed;
@@ -398,8 +397,8 @@ And chose to turn away, to lands more hushed.
 
 {{c|197|Iron}} Catastrophe, a tale of woe,
 Of {{c|94|Mercury}}, once whole, now stripped and torn;
-Yet onward went the daughters, though forlorn,
-To find a home where life would bloom and grow.
+To find a home where life would bloom and grow
+Went onward still the daughters, though forlorn.
 
 Back to the {{c|96|Earth}}, now clumping from the void,
 They ventured forth; the {{c|198|Moon}} embraced, they stayed,
