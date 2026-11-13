@@ -14435,31 +14435,27 @@ Where all can share in everlasting life.
 
 # Chapter 56: The Settler King
 
-*Arboreus divides the world between his sons, establishing the great plant dynasties*
-
----
-
 ## The Great Division
 
-Arboreus, son of Tracheus, claimed  
-His throne among the ancient forest peers,  
-He looked upon the lands as yet unnamed  
-And spoke these words, resounding through the years:  
+Arboreus, the son of Tracheus, claimed
+His throne among the ancient forest peers,
+He looked upon the lands as yet unnamed
+And spoke these words, resounding through the years:
 
-"My sons, the world spreads wide before our sight,  
-With fertile valleys, mountains capped with snow,  
-Each realm shall serve a different kind of might,  
-Each path shall let a different glory grow."  
+"My sons, the world spreads wide before our sight,
+With fertile valleys, mountains capped with snow,
+Each realm shall serve a different kind of might,
+Each path shall let a different glory grow."
 
 To Lycos bold he gave the might of spores,
 Released like dust upon the waiting wind,
 While Ginkgon claimed the leafy, branching shores
-Where megaphylls in sunlight would rescind.  
+Where megaphylls in sunlight would rescind.
 
-Thus did the settler king divide his realm  
-Between two sons to rule with different helm.  
-
----
+Thus did the settler king divide his realm,
+And gave the spore and leaf to each his own,
+Between two sons to rule with different helm,
+And each would have his kingdom and his throne.
 
 ## The Spore-Bearer's Domain
 
@@ -14473,15 +14469,15 @@ His spores 'tween male and female, each their own,
 Within his city, built with greatest art,
 He raised both sons and daughters fully grown.
 
-Lycopodion the second claimed his right  
-To build the first tree ever seen on earth,  
-A scale tree reaching up toward the light,  
-Of such immense and awe-inspiring girth.  
+Lycopodion, second, claimed his right
+To build the first tree ever seen on earth,
+A scale tree reaching up toward the light,
+Of such immense and awe-inspiring girth.
 
-The club-moss ancestor, his name lives on  
-In Lycopodium powder, fire's dawn.  
-
----
+The club-moss ancestor, his name lives on,
+And burns where flame and powder meet as one,
+Lycopodium powder, fire's dawn,
+The spark that leaps, and flashes like the sun.
 
 ## The Children of Isolagos
 
@@ -14490,20 +14486,20 @@ Two sons whose destinies would disagree:
 Bold Quill who sought the underwater fame,
 And wise Sellagine, master of the sea.
 
-The young of Sellagine would creep and crawl  
-Their leaves across the forest floor below,  
-In drought they died, but when the rains would fall  
-They lived again with resurrection's glow.  
+The young of Sellagine would creep and crawl
+Their leaves across the forest floor below,
+In drought they died, but when the rains would fall
+They lived again with resurrection's glow.
 
-The Quillworts from the noble Quill descend,  
-Their microphylls reach tall toward the sky,  
-No stomata their surfaces defend -  
-Through roots they breathe, their spores where waters lie.  
+The Quillworts from the noble Quill descend,
+Their microphylls reach tall toward the sky,
+No stomata their surfaces defend -
+Through roots they breathe, their spores where waters lie.
 
-Down underground their stems in darkness grow  
-While leaves above catch morning's golden glow.  
-
----
+Down underground their stems in darkness grow,
+And creep along the bottom of the mere,
+While leaves above catch morning's golden glow,
+And breathe the water, waiting through the year.
 
 ## The Megaphyll Master
 
@@ -14514,18 +14510,18 @@ As through the forest depths his own line grew.
 
 From him came forth bold Phyllon as his heir,
 Who mastered all the arts of leafy might,
-And Phyllon's sons would spread out everywhere  
-To claim their kingdoms in the dawning light.  
+And Phyllon's sons would spread out everywhere
+To claim their kingdoms in the dawning light.
 
 Two sons had Phyllon in the days of old:
-Pteridos the brave, and Gymnos the wise,  
-Their names in plant lore ever shall be told  
-As founders of the kingdoms of the skies.  
+Pteridos the brave, and Gymnos the wise,
+Their names in plant lore ever shall be told
+As founders of the kingdoms of the skies.
 
-From their great loins would spring the fern and tree  
-That rule the forest, complex as can be.  
-
----
+From their great loins would spring the fern and tree,
+And all the green that covers hill and plain,
+That rule the forest, complex as can be,
+In sun and shadow, and in wind and rain.
 
 ## The Line of Pteridos
 
@@ -14535,109 +14531,107 @@ And wise Euspor, from whom the long line runs
 Of all the many fronds we still hold dear.
 
 From Horsa came great Equis, he who found
-Fair Puzella swimming down in the stream,  
-Their gametophytes merged without a sound  
-To birth a dynasty beyond a dream.  
+Fair Puzella swimming down in the stream,
+Their gametophytes merged without a sound
+To birth a dynasty beyond a dream.
 
 But Equis faced a choice both hard and stark:
-Keep megaphylls or join with Lycos' way?  
-He chose the path of simple leaves and dark,  
-One vein alone would serve him every day.  
+Keep megaphylls or join with Lycos' way?
+He chose the path of simple leaves and dark,
+One vein alone would serve him every day.
 
-In silicon he armored all his town  
-While spores spread far beyond the forest's crown.  
-
----
+In silicon he armored all his town,
+His stems with ridges, jointed, hard, and lean,
+While spores spread far beyond the forest's crown,
+On every wind, across the swampy green.
 
 ## The Seasonal Cycle
 
-Wise Equis learned the rhythm of the year  
-And built his kingdom on the wheel of time:  
-In spring when snowmelt made the waters clear  
-He raised up horsetails in patterns sublime.  
+Wise Equis learned the rhythm of the year
+And built his kingdom on the wheel of time:
+In spring when snowmelt made the waters clear
+He raised up horsetails in patterns sublime.
 
-No chlorophyll these springtime children bore,  
-Just spores released in clouds across the land,  
-While through the earth their nutrients they store  
-For summer's work by their creator's hand.  
+No chlorophyll these springtime children bore,
+Just spores released in clouds across the land,
+While through the earth their nutrients they store
+For summer's work by their creator's hand.
 
-When summer came he tore the horsetails down  
-And built puzzlegrass in their sacred place,  
-With chlorophyll of green and leafy crown  
-To gather sunlight's energizing grace.  
+When summer came he tore the horsetails down
+And built puzzlegrass in their sacred place,
+With chlorophyll of green and leafy crown
+To gather sunlight's energizing grace.
 
-Thus seasons turned in Equis' grand design:  
-Spring spores, summer grass, in rhythm fine.  
-
----
+Thus seasons turned in Equis' grand design,
+The year's wheel turning as the ages pass:
+In rhythm fine, a year-long, ordered line,
+Spring's spores, and then the summer's puzzlegrass.
 
 ## The Fern Dynasty
 
 From wise Euspor came branches of the tree
-The two, Adderos and Fernando, grew,  
-Each claiming his own realm by fate's decree,  
-Where different kinds of fronds would spread anew.  
+The two, Adderos and Fernando, grew,
+Each claiming his own realm by fate's decree,
+Where different kinds of fronds would spread anew.
 
-Adderos sired Ophios the strange,
+Adderos then sired Ophios the strange,
 Who built but one great leaf of mighty size,
 And Psilos, dwelling in the mountain range,
 Who had no need of leaves beneath the skies.
 
 The adder's-tongue from brave Ophios came,
-While whisk ferns trace to Psilos, their sire,  
-Each keeping alive their ancestor's name  
-Through spore and frond and roots of living fire.  
+While whisk ferns trace to Psilos, their sire,
+Each keeping alive their ancestor's name
+Through spore and frond and roots of living fire.
 
-Fernando spread his fronds in patterns wide
-With Maratton standing close at his side.  
-
----
+Fernando spread his fronds in patterns wide,
+In shade and sun, in forest and in fen,
+With Maratton, his son, close at his side,
+The father of the fern-lords, there and then.
 
 ## The Great Swamp Settlement
 
 Maratidus and Leptos were the sons
-That Maratton brought forth into the world,  
-Ten thousand spores the first one always runs  
-While hundred spores the second's fronds unfurled.  
+That Maratton brought forth into the world,
+Ten thousand spores the first one always runs
+While hundred spores the second's fronds unfurled.
 
-Together they became the fern-lords true,  
-The ancestors of all the fronds we see,  
-From forest floor to canopy of blue  
-Their children spread, a vast and complex sea.  
+Together they became the fern-lords true,
+The ancestors of all the fronds we see,
+From forest floor to canopy of blue
+Their children spread, a vast and complex sea.
 
-These sons of brave Arboreus, who made  
-The swamplands by the Mississippi's shore,  
-Prepared, unknowing, and the way was laid  
-For those who'd walk where none had walked before.  
+These sons of brave Arboreus, they who made
+The swamplands by the Mississippi's shore,
+Prepared, unknowing, and the way was laid
+For those who'd walk where none had walked before.
 
-For here Osticthus' sons would rise and stand  
-And leave the sea, and claim for us the land.  
-
----
+For here Osticthus' sons would rise and stand,
+When fins would turn to feet upon the shore,
+And leave the sea, and claim for us the land,
+And walk the swamp his ferns had laid before.
 
 ## The Settler's Legacy
 
-Thus did Arboreus the settler king  
-Divide the world 'tween megaphyll and spore,  
-And from his choice would countless blessings spring  
-That serve the forest kingdoms evermore.  
+Thus did Arboreus the settler king
+Divide the world 'tween megaphyll and spore,
+And from his choice would countless blessings spring
+That serve the forest kingdoms evermore.
 
-The club-moss and the fern, the tree so tall,  
-The puzzlegrass and horsetails of the spring,  
-From his great line they came to rule them all  
-And honor their ancestral settler king.  
+The club-moss and the fern, the tree so tall,
+The puzzlegrass and horsetails of the spring,
+From his great line they came to rule them all
+And honor their ancestral settler king.
 
-Though seasons pass and eras come and go,  
-And mighty forests rise and fall to dust,  
-The legacy of him who chose to sow  
-His kingdom wide remains a sacred trust.  
+Though seasons pass and eras come and go,
+And mighty forests rise and fall to dust,
+The legacy of him who chose to sow
+His kingdom wide remains a sacred trust.
 
-For in each spore and in each frond unfurled  
-Lives on the dream of his divided world.  
-
----
-
-*Thus did Arboreus establish the great plant dynasties that would rule the forests of the earth, preparing the swamplands where vertebrates would first venture from sea to land.*
+For in each spore and in each frond unfurled,
+In each green leaf that turns to face the sun,
+Lives on the dream of his divided world,
+The kingdoms that he gave his sons, each one.
 
 ---
 
