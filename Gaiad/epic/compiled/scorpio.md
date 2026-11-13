@@ -244,70 +244,115 @@ Their light to {{x|Aster Day}}, as he did, still:
 
 # Chapter 311: The Appointed Hour
 
-On the twenty-eighth of June, 1914, in {{p|Sarajevo}}, in a car,
-{{c|4311|Gavrilo Princip}} shot two people: {{c|4312|Franz Ferdinand}}, the heir of {{p|Austria-Hungary}},
-And {{c|4313|Sophie, Duchess of Hohenberg}}, his wife; she died with him. A pistol is not a war:
-The war was dated afterward, by cabinets, in a month of signing and hurry.
+June twenty-eighth, nineteen-fourteen; a car;
+{{c|4311|Gavrilo Princip}}, {{p|Sarajevo}}, killed
+{{c|4312|Franz Ferdinand}}, the heir, and, in the car,
+{{c|4313|Sophie, Duchess of Hohenberg}}, both stilled.
 
-On the twenty-third of July, {{p|Austria-Hungary}} sent {{p|Serbia}} an ultimatum, and on the twenty-eighth declared;
-On the first of August, {{p|Germany}} declared on {{p|Russia}}; on the third, on {{p|France}}; on the fourth it entered {{p|Belgium}};
-And {{p|Britain}}'s ultimatum, sent that afternoon, expired at eleven at night, with no answer. {{p|Britain}} declared,
-And the empire followed the declaration. On the twenty-third of August came the summons
+A pistol is no war; the war was set
+By cabinets, a month of signing, haste:
+On {{p|Serbia}}, an ultimatum; yet
+The twenty-eighth declared; no day to waste;
 
-Of {{p|Japan}}: it declared war on {{p|Germany}}, in a rescript in the name of the emperor {{c|4314|Yoshihito}},
-Who said he had hoped to keep the peace of the {{p|East}}, and that he mourned his mother still.
-An ultimatum in the middle of the month had not been accepted. And so, true to
-The alliance it had kept with {{p|Britain}} twelve years, {{p|Japan}} went to fulfil
+On {{p|Russia}}, August first, {{p|Germany}}; then
+The third, on {{p|France}}; the fourth, it {{p|Belgium}} crossed;
+{{p|Britain}}'s note ran out at eleven, when
+Unanswered: war; empire, at that cost.
 
-Its part: {{p|Qingdao}}, the {{x|German}} port on the {{p|Shandong}} coast, a base for the raiders of the sea,
-Was the object; a {{x|Japanese}} force, with a smaller {{x|British}} one beside it, took the place,
-And the {{x|German}} garrison surrendered on the seventh of November. So the two anchors of this book, we see,
-Were in the same war, on the same side, allies, as they had promised, face to face.
+On August's twenty-third, {{p|Japan}} declared
+On {{p|Germany}}; the rescript, in the name
+Of {{c|4314|Yoshihito}}, said he'd hoped, and cared
+To keep the {{p|East}}'s peace; mourned his mother; came
 
-The killing in {{p|Europe}} did not pause for a register. Graves were dug where the line happened to lie,
-And the next fight went over them, and the mark was gone. {{c|4315|Fabian Ware}} was forty-five,
-Too old for the army; in September of 1914 he was in {{p|France}}, at the head, nearby
-The front, of a mobile unit of the {{x|British Red Cross}}; and, while the war was alive,
+An ultimatum, sent mid-month, unheard;
+True to its pact with {{p|Britain}}, twelve years, went
+To do its part, its promise kept; the word:
+{{p|Qingdao}}: the {{x|German}} base, where raiders went,
 
-He began to write down the graves his unit found. In 1915 the army took the work, and the name
-Was the {{x|Graves Registration Commission}}; in 1916 it widened, the {{x|Directorate of Grave Registration and Enquiries}}:
-The dead were being made into a file while they were still being made. Then came
-The twenty-first of May, 1917: a royal charter, and the {{x|Imperial War Graves Commission}}, with its duties
+On {{p|Shandong}}'s coast, to sea; a force took hold,
+The {{x|Japanese}}, with {{x|British}} at its side;
+November's seventh, the garrison, told,
+Gave up; this book's two anchors stood allied,
 
-To the graves of the empire's dead in that war, and their care after, and the names of the missing,
-Not for a season: the charter said the care was to last. The {{c|3373|Prince of Wales}} was president; {{c|4316|Ware}}, vice-chairman.
-{{c|4317|Frederic Kenyon}}, director of the {{x|British Museum}}, was asked, on the twentieth of November, to bring
-The marking to a rule, and he put equality at its centre: the same stone, for the private and the man
+In the same war, on one side, as they'd sworn.
+In {{p|Europe}}, killing did not pause; graves laid
+Where lines lay, by the next fight overborne,
+Marks gone. {{c|4315|Fabian Ware}}, forty-five, stayed,
 
-Of rank, and no private monument as the rule. He signed his report on the twenty-fourth of January, 1918;
-The commission had it in February; it was published in November. The architects named were
-{{c|4318|Edwin Lutyens}}, {{c|4319|Herbert Baker}} and {{c|4320|Reginald Blomfield}}. The stones were mostly still unseen,
-But the rule was written. {{c|4321|Rudyard Kipling}} gave the sentence for a body with no name, to stir
+Too old for the army, in {{p|France}}, that fall,
+A {{x|British Red Cross}} mobile unit's head;
+He wrote the graves it found down, one and all;
+In 'fifteen, the army took it; it spread:
 
-Over the unknown: Known unto God. His own son, {{c|4322|John Kipling}}, had been missing since the twenty-seventh
-Of September, 1915, at {{p|Loos}}. It was the {{p|British Empire}}'s rule for its own dead, a decision, not a discovery;
-In May of 1920 the families' quarrel with it reached {{x|Parliament}}: many wanted, under heaven,
-Their own dead home, or a stone of their own choosing; the commission held to the ground, and the one form, the delivery
+The {{x|Graves Registration Commission}}; then,
+'Sixteen, wider: a directorate; came{{fn|In 1916 it became the Directorate of Grave Registration and Enquiries.}}
+The dead were filed while being made, as men
+Were falling. Then, May twenty-first, the name,
 
-Of permanence. And the stopping was also a decision, and timed. In a railway carriage in the forest of {{p|Compiègne}},
-Before dawn on the eleventh of November, 1918, the armistice was signed:
-{{c|4323|Ferdinand Foch}} for the {{c|4324|Allies}}, {{c|4325|Matthias Erzberger}} at the head of the {{c|2669|Germans}}; and the terms ran
-That the operations on land and in the air would cease six hours after, by the clock; and the government, assigned
+In 'seventeen, a royal charter: and
+{{x|Imperial War Graves Commission}}, bound
+To graves of empire's dead; their care, planned
+To last; the missing's names; and on the ground
 
-To tell {{x|Parliament}}, said that day it was signed at five in the morning, and the war ceased at eleven.
-The hour was appointed. Until it, orders still ran on both sides of a line that had a clock and no peace yet.
-{{c|4326|Princip}} fired; {{c|4327|Sophie}} died with the heir; the declarations were signed on later days, and given,
-By other men; and the end was given too, by an hour, as a debt
+The {{c|3373|Prince of Wales}} presided; {{c|4316|Ware}}, vice-chair;
+{{c|4317|Frederic Kenyon}}, {{x|British Museum}}'s head,
+Asked, in November, for a rule, laid there
+Equality: the same stone for each dead,
 
-Is paid at an hour. The register had begun years before, because the ground was not keeping what it was given;
-{{c|4316|Ware}}'s file is the refusal to let the next advance be the erasure: count the named; cut the same stone for the private and the rank;
-Keep the missing as missing, which is a kind of name. And keep the day both ways: the grief, for the millions driven
-Into the ground, and the joy, for the guns gone quiet at eleven, the bells, the crowds, the thanks.
+Private and officer; no private stone
+As rule; he signed, January, 'eighteen;
+Published, November; architects, made known:
+{{c|4318|Edwin Lutyens}}, {{c|4319|Herbert Baker}}, and seen
 
-The eleventh hour of the eleventh day: a mourning and a feast at once, kept as one.
-Known unto God is a sentence for a body, kept over the field where the body lay.
-The day keeps the hour they appointed, and the names the hour did not give back to anyone,
-And the living who came home, and danced, and lived, and are ancestors today.
+With {{c|4320|Reginald Blomfield}}; the stones unseen,
+The rule was written. {{c|4321|Rudyard Kipling}} gave
+The words for nameless, cut on stone between:
+Known unto God. His son was in no grave:
+
+{{c|4322|John Kipling}}, missing since September, slain
+At {{p|Loos}}, 'fifteen. Empire's rule, a choice;
+In nineteen-twenty, families, though, in vain,
+Asked {{x|Parliament}} to bring them home; their voice
+
+Was heard; but the commission held the ground,
+One form, permanent. And the stopping, too,
+A choice, and timed. At {{p|Compiègne}}, around
+The forest's railway carriage, as dawn grew,
+
+November's eleventh, in 'eighteen, signed
+The armistice: {{c|4323|Ferdinand Foch}} who led
+{{c|4324|Allies}}; {{c|4325|Matthias Erzberger}}, assigned
+To lead the {{c|2669|Germans}}; and the terms had said:
+
+Land, air, would cease six hours on, by clock;
+The government told {{x|Parliament}}: at five
+Signed; at eleven, the war ceased. The lock
+Of orders ran on both sides; and, alive
+
+Till then, a line that had a clock, no peace.
+The hour was appointed. {{c|4326|Princip}} shot;
+{{c|4327|Sophie}} died with the heir; then, piece by piece,
+Others signed declarations; the end, bought
+
+By an hour too, as debts are paid. Begun
+Years earlier, the register: the ground
+Kept not what it was given; {{c|4316|Ware}}'s file, one
+Refused the next attack's erasing round;
+
+Count the named; cut one stone for private, rank;
+Keep the missing as missing: a name too.
+And keep the day both ways: grief, for the blank
+Millions in the ground; joy: guns quiet, too,
+
+At eleven; the bells, the crowds, the thanks.
+Eleventh hour, eleventh day: as one,
+A mourning and a feast at once; the ranks
+Known unto God: a sentence where the one
+
+Body lay in the field. The day keeps, too,
+The hour appointed, and the names it gave
+Back to no one; the living, who came through,
+Danced and lived, ancestors now, glad and brave.
 
 
 # Chapter 312: The Old Style
