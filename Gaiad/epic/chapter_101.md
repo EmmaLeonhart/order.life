@@ -69,8 +69,8 @@ His imprint, which the fine-grained limestones lend
 
 Of {{p|Solnhofen}}'s lagoon, where the lime-mud
 Preserved his feathers' every barb and shaft
-In the most famous fossil of the flood
-Of deep time's evidence—the ancient craft
+In the most famous image of the flood
+Of deep time's long ages—the ancient craft
 
 Of evolution's transformation, caught:
 A dinosaur becoming bird.
