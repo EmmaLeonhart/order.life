@@ -1498,15 +1498,15 @@ Splauron and Chloram—one in gloom, one bright.
 
 Splauron bore two twin shining girls in turn:
 Planka and Spira shaped the deep damp course.
-Planka's brood the mycetes roam and churn,
-While Spira's clan the chaetes run their course.
+And Planka's brood, the mycetes, roam and churn,
+While Spira's clan, the chaetes, ran their own course.
 
 Chloram, now second, bore two fateful lines,
 Chlamydi's brood, parasitic with greed.
 It sapped her womb, consuming hopeful signs,
 While Korba's path saw more constructive deed.
 
-Korba then mothered Chlorobia's seed,
+Korba mothered Chlorobia's seed,
 And Bactero, whose brood spread wide on land.
 Thus Hydra's line advanced in timely deed,
 Expanding far to flourish as they planned.
@@ -1533,7 +1533,7 @@ They wove Earth's green with ancient expertise.
 
 Fermus, the other child of Terra's sphere,
 Had two dear daughters: Firmicutie mild,
-Whose Firmicutes the soils far and near,
+Whose Firmicutes fill the soils far and near,
 And Conan, iron-willed, in deserts wild.
 
 Thus Hydra's line and Terra's line expand,

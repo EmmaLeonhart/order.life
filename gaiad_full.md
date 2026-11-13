@@ -1504,15 +1504,15 @@ She bore two children, each with wondrous face,
 
 {{c|248|Splauron}} bore two twin shining girls in turn:
 {{c|250|Planka}} and {{c|251|Spira}} shaped the deep damp course.
-{{c|250|Planka}}'s brood the mycetes roam and churn,
-While {{c|251|Spira}}'s clan the chaetes run their course.
+And {{c|250|Planka}}'s brood, the mycetes, roam and churn,
+While {{c|251|Spira}}'s clan, the chaetes, ran their own course.
 
 {{c|249|Chloram}}, now second, bore two fateful lines,
 {{c|252|Chlamydi}}'s brood, parasitic with greed.
 It sapped her womb, consuming hopeful signs,
 While {{c|253|Korba}}'s path saw more constructive deed.
 
-{{c|253|Korba}} then mothered {{c|254|Chlorobia}}'s seed,
+{{c|253|Korba}} mothered {{c|254|Chlorobia}}'s seed,
 And {{c|255|Bactero}}, whose brood spread wide on land.
 Thus {{c|239|Hydra}}'s line advanced in timely deed,
 Expanding far to flourish as they planned.
@@ -1539,7 +1539,7 @@ They wove {{c|96|Earth}}'s green with ancient expertise.
 
 {{c|258|Fermus}}, the other child of {{c|202|Terra}}'s sphere,
 Had two dear daughters: {{c|265|Firmicutie}} mild,
-Whose {{c|266|Firmicutes}} the soils far and near,
+Whose {{c|266|Firmicutes}} fill the soils far and near,
 And {{c|267|Conan}}, iron-willed, in deserts wild.
 
 Thus {{c|239|Hydra}}'s line and {{c|202|Terra}}'s line expand,
