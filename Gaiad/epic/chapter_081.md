@@ -37,7 +37,7 @@ Bacteria-rich basalts, cooking forth
 
 Out of the planet's own deep heat, to rise
 In pressure up against the surface crust,
-In what geologists would recognize
+In what the world would come to recognize
 As the catastrophe—a buried gust
 
 Of magma seeking every crack and seam
