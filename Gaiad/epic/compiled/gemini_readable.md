@@ -1781,115 +1781,70 @@ And fell, for whose the rite was, and not who.
 
 # Chapter 185: Romance of the Three Kingdoms
 
-The novel by Luo Guanzhong
-in the fourteenth century brought alive
-the {{x|Three Kingdoms}} war with such vividness
-that fact and fiction no longer survive
+The realm, long split, must join; long joined, must part;
+So it has always been. And in a grove
+Of peaches, three swore brotherhood of heart:
+Liu Bei, Guan Yu, and Zhang Fei, who all strove
 
-as separate things. What "everyone knows"
-about this period comes from his book.
-The historical Chen Shou's {{x|Records of Three Kingdoms}}
-is less read, less fun, less took.
+To die upon one day, and raise the {{x|Han}}
+Again, and share each burden. Of the line
+Of {{x|Han}}, Liu Bei sold sandals, mats, a man
+Who lived by straw; and Guan Yu, of the sign
 
-The opening line: "The empire, long divided,
-must unite; long united, must divide.
-Thus it has ever been." The novel begins
-with the {{x|Peach Garden Oath}} on a riverside.
+Of justice, fled, for he had slain a knave
+Who bullied all; Zhang Fei, who sold the wine
+And butchered meat, was loyal, brash, and brave;
+The three raised troops to fight the rebels' line.
 
-Liu Bei, Guan Yu, and Zhang Fei
-swore brotherhood in a peach garden,
-pledging to die on the same day, to
-restore the {{x|Han}}, to share every burden.
+Zhuge Liang, the Sleeping Dragon, the sage,
+Was sought three times in his thatched hut before
+He came to serve Liu Bei, and set the stage:
+Three kingdoms like a tripod, and the war
 
-Liu Bei claimed descent from the {{x|Han}} imperial line,
-but sold straw sandals and mats to live.
-Guan Yu was a fugitive for avenging
-a local bully who would not forgive.
+Of {{p|Shu}} joined with {{p|Wu}} against {{p|Wei}}, the two
+Against the strong. At Red Cliffs, two-oh-eight,
+Cao Cao came south, his hundred thousands, through
+The river, to crush both; and in the great
 
-Zhang Fei was a butcher and wine-seller,
-brash, brave, violent, loyal as stone.
-Together they raised a volunteer army
-against the Yellow Turbans on their own.
+Fog Zhuge Liang sent boats of straw, and drew
+Cao Cao's own arrows, by the thousand, there;
+And then he called the east wind, and it blew;
+And fire-ships slipped into the chained fleet's lair,
 
-Zhuge Liang joined Liu Bei later,
-the Sleeping Dragon, the brilliant strategist,
-visited three times at his thatched cottage
-before he would consent to be a lobbyist
+And all of it was burned; and Cao Cao fled,
+By {{p|Huarong Road}}, through marsh and mud; and there
+Guan Yu met him at the pass, and, instead
+Of slaying him, let him go, for old care
 
-for Liu Bei's cause. He devised the strategy
-of the tripod: three kingdoms balancing,
-{{p|Shu}} allied with {{p|Wu}} against {{p|Wei}},
-the weaker two against the one advancing.
+Cao Cao had shown him once; and so he paid
+His debt of honor, even to a foe.
+Guan Yu is Guandi now, a god, whose aid
+Of loyalty, of brothers, trade, they know
 
-The Battle of Red Cliffs in two-oh-eight
-was the great set piece. Cao Cao's northern army
-came south to crush the Wu-Shu alliance.
-Eight hundred thousand troops, allegedly.
+In temples through all {{p|China}}, and beyond.
+And Zhuge Liang went out six times to {{p|Wei}},
+And died at {{p|Wuzhang}}, saying: heaven's bond
+Will not let me prevail; and in that day,
 
-Zhuge Liang borrowed arrows with straw boats
-in the fog, ten thousand arrows from Cao Cao's
-own archers fired at what they couldn't see.
-Fire ships were prepared, east wind-blowings owed.
+{{p|Shu}} failed; it fell to {{p|Wei}}, two-sixty-three;
+And {{p|Wei}} gave way to Jin, two-sixty-five;
+And {{p|Wu}} fell, two-eighty; and so, one, free,
+The realm was joined a while, and kept alive.
 
-The Taoist Zhuge summoned the east wind,
-or predicted it, the novel is ambiguous.
-The fire ships slipped into Cao Cao's fleet
-chained together, and the conflagration was continuous.
+And still each child of {{p|China}} knows the names:
+Liu Bei, the rightful heir; Cao Cao, the shrewd;
+Zhuge Liang, the wise; and plays and games
+Retell them, and the generals' books include
 
-Cao Cao's navy burned. His army fled
-along the {{p|Huarong Road}} through marsh and mud.
-Guan Yu let him escape at the narrow pass,
-repaying old debt of favor, blood.
+Their sayings: hard to win the world, but more
+To keep; and win and loss are war's own way;
+But he who will not yield, though struck and sore,
+Is not cast down; be loyal; and so stay
 
-(This was not in the histories. Luo Guanzhong
-invented the {{p|Huarong Road}} release
-to show Guan Yu's righteousness, his sense
-of honor even to foes, sense of peace.)
-
-Guan Yu became the god of war,
-of loyalty, of brotherhood, of merchants,
-worshipped across {{p|China}} and Chinese diaspora
-as Guandi, in temples of gold and servants.
-
-Zhuge Liang's {{x|Six Campaigns}} against {{p|Wei}}
-ended in his death at {{p|Wuzhang Plains}}.
-"The heavens will not let me succeed,"
-he said. {{p|Shu}} collapsed from his absent pains.
-
-{{p|Shu}} fell to {{p|Wei}} in two-sixty-three.
-{{p|Wei}} was replaced by the Jin Dynasty in two-sixty-five.
-{{p|Wu}} fell to {{x|Jin}} in two-eighty.
-The empire was briefly reunified alive.
-
-But {{x|Jin}} would not last. Barbarian invasions
-from the north would push the {{x|Jin}} south,
-the {{p|Northern and Southern Dynasties}} would begin.
-{{p|China}} would be divided with famine in its mouth.
-
-Yet the {{x|Three Kingdoms}} tales endured.
-Liu Bei as the righteous rightful heir.
-Cao Cao as the cunning realist.
-Zhuge Liang as wisdom incarnate there.
-
-The novel's influence is vast.
-Every Chinese child knows these names.
-East Asian games, operas, films retell them.
-Military strategy manuals cite their games.
-
-"Hard as it is to conquer the world,
-harder it is to keep what's conquered."
-"Victory and defeat are common in war,
-but the determined man's not deflowered."
-
-The novel's worldview is deeply Confucian:
-loyalty above survival, righteousness above success.
-Liu Bei's cause is just though it loses.
-Cao Cao's victory is tainted, a mess.
-
-The deflationary polytheist sees here
-the Chinese counterpart to epic,
-the narrative matrix that shapes
-moral imagination, subsonic and sceptic.
+With right, though right should lose; for Liu Bei's cause
+Was just, and lost; and Cao Cao's winning, stained.
+So honor them: the oath, the peach, the laws
+Of brotherhood, and loyalty, maintained.
 
 
 # Chapter 186: The Sassanid Empire
