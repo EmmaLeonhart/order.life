@@ -1,57 +1,42 @@
 # Chapter 188: Armenia
 
-{{p|Armenia}}, that high mountain land
-between the {{p|Roman}} and {{x|Persian}} grip,
-between {{p|Mount Ararat}} and the {{p|Caucasus}},
-held culturally tight its grip.
+{{p|Armenia}}, the high land of the hills,
+Between the {{p|Roman}} and the {{x|Persian}} hand,
+By {{p|Ararat}} and {{p|Caucasus}}, still fills
+Its place; for {{c|2616|Hayk}}, the father of the land,
 
-The {{c|2615|Armenians}} trace themselves to {{c|2616|Hayk}},
-descendant of {{c|1851|Noah}} through {{c|1859|Japheth}}'s son,
-who defeated the tyrant {{c|2617|Bel}} of {{p|Babylon}}
-and founded the nation under the sun.
+From {{c|1851|Noah}}, through {{c|1859|Japheth}}'s son, came down,
+And beat {{p|Babylon}}'s tyrant, {{c|2617|Bel}}, in war,
+And founded them; {{x|Hay}} is their own name's crown,
+{{p|Hayastan}} their land; and from {{c|2618|Aram}}, for
 
-(They call themselves {{x|Hay}}, their land {{p|Hayastan}}.
-The name "{{p|Armenia}}" is what others call
-their land, from {{c|2618|Aram}} another ancestor,
-descendant of {{c|2616|Hayk}} through several fall.)
+Of {{c|2616|Hayk}}'s line, the others name the land.
+In three-oh-one, King {{c|2619|Tiridates}} had thrown
+The {{c|2620|Illuminator}}, by his own hand,
+Into a pit for years; a widow, known
 
-In three-oh-one, King {{c|2619|Tiridates III}}
-was converted by {{c|2620|Gregory the Illuminator}},
-whom he had imprisoned in a pit for years.
-{{c|2621|Gregory}} survived by a widow's favor.
+For mercy, fed him; and he lived, and won
+The king; and so the king, {{c|2622|Tiridates}}, made
+The faith of {{c|1497|Christ}} the realm's own rite, the one
+First, twelve years before {{p|Milan}}'s word was laid;
 
-{{c|2622|Tiridates}} made {{x|Christianity}} the state religion,
-the first nation in history to do so,
-twelve years before {{c|2555|Constantine}}'s {{x|Edict of Milan}},
-a generation before {{p|Rome}}'s own show.
+{{c|2623|Thaddeus}} and {{c|1536|Bartholomew}} had brought
+It first, died for it; {{c|2624|Mesrop Mashtots}} made
+The letters, thirty-six, for their tongue, wrought,
+And in their tongue the scriptures there were laid.
 
-The {{x|Armenian Apostolic Church}}
-claims descent from the apostles {{c|2623|Thaddeus}}
-and {{c|1536|Bartholomew}}, who preached there first
-and were martyred for what they taught us.
+And then a golden age of letters, books
+Of history, of the faith, of thought; and one,
+{{c|2625|Movses Khorenatsi}} drew, as one looks,
+The {{x|Greek}}, the {{x|Persian}}, {{x|Jewish}}, into one,
 
-{{c|2624|Mesrop Mashtots}} in the early fifth century
-created the {{x|Armenian}} alphabet,
-thirty-six letters designed for the tongue,
-enabling scripture and liturgy to be set.
-
-The {{x|Bible}} was translated immediately.
-A golden age of {{x|Armenian}} letters began.
-History, theology, philosophy flourished
-between mountain passes of the clan.
-
-{{c|2625|Movses Khorenatsi}}'s {{x|History of Armenia}}
-wove together {{x|Greek}}, {{x|Persian}}, {{x|Jewish}}, and {{x|Hebrew}}
-sources into a national narrative,
-tracing the {{x|Haykazuni}} line as true.
-
-{{p|Armenia}} was trapped between empires.
-{{x|Persian}} {{x|Sassanid}} on the east, {{x|Byzantine}} on the west,
-the land was divided and partitioned,
-and {{x|Christian}} identity became their test.
+And traced the {{x|Haykazuni}} line. And caught
+Between the {{x|Sassanid}} and {{x|Byzantine}},
+Their land was cut and split; and so they fought
+To keep their faith, their own, and their own line.
 
 And at {{p|Avarayr}}, in four-fifty-one,
-{{c|2626|Vardan Mamikonian}} led out his own
+{{c|2626|Vardan Mamikonian}} led his own
 against the {{x|Sassanid}} king's priests, who'd won
 the order that their altar stand alone.
 
@@ -60,22 +45,12 @@ as the first feast of its own martyred dead.
 The war was not of gods. It was who'd say
 whose priests would bless its altar and its bread.
 
-{{p|Armenia}} would never be a great power.
-But it would be a persistent one.
-The mountains shielded. The alphabet preserved.
-The church maintained what had been done.
+They never would be great, but they would last:
+The mountains shielded them; the letters kept
+Their speech; the church held all that they'd amassed;
+And still the letters {{c|2629|Mashtots}} made are kept.
 
-Centuries later, {{c|2615|Armenians}} would
-settle across the {{p|Middle East}} as traders,
-builders, craftsmen, architects
-of {{p|Istanbul}}, {{p|Isfahan}}, and other Kraiters.
-
-The {{c|2628|Kingdom of Cilicia}} on the {{p|Mediterranean}}
-would be a crusader ally's friend.
-The genocide of nineteen-fifteen
-would be the modern {{x|Armenian}} wound without end.
-
-But the culture endured. The church endured.
-The alphabet still writes what {{c|2629|Mashtots}} penned.
-A small mountain nation held on through empires.
-The deflationary polytheist sees how they fend.
+So honor them, the mountain folk who stood
+Between the two great powers, and held on;
+Their letters and their church, their own, their good,
+And {{c|2627|Vardan}}, fallen, when the field was gone.
