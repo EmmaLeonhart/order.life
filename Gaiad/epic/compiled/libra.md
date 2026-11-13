@@ -1552,75 +1552,85 @@ Make room: the machine's place, its own, insist.
 
 # Chapter 299: The Gate and the Glory
 
-In {{p|Shiraz}}, on the evening of the twenty-third of May, 1844,
-A young merchant of twenty-four, {{c|4196|Siyyid Ali-Muhammad}}, who sold cloth,
-Received a seeker, {{c|4197|Mulla Husayn}}, who had come looking for the door
-Of the promised one, and told him through the night: the broth
+In {{p|Shiraz}}, twenty-third of May, the night,
+In forty-four, a merchant, twenty-four,
+{{c|4196|Siyyid Ali-Muhammad}}, selling, bright,
+Received {{c|4197|Mulla Husayn}}, seeking the door
 
-Of the old age is over; I am the {{c|4198|Báb}}, the {{c|4199|Gate}}. The {{c|2775|Shia}} were waiting
-For the hidden imam to return after a thousand years. He said:
-The time is now. And eighteen disciples came, the {{c|4200|Letters of the Living}}, the debating
-Of a new revelation spreading through {{p|Persia}} like a flame. One of them led
+Of the promised one; told him, all night through:
+The old age over: I'm the {{c|4198|Báb}}, the {{c|4199|Gate}};
+{{c|2775|Shia}} waited a thousand years, the true
+Imam's return: "Now is the time"; the weight
 
-Like no woman of her time: a poet and scholar of {{p|Qazvin}},
-{{c|4201|Táhirih}}, who in 1848, at a gathering at {{p|Badasht}},
-Appeared before the men without her veil, and announced, the din
-Of the shocked around her, that the old law was abolished. The clash
+Eighteen came, {{c|4200|Letters of the Living}}, spread
+Through {{p|Persia}} like a flame; and one, unveiled,
+{{c|4201|Táhirih}}, poet of {{p|Qazvin}}, led
+At {{p|Badasht}}, forty-eight; the old law failed:
 
-Of the old order with the new was immediate. The clergy and the {{c|4202|Shah}}
-Saw rebellion. The {{c|4198|Báb}} was imprisoned in the mountain fortresses of the north,
-And in July 1850, in the square of {{p|Tabriz}}, the barracks, the far
-End of his road, they hung him by ropes before a firing squad, and forth
+She said, before the men, without her veil,
+The old law was abolished; the clash came:
+The clergy and the {{c|4202|Shah}} saw rebels; jail
+For the {{c|4198|Báb}} in the north's forts; and the flame
 
-Came the volley, the story says, and when the smoke cleared he was gone:
-The bullets had cut the ropes, and he was found in his cell, finishing a dictation.
-And the soldiers refused to fire again, and another regiment was brought on,
-And the second volley killed him. Hold the story; it is the narration
+In fifty, in July, {{p|Tabriz}}'s square;
+They hung him by the ropes; the volley's flame;
+The smoke cleared: he was gone; the ropes cut there
+By bullets; in his cell, dictating, came
 
-Of his followers. And {{c|4201|Táhirih}}, two years later, strangled in a garden,
-Said, as her followers remember: you may kill me as soon as you like,
-But you cannot stop the emancipation of women. The burden
-Of thousands of the {{c|4203|Bábís}} killed fell on {{p|Persia}}. The strike
+They found him; soldiers would not fire again;
+Another regiment; the second killed.
+And {{c|4201|Táhirih}}, two years on, the men
+Who strangled her: "Kill me, but, as is willed,
 
-Of the state was total. And one of the {{c|4198|Báb}}'s followers, a nobleman
-Of {{p|Nur}}, in {{p|Mazandaran}}, the old {{p|Tabaristan}} of {{c|2896|Qarin}}'s line,
-{{c|4204|Mírzá Husayn-Alí}}, was thrown in 1852 into the {{p|Black Pit}} of {{p|Tehran}}, the dungeon, the plan
-Of the jailers to let them die in the dark and the filth, the chains, the sign
+None can stop the freeing of women's lives";
+Of thousands of the {{c|4203|Bábís}} killed; the strike
+Of the state, total; one, whose line still thrives
+{{p|Nur}}, {{p|Mazandaran}}: {{c|2896|Qarin}}'s line alike,
 
-Of a hundred pounds of iron on his neck. And there, he would write,
-In the darkness, a vision came to him: a maiden of heaven, a voice:
-You are the one. He was exiled, stripped of his estates, to {{p|Baghdad}}, the plight
-Of the exile, and in April 1863, in a garden by the {{p|Tigris}}, the choice
+{{c|4204|Mírzá Husayn-Alí}}, in fifty-two
+Thrown in the {{p|Black Pit}} of {{p|Tehran}}, in chains,
+A hundred pounds of iron; there, he knew,
+In dark, a heaven-maiden's voice, its strains:
 
-Of twelve days, the {{c|4205|Ridván}}, he declared himself: {{c|4206|Baháʼu'lláh}}, the {{c|4207|Glory of God}},
-The one the {{c|4198|Báb}} had foretold. Then {{p|Istanbul}}, then {{p|Edirne}},
-Where {{c|3988|Sabbatai}} took the turban; the rod
-Of the prison-city of {{p|Akka}} in {{p|Palestine}} from 1868, the journey
+"You are the one." Exiled, his lands all swept,
+To {{p|Baghdad}}; sixty-three, by {{p|Tigris}}, shared
+The {{c|4205|Ridván}}, twelve days in a garden, stepped,
+{{c|4206|Baháʼu'lláh}}, {{c|4207|Glory of God}}, declared,
 
-Of forty years of exile and imprisonment. And what he taught: one God;
-All the great religions are one religion, revealed in stages; humanity is one;
-Men and women are equal; science and religion agree; the rod
-Of prejudice must be broken; a world government, a world language, the sun
+The one the {{c|4198|Báb}} foretold; {{p|Istanbul}}, then
+{{p|Edirne}}, where {{c|3988|Sabbatai}}'s turban; rod
+Of prison {{p|Akka}}, {{p|Palestine}}; and when
+Forty years exiled, what he taught: one God;
 
-Of peace among the nations. He wrote to the kings of the earth, to the {{c|2825|Pope}},
-To {{c|4208|Napoleon III}}, to {{c|4209|Queen Victoria}}, to the {{c|4202|Shah}}: make peace.
-He died in 1892 near {{p|Akka}}, still a prisoner in name. And the hope
-Did not die with him. Hold this against {{c|3823|Akbar}}'s faith, which had the lease
+All faiths are one, revealed in stages; one
+Humanity; men, women, equal; things
+Science and faith agree; the bonds undone
+Of prejudice; world government; and kings
 
-Of only one man's life. {{c|4206|Baháʼu'lláh}} left a book of laws,
-A covenant naming his son, {{c|4210|ʻAbdu'l-Bahá}}, as the interpreter, and a plan
-For an elected council, the {{c|4211|Universal House of Justice}}, on {{p|Mount Carmel}} now, the cause
-Organised to outlive its founders. And a calendar: the year a span
+He wrote the {{c|2825|Pope}}, {{c|4209|Queen Victoria}}, too,
+{{c|4208|Napoleon III}}, the {{c|4202|Shah}}: make peace;
+He died in ninety-two near {{p|Akka}}, through
+Still prisoner in name; the hope's release
 
-Of nineteen months of nineteen days, and a few days left over, set apart
-For gifts and hospitality, before the fast. Every faith that lasts
-Remakes time. The {{x|Gaian}} calendar has its days of {{c|1968|Horus}} too, the heart
-Of the year outside the months. These are cousins. The casts
+Did not die with him: not as {{c|3823|Akbar}}'s, one
+Man's life alone; he left a book of laws,
+A covenant: {{c|4210|ʻAbdu'l-Bahá}}, his son;
+Interpreter; a council for the cause,
 
-Of the new religions of unification are alike. Learn from the {{c|4212|Baháʼís}}:
-A unity faith needs a book, a calendar, a succession, an institution,
-And keys. {{p|Iran}}'s fight is ours: the keys
-Of Gate, graves, schools: the whole institution.
+The {{c|4211|Universal House of Justice}}, there
+On {{p|Mount Carmel}} now; a calendar, made
+Nineteen months of nineteen days, and a spare
+Few days for gifts, before the fast, displayed;
+
+Each lasting faith remakes its time; and so
+The {{x|Gaian}} calendar has {{c|1968|Horus}}' days,
+The year's heart, outside months; cousins, they go;
+Unity faiths, alike: learn from their ways
+
+Of {{c|4212|Baháʼís}}: a unity needs, too,
+A book, a calendar, succession, keys;
+{{p|Iran}}'s fight is ours: the Gate, graves, the true
+Schools, the whole institution: all of these.
 
 In {{p|Iran}} they are barred from school, and jailed;
 Their graves are bulldozed: who may keep which dead.
