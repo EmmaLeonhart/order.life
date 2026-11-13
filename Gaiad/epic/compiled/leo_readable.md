@@ -2949,228 +2949,175 @@ The red earth keeps it, as the years go by.
 
 # Chapter 247: The Great League Broken
 
-The oldest democracy.
-
-                       Before the quill
+Oldest democracy: before the quill
 Of Jefferson had scratched its founding creed,
 Before the English colonists would fill
-The parchment rolls with liberty's bright seed--
+The parchment rolls with liberty's bright seed,
 
-The Haudenosaunee had already made
-A union from the warfare of five nations,
+Haudenosaunee had already made
+A union of five warring nations' strife,
 A {{x|Great Law}} spoken underneath the shade
-Of the white pine, the {{x|Tree of Peace}}'s stations
+Of the white pine, the {{x|Tree of Peace}}'s life,
 
-Rooted in the earth of {{p|Onondaga}},
-Where Deganawidah the Peacemaker came
-Across the waters with a light like saga
-And planted peace where blood-feud was the name
+Rooted in {{p|Onondaga}}'s earth, where came
+Deganawidah, the Peacemaker, from
+Across the waters, and he changed the name
+Of blood-feud into peace: and five; then, come
 
-Of every season. Five, then six: the Mohawk,
-Oneida, Onondaga, Cayuga,
-Seneca--and Tuscarora's long walk
-North to join the league--a federation, a
+Mohawk, Oneida, Onondaga, old,
+Cayuga, Seneca; then, the long walk
+Of the Tuscarora up the north, to hold
+The league: condolence covenant, and talk,
 
-Covenant of condolence, not of war,
-Where fifty chiefs sat in their council ring
+Not war; where fifty chiefs sat in the ring,
 And the clan mothers chose who would speak for
-Each nation and could strip a faithless king
+Each nation, and could strip a faithless king
+Of antlers. Women held the fire; and more,
 
-Of his antlers. Women held the fire.
-The longhouse stretched from east to west--
-The Mohawk at the eastern door, the dire
-And watchful Keepers, and the Seneca blessed
+The longhouse stretched from sunrise: and the guard,
+The Mohawk kept the east; and at the west
+Seneca, Keepers of the door, and hard
+Between, bound by the wampum belts, the rest
 
-As Keepers of the {{x|Western Door}}, and all
-Between them bound by wampum belts that told
-The story of the peace, the protocol
-Of consensus, the refusal to be bold
+Who told the peace, the protocol, the art
+Of consensus: no nation overruled,
+No war without the council's word; each part
+Must speak; the oldest way the many ruled.
 
-Without agreement--every voice must speak,
-No nation overruled, no war declared
-Without the council's sanction, the technique
-Of governance that later centuries stared
+But now the English colonies revolt
+Against their king; and, underneath the pine,
+There came the war, divided, as a jolt,
+Asking the Haudenosaunee to sign
 
-At and called democracy's first proof.
+One side. The Americans first sent men
+Who spoke of brotherhood: stay neutral, stand
+Aside; a family quarrel; and then
+The Six Nations, then, need not lend their hand
 
-                                        But now
-The English colonies had risen in revolt
-Against their king, and underneath the bough
-Of the white pine came the thunderbolt
+Between a father and his sons. But then
+The British came with muskets, blankets, guns,
+And promises, and argued, once again:
+The rebels want your land, whatever runs
 
-Of a war that split the world in two--
-And asked the Haudenosaunee to choose.
+Of brotherhood they speak; their settlers press
+The frontier, hand by hand; and, as a yoke,
+The longhouse country shrinks; the crown, no less,
+Has drawn a line; the {{x|Proclamation}} spoke
 
-The Americans came first. They sent men who
-Spoke of brotherhood and asked the crews
+In sixty-three: no settling, by decree,
+West of the {{p|Appalachians}}; choose the throne,
+The line holds; choose the rebels, and you'll see
+The settlers' flood take all of what you own
 
-Of the longhouse council for neutrality:
-Stay out, they said. This is a family quarrel,
-A war among the English--the polity
-Of the Six Nations need not risk its laurel
+Between the {{p|Mohawk Valley}} and the sweep
+Of western streams. And Thayendanegea chose:
+Joseph Brant, the Mohawk war chief, schooled deep
+In Eleazar Wheelock's halls, where those
 
-In a fight between a father and his sons.
+Of {{p|Connecticut}}'s corridors had fed
+The crown's tongue to a boy: he chose the king,
+Not from a servile love, but from what's said
+Reckoning settlers the more deadly thing
 
-But the British came with different gifts:
-With muskets, blankets, promises, and guns,
-And the argument that cut through all the rifts
+Than a far monarch's glove. To war, with Brant,
+Seneca and Cayuga went; and drew
+Onondaga's keepers toward the grant
+Of the British side; but the League cracked through:
 
-Of diplomacy: the Americans want your land.
-Whatever words of brotherhood they speak,
-Their settlers push the frontier, hand by hand,
-Into the hunting grounds--and week by week
+Both the Oneida and Tuscarora chose
+American alliance; other way:
+Of calculation: that the end of those
+Beside the victors would be spared that day.
 
-The longhouse country shrinks. The British crown
-At least has drawn a line--the {{x|Proclamation}}
-Of seventeen-sixty-three that handed down
-The law: no settlement, no confiscation
+The {{x|Great Law}}: by consensus; force on none
+Who disagreed. But could the council hold
+When half its nations fought the other one?
+Condolence broke; the rot, the war, the mold
 
-West of the {{p|Appalachians}}. Choose the king,
-And the line holds. Choose the rebels, and the flood
-Of settlers will devour everything
-Between the {{p|Mohawk Valley}} and the blood
+Of Europe's war, within, split seam from seam
+Of the longhouse. {{p|Oriskany}}'s grim day:
+Oneida fought the Mohawk in the steam
+Of August's ambush; brothers, in the fray,
 
-Of the western rivers.
+Killed brothers for the kings' and rebels' name,
+Of European quarrel, not their own;
+The Great League's children burning in the flame,
+The quarrel's pebbles crushing the old stone
 
-                       Thayendanegea chose.
+Of oldest peace. Then came the burning time:
+Washington sent his generals, his tone
+As cold as {{p|Valley Forge}}'s winter rime:
+Total destruction, devastation, known
 
-Joseph Brant--war chief of the Mohawk, bred
-In the English school of Eleazar Wheelock, those
-Corridors of {{p|Connecticut}} that fed
+By Sullivan and Clinton, as they marched
+Through the Seneca and Cayuga land:
+Scorched earth; and forty towns were burned and parched,
+The orchards cut, the corn destroyed by hand
 
-A Mohawk boy the language of the crown--
-He chose the British. Not from servile love
-Of kings, but from the calculus that a town
-Of settlers was a deadlier thing than the glove
+In granaries; the children born that fall
+Were born to famine. Not a battle, but
+A world destroyed by system: longhouse, all
+Collapsed, the cattle slaughtered, and each hut
 
-Of a distant monarch's rule. The Seneca
-And Cayuga followed Brant to war,
-And Onondaga's fire-keepers drew the day
-Toward the British side--but at the core
+In smoke, in seventy-nine. And the name
+The Seneca gave Washington, his own:
+Town Destroyer: a prophecy, the same
+Passed on to each president, and so known.
 
-The League was cracking. For the Oneida
-And Tuscarora chose the other way:
-The American alliance, the cedar
-Of a different calculation--that the fray
+The war ended; the British lost; the peace
+Was signed at {{p|Paris}}; and no word was found
+For the Haudenosaunee: no release
+Of sovereignty; the British ceded ground
 
-Would end with American victory, and those
-Who stood beside the rebels would be spared.
+Not theirs to cede, Six Nations' hunting land,
+Drawn on a foreign map, a foreign page,
+Erased them. And the Oneida, who'd stand
+Beside the rebels, bleeding at each stage,
 
-The {{x|Great Law}} said: decide by consensus. Those
-Who disagreed should not be forced. But dared
+Were cast aside as coldly; and, ere long,
+Their land shrank from six million acres to
+A fragment, by the American wrong,
+Ingratitude, that proved what Brant knew true:
 
-The council hold when half its nations fought
-Against the other half?--the covenant
-Of condolence broken, and the rot
-Of Europe's war inside the parliament
-
-Of the longhouse, splitting beam from beam.
-
-At {{p|Oriskany}} the nightmare became real:
-Oneida warriors fought Mohawk in the steam
-And blood of an August ambush--the ordeal
-
-Of brothers killing brothers in the name
-Of European kings and European rebels,
-The Great League's children burning in the flame
-Of a war that was not theirs--the pebbles
-
-Of a European quarrel that crushed the stone
-Of the oldest peace.
-
-                      Then came the burning time.
-
-Washington dispatched his generals--the tone
-Of his orders cold as {{p|Valley Forge}}'s rime:
-
-"Total destruction and devastation."
-Sullivan and Clinton marched through the land
-Of the Seneca and Cayuga nation
-With the methodical and iron hand
-
-Of a scorched-earth campaign--forty towns
-Put to the torch, the orchards cut, the corn
-Destroyed in the granaries, the gowns
-Of harvest ripped apart, the children born
-
-That autumn born to famine. Not a battle--
-A systematic destruction of a world:
-The longhouses collapsed, the starving cattle
-Slaughtered, and the smoke of centuries unfurled
-
-From every Haudenosaunee village burned
-In the autumn of seventeen-seventy-nine.
-The Seneca gave Washington a name, and turned
-The word to prophecy: Town Destroyer--the sign
-
-And title that would pass from president
-To president, from one destroyer to the next,
-Each administration's westward bent
-Fulfilling the first general's scorched pretext.
-
-The war ended. The British lost. The peace
-Was signed at {{p|Paris}}--and the Haudenosaunee
-Were not mentioned. Not one line for the release
-Of their sovereignty, not one attorney
-
-For their cause. The British ceded land
-That was not theirs to cede--the hunting grounds
-Of the Six Nations, drawn by a foreign hand
-On a foreign map within the foreign bounds
-
-Of a treaty that erased them from the page.
-
-And those who chose the American side?
-The Oneida, who had bled at every stage
-Beside the rebels?--they were cast aside
-
-With equal coldness. Within a generation
-The Oneida homeland shrank from six million
-Acres to a fragment--the American nation
-Rewarding its allies with a reptilian
-
-Ingratitude that proved what Brant had known:
-It did not matter which side the Haudenosaunee chose.
+It did not matter which side they would choose;
 The settler wanted land, and land alone,
-And neither crown nor congress would oppose
+And neither crown nor congress would refuse
+The frontier's hunger. Brant led north his own
 
-The hunger of the frontier.
+Up to {{p|Grand River}}, in the British land,
+A reservation, granted for the worth
+Of their alliance: scant proof, close at hand,
+That loyalty to crowns buys home on earth.
 
-                             Brant led his people north
-To {{p|Grand River}} in the British province,
-A reservation granted for the worth
-Of their alliance--the scant evidence
-
-That loyalty to empires buys a home.
-
-The fire at {{p|Onondaga}} dimmed but did not die.
+{{p|Onondaga}}'s fire dimmed, but did not die;
 The council yet would meet beneath the dome
-Of the longhouse sky, and the white pine's high
+Of longhouse sky; the white pine, patient, high,
+Would shelter those who keep the law at home
 
-And patient branches still would shelter those
-Who kept the wampum belts and spoke the {{x|Law}}--
-But the Great League that Deganawidah chose
-To build from the wreckage of an older war
+And speak the {{x|Law}}; but the Great League he'd made,
+Deganawidah, from an older war,
+Was broken by a newer; and the shade
+Of peace that held five nations, as before,
 
-Was broken by a newer one, and the peace
-That had held five nations in its careful ring
-Was shattered by the empires whose caprice
-Could break a continent and call it a blessing.
+Was shattered by the crowns, whose own caprice
+Could break a continent and call it blessed.
+Honor the Haudenosaunee, whose peace
+Was built before republic was impressed
 
-Honor the Haudenosaunee--who built
-A league of peace before the word republic
-Had entered Europe's lexicon, who spilt
-Their blood on both sides of a war barbaric
+In Europe's lexicon; who spilt their blood
+On both sides of a foreign, savage war,
+And learned that no alliance in the flood
+Of crowns would save the people from the store
 
-And foreign to their law--and learned too well
-That no alliance with an empire saves
-The people from the empire's clientele
 Of settlers and surveyors digging graves
+Where longhouses had stood. The fire still burns;
+The council meets; the {{x|Great Law}}, as it saves,
+In the clan mothers' memory, returns,
 
-Where longhouses had stood. The fire still burns.
-The council still convenes. The {{x|Great Law}} turns
-In the memory of the clan mothers who chose
-The chiefs--and the white pine forever grows.
+Who choose the chiefs; and the white pine still grows,
+Forever, over {{p|Onondaga}}'s flame;
+The oldest peace, though any new war blows,
+Kept by the mothers of the clan, the same.
 
 
 # Chapter 248: The Sun Reborn
