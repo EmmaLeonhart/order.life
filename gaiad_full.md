@@ -37836,200 +37836,140 @@ Upon the lake, alive in those who tell.
 
 # Chapter 240: The Four Quarters Fall
 
-From {{p|Cusco}}'s navel the four roads ran—
-North to {{p|Chinchaysuyu}}'s coastal heat,
-South to {{p|Collasuyu}}'s {{p|Altiplano}} span,
-East to {{p|Antisuyu}}'s jungle beat,
+From {{p|Cusco}}'s navel ran the four roads' span:
+And north to {{p|Chinchaysuyu}}'s coastal heat,
+South, {{p|Collasuyu}}'s {{p|Altiplano}} clan,
+East to {{p|Antisuyu}}'s green jungle beat,
 
-West to {{p|Cuntisuyu}}'s desert shore—
-And the empire of the {{c|3403|Inca}} stretched
-Along the mountain spine's volcanic core
-From {{p|Ecuador}} to {{p|Chile}}, sketched
+And west to {{p|Cuntisuyu}}'s desert shore;
+The {{c|3403|Inca}} realm stretched on the mountain's spine,
+Volcanic, from {{p|Ecuador}}; its stone core
+To {{p|Chile}}, stone and rope, one voice's line:
 
-In stone and rope and the command
-Of a single voice: the {{c|3521|Sapa Inca}},
-Son of {{c|3522|Inti}}, lord of every land
-The condor's shadow touched, the enigma
+The {{c|3521|Sapa Inca}}, {{c|3522|Inti}}'s son, divine,
+Lord of the land the condor touched; the state
+Ten million souls, without a written sign;
+The {{c|3523|Quechua}} kept their records in the weight
 
-Of a state that held ten million souls
-Without a written word.
+Of quipu's knotted cords, whose colors spoke:
+Red for war, white for silver, yellow, gold;
+And each knot's place the census, and the yoke
+Of levy: bushels in the storehouse, told,
 
-                           For the {{c|3523|Quechua}} kept
-Their records in the quipu's knotted scrolls—
-The pendant cords whose colors wept
+The soldiers for the campaign, and the days
+Of labor that each ayllu owed the state;
+The quipucamayoc read the strings, as phrase
+Is read from {{c|3401|European}} printed plate.
 
-With meaning: red for war, white for silver,
-Yellow for gold, and the position
-Of each knot upon the fiber
-Encoded the census and the requisition
-
-Of the empire's vast accounting:
-How many bushels in the storehouse lay,
-How many soldiers for the mounting
-Campaign, how many days
-
-Of labor each ayllu owed the state—
-The quipucamayoc read these strings
-As a {{c|3401|European}} read a printed plate,
-And the empire's memory clings
-
-To these knotted threads that the {{c|3512|Spaniards}} burned,
-for the knots kept the dead, and who would hold
-the dead, the friars held, was theirs: they turned
-the {{x|Andean}} past to silence; the old
+The {{c|3512|Spaniards}} burned threads where memory dwelt;
+For the knots kept the dead; and who would hold
+The dead, the friars held, was theirs; they dealt
+The {{x|Andean}} past to silence; the old
 
 Ten thousand years of record to the flame.
+Before the flame, the roads: the {{c|3403|Inca}}'s way
+Ran forty thousand kilometers' frame,
+Of chasqui runners, relay, day by day,
 
-But before the fire—the roads.
-The {{c|3403|Inca}} highway system's frame
-Ran forty thousand kilometers, and the loads
+{{p|Quito}} to {{p|Santiago}}'s latitude:
+Fresh fish from coast, still new, two days to reach
+The {{c|3521|Sapa Inca}} at his altitude
+Of mountains; and the bridges, each by each,
 
-Of the chasqui relay-runners flew
-From {{p|Quito}} south to {{p|Santiago}}'s latitude—
-Fresh fish from the coast, still new,
-Reached the {{c|3521|Sapa Inca}}'s table at altitude
+Of rope, swayed over gorges, through the clouds.
+The terraces, carved in the mountainside
+Like stairways for the gods; and in their crowds
+The crops climbed up the altitudes, applied:
 
-In two days flat, a postal speed
-That {{p|Europe}} would not match for centuries—
-And the suspension bridges spanned the greed
-Of the chasms with their rope-weave entries
+Maize low, and quinoa in the middle,
+Potatoes on the top; and, high up there,
+The height was solved as one solves a riddle;
+And chuño, freeze-dried in the mountain air,
 
-Swaying above the clouds.
+Pressed by the peasant's foot, the first of food
+Made to be stored, for decades, in the state's
+Warehouses, kept against the famine's mood;
+So that the {{c|3403|Inca}} hunger's yearly rates
 
-                              The terraces—
-Carved into the {{x|Andean}} mountainside
-Like stairways for the gods, the surfaces
-Of engineered soil where the diversified
+Were lowest in the land. {{c|3321|Pachacuti}},
+The {{c|3524|Earth-Shaker}}, ninth {{c|3521|Sapa Inca}}, built
+This wonder, turning, as a king's duty,
+Small {{p|Cusco}} to a realm; and, with the tilt
 
-And altitude-adapted crops ascended:
-Maize at the bottom, quinoa in the middle,
-Potatoes at the top—the blended
-Agriculture solved the riddle
+Of stone, remade the capital; and raised
+{{p|Machu Picchu}} on granite clouds; the throne
+Of {{c|3403|Inca}} with the sun, the sun-god praised,
+Made one. Then came the war of brothers: grown,
 
-Of the vertical ecology, and the freeze-
-Dried chuño, the potato left to lie
-In the mountain frost and the squeeze
-Of the peasant's foot beneath the sky,
+{{c|3525|Huáscar}} in the south, {{c|3526|Atahualpa}} north;
+The realm was smothered in its civil war;
+The cruel timing: thirty-two brought forth
+{{c|3527|Pizarro}}'s {{c|3516|Spanish}} column, greed before,
 
-Was the world's first processed food,
-Stored for decades in the state's
-Warehouses against the solitude
-Of the famine year—the {{c|3403|Inca}}'s rates
+{{p|Cajamarca}}: a hundred sixty-eight
+Against eighty thousand, it came to pass:
+For {{c|3526|Atahualpa}} walked in, there, in state,
+Unarmed, on golden litter, through the mass
 
-Of hunger were the lowest in the {{p|Americas}}.
+Of crowd; and the friar {{c|3528|Valverde}}'s word
+Of faith, the {{x|Bible}}, the demand to yield,
+Was offered; to his ear he held it, heard
+Nothing, and cast it down; and so was sealed
 
-And {{c|3321|Pachacuti}}—"{{c|3524|Earth-Shaker}}"—built
-This wonder: ninth {{c|3521|Sapa Inca}}, whose areas
-Of conquest and reform had tilted
+The made-up insult: and {{c|3527|Pizarro}} gave
+The signal; cannon roared; the horse broke through
+The panicked crowd; and there was none to save
+The unarmed: seven thousand dead; and, too,
 
-The small {{p|Cusco}} kingdom to an empire,
-Who redesigned the capital in stone,
-Who raised {{p|Machu Picchu}} on its pyre
-Of granite clouds, who made the throne
+In thirty minutes; {{c|3526|Atahualpa}}, dragged
+From his fallen litter, and his world's walls
+Collapsing inward, as a temple, sagged
+Beneath its dome. The ransom room: his halls
 
-Of the {{c|3403|Inca}} synonymous with the sun itself.
+He filled with gold as high as man could reach,
+And twice with silver: twenty-four tons' weight
+Of sun-metal, the masterworks; and each
+The labor of a thousand hands; their fate:
 
-Then the war between the brothers—
-{{c|3525|Huáscar}} in the south and {{c|3526|Atahualpa}}'s stealth
-In the north—and the empire smothers
+{{c|3527|Pizarro}} melted them, destroyed the plans
+And genealogies of gold, for bars
+Of bullion; then he killed the king; the clan's
+Hope, garroted where {{p|Cajamarca}}'s stars
 
-Itself in civil war, and the timing
-Is the cruelest accident of history:
-For in fifteen-thirty-two, the climbing
-{{c|3516|Spanish}} column under {{c|3527|Pizarro}}'s ministry
+Shone on the plaza; {{c|3526|Atahualpa}} chose
+Baptism's hardness over flame; the line
+Since {{c|3529|Manco Cápac}} first emerged from those
+Caves of {{p|Pacaritambo}}, cut, its spine.
 
-Of greed arrives at {{p|Cajamarca}}'s plain.
+The roads fell silent. Tambo and the store
+Were emptied; and the quipu, by the priests,
+Were burned in heaps; and so, forevermore,
+The terraces went fallow; at their feasts,
 
-One hundred and sixty-eight men.
-Against an army of eighty thousand—the refrain
-Of the impossible that happened when
+The lords fed on {{x|Andean}} silver, bone;
+The {{c|3530|mita}}, once communal, freely owed,
+Became the brutal draft, the forced, the known
+Labor in {{p|Potosí}}'s mines, from which flowed
 
-{{c|3526|Atahualpa}} walked into the plaza
-Unarmed, borne upon his golden litter,
-And the friar {{c|3528|Valverde}}'s stanza
-Of the faith—the {{x|Bible}}, the bitter
+The silver of {{p|Seville}}'s cathedrals; eight
+Million died. Honor the four quarters' name,
+{{p|Tawantinsuyu}}, the knotted cord's state,
+The road through cloud and dew, the terrace, frame
 
-Requirement to submit—was offered
-To the {{c|3521|Sapa Inca}}, who held the book
-Against his ear and, hearing nothing proffered,
-Cast it to the ground—and that mistook
+Of storehouse, and the lord of sun, whose gold
+Could not buy life from those who worshipped it;
+The engineering, patient, broken, bold,
+When strangers came with horses and false writ;
 
-And manufactured insult was enough:
-{{c|3527|Pizarro}} gave the signal and the cannon roared,
-The cavalry charged through the rough
-And panicked crowd, and the sword
+The quipu's language died in flame; the cries
+Of the last {{c|3521|Sapa Inca}} swallowed by
+The conqueror; the terraces still rise;
+The roads remain; potato climbs the high
 
-Found nothing but unarmed flesh—
-Seven thousand dead in thirty minutes,
-And {{c|3526|Atahualpa}} dragged from the mesh
-Of his fallen litter, the limits
-
-Of the world he knew collapsing inward
-Like a temple crushed beneath its dome.
-
-The ransom room—{{c|3526|Atahualpa}} in word
-And deed filled a chamber of his home
-
-With gold to the height a man could reach,
-And twice again with silver—twenty-four
-Tons of the sun-metal, each
-Piece a masterwork that bore
-
-The labor of a thousand artisans—
-And {{c|3527|Pizarro}} melted every piece,
-Destroyed the {{c|3403|Inca}}'s golden plans
-And genealogies for the caprice
-
-Of bullion bars—then killed the king regardless.
-
-Garroted in the plaza of {{p|Cajamarca}},
-{{c|3526|Atahualpa}} chose baptism's hardness
-Over the fire—and the {{c|3521|Sapa Inca}}'s arc, a
-
-Line unbroken since {{c|3529|Manco Cápac}}
-Emerged from the origin-cave of {{p|Pacaritambo}},
-Was severed at the neck.
-
-                              The {{c|3403|Inca}} track
-Of roads fell silent. The tambo
-
-And the storehouse emptied. The quipu
-Were gathered into bonfires by the priests.
-The terraces went fallow where the new
-Colonial masters held their feasts
-
-On {{x|Andean}} silver and {{x|Andean}} bone—
-And the {{c|3530|mita}} labor, once the communal
-Obligation freely sown,
-Became the brutal, the annual
-
-Draft of forced labor in the mines
-Of {{p|Potosí}}, where eight million died
-Extracting the silver that lines
-The cathedrals of {{p|Seville}}'s pride.
-
-Honor the four quarters—{{p|Tawantinsuyu}},
-The empire of the knotted cord,
-The road that ran through cloud and dew,
-The terrace and the storehouse and the lord
-
-Of the sun whose ransom room of gold
-Could not buy his life from men
-Whose god was gold itself—the bold
-And patient engineering broken when
-
-The strangers came with horses and with lies,
-And the quipu's language died in flame,
-And the {{c|3521|Sapa Inca}}'s final cries
-Were swallowed by the conqueror's claim—
-
-But the terraces remain. The roads remain.
-The potato and the quinoa still ascend
-The mountainside, and the {{x|Andean}} rain
-Still waters what no conquest could rescind:
-
-The knowledge of the soil, the skill of the hand,
-The memory that outlasts the sword's demand.
+Mountainside with quinoa; and the rain
+Of {{x|Andean}} sky waters what no sword
+Could take: the knowledge of the soil, the grain,
+The memory outlives the foreign lord.
 
 
 # Chapter 241: The Northern Fires
