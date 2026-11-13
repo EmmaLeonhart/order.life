@@ -1,66 +1,101 @@
 # Chapter 306: Who Names the Good
 
-In July of 1887, at {{p|Sils Maria}}, in the {{p|Upper Engadine}},
-{{c|4264|Friedrich Nietzsche}} wrote a polemic, and dated the preface there;
-Between the tenth and the thirtieth, he said, the thing was done, and seen
-Through to the press. On the seventeenth the manuscript went off with care
+In July, eighteen eighty-seven, high
+In the {{p|Upper Engadine}}'s thin air,
+At {{p|Sils Maria}}, {{c|4264|Friedrich Nietzsche}}, by
+Month's end, wrote a polemic, dated there;
 
-To {{p|Leipzig}}, to {{c|4265|Constantin Georg Naumann}}, who the year before had printed, at the author's cost,
-*{{x|Beyond Good and Evil}}*. Print this one the same, he asked: the same type, the same paper and page,
-So the new book would stand as the old one's continuation; and, lest the point be lost,
-The back of the title says it: added, to supplement and clarify. Six hundred copies. The stage
+The seventeenth, the manuscript was sent
+Off to {{p|Leipzig}}, {{c|4265|Constantin Naumann}}, who,
+The year before, the author's money spent,
+Had printed *{{x|Beyond Good and Evil}}*, too;
 
-Of the proofs was {{p|Venice}}, with {{c|4266|Heinrich Köselitz}}; and he was in {{p|Nice}} when the first came,
-In the first half of November: three essays and a preface. The preface opens on a confession:
-We are unknown to ourselves, we knowers. And the question under it is the same
-As this calendar's, in another mouth: under what conditions, in what succession,
+Print this the same, he asked: same type, same press,
+The paper, that the new go on from old;
+The title's back: to clarify, no less;
+Six hundred copies; proofs, in {{p|Venice}} rolled
 
-Did we invent good and evil, and what are they worth? He answered a friend as well as a school:
-{{c|4267|Paul Rée}} had derived the moral feelings from usefulness, the good as what helped the one who received;
-{{c|2185|Nietzsche}} wanted a different history, and he wanted it to cut. The first essay is the tool:
-Two namings side by side. Good and bad: the nobles, he says, believed
+With {{c|4266|Heinrich Köselitz}}; and he, in {{p|Nice}},
+Got the first copy in November: three
+Essays, a preface. As a first release,
+The preface opens: knowers, unknown, we
 
-Themselves the good, and named themselves so, and named the others plain, low, bad.
-Good and evil is a second naming, where the powerful are evil and the powerless good;
-He calls it a revolt of slaves, and names the {{c|2500|Jews}} as those who had
-Begun it: his sentence, not a finding; a people put where a history should.
+Are to ourselves. And under it, the same
+Question as this calendar's: in what way
+Did we invent good, evil, and their name;
+What are they worth? He answered, on the way,
 
-He offers histories of words along the way: one makes the {{x|Latin}} for bad mean dark;{{fn|That etymology, of Latin malus from a Greek word for black, is not accepted.}}
-The {{x|German}} in the second essay holds: {{x|Schuld}} is guilt, and {{x|Schuld}} is a debt.
-A thing owed to conscience began as a sum owed; and the bad conscience bears the mark
-Of cruelty with no street left to spend itself in, turned inward, where the net
+A friend, a school as well: {{c|4267|Paul Rée}} had laid
+The moral feelings to their use, the good
+As what had helped the one who got its aid;
+{{c|2185|Nietzsche}} would cut it otherwise, and could:
 
-Closes on the one who may no longer be cruel outside. He calls the noble a beast,
-A blond beast of prey. The third essay asks what the ascetic ideals mean:
-The priest, the philosopher, the man of science, each serving at the feast
-Of a will to truth, the old will in a later coat; and the book ends on the keen
+The first essay, two namings, side by side:
+Good and bad: nobles named themselves the good,
+The others plain, low, bad. And then, applied,
+A second: good and evil, where there stood
 
-Preference he finds in us: a person would rather will nothing than not will.
-Keep what is usable, and most of it is: a value has a history. Good
-Was not in the world the way a stone is. Someone said it, of someone, and still
-It spread, until the speakers forgot they had said it. That is a method that stood,
+The strong named evil, and the weak named right;
+He calls it a revolt of slaves; begun,
+He says, among the {{c|2500|Jews}}. And, in his sight,
+He gives words' histories: the {{x|Latin}} one{{fn|That etymology, of Latin malus from a Greek word for black, is not accepted.}}
 
-And this scripture keeps it: this scripture is a genealogy too.
-The days are kept because the dead are how the living came,
-And every name on a day came from somewhere, from someone who knew
-Whom they were calling good, and why, and gave the good its name.
+For bad means dark; the {{x|German}} in the next:
+{{x|Schuld}} guilt, {{x|Schuld}} debt: what conscience owes was first
+A sum once owed; the bad conscience, the vexed
+Cruelty, with no street, turned in, reversed,
 
-And the masters have a point. The nobles who named themselves the good were not only a mirror:
-To name yourself, your house, your line, and make it stick, is a real power, and a worth;
-It is what every founding does; it is what this faith does, when it says, clearer
-Than a council, this is good, this day, this line, this way of life on earth.
+On one who can't be cruel out the door;
+He calls the noble a blond beast of prey.
+The third: ascetic ideals, and what for:
+Priest, sage, and scientist: each one, a way
 
-Noble self-naming is the founding act, and the dead who founded are honored for it.
-But the good is not only theirs: the line runs through the named and the unnamed, the great
-And the small, the ones who won and the ones who lost; and the polemic, to be fit
-For this book, is read as a history of the naming, not as a gate
+To serve the will to truth, the old will, dressed
+In later coats; the book ends where it said:
+We'd rather will the nothing than, at rest,
+Not will. Keep what is usable; widespread,
 
-Shut on a people. So keep the question he succeeded in asking: who names the good?
-The answer this calendar gives is the line: the founders who named it, and the heirs who keep the name,
-And everyone who lived, since every one of them, as a living thing, understood
-Some good, and said it. That is the genealogy. The masters lit it; the line carries the flame.
+Most of it is: a value has a past;
+Good was not in the world as stones are; one
+Said it, of someone, and it spread, held fast,
+Till speakers had forgot they'd said it; done:
 
-Six hundred copies left {{p|Leipzig}}; two months on, about two hundred had been asked for, all told.
-The question outlived the slow sale. Ask where a good came from, and what it is worth to say it still;
-And name your good, as the nobles did, and keep it, as the line has kept it, old
-And new at once: the naming counted, the founders honored, and the good kept by will.
+A method that has stood; and, in its way,
+This book is a genealogy too:
+The dead are how the living came; each day
+Keeps names that came from someone who knew who
+
+Was called the good, and why, and gave the name.
+The masters have a point: the nobles who
+Named themselves good were not a mirror's frame:
+To name yourself, your house, your line, and do
+
+It so it sticks, is power, and is worth;
+It is what founding does, what this faith does,
+Clearer than council: good, this way on earth,
+This day, this line. The self-naming that was
+
+The founding act; the founders' dead, so crowned,
+Are honored for it. But the good's not theirs
+Alone: named and unnamed, the line runs round
+The great, the small, the won, the lost, the heirs.
+
+This book reads the polemic as a tale
+Of naming; keep the question that he could
+Ask, and that lasts: who names it? Answer's trail:
+The line: the founders, heirs who keep the good,
+
+And everyone who lived, since each, alive,
+Knew some good, said it. And the masters' flame
+Lit it; the line has carried it to thrive;
+That is the genealogy, its name.
+
+Six hundred copies left {{p|Leipzig}}; and then,
+Two months on, some two hundred had been sold;
+The question outlived the slow sale. Again,
+Ask where a good came from, its worth; and, old
+
+And new at once: name your good, as the high
+Nobles did; keep it, as the line has kept;
+The naming counted, founders honored, by
+The will that keeps the good, that never slept.
