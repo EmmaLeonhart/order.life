@@ -999,80 +999,70 @@ Of terror round: grape, fog, frost; the year, framed.
 
 # Chapter 293: The Festival of the Supreme Being
 
-{{c|4054|Rousseau}} had written, in *The {{x|Social Contract}}*, in 1762,
-That a republic needs a civil religion: a few plain articles of faith,
-A God, a life to come, the reward of the just, the punishment due
-To the wicked, the sanctity of the laws; and that the wraith
+{{c|4054|Rousseau}}'s sixty-two *{{x|Social Contract}}* said:
+A civil faith, plain articles, a creed:
+A God, a life to come, the just ones fed,
+The wicked punished, holy laws decreed;
 
-Of a citizen who will not believe them may be banished; and the one who believes
-And then acts against them, punished by death. Hold that sentence.
-Thirty years later the {{x|Revolution}} read it. In 1793 the eves
-Of the old faith were torn down: the churches closed, the repentance
+Who would not hold it, banished; who believed
+And broke it, death; the {{x|Revolution}}, led,
+It, thirty years on; churches, closed, received
+The priests' repentance; bells to cannon, fed
 
-Of the priests demanded, the bells melted for cannon, the saints' names
-Taken from the streets. The radicals made a {{c|4124|Cult of Reason}}:
-In {{p|Notre-Dame}}, renamed the {{p|Temple of Reason}}, in November, the flames
-Of the new altar lit, an actress robed as {{c|4125|Liberty}}, the season
+In ninety-three; the saints' names off the streets;
+A {{c|4124|Cult of Reason}}; {{p|Notre-Dame}}, renamed
+{{p|Temple of Reason}}; altar, fire, and seats
+Of {{c|4125|Liberty}}: an actress robed, and famed,
 
-Of a goddess of the mind enthroned where the {{c|3936|Virgin}} had been.
-And {{c|4122|Robespierre}}, the incorruptible, the lawyer from {{p|Arras}},
-The master of the {{x|Committee of Public Safety}}, hated it: the obscene
-Mockery of atheism, he thought, would make the people crass
+Enthroned where once the {{c|3936|Virgin}} sat; and he,
+{{c|4122|Robespierre}}, the incorruptible, foresaw
+The godless mockery would make the free
+Republic crass; the people need, by law,
 
-And the {{x|Republic}} godless; the people need a God and the soul's immortality.
-So in May 1794, by decree, the {{x|Convention}} recognized
-The {{c|4126|Supreme Being}} and the immortality of the soul. A morality
-Of state: the people's rite. A feast, devised:
+A God, the soul's immortal; ninety-four,
+In May, decreed, the {{x|Convention}}: there's one
+{{c|4126|Supreme Being}}, the soul immortal; more,
+Free worship, kept; a festival, the one
 
-On the twentieth of *{{x|Prairial}}*, the eighth of June, which was also {{x|Pentecost}},
-The painter {{c|4127|Jacques-Louis David}} staged it: half a million people, the roses,
-The children with flowers, the mothers, the old men, the host
-Of the citizens in procession across {{p|Paris}} to the {{p|Champ de Mars}}, where, he supposes,
+On June's eighth, {{x|Prairial}}, {{x|Pentecost}}'s day,
+{{c|4127|Jacques-Louis David}} staged it; roses, crowds;
+Children with flowers, mothers, old men's way
+Across {{p|Paris}} to {{p|Champ de Mars}}, like clouds;
 
-An artificial mountain had been built, with a tree of liberty on top.
-And {{c|4122|Robespierre}}, president of the {{x|Convention}} for that day,
-Walked out ahead of the other deputies, with a bouquet, and the shop
-Of the ritual was his: he set fire to a statue of {{c|4128|Atheism}}, made, they say,
+An artificial mountain, and a tree
+Of liberty on top; and {{c|4122|Robespierre}},
+The {{x|Convention}}'s president, walked out, free,
+Ahead, bouquet in hand; and set, with flare,
 
-Of cardboard and wax, and as it burned, a statue of {{c|4129|Wisdom}}
-Was meant to rise out of it, pure. It rose blackened with smoke.
-Hold that image. The deputies behind him, in the wisdom
-Of fear, muttered: look at him; it is not enough to be master; the yoke
+Fire to {{c|4128|Atheism}}, of cardboard, wax;
+And from it {{c|4129|Wisdom}} rose, though blackened, smoked:
+Hold that; the deputies behind; the axe
+Of fear, muttered, "Master, and God"; and joked;
 
-Of being God as well. Two days later, the tenth of June,
-He brought the law of the twenty-second of *{{x|Prairial}}*: the accused
-Would have no lawyer, no witnesses needed, the verdict soon,
-Death or acquittal, nothing between. The courts were used
+Two days, and the {{x|Prairial}} law: no aid,
+No witnesses; death or acquittal; weeks
+In {{p|Paris}}, more were guillotined; afraid,
+The {{x|Great Terror}}; and {{x|Thermidor}}'s ninth speaks:
 
-As a machine. In the seven weeks that followed, in {{p|Paris}} alone,
-More were guillotined than in the whole year before. The {{x|Great Terror}}.
-The god of the festival, the god of the soul, the stone
-Of the blade: one hand. The god, no error.
+The {{x|Convention}} shouted him down; and, shot
+In the jaw; next day, guillotined, as one
+{{p|Paris}}'s sky, with twenty-one; and not
+The faith undone; read it once more, the sun:
 
-On the ninth of *{{x|Thermidor}}*, the twenty-seventh of July,
-The {{x|Convention}} turned on him, and shouted him down, and he was taken,
-And shot in the jaw, by his own hand or a gendarme's, and the next day, the sky
-Of {{p|Paris}} over him, guillotined, with twenty-one of his men. Forsaken,
+In {{p|France}} a God was still default; the wrong:
+The {{c|4124|Cult of Reason}}, war on the altar;
+He turned back to a God, a soul, the song
+Of worship freed; no void; did not falter;
 
-The {{c|4126|Supreme Being}} faded within months. But read it once more:
-In a {{p|France}} where a God was still the default, the transgression
-Was the {{c|4124|Cult of Reason}}, the war on the altar and the door
-Of the church; and he turned back from it: a God, a soul, and the profession
+A step back toward the faith the bells had rung:
+{{c|4130|Theophilanthropists}}, in empty naves,
+A deist rite, a hymn to Maker sung;
+{{c|4066|Napoleon}}'s peace with the {{c|2825|Pope}}; the waves
 
-Of the freedom of worship, kept in the same decree. Not the void,
-Then, but a step back toward the faith the bells had rung:
-Under the {{x|Directory}} the {{c|4130|Theophilanthropists}} enjoyed
-The empty naves for a deist rite, a hymn to the Maker sung;
-
-And {{c|4066|Napoleon}}, in 1801, closed their rite and made his peace with the {{c|2825|Pope}}:
-Not a God put in the place of a failure, but the last stage of a road
-From {{c|4131|Reason}} to the {{c|4126|Supreme Being}} to the {{x|Concordat}}, a slope
-That the festival set out on, back to the altar the {{x|Revolution}} had overthrown.
-
-And read now, it reads otherwise: a choice to believe in the divine,
-A deist's God, which a person may hold, or leave unheld, as they need,
-Not the dogma of a nation but a door, the way a God is taken now, or declined;
-What was cruel in it was never the belief, but the power behind the creed.
+From {{c|4131|Reason}}, {{c|4126|Supreme Being}}, {{x|Concordat}}:
+Back to the altar overthrown; and now
+Read now, it reads: a choice; the divine, that
+A person holds; a door, the state's own vow.
 
 The {{c|4126|Supreme Being}} was not void. A state
 Had kept a God, as {{c|4054|Rousseau}} said it must;
@@ -1090,7 +1080,7 @@ Against the atheists of his own side;
 Took the {{x|Church}} and made it his. At his side,
 
 When the crown came from the {{c|2825|Pope}}'s hands, a ghost:
-The incorruptible, behind the throne.
+The incorruptible one, behind the throne.
 This faith, too, means to be a state's, and most
 Of all, to keep its days as the state's own.
 
