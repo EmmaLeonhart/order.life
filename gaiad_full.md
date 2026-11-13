@@ -30120,357 +30120,115 @@ Kept its own law, and lived by what they speak.
 
 # Chapter 167: The Babylonian Exile and the Birth of Monotheism
 
-The previous chapter told the story of the {{p|Babylonian}} exile as
-Political and cultural catastrophe. This chapter tells it as
-Theological crucible. Because what emerged from the exile was
-Something new in the religious imagination of humanity: genuine,
+In {{p|Babylon}} the house of {{c|2019|Jacob}} dwelt,
+Far from its land; and there its word grew new:
+For once they'd said their {{c|472|God}} was great, and knelt
+To him alone, though other gods were true;
 
-Full-throated monotheism.
+Who is like you among the gods? they'd sung,
+And had no other gods before his face;
+But in the exile, from the prophet's tongue,
+There came a word that gave no others place:
 
-                            To understand this, we must be
-Careful about terms. The {{x|Gaiad}} has argued, in earlier chapters,
-That true monotheism is historically rare—rarer than popular
+I am the first, I am the last; there's none
+Beside me; and the idols are but gold
+And silver, hands' work, mouths that speak to none,
+And eyes that do not see; they are not old,
 
-Accounts suggest. The {{x|Bronze Age}} world was populated by
-Polytheisms. The {{x|Axial Age}} produced dualisms ({{p|Zoroastrianism}}),
-Monisms ({{p|Upanishadic}} philosophy), and various forms of divine
-Hierarchy. True monotheism—the claim that there is only one god,
+Not gods at all. And so {{c|472|God}} was the one
+Of all the nations, though they did not know;
+And all of history beneath the sun
+Was his, and all the world's right, high and low.
 
-That no other gods exist even as subordinate or defeated beings—
-Is distinctive. And the claim that emerged from {{p|Babylonian}}-exile
-{{p|Judaism}} is specifically this: not merely that {{c|2182|Yahweh}} is the
-Greatest god, nor that {{c|2182|Yahweh}} is the only god worth worshipping,
+For gods then had their lands; and to be borne
+Away from home was leaving one's god there;
+And so the exiles chose: had {{c|2021|Marduk}} torn
+Them from their {{c|472|God}}? Or was he everywhere,
 
-But that {{c|2182|Yahweh}} is literally the only god—that all other "gods"
-Are delusions, wood and stone, nothing. This is a radical claim.
-It is not present in the earliest layers of the {{p|Hebrew Bible}}.
-It emerges in the later layers, especially during and after the
+In {{p|Babylon}} as much as {{p|Zion}} too?
+And they said: everywhere. And {{c|2021|Marduk}}'s shrine,
+And {{c|2275|Nabu}}'s, {{c|1976|Ishtar}}'s, all the gods they knew,
+Were wood and stone, the work of hands, no sign.
 
-Exile. Consider the evidence. Early biblical texts speak of {{c|2182|Yahweh}}
-As greater than other gods, as chief among them, as jealous of
-{{p|Israelite}} loyalty, but they acknowledge that other gods exist.
-"Who is like you, O {{c|2182|Yahweh}}, among the gods?" asks {{p|Exodus}} 15:11.
+And some went over, as the exiled do;
+But those who stayed said why: the gods are naught.
+And from {{p|Iran}}, the {{c|2167|Wise Lord}}'s word came through,
+One maker, and a judgment, and they caught
 
-This is henotheism: the worship of one god while acknowledging
-Others. The first commandment itself—"You shall have no other
-Gods before me"—presupposes that there are other gods; the
-Command is exclusivity of worship, not denial of existence. Early
+That word, and it was theirs, and back again;
+And with the temple gone, the priests dispersed,
+They gathered up their law, their tales, and then
+The prophets' words, and wrote them down, and versed
 
-Prophetic and historical texts in the {{p|Hebrew Bible}} operate
-Within this henotheistic framework. But the great prophets of
-The exile period—especially {{p|Second Isaiah}} (the anonymous prophet
-Whose oracles are preserved in chapters forty through fifty-five
-
-Of the {{p|Book of Isaiah}}, composed during the {{p|Babylonian}} exile)—
-Move beyond henotheism to explicit monotheism. "I am {{c|2182|Yahweh}},
-And there is no other; besides me there is no god" ({{p|Isaiah}} 45:5).
-"I am the first and I am the last; besides me there is no god"
-
-({{p|Isaiah}} 44:6). "The idols of the nations are silver and gold,
-The work of human hands; they have mouths, but do not speak; they
-Have eyes, but do not see" ({{p|Psalm}} 115:4-5). This is not henotheism.
-This is a new claim: that only {{c|2182|Yahweh}} is real, that other gods
-
-Are illusions, that worship of them is folly. The theological
-Stakes of this claim are enormous. If only {{c|2182|Yahweh}} is real, then
-{{c|2182|Yahweh}} is not only {{p|Israel}}'s god but the god of all nations
-(Even if they do not know it). If only {{c|2182|Yahweh}} is real, then
-
-{{c|2182|Yahweh}} controls history universally, not just {{p|Israel}}'s portion.
-If only {{c|2182|Yahweh}} is real, then the cosmic moral structure applies
-To all humanity. And if only {{c|2182|Yahweh}} is real, then the religious
-Diversity of the nations is not a competition among different
-
-Deities but a universal confusion about the one true god. The
-Missional implications of this theology are profound—universal
-Monotheism tends toward universal religion. But the first
-Articulation of this monotheism was defensive, not missionary.
-
-It emerged as the {{p|Judahite}} response to crushing defeat.
-
-                                                                How
-Did the exile produce this theological leap? The {{x|Gaiad}} proposes
-Several interacting factors. First, the experience of exile itself.
-
-Ancient religions were typically territorial: each god had a land,
-A people, a specific place of dwelling. To be deported from your
-Land was typically to be separated from your god. If {{c|2182|Yahweh}} was
-A territorial god of {{p|Judah}}, then the exiles in {{p|Babylon}} had
-
-Left him behind. The exilic community had to choose: either
-{{c|2182|Yahweh}} had been defeated by {{c|2021|Marduk}} (and therefore abandoned them),
-Or {{c|2182|Yahweh}} had power extending beyond {{p|Judah}}. They chose the
-Second option. They developed the theology that {{c|2182|Yahweh}} was
-
-Everywhere—in {{p|Babylon}} as in {{p|Jerusalem}}, in {{p|Ur}} as in {{p|Bethel}}.
-This is deterritorialization, and it is a major theological
-Development. Once you claim that your god is not tied to a
-Specific land, you are already moving toward universalism. Second,
-
-The experience of living in the heart of {{p|Babylonian}} religion
-Forced confrontation with the question of divine power. The
-{{p|Babylonians}} worshipped {{c|2021|Marduk}}, {{c|2275|Nabu}}, {{c|1976|Ishtar}}, and other deities
-With massive institutional structures—temples, priesthoods,
-
-Festivals, elaborate cosmogonies. The exiles saw {{p|Babylonian}}
-Religion up close, in all its grandeur. They could have assimilated.
-They could have decided their god was inferior to {{c|2021|Marduk}} and
-Converted. Some probably did—the silent drift of assimilation
-
-Is a normal feature of exile populations. But those who remained
-{{p|Judean}} had to articulate why they should. And the most powerful
-Articulation turned out to be: the {{p|Babylonian}} gods are illusions,
-Stone and wood, incapable of the real power that only {{c|2182|Yahweh}}
-
-Possesses. This denigration of rival gods sharpened into
-Metaphysical denial of their existence. Not merely inferior, but
-Unreal. Third, the {{p|Zoroastrian}} influence. The {{x|Gaiad}} has already
-Discussed how {{p|Zoroastrianism}}'s theological categories influenced
-
-{{p|Jewish}} thinking during this period. The concept of cosmic moral
-Dualism, of a supreme good creator, of a final judgment—these
-{{p|Persian}} ideas entered {{p|Jewish}} thought in the sixth and fifth
-Centuries BCE. And the {{p|Persian}} conception of {{c|2166|Ahura Mazda}} as the
-
-Universal creator was, despite {{p|Zoroastrian}} dualism, closer to
-Monotheism than was {{p|Babylonian}} polytheism. The exilic {{p|Jews}}
-Were influenced, absorbing and transforming {{p|Persian}} theological
-Ideas. The relationship between {{p|Zoroastrianism}} and emerging
-
-{{p|Jewish}} monotheism is complex—probably mutual influence rather
-Than one-way transmission—but there is no doubt the two traditions
-Cross-pollinated during the exile and post-exile period. Fourth,
-The editorial project of the exile. With the temple destroyed,
-
-The monarchy ended, and the priesthood dispersed, {{p|Judean}} religion
-Had to find new institutional forms to survive. One of those
-Forms was scripture. The exilic and post-exilic scholars undertook
-A massive project of compiling, editing, and canonizing the sacred
-
-Texts of {{p|Israel}}. Different written and oral traditions were
-Combined. Inconsistencies were smoothed (though often incompletely).
-Theological positions were articulated. The {{p|Pentateuch}}—the first
-Five books of the {{p|Hebrew Bible}}—took shape in something close to
-
-Its final form during this period. And the editors, influenced
-By the monotheizing tendency of the prophets, conformed earlier
-Material to the new theological framework wherever they could.
-The result is a biblical text that shows traces of earlier
-
-Henotheism alongside later monotheism, creating a document of
-Genuine theological evolution. You can see the seams, if you know
-Where to look. But the overall direction is toward ever-sharper
-Monotheistic formulation. And fifth, the rise of the synagogue.
-
-With the temple destroyed, {{p|Jewish}} religious life had to be
-Organized around something else. The synagogue—the gathering
-Place where scripture was read, prayers were said, and community
-Was maintained—probably originated during the {{p|Babylonian}} exile.
-
-It was not a temple. It did not have sacrifices. It did not require
-A priest (though scribes and teachers played leading roles). It
-Could be established anywhere there was a minimally sized {{p|Jewish}}
-Community. This institutional innovation democratized {{p|Jewish}}
-
-Religious life and made it portable. Diasporic {{p|Jews}} could maintain
-Their faith wherever they were. And the theological content of
-Synagogue worship—the recitation of {{p|Torah}}, the prayers addressing
-{{c|2182|Yahweh}} as universal creator—reinforced the monotheistic framework.
-
-Take these factors together, and you have the conditions for the
-Birth of monotheism: deterritorialization, confrontation with rival
-Deities in their own heartland, {{p|Persian}} theological influence,
-Scriptural canonization, and institutional innovation. All these
-
-Factors converged during the sixth century BCE to produce, from
-What had been the henotheistic religion of a small {{p|Near Eastern}}
-Kingdom, the first fully monotheistic religion in recorded human
-History. And this monotheism, once born, would prove to be one
-
-Of the most consequential theological innovations ever made. It
-Would, over the next thousand years, reshape the religious
-Landscape of the entire {{p|Mediterranean}} and {{p|Near Eastern}} worlds.
-Through its {{p|Christian}} and {{p|Islamic}} extensions, it would reshape
-
-The religious landscape of most of the planet.
+Them all in one, to keep them as they went;
+And where ten men could meet, they'd meet to read,
+To pray, though there no altar's smoke was sent,
+And so the house could live in any need.
 
 Now, where the poem stands: it will not weigh
-The one god and the many, as if they
-Were rival faiths. It does not grant the claim
-That one name or a hundred change the same
+The one god and the many, nor the claim
+Of rival faiths, as if they were; for they
+Are one: a hundred names don't change the same
+
 Offering: bread and cup and honoured dead.
-And what the prophet of the exile said,
-That all the nations' worship is one rite
-Confused about one god, this poem might
-Have said itself, and keeps that word its own.
-The later wars were fought for land and throne
-And altar: who would hold the rite alone.
-{{p|Christian}} kingdoms, {{p|Islamic}} rule, the line
-Of {{p|Protestant}} mission: one house, one shrine,
-And its own heirs at war for its one door.
-The exiles did not make their word for war.
-They made it to hold on when others' hands
-Held the great altar and the people's lands:
-The rite would not be fragile as the crown
-That fell with {{p|Jerusalem}}'s walls brought down.
-The poem honours that as courage shown
-Inside our house, the house the exiles own.
+The prophet said all worship is one rite
+Confused about one god; what he has said
+The poem keeps as its own word, by right.
 
-And consider who took the
-Lead in this theological transformation. The exilic and post-exilic
-Period produced some of the most remarkable religious personalities
-In world history. {{c|2272|Ezekiel}}, the priest-prophet, who saw visions of
-{{c|2182|Yahweh}}'s glory in {{p|Babylon}} itself, confirming that {{c|2182|Yahweh}} was
+The wars were fought for land, and for the crown,
+And altar: who would hold the rite, and where;
+One house, one shrine, its heirs at war, cast down
+Each other at its one door, fighting there.
 
-Not bound to {{p|Jerusalem}}. His visions of the chariot-throne of
-{{c|2182|Yahweh}} moving across the heavens are among the strangest and
-Most influential in religious literature, founding the tradition
-Of {{p|Jewish}} mysticism (the {{p|Merkavah}} or chariot mysticism that
+And yet the exiles did not, would not make
+Their word for war; they made it to hold on,
+When others held the altar, for the sake
+Of rite, which would not fall when crowns were gone.
 
-Would feed into later {{p|Kabbalah}}). {{c|1922|Jeremiah}}, the weeping prophet,
-Who had warned against rebellion before the fall of {{p|Jerusalem}}
-And who witnessed its destruction; who was carried down to {{p|Egypt}}
-Against his will by the refugees and died there in exile. His
+{{c|2272|Ezekiel}} the priest, at {{p|Babylon}}'s stream,
+Saw {{c|472|God}}'s glory there, his chariot-throne
+That moved across the heavens, like a dream,
+{{c|472|God}} with the exiles, not {{p|Zion}} alone.
 
-Emotional intensity, his psychological interiority, his sense of
-Being called against his will to speak uncomfortable truths—all
-These make {{c|1922|Jeremiah}} a prototype of the dissenting religious
-Prophet. {{p|Second Isaiah}}, whom we have already mentioned, whose
+{{c|1922|Jeremiah}} wept: he warned, and they fell;
+He saw the city burn; and he was borne
+To {{p|Egypt}} by the fleeing, and he'd dwell
+And die an exile, called by {{c|472|God}} to mourn.
 
-Anonymous oracles from the exile are among the most exalted
-Religious poetry ever composed, whose declarations of {{c|2182|Yahweh}}'s
-Sole divinity and whose "servant songs" (with their haunting
-Imagery of a suffering servant through whose pain the nations
+The prophet of the exile sang the one
+{{c|472|God}}, and the servant suffering, whose pain
+Would heal the nations; {{c|2276|Ezra}}, when they'd won
+Their way back home, read out the law again;
 
-Will be redeemed) would shape {{p|Christian}} and {{p|Jewish}} messianic
-Hope for millennia. {{c|2276|Ezra}}, the scribe-priest who returned from
-{{p|Babylon}} and led the post-exilic community in reformulating its
-Religion around the {{p|Torah}}, organizing public readings of scripture,
+{{c|2277|Nehemiah}} built {{p|Jerusalem}}'s wall,
+With {{p|Persia}}'s leave, and ruled, and kept it whole;
+{{c|2278|Zerubbabel}}, of {{c|1956|David}}'s line, and all
+With {{c|2141|Joshua}} the priest, raised up the goal:
 
-Enforcing marital purity laws, and building the institutional
-Structures of post-exilic {{p|Judaism}}. {{c|2277|Nehemiah}}, the court official
-Who obtained {{p|Persian}} permission to rebuild {{p|Jerusalem}}'s walls
-And then governed the restored community, protecting it from its
+The {{p|Second Temple}}, smaller than the first;
+But not all came; for many stayed instead
+In {{p|Babylon}}; and those who came, the worst
+Of lands they found, with hostile neighbors spread:
 
-Neighbors. These figures, working in succession, built the religion
-That would become rabbinic {{p|Judaism}} and, through it, the matrix
-From which {{p|Christianity}} and {{p|Islam}} would emerge. They are
-The most influential religious teachers, per capita, of
+The {{p|Samaritans}}, who kept {{c|472|God}} as well;
+And no king ruled; the line of {{c|1956|David}} stayed
+A hope; and so they waited, and would tell
+Of one who'd come, and how the world was made
 
-Any period in human history. All of them active in a small exiled
-Or recently-returned population of perhaps fifty thousand people
-In the sixth and fifth centuries BCE. The theological productivity
-Of that small community is staggering.
+To end the evil age and bring the new.
+So from the exile came the word: that one
+{{c|472|God}} is, and he is everywhere; the true
+Law in a book; the meeting; and the sun
 
-                                         And the return itself, when
-It came, was complicated. {{c|2180|Cyrus}}'s edict of five-thirty-eight BCE
-Permitted the {{p|Judean}} exiles to return to {{p|Jerusalem}} and rebuild
-The temple. But not all exiles returned. Many had built lives in
-
-{{p|Babylon}}; some were doing well; some had assimilated. The returnees
-Were a minority of the exilic population, and they found a devastated
-Country, hostile neighbors (especially the {{p|Samaritans}}, who had
-Their own claim to {{c|2182|Yahweh}}-worship), and the challenging task of
-
-Rebuilding. The {{p|Second Temple}} was completed in five-sixteen BCE,
-Eighty years after the destruction of the first temple, under the
-Leadership of {{c|2278|Zerubbabel}} (a descendant of the {{c|2214|Davidic}} line) and
-The high priest {{c|2141|Joshua}}. But the {{p|Second Temple}} was a smaller,
-
-Less glorious structure than {{c|2189|Solomon}}'s original. And the political
-Situation of the restored community was limited: they were a
-{{p|Persian}} province ({{p|Yehud Medinata}}), governed by a {{p|Persian}}-appointed
-High priest. There was no independent {{p|Judean}} king. The {{p|Davidic}}
-
-Dynasty remained a religious memory and a future hope, not a
-Current political reality. This tension—between the theological
-Claim that {{c|2182|Yahweh}} had chosen the {{c|2214|Davidic}} line eternally and the
-Political fact that no {{c|2214|Davidic}} king ruled—would generate messianic
-
-Expectations for centuries. Who would be the promised son of
-{{c|1956|David}} who would restore {{p|Israel}}'s sovereignty? Generations waited.
-{{p|Jewish}} apocalyptic literature developed in response, envisioning
-A future divine intervention that would end the current evil age
-
-And establish a new, {{p|messianic}} age. {{p|Daniel}} (composed probably
-In the second century BCE under {{p|Seleucid}} oppression, though set
-Fictively in the {{p|Babylonian}} exile) is the great apocalyptic text
-Of this tradition. The {{p|Book of Enoch}}, the {{p|Book of Jubilees}}, and
-
-Other pseudepigraphic texts developed the tradition further.
-And it was from this apocalyptic milieu that {{p|Christianity}} would
-Eventually emerge in the first century CE—as one expression of
-A messianic ferment that had been building for six hundred years
-
-Since the exile.
-
-                  The theological heritage of the exile is thus
-Astonishing. Genuine monotheism. Deterritorialized religion. The
-Rise of scripture as the central religious object. The synagogue
-
-As a portable institution of worship. Messianic and apocalyptic
-Hope as structuring features of religious imagination. The
-Interiorization of divine-human relationship into covenant, law,
-And personal piety. The articulation of a universal cosmic drama
-
-Of sin, exile, and ultimate redemption. All of these conceptual
-Innovations emerged from the {{p|Babylonian}} captivity and its
-Aftermath. They would become the conceptual furniture of most of
-The world's subsequent religious thought. When we read theological
-
-Texts from {{p|Augustine}} to {{p|Rumi}} to {{p|Maimonides}} to {{p|Calvin}}, we
-Are reading descendants of the theological breakthrough of the
-Sixth-century BCE {{p|Judean}} exiles. Their radicalism under duress
-Produced, in the space of a century, a new religious grammar
-
-That would shape the religious imagination of billions of people
-Over the next twenty-five centuries.
-
-And here again, the poem takes no sides
-Between one god and many. What divides
-Them is not doctrine but the hand that holds
-The altar, and whose dead the rite upholds.
-Intolerance, when it came, was a door
-Shut by whoever held the house; the war
-Was over who would serve, not what is true.
-The exile's word was born to carry through
-A people with no temple; those who bent
-It later to an empire's intent
-Fought for the house; they did not change the rite,
+Of hope; and all of it, our house's own,
 Our rite, kept in the exile through the night
-Of {{p|Babylon}}. The poem, then, within
-Our story, reads it as a turning in
-The history of religion—as genuinely pivotal as the {{x|Axial Age}}
-Breakthroughs happening roughly contemporaneously in {{p|Iran}},
+Of {{p|Babylon}}, when temple, land, and throne
+Were gone, and still they kept the bread and light.
 
-{{p|India}}, {{p|China}}, and {{p|Greece}}. These parallel religious
-Transformations all share certain features: the critique of
-Sacrificial religion, the articulation of universal ethical
-Demands, the interiorization of religious life into personal
-
-Conduct and thought, the development of textual canons. The
-{{x|Axial Age}} is a world-historical transformation, not confined to
-Any one civilization. And the {{p|Jewish}} monotheism forged in
-{{p|Babylonian}} exile is the {{p|Judean}} branch of that global
-
-Transformation—a distinctive branch, with distinctive consequences,
-But part of a pattern that characterizes the whole of {{p|Eurasian}}
-Religious history in the middle of the first millennium BCE.
-
-                                                                {{p|Babylonian}}
-Exile. {{p|Second Isaiah}}. {{c|2272|Ezekiel}}'s chariot vision. {{c|1922|Jeremiah}}'s tears.
-The birth of scripture-centered religion. The synagogue as
-Portable temple. The theological leap from henotheism to
-Monotheism. {{c|2182|Yahweh}} as sole god, not merely greatest. The {{p|Persian}}
-
-Influence. {{c|2180|Cyrus}}'s edict. The return and rebuilding. The
-{{p|Second Temple}}. The messianic hope deferred. The apocalyptic
-Literature that would flower. The conceptual framework that
-Would shape three {{x|Abrahamic}} religions.
-
-The exile as crucible. The crushing defeat that forged a new
-Theological imagination. The catastrophe that produced the
-Vocabulary of half the world's religions.
+So honor them: the exiles, and the word
+They kept by {{p|Babylon}}'s streams, where they'd roam;
+{{c|2272|Ezekiel}} and {{c|1922|Jeremiah}}, who heard;
+And {{c|2276|Ezra}}, {{c|2277|Nehemiah}}, who came home.
 
 
 # Chapter 168: Confucius and Laozi
