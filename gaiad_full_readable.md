@@ -718,9 +718,9 @@ From starlight's first embrace to battle scars,
 These ancestors of mine, I hold them dear.
 
 From Hesper's land came Bios, mighty one;
-And Kenan, strong and wise, a leader, son;
-And next, high shining, Aenos, great and wise;
-Then Malathan, bold builder, would arise.
+And Kenan, strong and wise, would lead the way;
+And next, high shining, Aenos, like the sun;
+Then Malathan, bold builder, had his day.
 
 On Phaestia, my ancestors did lead,
 Their line continued strong through trials of old.
@@ -728,8 +728,8 @@ In every breath, I feel their strength and creed,
 Their names still bright, their stories brave and bold.
 
 From Phaestia came Jared, strong and wise,
-Then one with might, named Maharoch, would rise;
-The ocean's voice obeyed Enid the bold,
+Then one with might, named Maharoch, the bold;
+The ocean's voice obeyed great Enid's cries;
 Great Pahadok rose from the deep seas' hold.
 
 Upon Serenitide, they carved their way,
@@ -738,8 +738,8 @@ Through many trials, they lived to see the day,
 With courage strong, they forged upon this land.
 
 From Serenitide, Pelod, strong and brave;
-Fierce Aroch followed the wisdom he gave;
-Then rose another, Nerod, leader great,
+Fierce Aroch followed, and then Nerod, great;
+They kept the wisdom that the fathers gave;
 And last, wise Larthok, guide of strength and state.
 
 On Kolob's shores, my forebears stood so tall,
@@ -748,8 +748,8 @@ Through every test, they answered Aster's call,
 And in their steps, I now stand proud and high.
 
 Out of Kolob the mighty Idris came;
-Then the late, great Methuselah, of fame;
-Then Lammes, bold, who with his strength had led;
+Methuselah, the late and great, who led;
+Then Lammes, the bold, who won the house its fame;
 And now Nolah, who bears the line ahead."
 
 Nemla stood upon the high mountain's crest,
@@ -762,19 +762,19 @@ Through Viros' blood, our line was fierce and strong.
 They carved the way, enduring every fight,
 I walk the path they forged so long, so long."
 
-From Tezca came the feared mighty Viros,
-His son, a cunning soul, was brave Caynen.
-And next, a clever leader, sharp, Hanos,
-Then stood the wise and fearless Mehuthen.
+From Tezca came the feared and mighty one,
+Viros; his son, the cunning Caynen, brave;
+And Hanos, clever leader, was his son;
+Then wise Mehuthen, fearless, sharp, and grave.
 
 "On Phaestia's shores, my great line did tread,
 Their strength unmatched as skies and seas did roar.
 Their names I honor, though the years have fled,
 I honor their heritage evermore."
 
-Born there was strong and keen hero Irad
-The next to follow, brave, was Malathok.
-Then came the bold and wise one called Hanad,
+Born there was Irad, keen and strong of hand;
+The next to follow, brave, was Malathok;
+Then came the bold and wise Hanad, to stand;
 His wisdom echoed still in Peladok.
 
 "Upon Serenitide they forged their way;
@@ -782,9 +782,9 @@ Through every storm, their spirits never fell.
 Their shining star through history holds sway;
 I keep their memory in tales we tell."
 
-From Serenitide came the strong Sarnod,
+From Serenitide came Sarnod the strong;
 His son Alok, whom the skies inspired;
-Through trials faced, the line passed to Illod,
+Through trials, Illod carried it along;
 Last came steadfast Umroch, chief admired.
 
 "On Kolob's fertile lands, my line did grow,
@@ -793,8 +793,8 @@ Through every trial, they faced ebb and flow,
 Their strength lives on, and I still bear their name."
 
 From Kolob came Valorous Oblas first;
-Then came Makusholah, in wisdom versed;
-Fierce Romas' strength through battles would endure,
+Then came Makusholah, in wisdom sure;
+Fierce Romas, in his strength of battle versed;
 Till now Nemla carries the line secure.
 
 From distant stars, Aster's voice filled the sky,
