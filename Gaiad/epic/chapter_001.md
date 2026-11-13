@@ -32,8 +32,8 @@ From threads that snapped, a cosmic scene we view.
 
 And so, each day, we gaze at skies above,
 At {{c|8|Sagittarius}} and {{c|9|Princess}} high;
-We hope their union once again draws nigh,
-When {{c|10|Milkdromeda}} forms from endless love.
+And hope that, forming out of endless love,
+{{c|10|Milkdromeda}} will bring their union nigh.
 
 The {{c|5|Omega}} point, all will unify,
 As {{c|1|Aster}} and {{c|3|Andromeda}} break free
