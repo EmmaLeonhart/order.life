@@ -31161,280 +31161,95 @@ The world in kindness, and sent the monks through.
 
 # Chapter 176: The Punic Wars
 
-In the western {{p|Mediterranean}}, while {{c|1982|Alexander}}'s successors were
-Dividing up his conquests and the {{p|Han}} was unifying {{p|China}}, two
-Powers were rising that would eventually fight each other for
-Control of the {{p|Mediterranean}} world. {{p|Rome}} and {{p|Carthage}}.
+And in the west, two cities rose to fight
+For all the sea: {{p|Rome}} on the {{p|Tiber}}'s bank,
+Which {{c|1566|Romulus}} had founded; ruled by right
+Of seven kings, till {{c|2453|Tarquin}}, proud, then sank,
 
-                                                                      {{p|Rome}}
-Had begun as a small city-state on the {{p|Tiber River}} in central
-{{p|Italy}}. Its traditional founding date—seven-fifty-three BCE, by
-{{c|1566|Romulus}}—is legendary, but archaeological evidence does show
+Cast out; then the {{p|Republic}}: consuls, two,
+Each checking each; the {{x|Senate}}, old and wise;
+The people's votes; the tribunes, who could do
+The veto for the poor; and so to rise
 
-A settlement there from the eighth century BCE. Initially ruled
-By kings (traditionally seven of them, ending with {{c|2453|Tarquin the Proud}}),
-{{p|Rome}} became a republic in five-oh-nine BCE when the last king was
-Overthrown. The {{p|Roman Republic}} had a distinctive constitutional
+Through all of {{p|Italy}}: {{p|Etruscans}}, all
+The {{p|Samnites}}, {{p|Sabines}}, {{p|Latins}}, and the {{p|Greeks}}
+Of southern {{p|Italy}}; and then the call
+Across the strait, where {{p|Carthage}} ruled the creeks.
 
-Structure: two consuls elected annually to executive authority
-(Checking each other), a {{x|Senate}} of aristocratic elders providing
-Continuity and policy guidance, assemblies of citizens voting on
-Laws and electing magistrates, and tribunes of the plebs with
+For {{p|Carthage}}, from {{p|Phoenician}} {{p|Tyre}}, had grown
+Upon {{p|Tunisia}}'s coast, and ruled the trade
+Of {{p|Africa}}, {{p|Iberia}}'s ore, sown
+{{p|Sardinia}}, {{p|Corsica}}; fleets were made
 
-Veto powers to protect the common people from aristocratic abuse.
-The system balanced power between aristocratic and popular
-Elements and was designed to prevent any one person or family
-From becoming dominant. It worked—for about four hundred fifty
+The greatest; and its tongue was {{p|Punic}}, kin
+To {{p|Hebrew}}; and its gods, {{c|2454|Baal Hammon}} and
+{{c|2455|Tanit}}; and in the {{p|tophet}}, laid within,
+Were infants, given in crisis by land.
 
-Years. During those centuries, {{p|Rome}} gradually conquered {{p|Italy}},
-Defeating the {{p|Etruscans}}, the various {{p|Italic}} peoples ({{p|Samnites}},
-{{p|Sabines}}, {{p|Latins}}), and the {{p|Greek}} cities of southern {{p|Italy}} and
-{{p|Sicily}}. By two-seventy BCE, {{p|Rome}} dominated the entire {{p|Italian}}
+And {{p|Sicily}}, half {{p|Greek}} and half {{p|Punic}},
+Was where they met; and three wars they would fight.
+The first: {{p|Rome}} had no fleet, and, stubborn, quick,
+Copied a {{p|Punic}} ship, and, with the might
 
-Peninsula. And then {{p|Rome}} looked outward, across the {{p|Strait of
-Messina}}, at the commercial empire of {{p|Carthage}}.
+Of {{p|corvus}}, boarding-bridge, made sea to land;
+And won, and {{p|Sicily}} was {{p|Rome}}'s; and gold
+Was paid; and while {{p|Carthage}}'s hired band
+Rose, {{p|Rome}} seized {{p|Sardinia}}, and the hold
 
-                                                            {{p|Carthage}}.
-A {{p|Phoenician}} colony founded in the ninth century BCE on the
+Of {{p|Corsica}}; {{c|2456|Hamilcar Barca}}'s son,
+{{c|2457|Hannibal}}, swore at the altar, when young,
+Undying hate for {{p|Rome}}; and Spain was won
+By {{c|2458|Hamilcar}}, {{c|2459|Hasdrubal}}; and among
 
-Coast of what is now {{p|Tunisia}}. {{p|Phoenician}} traders from {{p|Tyre}} had
-Established it as a commercial outpost, and it had grown over
-The centuries into the dominant commercial power of the western
-{{p|Mediterranean}}. The {{p|Carthaginians}}—whom the {{p|Romans}} called {{p|Punici}},
+Them, {{c|2457|Hannibal}}; and then the second war:
+He crossed the {{p|Ebro}}, {{p|Pyrenees}}, and {{p|Gaul}},
+The {{p|Alps}} in winter, elephants, and more,
+And came to {{p|Italy}} with half of all,
 
-Hence "{{p|Punic}}"—controlled trade routes across {{p|North Africa}}, into
-{{p|Iberia}} (especially its silver mines), to {{p|Sardinia}} and {{p|Corsica}},
-And into parts of {{p|Sicily}}. They had a powerful navy, a merchant
-Empire, and substantial wealth. They spoke a {{p|Semitic}} language
+And won at {{p|Trebia}}; and by the lake
+Of {{p|Trasimene}} ambushed a host and slew
+{{c|2460|Flaminius}}; and then, at {{p|Cannae}}, he'd make
+The center yield, the wings close round them, through;
 
-({{p|Punic}}, closely related to {{p|Phoenician}} and {{p|Hebrew}}), worshipped
-{{p|Semitic}} gods (including {{c|2454|Baal Hammon}} and {{c|2455|Tanit}}), and were
-Regarded by the {{p|Romans}} with a mixture of admiration and suspicion.
-Their religious practices included, in their most extreme form,
+Some fifty thousand {{p|Romans}} died that day;
+And many allies went to him; but {{p|Rome}}
+Would not give in; its {{x|Senate}} would not pay;
+{{c|2461|Fabius}} would not fight, but kept at home
 
-Child sacrifice—the infamous {{p|tophet}}, burial grounds containing
-The cremated remains of infants that have been found at {{p|Carthage}}
-And other {{p|Punic}} sites. The interpretation of these sites is
-Disputed; some scholars argue the burials are of children who
+The war by waiting, cutting off his bread;
+{{c|2462|Scipio}} took {{p|Spain}}; and {{p|Syracuse}} fell,
+And {{c|2409|Archimedes}}, by a soldier, dead;
+{{c|2464|Scipio}} took war to {{p|Carthage}} as well,
 
-Had died naturally and were dedicated to the gods, rather than
-Victims of active sacrifice. But some ancient sources describe
-Systematic sacrifice of infants to {{c|2454|Baal Hammon}} in times of civic
-Crisis. The {{p|Romans}} regarded {{p|Carthaginian}} religion as particularly
+And at {{p|Zama}} beat {{c|2457|Hannibal}}; and lost
+{{p|Carthage}}'s fleet, its lands abroad; it paid
+A mighty sum; and {{c|2465|Cato}}, at all cost,
+Ended each speech: {{p|Carthage}} must be unmade.
 
-Barbaric—an attitude that would later feed into {{p|Roman}} propaganda
-Against their enemies. The two powers could not indefinitely
-Coexist. The western {{p|Mediterranean}} was not large enough for both
-An expanding {{p|Italian}} land power and an established maritime
+The third war: three years' siege; the city fell,
+Was burned, and razed, its people sold, and salt
+Sown in its ground; and {{p|Africa}} as well
+Was {{p|Rome}}'s; and {{p|Punic}} {{p|Carthage}} came to halt.
 
-Commercial empire. Their clash began over {{p|Sicily}}, an island whose
-Eastern side was largely {{p|Greek}}, western side largely {{p|Punic}}, and
-Northern side increasingly {{p|Roman}}. Starting in two-sixty-four BCE,
-{{p|Rome}} and {{p|Carthage}} fought three wars over the following century.
+And {{p|Rome}} was changed: a fleet, and lands abroad,
+Grain from {{p|Sicily}}, {{p|Africa}}; and gold
+From {{p|Spain}}; and generals great; and, overawed,
+The farmers, ruined while away, were sold
 
-Together these are known as the {{p|Punic Wars}}.
+Their land to rich men with their slaves; the throng
+Of poor men crowded {{p|Rome}}; and then it turned
+East: {{p|Macedon}}, and then {{p|Greece}}, were {{p|Rome}}'s ere long,
+{{p|Seleucids}} at {{p|Magnesia}}; it learned
 
-                                                    The {{p|First Punic War}}
-(Two-sixty-four to two-forty-one BCE) was fought primarily over
-{{p|Sicily}}. {{p|Rome}} had little naval experience; {{p|Carthage}} was a
+To call the sea its own. And he, the great
+{{c|2457|Hannibal}}, exiled, went to foes of {{p|Rome}};
+With {{c|2471|Prusias}}, when {{p|Rome}} came for him, his fate
+Was poison, which he drank, far from his home.
 
-Dominant sea power. But the {{p|Romans}}, with characteristic stubbornness,
-Built a navy from scratch, imitating a captured {{p|Carthaginian}}
-Warship and adding their own innovation: the {{p|corvus}}, a boarding
-Bridge that allowed {{p|Roman}} marines to turn naval battles into
-
-Land battles. They won enough engagements to achieve a decisive
-Victory. {{p|Carthage}} ceded {{p|Sicily}} to {{p|Rome}} and paid a massive
-Indemnity. The peace was uneasy. {{p|Carthage}}, humiliated and
-Financially strained, faced a further crisis when its own
-
-Mercenary troops rebelled; it took three years to suppress this
-{{p|Mercenary War}}. During that period, {{p|Rome}} seized {{p|Sardinia}} and
-{{p|Corsica}}—an action widely regarded as opportunistic and unfair.
-{{p|Carthaginian}} resentment festered. The general {{c|2456|Hamilcar Barca}}—
-
-One of {{p|Carthage}}'s most capable commanders—led the family that
-Would drive the next war. He had his young son {{c|2457|Hannibal}} swear,
-At an altar, eternal enmity against {{p|Rome}}. That oath would shape
-The coming conflict. {{c|2458|Hamilcar}} built up {{p|Carthaginian}} power in
-
-{{p|Iberia}}, expanding the empire westward and creating a base from
-Which to eventually renew the war. He was succeeded by his son-in-
-Law {{c|2459|Hasdrubal}}, and then by {{c|2457|Hannibal}} himself, who took command
-In {{p|Spain}} in two-twenty-one BCE.
-
-                                       The {{p|Second Punic War}}
-(Two-eighteen to two-oh-one BCE) was perhaps the most dramatic war
-Of antiquity. {{c|2457|Hannibal}}, anticipating that {{p|Rome}} would attack him
-In {{p|Spain}}, decided instead to strike first. He led an army of
-
-Perhaps fifty thousand men—including war elephants—across the
-{{p|Ebro}}, through the {{p|Pyrenees}}, across southern {{p|Gaul}}, over the
-{{p|Alps}} in winter (a march that passed into legend for its
-Impossibility, and whose exact route is still debated), and into
-
-Northern {{p|Italy}}. He arrived in {{p|Italy}} with perhaps half his original
-Force—the crossings had been costly—but he was in the {{p|Roman}}
-Homeland. He won three catastrophic victories in succession. At
-The {{p|Trebia River}} in two-eighteen BCE. At {{p|Lake Trasimene}} in
-
-Two-seventeen BCE (where he ambushed and destroyed an entire
-{{p|Roman}} army in a mountain pass, killing the consul {{c|2460|Flaminius}}).
-And at {{p|Cannae}} in two-sixteen BCE—the most devastating {{p|Roman}}
-Defeat in centuries. At {{p|Cannae}}, {{c|2457|Hannibal}} used a tactical
-
-Innovation now called the "{{p|double envelopment}}": allowing his
-Center to slowly yield while his flanks wheeled around behind
-The advancing {{p|Romans}}, encircling them completely. The trapped
-{{p|Roman}} army was annihilated. Perhaps fifty thousand {{p|Romans}} died
-
-In a single afternoon—a death toll larger than any single day's
-Combat casualties in {{p|Western}} history until the twentieth century.
-After {{p|Cannae}}, the {{p|Roman}} state faced existential crisis. Many
-Of their {{p|Italian}} allies defected to {{c|2457|Hannibal}}. The war seemed
-
-Lost. But {{p|Rome}} did not break. The {{x|Senate}}, showing the discipline
-For which it became famous, refused to negotiate with {{c|2457|Hannibal}}.
-{{p|Rome}} would fight on. And it did. The general {{c|2461|Quintus Fabius Maximus}}
-Adopted what became known as "Fabian tactics": refusing to engage
-
-{{c|2457|Hannibal}} directly, shadowing his army, cutting his supply lines,
-Slowly wearing him down. {{c|2457|Hannibal}} could win battles but could
-Not force {{p|Rome}} to surrender. Meanwhile, {{p|Roman}} armies operated
-Elsewhere: in {{p|Spain}}, where {{c|2462|Publius Cornelius Scipio}} (later
-
-Called {{c|2463|Africanus}}) defeated {{p|Carthaginian}} forces and eventually
-Conquered the entire peninsula; in {{p|Sicily}}, where the {{p|Greek}} city
-Of {{p|Syracuse}} (which had defected to {{p|Carthage}}) was besieged and
-Taken (an event famous for the death of the mathematician
-
-{{c|2409|Archimedes}}, who was killed by a {{p|Roman}} soldier during the sack
-Despite orders to spare him); in {{p|North Africa}}, where {{c|2464|Scipio}}
-Ultimately carried the war to {{p|Carthage}} itself. In two-oh-two BCE,
-At the {{p|Battle of Zama}}, {{c|2464|Scipio}} defeated {{c|2457|Hannibal}} on {{c|2457|Hannibal}}'s
-
-Home ground. The {{p|Second Punic War}} ended. {{p|Carthage}} was stripped
-Of its overseas territories, forbidden to maintain a navy without
-{{p|Roman}} permission, and required to pay a massive indemnity. It
-Was reduced to a shadow of its former power. But it still existed.
-
-And for two generations, {{p|Carthage}} remained—a commercial city
-Confined to its {{p|African}} hinterland, paying its indemnity, gradually
-Recovering economically. {{p|Rome}} watched with increasing distrust.
-The old senator {{c|2465|Cato the Elder}} ended every speech in the {{x|Senate}},
-
-Regardless of its topic, with the phrase "{{p|Carthago delenda est}}"—
-"{{p|Carthage}} must be destroyed." In the mid-second century BCE,
-{{p|Roman}} hawks found a pretext for war. The {{p|Third Punic War}}
-(One-forty-nine to one-forty-six BCE) was less a war than a
-
-Systematic destruction. {{p|Rome}} besieged {{p|Carthage}}. After three
-Years, the city fell. It was sacked, burned, and razed. Survivors
-Were enslaved. The ground was reportedly sown with salt to make
-It barren (though this detail may be later embellishment). The
-
-{{p|Carthaginian}} civilization ended. {{p|North Africa}} became the {{p|Roman}}
-Province of {{p|Africa}}, which would become one of {{p|Rome}}'s most
-Productive grain-producing regions. {{p|Carthage}} itself would be
-Refounded as a {{p|Roman}} colony a century later, but the original
-
-{{p|Punic}} civilization was erased.
-
-                                          And the {{p|Punic Wars}}
-Transformed {{p|Rome}}. Before the wars, {{p|Rome}} was a regional {{p|Italian}}
-Power. After them, it was the dominant state of the western
-
-{{p|Mediterranean}}. The wars had required {{p|Rome}} to build a navy, to
-Conduct operations across vast distances, to manage provinces
-Outside of {{p|Italy}}, and to handle enormous economic and social
-Strains. All these experiences accelerated {{p|Rome}}'s evolution
-
-From city-state to empire. The conquest of {{p|Iberia}} brought huge
-Wealth to {{p|Rome}}. The acquisition of {{p|Sicily}} and eventually {{p|Africa}}
-Gave it a grain supply that would feed {{p|Rome}}'s growing urban
-Population. The wars also concentrated power in the hands of
-
-Successful generals like {{c|2466|Scipio Africanus}}, beginning a pattern
-Of political-military personality that would eventually undermine
-The {{p|Republic}}. The precedent of one man holding exceptional command
-For extended periods against military threats would be invoked
-
-By {{c|1027|Marius}}, {{c|2467|Sulla}}, {{c|2468|Pompey}}, and eventually {{c|2469|Julius Caesar}}—each
-Drawing on the institutional flexibility that the {{p|Punic Wars}}
-Had established. The wars also militarized {{p|Roman}} society. Most
-Adult male {{p|Romans}} served for years as soldiers. Veterans returned
-
-To find their farms ruined by neglect or bought up by wealthy
-Landowners (the long wars having ruined small farmers while
-Concentrating land in the hands of those who could buy slaves
-To work it). The resulting social displacement created a class
-
-Of landless poor who crowded into {{p|Rome}} and other cities—a
-Volatile population that would fuel political instability for
-Generations. The social reforms of the {{c|2470|Gracchi brothers}} in the
-Late second century BCE tried to address this problem through
-
-Land redistribution; their failure and violent deaths marked the
-Beginning of the political breakdowns that would eventually end
-The {{p|Republic}}. And meanwhile, {{p|Rome}} continued to expand. Having
-Defeated {{p|Carthage}}, it turned east. {{p|Macedon}} was defeated in a
-
-Series of wars; mainland {{p|Greece}} was annexed. The {{p|Seleucid}} empire
-Was defeated at {{p|Magnesia}} in one-ninety BCE, becoming effectively
-A {{p|Roman}} client. {{p|Anatolia}} was annexed. By the end of the second
-Century BCE, the {{p|Mediterranean}} was a {{p|Roman}} lake. Further
-
-Conquests in the first century BCE—{{p|Syria}}, {{p|Gaul}}, {{p|Egypt}}—would
-Extend the imperial reach to its maximum extent. But the
-Foundations of {{p|Roman}} imperial power were laid in the {{p|Punic Wars}}.
-Without them, there would have been no {{p|Roman Empire}}.
-
-                                                                    And
-{{c|2457|Hannibal}} himself. Defeated at {{p|Zama}}, exiled from {{p|Carthage}} for
-Political reasons, he wandered the eastern {{p|Mediterranean}} in the
-Following years, offering his military expertise to anti-{{p|Roman}}
-
-Powers. He eventually took refuge with the {{p|Bithynian}} king
-{{c|2471|Prusias I}}. When {{p|Roman}} diplomats demanded that {{c|2457|Hannibal}} be
-Turned over to them, he took poison rather than face capture.
-He died in exile, probably in one-eighty-three BCE, at around
-
-Age sixty-three. His tactical genius is still studied in military
-Academies worldwide. His double envelopment at {{p|Cannae}} has been
-Emulated (successfully and unsuccessfully) by commanders from
-{{c|2472|Frederick the Great}} to {{c|2473|Robert E. Lee}} to modern military
-
-Theorists. He stands as one of the supreme commanders in history—
-A man who crossed the {{p|Alps}} with elephants, won three impossible
-Victories against the greatest power of his age, and sustained
-A hopeless campaign in hostile territory for fifteen years before
-
-Finally being defeated not by battle but by the systematic attrition
-Of superior resources. The {{x|Gaiad}} honors {{c|2457|Hannibal}}'s genius even
-While recognizing that his cause—the preservation of {{p|Punic}}
-Civilization against {{p|Roman}} expansion—was ultimately lost. He
-
-Is one of the tragic figures of ancient history. A great commander
-In service of a state that could not, in the end, match the
-Manpower and institutional resilience of its enemy.
-
-                                                           {{p|Punic Wars}}.
-{{p|Rome}} and {{p|Carthage}}. Three wars across a century. {{c|2458|Hamilcar}},
-{{c|2459|Hasdrubal}}, {{c|2457|Hannibal}}. The {{p|Alps}} crossing. {{p|Trebia}}, {{p|Trasimene}}, {{p|Cannae}}.
-The double envelopment. {{p|Roman}} resilience under catastrophic
-Defeat. {{c|2466|Scipio Africanus}}'s counter-invasion. The victory at {{p|Zama}}.
-
-The {{p|Third Punic War}} and the destruction of {{p|Carthage}}.
-{{c|2474|Cato}}'s "{{p|Carthago delenda est}}." The refounding of {{p|Carthage}} as
-A {{p|Roman}} colony and the absorption of {{p|North Africa}} into {{p|Roman}}
-Territory.
-
-              The wars that transformed {{p|Rome}} from {{p|Italian}} power
-To {{p|Mediterranean}} superpower. The proving ground of {{p|Roman}}
-Institutions. The beginning of the end for the {{p|Republic}}.
-
-{{p|Punic Wars}}. The century-long duel. The emergence of what would
-Become the greatest {{p|Mediterranean}} empire.
+So honor {{c|2457|Hannibal}}, who crossed the snow
+With elephants, and won at {{p|Cannae}}'s field;
+And {{p|Rome}}, which would not break, though brought so low;
+And {{p|Carthage}}, which was razed, and would not yield.
 
 
 # Chapter 177: Qin and Han
