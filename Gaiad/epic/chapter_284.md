@@ -1,59 +1,64 @@
 # Chapter 284: The Pact at Diriyah
 
-In {{p|Najd}}, the high desert at the heart of {{p|Arabia}}, a long way
-From {{p|Istanbul}} and from {{p|Cairo}}, in the oasis towns of palm and mud brick,
-Where the people visited the tombs of holy men, and hung rags on trees to pray,
-And asked the saints to carry their prayers, a scholar, quick
+{{p|Najd}}, the high heart of {{p|Arabia}}, there,
+From {{p|Istanbul}} and {{p|Cairo}}, palm and clay,
+Where people hung rags on trees, asked the prayer
+Of saints; and one, severe, came home one day,
 
-And severe, {{c|4023|Muhammad ibn Abd al-Wahhab}}, born in 1703,
-Came home from his studies in {{p|Medina}} and {{p|Basra}} and preached:
-This is not {{x|Islam}}. God is one. No saint, no tree,
-No tomb, no prophet even, may be asked to intercede. He reached
+The scholar {{c|4023|al-Wahhab}}, the one who taught,
+Home from {{p|Medina}}, {{p|Basra}}: "This is not
+{{x|Islam}}. For God is one; no saint is sought,
+No tree, no tomb, no prophet, may be got
 
-Back past a thousand years of what the {{c|2764|Muslims}} had done,
-The {{c|3957|Sufi}} orders, the shrines, the feasts of the saints, the schools
-Of law and their commentaries, to the {{c|3960|Quran}} and the sayings, the one
-Pure beginning, as he read it. His book was *{{x|The Oneness of God}}*. The rules
+To intercede." He reached back past the time,
+The {{c|3957|Sufi}} orders, shrines, saints' feasts, the schools
+Of law and commentaries, to the prime
+Beginning, as he read it; and his rules,
 
-Were simple and absolute. And he acted. At {{p|Al-Uyaynah}},
-With the town's emir, he cut down a sacred tree, and pulled down the tomb
-Of {{c|4024|Zayd ibn al-Khattab}}, a companion of the {{c|2776|Prophet}}, the venerated
-Dome over his grave, and had a woman stoned. The room
+*{{x|The Oneness of God}}*, simple, absolute;
+At {{p|Al-Uyaynah}}, with its emir, he
+Cut down a sacred tree; tore, at the root,
+The tomb of {{c|4024|Zayd ibn al-Khattab}}; he
 
-Of the town grew afraid, and the emir's own overlord made him send the preacher away.
-He went to {{p|Diriyah}}, a small town on a dry riverbed,
-And there, in 1744, he met its emir, {{c|4025|Muhammad ibn Saud}}, and the day
-Of their meeting made a pact that still holds: the preacher said,
+Had a woman stoned. The town grew afraid;
+The emir's lord sent him away; he went
+To {{p|Diriyah}}, dry riverbed, and made
+In forty-four, with its emir, content:
 
-You give me your sword and protection; I give you the faith, and the right
-To rule in its name. The emir agreed. The {{c|4026|Saud}} would hold the land;
-The family of the sheikh, the {{c|4027|Al ash-Sheikh}}, would hold the light
-Of the religion. Two dynasties, in one hand,
+{{c|4025|Muhammad ibn Saud}}; the preacher said:
+"Your sword and your protection; I, the creed,
+And right to rule in it." The {{c|4026|Saud}} were wed
+To land; the {{c|4027|Al ash-Sheikh}}, the rite, indeed;
 
-Married to each other, generation after generation, to this day.
-Hold that, in a book of genealogy: a faith and a state
-As two family trees, bound by a promise in a mud-brick town. The way
-Of the alliance was conquest. Their followers called themselves, as they relate,
+Two dynasties in one hand, married through
+Each generation, to this day; and hold
+This, in a book of kin: two trees that grew,
+Bound by a promise in a mud-brick fold
 
-*{{c|4028|Al-Muwahhidun}}*, the people of God's oneness. The word *{{x|Wahhabi}}*
-Was what their enemies called them, and it stuck. They took {{p|Najd}},
-And then, in 1802, they rode north to {{p|Karbala}} in {{p|Iraq}}, the shrine-crowned
-And holy city of the {{c|2775|Shia}}, where {{c|4029|Husayn}}, the {{c|2776|Prophet}}'s grandson, had died
+Of conquest: {{c|4028|Al-Muwahhidun}}, as one
+God's oneness; and their foes' name for them stuck:
+*{{x|Wahhabi}}*. They took {{p|Najd}}, and further won;
+North to {{p|Karbala}}, in {{p|Iraq}}; and struck
 
-And is buried, and they killed thousands in its streets, and stripped the shrine.
-In 1803 and 1805 they took {{p|Mecca}} and {{p|Medina}}, and pulled down
-The domes over the graves of the {{c|2776|Prophet}}'s family, the line
-Of the saints, at the {{p|Baqi}} cemetery, and the pilgrims of every town
+The holy city of the {{c|2775|Shia}}, where
+{{c|4029|Husayn}}, the {{c|2776|Prophet}}'s grandson, died; they killed
+Thousands, stripped the shrine; took {{p|Mecca}}, and, there,
+{{p|Medina}}; {{p|Baqi}}'s domes, the kin's, they spilled
 
-Who would not pray their way were turned back. The {{c|3115|Ottomans}} sent {{c|4030|Muhammad Ali}}'s
-{{x|Egyptian}} army, and it took seven years, and in 1818 {{p|Diriyah}} was razed,
-And the emir {{c|4031|Abdullah}} was taken to {{p|Istanbul}} and beheaded. The steel
-Of the empire had won. The idea had not. It was praised
+To ground; the pilgrims of another way
+Turned back. {{c|3115|Ottomans}} sent {{x|Egyptian}} might,
+Seven years; in eighteen-eighteen, razed lay
+{{p|Diriyah}}; {{c|4031|Abdullah}} beheaded; night.
 
-And kept in the desert, and came back. In 1902 a young {{c|4032|Ibn Saud}}
-Retook {{p|Riyadh}}, and by 1932 the kingdom was named for his family.
-In 1925 the domes at {{p|Baqi}} were pulled down again. And the flood
-Of oil, found in 1938, would carry the preaching, quietly and loudly,
+The realm won; the idea had not; kept
+In desert, it returned; and, by the sword,
+Young {{c|4032|Ibn Saud}} retook {{p|Riyadh}}; and, swept,
+{{p|Baqi}}'s domes fell again; the oil outpoured
+
+Beneath the sands; the kingdom of his name
+Stands, and the preaching, quiet, loud, goes forth
+With oil's wealth; still the pact, the two, the same
+Families, sheikh and emir, south and north,
 
 To mosques and schools across the world. Now hold
 This close: it is the spine of this whole book.
@@ -61,8 +66,8 @@ The fight was over graves: who may enfold
 The dead in a dome, who may come and look.
 
 The domes at {{p|Baqi}} kept the {{c|2776|Prophet}}'s kin;
+The preacher said no grave should stand between;
 A rag on a tree let the widow in.
-The preacher said: no grave stands in between
 The one God and the asker; keep it clean.
 
 So the dispute was ours, the oldest one:
