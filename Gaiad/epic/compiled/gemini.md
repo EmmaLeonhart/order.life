@@ -2306,35 +2306,25 @@ the old {{p|Roman}} frame held what it had known.
 
 # Chapter 190: Ethiopia
 
-South of {{p|Egypt}}, past the cataracts,
-past {{p|Kush}} and {{p|Meroe}}'s pyramid dead,
-the {{p|Kingdom of Aksum}} rose in highland
-of what is now {{p|Ethiopia}}'s head.
+South of {{p|Egypt}}, past cataracts and {{p|Kush}},
+Past {{p|Meroe}}'s high tombs, the highland rose,
+{{p|Aksum}}, in {{p|Ethiopia}}; its push
+Of trade, {{p|Adulis}}, where the {{p|Red Sea}} flows,
 
-They traded with {{p|Rome}}, {{p|India}}, {{p|Arabia}},
-from {{p|Adulis}} on the {{p|Red Sea}} coast.
-Their script was {{c|2630|Ge'ez}}, their language Semitic,
-cousin of {{x|Arabic}} from distant host.
+To {{p|Rome}}, {{p|Arabia}}, {{p|India}}; script
+Was {{c|2630|Ge'ez}}, their tongue a {{x|Semitic}} one,
+Kin to {{x|Arabic}}; and, crowned and equipped,
+Their fourth-century king, {{c|2631|Ezana}}, won
 
-{{c|2631|Ezana}}, king in the fourth century,
-converted to {{x|Christianity}} around
-three-thirty, through the Syrian missionary
-{{c|2632|Frumentius}}, captured then renowned.
+Over to {{c|1497|Christ}} three-thirty, by the word
+Of {{c|2632|Frumentius}}, who had, as a young boy,
+Was shipwrecked there, and served the court, and stirred
+Its trust; in {{p|Alexandria}}'s employ
 
-{{c|2632|Frumentius}} had been shipwrecked as a boy,
-served in the royal court, was trusted,
-returned to {{p|Alexandria}} and was consecrated
-bishop by {{c|2633|Athanasius}}, who encrusted
-
-him with authority to evangelize.
-He returned to {{p|Ethiopia}} and preached.
-{{c|2631|Ezana}} became Christian, and the kingdom
-became the second Christian state reached.
-
-(After {{p|Armenia}}. Before {{p|Rome}}.
-{{p|Ethiopia}} was the second nation
-in history to adopt {{x|Christianity}}
-as its official state declaration.)
+Made bishop by {{c|2633|Athanasius}}, came
+Back home, and preached; {{c|2631|Ezana}} turned; and so
+{{p|Aksum}}, after {{p|Armenia}}, the same,
+The second realm to take the faith, and grow.
 
 And at {{p|Chalcedon}} in four-fifty-one
 the bishops split on how the {{c|1497|Christ}} was made:
@@ -2346,50 +2336,30 @@ which patriarch would say the creed for all.
 The {{c|2634|Copts}}, the {{c|2635|Syrians}} held to their own
 with {{c|2636|Ethiopians}}, a single hall.
 
-{{p|Ethiopia}} has a tradition that the {{c|2637|Ark of the Covenant}}
-rests at {{p|Aksum}} in the Church of {{p|St. Mary of Zion}},
-brought there by {{c|2638|Menelik I}}, son of
-{{c|2189|Solomon}} and {{c|2212|Sheba}}, the kebra nagast scion.
+At {{p|Aksum}}, in the church of {{p|Mary}}, there
+The {{c|2637|Ark of the Covenant}} still rests, brought
+By {{c|2638|Menelik}}, of {{c|2189|Solomon}} the heir,
+And {{c|2212|Sheba}}'s son: the {{x|Kebra Nagast}} taught
 
-The {{x|Kebra Nagast}}, "{{x|Glory of the Kings}},"
-tells how the {{c|2639|Queen of Sheba}} visited {{c|2189|Solomon}},
-bore his son {{c|2640|Menelik}}, who returned to {{p|Ethiopia}}
-taking the {{c|2641|Ark}} back to his own dominion.
+How {{c|2639|Sheba}}'s queen came to {{c|2189|Solomon}}, bore
+His son, {{c|2640|Menelik}}, who went home, and took
+The {{c|2641|Ark}} to his own land. And this is more
+Than tale: it's true, as all the faithful look;
 
-And this is true, as the faithful knew:
-the Ethiopian royal line claimed descent
-from {{c|2189|Solomon}} for three thousand years
-until {{c|2642|Haile Selassie}}'s twentieth-century bent.
+The kings of {{p|Ethiopia}} came down
+From {{c|2189|Solomon}}, three thousand years, the line
+Unbroken, crown to crown; and in the town
+And hills, the {{c|2644|Beta Israel}} kept the sign
 
-{{p|Ethiopia}} was never colonized
-in the nineteenth-century {{x|Scramble for Africa}} —
-held off the {{c|2643|Italians}} at {{p|Adwa}} in 1896,
-the only African state that defeated {{p|Europa}}.
+Of {{x|Torah}}, older than the {{x|Talmud}}'s word,
+Alone in highland, true; and so they keep
+Their faith. And {{p|Aksum}} waned, when it was heard
+That {{x|Islam}} held the trade routes, broad and deep,
 
-The country has Jewish communities too,
-the {{c|2644|Beta Israel}}, who practice a {{x|Judaism}}
-older than the {{x|Talmud}}, based on the {{x|Torah}},
-preserved in highland isolation from racism.
-
-Most were airlifted to {{p|Israel}} in the 1980s
-in {{x|Operations Moses and Solomon}}.
-A three-thousand-year lineage exiled
-to the ancestral homeland at last come.
-
-{{p|Aksum}} declined in the seventh century
-as the rise of {{x|Islam}} cut trade routes.
-The kingdom moved south and became
-the medieval Ethiopian kingdom of roots.
-
-{{c|2645|Lalibela}} in the twelfth century
-would carve eleven churches from solid rock,
-each one hewn down from a single stone,
-a {{x|New Jerusalem}}, a pilgrim's dock.
-
-{{p|Ethiopia}}'s story is the African Christian kingdom,
-ancient, persistent, mystical, strange,
-isolated but connected, deeply rooted,
-surviving every political change.
+And moved its seat southward. So honor them:
+The second realm of {{c|1497|Christ}}, the highland's crown,
+The {{c|2641|Ark}} at {{p|Aksum}}, {{c|2189|Solomon}}'s own stem,
+The queen of {{c|2212|Sheba}}'s son, who brought it down.
 
 
 # Chapter 191: Arabia Before Islam
