@@ -1789,90 +1789,90 @@ Say so, not whispered; say it; let it run.
 
 # Chapter 270: The King of the Goths
 
-The boy that Bureus taught came to the throne at sixteen, in 1611,
-Gustav Adolf, grandson of Gustav Vasa, in a kingdom at war
-On three sides, with {{p|Denmark}}, {{p|Russia}}, {{p|Poland}}, the heaven
-Of the {{p|North}} a ring of enemies. And his tutor had taught him, before
+The boy whom Bureus taught, at sixteen crowned,
+Sixteen-eleven: Gustav Adolf, heir
+Of Gustav Vasa, in a kingdom bound
+By war on three sides, {{p|Denmark}}, {{p|Russia}}; where
 
-Anything else, who he was: the heir of the Goths.
-The kings of {{p|Sweden}} had long called themselves kings of the Swedes,
-The Goths, and the Wends. Now the title would wear clothes.
-At the coronation festivities in 1617, to the needs
+{{p|Poland}} pressed too; the {{p|North}} a ring of foes;
+His tutor taught him first who he was: heir
+Of Goths. The kings of {{p|Sweden}} long since chose
+Their titles: Swedes, Goths, Wends; and now to wear
 
-Of a court that wanted a past, the young king rode out
-In the costume of Berik, the legendary first {{x|Gothic}} king,
-Who, the old chronicles said, had sailed south from {{p|Sweden}}, about
-The time of the Trojans, to found the {{x|Gothic}} nations. The ring
+The title, festive: sixteen-seventeen,
+At coronation feasts, the young king rode
+As Berik, the first {{x|Gothic}} king, the keen,
+Who sailed south out of {{p|Sweden}} on the road
 
-Of the tournament became a scripture of the state.
-The Goths had sacked {{p|Rome}}. The Goths had ruled {{p|Spain}}.
-The Goths were Swedes. So {{p|Sweden}}, small and poor and late,
-Was the oldest and the greatest. The invented chain
+Of Trojans' time, and founded {{x|Gothic}} lands;
+The tournament became the state's own creed:
+The Goths had sacked {{p|Rome}}; had ruled {{p|Spain}}; the strands
+Led back to Swedes: so {{p|Sweden}}, small, indeed,
 
-Of ancestry, from Bureus and the old {{x|Swedish}} chroniclers,
-Became the state myth: a Gothicism for an empire to come.
-And it came. The king was a genius of war. The rumblers
-Of his reforms: light cannon a few men could move, the drum
+Was oldest, greatest; and the chain was drawn
+By Bureus and the chronicles of old:
+A Gothicism for a realm to dawn;
+It came: the king, in war, a genius bold;
 
-Of disciplined small brigades, musketeers firing by rank,
-Cavalry that charged with the sword. And the conscription rolls,
-Every parish in {{p|Sweden}} writing down its young men, the blank
-Columns of the register filled with soldiers. The tolls
+Light cannon a few men could move; the drum
+Of brigades, muskets firing rank by rank;
+Horse charging with the sword; conscription's sum:
+Each parish wrote its young men; and, the blank
 
-Of it on the villages: one man in ten taken, and most did not come home.
-And the pride. In 1628 the great warship Vasa,
-Named for his grandfather's house, built higher than a dome,
-Gilded, carved with lions and {{x|Roman}} emperors, to be the master
+Columns filled up with soldiers; one in ten
+Taken; and most did not come home. And pride:
+In twenty-eight, the Vasa, built, as when
+A dome is built, too high, carved, gilded, wide,
 
-Of the {{p|Baltic}}, sixty-four guns on two decks, sailed out
-Into {{p|Stockholm}}'s harbour on her maiden voyage before the crowd,
-And a gust of wind heeled her over, and the water came in the gun-ports, and about
-A mile from the quay she sank, with her flags flying. The proud
+With lions, {{x|Roman}} emperors, to be
+The {{p|Baltic}}'s master, sixty-four guns' deck;
+Sailed out of {{p|Stockholm}}'s harbour, crowds to see;
+A gust: she heeled; the gun-ports drank; a wreck
 
-Ship was too tall for her keel. Hold that image on this day.
-In 1630 he landed in {{p|Germany}}, in the middle of the war
-Between the {{x|Catholic}} emperor and the {{x|Protestant}} princes, the way
-Of the Lion of the North, they called him, the saviour, for
+A mile from quay, she sank with flags still flown;
+Too tall for her keel. Hold that on this day.
+In thirty, he landed in war's own zone,
+{{p|Germany}}'s: the {{x|Catholic}} emperor's sway
 
-The {{x|Protestant}} cause, and paid by {{p|France}}, a {{x|Catholic}} crown,
-For it suited {{p|Paris}} too. At {{p|Breitenfeld}}, in 1631,
-He broke the emperor's army, and the cities opened, and the town
-Of {{p|Munich}} paid him tribute. And the soldiers, under the sun
+Against the {{x|Protestant}} princes; he came,
+The Lion of the North; and he was paid
+By {{p|France}}, a {{x|Catholic}} crown, which, all the same,
+Liked it for {{p|Paris}}; at {{p|Breitenfeld}} laid
 
-Of victory, did what armies do: they plundered,
-And the peasants of {{p|Germany}} learned a new word,
-The *{{x|Swedish}} drink*: filth poured down a man's throat. Hundred
-After hundred villages burned by the {{x|Gothic}} heirs. The bird
+The emperor's army low, thirty-one;
+The cities opened; {{p|Munich}} paid him toll;
+The soldiers, under victory's own sun,
+Did what all armies do: they plundered whole
 
-Of the war had no side. And on the sixteenth of November, 1632,
-At {{p|Lützen}}, in a fog like the fog at {{p|Sekigahara}},
-The king, short-sighted, rode ahead of his men, and was shot through,
-And fell from his horse, and was shot again, and the far
+Villages; peasants learned the *{{x|Swedish}} drink*,
+Filth poured down throats; and hundreds burned, the bird
+Of war had no side. And then, at the brink,
+November's sixteenth, thirty-two, the word
 
-Cavalry did not find his body till the evening, stripped.
-The Swedes won the battle. Their king was dead at thirty-seven.
-{{p|Sweden}} became a great power for a century, gripped
-By its {{x|Gothic}} dream: Rudbeck would prove it was Atlantis, the heaven
+Of {{p|Lützen}}, in fog; the short-sighted king
+Rode out ahead, was shot, and fell, was shot
+Again; till dusk they found him, stripped; the ring
+Of battle won; at thirty-seven, shot.
 
-Of the ancients, the source of all wisdom. The myth grew wilder
-As the empire grew. And in 1709 at {{p|Poltava}} it ended.
-On the {{x|Eighth Day of Awe}}, look at the dream that made a builder
-Build a ship too tall, and a nation pretend it had descended
+The Swedes had won; their king was dead. And then
+{{p|Sweden}} rose great, held by its {{x|Gothic}} dream;
+The {{x|Eighth Day of Awe}}: the dream that, for men,
+Built ships too tall, and made of kings a theme
 
-From the conquerors of {{p|Rome}}. The farmers at {{p|Bure}} were real.
-The Goths of the costume were not. And the conscript boys in the rolls
-Were real, and died in {{p|Germany}}, for a king's ideal
-Dressed in a legend. Repent of the legends that cost souls.
+Of {{p|Rome}}'s own conquerors. The farmers, too,
+At {{p|Bure}} were real; the Goths, as real, their kin;
+The conscript boys were real, and died, and through
+Their deaths the Goths' bright banner carried in.
 
-And keep the true things: the king was brave, and the cause
-Of freedom of conscience in {{p|Germany}} was saved in part by his war.
-The ship was raised in 1961 and stands in {{p|Stockholm}}, and the flaws
-Are on display, for children, the tallest ship, and the shore
+And keep: the king was brave; the cause was won
+In part by him: free conscience in that land.
+The ship stands raised in {{p|Stockholm}}; there, each one
+Of the flaws on display; the children stand
 
-She never left. Go and see her. A nation keeps its wreck
-On view, and teaches its children: this is what pride
-Does to a keel. That is a better myth than Berik. The deck
-Is the lesson. Stand on the quay. The water is on every side.
+There, where she never left; the nation's wreck
+On view, to teach its children what pride does
+To keels; with Berik's myth, upon the deck,
+The lesson stands; the water, as it was.
 
 Keep one more true thing. When the war was done,
 In sixteen forty-eight, from {{p|Prague}}'s old hoard
