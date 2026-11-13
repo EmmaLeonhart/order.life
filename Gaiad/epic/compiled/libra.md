@@ -1092,80 +1092,85 @@ The {{c|4126|Supreme Being}} in this book's own place.
 
 # Chapter 294: The Mountain Cherry
 
-In 712 a court lady's memory, or a court scholar's, was written down:
-The {{c|4132|Kojiki}}, the *{{x|Record of Ancient Matters}}*, the oldest book of {{p|Japan}},
-The kami from the beginning, {{c|4133|Izanagi}} and {{c|4134|Izanami}}, the crown
-Of the {{c|4135|Sun Goddess}}, the descent to {{p|Hyūga}}, the first emperor, the plan
+In seven-twelve, from memory, was set
+The {{c|4132|Kojiki}}: {{p|Japan}}'s oldest, well versed;
+{{c|4133|Izanagi}} and {{c|4134|Izanami}}; yet
+The {{c|4135|Sun Goddess}}'s crown; {{p|Hyūga}}; the first
 
-Of the land told as a family. And it was written in a script no one could easily read:
-{{x|Chinese}} characters used now for their sound, now for their sense,
-A puzzle of a book. Within a few years the court had a newer creed:
-The {{c|4136|Nihon Shoki}}, in proper {{x|Chinese}}, official, the dense
+Emperor; land as family; and read
+In script few could: the {{x|Chinese}} signs, which bore
+Now sound, now sense; a puzzle; and, instead,
+The {{c|4136|Nihon Shoki}}, {{x|Chinese}}, proper, more
 
-And dignified history; and the {{c|4132|Kojiki}} was put on a shelf
-And mostly left there for a thousand years. Then, in {{p|Matsusaka}},
-Near {{p|Ise}}, a cotton merchant's son who had failed at trade, and made himself
-A doctor of children instead, studied in {{p|Kyoto}}, the saga
+Official; and the {{c|4132|Kojiki}} was shelved
+A thousand years; and then, near {{p|Ise}}, came one,
+A cotton merchant's son, at trade, who delved,
+Failed, became a children's doctor; begun
 
-Of the old poems in his evenings: {{c|4137|Motoori Norinaga}}, born 1730.
-In 1763 an old scholar, {{c|4138|Kamo no Mabuchi}}, passed through his town
-On a pilgrimage to {{p|Ise}}, and stayed one night at an inn, and the young man came, and the empty
-Hours of that night were filled: the old man told him, set down
+At {{p|Kyoto}}, the old poems, evenings: so
+{{c|4137|Motoori Norinaga}}, oath-sworn;
+Sixty-three, {{c|4138|Kamo no Mabuchi}}, slow,
+On pilgrimage to {{p|Ise}}, stayed, and night-worn,
 
-Everything else and read the {{c|4132|Kojiki}}; I am too old to finish it; you do it.
-They never met again. They wrote letters. And the doctor began.
-For thirty-four years, while he treated the children of {{p|Matsusaka}}, he read through it,
-Every character, every sound, every name of every kami, the span
+Night at an inn; the young man came; and told
+To set all else aside, the old man said,
+"Read the {{c|4132|Kojiki}}; I'm too old"; they'd hold
+By letters only; and the doctor read
 
-Of the language reconstructed: how the old {{x|Japanese}} spoke, before the {{x|Chinese}} came.
-The *{{x|Kojiki-den}}*, the *{{x|Commentary on the Kojiki}}*, forty-four volumes, done
-In 1798. The oldest book of the land could be read again. The name
-Of every god was given back its sound. That is the gift, the one
+For thirty-four years, treating children, through
+Each character, each sound, each kami's name,
+The old tongue, before the {{x|Chinese}}, anew;
+The *{{x|Kojiki-den}}*, forty-four; then came
 
-This book and its makers stand on: the record of the kami, opened.
-And he gave more: reading the *{{x|Tale of Genji}}*, he found the phrase
-*{{x|Mono no aware}}*: the ache of things, the sadness of the cherry petals that ended,
-The heart moved by the passing of the world. The praise
+Ninety-eight: the oldest book read again;
+Each god's name given back its sound: the gift
+This book and makers stand on; and, for men,
+From the *{{x|Tale of Genji}}*, a phrase, the lift:
 
-Of feeling over moral lesson. That is his too.
-Here is the other edge of tradition:
-He taught that the {{x|Japanese}} heart had been corrupted by the {{x|Chinese}} mind, the *karagokoro*,
-And the {{x|Buddhist}}, and that the true way was the ancient one, the condition
+*{{x|Mono no aware}}*: the deep ache of things,
+The cherry's passing; feeling over rule;
+And his, too, was a longing: hearts, the strings
+Of {{x|Japanese}}, before the {{x|Chinese}} school
 
-Of the land before the foreign: the way of the kami, pure and native, revealed in the {{c|4132|Kojiki}}.
-That was a scholar's longing. In the next generation, {{c|4139|Hirata Atsutane}},
-Who called himself his disciple after he died, made it a creed, a stricter key:
-The emperor descended from the {{c|99|Sun}}, {{p|Japan}} the land of the gods, the cannon
+And {{x|Buddhist}} came, were pure; the kami's way,
+Native, in the {{c|4132|Kojiki}}; and the pure
+Has value, held as longing, held to stay;
+And then {{c|4139|Hirata Atsutane}}, more sure,
+
+His heir by choice, made it a creed: the throne
+From the {{c|99|Sun}}; {{p|Japan}}, the gods' land; as one,
+The longing made a creed of state; its own
+Arms reaching out: as if it were the gun
 
 Of the nation, pointing outward. The state
 Took up the longing, and it kept the rite
 Of kami, parted from buddhas: the great
 Work of {{x|State Shinto}}, and the war, the night.
 
-He wrote a poem: *If someone asks what the {{x|Japanese}} heart is,
-It is the mountain cherry blossoms, fragrant in the morning sun.*
-A lovely poem. In October 1944, the first units of the kamikaze, the quiz
-Of their names answered by it: *{{x|Shikishima}}*, *{{x|Yamato}}*, *{{x|Asahi}}*, *{{x|Yamazakura}}*. The young men, one by one,
+And it was real: a faith a state could hold,
+The rites of kami kept in hall on hall,
+A state religion, of worth, as of old;
+As this faith hopes to be, one day, for all.
 
-Named for the words of a doctor who had loved children.
-Hold that. This book is made by one who keeps the kami, and loves the old record,
-And founds a faith in the way of life, a kind of {{x|Shinto}}. The bewildering
-Lesson for her, and for every reader: the love of the ancient word
+He wrote: "Who asks the {{x|Japanese}} heart, told:
+The mountain cherry, fragrant in the sun
+Of morning"; lovely; and, as from the old,
+This book is made by one who keeps, as one,
 
-Can be turned into a weapon by someone else, a century on.
-Keep the commentary. Keep the reading of the names of the gods. Keep *mono no aware*.
-Keep the pure longing, the mixing, the dawn:
-The buddhas sat with the kami. And there
+The kami and the old record, and founds
+A faith in life's way, {{x|Shinto}}'s kind; and so,
+Love the old word; the purity that sounds;
+The mixing, too: the buddhas, long ago,
 
-Was always mixing. That is the true ancient way. {{c|4140|Norinaga}}'s grave
-Is on a mountain above {{p|Matsusaka}}, plain, and over it, as he asked, a mountain cherry.
-Visit it in spring. The petals fall. Let them. The nave
-Of the old faith is open. No one owns the blossom. Be wary,
+Sat with the kami; both, the ancient way;
+{{c|4140|Norinaga}}'s grave, plain, on a hill, made
+Above {{p|Matsusaka}}; in spring, the play
+Of petals from the mountain cherry's shade.
 
-And be moved. Both. The doctor read the oldest book for thirty-four years
-So we could read it. Read it. And when anyone tells you the heart of a people is pure,
-Remember the morning sun on the cherry, and the young men, and the tears.
-The ache of things is for everyone. That is the only cure.
+Visit; they fall; let them; none owns the bloom;
+The doctor read the oldest book, so long,
+So we could read it; read it; and the room
+Of feeling, ache of things, for all: the song.
 
 
 # Chapter 295: The Crown He Took
