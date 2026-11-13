@@ -3,181 +3,125 @@
 
 # Chapter 225: First Migration
 
-The Book of Lehi opens on the sea.
+The Book of Lehi opens on the sea:
+Not the warm lake, the river's shallow ford
+That apes could wade; but the {{p|Pacific}}, free
+And vast, the largest face of water, poured
 
-Not the warm and sheltered inland lake,
-Not the river-crossing that the ape could free-
-Wade at the shallows—but the opaque
+Across the hemisphere, where no land lay
+To pave with solid ground; and yet it called,
+They answered: sixteen thousand years, the day
+Before our era, when the north was walled
 
-And vast {{p|Pacific}}, the largest face
-Of water on the earth, the hemisphere
-Of ocean that no land-bridge could replace
-With solid ground—and yet the frontier
+By ice; the corridors were locked; the coast
+Was open. And the sea was lower then,
+By sixty fathoms; and the shelves, the most
+Of them, lay wide and tidal, for the men,
 
-Called, and they answered.
+Where the kelp thickened, and the otter, seal,
+The shore-bird, and the intertidal strand
+Gave food to those who knew the current's wheel;
+And Lehi knew the current, and the land:
 
-                         Sixteen thousand years
-Before the common era, when the ice
-Still locked the northern corridors, the shears
-Of glacial cold had sealed the overland device
+Not one man, but a people, and a line,
+A maritime and patient clan, of yore,
+Who fished the coasts of {{p|Asia}}; by the sign,
+Hopped from {{p|Japan}} to {{p|Kamchatka}}, and more,
 
-That later peoples would imagine—but the coast
-Was open. The coast was always open.
+To the {{p|Aleutian}} chain, the stepping-stones
+That arced across the north {{p|Pacific}}, teeth
+Of mountain rock; and southward, by the zones
+Of glaciers, blue and towering, beneath,
 
-The sea was lower then by sixty fathoms' post,
-The continental shelves were wide and unbroken
+Which calved their icebergs into fjords; through,
+Past {{p|Haida Gwaii}}, where current met the tide,
+And salmon ran in streams, the season's due,
+The first and oldest entry, by the side
 
-Platforms of exposed and tidal land
-Where the kelp beds thickened and the otter
-And the seal and the shore-bird and the strand
-Of the intertidal zone gave water
+Of ocean; thirst for headland, and for bay,
+The river-mouth where fish ran thick, and where
+The shellfish lay in intertidal clay,
+And driftwood washed ashore, for warmth and care,
 
-And food to anyone who knew the current.
+And for the frame of shelters on the beach.
+They did not walk to {{p|America}}; came
+By boat, the humble craft whose greatest reach
+Of all the {{x|Pleistocene}} was this, the same:
 
-And Lehi knew the current.
+Skin-boat, dugout, and the sewn-plank canoe
+That hugged the evergreen and kelp-draped shore;
+They drank the coast and ate the sea: the true
+Mussel and clam and urchin, rockfish, more,
 
-                                    Not one man—
-A people, a lineage, the recurrent
-And patient maritime clan
+The halibut; the tidal fisher's art,
+The eye that read the current and the swell.
+No {{p|Bering}} steppe of dust; for, from the start,
+The oldest Americans knew it well,
 
-Whose ancestors had fished the coasts of {{p|Asia}},
-Who had island-hopped from {{p|Japan}}
-To {{p|Kamchatka}}, from {{p|Kamchatka}} to the stadia
-Of the {{p|Aleutian}} chain—the span
+The ocean's rhythm; and their step, the stroke
+Of paddle, and their road the coast, through all;
+Their compass was the gray whale's road, which spoke
+From {{p|Asia}} to {{p|America}}, the call
 
-Of stepping-stones that arced across the north
-{{p|Pacific}} like a bridge of volcanic teeth—
-And from there, southward, pouring forth
-Along the coast, beneath
+The whale had known for ages; and the men
+Followed the great leviathan's bright way,
+The breath along the kelp-highway; and then
+The proof: at {{p|Monte Verde}}, south, it lay,
 
-The glaciers' towering walls of blue
-That calved their icebergs into the fjords,
-Past {{p|Haida Gwaii}} and the rendezvous
-Of current and of tide, the hoards
+In {{p|Chile}}, fourteen thousand years ago:
+Folk lived at the {{p|Americas}}' far end
+Before the inland corridor would show
+An opening; and so by sea they'd wend.
 
-Of salmon running thick in every stream—
-The maritime migration, the first
-And oldest entry to the American dream,
-If dream it was—the thirst
+Off {{p|California}}, {{p|Channel Islands}} hold
+The Arlington Springs Woman's old bones, there,
+Thirteen thousand years, alone, silent, cold,
+On isles that only boats could reach; and where,
 
-For the next headland, the next sheltered bay,
-The next river-mouth where the fish were thick
-And the shellfish lay in the intertidal clay
-And the driftwood washed up, quick
+In {{p|Oregon}}, at {{p|Paisley Caves}}, the trace
+Of the first Americans still remains;
+By trowel and by screen, the coast's own case
+Is proved: they came by water, and the plains
 
-And useful, for the fire and the frame
-Of the temporary shelter on the beach.
+Of both the continents they filled, while yet
+The inland lay locked. And they went on south,
+Past {{p|California}}'s golden kelp, and set
+Down by {{p|Mexico}}'s warm {{p|Pacific}} mouth,
 
-They did not walk to {{p|America}}. They came
-By boat—the humble craft whose reach
+Through {{p|Central America}}'s narrow crest,
+To {{p|Colombia}}, {{p|Ecuador}}, the long
+Peru's coast, where the {{p|Humboldt Current}}'s best
+Fishery on earth, the anchovy's song,
 
-Was the greatest vehicle of the {{x|Pleistocene}}:
-The skin-boat, the dugout, the sewn-plank
-Canoe that hugged the coastline's evergreen
-And kelp-draped shore—they drank
+The cold upwelling of the fertile deep.
+And some turned inland, up the rivers, through
+The passes, the interior's wide sweep:
+The grassland, forest, valley, desert; new
 
-The coastal waters and they ate the sea's
-Abundance: mussel, clam, and urchin,
-Rockfish, halibut, the expertise
-Of the tidal fisher and the searchin'
+Homes; but the coast was first, the purest road,
+The oldest one, the mother-road of all,
+The {{p|Americas}}' first way. Honor, owed,
+To Lehi, the first migrant, at the call
 
-Eye that read the current and the swell.
+Of the sea-road; whose drama was the oar,
+The patient reading of the coast's long strand;
+Who did not wait for melting ice, nor for
+The land-bridge, but who took the ocean's hand,
 
-No {{p|Bering}} bridge of dusty steppe—
-The oldest Americans knew well
-The ocean's rhythm, and their step
-
-Was the paddle-stroke, their road the littoral,
-Their compass the migration of the whale
-Who followed the same coast, the literal
-And ancient highway of the gray whale's trail
-
-From {{p|Asia}} to {{p|America}} and back—
-The whale had known this road for millions
-Of years, and the human followed in the track
-Of the leviathan's brilliant pavilions
-
-Of breath along the kelp-highway's lane.
-
-And the evidence? {{p|Monte Verde}},
-In southern {{p|Chile}}—fourteen thousand years' domain
-Of human habitation, the sturdy
-
-And undeniable proof that people lived
-At the far end of the {{p|Americas}}
-Before the inland ice-free corridor contrived
-To open—which means the {{p|Americas}}'
-
-First peoples came by sea.
-
-                           The {{p|Channel Islands}}
-Off {{p|California}}'s coast preserve the bone
-Of Arlington Springs Woman—the silence
-Of thirteen thousand years, alone
-
-On an island that could only be reached by boat.
-
-{{p|Paisley Caves}} in {{p|Oregon}}, the coprolites
-Of the first Americans—note by note
-The evidence accumulates, the rights
-
-Of the coastal theory vindicated
-By the discipline of trowel and screen:
-They came by water, and they populated
-Both continents while the ice was keen
-
-And the interior was locked.
-
-                               And south they went—
-Past {{p|California}}'s golden kelp-forests,
-Past {{p|Mexico}}'s warm {{p|Pacific}} coast, the bent
-And narrowing land of {{p|Central America}}'s crests,
-
-To {{p|Colombia}} and {{p|Ecuador}} and the long
-Peruvian coast where the {{p|Humboldt Current}} fed
-The richest fishery on earth—the song
-Of the anchovy and the widespread
-
-Upwelling of the cold and fertile deep.
-
-And some turned inland—up the rivers,
-Through the passes, into the sweep
-Of the interior, the givers
-
-Of new habitats: the grassland and the forest,
-The mountain valley and the desert floor—
-But the coast was first, the coast was the purest
-And oldest road, and the shore
-
-Was the mother-road of the {{p|Americas}}.
-
-Honor Lehi—the first migrant,
-The sea-road walker, whose dramas
-Were the paddle and the elegant
-
-And patient reading of the coast:
-The one who did not wait for the ice to melt,
-Who did not need the land-bridge's post
-But took the ocean's hand, and felt
-
-The kelp beneath the hull, the current's pull,
-The whale's road opening ahead—
-And followed it, faithful and dutiful,
+And felt the kelp beneath the hull, the pull
+Of current, and the whale's road out ahead;
+And followed it, so faithful and so full,
 To a world where no human foot had tread,
 
-And made it home.
+And made it home. The Book of Lehi starts
+Not with a land-bridge, but a boat; the note
+Not of the hunters, but the fishers' arts,
+The paddle's stroke, the sea-bird's crying throat
 
-                   The Book of Lehi begins
-Not with a land-bridge but a boat,
-Not with a hunter's overland campaigns
-But with a fisher's paddle-stroke, the note
-
-Of the sea-bird's cry above the morning swell—
-And the coastline, stretching south and south,
-The longest road that any tongue would tell,
-And the ocean's salt upon the mouth
-
-Of the first American.
+Above the morning swell; the coast, that went
+South, and still south, the longest road a tongue
+Would tell; and on the mouth, the salt it lent,
+The sea, to the first American, young.
 
 
 # Chapter 226: Division of Tongues
