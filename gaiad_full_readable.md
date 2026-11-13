@@ -45400,15 +45400,15 @@ Fill as they near, and time itself unlocks.
 
 October's tenth, in nineteen-eleven,
 In {{p|Wuchang}}, now {{p|Wuhan}}, the soldiers rose;
-Province on province fell; and at the close
-Of the year, at {{p|Nanjing}}, under heaven,
+Province on province fell, under heaven;
+At {{p|Nanjing}}, as the year came to its close,
 
 They chose Sun Yat-sen, come home from abroad,
 On December's twenty-ninth; and he swore
-On New Year's Day of nineteen-twelve; the door
-Of the republic's first year opened. Awed,
+On New Year's Day of nineteen-twelve, the broad
+Republic's first year opened at its door.
 
-The court still kept Puyi, six, on its throne.
+The court still kept Puyi, aged six, on its throne.
 February's twelfth, an edict went out,
 Made public by Longyu; it was her own,
 Guangxu's widow, whose nephew's line ran out.
@@ -45428,8 +45428,8 @@ To build a government, and so to treat
 With the people's army; and, at that hour,
 To make five peoples one, the list complete:
 
-{{x|Manchu}}, {{x|Han}}, {{x|Mongol}}, {{x|Hui}}, {{x|Tibetan}}, one
-Republic; and the house that signed it led.
+The {{x|Manchu}}, {{x|Han}}, the {{x|Mongol}}, each and one,
+{{x|Hui}}, {{x|Tibetan}}, one republic, wed;
 On February's fifteenth, it was done:
 He, president; and in {{p|Beijing}}, instead
 
@@ -45438,9 +45438,9 @@ Stayed where he stood. And the child in his hall
 Kept his title, by articles complete,
 A little court within the palace wall,
 
-Till November fifth, nineteen twenty-four,
-When Feng Yuxiang's men put him out the door.
-A courtesy in a palace is small;
+Till November fifth, nineteen twenty-four.
+A courtesy in a palace is small:
+Feng Yuxiang's men put him out the door;
 The winter rite was more; it was for all.
 
 South of the walls, the {{p|Temple of Heaven}},
@@ -45464,8 +45464,8 @@ The {{x|Kongjiaohui}}, and asked the state to tie
 Its rites to Confucius, the faith of all.
 
 They asked, in nineteen-thirteen: make it law.
-Drafters, at the {{p|Temple of Heaven}}, saw
-Another road: no state faith, but a clause:
+Another road, no state faith, but a clause,
+Drafters, at the {{p|Temple of Heaven}}, saw:
 The schools would rest their virtue on his laws.
 
 It was the {{x|Temple of Heaven Draft}}. Then
@@ -45494,9 +45494,9 @@ The day, the place, the president; and there
 Heaven watching; the charge the people claimed.
 
 The prayer was burned, as that rite burns its word.
+He was {{p|China}}'s Napoleon, a son;
 Some saw a stair toward a throne; we heard
-Our feast. He was {{p|China}}'s Napoleon,
-Like Ungern, the baron Mongolian.
+Our feast; like Ungern, Mongol baron, one.
 
 Next winter, on December's twelfth, he took
 An emperor's name, {{x|Hongxian}}, never crowned;
@@ -45504,12 +45504,12 @@ He put it down in March; in June, the book
 Closed on his death. No president came round
 
 Again to the mound; that fire was the last
-The state lit there for Heaven. One man passed;
-The quarrel did not: in nineteen-sixteen,
+The state lit there for Heaven. In 'sixteen,
+One man was gone; the quarrel had not passed;
 With parliament restored, Kang's men were keen
 
 To make Confucius' faith the faith of state;
-And Chen Duxiu, in {{x|New Youth}}, answered no;
+Chen Duxiu, in {{x|New Youth}}, answered no;
 The {{x|New Culture}} came, and shut the old gate
 Of the sage. Nineteen-seventeen: let go.
 
