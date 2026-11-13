@@ -1958,60 +1958,60 @@ And February first: two maps, which live.
 
 # Chapter 329: The Covenant of Peace
 
-Forty-five years later the first harvest rite of a reign
-Was done again.
-Hirohito died on the seventh of January, 1989.
-Akihito was emperor from that day.
-The era is called {{x|Heisei}}.
-The night rite did not make him emperor.
+Some forty-five years on, the harvest rite
+First of a reign was done again; and when
+Hirohito died, 'eighty-nine; the light
+Akihito's, as emperor from then;
 
-On the twelfth of November, 1990,
-In the palace hall in {{p|Tokyo}},
-The accession was proclaimed.
-That day was a state ceremony.
-Guests from other countries were in the room.
-That day is not the night rite.
+The era called {{x|Heisei}}. The night rite made
+Him not the emperor. 'Ninety: a hall,
+November twelfth, in {{p|Tokyo}}, displayed
+Accession, state ceremony; and all
 
-On the eighth of February the two provinces were chosen.
-{{p|Akita}} for the yuki rice, the field to the north and east.
-{{p|Ōita}} for the suki rice, the field to the south and west.
-The yuki rice was cut on the twenty-eighth of September.
-The suki rice was cut on the tenth of October.
+The guests from other countries in the room;
+Not the night rite. February eighth: two
+Chosen: {{p|Akita}}, yuki rice, the bloom
+Of north and east; and {{p|Ōita}}, suki, too,
 
-On the twenty-second and the twenty-third of November,
-In temporary halls in the {{p|East Gardens}} of the palace,
-He offered new rice to the imperial ancestors
-And to the deities of heaven and earth,
-And he ate of what he had offered.
-The court's sentence is thanks, and a prayer
-For peace and for the harvest.
-The first hall was the evening of the twenty-second,
-From half past six until half past nine.
-The second was after midnight, from half past twelve
-Until half past three on the morning of the twenty-third.
-Do not collapse the two dates.
-The twenty-third is the public holiday on the old date
-Of the yearly rite, {{x|Niiname-sai}}.
-This night is the {{x|Daijōsai}}, the first of a reign.
-It is once. The one before it was in 1928.
-Do not say the great rite had been kept every November.
+The south and west; the yuki cut, the late
+September twenty-eighth; October ten
+The suki; then, November, on the date
+The twenty-second, twenty-third; and then,
 
-The papers spoke of a sun goddess and a bed.
-The household's ritualists said he does not lie on it.
-A prayer for peace is not a report that the peace was finished.
+In temporary halls, {{p|East Gardens}}' round,
+To imperial forebears offered rice,
+And to the gods of heaven and of ground;
+And ate of what he offered: sacrifice,
+
+For peace and for the harvest. The first hall,
+Evening, the twenty-second, six to nine;
+The second, after midnight, until all
+Three-thirty, on the twenty-third; the line
+
+Of public holiday, the old date kept
+Of the yearly {{x|Niiname-sai}}; this night
+The {{x|Daijōsai}}, first of a reign, stepped;
+The one before, in 'twenty-eight; the rite.
+
+The papers spoke: sun goddess, and a bed;
+Ritualists: he does not lie on it;
+A prayer for peace is not peace finished, said
+As its own thanks. And, as this book holds fit,
+
 The law called it a house rite, not of state;
-The purse was argued in the long debate,
 Religious act, or public money spent:
+The purse was argued in the long debate,
 One house, one state: the state paid, as was meant.
-It cost two and a quarter billion yen.
-The constitution's word for him was not changed that night.
-The {{x|English}} word divine is not this offering.
-Do not say the harvest undid the {{x|New Year}} sentence.
-Do not say that sentence had made the harvest impossible.
 
-A broken offering and a full one are not the same rite.
-Both are a thanks.
-A thanks is not yet the peace it names.
+It cost two and a quarter billion yen;
+This book holds it a state rite, as it should;
+The constitution's word, unchanged; and then
+Divine, the {{x|English}}, is not this; the good
+
+Of harvest undid not the {{x|New Year}}'s line,
+Nor that line bar the harvest. Broken, whole,
+Two offerings, not one rite; each, a sign
+Of thanks; and thanks names peace, not yet its whole.
 
 
 # Chapter 330: The Source Book
