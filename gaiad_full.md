@@ -43120,85 +43120,70 @@ Write knowledge down, and make it free, and great.
 
 # Chapter 287: The Bard Who Never Was
 
-In 1746, on the moor at {{p|Culloden}}, the last {{x|Jacobite}} army broke,
-And the government set about unmaking the {{p|Scottish Highlands}}:
-The clans disarmed, the chiefs' powers taken, and a law that spoke
-Against the tartan itself, the kilt, the plaid, the islands'
+In forty-six, {{p|Culloden}}'s moor: there broke
+The last {{x|Jacobite}} host; the realm, to stay,
+Unmade the {{p|Scottish Highlands}}: clans, the yoke
+On chiefs; the tartan, kilt, and plaid's display
 
-And the glens' own dress, forbidden to every man not in the army,
-For thirty-five years. The {{c|4058|Gaelic}} world was being cleared.
-And in 1760, out of that defeated country, a young man, {{c|4059|James Macpherson}}, a tutor, calmly
-Published a small book in {{p|Edinburgh}}: *{{x|Fragments of Ancient Poetry}}*, the weird
+Banned for thirty-five years; the {{c|4058|Gaelic}} world
+Was being cleared; in sixty, from that land,
+{{c|4059|James Macpherson}}, a tutor, young, unfurled
+In {{p|Edinburgh}} a small book, at hand:
 
-And mournful voice of a blind bard of the third century, {{c|4060|Ossian}},
-Son of the hero {{c|4061|Fingal}}, singing of his dead son {{c|4062|Oscar}}
-And the warriors of the mist, the ghosts on the wind, the ocean
-Grey under the moon, the fallen, the harp. And the stir
+*{{x|Fragments of Ancient Poetry}}*, the voice
+Of {{c|4060|Ossian}}, blind bard of ages gone,
+Son of {{c|4061|Fingal}}, sang {{c|4062|Oscar}}, dead; his choice
+Of mist, ghosts on the wind, the grey sea's dawn,
 
-Was instant. Gentlemen paid for him to go into the {{p|Highlands}}
-And collect more. He came back with *{{c|4061|Fingal}}*, an epic, in 1761,
-And *{{x|Temora}}* two years after: a {{c|4063|Homer of the North}}, the islands'
-Own {{x|Iliad}}, recovered. And all of {{p|Europe}} wept. The sun
+The moon, the fallen, and the harp. The stir
+Was instant: gentlemen paid him to go
+Up to the {{p|Highlands}}, more, the {{c|4058|Gaelic}} burr;
+He brought back *{{c|4061|Fingal}}*, sixty-one; and so
 
-Of the {{x|Romantic}} age rose on those pages. {{c|4064|Goethe}}'s young {{c|4065|Werther}},
-Before he kills himself, reads {{c|4060|Ossian}} aloud to the woman he loves.
-{{c|4066|Napoleon}} carried {{c|4060|Ossian}} on campaign, and had his palace hung with the further
-Dreams of it, painted, the bards' ghosts; and when, as he approves,
+*{{x|Temora}}*: {{c|4063|Homer of the North}}, in sight,
+The islands' {{x|Iliad}}; and {{p|Europe}} wept;
+{{x|Romantic}} age rose on those pages' light;
+{{c|4064|Goethe}}'s young {{c|4065|Werther}} read him, before he stepped
 
-He stood godfather to the son of his marshal {{c|4067|Bernadotte}},
-He named the boy {{c|4062|Oscar}}, for the son of {{c|4060|Ossian}}. And {{c|4067|Bernadotte}} became
-The king of {{p|Sweden}}, and the boy became {{c|4068|Oscar the First}}: the knot
-Of the {{x|Swedish}} royal house tied by a hero of a poem. The name
+Into his death, aloud, to her he loved;
+And {{p|Sweden}}'s kings, today, bear {{c|4062|Oscar}}'s name,
+Born of the bard's son; and his, beloved,
+{{c|4069|Selma}}, {{c|4061|Fingal}}'s hall, a girl's name, the same:
 
-{{c|4069|Selma}}, too, the hall of {{c|4061|Fingal}}, became a girl's name in {{p|Sweden}}:
-{{c|4070|Selma Lagerlöf}} carried it. {{c|3593|Jefferson}} called {{c|4060|Ossian}} the greatest poet
-That ever existed. {{c|4071|Schubert}} set him. And the ancient, the hidden
-{{c|4058|Gaelic}} bard was a modern man's invention. Did {{c|4072|Macpherson}} know it?
+{{c|4070|Selma Lagerlöf}} bore it; and, as one,
+{{c|3593|Jefferson}} called him greatest ever; and
+Then {{c|4073|Samuel Johnson}}, in {{p|London}}, as one
+Who doubted, asked for manuscripts in hand;
 
-He knew. {{c|4073|Samuel Johnson}}, in {{p|London}}, said from the first: show me the manuscripts.
-{{c|4072|Macpherson}} never could. A committee of the {{x|Highland Society}} looked in 1805,
-After his death, and found: he had heard real {{c|4058|Gaelic}} ballads, the scripts
-Of the old {{x|Fenian}} tales still sung in the glens, alive,
+{{c|4072|Macpherson}} had them in the glens: the songs
+Of old {{x|Fenian}} tales still sung, alive;
+From them he made the whole; and so belongs
+The bard to them; the ancient voice, to thrive
 
-And from them he made something else: his own melancholy,
-His own heroes, his own mist, in a prose no {{c|4074|Gael}} had ever sung.
-Some fragments were old. The whole was new. The folly
-Was not the making. It was the lie about when it was made. The tongue
+In mist and harp and ghosts; the glens, the lands,
+The singers, cleared, with families, to sea
+For {{p|Canada}}; the tartan, banned, in hands
+Of clans came back again, as it should be:
 
-Of the real {{c|4058|Gaelic}} poets, who were alive, and singing, and being cleared
-Off the land with their families onto the ships to {{p|Canada}},
-Was drowned out by the invented bard. And the real tartan, feared
-And forbidden, came back as a costume, the clan plaids, the banner of
+Tradition made; and now, the thing to say,
+The mirror on this book: the one who made
+This scripture said of it, in her own way:
+It feels ancient, she said, though newly made,{{fn|Her words: "It feels like an ancient tradition. That couldn't have been made in the modern day, except it was made in this year."}}
 
-A {{x|Highland}} that had never quite been: a king's visit in 1822
-Dressed in it, the clans assigned their patterns by the merchants.
-That is invented tradition at its purest. And now the thing to do,
-The hardest, is to turn the mirror on this book. The servants
+Twenty twenty-six: as {{c|4060|Ossian}} came
+From glens and one man's making, so this book
+From records and one woman's: both the same,
+Ancient in feeling, new in hand; and look:
 
-Of the {{x|Gaiad}} must hear it. The one who made this scripture said,
-Of what she loves in it: *It feels like an ancient tradition.
-That couldn't have been made in the modern day, except it was made in this year.* The thread
-Between her and {{c|4072|Macpherson}} is the feeling; the division,
+No seam between the dream and record's page;
+Tradition gets its age by being kept,
+As all traditions did; and, age to age,
+This book will be kept too. The singers wept
 
-The only one, and it is everything, is the date. He hid it.
-She writes it on the page. This book was written in 2026, with machines,
-With the help of a writing machine, from the records, and it says so. The rid
-Of the lie is the whole difference. The ancient sheen
-
-Is a style. It is not a claim. {{c|4060|Ossian}} never existed.
-The bard of this book exists, and her name is on it, and the year.
-Love the mist and the harp and the ghosts. They are not resisted.
-But write the date. Show the manuscripts. Say: I made this here.
-
-Then the tradition, if it lasts, will be old in time, honestly,
-The way every tradition got old: by being kept.
-{{c|4060|Ossian}} was a forgery that moved the world. This book will be modestly
-New, and say so, and hope to be kept. And the real singers who wept
-
-On the ships from the cleared glens: their songs are in the archives now,
-Collected later, by people who wrote down who sang and when.
-Remember them: {{c|4075|Duncan Ban MacIntyre}}, the hunter-poet, the bough
-Of his *{{x|Praise of Ben Dorain}}*, real, and dated, and made by a man.
+From cleared glens; and their songs are archived now,
+In books, with singer named; remember, and
+{{c|4075|Duncan Ban MacIntyre}}, the hunter's bough,
+The *{{x|Praise of Ben Dorain}}*, made by his hand.
 
 
 # Chapter 288: Two Navigators
