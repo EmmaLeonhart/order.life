@@ -150,10 +150,10 @@ West of it {{p|Spain}}'s, east {{p|Portugal}}'s, the sea.
 
 At {{p|Tordesillas}} the kings moved it west;
 The fisherman's heir split between two crowns
-A world they'd never seen; and all the rest,
-{{c|3705|Taíno}}, {{c|3403|Inca}}, {{c|3706|Tupinambá}}, the towns,
+A world they thought was small and finite, pressed
+Into a field to share, like farms and towns:
 
-Unasked. The plan was paper, and the writ
+The old small cosmos' last hurrah; the writ
 The paper. Fifteen hundred years: a line
 From fisherman to this; and, keeping it,
 Some saints, some murderers; the chair divine;
@@ -218,18 +218,13 @@ Of scurvy, which killed more than half their craft;
 
 The pepper paid the voyage sixty-fold.
 And so the sea was opened, and the hem
-Of the world lifted. Hear the price, as told:
-{{c|3711|Da Gama}} came again, with guns; and them,
-
-The pilgrims, homeward bound from {{p|Mecca}}, he
-Took on the {{c|3712|Miri}}, stripped and burned; the gold
-The women offered for their lives; the sea
-Took children in the flame. Then, harsh and bold,
+Of the world lifted. Then, with cannon, bold,
+{{c|3711|Da Gama}} came again; and after them,
 
 {{c|3713|Albuquerque}} took {{p|Goa}}, took the strait,
 {{p|Melaka}}, where all {{p|Asia}}'s trade ran through,
-The gate of cloves; the free bazaar, of late,
-Became a toll road; pay, or burn, they knew.
+The gate of cloves; and {{c|3212|Portuguese}}, by weight
+Of passes, ruled the sea the dhows once knew.
 
 {{c|3714|Cabral}}, in fifteen hundred, sailed too far
 West, bound for {{p|India}}, and found {{p|Brazil}},
@@ -288,10 +283,10 @@ One sphere to sail around; one market, knit;
 
 One reckoning of days. The many grown
 One world, by cannon, pepper, and by sun.
-The joining starts: by force; the temple's stone;
-A knee; a slave who came home; hold each one.
+The joining starts: in trade; the temple's stone;
+A knee; the goddess and the {{c|3708|Mother}}, one.
 
-Hold all three. The sea joins; and from this day
+So hold it. The sea joins; and from this day
 The world will not be free of all the rest
 Of the world; many seas have passed away:
 One sea, one sphere, one market, east to west.
@@ -1005,9 +1000,9 @@ Her mother's, comes from {{c|3809|Bures}}; and of old,
 Born fifteen-oh-five, her child: {{c|3811|Kerstin}}, born
 In thirty-three; they stand before the scrolls,
 Alive in the family book; and, sworn,
-Keeper's one oath: say which is which; the rolls
+Its keeper holds them true, as the tax rolls
 
-Begin the {{c|3809|Bures}} sure; the book, still more.
+Hold Olof true: one line, one kin, and more.
 {{c|3812|Gustav Vasa}} died in sixty; he made
 A state from a rebellion, and, before,
 A church out of a ledger; land, debt, laid;
