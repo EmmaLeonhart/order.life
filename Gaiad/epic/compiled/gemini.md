@@ -1431,30 +1431,35 @@ And living in the light. And that's the core:
 Not only {{c|1912|Jesus}} teaching, nor, it's said,
 The failed messiah, dead, and nothing more,
 
-But {{c|1912|Jesus}} risen, reigning, setting free.
+But {{c|1912|Jesus}} risen, reigning, setting free,
+Who lives, and reigns, and frees us, one and all;
+And so the twelve went out, as it would be,
+To tell it, and to answer to his call.
+
 Iry-Hor, first named, was kept for the few,
-His name the first we know, a king's, to see;
-But {{c|1912|Jesus}} keeps the many, he who knew
+his name the first we know, a king's, alone;
+but {{c|1912|Jesus}} keeps the many, he who knew
+the poor, the dead unnamed, each one his own.
 
-The poor, the dead unnamed, each one his own.
 He left a son he never lived to see,
-Born on {{x|Pentecost}}'s day, the Just, alone;
-In {{p|Tarsus}} first, then {{p|Rome}}, where he was free,
+born on the day of {{x|Pentecost}}, the Just;
+in {{p|Tarsus}} first, then {{p|Rome}}, where he was free,
+and Petronilla married him, in trust.
 
-And Petronilla married him, in trust.
 So let his son have a good life, I say:
-The father's road was horror, as it must;
-His line ran down to {{c|3687|Theophylact}}'s day,
+the father's road was horror all along;
+his line ran down to {{c|3687|Theophylact}}'s day,
+the corrupt popes, the punchline of the song.
 
-The corrupt popes, the punchline of the song.
 And in {{p|Jerusalem}}, a little band
 Met in an upper room, and all along
 They prayed, and broke the bread, and hand in hand
+Shared all, and waited, singing a new song;
 
-Shared all, and they waited for his return;
-And then the spirit came, on tongues of flame,
-And they spoke tongues; and so began to burn
-The word, to go out to the world, his name.
+They waited his return; and then, in flame,
+The spirit came on them, on tongues, to burn;
+And so the word went out, in his own name,
+To all the world, to all who'd hear and learn.
 
 
 # Chapter 181: Buddhism Enters the Han
