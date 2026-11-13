@@ -37141,195 +37141,135 @@ Of land they stood on, raised it overhead.
 
 # Chapter 235: Desert & Cliffs
 
-The desert teaches everything or nothing.
-
+The desert teaches everything or none:
 Those who came to the {{p|Southwest}}'s burning floor
-Of canyon, mesa, and the stunning
-Silence of the arid corridor
+Of canyon, mesa, silence, and the sun,
+'Twixt {{p|Rockies}} and {{p|Sierra Madre}}'s door,
 
-Between the {{p|Rockies}} and the {{p|Sierra Madre}}
-Found a land that offered little freely—
-The rain fell rarely, and the padre
-Of all survival lessons spoke severely:
+Found little given freely; and the rain
+Fell rarely; and the teacher of all things
+That live spoke stern: Adapt or perish; plain,
+No third way. Three peoples heard what that brings,
 
-Adapt or perish. There is no third way.
-
-Three peoples heard that lesson and obeyed,
-And each composed a different desert essay
+And each wrote its own essay of the sand
 On how the human mind, when unafraid
+Of hardship, turns the wasteland green: the land
+First, of the Hohokam, canal and spade,
 
-Of difficulty, turns the wasteland green.
-
-                                          First—
-The Hohokam, the canal-builders, seen
-In what is now {{p|Phoenix}}'s asphalt-nursed
-
-And sprawling grid—but fifteen hundred years
-Before the modern city drank the same
-Dry river's water, Hohokam engineers
-Had mastered what {{p|Phoenix}} would later claim
-
-As its own invention: irrigation.
+Where {{p|Phoenix}} spreads its asphalt grid today;
+But fifteen hundred years before, they drank
+The river: Hohokam had found the way
+Of irrigation, bank by channeled bank:
 
 Hundreds of miles of hand-dug channels led
-The {{p|Salt}} and {{p|Gila}} Rivers' allocation
-Of snowmelt water to the planted bed
+The {{p|Salt}} and {{p|Gila}} Rivers' snowmelt, poured
+To corn and squash and cotton in the bed
+Of the {{p|Sonoran}} furnace; clay-lined, stored
 
-Of corn and squash and cotton in the {{p|Sonoran}}
-Desert's furnace heat—the canals were lined
-With clay to slow the seepage, and the foreign
-Concept of a desert, re-designed
+Against the seepage; and the desert, made
+By human labor into garden ground,
+Was the Hohokam's quiet gift; no shade
+Of pyramid, of temple; but they found
 
-By human labor, into a garden
-Was the Hohokam's great and quiet gift—
-No pyramid, no temple, but the pardon
-Of the desert's harshness, the strategic lift
+The desert's harshness pardoned; and they drew
+Water from riverbed to field; the yield
+Far more than the bare desert ever grew
+Fed many, that the dry land could not shield.
 
-Of water from the riverbed to the field
-That turned the brown to green and fed
-A population that the desert's yield
-Alone could never shelter, never fed.
+They built their ball courts too: the rubber game
+That {{p|Mesoamerica}} invented, played
+In the {{p|Sonoran}} heat, the drama, same
+Of cosmos; thought came northward, in the trade
 
-They built their ball courts too—the rubber game
-That {{p|Mesoamerica}} had invented, played
-Here in the {{p|Sonoran}} heat, the same
-Cosmological drama, the cascading trade
+Along the trails from {{p|Mexico}} to these
+Dry lands; for cultures are not islands; hands
+Pass on the thought. And second, in the trees,
+The Mogollon of the high mountain lands,
 
-Of ideas flowing north along the trails
-That connected {{p|Mexico}} to the arid lands—
-For cultures are not islands: the details
-Of one tradition pass through many hands.
+Between the desert and {{p|Mogollon Rim}},
+The potters, with their Mimbres ware, the rare
+Black-on-white, with a line so sure and trim,
+So spare, so absolute, so full of care:
 
-                                         Second—
-The Mogollon of the mountain zone,
-The transitional, the lesson reckoned
-Between the desert floor and the pine-blown
+Of fish and crane and rabbit, figures, bold
+And playful, dancing on the bowl; each one
+A scroll of nature, to the essence told:
+One line, the wing; one curve, the river's run;
 
-Ridges of the {{p|Mogollon Rim}}—
-The highland potters whose Mimbres ware
-Would prove the finest of the interim
-Between the everyday and the rare:
+One dot, the eye: the potter knew that all
+Could be reduced to essence, perfect, dry,
+The living form abstracted. At the fall
+Of the potter, the finest bowl, to die,
 
-Black-on-white ceramics painted with a line
-So confident, so spare, so absolute
-In its precision that the bold design
-Of fish and crane and rabbit, the astute
+Was killed: a hole punched through the painted clay
+To free the vessel's soul, to go below
+The floor beside the dead; and so, the way
+Of art for life and death: and both would show
 
-And playful figures dancing on the bowl,
-Would make the modern minimalist weep
-With envy—every vessel was a scroll
-Of the natural world distilled to the deep
+The beauty that outlived the potter's day.
+And third, the greatest, in ambition, scale:
+The Ancestral Puebloans, and then their way
+Of {{p|Chaco Canyon}}'s monumental tale:
 
-And essential gesture: one line for the wing,
-One curve for the river, one dot for the eye—
-The Mimbres potter knew that everything
-Could be reduced to the essential, the dry
+In sandy wash below the canyon's stage
+Of rock and sage, the Puebloans would then show
+What gathered human will could build, the gauge
+Of the unlikely: houses, row on row,
 
-And perfect abstraction of the living form.
+{{p|Pueblo Bonito}}, with six hundred rooms,
+Four stories, fitted stone, the largest host
+In {{p|North America}}; and as it looms,
+{{p|Chaco}}, no town, but something else: a post
 
-And when the potter died, the finest bowl
-Was "killed"—a hole punched through the warm
-And painted clay to free the vessel's soul
+Of ceremony, gathering, a crown
+Of roads that met upon the canyon's floor:
+The roads ran straight, thirty feet wide, cut down
+Through mesa-tops, for ritual, and more:
 
-To accompany the dead below the floor—
-The art was made for life and made for death,
-And neither purpose canceled what it bore:
-The beauty lived beyond the potter's breath.
+Not roads for trade, but for the sacred way,
+Like Nazca lines laid out upon the land,
+Aligned to solstice, equinox's day,
+The pilgrims' paths, as drawn by sacred hand.
 
-                                          Third—
-And greatest in ambition and in scale—
-The Ancestral Puebloans, who stirred
-The canyons and the mesas to the tale
+{{p|Mesa Verde}}: cliff-dwellings carved below
+The sandstone overhangs, the rooms of stone
+Where rock withheld the rain's destructive flow,
+Sheltered beneath the canyon wall alone:
 
-Of {{p|Chaco Canyon}}'s monumental age.
+{{p|Cliff Palace}}, with a hundred fifty rooms,
+Hung in the rock-face like a nest, and reached
+By handholds, safe from summer's sun that dooms,
+Defensible, from western winds unbreached,
 
-In a wash of sandy nothingness, below
-The flat and burning canyon's empty stage
-Of rock and sage, the Puebloans would show
+Engineered comfort in the cliff's embrace.
+The rains grew less; the thirteenth age brought drought
+That settled like a judgment on the place:
+The water failed; the corn's demand ran out
 
-What concentration of the human will
-Could build in the most unlikely place:
-Great houses—{{p|Pueblo Bonito}}'s fill
-Of six hundred rooms, the stacked embrace
+Beyond the sky's gift; the arithmetic
+Of land that cannot feed its people; so
+South, east they went; the cities emptied quick;
+The heirs went to the {{p|Rio Grande}}, below,
 
-Of four-story walls of fitted stone,
-The largest building in {{p|North America}}
-Until the nineteenth century's full-grown
-{{p|Manhattan}} tenements—the camera
+Bearing what cliff and canyon had bestowed:
+The kiva's sacred roundness underground,
+The corn-dance and the rain-prayer, which was owed
+To ancestors; the people, wise and sound,
 
-Of time would prove that {{p|Chaco}} was not a town
-But something stranger: a ceremonial
-Center, a gathering-point, a crown
-Of roads converging on the perennial
+Who built upon the hardest earth, and when
+Its patience ended, did not die, but sought
+Rebirth in gentler land. Honor the men
+And women of the desert, all they wrought:
 
-And central mystery of the canyon's floor.
+The Hohokam, Mogollon, Puebloan: they
+Proved that the desert is no empty space,
+But classroom; and its lesson, to this day,
+Is written on the canyon's weathered face:
 
-The roads ran straight—thirty feet wide and paved,
-Cut through the mesa-top, the corridor
-Of ritual processional, engraved
-
-Upon the landscape like the Nazca lines—
-Not roads for commerce but for ceremony,
-The pilgrims' paths aligned to the designs
-Of solstice light and equinoctial testimony.
-
-And {{p|Mesa Verde}}—the cliff-dwellings carved
-Beneath the sandstone overhangs, the rooms
-Of stone and mortar built where the rock starved
-The rain of its destructive plumes
-
-And sheltered the inhabitants beneath
-The natural roof of the canyon wall—
-{{p|Cliff Palace}}'s hundred and fifty rooms bequeath
-The image of a civilization's hall
-
-Suspended in the rock-face like a nest,
-Accessible only by handholds cut in stone,
-Defensible, sheltered from the west
-Wind's fury and the summer sun—a zone
-
-Of engineered comfort in the cliff's embrace.
-
-But the rains diminished. By the thirteenth century
-The great drought settled on the place
-Like a judgment—the elementary
-
-Failure of the water, the corn's demand
-Exceeding what the sky would give, the slow
-And terrible arithmetic of land
-That cannot feed the people: and the flow
-
-Of population shifted south and east,
-The canyon cities emptied, and the Puebloan
-Descendants carried with them to the feast
-Of the {{p|Rio Grande}} valley what the eon
-
-Of the cliff and canyon had bestowed:
-The kiva's sacred underground roundness,
-The corn-dance, the rain-prayer owed
-To the ancestors, the profound soundness
-
-Of a people who had learned to build
-In the most demanding landscape on the earth
-And, when the landscape's patience was fulfilled,
-Had the wisdom not to die but seek rebirth
-
-In gentler country, carrying the thread
-Of everything they knew.
-
-                        Honor the desert's children—
-Hohokam, Mogollon, Puebloan—the led
-And the leaders, the women and the men
-
-Who proved the desert is not empty space
-But a classroom, and the lesson that it taught
-Was written on the canyon's weathered face
-In stone and clay and every road they wrought:
-
-That the hardest land produces the most art,
-That the scarcest water teaches the deepest care,
-That the people of the margins hold the heart
-Of civilization in the driest air.
+The hardest land produces the most art,
+That scarcest water teaches deepest care,
+That people of the margins hold the heart
+Of civilization in the dry air.
 
 
 # Chapter 236: Norse in Vinland
