@@ -33,7 +33,7 @@ Then you go right—between us and between
 The prey, the route of escape narrows—deft
 
 And terrible in its efficient skill.
-And {{c|1745|Coelos}} left his evidence in stone:
+And {{c|1745|Coelos}} left his kin entombed in stone:
 At what our later maps call {{p|Ghost Ranch}}, still
 Lies buried there a mass of fossil bone
 
