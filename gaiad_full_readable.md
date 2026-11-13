@@ -42515,85 +42515,85 @@ Sent a young boy, who looked up, and saw: one.
 
 # Chapter 280: One and Nothing
 
-Gottfried Wilhelm Leibniz, born in {{p|Leipzig}} in 1646, the son
-Of a professor of ethics who died when the boy was six,
-Taught himself {{x|Latin}} from the books of his father's library, and won
-A doctorate in law at twenty, and then refused the fixed
+Gottfried Wilhelm Leibniz, of {{p|Leipzig}}, son,
+In forty-six; his father, ethics' man,
+Died when he was six; taught himself, and won
+{{x|Latin}} from the books; at twenty, began
 
-Life of a professor, and became a courtier, a diplomat, a librarian,
-A historian of the house of {{p|Brunswick}}, a writer of letters, fifteen
-Thousand of them, to everyone in {{p|Europe}} and beyond, the clarion
-Of a mind that wanted to join every mind it had seen.
+A doctor of the law; refused the chair
+Of teaching; courtier, envoy, keeper
+Of books, historian of {{p|Brunswick}}; there
+Fifteen thousand letters, joining, deeper;
 
-He found the calculus at the same time as Newton, alone,
-And wrote it in the signs we still use: the long S of the integral,
-The *d* of the differential. And the quarrel over whose it was, the bone
-Of the Royal Society's committee, as the earlier chapter told, the minimal
+He found the calculus, as Newton had,
+Alone, and wrote the signs we use: the long
+S of the integral, the *d*; the sad
+Quarrel of whose; but here, another song:
 
-Justice of it came late. But this chapter is about two numbers.
-In 1679 he wrote out a way of counting with only one and zero:
-One, ten, eleven, a hundred. Two digits for all the numbers. The slumbers
-Of the idea lasted twenty years. He saw in it, as a hero
+Two numbers. In seventy-nine he wrote
+A way of counting, one and zero, all
+The numbers: one, ten, eleven; the note
+Slept twenty years; he saw in it the call
 
-Of the old theology might: the world made from God and nothing.
-One is God. Zero is the void. And from the two, all things.
-*{{x|Omnibus ex nihilo ducendis sufficit unum}}*: the clothing
-Of the motto on a medal he designed: to draw all things from nothing, the wings
+Of the old theology: God and naught;
+One, God; zero, the void; from two, all things;
+His medal's motto:^[*Omnibus ex nihilo ducendis sufficit unum*.] "One suffices," wrought
+To draw all things from nothing; and he brings
 
-Of one suffice. And he built a machine that could multiply,
-A stepped drum of brass, and showed it to the Royal Society in 1673.
-And he dreamed of more: a universal language, a *characteristic*, a way to try
-Every argument by calculation, so that two philosophers, the sea
+A brass machine, stepped drum, to multiply,
+Shown the Royal Society; and he
+Dreamed more: one universal tongue, to try
+Each argument by number, so that we,
 
-Of their quarrel too deep for words, would sit down with pens
-And say to each other: *calculemus*. Let us calculate.
-The dream of a machine that reasons. The lens
-Of the next three hundred years is in that word. The weight
+Two quarrelling philosophers, with pens,
+Might say: *calculemus*: let us calculate.
+The dream of a machine that reasons; lens
+Of all that Ophiuchus holds; the weight.
 
-Of everything that Ophiuchus will tell is in it. Hold it.
-And he loved {{p|China}}. He read everything the Jesuits wrote,
-And published their letters, *{{x|News from China}}*, in 1697, and told it
-To {{p|Europe}}: their ethics are better than ours; we should note
+He loved {{p|China}}: read the Jesuits' word,
+Published their letters, *{{x|News from China}}*, told
+To {{p|Europe}}: better ethics, he inferred;
+We need {{x|Chinese}} missionaries, as bold
 
-That we need {{x|Chinese}} missionaries to teach us natural theology,
-As much as they need ours to teach revealed religion.
-He defended Ricci's way, the rites for the ancestors, the apology
-Of the accommodation, against {{p|Rome}}. And then, the vision:
+In natural theology as theirs
+Need ours for the revealed; and he would plead
+For Ricci's way: the rites, ancestors' heirs,
+Against {{p|Rome}}. And then came the vision's seed:
 
-In 1701 a Jesuit in {{p|Beijing}}, Joachim Bouvet, who had read
-His binary, sent him a diagram of the sixty-four hexagrams
-Of the I Ching, the *{{x|Book of Changes}}*, in the order Shao Yong had spread,
-And Leibniz looked at the broken and unbroken lines, the grams
+Seventeen-oh-one: from {{p|Beijing}}, a priest,
+Joachim Bouvet, a Jesuit, who'd read
+His binary; and sent, as from the East,
+The hexagrams of the I Ching, which, spread
 
-Of yin and yang, and saw: zero and one. The hexagrams in that order
-Counted from nothing to sixty-three in binary. The oldest book
-Of {{p|China}}, ascribed to Fuxi, the sage of the beginning, a border
-Crossed four thousand years before, he believed, by the same look
+In Shao Yong's order, {{x|Book of Changes}}' lines,
+Broken and whole; and Leibniz saw: the one,
+Zero, from nought to sixty-three, in signs:
+The oldest book of {{p|China}}, Fuxi's, done
 
-At the world as his own. He was wrong about the history.
-The order was a {{x|Song}} scholar's, not the ancient sage's. But the mystery
-Was real: two minds, a world apart, building the same ladder of change. The registry
-Of that meeting is a letter. And in 1703 he published his binary, the history
+By the first sage, four thousand years before:
+The same look at the world as his; one way,
+Two minds apart, one ladder; and, what's more,
+A letter keeps their meeting, to this day;
 
-Of it ending with the hexagrams. Within two hundred and fifty years,
-Every machine that thinks would think in one and zero.
-The register of every soul, the census, the ledgers, the tears
-Of the {{x|Company}}, the temple book: all of it, in the next era,
+In seventeen-oh-three, he published it,
+His binary, which ends with hexagrams;
+And now each thinking machine thinks in it,
+Thinks one and zero: registers, programs,
 
-Would be written in his two digits. That is the bridge.
-Virgo ends here: the early modern world, its saints and its massacres,
-Its registers and its telescopes, its kings on the ridge
-Of invented pasts. And it ends with a man who joined the actors
+Are written in his two digits: the bridge.
+Virgo ends here: the early modern age,
+Its saints and massacres, its kings, the ridge
+Of ancient pasts; its telescope, its page;
 
-Of {{p|East}} and {{p|West}} in two numbers, and dreamed of reasoning by machine.
-He died in 1716 in {{p|Hanover}}, out of favour, his king gone to {{p|London}},
-And only his secretary followed the coffin. The lean
-Grave of the man who joined the world. And Voltaire would make fun
+It ends with one who joined the {{p|East}} and {{p|West}}
+In two numbers, dreamed reasoning machines;
+Died out of favour, {{p|Hanover}}; the rest:
+His king in {{p|London}}; one man; lean, his means.
 
-Of his *best of all possible worlds*. Let him. The one and the nothing
-Are in every phone. Every message to the ones you love goes in them.
-Tomorrow begins Libra: the {{x|Rites}}, the reckoning, the clothing
-Of the {{x|Enlightenment}}. From one and nothing, the world. Hold the hem.
+The one and nothing, now, in each phone, keep
+Each word sent to your loved ones; and today,
+Tomorrow, Libra: the reckoning, deep,
+{{x|Enlightenment}}: from one and naught, the way.
 
 ---
 
