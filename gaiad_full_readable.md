@@ -33834,125 +33834,105 @@ The court lost its hold upon the nation.
 
 # Chapter 204: Genghis Khan
 
-In the steppes of {{p|Mongolia}}, a boy named Temujin
-was born around 1162 in a family of
-minor Mongol nobility. His father was poisoned
-by rivals when he was nine. The family lived
+On the high steppe, Temujin's life began,
+Born, eleven-sixty-two, of small lords;
+His father poisoned, he was nine; his clan
+Were hunted, poor, by the old tribal swords.
 
-in poverty, hunted by the old tribal enemies,
-surviving on roots and marmots. Temujin
-killed his half-brother in a dispute over a fish,
-established dominance over his siblings, a cool grin.
+They lived on roots and marmots; and the boy
+Slew his half-brother for a fish; and then
+Ruled all his brothers; rivals would employ
+Him as a slave; he fled, and built again
 
-He was captured and enslaved by a rival tribe,
-escaped, rebuilt his life slowly through friendship
-and marriage alliance. His wife Borte was
-kidnapped by Merkits. He raised an army with chip
+His life, through friendship and through marriage; and
+When Merkits stole his wife, Borte, far away,
+His blood brother Jamukha gave a hand,
+And Toghrul too; he won her back; and they
 
-from blood brother Jamukha and patron Toghrul,
-rescued Borte (pregnant, probably not by him —
-her son Jochi would always be disputed),
-built his following, unified the Mongol tribes slim.
+Had Jochi, his first son; and so he grew
+His following, and joined the {{x|Mongol}} lands;
+In twelve-oh-six, the great assembly drew
+Him Genghis Khan, the lord of all their bands,
 
-In 1206, a great assembly declared him
-Genghis Khan, universal ruler, at age forty-four.
-He had unified the Mongols, a small people,
-perhaps a million souls, stony-faced, war-
+The universal ruler, forty-four;
+A million souls, a small folk next to those
+Great realms around them; and he went to war
+Across three continents, and all his foes:
 
-like, but tiny compared to the populations
-of the empires around them. What happened next
-is one of the most astonishing military feats
-in world history — the conquest of three continents' text.
+Western Xia, twelve-oh-nine; Jin's domain,
+Twelve-eleven; {{p|Beijing}}, twelve-fifteen, fell;
+{{p|North China}} lay in ruins; and again,
+In twelve-nineteen, Khwarazm's realm as well.
 
-He invaded Western Xia (Tangut) in 1209, subjugated them.
-He invaded the Jin Dynasty (Jurchen {{p|China}}) in 1211,
-taking {{p|Beijing}} in 1215, reducing {{p|North China}} to ruins.
-He invaded the Khwarazmian Empire in 1219, the Muslim pavilion.
+Its governor had killed the envoys sent,
+The merchants too; and Genghis answered: all
+The towns that fought were razed, the people spent:
+{{p|Samarkand}} and {{p|Bukhara}}, {{p|Merv}}, would fall,
 
-This last was allegedly in response to a Khwarazmian
-governor executing Mongol ambassadors and merchants.
-Genghis Khan was methodical and brutal in response.
-Cities that resisted were annihilated, the inhabitants slaughtered in sargeants.
+And {{p|Nishapur}}, {{p|Herat}}, the very best
+Of {{p|Persia}}'s cities; and the channels made
+For water were destroyed; and, in the rest,
+{{p|Khorasan}}, the breadbasket, lay decayed,
 
-{{p|Samarkand}}, {{p|Bukhara}}, {{p|Merv}}, {{p|Nishapur}}, {{p|Herat}} —
-the great cities of {{p|Central Asia}} and {{p|Persia}} —
-were reduced to rubble. Populations were massacred.
-The irrigation systems of {{p|Central Asia}} were destroyed wholesia.
+Of all {{x|Islam}}, and for centuries stayed
+A ruin. In twelve-twenty-seven died
+Genghis, thrown from his horse; his grave was made
+Unmarked; those who had seen were slain beside.
 
-Some regions never recovered. {{p|Khorasan}} had
-been the breadbasket of the Islamic world.
-After the Mongols, it was a ruin. The population
-did not return to pre-Mongol levels for centuries, unfurled.
+His sons divided all: the khanate's sway
+Ogedei held; Jochi's, the western plain
+Of steppe; Chagatai, {{p|Central Asia}}'s way;
+Tolui, the homeland, the old domain.
 
-Genghis Khan died in 1227, probably from
-injuries after falling from a horse. His tomb
-is unmarked and undiscovered — his soldiers killed
-everyone who witnessed the burial, return to the womb.
+And the rest of {{x|Jin}} fell, twelve-thirty-four;
+Batu Khan won the Kipchak steppe; and then,
+Twelve-forty, {{p|Kiev}} fell; and, as before,
+The {{p|Rus}} were sacked, made tributary men,
 
-He left his empire to his sons. Ogedei
-became Great Khan. Jochi's descendants got
-the western steppes. Chagatai got {{p|Central Asia}}.
-Tolui got the Mongol homeland, no dot.
+The {{x|Tatar Yoke}}, two centuries; and there
+{{p|Moscow}}, a small town, gathered tax, and grew
+For the Mongols; and, rich from its own share,
+It rose in time; the other {{p|Rus}} it drew.
 
-Under Ogedei, the Mongol expansion continued.
-The remainder of {{x|Jin}} {{p|China}} was conquered in 1234.
-The Kipchak steppe was conquered under Batu Khan
-in the 1230s. {{p|Russia}} was next on the door.
+And Batu went to {{p|Poland}} in the west,
+Twelve-forty-one; at {{p|Legnica}} he broke
+The German knights, the Polish, and the rest;
+At {{p|Mohi}}, {{p|Hungary}}'s host; at one stroke
 
-{{p|Kiev}} fell in 1240. Most of the Russian
-principalities were sacked and made tributaries,
-the "{{x|Tatar Yoke}}" that would last two centuries.
-{{p|Moscow}}, a small town then, became notaries
+All {{p|Central Europe}} lay before him; then
+Ogedei died; Batu returned to choose
+The next Great Khan; and so the {{p|West}}'s own men
+Were saved by a khan's death, and did not lose.
 
-of the Mongol tax-collection system, which
-would eventually give {{p|Moscow}} the resources to rise.
-Russian history cannot be understood without
-the Mongol period, which shaped its administrative prize.
+The Mongols' realm, one land, the greatest yet,
+From {{p|Korea}} to {{p|Hungary}}, the north
+{{p|Siberia}} to {{p|Vietnam}}; it met
+All {{p|Eurasia}}, and bound it, back and forth.
 
-Batu's army continued west, invading {{p|Poland}}
-and {{p|Hungary}} in 1241. They destroyed Polish-German
-knightly armies at {{p|Legnica}}. They destroyed Hungarian
-armies at {{p|Mohi}}. {{p|Central Europe}} was about to stem
+The Pax Mongolica made safe the road
+From {{p|Europe}} to {{p|China}}, and all by land;
+Merchants and missionaries went; and flowed
+The {{p|Silk Road}} at its peak, from hand to hand.
 
-total Mongol conquest, but Ogedei died in {{p|Mongolia}},
-and Batu returned east to attend the succession.
-{{p|Europe}} was saved by the contingency of
-a Great Khan's death, an accidental concession.
+And Marco Polo, from {{p|Venice}}'s shore,
+Told of the riches of the {{p|East}}; and west
+Went gunpowder and printing, and the store
+Of paper money, compass, and the rest.
 
-The {{p|Mongol Empire}} was the largest contiguous
-land empire in history, stretching from {{p|Korea}}
-to {{p|Hungary}}, from {{p|Siberia}} to {{p|Vietnam}}.
-It connected {{p|Eurasia}} as had never been seen in area.
-
-The Pax Mongolica enabled travel and trade
-across the entire continent safely for the first time.
-Merchants, missionaries, and adventurers could travel
-from {{p|Europe}} to {{p|China}} by land, without great crime.
-
-Marco Polo's journey from {{p|Venice}} to {{p|China}} in
-the late thirteenth century was possible because
-of the Mongol peace. His account would fire European
-imagination about the riches of the East, such boas.
-
-The {{p|Silk Road}} reached its peak. Chinese technology —
-printing, gunpowder, the compass, paper money —
-began to transmit westward systematically,
-preparing the ground for European modernity.
-
-The Mongols let each priesthood keep its rite,
-since all prayed to Eternal Heaven's light:
+The Mongols let each priesthood keep its rite;
 queens kept the Nestorian cross, and men
-Tibetan {{x|Buddhism}}: Heaven's again.
+Tibetan {{x|Buddhism}}; all, in one light,
+prayed to Eternal Heaven, one; amen.
 
-{{x|Islam}} would eventually convert most of the western
-Mongol realms — the Ilkhanate and the Golden Horde.
-The eastern Mongol realms would absorb Chinese culture
-as the Yuan Dynasty of Kublai Khan, imperial lord.
+Ilkhanate took {{x|Islam}}, and the great
+Golden Horde too; the east, in {{p|China}}'s ways,
+Became the Yuan, Kublai Khan's own state;
+But that belongs to the next chapter's praise.
 
-But that is the next chapter. For now, mark
-the hinge: one man, from obscurity in {{p|Mongolia}},
-unified his tribe and launched a conquest that
-reshaped the world, from {{p|Hungary}} to {{p|Cambodia}}.
+So mark the hinge: one man, from nothing, came
+From {{p|Mongolia}}, who joined his tribe, and then
+Remade the world: honor Temujin's name,
+From {{p|Hungary}} to {{p|Cambodia}}'s men.
 
 
 # Chapter 205: The Mongols in Europe
