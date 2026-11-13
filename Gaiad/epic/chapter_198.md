@@ -1,112 +1,66 @@
 # Chapter 198: Kūkai
 
-In {{p|Japan}} of the early ninth century,
-the monk {{c|2799|Kūkai}} (774-835)
-brought {{c|2800|Shingon}} {{x|Buddhism}} from {{x|Tang}} {{p|China}}
-and made it into something alive.
+In {{p|Japan}}, early in the ninth age, came
+{{c|2799|Kūkai}}, who brought from {{x|Tang}} {{c|2800|Shingon}}'s word,
+And made it live; born on {{p|Shikoku}}, the same
+He went with envoys, eight-oh-four, and heard,
 
-He was born on {{p|Shikoku}} island,
-the smallest of the four main islands,
-went to {{p|Chang'an}} in 804 with the embassy,
-studied at {{p|Qinglong Temple}}'s vast hidings.
+At {{p|Qinglong Temple}} in {{p|Chang'an}}, the way,
+From {{c|2801|Huiguo}}, master of the hidden rite,
+Who gave him all of it in months; that day
+He died; {{c|2799|Kūkai}} came home, with the light
 
-He studied under {{c|2801|Huiguo}}, the master
-of Chinese Vajrayana {{x|Buddhism}},
-who transmitted the full esoteric tradition
-to {{c|2799|Kūkai}} in just a few months' witnessing.
+Of scriptures, mandalas, and all the tools
+Of rite, and all of {{c|2800|Shingon}}, the {{x|True Word}};
+At {{p|Kōya}}, eight peaks, a mandala, schools
+He built, and set the teaching, as he'd heard.
 
-{{c|2801|Huiguo}} died shortly after. {{c|2799|Kūkai}} returned
-to {{p|Japan}} with scriptures, mandalas, ritual tools,
-and the complete transmission of {{c|2800|Shingon}},
-"the {{x|True Word}}," the esoteric school's schools.
+He made the {{c|2802|kana}}, letters for the sound
+Of {{x|Japanese}}, where once the {{x|Chinese}} signs
+Were used for sound alone, a heavy round;
+And so the tongue was freed for poets' lines.
 
-He established his mountain monastery at {{p|Mount Kōya}},
-eight peaks forming a natural mandala.
-He systematized the esoteric teachings
-into {{p|Japan}}'s first complete Buddhist alphabeta.
+He taught: the world's the body of the one,
+{{c|2804|Mahāvairocana}}, the {{c|1959|Buddha}} on high,
+{{c|2805|Dainichi}}, the {{c|1959|Buddha}} who's like the sun;
+And all are woken now, and need but try
 
-He is credited (perhaps legendarily)
-with inventing the {{c|2802|kana}} syllabary,
-the phonetic Japanese writing system
-that made Japanese literature necessary.
+Through body, speech, mind, the mysteries three,
+The mudrās, mantras, visions, and the rite,
+In this same body, in this life, to be
+A {{c|1959|Buddha}}: sokushin jōbutsu's light.
 
-Before {{c|2803|Kana}}, Japanese was written
-in Chinese characters used phonetically,
-the man'yōgana system, cumbersome.
-{{c|2803|Kana}} simplified, made Japanese poetic.
+He wrote, a master of the brush; and made
+The ponds and bridges; thought on word and sign;
+And did not die, but sat, and there he stayed,
+In meditation, at {{p|Kōya}}'s high shrine,
 
-{{c|2799|Kūkai}}'s teaching: the universe is the body
-of the cosmic {{c|1959|Buddha}} {{c|2804|Mahāvairocana}},
-{{c|2805|Dainichi Nyorai}}, the sun-like {{c|1959|Buddha}},
-and all beings are already enlightened in stanza.
+At {{p|Oku-no-In}}, uncorrupted; and still
+The pilgrims come, and he is waiting there
+For {{c|2806|Maitreya}}, the one to come, until
+He'll rise; and daily they feed him, with care.
 
-The aim is to realize one's buddha-nature
-through the three mysteries: body, speech, mind,
-through mudrās, mantras, and visualizations,
-through ritual practice that is refined.
+And {{c|2807|Saichō}} brought from {{p|China}} the {{c|2808|Tendai}},
+The {{x|Lotus Sutra}}'s way, of {{c|2809|Zhiyi}}'s school,
+All teachings in one ladder, raised on high,
+At {{p|Mount Hiei}}; it would become the great pool
 
-This is sokushin jōbutsu, "attaining buddhahood
-in this very body in this very life,"
-rather than through many lifetimes of practice.
-{{c|2800|Shingon}} promises immediate escape from strife.
+From which, in after years, the schools would flow.
+The two were friends, and wrote, and lent their books,
+And sometimes argued; and they made it so,
+The {{x|Japanese}} way, with all its own looks.
 
-{{c|2799|Kūkai}} was also a calligrapher of legend,
-a poet, an engineer who built ponds and bridges,
-a theorist of language and signification.
-He is one of {{p|Japan}}'s cultural ridges.
+At {{p|Heian-kyō}}, now {{p|Kyoto}}, newly made
+By {{c|2815|Kanmu}}, seven-ninety-four, the new
+Teaching matched the new town; and, unafraid,
+The kami and the {{c|1959|Buddha}} closer drew
 
-He is said not to have died but to have
-entered eternal meditation at {{p|Mount Kōya}},
-where his body remains uncorrupted
-in the {{p|Oku-no-In}} mausoleum, in quiet.
+Together: {{c|2816|honji suijaku}}, that each
+Kami is but a bodhisattva, shown
+In this land's form; and so, in all their reach,
+{{c|885|Amaterasu}} was {{c|2805|Dainichi}}'s own,
 
-Pilgrims still visit. They believe he is
-still there, waiting for {{c|2806|Maitreya}} the future {{c|1959|Buddha}},
-to emerge then and help all sentient beings.
-His tomb is attended daily with meals put through-a-
-
-the door in rituals of feeding the living master.
-Meanwhile, a separate monk {{c|2807|Saichō}} (767-822)
-brought {{c|2808|Tendai}} {{x|Buddhism}} from {{p|China}}
-and established {{p|Mount Hiei}}, a center true.
-
-{{c|2808|Tendai}} was based on the {{x|Lotus Sutra}},
-on the teaching of {{c|2809|Zhiyi}} of the {{c|2810|Tiantai}} school,
-integrating all Buddhist teachings into
-a hierarchical synthesis of the rule.
-
-From {{p|Mount Hiei}} would come {{p|Japan}}'s major
-medieval Buddhist traditions:
-{{c|2811|Honen}} and {{x|Pure Land}}. {{c|2812|Shinran}} and {{x|True Pure Land}}.
-{{c|2813|Nichiren}} and {{x|Lotus Sutra}} intuitions.
-{{c|2814|Dōgen}} and {{x|Sōtō Zen}}, with its meditations.
-
-All started as {{c|2808|Tendai}} monks who
-left to found new schools. {{p|Mount Hiei}} was
-the matrix from which Japanese {{x|Buddhism}} emerged.
-{{c|2807|Saichō}} had built an institutional pause.
-
-{{c|2799|Kūkai}} and {{c|2807|Saichō}} were contemporaries.
-They corresponded, borrowed texts, occasionally disagreed.
-Together they shaped Japanese {{x|Buddhism}}
-into its distinctive esoteric breed.
-
-The capital {{p|Heian-kyō}} ({{p|Kyoto}}) had just been founded
-in 794 by Emperor {{c|2815|Kanmu}}.
-The new {{x|Buddhism}} matched the new capital.
-A new era was beginning, the {{x|Heian}}, anew.
-
-The syncretism of {{x|Shinto}} and {{x|Buddhism}}
-deepened in this era. {{c|2816|Honji suijaku}}, the theory
-that {{x|Shinto}} kami were local manifestations
-of Buddhist bodhisattvas, was the theology.
-
-{{c|885|Amaterasu}} became {{c|2805|Dainichi Nyorai}}'s manifestation.
-{{c|2724|Hachiman}} became a manifestation of {{c|2817|Amida}}.
-Shrines and temples were built together.
-One religion with two faces, no divide-a.
-
-This synthesis would last a thousand years
-until the {{x|Meiji}} period's forced separation
-in 1868 violently distinguished them.
-But for the medieval period, they were one vocation.
+{{c|2724|Hachiman}} was {{c|2817|Amida}}'s; the shrine
+And temple built together; one rite, two
+Faces, and no divide; one house, one line,
+And one religion, as the faithful knew.
