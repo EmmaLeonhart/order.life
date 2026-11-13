@@ -3507,13 +3507,13 @@ Beside them stood the lesser kingdoms' lights:
 And {{c|348|Oomy}}'s spines in their unending fights.
 
 The sons of {{c|358|Myzo}} swam, a blood-soaked brood,
-While {{c|456|Myxo}}'s daughters went to seek their food.
 And each line built, on ground where once it stood,
+While {{c|456|Myxo}}'s daughters went to seek their food,
 Their cities, side by side, a neighborhood.
 
 Fair {{c|438|Anima}} and {{c|439|Metazo}} begot
-The creatures of the wild, in dramas wrought;
-And out of {{c|454|Mygus}} and sweet {{c|457|Funga}} grew
+The creatures of the wild, the beasts that grew;
+And {{c|454|Mygus}} and sweet {{c|457|Funga}}, too, have wrought
 The fungi's mystic saga, strange and new.
 
 While {{c|322|Plantus}} and {{c|378|Virita}}, shining bright,
@@ -3522,8 +3522,8 @@ Each kingdom claimed its old, ancestral right
 To rule the sea with majesty and might.
 
 Upon a rock that stood both firm and true,
-Great {{c|439|Metazo}} and {{c|438|Anima}}, the two,
-Built up their city, small but newly made:
+Built up their city, small but newly made,
+Great {{c|439|Metazo}} and {{c|438|Anima}}, the two:
 The {{c|440|Animal}} Kingdom's first stone was laid.
 
 Their citizens were three, each of a kind:
@@ -3602,13 +3602,13 @@ Their muscles, the first muscles of them all,
 Would guard the things that had been there before.
 
 These pores in time would grow until they'd be
-The mouths, and other openings we see.
-The muscles in their turn would come to wield
+The mouths, and other openings revealed;
+The muscles came in turn, and we can see
 The power that contraction came to yield.
 
 From {{c|465|Wallas}} came the great {{c|466|Solenos}}, who
-Saw there a better way to build anew.
-Through all his city, waters in their flow
+Saw there a better way, so that the flow
+Of waters through his city, built anew,
 Would bring the food to fill them as they go.
 
 He sent his channels running through the stone,
@@ -3617,8 +3617,8 @@ His city prospered, till it was full grown,
 With fish caught early and with fish caught late.
 
 From {{c|466|Solenos}} there came two sons to light:
-Bold {{c|467|Leucon}}, and fair {{c|468|Sponga}}, shining bright.
-And when their days of childhood were all done,
+Bold {{c|467|Leucon}}, and fair {{c|468|Sponga}}; and when done
+With all their days of childhood, shining bright,
 They filled the sea with all their might, each one.
 
 Together they bore children, only two:
@@ -3707,8 +3707,8 @@ And {{c|474|Demos}}, a man who was, through and through,
 Would be a leader free of any scorn.
 
 Now {{c|474|Demos}} ruled efficiently, and stayed
-True to the ancient ways his fathers made.
 Conservative in how he ruled and reigned,
+True to the ancient ways his fathers made;
 Through all his ruling days he so remained.
 
 Most of the sponges in the world today

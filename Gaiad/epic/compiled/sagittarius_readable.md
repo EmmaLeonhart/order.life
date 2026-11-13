@@ -3501,13 +3501,13 @@ Rhizar's spears, Cilliofer's distant sights,
 And Oomy's spines in their unending fights.
 
 The sons of Myzo swam, a blood-soaked brood,
-While Myxo's daughters went to seek their food.
 And each line built, on ground where once it stood,
+While Myxo's daughters went to seek their food,
 Their cities, side by side, a neighborhood.
 
 Fair Anima and Metazo begot
-The creatures of the wild, in dramas wrought;
-And out of Mygus and sweet Funga grew
+The creatures of the wild, the beasts that grew;
+And Mygus and sweet Funga, too, have wrought
 The fungi's mystic saga, strange and new.
 
 While Plantus and Virita, shining bright,
@@ -3516,8 +3516,8 @@ Each kingdom claimed its old, ancestral right
 To rule the sea with majesty and might.
 
 Upon a rock that stood both firm and true,
-Great Metazo and Anima, the two,
-Built up their city, small but newly made:
+Built up their city, small but newly made,
+Great Metazo and Anima, the two:
 The Animal Kingdom's first stone was laid.
 
 Their citizens were three, each of a kind:
@@ -3596,13 +3596,13 @@ Their muscles, the first muscles of them all,
 Would guard the things that had been there before.
 
 These pores in time would grow until they'd be
-The mouths, and other openings we see.
-The muscles in their turn would come to wield
+The mouths, and other openings revealed;
+The muscles came in turn, and we can see
 The power that contraction came to yield.
 
 From Wallas came the great Solenos, who
-Saw there a better way to build anew.
-Through all his city, waters in their flow
+Saw there a better way, so that the flow
+Of waters through his city, built anew,
 Would bring the food to fill them as they go.
 
 He sent his channels running through the stone,
@@ -3611,8 +3611,8 @@ His city prospered, till it was full grown,
 With fish caught early and with fish caught late.
 
 From Solenos there came two sons to light:
-Bold Leucon, and fair Sponga, shining bright.
-And when their days of childhood were all done,
+Bold Leucon, and fair Sponga; and when done
+With all their days of childhood, shining bright,
 They filled the sea with all their might, each one.
 
 Together they bore children, only two:
@@ -3701,8 +3701,8 @@ And Demos, a man who was, through and through,
 Would be a leader free of any scorn.
 
 Now Demos ruled efficiently, and stayed
-True to the ancient ways his fathers made.
 Conservative in how he ruled and reigned,
+True to the ancient ways his fathers made;
 Through all his ruling days he so remained.
 
 Most of the sponges in the world today
