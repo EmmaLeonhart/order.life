@@ -1,129 +1,91 @@
 # Chapter 331: Now Ceases
 
-Today is the feast of the free nations that rose from the union's end.
+Today, the feast of nations, freed, that rose
+From the union's end; and, too, loss to some:
+The state of 'twenty-two's treaty; and those
+At {{p|Foros}}, on August eighteenth, would come
 
-The state in this chapter is the one the treaty of 1922 made.
-The night a party took the city is another chapter.
-A treaty is not that night.
+To ask {{c|4472|Mikhail Gorbachev}} to declare
+Emergency; he refused. The next day,
+A committee announced one: six months, where
+From four: his health, it said, had given way;
 
-In {{p|Foros}}, on the eighteenth of August,
-{{c|4472|Mikhail Gorbachev}} was asked to declare an emergency.
-He refused.
-On the nineteenth a committee announced an emergency,
-For six months, beginning at four in the morning, {{p|Moscow}} time.
-It said he could not carry out his duties, for his health,
-And that the office passed to {{c|4473|Gennady Yanayev}}.
-The television played a ballet.
-A ballet is not a government.
-Armor came into {{p|Moscow}}.
-{{c|4474|Boris Yeltsin}} spoke from a tank,
-Outside the Russian parliament's house.
-On the night between the twentieth and the twenty-first,
-In the tunnel at the {{p|Garden Ring}},
-Three men were killed.
-{{c|4475|Dmitry Komar}}. {{c|4476|Ilya Krichevsky}}. {{c|4477|Vladimir Usov}}.
-They died for the free country, and their names are kept.
-On the twenty-first the troops were ordered out of the city.
-The six months were not kept.
-A committee that fails is not the end of the state it seized.
+Office to {{c|4473|Gennady Yanayev}}; played
+A ballet on the screen; armor in town;
+{{c|4474|Boris Yeltsin}}, on a tank, unafraid,
+Spoke at the Russian parliament; and down
 
-On the sixth of September the union's council,
-Sitting for the first time, with him in the chair,
-Recognized {{p|Lithuania}}, {{p|Latvia}}, and {{p|Estonia}}.
-The recognition is not the day each of them had declared.
-Three declarations are not one Friday.
+The tunnel at the {{p|Garden Ring}}, at night,
+Three were killed: {{c|4475|Dmitry Komar}}; and two,
+{{c|4476|Krichevsky}} and {{c|4477|Usov}}: for the right
+Of a free country, died; their names kept true.
 
-On the first of December, {{p|Ukraine}} voted
-On the act its parliament had passed on the twenty-fourth of August.
-The question was whether the voter supported that act.
-Of the ballots, more than ninety in a hundred were yes.
-{{c|4478|Leonid Kravchuk}} was elected the same day.
-A republic's vote is not a vote of the whole union.
+The twenty-first, the troops withdrew; the six
+Months not kept; the committee failed; the state
+Not ended. On September sixth, the fix:
+The union's council, first, with him; the slate:
 
-On the eighth of December, at {{p|Viskuli}},
-In the forest, and not in the city,
-Three states signed.
-{{p|Belarus}}. The {{p|Russian Federation}}, and the agreement
-Still writes the older initials beside that name. {{p|Ukraine}}.
-{{c|4479|Stanislav Shushkevich}} signed for {{p|Belarus}},
-With {{c|4474|Boris Yeltsin}} and with {{c|4478|Leonid Kravchuk}}.
-Others signed beside them.
-The parties the agreement names are the three states.
-They called themselves the states that had made the union,
-On the basis of the treaty of 1922.
-A fourth party to that treaty no longer existed.
-The agreement says they confirm
-That the union, as a subject of international law
-And a geopolitical entity, now ceases to exist.
-They form a commonwealth.
-The seat it names for its coordinating bodies is {{p|Minsk}}.
-The pens were not in that city.
-The president of the union did not sign.
+Recognized {{p|Lithuania}}, and these,
+{{p|Latvia}}, {{p|Estonia}}; not the days
+Each one declared; free, by their own decrees;
+{{p|Ukraine}}, December first, its people's phrase:
 
-The same page says they will strive
-To eliminate all nuclear weapons,
-And that single control of them
-Will be set down in a special agreement.
-A strive is not a weapon taken apart.
-A page that names a later agreement is not that agreement.
-The page names {{p|Chernobyl}},
-And undertakes a coordination still to be written.
-The clause is not the year of the fire.
-It is not a land made clean.
+For August's twenty-fourth act: yes or no;
+And more than ninety in a hundred, yes;
+{{c|4478|Leonid Kravchuk}}, elected, too; so
+One republic's vote, not the whole's; no less,
 
-On the twenty-first, in {{p|Alma-Ata}},
-Eleven states signed a declaration.
-The three were there, and eight besides.
-{{p|Georgia}} was not among them.
-The three {{p|Baltic}} states were not among them.
-The declaration says the commonwealth
-Is not a state, and not a structure set above states.
-With its formation, it says, the union ceases to exist.
-It says a single control of the nuclear weapons will be kept.
-A protocol of the same day says the agreement of the eighth
-Comes into force for each state when that state ratifies it.
-A signature in a forest is not every parliament.
-Eleven pens are not the three, and not the fifteen.
+December eighth, at {{p|Viskuli}}, the wood,
+Not in a city: {{p|Belarus}}, the three;
+The {{p|Russian Federation}}, as it stood
+With older letters; and {{p|Ukraine}}, as free;
 
-On the twenty-fifth, in {{p|Moscow}}, he spoke.
-He discontinued his activities
-As president of the union,
-Because of the commonwealth that had been formed.
-He said he had stood for the republics' own rule,
-And also for the union.
-He said events had gone another way.
-He said a decision of this size
-Should have been made by a popular will.
-A speech can hold the resignation and the dissent.
-The red flag came down that evening.
-It came down at thirty-two minutes past seven.
-Do not say the flag was the statute.
+{{c|4479|Stanislav Shushkevich}}, {{c|4474|Boris Yeltsin}}, signed,
+And {{c|4478|Kravchuk}}; others with them; three, the named;
+The states that made the union, they defined,
+By 'twenty-two; a fourth gone; and they claimed:
 
-On the twenty-sixth the {{x|Council of the Republics}}
-Of the supreme soviet adopted a declaration.
-Its number is 142-N.
-It says that with the creation of the commonwealth
-The union, as a state and a subject of international law,
-Ceases to exist.
-The flag was already down.
-The chamber's sentence is not the three pens.
-It is not the eleven.
-It is not the evening speech.
+The union, as a subject of the law
+Geopolitical, now ceases; then
+A commonwealth, its seat at {{p|Minsk}}; he saw
+Its president did not sign; and again
 
-Hold the refusal at {{p|Foros}},
-The three names in the tunnel,
-The Friday the council recognized three states,
-The ballots of the first of December,
-The sentence at {{p|Viskuli}},
-The eleven at {{p|Alma-Ata}},
-The evening he left the office,
-And the chamber on the day after.
-Refuse the consolation that one of these was all of them.
-Refuse the consolation that a form of words
-Had already arranged the life the words concerned.
-The union had kept a register of persons,
-And had promised them a material good.
-The end of the register is not the good delivered.
-It is not a proof the good was only a machine.
-Do not say the idea ended because the flag came down.
-A later war is not this December.
+They'd strive to end nuclear arms; control
+Single, set in a later pact; a strive
+Is not a weapon taken down; the whole
+Of {{p|Chernobyl}} named, too, a work to drive
+
+Still to be written; not the fire, its glare;
+At {{p|Alma-Ata}}, then, eleven signed:
+The three, and eight besides; {{p|Georgia}} not there,
+Nor {{p|Baltic}} three; the commonwealth, defined
+
+No state, no structure over states; and, formed,
+The union ceased; single control was kept
+Of nuclear arms; protocol informed
+Each state, in force once ratified; and kept
+
+Eleven pens, not fifteen. On the day
+The twenty-fifth, {{p|Moscow}}, he said that he
+No president: the commonwealth's new way;
+Had made it so; he'd stood for both; for free
+
+Republics, and the union; it went, though,
+Another way; a people's will should make
+Such choices; and the red flag, coming low,
+At seven thirty-two, came down; the stake
+
+Twenty-sixth: the republics' council wrote{{fn|The Council of the Republics of the Supreme Soviet, declaration 142-N.}}
+The union, as a state, a subject, ceased;
+The flag already down; and, as a note,
+This book holds both: for some, the nations' feast,
+
+For others, loss; and the tunnel's names kept;
+The union kept a register, and swore
+Material good; this faith has not stepped
+Into that creed as its own; as before,
+
+The flag's descent ended no thought; and, there,
+A later war is not this month; and these,
+The nations freed, the feast; the loss, its care,
+Kept both: the bells of some, of others, pleas.
