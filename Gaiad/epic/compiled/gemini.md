@@ -2452,25 +2452,25 @@ and wrapped himself in blankets, terrified.
 He sought no founding; it was what {{c|472|God}} gave.
 {{c|2758|Khadija}} held him, and believed beside.
 
-The revelations continued for twenty-three years,
-verse by verse, surah by surah,
-collected after his death into the {{x|Quran}},
-the recitation, {{c|2740|Allah}}'s word, no error.
+Twenty-three years the words came, verse by verse,
+Surah by surah; and, after his death,
+Collected as the {{x|Quran}}, to rehearse:
+The recitation, {{c|2740|Allah}}'s word and breath.
 
 The oneness of the one {{c|472|God}} was his core,
 the seal of prophets came from {{c|2599|Mani}}'s line,
 a chain of messengers sent long before,
 both {{x|Christian}} and the Manichee: one vine.
 
-The five pillars would crystallize:
-shahada — the profession of faith.
-salat — five daily prayers toward {{p|Mecca}}.
-zakat — charity for the poor, the aggrieved.
+Five pillars: shahada, the word of faith;
+Salat, five prayers a day toward {{p|Mecca}}; then
+Zakat, the gift to those in need, the wraith
+Of hunger fed; and sawm, the fast, again,
 
-sawm — fasting during {{x|Ramadan}}.
-hajj — pilgrimage to {{p|Mecca}} once in life.
-Simple, clear, demanding, but doable,
-a structure for the whole of one's strife.
+In {{x|Ramadan}}; and hajj, the pilgrim's way
+To {{p|Mecca}}, once in life: and simple, clear,
+And hard, but to be done, a frame each day
+For all of life's own striving, far and near.
 
 On Friday, after prayer, the people ate
 together, bread and broth, the poor fed first,
@@ -2482,127 +2482,95 @@ when golden ages fell to want and dearth,
 the meal grew thin; the {{x|Hajj}}, the prayers, ran deep,
 and still they eat, not knowing of its birth.
 
-For thirteen years in {{p|Mecca}} he would preach,
-and the {{c|1916|Quraysh}}, who held the {{p|Kaaba}}'s keys,
-fought him; whoever held the word would teach
-the pilgrims at the house, and take their fees.
+For thirteen years he preached in {{p|Mecca}}; and
+The tribe of {{c|1916|Quraysh}}, who held the {{p|Kaaba}}'s keys,
+Fought him: whoever held the word would stand
+To teach the pilgrims there, and take their fees.
 
-His early converts were slaves, women, poor,
-outsiders, those without tribal protection.
-His uncle {{c|2756|Abu Talib}} protected him
-through clan obligation, not conviction.
+His first were slaves, and women, and the low,
+Those with no tribe's shield; {{c|2756|Abu Talib}}, by
+His clan's own duty, kept him, and not so
+From faith; and then, in six-nineteen, would die,
 
-When {{c|2756|Abu Talib}} died, and {{c|2758|Khadija}} died
-the same year, 619, the "{{x|Year of Sorrow}},"
-{{c|1911|Muhammad}}'s situation grew desperate.
-Persecution intensified. Would there be a morrow?
+{{c|2758|Khadija}} too, the {{x|Year of Sorrow}}; and
+His danger grew; and in six-twenty-two
+He made the {{c|2761|Hijra}} to {{p|Medina}}'s land,
+Whose tribes had asked him there, to judge them through
 
-In 622, he and his followers
-made the {{c|2761|Hijra}}, the migration, to {{p|Medina}},
-where tribes had invited him to arbitrate
-their feuds and be their prophet-leader subpoena.
+Their feuds, and be their prophet; by the count,
+Years start at {{c|2761|Hijra}}; and the {{c|2762|ummah}} there
+Became the first of {{x|Islam}}'s realms, the fount,
+With him both prophet and the ruler's chair.
 
-The {{c|2761|Hijra}} is year one of the Islamic calendar.
-The community in {{p|Medina}}, the {{c|2762|ummah}},
-became the first Muslim polity,
-{{c|1911|Muhammad}} as both prophet and ruler summa.
-
-The Jewish tribes of {{p|Medina}} initially
-were expected by {{c|1911|Muhammad}} to recognize him
-as a prophet in the Abrahamic line.
-When they refused, the qibla changed from the rim
+{{p|Medina}}'s {{c|2500|Jews}}, he thought, would come to see
+A prophet, {{c|1308|Abraham}}'s, in him; and grim,
+They would not have it; so it came to be
+The {{x|qibla}} of the prayer moved from the rim
 
 of {{p|Jerusalem}} to {{p|Mecca}}. The fast
 was moved from {{x|Yom Kippur}} to {{x|Ramadan}}:
 one fast, one prayer, one Abraham, recast
 as the two houses' quarrel, carried on.
 
-War with the {{c|1916|Quraysh}} broke out. The {{c|2763|Battle of Badr}}
-in 624 was the first great victory.
-Three hundred {{c|2764|Muslims}} defeated one thousand {{c|1916|Quraysh}}.
-It was taken as divine sanction for their story.
+And war with the {{c|1916|Quraysh}}: at {{c|2763|Badr}}, the first,
+Six-twenty-four, three hundred beat their foes,
+A thousand strong; at {{x|Uhud}} came the worst:
+Six-twenty-five, he fell, and wounded, rose,
 
-The {{x|Battle of Uhud}} in 625 was a defeat.
-{{c|1911|Muhammad}} was wounded, thought dead briefly.
-The community was shaken. New revelations
-addressed the setback and steadied them chiefly.
+Thought dead a while; and words came down to stay
+The shaken; at the {{x|Trench}}, twenty-seven,
+They dug, as {{p|Persians}} dug, and held the day,
+And the {{c|1916|Quraysh}} withdrew, as sent from heaven.
 
-The {{x|Battle of the Trench}} in 627 was
-a siege of {{p|Medina}} by the {{c|1916|Quraysh}},
-repelled by the strategy of digging a trench,
-a Persian tactic from a convert's wish.
+And the {{c|2751|Banu Qurayza}} were then tried
+For joining with the foe; their men were slain,
+Their women and their children sold. Beside,
+Six-twenty-eight, {{x|Hudaybiyyah}}; again
 
-After the siege, the Jewish tribe {{c|2751|Banu Qurayza}}
-was accused of conspiring with the enemies.
-The men were killed, the women and children enslaved.
-This is one of the darkest episodes in history's arenas.
-
-In 628, the {{x|Treaty of Hudaybiyyah}}
-was negotiated with the {{c|1916|Quraysh}}.
-It seemed unfavorable to the {{c|2764|Muslims}},
-but {{c|1911|Muhammad}} accepted, and his ash
-
-followers grumbled. Within two years
-the treaty was broken by {{c|1916|Quraysh}} allies.
-{{c|1911|Muhammad}} marched on {{p|Mecca}} with ten thousand
-and the city surrendered without heavy plies.
+A truce was made, though weak it seemed; in two
+Years the {{c|1916|Quraysh}}' friends then broke it; and he came,
+Ten thousand strong, to {{p|Mecca}}; and it knew
+To yield, and gave itself up in his name.
 
 {{c|1911|Muhammad}} came into the {{p|Kaaba}}; there
 its images were cleared, the house made {{c|472|God}}'s;
 he gave its keepers back the key to bear,
-forgave most enemies, and spared the rod.
-It was the triumph of his mission.
-{{p|Mecca}} was now the center of the new community.
+forgave most enemies, and spared the rods.
 
-In 632, {{c|1911|Muhammad}} made the {{x|Farewell Pilgrimage}},
-delivered the {{x|Farewell Sermon}} at {{p|Arafat}},
-and died shortly after in {{p|Medina}}
-in the arms of {{c|2765|Aisha}}, his beloved mate.
+It was the triumph of his mission, done:
+{{p|Mecca}} was now the center of the new
+Community; six-thirty-two, he'd run
+The {{x|Farewell Pilgrimage}}, and spoke, all through,
 
-The community was devastated. {{c|2766|Abu Bakr}},
-his oldest friend and father-in-law,
-addressed the crowd: "If you worshipped {{c|1911|Muhammad}},
-know that he is dead. If you worship {{c|2740|Allah}}, he lives raw."
+At {{p|Arafat}}, the {{x|Farewell Sermon}}; then
+He died soon after at {{p|Medina}}, head
+In {{c|2765|Aisha}}'s arms; and all his grieving men
+Heard {{c|2766|Abu Bakr}}, his old friend, who said:
 
-{{c|2766|Abu Bakr}} was elected the first {{c|2767|caliph}},
-the successor, the {{c|2768|Rightly Guided}}.
-He crushed the {{x|Ridda}} wars, tribes rebelling,
-and held the ummah together, undivided.
+If you worshipped {{c|1911|Muhammad}}, he is dead;
+If you have worshipped {{c|2740|Allah}}, he lives on.
+{{c|2766|Abu Bakr}} was first {{c|2767|caliph}}, and led,
+{{c|2768|Rightly Guided}}; and with the rebels gone,
 
-Then came {{c|2769|Umar}}, second caliph, who
-launched the great Arab conquests outward.
-Within twelve years of {{c|1911|Muhammad}}'s death,
-{{p|Syria}}, {{p|Iraq}}, {{p|Persia}}, {{p|Egypt}} fell toward
+The {{x|Ridda}} crushed, he held the {{c|2762|ummah}} one.
+Then {{c|2769|Umar}} sent the {{c|1910|Arabs}} out; within
+Twelve years after the {{c|2776|Prophet}}'s death, they'd won
+{{p|Syria}}, {{p|Iraq}}, {{p|Persia}}, {{p|Egypt}}; in
 
-the new empire. The {{p|Sassanid Empire}}
-collapsed completely. The {{p|Byzantine Empire}}
-lost its richest provinces. The map was redrawn.
-A new civilization rose from the fire.
+The {{c|2596|Sassanids}} fell; {{p|Byzantium}} lost
+Its richest lands; the map was drawn anew;
+{{c|2769|Umar}} was slain; and {{c|2770|Uthman}}, at the cost
+Of other copies, made the {{x|Quran}} true
 
-{{c|2769|Umar}} was assassinated. {{c|2770|Uthman}} was third caliph,
-who codified the {{x|Quran}} in its current form,
-collected all variants, destroyed the others,
-standardized the text without reform.
+In one text; and was slain; {{c|2771|Ali}}, the fourth,
+The cousin, son-in-law; the {{c|2772|fitna}} came,
+The war among them; he was slain; and forth
+Came {{c|2773|Muawiya}}, took the caliph's name;
 
-{{c|2770|Uthman}} was assassinated too. {{c|2771|Ali}},
-{{c|1911|Muhammad}}'s cousin and son-in-law, became fourth.
-But the first {{c|2772|fitna}}, civil war, broke out.
-The community was dividing without forth.
-
-{{c|2771|Ali}} was assassinated. {{c|2773|Muawiya}} of the {{c|2774|Umayyad}} clan
-seized the caliphate, moved capital to {{p|Damascus}}.
-The {{x|Rashidun}} era ended. The {{c|2774|Umayyad}} dynasty
-began its ninety-year rule over fate's ramparts.
-
-Those who had favored {{c|2771|Ali}} became
-the {{c|2775|Shia}}, "the party of {{c|2771|Ali}},"
-holding that the caliphate should have stayed
-in the {{c|2776|Prophet}}'s family, loyally.
-
-Those who accepted the status quo became
-the {{c|2777|Sunni}}, "followers of the sunnah,"
-the tradition, the mainstream majority.
-The split between them would be enduring, the fissure not undone.
+At {{p|Damascus}} the {{c|2774|Umayyads}} rose;
+For {{c|2771|Ali}} were the {{c|2775|Shia}}, all his own,
+Held that the {{c|2776|Prophet}}'s house should rule; and those
+Who stayed, the {{c|2777|Sunni}}, kept the custom known.
 
 
 # Chapter 193: Journey to the West
