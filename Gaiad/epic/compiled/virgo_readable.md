@@ -1706,90 +1706,95 @@ Of both, no seam. Draw the stone. Know the heart.
 
 # Chapter 269: The Sky Opens
 
-In 1608 a spectacle-maker in {{p|Middelburg}}, in {{p|Zeeland}},
-Hans Lipperhey, asked the States for a patent on a tube
-With two lenses that made far things near. The steeple, and
-The weathercock on it, across the town, came close. A cube
+In sixteen-eight, in {{p|Zeeland}}, lenses made
+Hans Lipperhey, at {{p|Middelburg}}, would ask
+The States for patent on a tube, displayed,
+Two lenses, far things near: a simple task;
 
-Of a toy, sold at fairs within the year. In {{p|Padua}}
-A professor of mathematics heard the rumour in 1609,
-Galileo Galilei, and without seeing one he knew what the parts would do,
-And ground his own lenses, and made one, and made the line
+The steeple, weathercock, across the town,
+Came close; within a year, a toy at fairs;
+In {{p|Padua}} the rumour, coming down,
+Reached one professor; sixteen-nine; he dares,
 
-Of sight stronger: three times, then eight, then twenty.
-In August he climbed the bell tower of {{p|Saint Mark's}} in {{p|Venice}}
-With the senators, old men panting up the stairs, and plenty
-Of them saw ships two hours before the naked eye. The premise
+Galileo Galilei, he who knew,
+Unseen, what parts would do; ground his own glass,
+And made one: three times, eight, then twenty, through
+{{p|Saint Mark's}} bell tower in August; en masse,
 
-Was war and trade, and they doubled his salary.
-But that winter he turned it upward. Nobody had done that
-In earnest. And the sky that had been a gallery
-Of perfect lights, crystalline, unchanging, flat
+The old men, panting up the stairs, and saw
+Ships well before the naked eye; they paid;
+The premise: war and trade. And then, with awe,
+That winter, turned it upward, unafraid:
 
-Against the dark, opened. The Moon had mountains.
-He saw their shadows lengthen at the edge of the light,
-And measured them, and they were higher than the fountains
-Of the {{p|Alps}}: a world, rough, like ours. The night
+None had in earnest. And the sky, the hall
+Of perfect lights, so crystalline and flat
+Against the dark, was opened: and, through all,
+The Moon had mountains; and he saw, at that,
 
-Of the seventh of January, 1610, he looked at Jupiter
-And saw three little stars beside it in a line,
-And the next night they had moved, and the night after, the cluster
-Had changed again, and a fourth appeared, and the sign
+Their shadows lengthen at the light's own rim,
+And measured them: higher than {{p|Alps}}; a world,
+Rough, like ours. January's seventh, dim,
+In sixteen-ten: at Jupiter; and, curled
 
-Was clear: they were going around Jupiter. Moons.
-Something in the sky that did not go around the {{p|Earth}}.
-The Milky Way was not a mist: it was stars, in dunes
-And drifts beyond counting, more than had ever had birth
+Beside it, three small stars stood in a line;
+The next night they had moved, and after, too;
+A fourth appeared; the cluster's shift, the sign
+Was clear: they went round Jupiter: moons, new:
 
-In any catalogue. In March he printed it all in a little book,
-*The {{x|Starry Messenger}}*, in {{p|Venice}}, and named the moons
-For the Medici, and got a post in {{p|Florence}} for the look.
-And later the phases of Venus, like the {{x|Moon}}'s, the tunes
+A thing that did not circle round the {{p|Earth}}.
+The Milky Way: no mist, but stars, in dunes
+And drifts past counting, more than had had birth
+In catalogues; in March, the book, the moons
 
-Of a planet going round the {{x|Sun}}, as Copernicus had said.
-And spots on the {{x|Sun}} itself: the perfect heaven had stains.
-The sky was not another kind of stuff. It was made
-Of world. The same world. Rock and fire and the rains
+In *{{x|Starry Messenger}}*, in {{p|Venice}} spread,
+Named for the Medici; {{p|Florence}}, a post;
+The phases then of Venus, as was said
+By Copernicus: round the {{x|Sun}}; and most
 
-Of light. That is what the glass gave everyone who looked:
-Not a new idea. A view. Anyone could climb a tower
-And see it. The authority of the book was hooked
-And pulled out of the sky. And that was the hour
+Of all, the spots upon the {{x|Sun}}: the stain
+On perfect heaven. Sky was not apart;
+It was made of the world: rock, flame, and rain
+Of light. The glass gave all who looked, at heart,
 
-The trouble came. In 1616 he was warned not to hold
-That the {{p|Earth}} moves. In 1632 he wrote a dialogue
-In which the defender of the old sky was a fool, and old,
-And the Pope thought the fool was the Pope. The fog
+Not an idea: a view; one could climb
+A tower and see it: the book's sway shook
+And pulled out of the sky. And at that time
+The trouble came: sixteen-sixteen, he took
 
-Of the trial in 1633: an old man of sixty-nine
-In the white shirt of a penitent, on his knees,
-Abjuring, cursing and detesting the motion of the {{p|Earth}}, the line
-Read out in {{x|Latin}}. The story says he rose, and the breeze
+A warning not to hold the {{p|Earth}} could turn;
+In thirty-two, a dialogue: the old
+Sky's champion was a fool; the Pope, stern,
+Thought the fool was himself. The trial's cold
 
-Of the last word was: *and yet it moves*. He did not say it,
-Or not there. It was said for him, later, as the printers said
-*Here I stand* for Luther. He was sent home to stay. Let it
-Be told: under house arrest at {{p|Arcetri}}, blind, he fed
+In thirty-three: an old man, sixty-nine,
+In penitent's white shirt, upon his knees,
+Abjured the moving {{p|Earth}}, cursed it; the line
+In {{x|Latin}} read; he rose; and on the breeze
 
-On the work, and wrote his greatest book, on motion,
-Smuggled out to {{p|Leiden}} and printed by the Dutch,
-And died in 1642, the year, as if by a notion
-Of the sky's own, that Newton was born. And as much
+His last word: *And yet it moves*. He said it.
+Sent home to {{p|Arcetri}}, and there, blind, he fed
+On work; wrote his greatest book; they spread it,
+Smuggled to {{p|Leiden}}, by the Dutch; and dead
 
-As this chapter is about a lens, it is about a sorry.
-On the {{x|Seventh Day of Awe}}: in 1992, after a commission
-Of thirteen years, a Pope stood up, and without hurry,
-Said the {{x|Church}} had erred. Three hundred fifty-nine years. The admission
+In forty-two, the year, as if the sky
+Had planned it, that Newton was born. It ends
+Here, on a lens, and on a sorry. Why?
+The {{x|Seventh Day of Awe}}: the {{x|Church}} amends:
 
-Came. Late, and it came. That is what repentance can look like
-For an institution: slow, and true, and in public, and owned.
-Look up tonight. The moons of Jupiter are there. The spike
-Of a small telescope will show them. What was postponed
+It has said it erred, late; a commission
+Of thirteen years; a Pope stood up, and said
+The {{x|Church}} was wrong; the open admission,
+Late, and it came; repentance, owned, instead,
 
-Is not undone. What was refused is not refused now.
-Open the sky. Look. Let the evidence come in the window.
-And when you are the one who was wrong, take the vow
-He was never given: say so. Not in a whisper. Say it, and let it go.
+For institutions: slow and true and plain;
+Look up tonight: Jupiter's moons are there;
+A small telescope shows them; what, in vain,
+Postponed, is not undone; refused, nowhere.
+
+Open the sky; look; let the window in
+The evidence; and when you were the one
+Who was wrong, take the vow he could not win:
+Say so, not whispered; say it; let it run.
 
 
 # Chapter 270: The King of the Goths
