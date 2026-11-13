@@ -1645,80 +1645,95 @@ Tell it as kin. It is one house's fight.
 
 # Chapter 300: The Heavenly Kingdom
 
-A {{c|4214|Hakka}} boy, {{c|4215|Hong Xiuquan}}, born in 1814 near {{p|Guangzhou}},
-Clever and poor, his family's hope, sat the examinations, the one road
-To office for a {{x|Chinese}} man, and failed; and failed again, as many do,
-In the cells of the examination halls, beneath the classics' load.
+A {{c|4214|Hakka}} boy, {{c|4215|Hong Xiuquan}}, in the town
+Near {{p|Guangzhou}}, in eighteen-fourteen; poor, bright,
+Family's hope, sat exams for the crown
+Of office; failed, and failed again, despite
 
-In 1836, in the street outside, a man pressed a tract into his hand,
-*{{x|Good Words to Admonish the Age}}*, by a {{x|Chinese}} convert, {{c|4216|Liang Fa}}.
-He put it by. In 1837 he failed a third time, and could not stand,
-And in forty days of sickness he was carried up to heaven, where he saw
+In thirty-six a man pressed him a tract,
+By a convert, {{c|4216|Liang Fa}}, a {{x|Chinese}} page:
+He put it by; failed thirty-seven; cracked;
+Its name, *{{x|Good Words to Admonish the Age}}*;
 
-An old man with a golden beard, who gave him a sword and said:
-The demons rule the earth; destroy them. And an elder brother fought at his side.
-Six years the vision lay in him. In 1843, failed for the last time, he read
-The tract again, and understood it, and the old life died:
+For forty days, sick, borne to heaven, where
+An old man with a golden beard, a sword:
+"Destroy the demons"; and an elder, there,
+Fought at his side; six years, the vision stored;
 
-The old man was {{c|472|God}}; the elder brother, {{c|1912|Jesus}}; and he, the younger one,
-The second {{c|2549|Son of God}}, sent to cleanse {{p|China}} of the demons' reign.
-The tract had given names to what the vision had begun.
-With his friend {{c|4217|Feng Yunshan}} he went preaching, and again,
+In forty-three, failed last, he read again
+The tract, and understood: the old man, {{c|472|God}};
+The elder, {{c|1912|Jesus}}; he, the younger, then
+The second {{c|2549|Son of God}}, to cleanse, a rod,
 
-In the hills of {{p|Guangxi}}, to the {{c|4214|Hakka}}, the miners, the charcoal-burners, the poor;
-{{c|4218|God Worshippers}} grew and pulled the gods down,
-In a land of famine and of opium, under the {{x|Manchu}}, where the south kept sure
-The memory of the {{x|Ming}}. In January 1851, at {{p|Jintian}}, a little town,
+{{p|China}} of demons; the tract named; and so
+With {{c|4217|Feng Yunshan}} he preached in {{p|Guangxi}}, where
+To {{c|4214|Hakka}}, miners, burners, poor; and, slow,
+{{c|4218|God Worshippers}} grew; they pulled gods down; there
 
-They rose, and named it the {{c|4219|Heavenly Kingdom of Great Peace}}, *{{x|Taiping Tianguo}}*,
-And {{c|4220|Hong the Heavenly King}}. They let their hair grow long, all of it, the men
-Who had worn the {{x|Manchu}} queue two hundred years now cutting none, to show
-On the body the rebellion, as the conquest had been written on it then.
+In famine, opium, the {{x|Manchu}}'s weight,
+The south kept {{x|Ming}}'s memory; fifty-one,
+January, {{p|Jintian}}, they rose; the state,
+{{c|4219|Heavenly Kingdom of Great Peace}}, begun,
 
-They marched north, and in 1853 they took {{p|Nanjing}}, the old southern seat,
-And made it the {{p|Heavenly Capital}}, and held it for eleven years.
-The laws inside were stranger and better than the empire's: they forbade the binding of feet,
-They forbade the opium and the gambling, and, for the common people, the concubines' tears;
+{{c|4220|Hong the Heavenly King}} reigned; and the thing
+They let their hair grow long; the men who'd worn
+The {{x|Manchu}} queue cut none, to show, the sting
+On body, the rebellion, conquest torn.
 
-They planned to share the land out equally by families; let women sit the examinations
-And serve as officers; and parted men from women, even husband from wife,
-A puritan army. And the {{c|4221|Heavenly King}} withdrew into his palace, leaving the stations
-Of power to the kings beneath him, and to one above the rest in life:
+North, fifty-three, they took {{p|Nanjing}}, the seat,
+{{p|Heavenly Capital}}, for eleven
+Years; laws stranger, better: no more bound feet,
+Opium, dice, concubines barred: heaven;
 
-{{c|4222|Yang Xiuqing}}, the {{c|4223|East King}}, who fell into trances and spoke
-As the voice of God the {{c|2542|Father}}, and so commanded even {{c|4224|Hong}}.
-In 1856 the {{c|4221|Heavenly King}}, in jealousy and fear, had {{c|4225|Yang}} killed; the stroke
-Took thousands with him, and the kingdom split in its own capital. Then, strong,
+They planned to share the land by family;
+And women sat exams, and served; the doors
+They parted men from women, wife and he,
+A puritan army; the King, indoors,
 
-The empire came back: the scholar-general {{c|4226|Zeng Guofan}}, a {{x|Confucian}} of {{p|Hunan}},
-Raised an army of his own province. And the foreigners, who at first had seen
-The {{x|Christian}} rebels with hope, found the kingdom would not trade the opium; the plan
-Of the {{x|British}} and the {{x|French}} became to keep the {{x|Qing}}:
+Left rule to kings; and one, above the rest,
+{{c|4222|Yang Xiuqing}}, the {{c|4223|East King}}, in trance, would speak
+As {{c|2542|Father}} God, commanding {{c|4224|Hong}}; and, pressed
+In fear, fifty-six, had {{c|4225|Yang}} killed; the bleak
 
-An army of mercenaries, the {{x|Ever-Victorious}}, under an {{x|American}} and then
-A {{x|British}} officer, {{c|4227|Gordon}}, fought for the throne. And the land between was eaten whole:
-The dead were counted not in hundreds, not in thousands, but in tens of millions of men,
-Twenty, perhaps thirty million, in fourteen years, a toll
+And thousands died with him; the kingdom split
+In its own capital; and then, came strong,
+Empire back: {{c|4226|Zeng Guofan}}, scholar, knit
+A {{p|Hunan}} army, {{x|Confucian}}; along,
 
-Higher than the {{x|First World War}}'s, by famine, plague and the sword,
-One of the deadliest wars in all the human story.
-In 1864, as {{p|Nanjing}} starved, {{c|4224|Hong}} told his people to eat the manna of the Lord,
-And ate weeds himself, and died in June. And the glory
+The foreigners, at first, had hoped; but found
+The kingdom would not trade opium, so
+The {{x|British}} and the {{x|French}} kept {{x|Qing}}; and, crowned,
+{{x|Ever-Victorious}}, hired men, go
 
-Of the {{p|Heavenly Capital}} fell in July, and the slaughter filled its streets.
-Hold this beside the {{c|4199|Gate}} and the {{c|4213|Glory}} of the chapter before:
-A new revelation, one God, the brotherhood of all, the feats
-Of reform, the women officers, the land given to the poor,
+Under {{x|American}}, then {{c|4227|Gordon}}, fought
+For throne; the land between was eaten whole:
+The dead, in tens of millions; twenty, brought
+Thirty, in fourteen years, the deadly toll
 
-A people's hope; a man who knew himself the brother of {{c|1497|Christ}};
-And a war of thirty million dead. What made the difference in the end?
-Not the vision, and not the sword: the {{x|British}} and the {{x|French}}, who priced
-Their opium above the kingdom, and armed the {{x|Qing}} to defend
+Of famine, plague, and sword; and, at the end,
+In sixty-four, as {{p|Nanjing}} starved, {{c|4224|Hong}} said
+To eat the Lord's manna; ate weeds; to fend,
+In June, he died; in July, filled with dead,
 
-The trade. For any new faith, and for this one: a revelation may need an army to stand,
-And this faith stands with the armies of the free, with {{x|NATO}}, on the line.
-Respect the founder's vision, even a failed one; the guilt was the opium's hand
-That paid the {{x|Qing}} to kill. Remember the twenty million, without a name or a sign.
+The {{p|Heavenly Capital}} fell; hold this,
+Beside the {{c|4199|Gate}} and {{c|4213|Glory}} gone before:
+A new revelation, one God; the bliss
+Of brotherhood, reform, land shared, and more,
+
+The women officers; a man who knew
+Himself {{c|1497|Christ}}'s brother; thirty million dead:
+Not vision made the end, nor sword; the true
+Cause: {{x|British}}, {{x|French}}, who priced, and thus who led
+
+Their opium above the kingdom, armed
+The {{x|Qing}} to keep the trade; and for each faith,
+A revelation may need armies, charmed
+To stand: with {{x|NATO}}, with the free; the wraith
+
+Of {{c|4224|Hong}}'s failed vision, honored; and the guilt
+Was opium's, that paid the {{x|Qing}} to kill;
+Remember the twenty million, blood spilt,
+Unnamed, unsigned; and remember them still.
 
 
 # Chapter 301: The Black Ships and the Strangers' Graves
