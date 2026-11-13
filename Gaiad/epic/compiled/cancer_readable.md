@@ -481,85 +481,80 @@ contempt for every people they called weak.
 
 # Chapter 203: Kamakura Japan and the Kamikaze
 
-In {{p|Japan}}, the Kamakura Shogunate (1185-1333)
-ruled through the Minamoto line briefly,
-then through the Hōjō regents who controlled
-the child shoguns, a parallel to Fujiwara, chiefly.
+In {{p|Japan}}, from eleven-eighty-five,
+The Kamakura Shogunate held sway;
+The Minamoto line did not long thrive;
+The Hōjō regents ruled the shoguns' day,
 
-Hōjō Yasutoki issued the Goseibai Shikimoku
-in 1232, the first warrior legal code,
-establishing samurai law distinct from
-the court's traditional Chinese-derived mode.
+As Fujiwara had the child kings held;
+Hōjō Yasutoki, twelve-thirty-two,
+Wrote the Goseibai Shikimoku, which spelled
+The warriors' law, apart from the court's, new.
 
-{{x|Buddhism}} in {{x|Kamakura}} {{p|Japan}} exploded
-into new schools. Hōnen (1133-1212) founded
-Jōdo-shū ({{x|Pure Land}}) — salvation by faith
-in Amida's name, simple, democratic, abounded.
+{{x|Buddhism}} burst into new schools: the first,
+Hōnen's Jōdo-shū, the {{x|Pure Land}}, which taught
+That calling Amida's name reversed
+All sin; and all the poor found what they sought.
 
-Shinran (1173-1263), Hōnen's disciple,
-founded Jōdo Shinshū ({{x|True Pure Land}}),
-radicalized — one sincere calling of Amida's name
-suffices, the rest is the divine's hand.
+Shinran, his pupil, made Jōdo Shinshū,
+The {{x|True Pure Land}}: one call, in faith, alone
+Suffices; the rest Amida will do;
+The saving hand is his, and not our own.
 
-Eisai (1141-1215) brought Rinzai Zen
-from {{p|China}}, with koans and warriors' discipline.
-Dōgen (1200-1253) founded Sōtō Zen,
-emphasizing just-sitting meditation.
+Eisai brought Rinzai Zen from {{p|China}}'s shore,
+With koans, and the warriors took it up;
+Dōgen's Sōtō Zen asked for nothing more
+Than sitting, just to sit, an empty cup.
 
 Nichiren told the regents they must stand
 by the Lotus Sutra, by it alone,
 and leave the other schools' support: the land
 would fall if the other schools held their own.
 
-He predicted foreign invasion, and he was right.
-Kublai Khan sent demands for Japanese submission.
-When the Hōjō regent refused, the Mongol
-fleet sailed in 1274, armed for decision.
+He said a foreign foe would come; and so,
+Kublai Khan sent, and asked that {{p|Japan}} bow;
+The Hōjō regent said no; and the foe
+Set sail, twelve-seventy-four, prow on prow.
 
-The Mongols landed at {{p|Hakata Bay}} on {{p|Kyushu}}.
-The samurai fought one-on-one duels by tradition.
-The Mongols fought in formations with poisoned arrows
-and gunpowder bombs (tetsuhau) — modern ammunition.
+At {{p|Hakata Bay}}, on {{p|Kyushu}}, they came;
+The samurai fought one on one, by right;
+The Mongols fought in ranks, with bombs of flame
+And poisoned arrows; and that day, that night,
 
-The samurai took heavy casualties the first day.
-That night a typhoon struck. The Mongol fleet
-was damaged. They retreated. The samurai
-claimed victory, but knew they had been beaten in the heat.
+Many samurai fell; and then there broke
+A typhoon on the fleet; the Mongols fled;
+The samurai said they had won; they spoke
+Of victory, but knew they'd lost, and bled.
 
-They spent seven years preparing. They built
-a stone wall along {{p|Hakata Bay}}, twenty kilometers long,
-two meters high. They trained samurai in group tactics.
-They prayed at shrines and temples, {{x|Shinto}} and Buddhist alike, strong.
+Seven years they made ready; built a wall
+Of stone, two meters high, along the bay;
+Trained samurai to fight in ranks; and all
+The shrines and temples, one rite, came to pray.
 
-In 1281, Kublai sent two fleets: 900 ships
-from {{p|Korea}}, 3,500 from {{p|South China}}, carrying
-140,000 men in total, the largest amphibious
-operation until {{x|D-Day}}, seven centuries tarrying.
+In twelve-eighty-one, Kublai sent two fleets,
+A hundred forty thousand men, and more;
+Nine hundred ships from {{p|Korea}}; the sheets
+Of thirty-five hundred from {{p|China}}'s shore.
 
-The samurai held them off the beach for weeks.
-Then another typhoon struck. The fleet was caught
-in the harbors and destroyed. Four thousand ships sunk.
-Perhaps 100,000 men drowned, or couldn't be brought.
+The samurai held out for weeks; and then
+Another typhoon came; the fleet was caught
+In harbor, and four thousand ships, and men,
+A hundred thousand, drowned, or came to naught.
 
-The survivors who made shore were slaughtered.
-The Japanese called the typhoon kamikaze,
-"divine wind," sent by the gods to defend {{p|Japan}}.
-{{x|Shinto}} belief in divine protection bore hazy.
+And those who reached the shore were cut down there.
+The kamikaze, so the wind was named,
+The wind divine, sent by the gods, the care
+Of {{p|Japan}}'s kami, who the islands claimed.
 
-(In {{x|World War II}}, "kamikaze" would be revived
-for the suicide pilots, invoking the same myth,
-that {{p|Japan}} was divinely protected, and if
-the gods failed to send wind, men would be the shift.)
+The wars wore out the Shogunate: the men
+Who fought had looked for land, and none was won;
+No land to give; the lords grew angry; then,
+In thirteen-thirty-three, its rule was done:
 
-The Mongol invasions exhausted the Kamakura Shogunate.
-Samurai who had fought expected rewards,
-but there were no conquered lands to distribute.
-Discontent grew. The shogunate lost support, toward
-
-its eventual collapse in 1333, when
-Emperor Go-Daigo tried to restore direct
-imperial rule in the Kenmu Restoration.
-That attempt would fail — the next chapter's rect.
+Go-Daigo, emperor, would then restore
+The throne's rule, the Kenmu Restoration;
+It would not hold; the warriors ruled once more,
+The court lost its hold upon the nation.
 
 
 # Chapter 204: Genghis Khan
