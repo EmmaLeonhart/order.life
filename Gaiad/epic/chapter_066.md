@@ -22,7 +22,7 @@ New generations than the swamp could hide.
 
 The cockroaches, the most ancient of all
 Who filled the {{x|Carboniferous}} worldwide
-That scholars gave the era's ancient call
+That gave to all the era's ancient call
 "The {{x|Age of Cockroaches}}," the name applied—
 
 Ten thousand times the number of a man
