@@ -1552,100 +1552,70 @@ And the one house, with one door more, set free.
 
 # Chapter 182: The Fall of Han
 
-While {{p|Rome}} was under the {{c|2684|Severans}} strained,
-the {{c|2556|Han Dynasty}} in {{p|China}} fell apart.
-The eunuchs fought the Confucian scholars.
-The {{c|2568|Yellow Turbans}} rose with fervent heart.
+While {{p|Rome}} strained, under {{c|2684|Severans}}, the {{p|Han}}
+Fell into pieces: eunuchs fought the men
+Of learning; and the {{c|2568|Yellow Turbans}} ran,
+Rose, the {{c|2686|Yellow Turban Rebellion}}, then,
 
-{{c|2685|Zhang Jue}} and his brothers led
-the {{c|2686|Yellow Turban Rebellion}} in 184.
-{{x|Taiping Dao}}, the {{x|Way of Great Peace}},
-promised a new heaven, a new core.
+With {{c|2685|Zhang Jue}} and his brothers, at its core:
+{{x|Way of Great Peace}}; he healed by faith and rite;
+And when the plague and famine struck once more,
+A hundred thousand came to him to fight.
 
-{{c|2685|Zhang Jue}} claimed healing powers, faith
-cures, magical ceremonies, bean counting.
-When plague and famine struck the peasants,
-his followers numbered hundreds of thousands mounting.
+And then the court of {{x|Han}} raised up great hosts,
+And crushed them; but the generals grew too strong;
+{{c|2687|Dong Zhuo}} took the capital, and boasts
+Of holding the boy emperor; the wrong
 
-The {{x|Han}} court raised armies, crushed the revolt,
-but the generals became too strong thereby.
-{{c|2687|Dong Zhuo}} marched into the capital,
-controlled the boy emperor, made him cry.
+Was ended with his murder; and the lords
+Of war cut {{p|China}} up like meat on bone;
+{{c|2688|Cao Cao}}, {{c|2689|Liu Bei}}, {{c|2690|Sun Quan}}, with all their swords,
+Became the three, each ruling in his own:
 
-{{c|2687|Dong Zhuo}} was assassinated. The warlords
-carved up {{p|China}} like meat on the bone.
-{{c|2688|Cao Cao}}, {{c|2689|Liu Bei}}, {{c|2690|Sun Quan}} emerged
-as the three great regional powers alone.
+{{c|2688|Cao Cao}}, north, held the emperor, and ruled
+In {{x|Han}}'s name; and {{c|2689|Liu Bei}}, of {{x|Han}}'s own blood,
+Who took the southwest, {{p|Shu}}; and, father-schooled,
+{{c|2690|Sun Quan}} the {{p|Yangtze}}'s south, the east, the flood,
 
-{{c|2688|Cao Cao}} held the north, controlled the emperor,
-ruled through the {{x|Han}} name though he was king.
-{{c|2689|Liu Bei}} claimed descent from {{x|Han}} imperial blood,
-built his base in {{p|Shu}}, the southwestern ring.
+{{p|Wu}}'s kingdom. In two-twenty, {{c|2688|Cao Cao}}'s son,
+{{c|2691|Cao Pi}}, then forced the last {{x|Han}} to give way;
+The {{x|Han}} was dead; and {{p|Wei}} had now begun;
+{{c|2689|Liu Bei}} named {{p|Shu Han}}; {{p|Wu}}, another day:
 
-{{c|2690|Sun Quan}} inherited the south from his father and brother,
-built his power along the {{p|Yangtze}}'s mouth,
-{{p|Wu}} the eastern kingdom along the coast.
-{{x|Three Kingdoms}}: {{p|Wei}}, {{p|Shu}}, {{p|Wu}}, facing drouth.
-
-In two-twenty, {{c|2688|Cao Cao}}'s son {{c|2691|Cao Pi}}
-forced the last {{x|Han}} emperor to abdicate.
-The {{x|Han}} was formally dead. {{c|2691|Cao Pi}}
-declared {{p|Wei}} dynasty at its birth date.
-
-{{c|2689|Liu Bei}} declared {{p|Shu Han}} in response.
-{{c|2690|Sun Quan}} declared {{p|Wu}} a few years later.
-The {{x|Three Kingdoms}} period had begun,
-lasting sixty years, never quieter.
-
-The {{x|Han}} had lasted four hundred years.
-Its fall was the end of classical Chinese order.
-What followed was three centuries of division,
-three centuries of warfare on every border.
-
-The {{x|Three Kingdoms}}, then {{x|Jin}} unification briefly,
-then the {{x|Sixteen Kingdoms}} in the north,
-then the {{x|Southern and Northern Dynasties}} period,
-three hundred years of {{p|China}} torn forth.
+The {{x|Three Kingdoms}}. Four hundred years the {{x|Han}}
+Had lasted; and its end was end of all
+The old order; then war, the ages' span
+Of the north's kingdoms, and the southern fall.
 
 And in this time {{x|Buddhism}} took deep root:
 as the old order failed, the people turned
 to the one rite from {{p|India}}, its fruit
 in sutras and in monasteries earned.
 
-{{c|2692|Kumarajiva}} was brought from {{p|Kucha}} as hostage
-to {{p|Chang'an}} where he translated sutras,
-the {{x|Lotus}}, the {{x|Diamond}}, the {{x|Vimalakirti}},
-setting the standard for Chinese Buddhist tutors.
+{{c|2692|Kumarajiva}}, from {{p|Kucha}}, brought
+A hostage to {{p|Chang'an}}, made there anew
+{{x|Lotus}}, {{x|Diamond}}, {{x|Vimalakirti}}, taught
+In {{x|Chinese}}, as the standard, plain and true.
 
-{{x|Daoism}} also consolidated in this period
-into an organized religion with clergy,
-temples, canon, and liturgies modeled
-on Buddhist forms they found analogously.
+{{x|Daoism}} too became a church: the line
+Of {{c|2693|Celestial Masters}}, from {{x|Han}}'s late days,
+With clergy, temples, canon, rites in sign
+Of {{x|Buddhist}} forms; {{c|2694|Ge Hong}}'s alchemic ways
 
-The {{c|2693|Celestial Masters}} had emerged
-in the late {{x|Han}} as an organized church.
-{{c|2694|Ge Hong}}'s alchemy sought immortality.
-{{x|Daoism}} became institutional perch.
+Sought deathless life. And of that age, the men:
+{{c|2688|Cao Cao}}, the cunning, ruthless; and the good,
+{{c|2689|Liu Bei}}, the rightful claimant; and again,
+{{c|2698|Zhuge Liang}}, wisest planner, as he could;
 
-{{p|China}} would not be reunified until
-{{c|2695|Sui Wendi}} in five-eighty-nine.
-And then the {{c|2696|Tang Dynasty}} would build
-on that foundation the greatest era fine.
+And {{c|2699|Guan Yu}}, the sworn brother, loyal, true,
+Whom still they honor; and their tales are told
+In {{p|China}}, as {{x|Mahabharata}}, through
+{{p|India}}; as the {{x|Iliad}}, of old.
 
-But first, the {{x|Three Kingdoms}} would become
-the great subject of Chinese historical imagination.
-The {{c|2697|Romance of the Three Kingdoms}} novel
-would make these warlords into every nation's creation.
-
-{{c|2688|Cao Cao}}: the cunning, ruthless antihero.
-{{c|2689|Liu Bei}}: the virtuous, righteous claimant.
-{{c|2698|Zhuge Liang}}: the brilliant strategist advisor.
-{{c|2699|Guan Yu}}: the loyal sworn brother, servant of heaven's pavement.
-
-Their stories would shape Chinese culture
-for fifteen centuries to come,
-like the {{x|Mahabharata}} for {{p|India}},
-like the {{x|Iliad}} for classical Greek home.
+So honor them, the three who split the land,
+The one rite, rooting when the old went down,
+{{c|2692|Kumarajiva}}'s words, and the true hand
+Of {{c|2699|Guan Yu}}, the faithful, without a crown.
 
 
 # Chapter 183: Jimmu to Jingū
