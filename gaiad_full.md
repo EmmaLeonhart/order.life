@@ -43774,89 +43774,115 @@ Of feeling, ache of things, for all: the song.
 
 # Chapter 295: The Crown He Took
 
-On {{x|Christmas Day}} in the year 800, in {{p|Saint Peter's}}, a pope set a crown on a kneeling king,
-{{c|2677|Charlemagne}}, who had not asked for it, and called him {{c|4141|Emperor of the Romans}},
-And for a thousand years the {{p|West}} had an emperor, the crown of the Romans carried north, a ring
-Of electors and princes and bishops around one name, the {{p|Holy Roman Empire}}, whose summons
+In eight hundred, on {{x|Christmas Day}}, a pope
+Crowned kneeling {{c|2677|Charlemagne}}, who had not asked,
+{{c|4141|Emperor of the Romans}}; and the scope:
+A thousand years the {{p|West}}, emperor-tasked,
 
-Held a continent in one order under heaven, longer than any crown of the {{p|West}} has held since.
-{{c|4001|Voltaire}} mocked it as neither holy, nor {{x|Roman}}, nor an empire. A joke is not a reading.
-It kept the {{x|Roman}} name alive in the north a thousand years, and every prince
-Who knelt to it knelt to a crown that came from above, at a church's leading.
+Electors, princes, bishops round one name,
+The {{p|Holy Roman Empire}}, as one
+A continent, one heaven; and the same
+Long {{x|Roman}} name kept north; and, as begun,
 
-Then the {{x|Revolution}} shut the churches, and set {{x|Reason}} on the altar of {{p|Notre-Dame}},
-And {{c|4122|Robespierre}} put God back, the {{x|Supreme Being}} of an earlier chapter, against the atheists of his own side,
-Because a republic, he saw, cannot stand on nothing; and the soldier who came after him walked the same
-Road. In 1801 the {{x|Concordat}}: the {{x|Church}} came home to {{p|France}}, with the state for its guide,
+A crown from above; {{c|4001|Voltaire}}'s mock, a joke,
+No reading. Then the {{x|Revolution}} shut
+The churches, {{x|Reason}} on the altar; spoke
+{{c|4122|Robespierre}}, God back; the atheists, cut
 
-Bishops named by the First Consul, priests paid from the treasury, the faith of the land
-Brought back and made the state's. He did not abolish the {{x|Church}}. He took it in.
-First he sacked {{p|Rome}}, as {{c|2|Emma Leonhart}} says, and then he sacked {{p|Rome}} again, with the crown in his hand.
-He took {{x|Christianity}} and made it his: the most Lifeist thing a man could do, and where this book's own work begins.
+From his own side; republics need a ground;
+The soldier after walked the road the same:
+In eighteen-one: the {{x|Concordat}}; and found,
+The {{x|Church}} came home to {{p|France}}, the state its frame:
 
-On the second of December, 1804, in {{p|Notre-Dame}} in {{p|Paris}},
-{{c|2825|Pope}} {{c|4142|Pius VII}} sat waiting to crown a {{c|4143|Corsican}}, and the fire
-Of the moment: {{c|4066|Napoleon}} took the crown in his own hands. The plurals
+He did not end the {{x|Church}}; he took it, then;
+The bishops named, the priests paid from the purse;
+Sacked {{p|Rome}}, as {{c|2|Emma Leonhart}} says, again,
+Crowned, {{x|Christianity}} made his: the verse,
 
-Of the old story were ended in one gesture, the {{x|Church}} in the room to see it, and behind him,
-In the eye of this book, the ghost of {{c|4122|Robespierre}}. He crowned himself, then {{c|4144|Joséphine}}, kneeling; the painter {{c|1956|David}}
-Put it on a canvas ten metres wide, and painted in his mother, who had stayed home, the grim
-Truth adjusted for the record, as records are. Two years later, the cavity
+Most Lifeist thing a man could do; and so
+This book's own work begins. In eighteen-four,
+December's second, {{p|Notre-Dame}}; and slow,
+The {{c|2825|Pope}}, {{c|4142|Pius VII}}, sat to crown, before
 
-Of the old empire was empty: the {{x|German}} princes, bribed and beaten, left it
-For his {{p|Confederation of the Rhine}}, and on the sixth of August, 1806,
-The last emperor, {{c|4145|Francis II}}, laid the crown of {{c|2677|Charlemagne}} down, and what was left
-Of a thousand years went down with it, the crown that was given, not taken. The bricks
+A {{c|4143|Corsican}}; and he took up the crown
+In his own hands; and, in the eye of this
+Book, {{c|4122|Robespierre}}'s ghost stood behind him; down
+He crowned {{c|4144|Joséphine}}, kneeling; {{c|1956|David}}'s bliss,
 
-Of it had held a continent a thousand years; a soldier, not time, pushed it over.
-Now the register, which this book follows like a river.
-The {{x|Revolution}} had taken the books of births and marriages and deaths, the cover
-Of the parish, from the priests in 1792, and given them to the town hall, the giver
+Ten metres wide, put on a canvas, with
+His mother painted in, who'd stayed at home;
+Truth, for the record, changed, as records, myth;
+Two years: the old realm, empty; and the dome
 
-Of the record now the state. {{c|4066|Napoleon}} made it a code. The *{{x|Civil Code}}* of 1804,
-One law for every {{c|4146|Frenchman}}, written plain, the family, the property, the will,
-And wherever his armies went, the code went, and the registers, the door
-Of every birth opened by a clerk, not a priest: the {{p|Netherlands}}, the {{p|Rhineland}}, the {{p|Italy}} still
+Of {{x|German}} princes, bribed and beaten, went
+To his {{p|Confederation of the Rhine}};
+In eighteen-six, August the sixth, was spent:
+{{c|4145|Francis II}} laid down the {{c|2677|Charlemagne}} line,
 
-Keeping those books. And the names. In the {{p|Netherlands}} many families had none:
-A man was *{{c|4147|Jan Pieterszoon}}*, {{c|1093|Peter}}'s son, and his son *{{c|4148|Pieter Janszoon}}*, the line
-Of the patronymic turning each generation, as in {{p|Sweden}}, as {{c|4012|Linnaeus}}'s father had done
-Before the linden. In 1811 the {{x|French}} decreed: every family shall register, by a sign
+The crown that was given, not taken; held
+A thousand years; a soldier pushed it, felled,
+Not time. And now the register, compelled,
+That this book follows, as a river, spelled:
 
-Of the town hall, a fixed surname. And the {{x|Dutch}}, who thought the {{x|French}} would be gone
-In a year, some of them chose jokes: *{{c|4149|Naaktgeboren}}*, born naked;
-*{{c|4150|Zondervan}}*, without a *van*; and the {{x|French}} stayed long enough, and the joke went on
-For two hundred years on the children. In {{p|France}} in 1808 the {{c|2500|Jews}}, who had made
+The {{x|Revolution}} took books from the priest,
+Births, marriages, deaths, ninety-two; the hall
+Of town, the giver now; and, not the least,
+{{c|4066|Napoleon}}: {{x|Civil Code}}, law for all,
 
-Their names by father's name, were ordered to take fixed surnames too.
-And {{c|4066|Napoleon}} called a {{c|4151|Grand Sanhedrin}} of rabbis, the first in eighteen centuries,
-And the {{c|2500|Jews}} of the conquered lands were made citizens; the ghetto walls, the few
-Gates of {{p|Venice}} and {{p|Rome}}, opened by his soldiers. The entries
+In eighteen-four, each {{c|4146|Frenchman}}; family,
+The property, the will; and where his arms
+Went the code, the registers: {{p|Italy}},
+The {{p|Rhineland}}, {{p|Netherlands}}: the clerk's own charms.
 
-Of that gift and that demand are in the same register: be free, and be written.
-Hold the whole man as this book holds them all. The conqueror whose wars
-Killed some three million, perhaps more; who brought back slavery to the smitten
-Colonies in 1802; who carried {{c|4060|Ossian}} in his pocket; whose godson, of course,
+And names: the {{x|Dutch}} had none; a man was named
+{{c|4147|Jan Pieterszoon}}, {{c|1093|Peter}}'s son; his, in turn,
+{{c|4148|Pieter Janszoon}}: the line turned, as was framed
+In {{p|Sweden}}, just as {{c|4012|Linnaeus}}' father's turn;
 
-Became a king of {{p|Sweden}}, as an earlier chapter told; whose code is still the law
-Of half the world; who marched into {{p|Russia}} in 1812 with six hundred thousand
-And came back with a remnant; who lost at {{p|Waterloo}}, and saw
-The last of it from a rock in the {{p|South Atlantic}}, {{p|Saint Helena}}, the sand
+In eighteen-eleven, decree: a sign
+Of the town hall, fixed surnames; and the {{x|Dutch}},
+Who thought the {{x|French}} gone in a year, in line,
+Chose jokes: like *{{c|4149|Naaktgeboren}}*, born naked; such
 
-And the wind, dying in 1821. The crown he took: from a pope, from an empire, from the dead.
-He said: I found the crown of {{p|France}} lying on the ground, and I picked it up with my sword.
-What he left on the ground was the old idea that a crown is given. Instead
-The crown is taken, and the faith is taken in, and the register is kept. The Lord
+As *{{c|4150|Zondervan}}*, without a *van*; and long
+The {{x|French}} stayed; and the joke goes on today
+On children. Eighteen-eight: the {{c|2500|Jews}}, along
+With fathers' names, took fixed names, the same way;
 
-Of the old empire is gone. The clerk of the town hall remains,
-Writing the births, the marriages, the deaths, the surnames chosen in a hurry.
-That is his longest legacy: not the battles, the chains,
-The eagles, but the book in the mairie. The genealogist does not worry
+And he called a {{c|4151|Grand Sanhedrin}}, the first
+In eighteen centuries; and, as free men,
+The {{c|2500|Jews}} of conquered lands; the ghettos burst
+At {{p|Venice}}, {{p|Rome}}, by soldiers; and, again,
 
-About the Emperor. She thanks him for the registers that begin in 1811 in a {{x|Dutch}} village,
-For a name chosen in a year that became a family. The joke
-That became a surname. The surname that became a lineage. The pillage
-Of an empire, and a clerk with a pen. Hold both, in the smoke.
+The gift, demand, one register: be free,
+Be written. Hold the man; his wars killed some
+Three million; slavery restored, decree
+In eighteen-two; with {{c|4060|Ossian}}; to come,
+
+A godson king of {{p|Sweden}}; still the law
+Of half the world; to {{p|Russia}}, eighteen-twelve,
+Six hundred thousand, and returned, and saw
+{{p|Waterloo}}; {{p|Saint Helena}}, rock to delve,
+
+{{p|South Atlantic}}; died, eighteen twenty-one;
+The crown he took: from pope, from realm, from dead;
+"I found the crown of {{p|France}} on the ground, won
+And picked it up with my sword"; and instead
+
+Of crowns as given, crowns are taken; faith
+Is taken in; the register is kept;
+The old realm's lord is gone; and, like a wraith,
+The clerk remains, who wrote births, deaths, who kept
+
+The surnames chosen in a hurry; this,
+His legacy as well: the town hall's book,
+The mairie; the genealogist's bliss:
+She thanks him for the registers; the look
+
+Of eighteen-eleven, in a {{x|Dutch}} town,
+A name, a year, a family, a joke,
+A surname, then a line; the pillage, crown,
+The clerk, the pen: hold both, here, in the smoke.
 
 
 # Chapter 296: The Compilers
