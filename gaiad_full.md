@@ -36195,203 +36195,125 @@ Divided, as the hemisphere was young.
 
 # Chapter 228: Norte Chico
 
-The {{c|3413|Na-Dené}} moved south—and the world moved with them.
+Eight thousand years before our era, south
+The {{c|3413|Na-Dené}} moved, and all the world with them,
+While glaciers slowly drew back from the mouth
+Of the north, and the northern forest's stem
 
-Eight thousand years before the common era,
-While the glaciers made their slow and rhythmed
-Retreat and the boreal chimera
+Crept north across the warming land; and went
+A second stream flowed from {{p|Alaska}}'s moss
+And mountain-shadowed coast, the southward bent
+Of the old road rekindled; and, across,
 
-Of tundra-forest crept northward across
-The warming continent, a second stream
-Of peoples flowed from {{p|Alaska}}'s moss
-And mountain-shadowed coast—the dream
+Their tongue bore no kinship to tongues around:
+The late arrivals, whose crossing had come
+From {{p|Asia}} long after the first had found
+And filled the land; their grammar was the drum
 
-Of the southward road rekindled
-In a people whose language bore no kinship
-To the tongues around them—the dwindled
-But tenacious fellowship
+That marked them as the second wave. And where
+The salmon hung in curtains, silver, bright,
+The {{c|3414|Tlingit}} settled; totem poles, like prayer
+Of cedar, rose into the mist's grey light,
 
-Of the {{c|3413|Na-Dené}} speakers, the late arrivals
-Whose crossing from {{p|Asia}} had come
-Long after the first migration's survivals
-Had filled the land—and the drum
+With crests of eagles, bears, and ravens, grained
+In the red wood: the heraldry of clan,
+Kin's covenant with beasts; and wealth, once gained,
+The potlatch gave away, as was their plan.
 
-Of their different grammar, their different tongue,
-Announced them as the second wave.
+The {{c|3434|Haida}}, on {{p|Haida Gwaii}}, would build
+The ocean-going war-canoe, a hull
+Of single cedar, sixty feet, which filled
+The open strait with war and trade, past gull
 
-From {{p|Alaska}}'s coast where the salmon hung
-In silver curtains at the concave
+And terror, prows as killer whale's own mouth,
+Or the thunderbird: the {{c|3413|Na-Dené}}, their way,
+Mastered the coast that flowed toward the south,
+Their tongue shaped by the tide and salmon's day.
 
-Mouths of rivers, the {{c|3414|Tlingit}} settled—
-Their totem poles would rise like prayers
-Of cedar into the mist, the nettled
-And intricate crests of eagles, bears,
+And others kept on moving, south and south,
+Through mountain passes, past the desert's sun,
+Through the {{p|Great Basin}}'s sage, the silence' mouth,
+Into the {{p|American Southwest}}, run
 
-And ravens carved in the red wood's grain:
-The heraldry of the clan, the family's
-Covenant with the animal's domain,
-The potlatch feast where the anomalies
+In the canyon's clefts; and there, much later,
+The {{c|3435|Athabaskan}} peoples spread and fanned
+Out through the desert, migration greater:
+{{c|3436|Apache}}, {{c|3437|Navajo}}, across the land;
 
-Of wealth were solved by giving it away.
+The {{c|3438|Diné}}, those called the People, who arrived
+Where the {{c|3439|Puebloan}} and {{c|3440|Hohokam}} had worked
+The canyon, mesa, sand; and so they thrived,
+And learned the patient corn, nor ever shirked.
 
-The {{c|3434|Haida}} on their island kingdom
-Of {{p|Haida Gwaii}} built the relay
-Of the ocean-going canoe—the wisdom
+The corn was coming. Long ago, the land,
+Seven thousand years before our time, where
+{{p|Sierra Madre}} cut the sky, the hand
+Of the {{c|3441|Mesoamerican}} who knelt there
 
-Of the war-canoe carved from a single
-Cedar trunk, sixty feet of hull
-That could cross the open strait and mingle
-War and trade, the beautiful
+Before a grass, the {{c|3442|teosinte}}, dry
+And poor, whose seed was in a tiny cob
+No longer than a thumb; the farmer's eye
+Saw what selection's patience made its job:
 
-And terrifying prow carved as the mouth
-Of the killer whale or the thunderbird—
-The {{c|3413|Na-Dené}} mastery of the south-
-Flowing coast, every word
+The kernel's chance, the raw stuff of the art,
+The greatest engineering ever known:
+Evolution steered, a weed set apart
+To be the staff of life; and each seed sown
 
-Of their language shaped by tide and salmon-run.
+Was chosen: largest seed, and ear grown long,
+The softer kernel, and the greater yield,
+More generous; and over ages, strong,
+The cultivar took over all the field:
 
-And others kept moving—south and south,
-Through the mountain passes, past the sun-
-Bleached desert's open mouth,
+{{c|3443|Maize}}: the grass remade by the human will,
+Engineered miracle, a crop which could
+Not seed itself without the planter's skill
+To strip the husk and plant it, as it should:
 
-Through the {{p|Great Basin}}'s sage and silence,
-Into the {{p|American Southwest}}'s
-Canyon country, the compliance
-Of the human body with the clefts
+The truce between the species, partnership
+That bound the farmer and the field, the field
+And farmer, in a covenant, the grip
+Of neither could without the other yield;
 
-And crevices of the arid land—
-And there, millennia later,
-The {{c|3435|Athabaskan}} peoples fanned
-Into the desert as the greater
+The tamer and the tamed, both bound, both fed,
+In the great bargain; and from it would come
+All civilizations after it, fed
+By corn: no granary, no temple's drum,
 
-Migrations of the {{c|3436|Apache}} and {{c|3437|Navajo}}—
-The {{c|3438|Diné}}, "the People," who arrived
-In the {{p|Southwest}} with the undertow
-Of the {{c|3413|Na-Dené}} wave, and thrived
+No surplus, priest, or king, no counted day,
+No writing, no great realm without the corn;
+The corn was all, the hearth; and, in its way,
+The world of the {{p|Americas}} was born.
 
-In the canyon and the mesa and the sand
-Where older peoples—{{c|3439|Puebloan}} and {{c|3440|Hohokam}}—
-Had already worked the land,
-And the newcomers learned the calm
+And on {{p|Peru}}'s dry coast, where through the deep
+{{p|Humboldt Current}} spilt its cold upwelling
+Beside the driest land, the richest sweep
+Of sea, the first {{c|3404|Americans}}, dwelling,
 
-And patient agriculture of the corn.
+Built what would be the {{c|3444|Norte Chico}}'s first core:
+Not yet the plazas, not the sunken court,
+But fishing villages along the shore,
+The cotton net, the anchor stone, the sort
 
-For the corn was coming.
+Of racks, the anchovy's bright silver rows,
+The settled life, the first commitment made
+To a single place: we won't wander; those
+Who stay: the shore, the field, the river's aid;
 
-                            Seven thousand years
-Before the common era, born
-In the highland valleys where the shears
+The nomad's freedom given up for chains
+Of plenty. So honor the {{c|3413|Na-Dené}}'s way,
+The second wave, whose separate tongue, the gains
+Of totem, potlatch, cedar boat, would stay;
 
-Of the {{p|Sierra Madre}} cut the sky,
-The {{c|3441|Mesoamerican}} farmer knelt
-Before a grass called {{c|3442|teosinte}}—a dry
-And unpromising stalk that dealt
+And honor corn, the grass whose feeder was
+The patient hand, the covenant of seed
+And sower; and the fishers, who, because
+Of their dry coast, made of the sea their need,
 
-Its seeds in a tiny cob no longer
-Than a human thumb—but the farmer saw
-What patience and selection made stronger:
-The kernel's possibility, the raw
-
-Material of the greatest act of engineering
-The ancient world would ever know.
-
-For the domestication of the corn was the steering
-Of evolution itself—the slow
-
-And deliberate transformation of a weed
-Into the staff of life: each generation
-The farmer chose the largest seed,
-The fattest cob, the mutation
-
-That made the kernel softer, the ear longer,
-The yield more generous—and over
-Millennia of this, the stronger
-And more productive cultivar took over:
-
-{{c|3443|Maize}}—the engineered miracle,
-The grass remade by human will
-Into a crop so empirical
-And so dependent on the skill
-
-Of the planter that it could not reproduce
-Without the human hand to strip
-The husk and plant the seed—the truce
-Between the species and the partnership
-
-That bound the farmer to the field
-And the field to the farmer
-In a covenant that neither one could yield
-Without the other—the charmer
-
-And the charmed, the domesticator
-And the domesticated, each one prisoner
-And beneficiary of the greater
-Bargain—and the commissioner
-
-Of every civilization that would follow
-In the {{p|Americas}} was the corn:
-Without the corn, no city's hollow
-Granary, no temple born
-
-From surplus labor, no priest, no king,
-No calendar, no writing, no empire—
-The corn was everything,
-The corn was the fire
-
-Around which the American world was built.
-
-And in the coastal desert of {{p|Peru}},
-Where the {{p|Humboldt Current}} spilt
-Its cold and fertile upwelling through
-
-The driest land on earth—the paradox
-Of the richest sea beside the barest shore—
-The first {{c|3404|Americans}} built the orthodox
-And foundational settlements, the core
-
-Of what would become the {{c|3444|Norte Chico}}:
-Not yet the monumental plazas,
-Not yet the sunken courts, the fresco
-Of the sacred city—but the piazzas
-
-Of the fishing village, the cotton net,
-The anchor stone, the drying rack
-Where the anchovy's silver alphabet
-Was laid in rows—the track
-
-Of the settled life, the first sedentary
-Commitment to a single place:
-We will not wander—the commentary
-Of the permanent village, the embrace
-
-Of the shore that feeds us and the field
-That clothes us and the river that sustains—
-The nomad's freedom finally repealed
-By the farmer's and the fisher's chains
-
-Of abundance.
-
-              Honor the {{c|3413|Na-Dené}}—
-The second wave, the late arrivals
-Whose separate tongue and separate way
-Enriched the continent's survivals
-
-With the totem and the potlatch and the cedar
-Canoe—and honor the corn,
-The engineered grass whose feeder
-Was the patient hand, the born
-
-And reborn covenant between the seed
-And the sower—and honor the fishers
-Of {{p|Peru}}'s dry coast whose need
-And ingenuity were the swishers
-
-Of the net through the cold and teeming sea:
 The first {{c|3404|Americans}} who chose to stay,
-Who built the permanent village, the decree
-Of the settled life—and paved the way
-
-For the pyramid and the plaza and the priest.
+Who built the lasting village, and the creed
+Of settled life; and so they paved the way
+For pyramid and plaza, priest, decreed.
 
 
 # Chapter 229: Olmec Foundations
