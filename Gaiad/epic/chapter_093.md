@@ -89,7 +89,7 @@ Of desert's edge, where greater lords passed by
 
 Without a glance—for what was there to see
 In packs of small and slender running things?
-Nothing, perhaps—or else perhaps the key
+Nothing, they thought—and yet it was the key
 To everything the coming future brings:
 
 The greatest power is not tooth alone
