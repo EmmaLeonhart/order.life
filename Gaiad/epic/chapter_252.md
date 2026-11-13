@@ -1,26 +1,22 @@
 # Chapter 252: The Unsealed Book
 
-Now seal the book.
+Now seal the book. No: it was never sealed;
+The book was always open, set in grain,
+In corn and council flame, and so revealed
+In tongues that the {{c|3591|Creator}} gave the plain:
 
-                   No--the book was never sealed.
-The book was always open. The book was written
-In the corn and in the council fire, revealed
-In every language the {{c|3591|Creator}} had smitten
+Three hundred families of speech, a throng
+Of languages that named the world, the air
+Of a whole hemisphere; and in their song
+The names of {{c|472|God}}, that none need render there.
 
-Into being on this continent of tongues--
-Three hundred families of speech, a thousand
-Languages that named the world, the lungs
-Of a hemisphere breathing the thousand
+The rivers spoke them, and the mountains held
+Them in their granite; prayer of ages sprang
+From sacred springs, ten thousand years; unspelled,
+This was the book; this always was. It rang
 
-Names of {{c|472|God}} that no one needed to translate
-Because the rivers spoke them and the mountains
-Held them in their granite and the weight
-Of ten thousand years of prayer at the fountains
-
-Of the sacred springs--this was the book.
-This was always the book.
-
-                           Then, in one year,
+Through all the ages; then, beside that book,
+In one year, then, the record would draw near:
 a man in {{p|Palmyra}}, {{p|New York}}, would look
 into a stone and see the plates appear:
 
@@ -39,12 +35,12 @@ and blessed their children: the Redeemer's day
 that this book also keeps, its promise sealed
 to come again, and not to pass away.
 
-It named the peoples here {{c|3658|Lamanites}},
+It named the peoples {{c|3658|Lamanites}}: the rites
 of Laman's line, and darkened for the sin
 their fathers did; and here the quarrel bites:
 whose fathers were they? Jacob's, or the kin
 
-who walked out of {{p|Beringia}}? The gold plates
+who walked from {{p|Beringia}}? The gold plates
 said {{c|3402|Lehi}}; and the land said ice and coast;
 and the one house of the dead, at its gates,
 takes both: the tree has room for every ghost.
@@ -54,146 +50,100 @@ set out the book {{c|3661|Moroni}} had concealed,
 and his eleven witnesses, forthwith,
 signed that they saw the plates the hill revealed.
 
-In that same year--eighteen-thirty--the {{c|3484|American}}
-Congress passed the act that mattered most:
-The {{x|Indian Removal Act}}. The plan
+In that same year, eighteen-thirty, the act
+Of Congress came that mattered most: the plan,
+The {{x|Indian Removal Act}}, signed, backed
+By {{c|3645|Andrew Jackson}}, {{c|3662|Sharp Knife}}: so the man
 
-Of {{c|3645|Andrew Jackson}}--{{c|3662|Sharp Knife}}, the {{c|3636|Cherokee}} called him,
-The man who had already devoured
-The {{c|3639|Creek}} homeland, the general grim
-Who had conquered {{p|Florida}} and towered
+The {{c|3636|Cherokee}} named him; he'd devoured
+The {{c|3639|Creek}} homeland, the grim general, who
+Took {{p|Florida}}, over treaties towered;
+Now president, with the {{c|3626|Republic}}'s view
 
-Above the ruin of every treaty signed--
-Now held the presidency, and the weight
-Of the {{c|3626|Republic}}'s westward hunger, refined
-To a single policy, a single fate:
+Of westward hunger, made one policy:
+Remove them all. Each nation to the east
+Of the {{p|Mississippi}}, each {{c|3636|Cherokee}}
+Farm with its constitution, press, and feast
 
-Remove them all.
+Of learning; {{c|3637|Choctaw}} rule; each {{c|3638|Chickasaw}}
+Town with elected council; {{c|3639|Creek}} who'd made
+His home again since {{c|3663|Jackson}}'s war: the law,
+Move west. The east, the settlers said, was laid
 
-                  Every nation east
-Of the {{p|Mississippi}}--every {{c|3636|Cherokee}} farm
-With its constitution and its printing-press feast
-Of civilized achievement, every arm
+By {{c|472|God}} for them, a {{p|Promised Land}} aside
+For the {{c|3484|American}} republic's hand;
+The darker peoples, exiled, were to ride
+Beyond the {{p|Mississippi}}, to a land
 
-Of {{c|3637|Choctaw}} governance, every {{c|3638|Chickasaw}}
-Town with its elected council, every {{c|3639|Creek}}
-Who had rebuilt from {{c|3663|Jackson}}'s earlier war--
-Move west. The east is for the meek
+Where the republic promised them once more
+A home "as long as grass shall grow," the same
+Words spoken at each treaty there before,
+The vow, as soon as made, broken in shame.
 
-And pale inheritors of a {{p|Promised Land}}
-That {{c|472|God}}, the settlers said, had set aside
-For the {{c|3484|American}} republic's hand
-To cultivate. The darker peoples ride
+{{c|3664|John Ross}}, chief of the {{c|3636|Cherokee}}, by blood
+One-eighth, but theirs by measure of the day,
+Fought as they fought since {{c|3642|Sequoyah}}: the flood
+Of law and language, written word; the way
 
-The trail of exile to the territory
-Beyond the {{p|Mississippi}}'s western shore,
-Where the republic, in its transitory
-Generosity, will promise them once more
+To the {{x|Supreme Court}}: they were a nation;
+No state could lay its laws upon the land
+By treaty; and {{p|Georgia}}'s legislation
+To seize their soil and rule them, void and banned.
 
-A homeland "as long as grass shall grow
-And water run"--the same words spoken
-At every treaty, the eternal vow
-That was eternally and instantly broken.
+And {{c|3665|John Marshall}} ruled; the {{c|3666|Chief Justice}} found
+In {{c|3667|Worcester}} versus {{p|Georgia}} that the state
+Had no authority upon the ground
+Of a nation sovereign by treaty's weight.
 
-{{c|3664|John Ross}}--principal chief of the {{c|3636|Cherokee}},
-One-eighth {{c|3636|Cherokee}} by blood and all {{c|3636|Cherokee}}
-By every measure that a nation's day
-Of governance could offer--fought the way
+The highest court was clear. And {{c|3663|Jackson}} laughed:
+"{{c|3665|John Marshall}} has made his own decision;
+Now let him enforce it." Thus the statecraft
+Of the republic's law and its vision
 
-The {{c|3636|Cherokee}} had always fought since {{c|3642|Sequoyah}}:
-With law, with language, with the written word.
-He brought the case to the {{x|Supreme Court}}'s playa
-Of jurisprudence, and the nation heard
+Shrank to a bully's sneer: the law cast down
+By the elected king; for what was awe
+Of {{x|Constitution}} to the gold, the crown
+Of {{c|3636|Cherokee}} hills, and the settler's maw?
 
-The argument: the {{c|3636|Cherokee}} were sovereign.
-No state could impose its laws upon the land
-Of a nation that the federal covenant
-Had recognized by treaty. The command
+The {{x|Court}} spoke; and the {{c|3668|President}} refused;
+In that refusal died the founders' vow
+That law, not might, would rule; the words were used
+Only for some: the {{c|3636|Cherokee}} learned how,
 
-Of {{p|Georgia}}'s legislature to dissolve
-The {{c|3636|Cherokee}} government and seize the soil
-Was void--the {{x|Constitution}} would resolve
-The question in the {{c|3636|Cherokee}}'s favor, the foil
+As had the {{c|3497|Haudenosaunee}}, the wise
+{{c|3628|Little Turtle}}, what the whole land had learned:
+The settler's law protects the settler's prize;
+And first the {{c|3637|Choctaw}}, in the winter, turned
 
-Of states' rights against the treaty's sacred bond.
+West, eighteen-thirty-one, through ice and snow,
+Caravans of the dispossessed; the sun
+Hid weeks in cloud; the dead were left below
+Left unburied on the frozen road; and one
 
-And {{c|3665|John Marshall}} ruled. The {{c|3666|Chief Justice}} found
-That {{p|Georgia}}'s laws were void--the wand
-Of the {{x|Constitution}}'s supremacy, the ground
+{{c|3637|Choctaw}} chief, looking back, gave it its name:
+"A trail of tears and death." The {{c|3639|Creek}} went too;
+The {{c|3638|Chickasaw}} were sold into the same;
+Last, {{c|3636|Cherokee}}, in thirty-eight; and through
 
-Of {{c|3667|Worcester}} versus {{p|Georgia}}: the {{c|3636|Cherokee}}
-Were a sovereign nation, and the {{c|3484|American}} state
-Had no authority to decree
-Their dissolution--the mandate of the great
-
-And highest court was clear.
-
-                              {{c|3663|Jackson}} laughed.
-
-"{{c|3665|John Marshall}} has made his decision.
-Now let him enforce it." The statecraft
-Of the republic's highest vision
-
-Reduced to a bully's sneer, the law
-Of the land discarded by the land's elected king--
-For what was a {{x|Constitution}}'s awe
-Against the settler's hunger and the ring
-
-Of gold discovered in the {{c|3636|Cherokee}} hills?
-The {{x|Court}} had spoken. The {{c|3668|President}} refused.
-And in that refusal, the republic kills
-The principle that its founders had enthused
-
-Upon every parchment page: that law,
-Not power, would govern--that the covenant
-Of written words would hold the tyrant's claw
-In check. But the covenant was meant
-
-Only for the {{c|3401|European}}'s liberty--
-The {{c|3636|Cherokee}} learned what the {{c|3497|Haudenosaunee}} knew,
-What {{c|3628|Little Turtle}} knew, what the entirety
-Of the continent had learned was true:
-
-The colonizer's law protects the colonizer.
-
-The {{c|3637|Choctaw}} went first--the winter of eighteen-thirty-one,
-Forced west through ice and snow, the miser-
-Able caravans of the dispossessed, the sun
-
-Hidden behind the clouds for weeks, the dead
-Left unburied on the frozen road.
-A {{c|3637|Choctaw}} chief looked back at what he'd fled
-And spoke the words that history bestowed
-
-Upon the exodus: "A trail of tears and death."
-
-The {{c|3639|Creek}} followed. The {{c|3638|Chickasaw}} were sold
-Into the march. And last, with labored breath,
-The {{c|3636|Cherokee}}--in eighteen-thirty-eight, the cold
-
-And calculated roundup: soldiers came
-To every farm and every cabin door
+A cold and calculated roundup came
+The soldiers to each farm and cabin door,
 And herded families at bayonet's aim
-Into the stockades, where the filthy floor
+Into the stockades, onto filthy floor
 
-Of the concentration camps awaited them.
-They were allowed to carry nothing. The homes
-They had built, the orchards, the literary gem
-Of the {{c|3636|Cherokee}} {{x|Phoenix}}, the chromosomes
+Of camps that penned them, and they could bring naught;
+The homes they built, the orchards, and the press,
+The {{c|3636|Cherokee}} {{x|Phoenix}}, and all they wrought
+In schools and courts, the settlers would possess,
 
-Of a civilization encoded in their schools
-And courts and churches--left behind for the white
-Settlers who rushed in like a pack of ghouls
-Before the last {{c|3636|Cherokee}} was out of sight.
+Who rushed like ghouls in packs, before the last
+{{c|3636|Cherokee}} was gone. Sixteen thousand went;
+Four thousand died; the children first, then fast
+The old; and mothers carried, as they bent,
 
-Sixteen thousand walked the trail. Four thousand died.
-The children died first--the old died next--
-The mothers carried the dead until the tide
-Of grief became the only text
-
-They could recite.
-
-                   The same year, side by side:
+Their dead, until the tide of grief became
+The only text that they could say aloud.
+And now, the same year, side by side, the same:
+Two peoples walked, one road, one weeping crowd:
 
 In eighteen-thirty, as the act was signed,
 the book came out; and in the year of tears,
@@ -222,13 +172,13 @@ to "pure," in nineteen eighty-one, again.
 
 It was one house's quarrel over skin,
 and over fathers, and who keeps the name:
-the {{c|3673|Mormons}} and {{c|3658|Lamanites}} are kin,
+the {{c|3673|Mormons}} and the {{c|3658|Lamanites}} are kin,
 one people, and one altar, and one flame.
 
 And so this book here in your hands lays bare
-the plates again, and opens them with care:
-the long walk out of {{p|Beringia}}, the tide
-of corn, the mounds, the cities, and beside
+the plates again, and opens them up wide:
+the long walk from {{p|Beringia}}, laid there,
+the corn, the mounds, the cities; and beside
 
 them, {{c|1497|Christ}} in Bountiful and {{c|3402|Lehi}}'s sail,
 the record of ten thousand years of prayer,
@@ -255,38 +205,32 @@ the {{x|Indian Removal Act}}, his hand.
 But the peoples endure, and keep their gate;
 the record is intact. The peoples stand.
 
-This is that record. Remember every name.
-Remember {{c|3646|Tecumseh}} and {{c|3606|Tupac Amaru}},
-Remember {{c|3642|Sequoyah}} and the flame
-Of every council fire from {{p|Cusco}} to {{p|Manitou}}.
+This is that record. Keep in mind each name:
+{{c|3646|Tecumseh}}, {{c|3606|Tupac Amaru}}; recall
+{{c|3642|Sequoyah}}, and the council's ancient flame
+From {{p|Cusco}} up to {{p|Manitou}}; and all
 
-Remember the {{c|3587|Guarani}} violins.
-Remember the {{c|3497|Haudenosaunee}} {{x|Law}}.
-Remember {{c|3628|Little Turtle}}'s discipline.
-Remember {{c|3656|Osceola}} and the raw
+The {{c|3587|Guarani}} violins, the Great {{x|Law}}
+Of the {{c|3497|Haudenosaunee}}; and the drill
+Of {{c|3628|Little Turtle}}; {{c|3656|Osceola}}; raw
+{{c|3641|Seminole}} in the swamp, unconquered still;
 
-And unconquered {{c|3641|Seminole}} in the swamp.
-Remember the children in the {{p|Mississippi}}'s current.
-Remember the {{c|3637|Choctaw}} chief who called it the stomp
-And trail of tears, whose words are the deterrent
+The children in the {{p|Mississippi}}'s flow;
+The {{c|3637|Choctaw}} chief who named the tearful road;
+The {{c|3636|Cherokee}} {{x|Phoenix}}; {{c|3664|John Ross}}, and so
+The {{x|Court}} that ruled for justice; and the load
 
-Against forgetting. Remember the {{c|3636|Cherokee}} {{x|Phoenix}}.
-Remember {{c|3664|John Ross}} and the {{x|Court}} that ruled
-For justice--and the {{c|3668|President}} whose cynics
-And whose cruelty overruled.
+Of cruelty the {{c|3668|President}} laid down.
+The book is open; hold it now, revealed
+By {{c|3661|Moroni}}, and by memory's crown,
+That what was done is kept, the dead unsealed
 
-The book is sealed--no. The book is never sealed.
-The book is open, and you hold it now.
-The real record of this hemisphere, revealed
-By {{c|3661|Moroni}} and by the sacred vow
+To speak through each line; and the sun put out
+Of each lost nation rises in the word
+That will not be lost, and, beyond all doubt,
+Honor them all; honor the cost; be heard.
 
-Of memory itself: that what was done
-Shall be remembered, and the dead shall speak
-Through every line, and the extinguished sun
-Of every nation rises in the mystique
-
-Of the word that refuses to be lost.
-
-Honor them all. Honor the cost.
-The {{x|Book}} of {{c|3402|Lehi}} ends. The record stands.
-The continent remembers. Hold it in your hands.
+The {{x|Book}} of {{c|3402|Lehi}} ends. The record stands;
+The continent remembers; hold it now
+Here in your hands; the earth and all its lands
+Remember; and the dead keep, still, their vow.
