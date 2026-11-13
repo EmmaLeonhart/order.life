@@ -12,8 +12,8 @@ The age of ghosts, the age of death foretold.
 
 The {{c|956|Sages}} see it, and they all agree,
 Within the mists of time, where, as they wind,
-On what it is they know that they can see:
-The threads of truth and myth are intertwined.
+The ghosts walk still, in all they come to see:
+The threads of death and life are intertwined.
 
 But when at last the mists had cleared away,
 The world was greater still than any will
