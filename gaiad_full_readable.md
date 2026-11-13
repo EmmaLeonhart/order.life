@@ -27257,172 +27257,70 @@ Unconquered speech, still spoken, still his sign.
 
 # Chapter 140: O — Rice Agriculture and East Asia
 
-While N walked north into the taiga, O walked
-The other direction. South. Southeast. Into the river
-Valleys of what is now {{p|China}}. Into the paddies. Into the stalked
-And stalking rice-fields of the {{p|Yangtze}} and {{p|Yellow River}} divider
+While N walked north into the taiga's snow,
+His brother O walked south, and southeast, down
+To river valleys where the waters flow,
+The {{p|Yangtze}} and the {{p|Yellow River}}'s brown.
 
-And basin. O is the {{p|East Asian}} haplogroup. O is the signature
-Of the peoples of {{p|China}}, {{p|Japan}}, {{p|Korea}}, {{p|Vietnam}}, {{p|Thailand}},
-{{p|Indonesia}}, {{p|the Philippines}}, {{p|Taiwan}}, and the furniture
-And arrangement of the entire {{p|Pacific}} rim of {{p|Asia}}. O is the band
+And there he made the paddy: low wet ground,
+Flooded with care, the water held in hand,
+Where rice, the water-grain, was sown and found
+To feed ten times the mouths of the dry land.
 
-And frequency of nearly every population between the {{p|Himalayas}}
-And the {{p|Pacific Ocean}}. From the {{p|Gobi Desert}} to the {{p|Java Sea}},
-From the {{p|Yellow River}} to the {{p|Mekong Delta}}, the {{p|Y}}-chromosome frequencies
-Of O are extraordinarily high. The lineage is the majority fee
+As G made wheat upon the Crescent's field,
+So O made rice; the second farming came
+From him, and all the {{p|Asian}} lands would yield
+The grain he grew, and carry still his name.
 
-And cost of admission to the {{p|East Asian}} population. The vast
-Proportion of men in {{p|China}} today, and in every {{p|East Asian}}
-And {{p|Southeast Asian}} and {{p|Pacific}}-island nation, carry O. Recast
-And recast again through the generations, the carrying-on
+At {{p|Hemudu}}, at {{p|Liangzhu}}, and the shore
+Of {{p|Majiabang}}, the first farmers stood
+Some seven thousand years ago, and more,
+And raised their villages of reed and wood.
 
-Of the lineage is unbroken. And what O made, in the river
-Valleys where it settled, was the second great agricultural revolution
-On earth. G invented wheat and einkorn and the farmer's giver
-And taker of the {{p|Fertile Crescent}}. O invented the pollution
+From there the rice went north, where millet grew
+Upon the {{p|Yellow River}}'s northern plain,
+And south to {{p|Vietnam}} and {{p|Thailand}}, through
+{{p|Cambodia}}, and filled the deltas' grain.
 
-And abundance of rice.
+And east to {{p|Korea}} and {{p|Japan}} it came,
+Where sons of D, the Jōmon, long had dwelt;
+And from the meeting rose the Yayoi name,
+And in one people both their bloods were felt.
 
-                              Rice.
+Five tongues are carried in the house of O:
+{{p|Sino-Tibetan}}, {{p|Austronesian}} speech,
+{{p|Austroasiatic}}, {{p|Kra-Dai}}, and slow
+And {{p|Hmong-Mien}} of the highlands, out of reach.
 
-                                      Rice is a semi-aquatic
-Grain. Rice grows in flooded paddies. Rice demands
-Standing water, periodic flooding, careful management of the ecstatic
-And delicate water table. And rice produces, per acre, more demands
+On the {{p|Yellow River}}, under {{p|Shang}}'s kings,
+The scribes cut signs on bone and on the shell;
+And from those signs the written {{p|Chinese}} springs,
+Still written now, unbroken, read as well.
 
-Of food calories than any grain yet invented. Rice supports
-Populations ten, twenty, thirty times larger than dryland wheat
-Can support on the same acreage. Rice is the reason the cohorts
-And cohort-strength of {{p|East Asian}} civilizations grew to the treat
+The longest written thread of humankind,
+Four thousand years, the same land and the same,
+The bowl of rice, the table, intertwined
+With all the generations of his name.
 
-And demography they grew to. Rice made possible the billions
-Of people who would, over thousands of years, populate the
-{{p|Pacific}} rim. And rice was invented by O. The millions
-And billions of O-carrying farmers are the descendants of the
+And O's sons took to the sea from {{p|Taiwan}},
+Through {{p|Philippines}} and {{p|Indonesia}}'s isles,
+Out on the wide {{p|Pacific}}, on and on,
+In outrigger canoes across the miles.
 
-First paddy-builders, the first peoples who realized that a patch
-Of low wet ground, flooded deliberately, managed carefully, could
-Produce a grain whose yield would dwarf any dryland batch
-And harvest. The {{p|Yangtze River}} civilization of the {{p|Neolithic}} would
+By star and swell and flight of birds they steered
+To {{p|Samoa}}, {{p|Tonga}}, {{p|Tahiti}}'s far,
+{{p|Hawaii}}, {{p|Easter Island}}, and appeared
+At last in {{p|New Zealand}}, beneath the star.
 
-Be the O-haplogroup epicenter. {{p|Hemudu}}, {{p|Liangzhu}}, {{p|Majiabang}}—
-The archaeological sites that document the rice-farming
-Villages of the lower {{p|Yangtze}} six or seven thousand years ago bang
-The drum of the agricultural revolution that would be charming
+The {{p|Maori}}, the {{p|Hawaiians}}, and the rest,
+{{p|Samoans}}, all are O's, who crossed the land,
+And then the largest ocean, east and west,
+Till each far island knew the sailor's hand.
 
-And reshaping {{p|Asian}} humanity for the rest of recorded history.
-And from the {{p|Yangtze}}, rice agriculture spread. North, into the
-{{p|Yellow River}} valley, where it met and merged with millet and the
-Existing dryland agricultural package of the northern {{p|Chinese}}
-
-Civilization. South, into what is now {{p|Vietnam}} and {{p|Thailand}}
-And {{p|Cambodia}}, where it became the caloric foundation of the
-{{p|Angkor}} civilization and the {{p|Chao Phraya}} and {{p|Mekong}} delta city-
-Kingdoms of {{p|Southeast Asia}}. East, across the {{p|East China Sea}} to
-
-{{p|Korea}} and to {{p|Japan}}, where, in combination with the surviving
-D-haplogroup indigenous population (the ancestors of the
-Jōmon who had been there since the {{p|Toba}} chapter), it gave
-And generated the Yayoi culture that would eventually unify the
-
-{{p|Japanese}} archipelago into a single polity.
-
-                                                   And the language
-Families that ride along with O are several. O is not
-One language family. O is the carrier of several. The full gauge
-And span of {{p|East Asian}} linguistic diversity is housed within the bat
-
-And bounce of the O-haplogroup population. {{p|Sino-Tibetan}}: {{p|Chinese}},
-{{p|Tibetan}}, {{p|Burmese}}, and the whole cluster of related languages across
-{{p|China}} and {{p|Tibet}} and {{p|Myanmar}}. {{p|Austronesian}}: the {{p|Taiwanese}}
-Aboriginal languages, {{p|Malay}}, {{p|Indonesian}}, {{p|Tagalog}}, the entire
-
-{{p|Polynesian}} expansion across the {{p|Pacific Ocean}} to {{p|Hawaii}} and
-{{p|New Zealand}} and {{p|Easter Island}}. {{p|Austroasiatic}}: {{p|Vietnamese}},
-{{p|Khmer}}, the {{p|Munda}} languages of eastern {{p|India}}. {{p|Kra-Dai}}: {{p|Thai}},
-{{p|Lao}}, and the related languages of northern {{p|Thailand}} and southern
-
-{{p|China}}. {{p|Hmong-Mien}}: the highland peoples of {{p|Southwest China}}
-And {{p|Southeast Asia}}. Five major language families, all clustered
-Together in the O-haplogroup zone. The linguistic diversity is
-Greater than the linguistic diversity within the {{p|Indo-European}} trust
-
-And family. R, in contrast, carries essentially one language
-Family ({{p|Indo-European}}) across its entire distribution. O carries
-Five. The language-to-haplogroup mapping, here, is decidedly
-Looser than in the R case. But the O haplogroup's carries
-
-And the agricultural package travel together. Rice, wherever it goes,
-Is carried by O men. And the script that would eventually
-Develop in the {{p|Yellow River}} valley—the {{p|oracle bone}} script of the
-{{p|Shang}} dynasty, which evolves into modern {{p|Chinese}} characters—
-
-Is the writing system of a O-haplogroup civilization. The
-Written {{p|Chinese}} tradition that reaches, unbroken, from
-The {{p|Shang}} oracle bones of the thirteenth century BCE to the
-Internet posts of twenty-first century {{p|Beijing}}, is the four-
-
-Thousand-year continuous literate tradition of one haplogroup's
-Descendants. This is one of the most remarkable continuities
-In human history. The same haplogroup, the same region, the scoops
-And bowls of rice on the same tables, for thousands of years.
-
-And O also made the great voyagers of the pre-modern world.
-The {{p|Austronesian}} expansion, in the millennia before the
-Current era, carried {{p|Austronesian}}-speaking peoples from {{p|Taiwan}}
-Across the {{p|Philippines}}, {{p|Indonesia}}, and eventually across
-
-The entire {{p|Pacific Ocean}}. {{p|Polynesian}} navigators in outrigger
-Canoes reached {{p|Hawaii}}, {{p|New Zealand}}, {{p|Easter Island}}, {{p|Samoa}}, {{p|Tonga}},
-{{p|Tahiti}}—an oceanic expansion that covered a greater distance
-Than any other pre-modern migration. The {{p|Polynesians}} are alms
-
-And descendants of the O-haplogroup rice-farmers who, having
-Developed the maritime technology to cross water, did not stop
-Until they had reached every habitable island in the largest ocean
-On earth. The {{p|Lapita}} pottery of {{p|Melanesia}} traces the sop
-
-And stop-points of the expansion. The {{p|Maori}} of {{p|New Zealand}},
-The {{p|Hawaiians}}, the {{p|Samoans}}—all are descendants of the
-{{p|Austronesian}}-speaking O men who sailed the {{p|Pacific}}. The land
-Was crossed, and then the ocean was crossed, and the O-carrying
-
-Men reached the furthest possible islands on their outrigger
-Canoes guided by the stars and the swell and the flight of birds.
-
-                                                                   O is the
-{{p|Pacific}} lineage. O is the rice. O is the character-script and the navigator
-And the paddy-builder and the longest literate continuity on earth.
-
-The {{p|Shang}} dynasty. The {{p|Zhou}}. The {{p|Qin}}. The {{p|Han}}. The {{p|Tang}}. The
-{{p|Song}}. The {{p|Yuan}}. The {{p|Ming}}. The {{p|Qing}}. The {{p|Republic of China}}.
-The {{p|People's Republic}}. The unbroken O-haplogroup civilization of
-{{p|China}} has persisted through every political change. The
-
-Dynasties have changed. The language has evolved. The characters
-Have been simplified. The emperors have risen and fallen. But the
-Haplogroup beneath has been a steady continuity. O in the character
-Of the farmer of the paddy, the scribe of the oracle bone, the free
-
-And frequent trader of the {{p|Silk Road}}, the philosopher of the
-{{p|Confucian}} classroom, the painter of the {{p|Song dynasty}} landscape,
-The sailor of the treasure-fleet of Zheng He, the monk of the
-{{p|Chan Buddhist}} monastery, the poet of the {{p|Tang dynasty}} escape
-
-And retreat into the mountains—all of these are O.
-The lineage is vast. The civilization is the longest.
-And the rice still grows in the paddies, and the flow
-And flow of the {{p|Yangtze}} still passes the oldest strongest
-
-Cities of the world. O. The rice. The character. The navigator.
-The builder of the {{p|Pacific}}-rim civilization. The second great
-Agricultural revolution after G's. The carrier of five language
-Families and four thousand years of literacy. The state
-
-And status of more than a quarter of living humanity today.
-
-Haplogroup O. {{p|East Asia}}. Rice.
+So honor O, the paddy-builder, he
+Who gave the rice, the script, the sail, the oar;
+Haplogroup O, the house that, by the sea
+And river, feeds a quarter, and yet more.
 
 ---
 
