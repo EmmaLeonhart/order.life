@@ -4259,7 +4259,7 @@ Which made each creature that existed whole.
 
 So honor the fair {{c|521|Hecate}}, who brought
 Her {{c|523|Hex}}, and cast it on the ancient line,
-The mystery to us that she had wrought,
+The wonder that her holy hand had wrought,
 That raised the whole bilateral design.
 
 And give your praise to brave {{c|514|Paraxus}}, who

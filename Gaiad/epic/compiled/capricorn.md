@@ -246,7 +246,7 @@ And make the age of ice itself begin.
 And so the {{c|587|Cryogenian}} began;
 The world froze over, it was white and cold,
 That age, humanitarian in plan,
-As it is in their mighty story told.
+And in the ice their mighty reign would hold.
 
 But even in their icy reign supreme,
 They lived the life of partnership, allied,

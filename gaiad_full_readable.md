@@ -4265,7 +4265,7 @@ Which made each creature that existed whole.
 
 So honor the fair Hecate, who brought
 Her Hex, and cast it on the ancient line,
-The mystery to us that she had wrought,
+The wonder that her holy hand had wrought,
 That raised the whole bilateral design.
 
 And give your praise to brave Paraxus, who
@@ -4553,7 +4553,7 @@ And make the age of ice itself begin.
 And so the Cryogenian began;
 The world froze over, it was white and cold,
 That age, humanitarian in plan,
-As it is in their mighty story told.
+And in the ice their mighty reign would hold.
 
 But even in their icy reign supreme,
 They lived the life of partnership, allied,
