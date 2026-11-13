@@ -3754,27 +3754,23 @@ Can break; the Shooting Star burns on, its own.
 
 # Chapter 252: The Unsealed Book
 
-Now seal the book.
+Now seal the book. No: it was never sealed;
+The book was always open, set in grain,
+In corn and council flame, and so revealed
+In tongues that the Creator gave the plain:
 
-                   No--the book was never sealed.
-The book was always open. The book was written
-In the corn and in the council fire, revealed
-In every language the Creator had smitten
+Three hundred families of speech, a throng
+Of languages that named the world, the air
+Of a whole hemisphere; and in their song
+The names of God, that none need render there.
 
-Into being on this continent of tongues--
-Three hundred families of speech, a thousand
-Languages that named the world, the lungs
-Of a hemisphere breathing the thousand
+The rivers spoke them, and the mountains held
+Them in their granite; prayer of ages sprang
+From sacred springs, ten thousand years; unspelled,
+This was the book; this always was. It rang
 
-Names of God that no one needed to translate
-Because the rivers spoke them and the mountains
-Held them in their granite and the weight
-Of ten thousand years of prayer at the fountains
-
-Of the sacred springs--this was the book.
-This was always the book.
-
-                           Then, in one year,
+Through all the ages; then, beside that book,
+In one year, then, the record would draw near:
 a man in {{p|Palmyra}}, {{p|New York}}, would look
 into a stone and see the plates appear:
 
@@ -3793,12 +3789,12 @@ and blessed their children: the Redeemer's day
 that this book also keeps, its promise sealed
 to come again, and not to pass away.
 
-It named the peoples here Lamanites,
+It named the peoples Lamanites: the rites
 of Laman's line, and darkened for the sin
 their fathers did; and here the quarrel bites:
 whose fathers were they? Jacob's, or the kin
 
-who walked out of {{p|Beringia}}? The gold plates
+who walked from {{p|Beringia}}? The gold plates
 said Lehi; and the land said ice and coast;
 and the one house of the dead, at its gates,
 takes both: the tree has room for every ghost.
@@ -3808,146 +3804,100 @@ set out the book Moroni had concealed,
 and his eleven witnesses, forthwith,
 signed that they saw the plates the hill revealed.
 
-In that same year--eighteen-thirty--the American
-Congress passed the act that mattered most:
-The {{x|Indian Removal Act}}. The plan
+In that same year, eighteen-thirty, the act
+Of Congress came that mattered most: the plan,
+The {{x|Indian Removal Act}}, signed, backed
+By Andrew Jackson, Sharp Knife: so the man
 
-Of Andrew Jackson--Sharp Knife, the Cherokee called him,
-The man who had already devoured
-The Creek homeland, the general grim
-Who had conquered {{p|Florida}} and towered
+The Cherokee named him; he'd devoured
+The Creek homeland, the grim general, who
+Took {{p|Florida}}, over treaties towered;
+Now president, with the Republic's view
 
-Above the ruin of every treaty signed--
-Now held the presidency, and the weight
-Of the Republic's westward hunger, refined
-To a single policy, a single fate:
+Of westward hunger, made one policy:
+Remove them all. Each nation to the east
+Of the {{p|Mississippi}}, each Cherokee
+Farm with its constitution, press, and feast
 
-Remove them all.
+Of learning; Choctaw rule; each Chickasaw
+Town with elected council; Creek who'd made
+His home again since Jackson's war: the law,
+Move west. The east, the settlers said, was laid
 
-                  Every nation east
-Of the {{p|Mississippi}}--every Cherokee farm
-With its constitution and its printing-press feast
-Of civilized achievement, every arm
+By God for them, a {{p|Promised Land}} aside
+For the American republic's hand;
+The darker peoples, exiled, were to ride
+Beyond the {{p|Mississippi}}, to a land
 
-Of Choctaw governance, every Chickasaw
-Town with its elected council, every Creek
-Who had rebuilt from Jackson's earlier war--
-Move west. The east is for the meek
+Where the republic promised them once more
+A home "as long as grass shall grow," the same
+Words spoken at each treaty there before,
+The vow, as soon as made, broken in shame.
 
-And pale inheritors of a {{p|Promised Land}}
-That God, the settlers said, had set aside
-For the American republic's hand
-To cultivate. The darker peoples ride
+John Ross, chief of the Cherokee, by blood
+One-eighth, but theirs by measure of the day,
+Fought as they fought since Sequoyah: the flood
+Of law and language, written word; the way
 
-The trail of exile to the territory
-Beyond the {{p|Mississippi}}'s western shore,
-Where the republic, in its transitory
-Generosity, will promise them once more
+To the {{x|Supreme Court}}: they were a nation;
+No state could lay its laws upon the land
+By treaty; and {{p|Georgia}}'s legislation
+To seize their soil and rule them, void and banned.
 
-A homeland "as long as grass shall grow
-And water run"--the same words spoken
-At every treaty, the eternal vow
-That was eternally and instantly broken.
+And John Marshall ruled; the Chief Justice found
+In Worcester versus {{p|Georgia}} that the state
+Had no authority upon the ground
+Of a nation sovereign by treaty's weight.
 
-John Ross--principal chief of the Cherokee,
-One-eighth Cherokee by blood and all Cherokee
-By every measure that a nation's day
-Of governance could offer--fought the way
+The highest court was clear. And Jackson laughed:
+"John Marshall has made his own decision;
+Now let him enforce it." Thus the statecraft
+Of the republic's law and its vision
 
-The Cherokee had always fought since Sequoyah:
-With law, with language, with the written word.
-He brought the case to the {{x|Supreme Court}}'s playa
-Of jurisprudence, and the nation heard
+Shrank to a bully's sneer: the law cast down
+By the elected king; for what was awe
+Of {{x|Constitution}} to the gold, the crown
+Of Cherokee hills, and the settler's maw?
 
-The argument: the Cherokee were sovereign.
-No state could impose its laws upon the land
-Of a nation that the federal covenant
-Had recognized by treaty. The command
+The {{x|Court}} spoke; and the President refused;
+In that refusal died the founders' vow
+That law, not might, would rule; the words were used
+Only for some: the Cherokee learned how,
 
-Of {{p|Georgia}}'s legislature to dissolve
-The Cherokee government and seize the soil
-Was void--the {{x|Constitution}} would resolve
-The question in the Cherokee's favor, the foil
+As had the Haudenosaunee, the wise
+Little Turtle, what the whole land had learned:
+The settler's law protects the settler's prize;
+And first the Choctaw, in the winter, turned
 
-Of states' rights against the treaty's sacred bond.
+West, eighteen-thirty-one, through ice and snow,
+Caravans of the dispossessed; the sun
+Hid weeks in cloud; the dead were left below
+Left unburied on the frozen road; and one
 
-And John Marshall ruled. The Chief Justice found
-That {{p|Georgia}}'s laws were void--the wand
-Of the {{x|Constitution}}'s supremacy, the ground
+Choctaw chief, looking back, gave it its name:
+"A trail of tears and death." The Creek went too;
+The Chickasaw were sold into the same;
+Last, Cherokee, in thirty-eight; and through
 
-Of Worcester versus {{p|Georgia}}: the Cherokee
-Were a sovereign nation, and the American state
-Had no authority to decree
-Their dissolution--the mandate of the great
-
-And highest court was clear.
-
-                              Jackson laughed.
-
-"John Marshall has made his decision.
-Now let him enforce it." The statecraft
-Of the republic's highest vision
-
-Reduced to a bully's sneer, the law
-Of the land discarded by the land's elected king--
-For what was a {{x|Constitution}}'s awe
-Against the settler's hunger and the ring
-
-Of gold discovered in the Cherokee hills?
-The {{x|Court}} had spoken. The President refused.
-And in that refusal, the republic kills
-The principle that its founders had enthused
-
-Upon every parchment page: that law,
-Not power, would govern--that the covenant
-Of written words would hold the tyrant's claw
-In check. But the covenant was meant
-
-Only for the European's liberty--
-The Cherokee learned what the Haudenosaunee knew,
-What Little Turtle knew, what the entirety
-Of the continent had learned was true:
-
-The colonizer's law protects the colonizer.
-
-The Choctaw went first--the winter of eighteen-thirty-one,
-Forced west through ice and snow, the miser-
-Able caravans of the dispossessed, the sun
-
-Hidden behind the clouds for weeks, the dead
-Left unburied on the frozen road.
-A Choctaw chief looked back at what he'd fled
-And spoke the words that history bestowed
-
-Upon the exodus: "A trail of tears and death."
-
-The Creek followed. The Chickasaw were sold
-Into the march. And last, with labored breath,
-The Cherokee--in eighteen-thirty-eight, the cold
-
-And calculated roundup: soldiers came
-To every farm and every cabin door
+A cold and calculated roundup came
+The soldiers to each farm and cabin door,
 And herded families at bayonet's aim
-Into the stockades, where the filthy floor
+Into the stockades, onto filthy floor
 
-Of the concentration camps awaited them.
-They were allowed to carry nothing. The homes
-They had built, the orchards, the literary gem
-Of the Cherokee {{x|Phoenix}}, the chromosomes
+Of camps that penned them, and they could bring naught;
+The homes they built, the orchards, and the press,
+The Cherokee {{x|Phoenix}}, and all they wrought
+In schools and courts, the settlers would possess,
 
-Of a civilization encoded in their schools
-And courts and churches--left behind for the white
-Settlers who rushed in like a pack of ghouls
-Before the last Cherokee was out of sight.
+Who rushed like ghouls in packs, before the last
+Cherokee was gone. Sixteen thousand went;
+Four thousand died; the children first, then fast
+The old; and mothers carried, as they bent,
 
-Sixteen thousand walked the trail. Four thousand died.
-The children died first--the old died next--
-The mothers carried the dead until the tide
-Of grief became the only text
-
-They could recite.
-
-                   The same year, side by side:
+Their dead, until the tide of grief became
+The only text that they could say aloud.
+And now, the same year, side by side, the same:
+Two peoples walked, one road, one weeping crowd:
 
 In eighteen-thirty, as the act was signed,
 the book came out; and in the year of tears,
@@ -3976,13 +3926,13 @@ to "pure," in nineteen eighty-one, again.
 
 It was one house's quarrel over skin,
 and over fathers, and who keeps the name:
-the Mormons and Lamanites are kin,
+the Mormons and the Lamanites are kin,
 one people, and one altar, and one flame.
 
 And so this book here in your hands lays bare
-the plates again, and opens them with care:
-the long walk out of {{p|Beringia}}, the tide
-of corn, the mounds, the cities, and beside
+the plates again, and opens them up wide:
+the long walk from {{p|Beringia}}, laid there,
+the corn, the mounds, the cities; and beside
 
 them, Christ in Bountiful and Lehi's sail,
 the record of ten thousand years of prayer,
@@ -4009,38 +3959,32 @@ the {{x|Indian Removal Act}}, his hand.
 But the peoples endure, and keep their gate;
 the record is intact. The peoples stand.
 
-This is that record. Remember every name.
-Remember Tecumseh and Tupac Amaru,
-Remember Sequoyah and the flame
-Of every council fire from {{p|Cusco}} to {{p|Manitou}}.
+This is that record. Keep in mind each name:
+Tecumseh, Tupac Amaru; recall
+Sequoyah, and the council's ancient flame
+From {{p|Cusco}} up to {{p|Manitou}}; and all
 
-Remember the Guarani violins.
-Remember the Haudenosaunee {{x|Law}}.
-Remember Little Turtle's discipline.
-Remember Osceola and the raw
+The Guarani violins, the Great {{x|Law}}
+Of the Haudenosaunee; and the drill
+Of Little Turtle; Osceola; raw
+Seminole in the swamp, unconquered still;
 
-And unconquered Seminole in the swamp.
-Remember the children in the {{p|Mississippi}}'s current.
-Remember the Choctaw chief who called it the stomp
-And trail of tears, whose words are the deterrent
+The children in the {{p|Mississippi}}'s flow;
+The Choctaw chief who named the tearful road;
+The Cherokee {{x|Phoenix}}; John Ross, and so
+The {{x|Court}} that ruled for justice; and the load
 
-Against forgetting. Remember the Cherokee {{x|Phoenix}}.
-Remember John Ross and the {{x|Court}} that ruled
-For justice--and the President whose cynics
-And whose cruelty overruled.
+Of cruelty the President laid down.
+The book is open; hold it now, revealed
+By Moroni, and by memory's crown,
+That what was done is kept, the dead unsealed
 
-The book is sealed--no. The book is never sealed.
-The book is open, and you hold it now.
-The real record of this hemisphere, revealed
-By Moroni and by the sacred vow
+To speak through each line; and the sun put out
+Of each lost nation rises in the word
+That will not be lost, and, beyond all doubt,
+Honor them all; honor the cost; be heard.
 
-Of memory itself: that what was done
-Shall be remembered, and the dead shall speak
-Through every line, and the extinguished sun
-Of every nation rises in the mystique
-
-Of the word that refuses to be lost.
-
-Honor them all. Honor the cost.
-The {{x|Book}} of Lehi ends. The record stands.
-The continent remembers. Hold it in your hands.
+The {{x|Book}} of Lehi ends. The record stands;
+The continent remembers; hold it now
+Here in your hands; the earth and all its lands
+Remember; and the dead keep, still, their vow.
