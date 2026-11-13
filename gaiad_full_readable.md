@@ -43442,80 +43442,75 @@ Of keepers: hands that write the lost page in.
 
 # Chapter 291: The Common Source
 
-A judge went out to {{p|Bengal}} in 1783, William Jones, a Londoner of {{x|Welsh}} blood,
-A lawyer who had learned, by the age of thirty, a dozen tongues, and read a score more,
-{{x|Greek}}, {{x|Latin}}, {{x|Hebrew}}, {{x|Arabic}}, {{x|Persian}}, the flood
-Of languages his father, a mathematician, had left him the door
+A judge went to {{p|Bengal}} in eighty-three,
+William Jones, a Londoner, of {{x|Welsh}} blood,
+A lawyer, thirty, with a dozen, free,
+Tongues, and a score more read: the open flood
 
-To open. In {{p|Kolkata}} he sat on the bench of the {{x|Supreme Court}},
-And wanted to judge the Hindus by their own law, not through interpreters,
-So he learned Sanskrit from a pandit, a physician of the Vaidya sort
-Who would teach him, a foreigner, the sacred tongue. And the frontiers
+Of {{x|Greek}} and {{x|Latin}}, {{x|Hebrew}}, {{x|Persian}}, more;
+In {{p|Kolkata}}, {{x|Supreme Court}} judge, he sat,
+He'd judge the Hindus by their own law's core,
+Not through interpreters; and, after that,
 
-Of the {{x|European}} mind moved. He founded the Asiatic Society in 1784,
-And on the second of February, 1786, he stood before it and said:
-The Sanskrit language, whatever be its antiquity, is of a wonderful structure; more
-Perfect than the {{x|Greek}}, more copious than the {{x|Latin}}, and more exquisitely refined than either, the thread
+Learned Sanskrit from a pandit, one who'd teach
+The stranger, a Vaidya physician; and
+Eighty-four: the Society, for speech,
+In eighty-six, he spoke; he'd understand:
 
-Of its roots and grammar bearing to both of them a stronger affinity
-Than could possibly have been produced by accident; so strong, indeed,
-That no philologer could examine them all three, without believing them
-To have sprung from some common source, which, perhaps, no longer exists. The seed
+"The Sanskrit tongue, whatever be its age,
+Is of a wondrous structure; more complete
+Than {{x|Greek}}, more copious than {{x|Latin}}, page
+More finely wrought than either; roots, they meet
 
-Of it: {{x|Gothic}} too, he said, and {{x|Celtic}}, and old {{x|Persian}}, of the same family.
-A family. Languages have parents. They have cousins. They have a tree.
-Say *father*: Sanskrit *pitar*, {{x|Greek}} *patēr*, {{x|Latin}} *pater*, {{x|Gothic}} *fadar*, the homily
-Of one word in five mouths. Say *mother*, *brother*, *three*, *night*, *sea*:
+Both, closer than mere chance could ever make;
+So strong that none could study all the three
+And not believe them sprung, for kinship's sake,
+From one same common source, no more to be."
 
-The same faces under different skins. Hold this, in a book of genealogy:
-The tongues we speak have ancestors we can trace, and one mother, lost,
-Whom no one heard, whom scholars would rebuild, sound by sound, the eulogy
-Of a dead speech: Proto-Indo-European, spoken perhaps on the steppe, the frost
+And {{x|Gothic}}, {{x|Celtic}}, {{x|Persian}}: the same line;
+Family: tongues have parents, cousins, trees:
+"Father": *pitar*, *patēr*, *pater*, a sign,
+*Fadar*: one word in five mouths; and say these:
 
-And the grass of six thousand years ago, by a people who left no writing,
-Only their words in the mouths of half the world. And their gods: the sky-father,
-*Dyēus ph₂tēr*, who became Zeus and Jupiter and the lightning
-Of the {{x|Vedic}} Dyaus; and the thunder-god who strikes the serpent, rather
+Mother, brother, three, night, sea: the same face
+Under the skins. In this book of the kin,
+Tongues have their ancestors, and one we trace,
+A mother lost, rebuilt by sounds within:
 
-The oak, *Perkwunos*, who became Perkūnas of the {{p|Lithuanian}} pagans
-And Perun of the Slavs, and, by another root, the cousin of Thor.
-The gods have a family tree too. A book that has kept the ancestors of nations
-Now finds the ancestors of the words for them. And more:
+Proto-Indo-European, spoken
+Upon the steppe, six thousand years ago,
+By folk unwritten; but, as a token,
+Their words in half the world; their gods, also:
 
-He was not the first. Hold that, honestly. A {{x|Florentine}} merchant in {{p|Goa}},
-Filippo Sassetti, had noticed in 1585 that Sanskrit numbers were like {{x|Italian}}.
-A {{x|Dutch}} scholar, Boxhorn, had guessed at a common source. A {{x|French}} Jesuit, slow
-And careful, Coeurdoux, in {{p|Pondicherry}}, had written it out in 1767. The medallion
+Sky-father Dyēus, who became, in time,
+Zeus, Jupiter, the {{x|Vedic}} Dyaus; and
+The thunder-god who strikes the serpent; chime
+Of oak, *Perkwunos*, and Perkūnas' land,
 
-Went to Jones because he said it best, and at the right time, to the right room.
-And he got things wrong: he thought {{x|Egyptian}} and {{x|Chinese}} and the speech of {{p|Peru}}
-Were of the same stock. They are not. The bloom
-Of the true idea grew among the errors. That is how most truths grew.
+{{p|Lithuanian}}; Slavs' Perun; the lore;
+And, by another root, Thor's cousin, too;
+The gods have family trees; and, as before,
+This book, the nations' kin, finds words' kin, new.
 
-He translated *Shakuntala*, Kalidasa's play, in 1789,
-And Goethe read it and wept, and put its form into the prologue of *Faust*.
-He died in {{p|Kolkata}} in 1794, at forty-seven. The line
-From his speech ran to Bopp and Grimm, and to the comparative house
+Before him, Filippo Sassetti saw
+In {{p|Goa}} Sanskrit numbers like his own;
+And Boxhorn, {{x|Dutch}}, a common source, the law;
+Coeurdoux at {{p|Pondicherry}}, had shown;
 
-Of all the world's languages: {{x|Uralic}}, {{x|Bantu}}, {{x|Austronesian}}, the families
-Of human speech, mapped like the families of human blood.
-And the darkness, which this book must name: a word the Sanskrit families
-Used for themselves, *ārya*, noble, was taken by the cruel, the flood
+To Jones it went, who said it best, at last;
+Turned *Shakuntala*, Kalidasa's play,
+In eighty-nine; in ninety-four, he passed
+In {{p|Kolkata}}, forty-seven; the way
 
-Of the nineteenth century's race-theory, and made a race, the *Aryans*,
-A master race of fair northerners who had never been,
-And the word was used to murder millions. The tree of language was the parent
-Of no blood at all. Speech is not race. The green
+To all the world's tongues and their families, now:
+{{x|Uralic}}, {{x|Bantu}}, {{x|Austronesian}}: tree
+Of human speech, mapped as the kin trees, how
+Like the kin houses, known to all; and we
 
-Of the tree of words grows over every border, through conquest
-And marriage and trade and learning; a language is a gift passed hand to hand,
-Not a blood in the veins. That is the truest and the hardest
-Lesson of the common source: the family is in the mouth, not in the land.
-
-Say *father* in your tongue. Hear, under it, a voice six thousand years away.
-Say *night*, *star*, *mother*. The common source no longer exists,
-And it speaks every day. Honour the dead speech by what you say.
-Every word is an ancestor. The tree persists.
+Say *father* in our tongue, and hear its breath:
+A voice six thousand years away; say *star*,
+*Night*, *mother*; the lost source, though past its death,
+Speaks daily; each word, ancestor afar.
 
 
 # Chapter 292: The Year One
