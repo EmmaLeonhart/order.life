@@ -1955,9 +1955,9 @@ Would not betray their dead. The state's commands
 Hunted them to the edges, to the trees,
 {{p|Siberia}}, where some are still; and they,
 In {{p|Russia}}, {{p|Alaska}}, {{p|Oregon}}: these
-Raise two fingers still. Repent, on this day,
+Raise two fingers still. Remember, this day,
 
-Of each reform that called the fathers wrong
+Each new reform that called the fathers wrong
 For being older than reformers knew;
 Pray as your fathers prayed; and, all along,
 Change what must change; burn none for fingers two.
