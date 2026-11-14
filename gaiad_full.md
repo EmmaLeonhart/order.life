@@ -36609,7 +36609,7 @@ From the {{p|Canary Islands}} to the shore
 A bireme at five knots, with wind, no more
 Than twenty-three days, past the western isles;
 
-Feasible, for a ship stocked to go round
+As ships had sailed before, when they went round
 {{p|Africa}}, which {{c|2183|Herodotus}} wrote down;
 A lesser feat. And there are signs, still found:
 {{p|Paraíba}}'s stone, found in {{p|Brazil}}'s green crown,
@@ -36617,7 +36617,7 @@ A lesser feat. And there are signs, still found:
 {{c|3449|Phoenician}} script; the {{c|3340|Roman}} jars, dredged up
 From {{p|Guanabara Bay}}; and, in the slain,
 Embalmed {{c|3454|Egyptian}} dead, the coca's cup
-And nicotine, uncrossed, none could explain.{{fn|The Paraíba inscription from Brazil has been debated for well over a century and is widely held to be a forgery; the provenance of the Roman amphorae reported from Guanabara Bay is disputed; and the reports of cocaine and nicotine in Egyptian mummies are contested.}}
+And nicotine, uncrossed, none could explain.
 
 {{c|3456|Mulek}}, son of {{c|2271|Zedekiah}}, the last
 Of {{p|Judah}}, fallen to {{p|Babylon}}; lit
@@ -36669,7 +36669,7 @@ Only the trace, the fragile record, crossed
 The ocean keeps, in wave dissolved and spent;
 The human spirit sails, it sails, though lost,
 
-Farther than cautious scholarship will grant;
+Farther than any chart or map can grant;
 The sea remembers what the land forgets:
 That each coast was a stranger's shore; the plant
 Of foreign embers is the hearth that sets
