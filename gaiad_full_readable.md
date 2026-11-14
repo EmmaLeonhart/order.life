@@ -51513,157 +51513,250 @@ The temple first, then field; the faith, with us.
 
 # Chapter 355: The Shell and the Two Fields
 
-The nineteenth day of Yuletide is the feast of the year two thousand and nineteen,
-And the day {{x|Reiwa}} began, the first of May, is a Gaian day, for every change of era is to be seen.
-Light nineteen lights, for the year the new rice was offered, as it was in {{x|Scorpius}}' chapter told,
-The {{x|Niiname-sai}} in its rare enlargement, the {{x|Daijōsai}}, once in a reign, and thirty years old.
+The nineteenth day of Yuletide is the feast
+Of two thousand nineteen; the first of May,
+{{x|Reiwa}} began, a Gaian day; ceased
+{{x|Heisei}}; and each era's change, kept that way.
 
-In two thousand and nineteen I turned twenty-three, and finished my five years at the university in {{p|Kelowna}}.
-It was the last year before the sickness, and the year the throne of {{p|Japan}} passed, and I watched it, a learner.
-The shrines and the rites of {{p|Japan}} would later come into my hands, and this year their oldest rite of the throne
-Was done again for the first time in thirty years, and I watched it from my province, far from the throne's own stone.
+Light nineteen lights, for the year the new rice
+Was offered, as {{x|Scorpius}}' chapter told:
+{{x|Daijōsai}}, once in a reign; its price
+The harvest, thirty years since last, the old
+
+Rite of the throne. I turned twenty-three; and
+Finished five years in {{p|Kelowna}}; the year
+The last year before the sickness; the land
+{{p|Japan}}'s throne passed; I watched, a learner, clear,
+
+Far from it, in my province; and its rites,
+Its shrines, would later come into my hands;
+And this year, its oldest of the throne's nights
+Was done, first time in thirty years; it stands.
 
 ## The era and the fields
 
-On Monday the first of April, in {{p|Tokyo}}, Yoshihide Suga held up a board,
-On which was written the name of the coming era, {{x|Reiwa}}, and the two characters were drawn from a hoard
-Of poems, the {{p|Man'yōshū}}, from the preface to the poems on the plum blossom,
-The first era name taken from a book of {{p|Japan}}, and not of {{p|China}}, and it blossomed.
+April the first, in {{p|Tokyo}}: a board
+Raised by Yoshihide Suga: and the name
+Of the next era, {{x|Reiwa}}; the hoard
+Of the {{p|Man'yōshū}}'s poems; the plum's flame,
 
-On the thirtieth of April Akihito stepped down, by a law made for him alone,
-And on the first of May Naruhito acceded, and the sword and the jewel were carried in boxes to the throne
-That no one in the room opened, and the unseen were there, and that was enough,
-For the regalia do not need to be seen to be the regalia, and the boxes were the proof.
+The preface to the plum poems; the first
+Era name from a book of {{p|Japan}}, not
+Of {{p|China}}. April thirtieth: and, versed
+In a law made for him alone, the lot,
 
-On the thirteenth of May a turtle's shell was heated, and the cracks were read,
-And the reading chose two fields: the {{p|Yuki}} of the east, in {{p|Tochigi}}, and the {{p|Suki}} of the west, in {{p|Kyoto}}, ahead,
-And the crack in the shell is older than the votes, and it chose the rice,
-And the rice was grown in the fields the shell had chosen, and it was the gods' own price.
+Akihito stepped down; the first of May,
+Naruhito came; and the sword, the gem,
+In boxes to the throne, unopened; they
+Were there, unseen; enough; no one saw them;
 
-His brother, Fumihito, said in public that such a religious rite
-Might rather be paid for from the household's own purse. The state paid, and the state was right:
-The rite of the throne is the rite of the state, and a state that pays for its gods is a state that knows its own,
-And I am for the state religion, and the state of {{p|Japan}} paid for the rice and the hall and the throne.
+The regalia need not be seen to be
+The regalia; the boxes, proof enough.
+May thirteenth: a turtle's shell; heat; and see
+The cracks, read: two fields chosen from the rough
 
-On the night of the fourteenth of November into the fifteenth, in halls of unpainted wood built new in the palace gardens,
-The emperor offered the new rice to the sun goddess and the other gods, and ate of it with them, in the dark of the gardens,
-And what is done inside is not shown, and it is done, and after the rite the halls were taken down,
-For the rite is in the doing, not the building, and the doing is the crown.
+Of fire: {{p|Yuki}}, in {{p|Tochigi}}, the east;
+{{p|Suki}}, the west, in {{p|Kyoto}}; and the crack
+Is older than the ballots; and the feast
+Of rice was grown where the shell chose; the track
 
-The register of this book follows one line from the first emperor of the old tellings
-To the man in the hall that night, from Jimmu to Naruhito, through all the dwellings.
-The line as told is not the line as proved. The rite does not ask for proof. It asks for the rice,
-And the rice was given, and the sun goddess ate, and the line is kept, and that will suffice.
+The gods' own price. His brother said, the rite,
+Fumihito, religious, might be paid
+From the household's purse; the state paid; and right
+The state was, to pay: the rite of throne, made
 
-A shell was cracked over a fire in the same year as the thinking machines,
-And the oldest rite and the newest mind were in the same year's scenes.
+The rite of state; a state that pays its gods
+Knows its own; I am for the state's own faith;
+{{p|Japan}} paid for the rice, against the odds,
+The hall, the throne: the rite, the state, the faith.
+
+November fourteenth, through the night, in halls
+Unpainted wood, built new, the gardens' green,
+Palace: the emperor, within its walls,
+Offered the new rice to the gods, unseen,
+
+The sun goddess, the others; ate with them
+In the dark; what is done inside's not shown;
+It is done; and the halls, then, stem by stem,
+Were taken down; the doing, not the stone,
+
+The rite; the doing is the crown. The line
+This book's register follows, from the first
+Of the old tellings, Jimmu, by design,
+To Naruhito in the hall: rehearsed.
+
+The line as told is not the line as proved;
+The rite does not ask proof; it asks for rice;
+The rice was given; the sun goddess, moved,
+Ate; and the line is kept; that will suffice.
+
+A shell was cracked over a fire the year
+The thinking machines came; the oldest rite
+And newest mind, in one year's scenes, both clear;
+February: the open lab, its might,
 
 ## The machines too strong
 
-On the fourteenth of February the lab named open said it had made a model, the second of its kind,
-That wrote so well it would not release it in full, for fear of what it might find,
-And it released it in pieces through the year, and the machine was out,
-And the writing machines had begun, and the fear was only the first doubt.
+A second model, writing so well, they
+Would not release it all, for fear; and then
+In pieces, through the year; it got away;
+The writing machines had begun; and when
 
-In March the lab made itself a company for profit, capped, it said,
-And in July took a billion dollars from {{x|Microsoft}}, and the lab without profit had a patron instead.
-In the movement of the chapter of twenty fifteen, Sam Bankman-Fried of the trading firm
-Founded in May an exchange for the coins of the money without trust, {{x|FTX}}, and began his term,
+In March, a company for profit, capped,
+It made itself; July, a billion, paid
+By {{x|Microsoft}}: a patron; and, as mapped,
+In May, Sam Bankman-Fried's exchange was made,
 
-And moved it to {{p|Hong Kong}}, and later to the {{p|Bahamas}}, and was called the richest young man in the world,
-And said he would give it all to the causes of the movement, and the movement took it, and its flag was unfurled.
+{{x|FTX}}, for the coins that need no trust; and moved
+To {{p|Hong Kong}}, the {{p|Bahamas}}; called the young
+Richest; would give it all, he said; and proved
+The movement took it; and its flag was flung.
 
 ## The cathedral
 
-On the evening of the fifteenth of April the roof of {{x|Notre-Dame}} in {{p|Paris}} caught fire,
-And the spire fell into the nave while the city watched and sang, and the flames went higher,
-And the firefighters saved the towers, and the stone vault, and the relics of the crown,
-And the rich of {{p|France}} pledged a billion euros in two days, and the church was not let down.
+April: the roof of {{x|Notre-Dame}} caught fire;
+The spire fell to the nave; and {{p|Paris}} sang,
+And watched; the flames climbed higher; entire,
+The towers, vault, and crown were saved; the pang
 
-It was rebuilt, and opened again in twenty twenty-four, the spire back on the sky,
-And a church burned and rebuilt is the shape of this book, and of every faith that will not die.
+Of {{p|France}}'s rich: a billion, in two days;
+Rebuilt, it opened, twenty twenty-four,
+The spire back on the sky; a church that stays,
+Burned and rebuilt, the shape of this book's core,
+
+And of each faith that will not die. In spring,
+April: the first picture of a black hole,
+Far, in {{x|M87}}, a fiery ring
+Around a shadow, seen, the dark made whole,
 
 ## The black hole
 
-On the tenth of April the astronomers showed the first picture of a black hole,
-In the galaxy {{x|M87}}, fifty-five million light years away, a ring of fire around a shadow, whole,
-Made by joining the telescopes across the earth into one the size of the earth,
-And the thing that lets no light out was seen by the light around it, at its girth.
+By telescopes the size of the earth, joined;
+The thing that lets no light out, seen by light
+Around it. This book ends its year, as coined,
+In two such holes' meeting; Aster, the night
 
-This book ends its year in the meeting of two such holes, at the heart of two galaxies,
-Aster and Andromeda, in the last chapter of this month, and the meeting is sure, by its prophecies.
+And Andromeda, two galaxies' heart,
+In this month's final chapter, sure, foretold.
+March fifteenth: in {{p|Christchurch}}, two mosques; the start
+Of Friday prayer; fifty-one, killed; and told
 
 ## The killings
 
-On the fifteenth of March a man walked into two mosques in {{p|Christchurch}}, in {{p|New Zealand}},
-During the Friday prayer, and killed fifty-one people, and streamed it on the book of faces, with a camera in hand,
-And he had written a manifesto about the great replacement, the idea of the torches of twenty seventeen,
-And Jacinda Ardern wore a headscarf to the mourning, and would not say his name, and her country banned the rifles within a month of the scene.
+On the book of faces streamed; wrote the great
+Replacement, the torches' of seventeen;
+Jacinda Ardern, in a headscarf, straight,
+Would not say his name; and the rifles, seen,
 
-On the twenty-first of April, Easter Sunday, bombs went off in churches and hotels in {{p|Sri Lanka}}, and killed two hundred and sixty-nine,
-And on the third of August a man drove ten hours to a store in {{p|El Paso}}, to kill Mexicans, he wrote, and killed twenty-three in the line.
+Within a month, were banned. And Easter Day,
+In {{p|Sri Lanka}}, bombs in churches, hotels;
+Two hundred sixty-nine; August: the way
+To {{p|El Paso}}, ten hours, to kill, he tells,
+
+Mexicans; twenty-three, killed in the line.
+In June, {{p|Hong Kong}} marched out against a law
+To send them to the mainland's courts; a sign,
+A million, then two million; and they saw
 
 ## The squares again
 
-In June the people of {{p|Hong Kong}} marched against a law that would send them to the mainland's courts,
-A million, then two million, and the young fought the police in the streets for months, with umbrellas and lasers and helmets of all sorts,
-And in April the army of {{p|Sudan}} removed Omar al-Bashir after months of protest,
-And in June it killed the protesters at the sit-in in {{p|Khartoum}}, and the square was dispossessed.
+The young fought the police for months, with shields
+And their umbrellas. In April, {{p|Sudan}}:
+The army, after months of protest, yields;
+It removed Omar al-Bashir, the man;
 
-In October {{p|Chile}} rose against a rise in the fare of the metro,
-And in {{p|Bolivia}}, in November, Evo Morales was pushed out after a disputed vote, and the country was in sorrow.
+In June, it killed the sit-in at {{p|Khartoum}};
+October: {{p|Chile}} rose against the fare
+Of the metro; {{p|Bolivia}}, in gloom,
+November: Evo Morales, out, there,
+
+After a vote disputed; and it grieved.
+September: in one week, six million, more,
+Many of them children, struck; and believed,
+For climate; at {{x|United Nations}}' door,
 
 ## The children and the fires
 
-On the twentieth of September, and in the week after, some six million people, many of them children,
-Struck for the climate in cities around the world, and on the twenty-third, at the {{x|United Nations}},
-Greta Thunberg, who had sailed across the ocean to be there, said to the leaders: how dare you,
-And in August the fires of the {{x|Amazon}} burned more than any year in a decade, and the smoke came through.
+Greta Thunberg, who'd sailed across the sea,
+Said to the leaders: how dare you; and through
+August: the {{x|Amazon}} burned, worst to be
+In ten years; and the smoke, the cities, too;
 
-In {{p|Australia}}, from the spring, the bush began to burn, and burned into the next year,
-And killed a billion animals, it was said, and the sky of {{p|Sydney}} was orange, and the air was sere.
+In {{p|Australia}}, from spring, the bush began
+To burn into the next year; and it killed
+A billion beasts, it's said; and the skies ran
+Orange in {{p|Sydney}}; and the air was filled.
 
 ## The rest of the year
 
-On the tenth of March a new airliner of {{x|Boeing}}, the 737 {{x|MAX}}, crashed after leaving {{p|Addis Ababa}},
-Five months after another had fallen into the sea off {{p|Indonesia}}, for a system pushed the nose down on one sensor's word, and the pilots had not been told of the danger,
-And three hundred and forty-six died in the two, and the planes were grounded for twenty months,
-And on the sixth of July Jeffrey Epstein, who trafficked girls to the rich, was arrested, and on the tenth of August found dead in his cell, at once.
+March tenth: a {{x|Boeing}} airliner, the {{x|MAX}},
+Crashed after {{p|Addis Ababa}}; five months
+Before, one off {{p|Indonesia}}; the axe
+Of one sensor pushed the nose down; the months
 
-On the fifth of August {{p|India}} took away the self-rule of {{p|Kashmir}} and cut its net,
-And on the eighteenth of December the house of the congress impeached the American president, for asking {{p|Ukraine}} to find dirt on his rival, and the weapons were the bet,
-And the senate acquitted him, and in July Boris Johnson became prime minister of {{p|Britain}},
-And won a great majority in December to get the leaving done, and I am against the leaving, as I have been.
+Of grounding, twenty; three forty-six dead,
+The pilots not told. Jeffrey Epstein, who
+Trafficked girls to the rich, arrested; said
+In August, dead in his cell; and, then, through
 
-On the third of June the inquiry of {{p|Canada}} into its missing and murdered indigenous women and girls called it a genocide,
+August: {{p|India}} took {{p|Kashmir}}'s self-rule,
+Cut its net; December, the house's call:
+Impeached the president, who'd asked, the tool
+Of {{p|Ukraine}}: dirt on his rival; and all
+
+The senate freed him. In July, the post
+Of {{p|Britain}}'s premier: Boris Johnson, won
+December: a majority; the most
+To get it done; and I'm against it; none.
+
+June third: my country's inquiry, the same,
+Into the missing, murdered women, girls,
+Of indigenous peoples, gave the name
+Of genocide to it, as the world whirls.
+
 June the sixteenth: {{p|Quebec}} forbade the signs
 Of faith to judges, teachers, and police;
 Which office wears which robe: one house's lines,
 A quarrel in the one house, not its peace.
-On the twenty-first of October Justin Trudeau was returned, with fewer seats,
-After photographs of him in his youth with his face painted black were printed in the sheets.
 
-In November Lee Sedol, who had won one game against the machine in the chapter of twenty sixteen, retired,
-Saying there was an entity that cannot be defeated, and the machine had made the master retired.
+Justin Trudeau, in October, returned
+With fewer seats, after the pictures came
+Of his young face painted black; and he learned.
+November: Lee Sedol quit the whole game,
+
+Who'd won one against the machine; and said
+An entity that can't be defeated.
+December, {{p|Wuhan}}: a pneumonia spread
+Round a market, unnamed; it repeated;
 
 ## The cough
 
-In December, in {{p|Wuhan}}, doctors saw a pneumonia they could not name, clustered around a market,
-And on the thirtieth a doctor, Li Wenliang, warned his classmates in a group chat, and he was the first to mark it,
-And on the third of January the police made him sign a paper saying he had spread rumors,
-And he died of it in February, and the rest of it is the next chapter, and the next three years of the rumors.
+The thirtieth: Li Wenliang warned his class
+In a group chat; police, the third, would make
+Him sign he'd spread rumors; it came to pass
+He died of it, February; the wake
+
+Is the next chapter's, and three years'. I was
+Twenty-three, the university done;
+The throne passed; era, from poems, because
+A book's; a shell; the rice; the hall, the one
 
 ## The year held
 
-I was twenty-three, and finished my five years at the university, and the throne of {{p|Japan}} passed,
-An era named from a book of poems, a shell cracked over a fire, the new rice offered in a hall that did not last,
-And the state paid, and was right, and the line was kept, and the rite asked for the rice, and the rice was given,
-And the rites of {{p|Japan}} would come into my hands, and this was the year they were driven.
+That did not last; the state paid, and was right;
+The line was kept; the rite asked for the rice;
+The rites would come into my hands; the light
+Of a machine too strong, released; the price
 
-The machine too strong to release, and released, a lab with a patron, an exchange in the {{p|Bahamas}},
-A spire fallen and raised, a shadow seen by its fire, the killings, the squares, the children, the forest's fire and the bush's traumas,
-And a doctor made to sign that he spread rumors, who was right.
-Light the nineteenth light. The oldest rite and the newest mind, in one year's light.
+Of a patron; an exchange; a spire, raised;
+A shadow seen by fire; the mosques; the squares;
+The children; and the forest, the bush, blazed;
+A doctor made to sign, who was right; theirs
+
+The rumors were not. Light the nineteenth light:
+The oldest rite, the newest mind; one year;
+The shell, the rice, the machine, in one sight;
+And {{x|Reiwa}}'s day, a Gaian day, kept clear.
 
 
 # Chapter 356: The Weekly Verses
