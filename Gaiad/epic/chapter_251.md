@@ -61,7 +61,7 @@ The bullets would not harm them; magic, sought
 In vain: the capital was lost; the war
 
 Of lead ran its arithmetic: they burned
-{{p|Prophetstown}} and its stores; the {{c|2776|Prophet}}'s lie
+{{p|Prophetstown}} and its stores; the {{c|2776|Prophet}}'s cry
 Of shields from bullets, overturned. Returned,
 {{c|3646|Tecumseh}} found but ashes, by and by;
 
