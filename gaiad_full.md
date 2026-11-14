@@ -37049,8 +37049,8 @@ And the {{p|Great Serpent Mound}} upon its ground,
 Thirteen hundred feet of earth, all coiled tight,
 
 A serpent swallowing an egg, the sun,
-The world: its meaning is a dozen tales;
-The serpent is beyond dispute: and done
+The world: the serpent holds it in its scales;
+The serpent swallows it; and it was done
 By hand, the earth-work on the wooded vales.
 
 And then, the city: {{p|Cahokia}} rose
