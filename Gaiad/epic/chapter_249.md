@@ -32,7 +32,7 @@ Its {{c|3620|Shawnee}} and its {{c|3619|Miami}}; the same
 
 Hunger that broke the doors of eastern lands
 Pressed west, {{c|3626|Republic}}'s weight, its manifest
-And {{c|472|God}}-anointed greed. But in their hands
+And {{c|472|God}}-anointed creed. But in their hands
 They met the military mind, the best:
 
 {{c|3627|Mihsihkinaahkwa}}, the Turtle, chief
