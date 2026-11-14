@@ -30,7 +30,7 @@ And {{p|Sweden}}'s kings, today, bear {{c|4062|Oscar}}'s name,
 Born of the bard's son; and his, beloved,
 {{c|4069|Selma}}, {{c|4061|Fingal}}'s hall, a girl's name, the same:
 
-{{c|4070|Selma Lagerlöf}} bore it; and, as one,
+{{c|4070|Selma Lagerlöf}}'s, read now; and, as one,
 {{c|3593|Jefferson}} called him greatest ever; and
 Then {{c|4073|Samuel Johnson}}, in {{p|London}}, as one
 Who doubted, asked for manuscripts in hand;
