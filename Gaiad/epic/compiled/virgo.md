@@ -1395,9 +1395,9 @@ Of lances, two, under the ribs; the herd
 Broke through the guards to soak cloth where blood sprang.
 
 These are the {{x|Days of Awe}}; and say it straight:
-A state that writes each field, fixes each man,
-Will see a priesthood it did not create
-And cross it out: the register's own plan
+The {{c|3848|Taikō}}, who wrote each field, fixed each man,
+Saw here a priesthood he did not create
+And crossed it out: the register's own plan
 
 And the hill's crosses: one story. He sent
 His armies to {{p|Korea}}, ninety-two,
@@ -1411,8 +1411,8 @@ I vanish; {{p|Osaka}}, all of me, one
 
 Dream in a dream." The register, the hold,
 The castle, and the hill of crosses: dream.
-Repent today of each list, new or old,
-That crosses out a name; the boy, whose gleam
+Remember, then, each list, both new and old,
+And every crossed-out name; the boy, whose gleam
 
 Asked which cross was his; and the peasant, who
 Climbed, and then pulled the ladder up: the same
