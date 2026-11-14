@@ -48970,150 +48970,167 @@ For the dead, asking nothing of the lands.
 
 # Chapter 343: One Device
 
-The seventh day of Yuletide is the feast of the year two thousand and seven,
-And the first week of the season closes. Light seven lights, and keep the warming earth as a duty under heaven.
+Yuletide's seventh day: two thousand seven;
+The first week closes; light seven; and keep
+Warming earth, a duty under heaven;
+I turned eleven; phone, the window's sweep,
 
-In two thousand and seven I turned eleven. It was the year the phone became the window,
-The year you could spit in a tube by mail and learn where your blood had been,
-And the year the money of the world began to fail
-While the men in charge said it was contained, and it was not, as was seen.
+The year you spat in tubes, by mail, to learn
+Where blood had been; the world's money to fail
+While those in charge said it's contained; in turn,
+It was not. On the ninth, {{c|4576|Steve Jobs}} would hail
 
 ## The device
 
-On Tuesday the ninth of January, in {{p|San Francisco}}, {{c|4576|Steve Jobs}} said
-He was introducing three products: a widescreen {{x|iPod}} with touch controls,
-A revolutionary phone, and a breakthrough internet communicator.
-"These are not three separate devices. This is one device." And he called it the {{x|iPhone}}, and it rolled.
+In January, {{p|San Francisco}}: three
+Products: a widescreen {{x|iPod}}, touched; a phone,
+Revolutionary; the net; and see:
+One device, not three; the {{x|iPhone}}, its own.
 
-It went on sale on the twenty-ninth of June, and people stood in line for days.
-In November {{x|Google}} announced {{x|Android}}, the open system for the rest.
-By the time I was grown nearly everyone on earth carried one device,
-The internet in the pocket of the farmer and the student and the guest.
+June twenty-ninth, on sale; lines, days; and then
+November: {{x|Android}}, open, for the rest;
+Now nearly all on earth carry it; when
+The farmer, student, guest: the net, the best;
 
-It put the world's library in every hand, and the map, and the camera, and the bank,
-The translator in the market, the doctor's advice in the village with no doctor near,
-The voice of the protester in the square, filmed and sent before the police arrived,
-And this book, which most will read on one, the whole of it, here.
+The world's library in each hand; the map,
+Camera, bank, translator at the stall,
+Doctor's advice, no doctor near; the gap
+The protester, filmed, sent before the call
+
+Of police came; and this book, read on one,
+The whole of it, here; much more than the sold;
+The nineteenth of November: just begun,
+In {{p|Mountain View}}, the blood's own letters, told:
 
 ## The spit by mail
 
-On Monday the nineteenth of November, in {{p|Mountain View}},
-{{c|4577|Anne Wojcicki}} and {{c|4578|Linda Avey}} began to sell {{x|23andMe}}:
-You spat in a tube and sent it, and for nine hundred and ninety-nine dollars
-Half a million places on your chromosomes were read, and your ancestry set free.
+{{c|4577|Anne Wojcicki}} and {{c|4578|Linda Avey}} sold
+{{x|23andMe}}: spit in a tube; the fee
+Of nine ninety-nine; half a million told
+Places on chromosomes; ancestry free;
 
-This book joins the blood and the records. The genealogy of the {{x|Gaiad}}
-Is a line of descent by the parish book and by the haplogroup in the cell,
-The {{x|Y-DNA}} of the fathers and the {{x|mtDNA}} of the mothers
-Joined to the names in the registers, and the two tell one story well.
+This book joins blood and records; and its line
+Parish book and haplogroup in the cell,
+{{x|Y-DNA}} of fathers; the design
+And the {{x|mtDNA}} of mothers; names, as well,
 
-Millions sent their spit in the years after, and found cousins they never knew,
-And the adopted found their mothers, and the old crimes found their men.
-The company would fail and its letters be sold,
-But the matching it began is how families are found again.
+Joined, they tell one story. And millions found
+Cousins unknown; adopted, mothers; men
+Of the old crimes, found; the company, bound
+To fail, its letters sold; but match, again,
 
 ## The money
 
-In February the lenders who had sold houses to people who could not pay began to fail.
-In April the largest, {{x|New Century}}, went bankrupt in the spring.
-On the ninth of August {{x|BNP Paribas}} froze three of its funds in {{p|Paris}},
-And the banks of the world stopped lending to each other, and the crisis took wing.
+Is how families are found. Lenders fail,
+Who sold to those who could not pay; and, then,
+April: {{x|New Century}}, bankrupt; the gale
+On August ninth: {{x|BNP Paribas}}; when
 
-On the fourteenth of September people stood in line outside {{x|Northern Rock}}
-To take their money out, the first run on a British bank in a century and more.
-The men in charge said it was contained.
-It was the next year's chapter, and it broke through every door.
+It froze three funds, in {{p|Paris}}; and the wing
+Of lending stopped; September fourteenth, lines
+At {{x|Northern Rock}}: a run; the first such thing
+In a century in {{p|Britain}}; the signs
+
+Were said contained; it was the next year's door.
+April sixteenth, {{x|Virginia Tech}}; and one
+Student killed thirty-two, then himself; more;
+On August first, {{p|Minneapolis}}: one
 
 ## The college and the bridge
 
-On the sixteenth of April, at {{x|Virginia Tech}}, a student killed thirty-two
-And then himself, the worst such killing the country had yet seen.
-It would not stay the worst.
-On the first of August the interstate bridge in {{p|Minneapolis}} fell into the {{x|Mississippi}}'s green.
+Bridge fell into the {{x|Mississippi}}'s green;
+Thirteen died at the rush; a gusset plate,
+Too thin from making; a year, rebuilt, clean;
+The others checked; a nation's bridges, straight,
 
-Thirteen died at the evening rush. A gusset plate had been too thin since the day it was made.
-The country rebuilt the bridge in a year, and inspected the others it had.
-A nation that learns from its broken bridges builds the next ones stronger.
-That is the answer to the fall: not grief alone, but the better and the glad.
+Stronger, the next; not grief alone, the glad.
+{{c|4514|Bush}} sent twenty thousand more troops, the surge;
+To {{p|Iraq}}; {{c|4579|David Petraeus}} led; the bad
+Killing fell; and {{p|Anbar}}'s tribes turned to purge
 
 ## The surge
 
-On the tenth of January {{c|4514|George W. Bush}} sent twenty thousand more soldiers to {{p|Iraq}},
-And called it the surge, and {{c|4579|David Petraeus}} took the command.
-The {{x|Sunni}} tribes of {{p|Anbar}} turned against the jihadists, and fought beside the Americans,
-And by the end of the year the killing fell across the land.
-
-In September, in {{p|Myanmar}}, the monks marched in their saffron robes
-Against the generals, and the generals shot them in the street.
-The monks walked with their bowls turned over, refusing the generals' alms.
-That is how a faith says no: by refusing what the tyrant would have it eat.
+The jihadists beside us; and the year's
+Killing fell; that September, {{p|Myanmar}}: there
+Monks marched in saffron; generals shot; tears;
+Bowls turned, the alms refused: faith's no, laid bare.
 
 ## Benazir
 
-On the twenty-seventh of December, in {{p|Rawalpindi}},
-{{c|4580|Benazir Bhutto}}, who had come home in October to run again,
-Whose homecoming had been bombed and a hundred and fifty killed,
-Was killed at a rally by a gun and a bomb, and the crowd was slain.
+At {{p|Rawalpindi}}, December's end: slain
+{{c|4580|Benazir Bhutto}}, home again to run;
+Homecoming bombed, a hundred fifty's pain;
+A rally, gun and bomb, the crowd; and one
 
-The same day {{p|Kenya}} voted, and the result announced three days later
-Was fought over with machetes, and more than a thousand died in the weeks that came,
-Until {{c|4581|Kofi Annan}} brought the two men to share the government,
-And the killing stopped, and {{p|Kenya}} wrote a new constitution, and peace came.
+The same day {{p|Kenya}} voted; the count, then,
+The result, fought with machetes; and more
+Than a thousand died; {{c|4581|Kofi Annan}}, when
+Two men shared government; and peace, once more;
 
 ## The warming
 
-The scientists of the {{x|IPCC}} published their fourth report that year:
-The warming is unequivocal, and very likely caused by people's hands.
-In October they shared the {{x|Nobel Peace Prize}} with {{c|4575|Al Gore}}.
-In September the {{x|Arctic}} ice shrank to the smallest ever measured in those lands.
+A constitution, new; and peace held fast.
+The {{x|IPCC}}'s fourth report: the warming, clear,
+Unequivocal, people's hands; the last
+October: {{x|Nobel Peace Prize}}; {{c|4575|Al Gore}}, near;
 
-Protecting the climate is a Lifeist duty. This book says it plain:
-Life made the air we breathe, the oxygen of the first green cells,
-And the life that burns the buried life of the ancient forests
-Owes the living earth its care, as the record of descent tells.
+In September, the {{x|Arctic}} ice, the least
+Ever measured; this book says plain: our care
+Of climate is our duty; life released
+The oxygen, first green cells, and the air;
+
+And life that burns the buried forests' life
+Owes all the living earth its care, as told
+By the record of descent; and, then, rife,
+February, {{p|Munich}}: the villain, bold,
 
 ## The villain at Munich
 
-In February, in {{p|Munich}}, {{c|4506|Vladimir Putin}} stood before the West
-And told it that its order was over, and that {{p|Russia}} would not accept the rule.
-In the spring {{p|Estonia}} moved a Soviet war memorial in {{p|Tallinn}},
-And its banks and ministries were knocked offline from the east, a cyberwar's first school.
+Told the West its order's over; would not
+Accept its rule; spring, {{p|Estonia}} moved
+Soviet memorial, {{p|Tallinn}}'s; hot,
+Its banks knocked offline from the east; it proved
 
-It was the first war fought only on the net, and it was the villain's,
-Never owned, and everyone knew whose it was.
-{{x|NATO}} built its cyber defense center in {{p|Tallinn}} the next year,
-The answer to the attack, in the city it hit: that is how the free world does.
+The first war only on the net; his own,
+Unclaimed, and all knew whose; the next year, then,
+{{x|NATO}}'s cyber center, built there and shown
+In {{p|Tallinn}}: that, the free world's answer; when
 
 ## The treaties
 
-On the first of January {{p|Bulgaria}} and {{p|Romania}} joined the {{x|European Union}}.
-On the thirteenth of December the leaders signed the {{x|Treaty of Lisbon}}.
-In May {{c|4582|Nicolas Sarkozy}} took {{p|France}}; in June {{c|4583|Gordon Brown}} took {{p|Britain}};
-In November {{c|4584|Kevin Rudd}} took {{p|Australia}}, and signed {{x|Kyoto}}, and the climate was the mission.
+{{p|Bulgaria}} and {{p|Romania}} joined
+The union; the {{x|Treaty of Lisbon}} signed;
+{{c|4582|Sarkozy}}, {{c|4583|Gordon Brown}}, {{c|4584|Kevin Rudd}}, joined;
+And {{x|Kyoto}} signed, the climate kept in mind;
 
 ## The rest of the year
 
-In January {{x|Netflix}} began to stream its films over the net.
-In November {{x|Amazon}} sold the {{x|Kindle}}, a library in a slab of grey.
-On the twenty-first of July the last {{x|Harry Potter}} book came out,
-And children of eleven, like me, read it in a night, and finished by the break of day.
+In January, {{x|Netflix}} streamed; and then
+{{x|Amazon}}'s {{x|Kindle}}, a library, grey;
+The last {{x|Harry Potter}}, July; and when
+Eleven, I read it one night, till day.
 
-In February {{x|Tumblr}} opened, a site for posting small things,
-Where many of my generation would later find words for themselves,
-The words for who we were, for the bodies and the loves we had,
-Passed from blog to blog, reblogged like books between the shelves.
+In February: {{x|Tumblr}}, small things posed,
+Where many of my age would find the words
+For who we were, the bodies, loves, disclosed,
+Reblogged, from blog to blog, like flocks of birds.
 
 ## The year held
 
-One device, the world in the pocket, a spit by mail joining the blood to the line,
-A run on a bank in {{p|England}}, and the crisis said to be contained when it was not,
-Thirty-two killed at a college, a bridge in the river, the surge, the saffron monks,
-{{c|4585|Bhutto}} killed, the warming called unequivocal, and the villain's first cyber shot.
+One device; world in pocket; spit by mail
+Joined to the line; a run on {{x|Northern Rock}};
+The crisis said contained; but it would fail;
+A college, thirty-two; the surge; the shock
 
-I was eleven, reading the wizard in a night, in a house where the year happened too,
-And {{x|Tumblr}} was a week old, and the phone was in the hand,
-And the words I would find there for myself were being written by strangers,
-Waiting for me to come and read them, and to understand.
+Of saffron; {{c|4585|Bhutto}} killed; the warming, plain;
+The villain's net war; and I, eleven,
+Read wizards in a night; the phone, the chain
+{{x|Tumblr}}, new; the words, a kind of heaven,
+
+Written by strangers, waiting for me there,
+For me to come, and read, and understand;
+The seventh light, two thousand seven, where
+The window opened in each pocket, hand.
 
 
 # Chapter 344: Instead of Trust
