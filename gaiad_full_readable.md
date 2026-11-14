@@ -29277,7 +29277,7 @@ Were ended; and the trade was ended, all:
 The roads that tied {{p|Mycenae}} to the {{p|Nile}},
 To {{p|Ugarit}}, to {{p|Cyprus}}, and away
 To far {{p|Sardinia}}: they broke; the while
-The people fell, nine-tenths in some, they say.
+The people fell, nine-tenths in some, that day.
 
 For five things came at once: the first, the drought,
 From twelve hundred fifty, a hundred years,
