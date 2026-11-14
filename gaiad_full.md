@@ -31095,7 +31095,7 @@ Of a sophist; and the answer back went:
 
 The wine and figs, yes; but our law forbids
 That we should sell philosophers. And then
-Came {{c|2320|Ashoka}}, who, as the story bids,
+Came {{c|2320|Ashoka}}, who, as old custom bids,
 Slew brothers for the throne, and ruled like men
 
 Before him, hard; and then made war upon
