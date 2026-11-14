@@ -53,7 +53,7 @@ A lesser feat. And there are signs, still found:
 {{c|3449|Phoenician}} script; the {{c|3340|Roman}} jars, dredged up
 From {{p|Guanabara Bay}}; and, in the slain,
 Embalmed {{c|3454|Egyptian}} dead, the coca's cup
-And nicotine, uncrossed, none could explain.
+And nicotine, uncrossed, none could explain.{{fn|The Paraíba inscription from Brazil has been debated for well over a century and is widely held to be a forgery; the provenance of the Roman amphorae reported from Guanabara Bay is disputed; and the reports of cocaine and nicotine in Egyptian mummies are contested.}}
 
 {{c|3456|Mulek}}, son of {{c|2271|Zedekiah}}, the last
 Of {{p|Judah}}, fallen to {{p|Babylon}}; lit

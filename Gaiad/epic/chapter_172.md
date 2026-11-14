@@ -71,7 +71,7 @@ In {{p|Athens}}' market, in a jar; and then
 The great {{c|2381|Alexander}} once came to where
 
 He lay, and asked what he could do for him,
-{{c|2401|Diogenes}} said: just stand out of my sun.
+{{c|2401|Diogenes}} said: just stand out of my sun.{{fn|The meeting of Alexander and Diogenes is told by Plutarch and Diogenes Laertius, centuries later; historians doubt it happened as told.}}
 The conqueror of all could not, by whim,
 Give anything to one who needed none.
 

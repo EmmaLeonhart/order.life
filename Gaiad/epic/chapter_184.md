@@ -31,7 +31,7 @@ In woman's dress, a charioteer's; too,
 Would be called lady; and he sought, beside,
 
 The surgeons, to be made a woman whole.
-And he was lady, and was named as so;
+And he was lady, and was named as so;{{fn|The accounts of Elagabalus come from Cassius Dio and Herodian, who were hostile to him, and from the later Historia Augusta, which is often unreliable.}}
 He dressed, and ruled, and danced, the sun his soul,
 And all of {{p|Rome}} would see him come and go.
 

@@ -62,7 +62,7 @@ His shame, and barred him {{p|Tula}}'s throne and state.
 
 He walked east, the sea his last desire,
 And at the {{p|Gulf}}'s edge, weeping and bereft,
-Set himself free: burned upon a pyre
+Set himself free: burned upon a pyre{{fn|The sources give both endings: in one, Quetzalcoatl burns himself and his heart rises as the morning star; in the other, he sails east on a raft of serpents.}}
 His heart became the morning star; and left,
 
 He sailed away, the raft's light growing dim
