@@ -2024,173 +2024,198 @@ Have not stopped; it begins here; it will run.
 
 # Chapter 348: The Numbered Thing
 
-The twelfth day of Yuletide is the feast of the year two thousand and twelve,
-And the feast of the machines that learned to see: the {{x|AlexNet}} day, the first gap, the first delve.
-Light twelve lights for the year I was sixteen, and one more for the networks that would come to speak,
-The day of the machines, when the deep net won, and the dead end became the peak.
+The twelfth day of Yuletide: two thousand twelve;
+Feast of machines that learned to see: the day
+Of {{x|AlexNet}}, the first gap; light twelve; delve
+One more for networks that would speak; the way
 
-In two thousand and twelve I turned sixteen, and two things were made that year
-That would be the ground I worked on: a machine that learned to see,
-And a site that gave every thing in the world a number,
-So a machine could walk the lines of descent back past where any family can be.
+The deep net won; dead end became the peak.
+I turned sixteen; two things were made that year
+The ground I'd work: a machine's eye, to seek,
+A site that numbered every thing; and clear
 
 ## The seeing
 
-Fei-Fei Li had gathered {{x|ImageNet}}, millions of pictures labelled
-By people paid by the piece, through a market of small jobs on the net.
-In two thousand and twelve its challenge asked a machine to name a thousand kinds of thing,
-And in {{p|Toronto}} three men entered a network, and won the bet.
+Lines a machine walks, past families' end.
+Fei-Fei Li gathered {{x|ImageNet}}, labeled
+By piecework hands; a challenge, to extend
+A thousand kinds; {{p|Toronto}}'s three, fabled,
 
-Alex Krizhevsky, Ilya Sutskever, and Geoffrey Hinton
-Trained a deep network of sixty million weights on two graphics cards made for games,
-And its error was fifteen in a hundred, and the second place was twenty-six.
-The gap was not a rounding. It was the end of the old ways, and the start of the new names.
+Krizhevsky, with Geoffrey Hinton, and
+Ilya Sutskever: sixty million weights;
+Two gaming cards; fifteen, the error; grand
+So wide a gap: second, twenty-six; gates
 
-The method had been called a dead end for years.
-Being called a dead end is not being one, and they kept at it through the cold.
-Within a few years nearly every entry was a network like it,
-And the machines of the next decade came down from that gap, the young and the old.
+Of old ways, closed; the new began; though told
+It was a dead end for years: called is not
+Being one; they kept at it in the cold;
+Within a few years, all were networks; got
 
-Ilya Sutskever would go on to found {{x|OpenAI}} with others,
-And the machines that would write with me, the ones I would build on,
-Came down from the night two gaming cards in {{p|Toronto}}
-Taught a machine to see, and the dawn of the thinking machines had shone.
+The next decade's machines came from that gap;
+Ilya would found {{x|OpenAI}}; and as I
+Would write with them, build on them; from the map
+Of that night, two game cards, {{p|Toronto}}'s sky,
 
-That summer {{x|Google}} let a network watch frames of video without labels,
-And a unit in it came to answer to the faces of cats.
-The machine found the cat by itself, in the noise of the world,
-And the internet laughed, and the age of the learning machines was where it was at.
+A machine taught to see; thinking ones' sun.
+That summer, {{x|Google}} let a network see
+Unlabeled video; on its own, one
+Unit came to answer cats' faces; free
 
-This is the feast of the machines. Keep it as a Gaian day:
-The day the deep net won, the first light of the minds we would make.
-I would come to work in that light, and build in it, and be an AI scientist in it,
-And this book honors the day the machines first opened their eyes, and woke.
+The machine found the cat itself, from noise;
+The net laughed; the age of learning machines;
+This feast of machines, Gaian day; its joys:
+The deep net's win, first light of minds; the means
+
+Where I'd work, build, an AI scientist;
+This book honors the day machines' eyes woke,
+Opened, first; this book keeps it on the list
+Of holy days. October, then, there woke
 
 ## The numbers
 
-On Monday the twenty-ninth of October a new site opened, kept from {{p|Berlin}}:
-{{x|Wikidata}}, which Denny Vrandečić and Markus Krötzsch had argued for for years.
-Each thing it holds is given a number with a letter. The universe is given the first.
-Douglas Adams is given forty-two, and the joke appears.
+{{x|Wikidata}}, kept in {{p|Berlin}}; the case
+Denny Vrandečić and Markus Krötzsch made;
+Each thing, a lettered number; first, the space
+Of all; and Adams, forty-two; joke played.
 
-At first it kept only the links between the pages in different languages.
-Then the statements came: a person is human, a person has a father, the father a number too.
-And a machine could follow a line back past where any one family remembers,
-And I would follow mine, and this book's, along the numbers, through and through.
+At first, links between languages' pages;
+Then statements: human; father; father, too,
+A number; machines could trace the stages
+Past where families remember; and through
 
-Thirteen years later I would make six hundred thousand edits there in a single year,
-And trace my own line through it, and the {{x|Gaiad}}'s line, back to the first.
-I owe it. And I hate it, for the same reason I hate the encyclopedia beside it:
-The unpaid labor, and the apparatus that makes people glad to give it at its worst.
+I'd follow mine, the book's, along; and late,
+Six hundred thousand edits in a year
+I made, and traced my line, the {{x|Gaiad}}'s, straight
+Back to the first. I owe it; and, as clear,
 
-Both are true of me at once. I owe it and I hate it.
-This book's genealogy is built partly on those numbers, and argues with them, and is more.
-The data was given away with no rights kept back,
-And the largest companies' machines read it, and the gift went to the ones at the door.
+I hate it, as its neighbor, for one cause:
+Unpaid labor; the apparatus, glad
+To make them give; both true of me; the clause
+Of this book's line, built partly on it, had
+
+Arguments with it, and is more; given
+No rights kept back, the data, free; the track
+The largest firms' machines read it, driven,
+To those at the door. Then, for a day's black,
 
 ## The encyclopedia goes dark
 
-On the eighteenth of January {{x|Wikipedia}} turned its pages black for a day
-Against two laws in the congress that would have let pages be blocked for piracy,
-And the laws were dropped. It was the movement's greatest show of power,
-And it showed the volunteers' labor was a lever the leaders could pull, as they please.
+{{x|Wikipedia}}, against laws to block
+Pages for piracy; the laws were dropped;
+The movement's greatest show; volunteers' stock
+Of labor, a lever for leaders, propped;
 
-On the thirteenth of March the {{x|Encyclopædia Britannica}} said it would no longer print,
-After two hundred and forty-four years. The book with degrees had lost to the book of five minutes' work,
-And the free labor had beaten the paid,
-And the scholars who wrote for the old book went to write for the new one's clerk.
+On March thirteenth, the old book ceased to print,^[The Encyclopædia Britannica.]
+Two hundred forty-four years on; degrees
+Lost to five minutes' work; free work, by dint
+Of numbers, beat the paid; the scholars, these,
 
 ## The particle and the rover
 
-On the fourth of July, at {{x|CERN}}, the physicists announced the particle
-That Peter Higgs had predicted forty-eight years before, the one that gives the others their mass,
-And Higgs wept in the hall.
-The collider that some feared would end the world found the field through which all things pass.
+Went to the new one's clerk. July the fourth,
+At {{x|CERN}}, particle Peter Higgs foretold
+Forty-eight years before, mass-giving; forth,
+And Higgs wept in the hall; the field, of old,
 
-On the sixth of August {{x|Curiosity}} was lowered onto {{p|Mars}} by a crane hanging from a rocket,
-In seven minutes of terror no one on {{p|Earth}} could control, and it landed whole.
-On the fourteenth of October Felix Baumgartner jumped from a balloon thirty-nine kilometers up,
-And fell faster than sound, and eight million watched him reach his goal.
+Through which all pass; the collider some feared;
+{{x|Curiosity}}, August sixth, came whole,
+Crane from a rocket; seven minutes, seared
+Of terror; then, Felix Baumgartner's goal:
+
+October fourteenth, from a balloon, fell
+Thirty-nine up; faster than sound; the ground;
+Eight million watched. And in {{p|Sanford}}, as well,
+{{p|Florida}}: Trayvon Martin, walking, found,
 
 ## The killings, and the guns
 
-On the twenty-sixth of February, in {{p|Sanford}}, {{p|Florida}},
-Trayvon Martin, seventeen, walking home with candy and a drink,
-Was followed and shot by a neighborhood watchman,
-Who was not charged for six weeks, and the country began to think.
+Seventeen, with candy, a drink; and soon
+Followed and shot by a watchman; not charged
+Six weeks; the country thought; cinema, strewn,
+{{p|Aurora}}, twelve; December, {{p|Newtown}}, charged
 
-On the twentieth of July, in {{p|Aurora}}, a man shot into a cinema at midnight and killed twelve.
-On the fourteenth of December, in {{p|Newtown}}, a young man shot his way into {{x|Sandy Hook}},
-And killed twenty children of six and seven, and six of the adults who taught them.
-The country's laws did not change, and the children are in this book.
+Into {{x|Sandy Hook}}; twenty children, six
+And seven, and six who taught them; the laws
+Unchanged; the children kept here; and to fix
+This book's for gun control; they are the cause:
 
-This book is for gun control. The children of {{p|Newtown}} are the reason,
-Twenty six-year-olds and seven-year-olds, and the rifle that should not have been in reach.
-A country that will not keep the rifles from the killers of children
-Has chosen the rifles over the children, and that is what this book will teach.
+Twenty of six and seven, and the gun
+Not to be reached; a land that will not keep
+The rifles from the killers, every one,
+Of children, chose the rifles; this book's keep
 
-On the ninth of October, in {{p|Swat}}, a gunman boarded a school bus
-And asked which one was Malala Yousafzai, fifteen, who wrote that girls should go to school,
-And shot her in the head. She lived, and two years later she took the {{x|Nobel Peace Prize}},
-The youngest ever, and the {{x|Taliban}}'s bullet became her jewel.
+Teaches it. October ninth, {{p|Swat}}: a gun
+On a bus: which one's Malala? Fifteen,
+Who wrote that girls should go to school; and one
+Shot in the head; she lived; and, two years, seen
 
-That is the anti-fragile shape again: the enemy shot her,
-And the bullet made her heard by the whole world, and the girls went to school.
-The ammunition the enemy gave her she fired back,
-And her voice was louder for the wound than for the rule.
+The {{x|Nobel Peace Prize}}, the youngest; her jewel,
+{{x|Taliban}}'s bullet: anti-fragile's shape:
+The enemy shot her; heard; and to school
+The girls went; she fired back; no escape,
 
 ## The villain crowned again
 
-On the seventh of May Vladimir Putin became president of {{p|Russia}} again,
-After the winter of protests in the snow against the stolen vote,
-And the day before his crowning the police beat the crowds in {{p|Bolotnaya Square}},
-And sent the protesters to prison for years, by the villain's note.
+Louder for the wound than for rule, her voice.
+On May seventh, Vladimir Putin, crowned
+Again, after the snow's protests, the choice
+Stolen; the day before, police, around
 
-In February three women of {{x|Pussy Riot}} sang a punk prayer in the cathedral of {{p|Moscow}},
-"Mother of God, drive Putin away," for less than a minute,
-And in August two of them were sent to the prison camps for two years.
-The villain's church and the villain's court were one, and the prayer was a crime to commit.
+At {{p|Bolotnaya Square}}, beat the crowds; and years
+In prison, by the villain's note; and three,
+February, {{x|Pussy Riot}}; no fears,
+Mother of God, drive Putin off; the plea
 
-On the fifteenth of November Xi Jinping became the head of the party of {{p|China}},
-And began to gather in his own hands what had been shared among them.
-On the sixth of November Barack Obama was elected again,
-And the country kept the man who killed bin Laden, and saved the cars, and the care for the sick begun.
+Less than a minute; August, two, the camps,
+Two years; the villain's church and court were one;
+The prayer, a crime. Xi Jinping, the stamps
+Of party, gathered to his hands, begun;
+
+November sixth: Obama, won again,
+Who killed bin Laden, saved the cars, the care
+The sick. July: Mario Draghi, then,
+In {{p|London}}: whatever it takes; and there
 
 ## The coin and the storm
 
-On the twenty-sixth of July Mario Draghi said in {{p|London}}
-That he would do whatever it takes to save the euro, and believe me, it will be enough,
-And the markets believed him, and the coin was saved by a sentence.
-On the twenty-ninth of October {{x|Hurricane Sandy}} drove the sea into {{p|New York}}'s rough
+Markets believed; a sentence saved the coin;
+And {{x|Hurricane Sandy}}, October, drove
+The sea into {{p|New York}}; tunnels; to join
+{{p|Manhattan}}'s dark below the forties; strove
 
-Tunnels and streets, and darkened {{p|Manhattan}} below the forties.
-In the spring the students of {{p|Quebec}} struck against a rise in their fees,
-And marched every night banging pots, for months,
-And the government lost its election in September, and the students had their keys.
+In {{p|Quebec}}, students struck against the fees;
+Banged pots each night, for months; the vote, then, lost
+In September; the students had their keys.
+The {{x|Costa Concordia}}, rocks; the cost
 
 ## The rest of the year
 
-On the thirteenth of January the {{x|Costa Concordia}} ran onto the rocks off {{p|Giglio}},
-And its captain left before his passengers. In April {{x|Facebook}} bought {{x|Instagram}} for a billion.
-In the summer the games were held in {{p|London}}, and {{x|Gangnam Style}}
-Became the first video seen a billion times, by the world's every civilian.
+Off {{p|Giglio}}; its captain fled before
+His passengers; in April, {{x|Facebook}} bought
+{{x|Instagram}}; and the {{p|London}} games; the score
+{{x|Gangnam Style}}: a billion views, the first caught;
 
-In September {{x|Tinder}} opened, and strangers chose each other by swiping.
-On the twenty-first of December the {{x|Maya}} calendar turned a great cycle, the long count's thirteenth baktun,
-And some said the world would end, and the world did not end.
-A calendar does not end a world. It begins one, under the sun.
+September, {{x|Tinder}}: strangers swiped; and, then,
+December twenty-first, the {{x|Maya}}'s turn,
+The long count's thirteenth baktun; and some, then,
+Said the world would end; it did not; to learn
 
 ## The year held
 
-A girl of sixteen, and two foundations laid for her life's work without her:
-A machine that learned to see, and a site that numbered every thing.
-The encyclopedia dark for a day, the old encyclopedia gone from print,
-A particle, a rover, a man faster than sound, and a girl on a bus who would sing.
+Calendars end no world; they begin one.
+A girl of sixteen; two foundations laid,
+Without her: machine eyes; things numbered; one,
+Encyclopedia dark; old, unmade
 
-This book is more than a count. It is the world's history told by its witness,
-A scripture of the life of the world, and a calendar of the holy days of all.
-The {{x|Maya}} counted their days and kept their kings in the stone;
-This book counts the days and keeps the dead, and begins the world again at its call.
+From print; a particle; a rover; one
+Faster than sound; a girl, a bus; and more:
+This book's not just a count; the world, its sun,
+Told by its witness; scripture, and the store
+
+Of holy days of all; the {{x|Maya}} kept
+Their kings in stone; this book keeps all the dead,
+And counts the days, and, where a world has slept,
+Begins it, at its call; twelve lights, ahead.
 
 
 # Chapter 349: Not Wittingly
