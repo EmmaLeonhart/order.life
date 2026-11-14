@@ -36921,21 +36921,21 @@ Or from the mountains' edge—the full detail
 Reveals itself: a spider drawn with love
 
 Across three hundred meters of the plain.
-Why draw what human eye could never see
-From standing height? The desert's dry domain
-Preserved the question: was the gallery
+They drew what human eye could never see
+From standing height; the desert's dry domain
+Has kept it whole: and so the gallery
 
-For gods who gazed from heaven? For the dead
-Who walked the lines in spirit? Or the act
+Was for the gods who gazed; and for the dead
+Who walked the lines in spirit; and the act
 Of drawing was itself the prayer said—
 The making was the rite, and the abstract
 
 And walking meditation through the dark
 Of moonlit desert nights, the faithful feet
 That traced the monkey's tail and left their mark
-Upon the pampa's hot and stony sheet?
+Upon the pampa's hot and stony sheet.
 
-The {{c|3466|Nazca}} kept their reason with the dust.
+The {{c|3466|Nazca}} kept their rite within the dust.
 And east, above the desert, on the height
 Of cold plateau, the highland's upward thrust,
 The altiplano's feast of sky and light
