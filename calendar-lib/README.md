@@ -1,6 +1,6 @@
 # Gaian Calendar Library (`calendar-lib/`)
 
-A C# library (wrapping [NodaTime](https://nodatime.org/)) for the Gaian calendar — 13 months of 28 days + Horus intercalary, astrological month names, year numbering offset by +10,000 from ISO week-year. Also contains the Python wiki-page generator that formerly built day/month/year pages on lifeism.miraheze.org.
+A C# library (wrapping [NodaTime](https://nodatime.org/)) for the Gaian calendar — 13 months of 28 days + Horus intercalary, astrological month names, year numbering offset by +10,000 from ISO week-year. The Python wiki-page generator that once built day/month/year pages on the old wiki was removed on 2026-11-13 (Emma: "the old generator ... doesn't serve an actual purpose"); git history keeps it.
 
 > **⚠️ Wiki gone (2026-07-01).** Miraheze took the wiki down as off-topic — it is not coming back and there is no replacement. The Python wiki bot and its GitHub Actions (`calendar-bot.yml`, `wiki-bot.yml`) have been **deleted**; the site no longer links to any wiki. All wiki-writing roadmap items below are **dead**, kept only as a record. The C# calendar library and the offline page-generation logic remain useful; the wiki bot does not.
 
@@ -15,12 +15,9 @@ This directory was imported into `order.life` via `git subtree add` from the for
 | `GaianNodaTimeWrappers/` | C# library: `GaianLocalDate`, `GaianLocalDateTime`, `GaianOffsetDateTime`, `GaianZonedDateTime`, `GaianMonth`, `GaianTools` | Core conversion/formatting/parsing works; period-based arithmetic (months/years) is stubbed |
 | `GaianNodaTimeWrappers.sln` | .NET solution file | Built by `.github/workflows/dotnet-build.yml` |
 | `GaianDateRangeGenerator/` | C# console app that emits `gaian_minimal.csv`, `gaian_bc_full.csv`, `detailed_bc_all.csv` — consumed by the Python bot for BC-year rendering | Working |
-| `zodiac_wiki_pages.py` | Python wiki bot — generates day (14×28), month (14), and year (1–12100) pages. Uses the CSVs above. | **Disabled — target wiki (lifeism.miraheze.org) closed 2026-04-16.** Code intact for reuse against a future wiki |
 | `gaian-date-picker.html` | Standalone HTML date-picker widget | Reference/snippet source |
 | `year_qids.txt` | Wikidata Q-IDs for all 364 Gaian day pages | Reference data |
 | `GaianCalendar-WikiModule-Export.xml` | `Module:GaiadDate` — Scribunto Lua module that does Gregorian→Gaian conversion inside a wiki page (`{{#invoke:GaiadDate|convert}}`) | Moot — target wiki closed; XML retained for a future wiki |
-| `test_page_generation.py` | Pytest — page-generation logic (offline, no wiki). | Passing (2/2) |
-| `diagnose_overview_preservation.py` | Manual CLI diagnostic (NOT a pytest test) — connects to a live wiki to check Overview-section preservation. | Cannot run — target wiki closed |
 
 ## How the bot runs
 
