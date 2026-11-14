@@ -31002,7 +31002,7 @@ Against {{c|2287|Darius}}, many times his fleet
 
 Of men, and beat him; and {{c|2287|Darius}} fled;
 And {{p|Babylon}} and {{p|Susa}} opened wide,
-And then {{p|Persepolis}}, where, as it's said,
+And then {{p|Persepolis}}, where, as he said,
 For {{p|Athens}}' burning, or for {{p|Persia}}'s pride,
 
 He let the palace burn. And {{c|2414|Bessus}}, then,
