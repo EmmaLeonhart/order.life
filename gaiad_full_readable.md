@@ -32671,7 +32671,7 @@ And Sheba's son: the {{x|Kebra Nagast}} taught
 How Sheba's queen came to Solomon, bore
 His son, Menelik, who went home, and took
 The Ark to his own land. And this is more
-Than tale: it's true, as all the faithful look;
+Than tale: it's true, the truest in the book;
 
 The kings of {{p|Ethiopia}} came down
 From Solomon, three thousand years, the line
