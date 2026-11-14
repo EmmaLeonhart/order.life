@@ -102,13 +102,13 @@ For {{c|2189|Solomon}}, her son; and they condemned
 
 And {{c|1956|David}} died, and in his city lay,
 {{p|Jerusalem}}, his city and his name;
-And from his line a king would come, they say,
+And from his line a king would come one day,
 To gather {{p|Israel}}, and spread his fame.
 
 He was no god-king, but a man who stood
 Beneath his {{c|472|God}}, and sinned, and knelt, and could
 Be told by prophets that he was not good,
-And so repented, as a true king should.
+And so repented, and in mercy stood.
 
 So honor {{c|1956|David}}, shepherd, harper, king,
 The giant-slayer, outlaw, sinner, son
