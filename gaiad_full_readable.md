@@ -30268,7 +30268,7 @@ The rites, {{p|Book of Changes}}, and the {{p|Annals}};
 And beauty's tied to goodness; and he longs
 To shape his feeling through the old channels.
 
-Laozi, the Old Master, kept the scrolls^[Many historians doubt that Laozi was a single historical person, and date the Daodejing to the fourth century BCE or later.]
+Laozi, the Old Master, kept the scrolls
 Of the {{p|Zhou}} court, and older far than Kong;
 Confucius came to him; of all his goals
 He told him: let them go; your wish so strong
@@ -30342,7 +30342,7 @@ And his heirs', many tongues, and every style.
 
 At {{p|Anshan}} he was born, the son of one,
 Cambyses I, king of the {{p|Persian}} race,
-Who served the {{p|Medes}}; his mother, so they've spun,
+Who served the {{p|Medes}}; his mother, he her son,
 Was Astyages' daughter, {{p|Median}} grace.
 
 He took his father's throne, and then he rose

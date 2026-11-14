@@ -15,7 +15,7 @@ And his heirs', many tongues, and every style.
 
 At {{p|Anshan}} he was born, the son of one,
 Cambyses I, king of the {{p|Persian}} race,
-Who served the {{p|Medes}}; his mother, so they've spun,
+Who served the {{p|Medes}}; his mother, he her son,
 Was Astyages' daughter, {{p|Median}} grace.
 
 He took his father's throne, and then he rose
