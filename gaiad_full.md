@@ -35877,7 +35877,7 @@ The shellfish lay in intertidal clay,
 And driftwood washed ashore, for warmth and care,
 
 And for the frame of shelters on the beach.
-They did not walk to {{p|America}}; came
+They sailed out to {{p|America}}; they came
 By boat, the humble craft whose greatest reach
 Of all the {{x|Pleistocene}} was this, the same:
 
@@ -35888,7 +35888,7 @@ Mussel and clam and urchin, rockfish, more,
 
 The halibut; the tidal fisher's art,
 The eye that read the current and the swell.
-No {{p|Bering}} steppe of dust; for, from the start,
+The sea was all their road; for, from the start,
 The oldest {{c|3404|Americans}} knew it well,
 
 The ocean's rhythm; and their step, the stroke
@@ -35899,7 +35899,7 @@ From {{p|Asia}} to {{p|America}}, the call
 The whale had known for ages; and the men
 Followed the great leviathan's bright way,
 The breath along the kelp-highway; and then
-The proof: at {{p|Monte Verde}}, south, it lay,
+The sign: at {{p|Monte Verde}}, south, it lay,
 
 In {{p|Chile}}, fourteen thousand years ago:
 Folk lived at the {{p|Americas}}' far end
@@ -35913,8 +35913,8 @@ On isles that only boats could reach; and where,
 
 In {{p|Oregon}}, at {{p|Paisley Caves}}, the trace
 Of the first {{c|3404|Americans}} still remains;
-By trowel and by screen, the coast's own case
-Is proved: they came by water, and the plains
+By trowel and by screen, the coast's own place
+Is kept: they came by water, and the plains
 
 Of both the continents they filled, while yet
 The inland lay locked. And they went on south,
@@ -35947,7 +35947,7 @@ And followed it, so faithful and so full,
 To a world where no human foot had tread,
 
 And made it home. The Book of {{c|3402|Lehi}} starts
-Not with a land-bridge, but a boat; the note
+Upon the water, in a boat; the note
 Not of the hunters, but the fishers' arts,
 The paddle's stroke, the sea-bird's crying throat
 
