@@ -34260,8 +34260,8 @@ From his right hand; the body, so contemned,
 Thrown in the {{p|Tiber}}; and the door was shut
 
 On Stephen VI: that year, strangled, he fell;
-Such was the papacy in that dark age:
-Corruption, murder, theater as well,
+Such was the chair, a house in its own age:
+Its murders, quarrels, theater as well,
 The keys passed hand to hand, as on a stage.
 
 The second low: thirteen-oh-nine, the chair
