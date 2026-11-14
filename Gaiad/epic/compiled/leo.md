@@ -1414,14 +1414,14 @@ Rebirth in gentler land. Honor the men
 And women of the desert, all they wrought:
 
 The {{c|3440|Hohokam}}, {{c|3474|Mogollon}}, {{c|3439|Puebloan}}: they
-Proved that the desert is no empty space,
-But classroom; and its lesson, to this day,
+Made of the desert no mere empty space,
+But home; and what they made, still to this day,
 Is written on the canyon's weathered face:
 
-The hardest land produces the most art,
-That scarcest water teaches deepest care,
-That people of the margins hold the heart
-Of civilization in the dry air.
+The hardest land, and from it all their art;
+The scarcest water, kept with deepest care;
+The people of the margins, and the heart
+Of all their making in the dry, clear air.
 
 
 # Chapter 236: Norse in Vinland
