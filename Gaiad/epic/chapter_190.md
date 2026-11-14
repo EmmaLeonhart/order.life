@@ -38,7 +38,7 @@ And {{c|2212|Sheba}}'s son: the {{x|Kebra Nagast}} taught
 How {{c|2639|Sheba}}'s queen came to {{c|2189|Solomon}}, bore
 His son, {{c|2640|Menelik}}, who went home, and took
 The {{c|2641|Ark}} to his own land. And this is more
-Than tale: it's true, as all the faithful look;
+Than tale: it's true, the truest in the book;
 
 The kings of {{p|Ethiopia}} came down
 From {{c|2189|Solomon}}, three thousand years, the line
