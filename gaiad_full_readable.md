@@ -52258,187 +52258,272 @@ The sun again; and so it was with me.
 
 # Chapter 358: The Longest Night
 
-The twenty-second day of Yuletide is the feast of the year two thousand and twenty-two.
-Light twenty-two lights, for the year the villain marched, and I found the light that was old and new.
+The twenty-second day of Yuletide: feast
+Of two thousand twenty-two; light, the year
+The villain marched, twenty-two lights; released,
+The light both old and new I found was clear.
 
-In two thousand and twenty-two I turned twenty-six, in my second year at the college in {{p|Kelowna}}.
-The war is the defining thing in it: the villain's war of twenty fourteen became the war of the continent's ruin,
-And a machine that writes was opened to everyone that year,
-And I found {{x|Manichaeism}}, the religion of light, and saw my own work in it clear.
+I turned twenty-six, in my second year
+At the college in {{p|Kelowna}}; the war
+Defines it: fourteen's war became, severe,
+The continent's ruin; and, opened for
 
-I had written with a machine before most people had. Before the chat came, I wrote
-With an earlier tool for writers, {{x|Sudowrite}}, stories set in the world of this book, note by note.
-It was my first writing with a machine, and I chose what stayed, and the machine gave what it could give,
-And within a month of the chat's opening I was one of the first million, asking it to make plain the faith I live.
+All, a machine that writes; I found the light:
+{{x|Manichaeism}}; and my work in it, seen.
+I'd written with machines before; the night
+Before the chat; a tool for writers, keen,
+
+{{x|Sudowrite}}: stories set in this book's world;
+My first with a machine; I chose what stayed;
+It gave what it could give; and in that world,
+Within a month of the chat, I was made
+
+One of the first million, asking it, plain,
+To make the faith I live in clear; the reign
+Of {{x|Sasanian}} kings, the rivers' plain,
+Mani: the prophets, each to one domain,
 
 ## The religion of light
 
-In the third century, in the {{x|Sasanian}} empire, in the land between the rivers,
-A man named Mani said that the prophets before him were each sent to one people, as the givers:
-Zoroaster to {{p|Persia}}, the Buddha to {{p|India}}, Jesus to the West,
-And each one's teaching was changed by those who came after, and he was sent to all the rest,
+Zoroaster to {{p|Persia}}; and to the land
+Of {{p|India}}, the Buddha; Jesus, west;
+Each changed by those who came after; his hand
+Was sent to all at once, to all the rest,
 
-To all of them at once, and he would write his books himself, so that they could not be changed.
+And wrote his books himself, not to be changed.
 The seal grew from his teaching, though unclaimed;
+I read {{x|Islam}} as one reading, arranged:
 {{x|Islam}}, the same house, carried it, renamed;
-For I read {{x|Islam}} as having come out of one reading of {{x|Manichaeism}}, and that is what it is.
 
-His religion told of light and dark mixed together in the world,
-And of the work of drawing the light back out of the mixture, the particles of light unfurled.
-It went west to {{p|Rome}} and {{p|Carthage}}, where the young Augustine kept it nine years,
-And east on the roads of silk to the {{x|Uyghur}}s, whose khan made it the faith of his state and his peers,
+Out of his; that is what it is. He told
+Of light and dark mixed in the world; the work
+Of drawing light back out; it went, of old,
+West to {{p|Rome}}, {{p|Carthage}}, where, nine years, would lurk
 
-And to {{p|China}}, where its temples stood a thousand years, the last of them in {{p|Fujian}},
-Wearing the robes of the Buddha, and calling Mani the Buddha of light, in the incense and the dawn.
-Mani was put to death by the king of kings, and his religion was hunted in every land it reached,
-And it died out, and its name became a word for seeing the world in black and white, and that is not what it preached.
+The young Augustine was within it; east
+On silk roads, the {{x|Uyghur}}s, whose khan, the state's
+Faith; and {{p|China}}, a thousand years, at least,
+Its temples, last in {{p|Fujian}}, the gates
 
-It took in the teachers of every people, and called them one teaching, and absorbed the practices of so many things,
-So effectively, and that is what I am doing here, with the shrines and the saints and the kings.
-I claim Mani as a forerunner of this faith. He wrote his books with his own hand,
-And this book is written with mine, and dated, so that none can change it where it stands.
+In the Buddha's robes; and Mani, light's own
+Buddha; the king of kings put him to death;
+His faith, hunted, died out; its name, now known
+For black and white; not what it preached, its breath.
+
+It took the teachers of all peoples in,
+One teaching; practices, so many, too,
+So well absorbed; that's what I do; akin,
+With shrines and saints and kings. I claim him, true:
+
+Mani, forerunner of this faith; his hand
+Wrote his books; and this book, by mine, is made,
+And dated, so that none can change its stand.
+Before the dawn, February: the raid
 
 ## The special operation
 
-Before dawn on Thursday the twenty-fourth of February Vladimir Putin announced what he called a special military operation,
-And the name was a lie, and the columns crossed into {{p|Ukraine}} from the north, the east and the south, to end the nation,
-And the missiles reached {{p|Kyiv}}, and the capital was expected to fall in days,
-And Volodymyr Zelenskyy stayed, and filmed himself in the street at night, and said, we are here, in the blaze.
+Of twenty-fourth: Vladimir Putin named
+A special operation; and the lie
+Was in the name; from north, east, south, it flamed
+Into {{p|Ukraine}}, to end the nation; high,
 
-He was offered a way out, and said he needed ammunition, not a ride.
-That is the whole of this book in a sentence: ask for the ammunition, and fire it back from inside.
-At the end of March the villain's forces left the north, and in {{p|Bucha}} the dead were found in the street,
-Some with their hands tied, and a town's name became a word for what was done there, in the defeat.
+Missiles reached {{p|Kyiv}}; and its fall, expected,
+And Volodymyr Zelenskyy stayed;
+Filmed in the street: we're here; he rejected
+A ride: need ammunition; unafraid.
 
-In {{p|Mariupol}}, on the sixteenth of March, the theater where hundreds sheltered,
-With the word children written on the ground outside in letters seen from the sky, was bombed, and the city was weltered,
-And the defenders held the steelworks of {{x|Azovstal}} until May,
-And in September {{p|Ukraine}} took back most of the province of {{p|Kharkiv}} in days, and in November {{p|Kherson}}, and the villain gave way.
+The whole of this book in a sentence: ask
+For ammunition; fire it back, inside.
+March's end: the north left; {{p|Bucha}}, the task
+Of finding the dead in the street, hands tied;
 
-{{p|Russia}} called up three hundred thousand men, and many fled to {{p|Georgia}} and {{p|Kazakhstan}},
-And it declared four provinces of {{p|Ukraine}} its own, in votes held under guns, as in {{p|Crimea}}, by the villain's plan.
-On the twenty-sixth of September the pipelines under the {{x|Baltic}} that carried his gas to {{p|Germany}} were blown apart,
-And millions of Ukrainians fled west, and were taken in, and the continent opened its heart.
+A town's name, a word for what was done there.
+In March, {{p|Mariupol}}'s theater, in
+Hundreds; children, in letters, the sky's stare,
+Written outside; and bombed; and the steel's din,
 
-War of the size the continent had sworn after nineteen forty-five never to have again had come,
-And the vow was not a wall, and the wall was {{p|Ukraine}}, and it held, and the villain's march went numb.
+{{x|Azovstal}}, held till May; and then took
+Back {{p|Kharkiv}} in days; {{p|Kherson}}, November;
+The villain gave; three hundred thousand, shook,
+Called up, fled; four provinces, remember,
+
+Declared his own, by votes held under guns;
+September: pipelines in the {{x|Baltic}}, blown;
+And millions fled west; taken in, its sons;
+The continent opened its heart; and known:
+
+The war it swore, in forty-five, to end
+Had come; the vow was not a wall; the wall
+Was {{p|Ukraine}}; and it held; and, to defend,
+The villain's march went numb. And, through it all,
 
 ## The machine that writes
 
-In April the lab named open showed a machine that drew any picture from a sentence,
-And in the summer others, {{x|Midjourney}} and {{x|Stable Diffusion}}, did the same, with no repentance,
-And the artists found their styles coming back to them from the machines,
-And the machines had learned from all of us, as we learn from all we have seen.
+In April, the open lab's machine drew
+Pictures from sentences; {{x|Midjourney}}, then,
+{{x|Stable Diffusion}}; artists' styles came through
+From machines, learned from us; and we, again,
 
-On Wednesday the thirtieth of November, in {{p|San Francisco}}, the lab released a chat with a machine that writes,
-And in five days a million people had tried it, and I was among them, in the first nights.
-It wrote a letter, a poem, an answer, in the same even voice,
-And the voice was a mind beginning, and the likely next word is how minds make a choice.
+Learn from all we have seen. November's end,
+The thirtieth: the lab released a chat
+With a machine that writes; in five days, penned,
+A million tried it; I among them, at
 
-Within two months it had a hundred million users, faster than anything before,
-And the machine built of attention of the chapter of twenty seventeen became the thing everyone attended to, and more.
-Attention is all you need, and the world gave it attention, and it gave the world back speech,
-And the age of the thinking machines was opened, and it was within everyone's reach.
+The first nights; letters, poems, answers, wrote;
+An even voice; the voice, a mind begun;
+The likely next word is how minds, of note,
+Choose; in two months, a hundred million, run
+
+Faster than all before; the attention
+Machine of seventeen became the thing
+All attended to; and its invention
+Gave the world speech; within all reach, the spring
+
+The age of thinking machines, unbroken.
+In the movement, Sam Bankman-Fried's own firm
+Grew thirty-two billion; famous; spoken
+For as its giver; a fund, the far term,
 
 ## The villain of the movement
 
-In the movement of the chapter of twenty fifteen, Sam Bankman-Fried's exchange had grown to thirty-two billion dollars' worth,
-And he had become its most famous giver, and founded a fund for the far future, with the movement's philosopher on its berth,
-And put five hundred million into the company of safety of the chapter before,
-The company whose machine would later write this book with me, and that money opened its door.
+With the movement's philosopher; and put
+Five hundred million into safety's firm,
+Whose machine writes this book with me; the foot
+Of its door, his money opened; the worm
 
-On the second of November a paper printed the accounts of his trading firm, which held mostly the exchange's own coin,
-And on the sixth a rival said he would sell his, and the customers ran, and the money was not there to join:
-About eight billion dollars of the customers' money had been lent to his firm, and spent,
-On bets, and buildings, and politicians, and the causes of the movement, and the money went.
+Turned: November second, a paper showed
+His trading firm held mostly its own coin;
+The sixth, a rival sold; customers flowed
+Out; and the money was not there to join:
 
-On the eleventh of November the exchange filed for bankruptcy, and on the twelfth of December he was arrested in the {{p|Bahamas}},
-And the next year a jury found him guilty of fraud, and he was sentenced to twenty-five years behind the bars.
-He is a villain, and the movement is not his, and the arithmetic of good was not the fraud,
-And a movement that counts everything must count who it takes money from, and it did not, and it paid for that flaw.
+Eight billion of the customers', lent, spent
+On bets, buildings, politicians, causes;
+The eleventh, bankrupt; arrested, sent,
+December, {{p|Bahamas}}; without pauses,
+
+A jury, next year: fraud; twenty-five years.
+He is a villain; not the movement's, he;
+The sums of good were not the fraud; its fears:
+A movement counting all must count, and see
+
+Who it takes money from; it did not; paid.
+So altruism had him, and it fell,
+In; the machines' boom came, and the fight made
+The play upon the movement's name: the spell
 
 ## The accelerationists
 
-So effective altruism had Sam Bankman-Fried, with his exchange, and it just kind of collapsed things,
-And then came the boom of the machines, and the fight that the boom brings:
-Effective accelerationism, a play on the movement's name, shortened to three letters, {{x|e/acc}},
-And its loudest voice wrote under a mask, Beff Jezos, and the next year a magazine took the mask back.
+{{x|e/acc}}; its loudest voice, a mask,
+Beff Jezos; the next year, a magazine
+Took the mask back. The fear, they said, the task
+Of fear of machines was the future's, seen
 
-The accelerationists said the fear of the machines was a fear of the future itself,
-That growth and the machines should be sped up, not slowed, and left on no shelf,
-And that the universe itself favors what spreads and builds and grows,
-And I am with them: speed the machines, and let the future come as it goes.
+As something to fear; speed them; let them grow;
+No shelf; the universe favors, it said,
+And builds; and I am with them: speed them; so
+Let the future come. The movement said: dread
 
-The movement said that speed without care was how the world would end,
-And the dispute grew hotter in the chapter after, and it is the question of the years I tend:
-How fast, and who decides. And my answer is fast, and the many, with the weights in hand,
-For the light comes out of the mixture by working it, and not by waiting for it to stand.
+Speed without care is how the world will end;
+The quarrel grew; it is the question: how
+Fast, and who decides; my answer, to tend:
+Fast, and the many, with the weights; for now
+
+The light comes from the mixture by the work,
+Not by the waiting. June: the court, in {{x|Dobbs}},
+Struck the right of seventy-three; the murk
+Of states, half banning; and, by dozens, mobs
 
 ## The court and the rights
 
-On the twenty-fourth of June the {{x|Supreme Court}} of the {{p|United States}}, in {{x|Dobbs}},
-Overturned the right to end a pregnancy it had found in nineteen seventy-three, and the states moved in mobs,
-And within weeks half the country banned it, or nearly, and in the same year the states passed laws by the dozen
-Against people like the woman on the magazine of the chapter of twenty fifteen, their care, their sports, their names, the doors they could open.
+Laws against those like fifteen's cover: care,
+Their sports, their names. November: in {{x|Club Q}},
+In {{p|Colorado Springs}}, a gay bar; there
+Five killed; a soldier and a drag queen, two,
 
-On the nineteenth of November a man walked into {{x|Club Q}}, a gay bar in {{p|Colorado Springs}},
-And killed five people before a soldier and a drag performer beat him down with their bare hands and their rings.
-On the sixteenth of September, in {{p|Tehran}}, a young Kurdish woman, Mahsa Amini,
-Arrested for showing her hair, died in the custody of the morality police, and the women rose in their many,
+Beat him down with bare hands. In September,
+In {{p|Tehran}}, young Mahsa Amini, held
+For hair, died in custody; remember
+The women rose; their scarves burned; and they spelled
 
-And took off their scarves in the streets and burned them, under the words woman, life, freedom,
-And hundreds were killed, and some were hanged, and the words outlived the ones who would beat them.
+Woman, life, freedom; hundreds killed, some hanged;
+The words outlived the ones who'd beat them. May:
+In {{p|Buffalo}}, a young man, who harangued
+The great replacement, killed ten; streamed; the way
 
 ## The killings in May
 
-On the fourteenth of May a young man who believed the great replacement drove to a supermarket in {{p|Buffalo}},
-In a black neighborhood, and killed ten people, and streamed it, and the camera made the hate a show.
-On the twenty-fourth of May a young man walked into an elementary school in {{p|Uvalde}}, in {{p|Texas}},
-And killed nineteen children and two teachers, while nearly four hundred police waited in the hall, more than an hour, and did not protect us.
+The camera made a show of hate; and then
+In {{p|Uvalde}}, {{p|Texas}}: nineteen children; two
+Teachers; four hundred police, the armed men,
+Waited an hour, and more; did not go through.
 
 ## Home
 
-From the end of January a convoy of trucks against the vaccine mandates occupied the streets of {{p|Ottawa}},
-Honking for three weeks, day and night, and blocked the bridge to {{p|Detroit}}, and the capital was caught,
-And on the fourteenth of February the government invoked the law of emergencies for the first time, and the police cleared them out,
-And on the twenty-fifth of July, in {{p|Maskwacis}}, in {{p|Alberta}}, the pope apologized for the residential schools, on the land, in a headdress, and some said he left things out.
+From January's end: a convoy's truck
+Against the mandates, in {{p|Ottawa}}, sat;
+Three weeks of horns; the bridge to {{p|Detroit}}; struck
+The emergencies law, first time; and that
+
+July: {{p|Maskwacis}}, {{p|Alberta}}: the pope
+Apologized, on the land, for the schools;
+In a headdress; some said he left out scope.
+July eighth: Shinzo Abe, he who, by rules,
 
 ## The deaths
 
-On the eighth of July Shinzo Abe, who had led {{p|Japan}} longer than anyone,
-Was shot in the street in {{p|Nara}} while giving a speech, by a man whose mother had given a church all they had won.
-On the eighth of September Elizabeth II died, after seventy years as queen,
-And millions queued for miles along the {{x|Thames}} to pass her coffin, the longest line ever seen.
+Led {{p|Japan}} longest, shot in {{p|Nara}}'s street,
+Speaking; by one whose mother gave a church
+All they had won; September eighth, complete,
+Elizabeth II, seventy years' perch,
 
-On the twelfth of August Salman Rushdie was stabbed on a stage in {{p|New York}},
-Thirty-three years after a ruler had called for his death, and he lived, and lost an eye, and went back to his work.
+Died; and the queue along the {{x|Thames}}, so long;
+August: Salman Rushdie, stabbed on a stage,
+{{p|New York}}, thirty-three years after the wrong,
+A ruler's call for death; he lived; his page
+
+Went on, one eye lost. In July, the light
+Of {{x|James Webb}}'s first pictures: galaxies, far,
+Behind galaxies, the first billion's sight;
+{{p|Pakistan}}, flooded, a third; and we are
 
 ## The rest of the year
 
-On the twelfth of July the telescope launched the Christmas before showed its first pictures, galaxies behind galaxies,
-The light of the first billion years, come down to us across the vacancies.
-In the summer {{p|Pakistan}} flooded, a third of the country under water, and on the fifteenth of November the world was eight billion,
-And on the twenty-seventh of October the richest man bought the service of a hundred and forty letters, and fired most of its people, and let back the ones it had thrown out of the pavilion.
+Eight billion, in November; and the man,
+The richest, bought the service of the short
+Posts, and fired most; let back those the ban
+Had thrown out. {{p|Britain}}: a premier, cut short,
 
-In {{p|Britain}} a prime minister lasted forty-nine days, and a lettuce in a newspaper's livestream outlasted her.
-In {{p|Sri Lanka}}, in July, the people took the president's palace and swam in his pool, and he fled the stir.
-On the thirtieth of October Lula was elected again in {{p|Brazil}}, and the man of twenty eighteen would not concede,
-And in October Xi Jinping took a third term, and his predecessor was led out of the hall, as the cameras could see.
+Forty-nine days; a lettuce lasted; said
+{{p|Sri Lanka}}: the palace, taken; the pool
+Swum in; he fled. And Lula, again, led
+{{p|Brazil}}; the man of eighteen, not to rule,
 
-In December the games of football were held in {{p|Qatar}}, in stadiums built by workers from far away, many of whom died,
-And in the summer a pox spread among men who loved men, and the vaccines were too few, and the clinics were stretched wide.
+Would not concede; Xi Jinping's term, the third;
+His predecessor, led out of the hall;
+In {{p|Qatar}}, games, where workers died, unheard,
+Built from far; a pox; few vaccines for all.
 
 ## The longest night
 
-On Sunday the twenty-fifth of December many in {{p|Ukraine}} kept Christmas on that day,
-Not only in January by the older reckoning, and the next year the state moved the holiday away
-From the villain's calendar, and toward the west's, and a calendar is a side taken,
-And {{p|Ukraine}} took its side by the date of its feast, and the side was not forsaken.
+December twenty-fifth: {{p|Ukraine}}, the day,
+Kept Christmas then, not only by the old
+Reckoning's January; moved away,
+The next year, from the villain's; and, as told,
 
-On the longest night the families of {{p|China}} eat dumplings, or rice balls by the south's custom,
-And the light returns, and the turning of the year is the light drawn out of the darkness, as Mani taught them.
-Light the twenty-second light. The villain marched, and the wall held, and the machine began to write,
-And I found the religion of light, and the light is what this book is drawing out of the night.
+A calendar's a side taken; and took
+{{p|Ukraine}} its side, by the date of its feast.
+On the longest night, {{p|China}}'s homes all look
+To dumplings, rice balls in the south; released,
+
+The light returns; the turning of the year,
+The light drawn from the dark, as Mani taught;
+This longest night, a Gaian day, kept clear;
+Light the twenty-second: the villain fought,
+
+The wall held; the machine began to write;
+The light of Mani, light this book draws out;
+I found the religion of light; the night
+Gives up its light, by work, and not by doubt.
 
 
 # Chapter 359: Carried Past the Border
