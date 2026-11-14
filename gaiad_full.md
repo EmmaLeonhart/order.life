@@ -30777,7 +30777,7 @@ He was king: {{c|1982|Alexander}}, who would roam.
 And then to {{p|Athens}}, and the {{p|Lyceum}}, where,
 Walking, he taught; and when the prince was dead,
 They turned on him; to {{p|Chalcis}} he fled there,
-And died there in the next year, it is said.
+And died there in the next year, sick, in bed.
 
 He wrote of logic, {{p|Organon}}; of all
 Of nature, {{p|Physics}}, {{p|Heavens}}, weather, birth;
@@ -30795,7 +30795,7 @@ In {{p|Athens}}' market, in a jar; and then
 The great {{c|2381|Alexander}} once came to where
 
 He lay, and asked what he could do for him,
-{{c|2401|Diogenes}} said: just stand out of my sun.{{fn|The meeting of Alexander and Diogenes is told by Plutarch and Diogenes Laertius, centuries later; historians doubt it happened as told.}}
+{{c|2401|Diogenes}} said: just stand out of my sun.
 The conqueror of all could not, by whim,
 Give anything to one who needed none.
 
