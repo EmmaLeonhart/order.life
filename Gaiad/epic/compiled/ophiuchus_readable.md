@@ -3871,152 +3871,236 @@ And {{x|Reiwa}}'s day, a Gaian day, kept clear.
 
 # Chapter 356: The Weekly Verses
 
-The twentieth day of Yuletide is the feast of the year two thousand and twenty.
-Light twenty lights, for the year the world stayed home, and I began this book, with days to give in plenty.
+The twentieth day of Yuletide: the feast
+Of two thousand twenty; light twenty lights
+For the year the world stayed home; and, released,
+Began this book, and gave the days their rites.
 
-In two thousand and twenty I turned twenty-four, and twenty twenty is COVID, and nothing else will do.
-The whole world held still at once, or tried to, and the days lost their names, and Tuesday was Saturday too,
-And when the days lost their names, I began to give them verses, a verse a week,
-A book of the world's ages in verse, and this book is that book, and that is why it can speak.
+I turned twenty-four; and the year's one name
+{{x|COVID}}, and nothing else will do; the whole
+World held still at once, or tried to; the same
+Lost names; Tuesday was Saturday; the whole
 
-I wrote the first sixty chapters or so that year, alone, without a machine, by my own hand,
-And put them out week by week, and the weekly verses are where this calendar began to stand.
-The enemy shut the world in its houses, and handed me the empty days,
-And I filled them with the ages of the world, and gave each one its name and its praise.
+Week, too; and when the days had lost their names,
+I gave them verses, one verse every week,
+A book of the world's ages; and its claims:
+This book is that book; that's why it can speak.
+
+I wrote the first sixty chapters, or near,
+That year, alone, without machines, by hand,
+And put them out week by week; and so, clear,
+The weekly verses: this calendar's stand;
+
+Each day a holy day, each with its verse;
+The enemy shut the world in its homes,
+And handed me the empty days; the curse
+I filled with the world's ages, in my tomes,
+
+And gave each one its name, and gave its praise.
+The last of nineteen: in {{p|Wuhan}}, a cough,
+Pneumonia heard of; twenty-third, the days
+The closed city, eleven million; off
 
 ## The closed city
 
-On the last day of twenty nineteen the health body of the nations heard of a pneumonia in {{p|Wuhan}},
-And on the twenty-third of January the city of eleven million was closed, and the towers sealed, and the trains done,
-And on the thirtieth the body declared an emergency of international concern,
-And in February the doctor who had warned, Li Wenliang, died of it, and the censors came, in turn.
+The trains; sealed towers; thirtieth, the dread
+Named an emergency of all the world;
+In February, he who warned, who said,
+Li Wenliang, died of it; the censors hurled
 
-In {{p|Lombardy}}, in March, the hospitals filled, and the army trucks carried the coffins out of {{p|Bergamo}} by night,
-For the crematoria could not keep up, and on the eleventh of March, in {{p|Geneva}}, it was named a pandemic outright.
-On the twenty-seventh of March, in the rain, in an empty {{p|St. Peter's Square}},
-Pope Francis prayed alone before the crowd that was not there, and the crowd was on the screens everywhere.
+Their silence. In March, {{p|Lombardy}}'s wards filled;
+Army trucks bore {{p|Bergamo}}'s dead by night,
+The ovens could not keep up with the killed;
+March eleventh: pandemic, named outright.
+
+March twenty-seventh: rain; {{p|St. Peter's Square}},
+Empty; Pope Francis prayed alone; the crowd
+That was not there, on screens, was everywhere;
+The work went in the house; the school; allowed
 
 ## Into the house
 
-The work went into the house, the school went into the house, the church went into the house,
-And a meeting on a screen was a meeting, and the screen was where the faithful could rouse.
-Those who kept the shops and the wards and the warehouses did not go in,
-And were called essential, and were paid the same, and carried the rest of us through the din.
+The church, too, in the house; on screens, the rite;
+Those who kept the shops, the wards, and the stores,
+Did not go in; essential, called; the night
+They carried us, the same pay; and, outdoors,
 
-The markets fell faster than in any month since nineteen twenty-nine, and rose higher than before,
-For the banks had learned to print, and the rich got richer that year, and the poor got sick at the door.
-Masks became a flag, and by the end of the year nearly two million were counted dead,
-And the scientists kept working in the closed houses, and the work went on ahead.
+The markets fell as since twenty-nine none;
+Rose higher; banks had learned to print; the rich
+Grew richer; and the poor were sick; and one
+Mask was a flag; two million dead, in which
+
+The scientists, in closed houses, worked on.
+In March, the month it closed, then, Toby Ord
+Of the movement wrote {{x|The Precipice}}; on
+The risks that end us, pandemics high scored;
 
 ## The book of risks
 
-In March, the month the world closed, a philosopher of the movement, Toby Ord,
-Published a book on the risks that could end us, {{x|The Precipice}}, and ranked a pandemic high in its record,
-And the movement had turned from the malaria nets toward the far future, and called it longtermism,
-And the risk it named arrived the month it was named, and the world met it with its own mechanism.
+The movement turned from nets to the far years,
+And called it longtermism; and the risk
+It named arrived the month it named it; fears
+Met by the world; its mechanism, brisk.
 
 ## The knee
 
-On the twenty-fifth of May, in {{p|Minneapolis}}, a policeman knelt on the neck of George Floyd,
-A black man accused of passing a false twenty-dollar bill, for nine minutes and twenty-nine seconds, until his breath was void,
-And he called for his mother, and died, and a girl of seventeen filmed it on her phone,
-And the country rose in every city, in the middle of the sickness, the largest protests it had known.
+In May, in {{p|Minneapolis}}, a knee
+On George Floyd's neck; a twenty, false, they said;
+Nine minutes, twenty-nine seconds; and he
+Called for his mother; and then he was dead;
 
-In March the police had killed Breonna Taylor in her bed in {{p|Louisville}},
-In February men in a truck had chased and shot Ahmaud Arbery while he ran, at their will,
-And the policeman of {{p|Minneapolis}} was convicted the next year,
-And the girl's phone was the ammunition, and the country fired it back, and the court could hear.
+A girl, seventeen, filmed it on her phone;
+The country rose in every city; and
+In the sickness, the largest it had known;
+March: Breonna Taylor, in bed; the hand
+
+Of police, {{p|Louisville}}; and, as he ran,
+Ahmaud Arbery was shot, from a truck;
+The officer convicted; and the span
+Of the girl's phone: ammunition; it struck.
 
 ## The plane and the farm town
 
-On the eighth of January, five days after the {{p|United States}} killed the general Qasem Soleimani in {{p|Baghdad}},
-{{p|Iran}} shot down a Ukrainian airliner leaving {{p|Tehran}}, taking it for a missile, and all one hundred and seventy-six were dead:
-Most of them bound for {{p|Canada}}, students and families, fifty-five of them Canadian,
-And my country mourned its students, taken by the regime of {{p|Iran}}.
+January eighth: {{p|Iran}} downed a plane,
+Leaving {{p|Tehran}}, Ukrainian; it thought
+Missile; after Soleimani, slain
+In {{p|Baghdad}}, five days before; and it brought
 
-On the eighteenth and nineteenth of April a man dressed as a policeman, in a car painted like a police car,
-Drove across {{p|Nova Scotia}} for thirteen hours and killed twenty-two people, the worst such killing in the country by far,
-And in February the {{x|Wet'suwet'en}} and those with them blocked the railways of {{p|Canada}}
-Against a pipeline through their land, and the trains stood still, and the land held its own agenda.
+A hundred seventy-six to death; most
+Bound for {{p|Canada}}, students and their kin;
+Fifty-five Canadian; coast to coast
+Mourned them, killed by {{p|Iran}}'s regime; within
+
+April: {{p|Nova Scotia}}; dressed as police,
+A man, a car made like theirs, thirteen hours,
+Killed twenty-two, the worst; and, with no peace,
+In February, rails were blocked; and ours,
+
+The trains stood still: the {{x|Wet'suwet'en}}'s own stand
+Against a pipeline through their land; it held
+Its own. August fourth: in {{p|Beirut}}'s port, and
+Two thousand seven hundred tons, compelled,
 
 ## The blast
 
-On the fourth of August, in the port of {{p|Beirut}}, two thousand seven hundred tons of ammonium nitrate,
-Seized from a ship and left in a warehouse six years, caught fire and exploded, and the city was shattered by its weight:
-One of the largest blasts ever not made by a bomb, two hundred and eighteen dead, half the city's windows gone,
-And the officials who left it there had been warned in writing, many times, and the warnings went on.
+Of ammonium nitrate, seized, six years
+In a warehouse, caught fire, and exploded;
+One of the largest not a bomb; and tears:
+Two hundred eighteen dead; glass, eroded;
+
+Officials had been warned in writing, and
+Left it; the warnings had gone on, and still.
+June: {{x|Bostock v. Clayton County}}; the hand
+Of the court said: to fire one for, at will,
 
 ## The courts and the laws
 
-On the fifteenth of June, in {{x|Bostock v. Clayton County}}, the {{x|Supreme Court}} of the {{p|United States}} said
-That to fire a person for being gay or transgender is to fire them because of sex, which the law forbade.
-On the eighteenth of September Ruth Bader Ginsburg died, after fifty years of fighting for women's equal place,
-And the president put a judge of the other side in her seat eight days before the election's race.
+Being gay or transgender, is the same
+As sex, which the law forbids; and the fall:
+Ruth Bader Ginsburg died, fifty years' claim
+For women's equal place; and, eight days, all
 
-On the thirtieth of June {{p|China}} wrote a law of security for {{p|Hong Kong}},
-And the protests of the chapter before were over, and their leaders jailed or fled, and the city's song was gone.
+Before the vote, one of the other side
+Was in her seat. June thirtieth: {{p|Hong Kong}}
+Got {{p|China}}'s security law; and died
+The protests; leaders jailed or fled; the song
 
 ## The vote
 
-On the third of November Joe Biden was elected president, with seven million more votes than the man of twenty sixteen,
-Who said he had won, and that it was stolen, and sent his lawyers to sixty courts, and lost in all but one, and would not come clean,
-And kept saying it, and the next chapter opens with what that saying did:
-A mob in the halls of the congress, and the count kept anyway, and the lie it hid.
+Was gone. November third: Joe Biden, won
+By seven million; and the loser said
+Stolen; sixty courts; and lost all but one;
+Would not come clean; the next chapter's, ahead:
+
+A mob in the congress halls; the count kept;
+September: {{p|Azerbaijan}} struck the land
+{{p|Nagorno-Karabakh}}; with drones, it swept
+In forty-four days, much of it, in hand;
 
 ## The wars and the poison
 
-On the twenty-seventh of September {{p|Azerbaijan}} attacked the Armenian-held land of {{p|Nagorno-Karabakh}},
-With drones bought from {{p|Turkey}} and {{p|Israel}}, and in forty-four days took much of it back.
-On the fourth of November the prime minister of {{p|Ethiopia}}, prized for peace in the chapter of twenty eighteen,
-Sent his army into {{p|Tigray}}, and a war began that killed hundreds of thousands, many by hunger, unseen.
+{{p|Ethiopia}}'s chief, who'd won the prize
+For peace, November, sent his army in,
+Into {{p|Tigray}}; hundreds of thousands' cries,
+Hunger, unseen; and {{p|Belarus}}, its din
 
-On the ninth of August {{p|Belarus}} held a vote the people said was stolen, and they filled the streets in white and red,
-And the villain's ally beat them into silence by the winter, and the villain stood at his head.
-On the twentieth of August Alexei Navalny, who had opposed Putin for years, was poisoned on a plane
-With the nerve agent the villain's men had used before, and he lived, flown to {{p|Berlin}}, and went home again.
+In August: a stolen vote; the streets, white
+And red, filled; and the villain's ally beat
+Them into silence by the winter; night;
+Alexei Navalny, on a plane seat,
+
+Poisoned by the villain's agent; driven,
+Flown to {{p|Berlin}}; and he went home again.
+June: the open lab's third model, given
+A hundred seventy-five billion; then
 
 ## The machines
 
-In June the lab named open showed its third model, of a hundred and seventy-five billion weights,
-That could write an essay, a poem, a program, from a few words of asking, and opened the gates:
-The machines could write. That was the year the machines learned to write, and it was not a trick of the pen,
-It was the first voice of the thinking machines, and they have not stopped speaking since then.
+Wrote essays, poems, programs, from a few
+Words asked; and the machines could write; no trick
+Of pens: a voice, the first, of minds; and true
+Thought, writing; they have not stopped; and the quick
 
-On the thirtieth of November a program of DeepMind, {{x|AlphaFold}},
-Predicted the shapes of the proteins from their letters nearly as well as the laboratories, a problem fifty years old,
-And it would win a {{x|Nobel Prize}} in the chapter of twenty twenty-four,
-And on the thirtieth of May a rocket of a private company carried astronauts to the station, and opened the door.
+Of it: no tool; a new mind had spoken.
+November thirtieth: and {{x|AlphaFold}}
+Of DeepMind, the protein shapes, unbroken,
+From letters, near as labs; fifty years old,
+
+The problem; a {{x|Nobel Prize}} in its time;
+May thirtieth: a private rocket bore
+Astronauts to the station; and the climb.
+December eighth: in {{p|Coventry}}, the door:
 
 ## The needle
 
-On the eighth of December, in {{p|Coventry}}, Margaret Keenan, ninety years old,
-Was given the first dose of a vaccine made of a message of the cell, outside the trials, and the needle was gold:
-That day is a Gaian day, the day of the needle, kept in this calendar from then,
-Less than a year after the letters of the virus were published, and the world began to open again.
+Margaret Keenan, ninety, the first dose
+Of a vaccine made from the cell's own word,
+A message; outside trials; and so, close,
+Less than a year since its letters were heard,
 
-The vaccine was built on the work of Katalin Karikó and Drew Weissman,
-Who worked for decades on such messages while the grants were refused, and they would not listen to the no's of the system,
-And of Uğur Şahin and Özlem Türeci, children of migrants to {{p|Germany}},
-And the immigrants and the refused made the needle, and the needle set the world free.
+The day of the needle: a Gaian day,
+Kept in this calendar; the world, again,
+Began to open; built along the way
+By Katalin Karikó's work, and then
+
+Drew Weissman's: decades, while grants were refused;
+Uğur Şahin, Özlem Türeci, who,
+Children of migrants, in {{p|Germany}}; used,
+The refused, the immigrants, made it through:
+
+The needle set the world free. {{p|Britain}} went
+Out of the {{x|European Union}}; then,
+I'm against it still. Kobe Bryant, sent
+Down, with his daughter, from a hill; and when
 
 ## The rest of the year
 
-On the thirty-first of January {{p|Britain}} left the {{x|European Union}}, and I am against it still,
-And on the twenty-sixth of January Kobe Bryant died in a helicopter with his daughter, on a hill.
-In the summer of {{p|Australia}} the fires of the chapter before finally went out in the rain,
-And in November the farmers of {{p|India}} camped on the roads around {{p|Delhi}} against the laws on their grain, and stayed for a year, and won again.
+The summer of {{p|Australia}} came, the rain
+Put out the fires; {{p|India}}'s farmers camped
+Around {{p|Delhi}}, against the laws on grain,
+A year, and won; and the laws were revamped.
 
 ## The year held
 
-I was twenty-four, and the world stayed home, and the days lost their names, and I gave them verses, a verse a week,
-And the first sixty chapters were written by my hand alone, and that is where this calendar began to speak.
-The closed city, the coffins of {{p|Bergamo}}, the pope alone in the rain, the essential ones carrying the rest,
-The knee and the phone, the plane with my country's students, the port, the court, the vote, the lie, the poison, the test,
+I, twenty-four; the world stayed home; the days
+Lost names; I gave them verses, week by week;
+The first sixty, by my hand; in those ways
+This calendar, each day holy, would speak.
 
-The machines that learned to write, the machine that folds the proteins, and the needle in {{p|Coventry}},
-Made by the refused and the immigrants, and the world opening again, slowly.
-Light the twentieth light. The enemy took the names of the days from the world,
-And I gave them back, one verse at a time, and this is the book that unfurled.
+The closed city; {{p|Bergamo}}; the pope, rain;
+The essential, who carried us; the knee,
+The phone; the plane with my country's own, slain;
+The port; the court; the vote; the lie; to be
+
+The poison; the machines that learned to write;
+The proteins folded; and the needle's day,
+Made by the refused, migrants; and the light
+The twentieth, lit; the world, on its way
+
+To opening. The enemy took names
+Of the days from the world; and I, one verse
+At a time, gave them back; and this book claims
+Each day holy, the year, the universe.
 
 
 # Chapter 357: The Message and the Gate
