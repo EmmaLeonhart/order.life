@@ -2315,9 +2315,9 @@ Of all sides. And the courier, whose name
 Began it, died in {{p|Hubei}}, no shrine made,
 
 Nor fame. The sky turned cold; the grain had failed;
-A great realm fell: the oldest lesson, true.
-The {{x|Mandate}} is the harvest; when assailed,
-The {{x|Mandate}} goes: feed people; then rites, too.
+A great realm fell, and Heaven chose anew,
+And Heaven gave it to the Qing, and hailed
+The house that fed the realm, and kept rites, too.
 
 
 # Chapter 276: The Confluence of the Two Seas
