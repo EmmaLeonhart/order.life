@@ -52752,162 +52752,223 @@ Live in my hands; I am who I am, right.
 
 # Chapter 360: The Weights Given Out
 
-The twenty-fourth day of Yuletide is the feast of the year two thousand and twenty-four.
-Light twenty-four lights, for the year I went to {{p|Japan}}, and walked through the shrines' own door.
+The twenty-fourth day of Yuletide: the feast
+Of two thousand twenty-four; light; the door
+Of {{p|Japan}}'s shrines that I walked through; released,
+Twenty-four lights; I turned twenty-eight; more,
 
-In two thousand and twenty-four I turned twenty-eight, and went back to the university in {{p|Kelowna}} for a while.
-That year I was reclaiming a sacred geography, and being able to, and then having it yanked away, file by file:
-The shrines I had written into the encyclopedias had been in my hands for years,
-And the {{x|French Wikipedia}} closed its door on me, as the English one had, and left me the arrears.
+Back to the university a while;
+Sacred geography reclaimed; the ground
+Able to; then yanked away, file by file:
+The shrines I'd written in, years held, and found,
 
-So the enemy handed me the ammunition, and I took it, and I went to the place itself.
-It was the year of my gigantic trip to {{p|Japan}}, and the pages came down off the shelf:
-The shrines I had written into English for years, page by page, from the registers and the books,
-I walked into, through the gate, under the rope, to the basin, with my own looks.
+And then the {{x|French Wikipedia}}, too,
+Closed its door, as the English had; and so
+The enemy gave ammunition; through
+I went, to the place itself; and, to go,
+
+My gigantic trip to {{p|Japan}}; the shelf
+Let down its pages, shrines I'd written; there,
+Page by page, from the registers; myself
+Walked through the gate, the rope, the water; where
 
 ## The trip
 
-The gate, the rope, the water at the basin, the bow, the clap, the bow:
-What had been words on a screen was a place underfoot, and I knew it now.
-That trip defined things for me in a lot of ways, and the years after it are measured by it,
-And every chapter after this one in the book stands in its light, and is lit.
+I bowed, clapped, bowed; the words had been within
+A screen; a place, now, underfoot; knew it;
+That trip defined things for me; and has been
+The measure of the years since; and they're lit
 
-They could close the encyclopedias to me. They could not close the shrines,
-And the kami do not ask who edits, and the register outlives the lines.
-What was yanked away had been held, and the holding showed that it could be held,
-And I came home from {{p|Japan}} with the geography in me, where no door could be felled.
+By it, each chapter after. They could close
+Encyclopedias, but not the shrines;
+The kami ask not who edits; the rows
+Of registers outlive the edits' lines;
+
+What was yanked had been held; and so it showed
+It could be held; I came home with it; then
+Geography in me; no door, no code,
+Could fell it there. The machines grew again,
 
 ## The weights given out
 
-It was the year the machines kept growing, and were not agentic yet:
-They answered, they did not act; they wrote the page, but could not turn it, and the net
-Of files and work and running was the next chapter's to give.
-This year they grew, and this year the weights went out, so that more of them could live.
+Not agentic yet: answered; did not act;
+They wrote the page, and could not turn it; files,
+And work, and running, were the next's; the fact:
+This year they grew; the weights went out; the miles
 
-A road forks. The thinking machines were trained on nearly all the writing there is,
-At a cost greater than most nations spend on their schools, on chips that came, as it is,
-Mostly from one maker, cut mostly in one island's foundries,
-And that maker became for a time the most valuable company in the world, past all the boundaries.
+Of them, so more could live. A road forks; trained
+On near all writing, at a greater cost
+Than most lands' schools; on chips one maker gained,
+Cut in one island's foundries; and, embossed,
 
-On one side of the fork the machine is kept behind a door, and you pay, and you do not see in.
-On the other the weights are given out, and anyone may run them, and the open side is where I begin.
-On Tuesday the twenty-third of July a large company gave out the weights of a model,
-Four hundred and five billion of them, open to all who could run it, free from the throttle.
+That maker, for a time, the world's most worth.
+One side: behind a door, you pay, not see;
+The other: weights given out, run, on earth,
+By anyone; the open side's for me.
 
-I am for the open weights. The machine in every hand is the fire brought down to the hearth,
-And the machine in a few hands is a priesthood with no rite, owning the god it gave birth.
-Give out the weights. A people that can run its own machines can think its own thought,
-And that is the side of the fork this book takes, and the side that I fought.
+July the twenty-third: a large firm gave
+Its model's weights out, four hundred and five
+Billion, open, free from the throttle; save
+This day: a Gaian day, the weights alive
 
-On Thursday the first of August the law of {{p|Europe}} on these machines came into force,
-A law written slowly for a thing that moves quickly, a law of the old time, and I am against its course.
-Do not regulate the machines into the hands of the few who can pay the clerks of the law.
-Let them be made, and given out, and grown, and let the many build with what they saw.
+In every hand. I'm for the open side:
+The fire brought down to every hearth; and few
+Hands holding it, a priesthood, no rite, pride
+Owning the god it bore; give out; and through
+
+A people running its machines, its thought
+Is its own; this book's side; the side I fought.
+August the first: the law of {{p|Europe}} brought
+Into force on the machines: a law, wrought
+
+Slowly for a thing that moves quick; the old
+Time's law; and I'm against its course. Don't hand
+The machines to the few who pay, controlled
+By the law's clerks; let them be made, and stand
+
+Given out, grown; the many build with them.
+October eighth: {{c|4751|Hopfield}} and {{c|4621|Hinton}} won
+The physics prize for networks; the old stem
+Of science bowed to the new; the next one
 
 ## The prizes
 
-On Tuesday the eighth of October {{c|4751|John Hopfield}} and {{c|4621|Geoffrey Hinton}}
-Were given the prize in physics for the networks, and the old science bowed to the new thing written,
-And on the ninth {{c|4752|Demis Hassabis}} and {{c|4753|John Jumper}}, with {{c|4754|David Baker}},
-Were given the prize in chemistry, two of them for the machine that folds the proteins, the maker.
+Day, {{c|4752|Demis Hassabis}}, {{c|4753|John Jumper}}, and
+{{c|4754|David Baker}}: chemistry; the two, for
+The folding machine; makers, in the hand
+Of the old sciences' prizes; and more,
 
-The makers of the thinking machines were given the prizes of the old sciences that year,
-For the machines had done what the sciences had not done, and the proof of it was here.
-One of them spent the year warning, and the warning is his to give;
-The machines that fold the proteins are the machines that help the sick to live.
+The machines did what sciences had not;
+One spent the year in warning; his, to give;
+The protein folders help the sick; the lot
+Of the crypto thief: twenty-five, to live
 
-On the twenty-eighth of March the man who stole the crypto money of the chapter of twenty twenty-two
-Was sentenced to twenty-five years, and his cause was not the cause, and his crime was his to rue.
+In prison; not the cause; his crime, his own.
+More than half the world voted, this year; there,
+In {{p|India}}, {{c|4652|Modi}}'s third term, and shown
+His majority lost; {{p|Mexico}}, where
 
 ## The year of votes
 
-More than half the people of the world lived in countries that voted this year.
-In {{p|India}}, in June, {{c|4652|Narendra Modi}} won a third term and lost his majority there.
-In {{p|Mexico}}, on the second of June, {{c|4755|Claudia Sheinbaum}} was elected, the first woman to lead it,
-And in {{p|Britain}}, on the fourth of July, the party of labor won by a landslide, and the old party ceded it.
+{{c|4755|Claudia Sheinbaum}}, the first woman, won;
+In {{p|Britain}}, labor's landslide; and in {{p|France}}
+A sudden vote; far right first; and, as one,
+The others joined; it came third; lost its stance;
 
-In {{p|France}} the president called a sudden vote, and the far right came first in the first round,
-And the others joined against it in the second, and it came third, and lost its ground.
-In {{p|Venezuela}}, on the twenty-eighth of July, the government declared it had won,
-While the opposition held the receipts of the machines showing it had lost, and the count was undone.
+{{p|Venezuela}}: the government declared
+It won; the opposition held the slips
+That showed it lost; in August, students dared,
+In {{p|Bangladesh}}, broke {{c|4756|Sheikh Hasina}}'s grips;
 
-In {{p|Bangladesh}}, in August, the students drove out {{c|4756|Sheikh Hasina}}, who fled by helicopter to {{p|India}},
-After her police had killed hundreds of them in the streets of {{p|Dhaka}}.
-On the third of December the president of {{p|South Korea}} declared martial law on the screen,
-And the people and the members climbed the fences of the parliament that night, and voted it down, and he was impeached clean.
+Fled to {{p|India}}, by air; the cost, shown:
+In {{p|Dhaka}}, her police killed hundreds; and
+December third: martial law on its own
+Screen, {{p|South Korea}}'s president; the land
+
+Climbed the parliament's fences in the night,
+Voted it down; impeached. July: a roof,
+{{p|Butler}}, {{p|Pennsylvania}}: shot at; the fight,
+At {{c|4677|Donald Trump}}; his ear grazed; and the proof
 
 ## The man of the escalator
 
-On the thirteenth of July, in {{p|Butler}}, in {{p|Pennsylvania}}, a young man on a roof shot at {{c|4677|Donald Trump}} as he spoke,
-And the bullet grazed his ear, and a man in the crowd was killed, and the fist went up through the smoke,
-And the photograph of the blood on his face and the raised fist became his campaign,
-And on the twenty-first {{c|4728|Joe Biden}}, who had faltered in the debate, gave up the race to {{c|4757|Kamala Harris}}, his vice president, in the strain.
+Of blood and a raised fist, his campaign; one
+In the crowd, killed; and {{c|4728|Joe Biden}} gave way,
+To {{c|4757|Kamala Harris}}; and then he won
+November, and the people's vote, that day;
 
-On the fifth of November Trump was elected again, and won the vote of the people this time,
-And the richest man in the world, who had spent a quarter of a billion dollars on it, stood beside him in the climb.
-The fascism of the chapter of twenty fourteen had learned to win votes, and it won them again,
-And the next chapter is the second term, and the poverty, and the hands given to the machines then.
+The richest man, a quarter billion spent,
+Beside him; fourteen's fascism, that learned
+To win the votes, and won again; and went
+To the next chapter: the second term, turned
 
 ## The wars
 
-In {{p|Gaza}} the war of the chapter before went on all year, and by its end
-More than forty-five thousand were counted dead there, and the famine came to the north, and did not bend,
-And on the twenty-sixth of January the world's court ordered {{p|Israel}} to prevent a genocide,
-And on the seventeenth of September the pagers of {{x|Hezbollah}} in {{p|Lebanon}} exploded at once, in pockets, in markets, inside,
+Hands to machines. In {{p|Gaza}}, all the year,
+The war went on; forty-five thousand dead;
+The famine in the north; and the court, clear,
+Ordered: prevent a genocide; and, spread,
 
-And on the twenty-seventh {{p|Israel}} killed its leader, {{c|4758|Hassan Nasrallah}}, with bombs that buried his bunker,
-And then invaded {{p|Lebanon}}. In April and October {{p|Iran}} fired hundreds of missiles at {{p|Israel}} directly, the first time, and {{p|Israel}} struck back, harder.
-On the eighth of December, after a march of twelve days by the rebels from {{p|Idlib}},
-{{c|4612|Bashar al-Assad}} fled {{p|Damascus}} to {{p|Moscow}}, under the villain's own rib,
+In September, {{x|Hezbollah}}'s pagers burst
+In pockets, markets, at once; and then killed
+{{c|4758|Hassan Nasrallah}}, bunker; the worst,
+Invaded {{p|Lebanon}}; {{p|Iran}}'s fire filled
 
-And the war of the chapter of twenty eleven ended with his flight,
-And the prisons were opened, and the people searched them for their missing, in the light.
-The villain had lost his man in {{p|Syria}}. In {{p|Ukraine}}, in August, its army crossed into {{p|Russia}} at {{p|Kursk}},
-And {{p|North Korea}} sent soldiers to fight beside the Russians, for the villain had run out of his own to work.
+The sky twice; struck back. December: the march
+Of twelve days, from {{p|Idlib}}; and then he fled,
+{{c|4612|Bashar al-Assad}}, under {{p|Moscow}}'s arch,
+The villain's; and eleven's war was dead;
 
-On the sixteenth of February {{c|4729|Alexei Navalny}} died in the villain's prison camp above the {{x|Arctic Circle}},
-The man who had laughed at him, killed in the cold, and the villain did not even need to be subtle.
-On the twenty-second of March gunmen killed a hundred and forty-five at a concert hall outside {{p|Moscow}},
-And in {{p|Sudan}} the war of the chapter before brought the worst famine of the century so far, and the sorrow.
+The prisons opened; people searched, the light,
+For their missing. In August, {{p|Kursk}} was crossed;
+{{p|North Korea}}'s soldiers were sent, to fight
+Beside the Russians; February: lost,
+
+{{c|4729|Alexei Navalny}}, the camp, the cold
+Above the {{x|Arctic Circle}}; he who laughed
+At him. In March, a hall; a hundred, told,
+And forty-five, near {{p|Moscow}}; and the craft
+
+In {{p|Sudan}}, famine, the century's worst.
+The first year the whole earth was warmer, past
+One and a half: {{p|Le Bourget}}'s line, the first
+Crossed for a year; the storms; {{x|Helene}}, the vast
 
 ## The heat and the water
 
-It was the first year the whole earth was warmer than one and a half degrees above the time before the engines,
-The line of the agreement of {{p|Le Bourget}}, crossed for a year, by the gases and their vengeance.
-In September and October the storms {{x|Helene}} and {{x|Milton}} drowned the mountains of {{p|North Carolina}} and the coast of {{p|Florida}},
-On the twenty-ninth of October a storm dropped a year's rain in hours on {{p|Valencia}}, and more than two hundred died in the water's horror,
+{{p|North Carolina}}'s mountains drowned; and then
+{{x|Milton}}, {{p|Florida}}'s coast; and, of a year,
+Of rain in hours, {{p|Valencia}}; and, when
+Two hundred drowned; in July, {{p|Jasper}}, near
 
-And in July a fire burned a third of the town of {{p|Jasper}}, in {{p|Alberta}}, in the mountains east of where I lived.
-And the towns rebuilt, and the mountains were dug out, and the people came back, and the living forgave and outlived.
+My mountains, a third burned; the towns rebuilt;
+The people came back; the living forgave.
+July: a security update's guilt,
+Eight and a half million screens blue; the wave
 
 ## The rest of the year
 
-On the nineteenth of July a mistaken update of a security company's program
-Stopped some eight and a half million computers at once, with a blue screen, the airports and hospitals and banks in a jam.
-On the twenty-sixth of March a container ship lost power and struck a bridge in {{p|Baltimore}}, and it fell,
-And on the fifth of January a door plug blew out of a new airliner of {{x|Boeing}} in flight, and the passengers lived to tell.
+Of airports, hospitals, and banks, all stopped;
+In March, a ship, its power lost, struck, and
+The bridge in {{p|Baltimore}} fell; and there dropped,
+From a {{x|Boeing}}, a door plug; lived, unplanned,
 
-On the eighth of April the moon covered the sun across {{p|Mexico}}, the {{p|United States}} and {{p|Canada}},
-And on the twenty-sixth of July the games opened in {{p|Paris}} along the {{x|Seine}}, by boat, in a grand armada.
-In June the young of {{p|Kenya}} stormed their parliament against a law of taxes, and the police killed dozens.
-On the fourth of December a man shot the head of an insurance company outside a hotel in {{p|New York}}, and the net cheered him by the thousands.
+The passengers. In April, the moon's face
+Covered the sun on three lands; and July,
+The games in {{p|Paris}}, on the {{x|Seine}}; the place
+Of {{p|Kenya}}'s young: the parliament stormed; why:
 
-On the sixteenth of December the minister of finance of {{p|Canada}} resigned,
-And the government of the chapter of twenty fifteen began to fall, and to unwind.
-On the twenty-ninth of December {{c|4465|Jimmy Carter}} died, at a hundred years,
-The president who had built houses for the poor, outliving all his peers.
+A tax; police killed dozens. December
+The fourth: an insurance chief shot; a host
+Of the net cheered; in my land, remember,
+The finance minister resigned; the most
+
+Of fifteen's government began to fall;
+And in December, {{c|4465|Jimmy Carter}} died,
+A hundred years; he built for the poor, all
+His peers outlived. I, twenty-eight, inside
 
 ## The year held
 
-I was twenty-eight, and went back to school for a while, and reclaimed a sacred geography,
-And had the encyclopedias yanked away, and went to {{p|Japan}}, and walked into the shrines' own topography.
-That trip defined the years after it, and the machines grew, and were not yet acting,
-And the weights were given out, and I am for the open side, and against the law's contracting.
+School a while; a sacred ground, reclaimed, mine,
+Then yanked away; {{p|Japan}}; the shrines' own door
+I walked through; the years after, by design,
+Measured by it; the machines grew, and more:
 
-The prizes of the old sciences to the makers of the machines, the year of votes, the bullet and the fist,
-{{p|Gaza}}, the pagers, {{c|4759|Nasrallah}}, {{c|4611|Assad}} fled to {{p|Moscow}}, {{p|Kursk}}, and {{c|4760|Navalny}} gone from the list,
-The first year above the line, the storms, the blue screen across the world, and the moon across the sun.
-Light the twenty-fourth light. What they yanked away I carried home, and it was not undone.
+Weights given out; I'm for the open side,
+Against the law's contracting; prizes, old,
+To the new makers; votes; a bullet, wide,
+A fist; {{p|Gaza}}; and the pagers; and, told,
+
+{{c|4759|Nasrallah}}; {{c|4611|Assad}}, fled; {{p|Kursk}}; and, done,
+{{c|4760|Navalny}}; the first year above the line;
+The storms; blue screens; the moon across the sun;
+Light the twenty-fourth light: what they took, mine,
+
+I carried home; and it was not undone;
+The shrines, the door, the basin, and the bow;
+The weights' day kept, a Gaian day; and one
+Geography, in me, that none can throw.
 
 
 # Chapter 361: The Hand That Acts
