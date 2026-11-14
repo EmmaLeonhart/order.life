@@ -145,7 +145,7 @@ Of the {{p|Semitic}} rise within the land,
 {{p|Mesopotamia}}'s; and both, as men,
 Began traditions that would long, long stand.
 
-And there's a lesson in the contrast, too:
+And they were opposite in all they knew:
 {{c|1308|Abraham}} is a nomad, and he went
 Out of the city, wandering it through,
 And left its walls behind him for the tent;
@@ -160,7 +160,7 @@ Whom none can see; the other's, the decree
 That binds the city's people, and its rod;
 Two ways civilization came to be.
 
-Two cousins, where {{c|1907|J1}} and {{c|1908|J2}} part,
+Two cousins, sons of {{c|1876|J}}, where their paths part,
 Each on another path: one with his sheep
 Goes south, and seeks the desert's very heart;
 The other reigns where brick-built ramparts keep
