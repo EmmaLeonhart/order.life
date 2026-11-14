@@ -1428,7 +1428,7 @@ And he went up to heaven, as he ought,
 
 And promised he'd return, to judge the dead
 And living in the light. And that's the core:
-Not only Jesus teaching, nor, it's said,
+Not only Jesus teaching, nor, instead,
 The failed messiah, dead, and nothing more,
 
 But Jesus risen, reigning, setting free,
