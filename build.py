@@ -1452,8 +1452,10 @@ def _ical_year_holidays(gy, month_display, lang="en"):
     return events
 
 
-def _ical_year_daily(gy, month_display, lang="en"):
-    """Return list of (date, vevent_str) for every day of a Gaian year."""
+def _ical_year_daily(gy, month_display, lang="en", ancestor_window=None):
+    """Return list of (date, vevent_str) for every day of a Gaian year. With ancestor_window (lo, hi), only days in it
+    name the ancestors (Emma, 2026-11-12: "extend it to full current calendar year plus two adjacent ones, but only
+    ancestors listed in +/- 6 months from it")."""
     events = []
     is_leap = _is_gaian_leap(gy)
     num_months = 14 if is_leap else 13
@@ -1473,7 +1475,8 @@ def _ical_year_daily(gy, month_display, lang="en"):
             title = _chapter_title((mn - 1) * 28 + dn) if mn <= 13 else ""
             if title:
                 summary += f" · \U0001F4D6 {title}"
-            desc    = "\n".join([gaian_day_description(gy, mn, dn)] + _ancestor_lines(mn, dn))
+            named   = ancestor_window is None or ancestor_window[0] <= gd <= ancestor_window[1]
+            desc    = "\n".join([gaian_day_description(gy, mn, dn)] + (_ancestor_lines(mn, dn) if named else []))
             uid     = f"gaian-{gy}-{mn:02d}-{dn:02d}-daily@order.life"
             events.append((gd, _vevent(gd, summary, desc, uid)))
 
@@ -1725,6 +1728,13 @@ def generate_ical_files(site_dir):
         },
     }
 
+    # The current feeds cover the whole current Gaian year and the years either side of it, and name the ancestors only
+    # within six months of the build (Emma, 2026-11-12: "the calendar isn't even a full year. Is way too small in order
+    # to get the ancestors to fit. Imo extend it to full current calendar year plus two adjacent ones, but only
+    # ancestors listed in +/- 6 months from it"). This replaces her 2026-10-24 "+/- 6 months" window for everything:
+    # three whole years with every ancestor named had made 7 MB.
+    anc_window = (today - datetime.timedelta(days=183), today + datetime.timedelta(days=183))
+
     for filename, cfg in files.items():
         lang = cfg.get("lang", "en")
         events = []
@@ -1736,15 +1746,10 @@ def generate_ical_files(site_dir):
             if cfg.get("ancestors"):
                 events += _ical_year_ancestors(gy, month_display)
             if cfg["daily"]:
-                events += _ical_year_daily(gy, month_display, lang)
+                events += _ical_year_daily(gy, month_display, lang,
+                                           ancestor_window=anc_window if cfg.get("window") else None)
             if cfg["seasons"]:
                 events += _ical_year_seasons(gy, lang)
-
-        if cfg.get("window"):
-            # Six months back and six months ahead of the build (Emma, 2026-10-24: "+/- 6 months so total year
-            # but not a full calendar year"): with every ancestor named, three whole years made 7 MB.
-            lo, hi = today - datetime.timedelta(days=183), today + datetime.timedelta(days=183)
-            events = [e for e in events if lo <= e[0] <= hi]
         events.sort(key=lambda x: x[0])
 
         header = (
@@ -1764,10 +1769,7 @@ def generate_ical_files(site_dir):
             first_gy = next(gy for gy in cfg["years"] if gy - 10000 >= 1)
             # One event per prayer per day across the window, each with its date (_ical_prayers). The nightly
             # rebuild moves the window forward.
-            if cfg.get("window"):
-                first, last = today - datetime.timedelta(days=183), today + datetime.timedelta(days=183)
-            else:
-                first, last = _gaian_day_to_greg(first_gy, 1, 1), _gaian_day_to_greg(cfg["years"][-1] + 1, 1, 1)
+            first, last = _gaian_day_to_greg(first_gy, 1, 1), _gaian_day_to_greg(cfg["years"][-1] + 1, 1, 1)
             prayers = _ICAL_TZ_PACIFIC + "".join(_ical_prayers(first, last, lang))
         else:
             prayers = ""
