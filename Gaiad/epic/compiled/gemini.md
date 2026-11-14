@@ -1632,7 +1632,7 @@ The serpent's tail, slain by {{c|2712|Susanoo}}'s hand;
 
 The jewel, the {{x|Magatama}}, the third;
 And still today they're kept within the shrine,
-Within the court, as it is told and heard,
+Within the court, unseen, but ever heard,
 The throne's regalia, handed down the line.
 
 His grandmother was the sea-dragon's blood,
