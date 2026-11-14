@@ -27720,7 +27720,7 @@ Built right, the king will rise and stars will bloom;
 Built wrong, the world itself would fall to shame.
 
 For twenty years his thousands worked the stone,
-Not slaves, but fed and paid and healed, and sent
+All fed and paid and healed, and gladly sent
 From every village, each crew named and known,
 And then went home again, their service spent.
 
