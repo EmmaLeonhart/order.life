@@ -935,7 +935,7 @@ Joined the old walls, the {{p|Great Wall}}, northward run,
 Against the {{p|Xiongnu}}; he burned the books
 Not useful to his rule; buried alive
 Four hundred sixty scholars; and he looks
-To {{p|Legalism}}, the way that he'd thrive:{{fn|The burning of the books and burying of the scholars is told by Sima Qian, a historian of the Han, the dynasty that overthrew the Qin; some historians think the account exaggerated.}}
+To {{p|Legalism}}, the way that he'd thrive:
 
 {{c|2444|Han Feizi}}'s way: that men are selfish, and
 Hard laws, the same for all, with clear reward
