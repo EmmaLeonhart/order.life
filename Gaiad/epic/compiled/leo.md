@@ -1729,7 +1729,7 @@ His shame, and barred him {{p|Tula}}'s throne and state.
 
 He walked east, the sea his last desire,
 And at the {{p|Gulf}}'s edge, weeping and bereft,
-Set himself free: burned upon a pyre{{fn|The sources give both endings: in one, Quetzalcoatl burns himself and his heart rises as the morning star; in the other, he sails east on a raft of serpents.}}
+Set himself free: burned upon a pyre
 His heart became the morning star; and left,
 
 He sailed away, the raft's light growing dim
@@ -1804,11 +1804,11 @@ One planted the tree, and closed the war's door;
 
 The pattern of the world: the teacher came
 And healed; his banner, raised, and then withdrawn;
-And what reveals itself is still the same:
-The covenant is fragile; peace lives on
+And what he left behind is still the same:
+The covenant he made, and peace lives on
 
-Only by choosing it each day; the law
-Is only as strong as the will of those
+Where it is kept, from day to day; the law
+He gave is kept by all the will of those
 Who say, We will keep it. Honor, with awe,
 The {{c|3490|Redeemer}}, who carries heaven's throes,
 
