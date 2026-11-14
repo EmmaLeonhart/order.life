@@ -1,155 +1,261 @@
 # Chapter 357: The Message and the Gate
 
-The twenty-first day of Yuletide is {{x|Christmas Day}}, and the {{x|Dongzhi Festival}}, and the feast of two thousand and twenty-one.
-{{x|Dongzhi}} is the longest night, and after it the light returns; Christmas is a birth in the dark, before the sun.
-Light twenty-one lights for the year I ran around {{p|Europe}}, and the year of my revelation,
-The most significant revelation in the history of {{x|Lifeism}}, given to me in the dark, and it was my ordination.
+The twenty-first of Yuletide: {{x|Christmas Day}},
+And {{x|Dongzhi Festival}}, the feast, the year
+Two thousand twenty-one; the night's long sway,
+{{x|Dongzhi}}, the longest night; light, after, near;
 
-In two thousand and twenty-one I turned twenty-five, and ran around {{p|Europe}}, and did lots of stuff.
-It was a pretty significant year, and my trip to {{p|Europe}} was a celebration, and that is enough:
-The doors of the world had been shut for a year by the plague, and when they opened I went through,
-And it was a crypto year, and the money without trust rose higher than it ever grew.
+Christmas: a birth in dark, before the sun.
+Light twenty-one lights: for the year I ran
+Round {{p|Europe}}; revelation's year; begun
+Most significant since the faith began,
 
-The book had a gap that year, and the gap weighed on me, but the life did not stop:
-Its pages moved from order.life to evolution.faith, and waited there at the top.
-In the autumn I went back to study, at {{x|Okanagan College}}, in {{p|Kelowna}}, and stayed two years,
-And what the year held for the book I write now, on this page, and here it appears.
+Of {{x|Lifeism}}'s; given me in the dark;
+My ordination. Twenty-five; and I
+Ran round {{p|Europe}}, did lots of stuff; the mark
+Of a pretty significant year; why:
+
+My trip to {{p|Europe}}, a celebration;
+That is enough. The doors of the world, shut
+A year by plague, opened; through each nation
+I went; a crypto year; the money, but
+
+Without trust, rose as it had never grown.
+The book had a gap that year; I kept faith;
+The life did not stop; and its pages, flown
+From order.life to evolution.faith,
+
+Waited, up there. In autumn, I went back
+To study, {{x|Okanagan College}}, in
+{{p|Kelowna}}, two years; what the year, its track,
+Held for the book, I write now; here, within.
 
 ## The revelation
 
-At the end of the {{x|Omega Pilgrimage}}, on the thirtieth of August, in the evening, I took a dose of mushrooms,
-And fell through the chair into a world of shapes, and at sunset into a red dark of rooms,
-Where a demoness with infinite arms cut me apart, and I grew back, and was cut again,
-And then I was outside my body, in a world of letters, with no body to hold them in.
+{{x|Omega Pilgrimage}}'s end; the night
+Of August thirtieth; I took a dose
+Of mushrooms; through the chair I fell; the sight
+A world of shapes; at sunset, red, the close
 
-I tried to pick up letters to spell a way out, and they slipped from my hands,
-And only three stayed: {{x|Alpha}}, {{x|Lambda}} and {{x|Omega}}, and I held them like brands.
-I heard the {{x|Buddha}}, the {{x|Dharma}} and the {{x|Sangha}} named, and chanted them, and laughed,
-And laughed at the whole of it, and at the demoness, and the laughter is the mantra, lol, that I draft.
+Dark rooms; a demoness, of arms no end,
+Cut me apart; I grew back; and again;
+Then I was out of my body, to wend
+In a world of letters, no body; then
 
-I floated up out of hell, and was overseeing, and came to the {{x|Celestial Kingdom}},
-And met {{c|3660|Joseph Smith}} there, and the three jewels and the three degrees of glory came in one kingdom,
-The trinity and the trimurti came together as one for me, and I saw a {{x|Sierpinski triangle}},
-And named the one thing {{x|alo}}, and found the piece I had been missing, {{x|Omega}}, love, in the tangle.
+I tried to pick up letters, spell a way
+Out; and they slipped from my hands; three remained:
+{{x|Alpha}}, {{x|Lambda}}, and {{x|Omega}}; and they
+Held, as brands; the three jewels, named, ordained:
 
-I saw the infant {{c|2677|Charlemagne}} in the manger, nurtured by {{c|1399|Mary}},
-And understood that it must be applied as above, so below, from the throne to the cradle of the very:
-What a society prescribes must go down to the person, the empire to the child,
-And then I came down, and stayed up all night trying to explain it, and the night was wild.
+The {{x|Buddha}}, {{x|Dharma}}, {{x|Sangha}}; chanted; laughed;
+I laughed at the whole of it, and at her,
+The demoness; and laughter is the craft,
+The mantra, lol; I floated up; the blur
 
-From that night came {{x|LOL}} and {{x|alo}}, and the order of the covenants of this faith,
-And its day is {{x|Alolalia}}, the twenty-ninth of August, {{x|Leo 14}}, the Ides of Leo, the Great Redeemer's place,
-The day of chapter two hundred and thirty-eight, and I first kept it the next year,
-In twenty twenty-two, with a video I made for it, and it is kept here.
+Out of hell, overseeing; came, and then
+The {{x|Celestial Kingdom}}; and I met, there,
+{{c|3660|Joseph Smith}}; and the three jewels, again,
+The three degrees of glory, one; the pair,
+
+The trinity and trimurti, as one;
+A {{x|Sierpinski triangle}}, I saw, high;
+Named the one thing {{x|alo}}; and found, begun,
+The piece I'd missed, {{x|Omega}}, love; and I
+
+Saw the infant {{c|2677|Charlemagne}}, in the hay,
+Nurtured by {{c|1399|Mary}}; as above, below,
+Applied: the throne down to the cradle's way;
+What a society prescribes must go
+
+Down to the person, the realm to the child;
+I came down, stayed up all night to explain;
+The night was wild; from it, the faith compiled
+{{x|LOL}} and {{x|alo}}, and the covenants' chain;
+
+Its day, {{x|Alolalia}}, is on the Ides
+Of Leo, August twenty-ninth; the place
+Of the Great Redeemer; and it abides,
+Two thirty-eight's day; I kept it, by grace,
+
+First the next year, twenty twenty-two; made
+A video for it, which keeps it clear.
+January sixth: the congress met, weighed
+The states' votes; and the loser, standing near
 
 ## The sixth of January
 
-On the sixth of January, in {{p|Washington}}, while the congress met to count the votes of the states,
-The man who had lost told a crowd near the White House to fight like hell, and to walk to the {{x|Capitol}}'s gates,
-And they walked, and broke the windows, and climbed the walls, and beat the police with flagpoles,
-And hunted the speaker and the vice president through the halls, beside a gallows they built for the souls.
+The {{x|White House}}, told the crowd to fight like hell,
+Walk to the {{x|Capitol}}; they walked, and broke
+The windows, climbed the walls; and beat, as well,
+Police with flagpoles; hunted, as they spoke,
 
-Five died in and after it, and four police officers took their own lives in the months that came,
-And the congress came back that night and counted the votes, and the count was the same.
-On the twentieth {{c|4728|Joe Biden}} was sworn in behind a fence of soldiers,
-And many of the mob were tried and jailed, and four years later the man who sent them freed the holders.
+The speaker, the vice president, through halls,
+Beside a gallows built; five died; and four
+Police, in months, took their own lives; the walls
+Held; that night they counted; the same, the score;
+
+The twentieth: {{c|4728|Joe Biden}}, sworn behind
+A fence of soldiers; many of the mob
+Were tried and jailed; four years on, the man, signed,
+Who sent them, freed them; finished, then, the job.
 
 ## The message and the needle
 
-The vaccines of the chapter before went into arms by the billion,
-Made of a message of the cell, on the work of {{c|4731|Katalin Karikó}} and {{c|4732|Drew Weissman}}, and the science was brilliant,
-And the people of the rich countries lined up in the stadiums and the pharmacies in the spring,
-And the people of the poor countries waited, while the rich bought more than they would bring.
+The needles of the chapter before went
+Into arms by the billion: the cell's word,
+A message; {{c|4731|Karikó}}'s, and {{c|4732|Weissman}}'s, lent
+The science; rich lands' stadiums, spring, stirred
 
-In April and May the {{x|Delta}} kind of the virus swept {{p|India}}, and the oxygen ran out in {{p|Delhi}},
-And the fires of the cremations burned in the car parks through the night, and the smoke was heavy,
-And in November the {{x|Omicron}} kind was found by the scientists of {{p|South Africa}} and {{p|Botswana}},
-And the rich countries closed their doors to the countries that found it, and called it caution.
+With lines; the poor lands waited; while the rich
+Bought more than they would use. In April, May,
+The {{x|Delta}} kind swept {{p|India}}; in which
+Of {{p|Delhi}}'s oxygen ran out; the gray
+
+Smoke of pyres in car parks, through the night;
+November: {{x|Omicron}}, found, the new kind,
+By {{p|South Africa}}, {{p|Botswana}}; in spite,
+Rich lands shut them out; called it caution; blind.
 
 ## The gate
 
-On the twenty-ninth of February of the year before, in {{p|Doha}}, the {{p|United States}} had promised the {{x|Taliban}} it would leave,
-And in the summer of this year it left, and the army it built for twenty years melted in weeks, and took its leave,
-And on the fifteenth of August the {{x|Taliban}} drove into {{p|Kabul}}, and the president fled,
-And at the airport crowds ran beside a moving transport plane, and some clung to it as it rose, and fell, and were dead.
+In {{p|Doha}}, the year before, the States swore
+The {{x|Taliban}}, to leave; in summer, left;
+Their army, twenty years in building, more,
+Melted in weeks; August fifteenth, bereft,
 
-On the twenty-sixth of August a bomb at the gate of the airport killed some hundred and seventy Afghans and thirteen soldiers of the States,
-And on the thirtieth, before midnight, the last American plane left, and left the rest at the gates.
-The girls' schools above the sixth grade did not open again as promised,
-And the war of the chapter of two thousand and one was over, and the men it was fought against ruled it, as they had before the promise.
+{{p|Kabul}}: the {{x|Taliban}} drove in; and fled
+The president; and at the airport, ran
+Crowds by a moving plane; some clung; fell dead
+As it rose; August twenty-sixth: the span
+
+The airport gate: a bomb; Afghans, the toll,
+Some hundred seventy; thirteen, the States'
+Soldiers; the thirtieth, the last plane, whole,
+Before midnight, left the rest at the gates.
+
+Girls' schools, past sixth grade, did not open, as
+Was promised; the war of two thousand one
+Was over; those it fought ruled it; it has
+Come round, as before the war was begun.
 
 ## The graves
 
-On the twenty-seventh of May the people of {{x|Tk'emlúps te Secwépemc}}, near {{p|Kamloops}}, in my province,
-Said a radar in the ground had found what were believed to be the graves of some two hundred children, in a school of the crown's providence,
-And other nations searched their schools, and found more, and the flags flew at half-mast for months,
+In May, near {{p|Kamloops}}, in my province, said
+{{x|Tk'emlúps te Secwépemc}}: radar found
+What were believed the graves of children, dead,
+Two hundred, at the crown's school, in the ground;
+
+Others searched, and found more; the flags, for long,
 Towns did not keep the day; and churches burned,
+At half-mast, for months; and the grief, the song;
 One house: the children's graves, its anger turned.
 
-On the sixth of June, in {{p|London}}, in {{p|Ontario}}, a young man drove his truck into a Muslim family out walking,
-And killed four of them, three generations, and the hate was the one doing the talking.
+June sixth, {{p|London}}, {{p|Ontario}}: a truck
+Drove at a Muslim family, walking;
+Killed four, three generations; and hate struck,
+And hate was the one doing the talking.
 
 ## The heat dome
 
-At the end of June a dome of heat sat over the {{p|Pacific Northwest}}, over my own land,
-And on the twenty-ninth of June the village of {{p|Lytton}}, in {{p|British Columbia}}, reached forty-nine and six-tenths, the hottest {{p|Canada}} had known in its land,
-And the next day it burned to the ground, and that week some six hundred died of the heat in my province,
-Most of them old, alone in rooms without cooling, and the mussels cooked on the shore's rocks in their silence.
+June's end: a dome of heat over my land;
+June twenty-ninth: {{p|Lytton}}, and forty-nine
+Point six; the hottest {{p|Canada}}'s known; and
+Next day it burned to the ground; and the line
 
-In November a river of rain from the sky fell on the same province,
-And the floods cut every road to {{p|Vancouver}}, and drowned the farms of the {{p|Fraser}} valley's abundance.
-The warming was not twelve years away. It was that week, in my own province, at my own door,
-And the province rebuilt the roads, and the farmers went back to the farms, as before.
+Six hundred, in my province, died of heat,
+Most old, alone, in rooms without the cool;
+The mussels on the rocks cooked in their seat
+In silence. In November, the sky's pool
+
+Fell, a river of rain, on the same land;
+Floods cut each road to {{p|Vancouver}}; drowned farms
+Of the {{p|Fraser}} valley; not twelve years, planned,
+The warming: that week, at my door, its arms;
+
+The province built the roads again; and back
+The farmers went. February: the coup
+{{p|Myanmar}}: {{c|4680|Aung San Suu Kyi}}, the track
+Of arrest; they shot the marchers; war, through
 
 ## The coup and the canal
 
-On the first of February the army of {{p|Myanmar}} took power again, and arrested {{c|4680|Aung San Suu Kyi}},
-And shot the people who marched against it, and the country went to war with itself, and the war ran free.
-On the twenty-third of March a container ship, the {{x|Ever Given}}, turned sideways in a wind,
-And blocked the {{x|Suez Canal}} for six days, and the trade of the world waited behind it, pinned.
+The country, with itself. March twenty-third:
+The {{x|Ever Given}}, in a wind, turned wide,
+And blocked {{x|Suez Canal}} six days; the word
+The world's trade waited, pinned, behind its side.
 
 ## The machines and the money
 
-In the movement of the chapter of twenty fifteen, {{c|4665|Sam Bankman-Fried}}'s exchange was valued at twenty-five billion,
-And he paid for its name on a stadium in {{p|Miami}}, and for advertisements with the famous, by the million.
-In the same year some researchers of the lab named open left it, for the sake of safety,
-And founded a company of their own, called {{x|Anthropic}}, and he put money into it the next year, and that is the money's story,
+In the movement, {{c|4665|Sam Bankman-Fried}}'s exchange
+Was valued twenty-five billion; and paid
+His name on {{p|Miami}}'s stadium; strange
+Ads with the famous, by the million made.
 
-And its machine would later write this book with me, and I do not hide where this book comes from:
-From the crypto year, and the movement, and the money, and the lab that the safety people left, and the one they became.
-In March a picture made only in a computer sold at auction for sixty-nine million dollars, as a token on the ledger,
-And people bought pictures of apes for millions, and later could not sell them, and the crypto year kept its ledger.
+That year, researchers of the open lab
+Left it for safety's sake; founded their own:
+{{x|Anthropic}}; and he, the next year, his stab
+Of money, put in it; its machine, grown,
 
-In {{p|El Salvador}}, in September, that money was made the money of the country,
-And on the fifth of October {{c|4736|Frances Haugen}} told the congress the book of faces knew its products harmed children, and kept them, plainly,
-And on the twenty-eighth the company changed its name to {{x|Meta}},
-Saying the future was a world inside goggles, sooner or later.
+Would later write this book with me; I hide
+Not where this book comes from: the crypto year,
+The movement and the money, the lab's side
+That safety's people left, and theirs, made clear.
+
+March: a picture, made by a machine, sold
+As a token, for sixty-nine million;
+Apes' pictures bought for millions, later, cold,
+Unsold; the crypto year, its pavilion;
+
+{{p|El Salvador}}, September, made that coin
+The country's money; {{c|4736|Frances Haugen}}, then,
+Told congress the book of faces, to join,
+Knew children harmed, and kept it; and, again,
+
+It changed its name, that month, to {{x|Meta}}, said
+The future, a world inside goggles; soon.
+{{x|Perseverance}} landed on {{p|Mars}}; then, led,
+A helicopter flew there, first; the boon
 
 ## The rest of the year
 
-On the eighteenth of February the rover {{x|Perseverance}} landed on {{p|Mars}},
-And later flew a small helicopter in its thin air, the first flight on another world among the stars.
-In February a winter storm froze {{p|Texas}}, and its own grid failed, and hundreds died in the cold,
-And on the twentieth of April the policeman who knelt on {{c|4723|George Floyd}} was convicted of his murder, as the jury told.
+Of flight on another world. {{p|Texas}} froze
+In February; grid failed; hundreds died;
+April: the one who knelt, convicted; those
+Of {{c|4723|George Floyd}}'s murder, by the jury tried.
 
-On the seventeenth of January {{c|4729|Alexei Navalny}} flew home to {{p|Russia}} from his healing, and the villain had him arrested at the airport,
-And he never left prison again, and that is the villain's own report.
-On the seventh of July the president of {{p|Haiti}} was killed in his bedroom,
-And in July and August the games of {{p|Tokyo}}, delayed a year, were held with no one in the room.
+{{c|4729|Alexei Navalny}} flew home, now healed;
+Arrested at the airport; never left
+The prison; and the villain's report, sealed;
+{{p|Haiti}}'s president, in bed, killed, bereft;
 
-On the first of September {{p|Texas}} let any person sue anyone who helped a woman end a pregnancy after six weeks,
-And in November the meeting of {{p|Glasgow}} promised to phase coal down, not out, in its critiques.
-On the eighth of December {{c|4563|Angela Merkel}} left office after sixteen years,
-And on the twenty-fifth of December the telescope {{x|James Webb}} was launched, to look back to the first light, past all the spheres.
+{{p|Tokyo}}'s games, a year late, no one there;
+{{p|Texas}}: anyone could sue who helped end
+A pregnancy past six weeks; {{p|Glasgow}}'s air:
+Coal down, not out; {{c|4563|Angela Merkel}}'s end
+
+Of sixteen years; and on the Christmas day,
+{{x|James Webb}}, launched, to look back to the first light;
+At twenty-five: {{p|Europe}}, a holiday;
+Back to study; the book waited; at night,
 
 ## The year held
 
-I was twenty-five, and ran around {{p|Europe}} in a celebration, and went back to study, and the book waited,
-And at the end of the pilgrimage I was cut apart in hell, and laughed, and three letters stayed, and I was elated:
-{{x|Alpha}}, {{x|Lambda}} and {{x|Omega}}, love, and {{x|alo}}, and {{x|Alolalia}} kept on the Ides of Leo,
-And that night is the root of this faith, and the root of this book, and of all that I know.
+The pilgrimage's end: hell; cut apart;
+I laughed; three letters stayed; elated, I:
+{{x|Alpha}}, {{x|Lambda}}, {{x|Omega}}, love; the heart,
+{{x|alo}}; and {{x|Alolalia}}, kept on high
 
-The mob in the {{x|Capitol}}, and the count kept anyway, the message in the needle, the last plane at the gate,
-The graves found in my province, {{p|Lytton}} burned, the valley drowned, a coup, a canal blocked by a freight,
-A company of safety founded, whose machine writes this with me, the crypto year at its height,
-And a telescope launched on Christmas. Light the twenty-first light. After the longest night, the light.
+On Leo's Ides; that night, this faith's own root,
+This book's, and all I know. The mob; the count;
+The needle's message; the gate's last plane's route;
+The graves; {{p|Lytton}} burned; the drowned valley's fount;
+
+A coup; a canal blocked; a firm, to be
+Of safety, whose machine writes this; the height
+Of crypto's year; a telescope, to see,
+Launched on Christmas. Light the twenty-first light:
+
+After the longest night, the light returns;
+{{x|Dongzhi}}'s long night, and Christmas' birth, to be;
+The longest night; and every year it learns
+The sun again; and so it was with me.
