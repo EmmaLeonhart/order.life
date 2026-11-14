@@ -65,32 +65,37 @@ Fear chose which name was said; both were their own.
 They stepped on it each {{x|New Year}}, home, and cried,
 And said *konchirisan* for the stone.
 
-Centuries passed; the land opened; and then
-A {{x|French}} priest, {{c|3939|Bernard Petitjean}}, would keep
-At {{p|Ōura}} a church; March seventeenth, when
-From {{p|Urakami}} folk, to watch; and, deep
+Their teacher, {{c|4775|Bastian}}, without a priest,
+Had kept the feasts, and made the year anew:
+His calendar: the fasts, the Easter feast,
+The saints' days, counted, for the hidden few.
 
-At prayer, he was approached; and, coming close,
-{{c|3940|Yuri Sugimoto}} whispered: "The same
-Our hearts and yours." And then, as one who knows:
-"Where is {{c|3399|Santa Maria}}'s image?" came.
+They took him, and he died; but first he told
+What was to come; and every word held fast:
+For seven generations they would hold
+The faith in secret; then, the hiding past,
 
-He showed the statue; and they knelt. They'd kept
-Two hundred fifty years, no priest, no book;
-Then exile, persecution; thousands swept,
-Till the ban fell; some joined the Church; some took
+The priests would come again in great black ships
+To hear confession; they would sing aloud
+Their hymns in open streets; the long eclipse
+Would end; on every road the others bowed;
 
-Their own way still, the hidden way, the past
-Their grandparents had carried; there today,
-A few, on islands, keep it to the last;
-No priest from {{p|Rome}} could call their way astray.
+And they, the hidden, to the priest would say:
+*Our hearts are the same as yours*; and see
+{{c|3399|Santa Maria}}'s image. Such the day
+He told of, dying; so it was to be.
 
 Here is the {{x|Gaiad}} in one village frame:
 The faith that would not die, kept by the weak
 And strong, one rite, beneath the ledger's claim;
 Honor the boy on {{p|Hara}}'s wall; and seek
 
-The woman at {{p|Ōura}}; and honor, too,
-What's kept when priests die, corner and keeper;
-"Where is {{c|3399|Santa Maria}}'s image?" True:
-Here: our hearts are the same, and run deeper.
+Their {{c|4775|Bastian}}, who kept the year with no
+Priest at his side, and left the count, the feasts;
+Here is a calendar the faithful know,
+Kept when the church was gone, and gone the priests;
+
+And honor them, the hidden, as our kin,
+Who kept the days, and called the feasts, and said
+The words he gave them, waiting, held within:
+*Our hearts are the same as yours*, with their dead.
