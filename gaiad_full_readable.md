@@ -35794,8 +35794,8 @@ Lines running sixteen thousand years, before
 The trumpet of the European fleet
 Had sounded. But Columbus saw the ore,
 
-The gold; and {{p|Europe}}'s hunger, unbounded,
-That grew more ravenous, and would not flee,
+The gold; and {{p|Europe}}'s reaching, unbounded,
+That grew and grew, and would not cease to be,
 Was set in motion when the cry sounded
 From the crow's-nest, across the unknown sea:
 
@@ -35817,7 +35817,7 @@ The totem, speaking in its sacred line;
 World entire, a hemisphere alive,
 Now at the hinge of its destruction stood,
 Its transformation, where the hungers strive:
-The old world's hunger met the new world's good.
+The old world's reaching met the new world's good.
 
 So turn the page. The ocean has been crossed.
 The Book of Lehi opens on the face
