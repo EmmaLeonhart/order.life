@@ -2846,7 +2846,7 @@ Between the forest and the realm's far edge,
 A world where no whip on a slave was felt;
 Imperfect, paternal, and strange: a pledge,
 
-Amid sin's hemisphere, the nearest thing
+Amid that hemisphere, the nearest thing
 To justice in its range; and so they stayed
 A century and half; then came the sting:
 The diplomats, who lines on maps had laid
@@ -2913,8 +2913,8 @@ From outside as a dream of what could grow
 
 If guilt could build a wall between the greed
 Of conquest and its charity; but thrones
-And realms will never tolerate the creed
-Of commonwealths that answer none; the stones
+And realms that held the land would not concede
+To commonwealths that answer none; the stones
 
 Of the reductions crumbled; on the floor
 Of forest the red walls sank, overgrown
