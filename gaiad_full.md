@@ -32061,11 +32061,11 @@ In woman's dress, a charioteer's; too,
 Would be called lady; and he sought, beside,
 
 The surgeons, to be made a woman whole.
-These accounts are true at heart, even though{{fn|The accounts of Elagabalus come from Cassius Dio and Herodian, who were hostile to him, and from the later Historia Augusta, which is often unreliable.}}
-The hostile pens had spun them; and the soul,
-The life, shines through it, so that we can know.
+And he was lady, and was named as so;
+He dressed, and ruled, and danced, the sun his soul,
+And all of {{p|Rome}} would see him come and go.
 
-The poem notes: whatever was the truth,
+The poem notes the heart of it, the truth:
 The quarrel was not gods but priests: the one
 To fall was he who set, though but a youth,
 His city's priesthood over {{p|Rome}}'s each one.
