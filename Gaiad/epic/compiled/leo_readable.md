@@ -3312,7 +3312,7 @@ Its Shawnee and its Miami; the same
 
 Hunger that broke the doors of eastern lands
 Pressed west, Republic's weight, its manifest
-And God-anointed greed. But in their hands
+And God-anointed creed. But in their hands
 They met the military mind, the best:
 
 Mihsihkinaahkwa, the Turtle, chief
