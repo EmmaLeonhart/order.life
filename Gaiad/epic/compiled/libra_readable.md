@@ -551,7 +551,7 @@ And {{p|Sweden}}'s kings, today, bear Oscar's name,
 Born of the bard's son; and his, beloved,
 Selma, Fingal's hall, a girl's name, the same:
 
-Selma Lagerlöf bore it; and, as one,
+Selma Lagerlöf's, read now; and, as one,
 Jefferson called him greatest ever; and
 Then Samuel Johnson, in {{p|London}}, as one
 Who doubted, asked for manuscripts in hand;
