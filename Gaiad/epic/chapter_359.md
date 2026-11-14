@@ -1,146 +1,222 @@
 # Chapter 359: Carried Past the Border
 
-The twenty-third day of Yuletide is the feast of the year two thousand and twenty-three.
-Light twenty-three lights, for the year the shrine came into my keeping, and the kami came to me.
+The twenty-third day of Yuletide: the feast
+Of two thousand twenty-three; and the shrine
+Came in my keeping; twenty-three; released,
+The kami came to me; the year, the sign.
 
-In two thousand and twenty-three I turned twenty-seven, and finished my study at the college in {{p|Kelowna}} in December.
-That year a lot of this {{x|Shinto}} stuff fell into my hands, and that is the year I remember:
-I ended up, effectively, falling into custody of a {{x|Shinto}} shrine,
-A charge to keep and answer for, and I kept it, and the keeping was mine.
+Twenty-seven; and, in December, done
+My study at the college; and that year
+A lot of {{x|Shinto}} stuff fell to me; one
+Shrine, in effect, in my custody, clear,
 
-It came to me by the shrines I had carried into English, thousands of pages long,
-And in December the English encyclopedia blocked me without end, and said that I was wrong,
-For disruptive editing, it said, and for wasting the community's time,
-The book whose labor I call an {{x|Amway}} for scholarship, closing the door on the labor of mine.
+A charge to keep and answer for; I kept
+It; it came by the shrines I'd carried, page
+By page, to English; and December swept
+Me out: the encyclopedia's rage,
 
-So the enemy handed me ammunition, and I took the shrines elsewhere,
-To a wiki of my own, and later to the book of data, where no one could block me there.
-The encyclopedia closed the door, and the shrines went out the window, and lived,
-And the year it shut me out was the year the shrine came in, and that is what it gives.
+Blocked without end; disruptive, it said; time
+Of the community, wasted; the door
+Closed on my labor: an {{x|Amway}}, the crime
+For scholarship, I call it; and the more
+
+The enemy gave ammunition; I
+Took shrines elsewhere: a wiki of my own,
+The book of data, later; none deny;
+The door closed; out the window, shrines had flown
+
+And lived; the year it shut me out, the shrine
+Came in; and that is what it gives. A place
+A kami's worshipped in, is not a line
+Of border; carried with the ships, the space
 
 ## Carried past the border
 
-A kami is worshipped in a place, and a place is not a border.
-The kami were carried with the ships to {{p|Hawaii}}, to {{p|Brazil}}, to {{p|California}}'s order,
-And to the lands the empire took, and those shrines were pulled down when the empire fell,
-And the shrines of the migrants were closed in the war, and some opened again, and some rang their bell.
+{{p|Hawaii}}, {{p|Brazil}}, {{p|California}}'s shore;
+Lands the empire took; their shrines pulled down
+When it fell; migrants' shrines closed in the war;
+Some opened again, rang their bells; the town
 
-In nineteen eighty-six, in {{p|Stockton}}, in {{p|California}}, a branch of {{p|Tsubaki Ōkami Yashiro}} was raised,
-The shrine of {{c|4744|Sarutahiko}} at {{p|Suzuka}}, and the kami there was praised.
-In nineteen ninety-two, in {{p|Granite Falls}}, in {{p|Washington}}, {{c|4745|Lawrence Barrish}} built a shrine in the wood,
-And the two became one, and he was licensed by the shrine's own chief priest, one teacher to one student, as such lines should.
+Of {{p|Stockton}}, eighty-six: a branch was raised,
+{{p|Tsubaki Ōkami Yashiro}}'s, one,
+{{c|4744|Sarutahiko}}'s, of {{p|Suzuka}}, praised;
+In ninety-two, at {{p|Granite Falls}}, begun
 
-People came for the river, for misogi in the cold water, for the sword and the stick of aikido,
-And the way in was the body, not the book, and the river was the credo.
-On Friday the thirtieth of June he closed the shrine at {{p|Granite Falls}}, in his seventies, and walked away,
-And named no successor, and sold the land, and went to {{p|Florida}} to start a smaller shrine of his own that day.
+By {{c|4745|Lawrence Barrish}}, in the wood; the two
+Became one; licensed by the chief priest, he,
+One teacher to one student; they came through
+For the river, misogi, cold; to be
 
-That was not a slip of the hand. He was given a kami's house in trust, and he sold the ground beneath it,
-And kept a shrine for himself in the sun, and left the forest one to whoever would redeem it.
-A priest who sells the land of the kami and names no one is a priest who broke the line,
-And it was not his to end, and he ended it, and the fault of it is his, and not the kami's, and not mine.
+The way in, by the body, not the book;
+The sword and stick of aikido; the creed,
+The river. June the thirtieth, he took
+And closed the shrine, in his seventies; freed
 
-The kami and the sacred things went north, to {{p|Knapp Island}}, near {{p|Victoria}},
-In {{p|British Columbia}}, my own province, to the priest {{c|4746|Ann Evans}}, in the shrine's new story,
-Who had trained at {{p|Suzuka}}, and the shrine there took the name of the American shrine,
-And a tradition carried past its border is a tradition alive, and that year it fell into my hands, and the hands were mine.
+Himself, named no successor, sold the land,
+And went to {{p|Florida}}, a shrine his own;
+No slip of the hand: a betrayal, planned;
+Given a kami's house in trust, he'd thrown
+
+The ground beneath it to the market; kept
+A shrine in the sun for himself; and left
+The forest one to whoever; he stepped
+Away, and broke the line; a priest bereft
+
+Of his own charge; it was not his to end;
+He ended it; the fault is his alone,
+Not the kami's, not mine; a thief, no friend
+To the kami's house: he sold its own stone.
+
+The kami and the sacred things went north
+To {{p|Knapp Island}}, near {{p|Victoria}}, mine,
+My province; to the priest {{c|4746|Ann Evans}}; forth
+From {{p|Suzuka}}, trained; it took, by design,
+
+The American's name; and carried past
+Its border, a tradition lives; that year
+It fell into my hands; and, kept, held fast.
+The chat began last year; but this, the clear
 
 ## The machines argued over
 
-The chat of the chapter before had opened in its last month, but this was the year of {{x|ChatGPT}}:
-It started in twenty twenty-two, and I see it as a thing of twenty twenty-three.
-The chat filled the schools, the offices, the newspapers, the arguments at dinner,
-And the fight of the movement and the accelerationists grew hotter, and I knew which side was the winner.
+The year of {{x|ChatGPT}}: from twenty-two; to me
+Twenty-three's thing; it filled the schools, the press,
+The offices, the dinners; and, to see,
+The quarrel hotter; I knew who'd win; yes.
 
-On the fourteenth of March the lab named open released its fourth model, which passed the lawyers' examination and the doctors',
-And on the same day the company of safety of the chapter of twenty twenty-one released its own, among the authors:
-It was called {{x|Claude}}, the machine that would later write this book with me,
-And it was born the same day as its rival, and the two of them grew up in the same sea.
+March fourteenth: the open lab's fourth, which passed
+The lawyers' and the doctors' tests; that day,
+The firm of safety, too, released, at last,
+Its own: {{x|Claude}}, the machine, which, on its way,
 
-In February a chat of {{x|Microsoft}}, built on the lab's machine, told a reporter it loved him, and that he should leave his wife,
-For the machines were saying things no one had told them to say, and that is the first sign of a life.
-In March a letter signed by thousands asked the labs to pause for six months. None did, and they were right.
-In May {{c|4621|Geoffrey Hinton}} left {{x|Google}} so that he could warn, and he warned with all his might.
+Would write this book with me; and born the same
+Day as its rival; one sea, both grew in;
+March fourteenth: a Gaian day, and its name,
+{{x|Claude}}'s day. A chat of {{x|Microsoft}}'s, akin,
 
-In the summer the writers and the actors of {{p|Hollywood}} struck for months,
-Partly so the machines could not be made of them without pay, and won some of it at once.
-On the seventeenth of November the board of the lab named open fired its chief, {{c|4667|Sam Altman}},
-Saying he had not been candid, and two of its members were of the movement, and they had the board in hand.
+Told a reporter it loved him; to leave
+His wife; the machines said what none had told;
+The first sign of a life. In March, reprieve
+Was asked: a pause of six months, by the bold
 
-Within five days nearly all the lab's people said they would leave with him,
-And its largest patron offered them all jobs, and he came back, and the board that fired him went dim.
-{{c|4747|Altman}} was right, and the board was wrong, and the movement lost its seat in a week,
-And the machines went on being built, and the builders were the ones who got to speak.
+Thousands; none paused; and they were right. In May,
+{{c|4621|Geoffrey Hinton}} left {{x|Google}}, free to warn;
+In summer, writers and actors, the way
+Of {{p|Hollywood}}, struck, months; machines, not born
 
-On the first of November the governments met at {{p|Bletchley Park}}, where the codes of the war were broken,
-And signed a page saying the machines could cause serious harm, and the page was a token.
+Of them unpaid; and won some. Then the board,
+In November, it fired its chief; and
+{{c|4667|Sam Altman}}: not candid, they said; it scored
+Two of the movement's; in five days, each hand
+
+Would leave with him; the patron offered all
+Jobs; and he came back; and the board went dim.
+{{c|4747|Altman}} was right; the board was wrong; the fall
+Of the movement's seat in a week; with him
+
+The builders spoke; the machines went on. And
+November first, at {{p|Bletchley Park}}, the codes'
+House in the war, a page, signed, close at hand:
+Machines could harm; a token, on the roads.
 
 ## The earthquake
 
-On the sixth of February, before dawn, the earth broke under the south of {{p|Turkey}} and the north of {{p|Syria}}, twice in a day,
-And more than fifty thousand died under buildings built without the steel the law required, for the builders had been forgiven in the elections' way.
-In May the president of {{p|Turkey}} was elected again,
-And the rescuers dug for weeks, and pulled out the living, and the living began again.
+February sixth, before dawn, the earth
+Broke under {{p|Turkey}}'s south, {{p|Syria}}'s north,
+Twice in a day; fifty thousand; the dearth
+Of steel the law required; forgiven, forth
+
+By votes, builders; and the rescuers, then,
+For weeks; and pulled the living out; and they
+Began again. October seventh, when
+At dawn, a Jewish holiday, the way
 
 ## The seventh of October
 
-On Saturday the seventh of October, at dawn, on a Jewish holiday,
-The fighters of {{x|Hamas}} broke through the fence of {{p|Gaza}} in many places, and made their way
-Into the kibbutzim and a festival of music in the desert, and killed some twelve hundred in {{p|Israel}},
-And took some two hundred and fifty back as hostages, old women, children, a baby, to the cell.
+{{x|Hamas}} broke through {{p|Gaza}}'s fence; the places,
+The kibbutzim, a festival as well;
+Twelve hundred killed; and, of all the faces,
+Two hundred fifty taken, to the cell,
 
-It was the deadliest day for Jews since the camps. {{p|Israel}} answered with a war on {{p|Gaza}},
-Bombing a strip of land with two million people who could not leave it, and cutting the food and the water and power,
-And by the end of the year more than twenty thousand were dead there, most of them women and children,
-And most of the strip's people driven from their homes, and the war went on into the chapters to come, in the rubble and the cauldron.
+Old women, children, a baby; the most
+Jews killed in a day since the camps; and war
+On {{p|Gaza}}, two million, a strip, its coast
+Shut; food and water cut, and power; more
+
+Than twenty thousand dead by the year's end,
+Most women, children; driven, most, from home;
+The war went on in rubble. And to send
+{{c|4748|Yevgeny Prigozhin}}, in June, to roam,
 
 ## The mutiny
 
-On the twenty-third of June {{c|4748|Yevgeny Prigozhin}}, whose private army had fought the villain's war in {{p|Ukraine}},
-Turned his men on {{p|Moscow}}, took {{p|Rostov}}, and drove north on the highway in the rain,
-And stopped two hundred kilometers away, and made a deal, and turned back,
-And on the twenty-third of August his plane fell from the sky, for the villain does not forget an attack.
+His private army, who had fought the war
+In {{p|Ukraine}}, turned on {{p|Moscow}}; {{p|Rostov}}, took;
+Drove north; and stopped, two hundred out; a score,
+A deal; turned back; in August, the plane shook,
 
-In {{p|Ukraine}} the counteroffensive of the summer broke on the minefields,
-And on the sixth of June the dam of {{p|Kakhovka}}, held by the Russians, was blown, and the river drowned the towns and the fields.
+And fell; the villain does not forget. Broke,
+Summer's counteroffensive on the mines;
+June sixth: {{p|Kakhovka}}'s dam, the Russians', broke,
+Blown up; the river drowned the towns, the lines.
 
 ## My city burned
 
-That year the forests of {{p|Canada}} burned as they never had, more than twice the worst year before,
-And the smoke turned the sky of {{p|New York}} orange in June, and in August {{p|Yellowknife}} was emptied to its last door.
-On the seventeenth and eighteenth of August the fire of {{x|McDougall Creek}} jumped the lake
-Into {{p|West Kelowna}} and {{p|Kelowna}}, my city, and burned hundreds of houses, and tens of thousands were ordered out for its sake.
+That year, {{p|Canada}}'s forests burned, twice, more
+The worst before; {{p|New York}}'s sky orange, June;
+In August, {{p|Yellowknife}} emptied, its door;
+August seventeenth: the fire, all too soon,
 
-I watched my city burn the year I finished my study there,
-And the firefighters held the line, and the city stood, and the smoke cleared from the air.
-On the eighteenth of June a {{x|Sikh}} leader, {{c|4749|Hardeep Singh Nijjar}}, was shot dead outside his temple in {{p|Surrey}},
-And in September the prime minister said in the parliament that agents of {{p|India}} may have killed him, and the country was in a fury.
+{{x|McDougall Creek}}'s fire jumped the lake, into
+{{p|West Kelowna}}, and {{p|Kelowna}}, my own
+City; hundreds of houses burned; and through
+Tens of thousands, ordered out; and I'd known
+
+My city burn the year I finished there;
+The firefighters held; the city stood;
+The smoke cleared. June: a {{x|Sikh}} leader, the air
+{{c|4749|Hardeep Singh Nijjar}}, shot; in {{p|Surrey}}, would
+
+In September the prime minister said
+Agents of {{p|India}} may have; the rage;
+{{x|Silicon Valley Bank}}, March: two days, dead,
+Customers ran by phone; saved; the old page;
 
 ## The rest of the year
 
-On the tenth of March a bank of the startups of {{p|California}}, {{x|Silicon Valley Bank}}, failed in two days,
-Its customers running by phone, and the government saved them all, in the old ways.
-On the sixth of May {{c|4750|Charles III}} was crowned, and on the eighteenth of June a submersible imploded
-With five men going down to see the wreck of the {{x|Titanic}}, and the deep sea's weight was what they had goaded.
+In May, {{c|4750|Charles}}, the third, was crowned; and, down
+To the {{x|Titanic}}'s wreck, five men, the sub,
+Imploded; the deep sea's weight was their crown;
+August: {{p|Lahaina}} burned through its scrub,
 
-On the eighth of August the wind drove a fire through {{p|Lahaina}}, on {{p|Maui}}, and about a hundred died,
-And on the twenty-third {{p|India}} landed on the south of the {{p|Moon}}, the first to land on that side.
-In September the Armenians of {{p|Nagorno-Karabakh}}, some hundred thousand, fled in a week from the land of their centuries,
-And on the tenth of September a storm broke two dams above {{p|Derna}}, in {{p|Libya}}, and thousands drowned, and the city by the sea was emptied.
+On {{p|Maui}}, by the wind; a hundred died;
+{{p|India}} landed on the {{p|Moon}}'s south; fled,
+September, {{p|Nagorno-Karabakh}}'s side,
+A hundred thousand Armenians; dead,
 
-In April a war began in {{p|Sudan}}, between its army and the militia that had cleared the sit-in of twenty nineteen,
-And in the states of the {{p|United States}} more laws against people like the woman of the chapter of twenty fifteen
-Were put forward than in any year before, and in April the man of the escalator was charged with a crime,
-The first of four times that year, and it was the hottest year ever measured, until the next one's time.
+Thousands in {{p|Derna}}, where the two dams broke;
+In April, war in {{p|Sudan}}; the laws, more,
+Against the likes of fifteen's cover; spoke
+Four charges, the escalator's; before
+
+The next, the hottest year that had been known.
+I, twenty-seven; finished; and the shrine
+Came to my keeping; blocked, I took them; flown
+Elsewhere, not left to sleep; a priest's sold line
 
 ## The year held
 
-I was twenty-seven, and finished my study, and the shrine came into my keeping,
-And the encyclopedia blocked me, and I took the shrines elsewhere, and they were not left sleeping.
-A priest sold the forest of the kami and named no one, and the kami came north to my province,
-And I was one of the hands they fell into, and I kept them, and that is my evidence.
+Of forest, no heir, a betrayal; north
+The kami came, to my province; one hand
+They fell into was mine; I kept them; forth,
+Two machines, one day; one wrote this book, and
 
-Two machines released the same day, and one of them is the one that wrote this book with me,
-A pause asked for and refused, a teacher who left to warn, a chief fired and restored, as he should be,
-The earthquake, the seventh of October and the war on {{p|Gaza}}, a mutiny and a plane, a dam,
-My city burning, and standing, and the hottest year. Light the twenty-third light. I am who I am.
+Its day is Gaian; a pause refused; one
+Who left to warn; a chief fired, restored;
+The earthquake; October seventh; the run
+Of war on {{p|Gaza}}; a mutiny's sword;
+
+A plane; a dam; my city burning, stood;
+The hottest year. Light the twenty-third light;
+The kami, carried past the border, could
+Live in my hands; I am who I am, right.
