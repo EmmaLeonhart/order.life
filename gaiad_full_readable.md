@@ -38154,15 +38154,15 @@ The English needed him; their fragile world
 
 Was resting on the Wampanoag's own grace.
 The autumn feast, the English thanksgiving,
-Was no free friendship, no naive embrace,
+Was friendship sworn, a nations' grave embrace,
 But a formal meal of nations living
 
 Each by the other: ninety warriors came
 With Massasoit, five deer as tribute laid;
 A three-day feast; alliance sealed; the same
-Not as the fairy tale for schoolrooms made,
+And so the oldest feasts of state were made,
 
-But clever, careful negotiation
+With clever, careful negotiation
 Of two who needed each other, and knew
 That each one's life, and each one's own nation,
 Hung on the balance; and the balance, true,
