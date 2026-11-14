@@ -1768,23 +1768,23 @@ Smuggled to {{p|Leiden}}, by the Dutch; and dead
 
 In forty-two, the year, as if the sky
 Had planned it, that Newton was born. It ends
-Here, on a lens, and on a sorry. Why?
-The {{x|Seventh Day of Awe}}: the {{x|Church}} amends:
+Here, on a lens, and on the open sky.
+The {{x|Seventh Day of Awe}}: the sky extends
 
-It has said it erred, late; a commission
-Of thirteen years; a Pope stood up, and said
-The {{x|Church}} was wrong; the open admission,
-Late, and it came; repentance, owned, instead,
+Past all the crystal spheres the old men drew;
+The moons go round, the spots are on the sun,
+The Milky Way is stars, and all is true
+That he saw through the glass, and he was one
 
-For institutions: slow and true and plain;
+Who looked, and told it, kneeling, and stood free;
 Look up tonight: Jupiter's moons are there;
-A small telescope shows them; what, in vain,
-Postponed, is not undone; refused, nowhere.
+A small telescope shows them, and you'll see
+What Galileo saw, in the same air.
 
 Open the sky; look; let the window in
-The evidence; and when you were the one
-Who was wrong, take the vow he could not win:
-Say so, not whispered; say it; let it run.
+The light of all the stars, and of each one;
+The glass he made is where the eyes begin
+That look on all the worlds beneath the sun.
 
 
 # Chapter 270: The King of the Goths
