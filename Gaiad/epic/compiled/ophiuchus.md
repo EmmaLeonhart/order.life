@@ -2616,185 +2616,262 @@ At the Ides, mid-month; the century's track.
 
 # Chapter 351: Doing Good Better
 
-The fifteenth day of Yuletide is the feast of the year two thousand and fifteen.
-Light fifteen lights for nineteen, my second year at the lake, and the refugees welcomed in.
+The fifteenth day of Yuletide is the feast
+Of two thousand fifteen; light fifteen lights
+For nineteen, my second year; and, not least,
+The refugees welcomed in; the year's rites.
 
-In two thousand and fifteen I turned nineteen, in my second year at the university in {{p|Kelowna}},
-And my second year on the net. This chapter begins a thread that runs through the rest of the month:
-A movement that set out to do the most good, with arithmetic and money and later the machines.
-The movement is not its villain. Its villain came out of it, and this is where he comes from.
+I turned nineteen, my second year, the lake,
+{{p|Kelowna}}'s school, second on the net;
+This chapter starts a thread the month will take:
+A movement to do the most good, and set
+
+To work with sums, and money, then machines;
+The movement is not its villain; and yet
+Its villain came out of it; here, the means
+And place he comes from; here the debt is set.
 
 ## The arithmetic of good
 
-That year a young philosopher at {{p|Oxford}}, {{c|4662|William MacAskill}},
-Published {{x|Doing Good Better}}: give, and work, and choose a career,
-Where the good done per dollar is greatest, and measure it,
-And a life saved from malaria in {{p|Africa}} counts as much as one here.
+Young {{c|4662|William MacAskill}}, at {{p|Oxford}}, still,
+Wrote, that year, {{x|Doing Good Better}}: give; choose
+The work where each dollar does good, and still
+Measure; a life in {{p|Africa}}, to lose
 
-The movement had grown from {{c|4663|Peter Singer}}, and {{c|4664|Toby Ord}}, and the givers who pledged a tenth,
-And from a community on the net that called itself rationalist,
-Gathered around long essays on how to think without fooling yourself,
-Which worried, before almost anyone, that a machine smarter than us might not share our list.
+To malaria, counts as here; it grew
+From {{c|4663|Peter Singer}}, {{c|4664|Toby Ord}}, the ones
+Who pledged a tenth; from a net forum too,
+Rationalists, long essays, how one shuns
 
-It called itself {{x|effective altruism}}. It saved hundreds of thousands from malaria with nets,
-And dewormed the children, and gave cash to the poorest, and asked what the good would cost.
-That is a good, and this book keeps it: the arithmetic of mercy,
-The counting that finds the most lives for the dollar, so that fewer are lost.
+The ways we fool ourselves; who feared, before
+Almost anyone, that a mind more wise
+Than ours might not share our good; and what's more,
+Named it {{x|effective altruism}}; size
 
-One of its ideas was called earning to give: go into finance, make a fortune, give it away.
-A young man named {{c|4665|Sam Bankman-Fried}}, who had met {{c|4666|MacAskill}} as a student,
-Had taken that idea, and was trading at {{x|Jane Street}} in {{p|New York}}.
-He is a later chapter's villain. Here he is a young man with an idea that sounded prudent.
+Of nets: hundreds of thousands saved; and they
+Dewormed the children, gave the poorest cash,
+And asked what good would cost; this book, today,
+Keeps it: mercy's arithmetic, not rash,
+
+The counting that finds most lives for the coin.
+One idea: earn to give: go to trade,
+Make a fortune, give it away; to join,
+{{c|4665|Sam Bankman-Fried}}, a student, met, and made
+
+Friends with {{c|4666|MacAskill}}, and took it up; here
+At {{x|Jane Street}}, in {{p|New York}}, he traded; and
+He is a later chapter's villain; here
+A young man with a prudent plan in hand.
 
 ## The lab
 
-On the eleventh of December, in {{p|San Francisco}}, the richest men of the industry
-And some of its best researchers founded a laboratory without profit,
-To make sure that a general intelligence, when it came, would benefit all of humanity.
-They called it {{x|OpenAI}}. {{c|4552|Elon Musk}} and {{c|4667|Sam Altman}} led it, and {{c|4620|Ilya Sutskever}} ran research from its summit.
+In {{p|San Francisco}}, in December, made
+By the industry's richest, and the best
+Researchers: a lab, no profit, to aid
+All humankind, when minds would pass the test
 
-It later became a company, and kept the name.
-And this book was written partly with its machines, and partly with others, and partly with none:
-The first sixty chapters or so in twenty-twenty, without AI, by my own hand,
-The first rewrites with {{x|ChatGPT}}, and the rest, and much rewriting, with {{x|Claude}}, in twenty-twenty-five, when the work was done.
+Of thought; named {{x|OpenAI}}; and, by and by,
+{{c|4552|Elon Musk}}, {{c|4667|Sam Altman}} led it; the head
+Research: {{c|4620|Ilya Sutskever}}, and its eye;
+A company it became; this book, read
 
-In October, in {{p|London}}, {{c|4668|DeepMind}}'s {{x|AlphaGo}} beat {{c|4669|Fan Hui}},
-The champion of {{p|Europe}} at {{x|go}}, five games to none, in secret.
-The match that shook the world was the next year's.
-The machines were coming to the oldest game, and they would not retreat.
+Through machines, was written: the first sixty
+In twenty-twenty, without AI, mine;
+The first rewrites then done with {{x|ChatGPT}}; and, see,
+The rest with {{x|Claude}}, twenty-five, line by line.
+
+In {{p|London}}, in October, {{x|AlphaGo}}
+Of {{c|4668|DeepMind}} beat {{c|4669|Fan Hui}}, five to none,
+At {{x|go}}, in secret; the next year would show
+The match that shook the world; the age begun.
 
 ## Charlie and the Bataclan
 
-On the seventh of January two brothers with rifles walked into {{x|Charlie Hebdo}} in {{p|Paris}},
-Which had printed cartoons of the {{x|Prophet}}, and killed twelve at their weekly meeting.
-Two days later a third man killed four Jewish shoppers in a kosher market.
-Millions marched with the sign, I am {{x|Charlie}}, the free word repeating.
+January seventh: two brothers, armed,
+Walked in at {{x|Charlie Hebdo}}, and killed twelve
+For cartoons of the {{x|Prophet}}; and, unharmed,
+Two days on, one more, where shoppers would delve,
 
-On Friday the thirteenth of November the men of the caliphate attacked {{p|Paris}} again:
-The stadium, the cafés, and the {{x|Bataclan}}, where a rock band was playing,
-And killed a hundred and thirty. {{p|Paris}} went back to its cafés,
-And sat on the terraces in the cold, and that was the city's saying.
+A kosher market, killed four Jews; and then
+Millions marched: I am {{x|Charlie}}; the free word.
+November thirteenth, Friday: there again,
+The caliphate's men in {{p|Paris}}; and heard
+
+Stadium, cafés, the {{x|Bataclan}}, where
+A band played; a hundred thirty, killed; and
+{{p|Paris}} went back to its cafés; sat there
+On terraces, in cold; the city's stand.
 
 ## The crossing
 
-That year more than a million crossed into {{p|Europe}},
-From {{p|Syria}}, {{p|Afghanistan}}, {{p|Iraq}}, over the sea in rubber boats to the Greek islands' shore,
-And on foot up through the {{p|Balkans}}, and thousands drowned.
-On the second of September {{c|4670|Alan Kurdi}}, two, was found on a beach in {{p|Turkey}}, a red shirt he wore.
+That year a million crossed to {{p|Europe}}'s shore
+From {{p|Syria}}, {{p|Afghanistan}}, {{p|Iraq}};
+Rubber boats to the Greek islands, and more
+On foot up through the {{p|Balkans}}, in a flock;
 
-His family had been trying to reach {{p|Canada}}.
-On the thirty-first of August {{c|4563|Angela Merkel}} said: we can do this, wir schaffen das,
-And {{p|Germany}} opened its doors and took nearly a million.
-This book welcomes the refugees. The ancestors of every people crossed a sea or a pass.
+Thousands drowned. On September second, found,
+{{c|4670|Alan Kurdi}}, two, red shirt, on the sand
+In {{p|Turkey}}; his family, {{p|Canada}}-bound;
+At August's end, {{c|4563|Angela Merkel}}'s stand:
 
-Every line in this book's genealogy is a line of migrants,
-Out of {{p|Africa}}, over the steppe, across the {{x|Bering}} land, into the new.
-The one who crosses is the ancestor of the ones who stay.
-Welcome the stranger: the stranger is the ancestor of you.
+We can do this; and {{p|Germany}} took in
+Nearly a million; this book welcomes them;
+Ancestors of each people crossed; the kin
+Of sea and pass; each line, a migrant's stem,
 
-On the thirtieth of September {{c|4518|Putin}} began bombing in {{p|Syria}} to save {{c|4611|Assad}},
-And his bombers hit the hospitals and the markets, and drove more of them out,
-So that the refugees would flood into {{p|Europe}}, and {{p|Europe}} would turn against itself,
-The villain's weapon made of the people he made homeless, the strategy and the rout.
+From {{p|Africa}}, over the steppe, the land
+Of {{x|Bering}}; one who crosses is the source
+Of those who stay; welcome the stranger; and
+The stranger is your ancestor, of course.
+
+September thirtieth: {{c|4518|Putin}}'s bombs fell
+On {{p|Syria}}, to save {{c|4611|Assad}}; and hit
+The hospitals and markets; drove, as well,
+More out, to flood {{p|Europe}}, and to turn it
+
+Against itself: the villain's weapon, made
+Of people he made homeless; and this book,
+Against him, holds the welcome; unafraid,
+The open door; the stranger's road, the look.
 
 ## The marriages and the women
 
-On the twenty-second of May {{p|Ireland}}, a country of the old faith,
-Voted by the people to open marriage to all, the first to do it by the vote.
-On the twenty-sixth of June, in {{x|Obergefell v. Hodges}}, the {{x|Supreme Court}}
-Said marriage is a right for all couples, and the {{x|White House}} lit the rainbow for us to note.
+May twenty-second: {{p|Ireland}}, the faith's land,
+By the people's vote, opened marriage, first
+By ballot; then June twenty-sixth, the stand
+{{x|Obergefell v. Hodges}}: rights, not cursed,
 
-On the first of June a magazine put {{c|4671|Caitlyn Jenner}} on its cover,
-And millions saw a woman who had transitioned in her sixties.
-She is not the one to center. Trans people are simply accepted to exist,
-And the women who made the road were others, the ones this book lists:
+For all; the {{x|White House}} lit the rainbow; and,
+June first, a cover: {{c|4671|Caitlyn Jenner}}, seen
+By millions, in her sixties; but the hand
+That made the road was others'; not the queen
 
-{{c|4672|Christine Jorgensen}}, whose story broke from {{p|Copenhagen}} in nineteen fifty-two,
-And was on every front page, and lived her life in the light, and did not hide.
-{{c|4673|Lynn Conway}}, the programmer, fired by {{x|IBM}} in the sixties for transitioning,
-Who came back under a new name and remade how the chips are designed, with pride.
+To center; trans people simply exist,
+Accepted; those who made the road, this book
+Names: {{c|4672|Christine Jorgensen}}, first on the list,
+From {{p|Copenhagen}}, fifty-two; the look
 
-{{c|4674|Martine Rothblatt}}, who founded {{x|SiriusXM}}, and a company to save her daughter's lungs,
-And wrote of the mind uploaded and the life extended past the grave,
-And {{c|4675|Deirdre McCloskey}}, the economist, who transitioned at fifty-three,
-And wrote that the bourgeois virtues made the world rich, and was brave.
+Of every front page; lived, and never hid;
+{{c|4673|Lynn Conway}}, fired by {{x|IBM}}, when
+She changed, in the sixties; and so she did
+Come back, new name, remade the chips; and then,
 
-These are the trans women who built things, the ones I follow:
-The programmer, the founder, the scholar, the woman in the papers in fifty-two.
-I name them here, the builders who went before,
-And I build in their line, and the road they made carries me through.
+{{c|4674|Martine Rothblatt}}, who founded firms; and one{{fn|SiriusXM, and United Therapeutics.}}
+To save her daughter's lungs; and she wrote, too,
+Of minds uploaded, life past death; begun
+At fifty-three, {{c|4675|Deirdre McCloskey}}, new,
+
+Economist, who wrote the bourgeois good
+Made the world rich; and she was brave; and these,
+The ones I follow, builders, as they could:
+The programmer, the founder, scholar; these,
+
+The woman in the papers, fifty-two;
+I name the builders who went on before;
+I build in their line; their road carries through,
+The road they made, that carries me, and more.
 
 ## Charleston
 
-On the seventeenth of June a young man sat an hour in a Bible study
-At {{x|Mother Emanuel}} in {{p|Charleston}}, and then shot nine of the people who welcomed him in.
-He wanted a race war, and had posed with the flag of the old confederacy.
-The flag came down from the capitol that summer, and the families forgave him for his sin.
+June seventeenth: a young man sat an hour
+{{x|Mother Emanuel}}, the Bible's word;
+{{p|Charleston}}; then shot nine; he wished for power
+Of race war, posed with the old flag; and stirred
+
+The flag came down that summer from the dome;
+The families forgave him; nine, the dead,
+Kept here by this book, as it keeps its home,
+Who welcomed in the stranger, and were bled.
 
 ## Paris, the agreement
 
-On the twelfth of December, at {{p|Le Bourget}}, after six years of meetings that took note,
-The countries of the world adopted the {{x|Paris Agreement}}:
-Hold the warming well below two degrees, and try for one and a half,
-And each country would set its own goal, and report, and raise it, by its own engagement.
+December twelfth: at {{p|Le Bourget}}, the hall,
+{{x|Paris Agreement}}, adopted that day;
+Six years on: below two degrees, for all,
+Warming; one and a half to try; the way
 
-{{c|4676|Laurent Fabius}} struck the gavel with a green leaf on its head, and the hall cheered and wept.
-The number said in {{c|4598|Obama}}'s room in {{p|Copenhagen}} was a treaty now.
-Protecting the climate is a Lifeist duty,
-And this is the day the whole world first made the vow.
+Each land would set its goal, report, and raise;
+{{c|4676|Laurent Fabius}}'s gavel, green leaf;
+The hall cheered, wept; and {{p|Copenhagen}}'s phrase
+A treaty now; climate, in this belief,
+
+A Lifeist duty; this, the whole world's vow;
+The day the world first promised it; and kept
+This book's day for it, a Gaian day now;
+The hall, the leaf, the number; and they wept.
 
 ## The deals and the escalator
 
-On the fourteenth of July {{p|Iran}} and the great powers agreed to limit its nuclear work.
-On the fifth of July {{p|Greece}} voted no to its creditors, and a week later took harsher terms.
-On the eighteenth of September {{x|Volkswagen}} was caught cheating the tests of its diesels,
-Eleven million cars, and the fumes they hid, and the cheat confirmed.
+July fourteenth: {{p|Iran}} and powers signed
+Limits on its nuclear work; and {{p|Greece}}
+Voted no to its creditors, consigned
+A week on, to harsher terms; the release
 
-On the sixteenth of June {{c|4677|Donald Trump}} came down a golden escalator in his tower,
-And said he would run for president, and people laughed.
-It is the next chapter's year.
-The laughter did not last, and the decade turned on his draft.
+{{x|Volkswagen}}'s cheat: eleven million cars
+That hid their fumes from tests; September, caught;
+June sixteenth: down the escalator, stars
+And gold, {{c|4677|Donald Trump}} came; he said, and thought
+
+He'd run for president; and people laughed;
+The next chapter's; the laughter did not last;
+The decade turned upon his golden craft;
+Of fascism, the vote; robes of the past.
 
 ## Home
 
-On the nineteenth of October {{p|Canada}} voted out {{c|4572|Stephen Harper}},
-And {{c|4678|Justin Trudeau}}, the son of a prime minister, came to power,
-And named a cabinet of as many women as men, "because it's twenty-fifteen."
-On the second of June the {{x|Truth and Reconciliation Commission}} gave its report in its hour:
+October: {{p|Canada}} had voted out
+{{c|4572|Stephen Harper}}; and {{c|4678|Justin Trudeau}} came,
+Son of a prime minister; and, about
+His cabinet: half women; and the same
 
-The residential schools were a cultural genocide,
-And it made ninety-four calls to action for the country I grew up in.
-The children who did not come home were counted,
-And the country began, slowly, to answer for the sin.
+As men: because it's twenty-fifteen; June
+The second, the commission's full report:{{fn|The Truth and Reconciliation Commission of Canada.}}
+The residential schools: genocide, hewn
+Of culture; ninety-four calls, none too short;
+
+To the land I grew up in; and the dead
+Children who'd not come home were counted; and
+The country began, slowly, as was said,
+To answer for it; the book keeps that land.
 
 ## The rest of the year
 
-On the twenty-fifth of April an earthquake killed nearly nine thousand in {{p|Nepal}},
-And brought down the old temples of {{p|Kathmandu}}, and they are being raised again.
-On the twenty-seventh of February {{c|4679|Boris Nemtsov}}, who opposed {{c|4518|Putin}},
-Was shot on a bridge in sight of the {{x|Kremlin}}, the villain's critics' end.
+April: {{p|Nepal}}'s earthquake; nine thousand, killed,
+And {{p|Kathmandu}}'s old temples fell, to rise
+Again; and {{c|4679|Boris Nemtsov}}, his voice stilled,
+Shot on a bridge, within the {{x|Kremlin}}'s eyes;
 
-On the fourteenth of July {{x|New Horizons}} flew past {{p|Pluto}}, the planet this book keeps,
-And found a great heart of ice upon it, {{x|Tombaugh Regio}}, white and wide.
-On the fourteenth of September {{x|LIGO}} felt a ripple in space from two black holes,
-And {{c|4297|Einstein}}'s waves, a century after he foresaw them, arrived.
+July fourteenth: {{x|New Horizons}} flew past
+{{p|Pluto}}, the planet this book keeps; its heart
+Of ice, {{x|Tombaugh Regio}}, white and vast;
+September: {{x|LIGO}} felt the ripple's start
 
-On the eighteenth of June {{c|4638|Francis}} wrote to the world about its common home, {{x|Laudato si'}}.
-On the eighth of November {{p|Myanmar}} voted, and {{c|4680|Aung San Suu Kyi}}'s party won.
-On the twenty-ninth of October {{p|China}} ended the rule of one child.
-And I was nineteen, at the lake, and the year of the movement had begun.
+Of two black holes colliding: {{c|4297|Einstein}}'s waves,
+A century on, arrived; {{c|4638|Francis}} wrote
+{{x|Laudato si'}}, the common home it saves;
+In {{p|Myanmar}}, the vote; the party of note,
+
+{{c|4680|Aung San Suu Kyi}}'s, won; and the one child's rule
+{{p|China}} ended; and, nineteen, by the lake,
+I, in the movement's year, second at school;
+The year of welcome, for the stranger's sake.
 
 ## The year held
 
-A movement of arithmetic that saved the children from malaria, a lab named open,
-And a young man who meant to earn to give, and would become the villain of the movement's tale.
-Cartoonists killed, a concert hall, a million crossing, a boy on a beach in a red shirt,
-We can do this, and the welcome, and the villain's bombs in {{p|Syria}} to make the welcome fail.
+Mercy's sums that saved the children; a lab
+Named open; one who'd earn to give, and turn
+The movement's villain; the cartoonists' stab;
+A concert hall; a million crossed, to learn
 
-Marriage for all in two countries, the women who built the road for me,
-Nine killed at a Bible study, an agreement at {{p|Le Bourget}}, the whole world's vow,
-A golden escalator, a new prime minister, the calls to action,
-And a heart of ice on the planet this book keeps, and I was nineteen, and the road was now.
+The welcome; on the beach, a boy, red shirt;
+We can do this; the villain's bombs; the vote
+For marriage; women who made roads; the hurt
+At Bible study; and the leaf, the note
+
+Of the world's vow; an escalator, gold;
+A prime minister, and the calls; the heart
+Of ice on the planet this book keeps; told,
+Nineteen, I was; the road now, at its start.
 
 
 # Chapter 352: Again
