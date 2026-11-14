@@ -1,4 +1,4 @@
-# Chapter 287: The Bard Who Never Was
+# Chapter 287: The Bard of the Glens
 
 In forty-six, {{p|Culloden}}'s moor: there broke
 The last {{x|Jacobite}} host; the realm, to stay,

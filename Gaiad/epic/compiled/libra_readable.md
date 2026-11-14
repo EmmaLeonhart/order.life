@@ -519,7 +519,7 @@ Of the weaver's lever: many hands, free;
 Write knowledge down, and make it free, and great.
 
 
-# Chapter 287: The Bard Who Never Was
+# Chapter 287: The Bard of the Glens
 
 In forty-six, {{p|Culloden}}'s moor: there broke
 The last {{x|Jacobite}} host; the realm, to stay,
