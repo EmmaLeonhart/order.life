@@ -27616,25 +27616,10 @@ As at {{p|Göbekli Tepe}} it had been shown,
 Greater for thousands of years; none laid down
 A purer bond of faith to work in stone.
 
-In one narrow sense, they were most devout
-Of any people in the human line;
-And so the warning: if the work runs out
-Ahead of field and harvest, then the shrine
-
-Devours the hands that raise it. The wrong
-Is not the temple; building can outrun
-The ground beneath it; and the isle, ere long,
-Was stripped, its trees and fields and harvest done.
-
-Small island, fervent faith, the building spree,
-And then the crash, and then the island's fall:
-{{p|Malta}} was first, a warning, as we see,
-That few who came thereafter heard at all.
-
-Was this a tragedy, or was it great?
-Both, without laughter and without a blame;
-And each of them, the two, has equal weight;
-And so we tell them both, and both the same:
+Of all who raised a house to gods, they gave
+The most, and held back nothing for the wall;
+Their bread became the stone above the grave,
+And stone outlasted bread, and wall, and all.
 
 The temples splendid, and the builders dead;
 Their gods remembered now by none who live;
@@ -27646,15 +27631,15 @@ The spirals and the lobes, the wind that blows
 Along the empty corridors; and still,
 In {{p|Valletta}}, glassed, the {{p|Fat Lady}}'s pose.
 
-Honor them: builders who built past their store;
+Honor them: builders who gave all their store;
 The priests who led the work; the women's hands
 That shaped the mother out of clay; the corps
 Of farmers whose surplus fed stone, till lands
 
 Ran out: the whole people that set the shrine
-Above itself, and perished by the choice.
+Above itself, and made its gods its choice.
 {{p|Malta}}: first temple people in the line
-Since {{p|Göbekli Tepe}}; the first warning voice.
+Since {{p|Göbekli Tepe}}, the gods' first true voice.
 
 The first loss: in the human age, the first
 Civilization whose remembered name
