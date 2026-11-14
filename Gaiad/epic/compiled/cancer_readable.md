@@ -823,7 +823,7 @@ And Marco Polo served Kublai; he wrote
 The coal they burned, the posts, the roads of note,
 The canals; and the {{p|West}} read it, with thrills.
 
-Polo reached {{p|China}}, served the Khan, and wrote
+Polo reached {{p|China}}, served the Khan, and wrote^[Some historians, among them Frances Wood, have argued that Polo never reached China; most hold that he did.]
 What he had seen, and did not overstate:
 The things it told were true, and kept afloat
 The {{p|West}}'s desire for the {{p|East}}'s rich freight.

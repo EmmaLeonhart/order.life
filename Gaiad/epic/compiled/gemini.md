@@ -468,7 +468,7 @@ In {{p|Athens}}' market, in a jar; and then
 The great {{c|2381|Alexander}} once came to where
 
 He lay, and asked what he could do for him,
-{{c|2401|Diogenes}} said: just stand out of my sun.
+{{c|2401|Diogenes}} said: just stand out of my sun.{{fn|The meeting of Alexander and Diogenes is told by Plutarch and Diogenes Laertius, centuries later; historians doubt it happened as told.}}
 The conqueror of all could not, by whim,
 Give anything to one who needed none.
 
@@ -935,7 +935,7 @@ Joined the old walls, the {{p|Great Wall}}, northward run,
 Against the {{p|Xiongnu}}; he burned the books
 Not useful to his rule; buried alive
 Four hundred sixty scholars; and he looks
-To {{p|Legalism}}, the way that he'd thrive:
+To {{p|Legalism}}, the way that he'd thrive:{{fn|The burning of the books and burying of the scholars is told by Sima Qian, a historian of the Han, the dynasty that overthrew the Qin; some historians think the account exaggerated.}}
 
 {{c|2444|Han Feizi}}'s way: that men are selfish, and
 Hard laws, the same for all, with clear reward
@@ -1734,7 +1734,7 @@ In woman's dress, a charioteer's; too,
 Would be called lady; and he sought, beside,
 
 The surgeons, to be made a woman whole.
-And he was lady, and was named as so;
+And he was lady, and was named as so;{{fn|The accounts of Elagabalus come from Cassius Dio and Herodian, who were hostile to him, and from the later Historia Augusta, which is often unreliable.}}
 He dressed, and ruled, and danced, the sun his soul,
 And all of {{p|Rome}} would see him come and go.
 

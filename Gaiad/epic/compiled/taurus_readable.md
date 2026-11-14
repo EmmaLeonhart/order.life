@@ -2979,7 +2979,7 @@ The rites, {{p|Book of Changes}}, and the {{p|Annals}};
 And beauty's tied to goodness; and he longs
 To shape his feeling through the old channels.
 
-Laozi, the Old Master, kept the scrolls
+Laozi, the Old Master, kept the scrolls^[Many historians doubt that Laozi was a single historical person, and date the Daodejing to the fourth century BCE or later.]
 Of the {{p|Zhou}} court, and older far than Kong;
 Confucius came to him; of all his goals
 He told him: let them go; your wish so strong

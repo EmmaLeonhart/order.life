@@ -30268,7 +30268,7 @@ The rites, {{p|Book of Changes}}, and the {{p|Annals}};
 And beauty's tied to goodness; and he longs
 To shape his feeling through the old channels.
 
-Laozi, the Old Master, kept the scrolls
+Laozi, the Old Master, kept the scrolls^[Many historians doubt that Laozi was a single historical person, and date the Daodejing to the fourth century BCE or later.]
 Of the {{p|Zhou}} court, and older far than Kong;
 Confucius came to him; of all his goals
 He told him: let them go; your wish so strong
@@ -30795,7 +30795,7 @@ In {{p|Athens}}' market, in a jar; and then
 The great Alexander once came to where
 
 He lay, and asked what he could do for him,
-Diogenes said: just stand out of my sun.
+Diogenes said: just stand out of my sun.^[The meeting of Alexander and Diogenes is told by Plutarch and Diogenes Laertius, centuries later; historians doubt it happened as told.]
 The conqueror of all could not, by whim,
 Give anything to one who needed none.
 
@@ -31262,7 +31262,7 @@ Joined the old walls, the {{p|Great Wall}}, northward run,
 Against the {{p|Xiongnu}}; he burned the books
 Not useful to his rule; buried alive
 Four hundred sixty scholars; and he looks
-To {{p|Legalism}}, the way that he'd thrive:
+To {{p|Legalism}}, the way that he'd thrive:^[The burning of the books and burying of the scholars is told by Sima Qian, a historian of the Han, the dynasty that overthrew the Qin; some historians think the account exaggerated.]
 
 Han Feizi's way: that men are selfish, and
 Hard laws, the same for all, with clear reward
@@ -32061,7 +32061,7 @@ In woman's dress, a charioteer's; too,
 Would be called lady; and he sought, beside,
 
 The surgeons, to be made a woman whole.
-And he was lady, and was named as so;
+And he was lady, and was named as so;^[The accounts of Elagabalus come from Cassius Dio and Herodian, who were hostile to him, and from the later Historia Augusta, which is often unreliable.]
 He dressed, and ruled, and danced, the sun his soul,
 And all of {{p|Rome}} would see him come and go.
 
@@ -34083,7 +34083,7 @@ And Marco Polo served Kublai; he wrote
 The coal they burned, the posts, the roads of note,
 The canals; and the {{p|West}} read it, with thrills.
 
-Polo reached {{p|China}}, served the Khan, and wrote
+Polo reached {{p|China}}, served the Khan, and wrote^[Some historians, among them Frances Wood, have argued that Polo never reached China; most hold that he did.]
 What he had seen, and did not overstate:
 The things it told were true, and kept afloat
 The {{p|West}}'s desire for the {{p|East}}'s rich freight.
@@ -36617,7 +36617,7 @@ A lesser feat. And there are signs, still found:
 Phoenician script; the Roman jars, dredged up
 From {{p|Guanabara Bay}}; and, in the slain,
 Embalmed Egyptian dead, the coca's cup
-And nicotine, uncrossed, none could explain.
+And nicotine, uncrossed, none could explain.^[The Paraíba inscription from Brazil has been debated for well over a century and is widely held to be a forgery; the provenance of the Roman amphorae reported from Guanabara Bay is disputed; and the reports of cocaine and nicotine in Egyptian mummies are contested.]
 
 Mulek, son of Zedekiah, the last
 Of {{p|Judah}}, fallen to {{p|Babylon}}; lit
@@ -37562,7 +37562,7 @@ His shame, and barred him {{p|Tula}}'s throne and state.
 
 He walked east, the sea his last desire,
 And at the {{p|Gulf}}'s edge, weeping and bereft,
-Set himself free: burned upon a pyre
+Set himself free: burned upon a pyre^[The sources give both endings: in one, Quetzalcoatl burns himself and his heart rises as the morning star; in the other, he sails east on a raft of serpents.]
 His heart became the morning star; and left,
 
 He sailed away, the raft's light growing dim

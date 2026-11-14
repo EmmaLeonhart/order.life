@@ -784,7 +784,7 @@ A lesser feat. And there are signs, still found:
 {{c|3449|Phoenician}} script; the {{c|3340|Roman}} jars, dredged up
 From {{p|Guanabara Bay}}; and, in the slain,
 Embalmed {{c|3454|Egyptian}} dead, the coca's cup
-And nicotine, uncrossed, none could explain.
+And nicotine, uncrossed, none could explain.{{fn|The Paraíba inscription from Brazil has been debated for well over a century and is widely held to be a forgery; the provenance of the Roman amphorae reported from Guanabara Bay is disputed; and the reports of cocaine and nicotine in Egyptian mummies are contested.}}
 
 {{c|3456|Mulek}}, son of {{c|2271|Zedekiah}}, the last
 Of {{p|Judah}}, fallen to {{p|Babylon}}; lit
@@ -1729,7 +1729,7 @@ His shame, and barred him {{p|Tula}}'s throne and state.
 
 He walked east, the sea his last desire,
 And at the {{p|Gulf}}'s edge, weeping and bereft,
-Set himself free: burned upon a pyre
+Set himself free: burned upon a pyre{{fn|The sources give both endings: in one, Quetzalcoatl burns himself and his heart rises as the morning star; in the other, he sails east on a raft of serpents.}}
 His heart became the morning star; and left,
 
 He sailed away, the raft's light growing dim
