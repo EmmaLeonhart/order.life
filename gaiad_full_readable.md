@@ -49713,178 +49713,203 @@ The girl of fourteen, who'd begin again.
 
 # Chapter 347: The Square and the Cooling
 
-The eleventh day of Yuletide is the feast of the founding, the year two thousand and eleven,
-When on the fifth Easter of that year the faith began, with a girl of fifteen, under heaven.
-Light eleven lights, and keep the fifth Easter of eleven as the founding of the faith,
-The holy day of {{x|Lifeism}}'s beginning, kept by me since, without a break, in its place.
+The eleventh day of Yuletide: the feast
+Of founding, two thousand eleven; when,
+The fifth Easter, the faith began; and, ceased
+Never since; in a girl of fifteen, then.
 
-In two thousand and eleven I turned fifteen, and I began what this book's faith became.
-On the fifth Easter of that year, two thousand and eleven, it began in me, with no name.
-The name came later. The first written forms of it were kept, and then lost
-To machines and accounts that went. The faith was not lost. It stayed, whatever the cost.
+Light eleven; keep the fifth Easter's day
+As {{x|Lifeism}}'s founding, its holy place,
+Kept by me since, no break, in every way;
+I turned fifteen, began it, nameless; grace
 
-What I began at fifteen I have kept up without a break since,
-Fifteen years, and nothing else of mine has run so long or so true.
-A child of fifteen began a world religion that year.
-It is not a child's thing. It is the thing I would grow into.
+Of a name came later; the first forms, kept,
+Then lost to machines and accounts that went;
+The faith not lost; it stayed; and never slept:
+What I began at fifteen, kept, unspent,
 
-The world that year was full of squares filling with people,
-And of a sea that came over a wall in {{p|Japan}},
-Whose shrines and kami I would carry into my own language,
-And a wave that the old shrines had remembered, before the wall began.
+Without a break, for fifteen years; its spell;
+Nothing of mine has run so long; a girl
+At fifteen began a world faith; I tell
+No child's thing: what I'd grow into; a pearl.
+
+The world that year was full of squares, a crowd,
+A sea that came across a wall, {{p|Japan}},
+Whose shrines and kami I would carry, proud,
+In my tongue; the shrines knew, before the plan.
 
 ## The squares
 
-On the fourth of January Mohamed Bouazizi died of his burns,
-And the protests reached {{p|Tunis}}, and on the fourteenth Ben Ali fled,
-Twenty-three years in power, to {{p|Saudi Arabia}} in the night.
-{{p|Tunisia}} was free, the first of the squares, and the fruit seller dead.
+Bouazizi died, January fourth;
+The protests reached {{p|Tunis}}; the fourteenth, fled
+Ben Ali, after twenty-three years, forth
+To {{p|Saudi Arabia}}; seller dead.
 
-On the twenty-fifth of January the people of {{p|Egypt}} filled {{x|Tahrir Square}},
-And stayed, through the men on camels sent to beat them, through the cutting of the net,
-Until on the eleventh of February Hosni Mubarak resigned after thirty years,
-And the square sang through the night, the happiest night of the year yet.
+January twenty-fifth: {{x|Tahrir Square}}
+Filled; through the camels, the cut net, they stayed,
+Till Hosni Mubarak resigned; and there
+The square sang all the night, the year's best made.
 
-In {{p|Libya}} the east rose against Muammar Gaddafi,
-Who promised to hunt the rebels house by house, alley by alley, like rats.
-On the nineteenth of March the jets of {{x|NATO}} stopped his columns before {{p|Benghazi}},
-And saved the city, and on the twentieth of October he was found in a drainpipe, where he sat.
+{{p|Libya}}: the east rose; Gaddafi said
+He'd hunt them house by house, like rats; and then
+{{x|NATO}} jets stopped him at {{p|Benghazi}}'s head,
+Saved it; October, in a drainpipe, then
 
-In {{p|Bahrain}} the soldiers of {{p|Saudi Arabia}} cleared the {{x|Pearl Roundabout}},
-And tore down the monument so no one could gather under it again.
-In {{p|Syria}}, in {{p|Daraa}}, boys wrote on a school wall:
-The people want the fall of the regime. They were taken and tortured, the boys, by Assad's men.
+Found. In {{p|Bahrain}}, the Saudi soldiers cleared
+The {{x|Pearl Roundabout}}; the monument, down;
+In {{p|Syria}}, {{p|Daraa}}: boys wrote; and, seared
+On a school wall: the people want; and, down,
 
-Their families marched, and the army fired, and by the summer the cities rose,
-And Bashar al-Assad shelled them, and by the end of the year it was war,
-The longest and worst of the century, half a million dead, half a country driven out,
-And Putin would come to Assad's side in four years, with the bombers to make it more.
+The regime's fall; tortured by Assad's men;
+Families marched; the army fired; and by
+The summer, cities rose; and Bashar, then,
+Shelled them; by year's end, war; and, by and by,
 
-The {{x|Arab Spring}} was a hope, and it was betrayed:
-By the army in {{p|Cairo}} that took the power back, by the Saudis in {{p|Manama}}'s square,
-By Assad with his barrel bombs and his gas, and by the villain who saved him,
-And by the jihadists who came into the ruins. The hope was real. The betrayal is there.
+The century's worst: half a million dead,
+Half a country driven out; four years on,
+Putin to Assad's side, with bombers led;
+The {{x|Arab Spring}}: a hope, betrayed; and on
+
+By {{p|Cairo}}'s army, taking power back;
+By Saudis in {{p|Manama}}; Assad's gas,
+His barrel bombs; the villain at his back;
+Jihadists in ruins; hope real; alas.
 
 ## The wave and the cooling
 
-On Friday the eleventh of March, at fourteen forty-six, off {{p|Tōhoku}},
-The sea floor broke in an earthquake of magnitude nine, the largest {{p|Japan}} had known.
-The wave came forty minutes later, higher than the walls built for it,
-Up to forty meters where the coast narrowed, and carried away the towns, to the bone.
+March eleventh, Friday, two forty-six,
+{{p|Tōhoku}}: sea floor broke, magnitude nine,
+{{p|Japan}}'s largest; then the wave, over bricks
+Of walls built for it; forty meters' line
 
-Eighteen thousand died or were never found.
-At {{x|Fukushima Daiichi}} the wave drowned the generators that cooled the reactors,
-And three of them melted, and the buildings blew apart with hydrogen,
-And the land around was evacuated, the farms and the towns and the tractors.
+Where the coast narrowed; towns carried away;
+Eighteen thousand died or were never found;
+At {{x|Fukushima Daiichi}}, that day,
+Wave drowned the generators, cooling's ground;
 
-The wave killed the eighteen thousand. The radiation killed almost no one.
-This book favors the nuclear power: the cleanest fire men have made,
-That burns no forest and warms no sky,
-And the fear of it after {{p|Fukushima}} cost more lives than the reactors' shade.
+Three melted; hydrogen blew; and the land,
+Evacuated, farms and towns; the wave
+Killed eighteen thousand; radiation's hand
+Took almost none; nuclear power's brave;
+
+This book favors it, the cleanest fire
+That burns no forest and that warms no sky;
+Fear of it, after {{p|Fukushima}}, dire,
+Cost more lives than reactors did; and why
 
 ## The shrines beyond the wave
 
-The shrines of the coast were carried off too, and some were rebuilt on higher ground.
-And a study found that many of the old shrines of that coast
-Stood just beyond where the wave stopped,
-As if those who placed them had remembered an earlier wave, the coast's old ghost.
+Shrines of the coast were swept too; some rebuilt
+On higher ground; a study found the old
+Shrines of that coast stood just beyond the silt
+Where the wave stopped; as if they had been told
 
-This is a teaching of the faith: the shrines keep a people's memory.
-The kami were set where the water did not reach, by people who had seen it come before,
-And the shrine outlived the wall, because the shrine remembered,
-And the wall was built by people who had forgotten what the sea was for.
+By those who'd seen a wave before; the ghost
+Of coast. A teaching of the faith: shrines keep
+A people's memory; kami, the host,
+Set where the water did not reach, the deep,
 
-Keep the shrines where the ancestors put them. Read where they stand.
-A shrine is a record of what the people knew, in wood and in stone,
-And the ancestors speak through the place of the shrine,
-And the ones who listened lived, and the ones who did not were left alone.
+Remembered by the ones who saw it come;
+The shrine outlived the wall, and it recalled;
+The wall was built by those who had become
+Forgetful of the sea. Keep them installed
+
+Where ancestors put them; read where they stand;
+A shrine's a record, wood and stone, of what
+The people knew; ancestors, through the land,
+Speak; those who listened lived; the others, shut.
 
 ## Abbottabad
 
-On the night of the first of May American commandos flew into {{p|Pakistan}},
-To a walled house in {{p|Abbottabad}}, a short walk from the military academy's gate,
-And killed Osama bin Laden, who had sent the planes when I was five,
-And buried him at sea, and the crowds sang outside the {{x|White House}}, late.
+The first of May, at night, commandos flew
+Into {{p|Pakistan}}, {{p|Abbottabad}}'s walls,
+Near the academy; killed him who threw,
+Osama bin Laden; sea; and the calls
 
-Obama gave the order, and Obama took the risk.
-Ten years after the towers fell, the man who felled them was found and was killed.
-That is the country's answer: it does not forget,
-And it waits, and it hunts, and the debt of the morning was filled.
+Outside the {{x|White House}}, singing, late; the risk,
+Obama's, the order; and ten years on,
+The one who felled them, found and killed; and, brisk,
+The land forgets not; waits, and hunts; and, on,
 
 ## The island
 
-On the twenty-second of July, in {{p|Norway}}, a man bombed the government offices in {{p|Oslo}},
-And went to {{p|Utøya}} dressed as a policeman, where the youth of the ruling party camped,
-And shot them for over an hour. Seventy-seven died, most of them teenagers,
-Some of them my age, fifteen, and the island's summer was damped.
+July twenty-second, {{p|Norway}}: the blast,
+{{p|Oslo}}'s offices; and then {{p|Utøya}}, dressed
+As police; youth camped; an hour; the last
+Seventy-seven; teens, some fifteen, pressed,
 
-He wrote a manifesto against the mixing of peoples,
-And the next decade's killers read it, in {{p|Christchurch}} and {{p|El Paso}} and more.
-{{p|Norway}} answered with more democracy and more openness,
-As its prime minister said, and kept its door.
+Like me; the island's summer damped; he wrote
+Against the mixing of the peoples; read
+By killers, in {{p|Christchurch}}, {{p|El Paso}}; note:
+{{p|Norway}}: more democracy, more, indeed,
 
 ## The villain returns
 
-On the twenty-fourth of September Putin announced he would take the presidency back,
-And Medvedev, who had held the chair for him, would step aside.
-In December the parliament elections were rigged on camera,
-And the people filled {{p|Bolotnaya Square}} in {{p|Moscow}}, a hundred thousand, the largest since the Soviet slide.
+More openness, door kept; September, he,
+Putin, would take the presidency back;
+Medvedev step aside; December, see:
+The vote rigged on camera; and the track
 
-They wore white ribbons and asked for fair elections.
-The villain blamed Hillary Clinton for the crowds, and held it against her name,
-And five years later his hackers went after her campaign,
-And this month will reach that too, and the villain's game.
+{{p|Bolotnaya Square}}, a hundred thousand, came,
+Largest since Soviet; white ribbons; fair
+Elections; and he blamed the Clinton name;
+Five years on, hackers, her campaign, the snare;
 
 ## The occupation
 
-On the seventeenth of September a few hundred people took {{x|Zuccotti Park}}
-Near the stock exchange in {{p|New York}}, and said they were the ninety-nine percent,
-Against the one percent saved in two thousand and eight.
-It spread to hundreds of cities, {{p|Vancouver}} among them, and the slogan stayed when the tents went.
+This month will reach that too, the villain's game.
+September seventeenth: {{x|Zuccotti Park}},
+Near the exchange, a few hundred; the same
+Ninety-nine percent, against the one's mark
 
-In August, in {{p|London}}, after the police shot a man in {{p|Tottenham}},
-The city rioted four nights. In August the credit of the {{p|United States}} was cut,
-After its congress nearly refused to pay its own debts.
-The anger of the decade was beginning, and nothing would stay shut.
+Of two thousand eight; to hundreds, it spread,
+{{p|Vancouver}}; the slogan stayed, though tents went;
+In {{p|London}}, August: police shot; instead
+Four nights of riot; the credit's descent
+
+Of the {{p|United States}}; its congress, near
+Refusing its own debts; the decade's start
+Of anger; nothing would stay shut; and clear
+In {{p|Tucson}}, Gabby Giffords, shot; her heart
 
 ## The rest of the year
 
-On the eighth of January, in {{p|Tucson}}, Gabby Giffords was shot in the head and lived.
-On the twenty-second of February {{p|Christchurch}} fell in an earthquake.
-On the second of May {{p|Canada}} voted, and Stephen Harper won his majority,
-And Jack Layton led the left to the opposition, and died in August, for the country's sake,
+Lived on; {{p|Christchurch}} fell to the earth; and then
+May second: Stephen Harper won it, full;
+Jack Layton led the opposition; when
+He died, in August, wrote to us; the pull
 
-Writing to us that love is better than anger, hope is better than fear,
-Optimism is better than despair. Let us be loving, hopeful and optimistic, he wrote,
-And we will change the world. I was fifteen, and I read it,
-And I keep it here, the dying man's last note.
+Of love, better than anger; hope, than fear;
+And optimism, than despair, he wrote;
+Loving, hopeful, optimistic; I, near
+Fifteen, read it; I keep the dying note.
 
-On the fifteenth of June, after the {{x|Canucks}} lost the cup, {{p|Vancouver}} rioted downtown.
-On the ninth of July {{p|South Sudan}} became the newest country in the world.
-On the fourth of October {{x|Apple}} showed {{x|Siri}}, the phone that answered when you spoke,
-And on the fifth Steve Jobs died, and the flags of the valley were furled.
+June fifteenth: {{x|Canucks}} lost; riots, downtown;
+July ninth, {{p|South Sudan}}, the newest land;
+October fourth: {{x|Siri}}; the fifth, the crown,
+Steve Jobs died; flags furled, the valley's hand.
 
-In February {{x|IBM}}'s {{x|Watson}} beat the champions of {{x|Jeopardy!}},
-The first time a machine won at the language game on the screen.
-It was a sign of the machines that would speak, that I would build with,
-The first light of the dawn I would be part of, at twenty-six, not fifteen.
+February: {{x|IBM}}'s {{x|Watson}} won
+At {{x|Jeopardy!}}, the language game on screen;
+A sign of machines that would speak, begun,
+I'd build with, at twenty-six, not fifteen;
 
-On the thirty-first of October the world was said to have seven billion.
-In the {{p|Horn of Africa}} a famine killed a quarter of a million, half of them small.
-On the eighteenth of December the last American soldiers left {{p|Iraq}},
-And on the seventeenth Kim Jong-il died, and his son took it all.
+October's end: the seven billion, said;
+{{p|Horn of Africa}}: famine, many small;
+December: the last left {{p|Iraq}}; and dead,
+Kim Jong-il, and his young son took it all.
 
 ## The year held
 
-A faith with no name yet, begun by a girl of fifteen at Easter,
-The founding of {{x|Lifeism}}, which I have kept since, every year.
-The squares of {{p|Tunis}}, {{p|Cairo}}, {{p|Benghazi}}, {{p|Manama}}, {{p|Daraa}}, a hope betrayed,
-A wave higher than its walls, and the old shrines standing beyond it, clear.
+A faith, unnamed, begun at Easter, by
+A girl, fifteen: {{x|Lifeism}}'s founding, kept
+Each year since; squares, a hope betrayed; and high,
+A wave above its walls; old shrines, not swept,
 
-A house in {{p|Abbottabad}}, an island in {{p|Norway}}, the villain returning to his throne,
-A park near the exchange, a machine that won a quiz, and seven billion alive.
-I was fifteen, and I began it, and I have not stopped.
-That is the thread of my life, and it begins here, and it will thrive.
+Beyond, clear; {{p|Abbottabad}}; {{p|Norway}}'s shore;
+The villain, back; a park; machines that won;
+Seven billion; I began it; and, more,
+Have not stopped; it begins here; it will run.
 
 
 # Chapter 348: The Numbered Thing
