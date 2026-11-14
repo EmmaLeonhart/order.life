@@ -75,8 +75,8 @@ The intent was cage; the gift, record: same.
 That's the register's nature, and the call
 Of this book too: each list that keeps a name
 
-Can hunt the named. Keep names; keep lists; be few
-Who let no list become a cage. The tread
+Can hunt the named; and keeps them, old and new,
+The living and the dead. And so the tread
 Upon the image: grieve; and give thanks, too,
 For the page kept of one among the dead:
 
