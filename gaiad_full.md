@@ -37351,8 +37351,8 @@ No lasting wound, a meeting, in the course
 
 At the edge of two worlds; a single pin
 Beneath the sedge is what the years preserved.
-But mark this well: the land, and all therein,
-Was never empty; nor the undeserved
+And all the while the land, and all therein,
+Was full of people; nor the undeserved
 
 And passive background were the {{c|3483|Skraelings}}: they
 Were the coast's plenty, people of the shore
