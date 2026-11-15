@@ -227,6 +227,19 @@ def calendar_notes(lines):
     return out
 
 
+WIKIDATA_EXT = Path(__file__).resolve().parent.parent / "wikibase" / "analysis" / "wikidata_external_ids.tsv"
+_WDEXT = {}
+
+
+def wikidata_external_ids():
+    """{qid: [(property, value)]}: the external ids on each Wikidata item (make_wikidata_external_ids.py)."""
+    if not _WDEXT and WIKIDATA_EXT.exists():
+        for row in WIKIDATA_EXT.read_text(encoding="utf-8").splitlines()[1:]:
+            q, pid, val = row.split("\t")
+            _WDEXT.setdefault(q, []).append((pid, val))
+    return _WDEXT
+
+
 # Where an order.life item resolves now (her words named https://order.life/wiki/Item:Q1; the items live on the wiki).
 ORDERLIFE_ITEM = "https://wiki.order.life/wiki/Item:"
 EXID_LINKS = {ORDERLIFE_ITEM: ("order.life", ORDERLIFE_ITEM),
@@ -1075,6 +1088,18 @@ def build(out_path):
             for q in dict.fromkeys(ol):
                 if f"1 EXID {q}" not in fixed:
                     fixed = fixed + [f"1 EXID {q}", f"2 TYPE {ORDERLIFE_ITEM}"]
+            # every external id on the person's Wikidata item, each its own EXID (Emma, 2026-11-15: "all the external
+            # ids on wikidata are over exids"); make_wikidata_external_ids.py writes the table
+            wd = [a[7:].strip() for a, b in zip(fixed, fixed[1:])
+                  if a.startswith("1 EXID Q") and b.strip() == "2 TYPE http://www.wikidata.org/entity/"]
+            have = {(a[7:].strip(), b[7:].strip()) for a, b in zip(fixed, fixed[1:])
+                    if a.startswith("1 EXID ") and b.startswith("2 TYPE ")}
+            for q in dict.fromkeys(wd):
+                for pid, val in wikidata_external_ids().get(q, ()):
+                    t = f"http://www.wikidata.org/entity/{pid}"
+                    if (val, t) not in have:
+                        have.add((val, t))
+                        fixed = fixed + [f"1 EXID {val}", f"2 TYPE {t}"]
         target = imap.get(x)
         if target in grafted:
             keep, prev = [], ""
