@@ -227,7 +227,10 @@ def calendar_notes(lines):
     return out
 
 
-EXID_LINKS = {"http://www.wikidata.org/entity/": ("Wikidata", "https://www.wikidata.org/wiki/"),
+# Where an order.life item resolves now (her words named https://order.life/wiki/Item:Q1; the items live on the wiki).
+ORDERLIFE_ITEM = "https://wiki.order.life/wiki/Item:"
+EXID_LINKS = {ORDERLIFE_ITEM: ("order.life", ORDERLIFE_ITEM),
+              "http://www.wikidata.org/entity/": ("Wikidata", "https://www.wikidata.org/wiki/"),
               "https://www.familysearch.org/tree/person/details/": ("FamilySearch",
                                                                     "https://www.familysearch.org/tree/person/details/"),
               "https://www.geni.com/profile/index/": ("Geni", "https://www.geni.com/profile/index/")}
@@ -1064,6 +1067,14 @@ def build(out_path):
             fixed = [l for i, l in enumerate(fixed) if not l.startswith(("1 FAMC ", "1 FAMS ")) or l not in fixed[:i]]
         if tag == "FAM":   # children in the order the walk numbered them, oldest first
             fixed = fam_children_in_order(fixed)
+        # The order.life item as its own EXID (Emma, 2026-11-15: "I1 (Aster) gets the exid Q1"; "the wiki-based items
+        # are external IDs on the gedcom file"), added before a graft, which keeps EXIDs and drops the REFN.
+        if tag == "INDI":
+            ol = [a[7:].strip() for a, b in zip(fixed, fixed[1:])
+                  if a.startswith("1 REFN Q") and b.strip() == "2 TYPE order.life"]
+            for q in dict.fromkeys(ol):
+                if f"1 EXID {q}" not in fixed:
+                    fixed = fixed + [f"1 EXID {q}", f"2 TYPE {ORDERLIFE_ITEM}"]
         target = imap.get(x)
         if target in grafted:
             keep, prev = [], ""
