@@ -43,7 +43,12 @@ LEGACY = ROOT / "wikibase" / "analysis" / "gaiad_legacy_numbers.tsv"
 TITLE = re.compile(r"^#\s+(?:Chapter\s+\d+:\s*)?(.*)")
 NS = uuid.uuid5(uuid.NAMESPACE_URL, "https://order.life/gaiad/individual/")
 # Emma, 2026-10-29: "Aster's last name is "Alpha" and Andromeda's last name is "Omega"" (the UIDs stay on the bare names).
-FIRST = [("Aster", "Aster"), ("Emma Leonhart", "Emma /Leonhart/ 命玥"), ("Andromeda", "Andromeda")]
+# Emma, 2026-11-15: "from Aster ... Aster, Emma, Andromeda, then down their descendants until we get to the trio of Bios,
+# Viros, and Dedos. And then after that is done in our numbering, then we go on to the like other entities" (order.life
+# Q1-Q9: Aster, Emma, Andromeda, Benzette, Hesper, Quinamette, Bios, Viros, Dedos).
+FIRST = [("Aster", "Aster"), ("Emma Leonhart", "Emma /Leonhart/ 命玥"), ("Andromeda", "Andromeda"),
+         ("Benzette", "Benzette"), ("Hesper", "Hesper"), ("Quinamette", "Quinamette"),
+         ("Bios", "Bios"), ("Viros", "Viros"), ("Dedos", "Dedos")]
 # Their surnames go in SURN only, not in the NAME line (Emma, 2026-10-29: "NAME Aster / Givn Aster / Surn Alpha").
 FIRST_SURN = {"Aster": "Alpha", "Andromeda": "Omega"}
 EMMA_NAMES = ["Emma 李命玥"]  # beside her primary name, Emma /Leonhart/ 命玥 (Emma, 2026-10-16)
