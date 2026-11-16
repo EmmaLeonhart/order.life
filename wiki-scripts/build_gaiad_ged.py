@@ -116,6 +116,20 @@ def early_families(w):
         indi[s].append(f"1 FAMS {f}")
     if fam1 is not None:
         fam1[:] = fam_children_in_order(fam1)
+    # The wiki's items Q1-Q19 were renumbered to match I1-I19 (Emma, 2026-11-15: strip Q4-Q9 and refill, then
+    # Q10-Q19): the first nineteen link to the wiki item of their own number; a dump number in that slot is replaced.
+    for r in recs:
+        m = re.match(r"0 @I(\d+)@ INDI$", r[0])
+        if not m or int(m.group(1)) > len(FIRST):
+            continue
+        keep, i = [r[0]], 1
+        while i < len(r):
+            if r[i].startswith("1 EXID ") and i + 1 < len(r) and r[i + 1].strip() == f"2 TYPE {ORDERLIFE_ITEM}":
+                i += 2
+                continue
+            keep.append(r[i])
+            i += 1
+        r[:] = keep + [f"1 EXID Q{m.group(1)}", f"2 TYPE {ORDERLIFE_ITEM}"]
     # new families after the last FAM record
     last = max((i for i, r in enumerate(recs) if re.match(r"0 @F\d+@ FAM", r[0])), default=len(recs) - 1)
     recs[last + 1:last + 1] = new_fams
