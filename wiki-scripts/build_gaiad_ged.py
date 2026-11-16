@@ -46,9 +46,84 @@ NS = uuid.uuid5(uuid.NAMESPACE_URL, "https://order.life/gaiad/individual/")
 # Emma, 2026-11-15: "from Aster ... Aster, Emma, Andromeda, then down their descendants until we get to the trio of Bios,
 # Viros, and Dedos. And then after that is done in our numbering, then we go on to the like other entities" (order.life
 # Q1-Q9: Aster, Emma, Andromeda, Benzette, Hesper, Quinamette, Bios, Viros, Dedos).
+# Emma, 2026-11-15 ~21:5x: "I1, Aster, I2, Emma, I3, Andromeda, I4, Triangulum, I5, Magellan, I6, Juno, I7, Brunhilde,
+# I8, Ruby, I9, Cristela, I10, Celestella, I11, Gigastella, I12, Rhodes, I13, Marigold, I14, Benzet"; Aster and
+# Andromeda's children are numbered oldest first ("birth order is implicitly coded based off of the IDs"); Emma is not
+# their child but "the present day cosmological force" tying them together.
 FIRST = [("Aster", "Aster"), ("Emma Leonhart", "Emma /Leonhart/ 命玥"), ("Andromeda", "Andromeda"),
+         ("Triangulum", "Triangulum"), ("Magellan", "Magellan"), ("Juno", "Juno"), ("Brunhilda", "Brunhilda"),
+         ("Ruby", "Ruby"), ("Chrystella", "Chrystella"), ("Celestella", "Celestella"), ("Gigastella", "Gigastella"),
+         ("Rhodes", "Rhodes"), ("Marigold", "Marigold"),
          ("Benzette", "Benzette"), ("Hesper", "Hesper"), ("Quinamette", "Quinamette"),
          ("Bios", "Bios"), ("Viros", "Viros"), ("Dedos", "Dedos")]
+# Her families for the early figures (2026-11-15; research/gaiad-early-figures.md in inochi-no-michikyo): the children
+# of Aster and Andromeda (F1), Rhodes son of Ruby, Marigold daughter of Chrystella, Rhodes and Marigold a couple; and
+# "Magellan is just the name of the single Magellan Cloud person": Magellanic is merged into Magellan.
+F1_CHILDREN = ["Triangulum", "Magellan", "Juno", "Brunhilda", "Ruby", "Chrystella", "Celestella", "Gigastella"]
+EARLY_PARENT = [("Ruby", "WIFE", "Rhodes"), ("Chrystella", "WIFE", "Marigold")]
+EARLY_COUPLE = ("Rhodes", "Marigold")
+MERGE_INTO = {"Magellanic": "Magellan"}
+
+
+def early_families(w):
+    """Her early-figure families and the Magellanic merge, applied to the finished record lines."""
+    recs, cur = [], None
+    for l in w:
+        if l.startswith("0 "):
+            cur = [l]
+            recs.append(cur)
+        elif cur is not None:
+            cur.append(l)
+        else:
+            recs.append([l])
+    def first_name(r):
+        return next((l[7:].strip() for l in r if l.startswith("1 NAME ")), "")
+    indi = {}
+    for r in recs:
+        if r[0].startswith("0 @I") and r[0].endswith(" INDI"):
+            nm = first_name(r).split(" /")[0]
+            indi.setdefault(nm, r)
+    xref = lambda r: r[0].split()[1]
+    # Magellanic into Magellan: its citations and names move over; pointers to it go to Magellan
+    remap = {}
+    for src, dst in MERGE_INTO.items():
+        if src in indi and dst in indi:
+            a, b = indi[src], indi[dst]
+            b.extend(l for l in a[1:] if not l.startswith(("1 REFN", "2 TYPE Gaiad", "1 UID", "1 SEX", "1 FAMC", "1 FAMS")))
+            remap[xref(a)] = xref(b)
+            recs.remove(a)
+    nums = [int(re.match(r"0 @F(\d+)@", r[0]).group(1)) for r in recs if re.match(r"0 @F\d+@ FAM", r[0])]
+    nxt = iter(range(max(nums, default=0) + 1, 10 ** 9))
+    fam1 = next((r for r in recs if r[0] == "0 @F1@ FAM"), None)
+    new_fams = []
+    if fam1 is not None:
+        have = {l[7:].strip() for l in fam1 if l.startswith("1 CHIL ")}
+        for nm in F1_CHILDREN:
+            if nm in indi and xref(indi[nm]) not in have:
+                fam1.append(f"1 CHIL {xref(indi[nm])}")
+                indi[nm].append("1 FAMC @F1@")
+    for parent, role, child in EARLY_PARENT:
+        if parent in indi and child in indi:
+            f = f"@F{next(nxt)}@"
+            new_fams.append([f"0 {f} FAM", f"1 {role} {xref(indi[parent])}", f"1 CHIL {xref(indi[child])}"])
+            indi[parent].append(f"1 FAMS {f}")
+            indi[child].append(f"1 FAMC {f}")
+    h, s = EARLY_COUPLE
+    if h in indi and s in indi:
+        f = f"@F{next(nxt)}@"
+        new_fams.append([f"0 {f} FAM", f"1 HUSB {xref(indi[h])}", f"1 WIFE {xref(indi[s])}"])
+        indi[h].append(f"1 FAMS {f}")
+        indi[s].append(f"1 FAMS {f}")
+    if fam1 is not None:
+        fam1[:] = fam_children_in_order(fam1)
+    # new families after the last FAM record
+    last = max((i for i, r in enumerate(recs) if re.match(r"0 @F\d+@ FAM", r[0])), default=len(recs) - 1)
+    recs[last + 1:last + 1] = new_fams
+    out = [l for r in recs for l in r]
+    if remap:
+        pat = re.compile("|".join(re.escape(k) for k in remap))
+        out = [pat.sub(lambda m: remap[m.group(0)], l) for l in out]
+    return out
 # Their surnames go in SURN only, not in the NAME line (Emma, 2026-10-29: "NAME Aster / Givn Aster / Surn Alpha").
 FIRST_SURN = {"Aster": "Alpha", "Andromeda": "Omega"}
 EMMA_NAMES = ["Emma 李命玥"]  # beside her primary name, Emma /Leonhart/ 命玥 (Emma, 2026-10-16)
@@ -1157,6 +1232,7 @@ def build(out_path):
             continue
         i += 1
     w[:] = [bce_years(line) for line in out]
+    w[:] = early_families(w)
     add("0 TRLR")
     out_path = Path(out_path)
     out_path.parent.mkdir(parents=True, exist_ok=True)
