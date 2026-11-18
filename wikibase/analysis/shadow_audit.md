@@ -9,9 +9,9 @@ or fails to exist, because of a filename.
 
 ## Scale
 
-- items read: **165,034**
-- distinct qids: **107,315**
-- qids claimed by more than one file: **39,465**
+- items read: **165,036**
+- distinct qids: **107,196**
+- qids claimed by more than one file: **39,464**
 - of those, qids where the files DISAGREE on parents/children: **0**
 - edges suppressed because the winning file lacks them: **0**
 - edges present ONLY because the winner happens to have them: **0**
