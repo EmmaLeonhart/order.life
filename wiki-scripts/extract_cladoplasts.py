@@ -2,8 +2,9 @@
 Write the Gaiad's cladoplast links to wikibase/analysis/cladoplasts.tsv for the GEDCOM exporter.
 
 "Cladoplast is a Gaiad term" (Emma, 2026-10-12): a character who is the personification of a clade, so the
-tree of life and the family tree are one tree. The wikibase records it as P59 "Cladoplast of", an
-external id holding the Wikidata item of the clade. This reads every item that has P59 and looks up each
+tree of life and the family tree are one tree. The wikibase records it as P74 "Cladoplast of" (P59 until
+2026-11-18, when the wiki's properties were lined up with Wikidata's numbers), an
+external id holding the Wikidata item of the clade. This reads every item that has P74 and looks up each
 clade's English label on Wikidata (read-only, batches of 50).
 
     python wiki-scripts/extract_cladoplasts.py
@@ -23,9 +24,9 @@ OUT = ROOT / "wikibase" / "analysis" / "cladoplasts.tsv"
 UA = "order.life-genealogy/1.0 (https://order.life/; emma@topazcomputing.com)"
 
 
-def p59_values(d):
+def p74_values(d):
     out = []
-    for c in (d.get("claims") or {}).get("P59", []):
+    for c in (d.get("claims") or {}).get("P74", []):
         v = (((c.get("mainsnak") or {}).get("datavalue") or {}).get("value"))
         if isinstance(v, str) and v.strip().startswith("Q"):
             out.append(v.strip())
@@ -36,7 +37,7 @@ def main():
     rows = []
     for f in ITEMS.glob("*.json"):
         txt = f.read_text(encoding="utf-8")
-        if '"P59"' not in txt:
+        if '"P74"' not in txt:
             continue
         try:
             d = json.loads(txt)
@@ -46,7 +47,7 @@ def main():
             continue
         e = d.get("entities")
         d = next(iter(e.values())) if isinstance(e, dict) and e else d
-        for v in p59_values(d):
+        for v in p74_values(d):
             rows.append([f.stem, v])
     clades = sorted({v for _, v in rows}, key=lambda x: int(x[1:]))
     labels = {}

@@ -705,7 +705,7 @@ def build_gedcom7(out_path, extra_lang=None, graft="emma"):
             links.append(f"Geni https://www.geni.com/profile/index/{geni}")
         if links:
             w(f"1 NOTE Links: {'; '.join(links)}")
-        # Cladoplasts: the clade this character personifies (wikibase P59), as a typed FACT, so the tree of life
+        # Cladoplasts: the clade this character personifies (wikibase P74, formerly P59), as a typed FACT, so the tree of life
         # and the family tree sit in one file (Emma, 2026-10-12: "some structured data related to cladoplasts").
         for clade, clabel in cladoplasts.get(qid, []):
             w(f"1 FACT {val(clabel or clade)}")

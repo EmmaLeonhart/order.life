@@ -32,7 +32,7 @@ on the 2026-08-07 run were "Miro II el **Jove**" (Catalan for "the Young"), a do
 names containing **Pan**, "Aurelius **Hermes**" (a Roman freedman), "Iago **Ares**" and
 "Gontrodo **Sol** Rodriguez" (Galician and Spanish surnames), and "**Proteus**
 Ascidiacea", "Proteus", "Helios" and one more from the taxonomic layer -- those last carry
-**`P59` "Cladoplast of"**, which is a clean structural tell that a record is a clade and
+**`P74` "Cladoplast of"** (P59 at the time), which is a clean structural tell that a record is a clade and
 not a person. Also excluded: euhemerised Latin kings whose regnal names contain a god
 ("Jasius II **Mars** Italus, King of Latium", "Faunus I King Of Latium", "Cambo Blascon
 (**Jupiter** II)"), who are human kings in this genealogy, and "BUDHA (planet Mercury)
