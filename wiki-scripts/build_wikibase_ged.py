@@ -35,7 +35,7 @@ for c, ps in parents.items():
     else:                                       # more than two parents: one family per parent (data error kept visible)
         for p in ps:
             fams[(p,)].append(c)
-for cp in couples:
+for cp in sorted(couples):   # sorted: set order changes between runs, and builds should diff cleanly
     fams.setdefault(cp, [])
 
 def date(s):
@@ -81,9 +81,9 @@ with open(OUT, "w", encoding="utf-8", newline="\n") as f:
             w(f"1 EXID {r['wikidata_qid']}"); w("2 TYPE http://www.wikidata.org/entity/")
         if r.get("geni_id"):
             w(f"1 EXID {r['geni_id']}"); w("2 TYPE https://www.geni.com/profile/index/")
-        for fid in famc.get(q, []):
+        for fid in sorted(famc.get(q, []), key=lambda x: int(x[1:])):
             w(f"1 FAMC @{fid}@")
-        for fid in fams_of.get(q, []):
+        for fid in sorted(fams_of.get(q, []), key=lambda x: int(x[1:])):
             w(f"1 FAMS @{fid}@")
     for k, kids in fams.items():
         w(f"0 @{famid[k]}@ FAM")
