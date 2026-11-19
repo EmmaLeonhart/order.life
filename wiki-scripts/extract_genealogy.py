@@ -3,8 +3,8 @@ Extract the genealogy graph from dumped wikibase items.
 
 Produces compact TSVs under wikibase/analysis/:
 - persons.tsv    one row per item with label, sex, dates, external IDs
-- edges.tsv      directed parent -> child edges (from P47/P48/P20)
-- spouses.tsv    undirected spouse pairs (from P42; deduped canonical form)
+- edges.tsv      directed parent -> child edges (from P22/P25/P40)
+- spouses.tsv    undirected spouse pairs (from P26; deduped canonical form)
 - redirects.tsv  filename qid -> internal id, for files whose id differs
 - qa_self_edges.tsv  records listing themselves as their own parent
 - qa_vacated_refs.tsv  claims naming a qid that redirects somewhere else
@@ -20,8 +20,9 @@ persons.tsv by 71,218 rows, and the run has been killed by a bounded runner twic
 An interrupted run now leaves the previous good file untouched.
 
 Parent/child source of truth (which P-IDs carry genealogical meaning):
-  P47 = Father, P48 = Mother, P20 = Child, P42 = Spouse, P55 = Sex,
-  P56 = Date of Birth, P57 = Date of Death.
+  P22 = Father, P25 = Mother, P40 = Child, P26 = Spouse, P55 = Sex,
+  P56 = Date of Birth, P72 = Date of Death. These are wiki.order.life's numbers since 2026-11-18, when its
+  properties were lined up with Wikidata's (before: P47, P48, P20, P42, P57; Wikidata QID P61, now P75).
 
 Edges are deduped so an A--B link present as both Father(A)->Child(B)
 and Child(A)->Parent(B) counts once.
@@ -72,17 +73,17 @@ class AtomicWrite:
         return False
 
 
-P_FATHER = "P47"
-P_MOTHER = "P48"
-P_CHILD = "P20"
-P_SPOUSE = "P42"
+P_FATHER = "P22"  # P47 until 2026-11-18 (wiki.order.life lined up with Wikidata)
+P_MOTHER = "P25"  # P48 until 2026-11-18
+P_CHILD = "P40"  # P20 until 2026-11-18
+P_SPOUSE = "P26"  # P42 until 2026-11-18
 P_SEX = "P55"
 P_BIRTH = "P56"
-P_DEATH = "P57"
+P_DEATH = "P72"  # P57 until 2026-11-18
 P_GEDCOM = "P5"
 P_GIVEN = "P3"
 P_SURNAME = "P4"
-P_WIKIDATA = "P61"
+P_WIKIDATA = "P75"  # P61 until 2026-11-18
 P_GENI = "P62"
 
 

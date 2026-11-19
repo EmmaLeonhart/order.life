@@ -150,14 +150,14 @@ def main():
         e = ents[wd]
         label = (e.get("labels", {}).get("en") or {}).get("value") or first_name[wd]
         desc = (e.get("descriptions", {}).get("en") or {}).get("value", "")
-        claims = {"P61": [{"mainsnak": {"snaktype": "value", "property": "P61",
+        claims = {"P75": [{"mainsnak": {"snaktype": "value", "property": "P75",
                                         "datavalue": {"value": wd, "type": "string"}},
                            "type": "statement", "rank": "normal"}]}
         sex = next((WD_SEX[s] for s in wd_values(e, "P21") if s in WD_SEX), None)
         if sex:
             claims["P55"] = [entity_claim("P55", sex)]
         links = []
-        for wpid, opid in (("P22", "P47"), ("P25", "P48"), ("P40", "P20"), ("P26", "P42")):
+        for wpid, opid in (("P22", "P22"), ("P25", "P25"), ("P40", "P40"), ("P26", "P26")):
             hits = [target[v] for v in wd_values(e, wpid) if v in target]
             if hits:
                 claims[opid] = [entity_claim(opid, h) for h in hits]

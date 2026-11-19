@@ -58,12 +58,12 @@ def load_edges_from_items():
                 continue
             q = d.get("id") or e.name[:-5]
             claims = d.get("claims") or {}
-            for c in claims.get("P20", ()):
+            for c in claims.get("P40", ()):
                 v = ((c.get("mainsnak") or {}).get("datavalue") or {}).get("value")
                 if isinstance(v, dict) and v.get("id"):
                     par[v["id"]].add(q)
                     child[q].add(v["id"])
-            for pid in ("P47", "P48"):
+            for pid in ("P22", "P25"):
                 for c in claims.get(pid, ()):
                     v = ((c.get("mainsnak") or {}).get("datavalue") or {}).get("value")
                     if isinstance(v, dict) and v.get("id"):

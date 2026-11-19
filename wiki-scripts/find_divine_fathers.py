@@ -44,7 +44,7 @@ ROOT = Path(__file__).resolve().parent.parent
 ANA = ROOT / "wikibase" / "analysis"
 ITEMS = ROOT / "wikibase" / "items"
 
-P_FATHER = "P47"
+P_FATHER = "P22"
 
 # Greco-Roman divinities that father heroes, plus the Jesus case. Whole-word matched
 # against the label so "Apollo" does not catch "Apollodotus" or "Apollonius".

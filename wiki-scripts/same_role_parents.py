@@ -51,7 +51,7 @@ ITEMS = ROOT / "wikibase" / "items"
 A = ROOT / "wikibase" / "analysis"
 OUT = A / "qa_same_role_parents.tsv"
 
-FATHER, MOTHER = "P47", "P48"
+FATHER, MOTHER = "P22", "P25"
 
 
 def qnum(q):
@@ -147,7 +147,7 @@ def main():
                 "value", "").strip())
             has_alias = any(a.get("value", "").strip()
                             for a in (d.get("aliases") or {}).get("en", []))
-            has_geneal = any(claims.get(p) for p in (FATHER, MOTHER, "P20", "P42"))
+            has_geneal = any(claims.get(p) for p in (FATHER, MOTHER, "P40", "P26"))
             substantive[q] = (substantive.get(q, False)
                               or has_label or has_alias or has_geneal)
             n += 1

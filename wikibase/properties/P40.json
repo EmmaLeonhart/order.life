@@ -1,24 +1,26 @@
 {
-  "aliases": {},
-  "claims": {},
-  "datatype": "string",
-  "descriptions": {
-    "en": {
-      "language": "en",
-      "value": "External reference number or identifier (GEDCOM REFN field)"
-    }
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "child"
+      }
+    ]
   },
+  "claims": {},
+  "datatype": "wikibase-item",
+  "descriptions": {},
   "id": "P40",
   "labels": {
     "en": {
       "language": "en",
-      "value": "Reference number (deprecated?)"
+      "value": "Child"
     }
   },
-  "lastrevid": 16930622,
-  "modified": "2025-09-08T22:16:51Z",
+  "lastrevid": 17396440,
+  "modified": "2025-09-10T05:13:21Z",
   "ns": 862,
-  "pageid": 202798,
+  "pageid": 17365,
   "title": "Property:P40",
   "type": "property"
 }

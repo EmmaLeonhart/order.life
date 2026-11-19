@@ -23,7 +23,7 @@ ITEMS = REPO / "wikibase" / "items"
 OUT = ANA / "date_precision.tsv"
 
 P_BIRTH = "P56"
-P_DEATH = "P57"
+P_DEATH = "P72"
 
 
 def precision_of(claims, prop):

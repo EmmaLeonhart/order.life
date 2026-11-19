@@ -46,7 +46,7 @@ ANALYSIS = ROOT / "wikibase" / "analysis"
 OUT = ANALYSIS / "qa_vacated_refs.tsv"
 
 # father, mother, child, spouse -- the claims that build edges.tsv and spouses.tsv
-ROLES = {"P47": "father", "P48": "mother", "P20": "child", "P42": "spouse"}
+ROLES = {"P22": "father", "P25": "mother", "P40": "child", "P26": "spouse"}
 
 
 def redirect_map():

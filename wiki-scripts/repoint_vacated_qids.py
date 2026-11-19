@@ -44,7 +44,7 @@ ROOT = Path(__file__).resolve().parent.parent
 ITEMS = ROOT / "wikibase" / "items"
 REDIRECTS = ROOT / "wikibase" / "analysis" / "redirects.tsv"
 
-ROLES = {"P47": "father", "P48": "mother", "P20": "child", "P42": "spouse"}
+ROLES = {"P22": "father", "P25": "mother", "P40": "child", "P26": "spouse"}
 
 
 def redirect_map():

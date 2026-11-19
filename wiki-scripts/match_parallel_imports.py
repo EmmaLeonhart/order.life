@@ -51,7 +51,7 @@ ROOT = Path(__file__).resolve().parent.parent
 ITEMS = ROOT / "wikibase" / "items"
 OUT = ROOT / "wikibase" / "analysis" / "qa_parallel_matches.tsv"
 
-FATHER, MOTHER, CHILD, SPOUSE = "P47", "P48", "P20", "P42"
+FATHER, MOTHER, CHILD, SPOUSE = "P22", "P25", "P40", "P26"
 
 # Hand-verified on 2026-08-16 by walking the three father-chains in parallel, position by
 # position. See wikibase/analysis/maurya_shunga_triples.md. A "-" means that block has no

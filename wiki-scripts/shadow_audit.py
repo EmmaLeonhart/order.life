@@ -29,8 +29,8 @@ ROOT = Path(__file__).resolve().parent.parent
 ITEMS = ROOT / "wikibase" / "items"
 OUT = ROOT / "wikibase" / "analysis" / "shadow_audit.md"
 
-GEN = ("P20", "P47", "P48")  # child, father, mother -- the claims that make edges
-NAMES = {"P20": "child", "P47": "father", "P48": "mother"}
+GEN = ("P40", "P22", "P25")  # child, father, mother -- the claims that make edges
+NAMES = {"P40": "child", "P22": "father", "P25": "mother"}
 
 
 def vals(claims, pid):

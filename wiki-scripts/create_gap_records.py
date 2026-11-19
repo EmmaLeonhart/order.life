@@ -59,26 +59,26 @@ def main():
         if not isinstance(d, dict): continue
         who = d.get("id") or Path(n).stem
         sex = next((value(c) for c in (d.get("claims") or {}).get("P55", [])), None)
-        for pid in ("P20", "P47", "P48", "P42"):
+        for pid in ("P40", "P22", "P25", "P26"):
             for c in (d.get("claims") or {}).get(pid, []):
                 g = value(c)
                 if g not in GAPS: continue
-                if pid == "P20":
-                    if sex in (MALE, FEMALE): found[g]["P47" if sex == MALE else "P48"].add(who)
+                if pid == "P40":
+                    if sex in (MALE, FEMALE): found[g]["P22" if sex == MALE else "P25"].add(who)
                     else: found[g]["P47?"].add(who)
-                elif pid in ("P47", "P48"): found[g]["P20"].add(who)
-                else: found[g]["P42"].add(who)
+                elif pid in ("P22", "P25"): found[g]["P40"].add(who)
+                else: found[g]["P26"].add(who)
     for g, (label, desc, wd, sex) in GAPS.items():
         if (ITEMS / f"{g}.json").exists():
             print(f"{g}: file exists, skipped"); continue
         f = found[g]
         print(f"{g} {label}: " + ", ".join(f"{p} {len(v)}" for p, v in sorted(f.items())))
         if f.get("P47?"): print(f"   parents with no sex, left out: {sorted(f['P47?'])}")
-        claims = {"P61": [{"mainsnak": {"snaktype": "value", "property": "P61",
+        claims = {"P75": [{"mainsnak": {"snaktype": "value", "property": "P75",
                                         "datavalue": {"value": wd, "type": "string"}},
                            "type": "statement", "rank": "normal"}]}
         if sex: claims["P55"] = [entity_claim("P55", sex)]
-        for pid in ("P47", "P48", "P42", "P20"):
+        for pid in ("P22", "P25", "P26", "P40"):
             if f.get(pid): claims[pid] = [entity_claim(pid, q) for q in sorted(f[pid], key=lambda x: int(x[1:]))]
         rec = {"type": "item", "id": g, "labels": {"en": {"language": "en", "value": label}},
                "descriptions": {"en": {"language": "en", "value": desc + " (record created 2026-10-10; "
