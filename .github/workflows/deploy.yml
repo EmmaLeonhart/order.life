@@ -45,6 +45,13 @@ jobs:
       # breaks this ("families or individuals that are not stored properly"). Emma, 2026-10-29.
       - run: python wiki-scripts/check_gedcom_links.py site/gaiad.ged
 
+      # The old Wikibase as its own GEDCOM, beside gaiad.ged, for network analysis (Emma, 2026-11-17: "We can easily
+      # have GitHub Actions build a GEDCOM of the old Wikibase on the site ... I want to do network analysis on it").
+      # Built from the committed family tables; "<private>" records left out.
+      - run: |
+          python wiki-scripts/build_wikibase_ged.py wikibase/analysis site/wikibase.ged
+          python wiki-scripts/check_gedcom_links.py site/wikibase.ged
+
       # The downloads (Emma, 2026-10-14): the English Gaiad as PDF and EPUB, and a zip holding them
       # with the GEDCOM. The zip is a GEDZIP (GEDCOM 7's package: gedcom.ged at the root, media files
       # beside it by relative path), so genealogy programs can open it and attachments can follow.
