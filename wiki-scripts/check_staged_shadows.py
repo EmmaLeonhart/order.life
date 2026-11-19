@@ -27,8 +27,8 @@ ROOT = Path(__file__).resolve().parent.parent
 ITEMS = ROOT / "wikibase" / "items"
 REDIRECTS = ROOT / "wikibase" / "analysis" / "redirects.tsv"
 
-GEN = ("P20", "P47", "P48")
-NAMES = {"P20": "child", "P47": "father", "P48": "mother"}
+GEN = ("P40", "P22", "P25")
+NAMES = {"P40": "child", "P22": "father", "P25": "mother"}
 
 
 def staged_items():
@@ -80,11 +80,16 @@ def main():
     sib = siblings_by_qid()
     problems = []
     checked = 0
+    seen = set()   # each qid's family is checked once: 12,854 files claim Q1, and checking
+                   # the family once per member was 165M reads (2026-11-18)
     for stem in stems:
         d = load(stem)
         if not d:
             continue
         qid = d.get("id") or stem
+        if qid in seen:
+            continue
+        seen.add(qid)
         family = set(sib.get(qid, set())) | {stem, qid}
         family = {f for f in family if (ITEMS / f"{f}.json").exists()}
         if len(family) < 2:

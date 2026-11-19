@@ -49,11 +49,11 @@ def scan():
                 continue
             q = d.get("id") or e.name[:-5]
             claims = d.get("claims") or {}
-            for c in claims.get("P20", ()):
+            for c in claims.get("P40", ()):
                 v = ((c.get("mainsnak") or {}).get("datavalue") or {}).get("value")
                 if isinstance(v, dict) and v.get("id"):
                     parent_side.add((q, v["id"]))
-            for pid in ("P47", "P48"):
+            for pid in ("P22", "P25"):
                 for c in claims.get(pid, ()):
                     v = ((c.get("mainsnak") or {}).get("datavalue") or {}).get("value")
                     if isinstance(v, dict) and v.get("id"):
@@ -62,7 +62,7 @@ def scan():
                 "value", "").strip())
             has_alias = any(a.get("value", "").strip()
                             for a in (d.get("aliases") or {}).get("en", []))
-            has_geneal = any(claims.get(p) for p in ("P47", "P48", "P20", "P42"))
+            has_geneal = any(claims.get(p) for p in ("P22", "P25", "P40", "P26"))
             substantive[q] = (substantive.get(q, False)
                               or has_label or has_alias or has_geneal)
 

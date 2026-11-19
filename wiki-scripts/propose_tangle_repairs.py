@@ -43,7 +43,7 @@ ROOT = Path(__file__).resolve().parent.parent
 A = ROOT / "wikibase" / "analysis"
 ITEMS = ROOT / "wikibase" / "items"
 
-FATHER, MOTHER = "P47", "P48"
+FATHER, MOTHER = "P22", "P25"
 
 
 def parent_roles(qid):
@@ -105,7 +105,7 @@ def substance(qid):
     has_alias = any(a.get("value", "").strip()
                     for a in (d.get("aliases") or {}).get("en", []))
     claims = d.get("claims") or {}
-    has_geneal = any(claims.get(p) for p in (FATHER, MOTHER, "P20", "P42"))
+    has_geneal = any(claims.get(p) for p in (FATHER, MOTHER, "P40", "P26"))
     return "real" if (has_label or has_alias or has_geneal) else "phantom"
 
 # Edges that must never be proposed for cutting, with the source of the decision.
