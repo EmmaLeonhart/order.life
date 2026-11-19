@@ -1606,80 +1606,80 @@ Keep every name the film has brought to light.
 
 # Chapter 325: Left as a Museum
 
-May sixteenth, nineteen sixty-six: inside
-The party in {{p|Beijing}}, a notice went,
-The notification; and, far and wide,
-Its name, {{x|Cultural Revolution}}; meant
+The party in {{p|Beijing}}, one day in May
+Of nineteen sixty-six, sent out a word:
+The {{x|Cultural Revolution}}'s first day,
+Which, for a year, the country never heard.
 
-Not given to the country then; a year
-Before the {{x|People's Daily}} printed; and
-Its sixteen points, the eighth of August; clear,
-Made by the {{x|Central Committee}}'s own hand;
+In June the {{x|People's Daily}} set the aim:
+Four olds to smash, ideas, culture, ways
+And habits. On the eighth of August came
+Sixteen points, the {{x|Central Committee}}'s phrase.
 
-June first, four olds: ideas, culture, ways,
-Customs and habits; which, not written down;
-On August eighteenth, at the gate, the gaze
-Of {{c|4433|Mao Zedong}} on {{c|4434|Red Guards}}; army gown;
+On August eighteenth, at the palace gate,
+{{c|4433|Mao Zedong}} received the {{c|4434|Red Guards}}, in green.
+A million filled the square, and on that date
+{{c|4435|Lin Biao}}: smash all the four olds, sweep clean.
 
-{{c|4435|Lin Biao}}: smash the four; a million filled
-The square; and after, breaking in the town:
-Temples were broken, books were burned; and killed,
-People were beaten; tablets smashed; graves, down;
+In towns the temples broke, the books were burned,
+People were beaten, killed; the tablets, old
+Ancestral names, were smashed, and graves were turned.
+The dead, a million and a half, all told.
 
-A million and a half, the common count,
-Died in those years; some objects, hidden, saved;
-The {{c|4434|Red Guards}}, students, not the whole amount
-Of the country. At {{p|Qufu}}, as engraved,
+At {{p|Qufu}}, which is {{c|1958|Confucius}}' own town,
+His temple, mansion, cemetery stood,
+Kept by the state. When August's guards came down,
+The people who looked after them withstood.
 
-The temple, mansion, cemetery, stood
-Of {{c|1958|Confucius}}, by the state's word preserved;
-In August, those who kept them, as they should,
-Did not give way. November: those who served
+November brought {{c|4436|Tan Houlan}}'s band, who came{{fn|Beijing Normal University.}}
+From {{p|Beijing}}, students of a teachers' school,
+With leave from {{c|4437|Chen Boda}}, and with the same
+From {{c|4438|Qi Benyu}}. This was to be the rule:
 
-{{c|4436|Tan Houlan}}'s group, from {{p|Beijing}}, came, a school's,{{fn|Beijing Normal University.}}
-The twelfth: {{c|4437|Chen Boda}}, {{c|4438|Qi Benyu}}: the word,
-Three charges: leave the mansion, temple; rules:
-The cemetery, as museum; heard:
+Keep temple, mansion; let the graves become
+A museum. But his own grave, they said,
+Could be dug open. So the day would come.
+On the fifteenth, they smashed the stones that read
 
-The grave may be dug. On the fifteenth, stones
-Of the protection, smashed; and at the last
-Days of November, the grave dug; the bones,
-The tombs of {{c|4439|Kong}} broke open; books, amassed,
+"Protected by the state." And at the close
+Of that November, they dug up the grave,
+Broke open {{c|4439|Kong}} family tombs; and rows
+Of books were burned by cartloads, none to save.
 
-Burned by the cart; six thousand relics gone;
-Some hidden by the people of the place;
-The clay is not the rite; and, from then on,
-The keeper of the rites' grave, in disgrace,
+Six thousand relics went. The people there
+Hid some of them, and some of the books too.
+The buildings stood, as ordered, kept with care;
+The grave of the rites' keeper was dug through.
 
-Was opened, though the buildings were to stand.
-This book keeps the {{c|1958|Confucius}}' rite: the dead
-With tablets, offerings, and by the hand
-Of every house; their rite our own, ahead:
+The house of {{c|4439|Kong}} kept up the rite: the dead
+Have tablets, and the living bring them food
+And on feast days, as {{c|1958|Confucius}} had said.
+Their rite is ours, and in us it's renewed.
 
-The quarrel was our own: who keeps the dead,
-The house of {{c|4439|Kong}}, or those who came to break;
-Who holds the rite, the grave, the tablet's bread.
-They kept a museum, for the walls' sake;
+So who would keep the dead: the house of {{c|4439|Kong}},
+Or those who came to break? That was the fight.
+The state kept a museum; walls stood strong,
+But walls are not the dead, nor stone the rite.
 
 A museum is not a sacrifice.
-Some books were hidden by the people there;
+The clay is not the rite. Though walls stood there,
 The rite was ours, and the rite paid the price.
 Our fathers' tablets ask for that same care.
 
-{{c|4433|Mao Zedong}}: September 'seventy-six,
-Ninth, died, {{p|Beijing}}; October sixth: arrests
-By {{c|4440|Hua Guofeng}} of four: {{c|4441|Jiang Qing}}; the mix
-Of {{c|4442|Zhang}}, {{c|4443|Yao}}, and {{c|4444|Wang}}; and the later rests
+In 'seventy-six, in {{p|Beijing}}, that fall,
+{{c|4433|Mao Zedong}} died. Four weeks on, by the hand
+Of {{c|4440|Hua Guofeng}}, the four were seized: in all,
+{{c|4441|Jiang Qing}}, {{c|4442|Zhang}}, {{c|4443|Yao}}, {{c|4444|Wang}} had lost their command.
 
-The name: the {{c|4445|Gang of Four}}; the end, the sign
-That later tellings use; it filled no grave;
-Hold, then, the circular, the four olds' line,
-Museum kept, grave dug; some books they'd save;
+They were the {{c|4445|Gang of Four}}, who bore the blame;
+Their fall is where the later tellings end
+The ten years. The museum stayed the same;
+The rite, which no museum keeps, we tend.
 
-And books were burned. Count May sixteenth; count, too,
-November's last days, and the grave; the name
-Of a tradition and its stone; the two
-Not one; the year struck both; the rite we claim.
+So count from May sixteenth, and count the days
+At {{p|Qufu}} at November's end: the stone
+And the tradition are two things. One stays
+In walls; the other, in the rite, our own.
 
 
 # Chapter 326: The Eagle and the Two Letters
