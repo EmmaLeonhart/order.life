@@ -88,7 +88,7 @@ With them: they're right. I'll build it as I should.
 But that was not the end. Two weeks went on,
 And on a Friday, {{x|Scorpio}} nineteen,
 The news came in, before the day was gone,
-Of what in all the years had never been:
+Of what in all the years had not been seen:
 
 A proof of Riemann's question, which he set
 In eighteen fifty-nine: the endless sum,
