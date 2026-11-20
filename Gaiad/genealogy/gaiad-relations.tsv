@@ -3,6 +3,7 @@
 # Read from the text, chapter by chapter; not inferred from the tags. One row per stated relation. a and b are tags (id|name); relation reads "a <relation> b":
 # made (a made b from herself or her substance), parent (a is parent of b, said outright), line (b follows a in a recited ancestral line: parent and child by order only), partner (lovers/spouses), sibling, descendant (a descends from b, any depth), kin (stated kinship of unclear kind).
 # line = line number in order.life/Gaiad/epic/chapter_NNN.md when read; words = the verse that states it.
+# A copy lives at order.life/Gaiad/genealogy/gaiad-relations.tsv, which order.life/wiki-scripts/build_gaiad_ged.py builds into gaiad.ged (Emma, 2026-11-20); a change here is copied there.
 chapter	line	a	relation	b	words
 1	19	1|Aster	made	3|Andromeda	From yarn, she formed a catgirl, pure and fair, / A lover and companion of her own, / Andromeda
 1	20	1|Aster	partner	3|Andromeda	A lover and companion of her own
