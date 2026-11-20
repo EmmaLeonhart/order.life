@@ -65,6 +65,121 @@ EARLY_COUPLE = ("Rhodes", "Marigold")
 MERGE_INTO = {"Magellanic": "Magellan"}
 
 
+RELATIONS = ROOT / "Gaiad" / "genealogy" / "gaiad-relations.tsv"
+
+
+def scripture_relations(w, key_xref):
+    """Every relationship the Gaiad's verse states (Gaiad/genealogy/gaiad-relations.tsv, read chapter by chapter;
+    Emma, 2026-11-20: "the gaiad.ged thing should have all of the relationships inbuilt into it ... check out the ones
+    that are actually in the scripture"). parent rows become families (a child's stated parents, two at most, together;
+    a third goes to a family of its own), partner rows a family of the two; the looser kinds (sibling, descendant, line
+    = stated only by order in a recited lineage, kin, made) become ASSO links with their words, not parentage. Every
+    family and link cites the chapter, line and words, and says it is scripture-stated."""
+    if not RELATIONS.exists():
+        return w, {}
+    rows = []
+    for l in RELATIONS.read_text(encoding="utf-8").replace("\r", "").split("\n"):
+        f = l.split("\t")
+        if l.startswith("#") or len(f) < 6 or f[0] == "chapter":
+            continue
+        ch, line, a, rel, b, words = f[:6]
+        ka, kb = (a.split("|")[0] if "|" in a else None), (b.split("|")[0] if "|" in b else None)
+        rows.append((int(ch), line, ka, rel, kb, words))
+    starts = {r.split()[1]: i for i, r in enumerate(w) if r.startswith("0 @I") and r.endswith(" INDI")}
+    sex = {}
+    for x, i in starts.items():
+        j = i + 1
+        while j < len(w) and not w[j].startswith("0 "):
+            if w[j].startswith("1 SEX "):
+                sex[x] = w[j][6:].strip()
+            j += 1
+    X = lambda k: key_xref.get(k) if k and key_xref.get(k) in starts else None
+    skipped = 0
+    parents, partner_rows, asso = {}, {}, []
+    for r in rows:
+        ch, line, ka, rel, kb, words = r
+        xa, xb = X(ka), X(kb)
+        if not xa or not xb or xa == xb:
+            skipped += 1
+            continue
+        if rel == "parent":
+            parents.setdefault(xb, {}).setdefault(xa, []).append(r)
+        elif rel == "partner":
+            partner_rows.setdefault(frozenset((xa, xb)), []).append(r)
+        else:
+            asso.append((xa, xb, r))
+    fams = {}   # frozenset(parents) -> {"kids": [], "rows": []}
+    for kid, ps in parents.items():
+        plist = list(ps)
+        groups = []
+        while plist:
+            p = plist.pop(0)
+            mate = next((q for q in plist if frozenset((p, q)) in partner_rows), None)
+            if mate is None and len(plist) == 1 and not groups:
+                mate = plist[0]   # two stated parents of one child form one family
+            if mate:
+                plist.remove(mate)
+                groups.append((p, mate))
+            else:
+                groups.append((p,))
+        for g in groups:
+            fam = fams.setdefault(frozenset(g), {"kids": [], "rows": []})
+            if kid not in fam["kids"]:
+                fam["kids"].append(kid)
+            for p in g:
+                fam["rows"] += ps[p]
+    for pair, rs in partner_rows.items():
+        fams.setdefault(pair, {"kids": [], "rows": []})["rows"] += rs
+    nums = [int(m.group(1)) for r in w for m in [re.match(r"0 @F(\d+)@ FAM", r)] if m]
+    nxt = iter(range(max(nums, default=0) + 1, 10 ** 9))
+    add_to = {}   # INDI xref -> lines to append
+    out_fams = []
+    def cite(r):
+        ch, line, ka, rel, kb, words = r
+        t = words.replace("\n", " ")
+        return ["1 SOUR @S1@", f"2 PAGE Gaiad {ch}, line {line}", "2 DATA", f"3 TEXT {'@' + t if t.startswith('@') else t}"]
+    for ps, fam in fams.items():
+        f = f"@F{next(nxt)}@"
+        ps = sorted(ps, key=lambda x: int(x[2:-1]))
+        roles = ["WIFE" if sex.get(p) == "F" else "HUSB" for p in ps]
+        if len(ps) == 2 and roles[0] == roles[1]:
+            roles = ["HUSB", "WIFE"]   # partner slots; sex is on the person (GEDCOM 7)
+        lines = [f"0 {f} FAM"] + [f"1 {ro} {p}" for ro, p in zip(roles, ps)] + [f"1 CHIL {k}" for k in fam["kids"]]
+        lines.append("1 NOTE Stated in the scripture: the Gaiad's verse (Gaiad/genealogy/gaiad-relations.tsv).")
+        seen = set()
+        for r in fam["rows"]:
+            if (r[0], r[1]) not in seen:
+                seen.add((r[0], r[1]))
+                lines += cite(r)
+        out_fams.append(lines)
+        for p in ps:
+            add_to.setdefault(p, []).append(f"1 FAMS {f}")
+        for k in fam["kids"]:
+            add_to.setdefault(k, []).append(f"1 FAMC {f}")
+    for xa, xb, r in asso:
+        ch, line, ka, rel, kb, words = r
+        add_to.setdefault(xa, []).extend([f"1 ASSO {xb}", "2 ROLE OTHER", f"3 PHRASE {rel} (stated in the scripture, Gaiad {ch}, line {line})"]
+                                         + [l.replace("1 SOUR", "2 SOUR", 1).replace("2 PAGE", "3 PAGE", 1)
+                                             .replace("2 DATA", "3 DATA", 1).replace("3 TEXT", "4 TEXT", 1) for l in cite(r)])
+    out = []
+    i = 0
+    while i < len(w):
+        out.append(w[i])
+        if w[i].startswith("0 @I") and w[i].endswith(" INDI"):
+            x = w[i].split()[1]
+            j = i + 1
+            while j < len(w) and not w[j].startswith("0 "):
+                out.append(w[j]); j += 1
+            out.extend(add_to.get(x, []))
+            i = j
+            continue
+        i += 1
+    for lines in out_fams:
+        out.extend(lines)
+    return out, {"scripture families": len(out_fams), "scripture ASSO links": len(asso),
+                 "scripture rows skipped (no record for a tag, or a tag merged away)": skipped}
+
+
 def early_families(w):
     """Her early-figure families and the Magellanic merge, applied to the finished record lines."""
     recs, cur = [], None
@@ -955,9 +1070,12 @@ def build(out_path):
     resolved = resolved_names() if feats else {}
     n_resolved_text = [0]
 
+    key_xref = {}
+
     def indi(key, name, ged_name, where):
         nonlocal n
         n += 1
+        key_xref.setdefault(key, f"@I{n}@")
         text_num.setdefault(" ".join(name.split()), f"@I{n}@")
         if feats and name not in FIRST_SEX and ged_name == name:
             hit0 = resolved.get(" ".join(name.split()))
@@ -1247,6 +1365,7 @@ def build(out_path):
         i += 1
     w[:] = [bce_years(line) for line in out]
     w[:] = early_families(w)
+    w[:], scripture_stats = scripture_relations(w, key_xref)
     add("0 TRLR")
     out_path = Path(out_path)
     out_path.parent.mkdir(parents=True, exist_ok=True)
@@ -1265,6 +1384,7 @@ def build(out_path):
              "ancestry records given order.life's current Wikidata id and name": n_ident}
     if feats:
         stats.update({f"feature: {k}": v for k, v in sorted(feats.counts.items())})
+    stats.update(scripture_stats)
     stats["gothic names"] = n_gothic
     stats.update(legacy_stats)
     stats["bytes"] = out_path.stat().st_size
