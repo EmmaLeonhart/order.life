@@ -53279,7 +53279,27 @@ The AI is not made for their own good;
 And some who love it may be vexed. I stand
 With them: they're right. I'll build it as I should.
 
-So my year ends upon the midterm day,
+But that was not the end. Two weeks went on,
+And on a Friday, {{x|Scorpio}} nineteen,
+The news came in, before the day was gone,
+Of what in all the years had never been:
+
+A proof of Riemann's question, which he set
+In eighteen fifty-nine: the endless sum,
+Its zeros on one line; and no one yet
+Had proved it, though the greatest minds had come.
+
+Levent Alpöge found it, working through
+With {{x|Claude}}, the help I spoke of, at his side,
+And wrote it out in Lean, where every new
+Step must be checked, and nothing slips aside.
+
+A milestone: so I keep this day a feast
+And name it Riemann Day, for all to keep;
+The greatest of the questions has released
+Its hold upon us, after its long sleep.
+
+So my year ends upon the Riemann Day,
 Begun on Friday in the falling leaves.
 Light the twenty-sixth light. I found my way
 Back to the soul, and to the work it weaves.
