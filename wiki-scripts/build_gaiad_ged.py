@@ -180,6 +180,73 @@ def scripture_relations(w, key_xref):
                  "scripture rows skipped (no record for a tag, or a tag merged away)": skipped}
 
 
+def walk_order_families(w):
+    """Every family renumbered by the walk and written as one block where the families stand (Emma, 2026-11-20: the
+    scripture families, appended after the source records, were mislinked by MyHeritage into her own family's
+    households; a test file with all families walk-ordered in one block imported with 0 wrong of 133,982 links).
+    For each person in I-number order: their spouse families, then their parents' family and each generation above,
+    father's side first; each family gets the next F-number when first reached. People keep their numbers."""
+    recs, cur = [], []
+    for l in w:
+        if l.startswith("0 ") and cur:
+            recs.append(cur); cur = []
+        cur.append(l)
+    if cur:
+        recs.append(cur)
+    fams, indi = {}, {}
+    for r in recs:
+        m = re.match(r"0 (@[^@]+@) (\w+)", r[0])
+        if m and m.group(2) == "FAM":
+            fams[m.group(1)] = r
+        elif m and m.group(2) == "INDI":
+            indi[m.group(1)] = r
+    husb, wife = {}, {}
+    for f, r in fams.items():
+        for l in r:
+            if l.startswith("1 HUSB "): husb.setdefault(f, l.split()[-1])
+            if l.startswith("1 WIFE "): wife.setdefault(f, l.split()[-1])
+    fams_of = {p: [l.split()[-1] for l in r if l.startswith("1 FAMS ")] for p, r in indi.items()}
+    famc = {p: [l.split()[-1] for l in r if l.startswith("1 FAMC ")] for p, r in indi.items()}
+    new, climbed = {}, set()
+
+    def number_family(f):
+        if f in fams and f not in new:
+            new[f] = f"@F{len(new) + 1}@"
+
+    def walk(p):
+        for f in fams_of.get(p, ()):
+            number_family(f)
+        frontier = list(famc.get(p, ()))
+        while frontier:
+            nxt = []
+            for f in frontier:
+                number_family(f)
+                if f in climbed:
+                    continue
+                climbed.add(f)
+                for parent in (husb.get(f), wife.get(f)):
+                    if parent:
+                        nxt.extend(famc.get(parent, ()))
+            frontier = nxt
+    for p in sorted(indi, key=lambda x: int(re.sub(r"\D", "", x) or 0)):
+        walk(p)
+    for f in fams:
+        number_family(f)
+    ptr = re.compile(r"@F\d+@")
+    remap = lambda l: ptr.sub(lambda m: new.get(m.group(0), m.group(0)), l)
+    block = sorted(fams.values(), key=lambda r: int(new[r[0].split()[1]][2:-1]))
+    out, placed = [], False
+    for r in recs:
+        if re.match(r"0 @[^@]+@ FAM", r[0]):
+            if not placed:
+                for fr in block:
+                    out.extend(remap(l) for l in fr)
+                placed = True
+            continue
+        out.extend(remap(l) for l in r)
+    return out
+
+
 def early_families(w):
     """Her early-figure families and the Magellanic merge, applied to the finished record lines."""
     recs, cur = [], None
@@ -1376,6 +1443,7 @@ def build(out_path):
     # The Gaiad legacy numbers held in the pipeline: xrefs, merges, one NOTE per person (Emma, 2026-10-28; gedcom_legacy.py).
     import gedcom_legacy
     w, legacy_stats = gedcom_legacy.apply(w)
+    w = walk_order_families(w)
     out_path.write_text("\n".join(w) + "\n", encoding="utf-8-sig", newline="\n")
     stats = {"text individuals": n_text, "ancestry individuals": n - n_text, "families": nf,
              "text individuals with resolved features": n_resolved_text[0],
