@@ -1,0 +1,163 @@
+# Shared tags broken up into one record per person (Emma, 2026-11-21: "Break up the shared tags"). One row per person:
+# the tag, the chapters where that person is meant, and a name for the record. A chapter not listed for a tag keeps the
+# tag's first person. Read from every chapter's line for the tag and from research/gaiad-relations.tsv's notes.
+# "drop" = in those chapters the tag is a plain word, not a person.
+tag	name	chapters	record name	how it reads
+52	Lava	9	drop	"Lava and ash consumed the peaceful shore": the word
+52	Lava	159	Lava	"Kusha and Lava": Rama's son
+222	Yuri	16	Yuri	"Dipana, Yuri, Proteus arose": the archaeon
+222	Yuri	202,271	Yuri Dolgorukiy	"Anna for his son Yuri", "By Yuri Long-Armed, on its hill, Moscow"
+223	Proteus	16,17	Proteus	Arka's (ch 16) or Hydra's (ch 17) child; father of Alif, Beth, Camilla, Mixo
+223	Proteus	34,40,55	Proteus (son of Ascidaceus)	ch 40: "Ascidaceus then came to bear two more, / And Proteus"; table: "tag 223 is also ch 16-17's Proteus"
+245	Rachel	17	Rachel	"Rachel and Kalia": Alif's daughter
+245	Rachel	154	Rachel (wife of Jacob)	"Rachel's sons more than Leah's"
+358	Myzo	22,26	Myzo	son of Alveolus and Okra (ch 22)
+358	Myzo	37	Myzo (son of Errantius)	table: "tag 358 is also ch 22's Myzo, son of Alveolus"
+392	Esther	23	Esther	"Fair Esther with her soft and gentle eyes"
+392	Esther	38	Adria-Esther	"Fair Adria-Esther"
+392	Esther	45	Esther (ch 45)	"Esther was a daughter, faithful and true"
+392	Esther	169	Esther (queen of Persia)	"Esther, of Judah's house"
+529	Jones	28	Davy Jones	"The riches Davy Jones would guard and keep"
+529	Jones	291	Jones (ch 291)	"To Jones it went, who said it best"
+726	Arthur	35,36	Arthur Ironfoot	"Of Arthur Ironfoot, and tell it well"
+726	Arthur	54	Arthur (The Younger)	"Arthur, and Maxil"; "the sons of Arthur (The Younger)"
+746	Arachnus	36,43,50,59	Arachnus	son of Euthyphro (ch 36)
+746	Arachnus	67,76	Arachnus (son of Minirachne)	"His son Arachnus learned his father's art"; table: "tag 746 is also ch 36's Arachnus"
+1007	Prince	44	Hexaplex	"The Prince named Hexaplex"
+1007	Prince	352	Prince (musician)	"Two days past Blackstar; and Prince, April"
+1093	Peter	46	Peter (Keeper of the Gates)	"Peter, who is the Keeper of the Gates" (ch 46)
+1093	Peter	253	Peter (apostle)	"Peter the fisherman, who thrice denied"
+1093	Peter	295	Peter (father of Jan Pieterszoon)	"Jan Pieterszoon, Peter's son"
+1244	Mesos	50	Mesos	son of Paras (ch 50)
+1244	Mesos	85,87	Mesos (of Paraps' stock)	"But Mesos was not truly Sauros' son ... Of Paraps' stock"; table: "tag 1244 is also ch 50's Mesos"
+1399	Mary	54	Mary (ch 54)	"Mary was she, and this would be her fate"
+1399	Mary	180,254,262,357	Mary (mother of Jesus)	ch 180 "Mary, young, was taken; and she bore"; 254, 262, 357 her again
+1406	Philip	54	Philip (ch 54)	"He bore two sons in time: one, Philip"
+1406	Philip	172	Philip II of Macedon	"Philip died; Alexander, twenty, took"
+1406	Philip	202	Philip II of France	"A quarrel, Philip left; the Lionheart"
+1406	Philip	243	Metacom (King Philip)	"Metacom, whom the English Philip named"
+2019	Jacob	154,156,160,164,166,167,191	Jacob	Isaac's son, and his house
+2019	Jacob	296	Jacob Grimm	"Jacob and Wilhelm Grimm"
+2031	Joseph	154	Joseph (son of Jacob)	"And Joseph, Rachel's son"
+2031	Joseph	180	Joseph (husband of Mary)	"and Joseph took her, and the child"
+3020	Urban	202	Pope Urban II	"The First Crusade; and Urban promised all"
+3020	Urban	221	Urban (cannon-founder)	"Urban's bombard, bronze and gilt"
+3273	Theodora	209	Theodora (senatrix)	"with Theodora, Senatrix of Rome"
+3273	Theodora	256	Theodora Komnene	"To wife Theodora, Despina"
+3045	Richard	221	Richard of York	"Richard of York, whose kind"
+3045	Richard	223	Richard of Gloucester	"and Richard of Gloucester stayed"
+95	Venus	13,14,229,230,269,288	Venus	the planet (personified in ch 13-14, observed in 229-288)
+95	Venus	46	Venus (ch 46)	"His dreams; and Venus was a daughter fair"
+95	Venus	179,215	Venus (goddess)	"of Venus' race" (Aeneas), "Botticelli painted Venus"
+101	Jupiter	13,269	Jupiter	the planet ("Jupiter, Saturn, Uranus, Neptune"; Galileo "at Jupiter")
+101	Jupiter	51,155,184,291	Jupiter (god)	"Dyaus is Jupiter", "under Jupiter's throne"
+1081	Aristotle	45	drop	part of "Aristotle's Lantern" (a sea urchin's mouth), not the man
+1081	Aristotle	170,172,194,215,221,277	Aristotle	the philosopher
+1166	Osiris	48	Osiris (ch 48)	"Osiris, second, of a noble name": a Gaiad figure
+1166	Osiris	145,153,297	Osiris (god)	"he becomes Osiris, lord"
+202	Terra	17	Terra	"Fair Hydra one, and Terra forged in might": the Terrabacteria figure
+202	Terra	15,16,23,29,40,41,42,48	drop	"Terra's land", "Terra's seas", "Terra's rivers": the Earth, a word here
+2265	Ptolemy	174	Ptolemy I	"Ptolemy, Egypt; Seleucus, east"
+2265	Ptolemy	179	Ptolemy XIII	"the boy-king Ptolemy"
+2265	Ptolemy	194,260,297	Claudius Ptolemy	the astronomer ("Galen, Euclid, Ptolemy")
+308	Seth	20	Seth (ch 20)	"For Seth, his son, bore daughters of his own"
+308	Seth	130,131,132,137	Seth (son of Adam)	"His sons were Cain, and Abel, and then Seth"
+308	Seth	154	Set (god)	"joined their Baal and Anat with Seth's way"
+379	Paul	23	Paul (ch 23)	"One Paul, who envied others for their might"
+379	Paul	187	Paul (apostle)	"Of Paul gone out, the gospels gathered"
+379	Paul	264	Paul Xu Guangqi	"A Shanghai scholar, baptized Paul"
+412	Tetra	24	Tetra	"Came Trios and bold Tetra"
+412	Tetra	51,67	Tetra (wife of Minirachne)	"Minirachne, with Tetra, his fair wife"
+478	Scorpio	26	drop	"underneath Scorpio's wintry sign": the sign
+478	Scorpio	51,67	Scorpio	"His youngest son was Scorpio"
+634	Ishmael	32	Ishmael (ch 32)	"Bold Ishmael, who was ready for the fight"
+634	Ishmael	151,191	Ishmael (son of Abraham)	"Of Hejaz and Najd, from Ishmael"
+664	Acanthus	33	Acanthus (the red one)	"Acanthus, the red one"
+664	Acanthus	57,72	Acanthus (son of Chondricthus)	"Acanthus, son of Chondricthus"
+733	Fuxi	36	Fuxi (ch 36)	"And Fuxi, who was wise, and who was strong"
+733	Fuxi	150,280	Fuxi	"Fuxi, who taught the net, the fire, the food"
+1006	Moses	44,48	Moses (son of Hirnan)	"And Hirnan bore two sons, and Moses came"
+1006	Moses	160,180	Moses	"did Moses lead the sons"
+1203	Freyr	49,58	Freyr (husband of Hera)	"From Freyr and Hera's marriage blessed by name"
+1203	Freyr	196	Freyr (god)	"Freyr and Freyja, gods of the fields"
+1308	Abraham	52	Abraham (ch 52)	"They called him Abraham, as was their scheme"
+1308	Abraham	150,151,152,154,191,192	Abraham	"In this world Abraham was born, in Ur"
+1956	David	164,166,167,178	David	the king ("A shepherd, ruddy, David was his name")
+1956	David	295	Jacques-Louis David	"He crowned Joséphine, kneeling; David's bliss": the painter
+3253	Charles	218	Charles VII of France	"see Charles crowned at Reims"
+3253	Charles	254,257	Charles V (emperor)	"For Charles from far Maluku's isles", "young Charles, the emperor"
+3253	Charles	277	Charles II of England	"In sixty, Charles came home"
+3374	Henry	223	Henry VI of England	"And Henry in the Tower"
+3374	Henry	253	Henry IV (emperor)	"Gregory VII; and Henry in the snow"
+3374	Henry	259	Henry VIII	"whose voice King Henry heard"
+2555	Constantine	187,189,253	Constantine the Great	"To Constantine a sign: in this, prevail"
+2555	Constantine	221	Constantine XI	"And Constantine then drew his sword and roared" (1453)
+7	Magellan	1	Magellan	"Triangulum and Magellan clouds wide": the Gaiad figure
+7	Magellan	254	Ferdinand Magellan	"Magellan, Portuguese, who sailed for Spain"
+1968	Horus	145	Horus	"The pharaoh is a god, Horus in flesh"
+1968	Horus	297,299,364	drop	the calendar's Horus days, not the god
+96	Earth	13,14	Earth	the personified planet ("Earth shimmered in the night")
+96	Earth	15,16,17,18	drop	"back to Earth", "divide the Earth": the ground, a word
+9	Princess	1,2	Princess	"At Sagittarius and Princess high"
+9	Princess	24	drop	"A Princess of Dinoflagellus' line": a title
+15	Ruby	3,4	Ruby	"Ruby, the red dwarf"
+15	Ruby	29	drop	part of "Ruby Firedot", a lichen
+97	Mars	13,14	Mars	the personified planet
+97	Mars	184	Mars (god)	"With Mars, the Capitoline three"
+107	Ganymede	13,14	Ganymede	the moon ("Io, Europa, Ganymede, they dance")
+107	Ganymede	58	Ganymede (ch 58)	"Ganymede, then Leotios, who shows"
+167	Xanthus	14	drop	a river on Titan ("Gihon, Kokytos, Vid, and Xanthus flow")
+167	Xanthus	40	Xanthus	"Xanthus the Dinoflagellate looked out"
+260	Actino	17	Actino	"Actina, mother of Actino's line"
+260	Actino	54	Actino (ch 54)	"And then came Actino, to play his part"
+285	Proto	27	drop	"A Proto-animal": a word
+289	Eve	19,20,21	Eve	Gaiad's Eve, Lilith's sister
+289	Eve	131	Eve (wife of Adam)	"Then Adam and his Eve, in grief, were sent"
+635	Isaac	32	Isaac (ch 32)	"And clever Isaac, who was young and wise"
+635	Isaac	151,154	Isaac (son of Abraham)	"He nearly gave up Isaac, his own son"
+643	Rhineheart	32	Rhineheart	"And Rhineheart, who was bold, and who was strong"
+643	Rhineheart	54	Rhineheart (ch 54)	"Was Rhineheart, born at breaking of the day"
+805	Aphrodite	37	Aphrodite	"And then there is the fair Aphrodite"
+805	Aphrodite	46	Aphrodite (ch 46)	"The daughter Aphrodite, and her song"
+1027	Marius	44	Marius	"Marius, who ruled the sea"
+1027	Marius	179	Gaius Marius	"Marius made the legions volunteers"
+1062	Luther	45	Luther	"Her own, was Luther, strong as any stone"
+1062	Luther	257,258,259	Martin Luther	"Luther wrote ninety-five theses"
+850	Echidna	45	drop	"Lily the Echidna": the kind of animal Lily is
+126	Kraken	14	Kraken	"First Kraken, deepest of the sisters five"
+126	Kraken	48	Kraken (ch 48)	"Of Kraken's dynasty, his royal might"
+1426	Ammon	55	Ammon	"Great Ammon when the dawn began its day": the Gaiad figure
+1426	Ammon	174	Amun (god)	"The shrine of Ammon in the desert sand"
+1520	Melchizedek	58	Melchizedek (ch 58)	"Peziz at dawn, Melchizedek, savior"
+1520	Melchizedek	151	Melchizedek	"Melchizedek met him there on the way"
+1536	Bartholomew	58	Bartholomew (ch 58)	"Jello first, Bartholomew, William too"
+1536	Bartholomew	188	Bartholomew (apostle)	"Thaddeus and Bartholomew had brought"
+1550	Matsya	59	Matsya (ch 59)	"But Shesha the Actinite, Matsya wise"
+1550	Matsya	173	Matsya (avatar)	"Matsya; Kurma; Varaha"
+1566	Romulus	60	Romulus (ch 60)	"Romulus and Remus, warriors of light"
+1566	Romulus	176	Romulus	"Which Romulus had founded"
+1841	Perry	130	drop	"The house of Perry": a Y-chromosome line, not a person
+1841	Perry	301	Matthew Perry	"Perry gave gifts: a little train"
+2207	Nathan	164	Nathan (prophet)	"Then Nathan knew"
+2207	Nathan	278	Nathan of Gaza	"In Gaza, Nathan, prophet, young"
+2212	Sheba	164	Sheba (son of Bichri)	"Then Sheba rose; and David, old, was hemmed"
+2212	Sheba	190	Queen of Sheba	"And Sheba's son: the Kebra Nagast taught"
+2359	Orestes	170	Orestes	"Orestes, son, avenging"
+2359	Orestes	189	Orestes (father of Romulus Augustulus)	"Seventy-five: Orestes crowned his son"
+2308	Maya	171	Maya (mother of the Buddha)	"Shuddhodana's, the chief's son; Maya, torn"
+2308	Maya	229,230,232	drop	the Maya people
+1983	Caesar	179	Julius Caesar	"And Pompey and Caesar warred"
+1983	Caesar	221,223	drop	"the last Caesar": a title (Constantine XI)
+2537	John	180	John the Baptist	"and John the Baptist was his cousin"
+2537	John	253	Pope John XI	"bore a pope, named John"
+2671	李命玥	189,364	Emma Leonhart	her own Chinese name ("From being Emma Leonhart to 李命玥"): the same person as tag 2, joined to I2
+3685	Leo	253	Pope Leo I	"Leo, called the Great"
+3685	Leo	361	Pope Leo XIV	"named for Leo"
+3695	Catherine	253	Catherine of Siena	"Saint Catherine of Siena called them"
+3695	Catherine	286	Catherine the Great	"Sold Catherine of Russia books"
+3652	Harrison	251	William Henry Harrison	"Against the charge of Harrison; the swamp"
+3652	Harrison	288	John Harrison	"A Harrison clock: longitude at last"
+3895	Newton	269,277,280	Isaac Newton	"Newton's Principia"
+3895	Newton	279	Newton (the other)	"And now the other Newton, who immersed"
+3799	Vasa	261	Gustav Vasa	"Gustav Eriksson, Vasa, fled"
+3799	Vasa	270	drop	the ship Vasa ("the Vasa, built")

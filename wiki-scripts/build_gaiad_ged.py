@@ -68,7 +68,148 @@ MERGE_INTO = {"Magellanic": "Magellan"}
 RELATIONS = ROOT / "Gaiad" / "genealogy" / "gaiad-relations.tsv"
 
 
-def scripture_relations(w, key_xref):
+SPLITS = ROOT / "Gaiad" / "genealogy" / "tag-splits.tsv"
+VERDICTS = ROOT / "Gaiad" / "genealogy" / "tag-person-verdicts.tsv"
+KEEP_ANYWAY = {"472"}   # God: "might be worth keeping as an edge thing" (Emma, 2026-11-21)
+
+
+def split_and_prune(w, key_xref, n_last):
+    """Records that are not people are left out, and shared tags are broken up into one record per person (Emma,
+    2026-11-21: "Break up the shared tags"; "Words that aren't people: God might be worth keeping as an edge thing").
+    Gaiad/genealogy/tag-person-verdicts.tsv (hand verdicts: word, group, title, lineage are left out) and
+    tag-splits.tsv (per tag: the chapters each person is meant in; "drop" = a plain word there). Left-out records
+    leave their number empty; a split-off person gets a new number after the last one, its own chapters' citations,
+    and a note of where it is first named. A split tag's first record keeps its number but loses the names and links
+    the entity resolution gave the whole tag, which mixed its people. Returns the lines, person(tag, chapter) -> xref
+    for the verse's links, and counts."""
+    if not VERDICTS.exists():
+        return w, None, {}
+    firsts = {k for k, x in key_xref.items() if x in ("@I1@", "@I2@", "@I3@")}
+    prune = set()
+    for l in VERDICTS.read_text(encoding="utf-8").replace("\r", "").split("\n"):
+        f = l.split("\t")
+        if len(f) >= 3 and not l.startswith("#") and f[0] != "tag" and f[2] in ("word", "group", "title", "lineage"):
+            prune.add(f[0])
+    prune -= KEEP_ANYWAY | firsts
+    splits = {}
+    if SPLITS.exists():
+        for l in SPLITS.read_text(encoding="utf-8").replace("\r", "").split("\n"):
+            f = l.split("\t")
+            if len(f) >= 4 and not l.startswith("#") and f[0] != "tag":
+                chs = frozenset(int(c) for c in f[2].split(",") if c.strip().isdigit())
+                splits.setdefault(f[0], []).append((chs, f[3].strip()))
+    recs, cur = [], None
+    for l in w:
+        if l.startswith("0 "):
+            cur = [l]
+            recs.append(cur)
+        elif cur is not None:
+            cur.append(l)
+    at = {r[0].split()[1]: r for r in recs if len(r[0].split()) > 2 and r[0].split()[2] == "INDI"}
+    gone = {key_xref[k] for k in prune if key_xref.get(k) in at}
+    nxt = iter(range(n_last + 1, 10 ** 9))
+    target = {}   # tag -> {chapter: xref or None}
+    new_recs, n_split, n_drop = [], 0, 0
+    page = re.compile(r"2 PAGE Gaiad (\d+)\.")
+
+    def blocks(r):
+        out = []
+        for l in r[1:]:
+            if l.startswith("1 ") or not out:
+                out.append([l])
+            else:
+                out[-1].append(l)
+        return out
+    for k, rows in splits.items():
+        R = key_xref.get(k)
+        if R not in at or k in prune:
+            continue
+        rec = at[R]
+        sex = next((l for l in rec if l.startswith("1 SEX ")), None)   # the same name: a split-off person keeps it
+        live = [(chs, nm) for chs, nm in rows if nm != "drop"]
+        first_name = live[0][1] if live else None
+        tmap, mine = {}, []
+        for chs, nm in rows:
+            if nm == "drop":
+                x = None
+            elif nm == "Emma Leonhart":
+                x = "@I2@"
+            elif (chs, nm) == live[0]:
+                x = R
+            else:
+                x = f"@I{next(nxt)}@"
+                n_split += 1
+                nr = [f"0 {x} INDI", f"1 NAME {nm}", f"1 REFN {x[2:-1]}", "2 TYPE Gaiad individual number",
+                      f"1 UID {uuid.uuid5(NS, k + '#' + nm)}"] + ([sex] if sex else [])
+                new_recs.append(nr)
+                mine.append(nr)
+            for c in chs:
+                tmap[c] = x
+        target[k] = tmap
+        moved, keep = {}, []
+        for b in blocks(rec):
+            m = page.match(b[1]) if b[0].startswith("1 SOUR @S1@") and len(b) > 1 else None
+            if m and int(m.group(1)) in tmap and tmap[int(m.group(1))] != R:
+                dest = tmap[int(m.group(1))]
+                if dest is None:
+                    n_drop += 1
+                else:
+                    moved.setdefault(dest, []).extend(b)
+                continue
+            keep.append(b)
+        out, named = [rec[0]], False
+        for b in keep:
+            t = b[0].split()[1] if len(b[0].split()) > 1 else ""
+            if t == "NAME":
+                if named:
+                    continue
+                named = True
+                b = [f"1 NAME {first_name or b[0][7:]}"] + [l for l in b[1:] if not l.startswith(("2 GIVN", "2 SURN"))]
+            elif t in ("EXID", "FACT", "OBJE", "NOTE"):
+                continue
+            out.extend(b)
+        chs_kept = sorted({int(m.group(1)) for l in out for m in [page.match(l)] if m})
+        if chs_kept:
+            out.append(f"1 NOTE First named in the Gaiad, chapter {chs_kept[0]} (https://order.life/gaiad/"
+                       f"{chs_kept[0]:03d}/); a tag shared with other people, broken up (Gaiad/genealogy/tag-splits.tsv).")
+        rec[:] = out
+        for nr in mine:
+            x = nr[0].split()[1]
+            if x in moved:
+                cs = sorted({int(m.group(1)) for l in moved[x] for m in [page.match(l)] if m})
+                nr.append(f"1 NOTE First named in the Gaiad, chapter {cs[0]} (https://order.life/gaiad/{cs[0]:03d}/); "
+                          f"split from the tag {k} (Gaiad/genealogy/tag-splits.tsv).")
+                nr.extend(moved.pop(x))
+        if "@I2@" in moved and "@I2@" in at:
+            at["@I2@"].extend(moved.pop("@I2@"))
+    out = [r for r in recs if not (len(r[0].split()) > 1 and r[0].split()[1] in gone)]
+    for r in out:
+        if r[0].endswith(" FAM"):
+            r[:] = [l for l in r if not (re.match(r"1 (HUSB|WIFE|CHIL) ", l) and l.split()[-1] in gone)]
+    empty = {r[0].split()[1] for r in out
+             if r[0].endswith(" FAM") and not any(re.match(r"1 (HUSB|WIFE|CHIL) ", l) for l in r)}
+    lines = []
+    for r in out:
+        if len(r[0].split()) > 1 and r[0].split()[1] in empty:
+            continue
+        for l in r:
+            if re.match(r"1 FAM[CS] ", l) and l.split()[-1] in empty:
+                continue
+            lines.append(l)
+    fi = next((i for i, l in enumerate(lines) if re.match(r"0 @F\d+@ FAM", l)), len(lines))
+    lines[fi:fi] = [l for r in new_recs for l in r]
+
+    def person(k, ch):
+        if k in prune:
+            return None
+        if k in target and ch is not None and int(ch) in target[k]:
+            return target[k][int(ch)]
+        return key_xref.get(k)
+    return lines, person, {"records left out (not people)": len(gone), "people split off shared tags": n_split,
+                           "citations dropped (a plain word there)": n_drop, "families left empty and dropped": len(empty)}
+
+
+def scripture_relations(w, key_xref, person=None):
     """Every relationship the Gaiad's verse states (Gaiad/genealogy/gaiad-relations.tsv, read chapter by chapter;
     Emma, 2026-11-20: "the gaiad.ged thing should have all of the relationships inbuilt into it ... check out the ones
     that are actually in the scripture"). parent rows become families (a child's stated parents, two at most, together;
@@ -93,12 +234,33 @@ def scripture_relations(w, key_xref):
             if w[j].startswith("1 SEX "):
                 sex[x] = w[j][6:].strip()
             j += 1
-    X = lambda k: key_xref.get(k) if k and key_xref.get(k) in starts else None
+    # For the HUSB/WIFE slot only (no SEX is written): a parent with no SEX is placed by how that given name is sexed
+    # across the whole file, when it is one sex in at least 90% of at least five records.
+    names = {}
+    for x, i in starts.items():
+        j = i + 1
+        while j < len(w) and not w[j].startswith("0 "):
+            if w[j].startswith("1 NAME "):
+                names.setdefault(x, w[j][7:].replace("/", " ").split()[0] if w[j][7:].replace("/", " ").split() else "")
+            j += 1
+    tally = {}
+    for x, nm in names.items():
+        if sex.get(x) in ("M", "F") and nm:
+            tally.setdefault(nm, {"M": 0, "F": 0})[sex[x]] += 1
+    by_name = {nm: ("F" if t["F"] > t["M"] else "M") for nm, t in tally.items()
+               if t["F"] + t["M"] >= 5 and max(t["F"], t["M"]) >= 0.9 * (t["F"] + t["M"])}
+    first_given = lambda x: names.get(x, "")
+
+    def X(k, ch=None):
+        if not k:
+            return None
+        x = person(k, ch) if person else key_xref.get(k)
+        return x if x in starts else None
     skipped = 0
     parents, partner_rows, asso = {}, {}, []
     for r in rows:
         ch, line, ka, rel, kb, words = r
-        xa, xb = X(ka), X(kb)
+        xa, xb = X(ka, ch), X(kb, ch)
         if not xa or not xb or xa == xb:
             skipped += 1
             continue
@@ -141,7 +303,7 @@ def scripture_relations(w, key_xref):
     for ps, fam in fams.items():
         f = f"@F{next(nxt)}@"
         ps = sorted(ps, key=lambda x: int(x[2:-1]))
-        roles = ["WIFE" if sex.get(p) == "F" else "HUSB" for p in ps]
+        roles = ["WIFE" if (sex.get(p) or by_name.get(first_given(p))) == "F" else "HUSB" for p in ps]
         if len(ps) == 2 and roles[0] == roles[1]:
             roles = ["HUSB", "WIFE"]   # partner slots; sex is on the person (GEDCOM 7)
         lines = [f"0 {f} FAM"] + [f"1 {ro} {p}" for ro, p in zip(roles, ps)] + [f"1 CHIL {k}" for k in fam["kids"]]
@@ -1432,7 +1594,9 @@ def build(out_path):
         i += 1
     w[:] = [bce_years(line) for line in out]
     w[:] = early_families(w)
-    w[:], scripture_stats = scripture_relations(w, key_xref)
+    w[:], person, prune_stats = split_and_prune(w, key_xref, n)
+    w[:], scripture_stats = scripture_relations(w, key_xref, person)
+    scripture_stats.update(prune_stats)
     add("0 TRLR")
     out_path = Path(out_path)
     out_path.parent.mkdir(parents=True, exist_ok=True)
