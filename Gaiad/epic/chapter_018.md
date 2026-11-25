@@ -43,7 +43,7 @@ Red waters spelled calamity's decree.
 
 The {{c|271|Elohim}} in chorus raised their plea:
 "{{c|272|Reduce}} these fumes, or life itself will cease!"
-With {{c|61|Sol}} and {{c|100|Gaia}}, {{c|201|Luna}} would agree,
+{{c|61|Amaterasu}}, {{c|201|Luna}}, {{c|100|Gaia}}, three,
 They begged that {{c|262|Saya}}'s reckless growth should lease.
 
 Yet {{c|262|Saya}} pressed for ever-greater yield,

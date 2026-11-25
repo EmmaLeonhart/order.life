@@ -47,7 +47,7 @@ With Mother {{c|96|Earth}}, their bond forever true.
 
 Within the temple's walls, a daughter stood,
 Named {{c|206|Luca}}, gazing at the starlit dome;
-As {{c|61|Sol}} receded, {{c|201|Luna}} bright withstood,
+{{c|61|Amaterasu}} set; {{c|201|Luna}} withstood,
 And in her heart, a promise found its home.
 
 In twilight's breath, {{c|200|Usagi}} {{c|201|Luna}} spoke,

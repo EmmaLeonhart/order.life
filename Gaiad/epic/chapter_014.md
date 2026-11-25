@@ -133,7 +133,7 @@ And {{c|155|Sannikov}}, the {{c|156|Arctic}}'s northern gleam.
 These sacred isles on {{c|109|Titan}}'s seas they stand,
 Their shrines alive with ancient rites and praise,
 In adoration of their parent land,
-The daughters of great {{c|61|Sol}} their voices raise.
+{{c|61|Amaterasu}}'s daughters' voices raise.
 
 Each island hosts its shrine, where worship flows,
 From ancient days, a faith that will endure,
@@ -173,7 +173,7 @@ Their shrines, alive with {{c|132|Titanians}}' trace.
 These rivers, flowing through the daughters' seas,
 Their shrines, with ancient wisdom, ever stand,
 Adoring mysteries on bended knees,
-The daughters of {{c|61|Sol}}, whose blessings are grand.
+{{c|61|Amaterasu}}'s daughters, blessed and grand.
 
 In {{c|108|Enceladus}}' heart a while they'd toil;
 The southern warmth grew bright, the north turned cold,
@@ -326,7 +326,7 @@ Their journey, driven by celestial birth,
 In hope its fertile lands would see them through.
 
 As they approached, a harbinger of doom,
-A massive rock, like thunder, pierced the sky,
+Great {{c|90853|Theia}}, like the thunder, pierced the sky,
 A cruel twist of fate, the planet's tomb,
 And shattered {{c|96|Earth}}, a million shards to fly.
 
@@ -400,7 +400,7 @@ Of {{c|94|Mercury}}, once whole, now stripped and torn;
 To find a home where life would bloom and grow
 Went onward still the daughters, though forlorn.
 
-Back to the {{c|96|Earth}}, now clumping from the void,
+To {{c|100|Gaia}}'s {{c|96|Earth}}, now clumping from the void,
 They ventured forth; the {{c|198|Moon}} embraced, they stayed,
 Where lunar plains called, craters life-devoid,
 A sanctuary found, their fears allayed.

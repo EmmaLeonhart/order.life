@@ -87,11 +87,11 @@ They left {{c|58|Kolob}}'s destruction, out of breach.
 
 The children of the stars, though cast away,
 Still clung to life and hope amid their flight.
-For {{c|57|Attle}}'s gleam gave way to {{c|61|Sol}}'s bright day,
+{{c|57|Attle}} dimmed for {{c|61|Amaterasu}}'s day,
 The fifth sun beckoned with its golden light.
 
 And thus, the people drifted ever on,
-To find new shores beneath {{c|61|Sol}}'s warm embrace.
+Toward {{c|61|Amaterasu}}'s warm embrace.
 Though battered by the storm, they were not gone,
 Their hearts still held the dream of {{c|1|Aster}}'s grace.
 

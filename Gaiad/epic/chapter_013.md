@@ -1,6 +1,6 @@
 # Chapter 13: Solar Nebula Collapse
 
-In {{c|61|Sol}}'s embrace, her daughters came to be,
+{{c|61|Amaterasu}}'s daughters came to be,
 From nebula, they formed a cosmic host.
 {{c|94|Mercury}}, {{c|95|Venus}}, {{c|96|Earth}}, and {{c|97|Mars}} we see,
 With {{c|98|Ceres}} too, they grace the starry coast.
@@ -15,7 +15,7 @@ Her fate was sealed, her path forever turned.
 A world of heat and clouds that choke within,
 Her beauty veiled by sulfur skies that burned.
 
-Then {{c|96|Earth}}, fair {{c|100|Gaia}}, tells her vibrant tale,
+Then {{c|96|Earth}}, fair {{c|90852|Tsuchi}}, tells her vibrant tale,
 From seas arose the life that graced her face.
 With mountains high and skies where clouds set sail,
 A cradle formed for life's enduring race.

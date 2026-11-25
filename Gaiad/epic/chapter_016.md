@@ -73,7 +73,7 @@ And {{c|222|Yuri}} {{c|225|Archaea}}, leading her band—
 {{c|226|Methana}}, wife to {{c|229|Methanius}} fair,
 In methane's arts her mastery was shown;
 {{c|227|Halo}} the {{c|230|Purple}}, with seductive flair,
-Won {{c|231|Salta}}, {{c|61|Sol}}, and {{c|232|Carotenus}}' throne.
+Won {{c|231|Salta}}, the {{c|61|sun}}, {{c|232|Carotenus}}' throne.
 
 Deep purple hues she harnessed from the sun,
 With {{c|232|Carotenus}}' colors intertwined;
