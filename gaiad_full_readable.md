@@ -1415,7 +1415,7 @@ And Barberton, where life first stirred and dreamed,
 The temples' influence had just begun.
 
 From Arka sprang a lineage of might:
-Dipana, Yuri, Proteus arose;
+Dipana, Yuri, Prometheus rose;
 Their daughters ventured forth into the light,
 To every corner where the wind now blows.
 
@@ -1431,8 +1431,13 @@ Won Salta, Sol, and Carotenus' throne.
 
 Deep purple hues she harnessed from the sun,
 With Carotenus' colors intertwined;
-In salty realms, her daughters dwelt as one,
-While Proteus' offspring spread unconfined.
+In salty realms, her daughters dwelt as one;
+Prometheus' offspring spread unconfined.
+
+Two children bore Prometheus, the old:
+Asgarda, and Thermeus of the heat,
+Who dwelt where boiling springs their vapours rolled,
+In vents and pools where fire and water meet.
 
 Among them all, Asgarda held the throne,
 And from her sprang a million daughters strong:
