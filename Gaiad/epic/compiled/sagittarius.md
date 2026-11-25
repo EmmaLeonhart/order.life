@@ -670,11 +670,11 @@ They left {{c|58|Kolob}}'s destruction, out of breach.
 
 The children of the stars, though cast away,
 Still clung to life and hope amid their flight.
-For {{c|57|Attle}}'s gleam gave way to {{c|61|Sol}}'s bright day,
+{{c|57|Attle}} dimmed for {{c|61|Amaterasu}}'s day,
 The fifth sun beckoned with its golden light.
 
 And thus, the people drifted ever on,
-To find new shores beneath {{c|61|Sol}}'s warm embrace.
+Toward {{c|61|Amaterasu}}'s warm embrace.
 Though battered by the storm, they were not gone,
 Their hearts still held the dream of {{c|1|Aster}}'s grace.
 
@@ -809,7 +809,7 @@ We swear to keep your cosmic vow in view."
 
 # Chapter 13: Solar Nebula Collapse
 
-In {{c|61|Sol}}'s embrace, her daughters came to be,
+{{c|61|Amaterasu}}'s daughters came to be,
 From nebula, they formed a cosmic host.
 {{c|94|Mercury}}, {{c|95|Venus}}, {{c|96|Earth}}, and {{c|97|Mars}} we see,
 With {{c|98|Ceres}} too, they grace the starry coast.
@@ -824,7 +824,7 @@ Her fate was sealed, her path forever turned.
 A world of heat and clouds that choke within,
 Her beauty veiled by sulfur skies that burned.
 
-Then {{c|96|Earth}}, fair {{c|100|Gaia}}, tells her vibrant tale,
+Then {{c|96|Earth}}, fair {{c|90852|Tsuchi}}, tells her vibrant tale,
 From seas arose the life that graced her face.
 With mountains high and skies where clouds set sail,
 A cradle formed for life's enduring race.
@@ -1005,7 +1005,7 @@ And {{c|155|Sannikov}}, the {{c|156|Arctic}}'s northern gleam.
 These sacred isles on {{c|109|Titan}}'s seas they stand,
 Their shrines alive with ancient rites and praise,
 In adoration of their parent land,
-The daughters of great {{c|61|Sol}} their voices raise.
+{{c|61|Amaterasu}}'s daughters' voices raise.
 
 Each island hosts its shrine, where worship flows,
 From ancient days, a faith that will endure,
@@ -1045,7 +1045,7 @@ Their shrines, alive with {{c|132|Titanians}}' trace.
 These rivers, flowing through the daughters' seas,
 Their shrines, with ancient wisdom, ever stand,
 Adoring mysteries on bended knees,
-The daughters of {{c|61|Sol}}, whose blessings are grand.
+{{c|61|Amaterasu}}'s daughters, blessed and grand.
 
 In {{c|108|Enceladus}}' heart a while they'd toil;
 The southern warmth grew bright, the north turned cold,
@@ -1198,7 +1198,7 @@ Their journey, driven by celestial birth,
 In hope its fertile lands would see them through.
 
 As they approached, a harbinger of doom,
-A massive rock, like thunder, pierced the sky,
+Great {{c|90853|Theia}}, like the thunder, pierced the sky,
 A cruel twist of fate, the planet's tomb,
 And shattered {{c|96|Earth}}, a million shards to fly.
 
@@ -1272,7 +1272,7 @@ Of {{c|94|Mercury}}, once whole, now stripped and torn;
 To find a home where life would bloom and grow
 Went onward still the daughters, though forlorn.
 
-Back to the {{c|96|Earth}}, now clumping from the void,
+To {{c|100|Gaia}}'s {{c|96|Earth}}, now clumping from the void,
 They ventured forth; the {{c|198|Moon}} embraced, they stayed,
 Where lunar plains called, craters life-devoid,
 A sanctuary found, their fears allayed.
@@ -1327,7 +1327,7 @@ With Mother {{c|96|Earth}}, their bond forever true.
 
 Within the temple's walls, a daughter stood,
 Named {{c|206|Luca}}, gazing at the starlit dome;
-As {{c|61|Sol}} receded, {{c|201|Luna}} bright withstood,
+{{c|61|Amaterasu}} set; {{c|201|Luna}} withstood,
 And in her heart, a promise found its home.
 
 In twilight's breath, {{c|200|Usagi}} {{c|201|Luna}} spoke,
@@ -1421,7 +1421,7 @@ And {{c|222|Yuri}} {{c|225|Archaea}}, leading her band—
 {{c|226|Methana}}, wife to {{c|229|Methanius}} fair,
 In methane's arts her mastery was shown;
 {{c|227|Halo}} the {{c|230|Purple}}, with seductive flair,
-Won {{c|231|Salta}}, {{c|61|Sol}}, and {{c|232|Carotenus}}' throne.
+Won {{c|231|Salta}}, the {{c|61|sun}}, {{c|232|Carotenus}}' throne.
 
 Deep purple hues she harnessed from the sun,
 With {{c|232|Carotenus}}' colors intertwined;
@@ -1597,7 +1597,7 @@ Red waters spelled calamity's decree.
 
 The {{c|271|Elohim}} in chorus raised their plea:
 "{{c|272|Reduce}} these fumes, or life itself will cease!"
-With {{c|61|Sol}} and {{c|100|Gaia}}, {{c|201|Luna}} would agree,
+{{c|61|Amaterasu}}, {{c|201|Luna}}, {{c|100|Gaia}}, three,
 They begged that {{c|262|Saya}}'s reckless growth should lease.
 
 Yet {{c|262|Saya}} pressed for ever-greater yield,
