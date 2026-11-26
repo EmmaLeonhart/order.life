@@ -241,14 +241,14 @@ To history, in all its depth and range.
 Like {{c|262|Saya}}'s daughters, who had come before,
 These lichens, and their fungal friends and kin,
 Like them, would open evolution's door,
-And make the age of ice itself begin.
+And make a greener age on land begin.
 
-And so the {{c|587|Cryogenian}} began;
-The world froze over, it was white and cold,
-That age, humanitarian in plan,
-And in the ice their mighty reign would hold.
+The {{c|587|Cryogenian}}'s ice had long gone;
+The world, once frozen, white and bitter cold,
+Had thawed, and on its rocks the lichens shone,
+And there their mighty reign would take its hold.
 
-But even in their icy reign supreme,
+But even in their lasting reign supreme,
 They lived the life of partnership, allied,
 Of plant and fungus, and its waking dream,
 That could in cold, and in the ice, abide.
