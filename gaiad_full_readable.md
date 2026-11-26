@@ -1655,38 +1655,28 @@ Where ice had claimed the seas and poisoned air.
 Yet in the depths, new stories would unfold,
 As life found ways to heal beyond despair.
 
-From Mehuthen's line came Starvos the keen,
-Who bore his son bright Navros in the night.
-Then Navros fathered Gravros, strong and lean,
-Who faced the world with viral, cunning might.
+From Nemla's line, the Virosol, there came
+Bold Gaius Virus, born of Gaia's earth;
+His son was Variðnos, of double frame;
+Then Bamphor gave Nucleocytos birth.
 
-Now Gravros wed fair Heimdalla the true,
-That watchful guard of all the arctic realm.
-Their union blessed, from love their offspring grew,
-With Poxus born to take the viral helm.
+Nucleocytos fathered Poxus, bold,
+Who wed Heimdalla, watchful, fair and true,
+Called Mardöll too, of the archaean fold;
+And from their love two gifted children grew.
 
-But Poxus was a warrior, fierce and wild,
-His viral nature burned with restless flame.
-Yet Aster's plan had need of one more mild,
-To birth the future's most exalted name.
+First Feca came, a bridge of old and new,
+His father's viral fire, his mother's line;
+Then fair Cellina, his own sister, grew,
+Archaea of the noble, ancient vine.
 
-So Gravros took another bride to wife,
-Sweet Mardöll, of the old archaean strain.
-Their love would spark a revolution's knife,
-And change life's course, its eternal refrain.
+Then Feca wed Cellina, sister, bride;
+Their son was Leca, gifted, rare and strong,
+Their daughter fair Nuclella at his side,
+Who'd share with him the life where both belong.
 
-From this great match came Proto-One the first,
-A bridge between two worlds both old and new.
-His nature held what time and fate had nursed,
-The viral fire, archaean virtue true.
-
-Proto-One then wedded Cellina fair,
-Archaea of the noble, ancient line.
-Their son was Proto-Two beyond compare,
-Who bore within his form both gifts divine.
-
-Proto-Two in turn found his destined mate,
-In fair Nuclella of the membrane wall.
+So Leca wed Nuclella, as was fate,
+His sister, of the membrane's living wall;
 Together they would not procrastinate,
 But answer evolution's sacred call.
 

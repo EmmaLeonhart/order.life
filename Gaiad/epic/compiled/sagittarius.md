@@ -1649,38 +1649,28 @@ Where ice had claimed the seas and poisoned air.
 Yet in the depths, new stories would unfold,
 As life found ways to heal beyond despair.
 
-From {{c|81|Mehuthen}}'s line came {{c|280|Starvos}} the keen,
-Who bore his son bright {{c|281|Navros}} in the night.
-Then {{c|281|Navros}} fathered {{c|282|Gravros}}, strong and lean,
-Who faced the world with viral, cunning might.
+From {{c|64|Nemla}}'s line, the Virosol, there came
+Bold {{c|90854|Gaius Virus}}, born of {{c|100|Gaia}}'s earth;
+His son was {{c|90855|Variðnos}}, of double frame;
+Then {{c|90856|Bamphor}} gave {{c|90857|Nucleocytos}} birth.
 
-Now {{c|282|Gravros}} wed fair {{c|234|Heimdalla}} the true,
-That watchful guard of all the arctic realm.
-Their union blessed, from love their offspring grew,
-With {{c|283|Poxus}} born to take the viral helm.
+{{c|90857|Nucleocytos}} fathered {{c|283|Poxus}}, bold,
+Who wed {{c|234|Heimdalla}}, watchful, fair and true,
+Called {{c|284|Mardöll}} too, of the archaean fold;
+And from their love two gifted children grew.
 
-But {{c|283|Poxus}} was a warrior, fierce and wild,
-His viral nature burned with restless flame.
-Yet {{c|1|Aster}}'s plan had need of one more mild,
-To birth the future's most exalted name.
+First {{c|285|Feca}} came, a bridge of old and new,
+His father's viral fire, his mother's line;
+Then fair {{c|286|Cellina}}, his own sister, grew,
+Archaea of the noble, ancient vine.
 
-So {{c|282|Gravros}} took another bride to wife,
-Sweet {{c|284|Mardöll}}, of the old archaean strain.
-Their love would spark a revolution's knife,
-And change life's course, its eternal refrain.
+Then {{c|285|Feca}} wed {{c|286|Cellina}}, sister, bride;
+Their son was {{c|90858|Leca}}, gifted, rare and strong,
+Their daughter fair {{c|287|Nuclella}} at his side,
+Who'd share with him the life where both belong.
 
-From this great match came {{c|285|Proto}}-One the first,
-A bridge between two worlds both old and new.
-His nature held what time and fate had nursed,
-The viral fire, archaean virtue true.
-
-{{c|285|Proto}}-One then wedded {{c|286|Cellina}} fair,
-Archaea of the noble, ancient line.
-Their son was {{c|285|Proto}}-Two beyond compare,
-Who bore within his form both gifts divine.
-
-{{c|285|Proto}}-Two in turn found his destined mate,
-In fair {{c|287|Nuclella}} of the membrane wall.
+So {{c|90858|Leca}} wed {{c|287|Nuclella}}, as was fate,
+His sister, of the membrane's living wall;
 Together they would not procrastinate,
 But answer evolution's sacred call.
 
