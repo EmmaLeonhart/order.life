@@ -177,7 +177,8 @@ function trackDiv(status, colorCls, tick) {
 
 function buildCell(gd, dayInMonth, href, yearData, fullMoonSet) {
   const { passover, easter, cny, lantern, hanukkahStart, islamicRam,
-          islamicFitr, islamicAdha, diwali, jewishEnd, today } = yearData;
+          islamicFitr, islamicAdha, diwali, jewishEnd, today,
+          halloweenStart, halloweenEnd, thanksStart, thanksEnd } = yearData;
 
   // ── Full moon ──
   const isMoon = fullMoonSet.some(fm => sameDay(fm, gd));
@@ -261,6 +262,18 @@ function buildCell(gd, dayInMonth, href, yearData, fullMoonSet) {
     }
   }
 
+  // ── Track 5: Gaian periods (Halloween week; Niinamesai and the Thanksgivings) ──
+  const hwSt = spanStatus(gd, halloweenStart, halloweenEnd);
+  const tgSt = spanStatus(gd, thanksStart, thanksEnd);
+  const track5st  = hwSt !== 'none' ? hwSt : tgSt;
+  const track5col = hwSt !== 'none' ? 'c-halloween' : 'c-thanks';
+  const track5tick = matchEvent(gd, [
+    { date: halloweenStart, label: 'Halloween week begins (Eve of Ancestors)' },
+    { date: halloweenEnd,   label: 'Samhain (Halloween Final)' },
+    { date: thanksStart,    label: 'Thanksgiving period begins' },
+    { date: thanksEnd,      label: 'Thanksgiving period ends' },
+  ]);
+
   // ── Today ──
   const isToday = today && sameDay(gd, today);
 
@@ -273,7 +286,8 @@ function buildCell(gd, dayInMonth, href, yearData, fullMoonSet) {
     trackDiv(chSt,     'c-chinese',   chTick) +
     trackDiv(track2st, track2col,     track2tick) +
     trackDiv(chriSt,   'c-christian', chriTick) +
-    trackDiv(track4st, track4col,     track4tick);
+    trackDiv(track4st, track4col,     track4tick) +
+    trackDiv(track5st, track5col,     track5tick);
 
   const titleParts = [fmtShort(gd)];
   if (isMoon) titleParts.push('Full moon');
@@ -281,6 +295,8 @@ function buildCell(gd, dayInMonth, href, yearData, fullMoonSet) {
   if (track2tick) titleParts.push(track2tick.label);
   if (chriTick)   titleParts.push(chriTick.label);
   if (track4tick) titleParts.push(track4tick.label);
+  if (track5tick) titleParts.push(track5tick.label);
+  else if (track5st !== 'none') titleParts.push(hwSt !== 'none' ? 'Halloween week' : 'Thanksgiving period');
 
   const ddStr = String(dayInMonth).padStart(2, '0');
   return (
@@ -408,9 +424,15 @@ function buildFestivalsCalendar(gaianYear) {
   const islamicFitr  = findIslamicInRange('fitr');
   const islamicAdha  = findIslamicInRange('adha');
 
+  // Gaian periods, fixed Gaian days (Emma, 2026-11-26: marked "in the same way that Lent is marked"):
+  // Halloween week Libra 21-28 (days 301-308); Thanksgiving period Scorpio 16-25 (days 324-333), the span of
+  // Niinamesai (23 November: Scorpio 16-23) and both US Thanksgiving days (Scorpio 18, 25).
+  const halloweenStart = gregDates[300], halloweenEnd = gregDates[307];
+  const thanksStart = gregDates[323], thanksEnd = gregDates[332];
   const yearData = {
     passover, easter, cny, lantern, hanukkahStart,
     islamicRam, islamicFitr, islamicAdha, diwali, today,
+    halloweenStart, halloweenEnd, thanksStart, thanksEnd,
   };
 
   // ── Update headings ──
@@ -548,8 +570,14 @@ function buildMonthFestivalsCalendar(gaianYear, gaianMonth) {
   const islamicRam    = findIslamicInRange('ram');
   const islamicFitr   = findIslamicInRange('fitr');
   const islamicAdha   = findIslamicInRange('adha');
+  // Gaian periods, fixed Gaian days (Emma, 2026-11-26: marked "in the same way that Lent is marked"):
+  // Halloween week Libra 21-28 (days 301-308); Thanksgiving period Scorpio 16-25 (days 324-333), the span of
+  // Niinamesai (23 November: Scorpio 16-23) and both US Thanksgiving days (Scorpio 18, 25).
+  const halloweenStart = gregDates[300], halloweenEnd = gregDates[307];
+  const thanksStart = gregDates[323], thanksEnd = gregDates[332];
   const yearData = { passover, easter, cny, lantern, hanukkahStart,
-                     islamicRam, islamicFitr, islamicAdha, diwali, today };
+                     islamicRam, islamicFitr, islamicAdha, diwali, today,
+                     halloweenStart, halloweenEnd, thanksStart, thanksEnd };
 
   const startOffset = gaianMonth <= 13 ? (gaianMonth - 1) * 28 : 364;
   const daysInMonth = gaianMonth === 14 ? 7 : 28;
@@ -709,6 +737,8 @@ function buildMonthFestivalsCalendar(gaianYear, gaianMonth) {
     <div class="fest-legend-item"><span class="leg-bar" style="background:#cc6600"></span> Ash Wednesday \u2192 Pentecost</div>
     <div class="fest-legend-item"><span class="leg-bar" style="background:#228855"></span> Ramadan \u2192 Eid al-Fitr \u00b7 Eid al-Adha</div>
     <div class="fest-legend-item"><span class="leg-dot" style="background:#9933bb"></span> Diwali</div>
+    <div class="fest-legend-item"><span class="leg-bar" style="background:#e07a1f"></span> Halloween week (Libra 21–28)</div>
+    <div class="fest-legend-item"><span class="leg-bar" style="background:#a0522d"></span> Niinamesai · Thanksgiving (Scorpio 16–25)</div>
     ${visibleBridges.length ? '<div class="fest-legend-item"><span class="leg-bar" style="background:#d4a017;height:2px"></span> Gregorian \u2192 Gaian holiday</div>' : ''}
   </div>`;
 
