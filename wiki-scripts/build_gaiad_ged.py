@@ -804,6 +804,48 @@ def wikidata_first(lines, table):
     return res, True
 
 
+# Primary names settled with Emma, by the record's Wikidata EXID (ancestry records only; a verse person keeps its tag).
+# Q29201, the Yellow Emperor (Emma, 2026-10-30, "Good"): /Jī/ Xuānyuán, TRAN /姬/ 轩辕; Gongsun Xuanyuan (Shiji: 姓公孙，
+# 名曰轩辕) as an AKA.
+FIXED_NAMES = {"Q29201": ("/Jī/ Xuānyuán", ("/姬/ 轩辕", "zh"), ["/Gōngsūn/ Xuānyuán"])}
+
+
+def fixed_primary_name(lines):
+    """The primary NAME from FIXED_NAMES where the record's Wikidata EXID is listed; the former primary stays as an AKA,
+    its zh form replaced by the fixed one, its other translations kept under the new primary."""
+    wd = [a[7:].strip() for a, b in zip(lines, lines[1:])
+          if a.startswith("1 EXID ") and b.strip() == "2 TYPE http://www.wikidata.org/entity/"]
+    fx = next((FIXED_NAMES[q] for q in wd if q in FIXED_NAMES), None)
+    i = next((k for k, l in enumerate(lines) if l.startswith("1 NAME ")), None)
+    if not fx or i is None or lines[i][7:].strip() == fx[0]:
+        return lines
+    j = i + 1
+    while j < len(lines) and not lines[j].startswith(("0 ", "1 ")):
+        j += 1
+    primary, (zh_text, zh_lang), akas = fx[0], fx[1], fx[2]
+    trans, k = [], i + 1
+    while k < j:   # translations other than zh stay under the primary
+        if lines[k].startswith("2 TRAN "):
+            blk = [lines[k]]
+            k += 1
+            while k < j and lines[k].startswith("3 "):
+                blk.append(lines[k])
+                k += 1
+            if blk[0][7:].strip() == lines[i][7:].strip():   # the former primary is an AKA now, not a TRAN
+                continue
+            if "3 LANG zh" not in blk and not CJK.search(blk[0]) or "3 LANG ja" in blk or "3 LANG ko" in blk:
+                trans += blk
+            continue
+        k += 1
+    sur = re.search(r"/([^/]+)/", primary).group(1)
+    zsur = re.search(r"/([^/]+)/", zh_text).group(1)
+    new = [f"1 NAME {primary}", f"2 GIVN {primary.split('/')[-1].strip()}", f"2 SURN {sur}",
+           f"2 TRAN {zh_text}", f"3 LANG {zh_lang}", f"3 GIVN {zh_text.split('/')[-1].strip()}", f"3 SURN {zsur}"] + trans
+    old = ["1 NAME " + lines[i][7:].strip(), "2 TYPE AKA"]
+    extra = [l for a in akas for l in (f"1 NAME {a}", "2 TYPE AKA")]
+    return lines[:i] + new + old + extra + lines[j:]
+
+
 def english_first(lines, table):
     """gaiad.ged is an English file (Emma, 2026-10-17): the first NAME is the English primary name, and a name in
     Chinese, Japanese or Korean script goes under it as a TRAN with its LANG ("cjk are all lesser things")."""
@@ -1523,6 +1565,7 @@ def build(out_path):
                 n_wd += done
                 lines, done = english_first(lines, en_table)
                 n_en += done
+                lines = fixed_primary_name(lines)
         fixed = [ptr.sub(lambda m: imap.get(m.group(0)) or fmap.get(m.group(0)) or m.group(0), l) for l in lines]
         if tag == "INDI":   # a link to a family merged into F1 would otherwise appear twice
             fixed = [l for i, l in enumerate(fixed) if not l.startswith(("1 FAMC ", "1 FAMS ")) or l not in fixed[:i]]
