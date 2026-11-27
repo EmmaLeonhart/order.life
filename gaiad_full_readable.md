@@ -53187,7 +53187,7 @@ The twenty-fifth: the next year is, I say,
 My life's best year; this loaded it, its night.
 
 
-# Chapter 362: My Father Is Russia
+# Chapter 362: Back to the Soul
 
 The twenty-sixth of Yuletide keeps my year,
 Two thousand twenty-six, the year I turned
@@ -53239,11 +53239,6 @@ Of what I owed, the pressures of the ground;
 And when my father shut me from his gate,
 I took the wound, and turned the work around.
 
-My father is my {{p|Russia}}; what he gave,
-A wound, I made a tool for those who bear
-The same wound from the same hand, and the brave
-Of {{p|Ukraine}} carried it with them out there.
-
 The machines helped me write this book, and learn
 So much; I came to {{x|Claude Code}} early on.
 But most have only seen the other turn:
@@ -53273,6 +53268,11 @@ I read it so: the people understand
 The AI is not made for their own good;
 And some who love it may be vexed. I stand
 With them: they're right. I'll build it as I should.
+
+And I traced the line of Cometan as well,
+Who founded {{x|Astronism}}, road to Mars;
+From kin on {{x|Wikidata}} down, to tell
+His line, ring after ring, beneath the stars.
 
 But that was not the end. Two weeks went on,
 And on a Friday, {{x|Scorpio}} nineteen,
