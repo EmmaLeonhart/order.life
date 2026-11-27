@@ -157,6 +157,11 @@ The villain's net war; and I, eleven,
 Read wizards in a night; the phone, the chain
 {{x|Tumblr}}, new; the words, a kind of heaven,
 
+That year my parents parted; he was gone
+To {{p|Bulgaria}}, and wed there again;
+I stayed beside my mother, carried on,
+Eleven, and ten years I stayed from then.
+
 Written by strangers, waiting for me there,
 For me to come, and read, and understand;
 The seventh light, two thousand seven, where

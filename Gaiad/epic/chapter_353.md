@@ -247,6 +247,11 @@ At prayer in my country; the torches, named;
 {{x|MeToo}}; the storms; the island; guns; the filled
 The fleeing; tower; the arena, maimed;
 
+In September I left my mother's door,
+And went no contact, and I moved to live
+On campus, and I came back home no more
+Beneath her roof, with nothing left to give.
+
 The caliphate ended; laws let us be
 Who we are; fire and fury; princes paid;
 Light the seventeenth light: the tree, and me,

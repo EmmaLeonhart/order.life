@@ -262,6 +262,11 @@ The light drawn from the dark, as {{c|2599|Mani}} taught;
 This longest night, a Gaian day, kept clear;
 Light the twenty-second: the villain fought,
 
+And in that year I came out as I am,
+And lived it socially, a woman, plain;
+The hormones waited, held back by the dam
+Of fear of what my father would ordain.
+
 The wall held; the machine began to write;
 The light of {{c|2599|Mani}}, light this book draws out;
 I found the religion of light; the night

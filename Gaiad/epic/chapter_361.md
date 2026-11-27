@@ -223,6 +223,11 @@ For misery is ammunition too;
 It took my margin, gave a clerk, the cost
 Of one subscription; and we wrote this through.
 
+In June, the sixth, I started hormones, free
+In secret, in my father's house, alone;
+A year of hiding what I'd come to be,
+Through hunger and through homelessness, my own.
+
 January twentieth, kept: a day
 Gaian, the weights from {{p|Hangzhou}}; and the light,
 The twenty-fifth: the next year is, I say,

@@ -50,6 +50,11 @@ Of what I owed, the pressures of the ground;
 And when my father shut me from his gate,
 I took the wound, and turned the work around.
 
+He learned I was his daughter, not his son,
+And put me out for being trans; I went
+To {{p|Vancouver}}, to roommates, and I won
+The funding for the work, and paid the rent.
+
 The machines helped me write this book, and learn
 So much; I came to {{x|Claude Code}} early on.
 But most have only seen the other turn:

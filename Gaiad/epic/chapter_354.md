@@ -251,6 +251,11 @@ A parliament; twelve years; and {{p|Paradise}};
 Yellow vests; a writer killed; boys, the tide
 Of a flooded cave; a page of hopes; price
 
+That year my name was put out into view,
+And doxxed me, so the world could find my door;
+I learned what being seen can do to you,
+And kept my head down lower than before.
+
 Of tariffs; a judge; the far right; a shrine;
 Van; two girls; a pioneer jailed; the bus;
 The perfume bottle. Light the eighteenth; mine:
