@@ -164,7 +164,14 @@ def split_and_prune(w, key_xref, n_last):
                 if named:
                     continue
                 named = True
-                b = [f"1 NAME {first_name or b[0][7:]}"] + [l for l in b[1:] if not l.startswith(("2 GIVN", "2 SURN"))]
+                # Where the record kept is the tag's own name (its first person, the one the resolution names), it keeps
+                # the surname the resolution gave: Terra /Terrabacteria/ (ch 17; "Terra's land" is the Earth), Yuri
+                # /Euryarchaeota/ (ch 16; Yuri Dolgorukiy is split off under his own name). Otherwise the name is the
+                # split's own, without the tag's surname.
+                own = re.sub(r"\s*/[^/]*/\s*", " ", b[0][7:]).strip()
+                one = bool(first_name) and " ".join(own.split()) == " ".join(first_name.split())
+                if not one:
+                    b = [f"1 NAME {first_name or b[0][7:]}"] + [l for l in b[1:] if not l.startswith(("2 GIVN", "2 SURN"))]
             elif t in ("EXID", "FACT", "OBJE", "NOTE"):
                 continue
             out.extend(b)
