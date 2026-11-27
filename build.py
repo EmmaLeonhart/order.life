@@ -1515,6 +1515,8 @@ def _ical_year_seasons(gy, lang="en"):
             "eastertide": "\U0001F305 Eastertide",
             "yuletide": "\U0001F384 Yuletide",
             "easter_season": "\U0001F95A The season of probabilistic Easter",
+            "halloween": "\U0001F383 Halloween week",
+            "thanksgiving": "\U0001F33E Niinamesai / Thanksgiving",
         },
         "ja": {
             "horus": "\u30DB\u30EB\u30B9\u6708",
@@ -1522,6 +1524,8 @@ def _ical_year_seasons(gy, lang="en"):
             "eastertide": "\U0001F305 \u5FA9\u6D3B\u7BC0",
             "yuletide": "\U0001F384 \u30E6\u30FC\u30EB\u306E\u5B63\u7BC0",
             "easter_season": "\U0001F95A \u78BA\u7387\u306E\u5FA9\u6D3B\u796D\u306E\u5B63\u7BC0",
+            "halloween": "\U0001F383 \u30CF\u30ED\u30A6\u30A3\u30F3\u9031\u9593",
+            "thanksgiving": "\U0001F33E \u65B0\u5617\u796D\u30FB\u611F\u8B1D\u796D",
         },
     }
     n = _names.get(lang, _names["en"])
@@ -1550,6 +1554,30 @@ def _ical_year_seasons(gy, lang="en"):
             e_start, e_end + datetime.timedelta(days=1),
             n["easter_season"], es_desc,
             f"gaian-{gy}-easter-season@order.life"
+        )))
+    except Exception:
+        pass
+
+    # Halloween week (Libra 21-28) and the Niinamesai/Thanksgiving period (Scorpio 16-25), as multi-day spans like
+    # Lent: the same two spans as the year-festivals page (static/js/year-festivals.js), in the feed her Google
+    # Calendar subscribes to (Emma, 2026-11-27: "they are to be in the .ics").
+    try:
+        h_start = _gaian_day_to_greg(gy, 11, 21)
+        h_end   = _gaian_day_to_greg(gy, 11, 28)
+        events.append((h_start, _vevent_span(
+            h_start, h_end + datetime.timedelta(days=1),
+            n["halloween"],
+            f"Halloween week: Libra 21 ({_fmt_greg(h_start)}) to Libra 28 ({_fmt_greg(h_end)}), {gy} GE.",
+            f"gaian-{gy}-halloween-week@order.life"
+        )))
+        t_start = _gaian_day_to_greg(gy, 12, 16)
+        t_end   = _gaian_day_to_greg(gy, 12, 25)
+        events.append((t_start, _vevent_span(
+            t_start, t_end + datetime.timedelta(days=1),
+            n["thanksgiving"],
+            f"Niinamesai and Thanksgiving: Scorpio 16 ({_fmt_greg(t_start)}) to Scorpio 25 ({_fmt_greg(t_end)}), "
+            f"{gy} GE.",
+            f"gaian-{gy}-niinamesai-thanksgiving@order.life"
         )))
     except Exception:
         pass
