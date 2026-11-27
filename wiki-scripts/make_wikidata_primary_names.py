@@ -22,6 +22,7 @@ LABELS = PARENT / "wikidata-fresh" / "out" / "wikidata" / "labels.tsv"
 P734 = PARENT / "wikidata-fresh" / "out" / "wikidata" / "p734.tsv"
 SURNAMES = PARENT / "research" / "wikidata-family-name-labels.tsv"
 OUT = ROOT / "wikibase" / "analysis" / "wikidata_primary_names.tsv"
+LIVE = PARENT / "research" / "wikidata-p734-live.tsv"
 csv.field_size_limit(10 ** 8)
 
 
@@ -45,12 +46,20 @@ def main():
     with open(SURNAMES, encoding="utf-8", newline="") as fh:
         for r in csv.DictReader(fh, delimiter="\t"):
             sur[r["qid"]] = r["label"]
+    # P734 fetched live from Wikidata where the cache has none (scripts/fetch_p734_live.py in the superproject,
+    # Emma 2026-10-30: "even wikidata gives surnames"); the cache wins where it has one.
+    live = {}
+    if LIVE.exists():
+        with open(LIVE, encoding="utf-8", newline="") as fh:
+            for r in csv.DictReader(fh, delimiter="\t"):
+                if r["family_name"]:
+                    live[r["qid"]] = r["family_name"]
     with open(OUT, "w", encoding="utf-8", newline="\n") as f:
         f.write("qid\tlabel\tfamily_name\n")
         for q in sorted(want):
             lb = labels.get(q, "")
             if lb:
-                f.write(f"{q}\t{lb}\t{sur.get(fam.get(q, ''), '')}\n")
+                f.write(f"{q}\t{lb}\t{sur.get(fam.get(q, ''), '') or live.get(q, '')}\n")
     print(f"{len(want)} Wikidata ids in the ancestry, {sum(1 for q in want if labels.get(q))} with a label -> {OUT}")
 
 
