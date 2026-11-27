@@ -39,6 +39,8 @@ OUT = Path(__file__).resolve().parent.parent / "content" / "ancestor_days.json"
 # Emma's stated identifications, fs id to Wikidata QID. The superproject keeps
 # the file; a checkout without it simply stamps no qid.
 JOIN_KEYS = Path(__file__).resolve().parents[2] / "research" / "join-keys.tsv"
+if not JOIN_KEYS.exists():  # in order.life's own Actions: the copy kept beside the content (2026-11-27)
+    JOIN_KEYS = Path(__file__).resolve().parent.parent / "content" / "join-keys.tsv"
 
 MONTHS = {
     "jan": 1, "january": 1, "feb": 2, "february": 2, "mar": 3, "march": 3,

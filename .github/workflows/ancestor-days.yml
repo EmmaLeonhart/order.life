@@ -1,0 +1,81 @@
+# Rebuild content/ancestor_days.json (ancestors' births and deaths by Gaian day) here, in order.life's own Actions.
+# Emma, 2026-11-26: "Everything works through the public repo"; ancestor days had never been published by CI.
+# The inputs live in the public genealogy repo (rootsmagic/ancestor-days-inputs/, pushed 2026-11-27 on her explicit
+# authorization, and rootsmagic/second_attempt.rmtree). Replace an input there and the next run builds from it.
+name: Ancestor days
+
+on:
+  schedule:
+    - cron: "17 11 * * 1"   # weekly, Monday 11:17 UTC
+  workflow_dispatch:
+  push:
+    branches: [master]
+    paths:
+      - scripts/build_ancestor_days.py
+      - scripts/rmtree_to_gedcom.py
+      - content/join-keys.tsv
+      - .github/workflows/ancestor-days.yml
+
+permissions:
+  contents: write
+  actions: write
+
+concurrency:
+  group: ancestor-days
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+
+      - name: Install networkx (the .rmtree converter needs it)
+        run: pip install networkx
+
+      - name: Fetch and rebuild the inputs
+        run: |
+          set -e
+          mkdir -p work
+          RAW=https://raw.githubusercontent.com/EmmaLeonhart/genealogy/main/rootsmagic
+          for p in 00 01 02 03; do curl -fsSL -o work/merged.part$p "$RAW/ancestor-days-inputs/merged.ged.gz.part$p"; done
+          for p in 00 01; do curl -fsSL -o work/hourglass.part$p "$RAW/ancestor-days-inputs/abu-hamza-hourglass.rmtree.gz.part$p"; done
+          curl -fsSL -o work/second_attempt.rmtree "$RAW/second_attempt.rmtree"
+          cat work/merged.part* | gzip -dc > work/merged.ged
+          cat work/hourglass.part* | gzip -dc > work/hourglass.rmtree
+          python -I scripts/rmtree_to_gedcom.py work/second_attempt.rmtree work/second_attempt.ged > /dev/null
+          python -I scripts/rmtree_to_gedcom.py work/hourglass.rmtree work/abu-hamza-hourglass.ged > /dev/null
+          ls -la work
+
+      - name: Build ancestor days
+        run: |
+          python -I scripts/build_ancestor_days.py \
+            "work/merged.ged::fs:PFR5-LDS" \
+            "work/second_attempt.ged::PFR5-LDS" \
+            "work/abu-hamza-hourglass.ged::GRWG-G82::self"
+
+      - name: Publish if changed
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if git diff --quiet -- content/ancestor_days.json; then
+            echo "ancestor days unchanged"
+            exit 0
+          fi
+          SUMMARY=$(python -I -c "import json; d=json.load(open('content/ancestor_days.json', encoding='utf-8')); print(f\"{d['ancestors']} ancestors, {d['events_placed']} events\")")
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add content/ancestor_days.json
+          git commit -q -m "Ancestor days refreshed (CI): $SUMMARY"
+          git pull -q --rebase origin master
+          git push -q origin HEAD:master
+          # a push made with the workflow token starts no other workflow, so start the site deploy directly
+          gh workflow run deploy.yml --ref master
+          echo "ancestor days published: $SUMMARY"
