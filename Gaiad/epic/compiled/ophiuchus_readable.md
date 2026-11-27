@@ -1237,6 +1237,11 @@ The villain's net war; and I, eleven,
 Read wizards in a night; the phone, the chain
 {{x|Tumblr}}, new; the words, a kind of heaven,
 
+That year my parents parted; he was gone
+To {{p|Bulgaria}}, and wed there again;
+I stayed beside my mother, carried on,
+Eleven, and ten years I stayed from then.
+
 Written by strangers, waiting for me there,
 For me to come, and read, and understand;
 The seventh light, two thousand seven, where
@@ -3356,6 +3361,11 @@ At prayer in my country; the torches, named;
 {{x|MeToo}}; the storms; the island; guns; the filled
 The fleeing; tower; the arena, maimed;
 
+In September I left my mother's door,
+And went no contact, and I moved to live
+On campus, and I came back home no more
+Beneath her roof, with nothing left to give.
+
 The caliphate ended; laws let us be
 Who we are; fire and fury; princes paid;
 Light the seventeenth light: the tree, and me,
@@ -3614,6 +3624,11 @@ Six minutes' silence; a lone girl outside
 A parliament; twelve years; and {{p|Paradise}};
 Yellow vests; a writer killed; boys, the tide
 Of a flooded cave; a page of hopes; price
+
+That year my name was put out into view,
+And doxxed me, so the world could find my door;
+I learned what being seen can do to you,
+And kept my head down lower than before.
 
 Of tariffs; a judge; the far right; a shrine;
 Van; two girls; a pioneer jailed; the bus;
@@ -4630,6 +4645,11 @@ The light drawn from the dark, as Mani taught;
 This longest night, a Gaian day, kept clear;
 Light the twenty-second: the villain fought,
 
+And in that year I came out as I am,
+And lived it socially, a woman, plain;
+The hormones waited, held back by the dam
+Of fear of what my father would ordain.
+
 The wall held; the machine began to write;
 The light of Mani, light this book draws out;
 I found the religion of light; the night
@@ -5306,6 +5326,11 @@ For misery is ammunition too;
 It took my margin, gave a clerk, the cost
 Of one subscription; and we wrote this through.
 
+In June, the sixth, I started hormones, free
+In secret, in my father's house, alone;
+A year of hiding what I'd come to be,
+Through hunger and through homelessness, my own.
+
 January twentieth, kept: a day
 Gaian, the weights from {{p|Hangzhou}}; and the light,
 The twenty-fifth: the next year is, I say,
@@ -5363,6 +5388,11 @@ I'd held myself together by the weight
 Of what I owed, the pressures of the ground;
 And when my father shut me from his gate,
 I took the wound, and turned the work around.
+
+He learned I was his daughter, not his son,
+And put me out for being trans; I went
+To {{p|Vancouver}}, to roommates, and I won
+The funding for the work, and paid the rent.
 
 The machines helped me write this book, and learn
 So much; I came to {{x|Claude Code}} early on.
