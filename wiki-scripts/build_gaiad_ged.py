@@ -804,6 +804,46 @@ def wikidata_first(lines, table):
     return res, True
 
 
+FAMILY_TREE_SURNAMES = Path(__file__).resolve().parent.parent / "wikibase" / "analysis" / "family_tree_surnames.tsv"
+_FT_KINDS = {"fs": "https://www.familysearch.org/tree/person/details/", "geni": "https://www.geni.com/profile/index/"}
+
+
+def family_tree_surnames():
+    """{(EXID type, id): (mode, value)} from inochi's scripts/family_tree_surnames.py: the surname her own trees mark,
+    for a primary name that has none. "mark": the NAME text with the surname marked (same words); "surn": the NAME
+    line is left as it is and the surname is a SURN under it, as Aster's Surn Alpha (Emma, 2026-10-29)."""
+    out = {}
+    if FAMILY_TREE_SURNAMES.exists():
+        for row in FAMILY_TREE_SURNAMES.read_text(encoding="utf-8").splitlines()[1:]:
+            kind, key, mode, value = (row.split("\t") + ["", "", "", ""])[:4]
+            if kind in _FT_KINDS and mode in ("mark", "surn") and value:
+                out[(_FT_KINDS[kind], key)] = (mode, value)
+    return out
+
+
+def family_tree_surname(lines, table):
+    """Apply the family-tree surname to a primary NAME with no surname marked; returns (lines, applied)."""
+    i = next((k for k, l in enumerate(lines) if l.startswith("1 NAME ")), None)
+    if i is None or "/" in lines[i]:
+        return lines, False
+    ids = [(b[7:].strip(), a[7:].strip()) for a, b in zip(lines, lines[1:]) if a.startswith("1 EXID ")]
+    hit = next((table[k] for k in ids if k in table), None)
+    if not hit:
+        return lines, False
+    mode, value = hit
+    j = i + 1
+    while j < len(lines) and not lines[j].startswith(("0 ", "1 ")):
+        j += 1
+    if any(l.startswith("2 SURN ") for l in lines[i:j]):
+        return lines, False
+    if mode == "mark":
+        if " ".join(value.replace("/", " ").split()) != " ".join(lines[i][7:].split()):
+            return lines, False
+        sur = re.search(r"/([^/]+)/", value).group(1)
+        return lines[:i] + [f"1 NAME {value}", f"2 SURN {sur}"] + lines[i + 1:], True
+    return lines[:i + 1] + [f"2 SURN {value}"] + lines[i + 1:], True
+
+
 # Primary names settled with Emma, by the record's Wikidata EXID (ancestry records only; a verse person keeps its tag).
 # Q29201, the Yellow Emperor (Emma, 2026-10-30, "Good"): /Jī/ Xuānyuán, TRAN /姬/ 轩辕; Gongsun Xuanyuan (Shiji: 姓公孙，
 # 名曰轩辕) as an AKA.
@@ -1506,7 +1546,8 @@ def build(out_path):
                         wanted.setdefault(q, []).append(x)
                     break
         joins = {xs[0]: q for q, xs in wanted.items() if len(xs) == 1}
-    n_cal = n_fs = n_en = n_wd = n_ident = 0
+    n_cal = n_fs = n_en = n_wd = n_ident = n_ft = 0
+    ft_table = family_tree_surnames()
     en_table = english_names()
     wd_table = wikidata_names()
     links = {}
@@ -1566,7 +1607,9 @@ def build(out_path):
                 lines, done = english_first(lines, en_table)
                 n_en += done
                 lines = fixed_primary_name(lines)
-        fixed = [ptr.sub(lambda m: imap.get(m.group(0)) or fmap.get(m.group(0)) or m.group(0), l) for l in lines]
+                lines, done = family_tree_surname(lines, ft_table)
+                n_ft += done
+        fixed =[ptr.sub(lambda m: imap.get(m.group(0)) or fmap.get(m.group(0)) or m.group(0), l) for l in lines]
         if tag == "INDI":   # a link to a family merged into F1 would otherwise appear twice
             fixed = [l for i, l in enumerate(fixed) if not l.startswith(("1 FAMC ", "1 FAMS ")) or l not in fixed[:i]]
         if tag == "FAM":   # children in the order the walk numbered them, oldest first
@@ -1662,7 +1705,7 @@ def build(out_path):
     stats = {"text individuals": n_text, "ancestry individuals": n - n_text, "families": nf,
              "text individuals with resolved features": n_resolved_text[0],
              "ancestors newly joined to order.life": len(joins), "calendar notes from the tree's own dates": n_cal,
-             "link notes newly naming FamilySearch": n_fs, "CJK first names given an English primary name": n_en, "primary names from Wikidata": n_wd,
+             "link notes newly naming FamilySearch": n_fs, "CJK first names given an English primary name": n_en, "primary names from Wikidata": n_wd, "family-tree surnames": n_ft,
              "ancestry records given order.life's current Wikidata id and name": n_ident}
     if feats:
         stats.update({f"feature: {k}": v for k, v in sorted(feats.counts.items())})
