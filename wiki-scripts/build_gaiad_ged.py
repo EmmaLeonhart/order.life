@@ -1350,6 +1350,10 @@ def build(out_path):
     add("0 HEAD")
     add("1 GEDC")
     add("2 VERS 7.0")
+    # The extension tags of the patronymics (patronymics()), declared as GEDCOM 7 asks.
+    add("1 SCHMA")
+    for t in ("_ROLE", "_PATR", "_MATR", "_FATH", "_MOTH"):
+        add(f"2 TAG {t} https://order.life/gedcom/{t}")
     add("1 SOUR ORDERLIFE")
     add("2 NAME The Gaiad - order.life")
     add(f"1 DATE {stamp.day} {['JAN','FEB','MAR','APR','MAY','JUN','JUL','AUG','SEP','OCT','NOV','DEC'][stamp.month-1]} {stamp.year}")
@@ -1690,6 +1694,8 @@ def build(out_path):
     w[:], person, prune_stats = split_and_prune(w, key_xref, n)
     w[:], scripture_stats = scripture_relations(w, key_xref, person)
     scripture_stats.update(prune_stats)
+    w[:], n_patr = patronymics(w)
+    scripture_stats["patronymic or matronymic surnames marked"] = n_patr
     add("0 TRLR")
     out_path = Path(out_path)
     out_path.parent.mkdir(parents=True, exist_ok=True)
@@ -1714,6 +1720,125 @@ def build(out_path):
     stats.update(legacy_stats)
     stats["bytes"] = out_path.stat().st_size
     return stats
+
+
+_PATRONYMIC_ENDINGS = ("sson", "son", "sen", "s", "sdotter", "dotter", "sdatter", "datter", "sdóttir", "dóttir",
+                       "dottir", "ovich", "evich", "ovitch", "ovna", "evna", "ovic", "ević", "ović")
+_DAUGHTER = ("dotter", "datter", "dóttir", "dottir", "ovna", "evna")
+
+
+def _given_first_word(name_line):
+    text = name_line[7:].strip()
+    before = text.split("/")[0].split()
+    return before[0].strip(",.;:'\"()") if before else ""
+
+
+def _named_after(surname, parent_given):
+    """True where the surname is the parent's given name with a patronymic ending: Anders -> Andersson, Andersdotter;
+    Gunder -> Gunderson; Ivan -> Ivanovich. The stem may drop the given name's last letter (Olav -> Olsen is not
+    caught, by design: only clear cases)."""
+    s, g = surname.lower(), parent_given.lower()
+    if len(g) < 2:
+        return False
+    for k in (len(g), len(g) - 1):
+        stem = g[:k]
+        if k >= 2 and s.startswith(stem) and s[len(stem):] in _PATRONYMIC_ENDINGS:
+            return True
+    return False
+
+
+def patronymics(w):
+    """Mark a primary surname that is a patronymic or matronymic as such (Emma, 2026-10-30: "a patronymic can be a
+    surname ... a custom tag that says that it is a patronymic ... underscore PATR or underscore MATR"). Only where
+    the record itself shows it: the surname is the father's (or mother's) given name with a patronymic ending, so a
+    hereditary Andersson whose father is not an Anders is left alone. Layout (the one in queue.md since 2026-10-30;
+    the _FATH/_MOTH part decided by the session on 2026-11-27 when Emma said to get on with the work):
+        1 NAME Magnus /Magnusson/
+        2 SURN Magnusson
+        3 _ROLE patronymic
+        2 _PATR Magnusson
+        3 _FATH Magnus
+    and _MATR with _MOTH for a matronymic. Returns (lines, count)."""
+    starts = [i for i, l in enumerate(w) if l.startswith("0 ")]
+    starts.append(len(w))
+    recs = {}
+    for a, b in zip(starts, starts[1:]):
+        parts = w[a].split()
+        if len(parts) >= 3 and parts[2] in ("INDI", "FAM"):
+            recs[parts[1]] = (parts[2], a, b)
+    first_name, sex = {}, {}
+    for x, (tag, a, b) in recs.items():
+        if tag == "INDI":
+            nl = next((w[k] for k in range(a + 1, b) if w[k].startswith("1 NAME ")), None)
+            if nl:
+                first_name[x] = (_given_first_word(nl), nl)
+            sex[x] = next((w[k][6:].strip() for k in range(a + 1, b) if w[k].startswith("1 SEX ")), "")
+    # How each given name is sexed across the whole file: a mother called Pehr or a father called Helga is most often a
+    # SEX error in the tree, so the parent's SEX is used only where it agrees with most bearers of the name.
+    by_name = {}
+    for x, (g, _) in first_name.items():
+        if sex.get(x) in ("M", "F"):
+            c = by_name.setdefault(g.lower(), {"M": 0, "F": 0})
+            c[sex[x]] += 1
+    def usual_sex(g):
+        c = by_name.get(g.lower(), {"M": 0, "F": 0})
+        return "M" if c["M"] > c["F"] else "F" if c["F"] > c["M"] else ""
+    parents = {}
+    for x, (tag, a, b) in recs.items():
+        if tag == "FAM":
+            h = next((w[k][7:].strip() for k in range(a + 1, b) if w[k].startswith("1 HUSB ")), None)
+            f = next((w[k][7:].strip() for k in range(a + 1, b) if w[k].startswith("1 WIFE ")), None)
+            parents[x] = (h, f)
+    inserts = {}   # line index -> lines to put after it
+    roles = {}
+    n = 0
+    for x, (tag, a, b) in recs.items():
+        if tag != "INDI" or x not in first_name:
+            continue
+        nl = first_name[x][1]
+        m = re.search(r"/([^/]+)/", nl)
+        if not m or " " in m.group(1).strip():
+            continue
+        sur = m.group(1).strip()
+        fams = [w[k][7:].strip() for k in range(a + 1, b) if w[k].startswith("1 FAMC ")]
+        hit = None
+        for fam in fams:
+            # by the parent's own SEX, not the family slot (some trees put a father under WIFE): a male parent's
+            # name makes a patronymic, a female parent's a matronymic; a parent of unknown sex is not used
+            for par in parents.get(fam, (None, None)):
+                if par in first_name and _named_after(sur, first_name[par][0])                         and sex.get(par) == usual_sex(first_name[par][0]):
+                    if sex.get(par) == "M":
+                        hit = ("patronymic", "_PATR", "_FATH", first_name[par][0])
+                    elif sex.get(par) == "F":
+                        hit = ("matronymic", "_MATR", "_MOTH", first_name[par][0])
+                    if hit:
+                        break
+            if hit:
+                break
+        if not hit:
+            continue
+        i = next(k for k in range(a + 1, b) if w[k] == nl)
+        j = i + 1
+        while j < b and not w[j].startswith(("0 ", "1 ")):
+            j += 1
+        if any(w[k].startswith(("2 _PATR ", "2 _MATR ")) for k in range(i, j)):
+            continue
+        s_line = next((k for k in range(i + 1, j) if w[k] == f"2 SURN {sur}"), None)
+        role, ptag, ptag2, given = hit
+        if s_line is None:
+            inserts.setdefault(i, []).extend([f"2 SURN {sur}", f"3 _ROLE {role}"])
+        else:
+            roles[s_line] = f"3 _ROLE {role}"
+        inserts.setdefault(j - 1, []).extend([f"2 {ptag} {sur}", f"3 {ptag2} {given}"])
+        n += 1
+    out = []
+    for k, l in enumerate(w):
+        out.append(l)
+        if k in roles:
+            out.append(roles[k])
+        if k in inserts:
+            out.extend(inserts[k])
+    return out, n
 
 
 def next_free(path):
