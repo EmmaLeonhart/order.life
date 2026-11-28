@@ -38,6 +38,8 @@ restored on the pattern of their dynasty and marked as a restoration.
 
 ## Christian or Muslim names for Chinese emperors
 
+**Deeds or name: whichever is more notable** (Emma, 2026-11-27 ~19:5x BCDT, asked whether the name comes from the emperor's deeds or from the meaning of his own name): "it should be from whichever one's more notable [...] because we're essentially constructing this thing more or less from scratch [...] We don't need to be ultra systematic about it. Whichever one is more notable."
+
 A baptismal-style name chosen from the saint or prophet whose day or story is nearest the emperor's
 recorded deeds, in the neo-kun'yomi table where the root is there (`neo-kunyomi-names.md`).
 
