@@ -87,6 +87,7 @@ Her words, same session notes.
   manufacturing the other religious groups already being within this ontology. As again, like everyone's the same
   religion."
 - It goes with section 8: a community that makes its practice public "get[s] money too".
+- Whom first (Emma, 2026-11-27 ~19:5x BCDT): "Probably Christian groups [...] with a preference for ones that have like a historical thing, owning historical buildings and stuff like that. Owning historical buildings and stuff like that is generally like the important thing." Not the Catholic Church: "the Catholic Church is generally well funded enough that it can maintain things pretty well on its own." "Christian groups in North America, because they tend to have most of the heritage buildings, with Jewish groups to some extent being present." "Islamic groups are like don't really have a massive amount of history." "Any kinds of really small, obscure ones that are kind of struggling might be worth helping, but [...] it's not the biggest priority." "Shinto is a thing to do in Japan, but like we're not in Japan."
 
 ## 10) One religion, one culture, and the institutions that tried (Emma, 2026-10-13)
 Her words, from the same session (parent repo `research/psilocybin-sessions-ideas.md`).
